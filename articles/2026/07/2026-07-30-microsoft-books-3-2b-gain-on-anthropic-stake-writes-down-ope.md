@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
 - 2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne
 - 2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai
+- 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
 embedding_id: 2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Microsoft’s latest quarterly results showed a $3.2B gain from its Anthropic in
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne]] · [[2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai]]
+**Related:** [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne]] · [[2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai]] · [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc
-- 2026-05-18-ai-coding-agents-2026-cursor-github-copilot-replit-lead-ente
 - 2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr
 - 2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso
+- 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
 embedding_id: 2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con
 event_name: ''
 ---
@@ -39,5 +39,5 @@ StartupHub.ai's 2026 ranking of the top 20 coding agents confirms Cursor, GitHub
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-18-ai-coding-agents-2026-cursor-github-copilot-replit-lead-ente]] · [[2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr]] · [[2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso]]
+**Related:** [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr]] · [[2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]]
 <!-- graph:end -->

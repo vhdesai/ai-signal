@@ -21,8 +21,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-01-sam-altman-promotes-chatgpt-for-parenting-and-draws-public-b
 - 2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol
+- 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
 embedding_id: 2026-08-01-sam-altman-continues-pitching-chatgpt-as-a-family-and-parent
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TechCrunch reported that Sam Altman promoted a use case in which ChatGPT Work co
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-01-sam-altman-promotes-chatgpt-for-parenting-and-draws-public-b]] · [[2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol]]
+**Related:** [[2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]]
 <!-- graph:end -->

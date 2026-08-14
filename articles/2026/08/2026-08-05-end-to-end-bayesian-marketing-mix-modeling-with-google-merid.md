@@ -20,9 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6
 - 2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and
 - 2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi
-- 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
 - 2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin
 embedding_id: 2026-08-05-end-to-end-bayesian-marketing-mix-modeling-with-google-merid
 event_name: ''
@@ -37,5 +37,5 @@ A technical walkthrough builds a complete Bayesian marketing-mix-modeling pipeli
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and]] · [[2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin]]
+**Related:** [[2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6]] · [[2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and]] · [[2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi]] · [[2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin]]
 <!-- graph:end -->

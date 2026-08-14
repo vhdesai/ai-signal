@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-25-general-intuition-raises-320m-to-train-agents-on-video-game
 - 2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
+- 2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua
 - 2026-08-12-cognition-reportedly-in-talks-to-raise-at-a-40b-valuation
-- 2026-07-17-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti
 embedding_id: 2026-06-25-general-intuition-raises-320m-series-a-at-a-2-3b-valuation-t
 event_name: ''
 ---
@@ -38,5 +38,5 @@ York lab General Intuition closed a $320 million Series A at a $2.3 billion valu
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-25-general-intuition-raises-320m-to-train-agents-on-video-game]] · [[2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-12-cognition-reportedly-in-talks-to-raise-at-a-40b-valuation]] · [[2026-07-17-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti]]
+**Related:** [[2026-06-25-general-intuition-raises-320m-to-train-agents-on-video-game]] · [[2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua]] · [[2026-08-12-cognition-reportedly-in-talks-to-raise-at-a-40b-valuation]]
 <!-- graph:end -->

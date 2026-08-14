@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class
-- 2026-07-15-asml-raises-2026-guidance-again-on-strong-ai-chip-demand-and
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
 - 2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models
+- 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival
 embedding_id: 2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes
 event_name: ''
 ---
@@ -38,5 +38,5 @@ U.S. officials reportedly suggested that ASML’s most advanced chipmaking tool 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class]] · [[2026-07-15-asml-raises-2026-guidance-again-on-strong-ai-chip-demand-and]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]] · [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]]
+**Related:** [[2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]] · [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival]]
 <!-- graph:end -->

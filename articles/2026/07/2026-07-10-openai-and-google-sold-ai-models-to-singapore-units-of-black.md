@@ -28,8 +28,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese
-- 2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan
-- 2026-07-16-microsoft-is-reportedly-training-sales-teams-to-compete-more
+- 2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv
 - 2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models
 embedding_id: 2026-07-10-openai-and-google-sold-ai-models-to-singapore-units-of-black
 event_name: ''
@@ -44,5 +43,5 @@ OpenAI and Google were reported to have supplied advanced AI services to Singapo
 
 **Entities:** [[Alibaba]] · [[Baidu]] · [[Google]] · [[OpenAI]] · [[Tencent]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese]] · [[2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan]] · [[2026-07-16-microsoft-is-reportedly-training-sales-teams-to-compete-more]] · [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]]
+**Related:** [[2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese]] · [[2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv]] · [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]]
 <!-- graph:end -->

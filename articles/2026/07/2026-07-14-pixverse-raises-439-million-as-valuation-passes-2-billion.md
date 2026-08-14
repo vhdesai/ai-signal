@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b
 - 2026-07-14-video-generation-startup-pixverse-raises-439m-at-a-2b-valuat
+- 2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation
 embedding_id: 2026-07-14-pixverse-raises-439-million-as-valuation-passes-2-billion
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Singapore-based video-generation startup PixVerse closed a Series C extension, b
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b]] · [[2026-07-14-video-generation-startup-pixverse-raises-439m-at-a-2b-valuat]]
+**Related:** [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b]] · [[2026-07-14-video-generation-startup-pixverse-raises-439m-at-a-2b-valuat]] · [[2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation]]
 <!-- graph:end -->

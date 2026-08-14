@@ -33,8 +33,8 @@ related_article_ids:
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 - 2026-08-13-daily-ai-news-digest-august-14-2026
+- 2026-07-09-anthropic-openai-and-spacex-are-bigger-than-the-last-25-year
 - 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
-- 2026-08-08-daily-ai-news-digest-august-8-2026
 embedding_id: 2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed
 event_name: ''
 ---
@@ -48,5 +48,5 @@ Model cadence tightening: Anthropic, OpenAI, and xAI all pushed meaningful upgra
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[DeepSeek]] · [[Huawei]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-08-13-daily-ai-news-digest-august-14-2026]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]]
+**Related:** [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-08-13-daily-ai-news-digest-august-14-2026]] · [[2026-07-09-anthropic-openai-and-spacex-are-bigger-than-the-last-25-year]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]]
 <!-- graph:end -->

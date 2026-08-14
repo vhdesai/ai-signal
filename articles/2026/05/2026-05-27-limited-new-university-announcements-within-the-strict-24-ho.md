@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university
 - 2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b
 - event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o
-- 2026-05-09-universities-monitored-uc-berkeley-stanford-mit-purdue-georg
+- 2026-05-24-uc-berkeley-law-tightens-ai-rules-without-banning-the-techno
 embedding_id: 2026-05-27-limited-new-university-announcements-within-the-strict-24-ho
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Limited new university announcements within the strict 24-hour window — Variou
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university]] · [[2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b]] · [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o]] · [[2026-05-09-universities-monitored-uc-berkeley-stanford-mit-purdue-georg]]
+**Related:** [[2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university]] · [[2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b]] · [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o]] · [[2026-05-24-uc-berkeley-law-tightens-ai-rules-without-banning-the-techno]]
 <!-- graph:end -->

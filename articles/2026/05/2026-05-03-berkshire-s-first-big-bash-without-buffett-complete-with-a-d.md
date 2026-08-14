@@ -6,32 +6,32 @@ source: Business Insider
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-05-04_082406_Inbox_Daily AI News Digest –– May 4,
-  2026 (Updated- May 3–4 only).md
-content_hash: db871611221fb47fae5f48fb0d7512d66e648321af3b794745cbcd620580e59e
+digest_source: digests\raw\2026-05-04_081856_Inbox_Daily AI News Digest –– May 4,
+  2026.md
+content_hash: 3bf1f0ddd86d7f793e619ce05e2833803fd91e4f4199756b05f9c00f79afc6a8
 normalized_title_hash: 6ebc5bbbd96d85a7
 canonical_url_hash: ''
 tags:
 - Trending
-entities: []
+entities:
+- Microsoft
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids:
-- 2026-05-04-business-insider-reported-from-omaha-on-berkshire-hathaway-s
+related_article_ids: []
 embedding_id: 2026-05-03-berkshire-s-first-big-bash-without-buffett-complete-with-a-d
 event_name: ''
 ---
 
 # Berkshire's first big bash without Buffett — complete with a deepfake cameo
 
-# Berkshire's first big bash without Buffett — complete with a deepfake cameo
+Business Insider reported from Omaha on Berkshire Hathaway's first annual meeting since Warren Buffett stepped down as CEO — an event whose “sparkle” attendees said had dimmed. A deepfake Buffett crashed the company's first Q&A without him, a small but symbolic data point for how synthetic media is now showing up at marquee corporate events. Sources cited above; please refer to original publications for full reporting. Compiled for Vik Desai · Corp Dev, Microsoft.
 
 <!-- graph:start -->
 ## Connections
 
+**Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-04-business-insider-reported-from-omaha-on-berkshire-hathaway-s]]
 <!-- graph:end -->

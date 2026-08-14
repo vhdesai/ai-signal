@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
 - 2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and
 - 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
+- 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen
-- 2026-05-29-two-speeds-of-learning-a-unified-lens-on-grokking-and-double
 embedding_id: 2026-05-05-newarxiv-polynomial-time-optimal-group-selection-via-double
 event_name: ''
 ---
@@ -34,5 +34,5 @@ A new "algebraic diversity" framework replaces temporal averaging across multipl
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen]] · [[2026-05-29-two-speeds-of-learning-a-unified-lens-on-grokking-and-double]]
+**Related:** [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen]]
 <!-- graph:end -->

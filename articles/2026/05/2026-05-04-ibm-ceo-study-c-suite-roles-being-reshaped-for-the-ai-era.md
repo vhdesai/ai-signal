@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o
-- 2026-05-04-trendingibm-study-76-of-ceos-now-have-a-chief-ai-officer-up
 - 2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap
-- 2026-05-22-ceo-satya-nadella-is-reshaping-microsoft-s-upper-echelons-fo
-- 2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale
+- 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
+- 2026-05-18-mustafa-suleiman-microsoft-s-ai-chief-stated-today-that-most
+- 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
+- 2026-05-05-ibm-watsonx-orchestrate-unified-ai-agent-management
 embedding_id: 2026-05-04-ibm-ceo-study-c-suite-roles-being-reshaped-for-the-ai-era
 event_name: ''
 ---
@@ -37,5 +37,5 @@ IBM's CEO study finds C-suite roles are being restructured around AI accountabil
 
 **Entities:** [[IBM]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o]] · [[2026-05-04-trendingibm-study-76-of-ceos-now-have-a-chief-ai-officer-up]] · [[2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap]] · [[2026-05-22-ceo-satya-nadella-is-reshaping-microsoft-s-upper-echelons-fo]] · [[2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale]]
+**Related:** [[2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-05-18-mustafa-suleiman-microsoft-s-ai-chief-stated-today-that-most]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-05-05-ibm-watsonx-orchestrate-unified-ai-agent-management]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference
 - 2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu
 - 2026-05-18-apple-revamps-siri-with-on-device-privacy-as-its-differentia
-- 2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications
 embedding_id: 2026-05-28-apple-prepares-renewed-push-for-on-device-ai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Information reported that Apple plans to emphasize AI that runs on devices r
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[2026-05-18-apple-revamps-siri-with-on-device-privacy-as-its-differentia]] · [[2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri]]
+**Related:** [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[2026-05-18-apple-revamps-siri-with-on-device-privacy-as-its-differentia]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications]]
 <!-- graph:end -->

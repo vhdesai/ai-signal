@@ -27,11 +27,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-07-xai-officially-rebrands-as-spacexai-completing-merger-into-s
 - 2026-07-07-july-7-2026
+- 2026-07-31-ai-at-the-collision-of-capability-and-reality
 - 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
-- 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
-- 2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o
-- 2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed
+- 2026-05-15-reporting-from-may-14-confirms-that-elon-musk-s-spacexai-the
 embedding_id: 2026-07-07-cost-compute-and-consolidation-set-the-tone
 event_name: ''
 ---
@@ -45,5 +45,5 @@ The last 24 hours were dominated by the economics of the AI buildout rather than
 
 **Entities:** [[DeepSeek]] · [[Microsoft]] · [[OpenAI]] · [[Samsung]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-07-july-7-2026]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]] · [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]]
+**Related:** [[2026-07-07-xai-officially-rebrands-as-spacexai-completing-merger-into-s]] · [[2026-07-07-july-7-2026]] · [[2026-07-31-ai-at-the-collision-of-capability-and-reality]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-05-15-reporting-from-may-14-confirms-that-elon-musk-s-spacexai-the]]
 <!-- graph:end -->

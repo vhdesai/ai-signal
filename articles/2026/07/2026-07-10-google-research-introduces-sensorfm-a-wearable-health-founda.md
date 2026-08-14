@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-04-03-google-research-released-timesfm-time-series-foundation-mode
 - 2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
+- 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 embedding_id: 2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Google Research unveiled SensorFM, a foundation model for wearable health pretra
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-22-google-health-first-cross-modality-foundation-model-for-wear]] · [[2026-04-03-google-research-released-timesfm-time-series-foundation-mode]] · [[2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]]
+**Related:** [[2026-05-22-google-health-first-cross-modality-foundation-model-for-wear]] · [[2026-04-03-google-research-released-timesfm-time-series-foundation-mode]] · [[2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]]
 <!-- graph:end -->

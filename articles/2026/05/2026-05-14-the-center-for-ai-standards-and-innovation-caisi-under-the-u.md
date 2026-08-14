@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment
-- 2026-05-14-u-s-government-formalizes-pre-deployment-ai-evaluations-cais
 - 2026-05-18-the-us-center-for-ai-standards-and-innovation-caisi-part-of
 - 2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai
+- 2026-05-16-the-commerce-department-announced-amended-partnerships-with
 embedding_id: 2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The Center for AI Standards and Innovation (CAISI), under the U.S. Department of
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment]] · [[2026-05-14-u-s-government-formalizes-pre-deployment-ai-evaluations-cais]] · [[2026-05-18-the-us-center-for-ai-standards-and-innovation-caisi-part-of]] · [[2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai]]
+**Related:** [[2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment]] · [[2026-05-18-the-us-center-for-ai-standards-and-innovation-caisi-part-of]] · [[2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai]] · [[2026-05-16-the-commerce-department-announced-amended-partnerships-with]]
 <!-- graph:end -->

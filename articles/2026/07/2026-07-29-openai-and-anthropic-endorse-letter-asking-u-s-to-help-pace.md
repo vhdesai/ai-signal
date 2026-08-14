@@ -22,6 +22,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin
 - 2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption
@@ -39,5 +40,5 @@ More than 1,100 executives and employees across leading AI companies signed a le
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]]
+**Related:** [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]] · [[2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]]
 <!-- graph:end -->

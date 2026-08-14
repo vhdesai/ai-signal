@@ -23,7 +23,8 @@ related_article_ids:
 - 2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta
 - 2026-07-25-wsj-investigation-chatbots-coaxed-into-detailed-weapons-inst
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
-- 2026-07-16-microsoft-nature-health-analyzes-1-7m-copilot-health-convers
+- 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
+- 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
 embedding_id: 2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac
 event_name: ''
 ---
@@ -36,5 +37,5 @@ research found that AI-powered chatbots correctly answer everyday health questio
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta]] · [[2026-07-25-wsj-investigation-chatbots-coaxed-into-detailed-weapons-inst]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-07-16-microsoft-nature-health-analyzes-1-7m-copilot-health-convers]]
+**Related:** [[2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta]] · [[2026-07-25-wsj-investigation-chatbots-coaxed-into-detailed-weapons-inst]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]] · [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]]
 <!-- graph:end -->

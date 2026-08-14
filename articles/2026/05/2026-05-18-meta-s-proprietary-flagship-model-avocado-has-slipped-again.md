@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-08-meta-s-next-generation-frontier-model-codenamed-avocado-has
-- 2026-05-08-meta-avocado-delayed-again-internal-tests-show-performance-b
 - 2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud
-- 2026-03-13-meta-said-to-push-back-launch-of-avocado-model-2026-03-13-th
+- 2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built
+- 2026-04-06-axios-reported-that-meta-is-developing-open-source-variants
 embedding_id: 2026-05-18-meta-s-proprietary-flagship-model-avocado-has-slipped-again
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta's proprietary flagship model "Avocado" has slipped again — now targeting 
 
 **Entities:** [[DeepSeek]] · [[Meta]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-08-meta-s-next-generation-frontier-model-codenamed-avocado-has]] · [[2026-05-08-meta-avocado-delayed-again-internal-tests-show-performance-b]] · [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]] · [[2026-03-13-meta-said-to-push-back-launch-of-avocado-model-2026-03-13-th]]
+**Related:** [[2026-05-08-meta-s-next-generation-frontier-model-codenamed-avocado-has]] · [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]] · [[2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built]] · [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]]
 <!-- graph:end -->

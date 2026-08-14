@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
-- 2026-05-08-hyperscaler-custom-chips-begin-displacing-nvidia-revenue-as
 - 2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve
 - 2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi
+- 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 embedding_id: 2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia
 event_name: ''
 ---
@@ -40,5 +40,5 @@ TechCrunch reported that Amazon is in talks to sell its AI chips to other data-c
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-05-08-hyperscaler-custom-chips-begin-displacing-nvidia-revenue-as]] · [[2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve]] · [[2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi]]
+**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve]] · [[2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]]
 <!-- graph:end -->

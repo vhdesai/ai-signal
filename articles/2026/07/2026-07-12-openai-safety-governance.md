@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-13_060546_Inbox_Daily AI News Digest - July 13,
   2026.md
-content_hash: f0fcb871e2db5529b84835101b2c39c67f0c387e9acd1516b47cda973a79abc6
+content_hash: 236d0872c9787ad16eb887dcd3aa0ffb05e9e9d703348bc488ea16ece6ea395a
 normalized_title_hash: 0b3c6cb5ce2a012e
 canonical_url_hash: ''
 tags: []
@@ -33,7 +33,7 @@ event_name: ''
 
 # OPENAI SAFETY GOVERNANCE
 
-Business Insider reports that leaders responsible for AI safety at OpenAI continue to depart. The issue is important because the company is simultaneously expanding model capability, enterprise deployment, and government-facing work. Continued safety-team turnover may increase external scrutiny over governance, release discipline, and institutional continuity. URL not verified.
+Business Insider reports that leaders responsible for AI safety at OpenAI continue to depart. The issue is important because the company is simultaneously expanding model capability, enterprise deployment, and government-facing work. Continued safety-team turnover may increase external scrutiny over governance, release discipline, and institutional continuity.
 
 <!-- graph:start -->
 ## Connections

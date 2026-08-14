@@ -25,7 +25,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-openai-preparing-confidential-s-1-targeting-1t-ipo-valuation
-- 2026-05-26-openai-filed-a-confidential-s-1-with-goldman-sachs-and-morga
 - 2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio
 - 2026-05-22-openai-files-s-1-targeting-september-ipo-at-1t-valuation
 embedding_id: 2026-05-26-openai-confirmed-its-confidential-s-1-filing-with-the-sec-on
@@ -41,5 +40,5 @@ OpenAI confirmed its confidential S-1 filing with the SEC on Friday May 22, with
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-25-openai-preparing-confidential-s-1-targeting-1t-ipo-valuation]] · [[2026-05-26-openai-filed-a-confidential-s-1-with-goldman-sachs-and-morga]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]] · [[2026-05-22-openai-files-s-1-targeting-september-ipo-at-1t-valuation]]
+**Related:** [[2026-05-25-openai-preparing-confidential-s-1-targeting-1t-ipo-valuation]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]] · [[2026-05-22-openai-files-s-1-targeting-september-ipo-at-1t-valuation]]
 <!-- graph:end -->

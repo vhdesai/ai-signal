@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you
 - 2026-06-30-cursor-puts-agentic-coding-on-the-iphone
 - 2026-06-30-anysphere-released-cursor-s-first-iphone-and-ipad-app-in-pub
-- 2026-06-30-cursor-launches-a-native-ios-app-for-steering-coding-agents
-- 2026-06-30-cursor-launches-its-first-native-ios-app-for-steering-coding
+- 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
+- 2026-05-16-elon-musk-s-xai-is-pursuing-a-three-way-alliance-with-french
 embedding_id: 2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anysphere's Cursor released Cursor Mobile, an iOS app that lets developers spin 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you]] · [[2026-06-30-cursor-puts-agentic-coding-on-the-iphone]] · [[2026-06-30-anysphere-released-cursor-s-first-iphone-and-ipad-app-in-pub]] · [[2026-06-30-cursor-launches-a-native-ios-app-for-steering-coding-agents]] · [[2026-06-30-cursor-launches-its-first-native-ios-app-for-steering-coding]]
+**Related:** [[2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you]] · [[2026-06-30-cursor-puts-agentic-coding-on-the-iphone]] · [[2026-06-30-anysphere-released-cursor-s-first-iphone-and-ipad-app-in-pub]] · [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]] · [[2026-05-16-elon-musk-s-xai-is-pursuing-a-three-way-alliance-with-french]]
 <!-- graph:end -->

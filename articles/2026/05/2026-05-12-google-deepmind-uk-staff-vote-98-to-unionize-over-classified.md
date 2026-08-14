@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a
 - 2026-05-09-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a
-- 2026-05-21-in-a-historic-vote-google-deepmind-uk-employees-voted-98-in
-- 2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-first-union-at
+- 2026-05-05-google-deepmind-london-staff-vote-to-unionize-over-military
+- 2026-05-14-in-a-historic-vote-google-deepmind-uk-employees-approved-uni
 embedding_id: 2026-05-12-google-deepmind-uk-staff-vote-98-to-unionize-over-classified
 event_name: ''
 ---
@@ -37,5 +37,5 @@ DeepMind UK staff voted 98% to unionize, citing a classified military AI contrac
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]]
-**Related:** [[2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a]] · [[2026-05-09-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a]] · [[2026-05-21-in-a-historic-vote-google-deepmind-uk-employees-voted-98-in]] · [[2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-first-union-at]]
+**Related:** [[2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a]] · [[2026-05-09-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a]] · [[2026-05-05-google-deepmind-london-staff-vote-to-unionize-over-military]] · [[2026-05-14-in-a-historic-vote-google-deepmind-uk-employees-approved-uni]]
 <!-- graph:end -->

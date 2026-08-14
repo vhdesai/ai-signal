@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-28-paul-meade-apple-vp-of-hardware-engineering-for-the-vision-p
-- 2026-06-28-apple-s-vision-pro-hardware-chief-paul-meade-departs-for-ope
 - 2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker
-- 2026-08-02-hugging-face-ceo-uses-face-the-nation-to-press-openai-for-10
+- 2026-06-26-daily-ai-news-digest-june-26-2026
 - 2026-08-06-google-centralizes-ai-leadership-at-mountain-view-in-post-ha
+- 2026-06-18-openai-hires-senior-public-company-operators-ahead-of-expect
 embedding_id: 2026-06-26-openai-hires-apple-s-vision-pro-and-smart-glasses-chief-paul
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Paul Meade, the Apple vice president who led the Vision Pro headset and smart-gl
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-28-paul-meade-apple-vp-of-hardware-engineering-for-the-vision-p]] · [[2026-06-28-apple-s-vision-pro-hardware-chief-paul-meade-departs-for-ope]] · [[2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker]] · [[2026-08-02-hugging-face-ceo-uses-face-the-nation-to-press-openai-for-10]] · [[2026-08-06-google-centralizes-ai-leadership-at-mountain-view-in-post-ha]]
+**Related:** [[2026-06-28-paul-meade-apple-vp-of-hardware-engineering-for-the-vision-p]] · [[2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker]] · [[2026-06-26-daily-ai-news-digest-june-26-2026]] · [[2026-08-06-google-centralizes-ai-leadership-at-mountain-view-in-post-ha]] · [[2026-06-18-openai-hires-senior-public-company-operators-ahead-of-expect]]
 <!-- graph:end -->

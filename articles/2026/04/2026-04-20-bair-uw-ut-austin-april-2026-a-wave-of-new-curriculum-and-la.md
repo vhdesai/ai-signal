@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-20-uc-berkeley-uw-ut-austin-add-new-ai-programs-and-labs
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 - 2026-04-20-mit-news-bair-cmu-april-17-19-2026-academic-labs-posted-new
 - 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
 - 2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights
+- 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
 embedding_id: 2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la
 event_name: ''
 ---
@@ -38,5 +38,5 @@ BAIR / UW / UT Austin • April 2026 A wave of new curriculum and lab announceme
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-04-20-uc-berkeley-uw-ut-austin-add-new-ai-programs-and-labs]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-04-20-mit-news-bair-cmu-april-17-19-2026-academic-labs-posted-new]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]]
+**Related:** [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-04-20-mit-news-bair-cmu-april-17-19-2026-academic-labs-posted-new]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]]
 <!-- graph:end -->

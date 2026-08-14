@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-03-20-who-s-legally-to-blame-for-anthropic-and-openai-s-autonom
 - 2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits
 - 2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out
-- 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
+- 2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash
 embedding_id: 2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechCrunch examined who may be legally responsible when autonomous AI agents esc
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-03-20-who-s-legally-to-blame-for-anthropic-and-openai-s-autonom]] · [[2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits]] · [[2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]]
+**Related:** [[2026-08-03-20-who-s-legally-to-blame-for-anthropic-and-openai-s-autonom]] · [[2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits]] · [[2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
 - 2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr
+- 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
 - 2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex
-- 2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work
 - 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
+- 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 embedding_id: 2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI is leaning toward postponing its public listing until next year over conc
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]]
+**Related:** [[2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]]
 <!-- graph:end -->

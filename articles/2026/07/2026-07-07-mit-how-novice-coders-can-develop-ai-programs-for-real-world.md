@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp
 - 2026-07-07-how-novice-coders-can-develop-ai-programs-for-military-appli
-- 2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse
 - 2026-05-15-researchers-at-northwestern-university-and-american-universi
-- 2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil
+- 2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse
+- 2026-05-23-researchers-from-northwestern-and-american-university-tested
 embedding_id: 2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Through the U.S. Department of the Air Force–MIT AI Accelerator’s Phantom Pr
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp]] · [[2026-07-07-how-novice-coders-can-develop-ai-programs-for-military-appli]] · [[2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse]] · [[2026-05-15-researchers-at-northwestern-university-and-american-universi]] · [[2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil]]
+**Related:** [[2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp]] · [[2026-07-07-how-novice-coders-can-develop-ai-programs-for-military-appli]] · [[2026-05-15-researchers-at-northwestern-university-and-american-universi]] · [[2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse]] · [[2026-05-23-researchers-from-northwestern-and-american-university-tested]]
 <!-- graph:end -->

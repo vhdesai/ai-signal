@@ -27,10 +27,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-tuesday-august-4-2026-prepared-for-senior-technology-leaders
-- 2026-07-27-ai-capital-cycle-hits-new-highs-as-the-first-autonomous-ai-b
 - 2026-08-11-daily-ai-news-digest-august-11-2026
 - 2026-08-09-daily-ai-news-digest-august-10-2026
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
+- 2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky
 embedding_id: 2026-08-04-wednesday-august-5-2026-prepared-for-senior-technology-leade
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Today’s cycle was defined by agentic-AI security moving from theory to disclos
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-03-tuesday-august-4-2026-prepared-for-senior-technology-leaders]] · [[2026-07-27-ai-capital-cycle-hits-new-highs-as-the-first-autonomous-ai-b]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-08-09-daily-ai-news-digest-august-10-2026]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]]
+**Related:** [[2026-08-03-tuesday-august-4-2026-prepared-for-senior-technology-leaders]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-08-09-daily-ai-news-digest-august-10-2026]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky]]
 <!-- graph:end -->

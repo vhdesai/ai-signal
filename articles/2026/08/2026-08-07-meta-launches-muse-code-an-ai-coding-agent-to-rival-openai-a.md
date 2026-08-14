@@ -23,9 +23,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 - 2026-08-05-meta-launches-muse-code-a-terminal-coding-agent-for-large-re
-- 2026-08-05-meta-debuts-muse-code-and-muse-spark-1-2-entering-the-coding
 embedding_id: 2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a
 event_name: ''
 ---
@@ -39,5 +37,5 @@ Meta launched Muse Code, an AI coding agent aimed squarely at OpenAI’s Codex a
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-08-05-meta-launches-muse-code-a-terminal-coding-agent-for-large-re]] · [[2026-08-05-meta-debuts-muse-code-and-muse-spark-1-2-entering-the-coding]]
+**Related:** [[2026-08-05-meta-launches-muse-code-a-terminal-coding-agent-for-large-re]]
 <!-- graph:end -->

@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
-- 2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1
 - 2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves
 - 2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr
 - 2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the
+- 2026-07-31-openai-crosses-1-billion-users-after-cutting-gpt-5-6-prices
 embedding_id: 2026-08-12-openai-business-revenue-surges-32-month-on-month-in-july
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI’s run-rate revenue from business customers increased 32% month-on-month
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]] · [[2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1]] · [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr]] · [[2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the]]
+**Related:** [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]] · [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr]] · [[2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the]] · [[2026-07-31-openai-crosses-1-billion-users-after-cutting-gpt-5-6-prices]]
 <!-- graph:end -->

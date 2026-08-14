@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-18-microsoft-ai-chief-suleiman-most-office-jobs-automated-withi
 - 2026-05-18-trending-microsoft-ai-chief-suleyman-white-collar-jobs-could
 - 2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu
 - 2026-07-06-microsoft-cuts-4-800-roles-citing-ai-driven-changes-to-work
 - 2026-07-06-microsoft-eliminates-4-800-roles-as-ai-reshapes-how-work-get
+- 2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye
 embedding_id: 2026-05-18-mustafa-suleiman-microsoft-s-ai-chief-stated-today-that-most
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Mustafa Suleiman, Microsoft's AI Chief, stated today that most professional offi
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-microsoft-ai-chief-suleiman-most-office-jobs-automated-withi]] · [[2026-05-18-trending-microsoft-ai-chief-suleyman-white-collar-jobs-could]] · [[2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu]] · [[2026-07-06-microsoft-cuts-4-800-roles-citing-ai-driven-changes-to-work]] · [[2026-07-06-microsoft-eliminates-4-800-roles-as-ai-reshapes-how-work-get]]
+**Related:** [[2026-05-18-trending-microsoft-ai-chief-suleyman-white-collar-jobs-could]] · [[2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu]] · [[2026-07-06-microsoft-cuts-4-800-roles-citing-ai-driven-changes-to-work]] · [[2026-07-06-microsoft-eliminates-4-800-roles-as-ai-reshapes-how-work-get]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye]]
 <!-- graph:end -->

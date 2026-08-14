@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea
 - 2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast
 - 2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c
-- 2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision
 - 2026-08-11-zuckerberg-publishes-3-500-word-manifesto-on-open-ai-and-per
+- 2026-08-10-zuckerberg-publishes-a-6-500-word-case-for-broadly-distribut
 embedding_id: 2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen
 event_name: ''
 ---
@@ -40,5 +40,5 @@ WSJ reports that Meta CEO Mark Zuckerberg argued the U.S. should accelerate AI d
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea]] · [[2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast]] · [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c]] · [[2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision]] · [[2026-08-11-zuckerberg-publishes-3-500-word-manifesto-on-open-ai-and-per]]
+**Related:** [[2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea]] · [[2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast]] · [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c]] · [[2026-08-11-zuckerberg-publishes-3-500-word-manifesto-on-open-ai-and-per]] · [[2026-08-10-zuckerberg-publishes-a-6-500-word-case-for-broadly-distribut]]
 <!-- graph:end -->

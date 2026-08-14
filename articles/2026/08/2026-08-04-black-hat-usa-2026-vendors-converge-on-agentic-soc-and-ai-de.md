@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors
 - 2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial
+- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications
 - 2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac
-- 2026-05-01-4-hardware-geopolitics
 embedding_id: 2026-08-04-black-hat-usa-2026-vendors-converge-on-agentic-soc-and-ai-de
 event_name: ''
 ---
@@ -35,5 +35,5 @@ The second wave of Black Hat USA vendor announcements centered almost entirely o
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors]] · [[2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial]] · [[2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac]] · [[2026-05-01-4-hardware-geopolitics]]
+**Related:** [[2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors]] · [[2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications]] · [[2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac]]
 <!-- graph:end -->

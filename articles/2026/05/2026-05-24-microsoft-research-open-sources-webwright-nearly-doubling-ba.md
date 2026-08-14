@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-24-microsoft-research-releases-webwright-a-terminal-native-web
 - 2026-05-24-microsoft-research-releases-webwright-terminal-native-web-ag
-- 2026-05-26-microsoft-research-shipped-webwright-a-terminal-native-agent
 - 2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope
+- 2026-05-23-microsoft-research-released-fara1-5-an-open-weight-family-of
 embedding_id: 2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft Research released Webwright, a terminal-native web-agent framework, sc
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-24-microsoft-research-releases-webwright-a-terminal-native-web]] · [[2026-05-24-microsoft-research-releases-webwright-terminal-native-web-ag]] · [[2026-05-26-microsoft-research-shipped-webwright-a-terminal-native-agent]] · [[2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope]]
+**Related:** [[2026-05-24-microsoft-research-releases-webwright-a-terminal-native-web]] · [[2026-05-24-microsoft-research-releases-webwright-terminal-native-web-ag]] · [[2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope]] · [[2026-05-23-microsoft-research-released-fara1-5-an-open-weight-family-of]]
 <!-- graph:end -->

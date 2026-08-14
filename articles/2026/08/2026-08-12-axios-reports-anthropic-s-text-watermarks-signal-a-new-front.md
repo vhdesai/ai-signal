@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-08-12_060916_Inbox_Daily AI News Digest - August 12,
   2026.md
-content_hash: 36f540fc88dbb541ecb29b7f173f25dec9623affceebcf2afcb987e292f81149
+content_hash: f4136240c9f2f57a529bd2724a86607e1dc15b8e03e93094be87cf33ee3042c2
 normalized_title_hash: 3f9c7ff6006ab70e
 canonical_url_hash: ''
 tags: []
@@ -26,7 +26,7 @@ event_name: ''
 
 # Axios reports Anthropic's text watermarks signal a new front in AI detection
 
-Axios reported that Anthropic's text watermarking push is becoming part of a broader debate over AI detection and provenance. The strategic issue is not simply whether a watermark works in isolation, but whether model providers can create interoperable, durable signals that survive editing and adversarial use. For enterprises, provenance features may become relevant to content governance, auditability, and regulatory compliance, but reliability and ecosystem adoption remain open questions. URL not verified.
+Axios reported that Anthropic's text watermarking push is becoming part of a broader debate over AI detection and provenance. The strategic issue is not simply whether a watermark works in isolation, but whether model providers can create interoperable, durable signals that survive editing and adversarial use. For enterprises, provenance features may become relevant to content governance, auditability, and regulatory compliance, but reliability and ecosystem adoption remain open questions.
 
 <!-- graph:start -->
 ## Connections

@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
-- 2026-07-28-nvidia-s-circular-financing-draws-scrutiny-as-chip-stocks-se
+- 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
 - 2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
 embedding_id: 2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade
@@ -38,5 +38,5 @@ Nvidia has shed roughly $1 trillion in market value since its May 14 high and no
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]] · [[2026-07-28-nvidia-s-circular-financing-draws-scrutiny-as-chip-stocks-se]] · [[2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]]
+**Related:** [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]] · [[2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]]
 <!-- graph:end -->

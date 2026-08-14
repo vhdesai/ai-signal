@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t
 - 2026-07-28-data-centers-may-face-temporary-power-cuts-on-the-largest-us
 - 2026-07-13-infrastructure-local-policy-data-centers
-- 2026-07-15-york-becomes-the-first-u-s-state-to-pause-approvals-for-new
+- 2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions
 embedding_id: 2026-08-04-texas-pauses-new-data-center-approvals-pending-a-statewide-g
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Texas directed regulators to audit data centers seeking grid interconnection, ef
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-04-texas-pauses-new-data-center-approvals-pending-statewide-gri]] · [[2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t]] · [[2026-07-28-data-centers-may-face-temporary-power-cuts-on-the-largest-us]] · [[2026-07-13-infrastructure-local-policy-data-centers]] · [[2026-07-15-york-becomes-the-first-u-s-state-to-pause-approvals-for-new]]
+**Related:** [[2026-08-04-texas-pauses-new-data-center-approvals-pending-statewide-gri]] · [[2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t]] · [[2026-07-28-data-centers-may-face-temporary-power-cuts-on-the-largest-us]] · [[2026-07-13-infrastructure-local-policy-data-centers]] · [[2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-06-amd-acquires-taalas-to-hardwire-models-into-silicon
-- 2026-08-06-amd-acquires-taalas-to-hard-wire-ai-models-into-silicon
 - 2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon
 - 2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in
 - 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
+- 2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts
 embedding_id: 2026-08-06-amd-acquires-taalas-to-hard-wire-ai-models-directly-into-sil
 event_name: ''
 ---
@@ -39,5 +39,5 @@ AMD has agreed to acquire Taalas, a Toronto startup that builds custom chips aro
 
 **Entities:** [[AMD]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-amd-acquires-taalas-to-hardwire-models-into-silicon]] · [[2026-08-06-amd-acquires-taalas-to-hard-wire-ai-models-into-silicon]] · [[2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon]] · [[2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]]
+**Related:** [[2026-08-06-amd-acquires-taalas-to-hardwire-models-into-silicon]] · [[2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon]] · [[2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts]]
 <!-- graph:end -->

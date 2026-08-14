@@ -20,8 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-16-mit-disclosed-a-20-decline-in-incoming-graduate-students-a-s
-- 2026-04-01-mit-study-compute-scale-not-proprietary-techniques-drives-80
+- 2026-04-10-mit-economics-faculty-have-published-analysis-examining-how
 - 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
+- 2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas
 - 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
 embedding_id: 2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr
 event_name: ''
@@ -35,5 +36,5 @@ Reporting from the Schmidt Sciences AI2050 convening details how university AI f
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-16-mit-disclosed-a-20-decline-in-incoming-graduate-students-a-s]] · [[2026-04-01-mit-study-compute-scale-not-proprietary-techniques-drives-80]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]]
+**Related:** [[2026-05-16-mit-disclosed-a-20-decline-in-incoming-graduate-students-a-s]] · [[2026-04-10-mit-economics-faculty-have-published-analysis-examining-how]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]]
 <!-- graph:end -->

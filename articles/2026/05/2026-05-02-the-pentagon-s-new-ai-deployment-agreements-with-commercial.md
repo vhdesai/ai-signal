@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-02-pentagon-signs-ai-deployment-contracts-with-nvidia-microsoft
 - 2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws
 - 2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab
 - 2026-05-09-the-pentagon-signed-ai-deployment-agreements-with-eight-vend
-- 2026-05-01-4-hardware-geopolitics
+- 2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u
+- 2026-05-02-the-u-s-department-of-defense-has-expanded-its-ai-infrastruc
 embedding_id: 2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Pentagon's new AI deployment agreements with commercial vendors for classifi
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-02-pentagon-signs-ai-deployment-contracts-with-nvidia-microsoft]] · [[2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws]] · [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]] · [[2026-05-09-the-pentagon-signed-ai-deployment-agreements-with-eight-vend]] · [[2026-05-01-4-hardware-geopolitics]]
+**Related:** [[2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws]] · [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]] · [[2026-05-09-the-pentagon-signed-ai-deployment-agreements-with-eight-vend]] · [[2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u]] · [[2026-05-02-the-u-s-department-of-defense-has-expanded-its-ai-infrastruc]]
 <!-- graph:end -->

@@ -22,9 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-28-anthropic-says-claude-5-works-better-with-much-shorter-promp
 - 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
 - 2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r
+- 2026-07-28-anthropic-says-claude-5-works-better-with-much-shorter-promp
 - 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 embedding_id: 2026-07-28-anthropic-says-claude-5-performs-better-with-shorter-prompts
@@ -40,5 +40,5 @@ Anthropic guidance indicates Claude 5 produces stronger results with much shorte
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-28-anthropic-says-claude-5-works-better-with-much-shorter-promp]] · [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]] · [[2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
+**Related:** [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]] · [[2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r]] · [[2026-07-28-anthropic-says-claude-5-works-better-with-much-shorter-promp]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
 <!-- graph:end -->

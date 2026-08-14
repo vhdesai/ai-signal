@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-meta-s-proprietary-flagship-model-avocado-has-slipped-again
-- 2026-05-08-meta-avocado-delayed-again-internal-tests-show-performance-b
 - 2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud
-- 2026-03-13-meta-said-to-push-back-launch-of-avocado-model-2026-03-13-th
-- 2026-04-06-model-releases
+- 2026-04-06-axios-reported-that-meta-is-developing-open-source-variants
+- 2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f
+- 2026-06-28-google-caps-meta-s-gemini-usage-as-compute-scarcity-bites
 embedding_id: 2026-05-08-meta-s-next-generation-frontier-model-codenamed-avocado-has
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta's next-generation frontier model, codenamed Avocado, has slipped again — 
 
 **Entities:** [[Google]] · [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-18-meta-s-proprietary-flagship-model-avocado-has-slipped-again]] · [[2026-05-08-meta-avocado-delayed-again-internal-tests-show-performance-b]] · [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]] · [[2026-03-13-meta-said-to-push-back-launch-of-avocado-model-2026-03-13-th]] · [[2026-04-06-model-releases]]
+**Related:** [[2026-05-18-meta-s-proprietary-flagship-model-avocado-has-slipped-again]] · [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]] · [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]] · [[2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f]] · [[2026-06-28-google-caps-meta-s-gemini-usage-as-compute-scarcity-bites]]
 <!-- graph:end -->

@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
 - 2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-an
+- 2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-wo
 embedding_id: 2026-05-19-google-deepmind-ships-gemini-omni-gemini-spark-and-gemini-3
 event_name: ''
 ---
@@ -37,5 +38,5 @@ At I/O 2026, Google launched Gemini Omni (a multimodal "world model" combining G
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at]] · [[2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl]] · [[2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-an]]
+**Related:** [[2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at]] · [[2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl]] · [[2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-an]] · [[2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-wo]]
 <!-- graph:end -->

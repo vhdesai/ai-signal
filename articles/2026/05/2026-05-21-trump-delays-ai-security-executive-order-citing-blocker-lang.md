@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut
 - 2026-05-23-president-trump-abruptly-canceled-a-ceremony-scheduled-to-si
+- 2026-05-21-trump-postpones-ai-executive-order-i-didn-t-like-certain-asp
 - 2026-05-22-president-trump-abruptly-canceled-the-signing-of-a-long-awai
 - 2026-05-22-trump-abruptly-cancels-ai-safety-testing-executive-order-sig
 embedding_id: 2026-05-21-trump-delays-ai-security-executive-order-citing-blocker-lang
@@ -37,5 +38,5 @@ President Trump delayed signing the long-anticipated AI security executive order
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut]] · [[2026-05-23-president-trump-abruptly-canceled-a-ceremony-scheduled-to-si]] · [[2026-05-22-president-trump-abruptly-canceled-the-signing-of-a-long-awai]] · [[2026-05-22-trump-abruptly-cancels-ai-safety-testing-executive-order-sig]]
+**Related:** [[2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut]] · [[2026-05-23-president-trump-abruptly-canceled-a-ceremony-scheduled-to-si]] · [[2026-05-21-trump-postpones-ai-executive-order-i-didn-t-like-certain-asp]] · [[2026-05-22-president-trump-abruptly-canceled-the-signing-of-a-long-awai]] · [[2026-05-22-trump-abruptly-cancels-ai-safety-testing-executive-order-sig]]
 <!-- graph:end -->

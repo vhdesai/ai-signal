@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-06-03_083329_Inbox_Daily AI News Digest – June 3,
   2026 (Updated).md
-content_hash: 42b3cc3b6f10026622ba10fbbbfc028b0ccc717d5deb6a76bc306a75e2376d01
+content_hash: aee260df7bce2b12e47358d3ab76f55fd33e23ec7cc44642d0b6450afb80c071
 normalized_title_hash: 607b2d7d6deff31b
 canonical_url_hash: ''
 tags:
@@ -21,23 +21,23 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership
-- 2026-07-22-microsoft-and-mistral-expand-european-sovereign-compute-part
 - 2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands
-- 2026-07-20-mistral-microsoft-partnership-coverage-reinforces-regional-a
-- 2026-07-21-mistral-microsoft-partnership-coverage-reinforces-regional-a
+- 2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air
+- 2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop
+- 2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec
+- 2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f
 embedding_id: 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
 event_name: ''
 ---
 
 # Airbus Partners with Mistral AI for Sovereign AI in Defense and Design
 
-Airbus announced a partnership with Mistral AI to deploy sovereign AI across aircraft design and defense operations. The deal reinforces Mistral’s positioning as the sovereign AI provider for European institutions requiring on-premises, EU-jurisdiction model hosting. URL not verified.
+Airbus announced a partnership with Mistral AI to deploy sovereign AI across aircraft design and defense operations. The deal reinforces Mistral’s positioning as the sovereign AI provider for European institutions requiring on-premises, EU-jurisdiction model hosting.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Mistral]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership]] · [[2026-07-22-microsoft-and-mistral-expand-european-sovereign-compute-part]] · [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands]] · [[2026-07-20-mistral-microsoft-partnership-coverage-reinforces-regional-a]] · [[2026-07-21-mistral-microsoft-partnership-coverage-reinforces-regional-a]]
+**Related:** [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands]] · [[2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air]] · [[2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop]] · [[2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec]] · [[2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f]]
 <!-- graph:end -->

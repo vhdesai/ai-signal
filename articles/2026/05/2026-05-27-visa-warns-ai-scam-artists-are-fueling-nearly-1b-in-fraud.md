@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-28-visa-cuts-2-600-jobs-citing-ai-driven-efficiency
-- 2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending
-- 2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending
 - 2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast
 - 2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore
+- 2026-07-28-visa-cuts-2-600-jobs-7-of-workforce-citing-ai-efficiency
+- 2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target
 embedding_id: 2026-05-27-visa-warns-ai-scam-artists-are-fueling-nearly-1b-in-fraud
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Visa warned that AI scam artists are helping fuel nearly $1 billion in scams. Th
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-28-visa-cuts-2-600-jobs-citing-ai-driven-efficiency]] · [[2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending]] · [[2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending]] · [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]]
+**Related:** [[2026-07-28-visa-cuts-2-600-jobs-citing-ai-driven-efficiency]] · [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]] · [[2026-07-28-visa-cuts-2-600-jobs-7-of-workforce-citing-ai-efficiency]] · [[2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target]]
 <!-- graph:end -->

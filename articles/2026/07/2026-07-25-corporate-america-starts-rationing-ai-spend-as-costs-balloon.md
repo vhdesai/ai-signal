@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro
 - 2026-07-09-traditional-saas-loses-ground-as-corporate-ai-budgets-shift
-- 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
+- 2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model
 embedding_id: 2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Wall Street Journal reports that some enterprises exhausted annual AI budget
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro]] · [[2026-07-09-traditional-saas-loses-ground-as-corporate-ai-budgets-shift]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]]
+**Related:** [[2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro]] · [[2026-07-09-traditional-saas-loses-ground-as-corporate-ai-budgets-shift]] · [[2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model]]
 <!-- graph:end -->

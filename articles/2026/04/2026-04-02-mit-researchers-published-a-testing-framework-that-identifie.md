@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-04-mit-researchers-published-a-framework-for-auditing-ai-decisi
-- 2026-03-30-mit-released-a-testing-framework-identifying-when-ai-decisio
-- 2026-04-04-mit-publishes-testing-framework-for-evaluating-fairness-in-a
 - 2026-04-02-new-mit-releases-ai-fairness-evaluation-framework-apr-2-mit
-- 2026-04-02-mit-develops-framework-for-evaluating-ethics-in-autonomous-a
+- 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
+- 2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa
+- 2026-04-06-researchers-from-mit-and-the-university-of-washington-publis
 embedding_id: 2026-04-02-mit-researchers-published-a-testing-framework-that-identifie
 event_name: ''
 ---
@@ -39,5 +39,5 @@ MIT researchers published a testing framework that identifies when AI decision-s
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-04-mit-researchers-published-a-framework-for-auditing-ai-decisi]] · [[2026-03-30-mit-released-a-testing-framework-identifying-when-ai-decisio]] · [[2026-04-04-mit-publishes-testing-framework-for-evaluating-fairness-in-a]] · [[2026-04-02-new-mit-releases-ai-fairness-evaluation-framework-apr-2-mit]] · [[2026-04-02-mit-develops-framework-for-evaluating-ethics-in-autonomous-a]]
+**Related:** [[2026-04-04-mit-researchers-published-a-framework-for-auditing-ai-decisi]] · [[2026-04-02-new-mit-releases-ai-fairness-evaluation-framework-apr-2-mit]] · [[2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy]] · [[2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa]] · [[2026-04-06-researchers-from-mit-and-the-university-of-washington-publis]]
 <!-- graph:end -->

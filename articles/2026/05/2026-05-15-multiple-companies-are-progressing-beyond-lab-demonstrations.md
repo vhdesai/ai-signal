@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a
-- 2026-04-04-nvidia-national-robotics-week-physical-ai-enters-industrial
-- 2026-05-15-physical-ai-moves-closer-to-factory-floors-as-humanoid-robot
 - 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
 - 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
+- 2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea
+- 2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve
 embedding_id: 2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Multiple companies are progressing beyond lab demonstrations into real factory d
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]] · [[2026-04-04-nvidia-national-robotics-week-physical-ai-enters-industrial]] · [[2026-05-15-physical-ai-moves-closer-to-factory-floors-as-humanoid-robot]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]]
+**Related:** [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]] · [[2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea]] · [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve]]
 <!-- graph:end -->

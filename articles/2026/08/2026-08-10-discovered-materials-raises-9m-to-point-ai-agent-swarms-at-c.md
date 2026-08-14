@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co
 - 2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole
+- 2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
-- 2026-08-10-discovered-materials-applies-ai-to-the-search-for-cooler-run
-- 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
+- 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
 embedding_id: 2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Y Combinator–backed startup closed a $9 million seed round led by Lightspe
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co]] · [[2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-08-10-discovered-materials-applies-ai-to-the-search-for-cooler-run]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]]
+**Related:** [[2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co]] · [[2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole]] · [[2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]]
 <!-- graph:end -->

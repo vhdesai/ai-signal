@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-03-microsoft-launches-three-in-house-foundational-models-to-cha
 - 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
 - 2026-04-02-in-a-landmark-move-toward-ai-self-sufficiency-microsoft-toda
-- 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
+- 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
+- 2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour
 embedding_id: 2026-04-03-a-landmark-open-model-launch-from-google-microsoft-s-push-to
 event_name: ''
 ---
@@ -42,5 +42,5 @@ A landmark open-model launch from Google, Microsoft's push toward AI self-suffic
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-03-microsoft-launches-three-in-house-foundational-models-to-cha]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-04-02-in-a-landmark-move-toward-ai-self-sufficiency-microsoft-toda]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]]
+**Related:** [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-04-02-in-a-landmark-move-toward-ai-self-sufficiency-microsoft-toda]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]] · [[2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
-- 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
-- 2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po
+- 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
+- 2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr
 embedding_id: 2026-03-28-internal-documents-were-leaked-revealing-anthropic-s-next-ma
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Internal documents were leaked revealing Anthropic's next major model, codenamed
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po]]
+**Related:** [[2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude]] · [[2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr]]
 <!-- graph:end -->

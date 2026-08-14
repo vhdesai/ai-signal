@@ -25,7 +25,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-meta-to-move-in-house-iris-ai-chip-into-production-in-septem
-- 2026-07-09-daily-ai-news-digest-july-10-2026
+- 2026-06-24-qualcomm-enters-the-data-center-cpu-race-with-dragonfly-c100
 embedding_id: 2026-07-13-meta-readies-its-custom-iris-ai-chip-for-september-productio
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Internal documents show Meta plans to begin manufacturing its custom data-center
 
 **Entities:** [[AMD]] · [[Meta]] · [[NVIDIA]] · [[TSMC]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-meta-to-move-in-house-iris-ai-chip-into-production-in-septem]] · [[2026-07-09-daily-ai-news-digest-july-10-2026]]
+**Related:** [[2026-07-09-meta-to-move-in-house-iris-ai-chip-into-production-in-septem]] · [[2026-06-24-qualcomm-enters-the-data-center-cpu-race-with-dragonfly-c100]]
 <!-- graph:end -->

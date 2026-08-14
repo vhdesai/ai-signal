@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-30-amazon-explores-openai-and-other-vendors-as-anthropic-moves
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 - 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
-- 2026-07-20-anthropic-changes-claude-fable-access-toward-metered-api-bil
 - 2026-04-06-anthropic-has-terminated-the-ability-to-use-claude-subscript
+- 2026-05-16-reports-emerged-650-hacker-news-upvotes-of-a-grey-market-ope
+- 2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude
 embedding_id: 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Amazon is evaluating cheaper alternatives — including OpenAI — after a reneg
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-30-amazon-explores-openai-and-other-vendors-as-anthropic-moves]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-07-20-anthropic-changes-claude-fable-access-toward-metered-api-bil]] · [[2026-04-06-anthropic-has-terminated-the-ability-to-use-claude-subscript]]
+**Related:** [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-04-06-anthropic-has-terminated-the-ability-to-use-claude-subscript]] · [[2026-05-16-reports-emerged-650-hacker-news-upvotes-of-a-grey-market-ope]] · [[2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol
 - 2026-08-04-anthropic-signs-reported-10b-six-year-compute-deal-with-nvid
-- 2026-08-04-anthropic-signs-10b-compute-agreement-with-ai-cloud-startup
 - 2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-volta
 - 2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-nvidia-backed
+- 2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai
 embedding_id: 2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu
 event_name: ''
 ---
@@ -40,5 +40,5 @@ TechCrunch reports that Anthropic signed a six-year, $10 billion cloud compute d
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol]] · [[2026-08-04-anthropic-signs-reported-10b-six-year-compute-deal-with-nvid]] · [[2026-08-04-anthropic-signs-10b-compute-agreement-with-ai-cloud-startup]] · [[2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-volta]] · [[2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-nvidia-backed]]
+**Related:** [[2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol]] · [[2026-08-04-anthropic-signs-reported-10b-six-year-compute-deal-with-nvid]] · [[2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-volta]] · [[2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-nvidia-backed]] · [[2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai]]
 <!-- graph:end -->

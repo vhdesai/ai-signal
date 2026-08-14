@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
-- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
-- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy
+- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview
 embedding_id: event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications
 event_name: Apple WWDC 2026 Preview
@@ -41,5 +41,5 @@ Apple's differentiation: Privacy, custom silicon, and local inference are Apple'
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]]
+**Related:** [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]]
 <!-- graph:end -->

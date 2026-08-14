@@ -22,7 +22,6 @@ dedupe_status: duplicate
 canonical_article_id: 2026-07-10-openai-introduces-chatgpt-work-as-a-gpt-5-6-powered-professi
 related_article_ids:
 - 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
-- 2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app
 embedding_id: 2026-07-10-openai-launches-chatgpt-work-agentic-assistant-and-gpt-live
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Alongside GPT-5.6, OpenAI released ChatGPT Work — an agent with built-in Codex
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-10-openai-introduces-chatgpt-work-as-a-gpt-5-6-powered-professi]]
-**Related:** [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]] · [[2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app]]
+**Related:** [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]]
 <!-- graph:end -->

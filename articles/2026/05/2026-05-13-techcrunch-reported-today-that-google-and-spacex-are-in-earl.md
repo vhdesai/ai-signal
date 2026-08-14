@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
-- 2026-05-13-report-google-and-spacex-in-talks-to-build-ai-data-centers-i
-- 2026-07-19-spacex-is-reportedly-building-an-ai-compute-business-that-co
 - 2026-08-04-spacex-revenue-nearly-doubles-on-ai-compute-deals-and-starli
 - 2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te
+- 2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio
+- 2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o
 embedding_id: 2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechCrunch reported today that Google and SpaceX are in early talks to co-develo
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-05-13-report-google-and-spacex-in-talks-to-build-ai-data-centers-i]] · [[2026-07-19-spacex-is-reportedly-building-an-ai-compute-business-that-co]] · [[2026-08-04-spacex-revenue-nearly-doubles-on-ai-compute-deals-and-starli]] · [[2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te]]
+**Related:** [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-08-04-spacex-revenue-nearly-doubles-on-ai-compute-deals-and-starli]] · [[2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te]] · [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio]] · [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]]
 <!-- graph:end -->

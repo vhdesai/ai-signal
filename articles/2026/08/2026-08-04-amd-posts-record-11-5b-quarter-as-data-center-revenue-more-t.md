@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-23-nvidia-posts-another-record-quarter-81-6b-revenue-forecasts
-- 2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j
 - 2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar
 - 2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient
+- 2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug
 - 2026-08-13-lenovo-posts-record-26-9b-quarter-as-ai-related-revenue-jump
+- 2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say
 embedding_id: 2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AMD reported record second-quarter revenue of $11.5 billion, up roughly 50% year
 
 **Entities:** [[AMD]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-nvidia-posts-another-record-quarter-81-6b-revenue-forecasts]] · [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j]] · [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]] · [[2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient]] · [[2026-08-13-lenovo-posts-record-26-9b-quarter-as-ai-related-revenue-jump]]
+**Related:** [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]] · [[2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient]] · [[2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug]] · [[2026-08-13-lenovo-posts-record-26-9b-quarter-as-ai-related-revenue-jump]] · [[2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say]]
 <!-- graph:end -->

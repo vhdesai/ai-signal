@@ -24,8 +24,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
+- event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
+- 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
 embedding_id: event-google-i-o-2026-google-i-o-2026-strategic-implications
 event_name: Google I/O 2026
 ---
@@ -39,5 +40,5 @@ Distribution advantage: Google's largest advantage is not one model release; it 
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[OpenAI]] · [[Samsung]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]]
+**Related:** [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]] · [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]]
 <!-- graph:end -->

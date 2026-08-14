@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-13-report-google-and-spacex-in-talks-to-build-ai-data-centers-i
 - 2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl
 - 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
 - 2026-08-04-spacex-revenue-nearly-doubles-on-ai-compute-deals-and-starli
 - 2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio
+- 2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te
 embedding_id: 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
 event_name: ''
 ---
@@ -40,5 +40,5 @@ TechCrunch reported Google and SpaceX are exploring orbital data centers for AI 
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-13-report-google-and-spacex-in-talks-to-build-ai-data-centers-i]] · [[2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-08-04-spacex-revenue-nearly-doubles-on-ai-compute-deals-and-starli]] · [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio]]
+**Related:** [[2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-08-04-spacex-revenue-nearly-doubles-on-ai-compute-deals-and-starli]] · [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio]] · [[2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te]]
 <!-- graph:end -->

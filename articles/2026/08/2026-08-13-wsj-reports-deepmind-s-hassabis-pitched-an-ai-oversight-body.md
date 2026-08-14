@@ -22,7 +22,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog
-- 2026-07-15-deepmind-ceo-demis-hassabis-proposes-an-independent-finra-st
 - 2026-08-06-demis-hassabis-named-alphabet-chief-scientist-koray-kavukcuo
 embedding_id: 2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body
 event_name: ''
@@ -37,5 +36,5 @@ The Wall Street Journal reported that Google DeepMind CEO Demis Hassabis pitched
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog]] · [[2026-07-15-deepmind-ceo-demis-hassabis-proposes-an-independent-finra-st]] · [[2026-08-06-demis-hassabis-named-alphabet-chief-scientist-koray-kavukcuo]]
+**Related:** [[2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog]] · [[2026-08-06-demis-hassabis-named-alphabet-chief-scientist-koray-kavukcuo]]
 <!-- graph:end -->

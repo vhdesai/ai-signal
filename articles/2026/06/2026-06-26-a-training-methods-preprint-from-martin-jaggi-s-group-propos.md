@@ -20,7 +20,6 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-26-improving-neural-network-training-by-decoupling-the-magnitud
 - 2026-08-06-apple-proposes-locking-pretrained-weights-to-limit-unauthori
 - 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
 - 2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-with
@@ -37,5 +36,5 @@ A training-methods preprint from Martin Jaggi’s group proposes decoupling the 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-26-improving-neural-network-training-by-decoupling-the-magnitud]] · [[2026-08-06-apple-proposes-locking-pretrained-weights-to-limit-unauthori]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]] · [[2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-with]] · [[2026-05-29-two-speeds-of-learning-a-representation-readout-decompositio]]
+**Related:** [[2026-08-06-apple-proposes-locking-pretrained-weights-to-limit-unauthori]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]] · [[2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-with]] · [[2026-05-29-two-speeds-of-learning-a-representation-readout-decompositio]]
 <!-- graph:end -->

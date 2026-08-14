@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
-- 2026-05-26-nvidia-s-china-retreat-huawei-on-track-for-60-of-domestic-ai
 - 2026-08-10-chinese-ai-labs-still-train-on-nvidia-switching-to-huawei-si
+- 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 embedding_id: 2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Nvidia shares dropped 3.1% to $217 as Washington signaled a review of how Chines
 
 **Entities:** [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]] · [[2026-05-26-nvidia-s-china-retreat-huawei-on-track-for-60-of-domestic-ai]] · [[2026-08-10-chinese-ai-labs-still-train-on-nvidia-switching-to-huawei-si]]
+**Related:** [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]] · [[2026-08-10-chinese-ai-labs-still-train-on-nvidia-switching-to-huawei-si]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]]
 <!-- graph:end -->

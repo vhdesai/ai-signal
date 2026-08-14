@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie
 - 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
-- 2026-04-23-microsoft-quietly-published-skala-1-1-to-hugging-face-joinin
 - 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
 - 2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie
+- 2026-05-22-microsoft-research-releases-fara1-5-browser-agent-family
 embedding_id: 2026-03-30-microsoft-open-sources-harrier-oss-v1-sota-multilingual-embe
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft released Harrier-OSS-v1, a family of three multilingual text embedding
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]] · [[2026-04-23-microsoft-quietly-published-skala-1-1-to-hugging-face-joinin]] · [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]] · [[2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie]]
+**Related:** [[2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]] · [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]] · [[2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie]] · [[2026-05-22-microsoft-research-releases-fara1-5-browser-agent-family]]
 <!-- graph:end -->

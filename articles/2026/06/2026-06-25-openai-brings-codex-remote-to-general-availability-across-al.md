@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-06-26_063915_Inbox_Daily AI News Digest - June 26,
   2026.md
-content_hash: e2f813befff7ff811806a2d42aba28dd400f1f3edbb7e2dc676a582fca439cc1
+content_hash: 0de76d029da9e131802cc8aec32041ffb773af5f043d37da7be3d18de4c63edc
 normalized_title_hash: 96365f25524c8a79
 canonical_url_hash: ''
 tags: []
@@ -30,7 +30,7 @@ event_name: ''
 
 # OpenAI brings Codex Remote to general availability across all ChatGPT plans
 
-OpenAI made Codex Remote generally available on every ChatGPT plan, letting users start or continue work on a connected Mac or Windows host and approve actions from the mobile app, with authenticated one-to-one QR device pairing. It also added a DigitalOcean Droplet Workspace plugin so Codex can provision and connect to a remote sandbox. The release deepens OpenAI’s push toward asynchronous, always-available coding agents as a default consumer-and-pro capability. URL not verified.
+OpenAI made Codex Remote generally available on every ChatGPT plan, letting users start or continue work on a connected Mac or Windows host and approve actions from the mobile app, with authenticated one-to-one QR device pairing. It also added a DigitalOcean Droplet Workspace plugin so Codex can provision and connect to a remote sandbox. The release deepens OpenAI’s push toward asynchronous, always-available coding agents as a default consumer-and-pro capability.
 
 <!-- graph:start -->
 ## Connections

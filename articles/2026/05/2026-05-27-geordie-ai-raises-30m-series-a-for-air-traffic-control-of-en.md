@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance
-- 2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled
-- 2026-07-31-groundcover-raises-100-million-for-in-cloud-ai-agent-telemet
-- 2026-06-25-general-intuition-raises-320m-to-train-agents-on-video-game
 - 2026-07-08-prime-intellect-raises-130m-series-a-to-help-enterprises-bui
+- 2026-06-25-general-intuition-raises-320m-to-train-agents-on-video-game
+- 2026-07-01-together-ai-raises-800m-series-c-at-an-8-3b-valuation
+- 2026-08-12-daily-ai-news-digest-august-13-2026
 embedding_id: 2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Geordie AI raised a $30M Series A to build observability and orchestration for t
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance]] · [[2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled]] · [[2026-07-31-groundcover-raises-100-million-for-in-cloud-ai-agent-telemet]] · [[2026-06-25-general-intuition-raises-320m-to-train-agents-on-video-game]] · [[2026-07-08-prime-intellect-raises-130m-series-a-to-help-enterprises-bui]]
+**Related:** [[2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance]] · [[2026-07-08-prime-intellect-raises-130m-series-a-to-help-enterprises-bui]] · [[2026-06-25-general-intuition-raises-320m-to-train-agents-on-video-game]] · [[2026-07-01-together-ai-raises-800m-series-c-at-an-8-3b-valuation]] · [[2026-08-12-daily-ai-news-digest-august-13-2026]]
 <!-- graph:end -->

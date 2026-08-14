@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-06-georgia-tech-introduces-sparse-attention-mechanism-cutting-t
 - 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
-- 2026-04-12-mit-csail-published-research-demonstrating-sparse-activation
 - 2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu
 - 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
+- 2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w
+- 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
 embedding_id: 2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A Georgia Tech team published a new sparse attention architecture that reduces i
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-06-georgia-tech-introduces-sparse-attention-mechanism-cutting-t]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]] · [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]]
+**Related:** [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]] · [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]] · [[2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]]
 <!-- graph:end -->

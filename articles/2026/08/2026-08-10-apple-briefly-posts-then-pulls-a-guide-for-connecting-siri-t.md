@@ -24,11 +24,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-16-apple-intelligence-is-approved-for-china-through-alibaba-qwe
-- 2026-07-15-the-information-reports-apple-received-approval-for-alibaba
-- 2026-07-15-china-clears-apple-intelligence-to-launch-on-alibaba-qwen
-- 2026-07-15-alibaba-shares-rise-as-china-clears-apple-intelligence-power
 - 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
+- 2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap
+- 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
+- 2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d
 embedding_id: 2026-08-10-apple-briefly-posts-then-pulls-a-guide-for-connecting-siri-t
 event_name: ''
 ---
@@ -42,5 +41,5 @@ Apple published and then quickly withdrew documentation describing how Siri conn
 
 **Entities:** [[Alibaba]] · [[Apple]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-16-apple-intelligence-is-approved-for-china-through-alibaba-qwe]] · [[2026-07-15-the-information-reports-apple-received-approval-for-alibaba]] · [[2026-07-15-china-clears-apple-intelligence-to-launch-on-alibaba-qwen]] · [[2026-07-15-alibaba-shares-rise-as-china-clears-apple-intelligence-power]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]]
+**Related:** [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]] · [[2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]] · [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]]
 <!-- graph:end -->

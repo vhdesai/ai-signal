@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-09-google-deepmind-s-alphaevolve-gemini-powered-coding-agent-sc
 - 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
 - 2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered
 - 2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc
+- 2026-05-05-per-the-stanford-ai-index-agentic-ai-benchmarks-saw-the-most
 embedding_id: 2026-05-09-google-deepmind-published-detailed-results-for-alphaevolve-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google DeepMind published detailed results for AlphaEvolve, a Gemini-powered aut
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-09-google-deepmind-s-alphaevolve-gemini-powered-coding-agent-sc]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered]] · [[2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc]]
+**Related:** [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered]] · [[2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc]] · [[2026-05-05-per-the-stanford-ai-index-agentic-ai-benchmarks-saw-the-most]]
 <!-- graph:end -->

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content
 - 2026-05-17-arxiv-the-world-s-largest-preprint-repository-announced-a-po
 - 2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti
-- 2026-05-17-arxiv-will-ban-authors-for-one-year-if-ai-writes-their-entir
+- 2026-05-18-arxiv-the-preprint-repository-that-serves-as-the-primary-dis
 embedding_id: 2026-05-16-arxiv-institutes-one-year-ban-for-papers-with-unchecked-ai-g
 event_name: ''
 ---
@@ -44,5 +44,5 @@ ArXiv — the primary preprint repository for computer science and mathematics �
 
 **Entities:** [[Google]] · [[Oracle]] · [[Palantir]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-16-arxiv-will-ban-authors-for-one-year-for-fully-ai-authored-pa]] · [[2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content]] · [[2026-05-17-arxiv-the-world-s-largest-preprint-repository-announced-a-po]] · [[2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti]] · [[2026-05-17-arxiv-will-ban-authors-for-one-year-if-ai-writes-their-entir]]
+**Related:** [[2026-05-16-arxiv-will-ban-authors-for-one-year-for-fully-ai-authored-pa]] · [[2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content]] · [[2026-05-17-arxiv-the-world-s-largest-preprint-repository-announced-a-po]] · [[2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti]] · [[2026-05-18-arxiv-the-preprint-repository-that-serves-as-the-primary-dis]]
 <!-- graph:end -->

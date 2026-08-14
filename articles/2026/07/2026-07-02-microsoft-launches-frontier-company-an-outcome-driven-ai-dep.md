@@ -18,8 +18,8 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed
+dedupe_status: canonical
+canonical_article_id: null
 related_article_ids:
 - 2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a
 - 2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0
@@ -36,6 +36,5 @@ Microsoft introduced Microsoft Frontier Company, a new operating business focuse
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed]]
 **Related:** [[2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a]] · [[2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0]]
 <!-- graph:end -->

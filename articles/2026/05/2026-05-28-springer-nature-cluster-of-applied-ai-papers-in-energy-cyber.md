@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
-- 2026-05-13-springer-communications-in-computer-and-information-science
 - 2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin
 - 2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr
-- 2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent
+- 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
+- 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
 embedding_id: 2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Springer's AI feed published several peer-reviewed papers, including "Explainabl
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-05-13-springer-communications-in-computer-and-information-science]] · [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr]] · [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]]
+**Related:** [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr]] · [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]]
 <!-- graph:end -->

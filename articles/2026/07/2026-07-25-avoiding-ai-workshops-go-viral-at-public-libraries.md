@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-25-librarians-host-viral-lsquo-avoiding-ai-rsquo-workshops-as-c
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-- 2026-07-06-if-you-use-google-you-re-training-its-ai-here-s-how-to-opt-o
+- 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
 embedding_id: 2026-07-25-avoiding-ai-workshops-go-viral-at-public-libraries
 event_name: ''
 ---
@@ -34,5 +34,5 @@ TechCrunch reports that librarians are hosting high-demand workshops teaching pe
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-25-librarians-host-viral-lsquo-avoiding-ai-rsquo-workshops-as-c]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-07-06-if-you-use-google-you-re-training-its-ai-here-s-how-to-opt-o]]
+**Related:** [[2026-07-25-librarians-host-viral-lsquo-avoiding-ai-rsquo-workshops-as-c]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]]
 <!-- graph:end -->

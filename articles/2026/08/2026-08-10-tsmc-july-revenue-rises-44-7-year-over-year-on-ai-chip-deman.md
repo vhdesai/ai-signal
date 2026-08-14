@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand
 - 2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi
 - 2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j
-- 2026-07-16-tsmc-posts-record-q2-revenue-and-77-profit-growth-on-ai-chip
+- 2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a
 embedding_id: 2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman
 event_name: ''
 ---
@@ -40,5 +40,5 @@ TSMC reported July revenue of NT$467.58 billion (about $14.5 billion), up 44.7% 
 
 **Entities:** [[Google]] · [[NVIDIA]] · [[TSMC]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand]] · [[2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi]] · [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j]] · [[2026-07-16-tsmc-posts-record-q2-revenue-and-77-profit-growth-on-ai-chip]]
+**Related:** [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand]] · [[2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi]] · [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j]] · [[2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a]]
 <!-- graph:end -->

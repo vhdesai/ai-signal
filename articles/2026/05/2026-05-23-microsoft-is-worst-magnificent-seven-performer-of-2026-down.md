@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel
 - 2026-05-28-microsoft-outperforms-in-holiday-shortened-magnificent-7-wee
-- 2026-07-30-microsoft-s-ai-bet-pushes-azure-past-a-100b-run-rate-as-clou
 - 2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co
 - 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
+- 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
 embedding_id: 2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Microsoft has lagged the rest of the Magnificent Seven this year even as its AI 
 
 **Entities:** [[IBM]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]] · [[2026-05-28-microsoft-outperforms-in-holiday-shortened-magnificent-7-wee]] · [[2026-07-30-microsoft-s-ai-bet-pushes-azure-past-a-100b-run-rate-as-clou]] · [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co]] · [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]]
+**Related:** [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]] · [[2026-05-28-microsoft-outperforms-in-holiday-shortened-magnificent-7-wee]] · [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co]] · [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]] · [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20]]
 <!-- graph:end -->

@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-16-wsj-pro-cybersecurity-2026-07-16-external-thirst-for-ai-push
-- 2026-08-11-wsj-pro-cybersecurity-2026-08-11-external-water-sector-now-s
-- 2026-07-13-wsj-pro-cybersecurity-2026-07-13-external-ai-vs
-- 2026-07-07-wsj-pro-cybersecurity-2026-07-07-external-ai-is-full-steam-a
 - 2026-05-13-unauthorized-ai-tool-breaches-bank-data-foxconn-confirms-cyb
+- 2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt
+- 2026-05-15-connected-car-data-attracts-hackers-invites-privacy-investig
+- 2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4
+- 2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi
 embedding_id: 2026-05-05-itron-hack-reaches-more-downstream-companies-than-initially
 event_name: ''
 ---
@@ -42,5 +42,5 @@ WSJ Pro reports the Itron utility-metering breach affected more downstream custo
 
 **Entities:** [[Google]] · [[IBM]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-16-wsj-pro-cybersecurity-2026-07-16-external-thirst-for-ai-push]] · [[2026-08-11-wsj-pro-cybersecurity-2026-08-11-external-water-sector-now-s]] · [[2026-07-13-wsj-pro-cybersecurity-2026-07-13-external-ai-vs]] · [[2026-07-07-wsj-pro-cybersecurity-2026-07-07-external-ai-is-full-steam-a]] · [[2026-05-13-unauthorized-ai-tool-breaches-bank-data-foxconn-confirms-cyb]]
+**Related:** [[2026-05-13-unauthorized-ai-tool-breaches-bank-data-foxconn-confirms-cyb]] · [[2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt]] · [[2026-05-15-connected-car-data-attracts-hackers-invites-privacy-investig]] · [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4]] · [[2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi]]
 <!-- graph:end -->

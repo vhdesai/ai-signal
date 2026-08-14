@@ -21,7 +21,6 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-08-openai-takes-gpt-5-6-sol-terra-luna-to-general-availability
 - 2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability
 - 2026-07-30-openai-cuts-gpt-5-6-api-pricing-up-to-80-and-adds-sol-fast
 embedding_id: 2026-08-03-aws-confirms-gpt-5-6-price-cuts-in-bedrock-weekly-roundup
@@ -37,5 +36,5 @@ AWS confirmed that GPT-5.6 Luna pricing in Amazon Bedrock was cut by 80%, with G
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-08-openai-takes-gpt-5-6-sol-terra-luna-to-general-availability]] · [[2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability]] · [[2026-07-30-openai-cuts-gpt-5-6-api-pricing-up-to-80-and-adds-sol-fast]]
+**Related:** [[2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability]] · [[2026-07-30-openai-cuts-gpt-5-6-api-pricing-up-to-80-and-adds-sol-fast]]
 <!-- graph:end -->

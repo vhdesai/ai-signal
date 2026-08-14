@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from
 - 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
 - 2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference
-- 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
+- 2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains
 embedding_id: 2026-06-19-elastic-reportedly-agrees-to-buy-deductive-ai-for-up-to-85m
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Elastic has reportedly agreed to acquire Deductive AI, a startup applying AI to 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]] · [[2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]]
+**Related:** [[2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]] · [[2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference]] · [[2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains]]
 <!-- graph:end -->

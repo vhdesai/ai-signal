@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-06-google-s-15b-india-ai-data-center-faces-water-and-wildlife-o
 - 2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud
 - 2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct
 - 2026-05-19-microsoft-india-s-largest-data-center-on-track-for-mid-2026
 - 2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers
+- 2026-08-10-australia-s-firmus-raises-2b-for-ai-data-centers-at-a-10-5b
 embedding_id: 2026-06-05-airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-indi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AirTrunk committed $30B+ to build 5GW of AI data center capacity in India by 203
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-06-google-s-15b-india-ai-data-center-faces-water-and-wildlife-o]] · [[2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud]] · [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-05-19-microsoft-india-s-largest-data-center-on-track-for-mid-2026]] · [[2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers]]
+**Related:** [[2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud]] · [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-05-19-microsoft-india-s-largest-data-center-on-track-for-mid-2026]] · [[2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers]] · [[2026-08-10-australia-s-firmus-raises-2b-for-ai-data-centers-at-a-10-5b]]
 <!-- graph:end -->

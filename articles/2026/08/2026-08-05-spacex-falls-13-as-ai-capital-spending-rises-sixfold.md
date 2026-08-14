@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-23-ahead-of-its-anticipated-ipo-spacex-has-signaled-to-prospect
 - 2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio
+- 2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq
 - 2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat
 - 2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget
+- 2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b
 embedding_id: 2026-08-05-spacex-falls-13-as-ai-capital-spending-rises-sixfold
 event_name: ''
 ---
@@ -37,5 +38,5 @@ SpaceX shares dropped 13% after earnings disclosed AI-related capital spending r
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-ahead-of-its-anticipated-ipo-spacex-has-signaled-to-prospect]] · [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio]] · [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]] · [[2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget]]
+**Related:** [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio]] · [[2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq]] · [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]] · [[2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget]] · [[2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b]]
 <!-- graph:end -->

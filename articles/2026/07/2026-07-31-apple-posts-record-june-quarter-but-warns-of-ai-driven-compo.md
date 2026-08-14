@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-30-apple-posts-record-109-4b-june-quarter-but-warns-ai-driven-c
 - 2026-07-30-apple-beats-but-guides-soft-in-tim-cook-s-final-quarter-as-c
 - 2026-07-30-apple-beats-on-revenue-but-guides-weak-as-memory-crunch-bite
-- 2026-04-17-apple-q2-fy26-revenue-111-2b-17-eps-2-01-22-iphone-56-99b-ma
+- 2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall
 embedding_id: 2026-07-31-apple-posts-record-june-quarter-but-warns-of-ai-driven-compo
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Apple reported revenue of about $109.4B (+16%) with iPhone up 22%, but shares fe
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-apple-posts-record-109-4b-june-quarter-but-warns-ai-driven-c]] · [[2026-07-30-apple-beats-but-guides-soft-in-tim-cook-s-final-quarter-as-c]] · [[2026-07-30-apple-beats-on-revenue-but-guides-weak-as-memory-crunch-bite]] · [[2026-04-17-apple-q2-fy26-revenue-111-2b-17-eps-2-01-22-iphone-56-99b-ma]]
+**Related:** [[2026-07-30-apple-posts-record-109-4b-june-quarter-but-warns-ai-driven-c]] · [[2026-07-30-apple-beats-but-guides-soft-in-tim-cook-s-final-quarter-as-c]] · [[2026-07-30-apple-beats-on-revenue-but-guides-weak-as-memory-crunch-bite]] · [[2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall]]
 <!-- graph:end -->

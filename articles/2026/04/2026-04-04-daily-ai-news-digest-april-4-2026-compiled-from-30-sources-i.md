@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-02-daily-ai-news-digest-april-2-2026-sources-wsj-techcrunch-ai
 - 2026-04-20-daily-ai-news-digest-prepared-april-20-2026
 - 2026-05-18-daily-ai-news-digest-compiled-may-18-2026-sources-techcrunch
 - 2026-04-06-this-digest-was-compiled-from-37-verified-sources-covering-n
-- 2026-04-16-source-techcrunch-april-16-2026
+- 2026-03-28-about-this-digest-compiled-from-public-sources-including-tec
+- 2026-07-09-news-research-outlets-wsj-marktechpost-techcrunch-ai-venture
 embedding_id: 2026-04-04-daily-ai-news-digest-april-4-2026-compiled-from-30-sources-i
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Daily AI News Digest — April 4, 2026 | Compiled from 30+ sources including Ven
 
 **Entities:** [[Google]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-02-daily-ai-news-digest-april-2-2026-sources-wsj-techcrunch-ai]] · [[2026-04-20-daily-ai-news-digest-prepared-april-20-2026]] · [[2026-05-18-daily-ai-news-digest-compiled-may-18-2026-sources-techcrunch]] · [[2026-04-06-this-digest-was-compiled-from-37-verified-sources-covering-n]] · [[2026-04-16-source-techcrunch-april-16-2026]]
+**Related:** [[2026-04-20-daily-ai-news-digest-prepared-april-20-2026]] · [[2026-05-18-daily-ai-news-digest-compiled-may-18-2026-sources-techcrunch]] · [[2026-04-06-this-digest-was-compiled-from-37-verified-sources-covering-n]] · [[2026-03-28-about-this-digest-compiled-from-public-sources-including-tec]] · [[2026-07-09-news-research-outlets-wsj-marktechpost-techcrunch-ai-venture]]
 <!-- graph:end -->

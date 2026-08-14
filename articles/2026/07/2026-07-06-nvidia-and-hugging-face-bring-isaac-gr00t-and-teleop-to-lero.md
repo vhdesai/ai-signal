@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-06-nvidia-and-hugging-face-open-source-a-humanoid-robotics-stac
 - 2026-07-06-nvidia-and-hugging-face-bring-new-open-models-and-frameworks
-- 2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on
 - 2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model
 - 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
+- 2026-08-04-nvidia-opens-alpamayo-2-super-for-commercial-robotaxi-and-av
 embedding_id: 2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero
 event_name: ''
 ---
@@ -38,5 +38,5 @@ NVIDIA and Hugging Face are integrating NVIDIA's Isaac GR00T 1.7 vision-language
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-06-nvidia-and-hugging-face-open-source-a-humanoid-robotics-stac]] · [[2026-07-06-nvidia-and-hugging-face-bring-new-open-models-and-frameworks]] · [[2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on]] · [[2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]]
+**Related:** [[2026-07-06-nvidia-and-hugging-face-open-source-a-humanoid-robotics-stac]] · [[2026-07-06-nvidia-and-hugging-face-bring-new-open-models-and-frameworks]] · [[2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[2026-08-04-nvidia-opens-alpamayo-2-super-for-commercial-robotaxi-and-av]]
 <!-- graph:end -->

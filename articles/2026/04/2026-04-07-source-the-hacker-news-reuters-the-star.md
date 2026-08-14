@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
-- 2026-05-14-anthropic-s-claude-mythos-preview-project-glasswing-restrict
 - 2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
 - 2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000
+- 2026-05-26-anthropic-mythos-project-glasswing-reframed-as-boardroom-gra
 embedding_id: 2026-04-07-source-the-hacker-news-reuters-the-star
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic's Claude Mythos Preview — "Project Glasswing" Raises Alarms Anthropi
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]] · [[2026-05-14-anthropic-s-claude-mythos-preview-project-glasswing-restrict]] · [[2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000]]
+**Related:** [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]] · [[2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000]] · [[2026-05-26-anthropic-mythos-project-glasswing-reframed-as-boardroom-gra]]
 <!-- graph:end -->

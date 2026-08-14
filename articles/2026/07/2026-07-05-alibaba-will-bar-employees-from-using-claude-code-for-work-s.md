@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing
 - 2026-07-04-alibaba-added-anthropic-s-claude-code-to-a-high-risk-softwar
-- 2026-07-05-alibaba-reportedly-bans-employees-from-using-anthropic-s-cla
 - 2026-07-08-china-warns-of-a-security-backdoor-in-anthropic-s-claude-cod
+- 2026-07-08-china-flags-security-backdoor-in-anthropic-s-claude-code-ali
 embedding_id: 2026-07-05-alibaba-will-bar-employees-from-using-claude-code-for-work-s
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Alibaba will bar employees from using Claude Code for work starting July 10, cla
 
 **Entities:** [[Alibaba]] · [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing]] · [[2026-07-04-alibaba-added-anthropic-s-claude-code-to-a-high-risk-softwar]] · [[2026-07-05-alibaba-reportedly-bans-employees-from-using-anthropic-s-cla]] · [[2026-07-08-china-warns-of-a-security-backdoor-in-anthropic-s-claude-cod]]
+**Related:** [[2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing]] · [[2026-07-04-alibaba-added-anthropic-s-claude-code-to-a-high-risk-softwar]] · [[2026-07-08-china-warns-of-a-security-backdoor-in-anthropic-s-claude-cod]] · [[2026-07-08-china-flags-security-backdoor-in-anthropic-s-claude-code-ali]]
 <!-- graph:end -->

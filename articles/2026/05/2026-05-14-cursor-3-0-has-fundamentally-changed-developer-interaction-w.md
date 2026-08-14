@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code
 - 2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st
 - 2026-05-10-cursor-3-0-parallel-agent-coding-ide
-- 2026-05-14-cursor-3-0-launches-agents-window-parallel-ai-agents-for-com
 - 2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con
+- 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
 embedding_id: 2026-05-14-cursor-3-0-has-fundamentally-changed-developer-interaction-w
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Cursor 3.0 has fundamentally changed developer interaction with code by introduc
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code]] · [[2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]] · [[2026-05-14-cursor-3-0-launches-agents-window-parallel-ai-agents-for-com]] · [[2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con]]
+**Related:** [[2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code]] · [[2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]] · [[2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con]] · [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]]
 <!-- graph:end -->

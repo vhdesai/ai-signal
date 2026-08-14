@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
-- 2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati
-- 2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re
 - 2026-08-08-planned-amazon-data-center-could-become-the-largest-climate
-- 2026-07-15-state-local-data-center-permitting-backlash-becomes-a-materi
+- 2026-08-08-amazon-backs-a-7-65-gw-texas-gas-plant-to-power-a-hyperscale
+- 2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati
+- 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 embedding_id: 2026-08-07-how-amazon-built-a-data-center-in-a-california-town-without
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The WSJ reports on Amazon's stealth construction of a data center facility in a 
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]] · [[2026-08-08-planned-amazon-data-center-could-become-the-largest-climate]] · [[2026-07-15-state-local-data-center-permitting-backlash-becomes-a-materi]]
+**Related:** [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-08-08-planned-amazon-data-center-could-become-the-largest-climate]] · [[2026-08-08-amazon-backs-a-7-65-gw-texas-gas-plant-to-power-a-hyperscale]] · [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]]
 <!-- graph:end -->

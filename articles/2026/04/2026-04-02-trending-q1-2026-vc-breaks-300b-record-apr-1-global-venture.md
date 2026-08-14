@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-01-global-venture-investment-reached-297-billion-in-q1-2026-up
-- 2026-04-10-q1-2026-ai-vc-funding-breaks-all-records-242b-80-of-global-v
-- 2026-04-03-q1-2026-shatters-venture-records-300b-invested-globally-open
 - 2026-07-07-north-american-vc-hits-392b-in-h1-2026
-- 2026-04-02-q1-2026-venture-funding-hits-297-billion-an-all-time-record
+- 2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o
+- 2026-04-10-crunchbase-data-confirmed-q1-2026-as-the-largest-venture-cap
+- 2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai
 embedding_id: 2026-04-02-trending-q1-2026-vc-breaks-300b-record-apr-1-global-venture
 event_name: ''
 ---
@@ -37,5 +37,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-01-global-venture-investment-reached-297-billion-in-q1-2026-up]] · [[2026-04-10-q1-2026-ai-vc-funding-breaks-all-records-242b-80-of-global-v]] · [[2026-04-03-q1-2026-shatters-venture-records-300b-invested-globally-open]] · [[2026-07-07-north-american-vc-hits-392b-in-h1-2026]] · [[2026-04-02-q1-2026-venture-funding-hits-297-billion-an-all-time-record]]
+**Related:** [[2026-04-01-global-venture-investment-reached-297-billion-in-q1-2026-up]] · [[2026-07-07-north-american-vc-hits-392b-in-h1-2026]] · [[2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o]] · [[2026-04-10-crunchbase-data-confirmed-q1-2026-as-the-largest-venture-cap]] · [[2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai]]
 <!-- graph:end -->

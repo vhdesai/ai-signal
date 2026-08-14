@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-18-sam-altman-under-gop-and-sec-scrutiny-ahead-of-openai-ipo-su
 - 2026-05-13-sam-altman-s-personal-investments-prompt-gop-probe-sec-inves
 - 2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s
 - 2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children
+- 2026-06-12-state-attorneys-general-open-investigation-into-openai
 embedding_id: 2026-05-18-the-republican-led-house-oversight-committee-launched-an-inv
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Republican-led House Oversight Committee launched an investigation into Sam 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-18-sam-altman-under-gop-and-sec-scrutiny-ahead-of-openai-ipo-su]] · [[2026-05-13-sam-altman-s-personal-investments-prompt-gop-probe-sec-inves]] · [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children]]
+**Related:** [[2026-05-13-sam-altman-s-personal-investments-prompt-gop-probe-sec-inves]] · [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children]] · [[2026-06-12-state-attorneys-general-open-investigation-into-openai]]
 <!-- graph:end -->

@@ -22,6 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st
 related_article_ids:
 - 2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d
+- 2026-08-12-google-deepmind-leadership-shake-up-kavukcuoglu-takes-over-h
 embedding_id: 2026-08-06-jeff-dean-leaves-google-as-demis-hassabis-steps-aside-as-goo
 event_name: ''
 ---
@@ -36,5 +37,5 @@ In one of the most consequential leadership reshuffles in AI history, Google ann
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st]]
-**Related:** [[2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d]]
+**Related:** [[2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d]] · [[2026-08-12-google-deepmind-leadership-shake-up-kavukcuoglu-takes-over-h]]
 <!-- graph:end -->

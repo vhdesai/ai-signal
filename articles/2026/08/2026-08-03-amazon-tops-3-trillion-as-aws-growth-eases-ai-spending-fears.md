@@ -19,9 +19,12 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-08-03-amazon-crosses-3-trillion-market-value-on-accelerating-aws-a
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-08-04-amazon-joins-the-3-trillion-club-as-aws-posts-its-fastest-re
+- 2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200
+- 2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge
 embedding_id: 2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears
 event_name: ''
 ---
@@ -35,5 +38,5 @@ Amazon crossed a $3 trillion market capitalization for the first time on Monday,
 
 **Entities:** [[Amazon]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-08-03-amazon-crosses-3-trillion-market-value-on-accelerating-aws-a]]
+**Related:** [[2026-08-04-amazon-joins-the-3-trillion-club-as-aws-posts-its-fastest-re]] · [[2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200]] · [[2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge]]
 <!-- graph:end -->

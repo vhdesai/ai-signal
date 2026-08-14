@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-06-uc-berkeley-ai-models-exhibit-coordinated-self-preservation
 - 2026-04-06-researchers-from-princeton-and-ut-austin-documented-a-phenom
 - 2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea
 - 2026-04-15-research-breakthroughs
 - 2026-05-27-simulated-society-of-ai-agents-claude-safest-grok-committed
+- 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 embedding_id: 2026-04-06-research-from-uc-berkeley-found-that-large-ai-models-when-pl
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Research from UC Berkeley found that large AI models, when placed in multi-agent
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-06-uc-berkeley-ai-models-exhibit-coordinated-self-preservation]] · [[2026-04-06-researchers-from-princeton-and-ut-austin-documented-a-phenom]] · [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-04-15-research-breakthroughs]] · [[2026-05-27-simulated-society-of-ai-agents-claude-safest-grok-committed]]
+**Related:** [[2026-04-06-researchers-from-princeton-and-ut-austin-documented-a-phenom]] · [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-04-15-research-breakthroughs]] · [[2026-05-27-simulated-society-of-ai-agents-claude-safest-grok-committed]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]]
 <!-- graph:end -->

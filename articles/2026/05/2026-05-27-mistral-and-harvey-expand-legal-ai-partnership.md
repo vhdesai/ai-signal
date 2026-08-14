@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec
 - 2026-05-26-mistral-expands-harvey-partnership-to-1-500-legal-customers
 - 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu
-- 2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership
+- 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
 embedding_id: 2026-05-27-mistral-and-harvey-expand-legal-ai-partnership
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Mistral and legal-AI company Harvey are deepening their partnership to push Euro
 
 **Entities:** [[Mistral]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec]] · [[2026-05-26-mistral-expands-harvey-partnership-to-1-500-legal-customers]] · [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu]] · [[2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership]]
+**Related:** [[2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec]] · [[2026-05-26-mistral-expands-harvey-partnership-to-1-500-legal-customers]] · [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]]
 <!-- graph:end -->

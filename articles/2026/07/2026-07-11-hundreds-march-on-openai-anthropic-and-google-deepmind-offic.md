@@ -20,9 +20,14 @@ themes:
 - policy-regulation
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-07-11-200-protesters-march-on-openai-anthropic-and-google-deepmind
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de
+- 2026-07-11-200-protesters-march-on-openai-anthropic-and-google-deepmind
+- 2026-03-24-nearly-200-activists-from-pause-ai-and-quitgpt-marched-throu
+- 2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin
+- 2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools
 embedding_id: 2026-07-11-hundreds-march-on-openai-anthropic-and-google-deepmind-offic
 event_name: ''
 ---
@@ -36,5 +41,5 @@ Several hundred protesters gathered outside OpenAI's Mission Bay headquarters on
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Canonical:** [[2026-07-11-200-protesters-march-on-openai-anthropic-and-google-deepmind]]
+**Related:** [[2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de]] · [[2026-07-11-200-protesters-march-on-openai-anthropic-and-google-deepmind]] · [[2026-03-24-nearly-200-activists-from-pause-ai-and-quitgpt-marched-throu]] · [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]] · [[2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools]]
 <!-- graph:end -->

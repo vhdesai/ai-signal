@@ -7,7 +7,7 @@ url_original: null
 url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-06-22_060000_Daily-AI-News-Digest.md
-content_hash: 3fea0c92cdaf2c47ce494f1ba527d79a86bd91723da4d65733e5d1c680626a39
+content_hash: 7fb811483abd6a7e60fb597ecd2bd84d47a3e33f52c2ec54246fd203be389deb
 normalized_title_hash: c04d2c528dd401f0
 canonical_url_hash: ''
 tags:
@@ -21,23 +21,23 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-03-google-says-ai-agents-helped-find-and-fix-1-072-chrome-secur
-- 2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat
-- 2026-05-05-microsoft-agent-365-goes-ga-microsoft-google-push-ai-agent-g
+- event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib
 - 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
-- 2026-08-03-google-says-ai-agents-helped-fix-more-than-1-000-chrome-secu
+- 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
+- 2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a
+- 2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting
 embedding_id: 2026-06-22-google-is-reportedly-building-a-trusted-directory-for-ai-age
 event_name: ''
 ---
 
 # Google is reportedly building a trusted directory for AI agents
 
-WinBuzzer reported that Google is building a trusted directory for AI agents, a move aimed at making agent discovery and verification more structured. If accurate, this reflects a broader platform shift: as agents begin to transact, browse, and act across services, identity, provenance, and trust signals become core infrastructure rather than optional UX. URL not verified.
+WinBuzzer reported that Google is building a trusted directory for AI agents, a move aimed at making agent discovery and verification more structured. If accurate, this reflects a broader platform shift: as agents begin to transact, browse, and act across services, identity, provenance, and trust signals become core infrastructure rather than optional UX.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-google-says-ai-agents-helped-find-and-fix-1-072-chrome-secur]] · [[2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat]] · [[2026-05-05-microsoft-agent-365-goes-ga-microsoft-google-push-ai-agent-g]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-08-03-google-says-ai-agents-helped-fix-more-than-1-000-chrome-secu]]
+**Related:** [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a]] · [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]]
 <!-- graph:end -->

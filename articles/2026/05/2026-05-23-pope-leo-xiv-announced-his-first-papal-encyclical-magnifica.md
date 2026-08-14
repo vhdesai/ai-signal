@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-pope-leo-xiv-to-release-first-ai-encyclical-on-human-dignity
 - 2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-encyclical-on-ai
-- 2026-05-23-pope-leo-xiv-to-issue-first-ai-encyclical-magnifica-humanita
-- 2026-05-26-pope-leo-xiv-releases-first-papal-ai-encyclical-magnifica-hu
 - 2026-05-25-pope-leo-xiv-releases-the-vatican-s-first-ai-encyclical-magn
+- 2026-05-26-pope-leo-xiv-calls-for-global-ai-regulation-in-magnifica-hum
+- 2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher
 embedding_id: 2026-05-23-pope-leo-xiv-announced-his-first-papal-encyclical-magnifica
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Pope Leo XIV announced his first papal encyclical, Magnifica Humanitas, will add
 
 **Entities:** [[Perplexity]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-18-pope-leo-xiv-to-release-first-ai-encyclical-on-human-dignity]] · [[2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-encyclical-on-ai]] · [[2026-05-23-pope-leo-xiv-to-issue-first-ai-encyclical-magnifica-humanita]] · [[2026-05-26-pope-leo-xiv-releases-first-papal-ai-encyclical-magnifica-hu]] · [[2026-05-25-pope-leo-xiv-releases-the-vatican-s-first-ai-encyclical-magn]]
+**Related:** [[2026-05-18-pope-leo-xiv-to-release-first-ai-encyclical-on-human-dignity]] · [[2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-encyclical-on-ai]] · [[2026-05-25-pope-leo-xiv-releases-the-vatican-s-first-ai-encyclical-magn]] · [[2026-05-26-pope-leo-xiv-calls-for-global-ai-regulation-in-magnifica-hum]] · [[2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher]]
 <!-- graph:end -->

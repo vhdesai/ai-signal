@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s
 - 2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j
 - 2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children
-- 2026-05-15-musk-vs-altman-openai-trial-key-claims-and-what-s-at-stake
 - 2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla
+- 2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr
 embedding_id: 2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu
 event_name: ''
 ---
@@ -37,5 +37,5 @@ With the Musk v. Altman civil trial entering its evidence phase, TechCrunch publ
 ## Connections
 
 **Entities:** [[OpenAI]] · [[xAI]]
-**Related:** [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children]] · [[2026-05-15-musk-vs-altman-openai-trial-key-claims-and-what-s-at-stake]] · [[2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla]]
+**Related:** [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children]] · [[2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla]] · [[2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr]]
 <!-- graph:end -->

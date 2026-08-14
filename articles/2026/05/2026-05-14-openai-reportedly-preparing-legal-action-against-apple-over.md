@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-07-12-apple-escalates-trade-secret-suit-against-openai-next-siri-t
 - 2026-07-10-apple-escalates-trade-secret-suit-against-openai-next-siri-t
 - 2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl
-- 2026-08-04-apple-seeks-preliminary-injunction-against-openai-in-trade-s
 - 2026-08-06-openai-files-motion-to-dismiss-apple-s-trade-secrets-lawsuit
+- 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
 embedding_id: 2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI is reportedly preparing legal action against Apple over the terms of the 
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-07-12-apple-escalates-trade-secret-suit-against-openai-next-siri-t]] · [[2026-07-10-apple-escalates-trade-secret-suit-against-openai-next-siri-t]] · [[2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl]] · [[2026-08-04-apple-seeks-preliminary-injunction-against-openai-in-trade-s]] · [[2026-08-06-openai-files-motion-to-dismiss-apple-s-trade-secrets-lawsuit]]
+**Related:** [[2026-07-12-apple-escalates-trade-secret-suit-against-openai-next-siri-t]] · [[2026-07-10-apple-escalates-trade-secret-suit-against-openai-next-siri-t]] · [[2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl]] · [[2026-08-06-openai-files-motion-to-dismiss-apple-s-trade-secrets-lawsuit]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]]
 <!-- graph:end -->

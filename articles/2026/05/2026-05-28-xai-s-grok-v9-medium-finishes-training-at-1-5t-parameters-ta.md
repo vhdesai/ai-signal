@@ -19,9 +19,13 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-05-26-musk-claims-xai-has-finished-training-grok-v9-medium-at-1-5t
+- 2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet
+- 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
+- 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
 embedding_id: 2026-05-28-xai-s-grok-v9-medium-finishes-training-at-1-5t-parameters-ta
 event_name: ''
 ---
@@ -35,5 +39,5 @@ Elon Musk announced that xAI's V9-Medium — three times larger than the model c
 
 **Entities:** [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]]
+**Related:** [[2026-05-26-musk-claims-xai-has-finished-training-grok-v9-medium-at-1-5t]] · [[2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work]]
 <!-- graph:end -->

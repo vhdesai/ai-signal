@@ -21,9 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in
-- 2026-07-22-monday-com-cuts-20-of-staff-to-refocus-around-ai-work-platfo
 - 2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal
-- 2026-04-16-source-techcrunch-april-16-2026
+- 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
 embedding_id: 2026-07-25-monday-com-cites-ai-as-a-factor-in-fresh-layoffs
 event_name: ''
 ---
@@ -36,5 +35,5 @@ Monday.com became the latest company — roughly the twentieth tracked by TechCr
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in]] · [[2026-07-22-monday-com-cuts-20-of-staff-to-refocus-around-ai-work-platfo]] · [[2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal]] · [[2026-04-16-source-techcrunch-april-16-2026]]
+**Related:** [[2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in]] · [[2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]]
 <!-- graph:end -->

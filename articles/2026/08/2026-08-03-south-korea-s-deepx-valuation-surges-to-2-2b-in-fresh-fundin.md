@@ -17,9 +17,14 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: duplicate
-canonical_article_id: 2026-08-03-south-korea-s-deepx-hits-2-2b-valuation-in-new-ai-chip-round
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
+- 2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45
+- 2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek
+- 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
+- 2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea
 embedding_id: 2026-08-03-south-korea-s-deepx-valuation-surges-to-2-2b-in-fresh-fundin
 event_name: ''
 ---
@@ -32,5 +37,5 @@ South Korean AI-chip designer DeepX raised new capital at roughly four times its
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Canonical:** [[2026-08-03-south-korea-s-deepx-hits-2-2b-valuation-in-new-ai-chip-round]]
+**Related:** [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]] · [[2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45]] · [[2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]]
 <!-- graph:end -->

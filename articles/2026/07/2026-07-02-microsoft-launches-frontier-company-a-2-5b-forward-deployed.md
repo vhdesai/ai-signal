@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a
 related_article_ids:
-- 2026-07-02-microsoft-launches-frontier-company-an-outcome-driven-ai-dep
+- 2026-07-02-microsoft-launches-frontier-company-a-6-000-person-forward-d
 embedding_id: 2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft unveiled Microsoft Frontier Company, a new operating business backed b
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a]]
-**Related:** [[2026-07-02-microsoft-launches-frontier-company-an-outcome-driven-ai-dep]]
+**Related:** [[2026-07-02-microsoft-launches-frontier-company-a-6-000-person-forward-d]]
 <!-- graph:end -->

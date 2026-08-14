@@ -22,7 +22,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-05-23-anthropic-claude-mythos-preview-has-found-10-000-critical-vu
+canonical_article_id: 2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000
 related_article_ids: []
 embedding_id: 2026-05-23-published-just-hours-ago-anthropic-s-initial-report-on-proje
 event_name: ''
@@ -37,5 +37,5 @@ Published just hours ago, Anthropic's initial report on Project Glasswing reveal
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[Perplexity]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Canonical:** [[2026-05-23-anthropic-claude-mythos-preview-has-found-10-000-critical-vu]]
+**Canonical:** [[2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000]]
 <!-- graph:end -->

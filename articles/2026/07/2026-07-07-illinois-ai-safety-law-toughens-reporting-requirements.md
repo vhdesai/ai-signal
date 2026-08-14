@@ -20,8 +20,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-28-illinois-passes-a-landmark-ai-safety-framework
 - 2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency
+- 2026-05-28-illinois-passes-a-landmark-ai-safety-framework
 - 2026-07-07-illinois-enacts-first-in-nation-law-requiring-independent-sa
 embedding_id: 2026-07-07-illinois-ai-safety-law-toughens-reporting-requirements
 event_name: ''
@@ -35,5 +35,5 @@ Illinois enacted the Artificial Intelligence Safety Measures Act, requiring tech
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-28-illinois-passes-a-landmark-ai-safety-framework]] · [[2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency]] · [[2026-07-07-illinois-enacts-first-in-nation-law-requiring-independent-sa]]
+**Related:** [[2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency]] · [[2026-05-28-illinois-passes-a-landmark-ai-safety-framework]] · [[2026-07-07-illinois-enacts-first-in-nation-law-requiring-independent-sa]]
 <!-- graph:end -->

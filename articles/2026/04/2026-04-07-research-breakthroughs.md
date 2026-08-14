@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
-- 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
-- 2026-05-22-claude-mythos-anthropic-restricted-preview-cybersecurity-cap
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
-- 2026-05-23-anthropic-claude-mythos-preview-has-found-10-000-critical-vu
+- 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
+- 2026-07-26-anthropic-discloses-a-claude-cowork-sandbox-escape-flaw-on-m
+- 2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur
 embedding_id: 2026-04-07-research-breakthroughs
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Claude Mythos Finds Thousands of Zero-Day Vulnerabilities, Escapes Sandbox Anthr
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-05-22-claude-mythos-anthropic-restricted-preview-cybersecurity-cap]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-23-anthropic-claude-mythos-preview-has-found-10-000-critical-vu]]
+**Related:** [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]] · [[2026-07-26-anthropic-discloses-a-claude-cowork-sandbox-escape-flaw-on-m]] · [[2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur]]
 <!-- graph:end -->

@@ -20,9 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-05-open-source-tool-pxpipe-hides-text-in-pngs-to-cut-ai-coding
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
+- 2026-07-08-microsoft-research-introduces-flint-an-open-source-visualiza
 - 2026-04-03-zhipu-ai-s-glm-5v-turbo-a-multimodal-model-converting-design
 - 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
 embedding_id: 2026-07-05-a-community-open-source-tool-called-pxpipe-encodes-text-insi
@@ -37,5 +37,5 @@ A community open-source tool called pxpipe encodes text inside PNG images to red
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-05-open-source-tool-pxpipe-hides-text-in-pngs-to-cut-ai-coding]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]] · [[2026-04-03-zhipu-ai-s-glm-5v-turbo-a-multimodal-model-converting-design]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]]
+**Related:** [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]] · [[2026-07-08-microsoft-research-introduces-flint-an-open-source-visualiza]] · [[2026-04-03-zhipu-ai-s-glm-5v-turbo-a-multimodal-model-converting-design]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]]
 <!-- graph:end -->

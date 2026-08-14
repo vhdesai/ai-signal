@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-29-meta-brings-blackrock-into-el-paso-data-center-through-14b-j
 - 2026-07-29-meta-brings-blackrock-into-el-paso-data-center-in-5-9b-joint
 - 2026-07-28-blackrock-takes-80-stake-in-meta-s-el-paso-ai-campus
 - 2026-08-13-nvidia-anchors-a-500b-financing-consortium-to-fund-ai-data-c
+- 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
 embedding_id: 2026-07-29-meta-brings-blackrock-into-el-paso-data-center-financing
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta and BlackRock announced a financing partnership for Meta’s El Paso data-c
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-through-14b-j]] · [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-in-5-9b-joint]] · [[2026-07-28-blackrock-takes-80-stake-in-meta-s-el-paso-ai-campus]] · [[2026-08-13-nvidia-anchors-a-500b-financing-consortium-to-fund-ai-data-c]]
+**Related:** [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-in-5-9b-joint]] · [[2026-07-28-blackrock-takes-80-stake-in-meta-s-el-paso-ai-campus]] · [[2026-08-13-nvidia-anchors-a-500b-financing-consortium-to-fund-ai-data-c]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]]
 <!-- graph:end -->

@@ -22,8 +22,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-06-demis-hassabis-steps-aside-as-deepmind-ceo-to-become-alphabe
 - 2026-08-05-google-deepmind-leadership-overhaul-hassabis-steps-back-as-c
+- 2026-08-12-google-deepmind-leadership-shake-up-kavukcuoglu-takes-over-h
 embedding_id: 2026-08-06-demis-hassabis-named-alphabet-chief-scientist-koray-kavukcuo
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Alphabet announced Wednesday that Hassabis is ceding the DeepMind CEO role to be
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-demis-hassabis-steps-aside-as-deepmind-ceo-to-become-alphabe]] · [[2026-08-05-google-deepmind-leadership-overhaul-hassabis-steps-back-as-c]]
+**Related:** [[2026-08-05-google-deepmind-leadership-overhaul-hassabis-steps-back-as-c]] · [[2026-08-12-google-deepmind-leadership-shake-up-kavukcuoglu-takes-over-h]]
 <!-- graph:end -->

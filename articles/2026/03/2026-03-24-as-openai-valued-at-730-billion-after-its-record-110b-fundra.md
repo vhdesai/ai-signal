@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for
 - 2026-07-02-openai-floats-handing-the-us-government-a-5-stake-to-ease-wa
 - 2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu
 - 2026-05-05-greg-brockman-testifies-his-openai-stake-is-worth-close-to-3
+- 2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u
 - 2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity
 embedding_id: 2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra
 event_name: ''
@@ -40,5 +40,5 @@ As OpenAI — valued at $730 billion after its record $110B fundraise — eyes a
 
 **Entities:** [[OpenAI]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for]] · [[2026-07-02-openai-floats-handing-the-us-government-a-5-stake-to-ease-wa]] · [[2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu]] · [[2026-05-05-greg-brockman-testifies-his-openai-stake-is-worth-close-to-3]] · [[2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity]]
+**Related:** [[2026-07-02-openai-floats-handing-the-us-government-a-5-stake-to-ease-wa]] · [[2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu]] · [[2026-05-05-greg-brockman-testifies-his-openai-stake-is-worth-close-to-3]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u]] · [[2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity]]
 <!-- graph:end -->

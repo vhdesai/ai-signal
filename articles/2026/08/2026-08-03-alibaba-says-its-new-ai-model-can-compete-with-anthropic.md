@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi
 - 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
-- 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
+- 2026-05-16-reports-emerged-650-hacker-news-upvotes-of-a-grey-market-ope
 embedding_id: 2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Yahoo Finance reported that Alibaba said its new AI model can go toe-to-toe with
 
 **Entities:** [[Alibaba]] · [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]]
+**Related:** [[2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-05-16-reports-emerged-650-hacker-news-upvotes-of-a-grey-market-ope]]
 <!-- graph:end -->

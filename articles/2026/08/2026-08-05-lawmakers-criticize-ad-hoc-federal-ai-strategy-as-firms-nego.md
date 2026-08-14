@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
 - 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
-- 2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal
 - 2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit
-- 2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin
+- 2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial
+- 2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal
 embedding_id: 2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego
 event_name: ''
 ---
@@ -39,5 +39,5 @@ As the review framework takes effect, reporting indicates the White House is wor
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal]] · [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit]] · [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]]
+**Related:** [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit]] · [[2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial]] · [[2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal]]
 <!-- graph:end -->

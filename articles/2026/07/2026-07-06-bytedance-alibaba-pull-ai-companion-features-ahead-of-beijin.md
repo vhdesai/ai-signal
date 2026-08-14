@@ -21,9 +21,14 @@ themes:
 - policy-regulation
 cross_cutting_topics:
 - china-compete
-dedupe_status: duplicate
-canonical_article_id: 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as
+- 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
+- 2026-07-06-policy-china-china-s-humanlike-ai-rules-force-bytedance-and
+- 2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te
+- 2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp
 embedding_id: 2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin
 event_name: ''
 ---
@@ -37,5 +42,5 @@ ByteDance and Alibaba are disabling features that let users build and chat with 
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[ByteDance]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Canonical:** [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]]
+**Related:** [[2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as]] · [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-07-06-policy-china-china-s-humanlike-ai-rules-force-bytedance-and]] · [[2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te]] · [[2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp]]
 <!-- graph:end -->

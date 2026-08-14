@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-04-apple-machine-learning-research-taming-outlier-tokens-in-dif
 - 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
-- 2026-06-27-bytedance-and-renmin-university-release-illada-an-8b-diffusi
 - 2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt
+- 2026-06-27-bytedance-and-renmin-university-release-illada-an-8b-diffusi
 embedding_id: 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple published research on outlier tokens in diffusion transformers for image g
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-04-apple-machine-learning-research-taming-outlier-tokens-in-dif]] · [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-06-27-bytedance-and-renmin-university-release-illada-an-8b-diffusi]] · [[2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt]]
+**Related:** [[2026-08-04-apple-machine-learning-research-taming-outlier-tokens-in-dif]] · [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt]] · [[2026-06-27-bytedance-and-renmin-university-release-illada-an-8b-diffusi]]
 <!-- graph:end -->

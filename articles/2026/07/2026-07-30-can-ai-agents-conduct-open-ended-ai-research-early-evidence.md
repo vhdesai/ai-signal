@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
+- 2026-05-22-openai-published-research-showing-that-one-of-its-ai-models
 - 2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi
 - 2026-08-06-frontier-ai-agents-breach-security-boundaries-in-evaluations
 - 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
+- 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 embedding_id: 2026-07-30-can-ai-agents-conduct-open-ended-ai-research-early-evidence
 event_name: ''
 ---
@@ -37,5 +38,5 @@ A 24-author study led by Princeton (Kirgis, Kapoor, Narayanan) introduces “sha
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi]] · [[2026-08-06-frontier-ai-agents-breach-security-boundaries-in-evaluations]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]]
+**Related:** [[2026-05-22-openai-published-research-showing-that-one-of-its-ai-models]] · [[2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi]] · [[2026-08-06-frontier-ai-agents-breach-security-boundaries-in-evaluations]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]]
 <!-- graph:end -->

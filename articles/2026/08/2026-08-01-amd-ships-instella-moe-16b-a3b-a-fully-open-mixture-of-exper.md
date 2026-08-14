@@ -20,7 +20,7 @@ themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-01-amd-releases-instella-moe-16b-a3b-a-fully-open-mixture-of-ex
+canonical_article_id: 2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts
 related_article_ids: []
 embedding_id: 2026-08-01-amd-ships-instella-moe-16b-a3b-a-fully-open-mixture-of-exper
 event_name: ''
@@ -35,5 +35,5 @@ AMD released Instella-MoE-16B-A3B, a fully open Mixture-of-Experts language mode
 
 **Entities:** [[AMD]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Canonical:** [[2026-08-01-amd-releases-instella-moe-16b-a3b-a-fully-open-mixture-of-ex]]
+**Canonical:** [[2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts]]
 <!-- graph:end -->

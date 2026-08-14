@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-22-claude-mythos-in-restricted-preview-clears-all-uk-ai-safety
 - 2026-05-18-anthropic-s-next-generation-flagship-claude-mythos-remains-r
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
-- 2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po
-- 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
+- 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
+- 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
 embedding_id: 2026-05-08-claude-mythos-anthropic-s-next-generation-model-currently-in
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Claude Mythos — Anthropic's next-generation model currently in restricted prev
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-22-claude-mythos-in-restricted-preview-clears-all-uk-ai-safety]] · [[2026-05-18-anthropic-s-next-generation-flagship-claude-mythos-remains-r]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po]] · [[2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude]]
+**Related:** [[2026-05-22-claude-mythos-in-restricted-preview-clears-all-uk-ai-safety]] · [[2026-05-18-anthropic-s-next-generation-flagship-claude-mythos-remains-r]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]]
 <!-- graph:end -->

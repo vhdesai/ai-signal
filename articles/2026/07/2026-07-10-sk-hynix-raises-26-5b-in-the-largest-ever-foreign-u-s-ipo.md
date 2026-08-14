@@ -23,8 +23,7 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing
-related_article_ids:
-- 2026-07-10-sk-hynix-surges-13-in-nasdaq-debut
+related_article_ids: []
 embedding_id: 2026-07-10-sk-hynix-raises-26-5b-in-the-largest-ever-foreign-u-s-ipo
 event_name: ''
 ---
@@ -39,5 +38,4 @@ SK Hynix, a key memory supplier to Nvidia, raised $26.5 billion (about KRW 40 tr
 **Entities:** [[Alibaba]] · [[NVIDIA]] · [[Samsung]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
 **Canonical:** [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing]]
-**Related:** [[2026-07-10-sk-hynix-surges-13-in-nasdaq-debut]]
 <!-- graph:end -->

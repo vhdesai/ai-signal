@@ -23,7 +23,6 @@ related_article_ids:
 - 2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an
 - 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
 - 2026-08-05-google-deepmind-leadership-overhaul-hassabis-steps-back-as-c
-- 2026-07-27-satya-nadella-warns-companies-not-to-trust-one-ai-for-everyt
 embedding_id: 2026-08-05-klaviyo-acquires-elias-torres-agency-founder-joins-as-chief
 event_name: ''
 ---
@@ -36,5 +35,5 @@ Marketing automation vendor Klaviyo has acquired Agency, the AI startup founded 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-klaviyo-acquires-elias-torres-ai-customer-success-startup-na]] · [[2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-08-05-google-deepmind-leadership-overhaul-hassabis-steps-back-as-c]] · [[2026-07-27-satya-nadella-warns-companies-not-to-trust-one-ai-for-everyt]]
+**Related:** [[2026-08-05-klaviyo-acquires-elias-torres-ai-customer-success-startup-na]] · [[2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-08-05-google-deepmind-leadership-overhaul-hassabis-steps-back-as-c]]
 <!-- graph:end -->

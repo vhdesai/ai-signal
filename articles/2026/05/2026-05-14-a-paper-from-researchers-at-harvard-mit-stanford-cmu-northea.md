@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu
 - 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
-- 2026-05-14-agents-of-chaos-harvard-mit-stanford-cmu-document-10-critica
 - 2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva
-- 2026-05-16-trending-agents-of-chaos-mit-stanford-cmu-harvard-document-a
+- 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
+- 2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age
 embedding_id: 2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A paper from researchers at Harvard, MIT, Stanford, CMU, Northeastern, and other
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-05-14-agents-of-chaos-harvard-mit-stanford-cmu-document-10-critica]] · [[2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva]] · [[2026-05-16-trending-agents-of-chaos-mit-stanford-cmu-harvard-document-a]]
+**Related:** [[2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age]]
 <!-- graph:end -->

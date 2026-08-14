@@ -25,7 +25,6 @@ related_article_ids:
 - 2026-08-04-sk-hynix-and-sandisk-publish-the-first-hbf-standard-expandin
 - 2026-08-04-sk-hynix-and-sandisk-publish-the-first-hbf-memory-standard-a
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
-- 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 embedding_id: 2026-08-04-8-sk-hynix-and-sandisk-unveil-first-hbf-standard-specs-for-a
 event_name: ''
@@ -40,5 +39,5 @@ At FMS 2026, SK hynix and Sandisk introduced the first High-Bandwidth Flash (HBF
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-04-sk-hynix-and-sandisk-publish-the-first-hbf-standard-expandin]] · [[2026-08-04-sk-hynix-and-sandisk-publish-the-first-hbf-memory-standard-a]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]]
+**Related:** [[2026-08-04-sk-hynix-and-sandisk-publish-the-first-hbf-standard-expandin]] · [[2026-08-04-sk-hynix-and-sandisk-publish-the-first-hbf-memory-standard-a]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]]
 <!-- graph:end -->

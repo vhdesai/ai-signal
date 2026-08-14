@@ -27,8 +27,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-25-meituan-open-sources-longcat-2-0-a-1-6t-parameter-model-trai
-- 2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model
 - 2026-07-25-meituan-open-sources-longcat-2-0-a-1-6-trillion-parameter-ag
+- 2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model
 - 2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti
 - 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
 embedding_id: 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
@@ -44,5 +44,5 @@ Chinese super-app Meituan open-sourced LongCat-2.0 under an MIT license — a 1.
 
 **Entities:** [[Huawei]] · [[NVIDIA]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-25-meituan-open-sources-longcat-2-0-a-1-6t-parameter-model-trai]] · [[2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model]] · [[2026-07-25-meituan-open-sources-longcat-2-0-a-1-6-trillion-parameter-ag]] · [[2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]]
+**Related:** [[2026-07-25-meituan-open-sources-longcat-2-0-a-1-6t-parameter-model-trai]] · [[2026-07-25-meituan-open-sources-longcat-2-0-a-1-6-trillion-parameter-ag]] · [[2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model]] · [[2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]]
 <!-- graph:end -->

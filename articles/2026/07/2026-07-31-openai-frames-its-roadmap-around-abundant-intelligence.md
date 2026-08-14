@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy
 - 2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st
-- 2026-07-05-official-blogs-openai-blog-google-deepmind-blog-meta-ai-blog
-- 2026-05-03-official-blogs-checked-openai-blog-google-deepmind-blog-meta
+- 2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c
+- 2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec
 embedding_id: 2026-07-31-openai-frames-its-roadmap-around-abundant-intelligence
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI published a strategy essay describing a full-stack approach to making adv
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy]] · [[2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st]] · [[2026-07-05-official-blogs-openai-blog-google-deepmind-blog-meta-ai-blog]] · [[2026-05-03-official-blogs-checked-openai-blog-google-deepmind-blog-meta]]
+**Related:** [[2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy]] · [[2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st]] · [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c]] · [[2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec]]
 <!-- graph:end -->

@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w
-- 2026-06-25-scope-only-items-confirmed-published-june-24-25-2026-last-24
 - 2026-06-26-compiled-june-26-2026-every-item-was-confirmed-published-wit
 - 2026-06-29-daily-ai-news-digest-june-29-2026
 - 2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co
+- 2026-07-08-u-s-clears-openai-s-gpt-5-6-for-broad-public-rollout
 embedding_id: 2026-06-29-all-21-items-were-confirmed-published-within-the-last-24-hou
 event_name: ''
 ---
@@ -40,5 +40,5 @@ All 21 items were confirmed published within the last 24 hours (June 28–29, 20
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w]] · [[2026-06-25-scope-only-items-confirmed-published-june-24-25-2026-last-24]] · [[2026-06-26-compiled-june-26-2026-every-item-was-confirmed-published-wit]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co]]
+**Related:** [[2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w]] · [[2026-06-26-compiled-june-26-2026-every-item-was-confirmed-published-wit]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co]] · [[2026-07-08-u-s-clears-openai-s-gpt-5-6-for-broad-public-rollout]]
 <!-- graph:end -->

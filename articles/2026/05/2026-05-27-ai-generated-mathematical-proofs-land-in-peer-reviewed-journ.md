@@ -21,6 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
 - 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
+- 2026-05-22-openai-published-research-showing-that-one-of-its-ai-models
 - 2026-08-10-mathematicians-assess-generative-ai-s-arrival-in-their-field
 embedding_id: 2026-05-27-ai-generated-mathematical-proofs-land-in-peer-reviewed-journ
 event_name: ''
@@ -34,5 +35,5 @@ Axios reports that proofs produced by an AI math startup are now appearing in pe
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m]] · [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]] · [[2026-08-10-mathematicians-assess-generative-ai-s-arrival-in-their-field]]
+**Related:** [[2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m]] · [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]] · [[2026-05-22-openai-published-research-showing-that-one-of-its-ai-models]] · [[2026-08-10-mathematicians-assess-generative-ai-s-arrival-in-their-field]]
 <!-- graph:end -->

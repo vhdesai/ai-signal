@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-model-in-gi
 - 2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m
-- 2026-04-06-microsoft-copilot-goes-multi-model-gpt-claude-ensemble-score
+- 2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app
 - 2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-in-github-c
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house
 embedding_id: 2026-05-24-microsoft-copilot-caught-inventing-differences-in-identical
@@ -40,5 +40,5 @@ Mathematician Adam Kucharski showed that Microsoft Copilot, on default model set
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-model-in-gi]] · [[2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m]] · [[2026-04-06-microsoft-copilot-goes-multi-model-gpt-claude-ensemble-score]] · [[2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-in-github-c]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]]
+**Related:** [[2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-model-in-gi]] · [[2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m]] · [[2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app]] · [[2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-in-github-c]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]]
 <!-- graph:end -->

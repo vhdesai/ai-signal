@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-03-28-senate-moves-on-data-center-energy-transparency-sanders-aoc
 - 2026-07-10-senator-markey-unveils-an-ai-accountability-package-of-bills
 - 2026-07-10-senator-markey-unveils-an-ai-accountability-package-targetin
 - 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 - 2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development
+- 2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s
 embedding_id: 2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A bipartisan Senate coalition introduced legislation requiring mandatory energy 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-03-28-senate-moves-on-data-center-energy-transparency-sanders-aoc]] · [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-of-bills]] · [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-targetin]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development]]
+**Related:** [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-of-bills]] · [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-targetin]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development]] · [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]]
 <!-- graph:end -->

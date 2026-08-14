@@ -22,6 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-24-uk-aisi-and-us-caisi-find-moonshot-s-kimi-k3-well-behind-u-s
+- 2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo
+- 2026-07-28-moonshot-s-kimi-k3-opens-its-full-weights-with-a-revenue-cap
 embedding_id: 2026-08-06-databricks-releases-enterprise-grounded-reasoning-benchmark
 event_name: ''
 ---
@@ -35,5 +37,5 @@ Databricks released OfficeQA Pro V2, a benchmark developed with U.S. Treasury su
 
 **Entities:** [[Databricks]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-24-uk-aisi-and-us-caisi-find-moonshot-s-kimi-k3-well-behind-u-s]]
+**Related:** [[2026-07-24-uk-aisi-and-us-caisi-find-moonshot-s-kimi-k3-well-behind-u-s]] · [[2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo]] · [[2026-07-28-moonshot-s-kimi-k3-opens-its-full-weights-with-a-revenue-cap]]
 <!-- graph:end -->

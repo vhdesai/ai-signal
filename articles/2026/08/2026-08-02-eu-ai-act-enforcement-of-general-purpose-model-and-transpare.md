@@ -16,10 +16,13 @@ entities: []
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-08-02-eu-ai-act-enforcement-and-ai-transparency-rules-take-effect
+dedupe_status: canonical
+canonical_article_id: null
 related_article_ids:
-- 2026-08-02-eu-ai-act-enforcement-powers-take-effect-for-general-purpose
+- 2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out
+- 2026-08-02-eu-transparency-rules-for-ai-generated-content-take-effect
+- 2026-08-04-eu-ai-act-article-50-transparency-obligations-now-enforceabl
+- 2026-04-06-the-european-union-s-newly-established-ai-act-enforcement-of
 embedding_id: 2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare
 event_name: ''
 ---
@@ -32,6 +35,5 @@ From August 2, the Commission's AI Office and national authorities began enforci
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Canonical:** [[2026-08-02-eu-ai-act-enforcement-and-ai-transparency-rules-take-effect]]
-**Related:** [[2026-08-02-eu-ai-act-enforcement-powers-take-effect-for-general-purpose]]
+**Related:** [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]] · [[2026-08-02-eu-transparency-rules-for-ai-generated-content-take-effect]] · [[2026-08-04-eu-ai-act-article-50-transparency-obligations-now-enforceabl]] · [[2026-04-06-the-european-union-s-newly-established-ai-act-enforcement-of]]
 <!-- graph:end -->

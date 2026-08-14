@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-06-openai-asks-judge-to-dismiss-apple-s-trade-secrets-lawsuit
 - 2026-08-07-openai-asks-judge-to-dismiss-apple-lawsuit
-- 2026-08-04-openai-calls-apple-s-trade-secret-suit-careless-and-oddly-pe
 - 2026-08-06-openai-moves-to-dismiss-apple-s-trade-secrets-lawsuit-blames
-- 2026-07-20-apple-s-trade-secret-lawsuit-against-openai-could-complicate
+- 2026-07-13-apple-sues-openai-alleging-theft-of-trade-secrets-on-unrelea
+- 2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef
 embedding_id: 2026-08-06-openai-files-motion-to-dismiss-apple-s-trade-secrets-lawsuit
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI filed a 31-page motion in the Northern District of California to dismiss 
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-openai-asks-judge-to-dismiss-apple-s-trade-secrets-lawsuit]] · [[2026-08-07-openai-asks-judge-to-dismiss-apple-lawsuit]] · [[2026-08-04-openai-calls-apple-s-trade-secret-suit-careless-and-oddly-pe]] · [[2026-08-06-openai-moves-to-dismiss-apple-s-trade-secrets-lawsuit-blames]] · [[2026-07-20-apple-s-trade-secret-lawsuit-against-openai-could-complicate]]
+**Related:** [[2026-08-06-openai-asks-judge-to-dismiss-apple-s-trade-secrets-lawsuit]] · [[2026-08-07-openai-asks-judge-to-dismiss-apple-lawsuit]] · [[2026-08-06-openai-moves-to-dismiss-apple-s-trade-secrets-lawsuit-blames]] · [[2026-07-13-apple-sues-openai-alleging-theft-of-trade-secrets-on-unrelea]] · [[2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef]]
 <!-- graph:end -->

@@ -25,8 +25,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa
-- 2026-04-22-products-tools
-- 2026-04-22-alongside-its-hardware-and-agent-announcements-at-cloud-next
+- event-google-cloud-next-2026-google-cloud-next-2026-siri-gemini-enterprise-read-through
+- 2026-08-06-mirendil-signs-100-million-plus-google-cloud-deal-for-self-i
 embedding_id: event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs
 event_name: Google Cloud Next 2026
 ---
@@ -40,5 +40,5 @@ Google announced a $750M partner fund to accelerate AI implementation and enterp
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa]] · [[2026-04-22-products-tools]] · [[2026-04-22-alongside-its-hardware-and-agent-announcements-at-cloud-next]]
+**Related:** [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa]] · [[event-google-cloud-next-2026-google-cloud-next-2026-siri-gemini-enterprise-read-through]] · [[2026-08-06-mirendil-signs-100-million-plus-google-cloud-deal-for-self-i]]
 <!-- graph:end -->

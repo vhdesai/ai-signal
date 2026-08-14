@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-anthropic-launches-claude-opus-5-at-roughly-half-the-price-o
 - 2026-04-21-hot-anthropic-arr-reportedly-hits-30b-on-claude-opus-4-7
-- 2026-05-31-claude-opus-4-8-ships-at-flat-pricing-with-dynamic-workflows
+- 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
 embedding_id: 2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic released Claude Opus 5 at $5 / $25 per million input/output tokens —
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-27-anthropic-launches-claude-opus-5-at-roughly-half-the-price-o]] · [[2026-04-21-hot-anthropic-arr-reportedly-hits-30b-on-claude-opus-4-7]] · [[2026-05-31-claude-opus-4-8-ships-at-flat-pricing-with-dynamic-workflows]]
+**Related:** [[2026-07-27-anthropic-launches-claude-opus-5-at-roughly-half-the-price-o]] · [[2026-04-21-hot-anthropic-arr-reportedly-hits-30b-on-claude-opus-4-7]] · [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-04-mit-researchers-develop-framework-for-humble-ai-in-medical-d
 - 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
 - 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
 - 2026-04-06-researchers-from-mit-and-the-university-of-washington-publis
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
+- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 embedding_id: 2026-03-28-mit-researchers-published-findings-on-a-new-training-approac
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT researchers published findings on a new training approach they call "Humble 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-04-mit-researchers-develop-framework-for-humble-ai-in-medical-d]] · [[2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]] · [[2026-04-06-researchers-from-mit-and-the-university-of-washington-publis]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]]
+**Related:** [[2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]] · [[2026-04-06-researchers-from-mit-and-the-university-of-washington-publis]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
 <!-- graph:end -->

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year
 - 2026-05-14-anthropic-signed-an-agreement-giving-claude-access-to-spacex
 - 2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea
-- 2026-05-18-anthropic-arr-crosses-44b-after-80x-q1-yoy-growth-200b-googl
+- 2026-05-17-reports-indicate-anthropic-is-in-final-stages-of-a-funding-r
 embedding_id: 2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Anthropic disclosed on May 7 that its Q1 2026 revenue grew 80x year-over-year, p
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
 **Canonical:** [[2026-05-07-anthropic-arr-crosses-44b-80x-year-over-year-growth]]
-**Related:** [[2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year]] · [[2026-05-14-anthropic-signed-an-agreement-giving-claude-access-to-spacex]] · [[2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea]] · [[2026-05-18-anthropic-arr-crosses-44b-after-80x-q1-yoy-growth-200b-googl]]
+**Related:** [[2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year]] · [[2026-05-14-anthropic-signed-an-agreement-giving-claude-access-to-spacex]] · [[2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea]] · [[2026-05-17-reports-indicate-anthropic-is-in-final-stages-of-a-funding-r]]
 <!-- graph:end -->

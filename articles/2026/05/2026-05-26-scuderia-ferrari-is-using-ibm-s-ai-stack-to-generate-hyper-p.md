@@ -20,8 +20,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-26-ferrari-deploys-ibm-ai-to-build-personalized-f1-fan-experien
 - 2026-05-23-ferrari-deploys-ibm-ai-to-build-f1-superfans
+- 2026-08-04-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we
 embedding_id: 2026-05-26-scuderia-ferrari-is-using-ibm-s-ai-stack-to-generate-hyper-p
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Scuderia Ferrari is using IBM's AI stack to generate hyper-personalized content 
 ## Connections
 
 **Entities:** [[IBM]]
-**Related:** [[2026-05-26-ferrari-deploys-ibm-ai-to-build-personalized-f1-fan-experien]] · [[2026-05-23-ferrari-deploys-ibm-ai-to-build-f1-superfans]]
+**Related:** [[2026-05-23-ferrari-deploys-ibm-ai-to-build-f1-superfans]] · [[2026-08-04-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we]]
 <!-- graph:end -->

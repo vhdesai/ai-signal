@@ -24,7 +24,8 @@ related_article_ids:
 - 2026-08-07-anthropic-updates-claude-fable-5-s-biology-safety-classifier
 - 2026-08-07-anthropic-loosens-fable-5-biology-safeguards-cutting-fallbac
 - 2026-08-07-anthropic-says-claude-fable-5-will-relax-biology-question-re
-- 2026-08-07-anthropic-retunes-claude-fable-5-biology-safeguards-cutting
+- 2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r
+- 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
 embedding_id: 2026-08-07-anthropic-loosens-claude-fable-5-biology-question-refusals-w
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Anthropic updated Claude Fable 5's biology safety classifiers, cutting automatic
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-07-anthropic-updates-claude-fable-5-s-biology-safety-classifier]] · [[2026-08-07-anthropic-loosens-fable-5-biology-safeguards-cutting-fallbac]] · [[2026-08-07-anthropic-says-claude-fable-5-will-relax-biology-question-re]] · [[2026-08-07-anthropic-retunes-claude-fable-5-biology-safeguards-cutting]]
+**Related:** [[2026-08-07-anthropic-updates-claude-fable-5-s-biology-safety-classifier]] · [[2026-08-07-anthropic-loosens-fable-5-biology-safeguards-cutting-fallbac]] · [[2026-08-07-anthropic-says-claude-fable-5-will-relax-biology-question-re]] · [[2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r]] · [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]]
 <!-- graph:end -->

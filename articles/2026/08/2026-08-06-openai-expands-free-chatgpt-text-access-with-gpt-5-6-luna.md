@@ -20,8 +20,7 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-openai-brings-unlimited-text-chats-to-free-users-rolls-out-g
-related_article_ids:
-- 2026-08-06-openai-makes-gpt-5-6-luna-the-default-for-free-users-and-rem
+related_article_ids: []
 embedding_id: 2026-08-06-openai-expands-free-chatgpt-text-access-with-gpt-5-6-luna
 event_name: ''
 ---
@@ -36,5 +35,4 @@ OpenAI is removing limits on text-based ChatGPT conversations for free users, wi
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-08-06-openai-brings-unlimited-text-chats-to-free-users-rolls-out-g]]
-**Related:** [[2026-08-06-openai-makes-gpt-5-6-luna-the-default-for-free-users-and-rem]]
 <!-- graph:end -->

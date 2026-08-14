@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-07-eu-ai-act-simplification-deal-high-risk-rule-delays-nudifica
 - 2026-05-18-the-european-union-reached-a-provisional-deal-to-simplify-an
 - 2026-05-17-the-european-union-reached-a-provisional-deal-to-simplify-th
-- 2026-05-18-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai
+- 2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin
 embedding_id: 2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The European Union reached a provisional deal to simplify its AI Act implementat
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-07-eu-ai-act-simplification-high-risk-deadlines-extended-nudifi]] · [[2026-05-07-eu-ai-act-simplification-deal-high-risk-rule-delays-nudifica]] · [[2026-05-18-the-european-union-reached-a-provisional-deal-to-simplify-an]] · [[2026-05-17-the-european-union-reached-a-provisional-deal-to-simplify-th]] · [[2026-05-18-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai]]
+**Related:** [[2026-05-07-eu-ai-act-simplification-high-risk-deadlines-extended-nudifi]] · [[2026-05-07-eu-ai-act-simplification-deal-high-risk-rule-delays-nudifica]] · [[2026-05-18-the-european-union-reached-a-provisional-deal-to-simplify-an]] · [[2026-05-17-the-european-union-reached-a-provisional-deal-to-simplify-th]] · [[2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin]]
 <!-- graph:end -->

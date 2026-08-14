@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team
 - 2026-07-02-anthropic-explores-a-custom-ai-chip-built-on-samsung-s-2nm-p
 - 2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials
-- 2026-07-25-anthropic-asks-sk-hynix-for-supplies-to-build-its-own-ai-chi
 - 2026-08-05-anthropic-confirms-it-is-building-an-in-house-custom-silicon
+- 2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud
 embedding_id: 2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Per The Information, Anthropic is exploring its own custom silicon and has held 
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[Samsung]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team]] · [[2026-07-02-anthropic-explores-a-custom-ai-chip-built-on-samsung-s-2nm-p]] · [[2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials]] · [[2026-07-25-anthropic-asks-sk-hynix-for-supplies-to-build-its-own-ai-chi]] · [[2026-08-05-anthropic-confirms-it-is-building-an-in-house-custom-silicon]]
+**Related:** [[2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team]] · [[2026-07-02-anthropic-explores-a-custom-ai-chip-built-on-samsung-s-2nm-p]] · [[2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials]] · [[2026-08-05-anthropic-confirms-it-is-building-an-in-house-custom-silicon]] · [[2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud]]
 <!-- graph:end -->

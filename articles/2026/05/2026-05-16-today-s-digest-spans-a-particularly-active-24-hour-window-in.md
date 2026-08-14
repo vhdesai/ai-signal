@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-05-23-today-s-digest-spans-22-monitored-sources-across-frontier-la
 - 2026-05-20-ai-news-digest-may-20-2026
 - 2026-08-11-daily-ai-news-digest-august-11-2026
-- 2026-08-01-daily-ai-news-digest-august-1-2026
-- 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
+- 2026-08-12-daily-ai-news-digest-august-12-2026
+- 2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour
 embedding_id: 2026-05-16-today-s-digest-spans-a-particularly-active-24-hour-window-in
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Today's digest spans a particularly active 24-hour window in AI. Key storylines:
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-23-today-s-digest-spans-22-monitored-sources-across-frontier-la]] · [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-08-01-daily-ai-news-digest-august-1-2026]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]]
+**Related:** [[2026-05-23-today-s-digest-spans-22-monitored-sources-across-frontier-la]] · [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-08-12-daily-ai-news-digest-august-12-2026]] · [[2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour]]
 <!-- graph:end -->

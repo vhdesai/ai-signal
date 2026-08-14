@@ -18,7 +18,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-03-june-emerges-from-stealth-with-20-million-to-automate-enterp
+canonical_article_id: 2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise
 related_article_ids: []
 embedding_id: 2026-08-03-marc-benioff-backed-june-raises-20-million-to-automate-ai-de
 event_name: ''
@@ -32,5 +32,5 @@ June emerged from stealth with a $20 million pre-seed round led by Marc Benioff'
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-08-03-june-emerges-from-stealth-with-20-million-to-automate-enterp]]
+**Canonical:** [[2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise]]
 <!-- graph:end -->

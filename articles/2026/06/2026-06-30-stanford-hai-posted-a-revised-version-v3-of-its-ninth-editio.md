@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-30-stanford-hai-posts-a-revised-edition-of-the-2026-ai-index-re
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 - 2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p
 - 2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
+- 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
 embedding_id: 2026-06-30-stanford-hai-posted-a-revised-version-v3-of-its-ninth-editio
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Stanford HAI posted a revised version (v3) of its ninth-edition AI Index Report 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-30-stanford-hai-posts-a-revised-edition-of-the-2026-ai-index-re]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p]] · [[2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]]
+**Related:** [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p]] · [[2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]]
 <!-- graph:end -->

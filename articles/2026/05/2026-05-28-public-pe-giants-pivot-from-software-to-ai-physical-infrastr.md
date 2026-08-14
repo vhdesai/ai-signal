@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-03-16-read-the-survey-results-pitchbook-s-us-pe-middle-market-repo
 - 2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 - 2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f
 - 2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners
+- 2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin
 embedding_id: 2026-05-28-public-pe-giants-pivot-from-software-to-ai-physical-infrastr
 event_name: ''
 ---
@@ -37,5 +37,5 @@ PitchBook's US Public PE and GP Deal Roundup found the largest listed PE players
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-03-16-read-the-survey-results-pitchbook-s-us-pe-middle-market-repo]] · [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]]
+**Related:** [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]] · [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]]
 <!-- graph:end -->

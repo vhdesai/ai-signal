@@ -6,8 +6,8 @@ source: Wall Street Journal
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-06-21_070147_Final-Daily-AI-News-Digest.md
-content_hash: 4c4e1e6260d7aa264cca59b22986a09b7e8802ef957330bc0d12653ed75abeb3
+digest_source: digests\raw\2026-06-21_070014_Final-Daily-AI-News-Digest.md
+content_hash: 3394cd04dc56c0e9980780a69e80277a13bda3bb2fdfb041929787b2d6e81ef8
 normalized_title_hash: 24385d31f3c9c059
 canonical_url_hash: ''
 tags:
@@ -25,7 +25,7 @@ event_name: ''
 
 # WSJ: Record Insider Selling at AI Companies Is a "Giant Warning Sign"
 
-AI company insiders selling at unprecedented rates — historically precedes corrections. Follows Damodaran's warning that AI's debt-funded infra boom could produce a correction worse than dot-com.
+AI company insiders are selling stock at an unprecedented rate — a pattern that has historically preceded corrections. When corporate executives as a group become net sellers, it signals stocks are significantly overpriced. The piece follows NYU professor Damodaran's warning that AI's debt-funded infrastructure boom could produce a correction worse than the dot-com bust.
 
 <!-- graph:start -->
 ## Connections

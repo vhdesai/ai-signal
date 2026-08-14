@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr
 - 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
 - 2026-07-01-nvidia-unveils-revenue-sharing-capital-partners-model-to-fin
-- 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 - 2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation
+- 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 embedding_id: 2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners
 event_name: ''
 ---
@@ -39,5 +39,5 @@ AI-infrastructure firm Firmus Technologies struck a partnership to buy Nvidia in
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-07-01-nvidia-unveils-revenue-sharing-capital-partners-model-to-fin]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation]]
+**Related:** [[2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-07-01-nvidia-unveils-revenue-sharing-capital-partners-model-to-fin]] · [[2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]]
 <!-- graph:end -->

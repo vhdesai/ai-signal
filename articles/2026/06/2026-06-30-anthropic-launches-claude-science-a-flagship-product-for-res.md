@@ -21,10 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-23-claude-design-is-a-new-product-from-anthropic-labs-that-enab
 - 2026-07-04-anthropic-said-it-will-use-its-new-claude-science-workbench
 - 2026-05-18-anthropic-launches-claude-design-for-visual-collaboration
-- 2026-05-23-anthropic-launches-claude-design-visual-collaboration-produc
-- 2026-07-04-anthropic-to-run-in-house-drug-discovery-programs-for-neglec
 embedding_id: 2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res
 event_name: ''
 ---
@@ -38,5 +37,5 @@ At an event for pharma executives, biotech founders, and researchers, Anthropic 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-04-anthropic-said-it-will-use-its-new-claude-science-workbench]] · [[2026-05-18-anthropic-launches-claude-design-for-visual-collaboration]] · [[2026-05-23-anthropic-launches-claude-design-visual-collaboration-produc]] · [[2026-07-04-anthropic-to-run-in-house-drug-discovery-programs-for-neglec]]
+**Related:** [[2026-05-23-claude-design-is-a-new-product-from-anthropic-labs-that-enab]] · [[2026-07-04-anthropic-said-it-will-use-its-new-claude-science-workbench]] · [[2026-05-18-anthropic-launches-claude-design-for-visual-collaboration]]
 <!-- graph:end -->

@@ -20,9 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- event-acm-cais-2026-acm-cais-2026-strategic-implications
+- 2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight
+- 2026-05-26-autonomous-ai-systems-test-governance-in-physical-environmen
 - event-icra-2026-icra-2026-sim-to-real-transfer
-- event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications
 embedding_id: event-icra-2026-icra-2026-strategic-implications
 event_name: ICRA 2026
 ---
@@ -36,5 +36,5 @@ Embodied AI frontier: Robotics is becoming a major proving ground for foundation
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-acm-cais-2026-acm-cais-2026-strategic-implications]] · [[event-icra-2026-icra-2026-sim-to-real-transfer]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications]]
+**Related:** [[2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight]] · [[2026-05-26-autonomous-ai-systems-test-governance-in-physical-environmen]] · [[event-icra-2026-icra-2026-sim-to-real-transfer]]
 <!-- graph:end -->

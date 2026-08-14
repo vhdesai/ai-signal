@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-13-visual-studio-adds-real-time-copilot-usage-tracking-to-curb
-- 2026-07-24-visual-studio-insiders-refines-copilot-usage-tracking
 - 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
 - 2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust
+- 2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co
 embedding_id: 2026-07-13-visual-studio-adds-copilot-usage-tracking-to-curb-bill-shock
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Microsoft’s July Visual Studio update introduced real-time GitHub Copilot usag
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-visual-studio-adds-real-time-copilot-usage-tracking-to-curb]] · [[2026-07-24-visual-studio-insiders-refines-copilot-usage-tracking]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]]
+**Related:** [[2026-07-13-visual-studio-adds-real-time-copilot-usage-tracking-to-curb]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]]
 <!-- graph:end -->

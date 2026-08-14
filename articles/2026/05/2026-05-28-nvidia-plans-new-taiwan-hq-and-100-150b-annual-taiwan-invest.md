@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of
 - 2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi
-- 2026-07-27-nvidia-in-talks-to-help-fund-a-500b-10-gigawatt-openai-data
+- 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
 embedding_id: 2026-05-28-nvidia-plans-new-taiwan-hq-and-100-150b-annual-taiwan-invest
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Nvidia CEO Jensen Huang on May 27 announced plans for a new Taiwan headquarters 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of]] · [[2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi]] · [[2026-07-27-nvidia-in-talks-to-help-fund-a-500b-10-gigawatt-openai-data]]
+**Related:** [[2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of]] · [[2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
 <!-- graph:end -->

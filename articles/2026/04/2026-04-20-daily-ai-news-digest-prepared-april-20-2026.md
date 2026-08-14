@@ -28,10 +28,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-04-daily-ai-news-digest-april-4-2026-compiled-from-30-sources-i
-- 2026-04-02-daily-ai-news-digest-april-2-2026-sources-wsj-techcrunch-ai
 - 2026-05-18-daily-ai-news-digest-compiled-may-18-2026-sources-techcrunch
 - 2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a
-- 2026-05-08-source-simplenews-ai-google-deepmind-published-may-7-8-2026
+- 2026-04-06-this-digest-was-compiled-from-37-verified-sources-covering-n
+- 2026-03-28-about-this-digest-compiled-from-public-sources-including-tec
 embedding_id: 2026-04-20-daily-ai-news-digest-prepared-april-20-2026
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Daily AI News Digest • Prepared April 20, 2026. Sources include company blogs 
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-04-daily-ai-news-digest-april-4-2026-compiled-from-30-sources-i]] · [[2026-04-02-daily-ai-news-digest-april-2-2026-sources-wsj-techcrunch-ai]] · [[2026-05-18-daily-ai-news-digest-compiled-may-18-2026-sources-techcrunch]] · [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-05-08-source-simplenews-ai-google-deepmind-published-may-7-8-2026]]
+**Related:** [[2026-04-04-daily-ai-news-digest-april-4-2026-compiled-from-30-sources-i]] · [[2026-05-18-daily-ai-news-digest-compiled-may-18-2026-sources-techcrunch]] · [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-04-06-this-digest-was-compiled-from-37-verified-sources-covering-n]] · [[2026-03-28-about-this-digest-compiled-from-public-sources-including-tec]]
 <!-- graph:end -->

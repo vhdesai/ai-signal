@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-06-aws-launches-persistent-compute-and-temporal-security-polici
-- 2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed
 - 2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock
 - 2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon
+- 2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock
 embedding_id: 2026-08-07-aws-details-how-cohere-health-digitizes-clinical-policies-us
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AWS published a case study on Cohere Health's use of Amazon Bedrock AgentCore to
 
 **Entities:** [[Amazon]] · [[Cohere]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-aws-launches-persistent-compute-and-temporal-security-polici]] · [[2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed]] · [[2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock]] · [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]]
+**Related:** [[2026-08-06-aws-launches-persistent-compute-and-temporal-security-polici]] · [[2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock]] · [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock]]
 <!-- graph:end -->

@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-07-google-confirms-gemini-4-supersedes-the-delayed-gemini-3-5-p
-- 2026-08-07-google-confirms-gemini-4-will-replace-gemini-3-5-pro-amid-de
-- 2026-07-16-google-gemini-3-5-pro-is-reportedly-delayed-for-a-third-time
 - 2026-07-13-google-s-gemini-3-5-pro-targets-july-17-ga-but-every-spec-re
 - 2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc
+- 2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild
+- 2026-05-22-google-launched-gemini-3-5-flash-at-google-i-o-2026-immediat
 embedding_id: 2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google has shifted its flagship roadmap to Gemini 4, which will supersede the re
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-07-google-confirms-gemini-4-supersedes-the-delayed-gemini-3-5-p]] · [[2026-08-07-google-confirms-gemini-4-will-replace-gemini-3-5-pro-amid-de]] · [[2026-07-16-google-gemini-3-5-pro-is-reportedly-delayed-for-a-third-time]] · [[2026-07-13-google-s-gemini-3-5-pro-targets-july-17-ga-but-every-spec-re]] · [[2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc]]
+**Related:** [[2026-08-07-google-confirms-gemini-4-supersedes-the-delayed-gemini-3-5-p]] · [[2026-07-13-google-s-gemini-3-5-pro-targets-july-17-ga-but-every-spec-re]] · [[2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc]] · [[2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild]] · [[2026-05-22-google-launched-gemini-3-5-flash-at-google-i-o-2026-immediat]]
 <!-- graph:end -->

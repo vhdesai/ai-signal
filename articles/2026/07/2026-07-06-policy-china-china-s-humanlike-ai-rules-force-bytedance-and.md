@@ -24,7 +24,9 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin
 - 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
+- 2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1
 - 2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te
 embedding_id: 2026-07-06-policy-china-china-s-humanlike-ai-rules-force-bytedance-and
 event_name: ''
@@ -39,5 +41,5 @@ Policy China China's "humanlike AI" rules force ByteDance and Alibaba to pull co
 
 **Entities:** [[Alibaba]] · [[ByteDance]] · [[Tencent]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te]]
+**Related:** [[2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin]] · [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1]] · [[2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te]]
 <!-- graph:end -->

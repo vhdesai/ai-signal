@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl
 - 2026-07-05-icml-2026-awards-highlight-diffusion-sampling-diffusion-lang
 - 2026-05-03-research-academic-arxiv-cs-ai-arxiv-cs-lg-arxiv-cs-cl-arxiv
-- 2026-04-10-research-breakthroughs-llms-excel-at-code-and-math-but-strug
+- 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 embedding_id: 2026-05-11-analytics-vidhya-top-10-llm-research-papers-of-2026-deepmind
 event_name: ''
@@ -40,5 +40,5 @@ Analytics Vidhya published a curated roundup of the ten most impactful LLM resea
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl]] · [[2026-07-05-icml-2026-awards-highlight-diffusion-sampling-diffusion-lang]] · [[2026-05-03-research-academic-arxiv-cs-ai-arxiv-cs-lg-arxiv-cs-cl-arxiv]] · [[2026-04-10-research-breakthroughs-llms-excel-at-code-and-math-but-strug]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]]
+**Related:** [[2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl]] · [[2026-07-05-icml-2026-awards-highlight-diffusion-sampling-diffusion-lang]] · [[2026-05-03-research-academic-arxiv-cs-ai-arxiv-cs-lg-arxiv-cs-cl-arxiv]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]]
 <!-- graph:end -->

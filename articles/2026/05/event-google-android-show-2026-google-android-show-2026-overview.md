@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - event-google-i-o-2026-google-i-o-2026-overview
-- event-google-android-show-2026-google-android-show-2026-strategic-implications
 - 2026-05-13-in-the-most-significant-android-hardware-and-software-announ
+- 2026-05-17-during-the-android-show-i-o-edition-2026-google-officially-i
+- 2026-05-16-at-its-android-show-event-may-12-google-announced-googlebook
 - event-google-android-show-2026-google-android-show-2026-googlebook-laptop-category
-- event-google-android-show-2026-google-android-show-2026-android-17-chrome-and-xr-previews
 embedding_id: event-google-android-show-2026-google-android-show-2026-overview
 event_name: Google Android Show 2026
 ---
@@ -40,5 +40,5 @@ The Android Show, held as a pre-I/O event on May 12, appears in 9 corpus files a
 
 **Entities:** [[Apple]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-google-i-o-2026-google-i-o-2026-overview]] · [[event-google-android-show-2026-google-android-show-2026-strategic-implications]] · [[2026-05-13-in-the-most-significant-android-hardware-and-software-announ]] · [[event-google-android-show-2026-google-android-show-2026-googlebook-laptop-category]] · [[event-google-android-show-2026-google-android-show-2026-android-17-chrome-and-xr-previews]]
+**Related:** [[event-google-i-o-2026-google-i-o-2026-overview]] · [[2026-05-13-in-the-most-significant-android-hardware-and-software-announ]] · [[2026-05-17-during-the-android-show-i-o-edition-2026-google-officially-i]] · [[2026-05-16-at-its-android-show-event-may-12-google-announced-googlebook]] · [[event-google-android-show-2026-google-android-show-2026-googlebook-laptop-category]]
 <!-- graph:end -->

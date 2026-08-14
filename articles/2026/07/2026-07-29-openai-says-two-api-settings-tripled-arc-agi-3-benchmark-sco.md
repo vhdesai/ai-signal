@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-31-openai-says-two-settings-tripled-its-arc-agi-3-scores
 - 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
 - 2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6
 - 2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st
+- 2026-05-02-model-releases-frontier-research-5-stories-arc-agi-3-analysi
 embedding_id: 2026-07-29-openai-says-two-api-settings-tripled-arc-agi-3-benchmark-sco
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI published research saying that enabling two API settings significantly im
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-openai-says-two-settings-tripled-its-arc-agi-3-scores]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6]] · [[2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st]]
+**Related:** [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6]] · [[2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st]] · [[2026-05-02-model-releases-frontier-research-5-stories-arc-agi-3-analysi]]
 <!-- graph:end -->

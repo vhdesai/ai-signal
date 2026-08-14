@@ -26,10 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-michael-burry-calls-nvidia-s-500b-ai-financing-push-a-wall-s
-- 2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected
 - 2026-08-12-anthropic-courts-fall-ipo-burry-calls-nvidia-500b-financing
 - 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
 - 2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges
+- 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
 embedding_id: 2026-05-09-michael-burry-expands-ai-short-palantir-nvidia-oracle-into-2
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Scion Asset Management's latest 13F shows Michael Burry now holds ~$912M in noti
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-12-michael-burry-calls-nvidia-s-500b-ai-financing-push-a-wall-s]] · [[2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected]] · [[2026-08-12-anthropic-courts-fall-ipo-burry-calls-nvidia-500b-financing]] · [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]] · [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges]]
+**Related:** [[2026-08-12-michael-burry-calls-nvidia-s-500b-ai-financing-push-a-wall-s]] · [[2026-08-12-anthropic-courts-fall-ipo-burry-calls-nvidia-500b-financing]] · [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]] · [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges]] · [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]]
 <!-- graph:end -->

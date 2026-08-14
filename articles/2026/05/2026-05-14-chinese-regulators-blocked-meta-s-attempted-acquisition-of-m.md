@@ -21,9 +21,12 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: duplicate
-canonical_article_id: 2026-05-14-china-blocks-meta-s-2b-acquisition-of-ai-startup-manus
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus
+- 2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek
+- 2026-08-13-manus-resumes-independent-operations-after-beijing-blocks-me
 embedding_id: 2026-05-14-chinese-regulators-blocked-meta-s-attempted-acquisition-of-m
 event_name: ''
 ---
@@ -37,5 +40,5 @@ Chinese regulators blocked Meta's attempted acquisition of Manus — the autonom
 
 **Entities:** [[Huawei]] · [[Meta]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Canonical:** [[2026-05-14-china-blocks-meta-s-2b-acquisition-of-ai-startup-manus]]
+**Related:** [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]] · [[2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek]] · [[2026-08-13-manus-resumes-independent-operations-after-beijing-blocks-me]]
 <!-- graph:end -->

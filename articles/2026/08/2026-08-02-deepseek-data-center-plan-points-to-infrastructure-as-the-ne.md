@@ -25,8 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-01-deepseek-reportedly-plans-a-1-gigawatt-data-center-in-inner
 - 2026-07-31-deepseek-plans-1-gigawatt-data-center-in-inner-mongolia
-- 2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int
-- 2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l
+- 2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri
 embedding_id: 2026-08-02-deepseek-data-center-plan-points-to-infrastructure-as-the-ne
 event_name: ''
 ---
@@ -40,5 +39,5 @@ Memeburn reported that DeepSeek's data-center plan reveals the company's 2026 AI
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-08-01-deepseek-reportedly-plans-a-1-gigawatt-data-center-in-inner]] · [[2026-07-31-deepseek-plans-1-gigawatt-data-center-in-inner-mongolia]] · [[2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int]] · [[2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l]]
+**Related:** [[2026-08-01-deepseek-reportedly-plans-a-1-gigawatt-data-center-in-inner]] · [[2026-07-31-deepseek-plans-1-gigawatt-data-center-in-inner-mongolia]] · [[2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri]]
 <!-- graph:end -->

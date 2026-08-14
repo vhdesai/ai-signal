@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode
 - 2026-08-12-google-deepmind-ships-sign-language-translation-to-android-p
-- 2026-05-08-openai-ships-three-new-real-time-voice-models-via-api-gpt-re
 - 2026-08-12-google-deepmind-ships-sl2t-sign-language-translation-on-andr
 - 2026-05-18-openai-released-three-new-voice-api-models-designed-for-live
+- 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
 embedding_id: 2026-04-16-deepl-the-company-best-known-for-text-translation-released-a
 event_name: ''
 ---
@@ -37,5 +37,5 @@ DeepL, the company best known for text translation, released a real-time voice-t
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode]] · [[2026-08-12-google-deepmind-ships-sign-language-translation-to-android-p]] · [[2026-05-08-openai-ships-three-new-real-time-voice-models-via-api-gpt-re]] · [[2026-08-12-google-deepmind-ships-sl2t-sign-language-translation-on-andr]] · [[2026-05-18-openai-released-three-new-voice-api-models-designed-for-live]]
+**Related:** [[2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode]] · [[2026-08-12-google-deepmind-ships-sign-language-translation-to-android-p]] · [[2026-08-12-google-deepmind-ships-sl2t-sign-language-translation-on-andr]] · [[2026-05-18-openai-released-three-new-voice-api-models-designed-for-live]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]]
 <!-- graph:end -->

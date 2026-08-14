@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-apple-seeds-ios-26-6-developer-beta-1
-- 2026-07-15-apple-opens-revamped-siri-ai-through-the-ios-27-public-beta
 - 2026-05-25-apple-s-mysterious-genai-apple-com-subdomain-hints-at-major
 - 2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed
+- 2026-07-06-apple-adds-siri-pace-and-expressivity-controls-in-the-ios-27
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
 embedding_id: 2026-05-26-apple-releases-first-ios-26-6-beta-for-developers
 event_name: ''
@@ -36,5 +36,5 @@ Apple seeded the first developer beta of iOS 26.6, beginning the next-cycle test
 ## Connections
 
 **Entities:** [[Apple]]
-**Related:** [[2026-05-26-apple-seeds-ios-26-6-developer-beta-1]] · [[2026-07-15-apple-opens-revamped-siri-ai-through-the-ios-27-public-beta]] · [[2026-05-25-apple-s-mysterious-genai-apple-com-subdomain-hints-at-major]] · [[2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]]
+**Related:** [[2026-05-26-apple-seeds-ios-26-6-developer-beta-1]] · [[2026-05-25-apple-s-mysterious-genai-apple-com-subdomain-hints-at-major]] · [[2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed]] · [[2026-07-06-apple-adds-siri-pace-and-expressivity-controls-in-the-ios-27]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]]
 <!-- graph:end -->

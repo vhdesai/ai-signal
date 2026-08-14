@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon
 - 2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon
 - 2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual
-- 2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc
 - 2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua
+- 2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc
 embedding_id: 2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The WSJ reports enterprises are rationing AI usage after some exhausted annual b
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon]] · [[2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon]] · [[2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual]] · [[2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc]] · [[2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua]]
+**Related:** [[2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon]] · [[2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon]] · [[2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual]] · [[2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua]] · [[2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc]]
 <!-- graph:end -->

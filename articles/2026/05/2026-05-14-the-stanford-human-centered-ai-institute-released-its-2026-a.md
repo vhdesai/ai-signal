@@ -25,7 +25,6 @@ related_article_ids:
 - 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
 - 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
 - 2026-05-18-stanford-s-annual-ai-index-the-field-s-most-cited-benchmark
-- 2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme
 embedding_id: 2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a
 event_name: ''
 ---
@@ -39,5 +38,5 @@ The Stanford Human-Centered AI Institute released its 2026 AI Index, the most co
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]] · [[2026-05-18-stanford-s-annual-ai-index-the-field-s-most-cited-benchmark]] · [[2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme]]
+**Related:** [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]] · [[2026-05-18-stanford-s-annual-ai-index-the-field-s-most-cited-benchmark]]
 <!-- graph:end -->

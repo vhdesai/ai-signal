@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall
 - 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
 - 2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface
-- 2026-07-15-ibm-shares-plunge-roughly-24-25-after-q2-warning-as-enterpri
+- 2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws
 embedding_id: 2026-06-04-broadcom-slides-12-as-ai-guidance-disappoints-lofty-expectat
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Broadcom fell ~12–13% after fiscal Q2 results paired strong AI revenue growth 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co]] · [[2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]] · [[2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface]] · [[2026-07-15-ibm-shares-plunge-roughly-24-25-after-q2-warning-as-enterpri]]
+**Related:** [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co]] · [[2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]] · [[2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface]] · [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]]
 <!-- graph:end -->

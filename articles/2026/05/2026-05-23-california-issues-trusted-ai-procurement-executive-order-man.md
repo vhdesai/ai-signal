@@ -21,10 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-01-governor-gavin-newsom-signed-an-executive-order-on-march-30
-- 2026-04-01-california-governor-newsom-signs-first-of-its-kind-ai-execut
-- 2026-05-21-california-s-governor-signed-a-state-level-executive-order-f
 - 2026-08-02-california-s-ai-transparency-act-sb-942-becomes-operative
 - 2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ
+- 2026-08-03-24-california-sb-942-ai-transparency-act-becomes-operative
 embedding_id: 2026-05-23-california-issues-trusted-ai-procurement-executive-order-man
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Governor Newsom issued an executive order directing California state agencies to
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-01-governor-gavin-newsom-signed-an-executive-order-on-march-30]] · [[2026-04-01-california-governor-newsom-signs-first-of-its-kind-ai-execut]] · [[2026-05-21-california-s-governor-signed-a-state-level-executive-order-f]] · [[2026-08-02-california-s-ai-transparency-act-sb-942-becomes-operative]] · [[2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ]]
+**Related:** [[2026-04-01-governor-gavin-newsom-signed-an-executive-order-on-march-30]] · [[2026-08-02-california-s-ai-transparency-act-sb-942-becomes-operative]] · [[2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ]] · [[2026-08-03-24-california-sb-942-ai-transparency-act-becomes-operative]]
 <!-- graph:end -->

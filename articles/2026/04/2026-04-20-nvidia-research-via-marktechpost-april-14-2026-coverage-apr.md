@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-14-nvidia-ising-open-models-for-quantum-error-correction
 - 2026-05-09-newnvidia-launches-nvidia-ising-world-s-first-open-source-qu
-- 2026-07-05-nvidia-releases-horizon-a-hands-free-agent-framework-for-har
-- 2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on
 - 2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea
+- 2026-05-28-nvidia-research-presents-eight-icra-papers-advancing-sim-to
+- 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
 embedding_id: 2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA Research via MarkTechPost • April 14, 2026 (coverage Apr 19) NVIDIA res
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-14-nvidia-ising-open-models-for-quantum-error-correction]] · [[2026-05-09-newnvidia-launches-nvidia-ising-world-s-first-open-source-qu]] · [[2026-07-05-nvidia-releases-horizon-a-hands-free-agent-framework-for-har]] · [[2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on]] · [[2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea]]
+**Related:** [[2026-04-14-nvidia-ising-open-models-for-quantum-error-correction]] · [[2026-05-09-newnvidia-launches-nvidia-ising-world-s-first-open-source-qu]] · [[2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea]] · [[2026-05-28-nvidia-research-presents-eight-icra-papers-advancing-sim-to]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]]
 <!-- graph:end -->

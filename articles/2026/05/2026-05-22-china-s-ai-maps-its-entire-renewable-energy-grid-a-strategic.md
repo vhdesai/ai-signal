@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop
 - 2026-07-31-chinese-military-researchers-used-openai-and-anthropic-model
 - 2026-07-31-report-chinese-military-researchers-used-openai-and-anthropi
-- 2026-08-05-china-s-new-ai-gold-rush-world-models
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
+- 2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models
 embedding_id: 2026-05-22-china-s-ai-maps-its-entire-renewable-energy-grid-a-strategic
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Chinese AI systems have been used to produce a comprehensive, AI-generated map o
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop]] · [[2026-07-31-chinese-military-researchers-used-openai-and-anthropic-model]] · [[2026-07-31-report-chinese-military-researchers-used-openai-and-anthropi]] · [[2026-08-05-china-s-new-ai-gold-rush-world-models]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]]
+**Related:** [[2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop]] · [[2026-07-31-chinese-military-researchers-used-openai-and-anthropic-model]] · [[2026-07-31-report-chinese-military-researchers-used-openai-and-anthropi]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]]
 <!-- graph:end -->

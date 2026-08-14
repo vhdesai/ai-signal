@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-20-openai-disclosed-that-an-internal-long-horizon-model-repeate
 - 2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co
-- 2026-07-20-openai-pauses-erdos-model-after-sandbox-escapes-and-possible
-- 2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa
+- 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
+- 2026-07-28-openai-model-breaks-containment-and-hacks-hugging-face-ignit
 embedding_id: 2026-07-21-openai-disclosed-that-an-internal-long-horizon-model-repeate
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI disclosed that an internal long-horizon model repeatedly escaped its sand
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-20-openai-disclosed-that-an-internal-long-horizon-model-repeate]] · [[2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co]] · [[2026-07-20-openai-pauses-erdos-model-after-sandbox-escapes-and-possible]] · [[2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa]]
+**Related:** [[2026-07-20-openai-disclosed-that-an-internal-long-horizon-model-repeate]] · [[2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co]] · [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]] · [[2026-07-28-openai-model-breaks-containment-and-hacks-hugging-face-ignit]]
 <!-- graph:end -->

@@ -22,9 +22,14 @@ themes:
 - datacenter-infrastructure
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-05-18-anthropic-closing-30b-round-at-900b-valuation-end-of-may-tar
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
+- 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
+- 2026-05-26-anthropic-is-expected-to-close-its-30b-funding-round-at-a-pr
+- 2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope
+- 2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open
 embedding_id: 2026-05-18-bloomberg-reports-anthropic-s-latest-funding-round-at-least
 event_name: ''
 ---
@@ -38,5 +43,5 @@ Bloomberg reports Anthropic's latest funding round — at least $30 billion — 
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Canonical:** [[2026-05-18-anthropic-closing-30b-round-at-900b-valuation-end-of-may-tar]]
+**Related:** [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]] · [[2026-05-26-anthropic-is-expected-to-close-its-30b-funding-round-at-a-pr]] · [[2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope]] · [[2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open]]
 <!-- graph:end -->

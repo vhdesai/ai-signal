@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi
 - 2026-06-19-elastic-reportedly-agrees-to-buy-deductive-ai-for-up-to-85m
 - 2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in
-- 2026-03-24-aws-and-cerebras-partner-for-industry-leading-ai-inference-s
+- 2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope
 embedding_id: 2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Baseten CEO Tuhin Srivastava told Business Insider's Tech Memo that the cloud ma
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains]] · [[2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi]] · [[2026-06-19-elastic-reportedly-agrees-to-buy-deductive-ai-for-up-to-85m]] · [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]] · [[2026-03-24-aws-and-cerebras-partner-for-industry-leading-ai-inference-s]]
+**Related:** [[2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains]] · [[2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi]] · [[2026-06-19-elastic-reportedly-agrees-to-buy-deductive-ai-for-up-to-85m]] · [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]] · [[2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope]]
 <!-- graph:end -->

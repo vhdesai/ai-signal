@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-05-20-vatican-to-release-papal-encyclical-on-ai-alongside-anthropi
 - 2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher
 - 2026-05-26-pope-leo-xiv-released-the-vatican-s-first-ever-encyclical-on
+- 2026-05-18-the-vatican-announced-monday-that-pope-leo-xiv-and-anthropic
 embedding_id: 2026-05-19-vatican-announces-first-papal-encyclical-on-ai-anthropic-co
 event_name: ''
 ---
@@ -39,5 +40,5 @@ The Vatican announced on May 19 that an Anthropic co-founder will appear alongsi
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-20-vatican-to-release-papal-encyclical-on-ai-alongside-anthropi]] · [[2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher]] · [[2026-05-26-pope-leo-xiv-released-the-vatican-s-first-ever-encyclical-on]]
+**Related:** [[2026-05-20-vatican-to-release-papal-encyclical-on-ai-alongside-anthropi]] · [[2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher]] · [[2026-05-26-pope-leo-xiv-released-the-vatican-s-first-ever-encyclical-on]] · [[2026-05-18-the-vatican-announced-monday-that-pope-leo-xiv-and-anthropic]]
 <!-- graph:end -->

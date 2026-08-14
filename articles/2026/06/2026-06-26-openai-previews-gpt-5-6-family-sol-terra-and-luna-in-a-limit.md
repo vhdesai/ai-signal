@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe
 related_article_ids:
-- 2026-06-26-openai-previews-gpt-5-6-sol-terra-luna-but-only-for-governme
+- 2026-06-26-openai-soft-launches-gpt-5-6-sol-terra-luna-under-restricted
 embedding_id: 2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-luna-in-a-limit
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI launched a limited preview of GPT‑5.6 across three tiers: Sol, its stro
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
 **Canonical:** [[2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe]]
-**Related:** [[2026-06-26-openai-previews-gpt-5-6-sol-terra-luna-but-only-for-governme]]
+**Related:** [[2026-06-26-openai-soft-launches-gpt-5-6-sol-terra-luna-under-restricted]]
 <!-- graph:end -->

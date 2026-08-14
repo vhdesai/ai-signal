@@ -1,16 +1,14 @@
 ---
 type: entity-hub
 hub: SAP
-member_count: 24
+member_count: 21
 ---
 
 # SAP
 
-> Auto-generated entity hub. 24 connected article(s).
+> Auto-generated entity hub. 21 connected article(s).
 
 - `2026-07-28` [[2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou|SAP Pins Future on Business AI Platform After Strong Q2 Cloud Earnings]]
-- `2026-07-28` [[2026-07-28-cio-dive-2026-07-28-external-july-28-cio-skills-evolution-sa|CIO Dive - [2026-07-28] [EXTERNAL] July 28 - CIO skills evolution | SAP eyes the (AI) enterprise - [2026-07-28]…]]
-- `2026-07-10` [[2026-07-10-cio-dive-2026-07-10-external-july-10-ai-dominates-in-demand|CIO Dive - [2026-07-10] [EXTERNAL] July 10 - AI dominates in-demand skills | SAP eases EU competition concerns]]
 - `2026-06-29` [[2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s|Oracle adds four agentic supply-chain apps to Fusion Cloud SCM]]
 - `2026-05-28` [[2026-05-28-lowe-s-says-semantic-data-is-materially-boosting-its-ai-agen|Lowe's says "semantic" data is materially boosting its AI agents]]
 - `2026-05-27` [[2026-05-27-the-week-that-reset-the-ai-industry|The Week That Reset the AI Industry]]
@@ -25,7 +23,6 @@ member_count: 24
 - `2026-05-04` [[2026-05-04-sap-moves-to-block-openclaw-and-other-unauthorized-ai-agents|SAP moves to block OpenClaw and other unauthorized AI agents]]
 - `2026-05-03` [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock|Palantir's AI pricing power becomes the next software-stock test]]
 - `2026-04-27` [[2026-04-27-dod-framing-an-architecture-that-prevents-ai-vendor-lock-in|DOD framing — "an architecture that prevents AI vendor lock-in and ensures long-term flexibility for the Joint Force" — formalizes multi-vendor sourcing as policy. Likely to be mirrored by allied procurement frameworks (UK, Australia, NATO) and accelerate sovereign-AI tendering globally.]]
-- `2026-04-23` [[2026-04-23-sap-signed-a-definitive-agreement-to-acquire-prior-labs-pion|SAP signed a definitive agreement to acquire Prior Labs, pioneer of Tabular Foundation Models (TFMs), and committed to invest more than €1 billion over four years to scale it as an independent frontier lab. Prior Labs' TabPFN-2.6 leads the TabArena benchmark and matches a four-hour AutoML pipeline instantly. Yann LeCun and Bernhard Schölkopf will sit on the scientific advisory board. The deal closes Q2/Q3 2026 pending regulatory approval, and signals SAP's bet that structured-data AI — not LLMs — is the largest untapped enterprise opportunity.]]
 - [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform|NVIDIA GTC 2026 and GTC Taipei 2026: Vera Rubin platform]]
 - [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics|NVIDIA GTC 2026 and GTC Taipei 2026: Physical AI and robotics]]
 - [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack|NVIDIA GTC 2026 and GTC Taipei 2026: Nemotron and agent stack]]

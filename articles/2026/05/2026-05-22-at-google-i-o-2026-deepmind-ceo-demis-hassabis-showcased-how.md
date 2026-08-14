@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-22-google-deepmind-ai-weather-system-provided-advance-warning-o
 - 2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few
 - 2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog
 - 2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus
 - 2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body
+- 2026-06-02-hassabis-companies-have-ai-backwards-on-jobs
 embedding_id: 2026-05-22-at-google-i-o-2026-deepmind-ceo-demis-hassabis-showcased-how
 event_name: ''
 ---
@@ -41,5 +41,5 @@ At Google I/O 2026, DeepMind CEO Demis Hassabis showcased how the company's AI-p
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-google-deepmind-ai-weather-system-provided-advance-warning-o]] · [[2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few]] · [[2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog]] · [[2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus]] · [[2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body]]
+**Related:** [[2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few]] · [[2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog]] · [[2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus]] · [[2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body]] · [[2026-06-02-hassabis-companies-have-ai-backwards-on-jobs]]
 <!-- graph:end -->

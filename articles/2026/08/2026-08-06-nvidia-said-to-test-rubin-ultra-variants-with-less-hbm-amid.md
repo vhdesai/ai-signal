@@ -19,8 +19,7 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
-related_article_ids:
-- 2026-08-06-nvidia-tests-rubin-ultra-variants-with-less-hbm-amid-tight-m
+related_article_ids: []
 embedding_id: 2026-08-06-nvidia-said-to-test-rubin-ultra-variants-with-less-hbm-amid
 event_name: ''
 ---
@@ -35,5 +34,4 @@ The Information reports Nvidia is testing Rubin Ultra configurations with less h
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]]
-**Related:** [[2026-08-06-nvidia-tests-rubin-ultra-variants-with-less-hbm-amid-tight-m]]
 <!-- graph:end -->

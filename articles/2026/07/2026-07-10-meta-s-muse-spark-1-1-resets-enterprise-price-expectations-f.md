@@ -21,8 +21,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-10-meta-ships-low-cost-muse-spark-1-1-undercutting-openai-and-a
 - 2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1
+- 2026-07-10-meta-ships-low-cost-muse-spark-1-1-undercutting-openai-and-a
 embedding_id: 2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Meta's Muse Spark 1.1 entered public preview via the Meta Model API with pricing
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-10-meta-ships-low-cost-muse-spark-1-1-undercutting-openai-and-a]] · [[2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1]]
+**Related:** [[2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1]] · [[2026-07-10-meta-ships-low-cost-muse-spark-1-1-undercutting-openai-and-a]]
 <!-- graph:end -->

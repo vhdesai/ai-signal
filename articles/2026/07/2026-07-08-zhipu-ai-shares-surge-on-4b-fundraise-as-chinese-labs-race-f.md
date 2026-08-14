@@ -18,9 +18,14 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: duplicate
-canonical_article_id: 2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall
+- 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
+- 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
+- 2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two
+- 2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45
 embedding_id: 2026-07-08-zhipu-ai-shares-surge-on-4b-fundraise-as-chinese-labs-race-f
 event_name: ''
 ---
@@ -33,5 +38,5 @@ Zhipu AI raised roughly $4 billion via a discounted placement, sending shares up
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Canonical:** [[2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall]]
+**Related:** [[2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two]] · [[2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45]]
 <!-- graph:end -->

@@ -27,8 +27,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - event-microsoft-build-2026-microsoft-build-2026-overview
-- event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
+- event-microsoft-build-2026-microsoft-build-2026-infrastructure-silicon-and-cloud-operat
 embedding_id: event-microsoft-build-2026-microsoft-build-2026-science-and-quantum
 event_name: Microsoft Build 2026
 ---
@@ -42,5 +42,5 @@ Microsoft Discovery: Generally available agentic AI platform for research and de
 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]]
+**Related:** [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-microsoft-build-2026-infrastructure-silicon-and-cloud-operat]]
 <!-- graph:end -->

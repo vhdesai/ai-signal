@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm
-- 2026-07-24-anthropic-launches-claude-opus-5-at-roughly-half-the-cost-of
-- 2026-07-24-anthropic-launches-claude-opus-5-a-cheaper-agent-focused-fla
-- 2026-07-24-anthropic-launches-claude-opus-5-its-most-capable-and-most-a
+- 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
+- 2026-07-11-claude-opus-4-7-is-now-generally-available
+- 2026-05-17-anthropic-released-claude-opus-4-7-fast-this-week-an-inferen
 embedding_id: 2026-07-27-anthropic-launches-claude-opus-5-at-roughly-half-the-price-o
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Anthropic released Claude Opus 5, positioning it as a thoughtful and proactive m
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm]] · [[2026-07-24-anthropic-launches-claude-opus-5-at-roughly-half-the-cost-of]] · [[2026-07-24-anthropic-launches-claude-opus-5-a-cheaper-agent-focused-fla]] · [[2026-07-24-anthropic-launches-claude-opus-5-its-most-capable-and-most-a]]
+**Related:** [[2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm]] · [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-07-11-claude-opus-4-7-is-now-generally-available]] · [[2026-05-17-anthropic-released-claude-opus-4-7-fast-this-week-an-inferen]]
 <!-- graph:end -->

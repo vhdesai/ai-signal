@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-15-acm-cais-2026-uc-berkeley-mit-accepted-may-2026
-- 2026-05-15-acm-cais-2026-mit-accepted-may-2026
-- 2026-05-16-source-acm-cais-2026-uc-berkeley-mit-may-2026
 - 2026-04-22-academic-research
-- 2026-05-14-acm-cais-2026-berkeley-mit-cmu-papers-advance-multi-agent-sy
+- 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
+- 2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on
+- 2026-05-14-the-inaugural-acm-conference-on-ai-and-agentic-systems-accep
+- 2026-04-20-mit-news-bair-cmu-april-17-19-2026-academic-labs-posted-new
 embedding_id: 2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The accepted-papers list for the 58th ACM Symposium on Theory of Computing was u
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-15-acm-cais-2026-uc-berkeley-mit-accepted-may-2026]] · [[2026-05-15-acm-cais-2026-mit-accepted-may-2026]] · [[2026-05-16-source-acm-cais-2026-uc-berkeley-mit-may-2026]] · [[2026-04-22-academic-research]] · [[2026-05-14-acm-cais-2026-berkeley-mit-cmu-papers-advance-multi-agent-sy]]
+**Related:** [[2026-04-22-academic-research]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on]] · [[2026-05-14-the-inaugural-acm-conference-on-ai-and-agentic-systems-accep]] · [[2026-04-20-mit-news-bair-cmu-april-17-19-2026-academic-labs-posted-new]]
 <!-- graph:end -->

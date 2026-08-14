@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1-at-cut-rate-p
 related_article_ids:
-- 2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1-its
+- 2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1
 embedding_id: 2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta Superintelligence Labs publicly launched Muse Spark 1.1, a multimodal model
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1-at-cut-rate-p]]
-**Related:** [[2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1-its]]
+**Related:** [[2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1]]
 <!-- graph:end -->

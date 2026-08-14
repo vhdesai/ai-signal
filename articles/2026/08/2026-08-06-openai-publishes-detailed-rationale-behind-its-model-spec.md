@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy
 - 2026-06-03-openai-publishes-governance-blueprint-altman-urges-against-m
-- 2026-07-21-openai-published-safety-and-alignment-guidance-for-long-hori
+- 2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le
 embedding_id: 2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec
 event_name: ''
 ---
@@ -36,5 +36,5 @@ OpenAI published an explainer on the design philosophy behind its Model Spec, th
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy]] · [[2026-06-03-openai-publishes-governance-blueprint-altman-urges-against-m]] · [[2026-07-21-openai-published-safety-and-alignment-guidance-for-long-hori]]
+**Related:** [[2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy]] · [[2026-06-03-openai-publishes-governance-blueprint-altman-urges-against-m]] · [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le]]
 <!-- graph:end -->

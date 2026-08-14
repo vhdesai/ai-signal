@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-16-analysis-circulating-widely-on-may-15-109-hacker-news-points
-- 2026-05-16-hot-anthropic-s-mythos-model-hidden-due-to-100m-cost-and-cyb
-- 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
-- 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
 - 2026-04-10-anthropic-s-decision-to-develop-but-withhold-claude-mythos-f
+- 2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f
+- 2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang
+- 2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s
 embedding_id: 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Speculation is mounting around Anthropic's unreleased "Mythos" model, with analy
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-16-analysis-circulating-widely-on-may-15-109-hacker-news-points]] · [[2026-05-16-hot-anthropic-s-mythos-model-hidden-due-to-100m-cost-and-cyb]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-04-10-anthropic-s-decision-to-develop-but-withhold-claude-mythos-f]]
+**Related:** [[2026-05-16-analysis-circulating-widely-on-may-15-109-hacker-news-points]] · [[2026-04-10-anthropic-s-decision-to-develop-but-withhold-claude-mythos-f]] · [[2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f]] · [[2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang]] · [[2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s]]
 <!-- graph:end -->

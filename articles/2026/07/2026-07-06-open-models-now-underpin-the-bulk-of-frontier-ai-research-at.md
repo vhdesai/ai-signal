@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod
 - 2026-08-11-nvidia-is-building-a-1-trillion-parameter-open-model-nemotro
 - 2026-08-11-nvidia-is-developing-a-1-trillion-parameter-nemotron-4-open
-- 2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet
+- 2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica
 embedding_id: 2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at
 event_name: ''
 ---
@@ -38,5 +38,5 @@ At ICML 2026, roughly 2,000 accepted papers cite NVIDIA GPUs and about 145 build
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]] · [[2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod]] · [[2026-08-11-nvidia-is-building-a-1-trillion-parameter-open-model-nemotro]] · [[2026-08-11-nvidia-is-developing-a-1-trillion-parameter-nemotron-4-open]] · [[2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet]]
+**Related:** [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]] · [[2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod]] · [[2026-08-11-nvidia-is-building-a-1-trillion-parameter-open-model-nemotro]] · [[2026-08-11-nvidia-is-developing-a-1-trillion-parameter-nemotron-4-open]] · [[2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica]]
 <!-- graph:end -->

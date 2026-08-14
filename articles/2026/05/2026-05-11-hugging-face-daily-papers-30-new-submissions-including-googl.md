@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-05-11-analytics-vidhya-top-10-llm-research-papers-of-2026-deepmind
 - 2026-05-03-research-academic-arxiv-cs-ai-arxiv-cs-lg-arxiv-cs-cl-arxiv
 - 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
-- 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
-- 2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de
+- 2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age
+- 2026-07-13-arxiv-cs-ai-daily-drop-116-new-ai-preprints-posted-july-13
 embedding_id: 2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl
 event_name: ''
 ---
@@ -42,5 +42,5 @@ The May 11 Hugging Face Daily Papers panel aggregated approximately 30 new prepr
 
 **Entities:** [[Google]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-11-analytics-vidhya-top-10-llm-research-papers-of-2026-deepmind]] · [[2026-05-03-research-academic-arxiv-cs-ai-arxiv-cs-lg-arxiv-cs-cl-arxiv]] · [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]]
+**Related:** [[2026-05-11-analytics-vidhya-top-10-llm-research-papers-of-2026-deepmind]] · [[2026-05-03-research-academic-arxiv-cs-ai-arxiv-cs-lg-arxiv-cs-cl-arxiv]] · [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]] · [[2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age]] · [[2026-07-13-arxiv-cs-ai-daily-drop-116-new-ai-preprints-posted-july-13]]
 <!-- graph:end -->

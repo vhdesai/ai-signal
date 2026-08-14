@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-ai-tools-find-third-major-linux-kernel-vulnerability-in-two
 - 2026-05-17-security-researchers-using-ai-tools-found-the-third-major-li
-- 2026-05-17-ai-discovers-third-major-linux-kernel-flaw-in-two-weeks
-- 2026-05-16-hot-ai-finds-third-major-linux-kernel-flaw-in-two-weeks
 - 2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu
+- 2026-05-17-academic-research-arxiv-will-impose-1-year-bans-for-ai-gener
+- 2026-05-14-macos-privilege-escalation-vulnerability-discovered-using-ai
 embedding_id: 2026-05-16-security-researchers-leveraging-ai-tools-discovered-the-thir
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Security researchers leveraging AI tools discovered the third significant Linux 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-14-ai-tools-find-third-major-linux-kernel-vulnerability-in-two]] · [[2026-05-17-security-researchers-using-ai-tools-found-the-third-major-li]] · [[2026-05-17-ai-discovers-third-major-linux-kernel-flaw-in-two-weeks]] · [[2026-05-16-hot-ai-finds-third-major-linux-kernel-flaw-in-two-weeks]] · [[2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu]]
+**Related:** [[2026-05-14-ai-tools-find-third-major-linux-kernel-vulnerability-in-two]] · [[2026-05-17-security-researchers-using-ai-tools-found-the-third-major-li]] · [[2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu]] · [[2026-05-17-academic-research-arxiv-will-impose-1-year-bans-for-ai-gener]] · [[2026-05-14-macos-privilege-escalation-vulnerability-discovered-using-ai]]
 <!-- graph:end -->

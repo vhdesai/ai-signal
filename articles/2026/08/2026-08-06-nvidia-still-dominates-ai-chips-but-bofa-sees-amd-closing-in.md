@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
-- 2026-07-17-nvidia-gpu-and-ai-chip-sentiment-remains-volatile-as-apple-b
-- 2026-07-18-nvidia-gpu-and-ai-chip-sentiment-remains-volatile-as-apple-b
+- 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
+- 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
 embedding_id: 2026-08-06-nvidia-still-dominates-ai-chips-but-bofa-sees-amd-closing-in
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia continues to dominate AI accelerators, but Bank of America analysts see A
 
 **Entities:** [[AMD]] · [[Intel]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-07-17-nvidia-gpu-and-ai-chip-sentiment-remains-volatile-as-apple-b]] · [[2026-07-18-nvidia-gpu-and-ai-chip-sentiment-remains-volatile-as-apple-b]]
+**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]]
 <!-- graph:end -->

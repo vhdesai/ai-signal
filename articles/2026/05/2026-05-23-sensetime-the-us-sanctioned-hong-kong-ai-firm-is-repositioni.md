@@ -27,10 +27,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-sensetime-co-founder-lin-dahua-told-cnbc-that-the-u-s-sancti
-- 2026-05-18-sensetime-bets-on-lower-cost-models-and-overseas-expansion-a
 - 2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o
-- 2026-05-23-sensetime-bets-cost-efficiency-wins-the-ai-race-sensenova-u1
-- 2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite
+- 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
+- 2026-07-10-openai-and-google-sold-ai-models-to-singapore-units-of-black
+- 2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed
 embedding_id: 2026-05-23-sensetime-the-us-sanctioned-hong-kong-ai-firm-is-repositioni
 event_name: ''
 ---
@@ -44,5 +44,5 @@ SenseTime, the US-sanctioned Hong Kong AI firm, is repositioning around cost-eff
 
 **Entities:** [[Alibaba]] · [[ByteDance]] · [[OpenAI]] · [[Perplexity]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-18-sensetime-co-founder-lin-dahua-told-cnbc-that-the-u-s-sancti]] · [[2026-05-18-sensetime-bets-on-lower-cost-models-and-overseas-expansion-a]] · [[2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o]] · [[2026-05-23-sensetime-bets-cost-efficiency-wins-the-ai-race-sensenova-u1]] · [[2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite]]
+**Related:** [[2026-05-18-sensetime-co-founder-lin-dahua-told-cnbc-that-the-u-s-sancti]] · [[2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-07-10-openai-and-google-sold-ai-models-to-singapore-units-of-black]] · [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]]
 <!-- graph:end -->

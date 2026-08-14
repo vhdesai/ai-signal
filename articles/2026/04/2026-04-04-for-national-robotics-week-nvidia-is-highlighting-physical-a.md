@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-04-nvidia-national-robotics-week-physical-ai-enters-industrial
-- 2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform
 - 2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations
 - 2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea
 - 2026-05-28-nvidia-research-advances-robotics-work-from-simulation-towar
+- 2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve
+- event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f
 embedding_id: 2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a
 event_name: ''
 ---
@@ -39,5 +39,5 @@ For National Robotics Week, NVIDIA is highlighting physical AI entering producti
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-04-nvidia-national-robotics-week-physical-ai-enters-industrial]] · [[2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform]] · [[2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations]] · [[2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea]] · [[2026-05-28-nvidia-research-advances-robotics-work-from-simulation-towar]]
+**Related:** [[2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations]] · [[2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea]] · [[2026-05-28-nvidia-research-advances-robotics-work-from-simulation-towar]] · [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]]
 <!-- graph:end -->

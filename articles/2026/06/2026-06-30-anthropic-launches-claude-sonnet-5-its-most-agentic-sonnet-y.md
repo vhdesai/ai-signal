@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-06-anthropic-s-claude-sonnet-5-becomes-generally-available-on-a
 - 2026-08-10-anthropic-makes-claude-sonnet-5-introductory-pricing-permane
-- 2026-07-24-anthropic-launches-claude-opus-5-a-cheaper-agent-focused-fla
-- 2026-07-24-anthropic-launches-claude-opus-5-as-a-cheaper-agent-focused
 - 2026-07-01-anthropic-ships-claude-sonnet-5-and-restores-fable-and-mytho
+- 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
+- 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
 embedding_id: 2026-06-30-anthropic-launches-claude-sonnet-5-its-most-agentic-sonnet-y
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic unveiled Claude Sonnet 5 on June 30, calling it its most agentic Sonne
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-06-anthropic-s-claude-sonnet-5-becomes-generally-available-on-a]] · [[2026-08-10-anthropic-makes-claude-sonnet-5-introductory-pricing-permane]] · [[2026-07-24-anthropic-launches-claude-opus-5-a-cheaper-agent-focused-fla]] · [[2026-07-24-anthropic-launches-claude-opus-5-as-a-cheaper-agent-focused]] · [[2026-07-01-anthropic-ships-claude-sonnet-5-and-restores-fable-and-mytho]]
+**Related:** [[2026-07-06-anthropic-s-claude-sonnet-5-becomes-generally-available-on-a]] · [[2026-08-10-anthropic-makes-claude-sonnet-5-introductory-pricing-permane]] · [[2026-07-01-anthropic-ships-claude-sonnet-5-and-restores-fable-and-mytho]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]]
 <!-- graph:end -->

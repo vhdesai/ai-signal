@@ -27,11 +27,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-04-chinese-ai-models-surge-alibaba-qwen-3-6-plus-live-deepseek
 - 2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack
-- 2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l
 - 2026-05-24-alibaba-qwen-3-7-max-reaches-full-ga-on-openrouter-and-dashs
 - 2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand
+- 2026-05-13-alibaba-s-qwen-3-6-lands-27b-and-35b-variants-outperform-pri
+- 2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti
 embedding_id: 2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Alibaba quietly released Qwen 3.6 Plus on OpenRouter for free—featuring a 1M c
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-04-chinese-ai-models-surge-alibaba-qwen-3-6-plus-live-deepseek]] · [[2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack]] · [[2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l]] · [[2026-05-24-alibaba-qwen-3-7-max-reaches-full-ga-on-openrouter-and-dashs]] · [[2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand]]
+**Related:** [[2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack]] · [[2026-05-24-alibaba-qwen-3-7-max-reaches-full-ga-on-openrouter-and-dashs]] · [[2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand]] · [[2026-05-13-alibaba-s-qwen-3-6-lands-27b-and-35b-variants-outperform-pri]] · [[2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti]]
 <!-- graph:end -->

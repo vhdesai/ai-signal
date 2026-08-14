@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-04-aws-launches-web-search-on-amazon-bedrock-for-model-groundin
 - 2026-08-04-aws-adds-native-web-search-grounding-to-amazon-bedrock
-- 2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed
 - 2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed
 - 2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon
+- 2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock
 embedding_id: 2026-08-04-amazon-bedrock-makes-built-in-web-search-generally-available
 event_name: ''
 ---
@@ -39,5 +39,5 @@ AWS moved Web Search to general availability on Amazon Bedrock, giving models a 
 
 **Entities:** [[Amazon]] · [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-04-aws-launches-web-search-on-amazon-bedrock-for-model-groundin]] · [[2026-08-04-aws-adds-native-web-search-grounding-to-amazon-bedrock]] · [[2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed]] · [[2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed]] · [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]]
+**Related:** [[2026-08-04-aws-launches-web-search-on-amazon-bedrock-for-model-groundin]] · [[2026-08-04-aws-adds-native-web-search-grounding-to-amazon-bedrock]] · [[2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed]] · [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock]]
 <!-- graph:end -->

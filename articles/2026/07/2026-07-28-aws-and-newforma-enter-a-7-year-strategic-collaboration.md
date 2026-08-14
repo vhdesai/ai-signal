@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-16-openai-signed-a-strategic-partnership-with-wegovy-maker-novo
+- 2026-07-28-recursive-signs-410m-multi-year-aws-deal-to-scale-self-impro
 - 2026-04-27-
 - 2026-07-01-amazon-s-aws-commits-1-billion-to-a-new-forward-deployed-eng
-- 2026-07-28-recursive-signs-410m-multi-year-aws-deal-to-scale-self-impro
 - 2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai
 embedding_id: 2026-07-28-aws-and-newforma-enter-a-7-year-strategic-collaboration
 event_name: ''
@@ -39,5 +39,5 @@ Architecture/engineering/construction software firm Newforma announced a seven-y
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-16-openai-signed-a-strategic-partnership-with-wegovy-maker-novo]] · [[2026-04-27-]] · [[2026-07-01-amazon-s-aws-commits-1-billion-to-a-new-forward-deployed-eng]] · [[2026-07-28-recursive-signs-410m-multi-year-aws-deal-to-scale-self-impro]] · [[2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai]]
+**Related:** [[2026-04-16-openai-signed-a-strategic-partnership-with-wegovy-maker-novo]] · [[2026-07-28-recursive-signs-410m-multi-year-aws-deal-to-scale-self-impro]] · [[2026-04-27-]] · [[2026-07-01-amazon-s-aws-commits-1-billion-to-a-new-forward-deployed-eng]] · [[2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai]]
 <!-- graph:end -->

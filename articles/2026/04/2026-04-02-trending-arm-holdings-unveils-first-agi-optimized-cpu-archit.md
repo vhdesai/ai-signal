@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-06-arm-announced-a-136-core-processor-designed-specifically-for
-- 2026-04-06-arm-unveils-136-core-agi-cpu-first-new-chip-architecture-in
-- 2026-04-02-arm-holdings-enters-chip-market-with-first-agi-cpu-for-data
 - 2026-04-02-arm-holdings-whose-instruction-set-architecture-underpins-ch
+- 2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte
+- 2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex
+- 2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar
 embedding_id: 2026-04-02-trending-arm-holdings-unveils-first-agi-optimized-cpu-archit
 event_name: ''
 ---
@@ -38,5 +39,5 @@ event_name: ''
 
 **Entities:** [[Arm]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-06-arm-announced-a-136-core-processor-designed-specifically-for]] · [[2026-04-06-arm-unveils-136-core-agi-cpu-first-new-chip-architecture-in]] · [[2026-04-02-arm-holdings-enters-chip-market-with-first-agi-cpu-for-data]] · [[2026-04-02-arm-holdings-whose-instruction-set-architecture-underpins-ch]]
+**Related:** [[2026-04-06-arm-announced-a-136-core-processor-designed-specifically-for]] · [[2026-04-02-arm-holdings-whose-instruction-set-architecture-underpins-ch]] · [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]] · [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex]] · [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]]
 <!-- graph:end -->

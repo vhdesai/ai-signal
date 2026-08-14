@@ -20,9 +20,13 @@ themes:
 - model-capabilities
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-05-13-anthropic-expands-claude-into-legal-services-with-westlaw-do
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
+- 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da
+- 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
+- 2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a
 embedding_id: 2026-05-13-anthropic-officially-expanded-claude-into-legal-services-via
 event_name: ''
 ---
@@ -36,5 +40,5 @@ Anthropic officially expanded Claude into legal services via a new set of Cowork
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Canonical:** [[2026-05-13-anthropic-expands-claude-into-legal-services-with-westlaw-do]]
+**Related:** [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]] · [[2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a]]
 <!-- graph:end -->

@@ -21,8 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec
-- 2026-07-31-microsoft-introduces-mai-cyber-1-flash-and-project-perceptio
 - 2026-07-28-microsoft-launches-mai-cyber-1-flash-its-first-cybersecurity
+- 2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc
+- 2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb
+- 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
 embedding_id: 2026-08-03-3-cogent-ai-releases-vr-1-cyber-reasoning-model
 event_name: ''
 ---
@@ -35,5 +37,5 @@ Cogent AI introduced VR-1, a reasoning model post-trained specifically for cyber
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec]] · [[2026-07-31-microsoft-introduces-mai-cyber-1-flash-and-project-perceptio]] · [[2026-07-28-microsoft-launches-mai-cyber-1-flash-its-first-cybersecurity]]
+**Related:** [[2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec]] · [[2026-07-28-microsoft-launches-mai-cyber-1-flash-its-first-cybersecurity]] · [[2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc]] · [[2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb]] · [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]]
 <!-- graph:end -->

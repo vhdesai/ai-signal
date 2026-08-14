@@ -28,6 +28,7 @@ related_article_ids:
 - 2026-07-09-openai-launches-gpt-5-6-family-sol-terra-luna-to-general-ava
 - 2026-07-08-openai-opens-gpt-5-6-sol-terra-and-luna-to-the-public
 - 2026-06-26-openai-launches-gpt-5-6-sol-terra-luna-gated-to-government-a
+- 2026-06-26-openai-previews-gpt-5-6-sol-terra-luna-but-only-for-governme
 embedding_id: 2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe
 event_name: ''
 ---
@@ -41,5 +42,5 @@ OpenAI previewed a three-tier GPT‑5.6 family: flagship Sol, a balanced everyda
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-luna-in-a-limit]] · [[2026-07-09-openai-launches-the-gpt-5-6-family-sol-terra-and-luna]] · [[2026-07-29-openai-launches-the-gpt-5-6-family-competing-on-intelligence]] · [[2026-07-09-openai-launches-gpt-5-6-family-sol-terra-luna-to-general-ava]] · [[2026-07-08-openai-opens-gpt-5-6-sol-terra-and-luna-to-the-public]] · [[2026-06-26-openai-launches-gpt-5-6-sol-terra-luna-gated-to-government-a]]
+**Related:** [[2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-luna-in-a-limit]] · [[2026-07-09-openai-launches-the-gpt-5-6-family-sol-terra-and-luna]] · [[2026-07-29-openai-launches-the-gpt-5-6-family-competing-on-intelligence]] · [[2026-07-09-openai-launches-gpt-5-6-family-sol-terra-luna-to-general-ava]] · [[2026-07-08-openai-opens-gpt-5-6-sol-terra-and-luna-to-the-public]] · [[2026-06-26-openai-launches-gpt-5-6-sol-terra-luna-gated-to-government-a]] · [[2026-06-26-openai-previews-gpt-5-6-sol-terra-luna-but-only-for-governme]]
 <!-- graph:end -->

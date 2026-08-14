@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-16-google-i-o-2026-opens-monday-may-19-at-shoreline-amphitheatr
 - 2026-05-17-google-i-o-2026-is-48-hours-away-gemini-4-0-android-xr-glass
 - 2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses
-- 2026-05-18-google-i-o-2026-keynote-gemini-4-0-and-android-xr-expected-t
+- 2026-05-18-google-s-annual-developer-conference-opens-tomorrow-may-19-a
 embedding_id: 2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google I/O 2026 kicks off tomorrow (May 19–20) at the Shoreline Amphitheatre. 
 
 **Entities:** [[Google]] · [[Samsung]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi]] · [[2026-05-16-google-i-o-2026-opens-monday-may-19-at-shoreline-amphitheatr]] · [[2026-05-17-google-i-o-2026-is-48-hours-away-gemini-4-0-android-xr-glass]] · [[2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses]] · [[2026-05-18-google-i-o-2026-keynote-gemini-4-0-and-android-xr-expected-t]]
+**Related:** [[2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi]] · [[2026-05-16-google-i-o-2026-opens-monday-may-19-at-shoreline-amphitheatr]] · [[2026-05-17-google-i-o-2026-is-48-hours-away-gemini-4-0-android-xr-glass]] · [[2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses]] · [[2026-05-18-google-s-annual-developer-conference-opens-tomorrow-may-19-a]]
 <!-- graph:end -->

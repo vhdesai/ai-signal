@@ -20,10 +20,14 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po
+dedupe_status: canonical
+canonical_article_id: null
 related_article_ids:
+- 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
+- 2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur
+- 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
+- 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
 embedding_id: 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
 event_name: ''
 ---
@@ -37,6 +41,5 @@ Anthropic is loosening its grip on Claude Mythos — its most powerful previousl
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Canonical:** [[2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po]]
-**Related:** [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]]
+**Related:** [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur]] · [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]]
 <!-- graph:end -->

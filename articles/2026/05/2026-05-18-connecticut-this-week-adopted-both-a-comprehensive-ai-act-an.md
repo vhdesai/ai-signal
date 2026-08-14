@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-18-connecticut-enacts-comprehensive-ai-act-maryland-algorithmic
 - 2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a
 - 2026-05-15-state-legislatures-are-moving-aggressively-in-2026-with-colo
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
+- 2026-05-22-china-advances-comprehensive-ai-legislation-as-us-regulatory
 embedding_id: 2026-05-18-connecticut-this-week-adopted-both-a-comprehensive-ai-act-an
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Connecticut this week adopted both a Comprehensive AI Act and an AI Responsibili
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-18-connecticut-enacts-comprehensive-ai-act-maryland-algorithmic]] · [[2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a]] · [[2026-05-15-state-legislatures-are-moving-aggressively-in-2026-with-colo]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]]
+**Related:** [[2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a]] · [[2026-05-15-state-legislatures-are-moving-aggressively-in-2026-with-colo]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-05-22-china-advances-comprehensive-ai-legislation-as-us-regulatory]]
 <!-- graph:end -->

@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-02_062325_Inbox_Daily AI News Digest - July 2,
   2026.md
-content_hash: bca488e85ab0cdf75fc4bd3a31e84d86faa6dcf18b76d2019d014a4a7b2bf225
+content_hash: 2bc952540b381e12e0829a42e1b0084f3b6f17137896eadedd5a6c873a026d1a
 normalized_title_hash: 728cc64c57dcfc29
 canonical_url_hash: ''
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # NVIDIA releases Nemotron-Labs-TwoTower, an open-weight diffusion language model
 
-NVIDIA released Nemotron-Labs-TwoTower, a block-wise diffusion language model that splits generation into a frozen autoregressive "context" tower and a trainable diffusion "denoiser" tower, both derived from its open-weight Nemotron-3-Nano backbone. NVIDIA reports it retains roughly 99% of the autoregressive baseline's aggregate benchmark quality while delivering about 2.4x higher generation throughput. Weights ship under the NVIDIA Open Model License with vLLM/SGLang support. It is a notable data point in the diffusion-versus-autoregressive debate over cheaper, faster inference. URL not verified — headline, date and author confirmed on MarkTechPost's index; no confirmed article-level link. Products & Tools x
+NVIDIA released Nemotron-Labs-TwoTower, a block-wise diffusion language model that splits generation into a frozen autoregressive "context" tower and a trainable diffusion "denoiser" tower, both derived from its open-weight Nemotron-3-Nano backbone. NVIDIA reports it retains roughly 99% of the autoregressive baseline's aggregate benchmark quality while delivering about 2.4x higher generation throughput. Weights ship under the NVIDIA Open Model License with vLLM/SGLang support. It is a notable data point in the diffusion-versus-autoregressive debate over cheaper, faster inference.
 
 <!-- graph:start -->
 ## Connections

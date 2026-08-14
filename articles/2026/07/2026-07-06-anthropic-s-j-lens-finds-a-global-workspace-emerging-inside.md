@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-07-06-anthropic-s-new-j-lens-reveals-a-silent-workspace-inside-cla
 - 2026-07-09-anthropic-s-jacobian-lens-reveals-a-hidden-layer-of-what-cla
 - 2026-04-04-anthropic-researchers-identified-171-internal-representation
+- 2026-05-09-anthropic-released-research-on-natural-language-autoencoders
 - 2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa
 embedding_id: 2026-07-06-anthropic-s-j-lens-finds-a-global-workspace-emerging-inside
 event_name: ''
@@ -38,5 +39,5 @@ Anthropic published a 16-author paper describing a "Jacobian lens" (J-lens) tech
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-06-anthropic-s-new-j-lens-reveals-a-silent-workspace-inside-cla]] · [[2026-07-09-anthropic-s-jacobian-lens-reveals-a-hidden-layer-of-what-cla]] · [[2026-04-04-anthropic-researchers-identified-171-internal-representation]] · [[2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa]]
+**Related:** [[2026-07-06-anthropic-s-new-j-lens-reveals-a-silent-workspace-inside-cla]] · [[2026-07-09-anthropic-s-jacobian-lens-reveals-a-hidden-layer-of-what-cla]] · [[2026-04-04-anthropic-researchers-identified-171-internal-representation]] · [[2026-05-09-anthropic-released-research-on-natural-language-autoencoders]] · [[2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa]]
 <!-- graph:end -->

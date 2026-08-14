@@ -21,7 +21,7 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
+canonical_article_id: 2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin
 related_article_ids: []
 embedding_id: 2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as
 event_name: ''
@@ -36,5 +36,5 @@ ByteDance's Doubao and Alibaba's Qwen will discontinue user-facing AI-agent crea
 
 **Entities:** [[Alibaba]] · [[ByteDance]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Canonical:** [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]]
+**Canonical:** [[2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin]]
 <!-- graph:end -->

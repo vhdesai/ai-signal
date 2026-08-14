@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-26-fairchem-v2-uma-targets-multidomain-atomistic-simulation
 - 2026-07-13-openai-s-sol-ultra-proof-claim-draws-scrutiny-from-mathemati
-- 2026-04-02-mit-ai-model-identifies-atomic-defects-in-materials-to-impro
+- 2026-08-07-cornell-ai-plus-chemistry-expands-the-design-space-for-batte
 embedding_id: 2026-07-26-fairchem-v2-uma-a-universal-ml-potential-for-multidomain-ato
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MarkTechPost published a hands-on tutorial for FAIRChem v2 and Meta FAIR’s UMA
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-26-fairchem-v2-uma-targets-multidomain-atomistic-simulation]] · [[2026-07-13-openai-s-sol-ultra-proof-claim-draws-scrutiny-from-mathemati]] · [[2026-04-02-mit-ai-model-identifies-atomic-defects-in-materials-to-impro]]
+**Related:** [[2026-07-26-fairchem-v2-uma-targets-multidomain-atomistic-simulation]] · [[2026-07-13-openai-s-sol-ultra-proof-claim-draws-scrutiny-from-mathemati]] · [[2026-08-07-cornell-ai-plus-chemistry-expands-the-design-space-for-batte]]
 <!-- graph:end -->

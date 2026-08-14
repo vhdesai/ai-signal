@@ -21,7 +21,6 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
 - 2026-07-09-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
 embedding_id: 2026-08-10-model-ml-uses-gpt-5-6-sol-for-finance-analysis-and-editable
 event_name: ''
@@ -36,5 +35,5 @@ OpenAI highlighted Model ML's use of GPT-5.6 Sol to carry finance work from rese
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]] · [[2026-07-09-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]]
+**Related:** [[2026-07-09-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]]
 <!-- graph:end -->

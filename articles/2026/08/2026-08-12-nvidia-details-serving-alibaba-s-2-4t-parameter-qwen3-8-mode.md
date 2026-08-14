@@ -24,7 +24,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-alibaba-s-qwen-3-6-lands-27b-and-35b-variants-outperform-pri
 - 2026-08-03-1-alibaba-moves-qwen3-8-max-to-general-availability
-- 2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion
 embedding_id: 2026-08-12-nvidia-details-serving-alibaba-s-2-4t-parameter-qwen3-8-mode
 event_name: ''
 ---
@@ -38,5 +37,5 @@ NVIDIA published deployment guidance for Alibaba's open-weight Qwen3.8-2.4T-A95B
 
 **Entities:** [[Alibaba]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-13-alibaba-s-qwen-3-6-lands-27b-and-35b-variants-outperform-pri]] · [[2026-08-03-1-alibaba-moves-qwen3-8-max-to-general-availability]] · [[2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion]]
+**Related:** [[2026-05-13-alibaba-s-qwen-3-6-lands-27b-and-35b-variants-outperform-pri]] · [[2026-08-03-1-alibaba-moves-qwen3-8-max-to-general-availability]]
 <!-- graph:end -->

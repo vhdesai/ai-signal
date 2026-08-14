@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-09-compiled-thursday-july-9-2026-every-item-was-confirmed-publi
-- 2026-07-02-this-digest-covers-ai-news-and-research-confirmed-published
-- 2026-06-28-compiled-june-28-2026-pacific-time-headlines-link-to-their-o
-- 2026-07-13-subject-daily-ai-news-digest-july-13-2026
-- 2026-07-10-subject-daily-ai-news-digest-july-10-2026
+- 2026-07-04-only-items-with-a-confirmed-publication-date-of-july-3-4-202
+- 2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co
+- 2026-06-26-compiled-june-26-2026-every-item-was-confirmed-published-wit
+- 2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university
+- 2026-05-14-coverage-window-may-13-14-2026-primary-with-context-from-may
 embedding_id: 2026-07-05-about-this-digest-compiled-sunday-july-5-2026
 event_name: ''
 ---
@@ -36,5 +36,5 @@ About this digest. Compiled Sunday, July 5, 2026. Only items with a confirmed Ju
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-09-compiled-thursday-july-9-2026-every-item-was-confirmed-publi]] · [[2026-07-02-this-digest-covers-ai-news-and-research-confirmed-published]] · [[2026-06-28-compiled-june-28-2026-pacific-time-headlines-link-to-their-o]] · [[2026-07-13-subject-daily-ai-news-digest-july-13-2026]] · [[2026-07-10-subject-daily-ai-news-digest-july-10-2026]]
+**Related:** [[2026-07-04-only-items-with-a-confirmed-publication-date-of-july-3-4-202]] · [[2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co]] · [[2026-06-26-compiled-june-26-2026-every-item-was-confirmed-published-wit]] · [[2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university]] · [[2026-05-14-coverage-window-may-13-14-2026-primary-with-context-from-may]]
 <!-- graph:end -->

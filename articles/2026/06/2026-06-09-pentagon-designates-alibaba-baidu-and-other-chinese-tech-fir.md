@@ -25,6 +25,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-06-policy-china-us-judge-orders-pentagon-to-stop-treating-aliba
+- 2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese
 - 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
 - 2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi
 embedding_id: 2026-06-09-pentagon-designates-alibaba-baidu-and-other-chinese-tech-fir
@@ -40,5 +41,5 @@ The Pentagon added Alibaba, Baidu, and other Chinese tech companies to its CMC L
 
 **Entities:** [[Alibaba]] · [[Baidu]] · [[DeepSeek]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-06-policy-china-us-judge-orders-pentagon-to-stop-treating-aliba]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi]]
+**Related:** [[2026-07-06-policy-china-us-judge-orders-pentagon-to-stop-treating-aliba]] · [[2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi]]
 <!-- graph:end -->

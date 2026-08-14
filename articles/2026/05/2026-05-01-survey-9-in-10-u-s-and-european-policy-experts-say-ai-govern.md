@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
 - 2026-05-04-hotai-researcher-inflow-to-us-down-89-since-2017
+- 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
 - 2026-05-22-stanford-ai-index-us-ai-researcher-inflow-drops-89-since-201
-- 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
-- 2026-04-22-ai-safety-policy
+- 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
+- 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight-in-the-u-s
 embedding_id: 2026-05-01-survey-9-in-10-u-s-and-european-policy-experts-say-ai-govern
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A newly released Povaddo survey of 301 U.S. and European public policy experts �
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-05-04-hotai-researcher-inflow-to-us-down-89-since-2017]] · [[2026-05-22-stanford-ai-index-us-ai-researcher-inflow-drops-89-since-201]] · [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]] · [[2026-04-22-ai-safety-policy]]
+**Related:** [[2026-05-04-hotai-researcher-inflow-to-us-down-89-since-2017]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-05-22-stanford-ai-index-us-ai-researcher-inflow-drops-89-since-201]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight-in-the-u-s]]
 <!-- graph:end -->

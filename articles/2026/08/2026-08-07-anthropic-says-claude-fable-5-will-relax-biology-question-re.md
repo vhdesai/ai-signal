@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-07-anthropic-loosens-claude-fable-5-biology-question-refusals-w
-- 2026-08-07-anthropic-retunes-claude-fable-5-biology-safeguards-cutting
+- 2026-07-07-anthropic-extends-claude-fable-5-access-to-all-paid-plans-th
 embedding_id: 2026-08-07-anthropic-says-claude-fable-5-will-relax-biology-question-re
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Anthropic said its forthcoming Claude Fable 5 model will refuse far fewer legiti
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-07-anthropic-loosens-claude-fable-5-biology-question-refusals-w]] · [[2026-08-07-anthropic-retunes-claude-fable-5-biology-safeguards-cutting]]
+**Related:** [[2026-08-07-anthropic-loosens-claude-fable-5-biology-question-refusals-w]] · [[2026-07-07-anthropic-extends-claude-fable-5-access-to-all-paid-plans-th]]
 <!-- graph:end -->

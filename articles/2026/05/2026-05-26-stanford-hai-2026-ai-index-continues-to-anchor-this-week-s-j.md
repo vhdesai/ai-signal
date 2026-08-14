@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-26-stanford-hai-ieee-spectrum-mit-tech-review-continuing-covera
+- 2026-06-27-stanford-s-2026-ai-index-investment-surges-as-jobs-and-publi
 - 2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili
 - 2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv
 embedding_id: 2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j
@@ -39,5 +39,5 @@ The Stanford HAI 2026 AI Index continues to function as the de facto reference f
 
 **Entities:** [[Apple]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-26-stanford-hai-ieee-spectrum-mit-tech-review-continuing-covera]] · [[2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili]] · [[2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]]
+**Related:** [[2026-06-27-stanford-s-2026-ai-index-investment-surges-as-jobs-and-publi]] · [[2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili]] · [[2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]]
 <!-- graph:end -->

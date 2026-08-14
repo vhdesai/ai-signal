@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-04-nature-machine-intelligence-llms-successfully-predict-novel
 - 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
-- 2026-04-06-princeton-and-ut-austin-publish-joint-study-on-emergent-tool
 - 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
 - 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
+- 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
+- 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
 embedding_id: 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A paper published in Nature Machine Intelligence demonstrated that LLMs can cons
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-04-nature-machine-intelligence-llms-successfully-predict-novel]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-04-06-princeton-and-ut-austin-publish-joint-study-on-emergent-tool]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]]
+**Related:** [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for
 - 2026-07-13-nobel-laureates-and-ai-researchers-warn-on-ai-s-economic-imp
-- 2026-07-15-economists-and-ai-researchers-warn-that-ai-labor-market-disr
+- 2026-07-13-16-nobel-laureates-and-200-economists-issue-we-must-act-now
 embedding_id: 2026-07-13-economists-and-ai-researchers-warn-that-labor-disruption-may
 event_name: ''
 ---
@@ -39,5 +39,5 @@ More than 200 economists and AI researchers, including 16 Nobel laureates and le
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for]] · [[2026-07-13-nobel-laureates-and-ai-researchers-warn-on-ai-s-economic-imp]] · [[2026-07-15-economists-and-ai-researchers-warn-that-ai-labor-market-disr]]
+**Related:** [[2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for]] · [[2026-07-13-nobel-laureates-and-ai-researchers-warn-on-ai-s-economic-imp]] · [[2026-07-13-16-nobel-laureates-and-200-economists-issue-we-must-act-now]]
 <!-- graph:end -->

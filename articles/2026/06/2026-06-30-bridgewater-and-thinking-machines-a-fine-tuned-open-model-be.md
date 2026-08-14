@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-04-bridgewater-s-aia-labs-and-mira-murati-s-thinking-machines-l
-- 2026-07-04-bridgewater-and-thinking-machines-a-fine-tuned-qwen-model-to
 - 2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl
-- 2026-07-31-thinking-machines-debuts-inkling-small-an-open-source-model
+- 2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights
+- 2026-07-30-thinking-machines-releases-inkling-small-a-276b-open-weights
 embedding_id: 2026-06-30-bridgewater-and-thinking-machines-a-fine-tuned-open-model-be
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Bridgewater's AIA Labs and Mira Murati's Thinking Machines Lab showed a fine-tun
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-04-bridgewater-s-aia-labs-and-mira-murati-s-thinking-machines-l]] · [[2026-07-04-bridgewater-and-thinking-machines-a-fine-tuned-qwen-model-to]] · [[2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl]] · [[2026-07-31-thinking-machines-debuts-inkling-small-an-open-source-model]]
+**Related:** [[2026-07-04-bridgewater-s-aia-labs-and-mira-murati-s-thinking-machines-l]] · [[2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl]] · [[2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights]] · [[2026-07-30-thinking-machines-releases-inkling-small-a-276b-open-weights]]
 <!-- graph:end -->

@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-06-openai-publishes-superintelligence-policy-blueprint-sovereig
-- 2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal
 - 2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy
-- 2026-04-06-openai-policy-paper-calls-for-international-ai-governance-fr
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
+- 2026-04-06-embedded-within-openai-s-broader-intelligence-age-policy-pap
+- 2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation
+- 2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru
 embedding_id: 2026-04-06-openai-today-released-a-13-page-industrial-policy-document-t
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI today released a 13-page industrial policy document titled "Industrial Po
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-04-06-openai-publishes-superintelligence-policy-blueprint-sovereig]] · [[2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal]] · [[2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy]] · [[2026-04-06-openai-policy-paper-calls-for-international-ai-governance-fr]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
+**Related:** [[2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-04-06-embedded-within-openai-s-broader-intelligence-age-policy-pap]] · [[2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation]] · [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]]
 <!-- graph:end -->

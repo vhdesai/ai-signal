@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1
 related_article_ids:
-- 2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1
 - 2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1
+- 2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1
 - 2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f
-- 2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1
+- 2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1-its
 embedding_id: 2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1-at-cut-rate-p
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta launched Muse Spark 1.1, a multimodal model built for agentic coding, bug f
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1]]
-**Related:** [[2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1]] · [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1]] · [[2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f]] · [[2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1]]
+**Related:** [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1]] · [[2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1]] · [[2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f]] · [[2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1-its]]
 <!-- graph:end -->

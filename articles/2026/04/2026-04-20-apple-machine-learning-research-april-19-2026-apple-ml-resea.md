@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu
 - 2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
-- 2026-04-12-mit-csail-published-research-demonstrating-sparse-activation
+- 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 embedding_id: 2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple Machine Learning Research • April 19, 2026 Apple ML Research published S
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-20-apple-ml-research-april-17-2026-apple-announced-a-slate-of-a]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]]
+**Related:** [[2026-04-20-apple-ml-research-april-17-2026-apple-announced-a-slate-of-a]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]]
 <!-- graph:end -->

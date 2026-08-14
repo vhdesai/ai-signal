@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-03-28-google-s-announcement-of-turboquant-an-ai-driven-quantizatio
 - 2026-05-12-google-turboquant-sets-new-bar-for-efficient-vector-compress
 - 2026-05-12-google-releases-turboquant-for-efficient-vector-compression
-- 2026-04-04-google-turboquant-6x-ai-memory-reduction-with-zero-accuracy
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
+- 2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite
 embedding_id: 2026-04-04-google-research-published-turboquant-a-vector-quantization-a
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google Research published TurboQuant, a vector quantization algorithm that reduc
 
 **Entities:** [[DeepSeek]] · [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-03-28-google-s-announcement-of-turboquant-an-ai-driven-quantizatio]] · [[2026-05-12-google-turboquant-sets-new-bar-for-efficient-vector-compress]] · [[2026-05-12-google-releases-turboquant-for-efficient-vector-compression]] · [[2026-04-04-google-turboquant-6x-ai-memory-reduction-with-zero-accuracy]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]]
+**Related:** [[2026-03-28-google-s-announcement-of-turboquant-an-ai-driven-quantizatio]] · [[2026-05-12-google-turboquant-sets-new-bar-for-efficient-vector-compress]] · [[2026-05-12-google-releases-turboquant-for-efficient-vector-compression]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite]]
 <!-- graph:end -->

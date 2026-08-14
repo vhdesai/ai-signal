@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-25-cxmt-prices-record-8-6b-shanghai-chip-ipo-at-a-85b-valuation
 - 2026-07-25-china-s-cxmt-heads-to-a-85b-shanghai-listing-hardening-domes
 - 2026-07-25-cxmt-prices-record-shanghai-chip-ipo-to-fund-domestic-ai-mem
-- 2026-08-14-china-s-cxmt-nears-intel-s-market-cap-rivaling-world-s-most
 - 2026-07-25-cxmt-prices-record-8-6b-shanghai-chip-ipo-at-85b-valuation
+- 2026-08-14-china-s-cxmt-nears-intel-s-market-cap-rivaling-world-s-most
 embedding_id: 2026-07-25-china-s-cxmt-debuts-on-shanghai-s-star-market-with-an-8-6b-r
 event_name: ''
 ---
@@ -40,5 +40,5 @@ ChangXin Memory Technologies (CXMT), China’s flagship DRAM maker, priced its S
 
 **Entities:** [[Samsung]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-07-25-cxmt-prices-record-8-6b-shanghai-chip-ipo-at-a-85b-valuation]] · [[2026-07-25-china-s-cxmt-heads-to-a-85b-shanghai-listing-hardening-domes]] · [[2026-07-25-cxmt-prices-record-shanghai-chip-ipo-to-fund-domestic-ai-mem]] · [[2026-08-14-china-s-cxmt-nears-intel-s-market-cap-rivaling-world-s-most]] · [[2026-07-25-cxmt-prices-record-8-6b-shanghai-chip-ipo-at-85b-valuation]]
+**Related:** [[2026-07-25-cxmt-prices-record-8-6b-shanghai-chip-ipo-at-a-85b-valuation]] · [[2026-07-25-china-s-cxmt-heads-to-a-85b-shanghai-listing-hardening-domes]] · [[2026-07-25-cxmt-prices-record-shanghai-chip-ipo-to-fund-domestic-ai-mem]] · [[2026-07-25-cxmt-prices-record-8-6b-shanghai-chip-ipo-at-85b-valuation]] · [[2026-08-14-china-s-cxmt-nears-intel-s-market-cap-rivaling-world-s-most]]
 <!-- graph:end -->

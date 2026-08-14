@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-26-prompt-injection-in-automated-r-sum-screening-with-large-lan
 - 2026-06-28-prompt-injection-named-the-top-enterprise-ai-attack-vector-a
 - 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
 - 2026-06-29-venturebeat-details-how-prompt-injection-remains-the-top-ent
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
+- 2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio
 embedding_id: 2026-06-26-this-paper-examines-prompt-injection-attacks-against-llm-bas
 event_name: ''
 ---
@@ -37,5 +37,5 @@ This paper examines prompt-injection attacks against LLM-based résumé screenin
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-26-prompt-injection-in-automated-r-sum-screening-with-large-lan]] · [[2026-06-28-prompt-injection-named-the-top-enterprise-ai-attack-vector-a]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-06-29-venturebeat-details-how-prompt-injection-remains-the-top-ent]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]]
+**Related:** [[2026-06-28-prompt-injection-named-the-top-enterprise-ai-attack-vector-a]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-06-29-venturebeat-details-how-prompt-injection-remains-the-top-ent]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio]]
 <!-- graph:end -->

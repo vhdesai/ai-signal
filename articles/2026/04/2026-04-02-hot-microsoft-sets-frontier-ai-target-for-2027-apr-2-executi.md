@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed
 - 2026-07-04-no-new-model-or-frontier-capability-release-was-confirmed-in
-- 2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year
 - 2026-07-02-microsoft-launches-microsoft-frontier-a-2-5b-enterprise-ai-d
+- 2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a
 - 2026-07-02-microsoft-launches-frontier-company-an-outcome-driven-ai-dep
 embedding_id: 2026-04-02-hot-microsoft-sets-frontier-ai-target-for-2027-apr-2-executi
 event_name: ''
@@ -39,5 +39,5 @@ event_name: ''
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed]] · [[2026-07-04-no-new-model-or-frontier-capability-release-was-confirmed-in]] · [[2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year]] · [[2026-07-02-microsoft-launches-microsoft-frontier-a-2-5b-enterprise-ai-d]] · [[2026-07-02-microsoft-launches-frontier-company-an-outcome-driven-ai-dep]]
+**Related:** [[2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed]] · [[2026-07-04-no-new-model-or-frontier-capability-release-was-confirmed-in]] · [[2026-07-02-microsoft-launches-microsoft-frontier-a-2-5b-enterprise-ai-d]] · [[2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a]] · [[2026-07-02-microsoft-launches-frontier-company-an-outcome-driven-ai-dep]]
 <!-- graph:end -->

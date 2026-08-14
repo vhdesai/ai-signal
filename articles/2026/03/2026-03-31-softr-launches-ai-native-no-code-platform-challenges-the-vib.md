@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2
-- 2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world
-- 2026-03-25-the-information-logo-amd-backed-vultr-seeks-1-billion-for-ai
 - 2026-05-26-ing-s-vibe-coding-ai-builds-new-trading-systems-with-claude
 - 2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse
+- 2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world
+- 2026-08-03-aws-partners-with-superblocks-to-bring-vibe-coding-into-priv
 embedding_id: 2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Softr (1M+ builders including Netflix, Google, Stripe) launched an AI Co-Builder
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2]] · [[2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world]] · [[2026-03-25-the-information-logo-amd-backed-vultr-seeks-1-billion-for-ai]] · [[2026-05-26-ing-s-vibe-coding-ai-builds-new-trading-systems-with-claude]] · [[2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse]]
+**Related:** [[2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2]] · [[2026-05-26-ing-s-vibe-coding-ai-builds-new-trading-systems-with-claude]] · [[2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse]] · [[2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world]] · [[2026-08-03-aws-partners-with-superblocks-to-bring-vibe-coding-into-priv]]
 <!-- graph:end -->

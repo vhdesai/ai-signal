@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude
-- 2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant
 - 2026-07-08-china-warns-of-security-backdoor-in-anthropic-s-claude-code
-- 2026-07-08-china-warns-of-a-back-door-vulnerability-in-anthropic-s-clau
+- 2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant
 - 2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code
+- 2026-07-08-china-warns-of-a-back-door-vulnerability-in-anthropic-s-clau
 - 2026-07-08-china-flags-security-backdoor-in-anthropic-s-claude-code-ali
 embedding_id: 2026-07-08-china-flags-a-backdoor-in-anthropic-s-claude-code-alibaba-ba
 event_name: ''
@@ -42,5 +42,5 @@ China’s Ministry of Industry and Information Technology, via its National Vuln
 
 **Entities:** [[Alibaba]] · [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude]] · [[2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant]] · [[2026-07-08-china-warns-of-security-backdoor-in-anthropic-s-claude-code]] · [[2026-07-08-china-warns-of-a-back-door-vulnerability-in-anthropic-s-clau]] · [[2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code]] · [[2026-07-08-china-flags-security-backdoor-in-anthropic-s-claude-code-ali]]
+**Related:** [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude]] · [[2026-07-08-china-warns-of-security-backdoor-in-anthropic-s-claude-code]] · [[2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant]] · [[2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code]] · [[2026-07-08-china-warns-of-a-back-door-vulnerability-in-anthropic-s-clau]] · [[2026-07-08-china-flags-security-backdoor-in-anthropic-s-claude-code-ali]]
 <!-- graph:end -->

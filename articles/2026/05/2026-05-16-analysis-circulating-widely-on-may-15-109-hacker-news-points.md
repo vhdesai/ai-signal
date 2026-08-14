@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
-- 2026-05-16-hot-anthropic-s-mythos-model-hidden-due-to-100m-cost-and-cyb
-- 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
-- 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
 - 2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur
+- 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
+- 2026-04-10-anthropic-s-decision-to-develop-but-withhold-claude-mythos-f
+- 2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo
 embedding_id: 2026-05-16-analysis-circulating-widely-on-may-15-109-hacker-news-points
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Analysis circulating widely on May 15 (109 Hacker News points, 113 comments) exa
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]] · [[2026-05-16-hot-anthropic-s-mythos-model-hidden-due-to-100m-cost-and-cyb]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur]]
+**Related:** [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]] · [[2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur]] · [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-04-10-anthropic-s-decision-to-develop-but-withhold-claude-mythos-f]] · [[2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo]]
 <!-- graph:end -->

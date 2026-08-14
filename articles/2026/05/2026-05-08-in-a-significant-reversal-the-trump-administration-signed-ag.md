@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-09-in-a-notable-policy-reversal-the-trump-administration-signed
 - 2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai
-- 2026-05-08-trump-administration-reverses-course-signs-safety-evaluation
-- 2026-05-09-trump-administration-reverses-course-on-ai-safety-testing-si
+- 2026-05-16-the-commerce-department-announced-amended-partnerships-with
+- 2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment
 embedding_id: 2026-05-08-in-a-significant-reversal-the-trump-administration-signed-ag
 event_name: ''
 ---
@@ -40,5 +40,5 @@ In a significant reversal, the Trump administration signed agreements with Googl
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-09-in-a-notable-policy-reversal-the-trump-administration-signed]] · [[2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai]] · [[2026-05-08-trump-administration-reverses-course-signs-safety-evaluation]] · [[2026-05-09-trump-administration-reverses-course-on-ai-safety-testing-si]]
+**Related:** [[2026-05-09-in-a-notable-policy-reversal-the-trump-administration-signed]] · [[2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai]] · [[2026-05-16-the-commerce-department-announced-amended-partnerships-with]] · [[2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment]]
 <!-- graph:end -->

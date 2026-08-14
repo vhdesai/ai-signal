@@ -21,7 +21,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-first-union-at
+canonical_article_id: 2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a
 related_article_ids: []
 embedding_id: 2026-05-14-in-a-historic-vote-google-deepmind-uk-employees-approved-uni
 event_name: ''
@@ -36,5 +36,5 @@ In a historic vote, Google DeepMind UK employees approved unionization by a 98% 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-first-union-at]]
+**Canonical:** [[2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a]]
 <!-- graph:end -->

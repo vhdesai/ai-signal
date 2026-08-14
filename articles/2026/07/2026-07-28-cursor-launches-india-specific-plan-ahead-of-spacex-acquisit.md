@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l
-- 2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation
 - 2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc
-- 2026-05-18-cursor-acquisition-talks-with-spacex-xai-at-reported-60b-rep
-- 2026-04-17-breaking-cursor-in-advanced-talks-on-2b-round-at-50b-valuati
+- 2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation
+- 2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso
+- 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
 embedding_id: 2026-07-28-cursor-launches-india-specific-plan-ahead-of-spacex-acquisit
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cursor launched a lower-priced India subscription, Cursor Start, at ₹649 per m
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]] · [[2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation]] · [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-18-cursor-acquisition-talks-with-spacex-xai-at-reported-60b-rep]] · [[2026-04-17-breaking-cursor-in-advanced-talks-on-2b-round-at-50b-valuati]]
+**Related:** [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]] · [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation]] · [[2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]]
 <!-- graph:end -->

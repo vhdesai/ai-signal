@@ -22,7 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after
 - 2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out
-- 2026-07-24-openai-s-hugging-face-breach-fuels-containment-and-liability
+- 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
+- 2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r
 embedding_id: 2026-08-04-21-15-republican-attorneys-general-issue-preservation-demand
 event_name: ''
 ---
@@ -36,5 +37,5 @@ A coalition of 15 GOP state attorneys general, led by Iowa’s Brenna Bird, issu
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after]] · [[2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out]] · [[2026-07-24-openai-s-hugging-face-breach-fuels-containment-and-liability]]
+**Related:** [[2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after]] · [[2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r]]
 <!-- graph:end -->

@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-15-mistral-launches-remote-coding-agents-vibe-powered-by-medium
 - 2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod
-- 2026-05-09-mistral-medium-3-5-ships-with-remote-vibe-agents-le-chat-wor
 - 2026-05-28-mistral-introduces-search-toolkit-and-vibe-gets-to-work
 - 2026-05-09-mistral-released-medium-3-5-128b-dense-256k-context-window-7
+- 2026-05-04-mistral-ships-medium-3-5-with-vibe-remote-agents-and-le-chat
+- 2026-05-02-newmistral-ships-medium-3-5-with-vibe-remote-agents-and-le-c
 embedding_id: 2026-05-15-mistral-ai-s-vibe-remote-agents-powered-by-its-new-medium-3
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Mistral AI's Vibe Remote Agents, powered by its new Medium 3.5 model, are gainin
 
 **Entities:** [[Anthropic]] · [[Mistral]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-15-mistral-launches-remote-coding-agents-vibe-powered-by-medium]] · [[2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod]] · [[2026-05-09-mistral-medium-3-5-ships-with-remote-vibe-agents-le-chat-wor]] · [[2026-05-28-mistral-introduces-search-toolkit-and-vibe-gets-to-work]] · [[2026-05-09-mistral-released-medium-3-5-128b-dense-256k-context-window-7]]
+**Related:** [[2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod]] · [[2026-05-28-mistral-introduces-search-toolkit-and-vibe-gets-to-work]] · [[2026-05-09-mistral-released-medium-3-5-128b-dense-256k-context-window-7]] · [[2026-05-04-mistral-ships-medium-3-5-with-vibe-remote-agents-and-le-chat]] · [[2026-05-02-newmistral-ships-medium-3-5-with-vibe-remote-agents-and-le-c]]
 <!-- graph:end -->

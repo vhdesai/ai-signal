@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-trending-cmu-polypulse-contactless-mmwave-radar-ai-tracks-bl
-- 2026-07-26-brain-wave-data-may-become-a-new-training-signal-for-physica
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 - 2026-05-14-cmu-ece-honors-geeps-with-test-of-time-award-the-distributed
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
+- 2026-05-21-cmu-cleveland-clinic-ai-interprets-cardiac-mri-without-label
 embedding_id: 2026-05-26-carnegie-mellon-unveils-polypulse-an-ai-radar-platform-for-c
 event_name: ''
 ---
@@ -38,5 +38,5 @@ CMU researchers unveiled PolyPulse, a millimeter-wave radar platform — the sam
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-trending-cmu-polypulse-contactless-mmwave-radar-ai-tracks-bl]] · [[2026-07-26-brain-wave-data-may-become-a-new-training-signal-for-physica]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-05-14-cmu-ece-honors-geeps-with-test-of-time-award-the-distributed]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]]
+**Related:** [[2026-05-26-trending-cmu-polypulse-contactless-mmwave-radar-ai-tracks-bl]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-05-14-cmu-ece-honors-geeps-with-test-of-time-award-the-distributed]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-05-21-cmu-cleveland-clinic-ai-interprets-cardiac-mri-without-label]]
 <!-- graph:end -->

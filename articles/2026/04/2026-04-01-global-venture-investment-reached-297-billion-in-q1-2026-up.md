@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
 - 2026-04-10-crunchbase-data-confirmed-q1-2026-as-the-largest-venture-cap
 - 2026-04-02-trending-q1-2026-vc-breaks-300b-record-apr-1-global-venture
-- 2026-04-03-q1-2026-shatters-venture-records-300b-invested-globally-open
 - 2026-07-07-north-american-vc-hits-392b-in-h1-2026
+- 2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco
 embedding_id: 2026-04-01-global-venture-investment-reached-297-billion-in-q1-2026-up
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Global venture investment reached $297 billion in Q1 2026, up 150% year-over-yea
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-04-10-crunchbase-data-confirmed-q1-2026-as-the-largest-venture-cap]] · [[2026-04-02-trending-q1-2026-vc-breaks-300b-record-apr-1-global-venture]] · [[2026-04-03-q1-2026-shatters-venture-records-300b-invested-globally-open]] · [[2026-07-07-north-american-vc-hits-392b-in-h1-2026]]
+**Related:** [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-04-10-crunchbase-data-confirmed-q1-2026-as-the-largest-venture-cap]] · [[2026-04-02-trending-q1-2026-vc-breaks-300b-record-apr-1-global-venture]] · [[2026-07-07-north-american-vc-hits-392b-in-h1-2026]] · [[2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco]]
 <!-- graph:end -->

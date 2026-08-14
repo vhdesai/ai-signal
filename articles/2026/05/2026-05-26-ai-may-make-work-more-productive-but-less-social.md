@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-10-mit-economics-faculty-have-published-analysis-examining-how
 - 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
-- 2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not
 - 2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing
 - 2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal
+- 2026-06-21-tech-workers-spend-nights-and-weekends-learning-ai-tools
 embedding_id: 2026-05-26-ai-may-make-work-more-productive-but-less-social
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Business Insider argues that AI may not only reduce headcount, but also weaken t
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing]] · [[2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal]]
+**Related:** [[2026-04-10-mit-economics-faculty-have-published-analysis-examining-how]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing]] · [[2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal]] · [[2026-06-21-tech-workers-spend-nights-and-weekends-learning-ai-tools]]
 <!-- graph:end -->

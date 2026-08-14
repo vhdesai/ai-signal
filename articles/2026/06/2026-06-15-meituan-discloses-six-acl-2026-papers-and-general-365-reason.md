@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-07-25-meituan-open-sources-longcat-2-0-a-1-6t-parameter-model-trai
 - 2026-07-25-meituan-open-sources-longcat-2-0-a-1-6-trillion-parameter-ag
 - 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
-- 2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti
+- 2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model
 embedding_id: 2026-06-15-meituan-discloses-six-acl-2026-papers-and-general-365-reason
 event_name: ''
 ---
@@ -35,5 +35,5 @@ A cluster of Meituan disclosures was aggregated under June 15: acceptance of six
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea]] · [[2026-07-25-meituan-open-sources-longcat-2-0-a-1-6t-parameter-model-trai]] · [[2026-07-25-meituan-open-sources-longcat-2-0-a-1-6-trillion-parameter-ag]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti]]
+**Related:** [[2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea]] · [[2026-07-25-meituan-open-sources-longcat-2-0-a-1-6t-parameter-model-trai]] · [[2026-07-25-meituan-open-sources-longcat-2-0-a-1-6-trillion-parameter-ag]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model]]
 <!-- graph:end -->

@@ -19,11 +19,8 @@ themes:
 - policy-regulation
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-07-openai-slows-astra-model-development-after-cyber-capability
-related_article_ids:
-- 2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou
-- 2026-08-10-openai-tightens-controls-on-its-astra-model-over-cybersecuri
-- 2026-08-07-openai-slows-astra-development-after-cyber-evaluations-flag
+canonical_article_id: 2026-08-07-openai-slows-astra-development-after-cyber-evaluations-flag
+related_article_ids: []
 embedding_id: 2026-08-07-openai-slows-its-next-model-after-critical-cyber-evaluations
 event_name: ''
 ---
@@ -37,6 +34,5 @@ OpenAI said preliminary evaluations could not rule out that its upcoming Astra m
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Canonical:** [[2026-08-07-openai-slows-astra-model-development-after-cyber-capability]]
-**Related:** [[2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou]] · [[2026-08-10-openai-tightens-controls-on-its-astra-model-over-cybersecuri]] · [[2026-08-07-openai-slows-astra-development-after-cyber-evaluations-flag]]
+**Canonical:** [[2026-08-07-openai-slows-astra-development-after-cyber-evaluations-flag]]
 <!-- graph:end -->

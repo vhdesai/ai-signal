@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-09-openai-began-limited-preview-access-to-gpt-5-5-cyber-a-varia
 - 2026-04-15-model-releases
 - 2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
-- 2026-05-08-openai-launches-gpt-5-5-cyber-a-defensive-ai-model-for-criti
+- 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
 embedding_id: 2026-05-08-openai-unveiled-gpt-5-5-cyber-on-may-7-a-specialized-model-b
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI unveiled GPT-5.5-Cyber on May 7, a specialized model built to discover an
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-05-09-openai-began-limited-preview-access-to-gpt-5-5-cyber-a-varia]] · [[2026-04-15-model-releases]] · [[2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-05-08-openai-launches-gpt-5-5-cyber-a-defensive-ai-model-for-criti]]
+**Related:** [[2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-05-09-openai-began-limited-preview-access-to-gpt-5-5-cyber-a-varia]] · [[2026-04-15-model-releases]] · [[2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]]
 <!-- graph:end -->

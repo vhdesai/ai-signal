@@ -1,48 +1,38 @@
 ---
 type: entity-hub
 hub: ByteDance
-member_count: 78
+member_count: 64
 ---
 
 # ByteDance
 
-> Auto-generated entity hub. 78 connected article(s).
+> Auto-generated entity hub. 64 connected article(s).
 
 - `2026-08-10` [[2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te|Beijing’s companion-app rules force ByteDance, Alibaba, and Tencent to pull AI companions]]
 - `2026-08-10` [[2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp|Beijing Forces ByteDance, Alibaba, and Tencent to Pull AI Companion Apps]]
 - `2026-08-09` [[2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real|Race to Full-Duplex: NVIDIA and ByteDance Ship Competing Real-Time Voice Architectures]]
 - `2026-08-09` [[2026-08-09-bytedance-introduces-seedrealtime-native-audio-visual-full-d|ByteDance Introduces SeedRealtime — Native Audio-Visual Full-Duplex LLM]]
-- `2026-08-07` [[2026-08-07-bytedance-reportedly-pre-training-a-model-of-up-to-10-trilli|ByteDance reportedly pre-training a model of up to 10 trillion parameters]]
+- `2026-08-07` [[2026-08-07-bytedance-reportedly-pre-training-a-model-of-up-to-10-trilli|ByteDance Reportedly Pre-Training a Model of Up to 10 Trillion Parameters]]
 - `2026-08-07` [[2026-08-07-bytedance-reportedly-pre-training-a-10-trillion-parameter-mo|ByteDance Reportedly Pre-Training a 10-Trillion-Parameter Model]]
-- `2026-08-05` [[2026-08-05-the-information-2026-08-05-external-china-s-new-ai-gold-rush|The Information - [2026-08-05] [EXTERNAL] China’s New AI Gold Rush: World Models - [2026-08-05] [EXTERNAL] ByteDance’s…]]
-- `2026-08-05` [[2026-08-05-bytedance-founder-rules-out-distillation-on-ai-models|ByteDance Founder Rules Out Distillation on AI Models]]
 - `2026-08-01` [[2026-08-01-the-ai-brief-august-1-2026|The AI Brief — August 1, 2026]]
 - `2026-07-31` [[2026-07-31-minimax-releases-h3-video-model-with-open-weights-to-follow|MiniMax releases H3 video model, with open weights to follow]]
 - `2026-07-31` [[2026-07-31-minimax-releases-h3-a-unified-text-image-video-audio-generat|MiniMax Releases H3, a Unified Text-Image-Video-Audio Generation Model]]
 - `2026-07-31` [[2026-07-31-china-s-minimax-releases-h3-multimodal-video-model|China's MiniMax releases H3 multimodal video model]]
 - `2026-07-31` [[2026-07-31-bytedance-launches-seedance-2-5-video-generation-model|ByteDance launches Seedance 2.5 video-generation model]]
 - `2026-07-31` [[2026-07-31-bytedance-launches-seedance-2-5-as-chinese-labs-press-a-gene|ByteDance launches Seedance 2.5 as Chinese labs press a generative-video offensive]]
-- `2026-07-21` [[2026-07-21-neill-blomkamp-released-the-ai-generated-short-nightborne-us|Neill Blomkamp released the AI-generated short Nightborne using ByteDance Seedance 2.0, showing AI video moving toward…]]
-- `2026-07-20` [[2026-07-20-neill-blomkamp-released-the-ai-generated-short-nightborne-us|Neill Blomkamp released the AI-generated short Nightborne using ByteDance Seedance 2.0, showing AI video moving toward…]]
-- `2026-07-19` [[2026-07-19-zte-s-nubia-navix-ultra-debuts-as-an-agent-first-phone-built|ZTE's Nubia NaviX Ultra debuts as an agent-first phone built around ByteDance's Doubao, with no traditional home…]]
-- `2026-07-15` [[2026-07-15-china-ai-companion-law-takes-effect-forcing-bytedance-doubao|China AI companion law takes effect, forcing ByteDance Doubao and Alibaba Qwen companion features offline]]
 - `2026-07-12` [[2026-07-12-goldman-sachs-names-its-favorite-chinese-ai-models|Goldman Sachs Names Its Favorite Chinese AI Models]]
-- `2026-07-10` [[2026-07-10-the-information-2026-07-10-external-susquehanna-an-early-bac|The Information - [2026-07-10] [EXTERNAL] Susquehanna, an Early Backer of ByteDance, Is Stepping Back From China…]]
 - `2026-07-07` [[2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo|Reuters: Beijing weighs curbing overseas access to China’s most advanced AI models]]
 - `2026-07-07` [[2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode|China Weighs Restricting Access to Its Most Powerful AI Models]]
 - `2026-07-07` [[2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan|Beijing Weighs Curbing Overseas Access to China's Most Advanced AI Models]]
 - `2026-07-07` [[2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv|Beijing Reportedly Weighs Restricting Overseas Access to Advanced Chinese Models]]
-- `2026-07-06` [[2026-07-06-the-information-2026-07-06-external-anthropic-s-claude-helps|The Information - [2026-07-06] [EXTERNAL] Anthropic's Claude Helps Small Firms Quit Salesforce - [2026-07-06]…]]
 - `2026-07-06` [[2026-07-06-policy-china-china-s-humanlike-ai-rules-force-bytedance-and|Policy China China's "humanlike AI" rules force ByteDance and Alibaba to pull consumer agents July 5, 2026 · The Next…]]
 - `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
 - `2026-07-06` [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa|Hardware Slips and Governance Steps Up as Frontier Models Pause]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
-- `2026-07-06` [[2026-07-06-bytedance-s-doubao-and-alibaba-s-qwen-will-discontinue-user|ByteDance's Doubao and Alibaba's Qwen will discontinue user-facing AI-agent creation features on July 15, aligning with China's Interim Measures for the Administration of Anthropomorphic AI Interaction Services.]]
 - `2026-07-06` [[2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as|ByteDance and Alibaba to shut down user AI-agent creation as China's anthropomorphic-AI rules take effect]]
 - `2026-07-06` [[2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin|ByteDance & Alibaba Pull AI Companion Features Ahead of Beijing Rules]]
 - `2026-07-06` [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine|Beijing Weighs Restricting Overseas Access to Advanced Chinese Models; Platforms Curb AI Companion Features]]
 - `2026-07-05` [[2026-07-05-the-motion-picture-association-sent-bytedance-a-cease-and-de|The Motion Picture Association sent ByteDance a cease-and-desist over its Seedance AI video generator, calling it…]]
-- `2026-07-05` [[2026-07-05-hollywood-seeks-to-ban-bytedance-s-seedance-ai-video-tool-wh|Hollywood seeks to ban ByteDance's “Seedance” AI video tool — while quietly using it July 5, 2026 · The Decoder (citing…]]
 - `2026-07-03` [[2026-07-03-bytedance-opens-the-public-launch-window-for-seedance-2-5-vi|ByteDance opens the public launch window for Seedance 2.5 video model]]
 - `2026-07-03` [[2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac|Anthropic moves to close loopholes that let Chinese firms access Claude]]
 - `2026-07-02` [[2026-07-02-anthropic-moves-to-close-loopholes-letting-chinese-firms-acc|Anthropic moves to close loopholes letting Chinese firms access Claude]]
@@ -61,7 +51,6 @@ member_count: 78
 - `2026-05-26` [[2026-05-26-breakinghot-qualcomm-strikes-ai-asic-supply-deal-with-byteda|BreakingHot Qualcomm strikes AI ASIC supply deal with ByteDance]]
 - `2026-05-23` [[2026-05-23-sensetime-the-us-sanctioned-hong-kong-ai-firm-is-repositioni|SenseTime, the US-sanctioned Hong Kong AI firm, is repositioning around cost-efficiency and multimodal AI]]
 - `2026-05-23` [[2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim|Huawei projects its AI chip revenue will grow 60% to approximately $12 billion in 2026, driven by massive orders for…]]
-- `2026-05-23` [[2026-05-23-huawei-eyes-12b-in-ai-chip-revenue-as-bytedance-alibaba-tenc|Huawei Eyes $12B in AI Chip Revenue as ByteDance, Alibaba, Tencent Pivot from Nvidia]]
 - `2026-05-18` [[2026-05-18-trending-bytedance-cuts-30-of-ai-app-projects-as-china-s-ai|Trending ByteDance Cuts 30% of AI App Projects as China's AI Layer Enters "Self-Correction Cycle"]]
 - `2026-05-18` [[2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje|China's AI Self-Correction: ByteDance Cuts 30% of Doubao Projects, Tencent Pivots Strategy Hot]]
 - `2026-05-16` [[2026-05-16-worldreasonbench-ai-video-generators-look-stunning-but-still|WorldReasonBench: AI Video Generators Look Stunning But Still Can't Reason]]
@@ -74,7 +63,6 @@ member_count: 78
 - `2026-05-08` [[2026-05-08-new-bytedance-personavlm-achieves-22-4-performance-boost-thr|New ByteDance PersonaVLM Achieves 22.4% Performance Boost Through Multimodal Personalization]]
 - `2026-05-05` [[2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep|💜 TRENDING Alibaba & Tencent in Advanced Talks to Invest in DeepSeek at $20B Valuation]]
 - `2026-05-05` [[2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow|DeepSeek's upcoming V4 model — widely anticipated as a follow-on to the market-rattling V3 and R1 — is being optimized…]]
-- `2026-05-05` [[2026-05-05-deepseek-v4-to-run-on-huawei-chips-alibaba-bytedance-tencent|DeepSeek V4 to Run on Huawei Chips; Alibaba, ByteDance & Tencent Place Bulk Orders]]
 - `2026-05-03` [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round|Tencent and Alibaba Eye DeepSeek Funding Round]]
 - `2026-05-01` [[2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs|TrendingDeepSeek V4: 1.6 Trillion Parameters, MIT License, Runs on Huawei Ascend — Reshaping China's AI Stack]]
 - `2026-05-01` [[2026-05-01-newhuawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-drives|NewHuawei Eyes $12B in AI Chip Revenue as DeepSeek V4 Drives Domestic Chip Shift]]
@@ -83,6 +71,4 @@ member_count: 78
 - `2026-04-22` [[2026-04-22-major-analysis-published-today-in-the-bulletin-of-the-atomic|major analysis published today in the Bulletin of the Atomic Scientists argues that current AI governance frameworks are optimized for steady-state oversight — not disaster response. Drawing parallels to the Oil Pollution Act of 1990 (post-Exxon Valdez) and the post-9/11 security legislation wave, author Juhyun Nam argues a catastrophic AI incident is "no longer a matter of if, but when," and that policymakers should pre-draft emergency AI response legislation now to be ready for that "policy window." The European Parliament separately voted on AI Act amendments this week, including a new ban on AI apps that create or manipulate sexually explicit images.]]
 - `2026-04-16` [[2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap|DeepSeek's V4 model is targeting a late April launch with approximately 1 trillion total parameters (MoE architecture,…]]
 - `2026-04-12` [[2026-04-12-sifive-founded-by-the-uc-berkeley-engineers-behind-the-risc|SiFive — founded by the UC Berkeley engineers behind the RISC-V open chip architecture — closed an oversubscribed $400M Series G round at a $3.65B valuation, led by Atreides Management with participation from Nvidia, Apollo Global, Point72, T. Rowe Price, and others. SiFive's designs integrate with Nvidia CUDA and NVLink Fusion infrastructure, positioning RISC-V as a potential third major CPU architecture in AI data centers alongside x86 and ARM. The CEO signaled this will likely be the last round before an IPO, with Nvidia's participation representing a notable vote of confidence in open ISA compute infrastructure.]]
-- `2026-03-28` [[2026-03-28-source-venturebeat-march-27-2026|Source: VentureBeat | March 27, 2026]]
 - `2026-03-28` [[2026-03-28-bytedance-released-seedance-2-0-an-upgraded-video-generation|ByteDance released Seedance 2.0, an upgraded video generation model with significantly improved temporal coherence and…]]
-- `2026-03-13` [[2026-03-13-view-in-web-browser-the-wall-street-journal-musk-says-xai-mu|View in web browser › - The Wall Street Journal - Musk Says xAI Must Be Rebuilt as Co-Founders Exit Read more › -…]]

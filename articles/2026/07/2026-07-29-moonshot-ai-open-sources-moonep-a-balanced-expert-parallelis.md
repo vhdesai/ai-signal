@@ -23,6 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
 - 2026-04-20-trending-moonshot-releases-kimi-k2-6-with-300-agent-swarm-sc
+- 2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe
+- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 embedding_id: 2026-07-29-moonshot-ai-open-sources-moonep-a-balanced-expert-parallelis
 event_name: ''
 ---
@@ -35,5 +37,5 @@ Moonshot AI open-sourced MoonEP, an expert-parallelism communication library for
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]] · [[2026-04-20-trending-moonshot-releases-kimi-k2-6-with-300-agent-swarm-sc]]
+**Related:** [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]] · [[2026-04-20-trending-moonshot-releases-kimi-k2-6-with-300-agent-swarm-sc]] · [[2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
 <!-- graph:end -->

@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-06-03_083329_Inbox_Daily AI News Digest – June 3,
   2026 (Updated).md
-content_hash: 95d1d9ed117e577a3ccd40f8911145d6230b264a7872370f2bc0301ce9c3d8f2
+content_hash: bc1ae22f8148347165b914af2209d0145eabd7e0cdb3dd2b456ff789eb2f5dc6
 normalized_title_hash: a0d6e59c57978cb7
 canonical_url_hash: ''
 tags:
@@ -33,7 +33,7 @@ event_name: ''
 
 # Microsoft and Mayo Clinic Partner to Build Healthcare-Focused Frontier AI Model
 
-Microsoft and Mayo Clinic announced a joint effort to build a frontier AI model purpose-built for healthcare, targeting clinical decision support, patient communication, and medical research. If successful, the model would be among the first frontier AI systems co-developed with a major health system from the ground up, rather than adapted post-training. URL not verified.
+Microsoft and Mayo Clinic announced a joint effort to build a frontier AI model purpose-built for healthcare, targeting clinical decision support, patient communication, and medical research. If successful, the model would be among the first frontier AI systems co-developed with a major health system from the ground up, rather than adapted post-training.
 
 <!-- graph:start -->
 ## Connections

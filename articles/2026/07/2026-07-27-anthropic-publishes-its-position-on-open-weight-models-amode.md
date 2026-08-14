@@ -19,9 +19,14 @@ themes:
 - datacenter-infrastructure
 cross_cutting_topics:
 - china-compete
-dedupe_status: duplicate
-canonical_article_id: 2026-07-27-anthropic-clarifies-does-not-oppose-open-weights-but-warns-a
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but
+- 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
+- 2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return
+- 2026-07-30-anthropic-says-three-claude-models-breached-real-organizatio
+- 2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue
 embedding_id: 2026-07-27-anthropic-publishes-its-position-on-open-weight-models-amode
 event_name: ''
 ---
@@ -35,5 +40,5 @@ Anthropic issued an official position on open-weights models, and CEO Dario Amod
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Canonical:** [[2026-07-27-anthropic-clarifies-does-not-oppose-open-weights-but-warns-a]]
+**Related:** [[2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return]] · [[2026-07-30-anthropic-says-three-claude-models-breached-real-organizatio]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue]]
 <!-- graph:end -->

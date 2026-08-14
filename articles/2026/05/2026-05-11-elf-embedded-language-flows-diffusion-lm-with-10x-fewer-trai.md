@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
-- 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
 - 2026-07-08-constrained-decoding-for-diffusion-language-models-via-effic
+- 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
 - 2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag
 - 2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin
 embedding_id: 2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai
@@ -37,5 +37,5 @@ Researchers introduced Embedded Language Flows (ELF), a continuous diffusion lan
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]] · [[2026-07-08-constrained-decoding-for-diffusion-language-models-via-effic]] · [[2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag]] · [[2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin]]
+**Related:** [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-07-08-constrained-decoding-for-diffusion-language-models-via-effic]] · [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]] · [[2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag]] · [[2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin]]
 <!-- graph:end -->

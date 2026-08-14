@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw
 - 2026-05-19-kpmg-and-anthropic-launch-global-alliance-claude-deployed-to
 - 2026-05-19-kpmg-and-anthropic-sign-global-alliance-claude-deployed-to-2
-- 2026-05-18-pwc-deploys-claude-globally-hundreds-of-thousands-of-profess
+- 2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written
 embedding_id: 2026-05-18-anthropic-and-pwc-announced-an-expanded-strategic-alliance-i
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic and PwC announced an expanded strategic alliance in which PwC will rol
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-kpmg-integrates-claude-across-its-core-business-and-276-000]] · [[2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw]] · [[2026-05-19-kpmg-and-anthropic-launch-global-alliance-claude-deployed-to]] · [[2026-05-19-kpmg-and-anthropic-sign-global-alliance-claude-deployed-to-2]] · [[2026-05-18-pwc-deploys-claude-globally-hundreds-of-thousands-of-profess]]
+**Related:** [[2026-05-19-kpmg-integrates-claude-across-its-core-business-and-276-000]] · [[2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw]] · [[2026-05-19-kpmg-and-anthropic-launch-global-alliance-claude-deployed-to]] · [[2026-05-19-kpmg-and-anthropic-sign-global-alliance-claude-deployed-to-2]] · [[2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written]]
 <!-- graph:end -->

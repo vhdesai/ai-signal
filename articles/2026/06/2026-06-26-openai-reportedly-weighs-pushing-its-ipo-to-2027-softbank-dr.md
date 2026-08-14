@@ -22,7 +22,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for
-- 2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected
 - 2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet
 - 2026-05-26-senior-figures-inside-softbank-are-reportedly-questioning-wh
 - 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
@@ -39,5 +38,5 @@ SoftBank Group fell more than 12% — its largest intraday drop in over three mo
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for]] · [[2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected]] · [[2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet]] · [[2026-05-26-senior-figures-inside-softbank-are-reportedly-questioning-wh]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]]
+**Related:** [[2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for]] · [[2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet]] · [[2026-05-26-senior-figures-inside-softbank-are-reportedly-questioning-wh]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]]
 <!-- graph:end -->

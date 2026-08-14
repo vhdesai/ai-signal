@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-22-nvidia-ceo-jensen-huang-delivered-the-commencement-address-a
 - 2026-05-10-jensen-huang-delivers-cmu-commencement-keynote-receives-hono
 - 2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y
-- 2026-05-22-carnegie-mellon-university-jensen-huang-delivers-commencemen
 - 2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research
+- 2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg
 embedding_id: 2026-05-10-jensen-huang-delivers-carnegie-mellon-commencement-shape-wha
 event_name: ''
 ---
@@ -36,5 +36,5 @@ NVIDIA founder Jensen Huang received an honorary Doctor of Science and Technolog
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Related:** [[2026-05-22-nvidia-ceo-jensen-huang-delivered-the-commencement-address-a]] · [[2026-05-10-jensen-huang-delivers-cmu-commencement-keynote-receives-hono]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-05-22-carnegie-mellon-university-jensen-huang-delivers-commencemen]] · [[2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research]]
+**Related:** [[2026-05-22-nvidia-ceo-jensen-huang-delivered-the-commencement-address-a]] · [[2026-05-10-jensen-huang-delivers-cmu-commencement-keynote-receives-hono]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research]] · [[2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg]]
 <!-- graph:end -->

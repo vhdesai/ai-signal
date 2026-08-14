@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-28-mistral-released-voxtral-tts-an-open-source-text-to-speech-m
 - 2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model
-- 2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib
 - 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
 - 2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai
+- 2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads
 embedding_id: 2026-03-28-cohere-launched-cohere-transcribe-an-open-source-automatic-s
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Cohere launched Cohere Transcribe, an open-source automatic speech recognition m
 
 **Entities:** [[Cohere]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-03-28-mistral-released-voxtral-tts-an-open-source-text-to-speech-m]] · [[2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai]]
+**Related:** [[2026-03-28-mistral-released-voxtral-tts-an-open-source-text-to-speech-m]] · [[2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai]] · [[2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads]]
 <!-- graph:end -->

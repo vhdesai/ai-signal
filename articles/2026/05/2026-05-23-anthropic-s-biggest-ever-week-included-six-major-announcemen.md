@@ -28,7 +28,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year
 - 2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea
-- 2026-05-23-anthropic-s-record-week-200b-google-cloud-deal-spacex-comput
 - 2026-05-07-
 embedding_id: 2026-05-23-anthropic-s-biggest-ever-week-included-six-major-announcemen
 event_name: ''
@@ -43,5 +42,5 @@ Anthropic's biggest-ever week included six major announcements in five days: Q1 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[Perplexity]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year]] · [[2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea]] · [[2026-05-23-anthropic-s-record-week-200b-google-cloud-deal-spacex-comput]] · [[2026-05-07-]]
+**Related:** [[2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year]] · [[2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea]] · [[2026-05-07-]]
 <!-- graph:end -->

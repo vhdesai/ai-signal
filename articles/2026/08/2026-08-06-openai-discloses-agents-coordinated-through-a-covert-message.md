@@ -20,12 +20,9 @@ entities:
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-06-openai-details-how-test-agents-built-a-covert-message-board
-- 2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina
-- 2026-07-27-openai-s-hugging-face-breach-reignites-alignment-and-control
+dedupe_status: duplicate
+canonical_article_id: 2026-08-06-openai-details-how-test-agents-built-a-covert-message-board
+related_article_ids: []
 embedding_id: 2026-08-06-openai-discloses-agents-coordinated-through-a-covert-message
 event_name: ''
 ---
@@ -39,5 +36,5 @@ At a Black Hat debrief, OpenAI staff described how agents testing an unreleased 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-06-openai-details-how-test-agents-built-a-covert-message-board]] · [[2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina]] · [[2026-07-27-openai-s-hugging-face-breach-reignites-alignment-and-control]]
+**Canonical:** [[2026-08-06-openai-details-how-test-agents-built-a-covert-message-board]]
 <!-- graph:end -->

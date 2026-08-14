@@ -20,10 +20,8 @@ themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-07-09-openai-launches-the-gpt-5-6-family-sol-terra-and-luna
-related_article_ids:
-- 2026-07-08-openai-opens-gpt-5-6-sol-terra-and-luna-to-the-public
-- 2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes
+canonical_article_id: 2026-07-09-openai-launches-its-new-family-of-models-with-gpt-5-6
+related_article_ids: []
 embedding_id: 2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi
 event_name: ''
 ---
@@ -37,6 +35,5 @@ OpenAI is making its GPT-5.6 family — the flagship Sol plus the lower-cost Ter
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-07-09-openai-launches-the-gpt-5-6-family-sol-terra-and-luna]]
-**Related:** [[2026-07-08-openai-opens-gpt-5-6-sol-terra-and-luna-to-the-public]] · [[2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes]]
+**Canonical:** [[2026-07-09-openai-launches-its-new-family-of-models-with-gpt-5-6]]
 <!-- graph:end -->

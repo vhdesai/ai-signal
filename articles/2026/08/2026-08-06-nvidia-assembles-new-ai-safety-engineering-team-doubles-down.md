@@ -23,8 +23,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-06-nvidia-staffs-a-new-ai-safety-security-engineering-team
 - 2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance
+- 2026-08-06-nvidia-staffs-a-new-ai-safety-security-engineering-team
 - 2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl
 embedding_id: 2026-08-06-nvidia-assembles-new-ai-safety-engineering-team-doubles-down
 event_name: ''
@@ -39,5 +39,5 @@ Nvidia is hiring for a newly formed AI safety and security engineering team task
 
 **Entities:** [[Microsoft]] · [[NVIDIA]] · [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-nvidia-staffs-a-new-ai-safety-security-engineering-team]] · [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance]] · [[2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl]]
+**Related:** [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance]] · [[2026-08-06-nvidia-staffs-a-new-ai-safety-security-engineering-team]] · [[2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl]]
 <!-- graph:end -->

@@ -19,10 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-03-20-the-information-logo-8-questions-investors-need-to-ask-about
 - 2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o
-- 2026-05-13-report-google-and-spacex-in-talks-to-build-ai-data-centers-i
 - 2026-08-05-spacex-falls-13-as-ai-capital-spending-rises-sixfold
+- 2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq
+- 2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te
+- 2026-07-07-july-7-2026
 embedding_id: 2026-07-01-spacex-reportedly-showed-investors-a-handset-like-ai-device
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Per a Wall Street Journal report relayed by TechCrunch, SpaceX showed investors 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-03-20-the-information-logo-8-questions-investors-need-to-ask-about]] · [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]] · [[2026-05-13-report-google-and-spacex-in-talks-to-build-ai-data-centers-i]] · [[2026-08-05-spacex-falls-13-as-ai-capital-spending-rises-sixfold]]
+**Related:** [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]] · [[2026-08-05-spacex-falls-13-as-ai-capital-spending-rises-sixfold]] · [[2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq]] · [[2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te]] · [[2026-07-07-july-7-2026]]
 <!-- graph:end -->

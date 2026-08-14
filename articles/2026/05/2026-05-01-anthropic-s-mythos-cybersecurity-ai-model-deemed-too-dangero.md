@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
 - 2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang
-- 2026-04-23-the-verge-reports-that-on-april-7th-the-same-day-anthropic-p
 - 2026-04-10-anthropic-s-decision-to-develop-but-withhold-claude-mythos-f
 - 2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing
+- 2026-05-22-anthropic-s-mythos-model-is-in-a-tightly-restricted-preview
+- 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 embedding_id: 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic built an internal AI model called Mythos specifically for defensive cy
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang]] · [[2026-04-23-the-verge-reports-that-on-april-7th-the-same-day-anthropic-p]] · [[2026-04-10-anthropic-s-decision-to-develop-but-withhold-claude-mythos-f]] · [[2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing]]
+**Related:** [[2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang]] · [[2026-04-10-anthropic-s-decision-to-develop-but-withhold-claude-mythos-f]] · [[2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing]] · [[2026-05-22-anthropic-s-mythos-model-is-in-a-tightly-restricted-preview]] · [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]]
 <!-- graph:end -->

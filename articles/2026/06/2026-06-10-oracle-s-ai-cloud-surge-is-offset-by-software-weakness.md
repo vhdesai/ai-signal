@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-30-microsoft-s-ai-bet-pushes-azure-past-a-100b-run-rate-as-clou
 - 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
-- 2026-07-22-google-justifies-massive-ai-spending-with-booming-cloud-grow
 - 2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in
 - 2026-05-14-alibaba-cloud-grows-38-but-core-profit-plunges-84-on-ai-cape
+- 2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny
+- 2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com
 embedding_id: 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Oracle reported May-quarter revenue growth of 21%, one percentage point slower t
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-30-microsoft-s-ai-bet-pushes-azure-past-a-100b-run-rate-as-clou]] · [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]] · [[2026-07-22-google-justifies-massive-ai-spending-with-booming-cloud-grow]] · [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-05-14-alibaba-cloud-grows-38-but-core-profit-plunges-84-on-ai-cape]]
+**Related:** [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]] · [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-05-14-alibaba-cloud-grows-38-but-core-profit-plunges-84-on-ai-cape]] · [[2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]]
 <!-- graph:end -->

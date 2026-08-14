@@ -20,7 +20,7 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan
+canonical_article_id: 2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv
 related_article_ids: []
 embedding_id: 2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode
 event_name: ''
@@ -35,5 +35,5 @@ Chinese authorities have held talks with Alibaba, ByteDance, and Z.ai about rest
 
 **Entities:** [[Alibaba]] · [[ByteDance]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Canonical:** [[2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan]]
+**Canonical:** [[2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv]]
 <!-- graph:end -->

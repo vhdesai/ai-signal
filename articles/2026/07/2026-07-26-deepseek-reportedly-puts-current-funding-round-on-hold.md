@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-14-deepseek-reportedly-plans-another-funding-round-after-raisin
-- 2026-07-27-the-information-2026-07-27-external-deepseek-puts-current-fu
 - 2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round
 - 2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50
+- 2026-05-18-deepseek-closes-4b-round-intensifying-the-open-weights-compe
 embedding_id: 2026-07-26-deepseek-reportedly-puts-current-funding-round-on-hold
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Information reports that DeepSeek has put its current funding round on hold.
 
 **Entities:** [[Apple]] · [[DeepSeek]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-07-14-deepseek-reportedly-plans-another-funding-round-after-raisin]] · [[2026-07-27-the-information-2026-07-27-external-deepseek-puts-current-fu]] · [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]]
+**Related:** [[2026-07-14-deepseek-reportedly-plans-another-funding-round-after-raisin]] · [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-05-18-deepseek-closes-4b-round-intensifying-the-open-weights-compe]]
 <!-- graph:end -->

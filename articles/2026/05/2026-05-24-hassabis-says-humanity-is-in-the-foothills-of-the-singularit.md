@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-08-12-google-deepmind-leadership-shake-up-kavukcuoglu-takes-over-h
 - 2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few
 - 2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body
+- 2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-as-hassabis-mov
 - 2026-05-22-at-google-i-o-2026-deepmind-ceo-demis-hassabis-showcased-how
-- 2026-08-05-google-deepmind-restructures-hassabis-moves-to-chairman-kavu
 embedding_id: 2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Within hours of each other, Google DeepMind CEO Demis Hassabis described current
 
 **Entities:** [[Google]] · [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-12-google-deepmind-leadership-shake-up-kavukcuoglu-takes-over-h]] · [[2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few]] · [[2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body]] · [[2026-05-22-at-google-i-o-2026-deepmind-ceo-demis-hassabis-showcased-how]] · [[2026-08-05-google-deepmind-restructures-hassabis-moves-to-chairman-kavu]]
+**Related:** [[2026-08-12-google-deepmind-leadership-shake-up-kavukcuoglu-takes-over-h]] · [[2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few]] · [[2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body]] · [[2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-as-hassabis-mov]] · [[2026-05-22-at-google-i-o-2026-deepmind-ceo-demis-hassabis-showcased-how]]
 <!-- graph:end -->

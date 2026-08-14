@@ -21,10 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-31-thinking-machines-debuts-inkling-small-an-open-source-model
-- 2026-07-16-thinking-machines-lab-releases-inkling-a-975b-parameter-open
 - 2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights
 - 2026-05-14-mira-murati-s-thinking-machines-lab-introduces-tml-interacti
+- 2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl
 embedding_id: 2026-07-30-thinking-machines-releases-inkling-small-a-276b-open-weights
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Mira Murati’s Thinking Machines Lab released Inkling-Small, a 276-billion-para
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-31-thinking-machines-debuts-inkling-small-an-open-source-model]] · [[2026-07-16-thinking-machines-lab-releases-inkling-a-975b-parameter-open]] · [[2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights]] · [[2026-05-14-mira-murati-s-thinking-machines-lab-introduces-tml-interacti]]
+**Related:** [[2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights]] · [[2026-05-14-mira-murati-s-thinking-machines-lab-introduces-tml-interacti]] · [[2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl]]
 <!-- graph:end -->

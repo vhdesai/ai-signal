@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 - 2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
+- 2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin
 embedding_id: 2026-05-14-enterprise-ai-governance-tools-outpace-policy-marktechpost-m
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Enterprise AI governance: tools outpace policy — MarkTechPost, May 13, 2026 A 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]]
+**Related:** [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]] · [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]]
 <!-- graph:end -->

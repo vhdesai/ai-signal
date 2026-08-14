@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-13-beijing-could-suddenly-clamp-down-on-chinese-open-weight-ai
-- 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
 - 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
+- 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
 - 2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan
-- 2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo
+- 2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv
 embedding_id: 2026-04-23-china-tightens-outbound-investment-screening-over-bytedance
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Beijing is moving to restrict additional US investment into leading Chinese AI l
 
 **Entities:** [[ByteDance]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-13-beijing-could-suddenly-clamp-down-on-chinese-open-weight-ai]] · [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]] · [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan]] · [[2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo]]
+**Related:** [[2026-08-13-beijing-could-suddenly-clamp-down-on-chinese-open-weight-ai]] · [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]] · [[2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan]] · [[2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv]]
 <!-- graph:end -->

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr
 - 2026-08-11-nvidia-is-trying-to-develop-the-world-s-best-open-source-ai
 - 2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet
-- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
+- 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 embedding_id: 2026-05-09-newnvidia-launches-nvidia-ising-world-s-first-open-source-qu
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Jensen Huang announced Nvidia Ising, described as the world's first family of op
 
 **Entities:** [[IBM]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-14-nvidia-ising-open-models-for-quantum-error-correction]] · [[2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr]] · [[2026-08-11-nvidia-is-trying-to-develop-the-world-s-best-open-source-ai]] · [[2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
+**Related:** [[2026-04-14-nvidia-ising-open-models-for-quantum-error-correction]] · [[2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr]] · [[2026-08-11-nvidia-is-trying-to-develop-the-world-s-best-open-source-ai]] · [[2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]]
 <!-- graph:end -->

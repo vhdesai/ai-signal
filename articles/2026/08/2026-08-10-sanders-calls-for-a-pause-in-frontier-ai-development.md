@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-08-10_061434_Inbox_Daily AI News Digest - August 10,
   2026.md
-content_hash: 84d638e33f1bec62dbc0da40b431d5f667e7d0a4bd842f430ea845d316295485
+content_hash: a211712922f8ddca1cdff7db5edc90030bb29d468f25f66370d932170b3bbc9e
 normalized_title_hash: e352e93d7caf3846
 canonical_url_hash: ''
 tags: []
@@ -33,7 +33,7 @@ event_name: ''
 
 # Sanders calls for a pause in frontier AI development
 
-Senator Bernie Sanders called on OpenAI, Anthropic, Meta, and other leading labs to pause frontier AI development, framing the demand as part of a broader regulatory push around labor displacement and safety. The call carries no legislative mechanism today but adds a prominent voice to a Congress already moving toward hearings. Executives should read it as evidence that the political center of gravity is shifting from AI promotion to AI restraint. URL not verified. POLICYINTERNATIONAL
+Senator Bernie Sanders called on OpenAI, Anthropic, Meta, and other leading labs to pause frontier AI development, framing the demand as part of a broader regulatory push around labor displacement and safety. The call carries no legislative mechanism today but adds a prominent voice to a Congress already moving toward hearings. Executives should read it as evidence that the political center of gravity is shifting from AI promotion to AI restraint.
 
 <!-- graph:start -->
 ## Connections

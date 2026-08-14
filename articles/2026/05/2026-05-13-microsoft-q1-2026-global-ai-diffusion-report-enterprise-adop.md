@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-10-microsoft-q1-2026-global-ai-diffusion-report-uae-leads-at-70
 - 2026-05-18-microsoft-s-2026-global-ai-diffusion-report-documented-that
 - 2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop
-- 2026-05-18-microsoft-global-ai-diffusion-report-17-8-of-world-s-working
+- 2026-05-22-the-stanford-university-2026-ai-index-report-documents-a-fie
 embedding_id: 2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft's Q1 2026 Global AI Diffusion Report shows enterprise AI adoption cont
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-10-microsoft-q1-2026-global-ai-diffusion-report-uae-leads-at-70]] · [[2026-05-18-microsoft-s-2026-global-ai-diffusion-report-documented-that]] · [[2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop]] · [[2026-05-18-microsoft-global-ai-diffusion-report-17-8-of-world-s-working]]
+**Related:** [[2026-05-10-microsoft-q1-2026-global-ai-diffusion-report-uae-leads-at-70]] · [[2026-05-18-microsoft-s-2026-global-ai-diffusion-report-documented-that]] · [[2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop]] · [[2026-05-22-the-stanford-university-2026-ai-index-report-documents-a-fie]]
 <!-- graph:end -->

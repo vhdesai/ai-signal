@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-13-mit-cybersecurity-clinic-highlights-ai-s-changing-role-in-pu
 - 2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa
 - 2026-04-02-mit-researchers-published-a-testing-framework-that-identifie
-- 2026-05-14-responsible-ai-reporting-still-trails-capability-releases
+- 2026-07-11-new-warning-in-race-to-superintelligence
 embedding_id: 2026-04-20-mit-sloan-axios-april-2026-new-survey-data-show-enterprises
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MIT Sloan / Axios • April 2026 New survey data show enterprises accelerating f
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]] · [[2026-07-13-mit-cybersecurity-clinic-highlights-ai-s-changing-role-in-pu]] · [[2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa]] · [[2026-04-02-mit-researchers-published-a-testing-framework-that-identifie]] · [[2026-05-14-responsible-ai-reporting-still-trails-capability-releases]]
+**Related:** [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]] · [[2026-07-13-mit-cybersecurity-clinic-highlights-ai-s-changing-role-in-pu]] · [[2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa]] · [[2026-04-02-mit-researchers-published-a-testing-framework-that-identifie]] · [[2026-07-11-new-warning-in-race-to-superintelligence]]
 <!-- graph:end -->

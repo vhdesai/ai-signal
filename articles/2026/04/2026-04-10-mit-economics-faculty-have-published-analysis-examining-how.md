@@ -18,9 +18,14 @@ themes:
 - model-capabilities
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-04-10-mit-economics-faculty-examine-ai-s-impact-on-knowledge-work
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
+- 2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr
+- 2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did
+- 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
+- 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
 embedding_id: 2026-04-10-mit-economics-faculty-have-published-analysis-examining-how
 event_name: ''
 ---
@@ -33,5 +38,5 @@ MIT Economics faculty have published analysis examining how AI tools are affecti
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Canonical:** [[2026-04-10-mit-economics-faculty-examine-ai-s-impact-on-knowledge-work]]
+**Related:** [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr]] · [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]]
 <!-- graph:end -->

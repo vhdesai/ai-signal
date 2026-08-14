@@ -24,8 +24,10 @@ themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-05-anthropic-confirms-in-house-custom-chip-design-team-for-clau
-related_article_ids: []
+canonical_article_id: 2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude
+related_article_ids:
+- 2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch
+- 2026-07-02-anthropic-explores-a-custom-ai-chip-built-on-samsung-s-2nm-p
 embedding_id: 2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team
 event_name: ''
 ---
@@ -39,5 +41,6 @@ Anthropic confirmed it is building a custom silicon team to co-design hardware a
 
 **Entities:** [[Amazon]] · [[AMD]] · [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[Samsung]]
 **Topics:** [[Infrastructure & Compute]]
-**Canonical:** [[2026-08-05-anthropic-confirms-in-house-custom-chip-design-team-for-clau]]
+**Canonical:** [[2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude]]
+**Related:** [[2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch]] · [[2026-07-02-anthropic-explores-a-custom-ai-chip-built-on-samsung-s-2nm-p]]
 <!-- graph:end -->

@@ -26,7 +26,8 @@ related_article_ids:
 - 2026-05-05-researchers-from-uc-berkeley-stanford-cmu-databricks-and-goo
 - event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild
 - 2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma
-- 2026-05-15-acm-cais-2026-uc-berkeley-mit-accepted-may-2026
+- 2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on
+- event-acm-cais-2026-acm-cais-2026-overview
 embedding_id: 2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on
 event_name: ''
 ---
@@ -40,5 +41,5 @@ The ACM CAIS 2026 workshop "AI Agents for Discovery in the Wild" has extended it
 
 **Entities:** [[Databricks]] · [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-05-researchers-from-uc-berkeley-stanford-cmu-databricks-and-goo]] · [[event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[2026-05-15-acm-cais-2026-uc-berkeley-mit-accepted-may-2026]]
+**Related:** [[2026-05-05-researchers-from-uc-berkeley-stanford-cmu-databricks-and-goo]] · [[event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on]] · [[event-acm-cais-2026-acm-cais-2026-overview]]
 <!-- graph:end -->

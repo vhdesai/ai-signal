@@ -18,11 +18,7 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via
-related_article_ids:
-- 2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop
-- 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
-- 2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in
-- 2026-08-07-stanford-runs-37-000-ai-agents-as-virtual-biotech-drug-desig
+related_article_ids: []
 embedding_id: 2026-08-06-stanford-s-evo-2-model-designs-a-functional-bacteriophage-th
 event_name: ''
 ---
@@ -36,5 +32,4 @@ A Stanford team used Evo 2, its in-house genomic foundation model capable of wri
 
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via]]
-**Related:** [[2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in]] · [[2026-08-07-stanford-runs-37-000-ai-agents-as-virtual-biotech-drug-desig]]
 <!-- graph:end -->

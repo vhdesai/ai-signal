@@ -17,9 +17,13 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-06-20-openai-testing-chatgpt-for-science-subscription-for-research
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo
+- 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
+- 2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers
+- 2026-07-14-openai-publishes-chatgpt-work-playbooks-for-data-science-and
 embedding_id: 2026-06-20-openai-testing-chatgpt-for-science-subscription-targeting-re
 event_name: ''
 ---
@@ -33,5 +37,5 @@ Leaked UI elements suggest a specialized subscription tier for universities and 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-06-20-openai-testing-chatgpt-for-science-subscription-for-research]]
+**Related:** [[2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo]] · [[2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re]] · [[2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers]] · [[2026-07-14-openai-publishes-chatgpt-work-playbooks-for-data-science-and]]
 <!-- graph:end -->

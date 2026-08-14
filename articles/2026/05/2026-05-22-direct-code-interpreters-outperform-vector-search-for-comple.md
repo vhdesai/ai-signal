@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 - 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
-- 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
+- 2026-08-08-four-agent-coordination-system-outperforms-a-frontier-single
 embedding_id: 2026-05-22-direct-code-interpreters-outperform-vector-search-for-comple
 event_name: ''
 ---
@@ -38,5 +38,5 @@ research shows DCI (Direct Code Interpreters) — which let AI agents grep, trac
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-direct-corpus-interaction-dci-agents-outperform-vector-rag-b]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]]
+**Related:** [[2026-05-22-direct-corpus-interaction-dci-agents-outperform-vector-rag-b]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-08-08-four-agent-coordination-system-outperforms-a-frontier-single]]
 <!-- graph:end -->

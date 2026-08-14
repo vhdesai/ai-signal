@@ -21,8 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
+- 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85
 - 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
+- 2026-08-11-new-extraction-technique-surfaces-hidden-reasoning-traces-ac
 embedding_id: 2026-07-10-overthinking-amplifying-reasoning-weights-to-extract-learned
 event_name: ''
 ---
@@ -35,5 +37,5 @@ Accepted at ICML 2026, this work introduces “overthinking” — amplifying re
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85]] · [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]]
+**Related:** [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85]] · [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]] · [[2026-08-11-new-extraction-technique-surfaces-hidden-reasoning-traces-ac]]
 <!-- graph:end -->

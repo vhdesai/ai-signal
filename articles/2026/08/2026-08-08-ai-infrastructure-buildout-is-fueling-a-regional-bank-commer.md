@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio
 - 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
+- 2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
-- 2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo
-- 2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector
-- 2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin
+- 2026-07-30-dili-raises-21-7-million-to-bring-ai-compliance-to-infrastru
 embedding_id: 2026-08-08-ai-infrastructure-buildout-is-fueling-a-regional-bank-commer
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The AI infrastructure build-out is generating a measurable "trickle-down" lendin
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo]] · [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]] · [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]]
+**Related:** [[2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-07-30-dili-raises-21-7-million-to-bring-ai-compliance-to-infrastru]]
 <!-- graph:end -->

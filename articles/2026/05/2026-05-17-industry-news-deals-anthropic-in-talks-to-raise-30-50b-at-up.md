@@ -29,7 +29,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
+related_article_ids:
+- 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
 embedding_id: 2026-05-17-industry-news-deals-anthropic-in-talks-to-raise-30-50b-at-up
 event_name: ''
 ---
@@ -43,4 +44,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Cerebras]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]]
 <!-- graph:end -->

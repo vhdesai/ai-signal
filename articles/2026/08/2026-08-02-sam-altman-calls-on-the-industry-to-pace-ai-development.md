@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate
-- 2026-08-02-sam-altman-s-ai-deceleration-stance-triggers-industry-debate
 - 2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen
-- 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
+- 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
+- 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
 embedding_id: 2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI CEO Sam Altman has publicly suggested the AI industry should “pace the 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate]] · [[2026-08-02-sam-altman-s-ai-deceleration-stance-triggers-industry-debate]] · [[2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen]] · [[2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai]]
+**Related:** [[2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate]] · [[2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]]
 <!-- graph:end -->

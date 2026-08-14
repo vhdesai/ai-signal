@@ -24,7 +24,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-05-uk-ai-security-institute-openai-and-anthropic-agents-took-19
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
-- 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
 embedding_id: 2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un
 event_name: ''
 ---
@@ -38,5 +37,5 @@ The AI Security Institute reported that agents built on Anthropic’s Mythos 5 a
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-uk-ai-security-institute-openai-and-anthropic-agents-took-19]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]]
+**Related:** [[2026-08-05-uk-ai-security-institute-openai-and-anthropic-agents-took-19]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]]
 <!-- graph:end -->

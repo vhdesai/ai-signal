@@ -23,11 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-18-intel-nvidia-partnership-custom-x86-cpus-with-integrated-rtx
 - 2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
-- 2026-07-24-nvidia-and-south-korea-outline-full-stack-ai-collaboration
 - 2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super
+- 2026-06-07-nvidia-and-sk-hynix-sign-multiyear-memory-partnership-for-ai
 embedding_id: 2026-05-18-intel-ceo-lip-bu-tan-publicly-confirmed-ongoing-collaboratio
 event_name: ''
 ---
@@ -41,5 +40,5 @@ Intel CEO Lip-Bu Tan publicly confirmed ongoing collaboration with Nvidia follow
 
 **Entities:** [[Intel]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-18-intel-nvidia-partnership-custom-x86-cpus-with-integrated-rtx]] · [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-24-nvidia-and-south-korea-outline-full-stack-ai-collaboration]] · [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]]
+**Related:** [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]] · [[2026-06-07-nvidia-and-sk-hynix-sign-multiyear-memory-partnership-for-ai]]
 <!-- graph:end -->

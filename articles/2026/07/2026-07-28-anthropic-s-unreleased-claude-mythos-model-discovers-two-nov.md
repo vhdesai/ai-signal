@@ -24,9 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr
 - 2026-07-28-claude-autonomously-finds-new-attacks-on-post-quantum-hawk-a
-- 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
 - 2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur
-- 2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po
 embedding_id: 2026-07-28-anthropic-s-unreleased-claude-mythos-model-discovers-two-nov
 event_name: ''
 ---
@@ -40,5 +38,5 @@ Anthropic reported that its unreleased Claude Mythos Preview model, running for 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr]] · [[2026-07-28-claude-autonomously-finds-new-attacks-on-post-quantum-hawk-a]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur]] · [[2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po]]
+**Related:** [[2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr]] · [[2026-07-28-claude-autonomously-finds-new-attacks-on-post-quantum-hawk-a]] · [[2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur]]
 <!-- graph:end -->

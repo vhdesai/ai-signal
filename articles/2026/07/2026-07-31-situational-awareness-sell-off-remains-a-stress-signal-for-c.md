@@ -19,7 +19,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-07-31-situational-awareness-fire-sale-turns-leveraged-ai-convictio
+canonical_article_id: 2026-07-31-situational-awareness-sell-off-becomes-a-stress-signal-for-a
 related_article_ids: []
 embedding_id: 2026-07-31-situational-awareness-sell-off-remains-a-stress-signal-for-c
 event_name: ''
@@ -33,5 +33,5 @@ Business Insider reported that the sell-off in Leopold Aschenbrenner's Situation
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-07-31-situational-awareness-fire-sale-turns-leveraged-ai-convictio]]
+**Canonical:** [[2026-07-31-situational-awareness-sell-off-becomes-a-stress-signal-for-a]]
 <!-- graph:end -->

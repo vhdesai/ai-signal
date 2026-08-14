@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-28-openai-s-next-flagship-model-internally-codenamed-spud-compl
 - 2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot
-- 2026-06-27-o-breaking-openai-previews-gpt-5-6-sol-a-next-generation-mod
 - 2026-05-17-google-i-o-2026-may-19-20-expected-gemini-3-x-updates-google
+- 2026-04-10-april-2026-is-tracking-as-a-landmark-month-for-model-release
 embedding_id: 2026-05-03-openai-spud-flagship-model-imminent-strong-gpt-6-signal
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI's next flagship — internally codenamed "Spud" — is expected to land b
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-03-28-openai-s-next-flagship-model-internally-codenamed-spud-compl]] · [[2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot]] · [[2026-06-27-o-breaking-openai-previews-gpt-5-6-sol-a-next-generation-mod]] · [[2026-05-17-google-i-o-2026-may-19-20-expected-gemini-3-x-updates-google]]
+**Related:** [[2026-03-28-openai-s-next-flagship-model-internally-codenamed-spud-compl]] · [[2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot]] · [[2026-05-17-google-i-o-2026-may-19-20-expected-gemini-3-x-updates-google]] · [[2026-04-10-april-2026-is-tracking-as-a-landmark-month-for-model-release]]
 <!-- graph:end -->

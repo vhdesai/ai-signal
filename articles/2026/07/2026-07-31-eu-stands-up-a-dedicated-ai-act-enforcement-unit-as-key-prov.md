@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-eu-stands-up-an-ai-act-enforcement-team-as-key-provisions-ta
 - 2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro
-- 2026-08-03-eu-ai-act-enforcement-powers-take-effect-openai-anthropic-an
 - 2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla
-- 2026-08-02-eu-ai-act-enforcement-powers-take-effect-for-general-purpose
+- 2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe
+- 2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare
 embedding_id: 2026-07-31-eu-stands-up-a-dedicated-ai-act-enforcement-unit-as-key-prov
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The European Commission formed a dedicated Brussels enforcement team — adding 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-31-eu-stands-up-an-ai-act-enforcement-team-as-key-provisions-ta]] · [[2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro]] · [[2026-08-03-eu-ai-act-enforcement-powers-take-effect-openai-anthropic-an]] · [[2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla]] · [[2026-08-02-eu-ai-act-enforcement-powers-take-effect-for-general-purpose]]
+**Related:** [[2026-07-31-eu-stands-up-an-ai-act-enforcement-team-as-key-provisions-ta]] · [[2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro]] · [[2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla]] · [[2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe]] · [[2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare]]
 <!-- graph:end -->

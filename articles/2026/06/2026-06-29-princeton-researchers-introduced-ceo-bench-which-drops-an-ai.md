@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st
 - 2026-06-29-princeton-s-ceo-bench-most-frontier-models-go-broke-running
-- 2026-06-29-princeton-s-ceo-bench-most-frontier-models-go-bankrupt-runni
-- 2026-07-27-ai-capital-cycle-hits-new-highs-as-the-first-autonomous-ai-b
 - 2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4
+- 2026-04-15-research-breakthroughs
+- 2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c
 embedding_id: 2026-06-29-princeton-researchers-introduced-ceo-bench-which-drops-an-ai
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Princeton researchers introduced CEO‑Bench, which drops an AI agent into the c
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st]] · [[2026-06-29-princeton-s-ceo-bench-most-frontier-models-go-broke-running]] · [[2026-06-29-princeton-s-ceo-bench-most-frontier-models-go-bankrupt-runni]] · [[2026-07-27-ai-capital-cycle-hits-new-highs-as-the-first-autonomous-ai-b]] · [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]]
+**Related:** [[2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st]] · [[2026-06-29-princeton-s-ceo-bench-most-frontier-models-go-broke-running]] · [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]] · [[2026-04-15-research-breakthroughs]] · [[2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c]]
 <!-- graph:end -->

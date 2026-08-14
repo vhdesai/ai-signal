@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
 - 2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals
-- 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 - 2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework
+- 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 - 2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi
 embedding_id: 2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent
 event_name: ''
@@ -37,5 +37,5 @@ A position paper by Bensalem, Dong, Franzle, Huang, Kroger, Nickovic, Nouri, Roy
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]] · [[2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework]] · [[2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi]]
+**Related:** [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]] · [[2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals]] · [[2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi]]
 <!-- graph:end -->

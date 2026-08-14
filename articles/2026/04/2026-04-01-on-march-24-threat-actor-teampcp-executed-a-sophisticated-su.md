@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-01-litellm-supply-chain-attack-exposes-ai-developer-ecosystem-t
 - 2026-04-04-mercor-the-10b-ai-startup-serving-anthropic-openai-and-meta
-- 2026-04-04-mercor-data-breach-supply-chain-attack-on-litellm-exposes-ai
 - 2026-05-22-wired-reported-that-the-group-behind-a-recent-github-reposit
-- 2026-04-01-mercor-a-10b-ai-recruiting-platform-serving-openai-and-anthr
+- 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
+- 2026-05-22-github-supply-chain-attack-compromises-500-packages
+- 2026-05-27-cve-2026-48710-badhost-critical-starlette-auth-bypass-hits-a
 embedding_id: 2026-04-01-on-march-24-threat-actor-teampcp-executed-a-sophisticated-su
 event_name: ''
 ---
@@ -39,5 +39,5 @@ On March 24, threat actor TeamPCP executed a sophisticated supply chain attack a
 
 **Entities:** [[Amazon]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-01-litellm-supply-chain-attack-exposes-ai-developer-ecosystem-t]] · [[2026-04-04-mercor-the-10b-ai-startup-serving-anthropic-openai-and-meta]] · [[2026-04-04-mercor-data-breach-supply-chain-attack-on-litellm-exposes-ai]] · [[2026-05-22-wired-reported-that-the-group-behind-a-recent-github-reposit]] · [[2026-04-01-mercor-a-10b-ai-recruiting-platform-serving-openai-and-anthr]]
+**Related:** [[2026-04-04-mercor-the-10b-ai-startup-serving-anthropic-openai-and-meta]] · [[2026-05-22-wired-reported-that-the-group-behind-a-recent-github-reposit]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-05-27-cve-2026-48710-badhost-critical-starlette-auth-bypass-hits-a]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-07-openai-gpt-5-6-public-release-thursday-after-federal-pre-rel
 - 2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch
 - 2026-06-21-speculation-around-openai-s-gpt-5-6-continued-to-intensify-o
-- 2026-06-21-gpt-5-6-rumors-continue-to-build-ahead-of-rumored-june-23
+- 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
 embedding_id: 2026-06-22-gpt-5-6-launch-timing-uncertain-prediction-markets-collapse
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Prediction-market odds that OpenAI ships GPT-5.6 by June 28 collapsed from ~83% 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-07-openai-gpt-5-6-public-release-thursday-after-federal-pre-rel]] · [[2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch]] · [[2026-06-21-speculation-around-openai-s-gpt-5-6-continued-to-intensify-o]] · [[2026-06-21-gpt-5-6-rumors-continue-to-build-ahead-of-rumored-june-23]]
+**Related:** [[2026-07-07-openai-gpt-5-6-public-release-thursday-after-federal-pre-rel]] · [[2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch]] · [[2026-06-21-speculation-around-openai-s-gpt-5-6-continued-to-intensify-o]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]]
 <!-- graph:end -->

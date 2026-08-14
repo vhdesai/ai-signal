@@ -61,6 +61,35 @@ _BACKTICK_RE = re.compile(r"`([^`]*)`")
 _BOLD_RE = re.compile(r"\*\*([^*]+)\*\*")
 _ITALIC_US_RE = re.compile(r"__([^_]+)__")
 
+# Editorial / attribution boilerplate that some digests append to article
+# bodies. These convey no article information and must be stripped from
+# reader-facing summaries. Each is removed wherever it appears in the flattened
+# summary text (newlines already collapsed to spaces upstream).
+_EDITORIAL_BOILERPLATE_RES = [
+    # "URL not verified.", "URL not verified (MSN redirect from Business Insider).",
+    # "URL not verified — announcement posted on ...": strip to end of the line.
+    re.compile(r"\s*URL not verified\b[^\n]*", re.IGNORECASE),
+    re.compile(r"\s*Items verified against original sources(?:\s+where accessible)?\s*\.?", re.IGNORECASE),
+    re.compile(r"\s*Stories ordered by editorial significance(?:\s+within each theme)?\s*\.?", re.IGNORECASE),
+    re.compile(r"\s*(?:Stories covered:\s*)?\b\d+\s+items\s+across\s+\d+\s+themes\s*\.?", re.IGNORECASE),
+    re.compile(r"\s*Compiled\b[^.\n]*\bP[DS]T\b\s*\.?", re.IGNORECASE),
+    # Editorial-process / authorship footers (no source names or URLs). These
+    # are terminal notes, so strip marker-to-end. Source / publication citation
+    # lists (e.g. "Sources compiled from: The Decoder, TechCrunch, ...",
+    # "Publication Newsletter Sources ...", "Additional coverage from newsletter
+    # subscriptions ...") are intentionally PRESERVED per user direction.
+    re.compile(r"\s*\bCompiled by Microsoft Copilot\b.*", re.IGNORECASE),
+    re.compile(r"\s*\bThis digest covers\b.*", re.IGNORECASE),
+    re.compile(r"\s*\bPrepared for Vik Desai\b.*", re.IGNORECASE),
+    re.compile(r"\s*\)?\s*\.?\s*\bItems reflect original-publication reporting\b.*", re.IGNORECASE),
+    # Bounded: this aggregation note precedes a preserved source list, so strip
+    # only the note sentence(s) — stop at end-of-paragraph or before a kept
+    # "Publication Newsletter Sources" / "Additional coverage ..." source list.
+    re.compile(r"\s*\*?\s*This digest aggregates\b.*?(?=\s*Publication Newsletter Sources|\s*\*?\s*Additional coverage from newsletter subscriptions|$)", re.IGNORECASE),
+    # Broken relevant-link search-error dumps (technical artifacts, no real URL).
+    re.compile(r"\s*(?:Sources noted:\s*)?(?:Hot\s*[-\u2013]\s*)?Relevant links:\s*_?Search failed:.*", re.IGNORECASE),
+]
+
 
 def _strip_md_inline(text: str) -> str:
     """Remove inline markdown decoration while keeping the readable text."""
@@ -278,6 +307,12 @@ def _clean_summary(text: str) -> str:
     text = _TAG_NOISE_START_RE.sub("", text).strip()
     # Strip "Sources: ..." trailing attribution blocks
     text = re.sub(r"\s*Sources?:\s+[A-Z][\w\s,/&·\-]*$", "", text).strip()
+    # Strip editorial/attribution boilerplate that leaks in from digest footers
+    # (e.g. "URL not verified (MSN redirect ...).", "Compiled ... PDT.",
+    # "Items verified against original sources ...", "N items across M themes").
+    for pat in _EDITORIAL_BOILERPLATE_RES:
+        text = pat.sub(" ", text)
+    text = text.strip()
     # Drop a leading list bullet and collapse whitespace.
     text = re.sub(r"^[\-\*\u2022]\s+", "", text).strip()
     return re.sub(r"\s{2,}", " ", text).strip()
@@ -752,14 +787,46 @@ def _is_curated_analysis_file(filename: str) -> bool:
         and bool(re.match(r"^\d{4}-\d{2}-\d{2}_", filename))
 
 
+def _is_publication_sources_file(filename: str) -> bool:
+    """`*_Publication-Sources.md` digests only list newsletter email subject
+    lines and "no emails found" placeholders. They carry no substantive article
+    content, so they must never be parsed into articles."""
+    return filename.endswith("_Publication-Sources.md") or "Publication-Sources" in filename
+
+
+# Every published article must carry real information. Digest entries that yield
+# only a headline (empty or near-empty body) are dropped rather than written as
+# contentless stubs. ~30 words ≈ 4-5 rendered lines of prose.
+_MIN_BODY_WORDS = 30
+
+
+def _has_min_content(article: Article) -> bool:
+    return len((article.summary or "").split()) >= _MIN_BODY_WORDS
+
+
+def _is_masthead_article(article: Article) -> bool:
+    """Digest mastheads/overview headers (recipient line, "Corp Dev · Tech
+    Assessment", "Compiled 7:00 AM PDT" source) sometimes get mis-parsed into an
+    article whose body is the whole-digest overview rather than a single story.
+    Their tell is a `source` that begins with "Compiled" or "Prepared for"
+    instead of a real publication name. These are dropped."""
+    src = (article.source or "").strip().lower()
+    return src.startswith("compiled") or src.startswith("prepared for")
+
+
 def run_split(cfg: Config) -> dict:
     """Parse every archived raw digest into article-atomic markdown notes."""
     cfg.ensure_dirs()
     digests = sorted(cfg.raw_digest_archive_dir.glob("*.md"))
     written = 0
     events_written = 0
+    skipped_publication = 0
+    skipped_thin = 0
     for path in digests:
         if _is_curated_analysis_file(path.name):
+            continue
+        if _is_publication_sources_file(path.name):
+            skipped_publication += 1
             continue
         text = path.read_text(encoding="utf-8", errors="replace")
         digest_source = str((cfg.raw_digest_archive_dir / path.name).relative_to(cfg.root))
@@ -774,8 +841,16 @@ def run_split(cfg: Config) -> dict:
             if not articles:
                 articles = parse_narrative_digest(cfg, text, issue_date, digest_source)
             for article in articles:
+                if _is_masthead_article(article):
+                    skipped_thin += 1
+                    continue
+                if not _has_min_content(article):
+                    skipped_thin += 1
+                    continue
                 write_article(cfg, article)
                 written += 1
     return {"digests_parsed": len(digests), "articles_written": written,
             "events_parsed": sum(1 for d in digests if _is_event_file(d.name)),
-            "event_articles_written": events_written}
+            "event_articles_written": events_written,
+            "skipped_publication_sources": skipped_publication,
+            "skipped_thin_articles": skipped_thin}

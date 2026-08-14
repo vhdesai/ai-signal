@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-04-openai-s-brockman-sketches-an-almost-no-interface-future-bui
-- 2026-07-04-openai-s-greg-brockman-argues-for-an-almost-no-interface-age
-- 2026-05-17-openai-reorg-greg-brockman-takes-full-control-of-product-str
 - 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
 - 2026-04-02-hot-openai-s-greg-brockman-hints-at-agi-spud-model-apr-1-2-c
+- 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
+- 2026-05-17-openai-announced-another-internal-reorganization-in-a-memo-v
 embedding_id: 2026-07-04-openai-president-greg-brockman-made-the-case-for-a-future-wi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI President Greg Brockman made the case for a future with "almost no interf
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-04-openai-s-brockman-sketches-an-almost-no-interface-future-bui]] · [[2026-07-04-openai-s-greg-brockman-argues-for-an-almost-no-interface-age]] · [[2026-05-17-openai-reorg-greg-brockman-takes-full-control-of-product-str]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-04-02-hot-openai-s-greg-brockman-hints-at-agi-spud-model-apr-1-2-c]]
+**Related:** [[2026-07-04-openai-s-brockman-sketches-an-almost-no-interface-future-bui]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-04-02-hot-openai-s-greg-brockman-hints-at-agi-spud-model-apr-1-2-c]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]] · [[2026-05-17-openai-announced-another-internal-reorganization-in-a-memo-v]]
 <!-- graph:end -->

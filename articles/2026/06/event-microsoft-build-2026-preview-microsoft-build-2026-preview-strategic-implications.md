@@ -19,12 +19,12 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: event-microsoft-build-2026-microsoft-build-2026-strategic-implications
+dedupe_status: canonical
+canonical_article_id: null
 related_article_ids:
-- event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
-- event-microsoft-build-2026-microsoft-build-2026-overview
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
+- event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models
 embedding_id: event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications
 event_name: Microsoft Build 2026 Preview
 ---
@@ -38,6 +38,5 @@ Windows as an agent surface: Build may define how deeply Microsoft embeds AI int
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]]
-**Related:** [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-microsoft-build-2026-overview]]
+**Related:** [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models]]
 <!-- graph:end -->

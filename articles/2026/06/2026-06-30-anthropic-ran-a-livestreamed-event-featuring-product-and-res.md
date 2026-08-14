@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res
 - 2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on
-- 2026-08-05-anthropic-confirms-in-house-custom-chip-design-team-for-clau
+- 2026-07-04-anthropic-said-it-will-use-its-new-claude-science-workbench
 embedding_id: 2026-06-30-anthropic-ran-a-livestreamed-event-featuring-product-and-res
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Anthropic ran a livestreamed event featuring product and research demonstrations
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]] · [[2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on]] · [[2026-08-05-anthropic-confirms-in-house-custom-chip-design-team-for-clau]]
+**Related:** [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]] · [[2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on]] · [[2026-07-04-anthropic-said-it-will-use-its-new-claude-science-workbench]]
 <!-- graph:end -->

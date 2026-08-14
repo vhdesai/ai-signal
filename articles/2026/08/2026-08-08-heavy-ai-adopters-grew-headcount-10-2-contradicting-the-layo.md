@@ -20,7 +20,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s
-- 2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-layoff-n
 - 2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma
 - 2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption
 - 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
@@ -36,5 +35,5 @@ Fortune surveyed contradictory AI employment data, centered on a Ramp/Revelio La
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s]] · [[2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-layoff-n]] · [[2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma]] · [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]]
+**Related:** [[2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s]] · [[2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma]] · [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]]
 <!-- graph:end -->

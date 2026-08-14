@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-04-anthropic-appoints-tino-cuellar-as-first-chief-global-affair
-- 2026-04-07-u-s-treasury-secretary-scott-bessent-and-federal-reserve-cha
 - 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
 - 2026-08-04-anthropic-names-tino-cu-llar-chief-global-affairs-officer
 - 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
+- 2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after
 embedding_id: 2026-07-09-anthropic-appoints-former-fed-chair-ben-bernanke-to-its-long
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic named Nobel laureate and former Federal Reserve Chair Ben Bernanke to 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-04-anthropic-appoints-tino-cuellar-as-first-chief-global-affair]] · [[2026-04-07-u-s-treasury-secretary-scott-bessent-and-federal-reserve-cha]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]] · [[2026-08-04-anthropic-names-tino-cu-llar-chief-global-affairs-officer]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]]
+**Related:** [[2026-08-04-anthropic-appoints-tino-cuellar-as-first-chief-global-affair]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]] · [[2026-08-04-anthropic-names-tino-cu-llar-chief-global-affairs-officer]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after]]
 <!-- graph:end -->

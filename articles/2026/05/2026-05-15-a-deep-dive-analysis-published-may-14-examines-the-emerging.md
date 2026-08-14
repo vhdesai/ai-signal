@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina
-- 2026-05-15-what-happens-when-ai-starts-building-itself
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
-- 2026-05-13-autoscientist-new-ai-system-that-trains-models-to-improve-th
 - 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
+- 2026-05-14-adaption-unveils-autoscientist-for-automated-model-training
+- 2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate
 embedding_id: 2026-05-15-a-deep-dive-analysis-published-may-14-examines-the-emerging
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A deep-dive analysis published May 14 examines the emerging reality of AI system
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina]] · [[2026-05-15-what-happens-when-ai-starts-building-itself]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-13-autoscientist-new-ai-system-that-trains-models-to-improve-th]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]]
+**Related:** [[2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]] · [[2026-05-14-adaption-unveils-autoscientist-for-automated-model-training]] · [[2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate]]
 <!-- graph:end -->

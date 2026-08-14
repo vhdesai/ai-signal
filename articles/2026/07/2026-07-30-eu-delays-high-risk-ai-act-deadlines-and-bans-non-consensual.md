@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica
-- 2026-05-18-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai
 - 2026-04-21-eu-ai-act-trilogue-weighs-pushing-high-risk-deadline-to-dece
 - 2026-03-28-the-european-parliament-passed-a-resolution-banning-ai-appli
+- 2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m
 embedding_id: 2026-07-30-eu-delays-high-risk-ai-act-deadlines-and-bans-non-consensual
 event_name: ''
 ---
@@ -35,5 +35,5 @@ A newly analyzed amendment to the EU AI Act pushes back high-risk system obligat
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica]] · [[2026-05-18-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai]] · [[2026-04-21-eu-ai-act-trilogue-weighs-pushing-high-risk-deadline-to-dece]] · [[2026-03-28-the-european-parliament-passed-a-resolution-banning-ai-appli]]
+**Related:** [[2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica]] · [[2026-04-21-eu-ai-act-trilogue-weighs-pushing-high-risk-deadline-to-dece]] · [[2026-03-28-the-european-parliament-passed-a-resolution-banning-ai-appli]] · [[2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m]]
 <!-- graph:end -->

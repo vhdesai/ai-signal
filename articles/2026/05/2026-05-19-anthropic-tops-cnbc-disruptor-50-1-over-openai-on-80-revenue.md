@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-05-19-anthropic-tops-cnbc-disruptor-50-with-80-yoy-revenue-growth
 - 2026-05-18-trending-anthropic-tops-cnbc-disruptor-50-for-2026
 - 2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s
+- 2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s
 embedding_id: 2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Anthropic leapfrogged OpenAI to claim the #1 spot on the 2026 CNBC Disruptor 50 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-anthropic-tops-cnbc-disruptor-50-with-80-yoy-revenue-growth]] · [[2026-05-18-trending-anthropic-tops-cnbc-disruptor-50-for-2026]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]]
+**Related:** [[2026-05-19-anthropic-tops-cnbc-disruptor-50-with-80-yoy-revenue-growth]] · [[2026-05-18-trending-anthropic-tops-cnbc-disruptor-50-for-2026]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]] · [[2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s]]
 <!-- graph:end -->

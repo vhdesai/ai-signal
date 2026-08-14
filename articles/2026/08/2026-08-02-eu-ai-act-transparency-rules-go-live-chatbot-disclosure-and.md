@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-02-eu-transparency-rules-for-ai-generated-content-take-effect
 - 2026-08-03-23-eu-ai-act-article-50-transparency-rules-take-effect
 - 2026-08-04-eu-ai-act-article-50-transparency-obligations-now-enforceabl
-- 2026-08-02-eu-ai-act-enforcement-powers-and-content-transparency-rules
+- 2026-05-26-regulatory-tracking-confirms-that-eu-commission-enforcement
 embedding_id: 2026-08-02-eu-ai-act-transparency-rules-go-live-chatbot-disclosure-and
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A new tranche of the EU AI Act took effect, activating transparency obligations 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe]] · [[2026-08-02-eu-transparency-rules-for-ai-generated-content-take-effect]] · [[2026-08-03-23-eu-ai-act-article-50-transparency-rules-take-effect]] · [[2026-08-04-eu-ai-act-article-50-transparency-obligations-now-enforceabl]] · [[2026-08-02-eu-ai-act-enforcement-powers-and-content-transparency-rules]]
+**Related:** [[2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe]] · [[2026-08-02-eu-transparency-rules-for-ai-generated-content-take-effect]] · [[2026-08-03-23-eu-ai-act-article-50-transparency-rules-take-effect]] · [[2026-08-04-eu-ai-act-article-50-transparency-obligations-now-enforceabl]] · [[2026-05-26-regulatory-tracking-confirms-that-eu-commission-enforcement]]
 <!-- graph:end -->

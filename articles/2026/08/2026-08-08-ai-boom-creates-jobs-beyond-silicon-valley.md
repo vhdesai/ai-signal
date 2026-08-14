@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-04-the-ai-boom-is-transforming-the-american-economy
 - 2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
 - 2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
+- 2026-05-22-the-stanford-university-2026-ai-index-report-documents-a-fie
 embedding_id: 2026-08-08-ai-boom-creates-jobs-beyond-silicon-valley
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Yahoo Finance reported that AI-driven investment is creating jobs far from Silic
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-04-the-ai-boom-is-transforming-the-american-economy]] · [[2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]]
+**Related:** [[2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-05-22-the-stanford-university-2026-ai-index-report-documents-a-fie]]
 <!-- graph:end -->

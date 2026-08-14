@@ -18,8 +18,9 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc
+canonical_article_id: 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
 related_article_ids:
+- 2026-07-08-sambanova-raises-1b-at-an-11b-valuation
 - 2026-07-07-sambanova-raises-1b-for-inference-silicon
 embedding_id: 2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips
 event_name: ''
@@ -34,6 +35,6 @@ SambaNova raised $1 billion in a Series F led by General Atlantic at an $11 bill
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc]]
-**Related:** [[2026-07-07-sambanova-raises-1b-for-inference-silicon]]
+**Canonical:** [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]]
+**Related:** [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation]] · [[2026-07-07-sambanova-raises-1b-for-inference-silicon]]
 <!-- graph:end -->

@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-01-anthropic-s-claude-code-suffers-major-source-code-leak-512-0
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
 - 2026-04-02-anthropic-s-claude-code-source-code-was-leaked-prompting-the
 - 2026-04-04-an-npm-packaging-error-exposed-512-000-lines-of-claude-code
 - 2026-03-31-anthropic-claude-code-source-leaked-again-exposes-capybara-m
+- 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
 embedding_id: 2026-04-01-anthropic-s-claude-code-platform-experienced-a-significant-s
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic's Claude Code platform experienced a significant security incident whe
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-01-anthropic-s-claude-code-suffers-major-source-code-leak-512-0]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-04-02-anthropic-s-claude-code-source-code-was-leaked-prompting-the]] · [[2026-04-04-an-npm-packaging-error-exposed-512-000-lines-of-claude-code]] · [[2026-03-31-anthropic-claude-code-source-leaked-again-exposes-capybara-m]]
+**Related:** [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-04-02-anthropic-s-claude-code-source-code-was-leaked-prompting-the]] · [[2026-04-04-an-npm-packaging-error-exposed-512-000-lines-of-claude-code]] · [[2026-03-31-anthropic-claude-code-source-leaked-again-exposes-capybara-m]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]]
 <!-- graph:end -->

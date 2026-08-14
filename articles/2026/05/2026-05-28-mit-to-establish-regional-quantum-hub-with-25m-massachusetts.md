@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi
 - 2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv
 - 2026-05-21-u-s-to-invest-2-billion-in-ibm-other-quantum-computing-firms
-- 2026-07-27-nvidia-in-talks-to-help-fund-a-500b-10-gigawatt-openai-data
+- event-microsoft-build-2026-microsoft-build-2026-science-and-quantum
 embedding_id: 2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts
 event_name: ''
 ---
@@ -40,5 +40,5 @@ MIT announced on May 28 that it will establish a regional quantum hub backed by 
 
 **Entities:** [[IBM]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr]] · [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi]] · [[2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv]] · [[2026-05-21-u-s-to-invest-2-billion-in-ibm-other-quantum-computing-firms]] · [[2026-07-27-nvidia-in-talks-to-help-fund-a-500b-10-gigawatt-openai-data]]
+**Related:** [[2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr]] · [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi]] · [[2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv]] · [[2026-05-21-u-s-to-invest-2-billion-in-ibm-other-quantum-computing-firms]] · [[event-microsoft-build-2026-microsoft-build-2026-science-and-quantum]]
 <!-- graph:end -->

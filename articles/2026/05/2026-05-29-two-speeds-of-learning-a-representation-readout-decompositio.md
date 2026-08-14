@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-29-two-speeds-of-learning-a-unified-lens-on-grokking-and-double
-- 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
 - 2026-07-26-abbel-belief-state-memory-for-llm-agents
+- 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
 - 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
 embedding_id: 2026-05-29-two-speeds-of-learning-a-representation-readout-decompositio
 event_name: ''
@@ -37,5 +37,5 @@ Researchers propose a new theoretical decomposition that separates representatio
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-29-two-speeds-of-learning-a-unified-lens-on-grokking-and-double]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-07-26-abbel-belief-state-memory-for-llm-agents]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]]
+**Related:** [[2026-05-29-two-speeds-of-learning-a-unified-lens-on-grokking-and-double]] · [[2026-07-26-abbel-belief-state-memory-for-llm-agents]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]]
 <!-- graph:end -->

@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-08-mistral-releases-shieldstral-1-0-3b-safety-classifier
+- 2026-08-07-mistral-ai-releases-shieldstral-1-0-an-open-weights-3b-multi
 - 2026-08-04-mistral-releases-shieldstral-a-3b-open-weights-policy-adapti
 - 2026-08-05-mistral-releases-shieldstral-a-3b-on-device-ai-safety-model
 embedding_id: 2026-08-08-mistral-releases-shieldstral-1-0-3b-policy-adaptive-safety-c
@@ -38,5 +39,5 @@ Mistral released Shieldstral 1.0 3B, an open-weights multimodal safety classifie
 
 **Entities:** [[Mistral]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-08-mistral-releases-shieldstral-1-0-3b-safety-classifier]] · [[2026-08-04-mistral-releases-shieldstral-a-3b-open-weights-policy-adapti]] · [[2026-08-05-mistral-releases-shieldstral-a-3b-on-device-ai-safety-model]]
+**Related:** [[2026-08-08-mistral-releases-shieldstral-1-0-3b-safety-classifier]] · [[2026-08-07-mistral-ai-releases-shieldstral-1-0-an-open-weights-3b-multi]] · [[2026-08-04-mistral-releases-shieldstral-a-3b-open-weights-policy-adapti]] · [[2026-08-05-mistral-releases-shieldstral-a-3b-on-device-ai-safety-model]]
 <!-- graph:end -->

@@ -24,7 +24,8 @@ related_article_ids:
 - 2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea
 - 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 - 2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva
-- 2026-05-16-trending-agents-of-chaos-mit-stanford-cmu-harvard-document-a
+- 2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age
+- 2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca
 embedding_id: 2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu
 event_name: ''
 ---
@@ -37,5 +38,5 @@ A multi-institution paper from Harvard, MIT, Stanford, Carnegie Mellon, and Nort
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva]] · [[2026-05-16-trending-agents-of-chaos-mit-stanford-cmu-harvard-document-a]]
+**Related:** [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva]] · [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age]] · [[2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca]]
 <!-- graph:end -->

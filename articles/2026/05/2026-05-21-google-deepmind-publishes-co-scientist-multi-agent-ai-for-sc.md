@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent
 - 2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and
 - 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
+- 2026-05-09-google-deepmind-published-detailed-results-for-alphaevolve-a
 embedding_id: 2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Google DeepMind published details on Co-Scientist, a multi-agent system designed
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-20-google-deepmind-publishes-co-scientist-in-nature]] · [[2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent]] · [[2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]]
+**Related:** [[2026-05-20-google-deepmind-publishes-co-scientist-in-nature]] · [[2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent]] · [[2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-09-google-deepmind-published-detailed-results-for-alphaevolve-a]]
 <!-- graph:end -->

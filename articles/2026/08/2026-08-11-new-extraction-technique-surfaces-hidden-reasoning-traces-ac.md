@@ -9,7 +9,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-08-11_061404_Inbox_Daily AI News Digest - August 11,
   2026.md
-content_hash: 69183aa30cd41b25ea24187d87bb3ffb276949da90d016fae6d82289a7b941dc
+content_hash: a4e6e93f1e67cb8a4b1143da7767b89d20c870411f3a05f4821565aa84c11a9f
 normalized_title_hash: 0d3a0783cbeca37e
 canonical_url_hash: ''
 tags: []
@@ -32,7 +32,7 @@ event_name: ''
 
 # New extraction technique surfaces hidden reasoning traces across Claude, GPT and Gemini
 
-Researchers described a method for extracting internal "reasoning traces" from leading closed models, and report that the resulting fingerprints suggest some Chinese models were trained on outputs from leading US systems. Beyond the distillation question, the technique is a practical interpretability tool: it gives external parties a way to probe model internals without provider cooperation. If it generalizes, it has implications for IP enforcement, model provenance auditing and vendor due diligence. URL not verified. ________________________________ RESEARCH
+Researchers described a method for extracting internal "reasoning traces" from leading closed models, and report that the resulting fingerprints suggest some Chinese models were trained on outputs from leading US systems. Beyond the distillation question, the technique is a practical interpretability tool: it gives external parties a way to probe model internals without provider cooperation. If it generalizes, it has implications for IP enforcement, model provenance auditing and vendor due diligence.
 
 <!-- graph:start -->
 ## Connections

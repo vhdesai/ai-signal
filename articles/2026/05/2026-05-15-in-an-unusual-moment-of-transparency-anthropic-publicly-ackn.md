@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 - 2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s
+- 2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s
 embedding_id: 2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn
 event_name: ''
 ---
@@ -37,5 +38,5 @@ In an unusual moment of transparency, Anthropic publicly acknowledged a self-inf
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]]
+**Related:** [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]] · [[2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s]]
 <!-- graph:end -->

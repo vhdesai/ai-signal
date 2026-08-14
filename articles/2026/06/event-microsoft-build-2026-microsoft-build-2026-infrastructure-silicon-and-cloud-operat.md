@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-microsoft-moves-to-order-300-000-maia-300-accelerators-from
 - 2026-08-10-microsoft-reportedly-orders-300-000-maia-300-accelerators-fr
-- event-microsoft-build-2026-microsoft-build-2026-strategic-implications
 - event-microsoft-build-2026-microsoft-build-2026-overview
-- 2026-08-10-microsoft-plans-10-production-ramp-of-next-gen-maia-ai-chip
+- event-microsoft-build-2026-microsoft-build-2026-azure-fabric-data-and-app-platform
+- event-microsoft-build-2026-microsoft-build-2026-strategic-implications
 embedding_id: event-microsoft-build-2026-microsoft-build-2026-infrastructure-silicon-and-cloud-operat
 event_name: Microsoft Build 2026
 ---
@@ -42,5 +42,5 @@ Maia 200: Microsoft's second-generation AI accelerator is running in production 
 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-10-microsoft-moves-to-order-300-000-maia-300-accelerators-from]] · [[2026-08-10-microsoft-reportedly-orders-300-000-maia-300-accelerators-fr]] · [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]] · [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[2026-08-10-microsoft-plans-10-production-ramp-of-next-gen-maia-ai-chip]]
+**Related:** [[2026-08-10-microsoft-moves-to-order-300-000-maia-300-accelerators-from]] · [[2026-08-10-microsoft-reportedly-orders-300-000-maia-300-accelerators-fr]] · [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[event-microsoft-build-2026-microsoft-build-2026-azure-fabric-data-and-app-platform]] · [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]]
 <!-- graph:end -->

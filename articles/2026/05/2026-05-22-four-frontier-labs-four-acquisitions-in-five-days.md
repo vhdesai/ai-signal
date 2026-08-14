@@ -24,10 +24,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult
 - 2026-05-22-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-e
-- 2026-05-04-1-model-releases-frontier-research
+- 2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult
 - 2026-08-13-daily-ai-news-digest-august-14-2026
+- 2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed
 embedding_id: 2026-05-22-four-frontier-labs-four-acquisitions-in-five-days
 event_name: ''
 ---
@@ -41,5 +41,5 @@ In a single week, Anthropic acquired API tooling vendor Stainless for $300M+, Mi
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[Mistral]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult]] · [[2026-05-22-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-e]] · [[2026-05-04-1-model-releases-frontier-research]] · [[2026-08-13-daily-ai-news-digest-august-14-2026]]
+**Related:** [[2026-05-22-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-e]] · [[2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult]] · [[2026-08-13-daily-ai-news-digest-august-14-2026]] · [[2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed]]
 <!-- graph:end -->

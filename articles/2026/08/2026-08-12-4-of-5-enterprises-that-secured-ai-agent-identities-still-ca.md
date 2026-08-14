@@ -26,7 +26,8 @@ related_article_ids:
 - 2026-08-12-enterprises-secure-ai-agent-identities-but-cannot-contain-a
 - 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
 - 2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4
-- 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
+- 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
+- 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
 embedding_id: 2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca
 event_name: ''
 ---
@@ -39,5 +40,5 @@ A July Pulse survey found that 80% of organizations that have implemented AI-age
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-12-enterprises-secure-ai-agent-identities-but-cannot-contain-a]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]]
+**Related:** [[2026-08-12-enterprises-secure-ai-agent-identities-but-cannot-contain-a]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]]
 <!-- graph:end -->

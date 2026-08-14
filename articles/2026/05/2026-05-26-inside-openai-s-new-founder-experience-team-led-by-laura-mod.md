@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-30-the-information-logo-openai-s-revenue-chief-barnstorms-for-b
 - 2026-03-24-meta-has-hired-the-entire-founding-team-of-dreamer-an-agenti
 - 2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru
-- 2026-07-22-openai-unveils-presence-an-enterprise-platform-for-realtime
 - 2026-06-18-openai-hires-senior-public-company-operators-ahead-of-expect
+- 2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d
+- 2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o
 embedding_id: 2026-05-26-inside-openai-s-new-founder-experience-team-led-by-laura-mod
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI formalized a dedicated Founder Experience team under Laura Modiano (ex-Se
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-30-the-information-logo-openai-s-revenue-chief-barnstorms-for-b]] · [[2026-03-24-meta-has-hired-the-entire-founding-team-of-dreamer-an-agenti]] · [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]] · [[2026-07-22-openai-unveils-presence-an-enterprise-platform-for-realtime]] · [[2026-06-18-openai-hires-senior-public-company-operators-ahead-of-expect]]
+**Related:** [[2026-03-24-meta-has-hired-the-entire-founding-team-of-dreamer-an-agenti]] · [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]] · [[2026-06-18-openai-hires-senior-public-company-operators-ahead-of-expect]] · [[2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d]] · [[2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o]]
 <!-- graph:end -->

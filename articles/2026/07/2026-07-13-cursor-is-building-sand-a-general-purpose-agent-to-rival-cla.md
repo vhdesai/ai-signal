@@ -19,9 +19,13 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-07-13-cursor-builds-ai-agent-sand-to-rival-claude-cowork-and-chatg
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-07-13-cursor-builds-ai-agent-sand-to-rival-claude-cowork-and-chatg
+- 2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app
+- 2026-05-15-cursor-launches-hiring-spree-after-spacex-deal
+- 2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag
 embedding_id: 2026-07-13-cursor-is-building-sand-a-general-purpose-agent-to-rival-cla
 event_name: ''
 ---
@@ -35,5 +39,5 @@ Cursor — the coding tool used across two-thirds of the Fortune 500 — is quie
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-07-13-cursor-builds-ai-agent-sand-to-rival-claude-cowork-and-chatg]]
+**Related:** [[2026-07-13-cursor-builds-ai-agent-sand-to-rival-claude-cowork-and-chatg]] · [[2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app]] · [[2026-05-15-cursor-launches-hiring-spree-after-spacex-deal]] · [[2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag]]
 <!-- graph:end -->

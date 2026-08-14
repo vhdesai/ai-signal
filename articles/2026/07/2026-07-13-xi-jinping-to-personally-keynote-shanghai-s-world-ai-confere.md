@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-13-read-at-reuters-via-u-s-news
-- 2026-07-17-xi-jinping-keynotes-waic-2026-promotes-open-source-ai-and-la
-- 2026-07-18-xi-jinping-keynotes-waic-2026-promotes-open-source-ai-and-la
+- 2026-07-12-july-13-2026
+- 2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater
 embedding_id: 2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Beijing confirmed Xi will open WAIC (July 17–20) and deliver a keynote — his
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-13-read-at-reuters-via-u-s-news]] · [[2026-07-17-xi-jinping-keynotes-waic-2026-promotes-open-source-ai-and-la]] · [[2026-07-18-xi-jinping-keynotes-waic-2026-promotes-open-source-ai-and-la]]
+**Related:** [[2026-07-13-read-at-reuters-via-u-s-news]] · [[2026-07-12-july-13-2026]] · [[2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater]]
 <!-- graph:end -->

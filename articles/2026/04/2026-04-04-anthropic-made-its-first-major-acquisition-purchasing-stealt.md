@@ -18,9 +18,14 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-04-04-anthropic-acquires-biotech-startup-coefficient-bio-for-400m
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-05-18-anthropic-acquires-dev-tools-startup-used-by-openai-google-a
+- 2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q
+- 2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced
+- 2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol
+- 2026-05-23-anthropic-s-biggest-ever-week-included-six-major-announcemen
 embedding_id: 2026-04-04-anthropic-made-its-first-major-acquisition-purchasing-stealt
 event_name: ''
 ---
@@ -34,5 +39,5 @@ Anthropic made its first major acquisition, purchasing stealth biotech AI startu
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-04-04-anthropic-acquires-biotech-startup-coefficient-bio-for-400m]]
+**Related:** [[2026-05-18-anthropic-acquires-dev-tools-startup-used-by-openai-google-a]] · [[2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q]] · [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]] · [[2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol]] · [[2026-05-23-anthropic-s-biggest-ever-week-included-six-major-announcemen]]
 <!-- graph:end -->

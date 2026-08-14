@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview
 - 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
-- 2026-03-24-apple-confirmed-wwdc-2026-will-run-june-8-12-and-its-announc
+- 2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope
 embedding_id: event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing
 event_name: Apple WWDC 2026 Preview
 ---
@@ -40,5 +40,5 @@ The corpus describes a redesigned iOS 27 Siri with deeper on-device LLM groundin
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[2026-03-24-apple-confirmed-wwdc-2026-will-run-june-8-12-and-its-announc]]
+**Related:** [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope]]
 <!-- graph:end -->

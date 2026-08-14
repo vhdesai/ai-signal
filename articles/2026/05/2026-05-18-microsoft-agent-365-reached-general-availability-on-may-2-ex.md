@@ -19,9 +19,13 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-05-18-microsoft-agent-365-generally-available-anthropic-claude-age
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-05-02-microsoft-agent-365-generally-available
+- 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
+- 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
+- 2026-05-14-microsoft-agent-365-became-generally-available-on-may-2-exte
 embedding_id: 2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex
 event_name: ''
 ---
@@ -35,5 +39,5 @@ Microsoft Agent 365 reached general availability on May 2, extending enterprise-
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-05-18-microsoft-agent-365-generally-available-anthropic-claude-age]]
+**Related:** [[2026-05-02-microsoft-agent-365-generally-available]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]] · [[2026-05-14-microsoft-agent-365-became-generally-available-on-may-2-exte]]
 <!-- graph:end -->

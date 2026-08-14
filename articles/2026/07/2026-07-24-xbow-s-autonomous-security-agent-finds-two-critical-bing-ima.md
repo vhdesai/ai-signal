@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu
 - 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
-- 2026-05-08-claude-security-launches-autonomous-codebase-vulnerability-s
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 - 2026-05-27-cve-2026-48710-badhost-critical-starlette-auth-bypass-hits-a
+- 2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s
 embedding_id: 2026-07-24-xbow-s-autonomous-security-agent-finds-two-critical-bing-ima
 event_name: ''
 ---
@@ -39,5 +39,5 @@ XBOW’s autonomous offensive-security agent uncovered two critical remote-code-
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-05-08-claude-security-launches-autonomous-codebase-vulnerability-s]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-27-cve-2026-48710-badhost-critical-starlette-auth-bypass-hits-a]]
+**Related:** [[2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-27-cve-2026-48710-badhost-critical-starlette-auth-bypass-hits-a]] · [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]]
 <!-- graph:end -->

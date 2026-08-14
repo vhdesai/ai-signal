@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-30_060904_Inbox_Daily AI News Digest - July 30,
   2026.md
-content_hash: 44c2a5ef0a72494d1c1e3aa68ef3bbb63e848d8a755bc7d196065db60dc071da
+content_hash: 538cbf6ec005565db013ac70c649513fb3e27166cef1877c16e209605c495b69
 normalized_title_hash: 53ca98d5625369f4
 canonical_url_hash: ''
 tags: []
@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-17-general-compute-and-fireworks-ai-reinforce-the-shift-from-tr
+- 2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f
 - 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
 - 2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to
 - 2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode
@@ -29,11 +29,11 @@ event_name: ''
 
 # Fireworks AI releases Nexus for routing coding work to open-weight models
 
-MarkTechPost reports that Fireworks AI released Fireworks Nexus, a drop-in routing and cost-control layer that moves routine coding work to open-weight models. The release reflects the broader enterprise trend toward model routing: reserve frontier models for high-value tasks and route simpler work to cheaper specialized or open models. This architecture directly supports the cost and control concerns raised by enterprise leaders about relying on a single AI provider. URL not verified.
+MarkTechPost reports that Fireworks AI released Fireworks Nexus, a drop-in routing and cost-control layer that moves routine coding work to open-weight models. The release reflects the broader enterprise trend toward model routing: reserve frontier models for high-value tasks and route simpler work to cheaper specialized or open models. This architecture directly supports the cost and control concerns raised by enterprise leaders about relying on a single AI provider.
 
 <!-- graph:start -->
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-17-general-compute-and-fireworks-ai-reinforce-the-shift-from-tr]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]] · [[2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]]
+**Related:** [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]] · [[2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]]
 <!-- graph:end -->

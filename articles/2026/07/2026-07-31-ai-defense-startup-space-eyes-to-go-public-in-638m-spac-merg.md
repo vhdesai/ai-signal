@@ -19,6 +19,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq
 - 2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l
 - 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
 - 2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio
@@ -35,5 +36,5 @@ Space-Eyes agreed to merge with McKinley Acquisition Corp. at roughly a $638M va
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio]] · [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]]
+**Related:** [[2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq]] · [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio]] · [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]]
 <!-- graph:end -->

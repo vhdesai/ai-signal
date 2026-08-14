@@ -30,8 +30,7 @@ related_article_ids:
 - 2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs
 - 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
 - 2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua
-- 2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu
-- 2026-04-06-deepseek-v4-targets-huawei-ascend-chips-first-frontier-model
+- 2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand
 embedding_id: 2026-04-06-deepseek-s-forthcoming-v4-model-reportedly-carrying-1-trilli
 event_name: ''
 ---
@@ -45,5 +44,5 @@ DeepSeek's forthcoming V4 model — reportedly carrying 1 trillion parameters �
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap]] · [[2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs]] · [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]] · [[2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua]] · [[2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu]] · [[2026-04-06-deepseek-v4-targets-huawei-ascend-chips-first-frontier-model]]
+**Related:** [[2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap]] · [[2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs]] · [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]] · [[2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua]] · [[2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand]]
 <!-- graph:end -->

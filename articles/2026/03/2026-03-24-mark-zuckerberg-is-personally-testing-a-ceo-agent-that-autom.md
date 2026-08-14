@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-03-24-zuckerberg-is-building-an-ai-agent-to-help-run-meta
 - 2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey
 - 2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag
 - 2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi
 - 2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision
+- 2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast
 embedding_id: 2026-03-24-mark-zuckerberg-is-personally-testing-a-ceo-agent-that-autom
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Mark Zuckerberg is personally testing a "CEO agent" that automates executive inf
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-03-24-zuckerberg-is-building-an-ai-agent-to-help-run-meta]] · [[2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey]] · [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag]] · [[2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi]] · [[2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision]]
+**Related:** [[2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey]] · [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag]] · [[2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi]] · [[2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision]] · [[2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast]]
 <!-- graph:end -->

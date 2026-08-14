@@ -24,9 +24,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-02-xai-launches-no-code-grok-voice-agent-builder
 - 2026-07-02-xai-launches-grok-voice-ai-agent-builder
 - 2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively
+- 2026-07-02-xai-launches-no-code-grok-voice-agent-builder
 - 2026-05-02-trendinggrok-4-3-adds-sub-2-minute-voice-cloning
 embedding_id: 2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api
 event_name: ''
@@ -41,5 +41,5 @@ xAI released Grok Voice Think Fast 1.0, a full-duplex voice agent purpose-built 
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]] · [[2026-07-02-xai-launches-grok-voice-ai-agent-builder]] · [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-05-02-trendinggrok-4-3-adds-sub-2-minute-voice-cloning]]
+**Related:** [[2026-07-02-xai-launches-grok-voice-ai-agent-builder]] · [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]] · [[2026-05-02-trendinggrok-4-3-adds-sub-2-minute-voice-cloning]]
 <!-- graph:end -->

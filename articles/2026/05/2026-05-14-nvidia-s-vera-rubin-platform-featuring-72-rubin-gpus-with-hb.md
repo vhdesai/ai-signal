@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
 - 2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm
-- 2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform
+- 2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu
 embedding_id: 2026-05-14-nvidia-s-vera-rubin-platform-featuring-72-rubin-gpus-with-hb
 event_name: ''
 ---
@@ -40,5 +40,5 @@ NVIDIA's Vera Rubin platform — featuring 72 Rubin GPUs with HBM4 at 22 TB/s ba
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm]] · [[2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform]]
+**Related:** [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform]] · [[2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu]]
 <!-- graph:end -->

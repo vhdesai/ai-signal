@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
 - 2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex
+- 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
 embedding_id: 2026-08-06-aws-integrates-openai-codex-and-anthropic-claude-code-with-t
 event_name: ''
 ---
@@ -40,5 +41,5 @@ AWS is integrating the Continuum code-vulnerability security platform with OpenA
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex]]
+**Related:** [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]]
 <!-- graph:end -->

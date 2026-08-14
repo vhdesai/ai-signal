@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
 - 2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a
-- 2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat
+- 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
+- 2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro
 - 2026-07-09-can-ai-answer-the-3-trillion-question
-- 2026-07-31-wsj-argues-ai-job-loss-policy-should-tax-capital-not-labor
+- 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
 embedding_id: 2026-07-02-brookings-fed-working-paper-ai-s-projected-2-2t-deficit-redu
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A new working paper from economists at Brookings and the Federal Reserve finds A
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a]] · [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]] · [[2026-07-31-wsj-argues-ai-job-loss-policy-should-tax-capital-not-labor]]
+**Related:** [[2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]] · [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]]
 <!-- graph:end -->

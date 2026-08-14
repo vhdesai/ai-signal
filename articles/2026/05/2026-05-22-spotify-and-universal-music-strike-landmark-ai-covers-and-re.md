@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-27-umg-and-tiktok-renew-global-licensing-with-ai-governance-at
 - 2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and
 - 2026-08-04-spotify-adds-merlin-to-its-ai-remix-and-covers-effort-follow
-- 2026-06-11-deezer-launches-free-ai-music-detector-across-platforms
+- 2026-08-11-spotify-will-label-ai-persona-profiles-and-exclude-them-from
 embedding_id: 2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Spotify and Universal Music Group have signed a first-of-its-kind agreement allo
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal]] · [[2026-05-27-umg-and-tiktok-renew-global-licensing-with-ai-governance-at]] · [[2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and]] · [[2026-08-04-spotify-adds-merlin-to-its-ai-remix-and-covers-effort-follow]] · [[2026-06-11-deezer-launches-free-ai-music-detector-across-platforms]]
+**Related:** [[2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal]] · [[2026-05-27-umg-and-tiktok-renew-global-licensing-with-ai-governance-at]] · [[2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and]] · [[2026-08-04-spotify-adds-merlin-to-its-ai-remix-and-covers-effort-follow]] · [[2026-08-11-spotify-will-label-ai-persona-profiles-and-exclude-them-from]]
 <!-- graph:end -->

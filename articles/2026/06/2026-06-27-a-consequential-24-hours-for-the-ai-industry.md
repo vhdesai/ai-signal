@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-27-daily-ai-news-digest-june-27-2026
-- 2026-08-01-daily-ai-news-digest-august-1-2026
 - 2026-08-11-daily-ai-news-digest-august-11-2026
 - 2026-06-29-daily-ai-news-digest-june-29-2026
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
+- 2026-08-04-wednesday-august-5-2026-prepared-for-senior-technology-leade
 embedding_id: 2026-06-27-a-consequential-24-hours-for-the-ai-industry
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A consequential 24 hours for the AI industry. OpenAI previewed its GPT‑5.6 "So
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-08-01-daily-ai-news-digest-august-1-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]]
+**Related:** [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-08-04-wednesday-august-5-2026-prepared-for-senior-technology-leade]]
 <!-- graph:end -->

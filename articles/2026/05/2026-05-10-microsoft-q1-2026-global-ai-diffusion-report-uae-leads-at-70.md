@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop
-- 2026-05-18-microsoft-global-ai-diffusion-report-17-8-of-world-s-working
 - 2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop
 - 2026-05-18-microsoft-s-2026-global-ai-diffusion-report-documented-that
+- 2026-04-03-microsoft-announced-a-10b-investment-in-japan-2026-2029-to-e
 embedding_id: 2026-05-10-microsoft-q1-2026-global-ai-diffusion-report-uae-leads-at-70
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft's Q1 2026 Global AI Diffusion Report — covered by five separate outl
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop]] · [[2026-05-18-microsoft-global-ai-diffusion-report-17-8-of-world-s-working]] · [[2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop]] · [[2026-05-18-microsoft-s-2026-global-ai-diffusion-report-documented-that]]
+**Related:** [[2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop]] · [[2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop]] · [[2026-05-18-microsoft-s-2026-global-ai-diffusion-report-documented-that]] · [[2026-04-03-microsoft-announced-a-10b-investment-in-japan-2026-2029-to-e]]
 <!-- graph:end -->

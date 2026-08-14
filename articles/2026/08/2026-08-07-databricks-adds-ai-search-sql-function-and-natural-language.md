@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
-- 2026-05-15-databricks-enables-ai-document-parsing-ai-parse-document-by
 - 2026-05-13-databricks-makes-ai-parse-document-generally-available-adds
+- 2026-05-15-databricks-made-its-ai-parse-document-function-generally-ava
 - 2026-05-27-natural-language-query-to-configuration-for-retrieval-agents
+- 2026-08-06-databricks-releases-enterprise-grounded-reasoning-benchmark
 embedding_id: 2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Databricks released a Beta ai_search() SQL function that takes a natural-languag
 
 **Entities:** [[Databricks]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-05-15-databricks-enables-ai-document-parsing-ai-parse-document-by]] · [[2026-05-13-databricks-makes-ai-parse-document-generally-available-adds]] · [[2026-05-27-natural-language-query-to-configuration-for-retrieval-agents]]
+**Related:** [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-05-13-databricks-makes-ai-parse-document-generally-available-adds]] · [[2026-05-15-databricks-made-its-ai-parse-document-function-generally-ava]] · [[2026-05-27-natural-language-query-to-configuration-for-retrieval-agents]] · [[2026-08-06-databricks-releases-enterprise-grounded-reasoning-benchmark]]
 <!-- graph:end -->

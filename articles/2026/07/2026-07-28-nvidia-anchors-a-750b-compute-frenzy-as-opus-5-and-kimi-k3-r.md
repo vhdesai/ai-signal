@@ -29,8 +29,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-28-nvidia-s-triple-play-china-s-largest-open-model-and-the-agen
 - 2026-07-27-daily-ai-news-digest-july-28-2026
-- 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
+- 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
 embedding_id: 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Nvidia dominated the past 24 hours on three fronts — a reported ~$250B financi
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-28-nvidia-s-triple-play-china-s-largest-open-model-and-the-agen]] · [[2026-07-27-daily-ai-news-digest-july-28-2026]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
+**Related:** [[2026-07-28-nvidia-s-triple-play-china-s-largest-open-model-and-the-agen]] · [[2026-07-27-daily-ai-news-digest-july-28-2026]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
 <!-- graph:end -->

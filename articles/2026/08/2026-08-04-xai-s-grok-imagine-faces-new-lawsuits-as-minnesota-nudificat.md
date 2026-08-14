@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
+- 2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai
 - 2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s
 embedding_id: 2026-08-04-xai-s-grok-imagine-faces-new-lawsuits-as-minnesota-nudificat
 event_name: ''
@@ -35,5 +36,5 @@ Three new lawsuits were filed against xAI over Grok Imagine as Minnesota's nudif
 
 **Entities:** [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law]] · [[2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s]]
+**Related:** [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law]] · [[2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai]] · [[2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s]]
 <!-- graph:end -->

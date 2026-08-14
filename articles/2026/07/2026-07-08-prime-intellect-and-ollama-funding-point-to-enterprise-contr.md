@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-08-prime-intellect-raises-130m-series-a-to-help-enterprises-bui
-- 2026-07-09-popular-open-source-ai-developer-tool-ollama-raises-65m-grow
 - 2026-07-09-ollama-raises-65m-series-b-as-local-ai-adoption-scales
+- 2026-07-09-popular-open-source-ai-developer-tool-ollama-raises-65m-grow
 - 2026-07-09-ollama-raises-65m-series-b-as-local-ai-tooling-scales-toward
 - 2026-07-09-ollama-raises-65m-series-b-as-local-ai-tooling-scales-to-9m
 embedding_id: 2026-07-08-prime-intellect-and-ollama-funding-point-to-enterprise-contr
@@ -37,5 +37,5 @@ Prime Intellect raised $130 million at a $1 billion valuation for enterprise age
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-08-prime-intellect-raises-130m-series-a-to-help-enterprises-bui]] · [[2026-07-09-popular-open-source-ai-developer-tool-ollama-raises-65m-grow]] · [[2026-07-09-ollama-raises-65m-series-b-as-local-ai-adoption-scales]] · [[2026-07-09-ollama-raises-65m-series-b-as-local-ai-tooling-scales-toward]] · [[2026-07-09-ollama-raises-65m-series-b-as-local-ai-tooling-scales-to-9m]]
+**Related:** [[2026-07-08-prime-intellect-raises-130m-series-a-to-help-enterprises-bui]] · [[2026-07-09-ollama-raises-65m-series-b-as-local-ai-adoption-scales]] · [[2026-07-09-popular-open-source-ai-developer-tool-ollama-raises-65m-grow]] · [[2026-07-09-ollama-raises-65m-series-b-as-local-ai-tooling-scales-toward]] · [[2026-07-09-ollama-raises-65m-series-b-as-local-ai-tooling-scales-to-9m]]
 <!-- graph:end -->

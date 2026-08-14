@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet
-- 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
 - 2026-05-28-xai-s-grok-v9-medium-finishes-training-at-1-5t-parameters-ta
+- 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
 - 2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta
 embedding_id: 2026-05-26-musk-claims-xai-has-finished-training-grok-v9-medium-at-1-5t
 event_name: ''
@@ -37,5 +37,5 @@ Elon Musk posted that xAI has completed training on a 1.5-trillion parameter mod
 
 **Entities:** [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-05-28-xai-s-grok-v9-medium-finishes-training-at-1-5t-parameters-ta]] · [[2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta]]
+**Related:** [[2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet]] · [[2026-05-28-xai-s-grok-v9-medium-finishes-training-at-1-5t-parameters-ta]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta]]
 <!-- graph:end -->

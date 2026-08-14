@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-02-microsoft-agent-365-generally-available
 - 2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co
-- 2026-05-14-microsoft-agent-365-goes-ga-identity-security-governance-for
 - 2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen
+- 2026-05-14-microsoft-agent-365-became-generally-available-on-may-2-exte
 embedding_id: 2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft's Agent 365 — a platform for discovering, governing, and securing AI
 
 **Entities:** [[Google]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-02-microsoft-agent-365-generally-available]] · [[2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co]] · [[2026-05-14-microsoft-agent-365-goes-ga-identity-security-governance-for]] · [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]]
+**Related:** [[2026-05-02-microsoft-agent-365-generally-available]] · [[2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co]] · [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]] · [[2026-05-14-microsoft-agent-365-became-generally-available-on-may-2-exte]]
 <!-- graph:end -->

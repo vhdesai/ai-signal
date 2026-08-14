@@ -22,8 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-23-anthropic-claude-mythos-preview-has-found-10-000-critical-vu
-- 2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open
+- 2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000
+- 2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s
+- 2026-05-22-claude-mythos-in-restricted-preview-clears-all-uk-ai-safety
 embedding_id: 2026-07-04-per-epoch-ai-21-notable-organizations-disclosed-roughly-1-50
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Per Epoch AI, 21 notable organizations disclosed roughly 1,500 high-severity and
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-23-anthropic-claude-mythos-preview-has-found-10-000-critical-vu]] · [[2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open]]
+**Related:** [[2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000]] · [[2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s]] · [[2026-05-22-claude-mythos-in-restricted-preview-clears-all-uk-ai-safety]]
 <!-- graph:end -->

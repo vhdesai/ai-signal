@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2
-- 2026-04-06-apple-cracks-down-on-vibe-coding-apps-amid-84-surge-in-app-s
 - 2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont
-- 2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
+- 2026-07-28-cursor-customers-push-back-on-usage-based-price-hikes
+- 2026-05-17-replit-released-its-first-iphone-app-update-in-four-months-a
 embedding_id: 2026-04-06-apple-is-tightening-app-store-review-policies-after-ai-assis
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple is tightening App Store review policies after AI-assisted "vibe coding" to
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2]] · [[2026-04-06-apple-cracks-down-on-vibe-coding-apps-amid-84-surge-in-app-s]] · [[2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont]] · [[2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]]
+**Related:** [[2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2]] · [[2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-07-28-cursor-customers-push-back-on-usage-based-price-hikes]] · [[2026-05-17-replit-released-its-first-iphone-app-update-in-four-months-a]]
 <!-- graph:end -->

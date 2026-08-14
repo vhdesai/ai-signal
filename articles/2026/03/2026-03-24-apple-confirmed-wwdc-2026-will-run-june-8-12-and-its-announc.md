@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
-- 2026-03-24-apple-announces-wwdc-2026-with-explicit-promise-of-ai-advanc
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview
 - 2026-05-18-new-apple-sends-wwdc-2026-invites-for-june-8-keynote-coming
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
+- 2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli
 embedding_id: 2026-03-24-apple-confirmed-wwdc-2026-will-run-june-8-12-and-its-announc
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Apple confirmed WWDC 2026 will run June 8–12, and its announcement press relea
 
 **Entities:** [[Apple]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[2026-03-24-apple-announces-wwdc-2026-with-explicit-promise-of-ai-advanc]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]] · [[2026-05-18-new-apple-sends-wwdc-2026-invites-for-june-8-keynote-coming]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]]
+**Related:** [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]] · [[2026-05-18-new-apple-sends-wwdc-2026-invites-for-june-8-keynote-coming]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli]]
 <!-- graph:end -->

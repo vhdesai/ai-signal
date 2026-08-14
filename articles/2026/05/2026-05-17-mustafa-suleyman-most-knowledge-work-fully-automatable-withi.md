@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-18-microsoft-ai-chief-suleiman-most-office-jobs-automated-withi
 - 2026-05-18-trending-microsoft-ai-chief-suleyman-white-collar-jobs-could
 - 2026-05-18-mustafa-suleiman-microsoft-s-ai-chief-stated-today-that-most
 - 2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye
 - 2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi
+- 2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st
 embedding_id: 2026-05-17-mustafa-suleyman-most-knowledge-work-fully-automatable-withi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft AI CEO Mustafa Suleyman forecast that a substantial share of routine k
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-18-microsoft-ai-chief-suleiman-most-office-jobs-automated-withi]] · [[2026-05-18-trending-microsoft-ai-chief-suleyman-white-collar-jobs-could]] · [[2026-05-18-mustafa-suleiman-microsoft-s-ai-chief-stated-today-that-most]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye]] · [[2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi]]
+**Related:** [[2026-05-18-trending-microsoft-ai-chief-suleyman-white-collar-jobs-could]] · [[2026-05-18-mustafa-suleiman-microsoft-s-ai-chief-stated-today-that-most]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye]] · [[2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi]] · [[2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st]]
 <!-- graph:end -->

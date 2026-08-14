@@ -22,7 +22,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-openai-opens-gpt-5-6-sol-terra-and-luna-to-the-public
-related_article_ids: []
+related_article_ids:
+- 2026-07-08-openai-takes-gpt-5-6-sol-terra-luna-to-general-availability
 embedding_id: 2026-07-08-openai-opens-gpt-5-6-sol-terra-luna-to-the-public
 event_name: ''
 ---
@@ -37,4 +38,5 @@ OpenAI made its GPT-5.6 family broadly available after initially limiting the Ju
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-07-08-openai-opens-gpt-5-6-sol-terra-and-luna-to-the-public]]
+**Related:** [[2026-07-08-openai-takes-gpt-5-6-sol-terra-luna-to-general-availability]]
 <!-- graph:end -->

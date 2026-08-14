@@ -25,6 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-chinese-ai-labs-still-train-on-nvidia-switching-to-huawei-si
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
+- 2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri
 - 2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch
 embedding_id: 2026-08-11-china-s-leading-model-developers-remain-dependent-on-nvidia
 event_name: ''
@@ -39,5 +40,5 @@ Reporting indicates China's top model developers continue to train primarily on 
 
 **Entities:** [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-10-chinese-ai-labs-still-train-on-nvidia-switching-to-huawei-si]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch]]
+**Related:** [[2026-08-10-chinese-ai-labs-still-train-on-nvidia-switching-to-huawei-si]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri]] · [[2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch]]
 <!-- graph:end -->

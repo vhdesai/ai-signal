@@ -22,8 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
-- 2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world
-- 2026-04-04-mit-researchers-develop-framework-for-humble-ai-in-medical-d
+- 2026-05-04-mit-students-build-a-wearable-ai-human-operator-that-drives
 embedding_id: 2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil
 event_name: ''
 ---
@@ -36,5 +35,5 @@ MIT engineers unveiled an adaptive physical-therapy system that uses generative 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world]] · [[2026-04-04-mit-researchers-develop-framework-for-humble-ai-in-medical-d]]
+**Related:** [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-05-04-mit-students-build-a-wearable-ai-human-operator-that-drives]]
 <!-- graph:end -->

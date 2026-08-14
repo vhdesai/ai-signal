@@ -22,9 +22,9 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for
-- 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
+- 2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for
+- 2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc
 embedding_id: 2026-07-30-tencent-open-sources-angelspec-speculative-decoding-framewor
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Tencent released AngelSpec, a torch-native unified training framework for Multi-
 
 **Entities:** [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]]
+**Related:** [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc]]
 <!-- graph:end -->

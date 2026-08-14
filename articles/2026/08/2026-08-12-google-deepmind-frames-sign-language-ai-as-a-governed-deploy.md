@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-google-deepmind-ships-sl2t-sign-language-translation-on-andr
 - 2026-08-12-google-deepmind-ships-sl2t-sign-language-translation-into-an
 - 2026-08-12-google-deepmind-ships-sign-language-translation-to-android-p
-- 2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal
+- 2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin
 embedding_id: 2026-08-12-google-deepmind-frames-sign-language-ai-as-a-governed-deploy
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google DeepMind's SL2T work is also notable as a research-to-product transition:
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-google-deepmind-puts-sign-language-ai-into-gboard-and-live-t]] · [[2026-08-12-google-deepmind-ships-sl2t-sign-language-translation-on-andr]] · [[2026-08-12-google-deepmind-ships-sl2t-sign-language-translation-into-an]] · [[2026-08-12-google-deepmind-ships-sign-language-translation-to-android-p]] · [[2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal]]
+**Related:** [[2026-08-12-google-deepmind-puts-sign-language-ai-into-gboard-and-live-t]] · [[2026-08-12-google-deepmind-ships-sl2t-sign-language-translation-on-andr]] · [[2026-08-12-google-deepmind-ships-sl2t-sign-language-translation-into-an]] · [[2026-08-12-google-deepmind-ships-sign-language-translation-to-android-p]] · [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]]
 <!-- graph:end -->

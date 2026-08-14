@@ -23,7 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec
-- 2026-07-31-microsoft-introduces-mai-cyber-1-flash-and-project-perceptio
+- 2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc
+- 2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb
+- 2026-04-02-in-a-landmark-move-toward-ai-self-sufficiency-microsoft-toda
 embedding_id: 2026-07-28-microsoft-launches-mai-cyber-1-flash-its-first-cybersecurity
 event_name: ''
 ---
@@ -37,5 +39,5 @@ Microsoft introduced MAI-Cyber-1-Flash, its first purpose-built cybersecurity mo
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec]] · [[2026-07-31-microsoft-introduces-mai-cyber-1-flash-and-project-perceptio]]
+**Related:** [[2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec]] · [[2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc]] · [[2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb]] · [[2026-04-02-in-a-landmark-move-toward-ai-self-sufficiency-microsoft-toda]]
 <!-- graph:end -->

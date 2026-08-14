@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips
 - 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
-- 2026-07-08-sambanova-raises-1b-at-an-11b-valuation-lands-jpmorgan-as-an
+- 2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips
 - 2026-07-08-sambanova-raises-1b-at-11b-valuation-named-jpmorgan-inferenc
 - 2026-07-08-sambanova-raises-1b-at-an-11b-valuation
+- 2026-07-08-sambanova-raises-1b-at-an-11b-valuation-lands-jpmorgan-as-an
 embedding_id: 2026-07-07-sambanova-raises-1b-for-inference-silicon
 event_name: ''
 ---
@@ -36,5 +36,5 @@ SambaNova Systems raised $1 billion in new funding focused on inference-optimize
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]] · [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-lands-jpmorgan-as-an]] · [[2026-07-08-sambanova-raises-1b-at-11b-valuation-named-jpmorgan-inferenc]] · [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation]]
+**Related:** [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]] · [[2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips]] · [[2026-07-08-sambanova-raises-1b-at-11b-valuation-named-jpmorgan-inferenc]] · [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation]] · [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-lands-jpmorgan-as-an]]
 <!-- graph:end -->

@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti
-- 2026-05-14-mit-media-lab-your-brain-on-chatgpt-llm-use-causes-measurabl
 - 2026-05-13-ai-speech-analysis-everyday-ums-pauses-and-word-finding-diff
 - 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
 - 2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr
+- 2026-04-10-mit-economics-faculty-have-published-analysis-examining-how
 embedding_id: 2026-05-14-mit-media-lab-researchers-used-eeg-to-measure-cognitive-load
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT Media Lab researchers used EEG to measure cognitive load during essay writin
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti]] · [[2026-05-14-mit-media-lab-your-brain-on-chatgpt-llm-use-causes-measurabl]] · [[2026-05-13-ai-speech-analysis-everyday-ums-pauses-and-word-finding-diff]] · [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr]]
+**Related:** [[2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti]] · [[2026-05-13-ai-speech-analysis-everyday-ums-pauses-and-word-finding-diff]] · [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr]] · [[2026-04-10-mit-economics-faculty-have-published-analysis-examining-how]]
 <!-- graph:end -->

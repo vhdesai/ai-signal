@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-12-apple-releases-ppml-2026-workshop-recordings-on-privacy-pres
 - 2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu
 - 2026-04-20-apple-ml-research-april-17-2026-apple-announced-a-slate-of-a
-- 2026-05-02-may-1-2026-apple-ml-research
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
+- 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 embedding_id: 2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Apple's Machine Learning Research blog published four featured talks and a resea
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-12-apple-releases-ppml-2026-workshop-recordings-on-privacy-pres]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[2026-04-20-apple-ml-research-april-17-2026-apple-announced-a-slate-of-a]] · [[2026-05-02-may-1-2026-apple-ml-research]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]]
+**Related:** [[2026-05-12-apple-releases-ppml-2026-workshop-recordings-on-privacy-pres]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[2026-04-20-apple-ml-research-april-17-2026-apple-announced-a-slate-of-a]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]]
 <!-- graph:end -->

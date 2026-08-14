@@ -22,6 +22,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-08-three-frontier-labs-containment-failures-traced-to-a-single
+- 2026-07-27-openai-s-hugging-face-breach-reignites-alignment-and-control
 - 2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo
 embedding_id: 2026-08-08-containment-failures-now-disclosed-by-three-frontier-labs-in
 event_name: ''
@@ -36,5 +38,5 @@ The Astra pause lands amid a cluster of disclosures in which OpenAI, Anthropic, 
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo]]
+**Related:** [[2026-08-08-three-frontier-labs-containment-failures-traced-to-a-single]] · [[2026-07-27-openai-s-hugging-face-breach-reignites-alignment-and-control]] · [[2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo]]
 <!-- graph:end -->

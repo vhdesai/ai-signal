@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age
 - 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
 - 2026-08-13-deepseek-v4-pro-launches-to-mixed-reviews-priced-at-a-fracti
-- 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context
+- 2026-08-07-deepseek-v4-flash-posts-61-4-on-arc-agi-2-at-roughly-four-ce
 embedding_id: 2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Independent evaluator Artificial Analysis clocked DeepSeek V4-Flash at roughly 3
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-03-deepseek-s-v4-flash-is-the-cheapest-well-known-model-to-run]] · [[2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age]] · [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c]] · [[2026-08-13-deepseek-v4-pro-launches-to-mixed-reviews-priced-at-a-fracti]] · [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context]]
+**Related:** [[2026-08-03-deepseek-s-v4-flash-is-the-cheapest-well-known-model-to-run]] · [[2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age]] · [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c]] · [[2026-08-13-deepseek-v4-pro-launches-to-mixed-reviews-priced-at-a-fracti]] · [[2026-08-07-deepseek-v4-flash-posts-61-4-on-arc-agi-2-at-roughly-four-ce]]
 <!-- graph:end -->

@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta
 - 2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out
 - 2026-04-06-the-european-union-s-newly-established-ai-act-enforcement-of
-- 2026-08-02-eu-ai-act-enforcement-powers-take-effect-for-general-purpose
 - 2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia
+- 2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare
 embedding_id: 2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The EU AI Act's General-Purpose AI (GPAI) enforcement calendar entered its fully
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta]] · [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]] · [[2026-04-06-the-european-union-s-newly-established-ai-act-enforcement-of]] · [[2026-08-02-eu-ai-act-enforcement-powers-take-effect-for-general-purpose]] · [[2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia]]
+**Related:** [[2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta]] · [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]] · [[2026-04-06-the-european-union-s-newly-established-ai-act-enforcement-of]] · [[2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia]] · [[2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare]]
 <!-- graph:end -->

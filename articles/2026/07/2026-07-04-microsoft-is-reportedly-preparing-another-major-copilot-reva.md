@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer
 - 2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa
 - 2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one
-- 2026-07-04-products-tools-new-microsoft-is-planning-an-overhauled-copil
 - 2026-07-31-microsoft-confirms-a-unified-copilot-super-app-is-coming-thi
+- 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
 embedding_id: 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft is reportedly preparing another major Copilot revamp — targeted for 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer]] · [[2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa]] · [[2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one]] · [[2026-07-04-products-tools-new-microsoft-is-planning-an-overhauled-copil]] · [[2026-07-31-microsoft-confirms-a-unified-copilot-super-app-is-coming-thi]]
+**Related:** [[2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer]] · [[2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa]] · [[2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one]] · [[2026-07-31-microsoft-confirms-a-unified-copilot-super-app-is-coming-thi]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]]
 <!-- graph:end -->

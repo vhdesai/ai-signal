@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag
 - 2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin
-- 2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai
+- 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
 embedding_id: 2026-07-08-constrained-decoding-for-diffusion-language-models-via-effic
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Stanford researchers proposed an efficient method for constrained decoding in di
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag]] · [[2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin]] · [[2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai]]
+**Related:** [[2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag]] · [[2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin]] · [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]]
 <!-- graph:end -->

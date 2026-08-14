@@ -42,11 +42,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist
 - 2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a
 - 2026-06-28-blogs-news-openai-blog-google-deepmind-meta-ai-bair-apple-ml
 - 2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice
-- 2026-05-12-companies-nvidia-google-deepmind-openai-anthropic-mistral-me
+- 2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist
+- 2026-07-04-companies-blogs-nvidia-google-deepmind-openai-anthropic-mist
 embedding_id: 2026-08-06-openai-partners-with-the-american-psychological-association
 event_name: ''
 ---
@@ -60,5 +60,5 @@ OpenAI announced a collaboration with the American Psychological Association to 
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist]] · [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-06-28-blogs-news-openai-blog-google-deepmind-meta-ai-bair-apple-ml]] · [[2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice]] · [[2026-05-12-companies-nvidia-google-deepmind-openai-anthropic-mistral-me]]
+**Related:** [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-06-28-blogs-news-openai-blog-google-deepmind-meta-ai-bair-apple-ml]] · [[2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice]] · [[2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist]] · [[2026-07-04-companies-blogs-nvidia-google-deepmind-openai-anthropic-mist]]
 <!-- graph:end -->

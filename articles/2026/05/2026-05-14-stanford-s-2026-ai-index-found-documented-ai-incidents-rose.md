@@ -17,9 +17,14 @@ entities: []
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-05-14-stanford-ai-index-documented-ai-incidents-rose-to-362-in-202
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-05-14-responsible-ai-reporting-still-trails-capability-releases
+- 2026-05-15-stanford-s-9th-annual-ai-index-now-being-widely-cited-this-w
+- 2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin
+- 2026-05-26-stanford-2026-ai-index-u-s-china-performance-gap-narrows-to
+- 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
 embedding_id: 2026-05-14-stanford-s-2026-ai-index-found-documented-ai-incidents-rose
 event_name: ''
 ---
@@ -32,5 +37,5 @@ Stanford's 2026 AI Index found documented AI incidents rose to 362 in 2025, up f
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Canonical:** [[2026-05-14-stanford-ai-index-documented-ai-incidents-rose-to-362-in-202]]
+**Related:** [[2026-05-14-responsible-ai-reporting-still-trails-capability-releases]] · [[2026-05-15-stanford-s-9th-annual-ai-index-now-being-widely-cited-this-w]] · [[2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin]] · [[2026-05-26-stanford-2026-ai-index-u-s-china-performance-gap-narrows-to]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]]
 <!-- graph:end -->

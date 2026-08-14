@@ -20,8 +20,7 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-growth-hits-a-four
-related_article_ids:
-- 2026-07-30-amazon-lifts-2026-capex-to-220b-as-aws-reaccelerates-to-37-g
+related_article_ids: []
 embedding_id: 2026-07-30-amazon-lifts-2026-capex-to-220b-as-aws-growth-accelerates-to
 event_name: ''
 ---
@@ -36,5 +35,4 @@ Amazon reported Q2 revenue up 20% to $200.6B, with AWS up 37% to $42.2B — its 
 **Entities:** [[Amazon]] · [[Google]]
 **Topics:** [[Policy & Regulation]]
 **Canonical:** [[2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-growth-hits-a-four]]
-**Related:** [[2026-07-30-amazon-lifts-2026-capex-to-220b-as-aws-reaccelerates-to-37-g]]
 <!-- graph:end -->

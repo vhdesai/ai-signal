@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-30-aws-launches-agent-plugin-for-serverless-and-100-000-learner
-- 2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed
 - 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
-- 2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick
 - 2026-08-04-aws-launches-web-search-on-amazon-bedrock-for-model-groundin
+- 2026-08-12-amazon-confirms-training-ai-on-twitch-livestreams-users-opte
+- 2026-03-24-amazon-web-services-and-cerebras-systems-announced-a-collabo
 embedding_id: 2026-07-13-aws-ships-a-low-code-ui-for-generative-ai-inference-recommen
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Amazon launched a UI in SageMaker AI Studio that walks teams through preset use-
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-03-30-aws-launches-agent-plugin-for-serverless-and-100-000-learner]] · [[2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]] · [[2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick]] · [[2026-08-04-aws-launches-web-search-on-amazon-bedrock-for-model-groundin]]
+**Related:** [[2026-03-30-aws-launches-agent-plugin-for-serverless-and-100-000-learner]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]] · [[2026-08-04-aws-launches-web-search-on-amazon-bedrock-for-model-groundin]] · [[2026-08-12-amazon-confirms-training-ai-on-twitch-livestreams-users-opte]] · [[2026-03-24-amazon-web-services-and-cerebras-systems-announced-a-collabo]]
 <!-- graph:end -->

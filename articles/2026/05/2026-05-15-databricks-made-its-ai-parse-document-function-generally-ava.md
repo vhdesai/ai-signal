@@ -19,9 +19,14 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-05-15-databricks-enables-ai-document-parsing-ai-parse-document-by
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-05-13-databricks-makes-ai-parse-document-generally-available-adds
+- 2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language
+- 2026-08-03-databricks-makes-variant-generally-available-for-semi-struct
+- 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
+- 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
 embedding_id: 2026-05-15-databricks-made-its-ai-parse-document-function-generally-ava
 event_name: ''
 ---
@@ -35,5 +40,5 @@ Databricks made its ai_parse_document function generally available by default fo
 
 **Entities:** [[Databricks]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Canonical:** [[2026-05-15-databricks-enables-ai-document-parsing-ai-parse-document-by]]
+**Related:** [[2026-05-13-databricks-makes-ai-parse-document-generally-available-adds]] · [[2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language]] · [[2026-08-03-databricks-makes-variant-generally-available-for-semi-struct]] · [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]]
 <!-- graph:end -->

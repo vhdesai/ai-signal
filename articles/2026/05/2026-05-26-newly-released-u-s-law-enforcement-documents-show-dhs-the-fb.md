@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-02-the-u-s-department-of-defense-has-expanded-its-ai-infrastruc
 - 2026-06-29-a-chinese-cybersecurity-company-is-building-offensive-and-de
 - 2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta
-- 2026-05-01-anthropic-s-refusal-to-remove-safeguards-against-domestic-ma
+- 2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g
 embedding_id: 2026-05-26-newly-released-u-s-law-enforcement-documents-show-dhs-the-fb
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Newly released U.S. law-enforcement documents show DHS, the FBI, and other feder
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-05-02-the-u-s-department-of-defense-has-expanded-its-ai-infrastruc]] · [[2026-06-29-a-chinese-cybersecurity-company-is-building-offensive-and-de]] · [[2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta]] · [[2026-05-01-anthropic-s-refusal-to-remove-safeguards-against-domestic-ma]]
+**Related:** [[2026-05-02-the-u-s-department-of-defense-has-expanded-its-ai-infrastruc]] · [[2026-06-29-a-chinese-cybersecurity-company-is-building-offensive-and-de]] · [[2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta]] · [[2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g]]
 <!-- graph:end -->

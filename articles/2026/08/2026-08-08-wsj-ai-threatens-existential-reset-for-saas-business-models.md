@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a
 - 2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the
-- 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
 - 2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur
 - 2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat
+- 2026-06-07-wsj-the-artificial-intelligence-backlash
 embedding_id: 2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A WSJ front-page story by Kate Clark argues generative AI is steamrolling the on
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a]] · [[2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur]] · [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat]]
+**Related:** [[2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a]] · [[2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the]] · [[2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur]] · [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]]
 <!-- graph:end -->

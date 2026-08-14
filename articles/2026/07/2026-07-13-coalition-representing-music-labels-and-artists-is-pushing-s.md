@@ -27,9 +27,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera
-- 2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin
 - 2026-07-13-economists-and-ai-researchers-warn-that-labor-disruption-may
+- 2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de
+- 2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin
 embedding_id: 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
 event_name: ''
 ---
@@ -43,5 +43,5 @@ More than 200 researchers and economists, including 15 Nobel laureates and leade
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera]] · [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]] · [[2026-07-13-economists-and-ai-researchers-warn-that-labor-disruption-may]]
+**Related:** [[2026-07-13-economists-and-ai-researchers-warn-that-labor-disruption-may]] · [[2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de]] · [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]]
 <!-- graph:end -->

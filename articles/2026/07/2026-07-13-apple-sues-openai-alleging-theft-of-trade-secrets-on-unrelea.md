@@ -19,9 +19,13 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-08-06-openai-asks-judge-to-dismiss-apple-s-trade-secrets-lawsuit
+- 2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef
+- 2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft
+- 2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle
 embedding_id: 2026-07-13-apple-sues-openai-alleging-theft-of-trade-secrets-on-unrelea
 event_name: ''
 ---
@@ -35,5 +39,5 @@ Apple filed suit accusing OpenAI of misappropriating trade secrets and confident
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle]]
+**Related:** [[2026-08-06-openai-asks-judge-to-dismiss-apple-s-trade-secrets-lawsuit]] · [[2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef]] · [[2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft]] · [[2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle]]
 <!-- graph:end -->

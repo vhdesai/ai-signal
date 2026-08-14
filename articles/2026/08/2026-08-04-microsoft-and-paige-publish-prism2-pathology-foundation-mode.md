@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-02-microsoft-and-mayo-clinic-partner-to-build-healthcare-focuse
-- 2026-07-29-peer-reviewed-study-an-llm-extracts-cancer-staging-data-from
 - 2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation
+- 2026-07-29-peer-reviewed-study-an-llm-extracts-cancer-staging-data-from
 - 2026-03-30-microsoft-open-sources-harrier-oss-v1-sota-multilingual-embe
 - 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
 embedding_id: 2026-08-04-microsoft-and-paige-publish-prism2-pathology-foundation-mode
@@ -39,5 +39,5 @@ Microsoft Research and Paige published PRISM2, a pathology foundation model trai
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-02-microsoft-and-mayo-clinic-partner-to-build-healthcare-focuse]] · [[2026-07-29-peer-reviewed-study-an-llm-extracts-cancer-staging-data-from]] · [[2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation]] · [[2026-03-30-microsoft-open-sources-harrier-oss-v1-sota-multilingual-embe]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]]
+**Related:** [[2026-06-02-microsoft-and-mayo-clinic-partner-to-build-healthcare-focuse]] · [[2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation]] · [[2026-07-29-peer-reviewed-study-an-llm-extracts-cancer-staging-data-from]] · [[2026-03-30-microsoft-open-sources-harrier-oss-v1-sota-multilingual-embe]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]]
 <!-- graph:end -->

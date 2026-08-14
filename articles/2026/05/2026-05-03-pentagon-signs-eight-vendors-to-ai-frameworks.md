@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors
-- 2026-05-09-pentagon-signs-ai-deals-with-8-vendors-anthropic-conspicuous
 - 2026-05-02-the-u-s-department-of-defense-has-expanded-its-ai-infrastruc
-- 2026-05-01-4-hardware-geopolitics
 - 2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws
+- 2026-05-09-the-pentagon-signed-ai-deployment-agreements-with-eight-vend
+- 2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth
 embedding_id: 2026-05-03-pentagon-signs-eight-vendors-to-ai-frameworks
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The U.S. Department of Defense has signed an additional eight technology vendors
 
 **Entities:** [[Palantir]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors]] · [[2026-05-09-pentagon-signs-ai-deals-with-8-vendors-anthropic-conspicuous]] · [[2026-05-02-the-u-s-department-of-defense-has-expanded-its-ai-infrastruc]] · [[2026-05-01-4-hardware-geopolitics]] · [[2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws]]
+**Related:** [[2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors]] · [[2026-05-02-the-u-s-department-of-defense-has-expanded-its-ai-infrastruc]] · [[2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws]] · [[2026-05-09-the-pentagon-signed-ai-deployment-agreements-with-eight-vend]] · [[2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth]]
 <!-- graph:end -->

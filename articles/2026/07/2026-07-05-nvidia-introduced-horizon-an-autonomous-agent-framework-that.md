@@ -21,10 +21,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-05-nvidia-releases-horizon-a-hands-free-agent-framework-for-har
-- 2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x
-- 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
 - 2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement
+- 2026-06-29-palantir-announced-a-strategic-initiative-with-nvidia-to-del
 embedding_id: 2026-07-05-nvidia-introduced-horizon-an-autonomous-agent-framework-that
 event_name: ''
 ---
@@ -38,5 +36,5 @@ NVIDIA introduced HORIZON, an autonomous agent framework that treats each regist
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-05-nvidia-releases-horizon-a-hands-free-agent-framework-for-har]] · [[2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement]]
+**Related:** [[2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement]] · [[2026-06-29-palantir-announced-a-strategic-initiative-with-nvidia-to-del]]
 <!-- graph:end -->

@@ -22,9 +22,14 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: duplicate
-canonical_article_id: 2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50
+- 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
+- 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
+- 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
+- 2026-05-22-deepseek-raising-10b-founder-pledges-agi-mission-over-commer
 embedding_id: 2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t
 event_name: ''
 ---
@@ -38,5 +43,5 @@ DeepSeek, the Chinese AI lab whose open-weight models rattled the AI industry ea
 
 **Entities:** [[DeepSeek]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Canonical:** [[2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek]]
+**Related:** [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-05-22-deepseek-raising-10b-founder-pledges-agi-mission-over-commer]]
 <!-- graph:end -->

@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure
 - 2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo
 - 2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories
-- 2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst
+- 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 - 2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact
+- 2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2
 embedding_id: 2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA announced a record slate of 35 AI supercomputers across Europe as part of
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]] · [[2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact]]
+**Related:** [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact]] · [[2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2]]
 <!-- graph:end -->

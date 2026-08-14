@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design
 - 2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f
+- 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
 - 2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da
 embedding_id: 2026-05-28-mistral-explores-custom-chips-and-new-french-data-center
 event_name: ''
@@ -37,5 +38,5 @@ Mistral is exploring custom chip designs and announced a new data center in Fran
 
 **Entities:** [[Mistral]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design]] · [[2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]]
+**Related:** [[2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design]] · [[2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]]
 <!-- graph:end -->

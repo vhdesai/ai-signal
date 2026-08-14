@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-04-claude-code-source-code-leaked-via-npm-error-reveals-kairos
 - 2026-04-01-anthropic-s-claude-code-platform-experienced-a-significant-s
 - 2026-03-31-anthropic-claude-code-source-leaked-again-exposes-capybara-m
-- 2026-06-30-agentjacking-a-single-crafted-sentry-error-hijacked-claude-c
+- 2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v
+- 2026-04-02-anthropic-s-claude-code-source-code-was-leaked-prompting-the
+- 2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit
 embedding_id: 2026-04-04-an-npm-packaging-error-exposed-512-000-lines-of-claude-code
 event_name: ''
 ---
@@ -38,5 +39,5 @@ An npm packaging error exposed 512,000+ lines of Claude Code TypeScript source c
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-04-claude-code-source-code-leaked-via-npm-error-reveals-kairos]] · [[2026-04-01-anthropic-s-claude-code-platform-experienced-a-significant-s]] · [[2026-03-31-anthropic-claude-code-source-leaked-again-exposes-capybara-m]] · [[2026-06-30-agentjacking-a-single-crafted-sentry-error-hijacked-claude-c]]
+**Related:** [[2026-04-01-anthropic-s-claude-code-platform-experienced-a-significant-s]] · [[2026-03-31-anthropic-claude-code-source-leaked-again-exposes-capybara-m]] · [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]] · [[2026-04-02-anthropic-s-claude-code-source-code-was-leaked-prompting-the]] · [[2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit]]
 <!-- graph:end -->

@@ -6,8 +6,8 @@ source: Los Angeles Times
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-06-21_070147_Final-Daily-AI-News-Digest.md
-content_hash: 1db3610f81dffcff952dd8ea9f12cb234da4d1f6113ad9919a13caa407cce8a7
+digest_source: digests\raw\2026-06-21_070014_Final-Daily-AI-News-Digest.md
+content_hash: c772e9f445afa0015492ab9a716ec84c815ad25a9838d3281dcf8ff2606dc3da
 normalized_title_hash: eb557d8b053d6fc0
 canonical_url_hash: ''
 tags:
@@ -25,7 +25,7 @@ event_name: ''
 
 # US States Forge Ahead with AI Regulation Despite Trump's Warnings
 
-Six months post-Trump warning, states accelerating regulation. CT, RI and others enacted laws covering employment AI, legal practice, consumer protection. Growing patchwork creates national compliance complexity.
+Six months after Trump warned states not to regulate AI, they are increasingly doing so. With federal legislation stalled, Connecticut, Rhode Island, and others have enacted or proposed laws covering AI in employment, legal practice, and consumer protection. The growing patchwork creates compliance complexity for AI companies operating nationally.
 
 <!-- graph:start -->
 ## Connections

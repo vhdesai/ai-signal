@@ -17,9 +17,13 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-07-27-nvidia-to-invest-5b-in-ilya-sutskever-s-safe-superintelligen
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-07-27-nvidia-to-invest-5b-in-ilya-sutskever-s-safe-superintelligen
+- 2026-05-14-nvidia-partners-with-david-silver-s-ineffable-intelligence-t
+- 2026-08-06-nvidia-assembles-new-ai-safety-engineering-team-doubles-down
+- 2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo
 embedding_id: 2026-07-27-safe-superintelligence-partners-with-nvidia-to-scale-researc
 event_name: ''
 ---
@@ -33,5 +37,5 @@ Safe Superintelligence, the lab founded by Ilya Sutskever, announced a long-term
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Canonical:** [[2026-07-27-nvidia-to-invest-5b-in-ilya-sutskever-s-safe-superintelligen]]
+**Related:** [[2026-07-27-nvidia-to-invest-5b-in-ilya-sutskever-s-safe-superintelligen]] · [[2026-05-14-nvidia-partners-with-david-silver-s-ineffable-intelligence-t]] · [[2026-08-06-nvidia-assembles-new-ai-safety-engineering-team-doubles-down]] · [[2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo]]
 <!-- graph:end -->

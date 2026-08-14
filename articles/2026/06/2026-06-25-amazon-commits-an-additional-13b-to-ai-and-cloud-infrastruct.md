@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud
-- 2026-06-29-amazon-raises-aws-ai-cloud-prices-20-amid-rising-memory-and
 - 2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou
 - 2026-04-09-products-tools
-- 2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed
+- 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
+- 2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure
 embedding_id: 2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Amazon said it will invest a further $13 billion through 2030 to expand AWS data
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud]] · [[2026-06-29-amazon-raises-aws-ai-cloud-prices-20-amid-rising-memory-and]] · [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou]] · [[2026-04-09-products-tools]] · [[2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed]]
+**Related:** [[2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud]] · [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou]] · [[2026-04-09-products-tools]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure]]
 <!-- graph:end -->

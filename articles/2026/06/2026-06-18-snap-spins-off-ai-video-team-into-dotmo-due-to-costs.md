@@ -22,7 +22,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-01-products-tools
 - 2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos
-- 2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a
 - 2026-08-05-hark-unveils-handoff-a-low-cost-computer-use-agent
 - 2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting
 embedding_id: 2026-06-18-snap-spins-off-ai-video-team-into-dotmo-due-to-costs
@@ -37,5 +36,5 @@ Snap is spinning off an AI video team into a new company, Dotmo, with cost press
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-01-products-tools]] · [[2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos]] · [[2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a]] · [[2026-08-05-hark-unveils-handoff-a-low-cost-computer-use-agent]] · [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]]
+**Related:** [[2026-04-01-products-tools]] · [[2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos]] · [[2026-08-05-hark-unveils-handoff-a-low-cost-computer-use-agent]] · [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]]
 <!-- graph:end -->

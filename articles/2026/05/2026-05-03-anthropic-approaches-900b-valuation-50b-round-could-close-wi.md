@@ -32,8 +32,8 @@ related_article_ids:
 - 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
 - 2026-05-15-anthropic-potential-30b-funding-round-could-push-valuation-t
-- 2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open
 - 2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o
+- 2026-05-17-industry-news-deals-anthropic-in-talks-to-raise-30-50b-at-up
 embedding_id: 2026-05-03-anthropic-approaches-900b-valuation-50b-round-could-close-wi
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Anthropic Approaches $900B+ Valuation — $50B Round Could Close Within Two Week
 
 **Entities:** [[Amazon]] · [[AMD]] · [[Anthropic]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-15-anthropic-potential-30b-funding-round-could-push-valuation-t]] · [[2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open]] · [[2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o]]
+**Related:** [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-15-anthropic-potential-30b-funding-round-could-push-valuation-t]] · [[2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o]] · [[2026-05-17-industry-news-deals-anthropic-in-talks-to-raise-30-50b-at-up]]
 <!-- graph:end -->

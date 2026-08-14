@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-05-google-gemini-agentic-benchmark-performance-surges-deep-rese
 - 2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute
 - 2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 - 2026-05-22-stanford-hai-s-2026-ai-index-the-most-comprehensive-annual-a
+- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 embedding_id: 2026-05-05-per-the-stanford-ai-index-agentic-ai-benchmarks-saw-the-most
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Per the Stanford AI Index, agentic AI benchmarks saw the most extreme capability
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-05-google-gemini-agentic-benchmark-performance-surges-deep-rese]] · [[2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute]] · [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-05-22-stanford-hai-s-2026-ai-index-the-most-comprehensive-annual-a]]
+**Related:** [[2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute]] · [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-05-22-stanford-hai-s-2026-ai-index-the-most-comprehensive-annual-a]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
 <!-- graph:end -->

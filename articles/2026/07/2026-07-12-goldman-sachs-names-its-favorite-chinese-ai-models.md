@@ -24,6 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on
+- 2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri
 - 2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
 embedding_id: 2026-07-12-goldman-sachs-names-its-favorite-chinese-ai-models
@@ -39,5 +40,5 @@ Goldman published research naming Zhipu as its top pick alongside DeepSeek and B
 
 **Entities:** [[ByteDance]] · [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on]] · [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]]
+**Related:** [[2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on]] · [[2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri]] · [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]]
 <!-- graph:end -->

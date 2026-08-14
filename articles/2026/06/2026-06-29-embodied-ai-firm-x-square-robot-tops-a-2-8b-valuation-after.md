@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021
-- 2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b
-- 2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r
-- 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
-- 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
+- 2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation
+- 2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10
+- 2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes
+- 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
 embedding_id: 2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Shenzhen-based X Square Robot disclosed four consecutive financing rounds culmin
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b]] · [[2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]]
+**Related:** [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation]] · [[2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10]] · [[2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]]
 <!-- graph:end -->

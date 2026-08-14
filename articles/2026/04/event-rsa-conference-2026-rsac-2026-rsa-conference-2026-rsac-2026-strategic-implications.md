@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-ai-as-opportunity-and
+- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents
 - 2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac
-- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-frontier-model-security
+- 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
 embedding_id: event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications
 event_name: RSA Conference 2026 / RSAC 2026
 ---
@@ -40,5 +40,5 @@ New security category: Agent security is becoming a standalone enterprise catego
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-ai-as-opportunity-and]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents]] · [[2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-frontier-model-security]]
+**Related:** [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-ai-as-opportunity-and]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents]] · [[2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]]
 <!-- graph:end -->

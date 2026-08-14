@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
 - 2026-08-12-openai-special-projects-lead-brad-lightcap-departing
 - 2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving
-- 2026-08-01-pitchbook-saas-pocalypse-enters-second-phase-as-ai-agents-re
+- 2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by
 embedding_id: 2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d
 event_name: ''
 ---
@@ -38,5 +38,5 @@ PitchBook has published a tracker mapping OpenAI’s ongoing leadership exodus a
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-08-12-openai-special-projects-lead-brad-lightcap-departing]] · [[2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving]] · [[2026-08-01-pitchbook-saas-pocalypse-enters-second-phase-as-ai-agents-re]]
+**Related:** [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-08-12-openai-special-projects-lead-brad-lightcap-departing]] · [[2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving]] · [[2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by]]
 <!-- graph:end -->

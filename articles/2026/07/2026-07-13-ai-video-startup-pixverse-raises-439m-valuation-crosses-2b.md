@@ -22,11 +22,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-13-pixverse-raises-439m-ai-video-valuation-crosses-2b
-- 2026-07-13-pixverse-raises-439m-as-ai-video-valuation-crosses-2b
 - 2026-07-13-video-generation-startup-pixverse-raises-439m-valuation-tops
-- 2026-07-14-pixverse-raises-439-million-as-valuation-passes-2-billion
+- 2026-07-13-pixverse-raises-439m-as-ai-video-valuation-crosses-2b
 - 2026-07-14-video-generation-startup-pixverse-raises-439m-at-a-2b-valuat
+- 2026-07-14-pixverse-raises-439-million-as-valuation-passes-2-billion
+- 2026-07-13-deepseek-chai-pixverse-and-nous-show-capital-shifting-across
 embedding_id: 2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Singapore-based PixVerse said it closed a Series C extension totaling $439 milli
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-13-pixverse-raises-439m-ai-video-valuation-crosses-2b]] · [[2026-07-13-pixverse-raises-439m-as-ai-video-valuation-crosses-2b]] · [[2026-07-13-video-generation-startup-pixverse-raises-439m-valuation-tops]] · [[2026-07-14-pixverse-raises-439-million-as-valuation-passes-2-billion]] · [[2026-07-14-video-generation-startup-pixverse-raises-439m-at-a-2b-valuat]]
+**Related:** [[2026-07-13-video-generation-startup-pixverse-raises-439m-valuation-tops]] · [[2026-07-13-pixverse-raises-439m-as-ai-video-valuation-crosses-2b]] · [[2026-07-14-video-generation-startup-pixverse-raises-439m-at-a-2b-valuat]] · [[2026-07-14-pixverse-raises-439-million-as-valuation-passes-2-billion]] · [[2026-07-13-deepseek-chai-pixverse-and-nous-show-capital-shifting-across]]
 <!-- graph:end -->

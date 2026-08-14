@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-06-xoople-raises-130m-series-b-to-build-ai-powered-earth-data-s
-- 2026-07-07-cost-compute-and-consolidation-set-the-tone
 - 2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic
 - 2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b
-- 2026-08-03-pitchbook-olix-raises-europe-s-largest-chip-round-for-optica
+- 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
+- 2026-07-07-cost-compute-and-consolidation-set-the-tone
+- 2026-07-30-nscale-to-acquire-anyscale-for-1-65b
 embedding_id: 2026-04-06-spanish-startup-xoople-closed-a-130-million-series-b-to-expa
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Spanish startup Xoople closed a $130 million Series B to expand its constellatio
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-06-xoople-raises-130m-series-b-to-build-ai-powered-earth-data-s]] · [[2026-07-07-cost-compute-and-consolidation-set-the-tone]] · [[2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic]] · [[2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b]] · [[2026-08-03-pitchbook-olix-raises-europe-s-largest-chip-round-for-optica]]
+**Related:** [[2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic]] · [[2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-07-07-cost-compute-and-consolidation-set-the-tone]] · [[2026-07-30-nscale-to-acquire-anyscale-for-1-65b]]
 <!-- graph:end -->

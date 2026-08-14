@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365
-- 2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
 - 2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop
+- 2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
 - 2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-model-in-gi
 - 2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-in-github-c
 embedding_id: 2026-07-09-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
@@ -40,5 +40,5 @@ OpenAI said GPT-5.6 will be the preferred model across M365 Copilot — Word, Ex
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365]] · [[2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]] · [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop]] · [[2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-model-in-gi]] · [[2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-in-github-c]]
+**Related:** [[2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365]] · [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop]] · [[2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]] · [[2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-model-in-gi]] · [[2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-in-github-c]]
 <!-- graph:end -->

@@ -21,9 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-11-there-has-been-a-seismic-change-since-then-and-not-solely-be
-- 2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure
 - 2026-07-11-of-the-pentagon-s-1-5-trillion-budget-request-for-next-year
-- 2026-07-17-keeping-ai-costs-in-check-hybrid-cloud-back-in-fashion-ai-ad
 - 2026-07-09-can-ai-answer-the-3-trillion-question
 embedding_id: 2026-07-11-that-sort-of-multiyear-government-contract-still-accounts-fo
 event_name: ''
@@ -37,5 +35,5 @@ That sort of multiyear government contract still accounts for a lot of military 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-11-there-has-been-a-seismic-change-since-then-and-not-solely-be]] · [[2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure]] · [[2026-07-11-of-the-pentagon-s-1-5-trillion-budget-request-for-next-year]] · [[2026-07-17-keeping-ai-costs-in-check-hybrid-cloud-back-in-fashion-ai-ad]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]]
+**Related:** [[2026-07-11-there-has-been-a-seismic-change-since-then-and-not-solely-be]] · [[2026-07-11-of-the-pentagon-s-1-5-trillion-budget-request-for-next-year]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]]
 <!-- graph:end -->

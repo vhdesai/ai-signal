@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-08-12-amazon-confirms-training-ai-on-twitch-livestreams-users-opte
 - 2026-08-12-anthropic-text-watermarks-trigger-backlash-amazon-twitch-set
 - 2026-07-06-if-you-use-google-you-re-training-its-ai-here-s-how-to-opt-o
+- 2026-07-07-liquid-ai-open-sources-antidoom-to-eliminate-reasoning-doom
 embedding_id: 2026-08-13-twitch-opts-all-streamers-into-amazon-ai-training-by-default
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Amazon enrolled Twitch's streamer base into generative AI training by default 鈥
 
 **Entities:** [[Amazon]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-12-amazon-confirms-training-ai-on-twitch-livestreams-users-opte]] 路 [[2026-08-12-anthropic-text-watermarks-trigger-backlash-amazon-twitch-set]] 路 [[2026-07-06-if-you-use-google-you-re-training-its-ai-here-s-how-to-opt-o]]
+**Related:** [[2026-08-12-amazon-confirms-training-ai-on-twitch-livestreams-users-opte]] 路 [[2026-08-12-anthropic-text-watermarks-trigger-backlash-amazon-twitch-set]] 路 [[2026-07-06-if-you-use-google-you-re-training-its-ai-here-s-how-to-opt-o]] 路 [[2026-07-07-liquid-ai-open-sources-antidoom-to-eliminate-reasoning-doom]]
 <!-- graph:end -->

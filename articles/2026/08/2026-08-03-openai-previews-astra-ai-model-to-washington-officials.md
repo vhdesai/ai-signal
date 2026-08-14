@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-03-openai-previews-astra-to-washington-officials-before-public
-- 2026-08-03-openai-previews-astra-model-to-washington-officials
-- 2026-08-03-the-information-2026-08-03-external-exclusive-openai-preview
 - 2026-08-03-openai-s-unreleased-astra-model-reports-advances-on-10-long
 - 2026-08-09-openai-pauses-astra-after-it-nears-first-ever-critical-cyber
+- 2026-08-07-openai-slows-astra-development-after-cyber-evaluations-flag
+- 2026-08-10-openai-tightens-controls-on-its-astra-model-over-cybersecuri
+- 2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling
 embedding_id: 2026-08-03-openai-previews-astra-ai-model-to-washington-officials
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI has begun privately previewing a new AI model called Astra to policymaker
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-openai-previews-astra-to-washington-officials-before-public]] · [[2026-08-03-openai-previews-astra-model-to-washington-officials]] · [[2026-08-03-the-information-2026-08-03-external-exclusive-openai-preview]] · [[2026-08-03-openai-s-unreleased-astra-model-reports-advances-on-10-long]] · [[2026-08-09-openai-pauses-astra-after-it-nears-first-ever-critical-cyber]]
+**Related:** [[2026-08-03-openai-s-unreleased-astra-model-reports-advances-on-10-long]] · [[2026-08-09-openai-pauses-astra-after-it-nears-first-ever-critical-cyber]] · [[2026-08-07-openai-slows-astra-development-after-cyber-evaluations-flag]] · [[2026-08-10-openai-tightens-controls-on-its-astra-model-over-cybersecuri]] · [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]]
 <!-- graph:end -->

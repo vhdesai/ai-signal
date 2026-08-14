@@ -20,9 +20,14 @@ themes:
 - datacenter-infrastructure
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-05-09-openai-broadcom-18b-project-nexus-chip-deal-stalls-microsoft
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent
+- 2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c
+- 2026-06-24-openai-and-broadcom-unveil-jalape-o-their-first-custom-ai-in
+- 2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r
+- 2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it
 embedding_id: 2026-05-09-openai-s-18-billion-custom-ai-chip-initiative-with-broadcom
 event_name: ''
 ---
@@ -36,5 +41,5 @@ OpenAI's $18 billion custom AI chip initiative with Broadcom — code-named Proj
 
 **Entities:** [[Microsoft]] · [[OpenAI]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Canonical:** [[2026-05-09-openai-broadcom-18b-project-nexus-chip-deal-stalls-microsoft]]
+**Related:** [[2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent]] · [[2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c]] · [[2026-06-24-openai-and-broadcom-unveil-jalape-o-their-first-custom-ai-in]] · [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]] · [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]]
 <!-- graph:end -->

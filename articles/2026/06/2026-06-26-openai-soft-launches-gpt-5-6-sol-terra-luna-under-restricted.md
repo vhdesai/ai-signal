@@ -22,8 +22,10 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-06-26-openai-previews-gpt-5-6-sol-terra-luna-but-only-for-governme
-related_article_ids: []
+canonical_article_id: 2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-luna-in-a-limit
+related_article_ids:
+- 2026-07-09-openai-launches-gpt-5-6-family-sol-terra-luna-to-general-ava
+- 2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi
 embedding_id: 2026-06-26-openai-soft-launches-gpt-5-6-sol-terra-luna-under-restricted
 event_name: ''
 ---
@@ -37,5 +39,6 @@ OpenAI began a limited preview of its GPT-5.6 series — flagship Sol, balanced 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Canonical:** [[2026-06-26-openai-previews-gpt-5-6-sol-terra-luna-but-only-for-governme]]
+**Canonical:** [[2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-luna-in-a-limit]]
+**Related:** [[2026-07-09-openai-launches-gpt-5-6-family-sol-terra-luna-to-general-ava]] · [[2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi]]
 <!-- graph:end -->

@@ -20,11 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent
-- 2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
-- 2026-04-03-openai-shifts-codex-to-usage-based-pricing-for-business-and
+- 2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on
+- 2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses
 embedding_id: 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 event_name: ''
 ---
@@ -38,5 +37,5 @@ OpenAI published research on how enterprises are adopting agentic AI, focusing o
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]] · [[2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-04-03-openai-shifts-codex-to-usage-based-pricing-for-business-and]]
+**Related:** [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on]] · [[2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses]]
 <!-- graph:end -->

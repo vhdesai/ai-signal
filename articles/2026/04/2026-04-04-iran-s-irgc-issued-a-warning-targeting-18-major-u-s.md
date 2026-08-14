@@ -29,10 +29,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-02-iran-s-islamic-revolutionary-guard-corps-declared-18-america
-- 2026-04-04-iran-s-irgc-threatens-18-u-s-tech-firms-including-microsoft
-- 2026-04-02-iran-s-irgc-threatens-ai-and-tech-companies-including-nvidia
 - 2026-04-02-breaking-irgc-threatens-18-ai-technology-firms-apr-1-iran-s
 - 2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani
+- 2026-04-06-google-deepmind-researchers-published-a-significant-security
+- 2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th
 embedding_id: 2026-04-04-iran-s-irgc-issued-a-warning-targeting-18-major-u-s
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Iran's IRGC issued a warning targeting 18 major U.S. technology companies—incl
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Google]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[Oracle]] · [[Palantir]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-02-iran-s-islamic-revolutionary-guard-corps-declared-18-america]] · [[2026-04-04-iran-s-irgc-threatens-18-u-s-tech-firms-including-microsoft]] · [[2026-04-02-iran-s-irgc-threatens-ai-and-tech-companies-including-nvidia]] · [[2026-04-02-breaking-irgc-threatens-18-ai-technology-firms-apr-1-iran-s]] · [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani]]
+**Related:** [[2026-04-02-iran-s-islamic-revolutionary-guard-corps-declared-18-america]] · [[2026-04-02-breaking-irgc-threatens-18-ai-technology-firms-apr-1-iran-s]] · [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani]] · [[2026-04-06-google-deepmind-researchers-published-a-significant-security]] · [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th]]
 <!-- graph:end -->

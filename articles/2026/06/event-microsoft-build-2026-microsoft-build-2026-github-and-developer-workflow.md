@@ -24,8 +24,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- event-microsoft-build-2026-microsoft-build-2026-overview
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent
+- event-microsoft-build-2026-microsoft-build-2026-overview
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
@@ -42,5 +42,5 @@ GitHub Copilot app: Preview of a native desktop app for agentic development. It 
 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]]
+**Related:** [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent]] · [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]]
 <!-- graph:end -->

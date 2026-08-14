@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea
 - 2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu
 - 2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea
-- 2026-05-02-may-1-2026-apple-ml-research
 - 2026-05-12-apple-releases-ppml-2026-workshop-recordings-on-privacy-pres
+- 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
 embedding_id: 2026-04-20-apple-ml-research-april-17-2026-apple-announced-a-slate-of-a
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Apple ML Research • April 17, 2026 Apple announced a slate of accepted papers 
 
 **Entities:** [[Apple]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea]] · [[2026-05-02-may-1-2026-apple-ml-research]] · [[2026-05-12-apple-releases-ppml-2026-workshop-recordings-on-privacy-pres]]
+**Related:** [[2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea]] · [[2026-05-12-apple-releases-ppml-2026-workshop-recordings-on-privacy-pres]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]]
 <!-- graph:end -->

@@ -19,8 +19,8 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-07-10-sk-hynix-raises-26-5b-in-the-largest-ever-foreign-u-s-ipo
+dedupe_status: canonical
+canonical_article_id: null
 related_article_ids:
 - 2026-07-11-sk-hynix-surges-13-in-nasdaq-debut
 - 2026-07-09-sk-hynix-prices-u-s-listing-at-149-share-and-debuts-on-nasda
@@ -38,6 +38,5 @@ SK hynix's ADRs jumped ~13% on Nasdaq debut, opening at $170 vs $149 offer — i
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Canonical:** [[2026-07-10-sk-hynix-raises-26-5b-in-the-largest-ever-foreign-u-s-ipo]]
 **Related:** [[2026-07-11-sk-hynix-surges-13-in-nasdaq-debut]] · [[2026-07-09-sk-hynix-prices-u-s-listing-at-149-share-and-debuts-on-nasda]] · [[2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet]]
 <!-- graph:end -->

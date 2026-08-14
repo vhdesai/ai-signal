@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
 - 2026-04-02-trending-q1-2026-vc-breaks-300b-record-apr-1-global-venture
 - 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
-- 2026-04-10-q1-2026-ai-vc-funding-breaks-all-records-242b-80-of-global-v
+- 2026-07-30-top-ai-venture-portfolios-reach-7-trillion-as-market-concent
 embedding_id: 2026-04-10-crunchbase-data-confirmed-q1-2026-as-the-largest-venture-cap
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Crunchbase data confirmed Q1 2026 as the largest venture capital quarter in hist
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
-**Related:** [[2026-04-01-global-venture-investment-reached-297-billion-in-q1-2026-up]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-04-02-trending-q1-2026-vc-breaks-300b-record-apr-1-global-venture]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-04-10-q1-2026-ai-vc-funding-breaks-all-records-242b-80-of-global-v]]
+**Related:** [[2026-04-01-global-venture-investment-reached-297-billion-in-q1-2026-up]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-04-02-trending-q1-2026-vc-breaks-300b-record-apr-1-global-venture]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-07-30-top-ai-venture-portfolios-reach-7-trillion-as-market-concent]]
 <!-- graph:end -->

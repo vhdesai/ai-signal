@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-anthropic-launches-claude-design-for-visual-collaboration
 - 2026-05-23-claude-design-is-a-new-product-from-anthropic-labs-that-enab
-- 2026-05-23-anthropic-launches-claude-design-visual-collaboration-produc
 - 2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a
 - 2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en
+- 2026-07-11-claude-opus-4-7-is-now-generally-available
 embedding_id: 2026-04-20-anthropic-april-17-2026-anthropic-unveiled-claude-design-a-s
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic • April 17, 2026 Anthropic unveiled Claude Design, a set of creative
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-18-anthropic-launches-claude-design-for-visual-collaboration]] · [[2026-05-23-claude-design-is-a-new-product-from-anthropic-labs-that-enab]] · [[2026-05-23-anthropic-launches-claude-design-visual-collaboration-produc]] · [[2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a]] · [[2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en]]
+**Related:** [[2026-05-18-anthropic-launches-claude-design-for-visual-collaboration]] · [[2026-05-23-claude-design-is-a-new-product-from-anthropic-labs-that-enab]] · [[2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a]] · [[2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en]] · [[2026-07-11-claude-opus-4-7-is-now-generally-available]]
 <!-- graph:end -->

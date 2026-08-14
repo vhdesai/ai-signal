@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
+- 2026-08-01-hank-green-says-his-ai-usage-is-not-healthy-highlighting-cre
 - 2026-05-03-ai-generated-actors-and-scripts-now-ineligible-for-oscar-nom
 - 2026-04-16-a-northern-district-of-california-ruling-found-that-when-a-s
 embedding_id: 2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c
@@ -38,5 +39,5 @@ Axios reports that any suggestion of generative AI use has become a severe reput
 
 **Entities:** [[Amazon]] · [[Databricks]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-05-03-ai-generated-actors-and-scripts-now-ineligible-for-oscar-nom]] · [[2026-04-16-a-northern-district-of-california-ruling-found-that-when-a-s]]
+**Related:** [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-08-01-hank-green-says-his-ai-usage-is-not-healthy-highlighting-cre]] · [[2026-05-03-ai-generated-actors-and-scripts-now-ineligible-for-oscar-nom]] · [[2026-04-16-a-northern-district-of-california-ruling-found-that-when-a-s]]
 <!-- graph:end -->

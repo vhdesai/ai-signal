@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-25-scope-only-items-confirmed-published-june-24-25-2026-last-24
 - 2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co
 - 2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w
-- 2026-07-02-this-digest-covers-ai-news-and-research-confirmed-published
+- 2026-06-26-compiled-june-26-2026-every-item-was-confirmed-published-wit
+- 2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours
 embedding_id: 2026-06-25-no-items-met-the-strict-24-hour-publication-bar
 event_name: ''
 ---
@@ -35,5 +35,5 @@ No items met the strict 24-hour publication bar. Notable June policy stories —
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-25-scope-only-items-confirmed-published-june-24-25-2026-last-24]] · [[2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co]] · [[2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w]] · [[2026-07-02-this-digest-covers-ai-news-and-research-confirmed-published]]
+**Related:** [[2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co]] · [[2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w]] · [[2026-06-26-compiled-june-26-2026-every-item-was-confirmed-published-wit]] · [[2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours]]
 <!-- graph:end -->

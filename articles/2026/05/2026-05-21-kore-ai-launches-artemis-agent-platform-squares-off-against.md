@@ -26,8 +26,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-15-mistral-ai-s-vibe-remote-agents-powered-by-its-new-medium-3
-- 2026-05-28-weave-launches-ai-receptionist-on-google-gemini-enterprise-a
 - 2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma
+- 2026-05-28-weave-launches-ai-receptionist-on-google-gemini-enterprise-a
 - 2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen
 embedding_id: 2026-05-21-kore-ai-launches-artemis-agent-platform-squares-off-against
 event_name: ''
@@ -42,5 +42,5 @@ Kore.ai's Artemis platform enters a crowded enterprise-agent infrastructure fiel
 
 **Entities:** [[Google]] · [[Microsoft]] · [[Salesforce]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-15-mistral-ai-s-vibe-remote-agents-powered-by-its-new-medium-3]] · [[2026-05-28-weave-launches-ai-receptionist-on-google-gemini-enterprise-a]] · [[2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma]] · [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]]
+**Related:** [[2026-05-15-mistral-ai-s-vibe-remote-agents-powered-by-its-new-medium-3]] · [[2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma]] · [[2026-05-28-weave-launches-ai-receptionist-on-google-gemini-enterprise-a]] · [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]]
 <!-- graph:end -->

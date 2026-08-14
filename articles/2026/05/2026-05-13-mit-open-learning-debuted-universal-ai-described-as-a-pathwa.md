@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-12-mit-launches-universal-ai-ai-powered-education-program-acces
-- 2026-05-13-mit-open-learning-launches-universal-ai-a-free-personalized
 - 2026-03-28-mit-researchers-published-findings-on-a-new-training-approac
 - 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
 - 2026-05-23-cmu-launches-learnvia-and-convenes-global-science-diplomacy
+- 2026-05-11-openai-launches-campus-network-global-student-ai-ambassador
 embedding_id: 2026-05-13-mit-open-learning-debuted-universal-ai-described-as-a-pathwa
 event_name: ''
 ---
@@ -35,5 +35,5 @@ MIT Open Learning debuted Universal AI, described as "a pathway to AI fluency th
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-12-mit-launches-universal-ai-ai-powered-education-program-acces]] · [[2026-05-13-mit-open-learning-launches-universal-ai-a-free-personalized]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]] · [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i]] · [[2026-05-23-cmu-launches-learnvia-and-convenes-global-science-diplomacy]]
+**Related:** [[2026-05-12-mit-launches-universal-ai-ai-powered-education-program-acces]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]] · [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i]] · [[2026-05-23-cmu-launches-learnvia-and-convenes-global-science-diplomacy]] · [[2026-05-11-openai-launches-campus-network-global-student-ai-ambassador]]
 <!-- graph:end -->

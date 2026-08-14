@@ -18,10 +18,14 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-04-02-anthropic-accidentally-leaks-claude-code-source-takes-down-g
+dedupe_status: canonical
+canonical_article_id: null
 related_article_ids:
 - 2026-04-02-breaking-anthropic-source-code-leaked-apr-1-2-portions-of-an
+- 2026-04-03-anthropic-is-in-damage-control-mode-after-source-code-for-it
+- 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
+- 2026-04-01-anthropic-s-claude-code-platform-experienced-a-significant-s
+- 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 embedding_id: 2026-04-02-anthropic-s-claude-code-source-code-was-leaked-prompting-the
 event_name: ''
 ---
@@ -35,6 +39,5 @@ Anthropic's Claude Code source code was leaked, prompting the company to take do
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-04-02-anthropic-accidentally-leaks-claude-code-source-takes-down-g]]
-**Related:** [[2026-04-02-breaking-anthropic-source-code-leaked-apr-1-2-portions-of-an]]
+**Related:** [[2026-04-02-breaking-anthropic-source-code-leaked-apr-1-2-portions-of-an]] · [[2026-04-03-anthropic-is-in-damage-control-mode-after-source-code-for-it]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]] · [[2026-04-01-anthropic-s-claude-code-platform-experienced-a-significant-s]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]]
 <!-- graph:end -->

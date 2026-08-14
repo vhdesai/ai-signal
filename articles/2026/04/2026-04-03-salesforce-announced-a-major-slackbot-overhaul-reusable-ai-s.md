@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-10-salesforce-announced-a-major-slackbot-upgrade-adding-30-new
 - 2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o
-- 2026-04-03-salesforce-transforms-slackbot-into-autonomous-work-assistan
-- 2026-04-04-salesforce-overhauls-slack-with-30-new-ai-features-slackbot
+- 2026-04-02-new-salesforce-adds-30-ai-features-to-slack-apr-1-salesforce
+- 2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts
 embedding_id: 2026-04-03-salesforce-announced-a-major-slackbot-overhaul-reusable-ai-s
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Salesforce announced a major Slackbot overhaul: reusable AI skills, Model Contex
 
 **Entities:** [[Microsoft]] · [[Salesforce]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-10-salesforce-announced-a-major-slackbot-upgrade-adding-30-new]] · [[2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o]] · [[2026-04-03-salesforce-transforms-slackbot-into-autonomous-work-assistan]] · [[2026-04-04-salesforce-overhauls-slack-with-30-new-ai-features-slackbot]]
+**Related:** [[2026-04-10-salesforce-announced-a-major-slackbot-upgrade-adding-30-new]] · [[2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o]] · [[2026-04-02-new-salesforce-adds-30-ai-features-to-slack-apr-1-salesforce]] · [[2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts]]
 <!-- graph:end -->

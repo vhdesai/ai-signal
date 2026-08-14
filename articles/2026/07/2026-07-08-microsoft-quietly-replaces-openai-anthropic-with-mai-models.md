@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-08-microsoft-quietly-replaces-partner-models-with-mai-models-in
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house
 - 2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc
-- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
+- 2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int
 embedding_id: 2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-mai-models
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Tens of thousands of AI prompts per week in Excel and Outlook are now handled by
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-08-microsoft-quietly-replaces-partner-models-with-mai-models-in]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]] · [[2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]]
+**Related:** [[2026-07-08-microsoft-quietly-replaces-partner-models-with-mai-models-in]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]] · [[2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc]] · [[2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int]]
 <!-- graph:end -->

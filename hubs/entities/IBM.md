@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 141
+member_count: 118
 ---
 
 # IBM
 
-> Auto-generated entity hub. 141 connected article(s).
+> Auto-generated entity hub. 118 connected article(s).
 
 - `2026-08-13` [[2026-08-13-openai-replaces-cro-after-nine-months-hires-wiz-coo-dali-raj|OpenAI Replaces CRO After Nine Months, Hires Wiz COO Dali Rajic]]
 - `2026-08-13` [[2026-08-13-ibm-partners-with-openai-to-accelerate-its-enterprise-ai-pus|IBM partners with OpenAI to accelerate its enterprise AI push]]
@@ -23,7 +23,6 @@ member_count: 141
 - `2026-08-11` [[2026-08-11-ibm-and-together-ai-sign-240m-deal-for-an-nvidia-powered-inf|IBM and Together AI Sign $240M Deal for an Nvidia-Powered Inference Cluster]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-10` [[2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d|OpenAI expands its Daybreak Cyber Partner Program to major defenders]]
-- `2026-08-10` [[2026-08-10-openai-expands-daybreak-cyber-partner-program-to-major-defen|OpenAI expands Daybreak Cyber Partner Program to major defenders]]
 - `2026-08-10` [[2026-08-10-openai-launches-gpt-5-6-cyber-and-expands-daybreak-cyber-def|OpenAI Launches GPT-5.6-Cyber and Expands Daybreak Cyber Defense Service]]
 - `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
 - `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]
@@ -32,7 +31,6 @@ member_count: 141
 - `2026-08-06` [[2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights|Rep. Ro Khanna to introduce a “Data Center Bill of Rights”]]
 - `2026-08-06` [[2026-08-06-openai-partners-with-the-american-psychological-association|OpenAI partners with the American Psychological Association on youth mental health]]
 - `2026-08-06` [[2026-08-06-ibm-launches-apptio-ai-value-roi-to-connect-ai-spend-to-busi|IBM launches Apptio AI Value & ROI to connect AI spend to business results]]
-- `2026-08-05` [[2026-08-05-coverage-note-no-items-with-a-confirmed-publication-date-ins|Coverage note: No items with a confirmed publication date inside the 24-hour window were found for Google/DeepMind, Meta, Apple, IBM, Cerebras, Databricks, Mistral, Replit, Tencent, Baidu, Alibaba, Huawei, SenseTime or DeepSeek, or from BAIR, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin and UC San Diego. Absence indicates nothing date-verified in the window, not an absence of activity. Several aggregator items dated August 4 were traced to older originals and excluded; Palantir Q2 earnings and DeepSeek V4-Flash fell just outside the window (August 3).]]
 - `2026-08-04` [[2026-08-04-red-hat-launches-asago-community-to-automate-ai-governance-f|Red Hat Launches Asago Community to Automate AI Governance From Policy to Runtime]]
 - `2026-08-04` [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g|Open-weight models close the frontier gap while the safety gap persists]]
 - `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
@@ -44,22 +42,12 @@ member_count: 141
 - `2026-07-29` [[2026-07-29-ibm-s-2026-cost-of-a-data-breach-report-ai-now-appears-in-on|IBM’s 2026 Cost of a Data Breach Report: AI now appears in one in four malicious breaches]]
 - `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
 - `2026-07-29` [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o|Gartner's 2026 Cloud AI Infrastructure MQ names AWS, Google, Oracle, Microsoft as leaders]]
-- `2026-07-28` [[2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla|Cursor patches a high-severity Git remote-code-execution flaw (CVE-2026-63093)]]
 - `2026-07-27` [[2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu|Nvidia, Microsoft, SpaceX, Palantir and IBM launch an “Open Secure AI Alliance” — without OpenAI, Google or Anthropic]]
 - `2026-07-27` [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance|NVIDIA and partners launch Open Secure AI Alliance]]
 - `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
 - `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
-- `2026-07-23` [[2026-07-23-google-cloud-growth-and-alphabet-capex-ibm-mainframe-capex-p|Google Cloud growth and Alphabet capex; IBM mainframe/capex pressure; ServiceNow BusinessNext; Monday.com AI…]]
 - `2026-07-23` [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be|Capex Outpaces the Frontier: Alphabet's Guide and OpenAI's Bet]]
-- `2026-07-23` [[2026-07-23-alphabet-cloud-growth-and-capex-ibm-s-ai-hardware-pressure-s|Alphabet cloud growth and capex; IBM's AI hardware pressure; ServiceNow BusinessNext; Monday.com restructuring]]
-- `2026-07-22` [[2026-07-22-ibm-says-ai-hardware-cost-pressure-delayed-mainframe-purchas|IBM says AI hardware cost pressure delayed mainframe purchases]]
-- `2026-07-22` [[2026-07-22-ibm-insists-ai-isn-t-killing-the-mainframe-after-a-shocking|IBM insists AI isn't killing the mainframe after a shocking quarter]]
 - `2026-07-22` [[2026-07-22-daily-ai-news-digest-july-23-2026|Daily AI News Digest – July 23, 2026]]
-- `2026-07-17` [[2026-07-17-wall-street-journal-wsj-2026-07-17-external-the-10-point-how|Wall Street Journal / WSJ - [2026-07-17] [EXTERNAL] The 10-Point: How IBM's Bold Bet Backfired on Wall Street -…]]
-- `2026-07-17` [[2026-07-17-apple-nvidia-market-cap-shift-ibm-ai-spending-scrutiny-nvidi|Apple/Nvidia market-cap shift; IBM AI-spending scrutiny; Nvidia/Apple watchlist alerts; cyber M&A and data-breach…]]
-- `2026-07-15` [[2026-07-15-ibm-shares-plunge-roughly-24-25-after-q2-warning-as-enterpri|IBM shares plunge roughly 24-25% after Q2 warning as enterprise spend shifts from software/mainframes toward AI hardware]]
-- `2026-07-15` [[2026-07-15-dealbook-andrew-ross-sorkin-nyt-2026-07-15-external-dealbook|DealBook (Andrew Ross Sorkin / NYT) - [2026-07-15] [EXTERNAL] DealBook: IBM's canary in the coal mine?]]
-- `2026-07-15` [[2026-07-15-cio-dive-daily-dive-2026-07-15-external-july-15-what-ibm-s-w|CIO Dive / Daily Dive - [2026-07-15] [EXTERNAL] July 15 - What IBM's warning really means | ROI on AI rises]]
 - `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
 - `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
@@ -68,17 +56,13 @@ member_count: 141
 - `2026-07-09` [[2026-07-09-companies-blogs-nvidia-google-deepmind-openai-anthropic-mist|Companies & blogs: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras,…]]
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
-- `2026-07-05` [[2026-07-05-companies-nvidia-google-alphabet-deepmind-openai-anthropic-m|Companies: Nvidia, Google (Alphabet/DeepMind), OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
 - `2026-07-04` [[2026-07-04-companies-blogs-nvidia-google-deepmind-openai-anthropic-mist|Companies & blogs: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras,…]]
-- `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
 - `2026-07-02` [[2026-07-02-sources-scanned-companies-nvidia-google-deepmind-openai-anth|Sources scanned — Companies: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
 - `2026-06-30` [[2026-06-30-sources-scanned-companies-nvidia-google-alphabet-deepmind-op|Sources scanned: Companies — Nvidia, Google / Alphabet / DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta,…]]
 - `2026-06-30` [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i|MIT's Phillip Isola on what agentic AI is — and what we want it to be]]
 - `2026-06-29` [[2026-06-29-wimbledon-rolls-out-new-ibm-ai-features-for-live-match-cover|Wimbledon rolls out new IBM AI features for live match coverage]]
-- `2026-06-29` [[2026-06-29-wimbledon-adds-ibm-ai-tools-match-chat-upgrade-key-moments-s|Wimbledon adds IBM AI tools — Match Chat upgrade, "Key Moments," Slamtracker AI News (artificialintelligence-news.com)…]]
 - `2026-06-29` [[2026-06-29-the-all-england-club-rolled-out-new-ibm-built-ai-features-ac|The All England Club rolled out new IBM-built AI features across the Wimbledon app and website as first-round matches…]]
 - `2026-06-29` [[2026-06-29-sources-scanned-companies-nvidia-google-deepmind-openai-anth|Sources scanned — Companies: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
-- `2026-06-29` [[2026-06-29-ibm-unveils-the-world-s-first-sub-1-nanometer-chip-technolog|IBM unveils the world's first sub‑1‑nanometer chip technology Ummid / Engadget • June 29, 2026]]
 - `2026-06-29` [[2026-06-29-ibm-introduced-what-it-bills-as-the-first-sub-1nm-chip-built|IBM introduced what it bills as the first sub‑1nm chip, built on a new transistor architecture at the 0.7nm…]]
 - `2026-06-28` [[2026-06-28-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu|Companies: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras,…]]
 - `2026-06-27` [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a|Sources scanned — Official blogs: OpenAI, Google DeepMind, Meta AI, Apple ML Research, BAIR]]
@@ -88,9 +72,7 @@ member_count: 141
 - `2026-06-25` [[2026-06-25-ibm-claims-first-sub-1nm-transistor-a-0-7nm-nanostack-archit|IBM claims first sub-1nm transistor — a 0.7nm "nanostack" architecture]]
 - `2026-06-23` [[2026-06-23-openai-ships-full-gpt-5-5-cyber-and-expands-its-daybreak-sec|OpenAI ships full GPT-5.5-Cyber and expands its Daybreak security program]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
-- `2026-06-12` [[2026-06-12-cio-dive-2026-06-12-external-june-12-rising-ai-costs-push-ve|CIO Dive - [2026-06-12] [EXTERNAL] June 12 - Rising AI costs push vendors to act | ServiceNow, IBM target legacy IT]]
 - `2026-06-08` [[2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap|IBM Study Finds a Widening Enterprise "AI Control Gap"]]
-- `2026-06-04` [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership|IBM and Google Cloud Announce Strategic AI Partnership]]
 - `2026-05-28` [[2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts|MIT to Establish Regional Quantum Hub With $25M Massachusetts Investment]]
 - `2026-05-27` [[2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s|IBM and Red Hat pledge $5 billion for AI-driven open-source security initiative]]
 - `2026-05-26` [[2026-05-26-scuderia-ferrari-is-using-ibm-s-ai-stack-to-generate-hyper-p|Scuderia Ferrari is using IBM's AI stack to generate hyper-personalized content and engagement layers for its Formula 1…]]
@@ -98,7 +80,6 @@ member_count: 141
 - `2026-05-26` [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen|Nvidia, Oracle, and Palantir Trade Higher on AI Backlog Commentary]]
 - `2026-05-26` [[2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation|New Modal Labs raises $355M Series C at $4.65B valuation]]
 - `2026-05-26` [[2026-05-26-musk-warns-of-ai-extinction-risk-in-openai-courtroom-battle|Musk warns of AI extinction risk in OpenAI courtroom battle]]
-- `2026-05-26` [[2026-05-26-ferrari-deploys-ibm-ai-to-build-personalized-f1-fan-experien|Ferrari deploys IBM AI to build personalized F1 fan experiences]]
 - `2026-05-25` [[2026-05-25-ibm-launches-bob-an-ai-platform-to-govern-sdlc-costs|IBM Launches "Bob" — an AI Platform to Govern SDLC Costs]]
 - `2026-05-24` [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter|Enterprise AI-restructuring signals broaden: Standard Chartered cuts, Meta reorgs 7,000+ into AI teams]]
 - `2026-05-23` [[2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down|Microsoft Is Worst Magnificent Seven Performer of 2026 — Down ~13% YTD Despite Doubled AI Revenue]]
@@ -114,7 +95,6 @@ member_count: 141
 - `2026-05-21` [[2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl|Cornell / UC Berkeley: 1 in 3 College Students Uses AI to Complete Assignments; 9% Cheat  Hot]]
 - `2026-05-20` [[2026-05-20-ibm-expands-ai-security-portfolio-partners-with-anthropic-on|IBM expands AI security portfolio; partners with Anthropic on Project Glasswing open-source hardening]]
 - `2026-05-19` [[2026-05-19-mit-csail-why-you-can-t-just-swap-humans-for-ai-q-a-with-pro|MIT CSAIL: "Why You Can't Just Swap Humans for AI" — Q&A with Prof. Armando Solar-Lezama]]
-- `2026-05-19` [[2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new|Also checked (no qualifying 24h items found): BAIR Blog · MIT News AI · Apple ML Research · Google DeepMind Blog · Meta AI Blog · The Batch (DeepLearning.AI) · Machine Learning Mastery · DigitalOcean AI Blog · Stanford HAI · Princeton · Purdue · Georgia Tech · UW Allen School · UT Austin · IBM · Oracle · Palantir · Databricks · Mistral · DeepSeek · Baidu · Alibaba · Huawei · SenseTime · Replit]]
 - `2026-05-17` [[2026-05-17-pwc-announced-a-major-deployment-of-claude-to-build-technolo|PwC announced a major deployment of Claude to build technology, execute deals, and reinvent enterprise functions for…]]
 - `2026-05-16` [[2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model|GPT-5.5 Instant Becomes ChatGPT's Default Model]]
 - `2026-05-15` [[2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation|The Batch (DeepLearning.AI): China-Meta Policy, CAISI Evaluations, AI Mammogram Diagnosis]]
@@ -122,9 +102,7 @@ member_count: 141
 - `2026-05-14` [[2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi|IBM Launches Red Hat AI Inference Server and OpenShift AI Virtualization]]
 - `2026-05-13` [[2026-05-13-forum-ai-campbell-brown-s-benchmark-platform-tests-foundatio|Forum AI: Campbell Brown's Benchmark Platform Tests Foundation Models on Contested High-Stakes Domains]]
 - `2026-05-12` [[2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio|Palantir CEO Alex Karp meets Zelenskyy; deepens AI cooperation with Ukraine]]
-- `2026-05-12` [[2026-05-12-companies-nvidia-google-deepmind-openai-anthropic-mistral-me|Companies: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Meta, Apple, Amazon, Cerebras, IBM, Baidu, Alibaba, Palantir, Sakana AI, Tilde Research · News: TechCrunch AI, VentureBeat AI, The Hacker News, Bloomberg, Reuters, Forbes, CNBC, CRN, Decrypt, Motley Fool, SCMP, India Today, Gizmodo, The Next Web, Inc., MarkTechPost · Research: arXiv cs.AI, MIT Technology Review, Stanford HAI, NVIDIA Blog, The Neuron Daily, METR, Google Cloud Blog (GTIG) · No confirmed May 11–12 items: Mistral Blog, Replit, Databricks, Huawei, SenseTime, Cursor, DeepSeek, BAIR Blog, Apple ML Research Blog, MIT News, The Batch (DeepLearning.AI), Princeton AI, UT Austin, Georgia Tech, UCSD, Purdue]]
 - `2026-05-09` [[2026-05-09-newnvidia-launches-nvidia-ising-world-s-first-open-source-qu|NewNvidia Launches "Nvidia Ising" — World's First Open-Source Quantum AI Models]]
-- `2026-05-06` [[2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o|new IBM IBV study of global CEOs found that 76% of surveyed organizations now have a Chief AI Officer role, compared to just 26% a year ago. The survey reflects a rapid institutionalization of AI governance at the C-suite level, as companies move from AI pilots to enterprise-wide deployment programs. CEOs cited the accelerating pace of model releases, agentic AI expansion, and regulatory compliance pressure as the key drivers. IBM presented the findings at Think 2026 alongside a broader thesis that the "AI divide"—the gap between companies that have operationalized AI and those still experimenting—is widening at an accelerating rate.]]
 - `2026-05-06` [[2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a|NewIBM Consulting Expands Enterprise Advantage AI Platform at IBM Think 2026]]
 - `2026-05-05` [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training|Meta Copyright Lawsuit Elevates CEO Liability in AI Training Data Governance Trending]]
 - `2026-05-05` [[2026-05-05-itron-hack-reaches-more-downstream-companies-than-initially|Itron hack reaches more downstream companies than initially disclosed]]
@@ -147,5 +125,4 @@ member_count: 141
 - `2026-04-02` [[2026-04-02-iran-s-islamic-revolutionary-guard-corps-declared-18-america|Iran's Islamic Revolutionary Guard Corps declared 18 American and Gulf technology companies "legitimate military…]]
 - `2026-04-02` [[2026-04-02-apple-is-reportedly-pivoting-its-ai-strategy-to-deeply-integ|Apple is reportedly pivoting its AI strategy to deeply integrate third-party foundation models — including Anthropic's Claude and Google's Gemini — directly into Siri and iOS 27, following an internal acknowledgment that Apple Intelligence models lag behind competitors. The design would allow Siri to route complex queries to best-in-class external models while maintaining Apple's on-device privacy architecture for sensitive tasks. This marks a significant departure from Apple's historically siloed approach and signals that even the most proprietary tech giant has concluded open partnerships outcompete internal development in the current AI climate.]]
 - `2026-04-01` [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani|Iran's IRGC declared 18 American and Gulf technology companies "legitimate military targets" for their Middle East operations, citing AI and cloud infrastructure as central to U.S.-Israeli targeting intelligence. Named targets include Apple, Google, Meta, Microsoft, Nvidia, Oracle, IBM, Palantir, Intel, Cisco, HP, Dell, Boeing, Tesla, GE, J.P. Morgan, and UAE AI firm G42. Iran struck AWS data centers in the UAE in March causing cloud outages. Healix CEO: "Tech assets are now treated as part of the conflict, not peripheral to it." This creates a direct geopolitical risk category for AI infrastructure across the Gulf.]]
-- `2026-03-30` [[2026-03-30-the-information-logo-martin-peers-headshot-by-martin-peers-s|The Information logo - Martin Peers headshot - By Martin Peers - Sponsor Logo - revealed today - today’s episode of…]]
 - [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

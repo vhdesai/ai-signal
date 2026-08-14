@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen
 - 2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu
 - 2026-08-12-coreweave-q2-revenue-doubles-to-575b-while-cash-burn-hits-7b
-- 2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi
-- 2026-08-02-coreweave-sweetens-2-6b-loan-terms-as-ai-debt-investors-push
+- 2026-04-16-coreweave-secured-a-6-billion-compute-commitment-from-quant
+- 2026-08-12-ai-cloud-pricing-hits-record-highs-as-neoclouds-auction-comp
 embedding_id: 2026-08-12-coreweave-and-super-micro-surge-on-evidence-of-sustained-ai
 event_name: ''
 ---
@@ -38,5 +38,5 @@ CoreWeave reported Q2 revenue of $2.6B, up 112% year over year, alongside a cont
 
 **Entities:** [[Cerebras]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu]] · [[2026-08-12-coreweave-q2-revenue-doubles-to-575b-while-cash-burn-hits-7b]] · [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-08-02-coreweave-sweetens-2-6b-loan-terms-as-ai-debt-investors-push]]
+**Related:** [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu]] · [[2026-08-12-coreweave-q2-revenue-doubles-to-575b-while-cash-burn-hits-7b]] · [[2026-04-16-coreweave-secured-a-6-billion-compute-commitment-from-quant]] · [[2026-08-12-ai-cloud-pricing-hits-record-highs-as-neoclouds-auction-comp]]
 <!-- graph:end -->

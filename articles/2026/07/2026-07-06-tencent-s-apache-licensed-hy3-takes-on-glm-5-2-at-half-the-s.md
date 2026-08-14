@@ -18,9 +18,12 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: duplicate
-canonical_article_id: 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe-under-apache
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for
+- 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe
+- 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
 embedding_id: 2026-07-06-tencent-s-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-s
 event_name: ''
 ---
@@ -34,5 +37,5 @@ Tencent released Hy3 as a 295B-parameter mixture-of-experts model with 21B activ
 
 **Entities:** [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Canonical:** [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe-under-apache]]
+**Related:** [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe]] · [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]]
 <!-- graph:end -->

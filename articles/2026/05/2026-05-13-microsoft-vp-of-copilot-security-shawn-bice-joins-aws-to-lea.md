@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-30-aws-vp-swami-sivasubramanian-takes-expanded-agentic-ai-role
 - 2026-05-18-new-aws-appoints-matt-wood-as-chief-ai-and-technology-office
 - 2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off
-- 2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b
 - 2026-05-22-microsoft-launches-new-copilot-agents-platform-team-suleyman
+- 2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic
+- 2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi
 embedding_id: 2026-05-13-microsoft-vp-of-copilot-security-shawn-bice-joins-aws-to-lea
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Microsoft's former CVP of Cloud Security and AI, Shawn Bice, has moved to AWS to
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-30-aws-vp-swami-sivasubramanian-takes-expanded-agentic-ai-role]] · [[2026-05-18-new-aws-appoints-matt-wood-as-chief-ai-and-technology-office]] · [[2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off]] · [[2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b]] · [[2026-05-22-microsoft-launches-new-copilot-agents-platform-team-suleyman]]
+**Related:** [[2026-05-18-new-aws-appoints-matt-wood-as-chief-ai-and-technology-office]] · [[2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off]] · [[2026-05-22-microsoft-launches-new-copilot-agents-platform-team-suleyman]] · [[2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic]] · [[2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi]]
 <!-- graph:end -->

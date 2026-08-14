@@ -9,7 +9,7 @@ url_canonical: https://www.theedgesingapore.com/news/geopolitics/china-vows-resp
 url_status: found
 digest_source: digests\raw\2026-07-27_061009_Inbox_Daily AI News Digest - July 27,
   2026.md
-content_hash: e65e96a669074fbed7fb9165a8b7b96504140b275da5f4158271aea9a5771a90
+content_hash: b88bd9a6e22c75e8a90a806ee2d731de8abdce9f669384d75129eec9b2187800
 normalized_title_hash: 3a050fee819a7d6f
 canonical_url_hash: 1efbffa2f78b5b15
 tags: []
@@ -21,22 +21,22 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th
 - 2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi
-- 2026-07-21-u-s-threatens-sanctions-against-chinese-ai-models-over-alleg
+- 2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th
 - 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
-- 2026-07-24-white-house-draws-new-ai-line-on-china
+- 2026-08-10-openai-pauses-internal-activity-on-unreleased-astra-model-ov
+- 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
 embedding_id: 2026-07-27-china-vows-all-necessary-measures-against-a-us-sanctions-thr
 event_name: ''
 ---
 
 # China vows “all necessary measures” against a US sanctions threat on its AI firms
 
-China warned it would take “all necessary measures” if the US proceeds with threatened sanctions against Chinese AI companies, according to Bloomberg. The warning follows US signals — including from the Treasury Secretary — to sanction Chinese model makers over alleged IP theft. The exchange raises the prospect of more formal AI-sector decoupling, with implications for open-weight model supply chains and multinational compliance. Editor's note: No frontier-research or university-lab items cleared the 24-hour verification bar today, so the Research Breakthroughs and Academic Research sections are omitted. Where a source publication could not be confirmed at the article level within three attempts, the item is marked “URL not verified.” Citations credit the originating publication; links may point to a syndicating outlet where that is the verifiable article URL.
+China warned it would take “all necessary measures” if the US proceeds with threatened sanctions against Chinese AI companies, according to Bloomberg. The warning follows US signals — including from the Treasury Secretary — to sanction Chinese model makers over alleged IP theft. The exchange raises the prospect of more formal AI-sector decoupling, with implications for open-weight model supply chains and multinational compliance. Editor's note: No frontier-research or university-lab items cleared the 24-hour verification bar today, so the Research Breakthroughs and Academic Research sections are omitted. Where a source publication could not be confirmed at the article level within three attempts, the item is marked “
 
 <!-- graph:start -->
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th]] · [[2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi]] · [[2026-07-21-u-s-threatens-sanctions-against-chinese-ai-models-over-alleg]] · [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]] · [[2026-07-24-white-house-draws-new-ai-line-on-china]]
+**Related:** [[2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi]] · [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th]] · [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]] · [[2026-08-10-openai-pauses-internal-activity-on-unreleased-astra-model-ov]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]]
 <!-- graph:end -->

@@ -23,10 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a
-- 2026-07-26-hugging-face-ceo-demands-radical-transparency-after-unpreced
-- 2026-07-26-hugging-face-ceo-calls-for-radical-transparency-after-openai
-- 2026-07-26-hugging-face-ceo-demands-radical-transparency-and-100m-in-co
-- 2026-07-27-hugging-face-ceo-calls-for-radical-transparency-after-openai
+- 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
+- 2026-06-27-asian-labs-rush-out-mythos-class-rivals-as-the-u-s-export-ba
+- 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
 embedding_id: 2026-07-10-hugging-face-ceo-enterprises-are-done-renting-their-ai
 event_name: ''
 ---
@@ -40,5 +39,5 @@ On TechCrunch's Equity podcast, Hugging Face CEO Clem Delangue argued that open-
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a]] · [[2026-07-26-hugging-face-ceo-demands-radical-transparency-after-unpreced]] · [[2026-07-26-hugging-face-ceo-calls-for-radical-transparency-after-openai]] · [[2026-07-26-hugging-face-ceo-demands-radical-transparency-and-100m-in-co]] · [[2026-07-27-hugging-face-ceo-calls-for-radical-transparency-after-openai]]
+**Related:** [[2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-06-27-asian-labs-rush-out-mythos-class-rivals-as-the-u-s-export-ba]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]]
 <!-- graph:end -->

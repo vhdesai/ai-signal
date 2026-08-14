@@ -23,10 +23,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-03-amazon-completes-another-35b-investment-in-openai
-- 2026-08-03-amazon-completes-additional-35-billion-investment-in-openai
-- 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
+- 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
+- 2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity
 embedding_id: 2026-08-02-amazon-completes-50b-openai-investment-taking-5-stake-as-cha
 event_name: ''
 ---
@@ -40,5 +39,5 @@ Amazon completed its $50 billion investment in OpenAI, disclosed in an SEC filin
 
 **Entities:** [[Amazon]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-amazon-completes-another-35b-investment-in-openai]] · [[2026-08-03-amazon-completes-additional-35-billion-investment-in-openai]] · [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]]
+**Related:** [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity]]
 <!-- graph:end -->

@@ -20,9 +20,8 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-06-29-nvidia-s-ai-chip-sales-in-china-stall-as-huawei-and-local-ch
-related_article_ids:
-- 2026-06-29-with-u-s-export-controls-limiting-nvidia-s-advanced-chips-in
+canonical_article_id: 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival
+related_article_ids: []
 embedding_id: 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-lead
 event_name: ''
 ---
@@ -36,6 +35,5 @@ Chinese chipmakers led by Huawei are overtaking Nvidia in its home market, as Wa
 
 **Entities:** [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Canonical:** [[2026-06-29-nvidia-s-ai-chip-sales-in-china-stall-as-huawei-and-local-ch]]
-**Related:** [[2026-06-29-with-u-s-export-controls-limiting-nvidia-s-advanced-chips-in]]
+**Canonical:** [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival]]
 <!-- graph:end -->

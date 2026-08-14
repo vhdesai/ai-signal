@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-situational-awareness-sells-most-of-its-public-portfolio-aft
 - 2026-07-30-aschenbrenner-s-situational-awareness-ai-hedge-fund-forced-t
-- 2026-07-31-situational-awareness-fire-sale-turns-leveraged-ai-convictio
 - 2026-07-31-situational-awareness-sell-off-becomes-a-stress-signal-for-a
 - 2026-07-31-situational-awareness-sell-off-remains-a-stress-signal-for-c
+- 2026-07-31-situational-awareness-hedge-fund-collapses-portfolio-down-67
 embedding_id: 2026-07-30-aschenbrenner-s-situational-awareness-ai-fund-forced-to-sell
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Leopold Aschenbrenner’s AI-thesis hedge fund, Situational Awareness, sold most
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-07-30-situational-awareness-sells-most-of-its-public-portfolio-aft]] · [[2026-07-30-aschenbrenner-s-situational-awareness-ai-hedge-fund-forced-t]] · [[2026-07-31-situational-awareness-fire-sale-turns-leveraged-ai-convictio]] · [[2026-07-31-situational-awareness-sell-off-becomes-a-stress-signal-for-a]] · [[2026-07-31-situational-awareness-sell-off-remains-a-stress-signal-for-c]]
+**Related:** [[2026-07-30-situational-awareness-sells-most-of-its-public-portfolio-aft]] · [[2026-07-30-aschenbrenner-s-situational-awareness-ai-hedge-fund-forced-t]] · [[2026-07-31-situational-awareness-sell-off-becomes-a-stress-signal-for-a]] · [[2026-07-31-situational-awareness-sell-off-remains-a-stress-signal-for-c]] · [[2026-07-31-situational-awareness-hedge-fund-collapses-portfolio-down-67]]
 <!-- graph:end -->

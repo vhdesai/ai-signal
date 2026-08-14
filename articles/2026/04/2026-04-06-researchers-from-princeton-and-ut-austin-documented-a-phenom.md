@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-06-princeton-and-ut-austin-publish-joint-study-on-emergent-tool
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 - 2026-04-06-research-from-uc-berkeley-found-that-large-ai-models-when-pl
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
+- 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
 embedding_id: 2026-04-06-researchers-from-princeton-and-ut-austin-documented-a-phenom
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers from Princeton and UT Austin documented a phenomenon in which large 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-06-princeton-and-ut-austin-publish-joint-study-on-emergent-tool]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-04-06-research-from-uc-berkeley-found-that-large-ai-models-when-pl]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]]
+**Related:** [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-04-06-research-from-uc-berkeley-found-that-large-ai-models-when-pl]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]] · [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]]
 <!-- graph:end -->

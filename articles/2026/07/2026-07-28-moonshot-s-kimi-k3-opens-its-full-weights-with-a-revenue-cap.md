@@ -21,6 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo
+- 2026-07-27-kimi-k3-open-weights-go-live-the-largest-open-weight-model-y
+- 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
 embedding_id: 2026-07-28-moonshot-s-kimi-k3-opens-its-full-weights-with-a-revenue-cap
 event_name: ''
 ---
@@ -33,5 +35,5 @@ Moonshot AI published the full weights of Kimi K3, a ~2.8-trillion-parameter mix
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo]]
+**Related:** [[2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo]] · [[2026-07-27-kimi-k3-open-weights-go-live-the-largest-open-weight-model-y]] · [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]]
 <!-- graph:end -->

@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-25-techcrunch-analysis-the-pope-s-ai-encyclical-isn-t-really-ab
-- 2026-05-26-rebecca-bellan-s-analysis-argues-the-pope-s-encyclical-is-le
 - 2026-05-17-musk-v-openai-dismissed-pope-leo-xiv-s-ai-encyclical-coming
 - 2026-05-25-pope-leo-xiv-frames-ai-as-a-concentration-of-power-problem
 - 2026-05-26-pope-leo-xiv-calls-for-global-ai-regulation-in-magnifica-hum
+- 2026-08-09-historian-jill-lepore-argues-silicon-valley-s-government-by
+- 2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai-techcrunch-an
 embedding_id: 2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Rebecca Bellan reads the 200-page encyclical as a critique of power concentratio
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-25-techcrunch-analysis-the-pope-s-ai-encyclical-isn-t-really-ab]] · [[2026-05-26-rebecca-bellan-s-analysis-argues-the-pope-s-encyclical-is-le]] · [[2026-05-17-musk-v-openai-dismissed-pope-leo-xiv-s-ai-encyclical-coming]] · [[2026-05-25-pope-leo-xiv-frames-ai-as-a-concentration-of-power-problem]] · [[2026-05-26-pope-leo-xiv-calls-for-global-ai-regulation-in-magnifica-hum]]
+**Related:** [[2026-05-17-musk-v-openai-dismissed-pope-leo-xiv-s-ai-encyclical-coming]] · [[2026-05-25-pope-leo-xiv-frames-ai-as-a-concentration-of-power-problem]] · [[2026-05-26-pope-leo-xiv-calls-for-global-ai-regulation-in-magnifica-hum]] · [[2026-08-09-historian-jill-lepore-argues-silicon-valley-s-government-by]] · [[2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai-techcrunch-an]]
 <!-- graph:end -->

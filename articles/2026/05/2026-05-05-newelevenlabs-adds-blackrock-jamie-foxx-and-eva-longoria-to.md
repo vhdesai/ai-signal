@@ -18,7 +18,6 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-22-blackrock-mgx-add-growth-capital-to-aligned-data-centers
 - 2026-07-28-blackrock-takes-80-stake-in-meta-s-el-paso-ai-campus
 - 2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital
 embedding_id: 2026-05-05-newelevenlabs-adds-blackrock-jamie-foxx-and-eva-longoria-to
@@ -33,5 +32,5 @@ Voice AI leader ElevenLabs disclosed BlackRock alongside celebrity investors Jam
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-22-blackrock-mgx-add-growth-capital-to-aligned-data-centers]] · [[2026-07-28-blackrock-takes-80-stake-in-meta-s-el-paso-ai-campus]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]]
+**Related:** [[2026-07-28-blackrock-takes-80-stake-in-meta-s-el-paso-ai-campus]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]]
 <!-- graph:end -->

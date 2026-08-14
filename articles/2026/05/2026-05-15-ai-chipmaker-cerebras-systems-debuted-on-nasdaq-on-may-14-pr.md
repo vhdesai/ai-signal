@@ -29,6 +29,7 @@ related_article_ids:
 - 2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68
 - 2026-05-14-cerebras-systems-prices-largest-us-ipo-of-2026-at-56-4b-valu
 - 2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t
+- 2026-05-15-cerebras-closes-ipo-at-95b-market-cap-kicking-off-2026-tech
 embedding_id: 2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr
 event_name: ''
 ---
@@ -42,5 +43,5 @@ AI chipmaker Cerebras Systems debuted on Nasdaq on May 14, pricing at $185/share
 
 **Entities:** [[Amazon]] · [[Cerebras]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-17-cerebras-systems-hit-the-nasdaq-on-may-14-in-the-most-closel]] · [[2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68]] · [[2026-05-14-cerebras-systems-prices-largest-us-ipo-of-2026-at-56-4b-valu]] · [[2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t]]
+**Related:** [[2026-05-17-cerebras-systems-hit-the-nasdaq-on-may-14-in-the-most-closel]] · [[2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68]] · [[2026-05-14-cerebras-systems-prices-largest-us-ipo-of-2026-at-56-4b-valu]] · [[2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t]] · [[2026-05-15-cerebras-closes-ipo-at-95b-market-cap-kicking-off-2026-tech]]
 <!-- graph:end -->

@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
 - 2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour
 - 2026-05-14-microsoft-corp-dev-ai-intelligence-brief
+- 2026-07-30-thursday-july-30-2026
 - 2026-05-19-vik-desai-corp-dev-microsoft
-- 2026-05-17-google-i-o-2026-may-19-20-expected-gemini-3-x-updates-google
 embedding_id: 2026-05-17-microsoft-corp-dev-ai-intelligence
 event_name: ''
 ---
@@ -43,5 +43,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour]] · [[2026-05-14-microsoft-corp-dev-ai-intelligence-brief]] · [[2026-05-19-vik-desai-corp-dev-microsoft]] · [[2026-05-17-google-i-o-2026-may-19-20-expected-gemini-3-x-updates-google]]
+**Related:** [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour]] · [[2026-05-14-microsoft-corp-dev-ai-intelligence-brief]] · [[2026-07-30-thursday-july-30-2026]] · [[2026-05-19-vik-desai-corp-dev-microsoft]]
 <!-- graph:end -->

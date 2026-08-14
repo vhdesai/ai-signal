@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly
+- 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
-- 2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven
-- 2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit
-- 2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them
+- 2026-06-29-after-the-white-house-staggered-openai-s-gpt-5-6-rollout-and
+- 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
 embedding_id: 2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Frontier-AI executives who backed the administration's deregulation agenda now t
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]] · [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit]] · [[2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them]]
+**Related:** [[2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly]] · [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-06-29-after-the-white-house-staggered-openai-s-gpt-5-6-rollout-and]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]]
 <!-- graph:end -->

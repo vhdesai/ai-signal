@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-08-openai-acquires-presentation-startup-nextslide-team-joins-ch
-- 2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
 - 2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint
+- 2026-07-10-chatgpt-work-launches-after-u-s-government-approval
 embedding_id: 2026-08-10-openai-acquires-presentation-startup-nextslide-team-folds-in
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI acquired NextSlide, with the team joining the ChatGPT project. The move s
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-08-openai-acquires-presentation-startup-nextslide-team-joins-ch]] · [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]] · [[2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint]]
+**Related:** [[2026-08-08-openai-acquires-presentation-startup-nextslide-team-joins-ch]] · [[2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint]] · [[2026-07-10-chatgpt-work-launches-after-u-s-government-approval]]
 <!-- graph:end -->

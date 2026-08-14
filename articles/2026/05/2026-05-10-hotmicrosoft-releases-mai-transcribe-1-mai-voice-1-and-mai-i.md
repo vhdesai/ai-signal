@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai
 - 2026-04-10-microsoft-ai-released-three-proprietary-foundational-models
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model
-- 2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib
 - 2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su
+- 2026-04-04-microsoft-ai-led-by-ceo-mustafa-suleiman-released-three-foun
 embedding_id: 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft quietly released three new proprietary AI models through Azure Foundry
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai]] · [[2026-04-10-microsoft-ai-released-three-proprietary-foundational-models]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]] · [[2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su]]
+**Related:** [[2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai]] · [[2026-04-10-microsoft-ai-released-three-proprietary-foundational-models]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model]] · [[2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su]] · [[2026-04-04-microsoft-ai-led-by-ceo-mustafa-suleiman-released-three-foun]]
 <!-- graph:end -->

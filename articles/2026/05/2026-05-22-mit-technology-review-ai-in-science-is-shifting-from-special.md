@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin
 - 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
-- 2026-05-09-mit-technology-review-artificial-scientists-ai-agents-as-aut
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
+- 2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b
 embedding_id: 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
 event_name: ''
 ---
@@ -40,5 +40,5 @@ MIT Technology Review published an incisive analysis arguing that scientific AI 
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin]] · [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-05-09-mit-technology-review-artificial-scientists-ai-agents-as-aut]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
+**Related:** [[2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin]] · [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b]]
 <!-- graph:end -->

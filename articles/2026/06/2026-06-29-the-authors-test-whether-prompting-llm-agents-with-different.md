@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-29-when-does-personality-composition-matter-for-multi-agent-llm
 - 2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
 - 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
+- 2026-05-23-hkust-paper-llm-judge-agents-commit-serious-legal-errors-in
 embedding_id: 2026-06-29-the-authors-test-whether-prompting-llm-agents-with-different
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The authors test whether prompting LLM agents with different personality traits 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-29-when-does-personality-composition-matter-for-multi-agent-llm]] · [[2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]]
+**Related:** [[2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-05-23-hkust-paper-llm-judge-agents-commit-serious-legal-errors-in]]
 <!-- graph:end -->

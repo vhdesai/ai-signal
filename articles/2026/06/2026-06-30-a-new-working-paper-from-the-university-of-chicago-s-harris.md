@@ -20,7 +20,6 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-30-university-of-chicago-study-market-competition-may-push-ai-f
 - 2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel
 - 2026-08-10-ai-s-cutting-edge-has-migrated-from-universities-to-private
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
@@ -36,5 +35,5 @@ A new working paper from the University of Chicago's Harris School (Ethan Bueno 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-30-university-of-chicago-study-market-competition-may-push-ai-f]] · [[2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel]] · [[2026-08-10-ai-s-cutting-edge-has-migrated-from-universities-to-private]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]]
+**Related:** [[2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel]] · [[2026-08-10-ai-s-cutting-edge-has-migrated-from-universities-to-private]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]]
 <!-- graph:end -->

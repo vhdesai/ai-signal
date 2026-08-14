@@ -21,7 +21,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
+canonical_article_id: 2026-07-27-nvidia-in-talks-to-backstop-250b-for-openai-s-500b-10-gigawa
 related_article_ids: []
 embedding_id: 2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it
 event_name: ''
@@ -36,5 +36,5 @@ Bloomberg reports Nvidia is assembling a fresh round of AI-infrastructure deals 
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]]
+**Canonical:** [[2026-07-27-nvidia-in-talks-to-backstop-250b-for-openai-s-500b-10-gigawa]]
 <!-- graph:end -->

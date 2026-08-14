@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
 - 2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic
+- 2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
-- 2026-07-17-ai-commoditization-pressures-proprietary-model-economics-for
 - 2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain
 embedding_id: 2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel
 event_name: ''
@@ -40,5 +40,5 @@ TechCrunch argues the AI competitive frame has broadened well beyond the headlin
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-07-17-ai-commoditization-pressures-proprietary-model-economics-for]] · [[2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain]]
+**Related:** [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic]] · [[2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain]]
 <!-- graph:end -->

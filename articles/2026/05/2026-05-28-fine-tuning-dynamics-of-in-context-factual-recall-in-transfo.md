@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-14-arxiv-senses-wide-shut-representation-action-gap-in-omnimoda
 - 2026-08-04-four-part-practitioner-series-on-transformer-inference-perfo
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
-- 2026-05-29-negation-neglect-research-probes-how-llms-handle-reversed-fa
+- 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 embedding_id: 2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A Princeton-led theoretical analysis of how fine-tuning shapes the dynamics of i
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos]] · [[2026-05-14-arxiv-senses-wide-shut-representation-action-gap-in-omnimoda]] · [[2026-08-04-four-part-practitioner-series-on-transformer-inference-perfo]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-05-29-negation-neglect-research-probes-how-llms-handle-reversed-fa]]
+**Related:** [[2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos]] · [[2026-05-14-arxiv-senses-wide-shut-representation-action-gap-in-omnimoda]] · [[2026-08-04-four-part-practitioner-series-on-transformer-inference-perfo]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]]
 <!-- graph:end -->

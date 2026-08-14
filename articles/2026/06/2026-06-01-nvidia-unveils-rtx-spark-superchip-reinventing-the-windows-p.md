@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super
 - 2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex
 - 2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip
-- 2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play
+- event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi
 embedding_id: 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p
 event_name: ''
 ---
@@ -42,5 +42,5 @@ At GTC Taipei, Nvidia introduced the RTX Spark superchip — 1 petaflop of AI co
 
 **Entities:** [[Arm]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]] · [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex]] · [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip]] · [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]]
+**Related:** [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]] · [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex]] · [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip]] · [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi]]
 <!-- graph:end -->

@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou
 - 2026-05-06-newsap-bets-1-16-billion-on-18-month-old-german-ai-lab-nemoc
 - 2026-08-10-claude-agent-hacks-australian-gym-booking-system-highlights
+- 2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic
 embedding_id: 2026-05-04-sap-moves-to-block-openclaw-and-other-unauthorized-ai-agents
 event_name: ''
 ---
@@ -39,5 +40,5 @@ SAP published a customer policy effectively barring use of external AI agents to
 
 **Entities:** [[Salesforce]] · [[SAP]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-sap-unveils-enterprise-ai-platform-deepens-anthropic-ties]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-05-06-newsap-bets-1-16-billion-on-18-month-old-german-ai-lab-nemoc]] · [[2026-08-10-claude-agent-hacks-australian-gym-booking-system-highlights]]
+**Related:** [[2026-05-13-sap-unveils-enterprise-ai-platform-deepens-anthropic-ties]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-05-06-newsap-bets-1-16-billion-on-18-month-old-german-ai-lab-nemoc]] · [[2026-08-10-claude-agent-hacks-australian-gym-booking-system-highlights]] · [[2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic]]
 <!-- graph:end -->

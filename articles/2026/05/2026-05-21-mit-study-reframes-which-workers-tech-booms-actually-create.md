@@ -21,6 +21,7 @@ related_article_ids:
 - 2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did
 - 2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled
 - 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
+- 2026-04-10-mit-economics-faculty-have-published-analysis-examining-how
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
 embedding_id: 2026-05-21-mit-study-reframes-which-workers-tech-booms-actually-create
 event_name: ''
@@ -33,5 +34,5 @@ A new MIT economics paper analyzing postwar U.S. labor data — covered in MIT N
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]] · [[2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]]
+**Related:** [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]] · [[2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-04-10-mit-economics-faculty-have-published-analysis-examining-how]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]]
 <!-- graph:end -->

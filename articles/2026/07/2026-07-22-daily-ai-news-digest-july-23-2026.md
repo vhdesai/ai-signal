@@ -29,10 +29,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-daily-ai-news-digest-july-10-2026
-- 2026-07-29-daily-ai-news-digest-july-30-2026
 - 2026-07-26-daily-ai-news-digest-july-27-2026
 - 2026-07-23-ai-s-capital-and-compute-race-outpaces-the-model-cycle
 - 2026-07-11-daily-ai-news-digest-july-12-2026
+- 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
 embedding_id: 2026-07-22-daily-ai-news-digest-july-23-2026
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Capex outpaces the frontier. Alphabet beat on revenue with 82% Google Cloud grow
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[IBM]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-09-daily-ai-news-digest-july-10-2026]] · [[2026-07-29-daily-ai-news-digest-july-30-2026]] · [[2026-07-26-daily-ai-news-digest-july-27-2026]] · [[2026-07-23-ai-s-capital-and-compute-race-outpaces-the-model-cycle]] · [[2026-07-11-daily-ai-news-digest-july-12-2026]]
+**Related:** [[2026-07-09-daily-ai-news-digest-july-10-2026]] · [[2026-07-26-daily-ai-news-digest-july-27-2026]] · [[2026-07-23-ai-s-capital-and-compute-race-outpaces-the-model-cycle]] · [[2026-07-11-daily-ai-news-digest-july-12-2026]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]]
 <!-- graph:end -->

@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-19-the-american-rebellion-against-ai-gains-steam
 - 2026-05-19-the-american-rebellion-against-ai-is-gaining-steam
 - 2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce
-- 2026-07-12-wall-street-journal-wsj-2026-07-12-external-the-10-point-the
-- 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
+- 2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic
+- 2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models
 embedding_id: 2026-06-07-wsj-the-artificial-intelligence-backlash
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The WSJ published a major feature on the emerging AI backlash, documenting how p
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-the-american-rebellion-against-ai-gains-steam]] · [[2026-05-19-the-american-rebellion-against-ai-is-gaining-steam]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]] · [[2026-07-12-wall-street-journal-wsj-2026-07-12-external-the-10-point-the]] · [[2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending]]
+**Related:** [[2026-05-19-the-american-rebellion-against-ai-gains-steam]] · [[2026-05-19-the-american-rebellion-against-ai-is-gaining-steam]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]] · [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models]]
 <!-- graph:end -->

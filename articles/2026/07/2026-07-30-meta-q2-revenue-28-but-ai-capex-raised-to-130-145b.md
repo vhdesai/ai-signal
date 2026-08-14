@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b
-- 2026-05-15-alphabet-and-meta-180-190b-ai-capex-squeeze-raises-buyback-c
 - 2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore
 - 2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b
+- 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 embedding_id: 2026-07-30-meta-q2-revenue-28-but-ai-capex-raised-to-130-145b
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta reported $60.8B in revenue (+28%), but profit fell on legal charges, severa
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b]] · [[2026-05-15-alphabet-and-meta-180-190b-ai-capex-squeeze-raises-buyback-c]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]] · [[2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b]]
+**Related:** [[2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]] · [[2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]]
 <!-- graph:end -->

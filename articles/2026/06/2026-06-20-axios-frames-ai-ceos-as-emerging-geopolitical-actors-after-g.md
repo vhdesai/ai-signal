@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
 - 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
 - 2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus
-- 2026-08-02-ai-s-manifesto-war-hardens-into-a-washington-fight-over-open
 - 2026-06-29-the-pro-ai-movement-splinters-over-security-controls-vs-stay
+- 2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven
 embedding_id: 2026-06-20-axios-frames-ai-ceos-as-emerging-geopolitical-actors-after-g
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Axios reported on the prominence of major AI CEOs alongside heads of state at th
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus]] · [[2026-08-02-ai-s-manifesto-war-hardens-into-a-washington-fight-over-open]] · [[2026-06-29-the-pro-ai-movement-splinters-over-security-controls-vs-stay]]
+**Related:** [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus]] · [[2026-06-29-the-pro-ai-movement-splinters-over-security-controls-vs-stay]] · [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]]
 <!-- graph:end -->

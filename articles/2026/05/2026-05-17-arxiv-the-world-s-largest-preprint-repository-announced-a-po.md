@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-18-arxiv-will-ban-authors-for-a-year-if-ai-writes-their-entire
-- 2026-05-17-arxiv-will-ban-authors-for-one-year-if-ai-writes-their-entir
 - 2026-05-16-arxiv-institutes-one-year-ban-for-papers-with-unchecked-ai-g
 - 2026-05-18-arxiv-the-preprint-repository-that-serves-as-the-primary-dis
+- 2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti
+- 2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content
 embedding_id: 2026-05-17-arxiv-the-world-s-largest-preprint-repository-announced-a-po
 event_name: ''
 ---
@@ -36,5 +36,5 @@ ArXiv, the world's largest preprint repository, announced a policy that will ban
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-18-arxiv-will-ban-authors-for-a-year-if-ai-writes-their-entire]] · [[2026-05-17-arxiv-will-ban-authors-for-one-year-if-ai-writes-their-entir]] · [[2026-05-16-arxiv-institutes-one-year-ban-for-papers-with-unchecked-ai-g]] · [[2026-05-18-arxiv-the-preprint-repository-that-serves-as-the-primary-dis]]
+**Related:** [[2026-05-16-arxiv-institutes-one-year-ban-for-papers-with-unchecked-ai-g]] · [[2026-05-18-arxiv-the-preprint-repository-that-serves-as-the-primary-dis]] · [[2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti]] · [[2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content]]
 <!-- graph:end -->

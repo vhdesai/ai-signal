@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
-- 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
-- 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
-- 2026-03-16-cio-dive-s-studio-navigating-the-2026-insurance-landscape-in
+- 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
+- 2026-07-25-openai-containment-breach-continues-to-drive-incident-respon
+- 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
 embedding_id: 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 event_name: ''
 ---
@@ -37,5 +37,5 @@ CIO Dive reported that enterprise data is increasingly leaking into shadow-AI to
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]] · [[2026-03-16-cio-dive-s-studio-navigating-the-2026-insurance-landscape-in]]
+**Related:** [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]] · [[2026-07-25-openai-containment-breach-continues-to-drive-incident-respon]] · [[2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company]]
 <!-- graph:end -->

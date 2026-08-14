@@ -19,7 +19,7 @@ themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
+canonical_article_id: 2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips
 related_article_ids: []
 embedding_id: 2026-07-08-sambanova-raises-1b-at-an-11b-valuation
 event_name: ''
@@ -34,5 +34,5 @@ AI chip maker SambaNova Systems raised $1 billion at an $11 billion valuation, l
 
 **Entities:** [[Intel]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Canonical:** [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]]
+**Canonical:** [[2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips]]
 <!-- graph:end -->

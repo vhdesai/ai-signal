@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launching-next
-- 2026-05-19-hot-gemini-spark-google-s-24-7-personal-ai-agent-launching-n
 - event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation
-- 2026-05-20-google-spark-frames-the-next-phase-of-personal-ai-agents
+- 2026-05-19-hot-gemini-spark-google-s-24-7-personal-ai-agent-launching-n
+- 2026-05-15-a-pre-launch-leak-reveals-google-is-developing-a-new-autonom
 embedding_id: 2026-05-15-gemini-spark-agent-spotted-ahead-of-google-i-o-2026
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Screenshots leaked on X reveal Gemini Spark, a proactive background agent that w
 ## Connections
 
 **Entities:** [[Google]]
-**Related:** [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launching-next]] · [[2026-05-19-hot-gemini-spark-google-s-24-7-personal-ai-agent-launching-n]] · [[event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation]] · [[2026-05-20-google-spark-frames-the-next-phase-of-personal-ai-agents]]
+**Related:** [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launching-next]] · [[event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation]] · [[2026-05-19-hot-gemini-spark-google-s-24-7-personal-ai-agent-launching-n]] · [[2026-05-15-a-pre-launch-leak-reveals-google-is-developing-a-new-autonom]]
 <!-- graph:end -->

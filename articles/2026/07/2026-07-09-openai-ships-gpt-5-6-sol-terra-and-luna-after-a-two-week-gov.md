@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-08-openai-opens-gpt-5-6-sol-terra-and-luna-to-the-public
+- 2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe
 embedding_id: 2026-07-09-openai-ships-gpt-5-6-sol-terra-and-luna-after-a-two-week-gov
 event_name: ''
 ---
@@ -36,5 +37,5 @@ OpenAI released its new flagship family — Sol plus the cheaper Terra and Luna 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-08-openai-opens-gpt-5-6-sol-terra-and-luna-to-the-public]]
+**Related:** [[2026-07-08-openai-opens-gpt-5-6-sol-terra-and-luna-to-the-public]] · [[2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe]]
 <!-- graph:end -->

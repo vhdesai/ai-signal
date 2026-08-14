@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-18-international-ai-safety-report-2026-agents-pose-novel-risks
 - 2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a
+- 2026-05-14-stanford-s-2026-ai-index-found-documented-ai-incidents-rose
 - 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
 - 2026-05-14-responsible-ai-reporting-still-trails-capability-releases
+- 2026-05-08-the-stanford-hai-2026-ai-index-the-most-comprehensive-annual
 embedding_id: 2026-05-18-the-second-international-ai-safety-report-2026-chaired-by-tu
 event_name: ''
 ---
@@ -37,5 +38,5 @@ The second International AI Safety Report 2026, chaired by Turing Award winner Y
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-18-international-ai-safety-report-2026-agents-pose-novel-risks]] · [[2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a]] · [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]] · [[2026-05-14-responsible-ai-reporting-still-trails-capability-releases]]
+**Related:** [[2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a]] · [[2026-05-14-stanford-s-2026-ai-index-found-documented-ai-incidents-rose]] · [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]] · [[2026-05-14-responsible-ai-reporting-still-trails-capability-releases]] · [[2026-05-08-the-stanford-hai-2026-ai-index-the-most-comprehensive-annual]]
 <!-- graph:end -->

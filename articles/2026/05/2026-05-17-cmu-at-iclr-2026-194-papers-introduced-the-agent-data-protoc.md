@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-17-key-university-research-agent-data-protocol-cmu-agents-of-ch
 - 2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea
 - 2026-04-22-academic-research
 - 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
+- 2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri
+- 2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu
 embedding_id: 2026-05-17-cmu-at-iclr-2026-194-papers-introduced-the-agent-data-protoc
 event_name: ''
 ---
@@ -36,5 +37,5 @@ CMU at ICLR 2026 (194 papers) introduced the Agent Data Protocol (ADP) — a sta
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-17-key-university-research-agent-data-protocol-cmu-agents-of-ch]] · [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-04-22-academic-research]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]]
+**Related:** [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-04-22-academic-research]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu]]
 <!-- graph:end -->

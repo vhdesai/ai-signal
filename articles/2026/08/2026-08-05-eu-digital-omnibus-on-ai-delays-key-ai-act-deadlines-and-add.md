@@ -16,12 +16,13 @@ entities: []
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-08-05-eu-digital-omnibus-on-ai-delays-key-ai-act-deadlines
+dedupe_status: canonical
+canonical_article_id: null
 related_article_ids:
 - 2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin
 - 2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m
 - 2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica
+- 2026-04-21-eu-ai-act-trilogue-weighs-pushing-high-risk-deadline-to-dece
 embedding_id: 2026-08-05-eu-digital-omnibus-on-ai-delays-key-ai-act-deadlines-and-add
 event_name: ''
 ---
@@ -34,6 +35,5 @@ Analysis published in the last day details the Digital Omnibus on AI (Regulation
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Canonical:** [[2026-08-05-eu-digital-omnibus-on-ai-delays-key-ai-act-deadlines]]
-**Related:** [[2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin]] · [[2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m]] · [[2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica]]
+**Related:** [[2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin]] · [[2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m]] · [[2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica]] · [[2026-04-21-eu-ai-act-trilogue-weighs-pushing-high-risk-deadline-to-dece]]
 <!-- graph:end -->

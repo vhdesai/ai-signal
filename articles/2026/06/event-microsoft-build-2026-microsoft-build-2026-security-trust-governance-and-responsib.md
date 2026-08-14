@@ -25,9 +25,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- event-microsoft-build-2026-microsoft-build-2026-overview
+- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
 - event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy
-- event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications
+- event-microsoft-build-2026-microsoft-build-2026-overview
 embedding_id: event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib
 event_name: Microsoft Build 2026
 ---
@@ -41,5 +41,5 @@ Agent 365 for local agents / Windows 365 for Agents: Control plane and managed C
 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications]]
+**Related:** [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy]] · [[event-microsoft-build-2026-microsoft-build-2026-overview]]
 <!-- graph:end -->

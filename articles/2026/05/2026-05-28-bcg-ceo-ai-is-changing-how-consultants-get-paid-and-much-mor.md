@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-29-princeton-researchers-introduced-ceo-bench-which-drops-an-ai
 - 2026-06-21-kevin-o-leary-says-portfolio-companies-are-bypassing-consult
-- 2026-05-01-the-information-logo-moonshot-ai-and-other-chinese-firms-wei
-- 2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
+- 2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep
+- 2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon
 embedding_id: 2026-05-28-bcg-ceo-ai-is-changing-how-consultants-get-paid-and-much-mor
 event_name: ''
 ---
@@ -37,5 +37,5 @@ In a feature interview, BCG CEO Christoph Schweizer told the WSJ that AI is resh
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-29-princeton-researchers-introduced-ceo-bench-which-drops-an-ai]] · [[2026-06-21-kevin-o-leary-says-portfolio-companies-are-bypassing-consult]] · [[2026-05-01-the-information-logo-moonshot-ai-and-other-chinese-firms-wei]] · [[2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]]
+**Related:** [[2026-06-29-princeton-researchers-introduced-ceo-bench-which-drops-an-ai]] · [[2026-06-21-kevin-o-leary-says-portfolio-companies-are-bypassing-consult]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon]]
 <!-- graph:end -->

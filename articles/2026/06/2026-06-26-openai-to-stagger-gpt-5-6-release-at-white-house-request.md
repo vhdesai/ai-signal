@@ -24,9 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-25-white-house-asks-openai-to-limit-gpt-5-6-s-release-over-safe
-- 2026-07-08-u-s-clears-openai-s-gpt-5-6-for-broad-public-rollout
 - 2026-06-25-washington-gates-openai-s-gpt-5-6-behind-customer-by-custome
 - 2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp
+- 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-u-s-frontier-model
+- 2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm
 embedding_id: 2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request
 event_name: ''
 ---
@@ -40,5 +41,5 @@ OpenAI will initially release its next model, GPT-5.6, to roughly 20 government-
 
 **Entities:** [[Amazon]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-25-white-house-asks-openai-to-limit-gpt-5-6-s-release-over-safe]] · [[2026-07-08-u-s-clears-openai-s-gpt-5-6-for-broad-public-rollout]] · [[2026-06-25-washington-gates-openai-s-gpt-5-6-behind-customer-by-custome]] · [[2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp]]
+**Related:** [[2026-06-25-white-house-asks-openai-to-limit-gpt-5-6-s-release-over-safe]] · [[2026-06-25-washington-gates-openai-s-gpt-5-6-behind-customer-by-custome]] · [[2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp]] · [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-u-s-frontier-model]] · [[2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm]]
 <!-- graph:end -->

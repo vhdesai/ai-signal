@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-23-sensetime-the-us-sanctioned-hong-kong-ai-firm-is-repositioni
 - 2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o
-- 2026-05-18-sensetime-bets-on-lower-cost-models-and-overseas-expansion-a
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
 - 2026-07-07-chinese-open-models-gain-ground-with-u-s-firms-as-frontier-c
+- 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
 embedding_id: 2026-05-18-sensetime-co-founder-lin-dahua-told-cnbc-that-the-u-s-sancti
 event_name: ''
 ---
@@ -42,5 +42,5 @@ SenseTime co-founder Lin Dahua told CNBC that the U.S.-sanctioned Chinese AI fir
 
 **Entities:** [[Alibaba]] · [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-23-sensetime-the-us-sanctioned-hong-kong-ai-firm-is-repositioni]] · [[2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o]] · [[2026-05-18-sensetime-bets-on-lower-cost-models-and-overseas-expansion-a]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-07-07-chinese-open-models-gain-ground-with-u-s-firms-as-frontier-c]]
+**Related:** [[2026-05-23-sensetime-the-us-sanctioned-hong-kong-ai-firm-is-repositioni]] · [[2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-07-07-chinese-open-models-gain-ground-with-u-s-firms-as-frontier-c]] · [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]]
 <!-- graph:end -->

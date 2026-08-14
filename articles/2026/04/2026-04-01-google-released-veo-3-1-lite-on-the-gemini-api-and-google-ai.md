@@ -19,9 +19,14 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-04-01-google-launches-veo-3-1-lite-sub-0-10-second-ai-video-as-ope
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-06-30-google-brings-nano-banana-2-lite-and-gemini-omni-flash-to-de
+- 2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability
+- 2026-08-13-google-launches-gemini-3-7-flash-at-half-the-price-of-3-6-fl
+- 2026-06-30-google-deepmind-ships-nano-banana-2-lite-and-brings-gemini-o
+- 2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9
 embedding_id: 2026-04-01-google-released-veo-3-1-lite-on-the-gemini-api-and-google-ai
 event_name: ''
 ---
@@ -35,5 +40,5 @@ Google released Veo 3.1 Lite on the Gemini API and Google AI Studio, pricing it 
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-04-01-google-launches-veo-3-1-lite-sub-0-10-second-ai-video-as-ope]]
+**Related:** [[2026-06-30-google-brings-nano-banana-2-lite-and-gemini-omni-flash-to-de]] · [[2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability]] · [[2026-08-13-google-launches-gemini-3-7-flash-at-half-the-price-of-3-6-fl]] · [[2026-06-30-google-deepmind-ships-nano-banana-2-lite-and-brings-gemini-o]] · [[2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9]]
 <!-- graph:end -->

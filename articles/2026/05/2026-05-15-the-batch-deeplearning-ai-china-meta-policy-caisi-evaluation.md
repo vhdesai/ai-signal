@@ -44,11 +44,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist
 - 2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u
-- 2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de
-- 2026-05-24-sources-surveyed-bloomberg-tech-times-invezz-yahoo-finance-t
-- 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
+- 2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th
+- 2026-04-11-princeton-s-center-for-information-technology-policy-publish
+- 2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a
 embedding_id: 2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation
 event_name: ''
 ---
@@ -62,5 +61,5 @@ This week's edition of The Batch highlights three key AI policy and research thr
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist]] · [[2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-05-24-sources-surveyed-bloomberg-tech-times-invezz-yahoo-finance-t]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]]
+**Related:** [[2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u]] · [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]]
 <!-- graph:end -->

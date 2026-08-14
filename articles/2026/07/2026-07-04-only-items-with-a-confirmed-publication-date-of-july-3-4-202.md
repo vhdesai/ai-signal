@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-05-about-this-digest-compiled-sunday-july-5-2026
-- 2026-07-09-compiled-thursday-july-9-2026-every-item-was-confirmed-publi
-- 2026-06-25-scope-only-items-confirmed-published-june-24-25-2026-last-24
 - 2026-07-04-no-new-model-or-frontier-capability-release-was-confirmed-in
 - 2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w
+- 2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co
+- 2026-06-29-all-21-items-were-confirmed-published-within-the-last-24-hou
 embedding_id: 2026-07-04-only-items-with-a-confirmed-publication-date-of-july-3-4-202
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Only items with a confirmed publication date of July 3–4, 2026 were included; 
 
 **Entities:** [[Mistral]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-05-about-this-digest-compiled-sunday-july-5-2026]] · [[2026-07-09-compiled-thursday-july-9-2026-every-item-was-confirmed-publi]] · [[2026-06-25-scope-only-items-confirmed-published-june-24-25-2026-last-24]] · [[2026-07-04-no-new-model-or-frontier-capability-release-was-confirmed-in]] · [[2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w]]
+**Related:** [[2026-07-05-about-this-digest-compiled-sunday-july-5-2026]] · [[2026-07-04-no-new-model-or-frontier-capability-release-was-confirmed-in]] · [[2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w]] · [[2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co]] · [[2026-06-29-all-21-items-were-confirmed-published-within-the-last-24-hou]]
 <!-- graph:end -->

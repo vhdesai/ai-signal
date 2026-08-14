@@ -20,11 +20,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1
 - 2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te
 - 2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp
 - 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
-- 2026-07-15-china-ai-companion-law-takes-effect-forcing-bytedance-doubao
-- 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
+- 2026-07-06-policy-china-china-s-humanlike-ai-rules-force-bytedance-and
 embedding_id: 2026-07-25-china-crackdown-on-ai-companions-triggers-backlash
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Information reports that a crackdown on AI companion apps in China has upset
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te]] · [[2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp]] · [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-07-15-china-ai-companion-law-takes-effect-forcing-bytedance-doubao]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]]
+**Related:** [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1]] · [[2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te]] · [[2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp]] · [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-07-06-policy-china-china-s-humanlike-ai-rules-force-bytedance-and]]
 <!-- graph:end -->

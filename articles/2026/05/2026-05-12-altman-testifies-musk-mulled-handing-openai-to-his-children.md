@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s
 - 2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu
 - 2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial
-- 2026-05-13-altman-testifies-musk-sought-90-control-of-openai-and-mulled
 - 2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j
+- 2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla
 embedding_id: 2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Sam Altman took the stand in the Musk-OpenAI trial to defend the company's for-p
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu]] · [[2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial]] · [[2026-05-13-altman-testifies-musk-sought-90-control-of-openai-and-mulled]] · [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]]
+**Related:** [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu]] · [[2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial]] · [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla]]
 <!-- graph:end -->

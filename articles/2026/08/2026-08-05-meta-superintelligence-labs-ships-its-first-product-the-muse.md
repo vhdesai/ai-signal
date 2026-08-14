@@ -23,7 +23,6 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-05-meta-launches-muse-code-an-ai-coding-agent-for-large-codebas
 related_article_ids:
 - 2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a
-- 2026-08-05-meta-launches-muse-code-a-terminal-coding-agent-for-large-re
 embedding_id: 2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Alexandr Wang's Meta Superintelligence Labs, assembled after Meta's roughly $14.
 **Entities:** [[Meta]] · [[Scale AI]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-08-05-meta-launches-muse-code-an-ai-coding-agent-for-large-codebas]]
-**Related:** [[2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a]] · [[2026-08-05-meta-launches-muse-code-a-terminal-coding-agent-for-large-re]]
+**Related:** [[2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a]]
 <!-- graph:end -->

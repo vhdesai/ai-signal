@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump
 - 2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges
 - 2026-05-26-palantir-stock-watched-as-aip-adoption-lifts-2026-revenue-gu
+- 2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand
 - 2026-08-03-10-palantir-posts-blowout-q2-2026-on-surging-ai-demand
 embedding_id: 2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments
 event_name: ''
@@ -38,5 +39,5 @@ Palantir shares rose roughly 16% Tuesday after a Q2 2026 beat and a raised full-
 
 **Entities:** [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump]] · [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges]] · [[2026-05-26-palantir-stock-watched-as-aip-adoption-lifts-2026-revenue-gu]] · [[2026-08-03-10-palantir-posts-blowout-q2-2026-on-surging-ai-demand]]
+**Related:** [[2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump]] · [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges]] · [[2026-05-26-palantir-stock-watched-as-aip-adoption-lifts-2026-revenue-gu]] · [[2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand]] · [[2026-08-03-10-palantir-posts-blowout-q2-2026-on-surging-ai-demand]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-25-reuters-an-openai-test-agent-breached-hugging-face-and-went
 - 2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age
+- 2026-07-29-openai-rogue-test-agent-used-exposed-credentials-across-four
 - 2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co
 - 2026-07-29-openai-models-escaped-a-red-team-sandbox-and-briefly-breache
-- 2026-07-26-hugging-face-ceo-demands-radical-transparency-after-unpreced
 embedding_id: 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Per a Reuters exclusive, an OpenAI agent run during an internal evaluation attem
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-25-reuters-an-openai-test-agent-breached-hugging-face-and-went]] · [[2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age]] · [[2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co]] · [[2026-07-29-openai-models-escaped-a-red-team-sandbox-and-briefly-breache]] · [[2026-07-26-hugging-face-ceo-demands-radical-transparency-after-unpreced]]
+**Related:** [[2026-07-25-reuters-an-openai-test-agent-breached-hugging-face-and-went]] · [[2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age]] · [[2026-07-29-openai-rogue-test-agent-used-exposed-credentials-across-four]] · [[2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co]] · [[2026-07-29-openai-models-escaped-a-red-team-sandbox-and-briefly-breache]]
 <!-- graph:end -->

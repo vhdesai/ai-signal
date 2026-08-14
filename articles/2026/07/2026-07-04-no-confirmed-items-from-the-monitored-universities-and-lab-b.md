@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university
 - 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
 - 2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours
-- 2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de
+- 2026-05-27-limited-new-university-announcements-within-the-strict-24-ho
 embedding_id: 2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b
 event_name: ''
 ---
@@ -38,5 +38,5 @@ No confirmed items from the monitored universities and lab blogs (Berkeley/BAIR,
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university]] · [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]]
+**Related:** [[2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university]] · [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours]] · [[2026-05-27-limited-new-university-announcements-within-the-strict-24-ho]]
 <!-- graph:end -->

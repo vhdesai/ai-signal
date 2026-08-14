@@ -20,7 +20,6 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-26-do-safety-guardrails-need-to-reason-leanguard-a-fast-and-lig
 - 2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h
 - 2026-05-26-forge-open-source-project-guardrails-push-8b-model-from-53-t
 - 2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode
@@ -37,5 +36,5 @@ This preprint introduces LeanGuard, a lightweight content-moderation and guardra
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-26-do-safety-guardrails-need-to-reason-leanguard-a-fast-and-lig]] · [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-05-26-forge-open-source-project-guardrails-push-8b-model-from-53-t]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-05-14-fastino-labs-open-sources-gliguard-a-300m-safety-moderation]]
+**Related:** [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-05-26-forge-open-source-project-guardrails-push-8b-model-from-53-t]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-05-14-fastino-labs-open-sources-gliguard-a-300m-safety-moderation]]
 <!-- graph:end -->

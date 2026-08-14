@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 86
+member_count: 71
 ---
 
 # AMD
 
-> Auto-generated entity hub. 86 connected article(s).
+> Auto-generated entity hub. 71 connected article(s).
 
 - `2026-08-11` [[2026-08-11-river-ai-raises-1-1-billion-two-months-after-launch|River AI raises $1.1 billion two months after launch]]
 - `2026-08-11` [[2026-08-11-river-ai-raises-1-1b-for-an-open-weights-post-training-cloud|River AI Raises $1.1B for an Open-Weights Post-Training Cloud]]
@@ -17,7 +17,6 @@ member_count: 86
 - `2026-08-07` [[2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity-as-t|AWS reportedly tells engineers to conserve CPU capacity as the compute crunch spreads]]
 - `2026-08-07` [[2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon|AMD Acquires Taalas to Etch AI Models Directly Into Silicon]]
 - `2026-08-06` [[2026-08-06-nvidia-still-dominates-ai-chips-but-bofa-sees-amd-closing-in|Nvidia still dominates AI chips, but BofA sees AMD closing in]]
-- `2026-08-06` [[2026-08-06-amd-acquires-taalas-to-hard-wire-ai-models-into-silicon|AMD acquires Taalas to hard-wire AI models into silicon]]
 - `2026-08-06` [[2026-08-06-amd-acquires-taalas-to-hard-wire-ai-models-directly-into-sil|AMD acquires Taalas to hard-wire AI models directly into silicon]]
 - `2026-08-06` [[2026-08-06-amd-acquires-taalas-to-hardwire-models-into-silicon|AMD Acquires Taalas to Hardwire Models into Silicon]]
 - `2026-08-05` [[2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team|Anthropic is hiring a custom AI chip design team]]
@@ -27,10 +26,8 @@ member_count: 86
 - `2026-08-05` [[2026-08-05-anthropic-confirms-it-is-building-an-in-house-custom-silicon|Anthropic Confirms It Is Building an In-House Custom Silicon Team]]
 - `2026-08-04` [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi|NSF commits $100M to regional AI infrastructure hubs with NVIDIA, AMD, Intel and Dell]]
 - `2026-08-04` [[2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t|AMD Posts Record $11.5B Quarter as Data Center Revenue More Than Doubles]]
-- `2026-08-02` [[2026-08-02-quiet-weekend-loud-signals-openai-reveals-astra-eu-ai-act-go|Quiet Weekend, Loud Signals: OpenAI Reveals “Astra,” EU AI Act Goes Live, and the Bubble Debate Reheats]]
 - `2026-08-01` [[2026-08-01-amd-ships-instella-moe-16b-a3b-a-fully-open-mixture-of-exper|AMD ships Instella-MoE-16B-A3B, a fully open Mixture-of-Experts LLM trained on its own GPUs]]
 - `2026-08-01` [[2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts|AMD releases Instella-MoE-16B-A3B, an open mixture-of-experts model trained on Instinct GPUs]]
-- `2026-08-01` [[2026-08-01-amd-releases-instella-moe-16b-a3b-a-fully-open-mixture-of-ex|AMD releases Instella-MoE-16B-A3B, a fully open Mixture-of-Experts LLM trained on Instinct GPUs]]
 - `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
 - `2026-07-28` [[2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow|Hyperscalers Forecast $5.3 Trillion Capex Through 2030; Borrowing $400B This Year Alone]]
 - `2026-07-28` [[2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient|AMD locks up 529 MW of data-center capacity from Core Scientific in $14B, 15-year deal]]
@@ -39,16 +36,7 @@ member_count: 86
 - `2026-07-25` [[2026-07-25-nvidia-s-open-weights-letter-expands-to-50-signatories|Nvidia’s open-weights letter expands to 50 signatories]]
 - `2026-07-25` [[2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-as-op|Nvidia's “Open Weights” letter doubles to 50 signatories as OpenAI and Google sign on]]
 - `2026-07-25` [[2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-opena|Nvidia's "Open Weights" Letter Doubles to 50 Signatories; OpenAI and Google Sign On]]
-- `2026-07-24` [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-to-challenge-nvidia|AMD unveils Helios rack-scale AI system to challenge Nvidia at the system level]]
-- `2026-07-24` [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-at-advancing-ai-2026|AMD unveils Helios rack-scale AI system at Advancing AI 2026]]
-- `2026-07-24` [[2026-07-24-amd-takes-on-nvidia-with-helios-rack-scale-ai-system|AMD takes on NVIDIA with Helios rack-scale AI system]]
-- `2026-07-24` [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-openai-meta-anthropi|AMD Unveils Helios Rack-Scale AI System; OpenAI, Meta, Anthropic Preparing Deployments]]
-- `2026-07-23` [[2026-07-23-other-ai-related-publication-emails-2026-07-23-items-surface|Other AI-related Publication Emails - [2026-07-23] Items surfaced in Daily AI source coverage: OpenAI Presence, OpenAI…]]
-- `2026-07-23` [[2026-07-23-cerebras-and-amd-partner-on-low-latency-ai-systems-cerebras|Cerebras and AMD partner on low-latency AI systems; Cerebras shares rise]]
-- `2026-07-23` [[2026-07-23-amd-takes-on-nvidia-with-helios-rack-scale-ai-system|AMD takes on NVIDIA with Helios rack-scale AI system]]
-- `2026-07-23` [[2026-07-23-amd-and-cerebras-announce-a-disaggregated-ai-inference-solut|AMD and Cerebras announce a disaggregated AI inference solution]]
 - `2026-07-22` [[2026-07-22-amd-and-anthropic-sign-major-chips-and-investment-deal|AMD and Anthropic sign major chips-and-investment deal]]
-- `2026-07-21` [[2026-07-21-nvidia-details-vera-cpu-opening-a-new-front-against-amd-and|Nvidia details Vera CPU, opening a new front against AMD and Intel]]
 - `2026-07-13` [[2026-07-13-meta-readies-its-custom-iris-ai-chip-for-september-productio|Meta readies its custom “Iris” AI chip for September production]]
 - `2026-07-08` [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere|Hot French startup ZML releases free product to speed inference across lots of AI chips]]
 - `2026-07-06` [[2026-07-06-infrastructure-nvidia-s-flagship-kyber-nvl144-rack-slips-12|Infrastructure Nvidia's flagship Kyber NVL144 rack slips ~12 months to 2028 July 6, 2026 · The Next Web Nvidia has…]]
@@ -83,7 +71,6 @@ member_count: 86
 - `2026-05-18` [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte|Apple signed a preliminary manufacturing agreement with Intel for US-based chip production, responding to White House…]]
 - `2026-05-15` [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar|AMD & Intel Lead 2026 Shift from Training to Inference; CPU Market Booming]]
 - `2026-05-11` [[2026-05-11-|🔥]]
-- `2026-05-09` [[2026-05-09-openai-amd-broadcom-intel-microsoft-nvidia-announce-mrc-netw|OpenAI, AMD, Broadcom, Intel, Microsoft & NVIDIA Announce MRC Networking Protocol for AI Clusters]]
 - `2026-05-09` [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef|Hot Nvidia Commits $40 Billion to Equity AI Deals in 2026 — Before Midyear]]
 - `2026-05-09` [[2026-05-09-a-broad-industry-coalition-openai-amd-broadcom-intel-microso|A broad industry coalition — OpenAI, AMD, Broadcom, Intel, Microsoft, and NVIDIA — jointly announced the Multipath…]]
 - `2026-05-07` [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire|New ZAYA1-8B: Competitive Open Reasoning Model Trained Entirely on AMD Instinct MI300 GPUs]]
@@ -91,6 +78,4 @@ member_count: 86
 - `2026-05-03` [[2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi|Pentagon Signs Classified AI Contracts with 7 Firms; Anthropic Excluded Over Supply-Chain Dispute BREAKING Yahoo…]]
 - `2026-05-03` [[2026-05-03-anthropic-approaches-900b-valuation-50b-round-could-close-wi|Anthropic Approaches $900B+ Valuation — $50B Round Could Close Within Two Weeks BREAKING TechCrunch / Marina Temkin ·…]]
 - `2026-05-02` [[2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b|BREAKINGMeta Lifts 2026 AI Spend to $125–145B]]
-- `2026-03-25` [[2026-03-25-the-information-logo-amd-backed-vultr-seeks-1-billion-for-ai|The Information logo - AMD-Backed Vultr Seeks $1 Billion for AI Cloud Push - Miles Kruppa - Anissa Gardizy - Read the…]]
-- `2026-03-24` [[2026-03-24-research-science-google-deepmind|Research & Science Google DeepMind]]
 - `2026-03-24` [[2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in|AMD and Meta have officially expanded their multi-year AI infrastructure partnership around the deployment of up to 6…]]

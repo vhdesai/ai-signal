@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec
-- 2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin
 - 2026-08-04-openai-publishes-disclosure-on-third-party-cyber-evaluations
+- 2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin
 - 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 - 2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly
 embedding_id: 2026-06-03-openai-publishes-governance-blueprint-altman-urges-against-m
@@ -40,5 +40,5 @@ OpenAI published “A Blueprint for Democratic Governance of Frontier AI,” adv
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec]] · [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]] · [[2026-08-04-openai-publishes-disclosure-on-third-party-cyber-evaluations]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly]]
+**Related:** [[2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec]] · [[2026-08-04-openai-publishes-disclosure-on-third-party-cyber-evaluations]] · [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly]]
 <!-- graph:end -->

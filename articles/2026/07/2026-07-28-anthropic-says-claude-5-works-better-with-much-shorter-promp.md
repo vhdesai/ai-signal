@@ -18,9 +18,14 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-07-28-anthropic-says-claude-5-performs-better-with-shorter-prompts
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
+- 2026-07-28-anthropic-says-claude-5-performs-better-with-shorter-prompts
+- 2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r
+- 2026-08-09-anthropic-makes-claude-code-auto-mode-default-catches-89-of
+- 2026-08-07-auto-mode-is-now-the-default-in-claude-code-for-pro-max-and
 embedding_id: 2026-07-28-anthropic-says-claude-5-works-better-with-much-shorter-promp
 event_name: ''
 ---
@@ -34,5 +39,5 @@ Anthropic reported cutting its Claude Code system prompt by more than 80% (from 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-07-28-anthropic-says-claude-5-performs-better-with-shorter-prompts]]
+**Related:** [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]] · [[2026-07-28-anthropic-says-claude-5-performs-better-with-shorter-prompts]] · [[2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r]] · [[2026-08-09-anthropic-makes-claude-code-auto-mode-default-catches-89-of]] · [[2026-08-07-auto-mode-is-now-the-default-in-claude-code-for-pro-max-and]]
 <!-- graph:end -->

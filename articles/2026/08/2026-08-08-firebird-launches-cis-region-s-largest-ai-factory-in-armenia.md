@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-08-firebird-opens-the-cis-region-s-largest-ai-factory-in-armeni
+- 2026-08-08-firebird-opens-armenian-ai-factory-targets-2-gw-pipeline
 - 2026-08-08-nvidia-backs-firebird-s-new-ai-factory-in-armenia-plans-70-0
 - 2026-08-08-firebird-opens-armenian-ai-factory-targets-2-gw-with-intende
-- 2026-08-08-firebird-opens-armenian-ai-factory-targets-2-gw-pipeline
 - 2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na
 embedding_id: 2026-08-08-firebird-launches-cis-region-s-largest-ai-factory-in-armenia
 event_name: ''
@@ -39,5 +39,5 @@ Firebird opened the CIS region’s largest AI factory in Hrazdan, Armenia, built
 
 **Entities:** [[NVIDIA]] · [[Perplexity]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-08-firebird-opens-the-cis-region-s-largest-ai-factory-in-armeni]] · [[2026-08-08-nvidia-backs-firebird-s-new-ai-factory-in-armenia-plans-70-0]] · [[2026-08-08-firebird-opens-armenian-ai-factory-targets-2-gw-with-intende]] · [[2026-08-08-firebird-opens-armenian-ai-factory-targets-2-gw-pipeline]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]]
+**Related:** [[2026-08-08-firebird-opens-the-cis-region-s-largest-ai-factory-in-armeni]] · [[2026-08-08-firebird-opens-armenian-ai-factory-targets-2-gw-pipeline]] · [[2026-08-08-nvidia-backs-firebird-s-new-ai-factory-in-armenia-plans-70-0]] · [[2026-08-08-firebird-opens-armenian-ai-factory-targets-2-gw-with-intende]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]]
 <!-- graph:end -->

@@ -28,9 +28,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-03-enterprises-move-in-big-tech-builds-deployment-armies-as-the
 - 2026-07-12-july-13-2026
-- 2026-08-01-the-ai-brief-august-1-2026
-- 2026-07-29-wednesday-july-29-2026
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
+- 2026-08-01-the-ai-brief-august-1-2026
+- 2026-07-07-july-7-2026
 embedding_id: 2026-07-04-deployment-silicon-power-take-center-stage
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Over the roughly 48 hours to the morning of Saturday, July 4 — a U.S. holiday 
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-03-enterprises-move-in-big-tech-builds-deployment-armies-as-the]] · [[2026-07-12-july-13-2026]] · [[2026-08-01-the-ai-brief-august-1-2026]] · [[2026-07-29-wednesday-july-29-2026]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]]
+**Related:** [[2026-07-03-enterprises-move-in-big-tech-builds-deployment-armies-as-the]] · [[2026-07-12-july-13-2026]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-08-01-the-ai-brief-august-1-2026]] · [[2026-07-07-july-7-2026]]
 <!-- graph:end -->

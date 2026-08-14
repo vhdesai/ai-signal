@@ -16,9 +16,14 @@ entities: []
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-07-10-hugging-face-ceo-enterprises-are-done-renting-their-ai
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-07-26-hugging-face-ceo-calls-for-radical-transparency-after-openai
+- 2026-07-26-hugging-face-ceo-demands-radical-transparency-after-unpreced
+- 2026-07-27-hugging-face-ceo-calls-for-radical-transparency-after-openai
+- 2026-07-10-hugging-face-ceo-enterprises-are-done-renting-their-ai
+- 2026-08-02-hugging-face-ceo-takes-the-ai-security-debate-to-national-tv
 embedding_id: 2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a
 event_name: ''
 ---
@@ -31,5 +36,5 @@ Hugging Face CEO Clem Delangue argued that enterprises are moving from renting i
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-07-10-hugging-face-ceo-enterprises-are-done-renting-their-ai]]
+**Related:** [[2026-07-26-hugging-face-ceo-calls-for-radical-transparency-after-openai]] · [[2026-07-26-hugging-face-ceo-demands-radical-transparency-after-unpreced]] · [[2026-07-27-hugging-face-ceo-calls-for-radical-transparency-after-openai]] · [[2026-07-10-hugging-face-ceo-enterprises-are-done-renting-their-ai]] · [[2026-08-02-hugging-face-ceo-takes-the-ai-security-debate-to-national-tv]]
 <!-- graph:end -->

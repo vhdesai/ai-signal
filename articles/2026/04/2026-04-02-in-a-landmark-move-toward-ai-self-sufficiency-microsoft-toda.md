@@ -27,7 +27,8 @@ related_article_ids:
 - 2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su
 - 2026-04-04-microsoft-ai-led-by-ceo-mustafa-suleiman-released-three-foun
 - 2026-04-10-microsoft-ai-released-three-proprietary-foundational-models
-- 2026-04-01-microsoft-today-launched-three-foundational-models-built-ent
+- 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
+- 2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai
 embedding_id: 2026-04-02-in-a-landmark-move-toward-ai-self-sufficiency-microsoft-toda
 event_name: ''
 ---
@@ -41,5 +42,5 @@ In a landmark move toward AI self-sufficiency, Microsoft today launched three in
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su]] · [[2026-04-04-microsoft-ai-led-by-ceo-mustafa-suleiman-released-three-foun]] · [[2026-04-10-microsoft-ai-released-three-proprietary-foundational-models]] · [[2026-04-01-microsoft-today-launched-three-foundational-models-built-ent]]
+**Related:** [[2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su]] · [[2026-04-04-microsoft-ai-led-by-ceo-mustafa-suleiman-released-three-foun]] · [[2026-04-10-microsoft-ai-released-three-proprietary-foundational-models]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai]]
 <!-- graph:end -->

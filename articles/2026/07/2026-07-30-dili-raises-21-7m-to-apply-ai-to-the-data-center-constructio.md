@@ -18,9 +18,14 @@ themes:
 - model-capabilities
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast
+- 2026-07-30-dili-raises-21-7-million-to-bring-ai-compliance-to-infrastru
+- 2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c
+- 2026-08-08-ai-infrastructure-buildout-is-fueling-a-regional-bank-commer
+- 2026-08-12-thrive-holdings-raises-2b-to-push-ai-into-regulated-workflow
 embedding_id: 2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio
 event_name: ''
 ---
@@ -33,5 +38,5 @@ Dili raised a $15M Series A (led by Khosla Ventures, with participation from Y C
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Canonical:** [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]]
+**Related:** [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]] · [[2026-07-30-dili-raises-21-7-million-to-bring-ai-compliance-to-infrastru]] · [[2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c]] · [[2026-08-08-ai-infrastructure-buildout-is-fueling-a-regional-bank-commer]] · [[2026-08-12-thrive-holdings-raises-2b-to-push-ai-into-regulated-workflow]]
 <!-- graph:end -->

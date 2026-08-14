@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti
-- 2026-08-10-openai-introduces-premium-seats-for-chatgpt-business-at-125
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 - 2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b
 - 2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai
+- 2026-08-10-openai-introduces-premium-seats-for-chatgpt-business
 embedding_id: 2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A new pricing landscape emerged this week: Google cut AI Ultra from $250 to $200
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]] · [[xAI]]
-**Related:** [[2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti]] · [[2026-08-10-openai-introduces-premium-seats-for-chatgpt-business-at-125]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b]] · [[2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai]]
+**Related:** [[2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b]] · [[2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai]] · [[2026-08-10-openai-introduces-premium-seats-for-chatgpt-business]]
 <!-- graph:end -->

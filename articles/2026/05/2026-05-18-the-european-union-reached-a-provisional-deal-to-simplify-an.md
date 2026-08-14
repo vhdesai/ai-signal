@@ -18,9 +18,12 @@ themes:
 - policy-regulation
 cross_cutting_topics:
 - china-compete
-dedupe_status: duplicate
-canonical_article_id: 2026-05-18-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-05-17-the-european-union-reached-a-provisional-deal-to-simplify-th
+- 2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu
+- 2026-05-07-eu-softens-ai-act-compliance-rules-under-tech-lobby-pressure
 embedding_id: 2026-05-18-the-european-union-reached-a-provisional-deal-to-simplify-an
 event_name: ''
 ---
@@ -33,5 +36,5 @@ The European Union reached a provisional deal to simplify and partially delay th
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Canonical:** [[2026-05-18-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai]]
+**Related:** [[2026-05-17-the-european-union-reached-a-provisional-deal-to-simplify-th]] · [[2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu]] · [[2026-05-07-eu-softens-ai-act-compliance-rules-under-tech-lobby-pressure]]
 <!-- graph:end -->

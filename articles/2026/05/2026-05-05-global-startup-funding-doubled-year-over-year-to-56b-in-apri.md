@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-09-global-venture-funding-reached-56-billion-in-april-2026-the
 - 2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai
-- 2026-05-09-april-vc-funding-hits-56b-ai-dominates-driven-by-anthropic-s
 - 2026-07-07-north-american-startup-funding-hit-a-record-392b-in-h1-2026
 - 2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o
+- 2026-07-07-north-american-startup-funding-hits-record-392b-in-h1-2026-o
 embedding_id: 2026-05-05-global-startup-funding-doubled-year-over-year-to-56b-in-apri
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Global startup funding doubled year-over-year to $56B in April, marking the thir
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-09-global-venture-funding-reached-56-billion-in-april-2026-the]] · [[2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai]] · [[2026-05-09-april-vc-funding-hits-56b-ai-dominates-driven-by-anthropic-s]] · [[2026-07-07-north-american-startup-funding-hit-a-record-392b-in-h1-2026]] · [[2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o]]
+**Related:** [[2026-05-09-global-venture-funding-reached-56-billion-in-april-2026-the]] · [[2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai]] · [[2026-07-07-north-american-startup-funding-hit-a-record-392b-in-h1-2026]] · [[2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o]] · [[2026-07-07-north-american-startup-funding-hits-record-392b-in-h1-2026-o]]
 <!-- graph:end -->

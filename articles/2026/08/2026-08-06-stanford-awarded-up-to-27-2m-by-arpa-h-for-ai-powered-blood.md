@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights
 - 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
-- 2026-04-23-joint-uc-berkeley-and-ucsf-team-behind-jupyterhealth-an-open
+- 2026-04-04-cmu-s-center-for-ai-driven-biomedical-research-ai4bio-announ
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 embedding_id: 2026-08-06-stanford-awarded-up-to-27-2m-by-arpa-h-for-ai-powered-blood
 event_name: ''
@@ -36,5 +36,5 @@ ARPA-H awarded Stanford professor Renee Zhao's lab a multi-year grant of up to $
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]] · [[2026-04-23-joint-uc-berkeley-and-ucsf-team-behind-jupyterhealth-an-open]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]]
+**Related:** [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]] · [[2026-04-04-cmu-s-center-for-ai-driven-biomedical-research-ai4bio-announ]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]]
 <!-- graph:end -->

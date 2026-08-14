@@ -22,10 +22,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-26-silicon-valley-and-washington-continue-to-debate-chinese-ope
-- 2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend
 - 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
 - 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
+- 2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi
+- 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
 embedding_id: 2026-07-26-making-sense-of-the-panic-over-chinese-ai
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TechCrunch's Equity unpacks why Moonshot's Kimi and cheap, capable Chinese open-
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-26-silicon-valley-and-washington-continue-to-debate-chinese-ope]] · [[2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend]] · [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]]
+**Related:** [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]]
 <!-- graph:end -->

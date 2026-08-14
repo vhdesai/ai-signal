@@ -22,9 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w
 - 2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co
-- 2026-06-25-scope-only-items-confirmed-published-june-24-25-2026-last-24
 - 2026-06-29-all-21-items-were-confirmed-published-within-the-last-24-hou
-- 2026-07-02-this-digest-covers-ai-news-and-research-confirmed-published
+- event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o
 embedding_id: 2026-06-27-no-standalone-research-breakthrough-items-from-the-monitored
 event_name: ''
 ---
@@ -37,5 +36,5 @@ No standalone research‑breakthrough items from the monitored labs carried a co
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w]] · [[2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co]] · [[2026-06-25-scope-only-items-confirmed-published-june-24-25-2026-last-24]] · [[2026-06-29-all-21-items-were-confirmed-published-within-the-last-24-hou]] · [[2026-07-02-this-digest-covers-ai-news-and-research-confirmed-published]]
+**Related:** [[2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w]] · [[2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co]] · [[2026-06-29-all-21-items-were-confirmed-published-within-the-last-24-hou]] · [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o]]
 <!-- graph:end -->

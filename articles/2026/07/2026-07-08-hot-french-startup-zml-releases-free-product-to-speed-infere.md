@@ -27,8 +27,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in
 - 2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw
-- 2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl
 - 2026-05-11-
+- 2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl
 embedding_id: 2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere
 event_name: ''
 ---
@@ -42,5 +42,5 @@ ZML released a free LLM inference server designed to run across Nvidia, AMD, Goo
 
 **Entities:** [[AMD]] · [[Apple]] · [[Google]] · [[Intel]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in]] · [[2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw]] · [[2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl]] · [[2026-05-11-]]
+**Related:** [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in]] · [[2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw]] · [[2026-05-11-]] · [[2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl]]
 <!-- graph:end -->

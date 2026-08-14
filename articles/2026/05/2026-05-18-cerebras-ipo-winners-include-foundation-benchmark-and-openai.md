@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-05-23-cerebras-systems-completed-a-blockbuster-ipo-with-a-strong-m
 - 2026-05-28-cerebras-positioned-as-most-watched-ai-chip-ipo-of-2026
 - 2026-05-04-trendingcerebras-on-track-for-blockbuster-ipo
-- 2026-05-23-cerebras-ipo-debuts-to-strong-demand-fueling-hype-for-openai
 - 2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record
+- 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
 embedding_id: 2026-05-18-cerebras-ipo-winners-include-foundation-benchmark-and-openai
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Early investors disclosed in Cerebras's blockbuster IPO include Foundation Capit
 
 **Entities:** [[AMD]] · [[Cerebras]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-23-cerebras-systems-completed-a-blockbuster-ipo-with-a-strong-m]] · [[2026-05-28-cerebras-positioned-as-most-watched-ai-chip-ipo-of-2026]] · [[2026-05-04-trendingcerebras-on-track-for-blockbuster-ipo]] · [[2026-05-23-cerebras-ipo-debuts-to-strong-demand-fueling-hype-for-openai]] · [[2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record]]
+**Related:** [[2026-05-23-cerebras-systems-completed-a-blockbuster-ipo-with-a-strong-m]] · [[2026-05-28-cerebras-positioned-as-most-watched-ai-chip-ipo-of-2026]] · [[2026-05-04-trendingcerebras-on-track-for-blockbuster-ipo]] · [[2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]]
 <!-- graph:end -->

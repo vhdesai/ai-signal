@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t
 - 2026-07-04-midjourney-moves-to-force-disney-universal-and-warner-bros-t
 - 2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou
-- 2026-07-04-ai-safety-policy-trending-disney-warner-bros
-- 2026-07-05-midjourney-moves-to-force-hollywood-studios-to-disclose-thei
+- 2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil
+- 2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c
 embedding_id: 2026-07-05-in-the-copyright-suit-brought-by-disney-universal-and-warner
 event_name: ''
 ---
@@ -37,5 +37,5 @@ In the copyright suit brought by Disney, Universal, and Warner Bros., Midjourney
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t]] · [[2026-07-04-midjourney-moves-to-force-disney-universal-and-warner-bros-t]] · [[2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou]] · [[2026-07-04-ai-safety-policy-trending-disney-warner-bros]] · [[2026-07-05-midjourney-moves-to-force-hollywood-studios-to-disclose-thei]]
+**Related:** [[2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t]] · [[2026-07-04-midjourney-moves-to-force-disney-universal-and-warner-bros-t]] · [[2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou]] · [[2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil]] · [[2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c]]
 <!-- graph:end -->

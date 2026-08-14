@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 - 2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation
-- 2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent
-- 2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec
+- 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
+- 2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist
 embedding_id: 2026-07-05-synthetic-sciences-open-sources-openscience-a-model-agnostic
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Synthetic Sciences released OpenScience, an open-source, model-agnostic AI workb
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]] · [[2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation]] · [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]] · [[2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec]]
+**Related:** [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]] · [[2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist]]
 <!-- graph:end -->

@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge
 - 2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen
-- event-acm-cais-2026-acm-cais-2026-optany-optimize-anything
 - 2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe
+- 2026-05-10-uc-berkeley-optany-one-unified-llm-optimizer-beats-specializ
 embedding_id: 2026-06-20-cisco-ai-introduces-fapo-for-pipeline-aware-prompt-optimizat
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cisco Foundation AI introduced FAPO, described as an automated prompt-optimizati
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge]] · [[2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen]] · [[event-acm-cais-2026-acm-cais-2026-optany-optimize-anything]] · [[2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe]]
+**Related:** [[2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge]] · [[2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen]] · [[2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe]] · [[2026-05-10-uc-berkeley-optany-one-unified-llm-optimizer-beats-specializ]]
 <!-- graph:end -->

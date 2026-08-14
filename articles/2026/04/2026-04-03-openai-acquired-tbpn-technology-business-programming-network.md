@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-03-openai-acquires-tech-talk-show-tbpn-first-media-acquisition
-- 2026-03-20-tech-news-and-analysis-every-weekday-at-10-am-pt-1-pm-et
-- 2026-07-16-the-information-2026-07-16-external-tsmc-plans-another-100-b
-- 2026-03-09-tech-news-and-analysis-every-weekday-at-10-am-pt-1-pm-et
 - 2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar
+- 2026-08-08-openai-acquires-presentation-startup-nextslide-team-joins-ch
+- 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
+- 2026-08-10-openai-acquires-presentation-startup-nextslide-team-folds-in
+- 2026-05-14-daily-ai-news-digest-may-14-2026
 embedding_id: 2026-04-03-openai-acquired-tbpn-technology-business-programming-network
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI acquired TBPN (Technology Business Programming Network), a daily live tec
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-03-openai-acquires-tech-talk-show-tbpn-first-media-acquisition]] · [[2026-03-20-tech-news-and-analysis-every-weekday-at-10-am-pt-1-pm-et]] · [[2026-07-16-the-information-2026-07-16-external-tsmc-plans-another-100-b]] · [[2026-03-09-tech-news-and-analysis-every-weekday-at-10-am-pt-1-pm-et]] · [[2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar]]
+**Related:** [[2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar]] · [[2026-08-08-openai-acquires-presentation-startup-nextslide-team-joins-ch]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-08-10-openai-acquires-presentation-startup-nextslide-team-folds-in]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-28-openai-officially-discontinued-its-sora-ai-video-generation
-- 2026-03-09-openai-robotics-head-quits-over-defense-dept
-- 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
 - 2026-04-01-openai-has-officially-closed-the-largest-private-financing-d
-- 2026-05-09-openai-broadcom-18b-project-nexus-chip-deal-stalls-microsoft
+- 2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation
+- 2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by
+- 2026-04-01-google-released-veo-3-1-lite-on-the-gemini-api-and-google-ai
 embedding_id: 2026-03-24-openai-shuts-down-sora-1m-day-burn-1b-disney-deal-collapses
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI discontinued Sora after six months, citing ~$1M/day compute costs against
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-03-28-openai-officially-discontinued-its-sora-ai-video-generation]] · [[2026-03-09-openai-robotics-head-quits-over-defense-dept]] · [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]] · [[2026-04-01-openai-has-officially-closed-the-largest-private-financing-d]] · [[2026-05-09-openai-broadcom-18b-project-nexus-chip-deal-stalls-microsoft]]
+**Related:** [[2026-03-28-openai-officially-discontinued-its-sora-ai-video-generation]] · [[2026-04-01-openai-has-officially-closed-the-largest-private-financing-d]] · [[2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation]] · [[2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by]] · [[2026-04-01-google-released-veo-3-1-lite-on-the-gemini-api-and-google-ai]]
 <!-- graph:end -->

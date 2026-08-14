@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
 - 2026-04-02-research-breakthroughs
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
-- 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
+- 2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui
 embedding_id: 2026-07-08-tetramem-and-sk-hynix-demonstrate-a-memristor-based-in-memor
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TetraMem and SK hynix published a joint paper, “A Memristor-based In-Memory Co
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-08-tetramem-and-sk-hynix-demonstrate-memristor-based-in-memory]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-04-02-research-breakthroughs]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]]
+**Related:** [[2026-07-08-tetramem-and-sk-hynix-demonstrate-memristor-based-in-memory]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-04-02-research-breakthroughs]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui]]
 <!-- graph:end -->

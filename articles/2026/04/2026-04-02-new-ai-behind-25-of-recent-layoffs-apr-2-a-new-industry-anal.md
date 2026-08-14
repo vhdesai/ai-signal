@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption
 - 2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in
-- 2026-05-14-ai-layoff-wave-wipes-out-90-000-jobs-in-2026-it-sector-sheds
 - 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
-- 2026-05-18-gartner-ai-driven-layoffs-are-not-improving-roi-80-of-compan
+- 2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros
+- 2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu
 embedding_id: 2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal
 event_name: ''
 ---
@@ -37,5 +37,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption]] · [[2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in]] · [[2026-05-14-ai-layoff-wave-wipes-out-90-000-jobs-in-2026-it-sector-sheds]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-05-18-gartner-ai-driven-layoffs-are-not-improving-roi-80-of-compan]]
+**Related:** [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption]] · [[2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros]] · [[2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu]]
 <!-- graph:end -->

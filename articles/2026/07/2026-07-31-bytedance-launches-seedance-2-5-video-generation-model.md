@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-23-bytedance-unveils-seedance-2-5-video-generation-model
 - 2026-07-31-bytedance-launches-seedance-2-5-as-chinese-labs-press-a-gene
-- 2026-07-03-bytedance-opens-the-public-launch-window-for-seedance-2-5-vi
 - 2026-03-28-bytedance-released-seedance-2-0-an-upgraded-video-generation
+- 2026-07-03-bytedance-opens-the-public-launch-window-for-seedance-2-5-vi
 - 2026-05-16-worldreasonbench-ai-video-generators-look-stunning-but-still
 embedding_id: 2026-07-31-bytedance-launches-seedance-2-5-video-generation-model
 event_name: ''
@@ -41,5 +41,5 @@ ByteDance released Seedance 2.5, capable of generating 30-second high-quality cl
 
 **Entities:** [[ByteDance]] · [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-23-bytedance-unveils-seedance-2-5-video-generation-model]] · [[2026-07-31-bytedance-launches-seedance-2-5-as-chinese-labs-press-a-gene]] · [[2026-07-03-bytedance-opens-the-public-launch-window-for-seedance-2-5-vi]] · [[2026-03-28-bytedance-released-seedance-2-0-an-upgraded-video-generation]] · [[2026-05-16-worldreasonbench-ai-video-generators-look-stunning-but-still]]
+**Related:** [[2026-06-23-bytedance-unveils-seedance-2-5-video-generation-model]] · [[2026-07-31-bytedance-launches-seedance-2-5-as-chinese-labs-press-a-gene]] · [[2026-03-28-bytedance-released-seedance-2-0-an-upgraded-video-generation]] · [[2026-07-03-bytedance-opens-the-public-launch-window-for-seedance-2-5-vi]] · [[2026-05-16-worldreasonbench-ai-video-generators-look-stunning-but-still]]
 <!-- graph:end -->

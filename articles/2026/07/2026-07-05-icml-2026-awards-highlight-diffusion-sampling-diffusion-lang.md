@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-27-bytedance-and-renmin-university-release-illada-an-8b-diffusi
 - 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-06-15-arxiv-june-15-listing-icml-uai-and-colt-2026-accepted-papers
-- 2026-07-16-google-research-publishes-a-mathematical-account-of-diffusio
+- 2026-06-27-bytedance-and-renmin-university-release-illada-an-8b-diffusi
+- 2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t
 embedding_id: 2026-07-05-icml-2026-awards-highlight-diffusion-sampling-diffusion-lang
 event_name: ''
 ---
@@ -39,5 +39,5 @@ ICML's 2026 awards post recognized work including high-accuracy sampling for dif
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-27-bytedance-and-renmin-university-release-illada-an-8b-diffusi]] · [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-06-15-arxiv-june-15-listing-icml-uai-and-colt-2026-accepted-papers]] · [[2026-07-16-google-research-publishes-a-mathematical-account-of-diffusio]]
+**Related:** [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-06-15-arxiv-june-15-listing-icml-uai-and-colt-2026-accepted-papers]] · [[2026-06-27-bytedance-and-renmin-university-release-illada-an-8b-diffusi]] · [[2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t]]
 <!-- graph:end -->

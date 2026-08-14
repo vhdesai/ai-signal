@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe
 - 2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta
 - 2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m
-- 2026-08-02-eu-ai-act-enforcement-powers-take-effect-for-general-purpose
+- 2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla
 embedding_id: 2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres
 event_name: ''
 ---
@@ -38,5 +38,5 @@ EU regulators have signaled a softening of certain AI Act compliance obligations
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-07-eu-softens-ai-act-compliance-rules-under-tech-lobby-pressure]] · [[2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe]] · [[2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta]] · [[2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m]] · [[2026-08-02-eu-ai-act-enforcement-powers-take-effect-for-general-purpose]]
+**Related:** [[2026-05-07-eu-softens-ai-act-compliance-rules-under-tech-lobby-pressure]] · [[2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe]] · [[2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta]] · [[2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m]] · [[2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla]]
 <!-- graph:end -->

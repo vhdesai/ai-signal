@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle
-- 2026-05-01-6-ai-safety-policy
 - 2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla
 - 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
-- 2026-07-21-the-pentagon-openai-regulation-dispute-and-european-assistan
+- 2026-07-31-openai-outlines-responsible-ai-practices-for-europe-as-the-e
+- 2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit
 embedding_id: 2026-05-12-ethics-debate-over-autonomous-ai-weapons-intensifies-in-euro
 event_name: ''
 ---
@@ -39,5 +39,5 @@ European policymakers continued debating ethical guardrails for autonomous AI in
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle]] · [[2026-05-01-6-ai-safety-policy]] · [[2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-07-21-the-pentagon-openai-regulation-dispute-and-european-assistan]]
+**Related:** [[2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle]] · [[2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-07-31-openai-outlines-responsible-ai-practices-for-europe-as-the-e]] · [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit]]
 <!-- graph:end -->

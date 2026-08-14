@@ -25,8 +25,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
-- 2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu
-- 2026-07-07-exclusive-china-s-deepseek-is-developing-its-own-ai-chip
+- 2026-04-02-two-major-chinese-ai-models-are-expected-to-debut-in-april-2
+- 2026-05-18-deepseek-the-hangzhou-lab-behind-the-v4-model-a-1-6-trillion
 - 2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow
 embedding_id: 2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int
 event_name: ''
@@ -41,5 +41,5 @@ DealBook reported that corporate America is increasingly willing to adopt Chines
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu]] · [[2026-07-07-exclusive-china-s-deepseek-is-developing-its-own-ai-chip]] · [[2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow]]
+**Related:** [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-04-02-two-major-chinese-ai-models-are-expected-to-debut-in-april-2]] · [[2026-05-18-deepseek-the-hangzhou-lab-behind-the-v4-model-a-1-6-trillion]] · [[2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow]]
 <!-- graph:end -->

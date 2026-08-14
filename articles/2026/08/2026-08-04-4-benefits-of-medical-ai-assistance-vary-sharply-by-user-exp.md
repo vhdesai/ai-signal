@@ -19,8 +19,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-04-mit-finds-medical-ai-benefits-vary-sharply-by-user-expertise
 - 2026-08-04-mit-study-finds-medical-ai-assistance-benefits-vary-by-user
+- 2026-08-04-mit-finds-medical-ai-benefits-vary-sharply-by-user-expertise
 - 2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by
 - 2026-08-04-mit-benefits-of-medical-ai-assistance-vary-sharply-by-user-e
 - 2026-08-04-mit-study-finds-medical-ai-benefits-depend-heavily-on-user-e
@@ -36,5 +36,5 @@ A new MIT-led study in Nature Medicine tested non-experts and clinicians diagnos
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-04-mit-finds-medical-ai-benefits-vary-sharply-by-user-expertise]] · [[2026-08-04-mit-study-finds-medical-ai-assistance-benefits-vary-by-user]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]] · [[2026-08-04-mit-benefits-of-medical-ai-assistance-vary-sharply-by-user-e]] · [[2026-08-04-mit-study-finds-medical-ai-benefits-depend-heavily-on-user-e]]
+**Related:** [[2026-08-04-mit-study-finds-medical-ai-assistance-benefits-vary-by-user]] · [[2026-08-04-mit-finds-medical-ai-benefits-vary-sharply-by-user-expertise]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]] · [[2026-08-04-mit-benefits-of-medical-ai-assistance-vary-sharply-by-user-e]] · [[2026-08-04-mit-study-finds-medical-ai-benefits-depend-heavily-on-user-e]]
 <!-- graph:end -->

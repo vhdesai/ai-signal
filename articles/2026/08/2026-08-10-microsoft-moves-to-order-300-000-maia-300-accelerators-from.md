@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-10-microsoft-reportedly-orders-300-000-maia-300-accelerators-fr
 - 2026-08-10-microsoft-plans-10-production-ramp-of-next-gen-maia-ai-chip
 - event-microsoft-build-2026-microsoft-build-2026-infrastructure-silicon-and-cloud-operat
-- 2026-05-25-anthropic-eyes-microsoft-maia-200-as-5th-silicon-partner
+- 2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips
 embedding_id: 2026-08-10-microsoft-moves-to-order-300-000-maia-300-accelerators-from
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft is reported to be in talks with TSMC to produce more than 300,000 Maia
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-10-microsoft-reportedly-orders-300-000-maia-300-accelerators-fr]] · [[2026-08-10-microsoft-plans-10-production-ramp-of-next-gen-maia-ai-chip]] · [[event-microsoft-build-2026-microsoft-build-2026-infrastructure-silicon-and-cloud-operat]] · [[2026-05-25-anthropic-eyes-microsoft-maia-200-as-5th-silicon-partner]]
+**Related:** [[2026-08-10-microsoft-reportedly-orders-300-000-maia-300-accelerators-fr]] · [[2026-08-10-microsoft-plans-10-production-ramp-of-next-gen-maia-ai-chip]] · [[event-microsoft-build-2026-microsoft-build-2026-infrastructure-silicon-and-cloud-operat]] · [[2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips]]
 <!-- graph:end -->

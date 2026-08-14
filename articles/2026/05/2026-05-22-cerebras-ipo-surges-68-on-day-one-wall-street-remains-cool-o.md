@@ -22,10 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-15-cerebras-ipo-stock-surges-68-in-2026-s-largest-tech-offering
-- 2026-05-18-cerebras-ipo-48-8b-target-valuation-20x-oversubscribed-stock
 - 2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale
 - 2026-05-14-cerebras-pop-sets-up-the-ai-trade-on-wall-street
+- 2026-05-27-trending-cerebras-68-ipo-pop-draws-fresh-ark-buying-ceo-warn
 embedding_id: 2026-05-22-cerebras-ipo-surges-68-on-day-one-wall-street-remains-cool-o
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Cerebras shares surged roughly 60% from its $185 IPO price after a 68% first-day
 
 **Entities:** [[Cerebras]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-15-cerebras-ipo-stock-surges-68-in-2026-s-largest-tech-offering]] · [[2026-05-18-cerebras-ipo-48-8b-target-valuation-20x-oversubscribed-stock]] · [[2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale]] · [[2026-05-14-cerebras-pop-sets-up-the-ai-trade-on-wall-street]]
+**Related:** [[2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale]] · [[2026-05-14-cerebras-pop-sets-up-the-ai-trade-on-wall-street]] · [[2026-05-27-trending-cerebras-68-ipo-pop-draws-fresh-ark-buying-ceo-warn]]
 <!-- graph:end -->

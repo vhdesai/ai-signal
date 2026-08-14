@@ -22,7 +22,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
-- 2026-07-06-microsoft-cuts-4-800-roles-citing-ai-driven-changes-to-work
 embedding_id: 2026-06-30-microsoft-prepares-fresh-layoffs-as-ai-capex-passes-100b
 event_name: ''
 ---
@@ -36,5 +35,5 @@ Microsoft is preparing to cut less than 2.5% of its ~220,000-person workforce ne
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]] · [[2026-07-06-microsoft-cuts-4-800-roles-citing-ai-driven-changes-to-work]]
+**Related:** [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]]
 <!-- graph:end -->

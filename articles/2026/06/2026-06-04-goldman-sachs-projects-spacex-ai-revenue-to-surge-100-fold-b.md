@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq
 - 2026-05-20-goldman-sachs-to-lead-spacex-ipo-ai-adjacent-infra-continues
 - 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
 - 2026-08-04-spacex-revenue-nearly-doubles-on-ai-compute-deals-and-starli
@@ -38,5 +39,5 @@ Goldman Sachs projects SpaceX's AI division (xAI) could see revenue surge 100-fo
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-goldman-sachs-to-lead-spacex-ipo-ai-adjacent-infra-continues]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-08-04-spacex-revenue-nearly-doubles-on-ai-compute-deals-and-starli]] · [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]]
+**Related:** [[2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq]] · [[2026-05-20-goldman-sachs-to-lead-spacex-ipo-ai-adjacent-infra-continues]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-08-04-spacex-revenue-nearly-doubles-on-ai-compute-deals-and-starli]] · [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]]
 <!-- graph:end -->

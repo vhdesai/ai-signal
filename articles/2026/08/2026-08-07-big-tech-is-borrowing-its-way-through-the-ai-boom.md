@@ -20,8 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure
+- 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
 - 2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou
+- 2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190
+- 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
 embedding_id: 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
 event_name: ''
 ---
@@ -34,5 +36,5 @@ Yahoo Finance reported that major technology companies are increasingly using de
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure]] · [[2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou]]
+**Related:** [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]]
 <!-- graph:end -->

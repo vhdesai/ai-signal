@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-10-snap-and-qualcomm-partner-to-power-specs-ai-glasses-april-10
 - 2026-05-25-xreal-google-s-smartglasses-partner-says-it-has-finally-crac
 - event-google-i-o-2026-google-i-o-2026-android-xr-and-hardware
 - 2026-05-19-google-announces-android-xr-audio-powered-smart-glasses-at-i
 - 2026-06-07-nvidia-and-sk-hynix-sign-multiyear-memory-partnership-for-ai
+- 2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi
 embedding_id: 2026-04-10-snap-announced-a-partnership-between-its-ar-glasses-subsidia
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Snap announced a partnership between its AR glasses subsidiary Specs and Qualcom
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-10-snap-and-qualcomm-partner-to-power-specs-ai-glasses-april-10]] · [[2026-05-25-xreal-google-s-smartglasses-partner-says-it-has-finally-crac]] · [[event-google-i-o-2026-google-i-o-2026-android-xr-and-hardware]] · [[2026-05-19-google-announces-android-xr-audio-powered-smart-glasses-at-i]] · [[2026-06-07-nvidia-and-sk-hynix-sign-multiyear-memory-partnership-for-ai]]
+**Related:** [[2026-05-25-xreal-google-s-smartglasses-partner-says-it-has-finally-crac]] · [[event-google-i-o-2026-google-i-o-2026-android-xr-and-hardware]] · [[2026-05-19-google-announces-android-xr-audio-powered-smart-glasses-at-i]] · [[2026-06-07-nvidia-and-sk-hynix-sign-multiyear-memory-partnership-for-ai]] · [[2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi]]
 <!-- graph:end -->

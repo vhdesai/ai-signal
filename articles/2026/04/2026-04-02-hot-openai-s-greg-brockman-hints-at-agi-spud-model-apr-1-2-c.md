@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
 - 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
-- 2026-07-04-openai-s-greg-brockman-argues-for-an-almost-no-interface-age
 - 2026-03-28-openai-s-next-flagship-model-internally-codenamed-spud-compl
 - 2026-07-04-openai-president-greg-brockman-made-the-case-for-a-future-wi
+- 2026-04-23-openai-gpt-5-5-spud-rolling-out-to-chatgpt-and-codex
 embedding_id: 2026-04-02-hot-openai-s-greg-brockman-hints-at-agi-spud-model-apr-1-2-c
 event_name: ''
 ---
@@ -39,5 +39,5 @@ event_name: ''
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-07-04-openai-s-greg-brockman-argues-for-an-almost-no-interface-age]] · [[2026-03-28-openai-s-next-flagship-model-internally-codenamed-spud-compl]] · [[2026-07-04-openai-president-greg-brockman-made-the-case-for-a-future-wi]]
+**Related:** [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-03-28-openai-s-next-flagship-model-internally-codenamed-spud-compl]] · [[2026-07-04-openai-president-greg-brockman-made-the-case-for-a-future-wi]] · [[2026-04-23-openai-gpt-5-5-spud-rolling-out-to-chatgpt-and-codex]]
 <!-- graph:end -->

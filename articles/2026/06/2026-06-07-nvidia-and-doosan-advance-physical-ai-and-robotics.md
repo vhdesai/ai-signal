@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
+- 2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development
 - 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
 - 2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a
-- 2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development
 - 2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve
+- 2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero
 embedding_id: 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Doosan Robotics is integrating Nvidia Isaac, Cosmos world-foundation models, and
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]] · [[2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development]] · [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve]]
+**Related:** [[2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]] · [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve]] · [[2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero]]
 <!-- graph:end -->

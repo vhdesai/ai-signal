@@ -20,9 +20,14 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-04-03-mistral-ai-raises-830m-in-debt-to-build-paris-ai-data-center
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da
+- 2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f
+- 2026-05-28-mistral-explores-custom-chips-and-new-french-data-center
+- 2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it
+- 2026-08-13-nvidia-s-new-500b-data-center-plan-carries-a-gpu-residual-va
 embedding_id: 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
 event_name: ''
 ---
@@ -36,5 +41,5 @@ Mistral AI secured $830M in its first-ever debt financing (BNP Paribas, HSBC, an
 
 **Entities:** [[Mistral]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Canonical:** [[2026-04-03-mistral-ai-raises-830m-in-debt-to-build-paris-ai-data-center]]
+**Related:** [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f]] · [[2026-05-28-mistral-explores-custom-chips-and-new-french-data-center]] · [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]] · [[2026-08-13-nvidia-s-new-500b-data-center-plan-carries-a-gpu-residual-va]]
 <!-- graph:end -->

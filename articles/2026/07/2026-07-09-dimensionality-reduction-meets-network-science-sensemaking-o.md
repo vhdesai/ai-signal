@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-30-apple-applies-network-science-to-umap-s-internal-k-nearest-n
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
 - 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
-- 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
+- 2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon
 embedding_id: 2026-07-09-dimensionality-reduction-meets-network-science-sensemaking-o
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Researchers from Georgia Tech, CMU, UC San Diego, and Apple Research showed that
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-10-dimensionality-reduction-meets-network-science-sensemaking-o]] · [[2026-07-30-apple-applies-network-science-to-umap-s-internal-k-nearest-n]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]]
+**Related:** [[2026-07-10-dimensionality-reduction-meets-network-science-sensemaking-o]] · [[2026-07-30-apple-applies-network-science-to-umap-s-internal-k-nearest-n]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon]]
 <!-- graph:end -->

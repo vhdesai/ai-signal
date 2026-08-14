@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-22-daily-ai-news-digest-compiled-for-vik-desai-corp-dev-microso
-- 2026-05-03-daily-ai-news-digest-compiled-for-vik-desai-corp-dev-microso
 - 2026-05-18-daily-ai-news-digest-compiled-for-vik-desai-director-of-tech
-- 2026-05-02-daily-ai-news-digest-saturday-may-2-2026-compiled-for-vik-de
-- 2026-05-23-saturday-may-23-2026-prepared-for-vik-desai-microsoft-corp-d
+- 2026-05-18-daily-ai-news-digest-compiled-may-18-2026-sources-techcrunch
+- 2026-04-04-daily-ai-news-digest-april-4-2026-compiled-from-30-sources-i
+- 2026-05-20-ai-news-digest-may-20-2026
+- 2026-05-03-company-news-techcrunch-ai-9to5mac-the-next-web-bloomberg-de
 embedding_id: 2026-04-10-daily-ai-news-digest-compiled-for-vik-desai-microsoft-corp-d
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Daily AI News Digest | Compiled for Vik Desai, Microsoft Corp Dev | April 10, 20
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-22-daily-ai-news-digest-compiled-for-vik-desai-corp-dev-microso]] · [[2026-05-03-daily-ai-news-digest-compiled-for-vik-desai-corp-dev-microso]] · [[2026-05-18-daily-ai-news-digest-compiled-for-vik-desai-director-of-tech]] · [[2026-05-02-daily-ai-news-digest-saturday-may-2-2026-compiled-for-vik-de]] · [[2026-05-23-saturday-may-23-2026-prepared-for-vik-desai-microsoft-corp-d]]
+**Related:** [[2026-05-18-daily-ai-news-digest-compiled-for-vik-desai-director-of-tech]] · [[2026-05-18-daily-ai-news-digest-compiled-may-18-2026-sources-techcrunch]] · [[2026-04-04-daily-ai-news-digest-april-4-2026-compiled-from-30-sources-i]] · [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-05-03-company-news-techcrunch-ai-9to5mac-the-next-web-bloomberg-de]]
 <!-- graph:end -->

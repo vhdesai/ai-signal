@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-29-thinking-machines-co-founder-lilian-weng-departs-rejoins-ope
-- 2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin
 - 2026-08-03-13-ai-talent-war-intensifies-lilian-weng-reportedly-returns
 - 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
+- 2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear
+- 2026-08-03-deepmind-strategy-chief-frames-record-ai-capex-as-a-bet-on-r
 embedding_id: 2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Lilian Weng, a cofounder of Thinking Machines Lab and former OpenAI safety resea
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-29-thinking-machines-co-founder-lilian-weng-departs-rejoins-ope]] · [[2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin]] · [[2026-08-03-13-ai-talent-war-intensifies-lilian-weng-reportedly-returns]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]]
+**Related:** [[2026-07-29-thinking-machines-co-founder-lilian-weng-departs-rejoins-ope]] · [[2026-08-03-13-ai-talent-war-intensifies-lilian-weng-reportedly-returns]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]] · [[2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear]] · [[2026-08-03-deepmind-strategy-chief-frames-record-ai-capex-as-a-bet-on-r]]
 <!-- graph:end -->

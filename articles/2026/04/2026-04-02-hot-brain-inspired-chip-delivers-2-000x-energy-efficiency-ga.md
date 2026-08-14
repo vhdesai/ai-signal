@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-02-research-breakthroughs
 - 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
-- 2026-04-01-stanford-cmu-mit-and-upenn-demonstrate-4-ai-chip-speedup-via
 - 2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world
 - 2026-04-02-cognichip-a-startup-building-ai-systems-that-design-semicond
+- 2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole
 embedding_id: 2026-04-02-hot-brain-inspired-chip-delivers-2-000x-energy-efficiency-ga
 event_name: ''
 ---
@@ -37,5 +37,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-02-research-breakthroughs]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-04-01-stanford-cmu-mit-and-upenn-demonstrate-4-ai-chip-speedup-via]] · [[2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world]] · [[2026-04-02-cognichip-a-startup-building-ai-systems-that-design-semicond]]
+**Related:** [[2026-04-02-research-breakthroughs]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world]] · [[2026-04-02-cognichip-a-startup-building-ai-systems-that-design-semicond]] · [[2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole]]
 <!-- graph:end -->

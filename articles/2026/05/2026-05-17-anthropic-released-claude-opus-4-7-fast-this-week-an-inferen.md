@@ -21,8 +21,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
 - 2026-07-11-claude-opus-4-7-is-now-generally-available
+- 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
 - 2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en
 - 2026-05-28-anthropic-releases-claude-opus-4-8-with-dynamic-workflows
 - 2026-05-28-anthropic-releases-claude-opus-4-8-with-a-dynamic-workflow-t
@@ -39,5 +39,5 @@ Anthropic released Claude Opus 4.7 (Fast) this week — an inference-optimized v
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-07-11-claude-opus-4-7-is-now-generally-available]] · [[2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en]] · [[2026-05-28-anthropic-releases-claude-opus-4-8-with-dynamic-workflows]] · [[2026-05-28-anthropic-releases-claude-opus-4-8-with-a-dynamic-workflow-t]]
+**Related:** [[2026-07-11-claude-opus-4-7-is-now-generally-available]] · [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en]] · [[2026-05-28-anthropic-releases-claude-opus-4-8-with-dynamic-workflows]] · [[2026-05-28-anthropic-releases-claude-opus-4-8-with-a-dynamic-workflow-t]]
 <!-- graph:end -->

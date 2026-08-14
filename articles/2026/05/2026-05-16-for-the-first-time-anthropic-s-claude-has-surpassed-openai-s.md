@@ -21,8 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption
-- 2026-05-15-anthropic-surpasses-openai-in-u-s-business-ai-adoption-34-4
+- 2026-05-14-anthropic-overtakes-openai-in-u-s-business-ai-adoption-ventu
 embedding_id: 2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s
 event_name: ''
 ---
@@ -36,5 +37,5 @@ For the first time, Anthropic's Claude has surpassed OpenAI's ChatGPT in U.S. en
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-05-15-anthropic-surpasses-openai-in-u-s-business-ai-adoption-34-4]]
+**Related:** [[2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-05-14-anthropic-overtakes-openai-in-u-s-business-ai-adoption-ventu]]
 <!-- graph:end -->

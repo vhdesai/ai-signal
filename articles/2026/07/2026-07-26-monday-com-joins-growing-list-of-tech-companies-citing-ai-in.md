@@ -21,10 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-25-monday-com-cites-ai-as-a-factor-in-fresh-layoffs
-- 2026-07-22-monday-com-cuts-20-of-staff-to-refocus-around-ai-work-platfo
 - 2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal
 - 2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros
-- 2026-07-12-welcome-to-the-era-of-the-forever-layoff
+- 2026-06-30-microsoft-prepares-fresh-layoffs-as-ai-capex-passes-100b
 embedding_id: 2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in
 event_name: ''
 ---
@@ -37,5 +36,5 @@ TechCrunch reports that Monday.com became the latest technology company to cite 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-25-monday-com-cites-ai-as-a-factor-in-fresh-layoffs]] · [[2026-07-22-monday-com-cuts-20-of-staff-to-refocus-around-ai-work-platfo]] · [[2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal]] · [[2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros]] · [[2026-07-12-welcome-to-the-era-of-the-forever-layoff]]
+**Related:** [[2026-07-25-monday-com-cites-ai-as-a-factor-in-fresh-layoffs]] · [[2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal]] · [[2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros]] · [[2026-06-30-microsoft-prepares-fresh-layoffs-as-ai-capex-passes-100b]]
 <!-- graph:end -->

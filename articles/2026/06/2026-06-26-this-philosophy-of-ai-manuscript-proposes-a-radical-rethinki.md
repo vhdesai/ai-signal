@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-26-radical-ai-interpretability-arxiv-cs-ai-june-26-2026
 - 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
-- 2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse
 - 2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin
 - 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
+- 2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse
+- 2026-07-30-can-ai-agents-conduct-open-ended-ai-research-early-evidence
 embedding_id: 2026-06-26-this-philosophy-of-ai-manuscript-proposes-a-radical-rethinki
 event_name: ''
 ---
@@ -37,5 +37,5 @@ This philosophy-of-AI manuscript proposes a "radical" rethinking of how interpre
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-26-radical-ai-interpretability-arxiv-cs-ai-june-26-2026]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse]] · [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]]
+**Related:** [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse]] · [[2026-07-30-can-ai-agents-conduct-open-ended-ai-research-early-evidence]]
 <!-- graph:end -->

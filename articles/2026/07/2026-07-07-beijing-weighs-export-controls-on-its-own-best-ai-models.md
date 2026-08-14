@@ -22,9 +22,8 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-22-china-considers-export-controls-on-its-own-ai-models-chips-a
-- 2026-07-21-china-weighs-export-controls-on-its-own-advanced-ai-models-c
-- 2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan
+- 2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv
+- 2026-08-13-analysis-export-controls-alone-won-t-decide-the-us-china-ai
 embedding_id: 2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Beijing is considering export controls on China's most capable AI models, mirror
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-22-china-considers-export-controls-on-its-own-ai-models-chips-a]] · [[2026-07-21-china-weighs-export-controls-on-its-own-advanced-ai-models-c]] · [[2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan]]
+**Related:** [[2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv]] · [[2026-08-13-analysis-export-controls-alone-won-t-decide-the-us-china-ai]]
 <!-- graph:end -->

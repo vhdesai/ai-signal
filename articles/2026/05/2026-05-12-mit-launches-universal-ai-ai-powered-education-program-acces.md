@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-mit-open-learning-debuted-universal-ai-described-as-a-pathwa
-- 2026-05-13-mit-open-learning-launches-universal-ai-a-free-personalized
 - 2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil
 - 2026-03-28-mit-researchers-published-findings-on-a-new-training-approac
-- 2026-08-10-mit-csail-and-tsinghua-introduce-geopt-physics-as-ai-s-third
+- 2026-05-23-cmu-launches-learnvia-and-convenes-global-science-diplomacy
+- 2026-06-30-mit-news-recapped-the-first-showcase-of-its-music-technology
 embedding_id: 2026-05-12-mit-launches-universal-ai-ai-powered-education-program-acces
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MIT Open Learning launched Universal AI, a new education initiative built around
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-13-mit-open-learning-debuted-universal-ai-described-as-a-pathwa]] · [[2026-05-13-mit-open-learning-launches-universal-ai-a-free-personalized]] · [[2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]] · [[2026-08-10-mit-csail-and-tsinghua-introduce-geopt-physics-as-ai-s-third]]
+**Related:** [[2026-05-13-mit-open-learning-debuted-universal-ai-described-as-a-pathwa]] · [[2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]] · [[2026-05-23-cmu-launches-learnvia-and-convenes-global-science-diplomacy]] · [[2026-06-30-mit-news-recapped-the-first-showcase-of-its-music-technology]]
 <!-- graph:end -->

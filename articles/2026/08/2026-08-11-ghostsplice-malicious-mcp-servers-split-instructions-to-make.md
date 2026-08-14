@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s
-- 2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c
 - 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
 - 2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v
+- 2026-07-08-hallusquatting-attack-can-trick-ai-coding-assistants-into-ru
 embedding_id: 2026-08-11-ghostsplice-malicious-mcp-servers-split-instructions-to-make
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Researchers disclosed an attack, dubbed GhostSplice, in which a malicious Model 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]] · [[2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]]
+**Related:** [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]] · [[2026-07-08-hallusquatting-attack-can-trick-ai-coding-assistants-into-ru]]
 <!-- graph:end -->

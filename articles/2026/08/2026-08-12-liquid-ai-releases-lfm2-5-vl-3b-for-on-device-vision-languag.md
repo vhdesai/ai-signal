@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-08-13_063740_Inbox_Daily AI News Digest - August 13,
   2026.md
-content_hash: 3478baf1c9d36977bde6d04bc3883a233f0e6e1f8ca0b27a1c2509fcfb0b61a2
+content_hash: 1e4e57374f948621f260418043fa78fa7a604d82f987c29af73c7a56a0ae5fe8
 normalized_title_hash: e5f44f6eae77796d
 canonical_url_hash: ''
 tags:
@@ -31,7 +31,7 @@ event_name: ''
 
 # Liquid AI releases LFM2.5-VL-3B for on-device vision-language work
 
-Liquid AI released LFM2.5-VL-3B, a roughly 3.1B-parameter open-weight, non-reasoning vision-language model targeted at low-latency on-device and edge image-to-text tasks. It extends the LFM2.5-2.6B family. For enterprises with field, retail, or industrial inspection use cases, small open-weight VLMs are becoming a credible alternative to per-image frontier API calls. URL not verified.
+Liquid AI released LFM2.5-VL-3B, a roughly 3.1B-parameter open-weight, non-reasoning vision-language model targeted at low-latency on-device and edge image-to-text tasks. It extends the LFM2.5-2.6B family. For enterprises with field, retail, or industrial inspection use cases, small open-weight VLMs are becoming a credible alternative to per-image frontier API calls.
 
 <!-- graph:start -->
 ## Connections

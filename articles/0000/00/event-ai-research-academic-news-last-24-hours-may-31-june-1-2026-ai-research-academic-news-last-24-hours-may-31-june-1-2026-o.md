@@ -19,11 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- event-academic-research-ai-news-last-24-hours-mon-june-1-tue-june-academic-research-ai-news-last-24-hours-mon-june-1-tue-june
-- 2026-05-08-source-deadline-published-may-5-2026
 - 2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university
-- 2026-07-02-this-digest-covers-ai-news-and-research-confirmed-published
-- 2026-05-09-saturday-may-9-2026-last-24-hours
+- 2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co
+- 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
+- 2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w
 embedding_id: event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o
 event_name: AI Research & Academic News - Last 24 Hours (May 31 - June 1, 2026)
 ---
@@ -36,5 +35,5 @@ Key Finding: After scanning all monitored academic and research sources, no genu
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-academic-research-ai-news-last-24-hours-mon-june-1-tue-june-academic-research-ai-news-last-24-hours-mon-june-1-tue-june]] · [[2026-05-08-source-deadline-published-may-5-2026]] · [[2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university]] · [[2026-07-02-this-digest-covers-ai-news-and-research-confirmed-published]] · [[2026-05-09-saturday-may-9-2026-last-24-hours]]
+**Related:** [[2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university]] · [[2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co]] · [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w]]
 <!-- graph:end -->

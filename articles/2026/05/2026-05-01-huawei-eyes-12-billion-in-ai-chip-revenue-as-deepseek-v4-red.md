@@ -22,14 +22,10 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
 related_article_ids:
-- 2026-05-01-trending-huawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-r
-- 2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev
-- 2026-05-01-trendinghuawei-eyes-12b-ai-chip-revenue-as-deepseek-v4-drive
 - 2026-05-01-newhuawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-drives
-- 2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i
 embedding_id: 2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red
 event_name: ''
 ---
@@ -43,5 +39,6 @@ Huawei is projecting a 60% year-over-year surge in AI chip revenue to approximat
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-01-trending-huawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-r]] · [[2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev]] · [[2026-05-01-trendinghuawei-eyes-12b-ai-chip-revenue-as-deepseek-v4-drive]] · [[2026-05-01-newhuawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-drives]] · [[2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i]]
+**Canonical:** [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]]
+**Related:** [[2026-05-01-newhuawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-drives]]
 <!-- graph:end -->

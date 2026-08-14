@@ -8,12 +8,11 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-08-13_061239_Inbox_Daily AI News Digest - August 13,
   2026.md
-content_hash: e66b4746484e9169e1e479b6183a61cb3cb663512b9712a787fed18f8372cb8b
+content_hash: cbf792aae48ed3048164e275a5e724019ff87efdf6a631a9689d780c331610a8
 normalized_title_hash: dcd796172848a37b
 canonical_url_hash: ''
 tags: []
-entities:
-- Google
+entities: []
 themes:
 - datacenter-infrastructure
 - company-storylines
@@ -22,20 +21,20 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-13-lenovo-posts-record-26-9b-quarter-as-ai-related-revenue-jump
-- 2026-08-01-ibm-earnings-read-as-a-gauge-of-ai-infrastructure-demand
+- 2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com
 - 2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele
+- 2026-08-12-foxconn-reports-35-profit-rise-on-ai-server-demand
 embedding_id: 2026-08-13-lenovo-profits-soar-past-expectations-on-ai-computers-server
 event_name: ''
 ---
 
 # Lenovo Profits Soar Past Expectations on AI Computers, Servers, and Services
 
-Lenovo reported soaring profits that beat analyst expectations, driven by strong demand for AI-capable computers, servers, and services. The company is the latest beneficiary of the AI infrastructure buildout, joining Foxconn and Super Micro in reporting AI-powered earnings beats this quarter. URL not verified (MSN redirect from MarketWatch). Products & Tools PRODUCT GOOGLE HARDWARE
+Lenovo reported soaring profits that beat analyst expectations, driven by strong demand for AI-capable computers, servers, and services. The company is the latest beneficiary of the AI infrastructure buildout, joining Foxconn and Super Micro in reporting AI-powered earnings beats this quarter.
 
 <!-- graph:start -->
 ## Connections
 
-**Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-13-lenovo-posts-record-26-9b-quarter-as-ai-related-revenue-jump]] · [[2026-08-01-ibm-earnings-read-as-a-gauge-of-ai-infrastructure-demand]] · [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]]
+**Related:** [[2026-08-13-lenovo-posts-record-26-9b-quarter-as-ai-related-revenue-jump]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]] · [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]] · [[2026-08-12-foxconn-reports-35-profit-rise-on-ai-server-demand]]
 <!-- graph:end -->

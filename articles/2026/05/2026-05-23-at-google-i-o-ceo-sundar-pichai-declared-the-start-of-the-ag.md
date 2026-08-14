@@ -23,9 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-at-google-i-o-2026-may-19-20-mountain-view-ceo-sundar-pichai
 - 2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr
-- 2026-05-23-google-i-o-2026-gemini-turns-into-an-agent-platform-900m-use
 - 2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform
-- 2026-05-22-google-i-o-2026-gemini-omni-gemini-3-5-flash-gemini-spark-ag
+- 2026-08-12-google-s-gemini-app-hits-1-billion-monthly-users
 embedding_id: 2026-05-23-at-google-i-o-ceo-sundar-pichai-declared-the-start-of-the-ag
 event_name: ''
 ---
@@ -39,5 +38,5 @@ At Google I/O, CEO Sundar Pichai declared the start of "the agentic Gemini era,"
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-at-google-i-o-2026-may-19-20-mountain-view-ceo-sundar-pichai]] · [[2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr]] · [[2026-05-23-google-i-o-2026-gemini-turns-into-an-agent-platform-900m-use]] · [[2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform]] · [[2026-05-22-google-i-o-2026-gemini-omni-gemini-3-5-flash-gemini-spark-ag]]
+**Related:** [[2026-05-22-at-google-i-o-2026-may-19-20-mountain-view-ceo-sundar-pichai]] · [[2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr]] · [[2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform]] · [[2026-08-12-google-s-gemini-app-hits-1-billion-monthly-users]]
 <!-- graph:end -->

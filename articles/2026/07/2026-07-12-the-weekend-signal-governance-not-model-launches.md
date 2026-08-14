@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-02-quiet-weekend-loud-signals-openai-reveals-astra-eu-ai-act-go
 - 2026-07-11-daily-ai-news-digest-july-12-2026
-- 2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
+- 2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le
 - 2026-07-12-july-13-2026
+- 2026-07-03-the-economics-and-governance-of-ai-took-center-stage
 embedding_id: 2026-07-12-the-weekend-signal-governance-not-model-launches
 event_name: ''
 ---
@@ -42,5 +42,5 @@ It was a quiet summer weekend for AI: the major labs' newsrooms stayed dark afte
 
 **Entities:** [[Apple]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-02-quiet-weekend-loud-signals-openai-reveals-astra-eu-ai-act-go]] · [[2026-07-11-daily-ai-news-digest-july-12-2026]] · [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-12-july-13-2026]]
+**Related:** [[2026-07-11-daily-ai-news-digest-july-12-2026]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le]] · [[2026-07-12-july-13-2026]] · [[2026-07-03-the-economics-and-governance-of-ai-took-center-stage]]
 <!-- graph:end -->

@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn
 - 2026-04-23-anthropic-ships-claude-code-quality-and-reliability-fixes
 - 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
+- 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
 embedding_id: 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 event_name: ''
 ---
@@ -38,5 +39,5 @@ In an unusual moment of transparency, Anthropic publicly acknowledged a recent q
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-anthropic-publicly-acknowledges-claude-code-quality-regressi]] · [[2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn]] · [[2026-04-23-anthropic-ships-claude-code-quality-and-reliability-fixes]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]]
+**Related:** [[2026-05-14-anthropic-publicly-acknowledges-claude-code-quality-regressi]] · [[2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn]] · [[2026-04-23-anthropic-ships-claude-code-quality-and-reliability-fixes]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]] · [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]]
 <!-- graph:end -->

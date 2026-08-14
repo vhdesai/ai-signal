@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-openai-released-three-new-voice-api-models-designed-for-live
-- 2026-05-08-openai-ships-three-new-real-time-voice-models-via-api-gpt-re
 - 2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v
-- 2026-07-08-openai-launches-gpt-live-full-duplex-voice-models-for-chatgp
 - 2026-07-06-openai-ships-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-on-t
+- 2026-07-08-openai-launches-gpt-live-full-duplex-voice-models-for-chatgp
+- 2026-08-06-openai-details-engineering-behind-its-real-time-voice-system
 embedding_id: 2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI on May 7 released a new suite of real-time audio models for developers: G
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-18-openai-released-three-new-voice-api-models-designed-for-live]] · [[2026-05-08-openai-ships-three-new-real-time-voice-models-via-api-gpt-re]] · [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v]] · [[2026-07-08-openai-launches-gpt-live-full-duplex-voice-models-for-chatgp]] · [[2026-07-06-openai-ships-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-on-t]]
+**Related:** [[2026-05-18-openai-released-three-new-voice-api-models-designed-for-live]] · [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v]] · [[2026-07-06-openai-ships-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-on-t]] · [[2026-07-08-openai-launches-gpt-live-full-duplex-voice-models-for-chatgp]] · [[2026-08-06-openai-details-engineering-behind-its-real-time-voice-system]]
 <!-- graph:end -->

@@ -21,8 +21,7 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman
-related_article_ids:
-- 2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand
+related_article_ids: []
 embedding_id: 2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand
 event_name: ''
 ---
@@ -37,5 +36,4 @@ TSMC reported ~45% YoY growth in July revenue, driven by AI accelerator and adva
 **Entities:** [[Google]] · [[NVIDIA]] · [[TSMC]]
 **Topics:** [[Policy & Regulation]]
 **Canonical:** [[2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman]]
-**Related:** [[2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand]]
 <!-- graph:end -->

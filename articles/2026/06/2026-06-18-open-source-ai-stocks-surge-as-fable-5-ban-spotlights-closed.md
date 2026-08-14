@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model
 - 2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two
+- 2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri
 - 2026-07-12-zhipu-open-sources-glm-5-2-founder-argues-frontier-ai-should
 embedding_id: 2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed
 event_name: ''
@@ -37,5 +38,5 @@ Chinese open-source AI companies MiniMax and Zhipu surged as enterprises globall
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model]] · [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two]] · [[2026-07-12-zhipu-open-sources-glm-5-2-founder-argues-frontier-ai-should]]
+**Related:** [[2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model]] · [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two]] · [[2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri]] · [[2026-07-12-zhipu-open-sources-glm-5-2-founder-argues-frontier-ai-should]]
 <!-- graph:end -->

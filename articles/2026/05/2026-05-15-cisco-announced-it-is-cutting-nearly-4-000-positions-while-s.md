@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-cisco-cuts-4-000-jobs-while-posting-record-quarterly-revenue
-- 2026-05-15-cisco-cuts-4-000-jobs-pivots-to-ai-posts-record-quarterly-re
 - 2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu
 - 2026-08-13-cisco-ai-product-orders-hit-4b-in-a-single-quarter
+- 2026-07-28-visa-cuts-2-600-jobs-7-of-workforce-citing-ai-efficiency
 embedding_id: 2026-05-15-cisco-announced-it-is-cutting-nearly-4-000-positions-while-s
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Cisco announced it is cutting nearly 4,000 positions while simultaneously report
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-cisco-cuts-4-000-jobs-while-posting-record-quarterly-revenue]] · [[2026-05-15-cisco-cuts-4-000-jobs-pivots-to-ai-posts-record-quarterly-re]] · [[2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu]] · [[2026-08-13-cisco-ai-product-orders-hit-4b-in-a-single-quarter]]
+**Related:** [[2026-05-14-cisco-cuts-4-000-jobs-while-posting-record-quarterly-revenue]] · [[2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu]] · [[2026-08-13-cisco-ai-product-orders-hit-4b-in-a-single-quarter]] · [[2026-07-28-visa-cuts-2-600-jobs-7-of-workforce-citing-ai-efficiency]]
 <!-- graph:end -->

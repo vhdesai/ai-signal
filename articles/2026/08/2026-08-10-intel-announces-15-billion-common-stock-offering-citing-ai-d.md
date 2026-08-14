@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-intel-announces-a-15-billion-common-stock-offering-citing-ai
-- 2026-08-10-intel-announces-15b-common-stock-offering-citing-ai-demand
 - 2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-to-fund-a
 - 2026-08-10-intel-launches-a-15b-stock-offering-to-fund-its-ai-and-found
 - 2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat
+- 2026-08-11-intel-launches-15-billion-stock-offering-to-fund-ai-foundry
 embedding_id: 2026-08-10-intel-announces-15-billion-common-stock-offering-citing-ai-d
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Intel announced a $15B underwritten public offering capitalizing on a ~400% shar
 
 **Entities:** [[Intel]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-10-intel-announces-a-15-billion-common-stock-offering-citing-ai]] · [[2026-08-10-intel-announces-15b-common-stock-offering-citing-ai-demand]] · [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-to-fund-a]] · [[2026-08-10-intel-launches-a-15b-stock-offering-to-fund-its-ai-and-found]] · [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat]]
+**Related:** [[2026-08-10-intel-announces-a-15-billion-common-stock-offering-citing-ai]] · [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-to-fund-a]] · [[2026-08-10-intel-launches-a-15b-stock-offering-to-fund-its-ai-and-found]] · [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat]] · [[2026-08-11-intel-launches-15-billion-stock-offering-to-fund-ai-foundry]]
 <!-- graph:end -->

@@ -23,8 +23,7 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: event-microsoft-build-2026-microsoft-build-2026-overview
-related_article_ids:
-- event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications
+related_article_ids: []
 embedding_id: event-microsoft-build-2026-microsoft-build-2026-strategic-implications
 event_name: Microsoft Build 2026
 ---
@@ -39,5 +38,4 @@ Agentic apps are becoming the platform center of gravity: Microsoft is treating 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[event-microsoft-build-2026-microsoft-build-2026-overview]]
-**Related:** [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications]]
 <!-- graph:end -->

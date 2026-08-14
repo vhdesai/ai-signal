@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-20-ai-memory-shortages-are-becoming-geopolitical-as-hbm-advance
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-08-13-nvidia-weighs-reducing-memory-on-next-gen-rubin-ultra-gpu-du
 - 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
 - 2026-07-04-micron-breaks-ground-on-a-9-3b-hiroshima-plant-for-ai-memory
+- 2026-08-06-nvidia-said-to-test-rubin-ultra-variants-with-less-hbm-amid
 embedding_id: 2026-05-28-nvidia-server-maker-wiwynn-warns-ai-bottlenecks-now-extend-b
 event_name: ''
 ---
@@ -39,5 +39,5 @@ WiWynn executives told Bloomberg the next AI server-build bottleneck is no longe
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-20-ai-memory-shortages-are-becoming-geopolitical-as-hbm-advance]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-08-13-nvidia-weighs-reducing-memory-on-next-gen-rubin-ultra-gpu-du]] · [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-07-04-micron-breaks-ground-on-a-9-3b-hiroshima-plant-for-ai-memory]]
+**Related:** [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-08-13-nvidia-weighs-reducing-memory-on-next-gen-rubin-ultra-gpu-du]] · [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-07-04-micron-breaks-ground-on-a-9-3b-hiroshima-plant-for-ai-memory]] · [[2026-08-06-nvidia-said-to-test-rubin-ultra-variants-with-less-hbm-amid]]
 <!-- graph:end -->

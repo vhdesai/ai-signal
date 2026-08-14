@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-03-tohoku-university-living-brain-cells-successfully-perform-su
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 - 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
+- 2026-04-02-research-breakthroughs
 embedding_id: 2026-04-03-researchers-at-tohoku-university-and-future-university-hakod
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers at Tohoku University and Future University Hakodate demonstrated tha
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-03-tohoku-university-living-brain-cells-successfully-perform-su]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]]
+**Related:** [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-04-02-research-breakthroughs]]
 <!-- graph:end -->

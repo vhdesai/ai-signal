@@ -23,10 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-24-amazon-web-services-and-cerebras-systems-announced-a-collabo
-- 2026-03-24-aws-and-cerebras-partner-for-industry-leading-ai-inference-s
-- 2026-07-23-cerebras-and-amd-partner-on-low-latency-ai-systems-cerebras
 - 2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation
 - 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
+- 2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale
 embedding_id: 2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i
 event_name: ''
 ---
@@ -40,5 +39,5 @@ Cerebras announced a partnership bringing its wafer-scale inference performance 
 
 **Entities:** [[Cerebras]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-03-24-amazon-web-services-and-cerebras-systems-announced-a-collabo]] · [[2026-03-24-aws-and-cerebras-partner-for-industry-leading-ai-inference-s]] · [[2026-07-23-cerebras-and-amd-partner-on-low-latency-ai-systems-cerebras]] · [[2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]]
+**Related:** [[2026-03-24-amazon-web-services-and-cerebras-systems-announced-a-collabo]] · [[2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale]]
 <!-- graph:end -->

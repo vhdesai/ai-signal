@@ -21,8 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
-- 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
-- 2026-05-01-nsa-uses-anthropic-s-mythos-to-find-microsoft-tech-flaws-202
+- 2026-05-16-analysis-circulating-widely-on-may-15-109-hacker-news-points
 embedding_id: 2026-06-05-nsa-reportedly-readying-anthropic-s-mythos-for-cyber-operati
 event_name: ''
 ---
@@ -36,5 +35,5 @@ Anthropic has deployed ~6 engineers to the NSA to help the agency use Mythos, it
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-05-01-nsa-uses-anthropic-s-mythos-to-find-microsoft-tech-flaws-202]]
+**Related:** [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-05-16-analysis-circulating-widely-on-may-15-109-hacker-news-points]]
 <!-- graph:end -->

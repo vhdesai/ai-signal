@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole
 - 2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co
 - 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
-- 2026-04-02-mit-ai-model-identifies-atomic-defects-in-materials-to-impro
 - 2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl
+- 2026-08-07-cornell-ai-plus-chemistry-expands-the-design-space-for-batte
 embedding_id: 2026-08-10-discovered-materials-applies-ai-to-the-search-for-cooler-run
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Startup Discovered Materials is using AI-driven materials search to find substra
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole]] · [[2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-04-02-mit-ai-model-identifies-atomic-defects-in-materials-to-impro]] · [[2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl]]
+**Related:** [[2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole]] · [[2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl]] · [[2026-08-07-cornell-ai-plus-chemistry-expands-the-design-space-for-batte]]
 <!-- graph:end -->

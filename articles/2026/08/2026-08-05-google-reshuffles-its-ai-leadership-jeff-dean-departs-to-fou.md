@@ -23,7 +23,6 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-05-google-deepmind-leadership-overhaul-hassabis-steps-back-as-c
 related_article_ids:
-- 2026-08-05-hassabis-steps-aside-as-google-deepmind-ceo-jeff-dean-leaves
 - 2026-08-05-jeff-dean-and-sanjay-ghemawat-leave-google-to-co-found-disco
 embedding_id: 2026-08-05-google-reshuffles-its-ai-leadership-jeff-dean-departs-to-fou
 event_name: ''
@@ -39,5 +38,5 @@ Google announced a sweeping reorganization of its AI operations. Chief scientist
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-08-05-google-deepmind-leadership-overhaul-hassabis-steps-back-as-c]]
-**Related:** [[2026-08-05-hassabis-steps-aside-as-google-deepmind-ceo-jeff-dean-leaves]] · [[2026-08-05-jeff-dean-and-sanjay-ghemawat-leave-google-to-co-found-disco]]
+**Related:** [[2026-08-05-jeff-dean-and-sanjay-ghemawat-leave-google-to-co-found-disco]]
 <!-- graph:end -->

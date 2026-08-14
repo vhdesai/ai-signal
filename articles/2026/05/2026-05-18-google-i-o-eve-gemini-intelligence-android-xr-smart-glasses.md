@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin
 - 2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi
 - 2026-05-19-google-i-o-2026-live-gemini-4-0-gemini-omni-android-xr-glass
+- 2026-05-18-google-s-annual-developer-conference-opens-tomorrow-may-19-a
 - event-google-i-o-2026-google-i-o-2026-android-xr-and-hardware
-- 2026-05-19-google-i-o-2026-keynote-live-gemini-4-0-android-xr-glasses-a
 embedding_id: 2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses
 event_name: ''
 ---
@@ -40,5 +40,5 @@ With the developer conference opening tomorrow at Shoreline Amphitheatre (keynot
 
 **Entities:** [[Google]] · [[Samsung]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin]] · [[2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi]] · [[2026-05-19-google-i-o-2026-live-gemini-4-0-gemini-omni-android-xr-glass]] · [[event-google-i-o-2026-google-i-o-2026-android-xr-and-hardware]] · [[2026-05-19-google-i-o-2026-keynote-live-gemini-4-0-android-xr-glasses-a]]
+**Related:** [[2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin]] · [[2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi]] · [[2026-05-19-google-i-o-2026-live-gemini-4-0-gemini-omni-android-xr-glass]] · [[2026-05-18-google-s-annual-developer-conference-opens-tomorrow-may-19-a]] · [[event-google-i-o-2026-google-i-o-2026-android-xr-and-hardware]]
 <!-- graph:end -->

@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-15-google-gemini-spark-autonomous-agent-leaks-ahead-of-i-o-2026
-- 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
 - event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation
+- 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
 - 2026-05-19-google-launches-gemini-spark-a-24-7-personal-ai-agent-that-r
-- 2026-05-15-google-leaks-gemini-spark-agent-ahead-of-i-o-2026
+- 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launching-next
 embedding_id: 2026-05-15-a-pre-launch-leak-reveals-google-is-developing-a-new-autonom
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A pre-launch leak reveals Google is developing a new autonomous AI agent called 
 ## Connections
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
-**Related:** [[2026-05-15-google-gemini-spark-autonomous-agent-leaks-ahead-of-i-o-2026]] · [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w]] · [[event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation]] · [[2026-05-19-google-launches-gemini-spark-a-24-7-personal-ai-agent-that-r]] · [[2026-05-15-google-leaks-gemini-spark-agent-ahead-of-i-o-2026]]
+**Related:** [[2026-05-15-google-gemini-spark-autonomous-agent-leaks-ahead-of-i-o-2026]] · [[event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation]] · [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w]] · [[2026-05-19-google-launches-gemini-spark-a-24-7-personal-ai-agent-that-r]] · [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launching-next]]
 <!-- graph:end -->

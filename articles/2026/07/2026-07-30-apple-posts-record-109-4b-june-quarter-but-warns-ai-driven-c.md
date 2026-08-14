@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-30-apple-posts-record-june-quarter-but-warns-ai-driven-componen
 - 2026-07-31-apple-posts-record-june-quarter-but-warns-of-ai-driven-compo
 - 2026-07-30-apple-beats-but-guides-soft-in-tim-cook-s-final-quarter-as-c
-- 2026-04-17-apple-q2-fy26-revenue-111-2b-17-eps-2-01-22-iphone-56-99b-ma
 - 2026-07-30-apple-beats-on-revenue-but-guides-weak-as-memory-crunch-bite
+- 2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t
 embedding_id: 2026-07-30-apple-posts-record-109-4b-june-quarter-but-warns-ai-driven-c
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple reported fiscal Q3 revenue of $109.4B, up 16%, with iPhone up 22% to $54.3
 
 **Entities:** [[Apple]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-30-apple-posts-record-june-quarter-but-warns-ai-driven-componen]] · [[2026-07-31-apple-posts-record-june-quarter-but-warns-of-ai-driven-compo]] · [[2026-07-30-apple-beats-but-guides-soft-in-tim-cook-s-final-quarter-as-c]] · [[2026-04-17-apple-q2-fy26-revenue-111-2b-17-eps-2-01-22-iphone-56-99b-ma]] · [[2026-07-30-apple-beats-on-revenue-but-guides-weak-as-memory-crunch-bite]]
+**Related:** [[2026-07-30-apple-posts-record-june-quarter-but-warns-ai-driven-componen]] · [[2026-07-31-apple-posts-record-june-quarter-but-warns-of-ai-driven-compo]] · [[2026-07-30-apple-beats-but-guides-soft-in-tim-cook-s-final-quarter-as-c]] · [[2026-07-30-apple-beats-on-revenue-but-guides-weak-as-memory-crunch-bite]] · [[2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t]]
 <!-- graph:end -->

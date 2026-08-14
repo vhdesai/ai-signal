@@ -22,7 +22,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced
 - 2026-05-18-anthropic-launched-an-enterprise-ai-joint-venture-with-black
-- 2026-07-16-anthropic-blackstone-hellman-friedman-goldman-sachs-and-othe
 - 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
 - 2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent
 embedding_id: 2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman
@@ -38,5 +37,5 @@ Anthropic announced a $1.5B joint venture — $300M each from Anthropic, Blackst
 
 **Entities:** [[Anthropic]] · [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]] · [[2026-05-18-anthropic-launched-an-enterprise-ai-joint-venture-with-black]] · [[2026-07-16-anthropic-blackstone-hellman-friedman-goldman-sachs-and-othe]] · [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]]
+**Related:** [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]] · [[2026-05-18-anthropic-launched-an-enterprise-ai-joint-venture-with-black]] · [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]]
 <!-- graph:end -->

@@ -16,9 +16,14 @@ entities: []
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-08-08-harvey-in-talks-for-500m-at-15-5b-valuation
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu
+- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
+- 2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough
+- 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
+- 2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation
 embedding_id: 2026-08-08-harvey-in-talks-for-500m-at-a-15-5b-valuation
 event_name: ''
 ---
@@ -31,5 +36,5 @@ Legal AI startup Harvey is reportedly in discussions with Lightspeed Venture Par
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Canonical:** [[2026-08-08-harvey-in-talks-for-500m-at-15-5b-valuation]]
+**Related:** [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]] · [[2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation]]
 <!-- graph:end -->

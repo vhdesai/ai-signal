@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on
 - event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild
-- 2026-05-05-uc-berkeley-stanford-cmu-open-acm-cais-2026-workshop-on-ai-a
 - 2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma
-- 2026-05-16-source-acm-cais-2026-uc-berkeley-mit-may-2026
+- 2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on
+- 2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen
 embedding_id: 2026-05-05-researchers-from-uc-berkeley-stanford-cmu-databricks-and-goo
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Researchers from UC Berkeley, Stanford, CMU, Databricks, and Google announced th
 
 **Entities:** [[Databricks]] · [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on]] · [[event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild]] · [[2026-05-05-uc-berkeley-stanford-cmu-open-acm-cais-2026-workshop-on-ai-a]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[2026-05-16-source-acm-cais-2026-uc-berkeley-mit-may-2026]]
+**Related:** [[2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on]] · [[event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on]] · [[2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen]]
 <!-- graph:end -->

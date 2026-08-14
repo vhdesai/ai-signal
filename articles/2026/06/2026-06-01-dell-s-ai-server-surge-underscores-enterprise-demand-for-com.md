@@ -19,10 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
-- 2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans
-- 2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl
 - 2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers
+- 2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at
+- 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
+- 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
+- 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
 embedding_id: 2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com
 event_name: ''
 ---
@@ -35,5 +36,5 @@ CIO Dive led with Dell revenue jumping 88% as the company rides enterprise AI de
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]] · [[2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans]] · [[2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl]] · [[2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers]]
+**Related:** [[2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers]] · [[2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]]
 <!-- graph:end -->

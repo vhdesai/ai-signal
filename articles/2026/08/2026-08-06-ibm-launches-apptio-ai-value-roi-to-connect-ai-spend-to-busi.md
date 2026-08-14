@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-20-openai-valuation-update-and-broader-ai-capital-market-contex
-- 2026-07-21-openai-valuation-update-and-broader-ai-capital-market-contex
 - 2026-08-01-ibm-earnings-read-as-a-gauge-of-ai-infrastructure-demand
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
 - 2026-04-01-jpmorgan-chase-is-formally-connecting-software-engineers-per
+- 2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua
+- 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
 embedding_id: 2026-08-06-ibm-launches-apptio-ai-value-roi-to-connect-ai-spend-to-busi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ IBM introduced Apptio AI Value & ROI (public preview), giving finance and techno
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-20-openai-valuation-update-and-broader-ai-capital-market-contex]] · [[2026-07-21-openai-valuation-update-and-broader-ai-capital-market-contex]] · [[2026-08-01-ibm-earnings-read-as-a-gauge-of-ai-infrastructure-demand]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-04-01-jpmorgan-chase-is-formally-connecting-software-engineers-per]]
+**Related:** [[2026-08-01-ibm-earnings-read-as-a-gauge-of-ai-infrastructure-demand]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-04-01-jpmorgan-chase-is-formally-connecting-software-engineers-per]] · [[2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]]
 <!-- graph:end -->

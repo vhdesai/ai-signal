@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat
-- 2026-04-10-april-2026-model-landscape-gpt-5-4-gemini-3-1-pro-grok-4-20
-- 2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding
-- 2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains
 - 2026-07-12-openai-launched-gpt-5-6-sol-terra-luna-gpt-live-voice-model
+- 2026-05-17-openai-s-gpt-5-5-instant-became-the-default-chatgpt-model-on
+- 2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice
+- 2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist
 embedding_id: 2026-04-10-april-2026-is-tracking-as-a-landmark-month-for-model-release
 event_name: ''
 ---
@@ -41,5 +41,5 @@ April 2026 is tracking as a landmark month for model releases. OpenAI shipped GP
 
 **Entities:** [[Google]] · [[Meta]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat]] · [[2026-04-10-april-2026-model-landscape-gpt-5-4-gemini-3-1-pro-grok-4-20]] · [[2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding]] · [[2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains]] · [[2026-07-12-openai-launched-gpt-5-6-sol-terra-luna-gpt-live-voice-model]]
+**Related:** [[2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat]] · [[2026-07-12-openai-launched-gpt-5-6-sol-terra-luna-gpt-live-voice-model]] · [[2026-05-17-openai-s-gpt-5-5-instant-became-the-default-chatgpt-model-on]] · [[2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice]] · [[2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist]]
 <!-- graph:end -->

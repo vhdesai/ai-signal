@@ -26,8 +26,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
-- 2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red
-- 2026-05-13-huawei-on-track-for-12b-in-ai-chip-revenue-as-deepseek-v4-pu
+- 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
 embedding_id: 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
 event_name: ''
 ---
@@ -41,5 +40,5 @@ Reporting frames Huawei's AI chip roadmap as a credible domestic alternative for
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red]] · [[2026-05-13-huawei-on-track-for-12b-in-ai-chip-revenue-as-deepseek-v4-pu]]
+**Related:** [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]]
 <!-- graph:end -->

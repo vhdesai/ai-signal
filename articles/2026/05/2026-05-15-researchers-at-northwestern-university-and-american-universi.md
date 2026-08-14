@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-23-researchers-from-northwestern-and-american-university-tested
 - 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
 - 2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl
-- 2026-05-23-study-chatgpt-gemini-and-claude-wildly-disagree-on-which-job
 - 2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o
+- 2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl
 embedding_id: 2026-05-15-researchers-at-northwestern-university-and-american-universi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers at Northwestern University and American University found that ChatGP
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-23-researchers-from-northwestern-and-american-university-tested]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl]] · [[2026-05-23-study-chatgpt-gemini-and-claude-wildly-disagree-on-which-job]] · [[2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o]]
+**Related:** [[2026-05-23-researchers-from-northwestern-and-american-university-tested]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl]] · [[2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o]] · [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]]
 <!-- graph:end -->

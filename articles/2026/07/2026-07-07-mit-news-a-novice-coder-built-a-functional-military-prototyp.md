@@ -17,9 +17,14 @@ entities: []
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world
+- 2026-07-07-how-novice-coders-can-develop-ai-programs-for-military-appli
+- 2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse
+- 2026-08-05-meta-launches-muse-code-an-ai-coding-agent-for-large-codebas
+- 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
 embedding_id: 2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp
 event_name: ''
 ---
@@ -32,5 +37,5 @@ An MIT Lincoln Laboratory case study through the DAF–MIT AI Accelerator’s Ph
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world]]
+**Related:** [[2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world]] · [[2026-07-07-how-novice-coders-can-develop-ai-programs-for-military-appli]] · [[2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse]] · [[2026-08-05-meta-launches-muse-code-an-ai-coding-agent-for-large-codebas]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]]
 <!-- graph:end -->

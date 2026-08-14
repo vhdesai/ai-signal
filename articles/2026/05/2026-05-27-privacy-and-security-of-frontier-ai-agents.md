@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 - 2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea
 - 2026-05-13-a-major-analysis-published-today-in-nature-by-ewen-callaway
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
+- 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
 embedding_id: 2026-05-27-privacy-and-security-of-frontier-ai-agents
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A lightning talk on emerging attack surfaces and privacy risks specific to auton
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-05-13-a-major-analysis-published-today-in-nature-by-ewen-callaway]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]]
+**Related:** [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-05-13-a-major-analysis-published-today-in-nature-by-ewen-callaway]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]]
 <!-- graph:end -->

@@ -26,10 +26,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-02-pentagon-signs-ai-deployment-contracts-with-nvidia-microsoft
 - 2026-05-02-the-u-s-department-of-defense-has-expanded-its-ai-infrastruc
 - 2026-05-09-the-pentagon-signed-ai-deployment-agreements-with-eight-vend
 - 2026-05-02-hotpentagon-picks-8-ai-vendors-for-classified-networks-anthr
+- 2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab
 embedding_id: 2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws
 event_name: ''
 ---
@@ -43,5 +43,5 @@ The U.S. Department of Defense announced agreements with Nvidia, Microsoft, Amaz
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-02-pentagon-signs-ai-deployment-contracts-with-nvidia-microsoft]] · [[2026-05-02-the-u-s-department-of-defense-has-expanded-its-ai-infrastruc]] · [[2026-05-09-the-pentagon-signed-ai-deployment-agreements-with-eight-vend]] · [[2026-05-02-hotpentagon-picks-8-ai-vendors-for-classified-networks-anthr]]
+**Related:** [[2026-05-02-the-u-s-department-of-defense-has-expanded-its-ai-infrastruc]] · [[2026-05-09-the-pentagon-signed-ai-deployment-agreements-with-eight-vend]] · [[2026-05-02-hotpentagon-picks-8-ai-vendors-for-classified-networks-anthr]] · [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]]
 <!-- graph:end -->

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-08-spacex-xai-launches-grok-4-5-at-roughly-half-the-price-of-ri
 - 2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o
 - 2026-07-08-musk-sets-grok-4-5-public-release-for-thursday-pitching-an-o
-- 2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta
+- 2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co
 embedding_id: 2026-08-13-spacex-stock-jumps-as-grok-release-ramps-up-ai-competition
 event_name: ''
 ---
@@ -40,5 +40,5 @@ SpaceX shares rose as xAI's latest Grok model release intensified competition wi
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-08-spacex-xai-launches-grok-4-5-at-roughly-half-the-price-of-ri]] · [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]] · [[2026-07-08-musk-sets-grok-4-5-public-release-for-thursday-pitching-an-o]] · [[2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta]]
+**Related:** [[2026-07-08-spacex-xai-launches-grok-4-5-at-roughly-half-the-price-of-ri]] · [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]] · [[2026-07-08-musk-sets-grok-4-5-public-release-for-thursday-pitching-an-o]] · [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]]
 <!-- graph:end -->

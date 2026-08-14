@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
-- 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
 - 2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall
 - 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
-- 2026-07-20-big-tech-faces-pressure-to-justify-ai-spending-as-investors
+- 2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov
+- 2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190
 embedding_id: 2026-07-13-tech-investors-are-reassessing-ai-investments-despite-positi
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Tech investors are reassessing AI investments despite positive long-term outlook
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-07-20-big-tech-faces-pressure-to-justify-ai-spending-as-investors]]
+**Related:** [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]]
 <!-- graph:end -->

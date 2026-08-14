@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da
 - 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
 - 2026-06-30-digital-realty-agreed-to-acquire-a-majority-stake-in-three-f
+- 2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data
 embedding_id: 2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Williams (NYSE: WMB) announced that a Blackstone Credit & Insurance-led group (w
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-06-30-digital-realty-agreed-to-acquire-a-majority-stake-in-three-f]]
+**Related:** [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-06-30-digital-realty-agreed-to-acquire-a-majority-stake-in-three-f]] · [[2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data]]
 <!-- graph:end -->

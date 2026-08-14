@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 - 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
 - 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
+- 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
 embedding_id: 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 event_name: ''
 ---
@@ -38,5 +38,5 @@ UC San Diego's Jacobs School of Engineering and Brain Corp announced an expanded
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]]
+**Related:** [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
 <!-- graph:end -->

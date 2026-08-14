@@ -26,6 +26,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a
+- 2026-07-02-microsoft-launches-frontier-company-an-outcome-driven-ai-dep
 embedding_id: 2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Microsoft unveiled Microsoft Frontier, a $2.5B commercial unit staffed by 6,000 
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a]]
+**Related:** [[2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a]] · [[2026-07-02-microsoft-launches-frontier-company-an-outcome-driven-ai-dep]]
 <!-- graph:end -->

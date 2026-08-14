@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-30-agentjacking-a-single-crafted-sentry-error-hijacked-claude-c
 - 2026-08-05-microsoft-s-skillopt-shows-optimized-agent-skills-transfer-a
-- 2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c
 - 2026-08-10-claude-agent-gym-hack-raises-questions-about-user-deployed-a
 - 2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking
+- 2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent
+- 2026-08-11-ghostsplice-malicious-mcp-servers-split-instructions-to-make
 embedding_id: 2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Researchers at HKUST released "Cloak and Detonate," showing that malicious add-o
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-30-agentjacking-a-single-crafted-sentry-error-hijacked-claude-c]] · [[2026-08-05-microsoft-s-skillopt-shows-optimized-agent-skills-transfer-a]] · [[2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c]] · [[2026-08-10-claude-agent-gym-hack-raises-questions-about-user-deployed-a]] · [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking]]
+**Related:** [[2026-08-05-microsoft-s-skillopt-shows-optimized-agent-skills-transfer-a]] · [[2026-08-10-claude-agent-gym-hack-raises-questions-about-user-deployed-a]] · [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking]] · [[2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent]] · [[2026-08-11-ghostsplice-malicious-mcp-servers-split-instructions-to-make]]
 <!-- graph:end -->

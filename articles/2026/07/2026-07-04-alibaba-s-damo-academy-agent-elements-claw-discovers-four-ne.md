@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-04-alibaba-s-damo-academy-ai-discovers-and-lab-verifies-four-ne
 - 2026-07-05-alibaba-s-damo-academy-with-renmin-university-and-the-univer
-- 2026-07-05-alibaba-damo-academy-unveils-elementsclaw-an-ai-agent-for-su
+- 2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c
 - 2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co
 - 2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole
 embedding_id: 2026-07-04-alibaba-s-damo-academy-agent-elements-claw-discovers-four-ne
@@ -42,5 +42,5 @@ Alibaba DAMO Academy, with Renmin University and the University of Chinese Acade
 
 **Entities:** [[Alibaba]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-04-alibaba-s-damo-academy-ai-discovers-and-lab-verifies-four-ne]] · [[2026-07-05-alibaba-s-damo-academy-with-renmin-university-and-the-univer]] · [[2026-07-05-alibaba-damo-academy-unveils-elementsclaw-an-ai-agent-for-su]] · [[2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co]] · [[2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole]]
+**Related:** [[2026-07-04-alibaba-s-damo-academy-ai-discovers-and-lab-verifies-four-ne]] · [[2026-07-05-alibaba-s-damo-academy-with-renmin-university-and-the-univer]] · [[2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c]] · [[2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co]] · [[2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole]]
 <!-- graph:end -->

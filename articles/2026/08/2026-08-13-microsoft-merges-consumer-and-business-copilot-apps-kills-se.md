@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one
 - 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
-- 2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer
 - 2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa
 - 2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps
+- 2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer
 embedding_id: 2026-08-13-microsoft-merges-consumer-and-business-copilot-apps-kills-se
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft is combining its consumer Copilot app and business Microsoft 365 Copil
 
 **Entities:** [[Apple]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one]] · [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer]] · [[2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa]] · [[2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps]]
+**Related:** [[2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one]] · [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa]] · [[2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps]] · [[2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer]]
 <!-- graph:end -->

@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-02-privacy-advocates-flag-chatgpt-default-ad-tracking-as-policy
 - 2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope
 - 2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence
 - 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
+- 2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl
 embedding_id: 2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us
 event_name: ''
 ---
@@ -36,5 +36,5 @@ ChatGPT's opt-in-by-default advertising tracking for free users has drawn scruti
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-02-privacy-advocates-flag-chatgpt-default-ad-tracking-as-policy]] · [[2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope]] · [[2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence]] · [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]]
+**Related:** [[2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope]] · [[2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence]] · [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]] · [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]]
 <!-- graph:end -->

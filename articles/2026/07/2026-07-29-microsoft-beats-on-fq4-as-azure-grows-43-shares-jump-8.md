@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-30-microsoft-fq4-azure-43-crosses-100b-run-rate-30m-copilot-sea
 - 2026-07-30-microsoft-s-azure-tops-100b-as-fiscal-q4-beat-rewards-capex
 - 2026-07-29-microsoft-s-fiscal-q4-beat-lifts-shares-8-as-it-raises-ai-dr
-- 2026-07-30-microsoft-s-ai-bet-pushes-azure-past-a-100b-run-rate-as-clou
-- 2026-07-30-microsoft-q4-blowout-profit-jumps-31-cloud-posts-fastest-gro
+- 2026-07-30-microsoft-profit-jumps-31-as-azure-growth-accelerates-and-co
+- 2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears
 embedding_id: 2026-07-29-microsoft-beats-on-fq4-as-azure-grows-43-shares-jump-8
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft posted fiscal Q4 revenue of roughly $90 billion, up about 18% year ove
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-microsoft-fq4-azure-43-crosses-100b-run-rate-30m-copilot-sea]] · [[2026-07-30-microsoft-s-azure-tops-100b-as-fiscal-q4-beat-rewards-capex]] · [[2026-07-29-microsoft-s-fiscal-q4-beat-lifts-shares-8-as-it-raises-ai-dr]] · [[2026-07-30-microsoft-s-ai-bet-pushes-azure-past-a-100b-run-rate-as-clou]] · [[2026-07-30-microsoft-q4-blowout-profit-jumps-31-cloud-posts-fastest-gro]]
+**Related:** [[2026-07-30-microsoft-fq4-azure-43-crosses-100b-run-rate-30m-copilot-sea]] · [[2026-07-30-microsoft-s-azure-tops-100b-as-fiscal-q4-beat-rewards-capex]] · [[2026-07-29-microsoft-s-fiscal-q4-beat-lifts-shares-8-as-it-raises-ai-dr]] · [[2026-07-30-microsoft-profit-jumps-31-as-azure-growth-accelerates-and-co]] · [[2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears]]
 <!-- graph:end -->

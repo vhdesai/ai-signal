@@ -22,10 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin
 - 2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement
 - 2026-07-29-thinking-machines-co-founder-lilian-weng-departs-rejoins-ope
-- 2026-06-29-google-deepmind-s-coding-pivot-triggers-talent-exodus-to-met
+- 2026-07-13-apple-s-trade-secret-suit-against-openai-becomes-a-test-of-a
 embedding_id: 2026-08-03-13-ai-talent-war-intensifies-lilian-weng-reportedly-returns
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Reporting points to accelerating researcher poaching across OpenAI, Meta, Anthro
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin]] · [[2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement]] · [[2026-07-29-thinking-machines-co-founder-lilian-weng-departs-rejoins-ope]] · [[2026-06-29-google-deepmind-s-coding-pivot-triggers-talent-exodus-to-met]]
+**Related:** [[2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement]] · [[2026-07-29-thinking-machines-co-founder-lilian-weng-departs-rejoins-ope]] · [[2026-07-13-apple-s-trade-secret-suit-against-openai-becomes-a-test-of-a]]
 <!-- graph:end -->

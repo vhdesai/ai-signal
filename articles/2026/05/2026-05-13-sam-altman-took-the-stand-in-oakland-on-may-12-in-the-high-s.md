@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla
 - 2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins
 - 2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children
-- 2026-05-15-musk-vs-altman-openai-trial-key-claims-and-what-s-at-stake
 - 2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr
+- 2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial
 embedding_id: 2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Sam Altman took the stand in Oakland on May 12 in the high-stakes Musk v. OpenAI
 
 **Entities:** [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla]] · [[2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins]] · [[2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children]] · [[2026-05-15-musk-vs-altman-openai-trial-key-claims-and-what-s-at-stake]] · [[2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr]]
+**Related:** [[2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla]] · [[2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins]] · [[2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children]] · [[2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr]] · [[2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial]]
 <!-- graph:end -->

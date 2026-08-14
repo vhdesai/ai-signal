@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-30-nvidia-releases-bionemo-agent-toolkit-turning-biomolecular-m
+- 2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod
 - 2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for
-- 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
-- 2026-07-05-nvidia-releases-horizon-a-hands-free-agent-framework-for-har
 - 2026-06-30-nvidia-brings-its-bionemo-agent-toolkit-into-claude-science
+- 2026-08-11-china-s-leading-model-developers-remain-dependent-on-nvidia
+- 2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f
 embedding_id: 2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia expanded its Agent Toolkit to add PhysicsNeMo and CUDA-X libraries as age
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-30-nvidia-releases-bionemo-agent-toolkit-turning-biomolecular-m]] · [[2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-07-05-nvidia-releases-horizon-a-hands-free-agent-framework-for-har]] · [[2026-06-30-nvidia-brings-its-bionemo-agent-toolkit-into-claude-science]]
+**Related:** [[2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod]] · [[2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for]] · [[2026-06-30-nvidia-brings-its-bionemo-agent-toolkit-into-claude-science]] · [[2026-08-11-china-s-leading-model-developers-remain-dependent-on-nvidia]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]]
 <!-- graph:end -->

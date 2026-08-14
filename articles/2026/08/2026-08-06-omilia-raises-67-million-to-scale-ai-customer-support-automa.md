@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-07-29-encore-ai-raises-30-million-for-agents-that-learn-from-custo
 - 2026-07-09-ollama-raises-65m-series-b-as-local-ai-adoption-scales
 - 2026-08-06-naive-raises-28-5-million-to-automate-company-setup-and-back
+- 2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation
 embedding_id: 2026-08-06-omilia-raises-67-million-to-scale-ai-customer-support-automa
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Omilia raised a $67 million Series B to expand its customer-support automation p
 
 **Entities:** [[Scale AI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin]] · [[2026-07-29-encore-ai-raises-30-million-for-agents-that-learn-from-custo]] · [[2026-07-09-ollama-raises-65m-series-b-as-local-ai-adoption-scales]] · [[2026-08-06-naive-raises-28-5-million-to-automate-company-setup-and-back]]
+**Related:** [[2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin]] · [[2026-07-29-encore-ai-raises-30-million-for-agents-that-learn-from-custo]] · [[2026-07-09-ollama-raises-65m-series-b-as-local-ai-adoption-scales]] · [[2026-08-06-naive-raises-28-5-million-to-automate-company-setup-and-back]] · [[2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]]
 <!-- graph:end -->

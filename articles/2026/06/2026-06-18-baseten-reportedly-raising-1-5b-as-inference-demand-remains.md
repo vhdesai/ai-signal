@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in
-- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 - 2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough
+- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 embedding_id: 2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Baseten is reportedly close to a $1.5 billion round at a $13 billion valuation. 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough]]
+**Related:** [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]] · [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
 <!-- graph:end -->

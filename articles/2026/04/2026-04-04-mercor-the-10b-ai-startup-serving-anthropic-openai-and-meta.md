@@ -20,9 +20,14 @@ entities:
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-04-04-mercor-data-breach-supply-chain-attack-on-litellm-exposes-ai
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-04-06-a-supply-chain-security-breach-at-mercor-a-platform-widely-u
+- 2026-04-02-breaking-mercor-and-litellm-breach-exposes-4tb-of-data-mar-3
+- 2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre
+- 2026-04-01-on-march-24-threat-actor-teampcp-executed-a-sophisticated-su
+- 2026-04-03-anthropic-is-in-damage-control-mode-after-source-code-for-it
 embedding_id: 2026-04-04-mercor-the-10b-ai-startup-serving-anthropic-openai-and-meta
 event_name: ''
 ---
@@ -36,5 +41,5 @@ Mercor, the $10B AI startup serving Anthropic, OpenAI, and Meta, confirmed a bre
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Canonical:** [[2026-04-04-mercor-data-breach-supply-chain-attack-on-litellm-exposes-ai]]
+**Related:** [[2026-04-06-a-supply-chain-security-breach-at-mercor-a-platform-widely-u]] · [[2026-04-02-breaking-mercor-and-litellm-breach-exposes-4tb-of-data-mar-3]] · [[2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre]] · [[2026-04-01-on-march-24-threat-actor-teampcp-executed-a-sophisticated-su]] · [[2026-04-03-anthropic-is-in-damage-control-mode-after-source-code-for-it]]
 <!-- graph:end -->

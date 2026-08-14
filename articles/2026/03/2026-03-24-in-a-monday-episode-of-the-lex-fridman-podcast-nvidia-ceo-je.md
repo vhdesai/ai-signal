@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a
 - 2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will
 - 2026-05-22-nvidia-ceo-jensen-huang-delivered-the-commencement-address-a
-- 2026-05-02-nvidia-ceo-jensen-huang-pushes-back-on-ai-god-complex-job-lo
 - 2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn
+- 2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio
 embedding_id: 2026-03-24-in-a-monday-episode-of-the-lex-fridman-podcast-nvidia-ceo-je
 event_name: ''
 ---
@@ -40,5 +40,5 @@ In a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang stated "
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a]] · [[2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will]] · [[2026-05-22-nvidia-ceo-jensen-huang-delivered-the-commencement-address-a]] · [[2026-05-02-nvidia-ceo-jensen-huang-pushes-back-on-ai-god-complex-job-lo]] · [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]]
+**Related:** [[2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a]] · [[2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will]] · [[2026-05-22-nvidia-ceo-jensen-huang-delivered-the-commencement-address-a]] · [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]] · [[2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio]]
 <!-- graph:end -->

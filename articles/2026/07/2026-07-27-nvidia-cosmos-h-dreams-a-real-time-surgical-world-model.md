@@ -23,8 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai
 - 2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero
-- 2026-07-17-nvidia-unveils-cosmos-3-edge-as-a-physical-ai-world-model-fo
-- 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
+- 2026-08-06-nvidia-details-cosmos-3-an-open-world-model-family-for-physi
 embedding_id: 2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model
 event_name: ''
 ---
@@ -38,5 +37,5 @@ NVIDIA published Cosmos-H-Dreams, described as a real-time, action-conditioned g
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai]] · [[2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero]] · [[2026-07-17-nvidia-unveils-cosmos-3-edge-as-a-physical-ai-world-model-fo]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]]
+**Related:** [[2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai]] · [[2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero]] · [[2026-08-06-nvidia-details-cosmos-3-an-open-world-model-family-for-physi]]
 <!-- graph:end -->

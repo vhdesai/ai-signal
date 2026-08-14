@@ -8,7 +8,7 @@ url_original: null
 url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-06-08_060034_Daily-AI-News-Digest.md
-content_hash: 473ab725feb5e7b3d715f90a4eeb5133b31f56e04d2a294fb5f7e1aac8f0aa6c
+content_hash: c563a564f254898cf8ec1716e1be07e5e9c944e18224016feba097bab051e197
 normalized_title_hash: f189f0be1812aaed
 canonical_url_hash: ''
 tags:
@@ -33,7 +33,7 @@ event_name: ''
 
 # Alibaba Restructures AI Organization: Establishes "Token Foundry" Unit and AI Future Research Institute
 
-Alibaba announced a major organizational restructuring of its AI business, establishing a "Token Foundry" business unit and an AI Future Research Institute. The restructuring reflects Alibaba's push to industrialize token production and integrate frontier research more tightly with commercial deployment—mirroring Baidu's parallel MEG restructuring. For the Chinese AI landscape, both moves signal that the major players are moving from model development to operational scaling. URL not verified.
+Alibaba announced a major organizational restructuring of its AI business, establishing a "Token Foundry" business unit and an AI Future Research Institute. The restructuring reflects Alibaba's push to industrialize token production and integrate frontier research more tightly with commercial deployment—mirroring Baidu's parallel MEG restructuring. For the Chinese AI landscape, both moves signal that the major players are moving from model development to operational scaling.
 
 <!-- graph:start -->
 ## Connections

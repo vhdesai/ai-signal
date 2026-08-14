@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a
 - 2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y
 - 2026-05-22-nvidia-ceo-jensen-huang-delivered-the-commencement-address-a
+- 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
 embedding_id: 2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Nvidia CEO Jensen Huang publicly criticized industry leaders — singling out An
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-05-22-nvidia-ceo-jensen-huang-delivered-the-commencement-address-a]]
+**Related:** [[2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-05-22-nvidia-ceo-jensen-huang-delivered-the-commencement-address-a]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]]
 <!-- graph:end -->

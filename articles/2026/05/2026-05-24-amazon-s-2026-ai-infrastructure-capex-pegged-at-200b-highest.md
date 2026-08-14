@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 - 2026-04-02-source-all-about-lawyer-the-neuron
 - 2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai
-- 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
 - 2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in
+- 2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200
 embedding_id: 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Amazon's 2026 AI infrastructure capex is now estimated at roughly $200B — the 
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai]] · [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20]] · [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]]
+**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai]] · [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200]]
 <!-- graph:end -->

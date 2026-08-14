@@ -19,8 +19,7 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids:
-- 2026-06-29-dyslexlens-a-low-resource-llm-turns-forum-posts-into-traceab
+related_article_ids: []
 embedding_id: 2026-06-29-dyslexlens-is-a-low-resource-llm-approach-that-converts-onli
 event_name: ''
 ---
@@ -33,5 +32,4 @@ DysLexLens is a low-resource LLM approach that converts online forum posts by an
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-29-dyslexlens-a-low-resource-llm-turns-forum-posts-into-traceab]]
 <!-- graph:end -->

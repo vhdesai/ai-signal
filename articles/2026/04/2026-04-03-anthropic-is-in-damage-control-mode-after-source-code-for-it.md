@@ -23,9 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-02-anthropic-accidentally-leaks-claude-code-source-takes-down-g
+- 2026-04-02-anthropic-s-claude-code-source-code-was-leaked-prompting-the
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
 - 2026-06-06-anthropic-suffers-multi-model-claude-outage
+- 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
 embedding_id: 2026-04-03-anthropic-is-in-damage-control-mode-after-source-code-for-it
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Anthropic is in damage-control mode after source code for its Claude AI agent ap
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-02-anthropic-accidentally-leaks-claude-code-source-takes-down-g]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]]
+**Related:** [[2026-04-02-anthropic-s-claude-code-source-code-was-leaked-prompting-the]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]]
 <!-- graph:end -->

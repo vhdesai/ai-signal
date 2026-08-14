@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10
-- 2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of
 - 2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet
+- 2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of
 - 2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory
-- 2026-07-11-sk-hynix-surges-13-in-nasdaq-debut
+- 2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing
 embedding_id: 2026-06-24-sk-hynix-targets-29b-nasdaq-listing-as-soon-as-july-10
 event_name: ''
 ---
@@ -37,5 +37,5 @@ SK Hynix disclosed plans to list American depositary receipts on Nasdaq’s Glob
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10]] · [[2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of]] · [[2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet]] · [[2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory]] · [[2026-07-11-sk-hynix-surges-13-in-nasdaq-debut]]
+**Related:** [[2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10]] · [[2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet]] · [[2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of]] · [[2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory]] · [[2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing]]
 <!-- graph:end -->

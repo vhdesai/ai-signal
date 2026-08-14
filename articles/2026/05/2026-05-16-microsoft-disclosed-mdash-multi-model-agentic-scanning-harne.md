@@ -26,9 +26,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-12-microsoft-mdash-tops-cybergym-vulnerability-benchmark-at-88
-- 2026-05-16-hot-microsoft-mdash-multi-agent-ai-surpasses-anthropic-mytho
-- 2026-07-17-microsoft-reportedly-prepares-project-perception-a-multi-mod
-- 2026-07-18-microsoft-reportedly-prepares-project-perception-a-multi-mod
+- event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib
+- 2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb
+- 2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec
 - 2026-08-05-microsoft-s-skillopt-shows-optimized-agent-skills-transfer-a
 embedding_id: 2026-05-16-microsoft-disclosed-mdash-multi-model-agentic-scanning-harne
 event_name: ''
@@ -43,5 +43,5 @@ Microsoft disclosed MDASH (Multi-Model Agentic Scanning Harness), a system using
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-12-microsoft-mdash-tops-cybergym-vulnerability-benchmark-at-88]] · [[2026-05-16-hot-microsoft-mdash-multi-agent-ai-surpasses-anthropic-mytho]] · [[2026-07-17-microsoft-reportedly-prepares-project-perception-a-multi-mod]] · [[2026-07-18-microsoft-reportedly-prepares-project-perception-a-multi-mod]] · [[2026-08-05-microsoft-s-skillopt-shows-optimized-agent-skills-transfer-a]]
+**Related:** [[2026-05-12-microsoft-mdash-tops-cybergym-vulnerability-benchmark-at-88]] · [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib]] · [[2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb]] · [[2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec]] · [[2026-08-05-microsoft-s-skillopt-shows-optimized-agent-skills-transfer-a]]
 <!-- graph:end -->

@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau
-- 2026-06-25-openai-brings-codex-remote-to-general-availability-across-al
 - 2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans
+- 2026-06-25-openai-brings-codex-remote-to-general-availability-across-al
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
 - 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
 embedding_id: 2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access
@@ -39,5 +39,5 @@ OpenAI shipped three coordinated Codex updates: a native Windows Sandbox integra
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]] · [[2026-06-25-openai-brings-codex-remote-to-general-availability-across-al]] · [[2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]]
+**Related:** [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]] · [[2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans]] · [[2026-06-25-openai-brings-codex-remote-to-general-availability-across-al]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]]
 <!-- graph:end -->

@@ -7,7 +7,7 @@ url_original: null
 url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-06-22_060000_Daily-AI-News-Digest.md
-content_hash: 63a356a9017b3b6d79bbaade879326bbe23038405acbf34e1ca0982a716f61d4
+content_hash: 53adeae8a5a0a4cd7e39a773e7cc95aa5b7f1a10b3569f08202ee453b317e7f4
 normalized_title_hash: fcfde86b226019d8
 canonical_url_hash: ''
 tags:
@@ -32,7 +32,7 @@ event_name: ''
 
 # Amazon pushes conversational AI ads onto the open internet
 
-ADWEEK reported that Amazon is extending conversational AI advertising formats beyond its owned properties. The business implication is that retail media networks are moving from sponsored placements toward interactive buying assistance, potentially increasing conversion data capture while raising new questions about disclosure, user control, and brand safety. URL not verified.
+ADWEEK reported that Amazon is extending conversational AI advertising formats beyond its owned properties. The business implication is that retail media networks are moving from sponsored placements toward interactive buying assistance, potentially increasing conversion data capture while raising new questions about disclosure, user control, and brand safety.
 
 <!-- graph:start -->
 ## Connections

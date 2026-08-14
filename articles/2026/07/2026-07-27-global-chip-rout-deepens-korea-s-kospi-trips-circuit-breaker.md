@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-13-sk-hynix-shares-plunge-12-15-in-seoul-triggering-kospi-circu
-- 2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers
+- 2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip
 - 2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat
-- 2026-08-13-south-korea-s-kospi-enters-bull-market-in-one-month-on-ai-tr
+- 2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers
 embedding_id: 2026-07-27-global-chip-rout-deepens-korea-s-kospi-trips-circuit-breaker
 event_name: ''
 ---
@@ -41,5 +41,5 @@ South Korean and Japanese chip stocks led a fresh global selloff, with SK hynix 
 
 **Entities:** [[AMD]] · [[NVIDIA]] · [[Samsung]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-13-sk-hynix-shares-plunge-12-15-in-seoul-triggering-kospi-circu]] · [[2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers]] · [[2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat]] · [[2026-08-13-south-korea-s-kospi-enters-bull-market-in-one-month-on-ai-tr]]
+**Related:** [[2026-07-13-sk-hynix-shares-plunge-12-15-in-seoul-triggering-kospi-circu]] · [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat]] · [[2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers]]
 <!-- graph:end -->

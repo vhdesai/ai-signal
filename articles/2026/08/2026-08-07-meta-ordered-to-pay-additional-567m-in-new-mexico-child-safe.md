@@ -22,7 +22,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-07-new-mexico-court-orders-meta-to-fund-567m-child-safety-abate
-- 2026-07-15-meta-is-sued-over-allegations-ai-and-keystroke-monitoring-ta
 - 2026-08-05-meta-removed-more-than-50-ads-containing-ai-generated-child
 embedding_id: 2026-08-07-meta-ordered-to-pay-additional-567m-in-new-mexico-child-safe
 event_name: ''
@@ -37,5 +36,5 @@ A New Mexico court ordered Meta to pay an additional $567M in damages related to
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-07-new-mexico-court-orders-meta-to-fund-567m-child-safety-abate]] · [[2026-07-15-meta-is-sued-over-allegations-ai-and-keystroke-monitoring-ta]] · [[2026-08-05-meta-removed-more-than-50-ads-containing-ai-generated-child]]
+**Related:** [[2026-08-07-new-mexico-court-orders-meta-to-fund-567m-child-safety-abate]] · [[2026-08-05-meta-removed-more-than-50-ads-containing-ai-generated-child]]
 <!-- graph:end -->

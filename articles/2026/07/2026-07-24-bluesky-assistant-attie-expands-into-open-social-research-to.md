@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-18-tweaktown-academic-research
-- 2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme
-- 2026-05-18-openai-blog-theaitrack-research-breakthroughs
 - 2026-08-13-ibm-embeds-openai-frontier-models-across-its-consulting-deli
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
+- 2026-08-13-ibm-partners-with-openai-to-train-tens-of-thousands-of-consu
+- 2026-07-25-openai-s-ai-keypad-points-to-specialized-agent-control-hardw
+- 2026-08-13-ibm-embeds-openai-frontier-models-into-its-consulting-delive
 embedding_id: 2026-07-24-bluesky-assistant-attie-expands-into-open-social-research-to
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TechCrunch reports that Bluesky's AI assistant Attie expanded into a tool for as
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-18-tweaktown-academic-research]] · [[2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme]] · [[2026-05-18-openai-blog-theaitrack-research-breakthroughs]] · [[2026-08-13-ibm-embeds-openai-frontier-models-across-its-consulting-deli]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
+**Related:** [[2026-08-13-ibm-embeds-openai-frontier-models-across-its-consulting-deli]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-08-13-ibm-partners-with-openai-to-train-tens-of-thousands-of-consu]] · [[2026-07-25-openai-s-ai-keypad-points-to-specialized-agent-control-hardw]] · [[2026-08-13-ibm-embeds-openai-frontier-models-into-its-consulting-delive]]
 <!-- graph:end -->

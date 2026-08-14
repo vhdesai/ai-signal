@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-01-openai-closes-record-122-billion-funding-round-at-852-billio
-- 2026-04-04-openai-closes-122b-round-at-852b-valuation-largest-fundraise
-- 2026-03-31-industry-news-funding
 - 2026-04-01-openai-has-officially-closed-the-largest-private-financing-d
 - 2026-04-04-openai-completed-a-122-billion-fundraise-the-largest-single
+- 2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru
+- 2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion
+- 2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation
 embedding_id: 2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu
 event_name: ''
 ---
@@ -39,5 +39,5 @@ event_name: ''
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-01-openai-closes-record-122-billion-funding-round-at-852-billio]] · [[2026-04-04-openai-closes-122b-round-at-852b-valuation-largest-fundraise]] · [[2026-03-31-industry-news-funding]] · [[2026-04-01-openai-has-officially-closed-the-largest-private-financing-d]] · [[2026-04-04-openai-completed-a-122-billion-fundraise-the-largest-single]]
+**Related:** [[2026-04-01-openai-has-officially-closed-the-largest-private-financing-d]] · [[2026-04-04-openai-completed-a-122-billion-fundraise-the-largest-single]] · [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]] · [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation]]
 <!-- graph:end -->

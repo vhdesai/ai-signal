@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool
 - 2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos
-- 2026-05-28-youtube-lets-users-ask-ai-to-build-a-custom-video-feed
 - 2026-07-08-google-s-deepfake-detector-system-used-to-debunk-mcconnell-h
+- 2026-05-28-youtube-lets-users-ask-ai-to-build-a-custom-video-feed
 - 2026-08-04-microsoft-teams-adds-a-report-button-to-flag-ai-deepfake-mee
 embedding_id: 2026-04-20-youtube-expands-ai-deepfake-detection-for-creators
 event_name: ''
@@ -38,5 +38,5 @@ YouTube rolled out an expanded likeness-detection system that lets creators flag
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool]] · [[2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos]] · [[2026-05-28-youtube-lets-users-ask-ai-to-build-a-custom-video-feed]] · [[2026-07-08-google-s-deepfake-detector-system-used-to-debunk-mcconnell-h]] · [[2026-08-04-microsoft-teams-adds-a-report-button-to-flag-ai-deepfake-mee]]
+**Related:** [[2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool]] · [[2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos]] · [[2026-07-08-google-s-deepfake-detector-system-used-to-debunk-mcconnell-h]] · [[2026-05-28-youtube-lets-users-ask-ai-to-build-a-custom-video-feed]] · [[2026-08-04-microsoft-teams-adds-a-report-button-to-flag-ai-deepfake-mee]]
 <!-- graph:end -->

@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-08-minimax-plans-a-2-7-trillion-parameter-open-weight-model
 - 2026-07-07-minimax-releases-2-7t-parameter-open-weight-model
 - 2026-07-31-minimax-releases-h3-video-model-with-open-weights-to-follow
-- 2026-08-03-alibaba-unveils-qwen3-8-max-its-most-capable-model-to-date
 - 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
+- 2026-08-03-alibaba-unveils-qwen3-8-max-its-most-capable-model-to-date
 embedding_id: 2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m
 event_name: ''
 ---
@@ -40,5 +40,5 @@ MiniMax is developing a 2.7-trillion-parameter model — roughly six times its c
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-08-minimax-plans-a-2-7-trillion-parameter-open-weight-model]] · [[2026-07-07-minimax-releases-2-7t-parameter-open-weight-model]] · [[2026-07-31-minimax-releases-h3-video-model-with-open-weights-to-follow]] · [[2026-08-03-alibaba-unveils-qwen3-8-max-its-most-capable-model-to-date]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]]
+**Related:** [[2026-07-08-minimax-plans-a-2-7-trillion-parameter-open-weight-model]] · [[2026-07-07-minimax-releases-2-7t-parameter-open-weight-model]] · [[2026-07-31-minimax-releases-h3-video-model-with-open-weights-to-follow]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-08-03-alibaba-unveils-qwen3-8-max-its-most-capable-model-to-date]]
 <!-- graph:end -->

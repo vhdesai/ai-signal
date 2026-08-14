@@ -25,7 +25,6 @@ related_article_ids:
 - 2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial
 - 2026-04-13-industry-news
 - 2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu
-- 2026-05-15-musk-vs-altman-openai-trial-key-claims-and-what-s-at-stake
 embedding_id: 2026-07-11-musk-altman-feud-reignites-over-trade-secrets-and-orbital-da
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Musk called Altman's approach "scamming"; Altman countered that Musk is "selling
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial]] · [[2026-04-13-industry-news]] · [[2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu]] · [[2026-05-15-musk-vs-altman-openai-trial-key-claims-and-what-s-at-stake]]
+**Related:** [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial]] · [[2026-04-13-industry-news]] · [[2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu]]
 <!-- graph:end -->

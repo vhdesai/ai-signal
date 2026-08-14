@@ -22,13 +22,14 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-05-15-ai-osaurus-brings-local-cloud-ai-model-switching-to-macos
+dedupe_status: canonical
+canonical_article_id: null
 related_article_ids:
 - 2026-05-15-a-new-macos-tool-called-ai-osaurus-launched-today-giving-use
-- 2026-04-23-the-thunderbird-team-released-thunderbolt-an-open-source-ai
 - 2026-08-05-macpaw-taps-liquid-ai-for-local-inference-in-its-app-ecosyst
-- 2026-05-26-reproducible-massively-parallel-simulator-for-training-and-e
+- 2026-08-05-macpaw-partners-with-liquid-ai-to-bring-on-device-inference
+- 2026-05-09-a-community-driven-open-source-project-released-a-metal-base
+- 2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu
 embedding_id: 2026-05-15-osaurus-brings-unified-local-cloud-ai-model-management-to-ma
 event_name: ''
 ---
@@ -42,6 +43,5 @@ Osaurus is a new macOS application that provides a single interface for managing
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[Mistral]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Canonical:** [[2026-05-15-ai-osaurus-brings-local-cloud-ai-model-switching-to-macos]]
-**Related:** [[2026-05-15-a-new-macos-tool-called-ai-osaurus-launched-today-giving-use]] · [[2026-04-23-the-thunderbird-team-released-thunderbolt-an-open-source-ai]] · [[2026-08-05-macpaw-taps-liquid-ai-for-local-inference-in-its-app-ecosyst]] · [[2026-05-26-reproducible-massively-parallel-simulator-for-training-and-e]]
+**Related:** [[2026-05-15-a-new-macos-tool-called-ai-osaurus-launched-today-giving-use]] · [[2026-08-05-macpaw-taps-liquid-ai-for-local-inference-in-its-app-ecosyst]] · [[2026-08-05-macpaw-partners-with-liquid-ai-to-bring-on-device-inference]] · [[2026-05-09-a-community-driven-open-source-project-released-a-metal-base]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]]
 <!-- graph:end -->

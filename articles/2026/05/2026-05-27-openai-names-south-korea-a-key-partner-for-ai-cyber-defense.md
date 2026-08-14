@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-22-openai-chief-strategy-officer-jason-kwon-confirmed-plans-to
-- 2026-08-07-sk-telecom-and-rebellions-expand-korean-ai-inference-chip-ec
+- 2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e
 - 2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san
 - 2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration
+- 2026-07-28-nvidia-sk-group-500b-partnership-is-mostly-recycled-announce
+- 2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d
 embedding_id: 2026-05-27-openai-names-south-korea-a-key-partner-for-ai-cyber-defense
 event_name: ''
 ---
@@ -38,5 +39,5 @@ OpenAI unveiled its "Korea Cyber Action Plan" in Seoul, broadening access to its
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-22-openai-chief-strategy-officer-jason-kwon-confirmed-plans-to]] · [[2026-08-07-sk-telecom-and-rebellions-expand-korean-ai-inference-chip-ec]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration]]
+**Related:** [[2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration]] · [[2026-07-28-nvidia-sk-group-500b-partnership-is-mostly-recycled-announce]] · [[2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d]]
 <!-- graph:end -->

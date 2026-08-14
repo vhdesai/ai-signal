@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
-- 2026-07-28-anthropic-says-claude-5-works-better-with-much-shorter-promp
 - 2026-07-28-anthropic-says-claude-5-performs-better-with-shorter-prompts
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 - 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
+- 2026-08-07-anthropic-updates-claude-fable-5-s-biology-safety-classifier
 embedding_id: 2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic published new context-engineering guidance for its Claude 5-generation
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]] · [[2026-07-28-anthropic-says-claude-5-works-better-with-much-shorter-promp]] · [[2026-07-28-anthropic-says-claude-5-performs-better-with-shorter-prompts]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]]
+**Related:** [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]] · [[2026-07-28-anthropic-says-claude-5-performs-better-with-shorter-prompts]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]] · [[2026-08-07-anthropic-updates-claude-fable-5-s-biology-safety-classifier]]
 <!-- graph:end -->

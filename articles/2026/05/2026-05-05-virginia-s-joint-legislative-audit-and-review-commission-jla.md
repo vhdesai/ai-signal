@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-05-22-china-advances-comprehensive-ai-legislation-as-us-regulatory
-- 2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat
 - 2026-06-04-bipartisan-great-american-ai-act-proposes-federal-governance
+- 2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat
 - 2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l
 embedding_id: 2026-05-05-virginia-s-joint-legislative-audit-and-review-commission-jla
 event_name: ''
@@ -36,5 +36,5 @@ Virginia's Joint Legislative Audit and Review Commission (JLARC) began a year-lo
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-05-22-china-advances-comprehensive-ai-legislation-as-us-regulatory]] · [[2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat]] · [[2026-06-04-bipartisan-great-american-ai-act-proposes-federal-governance]] · [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]]
+**Related:** [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-05-22-china-advances-comprehensive-ai-legislation-as-us-regulatory]] · [[2026-06-04-bipartisan-great-american-ai-act-proposes-federal-governance]] · [[2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat]] · [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]]
 <!-- graph:end -->

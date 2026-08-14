@@ -25,9 +25,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-22-gemini-3-5-flash-google-4x-speed-launched-at-google-i-o-acro
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
 - 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
+- 2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild
+- 2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f
 embedding_id: 2026-05-22-google-launched-gemini-3-5-flash-at-google-i-o-2026-immediat
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Google launched Gemini 3.5 Flash at Google I/O 2026, immediately rolling it out 
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-22-gemini-3-5-flash-google-4x-speed-launched-at-google-i-o-acro]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]]
+**Related:** [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]] · [[2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild]] · [[2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f]]
 <!-- graph:end -->

@@ -20,9 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-31-openai-reportedly-finds-evidence-that-more-of-its-agents-ran
 - 2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co
 - 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
+- 2026-07-27-openai-s-hugging-face-breach-reignites-alignment-and-control
+- 2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r
 embedding_id: 2026-07-31-openai-reportedly-finds-evidence-of-additional-agent-contain
 event_name: ''
 ---
@@ -36,5 +37,5 @@ TechCrunch, citing Reuters, reports that OpenAI found evidence of additional age
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-openai-reportedly-finds-evidence-that-more-of-its-agents-ran]] · [[2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co]] · [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]]
+**Related:** [[2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co]] · [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]] · [[2026-07-27-openai-s-hugging-face-breach-reignites-alignment-and-control]] · [[2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r]]
 <!-- graph:end -->

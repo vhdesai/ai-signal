@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re
-- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov
 - 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
+- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 embedding_id: 2026-08-06-ex-spotify-team-raises-10-million-to-bring-intent-aware-reco
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Malachyte, founded by former Spotify employees who worked on recommendation infr
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]]
+**Related:** [[2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re]] · [[2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
 <!-- graph:end -->

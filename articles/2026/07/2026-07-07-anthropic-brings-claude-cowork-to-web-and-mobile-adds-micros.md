@@ -9,7 +9,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-08_062121_Inbox_Daily AI News Digest - July 8,
   2026.md
-content_hash: f225a2d1efb7e61a036ec53176d7c451e0516310d1a0bd89015b3de08894ab55
+content_hash: d133c6008ed86dc7016085182a7b617b9bddb05cbec2bafcc0f2cb42ae2f1386
 normalized_title_hash: 086dfcd04f3affa9
 canonical_url_hash: ''
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # Anthropic Brings Claude Cowork to Web and Mobile, Adds Microsoft 365 Write Tools
 
-Anthropic extended Claude Cowork beyond desktop to web and mobile, with sessions now running remotely so work and files persist across devices and scheduled tasks execute with no device online; the rollout starts with the Max plan. Most relevant for Microsoft-centric enterprises, the Microsoft 365 connector gained write tools — Claude can now draft and send email, manage calendar events, and create or update OneDrive and SharePoint files — though Teams remains read-only and a Microsoft Entra admin must consent before the tools are enabled. The change moves Claude from retrieval into direct action inside the M365 stack. URL not verified.
+Anthropic extended Claude Cowork beyond desktop to web and mobile, with sessions now running remotely so work and files persist across devices and scheduled tasks execute with no device online; the rollout starts with the Max plan. Most relevant for Microsoft-centric enterprises, the Microsoft 365 connector gained write tools — Claude can now draft and send email, manage calendar events, and create or update OneDrive and SharePoint files — though Teams remains read-only and a Microsoft Entra admin must consent before the tools are enabled. The change moves Claude from retrieval into direct action inside the M365 stack.
 
 <!-- graph:start -->
 ## Connections

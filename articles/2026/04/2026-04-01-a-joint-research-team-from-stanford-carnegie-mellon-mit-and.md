@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-01-stanford-cmu-mit-and-upenn-demonstrate-4-ai-chip-speedup-via
 - 2026-04-02-research-breakthroughs
 - 2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa
-- 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
+- 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
+- 2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps
 embedding_id: 2026-04-01-a-joint-research-team-from-stanford-carnegie-mellon-mit-and
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A joint research team from Stanford, Carnegie Mellon, MIT, and the University of
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-01-stanford-cmu-mit-and-upenn-demonstrate-4-ai-chip-speedup-via]] · [[2026-04-02-research-breakthroughs]] · [[2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]]
+**Related:** [[2026-04-02-research-breakthroughs]] · [[2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps]]
 <!-- graph:end -->

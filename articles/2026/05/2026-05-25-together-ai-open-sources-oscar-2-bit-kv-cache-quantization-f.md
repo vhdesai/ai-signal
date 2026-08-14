@@ -17,9 +17,14 @@ entities: []
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-05-25-oscar-is-an-attention-aware-2-bit-kv-cache-quantization-syst
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
+- 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
+- 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
+- 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
+- 2026-07-26-abbel-belief-state-memory-for-llm-agents
 embedding_id: 2026-05-25-together-ai-open-sources-oscar-2-bit-kv-cache-quantization-f
 event_name: ''
 ---
@@ -32,5 +37,5 @@ OSCAR is an attention-aware 2-bit KV-cache quantization system designed to slash
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-05-25-oscar-is-an-attention-aware-2-bit-kv-cache-quantization-syst]]
+**Related:** [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-07-26-abbel-belief-state-memory-for-llm-agents]]
 <!-- graph:end -->

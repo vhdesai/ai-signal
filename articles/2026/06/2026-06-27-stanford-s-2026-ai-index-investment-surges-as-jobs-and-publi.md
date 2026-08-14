@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
-- 2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
+- 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
 embedding_id: 2026-06-27-stanford-s-2026-ai-index-investment-surges-as-jobs-and-publi
 event_name: ''
 ---
@@ -36,5 +36,5 @@ IEEE Spectrum's analysis of Stanford HAI's 2026 AI Index highlights record AI in
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]]
+**Related:** [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]]
 <!-- graph:end -->

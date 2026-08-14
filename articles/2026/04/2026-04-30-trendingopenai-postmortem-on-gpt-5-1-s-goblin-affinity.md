@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
-- 2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking
 - 2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r
 - 2026-04-14-source-uc-berkeley-rdi-blog-the-neuron
-- 2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf
+- 2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking
+- 2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-with
 embedding_id: 2026-04-30-trendingopenai-postmortem-on-gpt-5-1-s-goblin-affinity
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI published a detailed postmortem explaining how GPT-5.1 developed an unexp
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking]] · [[2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r]] · [[2026-04-14-source-uc-berkeley-rdi-blog-the-neuron]] · [[2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf]]
+**Related:** [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r]] · [[2026-04-14-source-uc-berkeley-rdi-blog-the-neuron]] · [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking]] · [[2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-with]]
 <!-- graph:end -->

@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-06-anthropic-spacex-colossus-1-deal-doubles-claude-code-rate-li
 - 2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year
-- 2026-05-14-anthropic-secures-spacex-colossus-1-supercomputer-220-000-gp
 - 2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex
+- 2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea
 embedding_id: 2026-05-14-anthropic-signed-an-agreement-giving-claude-access-to-spacex
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic signed an agreement giving Claude access to SpaceX's entire Colossus 1
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-06-anthropic-spacex-colossus-1-deal-doubles-claude-code-rate-li]] · [[2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year]] · [[2026-05-14-anthropic-secures-spacex-colossus-1-supercomputer-220-000-gp]] · [[2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex]]
+**Related:** [[2026-05-06-anthropic-spacex-colossus-1-deal-doubles-claude-code-rate-li]] · [[2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year]] · [[2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex]] · [[2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea]]
 <!-- graph:end -->

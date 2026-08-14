@@ -20,8 +20,11 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol
-related_article_ids: []
+canonical_article_id: 2026-07-11-openai-creates-a-dedicated-product-role-for-families-as-chat
+related_article_ids:
+- 2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol
+- 2026-06-26-chatgpt-expands-personal-finance-and-dictation-and-retires-g
+- 2026-08-01-sam-altman-continues-pitching-chatgpt-as-a-family-and-parent
 embedding_id: 2026-07-11-openai-leans-into-families-as-chatgpt-pushes-deeper-into-hou
 event_name: ''
 ---
@@ -35,5 +38,6 @@ OpenAI is hiring a dedicated product manager to build ChatGPT experiences for fa
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Canonical:** [[2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol]]
+**Canonical:** [[2026-07-11-openai-creates-a-dedicated-product-role-for-families-as-chat]]
+**Related:** [[2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol]] · [[2026-06-26-chatgpt-expands-personal-finance-and-dictation-and-retires-g]] · [[2026-08-01-sam-altman-continues-pitching-chatgpt-as-a-family-and-parent]]
 <!-- graph:end -->

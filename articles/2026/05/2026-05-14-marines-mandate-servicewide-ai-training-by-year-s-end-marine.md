@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete
 - 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
-- 2026-08-11-the-tactical-allocation-letter-no-ai-relevant-the-tactical-a
-- 2026-08-10-the-tactical-allocation-letter-no-ai-relevant-the-tactical-a
+- 2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete
 - 2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica
+- 2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp
+- 2026-07-07-how-novice-coders-can-develop-ai-programs-for-military-appli
 embedding_id: 2026-05-14-marines-mandate-servicewide-ai-training-by-year-s-end-marine
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Marines mandate servicewide AI training by year's end — Marine Corps Times, Ma
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-08-11-the-tactical-allocation-letter-no-ai-relevant-the-tactical-a]] · [[2026-08-10-the-tactical-allocation-letter-no-ai-relevant-the-tactical-a]] · [[2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica]]
+**Related:** [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete]] · [[2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica]] · [[2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp]] · [[2026-07-07-how-novice-coders-can-develop-ai-programs-for-military-appli]]
 <!-- graph:end -->

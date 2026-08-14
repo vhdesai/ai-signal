@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit
 - 2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le
 - 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
-- 2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas
+- 2026-06-22-five-eyes-warning-says-destabilizing-ai-capabilities-may-be
 embedding_id: 2026-08-11-analysis-frontier-ai-slowdown-legislation-could-trigger-pree
 event_name: ''
 ---
@@ -35,5 +35,5 @@ A Forbes AI Insider analysis argues that legislation mandating a slowdown in fro
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit]] · [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le]] · [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]] · [[2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas]]
+**Related:** [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit]] · [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le]] · [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]] · [[2026-06-22-five-eyes-warning-says-destabilizing-ai-capabilities-may-be]]
 <!-- graph:end -->

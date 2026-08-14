@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-07-24-cognition-buys-poke-as-ai-personality-becomes-a-competitive
 - 2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting
 - 2026-08-08-pokee-ai-releases-isaac-28b-a-10m-token-agentic-model-for-cu
-- 2026-07-19-vertu-s-executive-ai-agent-phone-remains-a-premium-device-si
 - 2026-05-28-weave-launches-ai-receptionist-on-google-gemini-enterprise-a
+- 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
 embedding_id: 2026-06-04-apple-approves-first-ai-agent-on-messages-for-business
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Apple approved Poke as the first AI agent on Messages for Business, enabling con
 
 **Entities:** [[Apple]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-24-cognition-buys-poke-as-ai-personality-becomes-a-competitive]] · [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]] · [[2026-08-08-pokee-ai-releases-isaac-28b-a-10m-token-agentic-model-for-cu]] · [[2026-07-19-vertu-s-executive-ai-agent-phone-remains-a-premium-device-si]] · [[2026-05-28-weave-launches-ai-receptionist-on-google-gemini-enterprise-a]]
+**Related:** [[2026-07-24-cognition-buys-poke-as-ai-personality-becomes-a-competitive]] · [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]] · [[2026-08-08-pokee-ai-releases-isaac-28b-a-10m-token-agentic-model-for-cu]] · [[2026-05-28-weave-launches-ai-receptionist-on-google-gemini-enterprise-a]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]]
 <!-- graph:end -->

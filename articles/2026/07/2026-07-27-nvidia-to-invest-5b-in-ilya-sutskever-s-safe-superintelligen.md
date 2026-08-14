@@ -24,7 +24,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-nvidia-to-take-5b-stake-in-ilya-sutskever-s-safe-superintell
 - 2026-07-27-safe-superintelligence-partners-with-nvidia-to-scale-researc
-- 2026-07-28-the-information-2026-07-28-external-nvidia-makes-multibillio
 - 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
 - 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
 embedding_id: 2026-07-27-nvidia-to-invest-5b-in-ilya-sutskever-s-safe-superintelligen
@@ -40,5 +39,5 @@ Nvidia agreed to commit roughly $5 billion to Safe Superintelligence, the secret
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-27-nvidia-to-take-5b-stake-in-ilya-sutskever-s-safe-superintell]] · [[2026-07-27-safe-superintelligence-partners-with-nvidia-to-scale-researc]] · [[2026-07-28-the-information-2026-07-28-external-nvidia-makes-multibillio]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
+**Related:** [[2026-07-27-nvidia-to-take-5b-stake-in-ilya-sutskever-s-safe-superintell]] · [[2026-07-27-safe-superintelligence-partners-with-nvidia-to-scale-researc]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
 <!-- graph:end -->

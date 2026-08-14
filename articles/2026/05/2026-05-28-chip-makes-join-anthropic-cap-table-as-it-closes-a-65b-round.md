@@ -23,8 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope
-- 2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open
+- 2026-05-18-bloomberg-reports-anthropic-s-latest-funding-round-at-least
 - 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
+- 2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open
 embedding_id: 2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Anthropic confirmed the close of a $65B Series H that values the company at roug
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Samsung]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope]] · [[2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]]
+**Related:** [[2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope]] · [[2026-05-18-bloomberg-reports-anthropic-s-latest-funding-round-at-least]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open]]
 <!-- graph:end -->

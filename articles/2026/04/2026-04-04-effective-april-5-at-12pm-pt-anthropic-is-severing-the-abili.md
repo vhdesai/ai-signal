@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-06-anthropic-has-terminated-the-ability-to-use-claude-subscript
-- 2026-04-06-anthropic-restricts-third-party-claude-access-cuts-off-openc
 - 2026-08-09-anthropic-makes-claude-code-auto-mode-default-catches-89-of
 - 2026-08-09-anthropic-makes-claude-code-auto-mode-the-default
+- 2026-08-09-anthropic-makes-claude-code-auto-mode-the-default-for-pro-ma
 embedding_id: 2026-04-04-effective-april-5-at-12pm-pt-anthropic-is-severing-the-abili
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Effective April 5 at 12pm PT, Anthropic is severing the ability for Claude Pro a
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-04-06-anthropic-has-terminated-the-ability-to-use-claude-subscript]] · [[2026-04-06-anthropic-restricts-third-party-claude-access-cuts-off-openc]] · [[2026-08-09-anthropic-makes-claude-code-auto-mode-default-catches-89-of]] · [[2026-08-09-anthropic-makes-claude-code-auto-mode-the-default]]
+**Related:** [[2026-04-06-anthropic-has-terminated-the-ability-to-use-claude-subscript]] · [[2026-08-09-anthropic-makes-claude-code-auto-mode-default-catches-89-of]] · [[2026-08-09-anthropic-makes-claude-code-auto-mode-the-default]] · [[2026-08-09-anthropic-makes-claude-code-auto-mode-the-default-for-pro-ma]]
 <!-- graph:end -->

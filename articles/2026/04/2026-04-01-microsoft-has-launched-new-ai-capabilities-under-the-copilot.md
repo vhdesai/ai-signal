@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-10-microsoft-copilot-gains-multi-model-workflows-and-cowork-age
 - 2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
-- 2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
+- 2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen
+- 2026-04-06-microsoft-introduced-multi-model-intelligence-in-copilot-s-r
 embedding_id: 2026-04-01-microsoft-has-launched-new-ai-capabilities-under-the-copilot
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft has launched new AI capabilities under the Copilot Cowork brand, now i
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-10-microsoft-copilot-gains-multi-model-workflows-and-cowork-age]] · [[2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]]
+**Related:** [[2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]] · [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]] · [[2026-04-06-microsoft-introduced-multi-model-intelligence-in-copilot-s-r]]
 <!-- graph:end -->

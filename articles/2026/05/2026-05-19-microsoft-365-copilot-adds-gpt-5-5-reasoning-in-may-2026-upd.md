@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso
-- 2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop
-- 2026-05-22-microsoft-365-copilot-may-update-gpt-5-5-models-upgraded-res
-- 2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365
 - 2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
+- 2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop
+- 2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365
+- 2026-07-09-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
 embedding_id: 2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Microsoft's May 2026 Copilot update brings GPT-5.5 reasoning into Microsoft 365 
 
 **Entities:** [[Microsoft]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso]] · [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop]] · [[2026-05-22-microsoft-365-copilot-may-update-gpt-5-5-models-upgraded-res]] · [[2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365]] · [[2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]]
+**Related:** [[2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso]] · [[2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]] · [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop]] · [[2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365]] · [[2026-07-09-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]]
 <!-- graph:end -->

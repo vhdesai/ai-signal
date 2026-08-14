@@ -27,9 +27,11 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: duplicate
-canonical_article_id: 2026-05-23-huawei-eyes-12b-in-ai-chip-revenue-as-bytedance-alibaba-tenc
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i
+- 2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev
 embedding_id: 2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim
 event_name: ''
 ---
@@ -43,5 +45,5 @@ Huawei projects its AI chip revenue will grow 60% to approximately $12 billion i
 
 **Entities:** [[Alibaba]] · [[ByteDance]] · [[DeepSeek]] · [[Huawei]] · [[NVIDIA]] · [[Perplexity]] · [[Tencent]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
-**Canonical:** [[2026-05-23-huawei-eyes-12b-in-ai-chip-revenue-as-bytedance-alibaba-tenc]]
+**Related:** [[2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i]] · [[2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev]]
 <!-- graph:end -->

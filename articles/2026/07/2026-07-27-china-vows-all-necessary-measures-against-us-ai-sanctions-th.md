@@ -37,9 +37,14 @@ themes:
 - model-capabilities
 cross_cutting_topics:
 - china-compete
-dedupe_status: duplicate
-canonical_article_id: 2026-07-27-china-vows-all-necessary-measures-against-a-us-sanctions-thr
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi
+- 2026-07-27-china-vows-all-necessary-measures-against-a-us-sanctions-thr
+- 2026-05-14-daily-ai-news-digest-may-14-2026
+- 2026-05-14-microsoft-corp-dev-ai-intelligence-brief
+- 2026-05-20-president-trump-disclosed-he-discussed-potential-ai-guardrai
 embedding_id: 2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th
 event_name: ''
 ---
@@ -53,5 +58,5 @@ China's Commerce Ministry warned it would take "all necessary measures" if the U
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Canonical:** [[2026-07-27-china-vows-all-necessary-measures-against-a-us-sanctions-thr]]
+**Related:** [[2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi]] · [[2026-07-27-china-vows-all-necessary-measures-against-a-us-sanctions-thr]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]] · [[2026-05-14-microsoft-corp-dev-ai-intelligence-brief]] · [[2026-05-20-president-trump-disclosed-he-discussed-potential-ai-guardrai]]
 <!-- graph:end -->

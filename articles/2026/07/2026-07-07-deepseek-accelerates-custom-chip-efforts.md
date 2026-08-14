@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-07-07-exclusive-china-s-deepseek-is-developing-its-own-ai-chip
 - 2026-07-07-deepseek-developing-its-own-ai-inference-chip-to-cut-nvidia
 - 2026-07-07-deepseek-is-developing-its-own-ai-inference-chip
-- 2026-07-07-reuters-deepseek-is-developing-its-own-ai-inference-chip
 - 2026-07-07-exclusive-china-s-deepseek-developing-its-own-ai-chip-source
+- 2026-07-07-reuters-deepseek-is-developing-its-own-ai-inference-chip
 embedding_id: 2026-07-07-deepseek-accelerates-custom-chip-efforts
 event_name: ''
 ---
@@ -41,5 +41,5 @@ DeepSeek is accelerating its custom AI chip development program, seeking to redu
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-07-07-exclusive-china-s-deepseek-is-developing-its-own-ai-chip]] · [[2026-07-07-deepseek-developing-its-own-ai-inference-chip-to-cut-nvidia]] · [[2026-07-07-deepseek-is-developing-its-own-ai-inference-chip]] · [[2026-07-07-reuters-deepseek-is-developing-its-own-ai-inference-chip]] · [[2026-07-07-exclusive-china-s-deepseek-developing-its-own-ai-chip-source]]
+**Related:** [[2026-07-07-exclusive-china-s-deepseek-is-developing-its-own-ai-chip]] · [[2026-07-07-deepseek-developing-its-own-ai-inference-chip-to-cut-nvidia]] · [[2026-07-07-deepseek-is-developing-its-own-ai-inference-chip]] · [[2026-07-07-exclusive-china-s-deepseek-developing-its-own-ai-chip-source]] · [[2026-07-07-reuters-deepseek-is-developing-its-own-ai-inference-chip]]
 <!-- graph:end -->

@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en
 - 2026-05-17-anthropic-released-claude-opus-4-7-fast-this-week-an-inferen
+- 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
 embedding_id: 2026-07-11-claude-opus-4-7-is-now-generally-available
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Anthropic made Claude Opus 4.7 generally available with improvements for long-ru
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en]] · [[2026-05-17-anthropic-released-claude-opus-4-7-fast-this-week-an-inferen]]
+**Related:** [[2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en]] · [[2026-05-17-anthropic-released-claude-opus-4-7-fast-this-week-an-inferen]] · [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]]
 <!-- graph:end -->

@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-07-12-openai-launched-gpt-5-6-sol-terra-luna-gpt-live-voice-model
 - 2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat
 - 2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus
+- 2026-04-10-april-2026-is-tracking-as-a-landmark-month-for-model-release
 embedding_id: 2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist
 event_name: ''
 ---
@@ -39,5 +40,5 @@ OpenAI Blog: GPT‑5.6 launch, GPT-Live, GeneBench-Pro, AI chemist research. - G
 
 **Entities:** [[Apple]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice]] · [[2026-07-12-openai-launched-gpt-5-6-sol-terra-luna-gpt-live-voice-model]] · [[2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat]] · [[2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus]]
+**Related:** [[2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice]] · [[2026-07-12-openai-launched-gpt-5-6-sol-terra-luna-gpt-live-voice-model]] · [[2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat]] · [[2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus]] · [[2026-04-10-april-2026-is-tracking-as-a-landmark-month-for-model-release]]
 <!-- graph:end -->

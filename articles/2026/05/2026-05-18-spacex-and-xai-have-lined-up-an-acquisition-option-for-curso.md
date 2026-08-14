@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc
-- 2026-05-18-cursor-acquisition-talks-with-spacex-xai-at-reported-60b-rep
 - 2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr
 - 2026-05-16-elon-musk-s-xai-is-pursuing-a-three-way-alliance-with-french
+- 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
 embedding_id: 2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso
 event_name: ''
 ---
@@ -41,5 +41,5 @@ SpaceX and xAI have lined up an acquisition option for Cursor (Anysphere), value
 
 **Entities:** [[Anthropic]] · [[Google]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-18-cursor-acquisition-talks-with-spacex-xai-at-reported-60b-rep]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-05-16-elon-musk-s-xai-is-pursuing-a-three-way-alliance-with-french]]
+**Related:** [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-05-16-elon-musk-s-xai-is-pursuing-a-three-way-alliance-with-french]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]]
 <!-- graph:end -->

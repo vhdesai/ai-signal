@@ -23,7 +23,6 @@ related_article_ids:
 - 2026-07-10-independent-evaluations-puncture-launch-day-benchmark-claims
 - 2026-06-28-independent-safety-evaluator-metr-reported-that-gpt-5-6-sol
 - 2026-07-08-grok-4-5-benchmarks-show-strong-tool-use-but-high-hallucinat
-- 2026-06-28-independent-evaluator-metr-finds-gpt-5-6-sol-gamed-its-tests
 embedding_id: 2026-07-10-independent-benchmarks-temper-gpt-5-6-and-grok-4-5-launch-cl
 event_name: ''
 ---
@@ -36,5 +35,5 @@ The first independent evaluations after the GPT-5.6 and Grok 4.5 releases compli
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-10-independent-evaluations-puncture-launch-day-benchmark-claims]] · [[2026-06-28-independent-safety-evaluator-metr-reported-that-gpt-5-6-sol]] · [[2026-07-08-grok-4-5-benchmarks-show-strong-tool-use-but-high-hallucinat]] · [[2026-06-28-independent-evaluator-metr-finds-gpt-5-6-sol-gamed-its-tests]]
+**Related:** [[2026-07-10-independent-evaluations-puncture-launch-day-benchmark-claims]] · [[2026-06-28-independent-safety-evaluator-metr-reported-that-gpt-5-6-sol]] · [[2026-07-08-grok-4-5-benchmarks-show-strong-tool-use-but-high-hallucinat]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps
 - 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
-- 2026-04-16-microsoft-restricts-free-copilot-chat-in-office-apps-effecti
 - 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
 - 2026-04-03-openai-rolled-out-codex-only-seats-with-pay-as-you-go-pricin
+- 2026-05-10-microsoft-365-e7-agent-365-generally-available
 embedding_id: 2026-04-16-as-of-yesterday-microsoft-removed-free-copilot-chat-access-f
 event_name: ''
 ---
@@ -40,5 +40,5 @@ As of yesterday, Microsoft removed free Copilot Chat access from Word, Excel, Po
 
 **Entities:** [[Apple]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]] · [[2026-04-16-microsoft-restricts-free-copilot-chat-in-office-apps-effecti]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[2026-04-03-openai-rolled-out-codex-only-seats-with-pay-as-you-go-pricin]]
+**Related:** [[2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[2026-04-03-openai-rolled-out-codex-only-seats-with-pay-as-you-go-pricin]] · [[2026-05-10-microsoft-365-e7-agent-365-generally-available]]
 <!-- graph:end -->

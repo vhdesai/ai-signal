@@ -19,9 +19,14 @@ themes:
 - model-capabilities
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-04-02-google-deepmind-gemini-3-1-flash-live-now-available-real-tim
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-04-01-google-deepmind-unveiled-gemini-3-1-featuring-simultaneous-v
+- 2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot
+- 2026-07-21-google-deepmind-ships-gemini-3-6-flash-3-5-flash-lite-and-3
+- 2026-08-13-google-releases-gemini-3-7-flash-to-general-availability
+- 2026-03-28-google-rolled-out-gemini-3-1-flash-live-to-more-than-200-cou
 embedding_id: 2026-04-02-google-deepmind-released-gemini-3-1-flash-live-in-march-desc
 event_name: ''
 ---
@@ -35,5 +40,5 @@ Google DeepMind released Gemini 3.1 Flash Live in March, described as making "au
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Canonical:** [[2026-04-02-google-deepmind-gemini-3-1-flash-live-now-available-real-tim]]
+**Related:** [[2026-04-01-google-deepmind-unveiled-gemini-3-1-featuring-simultaneous-v]] · [[2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot]] · [[2026-07-21-google-deepmind-ships-gemini-3-6-flash-3-5-flash-lite-and-3]] · [[2026-08-13-google-releases-gemini-3-7-flash-to-general-availability]] · [[2026-03-28-google-rolled-out-gemini-3-1-flash-live-to-more-than-200-cou]]
 <!-- graph:end -->

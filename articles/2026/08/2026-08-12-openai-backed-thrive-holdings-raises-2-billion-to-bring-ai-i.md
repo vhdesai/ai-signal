@@ -22,8 +22,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the
 - 2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation
+- 2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the
 - 2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-regu
 - 2026-08-12-openai-backed-thrive-holdings-raises-2b-at-12b-valuation
 - 2026-08-12-thrive-holdings-raises-at-valuation-to-apply-ai-to-tradition
@@ -40,5 +40,5 @@ Thrive Holdings raised $2 billion at a $12 billion valuation from investors incl
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the]] · [[2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-regu]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]] · [[2026-08-12-thrive-holdings-raises-at-valuation-to-apply-ai-to-tradition]]
+**Related:** [[2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-regu]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]] · [[2026-08-12-thrive-holdings-raises-at-valuation-to-apply-ai-to-tradition]]
 <!-- graph:end -->

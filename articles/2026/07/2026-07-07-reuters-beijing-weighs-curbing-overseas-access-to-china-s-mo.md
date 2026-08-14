@@ -22,7 +22,7 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan
+canonical_article_id: 2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv
 related_article_ids: []
 embedding_id: 2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo
 event_name: ''
@@ -37,5 +37,5 @@ Reuters reported exclusively that China’s Ministry of Commerce held talks over
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[ByteDance]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Canonical:** [[2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan]]
+**Canonical:** [[2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv]]
 <!-- graph:end -->

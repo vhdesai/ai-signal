@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-15-research-breakthroughs
-- 2026-05-18-uc-berkeley-cdss-ai-safety-policy
 - 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
 - 2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society
-- 2026-05-23-uc-berkeley-law-bans-ai-from-nearly-all-graded-work-starting
+- 2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work
+- 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
 embedding_id: 2026-07-28-sayash-kapoor-joins-uc-berkeley-with-a-focus-on-ai-evaluatio
 event_name: ''
 ---
@@ -37,5 +37,5 @@ UC Berkeley appointed Dr. Sayash Kapoor (from Princeton) as an assistant profess
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-15-research-breakthroughs]] · [[2026-05-18-uc-berkeley-cdss-ai-safety-policy]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society]] · [[2026-05-23-uc-berkeley-law-bans-ai-from-nearly-all-graded-work-starting]]
+**Related:** [[2026-04-15-research-breakthroughs]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society]] · [[2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]]
 <!-- graph:end -->

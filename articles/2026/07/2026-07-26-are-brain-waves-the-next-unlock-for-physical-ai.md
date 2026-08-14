@@ -20,10 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
-- 2026-07-26-brain-wave-data-may-become-a-new-training-signal-for-physica
 - 2026-05-20-scaling-laws-for-embodied-ai
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
-- 2026-05-15-physical-ai-moves-closer-to-factory-floors-as-humanoid-robot
+- 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
 embedding_id: 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
 event_name: ''
 ---
@@ -36,5 +35,5 @@ TechCrunch reports that frontier “physical AI” models — those trained for 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-07-26-brain-wave-data-may-become-a-new-training-signal-for-physica]] · [[2026-05-20-scaling-laws-for-embodied-ai]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-05-15-physical-ai-moves-closer-to-factory-floors-as-humanoid-robot]]
+**Related:** [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-05-20-scaling-laws-for-embodied-ai]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]]
 <!-- graph:end -->

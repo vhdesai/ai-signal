@@ -19,9 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-31-snapchat-no-longer-rewards-fully-ai-generated-spotlight-cont
+- 2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos
 - 2026-07-05-amazon-will-stop-accepting-new-customers-for-mechanical-turk
 - 2026-08-12-amazon-will-train-on-twitch-streamers-content-by-default-unl
+- 2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla
 embedding_id: 2026-08-08-shuts-down-creator-revenue-sharing-to-curb-ai-generated-spam
 event_name: ''
 ---
@@ -34,5 +35,5 @@ X is winding down its Creator Revenue Sharing program on September 7, 2026 and r
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-31-snapchat-no-longer-rewards-fully-ai-generated-spotlight-cont]] · [[2026-07-05-amazon-will-stop-accepting-new-customers-for-mechanical-turk]] · [[2026-08-12-amazon-will-train-on-twitch-streamers-content-by-default-unl]]
+**Related:** [[2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos]] · [[2026-07-05-amazon-will-stop-accepting-new-customers-for-mechanical-turk]] · [[2026-08-12-amazon-will-train-on-twitch-streamers-content-by-default-unl]] · [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]]
 <!-- graph:end -->

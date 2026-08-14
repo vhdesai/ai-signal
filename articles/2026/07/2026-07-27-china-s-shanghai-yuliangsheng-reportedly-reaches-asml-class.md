@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes
-- 2026-07-27-china-begins-mass-producing-homegrown-duv-chipmaking-tools
-- 2026-07-29-china-begins-mass-production-of-homegrown-duv-chipmaking-too
-- 2026-07-15-asml-raises-2026-guidance-again-on-strong-ai-chip-demand-and
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
+- 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
+- 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
+- 2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031
 embedding_id: 2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Information reported that China's Shanghai Yuliangsheng has begun mass produ
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes]] · [[2026-07-27-china-begins-mass-producing-homegrown-duv-chipmaking-tools]] · [[2026-07-29-china-begins-mass-production-of-homegrown-duv-chipmaking-too]] · [[2026-07-15-asml-raises-2026-guidance-again-on-strong-ai-chip-demand-and]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]]
+**Related:** [[2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031]]
 <!-- graph:end -->

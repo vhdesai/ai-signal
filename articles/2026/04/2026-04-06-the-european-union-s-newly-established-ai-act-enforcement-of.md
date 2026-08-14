@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta
-- 2026-04-06-eu-ai-act-enforcement-office-publishes-first-non-compliance
 - 2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state
 - 2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out
 - 2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare
+- 2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi
 embedding_id: 2026-04-06-the-european-union-s-newly-established-ai-act-enforcement-of
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The European Union's newly established AI Act Enforcement Office issued its firs
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta]] · [[2026-04-06-eu-ai-act-enforcement-office-publishes-first-non-compliance]] · [[2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state]] · [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]] · [[2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare]]
+**Related:** [[2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta]] · [[2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state]] · [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]] · [[2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare]] · [[2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi]]
 <!-- graph:end -->

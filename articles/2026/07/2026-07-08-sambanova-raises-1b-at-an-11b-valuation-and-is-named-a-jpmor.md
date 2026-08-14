@@ -20,7 +20,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc
+canonical_article_id: 2026-07-08-sambanova-raises-1b-at-11b-valuation-jpmorgan-named-inferenc
 related_article_ids: []
 embedding_id: 2026-07-08-sambanova-raises-1b-at-an-11b-valuation-and-is-named-a-jpmor
 event_name: ''
@@ -35,5 +35,5 @@ AI chip maker SambaNova raised $1B at an $11B valuation in a first close of its 
 
 **Entities:** [[Intel]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Canonical:** [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc]]
+**Canonical:** [[2026-07-08-sambanova-raises-1b-at-11b-valuation-jpmorgan-named-inferenc]]
 <!-- graph:end -->

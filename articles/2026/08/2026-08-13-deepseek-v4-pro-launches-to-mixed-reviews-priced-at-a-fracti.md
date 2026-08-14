@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context
-- 2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price
 - 2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r
+- 2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price
 embedding_id: 2026-08-13-deepseek-v4-pro-launches-to-mixed-reviews-priced-at-a-fracti
 event_name: ''
 ---
@@ -38,5 +38,5 @@ DeepSeek released its flagship V4-Pro model to mixed reviews. Vals AI ranked it 
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context]] · [[2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price]] · [[2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r]]
+**Related:** [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context]] · [[2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r]] · [[2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price]]
 <!-- graph:end -->

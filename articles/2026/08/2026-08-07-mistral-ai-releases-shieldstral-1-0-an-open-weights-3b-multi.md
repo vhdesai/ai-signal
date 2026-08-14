@@ -17,9 +17,14 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-08-07-mistral-ai-releases-shieldstral-1-0-3b-open-weights-safety-c
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-08-08-mistral-releases-shieldstral-1-0-3b-policy-adaptive-safety-c
+- 2026-08-04-mistral-releases-shieldstral-a-3b-open-weights-policy-adapti
+- 2026-08-08-mistral-releases-shieldstral-1-0-3b-safety-classifier
+- 2026-08-07-mistral-releases-shieldstral-1-0-a-3b-safety-classifier-matc
+- 2026-08-05-mistral-releases-shieldstral-a-3b-on-device-ai-safety-model
 embedding_id: 2026-08-07-mistral-ai-releases-shieldstral-1-0-an-open-weights-3b-multi
 event_name: ''
 ---
@@ -33,5 +38,5 @@ Mistral released Shieldstral 1.0, a 3-billion-parameter open-weights, policy-ada
 
 **Entities:** [[Mistral]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-08-07-mistral-ai-releases-shieldstral-1-0-3b-open-weights-safety-c]]
+**Related:** [[2026-08-08-mistral-releases-shieldstral-1-0-3b-policy-adaptive-safety-c]] · [[2026-08-04-mistral-releases-shieldstral-a-3b-open-weights-policy-adapti]] · [[2026-08-08-mistral-releases-shieldstral-1-0-3b-safety-classifier]] · [[2026-08-07-mistral-releases-shieldstral-1-0-a-3b-safety-classifier-matc]] · [[2026-08-05-mistral-releases-shieldstral-a-3b-on-device-ai-safety-model]]
 <!-- graph:end -->

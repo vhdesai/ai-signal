@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-sam-altman-s-personal-investments-trigger-gop-probe-and-sec
 - 2026-05-18-the-republican-led-house-oversight-committee-launched-an-inv
-- 2026-05-18-sam-altman-under-gop-and-sec-scrutiny-ahead-of-openai-ipo-su
 - 2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s
 - 2026-06-12-state-attorneys-general-open-investigation-into-openai
+- 2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra
 embedding_id: 2026-05-13-sam-altman-s-personal-investments-prompt-gop-probe-sec-inves
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The House Oversight Committee opened a formal conflict-of-interest investigation
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-sam-altman-s-personal-investments-trigger-gop-probe-and-sec]] · [[2026-05-18-the-republican-led-house-oversight-committee-launched-an-inv]] · [[2026-05-18-sam-altman-under-gop-and-sec-scrutiny-ahead-of-openai-ipo-su]] · [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-06-12-state-attorneys-general-open-investigation-into-openai]]
+**Related:** [[2026-05-13-sam-altman-s-personal-investments-trigger-gop-probe-and-sec]] · [[2026-05-18-the-republican-led-house-oversight-committee-launched-an-inv]] · [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-06-12-state-attorneys-general-open-investigation-into-openai]] · [[2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra]]
 <!-- graph:end -->

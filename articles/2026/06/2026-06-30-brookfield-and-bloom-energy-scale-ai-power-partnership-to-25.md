@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-11-babcock-wilcox-expands-its-position-in-ai-data-center-power
 - 2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros
+- 2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio
 - 2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin
 - 2026-08-11-nvidia-frames-ai-factory-compute-as-an-investable-infrastruc
-- 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 embedding_id: 2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Brookfield and Bloom Energy announced a fivefold expansion of their partnership 
 
 **Entities:** [[Scale AI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-08-11-babcock-wilcox-expands-its-position-in-ai-data-center-power]] · [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]] · [[2026-08-11-nvidia-frames-ai-factory-compute-as-an-investable-infrastruc]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]]
+**Related:** [[2026-08-11-babcock-wilcox-expands-its-position-in-ai-data-center-power]] · [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio]] · [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]] · [[2026-08-11-nvidia-frames-ai-factory-compute-as-an-investable-infrastruc]]
 <!-- graph:end -->

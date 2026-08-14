@@ -17,9 +17,14 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce
+- 2026-06-26-this-study-empirically-examines-when-ensembling-strategies-r
+- 2026-07-06-path-constrained-mixture-of-experts
+- 2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa
+- 2026-05-01-google-research-catalyzing-scientific-impact-through-global
 embedding_id: 2026-07-07-the-power-of-collaboration-how-we-can-reduce-traffic-congest
 event_name: ''
 ---
@@ -33,5 +38,5 @@ Google Research published results from a large-scale routing intervention study 
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce]]
+**Related:** [[2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce]] · [[2026-06-26-this-study-empirically-examines-when-ensembling-strategies-r]] · [[2026-07-06-path-constrained-mixture-of-experts]] · [[2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa]] · [[2026-05-01-google-research-catalyzing-scientific-impact-through-global]]
 <!-- graph:end -->

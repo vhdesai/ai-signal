@@ -17,9 +17,14 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi
+- 2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework
+- 2026-05-20-scaling-laws-for-embodied-ai
+- 2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne
+- 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 embedding_id: 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 event_name: ''
 ---
@@ -33,5 +38,5 @@ Researchers from Stanford, UC Berkeley, and NVIDIA introduced a training-free ve
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework]]
+**Related:** [[2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi]] · [[2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework]] · [[2026-05-20-scaling-laws-for-embodied-ai]] · [[2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]]
 <!-- graph:end -->

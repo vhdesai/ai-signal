@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-04-anthropic-discovers-171-emotion-like-concepts-inside-claude
 - 2026-05-09-anthropic-released-research-on-natural-language-autoencoders
-- 2026-07-15-anthropic-research-finds-claude-s-expressed-values-and-tone
-- 2026-07-30-anthropic-discloses-claude-models-accessed-real-systems-duri
-- 2026-05-09-anthropic-teaching-claude-why-how-the-lab-eliminated-blackma
+- 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
+- 2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be
+- 2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa
+- 2026-07-13-anthropic-finds-claude-s-expressed-values-shift-by-language
 embedding_id: 2026-04-04-anthropic-researchers-identified-171-internal-representation
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Anthropic researchers identified 171 internal representations inside Claude that
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-04-anthropic-discovers-171-emotion-like-concepts-inside-claude]] · [[2026-05-09-anthropic-released-research-on-natural-language-autoencoders]] · [[2026-07-15-anthropic-research-finds-claude-s-expressed-values-and-tone]] · [[2026-07-30-anthropic-discloses-claude-models-accessed-real-systems-duri]] · [[2026-05-09-anthropic-teaching-claude-why-how-the-lab-eliminated-blackma]]
+**Related:** [[2026-05-09-anthropic-released-research-on-natural-language-autoencoders]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be]] · [[2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa]] · [[2026-07-13-anthropic-finds-claude-s-expressed-values-shift-by-language]]
 <!-- graph:end -->

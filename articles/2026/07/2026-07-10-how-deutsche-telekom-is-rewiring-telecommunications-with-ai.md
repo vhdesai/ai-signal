@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
-- 2026-07-17-enterprise-communications-technology-news-context-for-ai-nat
-- 2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
-- 2026-07-27-openai-says-ai-is-expanding-what-people-do-at-work
+- 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
+- 2026-07-27-openai-research-ai-is-expanding-what-people-do-at-work
+- 2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu
 embedding_id: 2026-07-10-how-deutsche-telekom-is-rewiring-telecommunications-with-ai
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI published a Deutsche Telekom case study showing how a large telecommunica
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-07-17-enterprise-communications-technology-news-context-for-ai-nat]] · [[2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-07-27-openai-says-ai-is-expanding-what-people-do-at-work]]
+**Related:** [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor]] · [[2026-07-27-openai-research-ai-is-expanding-what-people-do-at-work]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]]
 <!-- graph:end -->

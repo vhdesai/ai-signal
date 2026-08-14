@@ -20,9 +20,11 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag
+- 2026-05-14-openai-codex-work-from-anywhere-expansion
 embedding_id: 2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app
 event_name: ''
 ---
@@ -36,5 +38,5 @@ Alongside GPT‑5.6, OpenAI released ChatGPT Work, a workplace companion that me
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade]]
+**Related:** [[2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]]
 <!-- graph:end -->

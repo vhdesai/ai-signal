@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-cognition-devin-raises-1b-at-26b-post-money-more-than-2-valu
+- 2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua
 - 2026-08-12-cognition-reportedly-in-talks-to-raise-at-40b-valuation
 - 2026-08-12-cognition-reportedly-in-talks-to-raise-at-a-40b-valuation
-- 2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua
 - 2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua
 embedding_id: 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 event_name: ''
@@ -37,5 +37,5 @@ Cognition, maker of the autonomous AI software engineer Devin, raised over $1B a
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-27-cognition-devin-raises-1b-at-26b-post-money-more-than-2-valu]] · [[2026-08-12-cognition-reportedly-in-talks-to-raise-at-40b-valuation]] · [[2026-08-12-cognition-reportedly-in-talks-to-raise-at-a-40b-valuation]] · [[2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua]] · [[2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua]]
+**Related:** [[2026-05-27-cognition-devin-raises-1b-at-26b-post-money-more-than-2-valu]] · [[2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua]] · [[2026-08-12-cognition-reportedly-in-talks-to-raise-at-40b-valuation]] · [[2026-08-12-cognition-reportedly-in-talks-to-raise-at-a-40b-valuation]] · [[2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua]]
 <!-- graph:end -->

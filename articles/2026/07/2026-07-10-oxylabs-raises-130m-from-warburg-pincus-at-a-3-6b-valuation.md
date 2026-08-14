@@ -20,7 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-oxylabs-hits-3-6b-valuation-as-ai-training-data-infrastructu
-- 2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion
+- 2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b
+- 2026-07-30-meta-q2-revenue-28-but-ai-capex-raised-to-130-145b
+- 2026-08-08-harvey-in-talks-for-500m-at-a-15-5b-valuation
 embedding_id: 2026-07-10-oxylabs-raises-130m-from-warburg-pincus-at-a-3-6b-valuation
 event_name: ''
 ---
@@ -33,5 +35,5 @@ Vilnius-based Oxylabs took its first outside investment in a decade — $130M fr
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-oxylabs-hits-3-6b-valuation-as-ai-training-data-infrastructu]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]]
+**Related:** [[2026-07-09-oxylabs-hits-3-6b-valuation-as-ai-training-data-infrastructu]] · [[2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b]] · [[2026-07-30-meta-q2-revenue-28-but-ai-capex-raised-to-130-145b]] · [[2026-08-08-harvey-in-talks-for-500m-at-a-15-5b-valuation]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-17-viral-mitchell-hashimoto-on-ai-psychosis-companies-building
-- 2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali
 - 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
 - 2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
+- 2026-05-16-today-s-digest-spans-a-particularly-active-24-hour-window-in
+- 2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope
 embedding_id: 2026-05-17-mitchell-hashimoto-creator-of-terraform-and-vagrant-publishe
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Mitchell Hashimoto (creator of Terraform and Vagrant) published widely-shared co
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-17-viral-mitchell-hashimoto-on-ai-psychosis-companies-building]] · [[2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]] · [[2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]]
+**Related:** [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]] · [[2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-16-today-s-digest-spans-a-particularly-active-24-hour-window-in]] · [[2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope]]
 <!-- graph:end -->

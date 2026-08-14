@@ -19,9 +19,14 @@ themes:
 - model-capabilities
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-06-30-openai-posted-a-teaser-for-a-physical-codex-device-a-square
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-06-30-openai-posted-a-teaser-for-a-physical-codex-device-a-square
+- 2026-06-30-openai-s-developer-account-teased-a-hardware-product-reporte
+- 2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age
+- 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
+- 2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop
 embedding_id: 2026-06-30-openai-teases-its-first-hardware-codex-micro-a-codex-shortcu
 event_name: ''
 ---
@@ -35,5 +40,5 @@ OpenAI posted a teaser for Codex Micro — a programmable macro-pad accessory fo
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Canonical:** [[2026-06-30-openai-posted-a-teaser-for-a-physical-codex-device-a-square]]
+**Related:** [[2026-06-30-openai-posted-a-teaser-for-a-physical-codex-device-a-square]] · [[2026-06-30-openai-s-developer-account-teased-a-hardware-product-reporte]] · [[2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop]]
 <!-- graph:end -->

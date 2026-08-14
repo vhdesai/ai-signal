@@ -19,9 +19,12 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-05-22-openai-model-autonomously-disproves-80-year-old-central-conj
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-05-20-openai-model-disproves-a-central-conjecture-in-discrete-geom
+- 2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec
+- 2026-05-20-openai-reasoning-model-autonomously-disproves-80-year-old-er
 embedding_id: 2026-05-22-openai-published-research-showing-that-one-of-its-ai-models
 event_name: ''
 ---
@@ -35,5 +38,5 @@ OpenAI published research showing that one of its AI models autonomously disprov
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-05-22-openai-model-autonomously-disproves-80-year-old-central-conj]]
+**Related:** [[2026-05-20-openai-model-disproves-a-central-conjecture-in-discrete-geom]] · [[2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec]] · [[2026-05-20-openai-reasoning-model-autonomously-disproves-80-year-old-er]]
 <!-- graph:end -->

@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-03-sources-openai-blog-google-deepmind-blog-techcrunch-ventureb
 - 2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a
-- 2026-05-22-sources-cnbc-reuters-axios-techcrunch-politico-mit-technolog
 - 2026-05-09-sources-cnbc-wall-street-journal-the-decoder-ars-technica-te
 - 2026-06-28-blogs-news-openai-blog-google-deepmind-meta-ai-bair-apple-ml
+- 2026-05-18-daily-ai-news-digest-compiled-may-18-2026-sources-techcrunch
+- 2026-04-20-daily-ai-news-digest-prepared-april-20-2026
 embedding_id: 2026-05-23-sources-monitored-this-edition-openai-blog-google-deepmind-m
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Sources monitored this edition: OpenAI Blog, Google DeepMind, Meta AI, Engadget,
 
 **Entities:** [[Google]] · [[Meta]] · [[OpenAI]] · [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-03-sources-openai-blog-google-deepmind-blog-techcrunch-ventureb]] · [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-05-22-sources-cnbc-reuters-axios-techcrunch-politico-mit-technolog]] · [[2026-05-09-sources-cnbc-wall-street-journal-the-decoder-ars-technica-te]] · [[2026-06-28-blogs-news-openai-blog-google-deepmind-meta-ai-bair-apple-ml]]
+**Related:** [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-05-09-sources-cnbc-wall-street-journal-the-decoder-ars-technica-te]] · [[2026-06-28-blogs-news-openai-blog-google-deepmind-meta-ai-bair-apple-ml]] · [[2026-05-18-daily-ai-news-digest-compiled-may-18-2026-sources-techcrunch]] · [[2026-04-20-daily-ai-news-digest-prepared-april-20-2026]]
 <!-- graph:end -->

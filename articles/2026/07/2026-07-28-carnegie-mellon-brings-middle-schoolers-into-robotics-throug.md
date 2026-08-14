@@ -23,8 +23,7 @@ related_article_ids:
 - 2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research
 - 2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
-- 2026-04-10-academic-research-nsf-funds-new-ai-institute-at-carnegie-mel
-- 2026-04-12-purdue-university-announced-that-all-undergraduate-students
+- 2026-05-10-jensen-huang-delivers-carnegie-mellon-commencement-shape-wha
 embedding_id: 2026-07-28-carnegie-mellon-brings-middle-schoolers-into-robotics-throug
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Carnegie Mellon’s Robotics Institute hosted a week-long STEM camp bringing 20 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research]] · [[2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-04-10-academic-research-nsf-funds-new-ai-institute-at-carnegie-mel]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]]
+**Related:** [[2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research]] · [[2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-05-10-jensen-huang-delivers-carnegie-mellon-commencement-shape-wha]]
 <!-- graph:end -->

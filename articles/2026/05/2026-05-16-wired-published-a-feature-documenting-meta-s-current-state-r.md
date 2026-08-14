@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-25-wsj-profiles-the-senior-executive-driving-meta-s-accelerated
 - 2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla
-- 2026-08-05-meta-removed-more-than-50-ads-containing-ai-generated-child
-- 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
 - 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
+- 2026-06-25-meta-accelerates-plan-to-automate-90-of-content-moderation
+- 2026-08-05-meta-removed-more-than-50-ads-containing-ai-generated-child
+- 2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore
 embedding_id: 2026-05-16-wired-published-a-feature-documenting-meta-s-current-state-r
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Wired published a feature documenting Meta's current state: record financial per
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-25-wsj-profiles-the-senior-executive-driving-meta-s-accelerated]] · [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]] · [[2026-08-05-meta-removed-more-than-50-ads-containing-ai-generated-child]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company]]
+**Related:** [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]] · [[2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company]] · [[2026-06-25-meta-accelerates-plan-to-automate-90-of-content-moderation]] · [[2026-08-05-meta-removed-more-than-50-ads-containing-ai-generated-child]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]]
 <!-- graph:end -->

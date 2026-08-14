@@ -21,9 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-chip-complex-in-tex
-- 2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-semiconductor-compl
 - 2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas
 - 2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te
+- 2026-08-07-spacex-s-terafab-ai-chip-plant-will-run-on-natural-gas-not-t
+- 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
 embedding_id: 2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-a-new-texas-semicon
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Tesla and SpaceX announced an initial $16.8 billion investment to build “Teraf
 
 **Entities:** [[Tesla]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-chip-complex-in-tex]] · [[2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-semiconductor-compl]] · [[2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas]] · [[2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te]]
+**Related:** [[2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-chip-complex-in-tex]] · [[2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas]] · [[2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te]] · [[2026-08-07-spacex-s-terafab-ai-chip-plant-will-run-on-natural-gas-not-t]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]]
 <!-- graph:end -->

@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-01-a-federal-judge-granted-anthropic-a-preliminary-injunction-b
 - 2026-05-01-pentagon-signs-8-classified-ai-contracts-anthropic-permanent
-- 2026-04-03-anthropic-vs-dod-openai-google-deepmind-employees-rally-behi
-- 2026-03-10-google-ai-leader-jeff-dean-openai-employees-defend-anthropic
 - 2026-05-01-pentagon-tests-openai-and-google-ai-to-replace-anthropic-in
+- 2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth
+- 2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab
 embedding_id: 2026-04-03-more-than-30-openai-and-google-deepmind-employees-including
 event_name: ''
 ---
@@ -42,5 +42,5 @@ More than 30 OpenAI and Google DeepMind employees — including DeepMind Chief S
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-01-a-federal-judge-granted-anthropic-a-preliminary-injunction-b]] · [[2026-05-01-pentagon-signs-8-classified-ai-contracts-anthropic-permanent]] · [[2026-04-03-anthropic-vs-dod-openai-google-deepmind-employees-rally-behi]] · [[2026-03-10-google-ai-leader-jeff-dean-openai-employees-defend-anthropic]] · [[2026-05-01-pentagon-tests-openai-and-google-ai-to-replace-anthropic-in]]
+**Related:** [[2026-04-01-a-federal-judge-granted-anthropic-a-preliminary-injunction-b]] · [[2026-05-01-pentagon-signs-8-classified-ai-contracts-anthropic-permanent]] · [[2026-05-01-pentagon-tests-openai-and-google-ai-to-replace-anthropic-in]] · [[2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth]] · [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]]
 <!-- graph:end -->

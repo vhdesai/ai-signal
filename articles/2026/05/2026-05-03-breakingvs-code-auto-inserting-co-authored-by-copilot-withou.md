@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit
 - 2026-04-01-github-has-announced-that-starting-april-24-copilot-interact
 - 2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a
-- 2026-08-05-microsoft-tells-engineers-to-default-github-copilot-to-opena
+- 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
 embedding_id: 2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou
 event_name: ''
 ---
@@ -33,5 +33,5 @@ A GitHub PR documents VS Code inserting "Co-Authored-by Copilot" trailers into c
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]] · [[2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit]] · [[2026-04-01-github-has-announced-that-starting-april-24-copilot-interact]] · [[2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a]] · [[2026-08-05-microsoft-tells-engineers-to-default-github-copilot-to-opena]]
+**Related:** [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]] · [[2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit]] · [[2026-04-01-github-has-announced-that-starting-april-24-copilot-interact]] · [[2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a]] · [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]]
 <!-- graph:end -->

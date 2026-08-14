@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-25-washington-gates-openai-s-gpt-5-6-behind-customer-by-custome
 - 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
 - 2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes
-- 2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp
+- 2026-07-08-openai-to-open-gpt-5-6-to-the-public-july-9-after-clearing-f
 embedding_id: 2026-07-07-openai-gpt-5-6-public-release-thursday-after-federal-pre-rel
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI will publicly release GPT-5.6 on Thursday after completing the first-ever
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-08-openai-to-publicly-release-gpt-5-6-sol-terra-luna-on-july-9]] · [[2026-06-25-washington-gates-openai-s-gpt-5-6-behind-customer-by-custome]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]] · [[2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes]] · [[2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp]]
+**Related:** [[2026-07-08-openai-to-publicly-release-gpt-5-6-sol-terra-luna-on-july-9]] · [[2026-06-25-washington-gates-openai-s-gpt-5-6-behind-customer-by-custome]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]] · [[2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes]] · [[2026-07-08-openai-to-open-gpt-5-6-to-the-public-july-9-after-clearing-f]]
 <!-- graph:end -->

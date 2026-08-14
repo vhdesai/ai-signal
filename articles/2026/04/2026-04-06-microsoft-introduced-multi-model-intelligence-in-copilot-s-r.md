@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-06-microsoft-copilot-goes-multi-model-gpt-claude-ensemble-score
 - 2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m
 - 2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365
-- 2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop
 - 2026-07-09-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
+- 2026-04-01-microsoft-has-launched-new-ai-capabilities-under-the-copilot
+- 2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop
 embedding_id: 2026-04-06-microsoft-introduced-multi-model-intelligence-in-copilot-s-r
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft introduced multi-model intelligence in Copilot's Researcher capability
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-06-microsoft-copilot-goes-multi-model-gpt-claude-ensemble-score]] · [[2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m]] · [[2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365]] · [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop]] · [[2026-07-09-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]]
+**Related:** [[2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m]] · [[2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365]] · [[2026-07-09-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]] · [[2026-04-01-microsoft-has-launched-new-ai-capabilities-under-the-copilot]] · [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop]]
 <!-- graph:end -->

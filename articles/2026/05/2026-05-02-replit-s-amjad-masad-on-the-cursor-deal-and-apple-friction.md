@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-02-replit-ceo-amjad-masad-disclosed-at-strictlyvc-that-replit-i
 - 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
 - 2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl
+- 2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso
 embedding_id: 2026-05-02-replit-s-amjad-masad-on-the-cursor-deal-and-apple-friction
 event_name: ''
 ---
@@ -37,5 +38,5 @@ In an extensive interview, Replit CEO Amjad Masad addresses the Cursor partnersh
 
 **Entities:** [[Apple]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-02-replit-ceo-amjad-masad-disclosed-at-strictlyvc-that-replit-i]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl]]
+**Related:** [[2026-05-02-replit-ceo-amjad-masad-disclosed-at-strictlyvc-that-replit-i]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl]] · [[2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso]]
 <!-- graph:end -->

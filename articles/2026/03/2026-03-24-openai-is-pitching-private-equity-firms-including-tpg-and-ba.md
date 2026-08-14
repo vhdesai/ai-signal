@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-03-24-openai-courts-private-equity-with-17-5-guaranteed-returns-fo
 - 2026-05-04-openai-finalizes-10b-development-company-jv-with-tpg-brookfi
 - 2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion
 - 2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio
 - 2026-05-22-openai-files-confidential-ipo-prospectus-targeting-a-1-trill
+- 2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation
 embedding_id: 2026-03-24-openai-is-pitching-private-equity-firms-including-tpg-and-ba
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI is pitching private equity firms including TPG and Bain Capital on joint 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-03-24-openai-courts-private-equity-with-17-5-guaranteed-returns-fo]] · [[2026-05-04-openai-finalizes-10b-development-company-jv-with-tpg-brookfi]] · [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-a-1-trill]]
+**Related:** [[2026-05-04-openai-finalizes-10b-development-company-jv-with-tpg-brookfi]] · [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-a-1-trill]] · [[2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation]]
 <!-- graph:end -->

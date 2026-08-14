@@ -21,10 +21,8 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-lead
-related_article_ids:
-- 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
-- 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
+canonical_article_id: 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival
+related_article_ids: []
 embedding_id: 2026-06-29-with-u-s-export-controls-limiting-nvidia-s-advanced-chips-in
 event_name: ''
 ---
@@ -38,6 +36,5 @@ With U.S. export controls limiting Nvidia's advanced chips in China, domestic pl
 
 **Entities:** [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Canonical:** [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-lead]]
-**Related:** [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]]
+**Canonical:** [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival]]
 <!-- graph:end -->

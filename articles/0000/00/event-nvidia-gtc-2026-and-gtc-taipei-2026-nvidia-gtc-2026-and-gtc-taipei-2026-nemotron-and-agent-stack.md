@@ -33,8 +33,8 @@ related_article_ids:
 - 2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview
 - 2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas
-- event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications
 - 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
+- event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications
 embedding_id: event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack
 event_name: NVIDIA GTC 2026 and GTC Taipei 2026
 ---
@@ -48,5 +48,5 @@ Nemotron 3 Nano Omni: Covered as a unified multimodal reasoning model released a
 
 **Entities:** [[Amazon]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[Oracle]] · [[SAP]] · [[TSMC]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]]
+**Related:** [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications]]
 <!-- graph:end -->

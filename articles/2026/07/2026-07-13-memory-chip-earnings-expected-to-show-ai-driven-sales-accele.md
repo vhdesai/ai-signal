@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-13-semiconductors-earnings-ai-supply-chain
 - 2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws
 - 2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui
-- 2026-08-06-memory-stocks-surge-on-ai-demand-perps-derivatives-amplify-a
 - 2026-08-10-hyperscalers-reported-to-have-committed-nearly-2-trillion-to
+- 2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con
 embedding_id: 2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Memory-chip companies are expected to post large sales gains as earnings season 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-semiconductors-earnings-ai-supply-chain]] · [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]] · [[2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui]] · [[2026-08-06-memory-stocks-surge-on-ai-demand-perps-derivatives-amplify-a]] · [[2026-08-10-hyperscalers-reported-to-have-committed-nearly-2-trillion-to]]
+**Related:** [[2026-07-13-semiconductors-earnings-ai-supply-chain]] · [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]] · [[2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui]] · [[2026-08-10-hyperscalers-reported-to-have-committed-nearly-2-trillion-to]] · [[2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con]]
 <!-- graph:end -->

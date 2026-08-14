@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-23-sap-signed-a-definitive-agreement-to-acquire-prior-labs-pion
-- 2026-05-04-1-model-releases-frontier-research
 - 2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml
 - 2026-05-22-four-frontier-labs-four-acquisitions-in-five-days
 - 2026-05-06-newsap-bets-1-16-billion-on-18-month-old-german-ai-lab-nemoc
+- 2026-05-05-newsap-acquires-dremio-and-prior-labs-to-round-out-ai-data-p
+- 2026-08-13-ibm-embeds-openai-frontier-models-into-its-consulting-delive
 embedding_id: 2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a
 event_name: ''
 ---
@@ -39,5 +39,5 @@ SAP signed a definitive agreement to acquire Prior Labs — pioneer of Tabular F
 
 **Entities:** [[SAP]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-sap-signed-a-definitive-agreement-to-acquire-prior-labs-pion]] · [[2026-05-04-1-model-releases-frontier-research]] · [[2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml]] · [[2026-05-22-four-frontier-labs-four-acquisitions-in-five-days]] · [[2026-05-06-newsap-bets-1-16-billion-on-18-month-old-german-ai-lab-nemoc]]
+**Related:** [[2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml]] · [[2026-05-22-four-frontier-labs-four-acquisitions-in-five-days]] · [[2026-05-06-newsap-bets-1-16-billion-on-18-month-old-german-ai-lab-nemoc]] · [[2026-05-05-newsap-acquires-dremio-and-prior-labs-to-round-out-ai-data-p]] · [[2026-08-13-ibm-embeds-openai-frontier-models-into-its-consulting-delive]]
 <!-- graph:end -->

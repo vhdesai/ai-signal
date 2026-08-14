@@ -26,9 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
-- 2026-07-24-anthropic-launches-claude-opus-5-a-cheaper-agent-focused-fla
+- 2026-07-11-claude-opus-4-7-is-now-generally-available
+- 2026-07-27-anthropic-launches-claude-opus-5-at-roughly-half-the-price-o
 - 2026-05-17-anthropic-released-claude-opus-4-7-fast-this-week-an-inferen
-- 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
+- 2026-07-27-daily-ai-news-digest-july-28-2026
 embedding_id: 2026-07-24-daily-ai-news-digest-july-25-2026
 event_name: ''
 ---
@@ -42,5 +43,5 @@ Anthropic launched Claude Opus 5 — cheaper, agent-focused. 20+ companies inclu
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-07-24-anthropic-launches-claude-opus-5-a-cheaper-agent-focused-fla]] · [[2026-05-17-anthropic-released-claude-opus-4-7-fast-this-week-an-inferen]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]]
+**Related:** [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-07-11-claude-opus-4-7-is-now-generally-available]] · [[2026-07-27-anthropic-launches-claude-opus-5-at-roughly-half-the-price-o]] · [[2026-05-17-anthropic-released-claude-opus-4-7-fast-this-week-an-inferen]] · [[2026-07-27-daily-ai-news-digest-july-28-2026]]
 <!-- graph:end -->

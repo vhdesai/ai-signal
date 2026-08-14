@@ -27,7 +27,7 @@ related_article_ids:
 - event-microsoft-build-2026-microsoft-build-2026-strategic-implications
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent
-- event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
+- event-microsoft-build-2026-microsoft-build-2026-microsoft-365-teams-marketplace-and-eco
 embedding_id: event-microsoft-build-2026-microsoft-build-2026-overview
 event_name: Microsoft Build 2026
 ---
@@ -41,5 +41,5 @@ Microsoft Build 2026 was framed as a full-stack developer platform event for the
 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]]
+**Related:** [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-365-teams-marketplace-and-eco]]
 <!-- graph:end -->

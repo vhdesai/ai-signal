@@ -29,9 +29,9 @@ canonical_article_id: null
 related_article_ids:
 - event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-2
 - event-google-cloud-next-2026-google-cloud-next-2026-overview
-- 2026-04-22-products-tools
-- 2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled
 - event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform
+- event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs
+- event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications
 embedding_id: event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa
 event_name: 'Google Cloud Next 2026: Enterprise Agent Platform, Gemini Expansion,
   and Partner Fund'
@@ -46,5 +46,5 @@ Google Cloud Next 2026 appears as a concentrated high-signal enterprise AI event
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-2]] · [[event-google-cloud-next-2026-google-cloud-next-2026-overview]] · [[2026-04-22-products-tools]] · [[2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled]] · [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform]]
+**Related:** [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-2]] · [[event-google-cloud-next-2026-google-cloud-next-2026-overview]] · [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform]] · [[event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs]] · [[event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications]]
 <!-- graph:end -->

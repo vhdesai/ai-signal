@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-01-stanford-study-flags-risks-of-using-ai-chatbots-for-personal
 - 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
 - 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
 - 2026-04-02-academic-research
-- 2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding
+- 2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us
+- 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
 embedding_id: 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A new Stanford study published this week outlines specific dangers associated wi
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-01-stanford-study-flags-risks-of-using-ai-chatbots-for-personal]] · [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]] · [[2026-04-02-academic-research]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]]
+**Related:** [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]] · [[2026-04-02-academic-research]] · [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]]
 <!-- graph:end -->

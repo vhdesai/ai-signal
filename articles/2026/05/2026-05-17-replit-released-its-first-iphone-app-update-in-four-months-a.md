@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont
-- 2026-05-17-replit-resolves-app-store-dispute-ships-agent-4-on-iphone
-- 2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full
 - 2026-05-02-replit-ceo-amjad-masad-disclosed-at-strictlyvc-that-replit-i
 - 2026-05-02-replit-s-amjad-masad-on-the-cursor-deal-and-apple-friction
+- 2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2
+- 2026-05-08-replit-ceo-amjad-masad-disclosed-at-techcrunch-s-strictlyvc
 embedding_id: 2026-05-17-replit-released-its-first-iphone-app-update-in-four-months-a
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Replit released its first iPhone app update in four months after CEO Amjad Masad
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont]] · [[2026-05-17-replit-resolves-app-store-dispute-ships-agent-4-on-iphone]] · [[2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full]] · [[2026-05-02-replit-ceo-amjad-masad-disclosed-at-strictlyvc-that-replit-i]] · [[2026-05-02-replit-s-amjad-masad-on-the-cursor-deal-and-apple-friction]]
+**Related:** [[2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont]] · [[2026-05-02-replit-ceo-amjad-masad-disclosed-at-strictlyvc-that-replit-i]] · [[2026-05-02-replit-s-amjad-masad-on-the-cursor-deal-and-apple-friction]] · [[2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2]] · [[2026-05-08-replit-ceo-amjad-masad-disclosed-at-techcrunch-s-strictlyvc]]
 <!-- graph:end -->

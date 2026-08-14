@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre
 - 2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod
-- 2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion
 - 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
 - 2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo
+- 2026-08-04-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo
 embedding_id: 2026-05-17-an-open-source-project-called-orthrus-qwen3-claims-up-to-7-8
 event_name: ''
 ---
@@ -37,5 +37,5 @@ An open-source project called Orthrus-Qwen3 claims up to 7.8x tokens-per-forward
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre]] · [[2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod]] · [[2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo]]
+**Related:** [[2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre]] · [[2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo]] · [[2026-08-04-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo]]
 <!-- graph:end -->

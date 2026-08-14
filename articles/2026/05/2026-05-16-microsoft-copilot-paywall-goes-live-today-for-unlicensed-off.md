@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-16-as-of-yesterday-microsoft-removed-free-copilot-chat-access-f
 - 2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps
-- 2026-04-16-microsoft-restricts-free-copilot-chat-in-office-apps-effecti
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape
+- 2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a
 embedding_id: 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
 event_name: ''
@@ -40,5 +40,5 @@ Effective today, Microsoft 365 Copilot Chat is no longer available inside Word, 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-16-as-of-yesterday-microsoft-removed-free-copilot-chat-access-f]] · [[2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps]] · [[2026-04-16-microsoft-restricts-free-copilot-chat-in-office-apps-effecti]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]]
+**Related:** [[2026-04-16-as-of-yesterday-microsoft-removed-free-copilot-chat-access-f]] · [[2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]]
 <!-- graph:end -->

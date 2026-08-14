@@ -28,10 +28,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
+- 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival
 - 2026-05-18-sensetime-co-founder-lin-dahua-told-cnbc-that-the-u-s-sancti
+- 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home
 - 2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe
-- 2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster
-- 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-lead
 embedding_id: 2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Nvidia has "largely conceded" China's AI chip market to Huawei following export 
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]] · [[2026-05-18-sensetime-co-founder-lin-dahua-told-cnbc-that-the-u-s-sancti]] · [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]] · [[2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-lead]]
+**Related:** [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival]] · [[2026-05-18-sensetime-co-founder-lin-dahua-told-cnbc-that-the-u-s-sancti]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home]] · [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]]
 <!-- graph:end -->

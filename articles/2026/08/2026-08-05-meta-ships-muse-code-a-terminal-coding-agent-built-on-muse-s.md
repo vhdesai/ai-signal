@@ -23,8 +23,7 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-05-meta-debuts-muse-code-and-muse-spark-1-2-entering-the-coding
-related_article_ids:
-- 2026-08-05-meta-ships-muse-code-and-muse-spark-1-2-entering-the-coding
+related_article_ids: []
 embedding_id: 2026-08-05-meta-ships-muse-code-a-terminal-coding-agent-built-on-muse-s
 event_name: ''
 ---
@@ -39,5 +38,4 @@ Meta released Muse Code, its first coding agent, positioned as a lower-cost chal
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-08-05-meta-debuts-muse-code-and-muse-spark-1-2-entering-the-coding]]
-**Related:** [[2026-08-05-meta-ships-muse-code-and-muse-spark-1-2-entering-the-coding]]
 <!-- graph:end -->

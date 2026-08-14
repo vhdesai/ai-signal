@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-17-openai-s-gpt-5-5-instant-became-the-default-chatgpt-model-on
 - 2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model
-- 2026-05-18-gpt-5-5-instant-now-default-chatgpt-model-gemini-3-1-flash-l
 - 2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory
 - 2026-05-18-openai-rolled-out-gpt-5-5-instant-as-the-new-default-model-f
+- 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
 embedding_id: 2026-05-18-openai-s-gpt-5-5-instant-a-high-speed-sibling-to-gpt-5-5-opt
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI's GPT-5.5 Instant — a high-speed sibling to GPT-5.5 optimized for "shar
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-17-openai-s-gpt-5-5-instant-became-the-default-chatgpt-model-on]] · [[2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model]] · [[2026-05-18-gpt-5-5-instant-now-default-chatgpt-model-gemini-3-1-flash-l]] · [[2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory]] · [[2026-05-18-openai-rolled-out-gpt-5-5-instant-as-the-new-default-model-f]]
+**Related:** [[2026-05-17-openai-s-gpt-5-5-instant-became-the-default-chatgpt-model-on]] · [[2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model]] · [[2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory]] · [[2026-05-18-openai-rolled-out-gpt-5-5-instant-as-the-new-default-model-f]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]]
 <!-- graph:end -->

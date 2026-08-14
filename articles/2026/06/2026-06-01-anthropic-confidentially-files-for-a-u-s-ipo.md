@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
-- 2026-07-03-anthropic-taps-freshfields-to-steer-a-potential-trillion-dol
 - 2026-05-10-anthropic-closing-50b-round-at-900b-valuation-final-private
+- 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
 embedding_id: 2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic confirmed it has confidentially filed for a U.S. initial public offeri
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-07-03-anthropic-taps-freshfields-to-steer-a-potential-trillion-dol]] · [[2026-05-10-anthropic-closing-50b-round-at-900b-valuation-final-private]]
+**Related:** [[2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-05-10-anthropic-closing-50b-round-at-900b-valuation-final-private]] · [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]]
 <!-- graph:end -->

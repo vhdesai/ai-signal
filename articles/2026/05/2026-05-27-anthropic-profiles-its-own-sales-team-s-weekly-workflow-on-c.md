@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-05-23-anthropic-s-biggest-ever-week-included-six-major-announcemen
+- 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web
 embedding_id: 2026-05-27-anthropic-profiles-its-own-sales-team-s-weekly-workflow-on-c
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Anthropic profiles its own sales team's weekly workflow on Cowork — Anthropic,
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-23-anthropic-s-biggest-ever-week-included-six-major-announcemen]]
+**Related:** [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-23-anthropic-s-biggest-ever-week-included-six-major-announcemen]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web]]
 <!-- graph:end -->

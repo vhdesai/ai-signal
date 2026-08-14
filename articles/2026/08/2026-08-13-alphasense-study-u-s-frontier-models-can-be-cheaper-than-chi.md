@@ -24,9 +24,8 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
-- 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
+- 2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain
 embedding_id: 2026-08-13-alphasense-study-u-s-frontier-models-can-be-cheaper-than-chi
 event_name: ''
 ---
@@ -40,5 +39,5 @@ An AlphaSense study challenges the assumption that Chinese AI is always cheaper.
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]]
+**Related:** [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain]]
 <!-- graph:end -->

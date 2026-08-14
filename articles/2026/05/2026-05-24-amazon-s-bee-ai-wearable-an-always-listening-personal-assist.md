@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-24-first-hands-on-amazon-s-bee-always-listening-ai-wearable
 - 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
+- 2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd
 - 2026-07-13-meta-patent-describes-an-always-listening-ai-that-infers-and
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th
 embedding_id: 2026-05-24-amazon-s-bee-ai-wearable-an-always-listening-personal-assist
@@ -38,5 +39,5 @@ Amazon's Bee wearable, an always-listening AI companion device, drew mixed early
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-24-first-hands-on-amazon-s-bee-always-listening-ai-wearable]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-07-13-meta-patent-describes-an-always-listening-ai-that-infers-and]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th]]
+**Related:** [[2026-05-24-first-hands-on-amazon-s-bee-always-listening-ai-wearable]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd]] · [[2026-07-13-meta-patent-describes-an-always-listening-ai-that-infers-and]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th]]
 <!-- graph:end -->

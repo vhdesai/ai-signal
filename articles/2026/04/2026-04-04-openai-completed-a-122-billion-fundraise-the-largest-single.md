@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-04-openai-closes-122b-round-at-852b-valuation-largest-fundraise
 - 2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe
 - 2026-04-02-despite-the-record-raise-openai-s-secondary-market-position
 - 2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu
-- 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
+- 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
+- 2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u
 embedding_id: 2026-04-04-openai-completed-a-122-billion-fundraise-the-largest-single
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI completed a $122 billion fundraise, the largest single raise in corporate
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-04-openai-closes-122b-round-at-852b-valuation-largest-fundraise]] · [[2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe]] · [[2026-04-02-despite-the-record-raise-openai-s-secondary-market-position]] · [[2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu]] · [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]]
+**Related:** [[2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe]] · [[2026-04-02-despite-the-record-raise-openai-s-secondary-market-position]] · [[2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u]]
 <!-- graph:end -->

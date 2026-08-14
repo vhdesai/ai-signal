@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-03-salesforce-announced-a-major-slackbot-overhaul-reusable-ai-s
 - 2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o
 - 2026-04-10-salesforce-announced-a-major-slackbot-upgrade-adding-30-new
-- 2026-04-03-salesforce-transforms-slackbot-into-autonomous-work-assistan
+- 2026-04-02-new-salesforce-adds-30-ai-features-to-slack-apr-1-salesforce
 embedding_id: 2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Salesforce connected Slackbot to CRM records, Tableau, Data Cloud, Agentforce, a
 
 **Entities:** [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-03-salesforce-announced-a-major-slackbot-overhaul-reusable-ai-s]] · [[2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o]] · [[2026-04-10-salesforce-announced-a-major-slackbot-upgrade-adding-30-new]] · [[2026-04-03-salesforce-transforms-slackbot-into-autonomous-work-assistan]]
+**Related:** [[2026-04-03-salesforce-announced-a-major-slackbot-overhaul-reusable-ai-s]] · [[2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o]] · [[2026-04-10-salesforce-announced-a-major-slackbot-upgrade-adding-30-new]] · [[2026-04-02-new-salesforce-adds-30-ai-features-to-slack-apr-1-salesforce]]
 <!-- graph:end -->

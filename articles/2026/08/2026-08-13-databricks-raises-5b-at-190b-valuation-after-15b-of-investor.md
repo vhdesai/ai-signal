@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-13-databricks-raises-5b-at-a-190b-valuation-as-annualized-reven
 - 2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b
 - 2026-08-13-databricks-settles-on-5b-raise-at-a-190b-valuation
-- 2026-07-17-databricks-reaches-raises-at-a-188b-valuation-underlining-in
+- 2026-05-21-databricks-ranks-3-on-cnbc-disruptor-50-hits-5-4b-run-rate-s
 embedding_id: 2026-08-13-databricks-raises-5b-at-190b-valuation-after-15b-of-investor
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Databricks closed a $5B round led by Coatue, Blackstone, MGX, T. Rowe Price, and
 
 **Entities:** [[Databricks]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-13-databricks-raises-5b-at-190b-valuation-with-revenue-past-7b]] · [[2026-08-13-databricks-raises-5b-at-a-190b-valuation-as-annualized-reven]] · [[2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b]] · [[2026-08-13-databricks-settles-on-5b-raise-at-a-190b-valuation]] · [[2026-07-17-databricks-reaches-raises-at-a-188b-valuation-underlining-in]]
+**Related:** [[2026-08-13-databricks-raises-5b-at-190b-valuation-with-revenue-past-7b]] · [[2026-08-13-databricks-raises-5b-at-a-190b-valuation-as-annualized-reven]] · [[2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b]] · [[2026-08-13-databricks-settles-on-5b-raise-at-a-190b-valuation]] · [[2026-05-21-databricks-ranks-3-on-cnbc-disruptor-50-hits-5-4b-run-rate-s]]
 <!-- graph:end -->

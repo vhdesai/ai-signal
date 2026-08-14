@@ -29,8 +29,8 @@ related_article_ids:
 - 2026-05-23-cohere-s-command-a-is-a-218-billion-parameter-sparse-mixture
 - 2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads
 - 2026-05-20-cohere-ships-command-a-first-apache-2-0-open-model-with-loss
-- 2026-05-23-cohere-releases-command-a-218b-sparse-moe-model-for-agentic
 - 2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un
+- 2026-03-28-cohere-launched-cohere-transcribe-an-open-source-automatic-s
 embedding_id: 2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Cohere released Command A+, a 218 billion parameter sparse mixture-of-experts mo
 
 **Entities:** [[Anthropic]] · [[Cohere]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-23-cohere-s-command-a-is-a-218-billion-parameter-sparse-mixture]] · [[2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads]] · [[2026-05-20-cohere-ships-command-a-first-apache-2-0-open-model-with-loss]] · [[2026-05-23-cohere-releases-command-a-218b-sparse-moe-model-for-agentic]] · [[2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un]]
+**Related:** [[2026-05-23-cohere-s-command-a-is-a-218-billion-parameter-sparse-mixture]] · [[2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads]] · [[2026-05-20-cohere-ships-command-a-first-apache-2-0-open-model-with-loss]] · [[2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un]] · [[2026-03-28-cohere-launched-cohere-transcribe-an-open-source-automatic-s]]
 <!-- graph:end -->

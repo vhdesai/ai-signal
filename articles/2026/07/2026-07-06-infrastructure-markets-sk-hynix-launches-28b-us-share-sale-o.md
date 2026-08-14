@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing
 - 2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory
 - 2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10
-- 2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-us-listing
 - 2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing
+- 2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-us-listing
 embedding_id: 2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Infrastructure Markets SK Hynix launches ~$28B US share sale on AI-memory demand
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing]] · [[2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory]] · [[2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10]] · [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-us-listing]] · [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing]]
+**Related:** [[2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing]] · [[2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory]] · [[2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10]] · [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing]] · [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-us-listing]]
 <!-- graph:end -->

@@ -25,11 +25,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l
-- 2026-04-02-deepseek-v4-and-tencent-hunyuan-expected-to-launch-this-mont
-- 2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu
 - 2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow
 - 2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand
+- 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
+- 2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua
+- 2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap
 embedding_id: 2026-04-02-two-major-chinese-ai-models-are-expected-to-debut-in-april-2
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Two major Chinese AI models are expected to debut in April 2026. DeepSeek V4 —
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]] · [[OpenAI]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l]] · [[2026-04-02-deepseek-v4-and-tencent-hunyuan-expected-to-launch-this-mont]] · [[2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu]] · [[2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow]] · [[2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand]]
+**Related:** [[2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow]] · [[2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand]] · [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]] · [[2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua]] · [[2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap]]
 <!-- graph:end -->

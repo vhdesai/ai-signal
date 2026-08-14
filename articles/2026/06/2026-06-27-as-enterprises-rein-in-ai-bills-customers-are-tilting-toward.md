@@ -29,6 +29,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a
 - 2026-06-26-startup-lindy-drops-claude-entirely-for-deepseek-as-ai-cost
+- 2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
 embedding_id: 2026-06-27-as-enterprises-rein-in-ai-bills-customers-are-tilting-toward
 event_name: ''
@@ -43,5 +44,5 @@ As enterprises rein in AI bills, customers are tilting toward cheaper, often ope
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a]] · [[2026-06-26-startup-lindy-drops-claude-entirely-for-deepseek-as-ai-cost]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]]
+**Related:** [[2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a]] · [[2026-06-26-startup-lindy-drops-claude-entirely-for-deepseek-as-ai-cost]] · [[2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]]
 <!-- graph:end -->

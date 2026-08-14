@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins
 - 2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr
 - 2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j
-- 2026-05-15-musk-vs-altman-openai-trial-key-claims-and-what-s-at-stake
+- 2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu
 embedding_id: 2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Elon Musk vs. Sam Altman / OpenAI trial is ongoing in Oakland, with two clai
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins]] · [[2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr]] · [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-15-musk-vs-altman-openai-trial-key-claims-and-what-s-at-stake]]
+**Related:** [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins]] · [[2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr]] · [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu]]
 <!-- graph:end -->

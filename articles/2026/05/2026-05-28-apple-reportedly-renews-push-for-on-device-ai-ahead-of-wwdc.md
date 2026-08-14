@@ -25,8 +25,8 @@ related_article_ids:
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference
 - 2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem
 - 2026-05-28-apple-prepares-renewed-push-for-on-device-ai
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications
 - 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
-- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
 embedding_id: 2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Information reported that Apple is renewing its push for AI that runs on dev
 
 **Entities:** [[Apple]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]] · [[2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem]] · [[2026-05-28-apple-prepares-renewed-push-for-on-device-ai]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]]
+**Related:** [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]] · [[2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem]] · [[2026-05-28-apple-prepares-renewed-push-for-on-device-ai]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]]
 <!-- graph:end -->

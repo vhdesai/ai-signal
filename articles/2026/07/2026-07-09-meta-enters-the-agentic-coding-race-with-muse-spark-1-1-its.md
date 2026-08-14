@@ -21,10 +21,8 @@ themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1
-related_article_ids:
-- 2026-07-10-meta-opens-muse-spark-1-1-its-first-paid-ai-api-at-cut-rate
-- 2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f
+canonical_article_id: 2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1-at-cut-rate-p
+related_article_ids: []
 embedding_id: 2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1-its
 event_name: ''
 ---
@@ -38,6 +36,5 @@ Meta's Superintelligence Labs released Muse Spark 1.1, its first paid developer 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1]]
-**Related:** [[2026-07-10-meta-opens-muse-spark-1-1-its-first-paid-ai-api-at-cut-rate]] · [[2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f]]
+**Canonical:** [[2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1-at-cut-rate-p]]
 <!-- graph:end -->

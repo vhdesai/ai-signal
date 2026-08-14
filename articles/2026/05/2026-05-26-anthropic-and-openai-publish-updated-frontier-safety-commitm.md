@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
 - 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
-- 2026-07-16-anthropic-and-openai-are-reported-to-split-on-ai-regulation
+- 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
 embedding_id: 2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Both Anthropic and OpenAI published updated frontier safety commitments this wee
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-07-16-anthropic-and-openai-are-reported-to-split-on-ai-regulation]]
+**Related:** [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]]
 <!-- graph:end -->

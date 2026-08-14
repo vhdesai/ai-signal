@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi
 - 2026-04-20-nvidia-april-20-2026-at-hannover-messe-nvidia-announced-a-sw
-- 2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure
 - 2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a
+- 2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f
 embedding_id: 2026-08-05-nvidia-joins-nsf-regional-ai-infrastructure-hubs-program
 event_name: ''
 ---
@@ -38,5 +38,5 @@ NVIDIA said it is participating in the U.S. National Science Foundation's State 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi]] · [[2026-04-20-nvidia-april-20-2026-at-hannover-messe-nvidia-announced-a-sw]] · [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure]] · [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]]
+**Related:** [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi]] · [[2026-04-20-nvidia-april-20-2026-at-hannover-messe-nvidia-announced-a-sw]] · [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]] · [[2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f]]
 <!-- graph:end -->

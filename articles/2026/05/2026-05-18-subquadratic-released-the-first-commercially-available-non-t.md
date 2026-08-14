@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-17-startup-subquadratic-launched-subq-1m-preview-with-29m-in-se
 - 2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w
 - 2026-05-05-trending-subquadratic-claims-1-000x-ai-efficiency-gain-resea
-- 2026-04-06-princeton-and-ut-austin-publish-joint-study-on-emergent-tool
+- 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
 embedding_id: 2026-05-18-subquadratic-released-the-first-commercially-available-non-t
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Subquadratic released the first commercially available non-transformer LLM, SubQ
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-05-subq-launches-first-commercial-subquadratic-llm-with-12m-tok]] · [[2026-05-17-startup-subquadratic-launched-subq-1m-preview-with-29m-in-se]] · [[2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w]] · [[2026-05-05-trending-subquadratic-claims-1-000x-ai-efficiency-gain-resea]] · [[2026-04-06-princeton-and-ut-austin-publish-joint-study-on-emergent-tool]]
+**Related:** [[2026-05-05-subq-launches-first-commercial-subquadratic-llm-with-12m-tok]] · [[2026-05-17-startup-subquadratic-launched-subq-1m-preview-with-29m-in-se]] · [[2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w]] · [[2026-05-05-trending-subquadratic-claims-1-000x-ai-efficiency-gain-resea]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]]
 <!-- graph:end -->

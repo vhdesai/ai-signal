@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-26-university-of-california-establishes-systemwide-ai-steering
 - 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
 - 2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu
-- 2026-05-18-uc-berkeley-cdss-ai-safety-policy
 - 2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society
+- 2026-03-30-ai-cardiac-platform-wins-first-ever-acc-global-digital-healt
 embedding_id: 2026-07-28-uc-san-diego-spotlights-its-leadership-in-ai-for-health-care
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Tied to the 2026 U.S. News Healthcare of Tomorrow conference, UC San Diego highl
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-university-of-california-establishes-systemwide-ai-steering]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu]] · [[2026-05-18-uc-berkeley-cdss-ai-safety-policy]] · [[2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society]]
+**Related:** [[2026-05-26-university-of-california-establishes-systemwide-ai-steering]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu]] · [[2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society]] · [[2026-03-30-ai-cardiac-platform-wins-first-ever-acc-global-digital-healt]]
 <!-- graph:end -->

@@ -22,10 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-03-google-vids-adds-veo-3-1-video-generation-lyria-3-music-and
-- 2026-04-01-google-launches-veo-3-1-lite-sub-0-10-second-ai-video-as-ope
 - 2026-07-29-google-launches-lyria-3-5-in-flow-music
+- 2026-04-01-google-released-veo-3-1-lite-on-the-gemini-api-and-google-ai
 - 2026-07-09-google-photos-rolls-out-ai-video-remix
+- 2026-07-08-google-photos-adds-a-new-ai-video-remix-tool
+- 2026-07-08-google-photos-adds-ai-video-remix-powered-by-gemini-omni
 embedding_id: 2026-04-03-google-upgraded-vids-with-veo-3-1-video-generation-lyria-3-m
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Google upgraded Vids with Veo 3.1 video generation, Lyria 3 music creation, and 
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-03-google-vids-adds-veo-3-1-video-generation-lyria-3-music-and]] · [[2026-04-01-google-launches-veo-3-1-lite-sub-0-10-second-ai-video-as-ope]] · [[2026-07-29-google-launches-lyria-3-5-in-flow-music]] · [[2026-07-09-google-photos-rolls-out-ai-video-remix]]
+**Related:** [[2026-07-29-google-launches-lyria-3-5-in-flow-music]] · [[2026-04-01-google-released-veo-3-1-lite-on-the-gemini-api-and-google-ai]] · [[2026-07-09-google-photos-rolls-out-ai-video-remix]] · [[2026-07-08-google-photos-adds-a-new-ai-video-remix-tool]] · [[2026-07-08-google-photos-adds-ai-video-remix-powered-by-gemini-omni]]
 <!-- graph:end -->

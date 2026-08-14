@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-30-google-deepmind-disbands-its-nobel-winning-alphafold-team-to
 - 2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-fo
 - 2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d
+- 2026-07-29-deepmind-winds-down-its-alphafold-team-as-focus-shifts-to-ge
 embedding_id: 2026-07-30-google-deepmind-disbands-its-alphafold-team
 event_name: ''
 ---
@@ -37,5 +37,5 @@ According to the Financial Times, DeepMind dissolved the Nobel Prize–winning A
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-google-deepmind-disbands-its-nobel-winning-alphafold-team-to]] · [[2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-fo]] · [[2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d]]
+**Related:** [[2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-fo]] · [[2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d]] · [[2026-07-29-deepmind-winds-down-its-alphafold-team-as-focus-shifts-to-ge]]
 <!-- graph:end -->

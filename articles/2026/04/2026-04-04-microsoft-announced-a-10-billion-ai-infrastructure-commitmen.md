@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-04-microsoft-commits-10b-to-japan-ai-infrastructure-mai-strateg
 - 2026-04-03-microsoft-announced-a-10b-investment-in-japan-2026-2029-to-e
-- 2026-04-03-microsoft-invests-10b-in-japan-oracle-cuts-30-000-jobs-to-fu
 - 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
 - 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
+- 2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor
+- 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 embedding_id: 2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft announced a $10 billion AI infrastructure commitment to Japan in partn
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-04-microsoft-commits-10b-to-japan-ai-infrastructure-mai-strateg]] · [[2026-04-03-microsoft-announced-a-10b-investment-in-japan-2026-2029-to-e]] · [[2026-04-03-microsoft-invests-10b-in-japan-oracle-cuts-30-000-jobs-to-fu]] · [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]]
+**Related:** [[2026-04-03-microsoft-announced-a-10b-investment-in-japan-2026-2029-to-e]] · [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]]
 <!-- graph:end -->

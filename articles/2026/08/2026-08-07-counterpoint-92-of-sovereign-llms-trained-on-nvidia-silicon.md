@@ -18,9 +18,14 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-08-07-92-of-sovereign-llms-trained-on-nvidia-silicon-inference-com
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch
+- 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
+- 2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod
+- 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
+- 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
 embedding_id: 2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon
 event_name: ''
 ---
@@ -34,5 +39,5 @@ Counterpoint Research found that as of July, 92% of roughly 170 sovereign large 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-08-07-92-of-sovereign-llms-trained-on-nvidia-silicon-inference-com]]
+**Related:** [[2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]]
 <!-- graph:end -->

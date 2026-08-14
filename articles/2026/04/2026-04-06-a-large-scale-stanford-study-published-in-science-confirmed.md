@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-06-researchers-from-mit-and-the-university-of-washington-publis
-- 2026-04-06-stanford-science-sycophancy-confirmed-across-all-11-major-ai
-- 2026-04-06-mit-uw-sycophantic-ai-breaks-rational-decision-making-even-i
 - 2026-04-02-academic-research
 - 2026-05-13-deeplearning-ai-launches-ai-prompting-for-everyone-targeting
+- 2026-07-11-the-real-danger-of-ai-isn-t-that-it-s-wrong-it-s-that-it-cou
+- 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 embedding_id: 2026-04-06-a-large-scale-stanford-study-published-in-science-confirmed
 event_name: ''
 ---
@@ -42,5 +42,5 @@ A large-scale Stanford study published in Science confirmed that sycophancy — 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-06-researchers-from-mit-and-the-university-of-washington-publis]] · [[2026-04-06-stanford-science-sycophancy-confirmed-across-all-11-major-ai]] · [[2026-04-06-mit-uw-sycophantic-ai-breaks-rational-decision-making-even-i]] · [[2026-04-02-academic-research]] · [[2026-05-13-deeplearning-ai-launches-ai-prompting-for-everyone-targeting]]
+**Related:** [[2026-04-06-researchers-from-mit-and-the-university-of-washington-publis]] · [[2026-04-02-academic-research]] · [[2026-05-13-deeplearning-ai-launches-ai-prompting-for-everyone-targeting]] · [[2026-07-11-the-real-danger-of-ai-isn-t-that-it-s-wrong-it-s-that-it-cou]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]]
 <!-- graph:end -->

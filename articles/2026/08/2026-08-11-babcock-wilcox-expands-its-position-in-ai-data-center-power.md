@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
-- 2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector
+- 2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da
 embedding_id: 2026-08-11-babcock-wilcox-expands-its-position-in-ai-data-center-power
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Power-generation company Babcock & Wilcox is deepening its commitments to supply
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]]
+**Related:** [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]]
 <!-- graph:end -->

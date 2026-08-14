@@ -22,7 +22,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-08-four-agent-coordination-system-outperforms-a-frontier-single
 - 2026-08-08-claude-code-adds-cross-session-messaging-between-agents
-- 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 - 2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us
 - 2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level
 embedding_id: 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
@@ -37,5 +36,5 @@ Coral AI Labs and university researchers introduced AgentRadio, an asynchronous 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-08-four-agent-coordination-system-outperforms-a-frontier-single]] · [[2026-08-08-claude-code-adds-cross-session-messaging-between-agents]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us]] · [[2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level]]
+**Related:** [[2026-08-08-four-agent-coordination-system-outperforms-a-frontier-single]] · [[2026-08-08-claude-code-adds-cross-session-messaging-between-agents]] · [[2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us]] · [[2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level]]
 <!-- graph:end -->

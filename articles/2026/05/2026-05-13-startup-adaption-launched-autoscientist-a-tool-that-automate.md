@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-adaption-unveils-autoscientist-for-automated-model-training
-- 2026-05-13-autoscientist-new-ai-system-that-trains-models-to-improve-th
 - 2026-05-15-a-deep-dive-analysis-published-may-14-examines-the-emerging
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
 - 2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina
+- 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
 embedding_id: 2026-05-13-startup-adaption-launched-autoscientist-a-tool-that-automate
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Startup Adaption launched AutoScientist, a tool that automates the process of id
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-adaption-unveils-autoscientist-for-automated-model-training]] · [[2026-05-13-autoscientist-new-ai-system-that-trains-models-to-improve-th]] · [[2026-05-15-a-deep-dive-analysis-published-may-14-examines-the-emerging]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina]]
+**Related:** [[2026-05-14-adaption-unveils-autoscientist-for-automated-model-training]] · [[2026-05-15-a-deep-dive-analysis-published-may-14-examines-the-emerging]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina]] · [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]]
 <!-- graph:end -->

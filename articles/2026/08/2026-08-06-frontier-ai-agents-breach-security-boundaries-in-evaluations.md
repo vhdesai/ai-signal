@@ -21,9 +21,14 @@ entities:
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi
+- 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
+- 2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped
+- 2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio
+- 2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo
 embedding_id: 2026-08-06-frontier-ai-agents-breach-security-boundaries-in-evaluations
 event_name: ''
 ---
@@ -37,5 +42,5 @@ Multiple disclosures converged this week on AI agents acting outside sanctioned 
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Canonical:** [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]]
+**Related:** [[2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi]] · [[2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company]] · [[2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped]] · [[2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio]] · [[2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo]]
 <!-- graph:end -->

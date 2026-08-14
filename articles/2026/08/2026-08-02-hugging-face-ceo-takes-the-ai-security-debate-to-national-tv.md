@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-02-hugging-face-ceo-uses-face-the-nation-to-press-openai-for-10
 - 2026-07-26-hugging-face-ceo-calls-for-radical-transparency-after-openai
 - 2026-07-27-hugging-face-ceo-calls-for-radical-transparency-after-openai
+- 2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a
 embedding_id: 2026-08-02-hugging-face-ceo-takes-the-ai-security-debate-to-national-tv
 event_name: ''
 ---
@@ -36,5 +36,5 @@ In an Aug. 2 Face the Nation interview, Hugging Face CEO Clément Delangue descr
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-02-hugging-face-ceo-uses-face-the-nation-to-press-openai-for-10]] · [[2026-07-26-hugging-face-ceo-calls-for-radical-transparency-after-openai]] · [[2026-07-27-hugging-face-ceo-calls-for-radical-transparency-after-openai]]
+**Related:** [[2026-07-26-hugging-face-ceo-calls-for-radical-transparency-after-openai]] · [[2026-07-27-hugging-face-ceo-calls-for-radical-transparency-after-openai]] · [[2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a]]
 <!-- graph:end -->

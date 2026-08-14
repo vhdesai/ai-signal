@@ -24,11 +24,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-30-microsoft-s-ai-bet-pushes-azure-past-a-100b-run-rate-as-clou
-- 2026-07-22-google-justifies-massive-ai-spending-with-booming-cloud-grow
 - 2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in
 - 2026-05-04-trendingcloud-market-share-q1-2026-aws-microsoft-google-all
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
+- 2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor
+- 2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200
 embedding_id: 2026-05-04-q1-2026-cloud-market-129b-record-ai-as-the-wedge
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Synergy Research reports global cloud spend hit a record $129B in Q1 2026, with 
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Google]] · [[Microsoft]] · [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-30-microsoft-s-ai-bet-pushes-azure-past-a-100b-run-rate-as-clou]] · [[2026-07-22-google-justifies-massive-ai-spending-with-booming-cloud-grow]] · [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-05-04-trendingcloud-market-share-q1-2026-aws-microsoft-google-all]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]]
+**Related:** [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-05-04-trendingcloud-market-share-q1-2026-aws-microsoft-google-all]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor]] · [[2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200]]
 <!-- graph:end -->

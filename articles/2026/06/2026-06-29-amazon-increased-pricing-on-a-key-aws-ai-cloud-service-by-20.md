@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-29-amazon-raises-aws-ai-cloud-prices-20-amid-rising-memory-and
 - 2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity
-- 2026-08-03-amazon-tops-3-trillion-market-value-as-ai-cloud-demand-accel
 - 2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in
 - 2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai
+- 2026-07-30-amazon-raises-2026-capital-spending-to-220b-as-aws-growth-hi
+- 2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears
 embedding_id: 2026-06-29-amazon-increased-pricing-on-a-key-aws-ai-cloud-service-by-20
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Amazon increased pricing on a key AWS AI cloud service by 20%, citing rising mem
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-29-amazon-raises-aws-ai-cloud-prices-20-amid-rising-memory-and]] · [[2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity]] · [[2026-08-03-amazon-tops-3-trillion-market-value-as-ai-cloud-demand-accel]] · [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai]]
+**Related:** [[2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity]] · [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai]] · [[2026-07-30-amazon-raises-2026-capital-spending-to-220b-as-aws-growth-hi]] · [[2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears]]
 <!-- graph:end -->

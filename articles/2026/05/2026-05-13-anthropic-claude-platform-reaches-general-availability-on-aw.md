@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
-- 2026-05-14-claude-platform-on-aws-now-generally-available-enterprise-ag
 - 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
+- 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
 embedding_id: 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic announced GA of the Claude Platform on AWS, giving enterprise customer
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Cerebras]] · [[OpenAI]]
-**Related:** [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-14-claude-platform-on-aws-now-generally-available-enterprise-ag]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]]
+**Related:** [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]]
 <!-- graph:end -->

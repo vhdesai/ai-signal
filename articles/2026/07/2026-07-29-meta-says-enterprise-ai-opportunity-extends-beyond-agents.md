@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey
 - 2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag
-- 2026-06-03-meta-launches-business-agent-and-business-agent-platform-glo
 - 2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine
-- 2026-03-24-zuckerberg-is-building-an-ai-agent-to-help-run-meta
+- 2026-06-03-meta-launches-business-agent-and-business-agent-platform-glo
+- 2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti
 embedding_id: 2026-07-29-meta-says-enterprise-ai-opportunity-extends-beyond-agents
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Zuckerberg also told investors that Meta sees a broader enterprise AI opportunit
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey]] · [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag]] · [[2026-06-03-meta-launches-business-agent-and-business-agent-platform-glo]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]] · [[2026-03-24-zuckerberg-is-building-an-ai-agent-to-help-run-meta]]
+**Related:** [[2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey]] · [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]] · [[2026-06-03-meta-launches-business-agent-and-business-agent-platform-glo]] · [[2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti]]
 <!-- graph:end -->

@@ -26,9 +26,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform
 - 2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai
 - 2026-07-10-apple-escalates-trade-secret-suit-against-openai-next-siri-t
+- event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform
 - event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa
 embedding_id: event-google-cloud-next-2026-google-cloud-next-2026-siri-gemini-enterprise-read-through
 event_name: Google Cloud Next 2026
@@ -43,5 +43,5 @@ One later corpus entry ties Cloud Next to Google Cloud CEO Thomas Kurian confirm
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform]] · [[2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai]] · [[2026-07-10-apple-escalates-trade-secret-suit-against-openai-next-siri-t]] · [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa]]
+**Related:** [[2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai]] · [[2026-07-10-apple-escalates-trade-secret-suit-against-openai-next-siri-t]] · [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform]] · [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa]]
 <!-- graph:end -->

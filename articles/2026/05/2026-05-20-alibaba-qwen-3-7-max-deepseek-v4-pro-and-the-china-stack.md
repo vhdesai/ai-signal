@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre
 - 2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti
 - 2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l
-- 2026-04-04-chinese-ai-models-surge-alibaba-qwen-3-6-plus-live-deepseek
 - 2026-05-24-alibaba-qwen-3-7-max-reaches-full-ga-on-openrouter-and-dashs
+- 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
 embedding_id: 2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Alibaba previewed Qwen 3.7-Max on May 20, and DeepSeek made its V4-Pro 75% disco
 
 **Entities:** [[Alibaba]] · [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre]] · [[2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti]] · [[2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l]] · [[2026-04-04-chinese-ai-models-surge-alibaba-qwen-3-6-plus-live-deepseek]] · [[2026-05-24-alibaba-qwen-3-7-max-reaches-full-ga-on-openrouter-and-dashs]]
+**Related:** [[2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre]] · [[2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti]] · [[2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l]] · [[2026-05-24-alibaba-qwen-3-7-max-reaches-full-ga-on-openrouter-and-dashs]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]]
 <!-- graph:end -->

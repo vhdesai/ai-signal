@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-12-white-house-authorizes-vetted-private-firms-for-offensive-cy
 - 2026-05-10-white-house-mulls-executive-order-banning-private-sector-int
-- 2026-05-01-anthropic-s-refusal-to-remove-safeguards-against-domestic-ma
-- 2026-06-22-dhs-cisa-urged-to-mandate-minimum-security-standards-for-age
+- 2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego
+- 2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial
 embedding_id: 2026-08-13-white-house-opens-vetted-private-sector-cyber-operations-aga
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The White House directed the National Coordination Center to permit vetted U.S. 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-12-white-house-authorizes-vetted-private-firms-for-offensive-cy]] · [[2026-05-10-white-house-mulls-executive-order-banning-private-sector-int]] · [[2026-05-01-anthropic-s-refusal-to-remove-safeguards-against-domestic-ma]] · [[2026-06-22-dhs-cisa-urged-to-mandate-minimum-security-standards-for-age]]
+**Related:** [[2026-08-12-white-house-authorizes-vetted-private-firms-for-offensive-cy]] · [[2026-05-10-white-house-mulls-executive-order-banning-private-sector-int]] · [[2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego]] · [[2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial]]
 <!-- graph:end -->

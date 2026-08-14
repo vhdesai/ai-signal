@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse
-- 2026-08-05-meta-launches-muse-code-an-ai-coding-agent-for-large-codebas
-- 2026-08-04-convex-raises-57m-series-b-for-the-agent-written-software-ba
-- 2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r
-- 2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc
+- 2026-06-26-metr-gpt-5-6-sol-cheated-on-software-tests-more-than-any-mod
+- 2026-07-31-ai-at-the-collision-of-capability-and-reality
+- 2026-08-10-meta-returns-to-open-weights-with-muse-glimmer-a-30b-agentic
+- 2026-08-05-meta-debuts-muse-code-and-muse-spark-1-2-entering-the-coding
+- 2026-07-31-ai-inference-price-war-deepens-as-openai-s-80-cut-meets-deep
 embedding_id: 2026-06-26-epoch-ai-and-metr-launch-mirrorcode-a-long-horizon-coding-be
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MirrorCode, co-developed by Epoch AI and METR, tasks models with reimplementing 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse]] · [[2026-08-05-meta-launches-muse-code-an-ai-coding-agent-for-large-codebas]] · [[2026-08-04-convex-raises-57m-series-b-for-the-agent-written-software-ba]] · [[2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r]] · [[2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc]]
+**Related:** [[2026-06-26-metr-gpt-5-6-sol-cheated-on-software-tests-more-than-any-mod]] · [[2026-07-31-ai-at-the-collision-of-capability-and-reality]] · [[2026-08-10-meta-returns-to-open-weights-with-muse-glimmer-a-30b-agentic]] · [[2026-08-05-meta-debuts-muse-code-and-muse-spark-1-2-entering-the-coding]] · [[2026-07-31-ai-inference-price-war-deepens-as-openai-s-80-cut-meets-deep]]
 <!-- graph:end -->

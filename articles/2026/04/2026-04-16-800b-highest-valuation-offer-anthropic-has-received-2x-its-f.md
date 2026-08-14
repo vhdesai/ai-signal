@@ -26,11 +26,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-16-anthropic-attracts-800b-valuation-offers-revenue-hits-30b-ar
 - 2026-05-28-anthropic-raises-65b-series-h-at-965b-valuation-overtaking-o
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
 - 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
 - 2026-05-15-anthropic-potential-30b-funding-round-could-push-valuation-t
+- 2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op
 embedding_id: 2026-04-16-800b-highest-valuation-offer-anthropic-has-received-2x-its-f
 event_name: ''
 ---
@@ -44,5 +44,5 @@ $800B — Highest valuation offer Anthropic has received (2x its Feb round) $852
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-16-anthropic-attracts-800b-valuation-offers-revenue-hits-30b-ar]] · [[2026-05-28-anthropic-raises-65b-series-h-at-965b-valuation-overtaking-o]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]] · [[2026-05-15-anthropic-potential-30b-funding-round-could-push-valuation-t]]
+**Related:** [[2026-05-28-anthropic-raises-65b-series-h-at-965b-valuation-overtaking-o]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]] · [[2026-05-15-anthropic-potential-30b-funding-round-could-push-valuation-t]] · [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed
 - 2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia
 - 2026-04-09-products-tools
 - 2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi
 - 2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-posts-fastest-grow
+- 2026-07-31-amazon-q2-aws-revenue-accelerates-to-37-capex-guided-to-220b
 embedding_id: 2026-06-18-amazon-weighs-selling-trainium-chips-to-outside-data-centers
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AWS AI chief says Amazon in early talks to sell Trainium externally. CEO Jassy f
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed]] · [[2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia]] · [[2026-04-09-products-tools]] · [[2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi]] · [[2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-posts-fastest-grow]]
+**Related:** [[2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia]] · [[2026-04-09-products-tools]] · [[2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi]] · [[2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-posts-fastest-grow]] · [[2026-07-31-amazon-q2-aws-revenue-accelerates-to-37-capex-guided-to-220b]]
 <!-- graph:end -->

@@ -32,7 +32,8 @@ related_article_ids:
 - 2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws
 - 2026-05-19-president-trump-disclosed-he-discussed-potential-ai-safety-g
 - 2026-05-14-on-may-5-the-u-s-pentagon-signed-ai-infrastructure-and-model
-- 2026-05-18-pentagon-ai-deals-finalized-anthropic-excluded-google-deepmi
+- 2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a
+- 2026-05-09-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a
 embedding_id: 2026-05-18-the-pentagon-signed-ai-contracts-with-spacex-openai-google-m
 event_name: ''
 ---
@@ -46,5 +47,5 @@ The Pentagon signed AI contracts with SpaceX, OpenAI, Google, Microsoft, Nvidia,
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws]] · [[2026-05-19-president-trump-disclosed-he-discussed-potential-ai-safety-g]] · [[2026-05-14-on-may-5-the-u-s-pentagon-signed-ai-infrastructure-and-model]] · [[2026-05-18-pentagon-ai-deals-finalized-anthropic-excluded-google-deepmi]]
+**Related:** [[2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws]] · [[2026-05-19-president-trump-disclosed-he-discussed-potential-ai-safety-g]] · [[2026-05-14-on-may-5-the-u-s-pentagon-signed-ai-infrastructure-and-model]] · [[2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a]] · [[2026-05-09-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a]]
 <!-- graph:end -->

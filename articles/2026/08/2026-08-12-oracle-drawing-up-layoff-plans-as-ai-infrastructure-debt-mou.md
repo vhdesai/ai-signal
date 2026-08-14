@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
 - 2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke
 - 2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g
-- 2026-04-04-oracle-lays-off-30-000-globally-to-fund-ai-infrastructure-bu
-- 2026-04-02-oracle-cuts-up-to-30-000-jobs-to-fund-ai-data-center-buildou
+- 2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption
+- 2026-04-02-trending-oracle-announces-30-000-layoffs-apr-1-oracle-confir
 embedding_id: 2026-08-12-oracle-drawing-up-layoff-plans-as-ai-infrastructure-debt-mou
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Oracle is preparing a new round of layoffs this month as part of an effort to re
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke]] · [[2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g]] · [[2026-04-04-oracle-lays-off-30-000-globally-to-fund-ai-infrastructure-bu]] · [[2026-04-02-oracle-cuts-up-to-30-000-jobs-to-fund-ai-data-center-buildou]]
+**Related:** [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke]] · [[2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g]] · [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption]] · [[2026-04-02-trending-oracle-announces-30-000-layoffs-apr-1-oracle-confir]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a
 - 2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon
 - 2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu
-- 2026-07-29-eliyan-hits-unicorn-status-with-145m-to-fix-the-ai-chip-inte
+- 2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector
 embedding_id: 2026-05-18-analog-devices-in-advanced-talks-to-buy-empower-semiconducto
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Chipmaker Analog Devices is close to acquiring Empower Semiconductor — a 12-ye
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in]] · [[2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a]] · [[2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-07-29-eliyan-hits-unicorn-status-with-145m-to-fix-the-ai-chip-inte]]
+**Related:** [[2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in]] · [[2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a]] · [[2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]]
 <!-- graph:end -->

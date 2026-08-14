@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-04-17-breaking-cursor-in-advanced-talks-on-2b-round-at-50b-valuati
 - 2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
-- 2026-04-20-cursor-in-talks-to-raise-2b-at-50b-valuation
 - 2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation
+- 2026-05-16-elon-musk-s-xai-is-pursuing-a-three-way-alliance-with-french
 embedding_id: 2026-04-20-the-information-techcrunch-april-19-2026-anysphere-s-cursor
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Information / TechCrunch • April 19, 2026 Anysphere's Cursor is reportedly
 
 **Entities:** [[Cerebras]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-17-breaking-cursor-in-advanced-talks-on-2b-round-at-50b-valuati]] · [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-04-20-cursor-in-talks-to-raise-2b-at-50b-valuation]] · [[2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation]]
+**Related:** [[2026-04-17-breaking-cursor-in-advanced-talks-on-2b-round-at-50b-valuati]] · [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation]] · [[2026-05-16-elon-musk-s-xai-is-pursuing-a-three-way-alliance-with-french]]
 <!-- graph:end -->

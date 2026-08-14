@@ -22,14 +22,9 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo
-- 2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode
-- 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
-- 2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers
-- 2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models
+dedupe_status: duplicate
+canonical_article_id: 2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv
+related_article_ids: []
 embedding_id: 2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan
 event_name: ''
 ---
@@ -43,5 +38,5 @@ Reuters reported exclusively that China's Ministry of Commerce held talks with A
 
 **Entities:** [[Alibaba]] · [[ByteDance]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo]] · [[2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode]] · [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers]] · [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]]
+**Canonical:** [[2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv]]
 <!-- graph:end -->

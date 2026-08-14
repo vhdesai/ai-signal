@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe
 - 2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai
-- 2026-06-21-openai-and-anthropic-ipos-approaching-1t-valuations-while-bo
-- 2026-06-05-openai-and-anthropic-share-90-investors-as-both-race-toward
 - 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
+- 2026-06-05-openai-and-anthropic-share-90-investors-as-both-race-toward
+- 2026-07-09-anthropic-reportedly-reaches-1-2t-valuation-on-secondary-mar
 embedding_id: 2026-04-02-despite-the-record-raise-openai-s-secondary-market-position
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Despite the record raise, OpenAI's secondary market position is showing cracks. 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe]] · [[2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-valuations-while-bo]] · [[2026-06-05-openai-and-anthropic-share-90-investors-as-both-race-toward]] · [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]]
+**Related:** [[2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe]] · [[2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai]] · [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]] · [[2026-06-05-openai-and-anthropic-share-90-investors-as-both-race-toward]] · [[2026-07-09-anthropic-reportedly-reaches-1-2t-valuation-on-secondary-mar]]
 <!-- graph:end -->

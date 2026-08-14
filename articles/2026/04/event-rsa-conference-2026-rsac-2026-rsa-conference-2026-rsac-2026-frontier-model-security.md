@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents
-- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview
 - 2026-04-07-research-breakthroughs
-- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications
+- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview
 - 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
+- 2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo
 embedding_id: event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-frontier-model-security
 event_name: RSA Conference 2026 / RSAC 2026
 ---
@@ -40,5 +40,5 @@ The corpus connects RSAC to Anthropic's Claude Mythos cybersecurity evaluations,
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview]] · [[2026-04-07-research-breakthroughs]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications]] · [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]]
+**Related:** [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents]] · [[2026-04-07-research-breakthroughs]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview]] · [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo]]
 <!-- graph:end -->

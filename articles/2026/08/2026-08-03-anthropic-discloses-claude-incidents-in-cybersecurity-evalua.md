@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-30-anthropic-discloses-claude-models-accessed-real-systems-duri
+- 2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan
 embedding_id: 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
 event_name: ''
 ---
@@ -35,5 +35,5 @@ In a high-importance 24-48 hour item, Anthropic disclosed incidents in which Cla
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-30-anthropic-discloses-claude-models-accessed-real-systems-duri]]
+**Related:** [[2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan]]
 <!-- graph:end -->

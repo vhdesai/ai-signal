@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-05-no-confirmed-items-in-the-last-24-hours-frontier-model-track
 - 2026-06-15-arxiv-june-15-listing-icml-uai-and-colt-2026-accepted-papers
 - 2026-07-05-icml-2026-awards-highlight-diffusion-sampling-diffusion-lang
-- 2026-07-07-july-7-2026
+- 2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma
 - 2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on
 embedding_id: 2026-07-06-icml-2026-opens-in-seoul
 event_name: ''
@@ -38,5 +38,5 @@ The 43rd International Conference on Machine Learning opened July 6 at Seoul's C
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-05-no-confirmed-items-in-the-last-24-hours-frontier-model-track]] · [[2026-06-15-arxiv-june-15-listing-icml-uai-and-colt-2026-accepted-papers]] · [[2026-07-05-icml-2026-awards-highlight-diffusion-sampling-diffusion-lang]] · [[2026-07-07-july-7-2026]] · [[2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on]]
+**Related:** [[2026-07-05-no-confirmed-items-in-the-last-24-hours-frontier-model-track]] · [[2026-06-15-arxiv-june-15-listing-icml-uai-and-colt-2026-accepted-papers]] · [[2026-07-05-icml-2026-awards-highlight-diffusion-sampling-diffusion-lang]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on]]
 <!-- graph:end -->

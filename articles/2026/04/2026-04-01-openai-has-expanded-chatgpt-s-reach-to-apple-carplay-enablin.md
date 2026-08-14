@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
-- 2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
 - 2026-08-06-openai-expands-free-chatgpt-text-access-with-gpt-5-6-luna
 - 2026-07-10-openai-launches-chatgpt-work-agentic-assistant-and-gpt-live
 - 2026-07-10-openai-introduces-chatgpt-work-as-a-gpt-5-6-powered-professi
+- 2026-05-15-openai-launches-personal-finance-experience-in-chatgpt
 embedding_id: 2026-04-01-openai-has-expanded-chatgpt-s-reach-to-apple-carplay-enablin
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI has expanded ChatGPT's reach to Apple CarPlay, enabling hands-free conver
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]] · [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]] · [[2026-08-06-openai-expands-free-chatgpt-text-access-with-gpt-5-6-luna]] · [[2026-07-10-openai-launches-chatgpt-work-agentic-assistant-and-gpt-live]] · [[2026-07-10-openai-introduces-chatgpt-work-as-a-gpt-5-6-powered-professi]]
+**Related:** [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]] · [[2026-08-06-openai-expands-free-chatgpt-text-access-with-gpt-5-6-luna]] · [[2026-07-10-openai-launches-chatgpt-work-agentic-assistant-and-gpt-live]] · [[2026-07-10-openai-introduces-chatgpt-work-as-a-gpt-5-6-powered-professi]] · [[2026-05-15-openai-launches-personal-finance-experience-in-chatgpt]]
 <!-- graph:end -->

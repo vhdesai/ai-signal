@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-10-products-tools-openai-launches-100-month-chatgpt-pro-tier-fo
 - 2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai
 - 2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
-- 2026-08-10-openai-introduces-premium-seats-for-chatgpt-business-at-125
+- 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
+- 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade
 embedding_id: 2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI announced a new $100/month ChatGPT Pro subscription tier on April 9, brid
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Related:** [[2026-04-10-products-tools-openai-launches-100-month-chatgpt-pro-tier-fo]] · [[2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai]] · [[2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-08-10-openai-introduces-premium-seats-for-chatgpt-business-at-125]]
+**Related:** [[2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai]] · [[2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade]]
 <!-- graph:end -->

@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after
-- 2026-07-17-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti
-- 2026-07-18-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti
 - 2026-08-12-unitree-s-shanghai-robotics-ipo-draws-8-000x-retail-oversubs
-- 2026-07-21-robotics-startup-humanoid-raises-series-a-at-35b
+- 2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human
+- 2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the
+- 2026-05-03-anthropic-approaches-900b-valuation-50b-round-could-close-wi
+- 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
 embedding_id: 2026-07-05-agility-robotics-is-going-public-via-spac
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Agility Robotics, maker of the Digit humanoid robot, is merging with Churchill C
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]] · [[2026-07-17-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti]] · [[2026-07-18-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti]] · [[2026-08-12-unitree-s-shanghai-robotics-ipo-draws-8-000x-retail-oversubs]] · [[2026-07-21-robotics-startup-humanoid-raises-series-a-at-35b]]
+**Related:** [[2026-08-12-unitree-s-shanghai-robotics-ipo-draws-8-000x-retail-oversubs]] · [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the]] · [[2026-05-03-anthropic-approaches-900b-valuation-50b-round-could-close-wi]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]]
 <!-- graph:end -->

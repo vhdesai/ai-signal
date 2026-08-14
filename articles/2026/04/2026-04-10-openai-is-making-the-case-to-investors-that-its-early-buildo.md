@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
-- 2026-04-10-openai-pitches-infrastructure-advantage-over-anthropic-to-in
-- 2026-06-21-openai-and-anthropic-ipos-approaching-1t-valuations-while-bo
+- 2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u
 - 2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation
 - 2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it
+- 2026-04-02-despite-the-record-raise-openai-s-secondary-market-position
 embedding_id: 2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI is making the case to investors that its early buildout of AI infrastruct
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-04-10-openai-pitches-infrastructure-advantage-over-anthropic-to-in]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-valuations-while-bo]] · [[2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation]] · [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]]
+**Related:** [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u]] · [[2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation]] · [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]] · [[2026-04-02-despite-the-record-raise-openai-s-secondary-market-position]]
 <!-- graph:end -->

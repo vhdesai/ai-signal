@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-google-rebuilds-the-gemini-app-from-scratch-with-neural-expr
-- 2026-05-22-google-published-a-major-update-to-its-gemini-for-science-in
 - 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
 - 2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles
 - 2026-05-19-google-gemini-3-1-ultra-2m-token-context-native-multimodal-b
+- 2026-05-05-google-launched-event-driven-webhooks-support-in-the-gemini
 embedding_id: 2026-03-24-google-labs-march-18-update-transformed-stitch-from-a-simple
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google Labs' March 18 update transformed Stitch from a simple UI mockup tool int
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-google-rebuilds-the-gemini-app-from-scratch-with-neural-expr]] · [[2026-05-22-google-published-a-major-update-to-its-gemini-for-science-in]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles]] · [[2026-05-19-google-gemini-3-1-ultra-2m-token-context-native-multimodal-b]]
+**Related:** [[2026-05-26-google-rebuilds-the-gemini-app-from-scratch-with-neural-expr]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles]] · [[2026-05-19-google-gemini-3-1-ultra-2m-token-context-native-multimodal-b]] · [[2026-05-05-google-launched-event-driven-webhooks-support-in-the-gemini]]
 <!-- graph:end -->

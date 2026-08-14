@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-07-meta-launches-muse-image-generator
 - 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
 - 2026-07-07-meta-launches-muse-image-generator-amid-privacy-backlash
-- 2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top
 - 2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use
+- 2026-07-07-meta-launches-muse-image-first-model-from-meta-superintellig
 embedding_id: 2026-04-20-meta-ai-april-8-2026-updated-apr-19-meta-expanded-access-to
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta AI • April 8, 2026 (updated Apr 19) Meta expanded access to Muse Spark, i
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-07-meta-launches-muse-image-generator]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-07-07-meta-launches-muse-image-generator-amid-privacy-backlash]] · [[2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top]] · [[2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use]]
+**Related:** [[2026-07-07-meta-launches-muse-image-generator]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-07-07-meta-launches-muse-image-generator-amid-privacy-backlash]] · [[2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use]] · [[2026-07-07-meta-launches-muse-image-first-model-from-meta-superintellig]]
 <!-- graph:end -->

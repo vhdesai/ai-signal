@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-02-microsoft-launches-microsoft-frontier-a-2-5b-enterprise-ai-d
 - 2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed
+- 2026-07-02-microsoft-launches-frontier-company-an-outcome-driven-ai-dep
 - 2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0
 - 2026-07-02-microsoft-launches-frontier-company-a-6-000-person-forward-d
-- 2026-07-02-microsoft-launches-frontier-company-an-outcome-driven-ai-dep
 embedding_id: 2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a
 event_name: ''
 ---
@@ -40,5 +40,5 @@ On Thursday, Microsoft launched Microsoft Frontier Company, a new operating busi
 
 **Entities:** [[Amazon]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-02-microsoft-launches-microsoft-frontier-a-2-5b-enterprise-ai-d]] · [[2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed]] · [[2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0]] · [[2026-07-02-microsoft-launches-frontier-company-a-6-000-person-forward-d]] · [[2026-07-02-microsoft-launches-frontier-company-an-outcome-driven-ai-dep]]
+**Related:** [[2026-07-02-microsoft-launches-microsoft-frontier-a-2-5b-enterprise-ai-d]] · [[2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed]] · [[2026-07-02-microsoft-launches-frontier-company-an-outcome-driven-ai-dep]] · [[2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0]] · [[2026-07-02-microsoft-launches-frontier-company-a-6-000-person-forward-d]]
 <!-- graph:end -->

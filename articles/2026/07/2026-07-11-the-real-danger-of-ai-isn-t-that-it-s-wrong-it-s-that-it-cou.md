@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users
 - 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
-- 2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur
+- 2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users
 - 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
+- 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
 embedding_id: 2026-07-11-the-real-danger-of-ai-isn-t-that-it-s-wrong-it-s-that-it-cou
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Business Insider summarized research on “cognitive surrender” and “epistem
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]] · [[2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]]
+**Related:** [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]] · [[2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]]
 <!-- graph:end -->

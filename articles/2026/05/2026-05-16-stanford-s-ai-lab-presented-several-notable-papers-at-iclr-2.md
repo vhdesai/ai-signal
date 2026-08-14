@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights
-- 2026-05-16-stanford-iclr-2026-highlights-from-sail-s-paper-slate
-- 2026-05-16-source-stanford-ai-lab-blog-iclr-2026-rio-de-janeiro-april-2
 - 2026-04-22-academic-research
-- 2026-05-15-ieee-spectrum-stanford-hai-referenced-may-15-2026
+- 2026-05-02-the-university-of-washington-s-math-ai-laboratory-announced
+- 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
+- 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 embedding_id: 2026-05-16-stanford-s-ai-lab-presented-several-notable-papers-at-iclr-2
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Stanford's AI Lab presented several notable papers at ICLR 2026. Highlights: Acc
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]] · [[2026-05-16-stanford-iclr-2026-highlights-from-sail-s-paper-slate]] · [[2026-05-16-source-stanford-ai-lab-blog-iclr-2026-rio-de-janeiro-april-2]] · [[2026-04-22-academic-research]] · [[2026-05-15-ieee-spectrum-stanford-hai-referenced-may-15-2026]]
+**Related:** [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]] · [[2026-04-22-academic-research]] · [[2026-05-02-the-university-of-washington-s-math-ai-laboratory-announced]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]]
 <!-- graph:end -->

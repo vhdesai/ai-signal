@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-08-replit-ceo-amjad-masad-disclosed-at-techcrunch-s-strictlyvc
 - 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
-- 2026-05-02-replit-ceo-1b-arr-run-rate-declines-acquisition-amid-cursor
-- 2026-05-08-replit-hits-1b-annual-run-rate-ceo-comments-on-cursor-s-repo
+- 2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc
+- 2026-05-02-replit-s-amjad-masad-on-the-cursor-deal-and-apple-friction
 embedding_id: 2026-05-02-replit-ceo-amjad-masad-disclosed-at-strictlyvc-that-replit-i
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Replit CEO Amjad Masad disclosed at StrictlyVC that Replit is running at a $1 bi
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-08-replit-ceo-amjad-masad-disclosed-at-techcrunch-s-strictlyvc]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-05-02-replit-ceo-1b-arr-run-rate-declines-acquisition-amid-cursor]] · [[2026-05-08-replit-hits-1b-annual-run-rate-ceo-comments-on-cursor-s-repo]]
+**Related:** [[2026-05-08-replit-ceo-amjad-masad-disclosed-at-techcrunch-s-strictlyvc]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-02-replit-s-amjad-masad-on-the-cursor-deal-and-apple-friction]]
 <!-- graph:end -->

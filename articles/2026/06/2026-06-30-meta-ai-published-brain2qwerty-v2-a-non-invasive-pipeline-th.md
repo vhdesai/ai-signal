@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-29-meta-s-brain2qwerty-v2-decodes-typed-sentences-from-brain-si
-- 2026-06-30-meta-ai-unveils-brain2qwerty-v2-a-non-invasive-brain-to-text
 - 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 - 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
+- 2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl
 embedding_id: 2026-06-30-meta-ai-published-brain2qwerty-v2-a-non-invasive-pipeline-th
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta AI published Brain2Qwerty v2, a non-invasive pipeline that decodes typed se
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-29-meta-s-brain2qwerty-v2-decodes-typed-sentences-from-brain-si]] · [[2026-06-30-meta-ai-unveils-brain2qwerty-v2-a-non-invasive-brain-to-text]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]]
+**Related:** [[2026-06-29-meta-s-brain2qwerty-v2-decodes-typed-sentences-from-brain-si]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl]]
 <!-- graph:end -->

@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 101
+member_count: 84
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 101 connected article(s).
+> Auto-generated entity hub. 84 connected article(s).
 
 - `2026-08-13` [[2026-08-13-databricks-settles-on-5b-raise-at-a-190b-valuation|Databricks settles on $5B raise at a $190B valuation]]
 - `2026-08-13` [[2026-08-13-databricks-raises-5b-at-a-190b-valuation-as-annualized-reven|Databricks Raises $5B at a $190B Valuation as Annualized Revenue Tops $7B]]
@@ -25,7 +25,6 @@ member_count: 101
 - `2026-08-06` [[2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights|Rep. Ro Khanna to introduce a “Data Center Bill of Rights”]]
 - `2026-08-06` [[2026-08-06-openai-partners-with-the-american-psychological-association|OpenAI partners with the American Psychological Association on youth mental health]]
 - `2026-08-06` [[2026-08-06-databricks-releases-enterprise-grounded-reasoning-benchmark|Databricks Releases Enterprise Grounded-Reasoning Benchmark, Adds Kimi K3 to Model Marketplace]]
-- `2026-08-05` [[2026-08-05-coverage-note-no-items-with-a-confirmed-publication-date-ins|Coverage note: No items with a confirmed publication date inside the 24-hour window were found for Google/DeepMind, Meta, Apple, IBM, Cerebras, Databricks, Mistral, Replit, Tencent, Baidu, Alibaba, Huawei, SenseTime or DeepSeek, or from BAIR, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin and UC San Diego. Absence indicates nothing date-verified in the window, not an absence of activity. Several aggregator items dated August 4 were traced to older originals and excluded; Palantir Q2 earnings and DeepSeek V4-Flash fell just outside the window (August 3).]]
 - `2026-08-04` [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g|Open-weight models close the frontier gap while the safety gap persists]]
 - `2026-08-03` [[2026-08-03-databricks-makes-variant-generally-available-for-semi-struct|Databricks makes Variant generally available for semi-structured data]]
 - `2026-08-03` [[2026-08-03-databricks-completes-panther-acquisition-to-build-security-l|Databricks completes Panther acquisition to build security lakehouse strategy]]
@@ -34,19 +33,11 @@ member_count: 101
 - `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]
 - `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
 - `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
-- `2026-07-28` [[2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla|Cursor patches a high-severity Git remote-code-execution flaw (CVE-2026-63093)]]
 - `2026-07-27` [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance|NVIDIA and partners launch Open Secure AI Alliance]]
 - `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
 - `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
 - `2026-07-24` [[2026-07-24-enterprise-ai-consolidates-as-infrastructure-provenance-and|Enterprise AI Consolidates as Infrastructure, Provenance, and Safety Take Center Stage]]
-- `2026-07-23` [[2026-07-23-microsoft-and-databricks-extend-their-partnership-into-the-2|Microsoft and Databricks extend their partnership into the 2030s]]
-- `2026-07-23` [[2026-07-23-databricks-extends-its-microsoft-azure-partnership-into-the|Databricks extends its Microsoft Azure partnership into the 2030s]]
-- `2026-07-23` [[2026-07-23-databricks-extends-microsoft-azure-partnership-into-the-2030|Databricks Extends Microsoft Azure Partnership into the 2030s]]
 - `2026-07-23` [[2026-07-23-daily-ai-news-digest-july-24-2026|Daily AI News Digest – July 24, 2026]]
-- `2026-07-20` [[2026-07-20-databricks-188b-valuation-moonshot-s-ipo-plans-and-the-infor|Databricks' $188B valuation, Moonshot's IPO plans, and The Information coverage of Alphabet/SpaceX record equity sales…]]
-- `2026-07-18` [[2026-07-18-databricks-reaches-raises-at-a-188b-valuation-underlining-in|Databricks reaches/raises at a $188B valuation, underlining investor conviction in enterprise data platforms as AI…]]
-- `2026-07-17` [[2026-07-17-databricks-reaches-raises-at-a-188b-valuation-underlining-in|Databricks reaches/raises at a $188B valuation, underlining investor conviction in enterprise data platforms as AI…]]
-- `2026-07-17` [[2026-07-17-databricks-is-reported-announced-at-a-188b-valuation-with-co|Databricks is reported/announced at a $188B valuation with Coatue backing, reinforcing the centrality of data…]]
 - `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
 - `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
@@ -54,9 +45,7 @@ member_count: 101
 - `2026-07-09` [[2026-07-09-companies-blogs-nvidia-google-deepmind-openai-anthropic-mist|Companies & blogs: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras,…]]
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
-- `2026-07-05` [[2026-07-05-companies-nvidia-google-alphabet-deepmind-openai-anthropic-m|Companies: Nvidia, Google (Alphabet/DeepMind), OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
 - `2026-07-04` [[2026-07-04-companies-blogs-nvidia-google-deepmind-openai-anthropic-mist|Companies & blogs: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras,…]]
-- `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
 - `2026-07-02` [[2026-07-02-sources-scanned-companies-nvidia-google-deepmind-openai-anth|Sources scanned — Companies: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
 - `2026-06-30` [[2026-06-30-sources-scanned-companies-nvidia-google-alphabet-deepmind-op|Sources scanned: Companies — Nvidia, Google / Alphabet / DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta,…]]
 - `2026-06-30` [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i|MIT's Phillip Isola on what agentic AI is — and what we want it to be]]
@@ -66,7 +55,6 @@ member_count: 101
 - `2026-06-26` [[2026-06-26-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu|Companies: Nvidia, Google / DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras,…]]
 - `2026-06-25` [[2026-06-25-sources-scanned-companies-nvidia-google-deepmind-openai-anth|Sources scanned: Companies — Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
-- `2026-06-15` [[2026-06-15-databricks-closes-data-ai-summit-2026-with-genie-one-agent-b|Databricks Closes Data+AI Summit 2026 With Genie One, Agent Bricks, and Unity AI Gateway GA]]
 - `2026-05-28` [[2026-05-28-lowe-s-says-semantic-data-is-materially-boosting-its-ai-agen|Lowe's says "semantic" data is materially boosting its AI agents]]
 - `2026-05-27` [[2026-05-27-the-week-that-reset-the-ai-industry|The Week That Reset the AI Industry]]
 - `2026-05-27` [[2026-05-27-natural-language-query-to-configuration-for-retrieval-agents|Natural-language query to configuration for retrieval agents (Zaharia et al.)]]
@@ -82,23 +70,18 @@ member_count: 101
 - `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-overview|ACM CAIS 2026 — Overview]]
 - `2026-05-24` [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr|Systematic Review of AI-Powered ERP Systems Published in Springer (Open Access)]]
 - `2026-05-24` [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter|Enterprise AI-restructuring signals broaden: Standard Chartered cuts, Meta reorgs 7,000+ into AI teams]]
-- `2026-05-22` [[2026-05-22-microsoft-blocked-partners-including-databricks-from-connect|Microsoft blocked partners including Databricks from connecting their data management tools to Power BI, a product used by nearly all Fortune 500 firms. Microsoft cited reliability concerns, but the move is widely seen as part of a fight for control of the "semantic layer" — increasingly vital for making AI agents more accurate and cheaper to run. The battle underscores how enterprise data infrastructure is becoming a key competitive battleground in the agentic AI era.]]
 - `2026-05-21` [[2026-05-21-oracle-fusion-data-intelligence-rolls-out-to-heathrow-airpor|Oracle Fusion Data Intelligence rolls out to Heathrow Airport, Kent County Council, MTN]]
 - `2026-05-21` [[2026-05-21-databricks-ranks-3-on-cnbc-disruptor-50-hits-5-4b-run-rate-s|Databricks Ranks #3 on CNBC Disruptor 50; Hits $5.4B Run-Rate, Says "No Rush" to IPO]]
 - `2026-05-21` [[2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl|Cornell / UC Berkeley: 1 in 3 College Students Uses AI to Complete Assignments; 9% Cheat  Hot]]
 - `2026-05-20` [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma|ACM CAIS 2026 — Premier Agentic AI Systems Conference Opens May 26–29 in San Jose]]
 - `2026-05-19` [[2026-05-19-mit-csail-why-you-can-t-just-swap-humans-for-ai-q-a-with-pro|MIT CSAIL: "Why You Can't Just Swap Humans for AI" — Q&A with Prof. Armando Solar-Lezama]]
-- `2026-05-19` [[2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new|Also checked (no qualifying 24h items found): BAIR Blog · MIT News AI · Apple ML Research · Google DeepMind Blog · Meta AI Blog · The Batch (DeepLearning.AI) · Machine Learning Mastery · DigitalOcean AI Blog · Stanford HAI · Princeton · Purdue · Georgia Tech · UW Allen School · UT Austin · IBM · Oracle · Palantir · Databricks · Mistral · DeepSeek · Baidu · Alibaba · Huawei · SenseTime · Replit]]
 - `2026-05-17` [[2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r|🛠️ Products & Tools Google Launches Gemini AI Career Coach for Résumés, Interviews & Job Planning NEW Google | May 17,…]]
 - `2026-05-17` [[2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending|OpenAI announced Codex is coming to mobile (May 14), extending its agentic coding platform to phones]]
 - `2026-05-15` [[2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation|The Batch (DeepLearning.AI): China-Meta Policy, CAISI Evaluations, AI Mammogram Diagnosis]]
 - `2026-05-15` [[2026-05-15-databricks-made-its-ai-parse-document-function-generally-ava|Databricks made its ai_parse_document function generally available by default for compliance-security-profile…]]
-- `2026-05-15` [[2026-05-15-databricks-enables-ai-document-parsing-ai-parse-document-by|Databricks Enables AI Document Parsing (ai_parse_document) by Default for Compliance Workspaces]]
 - `2026-05-15` [[2026-05-15-cerebras-closes-ipo-at-95b-market-cap-kicking-off-2026-tech|Cerebras closes IPO at $95B market cap, kicking off 2026 tech IPO season]]
-- `2026-05-15` [[2026-05-15-azure-databricks-microsoft-learn-may-13-2026|Azure Databricks / Microsoft Learn | May 13, 2026]]
 - `2026-05-13` [[2026-05-13-forum-ai-campbell-brown-s-benchmark-platform-tests-foundatio|Forum AI: Campbell Brown's Benchmark Platform Tests Foundation Models on Contested High-Stakes Domains]]
 - `2026-05-13` [[2026-05-13-databricks-makes-ai-parse-document-generally-available-adds|Databricks Makes ai_parse_document Generally Available, Adds HIPAA/C5/TISAX Profiles]]
-- `2026-05-12` [[2026-05-12-companies-nvidia-google-deepmind-openai-anthropic-mistral-me|Companies: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Meta, Apple, Amazon, Cerebras, IBM, Baidu, Alibaba, Palantir, Sakana AI, Tilde Research · News: TechCrunch AI, VentureBeat AI, The Hacker News, Bloomberg, Reuters, Forbes, CNBC, CRN, Decrypt, Motley Fool, SCMP, India Today, Gizmodo, The Next Web, Inc., MarkTechPost · Research: arXiv cs.AI, MIT Technology Review, Stanford HAI, NVIDIA Blog, The Neuron Daily, METR, Google Cloud Blog (GTIG) · No confirmed May 11–12 items: Mistral Blog, Replit, Databricks, Huawei, SenseTime, Cursor, DeepSeek, BAIR Blog, Apple ML Research Blog, MIT News, The Batch (DeepLearning.AI), Princeton AI, UT Austin, Georgia Tech, UCSD, Purdue]]
 - `2026-05-06` [[2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on|NewUC Berkeley, Stanford & CMU Launch ACM CAIS 2026 Workshop on AI Discovery Agents]]
 - `2026-05-05` [[2026-05-05-researchers-from-uc-berkeley-stanford-cmu-databricks-and-goo|Researchers from UC Berkeley, Stanford, CMU, Databricks, and Google announced the ACM CAIS 2026 workshop "AI Agents for…]]
 - `2026-05-05` [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training|Meta Copyright Lawsuit Elevates CEO Liability in AI Training Data Governance Trending]]

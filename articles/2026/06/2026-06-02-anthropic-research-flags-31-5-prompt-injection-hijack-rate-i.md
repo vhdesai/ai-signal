@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-06-03_083329_Inbox_Daily AI News Digest – June 3,
   2026 (Updated).md
-content_hash: 8aa117fa8cf9d3d7dcaa557d40fc2e83f99b180333c3939682d3d8570a671491
+content_hash: 443ad26da22870f64de29c7e3f498f31375470993f5e5ed91748a717712c210f
 normalized_title_hash: 6c5eedf8eb1b2677
 canonical_url_hash: ''
 tags:
@@ -23,21 +23,21 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
 - 2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open
-- 2026-05-15-anthropic-surpasses-openai-in-u-s-business-ai-adoption-34-4
-- 2026-07-30-anthropic-discloses-claude-models-accessed-real-systems-duri
 - 2026-07-28-anthropic-s-unreleased-claude-mythos-model-discovers-two-nov
+- 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
+- 2026-06-06-anthropic-suffers-multi-model-claude-outage
 embedding_id: 2026-06-02-anthropic-research-flags-31-5-prompt-injection-hijack-rate-i
 event_name: ''
 ---
 
 # Anthropic Research Flags ~31.5% Prompt-Injection Hijack Rate in Browser Agents
 
-Reporting on Anthropic findings cited a ~31.5% successful prompt-injection hijack rate against browser-using agents in adversarial testing, underscoring that autonomous web agents remain exploitable in production-like conditions. The figure adds quantitative weight to the broader “agent security” theme dominating this week’s enterprise security coverage. Single-source secondary reporting—treat the specific percentage as indicative pending first-party confirmation. URL not verified.
+Reporting on Anthropic findings cited a ~31.5% successful prompt-injection hijack rate against browser-using agents in adversarial testing, underscoring that autonomous web agents remain exploitable in production-like conditions. The figure adds quantitative weight to the broader “agent security” theme dominating this week’s enterprise security coverage. Single-source secondary reporting—treat the specific percentage as indicative pending first-party confirmation.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]] · [[2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open]] · [[2026-05-15-anthropic-surpasses-openai-in-u-s-business-ai-adoption-34-4]] · [[2026-07-30-anthropic-discloses-claude-models-accessed-real-systems-duri]] · [[2026-07-28-anthropic-s-unreleased-claude-mythos-model-discovers-two-nov]]
+**Related:** [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]] · [[2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open]] · [[2026-07-28-anthropic-s-unreleased-claude-mythos-model-discovers-two-nov]] · [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]]
 <!-- graph:end -->

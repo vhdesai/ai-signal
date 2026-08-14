@@ -17,9 +17,14 @@ entities: []
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
+- 2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust
+- 2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model
+- 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
+- 2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202
 embedding_id: 2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man
 event_name: ''
 ---
@@ -32,5 +37,5 @@ TechCrunch published an in-depth investigation into the enterprise AI cost crisi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs]]
+**Related:** [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]]
 <!-- graph:end -->

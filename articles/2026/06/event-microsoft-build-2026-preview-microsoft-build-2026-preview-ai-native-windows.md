@@ -24,9 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent
-- event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero
 - event-microsoft-build-2026-microsoft-build-2026-overview
-- event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero
 embedding_id: event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
 event_name: Microsoft Build 2026 Preview
 ---
@@ -40,5 +39,5 @@ The corpus expects deeper Copilot integration into the Windows shell, OS-level a
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero]] · [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications]]
+**Related:** [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent]] · [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero]]
 <!-- graph:end -->

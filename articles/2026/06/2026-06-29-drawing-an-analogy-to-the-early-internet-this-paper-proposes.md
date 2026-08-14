@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-29-ai-modelnet-an-internet-of-models-architecture-for-collabora
 - 2026-04-06-research-from-uc-berkeley-found-that-large-ai-models-when-pl
 - 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
 - 2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear
 - 2026-05-14-the-inaugural-acm-conference-on-ai-and-agentic-systems-accep
+- 2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop
 embedding_id: 2026-06-29-drawing-an-analogy-to-the-early-internet-this-paper-proposes
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Drawing an analogy to the early Internet, this paper proposes the concept, visio
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-29-ai-modelnet-an-internet-of-models-architecture-for-collabora]] · [[2026-04-06-research-from-uc-berkeley-found-that-large-ai-models-when-pl]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]] · [[2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear]] · [[2026-05-14-the-inaugural-acm-conference-on-ai-and-agentic-systems-accep]]
+**Related:** [[2026-04-06-research-from-uc-berkeley-found-that-large-ai-models-when-pl]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]] · [[2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear]] · [[2026-05-14-the-inaugural-acm-conference-on-ai-and-agentic-systems-accep]] · [[2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop]]
 <!-- graph:end -->

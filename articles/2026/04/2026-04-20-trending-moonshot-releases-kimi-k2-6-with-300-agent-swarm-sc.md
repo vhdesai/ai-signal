@@ -20,11 +20,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-27-moonshot-ai-releases-kimi-k3-the-largest-open-weight-model-y
-- 2026-07-17-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse
-- 2026-07-18-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse
+- 2026-07-27-moonshot-ai-s-kimi-k3-open-weights-go-live-the-largest-open
+- 2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo
+- 2026-07-27-kimi-k3-open-weights-go-live-the-largest-open-weight-model-y
 - 2026-07-27-moonshot-ai-opens-kimi-k3-weights-for-public-download
-- 2026-07-27-kimi-k3-weights-go-live-the-largest-open-model-ever-at-2-8t
+- 2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s
 embedding_id: 2026-04-20-trending-moonshot-releases-kimi-k2-6-with-300-agent-swarm-sc
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Moonshot AI released Kimi K2.6 on Hugging Face with long-horizon coding capabili
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-27-moonshot-ai-releases-kimi-k3-the-largest-open-weight-model-y]] · [[2026-07-17-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse]] · [[2026-07-18-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse]] · [[2026-07-27-moonshot-ai-opens-kimi-k3-weights-for-public-download]] · [[2026-07-27-kimi-k3-weights-go-live-the-largest-open-model-ever-at-2-8t]]
+**Related:** [[2026-07-27-moonshot-ai-s-kimi-k3-open-weights-go-live-the-largest-open]] · [[2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo]] · [[2026-07-27-kimi-k3-open-weights-go-live-the-largest-open-weight-model-y]] · [[2026-07-27-moonshot-ai-opens-kimi-k3-weights-for-public-download]] · [[2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s]]
 <!-- graph:end -->

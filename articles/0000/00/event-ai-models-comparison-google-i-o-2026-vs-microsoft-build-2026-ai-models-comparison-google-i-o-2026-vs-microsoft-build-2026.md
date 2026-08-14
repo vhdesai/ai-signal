@@ -25,8 +25,8 @@ related_article_ids:
 - event-google-i-o-2026-google-i-o-2026-strategic-implications
 - event-microsoft-build-2026-microsoft-build-2026-strategic-implications
 - event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications
-- event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications
 - event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications
 embedding_id: event-ai-models-comparison-google-i-o-2026-vs-microsoft-build-2026-ai-models-comparison-google-i-o-2026-vs-microsoft-build-2026
 event_name: 'AI Models Comparison: Google I/O 2026 vs Microsoft Build 2026'
 ---
@@ -40,5 +40,5 @@ event_name: 'AI Models Comparison: Google I/O 2026 vs Microsoft Build 2026'
 
 **Entities:** [[Google]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-google-i-o-2026-google-i-o-2026-strategic-implications]] · [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]] · [[event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models]]
+**Related:** [[event-google-i-o-2026-google-i-o-2026-strategic-implications]] · [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]] · [[event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications]]
 <!-- graph:end -->

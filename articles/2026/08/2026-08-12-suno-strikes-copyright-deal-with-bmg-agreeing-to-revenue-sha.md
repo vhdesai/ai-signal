@@ -25,7 +25,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
-- 2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app
+- event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2
 - 2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r
 embedding_id: 2026-08-12-suno-strikes-copyright-deal-with-bmg-agreeing-to-revenue-sha
 event_name: ''
@@ -40,5 +40,5 @@ AI music startup Suno signed its second major label deal with BMG (world’s 4th
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app]] · [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]]
+**Related:** [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2]] · [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]]
 <!-- graph:end -->

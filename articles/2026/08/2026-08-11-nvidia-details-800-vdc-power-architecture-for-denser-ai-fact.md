@@ -22,8 +22,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-24-nvidia-naver-and-brookfield-triple-an-ai-factory-to-200mw
 - 2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet
+- 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 - 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
 embedding_id: 2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact
 event_name: ''
@@ -38,5 +38,5 @@ NVIDIA described an 800 VDC power architecture designed to reduce conversion los
 
 **Entities:** [[Google]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-24-nvidia-naver-and-brookfield-triple-an-ai-factory-to-200mw]] · [[2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet]] · [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]]
+**Related:** [[2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]]
 <!-- graph:end -->

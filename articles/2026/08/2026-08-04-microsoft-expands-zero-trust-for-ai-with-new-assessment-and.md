@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents
 - 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
+- 2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb
 - event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib
 - 2026-08-04-microsoft-adds-an-in-meeting-report-button-to-teams-to-count
-- 2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra
 embedding_id: 2026-08-04-microsoft-expands-zero-trust-for-ai-with-new-assessment-and
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft added a new AI-focused pillar to its Zero Trust Assessment tool and a 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib]] · [[2026-08-04-microsoft-adds-an-in-meeting-report-button-to-teams-to-count]] · [[2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra]]
+**Related:** [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb]] · [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib]] · [[2026-08-04-microsoft-adds-an-in-meeting-report-button-to-teams-to-count]]
 <!-- graph:end -->

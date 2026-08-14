@@ -20,9 +20,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-16-nvidia-introduces-jetson-thor-t3000-t2000-modules-for-roboti
 - 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
-- 2026-05-22-nvidia-sweeps-computex-2026-best-choice-awards-vera-rubin-nv
+- 2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica
 - 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
 embedding_id: 2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development
 event_name: ''
@@ -37,5 +36,5 @@ NVIDIA highlighted Jetson as a compact edge-AI and robotics platform for student
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-16-nvidia-introduces-jetson-thor-t3000-t2000-modules-for-roboti]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[2026-05-22-nvidia-sweeps-computex-2026-best-choice-awards-vera-rubin-nv]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]]
+**Related:** [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]]
 <!-- graph:end -->

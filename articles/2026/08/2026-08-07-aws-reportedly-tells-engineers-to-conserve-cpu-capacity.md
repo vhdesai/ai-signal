@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity-as-t
 - 2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch
 - 2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai
-- 2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter
+- 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
 embedding_id: 2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity
 event_name: ''
 ---
@@ -37,5 +37,5 @@ AWS managers have reportedly instructed internal engineering teams to reduce com
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity-as-t]] · [[2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch]] · [[2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai]] · [[2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter]]
+**Related:** [[2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity-as-t]] · [[2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch]] · [[2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]]
 <!-- graph:end -->

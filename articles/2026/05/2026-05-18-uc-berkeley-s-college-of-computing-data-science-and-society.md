@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-18-uc-berkeley-ai-experts-flag-2026-key-watchpoints-agents-ethi
-- 2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 - 2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme
 - 2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier
+- 2026-06-27-stanford-s-2026-ai-index-investment-surges-as-jobs-and-publi
+- 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
 embedding_id: 2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society
 event_name: ''
 ---
@@ -37,5 +37,5 @@ UC Berkeley's College of Computing, Data Science, and Society polled 11 leading 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-18-uc-berkeley-ai-experts-flag-2026-key-watchpoints-agents-ethi]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme]] · [[2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier]]
+**Related:** [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme]] · [[2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier]] · [[2026-06-27-stanford-s-2026-ai-index-investment-surges-as-jobs-and-publi]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]]
 <!-- graph:end -->

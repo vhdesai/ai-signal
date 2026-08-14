@@ -23,9 +23,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-18-anthropic-arr-crosses-44b-after-80x-q1-yoy-growth-200b-googl
-- 2026-05-14-anthropic-q1-2026-arr-surpasses-44-billion-80-year-over-year
 - 2026-04-21-hot-anthropic-arr-reportedly-hits-30b-on-claude-opus-4-7
+- 2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year
 embedding_id: 2026-05-13-anthropic-arr-crosses-44b-on-80x-yoy-growth-customers-willin
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Anthropic's ARR has now surpassed $44B, growing 80x year over year and powered b
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-18-anthropic-arr-crosses-44b-after-80x-q1-yoy-growth-200b-googl]] · [[2026-05-14-anthropic-q1-2026-arr-surpasses-44-billion-80-year-over-year]] · [[2026-04-21-hot-anthropic-arr-reportedly-hits-30b-on-claude-opus-4-7]]
+**Related:** [[2026-04-21-hot-anthropic-arr-reportedly-hits-30b-on-claude-opus-4-7]] · [[2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year]]
 <!-- graph:end -->

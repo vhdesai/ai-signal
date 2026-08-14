@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint
-- 2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
 - 2026-07-10-openai-introduces-chatgpt-work-as-a-gpt-5-6-powered-professi
+- 2026-08-08-openai-acquires-presentation-startup-nextslide-team-joins-ch
 - 2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app
-- 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
+- 2026-07-10-chatgpt-work-launches-after-u-s-government-approval
 embedding_id: 2026-05-26-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI quietly launched a beta ChatGPT add-in for PowerPoint over the weekend, l
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint]] · [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]] · [[2026-07-10-openai-introduces-chatgpt-work-as-a-gpt-5-6-powered-professi]] · [[2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]]
+**Related:** [[2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint]] · [[2026-07-10-openai-introduces-chatgpt-work-as-a-gpt-5-6-powered-professi]] · [[2026-08-08-openai-acquires-presentation-startup-nextslide-team-joins-ch]] · [[2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app]] · [[2026-07-10-chatgpt-work-launches-after-u-s-government-approval]]
 <!-- graph:end -->

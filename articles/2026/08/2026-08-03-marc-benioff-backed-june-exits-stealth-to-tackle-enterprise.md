@@ -18,9 +18,14 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-08-03-june-emerges-from-stealth-with-20-million-to-automate-enterp
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-08-03-marc-benioff-backed-june-raises-20-million-to-automate-ai-de
+- 2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o
+- 2026-06-29-daily-ai-news-digest-june-29-2026
+- 2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent
+- 2026-07-03-enterprises-move-in-big-tech-builds-deployment-armies-as-the
 embedding_id: 2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise
 event_name: ''
 ---
@@ -34,5 +39,5 @@ June emerged from stealth with a $20 million pre-seed round — backed by Salesf
 
 **Entities:** [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-08-03-june-emerges-from-stealth-with-20-million-to-automate-enterp]]
+**Related:** [[2026-08-03-marc-benioff-backed-june-raises-20-million-to-automate-ai-de]] · [[2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]] · [[2026-07-03-enterprises-move-in-big-tech-builds-deployment-armies-as-the]]
 <!-- graph:end -->

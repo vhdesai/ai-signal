@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-10-salesforce-announced-a-major-slackbot-upgrade-adding-30-new
 - 2026-04-03-salesforce-announced-a-major-slackbot-overhaul-reusable-ai-s
-- 2026-04-03-salesforce-transforms-slackbot-into-autonomous-work-assistan
-- 2026-04-04-salesforce-overhauls-slack-with-30-new-ai-features-slackbot
+- 2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts
+- 2026-04-02-new-salesforce-adds-30-ai-features-to-slack-apr-1-salesforce
 embedding_id: 2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Salesforce CEO Marc Benioff unveiled a comprehensive Slack overhaul featuring 30
 ## Connections
 
 **Entities:** [[Microsoft]] · [[Salesforce]]
-**Related:** [[2026-04-10-salesforce-announced-a-major-slackbot-upgrade-adding-30-new]] · [[2026-04-03-salesforce-announced-a-major-slackbot-overhaul-reusable-ai-s]] · [[2026-04-03-salesforce-transforms-slackbot-into-autonomous-work-assistan]] · [[2026-04-04-salesforce-overhauls-slack-with-30-new-ai-features-slackbot]]
+**Related:** [[2026-04-10-salesforce-announced-a-major-slackbot-upgrade-adding-30-new]] · [[2026-04-03-salesforce-announced-a-major-slackbot-overhaul-reusable-ai-s]] · [[2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts]] · [[2026-04-02-new-salesforce-adds-30-ai-features-to-slack-apr-1-salesforce]]
 <!-- graph:end -->

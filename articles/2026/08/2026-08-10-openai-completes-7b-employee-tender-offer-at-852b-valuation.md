@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-10-openai-reportedly-completes-7-billion-employee-tender-offer
 - 2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe
 - 2026-04-04-openai-completed-a-122-billion-fundraise-the-largest-single
-- 2026-08-11-openai-employees-sell-7-billion-in-tender-offer
+- 2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu
 embedding_id: 2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI completed a secondary sale allowing employees to sell roughly $7 billion 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-10-openai-completes-7b-employee-tender-offer-at-an-852b-valuati]] · [[2026-08-10-openai-reportedly-completes-7-billion-employee-tender-offer]] · [[2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe]] · [[2026-04-04-openai-completed-a-122-billion-fundraise-the-largest-single]] · [[2026-08-11-openai-employees-sell-7-billion-in-tender-offer]]
+**Related:** [[2026-08-10-openai-completes-7b-employee-tender-offer-at-an-852b-valuati]] · [[2026-08-10-openai-reportedly-completes-7-billion-employee-tender-offer]] · [[2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe]] · [[2026-04-04-openai-completed-a-122-billion-fundraise-the-largest-single]] · [[2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu]]
 <!-- graph:end -->

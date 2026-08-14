@@ -28,10 +28,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview
-- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications
 - 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
-- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications
+- 2026-03-24-apple-confirmed-wwdc-2026-will-run-june-8-12-and-its-announc
 embedding_id: event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
 event_name: 'Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models,
   and Privacy AI'
@@ -46,5 +47,5 @@ WWDC 2026 appears repeatedly in the corpus as Apple's most important AI platform
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]]
+**Related:** [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications]] · [[2026-03-24-apple-confirmed-wwdc-2026-will-run-june-8-12-and-its-announc]]
 <!-- graph:end -->

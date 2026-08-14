@@ -20,9 +20,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-31-flock-safety-license-plate-readers-misread-71-of-police-aler
 - 2026-08-09-adversarial-patterns-defeat-11-surveillance-camera-systems-a
-- 2026-06-26-ai-safety-policy-breaking-white-house-asks-openai-to-slow-ro
+- 2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles
 embedding_id: 2026-08-14-flock-safety-adds-ai-surveillance-safeguards-after-backlash
 event_name: ''
 ---
@@ -35,5 +34,5 @@ Surveillance-tech company Flock Safety will add safeguards to its AI-powered lic
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-31-flock-safety-license-plate-readers-misread-71-of-police-aler]] · [[2026-08-09-adversarial-patterns-defeat-11-surveillance-camera-systems-a]] · [[2026-06-26-ai-safety-policy-breaking-white-house-asks-openai-to-slow-ro]]
+**Related:** [[2026-08-09-adversarial-patterns-defeat-11-surveillance-camera-systems-a]] · [[2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles]]
 <!-- graph:end -->

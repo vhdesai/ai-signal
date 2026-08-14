@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-08-13-ibm-embeds-openai-frontier-models-into-its-consulting-delive
 - 2026-08-13-ibm-partners-with-openai-to-accelerate-its-enterprise-ai-pus
 - 2026-08-13-ibm-partners-with-openai-to-train-tens-of-thousands-of-consu
+- 2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d
 embedding_id: 2026-08-13-ibm-embeds-openai-frontier-models-across-its-consulting-deli
 event_name: ''
 ---
@@ -40,5 +41,5 @@ IBM announced a strategic partnership placing GPT-5.6, Codex, and ChatGPT Work d
 
 **Entities:** [[Anthropic]] · [[IBM]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-13-ibm-partners-with-openai-to-embed-frontier-models-across-con]] · [[2026-08-13-ibm-embeds-openai-frontier-models-into-its-consulting-delive]] · [[2026-08-13-ibm-partners-with-openai-to-accelerate-its-enterprise-ai-pus]] · [[2026-08-13-ibm-partners-with-openai-to-train-tens-of-thousands-of-consu]]
+**Related:** [[2026-08-13-ibm-partners-with-openai-to-embed-frontier-models-across-con]] · [[2026-08-13-ibm-embeds-openai-frontier-models-into-its-consulting-delive]] · [[2026-08-13-ibm-partners-with-openai-to-accelerate-its-enterprise-ai-pus]] · [[2026-08-13-ibm-partners-with-openai-to-train-tens-of-thousands-of-consu]] · [[2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d]]
 <!-- graph:end -->

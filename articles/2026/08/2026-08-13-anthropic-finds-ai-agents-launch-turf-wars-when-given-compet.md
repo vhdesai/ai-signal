@@ -22,9 +22,9 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-08-anthropic-adds-dreaming-outcomes-and-multiagent-orchestratio
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
 - 2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them
+- 2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits
 - 2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un
 - 2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel
 embedding_id: 2026-08-13-anthropic-finds-ai-agents-launch-turf-wars-when-given-compet
@@ -40,5 +40,5 @@ Anthropic’s Frontier Red Team found that when multiple Claude agents accessed 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-08-anthropic-adds-dreaming-outcomes-and-multiagent-orchestratio]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them]] · [[2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un]] · [[2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel]]
+**Related:** [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them]] · [[2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits]] · [[2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un]] · [[2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel]]
 <!-- graph:end -->

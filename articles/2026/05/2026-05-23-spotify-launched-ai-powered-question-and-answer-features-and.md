@@ -19,9 +19,14 @@ themes:
 - datacenter-infrastructure
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-05-23-spotify-adds-ai-powered-q-a-briefing-generation-for-podcasts
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal
+- 2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re
+- 2026-08-04-spotify-adds-merlin-to-its-ai-remix-and-covers-effort-follow
+- 2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l
+- 2026-08-11-spotify-will-label-ai-persona-profiles-and-exclude-them-from
 embedding_id: 2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and
 event_name: ''
 ---
@@ -35,5 +40,5 @@ Spotify launched AI-powered question-and-answer features and briefing generation
 
 **Entities:** [[Perplexity]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Canonical:** [[2026-05-23-spotify-adds-ai-powered-q-a-briefing-generation-for-podcasts]]
+**Related:** [[2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal]] · [[2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re]] · [[2026-08-04-spotify-adds-merlin-to-its-ai-remix-and-covers-effort-follow]] · [[2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l]] · [[2026-08-11-spotify-will-label-ai-persona-profiles-and-exclude-them-from]]
 <!-- graph:end -->

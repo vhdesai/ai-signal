@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-10-big-tech-s-ai-debt-load-doubles-to-350-billion
 - 2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y
-- 2026-07-19-oracle-data-centers-reportedly-face-multibillion-dollar-cost
+- 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
 - 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
 embedding_id: 2026-08-04-oracle-nears-junk-grade-credit-rating-on-ai-data-center-debt
 event_name: ''
@@ -37,5 +37,5 @@ Reuters reports Oracle is on the cusp of a junk-grade credit rating after signin
 
 **Entities:** [[Oracle]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350-billion]] · [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]] · [[2026-07-19-oracle-data-centers-reportedly-face-multibillion-dollar-cost]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]]
+**Related:** [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350-billion]] · [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]] · [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]]
 <!-- graph:end -->

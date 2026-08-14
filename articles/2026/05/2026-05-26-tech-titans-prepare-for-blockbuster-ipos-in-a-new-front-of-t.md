@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-26-three-of-the-world-s-most-consequential-ai-adjacent-companie
 - 2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 - 2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble
 - 2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip
+- 2026-07-03-anthropic-taps-freshfields-to-steer-a-potential-trillion-dol
 embedding_id: 2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Three of the world's leading AI-adjacent companies — SpaceX, OpenAI, and Anthr
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-three-of-the-world-s-most-consequential-ai-adjacent-companie]] · [[2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble]] · [[2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip]]
+**Related:** [[2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble]] · [[2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip]] · [[2026-07-03-anthropic-taps-freshfields-to-steer-a-potential-trillion-dol]]
 <!-- graph:end -->

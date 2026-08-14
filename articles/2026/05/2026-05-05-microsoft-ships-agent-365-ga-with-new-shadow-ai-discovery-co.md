@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen
 - 2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a
-- 2026-05-14-microsoft-agent-365-goes-ga-identity-security-governance-for
 - 2026-05-02-microsoft-agent-365-generally-available
+- 2026-08-10-microsoft-ships-multi-tenant-agent-management-in-public-prev
 embedding_id: 2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft announced the general availability of Agent 365, its enterprise contro
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]] · [[2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a]] · [[2026-05-14-microsoft-agent-365-goes-ga-identity-security-governance-for]] · [[2026-05-02-microsoft-agent-365-generally-available]]
+**Related:** [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]] · [[2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a]] · [[2026-05-02-microsoft-agent-365-generally-available]] · [[2026-08-10-microsoft-ships-multi-tenant-agent-management-in-public-prev]]
 <!-- graph:end -->

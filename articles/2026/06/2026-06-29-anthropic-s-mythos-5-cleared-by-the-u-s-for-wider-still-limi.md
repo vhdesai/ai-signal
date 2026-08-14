@@ -22,8 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-27-u-s-commerce-clears-anthropic-s-mythos-5-for-100-vetted-orgs
 - 2026-06-26-u-s-clears-anthropic-s-mythos-5-for-100-trusted-partners-fab
+- 2026-06-27-u-s-commerce-clears-anthropic-s-mythos-5-for-100-vetted-orgs
+- 2026-06-27-u-s-government-partially-restores-anthropic-s-claude-mythos
 - 2026-06-27-the-u-s-commerce-department-granted-anthropic-permission-to
 - 2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e
 embedding_id: 2026-06-29-anthropic-s-mythos-5-cleared-by-the-u-s-for-wider-still-limi
@@ -39,5 +40,5 @@ Anthropic won U.S. approval to redeploy its most powerful cybersecurity model, M
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-27-u-s-commerce-clears-anthropic-s-mythos-5-for-100-vetted-orgs]] · [[2026-06-26-u-s-clears-anthropic-s-mythos-5-for-100-trusted-partners-fab]] · [[2026-06-27-the-u-s-commerce-department-granted-anthropic-permission-to]] · [[2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e]]
+**Related:** [[2026-06-26-u-s-clears-anthropic-s-mythos-5-for-100-trusted-partners-fab]] · [[2026-06-27-u-s-commerce-clears-anthropic-s-mythos-5-for-100-vetted-orgs]] · [[2026-06-27-u-s-government-partially-restores-anthropic-s-claude-mythos]] · [[2026-06-27-the-u-s-commerce-department-granted-anthropic-permission-to]] · [[2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e]]
 <!-- graph:end -->

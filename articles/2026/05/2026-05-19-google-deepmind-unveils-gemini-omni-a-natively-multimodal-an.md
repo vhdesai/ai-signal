@@ -22,6 +22,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-wo
 - 2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video
 - 2026-05-19-gemini-omni-google-s-unified-any-to-any-multimodal-model-goe
 - 2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at
@@ -38,5 +39,5 @@ DeepMind introduced Gemini Omni, a unified architecture that natively processes 
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video]] · [[2026-05-19-gemini-omni-google-s-unified-any-to-any-multimodal-model-goe]] · [[2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at]]
+**Related:** [[2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-wo]] · [[2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video]] · [[2026-05-19-gemini-omni-google-s-unified-any-to-any-multimodal-model-goe]] · [[2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at]]
 <!-- graph:end -->

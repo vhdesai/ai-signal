@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-27-microsoft-consolidates-excel-copilot-entry-points-with-new-d
 - 2026-05-27-microsoft-ships-excel-copilot-redesign-with-live-web-data-fo
 - 2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l
-- 2026-04-10-microsoft-copilot-gains-multi-model-workflows-and-cowork-age
 - 2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso
+- 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
 embedding_id: 2026-07-28-microsoft-ships-a-july-2026-excel-copilot-feature-wave
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft delivered another wave of Excel Copilot upgrades in its July 2026 upda
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-microsoft-consolidates-excel-copilot-entry-points-with-new-d]] · [[2026-05-27-microsoft-ships-excel-copilot-redesign-with-live-web-data-fo]] · [[2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l]] · [[2026-04-10-microsoft-copilot-gains-multi-model-workflows-and-cowork-age]] · [[2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso]]
+**Related:** [[2026-05-27-microsoft-consolidates-excel-copilot-entry-points-with-new-d]] · [[2026-05-27-microsoft-ships-excel-copilot-redesign-with-live-web-data-fo]] · [[2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l]] · [[2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]]
 <!-- graph:end -->

@@ -26,7 +26,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-27-hotmicrosoft-and-openai-end-cloud-exclusivity
-- 2026-05-18-microsoft-openai-end-exclusive-cloud-agreement-openai-can-no
+- 2026-04-27-
 embedding_id: 2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc
 event_name: ''
 ---
@@ -40,5 +40,5 @@ On April 27, Microsoft and OpenAI replaced their six-year exclusive cloud AI rel
 
 **Entities:** [[Amazon]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-27-hotmicrosoft-and-openai-end-cloud-exclusivity]] · [[2026-05-18-microsoft-openai-end-exclusive-cloud-agreement-openai-can-no]]
+**Related:** [[2026-04-27-hotmicrosoft-and-openai-end-cloud-exclusivity]] · [[2026-04-27-]]
 <!-- graph:end -->

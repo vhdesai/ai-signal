@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-11-nemotron-3-5-lightning-targets-the-agent-execution-layer-wit
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
-- 2026-03-24-nvidia-open-sources-nemotron-cascade-2-efficient-30b-moe-for
+- 2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to
 embedding_id: 2026-08-11-nvidia-releases-nemotron-3-5-lightning-open-source-moe-for-a
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A mixture-of-experts model (30B total / 3B active per token) targeting agent exe
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-11-nemotron-3-5-lightning-targets-the-agent-execution-layer-wit]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]] · [[2026-03-24-nvidia-open-sources-nemotron-cascade-2-efficient-30b-moe-for]]
+**Related:** [[2026-08-11-nemotron-3-5-lightning-targets-the-agent-execution-layer-wit]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]] · [[2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to]]
 <!-- graph:end -->

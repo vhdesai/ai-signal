@@ -21,8 +21,7 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-kimi-k3-open-weights-go-live-the-largest-open-weight-model-y
-related_article_ids:
-- 2026-07-27-moonshot-s-kimi-k3-becomes-the-largest-open-weight-model-eve
+related_article_ids: []
 embedding_id: 2026-07-27-moonshot-ai-s-kimi-k3-open-weights-go-live-the-largest-open
 event_name: ''
 ---
@@ -36,5 +35,4 @@ Moonshot AI released the open weights for Kimi K3, a 2.8-trillion-parameter Mixt
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
 **Canonical:** [[2026-07-27-kimi-k3-open-weights-go-live-the-largest-open-weight-model-y]]
-**Related:** [[2026-07-27-moonshot-s-kimi-k3-becomes-the-largest-open-weight-model-eve]]
 <!-- graph:end -->

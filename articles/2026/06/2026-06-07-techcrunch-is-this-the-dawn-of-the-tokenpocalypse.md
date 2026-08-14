@@ -19,10 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs
+- 2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man
 - 2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-- 2026-08-03-cost-per-token-is-no-longer-enough-to-judge-ai-economics
+- 2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust
+- 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
 embedding_id: 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
 event_name: ''
 ---
@@ -35,5 +36,5 @@ TechCrunch warned the AI industry may be reaching a "Tokenpocalypse" — a tippi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs]] · [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-08-03-cost-per-token-is-no-longer-enough-to-judge-ai-economics]]
+**Related:** [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man]] · [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]]
 <!-- graph:end -->

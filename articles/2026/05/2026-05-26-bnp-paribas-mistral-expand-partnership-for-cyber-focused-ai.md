@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-bnp-paribas-backs-mistral-to-build-a-european-answer-to-myth
 - 2026-05-26-european-banks-back-mistral-for-a-sovereign-mythos-alternati
 - 2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop
-- 2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof
+- 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
 embedding_id: 2026-05-26-bnp-paribas-mistral-expand-partnership-for-cyber-focused-ai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ BNP Paribas CIO Marc Camus said the eurozone's largest bank is expanding its Mis
 
 **Entities:** [[Anthropic]] · [[Mistral]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-bnp-paribas-partners-with-mistral-on-european-cyber-defense]] · [[2026-05-26-bnp-paribas-backs-mistral-to-build-a-european-answer-to-myth]] · [[2026-05-26-european-banks-back-mistral-for-a-sovereign-mythos-alternati]] · [[2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop]] · [[2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof]]
+**Related:** [[2026-05-27-bnp-paribas-partners-with-mistral-on-european-cyber-defense]] · [[2026-05-26-bnp-paribas-backs-mistral-to-build-a-european-answer-to-myth]] · [[2026-05-26-european-banks-back-mistral-for-a-sovereign-mythos-alternati]] · [[2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]]
 <!-- graph:end -->

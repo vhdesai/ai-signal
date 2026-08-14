@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-codegraph-local-pre-indexed-knowledge-graphs-cut-token-usage
-- 2026-05-26-codegraph-launches-local-pre-indexed-knowledge-graphs-for-ai
 - 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
 - 2026-05-15-openai-announced-that-its-ai-powered-coding-assistant-codex
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
+- 2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop
 embedding_id: 2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A new open-source project, CodeGraph, ships a pre-indexed code knowledge graph t
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-codegraph-local-pre-indexed-knowledge-graphs-cut-token-usage]] · [[2026-05-26-codegraph-launches-local-pre-indexed-knowledge-graphs-for-ai]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-15-openai-announced-that-its-ai-powered-coding-assistant-codex]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]]
+**Related:** [[2026-05-26-codegraph-local-pre-indexed-knowledge-graphs-cut-token-usage]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-15-openai-announced-that-its-ai-powered-coding-assistant-codex]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop]]
 <!-- graph:end -->

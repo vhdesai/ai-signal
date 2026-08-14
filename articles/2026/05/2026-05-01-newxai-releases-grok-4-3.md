@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-01-xai-ships-grok-4-3-and-brings-grok-voice-to-apple-carplay
 - 2026-05-02-trendingxai-bringing-grok-voice-mode-to-apple-carplay
 - 2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively
-- 2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip
 - 2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th
+- 2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip
 embedding_id: 2026-05-01-newxai-releases-grok-4-3
 event_name: ''
 ---
@@ -38,5 +38,5 @@ xAI shipped Grok 4.3 via the x.ai API on May 1. The release lands alongside news
 ## Connections
 
 **Entities:** [[Apple]] · [[Perplexity]] · [[Tesla]] · [[xAI]]
-**Related:** [[2026-05-01-xai-ships-grok-4-3-and-brings-grok-voice-to-apple-carplay]] · [[2026-05-02-trendingxai-bringing-grok-voice-mode-to-apple-carplay]] · [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip]] · [[2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th]]
+**Related:** [[2026-05-01-xai-ships-grok-4-3-and-brings-grok-voice-to-apple-carplay]] · [[2026-05-02-trendingxai-bringing-grok-voice-mode-to-apple-carplay]] · [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th]] · [[2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip]]
 <!-- graph:end -->

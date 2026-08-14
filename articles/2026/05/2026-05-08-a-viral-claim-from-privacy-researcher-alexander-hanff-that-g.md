@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-08-google-chrome-found-to-have-silently-installed-4-gb-gemini-n
 - 2026-07-06-rumor-model-release-reported-gemini-3-5-pro-leak-points-to-2
 - 2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan
 - 2026-07-06-leak-google-s-gemini-3-5-pro-said-to-bring-2m-token-context
-- 2026-07-21-google-is-reportedly-developing-a-gemini-specific-frozen-fro
+- 2026-05-15-hot-google-gemini-3-1-ultra-2m-token-native-multimodal-flags
+- 2026-06-30-google-brings-nano-banana-2-lite-and-gemini-omni-flash-to-de
 embedding_id: 2026-05-08-a-viral-claim-from-privacy-researcher-alexander-hanff-that-g
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A viral claim from privacy researcher Alexander Hanff — that Google Chrome was
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-08-google-chrome-found-to-have-silently-installed-4-gb-gemini-n]] · [[2026-07-06-rumor-model-release-reported-gemini-3-5-pro-leak-points-to-2]] · [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-07-06-leak-google-s-gemini-3-5-pro-said-to-bring-2m-token-context]] · [[2026-07-21-google-is-reportedly-developing-a-gemini-specific-frozen-fro]]
+**Related:** [[2026-07-06-rumor-model-release-reported-gemini-3-5-pro-leak-points-to-2]] · [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-07-06-leak-google-s-gemini-3-5-pro-said-to-bring-2m-token-context]] · [[2026-05-15-hot-google-gemini-3-1-ultra-2m-token-native-multimodal-flags]] · [[2026-06-30-google-brings-nano-banana-2-lite-and-gemini-omni-flash-to-de]]
 <!-- graph:end -->

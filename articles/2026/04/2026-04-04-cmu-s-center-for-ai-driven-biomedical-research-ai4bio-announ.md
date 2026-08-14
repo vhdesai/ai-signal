@@ -18,9 +18,14 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-04-04-cmu-ai4bio-center-selects-inaugural-projects-for-ai-driven-b
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-04-01-carnegie-mellon-university-s-center-for-ai-driven-biomedical
+- 2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc
+- 2026-07-10-stanford-s-biomni-shows-biomedical-agents-executing-end-to-e
+- 2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in
+- 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 embedding_id: 2026-04-04-cmu-s-center-for-ai-driven-biomedical-research-ai4bio-announ
 event_name: ''
 ---
@@ -34,5 +39,5 @@ CMU's Center for AI-Driven Biomedical Research (AI4BIO) announced its first four
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-04-04-cmu-ai4bio-center-selects-inaugural-projects-for-ai-driven-b]]
+**Related:** [[2026-04-01-carnegie-mellon-university-s-center-for-ai-driven-biomedical]] · [[2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc]] · [[2026-07-10-stanford-s-biomni-shows-biomedical-agents-executing-end-to-e]] · [[2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]]
 <!-- graph:end -->

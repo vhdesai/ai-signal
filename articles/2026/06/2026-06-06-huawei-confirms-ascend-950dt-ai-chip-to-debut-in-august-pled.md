@@ -8,7 +8,7 @@ url_original: null
 url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-06-07_060026_Daily-AI-News-Digest.md
-content_hash: 2b17709c304d92128146f96aeca016c5579cd0bc956668337bffd71d0a13d0c7
+content_hash: e2f97228f9adde45ebc0d68f0d076e6107a7ce7b93cba62cad1858194933bb65
 normalized_title_hash: f45d55a7b84d3df4
 canonical_url_hash: ''
 tags:
@@ -30,7 +30,7 @@ event_name: ''
 
 # Huawei Confirms Ascend 950DT AI Chip to Debut in August; Pledges Annual Chip Cadence
 
-Huawei confirmed its next-generation Ascend 950DT AI processor will debut in August, with the company pledging to release a new AI chip every year with double the computing power. The announcement follows confirmation that DeepSeek V4 was trained on Huawei chips. For the geopolitical AI landscape, Huawei's accelerating chip cadence further undermines the effectiveness of U.S. export controls as a constraint on Chinese AI development. URL not verified.
+Huawei confirmed its next-generation Ascend 950DT AI processor will debut in August, with the company pledging to release a new AI chip every year with double the computing power. The announcement follows confirmation that DeepSeek V4 was trained on Huawei chips. For the geopolitical AI landscape, Huawei's accelerating chip cadence further undermines the effectiveness of U.S. export controls as a constraint on Chinese AI development.
 
 <!-- graph:start -->
 ## Connections

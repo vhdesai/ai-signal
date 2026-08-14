@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-14-google-unveils-india-ai-push-at-i-o-connect-2026-atl-saathi
 - 2026-07-14-google-expands-gemini-and-ai-education-tools-at-i-o-connect
-- 2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro
 - 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
+- 2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro
 embedding_id: 2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri
 event_name: ''
 ---
@@ -38,5 +38,5 @@ At Google I/O Connect India 2026 in Bengaluru, Google unveiled a slate of AI ini
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-14-google-unveils-india-ai-push-at-i-o-connect-2026-atl-saathi]] · [[2026-07-14-google-expands-gemini-and-ai-education-tools-at-i-o-connect]] · [[2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]]
+**Related:** [[2026-07-14-google-unveils-india-ai-push-at-i-o-connect-2026-atl-saathi]] · [[2026-07-14-google-expands-gemini-and-ai-education-tools-at-i-o-connect]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]] · [[2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro]]
 <!-- graph:end -->

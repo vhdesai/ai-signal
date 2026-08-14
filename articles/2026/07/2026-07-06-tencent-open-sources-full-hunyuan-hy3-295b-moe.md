@@ -25,7 +25,8 @@ related_article_ids:
 - 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe-under-apache
 - 2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for
 - 2026-04-23-tencent-previews-hunyuan-3-with-native-video-and-3d-generati
-- 2026-07-30-tencent-open-sources-angelspec-speculative-decoding-framewor
+- 2026-07-06-tencent-s-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-s
+- 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
 embedding_id: 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Following its April preview, Tencent released the full Hunyuan Hy3 — a 295B-pa
 
 **Entities:** [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe-under-apache]] · [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-04-23-tencent-previews-hunyuan-3-with-native-video-and-3d-generati]] · [[2026-07-30-tencent-open-sources-angelspec-speculative-decoding-framewor]]
+**Related:** [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe-under-apache]] · [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-04-23-tencent-previews-hunyuan-3-with-native-video-and-3d-generati]] · [[2026-07-06-tencent-s-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-s]] · [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]]
 <!-- graph:end -->

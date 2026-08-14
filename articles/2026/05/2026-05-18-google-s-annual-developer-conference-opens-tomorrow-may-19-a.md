@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-19-google-i-o-2026-keynote-live-gemini-4-0-android-xr-glasses-a
 - 2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro
 - 2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi
 - 2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin
 - 2026-05-19-google-i-o-2026-live-gemini-4-0-gemini-omni-android-xr-glass
+- 2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro
 embedding_id: 2026-05-18-google-s-annual-developer-conference-opens-tomorrow-may-19-a
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google's annual developer conference opens tomorrow, May 19, at Shoreline Amphit
 
 **Entities:** [[Google]] · [[Samsung]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-google-i-o-2026-keynote-live-gemini-4-0-android-xr-glasses-a]] · [[2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro]] · [[2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi]] · [[2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin]] · [[2026-05-19-google-i-o-2026-live-gemini-4-0-gemini-omni-android-xr-glass]]
+**Related:** [[2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro]] · [[2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi]] · [[2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin]] · [[2026-05-19-google-i-o-2026-live-gemini-4-0-gemini-omni-android-xr-glass]] · [[2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro]]
 <!-- graph:end -->

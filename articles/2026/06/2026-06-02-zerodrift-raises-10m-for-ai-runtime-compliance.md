@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-30-dili-raises-21-7-million-to-bring-ai-compliance-to-infrastru
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast
 - 2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a
+- 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
+- 2026-03-28-defense-ai-startup-shield-ai-closed-a-2-billion-funding-roun
 embedding_id: 2026-06-02-zerodrift-raises-10m-for-ai-runtime-compliance
 event_name: ''
 ---
@@ -36,5 +37,5 @@ ZeroDrift raised $10M for an AI compliance service that sits between models and 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-dili-raises-21-7-million-to-bring-ai-compliance-to-infrastru]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]]
+**Related:** [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-03-28-defense-ai-startup-shield-ai-closed-a-2-billion-funding-roun]]
 <!-- graph:end -->

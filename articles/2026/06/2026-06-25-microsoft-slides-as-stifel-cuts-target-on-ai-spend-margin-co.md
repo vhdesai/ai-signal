@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope
 - 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
 - 2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat
-- 2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down
 - 2026-06-04-broadcom-slides-12-as-ai-guidance-disappoints-lofty-expectat
+- 2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor
 embedding_id: 2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft fell ~3.5% after Stifel lowered its price target to $400 from $415 and
 
 **Entities:** [[Microsoft]] · [[Oracle]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat]] · [[2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down]] · [[2026-06-04-broadcom-slides-12-as-ai-guidance-disappoints-lofty-expectat]]
+**Related:** [[2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat]] · [[2026-06-04-broadcom-slides-12-as-ai-guidance-disappoints-lofty-expectat]] · [[2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor]]
 <!-- graph:end -->

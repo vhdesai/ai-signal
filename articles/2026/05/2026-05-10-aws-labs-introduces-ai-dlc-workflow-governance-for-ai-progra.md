@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
-- 2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
 - 2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri
 - 2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform
+- 2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma
 embedding_id: 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AWS Labs released aidlc-workflows, introducing the AI-Driven Development Life Cy
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]] · [[2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]]
+**Related:** [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]] · [[2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma]]
 <!-- graph:end -->

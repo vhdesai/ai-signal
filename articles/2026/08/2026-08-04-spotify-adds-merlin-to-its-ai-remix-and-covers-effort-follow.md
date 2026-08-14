@@ -22,8 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re
 - 2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal
-- 2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera
-- 2026-06-11-deezer-launches-free-ai-music-detector-across-platforms
+- 2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and
+- 2026-08-11-spotify-will-label-ai-persona-profiles-and-exclude-them-from
+- 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
 embedding_id: 2026-08-04-spotify-adds-merlin-to-its-ai-remix-and-covers-effort-follow
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Merlin, which represents more than 30,000 independent labels and distributors, h
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re]] · [[2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal]] · [[2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera]] · [[2026-06-11-deezer-launches-free-ai-music-detector-across-platforms]]
+**Related:** [[2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re]] · [[2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal]] · [[2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and]] · [[2026-08-11-spotify-will-label-ai-persona-profiles-and-exclude-them-from]] · [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]]
 <!-- graph:end -->

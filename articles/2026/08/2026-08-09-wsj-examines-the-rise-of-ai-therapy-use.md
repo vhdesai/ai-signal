@@ -20,11 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin
 - 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
-- 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
-- 2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t
 - 2026-07-26-wsj-reports-some-ai-chatbots-can-provide-biological-weapons
+- 2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t
+- 2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta
 embedding_id: 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
 event_name: ''
 ---
@@ -37,5 +36,5 @@ The Wall Street Journal examined people turning to chatbots for mental-health su
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin]] · [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t]] · [[2026-07-26-wsj-reports-some-ai-chatbots-can-provide-biological-weapons]]
+**Related:** [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]] · [[2026-07-26-wsj-reports-some-ai-chatbots-can-provide-biological-weapons]] · [[2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t]] · [[2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta]]
 <!-- graph:end -->

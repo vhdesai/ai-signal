@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-16-the-white-house-released-a-comprehensive-national-policy-fra
-- 2026-04-01-white-house-releases-national-ai-policy-framework-amid-feder
 - 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c
+- 2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta
 embedding_id: 2026-04-01-the-trump-administration-released-a-comprehensive-national-a
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Trump Administration released a comprehensive national AI policy framework i
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-16-the-white-house-released-a-comprehensive-national-policy-fra]] · [[2026-04-01-white-house-releases-national-ai-policy-framework-amid-feder]] · [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c]]
+**Related:** [[2026-05-16-the-white-house-released-a-comprehensive-national-policy-fra]] · [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c]] · [[2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta]]
 <!-- graph:end -->

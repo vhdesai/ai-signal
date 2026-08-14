@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-28-coinbase-cuts-ai-spend-50-by-defaulting-engineers-to-chinese
-- 2026-06-29-coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs
 - 2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western
 - 2026-07-07-chinese-open-weight-models-gain-u-s-enterprise-adoption-as-f
+- 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
 embedding_id: 2026-06-29-coinbase-is-switching-to-chinese-ai-models-like-glm-5-2-and
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Coinbase is switching to Chinese AI models like GLM 5.2 and Kimi 2.7, using an a
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-28-coinbase-cuts-ai-spend-50-by-defaulting-engineers-to-chinese]] · [[2026-06-29-coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs]] · [[2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western]] · [[2026-07-07-chinese-open-weight-models-gain-u-s-enterprise-adoption-as-f]]
+**Related:** [[2026-06-28-coinbase-cuts-ai-spend-50-by-defaulting-engineers-to-chinese]] · [[2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western]] · [[2026-07-07-chinese-open-weight-models-gain-u-s-enterprise-adoption-as-f]] · [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]]
 <!-- graph:end -->

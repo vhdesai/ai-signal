@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr
+- 2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog
 - 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
 - 2026-05-04-cmu-reflection-prompts-can-slow-down-ai-assisted-learning
-- 2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog
 embedding_id: 2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A University of Manchester paper published in Frontiers in Education argues that
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-05-04-cmu-reflection-prompts-can-slow-down-ai-assisted-learning]] · [[2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog]]
+**Related:** [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr]] · [[2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-05-04-cmu-reflection-prompts-can-slow-down-ai-assisted-learning]]
 <!-- graph:end -->

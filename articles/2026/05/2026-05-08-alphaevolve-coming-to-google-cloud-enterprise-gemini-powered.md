@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-08-google-deepmind-announced-on-may-7-that-alphaevolve-its-gemi
 - 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
 - 2026-05-09-google-deepmind-published-detailed-results-for-alphaevolve-a
-- 2026-05-09-google-deepmind-s-alphaevolve-gemini-powered-coding-agent-sc
+- 2026-05-15-a-pre-launch-leak-reveals-google-is-developing-a-new-autonom
 - 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
 embedding_id: 2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered
 event_name: ''
@@ -40,5 +40,5 @@ Google announced it will bring AlphaEvolve — its Gemini-powered algorithm-opti
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-08-google-deepmind-announced-on-may-7-that-alphaevolve-its-gemi]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-09-google-deepmind-published-detailed-results-for-alphaevolve-a]] · [[2026-05-09-google-deepmind-s-alphaevolve-gemini-powered-coding-agent-sc]] · [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w]]
+**Related:** [[2026-05-08-google-deepmind-announced-on-may-7-that-alphaevolve-its-gemi]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-09-google-deepmind-published-detailed-results-for-alphaevolve-a]] · [[2026-05-15-a-pre-launch-leak-reveals-google-is-developing-a-new-autonom]] · [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w]]
 <!-- graph:end -->

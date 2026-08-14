@@ -24,7 +24,8 @@ related_article_ids:
 - 2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
 - 2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society
-- 2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl
+- 2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j
+- 2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p
 embedding_id: 2026-05-19-mlcommons-names-2026-rising-stars-cohort-39-researchers-from
 event_name: ''
 ---
@@ -38,5 +39,5 @@ MLCommons announced its fourth annual Rising Stars cohort: 39 early-career resea
 
 **Entities:** [[AMD]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society]] · [[2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl]]
+**Related:** [[2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society]] · [[2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j]] · [[2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p]]
 <!-- graph:end -->

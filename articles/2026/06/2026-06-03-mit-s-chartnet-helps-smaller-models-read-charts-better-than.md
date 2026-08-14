@@ -16,9 +16,14 @@ entities: []
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-06-03-mit-s-chartnet-dataset-aims-to-improve-ai-chart-interpretati
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu
+- 2026-08-10-mit-introduces-geopt-to-help-ai-models-simulate-real-world-p
+- 2026-08-10-mit-csail-and-tsinghua-introduce-geopt-arguing-physics-is-ai
+- 2026-07-29-how-an-mit-database-evolved-into-a-global-standard-for-data
+- 2026-07-29-mit-traces-physionet-s-evolution-into-a-global-standard-for
 embedding_id: 2026-06-03-mit-s-chartnet-helps-smaller-models-read-charts-better-than
 event_name: ''
 ---
@@ -31,5 +36,5 @@ MIT introduced ChartNet, a training dataset that improves vision-language models
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-06-03-mit-s-chartnet-dataset-aims-to-improve-ai-chart-interpretati]]
+**Related:** [[2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu]] · [[2026-08-10-mit-introduces-geopt-to-help-ai-models-simulate-real-world-p]] · [[2026-08-10-mit-csail-and-tsinghua-introduce-geopt-arguing-physics-is-ai]] · [[2026-07-29-how-an-mit-database-evolved-into-a-global-standard-for-data]] · [[2026-07-29-mit-traces-physionet-s-evolution-into-a-global-standard-for]]
 <!-- graph:end -->

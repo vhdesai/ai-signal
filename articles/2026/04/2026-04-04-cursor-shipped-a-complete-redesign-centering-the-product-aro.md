@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-30-cursor-launches-a-native-ios-app-for-steering-coding-agents
 - 2026-05-10-cursor-3-0-parallel-agent-coding-ide
 - 2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code
 - 2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows
 - 2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st
+- 2026-06-30-cursor-puts-agentic-coding-on-the-iphone
 embedding_id: 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Cursor shipped a complete redesign centering the product around managing agents 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-30-cursor-launches-a-native-ios-app-for-steering-coding-agents]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]] · [[2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code]] · [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st]]
+**Related:** [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]] · [[2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code]] · [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st]] · [[2026-06-30-cursor-puts-agentic-coding-on-the-iphone]]
 <!-- graph:end -->

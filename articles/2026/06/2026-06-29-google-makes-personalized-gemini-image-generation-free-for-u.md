@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-30-google-extended-the-gemini-app-s-nano-banana-powered-persona
 - 2026-06-30-google-opened-gemini-s-nano-banana-powered-personalized-imag
-- 2026-06-30-google-makes-gemini-s-personalized-image-generation-free-for
-- 2026-06-30-google-makes-gemini-s-personalized-ai-image-generation-free
+- 2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan
+- 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
 embedding_id: 2026-06-29-google-makes-personalized-gemini-image-generation-free-for-u
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google removed the Plus/Pro/Ultra paywall on Gemini's "Nano Banana"-powered pers
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-30-google-extended-the-gemini-app-s-nano-banana-powered-persona]] · [[2026-06-30-google-opened-gemini-s-nano-banana-powered-personalized-imag]] · [[2026-06-30-google-makes-gemini-s-personalized-image-generation-free-for]] · [[2026-06-30-google-makes-gemini-s-personalized-ai-image-generation-free]]
+**Related:** [[2026-06-30-google-extended-the-gemini-app-s-nano-banana-powered-persona]] · [[2026-06-30-google-opened-gemini-s-nano-banana-powered-personalized-imag]] · [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag]]
 <!-- graph:end -->

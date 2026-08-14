@@ -17,9 +17,14 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-08-03-olix-raises-europe-s-largest-chip-round-for-optical-ai-silic
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua
+- 2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories
+- 2026-07-29-nvidia-partner-chipagents-raises-60m-to-automate-chip-design
+- 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
+- 2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk
 embedding_id: 2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic
 event_name: ''
 ---
@@ -33,5 +38,5 @@ London-based Olix, a two-year-old optical AI-chip startup, closed a $312 million
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-08-03-olix-raises-europe-s-largest-chip-round-for-optical-ai-silic]]
+**Related:** [[2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua]] · [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories]] · [[2026-07-29-nvidia-partner-chipagents-raises-60m-to-automate-chip-design]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]] · [[2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk]]
 <!-- graph:end -->

@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-08-06-openai-launches-codex-security-in-research-preview-for-autom
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
 - 2026-07-08-microsoft-research-introduces-flint-an-open-source-visualiza
-- 2026-08-01-supabase-releases-an-open-source-benchmark-for-claude-code-c
 embedding_id: 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Microsoft released code-testing-generator, an MIT-licensed, polyglot AI agent th
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-08-06-openai-launches-codex-security-in-research-preview-for-autom]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[2026-07-08-microsoft-research-introduces-flint-an-open-source-visualiza]] · [[2026-08-01-supabase-releases-an-open-source-benchmark-for-claude-code-c]]
+**Related:** [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-08-06-openai-launches-codex-security-in-research-preview-for-autom]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[2026-07-08-microsoft-research-introduces-flint-an-open-source-visualiza]]
 <!-- graph:end -->

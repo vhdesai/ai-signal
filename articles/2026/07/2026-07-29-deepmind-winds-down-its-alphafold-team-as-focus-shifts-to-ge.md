@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-30-google-deepmind-disbands-its-nobel-winning-alphafold-team-to
 - 2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-fo
 - 2026-06-20-nobel-laureate-john-jumper-is-leaving-google-deepmind-for-an
-- 2026-07-29-google-disbands-its-nobel-winning-alphafold-team-to-refocus
 - 2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-to
+- 2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro
+- 2026-07-30-google-deepmind-disbands-its-alphafold-team
 embedding_id: 2026-07-29-deepmind-winds-down-its-alphafold-team-as-focus-shifts-to-ge
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Per the Financial Times, Google DeepMind has reassigned most of the original Alp
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-google-deepmind-disbands-its-nobel-winning-alphafold-team-to]] · [[2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-fo]] · [[2026-06-20-nobel-laureate-john-jumper-is-leaving-google-deepmind-for-an]] · [[2026-07-29-google-disbands-its-nobel-winning-alphafold-team-to-refocus]] · [[2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-to]]
+**Related:** [[2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-fo]] · [[2026-06-20-nobel-laureate-john-jumper-is-leaving-google-deepmind-for-an]] · [[2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-to]] · [[2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro]] · [[2026-07-30-google-deepmind-disbands-its-alphafold-team]]
 <!-- graph:end -->

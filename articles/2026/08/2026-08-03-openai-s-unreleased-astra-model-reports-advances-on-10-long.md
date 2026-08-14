@@ -21,7 +21,6 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-02-openai-says-an-internal-astra-model-produced-new-results-on
 - 2026-08-01-openai-reveals-its-next-major-model-astra-inside-a-post-clai
 - 2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore
 - 2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput
@@ -39,5 +38,5 @@ OpenAI said an internal, unreleased model — “Astra” — produced new resul
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-02-openai-says-an-internal-astra-model-produced-new-results-on]] · [[2026-08-01-openai-reveals-its-next-major-model-astra-inside-a-post-clai]] · [[2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore]] · [[2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput]] · [[2026-08-10-mathematicians-assess-generative-ai-s-arrival-in-their-field]]
+**Related:** [[2026-08-01-openai-reveals-its-next-major-model-astra-inside-a-post-clai]] · [[2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore]] · [[2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput]] · [[2026-08-10-mathematicians-assess-generative-ai-s-arrival-in-their-field]]
 <!-- graph:end -->

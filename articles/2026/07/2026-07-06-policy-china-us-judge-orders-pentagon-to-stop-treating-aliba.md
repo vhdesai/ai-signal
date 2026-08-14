@@ -25,8 +25,6 @@ related_article_ids:
 - 2026-06-09-pentagon-designates-alibaba-baidu-and-other-chinese-tech-fir
 - 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
 - 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
-- 2026-08-05-u-s-moves-to-ban-chinese-data-center-components
-- 2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing
 embedding_id: 2026-07-06-policy-china-us-judge-orders-pentagon-to-stop-treating-aliba
 event_name: ''
 ---
@@ -40,5 +38,5 @@ Policy China US judge orders Pentagon to stop treating Alibaba as a "Chinese mil
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-09-pentagon-designates-alibaba-baidu-and-other-chinese-tech-fir]] · [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]] · [[2026-08-05-u-s-moves-to-ban-chinese-data-center-components]] · [[2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing]]
+**Related:** [[2026-06-09-pentagon-designates-alibaba-baidu-and-other-chinese-tech-fir]] · [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]]
 <!-- graph:end -->

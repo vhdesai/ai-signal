@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass
 - 2026-05-12-google-identifies-first-ai-assisted-zero-day-exploit-disrupt
-- 2026-05-18-google-first-confirmed-ai-assisted-zero-day-exploit-detected
 - 2026-05-17-openai-introduced-daybreak-a-gpt-5-5-powered-cybersecurity-p
 - 2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p
+- 2026-05-18-google-confirmed-the-detection-of-the-first-known-zero-day-s
 embedding_id: 2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google's Threat Intelligence Group identified and disrupted a planned mass explo
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass]] · [[2026-05-12-google-identifies-first-ai-assisted-zero-day-exploit-disrupt]] · [[2026-05-18-google-first-confirmed-ai-assisted-zero-day-exploit-detected]] · [[2026-05-17-openai-introduced-daybreak-a-gpt-5-5-powered-cybersecurity-p]] · [[2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p]]
+**Related:** [[2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass]] · [[2026-05-12-google-identifies-first-ai-assisted-zero-day-exploit-disrupt]] · [[2026-05-17-openai-introduced-daybreak-a-gpt-5-5-powered-cybersecurity-p]] · [[2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p]] · [[2026-05-18-google-confirmed-the-detection-of-the-first-known-zero-day-s]]
 <!-- graph:end -->

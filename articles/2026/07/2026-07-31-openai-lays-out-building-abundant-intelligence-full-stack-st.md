@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy
 - 2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu
-- 2026-07-17-openai-cfo-sarah-friar-publishes-a-scorecard-for-the-ai-age
-- 2026-07-18-openai-cfo-sarah-friar-publishes-a-scorecard-for-the-ai-age
 - 2026-05-09-an-openrouter-analysis-of-gpt-5-5-token-pricing-revealed-sub
+- 2026-07-29-openai-says-two-api-settings-tripled-arc-agi-3-benchmark-sco
+- 2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6
 embedding_id: 2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st
 event_name: ''
 ---
@@ -39,5 +39,5 @@ In a post from CFO Sarah Friar, OpenAI argued that infrastructure matters chiefl
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]] · [[2026-07-17-openai-cfo-sarah-friar-publishes-a-scorecard-for-the-ai-age]] · [[2026-07-18-openai-cfo-sarah-friar-publishes-a-scorecard-for-the-ai-age]] · [[2026-05-09-an-openrouter-analysis-of-gpt-5-5-token-pricing-revealed-sub]]
+**Related:** [[2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]] · [[2026-05-09-an-openrouter-analysis-of-gpt-5-5-token-pricing-revealed-sub]] · [[2026-07-29-openai-says-two-api-settings-tripled-arc-agi-3-benchmark-sco]] · [[2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6]]
 <!-- graph:end -->

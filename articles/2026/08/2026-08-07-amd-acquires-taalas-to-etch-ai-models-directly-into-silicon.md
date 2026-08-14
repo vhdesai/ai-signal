@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-08-06-amd-acquires-taalas-to-hard-wire-ai-models-directly-into-sil
 - 2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in
 - 2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry
+- 2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar
 embedding_id: 2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon
 event_name: ''
 ---
@@ -36,5 +37,5 @@ AMD agreed to acquire Toronto-based Taalas, which builds chips that hardwire tra
 
 **Entities:** [[AMD]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-06-amd-acquires-taalas-to-hard-wire-ai-models-directly-into-sil]] · [[2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in]] · [[2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry]]
+**Related:** [[2026-08-06-amd-acquires-taalas-to-hard-wire-ai-models-directly-into-sil]] · [[2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in]] · [[2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry]] · [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]]
 <!-- graph:end -->

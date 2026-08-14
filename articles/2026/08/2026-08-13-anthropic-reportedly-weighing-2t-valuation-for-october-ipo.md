@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 - 2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai
-- 2026-08-06-amazon-s-stake-in-anthropic-could-top-200b-as-the-startup-ey
-- 2026-08-14-investors-battle-for-anthropic-shares-on-secondary-markets-a
+- 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
+- 2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open
 embedding_id: 2026-08-13-anthropic-reportedly-weighing-2t-valuation-for-october-ipo
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Anthropic may seek a valuation above $2T in an autumn listing, with backers mode
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai]] · [[2026-08-06-amazon-s-stake-in-anthropic-could-top-200b-as-the-startup-ey]] · [[2026-08-14-investors-battle-for-anthropic-shares-on-secondary-markets-a]]
+**Related:** [[2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai]] · [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]] · [[2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open]]
 <!-- graph:end -->

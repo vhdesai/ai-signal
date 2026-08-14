@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers
 - 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
+- 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
 - 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
 embedding_id: 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
 event_name: ''
@@ -35,5 +36,5 @@ SoftBank’s plan to invest tens of billions in French data centers adds another
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]]
+**Related:** [[2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]]
 <!-- graph:end -->

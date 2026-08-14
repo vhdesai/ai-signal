@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a
 - 2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc
-- 2026-07-09-can-ai-answer-the-3-trillion-question
+- 2026-07-14-softbank-s-masayoshi-son-says-ai-will-require-5t-a-year-by-2
 embedding_id: 2026-08-10-ai-founders-push-founders-pledge-to-4b-roughly-a-third-of-al
 event_name: ''
 ---
@@ -35,5 +35,5 @@ AI founders have driven Founders Pledge commitments to approximately $4 billion,
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a]] · [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]]
+**Related:** [[2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a]] · [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc]] · [[2026-07-14-softbank-s-masayoshi-son-says-ai-will-require-5t-a-year-by-2]]
 <!-- graph:end -->

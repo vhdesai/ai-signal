@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor
 - 2026-04-09-products-tools
 - 2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in
-- 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
+- 2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears
 embedding_id: 2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending
 event_name: ''
 ---
@@ -39,5 +39,5 @@ WSJ Wealth Adviser highlighted a Journal analysis arguing that Amazon has moved 
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200]] · [[2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor]] · [[2026-04-09-products-tools]] · [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20]]
+**Related:** [[2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200]] · [[2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor]] · [[2026-04-09-products-tools]] · [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears]]
 <!-- graph:end -->

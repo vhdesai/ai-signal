@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe
-- 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
-- 2026-07-28-jump-capital-raises-350-million-fund-for-ai-investments
 - 2026-03-24-openai-is-pitching-private-equity-firms-including-tpg-and-ba
 - 2026-04-04-openai-completed-a-122-billion-fundraise-the-largest-single
+- 2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw
+- 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
 embedding_id: 2026-08-14-robinhood-ventures-fund-ii-ipos-to-give-retail-investors-acc
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Robinhood Ventures Fund II began trading on the NYSE after raising roughly $200 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe]] · [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]] · [[2026-07-28-jump-capital-raises-350-million-fund-for-ai-investments]] · [[2026-03-24-openai-is-pitching-private-equity-firms-including-tpg-and-ba]] · [[2026-04-04-openai-completed-a-122-billion-fundraise-the-largest-single]]
+**Related:** [[2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe]] · [[2026-03-24-openai-is-pitching-private-equity-firms-including-tpg-and-ba]] · [[2026-04-04-openai-completed-a-122-billion-fundraise-the-largest-single]] · [[2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]]
 <!-- graph:end -->

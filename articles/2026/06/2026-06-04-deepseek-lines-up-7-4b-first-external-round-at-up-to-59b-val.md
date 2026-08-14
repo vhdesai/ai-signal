@@ -26,9 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-13-deepseek-in-talks-to-raise-fresh-funds-at-a-71b-valuation
-- 2026-07-15-deepseek-is-reported-to-be-raising-around-1-5b-at-roughly-71
-- 2026-07-14-deepseek-weighs-a-second-raise-in-two-months-at-a-71b-pre-mo
 - 2026-07-26-deepseek-pauses-71b-funding-round-after-founder-s-leaked-rem
+- 2026-07-26-deepseek-pauses-roughly-71b-funding-round-after-founder-rema
+- 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
+- 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
 embedding_id: 2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val
 event_name: ''
 ---
@@ -42,5 +43,5 @@ DeepSeek is raising ~50B yuan (~$7.4B) in its first-ever outside funding at $49�
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[OpenAI]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-13-deepseek-in-talks-to-raise-fresh-funds-at-a-71b-valuation]] · [[2026-07-15-deepseek-is-reported-to-be-raising-around-1-5b-at-roughly-71]] · [[2026-07-14-deepseek-weighs-a-second-raise-in-two-months-at-a-71b-pre-mo]] · [[2026-07-26-deepseek-pauses-71b-funding-round-after-founder-s-leaked-rem]]
+**Related:** [[2026-07-13-deepseek-in-talks-to-raise-fresh-funds-at-a-71b-valuation]] · [[2026-07-26-deepseek-pauses-71b-funding-round-after-founder-s-leaked-rem]] · [[2026-07-26-deepseek-pauses-roughly-71b-funding-round-after-founder-rema]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]] · [[2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in]]
 <!-- graph:end -->

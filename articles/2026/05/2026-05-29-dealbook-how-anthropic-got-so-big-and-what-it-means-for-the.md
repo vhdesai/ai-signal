@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r
-- 2026-07-16-dealbook-andrew-ross-sorkin-nyt-2026-07-16-external-dealbook
 - 2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after
-- 2026-06-21-openai-and-anthropic-ipos-approaching-1t-valuations-while-bo
+- 2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s
+- 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 embedding_id: 2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the
 event_name: ''
 ---
@@ -40,5 +40,5 @@ DealBook goes behind the numbers on Anthropic's leapfrog past OpenAI, dissecting
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]] · [[2026-07-16-dealbook-andrew-ross-sorkin-nyt-2026-07-16-external-dealbook]] · [[2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-valuations-while-bo]]
+**Related:** [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]] · [[2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after]] · [[2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]]
 <!-- graph:end -->

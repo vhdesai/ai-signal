@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re
 - 2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin
 - 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
-- 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
+- 2026-07-11-goldman-sachs-warns-the-u-s-will-bear-the-brunt-of-a-global
 embedding_id: 2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv
 event_name: ''
 ---
@@ -36,5 +36,5 @@ In its Annual Economic Report released Sunday, the BIS flagged an AI-driven bust
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]]
+**Related:** [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]] · [[2026-07-11-goldman-sachs-warns-the-u-s-will-bear-the-brunt-of-a-global]]
 <!-- graph:end -->

@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 - 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
-- 2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po
 - 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
-- 2026-05-14-anthropic-s-claude-mythos-preview-project-glasswing-restrict
+- 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
+- 2026-04-07-source-the-hacker-news-reuters-the-star
 embedding_id: 2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Anthropic formally confirmed Claude Mythos Preview — first surfaced in a March
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]] · [[2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude]] · [[2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]] · [[2026-05-14-anthropic-s-claude-mythos-preview-project-glasswing-restrict]]
+**Related:** [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]] · [[2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]]
 <!-- graph:end -->

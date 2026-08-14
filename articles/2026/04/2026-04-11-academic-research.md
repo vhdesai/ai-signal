@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
 - 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
-- 2026-05-14-responsible-ai-reporting-still-trails-capability-releases
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
-- 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
+- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
+- 2026-04-13-ai-safety-policy
 embedding_id: 2026-04-11-academic-research
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Frontier Safety Research Gains Urgency Following Mythos Disclosure Academic AI s
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]] · [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-05-14-responsible-ai-reporting-still-trails-capability-releases]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]]
+**Related:** [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]] · [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-04-13-ai-safety-policy]]
 <!-- graph:end -->

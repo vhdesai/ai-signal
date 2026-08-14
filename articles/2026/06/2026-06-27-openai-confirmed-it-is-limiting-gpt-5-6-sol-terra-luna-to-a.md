@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm
+- 2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi
 embedding_id: 2026-06-27-openai-confirmed-it-is-limiting-gpt-5-6-sol-terra-luna-to-a
 event_name: ''
 ---
@@ -35,5 +36,5 @@ OpenAI confirmed it is limiting GPT‑5.6 (Sol, Terra, Luna) to a small group of
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm]]
+**Related:** [[2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm]] · [[2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi]]
 <!-- graph:end -->

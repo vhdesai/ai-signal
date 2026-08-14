@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms
 - 2026-05-22-meta-released-forum-on-ios-today-a-standalone-app-that-surfa
-- 2026-05-22-meta-launches-forum-reddit-like-standalone-app-with-ai-power
-- 2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top
 - 2026-05-22-meta-launches-forum-app-ai-powered-reddit-alternative-for-fa
+- 2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook
+- 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
 embedding_id: 2026-05-13-meta-is-testing-a-meta-ai-integration-on-threads-that-mimics
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Meta is testing a Meta AI integration on Threads that mimics the Grok-in-X exper
 
 **Entities:** [[Google]] · [[Meta]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms]] · [[2026-05-22-meta-released-forum-on-ios-today-a-standalone-app-that-surfa]] · [[2026-05-22-meta-launches-forum-reddit-like-standalone-app-with-ai-power]] · [[2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top]] · [[2026-05-22-meta-launches-forum-app-ai-powered-reddit-alternative-for-fa]]
+**Related:** [[2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms]] · [[2026-05-22-meta-released-forum-on-ios-today-a-standalone-app-that-surfa]] · [[2026-05-22-meta-launches-forum-app-ai-powered-reddit-alternative-for-fa]] · [[2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook]] · [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]]
 <!-- graph:end -->

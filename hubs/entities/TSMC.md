@@ -1,14 +1,13 @@
 ---
 type: entity-hub
 hub: TSMC
-member_count: 62
+member_count: 42
 ---
 
 # TSMC
 
-> Auto-generated entity hub. 62 connected article(s).
+> Auto-generated entity hub. 42 connected article(s).
 
-- `2026-08-10` [[2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand|TSMC July revenue surges ~45% YoY on AI chip demand]]
 - `2026-08-10` [[2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi|TSMC July revenue surges roughly 45% year over year on AI chip demand]]
 - `2026-08-10` [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained|TSMC July revenue rises about 45% year over year on sustained AI chip demand]]
 - `2026-08-10` [[2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman|TSMC July revenue rises 44.7% year over year on AI chip demand]]
@@ -18,21 +17,8 @@ member_count: 62
 - `2026-08-10` [[2026-08-10-microsoft-plans-10-production-ramp-of-next-gen-maia-ai-chip|Microsoft Plans 10× Production Ramp of Next-Gen Maia AI Chip]]
 - `2026-08-10` [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-to-fund-a|Intel raises $15 billion in a common stock offering to fund AI chip growth]]
 - `2026-08-09` [[2026-08-09-daily-ai-news-digest-august-10-2026|Daily AI News Digest – August 10, 2026]]
-- `2026-07-30` [[2026-07-30-the-information-2026-07-30-external-exclusive-thinking-machi|The Information - [2026-07-30] [EXTERNAL] Exclusive: Thinking Machines Cofounder to Return to OpenAI - [2026-07-30]…]]
-- `2026-07-30` [[2026-07-30-tsmc-works-on-advanced-ai-chip-packaging-as-the-infrastructu|TSMC works on advanced AI chip packaging as the infrastructure bottleneck shifts]]
 - `2026-07-30` [[2026-07-30-tsmc-develops-ai-chip-packaging-technology-to-counter-intel|TSMC develops AI chip-packaging technology to counter Intel]]
-- `2026-07-29` [[2026-07-29-tsmc-gradually-resumes-japan-operations-after-earthquake|TSMC gradually resumes Japan operations after earthquake]]
 - `2026-07-28` [[2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker|OpenAI’s hardware roadmap sharpens: a Jony Ive smart speaker and an AI phone]]
-- `2026-07-21` [[2026-07-21-tsmc-added-accelerated-another-100b-in-arizona-capacity-lift|TSMC added/accelerated another $100B in Arizona capacity, lifting its pipeline to roughly $265B and raising full-year…]]
-- `2026-07-20` [[2026-07-20-tsmc-added-accelerated-another-100b-in-arizona-capacity-lift|TSMC added/accelerated another $100B in Arizona capacity, lifting its pipeline to roughly $265B and raising full-year…]]
-- `2026-07-20` [[2026-07-20-tsmc-accelerates-arizona-fab-expansion-on-robust-ai-chip-dem|TSMC accelerates Arizona fab expansion on robust AI chip demand, reinforcing the AI semiconductor megatrend and U.S]]
-- `2026-07-18` [[2026-07-18-tsmc-posts-record-results-and-expands-planned-arizona-invest|TSMC posts record results and expands planned Arizona investment toward $265B, reinforcing that AI demand continues to…]]
-- `2026-07-17` [[2026-07-17-tsmc-record-results-and-reported-planned-u-s|TSMC record results and reported/planned U.S]]
-- `2026-07-17` [[2026-07-17-tsmc-posts-record-results-and-expands-planned-arizona-invest|TSMC posts record results and expands planned Arizona investment toward $265B, reinforcing that AI demand continues to…]]
-- `2026-07-17` [[2026-07-17-chip-and-memory-stocks-sell-off-as-public-markets-scrutinize|Chip and memory stocks sell off as public markets scrutinize AI capex ROI, even while TSMC and other fundamentals…]]
-- `2026-07-16` [[2026-07-16-the-information-2026-07-16-external-tsmc-plans-another-100-b|The Information - [2026-07-16] [EXTERNAL] TSMC Plans Another $100 Billion U.S]]
-- `2026-07-16` [[2026-07-16-tsmc-s-additional-u-s-investment-as-ai-demand-surges-enterpr|TSMC's additional U.S. investment as AI demand surges; enterprise software startups potentially for sale; AI and…]]
-- `2026-07-16` [[2026-07-16-tsmc-posts-record-q2-revenue-and-77-profit-growth-on-ai-chip|TSMC posts record Q2 revenue and 77%+ profit growth on AI-chip demand, and WSJ/The Information coverage highlights…]]
 - `2026-07-13` [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j|TSMC posts record Q2 revenue, up 36% on AI demand; June sales jump ~68%]]
 - `2026-07-13` [[2026-07-13-monday-july-13-2026|Monday, July 13, 2026]]
 - `2026-07-13` [[2026-07-13-meta-readies-its-custom-iris-ai-chip-for-september-productio|Meta readies its custom “Iris” AI chip for September production]]
@@ -41,15 +27,12 @@ member_count: 62
 - `2026-07-12` [[2026-07-12-july-13-2026|July 13, 2026]]
 - `2026-06-26` [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea|Samsung Group to unveil ~$648B (1,000 trillion won) South Korea investment in chips and AI]]
 - `2026-06-25` [[2026-06-25-ibm-claims-first-sub-1nm-transistor-a-0-7nm-nanostack-archit|IBM claims first sub-1nm transistor — a 0.7nm "nanostack" architecture]]
-- `2026-06-11` [[2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur|Google in Talks with Samsung for Next-Gen AI Chip Manufacturing]]
 - `2026-06-08` [[2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai|Alphabet Taps Intel to Manufacture Three Million In-House AI Chips]]
 - `2026-06-04` [[2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s|TSMC Warns AI Demand Is Straining the Entire Semiconductor Supply Chain]]
 - `2026-05-27` [[2026-05-27-trending-cerebras-68-ipo-pop-draws-fresh-ark-buying-ceo-warn|Trending Cerebras' 68% IPO pop draws fresh ARK buying; CEO warns on US chip catch-up]]
 - `2026-05-27` [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-2|NVIDIA GTC Taipei 2026: Blackwell Ultra, Rubin, and Taiwan AI Factories — Strategic Implications]]
 - `2026-05-27` [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f|NVIDIA GTC Taipei 2026: Blackwell Ultra, Rubin, and Taiwan AI Factories — Overview]]
-- `2026-05-26` [[2026-05-26-wsj-pro-cybersecurity-reports-that-enterprise-security-leade|WSJ Pro Cybersecurity reports that enterprise security leaders are preparing for a markedly looser AI-oversight regime in the U.S., with fewer pre-deployment safety requirements and more reliance on private governance. CISOs are quietly building their own evaluation frameworks for agentic systems, anticipating that regulatory cover will not arrive in time for production deployments already underway.]]
 - `2026-05-26` [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput|Huawei’s AI chip progress sharpens the geopolitics of compute]]
-- `2026-05-26` [[2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster|Huawei's latest roadmap shows the Chinese firm making faster-than-expected progress closing the leading-edge gap with TSMC, deploying a new "LogicFolding" chip-design approach to sidestep U.S. export controls. NVIDIA CEO Jensen Huang publicly conceded the China AI chip market to Huawei, and DeepSeek's 75% price cut became permanent — collectively reshaping the global AI compute landscape.]]
 - `2026-05-23` [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2|Computex 2026: NVIDIA Vera Rubin, Photonic Networking, and Edge Robotics — Strategic Implications]]
 - `2026-05-23` [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge|Computex 2026: NVIDIA Vera Rubin, Photonic Networking, and Edge Robotics — Overview]]
 - `2026-05-21` [[2026-05-21-cerebras-ceo-andrew-feldman-on-why-he-built-the-world-s-larg|Cerebras CEO Andrew Feldman on why he built the world's largest computer chip]]
@@ -60,10 +43,7 @@ member_count: 62
 - `2026-04-22` [[2026-04-22-major-analysis-published-today-in-the-bulletin-of-the-atomic|major analysis published today in the Bulletin of the Atomic Scientists argues that current AI governance frameworks are optimized for steady-state oversight — not disaster response. Drawing parallels to the Oil Pollution Act of 1990 (post-Exxon Valdez) and the post-9/11 security legislation wave, author Juhyun Nam argues a catastrophic AI incident is "no longer a matter of if, but when," and that policymakers should pre-draft emergency AI response legislation now to be ready for that "policy window." The European Parliament separately voted on AI Act amendments this week, including a new ban on AI apps that create or manipulate sexually explicit images.]]
 - `2026-04-13` [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini|Stanford AI Index: World AI Compute Grows 3.3× Per Year; Training Carbon Costs Now "Alarming"]]
 - `2026-04-13` [[2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2|Global AI Compute Capacity Grows ~3.3x Year-Over-Year Since 2022]]
-- `2026-04-12` [[2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform|Nvidia confirmed its next-generation Vera Rubin GPU platform has entered mass production at TSMC, with initial shipments to hyperscaler customers expected in Q3 2026. At GTC 2026, CEO Jensen Huang identified physical AI and robotics as the primary growth vector, with the GR00T humanoid robot foundation model receiving major updates. Nvidia also unveiled new NIM microservice integrations for enterprise AI inference deployment, and its acquisition of SchedMD (the Slurm HPC scheduler) is now under preliminary FTC and EU antitrust inquiry.]]
-- `2026-04-12` [[2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de|Cursor released Cursor 3 with both cloud-hosted and local desktop AI agent modes capable of autonomous multi-file refactoring, test generation, and deployment pipeline configuration. The release comes as Cursor's valuation reached $30 billion following its latest funding round, making it one of the most valuable AI developer tools companies. Cursor 3 supports GPT-5.4, Claude Mythos (limited preview), and Gemini 3.1 Pro as selectable backend models, with the AI coding platform now commanding 54% market share in that category.]]
 - `2026-04-11` [[2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a|TSMC reported record first-quarter revenue of $35.6 billion, a 35% year-over-year jump that beat analyst estimates, driven primarily by insatiable AI chip demand. The results came despite geopolitical headwinds including the ongoing Iran conflict's impact on supply chains. TSMC reaffirmed that AI-related orders represent the majority of its leading-edge capacity at 2nm and 3nm nodes.]]
-- `2026-04-10` [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi|CoreWeave, the GPU cloud specialist, closed more than $21 billion in multi-year contracts in a single week, with both Meta and Anthropic signing as anchor customers. Shares surged 10.87% on the news, reflecting investor confidence in the company's position as a neutral AI infrastructure provider. The deals underscore the extraordinary scale of compute commitments being made by frontier AI labs to secure long-term cloud capacity.]]
 - [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform|NVIDIA GTC 2026 and GTC Taipei 2026: Vera Rubin platform]]
 - [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics|NVIDIA GTC 2026 and GTC Taipei 2026: Physical AI and robotics]]
 - [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack|NVIDIA GTC 2026 and GTC Taipei 2026: Nemotron and agent stack]]

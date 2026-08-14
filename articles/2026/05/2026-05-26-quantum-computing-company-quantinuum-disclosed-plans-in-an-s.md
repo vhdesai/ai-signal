@@ -21,9 +21,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-26-quantinuum-files-for-1-05b-ipo-at-up-to-12-7b-valuation
 - 2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t
-- 2026-05-02-cerebras-targets-4b-raise-at-40b-valuation-in-planned-ipo
+- 2026-05-04-cerebras-prices-ipo-at-26-6b-valuation-seeks-3-5b
 embedding_id: 2026-05-26-quantum-computing-company-quantinuum-disclosed-plans-in-an-s
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Quantum-computing company Quantinuum disclosed plans in an SEC filing to raise $
 
 **Entities:** [[Cerebras]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-quantinuum-files-for-1-05b-ipo-at-up-to-12-7b-valuation]] · [[2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t]] · [[2026-05-02-cerebras-targets-4b-raise-at-40b-valuation-in-planned-ipo]]
+**Related:** [[2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t]] · [[2026-05-04-cerebras-prices-ipo-at-26-6b-valuation-seeks-3-5b]]
 <!-- graph:end -->

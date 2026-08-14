@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses
-- 2026-06-27-m-trending-meta-debuts-its-cheapest-ai-smart-glasses-yet-at
 - 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
 - 2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court
+- 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
 embedding_id: 2026-06-27-meta-rolled-out-a-299-ai-smart-glasses-model-about-80-below
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta rolled out a $299 AI smart‑glasses model — about $80 below its prior en
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses]] · [[2026-06-27-m-trending-meta-debuts-its-cheapest-ai-smart-glasses-yet-at]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]] · [[2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court]]
+**Related:** [[2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]] · [[2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]]
 <!-- graph:end -->

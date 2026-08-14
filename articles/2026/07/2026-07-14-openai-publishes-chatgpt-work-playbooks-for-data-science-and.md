@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
+- 2026-07-10-chatgpt-work-launches-after-u-s-government-approval
 embedding_id: 2026-07-14-openai-publishes-chatgpt-work-playbooks-for-data-science-and
 event_name: ''
 ---
@@ -35,5 +36,5 @@ OpenAI published role-specific ChatGPT Work guidance for data science and sales 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]]
+**Related:** [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]] · [[2026-07-10-chatgpt-work-launches-after-u-s-government-approval]]
 <!-- graph:end -->

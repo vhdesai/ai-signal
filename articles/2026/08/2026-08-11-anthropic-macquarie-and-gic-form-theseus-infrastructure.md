@@ -23,9 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-anthropic-macquarie-and-gic-form-theseus-infrastructure-for
-- 2026-08-11-anthropic-macquarie-and-gic-launch-theseus-infrastructure-fo
-- 2026-08-04-google-assembles-roughly-200b-financing-structure-to-supply
 - 2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back
+- 2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin
 embedding_id: 2026-08-11-anthropic-macquarie-and-gic-form-theseus-infrastructure
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Anthropic, Macquarie, and GIC announced Theseus Infrastructure — a platform to
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-10-anthropic-macquarie-and-gic-form-theseus-infrastructure-for]] · [[2026-08-11-anthropic-macquarie-and-gic-launch-theseus-infrastructure-fo]] · [[2026-08-04-google-assembles-roughly-200b-financing-structure-to-supply]] · [[2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back]]
+**Related:** [[2026-08-10-anthropic-macquarie-and-gic-form-theseus-infrastructure-for]] · [[2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back]] · [[2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin]]
 <!-- graph:end -->

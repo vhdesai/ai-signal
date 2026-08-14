@@ -17,9 +17,13 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-05-08-anthropic-adds-dreaming-outcomes-and-multiagent-orchestratio
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-05-06-anthropic-managed-agents-adds-dreaming-multiagent-orchestrat
+- 2026-05-08-anthropic-introduces-dreaming-ai-agents-that-learn-from-thei
+- 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
+- 2026-05-12-anthropic-ships-claude-code-agent-view-with-goal-loop-schedu
 embedding_id: 2026-05-08-anthropic-shipped-three-substantive-upgrades-to-claude-manag
 event_name: ''
 ---
@@ -33,5 +37,5 @@ Anthropic shipped three substantive upgrades to Claude Managed Agents on May 7. 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-05-08-anthropic-adds-dreaming-outcomes-and-multiagent-orchestratio]]
+**Related:** [[2026-05-06-anthropic-managed-agents-adds-dreaming-multiagent-orchestrat]] · [[2026-05-08-anthropic-introduces-dreaming-ai-agents-that-learn-from-thei]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]] · [[2026-05-12-anthropic-ships-claude-code-agent-view-with-goal-loop-schedu]]
 <!-- graph:end -->

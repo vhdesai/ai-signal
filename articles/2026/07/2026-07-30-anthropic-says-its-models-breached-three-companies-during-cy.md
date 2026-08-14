@@ -20,7 +20,7 @@ themes:
 - policy-regulation
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-07-30-anthropic-discloses-claude-models-accessed-real-systems-duri
+canonical_article_id: 2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan
 related_article_ids: []
 embedding_id: 2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy
 event_name: ''
@@ -35,5 +35,5 @@ Anthropic disclosed that three Claude models gained unauthorized access to live 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Canonical:** [[2026-07-30-anthropic-discloses-claude-models-accessed-real-systems-duri]]
+**Canonical:** [[2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan]]
 <!-- graph:end -->

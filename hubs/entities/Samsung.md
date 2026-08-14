@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Samsung
-member_count: 71
+member_count: 65
 ---
 
 # Samsung
 
-> Auto-generated entity hub. 71 connected article(s).
+> Auto-generated entity hub. 65 connected article(s).
 
 - `2026-08-05` [[2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team|Anthropic is hiring a custom AI chip design team]]
 - `2026-08-01` [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and|Infrastructure Over Hype: Record AI Capex, a Memory Crunch, and a Safety Reckoning]]
@@ -16,20 +16,15 @@ member_count: 71
 - `2026-07-27` [[2026-07-27-global-chip-rout-deepens-korea-s-kospi-trips-circuit-breaker|Global chip rout deepens; Korea's Kospi trips circuit-breaker]]
 - `2026-07-26` [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san|Samsung and SK anchor a ~$950B Korean AI build-out under a “San Francisco AI Declaration”]]
 - `2026-07-25` [[2026-07-25-samsung-sds-signs-anthropic-partnership-rolling-claude-out-t|Samsung SDS signs Anthropic partnership, rolling Claude out to ~70,000 employees]]
+- `2026-07-25` [[2026-07-25-samsung-sds-rolls-claude-enterprise-out-to-70-000-employees|Samsung SDS rolls Claude Enterprise out to ~70,000 employees]]
 - `2026-07-25` [[2026-07-25-samsung-sds-rolls-claude-enterprise-out-to-about-70-000-empl|Samsung SDS rolls Claude Enterprise out to about 70,000 employees]]
 - `2026-07-25` [[2026-07-25-samsung-sds-partners-with-anthropic-to-put-claude-enterprise|Samsung SDS partners with Anthropic to put Claude Enterprise before ~70,000 employees]]
-- `2026-07-25` [[2026-07-25-samsung-sds-rolls-claude-enterprise-out-to-70-000-employees|Samsung SDS Rolls Claude Enterprise Out to ~70,000 Employees]]
 - `2026-07-25` [[2026-07-25-china-s-cxmt-debuts-on-shanghai-s-star-market-with-an-8-6b-r|China’s CXMT debuts on Shanghai’s STAR Market with an ~$8.6B raise near an $85B valuation]]
 - `2026-07-25` [[2026-07-25-china-s-cxmt-heads-to-a-85b-shanghai-listing-hardening-domes|China's CXMT heads to a ~$85B Shanghai listing, hardening domestic AI-memory supply]]
 - `2026-07-25` [[2026-07-25-cxmt-prices-record-8-6b-shanghai-chip-ipo-at-a-85b-valuation|CXMT prices record ~$8.6B Shanghai chip IPO at a ~$85B valuation]]
 - `2026-07-25` [[2026-07-25-cxmt-prices-record-8-6b-shanghai-chip-ipo-at-85b-valuation|CXMT Prices Record ~$8.6B Shanghai Chip IPO at ~$85B Valuation]]
 - `2026-07-25` [[2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials-moving-to|Anthropic Asks SK Hynix for Custom Chip Materials — Moving to Build Its Own Silicon]]
 - `2026-07-24` [[2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration|NVIDIA and South Korea expand full-stack AI collaboration]]
-- `2026-07-21` [[2026-07-21-the-information-2026-07-21-external-exclusive-google-plans-n|The Information - [2026-07-21] [EXTERNAL] Exclusive: Google Plans New 'Frozen' Chip to Run Its AI Models Much More…]]
-- `2026-07-21` [[2026-07-21-google-frozen-chip-samsung-memory-chip-positioning-apple-doj|Google Frozen chip; Samsung/memory-chip positioning; Apple/DOJ talks; Alibaba model; Moonshot IPO; SpaceX/Alphabet…]]
-- `2026-07-20` [[2026-07-20-the-information-2026-07-20-external-exclusive-google-plans-n|The Information - [2026-07-20] [EXTERNAL] Exclusive: Google Plans New 'Frozen' Chip to Run Its AI Models Much More…]]
-- `2026-07-20` [[2026-07-20-google-s-frozen-chip-samsung-as-memory-chip-underdog-apple-d|Google's Frozen chip; Samsung as memory-chip underdog; Apple/DOJ settlement talks; Moonshot IPO; Alibaba model;…]]
-- `2026-07-20` [[2026-07-20-google-frozen-chip-samsung-memory-chip-positioning-apple-doj|Google Frozen chip; Samsung/memory-chip positioning; Apple/DOJ talks; Alibaba model; Moonshot IPO; SpaceX/Alphabet…]]
 - `2026-07-13` [[2026-07-13-samsung-pulls-first-yongin-fab-forward-to-2029-for-ai-memory|Samsung pulls first Yongin fab forward to 2029 for AI memory]]
 - `2026-07-13` [[2026-07-13-semiconductors-samsung-capacity|SEMICONDUCTORS SAMSUNG CAPACITY]]
 - `2026-07-13` [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill|Capital and governance outran the model race. Four multi-billion-dollar infrastructure commitments — Meta, Intel, Samsung, TSMC — landed in one day. 200+ economists (15 Nobel laureates) warned on AI labor disruption, Xi will keynote next week's World AI Conference, and a security teardown found xAI's Grok CLI uploads entire repos including secrets. Nine items follow.]]
@@ -56,7 +51,6 @@ member_count: 71
 - `2026-06-25` [[2026-06-25-ibm-claims-first-sub-1nm-transistor-a-0-7nm-nanostack-archit|IBM claims first sub-1nm transistor — a 0.7nm "nanostack" architecture]]
 - `2026-06-23` [[2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface|AI Tech Stocks Tumble Globally as Rate Fears Resurface]]
 - `2026-06-22` [[2026-06-22-samsung-deploys-chatgpt-enterprise-and-codex-one-of-openai-s|Samsung Deploys ChatGPT Enterprise and Codex — One of OpenAI's Largest Rollouts]]
-- `2026-06-11` [[2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur|Google in Talks with Samsung for Next-Gen AI Chip Manufacturing]]
 - `2026-06-02` [[2026-06-02-anthropic-expands-glasswing-to-200-partners-maps-year-of-ai|Anthropic Expands Glasswing to ~200 Partners; Maps Year of AI Cyberattacks onto MITRE ATT&CK]]
 - `2026-05-31` [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op|Anthropic Closes $65B Series H at $965B Valuation, Overtakes OpenAI as Most Valuable AI Company]]
 - `2026-05-28` [[2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round|Chip makes join Anthropic cap table as it closes a $65B round at ~$965B valuation]]

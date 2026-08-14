@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
-- 2026-05-26-nvidia-s-china-retreat-huawei-on-track-for-60-of-domestic-ai
+- 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
 embedding_id: 2026-08-10-chinese-ai-labs-still-train-on-nvidia-switching-to-huawei-si
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Despite export controls and domestic-silicon mandates, Chinese labs continue to 
 
 **Entities:** [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-11-china-s-leading-model-developers-remain-dependent-on-nvidia]] · [[2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]] · [[2026-05-26-nvidia-s-china-retreat-huawei-on-track-for-60-of-domestic-ai]]
+**Related:** [[2026-08-11-china-s-leading-model-developers-remain-dependent-on-nvidia]] · [[2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]]
 <!-- graph:end -->

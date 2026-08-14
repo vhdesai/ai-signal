@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-rio-open-source-glue-to-m
 - 2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg
-- 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 - 2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research
+- 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 embedding_id: 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CMU released Robot I/O, an open-source Python framework for robot control, data 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-09-carnegie-mellon-releases-robot-i-o-rio-open-source-glue-to-m]] · [[2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research]]
+**Related:** [[2026-07-09-carnegie-mellon-releases-robot-i-o-rio-open-source-glue-to-m]] · [[2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg]] · [[2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]]
 <!-- graph:end -->

@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-05-24-stepfun-ships-stepaudio-2-5-realtime-a-roleplay-tuned-voice
 - 2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode
 - 2026-05-18-openai-released-three-new-voice-api-models-designed-for-live
+- 2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real
 embedding_id: 2026-05-24-stepfun-releases-stepaudio-2-5-realtime-end-to-end-voice-wit
 event_name: ''
 ---
@@ -39,5 +40,5 @@ StepFun shipped StepAudio 2.5 Realtime, an end-to-end voice model with roleplay-
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-24-stepfun-ships-stepaudio-2-5-realtime-end-to-end-voice-model]] · [[2026-05-24-stepfun-ships-stepaudio-2-5-realtime-a-roleplay-tuned-voice]] · [[2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode]] · [[2026-05-18-openai-released-three-new-voice-api-models-designed-for-live]]
+**Related:** [[2026-05-24-stepfun-ships-stepaudio-2-5-realtime-end-to-end-voice-model]] · [[2026-05-24-stepfun-ships-stepaudio-2-5-realtime-a-roleplay-tuned-voice]] · [[2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode]] · [[2026-05-18-openai-released-three-new-voice-api-models-designed-for-live]] · [[2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real]]
 <!-- graph:end -->

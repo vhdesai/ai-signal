@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-04-10-google-has-fully-integrated-notebooklm-its-ai-powered-resear
 - 2026-05-18-openai-released-three-new-voice-api-models-designed-for-live
 - 2026-08-06-openai-details-engineering-behind-its-real-time-voice-system
+- 2026-05-05-google-launched-event-driven-webhooks-support-in-the-gemini
 embedding_id: 2026-05-23-google-docs-live-ai-voice-drafting-tool-moves-toward-summer
 event_name: ''
 ---
@@ -39,5 +40,5 @@ A hands-on preview of Google Docs Live revealed a voice-first drafting experienc
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice]] · [[2026-04-10-google-has-fully-integrated-notebooklm-its-ai-powered-resear]] · [[2026-05-18-openai-released-three-new-voice-api-models-designed-for-live]] · [[2026-08-06-openai-details-engineering-behind-its-real-time-voice-system]]
+**Related:** [[2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice]] · [[2026-04-10-google-has-fully-integrated-notebooklm-its-ai-powered-resear]] · [[2026-05-18-openai-released-three-new-voice-api-models-designed-for-live]] · [[2026-08-06-openai-details-engineering-behind-its-real-time-voice-system]] · [[2026-05-05-google-launched-event-driven-webhooks-support-in-the-gemini]]
 <!-- graph:end -->

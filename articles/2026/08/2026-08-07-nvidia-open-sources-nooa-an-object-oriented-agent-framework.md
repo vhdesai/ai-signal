@@ -23,9 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-07-nvidia-open-sources-nooa-object-oriented-agent-framework-rea
 - 2026-08-07-nvidia-releases-nooa-an-object-oriented-python-framework-tha
-- 2026-08-07-nvidia-open-sources-nooa-agent-framework-hitting-82-2-on-swe
-- 2026-07-27-nvidia-forms-37-member-open-secure-ai-alliance-and-open-sour
-- 2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia
+- 2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri
+- 2026-08-01-nvidia-releases-molt-an-apache-2-0-pytorch-native-agentic-re
 embedding_id: 2026-08-07-nvidia-open-sources-nooa-an-object-oriented-agent-framework
 event_name: ''
 ---
@@ -39,5 +38,5 @@ NVIDIA Labs released NOOA (Object-Oriented Agents) under Apache 2.0, collapsing 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-07-nvidia-open-sources-nooa-object-oriented-agent-framework-rea]] · [[2026-08-07-nvidia-releases-nooa-an-object-oriented-python-framework-tha]] · [[2026-08-07-nvidia-open-sources-nooa-agent-framework-hitting-82-2-on-swe]] · [[2026-07-27-nvidia-forms-37-member-open-secure-ai-alliance-and-open-sour]] · [[2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia]]
+**Related:** [[2026-08-07-nvidia-open-sources-nooa-object-oriented-agent-framework-rea]] · [[2026-08-07-nvidia-releases-nooa-an-object-oriented-python-framework-tha]] · [[2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri]] · [[2026-08-01-nvidia-releases-molt-an-apache-2-0-pytorch-native-agentic-re]]
 <!-- graph:end -->

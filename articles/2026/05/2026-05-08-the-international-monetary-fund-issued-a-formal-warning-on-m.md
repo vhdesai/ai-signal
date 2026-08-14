@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-08-imf-warns-advanced-ai-cyber-models-could-destabilize-the-wor
 - 2026-05-08-openai-unveiled-gpt-5-5-cyber-on-may-7-a-specialized-model-b
 - 2026-04-13-ai-safety-policy
 - 2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud
 - 2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl
+- 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
 embedding_id: 2026-05-08-the-international-monetary-fund-issued-a-formal-warning-on-m
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The International Monetary Fund issued a formal warning on May 7 that advanced A
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-08-imf-warns-advanced-ai-cyber-models-could-destabilize-the-wor]] · [[2026-05-08-openai-unveiled-gpt-5-5-cyber-on-may-7-a-specialized-model-b]] · [[2026-04-13-ai-safety-policy]] · [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]] · [[2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl]]
+**Related:** [[2026-05-08-openai-unveiled-gpt-5-5-cyber-on-may-7-a-specialized-model-b]] · [[2026-04-13-ai-safety-policy]] · [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]] · [[2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]]
 <!-- graph:end -->

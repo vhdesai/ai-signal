@@ -21,8 +21,7 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids:
-- 2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag
+related_article_ids: []
 embedding_id: 2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app
 event_name: ''
 ---
@@ -36,5 +35,4 @@ OpenAI launched ChatGPT Work, a workspace that fuses ChatGPT with its Codex codi
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag]]
 <!-- graph:end -->

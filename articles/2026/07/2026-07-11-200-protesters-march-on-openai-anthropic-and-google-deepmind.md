@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de
-- 2026-07-11-hundreds-march-on-openai-anthropic-and-google-deepmind-offic
 - 2026-03-24-nearly-200-activists-from-pause-ai-and-quitgpt-marched-throu
-- 2026-03-24-ai-safety-protesters-march-on-openai-anthropic-and-xai-offic
+- 2026-07-11-hundreds-march-on-openai-anthropic-and-google-deepmind-offic
 - 2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools
+- 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
 embedding_id: 2026-07-11-200-protesters-march-on-openai-anthropic-and-google-deepmind
 event_name: ''
 ---
@@ -42,5 +42,5 @@ About 200 people marched through SF from OpenAI to Anthropic and DeepMind, deman
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de]] · [[2026-07-11-hundreds-march-on-openai-anthropic-and-google-deepmind-offic]] · [[2026-03-24-nearly-200-activists-from-pause-ai-and-quitgpt-marched-throu]] · [[2026-03-24-ai-safety-protesters-march-on-openai-anthropic-and-xai-offic]] · [[2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools]]
+**Related:** [[2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de]] · [[2026-03-24-nearly-200-activists-from-pause-ai-and-quitgpt-marched-throu]] · [[2026-07-11-hundreds-march-on-openai-anthropic-and-google-deepmind-offic]] · [[2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]]
 <!-- graph:end -->

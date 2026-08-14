@@ -19,9 +19,10 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app
 embedding_id: 2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag
 event_name: ''
 ---
@@ -35,5 +36,5 @@ OpenAI introduced ChatGPT Work, a cloud-based agent embedded in ChatGPT that con
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app]]
+**Related:** [[2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
+- 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a
-- 2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework
 embedding_id: 2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The paper argues LLM agents stay "reactive" in long-horizon tasks because they l
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a]] · [[2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework]]
+**Related:** [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a]]
 <!-- graph:end -->

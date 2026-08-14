@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-21-the-wsj-explores-the-emerging-concept-of-digital-twins-for-k
 - 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
-- 2026-05-30-30-ways-to-automate-work-in-slack-read-the-guide
 - 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
-- 2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale
+- 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
+- 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
+- 2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing
 embedding_id: 2026-05-18-your-work-team-is-now-a-pod-and-your-co-workers-are-ai-agent
 event_name: ''
 ---
@@ -37,5 +37,5 @@ WSJ profiled enterprises restructuring teams around “pods” that intermix hum
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-21-the-wsj-explores-the-emerging-concept-of-digital-twins-for-k]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-05-30-30-ways-to-automate-work-in-slack-read-the-guide]] · [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]] · [[2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale]]
+**Related:** [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing]]
 <!-- graph:end -->

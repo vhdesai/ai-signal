@@ -23,8 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai
-- 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
 - 2026-06-21-both-openai-and-anthropic-are-approaching-public-markets-at
+- 2026-08-03-chinese-open-models-are-reshaping-the-competitive-math-for-a
+- 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 embedding_id: 2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain
 event_name: ''
 ---
@@ -38,5 +39,5 @@ OpenAI slashed prices for GPT-5.6 Luna by 80%, signaling an intensifying price w
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-06-21-both-openai-and-anthropic-are-approaching-public-markets-at]]
+**Related:** [[2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai]] · [[2026-06-21-both-openai-and-anthropic-are-approaching-public-markets-at]] · [[2026-08-03-chinese-open-models-are-reshaping-the-competitive-math-for-a]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]]
 <!-- graph:end -->

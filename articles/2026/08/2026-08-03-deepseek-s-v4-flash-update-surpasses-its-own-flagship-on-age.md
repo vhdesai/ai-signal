@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
-- 2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r
+- 2026-08-07-deepseek-v4-flash-posts-61-4-on-arc-agi-2-at-roughly-four-ce
 embedding_id: 2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age
 event_name: ''
 ---
@@ -37,5 +37,5 @@ DeepSeek's updated V4-Flash (0731) reportedly outperforms the company's V4-Pro-P
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c]] · [[2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r]]
+**Related:** [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c]] · [[2026-08-07-deepseek-v4-flash-posts-61-4-on-arc-agi-2-at-roughly-four-ce]]
 <!-- graph:end -->

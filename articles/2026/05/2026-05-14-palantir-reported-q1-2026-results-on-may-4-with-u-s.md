@@ -17,9 +17,14 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-05-14-palantir-q1-2026-u-s-revenue-104-yoy-raises-full-year-guidan
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
+- 2026-05-04-palantir-q1-2026-revenue-85-yoy-u-s-commercial-133
+- 2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand
+- 2026-05-05-hotpalantir-beats-q1-estimates-with-85-revenue-growth-fastes
+- 2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges
 embedding_id: 2026-05-14-palantir-reported-q1-2026-results-on-may-4-with-u-s
 event_name: ''
 ---
@@ -33,5 +38,5 @@ Palantir reported Q1 2026 results on May 4 with U.S. revenue growing 104% year-o
 
 **Entities:** [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-05-14-palantir-q1-2026-u-s-revenue-104-yoy-raises-full-year-guidan]]
+**Related:** [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]] · [[2026-05-04-palantir-q1-2026-revenue-85-yoy-u-s-commercial-133]] · [[2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand]] · [[2026-05-05-hotpalantir-beats-q1-estimates-with-85-revenue-growth-fastes]] · [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges]]
 <!-- graph:end -->

@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-04-08-source-forbes-msn-the-neuron
 - 2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1
 - 2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1
-- 2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m
-- 2026-04-10-meta-debuted-muse-spark-on-april-8-the-inaugural-model-from
+- 2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1
+- 2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1
 embedding_id: 2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Today's digest captures a remarkably active 24-hour cycle in AI. Meta's Muse Spa
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1]] · [[2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-04-10-meta-debuted-muse-spark-on-april-8-the-inaugural-model-from]]
+**Related:** [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1]] · [[2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1]] · [[2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1]] · [[2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1]]
 <!-- graph:end -->

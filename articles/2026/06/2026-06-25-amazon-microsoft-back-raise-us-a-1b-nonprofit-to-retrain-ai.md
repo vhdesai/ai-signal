@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-12-anthropic-worker-retraining-programs-may-not-scale-to-ai-dis
 - 2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale
 - 2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin
-- 2026-03-19-the-information-logo-amazon-acquires-robotics-startup-boosti
+- 2026-07-07-amazon-to-raise-at-least-25b-in-bond-sale-to-fund-ai-buildou
 embedding_id: 2026-06-25-amazon-microsoft-back-raise-us-a-1b-nonprofit-to-retrain-ai
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Amazon, Microsoft and other tech firms joined RAISE US, a new bipartisan workfor
 
 **Entities:** [[Amazon]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-anthropic-worker-retraining-programs-may-not-scale-to-ai-dis]] · [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale]] · [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]] · [[2026-03-19-the-information-logo-amazon-acquires-robotics-startup-boosti]]
+**Related:** [[2026-08-12-anthropic-worker-retraining-programs-may-not-scale-to-ai-dis]] · [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale]] · [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]] · [[2026-07-07-amazon-to-raise-at-least-25b-in-bond-sale-to-fund-ai-buildou]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
 - 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
 - 2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r
-- 2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge
+- 2026-06-27-bytedance-and-renmin-university-release-illada-an-8b-diffusi
 embedding_id: 2026-07-25-28-9m-parameter-llm-now-runs-locally-on-an-8-esp32-microcont
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A developer has run a 28.9M-parameter TinyStories model entirely on an ESP32-S3 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-25-28-9m-parameter-llm-runs-locally-on-an-8-esp32-microcontroll]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r]] · [[2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge]]
+**Related:** [[2026-07-25-28-9m-parameter-llm-runs-locally-on-an-8-esp32-microcontroll]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r]] · [[2026-06-27-bytedance-and-renmin-university-release-illada-an-8b-diffusi]]
 <!-- graph:end -->

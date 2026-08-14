@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
-- 2026-04-06-carnegie-mellon-and-cornell-advance-multimodal-reasoning-in
 - 2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite
+- 2026-07-26-abbel-belief-state-memory-for-llm-agents
 embedding_id: 2026-05-14-arxiv-senses-wide-shut-representation-action-gap-in-omnimoda
 event_name: ''
 ---
@@ -35,5 +35,5 @@ This paper introduces the "representation-action gap" as a systematic failure mo
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-04-06-carnegie-mellon-and-cornell-advance-multimodal-reasoning-in]] · [[2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite]]
+**Related:** [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite]] · [[2026-07-26-abbel-belief-state-memory-for-llm-agents]]
 <!-- graph:end -->

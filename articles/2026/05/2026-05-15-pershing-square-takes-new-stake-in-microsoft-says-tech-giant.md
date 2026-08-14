@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope
-- 2026-04-27-the-information-logo-openai-s-aws-push-comes-as-customers-em
-- 2026-08-01-wall-street-thinks-it-knows-how-tech-giants-will-make-ai-pay
-- 2026-07-21-data-center-owners-rush-to-sell-stakes-at-pipeline-valuation
-- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
+- 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
+- 2026-05-05-greg-brockman-testifies-his-openai-stake-is-worth-close-to-3
+- 2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau
+- 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
 embedding_id: 2026-05-15-pershing-square-takes-new-stake-in-microsoft-says-tech-giant
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Bill Ackman's Pershing Square disclosed a newly built position in Microsoft, arg
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope]] · [[2026-04-27-the-information-logo-openai-s-aws-push-comes-as-customers-em]] · [[2026-08-01-wall-street-thinks-it-knows-how-tech-giants-will-make-ai-pay]] · [[2026-07-21-data-center-owners-rush-to-sell-stakes-at-pipeline-valuation]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]]
+**Related:** [[2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope]] · [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor]] · [[2026-05-05-greg-brockman-testifies-his-openai-stake-is-worth-close-to-3]] · [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau]] · [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]]
 <!-- graph:end -->

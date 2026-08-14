@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
 - 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
+- 2026-07-11-the-real-danger-of-ai-isn-t-that-it-s-wrong-it-s-that-it-cou
 - 2026-04-02-academic-research
-- 2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut
 embedding_id: 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch examined the debate over so-called “AI psychosis,” a term being u
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]] · [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-04-02-academic-research]] · [[2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut]]
+**Related:** [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]] · [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-07-11-the-real-danger-of-ai-isn-t-that-it-s-wrong-it-s-that-it-cou]] · [[2026-04-02-academic-research]]
 <!-- graph:end -->

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o
 - 2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m
 - 2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu
-- event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models
+- 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape
 embedding_id: 2026-04-20-microsoft-ai-april-18-2026-microsoft-detailed-additional-mai
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft AI • April 18, 2026 Microsoft detailed additional MAI model variants
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o]] · [[2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m]] · [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models]]
+**Related:** [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o]] · [[2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m]] · [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]]
 <!-- graph:end -->

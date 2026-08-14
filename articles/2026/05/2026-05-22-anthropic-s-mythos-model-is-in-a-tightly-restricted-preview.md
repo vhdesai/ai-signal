@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
-- 2026-05-22-claude-mythos-anthropic-restricted-preview-cybersecurity-cap
 - 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
-- 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
 - 2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho
+- 2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo
+- 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
 embedding_id: 2026-05-22-anthropic-s-mythos-model-is-in-a-tightly-restricted-preview
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic's Mythos model is in a tightly restricted preview with approximately 5
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-05-22-claude-mythos-anthropic-restricted-preview-cybersecurity-cap]] · [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho]]
+**Related:** [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]] · [[2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho]] · [[2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]]
 <!-- graph:end -->

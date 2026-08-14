@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- event-google-i-o-2026-google-i-o-2026-gemini-model-family
 - 2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at
 - 2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot
-- event-google-i-o-2026-google-i-o-2026-gemini-model-family
 - 2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
 embedding_id: 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
@@ -39,5 +39,5 @@ Google I/O 2026 launched two flagship models simultaneously. Gemini 3.5 Flash 鈥
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] 路 [[Model Breakthroughs]]
-**Related:** [[2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at]] 路 [[2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot]] 路 [[event-google-i-o-2026-google-i-o-2026-gemini-model-family]] 路 [[2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform]] 路 [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]]
+**Related:** [[event-google-i-o-2026-google-i-o-2026-gemini-model-family]] 路 [[2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at]] 路 [[2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot]] 路 [[2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform]] 路 [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]]
 <!-- graph:end -->

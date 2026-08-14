@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b
-- 2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de
+- event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o
 - 2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours
 - 2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university
-- 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
+- 2026-05-03-may-2-3-is-a-saturday-sunday-window-arxiv-s-daily-mailing-un
 embedding_id: 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
 event_name: ''
 ---
@@ -42,5 +42,5 @@ A sweep of BAIR, MIT News AI, Google DeepMind, Google Research, OpenAI, Apple Ma
 
 **Entities:** [[Apple]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours]] · [[2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]]
+**Related:** [[2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b]] · [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o]] · [[2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours]] · [[2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university]] · [[2026-05-03-may-2-3-is-a-saturday-sunday-window-arxiv-s-daily-mailing-un]]
 <!-- graph:end -->

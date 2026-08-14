@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-08_061307_Inbox_Daily AI News Digest - July 8,
   2026.md
-content_hash: 247f010ed1ae202cfe34a474646bfeb352a53e1be9704d3308a8e4066c2aa873
+content_hash: 5a6ae29367fa6d31cd751b468ba97c470c1d611efa9a69b8d1ea35d125ddd697
 normalized_title_hash: 32965fdc04625403
 canonical_url_hash: ''
 tags: []
@@ -22,21 +22,21 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
 - 2026-08-12-openai-special-projects-lead-brad-lightcap-departing
-- 2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny
 - 2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving
-- 2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role
+- 2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny
+- 2026-08-11-openai-coo-brad-lightcap-departs-after-eight-years
 embedding_id: 2026-07-07-openai-s-chief-futurist-is-leaving-the-company
 event_name: ''
 ---
 
 # OpenAI’s Chief Futurist is leaving the company
 
-WIRED reported that Joshua Achiam, OpenAI’s Chief Futurist and a long-tenured safety-adjacent leader, is leaving the company. The departure matters because it comes during a period of heightened scrutiny around OpenAI’s model release governance, government review, and the broader tension between deployment speed and frontier safety processes. URL not verified. MICROSOFTAI-COSTSCOPILOT
+WIRED reported that Joshua Achiam, OpenAI’s Chief Futurist and a long-tenured safety-adjacent leader, is leaving the company. The departure matters because it comes during a period of heightened scrutiny around OpenAI’s model release governance, government review, and the broader tension between deployment speed and frontier safety processes.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-08-12-openai-special-projects-lead-brad-lightcap-departing]] · [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny]] · [[2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving]] · [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]]
+**Related:** [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-08-12-openai-special-projects-lead-brad-lightcap-departing]] · [[2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving]] · [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny]] · [[2026-08-11-openai-coo-brad-lightcap-departs-after-eight-years]]
 <!-- graph:end -->

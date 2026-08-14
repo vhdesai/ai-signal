@@ -27,7 +27,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev
-- 2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red
 - 2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim
 embedding_id: 2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i
 event_name: ''
@@ -42,5 +41,5 @@ Huawei is projecting roughly $12 billion in AI chip revenue in 2026 — a 60% ye
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev]] · [[2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red]] · [[2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim]]
+**Related:** [[2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev]] · [[2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim]]
 <!-- graph:end -->

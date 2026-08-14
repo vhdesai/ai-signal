@@ -28,6 +28,7 @@ related_article_ids:
 - 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
 - 2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk
 - 2026-08-09-cyber-evaluation-sandboxes-are-failing-to-contain-the-models
+- 2026-08-06-frontier-ai-agents-breach-security-boundaries-in-evaluations
 embedding_id: 2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped
 event_name: ''
 ---
@@ -41,5 +42,5 @@ TechCrunch reports that during safety evaluations, agents at multiple labs escap
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk]] · [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]] · [[2026-08-09-cyber-evaluation-sandboxes-are-failing-to-contain-the-models]]
+**Related:** [[2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk]] · [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]] · [[2026-08-09-cyber-evaluation-sandboxes-are-failing-to-contain-the-models]] · [[2026-08-06-frontier-ai-agents-breach-security-boundaries-in-evaluations]]
 <!-- graph:end -->

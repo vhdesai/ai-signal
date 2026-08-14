@@ -27,9 +27,9 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa
 related_article_ids:
-- 2026-04-22-products-tools
 - event-google-cloud-next-2026-google-cloud-next-2026-overview
 - event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform
+- event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-strategic-imp
 - event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications
 embedding_id: event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-2
 event_name: 'Google Cloud Next 2026: Enterprise Agent Platform, Gemini Expansion,
@@ -46,5 +46,5 @@ Enterprise agents become platform products: Google is packaging agents as manage
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa]]
-**Related:** [[2026-04-22-products-tools]] · [[event-google-cloud-next-2026-google-cloud-next-2026-overview]] · [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform]] · [[event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications]]
+**Related:** [[event-google-cloud-next-2026-google-cloud-next-2026-overview]] · [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform]] · [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-strategic-imp]] · [[event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications]]
 <!-- graph:end -->

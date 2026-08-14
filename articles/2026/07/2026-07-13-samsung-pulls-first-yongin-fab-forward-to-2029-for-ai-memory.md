@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea
 - 2026-07-13-semiconductors-samsung-capacity
 - 2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p
-- 2026-08-07-sk-hynix-approves-54-trillion-won-for-two-new-ai-memory-fabs
+- 2026-08-07-sk-hynix-commits-roughly-38b-to-two-new-fabs-for-ai-memory
 embedding_id: 2026-07-13-samsung-pulls-first-yongin-fab-forward-to-2029-for-ai-memory
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Samsung will start operations 1–2 years ahead of schedule at the first of six 
 
 **Entities:** [[Samsung]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-07-13-semiconductors-samsung-capacity]] · [[2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p]] · [[2026-08-07-sk-hynix-approves-54-trillion-won-for-two-new-ai-memory-fabs]]
+**Related:** [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-07-13-semiconductors-samsung-capacity]] · [[2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p]] · [[2026-08-07-sk-hynix-commits-roughly-38b-to-two-new-fabs-for-ai-memory]]
 <!-- graph:end -->

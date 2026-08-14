@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
 - 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
-- 2026-07-23-arex-recursively-self-improving-deep-research-agents
 - 2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag
+- 2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina
 embedding_id: 2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MOSS proposes self-evolution via source-level code rewriting inside autonomous a
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]] · [[2026-07-23-arex-recursively-self-improving-deep-research-agents]] · [[2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag]]
+**Related:** [[2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]] · [[2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag]] · [[2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina]]
 <!-- graph:end -->

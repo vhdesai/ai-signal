@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-25-scope-only-items-confirmed-published-june-24-25-2026-last-24
-- 2026-07-09-compiled-thursday-july-9-2026-every-item-was-confirmed-publi
-- 2026-07-02-this-digest-covers-ai-news-and-research-confirmed-published
 - 2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w
-- 2026-07-22-the-information-2026-07-22-no-direct-the-information-publica
+- event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o
+- 2026-06-25-no-items-met-the-strict-24-hour-publication-bar
+- 2026-06-29-all-21-items-were-confirmed-published-within-the-last-24-hou
+- 2026-06-26-compiled-june-26-2026-every-item-was-confirmed-published-wit
 embedding_id: 2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co
 event_name: ''
 ---
@@ -35,5 +35,5 @@ This briefing includes only items with a publication date confirmed within the l
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-25-scope-only-items-confirmed-published-june-24-25-2026-last-24]] · [[2026-07-09-compiled-thursday-july-9-2026-every-item-was-confirmed-publi]] · [[2026-07-02-this-digest-covers-ai-news-and-research-confirmed-published]] · [[2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w]] · [[2026-07-22-the-information-2026-07-22-no-direct-the-information-publica]]
+**Related:** [[2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w]] · [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o]] · [[2026-06-25-no-items-met-the-strict-24-hour-publication-bar]] · [[2026-06-29-all-21-items-were-confirmed-published-within-the-last-24-hou]] · [[2026-06-26-compiled-june-26-2026-every-item-was-confirmed-published-wit]]
 <!-- graph:end -->

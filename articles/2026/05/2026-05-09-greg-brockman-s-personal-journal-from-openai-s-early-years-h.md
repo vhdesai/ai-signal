@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-09-openai-s-musk-v-altman-trial-greg-brockman-s-private-journal
 - 2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s
 - 2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu
 - 2026-05-04-musk-brockman-texts-surface-days-before-openai-trial-opens
 - 2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial
+- 2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins
 embedding_id: 2026-05-09-greg-brockman-s-personal-journal-from-openai-s-early-years-h
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Greg Brockman's personal journal from OpenAI's early years has emerged as star e
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-09-openai-s-musk-v-altman-trial-greg-brockman-s-private-journal]] · [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu]] · [[2026-05-04-musk-brockman-texts-surface-days-before-openai-trial-opens]] · [[2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial]]
+**Related:** [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu]] · [[2026-05-04-musk-brockman-texts-surface-days-before-openai-trial-opens]] · [[2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial]] · [[2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins]]
 <!-- graph:end -->

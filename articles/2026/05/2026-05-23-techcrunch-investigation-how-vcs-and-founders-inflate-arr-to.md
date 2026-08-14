@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-thrive-holdings-raises-2b-to-push-ai-into-regulated-workflow
+- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation
 - 2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
-- 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
 embedding_id: 2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch published an investigative piece on AI-startup ARR inflation, with Sp
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-thrive-holdings-raises-2b-to-push-ai-into-regulated-workflow]] · [[2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation]] · [[2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]]
+**Related:** [[2026-08-12-thrive-holdings-raises-2b-to-push-ai-into-regulated-workflow]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation]] · [[2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]]
 <!-- graph:end -->

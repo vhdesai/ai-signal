@@ -25,7 +25,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc
-- 2026-05-18-microsoft-openai-exclusivity-ends-openai-launches-deployco-1
 - 2026-04-27-
 embedding_id: 2026-05-18-on-april-27-microsoft-and-openai-dismantled-their-six-year-e
 event_name: ''
@@ -40,5 +39,5 @@ On April 27, Microsoft and OpenAI dismantled their six-year exclusive cloud agre
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc]] · [[2026-05-18-microsoft-openai-exclusivity-ends-openai-launches-deployco-1]] · [[2026-04-27-]]
+**Related:** [[2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc]] · [[2026-04-27-]]
 <!-- graph:end -->

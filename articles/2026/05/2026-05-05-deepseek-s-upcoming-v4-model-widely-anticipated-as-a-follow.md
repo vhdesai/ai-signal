@@ -29,9 +29,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
-- 2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l
 - 2026-05-08-following-the-april-24-release-of-deepseek-v4-preview-a-wave
-- 2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu
+- 2026-04-06-deepseek-s-forthcoming-v4-model-reportedly-carrying-1-trilli
 embedding_id: 2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow
 event_name: ''
 ---
@@ -45,5 +44,5 @@ DeepSeek's upcoming V4 model — widely anticipated as a follow-on to the market
 
 **Entities:** [[Alibaba]] · [[ByteDance]] · [[DeepSeek]] · [[Huawei]] · [[NVIDIA]] · [[Tencent]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]] · [[2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l]] · [[2026-05-08-following-the-april-24-release-of-deepseek-v4-preview-a-wave]] · [[2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu]]
+**Related:** [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]] · [[2026-05-08-following-the-april-24-release-of-deepseek-v4-preview-a-wave]] · [[2026-04-06-deepseek-s-forthcoming-v4-model-reportedly-carrying-1-trilli]]
 <!-- graph:end -->

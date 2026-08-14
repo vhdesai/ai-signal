@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ
-- 2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding
 - 2026-08-03-24-california-sb-942-ai-transparency-act-becomes-operative
 - 2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe
 - 2026-08-02-california-ai-transparency-act-sb-942-becomes-operative
+- 2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan
 embedding_id: 2026-08-11-stanford-study-finds-data-brokers-are-not-following-californ
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Stanford HAI highlighted an empirical audit, "Privacy Without Remedy," of data-b
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-08-03-24-california-sb-942-ai-transparency-act-becomes-operative]] · [[2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe]] · [[2026-08-02-california-ai-transparency-act-sb-942-becomes-operative]]
+**Related:** [[2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ]] · [[2026-08-03-24-california-sb-942-ai-transparency-act-becomes-operative]] · [[2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe]] · [[2026-08-02-california-ai-transparency-act-sb-942-becomes-operative]] · [[2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan]]
 <!-- graph:end -->

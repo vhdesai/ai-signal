@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a
 - 2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man
-- 2026-08-03-google-says-ai-agents-helped-fix-1-072-chrome-security-bugs
-- 2026-08-03-google-says-ai-agents-helped-find-and-fix-1-072-chrome-secur
-- 2026-08-03-google-says-ai-agents-helped-fix-more-than-1-000-chrome-secu
+- 2026-07-30-google-says-ai-helped-chrome-fix-more-bugs-in-june-than-in-t
+- 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
+- 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 embedding_id: 2026-04-30-breakingmozilla-formally-opposes-google-s-chrome-prompt-api
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Mozilla published formal opposition to Google's proposed Chrome Prompt API, whic
 ## Connections
 
 **Entities:** [[Google]]
-**Related:** [[2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a]] · [[2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man]] · [[2026-08-03-google-says-ai-agents-helped-fix-1-072-chrome-security-bugs]] · [[2026-08-03-google-says-ai-agents-helped-find-and-fix-1-072-chrome-secur]] · [[2026-08-03-google-says-ai-agents-helped-fix-more-than-1-000-chrome-secu]]
+**Related:** [[2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a]] · [[2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man]] · [[2026-07-30-google-says-ai-helped-chrome-fix-more-bugs-in-june-than-in-t]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]]
 <!-- graph:end -->

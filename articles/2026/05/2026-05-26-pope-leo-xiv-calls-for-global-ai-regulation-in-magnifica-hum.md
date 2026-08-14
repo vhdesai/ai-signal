@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-23-pope-leo-xiv-announced-his-first-papal-encyclical-magnifica
 - 2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-encyclical-on-ai
 - 2026-05-18-pope-leo-xiv-to-release-first-ai-encyclical-on-human-dignity
+- 2026-05-25-pope-leo-xiv-s-ai-encyclical-pushes-safety-into-mainstream-d
 embedding_id: 2026-05-26-pope-leo-xiv-calls-for-global-ai-regulation-in-magnifica-hum
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Pope Leo XIV used his first encyclical to call for stronger global AI regulation
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-05-23-pope-leo-xiv-announced-his-first-papal-encyclical-magnifica]] · [[2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-encyclical-on-ai]] · [[2026-05-18-pope-leo-xiv-to-release-first-ai-encyclical-on-human-dignity]]
+**Related:** [[2026-05-23-pope-leo-xiv-announced-his-first-papal-encyclical-magnifica]] · [[2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-encyclical-on-ai]] · [[2026-05-18-pope-leo-xiv-to-release-first-ai-encyclical-on-human-dignity]] · [[2026-05-25-pope-leo-xiv-s-ai-encyclical-pushes-safety-into-mainstream-d]]
 <!-- graph:end -->

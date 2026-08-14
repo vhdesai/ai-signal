@@ -23,10 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-01-wall-street-thinks-it-knows-how-tech-giants-will-make-ai-pay
-- 2026-08-01-wall-street-rewards-ai-spending-when-it-is-tied-to-cloud-rev
-- 2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc
-- 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
 - 2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou
+- 2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target
+- 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
 embedding_id: 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
 event_name: ''
 ---
@@ -40,5 +39,5 @@ The Wall Street Journal reported that investors are increasingly sorting AI spen
 
 **Entities:** [[Amazon]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-01-wall-street-thinks-it-knows-how-tech-giants-will-make-ai-pay]] · [[2026-08-01-wall-street-rewards-ai-spending-when-it-is-tied-to-cloud-rev]] · [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending]] · [[2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou]]
+**Related:** [[2026-08-01-wall-street-thinks-it-knows-how-tech-giants-will-make-ai-pay]] · [[2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou]] · [[2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]]
 <!-- graph:end -->

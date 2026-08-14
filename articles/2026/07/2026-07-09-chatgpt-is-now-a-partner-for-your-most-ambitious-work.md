@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack
+- 2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl
+- 2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr
 - 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
 - 2026-07-10-openai-introduces-chatgpt-work-as-a-gpt-5-6-powered-professi
-- 2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr
-- 2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl
 embedding_id: 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI introduced ChatGPT Work as an agentic work surface for longer-running tas
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]] · [[2026-07-10-openai-introduces-chatgpt-work-as-a-gpt-5-6-powered-professi]] · [[2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr]] · [[2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl]]
+**Related:** [[2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack]] · [[2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl]] · [[2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]] · [[2026-07-10-openai-introduces-chatgpt-work-as-a-gpt-5-6-powered-professi]]
 <!-- graph:end -->

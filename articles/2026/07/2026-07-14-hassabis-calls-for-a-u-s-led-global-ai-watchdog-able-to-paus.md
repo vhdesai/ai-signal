@@ -18,9 +18,12 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch
+- 2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog
+- 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
 embedding_id: 2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus
 event_name: ''
 ---
@@ -34,5 +37,5 @@ In a manifesto (“A Framework for Frontier AI and the Dawning of a New Age”) 
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch]]
+**Related:** [[2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch]] · [[2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]]
 <!-- graph:end -->

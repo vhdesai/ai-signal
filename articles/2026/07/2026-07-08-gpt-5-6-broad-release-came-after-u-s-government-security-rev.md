@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp
 - 2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi
 - 2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes
-- 2026-07-08-u-s-clears-openai-s-gpt-5-6-for-broad-public-rollout
+- 2026-07-07-openai-gpt-5-6-public-release-thursday-after-federal-pre-rel
 embedding_id: 2026-07-08-gpt-5-6-broad-release-came-after-u-s-government-security-rev
 event_name: ''
 ---
@@ -36,5 +36,5 @@ GPT-5.6's broad release followed restricted, government-vetted access, with fede
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-08-gpt-5-6-s-broad-release-came-only-after-a-u-s-government-sec]] · [[2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp]] · [[2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi]] · [[2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes]] · [[2026-07-08-u-s-clears-openai-s-gpt-5-6-for-broad-public-rollout]]
+**Related:** [[2026-07-08-gpt-5-6-s-broad-release-came-only-after-a-u-s-government-sec]] · [[2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp]] · [[2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi]] · [[2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes]] · [[2026-07-07-openai-gpt-5-6-public-release-thursday-after-federal-pre-rel]]
 <!-- graph:end -->

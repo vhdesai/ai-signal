@@ -23,8 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-intel-commits-5b-to-expand-leixlip-ireland-fab-for-ai-chips
 - 2026-08-11-intel-launches-15-billion-stock-offering-to-fund-ai-foundry
-- 2026-08-10-intel-launches-a-15b-stock-offering-to-fund-its-ai-and-found
 - 2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry
+- 2026-08-10-intel-launches-a-15b-stock-offering-to-fund-its-ai-and-found
+- 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
 embedding_id: 2026-07-13-intel-commits-5b-5-7b-to-expand-its-leixlip-ireland-fab-for
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Intel began a €5 billion capital program at its Leixlip campus to expand Intel
 
 **Entities:** [[Intel]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-07-13-intel-commits-5b-to-expand-leixlip-ireland-fab-for-ai-chips]] · [[2026-08-11-intel-launches-15-billion-stock-offering-to-fund-ai-foundry]] · [[2026-08-10-intel-launches-a-15b-stock-offering-to-fund-its-ai-and-found]] · [[2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry]]
+**Related:** [[2026-07-13-intel-commits-5b-to-expand-leixlip-ireland-fab-for-ai-chips]] · [[2026-08-11-intel-launches-15-billion-stock-offering-to-fund-ai-foundry]] · [[2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry]] · [[2026-08-10-intel-launches-a-15b-stock-offering-to-fund-its-ai-and-found]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]]
 <!-- graph:end -->

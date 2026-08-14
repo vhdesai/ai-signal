@@ -20,9 +20,14 @@ themes:
 - model-capabilities
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-05-23-anthropic-launches-claude-design-visual-collaboration-produc
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-05-18-anthropic-launches-claude-design-for-visual-collaboration
+- 2026-04-20-anthropic-april-17-2026-anthropic-unveiled-claude-design-a-s
+- 2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res
+- 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
+- 2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a
 embedding_id: 2026-05-23-claude-design-is-a-new-product-from-anthropic-labs-that-enab
 event_name: ''
 ---
@@ -36,5 +41,5 @@ Claude Design is a new product from Anthropic Labs that enables users to collabo
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Canonical:** [[2026-05-23-anthropic-launches-claude-design-visual-collaboration-produc]]
+**Related:** [[2026-05-18-anthropic-launches-claude-design-for-visual-collaboration]] · [[2026-04-20-anthropic-april-17-2026-anthropic-unveiled-claude-design-a-s]] · [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]] · [[2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a]]
 <!-- graph:end -->

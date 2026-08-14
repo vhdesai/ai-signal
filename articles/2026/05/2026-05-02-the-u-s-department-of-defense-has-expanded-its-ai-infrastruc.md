@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws
-- 2026-05-02-pentagon-signs-ai-deployment-contracts-with-nvidia-microsoft
 - 2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab
 - 2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors
+- 2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi
 embedding_id: 2026-05-02-the-u-s-department-of-defense-has-expanded-its-ai-infrastruc
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The U.S. Department of Defense has expanded its AI infrastructure program by sig
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws]] · [[2026-05-02-pentagon-signs-ai-deployment-contracts-with-nvidia-microsoft]] · [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]] · [[2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors]]
+**Related:** [[2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws]] · [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]] · [[2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors]] · [[2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi]]
 <!-- graph:end -->

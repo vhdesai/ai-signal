@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic
-- 2026-05-13-google-unveils-googlebooks-gemini-intelligence-suite-agentic
 - 2026-05-16-at-its-android-show-event-may-12-google-announced-googlebook
 - event-google-android-show-2026-google-android-show-2026-strategic-implications
+- 2026-05-13-google-announces-googlebook-an-ai-first-laptop-category-desi
 embedding_id: 2026-05-13-in-the-most-significant-android-hardware-and-software-announ
 event_name: ''
 ---
@@ -38,5 +38,5 @@ In the most significant Android hardware-and-software announcement in years, Goo
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic]] · [[2026-05-13-google-unveils-googlebooks-gemini-intelligence-suite-agentic]] · [[2026-05-16-at-its-android-show-event-may-12-google-announced-googlebook]] · [[event-google-android-show-2026-google-android-show-2026-strategic-implications]]
+**Related:** [[2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic]] · [[2026-05-16-at-its-android-show-event-may-12-google-announced-googlebook]] · [[event-google-android-show-2026-google-android-show-2026-strategic-implications]] · [[2026-05-13-google-announces-googlebook-an-ai-first-laptop-category-desi]]
 <!-- graph:end -->

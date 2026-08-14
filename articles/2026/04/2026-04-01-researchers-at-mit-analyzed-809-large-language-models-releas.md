@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-01-mit-study-compute-scale-not-proprietary-techniques-drives-80
 - 2026-05-15-stanford-s-9th-annual-ai-index-now-being-widely-cited-this-w
 - 2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p
 - 2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr
 - 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
+- 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 embedding_id: 2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Researchers at MIT analyzed 809 large language models released between October 2
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-01-mit-study-compute-scale-not-proprietary-techniques-drives-80]] · [[2026-05-15-stanford-s-9th-annual-ai-index-now-being-widely-cited-this-w]] · [[2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p]] · [[2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr]] · [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]]
+**Related:** [[2026-05-15-stanford-s-9th-annual-ai-index-now-being-widely-cited-this-w]] · [[2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p]] · [[2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr]] · [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]]
 <!-- graph:end -->

@@ -21,8 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-09-anthropic-code-w-claude-2026-developer-event-agentic-workflo
+- 2026-05-09-anthropic-held-its-code-w-claude-2026-event-with-technologis
 - 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
+- 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 embedding_id: 2026-05-14-anthropic-s-cat-wu-outlines-the-proactivity-thesis-for-next
 event_name: ''
@@ -37,5 +38,5 @@ Anthropic's Cat Wu outlines the proactivity thesis for next-generation AI — Te
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-09-anthropic-code-w-claude-2026-developer-event-agentic-workflo]] · [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]]
+**Related:** [[2026-05-09-anthropic-held-its-code-w-claude-2026-event-with-technologis]] · [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]]
 <!-- graph:end -->

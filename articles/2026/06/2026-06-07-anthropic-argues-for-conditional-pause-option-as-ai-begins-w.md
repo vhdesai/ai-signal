@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 - 2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written
 - 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
-- 2026-07-28-anthropic-says-claude-5-works-better-with-much-shorter-promp
+- 2026-06-04-anthropic-calls-for-coordinated-global-pause-in-frontier-ai
 embedding_id: 2026-06-07-anthropic-argues-for-conditional-pause-option-as-ai-begins-w
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic's Jack Clark and Marina Favaro argued that labs should preserve the op
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-07-anthropic-labs-should-retain-option-to-pause-as-ai-writes-80]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written]] · [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]] · [[2026-07-28-anthropic-says-claude-5-works-better-with-much-shorter-promp]]
+**Related:** [[2026-06-07-anthropic-labs-should-retain-option-to-pause-as-ai-writes-80]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written]] · [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]] · [[2026-06-04-anthropic-calls-for-coordinated-global-pause-in-frontier-ai]]
 <!-- graph:end -->

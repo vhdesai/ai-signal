@@ -28,8 +28,8 @@ canonical_article_id: null
 related_article_ids:
 - event-microsoft-build-2026-microsoft-build-2026-strategic-implications
 - event-microsoft-build-2026-microsoft-build-2026-overview
+- event-microsoft-build-2026-microsoft-build-2026-infrastructure-silicon-and-cloud-operat
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
-- event-microsoft-build-2026-microsoft-build-2026-microsoft-iq-grounding-and-organization
 embedding_id: event-microsoft-build-2026-microsoft-build-2026-azure-fabric-data-and-app-platform
 event_name: Microsoft Build 2026
 ---
@@ -43,5 +43,5 @@ Rayfin: Preview open-source SDK and CLI for generating typed, governed enterpris
 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]] · [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-iq-grounding-and-organization]]
+**Related:** [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]] · [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[event-microsoft-build-2026-microsoft-build-2026-infrastructure-silicon-and-cloud-operat]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]]
 <!-- graph:end -->

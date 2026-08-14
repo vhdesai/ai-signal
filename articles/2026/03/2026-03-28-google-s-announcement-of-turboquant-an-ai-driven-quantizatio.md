@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-04-google-research-published-turboquant-a-vector-quantization-a
 - 2026-05-12-google-turboquant-sets-new-bar-for-efficient-vector-compress
-- 2026-04-04-google-turboquant-6x-ai-memory-reduction-with-zero-accuracy
 - 2026-05-12-google-releases-turboquant-for-efficient-vector-compression
 - 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
+- 2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite
 embedding_id: 2026-03-28-google-s-announcement-of-turboquant-an-ai-driven-quantizatio
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google's announcement of TurboQuant — an AI-driven quantization technique that
 
 **Entities:** [[Google]] · [[Samsung]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-04-google-research-published-turboquant-a-vector-quantization-a]] · [[2026-05-12-google-turboquant-sets-new-bar-for-efficient-vector-compress]] · [[2026-04-04-google-turboquant-6x-ai-memory-reduction-with-zero-accuracy]] · [[2026-05-12-google-releases-turboquant-for-efficient-vector-compression]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]]
+**Related:** [[2026-04-04-google-research-published-turboquant-a-vector-quantization-a]] · [[2026-05-12-google-turboquant-sets-new-bar-for-efficient-vector-compress]] · [[2026-05-12-google-releases-turboquant-for-efficient-vector-compression]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite]]
 <!-- graph:end -->

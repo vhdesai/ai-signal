@@ -43,9 +43,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai
 - 2026-08-01-judge-lets-minnesota-s-ai-nudify-app-ban-take-effect-despite
-- 2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-ban-on-ai-nudify
 - 2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t
-- 2026-08-01-judge-denies-xai-request-to-block-minnesota-ban-on-nudify-ap
+- 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
 embedding_id: 2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica
 event_name: ''
 ---
@@ -59,5 +58,5 @@ A federal judge denied xAI's request for a temporary restraining order to stop M
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai]] · [[2026-08-01-judge-lets-minnesota-s-ai-nudify-app-ban-take-effect-despite]] · [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-ban-on-ai-nudify]] · [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t]] · [[2026-08-01-judge-denies-xai-request-to-block-minnesota-ban-on-nudify-ap]]
+**Related:** [[2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai]] · [[2026-08-01-judge-lets-minnesota-s-ai-nudify-app-ban-take-effect-despite]] · [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t]] · [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law]]
 <!-- graph:end -->

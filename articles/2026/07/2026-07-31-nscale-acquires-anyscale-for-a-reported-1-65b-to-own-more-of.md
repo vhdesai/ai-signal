@@ -21,7 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-30-nscale-buys-anyscale-for-1-65b-to-own-more-of-the-ai-compute
-- 2026-03-12-nvidia-cloud-ally-nscale-in-talks-to-buy-a-major-u-s
+- 2026-05-10-nebius-acquires-ai-consultancy-eigen-for-643m-nvidia-commits
 embedding_id: 2026-07-31-nscale-acquires-anyscale-for-a-reported-1-65b-to-own-more-of
 event_name: ''
 ---
@@ -34,5 +34,5 @@ British AI cloud provider Nscale agreed to acquire Anyscale — the company behi
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-30-nscale-buys-anyscale-for-1-65b-to-own-more-of-the-ai-compute]] · [[2026-03-12-nvidia-cloud-ally-nscale-in-talks-to-buy-a-major-u-s]]
+**Related:** [[2026-07-30-nscale-buys-anyscale-for-1-65b-to-own-more-of-the-ai-compute]] · [[2026-05-10-nebius-acquires-ai-consultancy-eigen-for-643m-nvidia-commits]]
 <!-- graph:end -->

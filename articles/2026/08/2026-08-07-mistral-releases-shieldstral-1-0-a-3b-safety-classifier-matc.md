@@ -18,7 +18,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-07-mistral-ai-releases-shieldstral-1-0-3b-open-weights-safety-c
+canonical_article_id: 2026-08-07-mistral-ai-releases-shieldstral-1-0-an-open-weights-3b-multi
 related_article_ids: []
 embedding_id: 2026-08-07-mistral-releases-shieldstral-1-0-a-3b-safety-classifier-matc
 event_name: ''
@@ -33,5 +33,5 @@ Mistral AI released Shieldstral 1.0 3B, an Apache 2.0-licensed multimodal safety
 
 **Entities:** [[Mistral]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-08-07-mistral-ai-releases-shieldstral-1-0-3b-open-weights-safety-c]]
+**Canonical:** [[2026-08-07-mistral-ai-releases-shieldstral-1-0-an-open-weights-3b-multi]]
 <!-- graph:end -->

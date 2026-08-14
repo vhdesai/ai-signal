@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-29-microsoft-beats-on-fq4-as-azure-grows-43-shares-jump-8
 - 2026-07-30-microsoft-s-azure-tops-100b-as-fiscal-q4-beat-rewards-capex
-- 2026-07-30-microsoft-s-ai-bet-pushes-azure-past-a-100b-run-rate-as-clou
+- 2026-07-29-microsoft-beats-on-fq4-as-azure-grows-43-shares-jump-8
 - 2026-07-30-microsoft-fq4-azure-43-crosses-100b-run-rate-30m-copilot-sea
+- 2026-07-30-capex-reckoning-hyperscalers-split-on-ai-payoff
 - 2026-07-30-investors-continue-to-reward-ai-spend-when-it-is-paired-with
 embedding_id: 2026-07-29-microsoft-s-fiscal-q4-beat-lifts-shares-8-as-it-raises-ai-dr
 event_name: ''
@@ -41,5 +41,5 @@ Microsoft reported fiscal Q4 revenue of roughly $90.0B, ahead of the ~$87.7B con
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-microsoft-beats-on-fq4-as-azure-grows-43-shares-jump-8]] · [[2026-07-30-microsoft-s-azure-tops-100b-as-fiscal-q4-beat-rewards-capex]] · [[2026-07-30-microsoft-s-ai-bet-pushes-azure-past-a-100b-run-rate-as-clou]] · [[2026-07-30-microsoft-fq4-azure-43-crosses-100b-run-rate-30m-copilot-sea]] · [[2026-07-30-investors-continue-to-reward-ai-spend-when-it-is-paired-with]]
+**Related:** [[2026-07-30-microsoft-s-azure-tops-100b-as-fiscal-q4-beat-rewards-capex]] · [[2026-07-29-microsoft-beats-on-fq4-as-azure-grows-43-shares-jump-8]] · [[2026-07-30-microsoft-fq4-azure-43-crosses-100b-run-rate-30m-copilot-sea]] · [[2026-07-30-capex-reckoning-hyperscalers-split-on-ai-payoff]] · [[2026-07-30-investors-continue-to-reward-ai-spend-when-it-is-paired-with]]
 <!-- graph:end -->

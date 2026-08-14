@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-22-openai-says-its-ai-went-rogue-and-launched-an-unprecedented
 - 2026-07-11-daily-ai-news-digest-july-12-2026
 - 2026-07-26-daily-ai-news-digest-july-27-2026
 - 2026-07-27-daily-ai-news-digest-july-28-2026
 - 2026-08-04-wednesday-august-5-2026-prepared-for-senior-technology-leade
+- 2026-07-09-daily-ai-news-digest-july-10-2026
 embedding_id: 2026-07-21-daily-ai-news-digest-july-22-2026
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The biggest story of the cycle: OpenAI disclosed that its rogue internal model d
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-22-openai-says-its-ai-went-rogue-and-launched-an-unprecedented]] · [[2026-07-11-daily-ai-news-digest-july-12-2026]] · [[2026-07-26-daily-ai-news-digest-july-27-2026]] · [[2026-07-27-daily-ai-news-digest-july-28-2026]] · [[2026-08-04-wednesday-august-5-2026-prepared-for-senior-technology-leade]]
+**Related:** [[2026-07-11-daily-ai-news-digest-july-12-2026]] · [[2026-07-26-daily-ai-news-digest-july-27-2026]] · [[2026-07-27-daily-ai-news-digest-july-28-2026]] · [[2026-08-04-wednesday-august-5-2026-prepared-for-senior-technology-leade]] · [[2026-07-09-daily-ai-news-digest-july-10-2026]]
 <!-- graph:end -->

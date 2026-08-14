@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-06-openai-asks-judge-to-dismiss-apple-s-trade-secrets-lawsuit
 - 2026-04-13-industry-news
-- 2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle
 - 2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef
-- 2026-07-20-apple-s-trade-secret-lawsuit-against-openai-could-complicate
+- 2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins
+- 2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over
 embedding_id: 2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI is reported to be preparing legal action against Apple, adding to a growi
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-08-06-openai-asks-judge-to-dismiss-apple-s-trade-secrets-lawsuit]] · [[2026-04-13-industry-news]] · [[2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle]] · [[2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef]] · [[2026-07-20-apple-s-trade-secret-lawsuit-against-openai-could-complicate]]
+**Related:** [[2026-08-06-openai-asks-judge-to-dismiss-apple-s-trade-secrets-lawsuit]] · [[2026-04-13-industry-news]] · [[2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef]] · [[2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins]] · [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over]]
 <!-- graph:end -->

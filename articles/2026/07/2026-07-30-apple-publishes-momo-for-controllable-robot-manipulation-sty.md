@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
+- 2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra
 - 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
 - 2026-07-06-path-constrained-mixture-of-experts
 embedding_id: 2026-07-30-apple-publishes-momo-for-controllable-robot-manipulation-sty
@@ -38,5 +39,5 @@ Apple published MoMo, a two-stage imitation-learning framework that separates ta
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-07-06-path-constrained-mixture-of-experts]]
+**Related:** [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra]] · [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-07-06-path-constrained-mixture-of-experts]]
 <!-- graph:end -->

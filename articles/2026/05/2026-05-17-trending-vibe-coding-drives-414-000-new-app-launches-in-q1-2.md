@@ -23,10 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-06-apple-is-tightening-app-store-review-policies-after-ai-assis
-- 2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full
-- 2026-04-06-apple-cracks-down-on-vibe-coding-apps-amid-84-surge-in-app-s
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
-- 2026-06-30-cursor-launches-its-first-native-ios-app-for-steering-coding
+- 2026-05-18-a-new-paper-analyzing-over-160-000-product-launches-on-produ
+- 2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib
 embedding_id: 2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2
 event_name: ''
 ---
@@ -39,5 +38,5 @@ The "vibe coding" movement — where non-engineers build functional apps using A
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-06-apple-is-tightening-app-store-review-policies-after-ai-assis]] · [[2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full]] · [[2026-04-06-apple-cracks-down-on-vibe-coding-apps-amid-84-surge-in-app-s]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-06-30-cursor-launches-its-first-native-ios-app-for-steering-coding]]
+**Related:** [[2026-04-06-apple-is-tightening-app-store-review-policies-after-ai-assis]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-05-18-a-new-paper-analyzing-over-160-000-product-launches-on-produ]] · [[2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib]]
 <!-- graph:end -->

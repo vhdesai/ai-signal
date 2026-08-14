@@ -19,6 +19,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo
 - 2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans
 - 2026-08-10-practitioner-explainer-prompt-caching-versus-fine-tuning-for
@@ -35,5 +36,5 @@ Machine Learning Mastery published four in-window tutorials covering transformer
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo]] · [[2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans]] · [[2026-08-10-practitioner-explainer-prompt-caching-versus-fine-tuning-for]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]]
+**Related:** [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo]] · [[2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans]] · [[2026-08-10-practitioner-explainer-prompt-caching-versus-fine-tuning-for]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]]
 <!-- graph:end -->

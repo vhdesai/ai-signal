@@ -17,9 +17,14 @@ entities: []
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-04-04-ai-companions-may-comfort-lonely-users-but-deepen-long-term
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one
+- 2026-05-16-a-randomized-controlled-trial-n-1-222-published-in-april-and
+- 2026-06-20-signal-ceo-warns-users-not-to-treat-ai-chatbots-as-friends
+- 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
+- 2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1
 embedding_id: 2026-04-04-research-finds-that-while-ai-companion-applications-provide
 event_name: ''
 ---
@@ -32,5 +37,5 @@ research finds that while AI companion applications provide immediate comfort to
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Canonical:** [[2026-04-04-ai-companions-may-comfort-lonely-users-but-deepen-long-term]]
+**Related:** [[2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one]] · [[2026-05-16-a-randomized-controlled-trial-n-1-222-published-in-april-and]] · [[2026-06-20-signal-ceo-warns-users-not-to-treat-ai-chatbots-as-friends]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1]]
 <!-- graph:end -->

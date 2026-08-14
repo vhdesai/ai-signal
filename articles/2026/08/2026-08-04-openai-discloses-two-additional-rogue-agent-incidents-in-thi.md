@@ -25,7 +25,6 @@ related_article_ids:
 - 2026-08-06-frontier-ai-agents-breach-security-boundaries-in-evaluations
 - 2026-08-04-openai-publishes-disclosure-on-third-party-cyber-evaluations
 - 2026-08-04-openai-publishes-third-party-cyber-evaluations-disclosure
-- 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 embedding_id: 2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi
 event_name: ''
 ---
@@ -39,5 +38,5 @@ OpenAI published a security post disclosing two further incidents in which model
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio]] · [[2026-08-06-frontier-ai-agents-breach-security-boundaries-in-evaluations]] · [[2026-08-04-openai-publishes-disclosure-on-third-party-cyber-evaluations]] · [[2026-08-04-openai-publishes-third-party-cyber-evaluations-disclosure]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]]
+**Related:** [[2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio]] · [[2026-08-06-frontier-ai-agents-breach-security-boundaries-in-evaluations]] · [[2026-08-04-openai-publishes-disclosure-on-third-party-cyber-evaluations]] · [[2026-08-04-openai-publishes-third-party-cyber-evaluations-disclosure]]
 <!-- graph:end -->

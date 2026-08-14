@@ -25,11 +25,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
+- 2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri
 - 2026-04-02-salesforce-announced-a-sweeping-ai-driven-overhaul-of-slack
-- 2026-04-03-salesforce-transforms-slackbot-into-autonomous-work-assistan
-- 2026-04-02-salesforce-announces-30-new-ai-features-for-slack-in-major-m
 - 2026-04-10-salesforce-announced-a-major-slackbot-upgrade-adding-30-new
+- 2026-04-03-salesforce-announced-a-major-slackbot-overhaul-reusable-ai-s
+- 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
 embedding_id: 2026-04-01-products-tools
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Apple Tests Multi-Command Siri for iOS 27 — Simultaneous Task Handling Coming 
 
 **Entities:** [[Apple]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[Salesforce]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-04-02-salesforce-announced-a-sweeping-ai-driven-overhaul-of-slack]] · [[2026-04-03-salesforce-transforms-slackbot-into-autonomous-work-assistan]] · [[2026-04-02-salesforce-announces-30-new-ai-features-for-slack-in-major-m]] · [[2026-04-10-salesforce-announced-a-major-slackbot-upgrade-adding-30-new]]
+**Related:** [[2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri]] · [[2026-04-02-salesforce-announced-a-sweeping-ai-driven-overhaul-of-slack]] · [[2026-04-10-salesforce-announced-a-major-slackbot-upgrade-adding-30-new]] · [[2026-04-03-salesforce-announced-a-major-slackbot-overhaul-reusable-ai-s]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]]
 <!-- graph:end -->

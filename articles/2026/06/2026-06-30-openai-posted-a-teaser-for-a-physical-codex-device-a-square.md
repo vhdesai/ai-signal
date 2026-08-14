@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-30-openai-teases-its-first-hardware-codex-micro-a-codex-shortcu
 - 2026-06-30-openai-s-developer-account-teased-a-hardware-product-reporte
-- 2026-06-30-openai-teases-its-first-hardware-product-a-codex-mechanical
-- 2026-06-30-openai-teases-a-codex-hardware-device-launching-july-15
-- 2026-07-16-openai-launches-codex-micro-a-230-physical-keyboard-control
+- 2026-07-25-openai-s-ai-keypad-points-to-specialized-agent-control-hardw
+- 2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on
+- 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
 embedding_id: 2026-06-30-openai-posted-a-teaser-for-a-physical-codex-device-a-square
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI posted a teaser for a physical Codex device — a square, button-and-dial
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-30-openai-teases-its-first-hardware-codex-micro-a-codex-shortcu]] · [[2026-06-30-openai-s-developer-account-teased-a-hardware-product-reporte]] · [[2026-06-30-openai-teases-its-first-hardware-product-a-codex-mechanical]] · [[2026-06-30-openai-teases-a-codex-hardware-device-launching-july-15]] · [[2026-07-16-openai-launches-codex-micro-a-230-physical-keyboard-control]]
+**Related:** [[2026-06-30-openai-teases-its-first-hardware-codex-micro-a-codex-shortcu]] · [[2026-06-30-openai-s-developer-account-teased-a-hardware-product-reporte]] · [[2026-07-25-openai-s-ai-keypad-points-to-specialized-agent-control-hardw]] · [[2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]]
 <!-- graph:end -->

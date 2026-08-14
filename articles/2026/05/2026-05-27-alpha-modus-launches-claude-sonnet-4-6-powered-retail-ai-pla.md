@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-17-wave-of-agentic-product-launches-codex-on-mobile-alexa-shopp
 - 2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res
 - 2026-06-29-coreweave-debuts-aria-research-agent-as-weights-biases-weave
 - 2026-06-19-elastic-reportedly-agrees-to-buy-deductive-ai-for-up-to-85m
+- 2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd
 embedding_id: 2026-05-27-alpha-modus-launches-claude-sonnet-4-6-powered-retail-ai-pla
 event_name: ''
 ---
@@ -40,5 +40,5 @@ ARIA — a PaaS for physical retail — ingests POS, in-store camera, Wi-Fi, loy
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-17-wave-of-agentic-product-launches-codex-on-mobile-alexa-shopp]] · [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]] · [[2026-06-29-coreweave-debuts-aria-research-agent-as-weights-biases-weave]] · [[2026-06-19-elastic-reportedly-agrees-to-buy-deductive-ai-for-up-to-85m]]
+**Related:** [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]] · [[2026-06-29-coreweave-debuts-aria-research-agent-as-weights-biases-weave]] · [[2026-06-19-elastic-reportedly-agrees-to-buy-deductive-ai-for-up-to-85m]] · [[2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd]]
 <!-- graph:end -->

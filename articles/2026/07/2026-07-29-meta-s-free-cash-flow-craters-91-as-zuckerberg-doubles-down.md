@@ -23,8 +23,6 @@ related_article_ids:
 - 2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex
 - 2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla
 - 2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore
-- 2026-07-30-meta-q4-profit-falls-14-free-cash-flow-plunges-91-as-capex-n
-- 2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190
 embedding_id: 2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down
 event_name: ''
 ---
@@ -38,5 +36,5 @@ Meta's Q2 2026 free cash flow collapsed 91% year over year to $784M (from $8.55B
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex]] · [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]] · [[2026-07-30-meta-q4-profit-falls-14-free-cash-flow-plunges-91-as-capex-n]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]]
+**Related:** [[2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex]] · [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-08-publishers-and-author-scott-turow-file-class-action-suit-aga
 - 2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall
 - 2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw
-- 2026-07-15-google-faces-another-ai-training-copyright-suit-from-major-p
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
+- 2026-05-04-five-academic-publishers-sue-meta-over-llama-training-data
+- 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
 embedding_id: 2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A group of publishers and bestselling author Scott Turow filed a class-action la
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-08-publishers-and-author-scott-turow-file-class-action-suit-aga]] · [[2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall]] · [[2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw]] · [[2026-07-15-google-faces-another-ai-training-copyright-suit-from-major-p]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]]
+**Related:** [[2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall]] · [[2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-05-04-five-academic-publishers-sue-meta-over-llama-training-data]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]]
 <!-- graph:end -->

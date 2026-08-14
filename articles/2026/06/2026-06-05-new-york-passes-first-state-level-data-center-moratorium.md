@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions
 - 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
 - 2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t
-- 2026-07-15-york-becomes-the-first-u-s-state-to-pause-approvals-for-new
 - 2026-08-10-more-than-500-u-s-jurisdictions-now-restrict-new-data-center
+- 2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a
 embedding_id: 2026-06-05-new-york-passes-first-state-level-data-center-moratorium
 event_name: ''
 ---
@@ -37,5 +37,5 @@ York passed a one-year moratorium on large data center construction — the firs
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t]] · [[2026-07-15-york-becomes-the-first-u-s-state-to-pause-approvals-for-new]] · [[2026-08-10-more-than-500-u-s-jurisdictions-now-restrict-new-data-center]]
+**Related:** [[2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t]] · [[2026-08-10-more-than-500-u-s-jurisdictions-now-restrict-new-data-center]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]]
 <!-- graph:end -->

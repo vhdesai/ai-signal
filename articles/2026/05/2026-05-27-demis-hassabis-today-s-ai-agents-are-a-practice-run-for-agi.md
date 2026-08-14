@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few
 - 2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog
 - 2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus
-- 2026-05-27-demis-hassabis-pulls-agi-timeline-forward-to-real-possibilit
 - 2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body
+- 2026-07-14-hassabis-proposes-a-finra-style-u-s-led-ai-watchdog-for-fron
 embedding_id: 2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Google DeepMind CEO Demis Hassabis told Axios that current-generation AI agents 
 ## Connections
 
 **Entities:** [[Google]]
-**Related:** [[2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few]] · [[2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog]] · [[2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus]] · [[2026-05-27-demis-hassabis-pulls-agi-timeline-forward-to-real-possibilit]] · [[2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body]]
+**Related:** [[2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few]] · [[2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog]] · [[2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus]] · [[2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body]] · [[2026-07-14-hassabis-proposes-a-finra-style-u-s-led-ai-watchdog-for-fron]]
 <!-- graph:end -->

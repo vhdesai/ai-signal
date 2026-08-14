@@ -21,7 +21,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol
-related_article_ids: []
+related_article_ids:
+- 2026-07-11-openai-leans-into-families-as-chatgpt-pushes-deeper-into-hou
 embedding_id: 2026-07-11-openai-creates-a-dedicated-product-role-for-families-as-chat
 event_name: ''
 ---
@@ -36,4 +37,5 @@ OpenAI is hiring a San Francisco product manager to build ChatGPT experiences fo
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
 **Canonical:** [[2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol]]
+**Related:** [[2026-07-11-openai-leans-into-families-as-chatgpt-pushes-deeper-into-hou]]
 <!-- graph:end -->

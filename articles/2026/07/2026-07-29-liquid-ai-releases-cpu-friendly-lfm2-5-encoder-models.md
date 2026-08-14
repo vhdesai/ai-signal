@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-29_060511_Inbox_Daily AI News Digest - July 29,
   2026.md
-content_hash: 6673139986f80ced6c61fba6a2fdd1e35f3ccde281b41c4669fda75fc5403417
+content_hash: 6762d5a83b796e0f2867aa1e7df585af08e98766718580084b1236dfbcc08452
 normalized_title_hash: c7cd04ddfedcbbd6
 canonical_url_hash: ''
 tags: []
@@ -30,7 +30,7 @@ event_name: ''
 
 # Liquid AI releases CPU-friendly LFM2.5 encoder models
 
-MarkTechPost reports that Liquid AI released LFM2.5-Encoder-230M and LFM2.5-Encoder-350M, bidirectional encoders designed to remain fast at 8K context on CPU. The models point to a pragmatic trend in enterprise AI: not every production workload needs a large frontier LLM, and many retrieval, classification, and embedding tasks benefit from smaller efficient models. CPU-friendly long-context encoders could reduce serving cost and simplify deployment in constrained environments. URL not verified.
+MarkTechPost reports that Liquid AI released LFM2.5-Encoder-230M and LFM2.5-Encoder-350M, bidirectional encoders designed to remain fast at 8K context on CPU. The models point to a pragmatic trend in enterprise AI: not every production workload needs a large frontier LLM, and many retrieval, classification, and embedding tasks benefit from smaller efficient models. CPU-friendly long-context encoders could reduce serving cost and simplify deployment in constrained environments.
 
 <!-- graph:start -->
 ## Connections

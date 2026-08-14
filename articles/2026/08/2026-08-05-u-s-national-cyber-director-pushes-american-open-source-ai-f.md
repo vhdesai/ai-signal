@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen
+- 2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven
 - 2026-08-05-white-house-to-exempt-open-weight-models-from-voluntary-ai-s
-- 2026-08-02-ai-s-manifesto-war-hardens-into-a-washington-fight-over-open
-- 2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati
+- 2026-07-09-gpt-5-6-shipped-only-after-a-u-s-federal-cybersecurity-revie
 embedding_id: 2026-08-05-u-s-national-cyber-director-pushes-american-open-source-ai-f
 event_name: ''
 ---
@@ -37,5 +37,5 @@ National Cyber Director Sean Cairncross said the administration wants U.S. open-
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen]] · [[2026-08-05-white-house-to-exempt-open-weight-models-from-voluntary-ai-s]] · [[2026-08-02-ai-s-manifesto-war-hardens-into-a-washington-fight-over-open]] · [[2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati]]
+**Related:** [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen]] · [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]] · [[2026-08-05-white-house-to-exempt-open-weight-models-from-voluntary-ai-s]] · [[2026-07-09-gpt-5-6-shipped-only-after-a-u-s-federal-cybersecurity-revie]]
 <!-- graph:end -->

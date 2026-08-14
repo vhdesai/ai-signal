@@ -35,9 +35,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-04-iran-s-irgc-issued-a-warning-targeting-18-major-u-s
 - 2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani
-- 2026-04-04-iran-s-irgc-threatens-18-u-s-tech-firms-including-microsoft
-- 2026-04-02-iran-s-irgc-threatens-ai-and-tech-companies-including-nvidia
 - 2026-04-06-google-deepmind-researchers-published-a-significant-security
+- 2026-04-02-breaking-irgc-threatens-18-ai-technology-firms-apr-1-iran-s
+- 2026-04-02-before-the-iran-conflict-escalated-microsoft-amazon-alphabet
 embedding_id: 2026-04-02-iran-s-islamic-revolutionary-guard-corps-declared-18-america
 event_name: ''
 ---
@@ -51,5 +51,5 @@ Iran's Islamic Revolutionary Guard Corps declared 18 American and Gulf technolog
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Google]] · [[IBM]] · [[Intel]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[Oracle]] · [[Palantir]] · [[Tesla]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-04-iran-s-irgc-issued-a-warning-targeting-18-major-u-s]] · [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani]] · [[2026-04-04-iran-s-irgc-threatens-18-u-s-tech-firms-including-microsoft]] · [[2026-04-02-iran-s-irgc-threatens-ai-and-tech-companies-including-nvidia]] · [[2026-04-06-google-deepmind-researchers-published-a-significant-security]]
+**Related:** [[2026-04-04-iran-s-irgc-issued-a-warning-targeting-18-major-u-s]] · [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani]] · [[2026-04-06-google-deepmind-researchers-published-a-significant-security]] · [[2026-04-02-breaking-irgc-threatens-18-ai-technology-firms-apr-1-iran-s]] · [[2026-04-02-before-the-iran-conflict-escalated-microsoft-amazon-alphabet]]
 <!-- graph:end -->

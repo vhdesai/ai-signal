@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity
 - 2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai
+- 2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter
 embedding_id: 2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Amazon Web Services leadership met with engineers in May and delivered a soberin
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity]] · [[2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai]]
+**Related:** [[2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity]] · [[2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai]] · [[2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter]]
 <!-- graph:end -->

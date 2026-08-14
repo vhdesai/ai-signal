@@ -21,7 +21,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision
-- 2026-03-24-zuckerberg-is-building-an-ai-agent-to-help-run-meta
 - 2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast
 - 2026-08-10-zuckerberg-publishes-personal-superintelligence-manifesto-al
 embedding_id: 2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi
@@ -37,5 +36,5 @@ Meta CEO Mark Zuckerberg told investors he expects billions of people to have pe
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision]] · [[2026-03-24-zuckerberg-is-building-an-ai-agent-to-help-run-meta]] · [[2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast]] · [[2026-08-10-zuckerberg-publishes-personal-superintelligence-manifesto-al]]
+**Related:** [[2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision]] · [[2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast]] · [[2026-08-10-zuckerberg-publishes-personal-superintelligence-manifesto-al]]
 <!-- graph:end -->

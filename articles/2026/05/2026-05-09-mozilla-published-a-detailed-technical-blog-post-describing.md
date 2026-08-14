@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-09-mozilla-uses-claude-mythos-preview-to-harden-firefox-securit
-- 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
 - 2026-04-07-source-the-hacker-news-reuters-the-star
-- 2026-05-14-anthropic-s-claude-mythos-preview-project-glasswing-restrict
+- 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
+- 2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr
+- 2026-05-23-published-just-hours-ago-anthropic-s-initial-report-on-proje
 embedding_id: 2026-05-09-mozilla-published-a-detailed-technical-blog-post-describing
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Mozilla published a detailed technical blog post describing a collaboration with
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-09-mozilla-uses-claude-mythos-preview-to-harden-firefox-securit]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-05-14-anthropic-s-claude-mythos-preview-project-glasswing-restrict]]
+**Related:** [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr]] · [[2026-05-23-published-just-hours-ago-anthropic-s-initial-report-on-proje]]
 <!-- graph:end -->

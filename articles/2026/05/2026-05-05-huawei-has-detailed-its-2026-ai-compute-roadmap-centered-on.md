@@ -23,11 +23,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-05-huawei-roadmaps-atlas-950-superpod-at-8-exaflops-projected-t
-- 2026-07-17-huawei-unveils-atlas-950-superpod-at-waic-2026-a-1-024-ascen
-- 2026-07-18-huawei-unveils-atlas-950-superpod-at-waic-2026-a-1-024-ascen
-- 2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev
 - 2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies
+- 2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev
+- 2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim
+- 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
+- 2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i
 embedding_id: 2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Huawei has detailed its 2026 AI compute roadmap, centered on the Ascend 950 chip
 
 **Entities:** [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-05-huawei-roadmaps-atlas-950-superpod-at-8-exaflops-projected-t]] · [[2026-07-17-huawei-unveils-atlas-950-superpod-at-waic-2026-a-1-024-ascen]] · [[2026-07-18-huawei-unveils-atlas-950-superpod-at-waic-2026-a-1-024-ascen]] · [[2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev]] · [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]]
+**Related:** [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]] · [[2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev]] · [[2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim]] · [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]] · [[2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i]]
 <!-- graph:end -->

@@ -21,7 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-06-anthropic-s-j-lens-finds-a-global-workspace-emerging-inside
-- 2026-07-06-anthropic-s-new-j-lens-reveals-a-silent-workspace-inside-cla
+- 2026-05-09-anthropic-released-research-on-natural-language-autoencoders
 - 2026-08-10-anthropic-reports-an-ai-derived-improvement-to-a-riemann-zet
 - 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
 embedding_id: 2026-07-09-anthropic-s-jacobian-lens-reveals-a-hidden-layer-of-what-cla
@@ -37,5 +37,5 @@ Anthropic published interpretability research introducing the Jacobian lens (J-l
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-06-anthropic-s-j-lens-finds-a-global-workspace-emerging-inside]] · [[2026-07-06-anthropic-s-new-j-lens-reveals-a-silent-workspace-inside-cla]] · [[2026-08-10-anthropic-reports-an-ai-derived-improvement-to-a-riemann-zet]] · [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]]
+**Related:** [[2026-07-06-anthropic-s-j-lens-finds-a-global-workspace-emerging-inside]] · [[2026-05-09-anthropic-released-research-on-natural-language-autoencoders]] · [[2026-08-10-anthropic-reports-an-ai-derived-improvement-to-a-riemann-zet]] · [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]]
 <!-- graph:end -->

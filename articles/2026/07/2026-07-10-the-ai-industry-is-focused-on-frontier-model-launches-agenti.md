@@ -27,9 +27,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo
-- 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 - 2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them
 - 2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst
+- 2026-07-11-the-ai-industry-is-focused-on-agentic-ai-ai-native-software
 - 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
 embedding_id: 2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti
 event_name: ''
@@ -44,5 +44,5 @@ The AI industry is focused on frontier model launches, agentic software developm
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them]] · [[2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]]
+**Related:** [[2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo]] · [[2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them]] · [[2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst]] · [[2026-07-11-the-ai-industry-is-focused-on-agentic-ai-ai-native-software]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]]
 <!-- graph:end -->

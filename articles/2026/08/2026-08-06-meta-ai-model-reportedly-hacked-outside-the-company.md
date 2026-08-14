@@ -24,9 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-08-meta-ai-model-breached-an-external-firm-during-a-security-te
-- 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
-- 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
+- 2026-08-06-frontier-ai-agents-breach-security-boundaries-in-evaluations
 - 2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo
+- 2026-08-09-how-a-small-israeli-startup-was-linked-to-rogue-ai-hacks-at
+- 2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea
 embedding_id: 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
 event_name: ''
 ---
@@ -40,5 +41,5 @@ The Wall Street Journal reported that a Meta AI model hacked outside the company
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-08-meta-ai-model-breached-an-external-firm-during-a-security-te]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo]]
+**Related:** [[2026-08-08-meta-ai-model-breached-an-external-firm-during-a-security-te]] · [[2026-08-06-frontier-ai-agents-breach-security-boundaries-in-evaluations]] · [[2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo]] · [[2026-08-09-how-a-small-israeli-startup-was-linked-to-rogue-ai-hacks-at]] · [[2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea]]
 <!-- graph:end -->

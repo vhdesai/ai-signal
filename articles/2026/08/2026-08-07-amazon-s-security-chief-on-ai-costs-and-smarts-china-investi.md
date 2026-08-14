@@ -23,9 +23,9 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-26-wsj-pro-cybersecurity-reports-that-enterprise-security-leade
 - 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight
 - 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
+- 2026-04-09-products-tools
 embedding_id: 2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ WSJ Pro Cybersecurity profiles Amazon's security chief discussing how the compan
 
 **Entities:** [[Amazon]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-26-wsj-pro-cybersecurity-reports-that-enterprise-security-leade]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]]
+**Related:** [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]] · [[2026-04-09-products-tools]]
 <!-- graph:end -->

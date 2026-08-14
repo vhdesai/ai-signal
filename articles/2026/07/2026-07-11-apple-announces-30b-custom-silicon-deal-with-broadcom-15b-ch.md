@@ -25,7 +25,8 @@ related_article_ids:
 - 2026-07-06-broadcom-expands-work-for-apple-supplying-products-through-2
 - 2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte
 - 2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r
-- 2026-05-09-openai-broadcom-18b-project-nexus-chip-deal-stalls-microsoft
+- 2026-05-09-openai-s-18-billion-custom-ai-chip-initiative-with-broadcom
+- 2026-07-31-apple-posts-record-june-quarter-but-warns-of-ai-driven-compo
 embedding_id: 2026-07-11-apple-announces-30b-custom-silicon-deal-with-broadcom-15b-ch
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Apple CEO Tim Cook announced a multiyear partnership with Broadcom worth more th
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-06-broadcom-expands-work-for-apple-supplying-products-through-2]] · [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]] · [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]] · [[2026-05-09-openai-broadcom-18b-project-nexus-chip-deal-stalls-microsoft]]
+**Related:** [[2026-07-06-broadcom-expands-work-for-apple-supplying-products-through-2]] · [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]] · [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]] · [[2026-05-09-openai-s-18-billion-custom-ai-chip-initiative-with-broadcom]] · [[2026-07-31-apple-posts-record-june-quarter-but-warns-of-ai-driven-compo]]
 <!-- graph:end -->

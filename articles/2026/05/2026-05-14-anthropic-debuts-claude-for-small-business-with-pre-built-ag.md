@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-18-anthropic-launches-claude-for-small-business-with-15-agentic
 - 2026-05-18-anthropic-launched-claude-for-small-business-a-toggle-inside
 - 2026-05-14-anthropic-launches-claude-for-small-business-anthropic-via-t
 - 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
+- 2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw
 embedding_id: 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A day after the AWS GA, Anthropic released Claude for Small Business — a curat
 
 **Entities:** [[Amazon]] · [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-anthropic-launches-claude-for-small-business-with-15-agentic]] · [[2026-05-18-anthropic-launched-claude-for-small-business-a-toggle-inside]] · [[2026-05-14-anthropic-launches-claude-for-small-business-anthropic-via-t]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]]
+**Related:** [[2026-05-18-anthropic-launched-claude-for-small-business-a-toggle-inside]] · [[2026-05-14-anthropic-launches-claude-for-small-business-anthropic-via-t]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw]]
 <!-- graph:end -->

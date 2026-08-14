@@ -22,9 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-01-github-to-use-copilot-interaction-data-for-ai-model-training
 - 2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust
 - 2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-model-in-gi
+- 2026-07-13-visual-studio-adds-real-time-copilot-usage-tracking-to-curb
 - 2026-05-30-github-copilot-shifts-to-token-based-billing-sparking-develo
 - 2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou
 embedding_id: 2026-04-01-github-has-announced-that-starting-april-24-copilot-interact
@@ -39,5 +39,5 @@ GitHub has announced that starting April 24, Copilot interaction data will be us
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-01-github-to-use-copilot-interaction-data-for-ai-model-training]] · [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-model-in-gi]] · [[2026-05-30-github-copilot-shifts-to-token-based-billing-sparking-develo]] · [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]]
+**Related:** [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-model-in-gi]] · [[2026-07-13-visual-studio-adds-real-time-copilot-usage-tracking-to-curb]] · [[2026-05-30-github-copilot-shifts-to-token-based-billing-sparking-develo]] · [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]]
 <!-- graph:end -->

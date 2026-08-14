@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
-- 2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster
 - 2026-05-19-nvidia-s-jensen-huang-says-china-will-open-over-time-to-h200
 - 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival
-- 2026-05-26-nvidia-s-china-retreat-huawei-on-track-for-60-of-domestic-ai
+- 2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o
+- 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
 embedding_id: 2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe
 event_name: ''
 ---
@@ -42,5 +42,5 @@ On May 20, NVIDIA CEO Jensen Huang told CNBC's Sara Eisen that the company has "
 
 **Entities:** [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster]] · [[2026-05-19-nvidia-s-jensen-huang-says-china-will-open-over-time-to-h200]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival]] · [[2026-05-26-nvidia-s-china-retreat-huawei-on-track-for-60-of-domestic-ai]]
+**Related:** [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-05-19-nvidia-s-jensen-huang-says-china-will-open-over-time-to-h200]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival]] · [[2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o]] · [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]]
 <!-- graph:end -->

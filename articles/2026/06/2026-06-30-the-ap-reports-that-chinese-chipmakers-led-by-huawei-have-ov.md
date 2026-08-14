@@ -26,7 +26,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
-- 2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red
+- 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
+- 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 embedding_id: 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
 event_name: ''
 ---
@@ -40,5 +41,5 @@ The AP reports that Chinese chipmakers led by Huawei have overtaken Nvidia in Ch
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red]]
+**Related:** [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]]
 <!-- graph:end -->

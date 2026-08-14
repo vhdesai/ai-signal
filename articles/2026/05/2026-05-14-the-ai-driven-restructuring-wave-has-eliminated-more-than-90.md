@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-14-ai-layoff-wave-wipes-out-90-000-jobs-in-2026-it-sector-sheds
 - 2026-07-06-microsoft-eliminates-4-800-roles-as-ai-reshapes-how-work-get
 - 2026-05-19-meta-cuts-8-000-jobs-while-raising-ai-capital-expenditure-to
 - 2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion
 - 2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu
+- 2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros
 embedding_id: 2026-05-14-the-ai-driven-restructuring-wave-has-eliminated-more-than-90
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The AI-driven restructuring wave has eliminated more than 90,000 jobs across the
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-ai-layoff-wave-wipes-out-90-000-jobs-in-2026-it-sector-sheds]] · [[2026-07-06-microsoft-eliminates-4-800-roles-as-ai-reshapes-how-work-get]] · [[2026-05-19-meta-cuts-8-000-jobs-while-raising-ai-capital-expenditure-to]] · [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]] · [[2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu]]
+**Related:** [[2026-07-06-microsoft-eliminates-4-800-roles-as-ai-reshapes-how-work-get]] · [[2026-05-19-meta-cuts-8-000-jobs-while-raising-ai-capital-expenditure-to]] · [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]] · [[2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu]] · [[2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros]]
 <!-- graph:end -->

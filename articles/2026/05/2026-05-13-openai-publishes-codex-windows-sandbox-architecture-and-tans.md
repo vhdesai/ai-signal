@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau
 - 2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access
 - 2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b
-- 2026-08-06-openai-launches-codex-security-in-research-preview
 - 2026-07-29-openai-open-sources-the-codex-security-cli-and-sdk
+- 2026-05-12-openai-introduces-daybreak-cybersecurity-initiative-built-on
 embedding_id: 2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI's engineering team published two posts: a detailed writeup of the constra
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]] · [[2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access]] · [[2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b]] · [[2026-08-06-openai-launches-codex-security-in-research-preview]] · [[2026-07-29-openai-open-sources-the-codex-security-cli-and-sdk]]
+**Related:** [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]] · [[2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access]] · [[2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b]] · [[2026-07-29-openai-open-sources-the-codex-security-cli-and-sdk]] · [[2026-05-12-openai-introduces-daybreak-cybersecurity-initiative-built-on]]
 <!-- graph:end -->

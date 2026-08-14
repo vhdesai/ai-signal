@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-05-nvidia-releases-alpamayo-2-super-open-vla-model-for-autonomo
-- 2026-08-05-nvidia-releases-alpamayo-2-super-a-34b-open-vision-language
 - 2026-08-05-nvidia-opens-alpamayo-2-super-for-commercial-autonomous-driv
+- 2026-08-05-nvidia-releases-alpamayo-2-super-a-34b-open-vision-language
 - 2026-08-05-nvidia-opens-alpamayo-2-super-a-34b-reasoning-model-for-robo
 - 2026-08-05-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso
 embedding_id: 2026-08-05-alpamayo-2-super-detailed-as-an-open-vla-architecture-for-dr
@@ -40,5 +40,5 @@ MarkTechPost's technical write-up covers the architecture behind Alpamayo 2 Supe
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-05-nvidia-releases-alpamayo-2-super-open-vla-model-for-autonomo]] · [[2026-08-05-nvidia-releases-alpamayo-2-super-a-34b-open-vision-language]] · [[2026-08-05-nvidia-opens-alpamayo-2-super-for-commercial-autonomous-driv]] · [[2026-08-05-nvidia-opens-alpamayo-2-super-a-34b-reasoning-model-for-robo]] · [[2026-08-05-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso]]
+**Related:** [[2026-08-05-nvidia-releases-alpamayo-2-super-open-vla-model-for-autonomo]] · [[2026-08-05-nvidia-opens-alpamayo-2-super-for-commercial-autonomous-driv]] · [[2026-08-05-nvidia-releases-alpamayo-2-super-a-34b-open-vision-language]] · [[2026-08-05-nvidia-opens-alpamayo-2-super-a-34b-reasoning-model-for-robo]] · [[2026-08-05-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso]]
 <!-- graph:end -->

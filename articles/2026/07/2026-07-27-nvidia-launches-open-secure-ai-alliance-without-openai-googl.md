@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu
 - 2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli
 - 2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the
-- 2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance
 - 2026-07-27-nvidia-and-two-dozen-firms-launch-open-secure-ai-alliance
+- 2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance
 embedding_id: 2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Directly in the wake of the OpenAI cyber-attack fallout, Nvidia convened a group
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu]] · [[2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli]] · [[2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the]] · [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance]] · [[2026-07-27-nvidia-and-two-dozen-firms-launch-open-secure-ai-alliance]]
+**Related:** [[2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu]] · [[2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli]] · [[2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the]] · [[2026-07-27-nvidia-and-two-dozen-firms-launch-open-secure-ai-alliance]] · [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance]]
 <!-- graph:end -->

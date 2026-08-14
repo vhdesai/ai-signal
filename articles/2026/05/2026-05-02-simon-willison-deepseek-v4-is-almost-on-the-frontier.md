@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
 - 2026-05-15-deepseek-v4-analysis-almost-on-the-frontier-redis-creator-we
-- 2026-08-01-deepseek-s-new-bargain-model-accelerates-ai-s-race-to-zero
 - 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
+- 2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap
 embedding_id: 2026-05-02-simon-willison-deepseek-v4-is-almost-on-the-frontier
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A widely-shared technical analysis from Simon Willison concludes that DeepSeek V
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]] · [[2026-05-15-deepseek-v4-analysis-almost-on-the-frontier-redis-creator-we]] · [[2026-08-01-deepseek-s-new-bargain-model-accelerates-ai-s-race-to-zero]] · [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c]]
+**Related:** [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]] · [[2026-05-15-deepseek-v4-analysis-almost-on-the-frontier-redis-creator-we]] · [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c]] · [[2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap]]
 <!-- graph:end -->

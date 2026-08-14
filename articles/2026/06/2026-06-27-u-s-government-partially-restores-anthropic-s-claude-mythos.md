@@ -19,9 +19,14 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-06-27-u-s-commerce-clears-anthropic-s-mythos-5-for-100-vetted-orgs
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-06-29-anthropic-s-mythos-5-cleared-by-the-u-s-for-wider-still-limi
+- 2026-06-27-u-s-commerce-clears-anthropic-s-mythos-5-for-100-vetted-orgs
+- 2026-06-26-u-s-clears-anthropic-s-mythos-5-for-100-trusted-partners-fab
+- 2026-06-27-the-u-s-commerce-department-granted-anthropic-permission-to
+- 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 embedding_id: 2026-06-27-u-s-government-partially-restores-anthropic-s-claude-mythos
 event_name: ''
 ---
@@ -35,5 +40,5 @@ Anthropic said the U.S. government has authorized it to redeploy Claude Mythos 5
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-06-27-u-s-commerce-clears-anthropic-s-mythos-5-for-100-vetted-orgs]]
+**Related:** [[2026-06-29-anthropic-s-mythos-5-cleared-by-the-u-s-for-wider-still-limi]] · [[2026-06-27-u-s-commerce-clears-anthropic-s-mythos-5-for-100-vetted-orgs]] · [[2026-06-26-u-s-clears-anthropic-s-mythos-5-for-100-trusted-partners-fab]] · [[2026-06-27-the-u-s-commerce-department-granted-anthropic-permission-to]] · [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]]
 <!-- graph:end -->

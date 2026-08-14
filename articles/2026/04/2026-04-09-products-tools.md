@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed
 - 2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-posts-fastest-grow
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
 - 2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-growth-hits-a-four
 - 2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity
+- 2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai
 embedding_id: 2026-04-09-products-tools
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Amazon CEO: $15B AI Revenue, $200B Capex Plan, $20B Custom Chip Business Amazon 
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed]] · [[2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-posts-fastest-grow]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-growth-hits-a-four]] · [[2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity]]
+**Related:** [[2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-posts-fastest-grow]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-growth-hits-a-four]] · [[2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity]] · [[2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai]]
 <!-- graph:end -->

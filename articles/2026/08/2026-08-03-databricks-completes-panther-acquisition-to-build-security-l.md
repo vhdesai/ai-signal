@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
 - 2026-05-02-databricks-appkit-replit-native-connector-for-enterprise-dat
 - 2026-05-21-databricks-ranks-3-on-cnbc-disruptor-50-hits-5-4b-run-rate-s
-- 2026-06-15-databricks-closes-data-ai-summit-2026-with-genie-one-agent-b
 - 2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b
+- 2026-08-13-databricks-raises-5b-at-190b-valuation-after-15b-of-investor
 embedding_id: 2026-08-03-databricks-completes-panther-acquisition-to-build-security-l
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Databricks announced completion of its acquisition of Panther, an AI-native secu
 
 **Entities:** [[Databricks]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-05-02-databricks-appkit-replit-native-connector-for-enterprise-dat]] · [[2026-05-21-databricks-ranks-3-on-cnbc-disruptor-50-hits-5-4b-run-rate-s]] · [[2026-06-15-databricks-closes-data-ai-summit-2026-with-genie-one-agent-b]] · [[2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b]]
+**Related:** [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-05-02-databricks-appkit-replit-native-connector-for-enterprise-dat]] · [[2026-05-21-databricks-ranks-3-on-cnbc-disruptor-50-hits-5-4b-run-rate-s]] · [[2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b]] · [[2026-08-13-databricks-raises-5b-at-190b-valuation-after-15b-of-investor]]
 <!-- graph:end -->

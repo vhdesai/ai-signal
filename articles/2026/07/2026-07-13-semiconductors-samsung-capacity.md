@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de
+- 2026-08-07-sk-hynix-commits-roughly-38b-to-two-new-fabs-for-ai-memory
 - 2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea
-- 2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p
 - 2026-07-13-samsung-pulls-first-yongin-fab-forward-to-2029-for-ai-memory
 - 2026-07-07-samsung-expects-1-800-operating-profit-leap-on-ai-boom
 embedding_id: 2026-07-13-semiconductors-samsung-capacity
@@ -38,5 +38,5 @@ The Information reports that Samsung is moving up plant capacity plans to 2029, 
 
 **Entities:** [[Samsung]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]] · [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p]] · [[2026-07-13-samsung-pulls-first-yongin-fab-forward-to-2029-for-ai-memory]] · [[2026-07-07-samsung-expects-1-800-operating-profit-leap-on-ai-boom]]
+**Related:** [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]] · [[2026-08-07-sk-hynix-commits-roughly-38b-to-two-new-fabs-for-ai-memory]] · [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-07-13-samsung-pulls-first-yongin-fab-forward-to-2029-for-ai-memory]] · [[2026-07-07-samsung-expects-1-800-operating-profit-leap-on-ai-boom]]
 <!-- graph:end -->

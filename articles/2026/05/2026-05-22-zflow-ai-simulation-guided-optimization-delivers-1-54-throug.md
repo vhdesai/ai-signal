@@ -24,6 +24,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri
 - 2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap
 - 2026-04-06-deepseek-s-forthcoming-v4-model-reportedly-carrying-1-trilli
 - 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
@@ -40,5 +41,5 @@ ZFLOW AI used hardware-aware simulation to find an SGLang serving configuration 
 
 **Entities:** [[DeepSeek]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap]] · [[2026-04-06-deepseek-s-forthcoming-v4-model-reportedly-carrying-1-trilli]] · [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c]]
+**Related:** [[2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri]] · [[2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap]] · [[2026-04-06-deepseek-s-forthcoming-v4-model-reportedly-carrying-1-trilli]] · [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c]]
 <!-- graph:end -->

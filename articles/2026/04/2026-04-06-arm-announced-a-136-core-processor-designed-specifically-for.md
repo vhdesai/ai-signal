@@ -23,10 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-06-arm-unveils-136-core-agi-cpu-first-new-chip-architecture-in
 - 2026-04-02-trending-arm-holdings-unveils-first-agi-optimized-cpu-archit
 - 2026-04-02-arm-holdings-whose-instruction-set-architecture-underpins-ch
-- 2026-04-02-arm-holdings-enters-chip-market-with-first-agi-cpu-for-data
+- 2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in
+- 2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t
+- 2026-07-09-meta-to-move-its-in-house-iris-ai-chip-into-production-in-se
 embedding_id: 2026-04-06-arm-announced-a-136-core-processor-designed-specifically-for
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Arm announced a 136-core processor designed specifically for AGI workloads — i
 
 **Entities:** [[Arm]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-06-arm-unveils-136-core-agi-cpu-first-new-chip-architecture-in]] · [[2026-04-02-trending-arm-holdings-unveils-first-agi-optimized-cpu-archit]] · [[2026-04-02-arm-holdings-whose-instruction-set-architecture-underpins-ch]] · [[2026-04-02-arm-holdings-enters-chip-market-with-first-agi-cpu-for-data]]
+**Related:** [[2026-04-02-trending-arm-holdings-unveils-first-agi-optimized-cpu-archit]] · [[2026-04-02-arm-holdings-whose-instruction-set-architecture-underpins-ch]] · [[2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in]] · [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t]] · [[2026-07-09-meta-to-move-its-in-house-iris-ai-chip-into-production-in-se]]
 <!-- graph:end -->

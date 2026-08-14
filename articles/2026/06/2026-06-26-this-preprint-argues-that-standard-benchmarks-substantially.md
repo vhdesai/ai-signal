@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-26-the-capability-frontier-benchmarks-miss-82-of-model-performa
 - 2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas
 - 2026-07-04-the-uk-s-ai-security-institute-tested-frontier-models-across
 - 2026-05-27-benchmark-integrity-emerges-as-an-ai-safety-adjacent-issue-v
 - 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
+- 2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6
 embedding_id: 2026-06-26-this-preprint-argues-that-standard-benchmarks-substantially
 event_name: ''
 ---
@@ -37,5 +37,5 @@ This preprint argues that standard benchmarks substantially undercount frontier 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-26-the-capability-frontier-benchmarks-miss-82-of-model-performa]] · [[2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas]] · [[2026-07-04-the-uk-s-ai-security-institute-tested-frontier-models-across]] · [[2026-05-27-benchmark-integrity-emerges-as-an-ai-safety-adjacent-issue-v]] · [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]]
+**Related:** [[2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas]] · [[2026-07-04-the-uk-s-ai-security-institute-tested-frontier-models-across]] · [[2026-05-27-benchmark-integrity-emerges-as-an-ai-safety-adjacent-issue-v]] · [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]] · [[2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6]]
 <!-- graph:end -->

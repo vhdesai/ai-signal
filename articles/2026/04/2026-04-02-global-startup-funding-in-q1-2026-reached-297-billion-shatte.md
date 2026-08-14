@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-02-q1-2026-venture-funding-hits-297-billion-an-all-time-record
 - 2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai
-- 2026-04-01-q1-2026-shatters-global-venture-records-ai-commands-81-of-fu
 - 2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a
-- 2026-04-10-q1-2026-ai-vc-funding-breaks-all-records-242b-80-of-global-v
+- 2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o
+- 2026-07-07-north-american-startup-funding-hits-record-392b-in-h1-2026-o
+- 2026-07-06-uk-startups-raised-17b-in-h1-2026-with-ai-capturing-an-estim
 embedding_id: 2026-04-02-global-startup-funding-in-q1-2026-reached-297-billion-shatte
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Global startup funding in Q1 2026 reached $297 billion, shattering all previous 
 
 **Entities:** [[Mistral]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-02-q1-2026-venture-funding-hits-297-billion-an-all-time-record]] · [[2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai]] · [[2026-04-01-q1-2026-shatters-global-venture-records-ai-commands-81-of-fu]] · [[2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a]] · [[2026-04-10-q1-2026-ai-vc-funding-breaks-all-records-242b-80-of-global-v]]
+**Related:** [[2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai]] · [[2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a]] · [[2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o]] · [[2026-07-07-north-american-startup-funding-hits-record-392b-in-h1-2026-o]] · [[2026-07-06-uk-startups-raised-17b-in-h1-2026-with-ai-capturing-an-estim]]
 <!-- graph:end -->

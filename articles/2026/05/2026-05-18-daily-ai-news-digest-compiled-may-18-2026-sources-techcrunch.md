@@ -21,8 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-04-daily-ai-news-digest-april-4-2026-compiled-from-30-sources-i
-- 2026-04-02-daily-ai-news-digest-april-2-2026-sources-wsj-techcrunch-ai
-- 2026-05-18-may-18-2026-techcrunch-via-bloomberg
+- 2026-04-20-daily-ai-news-digest-prepared-april-20-2026
+- 2026-04-06-this-digest-was-compiled-from-37-verified-sources-covering-n
+- 2026-04-01-sources-include-bloomberg-techcrunch-venturebeat-cnbc-econom
+- 2026-04-10-daily-ai-news-digest-compiled-for-vik-desai-microsoft-corp-d
 embedding_id: 2026-05-18-daily-ai-news-digest-compiled-may-18-2026-sources-techcrunch
 event_name: ''
 ---
@@ -35,5 +37,5 @@ Daily AI News Digest | Compiled May 18, 2026 | Sources: TechCrunch, VentureBeat,
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-04-04-daily-ai-news-digest-april-4-2026-compiled-from-30-sources-i]] · [[2026-04-02-daily-ai-news-digest-april-2-2026-sources-wsj-techcrunch-ai]] · [[2026-05-18-may-18-2026-techcrunch-via-bloomberg]]
+**Related:** [[2026-04-04-daily-ai-news-digest-april-4-2026-compiled-from-30-sources-i]] · [[2026-04-20-daily-ai-news-digest-prepared-april-20-2026]] · [[2026-04-06-this-digest-was-compiled-from-37-verified-sources-covering-n]] · [[2026-04-01-sources-include-bloomberg-techcrunch-venturebeat-cnbc-econom]] · [[2026-04-10-daily-ai-news-digest-compiled-for-vik-desai-microsoft-corp-d]]
 <!-- graph:end -->

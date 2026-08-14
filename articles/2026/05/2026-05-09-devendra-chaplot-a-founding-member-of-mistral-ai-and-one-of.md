@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-09-xai-loses-marquee-hire-mistral-co-founder-devendra-chaplot-e
 - 2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch
 - 2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh
 - 2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively
 - 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
+- 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
 embedding_id: 2026-05-09-devendra-chaplot-a-founding-member-of-mistral-ai-and-one-of
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Devendra Chaplot, a founding member of Mistral AI and one of xAI's highest-profi
 
 **Entities:** [[Mistral]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-09-xai-loses-marquee-hire-mistral-co-founder-devendra-chaplot-e]] · [[2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch]] · [[2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh]] · [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent]]
+**Related:** [[2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch]] · [[2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh]] · [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent]] · [[2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work]]
 <!-- graph:end -->

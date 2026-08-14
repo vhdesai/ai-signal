@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut
 - 2026-05-21-trump-delays-ai-security-executive-order-citing-blocker-lang
 - 2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai
+- 2026-05-21-trump-postpones-ai-executive-order-i-didn-t-like-certain-asp
 embedding_id: 2026-06-02-trump-signs-ai-executive-order-cfr-publishes-assessment
 event_name: ''
 ---
@@ -37,5 +38,5 @@ President Trump signed an executive order (“Promoting Advanced Artificial Inte
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-05-the-trump-administration-is-reportedly-considering-an-execut]] · [[2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut]] · [[2026-05-21-trump-delays-ai-security-executive-order-citing-blocker-lang]] · [[2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai]]
+**Related:** [[2026-05-05-the-trump-administration-is-reportedly-considering-an-execut]] · [[2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut]] · [[2026-05-21-trump-delays-ai-security-executive-order-citing-blocker-lang]] · [[2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai]] · [[2026-05-21-trump-postpones-ai-executive-order-i-didn-t-like-certain-asp]]
 <!-- graph:end -->

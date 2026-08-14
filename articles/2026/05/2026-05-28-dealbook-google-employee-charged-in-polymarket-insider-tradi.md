@@ -21,10 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-07-the-information-logo-treasury-department-demands-binance-com
 - 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
-- 2026-04-26-the-information-logo-atlassian-and-hubspot-join-shift-from-a
-- 2026-08-05-google-in-talks-for-1-5b-deal-with-coding-agent-startup-mech
 embedding_id: 2026-05-28-dealbook-google-employee-charged-in-polymarket-insider-tradi
 event_name: ''
 ---
@@ -38,5 +35,5 @@ A Google employee, Michele Spagnuolo, was charged by the CFTC after making more 
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-07-the-information-logo-treasury-department-demands-binance-com]] · [[2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer]] · [[2026-04-26-the-information-logo-atlassian-and-hubspot-join-shift-from-a]] · [[2026-08-05-google-in-talks-for-1-5b-deal-with-coding-agent-startup-mech]]
+**Related:** [[2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer]]
 <!-- graph:end -->

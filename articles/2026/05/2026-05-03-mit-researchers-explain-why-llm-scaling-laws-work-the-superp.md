@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos
+- 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
-- 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p
 embedding_id: 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
 event_name: ''
@@ -36,5 +36,5 @@ MIT Researchers Explain Why LLM Scaling Laws Work — The Superposition Mechanis
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos]] · [[2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p]]
+**Related:** [[2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p]]
 <!-- graph:end -->

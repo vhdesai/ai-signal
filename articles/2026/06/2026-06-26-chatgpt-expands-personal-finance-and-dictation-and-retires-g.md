@@ -21,8 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-18-hot-openai-rolls-out-chatgpt-personal-finance-in-us-with-ban
-- 2026-05-18-openai-launched-a-personal-finance-preview-for-chatgpt-pro-u
+- 2026-07-14-chatgpt-returns-to-whatsapp-in-the-eu-after-brussels-forces
+- 2026-07-11-openai-leans-into-families-as-chatgpt-pushes-deeper-into-hou
+- 2026-08-07-gpt-5-6-sol-becomes-the-chatgpt-default-for-paid-users
+- 2026-08-07-openai-makes-gpt-5-6-sol-the-chatgpt-default-for-paid-users
 embedding_id: 2026-06-26-chatgpt-expands-personal-finance-and-dictation-and-retires-g
 event_name: ''
 ---
@@ -36,5 +38,5 @@ OpenAI broadened ChatGPT’s personal-finance experience to Plus users in the U.
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-18-hot-openai-rolls-out-chatgpt-personal-finance-in-us-with-ban]] · [[2026-05-18-openai-launched-a-personal-finance-preview-for-chatgpt-pro-u]]
+**Related:** [[2026-07-14-chatgpt-returns-to-whatsapp-in-the-eu-after-brussels-forces]] · [[2026-07-11-openai-leans-into-families-as-chatgpt-pushes-deeper-into-hou]] · [[2026-08-07-gpt-5-6-sol-becomes-the-chatgpt-default-for-paid-users]] · [[2026-08-07-openai-makes-gpt-5-6-sol-the-chatgpt-default-for-paid-users]]
 <!-- graph:end -->

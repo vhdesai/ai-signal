@@ -18,7 +18,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
+related_article_ids:
+- 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 embedding_id: 2026-07-26-new-york-school-district-pauses-humanoid-robot-teacher-after
 event_name: ''
 ---
@@ -31,4 +32,5 @@ The Salamanca City Central School District paused plans to place a ~$57,590 Real
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
+**Related:** [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]]
 <!-- graph:end -->

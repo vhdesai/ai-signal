@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu
 - 2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip
-- 2026-04-01-ai-chip-startup-rebellions-raises-400-million-at-2-3-billion
 - 2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu
-- 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
+- 2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na
+- 2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips
 embedding_id: 2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400
 event_name: ''
 ---
@@ -41,5 +41,5 @@ South Korean AI inference chip startup Rebellions raised $400 million in a pre-I
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]] · [[2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip]] · [[2026-04-01-ai-chip-startup-rebellions-raises-400-million-at-2-3-billion]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]]
+**Related:** [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]] · [[2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]] · [[2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips]]
 <!-- graph:end -->

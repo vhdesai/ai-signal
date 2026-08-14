@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-02-cmu-collaborators-publish-human-ai-teaming-complementarity-f
 - 2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a
 - 2026-04-02-mit-researchers-published-a-testing-framework-that-identifie
 - 2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research
 - 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
+- 2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr
 embedding_id: 2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Carnegie Mellon researchers and collaborators published "Toward a Science of Hum
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-02-cmu-collaborators-publish-human-ai-teaming-complementarity-f]] · [[2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a]] · [[2026-04-02-mit-researchers-published-a-testing-framework-that-identifie]] · [[2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research]] · [[2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy]]
+**Related:** [[2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a]] · [[2026-04-02-mit-researchers-published-a-testing-framework-that-identifie]] · [[2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research]] · [[2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy]] · [[2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr]]
 <!-- graph:end -->

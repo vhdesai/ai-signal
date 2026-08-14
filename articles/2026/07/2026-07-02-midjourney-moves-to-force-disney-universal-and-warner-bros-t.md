@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-04-midjourney-moves-to-force-disney-universal-and-warner-bros-t
 - 2026-07-05-in-the-copyright-suit-brought-by-disney-universal-and-warner
 - 2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou
-- 2026-07-04-ai-safety-policy-trending-disney-warner-bros
-- 2026-07-05-midjourney-moves-to-force-hollywood-studios-to-disclose-thei
+- 2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil
+- 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
 embedding_id: 2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Midjourney has asked the federal judge overseeing the studios' copyright suit to
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-04-midjourney-moves-to-force-disney-universal-and-warner-bros-t]] · [[2026-07-05-in-the-copyright-suit-brought-by-disney-universal-and-warner]] · [[2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou]] · [[2026-07-04-ai-safety-policy-trending-disney-warner-bros]] · [[2026-07-05-midjourney-moves-to-force-hollywood-studios-to-disclose-thei]]
+**Related:** [[2026-07-04-midjourney-moves-to-force-disney-universal-and-warner-bros-t]] · [[2026-07-05-in-the-copyright-suit-brought-by-disney-universal-and-warner]] · [[2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou]] · [[2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]]
 <!-- graph:end -->

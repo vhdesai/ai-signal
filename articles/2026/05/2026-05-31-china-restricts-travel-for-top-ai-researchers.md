@@ -7,7 +7,7 @@ url_original: null
 url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
-content_hash: 48e4b052fe807562c1123e1623f8c7ab7d2bf1546349b331542b2e74925a1d6d
+content_hash: 3fd9c07e4f295db16f3df4759e1f4b44de5d1352d8a8d1616da6bd3ca6b3547a
 normalized_title_hash: 28accbad627c02d7
 canonical_url_hash: ''
 tags:
@@ -29,7 +29,7 @@ event_name: ''
 
 # China Restricts Travel for Top AI Researchers
 
-The Australian Financial Review reported that China's AI industry is alarmed by new travel restrictions imposed on leading AI researchers. The curbs could complicate international collaboration and talent mobility at a time when the global AI talent war between U.S. and Chinese labs is intensifying—potentially accelerating the bifurcation of the global AI research ecosystem. URL not verified.
+The Australian Financial Review reported that China's AI industry is alarmed by new travel restrictions imposed on leading AI researchers. The curbs could complicate international collaboration and talent mobility at a time when the global AI talent war between U.S. and Chinese labs is intensifying—potentially accelerating the bifurcation of the global AI research ecosystem.
 
 <!-- graph:start -->
 ## Connections

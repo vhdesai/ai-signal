@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
 - 2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin
-- 2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending
-- 2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending
 - 2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce
+- 2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens
+- 2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua
 embedding_id: 2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin
 event_name: ''
 ---
@@ -40,5 +40,5 @@ CIO Dive reported that Salesforce is leaning on Agentforce to sustain growth, wi
 
 **Entities:** [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin]] · [[2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending]] · [[2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending]] · [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce]]
+**Related:** [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin]] · [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua]]
 <!-- graph:end -->

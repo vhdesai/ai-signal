@@ -17,9 +17,14 @@ entities: []
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-08-01-hank-green-pauses-youtube-channels-after-calling-his-ai-use
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c
+- 2026-06-20-signal-ceo-warns-users-not-to-treat-ai-chatbots-as-friends
+- 2026-04-02-academic-research
+- 2026-07-27-claude-shared-chats-and-artifacts-appeared-in-google-search
+- 2026-08-01-sam-altman-continues-pitching-chatgpt-as-a-family-and-parent
 embedding_id: 2026-08-01-hank-green-says-his-ai-usage-is-not-healthy-highlighting-cre
 event_name: ''
 ---
@@ -32,5 +37,5 @@ YouTuber and science communicator Hank Green apologized after viewers questioned
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-08-01-hank-green-pauses-youtube-channels-after-calling-his-ai-use]]
+**Related:** [[2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c]] · [[2026-06-20-signal-ceo-warns-users-not-to-treat-ai-chatbots-as-friends]] · [[2026-04-02-academic-research]] · [[2026-07-27-claude-shared-chats-and-artifacts-appeared-in-google-search]] · [[2026-08-01-sam-altman-continues-pitching-chatgpt-as-a-family-and-parent]]
 <!-- graph:end -->

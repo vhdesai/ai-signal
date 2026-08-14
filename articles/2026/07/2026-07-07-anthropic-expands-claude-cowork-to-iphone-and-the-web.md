@@ -19,9 +19,12 @@ themes:
 - model-capabilities
 cross_cutting_topics:
 - china-compete
-dedupe_status: duplicate
-canonical_article_id: 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-07-08-anthropic-extends-free-claude-fable-5-access-and-brings-cowo
+- 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web
+- 2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co
 embedding_id: 2026-07-07-anthropic-expands-claude-cowork-to-iphone-and-the-web
 event_name: ''
 ---
@@ -35,5 +38,5 @@ Anthropic extended Claude Cowork — the agentic feature that lets Claude autono
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Canonical:** [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]]
+**Related:** [[2026-07-08-anthropic-extends-free-claude-fable-5-access-and-brings-cowo]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web]] · [[2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co]]
 <!-- graph:end -->

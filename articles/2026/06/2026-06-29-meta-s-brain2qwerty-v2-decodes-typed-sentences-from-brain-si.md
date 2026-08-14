@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-30-meta-ai-published-brain2qwerty-v2-a-non-invasive-pipeline-th
-- 2026-06-30-meta-ai-unveils-brain2qwerty-v2-a-non-invasive-brain-to-text
 - 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
+- 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
 embedding_id: 2026-06-29-meta-s-brain2qwerty-v2-decodes-typed-sentences-from-brain-si
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta FAIR unveiled Brain2Qwerty v2, a non-invasive brain-to-text system that dec
 
 **Entities:** [[Baidu]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-06-30-meta-ai-published-brain2qwerty-v2-a-non-invasive-pipeline-th]] · [[2026-06-30-meta-ai-unveils-brain2qwerty-v2-a-non-invasive-brain-to-text]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]]
+**Related:** [[2026-06-30-meta-ai-published-brain2qwerty-v2-a-non-invasive-pipeline-th]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]]
 <!-- graph:end -->

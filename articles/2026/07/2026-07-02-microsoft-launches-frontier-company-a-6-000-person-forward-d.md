@@ -21,8 +21,11 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a
-related_article_ids: []
+canonical_article_id: 2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed
+related_article_ids:
+- 2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0
+- 2026-07-02-microsoft-launches-frontier-company-an-outcome-driven-ai-dep
+- 2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a
 embedding_id: 2026-07-02-microsoft-launches-frontier-company-a-6-000-person-forward-d
 event_name: ''
 ---
@@ -36,5 +39,6 @@ Microsoft committed roughly $2.5 billion and 6,000 employees to a new unit, Micr
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]] · [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a]]
+**Canonical:** [[2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed]]
+**Related:** [[2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0]] · [[2026-07-02-microsoft-launches-frontier-company-an-outcome-driven-ai-dep]] · [[2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a]]
 <!-- graph:end -->

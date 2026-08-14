@@ -20,10 +20,10 @@ themes:
 - model-capabilities
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp
+dedupe_status: canonical
+canonical_article_id: null
 related_article_ids:
-- 2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request
+- 2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes
 embedding_id: 2026-07-08-u-s-clears-openai-s-gpt-5-6-for-broad-public-rollout
 event_name: ''
 ---
@@ -37,6 +37,5 @@ The Trump administration cleared a broad rollout of GPT-5.6 (the Sol, Terra, and
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Canonical:** [[2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp]]
-**Related:** [[2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request]]
+**Related:** [[2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes]]
 <!-- graph:end -->

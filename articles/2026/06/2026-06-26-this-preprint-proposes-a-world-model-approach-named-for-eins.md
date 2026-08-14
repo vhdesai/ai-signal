@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-26-einstein-world-models-arxiv-cs-ai-june-26-2026
 - 2026-08-10-mit-introduces-geopt-to-help-ai-models-simulate-real-world-p
 - 2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta
 - 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
 - 2026-06-29-drawing-an-analogy-to-the-early-internet-this-paper-proposes
+- 2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica
 embedding_id: 2026-06-26-this-preprint-proposes-a-world-model-approach-named-for-eins
 event_name: ''
 ---
@@ -37,5 +37,5 @@ This preprint proposes a "world model" approach, named for Einstein, aimed at im
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-26-einstein-world-models-arxiv-cs-ai-june-26-2026]] · [[2026-08-10-mit-introduces-geopt-to-help-ai-models-simulate-real-world-p]] · [[2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]] · [[2026-06-29-drawing-an-analogy-to-the-early-internet-this-paper-proposes]]
+**Related:** [[2026-08-10-mit-introduces-geopt-to-help-ai-models-simulate-real-world-p]] · [[2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]] · [[2026-06-29-drawing-an-analogy-to-the-early-internet-this-paper-proposes]] · [[2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica]]
 <!-- graph:end -->

@@ -18,10 +18,14 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-05-18-pope-leo-xiv-and-anthropic-co-founder-to-launch-ai-encyclica
+dedupe_status: canonical
+canonical_article_id: null
 related_article_ids:
 - 2026-05-18-vatican-anthropic-co-founder-christopher-olah-to-join-pope-l
+- 2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher
+- 2026-05-25-anthropic-s-chris-olah-joins-pope-leo-xiv-for-magnifica-huma
+- 2026-05-19-vatican-announces-first-papal-encyclical-on-ai-anthropic-co
+- 2026-05-26-pope-leo-xiv-released-the-vatican-s-first-ever-encyclical-on
 embedding_id: 2026-05-18-the-vatican-announced-monday-that-pope-leo-xiv-and-anthropic
 event_name: ''
 ---
@@ -35,6 +39,5 @@ The Vatican announced Monday that Pope Leo XIV and Anthropic co-founder Christop
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-05-18-pope-leo-xiv-and-anthropic-co-founder-to-launch-ai-encyclica]]
-**Related:** [[2026-05-18-vatican-anthropic-co-founder-christopher-olah-to-join-pope-l]]
+**Related:** [[2026-05-18-vatican-anthropic-co-founder-christopher-olah-to-join-pope-l]] · [[2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher]] · [[2026-05-25-anthropic-s-chris-olah-joins-pope-leo-xiv-for-magnifica-huma]] · [[2026-05-19-vatican-announces-first-papal-encyclical-on-ai-anthropic-co]] · [[2026-05-26-pope-leo-xiv-released-the-vatican-s-first-ever-encyclical-on]]
 <!-- graph:end -->

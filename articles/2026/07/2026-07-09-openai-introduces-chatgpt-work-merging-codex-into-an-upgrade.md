@@ -25,8 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
 related_article_ids:
-- 2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app
-- 2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag
+- 2026-07-10-openai-introduces-chatgpt-work-as-a-gpt-5-6-powered-professi
 - 2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app
 embedding_id: 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade
 event_name: ''
@@ -42,5 +41,5 @@ Alongside GPT-5.6, OpenAI launched ChatGPT Work — a cross-platform enterprise 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]]
-**Related:** [[2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app]] · [[2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag]] · [[2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app]]
+**Related:** [[2026-07-10-openai-introduces-chatgpt-work-as-a-gpt-5-6-powered-professi]] · [[2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app]]
 <!-- graph:end -->

@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-20-nvidia-deepens-agentic-ai-partnerships-with-adobe-and-wpp
 - 2026-04-20-nvidia-april-20-2026-at-hannover-messe-nvidia-announced-a-sw
-- 2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance
 - 2026-05-18-intel-ceo-lip-bu-tan-publicly-confirmed-ongoing-collaboratio
 - 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
+- 2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance
 embedding_id: 2026-04-20-nvidia-april-20-2026-hannover-messe-nvidia-announced-an-expa
 event_name: ''
 ---
@@ -41,5 +41,5 @@ NVIDIA • April 20, 2026 (Hannover Messe) NVIDIA announced an expanded partners
 
 **Entities:** [[Adobe]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-04-20-nvidia-deepens-agentic-ai-partnerships-with-adobe-and-wpp]] · [[2026-04-20-nvidia-april-20-2026-at-hannover-messe-nvidia-announced-a-sw]] · [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance]] · [[2026-05-18-intel-ceo-lip-bu-tan-publicly-confirmed-ongoing-collaboratio]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]]
+**Related:** [[2026-04-20-nvidia-deepens-agentic-ai-partnerships-with-adobe-and-wpp]] · [[2026-04-20-nvidia-april-20-2026-at-hannover-messe-nvidia-announced-a-sw]] · [[2026-05-18-intel-ceo-lip-bu-tan-publicly-confirmed-ongoing-collaboratio]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance]]
 <!-- graph:end -->

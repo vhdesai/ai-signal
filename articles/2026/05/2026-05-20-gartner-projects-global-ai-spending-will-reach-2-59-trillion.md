@@ -21,9 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-global-ai-spend-to-reach-2-59-trillion-in-2026
-- 2026-05-20-global-ai-spending-is-projected-to-reach-2-59-trillion-in-20
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
-- 2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending
+- 2026-08-12-ai-capex-could-hit-1-6-trillion-next-year-says-t-rowe-price
 - 2026-07-09-can-ai-answer-the-3-trillion-question
 embedding_id: 2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion
 event_name: ''
@@ -37,5 +36,5 @@ CIO Dive reported that global AI spending is expected to reach $2.59 trillion in
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-global-ai-spend-to-reach-2-59-trillion-in-2026]] · [[2026-05-20-global-ai-spending-is-projected-to-reach-2-59-trillion-in-20]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]]
+**Related:** [[2026-05-20-global-ai-spend-to-reach-2-59-trillion-in-2026]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-08-12-ai-capex-could-hit-1-6-trillion-next-year-says-t-rowe-price]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]]
 <!-- graph:end -->

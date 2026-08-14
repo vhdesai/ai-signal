@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-07-source-the-hacker-news-reuters-the-star
-- 2026-05-14-anthropic-s-claude-mythos-preview-project-glasswing-restrict
 - 2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
 - 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
+- 2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate
 embedding_id: 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic announced Claude Mythos Preview in late April — a model that excels 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-05-14-anthropic-s-claude-mythos-preview-project-glasswing-restrict]] · [[2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]]
+**Related:** [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]] · [[2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate]]
 <!-- graph:end -->

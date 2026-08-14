@@ -20,11 +20,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-29-china-s-moonshot-ai-raises-3-5b-at-a-35b-valuation-ahead-of
-- 2026-08-01-report-moonshot-ai-valuation-reaches-35b-after-kimi-k3-eyes
 - 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
-- 2026-07-20-moonshot-ai-seeks-investor-approval-for-an-ipo-process-and-i
+- 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
+- 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
+- 2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t
 embedding_id: 2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Moonshot AI has closed a $3.5B financing round valuing the Beijing lab at about 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-29-china-s-moonshot-ai-raises-3-5b-at-a-35b-valuation-ahead-of]] · [[2026-08-01-report-moonshot-ai-valuation-reaches-35b-after-kimi-k3-eyes]] · [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-07-20-moonshot-ai-seeks-investor-approval-for-an-ipo-process-and-i]]
+**Related:** [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t]]
 <!-- graph:end -->

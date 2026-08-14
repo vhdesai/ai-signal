@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-06-microsoft-introduced-multi-model-intelligence-in-copilot-s-r
 - 2026-04-20-microsoft-ai-april-18-2026-microsoft-detailed-additional-mai
-- 2026-04-06-microsoft-copilot-goes-multi-model-gpt-claude-ensemble-score
-- 2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o
+- 2026-04-01-microsoft-has-launched-new-ai-capabilities-under-the-copilot
+- 2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app
 embedding_id: 2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Microsoft introduced Copilot upgrades enabling multiple AI models — including 
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-06-microsoft-introduced-multi-model-intelligence-in-copilot-s-r]] · [[2026-04-20-microsoft-ai-april-18-2026-microsoft-detailed-additional-mai]] · [[2026-04-06-microsoft-copilot-goes-multi-model-gpt-claude-ensemble-score]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o]]
+**Related:** [[2026-04-06-microsoft-introduced-multi-model-intelligence-in-copilot-s-r]] · [[2026-04-20-microsoft-ai-april-18-2026-microsoft-detailed-additional-mai]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o]] · [[2026-04-01-microsoft-has-launched-new-ai-capabilities-under-the-copilot]] · [[2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app]]
 <!-- graph:end -->

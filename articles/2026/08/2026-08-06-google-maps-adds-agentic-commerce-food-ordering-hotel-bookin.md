@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-06-google-maps-adds-agentic-features-for-food-ordering-hotels-a
 - 2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex
+- 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
+- 2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting
 - event-google-i-o-2026-google-i-o-2026-search-commerce-and-media
-- 2026-04-22-google-announced-that-ai-overviews-its-ai-generated-search-s
-- 2026-05-21-google-announced-its-most-sweeping-search-update-in-25-years
 embedding_id: 2026-08-06-google-maps-adds-agentic-commerce-food-ordering-hotel-bookin
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google expanded its "Ask Maps" feature with agentic task-completion: users can o
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-google-maps-adds-agentic-features-for-food-ordering-hotels-a]] · [[2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex]] · [[event-google-i-o-2026-google-i-o-2026-search-commerce-and-media]] · [[2026-04-22-google-announced-that-ai-overviews-its-ai-generated-search-s]] · [[2026-05-21-google-announced-its-most-sweeping-search-update-in-25-years]]
+**Related:** [[2026-08-06-google-maps-adds-agentic-features-for-food-ordering-hotels-a]] · [[2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]] · [[event-google-i-o-2026-google-i-o-2026-search-commerce-and-media]]
 <!-- graph:end -->

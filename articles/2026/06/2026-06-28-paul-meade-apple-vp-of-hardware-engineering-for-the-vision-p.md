@@ -19,9 +19,14 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-06-28-apple-s-vision-pro-hardware-chief-paul-meade-departs-for-ope
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-06-26-openai-hires-apple-s-vision-pro-and-smart-glasses-chief-paul
+- 2026-07-12-apple-sues-openai-over-alleged-trade-secret-theft-tied-to-it
+- 2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d
+- 2026-08-12-openai-special-projects-lead-brad-lightcap-departing
+- 2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker
 embedding_id: 2026-06-28-paul-meade-apple-vp-of-hardware-engineering-for-the-vision-p
 event_name: ''
 ---
@@ -35,5 +40,5 @@ Paul Meade, Apple VP of hardware engineering for the Vision Products Group and l
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-06-28-apple-s-vision-pro-hardware-chief-paul-meade-departs-for-ope]]
+**Related:** [[2026-06-26-openai-hires-apple-s-vision-pro-and-smart-glasses-chief-paul]] · [[2026-07-12-apple-sues-openai-over-alleged-trade-secret-theft-tied-to-it]] · [[2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d]] · [[2026-08-12-openai-special-projects-lead-brad-lightcap-departing]] · [[2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker]]
 <!-- graph:end -->
