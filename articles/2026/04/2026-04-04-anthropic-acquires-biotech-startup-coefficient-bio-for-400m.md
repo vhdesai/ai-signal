@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-16-anthropic-attracts-800b-valuation-offers-revenue-hits-30b-ar
 - 2026-05-15-anthropic-targets-900-billion-valuation-in-30b-funding-round
 - 2026-05-17-reports-indicate-anthropic-is-in-final-stages-of-a-funding-r
-- 2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f
+- 2026-08-13-anthropic-investors-anticipate-2-trillion-ipo-decart-acquisi
 embedding_id: 2026-04-04-anthropic-acquires-biotech-startup-coefficient-bio-for-400m
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic Acquires Biotech Startup Coefficient Bio for $400M in First Major M&A 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-04-anthropic-made-its-first-major-acquisition-purchasing-stealt]] · [[2026-04-16-anthropic-attracts-800b-valuation-offers-revenue-hits-30b-ar]] · [[2026-05-15-anthropic-targets-900-billion-valuation-in-30b-funding-round]] · [[2026-05-17-reports-indicate-anthropic-is-in-final-stages-of-a-funding-r]] · [[2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f]]
+**Related:** [[2026-04-04-anthropic-made-its-first-major-acquisition-purchasing-stealt]] · [[2026-04-16-anthropic-attracts-800b-valuation-offers-revenue-hits-30b-ar]] · [[2026-05-15-anthropic-targets-900-billion-valuation-in-30b-funding-round]] · [[2026-05-17-reports-indicate-anthropic-is-in-final-stages-of-a-funding-r]] · [[2026-08-13-anthropic-investors-anticipate-2-trillion-ipo-decart-acquisi]]
 <!-- graph:end -->

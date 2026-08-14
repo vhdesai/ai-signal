@@ -1,20 +1,61 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 1477
+member_count: 1519
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 1477 connected article(s).
+> Auto-generated topic hub. 1519 connected article(s).
 
+- `2026-08-14` [[2026-08-14-z-ai-ships-glm-5-3-all-gains-from-post-training-no-new-base|Z.ai Ships GLM-5.3 — All Gains From Post-Training, No New Base Model]]
+- `2026-08-14` [[2026-08-14-flock-safety-adds-ai-surveillance-safeguards-after-backlash|Flock Safety Adds AI Surveillance Safeguards After Backlash]]
+- `2026-08-14` [[2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court|AI Glasses Land Meta, Oakley, and Ray-Ban in German Court]]
+- `2026-08-13` [[2026-08-13-twitch-opts-all-streamers-into-amazon-ai-training-by-default|Twitch Opts All Streamers Into Amazon AI Training by Default, Then Adds an Opt-Out]]
+- `2026-08-13` [[2026-08-13-nvidia-weighs-reducing-memory-on-next-gen-rubin-ultra-gpu-du|Nvidia Weighs Reducing Memory on Next-Gen Rubin Ultra GPU Due to HBM Shortage]]
+- `2026-08-13` [[2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data|Nvidia Unveils $500B Plan with Wall Street to Finance AI Data Centers and Create GPU Secondary Market]]
+- `2026-08-13` [[2026-08-13-ibm-partners-with-openai-to-train-tens-of-thousands-of-consu|IBM Partners with OpenAI to Train Tens of Thousands of Consultants]]
+- `2026-08-13` [[2026-08-13-hassabis-pitched-an-independent-ai-oversight-body-to-rival-l|Hassabis Pitched an Independent AI Oversight Body to Rival Labs and U.S. Officials]]
+- `2026-08-13` [[2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g|Hackers Deploy Fully Autonomous AI Agents to Attack Taiwan Government Agencies]]
+- `2026-08-13` [[2026-08-13-eu-ai-act-article-50-transparency-duties-are-now-in-force|EU AI Act Article 50 transparency duties are now in force]]
+- `2026-08-13` [[2026-08-13-beijing-could-suddenly-clamp-down-on-chinese-open-weight-ai|Beijing Could Suddenly Clamp Down on Chinese Open-Weight AI Models]]
+- `2026-08-13` [[2026-08-13-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a|Autonomous AI agents breach Taiwan's nuclear regulator in a four-day strike]]
+- `2026-08-13` [[2026-08-13-anthropic-to-watermark-all-claude-output-for-eu-ai-act-compl|Anthropic to watermark all Claude output for EU AI Act compliance]]
+- `2026-08-13` [[2026-08-13-anthropic-turns-on-invisible-watermarking-for-claude-text-ou|Anthropic Turns On Invisible Watermarking for Claude Text Output]]
+- `2026-08-13` [[2026-08-13-anthropic-finds-ai-agents-launch-turf-wars-when-given-compet|Anthropic Finds AI Agents Launch 'Turf Wars' When Given Competing Tasks]]
+- `2026-08-13` [[2026-08-13-analysis-export-controls-alone-won-t-decide-the-us-china-ai|Analysis: export controls alone won't decide the US–China AI race]]
+- `2026-08-13` [[2026-08-13-ai-may-extend-fossil-fuel-dominance-more-than-data-center-po|AI May Extend Fossil Fuel Dominance More Than Data Center Power Demand]]
+- `2026-08-12` [[2026-08-12-white-house-authorizes-vetted-private-firms-to-run-offensive|White House authorizes vetted private firms to run offensive cyber operations]]
+- `2026-08-12` [[2026-08-12-white-house-authorizes-vetted-private-firms-for-offensive-cy|White House Authorizes Vetted Private Firms for Offensive Cyber Operations]]
 - `2026-08-12` [[2026-08-12-the-morning-new-york-times-2026-08-12-external-the-morning-s|The Morning (New York Times) - [2026-08-12] [EXTERNAL] The Morning: Safety subterfuge]]
+- `2026-08-12` [[2026-08-12-taiwan-s-nuclear-regulator-targeted-by-near-autonomous-ai-cy|Taiwan’s Nuclear Regulator Targeted by Near-Autonomous AI Cyberattack]]
+- `2026-08-12` [[2026-08-12-taiwan-s-nuclear-regulator-targeted-by-an-autonomous-ai-cybe|Taiwan's Nuclear Regulator Targeted by an "Autonomous" AI Cyberattack Linked to China]]
 - `2026-08-12` [[2026-08-12-suno-strikes-copyright-deal-with-bmg-agreeing-to-revenue-sha|Suno Strikes Copyright Deal With BMG, Agreeing to Revenue Share]]
 - `2026-08-12` [[2026-08-12-meta-and-nvidia-plant-very-firm-flag-in-open-weight-ai-race|Meta and Nvidia Plant 'Very Firm Flag' in Open-Weight AI Race Led by Chinese Labs]]
+- `2026-08-12` [[2026-08-12-hinton-li-and-ng-make-the-case-for-staying-open-as-safety-co|Hinton, Li, and Ng make the case for staying open as safety concerns mount]]
+- `2026-08-12` [[2026-08-12-hinton-li-and-ng-argue-openness-is-the-safer-path-as-scrutin|Hinton, Li, and Ng Argue Openness Is the Safer Path as Scrutiny Mounts]]
+- `2026-08-12` [[2026-08-12-hinton-fei-fei-li-and-andrew-ng-clash-over-open-weight-ai-ri|Hinton, Fei-Fei Li, and Andrew Ng Clash Over Open-Weight AI Risks at Ai4]]
+- `2026-08-12` [[2026-08-12-enterprise-backlash-builds-as-anthropic-watermarks-claude-ge|Enterprise backlash builds as Anthropic watermarks Claude-generated text]]
+- `2026-08-12` [[2026-08-12-daily-ai-news-digest-august-13-2026|Daily AI News Digest – August 13, 2026]]
+- `2026-08-12` [[2026-08-12-claude-users-push-back-as-anthropic-begins-watermarking-gene|Claude users push back as Anthropic begins watermarking generated text]]
+- `2026-08-12` [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a|Autonomous AI Agents Breach Taiwan’s Nuclear Regulator in a Four-Day Strike]]
+- `2026-08-12` [[2026-08-12-anthropic-worker-retraining-programs-may-not-scale-to-ai-dis|Anthropic: Worker-Retraining Programs May Not Scale to AI Displacement]]
+- `2026-08-12` [[2026-08-12-anthropic-s-new-text-watermarks-trigger-user-backlash|Anthropic's New Text Watermarks Trigger User Backlash]]
+- `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
+- `2026-08-12` [[2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo|Anthropic courts investors ahead of a potential fall IPO]]
+- `2026-08-12` [[2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash|Anthropic Text Watermarks Trigger Ongoing User Backlash]]
+- `2026-08-12` [[2026-08-12-anthropic-text-watermarks-trigger-backlash-amazon-twitch-set|Anthropic Text Watermarks Trigger Backlash; Amazon/Twitch Sets AI Training to Opt-Out]]
+- `2026-08-12` [[2026-08-12-anthropic-courts-fall-ipo-burry-calls-nvidia-500b-financing|Anthropic Courts Fall IPO; Burry Calls Nvidia $500B Financing a “Wall Street Stunt”]]
+- `2026-08-12` [[2026-08-12-amazon-will-train-on-twitch-streamers-content-by-default-unl|Amazon will train on Twitch streamers' content by default unless they opt out]]
+- `2026-08-12` [[2026-08-12-amazon-confirms-training-ai-on-twitch-livestreams-users-opte|Amazon Confirms Training AI on Twitch Livestreams — Users Opted In by Default]]
+- `2026-08-12` [[2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe|AllenAI Open Instruct: Reproducible Tulu 3 Post-Training Pipeline]]
+- `2026-08-12` [[2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca|4 of 5 Enterprises That Secured AI Agent Identities Still Cannot Contain a Rogue Agent]]
+- `2026-08-12` [[2026-08-12-near-autonomous-ai-agents-attack-taiwan-s-nuclear-safety-age|'Near-autonomous' AI agents attack Taiwan's nuclear safety agency]]
 - `2026-08-11` [[2026-08-11-uk-courts-confiscate-meta-smart-glasses-over-covert-recordin|UK Courts Confiscate Meta Smart Glasses Over Covert Recording Risk]]
 - `2026-08-11` [[2026-08-11-spotify-will-label-ai-persona-profiles-and-exclude-them-from|Spotify Will Label AI Persona Profiles and Exclude Them from Recommendations]]
 - `2026-08-11` [[2026-08-11-openai-s-only-dedicated-ethicist-departs-less-than-a-year-af|OpenAI's Only Dedicated Ethicist Departs Less Than a Year After Joining]]
 - `2026-08-11` [[2026-08-11-openai-s-head-of-ethics-departs-under-a-year-after-joining|OpenAI's Head of Ethics Departs Under a Year After Joining]]
+- `2026-08-11` [[2026-08-11-nvidia-cisco-and-crowdstrike-back-safe-a-reporting-framework|Nvidia, Cisco, and CrowdStrike Back SAFE, a Reporting Framework for Rogue AI Agents]]
 - `2026-08-11` [[2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to|NVIDIA Switchyard: Mid-Task Model Router Cuts Agent Costs to One-Third]]
 - `2026-08-11` [[2026-08-11-ltx-2-5-launches-as-open-weights-video-model-10-second-clips|LTX-2.5 Launches as Open-Weights Video Model — 10-Second Clips in 6.8s]]
 - `2026-08-11` [[2026-08-11-ltx-2-5-open-weights-video-generation-10-second-clips-in-6-8|LTX 2.5: Open-Weights Video Generation — 10-Second Clips in 6.8 Seconds]]
@@ -25,6 +66,7 @@ member_count: 1477
 - `2026-08-11` [[2026-08-11-anthropic-will-watermark-all-claude-generated-text-to-comply|Anthropic Will Watermark All Claude-Generated Text to Comply with EU AI Act]]
 - `2026-08-11` [[2026-08-11-anthropic-begins-watermarking-claude-generated-text-and-imag|Anthropic Begins Watermarking Claude-Generated Text and Images Under the EU AI Act]]
 - `2026-08-11` [[2026-08-11-anthropic-begins-embedding-invisible-watermarks-in-claude-s|Anthropic Begins Embedding Invisible Watermarks in Claude's AI-Generated Text]]
+- `2026-08-11` [[2026-08-11-120-organizations-back-safe-an-incident-reporting-framework|120+ Organizations Back SAFE, an Incident-Reporting Framework for Rogue AI Agents]]
 - `2026-08-11` [[2026-08-11-ghostsplice-malicious-mcp-servers-split-instructions-to-make|"GhostSplice": malicious MCP servers split instructions to make coding agents exfiltrate secrets]]
 - `2026-08-10` [[2026-08-10-zuckerberg-publishes-a-6-500-word-case-for-broadly-distribut|Zuckerberg publishes a 6,500-word case for broadly distributed superintelligence]]
 - `2026-08-10` [[2026-08-10-wsj-pro-cybersecurity-2026-08-10-external-beleaguered-cisa-m|WSJ Pro CyberSecurity - [2026-08-10] [EXTERNAL] Beleaguered CISA Must Be Rebuilt, Lawmakers Say]]

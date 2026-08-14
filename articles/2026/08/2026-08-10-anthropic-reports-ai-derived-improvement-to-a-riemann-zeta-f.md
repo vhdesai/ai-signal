@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-anthropic-reports-an-ai-derived-improvement-to-a-riemann-zet
+- 2026-08-11-anthropic-reports-an-unreleased-claude-model-advanced-a-riem
 - 2026-08-10-unreleased-claude-research-model-raises-the-proven-riemann-z
 - 2026-08-11-unreleased-anthropic-model-raises-the-riemann-zeta-lower-bou
 - 2026-08-11-unreleased-anthropic-model-advances-a-related-riemann-hypoth
-- 2026-04-01-anthropic-unveils-claude-mythos-5-a-10-trillion-parameter-fr
 embedding_id: 2026-08-10-anthropic-reports-ai-derived-improvement-to-a-riemann-zeta-f
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Unreleased Claude model raised bound on proportion of Riemann zeta zeros on crit
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-10-anthropic-reports-an-ai-derived-improvement-to-a-riemann-zet]] · [[2026-08-10-unreleased-claude-research-model-raises-the-proven-riemann-z]] · [[2026-08-11-unreleased-anthropic-model-raises-the-riemann-zeta-lower-bou]] · [[2026-08-11-unreleased-anthropic-model-advances-a-related-riemann-hypoth]] · [[2026-04-01-anthropic-unveils-claude-mythos-5-a-10-trillion-parameter-fr]]
+**Related:** [[2026-08-10-anthropic-reports-an-ai-derived-improvement-to-a-riemann-zet]] · [[2026-08-11-anthropic-reports-an-unreleased-claude-model-advanced-a-riem]] · [[2026-08-10-unreleased-claude-research-model-raises-the-proven-riemann-z]] · [[2026-08-11-unreleased-anthropic-model-raises-the-riemann-zeta-lower-bou]] · [[2026-08-11-unreleased-anthropic-model-advances-a-related-riemann-hypoth]]
 <!-- graph:end -->

@@ -1,15 +1,20 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 147
+member_count: 152
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 147 connected article(s).
+> Auto-generated entity hub. 152 connected article(s).
 
+- `2026-08-14` [[2026-08-14-china-s-cxmt-nears-intel-s-market-cap-rivaling-world-s-most|China's CXMT Nears Intel's Market Cap, Rivaling World's Most Valuable Chipmakers]]
 - `2026-08-12` [[2026-08-12-tencent-reports-q2-2026-results-touting-an-ai-empowered-pivo|Tencent reports Q2 2026 results, touting an AI-empowered pivot]]
+- `2026-08-12` [[2026-08-12-tencent-posts-rmb-204-8b-quarter-with-ai-boosted-marketing-a|Tencent posts RMB 204.8B quarter with AI-boosted marketing and 65% higher AI capex]]
+- `2026-08-12` [[2026-08-12-tencent-posts-ai-capex-surge-while-defending-returns|Tencent posts AI capex surge while defending returns]]
 - `2026-08-12` [[2026-08-12-tencent-posts-revenue-beat-on-ai-driven-ads-capex-surges-65|Tencent Posts Revenue Beat on AI-Driven Ads; Capex Surges 65%]]
+- `2026-08-12` [[2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns|Tencent Posts AI Capex Surge (+65%) While Defending Returns]]
+- `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
 - `2026-08-11` [[2026-08-11-manus-returns-to-independence-as-china-forces-meta-s-2b-acqu|Manus returns to independence as China forces Meta's $2B acquisition to unwind]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-10` [[2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te|Beijing’s companion-app rules force ByteDance, Alibaba, and Tencent to pull AI companions]]

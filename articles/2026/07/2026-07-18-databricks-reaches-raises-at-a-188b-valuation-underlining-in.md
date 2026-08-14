@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-17-databricks-reaches-raises-at-a-188b-valuation-underlining-in
+- 2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b
+- 2026-08-13-databricks-raises-5b-at-a-190b-valuation-as-annualized-reven
 - 2026-07-17-databricks-is-reported-announced-at-a-188b-valuation-with-co
 - 2026-07-20-databricks-188b-valuation-moonshot-s-ipo-plans-and-the-infor
-- 2026-05-21-databricks-ranks-3-on-cnbc-disruptor-50-hits-5-4b-run-rate-s
-- 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 embedding_id: 2026-07-18-databricks-reaches-raises-at-a-188b-valuation-underlining-in
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Databricks reaches/raises at a $188B valuation, underlining investor conviction 
 
 **Entities:** [[Databricks]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-07-17-databricks-reaches-raises-at-a-188b-valuation-underlining-in]] · [[2026-07-17-databricks-is-reported-announced-at-a-188b-valuation-with-co]] · [[2026-07-20-databricks-188b-valuation-moonshot-s-ipo-plans-and-the-infor]] · [[2026-05-21-databricks-ranks-3-on-cnbc-disruptor-50-hits-5-4b-run-rate-s]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
+**Related:** [[2026-07-17-databricks-reaches-raises-at-a-188b-valuation-underlining-in]] · [[2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b]] · [[2026-08-13-databricks-raises-5b-at-a-190b-valuation-as-annualized-reven]] · [[2026-07-17-databricks-is-reported-announced-at-a-188b-valuation-with-co]] · [[2026-07-20-databricks-188b-valuation-moonshot-s-ipo-plans-and-the-infor]]
 <!-- graph:end -->

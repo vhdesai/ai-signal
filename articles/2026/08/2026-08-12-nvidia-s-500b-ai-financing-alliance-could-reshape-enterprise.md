@@ -22,9 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-13-nvidia-anchors-a-500b-financing-consortium-to-fund-ai-data-c
 - 2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz
+- 2026-08-13-nvidia-s-new-500b-data-center-plan-carries-a-gpu-residual-va
 - 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
-- 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
 embedding_id: 2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Nvidia signed memoranda of understanding with Apollo, Blackstone, BlackRock, Bro
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]]
+**Related:** [[2026-08-13-nvidia-anchors-a-500b-financing-consortium-to-fund-ai-data-c]] · [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]] · [[2026-08-13-nvidia-s-new-500b-data-center-plan-carries-a-gpu-residual-va]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]]
 <!-- graph:end -->

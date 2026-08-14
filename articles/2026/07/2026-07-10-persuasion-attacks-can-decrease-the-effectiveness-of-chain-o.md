@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals
+- 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
 - 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
 - 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
 - 2026-07-06-princeton-privileged-self-distillation-can-degrade-reasoning
-- 2026-04-02-academic-research
 embedding_id: 2026-07-10-persuasion-attacks-can-decrease-the-effectiveness-of-chain-o
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A new preprint co-authored by DeepMind's Victoria Krakovna finds that giving a s
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]] · [[2026-07-06-princeton-privileged-self-distillation-can-degrade-reasoning]] · [[2026-04-02-academic-research]]
+**Related:** [[2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals]] · [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]] · [[2026-07-06-princeton-privileged-self-distillation-can-degrade-reasoning]]
 <!-- graph:end -->

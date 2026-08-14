@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
 - 2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product
+- 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
 - 2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation
-- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-- 2026-06-25-enterprise-ai-funding-stays-hot-norm-ai-raises-120m-taktile
 embedding_id: 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Bret Taylor's Sierra closed a $950M round as the contest to own the enterprise A
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product]] · [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-06-25-enterprise-ai-funding-stays-hot-norm-ai-raises-120m-taktile]]
+**Related:** [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation]]
 <!-- graph:end -->

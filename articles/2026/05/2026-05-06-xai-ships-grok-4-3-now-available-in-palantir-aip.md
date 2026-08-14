@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-16-may-api-pricing-shakeup-xai-raises-10-deepseek-mistral-cut-7
 - 2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy
+- 2026-08-12-xai-launches-grok-4-6-for-long-running-agents-grok-4-7-previ
 - 2026-05-01-newxai-releases-grok-4-3
 - 2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively
-- 2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th
 embedding_id: 2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip
 event_name: ''
 ---
@@ -40,5 +40,5 @@ xAI released Grok 4.3 on May 6, posting 53+ on the Artificial Analysis Intellige
 
 **Entities:** [[Palantir]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-16-may-api-pricing-shakeup-xai-raises-10-deepseek-mistral-cut-7]] · [[2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy]] · [[2026-05-01-newxai-releases-grok-4-3]] · [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th]]
+**Related:** [[2026-05-16-may-api-pricing-shakeup-xai-raises-10-deepseek-mistral-cut-7]] · [[2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy]] · [[2026-08-12-xai-launches-grok-4-6-for-long-running-agents-grok-4-7-previ]] · [[2026-05-01-newxai-releases-grok-4-3]] · [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]]
 <!-- graph:end -->

@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-anthropic-openai-techcrunch-may-4-2026
 - 2026-05-18-openai-anthropic-google-buildfastwithai-may-14-17-2026
+- 2026-08-13-the-information-2026-08-13-external-openai-anthropic-data-de
 - 2026-06-27-o-a-d-trending-openai-and-anthropic-face-a-new-reality-as-us
 - 2026-05-18-anthropic-aitoolsrecap-may-7-2026
-- 2026-04-04-anthropic-research-blogapril-4-2026
 embedding_id: 2026-03-17-palantir-has-what-openai-and-anthropic-want-2026-03-17-the-i
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Palantir Has What OpenAI and Anthropic Want [2026-03-17] · The Information
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Palantir]]
-**Related:** [[2026-05-18-anthropic-openai-techcrunch-may-4-2026]] · [[2026-05-18-openai-anthropic-google-buildfastwithai-may-14-17-2026]] · [[2026-06-27-o-a-d-trending-openai-and-anthropic-face-a-new-reality-as-us]] · [[2026-05-18-anthropic-aitoolsrecap-may-7-2026]] · [[2026-04-04-anthropic-research-blogapril-4-2026]]
+**Related:** [[2026-05-18-anthropic-openai-techcrunch-may-4-2026]] · [[2026-05-18-openai-anthropic-google-buildfastwithai-may-14-17-2026]] · [[2026-08-13-the-information-2026-08-13-external-openai-anthropic-data-de]] · [[2026-06-27-o-a-d-trending-openai-and-anthropic-face-a-new-reality-as-us]] · [[2026-05-18-anthropic-aitoolsrecap-may-7-2026]]
 <!-- graph:end -->

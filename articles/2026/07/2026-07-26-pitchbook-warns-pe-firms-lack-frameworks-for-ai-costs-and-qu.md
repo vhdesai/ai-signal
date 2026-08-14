@@ -22,6 +22,7 @@ related_article_ids:
 - 2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers
 - 2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again
 - 2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets
+- 2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for
 - 2026-07-17-pitchbook-s-data-center-fatigue-and-cio-dive-s-keeping-ai-co
 embedding_id: 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 event_name: ''
@@ -34,5 +35,5 @@ PitchBook reports that private-equity firms are moving AI from pilot projects in
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]] · [[2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again]] · [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-07-17-pitchbook-s-data-center-fatigue-and-cio-dive-s-keeping-ai-co]]
+**Related:** [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]] · [[2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again]] · [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]] · [[2026-07-17-pitchbook-s-data-center-fatigue-and-cio-dive-s-keeping-ai-co]]
 <!-- graph:end -->

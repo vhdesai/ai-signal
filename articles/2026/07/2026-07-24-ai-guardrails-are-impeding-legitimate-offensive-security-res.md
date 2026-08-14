@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l
 - 2026-05-07-trump-and-xi-consider-guardrails-for-ai-rivalry-2026-05-07-w
 - 2026-05-12-ethics-debate-over-autonomous-ai-weapons-intensifies-in-euro
-- 2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode
+- 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
 embedding_id: 2026-07-24-ai-guardrails-are-impeding-legitimate-offensive-security-res
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-01-6-ai-safety-policy]] · [[2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l]] · [[2026-05-07-trump-and-xi-consider-guardrails-for-ai-rivalry-2026-05-07-w]] · [[2026-05-12-ethics-debate-over-autonomous-ai-weapons-intensifies-in-euro]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]]
+**Related:** [[2026-05-01-6-ai-safety-policy]] · [[2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l]] · [[2026-05-07-trump-and-xi-consider-guardrails-for-ai-rivalry-2026-05-07-w]] · [[2026-05-12-ethics-debate-over-autonomous-ai-weapons-intensifies-in-euro]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]]
 <!-- graph:end -->

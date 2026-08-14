@@ -21,11 +21,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-11-gemini-app-crosses-1-billion-monthly-active-users
-- 2026-07-23-google-s-gemini-nears-a-one-billion-user-milestone
+dedupe_status: duplicate
+canonical_article_id: 2026-08-12-google-s-gemini-app-crosses-1-billion-monthly-active-users
+related_article_ids: []
 embedding_id: 2026-08-12-google-s-gemini-app-hits-1-billion-monthly-users
 event_name: ''
 ---
@@ -39,5 +37,5 @@ Google’s Gemini reached 1 billion monthly users, making it the fastest-growing
 
 **Entities:** [[Apple]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-11-gemini-app-crosses-1-billion-monthly-active-users]] · [[2026-07-23-google-s-gemini-nears-a-one-billion-user-milestone]]
+**Canonical:** [[2026-08-12-google-s-gemini-app-crosses-1-billion-monthly-active-users]]
 <!-- graph:end -->

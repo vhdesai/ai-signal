@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
 - 2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f
-- 2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google
+- 2026-08-13-google-launches-gemini-3-7-flash-at-half-the-price-of-3-6-fl
 embedding_id: 2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-claims-1b-in-en
 event_name: ''
 ---
@@ -39,5 +39,5 @@ At I/O 2026, Sundar Pichai unveiled Gemini 3.5 Flash, positioned as faster, chea
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9]] · [[2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl]] · [[2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f]] · [[2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google]]
+**Related:** [[2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9]] · [[2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl]] · [[2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f]] · [[2026-08-13-google-launches-gemini-3-7-flash-at-half-the-price-of-3-6-fl]]
 <!-- graph:end -->

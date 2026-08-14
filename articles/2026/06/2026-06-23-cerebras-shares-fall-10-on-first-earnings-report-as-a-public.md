@@ -23,9 +23,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t
-- 2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation
-- 2026-05-14-cerebras-pop-sets-up-the-ai-trade-on-wall-street
+- 2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14
+- 2026-08-13-cerebras-shares-fall-16-despite-revenue-growth-and-25b-backl
+- 2026-08-13-cerebras-slumps-18-on-mixed-quarterly-results
 embedding_id: 2026-06-23-cerebras-shares-fall-10-on-first-earnings-report-as-a-public
 event_name: ''
 ---
@@ -39,5 +39,5 @@ In its debut report since last month's $5.55B IPO, Cerebras Systems posted nearl
 
 **Entities:** [[Cerebras]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t]] · [[2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation]] · [[2026-05-14-cerebras-pop-sets-up-the-ai-trade-on-wall-street]]
+**Related:** [[2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14]] · [[2026-08-13-cerebras-shares-fall-16-despite-revenue-growth-and-25b-backl]] · [[2026-08-13-cerebras-slumps-18-on-mixed-quarterly-results]]
 <!-- graph:end -->

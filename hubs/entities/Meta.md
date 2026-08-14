@@ -1,20 +1,29 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 598
+member_count: 607
 ---
 
 # Meta
 
-> Auto-generated entity hub. 598 connected article(s).
+> Auto-generated entity hub. 607 connected article(s).
 
+- `2026-08-14` [[2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court|AI Glasses Land Meta, Oakley, and Ray-Ban in German Court]]
+- `2026-08-13` [[2026-08-13-meta-joins-openai-and-blackrock-in-signing-union-pacts-for-a|Meta Joins OpenAI and BlackRock in Signing Union Pacts for AI Data Center Construction]]
+- `2026-08-13` [[2026-08-13-manus-says-it-will-resume-operating-as-an-independent-compan|Manus Says It Will Resume Operating as an Independent Company]]
+- `2026-08-13` [[2026-08-13-manus-resumes-independent-operations-after-beijing-blocks-me|Manus Resumes Independent Operations After Beijing Blocks Meta Deal]]
+- `2026-08-13` [[2026-08-13-eu-ai-act-article-50-transparency-duties-now-in-force|EU AI Act Article 50 Transparency Duties Now in Force]]
+- `2026-08-13` [[2026-08-13-anthropic-to-watermark-all-claude-output-for-eu-ai-act-compl|Anthropic to watermark all Claude output for EU AI Act compliance]]
 - `2026-08-12` [[2026-08-12-meta-and-nvidia-plant-very-firm-flag-in-open-weight-ai-race|Meta and Nvidia Plant 'Very Firm Flag' in Open-Weight AI Race Led by Chinese Labs]]
 - `2026-08-12` [[2026-08-12-manus-to-return-as-independent-company-as-meta-deal-unwinds|Manus to Return as Independent Company as Meta Deal Unwinds]]
+- `2026-08-12` [[2026-08-12-anthropic-worker-retraining-programs-may-not-scale-to-ai-dis|Anthropic: Worker-Retraining Programs May Not Scale to AI Displacement]]
+- `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
 - `2026-08-11` [[2026-08-11-zuckerberg-publishes-3-500-word-manifesto-on-open-ai-and-per|Zuckerberg Publishes 3,500-Word Manifesto on Open AI and 'Personal Superintelligence']]
 - `2026-08-11` [[2026-08-11-uk-courts-confiscate-meta-smart-glasses-over-covert-recordin|UK Courts Confiscate Meta Smart Glasses Over Covert Recording Risk]]
 - `2026-08-11` [[2026-08-11-openai-s-only-dedicated-ethicist-departs-without-replacement|OpenAI’s Only Dedicated Ethicist Departs Without Replacement]]
 - `2026-08-11` [[2026-08-11-openai-s-only-dedicated-ethicist-departs-less-than-a-year-af|OpenAI's Only Dedicated Ethicist Departs Less Than a Year After Joining]]
 - `2026-08-11` [[2026-08-11-openai-s-head-of-ethics-departs-under-a-year-after-joining|OpenAI's Head of Ethics Departs Under a Year After Joining]]
+- `2026-08-11` [[2026-08-11-nvidia-is-building-a-1-trillion-parameter-open-model-nemotro|Nvidia Is Building a 1-Trillion-Parameter Open Model, Nemotron 4]]
 - `2026-08-11` [[2026-08-11-meta-to-open-source-flagship-muse-spark-1-2-model|Meta to open-source flagship Muse Spark 1.2 model]]
 - `2026-08-11` [[2026-08-11-meta-releases-muse-glimmer-a-30b-open-weights-agentic-model|Meta releases Muse Glimmer, a 30B open-weights agentic model that runs on one consumer GPU]]
 - `2026-08-11` [[2026-08-11-meta-ships-muse-glimmer-a-30b-open-weight-agentic-model-that|Meta Ships Muse Glimmer, a 30B Open-Weight Agentic Model That Runs Locally]]

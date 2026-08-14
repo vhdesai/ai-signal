@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
+- 2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
 - 2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app
 - 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
-- 2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses
 embedding_id: 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Ahead of Global Accessibility Awareness Day, Meta unveiled new hands-free capabi
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses]]
+**Related:** [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]]
 <!-- graph:end -->

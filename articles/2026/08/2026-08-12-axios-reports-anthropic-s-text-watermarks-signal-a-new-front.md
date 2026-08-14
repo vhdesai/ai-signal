@@ -17,11 +17,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-11-anthropic-begins-embedding-invisible-watermarks-in-claude-s
-- 2026-08-10-anthropic-to-add-invisible-text-native-watermarks-to-new-cla
+dedupe_status: duplicate
+canonical_article_id: 2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash
+related_article_ids: []
 embedding_id: 2026-08-12-axios-reports-anthropic-s-text-watermarks-signal-a-new-front
 event_name: ''
 ---
@@ -35,5 +33,5 @@ Axios reported that Anthropic's text watermarking push is becoming part of a bro
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-11-anthropic-begins-embedding-invisible-watermarks-in-claude-s]] · [[2026-08-10-anthropic-to-add-invisible-text-native-watermarks-to-new-cla]]
+**Canonical:** [[2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash]]
 <!-- graph:end -->

@@ -27,9 +27,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-29-good-morning-vik-today-s-frontier-news-is-driven-less-by-blo
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
+- 2026-08-12-daily-ai-news-digest-august-13-2026
 - 2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens
 - 2026-05-27-the-week-that-reset-the-ai-industry
-- 2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de
 embedding_id: 2026-06-30-good-morning-vik-the-past-24-hours-were-quiet-for-frontier-m
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Good morning, Vik. The past 24 hours were quiet for frontier model launches and 
 
 **Entities:** [[Google]] · [[Meta]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-29-good-morning-vik-today-s-frontier-news-is-driven-less-by-blo]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens]] · [[2026-05-27-the-week-that-reset-the-ai-industry]] · [[2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de]]
+**Related:** [[2026-06-29-good-morning-vik-today-s-frontier-news-is-driven-less-by-blo]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-08-12-daily-ai-news-digest-august-13-2026]] · [[2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens]] · [[2026-05-27-the-week-that-reset-the-ai-industry]]
 <!-- graph:end -->

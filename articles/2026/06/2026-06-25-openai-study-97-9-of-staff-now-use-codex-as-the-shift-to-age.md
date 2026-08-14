@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-02-openai-codex-crosses-5m-weekly-users-expands-beyond-coding-t
+- 2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
-- 2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b
 embedding_id: 2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A new OpenAI paper, “The Shift to Agentic AI: Evidence from Codex” (co-autho
 
 **Entities:** [[Amazon]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-02-openai-codex-crosses-5m-weekly-users-expands-beyond-coding-t]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b]]
+**Related:** [[2026-06-02-openai-codex-crosses-5m-weekly-users-expands-beyond-coding-t]] · [[2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]]
 <!-- graph:end -->

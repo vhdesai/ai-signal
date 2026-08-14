@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-16-runway-ceo-ai-could-let-hollywood-make-50-films-for-the-pric
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
+- 2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua
 - 2026-03-28-defense-ai-startup-shield-ai-closed-a-2-billion-funding-roun
-- 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
 embedding_id: 2026-07-20-netflix-discloses-a-587m-purchase-price-for-ben-affleck-s-ai
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Netflix discloses a $587M purchase price for Ben Affleck's AI filmmaking startup
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-16-runway-ceo-ai-could-let-hollywood-make-50-films-for-the-pric]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-03-28-defense-ai-startup-shield-ai-closed-a-2-billion-funding-roun]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]]
+**Related:** [[2026-04-16-runway-ceo-ai-could-let-hollywood-make-50-films-for-the-pric]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua]] · [[2026-03-28-defense-ai-startup-shield-ai-closed-a-2-billion-funding-roun]]
 <!-- graph:end -->

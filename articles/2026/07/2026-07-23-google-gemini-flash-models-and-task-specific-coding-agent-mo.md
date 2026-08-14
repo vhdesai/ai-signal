@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-22-google-ships-gemini-flash-models-and-security-tuned-gemini-f
 - 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
+- 2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model
 - 2026-07-23-gemini-flash-models-poolside-laguna-s-2-1-and-task-specializ
 - 2026-05-05-google-gemini-agentic-benchmark-performance-surges-deep-rese
-- 2026-06-28-google-caps-meta-s-use-of-gemini-ai-models-amid-compute-crun
 embedding_id: 2026-07-23-google-gemini-flash-models-and-task-specific-coding-agent-mo
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google Gemini Flash models and task-specific coding/agent models.
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-22-google-ships-gemini-flash-models-and-security-tuned-gemini-f]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]] · [[2026-07-23-gemini-flash-models-poolside-laguna-s-2-1-and-task-specializ]] · [[2026-05-05-google-gemini-agentic-benchmark-performance-surges-deep-rese]] · [[2026-06-28-google-caps-meta-s-use-of-gemini-ai-models-amid-compute-crun]]
+**Related:** [[2026-07-22-google-ships-gemini-flash-models-and-security-tuned-gemini-f]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]] · [[2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model]] · [[2026-07-23-gemini-flash-models-poolside-laguna-s-2-1-and-task-specializ]] · [[2026-05-05-google-gemini-agentic-benchmark-performance-surges-deep-rese]]
 <!-- graph:end -->

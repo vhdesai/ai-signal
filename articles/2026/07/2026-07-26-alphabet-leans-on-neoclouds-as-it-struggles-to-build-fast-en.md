@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en
 - 2026-07-20-nvidia-disclosed-a-9-3-stake-in-nebius-reinforcing-neoclouds
 - 2026-07-21-nvidia-disclosed-a-9-3-stake-in-nebius-reinforcing-neoclouds
+- 2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex
 - 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
-- 2026-05-08-hyperscaler-custom-chips-begin-displacing-nvidia-revenue-as
 embedding_id: 2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Alphabet is reportedly leaning on third-party GPU capacity from providers such a
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en]] · [[2026-07-20-nvidia-disclosed-a-9-3-stake-in-nebius-reinforcing-neoclouds]] · [[2026-07-21-nvidia-disclosed-a-9-3-stake-in-nebius-reinforcing-neoclouds]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-05-08-hyperscaler-custom-chips-begin-displacing-nvidia-revenue-as]]
+**Related:** [[2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en]] · [[2026-07-20-nvidia-disclosed-a-9-3-stake-in-nebius-reinforcing-neoclouds]] · [[2026-07-21-nvidia-disclosed-a-9-3-stake-in-nebius-reinforcing-neoclouds]] · [[2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]]
 <!-- graph:end -->

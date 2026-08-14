@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-31-siri-ai-could-come-with-a-paywall-for-power-users
 - 2026-07-31-apple-considers-paywalling-heavier-siri-ai-usage-through-icl
 - 2026-08-03-apple-s-long-delayed-siri-ai-overhaul-finally-ships
+- 2026-08-13-apple-in-talks-to-pay-publishers-nine-figure-budget-to-power
 - 2026-04-01-products-tools
-- 2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the
 embedding_id: 2026-07-31-apple-reportedly-considers-paid-tiers-for-advanced-siri-ai-u
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TechCrunch reports that Apple may monetize advanced Siri AI capabilities through
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-siri-ai-could-come-with-a-paywall-for-power-users]] · [[2026-07-31-apple-considers-paywalling-heavier-siri-ai-usage-through-icl]] · [[2026-08-03-apple-s-long-delayed-siri-ai-overhaul-finally-ships]] · [[2026-04-01-products-tools]] · [[2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the]]
+**Related:** [[2026-07-31-siri-ai-could-come-with-a-paywall-for-power-users]] · [[2026-07-31-apple-considers-paywalling-heavier-siri-ai-usage-through-icl]] · [[2026-08-03-apple-s-long-delayed-siri-ai-overhaul-finally-ships]] · [[2026-08-13-apple-in-talks-to-pay-publishers-nine-figure-budget-to-power]] · [[2026-04-01-products-tools]]
 <!-- graph:end -->

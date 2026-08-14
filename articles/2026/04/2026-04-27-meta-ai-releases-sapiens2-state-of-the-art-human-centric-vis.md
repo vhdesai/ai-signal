@@ -27,10 +27,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un
+- 2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno
 - 2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v
 - 2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api
 - 2026-05-18-openai-released-three-new-voice-api-models-designed-for-live
-- 2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in
 embedding_id: 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Meta Reality Labs released Sapiens2, a high-resolution foundation model family p
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[Mistral]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un]] · [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v]] · [[2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api]] · [[2026-05-18-openai-released-three-new-voice-api-models-designed-for-live]] · [[2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in]]
+**Related:** [[2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un]] · [[2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno]] · [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v]] · [[2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api]] · [[2026-05-18-openai-released-three-new-voice-api-models-designed-for-live]]
 <!-- graph:end -->

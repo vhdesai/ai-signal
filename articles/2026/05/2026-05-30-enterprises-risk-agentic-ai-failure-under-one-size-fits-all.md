@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-08-06-cio-dive-2026-08-06-external-aug-6-ai-agent-safety-failures
 - 2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa
 - 2026-08-08-cio-dive-2026-08-08-external-weekender-surprise-ai-costs-thr
-- 2026-06-06-cio-dive-2026-06-06-external-weekender-ai-agents-put-cyberse
+- 2026-08-13-cio-dive-2026-08-13-external-aug-13-legacy-it-forces-ai-dela
 embedding_id: 2026-05-30-enterprises-risk-agentic-ai-failure-under-one-size-fits-all
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Enterprises risk agentic AI failure under ‘one-size-fits-all’ governance [20
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega]] · [[2026-08-06-cio-dive-2026-08-06-external-aug-6-ai-agent-safety-failures]] · [[2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa]] · [[2026-08-08-cio-dive-2026-08-08-external-weekender-surprise-ai-costs-thr]] · [[2026-06-06-cio-dive-2026-06-06-external-weekender-ai-agents-put-cyberse]]
+**Related:** [[2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega]] · [[2026-08-06-cio-dive-2026-08-06-external-aug-6-ai-agent-safety-failures]] · [[2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa]] · [[2026-08-08-cio-dive-2026-08-08-external-weekender-surprise-ai-costs-thr]] · [[2026-08-13-cio-dive-2026-08-13-external-aug-13-legacy-it-forces-ai-dela]]
 <!-- graph:end -->

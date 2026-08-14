@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
+- 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-07-27-ai-capital-cycle-hits-new-highs-as-the-first-autonomous-ai-b
 embedding_id: 2026-08-04-convex-raises-57m-series-b-for-the-agent-written-software-ba
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Convex closed a $57 million Series B to build backend infrastructure designed fo
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-07-27-ai-capital-cycle-hits-new-highs-as-the-first-autonomous-ai-b]]
+**Related:** [[2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
 <!-- graph:end -->

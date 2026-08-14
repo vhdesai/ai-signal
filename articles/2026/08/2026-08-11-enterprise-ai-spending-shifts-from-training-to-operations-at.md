@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-11-cio-dive-2026-08-11-external-aug-11-ai-spending-shifts-as-te
 - 2026-07-11-cio-dive-2026-07-11-external-weekender-agentic-ai-to-disrupt
+- 2026-08-13-enterprise-ai-adoption-stalls-legacy-it-and-agentic-gaps-per
 - 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
-- 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
 embedding_id: 2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Enterprises are now pouring more resources into operating AI technology at scale
 
 **Entities:** [[Google]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-11-cio-dive-2026-08-11-external-aug-11-ai-spending-shifts-as-te]] · [[2026-07-11-cio-dive-2026-07-11-external-weekender-agentic-ai-to-disrupt]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]]
+**Related:** [[2026-08-11-cio-dive-2026-08-11-external-aug-11-ai-spending-shifts-as-te]] · [[2026-07-11-cio-dive-2026-07-11-external-weekender-agentic-ai-to-disrupt]] · [[2026-08-13-enterprise-ai-adoption-stalls-legacy-it-and-agentic-gaps-per]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]]
 <!-- graph:end -->

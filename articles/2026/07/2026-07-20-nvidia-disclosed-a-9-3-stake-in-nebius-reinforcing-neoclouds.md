@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-21-nvidia-disclosed-a-9-3-stake-in-nebius-reinforcing-neoclouds
+- 2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex
 - 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 - 2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti
-- 2026-07-15-reflection-signs-a-1b-plus-nebius-compute-agreement-as-open
 embedding_id: 2026-07-20-nvidia-disclosed-a-9-3-stake-in-nebius-reinforcing-neoclouds
 event_name: ''
 ---
@@ -38,5 +38,5 @@ NVIDIA disclosed a 9.3% stake in Nebius, reinforcing neoclouds as alternate AI c
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-21-nvidia-disclosed-a-9-3-stake-in-nebius-reinforcing-neoclouds]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti]] · [[2026-07-15-reflection-signs-a-1b-plus-nebius-compute-agreement-as-open]]
+**Related:** [[2026-07-21-nvidia-disclosed-a-9-3-stake-in-nebius-reinforcing-neoclouds]] · [[2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti]]
 <!-- graph:end -->

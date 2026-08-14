@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-27-cve-2026-48710-badhost-critical-starlette-auth-bypass-hits-a
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
-- 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
+- 2026-08-12-enterprises-secure-ai-agent-identities-but-cannot-contain-a
 embedding_id: 2026-07-15-vint-cerf-backs-dnsid-internet-scale-ai-agent-identity-stand
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Vint Cerf backs DNSid / internet-scale AI-agent identity standards.
 
 **Entities:** [[Scale AI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent]] · [[2026-05-27-cve-2026-48710-badhost-critical-starlette-auth-bypass-hits-a]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]]
+**Related:** [[2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent]] · [[2026-05-27-cve-2026-48710-badhost-critical-starlette-auth-bypass-hits-a]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-08-12-enterprises-secure-ai-agent-identities-but-cannot-contain-a]]
 <!-- graph:end -->

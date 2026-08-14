@@ -1,13 +1,29 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 145
+member_count: 161
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 145 connected article(s).
+> Auto-generated entity hub. 161 connected article(s).
 
+- `2026-08-13` [[2026-08-13-openai-previews-ultrafast-tier-gpt-5-6-sol-at-750-tokens-sec|OpenAI Previews Ultrafast Tier: GPT-5.6 Sol at 750 Tokens/Second on Cerebras]]
+- `2026-08-13` [[2026-08-13-openai-previews-ultrafast-tier-gpt-5-6-sol-at-750-tokens-per|OpenAI Previews Ultrafast Tier: GPT-5.6 Sol at 750 Tokens Per Second on Cerebras]]
+- `2026-08-13` [[2026-08-13-openai-launches-ultrafast-mode-gpt-5-6-sol-at-14x-speed-via|OpenAI Launches 'Ultrafast' Mode — GPT-5.6 Sol at 14x Speed via Cerebras]]
+- `2026-08-13` [[2026-08-13-enterprise-ai-adoption-stalls-legacy-it-and-agentic-gaps-per|Enterprise AI Adoption Stalls: Legacy IT and Agentic Gaps Persist]]
+- `2026-08-13` [[2026-08-13-daily-ai-news-digest-august-14-2026|Daily AI News Digest – August 14, 2026]]
+- `2026-08-13` [[2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-sec-in-new|Cerebras runs OpenAI's GPT-5.6 Sol at 750 tokens/sec in new "Ultrafast" tier]]
+- `2026-08-13` [[2026-08-13-cerebras-slumps-18-on-mixed-quarterly-results|Cerebras Slumps 18% on Mixed Quarterly Results]]
+- `2026-08-13` [[2026-08-13-cerebras-shares-fall-16-despite-revenue-growth-and-25b-backl|Cerebras Shares Fall 16% Despite Revenue Growth and $25B Backlog]]
+- `2026-08-13` [[2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-per-second|Cerebras Runs OpenAI's GPT-5.6 Sol at 750 Tokens Per Second in New Ultrafast Tier]]
+- `2026-08-13` [[2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a|Carnegie Mellon Researchers Challenge What It Means to Say AI “Thinks”]]
+- `2026-08-12` [[2026-08-12-coreweave-and-super-micro-surge-on-evidence-of-sustained-ai|CoreWeave and Super Micro surge on evidence of sustained AI buildout]]
+- `2026-08-12` [[2026-08-12-cerebras-raises-full-year-guidance-but-stock-falls-14-after|Cerebras raises full-year guidance but stock falls 14% after hours]]
+- `2026-08-12` [[2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14|Cerebras raises full-year guidance but shares fall ~14%]]
+- `2026-08-12` [[2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu|Cerebras Raises Guidance but Stock Falls 14%; CoreWeave Revenue Doubles]]
+- `2026-08-12` [[2026-08-12-cme-group-to-launch-gpu-futures-compute-exchange-adds-token|CME Group to Launch GPU Futures; Compute Exchange Adds Token Forwards]]
+- `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
 - `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
 - 2026-05-20-scaling-laws-for-embodied-ai
 - 2026-05-19-new-harvard-broad-arxiv-preprint-auditing-llm-clinical-ethic
-- 2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p
+- 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
 embedding_id: 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A new arXiv preprint demonstrates that the internal geometric structure of large
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-20-scaling-laws-for-embodied-ai]] · [[2026-05-19-new-harvard-broad-arxiv-preprint-auditing-llm-clinical-ethic]] · [[2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p]]
+**Related:** [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-20-scaling-laws-for-embodied-ai]] · [[2026-05-19-new-harvard-broad-arxiv-preprint-auditing-llm-clinical-ethic]] · [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]]
 <!-- graph:end -->

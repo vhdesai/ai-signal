@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-07-xai-ships-grok-imagine-image-2-0-with-region-level-editing-a
 - 2026-08-09-xai-s-grok-imagine-image-2-0-takes-2-on-arena-text-to-image
-- 2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m
+- 2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno
 embedding_id: 2026-08-08-xai-ships-grok-imagine-image-2-0-with-production-grade-editi
 event_name: ''
 ---
@@ -37,5 +37,5 @@ xAI made Image 2.0 generally available as the new Quality Mode on grok.com/imagi
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-xai-ships-grok-imagine-image-2-0-with-region-level-editing-a]] · [[2026-08-09-xai-s-grok-imagine-image-2-0-takes-2-on-arena-text-to-image]] · [[2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m]]
+**Related:** [[2026-08-07-xai-ships-grok-imagine-image-2-0-with-region-level-editing-a]] · [[2026-08-09-xai-s-grok-imagine-image-2-0-takes-2-on-arena-text-to-image]] · [[2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-20-etched-is-reportedly-seeking-a-valuation-near-20b-for-transf
 - 2026-07-21-etched-is-reportedly-seeking-a-valuation-near-20b-for-transf
 - 2026-08-03-horizon3-raises-250m-series-e-at-a-2b-valuation-as-ai-driven
-- 2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono
+- 2026-08-12-code-testing-startup-blacksmith-s-valuation-jumps-almost-10x
 embedding_id: 2026-07-23-etched-reaches-3-billion-valuation-for-inference-focused-ai
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Etched raised a million Series C at a .3 billion valuation, led by Sequoia. AMAZ
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-24-etched-reaches-3b-valuation-for-inference-focused-ai-systems]] · [[2026-07-20-etched-is-reportedly-seeking-a-valuation-near-20b-for-transf]] · [[2026-07-21-etched-is-reportedly-seeking-a-valuation-near-20b-for-transf]] · [[2026-08-03-horizon3-raises-250m-series-e-at-a-2b-valuation-as-ai-driven]] · [[2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono]]
+**Related:** [[2026-07-24-etched-reaches-3b-valuation-for-inference-focused-ai-systems]] · [[2026-07-20-etched-is-reportedly-seeking-a-valuation-near-20b-for-transf]] · [[2026-07-21-etched-is-reportedly-seeking-a-valuation-near-20b-for-transf]] · [[2026-08-03-horizon3-raises-250m-series-e-at-a-2b-valuation-as-ai-driven]] · [[2026-08-12-code-testing-startup-blacksmith-s-valuation-jumps-almost-10x]]
 <!-- graph:end -->

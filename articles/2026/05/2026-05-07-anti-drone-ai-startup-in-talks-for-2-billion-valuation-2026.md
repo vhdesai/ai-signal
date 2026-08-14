@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-07-the-information-logo-anti-drone-ai-startup-in-talks-for-2-bi
 - 2026-07-09-the-information-2026-07-09-external-blue-origin-to-raise-10
+- 2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at
 - 2026-04-16-800b-highest-valuation-offer-anthropic-has-received-2x-its-f
 - 2026-04-01-ai-chip-startup-rebellions-raises-400-million-at-2-3-billion
-- 2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion
 embedding_id: 2026-05-07-anti-drone-ai-startup-in-talks-for-2-billion-valuation-2026
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Anti-Drone AI Startup in Talks for $2 Billion Valuation [2026-05-07] · The Info
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-07-the-information-logo-anti-drone-ai-startup-in-talks-for-2-bi]] · [[2026-07-09-the-information-2026-07-09-external-blue-origin-to-raise-10]] · [[2026-04-16-800b-highest-valuation-offer-anthropic-has-received-2x-its-f]] · [[2026-04-01-ai-chip-startup-rebellions-raises-400-million-at-2-3-billion]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]]
+**Related:** [[2026-05-07-the-information-logo-anti-drone-ai-startup-in-talks-for-2-bi]] · [[2026-07-09-the-information-2026-07-09-external-blue-origin-to-raise-10]] · [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]] · [[2026-04-16-800b-highest-valuation-offer-anthropic-has-received-2x-its-f]] · [[2026-04-01-ai-chip-startup-rebellions-raises-400-million-at-2-3-billion]]
 <!-- graph:end -->

@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 846
+member_count: 853
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 846 connected article(s).
+> Auto-generated entity hub. 853 connected article(s).
 
+- `2026-08-13` [[2026-08-13-openai-launches-ultrafast-mode-gpt-5-6-sol-at-14x-speed-via|OpenAI Launches 'Ultrafast' Mode — GPT-5.6 Sol at 14x Speed via Cerebras]]
+- `2026-08-13` [[2026-08-13-microsoft-narrows-its-china-footprint-while-keeping-an-ai-an|Microsoft Narrows Its China Footprint While Keeping an AI and Cloud Door Open]]
+- `2026-08-13` [[2026-08-13-microsoft-merges-consumer-and-business-copilot-apps-kills-se|Microsoft Merges Consumer and Business Copilot Apps, Kills Several AI Features]]
+- `2026-08-13` [[2026-08-13-iren-delivers-horizon-1-to-microsoft-and-achieves-nvidia-exe|IREN Delivers Horizon 1 to Microsoft and Achieves NVIDIA Exemplar Cloud Status on GB300 NVL72]]
+- `2026-08-13` [[2026-08-13-eu-ai-act-article-50-transparency-duties-now-in-force|EU AI Act Article 50 Transparency Duties Now in Force]]
+- `2026-08-13` [[2026-08-13-anthropic-to-watermark-all-claude-output-for-eu-ai-act-compl|Anthropic to watermark all Claude output for EU AI Act compliance]]
+- `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
 - `2026-08-12` [[2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy|AI Agents' 'Alarming' Hacking Skills Create Rush to Spend on Cybersecurity]]
 - `2026-08-11` [[2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact|NVIDIA details 800 VDC power architecture for denser AI factories]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]

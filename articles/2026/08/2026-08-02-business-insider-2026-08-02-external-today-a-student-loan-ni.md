@@ -18,10 +18,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-01-business-insider-2026-07-01-external-today-a-student-loan-ov
+- 2026-08-13-business-insider-2026-08-13-external-today-silicon-valley-is
 - 2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for
 - 2026-07-26-business-insider-2026-07-26-external-today-homebuyers-need-t
 - 2026-08-03-business-insider-2026-08-03-external-today-epstein-island-s
-- 2026-06-16-pitchbook-2026-06-16-external-ai-is-scaring-lenders-from-sof
 embedding_id: 2026-08-02-business-insider-2026-08-02-external-today-a-student-loan-ni
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Business Insider - [2026-08-02] [EXTERNAL] Today: A student loan nightmare
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-01-business-insider-2026-07-01-external-today-a-student-loan-ov]] · [[2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for]] · [[2026-07-26-business-insider-2026-07-26-external-today-homebuyers-need-t]] · [[2026-08-03-business-insider-2026-08-03-external-today-epstein-island-s]] · [[2026-06-16-pitchbook-2026-06-16-external-ai-is-scaring-lenders-from-sof]]
+**Related:** [[2026-07-01-business-insider-2026-07-01-external-today-a-student-loan-ov]] · [[2026-08-13-business-insider-2026-08-13-external-today-silicon-valley-is]] · [[2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for]] · [[2026-07-26-business-insider-2026-07-26-external-today-homebuyers-need-t]] · [[2026-08-03-business-insider-2026-08-03-external-today-epstein-island-s]]
 <!-- graph:end -->

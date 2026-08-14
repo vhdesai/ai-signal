@@ -1,14 +1,14 @@
 ---
 article_id: 2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-as-hassabis-mov
-title: Koray Kavukcuoglu Takes Over Google DeepMind as Hassabis Moves to Chair
+title: Koray Kavukcuoglu takes over Google DeepMind as Hassabis moves to chair
 date: '2026-08-12'
 source: CNBC
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-08-12_060635_Inbox_Daily AI News Digest - August 12,
+digest_source: digests\raw\2026-08-13_063740_Inbox_Daily AI News Digest - August 13,
   2026.md
-content_hash: 2e3a455eb8bb6c054189a930482a4494981d9863766858290815238d7963a693
+content_hash: 028b5206b122d5278cd510e212c97f741c5ed1a5aa5f7672f55ae1ffceeb9c28
 normalized_title_hash: 50f98f059fac3a09
 canonical_url_hash: ''
 tags:
@@ -27,9 +27,9 @@ embedding_id: 2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-as-hassabi
 event_name: ''
 ---
 
-# Koray Kavukcuoglu Takes Over Google DeepMind as Hassabis Moves to Chair
+# Koray Kavukcuoglu takes over Google DeepMind as Hassabis moves to chair
 
-Koray Kavukcuoglu, previously DeepMind CTO and Google's chief AI architect, becomes SVP and head of Google DeepMind reporting directly to Sundar Pichai, replacing co-founder Demis Hassabis, who becomes chair. Kavukcuoglu's remit spans Gemini model development, frontier AI research, and the Gemini app and developer teams. Analysts framed the change as prioritizing execution and release cadence over open-ended research, with closing the coding gap against OpenAI and Anthropic as the immediate test. Google has not shipped a frontier model since Gemini 3.1 Pro in February. cnbc.com — Google DeepMind: Koray Kavukcuoglu takes over in frontier AI push ADOPTION
+Google elevated Koray Kavukcuoglu to lead DeepMind day-to-day, with Demis Hassabis moving into a chair role. The stated priority is keeping Gemini competitive with OpenAI and Anthropic, with coding performance singled out as the gap to close. Structural leadership change at this level typically precedes a shift in model roadmap priorities — worth watching for anyone with Gemini in a production stack. https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html EARNINGS
 
 <!-- graph:start -->
 ## Connections

@@ -18,10 +18,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes
+- 2026-08-14-business-insider-2026-08-14-external-today-the-fight-for-the
 - 2026-03-20-atoms-beating-bits-2026-03-20-business-insider
 - 2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive
 - 2026-05-01-compute-is-destiny-2026-05-01-business-insider
-- 2026-07-17-business-insider-2026-07-17-external-today-the-parasite-sour
 embedding_id: 2026-03-13-ai-bloodbath-2026-03-13-business-insider
 event_name: ''
 ---
@@ -33,5 +33,5 @@ AI 'bloodbath' [2026-03-13] · Business Insider
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes]] · [[2026-03-20-atoms-beating-bits-2026-03-20-business-insider]] · [[2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive]] · [[2026-05-01-compute-is-destiny-2026-05-01-business-insider]] · [[2026-07-17-business-insider-2026-07-17-external-today-the-parasite-sour]]
+**Related:** [[2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes]] · [[2026-08-14-business-insider-2026-08-14-external-today-the-fight-for-the]] · [[2026-03-20-atoms-beating-bits-2026-03-20-business-insider]] · [[2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive]] · [[2026-05-01-compute-is-destiny-2026-05-01-business-insider]]
 <!-- graph:end -->

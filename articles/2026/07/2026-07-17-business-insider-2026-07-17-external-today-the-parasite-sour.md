@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-15-business-insider-2026-07-15-external-today-meet-the-parasite
 - 2026-07-31-business-insider-2026-07-31-external-today-a-hedge-fund-s-ai
+- 2026-08-14-business-insider-2026-08-14-external-today-the-fight-for-the
 - 2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out
-- 2026-08-03-business-insider-2026-08-03-external-today-epstein-island-s
-- 2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive
+- 2026-08-13-business-insider-2026-08-13-external-today-silicon-valley-is
 embedding_id: 2026-07-17-business-insider-2026-07-17-external-today-the-parasite-sour
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Business Insider - [2026-07-17] [EXTERNAL] Today: The parasite source got flushe
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-15-business-insider-2026-07-15-external-today-meet-the-parasite]] · [[2026-07-31-business-insider-2026-07-31-external-today-a-hedge-fund-s-ai]] · [[2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out]] · [[2026-08-03-business-insider-2026-08-03-external-today-epstein-island-s]] · [[2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive]]
+**Related:** [[2026-07-15-business-insider-2026-07-15-external-today-meet-the-parasite]] · [[2026-07-31-business-insider-2026-07-31-external-today-a-hedge-fund-s-ai]] · [[2026-08-14-business-insider-2026-08-14-external-today-the-fight-for-the]] · [[2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out]] · [[2026-08-13-business-insider-2026-08-13-external-today-silicon-valley-is]]
 <!-- graph:end -->

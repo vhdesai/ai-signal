@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen
 - 2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge
+- 2026-08-12-coreweave-and-super-micro-surge-on-evidence-of-sustained-ai
+- 2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu
 - 2026-08-02-coreweave-sweetens-2-6b-loan-terms-as-ai-debt-investors-push
-- 2026-04-16-coreweave-secured-a-6-billion-compute-commitment-from-quant
-- 2026-04-10-industry-news
 embedding_id: 2026-08-12-coreweave-q2-revenue-doubles-to-575b-while-cash-burn-hits-7b
 event_name: ''
 ---
@@ -37,5 +37,5 @@ CoreWeave reported Q2 revenue of \.575 billion, up 112% year-over-year, but cash
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge]] · [[2026-08-02-coreweave-sweetens-2-6b-loan-terms-as-ai-debt-investors-push]] · [[2026-04-16-coreweave-secured-a-6-billion-compute-commitment-from-quant]] · [[2026-04-10-industry-news]]
+**Related:** [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge]] · [[2026-08-12-coreweave-and-super-micro-surge-on-evidence-of-sustained-ai]] · [[2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu]] · [[2026-08-02-coreweave-sweetens-2-6b-loan-terms-as-ai-debt-investors-push]]
 <!-- graph:end -->

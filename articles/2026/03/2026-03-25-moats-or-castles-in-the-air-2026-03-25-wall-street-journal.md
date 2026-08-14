@@ -19,9 +19,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-25-is-this-email-difficult-to-read-view-in-browser-the-wall-str-5
 - 2026-07-21-wall-street-journal-wsj-2026-07-21-external-the-10-point-inv
+- 2026-08-12-wall-street-journal-wsj-2026-08-12-external-markets-a-m-how
 - 2026-04-27-don-t-get-greedy-with-ai-stocks-2026-04-27-wall-street-journ
 - 2026-07-20-wall-street-journal-wsj-2026-07-20-external-the-10-point-inv
-- 2026-06-23-wall-street-journal-wsj-2026-06-23-the-10-point-the-perp-fut
 embedding_id: 2026-03-25-moats-or-castles-in-the-air-2026-03-25-wall-street-journal
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Moats, or Castles in the Air? [2026-03-25] · Wall Street Journal
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-03-25-is-this-email-difficult-to-read-view-in-browser-the-wall-str-5]] · [[2026-07-21-wall-street-journal-wsj-2026-07-21-external-the-10-point-inv]] · [[2026-04-27-don-t-get-greedy-with-ai-stocks-2026-04-27-wall-street-journ]] · [[2026-07-20-wall-street-journal-wsj-2026-07-20-external-the-10-point-inv]] · [[2026-06-23-wall-street-journal-wsj-2026-06-23-the-10-point-the-perp-fut]]
+**Related:** [[2026-03-25-is-this-email-difficult-to-read-view-in-browser-the-wall-str-5]] · [[2026-07-21-wall-street-journal-wsj-2026-07-21-external-the-10-point-inv]] · [[2026-08-12-wall-street-journal-wsj-2026-08-12-external-markets-a-m-how]] · [[2026-04-27-don-t-get-greedy-with-ai-stocks-2026-04-27-wall-street-journ]] · [[2026-07-20-wall-street-journal-wsj-2026-07-20-external-the-10-point-inv]]
 <!-- graph:end -->

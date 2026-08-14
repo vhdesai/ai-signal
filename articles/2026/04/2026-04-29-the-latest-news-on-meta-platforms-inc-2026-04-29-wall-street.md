@@ -21,7 +21,6 @@ related_article_ids:
 - 2026-04-30-the-latest-news-on-meta-platforms-inc-2026-04-30-wall-street
 - 2026-04-27-the-latest-news-on-meta-platforms-inc-2026-04-27-wall-street
 - 2026-03-24-the-latest-news-on-meta-platforms-inc-2026-03-24-wall-street
-- 2026-03-25-the-latest-news-on-meta-platforms-inc-2026-03-25-wall-street
 embedding_id: 2026-04-29-the-latest-news-on-meta-platforms-inc-2026-04-29-wall-street
 event_name: ''
 ---
@@ -34,5 +33,5 @@ The latest news on Meta Platforms Inc. [2026-04-29] · Wall Street Journal
 ## Connections
 
 **Entities:** [[Meta]]
-**Related:** [[2026-04-30-the-latest-news-on-meta-platforms-inc-2026-04-30-wall-street]] · [[2026-04-27-the-latest-news-on-meta-platforms-inc-2026-04-27-wall-street]] · [[2026-03-24-the-latest-news-on-meta-platforms-inc-2026-03-24-wall-street]] · [[2026-03-25-the-latest-news-on-meta-platforms-inc-2026-03-25-wall-street]]
+**Related:** [[2026-04-30-the-latest-news-on-meta-platforms-inc-2026-04-30-wall-street]] · [[2026-04-27-the-latest-news-on-meta-platforms-inc-2026-04-27-wall-street]] · [[2026-03-24-the-latest-news-on-meta-platforms-inc-2026-03-24-wall-street]]
 <!-- graph:end -->

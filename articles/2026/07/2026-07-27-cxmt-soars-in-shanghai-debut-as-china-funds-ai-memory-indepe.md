@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-cxmt-surges-in-shanghai-debut-as-china-funds-ai-memory-indep
+- 2026-08-14-china-s-cxmt-nears-intel-s-market-cap-rivaling-world-s-most
 - 2026-07-25-china-s-cxmt-debuts-on-shanghai-s-star-market-with-an-8-6b-r
 embedding_id: 2026-07-27-cxmt-soars-in-shanghai-debut-as-china-funds-ai-memory-indepe
 event_name: ''
@@ -35,5 +36,5 @@ ChangXin Memory Technologies jumped more than 470% in its Shanghai trading debut
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-07-27-cxmt-surges-in-shanghai-debut-as-china-funds-ai-memory-indep]] · [[2026-07-25-china-s-cxmt-debuts-on-shanghai-s-star-market-with-an-8-6b-r]]
+**Related:** [[2026-07-27-cxmt-surges-in-shanghai-debut-as-china-funds-ai-memory-indep]] · [[2026-08-14-china-s-cxmt-nears-intel-s-market-cap-rivaling-world-s-most]] · [[2026-07-25-china-s-cxmt-debuts-on-shanghai-s-star-market-with-an-8-6b-r]]
 <!-- graph:end -->

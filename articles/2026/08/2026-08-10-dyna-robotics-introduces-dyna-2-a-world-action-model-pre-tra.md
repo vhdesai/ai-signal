@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-dyna-robotics-unveils-dyna-2-claiming-the-first-scaling-law
+- 2026-08-13-dyna-robotics-introduces-dyna-2-a-world-action-model-trained
 - 2026-08-10-dyna-robotics-trains-dyna-2-on-a-million-hours-of-human-vide
 - 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
 - 2026-07-31-bytedance-launches-seedance-2-5-video-generation-model
-- 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
 embedding_id: 2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Dyna Robotics announced Dyna-2, a world-action model trained to predict both vis
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-10-dyna-robotics-unveils-dyna-2-claiming-the-first-scaling-law]] · [[2026-08-10-dyna-robotics-trains-dyna-2-on-a-million-hours-of-human-vide]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]] · [[2026-07-31-bytedance-launches-seedance-2-5-video-generation-model]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]]
+**Related:** [[2026-08-10-dyna-robotics-unveils-dyna-2-claiming-the-first-scaling-law]] · [[2026-08-13-dyna-robotics-introduces-dyna-2-a-world-action-model-trained]] · [[2026-08-10-dyna-robotics-trains-dyna-2-on-a-million-hours-of-human-vide]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]] · [[2026-07-31-bytedance-launches-seedance-2-5-video-generation-model]]
 <!-- graph:end -->

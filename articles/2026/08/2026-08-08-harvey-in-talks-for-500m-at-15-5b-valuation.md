@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-08-harvey-in-talks-for-500m-at-a-15-5b-valuation
 - 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat
 - 2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough
-- 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
+- 2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at
 embedding_id: 2026-08-08-harvey-in-talks-for-500m-at-15-5b-valuation
 event_name: ''
 ---
@@ -37,5 +37,5 @@ ARR ~$300M. At 44× revenue—a proxy for how vertical AI applications are being
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-08-harvey-in-talks-for-500m-at-a-15-5b-valuation]] · [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat]] · [[2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]]
+**Related:** [[2026-08-08-harvey-in-talks-for-500m-at-a-15-5b-valuation]] · [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat]] · [[2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough]] · [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]]
 <!-- graph:end -->

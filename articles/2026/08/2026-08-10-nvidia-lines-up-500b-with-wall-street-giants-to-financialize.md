@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data
 - 2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi
 - 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
 - 2026-08-11-nvidia-and-wall-street-launch-ai-financing-alliance
-- 2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz
 embedding_id: 2026-08-10-nvidia-lines-up-500b-with-wall-street-giants-to-financialize
 event_name: ''
 ---
@@ -39,5 +39,5 @@ MOUs with Apollo, Blackstone, BlackRock, Brookfield, Goldman Sachs, KKR. Nvidia 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-08-11-nvidia-and-wall-street-launch-ai-financing-alliance]] · [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]]
+**Related:** [[2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data]] · [[2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-08-11-nvidia-and-wall-street-launch-ai-financing-alliance]]
 <!-- graph:end -->

@@ -17,12 +17,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-11-unreleased-anthropic-model-raises-the-riemann-zeta-lower-bou
-- 2026-08-10-anthropic-reports-ai-derived-improvement-to-a-riemann-zeta-f
-- 2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr
+dedupe_status: duplicate
+canonical_article_id: 2026-08-11-anthropic-reports-an-unreleased-claude-model-advanced-a-riem
+related_article_ids: []
 embedding_id: 2026-08-11-unreleased-anthropic-model-advances-a-related-riemann-hypoth
 event_name: ''
 ---
@@ -36,5 +33,5 @@ TechCrunch reported on Anthropic's research showing that an unreleased Claude mo
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-11-unreleased-anthropic-model-raises-the-riemann-zeta-lower-bou]] · [[2026-08-10-anthropic-reports-ai-derived-improvement-to-a-riemann-zeta-f]] · [[2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr]]
+**Canonical:** [[2026-08-11-anthropic-reports-an-unreleased-claude-model-advanced-a-riem]]
 <!-- graph:end -->

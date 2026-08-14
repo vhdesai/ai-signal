@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age
 - 2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model
+- 2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t
 - 2026-06-18-openai-adds-enterprise-usage-analytics-and-spend-controls
-- 2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai
 embedding_id: 2026-04-03-openai-shifts-codex-to-usage-based-pricing-for-business-and
 event_name: ''
 ---
@@ -36,5 +36,5 @@ OpenAI Shifts Codex to Usage-Based Pricing for Business and Enterprise
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age]] · [[2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model]] · [[2026-06-18-openai-adds-enterprise-usage-analytics-and-spend-controls]] · [[2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai]]
+**Related:** [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age]] · [[2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model]] · [[2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t]] · [[2026-06-18-openai-adds-enterprise-usage-analytics-and-spend-controls]]
 <!-- graph:end -->

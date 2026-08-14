@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-03-other-ai-related-publication-emails-2026-08-03-daily-ai-news
 - 2026-07-26-other-ai-related-publication-emails-2026-07-26-external-heyg
 - 2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t
-- 2026-07-13-other-ai-related-publication-emails-2026-07-13-no-other-clea
+- 2026-08-12-other-ai-related-publication-emails-2026-08-12-external-join
 embedding_id: 2026-08-07-other-ai-related-publication-emails-2026-08-07-daily-ai-news
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Other AI-related Publication Emails - [2026-08-07] Daily AI News Digest variants
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Related:** [[2026-08-06-other-ai-related-publication-emails-2026-08-06-daily-ai-news]] · [[2026-08-03-other-ai-related-publication-emails-2026-08-03-daily-ai-news]] · [[2026-07-26-other-ai-related-publication-emails-2026-07-26-external-heyg]] · [[2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t]] · [[2026-07-13-other-ai-related-publication-emails-2026-07-13-no-other-clea]]
+**Related:** [[2026-08-06-other-ai-related-publication-emails-2026-08-06-daily-ai-news]] · [[2026-08-03-other-ai-related-publication-emails-2026-08-03-daily-ai-news]] · [[2026-07-26-other-ai-related-publication-emails-2026-07-26-external-heyg]] · [[2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t]] · [[2026-08-12-other-ai-related-publication-emails-2026-08-12-external-join]]
 <!-- graph:end -->

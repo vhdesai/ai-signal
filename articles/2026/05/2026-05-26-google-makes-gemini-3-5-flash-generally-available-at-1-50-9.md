@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-13-google-launches-gemini-3-7-flash-at-half-the-price-of-3-6-fl
+- 2026-08-13-google-releases-gemini-3-7-flash-to-general-availability
+- 2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model
+- 2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl
 - 2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-claims-1b-in-en
-- 2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai
-- 2026-07-21-google-deepmind-ships-gemini-3-6-flash-3-5-flash-lite-and-3
-- 2026-05-10-google-gemini-3-1-ultra-2m-token-native-multimodal-context
-- 2026-07-13-google-targets-july-17-general-availability-for-gemini-3-5-p
 embedding_id: 2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google moved Gemini 3.5 Flash to general availability across AI Studio and Verte
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-claims-1b-in-en]] · [[2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai]] · [[2026-07-21-google-deepmind-ships-gemini-3-6-flash-3-5-flash-lite-and-3]] · [[2026-05-10-google-gemini-3-1-ultra-2m-token-native-multimodal-context]] · [[2026-07-13-google-targets-july-17-general-availability-for-gemini-3-5-p]]
+**Related:** [[2026-08-13-google-launches-gemini-3-7-flash-at-half-the-price-of-3-6-fl]] · [[2026-08-13-google-releases-gemini-3-7-flash-to-general-availability]] · [[2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model]] · [[2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl]] · [[2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-claims-1b-in-en]]
 <!-- graph:end -->

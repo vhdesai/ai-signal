@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 280
+member_count: 284
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 280 connected article(s).
+> Auto-generated entity hub. 284 connected article(s).
 
+- `2026-08-13` [[2026-08-13-deepseek-launches-v4-pro-into-general-availability|DeepSeek Launches V4-Pro Into General Availability]]
+- `2026-08-13` [[2026-08-13-beijing-could-suddenly-clamp-down-on-chinese-open-weight-ai|Beijing Could Suddenly Clamp Down on Chinese Open-Weight AI Models]]
+- `2026-08-12` [[2026-08-12-nvidia-details-serving-alibaba-s-2-4t-parameter-qwen3-8-mode|NVIDIA details serving Alibaba's 2.4T-parameter Qwen3.8 model on GB300 NVL72]]
+- `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-10` [[2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built|Meta launches Muse Glimmer, an open-weight model family built to run on laptops]]
 - `2026-08-10` [[2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te|Beijing’s companion-app rules force ByteDance, Alibaba, and Tencent to pull AI companions]]

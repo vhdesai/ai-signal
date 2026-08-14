@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-20-anthropic-s-1-5b-copyright-settlement-received-final-approva
 - 2026-07-22-anthropic-copyright-settlement-receives-approval
 - 2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne
-- 2026-05-17-reports-indicate-anthropic-is-in-final-stages-of-a-funding-r
+- 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
 embedding_id: 2026-07-21-anthropic-s-1-5b-copyright-settlement-received-final-approva
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic's $1.5B copyright settlement received final approval, while copyright/
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-20-anthropic-s-1-5b-copyright-settlement-received-final-approva]] · [[2026-07-22-anthropic-copyright-settlement-receives-approval]] · [[2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne]] · [[2026-05-17-reports-indicate-anthropic-is-in-final-stages-of-a-funding-r]]
+**Related:** [[2026-07-20-anthropic-s-1-5b-copyright-settlement-received-final-approva]] · [[2026-07-22-anthropic-copyright-settlement-receives-approval]] · [[2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne]] · [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]]
 <!-- graph:end -->

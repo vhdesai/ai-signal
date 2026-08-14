@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal
 - 2026-05-26-microsoft-restructures-openai-deal-adds-persistent-memory-to
 - 2026-04-23-openai-shipped-chatgpt-images-2-0-gpt-image-2-delivering-not
+- 2026-08-12-apple-in-talks-to-pay-publishers-for-news-to-power-ai-siri
 - 2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation
-- 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
 embedding_id: 2026-06-22-openai-and-getty-images-strike-multi-year-content-display-de
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Getty Images and OpenAI announced a multi-year agreement to surface Getty's lice
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal]] · [[2026-05-26-microsoft-restructures-openai-deal-adds-persistent-memory-to]] · [[2026-04-23-openai-shipped-chatgpt-images-2-0-gpt-image-2-delivering-not]] · [[2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]]
+**Related:** [[2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal]] · [[2026-05-26-microsoft-restructures-openai-deal-adds-persistent-memory-to]] · [[2026-04-23-openai-shipped-chatgpt-images-2-0-gpt-image-2-delivering-not]] · [[2026-08-12-apple-in-talks-to-pay-publishers-for-news-to-power-ai-siri]] · [[2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation]]
 <!-- graph:end -->

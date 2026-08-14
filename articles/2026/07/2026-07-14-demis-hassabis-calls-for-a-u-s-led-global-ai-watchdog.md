@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body
 - 2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch
 - 2026-07-15-deepmind-ceo-demis-hassabis-proposes-an-independent-finra-st
-- 2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi
 embedding_id: 2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Axios reports that Google DeepMind CEO Demis Hassabis called for a U.S.-led glob
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch]] · [[2026-07-15-deepmind-ceo-demis-hassabis-proposes-an-independent-finra-st]] · [[2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi]]
+**Related:** [[2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body]] · [[2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch]] · [[2026-07-15-deepmind-ceo-demis-hassabis-proposes-an-independent-finra-st]]
 <!-- graph:end -->

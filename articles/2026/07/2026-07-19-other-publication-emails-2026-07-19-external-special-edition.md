@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t
+- 2026-08-12-other-ai-related-publication-emails-2026-08-12-external-join
 - 2026-07-14-other-ai-related-publication-emails-2026-07-14-external-buil
 - 2026-07-12-other-ai-related-publication-emails-2026-07-12-external-spec
 - 2026-07-27-other-ai-related-publication-emails-2026-07-27-external-are
-- 2026-07-13-other-ai-related-publication-emails-2026-07-13-no-other-clea
 embedding_id: 2026-07-19-other-publication-emails-2026-07-19-external-special-edition
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Other Publication Emails - [2026-07-19] [EXTERNAL] Special Edition: A Resume Red
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t]] · [[2026-07-14-other-ai-related-publication-emails-2026-07-14-external-buil]] · [[2026-07-12-other-ai-related-publication-emails-2026-07-12-external-spec]] · [[2026-07-27-other-ai-related-publication-emails-2026-07-27-external-are]] · [[2026-07-13-other-ai-related-publication-emails-2026-07-13-no-other-clea]]
+**Related:** [[2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t]] · [[2026-08-12-other-ai-related-publication-emails-2026-08-12-external-join]] · [[2026-07-14-other-ai-related-publication-emails-2026-07-14-external-buil]] · [[2026-07-12-other-ai-related-publication-emails-2026-07-12-external-spec]] · [[2026-07-27-other-ai-related-publication-emails-2026-07-27-external-are]]
 <!-- graph:end -->

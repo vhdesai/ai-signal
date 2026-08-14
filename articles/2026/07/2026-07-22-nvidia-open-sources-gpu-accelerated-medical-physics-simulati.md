@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet
 - 2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica
 - 2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr
+- 2026-08-11-nvidia-developing-nemotron-4-a-1t-parameter-open-model
 - 2026-03-24-nvidia-open-sources-nemotron-cascade-2-efficient-30b-moe-for
-- 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
-- 2026-08-11-nvidia-releases-nemotron-3-5-lightning-its-first-open-source
 embedding_id: 2026-07-22-nvidia-open-sources-gpu-accelerated-medical-physics-simulati
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Research Breakthroughs ACADEMIC RESEARCHDOEAI FOR SCIENCE
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica]] · [[2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr]] · [[2026-03-24-nvidia-open-sources-nemotron-cascade-2-efficient-30b-moe-for]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-its-first-open-source]]
+**Related:** [[2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet]] · [[2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica]] · [[2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr]] · [[2026-08-11-nvidia-developing-nemotron-4-a-1t-parameter-open-model]] · [[2026-03-24-nvidia-open-sources-nemotron-cascade-2-efficient-30b-moe-for]]
 <!-- graph:end -->

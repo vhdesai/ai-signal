@@ -30,6 +30,7 @@ related_article_ids:
 - 2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da
 - 2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f
 - 2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe
+- 2026-08-12-mistral-commits-to-in-region-inference-and-up-to-1-gw-of-eur
 embedding_id: 2026-04-12-mistral-ai-released-mistral-small-4-a-22b-parameter-model-un
 event_name: ''
 ---
@@ -43,5 +44,5 @@ MiniMax Open-Sources MiniMax M2.7 — First Model That Autonomously Improved Its
 
 **Entities:** [[Mistral]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f]] · [[2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe]]
+**Related:** [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f]] · [[2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe]] · [[2026-08-12-mistral-commits-to-in-region-inference-and-up-to-1-gw-of-eur]]
 <!-- graph:end -->

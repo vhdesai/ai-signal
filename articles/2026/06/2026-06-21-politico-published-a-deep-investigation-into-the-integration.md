@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine
-- 2026-04-06-google-deepmind-researchers-published-a-significant-security
-- 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
-- 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
-- 2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle
+- 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
+- 2026-08-12-taiwan-s-nuclear-regulator-targeted-by-an-autonomous-ai-cybe
+- 2026-08-12-taiwan-s-nuclear-regulator-targeted-by-near-autonomous-ai-cy
+- 2026-08-13-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
 embedding_id: 2026-06-21-politico-published-a-deep-investigation-into-the-integration
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Politico published a deep investigation into the integration of AI into nuclear 
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine]] · [[2026-04-06-google-deepmind-researchers-published-a-significant-security]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk]] · [[2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle]]
+**Related:** [[2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-08-12-taiwan-s-nuclear-regulator-targeted-by-an-autonomous-ai-cybe]] · [[2026-08-12-taiwan-s-nuclear-regulator-targeted-by-near-autonomous-ai-cy]] · [[2026-08-13-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]]
 <!-- graph:end -->

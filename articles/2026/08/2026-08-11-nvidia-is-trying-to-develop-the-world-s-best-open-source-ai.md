@@ -20,11 +20,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica
-- 2026-07-15-nvidia-nemotron-labs-frames-open-models-as-an-enterprise-sov
-- 2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens
-- 2026-08-11-nvidia-releases-nemotron-3-5-lightning-open-source-ai-model
-- 2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve
+- 2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet
+- 2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod
 embedding_id: 2026-08-11-nvidia-is-trying-to-develop-the-world-s-best-open-source-ai
 event_name: ''
 ---
@@ -38,5 +35,5 @@ Nvidia pouring investment into an ambitious in-house AI model that it hopes driv
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica]] · [[2026-07-15-nvidia-nemotron-labs-frames-open-models-as-an-enterprise-sov]] · [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-open-source-ai-model]] · [[2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve]]
+**Related:** [[2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet]] · [[2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod]]
 <!-- graph:end -->

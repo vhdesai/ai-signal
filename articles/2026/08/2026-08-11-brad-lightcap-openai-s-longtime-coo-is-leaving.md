@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-11-openai-coo-brad-lightcap-departs-after-eight-years
 - 2026-08-12-openai-special-projects-lead-brad-lightcap-departing
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
-- 2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role
-- 2026-07-07-openai-s-chief-futurist-is-leaving-the-company
+- 2026-08-13-openai-replaces-cro-after-nine-months-hires-wiz-coo-dali-raj
+- 2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d
 embedding_id: 2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Brad Lightcap, one of OpenAI's longest-serving executives and formerly its COO a
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-11-openai-coo-brad-lightcap-departs-after-eight-years]] · [[2026-08-12-openai-special-projects-lead-brad-lightcap-departing]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]] · [[2026-07-07-openai-s-chief-futurist-is-leaving-the-company]]
+**Related:** [[2026-08-11-openai-coo-brad-lightcap-departs-after-eight-years]] · [[2026-08-12-openai-special-projects-lead-brad-lightcap-departing]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-08-13-openai-replaces-cro-after-nine-months-hires-wiz-coo-dali-raj]] · [[2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d]]
 <!-- graph:end -->

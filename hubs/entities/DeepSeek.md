@@ -1,14 +1,32 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 334
+member_count: 352
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 334 connected article(s).
+> Auto-generated entity hub. 352 connected article(s).
 
+- `2026-08-13` [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread|OpenAI and Anthropic Data Demand Turns Startups’ Slack Threads Into Prized Assets]]
+- `2026-08-13` [[2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl|Google Releases Gemini 3.7 Flash at Half the Price of 3.6 Flash]]
+- `2026-08-13` [[2026-08-13-enterprise-ai-adoption-stalls-legacy-it-and-agentic-gaps-per|Enterprise AI Adoption Stalls: Legacy IT and Agentic Gaps Persist]]
+- `2026-08-13` [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context|DeepSeek formally releases V4 Pro with 1M-token context]]
+- `2026-08-13` [[2026-08-13-deepseek-v4-pro-launches-to-mixed-reviews-priced-at-a-fracti|DeepSeek V4-Pro Launches to Mixed Reviews, Priced at a Fraction of Competitors]]
+- `2026-08-13` [[2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-then-raises-ap|DeepSeek Ships V4-Pro and Open-Source “Harness” — Then Raises API Prices]]
+- `2026-08-13` [[2026-08-13-deepseek-releases-v4-pro-with-1m-token-context-at-commodity|DeepSeek Releases V4 Pro With 1M-Token Context at Commodity Pricing]]
+- `2026-08-13` [[2026-08-13-deepseek-launches-v4-pro-into-general-availability|DeepSeek Launches V4-Pro Into General Availability]]
+- `2026-08-13` [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c|DeepSeek Formally Releases V4 Pro With 1M-Token Context at Commodity Pricing]]
+- `2026-08-13` [[2026-08-13-daily-ai-news-digest-august-14-2026|Daily AI News Digest – August 14, 2026]]
+- `2026-08-13` [[2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a|Carnegie Mellon Researchers Challenge What It Means to Say AI “Thinks”]]
+- `2026-08-13` [[2026-08-13-beijing-could-suddenly-clamp-down-on-chinese-open-weight-ai|Beijing Could Suddenly Clamp Down on Chinese Open-Weight AI Models]]
+- `2026-08-13` [[2026-08-13-anthropic-investors-anticipate-2-trillion-ipo-decart-acquisi|Anthropic Investors Anticipate $2 Trillion IPO; Decart Acquisition Talks at $6B]]
 - `2026-08-12` [[2026-08-12-meta-and-nvidia-plant-very-firm-flag-in-open-weight-ai-race|Meta and Nvidia Plant 'Very Firm Flag' in Open-Weight AI Race Led by Chinese Labs]]
+- `2026-08-12` [[2026-08-12-daily-ai-news-digest-august-13-2026|Daily AI News Digest – August 13, 2026]]
+- `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
+- `2026-08-12` [[2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash|Anthropic Text Watermarks Trigger Ongoing User Backlash]]
+- `2026-08-12` [[2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe|AllenAI Open Instruct: Reproducible Tulu 3 Post-Training Pipeline]]
+- `2026-08-11` [[2026-08-11-nvidia-is-building-a-1-trillion-parameter-open-model-nemotro|Nvidia Is Building a 1-Trillion-Parameter Open Model, Nemotron 4]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-10` [[2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built|Meta launches Muse Glimmer, an open-weight model family built to run on laptops]]
 - `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]

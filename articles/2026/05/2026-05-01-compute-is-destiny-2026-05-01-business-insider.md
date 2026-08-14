@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-14-business-insider-2026-08-14-external-today-the-fight-for-the
 - 2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes
 - 2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin
 - 2026-07-31-business-insider-2026-07-31-external-today-a-hedge-fund-s-ai
 - 2026-06-19-business-insider-2026-06-19-external-the-modern-american-ret
-- 2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast
 embedding_id: 2026-05-01-compute-is-destiny-2026-05-01-business-insider
 event_name: ''
 ---
@@ -35,5 +35,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes]] · [[2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin]] · [[2026-07-31-business-insider-2026-07-31-external-today-a-hedge-fund-s-ai]] · [[2026-06-19-business-insider-2026-06-19-external-the-modern-american-ret]] · [[2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast]]
+**Related:** [[2026-08-14-business-insider-2026-08-14-external-today-the-fight-for-the]] · [[2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes]] · [[2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin]] · [[2026-07-31-business-insider-2026-07-31-external-today-a-hedge-fund-s-ai]] · [[2026-06-19-business-insider-2026-06-19-external-the-modern-american-ret]]
 <!-- graph:end -->

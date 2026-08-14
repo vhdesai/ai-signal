@@ -18,10 +18,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-13-ai-bloodbath-2026-03-13-business-insider
+- 2026-08-14-business-insider-2026-08-14-external-today-the-fight-for-the
 - 2026-05-01-compute-is-destiny-2026-05-01-business-insider
 - 2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes
 - 2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s
-- 2026-05-09-mit-technology-review-apr-21-2026
 embedding_id: 2026-03-20-atoms-beating-bits-2026-03-20-business-insider
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Atoms beating bits [2026-03-20] · Business Insider
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-03-13-ai-bloodbath-2026-03-13-business-insider]] · [[2026-05-01-compute-is-destiny-2026-05-01-business-insider]] · [[2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes]] · [[2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s]] · [[2026-05-09-mit-technology-review-apr-21-2026]]
+**Related:** [[2026-03-13-ai-bloodbath-2026-03-13-business-insider]] · [[2026-08-14-business-insider-2026-08-14-external-today-the-fight-for-the]] · [[2026-05-01-compute-is-destiny-2026-05-01-business-insider]] · [[2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes]] · [[2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s]]
 <!-- graph:end -->

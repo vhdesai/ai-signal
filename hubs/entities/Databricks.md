@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 94
+member_count: 101
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 94 connected article(s).
+> Auto-generated entity hub. 101 connected article(s).
 
+- `2026-08-13` [[2026-08-13-databricks-settles-on-5b-raise-at-a-190b-valuation|Databricks settles on $5B raise at a $190B valuation]]
+- `2026-08-13` [[2026-08-13-databricks-raises-5b-at-a-190b-valuation-as-annualized-reven|Databricks Raises $5B at a $190B Valuation as Annualized Revenue Tops $7B]]
+- `2026-08-13` [[2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b|Databricks Raises $5B at $190B Valuation as Revenue Tops $7B]]
+- `2026-08-13` [[2026-08-13-databricks-raises-5b-at-190b-valuation-with-revenue-past-7b|Databricks Raises $5B at $190B Valuation With Revenue Past $7B Annualized]]
+- `2026-08-13` [[2026-08-13-databricks-raises-5b-at-190b-valuation-after-15b-of-investor|Databricks Raises $5B at $190B Valuation After $15B of Investor Demand]]
+- `2026-08-13` [[2026-08-13-daily-ai-news-digest-august-14-2026|Daily AI News Digest – August 14, 2026]]
+- `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
 - `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]

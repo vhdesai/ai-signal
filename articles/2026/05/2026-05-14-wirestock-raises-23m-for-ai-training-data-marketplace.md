@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-ai-code-testing-startup-blacksmith-raises-45m-at-a-550m-valu
+- 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
+- 2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at
 - 2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation
-- 2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio
-- 2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a
 embedding_id: 2026-05-14-wirestock-raises-23m-for-ai-training-data-marketplace
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Wirestock, a platform connecting content creators with AI companies seeking lice
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-12-ai-code-testing-startup-blacksmith-raises-45m-at-a-550m-valu]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation]] · [[2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio]] · [[2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a]]
+**Related:** [[2026-08-12-ai-code-testing-startup-blacksmith-raises-45m-at-a-550m-valu]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]] · [[2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation]]
 <!-- graph:end -->

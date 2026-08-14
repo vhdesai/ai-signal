@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-nvidia-server-maker-wiwynn-warns-ai-bottlenecks-now-extend-b
 - 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
+- 2026-08-13-nvidia-weighs-reducing-memory-on-next-gen-rubin-ultra-gpu-du
 - 2026-07-19-inference-chip-financing-and-ai-memory-shortages-from-prior
 - 2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui
-- 2026-07-10-u-s-officials-urge-ai-memory-suppliers-to-build-domestic-fab
 embedding_id: 2026-07-20-ai-memory-shortages-are-becoming-geopolitical-as-hbm-advance
 event_name: ''
 ---
@@ -37,5 +37,5 @@ AI memory shortages are becoming geopolitical as HBM/advanced DRAM supply become
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-28-nvidia-server-maker-wiwynn-warns-ai-bottlenecks-now-extend-b]] · [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-07-19-inference-chip-financing-and-ai-memory-shortages-from-prior]] · [[2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui]] · [[2026-07-10-u-s-officials-urge-ai-memory-suppliers-to-build-domestic-fab]]
+**Related:** [[2026-05-28-nvidia-server-maker-wiwynn-warns-ai-bottlenecks-now-extend-b]] · [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-08-13-nvidia-weighs-reducing-memory-on-next-gen-rubin-ultra-gpu-du]] · [[2026-07-19-inference-chip-financing-and-ai-memory-shortages-from-prior]] · [[2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui]]
 <!-- graph:end -->

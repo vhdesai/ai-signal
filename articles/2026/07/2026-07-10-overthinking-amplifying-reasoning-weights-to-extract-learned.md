@@ -20,9 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
 - 2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85
 - 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
-- 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
 embedding_id: 2026-07-10-overthinking-amplifying-reasoning-weights-to-extract-learned
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Accepted at ICML 2026, this work introduces “overthinking” — amplifying re
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85]] · [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]]
+**Related:** [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85]] · [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]]
 <!-- graph:end -->

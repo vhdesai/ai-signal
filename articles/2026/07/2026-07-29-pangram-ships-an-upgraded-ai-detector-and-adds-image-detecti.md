@@ -21,6 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-29-pangram-raises-9-million-as-ai-content-floods-the-internet
 - 2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip
+- 2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation
 - 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
 - 2026-07-09-openai-doubles-its-biosecurity-jailbreak-bounty-to-50-000-fo
 embedding_id: 2026-07-29-pangram-ships-an-upgraded-ai-detector-and-adds-image-detecti
@@ -35,5 +36,5 @@ Pangram released Pangram 4 and previewed image detection, backed by $9 million f
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-pangram-raises-9-million-as-ai-content-floods-the-internet]] · [[2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-07-09-openai-doubles-its-biosecurity-jailbreak-bounty-to-50-000-fo]]
+**Related:** [[2026-07-29-pangram-raises-9-million-as-ai-content-floods-the-internet]] · [[2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip]] · [[2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-07-09-openai-doubles-its-biosecurity-jailbreak-bounty-to-50-000-fo]]
 <!-- graph:end -->

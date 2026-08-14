@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-23-openai-hugging-face-breach-moonshot-fable-distillation-claim
 - 2026-07-24-openai-s-hugging-face-breach-fuels-containment-and-liability
 - 2026-07-21-openai-says-its-own-pre-release-models-breached-hugging-face
+- 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
 - 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
-- 2026-07-22-openai-s-hugging-face-breach-points-to-sandbox-design-failur
 embedding_id: 2026-07-23-openai-hugging-face-breach-anthropic-copyright-settlement-mo
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI/Hugging Face breach; Anthropic copyright settlement; Moonshot/Fable debat
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-23-openai-hugging-face-breach-moonshot-fable-distillation-claim]] · [[2026-07-24-openai-s-hugging-face-breach-fuels-containment-and-liability]] · [[2026-07-21-openai-says-its-own-pre-release-models-breached-hugging-face]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-07-22-openai-s-hugging-face-breach-points-to-sandbox-design-failur]]
+**Related:** [[2026-07-23-openai-hugging-face-breach-moonshot-fable-distillation-claim]] · [[2026-07-24-openai-s-hugging-face-breach-fuels-containment-and-liability]] · [[2026-07-21-openai-says-its-own-pre-release-models-breached-hugging-face]] · [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]]
 <!-- graph:end -->

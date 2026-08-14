@@ -1,25 +1,56 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1165
+member_count: 1196
 ---
 
 # Google
 
-> Auto-generated entity hub. 1165 connected article(s).
+> Auto-generated entity hub. 1196 connected article(s).
 
-- `2026-08-12` [[2026-08-12-the-information-2026-08-12-external-google-s-gemini-app-hits|The Information - [2026-08-12] [EXTERNAL] Google's Gemini App Hits 1 Billion Monthly Users - [2026-08-12] [EXTERNAL]…]]
+- `2026-08-14` [[2026-08-14-z-ai-ships-glm-5-3-all-gains-from-post-training-no-new-base|Z.ai Ships GLM-5.3 — All Gains From Post-Training, No New Base Model]]
+- `2026-08-14` [[2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by|OpenAI CRO Denise Dresser Departs After 8 Months; Replaced by Former Wiz COO]]
+- `2026-08-13` [[2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body|WSJ reports DeepMind's Hassabis pitched an AI-oversight body before a governance shake-up]]
+- `2026-08-13` [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread|OpenAI and Anthropic Data Demand Turns Startups’ Slack Threads Into Prized Assets]]
+- `2026-08-13` [[2026-08-13-lenovo-profits-soar-past-expectations-on-ai-computers-server|Lenovo Profits Soar Past Expectations on AI Computers, Servers, and Services]]
+- `2026-08-13` [[2026-08-13-jeff-dean-s-discovery-loop-startup-raising-at-11-figure-valu|Jeff Dean’s Discovery Loop Startup Raising at 11-Figure Valuation]]
+- `2026-08-13` [[2026-08-13-google-launches-gemini-3-7-flash-at-half-the-price-of-3-6-fl|Google launches Gemini 3.7 Flash at half the price of 3.6 Flash]]
+- `2026-08-13` [[2026-08-13-google-tightens-control-over-deepmind-as-gemini-faces-compet|Google Tightens Control Over DeepMind as Gemini Faces Competitive Pressure]]
+- `2026-08-13` [[2026-08-13-google-releases-gemini-3-7-flash-to-general-availability|Google Releases Gemini 3.7 Flash to General Availability]]
+- `2026-08-13` [[2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl|Google Releases Gemini 3.7 Flash at Half the Price of 3.6 Flash]]
+- `2026-08-13` [[2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model|Google Releases Gemini 3.7 Flash as a Coding and Agent Model at $0.75/1M Input Tokens]]
+- `2026-08-13` [[2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-then-raises-ap|DeepSeek Ships V4-Pro and Open-Source “Harness” — Then Raises API Prices]]
+- `2026-08-12` [[2026-08-12-the-information-2026-08-12-external-google-s-gemini-app-hits|The Information - [2026-08-12] [EXTERNAL] Google's Gemini App Hits 1 Billion Monthly Users]]
+- `2026-08-12` [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred|Researchers Recover “Encrypted” Reasoning Traces — and Live Credentials — From Major LLM APIs]]
+- `2026-08-12` [[2026-08-12-made-by-google-2026-pixel-11-lineup-and-pixel-watch-5-with-p|Made by Google 2026: Pixel 11 lineup and Pixel Watch 5 with proactive Gemini]]
+- `2026-08-12` [[2026-08-12-made-by-google-2026-pixel-11-with-proactive-gemini-sl2t-sign|Made by Google 2026: Pixel 11 With Proactive Gemini; SL2T Sign-Language Ships]]
+- `2026-08-12` [[2026-08-12-made-by-google-26-pixel-11-line-pixel-watch-5-pixel-tag-and|Made by Google '26: Pixel 11 line, Pixel Watch 5, Pixel Tag, and new Gemini features]]
+- `2026-08-12` [[2026-08-12-made-by-google-26-pixel-11-line-arrives-with-gemini-pushed-i|Made by Google '26: Pixel 11 line arrives with Gemini pushed into the OS]]
+- `2026-08-12` [[2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-as-hassabis-mov|Koray Kavukcuoglu takes over Google DeepMind as Hassabis moves to chair]]
 - `2026-08-12` [[2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-amid-competitiv|Koray Kavukcuoglu takes over Google DeepMind amid competitive pressure]]
-- `2026-08-12` [[2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-as-hassabis-mov|Koray Kavukcuoglu Takes Over Google DeepMind as Hassabis Moves to Chair]]
+- `2026-08-12` [[2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-amid-founder-le|Koray Kavukcuoglu Takes Over Google DeepMind Amid Founder-Level Pressure on Gemini]]
 - `2026-08-12` [[2026-08-12-kavukcuoglu-takes-over-google-deepmind-gemini-app-hits-1b-us|Kavukcuoglu Takes Over Google DeepMind; Gemini App Hits 1B Users]]
 - `2026-08-12` [[2026-08-12-google-s-gemini-app-hits-1-billion-monthly-users|Google’s Gemini App Hits 1 Billion Monthly Users]]
 - `2026-08-12` [[2026-08-12-google-s-new-ai-boss-inherits-a-race-to-catch-openai-and-ant|Google's New AI Boss Inherits a Race to Catch OpenAI and Anthropic]]
+- `2026-08-12` [[2026-08-12-google-s-gemini-app-crosses-1-billion-monthly-active-users|Google's Gemini app crosses 1 billion monthly active users]]
 - `2026-08-12` [[2026-08-12-google-reshuffles-deepmind-leadership-kavukcuoglu-takes-over|Google reshuffles DeepMind leadership: Kavukcuoglu takes over as Hassabis becomes chair]]
+- `2026-08-12` [[2026-08-12-google-launches-pixel-11-with-broader-gemini-and-proactive-a|Google launches Pixel 11 with broader Gemini and proactive AI features]]
+- `2026-08-12` [[2026-08-12-google-unveils-pixel-11-lineup-with-new-gemini-features-at-m|Google Unveils Pixel 11 Lineup with New Gemini Features at Made by Google '26]]
 - `2026-08-12` [[2026-08-12-google-installs-koray-kavukcuoglu-atop-deepmind-as-it-chases|Google Installs Koray Kavukcuoglu Atop DeepMind as It Chases OpenAI and Anthropic]]
+- `2026-08-12` [[2026-08-12-google-deepmind-ships-sl2t-sign-language-translation-on-andr|Google DeepMind ships SL2T sign-language translation on Android]]
+- `2026-08-12` [[2026-08-12-google-deepmind-puts-sign-language-ai-into-gboard-and-live-t|Google DeepMind puts sign-language AI into Gboard and Live Transcribe]]
+- `2026-08-12` [[2026-08-12-google-deepmind-leadership-shake-up-kavukcuoglu-takes-over-h|Google DeepMind leadership shake-up: Kavukcuoglu takes over, Hassabis becomes chair]]
+- `2026-08-12` [[2026-08-12-google-deepmind-frames-sign-language-ai-as-a-governed-deploy|Google DeepMind frames sign-language AI as a governed deployment, not just a model release]]
+- `2026-08-12` [[2026-08-12-google-deepmind-ships-sign-language-translation-to-android-p|Google DeepMind Ships Sign-Language Translation to Android Phones]]
+- `2026-08-12` [[2026-08-12-google-deepmind-ships-sl2t-sign-language-translation-into-an|Google DeepMind Ships SL2T Sign-Language Translation Into Android Products]]
+- `2026-08-12` [[2026-08-12-deepmind-shakeup-kavukcuoglu-takes-over-sergey-brin-goes-all|DeepMind Shakeup: Kavukcuoglu Takes Over; Sergey Brin Goes “All-In” on Gemini]]
+- `2026-08-12` [[2026-08-12-daily-ai-news-digest-august-13-2026|Daily AI News Digest – August 13, 2026]]
+- `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
 - `2026-08-11` [[2026-08-11-xai-co-founder-leaves-to-build-open-source-ai-startup-river|xAI Co-Founder Leaves to Build Open-Source AI Startup River AI]]
 - `2026-08-11` [[2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact|NVIDIA details 800 VDC power architecture for denser AI factories]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-11` [[2026-08-11-google-s-gemini-app-crosses-one-billion-monthly-users|Google's Gemini app crosses one billion monthly users]]
+- `2026-08-11` [[2026-08-11-google-s-gemini-app-passes-1-billion-monthly-active-users|Google's Gemini App Passes 1 Billion Monthly Active Users]]
 - `2026-08-11` [[2026-08-11-google-says-gemini-app-surpassed-1-billion-monthly-users|Google says Gemini app surpassed 1 billion monthly users]]
 - `2026-08-11` [[2026-08-11-google-demonstrates-amie-real-time-clinical-video-consultati|Google demonstrates AMIE real-time clinical video consultation capabilities]]
 - `2026-08-11` [[2026-08-11-google-advances-amie-toward-expert-level-audio-visual-clinic|Google advances AMIE toward expert-level audio-visual clinical consultations]]

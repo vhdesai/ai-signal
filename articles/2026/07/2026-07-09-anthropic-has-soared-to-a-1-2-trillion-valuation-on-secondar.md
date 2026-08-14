@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-anthropic-reportedly-reaches-1-2t-valuation-on-secondary-mar
+- 2026-08-14-investors-battle-for-anthropic-shares-on-secondary-markets-a
 - 2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai
-- 2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne
-- 2026-05-26-anthropic-closing-30b-round-at-900b-valuation
+- 2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc
 embedding_id: 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Anthropic shares are reportedly trading around a $1.2 trillion valuation on seco
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-anthropic-reportedly-reaches-1-2t-valuation-on-secondary-mar]] · [[2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai]] · [[2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne]] · [[2026-05-26-anthropic-closing-30b-round-at-900b-valuation]]
+**Related:** [[2026-07-09-anthropic-reportedly-reaches-1-2t-valuation-on-secondary-mar]] · [[2026-08-14-investors-battle-for-anthropic-shares-on-secondary-markets-a]] · [[2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai]] · [[2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc]]
 <!-- graph:end -->

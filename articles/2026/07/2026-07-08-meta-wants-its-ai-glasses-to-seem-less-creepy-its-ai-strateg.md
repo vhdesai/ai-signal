@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-10-meta-pulls-instagram-ai-image-feature-days-after-launch
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
 - 2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app
-- 2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature
+- 2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court
 embedding_id: 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Meta announced that Ray-Ban AI glasses will disable camera capture if the record
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-10-meta-pulls-instagram-ai-image-feature-days-after-launch]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app]] · [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature]]
+**Related:** [[2026-07-10-meta-pulls-instagram-ai-image-feature-days-after-launch]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app]] · [[2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court]]
 <!-- graph:end -->

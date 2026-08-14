@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-06-demis-hassabis-named-alphabet-chief-scientist-koray-kavukcuo
 - 2026-08-05-alphabet-overhauls-ai-leadership-hassabis-steps-back-jeff-de
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
+- 2026-08-12-google-deepmind-leadership-shake-up-kavukcuoglu-takes-over-h
 - 2026-08-05-google-reshuffles-its-ai-leadership-jeff-dean-departs-to-fou
-- 2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role
 embedding_id: 2026-07-30-scale-ai-names-francis-desouza-as-ceo
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Scale AI named Francis deSouza — former Google Cloud COO and security-products
 
 **Entities:** [[Google]] · [[Scale AI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-demis-hassabis-named-alphabet-chief-scientist-koray-kavukcuo]] · [[2026-08-05-alphabet-overhauls-ai-leadership-hassabis-steps-back-jeff-de]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-08-05-google-reshuffles-its-ai-leadership-jeff-dean-departs-to-fou]] · [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]]
+**Related:** [[2026-08-06-demis-hassabis-named-alphabet-chief-scientist-koray-kavukcuo]] · [[2026-08-05-alphabet-overhauls-ai-leadership-hassabis-steps-back-jeff-de]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-08-12-google-deepmind-leadership-shake-up-kavukcuoglu-takes-over-h]] · [[2026-08-05-google-reshuffles-its-ai-leadership-jeff-dean-departs-to-fou]]
 <!-- graph:end -->

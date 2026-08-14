@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-08-claude-security-launches-autonomous-codebase-vulnerability-s
 - 2026-07-22-fallout-continues-from-openai-s-autonomous-agent-breaching-h
 - 2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c
-- 2026-05-24-claude-code-autonomously-discovers-scaling-algorithms-that-c
+- 2026-08-13-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
 embedding_id: 2026-04-04-ai-agent-autonomously-hacks-freebsd-in-four-hours-using-clau
 event_name: ''
 ---
@@ -36,5 +36,5 @@ AI Agent Autonomously Hacks FreeBSD in Four Hours Using Claude
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu]] · [[2026-05-08-claude-security-launches-autonomous-codebase-vulnerability-s]] · [[2026-07-22-fallout-continues-from-openai-s-autonomous-agent-breaching-h]] · [[2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c]] · [[2026-05-24-claude-code-autonomously-discovers-scaling-algorithms-that-c]]
+**Related:** [[2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu]] · [[2026-05-08-claude-security-launches-autonomous-codebase-vulnerability-s]] · [[2026-07-22-fallout-continues-from-openai-s-autonomous-agent-breaching-h]] · [[2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c]] · [[2026-08-13-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]]
 <!-- graph:end -->

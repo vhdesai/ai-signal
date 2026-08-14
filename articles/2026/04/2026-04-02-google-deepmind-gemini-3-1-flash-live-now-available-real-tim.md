@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-04-02-google-deepmind-released-gemini-3-1-flash-live-in-march-desc
 - 2026-04-01-google-deepmind-unveiled-gemini-3-1-featuring-simultaneous-v
 - 2026-05-26-google-s-gemini-3-5-flash-gemini-spark-documentation-goes-fu
+- 2026-08-13-google-releases-gemini-3-7-flash-to-general-availability
 - 2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot
-- 2026-03-28-google-rolled-out-gemini-3-1-flash-live-to-more-than-200-cou
 embedding_id: 2026-04-02-google-deepmind-gemini-3-1-flash-live-now-available-real-tim
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Google DeepMind: Gemini 3.1 Flash Live Now Available — Real-Time Multimodal Au
 ## Connections
 
 **Entities:** [[Google]]
-**Related:** [[2026-04-02-google-deepmind-released-gemini-3-1-flash-live-in-march-desc]] · [[2026-04-01-google-deepmind-unveiled-gemini-3-1-featuring-simultaneous-v]] · [[2026-05-26-google-s-gemini-3-5-flash-gemini-spark-documentation-goes-fu]] · [[2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot]] · [[2026-03-28-google-rolled-out-gemini-3-1-flash-live-to-more-than-200-cou]]
+**Related:** [[2026-04-02-google-deepmind-released-gemini-3-1-flash-live-in-march-desc]] · [[2026-04-01-google-deepmind-unveiled-gemini-3-1-featuring-simultaneous-v]] · [[2026-05-26-google-s-gemini-3-5-flash-gemini-spark-documentation-goes-fu]] · [[2026-08-13-google-releases-gemini-3-7-flash-to-general-availability]] · [[2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot]]
 <!-- graph:end -->

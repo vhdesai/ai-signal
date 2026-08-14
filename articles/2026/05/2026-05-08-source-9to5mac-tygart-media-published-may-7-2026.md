@@ -22,6 +22,7 @@ related_article_ids:
 - 2026-05-08-source-techcrunch-published-may-1-2026
 - 2026-05-08-source-ars-technica-published-may-6-2026
 - 2026-05-16-source-wired-may-13-14-2026
+- 2026-05-08-source-politico-published-may-7-2026
 embedding_id: 2026-05-08-source-9to5mac-tygart-media-published-may-7-2026
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Source: 9to5Mac / Tygart Media · Published: May 7, 2026
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-08-source-techcrunch-wsj-published-may-4-2026]] · [[2026-05-08-source-techcrunch-published-may-1-2026]] · [[2026-05-08-source-ars-technica-published-may-6-2026]] · [[2026-05-16-source-wired-may-13-14-2026]]
+**Related:** [[2026-05-08-source-techcrunch-wsj-published-may-4-2026]] · [[2026-05-08-source-techcrunch-published-may-1-2026]] · [[2026-05-08-source-ars-technica-published-may-6-2026]] · [[2026-05-16-source-wired-may-13-14-2026]] · [[2026-05-08-source-politico-published-may-7-2026]]
 <!-- graph:end -->

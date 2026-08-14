@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-03-china-s-deepseek-v4-heads-to-official-release-with-peak-off
+- 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
+- 2026-08-13-deepseek-releases-v4-pro-with-1m-token-context-at-commodity
+- 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context
 - 2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent
-- 2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price
-- 2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age
 embedding_id: 2026-07-01-deepseek-introduces-peak-hour-surge-pricing-on-its-v4-api
 event_name: ''
 ---
@@ -38,5 +39,5 @@ DeepSeek told API customers it will double V4 model prices during two Beijing pe
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-03-china-s-deepseek-v4-heads-to-official-release-with-peak-off]] · [[2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent]] · [[2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price]] · [[2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age]]
+**Related:** [[2026-07-03-china-s-deepseek-v4-heads-to-official-release-with-peak-off]] · [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c]] · [[2026-08-13-deepseek-releases-v4-pro-with-1m-token-context-at-commodity]] · [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context]] · [[2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent]]
 <!-- graph:end -->

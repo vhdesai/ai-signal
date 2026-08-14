@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out
 - 2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s
 - 2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne
+- 2026-08-13-business-insider-2026-08-13-external-today-silicon-valley-is
 - 2026-08-03-business-insider-2026-08-03-external-today-epstein-island-s
-- 2026-07-28-dealbook-andrew-ross-sorkin-nyt-2026-07-28-external-dealbook
 embedding_id: 2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Business Insider - [2026-07-13] [EXTERNAL] Today: Apple's explosive allegations 
 ## Connections
 
 **Entities:** [[Apple]]
-**Related:** [[2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out]] · [[2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]] · [[2026-08-03-business-insider-2026-08-03-external-today-epstein-island-s]] · [[2026-07-28-dealbook-andrew-ross-sorkin-nyt-2026-07-28-external-dealbook]]
+**Related:** [[2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out]] · [[2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]] · [[2026-08-13-business-insider-2026-08-13-external-today-silicon-valley-is]] · [[2026-08-03-business-insider-2026-08-03-external-today-epstein-island-s]]
 <!-- graph:end -->

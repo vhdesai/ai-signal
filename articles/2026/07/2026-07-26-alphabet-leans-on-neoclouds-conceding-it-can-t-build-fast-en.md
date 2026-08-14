@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-26-alphabet-lifts-its-2026-ai-capex-and-leans-on-neoclouds-conc
 - 2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en
+- 2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex
 - 2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti
 - 2026-07-22-alphabet-beats-on-revenue-but-shares-slip-as-2026-ai-capex-g
 embedding_id: 2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en
@@ -36,5 +37,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-26-alphabet-lifts-its-2026-ai-capex-and-leans-on-neoclouds-conc]] · [[2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en]] · [[2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti]] · [[2026-07-22-alphabet-beats-on-revenue-but-shares-slip-as-2026-ai-capex-g]]
+**Related:** [[2026-07-26-alphabet-lifts-its-2026-ai-capex-and-leans-on-neoclouds-conc]] · [[2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en]] · [[2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex]] · [[2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti]] · [[2026-07-22-alphabet-beats-on-revenue-but-shares-slip-as-2026-ai-capex-g]]
 <!-- graph:end -->

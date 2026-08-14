@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-16-anthropic-has-begun-requiring-government-id-verification-via
+- 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
 - 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
 - 2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions
-- 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
 embedding_id: 2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A revised privacy policy (effective July 8) states Anthropic may request governm
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-16-anthropic-has-begun-requiring-government-id-verification-via]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]]
+**Related:** [[2026-04-16-anthropic-has-begun-requiring-government-id-verification-via]] · [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions]]
 <!-- graph:end -->

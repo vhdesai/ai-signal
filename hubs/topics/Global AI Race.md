@@ -1,17 +1,60 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 977
+member_count: 1020
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 977 connected article(s).
+> Auto-generated topic hub. 1020 connected article(s).
 
+- `2026-08-14` [[2026-08-14-china-s-cxmt-nears-intel-s-market-cap-rivaling-world-s-most|China's CXMT Nears Intel's Market Cap, Rivaling World's Most Valuable Chipmakers]]
+- `2026-08-14` [[2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court|AI Glasses Land Meta, Oakley, and Ray-Ban in German Court]]
+- `2026-08-13` [[2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain|OpenAI and Anthropic in Price War as Chinese AI Rivals Gain Ground]]
+- `2026-08-13` [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread|OpenAI and Anthropic Data Demand Turns Startups’ Slack Threads Into Prized Assets]]
+- `2026-08-13` [[2026-08-13-microsoft-narrows-its-china-footprint-while-keeping-an-ai-an|Microsoft Narrows Its China Footprint While Keeping an AI and Cloud Door Open]]
+- `2026-08-13` [[2026-08-13-manus-says-it-will-resume-operating-as-an-independent-compan|Manus Says It Will Resume Operating as an Independent Company]]
+- `2026-08-13` [[2026-08-13-manus-resumes-independent-operations-after-beijing-blocks-me|Manus Resumes Independent Operations After Beijing Blocks Meta Deal]]
+- `2026-08-13` [[2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl|Google Releases Gemini 3.7 Flash at Half the Price of 3.6 Flash]]
+- `2026-08-13` [[2026-08-13-enterprise-ai-adoption-stalls-legacy-it-and-agentic-gaps-per|Enterprise AI Adoption Stalls: Legacy IT and Agentic Gaps Persist]]
+- `2026-08-13` [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context|DeepSeek formally releases V4 Pro with 1M-token context]]
+- `2026-08-13` [[2026-08-13-deepseek-v4-pro-launches-to-mixed-reviews-priced-at-a-fracti|DeepSeek V4-Pro Launches to Mixed Reviews, Priced at a Fraction of Competitors]]
+- `2026-08-13` [[2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-then-raises-ap|DeepSeek Ships V4-Pro and Open-Source “Harness” — Then Raises API Prices]]
+- `2026-08-13` [[2026-08-13-deepseek-releases-v4-pro-with-1m-token-context-at-commodity|DeepSeek Releases V4 Pro With 1M-Token Context at Commodity Pricing]]
+- `2026-08-13` [[2026-08-13-deepseek-launches-v4-pro-into-general-availability|DeepSeek Launches V4-Pro Into General Availability]]
+- `2026-08-13` [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c|DeepSeek Formally Releases V4 Pro With 1M-Token Context at Commodity Pricing]]
+- `2026-08-13` [[2026-08-13-daily-ai-news-digest-august-14-2026|Daily AI News Digest – August 14, 2026]]
+- `2026-08-13` [[2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a|Carnegie Mellon Researchers Challenge What It Means to Say AI “Thinks”]]
+- `2026-08-13` [[2026-08-13-beijing-could-suddenly-clamp-down-on-chinese-open-weight-ai|Beijing Could Suddenly Clamp Down on Chinese Open-Weight AI Models]]
+- `2026-08-13` [[2026-08-13-anthropic-reportedly-weighing-2t-valuation-for-october-ipo|Anthropic Reportedly Weighing ~$2T Valuation for October IPO]]
+- `2026-08-13` [[2026-08-13-anthropic-investors-anticipate-2-trillion-ipo-decart-acquisi|Anthropic Investors Anticipate $2 Trillion IPO; Decart Acquisition Talks at $6B]]
+- `2026-08-13` [[2026-08-13-anthropic-finds-ai-agents-launch-turf-wars-when-given-compet|Anthropic Finds AI Agents Launch 'Turf Wars' When Given Competing Tasks]]
+- `2026-08-13` [[2026-08-13-analysis-export-controls-alone-won-t-decide-the-us-china-ai|Analysis: export controls alone won't decide the US–China AI race]]
+- `2026-08-13` [[2026-08-13-alphasense-study-u-s-frontier-models-can-be-cheaper-than-chi|AlphaSense Study: U.S. Frontier Models Can Be Cheaper Than Chinese Open-Weight Models]]
 - `2026-08-12` [[2026-08-12-unitree-s-shanghai-robotics-ipo-draws-8-000x-retail-oversubs|Unitree's Shanghai Robotics IPO Draws 8,000x Retail Oversubscription]]
 - `2026-08-12` [[2026-08-12-tencent-reports-q2-2026-results-touting-an-ai-empowered-pivo|Tencent reports Q2 2026 results, touting an AI-empowered pivot]]
+- `2026-08-12` [[2026-08-12-tencent-posts-rmb-204-8b-quarter-with-ai-boosted-marketing-a|Tencent posts RMB 204.8B quarter with AI-boosted marketing and 65% higher AI capex]]
+- `2026-08-12` [[2026-08-12-tencent-posts-ai-capex-surge-while-defending-returns|Tencent posts AI capex surge while defending returns]]
 - `2026-08-12` [[2026-08-12-tencent-posts-revenue-beat-on-ai-driven-ads-capex-surges-65|Tencent Posts Revenue Beat on AI-Driven Ads; Capex Surges 65%]]
+- `2026-08-12` [[2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns|Tencent Posts AI Capex Surge (+65%) While Defending Returns]]
+- `2026-08-12` [[2026-08-12-taiwan-s-nuclear-regulator-targeted-by-an-autonomous-ai-cybe|Taiwan's Nuclear Regulator Targeted by an "Autonomous" AI Cyberattack Linked to China]]
+- `2026-08-12` [[2026-08-12-nvidia-details-serving-alibaba-s-2-4t-parameter-qwen3-8-mode|NVIDIA details serving Alibaba's 2.4T-parameter Qwen3.8 model on GB300 NVL72]]
 - `2026-08-12` [[2026-08-12-meta-and-nvidia-plant-very-firm-flag-in-open-weight-ai-race|Meta and Nvidia Plant 'Very Firm Flag' in Open-Weight AI Race Led by Chinese Labs]]
+- `2026-08-12` [[2026-08-12-hinton-li-and-ng-make-the-case-for-staying-open-as-safety-co|Hinton, Li, and Ng make the case for staying open as safety concerns mount]]
+- `2026-08-12` [[2026-08-12-hinton-li-and-ng-argue-openness-is-the-safer-path-as-scrutin|Hinton, Li, and Ng Argue Openness Is the Safer Path as Scrutiny Mounts]]
+- `2026-08-12` [[2026-08-12-hinton-fei-fei-li-and-andrew-ng-clash-over-open-weight-ai-ri|Hinton, Fei-Fei Li, and Andrew Ng Clash Over Open-Weight AI Risks at Ai4]]
+- `2026-08-12` [[2026-08-12-daily-ai-news-digest-august-13-2026|Daily AI News Digest – August 13, 2026]]
+- `2026-08-12` [[2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14|Cerebras raises full-year guidance but shares fall ~14%]]
+- `2026-08-12` [[2026-08-12-anthropic-works-to-shore-up-investor-confidence-ahead-of-a-b|Anthropic works to shore up investor confidence ahead of a blockbuster IPO]]
+- `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
+- `2026-08-12` [[2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo|Anthropic courts investors ahead of a potential fall IPO]]
+- `2026-08-12` [[2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash|Anthropic Text Watermarks Trigger Ongoing User Backlash]]
+- `2026-08-12` [[2026-08-12-anthropic-courts-investors-for-fall-ipo-burry-critiques-nvid|Anthropic Courts Investors for Fall IPO; Burry Critiques Nvidia $500B Financing]]
+- `2026-08-12` [[2026-08-12-anthropic-courts-fall-ipo-burry-calls-nvidia-500b-financing|Anthropic Courts Fall IPO; Burry Calls Nvidia $500B Financing a “Wall Street Stunt”]]
+- `2026-08-12` [[2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe|AllenAI Open Instruct: Reproducible Tulu 3 Post-Training Pipeline]]
+- `2026-08-12` [[2026-08-12-near-autonomous-ai-agents-attack-taiwan-s-nuclear-safety-age|'Near-autonomous' AI agents attack Taiwan's nuclear safety agency]]
+- `2026-08-11` [[2026-08-11-nvidia-is-developing-a-1-trillion-parameter-nemotron-4-open|Nvidia is developing a ~1-trillion-parameter Nemotron 4 open model family]]
+- `2026-08-11` [[2026-08-11-nvidia-is-building-a-1-trillion-parameter-open-model-nemotro|Nvidia Is Building a 1-Trillion-Parameter Open Model, Nemotron 4]]
 - `2026-08-11` [[2026-08-11-new-extraction-technique-surfaces-hidden-reasoning-traces-ac|New extraction technique surfaces hidden reasoning traces across Claude, GPT and Gemini]]
 - `2026-08-11` [[2026-08-11-manus-returns-to-independence-as-china-forces-meta-s-2b-acqu|Manus returns to independence as China forces Meta's $2B acquisition to unwind]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]

@@ -1,14 +1,26 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 129
+member_count: 141
 ---
 
 # IBM
 
-> Auto-generated entity hub. 129 connected article(s).
+> Auto-generated entity hub. 141 connected article(s).
 
+- `2026-08-13` [[2026-08-13-openai-replaces-cro-after-nine-months-hires-wiz-coo-dali-raj|OpenAI Replaces CRO After Nine Months, Hires Wiz COO Dali Rajic]]
+- `2026-08-13` [[2026-08-13-ibm-partners-with-openai-to-accelerate-its-enterprise-ai-pus|IBM partners with OpenAI to accelerate its enterprise AI push]]
+- `2026-08-13` [[2026-08-13-ibm-partners-with-openai-to-train-tens-of-thousands-of-consu|IBM Partners with OpenAI to Train Tens of Thousands of Consultants]]
+- `2026-08-13` [[2026-08-13-ibm-partners-with-openai-to-embed-frontier-models-across-con|IBM Partners With OpenAI to Embed Frontier Models Across Consulting Delivery]]
+- `2026-08-13` [[2026-08-13-ibm-embeds-openai-frontier-models-into-its-consulting-delive|IBM Embeds OpenAI Frontier Models Into Its Consulting Delivery Platform]]
+- `2026-08-13` [[2026-08-13-ibm-embeds-openai-frontier-models-across-its-consulting-deli|IBM Embeds OpenAI Frontier Models Across Its Consulting Delivery Platform]]
+- `2026-08-13` [[2026-08-13-daily-ai-news-digest-august-14-2026|Daily AI News Digest – August 14, 2026]]
+- `2026-08-12` [[2026-08-12-ibm-and-together-ai-sign-240m-nvidia-powered-inference-deal|IBM and Together AI sign $240M Nvidia-powered inference deal]]
+- `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
+- `2026-08-11` [[2026-08-11-together-ai-commits-240m-to-an-nvidia-powered-inference-clus|Together AI commits $240M to an Nvidia-powered inference cluster on IBM Cloud]]
+- `2026-08-11` [[2026-08-11-ibm-and-together-ai-sign-240m-nvidia-powered-inference-deal|IBM and Together AI Sign $240M Nvidia-Powered Inference Deal]]
 - `2026-08-11` [[2026-08-11-ibm-and-together-ai-sign-240m-multi-year-nvidia-powered-infe|IBM and Together AI Sign $240M Multi-Year Nvidia-Powered Inference Deal]]
+- `2026-08-11` [[2026-08-11-ibm-and-together-ai-sign-240m-deal-for-an-nvidia-powered-inf|IBM and Together AI Sign $240M Deal for an Nvidia-Powered Inference Cluster]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-10` [[2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d|OpenAI expands its Daybreak Cyber Partner Program to major defenders]]
 - `2026-08-10` [[2026-08-10-openai-expands-daybreak-cyber-partner-program-to-major-defen|OpenAI expands Daybreak Cyber Partner Program to major defenders]]

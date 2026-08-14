@@ -28,7 +28,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-05-industry-alliance-drafts-safe-guidelines-for-sharing-ai-inci
 - 2026-08-04-nvidia-and-open-secure-ai-alliance-propose-safe-cybersecurit
-- 2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance
+- 2026-08-11-nvidia-cisco-and-crowdstrike-back-safe-a-reporting-framework
 embedding_id: 2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos
 event_name: ''
 ---
@@ -42,5 +42,5 @@ The Linux Foundation issued a Request for Comments on the Shared AI Findings Exc
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-05-industry-alliance-drafts-safe-guidelines-for-sharing-ai-inci]] · [[2026-08-04-nvidia-and-open-secure-ai-alliance-propose-safe-cybersecurit]] · [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance]]
+**Related:** [[2026-08-05-industry-alliance-drafts-safe-guidelines-for-sharing-ai-inci]] · [[2026-08-04-nvidia-and-open-secure-ai-alliance-propose-safe-cybersecurit]] · [[2026-08-11-nvidia-cisco-and-crowdstrike-back-safe-a-reporting-framework]]
 <!-- graph:end -->

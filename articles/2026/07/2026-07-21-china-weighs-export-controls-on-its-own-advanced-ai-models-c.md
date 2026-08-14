@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-22-china-considers-export-controls-on-its-own-ai-models-chips-a
 - 2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models
+- 2026-08-13-analysis-export-controls-alone-won-t-decide-the-us-china-ai
 - 2026-06-10-taiwan-weighs-tighter-ai-chip-export-controls-on-china
-- 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 embedding_id: 2026-07-21-china-weighs-export-controls-on-its-own-advanced-ai-models-c
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-22-china-considers-export-controls-on-its-own-ai-models-chips-a]] · [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]] · [[2026-06-10-taiwan-weighs-tighter-ai-chip-export-controls-on-china]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]]
+**Related:** [[2026-07-22-china-considers-export-controls-on-its-own-ai-models-chips-a]] · [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]] · [[2026-08-13-analysis-export-controls-alone-won-t-decide-the-us-china-ai]] · [[2026-06-10-taiwan-weighs-tighter-ai-chip-export-controls-on-china]]
 <!-- graph:end -->

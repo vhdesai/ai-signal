@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc
 - 2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere
 - 2026-08-04-four-part-practitioner-series-on-transformer-inference-perfo
-- 2026-08-09-applied-methods-walkthrough-distilbert-lora-fine-tuning-for
+- 2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe
 embedding_id: 2026-05-04-tutorial-end-to-end-production-ml-pipeline-with-zenml
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Walkthrough of a production-grade ML pipeline using ZenML for orchestration plus
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-21-crawlee-for-python-workflow-packages-web-crawling-into-rag-r]] · [[2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc]] · [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere]] · [[2026-08-04-four-part-practitioner-series-on-transformer-inference-perfo]] · [[2026-08-09-applied-methods-walkthrough-distilbert-lora-fine-tuning-for]]
+**Related:** [[2026-06-21-crawlee-for-python-workflow-packages-web-crawling-into-rag-r]] · [[2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc]] · [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere]] · [[2026-08-04-four-part-practitioner-series-on-transformer-inference-perfo]] · [[2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe]]
 <!-- graph:end -->

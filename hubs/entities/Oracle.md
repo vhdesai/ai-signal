@@ -1,14 +1,17 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 152
+member_count: 155
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 152 connected article(s).
+> Auto-generated entity hub. 155 connected article(s).
 
+- `2026-08-13` [[2026-08-13-vantage-data-centers-explores-ipo-at-100b-valuation|Vantage Data Centers Explores IPO at ~$100B Valuation]]
+- `2026-08-13` [[2026-08-13-vantage-data-centers-explores-ipo-at-roughly-100b-valuation|Vantage Data Centers Explores IPO at Roughly $100B Valuation]]
 - `2026-08-12` [[2026-08-12-oracle-drawing-up-layoff-plans-as-ai-infrastructure-debt-mou|Oracle Drawing Up Layoff Plans as AI Infrastructure Debt Mounts]]
+- `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-11` [[2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at|Enterprise AI Spending Shifts from Training to Operations at Scale]]
 - `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]

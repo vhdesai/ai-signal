@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code
 - 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
 - 2026-07-25-meituan-open-sources-longcat-2-0-a-1-6-trillion-parameter-ag
-- 2026-04-20-trending-moonshot-releases-kimi-k2-6-with-300-agent-swarm-sc
+- 2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno
 embedding_id: 2026-07-26-kwaikat-releases-kat-coder-v2-5-an-agentic-coding-model-trai
 event_name: ''
 ---
@@ -38,5 +38,5 @@ KwaiKAT (Kuaishou) released KAT-Coder-V2.5, an agentic coding model trained insi
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-26-kwaikat-releases-kat-coder-v2-5-trained-on-100-000-repositor]] · [[2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-07-25-meituan-open-sources-longcat-2-0-a-1-6-trillion-parameter-ag]] · [[2026-04-20-trending-moonshot-releases-kimi-k2-6-with-300-agent-swarm-sc]]
+**Related:** [[2026-07-26-kwaikat-releases-kat-coder-v2-5-trained-on-100-000-repositor]] · [[2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-07-25-meituan-open-sources-longcat-2-0-a-1-6-trillion-parameter-ag]] · [[2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno]]
 <!-- graph:end -->

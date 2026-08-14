@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model
 - 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
 - 2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding
 - 2026-05-19-google-gemini-3-1-ultra-2m-token-context-native-multimodal-b
-- 2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice
 embedding_id: 2026-05-14-needle-open-source-project-distills-gemini-tool-calling-into
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Needle: open-source project distills Gemini tool calling into a 26M-parameter mo
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding]] · [[2026-05-19-google-gemini-3-1-ultra-2m-token-context-native-multimodal-b]] · [[2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice]]
+**Related:** [[2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding]] · [[2026-05-19-google-gemini-3-1-ultra-2m-token-context-native-multimodal-b]]
 <!-- graph:end -->

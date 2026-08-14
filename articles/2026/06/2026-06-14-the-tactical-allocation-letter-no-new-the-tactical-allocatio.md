@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-14-the-tactical-allocation-letter-no-new-the-tactical-allocatio
 - 2026-06-02-the-tactical-allocation-letter-no-new-the-tactical-allocatio
 - 2026-06-18-the-tactical-allocation-letter-no-new-the-tactical-allocatio
 - 2026-06-19-the-tactical-allocation-letter-no-new-the-tactical-allocatio
 - 2026-06-08-the-tactical-allocation-letter-no-new-the-tactical-allocatio
-- 2026-06-20-the-tactical-allocation-letter-no-new-the-tactical-allocatio
 embedding_id: 2026-06-14-the-tactical-allocation-letter-no-new-the-tactical-allocatio
 event_name: ''
 ---
@@ -34,5 +34,5 @@ The Tactical Allocation Letter *(No new The Tactical Allocation Letter emails fo
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-02-the-tactical-allocation-letter-no-new-the-tactical-allocatio]] · [[2026-06-18-the-tactical-allocation-letter-no-new-the-tactical-allocatio]] · [[2026-06-19-the-tactical-allocation-letter-no-new-the-tactical-allocatio]] · [[2026-06-08-the-tactical-allocation-letter-no-new-the-tactical-allocatio]] · [[2026-06-20-the-tactical-allocation-letter-no-new-the-tactical-allocatio]]
+**Related:** [[2026-08-14-the-tactical-allocation-letter-no-new-the-tactical-allocatio]] · [[2026-06-02-the-tactical-allocation-letter-no-new-the-tactical-allocatio]] · [[2026-06-18-the-tactical-allocation-letter-no-new-the-tactical-allocatio]] · [[2026-06-19-the-tactical-allocation-letter-no-new-the-tactical-allocatio]] · [[2026-06-08-the-tactical-allocation-letter-no-new-the-tactical-allocatio]]
 <!-- graph:end -->

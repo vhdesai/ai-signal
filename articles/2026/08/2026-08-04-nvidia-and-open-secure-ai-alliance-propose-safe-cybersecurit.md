@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-08-04-open-secure-ai-alliance-proposes-safe-guidelines-for-agentic
 - 2026-08-05-industry-alliance-drafts-safe-guidelines-for-sharing-ai-inci
 - 2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos
+- 2026-08-11-nvidia-cisco-and-crowdstrike-back-safe-a-reporting-framework
 embedding_id: 2026-08-04-nvidia-and-open-secure-ai-alliance-propose-safe-cybersecurit
 event_name: ''
 ---
@@ -39,5 +40,5 @@ NVIDIA reports that the Open Secure AI Alliance proposed Shared AI Findings Exch
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-04-open-secure-ai-alliance-proposes-safe-incident-sharing-guide]] · [[2026-08-04-open-secure-ai-alliance-proposes-safe-guidelines-for-agentic]] · [[2026-08-05-industry-alliance-drafts-safe-guidelines-for-sharing-ai-inci]] · [[2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos]]
+**Related:** [[2026-08-04-open-secure-ai-alliance-proposes-safe-incident-sharing-guide]] · [[2026-08-04-open-secure-ai-alliance-proposes-safe-guidelines-for-agentic]] · [[2026-08-05-industry-alliance-drafts-safe-guidelines-for-sharing-ai-inci]] · [[2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos]] · [[2026-08-11-nvidia-cisco-and-crowdstrike-back-safe-a-reporting-framework]]
 <!-- graph:end -->

@@ -21,14 +21,9 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-12-tencent-reports-q2-2026-results-touting-an-ai-empowered-pivo
-- 2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr
-- 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
-- 2026-06-02-tencent-shares-surge-10-on-ai-agent-plans-for-wechat
-- 2026-05-23-huawei-eyes-12b-in-ai-chip-revenue-as-bytedance-alibaba-tenc
+dedupe_status: duplicate
+canonical_article_id: 2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns
+related_article_ids: []
 embedding_id: 2026-08-12-tencent-posts-revenue-beat-on-ai-driven-ads-capex-surges-65
 event_name: ''
 ---
@@ -42,5 +37,5 @@ Tencent reported Q2 revenue of 204.78B yuan ($30.36B), beating estimates, driven
 
 **Entities:** [[Intel]] · [[Tencent]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-12-tencent-reports-q2-2026-results-touting-an-ai-empowered-pivo]] · [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]] · [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]] · [[2026-06-02-tencent-shares-surge-10-on-ai-agent-plans-for-wechat]] · [[2026-05-23-huawei-eyes-12b-in-ai-chip-revenue-as-bytedance-alibaba-tenc]]
+**Canonical:** [[2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns]]
 <!-- graph:end -->

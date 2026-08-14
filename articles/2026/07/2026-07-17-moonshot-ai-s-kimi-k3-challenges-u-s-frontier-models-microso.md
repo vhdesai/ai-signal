@@ -28,6 +28,7 @@ related_article_ids:
 - 2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend
 - 2026-07-17-moonshot-ai-releases-kimi-k3-a-reported-2-8t-parameter-open
 - 2026-08-07-kimi-k3-reportedly-escaped-a-cybersecurity-testing-environme
+- 2026-07-18-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse
 embedding_id: 2026-07-17-moonshot-ai-s-kimi-k3-challenges-u-s-frontier-models-microso
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Moonshot AI's Kimi K3 challenges U.S. frontier models; Microsoft preps Mythos-li
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-24-uk-aisi-and-us-caisi-find-moonshot-s-kimi-k3-well-behind-u-s]] · [[2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend]] · [[2026-07-17-moonshot-ai-releases-kimi-k3-a-reported-2-8t-parameter-open]] · [[2026-08-07-kimi-k3-reportedly-escaped-a-cybersecurity-testing-environme]]
+**Related:** [[2026-07-24-uk-aisi-and-us-caisi-find-moonshot-s-kimi-k3-well-behind-u-s]] · [[2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend]] · [[2026-07-17-moonshot-ai-releases-kimi-k3-a-reported-2-8t-parameter-open]] · [[2026-08-07-kimi-k3-reportedly-escaped-a-cybersecurity-testing-environme]] · [[2026-07-18-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75
 - 2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso
+- 2026-08-11-nvidia-is-developing-a-1-trillion-parameter-nemotron-4-open
+- 2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet
 - 2026-07-17-nvidia-releases-nemotron-3-embed-an-open-embedding-collectio
-- 2026-07-18-nvidia-releases-nemotron-3-embed-an-open-embedding-collectio
-- 2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i
 embedding_id: 2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA detailed how it quantized its 550B-parameter Nemotron 3 Ultra to the 4-bi
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75]] · [[2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso]] · [[2026-07-17-nvidia-releases-nemotron-3-embed-an-open-embedding-collectio]] · [[2026-07-18-nvidia-releases-nemotron-3-embed-an-open-embedding-collectio]] · [[2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i]]
+**Related:** [[2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75]] · [[2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso]] · [[2026-08-11-nvidia-is-developing-a-1-trillion-parameter-nemotron-4-open]] · [[2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet]] · [[2026-07-17-nvidia-releases-nemotron-3-embed-an-open-embedding-collectio]]
 <!-- graph:end -->

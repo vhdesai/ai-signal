@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-07-17-business-insider-2026-07-17-external-today-the-parasite-sour
 - 2026-08-03-business-insider-2026-08-03-external-today-epstein-island-s
 - 2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne
+- 2026-08-13-business-insider-2026-08-13-external-today-silicon-valley-is
 - 2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for
-- 2026-07-27-business-insider-2026-07-27-external-today-microsoft-s-no-go
 embedding_id: 2026-07-15-business-insider-2026-07-15-external-today-meet-the-parasite
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Business Insider - [2026-07-15] [EXTERNAL] Today: Meet the parasite ruining lunc
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-17-business-insider-2026-07-17-external-today-the-parasite-sour]] · [[2026-08-03-business-insider-2026-08-03-external-today-epstein-island-s]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]] · [[2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for]] · [[2026-07-27-business-insider-2026-07-27-external-today-microsoft-s-no-go]]
+**Related:** [[2026-07-17-business-insider-2026-07-17-external-today-the-parasite-sour]] · [[2026-08-03-business-insider-2026-08-03-external-today-epstein-island-s]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]] · [[2026-08-13-business-insider-2026-08-13-external-today-silicon-valley-is]] · [[2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for]]
 <!-- graph:end -->

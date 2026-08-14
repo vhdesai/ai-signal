@@ -19,9 +19,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-13-meta-joins-openai-and-blackrock-in-signing-union-pacts-for-a
 - 2026-05-09-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a
 - 2026-05-12-google-deepmind-uk-staff-vote-98-to-unionize-over-classified
-- 2026-05-21-in-a-historic-vote-google-deepmind-uk-employees-voted-98-in
 embedding_id: 2026-07-26-unionized-workers-are-bargaining-with-the-bots
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Axios reports that unionized workers are increasingly negotiating around AI depl
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-09-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a]] · [[2026-05-12-google-deepmind-uk-staff-vote-98-to-unionize-over-classified]] · [[2026-05-21-in-a-historic-vote-google-deepmind-uk-employees-voted-98-in]]
+**Related:** [[2026-08-13-meta-joins-openai-and-blackrock-in-signing-union-pacts-for-a]] · [[2026-05-09-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a]] · [[2026-05-12-google-deepmind-uk-staff-vote-98-to-unionize-over-classified]]
 <!-- graph:end -->

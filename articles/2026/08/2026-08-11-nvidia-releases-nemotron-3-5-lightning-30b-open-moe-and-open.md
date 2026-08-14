@@ -27,7 +27,6 @@ related_article_ids:
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-open-source-ai-model
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-its-first-open-source
 - 2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens
-- 2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso
 embedding_id: 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
 event_name: ''
 ---
@@ -41,5 +40,5 @@ Nvidia expanded its Nemotron 3 family with Nemotron 3.5 Lightning, a 30-billion-
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-open-source-ai-model]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-its-first-open-source]] · [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]] · [[2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso]]
+**Related:** [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-open-source-ai-model]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-its-first-open-source]] · [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]]
 <!-- graph:end -->

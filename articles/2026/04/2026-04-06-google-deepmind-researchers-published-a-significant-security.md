@@ -34,6 +34,7 @@ related_article_ids:
 - 2026-04-02-iran-s-islamic-revolutionary-guard-corps-declared-18-america
 - 2026-04-04-iran-s-irgc-issued-a-warning-targeting-18-major-u-s
 - 2026-04-02-breaking-irgc-threatens-18-ai-technology-firms-apr-1-iran-s
+- 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
 - 2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat
 embedding_id: 2026-04-06-google-deepmind-researchers-published-a-significant-security
 event_name: ''
@@ -48,5 +49,5 @@ Iran's IRGC Threatens 17 US Tech Firms; OpenAI Stargate UAE Data Center Named as
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-02-iran-s-islamic-revolutionary-guard-corps-declared-18-america]] · [[2026-04-04-iran-s-irgc-issued-a-warning-targeting-18-major-u-s]] · [[2026-04-02-breaking-irgc-threatens-18-ai-technology-firms-apr-1-iran-s]] · [[2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat]]
+**Related:** [[2026-04-02-iran-s-islamic-revolutionary-guard-corps-declared-18-america]] · [[2026-04-04-iran-s-irgc-issued-a-warning-targeting-18-major-u-s]] · [[2026-04-02-breaking-irgc-threatens-18-ai-technology-firms-apr-1-iran-s]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat]]
 <!-- graph:end -->

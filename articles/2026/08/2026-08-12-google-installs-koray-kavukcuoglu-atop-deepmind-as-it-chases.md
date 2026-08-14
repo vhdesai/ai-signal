@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-amid-competitiv
 - 2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-as-hassabis-mov
+- 2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-amid-founder-le
 - 2026-08-12-google-s-new-ai-boss-inherits-a-race-to-catch-openai-and-ant
-- 2026-08-12-google-reshuffles-deepmind-leadership-kavukcuoglu-takes-over
 embedding_id: 2026-08-12-google-installs-koray-kavukcuoglu-atop-deepmind-as-it-chases
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Koray Kavukcuoglu takes over Google DeepMind reporting directly to Sundar Pichai
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-amid-competitiv]] · [[2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-as-hassabis-mov]] · [[2026-08-12-google-s-new-ai-boss-inherits-a-race-to-catch-openai-and-ant]] · [[2026-08-12-google-reshuffles-deepmind-leadership-kavukcuoglu-takes-over]]
+**Related:** [[2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-amid-competitiv]] · [[2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-as-hassabis-mov]] · [[2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-amid-founder-le]] · [[2026-08-12-google-s-new-ai-boss-inherits-a-race-to-catch-openai-and-ant]]
 <!-- graph:end -->

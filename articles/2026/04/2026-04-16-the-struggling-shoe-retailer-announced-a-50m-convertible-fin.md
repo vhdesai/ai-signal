@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai
 - 2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with
+- 2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for
 - 2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it
 - 2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b
-- 2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu
 embedding_id: 2026-04-16-the-struggling-shoe-retailer-announced-a-50m-convertible-fin
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The struggling shoe retailer announced a $50M convertible financing facility and
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]] · [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]] · [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b]] · [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]]
+**Related:** [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]] · [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]] · [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]] · [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b]]
 <!-- graph:end -->

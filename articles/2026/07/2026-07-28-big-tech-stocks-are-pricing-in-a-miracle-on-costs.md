@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
 - 2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure
 - 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
-- 2026-08-01-wall-street-thinks-it-knows-how-tech-giants-will-make-ai-pay
+- 2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits-driv
 embedding_id: 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Wall Street Journal reported that the bullish earnings case for Big Tech ass
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-08-01-wall-street-thinks-it-knows-how-tech-giants-will-make-ai-pay]]
+**Related:** [[2026-07-29-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits-driv]]
 <!-- graph:end -->

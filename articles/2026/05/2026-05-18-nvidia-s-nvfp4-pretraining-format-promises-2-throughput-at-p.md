@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o
 - 2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real
 - 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
-- 2026-05-22-zflow-ai-simulation-guided-optimization-delivers-1-54-throug
-- 2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75
+- 2026-08-11-nvidia-developing-nemotron-4-a-1t-parameter-open-model
+- 2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet
 embedding_id: 2026-05-18-nvidia-s-nvfp4-pretraining-format-promises-2-throughput-at-p
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA published results for NVFP4, a 4-bit floating-point format designed for f
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o]] · [[2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-05-22-zflow-ai-simulation-guided-optimization-delivers-1-54-throug]] · [[2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75]]
+**Related:** [[2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o]] · [[2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-08-11-nvidia-developing-nemotron-4-a-1t-parameter-open-model]] · [[2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet]]
 <!-- graph:end -->

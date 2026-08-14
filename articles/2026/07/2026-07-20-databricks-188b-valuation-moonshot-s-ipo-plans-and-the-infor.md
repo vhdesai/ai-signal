@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-17-databricks-reaches-raises-at-a-188b-valuation-underlining-in
 - 2026-07-18-databricks-reaches-raises-at-a-188b-valuation-underlining-in
+- 2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b
+- 2026-08-13-databricks-raises-5b-at-a-190b-valuation-as-annualized-reven
 - 2026-07-17-databricks-is-reported-announced-at-a-188b-valuation-with-co
-- 2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat
-- 2026-07-29-china-s-moonshot-ai-raises-3-5b-at-a-35b-valuation-ahead-of
 embedding_id: 2026-07-20-databricks-188b-valuation-moonshot-s-ipo-plans-and-the-infor
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Databricks' $188B valuation, Moonshot's IPO plans, and The Information coverage 
 
 **Entities:** [[Databricks]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-17-databricks-reaches-raises-at-a-188b-valuation-underlining-in]] · [[2026-07-18-databricks-reaches-raises-at-a-188b-valuation-underlining-in]] · [[2026-07-17-databricks-is-reported-announced-at-a-188b-valuation-with-co]] · [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]] · [[2026-07-29-china-s-moonshot-ai-raises-3-5b-at-a-35b-valuation-ahead-of]]
+**Related:** [[2026-07-17-databricks-reaches-raises-at-a-188b-valuation-underlining-in]] · [[2026-07-18-databricks-reaches-raises-at-a-188b-valuation-underlining-in]] · [[2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b]] · [[2026-08-13-databricks-raises-5b-at-a-190b-valuation-as-annualized-reven]] · [[2026-07-17-databricks-is-reported-announced-at-a-188b-valuation-with-co]]
 <!-- graph:end -->

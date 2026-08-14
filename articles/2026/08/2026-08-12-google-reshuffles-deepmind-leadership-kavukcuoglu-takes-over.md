@@ -22,8 +22,8 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-08-12-google-deepmind-leadership-shake-up-kavukcuoglu-takes-over-h
 related_article_ids:
 - 2026-08-05-google-deepmind-leadership-overhaul-hassabis-steps-back-as-c
 - 2026-08-06-google-centralizes-ai-leadership-at-mountain-view-in-post-ha
@@ -40,5 +40,6 @@ Koray Kavukcuoglu, previously DeepMind CTO and Google's chief AI architect, beco
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
+**Canonical:** [[2026-08-12-google-deepmind-leadership-shake-up-kavukcuoglu-takes-over-h]]
 **Related:** [[2026-08-05-google-deepmind-leadership-overhaul-hassabis-steps-back-as-c]] · [[2026-08-06-google-centralizes-ai-leadership-at-mountain-view-in-post-ha]]
 <!-- graph:end -->

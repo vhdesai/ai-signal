@@ -19,11 +19,9 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
-- 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
+dedupe_status: duplicate
+canonical_article_id: 2026-08-11-ibm-and-together-ai-sign-240m-deal-for-an-nvidia-powered-inf
+related_article_ids: []
 embedding_id: 2026-08-11-ibm-and-together-ai-sign-240m-multi-year-nvidia-powered-infe
 event_name: ''
 ---
@@ -37,5 +35,5 @@ IBM and Together AI signed a $240 million multi-year agreement to build a large-
 
 **Entities:** [[IBM]] · [[NVIDIA]] · [[Scale AI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]]
+**Canonical:** [[2026-08-11-ibm-and-together-ai-sign-240m-deal-for-an-nvidia-powered-inf]]
 <!-- graph:end -->

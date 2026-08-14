@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 85
+member_count: 88
 ---
 
 # Intel
 
-> Auto-generated entity hub. 85 connected article(s).
+> Auto-generated entity hub. 88 connected article(s).
 
+- `2026-08-14` [[2026-08-14-china-s-cxmt-nears-intel-s-market-cap-rivaling-world-s-most|China's CXMT Nears Intel's Market Cap, Rivaling World's Most Valuable Chipmakers]]
+- `2026-08-13` [[2026-08-13-community-labs-launches-cascadia-open-source-distributed-inf|Community Labs launches Cascadia, open-source distributed inference for Intel hardware]]
+- `2026-08-13` [[2026-08-13-cascadia-launches-open-source-distributed-inference-for-inte|Cascadia Launches Open-Source Distributed Inference for Intel Hardware]]
 - `2026-08-12` [[2026-08-12-tencent-posts-revenue-beat-on-ai-driven-ads-capex-surges-65|Tencent Posts Revenue Beat on AI-Driven Ads; Capex Surges 65%]]
 - `2026-08-11` [[2026-08-11-intel-upsizes-common-stock-offering-to-20-billion-at-95-a-sh|Intel Upsizes Common-Stock Offering to $20 Billion at $95 a Share]]
 - `2026-08-11` [[2026-08-11-intel-launches-15-billion-stock-offering-to-fund-ai-foundry|Intel Launches $15 Billion Stock Offering to Fund AI Foundry Expansion]]

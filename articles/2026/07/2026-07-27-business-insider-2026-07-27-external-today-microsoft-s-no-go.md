@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-13-business-insider-2026-08-13-external-today-silicon-valley-is
 - 2026-07-28-microsoft-news-2026-07-28-microsoft-daily-digest
 - 2026-07-27-microsoft-news-2026-07-27-microsoft-daily-digest
 - 2026-07-30-microsoft-news-2026-07-30-microsoft-daily-digest
 - 2026-07-07-business-insider-2026-07-07-external-today-microsoft-s-xbox
-- 2026-08-07-microsoft-news-2026-08-07-microsoft-daily-digest
 embedding_id: 2026-07-27-business-insider-2026-07-27-external-today-microsoft-s-no-go
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Business Insider - [2026-07-27] [EXTERNAL] Today: Microsoft's no-good-very-bad y
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Related:** [[2026-07-28-microsoft-news-2026-07-28-microsoft-daily-digest]] · [[2026-07-27-microsoft-news-2026-07-27-microsoft-daily-digest]] · [[2026-07-30-microsoft-news-2026-07-30-microsoft-daily-digest]] · [[2026-07-07-business-insider-2026-07-07-external-today-microsoft-s-xbox]] · [[2026-08-07-microsoft-news-2026-08-07-microsoft-daily-digest]]
+**Related:** [[2026-08-13-business-insider-2026-08-13-external-today-silicon-valley-is]] · [[2026-07-28-microsoft-news-2026-07-28-microsoft-daily-digest]] · [[2026-07-27-microsoft-news-2026-07-27-microsoft-daily-digest]] · [[2026-07-30-microsoft-news-2026-07-30-microsoft-daily-digest]] · [[2026-07-07-business-insider-2026-07-07-external-today-microsoft-s-xbox]]
 <!-- graph:end -->

@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-07-21-business-insider-2026-07-21-external-today-what-s-fueling-th
 - 2026-07-20-business-insider-2026-07-20-external-today-what-s-fueling-th
 - 2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s
+- 2026-08-13-business-insider-2026-08-13-external-today-silicon-valley-is
 - 2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne
-- 2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive
 embedding_id: 2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Business Insider - [2026-07-29] [EXTERNAL] Today: AI’s burning out its execs
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-21-business-insider-2026-07-21-external-today-what-s-fueling-th]] · [[2026-07-20-business-insider-2026-07-20-external-today-what-s-fueling-th]] · [[2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]] · [[2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive]]
+**Related:** [[2026-07-21-business-insider-2026-07-21-external-today-what-s-fueling-th]] · [[2026-07-20-business-insider-2026-07-20-external-today-what-s-fueling-th]] · [[2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s]] · [[2026-08-13-business-insider-2026-08-13-external-today-silicon-valley-is]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]]
 <!-- graph:end -->

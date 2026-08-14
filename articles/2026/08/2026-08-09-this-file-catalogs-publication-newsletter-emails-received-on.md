@@ -20,7 +20,7 @@ related_article_ids:
 - 2026-06-09-note-this-file-catalogs-email-subjects-received
 - 2026-06-20-note-this-file-catalogs-email-subjects-received
 - 2026-06-23-note-this-file-catalogs-email-subjects-received
-- 2026-07-11-this-file-catalogs-email-subjects-received
+- 2026-06-02-this-file-catalogs-email-subjects-received
 - 2026-07-25-this-file-catalogs-email-subjects-received
 embedding_id: 2026-08-09-this-file-catalogs-publication-newsletter-emails-received-on
 event_name: ''
@@ -33,5 +33,5 @@ event_name: ''
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-09-note-this-file-catalogs-email-subjects-received]] · [[2026-06-20-note-this-file-catalogs-email-subjects-received]] · [[2026-06-23-note-this-file-catalogs-email-subjects-received]] · [[2026-07-11-this-file-catalogs-email-subjects-received]] · [[2026-07-25-this-file-catalogs-email-subjects-received]]
+**Related:** [[2026-06-09-note-this-file-catalogs-email-subjects-received]] · [[2026-06-20-note-this-file-catalogs-email-subjects-received]] · [[2026-06-23-note-this-file-catalogs-email-subjects-received]] · [[2026-06-02-this-file-catalogs-email-subjects-received]] · [[2026-07-25-this-file-catalogs-email-subjects-received]]
 <!-- graph:end -->

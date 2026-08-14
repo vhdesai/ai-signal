@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas
 - 2026-04-24-deepseek-v4-launches-with-1m-context-window-and-open-weights
 - 2026-08-03-deepseek-v4-flash-sharpens-price-pressure-on-frontier-labs
-- 2026-08-03-deepseek-v4-flash-pressures-frontier-pricing-from-below
+- 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
 embedding_id: 2026-04-24-deepseek-v4-enters-preview-with-1m-context-pro-and-flash-var
 event_name: ''
 ---
@@ -40,5 +40,5 @@ DeepSeek V4 launched in preview through V4-Pro and V4-Flash variants with open w
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-24-deepseek-v4-in-preview-with-1m-context-window]] · [[2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas]] · [[2026-04-24-deepseek-v4-launches-with-1m-context-window-and-open-weights]] · [[2026-08-03-deepseek-v4-flash-sharpens-price-pressure-on-frontier-labs]] · [[2026-08-03-deepseek-v4-flash-pressures-frontier-pricing-from-below]]
+**Related:** [[2026-04-24-deepseek-v4-in-preview-with-1m-context-window]] · [[2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas]] · [[2026-04-24-deepseek-v4-launches-with-1m-context-window-and-open-weights]] · [[2026-08-03-deepseek-v4-flash-sharpens-price-pressure-on-frontier-labs]] · [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c]]
 <!-- graph:end -->

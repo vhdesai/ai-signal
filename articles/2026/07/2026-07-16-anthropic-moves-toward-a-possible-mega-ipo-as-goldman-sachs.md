@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-03-anthropic-picks-morgan-stanley-and-goldman-sachs-to-lead-ipo
 - 2026-07-16-anthropic-blackstone-hellman-friedman-goldman-sachs-and-othe
+- 2026-08-12-anthropic-works-to-shore-up-investor-confidence-ahead-of-a-b
 - 2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo
 embedding_id: 2026-07-16-anthropic-moves-toward-a-possible-mega-ipo-as-goldman-sachs
 event_name: ''
@@ -37,5 +38,5 @@ Anthropic moves toward a possible mega-IPO as Goldman Sachs, Morgan Stanley, and
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-03-anthropic-picks-morgan-stanley-and-goldman-sachs-to-lead-ipo]] · [[2026-07-16-anthropic-blackstone-hellman-friedman-goldman-sachs-and-othe]] · [[2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo]]
+**Related:** [[2026-06-03-anthropic-picks-morgan-stanley-and-goldman-sachs-to-lead-ipo]] · [[2026-07-16-anthropic-blackstone-hellman-friedman-goldman-sachs-and-othe]] · [[2026-08-12-anthropic-works-to-shore-up-investor-confidence-ahead-of-a-b]] · [[2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
 - 2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa
 - 2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla
-- 2026-05-09-anthropic-teaching-claude-why-how-the-lab-eliminated-blackma
+- 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
 embedding_id: 2026-05-09-anthropic-publishes-alignment-update-claude-trained-against
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic published an alignment update describing new training techniques desig
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa]] · [[2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla]] · [[2026-05-09-anthropic-teaching-claude-why-how-the-lab-eliminated-blackma]]
+**Related:** [[2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa]] · [[2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla]] · [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]]
 <!-- graph:end -->

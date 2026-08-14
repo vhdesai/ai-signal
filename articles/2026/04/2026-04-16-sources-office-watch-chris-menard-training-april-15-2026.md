@@ -22,7 +22,6 @@ related_article_ids:
 - 2026-05-14-source-cnbc-the-ai-track-april-21-28-2026
 - 2026-05-14-source-the-ai-track-april-27-2026
 - 2026-05-22-source-the-ai-track-date-may-19-2026
-- 2026-04-16-source-techcrunch-april-16-2026
 embedding_id: 2026-04-16-sources-office-watch-chris-menard-training-april-15-2026
 event_name: ''
 ---
@@ -35,5 +34,5 @@ Sources: Office Watch, Chris Menard Training • April 15, 2026
 ## Connections
 
 **Entities:** [[Apple]]
-**Related:** [[2026-05-14-source-cnbc-the-ai-track-april-21-28-2026]] · [[2026-05-14-source-the-ai-track-april-27-2026]] · [[2026-05-22-source-the-ai-track-date-may-19-2026]] · [[2026-04-16-source-techcrunch-april-16-2026]]
+**Related:** [[2026-05-14-source-cnbc-the-ai-track-april-21-28-2026]] · [[2026-05-14-source-the-ai-track-april-27-2026]] · [[2026-05-22-source-the-ai-track-date-may-19-2026]]
 <!-- graph:end -->

@@ -28,7 +28,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-04-breaking-today-anthropic-restricts-claude-subscriptions-open
 - 2026-08-10-anthropic-to-add-invisible-text-native-watermarks-to-new-cla
-- 2026-07-07-see-the-original-digest-email-for-the-complete-content-with
+- 2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash
+- 2026-08-13-anthropic-to-watermark-all-claude-output-for-eu-ai-act-compl
 embedding_id: 2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai
 event_name: ''
 ---
@@ -42,5 +43,5 @@ Machine-detectable watermarks on new Claude models' outputs. One of the first fr
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-04-breaking-today-anthropic-restricts-claude-subscriptions-open]] · [[2026-08-10-anthropic-to-add-invisible-text-native-watermarks-to-new-cla]] · [[2026-07-07-see-the-original-digest-email-for-the-complete-content-with]]
+**Related:** [[2026-04-04-breaking-today-anthropic-restricts-claude-subscriptions-open]] · [[2026-08-10-anthropic-to-add-invisible-text-native-watermarks-to-new-cla]] · [[2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash]] · [[2026-08-13-anthropic-to-watermark-all-claude-output-for-eu-ai-act-compl]]
 <!-- graph:end -->

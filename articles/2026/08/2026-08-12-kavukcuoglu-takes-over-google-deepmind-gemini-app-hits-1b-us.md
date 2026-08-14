@@ -18,11 +18,9 @@ themes:
 - model-capabilities
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-12-google-reshuffles-deepmind-leadership-kavukcuoglu-takes-over
-- 2026-08-12-google-installs-koray-kavukcuoglu-atop-deepmind-as-it-chases
+dedupe_status: duplicate
+canonical_article_id: 2026-08-12-deepmind-shakeup-kavukcuoglu-takes-over-sergey-brin-goes-all
+related_article_ids: []
 embedding_id: 2026-08-12-kavukcuoglu-takes-over-google-deepmind-gemini-app-hits-1b-us
 event_name: ''
 ---
@@ -36,5 +34,5 @@ Koray Kavukcuoglu becomes SVP and head of Google DeepMind reporting directly to 
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-12-google-reshuffles-deepmind-leadership-kavukcuoglu-takes-over]] · [[2026-08-12-google-installs-koray-kavukcuoglu-atop-deepmind-as-it-chases]]
+**Canonical:** [[2026-08-12-deepmind-shakeup-kavukcuoglu-takes-over-sergey-brin-goes-all]]
 <!-- graph:end -->

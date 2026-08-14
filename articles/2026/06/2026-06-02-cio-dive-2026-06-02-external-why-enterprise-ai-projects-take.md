@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi
 - 2026-07-28-cio-dive-2026-07-28-external-july-28-cio-skills-evolution-sa
 - 2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co
-- 2026-08-08-cio-dive-2026-08-08-external-weekender-surprise-ai-costs-thr
+- 2026-08-13-cio-dive-2026-08-13-external-aug-13-legacy-it-forces-ai-dela
 embedding_id: 2026-06-02-cio-dive-2026-06-02-external-why-enterprise-ai-projects-take
 event_name: ''
 ---
@@ -38,5 +38,5 @@ CIO Dive - [2026-06-02] [EXTERNAL] Why enterprise AI projects take months (and h
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without]] · [[2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi]] · [[2026-07-28-cio-dive-2026-07-28-external-july-28-cio-skills-evolution-sa]] · [[2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co]] · [[2026-08-08-cio-dive-2026-08-08-external-weekender-surprise-ai-costs-thr]]
+**Related:** [[2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without]] · [[2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi]] · [[2026-07-28-cio-dive-2026-07-28-external-july-28-cio-skills-evolution-sa]] · [[2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co]] · [[2026-08-13-cio-dive-2026-08-13-external-aug-13-legacy-it-forces-ai-dela]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi
+- 2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu
 - 2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen
 - 2026-08-02-coreweave-sweetens-2-6b-loan-terms-as-ai-debt-investors-push
 - 2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin
-- 2026-05-13-huang-foundation-buys-108m-of-coreweave-compute-donates-it-t
 embedding_id: 2026-04-16-coreweave-secured-a-6-billion-compute-commitment-from-quant
 event_name: ''
 ---
@@ -39,5 +39,5 @@ CoreWeave secured a $6 billion compute commitment from quant trading giant Jane 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-08-02-coreweave-sweetens-2-6b-loan-terms-as-ai-debt-investors-push]] · [[2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin]] · [[2026-05-13-huang-foundation-buys-108m-of-coreweave-compute-donates-it-t]]
+**Related:** [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu]] · [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-08-02-coreweave-sweetens-2-6b-loan-terms-as-ai-debt-investors-push]] · [[2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin]]
 <!-- graph:end -->

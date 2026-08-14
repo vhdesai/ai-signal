@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-23-google-i-o-2026-gemini-turns-into-an-agent-platform-900m-use
 - 2026-06-17-daily-ai-news-digest-june-18-2026
 - 2026-06-28-google-caps-meta-s-use-of-gemini-ai-models-amid-compute-crun
-- 2026-06-28-industry-news-breaking-google-caps-meta-s-use-of-gemini-ai-m
+- 2026-08-12-deepmind-shakeup-kavukcuoglu-takes-over-sergey-brin-goes-all
 embedding_id: 2026-06-18-noam-shazeer-leaves-google-gemini-for-openai
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Transformer co-author and Gemini VP departs 22 months after Google paid $2.7B to
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr]] · [[2026-05-23-google-i-o-2026-gemini-turns-into-an-agent-platform-900m-use]] · [[2026-06-17-daily-ai-news-digest-june-18-2026]] · [[2026-06-28-google-caps-meta-s-use-of-gemini-ai-models-amid-compute-crun]] · [[2026-06-28-industry-news-breaking-google-caps-meta-s-use-of-gemini-ai-m]]
+**Related:** [[2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr]] · [[2026-05-23-google-i-o-2026-gemini-turns-into-an-agent-platform-900m-use]] · [[2026-06-17-daily-ai-news-digest-june-18-2026]] · [[2026-06-28-google-caps-meta-s-use-of-gemini-ai-models-amid-compute-crun]] · [[2026-08-12-deepmind-shakeup-kavukcuoglu-takes-over-sergey-brin-goes-all]]
 <!-- graph:end -->

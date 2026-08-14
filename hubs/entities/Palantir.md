@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 131
+member_count: 133
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 131 connected article(s).
+> Auto-generated entity hub. 133 connected article(s).
 
+- `2026-08-13` [[2026-08-13-draft-pentagon-memo-directs-up-to-244m-to-palantir-without-c|Draft Pentagon Memo Directs Up to $244M to Palantir Without Competition]]
+- `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
 - `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]

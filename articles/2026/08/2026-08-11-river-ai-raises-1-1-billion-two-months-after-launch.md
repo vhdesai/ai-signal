@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-11-river-ai-raises-1-1b-for-an-open-weights-post-training-cloud
 - 2026-08-11-cognition-in-early-talks-at-40b-valuation-river-ai-raises-1
+- 2026-08-11-xai-co-founder-leaves-to-build-open-source-ai-startup-river
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
-- 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
 embedding_id: 2026-08-11-river-ai-raises-1-1-billion-two-months-after-launch
 event_name: ''
 ---
@@ -40,5 +40,5 @@ River AI, founded by xAI co-founder Igor Babuschkin, raised $1.1 billion in a se
 
 **Entities:** [[AMD]] · [[NVIDIA]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-11-river-ai-raises-1-1b-for-an-open-weights-post-training-cloud]] · [[2026-08-11-cognition-in-early-talks-at-40b-valuation-river-ai-raises-1]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]]
+**Related:** [[2026-08-11-river-ai-raises-1-1b-for-an-open-weights-post-training-cloud]] · [[2026-08-11-cognition-in-early-talks-at-40b-valuation-river-ai-raises-1]] · [[2026-08-11-xai-co-founder-leaves-to-build-open-source-ai-startup-river]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]]
 <!-- graph:end -->

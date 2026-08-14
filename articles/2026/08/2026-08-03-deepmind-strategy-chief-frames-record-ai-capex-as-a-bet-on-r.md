@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-08-03-google-deepmind-frames-record-ai-capex-as-a-bet-on-recursive
 - 2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b
 - 2026-08-12-google-s-new-ai-boss-inherits-a-race-to-catch-openai-and-ant
+- 2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body
 - 2026-08-07-softbank-s-ai-splurge-validates-hyperscaler-capex
 embedding_id: 2026-08-03-deepmind-strategy-chief-frames-record-ai-capex-as-a-bet-on-r
 event_name: ''
@@ -37,5 +38,5 @@ Google DeepMind Chief Strategy Officer Jasjeet Sekhon, speaking at UC Berkeley鈥
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-google-deepmind-frames-record-ai-capex-as-a-bet-on-recursive]] 路 [[2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b]] 路 [[2026-08-12-google-s-new-ai-boss-inherits-a-race-to-catch-openai-and-ant]] 路 [[2026-08-07-softbank-s-ai-splurge-validates-hyperscaler-capex]]
+**Related:** [[2026-08-03-google-deepmind-frames-record-ai-capex-as-a-bet-on-recursive]] 路 [[2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b]] 路 [[2026-08-12-google-s-new-ai-boss-inherits-a-race-to-catch-openai-and-ant]] 路 [[2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body]] 路 [[2026-08-07-softbank-s-ai-splurge-validates-hyperscaler-capex]]
 <!-- graph:end -->

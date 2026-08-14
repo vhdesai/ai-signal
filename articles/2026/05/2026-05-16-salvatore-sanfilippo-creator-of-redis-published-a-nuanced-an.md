@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-31-deepseek-ships-deepseek-v4-flash-0731-with-major-agentic-and
 - 2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r
 - 2026-08-03-deepseek-s-v4-flash-is-the-cheapest-well-known-model-to-run
-- 2026-08-01-deepseek-s-new-bargain-model-accelerates-ai-s-race-to-zero
+- 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
 embedding_id: 2026-05-16-salvatore-sanfilippo-creator-of-redis-published-a-nuanced-an
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Salvatore Sanfilippo (creator of Redis) published a nuanced analysis of DeepSeek
 
 **Entities:** [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-15-deepseek-v4-analysis-almost-on-the-frontier-redis-creator-we]] · [[2026-07-31-deepseek-ships-deepseek-v4-flash-0731-with-major-agentic-and]] · [[2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r]] · [[2026-08-03-deepseek-s-v4-flash-is-the-cheapest-well-known-model-to-run]] · [[2026-08-01-deepseek-s-new-bargain-model-accelerates-ai-s-race-to-zero]]
+**Related:** [[2026-05-15-deepseek-v4-analysis-almost-on-the-frontier-redis-creator-we]] · [[2026-07-31-deepseek-ships-deepseek-v4-flash-0731-with-major-agentic-and]] · [[2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r]] · [[2026-08-03-deepseek-s-v4-flash-is-the-cheapest-well-known-model-to-run]] · [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c]]
 <!-- graph:end -->

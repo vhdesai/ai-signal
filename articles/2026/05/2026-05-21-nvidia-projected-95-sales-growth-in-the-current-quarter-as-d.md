@@ -26,11 +26,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon
 - 2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation
 - 2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de
-- 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
 embedding_id: 2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Products & Tools Trending Google's Biggest Search Overhaul in 25 Years — AI Mo
 
 **Entities:** [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon]] · [[2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation]] · [[2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]]
+**Related:** [[2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon]] · [[2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation]] · [[2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de]]
 <!-- graph:end -->

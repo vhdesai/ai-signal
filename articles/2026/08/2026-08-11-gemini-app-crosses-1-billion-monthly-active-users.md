@@ -22,8 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-11-google-s-gemini-app-crosses-one-billion-monthly-users
 - 2026-08-11-google-says-gemini-app-surpassed-1-billion-monthly-users
+- 2026-08-12-google-s-gemini-app-crosses-1-billion-monthly-active-users
+- 2026-08-11-google-s-gemini-app-passes-1-billion-monthly-active-users
 - 2026-08-12-google-s-gemini-app-hits-1-billion-monthly-users
-- 2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr
 embedding_id: 2026-08-11-gemini-app-crosses-1-billion-monthly-active-users
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Sundar Pichai said the Gemini app has surpassed one billion monthly active users
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-11-google-s-gemini-app-crosses-one-billion-monthly-users]] · [[2026-08-11-google-says-gemini-app-surpassed-1-billion-monthly-users]] · [[2026-08-12-google-s-gemini-app-hits-1-billion-monthly-users]] · [[2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr]]
+**Related:** [[2026-08-11-google-s-gemini-app-crosses-one-billion-monthly-users]] · [[2026-08-11-google-says-gemini-app-surpassed-1-billion-monthly-users]] · [[2026-08-12-google-s-gemini-app-crosses-1-billion-monthly-active-users]] · [[2026-08-11-google-s-gemini-app-passes-1-billion-monthly-active-users]] · [[2026-08-12-google-s-gemini-app-hits-1-billion-monthly-users]]
 <!-- graph:end -->

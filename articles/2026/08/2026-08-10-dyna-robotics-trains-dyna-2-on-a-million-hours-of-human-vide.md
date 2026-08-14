@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra
+- 2026-08-13-dyna-robotics-introduces-dyna-2-a-world-action-model-trained
 - 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
 - 2026-07-31-bytedance-launches-seedance-2-5-video-generation-model
-- 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 embedding_id: 2026-08-10-dyna-robotics-trains-dyna-2-on-a-million-hours-of-human-vide
 event_name: ''
 ---
@@ -36,5 +36,5 @@ First robot foundation model pre-trained on 1M+ hours egocentric human video (17
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-07-31-bytedance-launches-seedance-2-5-video-generation-model]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]]
+**Related:** [[2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra]] · [[2026-08-13-dyna-robotics-introduces-dyna-2-a-world-action-model-trained]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-07-31-bytedance-launches-seedance-2-5-video-generation-model]]
 <!-- graph:end -->

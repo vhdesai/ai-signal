@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-21-google-ships-three-gemini-flash-models-flagship-3-5-pro-slip
 - 2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f
 - 2026-07-22-google-ships-gemini-flash-models-and-security-tuned-gemini-f
-- 2026-07-22-google-ships-cheaper-faster-gemini-flash-models-including-a
+- 2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model
 embedding_id: 2026-07-21-google-ships-gemini-flash-models-and-cuts-long-horizon-agent
 event_name: ''
 ---
@@ -38,5 +38,5 @@ event_name: ''
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-21-google-ships-three-gemini-flash-models-cuts-agent-costs-65]] · [[2026-07-21-google-ships-three-gemini-flash-models-flagship-3-5-pro-slip]] · [[2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f]] · [[2026-07-22-google-ships-gemini-flash-models-and-security-tuned-gemini-f]] · [[2026-07-22-google-ships-cheaper-faster-gemini-flash-models-including-a]]
+**Related:** [[2026-07-21-google-ships-three-gemini-flash-models-cuts-agent-costs-65]] · [[2026-07-21-google-ships-three-gemini-flash-models-flagship-3-5-pro-slip]] · [[2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f]] · [[2026-07-22-google-ships-gemini-flash-models-and-security-tuned-gemini-f]] · [[2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model]]
 <!-- graph:end -->

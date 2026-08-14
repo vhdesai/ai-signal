@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-isomorphic-labs-deepmind-spinout-raises-2-1b-series-b-for-ai
 - 2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d
+- 2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i
+- 2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the
 - 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
-- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-- 2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b
 embedding_id: 2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Alphabet-backed AI drug-design company Isomorphic Labs (led by DeepMind founder 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-isomorphic-labs-deepmind-spinout-raises-2-1b-series-b-for-ai]] · [[2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]]
+**Related:** [[2026-05-13-isomorphic-labs-deepmind-spinout-raises-2-1b-series-b-for-ai]] · [[2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]]
 <!-- graph:end -->

@@ -1,0 +1,38 @@
+{
+  "run_id": "20260814T155621+0000-b09bcc",
+  "started_at": "2026-08-14T15:56:21+00:00",
+  "finished_at": "2026-08-14T15:56:32+00:00",
+  "summary": {
+    "command": "ingest",
+    "result": {
+      "digests_total": 760,
+      "digests_changed": 24,
+      "changed": [
+        "news\\2026-07-21_Microsoft_FY27_Kickoff_Strategy.md",
+        "news\\2026-08-12_000000_Publication-Sources.md",
+        "news\\2026-08-12_060941_Inbox_Daily AI News Digest - August 12, 2026.md",
+        "news\\2026-08-12_065532_Inbox_Daily AI News Digest - August 12, 2026.md",
+        "news\\2026-08-12_075416_Inbox_Fw Daily AI News Digest - August 12, 2026.md",
+        "news\\2026-08-13_000000_Publication-Sources.md",
+        "news\\2026-08-13_060924_Inbox_Daily AI News Digest - August 13, 2026.md",
+        "news\\2026-08-13_061239_Inbox_Daily AI News Digest - August 13, 2026.md",
+        "news\\2026-08-13_062611_Inbox_Daily AI News Digest - August 13, 2026.md",
+        "news\\2026-08-13_063725_Inbox_Daily AI News Digest - August 13, 2026.md",
+        "news\\2026-08-13_063740_Inbox_Daily AI News Digest - August 13, 2026.md",
+        "news\\2026-08-13_063807_Inbox_Daily AI News Digest - August 13, 2026.md",
+        "news\\2026-08-13_065436_Inbox_Daily AI News Digest - August 13, 2026.md",
+        "news\\2026-08-13_070256_Inbox_Daily AI News Digest - August 13, 2026.md",
+        "news\\2026-08-13_100200_Inbox_Daily AI News Digest - August 13, 2026.md",
+        "news\\2026-08-13_101657_Inbox_Fw Daily AI News Digest - August 13, 2026.md",
+        "news\\2026-08-13_180749_Inbox_Your Daily AI News Digest.md",
+        "news\\2026-08-14_000000_Publication-Sources.md",
+        "news\\2026-08-14_061050_Inbox_Daily AI News Digest - August 14, 2026.md",
+        "news\\2026-08-14_061413_Inbox_Daily AI News Digest - August 14, 2026.md",
+        "news\\2026-08-14_061813_Inbox_Daily AI News Digest - August 14, 2026.md",
+        "news\\2026-08-14_062101_Inbox_Daily AI News Digest - August 14, 2026.md",
+        "news\\2026-08-14_065550_Inbox_Daily AI News Digest - August 14, 2026.md",
+        "news\\2026-08-14_070057_Inbox_Daily AI News Digest - August 14, 2026.md"
+      ]
+    }
+  }
+}

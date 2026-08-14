@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-17-databricks-reaches-raises-at-a-188b-valuation-underlining-in
 - 2026-07-18-databricks-reaches-raises-at-a-188b-valuation-underlining-in
-- 2026-07-20-databricks-188b-valuation-moonshot-s-ipo-plans-and-the-infor
-- 2026-05-21-databricks-ranks-3-on-cnbc-disruptor-50-hits-5-4b-run-rate-s
-- 2026-06-15-databricks-closes-data-ai-summit-2026-with-genie-one-agent-b
+- 2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b
+- 2026-08-13-databricks-raises-5b-at-a-190b-valuation-as-annualized-reven
+- 2026-08-13-databricks-raises-5b-at-190b-valuation-after-15b-of-investor
 embedding_id: 2026-07-17-databricks-is-reported-announced-at-a-188b-valuation-with-co
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Databricks is reported/announced at a $188B valuation with Coatue backing, reinf
 
 **Entities:** [[Databricks]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-17-databricks-reaches-raises-at-a-188b-valuation-underlining-in]] · [[2026-07-18-databricks-reaches-raises-at-a-188b-valuation-underlining-in]] · [[2026-07-20-databricks-188b-valuation-moonshot-s-ipo-plans-and-the-infor]] · [[2026-05-21-databricks-ranks-3-on-cnbc-disruptor-50-hits-5-4b-run-rate-s]] · [[2026-06-15-databricks-closes-data-ai-summit-2026-with-genie-one-agent-b]]
+**Related:** [[2026-07-17-databricks-reaches-raises-at-a-188b-valuation-underlining-in]] · [[2026-07-18-databricks-reaches-raises-at-a-188b-valuation-underlining-in]] · [[2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b]] · [[2026-08-13-databricks-raises-5b-at-a-190b-valuation-as-annualized-reven]] · [[2026-08-13-databricks-raises-5b-at-190b-valuation-after-15b-of-investor]]
 <!-- graph:end -->

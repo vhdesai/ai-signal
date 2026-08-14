@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without
+- 2026-08-13-cio-dive-2026-08-13-external-aug-13-legacy-it-forces-ai-dela
 - 2026-06-23-cio-dive-2026-06-23-june-23-mainframe-exit-plans-at-risk-ai
 - 2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega
 - 2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c
-- 2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi
 embedding_id: 2026-06-09-cio-dive-2026-06-09-external-legacy-vmware-cloud-environment
 event_name: ''
 ---
@@ -34,5 +34,5 @@ CIO Dive - [2026-06-09] [EXTERNAL] Legacy VMware Cloud Environments Are Holding 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without]] · [[2026-06-23-cio-dive-2026-06-23-june-23-mainframe-exit-plans-at-risk-ai]] · [[2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega]] · [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]] · [[2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi]]
+**Related:** [[2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without]] · [[2026-08-13-cio-dive-2026-08-13-external-aug-13-legacy-it-forces-ai-dela]] · [[2026-06-23-cio-dive-2026-06-23-june-23-mainframe-exit-plans-at-risk-ai]] · [[2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega]] · [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]]
 <!-- graph:end -->

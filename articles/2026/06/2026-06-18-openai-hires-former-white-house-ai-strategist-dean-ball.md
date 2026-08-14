@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-06-white-house-ai-adviser-sriram-krishnan-departs
 - 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
+- 2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d
 - 2026-03-28-david-sacks-the-trump-administration-s-ai-and-crypto-czar-an
-- 2026-07-29-thinking-machines-co-founder-lilian-weng-departs-rejoins-ope
 embedding_id: 2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Former lead author of Trump's AI Action Plan will head "Strategic Futures" team 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-06-white-house-ai-adviser-sriram-krishnan-departs]] · [[2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai]] · [[2026-03-28-david-sacks-the-trump-administration-s-ai-and-crypto-czar-an]] · [[2026-07-29-thinking-machines-co-founder-lilian-weng-departs-rejoins-ope]]
+**Related:** [[2026-06-06-white-house-ai-adviser-sriram-krishnan-departs]] · [[2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai]] · [[2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d]] · [[2026-03-28-david-sacks-the-trump-administration-s-ai-and-crypto-czar-an]]
 <!-- graph:end -->

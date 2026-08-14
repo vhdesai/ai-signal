@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
 - 2026-07-15-openai-codex-encrypts-instructions-between-agents-creating-e
 - 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
 - 2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
-- 2026-08-04-open-secure-ai-alliance-proposes-safe-guidelines-for-agentic
 embedding_id: 2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred
 event_name: ''
 ---
@@ -37,5 +37,5 @@ SecurityWeek reported that 1Password and OpenAI are working together to prevent 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-07-15-openai-codex-encrypts-instructions-between-agents-creating-e]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]] · [[2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-08-04-open-secure-ai-alliance-proposes-safe-guidelines-for-agentic]]
+**Related:** [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-07-15-openai-codex-encrypts-instructions-between-agents-creating-e]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]] · [[2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]]
 <!-- graph:end -->

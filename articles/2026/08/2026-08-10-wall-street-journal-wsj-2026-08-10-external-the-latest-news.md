@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-14-wall-street-journal-wsj-2026-08-14-external-the-latest-news
 - 2026-04-27-the-latest-news-on-meta-platforms-inc-2026-04-27-wall-street
 - 2026-03-24-the-latest-news-on-meta-platforms-inc-2026-03-24-wall-street
 - 2026-04-30-the-latest-news-on-meta-platforms-inc-2026-04-30-wall-street
-- 2026-04-29-the-latest-news-on-meta-platforms-inc-2026-04-29-wall-street
 embedding_id: 2026-08-10-wall-street-journal-wsj-2026-08-10-external-the-latest-news
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Wall Street Journal / WSJ - [2026-08-10] [EXTERNAL] The latest news on Meta Plat
 ## Connections
 
 **Entities:** [[Meta]]
-**Related:** [[2026-04-27-the-latest-news-on-meta-platforms-inc-2026-04-27-wall-street]] · [[2026-03-24-the-latest-news-on-meta-platforms-inc-2026-03-24-wall-street]] · [[2026-04-30-the-latest-news-on-meta-platforms-inc-2026-04-30-wall-street]] · [[2026-04-29-the-latest-news-on-meta-platforms-inc-2026-04-29-wall-street]]
+**Related:** [[2026-08-14-wall-street-journal-wsj-2026-08-14-external-the-latest-news]] · [[2026-04-27-the-latest-news-on-meta-platforms-inc-2026-04-27-wall-street]] · [[2026-03-24-the-latest-news-on-meta-platforms-inc-2026-03-24-wall-street]] · [[2026-04-30-the-latest-news-on-meta-platforms-inc-2026-04-30-wall-street]]
 <!-- graph:end -->

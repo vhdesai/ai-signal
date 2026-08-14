@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-23-black-forest-labs-launches-flux-3-for-image-and-short-video
+- 2026-08-13-community-labs-launches-cascadia-open-source-distributed-inf
 - 2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in
 - 2026-07-26-induction-labs-photon-1-models-desktop-game-and-physics-task
-- 2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at
 embedding_id: 2026-07-23-black-forest-labs-launches-flux-3-a-multimodal-frontier-mode
 event_name: ''
 ---
@@ -35,5 +35,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-23-black-forest-labs-launches-flux-3-for-image-and-short-video]] · [[2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in]] · [[2026-07-26-induction-labs-photon-1-models-desktop-game-and-physics-task]] · [[2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at]]
+**Related:** [[2026-07-23-black-forest-labs-launches-flux-3-for-image-and-short-video]] · [[2026-08-13-community-labs-launches-cascadia-open-source-distributed-inf]] · [[2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in]] · [[2026-07-26-induction-labs-photon-1-models-desktop-game-and-physics-task]]
 <!-- graph:end -->

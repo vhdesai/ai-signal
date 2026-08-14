@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-12-google-launches-pixel-11-with-broader-gemini-and-proactive-a
+- 2026-08-12-google-unveils-pixel-11-lineup-with-new-gemini-features-at-m
+- 2026-08-12-made-by-google-26-pixel-11-line-arrives-with-gemini-pushed-i
 - 2026-05-13-
-- 2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro
-- 2026-07-13-google-s-gemini-3-5-pro-targets-july-17-ga-but-every-spec-re
-- 2026-05-18-google-i-o-2026-opens-tomorrow-with-gemini-3-expected-to-hea
-- 2026-05-18-google-i-o-eve-gemini-intelligence-announced-for-android-ful
+- 2026-08-12-made-by-google-2026-pixel-11-with-proactive-gemini-sl2t-sign
 embedding_id: 2026-08-10-google-confirms-an-august-12-made-by-google-event-for-the-ai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google confirmed its Made by Google event for August 12, where the Pixel 11 fami
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-]] · [[2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro]] · [[2026-07-13-google-s-gemini-3-5-pro-targets-july-17-ga-but-every-spec-re]] · [[2026-05-18-google-i-o-2026-opens-tomorrow-with-gemini-3-expected-to-hea]] · [[2026-05-18-google-i-o-eve-gemini-intelligence-announced-for-android-ful]]
+**Related:** [[2026-08-12-google-launches-pixel-11-with-broader-gemini-and-proactive-a]] · [[2026-08-12-google-unveils-pixel-11-lineup-with-new-gemini-features-at-m]] · [[2026-08-12-made-by-google-26-pixel-11-line-arrives-with-gemini-pushed-i]] · [[2026-05-13-]] · [[2026-08-12-made-by-google-2026-pixel-11-with-proactive-gemini-sl2t-sign]]
 <!-- graph:end -->

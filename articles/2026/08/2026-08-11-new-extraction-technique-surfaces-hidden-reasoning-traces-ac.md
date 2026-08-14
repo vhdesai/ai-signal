@@ -21,11 +21,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
 - 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
 - 2026-07-31-chinese-military-researchers-used-openai-and-anthropic-model
 - 2026-07-10-overthinking-amplifying-reasoning-weights-to-extract-learned
 - 2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi
-- 2026-07-06-princeton-privileged-self-distillation-can-degrade-reasoning
 embedding_id: 2026-08-11-new-extraction-technique-surfaces-hidden-reasoning-traces-ac
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers described a method for extracting internal "reasoning traces" from l
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]] · [[2026-07-31-chinese-military-researchers-used-openai-and-anthropic-model]] · [[2026-07-10-overthinking-amplifying-reasoning-weights-to-extract-learned]] · [[2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi]] · [[2026-07-06-princeton-privileged-self-distillation-can-degrade-reasoning]]
+**Related:** [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]] · [[2026-07-31-chinese-military-researchers-used-openai-and-anthropic-model]] · [[2026-07-10-overthinking-amplifying-reasoning-weights-to-extract-learned]] · [[2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi]]
 <!-- graph:end -->

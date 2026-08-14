@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
 - 2026-08-12-openai-special-projects-lead-brad-lightcap-departing
 - 2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving
-- 2026-07-07-openai-s-chief-futurist-is-leaving-the-company
+- 2026-08-13-openai-replaces-cro-after-nine-months-hires-wiz-coo-dali-raj
 embedding_id: 2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Fidji Simo, OpenAI's CEO of Applications and effectively its No. 2 operating exe
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-08-12-openai-special-projects-lead-brad-lightcap-departing]] · [[2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving]] · [[2026-07-07-openai-s-chief-futurist-is-leaving-the-company]]
+**Related:** [[2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-08-12-openai-special-projects-lead-brad-lightcap-departing]] · [[2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving]] · [[2026-08-13-openai-replaces-cro-after-nine-months-hires-wiz-coo-dali-raj]]
 <!-- graph:end -->

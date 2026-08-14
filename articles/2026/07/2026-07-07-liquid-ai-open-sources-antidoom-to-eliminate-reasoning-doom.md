@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-26-abbel-belief-state-memory-for-llm-agents
 - 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
 - 2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo
-- 2026-05-28-new-causal-explanation-method-targets-llm-jailbreaks
+- 2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-with
 embedding_id: 2026-07-07-liquid-ai-open-sources-antidoom-to-eliminate-reasoning-doom
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Liquid AI released “Antidoom,” a targeted post-training method that eliminat
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r]] · [[2026-07-26-abbel-belief-state-memory-for-llm-agents]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo]] · [[2026-05-28-new-causal-explanation-method-targets-llm-jailbreaks]]
+**Related:** [[2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r]] · [[2026-07-26-abbel-belief-state-memory-for-llm-agents]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo]] · [[2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-with]]
 <!-- graph:end -->

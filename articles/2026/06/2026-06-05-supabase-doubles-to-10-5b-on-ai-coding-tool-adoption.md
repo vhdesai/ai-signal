@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-05-supabase-doubles-to-10-5b-valuation-on-the-back-of-ai-coding
 - 2026-05-08-replit-ceo-amjad-masad-disclosed-at-techcrunch-s-strictlyvc
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
-- 2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc
-- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
+- 2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at
+- 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
 embedding_id: 2026-06-05-supabase-doubles-to-10-5b-on-ai-coding-tool-adoption
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Supabase raised $500M at ~$10.5B, doubling for the third time in two years. CEO 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-05-supabase-doubles-to-10-5b-valuation-on-the-back-of-ai-coding]] · [[2026-05-08-replit-ceo-amjad-masad-disclosed-at-techcrunch-s-strictlyvc]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
+**Related:** [[2026-06-05-supabase-doubles-to-10-5b-valuation-on-the-back-of-ai-coding]] · [[2026-05-08-replit-ceo-amjad-masad-disclosed-at-techcrunch-s-strictlyvc]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity
+- 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
 - 2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
-- 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
 embedding_id: 2026-07-07-openai-and-anthropic-race-to-give-away-compute-credits-to-wi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Decoder reported that OpenAI, Anthropic, and major cloud providers are compe
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity]] · [[2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]]
+**Related:** [[2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]] · [[2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
 <!-- graph:end -->

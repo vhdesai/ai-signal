@@ -21,9 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-13-manus-says-it-will-resume-operating-as-an-independent-compan
+- 2026-08-13-manus-resumes-independent-operations-after-beijing-blocks-me
 - 2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek
 - 2026-08-11-manus-returns-to-independence-as-china-forces-meta-s-2b-acqu
-- 2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus
 embedding_id: 2026-08-12-manus-to-return-as-independent-company-as-meta-deal-unwinds
 event_name: ''
 ---
@@ -37,5 +38,5 @@ AI agent startup Manus will soon return to operating as an independent company a
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek]] · [[2026-08-11-manus-returns-to-independence-as-china-forces-meta-s-2b-acqu]] · [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]]
+**Related:** [[2026-08-13-manus-says-it-will-resume-operating-as-an-independent-compan]] · [[2026-08-13-manus-resumes-independent-operations-after-beijing-blocks-me]] · [[2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek]] · [[2026-08-11-manus-returns-to-independence-as-china-forces-meta-s-2b-acqu]]
 <!-- graph:end -->

@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-13-ibm-partners-with-openai-to-train-tens-of-thousands-of-consu
 - 2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy
 - 2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d
 - 2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru
-- 2026-05-18-openai-established-the-openai-deployment-company-a-majority
 embedding_id: 2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI announced the OpenAI Partner Network, a new program for partners worldwid
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy]] · [[2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d]] · [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]] · [[2026-05-18-openai-established-the-openai-deployment-company-a-majority]]
+**Related:** [[2026-08-13-ibm-partners-with-openai-to-train-tens-of-thousands-of-consu]] · [[2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy]] · [[2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d]] · [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]]
 <!-- graph:end -->

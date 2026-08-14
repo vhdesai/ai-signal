@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-18-tsmc-posts-record-results-and-expands-planned-arizona-invest
 - 2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained
 - 2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand
-- 2026-07-21-tsmc-added-accelerated-another-100b-in-arizona-capacity-lift
+- 2026-07-20-tsmc-added-accelerated-another-100b-in-arizona-capacity-lift
 embedding_id: 2026-07-20-tsmc-accelerates-arizona-fab-expansion-on-robust-ai-chip-dem
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TSMC accelerates Arizona fab expansion on robust AI chip demand, reinforcing the
 
 **Entities:** [[TSMC]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-17-tsmc-posts-record-results-and-expands-planned-arizona-invest]] · [[2026-07-18-tsmc-posts-record-results-and-expands-planned-arizona-invest]] · [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand]] · [[2026-07-21-tsmc-added-accelerated-another-100b-in-arizona-capacity-lift]]
+**Related:** [[2026-07-17-tsmc-posts-record-results-and-expands-planned-arizona-invest]] · [[2026-07-18-tsmc-posts-record-results-and-expands-planned-arizona-invest]] · [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand]] · [[2026-07-20-tsmc-added-accelerated-another-100b-in-arizona-capacity-lift]]
 <!-- graph:end -->

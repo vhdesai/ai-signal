@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
 - 2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa
 - 2026-07-06-anthropic-s-new-j-lens-reveals-a-silent-workspace-inside-cla
-- 2026-04-20-anthropic-april-16-2026-anthropic-shipped-claude-opus-4-7-po
+- 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
 embedding_id: 2026-05-28-anthropic-s-honesty-first-framing-of-opus-4-8-lands-as-a-pol
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A notable subtext of the Opus 4.8 launch is Anthropic's explicit positioning aro
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa]] · [[2026-07-06-anthropic-s-new-j-lens-reveals-a-silent-workspace-inside-cla]] · [[2026-04-20-anthropic-april-16-2026-anthropic-shipped-claude-opus-4-7-po]]
+**Related:** [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa]] · [[2026-07-06-anthropic-s-new-j-lens-reveals-a-silent-workspace-inside-cla]] · [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]]
 <!-- graph:end -->

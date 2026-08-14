@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-20-anthropic-s-1-5b-copyright-settlement-received-final-approva
 - 2026-07-21-anthropic-s-1-5b-copyright-settlement-received-final-approva
+- 2026-08-13-anthropic-to-watermark-all-claude-output-for-eu-ai-act-compl
+- 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
 - 2026-08-11-anthropic-will-watermark-all-claude-generated-text-to-comply
-- 2026-08-10-anthropic-will-apply-invisible-watermarks-to-all-claude-text
-- 2026-08-11-anthropic-will-watermark-claude-generated-text-and-images-fo
 embedding_id: 2026-07-22-anthropic-copyright-settlement-receives-approval
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic copyright settlement receives approval.
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-20-anthropic-s-1-5b-copyright-settlement-received-final-approva]] · [[2026-07-21-anthropic-s-1-5b-copyright-settlement-received-final-approva]] · [[2026-08-11-anthropic-will-watermark-all-claude-generated-text-to-comply]] · [[2026-08-10-anthropic-will-apply-invisible-watermarks-to-all-claude-text]] · [[2026-08-11-anthropic-will-watermark-claude-generated-text-and-images-fo]]
+**Related:** [[2026-07-20-anthropic-s-1-5b-copyright-settlement-received-final-approva]] · [[2026-07-21-anthropic-s-1-5b-copyright-settlement-received-final-approva]] · [[2026-08-13-anthropic-to-watermark-all-claude-output-for-eu-ai-act-compl]] · [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]] · [[2026-08-11-anthropic-will-watermark-all-claude-generated-text-to-comply]]
 <!-- graph:end -->

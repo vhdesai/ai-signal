@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-nvidia-said-to-test-rubin-ultra-variants-with-less-hbm-amid
 related_article_ids:
+- 2026-08-13-nvidia-weighs-reducing-memory-on-next-gen-rubin-ultra-gpu-du
 - 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
 - 2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o
 - 2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl
-- 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 embedding_id: 2026-08-06-nvidia-tests-rubin-ultra-variants-with-less-hbm-amid-tight-m
 event_name: ''
 ---
@@ -39,5 +39,5 @@ event_name: ''
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-08-06-nvidia-said-to-test-rubin-ultra-variants-with-less-hbm-amid]]
-**Related:** [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o]] · [[2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]]
+**Related:** [[2026-08-13-nvidia-weighs-reducing-memory-on-next-gen-rubin-ultra-gpu-du]] · [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o]] · [[2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl]]
 <!-- graph:end -->

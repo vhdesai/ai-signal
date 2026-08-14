@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
+- 2026-08-13-ai-may-extend-fossil-fuel-dominance-more-than-data-center-po
 - 2026-05-22-the-stanford-university-2026-ai-index-report-documents-a-fie
 - 2026-08-08-planned-amazon-data-center-could-become-the-largest-u-s-clim
 - 2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env
-- 2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye
 embedding_id: 2026-07-10-microsoft-s-carbon-emissions-rose-25-as-the-ai-data-center-b
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft's 2026 Environmental Sustainability Report shows carbon emissions grew
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-05-22-the-stanford-university-2026-ai-index-report-documents-a-fie]] · [[2026-08-08-planned-amazon-data-center-could-become-the-largest-u-s-clim]] · [[2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye]]
+**Related:** [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-08-13-ai-may-extend-fossil-fuel-dominance-more-than-data-center-po]] · [[2026-05-22-the-stanford-university-2026-ai-index-report-documents-a-fie]] · [[2026-08-08-planned-amazon-data-center-could-become-the-largest-u-s-clim]] · [[2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env]]
 <!-- graph:end -->

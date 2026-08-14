@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-29-liquid-ai-releases-lfm2-5-encoder-230m-and-350m-fast-at-8k-c
 - 2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo
-- 2026-08-06-liquid-ai-releases-lfm2-5-2-6b-a-powerful-model-that-runs-on
-- 2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face
-- 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
+- 2026-08-12-liquid-ai-releases-lfm2-5-vl-3b-for-on-device-vision-languag
+- 2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-an-open-weight-edge-vision-lang
+- 2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-for-on-device-vision-language-w
 embedding_id: 2026-07-29-liquid-ai-releases-cpu-friendly-lfm2-5-encoder-models
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MarkTechPost reports that Liquid AI released LFM2.5-Encoder-230M and LFM2.5-Enco
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-liquid-ai-releases-lfm2-5-encoder-230m-and-350m-fast-at-8k-c]] · [[2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo]] · [[2026-08-06-liquid-ai-releases-lfm2-5-2-6b-a-powerful-model-that-runs-on]] · [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]]
+**Related:** [[2026-07-29-liquid-ai-releases-lfm2-5-encoder-230m-and-350m-fast-at-8k-c]] · [[2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo]] · [[2026-08-12-liquid-ai-releases-lfm2-5-vl-3b-for-on-device-vision-languag]] · [[2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-an-open-weight-edge-vision-lang]] · [[2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-for-on-device-vision-language-w]]
 <!-- graph:end -->

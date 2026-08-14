@@ -1,13 +1,23 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 313
+member_count: 323
 ---
 
 # xAI
 
-> Auto-generated entity hub. 313 connected article(s).
+> Auto-generated entity hub. 323 connected article(s).
 
+- `2026-08-13` [[2026-08-13-spacex-stock-jumps-as-grok-release-ramps-up-ai-competition|SpaceX Stock Jumps as Grok Release Ramps Up AI Competition]]
+- `2026-08-13` [[2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g|Hackers Deploy Fully Autonomous AI Agents to Attack Taiwan Government Agencies]]
+- `2026-08-12` [[2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno|xAI releases Grok 4.6 for long-running agents, coding, and knowledge work]]
+- `2026-08-12` [[2026-08-12-xai-ships-grok-4-6-with-500k-context-reaching-parity-with-gp|xAI Ships Grok 4.6 With 500K Context, Reaching Parity With GPT-5.6 Sol]]
+- `2026-08-12` [[2026-08-12-xai-launches-grok-4-6-for-long-running-agents-grok-4-7-previ|xAI Launches Grok 4.6 for Long-Running Agents; Grok 4.7 Previewed]]
+- `2026-08-12` [[2026-08-12-spacexai-ships-grok-4-6-for-long-running-agents-musk-says-4|SpaceXAI Ships Grok 4.6 for Long-Running Agents; Musk Says 4.7 Is Weeks Away]]
+- `2026-08-12` [[2026-08-12-spacexai-ships-grok-4-6-for-long-running-agents-and-coding|SpaceXAI Ships Grok 4.6 for Long-Running Agents and Coding]]
+- `2026-08-12` [[2026-08-12-daily-ai-news-digest-august-13-2026|Daily AI News Digest – August 13, 2026]]
+- `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
+- `2026-08-12` [[2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe|AllenAI Open Instruct: Reproducible Tulu 3 Post-Training Pipeline]]
 - `2026-08-11` [[2026-08-11-xai-with-cursor-launches-grok-bot-always-on-ai-teammates-wit|xAI, with Cursor, launches Grok Bot: always-on AI teammates with their own cloud computers]]
 - `2026-08-11` [[2026-08-11-xai-co-founder-leaves-to-build-open-source-ai-startup-river|xAI Co-Founder Leaves to Build Open-Source AI Startup River AI]]
 - `2026-08-11` [[2026-08-11-river-ai-raises-1-1-billion-two-months-after-launch|River AI raises $1.1 billion two months after launch]]

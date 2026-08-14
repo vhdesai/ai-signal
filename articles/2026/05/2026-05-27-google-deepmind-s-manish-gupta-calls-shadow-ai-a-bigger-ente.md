@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat
 - 2026-05-26-google-cloud-coo-ai-security-must-be-a-ceo-board-issue
 - 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
+- 2026-08-12-daily-ai-news-digest-august-13-2026
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
-- 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 embedding_id: 2026-05-27-google-deepmind-s-manish-gupta-calls-shadow-ai-a-bigger-ente
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google DeepMind's Manish Gupta calls Shadow AI a bigger enterprise threat than h
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat]] · [[2026-05-26-google-cloud-coo-ai-security-must-be-a-ceo-board-issue]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]]
+**Related:** [[2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat]] · [[2026-05-26-google-cloud-coo-ai-security-must-be-a-ceo-board-issue]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]] · [[2026-08-12-daily-ai-news-digest-august-13-2026]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]]
 <!-- graph:end -->

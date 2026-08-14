@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s
 - 2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin
 - 2026-05-01-compute-is-destiny-2026-05-01-business-insider
+- 2026-08-12-the-information-2026-08-12-external-google-s-gemini-app-hits
 - 2026-07-25-other-ai-related-publication-emails-2026-07-25-external-weak
-- 2026-08-03-cio-dive-2026-08-03-external-aug-3-fdes-enter-the-enterprise
 embedding_id: 2026-04-27-tokenmaxxing-too-close-to-the-sun-2026-04-27-business-inside
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Tokenmaxxing too close to the sun [2026-04-27] · Business Insider
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s]] · [[2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin]] · [[2026-05-01-compute-is-destiny-2026-05-01-business-insider]] · [[2026-07-25-other-ai-related-publication-emails-2026-07-25-external-weak]] · [[2026-08-03-cio-dive-2026-08-03-external-aug-3-fdes-enter-the-enterprise]]
+**Related:** [[2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s]] · [[2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin]] · [[2026-05-01-compute-is-destiny-2026-05-01-business-insider]] · [[2026-08-12-the-information-2026-08-12-external-google-s-gemini-app-hits]] · [[2026-07-25-other-ai-related-publication-emails-2026-07-25-external-weak]]
 <!-- graph:end -->

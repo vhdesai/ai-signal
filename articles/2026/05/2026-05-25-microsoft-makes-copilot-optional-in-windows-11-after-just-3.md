@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps
 - 2026-05-30-github-copilot-shifts-to-token-based-billing-sparking-develo
+- 2026-08-13-microsoft-merges-consumer-and-business-copilot-apps-kills-se
 - 2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one
 - 2026-07-29-uk-cma-investigates-microsoft-over-copilot-linked-microsoft
-- 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
 embedding_id: 2026-05-25-microsoft-makes-copilot-optional-in-windows-11-after-just-3
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Windows 11 April 2026 update adds an official uninstall path for Copilot thr
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps]] · [[2026-05-30-github-copilot-shifts-to-token-based-billing-sparking-develo]] · [[2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one]] · [[2026-07-29-uk-cma-investigates-microsoft-over-copilot-linked-microsoft]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]]
+**Related:** [[2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps]] · [[2026-05-30-github-copilot-shifts-to-token-based-billing-sparking-develo]] · [[2026-08-13-microsoft-merges-consumer-and-business-copilot-apps-kills-se]] · [[2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one]] · [[2026-07-29-uk-cma-investigates-microsoft-over-copilot-linked-microsoft]]
 <!-- graph:end -->

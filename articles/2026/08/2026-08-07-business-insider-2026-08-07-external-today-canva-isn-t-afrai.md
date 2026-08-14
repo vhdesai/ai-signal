@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for
 - 2026-08-05-business-insider-2026-08-05-external-today-tech-s-new-favori
 - 2026-08-11-business-insider-2026-08-11-external-today-zuck-s-ai-for-eve
-- 2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne
+- 2026-08-13-business-insider-2026-08-13-external-today-silicon-valley-is
 embedding_id: 2026-08-07-business-insider-2026-08-07-external-today-canva-isn-t-afrai
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Business Insider - [2026-08-07] [EXTERNAL] Today: Canva isn't afraid of AI
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for]] · [[2026-08-05-business-insider-2026-08-05-external-today-tech-s-new-favori]] · [[2026-08-11-business-insider-2026-08-11-external-today-zuck-s-ai-for-eve]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]]
+**Related:** [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for]] · [[2026-08-05-business-insider-2026-08-05-external-today-tech-s-new-favori]] · [[2026-08-11-business-insider-2026-08-11-external-today-zuck-s-ai-for-eve]] · [[2026-08-13-business-insider-2026-08-13-external-today-silicon-valley-is]]
 <!-- graph:end -->

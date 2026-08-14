@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi
 - 2026-07-11-cio-dive-2026-07-11-external-weekender-agentic-ai-to-disrupt
+- 2026-08-13-cio-dive-2026-08-13-external-aug-13-legacy-it-forces-ai-dela
 - 2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa
 - 2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega
-- 2026-08-10-cio-dive-2026-08-10-external-aug-10-it-unemployment-dips-aga
 embedding_id: 2026-08-11-cio-dive-2026-08-11-external-aug-11-ai-spending-shifts-as-te
 event_name: ''
 ---
@@ -34,5 +34,5 @@ CIO Dive - [2026-08-11] [EXTERNAL] Aug. 11 - AI spending shifts as tech matures 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi]] · [[2026-07-11-cio-dive-2026-07-11-external-weekender-agentic-ai-to-disrupt]] · [[2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa]] · [[2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega]] · [[2026-08-10-cio-dive-2026-08-10-external-aug-10-it-unemployment-dips-aga]]
+**Related:** [[2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi]] · [[2026-07-11-cio-dive-2026-07-11-external-weekender-agentic-ai-to-disrupt]] · [[2026-08-13-cio-dive-2026-08-13-external-aug-13-legacy-it-forces-ai-dela]] · [[2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa]] · [[2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega]]
 <!-- graph:end -->

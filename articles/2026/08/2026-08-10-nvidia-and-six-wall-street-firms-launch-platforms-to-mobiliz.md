@@ -26,8 +26,9 @@ related_article_ids:
 - 2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f
 - 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
 - 2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi
+- 2026-08-13-nvidia-anchors-a-500b-financing-consortium-to-fund-ai-data-c
+- 2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data
 - 2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target
-- 2026-08-11-nvidia-signs-financing-mous-with-six-major-asset-managers-to
 embedding_id: 2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Nvidia signed memoranda of understanding with Apollo, BlackRock, Blackstone, Bro
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi]] · [[2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target]] · [[2026-08-11-nvidia-signs-financing-mous-with-six-major-asset-managers-to]]
+**Related:** [[2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi]] · [[2026-08-13-nvidia-anchors-a-500b-financing-consortium-to-fund-ai-data-c]] · [[2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data]] · [[2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target]]
 <!-- graph:end -->

@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-25-china-s-cxmt-debuts-on-shanghai-s-star-market-with-an-8-6b-r
-- 2026-07-27-cxmt-soars-in-shanghai-debut-as-china-funds-ai-memory-indepe
+- 2026-08-14-china-s-cxmt-nears-intel-s-market-cap-rivaling-world-s-most
 embedding_id: 2026-08-04-major-pc-makers-start-using-memory-chips-from-china-s-cxmt
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Major PC manufacturers have begun incorporating DRAM memory chips from China's C
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-07-25-china-s-cxmt-debuts-on-shanghai-s-star-market-with-an-8-6b-r]] · [[2026-07-27-cxmt-soars-in-shanghai-debut-as-china-funds-ai-memory-indepe]]
+**Related:** [[2026-07-25-china-s-cxmt-debuts-on-shanghai-s-star-market-with-an-8-6b-r]] · [[2026-08-14-china-s-cxmt-nears-intel-s-market-cap-rivaling-world-s-most]]
 <!-- graph:end -->

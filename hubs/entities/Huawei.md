@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 175
+member_count: 176
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 175 connected article(s).
+> Auto-generated entity hub. 176 connected article(s).
 
+- `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-11` [[2026-08-11-china-s-leading-model-developers-remain-dependent-on-nvidia|China's leading model developers remain dependent on Nvidia despite domestic alternatives]]
 - `2026-08-10` [[2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch|Nvidia Falls 3.1% as Washington Reviews Offshore Routes to China AI Chip Access]]

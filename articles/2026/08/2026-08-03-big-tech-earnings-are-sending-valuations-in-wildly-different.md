@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
 - 2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall
+- 2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits-driv
 - 2026-07-20-big-tech-faces-pressure-to-justify-ai-spending-as-investors
 - 2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov
-- 2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog
 embedding_id: 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The latest earnings cycle drove large valuation divergences as investors price A
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall]] · [[2026-07-20-big-tech-faces-pressure-to-justify-ai-spending-as-investors]] · [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]] · [[2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog]]
+**Related:** [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall]] · [[2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits-driv]] · [[2026-07-20-big-tech-faces-pressure-to-justify-ai-spending-as-investors]] · [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]]
 <!-- graph:end -->

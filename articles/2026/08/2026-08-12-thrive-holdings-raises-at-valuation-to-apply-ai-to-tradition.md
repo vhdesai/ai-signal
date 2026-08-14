@@ -17,13 +17,9 @@ entities: []
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
-- 2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw
-- 2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital
-- 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
+dedupe_status: duplicate
+canonical_article_id: 2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i
+related_article_ids: []
 embedding_id: 2026-08-12-thrive-holdings-raises-at-valuation-to-apply-ai-to-tradition
 event_name: ''
 ---
@@ -36,5 +32,5 @@ Thrive Holdings, created by Josh Kushner’s Thrive Capital, is raising \ billio
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]]
+**Canonical:** [[2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i]]
 <!-- graph:end -->

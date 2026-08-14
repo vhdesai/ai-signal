@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 501
+member_count: 507
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 501 connected article(s).
+> Auto-generated entity hub. 507 connected article(s).
 
+- `2026-08-14` [[2026-08-14-wall-street-journal-wsj-2026-08-14-external-the-latest-news|Wall Street Journal / WSJ - [2026-08-14] [EXTERNAL] The latest news on Amazon.com Inc]]
+- `2026-08-13` [[2026-08-13-twitch-opts-all-streamers-into-amazon-ai-training-by-default|Twitch Opts All Streamers Into Amazon AI Training by Default, Then Adds an Opt-Out]]
+- `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
+- `2026-08-12` [[2026-08-12-anthropic-text-watermarks-trigger-backlash-amazon-twitch-set|Anthropic Text Watermarks Trigger Backlash; Amazon/Twitch Sets AI Training to Opt-Out]]
+- `2026-08-12` [[2026-08-12-amazon-will-train-on-twitch-streamers-content-by-default-unl|Amazon will train on Twitch streamers' content by default unless they opt out]]
+- `2026-08-12` [[2026-08-12-amazon-confirms-training-ai-on-twitch-livestreams-users-opte|Amazon Confirms Training AI on Twitch Livestreams — Users Opted In by Default]]
 - `2026-08-11` [[2026-08-11-openai-s-daybreak-cyber-defense-models-land-on-amazon-bedroc|OpenAI's Daybreak cyber-defense models land on Amazon Bedrock]]
 - `2026-08-11` [[2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international|OpenAI expands ChatGPT advertising to five new international markets]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]

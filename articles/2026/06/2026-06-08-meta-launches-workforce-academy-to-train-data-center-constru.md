@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-13-meta-joins-openai-and-blackrock-in-signing-union-pacts-for-a
 - 2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major
 - 2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu
 embedding_id: 2026-06-08-meta-launches-workforce-academy-to-train-data-center-constru
@@ -35,5 +36,5 @@ Meta launched a "Workforce Academy" to train skilled trades workers for AI data 
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major]] · [[2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu]]
+**Related:** [[2026-08-13-meta-joins-openai-and-blackrock-in-signing-union-pacts-for-a]] · [[2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major]] · [[2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-ai-code-testing-startup-blacksmith-raises-45m-at-a-550m-valu
-- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-- 2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to
-- 2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains
-- 2026-05-14-wirestock-raises-23m-for-ai-training-data-marketplace
+- 2026-08-12-code-testing-startup-blacksmith-s-valuation-jumps-almost-10x
+- 2026-08-12-ai-coding-valuations-accelerate-cognition-40b-lovable-13-3b
+- 2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at
+- 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
 embedding_id: 2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation
 event_name: ''
 ---
@@ -38,5 +38,5 @@ $45M raised at ~$550M — nearly 10× in under a year. The thesis: as AI acceler
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-12-ai-code-testing-startup-blacksmith-raises-45m-at-a-550m-valu]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to]] · [[2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains]] · [[2026-05-14-wirestock-raises-23m-for-ai-training-data-marketplace]]
+**Related:** [[2026-08-12-ai-code-testing-startup-blacksmith-raises-45m-at-a-550m-valu]] · [[2026-08-12-code-testing-startup-blacksmith-s-valuation-jumps-almost-10x]] · [[2026-08-12-ai-coding-valuations-accelerate-cognition-40b-lovable-13-3b]] · [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]]
 <!-- graph:end -->

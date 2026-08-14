@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi
 - 2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen
+- 2026-08-12-coreweave-and-super-micro-surge-on-evidence-of-sustained-ai
 - 2026-04-16-source-coreweave-press-release-april-15-2026
 - 2026-08-02-coreweave-sweetens-2-6b-loan-terms-as-ai-debt-investors-push
-- 2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge
 embedding_id: 2026-04-10-industry-news
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CoreWeave Books $21B+ in AI Cloud Deals in One Week — Stock Surges 10.87%
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-04-16-source-coreweave-press-release-april-15-2026]] · [[2026-08-02-coreweave-sweetens-2-6b-loan-terms-as-ai-debt-investors-push]] · [[2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge]]
+**Related:** [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-08-12-coreweave-and-super-micro-surge-on-evidence-of-sustained-ai]] · [[2026-04-16-source-coreweave-press-release-april-15-2026]] · [[2026-08-02-coreweave-sweetens-2-6b-loan-terms-as-ai-debt-investors-push]]
 <!-- graph:end -->

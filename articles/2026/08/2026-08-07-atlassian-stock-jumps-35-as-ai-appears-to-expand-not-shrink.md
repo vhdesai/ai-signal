@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall
 - 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
 - 2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter
-- 2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri
+- 2026-08-12-thrive-holdings-raises-2b-to-push-ai-into-regulated-workflow
 embedding_id: 2026-08-07-atlassian-stock-jumps-35-as-ai-appears-to-expand-not-shrink
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Atlassian shares surged 35% after earnings driven by seat growth in Jira and Con
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps]] · [[2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]] · [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter]] · [[2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri]]
+**Related:** [[2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps]] · [[2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]] · [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter]] · [[2026-08-12-thrive-holdings-raises-2b-to-push-ai-into-regulated-workflow]]
 <!-- graph:end -->

@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 194
+member_count: 196
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 194 connected article(s).
+> Auto-generated entity hub. 196 connected article(s).
 
+- `2026-08-12` [[2026-08-12-mistral-commits-to-in-region-inference-and-up-to-1-gw-of-eur|Mistral Commits to In-Region Inference and Up to 1 GW of European Compute]]
+- `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
 - `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]

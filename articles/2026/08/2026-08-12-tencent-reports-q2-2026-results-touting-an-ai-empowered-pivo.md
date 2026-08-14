@@ -24,11 +24,9 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-12-tencent-posts-revenue-beat-on-ai-driven-ads-capex-surges-65
+- 2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns
 - 2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr
 - 2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for
-- 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
-- 2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global
 embedding_id: 2026-08-12-tencent-reports-q2-2026-results-touting-an-ai-empowered-pivo
 event_name: ''
 ---
@@ -42,5 +40,5 @@ Tencent's second-quarter 2026 results were headlined "Substantial Progress towar
 
 **Entities:** [[Tencent]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-12-tencent-posts-revenue-beat-on-ai-driven-ads-capex-surges-65]] · [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]] · [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]] · [[2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global]]
+**Related:** [[2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns]] · [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]] · [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]]
 <!-- graph:end -->

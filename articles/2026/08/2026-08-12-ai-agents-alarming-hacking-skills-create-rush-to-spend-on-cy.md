@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c
+- 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
 - 2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk
+- 2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g
 - 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
-- 2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers
-- 2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability
 embedding_id: 2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy
 event_name: ''
 ---
@@ -40,5 +40,5 @@ AI agents are demonstrating increasingly sophisticated hacking capabilities, cre
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c]] · [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]] · [[2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers]] · [[2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability]]
+**Related:** [[2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]] · [[2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]]
 <!-- graph:end -->

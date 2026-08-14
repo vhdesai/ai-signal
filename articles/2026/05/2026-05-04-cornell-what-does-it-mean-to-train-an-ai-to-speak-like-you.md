@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
+- 2026-08-12-cornell-expands-its-ai-critical-literacy-program-to-all-inco
 - 2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover
 - 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
 - 2026-03-28-mit-researchers-published-findings-on-a-new-training-approac
-- 2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a
 embedding_id: 2026-05-04-cornell-what-does-it-mean-to-train-an-ai-to-speak-like-you
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Cornell researchers examine the identity, consent and authorship questions raise
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]] · [[2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a]]
+**Related:** [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-08-12-cornell-expands-its-ai-critical-literacy-program-to-all-inco]] · [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]]
 <!-- graph:end -->

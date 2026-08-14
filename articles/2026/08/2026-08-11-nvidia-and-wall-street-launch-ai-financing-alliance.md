@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
+- 2026-08-13-nvidia-anchors-a-500b-financing-consortium-to-fund-ai-data-c
 - 2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz
-- 2026-08-10-nvidia-lines-up-500b-with-wall-street-giants-to-financialize
 embedding_id: 2026-08-11-nvidia-and-wall-street-launch-ai-financing-alliance
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Nvidia announced a landmark partnership with BlackRock, Apollo, Blackstone, Broo
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]] · [[2026-08-10-nvidia-lines-up-500b-with-wall-street-giants-to-financialize]]
+**Related:** [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-08-13-nvidia-anchors-a-500b-financing-consortium-to-fund-ai-data-c]] · [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]]
 <!-- graph:end -->

@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
+- 2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
 - 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
-- 2026-05-28-canada-dismisses-tech-firms-warnings-of-back-doors-to-device
 embedding_id: 2026-08-11-uk-courts-confiscate-meta-smart-glasses-over-covert-recordin
 event_name: ''
 ---
@@ -37,5 +37,5 @@ His Majesty's Courts & Tribunals Service will seize camera-equipped smart glasse
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[2026-05-28-canada-dismisses-tech-firms-warnings-of-back-doors-to-device]]
+**Related:** [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]] · [[2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]]
 <!-- graph:end -->

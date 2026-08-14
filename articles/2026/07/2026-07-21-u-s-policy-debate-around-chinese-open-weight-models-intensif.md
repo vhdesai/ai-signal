@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-20-u-s-policy-debate-around-chinese-open-weight-models-intensif
 - 2026-07-19-kimi-k3-triggers-western-and-u-s-policy-debate-over-whether
 - 2026-07-20-the-trump-administration-is-reportedly-weighing-restrictions
-- 2026-07-07-chinese-open-weight-models-gain-u-s-adoption-as-frontier-cos
+- 2026-08-13-beijing-could-suddenly-clamp-down-on-chinese-open-weight-ai
 embedding_id: 2026-07-21-u-s-policy-debate-around-chinese-open-weight-models-intensif
 event_name: ''
 ---
@@ -37,5 +37,5 @@ U.S. policy debate around Chinese open-weight models intensified, including disc
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-20-u-s-policy-debate-around-chinese-open-weight-models-intensif]] · [[2026-07-19-kimi-k3-triggers-western-and-u-s-policy-debate-over-whether]] · [[2026-07-20-the-trump-administration-is-reportedly-weighing-restrictions]] · [[2026-07-07-chinese-open-weight-models-gain-u-s-adoption-as-frontier-cos]]
+**Related:** [[2026-07-20-u-s-policy-debate-around-chinese-open-weight-models-intensif]] · [[2026-07-19-kimi-k3-triggers-western-and-u-s-policy-debate-over-whether]] · [[2026-07-20-the-trump-administration-is-reportedly-weighing-restrictions]] · [[2026-08-13-beijing-could-suddenly-clamp-down-on-chinese-open-weight-ai]]
 <!-- graph:end -->

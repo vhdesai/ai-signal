@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno
 - 2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor
 - 2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software
 - 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
-- 2026-05-19-xai-ships-grok-skills-and-openclaw-integration-for-supergrok
 embedding_id: 2026-08-11-xai-with-cursor-launches-grok-bot-always-on-ai-teammates-wit
 event_name: ''
 ---
@@ -40,5 +40,5 @@ xAI shipped Grok Bot in beta, introducing persistent AI agents that each receive
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor]] · [[2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software]] · [[2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent]] · [[2026-05-19-xai-ships-grok-skills-and-openclaw-integration-for-supergrok]]
+**Related:** [[2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno]] · [[2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor]] · [[2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software]] · [[2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent]]
 <!-- graph:end -->

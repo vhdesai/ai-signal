@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-12-coreweave-and-super-micro-surge-on-evidence-of-sustained-ai
 - 2026-07-30-samsung-posts-record-profit-as-hbm-and-ai-memory-demand-surg
 - 2026-07-30-samsung-posts-record-profit-up-1-814-year-over-year-on-ai-me
 - 2026-04-02-market-signals-motley-fool-economic-times
-- 2026-07-07-samsung-guides-to-record-q2-operating-profit-on-ai-memory-de
 embedding_id: 2026-07-22-super-micro-surges-on-record-q4-orders-and-a-surprise-margin
 event_name: ''
 ---
@@ -35,5 +35,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-30-samsung-posts-record-profit-as-hbm-and-ai-memory-demand-surg]] · [[2026-07-30-samsung-posts-record-profit-up-1-814-year-over-year-on-ai-me]] · [[2026-04-02-market-signals-motley-fool-economic-times]] · [[2026-07-07-samsung-guides-to-record-q2-operating-profit-on-ai-memory-de]]
+**Related:** [[2026-08-12-coreweave-and-super-micro-surge-on-evidence-of-sustained-ai]] · [[2026-07-30-samsung-posts-record-profit-as-hbm-and-ai-memory-demand-surg]] · [[2026-07-30-samsung-posts-record-profit-up-1-814-year-over-year-on-ai-me]] · [[2026-04-02-market-signals-motley-fool-economic-times]]
 <!-- graph:end -->

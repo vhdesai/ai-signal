@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-19-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively
 - 2026-07-20-ai-nudify-app-enforcement-patreon-ai-bot-blocking-and-conten
 - 2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo
-- 2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle
+- 2026-08-12-anthropic-text-watermarks-trigger-backlash-amazon-twitch-set
 embedding_id: 2026-07-17-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Patreon moves from asking AI bots not to scrape to actively blocking them with C
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-18-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively]] · [[2026-07-19-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively]] · [[2026-07-20-ai-nudify-app-enforcement-patreon-ai-bot-blocking-and-conten]] · [[2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo]] · [[2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle]]
+**Related:** [[2026-07-18-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively]] · [[2026-07-19-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively]] · [[2026-07-20-ai-nudify-app-enforcement-patreon-ai-bot-blocking-and-conten]] · [[2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo]] · [[2026-08-12-anthropic-text-watermarks-trigger-backlash-amazon-twitch-set]]
 <!-- graph:end -->

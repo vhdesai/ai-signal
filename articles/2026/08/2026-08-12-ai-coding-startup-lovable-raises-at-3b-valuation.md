@@ -23,8 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj
-- 2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i
-- 2026-07-15-indian-ai-coding-startup-emergent-raises-130m-series-c-and-r
+- 2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation
+- 2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri
+- 2026-08-12-ai-coding-valuations-accelerate-cognition-40b-lovable-13-3b
 embedding_id: 2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Stockholm-based AI coding startup Lovable announced a \ million funding round va
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj]] · [[2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i]] · [[2026-07-15-indian-ai-coding-startup-emergent-raises-130m-series-c-and-r]]
+**Related:** [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj]] · [[2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation]] · [[2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri]] · [[2026-08-12-ai-coding-valuations-accelerate-cognition-40b-lovable-13-3b]]
 <!-- graph:end -->

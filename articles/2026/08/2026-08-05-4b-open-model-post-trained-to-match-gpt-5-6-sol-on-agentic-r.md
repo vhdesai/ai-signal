@@ -20,8 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe
+- 2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-with
 - 2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-games-evaluations
-- 2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re
 embedding_id: 2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Neon and Castform used a reinforcement-learning pipeline on Neon Lakebase Postgr
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-games-evaluations]] · [[2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re]]
+**Related:** [[2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe]] · [[2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-with]] · [[2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-games-evaluations]]
 <!-- graph:end -->

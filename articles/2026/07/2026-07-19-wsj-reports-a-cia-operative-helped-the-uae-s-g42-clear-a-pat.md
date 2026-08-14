@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-19-cia-operative-and-uae-g42-ai-chip-access-pastors-using-ai-fo
 - 2026-07-19-wall-street-journal-wsj-2026-07-19-external-the-10-point-the
 - 2026-06-21-politico-published-a-deep-investigation-into-the-integration
+- 2026-08-14-wsj-pro-cybersecurity-2026-08-14-external-inside-north-korea
 - 2026-05-16-the-commerce-department-announced-amended-partnerships-with
-- 2026-04-06-google-deepmind-researchers-published-a-significant-security
 embedding_id: 2026-07-19-wsj-reports-a-cia-operative-helped-the-uae-s-g42-clear-a-pat
 event_name: ''
 ---
@@ -37,5 +37,5 @@ WSJ reports a CIA operative helped the UAE's G42 clear a path to U.S. AI chips, 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-19-cia-operative-and-uae-g42-ai-chip-access-pastors-using-ai-fo]] · [[2026-07-19-wall-street-journal-wsj-2026-07-19-external-the-10-point-the]] · [[2026-06-21-politico-published-a-deep-investigation-into-the-integration]] · [[2026-05-16-the-commerce-department-announced-amended-partnerships-with]] · [[2026-04-06-google-deepmind-researchers-published-a-significant-security]]
+**Related:** [[2026-07-19-cia-operative-and-uae-g42-ai-chip-access-pastors-using-ai-fo]] · [[2026-07-19-wall-street-journal-wsj-2026-07-19-external-the-10-point-the]] · [[2026-06-21-politico-published-a-deep-investigation-into-the-integration]] · [[2026-08-14-wsj-pro-cybersecurity-2026-08-14-external-inside-north-korea]] · [[2026-05-16-the-commerce-department-announced-amended-partnerships-with]]
 <!-- graph:end -->

@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-13-lenovo-profits-soar-past-expectations-on-ai-computers-server
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
 - 2026-05-25-salesforce-snowflake-and-asana-all-report-q1-earnings-this-w
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
-- 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
 embedding_id: 2026-08-01-ibm-earnings-read-as-a-gauge-of-ai-infrastructure-demand
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Inc. framed IBM’s latest results as a signal on enterprise AI-infrastructure a
 
 **Entities:** [[IBM]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-25-salesforce-snowflake-and-asana-all-report-q1-earnings-this-w]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]]
+**Related:** [[2026-08-13-lenovo-profits-soar-past-expectations-on-ai-computers-server]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-25-salesforce-snowflake-and-asana-all-report-q1-earnings-this-w]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]]
 <!-- graph:end -->

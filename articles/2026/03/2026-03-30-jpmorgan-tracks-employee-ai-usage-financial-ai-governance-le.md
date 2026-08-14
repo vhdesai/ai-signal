@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-01-jpmorgan-chase-is-formally-connecting-software-engineers-per
+- 2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t
 - 2026-04-01-jpmorgan-chase-links-engineer-performance-reviews-to-ai-tool
 - 2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a
 - 2026-05-22-jpmorgan-ceo-jamie-dimon-said-ai-will-probably-impact-the-nu
-- 2026-05-18-openai-b2b-signals-report-frontier-ai-firms-use-3-5x-more-ai
 embedding_id: 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
 event_name: ''
 ---
@@ -38,5 +38,5 @@ JPMorgan began logging how employees interact with internal AI tools — usage f
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-01-jpmorgan-chase-is-formally-connecting-software-engineers-per]] · [[2026-04-01-jpmorgan-chase-links-engineer-performance-reviews-to-ai-tool]] · [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]] · [[2026-05-22-jpmorgan-ceo-jamie-dimon-said-ai-will-probably-impact-the-nu]] · [[2026-05-18-openai-b2b-signals-report-frontier-ai-firms-use-3-5x-more-ai]]
+**Related:** [[2026-04-01-jpmorgan-chase-is-formally-connecting-software-engineers-per]] · [[2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t]] · [[2026-04-01-jpmorgan-chase-links-engineer-performance-reviews-to-ai-tool]] · [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]] · [[2026-05-22-jpmorgan-ceo-jamie-dimon-said-ai-will-probably-impact-the-nu]]
 <!-- graph:end -->

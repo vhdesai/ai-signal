@@ -16,12 +16,9 @@ entities: []
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
-- 2026-08-11-cognition-in-early-talks-at-40b-valuation-river-ai-raises-1
-- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
+dedupe_status: duplicate
+canonical_article_id: 2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at
+related_article_ids: []
 embedding_id: 2026-08-12-cognition-in-early-talks-at-a-40b-valuation
 event_name: ''
 ---
@@ -34,5 +31,5 @@ Cognition AI is in early discussions with investors on a round that would lift t
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-08-11-cognition-in-early-talks-at-40b-valuation-river-ai-raises-1]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
+**Canonical:** [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]]
 <!-- graph:end -->

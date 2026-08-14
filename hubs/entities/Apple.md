@@ -1,14 +1,19 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 396
+member_count: 401
 ---
 
 # Apple
 
-> Auto-generated entity hub. 396 connected article(s).
+> Auto-generated entity hub. 401 connected article(s).
 
+- `2026-08-13` [[2026-08-13-microsoft-merges-consumer-and-business-copilot-apps-kills-se|Microsoft Merges Consumer and Business Copilot Apps, Kills Several AI Features]]
+- `2026-08-13` [[2026-08-13-apple-in-talks-to-pay-publishers-nine-figure-budget-to-power|Apple in Talks to Pay Publishers Nine-Figure Budget to Power Siri AI with News]]
 - `2026-08-12` [[2026-08-12-google-s-gemini-app-hits-1-billion-monthly-users|Google’s Gemini App Hits 1 Billion Monthly Users]]
+- `2026-08-12` [[2026-08-12-apple-in-talks-to-pay-publishers-for-news-to-power-an-ai-sir|Apple in talks to pay publishers for news to power an AI Siri]]
+- `2026-08-12` [[2026-08-12-apple-in-talks-to-pay-publishers-for-news-to-power-ai-siri|Apple in Talks to Pay Publishers for News to Power AI Siri]]
+- `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-11` [[2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai|Anthropic will watermark text and code to comply with EU AI Act]]
 - `2026-08-10` [[2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con|Memory-chip crunch driven by AI demand pushes costs into consumer hardware]]

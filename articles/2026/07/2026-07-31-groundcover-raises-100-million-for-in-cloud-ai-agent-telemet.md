@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en
 - 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
 - 2026-06-03-coralogix-raises-200m-for-ai-agent-monitoring
+- 2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the
 - 2026-08-03-cyber-startup-horizon3-ai-raises-250m-water-plants-hacked-in
-- 2026-07-15-indian-ai-coding-startup-emergent-raises-130m-series-c-and-r
 embedding_id: 2026-07-31-groundcover-raises-100-million-for-in-cloud-ai-agent-telemet
 event_name: ''
 ---
@@ -36,5 +36,5 @@ VentureBeat reports that observability startup groundcover raised a $100 million
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]] · [[2026-06-03-coralogix-raises-200m-for-ai-agent-monitoring]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250m-water-plants-hacked-in]] · [[2026-07-15-indian-ai-coding-startup-emergent-raises-130m-series-c-and-r]]
+**Related:** [[2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]] · [[2026-06-03-coralogix-raises-200m-for-ai-agent-monitoring]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250m-water-plants-hacked-in]]
 <!-- graph:end -->

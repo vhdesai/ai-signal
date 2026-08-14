@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-11-river-ai-raises-1-1-billion-two-months-after-launch
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 - 2026-08-12-cognition-in-early-talks-at-a-40b-valuation
-- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
+- 2026-08-12-cognition-reportedly-in-talks-to-raise-at-40b-valuation
 embedding_id: 2026-08-11-cognition-in-early-talks-at-40b-valuation-river-ai-raises-1
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Cognition AI is in early discussions at $40B+ (>50% step-up), signaling the prem
 
 **Entities:** [[AMD]] · [[NVIDIA]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-11-river-ai-raises-1-1b-for-an-open-weights-post-training-cloud]] · [[2026-08-11-river-ai-raises-1-1-billion-two-months-after-launch]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-08-12-cognition-in-early-talks-at-a-40b-valuation]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
+**Related:** [[2026-08-11-river-ai-raises-1-1b-for-an-open-weights-post-training-cloud]] · [[2026-08-11-river-ai-raises-1-1-billion-two-months-after-launch]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-08-12-cognition-in-early-talks-at-a-40b-valuation]] · [[2026-08-12-cognition-reportedly-in-talks-to-raise-at-40b-valuation]]
 <!-- graph:end -->

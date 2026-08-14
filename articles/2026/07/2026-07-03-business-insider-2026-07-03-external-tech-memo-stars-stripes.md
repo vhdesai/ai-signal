@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-business-insider-2026-07-31-external-today-a-hedge-fund-s-ai
 - 2026-06-19-business-insider-2026-06-19-external-the-modern-american-ret
+- 2026-08-14-business-insider-2026-08-14-external-today-the-fight-for-the
 - 2026-07-05-business-insider-2026-07-05-external-the-new-luxury-real-est
 - 2026-06-16-business-insider-2026-06-16-external-introducing-cannes-diar
-- 2026-06-15-business-insider-2026-06-15-external-the-galactic-ambitions
 embedding_id: 2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Business Insider - [2026-07-03] [EXTERNAL] Tech Memo: Stars, stripes, and risk -
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-31-business-insider-2026-07-31-external-today-a-hedge-fund-s-ai]] · [[2026-06-19-business-insider-2026-06-19-external-the-modern-american-ret]] · [[2026-07-05-business-insider-2026-07-05-external-the-new-luxury-real-est]] · [[2026-06-16-business-insider-2026-06-16-external-introducing-cannes-diar]] · [[2026-06-15-business-insider-2026-06-15-external-the-galactic-ambitions]]
+**Related:** [[2026-07-31-business-insider-2026-07-31-external-today-a-hedge-fund-s-ai]] · [[2026-06-19-business-insider-2026-06-19-external-the-modern-american-ret]] · [[2026-08-14-business-insider-2026-08-14-external-today-the-fight-for-the]] · [[2026-07-05-business-insider-2026-07-05-external-the-new-luxury-real-est]] · [[2026-06-16-business-insider-2026-06-16-external-introducing-cannes-diar]]
 <!-- graph:end -->

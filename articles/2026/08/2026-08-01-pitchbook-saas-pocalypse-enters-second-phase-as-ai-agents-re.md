@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a
 - 2026-08-07-saas-companies-race-to-reinvent-as-ai-agents-replace-softwar
 - 2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers
-- 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
+- 2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d
 embedding_id: 2026-08-01-pitchbook-saas-pocalypse-enters-second-phase-as-ai-agents-re
 event_name: ''
 ---
@@ -38,5 +38,5 @@ PitchBook says SaaS disruption is moving from AI copilots augmenting users to ag
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-01-pitchbook-says-the-saas-pocalypse-is-entering-its-second-pha]] · [[2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a]] · [[2026-08-07-saas-companies-race-to-reinvent-as-ai-agents-replace-softwar]] · [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]]
+**Related:** [[2026-08-01-pitchbook-says-the-saas-pocalypse-is-entering-its-second-pha]] · [[2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a]] · [[2026-08-07-saas-companies-race-to-reinvent-as-ai-agents-replace-softwar]] · [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]] · [[2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d]]
 <!-- graph:end -->

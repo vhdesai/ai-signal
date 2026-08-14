@@ -24,7 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-10-anthropic-closing-50b-round-at-900b-valuation-final-private
-- 2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open
+- 2026-08-13-anthropic-reportedly-weighing-2t-valuation-for-october-ipo
 embedding_id: 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI is leaning toward pushing its listing to 2027 — easing off a possible Q
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-10-anthropic-closing-50b-round-at-900b-valuation-final-private]] · [[2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open]]
+**Related:** [[2026-05-10-anthropic-closing-50b-round-at-900b-valuation-final-private]] · [[2026-08-13-anthropic-reportedly-weighing-2t-valuation-for-october-ipo]]
 <!-- graph:end -->

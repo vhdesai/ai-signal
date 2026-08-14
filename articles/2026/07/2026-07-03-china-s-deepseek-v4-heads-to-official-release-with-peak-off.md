@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-01-deepseek-introduces-peak-hour-surge-pricing-on-its-v4-api
 - 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
+- 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
 - 2026-05-27-tencent-cloud-begins-paid-commercial-services-for-hy3-previe
-- 2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l
 embedding_id: 2026-07-03-china-s-deepseek-v4-heads-to-official-release-with-peak-off
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Tencent Cloud will carry DeepSeek's "factory-direct" V4 model on its TokenHub ma
 
 **Entities:** [[DeepSeek]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-01-deepseek-introduces-peak-hour-surge-pricing-on-its-v4-api]] · [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]] · [[2026-05-27-tencent-cloud-begins-paid-commercial-services-for-hy3-previe]] · [[2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l]]
+**Related:** [[2026-07-01-deepseek-introduces-peak-hour-surge-pricing-on-its-v4-api]] · [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]] · [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c]] · [[2026-05-27-tencent-cloud-begins-paid-commercial-services-for-hy3-previe]]
 <!-- graph:end -->

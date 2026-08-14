@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-24-deepseek-v4-enters-preview-with-1m-context-pro-and-flash-var
 - 2026-04-24-deepseek-v4-in-preview-with-1m-context-window
-- 2026-07-31-deepseek-ships-deepseek-v4-flash-0731-with-major-agentic-and
-- 2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model
-- 2026-04-24-deepseek-v4-launches-with-1m-context-window-and-open-weights
+- 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context
+- 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
+- 2026-08-13-deepseek-releases-v4-pro-with-1m-token-context-at-commodity
 embedding_id: 2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas
 event_name: ''
 ---
@@ -39,5 +39,5 @@ DeepSeek unveiled V4 Pro, a 1.6T-parameter mixture-of-experts model, and V4 Flas
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-24-deepseek-v4-enters-preview-with-1m-context-pro-and-flash-var]] · [[2026-04-24-deepseek-v4-in-preview-with-1m-context-window]] · [[2026-07-31-deepseek-ships-deepseek-v4-flash-0731-with-major-agentic-and]] · [[2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model]] · [[2026-04-24-deepseek-v4-launches-with-1m-context-window-and-open-weights]]
+**Related:** [[2026-04-24-deepseek-v4-enters-preview-with-1m-context-pro-and-flash-var]] · [[2026-04-24-deepseek-v4-in-preview-with-1m-context-window]] · [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context]] · [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c]] · [[2026-08-13-deepseek-releases-v4-pro-with-1m-token-context-at-commodity]]
 <!-- graph:end -->

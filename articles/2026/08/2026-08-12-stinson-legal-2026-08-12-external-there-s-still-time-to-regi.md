@@ -1,6 +1,6 @@
 ---
 article_id: 2026-08-12-stinson-legal-2026-08-12-external-there-s-still-time-to-regi
-title: 'Stinson (Legal) - [2026-08-12] [EXTERNAL] There\''s Still Time To Register:
+title: 'Stinson (Legal) - [2026-08-12] [EXTERNAL] There''s Still Time To Register:
   AI Vendor Contracting: Turning AI Risk…'
 date: '2026-08-12'
 source: Daily AI News Digest
@@ -8,7 +8,7 @@ url_original: null
 url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-08-12_000000_Publication-Sources.md
-content_hash: 30ce22dc8821ab3b6334af56c25e97df4c4e02fde8d12cf9b948d5ca7ed37db2
+content_hash: 47db1e324526d7e958af1824fa56741c6180be7bb75f239f200e372d04a1d702
 normalized_title_hash: f6e9e335d59c8929
 canonical_url_hash: ''
 tags: []
@@ -27,9 +27,9 @@ embedding_id: 2026-08-12-stinson-legal-2026-08-12-external-there-s-still-time-to
 event_name: ''
 ---
 
-# Stinson (Legal) - [2026-08-12] [EXTERNAL] There\'s Still Time To Register: AI Vendor Contracting: Turning AI Risk…
+# Stinson (Legal) - [2026-08-12] [EXTERNAL] There's Still Time To Register: AI Vendor Contracting: Turning AI Risk…
 
-Stinson (Legal) - [2026-08-12] [EXTERNAL] There\'s Still Time To Register: AI Vendor Contracting: Turning AI Risk Management Into a Competitive Advantage
+Stinson (Legal) - [2026-08-12] [EXTERNAL] There's Still Time To Register: AI Vendor Contracting: Turning AI Risk Management Into a Competitive Advantage
 
 <!-- graph:start -->
 ## Connections

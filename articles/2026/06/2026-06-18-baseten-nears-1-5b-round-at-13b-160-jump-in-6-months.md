@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains
 - 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
+- 2026-08-12-code-testing-startup-blacksmith-s-valuation-jumps-almost-10x
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-- 2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in
 embedding_id: 2026-06-18-baseten-nears-1-5b-round-at-13b-160-jump-in-6-months
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Third raise in a year. Customers include Cursor, Mercor, OpenEvidence. Reflects 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]]
+**Related:** [[2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-08-12-code-testing-startup-blacksmith-s-valuation-jumps-almost-10x]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
 <!-- graph:end -->
