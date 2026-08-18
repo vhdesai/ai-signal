@@ -23,10 +23,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-14-openai-cro-dresser-departs-after-8-months-replaced-by-former
 - 2026-08-13-openai-replaces-cro-after-nine-months-hires-wiz-coo-dali-raj
-- 2026-06-18-noam-shazeer-leaves-google-gemini-for-openai
-- 2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d
-- 2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o
+- 2026-08-14-openai-nears-ipo-at-a-40b-run-rate-amid-continued-executive
 embedding_id: 2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by
 event_name: ''
 ---
@@ -40,5 +39,5 @@ OpenAI CRO Denise Dresser is leaving after just eight months. Her replacement is
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-13-openai-replaces-cro-after-nine-months-hires-wiz-coo-dali-raj]] · [[2026-06-18-noam-shazeer-leaves-google-gemini-for-openai]] · [[2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d]] · [[2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o]]
+**Related:** [[2026-08-14-openai-cro-dresser-departs-after-8-months-replaced-by-former]] · [[2026-08-13-openai-replaces-cro-after-nine-months-hires-wiz-coo-dali-raj]] · [[2026-08-14-openai-nears-ipo-at-a-40b-run-rate-amid-continued-executive]]
 <!-- graph:end -->

@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
+- 2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne
 - 2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n
 - 2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon
 - 2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn
@@ -38,5 +39,5 @@ CME Group announced an October launch for two exchange-traded GPU futures contra
 
 **Entities:** [[Cerebras]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n]] · [[2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon]] · [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]]
+**Related:** [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne]] · [[2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n]] · [[2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon]] · [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]]
 <!-- graph:end -->

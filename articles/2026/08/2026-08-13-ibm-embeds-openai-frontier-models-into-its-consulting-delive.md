@@ -20,7 +20,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-13-ibm-embeds-openai-frontier-models-across-its-consulting-deli
+canonical_article_id: 2026-08-13-ibm-embeds-openai-frontier-models-across-consulting-delivery
 related_article_ids: []
 embedding_id: 2026-08-13-ibm-embeds-openai-frontier-models-into-its-consulting-delive
 event_name: ''
@@ -35,5 +35,5 @@ IBM announced a partnership embedding OpenAI's frontier models — including GPT
 
 **Entities:** [[IBM]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-08-13-ibm-embeds-openai-frontier-models-across-its-consulting-deli]]
+**Canonical:** [[2026-08-13-ibm-embeds-openai-frontier-models-across-consulting-delivery]]
 <!-- graph:end -->

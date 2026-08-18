@@ -21,11 +21,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-23-sensetime-the-us-sanctioned-hong-kong-ai-firm-is-repositioni
 - 2026-05-14-arxiv-senses-wide-shut-representation-action-gap-in-omnimoda
 - 2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe
 - 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
-- 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
 embedding_id: 2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite
 event_name: ''
 ---
@@ -38,5 +38,5 @@ SenseTime and Light-AI released SenseNova-U1, a natively unified multimodal mode
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-14-arxiv-senses-wide-shut-representation-action-gap-in-omnimoda]] · [[2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]]
+**Related:** [[2026-05-23-sensetime-the-us-sanctioned-hong-kong-ai-firm-is-repositioni]] · [[2026-05-14-arxiv-senses-wide-shut-representation-action-gap-in-omnimoda]] · [[2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]]
 <!-- graph:end -->

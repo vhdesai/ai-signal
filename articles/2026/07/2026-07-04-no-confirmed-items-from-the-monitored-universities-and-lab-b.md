@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university
 - 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
+- 2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo
 - 2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours
-- 2026-05-27-limited-new-university-announcements-within-the-strict-24-ho
 embedding_id: 2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b
 event_name: ''
 ---
@@ -38,5 +38,5 @@ No confirmed items from the monitored universities and lab blogs (Berkeley/BAIR,
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university]] · [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours]] · [[2026-05-27-limited-new-university-announcements-within-the-strict-24-ho]]
+**Related:** [[2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university]] · [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours]]
 <!-- graph:end -->

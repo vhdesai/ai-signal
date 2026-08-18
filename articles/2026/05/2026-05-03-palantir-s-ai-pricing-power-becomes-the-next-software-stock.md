@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump
+- 2026-08-15-palantir-in-focus-as-ai-software-demand-and-guidance-climb
 - 2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments
 - 2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges
 - 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
-- 2026-08-01-palantir-earnings-framed-as-a-bellwether-for-the-real-shape
 embedding_id: 2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Ahead of Palantir's earnings, Laura Bratton argues the company is better positio
 
 **Entities:** [[Palantir]] · [[Salesforce]] · [[SAP]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump]] · [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments]] · [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges]] · [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]] · [[2026-08-01-palantir-earnings-framed-as-a-bellwether-for-the-real-shape]]
+**Related:** [[2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump]] · [[2026-08-15-palantir-in-focus-as-ai-software-demand-and-guidance-climb]] · [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments]] · [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges]] · [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]]
 <!-- graph:end -->

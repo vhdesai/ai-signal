@@ -21,8 +21,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-17-nous-research-ships-bot-mode-for-its-hermes-agent
 - 2026-06-20-nous-research-updates-hermes-agent-with-blank-slate-mode
-- 2026-05-10-nous-research-hermes-agent-claims-1-spot-on-openrouter-toppi
 embedding_id: 2026-07-31-nous-research-ships-hermes-agent-integration-for-block-s-ope
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Nous Research released Hermes Agent support for Buzz, Block's Apache-2.0, self-h
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-20-nous-research-updates-hermes-agent-with-blank-slate-mode]] · [[2026-05-10-nous-research-hermes-agent-claims-1-spot-on-openrouter-toppi]]
+**Related:** [[2026-08-17-nous-research-ships-bot-mode-for-its-hermes-agent]] · [[2026-06-20-nous-research-updates-hermes-agent-with-blank-slate-mode]]
 <!-- graph:end -->

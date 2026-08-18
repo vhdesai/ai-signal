@@ -18,8 +18,8 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits
 related_article_ids:
 - 2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
@@ -37,5 +37,6 @@ Gains on investments in companies like Anthropic are inflating earnings at some 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]]
+**Canonical:** [[2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits]]
 **Related:** [[2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope]]
 <!-- graph:end -->

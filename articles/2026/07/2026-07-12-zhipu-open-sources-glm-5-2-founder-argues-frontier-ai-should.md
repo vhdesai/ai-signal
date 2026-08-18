@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo
 - 2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two
 - 2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed
+- 2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie
 - 2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model
 embedding_id: 2026-07-12-zhipu-open-sources-glm-5-2-founder-argues-frontier-ai-should
 event_name: ''
@@ -38,5 +39,5 @@ Zhipu founder Tang Jie wrote that frontier AI should remain openly accessible, r
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo]] · [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two]] · [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed]] · [[2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model]]
+**Related:** [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo]] · [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two]] · [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed]] · [[2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie]] · [[2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model]]
 <!-- graph:end -->

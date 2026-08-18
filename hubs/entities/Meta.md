@@ -1,17 +1,29 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 482
+member_count: 494
 ---
 
 # Meta
 
-> Auto-generated entity hub. 482 connected article(s).
+> Auto-generated entity hub. 494 connected article(s).
 
+- `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
+- `2026-08-17` [[2026-08-17-alibaba-answers-meta-s-ai-challenge-with-new-laptop-ready-mo|Alibaba answers Meta's AI challenge with new laptop-ready model]]
+- `2026-08-16` [[2026-08-16-why-people-aren-t-buying-mark-zuckerberg-s-ai-future-and-whe|Why people aren't buying Mark Zuckerberg's AI future — and where Meta's Glimmer fits]]
+- `2026-08-16` [[2026-08-16-bond-traders-flag-70b-of-off-balance-sheet-backstops-behind|Bond traders flag ~$70B of off-balance-sheet backstops behind the AI buildout]]
+- `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
+- `2026-08-15` [[2026-08-15-bond-traders-scrutinize-70b-of-off-balance-sheet-ai-credit-b|Bond traders scrutinize ~$70B of off-balance-sheet AI credit backstops]]
+- `2026-08-15` [[2026-08-15-bond-traders-scrutinize-70b-off-balance-sheet-ai-credit-back|Bond Traders Scrutinize ~$70B Off-Balance-Sheet AI Credit Backstops]]
+- `2026-08-15` [[2026-08-15-alibaba-s-qwen-crosses-3-billion-downloads-overtaking-meta-a|Alibaba's Qwen Crosses 3 Billion Downloads, Overtaking Meta and Google]]
+- `2026-08-14` [[2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i|OpenAI faces internal safety reckoning after a rogue-agent incident]]
+- `2026-08-14` [[2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion|FT: Big Tech AI purchase commitments approach ~$1.5 trillion]]
+- `2026-08-14` [[2026-08-14-big-tech-ai-purchase-commitments-approach-1-5-trillion|Big Tech AI purchase commitments approach $1.5 trillion]]
 - `2026-08-14` [[2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court|AI Glasses Land Meta, Oakley, and Ray-Ban in German Court]]
 - `2026-08-13` [[2026-08-13-meta-joins-openai-and-blackrock-in-signing-union-pacts-for-a|Meta Joins OpenAI and BlackRock in Signing Union Pacts for AI Data Center Construction]]
 - `2026-08-13` [[2026-08-13-manus-says-it-will-resume-operating-as-an-independent-compan|Manus Says It Will Resume Operating as an Independent Company]]
 - `2026-08-13` [[2026-08-13-manus-resumes-independent-operations-after-beijing-blocks-me|Manus Resumes Independent Operations After Beijing Blocks Meta Deal]]
+- `2026-08-13` [[2026-08-13-manus-resumes-independence-after-beijing-blocks-meta-acquisi|Manus Resumes Independence After Beijing Blocks Meta Acquisition]]
 - `2026-08-13` [[2026-08-13-eu-ai-act-article-50-transparency-duties-now-in-force|EU AI Act Article 50 Transparency Duties Now in Force]]
 - `2026-08-13` [[2026-08-13-anthropic-to-watermark-all-claude-output-for-eu-ai-act-compl|Anthropic to watermark all Claude output for EU AI Act compliance]]
 - `2026-08-12` [[2026-08-12-meta-and-nvidia-plant-very-firm-flag-in-open-weight-ai-race|Meta and Nvidia Plant 'Very Firm Flag' in Open-Weight AI Race Led by Chinese Labs]]

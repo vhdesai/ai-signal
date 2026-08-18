@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of
+- 2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok
+- 2026-08-15-new-plaintiff-joins-federal-class-action-over-grok-generated
 - 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
 - 2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake
-- 2026-07-28-uk-mp-seeks-a-high-court-order-compelling-xai-to-add-permane
 embedding_id: 2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Potts Law Firm announced a third civil lawsuit against xAI, the company behind G
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of]] · [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law]] · [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]] · [[2026-07-28-uk-mp-seeks-a-high-court-order-compelling-xai-to-add-permane]]
+**Related:** [[2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of]] · [[2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok]] · [[2026-08-15-new-plaintiff-joins-federal-class-action-over-grok-generated]] · [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law]] · [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]]
 <!-- graph:end -->

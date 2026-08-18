@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-28-deepseek-released-dspark-an-open-source-speculative-decoding
 - 2026-06-27-deepseek-open-sources-dspark-accelerating-v4-inference-60-85
 - 2026-06-29-deepseek-open-sources-dspark-claiming-up-to-85-faster-llm-in
-- 2026-08-13-daily-ai-news-digest-august-14-2026
+- 2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on
 embedding_id: 2026-06-30-deepseek-released-dspark-an-mit-licensed-speculative-decodin
 event_name: ''
 ---
@@ -41,5 +41,5 @@ DeepSeek released DSpark, an MIT-licensed speculative-decoding system that uses 
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-28-deepseek-released-dspark-an-open-source-speculative-decoding]] · [[2026-06-27-deepseek-open-sources-dspark-accelerating-v4-inference-60-85]] · [[2026-06-29-deepseek-open-sources-dspark-claiming-up-to-85-faster-llm-in]] · [[2026-08-13-daily-ai-news-digest-august-14-2026]]
+**Related:** [[2026-06-28-deepseek-released-dspark-an-open-source-speculative-decoding]] · [[2026-06-27-deepseek-open-sources-dspark-accelerating-v4-inference-60-85]] · [[2026-06-29-deepseek-open-sources-dspark-claiming-up-to-85-faster-llm-in]] · [[2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on]]
 <!-- graph:end -->

@@ -22,7 +22,7 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-08-13-google-launches-gemini-3-7-flash-at-half-the-price-of-3-6-fl
+canonical_article_id: 2026-08-13-gemini-3-7-flash-at-half-the-price-of-3-6-flash
 related_article_ids: []
 embedding_id: 2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl
 event_name: ''
@@ -37,5 +37,5 @@ Gemini 3.7 Flash shipped three weeks after 3.6 Flash, with a 1M-token context wi
 
 **Entities:** [[DeepSeek]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Canonical:** [[2026-08-13-google-launches-gemini-3-7-flash-at-half-the-price-of-3-6-fl]]
+**Canonical:** [[2026-08-13-gemini-3-7-flash-at-half-the-price-of-3-6-flash]]
 <!-- graph:end -->

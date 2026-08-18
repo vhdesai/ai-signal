@@ -21,13 +21,13 @@ themes:
 - datacenter-infrastructure
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-08-13-vantage-data-centers-explores-ipo-at-100b
 related_article_ids:
 - 2026-08-13-vantage-data-centers-explores-ipo-at-roughly-100b-valuation
+- 2026-08-13-vantage-data-centers-explores-ipo-or-sale-at-a-100b-valuatio
 - 2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex
 - 2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation
-- 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 embedding_id: 2026-08-13-vantage-data-centers-explores-ipo-at-100b-valuation
 event_name: ''
 ---
@@ -41,5 +41,6 @@ Silver Lake- and DigitalBridge-backed Vantage is exploring an IPO at ~$100B that
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-13-vantage-data-centers-explores-ipo-at-roughly-100b-valuation]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]]
+**Canonical:** [[2026-08-13-vantage-data-centers-explores-ipo-at-100b]]
+**Related:** [[2026-08-13-vantage-data-centers-explores-ipo-at-roughly-100b-valuation]] · [[2026-08-13-vantage-data-centers-explores-ipo-or-sale-at-a-100b-valuatio]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation]]
 <!-- graph:end -->

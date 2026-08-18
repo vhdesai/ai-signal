@@ -21,8 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le
+- 2026-08-14-z-ai-glm-5-3-reportedly-found-a-serious-vulnerability-in-cur
+- 2026-08-14-spacex-completes-60b-all-stock-acquisition-of-cursor-maker-a
 - 2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows
-- 2026-05-10-cursor-3-0-parallel-agent-coding-ide
 embedding_id: 2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Cursor (Anysphere) patched a high-severity Windows vulnerability that let malici
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le]] · [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]]
+**Related:** [[2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le]] · [[2026-08-14-z-ai-glm-5-3-reportedly-found-a-serious-vulnerability-in-cur]] · [[2026-08-14-spacex-completes-60b-all-stock-acquisition-of-cursor-maker-a]] · [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]]
 <!-- graph:end -->

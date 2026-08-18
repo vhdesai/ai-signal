@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b
 - 2026-08-13-anthropic-in-talks-to-acquire-israeli-startup-decart-for-abo
 - 2026-07-14-video-generation-startup-pixverse-raises-439m-at-a-2b-valuat
+- 2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren
 embedding_id: 2026-05-18-decart-raises-300m-at-4b-valuation-for-real-time-generative
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Decart, developer of real-time generative video and GPU optimization technology,
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference]] · [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b]] · [[2026-08-13-anthropic-in-talks-to-acquire-israeli-startup-decart-for-abo]] · [[2026-07-14-video-generation-startup-pixverse-raises-439m-at-a-2b-valuat]]
+**Related:** [[2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference]] · [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b]] · [[2026-08-13-anthropic-in-talks-to-acquire-israeli-startup-decart-for-abo]] · [[2026-07-14-video-generation-startup-pixverse-raises-439m-at-a-2b-valuat]] · [[2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren]]
 <!-- graph:end -->

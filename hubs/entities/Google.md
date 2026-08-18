@@ -1,24 +1,52 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 911
+member_count: 939
 ---
 
 # Google
 
-> Auto-generated entity hub. 911 connected article(s).
+> Auto-generated entity hub. 939 connected article(s).
 
+- `2026-08-18` [[2026-08-18-google-wins-bankruptcy-auction-for-spirit-airlines-internal|Google wins bankruptcy auction for Spirit Airlines' internal data at $10M]]
+- `2026-08-18` [[2026-08-18-google-wins-spirit-airlines-bankrupt-data-estate-for-10m|Google Wins Spirit Airlines’ Bankrupt Data Estate for $10M]]
+- `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
+- `2026-08-17` [[2026-08-17-daily-ai-news-digest-august-18-2026|Daily AI News Digest – August 18, 2026]]
+- `2026-08-17` [[2026-08-17-ai-automation-startup-relay-shuts-down-team-joins-google-s-c|AI automation startup Relay shuts down; team joins Google’s Chrome org]]
+- `2026-08-17` [[2026-08-17-ai-automation-startup-relay-shuts-down-staff-join-google-s-c|AI automation startup Relay shuts down; staff join Google's Chrome team]]
+- `2026-08-16` [[2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp|Report: Google taps AMD to help design its next-generation TPU]]
+- `2026-08-15` [[2026-08-15-jeff-dean-leaving-google-after-27-years-to-co-found-discover|Jeff Dean Leaving Google After 27 Years to Co-Found “Discovery Loop”]]
+- `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
+- `2026-08-15` [[2026-08-15-alibaba-s-qwen-crosses-3-billion-downloads-overtaking-meta-a|Alibaba's Qwen Crosses 3 Billion Downloads, Overtaking Meta and Google]]
 - `2026-08-14` [[2026-08-14-z-ai-ships-glm-5-3-all-gains-from-post-training-no-new-base|Z.ai Ships GLM-5.3 — All Gains From Post-Training, No New Base Model]]
+- `2026-08-14` [[2026-08-14-z-ai-glm-5-3-all-gains-from-post-training-no-new-base|Z.ai GLM-5.3 — All Gains From Post-Training, No New Base]]
+- `2026-08-14` [[2026-08-14-ukraine-says-nvidia-chip-found-in-russian-cruise-missile|Ukraine Says Nvidia Chip Found in Russian Cruise Missile]]
+- `2026-08-14` [[2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i|OpenAI faces internal safety reckoning after a rogue-agent incident]]
+- `2026-08-14` [[2026-08-14-openai-cro-dresser-departs-after-8-months-replaced-by-former|OpenAI CRO Dresser Departs After 8 Months; Replaced by Former Wiz COO]]
 - `2026-08-14` [[2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by|OpenAI CRO Denise Dresser Departs After 8 Months; Replaced by Former Wiz COO]]
+- `2026-08-14` [[2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne|Nvidia $500B Financing Draws Scrutiny; Big Tech Commitments Near $1.5T]]
+- `2026-08-14` [[2026-08-14-heir-s-research-base-spans-georgia-tech-carnegie-mellon-purd|HEIR's research base spans Georgia Tech, Carnegie Mellon, Purdue and UC Santa Barbara]]
+- `2026-08-14` [[2026-08-14-google-open-sources-heir-a-compiler-that-runs-ai-inference-o|Google open-sources HEIR, a compiler that runs AI inference on encrypted data]]
+- `2026-08-14` [[2026-08-14-google-open-sources-heir-a-compiler-for-running-inference-on|Google open-sources HEIR, a compiler for running inference on encrypted data]]
+- `2026-08-14` [[2026-08-14-google-open-sources-heir-a-compiler-for-inference-on-encrypt|Google open-sources HEIR, a compiler for inference on encrypted data]]
+- `2026-08-14` [[2026-08-14-google-launches-gemini-3-7-flash-with-halved-intro-pricing|Google launches Gemini 3.7 Flash with halved intro pricing]]
+- `2026-08-14` [[2026-08-14-google-open-sources-heir-inference-on-encrypted-data|Google Open-Sources HEIR: Inference on Encrypted Data]]
+- `2026-08-14` [[2026-08-14-gemini-3-7-flash-rolls-into-google-search-ai-mode|Gemini 3.7 Flash Rolls Into Google Search AI Mode]]
+- `2026-08-14` [[2026-08-14-daily-ai-news-digest-august-15-2026|Daily AI News Digest – August 15, 2026]]
+- `2026-08-14` [[2026-08-14-anthropic-details-how-claude-s-text-watermarking-works-under|Anthropic details how Claude's text watermarking works under the EU AI Act]]
+- `2026-08-14` [[2026-08-14-anthropic-details-claude-text-watermarking-under-eu-ai-act|Anthropic Details Claude Text Watermarking Under EU AI Act]]
 - `2026-08-13` [[2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body|WSJ reports DeepMind's Hassabis pitched an AI-oversight body before a governance shake-up]]
 - `2026-08-13` [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread|OpenAI and Anthropic Data Demand Turns Startups’ Slack Threads Into Prized Assets]]
 - `2026-08-13` [[2026-08-13-jeff-dean-s-discovery-loop-startup-raising-at-11-figure-valu|Jeff Dean’s Discovery Loop Startup Raising at 11-Figure Valuation]]
+- `2026-08-13` [[2026-08-13-google-ships-gemini-3-7-flash-with-a-50-introductory-price-c|Google ships Gemini 3.7 Flash with a 50% introductory price cut, targeting coding and agents]]
 - `2026-08-13` [[2026-08-13-google-launches-gemini-3-7-flash-at-half-the-price-of-3-6-fl|Google launches Gemini 3.7 Flash at half the price of 3.6 Flash]]
+- `2026-08-13` [[2026-08-13-google-announces-gemini-3-7-flash-three-weeks-after-its-prev|Google announces Gemini 3.7 Flash three weeks after its previous release]]
 - `2026-08-13` [[2026-08-13-google-tightens-control-over-deepmind-as-gemini-faces-compet|Google Tightens Control Over DeepMind as Gemini Faces Competitive Pressure]]
 - `2026-08-13` [[2026-08-13-google-releases-gemini-3-7-flash-to-general-availability|Google Releases Gemini 3.7 Flash to General Availability]]
 - `2026-08-13` [[2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl|Google Releases Gemini 3.7 Flash at Half the Price of 3.6 Flash]]
 - `2026-08-13` [[2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model|Google Releases Gemini 3.7 Flash as a Coding and Agent Model at $0.75/1M Input Tokens]]
 - `2026-08-13` [[2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-then-raises-ap|DeepSeek Ships V4-Pro and Open-Source “Harness” — Then Raises API Prices]]
+- `2026-08-13` [[2026-08-13-deepseek-ships-v4-pro-open-source-harness-then-raises-prices|DeepSeek Ships V4-Pro + Open-Source “Harness” — Then Raises Prices]]
 - `2026-08-12` [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred|Researchers Recover “Encrypted” Reasoning Traces — and Live Credentials — From Major LLM APIs]]
 - `2026-08-12` [[2026-08-12-made-by-google-2026-pixel-11-lineup-and-pixel-watch-5-with-p|Made by Google 2026: Pixel 11 lineup and Pixel Watch 5 with proactive Gemini]]
 - `2026-08-12` [[2026-08-12-made-by-google-2026-pixel-11-with-proactive-gemini-sl2t-sign|Made by Google 2026: Pixel 11 With Proactive Gemini; SL2T Sign-Language Ships]]

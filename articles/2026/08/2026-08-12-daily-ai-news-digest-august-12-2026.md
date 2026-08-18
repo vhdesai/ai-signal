@@ -25,8 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-05-daily-ai-news-digest-august-6-2026
 - 2026-08-12-daily-ai-news-digest-august-13-2026
+- 2026-08-17-daily-ai-news-digest-august-18-2026
+- 2026-08-14-daily-ai-news-digest-august-15-2026
 - 2026-08-11-daily-ai-news-digest-august-11-2026
-- 2026-05-16-today-s-digest-spans-a-particularly-active-24-hour-window-in
 embedding_id: 2026-08-12-daily-ai-news-digest-august-12-2026
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Three threads run through the last 24 hours. First, leadership and scale at Goog
 
 **Entities:** [[Anthropic]] · [[Google]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-05-daily-ai-news-digest-august-6-2026]] · [[2026-08-12-daily-ai-news-digest-august-13-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-05-16-today-s-digest-spans-a-particularly-active-24-hour-window-in]]
+**Related:** [[2026-08-05-daily-ai-news-digest-august-6-2026]] · [[2026-08-12-daily-ai-news-digest-august-13-2026]] · [[2026-08-17-daily-ai-news-digest-august-18-2026]] · [[2026-08-14-daily-ai-news-digest-august-15-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]]
 <!-- graph:end -->

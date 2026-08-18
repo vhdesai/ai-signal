@@ -20,9 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-16-stripe-to-acquire-ai-gateway-startup-openrouter-for-more-tha
 - 2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing
+- 2026-08-16-stripe-will-reportedly-acquire-ai-gateway-startup-openrouter
 - 2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le
-- 2026-05-27-openrouter-cements-its-position-as-the-dominant-multi-model
 embedding_id: 2026-08-07-stripe-in-exclusive-talks-to-buy-openrouter-for-around-10-bi
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Stripe is in exclusive negotiations to acquire OpenRouter, the AI model routing 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing]] · [[2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le]] · [[2026-05-27-openrouter-cements-its-position-as-the-dominant-multi-model]]
+**Related:** [[2026-08-16-stripe-to-acquire-ai-gateway-startup-openrouter-for-more-tha]] · [[2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing]] · [[2026-08-16-stripe-will-reportedly-acquire-ai-gateway-startup-openrouter]] · [[2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le]]
 <!-- graph:end -->

@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 71
+member_count: 75
 ---
 
 # Intel
 
-> Auto-generated entity hub. 71 connected article(s).
+> Auto-generated entity hub. 75 connected article(s).
 
+- `2026-08-17` [[2026-08-17-goldman-and-intel-back-5-4bn-ai-video-startup-higgsfield|Goldman and Intel back $5.4bn AI video startup Higgsfield]]
+- `2026-08-14` [[2026-08-14-nvidia-s-13f-reveals-a-21b-spacex-stake-and-30b-intel-positi|Nvidia's 13F reveals a $21B SpaceX stake and $30B Intel position]]
+- `2026-08-14` [[2026-08-14-nvidia-s-13f-reveals-21b-spacex-and-30b-intel-equity-positio|Nvidia's 13F reveals $21B SpaceX and $30B Intel equity positions]]
+- `2026-08-14` [[2026-08-14-nvidia-13f-reveals-21b-spacex-and-30b-intel-positions|Nvidia 13F Reveals $21B SpaceX and $30B Intel Positions]]
 - `2026-08-14` [[2026-08-14-china-s-cxmt-nears-intel-s-market-cap-rivaling-world-s-most|China's CXMT Nears Intel's Market Cap, Rivaling World's Most Valuable Chipmakers]]
 - `2026-08-13` [[2026-08-13-community-labs-launches-cascadia-open-source-distributed-inf|Community Labs launches Cascadia, open-source distributed inference for Intel hardware]]
 - `2026-08-13` [[2026-08-13-cascadia-launches-open-source-distributed-inference-for-inte|Cascadia Launches Open-Source Distributed Inference for Intel Hardware]]

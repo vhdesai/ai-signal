@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
 - 2026-05-13-sap-unveils-enterprise-ai-platform-deepens-anthropic-ties
 - 2026-05-05-ibm-watsonx-orchestrate-unified-ai-agent-management
-- 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
+- 2026-08-13-ibm-embeds-openai-models-across-its-consulting-delivery-plat
 embedding_id: 2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform
 event_name: ''
 ---
@@ -40,5 +40,5 @@ IBM Consulting announced what it calls the industry's first enterprise-scale age
 
 **Entities:** [[Amazon]] · [[Google]] · [[IBM]] · [[Intel]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-05-13-sap-unveils-enterprise-ai-platform-deepens-anthropic-ties]] · [[2026-05-05-ibm-watsonx-orchestrate-unified-ai-agent-management]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]]
+**Related:** [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-05-13-sap-unveils-enterprise-ai-platform-deepens-anthropic-ties]] · [[2026-05-05-ibm-watsonx-orchestrate-unified-ai-agent-management]] · [[2026-08-13-ibm-embeds-openai-models-across-its-consulting-delivery-plat]]
 <!-- graph:end -->

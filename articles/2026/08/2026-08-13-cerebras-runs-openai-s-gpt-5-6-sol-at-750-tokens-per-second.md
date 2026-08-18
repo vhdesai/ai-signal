@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-13-openai-previews-ultrafast-tier-gpt-5-6-sol-at-750-tokens-sec
 - 2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-sec-in-new
+- 2026-08-13-openai-ultrafast-gpt-5-6-sol-at-750-tok-s-on-cerebras
 - 2026-08-13-openai-previews-ultrafast-tier-gpt-5-6-sol-at-750-tokens-per
-- 2026-08-13-openai-launches-ultrafast-mode-gpt-5-6-sol-at-14x-speed-via
-- 2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon
+- 2026-08-14-openai-introduces-ultrafast-tier-for-gpt-5-6-sol-powered-by
 embedding_id: 2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-per-second
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Cerebras is serving OpenAI's GPT-5.6 Sol at roughly 750 tokens per second in a n
 
 **Entities:** [[Cerebras]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-13-openai-previews-ultrafast-tier-gpt-5-6-sol-at-750-tokens-sec]] · [[2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-sec-in-new]] · [[2026-08-13-openai-previews-ultrafast-tier-gpt-5-6-sol-at-750-tokens-per]] · [[2026-08-13-openai-launches-ultrafast-mode-gpt-5-6-sol-at-14x-speed-via]] · [[2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon]]
+**Related:** [[2026-08-13-openai-previews-ultrafast-tier-gpt-5-6-sol-at-750-tokens-sec]] · [[2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-sec-in-new]] · [[2026-08-13-openai-ultrafast-gpt-5-6-sol-at-750-tok-s-on-cerebras]] · [[2026-08-13-openai-previews-ultrafast-tier-gpt-5-6-sol-at-750-tokens-per]] · [[2026-08-14-openai-introduces-ultrafast-tier-for-gpt-5-6-sol-powered-by]]
 <!-- graph:end -->

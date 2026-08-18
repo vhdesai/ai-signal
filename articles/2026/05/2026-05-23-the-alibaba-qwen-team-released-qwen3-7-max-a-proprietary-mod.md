@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
 - 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
-- 2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age
+- 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
 embedding_id: 2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Alibaba Qwen team released Qwen3.7-Max, a proprietary model built for long-r
 
 **Entities:** [[Alibaba]] · [[DeepSeek]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]] · [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age]]
+**Related:** [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]]
 <!-- graph:end -->

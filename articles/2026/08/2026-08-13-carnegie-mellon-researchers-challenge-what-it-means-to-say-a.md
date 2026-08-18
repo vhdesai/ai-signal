@@ -27,10 +27,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-13-cmu-researchers-challenge-what-it-means-to-say-ai-thinks
 - 2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed
 - 2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
 embedding_id: 2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Published in IEEE Annals of the History of Computing, CMU’s Christopher Philli
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[DeepSeek]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]] · [[2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]]
+**Related:** [[2026-08-13-cmu-researchers-challenge-what-it-means-to-say-ai-thinks]] · [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]] · [[2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
 <!-- graph:end -->

@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code
 - 2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two
 - 2026-07-02-z-ai-launches-zcode-a-free-glm-5-2-coding-ide-to-challenge-c
-- 2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on
-- 2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western
+- 2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie
+- 2026-08-14-z-ai-ships-glm-5-3-with-long-horizon-coding-and-frontier-cyb
 embedding_id: 2026-04-03-zhipu-ai-s-glm-5v-turbo-a-multimodal-model-converting-design
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Zhipu AI's GLM-5V-Turbo — A multimodal model converting design mockups directl
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code]] · [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two]] · [[2026-07-02-z-ai-launches-zcode-a-free-glm-5-2-coding-ide-to-challenge-c]] · [[2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on]] · [[2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western]]
+**Related:** [[2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code]] · [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two]] · [[2026-07-02-z-ai-launches-zcode-a-free-glm-5-2-coding-ide-to-challenge-c]] · [[2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie]] · [[2026-08-14-z-ai-ships-glm-5-3-with-long-horizon-coding-and-frontier-cyb]]
 <!-- graph:end -->

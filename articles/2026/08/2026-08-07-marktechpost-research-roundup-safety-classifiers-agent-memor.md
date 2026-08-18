@@ -45,7 +45,7 @@ related_article_ids:
 - 2026-08-08-mistral-releases-shieldstral-1-0-3b-safety-classifier
 - 2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking
 - 2026-08-04-mistral-releases-shieldstral-a-3b-open-weights-policy-adapti
-- 2026-08-07-mistral-releases-shieldstral-1-0-a-3b-safety-classifier-matc
+- 2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu
 embedding_id: 2026-08-07-marktechpost-research-roundup-safety-classifiers-agent-memor
 event_name: ''
 ---
@@ -59,5 +59,5 @@ MarkTechPost’s August 7 coverage highlighted Mistral’s Shieldstral 1.0 3B, a
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-07-mistral-ai-releases-shieldstral-1-0-an-open-weights-3b-multi]] · [[2026-08-08-mistral-releases-shieldstral-1-0-3b-safety-classifier]] · [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking]] · [[2026-08-04-mistral-releases-shieldstral-a-3b-open-weights-policy-adapti]] · [[2026-08-07-mistral-releases-shieldstral-1-0-a-3b-safety-classifier-matc]]
+**Related:** [[2026-08-07-mistral-ai-releases-shieldstral-1-0-an-open-weights-3b-multi]] · [[2026-08-08-mistral-releases-shieldstral-1-0-3b-safety-classifier]] · [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking]] · [[2026-08-04-mistral-releases-shieldstral-a-3b-open-weights-policy-adapti]] · [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu]]
 <!-- graph:end -->

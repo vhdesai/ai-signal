@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co
 - 2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit
 - 2026-04-01-github-has-announced-that-starting-april-24-copilot-interact
-- 2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a
-- 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
+- 2026-08-17-copilot-autofix-introduced-shell-injection-in-snowflake-s-ci
+- 2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn
 embedding_id: 2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou
 event_name: ''
 ---
@@ -33,5 +33,5 @@ A GitHub PR documents VS Code inserting "Co-Authored-by Copilot" trailers into c
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]] · [[2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit]] · [[2026-04-01-github-has-announced-that-starting-april-24-copilot-interact]] · [[2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a]] · [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]]
+**Related:** [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]] · [[2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit]] · [[2026-04-01-github-has-announced-that-starting-april-24-copilot-interact]] · [[2026-08-17-copilot-autofix-introduced-shell-injection-in-snowflake-s-ci]] · [[2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn]]
 <!-- graph:end -->

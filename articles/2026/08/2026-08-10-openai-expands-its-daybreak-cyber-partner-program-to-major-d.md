@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-13-ibm-partners-with-openai-to-embed-frontier-models-across-con
+- 2026-08-14-ibm-and-openai-announce-an-enterprise-ai-partnership
 - 2026-08-13-ibm-embeds-openai-frontier-models-across-its-consulting-deli
 - 2026-08-13-ibm-embeds-openai-frontier-models-into-its-consulting-delive
-- 2026-06-23-openai-ships-full-gpt-5-5-cyber-and-expands-its-daybreak-sec
 embedding_id: 2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI is embedding frontier cyber models with partners including Accenture, IBM
 
 **Entities:** [[IBM]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-13-ibm-partners-with-openai-to-embed-frontier-models-across-con]] · [[2026-08-13-ibm-embeds-openai-frontier-models-across-its-consulting-deli]] · [[2026-08-13-ibm-embeds-openai-frontier-models-into-its-consulting-delive]] · [[2026-06-23-openai-ships-full-gpt-5-5-cyber-and-expands-its-daybreak-sec]]
+**Related:** [[2026-08-13-ibm-partners-with-openai-to-embed-frontier-models-across-con]] · [[2026-08-14-ibm-and-openai-announce-an-enterprise-ai-partnership]] · [[2026-08-13-ibm-embeds-openai-frontier-models-across-its-consulting-deli]] · [[2026-08-13-ibm-embeds-openai-frontier-models-into-its-consulting-delive]]
 <!-- graph:end -->

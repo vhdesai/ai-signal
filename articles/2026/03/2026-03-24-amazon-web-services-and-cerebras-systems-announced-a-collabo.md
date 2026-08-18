@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i
 - 2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-per-second
 - 2026-08-13-openai-previews-ultrafast-tier-gpt-5-6-sol-at-750-tokens-sec
+- 2026-08-14-openai-introduces-ultrafast-tier-for-gpt-5-6-sol-powered-by
 - 2026-08-04-aws-launches-web-search-on-amazon-bedrock-for-model-groundin
-- 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
 embedding_id: 2026-03-24-amazon-web-services-and-cerebras-systems-announced-a-collabo
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Amazon Web Services and Cerebras Systems announced a collaboration to deliver th
 ## Connections
 
 **Entities:** [[Amazon]] · [[Cerebras]]
-**Related:** [[2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i]] · [[2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-per-second]] · [[2026-08-13-openai-previews-ultrafast-tier-gpt-5-6-sol-at-750-tokens-sec]] · [[2026-08-04-aws-launches-web-search-on-amazon-bedrock-for-model-groundin]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]]
+**Related:** [[2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i]] · [[2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-per-second]] · [[2026-08-13-openai-previews-ultrafast-tier-gpt-5-6-sol-at-750-tokens-sec]] · [[2026-08-14-openai-introduces-ultrafast-tier-for-gpt-5-6-sol-powered-by]] · [[2026-08-04-aws-launches-web-search-on-amazon-bedrock-for-model-groundin]]
 <!-- graph:end -->

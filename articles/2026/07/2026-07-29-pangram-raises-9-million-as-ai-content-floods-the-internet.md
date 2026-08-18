@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-dictati
 - 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
 - 2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc
 - 2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a
-- 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
 embedding_id: 2026-07-29-pangram-raises-9-million-as-ai-content-floods-the-internet
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Pangram raised $9 million and launched Pangram 4, a new AI text-detection model,
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]]
+**Related:** [[2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-dictati]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]]
 <!-- graph:end -->

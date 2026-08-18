@@ -26,9 +26,9 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context
 related_article_ids:
 - 2026-08-13-deepseek-releases-v4-pro-with-1m-token-context-at-commodity
+- 2026-08-14-deepseek-ships-v4-pro-and-raises-api-prices-sharply
 - 2026-08-13-deepseek-v4-pro-launches-to-mixed-reviews-priced-at-a-fracti
 - 2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas
-- 2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age
 embedding_id: 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
 event_name: ''
 ---
@@ -43,5 +43,5 @@ DeepSeek formally released its production V4 Pro model, ending a roughly four-mo
 **Entities:** [[DeepSeek]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
 **Canonical:** [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context]]
-**Related:** [[2026-08-13-deepseek-releases-v4-pro-with-1m-token-context-at-commodity]] · [[2026-08-13-deepseek-v4-pro-launches-to-mixed-reviews-priced-at-a-fracti]] · [[2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas]] · [[2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age]]
+**Related:** [[2026-08-13-deepseek-releases-v4-pro-with-1m-token-context-at-commodity]] · [[2026-08-14-deepseek-ships-v4-pro-and-raises-api-prices-sharply]] · [[2026-08-13-deepseek-v4-pro-launches-to-mixed-reviews-priced-at-a-fracti]] · [[2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas]]
 <!-- graph:end -->

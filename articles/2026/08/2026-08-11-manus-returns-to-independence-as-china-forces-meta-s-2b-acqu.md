@@ -24,6 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek
+- 2026-08-13-manus-resumes-independence-after-beijing-blocks-meta-acquisi
 - 2026-08-13-manus-resumes-independent-operations-after-beijing-blocks-me
 - 2026-08-13-manus-says-it-will-resume-operating-as-an-independent-compan
 embedding_id: 2026-08-11-manus-returns-to-independence-as-china-forces-meta-s-2b-acqu
@@ -39,5 +40,5 @@ AI-agent startup Manus said it will resume operating independently to comply wit
 
 **Entities:** [[Meta]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek]] · [[2026-08-13-manus-resumes-independent-operations-after-beijing-blocks-me]] · [[2026-08-13-manus-says-it-will-resume-operating-as-an-independent-compan]]
+**Related:** [[2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek]] · [[2026-08-13-manus-resumes-independence-after-beijing-blocks-meta-acquisi]] · [[2026-08-13-manus-resumes-independent-operations-after-beijing-blocks-me]] · [[2026-08-13-manus-says-it-will-resume-operating-as-an-independent-compan]]
 <!-- graph:end -->

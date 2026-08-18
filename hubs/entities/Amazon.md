@@ -1,13 +1,21 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 403
+member_count: 411
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 403 connected article(s).
+> Auto-generated entity hub. 411 connected article(s).
 
+- `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
+- `2026-08-17` [[2026-08-17-amazon-is-reported-to-be-destroying-rare-books-to-digitize-t|Amazon is reported to be destroying rare books to digitize them for AI training]]
+- `2026-08-17` [[2026-08-17-amazon-is-destroying-rare-books-to-digitize-them-for-ai-trai|Amazon is destroying rare books to digitize them for AI training]]
+- `2026-08-17` [[2026-08-17-amazon-is-buying-and-destroying-rare-books-to-scan-them-for|Amazon is buying and destroying rare books to scan them for AI training]]
+- `2026-08-17` [[2026-08-17-amazon-reportedly-destroying-rare-books-for-ai-training|Amazon Reportedly Destroying Rare Books for AI Training]]
+- `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
+- `2026-08-14` [[2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion|FT: Big Tech AI purchase commitments approach ~$1.5 trillion]]
+- `2026-08-14` [[2026-08-14-big-tech-ai-purchase-commitments-approach-1-5-trillion|Big Tech AI purchase commitments approach $1.5 trillion]]
 - `2026-08-13` [[2026-08-13-twitch-opts-all-streamers-into-amazon-ai-training-by-default|Twitch Opts All Streamers Into Amazon AI Training by Default, Then Adds an Opt-Out]]
 - `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
 - `2026-08-12` [[2026-08-12-anthropic-text-watermarks-trigger-backlash-amazon-twitch-set|Anthropic Text Watermarks Trigger Backlash; Amazon/Twitch Sets AI Training to Opt-Out]]

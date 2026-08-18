@@ -30,8 +30,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-openai-opens-singapore-ai-lab-as-imda-refreshes-national-ai
+- 2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i
 - 2026-07-31-openai-outlines-responsible-ai-practices-for-europe-as-the-e
-- 2026-07-31-europe-s-ai-safety-playbook-looms-over-the-u-s-framework-due
 embedding_id: 2026-05-22-singapore-imda-releases-updated-agentic-ai-governance-framew
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Singapore's Infocomm Media Development Authority (IMDA) published an updated age
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Cohere]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-openai-opens-singapore-ai-lab-as-imda-refreshes-national-ai]] · [[2026-07-31-openai-outlines-responsible-ai-practices-for-europe-as-the-e]] · [[2026-07-31-europe-s-ai-safety-playbook-looms-over-the-u-s-framework-due]]
+**Related:** [[2026-05-22-openai-opens-singapore-ai-lab-as-imda-refreshes-national-ai]] · [[2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i]] · [[2026-07-31-openai-outlines-responsible-ai-practices-for-europe-as-the-e]]
 <!-- graph:end -->

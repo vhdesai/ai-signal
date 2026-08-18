@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model
 - 2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies
 - 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
-- 2026-08-03-alibaba-unveils-qwen3-8-max-its-largest-and-most-capable-mod
+- 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
 embedding_id: 2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Information reported that Alibaba’s T-Head unit unveiled the Zhenwu M890 c
 
 **Entities:** [[Alibaba]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model]] · [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]] · [[2026-08-03-alibaba-unveils-qwen3-8-max-its-largest-and-most-capable-mod]]
+**Related:** [[2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model]] · [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]]
 <!-- graph:end -->

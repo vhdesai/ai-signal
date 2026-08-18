@@ -1,19 +1,24 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 118
+member_count: 123
 ---
 
 # IBM
 
-> Auto-generated entity hub. 118 connected article(s).
+> Auto-generated entity hub. 123 connected article(s).
 
+- `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
+- `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
+- `2026-08-14` [[2026-08-14-ibm-and-openai-announce-an-enterprise-ai-partnership|IBM and OpenAI announce an enterprise AI partnership]]
 - `2026-08-13` [[2026-08-13-openai-replaces-cro-after-nine-months-hires-wiz-coo-dali-raj|OpenAI Replaces CRO After Nine Months, Hires Wiz COO Dali Rajic]]
 - `2026-08-13` [[2026-08-13-ibm-partners-with-openai-to-accelerate-its-enterprise-ai-pus|IBM partners with OpenAI to accelerate its enterprise AI push]]
+- `2026-08-13` [[2026-08-13-ibm-embeds-openai-models-across-its-consulting-delivery-plat|IBM embeds OpenAI models across its consulting delivery platform]]
 - `2026-08-13` [[2026-08-13-ibm-partners-with-openai-to-train-tens-of-thousands-of-consu|IBM Partners with OpenAI to Train Tens of Thousands of Consultants]]
 - `2026-08-13` [[2026-08-13-ibm-partners-with-openai-to-embed-frontier-models-across-con|IBM Partners With OpenAI to Embed Frontier Models Across Consulting Delivery]]
 - `2026-08-13` [[2026-08-13-ibm-embeds-openai-frontier-models-into-its-consulting-delive|IBM Embeds OpenAI Frontier Models Into Its Consulting Delivery Platform]]
 - `2026-08-13` [[2026-08-13-ibm-embeds-openai-frontier-models-across-its-consulting-deli|IBM Embeds OpenAI Frontier Models Across Its Consulting Delivery Platform]]
+- `2026-08-13` [[2026-08-13-ibm-embeds-openai-frontier-models-across-consulting-delivery|IBM Embeds OpenAI Frontier Models Across Consulting Delivery]]
 - `2026-08-13` [[2026-08-13-daily-ai-news-digest-august-14-2026|Daily AI News Digest – August 14, 2026]]
 - `2026-08-12` [[2026-08-12-ibm-and-together-ai-sign-240m-nvidia-powered-inference-deal|IBM and Together AI sign $240M Nvidia-powered inference deal]]
 - `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]

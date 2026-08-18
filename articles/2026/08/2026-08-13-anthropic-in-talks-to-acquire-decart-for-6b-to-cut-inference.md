@@ -20,11 +20,10 @@ themes:
 - model-capabilities
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren
 related_article_ids:
 - 2026-08-13-anthropic-in-talks-to-acquire-israeli-startup-decart-for-abo
-- 2026-08-13-anthropic-investors-anticipate-2-trillion-ipo-decart-acquisi
 embedding_id: 2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference
 event_name: ''
 ---
@@ -38,5 +37,6 @@ Anthropic is in early-stage talks to acquire Decart AI, which builds GPU optimiz
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-13-anthropic-in-talks-to-acquire-israeli-startup-decart-for-abo]] · [[2026-08-13-anthropic-investors-anticipate-2-trillion-ipo-decart-acquisi]]
+**Canonical:** [[2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren]]
+**Related:** [[2026-08-13-anthropic-in-talks-to-acquire-israeli-startup-decart-for-abo]]
 <!-- graph:end -->

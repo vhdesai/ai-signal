@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk
 - 2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov
 - 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
-- 2026-06-19-nyu-s-damodaran-warns-ai-correction-could-be-more-painful-th
+- 2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits
 embedding_id: 2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Spencer Jakab argues that the AI-driven concentration in U.S. mega-caps has now 
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog]] · [[2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk]] · [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-06-19-nyu-s-damodaran-warns-ai-correction-could-be-more-painful-th]]
+**Related:** [[2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog]] · [[2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk]] · [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits]]
 <!-- graph:end -->

@@ -17,7 +17,7 @@ themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-14-z-ai-ships-glm-5-3-all-gains-from-post-training-no-new-base
+canonical_article_id: 2026-08-14-z-ai-glm-5-3-all-gains-from-post-training-no-new-base
 related_article_ids: []
 embedding_id: 2026-08-14-z-ai-ships-glm-5-3-with-no-new-base-model
 event_name: ''
@@ -31,5 +31,5 @@ GLM-5.3 reuses the 743B-parameter GLM-5.2 base, with every reported gain attribu
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-08-14-z-ai-ships-glm-5-3-all-gains-from-post-training-no-new-base]]
+**Canonical:** [[2026-08-14-z-ai-glm-5-3-all-gains-from-post-training-no-new-base]]
 <!-- graph:end -->

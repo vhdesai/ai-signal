@@ -18,14 +18,10 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-08-13-gemini-3-7-flash-at-half-the-price-of-3-6-flash
 related_article_ids:
-- 2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl
-- 2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9
 - 2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model
-- 2026-08-13-google-releases-gemini-3-7-flash-to-general-availability
-- 2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-claims-1b-in-en
 embedding_id: 2026-08-13-google-launches-gemini-3-7-flash-at-half-the-price-of-3-6-fl
 event_name: ''
 ---
@@ -39,5 +35,6 @@ Google shipped Gemini 3.7 Flash three weeks after 3.6 Flash, describing it as it
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl]] · [[2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9]] · [[2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model]] · [[2026-08-13-google-releases-gemini-3-7-flash-to-general-availability]] · [[2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-claims-1b-in-en]]
+**Canonical:** [[2026-08-13-gemini-3-7-flash-at-half-the-price-of-3-6-flash]]
+**Related:** [[2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model]]
 <!-- graph:end -->

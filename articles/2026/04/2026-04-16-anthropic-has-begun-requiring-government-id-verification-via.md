@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
 - 2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un
-- 2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash
+- 2026-08-14-anthropic-details-claude-text-watermarking-under-eu-ai-act
 embedding_id: 2026-04-16-anthropic-has-begun-requiring-government-id-verification-via
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic has begun requiring government ID verification (via Persona) before al
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme]] · [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]] · [[2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un]] · [[2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash]]
+**Related:** [[2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme]] · [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]] · [[2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un]] · [[2026-08-14-anthropic-details-claude-text-watermarking-under-eu-ai-act]]
 <!-- graph:end -->

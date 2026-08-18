@@ -19,7 +19,7 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-08-13-manus-resumes-independent-operations-after-beijing-blocks-me
+canonical_article_id: 2026-08-13-manus-resumes-independence-after-beijing-blocks-meta-acquisi
 related_article_ids: []
 embedding_id: 2026-08-13-manus-says-it-will-resume-operating-as-an-independent-compan
 event_name: ''
@@ -34,5 +34,5 @@ AI agent startup Manus said it will resume operating as an independent company, 
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Canonical:** [[2026-08-13-manus-resumes-independent-operations-after-beijing-blocks-me]]
+**Canonical:** [[2026-08-13-manus-resumes-independence-after-beijing-blocks-meta-acquisi]]
 <!-- graph:end -->

@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-02-nvidia-s-planned-750b-ai-outlay-draws-circular-financing-and
 - 2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise
+- 2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne
 - 2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target
 embedding_id: 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
 event_name: ''
@@ -37,5 +38,5 @@ Nvidia is reportedly working on a fresh round of AI infrastructure deals potenti
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-02-nvidia-s-planned-750b-ai-outlay-draws-circular-financing-and]] · [[2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise]] · [[2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target]]
+**Related:** [[2026-08-02-nvidia-s-planned-750b-ai-outlay-draws-circular-financing-and]] · [[2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise]] · [[2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne]] · [[2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target]]
 <!-- graph:end -->

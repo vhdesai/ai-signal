@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
+- 2026-08-14-applied-materials-record-9-12b-quarter-uber-pony-ai-2-000-eu
 - 2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic
 - 2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe
 - 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu
-- 2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk
 embedding_id: 2026-05-15-uk-hmrc-signs-175m-10-year-ai-fraud-detection-deal-with-quan
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The UK's tax authority HMRC announced a 10-year, £175M contract with London-bas
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic]] · [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe]] · [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu]] · [[2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk]]
+**Related:** [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-08-14-applied-materials-record-9-12b-quarter-uber-pony-ai-2-000-eu]] · [[2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic]] · [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe]] · [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu]]
 <!-- graph:end -->

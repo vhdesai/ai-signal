@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-anthropic-tops-cnbc-disruptor-50-with-80-yoy-revenue-growth
 - 2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue
+- 2026-08-15-anthropic-posts-11-5b-q2-revenue-first-profitable-quarter
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
-- 2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne
 embedding_id: 2026-05-18-trending-anthropic-tops-cnbc-disruptor-50-for-2026
 event_name: ''
 ---
@@ -37,5 +37,5 @@ CNBC published its 2026 Disruptor 50 ranking with Anthropic in the No. 1 positio
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-anthropic-tops-cnbc-disruptor-50-with-80-yoy-revenue-growth]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne]]
+**Related:** [[2026-05-19-anthropic-tops-cnbc-disruptor-50-with-80-yoy-revenue-growth]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue]] · [[2026-08-15-anthropic-posts-11-5b-q2-revenue-first-profitable-quarter]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]]
 <!-- graph:end -->

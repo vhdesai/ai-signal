@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-08-05-jeff-dean-and-senior-google-ai-researchers-leave-to-launch-d
 - 2026-08-05-jeff-dean-and-senior-google-ai-researchers-depart-to-launch
 - 2026-08-05-jeff-dean-and-three-senior-google-researchers-leave-to-found
+- 2026-08-15-jeff-dean-leaving-google-after-27-years-to-co-found-discover
 embedding_id: 2026-08-05-jeff-dean-and-sanjay-ghemawat-leave-google-to-co-found-disco
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Jeff Dean and senior fellow Sanjay Ghemawat are departing Google after roughly 2
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-08-05-google-reshuffles-its-ai-leadership-jeff-dean-departs-to-fou]]
-**Related:** [[2026-08-05-jeff-dean-and-senior-google-ai-researchers-leave-to-launch-d]] · [[2026-08-05-jeff-dean-and-senior-google-ai-researchers-depart-to-launch]] · [[2026-08-05-jeff-dean-and-three-senior-google-researchers-leave-to-found]]
+**Related:** [[2026-08-05-jeff-dean-and-senior-google-ai-researchers-leave-to-launch-d]] · [[2026-08-05-jeff-dean-and-senior-google-ai-researchers-depart-to-launch]] · [[2026-08-05-jeff-dean-and-three-senior-google-researchers-leave-to-found]] · [[2026-08-15-jeff-dean-leaving-google-after-27-years-to-co-found-discover]]
 <!-- graph:end -->

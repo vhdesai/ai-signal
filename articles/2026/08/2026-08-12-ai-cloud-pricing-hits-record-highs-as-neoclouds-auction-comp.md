@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge
 - 2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex
 - 2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti
-- 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
+- 2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-silicon-to-neocloud
 embedding_id: 2026-08-12-ai-cloud-pricing-hits-record-highs-as-neoclouds-auction-comp
 event_name: ''
 ---
@@ -36,5 +36,5 @@ GPU cloud pricing is at unprecedented levels. CoreWeave raised prices 25% in Jul
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge]] · [[2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex]] · [[2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]]
+**Related:** [[2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge]] · [[2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex]] · [[2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti]] · [[2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-silicon-to-neocloud]]
 <!-- graph:end -->

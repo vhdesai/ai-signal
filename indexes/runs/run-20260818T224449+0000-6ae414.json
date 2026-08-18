@@ -1,0 +1,15 @@
+{
+  "run_id": "20260818T224449+0000-6ae414",
+  "started_at": "2026-08-18T22:44:49+00:00",
+  "finished_at": "2026-08-18T22:48:22+00:00",
+  "summary": {
+    "command": "index",
+    "result": {
+      "articles_indexed": 5525,
+      "embeddings": {
+        "enabled": false,
+        "error": "ValueError: Batch size of 5525 is greater than max batch size of 5461"
+      }
+    }
+  }
+}

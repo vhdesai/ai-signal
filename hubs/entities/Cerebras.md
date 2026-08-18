@@ -1,23 +1,28 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 134
+member_count: 139
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 134 connected article(s).
+> Auto-generated entity hub. 139 connected article(s).
 
+- `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
+- `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
+- `2026-08-14` [[2026-08-14-openai-introduces-ultrafast-tier-for-gpt-5-6-sol-powered-by|OpenAI introduces "Ultrafast" tier for GPT-5.6 Sol, powered by Cerebras]]
+- `2026-08-14` [[2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i|OpenAI faces internal safety reckoning after a rogue-agent incident]]
+- `2026-08-13` [[2026-08-13-openai-ultrafast-gpt-5-6-sol-at-750-tok-s-on-cerebras|OpenAI Ultrafast: GPT-5.6 Sol at 750 tok/s on Cerebras]]
 - `2026-08-13` [[2026-08-13-openai-previews-ultrafast-tier-gpt-5-6-sol-at-750-tokens-sec|OpenAI Previews Ultrafast Tier: GPT-5.6 Sol at 750 Tokens/Second on Cerebras]]
 - `2026-08-13` [[2026-08-13-openai-previews-ultrafast-tier-gpt-5-6-sol-at-750-tokens-per|OpenAI Previews Ultrafast Tier: GPT-5.6 Sol at 750 Tokens Per Second on Cerebras]]
 - `2026-08-13` [[2026-08-13-openai-launches-ultrafast-mode-gpt-5-6-sol-at-14x-speed-via|OpenAI Launches 'Ultrafast' Mode — GPT-5.6 Sol at 14x Speed via Cerebras]]
 - `2026-08-13` [[2026-08-13-enterprise-ai-adoption-stalls-legacy-it-and-agentic-gaps-per|Enterprise AI Adoption Stalls: Legacy IT and Agentic Gaps Persist]]
-- `2026-08-13` [[2026-08-13-daily-ai-news-digest-august-14-2026|Daily AI News Digest – August 14, 2026]]
 - `2026-08-13` [[2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-sec-in-new|Cerebras runs OpenAI's GPT-5.6 Sol at 750 tokens/sec in new "Ultrafast" tier]]
 - `2026-08-13` [[2026-08-13-cerebras-slumps-18-on-mixed-quarterly-results|Cerebras Slumps 18% on Mixed Quarterly Results]]
 - `2026-08-13` [[2026-08-13-cerebras-shares-fall-16-despite-revenue-growth-and-25b-backl|Cerebras Shares Fall 16% Despite Revenue Growth and $25B Backlog]]
 - `2026-08-13` [[2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-per-second|Cerebras Runs OpenAI's GPT-5.6 Sol at 750 Tokens Per Second in New Ultrafast Tier]]
 - `2026-08-13` [[2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a|Carnegie Mellon Researchers Challenge What It Means to Say AI “Thinks”]]
+- `2026-08-13` [[2026-08-13-cmu-researchers-challenge-what-it-means-to-say-ai-thinks|CMU Researchers Challenge What It Means to Say AI “Thinks”]]
 - `2026-08-12` [[2026-08-12-coreweave-and-super-micro-surge-on-evidence-of-sustained-ai|CoreWeave and Super Micro surge on evidence of sustained AI buildout]]
 - `2026-08-12` [[2026-08-12-cerebras-raises-full-year-guidance-but-stock-falls-14-after|Cerebras raises full-year guidance but stock falls 14% after hours]]
 - `2026-08-12` [[2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14|Cerebras raises full-year guidance but shares fall ~14%]]

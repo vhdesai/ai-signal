@@ -23,6 +23,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-14-openai-introduces-ultrafast-tier-for-gpt-5-6-sol-powered-by
 - 2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-per-second
 embedding_id: 2026-08-13-openai-launches-ultrafast-mode-gpt-5-6-sol-at-14x-speed-via
 event_name: ''
@@ -37,5 +38,5 @@ OpenAI introduced “Ultrafast,” a new mode that runs GPT-5.6 Sol at 14x stand
 
 **Entities:** [[Cerebras]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-per-second]]
+**Related:** [[2026-08-14-openai-introduces-ultrafast-tier-for-gpt-5-6-sol-powered-by]] · [[2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-per-second]]
 <!-- graph:end -->

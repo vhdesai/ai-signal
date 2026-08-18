@@ -24,10 +24,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
-- 2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap
-- 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
-- 2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d
+- 2026-08-16-apple-is-training-a-custom-china-market-ai-model-with-alibab
+- 2026-08-14-apple-trains-a-china-specific-ai-model-with-alibaba
+- 2026-08-14-apple-trains-a-china-specific-ai-model-with-alibaba-s-suppor
+- 2026-08-14-apple-trained-a-china-specific-large-language-model-with-ali
+- 2026-08-14-apple-trains-china-specific-ai-model-with-alibaba-s-support
 embedding_id: 2026-08-10-apple-briefly-posts-then-pulls-a-guide-for-connecting-siri-t
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Apple published and then quickly withdrew documentation describing how Siri conn
 
 **Entities:** [[Alibaba]] · [[Apple]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]] · [[2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]] · [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]]
+**Related:** [[2026-08-16-apple-is-training-a-custom-china-market-ai-model-with-alibab]] · [[2026-08-14-apple-trains-a-china-specific-ai-model-with-alibaba]] · [[2026-08-14-apple-trains-a-china-specific-ai-model-with-alibaba-s-suppor]] · [[2026-08-14-apple-trained-a-china-specific-large-language-model-with-ali]] · [[2026-08-14-apple-trains-china-specific-ai-model-with-alibaba-s-support]]
 <!-- graph:end -->

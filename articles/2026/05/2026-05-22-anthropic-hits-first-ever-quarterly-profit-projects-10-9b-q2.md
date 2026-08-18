@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-21-anthropic-hits-first-profit-559m-on-10-9b-q2-revenue
 - 2026-05-20-anthropic-revenue-explosive-growth-brings-ipo-and-profitable
-- 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
-- 2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue
+- 2026-08-15-anthropic-posts-11-5b-q2-revenue-and-its-first-profitable-qu
+- 2026-08-15-anthropic-posts-11-5b-q2-revenue-first-profitable-quarter
 embedding_id: 2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic shared investor projections showing $10.9 billion in Q2 2026 revenue �
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-anthropic-hits-first-profit-559m-on-10-9b-q2-revenue]] · [[2026-05-20-anthropic-revenue-explosive-growth-brings-ipo-and-profitable]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue]]
+**Related:** [[2026-05-21-anthropic-hits-first-profit-559m-on-10-9b-q2-revenue]] · [[2026-05-20-anthropic-revenue-explosive-growth-brings-ipo-and-profitable]] · [[2026-08-15-anthropic-posts-11-5b-q2-revenue-and-its-first-profitable-qu]] · [[2026-08-15-anthropic-posts-11-5b-q2-revenue-first-profitable-quarter]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part
 - 2026-05-26-bytedance-offers-core-ai-team-special-equity-to-fend-off-poa
 - 2026-05-26-breakinghot-qualcomm-strikes-ai-asic-supply-deal-with-byteda
-- 2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere
+- 2026-08-17-bytedance-seed-and-tsinghua-air-introduce-cuda-agent-for-gpu
 embedding_id: 2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Information reported that ByteDance is developing a new AI inference chip wi
 
 **Entities:** [[ByteDance]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part]] · [[2026-05-26-bytedance-offers-core-ai-team-special-equity-to-fend-off-poa]] · [[2026-05-26-breakinghot-qualcomm-strikes-ai-asic-supply-deal-with-byteda]] · [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere]]
+**Related:** [[2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part]] · [[2026-05-26-bytedance-offers-core-ai-team-special-equity-to-fend-off-poa]] · [[2026-05-26-breakinghot-qualcomm-strikes-ai-asic-supply-deal-with-byteda]] · [[2026-08-17-bytedance-seed-and-tsinghua-air-introduce-cuda-agent-for-gpu]]
 <!-- graph:end -->

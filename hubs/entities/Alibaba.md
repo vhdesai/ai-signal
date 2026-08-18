@@ -1,13 +1,30 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 228
+member_count: 245
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 228 connected article(s).
+> Auto-generated entity hub. 245 connected article(s).
 
+- `2026-08-18` [[2026-08-18-alibaba-s-qwen3-8-27b-runs-frontier-class-coding-and-reasoni|Alibaba's Qwen3.8-27B runs frontier-class coding and reasoning agents locally]]
+- `2026-08-18` [[2026-08-18-alibaba-s-qwen3-8-27b-brings-frontier-class-local-coding-and|Alibaba's Qwen3.8-27B brings frontier-class local coding and reasoning to commodity hardware]]
+- `2026-08-18` [[2026-08-18-alibaba-qwen3-8-27b-runs-frontier-class-agents-locally|Alibaba Qwen3.8-27B Runs Frontier-Class Agents Locally]]
+- `2026-08-17` [[2026-08-17-worldclaw-trump-family-linked-crypto-venture-reselling-us-re|WorldClaw: Trump-family-linked crypto venture reselling US-restricted Chinese AI models]]
+- `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
+- `2026-08-17` [[2026-08-17-alibaba-releases-happyshrimp-1-0-an-end-to-end-ai-music-gene|Alibaba releases HappyShrimp 1.0, an end-to-end AI music generation model]]
+- `2026-08-17` [[2026-08-17-alibaba-releases-ai-music-model-happyshrimp-1-0|Alibaba releases AI music model HappyShrimp 1.0]]
+- `2026-08-17` [[2026-08-17-alibaba-answers-meta-s-ai-challenge-with-new-laptop-ready-mo|Alibaba answers Meta's AI challenge with new laptop-ready model]]
+- `2026-08-16` [[2026-08-16-apple-is-training-a-custom-china-market-ai-model-with-alibab|Apple is training a custom China-market AI model with Alibaba's help]]
+- `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
+- `2026-08-15` [[2026-08-15-alibaba-s-qwen-crosses-3-billion-downloads-overtaking-meta-a|Alibaba's Qwen Crosses 3 Billion Downloads, Overtaking Meta and Google]]
+- `2026-08-15` [[2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context|Alibaba Releases Qwen3.8-27B Open Weights With Long Context and Multimodal Support]]
+- `2026-08-14` [[2026-08-14-apple-trains-a-china-specific-ai-model-with-alibaba|Apple trains a China-specific AI model with Alibaba]]
+- `2026-08-14` [[2026-08-14-apple-trained-a-china-specific-large-language-model-with-ali|Apple trained a China-specific large language model with Alibaba's support]]
+- `2026-08-14` [[2026-08-14-apple-trains-a-china-specific-ai-model-with-alibaba-s-suppor|Apple Trains a China-Specific AI Model With Alibaba's Support]]
+- `2026-08-14` [[2026-08-14-apple-trains-china-specific-ai-model-with-alibaba-s-support|Apple Trains China-Specific AI Model With Alibaba’s Support]]
+- `2026-08-14` [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl|Alibaba releases Qwen3.8-27B with FP8 weights for local deployment]]
 - `2026-08-13` [[2026-08-13-deepseek-launches-v4-pro-into-general-availability|DeepSeek Launches V4-Pro Into General Availability]]
 - `2026-08-13` [[2026-08-13-beijing-could-suddenly-clamp-down-on-chinese-open-weight-ai|Beijing Could Suddenly Clamp Down on Chinese Open-Weight AI Models]]
 - `2026-08-12` [[2026-08-12-nvidia-details-serving-alibaba-s-2-4t-parameter-qwen3-8-mode|NVIDIA details serving Alibaba's 2.4T-parameter Qwen3.8 model on GB300 NVL72]]

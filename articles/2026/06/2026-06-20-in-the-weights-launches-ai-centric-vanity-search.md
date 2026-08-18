@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-16-why-people-aren-t-buying-mark-zuckerberg-s-ai-future-and-whe
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
 - 2026-07-25-monday-com-cites-ai-as-a-factor-in-fresh-layoffs
 - 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
-- 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
 embedding_id: 2026-06-20-in-the-weights-launches-ai-centric-vanity-search
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TechCrunch covered In the Weights, a consumer-facing tool that scores or surface
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-07-25-monday-com-cites-ai-as-a-factor-in-fresh-layoffs]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]]
+**Related:** [[2026-08-16-why-people-aren-t-buying-mark-zuckerberg-s-ai-future-and-whe]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-07-25-monday-com-cites-ai-as-a-factor-in-fresh-layoffs]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]]
 <!-- graph:end -->

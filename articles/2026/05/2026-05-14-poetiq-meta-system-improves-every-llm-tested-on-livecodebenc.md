@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
+- 2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
-- 2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi
 embedding_id: 2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Researchers at Poetiq demonstrated a "meta-system" — an automatically construc
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi]]
+**Related:** [[2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]]
 <!-- graph:end -->

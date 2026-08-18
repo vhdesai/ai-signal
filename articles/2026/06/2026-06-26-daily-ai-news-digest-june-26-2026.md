@@ -26,11 +26,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-14-daily-ai-news-digest-august-15-2026
 - 2026-06-27-daily-ai-news-digest-june-27-2026
 - 2026-06-29-daily-ai-news-digest-june-29-2026
 - 2026-08-12-daily-ai-news-digest-august-13-2026
 - 2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le
-- 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 embedding_id: 2026-06-26-daily-ai-news-digest-june-26-2026
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Today’s signal is a financial reckoning running underneath the capability race
 
 **Entities:** [[Apple]] · [[Google]] · [[IBM]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-08-12-daily-ai-news-digest-august-13-2026]] · [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]]
+**Related:** [[2026-08-14-daily-ai-news-digest-august-15-2026]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-08-12-daily-ai-news-digest-august-13-2026]] · [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le]]
 <!-- graph:end -->

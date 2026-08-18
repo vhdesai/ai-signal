@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-11-anthropic-begins-watermarking-all-claude-generated-text-and
+- 2026-08-15-anthropic-details-how-claude-s-new-text-watermarking-will-wo
 embedding_id: 2026-08-13-anthropic-to-watermark-all-claude-output-for-eu-ai-act-compl
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic will apply embedded text watermarks and signed provenance metadata to 
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-11-anthropic-begins-watermarking-all-claude-generated-text-and]]
+**Related:** [[2026-08-15-anthropic-details-how-claude-s-new-text-watermarking-will-wo]]
 <!-- graph:end -->

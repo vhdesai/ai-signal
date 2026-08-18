@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-27-meta-rolled-out-a-299-ai-smart-glasses-model-about-80-below
-- 2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court
 - 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
 - 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
+- 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
 embedding_id: 2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta and EssilorLuxottica unveiled a lower-cost line of AI smart glasses startin
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-27-meta-rolled-out-a-299-ai-smart-glasses-model-about-80-below]] · [[2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court]] · [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]]
+**Related:** [[2026-06-27-meta-rolled-out-a-299-ai-smart-glasses-model-about-80-below]] · [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]]
 <!-- graph:end -->

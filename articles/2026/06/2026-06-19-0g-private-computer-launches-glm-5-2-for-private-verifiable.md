@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-14-z-ai-ships-glm-5-3-with-long-horizon-coding-and-frontier-cyb
 - 2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on
+- 2026-08-14-z-ai-releases-glm-5-3-with-near-frontier-cybersecurity-perfo
+- 2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie
 - 2026-04-03-zhipu-ai-s-glm-5v-turbo-a-multimodal-model-converting-design
-- 2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western
-- 2026-07-06-tencent-s-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-s
-- 2026-08-14-z-ai-ships-glm-5-3-all-gains-from-post-training-no-new-base
 embedding_id: 2026-06-19-0g-private-computer-launches-glm-5-2-for-private-verifiable
 event_name: ''
 ---
@@ -37,5 +37,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on]] · [[2026-04-03-zhipu-ai-s-glm-5v-turbo-a-multimodal-model-converting-design]] · [[2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western]] · [[2026-07-06-tencent-s-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-s]] · [[2026-08-14-z-ai-ships-glm-5-3-all-gains-from-post-training-no-new-base]]
+**Related:** [[2026-08-14-z-ai-ships-glm-5-3-with-long-horizon-coding-and-frontier-cyb]] · [[2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on]] · [[2026-08-14-z-ai-releases-glm-5-3-with-near-frontier-cybersecurity-perfo]] · [[2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie]] · [[2026-04-03-zhipu-ai-s-glm-5v-turbo-a-multimodal-model-converting-design]]
 <!-- graph:end -->

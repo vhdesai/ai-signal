@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-30-bridgewater-and-thinking-machines-a-fine-tuned-open-model-be
 - 2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
+- 2026-08-18-alibaba-s-qwen3-8-27b-brings-frontier-class-local-coding-and
 - 2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two
-- 2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl
 embedding_id: 2026-07-04-bridgewater-s-aia-labs-and-mira-murati-s-thinking-machines-l
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Bridgewater's AIA Labs and Mira Murati's Thinking Machines Lab fine-tuned an ope
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-30-bridgewater-and-thinking-machines-a-fine-tuned-open-model-be]] · [[2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]] · [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two]] · [[2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl]]
+**Related:** [[2026-06-30-bridgewater-and-thinking-machines-a-fine-tuned-open-model-be]] · [[2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]] · [[2026-08-18-alibaba-s-qwen3-8-27b-brings-frontier-class-local-coding-and]] · [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two]]
 <!-- graph:end -->

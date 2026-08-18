@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-07-cost-compute-and-consolidation-set-the-tone
 - 2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o
 - 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
-- 2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi
+- 2026-08-14-openai-passes-40b-run-rate-enterprise-now-larger-than-consum
 embedding_id: 2026-06-27-openai-names-ex-uber-india-chief-as-its-first-india-managing
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI appointed Prabhjeet Singh, outgoing president of Uber India and South Asi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-28-openai-appointed-former-uber-india-head-prabhjeet-singh-as-i]] · [[2026-07-07-cost-compute-and-consolidation-set-the-tone]] · [[2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi]]
+**Related:** [[2026-06-28-openai-appointed-former-uber-india-head-prabhjeet-singh-as-i]] · [[2026-07-07-cost-compute-and-consolidation-set-the-tone]] · [[2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-08-14-openai-passes-40b-run-rate-enterprise-now-larger-than-consum]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-28-fish-audio-raises-52m-seed-to-build-ai-voice-models
 - 2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike
 - 2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a
-- 2026-08-06-soundhound-ai-posts-record-q2-revenue-and-raises-2026-guidan
+- 2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-dictati
 embedding_id: 2026-07-28-fish-audio-raises-52-million-seed-for-expressive-voice-model
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Fish Audio raised a $52 million seed round to expand AI voice models for creator
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-28-fish-audio-raises-52m-seed-for-ai-voice-models]] · [[2026-07-28-fish-audio-raises-52m-seed-to-build-ai-voice-models]] · [[2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-08-06-soundhound-ai-posts-record-q2-revenue-and-raises-2026-guidan]]
+**Related:** [[2026-07-28-fish-audio-raises-52m-seed-for-ai-voice-models]] · [[2026-07-28-fish-audio-raises-52m-seed-to-build-ai-voice-models]] · [[2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-dictati]]
 <!-- graph:end -->

@@ -22,7 +22,7 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference
+canonical_article_id: 2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren
 related_article_ids: []
 embedding_id: 2026-08-13-anthropic-investors-anticipate-2-trillion-ipo-decart-acquisi
 event_name: ''
@@ -37,5 +37,5 @@ Backers of Anthropic told the Financial Times they expect the company to double 
 
 **Entities:** [[Anthropic]] · [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Canonical:** [[2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference]]
+**Canonical:** [[2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren]]
 <!-- graph:end -->

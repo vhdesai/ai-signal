@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
+- 2026-08-17-nous-research-ships-bot-mode-for-its-hermes-agent
 - 2026-07-05-icml-2026-awards-highlight-diffusion-sampling-diffusion-lang
 - 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
 - 2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r
-- 2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi
 embedding_id: 2026-05-23-nous-research-releases-contrastive-neuron-attribution-for-ll
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Nous Research published Contrastive Neuron Attribution (CNA), a method that iden
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-07-05-icml-2026-awards-highlight-diffusion-sampling-diffusion-lang]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]] · [[2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r]] · [[2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi]]
+**Related:** [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-08-17-nous-research-ships-bot-mode-for-its-hermes-agent]] · [[2026-07-05-icml-2026-awards-highlight-diffusion-sampling-diffusion-lang]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]] · [[2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r]]
 <!-- graph:end -->

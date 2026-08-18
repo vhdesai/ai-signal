@@ -41,7 +41,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
-- 2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two
+- 2026-08-14-z-ai-glm-5-3-near-frontier-cyber-capability-under-gated-acce
+- 2026-08-14-dual-use-alarm-as-a-chinese-open-weights-model-rivals-us-fro
 embedding_id: 2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g
 event_name: ''
 ---
@@ -55,5 +56,5 @@ SaferAI evaluations found Z.ai's GLM-5.2 approaching frontier capability while r
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]] · [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two]]
+**Related:** [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]] · [[2026-08-14-z-ai-glm-5-3-near-frontier-cyber-capability-under-gated-acce]] · [[2026-08-14-dual-use-alarm-as-a-chinese-open-weights-model-rivals-us-fro]]
 <!-- graph:end -->

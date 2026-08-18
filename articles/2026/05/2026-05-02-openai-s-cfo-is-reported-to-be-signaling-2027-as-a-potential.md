@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation
 - 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
+- 2026-08-14-openai-s-annualized-revenue-run-rate-tops-40-billion-ahead-o
+- 2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo
 - 2026-05-22-openai-files-confidential-ipo-targeting-1-trillion-valuation
-- 2026-05-02-openai-cfo-sarah-friar-said-to-have-privately-advocated-dela
-- 2026-06-18-openai-hires-senior-public-company-operators-ahead-of-expect
 embedding_id: 2026-05-02-openai-s-cfo-is-reported-to-be-signaling-2027-as-a-potential
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI's CFO is reported to be signaling 2027 as a potential IPO window while th
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-05-22-openai-files-confidential-ipo-targeting-1-trillion-valuation]] · [[2026-05-02-openai-cfo-sarah-friar-said-to-have-privately-advocated-dela]] · [[2026-06-18-openai-hires-senior-public-company-operators-ahead-of-expect]]
+**Related:** [[2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-08-14-openai-s-annualized-revenue-run-rate-tops-40-billion-ahead-o]] · [[2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo]] · [[2026-05-22-openai-files-confidential-ipo-targeting-1-trillion-valuation]]
 <!-- graph:end -->

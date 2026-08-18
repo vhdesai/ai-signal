@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: ByteDance
-member_count: 64
+member_count: 66
 ---
 
 # ByteDance
 
-> Auto-generated entity hub. 64 connected article(s).
+> Auto-generated entity hub. 66 connected article(s).
 
+- `2026-08-17` [[2026-08-17-bytedance-tsinghua-cuda-agent-for-gpu-kernel-generation|ByteDance/Tsinghua: CUDA Agent for GPU Kernel Generation]]
+- `2026-08-17` [[2026-08-17-bytedance-seed-and-tsinghua-air-introduce-cuda-agent-for-gpu|ByteDance Seed and Tsinghua AIR introduce CUDA Agent for GPU kernel generation]]
 - `2026-08-10` [[2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te|Beijing’s companion-app rules force ByteDance, Alibaba, and Tencent to pull AI companions]]
 - `2026-08-10` [[2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp|Beijing Forces ByteDance, Alibaba, and Tencent to Pull AI Companion Apps]]
 - `2026-08-09` [[2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real|Race to Full-Duplex: NVIDIA and ByteDance Ship Competing Real-Time Voice Architectures]]

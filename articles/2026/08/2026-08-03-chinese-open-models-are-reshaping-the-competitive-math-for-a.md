@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
-- 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
+- 2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga
 embedding_id: 2026-08-03-chinese-open-models-are-reshaping-the-competitive-math-for-a
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Analysts argue that cheaper, openly available Chinese models are compressing mar
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]]
+**Related:** [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga]]
 <!-- graph:end -->

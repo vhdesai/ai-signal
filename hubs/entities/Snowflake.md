@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Snowflake
-member_count: 12
+member_count: 16
 ---
 
 # Snowflake
 
-> Auto-generated entity hub. 12 connected article(s).
+> Auto-generated entity hub. 16 connected article(s).
 
+- `2026-08-17` [[2026-08-17-daily-ai-news-digest-august-18-2026|Daily AI News Digest – August 18, 2026]]
+- `2026-08-17` [[2026-08-17-copilot-autofix-introduced-shell-injection-in-snowflake-s-ci|Copilot Autofix Introduced Shell Injection in Snowflake’s CI/CD]]
+- `2026-08-17` [[2026-08-17-amazon-reportedly-destroying-rare-books-for-ai-training|Amazon Reportedly Destroying Rare Books for AI Training]]
+- `2026-08-17` [[2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn|AI-generated security fix introduced a shell injection in Snowflake's CI/CD pipeline]]
 - `2026-07-27` [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance|NVIDIA and partners launch Open Secure AI Alliance]]
 - `2026-06-04` [[2026-06-04-daily-ai-news-digest-23-items-coverage-window-june-3-06-00-p|Daily AI News Digest · 23 items · Coverage window: June 3 06:00 PDT – June 4 07:20 PDT]]
 - `2026-05-31` [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026|What every CEO needs to know about AI in May 2026]]

@@ -19,13 +19,9 @@ themes:
 - model-capabilities
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-14-z-ai-ships-glm-5-3-with-no-new-base-model
-- 2026-04-23-
-- 2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two
-- 2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g
+dedupe_status: duplicate
+canonical_article_id: 2026-08-14-z-ai-glm-5-3-all-gains-from-post-training-no-new-base
+related_article_ids: []
 embedding_id: 2026-08-14-z-ai-ships-glm-5-3-all-gains-from-post-training-no-new-base
 event_name: ''
 ---
@@ -39,5 +35,5 @@ GLM-5.3 reuses the 743B-parameter GLM-5.2 base with every gain from scaled post-
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-14-z-ai-ships-glm-5-3-with-no-new-base-model]] · [[2026-04-23-]] · [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two]] · [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g]]
+**Canonical:** [[2026-08-14-z-ai-glm-5-3-all-gains-from-post-training-no-new-base]]
 <!-- graph:end -->

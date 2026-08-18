@@ -1,24 +1,46 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 284
+member_count: 306
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 284 connected article(s).
+> Auto-generated entity hub. 306 connected article(s).
 
+- `2026-08-17` [[2026-08-17-worldclaw-trump-family-linked-crypto-venture-reselling-us-re|WorldClaw: Trump-family-linked crypto venture reselling US-restricted Chinese AI models]]
+- `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
+- `2026-08-17` [[2026-08-17-deepseek-s-peak-off-peak-api-pricing-takes-effect|DeepSeek's peak/off-peak API pricing takes effect]]
+- `2026-08-15` [[2026-08-15-fourth-plaintiff-joins-grok-csam-class-action-against-xai-sp|Fourth Plaintiff Joins Grok CSAM Class Action Against xAI/SpaceX]]
+- `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
+- `2026-08-15` [[2026-08-15-daily-ai-news-digest-august-16-2026|Daily AI News Digest – August 16, 2026]]
+- `2026-08-15` [[2026-08-15-china-s-infiforce-raises-150m-for-an-embodied-ai-world-model|China's Infiforce raises ~$150M for an embodied-AI world model]]
+- `2026-08-14` [[2026-08-14-ukraine-says-nvidia-chip-found-in-russian-cruise-missile|Ukraine Says Nvidia Chip Found in Russian Cruise Missile]]
+- `2026-08-14` [[2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga|U.S. labs cut model prices as low-cost Chinese competitors gain enterprise share]]
+- `2026-08-14` [[2026-08-14-deepseek-ships-v4-pro-to-general-availability-with-api-price|DeepSeek ships V4-Pro to general availability, with API prices rising today]]
+- `2026-08-14` [[2026-08-14-deepseek-ships-v4-pro-and-raises-api-prices-sharply|DeepSeek ships V4 Pro and raises API prices sharply]]
+- `2026-08-14` [[2026-08-14-deepseek-open-sources-deepseek-harness-a-modular-agent-runti|DeepSeek open-sources "DeepSeek Harness," a modular agent runtime]]
+- `2026-08-14` [[2026-08-14-deepseek-launches-v4-pro-and-sharply-raises-api-prices|DeepSeek launches V4-Pro — and sharply raises API prices]]
+- `2026-08-14` [[2026-08-14-deepseek-v4-pro-price-increases-take-effect-today|DeepSeek V4-Pro Price Increases Take Effect Today]]
+- `2026-08-14` [[2026-08-14-deepseek-v4-pro-ga-sharp-price-increases-effective-aug-16|DeepSeek V4 Pro GA + Sharp Price Increases (Effective Aug 16)]]
+- `2026-08-14` [[2026-08-14-deepseek-open-sources-harness-a-modular-agent-runtime|DeepSeek Open-Sources Harness, a Modular Agent Runtime]]
+- `2026-08-14` [[2026-08-14-deepseek-moves-v4-pro-to-general-availability-with-steep-pri|DeepSeek Moves V4 Pro to General Availability With Steep Price Tiering]]
+- `2026-08-14` [[2026-08-14-daily-ai-news-digest-august-15-2026|Daily AI News Digest – August 15, 2026]]
 - `2026-08-13` [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread|OpenAI and Anthropic Data Demand Turns Startups’ Slack Threads Into Prized Assets]]
 - `2026-08-13` [[2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl|Google Releases Gemini 3.7 Flash at Half the Price of 3.6 Flash]]
+- `2026-08-13` [[2026-08-13-gemini-3-7-flash-at-half-the-price-of-3-6-flash|Gemini 3.7 Flash at Half the Price of 3.6 Flash]]
 - `2026-08-13` [[2026-08-13-enterprise-ai-adoption-stalls-legacy-it-and-agentic-gaps-per|Enterprise AI Adoption Stalls: Legacy IT and Agentic Gaps Persist]]
+- `2026-08-13` [[2026-08-13-deepseek-open-sources-harness-and-moves-v4-pro-to-general-av|DeepSeek open-sources Harness and moves V4-Pro to general availability]]
 - `2026-08-13` [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context|DeepSeek formally releases V4 Pro with 1M-token context]]
 - `2026-08-13` [[2026-08-13-deepseek-v4-pro-launches-to-mixed-reviews-priced-at-a-fracti|DeepSeek V4-Pro Launches to Mixed Reviews, Priced at a Fraction of Competitors]]
 - `2026-08-13` [[2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-then-raises-ap|DeepSeek Ships V4-Pro and Open-Source “Harness” — Then Raises API Prices]]
+- `2026-08-13` [[2026-08-13-deepseek-ships-v4-pro-open-source-harness-then-raises-prices|DeepSeek Ships V4-Pro + Open-Source “Harness” — Then Raises Prices]]
 - `2026-08-13` [[2026-08-13-deepseek-releases-v4-pro-with-1m-token-context-at-commodity|DeepSeek Releases V4 Pro With 1M-Token Context at Commodity Pricing]]
 - `2026-08-13` [[2026-08-13-deepseek-launches-v4-pro-into-general-availability|DeepSeek Launches V4-Pro Into General Availability]]
 - `2026-08-13` [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c|DeepSeek Formally Releases V4 Pro With 1M-Token Context at Commodity Pricing]]
 - `2026-08-13` [[2026-08-13-daily-ai-news-digest-august-14-2026|Daily AI News Digest – August 14, 2026]]
 - `2026-08-13` [[2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a|Carnegie Mellon Researchers Challenge What It Means to Say AI “Thinks”]]
+- `2026-08-13` [[2026-08-13-cmu-researchers-challenge-what-it-means-to-say-ai-thinks|CMU Researchers Challenge What It Means to Say AI “Thinks”]]
 - `2026-08-13` [[2026-08-13-beijing-could-suddenly-clamp-down-on-chinese-open-weight-ai|Beijing Could Suddenly Clamp Down on Chinese Open-Weight AI Models]]
 - `2026-08-13` [[2026-08-13-anthropic-investors-anticipate-2-trillion-ipo-decart-acquisi|Anthropic Investors Anticipate $2 Trillion IPO; Decart Acquisition Talks at $6B]]
 - `2026-08-12` [[2026-08-12-meta-and-nvidia-plant-very-firm-flag-in-open-weight-ai-race|Meta and Nvidia Plant 'Very Firm Flag' in Open-Weight AI Race Led by Chinese Labs]]

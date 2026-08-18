@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l
+- 2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere
 - 2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc
-- 2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation
-- 2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso
-- 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
+- 2026-08-14-spacex-xai-completes-acquisition-of-cursor-at-a-reported-60b
+- 2026-08-15-spacex-completes-60b-all-stock-acquisition-of-ai-coding-star
 embedding_id: 2026-07-28-cursor-launches-india-specific-plan-ahead-of-spacex-acquisit
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cursor launched a lower-priced India subscription, Cursor Start, at ₹649 per m
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]] · [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation]] · [[2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]]
+**Related:** [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]] · [[2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere]] · [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-08-14-spacex-xai-completes-acquisition-of-cursor-at-a-reported-60b]] · [[2026-08-15-spacex-completes-60b-all-stock-acquisition-of-ai-coding-star]]
 <!-- graph:end -->

@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 137
+member_count: 139
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 137 connected article(s).
+> Auto-generated entity hub. 139 connected article(s).
 
+- `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
+- `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
 - `2026-08-14` [[2026-08-14-china-s-cxmt-nears-intel-s-market-cap-rivaling-world-s-most|China's CXMT Nears Intel's Market Cap, Rivaling World's Most Valuable Chipmakers]]
 - `2026-08-12` [[2026-08-12-tencent-reports-q2-2026-results-touting-an-ai-empowered-pivo|Tencent reports Q2 2026 results, touting an AI-empowered pivot]]
 - `2026-08-12` [[2026-08-12-tencent-posts-rmb-204-8b-quarter-with-ai-boosted-marketing-a|Tencent posts RMB 204.8B quarter with AI-boosted marketing and 65% higher AI capex]]

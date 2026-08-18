@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-13-hassabis-pitched-independent-ai-oversight-body-to-labs-and-u
 - 2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body
 - 2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus
 - 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
-- 2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog
 embedding_id: 2026-08-13-hassabis-pitched-an-independent-ai-oversight-body-to-rival-l
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Demis Hassabis proposed an independent industry body to codify shared AI safety 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body]] · [[2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog]]
+**Related:** [[2026-08-13-hassabis-pitched-independent-ai-oversight-body-to-labs-and-u]] · [[2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body]] · [[2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]]
 <!-- graph:end -->

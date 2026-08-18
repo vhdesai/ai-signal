@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-17-openai-joins-the-ports-pike-project-targeting-roughly-8-gw-o
 - 2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb
 - 2026-08-01-deepseek-reportedly-plans-a-1-gigawatt-data-center-in-inner
 - 2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien
 - 2026-07-31-deepseek-plans-1-gigawatt-data-center-in-inner-mongolia
-- 2026-07-24-enterprise-ai-consolidates-as-infrastructure-provenance-and
 embedding_id: 2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI announced a 1-gigawatt data-center project in Michigan as part of Stargat
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb]] · [[2026-08-01-deepseek-reportedly-plans-a-1-gigawatt-data-center-in-inner]] · [[2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien]] · [[2026-07-31-deepseek-plans-1-gigawatt-data-center-in-inner-mongolia]] · [[2026-07-24-enterprise-ai-consolidates-as-infrastructure-provenance-and]]
+**Related:** [[2026-08-17-openai-joins-the-ports-pike-project-targeting-roughly-8-gw-o]] · [[2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb]] · [[2026-08-01-deepseek-reportedly-plans-a-1-gigawatt-data-center-in-inner]] · [[2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien]] · [[2026-07-31-deepseek-plans-1-gigawatt-data-center-in-inner-mongolia]]
 <!-- graph:end -->

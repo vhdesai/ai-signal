@@ -1,13 +1,22 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 269
+member_count: 278
 ---
 
 # xAI
 
-> Auto-generated entity hub. 269 connected article(s).
+> Auto-generated entity hub. 278 connected article(s).
 
+- `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
+- `2026-08-15` [[2026-08-15-spacex-closes-60b-all-stock-acquisition-of-cursor|SpaceX closes $60B all-stock acquisition of Cursor]]
+- `2026-08-15` [[2026-08-15-new-plaintiff-joins-federal-class-action-over-grok-generated|New plaintiff joins federal class action over Grok-generated abuse imagery]]
+- `2026-08-15` [[2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok|New Plaintiff Joins CSAM Lawsuit Against xAI Over Grok]]
+- `2026-08-15` [[2026-08-15-fourth-plaintiff-joins-grok-csam-class-action-against-xai-sp|Fourth Plaintiff Joins Grok CSAM Class Action Against xAI/SpaceX]]
+- `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
+- `2026-08-14` [[2026-08-14-spacex-xai-completes-acquisition-of-cursor-at-a-reported-60b|SpaceX/xAI completes acquisition of Cursor at a reported ~$60B]]
+- `2026-08-14` [[2026-08-14-nvidia-s-13f-reveals-a-21b-spacex-stake-and-30b-intel-positi|Nvidia's 13F reveals a $21B SpaceX stake and $30B Intel position]]
+- `2026-08-14` [[2026-08-14-nvidia-s-13f-reveals-21b-spacex-and-30b-intel-equity-positio|Nvidia's 13F reveals $21B SpaceX and $30B Intel equity positions]]
 - `2026-08-13` [[2026-08-13-spacex-stock-jumps-as-grok-release-ramps-up-ai-competition|SpaceX Stock Jumps as Grok Release Ramps Up AI Competition]]
 - `2026-08-12` [[2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno|xAI releases Grok 4.6 for long-running agents, coding, and knowledge work]]
 - `2026-08-12` [[2026-08-12-xai-ships-grok-4-6-with-500k-context-reaching-parity-with-gp|xAI Ships Grok 4.6 With 500K Context, Reaching Parity With GPT-5.6 Sol]]

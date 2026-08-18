@@ -27,10 +27,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview
+- 2026-08-17-daily-ai-news-digest-august-18-2026
 - 2026-06-29-daily-ai-news-digest-june-29-2026
 - 2026-08-11-daily-ai-news-digest-august-11-2026
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
-- 2026-06-27-daily-ai-news-digest-june-27-2026
 embedding_id: event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2
 event_name: 'Daily AI News Digest — Company & Industry (Last 24 Hours: June 1–2, 2026)'
 ---
@@ -44,5 +44,5 @@ This pass covers AI company and industry news confirmed published within the las
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]]
+**Related:** [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview]] · [[2026-08-17-daily-ai-news-digest-august-18-2026]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
 <!-- graph:end -->

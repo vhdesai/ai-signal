@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for
 - 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe
-- 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
+- 2026-08-18-alibaba-s-qwen3-8-27b-brings-frontier-class-local-coding-and
 embedding_id: 2026-07-06-tencent-s-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-s
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Tencent released Hy3 as a 295B-parameter mixture-of-experts model with 21B activ
 
 **Entities:** [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe]] · [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]]
+**Related:** [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe]] · [[2026-08-18-alibaba-s-qwen3-8-27b-brings-frontier-class-local-coding-and]]
 <!-- graph:end -->

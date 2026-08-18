@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
-- 2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves
-- 2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr
-- 2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the
-- 2026-07-31-openai-crosses-1-billion-users-after-cutting-gpt-5-6-prices
+- 2026-08-14-openai-s-annualized-revenue-run-rate-tops-40-billion-ahead-o
+- 2026-08-14-openai-passes-40b-annualized-run-rate-as-revenue-chief-exits
+- 2026-08-14-openai-passes-40b-run-rate-enterprise-now-larger-than-consum
+- 2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo
+- 2026-08-14-openai-nears-ipo-at-a-40b-run-rate-amid-continued-executive
 embedding_id: 2026-08-12-openai-business-revenue-surges-32-month-on-month-in-july
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI’s run-rate revenue from business customers increased 32% month-on-month
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]] · [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr]] · [[2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the]] · [[2026-07-31-openai-crosses-1-billion-users-after-cutting-gpt-5-6-prices]]
+**Related:** [[2026-08-14-openai-s-annualized-revenue-run-rate-tops-40-billion-ahead-o]] · [[2026-08-14-openai-passes-40b-annualized-run-rate-as-revenue-chief-exits]] · [[2026-08-14-openai-passes-40b-run-rate-enterprise-now-larger-than-consum]] · [[2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo]] · [[2026-08-14-openai-nears-ipo-at-a-40b-run-rate-amid-continued-executive]]
 <!-- graph:end -->

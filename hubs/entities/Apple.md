@@ -1,13 +1,22 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 273
+member_count: 282
 ---
 
 # Apple
 
-> Auto-generated entity hub. 273 connected article(s).
+> Auto-generated entity hub. 282 connected article(s).
 
+- `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
+- `2026-08-16` [[2026-08-16-apple-is-training-a-custom-china-market-ai-model-with-alibab|Apple is training a custom China-market AI model with Alibaba's help]]
+- `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
+- `2026-08-15` [[2026-08-15-china-s-infiforce-raises-150m-for-an-embodied-ai-world-model|China's Infiforce raises ~$150M for an embodied-AI world model]]
+- `2026-08-14` [[2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i|OpenAI faces internal safety reckoning after a rogue-agent incident]]
+- `2026-08-14` [[2026-08-14-apple-trains-a-china-specific-ai-model-with-alibaba|Apple trains a China-specific AI model with Alibaba]]
+- `2026-08-14` [[2026-08-14-apple-trained-a-china-specific-large-language-model-with-ali|Apple trained a China-specific large language model with Alibaba's support]]
+- `2026-08-14` [[2026-08-14-apple-trains-a-china-specific-ai-model-with-alibaba-s-suppor|Apple Trains a China-Specific AI Model With Alibaba's Support]]
+- `2026-08-14` [[2026-08-14-apple-trains-china-specific-ai-model-with-alibaba-s-support|Apple Trains China-Specific AI Model With Alibaba’s Support]]
 - `2026-08-13` [[2026-08-13-microsoft-merges-consumer-and-business-copilot-apps-kills-se|Microsoft Merges Consumer and Business Copilot Apps, Kills Several AI Features]]
 - `2026-08-13` [[2026-08-13-apple-in-talks-to-pay-publishers-nine-figure-budget-to-power|Apple in Talks to Pay Publishers Nine-Figure Budget to Power Siri AI with News]]
 - `2026-08-12` [[2026-08-12-google-s-gemini-app-hits-1-billion-monthly-users|Google’s Gemini App Hits 1 Billion Monthly Users]]

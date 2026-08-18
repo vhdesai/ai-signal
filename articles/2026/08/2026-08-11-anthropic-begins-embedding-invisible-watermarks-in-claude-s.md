@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-11-anthropic-will-watermark-claude-generated-text-and-images-fo
 - 2026-08-11-anthropic-will-invisibly-watermark-text-generated-by-claude
 - 2026-08-11-anthropic-begins-watermarking-claude-generated-text-and-imag
-- 2026-08-11-anthropic-says-it-will-watermark-claude-generated-text
+- 2026-08-15-anthropic-details-how-claude-s-new-text-watermarking-will-wo
 embedding_id: 2026-08-11-anthropic-begins-embedding-invisible-watermarks-in-claude-s
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic announced it will embed invisible, machine-readable watermarks in all 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-08-13-anthropic-turns-on-invisible-watermarking-for-claude-text-ou]] · [[2026-08-11-anthropic-will-watermark-claude-generated-text-and-images-fo]] · [[2026-08-11-anthropic-will-invisibly-watermark-text-generated-by-claude]] · [[2026-08-11-anthropic-begins-watermarking-claude-generated-text-and-imag]] · [[2026-08-11-anthropic-says-it-will-watermark-claude-generated-text]]
+**Related:** [[2026-08-13-anthropic-turns-on-invisible-watermarking-for-claude-text-ou]] · [[2026-08-11-anthropic-will-watermark-claude-generated-text-and-images-fo]] · [[2026-08-11-anthropic-will-invisibly-watermark-text-generated-by-claude]] · [[2026-08-11-anthropic-begins-watermarking-claude-generated-text-and-imag]] · [[2026-08-15-anthropic-details-how-claude-s-new-text-watermarking-will-wo]]
 <!-- graph:end -->

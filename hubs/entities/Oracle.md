@@ -1,14 +1,19 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 129
+member_count: 134
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 129 connected article(s).
+> Auto-generated entity hub. 134 connected article(s).
 
+- `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
+- `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
+- `2026-08-14` [[2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion|FT: Big Tech AI purchase commitments approach ~$1.5 trillion]]
+- `2026-08-14` [[2026-08-14-big-tech-ai-purchase-commitments-approach-1-5-trillion|Big Tech AI purchase commitments approach $1.5 trillion]]
 - `2026-08-13` [[2026-08-13-vantage-data-centers-explores-ipo-at-100b-valuation|Vantage Data Centers Explores IPO at ~$100B Valuation]]
+- `2026-08-13` [[2026-08-13-vantage-data-centers-explores-ipo-at-100b|Vantage Data Centers Explores IPO at ~$100B]]
 - `2026-08-13` [[2026-08-13-vantage-data-centers-explores-ipo-at-roughly-100b-valuation|Vantage Data Centers Explores IPO at Roughly $100B Valuation]]
 - `2026-08-12` [[2026-08-12-oracle-drawing-up-layoff-plans-as-ai-infrastructure-debt-mou|Oracle Drawing Up Layoff Plans as AI Infrastructure Debt Mounts]]
 - `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]

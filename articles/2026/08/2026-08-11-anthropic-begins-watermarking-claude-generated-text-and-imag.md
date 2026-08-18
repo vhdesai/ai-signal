@@ -21,7 +21,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-anthropic-begins-embedding-invisible-watermarks-in-claude-s
-related_article_ids: []
+related_article_ids:
+- 2026-08-11-anthropic-says-it-will-watermark-claude-generated-text
 embedding_id: 2026-08-11-anthropic-begins-watermarking-claude-generated-text-and-imag
 event_name: ''
 ---
@@ -36,4 +37,5 @@ Anthropic confirmed that all models released after August 2 automatically waterm
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
 **Canonical:** [[2026-08-11-anthropic-begins-embedding-invisible-watermarks-in-claude-s]]
+**Related:** [[2026-08-11-anthropic-says-it-will-watermark-claude-generated-text]]
 <!-- graph:end -->

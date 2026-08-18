@@ -17,14 +17,9 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-21-palantir-sues-pentagon-to-compete-for-dia-ai-analytics-contr
-- 2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r
-- 2026-05-26-palantir-stock-watched-as-aip-adoption-lifts-2026-revenue-gu
-- 2026-05-14-palantir-reported-q1-2026-results-on-may-4-with-u-s
-- 2026-05-05-palantir-price-target-raised-to-225-rosenblatt-names-ontolog
+dedupe_status: duplicate
+canonical_article_id: 2026-08-13-draft-pentagon-memo-directs-244m-to-palantir-without-competi
+related_article_ids: []
 embedding_id: 2026-08-13-draft-pentagon-memo-directs-up-to-244m-to-palantir-without-c
 event_name: ''
 ---
@@ -38,5 +33,5 @@ A draft DoD memo from Deputy Secretary Feinberg directs up to $243.9M in Palanti
 
 **Entities:** [[Palantir]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-21-palantir-sues-pentagon-to-compete-for-dia-ai-analytics-contr]] · [[2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r]] · [[2026-05-26-palantir-stock-watched-as-aip-adoption-lifts-2026-revenue-gu]] · [[2026-05-14-palantir-reported-q1-2026-results-on-may-4-with-u-s]] · [[2026-05-05-palantir-price-target-raised-to-225-rosenblatt-names-ontolog]]
+**Canonical:** [[2026-08-13-draft-pentagon-memo-directs-244m-to-palantir-without-competi]]
 <!-- graph:end -->

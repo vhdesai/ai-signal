@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo
 - 2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development
 - 2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace
-- 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
+- 2026-08-17-openai-s-greg-brockman-argues-the-defender-s-window-for-ai-a
 embedding_id: 2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechCrunch reports that Sam Altman said the world may need to pace AI developmen
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate]] · [[2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo]] · [[2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]]
+**Related:** [[2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate]] · [[2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo]] · [[2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-08-17-openai-s-greg-brockman-argues-the-defender-s-window-for-ai-a]]
 <!-- graph:end -->

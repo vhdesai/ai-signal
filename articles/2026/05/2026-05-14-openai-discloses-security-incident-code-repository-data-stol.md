@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi
+- 2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i
 - 2026-05-22-wired-reported-that-the-group-behind-a-recent-github-reposit
 - 2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft
 - 2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio
-- 2026-08-07-openai-pauses-astra-model-development-after-reaching-critica
 embedding_id: 2026-05-14-openai-discloses-security-incident-code-repository-data-stol
 event_name: ''
 ---
@@ -42,5 +42,5 @@ OpenAI disclosed a security incident in which attackers exfiltrated data from th
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi]] · [[2026-05-22-wired-reported-that-the-group-behind-a-recent-github-reposit]] · [[2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft]] · [[2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio]] · [[2026-08-07-openai-pauses-astra-model-development-after-reaching-critica]]
+**Related:** [[2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi]] · [[2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i]] · [[2026-05-22-wired-reported-that-the-group-behind-a-recent-github-reposit]] · [[2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft]] · [[2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio]]
 <!-- graph:end -->

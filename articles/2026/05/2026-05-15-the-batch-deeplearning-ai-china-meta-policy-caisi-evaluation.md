@@ -47,7 +47,7 @@ related_article_ids:
 - 2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u
 - 2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
-- 2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a
+- 2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu
 embedding_id: 2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation
 event_name: ''
 ---
@@ -61,5 +61,5 @@ This week's edition of The Batch highlights three key AI policy and research thr
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u]] · [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]]
+**Related:** [[2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u]] · [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu]]
 <!-- graph:end -->

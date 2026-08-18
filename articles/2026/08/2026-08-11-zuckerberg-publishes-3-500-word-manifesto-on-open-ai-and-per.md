@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c
 - 2026-08-10-zuckerberg-publishes-a-6-500-word-case-for-broadly-distribut
 - 2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision
+- 2026-08-16-why-people-aren-t-buying-mark-zuckerberg-s-ai-future-and-whe
 embedding_id: 2026-08-11-zuckerberg-publishes-3-500-word-manifesto-on-open-ai-and-per
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Mark Zuckerberg published an extensive manifesto arguing that superintelligence 
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-10-zuckerberg-publishes-personal-superintelligence-manifesto-al]] · [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c]] · [[2026-08-10-zuckerberg-publishes-a-6-500-word-case-for-broadly-distribut]] · [[2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision]]
+**Related:** [[2026-08-10-zuckerberg-publishes-personal-superintelligence-manifesto-al]] · [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c]] · [[2026-08-10-zuckerberg-publishes-a-6-500-word-case-for-broadly-distribut]] · [[2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision]] · [[2026-08-16-why-people-aren-t-buying-mark-zuckerberg-s-ai-future-and-whe]]
 <!-- graph:end -->

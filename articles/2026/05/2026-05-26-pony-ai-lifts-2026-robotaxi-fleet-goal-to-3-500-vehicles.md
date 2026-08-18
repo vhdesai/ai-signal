@@ -21,11 +21,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-14-uber-and-pony-ai-plan-2-000-robotaxis-across-european-cities
+- 2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across
+- 2026-08-14-pony-ai-and-uber-plan-more-than-2-000-robotaxis-across-five
+- 2026-08-14-applied-materials-record-9-12b-quarter-uber-pony-ai-2-000-eu
 - 2026-04-02-baidu-s-apollo-go-robotaxi-fleet-suffered-a-suspected-system
-- 2026-04-23-huawei-commits-11-7b-to-autonomous-driving-ai-compute-build
-- 2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani
-- 2026-06-24-amazon-s-zoox-unveils-redesigned-robotaxi-ahead-of-commercia
-- 2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021
 embedding_id: 2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Chinese autonomous-driving firm Pony AI raised its 2026 robotaxi fleet target to
 
 **Entities:** [[Baidu]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-02-baidu-s-apollo-go-robotaxi-fleet-suffered-a-suspected-system]] · [[2026-04-23-huawei-commits-11-7b-to-autonomous-driving-ai-compute-build]] · [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani]] · [[2026-06-24-amazon-s-zoox-unveils-redesigned-robotaxi-ahead-of-commercia]] · [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]]
+**Related:** [[2026-08-14-uber-and-pony-ai-plan-2-000-robotaxis-across-european-cities]] · [[2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across]] · [[2026-08-14-pony-ai-and-uber-plan-more-than-2-000-robotaxis-across-five]] · [[2026-08-14-applied-materials-record-9-12b-quarter-uber-pony-ai-2-000-eu]] · [[2026-04-02-baidu-s-apollo-go-robotaxi-fleet-suffered-a-suspected-system]]
 <!-- graph:end -->

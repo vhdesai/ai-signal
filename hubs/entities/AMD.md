@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 71
+member_count: 73
 ---
 
 # AMD
 
-> Auto-generated entity hub. 71 connected article(s).
+> Auto-generated entity hub. 73 connected article(s).
 
+- `2026-08-16` [[2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp|Report: Google taps AMD to help design its next-generation TPU]]
+- `2026-08-14` [[2026-08-14-bofa-warns-broadcom-s-chip-financing-vehicle-could-carry-370|BofA warns Broadcom's chip-financing vehicle could carry $370B in AI debt]]
 - `2026-08-11` [[2026-08-11-river-ai-raises-1-1-billion-two-months-after-launch|River AI raises $1.1 billion two months after launch]]
 - `2026-08-11` [[2026-08-11-river-ai-raises-1-1b-for-an-open-weights-post-training-cloud|River AI Raises $1.1B for an Open-Weights Post-Training Cloud]]
 - `2026-08-11` [[2026-08-11-cognition-in-early-talks-at-40b-valuation-river-ai-raises-1|Cognition in Early Talks at $40B+ Valuation; River AI Raises $1.1B]]

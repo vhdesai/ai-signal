@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-02-openai-has-updated-chatgpt-s-privacy-settings-to-enable-beha
+- 2026-08-15-openai-tells-european-free-tier-users-ads-arrive-this-month
+- 2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar
+- 2026-08-15-chatgpt-ads-arriving-this-month-for-european-free-tier-users
 - 2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us
-- 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
-- 2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international
-- 2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf
 embedding_id: 2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI has quietly enabled marketing cookies and ad-targeting tracking by defaul
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-02-openai-has-updated-chatgpt-s-privacy-settings-to-enable-beha]] · [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]]
+**Related:** [[2026-05-02-openai-has-updated-chatgpt-s-privacy-settings-to-enable-beha]] · [[2026-08-15-openai-tells-european-free-tier-users-ads-arrive-this-month]] · [[2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar]] · [[2026-08-15-chatgpt-ads-arriving-this-month-for-european-free-tier-users]] · [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]]
 <!-- graph:end -->

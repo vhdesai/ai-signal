@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv
-- 2026-08-13-analysis-export-controls-alone-won-t-decide-the-us-china-ai
+- 2026-08-17-worldclaw-trump-family-linked-crypto-venture-reselling-us-re
 embedding_id: 2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Beijing is considering export controls on China's most capable AI models, mirror
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv]] · [[2026-08-13-analysis-export-controls-alone-won-t-decide-the-us-china-ai]]
+**Related:** [[2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv]] · [[2026-08-17-worldclaw-trump-family-linked-crypto-venture-reselling-us-re]]
 <!-- graph:end -->

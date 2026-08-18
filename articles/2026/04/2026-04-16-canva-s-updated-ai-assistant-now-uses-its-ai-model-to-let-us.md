@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-adobe-canva-and-capcut-integrate-gemini-directly-inside-the
-- 2026-08-06-at-canva-chatgpt-compounded-an-ai-challenge
 - 2026-04-03-google-upgraded-vids-with-veo-3-1-video-generation-lyria-3-m
 - 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
+- 2026-05-13-meta-is-testing-a-meta-ai-integration-on-threads-that-mimics
 embedding_id: 2026-04-16-canva-s-updated-ai-assistant-now-uses-its-ai-model-to-let-us
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Canva's updated AI assistant now uses its AI model to let users create editable,
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-adobe-canva-and-capcut-integrate-gemini-directly-inside-the]] · [[2026-08-06-at-canva-chatgpt-compounded-an-ai-challenge]] · [[2026-04-03-google-upgraded-vids-with-veo-3-1-video-generation-lyria-3-m]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]]
+**Related:** [[2026-05-25-adobe-canva-and-capcut-integrate-gemini-directly-inside-the]] · [[2026-04-03-google-upgraded-vids-with-veo-3-1-video-generation-lyria-3-m]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-13-meta-is-testing-a-meta-ai-integration-on-threads-that-mimics]]
 <!-- graph:end -->

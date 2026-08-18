@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-12-amazon-will-train-on-twitch-streamers-content-by-default-unl
 - 2026-08-13-twitch-opts-all-streamers-into-amazon-ai-training-by-default
-- 2026-08-12-anthropic-text-watermarks-trigger-backlash-amazon-twitch-set
 - 2026-07-06-if-you-use-google-you-re-training-its-ai-here-s-how-to-opt-o
 - 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
+- 2026-05-28-amazon-kills-internal-ai-leaderboard-after-employees-gamed-i
 embedding_id: 2026-08-12-amazon-confirms-training-ai-on-twitch-livestreams-users-opte
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Twitch confirmed Amazon is using streamer content to train generative AI models,
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-12-amazon-will-train-on-twitch-streamers-content-by-default-unl]] · [[2026-08-13-twitch-opts-all-streamers-into-amazon-ai-training-by-default]] · [[2026-08-12-anthropic-text-watermarks-trigger-backlash-amazon-twitch-set]] · [[2026-07-06-if-you-use-google-you-re-training-its-ai-here-s-how-to-opt-o]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]]
+**Related:** [[2026-08-12-amazon-will-train-on-twitch-streamers-content-by-default-unl]] · [[2026-08-13-twitch-opts-all-streamers-into-amazon-ai-training-by-default]] · [[2026-07-06-if-you-use-google-you-re-training-its-ai-here-s-how-to-opt-o]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]] · [[2026-05-28-amazon-kills-internal-ai-leaderboard-after-employees-gamed-i]]
 <!-- graph:end -->

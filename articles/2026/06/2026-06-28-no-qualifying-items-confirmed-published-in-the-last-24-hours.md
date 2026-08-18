@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours-2
 - 2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university
+- 2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo
 - 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
 - event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o
-- 2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b
 embedding_id: 2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours
 event_name: ''
 ---
@@ -38,5 +38,5 @@ No qualifying items confirmed published in the last 24 hours. Research blogs and
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours-2]] · [[2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university]] · [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o]] · [[2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b]]
+**Related:** [[2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours-2]] · [[2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o]]
 <!-- graph:end -->

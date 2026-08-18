@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c
 - 2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen
 - 2026-08-10-zuckerberg-s-6-500-word-essay-argues-concentrated-control-is
+- 2026-08-16-why-people-aren-t-buying-mark-zuckerberg-s-ai-future-and-whe
 - 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
 embedding_id: 2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea
 event_name: ''
@@ -41,5 +42,5 @@ Meta CEO Mark Zuckerberg used a pair of interviews ahead of the company's earnin
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c]] · [[2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen]] · [[2026-08-10-zuckerberg-s-6-500-word-essay-argues-concentrated-control-is]] · [[2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company]]
+**Related:** [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c]] · [[2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen]] · [[2026-08-10-zuckerberg-s-6-500-word-essay-argues-concentrated-control-is]] · [[2026-08-16-why-people-aren-t-buying-mark-zuckerberg-s-ai-future-and-whe]] · [[2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company]]
 <!-- graph:end -->

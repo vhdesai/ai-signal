@@ -41,8 +41,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
 - 2026-08-11-daily-ai-news-digest-august-11-2026
-- 2026-08-13-daily-ai-news-digest-august-14-2026
 - 2026-08-11-daily-ai-news-digest-august-12-2026
+- 2026-07-09-anthropic-openai-and-spacex-are-bigger-than-the-last-25-year
 embedding_id: 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 event_name: ''
 ---
@@ -56,5 +56,5 @@ event_name: ''
 
 **Entities:** [[AMD]] · [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Intel]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Salesforce]] · [[Tesla]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-08-13-daily-ai-news-digest-august-14-2026]] · [[2026-08-11-daily-ai-news-digest-august-12-2026]]
+**Related:** [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-08-11-daily-ai-news-digest-august-12-2026]] · [[2026-07-09-anthropic-openai-and-spacex-are-bigger-than-the-last-25-year]]
 <!-- graph:end -->

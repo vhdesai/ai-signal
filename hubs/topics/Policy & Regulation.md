@@ -1,23 +1,52 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 1118
+member_count: 1147
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 1118 connected article(s).
+> Auto-generated topic hub. 1147 connected article(s).
 
+- `2026-08-17` [[2026-08-17-worldclaw-trump-family-linked-crypto-venture-reselling-us-re|WorldClaw: Trump-family-linked crypto venture reselling US-restricted Chinese AI models]]
+- `2026-08-17` [[2026-08-17-the-download-dead-robot-friends-and-the-censorship-industria|The Download: dead robot friends and the censorship-industrial complex]]
+- `2026-08-17` [[2026-08-17-openai-s-greg-brockman-argues-the-defender-s-window-for-ai-a|OpenAI's Greg Brockman argues the "defender's window" for AI-automated security is now]]
+- `2026-08-17` [[2026-08-17-daily-ai-news-digest-august-18-2026|Daily AI News Digest – August 18, 2026]]
+- `2026-08-17` [[2026-08-17-copilot-autofix-introduced-shell-injection-in-snowflake-s-ci|Copilot Autofix Introduced Shell Injection in Snowflake’s CI/CD]]
+- `2026-08-17` [[2026-08-17-amazon-is-buying-and-destroying-rare-books-to-scan-them-for|Amazon is buying and destroying rare books to scan them for AI training]]
+- `2026-08-17` [[2026-08-17-amazon-reportedly-destroying-rare-books-for-ai-training|Amazon Reportedly Destroying Rare Books for AI Training]]
+- `2026-08-17` [[2026-08-17-ai-drafted-legislation-overwhelming-u-s-house-drafting-offic|AI-Drafted Legislation Overwhelming U.S. House Drafting Office]]
+- `2026-08-16` [[2026-08-16-why-people-aren-t-buying-mark-zuckerberg-s-ai-future-and-whe|Why people aren't buying Mark Zuckerberg's AI future — and where Meta's Glimmer fits]]
+- `2026-08-16` [[2026-08-16-anthropic-ceo-dario-amodei-the-ai-backlash-is-fundamentally|Anthropic CEO Dario Amodei: the AI backlash is "fundamentally a crisis of trust"]]
+- `2026-08-15` [[2026-08-15-openai-tells-european-free-tier-users-ads-arrive-this-month|OpenAI tells European free-tier users ads arrive this month]]
+- `2026-08-15` [[2026-08-15-new-plaintiff-joins-federal-class-action-over-grok-generated|New plaintiff joins federal class action over Grok-generated abuse imagery]]
+- `2026-08-15` [[2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok|New Plaintiff Joins CSAM Lawsuit Against xAI Over Grok]]
+- `2026-08-15` [[2026-08-15-fourth-plaintiff-joins-grok-csam-class-action-against-xai-sp|Fourth Plaintiff Joins Grok CSAM Class Action Against xAI/SpaceX]]
+- `2026-08-15` [[2026-08-15-china-s-infiforce-raises-150m-for-an-embodied-ai-world-model|China's Infiforce raises ~$150M for an embodied-AI world model]]
+- `2026-08-15` [[2026-08-15-anthropic-s-august-2026-risk-report-rates-full-automation-ri|Anthropic's August 2026 Risk Report Rates Full-Automation Risk “Low” — For Now]]
+- `2026-08-15` [[2026-08-15-anthropic-raises-its-misalignment-risk-rating-and-shelves-an|Anthropic raises its misalignment risk rating and shelves an internal frontier model]]
+- `2026-08-15` [[2026-08-15-anthropic-raises-its-misalignment-risk-rating-and-discloses|Anthropic raises its misalignment risk rating and discloses an unreleased "Model 2"]]
+- `2026-08-15` [[2026-08-15-anthropic-details-claude-s-watermark-limits-as-paying-users|Anthropic details Claude's watermark limits as paying users churn]]
+- `2026-08-15` [[2026-08-15-anthropic-raises-misalignment-risk-rating-discloses-unreleas|Anthropic Raises Misalignment Risk Rating; Discloses Unreleased Frontier Model]]
 - `2026-08-14` [[2026-08-14-z-ai-ships-glm-5-3-all-gains-from-post-training-no-new-base|Z.ai Ships GLM-5.3 — All Gains From Post-Training, No New Base Model]]
+- `2026-08-14` [[2026-08-14-z-ai-glm-5-3-all-gains-from-post-training-no-new-base|Z.ai GLM-5.3 — All Gains From Post-Training, No New Base]]
+- `2026-08-14` [[2026-08-14-ukraine-says-nvidia-chip-found-in-russian-cruise-missile|Ukraine Says Nvidia Chip Found in Russian Cruise Missile]]
+- `2026-08-14` [[2026-08-14-sen-jim-banks-urges-the-white-house-to-back-us-open-weight-a|Sen. Jim Banks urges the White House to back US open-weight AI models]]
+- `2026-08-14` [[2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i|OpenAI faces internal safety reckoning after a rogue-agent incident]]
+- `2026-08-14` [[2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne|Nvidia $500B Financing Draws Scrutiny; Big Tech Commitments Near $1.5T]]
 - `2026-08-14` [[2026-08-14-flock-safety-adds-ai-surveillance-safeguards-after-backlash|Flock Safety Adds AI Surveillance Safeguards After Backlash]]
+- `2026-08-14` [[2026-08-14-dual-use-alarm-as-a-chinese-open-weights-model-rivals-us-fro|Dual-use alarm as a Chinese open-weights model rivals US frontier cyber performance]]
+- `2026-08-14` [[2026-08-14-anthropic-details-claude-text-watermarking-under-eu-ai-act|Anthropic Details Claude Text Watermarking Under EU AI Act]]
 - `2026-08-14` [[2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court|AI Glasses Land Meta, Oakley, and Ray-Ban in German Court]]
 - `2026-08-13` [[2026-08-13-twitch-opts-all-streamers-into-amazon-ai-training-by-default|Twitch Opts All Streamers Into Amazon AI Training by Default, Then Adds an Opt-Out]]
 - `2026-08-13` [[2026-08-13-nvidia-weighs-reducing-memory-on-next-gen-rubin-ultra-gpu-du|Nvidia Weighs Reducing Memory on Next-Gen Rubin Ultra GPU Due to HBM Shortage]]
 - `2026-08-13` [[2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data|Nvidia Unveils $500B Plan with Wall Street to Finance AI Data Centers and Create GPU Secondary Market]]
 - `2026-08-13` [[2026-08-13-ibm-partners-with-openai-to-train-tens-of-thousands-of-consu|IBM Partners with OpenAI to Train Tens of Thousands of Consultants]]
 - `2026-08-13` [[2026-08-13-hassabis-pitched-an-independent-ai-oversight-body-to-rival-l|Hassabis Pitched an Independent AI Oversight Body to Rival Labs and U.S. Officials]]
+- `2026-08-13` [[2026-08-13-hassabis-pitched-independent-ai-oversight-body-to-labs-and-u|Hassabis Pitched Independent AI Oversight Body to Labs and U.S. Officials]]
 - `2026-08-13` [[2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g|Hackers Deploy Fully Autonomous AI Agents to Attack Taiwan Government Agencies]]
 - `2026-08-13` [[2026-08-13-eu-ai-act-article-50-transparency-duties-are-now-in-force|EU AI Act Article 50 transparency duties are now in force]]
+- `2026-08-13` [[2026-08-13-cmu-researchers-challenge-what-it-means-to-say-ai-thinks|CMU Researchers Challenge What It Means to Say AI “Thinks”]]
 - `2026-08-13` [[2026-08-13-beijing-could-suddenly-clamp-down-on-chinese-open-weight-ai|Beijing Could Suddenly Clamp Down on Chinese Open-Weight AI Models]]
 - `2026-08-13` [[2026-08-13-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a|Autonomous AI agents breach Taiwan's nuclear regulator in a four-day strike]]
 - `2026-08-13` [[2026-08-13-anthropic-to-watermark-all-claude-output-for-eu-ai-act-compl|Anthropic to watermark all Claude output for EU AI Act compliance]]

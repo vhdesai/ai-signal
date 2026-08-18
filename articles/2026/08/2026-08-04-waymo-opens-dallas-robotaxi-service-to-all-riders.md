@@ -19,6 +19,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-14-uber-and-pony-ai-plan-2-000-robotaxis-across-european-cities
+- 2026-08-14-pony-ai-and-uber-plan-more-than-2-000-robotaxis-across-five
 - 2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle
 - 2026-07-03-singapore-s-dconstruct-raises-a-125m-series-a-for-gps-denied
 - 2026-07-28-baidu-and-lyft-enter-london-s-robotaxi-market-as-testing-beg
@@ -34,5 +36,5 @@ Waymo removed the waitlist for its Dallas robotaxi service, opening access to an
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle]] · [[2026-07-03-singapore-s-dconstruct-raises-a-125m-series-a-for-gps-denied]] · [[2026-07-28-baidu-and-lyft-enter-london-s-robotaxi-market-as-testing-beg]]
+**Related:** [[2026-08-14-uber-and-pony-ai-plan-2-000-robotaxis-across-european-cities]] · [[2026-08-14-pony-ai-and-uber-plan-more-than-2-000-robotaxis-across-five]] · [[2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle]] · [[2026-07-03-singapore-s-dconstruct-raises-a-125m-series-a-for-gps-denied]] · [[2026-07-28-baidu-and-lyft-enter-london-s-robotaxi-market-as-testing-beg]]
 <!-- graph:end -->

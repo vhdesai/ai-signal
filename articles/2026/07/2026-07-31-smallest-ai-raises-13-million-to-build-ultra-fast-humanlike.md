@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a
 - 2026-07-02-xai-launches-grok-voice-ai-agent-builder
-- 2026-07-29-encore-ai-raises-30-million-for-agents-that-learn-from-custo
+- 2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-dictati
 embedding_id: 2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Smallest.ai raised a $13 million Series A to build specialized voice models desi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-07-02-xai-launches-grok-voice-ai-agent-builder]] · [[2026-07-29-encore-ai-raises-30-million-for-agents-that-learn-from-custo]]
+**Related:** [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-07-02-xai-launches-grok-voice-ai-agent-builder]] · [[2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-dictati]]
 <!-- graph:end -->

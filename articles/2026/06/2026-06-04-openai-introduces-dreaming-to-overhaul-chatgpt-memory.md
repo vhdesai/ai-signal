@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-14-openai-rolls-out-computer-history-for-the-chatgpt-mac-app
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
 - 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
 - 2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory
 - 2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu
-- 2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt
 embedding_id: 2026-06-04-openai-introduces-dreaming-to-overhaul-chatgpt-memory
 event_name: ''
 ---
@@ -40,5 +40,5 @@ event_name: ''
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]] · [[2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]]
+**Related:** [[2026-08-14-openai-rolls-out-computer-history-for-the-chatgpt-mac-app]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]] · [[2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]]
 <!-- graph:end -->

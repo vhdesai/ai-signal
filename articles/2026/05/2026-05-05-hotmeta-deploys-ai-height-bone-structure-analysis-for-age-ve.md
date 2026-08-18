@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-06-20-in-the-weights-launches-ai-centric-vanity-search
 - 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
+- 2026-08-16-why-people-aren-t-buying-mark-zuckerberg-s-ai-future-and-whe
 - 2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms
-- 2026-08-10-meta-launches-muse-glimmer-a-30b-open-weight-agentic-model-t
 embedding_id: 2026-05-05-hotmeta-deploys-ai-height-bone-structure-analysis-for-age-ve
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Meta is using AI to analyze user height and bone structure to identify users it 
 ## Connections
 
 **Entities:** [[Meta]]
-**Related:** [[2026-06-20-in-the-weights-launches-ai-centric-vanity-search]] · [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms]] · [[2026-08-10-meta-launches-muse-glimmer-a-30b-open-weight-agentic-model-t]]
+**Related:** [[2026-06-20-in-the-weights-launches-ai-centric-vanity-search]] · [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-08-16-why-people-aren-t-buying-mark-zuckerberg-s-ai-future-and-whe]] · [[2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms]]
 <!-- graph:end -->

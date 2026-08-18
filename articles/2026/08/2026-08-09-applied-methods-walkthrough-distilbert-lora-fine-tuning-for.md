@@ -20,9 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu
 - 2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin
 - 2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc
-- 2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline
 embedding_id: 2026-08-09-applied-methods-walkthrough-distilbert-lora-fine-tuning-for
 event_name: ''
 ---
@@ -35,5 +35,5 @@ A technical walkthrough pairing TF-IDF baselines with parameter-efficient Distil
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin]] · [[2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc]] · [[2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline]]
+**Related:** [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu]] · [[2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin]] · [[2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc]]
 <!-- graph:end -->

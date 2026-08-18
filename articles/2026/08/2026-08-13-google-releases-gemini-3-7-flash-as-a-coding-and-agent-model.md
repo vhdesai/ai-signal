@@ -23,6 +23,8 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-13-google-launches-gemini-3-7-flash-at-half-the-price-of-3-6-fl
 related_article_ids:
 - 2026-08-13-google-releases-gemini-3-7-flash-to-general-availability
+- 2026-08-13-google-ships-gemini-3-7-flash-with-a-50-introductory-price-c
+- 2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9
 embedding_id: 2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model
 event_name: ''
 ---
@@ -37,5 +39,5 @@ Google DeepMind released Gemini 3.7 Flash, positioned explicitly for coding and 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-08-13-google-launches-gemini-3-7-flash-at-half-the-price-of-3-6-fl]]
-**Related:** [[2026-08-13-google-releases-gemini-3-7-flash-to-general-availability]]
+**Related:** [[2026-08-13-google-releases-gemini-3-7-flash-to-general-availability]] · [[2026-08-13-google-ships-gemini-3-7-flash-with-a-50-introductory-price-c]] · [[2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9]]
 <!-- graph:end -->

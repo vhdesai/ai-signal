@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-11-daily-ai-news-digest-august-11-2026
 - 2026-08-08-daily-ai-news-digest-august-8-2026
 - 2026-08-09-daily-ai-news-digest-august-10-2026
-- 2026-05-20-ai-news-digest-may-20-2026
+- 2026-08-17-daily-ai-news-digest-august-18-2026
 embedding_id: 2026-08-05-daily-ai-news-digest-august-6-2026
 event_name: ''
 ---
@@ -42,5 +42,5 @@ The last 24 hours were dominated by a structural story rather than a capability 
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-12-daily-ai-news-digest-august-12-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-08-09-daily-ai-news-digest-august-10-2026]] · [[2026-05-20-ai-news-digest-may-20-2026]]
+**Related:** [[2026-08-12-daily-ai-news-digest-august-12-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-08-09-daily-ai-news-digest-august-10-2026]] · [[2026-08-17-daily-ai-news-digest-august-18-2026]]
 <!-- graph:end -->

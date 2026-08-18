@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q
 - 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
 - 2026-08-10-nvidia-lines-up-500b-with-wall-street-giants-to-financialize
-- 2026-06-05-nvidia-authorizes-record-80b-buyback-raises-dividend
+- 2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne
 embedding_id: 2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Big-tech share repurchases have been falling sharply as hyperscalers redirect ca
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-25-nvidia-authorizes-additional-80b-buyback-after-q1-beat]] · [[2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q]] · [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]] · [[2026-08-10-nvidia-lines-up-500b-with-wall-street-giants-to-financialize]] · [[2026-06-05-nvidia-authorizes-record-80b-buyback-raises-dividend]]
+**Related:** [[2026-05-25-nvidia-authorizes-additional-80b-buyback-after-q1-beat]] · [[2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q]] · [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]] · [[2026-08-10-nvidia-lines-up-500b-with-wall-street-giants-to-financialize]] · [[2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne]]
 <!-- graph:end -->

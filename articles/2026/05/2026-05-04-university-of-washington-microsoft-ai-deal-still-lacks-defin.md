@@ -26,10 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a
+- 2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo
 - 2026-06-28-blogs-news-openai-blog-google-deepmind-meta-ai-bair-apple-ml
 - 2026-04-20-daily-ai-news-digest-prepared-april-20-2026
 - 2026-07-09-news-research-outlets-wsj-marktechpost-techcrunch-ai-venture
-- 2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling
 embedding_id: 2026-05-04-university-of-washington-microsoft-ai-deal-still-lacks-defin
 event_name: ''
 ---
@@ -43,5 +43,5 @@ An investigation finds UW's “many millions” Microsoft AI partnership has no 
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Google]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-06-28-blogs-news-openai-blog-google-deepmind-meta-ai-bair-apple-ml]] · [[2026-04-20-daily-ai-news-digest-prepared-april-20-2026]] · [[2026-07-09-news-research-outlets-wsj-marktechpost-techcrunch-ai-venture]] · [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]]
+**Related:** [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-06-28-blogs-news-openai-blog-google-deepmind-meta-ai-bair-apple-ml]] · [[2026-04-20-daily-ai-news-digest-prepared-april-20-2026]] · [[2026-07-09-news-research-outlets-wsj-marktechpost-techcrunch-ai-venture]]
 <!-- graph:end -->

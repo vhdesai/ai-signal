@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-13-ibm-partners-with-openai-to-train-tens-of-thousands-of-consu
-- 2026-08-13-ibm-embeds-openai-frontier-models-across-its-consulting-deli
+- 2026-08-13-ibm-embeds-openai-frontier-models-across-consulting-delivery
 embedding_id: 2026-08-13-ibm-partners-with-openai-to-accelerate-its-enterprise-ai-pus
 event_name: ''
 ---
@@ -37,5 +37,5 @@ IBM will stand up a dedicated OpenAI practice inside IBM Consulting, train and c
 
 **Entities:** [[Anthropic]] · [[IBM]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-13-ibm-partners-with-openai-to-train-tens-of-thousands-of-consu]] · [[2026-08-13-ibm-embeds-openai-frontier-models-across-its-consulting-deli]]
+**Related:** [[2026-08-13-ibm-partners-with-openai-to-train-tens-of-thousands-of-consu]] · [[2026-08-13-ibm-embeds-openai-frontier-models-across-consulting-delivery]]
 <!-- graph:end -->

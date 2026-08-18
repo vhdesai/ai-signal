@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 157
+member_count: 159
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 157 connected article(s).
+> Auto-generated entity hub. 159 connected article(s).
 
+- `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
+- `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
 - `2026-08-12` [[2026-08-12-mistral-commits-to-in-region-inference-and-up-to-1-gw-of-eur|Mistral Commits to In-Region Inference and Up to 1 GW of European Compute]]
 - `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]

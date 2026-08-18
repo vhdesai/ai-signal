@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-11-anthropic-will-invisibly-watermark-text-generated-by-claude
+- 2026-08-14-anthropic-details-how-claude-s-text-watermarking-works-under
 - 2026-08-11-anthropic-will-watermark-all-claude-generated-text-to-comply
 - 2026-08-13-anthropic-turns-on-invisible-watermarking-for-claude-text-ou
 - 2026-08-10-anthropic-will-apply-invisible-watermarks-to-all-claude-text
-- 2026-08-11-anthropic-begins-watermarking-claude-generated-text-and-imag
 embedding_id: 2026-08-10-anthropic-to-add-invisible-text-native-watermarks-to-new-cla
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic is reported to be adding statistically encoded, text-native watermarks
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-11-anthropic-will-invisibly-watermark-text-generated-by-claude]] · [[2026-08-11-anthropic-will-watermark-all-claude-generated-text-to-comply]] · [[2026-08-13-anthropic-turns-on-invisible-watermarking-for-claude-text-ou]] · [[2026-08-10-anthropic-will-apply-invisible-watermarks-to-all-claude-text]] · [[2026-08-11-anthropic-begins-watermarking-claude-generated-text-and-imag]]
+**Related:** [[2026-08-11-anthropic-will-invisibly-watermark-text-generated-by-claude]] · [[2026-08-14-anthropic-details-how-claude-s-text-watermarking-works-under]] · [[2026-08-11-anthropic-will-watermark-all-claude-generated-text-to-comply]] · [[2026-08-13-anthropic-turns-on-invisible-watermarking-for-claude-text-ou]] · [[2026-08-10-anthropic-will-apply-invisible-watermarks-to-all-claude-text]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
 - 2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour
 - 2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b
-- 2026-04-04-daily-ai-news-digest-april-4-2026-compiled-from-30-sources-i
+- 2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo
 embedding_id: 2026-05-27-sources-monitored-30-company-blogs-university-research-feeds
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Sources monitored: 30+ company blogs, university research feeds, and major tech 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-20-daily-ai-news-digest-prepared-april-20-2026]] · [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour]] · [[2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b]] · [[2026-04-04-daily-ai-news-digest-april-4-2026-compiled-from-30-sources-i]]
+**Related:** [[2026-04-20-daily-ai-news-digest-prepared-april-20-2026]] · [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour]] · [[2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]]
 <!-- graph:end -->

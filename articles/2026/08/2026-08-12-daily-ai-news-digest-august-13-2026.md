@@ -26,8 +26,8 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-14-daily-ai-news-digest-august-15-2026
 - 2026-08-12-daily-ai-news-digest-august-12-2026
-- 2026-08-13-daily-ai-news-digest-august-14-2026
 - 2026-08-07-daily-ai-news-digest-august-9-2026
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-07-07-daily-ai-news-digest-july-8-2026
@@ -44,5 +44,5 @@ Executive Summary The last 24 hours delivered an unusually dense mix of frontier
 
 **Entities:** [[DeepSeek]] · [[Google]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-12-daily-ai-news-digest-august-12-2026]] · [[2026-08-13-daily-ai-news-digest-august-14-2026]] · [[2026-08-07-daily-ai-news-digest-august-9-2026]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]]
+**Related:** [[2026-08-14-daily-ai-news-digest-august-15-2026]] · [[2026-08-12-daily-ai-news-digest-august-12-2026]] · [[2026-08-07-daily-ai-news-digest-august-9-2026]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]]
 <!-- graph:end -->

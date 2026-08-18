@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-23-hark-raised-a-700m-series-a-for-what-it-describes-as-a-unive
 - 2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f
 - 2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo
 - 2026-06-30-good-morning-vik-the-past-24-hours-were-quiet-for-frontier-m
 - 2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code
+- 2026-06-18-snap-spins-off-ai-video-team-into-dotmo-due-to-costs
 embedding_id: 2026-08-05-hark-unveils-handoff-a-low-cost-computer-use-agent
 event_name: ''
 ---
@@ -37,5 +37,5 @@ AI startup Hark launched its first product, Handoff, a computer-use agent positi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-hark-raised-a-700m-series-a-for-what-it-describes-as-a-unive]] · [[2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f]] · [[2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo]] · [[2026-06-30-good-morning-vik-the-past-24-hours-were-quiet-for-frontier-m]] · [[2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code]]
+**Related:** [[2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f]] · [[2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo]] · [[2026-06-30-good-morning-vik-the-past-24-hours-were-quiet-for-frontier-m]] · [[2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code]] · [[2026-06-18-snap-spins-off-ai-video-team-into-dotmo-due-to-costs]]
 <!-- graph:end -->

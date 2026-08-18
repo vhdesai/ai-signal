@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you
 - 2026-06-30-cursor-puts-agentic-coding-on-the-iphone
 - 2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le
-- 2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr
-- 2026-05-16-elon-musk-s-xai-is-pursuing-a-three-way-alliance-with-french
+- 2026-08-14-spacex-completes-60b-all-stock-acquisition-of-cursor-maker-a
+- 2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere
 embedding_id: 2026-06-30-anysphere-released-cursor-s-first-iphone-and-ipad-app-in-pub
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Anysphere released Cursor's first iPhone and iPad app in public beta across all 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you]] · [[2026-06-30-cursor-puts-agentic-coding-on-the-iphone]] · [[2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-05-16-elon-musk-s-xai-is-pursuing-a-three-way-alliance-with-french]]
+**Related:** [[2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you]] · [[2026-06-30-cursor-puts-agentic-coding-on-the-iphone]] · [[2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le]] · [[2026-08-14-spacex-completes-60b-all-stock-acquisition-of-cursor-maker-a]] · [[2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere]]
 <!-- graph:end -->

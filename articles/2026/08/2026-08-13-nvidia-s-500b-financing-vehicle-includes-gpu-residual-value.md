@@ -19,14 +19,9 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-13-nvidia-s-new-500b-data-center-plan-carries-a-gpu-residual-va
-- 2026-08-13-investors-question-whether-nvidia-s-500b-compute-financing-v
-- 2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data
-- 2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise
-- 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
+dedupe_status: duplicate
+canonical_article_id: 2026-08-13-nvidia-500b-financing-vehicle-with-gpu-residual-value-guaran
+related_article_ids: []
 embedding_id: 2026-08-13-nvidia-s-500b-financing-vehicle-includes-gpu-residual-value
 event_name: ''
 ---
@@ -40,5 +35,5 @@ Nvidia is guaranteeing up to 25% of the value shortfall if GPUs pledged as loan 
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-13-nvidia-s-new-500b-data-center-plan-carries-a-gpu-residual-va]] · [[2026-08-13-investors-question-whether-nvidia-s-500b-compute-financing-v]] · [[2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data]] · [[2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise]] · [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]]
+**Canonical:** [[2026-08-13-nvidia-500b-financing-vehicle-with-gpu-residual-value-guaran]]
 <!-- graph:end -->

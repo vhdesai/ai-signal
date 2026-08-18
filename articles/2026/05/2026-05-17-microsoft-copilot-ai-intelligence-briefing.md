@@ -27,9 +27,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-08-11-daily-ai-news-digest-august-11-2026
+- 2026-08-15-daily-ai-news-digest-august-16-2026
 - 2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7
 - event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2
-- 2026-08-13-daily-ai-news-digest-august-14-2026
 embedding_id: 2026-05-17-microsoft-copilot-ai-intelligence-briefing
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Good morning, Vik. A quieter Sunday cycle, but three market-moving items demand 
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7]] · [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2]] · [[2026-08-13-daily-ai-news-digest-august-14-2026]]
+**Related:** [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-08-15-daily-ai-news-digest-august-16-2026]] · [[2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7]] · [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2]]
 <!-- graph:end -->

@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-14-spacex-xai-completes-acquisition-of-cursor-at-a-reported-60b
 - 2026-08-12-spacexai-ships-grok-4-6-for-long-running-agents-musk-says-4
+- 2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere
 - 2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l
 - 2026-07-07-xai-officially-rebrands-as-spacexai-completing-merger-into-s
-- 2026-07-06-xai-officially-rebrands-as-spacexai-completing-merger-into-s
-- 2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks
 embedding_id: 2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Ars Technica unpacks the SpaceX S-1, which positions the SpaceXAI division (form
 
 **Entities:** [[Anthropic]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-12-spacexai-ships-grok-4-6-for-long-running-agents-musk-says-4]] · [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]] · [[2026-07-07-xai-officially-rebrands-as-spacexai-completing-merger-into-s]] · [[2026-07-06-xai-officially-rebrands-as-spacexai-completing-merger-into-s]] · [[2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks]]
+**Related:** [[2026-08-14-spacex-xai-completes-acquisition-of-cursor-at-a-reported-60b]] · [[2026-08-12-spacexai-ships-grok-4-6-for-long-running-agents-musk-says-4]] · [[2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere]] · [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]] · [[2026-07-07-xai-officially-rebrands-as-spacexai-completing-merger-into-s]]
 <!-- graph:end -->

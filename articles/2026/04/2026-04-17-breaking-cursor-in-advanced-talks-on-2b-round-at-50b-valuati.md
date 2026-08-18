@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation
 - 2026-04-20-the-information-techcrunch-april-19-2026-anysphere-s-cursor
 - 2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr
+- 2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere
 - 2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l
-- 2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso
 embedding_id: 2026-04-17-breaking-cursor-in-advanced-talks-on-2b-round-at-50b-valuati
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anysphere, parent of Cursor, is in advanced discussions to raise roughly $2B at 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation]] · [[2026-04-20-the-information-techcrunch-april-19-2026-anysphere-s-cursor]] · [[2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr]] · [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]] · [[2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso]]
+**Related:** [[2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation]] · [[2026-04-20-the-information-techcrunch-april-19-2026-anysphere-s-cursor]] · [[2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr]] · [[2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere]] · [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]]
 <!-- graph:end -->

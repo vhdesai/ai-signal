@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-15-hot-anthropic-closing-in-on-900b-valuation-in-new-30b-fundin
+- 2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast
 - 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
 - 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
 - 2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f
-- 2026-05-17-reports-indicate-anthropic-is-in-final-stages-of-a-funding-r
 embedding_id: 2026-04-16-vcs-are-flooding-anthropic-with-offers-to-invest-at-valuatio
 event_name: ''
 ---
@@ -39,5 +39,5 @@ VCs are flooding Anthropic with offers to invest at valuations as high as $800 b
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-15-hot-anthropic-closing-in-on-900b-valuation-in-new-30b-fundin]] · [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]] · [[2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f]] · [[2026-05-17-reports-indicate-anthropic-is-in-final-stages-of-a-funding-r]]
+**Related:** [[2026-05-15-hot-anthropic-closing-in-on-900b-valuation-in-new-30b-fundin]] · [[2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast]] · [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]] · [[2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f]]
 <!-- graph:end -->

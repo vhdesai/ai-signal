@@ -52,12 +52,18 @@ def _build_embeddings(cfg: Config, articles: list[tuple[Path, Article]]) -> dict
             [_embed_text(a) for _, a in pending],
             batch_size=64, normalize_embeddings=True, show_progress_bar=False,
         )
-        coll.add(
-            ids=[a.article_id for _, a in pending],
-            embeddings=[v.tolist() for v in vectors],
-            documents=[_embed_text(a) for _, a in pending],
-            metadatas=[{"date": a.date or "", "source": a.source} for _, a in pending],
-        )
+        # Chroma caps a single add() at ~5461 records, so write in chunks to
+        # stay safely under that ceiling regardless of corpus size.
+        _ADD_CHUNK = 2000
+        for i in range(0, len(pending), _ADD_CHUNK):
+            chunk = pending[i:i + _ADD_CHUNK]
+            chunk_vecs = vectors[i:i + _ADD_CHUNK]
+            coll.add(
+                ids=[a.article_id for _, a in chunk],
+                embeddings=[v.tolist() for v in chunk_vecs],
+                documents=[_embed_text(a) for _, a in chunk],
+                metadatas=[{"date": a.date or "", "source": a.source} for _, a in chunk],
+            )
 
     # ensure embedding_id is recorded on every article (db + md)
     rewritten = 0

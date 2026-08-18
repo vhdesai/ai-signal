@@ -23,10 +23,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
 - 2026-07-31-ai-at-the-collision-of-capability-and-reality
 - 2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price
-- 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
 embedding_id: 2026-07-31-ai-inference-price-war-deepens-as-openai-s-80-cut-meets-deep
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Analysts warned that OpenAI's up-to-80% price cut, quickly matched by DeepSeek's
 
 **Entities:** [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-07-31-ai-at-the-collision-of-capability-and-reality]] · [[2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price]] · [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c]]
+**Related:** [[2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-07-31-ai-at-the-collision-of-capability-and-reality]] · [[2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price]]
 <!-- graph:end -->

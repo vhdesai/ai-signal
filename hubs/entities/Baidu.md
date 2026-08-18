@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 75
+member_count: 78
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 75 connected article(s).
+> Auto-generated entity hub. 78 connected article(s).
 
+- `2026-08-17` [[2026-08-17-worldclaw-trump-family-linked-crypto-venture-reselling-us-re|WorldClaw: Trump-family-linked crypto venture reselling US-restricted Chinese AI models]]
+- `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
+- `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
 - `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]

@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 142
+member_count: 148
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 142 connected article(s).
+> Auto-generated entity hub. 148 connected article(s).
 
+- `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
+- `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
+- `2026-08-14` [[2026-08-14-apple-trains-a-china-specific-ai-model-with-alibaba|Apple trains a China-specific AI model with Alibaba]]
+- `2026-08-14` [[2026-08-14-apple-trained-a-china-specific-large-language-model-with-ali|Apple trained a China-specific large language model with Alibaba's support]]
+- `2026-08-14` [[2026-08-14-apple-trains-a-china-specific-ai-model-with-alibaba-s-suppor|Apple Trains a China-Specific AI Model With Alibaba's Support]]
+- `2026-08-14` [[2026-08-14-apple-trains-china-specific-ai-model-with-alibaba-s-support|Apple Trains China-Specific AI Model With Alibaba’s Support]]
 - `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-11` [[2026-08-11-china-s-leading-model-developers-remain-dependent-on-nvidia|China's leading model developers remain dependent on Nvidia despite domestic alternatives]]

@@ -1,14 +1,18 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 114
+member_count: 118
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 114 connected article(s).
+> Auto-generated entity hub. 118 connected article(s).
 
+- `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
+- `2026-08-15` [[2026-08-15-palantir-in-focus-as-ai-software-demand-and-guidance-climb|Palantir in Focus as AI-Software Demand and Guidance Climb]]
+- `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
 - `2026-08-13` [[2026-08-13-draft-pentagon-memo-directs-up-to-244m-to-palantir-without-c|Draft Pentagon Memo Directs Up to $244M to Palantir Without Competition]]
+- `2026-08-13` [[2026-08-13-draft-pentagon-memo-directs-244m-to-palantir-without-competi|Draft Pentagon Memo Directs $244M to Palantir Without Competition]]
 - `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]

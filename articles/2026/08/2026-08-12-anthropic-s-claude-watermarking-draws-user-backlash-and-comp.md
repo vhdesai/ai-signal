@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-claude-users-push-back-as-anthropic-begins-watermarking-gene
+- 2026-08-15-anthropic-details-how-claude-s-new-text-watermarking-will-wo
 - 2026-08-12-anthropic-s-new-text-watermarks-trigger-user-backlash
 - 2026-08-12-enterprise-backlash-builds-as-anthropic-watermarks-claude-ge
 embedding_id: 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
@@ -36,5 +37,5 @@ TechCrunch reported that some Claude users are objecting to Anthropic's new invi
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-claude-users-push-back-as-anthropic-begins-watermarking-gene]] · [[2026-08-12-anthropic-s-new-text-watermarks-trigger-user-backlash]] · [[2026-08-12-enterprise-backlash-builds-as-anthropic-watermarks-claude-ge]]
+**Related:** [[2026-08-12-claude-users-push-back-as-anthropic-begins-watermarking-gene]] · [[2026-08-15-anthropic-details-how-claude-s-new-text-watermarking-will-wo]] · [[2026-08-12-anthropic-s-new-text-watermarks-trigger-user-backlash]] · [[2026-08-12-enterprise-backlash-builds-as-anthropic-watermarks-claude-ge]]
 <!-- graph:end -->
