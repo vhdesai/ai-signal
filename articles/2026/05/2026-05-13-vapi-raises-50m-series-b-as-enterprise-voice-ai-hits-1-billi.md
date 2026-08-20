@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-13-ai-voice-infrastructure-startup-vapi-announced-a-valuation-o
 - 2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native
 - 2026-05-18-dust-closes-40m-series-b-for-enterprise-human-agent-collabor
-- 2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents
+- 2026-07-15-rime-raises-24-million-to-improve-enterprise-voice-ai-calls
 embedding_id: 2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Voice-agent platform Vapi closed a $50M Series B led by Peak XV, with participat
 
 **Entities:** [[Amazon]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-12-vapi-hits-500m-valuation-after-winning-amazon-ring-contract]] · [[2026-05-13-ai-voice-infrastructure-startup-vapi-announced-a-valuation-o]] · [[2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native]] · [[2026-05-18-dust-closes-40m-series-b-for-enterprise-human-agent-collabor]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]]
+**Related:** [[2026-05-12-vapi-hits-500m-valuation-after-winning-amazon-ring-contract]] · [[2026-05-13-ai-voice-infrastructure-startup-vapi-announced-a-valuation-o]] · [[2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native]] · [[2026-05-18-dust-closes-40m-series-b-for-enterprise-human-agent-collabor]] · [[2026-07-15-rime-raises-24-million-to-improve-enterprise-voice-ai-calls]]
 <!-- graph:end -->

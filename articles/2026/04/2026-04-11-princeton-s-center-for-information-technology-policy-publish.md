@@ -27,11 +27,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
+- 2026-08-14-samsung-health-ai-models-analyze-wearable-biosignal-data-on
 - 2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by
-- 2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta
-- 2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science
 embedding_id: 2026-04-11-princeton-s-center-for-information-technology-policy-publish
 event_name: ''
 ---
@@ -44,5 +44,5 @@ UC San Diego AI Predicts Opioid Misuse Risk from Smartwatch Data with 87% Accura
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]] · [[2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta]] · [[2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science]]
+**Related:** [[2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-08-14-samsung-health-ai-models-analyze-wearable-biosignal-data-on]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]]
 <!-- graph:end -->

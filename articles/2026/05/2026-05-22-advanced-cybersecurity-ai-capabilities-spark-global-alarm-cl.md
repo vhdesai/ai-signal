@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e
+- 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
 - 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
 - 2026-04-13-ai-safety-policy
 - 2026-05-22-anthropic-s-mythos-model-is-in-a-tightly-restricted-preview
-- 2026-04-07-research-breakthroughs
 embedding_id: 2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Anthropic's Claude Mythos model — released last month — is described as havi
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e]] · [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-04-13-ai-safety-policy]] · [[2026-05-22-anthropic-s-mythos-model-is-in-a-tightly-restricted-preview]] · [[2026-04-07-research-breakthroughs]]
+**Related:** [[2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-04-13-ai-safety-policy]] · [[2026-05-22-anthropic-s-mythos-model-is-in-a-tightly-restricted-preview]]
 <!-- graph:end -->

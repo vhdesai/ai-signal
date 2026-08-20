@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
+- 2026-08-06-nvidia-tests-rubin-ultra-variants-with-less-hbm-amid-tight-m
 - 2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex
 - 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
-- 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 embedding_id: 2026-08-04-nvidia-pushes-ai-storage-stack-at-future-of-memory-and-stora
 event_name: ''
 ---
@@ -41,5 +41,5 @@ NVIDIA published a storage-focused AI infrastructure update around the Future of
 
 **Entities:** [[Google]] · [[Intel]] · [[Meta]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]]
+**Related:** [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-08-06-nvidia-tests-rubin-ultra-variants-with-less-hbm-amid-tight-m]] · [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]]
 <!-- graph:end -->

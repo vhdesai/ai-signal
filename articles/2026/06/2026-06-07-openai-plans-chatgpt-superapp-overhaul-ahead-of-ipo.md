@@ -23,9 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead
 - 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
-- 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
+- 2026-06-11-wired-meet-the-openai-engineer-leading-chatgpt-s-biggest-tra
 - 2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp
-- 2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app
 embedding_id: 2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Reuters reported that OpenAI is planning a major overhaul of ChatGPT into a cons
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]] · [[2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp]] · [[2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app]]
+**Related:** [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]] · [[2026-06-11-wired-meet-the-openai-engineer-leading-chatgpt-s-biggest-tra]] · [[2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp]]
 <!-- graph:end -->

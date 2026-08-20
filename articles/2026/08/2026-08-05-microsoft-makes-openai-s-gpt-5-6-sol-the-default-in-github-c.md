@@ -24,6 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-model-in-gi
+- 2026-08-05-microsoft-tells-engineers-to-default-github-copilot-to-opena
+- 2026-08-05-microsoft-tells-its-engineers-to-default-github-copilot-to-o
 - 2026-07-09-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
 - 2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
 embedding_id: 2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-in-github-c
@@ -39,5 +41,5 @@ Microsoft directed internal developers to default to OpenAI's top model inside G
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-model-in-gi]] · [[2026-07-09-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]] · [[2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]]
+**Related:** [[2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-model-in-gi]] · [[2026-08-05-microsoft-tells-engineers-to-default-github-copilot-to-opena]] · [[2026-08-05-microsoft-tells-its-engineers-to-default-github-copilot-to-o]] · [[2026-07-09-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]] · [[2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]]
 <!-- graph:end -->

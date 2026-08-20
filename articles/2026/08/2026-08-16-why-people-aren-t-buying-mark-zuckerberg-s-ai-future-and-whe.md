@@ -24,7 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built
-- 2026-08-10-meta-launches-muse-glimmer-a-30b-open-weight-agentic-model-t
+- 2026-08-16-techcrunch-analysis-why-people-aren-t-buying-zuckerberg-s-ai
 embedding_id: 2026-08-16-why-people-aren-t-buying-mark-zuckerberg-s-ai-future-and-whe
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TechCrunch examines the gap between Meta's "AI for everyone" positioning and con
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built]] · [[2026-08-10-meta-launches-muse-glimmer-a-30b-open-weight-agentic-model-t]]
+**Related:** [[2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built]] · [[2026-08-16-techcrunch-analysis-why-people-aren-t-buying-zuckerberg-s-ai]]
 <!-- graph:end -->

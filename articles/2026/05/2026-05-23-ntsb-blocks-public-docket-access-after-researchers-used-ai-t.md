@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-ntsb-to-review-docket-access-after-ai-reconstructs-deceased
 - 2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots
+- 2026-08-18-fda-opens-public-docket-on-regulating-generative-ai-enabled
 - 2026-08-01-judge-lets-minnesota-s-ai-nudify-app-ban-take-effect-despite
 - 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
-- 2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out
 embedding_id: 2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The National Transportation Safety Board temporarily suspended public access to 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-22-ntsb-to-review-docket-access-after-ai-reconstructs-deceased]] · [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]] · [[2026-08-01-judge-lets-minnesota-s-ai-nudify-app-ban-take-effect-despite]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out]]
+**Related:** [[2026-05-22-ntsb-to-review-docket-access-after-ai-reconstructs-deceased]] · [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]] · [[2026-08-18-fda-opens-public-docket-on-regulating-generative-ai-enabled]] · [[2026-08-01-judge-lets-minnesota-s-ai-nudify-app-ban-take-effect-despite]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]]
 <!-- graph:end -->

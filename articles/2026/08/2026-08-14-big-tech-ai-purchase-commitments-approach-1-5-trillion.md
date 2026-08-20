@@ -26,8 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion
 - 2026-04-02-before-the-iran-conflict-escalated-microsoft-amazon-alphabet
+- 2026-07-22-openai-s-ai-spending-commitments-approach-750b
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
-- 2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne
+- 2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test
 embedding_id: 2026-08-14-big-tech-ai-purchase-commitments-approach-1-5-trillion
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Alphabet, Microsoft, Amazon, Nvidia, Oracle and Meta have accumulated close to $
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion]] · [[2026-04-02-before-the-iran-conflict-escalated-microsoft-amazon-alphabet]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne]]
+**Related:** [[2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion]] · [[2026-04-02-before-the-iran-conflict-escalated-microsoft-amazon-alphabet]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test]]
 <!-- graph:end -->

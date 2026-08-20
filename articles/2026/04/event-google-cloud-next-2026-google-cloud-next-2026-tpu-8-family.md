@@ -28,7 +28,7 @@ related_article_ids:
 - event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications
 - 2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c
 - 2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp
-- event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs
+- 2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip
 embedding_id: event-google-cloud-next-2026-google-cloud-next-2026-tpu-8-family
 event_name: Google Cloud Next 2026
 ---
@@ -42,5 +42,5 @@ Google Cloud announced an eighth-generation TPU family split between training an
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications]] · [[2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c]] · [[2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp]] · [[event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs]]
+**Related:** [[event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications]] · [[2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c]] · [[2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp]] · [[2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip]]
 <!-- graph:end -->

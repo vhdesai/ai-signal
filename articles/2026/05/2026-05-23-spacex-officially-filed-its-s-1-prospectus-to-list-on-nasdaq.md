@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat
+- 2026-06-12-spacex-ipo-75b-raise-at-1-75t-musk-becomes-world-s-first-tri
 - 2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b
 - 2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona
-- 2026-05-20-goldman-sachs-to-lead-spacex-ipo-ai-adjacent-infra-continues
-- 2026-05-20-spacex-s-1-deep-dive-six-charts-on-the-largest-ipo-in-histor
+- 2026-06-11-spacex-officially-prices-75b-ipo-at-135-share-market-debut-t
 embedding_id: 2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq
 event_name: ''
 ---
@@ -41,5 +41,5 @@ SpaceX officially filed its S-1 prospectus to list on Nasdaq under ticker SPCX, 
 
 **Entities:** [[Perplexity]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]] · [[2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b]] · [[2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona]] · [[2026-05-20-goldman-sachs-to-lead-spacex-ipo-ai-adjacent-infra-continues]] · [[2026-05-20-spacex-s-1-deep-dive-six-charts-on-the-largest-ipo-in-histor]]
+**Related:** [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]] · [[2026-06-12-spacex-ipo-75b-raise-at-1-75t-musk-becomes-world-s-first-tri]] · [[2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b]] · [[2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona]] · [[2026-06-11-spacex-officially-prices-75b-ipo-at-135-share-market-debut-t]]
 <!-- graph:end -->

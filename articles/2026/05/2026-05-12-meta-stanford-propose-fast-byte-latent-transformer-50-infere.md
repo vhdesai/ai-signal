@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
 - 2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen
+- 2026-07-30-tencent-open-sources-angelspec-framework-for-faster-cheaper
 - 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
 - 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
-- 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 embedding_id: 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta AI and Stanford researchers unveiled a Fast Byte Latent Transformer that re
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]]
+**Related:** [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen]] · [[2026-07-30-tencent-open-sources-angelspec-framework-for-faster-cheaper]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]]
 <!-- graph:end -->

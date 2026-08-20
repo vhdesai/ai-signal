@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-01-neocloud-together-ai-raises-800m-leaps-to-an-8-3b-valuation
 - 2026-07-01-together-ai-raises-800m-series-c-at-an-8-3b-valuation
+- 2026-08-17-groq-raises-350m-at-3-5b-valuation-completes-pivot-from-chip
 - 2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-custom-silicon-to-neo
-- 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
 embedding_id: 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Together AI, which rents Nvidia GPU clusters optimized for open-weight models, r
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-01-neocloud-together-ai-raises-800m-leaps-to-an-8-3b-valuation]] · [[2026-07-01-together-ai-raises-800m-series-c-at-an-8-3b-valuation]] · [[2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-custom-silicon-to-neo]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]]
+**Related:** [[2026-07-01-neocloud-together-ai-raises-800m-leaps-to-an-8-3b-valuation]] · [[2026-07-01-together-ai-raises-800m-series-c-at-an-8-3b-valuation]] · [[2026-08-17-groq-raises-350m-at-3-5b-valuation-completes-pivot-from-chip]] · [[2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-custom-silicon-to-neo]]
 <!-- graph:end -->

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 - 2026-06-06-anthropic-suffers-multi-model-claude-outage
 - 2026-04-23-anthropic-ships-claude-code-quality-and-reliability-fixes
-- 2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai
+- 2026-08-05-global-anthropic-outage-disrupts-claude-chat-api-and-claude
 embedding_id: 2026-05-14-anthropic-publishes-claude-code-quality-postmortem-three-ove
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Anthropic published a detailed engineering postmortem attributing six weeks of C
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[OpenAI]] · [[Palantir]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-04-23-anthropic-ships-claude-code-quality-and-reliability-fixes]] · [[2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai]]
+**Related:** [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-04-23-anthropic-ships-claude-code-quality-and-reliability-fixes]] · [[2026-08-05-global-anthropic-outage-disrupts-claude-chat-api-and-claude]]
 <!-- graph:end -->

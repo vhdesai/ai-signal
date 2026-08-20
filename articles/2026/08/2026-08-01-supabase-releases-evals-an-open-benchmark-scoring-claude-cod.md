@@ -20,7 +20,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-01-supabase-releases-an-open-source-benchmark-for-claude-code-c
+canonical_article_id: 2026-08-01-supabase-releases-an-open-benchmark-for-claude-code-codex-an
 related_article_ids: []
 embedding_id: 2026-08-01-supabase-releases-evals-an-open-benchmark-scoring-claude-cod
 event_name: ''
@@ -35,5 +35,5 @@ Supabase published Evals, an open-source benchmark that scores coding agents —
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Canonical:** [[2026-08-01-supabase-releases-an-open-source-benchmark-for-claude-code-c]]
+**Canonical:** [[2026-08-01-supabase-releases-an-open-benchmark-for-claude-code-codex-an]]
 <!-- graph:end -->

@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-05-global-startup-funding-doubled-year-over-year-to-56b-in-apri
 - 2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai
+- 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
 - 2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o
-- 2026-04-02-global-startup-funding-in-q1-2026-reached-297-billion-shatte
-- 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
+- 2026-08-18-vcs-poured-47-4b-into-physical-ai-in-the-first-half-of-2026
 embedding_id: 2026-05-09-global-venture-funding-reached-56-billion-in-april-2026-the
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Global venture funding reached $56 billion in April 2026 — the third-highest m
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-05-global-startup-funding-doubled-year-over-year-to-56b-in-apri]] · [[2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai]] · [[2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o]] · [[2026-04-02-global-startup-funding-in-q1-2026-reached-297-billion-shatte]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]]
+**Related:** [[2026-05-05-global-startup-funding-doubled-year-over-year-to-56b-in-apri]] · [[2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o]] · [[2026-08-18-vcs-poured-47-4b-into-physical-ai-in-the-first-half-of-2026]]
 <!-- graph:end -->

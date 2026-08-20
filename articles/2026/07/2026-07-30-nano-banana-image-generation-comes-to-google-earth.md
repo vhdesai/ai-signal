@@ -18,13 +18,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-31-google-rolls-back-earth-ai-image-feature-one-day-after-launc
-- 2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl
-- 2026-07-31-google-pulls-google-earth-s-ai-image-tool-one-day-after-laun
-- 2026-06-30-google-extended-the-gemini-app-s-nano-banana-powered-persona
+dedupe_status: duplicate
+canonical_article_id: 2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i
+related_article_ids: []
 embedding_id: 2026-07-30-nano-banana-image-generation-comes-to-google-earth
 event_name: ''
 ---
@@ -38,5 +34,5 @@ Google added its “Nano Banana” image model to Google Earth, grounded in real
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-google-rolls-back-earth-ai-image-feature-one-day-after-launc]] · [[2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl]] · [[2026-07-31-google-pulls-google-earth-s-ai-image-tool-one-day-after-laun]] · [[2026-06-30-google-extended-the-gemini-app-s-nano-banana-powered-persona]]
+**Canonical:** [[2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i]]
 <!-- graph:end -->

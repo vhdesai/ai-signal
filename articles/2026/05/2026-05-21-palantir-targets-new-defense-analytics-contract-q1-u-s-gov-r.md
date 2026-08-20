@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-14-palantir-reported-q1-2026-results-on-may-4-with-u-s
 - 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
 - 2026-08-04-palantir-q2-revenue-grows-93-as-ai-sovereignty-demand-drives
-- 2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand
 - 2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges
+- 2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand
 embedding_id: 2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Palantir is actively pursuing a new data analytics contract with a U.S. defense 
 
 **Entities:** [[Palantir]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-palantir-reported-q1-2026-results-on-may-4-with-u-s]] · [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]] · [[2026-08-04-palantir-q2-revenue-grows-93-as-ai-sovereignty-demand-drives]] · [[2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand]] · [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges]]
+**Related:** [[2026-05-14-palantir-reported-q1-2026-results-on-may-4-with-u-s]] · [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]] · [[2026-08-04-palantir-q2-revenue-grows-93-as-ai-sovereignty-demand-drives]] · [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges]] · [[2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
 - 2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams
 - 2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a
-- 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
+- 2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers
 embedding_id: 2026-05-14-notion-turns-its-workspace-into-a-hub-for-ai-agents-techcrun
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Notion turns its workspace into a hub for AI agents — TechCrunch, May 13, 2026
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending]] · [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams]] · [[2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a]] · [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]]
+**Related:** [[2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending]] · [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams]] · [[2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a]] · [[2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers]]
 <!-- graph:end -->

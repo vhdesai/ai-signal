@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-13-community-labs-launches-cascadia-open-source-distributed-inf
 - 2026-06-29-deepseek-open-sources-dspark-claiming-up-to-85-faster-llm-in
 - 2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in
-- 2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon
+- 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 embedding_id: 2026-08-13-cascadia-launches-open-source-distributed-inference-for-inte
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Community Labs launched Cascadia, an open-source runtime that pools multiple Int
 
 **Entities:** [[Intel]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-13-community-labs-launches-cascadia-open-source-distributed-inf]] · [[2026-06-29-deepseek-open-sources-dspark-claiming-up-to-85-faster-llm-in]] · [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in]] · [[2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon]]
+**Related:** [[2026-08-13-community-labs-launches-cascadia-open-source-distributed-inf]] · [[2026-06-29-deepseek-open-sources-dspark-claiming-up-to-85-faster-llm-in]] · [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]]
 <!-- graph:end -->

@@ -17,7 +17,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-ai-dict
+canonical_article_id: 2026-08-17-wispr-raises-280m-at-2b-valuation-launches-new-speech-model
 related_article_ids: []
 embedding_id: 2026-08-17-wispr-raises-280m-at-a-2b-valuation-to-expand-beyond-dictati
 event_name: ''
@@ -31,5 +31,5 @@ Wispr, known for the Wispr Flow dictation tool, closed a $280M Series B led by e
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-ai-dict]]
+**Canonical:** [[2026-08-17-wispr-raises-280m-at-2b-valuation-launches-new-speech-model]]
 <!-- graph:end -->

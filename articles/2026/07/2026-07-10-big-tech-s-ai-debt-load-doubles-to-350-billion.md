@@ -24,8 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-10-big-tech-s-ai-debt-load-doubles-to-350b-as-infrastructure-sp
-- 2026-08-15-bond-traders-scrutinize-70b-of-off-balance-sheet-ai-credit-b
-- 2026-08-04-oracle-nears-junk-grade-credit-rating-on-ai-data-center-debt
+- 2026-06-10-amazon-borrows-17-5b-from-banks-as-ai-infrastructure-spendin
+- 2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test
 embedding_id: 2026-07-10-big-tech-s-ai-debt-load-doubles-to-350-billion
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Alphabet, Amazon, Meta, Microsoft and Oracle have collectively added about $350B
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]] · [[Oracle]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350b-as-infrastructure-sp]] · [[2026-08-15-bond-traders-scrutinize-70b-of-off-balance-sheet-ai-credit-b]] · [[2026-08-04-oracle-nears-junk-grade-credit-rating-on-ai-data-center-debt]]
+**Related:** [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350b-as-infrastructure-sp]] · [[2026-06-10-amazon-borrows-17-5b-from-banks-as-ai-infrastructure-spendin]] · [[2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test]]
 <!-- graph:end -->

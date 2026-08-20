@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
+- 2026-08-12-anthropic-text-watermarks-trigger-user-backlash-over-transpa
 - 2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash
 embedding_id: 2026-08-12-anthropic-text-watermarks-trigger-backlash-amazon-twitch-set
 event_name: ''
@@ -37,5 +38,5 @@ Two data-rights collisions landed in the same 24-hour window. Anthropic began em
 
 **Entities:** [[Amazon]] · [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]] · [[2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash]]
+**Related:** [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]] · [[2026-08-12-anthropic-text-watermarks-trigger-user-backlash-over-transpa]] · [[2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash]]
 <!-- graph:end -->

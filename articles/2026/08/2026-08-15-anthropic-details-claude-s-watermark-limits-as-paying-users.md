@@ -21,9 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-15-anthropic-details-how-claude-s-text-watermark-works-and-wher
+- 2026-08-15-anthropic-publishes-official-claude-watermarking-explainer
+- 2026-08-15-anthropic-details-how-claude-s-watermark-works-and-where-it
 - 2026-08-13-anthropic-turns-on-invisible-watermarking-for-claude-text-ou
 - 2026-08-15-anthropic-details-how-claude-s-new-text-watermarking-will-wo
-- 2026-08-15-anthropic-watermark-details-subscriber-cancellations
 embedding_id: 2026-08-15-anthropic-details-claude-s-watermark-limits-as-paying-users
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Anthropic published a technical explainer of the invisible text watermark now sh
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-15-anthropic-details-how-claude-s-text-watermark-works-and-wher]] · [[2026-08-13-anthropic-turns-on-invisible-watermarking-for-claude-text-ou]] · [[2026-08-15-anthropic-details-how-claude-s-new-text-watermarking-will-wo]] · [[2026-08-15-anthropic-watermark-details-subscriber-cancellations]]
+**Related:** [[2026-08-15-anthropic-details-how-claude-s-text-watermark-works-and-wher]] · [[2026-08-15-anthropic-publishes-official-claude-watermarking-explainer]] · [[2026-08-15-anthropic-details-how-claude-s-watermark-works-and-where-it]] · [[2026-08-13-anthropic-turns-on-invisible-watermarking-for-claude-text-ou]] · [[2026-08-15-anthropic-details-how-claude-s-new-text-watermarking-will-wo]]
 <!-- graph:end -->

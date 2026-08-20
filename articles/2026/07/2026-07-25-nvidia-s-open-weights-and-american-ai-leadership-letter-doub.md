@@ -33,8 +33,7 @@ related_article_ids:
 - 2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-as-op
 - 2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-opena
 - 2026-07-25-nvidia-s-open-weights-letter-expands-to-50-signatories
-- 2026-08-12-meta-and-nvidia-plant-very-firm-flag-in-open-weight-ai-race
-- 2026-07-27-daily-ai-news-digest-july-28-2026
+- 2026-07-24-20-tech-companies-urge-u-s-against-broad-open-weight-restric
 embedding_id: 2026-07-25-nvidia-s-open-weights-and-american-ai-leadership-letter-doub
 event_name: ''
 ---
@@ -48,5 +47,5 @@ Jensen Huang’s open-weights letter — launched July 24 with 25 signatories in
 
 **Entities:** [[Amazon]] · [[AMD]] · [[Anthropic]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Palantir]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-as-op]] · [[2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-opena]] · [[2026-07-25-nvidia-s-open-weights-letter-expands-to-50-signatories]] · [[2026-08-12-meta-and-nvidia-plant-very-firm-flag-in-open-weight-ai-race]] · [[2026-07-27-daily-ai-news-digest-july-28-2026]]
+**Related:** [[2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-as-op]] · [[2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-opena]] · [[2026-07-25-nvidia-s-open-weights-letter-expands-to-50-signatories]] · [[2026-07-24-20-tech-companies-urge-u-s-against-broad-open-weight-restric]]
 <!-- graph:end -->

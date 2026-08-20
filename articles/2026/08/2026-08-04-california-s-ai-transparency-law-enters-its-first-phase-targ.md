@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-08-02-california-ai-transparency-act-sb-942-becomes-operative
 - 2026-08-02-california-s-ai-transparency-act-sb-942-becomes-operative
 - 2026-08-03-24-california-sb-942-ai-transparency-act-becomes-operative
-- 2026-08-02-eu-transparency-rules-for-ai-generated-content-take-effect
 embedding_id: 2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ
 event_name: ''
 ---
@@ -37,5 +36,5 @@ California began enforcing the first phase of what backers call the nation’s s
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe]] · [[2026-08-02-california-ai-transparency-act-sb-942-becomes-operative]] · [[2026-08-02-california-s-ai-transparency-act-sb-942-becomes-operative]] · [[2026-08-03-24-california-sb-942-ai-transparency-act-becomes-operative]] · [[2026-08-02-eu-transparency-rules-for-ai-generated-content-take-effect]]
+**Related:** [[2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe]] · [[2026-08-02-california-ai-transparency-act-sb-942-becomes-operative]] · [[2026-08-02-california-s-ai-transparency-act-sb-942-becomes-operative]] · [[2026-08-03-24-california-sb-942-ai-transparency-act-becomes-operative]]
 <!-- graph:end -->

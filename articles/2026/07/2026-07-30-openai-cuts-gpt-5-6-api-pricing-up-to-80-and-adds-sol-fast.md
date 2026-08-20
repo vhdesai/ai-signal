@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-30-openai-cuts-gpt-5-6-prices-luna-down-80-adds-sol-fast-mode
+- 2026-07-31-openai-cuts-gpt-5-6-prices-as-enterprise-token-costs-bite
 - 2026-07-30-openai-cuts-gpt-5-6-prices-and-adds-a-faster-sol-mode
 - 2026-07-30-openai-cuts-gpt-5-6-prices-to-defend-the-price-performance-f
-- 2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability
-- 2026-07-31-openai-crosses-1-billion-users-after-cutting-gpt-5-6-prices
+- 2026-07-31-openai-price-cuts-show-model-providers-are-responding-to-ent
 embedding_id: 2026-07-30-openai-cuts-gpt-5-6-api-pricing-up-to-80-and-adds-sol-fast
 event_name: ''
 ---
@@ -38,5 +39,5 @@ OpenAI cut its “Luna” tier roughly 80% (to $0.20/M input, $1.20/M output) an
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-openai-cuts-gpt-5-6-prices-and-adds-a-faster-sol-mode]] · [[2026-07-30-openai-cuts-gpt-5-6-prices-to-defend-the-price-performance-f]] · [[2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability]] · [[2026-07-31-openai-crosses-1-billion-users-after-cutting-gpt-5-6-prices]]
+**Related:** [[2026-07-30-openai-cuts-gpt-5-6-prices-luna-down-80-adds-sol-fast-mode]] · [[2026-07-31-openai-cuts-gpt-5-6-prices-as-enterprise-token-costs-bite]] · [[2026-07-30-openai-cuts-gpt-5-6-prices-and-adds-a-faster-sol-mode]] · [[2026-07-30-openai-cuts-gpt-5-6-prices-to-defend-the-price-performance-f]] · [[2026-07-31-openai-price-cuts-show-model-providers-are-responding-to-ent]]
 <!-- graph:end -->

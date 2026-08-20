@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-30-meta-q4-profit-falls-14-free-cash-flow-plunges-91-as-capex-n
 - 2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla
 - 2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex
 - 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
-- 2026-07-30-meta-q2-revenue-28-but-ai-capex-raised-to-130-145b
 embedding_id: 2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta reported record revenue, but profit fell 14% to $18.3 billion as operating 
 
 **Entities:** [[Anthropic]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]] · [[2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]] · [[2026-07-30-meta-q2-revenue-28-but-ai-capex-raised-to-130-145b]]
+**Related:** [[2026-07-30-meta-q4-profit-falls-14-free-cash-flow-plunges-91-as-capex-n]] · [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]] · [[2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]]
 <!-- graph:end -->

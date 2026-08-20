@@ -18,14 +18,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-17-ai-automation-startup-relay-shuts-down-team-joins-google-s-c
-- 2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles
-- 2026-08-05-jeff-dean-and-three-senior-google-researchers-depart-to-laun
-- 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-- 2026-08-08-shuts-down-creator-revenue-sharing-to-curb-ai-generated-spam
+dedupe_status: duplicate
+canonical_article_id: 2026-08-17-ai-automation-startup-relay-shuts-down-founder-rejoins-googl
+related_article_ids: []
 embedding_id: 2026-08-17-ai-automation-startup-relay-shuts-down-staff-join-google-s-c
 event_name: ''
 ---
@@ -39,5 +34,5 @@ Relay, a workflow-automation startup launched in 2021 with ambitions to displace
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-17-ai-automation-startup-relay-shuts-down-team-joins-google-s-c]] · [[2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles]] · [[2026-08-05-jeff-dean-and-three-senior-google-researchers-depart-to-laun]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-08-08-shuts-down-creator-revenue-sharing-to-curb-ai-generated-spam]]
+**Canonical:** [[2026-08-17-ai-automation-startup-relay-shuts-down-founder-rejoins-googl]]
 <!-- graph:end -->

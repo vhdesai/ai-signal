@@ -25,8 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-05-google-deepmind-restructures-hassabis-moves-to-chairman-kavu
 - 2026-08-05-google-reshuffles-its-ai-leadership-jeff-dean-departs-to-fou
+- 2026-08-05-hassabis-steps-aside-as-google-deepmind-ceo-jeff-dean-leaves
+- 2026-08-05-google-s-ai-leadership-reshuffled-jeff-dean-departs-hassabis
 - 2026-08-06-demis-hassabis-named-alphabet-chief-scientist-koray-kavukcuo
-- 2026-08-12-google-reshuffles-deepmind-leadership-kavukcuoglu-takes-over
 embedding_id: 2026-08-05-google-deepmind-leadership-overhaul-hassabis-steps-back-as-c
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Demis Hassabis is ceding day-to-day CEO duties at Google DeepMind to become Alph
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-google-deepmind-restructures-hassabis-moves-to-chairman-kavu]] · [[2026-08-05-google-reshuffles-its-ai-leadership-jeff-dean-departs-to-fou]] · [[2026-08-06-demis-hassabis-named-alphabet-chief-scientist-koray-kavukcuo]] · [[2026-08-12-google-reshuffles-deepmind-leadership-kavukcuoglu-takes-over]]
+**Related:** [[2026-08-05-google-deepmind-restructures-hassabis-moves-to-chairman-kavu]] · [[2026-08-05-google-reshuffles-its-ai-leadership-jeff-dean-departs-to-fou]] · [[2026-08-05-hassabis-steps-aside-as-google-deepmind-ceo-jeff-dean-leaves]] · [[2026-08-05-google-s-ai-leadership-reshuffled-jeff-dean-departs-hassabis]] · [[2026-08-06-demis-hassabis-named-alphabet-chief-scientist-koray-kavukcuo]]
 <!-- graph:end -->

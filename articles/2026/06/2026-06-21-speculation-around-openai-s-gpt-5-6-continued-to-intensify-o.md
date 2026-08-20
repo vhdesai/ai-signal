@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch
 - 2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex
+- 2026-06-20-multiple-developers-reported-markedly-different-performance
 - 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
-- 2026-07-07-openai-gpt-5-6-public-release-thursday-after-federal-pre-rel
 embedding_id: 2026-06-21-speculation-around-openai-s-gpt-5-6-continued-to-intensify-o
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Speculation around OpenAI's GPT-5.6 continued to intensify over the weekend, wit
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch]] · [[2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]] · [[2026-07-07-openai-gpt-5-6-public-release-thursday-after-federal-pre-rel]]
+**Related:** [[2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch]] · [[2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex]] · [[2026-06-20-multiple-developers-reported-markedly-different-performance]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]]
 <!-- graph:end -->

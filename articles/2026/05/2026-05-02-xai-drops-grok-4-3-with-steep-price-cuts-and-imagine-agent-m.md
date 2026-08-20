@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-17-xai-launches-grok-4-5-for-coding-agents-and-knowledge-work
 - 2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno
 - 2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively
 - 2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th
 - 2026-08-12-xai-launches-grok-4-6-for-long-running-agents-grok-4-7-previ
-- 2026-04-01-elon-musk-s-xai-released-grok-4-20-multi-agent-beta-in-mid-m
 embedding_id: 2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m
 event_name: ''
 ---
@@ -39,5 +39,5 @@ xAI released Grok 4.3 today, featuring significant price reductions and a new "I
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno]] · [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th]] · [[2026-08-12-xai-launches-grok-4-6-for-long-running-agents-grok-4-7-previ]] · [[2026-04-01-elon-musk-s-xai-released-grok-4-20-multi-agent-beta-in-mid-m]]
+**Related:** [[2026-07-17-xai-launches-grok-4-5-for-coding-agents-and-knowledge-work]] · [[2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno]] · [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th]] · [[2026-08-12-xai-launches-grok-4-6-for-long-running-agents-grok-4-7-previ]]
 <!-- graph:end -->

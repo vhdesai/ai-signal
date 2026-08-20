@@ -1,17 +1,19 @@
 ---
 article_id: 2026-08-07-deepseek-v4-flash-posts-61-4-on-arc-agi-2-at-roughly-four-ce
-title: DeepSeek V4 Flash Posts 61.4% on ARC-AGI-2 at Roughly Four Cents Per Task
+title: DeepSeek V4 Flash posts 61.4% on ARC-AGI-2 at roughly four cents per task
 date: '2026-08-07'
-source: '[ARC Prize]'
-url_original: https://arcprize.org/results/deepseek-v4-flash-0731
-url_canonical: https://arcprize.org/results/deepseek-v4-flash-0731
-url_status: found
-digest_source: digests\raw\2026-08-08_062022_Inbox_Daily AI News Digest - August 8,
-  2026.md
-content_hash: 6b4f4dd5728e8e33db53b31ea4932972ba20f64f07881a9d68b5ae7ca6ec2abf
+source: ARC Prize
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-08-08_065755_Final-Daily-AI-News-Digest.md
+content_hash: a8dcb882ff8d0bfd763d2fb2ef790e75357cab997bf182407579670a8f5a6703
 normalized_title_hash: 09b525a3b9f9a28c
-canonical_url_hash: 2eff008df1434607
-tags: []
+canonical_url_hash: ''
+tags:
+- Hot
+- Research
+- China
 entities:
 - DeepSeek
 themes:
@@ -28,9 +30,9 @@ embedding_id: 2026-08-07-deepseek-v4-flash-posts-61-4-on-arc-agi-2-at-roughly-fo
 event_name: ''
 ---
 
-# DeepSeek V4 Flash Posts 61.4% on ARC-AGI-2 at Roughly Four Cents Per Task
+# DeepSeek V4 Flash posts 61.4% on ARC-AGI-2 at roughly four cents per task
 
-DeepSeek's V4 Flash 0731 reached 61.4% on ARC-AGI-2 at a cost of approximately $0.04 per task, with reasoning variants also scoring near 89% on ARC-AGI-1. The result pushes frontier-grade reasoning toward commodity pricing rather than premium pricing, which changes the calculus for routine agentic workloads such as debugging, code review, and sub-agent orchestration. Cost-per-solved-task, not raw benchmark position, is now the more decisive procurement metric.
+DeepSeek's V4 Flash 0731 reached 61.4% on ARC-AGI-2 at approximately $0.04 per task, with reasoning variants scoring near 89% on ARC-AGI-1. The result pushes frontier-grade reasoning toward commodity pricing, changing the calculus for routine agentic workloads. Cost-per-solved-task, not raw benchmark position, is now the more decisive procurement metric. URL: ARC Prize: DeepSeek V4 Flash results
 
 <!-- graph:start -->
 ## Connections

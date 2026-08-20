@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-04-effective-april-5-at-12pm-pt-anthropic-is-severing-the-abili
+- 2026-08-05-global-anthropic-outage-disrupts-claude-chat-api-and-claude
 - 2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
-- 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
 embedding_id: 2026-04-06-anthropic-has-terminated-the-ability-to-use-claude-subscript
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic has terminated the ability to use Claude subscriptions through OpenCla
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-04-04-effective-april-5-at-12pm-pt-anthropic-is-severing-the-abili]] · [[2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]]
+**Related:** [[2026-04-04-effective-april-5-at-12pm-pt-anthropic-is-severing-the-abili]] · [[2026-08-05-global-anthropic-outage-disrupts-claude-chat-api-and-claude]] · [[2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]]
 <!-- graph:end -->

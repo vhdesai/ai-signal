@@ -33,10 +33,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
+- 2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce
 - 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
+- 2026-07-23-microsoft-launches-in-house-ai-models-it-says-cut-costs-up-t
 - 2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves
-- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
-- 2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat
 embedding_id: 2026-04-22-reuters-analysis-published-today-examines-how-apple-s-tightl
 event_name: ''
 ---
@@ -50,5 +50,5 @@ Microsoft Cuts Cloud Desktop Prices 20% — But M365 AI Costs Rise Up to 33% in 
 
 **Entities:** [[Apple]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]] · [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]] · [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat]]
+**Related:** [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]] · [[2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce]] · [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]] · [[2026-07-23-microsoft-launches-in-house-ai-models-it-says-cut-costs-up-t]] · [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]]
 <!-- graph:end -->

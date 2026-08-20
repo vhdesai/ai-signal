@@ -25,11 +25,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-15-anthropic-and-openai-split-on-how-ai-should-be-regulated
 - 2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
-- 2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t
-- 2026-07-28-openai-model-breaks-containment-and-hacks-hugging-face-ignit
-- 2026-06-29-after-the-white-house-staggered-openai-s-gpt-5-6-rollout-and
+- 2026-07-17-ai-s-wider-availability-puts-pressure-on-openai-and-anthropi
 embedding_id: 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 event_name: ''
 ---
@@ -43,5 +42,5 @@ The New York Times reports that OpenAI and Anthropic have been privately urging 
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t]] · [[2026-07-28-openai-model-breaks-containment-and-hacks-hugging-face-ignit]] · [[2026-06-29-after-the-white-house-staggered-openai-s-gpt-5-6-rollout-and]]
+**Related:** [[2026-07-15-anthropic-and-openai-split-on-how-ai-should-be-regulated]] · [[2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-07-17-ai-s-wider-availability-puts-pressure-on-openai-and-anthropi]]
 <!-- graph:end -->

@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption
 - 2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal
-- 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
-- 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
-- 2026-07-28-visa-cuts-2-600-jobs-7-of-workforce-citing-ai-efficiency
+- 2026-07-29-demand-outweighs-supply-for-ai-skilled-workers
+- 2026-08-18-survey-85-of-companies-burned-by-an-ai-mistake-are-cutting-h
+- 2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo
 embedding_id: 2026-06-28-ford-rehires-350-veteran-engineers-after-ai-driven-quality-s
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Ford executives told Bloomberg the automaker brought back about 350 experienced 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption]] · [[2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-07-28-visa-cuts-2-600-jobs-7-of-workforce-citing-ai-efficiency]]
+**Related:** [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption]] · [[2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal]] · [[2026-07-29-demand-outweighs-supply-for-ai-skilled-workers]] · [[2026-08-18-survey-85-of-companies-burned-by-an-ai-mistake-are-cutting-h]] · [[2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo]]
 <!-- graph:end -->

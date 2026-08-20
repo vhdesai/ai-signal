@@ -22,8 +22,7 @@ related_article_ids:
 - 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
 - 2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level
 - 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
-- 2026-08-07-tencent-open-sources-team-memory-for-shared-ai-agent-context
-- 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
+- 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
 embedding_id: 2026-08-04-asana-ships-company-wide-agent-memory-with-built-in-access-c
 event_name: ''
 ---
@@ -36,5 +35,5 @@ Asana introduced AI agents that share memory across an organization while enforc
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-08-07-tencent-open-sources-team-memory-for-shared-ai-agent-context]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]]
+**Related:** [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]]
 <!-- graph:end -->

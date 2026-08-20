@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s
+- 2026-08-14-french-startup-kog-bets-on-software-optimization-to-achieve
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
 - 2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r
-- 2026-07-04-poolside-open-weights-laguna-xs-2-1-a-33b-coding-model-that
 embedding_id: 2026-06-15-new-flash-kmeans-io-aware-exact-k-means-claimed-200-faster-t
 event_name: ''
 ---
@@ -35,5 +35,5 @@ MarkTechPost's lead June 15 research item describes Flash-KMeans, an IO-aware ex
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r]] · [[2026-07-04-poolside-open-weights-laguna-xs-2-1-a-33b-coding-model-that]]
+**Related:** [[2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s]] · [[2026-08-14-french-startup-kog-bets-on-software-optimization-to-achieve]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r]]
 <!-- graph:end -->

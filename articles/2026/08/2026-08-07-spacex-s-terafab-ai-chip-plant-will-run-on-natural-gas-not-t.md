@@ -23,7 +23,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-a-new-texas-semicon
 - 2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas
-- 2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te
 embedding_id: 2026-08-07-spacex-s-terafab-ai-chip-plant-will-run-on-natural-gas-not-t
 event_name: ''
 ---
@@ -37,5 +36,5 @@ SpaceX's planned AI chip manufacturing facility, Terafab — intended to supply 
 
 **Entities:** [[Tesla]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-a-new-texas-semicon]] · [[2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas]] · [[2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te]]
+**Related:** [[2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-a-new-texas-semicon]] · [[2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas]]
 <!-- graph:end -->

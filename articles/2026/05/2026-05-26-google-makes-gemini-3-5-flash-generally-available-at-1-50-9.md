@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl
 - 2026-08-13-google-launches-gemini-3-7-flash-at-half-the-price-of-3-6-fl
 - 2026-08-13-google-releases-gemini-3-7-flash-to-general-availability
 - 2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model
-- 2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl
 - 2026-08-13-gemini-3-7-flash-at-half-the-price-of-3-6-flash
 embedding_id: 2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9
 event_name: ''
@@ -41,5 +41,5 @@ Google moved Gemini 3.5 Flash to general availability across AI Studio and Verte
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-13-google-launches-gemini-3-7-flash-at-half-the-price-of-3-6-fl]] · [[2026-08-13-google-releases-gemini-3-7-flash-to-general-availability]] · [[2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model]] · [[2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl]] · [[2026-08-13-gemini-3-7-flash-at-half-the-price-of-3-6-flash]]
+**Related:** [[2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl]] · [[2026-08-13-google-launches-gemini-3-7-flash-at-half-the-price-of-3-6-fl]] · [[2026-08-13-google-releases-gemini-3-7-flash-to-general-availability]] · [[2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model]] · [[2026-08-13-gemini-3-7-flash-at-half-the-price-of-3-6-flash]]
 <!-- graph:end -->

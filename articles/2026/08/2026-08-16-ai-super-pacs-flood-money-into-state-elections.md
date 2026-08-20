@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-16-ai-super-pacs-move-into-state-races-ahead-of-the-midterms
+- 2026-07-17-pro-ai-and-ai-safety-groups-prepare-for-midterm-policy-fight
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
 - 2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat
-- 2026-06-04-bipartisan-great-american-ai-act-proposes-federal-governance
-- 2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta
 embedding_id: 2026-08-16-ai-super-pacs-flood-money-into-state-elections
 event_name: ''
 ---
@@ -35,5 +35,5 @@ AI-industry-aligned super PACs are directing significant spending into state-lev
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat]] · [[2026-06-04-bipartisan-great-american-ai-act-proposes-federal-governance]] · [[2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta]]
+**Related:** [[2026-08-16-ai-super-pacs-move-into-state-races-ahead-of-the-midterms]] · [[2026-07-17-pro-ai-and-ai-safety-groups-prepare-for-midterm-policy-fight]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat]]
 <!-- graph:end -->

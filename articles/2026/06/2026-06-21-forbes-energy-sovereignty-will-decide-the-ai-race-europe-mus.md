@@ -24,8 +24,8 @@ canonical_article_id: 2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-ra
 related_article_ids:
 - 2026-06-21-forbes-published-a-geopolitical-analysis-arguing-that-ai-com
 - 2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel
+- 2026-07-17-ai-commoditization-pressures-proprietary-model-economics
 - 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
-- 2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t
 embedding_id: 2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race-europe-mus
 event_name: ''
 ---
@@ -40,5 +40,5 @@ AI competition is fundamentally an energy race: "People are constrained by softw
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
 **Canonical:** [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race]]
-**Related:** [[2026-06-21-forbes-published-a-geopolitical-analysis-arguing-that-ai-com]] · [[2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]]
+**Related:** [[2026-06-21-forbes-published-a-geopolitical-analysis-arguing-that-ai-com]] · [[2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel]] · [[2026-07-17-ai-commoditization-pressures-proprietary-model-economics]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]]
 <!-- graph:end -->

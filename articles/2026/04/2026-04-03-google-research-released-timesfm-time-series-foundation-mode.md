@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda
 - 2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab
 - 2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo
+- 2026-08-03-timesfm-2-5-is-notable-because-it-emphasizes-the-full-foreca
 - 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
-- 2026-05-22-google-health-first-cross-modality-foundation-model-for-wear
 embedding_id: 2026-04-03-google-research-released-timesfm-time-series-foundation-mode
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google Research released TimesFM (Time Series Foundation Model), applying large-
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda]] · [[2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab]] · [[2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-05-22-google-health-first-cross-modality-foundation-model-for-wear]]
+**Related:** [[2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda]] · [[2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab]] · [[2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo]] · [[2026-08-03-timesfm-2-5-is-notable-because-it-emphasizes-the-full-foreca]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]]
 <!-- graph:end -->

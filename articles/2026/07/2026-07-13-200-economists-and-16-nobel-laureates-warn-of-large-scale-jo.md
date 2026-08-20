@@ -22,7 +22,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-16-nobel-laureates-and-200-economists-issue-we-must-act-now
-related_article_ids: []
+related_article_ids:
+- 2026-07-13-200-researchers-and-15-nobel-laureates-warn-on-ai-s-economic
 embedding_id: 2026-07-13-200-economists-and-16-nobel-laureates-warn-of-large-scale-jo
 event_name: ''
 ---
@@ -37,4 +38,5 @@ A joint statement titled “We Must Act Now” — signed by more than 200 econo
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-07-13-16-nobel-laureates-and-200-economists-issue-we-must-act-now]]
+**Related:** [[2026-07-13-200-researchers-and-15-nobel-laureates-warn-on-ai-s-economic]]
 <!-- graph:end -->

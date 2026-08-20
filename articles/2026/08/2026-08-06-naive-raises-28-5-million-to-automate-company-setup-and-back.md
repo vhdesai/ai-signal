@@ -21,8 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast
-- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-- 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
+- 2026-07-15-indian-ai-coding-startup-emergent-becomes-a-unicorn-with-130
 embedding_id: 2026-08-06-naive-raises-28-5-million-to-automate-company-setup-and-back
 event_name: ''
 ---
@@ -35,5 +34,5 @@ Naive raised a $28.5 million Series A for infrastructure that lets AI agents pro
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]]
+**Related:** [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]] · [[2026-07-15-indian-ai-coding-startup-emergent-becomes-a-unicorn-with-130]]
 <!-- graph:end -->

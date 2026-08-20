@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en
 - 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
 - 2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai
 - 2026-08-13-cmu-researchers-challenge-what-it-means-to-say-ai-thinks
-- 2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a
-- 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
+- 2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers
 embedding_id: 2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A sharp Alphabet stock rally is being read by analysts as proof that compute cap
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai]] · [[2026-08-13-cmu-researchers-challenge-what-it-means-to-say-ai-thinks]] · [[2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]]
+**Related:** [[2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai]] · [[2026-08-13-cmu-researchers-challenge-what-it-means-to-say-ai-thinks]] · [[2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers]]
 <!-- graph:end -->

@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-17-ai-commoditization-pressures-proprietary-model-economics
 - 2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic
 - 2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on
 - 2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a
 - 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
-- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 embedding_id: 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Information described Microsoft’s effort to demonstrate that its AI platfo
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic]] · [[2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on]] · [[2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]]
+**Related:** [[2026-07-17-ai-commoditization-pressures-proprietary-model-economics]] · [[2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic]] · [[2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on]] · [[2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]]
 <!-- graph:end -->

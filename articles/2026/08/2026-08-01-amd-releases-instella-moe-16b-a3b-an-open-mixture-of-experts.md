@@ -19,13 +19,9 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-01-amd-ships-instella-moe-16b-a3b-a-fully-open-mixture-of-exper
-- 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
-- 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
-- 2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-an-open-weight-edge-vision-lang
+dedupe_status: duplicate
+canonical_article_id: 2026-08-01-amd-releases-instella-moe-16b-a3b-a-fully-open-moe-model-tra
+related_article_ids: []
 embedding_id: 2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts
 event_name: ''
 ---
@@ -39,5 +35,5 @@ MarkTechPost reported that AMD released Instella-MoE-16B-A3B, a fully open mixtu
 
 **Entities:** [[AMD]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-01-amd-ships-instella-moe-16b-a3b-a-fully-open-mixture-of-exper]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-an-open-weight-edge-vision-lang]]
+**Canonical:** [[2026-08-01-amd-releases-instella-moe-16b-a3b-a-fully-open-moe-model-tra]]
 <!-- graph:end -->

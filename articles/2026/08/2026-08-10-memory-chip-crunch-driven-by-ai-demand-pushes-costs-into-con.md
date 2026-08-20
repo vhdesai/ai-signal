@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-11-memory-prices-quadruple-in-a-year-pushing-costs-into-consume
+- 2026-06-18-tim-cook-warns-ai-chip-demand-making-apple-price-increases-u
+- 2026-07-17-ai-driven-memory-crunch-hits-india-s-smartphone-market
 - 2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws
-- 2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat
-- 2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa
 embedding_id: 2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AI-driven demand has reportedly quadrupled memory prices over the past year, squ
 
 **Entities:** [[Apple]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-11-memory-prices-quadruple-in-a-year-pushing-costs-into-consume]] · [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]] · [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]] · [[2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa]]
+**Related:** [[2026-08-11-memory-prices-quadruple-in-a-year-pushing-costs-into-consume]] · [[2026-06-18-tim-cook-warns-ai-chip-demand-making-apple-price-increases-u]] · [[2026-07-17-ai-driven-memory-crunch-hits-india-s-smartphone-market]] · [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]]
 <!-- graph:end -->

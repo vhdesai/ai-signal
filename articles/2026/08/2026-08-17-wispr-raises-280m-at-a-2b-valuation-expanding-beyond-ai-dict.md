@@ -16,12 +16,9 @@ entities: []
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-dictati
-- 2026-08-17-wispr-raises-280m-at-a-2b-valuation-to-expand-beyond-dictati
-- 2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation
+dedupe_status: duplicate
+canonical_article_id: 2026-08-17-wispr-raises-280m-at-2b-valuation-launches-new-speech-model
+related_article_ids: []
 embedding_id: 2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-ai-dict
 event_name: ''
 ---
@@ -34,5 +31,5 @@ Wispr, known for its AI dictation product, raised a $280 million Series B led by
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-dictati]] · [[2026-08-17-wispr-raises-280m-at-a-2b-valuation-to-expand-beyond-dictati]] · [[2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]]
+**Canonical:** [[2026-08-17-wispr-raises-280m-at-2b-valuation-launches-new-speech-model]]
 <!-- graph:end -->

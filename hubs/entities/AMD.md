@@ -1,36 +1,46 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 73
+member_count: 92
 ---
 
 # AMD
 
-> Auto-generated entity hub. 73 connected article(s).
+> Auto-generated entity hub. 92 connected article(s).
 
 - `2026-08-16` [[2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp|Report: Google taps AMD to help design its next-generation TPU]]
+- `2026-08-14` [[2026-08-14-kog-aims-to-squeeze-more-inference-throughput-from-conventio|Kog aims to squeeze more inference throughput from conventional GPUs]]
+- `2026-08-14` [[2026-08-14-french-startup-kog-bets-on-software-optimization-to-achieve|French Startup Kog Bets on Software Optimization to Achieve 30x Faster LLM Inference on Standard GPUs]]
 - `2026-08-14` [[2026-08-14-bofa-warns-broadcom-s-chip-financing-vehicle-could-carry-370|BofA warns Broadcom's chip-financing vehicle could carry $370B in AI debt]]
 - `2026-08-11` [[2026-08-11-river-ai-raises-1-1-billion-two-months-after-launch|River AI raises $1.1 billion two months after launch]]
 - `2026-08-11` [[2026-08-11-river-ai-raises-1-1b-for-an-open-weights-post-training-cloud|River AI Raises $1.1B for an Open-Weights Post-Training Cloud]]
+- `2026-08-11` [[2026-08-11-river-ai-raises-1-1b-for-open-weights-post-training-cloud|River AI Raises $1.1B for Open-Weights Post-Training Cloud]]
 - `2026-08-11` [[2026-08-11-cognition-in-early-talks-at-40b-valuation-river-ai-raises-1|Cognition in Early Talks at $40B+ Valuation; River AI Raises $1.1B]]
 - `2026-08-10` [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-model-built-to|Meta releases Muse Glimmer, a 30B open-weight model built to run on one consumer GPU]]
 - `2026-08-09` [[2026-08-09-nvidia-heads-into-q2-print-as-the-sector-s-next-repricing-ev|Nvidia Heads Into Q2 Print as the Sector's Next Repricing Event]]
 - `2026-08-08` [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le|Compute Economics Reprice While Frontier Safety Slows the Leaders]]
+- `2026-08-07` [[2026-08-07-anthropic-relaxes-claude-fable-5-s-biology-guardrails-while|Anthropic relaxes Claude Fable 5's biology guardrails while warning of bioweapon risk]]
+- `2026-08-07` [[2026-08-07-anthropic-loosens-claude-fable-5-biology-guardrails-while-wa|Anthropic loosens Claude Fable 5 biology guardrails while warning of bioweapon risk]]
 - `2026-08-07` [[2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity-as-t|AWS reportedly tells engineers to conserve CPU capacity as the compute crunch spreads]]
 - `2026-08-07` [[2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon|AMD Acquires Taalas to Etch AI Models Directly Into Silicon]]
 - `2026-08-06` [[2026-08-06-nvidia-still-dominates-ai-chips-but-bofa-sees-amd-closing-in|Nvidia still dominates AI chips, but BofA sees AMD closing in]]
+- `2026-08-06` [[2026-08-06-amd-acquires-taalas-to-hard-wire-ai-models-into-lower-cost-i|AMD acquires Taalas to hard-wire AI models into lower-cost inference silicon]]
 - `2026-08-06` [[2026-08-06-amd-acquires-taalas-to-hard-wire-ai-models-directly-into-sil|AMD acquires Taalas to hard-wire AI models directly into silicon]]
 - `2026-08-06` [[2026-08-06-amd-acquires-taalas-to-hardwire-models-into-silicon|AMD Acquires Taalas to Hardwire Models into Silicon]]
 - `2026-08-05` [[2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team|Anthropic is hiring a custom AI chip design team]]
+- `2026-08-05` [[2026-08-05-anthropic-confirms-in-house-custom-chip-design-team-for-clau|Anthropic confirms in-house custom chip design team for Claude]]
 - `2026-08-05` [[2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude|Anthropic confirms in-house AI chip design team for Claude]]
 - `2026-08-05` [[2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud|Anthropic confirms an in-house custom silicon team for Claude]]
 - `2026-08-05` [[2026-08-05-anthropic-builds-an-in-house-ai-chip-design-team-for-claude|Anthropic builds an in-house AI chip design team for Claude]]
 - `2026-08-05` [[2026-08-05-anthropic-confirms-it-is-building-an-in-house-custom-silicon|Anthropic Confirms It Is Building an In-House Custom Silicon Team]]
 - `2026-08-04` [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi|NSF commits $100M to regional AI infrastructure hubs with NVIDIA, AMD, Intel and Dell]]
 - `2026-08-04` [[2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t|AMD Posts Record $11.5B Quarter as Data Center Revenue More Than Doubles]]
+- `2026-08-03` [[2026-08-03-amd-s-release-is-strategically-important-because-it-demonstr|AMD’s release is strategically important because it demonstrates that credible open-weight models can be trained and…]]
 - `2026-08-01` [[2026-08-01-amd-ships-instella-moe-16b-a3b-a-fully-open-mixture-of-exper|AMD ships Instella-MoE-16B-A3B, a fully open Mixture-of-Experts LLM trained on its own GPUs]]
 - `2026-08-01` [[2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts|AMD releases Instella-MoE-16B-A3B, an open mixture-of-experts model trained on Instinct GPUs]]
+- `2026-08-01` [[2026-08-01-amd-releases-instella-moe-16b-a3b-a-fully-open-moe-model-tra|AMD releases Instella-MoE-16B-A3B, a fully open MoE model trained on Instinct GPUs]]
 - `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
+- `2026-07-30` [[2026-07-30-eu-commits-10b-to-seven-ai-gigafactories-in-race-with-u-s-an|EU Commits €10B to Seven AI Gigafactories in Race with U.S. and China]]
 - `2026-07-28` [[2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow|Hyperscalers Forecast $5.3 Trillion Capex Through 2030; Borrowing $400B This Year Alone]]
 - `2026-07-28` [[2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient|AMD locks up 529 MW of data-center capacity from Core Scientific in $14B, 15-year deal]]
 - `2026-07-27` [[2026-07-27-global-chip-rout-deepens-korea-s-kospi-trips-circuit-breaker|Global chip rout deepens; Korea's Kospi trips circuit-breaker]]
@@ -38,10 +48,18 @@ member_count: 73
 - `2026-07-25` [[2026-07-25-nvidia-s-open-weights-letter-expands-to-50-signatories|Nvidia’s open-weights letter expands to 50 signatories]]
 - `2026-07-25` [[2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-as-op|Nvidia's “Open Weights” letter doubles to 50 signatories as OpenAI and Google sign on]]
 - `2026-07-25` [[2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-opena|Nvidia's "Open Weights" Letter Doubles to 50 Signatories; OpenAI and Google Sign On]]
+- `2026-07-24` [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-to-challenge-nvidia|AMD unveils Helios rack-scale AI system to challenge Nvidia at the system level]]
+- `2026-07-24` [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-at-advancing-ai-2026|AMD Unveils Helios Rack-Scale AI System at Advancing AI 2026]]
+- `2026-07-23` [[2026-07-23-amd-takes-on-nvidia-with-helios-rack-scale-ai-system|AMD takes on NVIDIA with Helios rack-scale AI system]]
 - `2026-07-22` [[2026-07-22-amd-and-anthropic-sign-major-chips-and-investment-deal|AMD and Anthropic sign major chips-and-investment deal]]
+- `2026-07-21` [[2026-07-21-nvidia-details-vera-cpu-for-ai-agent-workloads|Nvidia details Vera CPU for AI-agent workloads]]
+- `2026-07-21` [[2026-07-21-nvidia-details-vera-cpu-sharpening-its-data-center-challenge|Nvidia Details Vera CPU, Sharpening Its Data-Center Challenge to AMD and Intel]]
+- `2026-07-21` [[2026-07-21-nvidia-details-vera-cpu-opening-a-new-front-against-amd-and|Nvidia Details Vera CPU, Opening a New Front Against AMD and Intel]]
+- `2026-07-16` [[2026-07-16-tsmc-posts-record-q2-revenue-as-ai-chip-demand-holds|TSMC posts record Q2 revenue as AI chip demand holds]]
 - `2026-07-13` [[2026-07-13-meta-readies-its-custom-iris-ai-chip-for-september-productio|Meta readies its custom “Iris” AI chip for September production]]
 - `2026-07-08` [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere|Hot French startup ZML releases free product to speed inference across lots of AI chips]]
 - `2026-07-06` [[2026-07-06-infrastructure-nvidia-s-flagship-kyber-nvl144-rack-slips-12|Infrastructure Nvidia's flagship Kyber NVL144 rack slips ~12 months to 2028 July 6, 2026 · The Next Web Nvidia has…]]
+- `2026-07-05` [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-slips-more-than-a-year-t|Nvidia's Next-Gen "Kyber" NVL144 Rack Slips More Than a Year to 2028]]
 - `2026-07-05` [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028|Nvidia's Next-Gen "Kyber" NVL144 Rack Reportedly Slips to 2028]]
 - `2026-06-24` [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in|OpenAI and Broadcom unveil “Jalapeño,” OpenAI’s first custom inference chip]]
 - `2026-06-22` [[2026-06-22-moonmath-ai-open-sources-hip-attention-kernel-for-amd-mi300x|MoonMath AI Open-Sources HIP Attention Kernel for AMD MI300X]]
@@ -62,6 +80,7 @@ member_count: 73
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications|Microsoft Build 2026 — Strategic Implications]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-overview|Microsoft Build 2026 — Overview]]
 - `2026-06-01` [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super|Nvidia enters the Windows PC market with the RTX Spark superchip at Computex 2026]]
+- `2026-06-01` [[2026-06-01-nvidia-unveils-vera-cpu-an-agent-native-processor-for-window|Nvidia Unveils Vera CPU—An Agent-Native Processor for Windows PCs]]
 - `2026-06-01` [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip|Nvidia Enters Windows PC Market with Arm-Based AI Chip]]
 - `2026-06-01` [[2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation|DriveNets raises $410M Series D at an $8.5B valuation]]
 - `2026-05-31` [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c|US moves to halt Nvidia and AMD advanced-chip shipments to Chinese firms operating outside China]]

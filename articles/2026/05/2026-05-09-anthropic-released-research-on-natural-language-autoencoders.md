@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
+- 2026-08-14-anthropic-details-how-claude-s-text-watermarking-works-under
 - 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
 - 2026-08-14-anthropic-details-claude-text-watermarking-under-eu-ai-act
-- 2026-05-14-anthropic-publicly-acknowledges-claude-code-quality-regressi
 embedding_id: 2026-05-09-anthropic-released-research-on-natural-language-autoencoders
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic released research on Natural Language Autoencoders, a novel technique 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]] · [[2026-08-14-anthropic-details-claude-text-watermarking-under-eu-ai-act]] · [[2026-05-14-anthropic-publicly-acknowledges-claude-code-quality-regressi]]
+**Related:** [[2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-08-14-anthropic-details-how-claude-s-text-watermarking-works-under]] · [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]] · [[2026-08-14-anthropic-details-claude-text-watermarking-under-eu-ai-act]]
 <!-- graph:end -->

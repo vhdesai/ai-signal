@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
 - event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
-- 2026-05-18-import-ai-457-ai-stuxnet-the-muon-optimizer-and-positive-ali
+- 2026-06-16-nvidia-blackwell-sweeps-mlperf-training-v6-0-benchmark
 embedding_id: 2026-05-18-the-ninth-annual-conference-on-machine-learning-and-systems
 event_name: ''
 ---
@@ -44,5 +44,5 @@ The ninth annual Conference on Machine Learning and Systems opened today in Bell
 
 **Entities:** [[Amazon]] · [[Google]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-18-import-ai-457-ai-stuxnet-the-muon-optimizer-and-positive-ali]]
+**Related:** [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-06-16-nvidia-blackwell-sweeps-mlperf-training-v6-0-benchmark]]
 <!-- graph:end -->

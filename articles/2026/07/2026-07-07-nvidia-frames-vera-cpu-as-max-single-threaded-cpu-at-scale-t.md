@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-07-nvidia-positions-its-vera-cpu-for-the-agentic-era-and-previe
 - 2026-07-07-nvidia-positions-vera-cpu-for-the-agentic-era-previews-next
-- 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
-- 2026-07-27-nvidia-deploys-vera-cpu-to-accelerate-chip-design-workflows
-- 2026-05-19-nvidia-delivers-vera-cpus-to-openai-anthropic-spacexai-and-o
+- 2026-07-21-nvidia-details-vera-cpu-for-ai-agent-workloads
+- 2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-its-own-chip-de
+- 2026-07-21-nvidia-details-vera-cpu-opening-a-new-front-against-amd-and
 embedding_id: 2026-07-07-nvidia-frames-vera-cpu-as-max-single-threaded-cpu-at-scale-t
 event_name: ''
 ---
@@ -42,5 +42,5 @@ NVIDIA published a blog framing its Vera CPU as a new category — “max single
 
 **Entities:** [[Arm]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-07-nvidia-positions-its-vera-cpu-for-the-agentic-era-and-previe]] · [[2026-07-07-nvidia-positions-vera-cpu-for-the-agentic-era-previews-next]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-07-27-nvidia-deploys-vera-cpu-to-accelerate-chip-design-workflows]] · [[2026-05-19-nvidia-delivers-vera-cpus-to-openai-anthropic-spacexai-and-o]]
+**Related:** [[2026-07-07-nvidia-positions-its-vera-cpu-for-the-agentic-era-and-previe]] · [[2026-07-07-nvidia-positions-vera-cpu-for-the-agentic-era-previews-next]] · [[2026-07-21-nvidia-details-vera-cpu-for-ai-agent-workloads]] · [[2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-its-own-chip-de]] · [[2026-07-21-nvidia-details-vera-cpu-opening-a-new-front-against-amd-and]]
 <!-- graph:end -->

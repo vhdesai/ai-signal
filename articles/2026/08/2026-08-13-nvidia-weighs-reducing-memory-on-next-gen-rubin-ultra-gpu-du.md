@@ -26,7 +26,6 @@ related_article_ids:
 - 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl
-- 2026-05-28-nvidia-server-maker-wiwynn-warns-ai-bottlenecks-now-extend-b
 embedding_id: 2026-08-13-nvidia-weighs-reducing-memory-on-next-gen-rubin-ultra-gpu-du
 event_name: ''
 ---
@@ -40,5 +39,5 @@ Nvidia is considering reducing the amount of high-bandwidth memory on its next-g
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl]] · [[2026-05-28-nvidia-server-maker-wiwynn-warns-ai-bottlenecks-now-extend-b]]
+**Related:** [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl]]
 <!-- graph:end -->

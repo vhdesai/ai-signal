@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio
 - 2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l
+- 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
 - 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
 - 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
-- 2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven
 embedding_id: 2026-07-24-white-house-draws-new-ai-line-on-china
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Axios reports that the White House is drawing a new AI line on China as policyma
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]] · [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]] · [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]]
+**Related:** [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]] · [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]] · [[2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]]
 <!-- graph:end -->

@@ -21,8 +21,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in
-- 2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j
-- 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
 embedding_id: 2026-08-14-smic-raises-chip-prices-as-ai-demand-pushes-utilization-to-9
 event_name: ''
 ---
@@ -35,5 +33,5 @@ China's largest foundry is raising prices on its most in-demand capacity, with Q
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in]] · [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]]
+**Related:** [[2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in]]
 <!-- graph:end -->

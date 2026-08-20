@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin
 - 2026-07-10-coreweave-named-a-visionary-in-the-2026-gartner-magic-quadra
 - 2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar
-- 2026-08-12-coreweave-and-super-micro-surge-on-evidence-of-sustained-ai
+- 2026-07-20-coreweave-s-gpu-expansion-highlights-infrastructure-arms-rac
 embedding_id: 2026-08-05-coreweave-signs-multi-year-storage-agreement-with-solidigm
 event_name: ''
 ---
@@ -37,5 +37,5 @@ CoreWeave signed a multi-year strategic agreement with Solidigm for priority acc
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-04-coreweave-expands-ai-cloud-platform-to-indonesia]] · [[2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin]] · [[2026-07-10-coreweave-named-a-visionary-in-the-2026-gartner-magic-quadra]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]] · [[2026-08-12-coreweave-and-super-micro-surge-on-evidence-of-sustained-ai]]
+**Related:** [[2026-08-04-coreweave-expands-ai-cloud-platform-to-indonesia]] · [[2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin]] · [[2026-07-10-coreweave-named-a-visionary-in-the-2026-gartner-magic-quadra]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]] · [[2026-07-20-coreweave-s-gpu-expansion-highlights-infrastructure-arms-rac]]
 <!-- graph:end -->

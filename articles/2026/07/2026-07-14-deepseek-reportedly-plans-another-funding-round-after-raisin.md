@@ -23,11 +23,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-03-deepseek-prepares-7-billion-maiden-fundraise
 - 2026-05-13-deepseek-reportedly-raising-7b-at-50b-valuation-led-by-china
 - 2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50
 - 2026-07-14-deepseek-weighs-a-second-raise-in-two-months-at-a-71b-pre-mo
 - 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
-- 2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round
 embedding_id: 2026-07-14-deepseek-reportedly-plans-another-funding-round-after-raisin
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The Information reports that DeepSeek is plotting another funding round only wee
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-13-deepseek-reportedly-raising-7b-at-50b-valuation-led-by-china]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-07-14-deepseek-weighs-a-second-raise-in-two-months-at-a-71b-pre-mo]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]] · [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]]
+**Related:** [[2026-06-03-deepseek-prepares-7-billion-maiden-fundraise]] · [[2026-05-13-deepseek-reportedly-raising-7b-at-50b-valuation-led-by-china]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-07-14-deepseek-weighs-a-second-raise-in-two-months-at-a-71b-pre-mo]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]]
 <!-- graph:end -->

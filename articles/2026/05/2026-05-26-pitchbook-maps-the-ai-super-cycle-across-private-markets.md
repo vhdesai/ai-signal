@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
-- 2026-08-14-pitchbook-maps-the-great-openai-exec-exodus
-- 2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for
-- 2026-05-20-top-vcs-are-using-ai-to-scout-map-markets-and-prep-decisions
-- 2026-07-23-ai-s-capital-and-compute-race-outpaces-the-model-cycle
+- 2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers
+- 2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit
+- 2026-06-13-pitchbook-ai-ambitions-vs-exit-pressures
+- 2026-08-14-pitchbook-analysts-examine-what-nvidia-s-500b-financing-play
 embedding_id: 2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets
 event_name: ''
 ---
@@ -37,5 +37,5 @@ PitchBook’s Daily Pitch described the AI super-cycle as a multi-layer private-
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-08-14-pitchbook-maps-the-great-openai-exec-exodus]] · [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]] · [[2026-05-20-top-vcs-are-using-ai-to-scout-map-markets-and-prep-decisions]] · [[2026-07-23-ai-s-capital-and-compute-race-outpaces-the-model-cycle]]
+**Related:** [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]] · [[2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit]] · [[2026-06-13-pitchbook-ai-ambitions-vs-exit-pressures]] · [[2026-08-14-pitchbook-analysts-examine-what-nvidia-s-500b-financing-play]]
 <!-- graph:end -->

@@ -22,10 +22,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-24-nvidia-and-south-korea-outline-full-stack-ai-collaboration
+- 2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in
 - 2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con
 - 2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san
-- 2026-07-28-nvidia-sk-group-500b-partnership-is-mostly-recycled-announce
-- 2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na
+- 2026-07-27-nvidia-invests-in-naver-and-helps-assemble-south-korea-ai-da
 embedding_id: 2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration
 event_name: ''
 ---
@@ -39,5 +40,5 @@ NVIDIA says South Korean President Jae Myung Lee and Korean business and researc
 
 **Entities:** [[NVIDIA]] · [[Samsung]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-07-28-nvidia-sk-group-500b-partnership-is-mostly-recycled-announce]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]]
+**Related:** [[2026-07-24-nvidia-and-south-korea-outline-full-stack-ai-collaboration]] · [[2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in]] · [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-07-27-nvidia-invests-in-naver-and-helps-assemble-south-korea-ai-da]]
 <!-- graph:end -->

@@ -23,7 +23,6 @@ related_article_ids:
 - 2026-07-27-global-chip-rout-deepens-korea-s-kospi-trips-circuit-breaker
 - 2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b
 - 2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers
-- 2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip
 embedding_id: 2026-08-13-south-korea-s-kospi-enters-bull-market-in-one-month-on-ai-tr
 event_name: ''
 ---
@@ -36,5 +35,5 @@ South Korea's Kospi swung from bear to bull market territory in just over a mont
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat]] · [[2026-07-27-global-chip-rout-deepens-korea-s-kospi-trips-circuit-breaker]] · [[2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b]] · [[2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers]] · [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]]
+**Related:** [[2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat]] · [[2026-07-27-global-chip-rout-deepens-korea-s-kospi-trips-circuit-breaker]] · [[2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b]] · [[2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers]]
 <!-- graph:end -->

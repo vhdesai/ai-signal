@@ -19,7 +19,7 @@ themes:
 - policy-regulation
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-11-120-organizations-back-safe-an-incident-reporting-framework
+canonical_article_id: 2026-08-11-120-organizations-back-safe-a-reporting-framework-for-rogue
 related_article_ids: []
 embedding_id: 2026-08-11-nvidia-cisco-and-crowdstrike-back-safe-a-reporting-framework
 event_name: ''
@@ -34,5 +34,5 @@ More than 120 organizations are backing the Open Secure AI Alliance's Shared AI 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Canonical:** [[2026-08-11-120-organizations-back-safe-an-incident-reporting-framework]]
+**Canonical:** [[2026-08-11-120-organizations-back-safe-a-reporting-framework-for-rogue]]
 <!-- graph:end -->

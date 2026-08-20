@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr
 - 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
 - 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
-- 2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica
+- 2026-07-20-nvidia-releases-cosmos-3-edge-for-on-device-physical-ai
 embedding_id: 2026-04-14-nvidia-ising-open-models-for-quantum-error-correction
 event_name: ''
 ---
@@ -38,5 +38,5 @@ NVIDIA released Ising, an open family of quantum-AI models aimed at calibration 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-09-newnvidia-launches-nvidia-ising-world-s-first-open-source-qu]] · [[2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica]]
+**Related:** [[2026-05-09-newnvidia-launches-nvidia-ising-world-s-first-open-source-qu]] · [[2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-07-20-nvidia-releases-cosmos-3-edge-for-on-device-physical-ai]]
 <!-- graph:end -->

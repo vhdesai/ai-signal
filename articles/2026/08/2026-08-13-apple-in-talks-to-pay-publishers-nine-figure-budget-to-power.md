@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-apple-in-talks-to-pay-publishers-for-news-to-power-ai-siri
+- 2026-07-31-apple-reportedly-considers-paid-tiers-for-advanced-siri-ai-u
 - 2026-07-31-apple-considers-paywalling-heavier-siri-ai-usage-through-icl
-- 2026-04-01-products-tools
-- 2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over
+- 2026-08-01-techcrunch-reports-that-apple-is-considering-a-model-in-whic
 embedding_id: 2026-08-13-apple-in-talks-to-pay-publishers-nine-figure-budget-to-power
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Apple has reached out to publishers about licensing content to provide Siri with
 
 **Entities:** [[Apple]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-12-apple-in-talks-to-pay-publishers-for-news-to-power-ai-siri]] · [[2026-07-31-apple-considers-paywalling-heavier-siri-ai-usage-through-icl]] · [[2026-04-01-products-tools]] · [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over]]
+**Related:** [[2026-08-12-apple-in-talks-to-pay-publishers-for-news-to-power-ai-siri]] · [[2026-07-31-apple-reportedly-considers-paid-tiers-for-advanced-siri-ai-u]] · [[2026-07-31-apple-considers-paywalling-heavier-siri-ai-usage-through-icl]] · [[2026-08-01-techcrunch-reports-that-apple-is-considering-a-model-in-whic]]
 <!-- graph:end -->

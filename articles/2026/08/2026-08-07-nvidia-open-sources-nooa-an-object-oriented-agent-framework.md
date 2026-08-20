@@ -18,13 +18,9 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-07-nvidia-open-sources-nooa-object-oriented-agent-framework-rea
-- 2026-08-07-nvidia-releases-nooa-an-object-oriented-python-framework-tha
-- 2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri
-- 2026-08-01-nvidia-releases-molt-an-apache-2-0-pytorch-native-agentic-re
+dedupe_status: duplicate
+canonical_article_id: 2026-08-07-nvidia-open-sources-nooa-agent-framework-hitting-82-2-on-swe
+related_article_ids: []
 embedding_id: 2026-08-07-nvidia-open-sources-nooa-an-object-oriented-agent-framework
 event_name: ''
 ---
@@ -38,5 +34,5 @@ NVIDIA Labs released NOOA (Object-Oriented Agents) under Apache 2.0, collapsing 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-07-nvidia-open-sources-nooa-object-oriented-agent-framework-rea]] · [[2026-08-07-nvidia-releases-nooa-an-object-oriented-python-framework-tha]] · [[2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri]] · [[2026-08-01-nvidia-releases-molt-an-apache-2-0-pytorch-native-agentic-re]]
+**Canonical:** [[2026-08-07-nvidia-open-sources-nooa-agent-framework-hitting-82-2-on-swe]]
 <!-- graph:end -->

@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: Cohere
-member_count: 12
+member_count: 13
 ---
 
 # Cohere
 
-> Auto-generated entity hub. 12 connected article(s).
+> Auto-generated entity hub. 13 connected article(s).
 
 - `2026-08-07` [[2026-08-07-aws-details-how-cohere-health-digitizes-clinical-policies-us|AWS Details How Cohere Health Digitizes Clinical Policies Using Bedrock AgentCore]]
+- `2026-08-06` [[2026-08-06-google-execs-searching-for-the-exit|Google Execs Searching for the Exit]]
 - `2026-05-27` [[2026-05-27-the-week-that-reset-the-ai-industry|The Week That Reset the AI Industry]]
 - `2026-05-23` [[2026-05-23-cohere-s-command-a-is-a-218-billion-parameter-sparse-mixture|Cohere's Command A+ is a 218-billion-parameter Sparse Mixture-of-Experts model designed for enterprise agentic workflows]]
 - `2026-05-22` [[2026-05-22-singapore-imda-releases-updated-agentic-ai-governance-framew|Singapore IMDA Releases Updated Agentic AI Governance Framework — Multi-Agent Accountability in Focus]]

@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 - 2026-04-08-source-forbes-msn-the-neuron
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-05-16-wired-published-a-feature-documenting-meta-s-current-state-r
 - 2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in
-- 2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti
 embedding_id: 2026-05-26-yann-lecun-on-what-comes-after-llms-jepa-tapestry-and-a-quie
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta's chief AI scientist lays out the JEPA-plus-Tapestry roadmap as his answer 
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-05-16-wired-published-a-feature-documenting-meta-s-current-state-r]] · [[2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in]] · [[2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti]]
+**Related:** [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-05-16-wired-published-a-feature-documenting-meta-s-current-state-r]] · [[2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in]]
 <!-- graph:end -->

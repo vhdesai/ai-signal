@@ -1,22 +1,22 @@
 ---
 article_id: 2026-07-25-samsung-sds-rolls-claude-enterprise-out-to-70-000-employees
-title: Samsung SDS rolls Claude Enterprise out to ~70,000 employees
+title: Samsung SDS Rolls Claude Enterprise Out to ~70,000 Employees
 date: '2026-07-25'
-source: Nocut News
+source: Nocut News**
 url_original: https://en.nocutnews.co.kr/news/6553251
 url_canonical: https://en.nocutnews.co.kr/news/6553251
 url_status: found
-digest_source: digests\raw\2026-07-26_062744_Inbox_Daily AI News Digest - July 26,
-  2026.md
-content_hash: 6e7fa14ac117a9bebaa4e995e01648e9a47f052f91f180ec796de54ccb063d13
+digest_source: digests\raw\2026-07-26_065030_Final-Daily-AI-News-Digest.md
+content_hash: 7d56b950163d90ca0188280758c2ed3da6ec4f3c15defd819dbfa115b9e04e2e
 normalized_title_hash: 6aea7a9b5a23801c
 canonical_url_hash: 30f2cf0b6e147bf5
-tags: []
+tags:
+- New
+- Adoption
 entities:
 - Anthropic
 - Samsung
 themes:
-- model-capabilities
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -26,14 +26,14 @@ embedding_id: 2026-07-25-samsung-sds-rolls-claude-enterprise-out-to-70-000-emplo
 event_name: ''
 ---
 
-# Samsung SDS rolls Claude Enterprise out to ~70,000 employees
+# Samsung SDS Rolls Claude Enterprise Out to ~70,000 Employees
 
-Samsung SDS and Anthropic expanded their partnership to deploy Claude Enterprise (with Claude Code) to roughly 70,000 employees across some 20 Samsung affiliates, alongside joint go-to-market plans in Korea. The agreement, signed at the San Francisco AI summit, is one of the larger single-enterprise frontier-model rollouts disclosed to date. It underscores how quickly large Asian conglomerates are standardizing on US frontier models for internal productivity — a competitive signal for every enterprise-software vendor.
+Samsung SDS and Anthropic expanded their partnership to deploy Claude Enterprise (with Claude Code) to ~70,000 employees across ~20 Samsung affiliates. One of the larger single-enterprise frontier-model rollouts disclosed to date. Shows how quickly large Asian conglomerates are standardizing on US frontier models for internal productivity.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Samsung]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-25-samsung-sds-partners-with-anthropic-to-put-claude-enterprise]]
 <!-- graph:end -->

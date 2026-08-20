@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-12-tencent-reports-q2-2026-results-touting-an-ai-empowered-pivo
 - 2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r
 - 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
-- 2026-06-02-tencent-shares-surge-10-on-ai-agent-plans-for-wechat
+- 2026-06-02-tencent-shares-jump-10-on-ai-agent-plans-for-wechat
 embedding_id: 2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Tencent announced new AI tools and enterprise solutions for global markets at Te
 
 **Entities:** [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-08-12-tencent-reports-q2-2026-results-touting-an-ai-empowered-pivo]] · [[2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r]] · [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]] · [[2026-06-02-tencent-shares-surge-10-on-ai-agent-plans-for-wechat]]
+**Related:** [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-08-12-tencent-reports-q2-2026-results-touting-an-ai-empowered-pivo]] · [[2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r]] · [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]] · [[2026-06-02-tencent-shares-jump-10-on-ai-agent-plans-for-wechat]]
 <!-- graph:end -->

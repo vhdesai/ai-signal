@@ -24,9 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti
+- 2026-07-16-china-s-ai-challengers-close-the-gap-on-u-s-labs
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
-- 2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m
-- 2026-08-03-alibaba-unveils-qwen3-8-max-its-most-capable-model-to-date
+- 2026-08-03-alibaba-unveils-qwen3-8-max-as-china-s-model-race-accelerate
+- 2026-08-03-alibaba-qwen3-8-max-raises-the-bar-in-china-s-model-race
 embedding_id: 2026-05-28-minimax-doubles-sales-ahead-of-new-flagship-model-launch
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Chinese AI lab MiniMax doubled revenue year-over-year heading into the launch of
 
 **Entities:** [[Alibaba]] · [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m]] · [[2026-08-03-alibaba-unveils-qwen3-8-max-its-most-capable-model-to-date]]
+**Related:** [[2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti]] · [[2026-07-16-china-s-ai-challengers-close-the-gap-on-u-s-labs]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-08-03-alibaba-unveils-qwen3-8-max-as-china-s-model-race-accelerate]] · [[2026-08-03-alibaba-qwen3-8-max-raises-the-bar-in-china-s-model-race]]
 <!-- graph:end -->

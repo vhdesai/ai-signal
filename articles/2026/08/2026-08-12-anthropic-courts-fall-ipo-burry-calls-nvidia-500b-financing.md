@@ -27,10 +27,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-anthropic-courts-investors-for-fall-ipo-burry-critiques-nvid
+- 2026-08-12-anthropic-courts-investors-ahead-of-fall-ipo-michael-burry-c
 - 2026-08-12-michael-burry-calls-nvidia-s-500b-ai-financing-push-a-wall-s
 - 2026-08-12-anthropic-works-to-shore-up-investor-confidence-ahead-of-a-b
-- 2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo
-- 2026-05-09-michael-burry-expands-ai-short-palantir-nvidia-oracle-into-2
+- 2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar
 embedding_id: 2026-08-12-anthropic-courts-fall-ipo-burry-calls-nvidia-500b-financing
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Anthropic is meeting prospective public-market investors ahead of a possible lis
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-12-anthropic-courts-investors-for-fall-ipo-burry-critiques-nvid]] · [[2026-08-12-michael-burry-calls-nvidia-s-500b-ai-financing-push-a-wall-s]] · [[2026-08-12-anthropic-works-to-shore-up-investor-confidence-ahead-of-a-b]] · [[2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo]] · [[2026-05-09-michael-burry-expands-ai-short-palantir-nvidia-oracle-into-2]]
+**Related:** [[2026-08-12-anthropic-courts-investors-for-fall-ipo-burry-critiques-nvid]] · [[2026-08-12-anthropic-courts-investors-ahead-of-fall-ipo-michael-burry-c]] · [[2026-08-12-michael-burry-calls-nvidia-s-500b-ai-financing-push-a-wall-s]] · [[2026-08-12-anthropic-works-to-shore-up-investor-confidence-ahead-of-a-b]] · [[2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-02-the-university-of-washington-s-math-ai-laboratory-announced
 - 2026-08-12-cornell-s-ari-juels-receives-2026-usenix-security-test-of-ti
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
-- 2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc
+- 2026-08-15-wsj-ai-achieves-another-math-breakthrough-on-riemann-hypothe
 embedding_id: 2026-08-05-university-of-washington-s-jerry-li-wins-2026-g-del-prize-fo
 event_name: ''
 ---
@@ -36,5 +36,5 @@ University of Washington professor Jerry Li and co-authors from UW-Madison, Wate
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-02-the-university-of-washington-s-math-ai-laboratory-announced]] · [[2026-08-12-cornell-s-ari-juels-receives-2026-usenix-security-test-of-ti]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc]]
+**Related:** [[2026-05-02-the-university-of-washington-s-math-ai-laboratory-announced]] · [[2026-08-12-cornell-s-ari-juels-receives-2026-usenix-security-test-of-ti]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-08-15-wsj-ai-achieves-another-math-breakthrough-on-riemann-hypothe]]
 <!-- graph:end -->

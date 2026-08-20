@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-08-microsoft-quietly-replaces-partner-models-with-mai-models-in
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house
+- 2026-07-23-microsoft-launches-in-house-ai-models-it-says-cut-costs-up-t
 - 2026-07-07-microsoft-mai-model-deployment
-- 2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-mai-models
 embedding_id: 2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Microsoft has reportedly begun routing some Office 365 prompts in Excel and Word
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-08-microsoft-quietly-replaces-partner-models-with-mai-models-in]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]] · [[2026-07-07-microsoft-mai-model-deployment]] · [[2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-mai-models]]
+**Related:** [[2026-07-08-microsoft-quietly-replaces-partner-models-with-mai-models-in]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]] · [[2026-07-23-microsoft-launches-in-house-ai-models-it-says-cut-costs-up-t]] · [[2026-07-07-microsoft-mai-model-deployment]]
 <!-- graph:end -->

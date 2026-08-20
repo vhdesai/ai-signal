@@ -21,14 +21,9 @@ themes:
 - model-capabilities
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-13-deepseek-ships-v4-pro-open-source-harness-then-raises-prices
-- 2026-08-14-deepseek-v4-pro-ga-sharp-price-increases-effective-aug-16
-- 2026-08-14-deepseek-launches-v4-pro-and-sharply-raises-api-prices
-- 2026-08-14-deepseek-ships-v4-pro-to-general-availability-with-api-price
-- 2026-08-13-deepseek-open-sources-harness-and-moves-v4-pro-to-general-av
+dedupe_status: duplicate
+canonical_article_id: 2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-agent-framewor
+related_article_ids: []
 embedding_id: 2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-then-raises-ap
 event_name: ''
 ---
@@ -42,5 +37,5 @@ V4-Pro goes GA (1.6T params, 49B active, 1M-token context) with native OpenAI Re
 
 **Entities:** [[DeepSeek]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-13-deepseek-ships-v4-pro-open-source-harness-then-raises-prices]] · [[2026-08-14-deepseek-v4-pro-ga-sharp-price-increases-effective-aug-16]] · [[2026-08-14-deepseek-launches-v4-pro-and-sharply-raises-api-prices]] · [[2026-08-14-deepseek-ships-v4-pro-to-general-availability-with-api-price]] · [[2026-08-13-deepseek-open-sources-harness-and-moves-v4-pro-to-general-av]]
+**Canonical:** [[2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-agent-framewor]]
 <!-- graph:end -->

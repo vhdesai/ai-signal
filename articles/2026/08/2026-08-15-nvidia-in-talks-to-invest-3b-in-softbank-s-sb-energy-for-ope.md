@@ -21,13 +21,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-15-nvidia-in-talks-to-put-up-to-3b-into-softbank-backed-sb-ener
-- 2026-08-15-nvidia-in-talks-to-invest-up-to-3b-in-softbank-backed-sb-ene
-- 2026-08-14-nvidia-weighs-3b-stake-in-sb-energy-ohio-backstop-cut-to-und
-- 2026-08-17-nvidia-to-invest-1-5b-in-sb-energy-the-softbank-developer-be
+dedupe_status: duplicate
+canonical_article_id: 2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai
+related_article_ids: []
 embedding_id: 2026-08-15-nvidia-in-talks-to-invest-3b-in-softbank-s-sb-energy-for-ope
 event_name: ''
 ---
@@ -41,5 +37,5 @@ Nvidia is discussing an investment of up to $3 billion in SB Energy, the SoftBan
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-15-nvidia-in-talks-to-put-up-to-3b-into-softbank-backed-sb-ener]] · [[2026-08-15-nvidia-in-talks-to-invest-up-to-3b-in-softbank-backed-sb-ene]] · [[2026-08-14-nvidia-weighs-3b-stake-in-sb-energy-ohio-backstop-cut-to-und]] · [[2026-08-17-nvidia-to-invest-1-5b-in-sb-energy-the-softbank-developer-be]]
+**Canonical:** [[2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai]]
 <!-- graph:end -->

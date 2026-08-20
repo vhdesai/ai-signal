@@ -20,10 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic
-- 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
-- 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
-- 2026-08-03-south-korea-s-deepx-valuation-surges-to-2-2b-in-fresh-fundin
+- 2026-08-03-olix-raises-europe-s-largest-chip-round-for-optical-ai-silic
+- 2026-08-03-olix-s-financing-is-significant-both-for-its-size-and-for-wh
+- 2026-08-15-british-ai-chip-founder-becomes-europe-s-youngest-self-made
 embedding_id: 2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua
 event_name: ''
 ---
@@ -36,5 +35,5 @@ Data Center Dynamics reported that UK chip startup Olix raised $312 million at a
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-08-03-south-korea-s-deepx-valuation-surges-to-2-2b-in-fresh-fundin]]
+**Related:** [[2026-08-03-olix-raises-europe-s-largest-chip-round-for-optical-ai-silic]] · [[2026-08-03-olix-s-financing-is-significant-both-for-its-size-and-for-wh]] · [[2026-08-15-british-ai-chip-founder-becomes-europe-s-youngest-self-made]]
 <!-- graph:end -->

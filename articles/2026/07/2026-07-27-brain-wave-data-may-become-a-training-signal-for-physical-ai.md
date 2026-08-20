@@ -23,7 +23,6 @@ related_article_ids:
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 - 2026-05-20-scaling-laws-for-embodied-ai
 - 2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil
-- 2026-06-30-meta-ai-published-brain2qwerty-v2-a-non-invasive-pipeline-th
 embedding_id: 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 event_name: ''
 ---
@@ -36,5 +35,5 @@ TechCrunch reports that Encord is testing brain-wave-tagged robotics training da
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-05-20-scaling-laws-for-embodied-ai]] · [[2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil]] · [[2026-06-30-meta-ai-published-brain2qwerty-v2-a-non-invasive-pipeline-th]]
+**Related:** [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-05-20-scaling-laws-for-embodied-ai]] · [[2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil]]
 <!-- graph:end -->

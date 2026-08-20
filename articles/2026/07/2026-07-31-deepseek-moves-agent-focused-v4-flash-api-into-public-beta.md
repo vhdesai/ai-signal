@@ -22,11 +22,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-31-deepseek-v4-flash-0731-enters-public-beta-with-large-agentic
 - 2026-07-31-deepseek-moves-v4-flash-0731-into-public-beta-with-major-age
 - 2026-07-31-deepseek-ships-deepseek-v4-flash-0731-with-major-agentic-and
 - 2026-07-31-deepseek-launches-upgraded-v4-flash-api-with-big-agent-gains
 - 2026-07-31-deepseek-upgrades-deepseek-v4-flash-0731-with-agentic-and-co
-- 2026-07-31-deepseek-ships-v4-flash-0731-with-big-agentic-and-coding-gai
 embedding_id: 2026-07-31-deepseek-moves-agent-focused-v4-flash-api-into-public-beta
 event_name: ''
 ---
@@ -40,5 +40,5 @@ DeepSeek put the formal version of its V4-Flash API into public beta, an upgrade
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-31-deepseek-moves-v4-flash-0731-into-public-beta-with-major-age]] · [[2026-07-31-deepseek-ships-deepseek-v4-flash-0731-with-major-agentic-and]] · [[2026-07-31-deepseek-launches-upgraded-v4-flash-api-with-big-agent-gains]] · [[2026-07-31-deepseek-upgrades-deepseek-v4-flash-0731-with-agentic-and-co]] · [[2026-07-31-deepseek-ships-v4-flash-0731-with-big-agentic-and-coding-gai]]
+**Related:** [[2026-07-31-deepseek-v4-flash-0731-enters-public-beta-with-large-agentic]] · [[2026-07-31-deepseek-moves-v4-flash-0731-into-public-beta-with-major-age]] · [[2026-07-31-deepseek-ships-deepseek-v4-flash-0731-with-major-agentic-and]] · [[2026-07-31-deepseek-launches-upgraded-v4-flash-api-with-big-agent-gains]] · [[2026-07-31-deepseek-upgrades-deepseek-v4-flash-0731-with-agentic-and-co]]
 <!-- graph:end -->

@@ -16,13 +16,9 @@ entities: []
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-08-harvey-in-talks-for-500m-at-a-15-5b-valuation
-- 2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation
-- 2026-07-09-legal-ai-startup-norm-ai-hits-a-1-2b-valuation-with-a-120m-s
-- 2026-07-09-oxylabs-hits-3-6b-valuation-as-ai-training-data-infrastructu
+dedupe_status: duplicate
+canonical_article_id: 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat
+related_article_ids: []
 embedding_id: 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu
 event_name: ''
 ---
@@ -35,5 +31,5 @@ Harvey, which builds AI software for law firms and in-house legal teams, is repo
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-08-harvey-in-talks-for-500m-at-a-15-5b-valuation]] · [[2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation]] · [[2026-07-09-legal-ai-startup-norm-ai-hits-a-1-2b-valuation-with-a-120m-s]] · [[2026-07-09-oxylabs-hits-3-6b-valuation-as-ai-training-data-infrastructu]]
+**Canonical:** [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat]]
 <!-- graph:end -->

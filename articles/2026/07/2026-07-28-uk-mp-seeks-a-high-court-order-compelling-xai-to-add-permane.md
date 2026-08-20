@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake
 - 2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam
-- 2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of
-- 2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok
-- 2026-08-15-new-plaintiff-joins-federal-class-action-over-grok-generated
+- 2026-07-23-arkansas-family-sues-xai-over-grok-generated-child-abuse-ima
+- 2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims
+- 2026-08-15-lawsuit-expands-over-alleged-use-of-grok-to-create-explicit
 embedding_id: 2026-07-28-uk-mp-seeks-a-high-court-order-compelling-xai-to-add-permane
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Labour MP Jess Asato is seeking a court order that would require xAI to build pe
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]] · [[2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam]] · [[2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of]] · [[2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok]] · [[2026-08-15-new-plaintiff-joins-federal-class-action-over-grok-generated]]
+**Related:** [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]] · [[2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam]] · [[2026-07-23-arkansas-family-sues-xai-over-grok-generated-child-abuse-ima]] · [[2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims]] · [[2026-08-15-lawsuit-expands-over-alleged-use-of-grok-to-create-explicit]]
 <!-- graph:end -->

@@ -26,10 +26,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-02-microsoft-build-2026-scout-agent-project-solara-and-frontier
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
 - event-microsoft-build-2026-microsoft-build-2026-strategic-implications
-- 2026-06-02-microsoft-build-2026-scout-project-solara-and-frontier-tunin
-- event-microsoft-build-2026-microsoft-build-2026-overview
 embedding_id: event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy
 event_name: Microsoft Build 2026
 ---
@@ -43,5 +42,5 @@ Microsoft Scout: A new always-on personal agent for work built on OpenClaw and W
 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]] · [[2026-06-02-microsoft-build-2026-scout-project-solara-and-frontier-tunin]] · [[event-microsoft-build-2026-microsoft-build-2026-overview]]
+**Related:** [[2026-06-02-microsoft-build-2026-scout-agent-project-solara-and-frontier]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]]
 <!-- graph:end -->

@@ -23,14 +23,9 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok
-- 2026-08-15-new-plaintiff-joins-federal-class-action-over-grok-generated
-- 2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam
-- 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
-- 2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake
+dedupe_status: duplicate
+canonical_article_id: 2026-08-15-fourth-plaintiff-joins-federal-class-action-over-grok-genera
+related_article_ids: []
 embedding_id: 2026-08-15-fourth-plaintiff-joins-grok-csam-class-action-against-xai-sp
 event_name: ''
 ---
@@ -44,5 +39,5 @@ A woman alleges a family member used Grok to convert a single childhood photo in
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok]] · [[2026-08-15-new-plaintiff-joins-federal-class-action-over-grok-generated]] · [[2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam]] · [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law]] · [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]]
+**Canonical:** [[2026-08-15-fourth-plaintiff-joins-federal-class-action-over-grok-genera]]
 <!-- graph:end -->

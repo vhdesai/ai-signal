@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-07-saas-companies-race-to-reinvent-as-ai-agents-replace-softwar
 - 2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur
 - 2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models
-- 2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the
-- 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
+- 2026-08-01-pitchbook-saas-pocalypse-enters-second-phase-as-ai-agents-re
 embedding_id: 2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The WSJ 10-Point newsletter highlights how formerly high-flying SaaS companies a
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur]] · [[2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models]] · [[2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]]
+**Related:** [[2026-08-07-saas-companies-race-to-reinvent-as-ai-agents-replace-softwar]] · [[2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur]] · [[2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models]] · [[2026-08-01-pitchbook-saas-pocalypse-enters-second-phase-as-ai-agents-re]]
 <!-- graph:end -->

@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-31-flock-safety-license-plate-readers-misread-71-of-police-aler
 - 2026-08-09-adversarial-patterns-defeat-11-surveillance-camera-systems-a
 embedding_id: 2026-08-14-flock-safety-adds-ai-surveillance-safeguards-after-backlash
 event_name: ''
@@ -34,5 +35,5 @@ Flock Safety will add safeguards to its AI-powered license plate cameras: all la
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-08-09-adversarial-patterns-defeat-11-surveillance-camera-systems-a]]
+**Related:** [[2026-07-31-flock-safety-license-plate-readers-misread-71-of-police-aler]] · [[2026-08-09-adversarial-patterns-defeat-11-surveillance-camera-systems-a]]
 <!-- graph:end -->

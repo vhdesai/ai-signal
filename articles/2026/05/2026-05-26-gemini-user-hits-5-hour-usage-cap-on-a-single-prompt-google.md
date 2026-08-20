@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-29-per-the-ft-google-was-forced-to-cap-meta-s-gemini-usage-afte
 - 2026-08-12-google-s-gemini-app-hits-1-billion-monthly-users
 - 2026-06-29-google-caps-meta-s-gemini-usage-amid-a-compute-crunch
-- 2026-08-11-google-says-gemini-app-surpassed-1-billion-monthly-users
+- 2026-07-23-google-s-gemini-nears-one-billion-monthly-users
 embedding_id: 2026-05-26-gemini-user-hits-5-hour-usage-cap-on-a-single-prompt-google
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A Gemini 3.5 Pro user on the AI Ultra plan exhausted their 5-hour allotment on a
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr]] · [[2026-06-29-per-the-ft-google-was-forced-to-cap-meta-s-gemini-usage-afte]] · [[2026-08-12-google-s-gemini-app-hits-1-billion-monthly-users]] · [[2026-06-29-google-caps-meta-s-gemini-usage-amid-a-compute-crunch]] · [[2026-08-11-google-says-gemini-app-surpassed-1-billion-monthly-users]]
+**Related:** [[2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr]] · [[2026-06-29-per-the-ft-google-was-forced-to-cap-meta-s-gemini-usage-afte]] · [[2026-08-12-google-s-gemini-app-hits-1-billion-monthly-users]] · [[2026-06-29-google-caps-meta-s-gemini-usage-amid-a-compute-crunch]] · [[2026-07-23-google-s-gemini-nears-one-billion-monthly-users]]
 <!-- graph:end -->

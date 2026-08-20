@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-19-australia-plans-to-govern-ai-s-water-and-power-use
 - 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
+- 2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-ai-s
+- 2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-the
 - 2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake
-- 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
-- 2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin
-- 2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie
 embedding_id: 2026-06-09-reuters-will-ai-become-a-public-utility
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Reuters published an analysis exploring whether AI should be regulated as a publ
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]] · [[2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie]]
+**Related:** [[2026-07-19-australia-plans-to-govern-ai-s-water-and-power-use]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-ai-s]] · [[2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-the]] · [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake]]
 <!-- graph:end -->

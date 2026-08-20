@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-06-terawulf-signs-19b-ai-infrastructure-lease-with-anthropic
+- 2026-06-11-anthropic-pursues-data-center-leases-seeks-financial-backing
 - 2026-08-11-anthropic-signs-a-9-1b-20-year-191-mw-compute-lease-with-rio
 - 2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu
 - 2026-08-11-anthropic-signs-9-1b-20-year-compute-lease-with-riot-platfor
-- 2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol
 embedding_id: 2026-07-06-terawulf-announces-anthropic-lease-at-justified-data-campus
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic signed a 20-year lease tied to a 401-megawatt AI infrastructure campus
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-06-terawulf-signs-19b-ai-infrastructure-lease-with-anthropic]] · [[2026-08-11-anthropic-signs-a-9-1b-20-year-191-mw-compute-lease-with-rio]] · [[2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu]] · [[2026-08-11-anthropic-signs-9-1b-20-year-compute-lease-with-riot-platfor]] · [[2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol]]
+**Related:** [[2026-07-06-terawulf-signs-19b-ai-infrastructure-lease-with-anthropic]] · [[2026-06-11-anthropic-pursues-data-center-leases-seeks-financial-backing]] · [[2026-08-11-anthropic-signs-a-9-1b-20-year-191-mw-compute-lease-with-rio]] · [[2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu]] · [[2026-08-11-anthropic-signs-9-1b-20-year-compute-lease-with-riot-platfor]]
 <!-- graph:end -->

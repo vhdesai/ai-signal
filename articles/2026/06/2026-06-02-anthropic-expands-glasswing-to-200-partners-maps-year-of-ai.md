@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-02-anthropic-expands-project-glasswing-to-200-partners-maps-yea
 - 2026-06-02-anthropic-expands-project-glasswing-to-150-organizations-acr
 - 2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative
-- 2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000
-- 2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate
+- 2026-06-03-anthropic-maps-a-year-of-ai-enabled-cyberattacks-onto-mitre
 embedding_id: 2026-06-02-anthropic-expands-glasswing-to-200-partners-maps-year-of-ai
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Project Glasswing expanded to ~200 organizations (including Okta, Samsung, SK Hy
 
 **Entities:** [[Anthropic]] · [[Samsung]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-02-anthropic-expands-project-glasswing-to-150-organizations-acr]] · [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative]] · [[2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000]] · [[2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate]]
+**Related:** [[2026-06-02-anthropic-expands-project-glasswing-to-200-partners-maps-yea]] · [[2026-06-02-anthropic-expands-project-glasswing-to-150-organizations-acr]] · [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative]] · [[2026-06-03-anthropic-maps-a-year-of-ai-enabled-cyberattacks-onto-mitre]]
 <!-- graph:end -->

@@ -27,7 +27,6 @@ related_article_ids:
 - 2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl
 - 2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform
-- 2026-05-27-nvidia-gtc-taipei-2026-preview-n1x-arm-laptop-soc-vera-rubin
 embedding_id: 2026-07-06-infrastructure-nvidia-s-flagship-kyber-nvl144-rack-slips-12
 event_name: ''
 ---
@@ -41,5 +40,5 @@ Infrastructure Nvidia's flagship Kyber NVL144 rack slips ~12 months to 2028 July
 
 **Entities:** [[AMD]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028]] · [[2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform]] · [[2026-05-27-nvidia-gtc-taipei-2026-preview-n1x-arm-laptop-soc-vera-rubin]]
+**Related:** [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028]] · [[2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform]]
 <!-- graph:end -->

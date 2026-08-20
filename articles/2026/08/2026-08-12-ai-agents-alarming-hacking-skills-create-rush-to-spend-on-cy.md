@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
 - 2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk
 - 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
 - 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
-- 2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g
-- 2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability
+- 2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b
 embedding_id: 2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy
 event_name: ''
 ---
@@ -37,5 +37,5 @@ AI agents are demonstrating increasingly sophisticated hacking capabilities, cre
 ## Connections
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
-**Related:** [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]] · [[2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g]] · [[2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability]]
+**Related:** [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]] · [[2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b]]
 <!-- graph:end -->

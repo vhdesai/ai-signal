@@ -30,9 +30,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-20-youtube-expands-ai-deepfake-detection-for-creators
-- 2026-08-02-eu-ai-act-transparency-rules-go-live-chatbot-disclosure-and
 - 2026-07-30-eu-delays-high-risk-ai-act-deadlines-and-bans-non-consensual
-- 2026-05-18-the-european-union-reached-a-provisional-deal-to-simplify-an
+- 2026-08-02-eu-ai-act-transparency-rules-go-live-chatbot-disclosure-and
+- 2026-08-02-eu-ai-act-transparency-rules-go-live-for-chatbots-deepfakes
 embedding_id: 2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool
 event_name: ''
 ---
@@ -46,5 +46,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-20-youtube-expands-ai-deepfake-detection-for-creators]] · [[2026-08-02-eu-ai-act-transparency-rules-go-live-chatbot-disclosure-and]] · [[2026-07-30-eu-delays-high-risk-ai-act-deadlines-and-bans-non-consensual]] · [[2026-05-18-the-european-union-reached-a-provisional-deal-to-simplify-an]]
+**Related:** [[2026-04-20-youtube-expands-ai-deepfake-detection-for-creators]] · [[2026-07-30-eu-delays-high-risk-ai-act-deadlines-and-bans-non-consensual]] · [[2026-08-02-eu-ai-act-transparency-rules-go-live-chatbot-disclosure-and]] · [[2026-08-02-eu-ai-act-transparency-rules-go-live-for-chatbots-deepfakes]]
 <!-- graph:end -->

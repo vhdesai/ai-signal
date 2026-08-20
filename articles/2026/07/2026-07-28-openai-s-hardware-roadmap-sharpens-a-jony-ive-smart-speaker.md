@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-06-openai-smart-speaker-reportedly-targets-a-300-400-price-poin
 - 2026-08-06-reports-detail-openai-s-hardware-device-donut-shaped-300-400
 - 2026-08-07-openai-s-first-device-reported-as-a-300-plus-screenless-spea
-- 2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b
+- 2026-07-14-openai-s-first-hardware-device-is-reportedly-a-movable-scree
 embedding_id: 2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A supply-chain roundup detailed OpenAI’s device plans: a screenless smart spea
 
 **Entities:** [[Apple]] · [[OpenAI]] · [[TSMC]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-openai-s-smart-speaker-reportedly-targets-a-300-400-price-po]] · [[2026-08-06-openai-smart-speaker-reportedly-targets-a-300-400-price-poin]] · [[2026-08-06-reports-detail-openai-s-hardware-device-donut-shaped-300-400]] · [[2026-08-07-openai-s-first-device-reported-as-a-300-plus-screenless-spea]] · [[2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b]]
+**Related:** [[2026-08-06-openai-s-smart-speaker-reportedly-targets-a-300-400-price-po]] · [[2026-08-06-openai-smart-speaker-reportedly-targets-a-300-400-price-poin]] · [[2026-08-06-reports-detail-openai-s-hardware-device-donut-shaped-300-400]] · [[2026-08-07-openai-s-first-device-reported-as-a-300-plus-screenless-spea]] · [[2026-07-14-openai-s-first-hardware-device-is-reportedly-a-movable-scree]]
 <!-- graph:end -->

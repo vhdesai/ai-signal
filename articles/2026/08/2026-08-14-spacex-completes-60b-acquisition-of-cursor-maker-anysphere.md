@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-14-spacex-completes-60b-all-stock-acquisition-of-cursor-maker-a
 - 2026-08-14-spacex-xai-completes-acquisition-of-cursor-at-a-reported-60b
 - 2026-08-15-spacex-completes-60b-all-stock-acquisition-of-ai-coding-star
+- 2026-06-19-market-analysts-continue-to-assess-spacex-s-60-billion-all-s
 - 2026-08-14-spacex-completes-its-acquisition-of-cursor-folding-it-into-s
-- 2026-08-15-spacex-closes-60b-all-stock-acquisition-of-cursor
 embedding_id: 2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere
 event_name: ''
 ---
@@ -39,5 +39,5 @@ SpaceX closed its all-stock acquisition of Anysphere (Cursor) — the largest st
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-14-spacex-completes-60b-all-stock-acquisition-of-cursor-maker-a]] · [[2026-08-14-spacex-xai-completes-acquisition-of-cursor-at-a-reported-60b]] · [[2026-08-15-spacex-completes-60b-all-stock-acquisition-of-ai-coding-star]] · [[2026-08-14-spacex-completes-its-acquisition-of-cursor-folding-it-into-s]] · [[2026-08-15-spacex-closes-60b-all-stock-acquisition-of-cursor]]
+**Related:** [[2026-08-14-spacex-completes-60b-all-stock-acquisition-of-cursor-maker-a]] · [[2026-08-14-spacex-xai-completes-acquisition-of-cursor-at-a-reported-60b]] · [[2026-08-15-spacex-completes-60b-all-stock-acquisition-of-ai-coding-star]] · [[2026-06-19-market-analysts-continue-to-assess-spacex-s-60-billion-all-s]] · [[2026-08-14-spacex-completes-its-acquisition-of-cursor-folding-it-into-s]]
 <!-- graph:end -->

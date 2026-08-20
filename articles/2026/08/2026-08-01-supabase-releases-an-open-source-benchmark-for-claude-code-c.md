@@ -17,14 +17,9 @@ entities: []
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-01-supabase-releases-evals-an-open-benchmark-scoring-claude-cod
-- 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
-- 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
-- 2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code
-- 2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s
+dedupe_status: duplicate
+canonical_article_id: 2026-08-01-supabase-releases-an-open-benchmark-for-claude-code-codex-an
+related_article_ids: []
 embedding_id: 2026-08-01-supabase-releases-an-open-source-benchmark-for-claude-code-c
 event_name: ''
 ---
@@ -37,5 +32,5 @@ Supabase released Evals, an open-source benchmark that scores Claude Code, Codex
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-01-supabase-releases-evals-an-open-benchmark-scoring-claude-cod]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]] · [[2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code]] · [[2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s]]
+**Canonical:** [[2026-08-01-supabase-releases-an-open-benchmark-for-claude-code-codex-an]]
 <!-- graph:end -->

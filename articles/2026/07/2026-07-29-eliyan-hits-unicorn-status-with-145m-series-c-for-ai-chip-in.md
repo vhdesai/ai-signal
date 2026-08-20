@@ -22,9 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio
 - 2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua
-- 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
-- 2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent
-- 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
+- 2026-07-23-inference-chip-startup-etched-doubles-valuation-to-10-3b-in
+- 2026-07-20-china-s-zhongji-innolight-targets-8b-hong-kong-listing-on-ai
 embedding_id: 2026-07-29-eliyan-hits-unicorn-status-with-145m-series-c-for-ai-chip-in
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Chip-connectivity startup Eliyan reached unicorn status with a $145M Series C le
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio]] · [[2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]] · [[2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]]
+**Related:** [[2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio]] · [[2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua]] · [[2026-07-23-inference-chip-startup-etched-doubles-valuation-to-10-3b-in]] · [[2026-07-20-china-s-zhongji-innolight-targets-8b-hong-kong-listing-on-ai]]
 <!-- graph:end -->

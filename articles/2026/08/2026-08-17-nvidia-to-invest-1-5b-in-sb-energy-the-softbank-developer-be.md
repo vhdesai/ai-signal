@@ -22,10 +22,8 @@ themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-17-nvidia-guarantees-105b-in-leases-and-invests-1-5b-in-sb-ener
-related_article_ids:
-- 2026-08-15-nvidia-in-talks-to-invest-3b-in-softbank-s-sb-energy-for-ope
-- 2026-08-14-nvidia-weighs-3b-stake-in-sb-energy-ohio-backstop-cut-to-und
+canonical_article_id: 2026-08-17-nvidia-invests-1-5b-in-softbank-data-center-developer-offers
+related_article_ids: []
 embedding_id: 2026-08-17-nvidia-to-invest-1-5b-in-sb-energy-the-softbank-developer-be
 event_name: ''
 ---
@@ -39,6 +37,5 @@ Nvidia said it will invest $1.5B in SB Energy, the SoftBank-owned developer buil
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Canonical:** [[2026-08-17-nvidia-guarantees-105b-in-leases-and-invests-1-5b-in-sb-ener]]
-**Related:** [[2026-08-15-nvidia-in-talks-to-invest-3b-in-softbank-s-sb-energy-for-ope]] · [[2026-08-14-nvidia-weighs-3b-stake-in-sb-energy-ohio-backstop-cut-to-und]]
+**Canonical:** [[2026-08-17-nvidia-invests-1-5b-in-softbank-data-center-developer-offers]]
 <!-- graph:end -->

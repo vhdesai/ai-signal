@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-31-uber-deploys-agentic-pods-sending-ai-engineers-into-business
 - 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
+- 2026-07-29-ai-shifts-mainframe-modernization-strategy
 - 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
-- 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
-- 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
-- 2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing
+- 2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin
 embedding_id: 2026-05-18-your-work-team-is-now-a-pod-and-your-co-workers-are-ai-agent
 event_name: ''
 ---
@@ -37,5 +37,5 @@ WSJ profiled enterprises restructuring teams around “pods” that intermix hum
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing]]
+**Related:** [[2026-07-31-uber-deploys-agentic-pods-sending-ai-engineers-into-business]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-07-29-ai-shifts-mainframe-modernization-strategy]] · [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]] · [[2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-sap-launches-single-enterprise-ai-platform-deepens-ties-with
+- 2026-08-03-the-enterprise-bottleneck-has-clearly-shifted-from-gaining-m
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 - 2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc
-- 2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a
 embedding_id: 2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou
 event_name: ''
 ---
@@ -40,5 +40,5 @@ SAP reported strong second-quarter results driven by its cloud business and anno
 
 **Entities:** [[Microsoft]] · [[Salesforce]] · [[SAP]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-sap-launches-single-enterprise-ai-platform-deepens-ties-with]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc]] · [[2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a]]
+**Related:** [[2026-05-13-sap-launches-single-enterprise-ai-platform-deepens-ties-with]] · [[2026-08-03-the-enterprise-bottleneck-has-clearly-shifted-from-gaining-m]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc]]
 <!-- graph:end -->

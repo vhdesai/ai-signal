@@ -23,7 +23,6 @@ related_article_ids:
 - 2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri
 - 2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s
 - 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
-- 2026-08-10-house-democrats-press-speaker-johnson-to-compel-ai-ceo-testi
 embedding_id: 2026-07-10-senator-markey-unveils-an-ai-accountability-package-of-bills
 event_name: ''
 ---
@@ -36,5 +35,5 @@ Senator Ed Markey (D-MA) rolled out a roughly dozen-bill “AI accountability ag
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-targetin]] · [[2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri]] · [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-08-10-house-democrats-press-speaker-johnson-to-compel-ai-ceo-testi]]
+**Related:** [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-targetin]] · [[2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri]] · [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]]
 <!-- graph:end -->

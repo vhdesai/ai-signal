@@ -1,19 +1,18 @@
 ---
 article_id: 2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b
-title: Anthropic's annualized revenue run rate reaches $65B
+title: Anthropic's Annualized Revenue Run Rate Reaches $65B
 date: '2026-08-17'
-source: TechCrunch
-url_original: null
-url_canonical: null
-url_status: missing
-digest_source: digests\raw\2026-08-18_061151_Inbox_Daily AI News Digest - August 18,
-  2026.md
-content_hash: 74ebc10f6ed09944c131fbb79cb0f08c7742fc0d6d1c11e7f80b01ddfb5f232d
+source: CNBC · TechCrunch
+url_original: https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html
+url_canonical: https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html
+url_status: found
+digest_source: digests\raw\2026-08-18_065100_Final-Daily-AI-News-Digest.md
+content_hash: f600af3051a4cb2f15aa948d97c30d3a89660eabc8c4c9c0975fa553fd53c145
 normalized_title_hash: ceb21b6c9a3dec96
-canonical_url_hash: ''
+canonical_url_hash: 8f6eabbc5b55dea9
 tags:
 - Breaking
-- Hot
+- Finance
 entities:
 - Anthropic
 themes:
@@ -23,19 +22,20 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b-up-rough
-- 2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast
+- 2026-08-18-anthropic-s-annualized-revenue-tops-65-billion-ahead-of-ipo
+- 2026-08-17-anthropic-s-arr-reaches-65b-pre-ipo-contracts-imply-1-8t
 embedding_id: 2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b
 event_name: ''
 ---
 
-# Anthropic's annualized revenue run rate reaches $65B
+# Anthropic's Annualized Revenue Run Rate Reaches $65B
 
-Anthropic told investors its annualized revenue run rate hit roughly $65B at the end of July, an acceleration rather than a plateau, and up sharply from approximately $9B at the end of 2025. CNBC independently confirmed the figure, describing it as roughly a sevenfold year-over-year increase. Bankers are reportedly using the number to frame an expected IPO at a far higher valuation than prior private marks. For enterprise buyers, the signal is durability of vendor funding rather than a change in product terms. https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/ FUNDING
+Anthropic told investors its annualized run rate hit $65 billion at end of July, up from $47 billion in May and roughly $9 billion at end-2025 — a sevenfold increase year over year. The disclosure follows a confidential IPO filing and preliminary Q2 revenue above $11.5 billion. Tokenized pre-IPO contracts traded near the $1,800 level, implying a valuation close to $1.8 trillion — roughly 88% above the most recent private-market transaction. These are thin, derivative-like venues, so the premium reflects retail-accessible scarcity as much as fundamentals. For enterprise buyers, the revenue acceleration signals continued pricing power and sustained investment in the Claude line; for competitors, it raises the bar on commercial traction ahead of a public listing.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b-up-rough]] · [[2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast]]
+**Related:** [[2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b-up-rough]] · [[2026-08-18-anthropic-s-annualized-revenue-tops-65-billion-ahead-of-ipo]] · [[2026-08-17-anthropic-s-arr-reaches-65b-pre-ipo-contracts-imply-1-8t]]
 <!-- graph:end -->

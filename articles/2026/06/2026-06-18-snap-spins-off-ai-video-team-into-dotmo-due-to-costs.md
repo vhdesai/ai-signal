@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-01-techcrunch-reports-that-snap-updated-spotlight-monetization
+- 2026-06-03-nvidia-acquires-enterprise-ai-startup-kumo-for-400m
+- 2026-08-12-openai-begins-testing-ads-in-chatgpt
 - 2026-04-01-products-tools
 - 2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos
-- 2026-08-05-hark-unveils-handoff-a-low-cost-computer-use-agent
-- 2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting
 embedding_id: 2026-06-18-snap-spins-off-ai-video-team-into-dotmo-due-to-costs
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Snap is spinning off an AI video team into a new company, Dotmo, with cost press
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-01-products-tools]] · [[2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos]] · [[2026-08-05-hark-unveils-handoff-a-low-cost-computer-use-agent]] · [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]]
+**Related:** [[2026-08-01-techcrunch-reports-that-snap-updated-spotlight-monetization]] · [[2026-06-03-nvidia-acquires-enterprise-ai-startup-kumo-for-400m]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]] · [[2026-04-01-products-tools]] · [[2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos]]
 <!-- graph:end -->

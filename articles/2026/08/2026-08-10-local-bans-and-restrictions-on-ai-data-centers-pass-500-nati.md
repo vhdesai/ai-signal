@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t
+- 2026-08-10-us-data-center-bans-pass-500-jurisdictions
 - 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
 - 2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions
 - 2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a
-- 2026-08-10-more-than-500-u-s-jurisdictions-now-restrict-new-data-center
 embedding_id: 2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Reporting published today puts the number of local U.S. laws seeking to ban or r
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-08-10-more-than-500-u-s-jurisdictions-now-restrict-new-data-center]]
+**Related:** [[2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t]] · [[2026-08-10-us-data-center-bans-pass-500-jurisdictions]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]]
 <!-- graph:end -->

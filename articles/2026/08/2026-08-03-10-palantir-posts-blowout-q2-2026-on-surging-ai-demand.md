@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments
-- 2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand
 - 2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump
+- 2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand
 - 2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges
 - 2026-05-14-palantir-reported-q1-2026-results-on-may-4-with-u-s
 embedding_id: 2026-08-03-10-palantir-posts-blowout-q2-2026-on-surging-ai-demand
@@ -38,5 +38,5 @@ Palantir reported record contract volume, raised guidance, and cited AIP moving 
 
 **Entities:** [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments]] · [[2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand]] · [[2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump]] · [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges]] · [[2026-05-14-palantir-reported-q1-2026-results-on-may-4-with-u-s]]
+**Related:** [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments]] · [[2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump]] · [[2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand]] · [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges]] · [[2026-05-14-palantir-reported-q1-2026-results-on-may-4-with-u-s]]
 <!-- graph:end -->

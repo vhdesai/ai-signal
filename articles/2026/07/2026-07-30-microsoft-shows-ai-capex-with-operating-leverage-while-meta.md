@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-30-microsoft-profit-jumps-31-as-azure-growth-accelerates-and-co
+- 2026-07-30-microsoft-365-copilot-paid-subscriptions-double-to-30-millio
+- 2026-07-31-axios-highlights-azure-s-100-billion-run-rate-and-ai-capex-d
+- 2026-07-31-microsoft-holds-capex-line-while-cloud-revenue-climbs
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
-- 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
-- 2026-04-02-source-all-about-lawyer-the-neuron
-- 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
 embedding_id: 2026-07-30-microsoft-shows-ai-capex-with-operating-leverage-while-meta
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft spent heavily on AI-related capex but kept operating expense growth ne
 
 **Entities:** [[Meta]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-microsoft-profit-jumps-31-as-azure-growth-accelerates-and-co]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]]
+**Related:** [[2026-07-30-microsoft-profit-jumps-31-as-azure-growth-accelerates-and-co]] · [[2026-07-30-microsoft-365-copilot-paid-subscriptions-double-to-30-millio]] · [[2026-07-31-axios-highlights-azure-s-100-billion-run-rate-and-ai-capex-d]] · [[2026-07-31-microsoft-holds-capex-line-while-cloud-revenue-climbs]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]]
 <!-- graph:end -->

@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
+- 2026-08-01-anthropic-published-a-project-glasswing-update-describing-cl
 - 2026-04-07-source-the-hacker-news-reuters-the-star
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
 - 2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr
-- 2026-05-23-published-just-hours-ago-anthropic-s-initial-report-on-proje
 embedding_id: 2026-05-09-mozilla-published-a-detailed-technical-blog-post-describing
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Mozilla published a detailed technical blog post describing a collaboration with
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr]] · [[2026-05-23-published-just-hours-ago-anthropic-s-initial-report-on-proje]]
+**Related:** [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-08-01-anthropic-published-a-project-glasswing-update-describing-cl]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr]]
 <!-- graph:end -->

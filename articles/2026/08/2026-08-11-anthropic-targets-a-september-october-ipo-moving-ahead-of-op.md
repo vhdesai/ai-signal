@@ -23,9 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo
+- 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
-- 2026-08-13-anthropic-reportedly-weighing-2t-valuation-for-october-ipo
-- 2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo
 embedding_id: 2026-08-11-anthropic-targets-a-september-october-ipo-moving-ahead-of-op
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Anthropic is preparing an initial public offering for the September to early-Oct
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-08-13-anthropic-reportedly-weighing-2t-valuation-for-october-ipo]] · [[2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo]]
+**Related:** [[2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]]
 <!-- graph:end -->

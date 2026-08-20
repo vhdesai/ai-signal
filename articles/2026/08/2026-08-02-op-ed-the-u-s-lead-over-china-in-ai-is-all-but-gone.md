@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
+- 2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom
 - 2026-05-18-sensetime-co-founder-lin-dahua-told-cnbc-that-the-u-s-sancti
-- 2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2
 embedding_id: 2026-08-02-op-ed-the-u-s-lead-over-china-in-ai-is-all-but-gone
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Longview Global's Dewardric McNeal argues the strategic question has shifted fro
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-05-18-sensetime-co-founder-lin-dahua-told-cnbc-that-the-u-s-sancti]] · [[2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2]]
+**Related:** [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom]] · [[2026-05-18-sensetime-co-founder-lin-dahua-told-cnbc-that-the-u-s-sancti]]
 <!-- graph:end -->

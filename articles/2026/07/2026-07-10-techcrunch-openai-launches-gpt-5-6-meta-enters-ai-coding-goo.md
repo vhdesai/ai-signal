@@ -29,8 +29,8 @@ related_article_ids:
 - 2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti
 - 2026-05-06-
 - 2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice
+- 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 - 2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai
-- 2026-05-14-openai-codex-work-from-anywhere-expansion
 embedding_id: 2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo
 event_name: ''
 ---
@@ -44,5 +44,5 @@ TechCrunch: OpenAI launches GPT‑5.6, Meta enters AI coding, Google expands AI 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[Mistral]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti]] · [[2026-05-06-]] · [[2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice]] · [[2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]]
+**Related:** [[2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti]] · [[2026-05-06-]] · [[2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai]]
 <!-- graph:end -->

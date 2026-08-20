@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 78
+member_count: 82
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 78 connected article(s).
+> Auto-generated entity hub. 82 connected article(s).
 
+- `2026-08-18` [[2026-08-18-baidu-q2-revenue-falls-4-as-ai-cloud-surges-50|Baidu Q2 revenue falls 4% as AI cloud surges 50%]]
 - `2026-08-17` [[2026-08-17-worldclaw-trump-family-linked-crypto-venture-reselling-us-re|WorldClaw: Trump-family-linked crypto venture reselling US-restricted Chinese AI models]]
 - `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
 - `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
@@ -21,7 +22,9 @@ member_count: 78
 - `2026-08-06` [[2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights|Rep. Ro Khanna to introduce a “Data Center Bill of Rights”]]
 - `2026-08-06` [[2026-08-06-openai-partners-with-the-american-psychological-association|OpenAI partners with the American Psychological Association on youth mental health]]
 - `2026-08-04` [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g|Open-weight models close the frontier gap while the safety gap persists]]
+- `2026-08-03` [[2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv|The robotaxi market is entering a phase where federal approvals and local operating legitimacy are diverging rather…]]
 - `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
+- `2026-08-02` [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo|Robotaxi industry splits between federal acceleration and local pushback]]
 - `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
 - `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]
 - `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
@@ -29,6 +32,7 @@ member_count: 78
 - `2026-07-28` [[2026-07-28-baidu-and-lyft-enter-london-s-robotaxi-market-as-testing-beg|Baidu and Lyft enter London's robotaxi market as testing begins]]
 - `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
 - `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
+- `2026-07-16` [[2026-07-16-apple-intelligence-cleared-for-china-with-alibaba-s-qwen-and|Apple Intelligence cleared for China with Alibaba's Qwen and Baidu]]
 - `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
 - `2026-07-13` [[2026-07-13-alibaba-shares-surge-as-qwen-tops-global-downloads-chinese-a|Alibaba shares surge as Qwen tops global downloads; Chinese-AI rotation lifts Baidu, Tencent]]

@@ -23,10 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-15-microsoft-reportedly-trains-sales-teams-to-compete-more-dire
 - 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 - 2026-07-13-microsoft-anthropic-strategy
 - 2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel
-- 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
+- 2026-07-17-microsoft-readies-project-perception-a-multi-model-ai-securi
 embedding_id: 2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic
 event_name: ''
 ---
@@ -40,5 +41,5 @@ TechCrunch reports that Microsoft is now more openly pitching its own AI models,
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-07-13-microsoft-anthropic-strategy]] · [[2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]]
+**Related:** [[2026-07-15-microsoft-reportedly-trains-sales-teams-to-compete-more-dire]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-07-13-microsoft-anthropic-strategy]] · [[2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel]] · [[2026-07-17-microsoft-readies-project-perception-a-multi-model-ai-securi]]
 <!-- graph:end -->

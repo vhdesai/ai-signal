@@ -20,7 +20,7 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-08-07-nvidia-open-sources-nooa-an-object-oriented-agent-framework
+canonical_article_id: 2026-08-07-nvidia-open-sources-nooa-agent-framework-hitting-82-2-on-swe
 related_article_ids: []
 embedding_id: 2026-08-07-nvidia-open-sources-nooa-object-oriented-agent-framework-rea
 event_name: ''
@@ -35,5 +35,5 @@ NVIDIA Labs released NOOA (Object-Oriented Agents), an Apache 2.0 Python framewo
 
 **Entities:** [[NVIDIA]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Canonical:** [[2026-08-07-nvidia-open-sources-nooa-an-object-oriented-agent-framework]]
+**Canonical:** [[2026-08-07-nvidia-open-sources-nooa-agent-framework-hitting-82-2-on-swe]]
 <!-- graph:end -->

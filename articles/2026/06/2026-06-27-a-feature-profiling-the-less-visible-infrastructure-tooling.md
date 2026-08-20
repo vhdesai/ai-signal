@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers
+- 2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru
+- 2026-08-03-the-enterprise-bottleneck-has-clearly-shifted-from-gaining-m
+- 2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n
 - 2026-07-13-hyperscaler-demand-turns-turbine-suppliers-into-an-ai-infras
-- 2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a
-- 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
-- 2026-07-31-ai-at-the-collision-of-capability-and-reality
-- 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
 embedding_id: 2026-06-27-a-feature-profiling-the-less-visible-infrastructure-tooling
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A feature profiling the less‑visible infrastructure, tooling, and model compan
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-hyperscaler-demand-turns-turbine-suppliers-into-an-ai-infras]] · [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]] · [[2026-07-31-ai-at-the-collision-of-capability-and-reality]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]]
+**Related:** [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru]] · [[2026-08-03-the-enterprise-bottleneck-has-clearly-shifted-from-gaining-m]] · [[2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n]] · [[2026-07-13-hyperscaler-demand-turns-turbine-suppliers-into-an-ai-infras]]
 <!-- graph:end -->

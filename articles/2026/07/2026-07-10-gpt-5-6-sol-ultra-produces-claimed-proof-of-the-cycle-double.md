@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-13-openai-s-sol-ultra-proof-of-the-cycle-double-cover-conjectur
 - 2026-07-13-openai-s-sol-ultra-proof-claim-draws-scrutiny-from-mathemati
 - 2026-07-11-openai-claims-gpt-5-6-sol-ultra-produced-a-proof-of-a-50-yea
 - 2026-07-13-openai-s-sol-ultra-proof-of-cycle-double-cover-conjecture-dr
@@ -37,5 +38,5 @@ OpenAI-hosted files circulated with a claimed GPT-5.6 Sol Ultra proof of the Cyc
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-openai-s-sol-ultra-proof-claim-draws-scrutiny-from-mathemati]] · [[2026-07-11-openai-claims-gpt-5-6-sol-ultra-produced-a-proof-of-a-50-yea]] · [[2026-07-13-openai-s-sol-ultra-proof-of-cycle-double-cover-conjecture-dr]] · [[2026-07-11-openai-says-gpt-5-6-sol-ultra-produced-a-proof-of-the-50-yea]]
+**Related:** [[2026-07-13-openai-s-sol-ultra-proof-of-the-cycle-double-cover-conjectur]] · [[2026-07-13-openai-s-sol-ultra-proof-claim-draws-scrutiny-from-mathemati]] · [[2026-07-11-openai-claims-gpt-5-6-sol-ultra-produced-a-proof-of-a-50-yea]] · [[2026-07-13-openai-s-sol-ultra-proof-of-cycle-double-cover-conjecture-dr]] · [[2026-07-11-openai-says-gpt-5-6-sol-ultra-produced-a-proof-of-the-50-yea]]
 <!-- graph:end -->

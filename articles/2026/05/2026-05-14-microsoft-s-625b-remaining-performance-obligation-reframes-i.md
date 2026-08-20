@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion
 - 2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen
 - 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
-- 2026-08-14-big-tech-ai-purchase-commitments-approach-1-5-trillion
+- 2026-07-31-axios-highlights-azure-s-100-billion-run-rate-and-ai-capex-d
 embedding_id: 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Analysis of Microsoft's latest 10-Q filing reveals $625 billion in remaining per
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion]] · [[2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen]] · [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20]] · [[2026-08-14-big-tech-ai-purchase-commitments-approach-1-5-trillion]]
+**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion]] · [[2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen]] · [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20]] · [[2026-07-31-axios-highlights-azure-s-100-billion-run-rate-and-ai-capex-d]]
 <!-- graph:end -->

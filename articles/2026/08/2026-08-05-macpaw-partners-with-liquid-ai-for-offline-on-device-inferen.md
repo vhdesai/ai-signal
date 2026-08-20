@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-05-macpaw-taps-liquid-ai-for-local-inference-in-its-app-ecosyst
 - 2026-08-05-macpaw-partners-with-liquid-ai-to-bring-on-device-inference
+- 2026-08-06-liquid-ai-s-lfm2-5-2-6b-runs-capable-agents-on-device-down-t
 - 2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere
 - 2026-08-06-liquid-ai-releases-lfm2-5-2-6b-a-powerful-model-that-runs-on
-- 2026-05-09-a-community-driven-open-source-project-released-a-metal-base
 embedding_id: 2026-08-05-macpaw-partners-with-liquid-ai-for-offline-on-device-inferen
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MacPaw is adopting Liquid AI's locally hosted models to power an offline AI assi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-macpaw-taps-liquid-ai-for-local-inference-in-its-app-ecosyst]] · [[2026-08-05-macpaw-partners-with-liquid-ai-to-bring-on-device-inference]] · [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere]] · [[2026-08-06-liquid-ai-releases-lfm2-5-2-6b-a-powerful-model-that-runs-on]] · [[2026-05-09-a-community-driven-open-source-project-released-a-metal-base]]
+**Related:** [[2026-08-05-macpaw-taps-liquid-ai-for-local-inference-in-its-app-ecosyst]] · [[2026-08-05-macpaw-partners-with-liquid-ai-to-bring-on-device-inference]] · [[2026-08-06-liquid-ai-s-lfm2-5-2-6b-runs-capable-agents-on-device-down-t]] · [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere]] · [[2026-08-06-liquid-ai-releases-lfm2-5-2-6b-a-powerful-model-that-runs-on]]
 <!-- graph:end -->

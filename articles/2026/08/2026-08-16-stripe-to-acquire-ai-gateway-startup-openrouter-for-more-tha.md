@@ -20,14 +20,9 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-16-stripe-will-reportedly-acquire-ai-gateway-startup-openrouter
-- 2026-08-07-stripe-in-exclusive-talks-to-buy-openrouter-for-around-10-bi
-- 2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing
-- 2026-05-27-openrouter-cements-its-position-as-the-dominant-multi-model
-- 2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le
+dedupe_status: duplicate
+canonical_article_id: 2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter
+related_article_ids: []
 embedding_id: 2026-08-16-stripe-to-acquire-ai-gateway-startup-openrouter-for-more-tha
 event_name: ''
 ---
@@ -41,5 +36,5 @@ Per a Bloomberg report, Stripe has finalized a deal to acquire OpenRouter, the m
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-16-stripe-will-reportedly-acquire-ai-gateway-startup-openrouter]] · [[2026-08-07-stripe-in-exclusive-talks-to-buy-openrouter-for-around-10-bi]] · [[2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing]] · [[2026-05-27-openrouter-cements-its-position-as-the-dominant-multi-model]] · [[2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le]]
+**Canonical:** [[2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter]]
 <!-- graph:end -->

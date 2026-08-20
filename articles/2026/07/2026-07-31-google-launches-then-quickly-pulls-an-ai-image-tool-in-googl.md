@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-google-rolls-back-earth-ai-image-feature-one-day-after-launc
 - 2026-07-31-google-adds-then-pulls-an-ai-image-generation-feature-in-goo
-- 2026-07-30-nano-banana-image-generation-comes-to-google-earth
-- 2026-07-31-google-pulls-earth-ai-feature-one-day-after-launch-amid-misi
+- 2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i
+- 2026-08-01-techcrunch-reports-that-google-removed-a-newly-launched-goog
 embedding_id: 2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl
 event_name: ''
 ---
@@ -38,5 +38,5 @@ One day after adding a “Nano Banana 2” AI image feature to Google Earth, Goo
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-google-rolls-back-earth-ai-image-feature-one-day-after-launc]] · [[2026-07-31-google-adds-then-pulls-an-ai-image-generation-feature-in-goo]] · [[2026-07-30-nano-banana-image-generation-comes-to-google-earth]] · [[2026-07-31-google-pulls-earth-ai-feature-one-day-after-launch-amid-misi]]
+**Related:** [[2026-07-31-google-rolls-back-earth-ai-image-feature-one-day-after-launc]] · [[2026-07-31-google-adds-then-pulls-an-ai-image-generation-feature-in-goo]] · [[2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i]] · [[2026-08-01-techcrunch-reports-that-google-removed-a-newly-launched-goog]]
 <!-- graph:end -->

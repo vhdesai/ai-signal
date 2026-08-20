@@ -21,9 +21,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-moonshot-ai-s-kimi-k3-open-weights-go-live-the-largest-open
 - 2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo
+- 2026-07-27-moonshot-s-kimi-k3-becomes-the-largest-open-weight-model-rel
+- 2026-07-27-moonshot-s-kimi-k3-becomes-the-largest-open-weight-model-eve
+- 2026-07-27-moonshot-ai-releases-kimi-k3-weights-the-largest-open-model
 - 2026-07-27-moonshot-ai-opens-kimi-k3-weights-for-public-download
-- 2026-07-28-moonshot-s-kimi-k3-opens-its-full-weights-with-a-revenue-cap
-- 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
 embedding_id: 2026-07-27-kimi-k3-open-weights-go-live-the-largest-open-weight-model-y
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Moonshot AI released Kimi K3's weights on July 27 for public download and self-h
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-27-moonshot-ai-s-kimi-k3-open-weights-go-live-the-largest-open]] · [[2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo]] · [[2026-07-27-moonshot-ai-opens-kimi-k3-weights-for-public-download]] · [[2026-07-28-moonshot-s-kimi-k3-opens-its-full-weights-with-a-revenue-cap]] · [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]]
+**Related:** [[2026-07-27-moonshot-ai-s-kimi-k3-open-weights-go-live-the-largest-open]] · [[2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo]] · [[2026-07-27-moonshot-s-kimi-k3-becomes-the-largest-open-weight-model-rel]] · [[2026-07-27-moonshot-s-kimi-k3-becomes-the-largest-open-weight-model-eve]] · [[2026-07-27-moonshot-ai-releases-kimi-k3-weights-the-largest-open-model]] · [[2026-07-27-moonshot-ai-opens-kimi-k3-weights-for-public-download]]
 <!-- graph:end -->

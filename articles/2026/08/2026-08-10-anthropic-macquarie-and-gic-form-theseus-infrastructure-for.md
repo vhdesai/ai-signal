@@ -22,10 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-11-anthropic-macquarie-and-gic-launch-theseus-infrastructure-fo
 - 2026-08-11-anthropic-macquarie-and-gic-form-theseus-infrastructure
 - 2026-08-10-anthropic-macquarie-and-gic-form-theseus-infrastructure-to-b
+- 2026-06-11-anthropic-pursues-data-center-leases-seeks-financial-backing
 - 2026-07-06-terawulf-announces-anthropic-lease-at-justified-data-campus
-- 2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back
 embedding_id: 2026-08-10-anthropic-macquarie-and-gic-form-theseus-infrastructure-for
 event_name: ''
 ---
@@ -39,5 +40,5 @@ The three parties launched Theseus Infrastructure to develop, operate and lease 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-11-anthropic-macquarie-and-gic-form-theseus-infrastructure]] · [[2026-08-10-anthropic-macquarie-and-gic-form-theseus-infrastructure-to-b]] · [[2026-07-06-terawulf-announces-anthropic-lease-at-justified-data-campus]] · [[2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back]]
+**Related:** [[2026-08-11-anthropic-macquarie-and-gic-launch-theseus-infrastructure-fo]] · [[2026-08-11-anthropic-macquarie-and-gic-form-theseus-infrastructure]] · [[2026-08-10-anthropic-macquarie-and-gic-form-theseus-infrastructure-to-b]] · [[2026-06-11-anthropic-pursues-data-center-leases-seeks-financial-backing]] · [[2026-07-06-terawulf-announces-anthropic-lease-at-justified-data-campus]]
 <!-- graph:end -->

@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-17-ai-drafted-legislation-is-overwhelming-the-office-that-write
 - 2026-08-17-ai-drafted-legislation-overwhelming-u-s-house-drafting-offic
+- 2026-06-04-bipartisan-great-american-ai-act-draft-proposes-federal-gove
 - 2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos
 - 2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l
-- 2026-06-04-bipartisan-great-american-ai-act-proposes-federal-governance
-- 2026-05-22-china-advances-comprehensive-ai-legislation-as-us-regulatory
 embedding_id: 2026-08-17-ai-drafted-legislation-is-overwhelming-the-house-office-that
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Eight current and former officials describe the House Office of Legislative Coun
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-17-ai-drafted-legislation-overwhelming-u-s-house-drafting-offic]] · [[2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos]] · [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]] · [[2026-06-04-bipartisan-great-american-ai-act-proposes-federal-governance]] · [[2026-05-22-china-advances-comprehensive-ai-legislation-as-us-regulatory]]
+**Related:** [[2026-08-17-ai-drafted-legislation-is-overwhelming-the-office-that-write]] · [[2026-08-17-ai-drafted-legislation-overwhelming-u-s-house-drafting-offic]] · [[2026-06-04-bipartisan-great-american-ai-act-draft-proposes-federal-gove]] · [[2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos]] · [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]]
 <!-- graph:end -->

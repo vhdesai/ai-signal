@@ -22,8 +22,8 @@ canonical_article_id: 2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-
 related_article_ids:
 - 2026-08-10-discovered-materials-applies-ai-to-the-search-for-cooler-run
 - 2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c
+- 2026-08-03-cuspai-illustrates-how-capital-is-spreading-into-the-physica
 - 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
-- 2026-05-27-orbital-industries-raises-50m-series-b-for-ai-discovered-exo
 embedding_id: 2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Discovered Materials raised a $9 million seed round to use swarms of AI agents a
 
 **Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co]]
-**Related:** [[2026-08-10-discovered-materials-applies-ai-to-the-search-for-cooler-run]] · [[2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-05-27-orbital-industries-raises-50m-series-b-for-ai-discovered-exo]]
+**Related:** [[2026-08-10-discovered-materials-applies-ai-to-the-search-for-cooler-run]] · [[2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c]] · [[2026-08-03-cuspai-illustrates-how-capital-is-spreading-into-the-physica]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]]
 <!-- graph:end -->

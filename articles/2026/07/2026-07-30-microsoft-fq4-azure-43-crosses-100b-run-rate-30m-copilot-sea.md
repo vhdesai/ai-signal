@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-29-microsoft-beats-on-fq4-as-azure-grows-43-shares-jump-8
 - 2026-07-30-microsoft-s-azure-tops-100b-as-fiscal-q4-beat-rewards-capex
 - 2026-07-30-microsoft-profit-jumps-31-as-azure-growth-accelerates-and-co
+- 2026-07-30-microsoft-q4-blowout-profit-jumps-31-cloud-posts-fastest-gro
 - 2026-07-29-microsoft-s-fiscal-q4-beat-lifts-shares-8-as-it-raises-ai-dr
-- 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
 embedding_id: 2026-07-30-microsoft-fq4-azure-43-crosses-100b-run-rate-30m-copilot-sea
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft reported about $90.0B in revenue (+18%), with Azure and cloud up 43% a
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-microsoft-beats-on-fq4-as-azure-grows-43-shares-jump-8]] · [[2026-07-30-microsoft-s-azure-tops-100b-as-fiscal-q4-beat-rewards-capex]] · [[2026-07-30-microsoft-profit-jumps-31-as-azure-growth-accelerates-and-co]] · [[2026-07-29-microsoft-s-fiscal-q4-beat-lifts-shares-8-as-it-raises-ai-dr]] · [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]]
+**Related:** [[2026-07-29-microsoft-beats-on-fq4-as-azure-grows-43-shares-jump-8]] · [[2026-07-30-microsoft-s-azure-tops-100b-as-fiscal-q4-beat-rewards-capex]] · [[2026-07-30-microsoft-profit-jumps-31-as-azure-growth-accelerates-and-co]] · [[2026-07-30-microsoft-q4-blowout-profit-jumps-31-cloud-posts-fastest-gro]] · [[2026-07-29-microsoft-s-fiscal-q4-beat-lifts-shares-8-as-it-raises-ai-dr]]
 <!-- graph:end -->

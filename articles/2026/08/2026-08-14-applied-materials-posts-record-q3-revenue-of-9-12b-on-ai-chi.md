@@ -17,14 +17,9 @@ entities: []
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-14-applied-materials-posts-record-q3-revenue-of-9-12b-on-ai-dem
-- 2026-08-14-applied-materials-record-9-12b-quarter-uber-pony-ai-2-000-eu
-- 2026-08-14-smic-raises-chip-prices-as-ai-demand-pushes-utilization-to-9
-- 2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j
-- 2026-07-30-apple-posts-record-109-4b-june-quarter-but-warns-ai-driven-c
+dedupe_status: duplicate
+canonical_article_id: 2026-08-14-applied-materials-posts-record-9-12b-quarter-on-ai-chip-dema
+related_article_ids: []
 embedding_id: 2026-08-14-applied-materials-posts-record-q3-revenue-of-9-12b-on-ai-chi
 event_name: ''
 ---
@@ -37,5 +32,5 @@ Applied Materials reported record third-quarter revenue of $9.12B, up roughly 25
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-14-applied-materials-posts-record-q3-revenue-of-9-12b-on-ai-dem]] · [[2026-08-14-applied-materials-record-9-12b-quarter-uber-pony-ai-2-000-eu]] · [[2026-08-14-smic-raises-chip-prices-as-ai-demand-pushes-utilization-to-9]] · [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j]] · [[2026-07-30-apple-posts-record-109-4b-june-quarter-but-warns-ai-driven-c]]
+**Canonical:** [[2026-08-14-applied-materials-posts-record-9-12b-quarter-on-ai-chip-dema]]
 <!-- graph:end -->

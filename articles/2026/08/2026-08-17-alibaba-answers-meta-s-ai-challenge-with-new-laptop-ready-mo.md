@@ -22,8 +22,8 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
 - 2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context
+- 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
 embedding_id: 2026-08-17-alibaba-answers-meta-s-ai-challenge-with-new-laptop-ready-mo
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Alibaba launched Qwen3.8-27B, a model sized to run on consumer hardware such as 
 
 **Entities:** [[Alibaba]] · [[Meta]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]] · [[2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context]]
+**Related:** [[2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]]
 <!-- graph:end -->

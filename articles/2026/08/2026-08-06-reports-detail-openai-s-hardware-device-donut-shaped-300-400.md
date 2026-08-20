@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-06-openai-s-smart-speaker-reportedly-targets-a-300-400-price-po
 - 2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker
 - 2026-08-07-openai-s-first-device-reported-as-a-300-plus-screenless-spea
-- 2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai
+- 2026-07-14-openai-s-first-hardware-device-is-reportedly-a-movable-scree
 embedding_id: 2026-08-06-reports-detail-openai-s-hardware-device-donut-shaped-300-400
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Citing Bloomberg reporting, TechCrunch detailed new specifics on OpenAI's first 
 
 **Entities:** [[Amazon]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-openai-s-smart-speaker-reportedly-targets-a-300-400-price-po]] · [[2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker]] · [[2026-08-07-openai-s-first-device-reported-as-a-300-plus-screenless-spea]] · [[2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai]]
+**Related:** [[2026-08-06-openai-s-smart-speaker-reportedly-targets-a-300-400-price-po]] · [[2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker]] · [[2026-08-07-openai-s-first-device-reported-as-a-300-plus-screenless-spea]] · [[2026-07-14-openai-s-first-hardware-device-is-reportedly-a-movable-scree]]
 <!-- graph:end -->

@@ -23,9 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028
 - 2026-07-06-infrastructure-nvidia-s-flagship-kyber-nvl144-rack-slips-12
+- 2026-08-06-nvidia-tests-rubin-ultra-variants-with-less-hbm-amid-tight-m
 - 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
-- 2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha
-- 2026-08-13-nvidia-weighs-reducing-memory-on-next-gen-rubin-ultra-gpu-du
 embedding_id: 2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Nvidia publicly rejected reports that its next-generation Rubin Ultra chips and 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028]] · [[2026-07-06-infrastructure-nvidia-s-flagship-kyber-nvl144-rack-slips-12]] · [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[2026-08-13-nvidia-weighs-reducing-memory-on-next-gen-rubin-ultra-gpu-du]]
+**Related:** [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028]] · [[2026-07-06-infrastructure-nvidia-s-flagship-kyber-nvl144-rack-slips-12]] · [[2026-08-06-nvidia-tests-rubin-ultra-variants-with-less-hbm-amid-tight-m]] · [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]]
 <!-- graph:end -->

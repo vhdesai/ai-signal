@@ -18,13 +18,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-14-chai-discovery-raises-400m-at-a-3-8b-valuation-for-ai-drug-d
-- 2026-07-13-deepseek-chai-pixverse-and-nous-show-capital-shifting-across
-- 2026-06-05-pfizer-signs-ai-drug-discovery-license-with-chai-discovery
-- 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
+dedupe_status: duplicate
+canonical_article_id: 2026-07-14-chai-discovery-raises-400m-as-wsj-questions-ai-drug-discover
+related_article_ids: []
 embedding_id: 2026-07-14-chai-discovery-raises-400m-at-3-8b-for-ai-drug-design
 event_name: ''
 ---
@@ -38,5 +34,5 @@ OpenAI-backed Chai Discovery closed a $400 million round led by Index at a $3.8 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-14-chai-discovery-raises-400m-at-a-3-8b-valuation-for-ai-drug-d]] · [[2026-07-13-deepseek-chai-pixverse-and-nous-show-capital-shifting-across]] · [[2026-06-05-pfizer-signs-ai-drug-discovery-license-with-chai-discovery]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]]
+**Canonical:** [[2026-07-14-chai-discovery-raises-400m-as-wsj-questions-ai-drug-discover]]
 <!-- graph:end -->

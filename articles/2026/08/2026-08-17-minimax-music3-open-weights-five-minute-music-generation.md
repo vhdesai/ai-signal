@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-17-minimax-releases-minimax-music3-an-open-weights-five-minute
+- 2026-08-17-minimax-releases-music3-an-open-weights-five-minute-music-mo
+- 2026-07-21-deezer-says-more-than-half-of-daily-uploads-are-ai-generated
 - 2026-06-05-stock-music-watermarks-surface-in-gemini-generated-songs
-- 2026-05-26-stability-ai-releases-stable-audio-3
-- 2026-07-31-bytedance-launches-seedance-2-5-as-chinese-labs-press-a-gene
 embedding_id: 2026-08-17-minimax-music3-open-weights-five-minute-music-generation
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Generates complete songs up to 5 minutes from lyrics with section tags; 32 kHz 1
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-17-minimax-releases-minimax-music3-an-open-weights-five-minute]] · [[2026-06-05-stock-music-watermarks-surface-in-gemini-generated-songs]] · [[2026-05-26-stability-ai-releases-stable-audio-3]] · [[2026-07-31-bytedance-launches-seedance-2-5-as-chinese-labs-press-a-gene]]
+**Related:** [[2026-08-17-minimax-releases-minimax-music3-an-open-weights-five-minute]] · [[2026-08-17-minimax-releases-music3-an-open-weights-five-minute-music-mo]] · [[2026-07-21-deezer-says-more-than-half-of-daily-uploads-are-ai-generated]] · [[2026-06-05-stock-music-watermarks-surface-in-gemini-generated-songs]]
 <!-- graph:end -->

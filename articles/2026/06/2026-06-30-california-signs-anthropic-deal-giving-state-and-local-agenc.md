@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-29-california-strikes-deal-giving-all-state-and-local-agencies
+- 2026-08-03-california-agencies-expand-access-to-anthropic-claude-accord
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 embedding_id: 2026-06-30-california-signs-anthropic-deal-giving-state-and-local-agenc
 event_name: ''
@@ -36,5 +37,5 @@ California signed a first-of-its-kind agreement with Anthropic giving state agen
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-29-california-strikes-deal-giving-all-state-and-local-agencies]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
+**Related:** [[2026-06-29-california-strikes-deal-giving-all-state-and-local-agencies]] · [[2026-08-03-california-agencies-expand-access-to-anthropic-claude-accord]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-lift
 - 2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for
 - 2026-07-13-anthropic-extends-claude-fable-5-free-access-to-july-19-keep
 - 2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co
-- 2026-07-07-anthropic-extends-claude-fable-5-access-to-all-paid-plans-th
 embedding_id: 2026-07-13-anthropic-extends-claude-fable-5-access-after-openai-s-gpt-5
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic extended free subscriber access to Claude Fable 5 for the second time 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for]] · [[2026-07-13-anthropic-extends-claude-fable-5-free-access-to-july-19-keep]] · [[2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co]] · [[2026-07-07-anthropic-extends-claude-fable-5-access-to-all-paid-plans-th]]
+**Related:** [[2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-lift]] · [[2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for]] · [[2026-07-13-anthropic-extends-claude-fable-5-free-access-to-july-19-keep]] · [[2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co]]
 <!-- graph:end -->

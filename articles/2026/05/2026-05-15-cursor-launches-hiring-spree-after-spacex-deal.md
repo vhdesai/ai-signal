@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-18-cursor-launches-origin-a-github-rival-built-for-ai-native-wo
+- 2026-08-18-cursor-capitalizes-on-github-frustration-launches-rival-host
 - 2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con
-- 2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc
-- 2026-08-15-spacex-completes-60b-all-stock-acquisition-of-ai-coding-star
-- 2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you
-- 2026-08-15-spacex-closes-60b-all-stock-acquisition-of-cursor
+- 2026-08-17-cursor-acquisition-marks-second-largest-of-vc-backed-company
+- 2026-08-15-spacex-officially-closes-its-cursor-acquisition
 embedding_id: 2026-05-15-cursor-launches-hiring-spree-after-spacex-deal
 event_name: ''
 ---
@@ -35,5 +35,5 @@ AI coding startup Cursor, fresh off a high-profile SpaceX deal, is preparing a m
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con]] · [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-08-15-spacex-completes-60b-all-stock-acquisition-of-ai-coding-star]] · [[2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you]] · [[2026-08-15-spacex-closes-60b-all-stock-acquisition-of-cursor]]
+**Related:** [[2026-08-18-cursor-launches-origin-a-github-rival-built-for-ai-native-wo]] · [[2026-08-18-cursor-capitalizes-on-github-frustration-launches-rival-host]] · [[2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con]] · [[2026-08-17-cursor-acquisition-marks-second-largest-of-vc-backed-company]] · [[2026-08-15-spacex-officially-closes-its-cursor-acquisition]]
 <!-- graph:end -->

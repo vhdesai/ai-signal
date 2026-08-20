@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-launch-open-source
 - 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
+- 2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon
 - 2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-open-full-duplex
 - 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
-- 2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts
 embedding_id: 2026-07-13-german-consortium-releases-soofi-s-a-sovereign-open-30b-mode
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Soofi S 30B-A3B activates 3.2B of 31.6B parameters per token and tops fully open
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-13-launch-open-source]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-open-full-duplex]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts]]
+**Related:** [[2026-07-13-launch-open-source]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon]] · [[2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-open-full-duplex]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]]
 <!-- graph:end -->

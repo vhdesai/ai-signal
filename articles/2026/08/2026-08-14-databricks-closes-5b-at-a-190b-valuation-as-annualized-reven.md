@@ -19,8 +19,7 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids:
-- 2026-08-13-databricks-raises-5b-at-190b-valuation-after-15b-of-investor
+related_article_ids: []
 embedding_id: 2026-08-14-databricks-closes-5b-at-a-190b-valuation-as-annualized-reven
 event_name: ''
 ---
@@ -34,5 +33,4 @@ Databricks raised $5B led by Coatue with Blackstone, MGX and T. Rowe Price parti
 
 **Entities:** [[Databricks]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-13-databricks-raises-5b-at-190b-valuation-after-15b-of-investor]]
 <!-- graph:end -->

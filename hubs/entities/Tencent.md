@@ -1,16 +1,18 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 139
+member_count: 144
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 139 connected article(s).
+> Auto-generated entity hub. 144 connected article(s).
 
+- `2026-08-19` [[2026-08-19-china-allows-bytedance-and-tencent-to-import-10-000-nvidia-h|China allows ByteDance and Tencent to import ~10,000 Nvidia H200 chips each]]
 - `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
 - `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
 - `2026-08-14` [[2026-08-14-china-s-cxmt-nears-intel-s-market-cap-rivaling-world-s-most|China's CXMT Nears Intel's Market Cap, Rivaling World's Most Valuable Chipmakers]]
+- `2026-08-14` [[2026-08-14-china-s-cxmt-nears-intel-s-market-cap-becoming-one-of-the-wo|China's CXMT Nears Intel's Market Cap, Becoming One of the World's Most Valuable Chipmakers]]
 - `2026-08-12` [[2026-08-12-tencent-reports-q2-2026-results-touting-an-ai-empowered-pivo|Tencent reports Q2 2026 results, touting an AI-empowered pivot]]
 - `2026-08-12` [[2026-08-12-tencent-posts-rmb-204-8b-quarter-with-ai-boosted-marketing-a|Tencent posts RMB 204.8B quarter with AI-boosted marketing and 65% higher AI capex]]
 - `2026-08-12` [[2026-08-12-tencent-posts-ai-capex-surge-while-defending-returns|Tencent posts AI capex surge while defending returns]]
@@ -19,7 +21,7 @@ member_count: 139
 - `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
 - `2026-08-11` [[2026-08-11-manus-returns-to-independence-as-china-forces-meta-s-2b-acqu|Manus returns to independence as China forces Meta's $2B acquisition to unwind]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
-- `2026-08-10` [[2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te|Beijing’s companion-app rules force ByteDance, Alibaba, and Tencent to pull AI companions]]
+- `2026-08-10` [[2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te|Beijing's Companion-App Rules Force ByteDance, Alibaba, and Tencent to Pull AI Companions]]
 - `2026-08-10` [[2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp|Beijing Forces ByteDance, Alibaba, and Tencent to Pull AI Companion Apps]]
 - `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
 - `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]
@@ -36,6 +38,7 @@ member_count: 139
 - `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
 - `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]
 - `2026-07-30` [[2026-07-30-tencent-open-sources-angelspec-speculative-decoding-framewor|Tencent open-sources AngelSpec speculative-decoding framework]]
+- `2026-07-30` [[2026-07-30-tencent-open-sources-angelspec-framework-for-faster-cheaper|Tencent Open-Sources AngelSpec Framework for Faster, Cheaper LLM Inference]]
 - `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
 - `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
 - `2026-07-29` [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-magic-quadrant-names|Gartner's 2026 Cloud AI Infrastructure Magic Quadrant names AWS, Google, Microsoft, Oracle as leaders]]
@@ -80,8 +83,10 @@ member_count: 139
 - `2026-06-05` [[2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets|Tencent Poaches Former OpenAI Researcher as AI Chief, Targets AGI]]
 - `2026-06-04` [[2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val|DeepSeek Lines Up ~$7.4B First External Round at Up to $59B Valuation]]
 - `2026-06-03` [[2026-06-03-deepseek-seals-7-4b-round-led-by-tencent-and-catl-with-natio|DeepSeek Seals ~$7.4B Round Led by Tencent and CATL, with National AI Fund]]
+- `2026-06-03` [[2026-06-03-deepseek-nears-7-4b-maiden-fundraise-led-by-tencent-and-catl|DeepSeek Nears ~$7.4B Maiden Fundraise Led by Tencent and CATL]]
 - `2026-06-03` [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r|Alibaba Opens Qwen to Third-Party Apps as China’s AI Agent Race Intensifies]]
 - `2026-06-02` [[2026-06-02-tencent-shares-surge-10-on-ai-agent-plans-for-wechat|Tencent Shares Surge 10% on AI Agent Plans for WeChat]]
+- `2026-06-02` [[2026-06-02-tencent-shares-jump-10-on-ai-agent-plans-for-wechat|Tencent Shares Jump 10% on AI Agent Plans for WeChat]]
 - `2026-05-28` [[2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global|Tencent expands WorkBuddy and enterprise AI solutions globally]]
 - `2026-05-28` [[2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r|Alibaba and Tencent pivot from chatbots to embodied AI and robotics]]
 - `2026-05-27` [[2026-05-27-tencent-cloud-begins-paid-commercial-services-for-hy3-previe|Tencent Cloud Begins Paid Commercial Services for Hy3 Preview and DeepSeek-V4-Pro]]

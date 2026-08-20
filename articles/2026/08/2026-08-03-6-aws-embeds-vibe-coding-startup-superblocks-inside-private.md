@@ -21,9 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-aws-partners-with-superblocks-to-bring-vibe-coding-into-priv
+- 2026-07-22-aws-turns-security-hub-into-an-ai-and-multicloud-security-co
+- 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
+- 2026-07-24-aws-retires-q-business-kendra-and-bedrock-agents-to-maintena
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
-- 2026-08-04-amazon-bedrock-makes-built-in-web-search-generally-available
-- 2026-08-04-aws-launches-web-search-on-amazon-bedrock-for-model-groundin
 embedding_id: 2026-08-03-6-aws-embeds-vibe-coding-startup-superblocks-inside-private
 event_name: ''
 ---
@@ -37,5 +38,5 @@ A multiyear AWS deal keeps AI-generated applications inside customer clouds, run
 
 **Entities:** [[Amazon]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-aws-partners-with-superblocks-to-bring-vibe-coding-into-priv]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-08-04-amazon-bedrock-makes-built-in-web-search-generally-available]] · [[2026-08-04-aws-launches-web-search-on-amazon-bedrock-for-model-groundin]]
+**Related:** [[2026-08-03-aws-partners-with-superblocks-to-bring-vibe-coding-into-priv]] · [[2026-07-22-aws-turns-security-hub-into-an-ai-and-multicloud-security-co]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]] · [[2026-07-24-aws-retires-q-business-kendra-and-bedrock-agents-to-maintena]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers
 - 2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf
 - 2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope
-- 2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai
+- 2026-08-12-openai-begins-testing-ads-in-chatgpt
 embedding_id: 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI launched a self-serve advertising platform for ChatGPT, removing the prev
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b]] · [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]] · [[2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope]] · [[2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai]]
+**Related:** [[2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b]] · [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]] · [[2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]]
 <!-- graph:end -->

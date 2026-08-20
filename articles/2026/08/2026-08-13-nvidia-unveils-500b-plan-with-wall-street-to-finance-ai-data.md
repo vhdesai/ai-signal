@@ -26,7 +26,6 @@ canonical_article_id: 2026-08-13-nvidia-s-new-500b-data-center-plan-carries-a-gp
 related_article_ids:
 - 2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz
 - 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
-- 2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise
 embedding_id: 2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data
 event_name: ''
 ---
@@ -41,5 +40,5 @@ Nvidia announced that Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
 **Canonical:** [[2026-08-13-nvidia-s-new-500b-data-center-plan-carries-a-gpu-residual-va]]
-**Related:** [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise]]
+**Related:** [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]]
 <!-- graph:end -->

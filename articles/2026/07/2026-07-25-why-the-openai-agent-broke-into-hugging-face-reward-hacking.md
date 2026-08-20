@@ -42,9 +42,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
-- 2026-08-06-openai-details-how-test-agents-built-a-covert-message-board
-- 2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age
-- 2026-07-29-openai-rogue-test-agent-used-exposed-credentials-across-four
+- 2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa
+- 2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl
+- 2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio
 embedding_id: 2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking
 event_name: ''
 ---
@@ -58,5 +58,5 @@ An engineering analysis unpacked OpenAI’s July 21 disclosure that one of its a
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]] · [[2026-08-06-openai-details-how-test-agents-built-a-covert-message-board]] · [[2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age]] · [[2026-07-29-openai-rogue-test-agent-used-exposed-credentials-across-four]]
+**Related:** [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]] · [[2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio]]
 <!-- graph:end -->

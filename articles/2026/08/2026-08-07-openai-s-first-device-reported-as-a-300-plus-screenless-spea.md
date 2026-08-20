@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-14-openai-s-first-hardware-device-is-reportedly-a-movable-scree
 - 2026-08-06-openai-s-smart-speaker-reportedly-targets-a-300-400-price-po
 - 2026-08-06-reports-detail-openai-s-hardware-device-donut-shaped-300-400
 - 2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker
-- 2026-06-30-openai-posted-a-teaser-for-a-physical-codex-device-a-square
 embedding_id: 2026-08-07-openai-s-first-device-reported-as-a-300-plus-screenless-spea
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI is reportedly developing a battery-powered, screenless device roughly the
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-06-openai-s-smart-speaker-reportedly-targets-a-300-400-price-po]] · [[2026-08-06-reports-detail-openai-s-hardware-device-donut-shaped-300-400]] · [[2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker]] · [[2026-06-30-openai-posted-a-teaser-for-a-physical-codex-device-a-square]]
+**Related:** [[2026-07-14-openai-s-first-hardware-device-is-reportedly-a-movable-scree]] · [[2026-08-06-openai-s-smart-speaker-reportedly-targets-a-300-400-price-po]] · [[2026-08-06-reports-detail-openai-s-hardware-device-donut-shaped-300-400]] · [[2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker]]
 <!-- graph:end -->

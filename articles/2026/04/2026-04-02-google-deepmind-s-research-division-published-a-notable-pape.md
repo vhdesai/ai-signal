@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-02-deepmind-anthropic-and-meta-expand-research-into-machine-con
 - 2026-04-06-research-from-uc-berkeley-found-that-large-ai-models-when-pl
 - 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
 - 2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic
 - 2026-06-22-google-deepmind-and-a24-announce-research-partnership
-- 2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc
 embedding_id: 2026-04-02-google-deepmind-s-research-division-published-a-notable-pape
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google DeepMind's research division published a notable paper arguing that while
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-06-research-from-uc-berkeley-found-that-large-ai-models-when-pl]] · [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]] · [[2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic]] · [[2026-06-22-google-deepmind-and-a24-announce-research-partnership]] · [[2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc]]
+**Related:** [[2026-06-02-deepmind-anthropic-and-meta-expand-research-into-machine-con]] · [[2026-04-06-research-from-uc-berkeley-found-that-large-ai-models-when-pl]] · [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]] · [[2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic]] · [[2026-06-22-google-deepmind-and-a24-announce-research-partnership]]
 <!-- graph:end -->

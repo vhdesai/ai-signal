@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-27-hugging-face-ceo-demands-radical-transparency-after-openai-a
 - 2026-07-26-hugging-face-ceo-calls-for-radical-transparency-after-openai
-- 2026-08-02-hugging-face-ceo-takes-the-ai-security-debate-to-national-tv
-- 2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a
+- 2026-07-27-hugging-face-ceo-demands-radical-transparency-after-openai-s
 embedding_id: 2026-07-27-hugging-face-ceo-calls-for-radical-transparency-after-openai
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Hugging Face CEO Clem Delangue called for full attack logs and a $100 million co
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-26-hugging-face-ceo-calls-for-radical-transparency-after-openai]] · [[2026-08-02-hugging-face-ceo-takes-the-ai-security-debate-to-national-tv]] · [[2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a]]
+**Related:** [[2026-07-27-hugging-face-ceo-demands-radical-transparency-after-openai-a]] · [[2026-07-26-hugging-face-ceo-calls-for-radical-transparency-after-openai]] · [[2026-07-27-hugging-face-ceo-demands-radical-transparency-after-openai-s]]
 <!-- graph:end -->

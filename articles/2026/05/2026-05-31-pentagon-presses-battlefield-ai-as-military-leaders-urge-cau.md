@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai
+- 2026-06-02-trump-signs-narrower-than-expected-ai-executive-order
 - 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 - 2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven
 - 2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine
-- 2026-05-21-trump-postpones-ai-executive-order-i-didn-t-like-certain-asp
 embedding_id: 2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau
 event_name: ''
 ---
@@ -38,5 +38,5 @@ As Defense Secretary Pete Hegseth pushes to accelerate military AI adoption, the
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]] · [[2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine]] · [[2026-05-21-trump-postpones-ai-executive-order-i-didn-t-like-certain-asp]]
+**Related:** [[2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai]] · [[2026-06-02-trump-signs-narrower-than-expected-ai-executive-order]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]] · [[2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine]]
 <!-- graph:end -->

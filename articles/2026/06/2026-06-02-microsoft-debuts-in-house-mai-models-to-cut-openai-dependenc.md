@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-02-microsoft-debuts-seven-in-house-mai-models-breaking-its-depe
+- 2026-06-02-microsoft-debuts-seven-in-house-mai-models-to-cut-openai-dep
 - 2026-07-28-microsoft-launches-mai-cyber-1-flash-its-first-cybersecurity
+- 2026-07-31-microsoft-introduces-mai-cyber-1-flash-and-project-perceptio
 - 2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu
-- event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models
-- 2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20
 embedding_id: 2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Microsoft unveiled new first-party models—MAI-Code-1-Flash and MAI-Thinking-1�
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-02-microsoft-debuts-seven-in-house-mai-models-breaking-its-depe]] · [[2026-07-28-microsoft-launches-mai-cyber-1-flash-its-first-cybersecurity]] · [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models]] · [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20]]
+**Related:** [[2026-06-02-microsoft-debuts-seven-in-house-mai-models-breaking-its-depe]] · [[2026-06-02-microsoft-debuts-seven-in-house-mai-models-to-cut-openai-dep]] · [[2026-07-28-microsoft-launches-mai-cyber-1-flash-its-first-cybersecurity]] · [[2026-07-31-microsoft-introduces-mai-cyber-1-flash-and-project-perceptio]] · [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu]]
 <!-- graph:end -->

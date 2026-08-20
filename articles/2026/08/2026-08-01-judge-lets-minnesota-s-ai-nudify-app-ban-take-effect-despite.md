@@ -19,7 +19,7 @@ themes:
 - policy-regulation
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t
+canonical_article_id: 2026-08-01-judge-denies-xai-request-to-block-minnesota-ban-on-nudify-ap
 related_article_ids: []
 embedding_id: 2026-08-01-judge-lets-minnesota-s-ai-nudify-app-ban-take-effect-despite
 event_name: ''
@@ -34,5 +34,5 @@ A federal judge denied xAI's request to temporarily block Minnesota's first-of-i
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Canonical:** [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t]]
+**Canonical:** [[2026-08-01-judge-denies-xai-request-to-block-minnesota-ban-on-nudify-ap]]
 <!-- graph:end -->

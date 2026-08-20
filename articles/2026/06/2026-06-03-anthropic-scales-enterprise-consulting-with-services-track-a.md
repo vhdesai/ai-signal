@@ -18,12 +18,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-19-kpmg-and-anthropic-launch-global-alliance-claude-deployed-to
-- 2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw
-- 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
+dedupe_status: duplicate
+canonical_article_id: 2026-06-03-anthropic-scales-enterprise-consulting-ecosystem-with-servic
+related_article_ids: []
 embedding_id: 2026-06-03-anthropic-scales-enterprise-consulting-with-services-track-a
 event_name: ''
 ---
@@ -37,5 +34,5 @@ Anthropic added a Services Track and Partner Hub to its Claude Partner Network (
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-kpmg-and-anthropic-launch-global-alliance-claude-deployed-to]] · [[2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
+**Canonical:** [[2026-06-03-anthropic-scales-enterprise-consulting-ecosystem-with-servic]]
 <!-- graph:end -->

@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-17-xai-launches-grok-4-5-for-coding-agents-and-knowledge-work
 - 2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno
 - 2026-08-12-spacexai-ships-grok-4-6-for-long-running-agents-and-coding
 - 2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3
-- 2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work
 embedding_id: 2026-08-12-xai-ships-grok-4-6-with-500k-context-reaching-parity-with-gp
 event_name: ''
 ---
@@ -38,5 +38,5 @@ xAI released Grok 4.6, a post-training upgrade focused on long-running agents, c
 
 **Entities:** [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno]] · [[2026-08-12-spacexai-ships-grok-4-6-for-long-running-agents-and-coding]] · [[2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3]] · [[2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work]]
+**Related:** [[2026-07-17-xai-launches-grok-4-5-for-coding-agents-and-knowledge-work]] · [[2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno]] · [[2026-08-12-spacexai-ships-grok-4-6-for-long-running-agents-and-coding]] · [[2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3]]
 <!-- graph:end -->

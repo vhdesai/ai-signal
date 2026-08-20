@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years
 - 2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers
 - 2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default
+- 2026-07-31-google-search-traffic-to-publishers-drops-34-as-ai-answers-r
 - 2026-05-19-google-retires-the-25-year-old-search-box-launches-ai-first
-- 2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl
 embedding_id: 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google confirmed this week the most significant redesign of its search product s
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years]] · [[2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers]] · [[2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default]] · [[2026-05-19-google-retires-the-25-year-old-search-box-launches-ai-first]] · [[2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl]]
+**Related:** [[2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years]] · [[2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers]] · [[2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default]] · [[2026-07-31-google-search-traffic-to-publishers-drops-34-as-ai-answers-r]] · [[2026-05-19-google-retires-the-25-year-old-search-box-launches-ai-first]]
 <!-- graph:end -->

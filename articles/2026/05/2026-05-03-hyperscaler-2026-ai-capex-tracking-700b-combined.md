@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
+- 2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test
 - 2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b
 - 2026-04-02-source-all-about-lawyer-the-neuron
-- 2026-05-04-big-tech-s-725b-ai-capex-wave-google-amazon-microsoft-meta-i
 embedding_id: 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A consolidated read of the just-completed Q1 2026 earnings cycle shows Amazon, A
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-05-04-big-tech-s-725b-ai-capex-wave-google-amazon-microsoft-meta-i]]
+**Related:** [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test]] · [[2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b]] · [[2026-04-02-source-all-about-lawyer-the-neuron]]
 <!-- graph:end -->

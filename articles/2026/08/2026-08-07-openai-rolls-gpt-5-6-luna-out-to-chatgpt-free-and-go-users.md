@@ -23,7 +23,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-06-openai-brings-unlimited-text-chats-to-free-users-rolls-out-g
-- 2026-08-07-gpt-5-6-sol-becomes-the-chatgpt-default-for-paid-users
 embedding_id: 2026-08-07-openai-rolls-gpt-5-6-luna-out-to-chatgpt-free-and-go-users
 event_name: ''
 ---
@@ -37,5 +36,5 @@ OpenAI began rolling GPT-5.6 “Luna” out to ChatGPT Free and Go users, with u
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-06-openai-brings-unlimited-text-chats-to-free-users-rolls-out-g]] · [[2026-08-07-gpt-5-6-sol-becomes-the-chatgpt-default-for-paid-users]]
+**Related:** [[2026-08-06-openai-brings-unlimited-text-chats-to-free-users-rolls-out-g]]
 <!-- graph:end -->

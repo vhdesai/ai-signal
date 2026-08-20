@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g
 - 2026-05-26-google-cloud-coo-ai-security-must-be-a-ceo-board-issue
+- 2026-08-06-google-execs-searching-for-the-exit
 - 2026-05-11-ai-attribution-layoffs-cloudflare-1-100-xai-500-paypal-4-760
-- 2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d
 embedding_id: 2026-06-04-google-lays-off-cloud-and-cybersecurity-staff-while-doubling
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google is quietly laying off Cloud division staff, including cybersecurity threa
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g]] · [[2026-05-26-google-cloud-coo-ai-security-must-be-a-ceo-board-issue]] · [[2026-05-11-ai-attribution-layoffs-cloudflare-1-100-xai-500-paypal-4-760]] · [[2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d]]
+**Related:** [[2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g]] · [[2026-05-26-google-cloud-coo-ai-security-must-be-a-ceo-board-issue]] · [[2026-08-06-google-execs-searching-for-the-exit]] · [[2026-05-11-ai-attribution-layoffs-cloudflare-1-100-xai-500-paypal-4-760]]
 <!-- graph:end -->

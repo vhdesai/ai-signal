@@ -21,9 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-17-higgsfield-raises-400m-series-b-at-a-5-4b-valuation
+- 2026-08-17-higgsfield-raises-400m-at-5-4b-wispr-raises-280m-at-2b
 - 2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin
-- 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
-- 2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b
 embedding_id: 2026-08-17-goldman-and-intel-back-5-4bn-ai-video-startup-higgsfield
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Higgsfield closed a $400M Series B at a $5.4B valuation, with Goldman Sachs and 
 
 **Entities:** [[Intel]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-17-higgsfield-raises-400m-series-b-at-a-5-4b-valuation]] · [[2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]] · [[2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b]]
+**Related:** [[2026-08-17-higgsfield-raises-400m-series-b-at-a-5-4b-valuation]] · [[2026-08-17-higgsfield-raises-400m-at-5-4b-wispr-raises-280m-at-2b]] · [[2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin]]
 <!-- graph:end -->

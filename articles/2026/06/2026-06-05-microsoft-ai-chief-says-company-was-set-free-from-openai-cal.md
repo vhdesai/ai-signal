@@ -25,6 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su
 - 2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic
+- 2026-07-15-microsoft-reportedly-trains-sales-teams-to-compete-more-dire
 - 2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed
 embedding_id: 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 event_name: ''
@@ -39,5 +40,5 @@ Microsoft's AI chief stated the company has been "set free" from OpenAI to pursu
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su]] · [[2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic]] · [[2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed]]
+**Related:** [[2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su]] · [[2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic]] · [[2026-07-15-microsoft-reportedly-trains-sales-teams-to-compete-more-dire]] · [[2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed]]
 <!-- graph:end -->

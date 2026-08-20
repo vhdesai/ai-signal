@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop
 - 2026-04-02-hot-microsoft-sets-frontier-ai-target-for-2027-apr-2-executi
+- 2026-08-04-microsoft-closes-up-for-2026-finally
 - 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
 - 2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing
-- 2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye
 embedding_id: 2026-07-28-microsoft-publishes-an-fy26-retrospective-from-ai-experiment
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft posted a fiscal-year-2026 retrospective arguing that customers moved f
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop]] · [[2026-04-02-hot-microsoft-sets-frontier-ai-target-for-2027-apr-2-executi]] · [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye]]
+**Related:** [[2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop]] · [[2026-04-02-hot-microsoft-sets-frontier-ai-target-for-2027-apr-2-executi]] · [[2026-08-04-microsoft-closes-up-for-2026-finally]] · [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing]]
 <!-- graph:end -->

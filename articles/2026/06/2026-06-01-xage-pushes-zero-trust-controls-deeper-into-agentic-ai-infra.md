@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
 - 2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic
+- 2026-07-27-microsoft-launches-mai-cyber-1-flash-and-project-perception
 - 2026-06-19-trustwise-joins-hpe-unleash-ai-partner-program-for-agentic-a
-- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents
-- event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib
 embedding_id: 2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Xage Security announced enhancements to its zero-trust solution for agentic AI u
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic]] · [[2026-06-19-trustwise-joins-hpe-unleash-ai-partner-program-for-agentic-a]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents]] · [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib]]
+**Related:** [[2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic]] · [[2026-07-27-microsoft-launches-mai-cyber-1-flash-and-project-perception]] · [[2026-06-19-trustwise-joins-hpe-unleash-ai-partner-program-for-agentic-a]]
 <!-- graph:end -->

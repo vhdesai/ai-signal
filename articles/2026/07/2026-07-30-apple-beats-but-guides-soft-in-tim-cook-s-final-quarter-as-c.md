@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-31-apple-posts-record-june-quarter-but-warns-of-ai-driven-compo
 - 2026-07-30-apple-posts-record-109-4b-june-quarter-but-warns-ai-driven-c
 - 2026-07-30-apple-beats-on-revenue-but-guides-weak-as-memory-crunch-bite
-- 2026-04-20-breaking-apple-confirms-ceo-transition-tim-cook-to-step-down
+- 2026-07-30-apple-s-capex-light-ai-strategy-wins-investors-even-as-guida
 embedding_id: 2026-07-30-apple-beats-but-guides-soft-in-tim-cook-s-final-quarter-as-c
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple posted fiscal Q3 revenue of $109.4B and EPS of $2.02, topping estimates on
 
 **Entities:** [[Amazon]] · [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-apple-posts-record-june-quarter-but-warns-ai-driven-componen]] · [[2026-07-31-apple-posts-record-june-quarter-but-warns-of-ai-driven-compo]] · [[2026-07-30-apple-posts-record-109-4b-june-quarter-but-warns-ai-driven-c]] · [[2026-07-30-apple-beats-on-revenue-but-guides-weak-as-memory-crunch-bite]] · [[2026-04-20-breaking-apple-confirms-ceo-transition-tim-cook-to-step-down]]
+**Related:** [[2026-07-30-apple-posts-record-june-quarter-but-warns-ai-driven-componen]] · [[2026-07-31-apple-posts-record-june-quarter-but-warns-of-ai-driven-compo]] · [[2026-07-30-apple-posts-record-109-4b-june-quarter-but-warns-ai-driven-c]] · [[2026-07-30-apple-beats-on-revenue-but-guides-weak-as-memory-crunch-bite]] · [[2026-07-30-apple-s-capex-light-ai-strategy-wins-investors-even-as-guida]]
 <!-- graph:end -->

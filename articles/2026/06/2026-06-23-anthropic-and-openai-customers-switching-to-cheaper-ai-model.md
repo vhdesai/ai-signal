@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
+- 2026-07-23-microsoft-launches-in-house-ai-models-it-says-cut-costs-up-t
+- 2026-07-31-openai-slashes-prices-on-some-of-its-newest-models
 - 2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon
 - 2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga
-- 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
-- 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
 embedding_id: 2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model
 event_name: ''
 ---
@@ -40,5 +40,5 @@ As flagship model prices soar, enterprise customers are aggressively optimizing 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]] · [[2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon]] · [[2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]]
+**Related:** [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]] · [[2026-07-23-microsoft-launches-in-house-ai-models-it-says-cut-costs-up-t]] · [[2026-07-31-openai-slashes-prices-on-some-of-its-newest-models]] · [[2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon]] · [[2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga]]
 <!-- graph:end -->

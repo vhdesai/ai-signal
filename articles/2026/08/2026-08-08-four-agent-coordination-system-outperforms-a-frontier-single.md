@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-08-08-claude-code-adds-cross-session-messaging-between-agents
 - 2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina
 - 2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi
-- 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
 embedding_id: 2026-08-08-four-agent-coordination-system-outperforms-a-frontier-single
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Researchers from Coral AI Labs and academic collaborators introduced AgentRadio,
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-08-08-claude-code-adds-cross-session-messaging-between-agents]] · [[2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina]] · [[2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]]
+**Related:** [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-08-08-claude-code-adds-cross-session-messaging-between-agents]] · [[2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina]] · [[2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi]]
 <!-- graph:end -->

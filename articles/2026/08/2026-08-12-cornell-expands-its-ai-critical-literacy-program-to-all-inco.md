@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la
 - 2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
-- 2026-07-31-openai-highlights-unive-s-ai-ready-workforce-program
 - 2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog
+- 2026-05-18-new-cornell-ai-initiative-opens-community-centered-ai-three
 embedding_id: 2026-08-12-cornell-expands-its-ai-critical-literacy-program-to-all-inco
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Following a spring pilot, Cornell will offer its AI Critical Literacy Program in
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la]] · [[2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-07-31-openai-highlights-unive-s-ai-ready-workforce-program]] · [[2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog]]
+**Related:** [[2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la]] · [[2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog]] · [[2026-05-18-new-cornell-ai-initiative-opens-community-centered-ai-three]]
 <!-- graph:end -->

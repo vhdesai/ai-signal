@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-11-the-ai-industry-is-focused-on-agentic-ai-ai-native-software
 - 2026-07-11-for-all-helsing-s-whiz-bang-a-i-it-is-possible-that-the-prol
 - 2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already
-- 2026-04-02-daily-ai-news-digest
+- 2026-07-22-dealbook-highlights-u-s-warning-on-chinese-ai-risks
 embedding_id: 2026-07-11-good-morning-andrew-here-the-business-of-war-is-a-booming-in
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Good morning. Andrew here. The business of war is a booming industry and a numbe
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-11-secretive-defense-tech-factory-highlights-ai-adjacent-drone]] · [[2026-07-11-the-ai-industry-is-focused-on-agentic-ai-ai-native-software]] · [[2026-07-11-for-all-helsing-s-whiz-bang-a-i-it-is-possible-that-the-prol]] · [[2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already]] · [[2026-04-02-daily-ai-news-digest]]
+**Related:** [[2026-07-11-secretive-defense-tech-factory-highlights-ai-adjacent-drone]] · [[2026-07-11-the-ai-industry-is-focused-on-agentic-ai-ai-native-software]] · [[2026-07-11-for-all-helsing-s-whiz-bang-a-i-it-is-possible-that-the-prol]] · [[2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already]] · [[2026-07-22-dealbook-highlights-u-s-warning-on-chinese-ai-risks]]
 <!-- graph:end -->

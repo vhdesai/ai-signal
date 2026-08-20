@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-17-amazon-is-destroying-rare-books-to-digitize-them-for-ai-trai
+- 2026-08-17-amazon-is-buying-and-destroying-rare-books-to-train-ai-model
 - 2026-08-17-amazon-is-reported-to-be-destroying-rare-books-to-digitize-t
 - 2026-08-17-amazon-reportedly-destroying-rare-books-for-ai-training
-- 2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil
+- 2026-08-17-amazon-reportedly-destroying-rare-books-to-digitize-them-for
 embedding_id: 2026-08-17-amazon-is-buying-and-destroying-rare-books-to-scan-them-for
 event_name: ''
 ---
@@ -38,5 +39,5 @@ A 404 Media investigation, in which a bookseller hid a tracking device inside a 
 
 **Entities:** [[Amazon]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-17-amazon-is-destroying-rare-books-to-digitize-them-for-ai-trai]] · [[2026-08-17-amazon-is-reported-to-be-destroying-rare-books-to-digitize-t]] · [[2026-08-17-amazon-reportedly-destroying-rare-books-for-ai-training]] · [[2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil]]
+**Related:** [[2026-08-17-amazon-is-destroying-rare-books-to-digitize-them-for-ai-trai]] · [[2026-08-17-amazon-is-buying-and-destroying-rare-books-to-train-ai-model]] · [[2026-08-17-amazon-is-reported-to-be-destroying-rare-books-to-digitize-t]] · [[2026-08-17-amazon-reportedly-destroying-rare-books-for-ai-training]] · [[2026-08-17-amazon-reportedly-destroying-rare-books-to-digitize-them-for]]
 <!-- graph:end -->

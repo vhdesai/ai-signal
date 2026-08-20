@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo
 - 2026-07-23-daily-ai-news-digest-july-24-2026
 - 2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling
-- 2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western
-- 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
+- 2026-08-06-at-canva-chatgpt-compounded-an-ai-challenge
+- 2026-08-03-openai-appears-to-be-positioning-astra-as-a-model-family-bui
 embedding_id: 2026-04-01-yupp-ai-an-andreessen-horowitz-backed-platform-that-aggregat
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Yupp AI, an Andreessen Horowitz-backed platform that aggregated responses from o
 
 **Entities:** [[Mistral]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo]] · [[2026-07-23-daily-ai-news-digest-july-24-2026]] · [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]] · [[2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]]
+**Related:** [[2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo]] · [[2026-07-23-daily-ai-news-digest-july-24-2026]] · [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]] · [[2026-08-06-at-canva-chatgpt-compounded-an-ai-challenge]] · [[2026-08-03-openai-appears-to-be-positioning-astra-as-a-model-family-bui]]
 <!-- graph:end -->

@@ -19,7 +19,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-13-databricks-raises-5b-at-190b-valuation-after-15b-of-investor
+canonical_article_id: 2026-08-13-databricks-hits-7b-arr-reveals-5b-round-details-after-15b-of
 related_article_ids: []
 embedding_id: 2026-08-13-databricks-raises-5b-at-a-190b-valuation-as-annualized-reven
 event_name: ''
@@ -34,5 +34,5 @@ Databricks closed a $5B round at a $190B valuation after annualized revenue cros
 
 **Entities:** [[Databricks]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-08-13-databricks-raises-5b-at-190b-valuation-after-15b-of-investor]]
+**Canonical:** [[2026-08-13-databricks-hits-7b-arr-reveals-5b-round-details-after-15b-of]]
 <!-- graph:end -->

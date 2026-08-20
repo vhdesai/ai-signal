@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
 - 2026-06-30-tuesday-june-30-2026
-- 2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev
+- 2026-08-06-chip-investors-navigate-geopolitical-risk-as-ai-powered-cons
 embedding_id: 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
 event_name: ''
 ---
@@ -42,5 +42,5 @@ The Information’s AM coverage highlighted Huawei’s efforts to narrow the chi
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[TSMC]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-06-30-tuesday-june-30-2026]] · [[2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev]]
+**Related:** [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-06-30-tuesday-june-30-2026]] · [[2026-08-06-chip-investors-navigate-geopolitical-risk-as-ai-powered-cons]]
 <!-- graph:end -->

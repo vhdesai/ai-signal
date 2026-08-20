@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
 - 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
 - 2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc
-- 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
+- 2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text
 embedding_id: 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A Cornell–Purdue team proposed a sparse attention variant that reduces inferen
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite]] · [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]]
+**Related:** [[2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite]] · [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc]] · [[2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text]]
 <!-- graph:end -->

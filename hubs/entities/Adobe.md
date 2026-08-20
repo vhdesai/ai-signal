@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: Adobe
-member_count: 17
+member_count: 18
 ---
 
 # Adobe
 
-> Auto-generated entity hub. 17 connected article(s).
+> Auto-generated entity hub. 18 connected article(s).
 
 - `2026-07-27` [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance|NVIDIA and partners launch Open Secure AI Alliance]]
+- `2026-07-20` [[2026-07-20-adobe-s-project-indigo-adds-ai-photo-critique-and-editing-gu|Adobe's Project Indigo adds AI photo critique and editing guidance]]
 - `2026-07-08` [[2026-07-08-google-photos-adds-ai-video-remix-powered-by-gemini-omni|Google Photos adds AI "Video Remix" powered by Gemini Omni]]
 - `2026-06-19` [[2026-06-19-adobe-embeds-firefly-creative-agent-into-chatgpt-claude-and|Adobe Embeds Firefly Creative Agent into ChatGPT, Claude, and Gemini]]
 - `2026-05-26` [[2026-05-26-anthropic-names-kiyoung-choi-as-korea-representative-directo|Anthropic names KiYoung Choi as Korea Representative Director, prepares Seoul office]]

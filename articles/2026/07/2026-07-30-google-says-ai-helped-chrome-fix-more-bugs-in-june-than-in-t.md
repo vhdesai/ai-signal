@@ -19,7 +19,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-07-30-google-says-ai-agents-found-and-fixed-1-072-chrome-security
+canonical_article_id: 2026-07-30-google-ai-helped-chrome-fix-1-072-security-bugs-in-two-relea
 related_article_ids: []
 embedding_id: 2026-07-30-google-says-ai-helped-chrome-fix-more-bugs-in-june-than-in-t
 event_name: ''
@@ -34,5 +34,5 @@ Google said it fixed 1,072 Chrome security bugs across two June releases, more t
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-07-30-google-says-ai-agents-found-and-fixed-1-072-chrome-security]]
+**Canonical:** [[2026-07-30-google-ai-helped-chrome-fix-1-072-security-bugs-in-two-relea]]
 <!-- graph:end -->

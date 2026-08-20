@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat
+- 2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip
 - 2026-07-27-global-chip-rout-deepens-korea-s-kospi-trips-circuit-breaker
 - 2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b
-- 2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip
 embedding_id: 2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Equities fell Friday in a global technology sell-off as investors questioned str
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat]] · [[2026-07-27-global-chip-rout-deepens-korea-s-kospi-trips-circuit-breaker]] · [[2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b]] · [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]]
+**Related:** [[2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat]] · [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-07-27-global-chip-rout-deepens-korea-s-kospi-trips-circuit-breaker]] · [[2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b]]
 <!-- graph:end -->

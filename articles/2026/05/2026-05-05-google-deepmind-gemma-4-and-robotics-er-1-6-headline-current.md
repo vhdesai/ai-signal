@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-20-gemini-robotics-er-1-6-lands-with-boston-dynamics-spot-integ
 - 2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh
 - 2026-04-14-newgoogle-deepmind-gemini-robotics-er-1-6-physical-ai-for-in
-- 2026-07-30-google-deepmind-launches-gemini-robotics-2-for-multi-robot-h
+- 2026-07-30-google-launches-gemini-robotics-er-2-for-embodied-reasoning
 embedding_id: 2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current
 event_name: ''
 ---
@@ -37,5 +37,5 @@ DeepMind's blog continues to feature Gemma 4 (“byte for byte, the most capable
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6]] · [[2026-04-20-gemini-robotics-er-1-6-lands-with-boston-dynamics-spot-integ]] · [[2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh]] · [[2026-04-14-newgoogle-deepmind-gemini-robotics-er-1-6-physical-ai-for-in]] · [[2026-07-30-google-deepmind-launches-gemini-robotics-2-for-multi-robot-h]]
+**Related:** [[2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6]] · [[2026-04-20-gemini-robotics-er-1-6-lands-with-boston-dynamics-spot-integ]] · [[2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh]] · [[2026-04-14-newgoogle-deepmind-gemini-robotics-er-1-6-physical-ai-for-in]] · [[2026-07-30-google-launches-gemini-robotics-er-2-for-embodied-reasoning]]
 <!-- graph:end -->

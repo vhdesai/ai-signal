@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-deepseek-ships-v4-pro-to-general-availability-with-api-price
-- 2026-08-14-deepseek-v4-pro-price-increases-take-effect-today
 - 2026-08-14-deepseek-ships-v4-pro-and-raises-api-prices-sharply
+- 2026-08-14-deepseek-v4-pro-price-increases-take-effect-today
+- 2026-08-14-deepseek-v4-pro-api-prices-rise-today-peak-off-peak-billing
 - 2026-08-14-deepseek-moves-v4-pro-to-general-availability-with-steep-pri
-- 2026-08-14-deepseek-v4-pro-ga-sharp-price-increases-effective-aug-16
 embedding_id: 2026-08-14-deepseek-launches-v4-pro-and-sharply-raises-api-prices
 event_name: ''
 ---
@@ -41,5 +41,5 @@ DeepSeek made V4-Pro generally available, adding stronger agentic capability, ad
 
 **Entities:** [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-14-deepseek-ships-v4-pro-to-general-availability-with-api-price]] · [[2026-08-14-deepseek-v4-pro-price-increases-take-effect-today]] · [[2026-08-14-deepseek-ships-v4-pro-and-raises-api-prices-sharply]] · [[2026-08-14-deepseek-moves-v4-pro-to-general-availability-with-steep-pri]] · [[2026-08-14-deepseek-v4-pro-ga-sharp-price-increases-effective-aug-16]]
+**Related:** [[2026-08-14-deepseek-ships-v4-pro-to-general-availability-with-api-price]] · [[2026-08-14-deepseek-ships-v4-pro-and-raises-api-prices-sharply]] · [[2026-08-14-deepseek-v4-pro-price-increases-take-effect-today]] · [[2026-08-14-deepseek-v4-pro-api-prices-rise-today-peak-off-peak-billing]] · [[2026-08-14-deepseek-moves-v4-pro-to-general-availability-with-steep-pri]]
 <!-- graph:end -->

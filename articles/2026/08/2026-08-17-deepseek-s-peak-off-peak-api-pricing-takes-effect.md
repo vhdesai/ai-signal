@@ -25,7 +25,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-01-deepseek-introduces-peak-hour-surge-pricing-on-its-v4-api
 - 2026-08-14-deepseek-moves-v4-pro-to-general-availability-with-steep-pri
-- 2026-08-14-deepseek-launches-v4-pro-and-sharply-raises-api-prices
 embedding_id: 2026-08-17-deepseek-s-peak-off-peak-api-pricing-takes-effect
 event_name: ''
 ---
@@ -39,5 +38,5 @@ DeepSeek's time-of-day API pricing model went live today, charging differentiate
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-01-deepseek-introduces-peak-hour-surge-pricing-on-its-v4-api]] · [[2026-08-14-deepseek-moves-v4-pro-to-general-availability-with-steep-pri]] · [[2026-08-14-deepseek-launches-v4-pro-and-sharply-raises-api-prices]]
+**Related:** [[2026-07-01-deepseek-introduces-peak-hour-surge-pricing-on-its-v4-api]] · [[2026-08-14-deepseek-moves-v4-pro-to-general-availability-with-steep-pri]]
 <!-- graph:end -->

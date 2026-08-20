@@ -22,9 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-ai-infrastructure-and-data-deals-lead-the-week-s-largest-rou
-- 2026-05-28-public-pe-giants-pivot-from-software-to-ai-physical-infrastr
-- 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
-- 2026-06-22-venture-capital-concentrates-on-ai-bottlenecks-3-37b-in-10-r
+- 2026-07-17-databricks-hits-188b-valuation-doubling-down-on-open-weight
+- 2026-07-17-databricks-reaches-188-billion-valuation-as-ai-infrastructur
 embedding_id: 2026-08-14-weekly-capital-flows-to-physical-substrate-not-applications
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Crunchbase’s weekly tally: Databricks ($5B), River AI ($1.1B), data center/ene
 
 **Entities:** [[Databricks]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-14-ai-infrastructure-and-data-deals-lead-the-week-s-largest-rou]] · [[2026-05-28-public-pe-giants-pivot-from-software-to-ai-physical-infrastr]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-06-22-venture-capital-concentrates-on-ai-bottlenecks-3-37b-in-10-r]]
+**Related:** [[2026-08-14-ai-infrastructure-and-data-deals-lead-the-week-s-largest-rou]] · [[2026-07-17-databricks-hits-188b-valuation-doubling-down-on-open-weight]] · [[2026-07-17-databricks-reaches-188-billion-valuation-as-ai-infrastructur]]
 <!-- graph:end -->

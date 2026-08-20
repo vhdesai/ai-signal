@@ -21,8 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy
-- 2026-06-03-openai-publishes-governance-blueprint-altman-urges-against-m
-- 2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le
+- 2026-07-20-openai-outlines-safety-and-alignment-concerns-for-long-horiz
+- 2026-08-01-openai-published-a-policy-piece-outlining-how-its-safety-sec
+- 2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro
 embedding_id: 2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec
 event_name: ''
 ---
@@ -36,5 +37,5 @@ OpenAI published an explainer on the design philosophy behind its Model Spec, th
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy]] · [[2026-06-03-openai-publishes-governance-blueprint-altman-urges-against-m]] · [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le]]
+**Related:** [[2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy]] · [[2026-07-20-openai-outlines-safety-and-alignment-concerns-for-long-horiz]] · [[2026-08-01-openai-published-a-policy-piece-outlining-how-its-safety-sec]] · [[2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
 - 2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier
 - 2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr
-- 2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p
+- 2026-08-06-at-canva-chatgpt-compounded-an-ai-challenge
 embedding_id: 2026-05-13-ai-iq-site-maps-50-frontier-models-onto-a-human-iq-bell-curv
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A project at aiiq.org maps 50+ frontier LLMs onto a standard IQ bell curve, driv
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-ai-iq-benchmark-frontier-models-converge-near-human-iq-136-g]] · [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]] · [[2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier]] · [[2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr]] · [[2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p]]
+**Related:** [[2026-05-13-ai-iq-benchmark-frontier-models-converge-near-human-iq-136-g]] · [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]] · [[2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier]] · [[2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr]] · [[2026-08-06-at-canva-chatgpt-compounded-an-ai-challenge]]
 <!-- graph:end -->

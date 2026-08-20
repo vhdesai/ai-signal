@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l
 - 2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd
 - 2026-06-22-amazon-pushes-conversational-ai-ads-onto-the-open-internet
+- 2026-08-19-amazon-makes-ai-powered-alexa-free-on-all-fire-tv-no-prime-r
 - 2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage
-- 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
 embedding_id: 2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Amazon's Alexa+ now includes a feature that generates full-length, conversationa
 
 **Entities:** [[Amazon]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l]] · [[2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd]] · [[2026-06-22-amazon-pushes-conversational-ai-ads-onto-the-open-internet]] · [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]]
+**Related:** [[2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l]] · [[2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd]] · [[2026-06-22-amazon-pushes-conversational-ai-ads-onto-the-open-internet]] · [[2026-08-19-amazon-makes-ai-powered-alexa-free-on-all-fire-tv-no-prime-r]] · [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-01-elon-musk-s-xai-released-grok-4-20-multi-agent-beta-in-mid-m
 - 2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy
+- 2026-07-17-xai-launches-grok-4-5-for-coding-agents-and-knowledge-work
 - 2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively
 - 2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta
-- 2026-08-12-xai-ships-grok-4-6-with-500k-context-reaching-parity-with-gp
 embedding_id: 2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th
 event_name: ''
 ---
@@ -39,5 +39,5 @@ xAI • April 17, 2026 xAI pushed Grok 4.3 into public beta on the X platform an
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-01-elon-musk-s-xai-released-grok-4-20-multi-agent-beta-in-mid-m]] · [[2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy]] · [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta]] · [[2026-08-12-xai-ships-grok-4-6-with-500k-context-reaching-parity-with-gp]]
+**Related:** [[2026-04-01-elon-musk-s-xai-released-grok-4-20-multi-agent-beta-in-mid-m]] · [[2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy]] · [[2026-07-17-xai-launches-grok-4-5-for-coding-agents-and-knowledge-work]] · [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta]]
 <!-- graph:end -->

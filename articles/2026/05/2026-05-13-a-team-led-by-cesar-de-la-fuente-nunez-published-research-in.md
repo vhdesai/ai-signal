@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against
 - 2026-05-13-nature-publishes-ai-designed-peptide-antibiotic-breakthrough
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
+- 2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop
 - 2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via
-- 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 embedding_id: 2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A team led by Cesar de la Fuente-Nunez published research in Nature Machine Inte
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against]] · [[2026-05-13-nature-publishes-ai-designed-peptide-antibiotic-breakthrough]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]]
+**Related:** [[2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against]] · [[2026-05-13-nature-publishes-ai-designed-peptide-antibiotic-breakthrough]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop]] · [[2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via]]
 <!-- graph:end -->

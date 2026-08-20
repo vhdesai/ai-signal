@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership
 - 2026-05-05-ibm-watsonx-orchestrate-unified-ai-agent-management
 - 2026-08-13-ibm-embeds-openai-models-across-its-consulting-delivery-plat
 - 2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform
 - 2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a
-- 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
 embedding_id: 2026-05-04-ibm-oracle-expanded-partnership-for-ai-and-cloud-modernizati
 event_name: ''
 ---
@@ -38,5 +38,5 @@ IBM and Oracle announced an expanded partnership to help organizations modernize
 
 **Entities:** [[IBM]] · [[Oracle]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-05-ibm-watsonx-orchestrate-unified-ai-agent-management]] · [[2026-08-13-ibm-embeds-openai-models-across-its-consulting-delivery-plat]] · [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]] · [[2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]]
+**Related:** [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership]] · [[2026-05-05-ibm-watsonx-orchestrate-unified-ai-agent-management]] · [[2026-08-13-ibm-embeds-openai-models-across-its-consulting-delivery-plat]] · [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]] · [[2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a]]
 <!-- graph:end -->

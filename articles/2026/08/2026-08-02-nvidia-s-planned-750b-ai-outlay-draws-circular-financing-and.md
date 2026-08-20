@@ -18,12 +18,9 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
-- 2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise
-- 2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target
+dedupe_status: duplicate
+canonical_article_id: 2026-08-02-nvidia-linked-ai-infrastructure-spending-fuels-circular-fina
+related_article_ids: []
 embedding_id: 2026-08-02-nvidia-s-planned-750b-ai-outlay-draws-circular-financing-and
 event_name: ''
 ---
@@ -37,5 +34,5 @@ NPR reported that Nvidia is set to spend on the order of $750 billion across the
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]] · [[2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise]] · [[2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target]]
+**Canonical:** [[2026-08-02-nvidia-linked-ai-infrastructure-spending-fuels-circular-fina]]
 <!-- graph:end -->

@@ -22,6 +22,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-17-ai-s-wider-availability-puts-pressure-on-openai-and-anthropi
 - 2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
 embedding_id: 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
@@ -37,5 +38,5 @@ TechCrunch analyzed the emerging two-tier enterprise model market: frontier mode
 
 **Entities:** [[Anthropic]] · [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]]
+**Related:** [[2026-07-17-ai-s-wider-availability-puts-pressure-on-openai-and-anthropi]] · [[2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]]
 <!-- graph:end -->

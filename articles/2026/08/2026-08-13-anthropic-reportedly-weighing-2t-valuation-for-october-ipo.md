@@ -22,14 +22,12 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar
 related_article_ids:
 - 2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 - 2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren
-- 2026-08-14-anthropic-targets-2t-valuation-with-an-ipo-reportedly-eyed-f
-- 2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast
 embedding_id: 2026-08-13-anthropic-reportedly-weighing-2t-valuation-for-october-ipo
 event_name: ''
 ---
@@ -43,5 +41,6 @@ Anthropic may seek a valuation above $2T in an autumn listing, with backers mode
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren]] · [[2026-08-14-anthropic-targets-2t-valuation-with-an-ipo-reportedly-eyed-f]] · [[2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast]]
+**Canonical:** [[2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar]]
+**Related:** [[2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren]]
 <!-- graph:end -->

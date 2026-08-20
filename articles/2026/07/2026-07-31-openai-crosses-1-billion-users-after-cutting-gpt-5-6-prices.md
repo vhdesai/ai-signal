@@ -23,8 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-30-openai-cuts-gpt-5-6-api-pricing-up-to-80-and-adds-sol-fast
-- 2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability
-- 2026-08-07-openai-makes-gpt-5-6-sol-the-chatgpt-default-for-paid-users
+- 2026-07-31-openai-price-cuts-show-model-providers-are-responding-to-ent
 embedding_id: 2026-07-31-openai-crosses-1-billion-users-after-cutting-gpt-5-6-prices
 event_name: ''
 ---
@@ -38,5 +37,5 @@ OpenAI said it has surpassed 1 billion users, roughly coinciding with an aggress
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-openai-cuts-gpt-5-6-api-pricing-up-to-80-and-adds-sol-fast]] · [[2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability]] · [[2026-08-07-openai-makes-gpt-5-6-sol-the-chatgpt-default-for-paid-users]]
+**Related:** [[2026-07-30-openai-cuts-gpt-5-6-api-pricing-up-to-80-and-adds-sol-fast]] · [[2026-07-31-openai-price-cuts-show-model-providers-are-responding-to-ent]]
 <!-- graph:end -->

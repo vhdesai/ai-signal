@@ -42,9 +42,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
 - 2026-05-02-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu
+- 2026-08-02-academic-ai-sources-were-quiet-in-the-date-window
+- 2026-08-03-academic-ai-sources-were-quiet-in-the-date-window
 - event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o
-- 2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour
-- 2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours
 embedding_id: 2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo
 event_name: ''
 ---
@@ -58,5 +58,5 @@ Across roughly 20 academic feeds — BAIR, Stanford HAI, MIT News, Purdue, Georg
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[2026-05-02-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu]] · [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o]] · [[2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour]] · [[2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours]]
+**Related:** [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[2026-05-02-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu]] · [[2026-08-02-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-08-03-academic-ai-sources-were-quiet-in-the-date-window]] · [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o]]
 <!-- graph:end -->

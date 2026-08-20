@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-10-openai-introduces-premium-seats-for-chatgpt-business-at-125
 - 2026-04-03-openai-rolled-out-codex-only-seats-with-pay-as-you-go-pricin
 - 2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g
 - 2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti
 - 2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai
-- 2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model
 embedding_id: 2026-08-10-openai-introduces-premium-seats-for-chatgpt-business
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI added a Premium seat tier giving heavy users 5x more usage and removing t
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-03-openai-rolled-out-codex-only-seats-with-pay-as-you-go-pricin]] · [[2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g]] · [[2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti]] · [[2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai]] · [[2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model]]
+**Related:** [[2026-08-10-openai-introduces-premium-seats-for-chatgpt-business-at-125]] · [[2026-04-03-openai-rolled-out-codex-only-seats-with-pay-as-you-go-pricin]] · [[2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g]] · [[2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti]] · [[2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai]]
 <!-- graph:end -->

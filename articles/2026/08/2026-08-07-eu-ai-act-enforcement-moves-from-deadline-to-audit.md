@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-active-audit
 - 2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia
 - 2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi
 - 2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state
-- 2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla
 embedding_id: 2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Following the August 2 effective date for high-risk system obligations, the Euro
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia]] · [[2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi]] · [[2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state]] · [[2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla]]
+**Related:** [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-active-audit]] · [[2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia]] · [[2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi]] · [[2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state]]
 <!-- graph:end -->

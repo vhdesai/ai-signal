@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i
 - 2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca
 - 2026-08-12-enterprises-secure-ai-agent-identities-but-cannot-contain-a
+- 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
 - 2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4
-- 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
-- 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
 embedding_id: 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A VentureBeat Pulse survey of 107 enterprises found 69% run AI agents with share
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca]] · [[2026-08-12-enterprises-secure-ai-agent-identities-but-cannot-contain-a]] · [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]]
+**Related:** [[2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i]] · [[2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca]] · [[2026-08-12-enterprises-secure-ai-agent-identities-but-cannot-contain-a]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]]
 <!-- graph:end -->

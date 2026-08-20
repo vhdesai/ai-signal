@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 - 2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt
-- 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
 embedding_id: 2026-07-27-apple-publishes-gh-esd-for-grounded-error-slice-discovery-in
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Apple published GH-ESD, a method for discovering systematic failure slices in in
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-24-apple-proposes-lead-to-address-long-horizon-reasoning-failur]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]]
+**Related:** [[2026-07-24-apple-proposes-lead-to-address-long-horizon-reasoning-failur]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt]]
 <!-- graph:end -->

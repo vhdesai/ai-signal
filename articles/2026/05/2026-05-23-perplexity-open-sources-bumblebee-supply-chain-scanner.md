@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-23-perplexity-released-bumblebee-an-open-source-read-only-suppl
 - 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
+- 2026-05-07-new-perplexity-personal-computer-now-generally-available-for
 - 2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for
 - 2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git
-- 2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat
 embedding_id: 2026-05-23-perplexity-open-sources-bumblebee-supply-chain-scanner
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Perplexity released Bumblebee, the internal security tool it uses to harden the 
 
 **Entities:** [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-perplexity-released-bumblebee-an-open-source-read-only-suppl]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for]] · [[2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git]] · [[2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat]]
+**Related:** [[2026-05-23-perplexity-released-bumblebee-an-open-source-read-only-suppl]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-05-07-new-perplexity-personal-computer-now-generally-available-for]] · [[2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for]] · [[2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git]]
 <!-- graph:end -->

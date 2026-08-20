@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-05-10-microsoft-365-e7-agent-365-generally-available
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape
-- 2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0
+- 2026-07-30-microsoft-365-copilot-paid-subscriptions-double-to-30-millio
 embedding_id: 2026-05-02-newmicrosoft-365-e7-frontier-suite-goes-generally-available
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Microsoft's first new enterprise tier since E5 (2015) bundles E5, Copilot, Micro
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Related:** [[2026-05-02-trendingmicrosoft-365-e7-frontier-suite-goes-generally-avail]] · [[2026-05-10-microsoft-365-e7-agent-365-generally-available]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0]]
+**Related:** [[2026-05-02-trendingmicrosoft-365-e7-frontier-suite-goes-generally-avail]] · [[2026-05-10-microsoft-365-e7-agent-365-generally-available]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-07-30-microsoft-365-copilot-paid-subscriptions-double-to-30-millio]]
 <!-- graph:end -->

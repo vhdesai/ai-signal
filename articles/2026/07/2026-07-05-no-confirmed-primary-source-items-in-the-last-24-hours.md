@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-29-all-21-items-were-confirmed-published-within-the-last-24-hou
+- 2026-08-02-academic-ai-sources-were-quiet-in-the-date-window
+- 2026-08-03-academic-ai-sources-were-quiet-in-the-date-window
 - 2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin
-- 2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours
-- 2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel
 embedding_id: 2026-07-05-no-confirmed-primary-source-items-in-the-last-24-hours
 event_name: ''
 ---
@@ -37,5 +37,5 @@ No confirmed primary-source items in the last 24 hours. The week's major policy 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-29-all-21-items-were-confirmed-published-within-the-last-24-hou]] · [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]] · [[2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours]] · [[2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel]]
+**Related:** [[2026-06-29-all-21-items-were-confirmed-published-within-the-last-24-hou]] · [[2026-08-02-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-08-03-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]]
 <!-- graph:end -->

@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin
 - 2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
+- 2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro
 - 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
-- 2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th
 embedding_id: 2026-05-27-wsj-opinion-an-ai-overwatch-act-would-help-the-us-compete-wi
 event_name: ''
 ---
@@ -43,5 +43,5 @@ A WSJ opinion piece argues for an "AI Overwatch Act" — a legislative framework
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]] · [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th]]
+**Related:** [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]]
 <!-- graph:end -->

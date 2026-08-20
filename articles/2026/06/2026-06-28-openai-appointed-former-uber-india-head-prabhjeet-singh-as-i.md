@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-06-27-openai-names-ex-uber-india-chief-as-its-first-india-managing
 - 2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny
 - 2026-07-12-openai-safety-governance
+- 2026-06-19-noam-shazeer-co-author-of-the-foundational-2017-attention-is
 embedding_id: 2026-06-28-openai-appointed-former-uber-india-head-prabhjeet-singh-as-i
 event_name: ''
 ---
@@ -37,5 +38,5 @@ OpenAI appointed former Uber India head Prabhjeet Singh as its most senior India
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-27-openai-names-ex-uber-india-chief-as-its-first-india-managing]] · [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny]] · [[2026-07-12-openai-safety-governance]]
+**Related:** [[2026-06-27-openai-names-ex-uber-india-chief-as-its-first-india-managing]] · [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny]] · [[2026-07-12-openai-safety-governance]] · [[2026-06-19-noam-shazeer-co-author-of-the-foundational-2017-attention-is]]
 <!-- graph:end -->

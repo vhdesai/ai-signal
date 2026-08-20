@@ -22,7 +22,7 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-then-raises-ap
+canonical_article_id: 2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-agent-framewor
 related_article_ids: []
 embedding_id: 2026-08-13-deepseek-ships-v4-pro-open-source-harness-then-raises-prices
 event_name: ''
@@ -37,5 +37,5 @@ V4-Pro goes GA (1.6T params, 49B active, 1M context) with OpenAI Responses API s
 
 **Entities:** [[DeepSeek]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Canonical:** [[2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-then-raises-ap]]
+**Canonical:** [[2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-agent-framewor]]
 <!-- graph:end -->

@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration
+- 2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership
 - 2026-06-22-google-deepmind-and-a24-announce-research-partnership
 - 2026-07-14-google-expands-gemini-and-ai-education-tools-at-i-o-connect
 - 2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10
-- 2026-06-26-openai-soft-launches-gpt-5-6-sol-terra-luna-under-restricted
 embedding_id: 2026-05-21-google-deepmind-establishes-singapore-national-ai-partnershi
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google DeepMind announced a new national AI partnership with Singapore focused o
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration]] · [[2026-06-22-google-deepmind-and-a24-announce-research-partnership]] · [[2026-07-14-google-expands-gemini-and-ai-education-tools-at-i-o-connect]] · [[2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10]] · [[2026-06-26-openai-soft-launches-gpt-5-6-sol-terra-luna-under-restricted]]
+**Related:** [[2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration]] · [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership]] · [[2026-06-22-google-deepmind-and-a24-announce-research-partnership]] · [[2026-07-14-google-expands-gemini-and-ai-education-tools-at-i-o-connect]] · [[2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10]]
 <!-- graph:end -->

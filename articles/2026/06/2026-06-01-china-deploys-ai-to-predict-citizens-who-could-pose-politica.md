@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
 - 2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop
 - 2026-06-22-five-eyes-warning-says-destabilizing-ai-capabilities-may-be
-- 2026-07-31-report-chinese-military-researchers-used-openai-and-anthropi
+- 2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we
 embedding_id: 2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The New York Times reported that Chinese authorities are deploying AI systems de
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g]] · [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]] · [[2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop]] · [[2026-06-22-five-eyes-warning-says-destabilizing-ai-capabilities-may-be]] · [[2026-07-31-report-chinese-military-researchers-used-openai-and-anthropi]]
+**Related:** [[2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g]] · [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]] · [[2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop]] · [[2026-06-22-five-eyes-warning-says-destabilizing-ai-capabilities-may-be]] · [[2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we]]
 <!-- graph:end -->

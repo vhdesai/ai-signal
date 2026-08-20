@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen
 - 2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021
 - 2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu
+- 2026-07-16-nvidia-and-japan-launch-world-s-first-national-ai-infrastruc
 - 2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after
-- 2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p
 embedding_id: 2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Japan's government formally commissioned a national "physical AI" foundation mod
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen]] · [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]] · [[2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p]]
+**Related:** [[2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen]] · [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-07-16-nvidia-and-japan-launch-world-s-first-national-ai-infrastruc]] · [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]]
 <!-- graph:end -->

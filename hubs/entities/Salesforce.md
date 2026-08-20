@@ -1,21 +1,24 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 42
+member_count: 45
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 42 connected article(s).
+> Auto-generated entity hub. 45 connected article(s).
 
 - `2026-08-05` [[2026-08-05-klaviyo-acquires-elias-torres-ai-customer-success-startup-na|Klaviyo Acquires Elias Torres' AI Customer-Success Startup, Names Him CPO]]
 - `2026-08-03` [[2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise|Marc Benioff-backed “June” exits stealth to tackle enterprise AI deployment]]
+- `2026-08-03` [[2026-08-03-june-s-pitch-is-that-ai-deployment-itself-has-become-a-softw|June’s pitch is that AI deployment itself has become a software category, not just a services problem handled by…]]
+- `2026-08-03` [[2026-08-03-june-emerges-from-stealth-with-20-million-to-automate-enterp|June emerges from stealth with $20 million to automate enterprise AI deployment]]
 - `2026-07-28` [[2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou|SAP Pins Future on Business AI Platform After Strong Q2 Cloud Earnings]]
 - `2026-07-27` [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance|NVIDIA and partners launch Open Secure AI Alliance]]
 - `2026-07-09` [[2026-07-09-starbucks-builds-ai-software-to-cut-reliance-on-microsoft-an|Starbucks Builds AI Software to Cut Reliance on Microsoft and IBM]]
 - `2026-07-09` [[2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr|OpenAI launches ChatGPT Work, an agent for multi-hour enterprise tasks]]
 - `2026-07-09` [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr|OpenAI introduces ChatGPT Work, merging Codex into an enterprise agent platform]]
 - `2026-07-08` [[2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts|Slack’s Slackbot can now pull your CRM data, generate charts, and send DocuSigns]]
+- `2026-07-06` [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce-crm|Small Firms Use Anthropic's Claude to Replace Salesforce CRM]]
 - `2026-07-06` [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce|Small Firms Use Anthropic's Claude to Replace Salesforce]]
 - `2026-06-29` [[2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s|Oracle adds four agentic supply-chain apps to Fusion Cloud SCM]]
 - `2026-06-19` [[2026-06-19-salesforce-codegen-tutorial-highlights-validate-and-rerank-c|Salesforce CodeGen tutorial highlights validate-and-rerank coding workflows]]

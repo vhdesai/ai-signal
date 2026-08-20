@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc
 - 2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a
 - 2026-08-07-airbnb-ai-cut-feature-launch-time-60-now-writes-60-of-code
-- 2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a
+- 2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic
 embedding_id: 2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Chesky announced plans for an AI lab focused on travel and hospitality AI — re
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc]] · [[2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a]] · [[2026-08-07-airbnb-ai-cut-feature-launch-time-60-now-writes-60-of-code]] · [[2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a]]
+**Related:** [[2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc]] · [[2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a]] · [[2026-08-07-airbnb-ai-cut-feature-launch-time-60-now-writes-60-of-code]] · [[2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic]]
 <!-- graph:end -->

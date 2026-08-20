@@ -1,17 +1,20 @@
 ---
 type: entity-hub
 hub: Perplexity
-member_count: 48
+member_count: 51
 ---
 
 # Perplexity
 
-> Auto-generated entity hub. 48 connected article(s).
+> Auto-generated entity hub. 51 connected article(s).
 
+- `2026-08-18` [[2026-08-18-perplexity-s-free-ai-offer-left-it-with-millions-more-users|Perplexity's free AI offer left it with millions more users in India]]
+- `2026-08-18` [[2026-08-18-perplexity-s-india-experiment-ai-bundling-can-build-lasting|Perplexity's India Experiment: AI Bundling Can Build Lasting Revenue]]
+- `2026-08-18` [[2026-08-18-perplexity-s-india-experiment-shows-ai-bundling-can-build-la|Perplexity's India Experiment Shows AI Bundling Can Build Lasting Revenue]]
 - `2026-08-08` [[2026-08-08-nvidia-backs-firebird-s-new-ai-factory-in-armenia-plans-70-0|Nvidia Backs Firebird's New AI Factory in Armenia, Plans 70,000+ GPU Buildout by 2027]]
 - `2026-08-08` [[2026-08-08-firebird-opens-the-cis-region-s-largest-ai-factory-in-armeni|Firebird opens the CIS region’s largest AI factory in Armenia, built on NVIDIA]]
+- `2026-08-08` [[2026-08-08-firebird-opens-armenian-ai-factory-targets-2-gw-pipeline|Firebird opens Armenian AI factory, targets 2 GW pipeline]]
 - `2026-08-08` [[2026-08-08-firebird-opens-armenian-ai-factory-targets-2-gw-with-intende|Firebird Opens Armenian AI Factory, Targets 2 GW With Intended Nvidia Investment]]
-- `2026-08-08` [[2026-08-08-firebird-opens-armenian-ai-factory-targets-2-gw-pipeline|Firebird Opens Armenian AI Factory, Targets 2 GW Pipeline]]
 - `2026-08-08` [[2026-08-08-firebird-launches-cis-region-s-largest-ai-factory-in-armenia|Firebird Launches CIS Region’s Largest AI Factory in Armenia]]
 - `2026-08-05` [[2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re|Shopify: AI-Driven Search Tripled Traffic and Orders in Q2, Revenue Up 36%]]
 - `2026-07-14` [[2026-07-14-chatgpt-returns-to-whatsapp-in-the-eu-after-brussels-forces|ChatGPT returns to WhatsApp in the EU after Brussels forces Meta to reopen]]

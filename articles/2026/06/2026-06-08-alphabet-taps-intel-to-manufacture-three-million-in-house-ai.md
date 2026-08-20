@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte
+- 2026-06-11-google-in-talks-with-samsung-to-manufacture-next-gen-ai-chip
 - 2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september
 - 2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc
 - 2026-04-02-cognichip-a-startup-building-ai-systems-that-design-semicond
-- 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
 embedding_id: 2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Alphabet tapped Intel to manufacture three million in-house AI chips — a signi
 
 **Entities:** [[Google]] · [[Intel]] · [[TSMC]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]] · [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september]] · [[2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc]] · [[2026-04-02-cognichip-a-startup-building-ai-systems-that-design-semicond]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]]
+**Related:** [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]] · [[2026-06-11-google-in-talks-with-samsung-to-manufacture-next-gen-ai-chip]] · [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september]] · [[2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc]] · [[2026-04-02-cognichip-a-startup-building-ai-systems-that-design-semicond]]
 <!-- graph:end -->

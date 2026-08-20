@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-16-nvidia-and-japan-launch-national-ai-infrastructure-for-physi
+- 2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai
+- 2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
 - 2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo
-- 2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex
-- 2026-08-17-nvidia-guarantees-sb-energy-s-ports-pike-campus-to-exclusive
-- 2026-06-22-nvidia-unveils-warm-water-cooling-to-cut-data-center-water-u
 embedding_id: 2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da
 event_name: ''
 ---
@@ -39,5 +39,5 @@ At a demonstration in Orangeville, Utah, Nvidia and nuclear startup Valar Atomic
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo]] · [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex]] · [[2026-08-17-nvidia-guarantees-sb-energy-s-ports-pike-campus-to-exclusive]] · [[2026-06-22-nvidia-unveils-warm-water-cooling-to-cut-data-center-water-u]]
+**Related:** [[2026-07-16-nvidia-and-japan-launch-national-ai-infrastructure-for-physi]] · [[2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai]] · [[2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo]]
 <!-- graph:end -->

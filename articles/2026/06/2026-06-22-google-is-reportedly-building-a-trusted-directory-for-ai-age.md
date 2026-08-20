@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-18-google-open-sources-sam-sovereign-agent-mesh-for-zero-trust
+- 2026-08-03-google-says-ai-agents-helped-fix-1-072-chrome-security-bugs
+- 2026-08-03-google-says-ai-agents-helped-fix-more-than-1-000-chrome-secu
 - event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib
 - 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
-- 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
-- 2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a
-- 2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting
 embedding_id: 2026-06-22-google-is-reportedly-building-a-trusted-directory-for-ai-age
 event_name: ''
 ---
@@ -39,5 +39,5 @@ WinBuzzer reported that Google is building a trusted directory for AI agents, a 
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a]] · [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]]
+**Related:** [[2026-08-18-google-open-sources-sam-sovereign-agent-mesh-for-zero-trust]] · [[2026-08-03-google-says-ai-agents-helped-fix-1-072-chrome-security-bugs]] · [[2026-08-03-google-says-ai-agents-helped-fix-more-than-1-000-chrome-secu]] · [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]]
 <!-- graph:end -->

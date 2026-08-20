@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
+- 2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su
+- 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
 - 2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
-- 2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou
-- 2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak
 embedding_id: 2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-center
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Morgan Stanley is pitching data center developer clients on tapping the leverage
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou]] · [[2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak]]
+**Related:** [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su]] · [[2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs]] · [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]]
 <!-- graph:end -->

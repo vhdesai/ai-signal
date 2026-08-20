@@ -23,7 +23,6 @@ related_article_ids:
 - 2026-08-17-the-download-dead-robot-friends-and-the-censorship-industria
 - 2026-04-04-research-finds-that-while-ai-companion-applications-provide
 - 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
-- 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
 embedding_id: 2026-08-17-what-happens-when-a-kid-s-robot-best-friend-dies
 event_name: ''
 ---
@@ -36,5 +35,5 @@ A reported feature on AI companion toys for neurodivergent children, examining w
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-17-the-download-dead-robot-friends-and-the-censorship-industria]] · [[2026-04-04-research-finds-that-while-ai-companion-applications-provide]] · [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]]
+**Related:** [[2026-08-17-the-download-dead-robot-friends-and-the-censorship-industria]] · [[2026-04-04-research-finds-that-while-ai-companion-applications-provide]] · [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]]
 <!-- graph:end -->

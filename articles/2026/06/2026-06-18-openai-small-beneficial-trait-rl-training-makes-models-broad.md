@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-18-openai-small-doses-of-beneficial-trait-training-make-models
 - 2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models
 - 2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g
 - 2026-08-04-saferai-report-open-weight-models-near-frontier-capability-s
-- 2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-with
 embedding_id: 2026-06-18-openai-small-beneficial-trait-rl-training-makes-models-broad
 event_name: ''
 ---
@@ -37,5 +37,5 @@ event_name: ''
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models]] · [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g]] · [[2026-08-04-saferai-report-open-weight-models-near-frontier-capability-s]] · [[2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-with]]
+**Related:** [[2026-06-18-openai-small-doses-of-beneficial-trait-training-make-models]] · [[2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models]] · [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g]] · [[2026-08-04-saferai-report-open-weight-models-near-frontier-capability-s]]
 <!-- graph:end -->

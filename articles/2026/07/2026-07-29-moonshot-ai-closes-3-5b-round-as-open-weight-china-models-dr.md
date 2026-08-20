@@ -25,10 +25,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes
-- 2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo
-- 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
-- 2026-07-28-moonshot-s-kimi-k3-opens-its-full-weights-with-a-revenue-cap
-- 2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m
+- 2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model
+- 2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops
 embedding_id: 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
 event_name: ''
 ---
@@ -42,5 +40,5 @@ Moonshot AI, the Alibaba-backed Beijing lab behind the open-weight Kimi K3 model
 
 **Entities:** [[Alibaba]] · [[DeepSeek]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes]] · [[2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-07-28-moonshot-s-kimi-k3-opens-its-full-weights-with-a-revenue-cap]] · [[2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m]]
+**Related:** [[2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes]] · [[2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model]] · [[2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops]]
 <!-- graph:end -->

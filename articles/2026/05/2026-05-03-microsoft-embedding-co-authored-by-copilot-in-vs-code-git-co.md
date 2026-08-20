@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou
+- 2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues
 - 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
 - 2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a
 - 2026-07-13-visual-studio-adds-copilot-usage-tracking-to-curb-bill-shock
-- 2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit
 embedding_id: 2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Reports surfaced this morning that Visual Studio Code has been silently adding a
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]] · [[2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a]] · [[2026-07-13-visual-studio-adds-copilot-usage-tracking-to-curb-bill-shock]] · [[2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit]]
+**Related:** [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]] · [[2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]] · [[2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a]] · [[2026-07-13-visual-studio-adds-copilot-usage-tracking-to-curb-bill-shock]]
 <!-- graph:end -->

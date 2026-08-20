@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt
 - 2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit
 - 2026-08-15-bond-traders-scrutinize-70b-off-balance-sheet-ai-credit-back
+- 2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch
 - 2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s
-- 2026-05-18-wsj-markets-p-m-tomorrow-and-tomorrow-wall-street-s-pre-nvid
 embedding_id: 2026-05-18-tactical-allocation-system-confirms-exit-signal-the-system-c
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Tactical Allocation Letter reported its rules-based system triggered a confi
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt]] · [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit]] · [[2026-08-15-bond-traders-scrutinize-70b-off-balance-sheet-ai-credit-back]] · [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s]] · [[2026-05-18-wsj-markets-p-m-tomorrow-and-tomorrow-wall-street-s-pre-nvid]]
+**Related:** [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt]] · [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit]] · [[2026-08-15-bond-traders-scrutinize-70b-off-balance-sheet-ai-credit-back]] · [[2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch]] · [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s]]
 <!-- graph:end -->

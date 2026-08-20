@@ -22,9 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of
+- 2026-06-20-foxconn-demonstrated-a-complete-physical-ai-stack-at-vivatec
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications
-- 2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve
-- 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
 embedding_id: 2026-06-01-nvidia-foxconn-and-taiwan-medical-centers-push-agentic-ai-in
 event_name: ''
 ---
@@ -38,5 +38,5 @@ NVIDIA, Foxconn and Taiwan medical centers announced work to bring agentic and p
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications]] · [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]]
+**Related:** [[2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of]] · [[2026-06-20-foxconn-demonstrated-a-complete-physical-ai-stack-at-vivatec]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications]]
 <!-- graph:end -->

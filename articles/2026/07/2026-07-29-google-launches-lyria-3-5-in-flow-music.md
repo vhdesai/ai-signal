@@ -25,7 +25,6 @@ related_article_ids:
 - 2026-06-05-stock-music-watermarks-surface-in-gemini-generated-songs
 - 2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat
 - 2026-05-27-stable-audio-3-0-continues-to-drive-developer-and-rights-hol
-- 2026-08-17-minimax-releases-minimax-music3-an-open-weights-five-minute
 embedding_id: 2026-07-29-google-launches-lyria-3-5-in-flow-music
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Google launched Lyria 3.5 in Flow Music, with improvements in musicality, lyrics
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-03-google-upgraded-vids-with-veo-3-1-video-generation-lyria-3-m]] · [[2026-06-05-stock-music-watermarks-surface-in-gemini-generated-songs]] · [[2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat]] · [[2026-05-27-stable-audio-3-0-continues-to-drive-developer-and-rights-hol]] · [[2026-08-17-minimax-releases-minimax-music3-an-open-weights-five-minute]]
+**Related:** [[2026-04-03-google-upgraded-vids-with-veo-3-1-video-generation-lyria-3-m]] · [[2026-06-05-stock-music-watermarks-surface-in-gemini-generated-songs]] · [[2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat]] · [[2026-05-27-stable-audio-3-0-continues-to-drive-developer-and-rights-hol]]
 <!-- graph:end -->

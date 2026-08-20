@@ -17,7 +17,7 @@ themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-14-applied-materials-posts-record-q3-revenue-of-9-12b-on-ai-chi
+canonical_article_id: 2026-08-14-applied-materials-posts-record-9-12b-quarter-on-ai-chip-dema
 related_article_ids: []
 embedding_id: 2026-08-14-applied-materials-posts-record-q3-revenue-of-9-12b-on-ai-dem
 event_name: ''
@@ -31,5 +31,5 @@ Applied Materials reported record third-quarter revenue of $9.12B, up roughly 25
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Canonical:** [[2026-08-14-applied-materials-posts-record-q3-revenue-of-9-12b-on-ai-chi]]
+**Canonical:** [[2026-08-14-applied-materials-posts-record-9-12b-quarter-on-ai-chip-dema]]
 <!-- graph:end -->

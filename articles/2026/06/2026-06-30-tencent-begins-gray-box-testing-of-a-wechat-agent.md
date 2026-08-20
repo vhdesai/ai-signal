@@ -22,11 +22,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-02-tencent-shares-surge-10-on-ai-agent-plans-for-wechat
+- 2026-06-02-tencent-shares-jump-10-on-ai-agent-plans-for-wechat
 - 2026-08-12-tencent-posts-rmb-204-8b-quarter-with-ai-boosted-marketing-a
 - 2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns
 - 2026-08-12-tencent-reports-q2-2026-results-touting-an-ai-empowered-pivo
-- 2026-08-12-tencent-posts-revenue-beat-on-ai-driven-ads-capex-surges-65
 embedding_id: 2026-06-30-tencent-begins-gray-box-testing-of-a-wechat-agent
 event_name: ''
 ---
@@ -40,5 +39,5 @@ Tencent shares rose about 2.3% on June 30 as gray-box testing began for a "WeCha
 
 **Entities:** [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-02-tencent-shares-surge-10-on-ai-agent-plans-for-wechat]] · [[2026-08-12-tencent-posts-rmb-204-8b-quarter-with-ai-boosted-marketing-a]] · [[2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns]] · [[2026-08-12-tencent-reports-q2-2026-results-touting-an-ai-empowered-pivo]] · [[2026-08-12-tencent-posts-revenue-beat-on-ai-driven-ads-capex-surges-65]]
+**Related:** [[2026-06-02-tencent-shares-jump-10-on-ai-agent-plans-for-wechat]] · [[2026-08-12-tencent-posts-rmb-204-8b-quarter-with-ai-boosted-marketing-a]] · [[2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns]] · [[2026-08-12-tencent-reports-q2-2026-results-touting-an-ai-empowered-pivo]]
 <!-- graph:end -->

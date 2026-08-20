@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b
+- 2026-08-02-academic-ai-sources-were-quiet-in-the-date-window
+- 2026-08-03-academic-ai-sources-were-quiet-in-the-date-window
 - event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o
-- 2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours
-- 2026-05-27-limited-new-university-announcements-within-the-strict-24-ho
 embedding_id: 2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university
 event_name: ''
 ---
@@ -36,5 +36,5 @@ No confirmed items in the last 24 hours. Thirteen university programs and five r
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b]] · [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o]] · [[2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours]] · [[2026-05-27-limited-new-university-announcements-within-the-strict-24-ho]]
+**Related:** [[2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b]] · [[2026-08-02-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-08-03-academic-ai-sources-were-quiet-in-the-date-window]] · [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o]]
 <!-- graph:end -->

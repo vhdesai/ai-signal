@@ -1,17 +1,18 @@
 ---
 article_id: 2026-08-07-new-mexico-court-orders-meta-to-fund-567m-child-safety-abate
-title: New Mexico Court Orders Meta to Fund $567M Child-Safety Abatement Program
+title: New Mexico court orders Meta to fund $567M child-safety abatement program
 date: '2026-08-07'
-source: '[CNBC]'
-url_original: https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html
-url_canonical: https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html
-url_status: found
-digest_source: digests\raw\2026-08-08_062022_Inbox_Daily AI News Digest - August 8,
-  2026.md
-content_hash: b39d95309192a4f3d428e20c150af5a791b93227f3374bba3112a1e8575d2385
+source: CNBC
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-08-08_065755_Final-Daily-AI-News-Digest.md
+content_hash: 4e89ceed9620220b6a69d1db7b2404fd03be2da492f69b829307e71090be86c0
 normalized_title_hash: 3b1741874ff2f563
-canonical_url_hash: db7b6d791f5a4132
-tags: []
+canonical_url_hash: ''
+tags:
+- New
+- Policy
 entities:
 - Meta
 themes:
@@ -24,9 +25,9 @@ embedding_id: 2026-08-07-new-mexico-court-orders-meta-to-fund-567m-child-safety-
 event_name: ''
 ---
 
-# New Mexico Court Orders Meta to Fund $567M Child-Safety Abatement Program
+# New Mexico court orders Meta to fund $567M child-safety abatement program
 
-A New Mexico court ordered Meta to establish a $567 million abatement fund tied to harms from minors' use of Facebook and Instagram, on top of $375 million in civil penalties already imposed. The ruling targeted Meta's own product design and business practices rather than user-generated content, sidestepping the liability shield platforms have historically relied on, and requires stronger age-assurance measures. Meta has said it will appeal. The design-liability theory is the precedent to watch — it is portable to other states and to AI-driven recommendation and companion products.
+A New Mexico court ordered Meta to establish a $567 million abatement fund tied to harms from minors' use of Facebook and Instagram, on top of $375 million in civil penalties already imposed. The ruling targets product design rather than user-generated content, sidestepping traditional platform liability shields. The design-liability theory is portable to other states and to AI-driven recommendation and companion products. URL: CNBC: Meta $567M child safety fund
 
 <!-- graph:start -->
 ## Connections

@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-15-osaurus-brings-unified-local-cloud-ai-model-management-to-ma
+- 2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi
+- 2026-07-21-apple-proposes-environment-free-synthetic-data-generation-fo
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference
 - 2026-03-28-apple-announced-it-will-open-the-siri-platform-to-third-part
-- 2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu
-- 2026-05-14-macos-privilege-escalation-vulnerability-discovered-using-ai
 embedding_id: 2026-05-15-a-new-macos-tool-called-ai-osaurus-launched-today-giving-use
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A new macOS tool called AI Osaurus launched today, giving users a unified interf
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-15-osaurus-brings-unified-local-cloud-ai-model-management-to-ma]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]] · [[2026-03-28-apple-announced-it-will-open-the-siri-platform-to-third-part]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[2026-05-14-macos-privilege-escalation-vulnerability-discovered-using-ai]]
+**Related:** [[2026-05-15-osaurus-brings-unified-local-cloud-ai-model-management-to-ma]] · [[2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi]] · [[2026-07-21-apple-proposes-environment-free-synthetic-data-generation-fo]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]] · [[2026-03-28-apple-announced-it-will-open-the-siri-platform-to-third-part]]
 <!-- graph:end -->

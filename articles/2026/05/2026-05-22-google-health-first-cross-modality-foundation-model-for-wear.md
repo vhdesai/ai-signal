@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda
+- 2026-08-15-ai-powered-wearables-race-to-become-health-intelligence-plat
+- 2026-08-14-samsung-health-ai-models-analyze-wearable-biosignal-data-on
+- 2026-08-14-samsung-s-xmae-and-himae-show-foundation-model-approaches-fo
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
-- 2026-08-11-google-demonstrates-amie-real-time-clinical-video-consultati
-- 2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by
-- 2026-07-29-mit-traces-physionet-s-evolution-into-a-global-standard-for
 embedding_id: 2026-05-22-google-health-first-cross-modality-foundation-model-for-wear
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A large multi-author paper from Google Health proposes a general intelligence an
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-08-11-google-demonstrates-amie-real-time-clinical-video-consultati]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]] · [[2026-07-29-mit-traces-physionet-s-evolution-into-a-global-standard-for]]
+**Related:** [[2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda]] · [[2026-08-15-ai-powered-wearables-race-to-become-health-intelligence-plat]] · [[2026-08-14-samsung-health-ai-models-analyze-wearable-biosignal-data-on]] · [[2026-08-14-samsung-s-xmae-and-himae-show-foundation-model-approaches-fo]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]]
 <!-- graph:end -->

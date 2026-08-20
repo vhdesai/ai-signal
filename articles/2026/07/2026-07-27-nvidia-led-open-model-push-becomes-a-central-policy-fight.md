@@ -27,7 +27,6 @@ related_article_ids:
 - 2026-04-06-axios-reported-that-meta-is-developing-open-source-variants
 - 2026-08-03-chinese-open-models-are-reshaping-the-competitive-math-for-a
 - 2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl
-- 2026-08-06-nvidia-assembles-new-ai-safety-engineering-team-doubles-down
 embedding_id: 2026-07-27-nvidia-led-open-model-push-becomes-a-central-policy-fight
 event_name: ''
 ---
@@ -41,5 +40,5 @@ Jensen Huang argued that the world needs both frontier closed models and frontie
 
 **Entities:** [[Meta]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at]] · [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]] · [[2026-08-03-chinese-open-models-are-reshaping-the-competitive-math-for-a]] · [[2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl]] · [[2026-08-06-nvidia-assembles-new-ai-safety-engineering-team-doubles-down]]
+**Related:** [[2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at]] · [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]] · [[2026-08-03-chinese-open-models-are-reshaping-the-competitive-math-for-a]] · [[2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl]]
 <!-- graph:end -->

@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
+- 2026-08-07-saas-companies-race-to-reinvent-as-ai-agents-replace-softwar
+- 2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi
 - 2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a
-- 2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com
-- 2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur
-- 2026-08-01-palantir-earnings-framed-as-a-bellwether-for-the-real-shape
+- 2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc
 embedding_id: 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Salesforce, Snowflake, and Asana earnings are being watched as a referendum on w
 
 **Entities:** [[Salesforce]] · [[Snowflake]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]] · [[2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur]] · [[2026-08-01-palantir-earnings-framed-as-a-bellwether-for-the-real-shape]]
+**Related:** [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-08-07-saas-companies-race-to-reinvent-as-ai-agents-replace-softwar]] · [[2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi]] · [[2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a]] · [[2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc]]
 <!-- graph:end -->

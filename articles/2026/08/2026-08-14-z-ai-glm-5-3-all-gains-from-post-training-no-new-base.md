@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-z-ai-ships-glm-5-3-all-gains-from-post-training-no-new-base
+- 2026-08-14-z-ai-ships-glm-5-3-with-no-new-base-model-all-gains-from-pos
 - 2026-08-14-z-ai-ships-glm-5-3-with-no-new-base-model
-- 2026-08-14-z-ai-releases-glm-5-3-with-near-frontier-cybersecurity-perfo
 - 2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie
-- 2026-08-14-z-ai-ships-glm-5-3-with-long-horizon-coding-and-frontier-cyb
+- 2026-08-14-z-ai-releases-glm-5-3-with-near-frontier-cybersecurity-perfo
 embedding_id: 2026-08-14-z-ai-glm-5-3-all-gains-from-post-training-no-new-base
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Reuses the 743B GLM-5.2 base; every gain from scaled post-training. Terminal-Ben
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-14-z-ai-ships-glm-5-3-all-gains-from-post-training-no-new-base]] · [[2026-08-14-z-ai-ships-glm-5-3-with-no-new-base-model]] · [[2026-08-14-z-ai-releases-glm-5-3-with-near-frontier-cybersecurity-perfo]] · [[2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie]] · [[2026-08-14-z-ai-ships-glm-5-3-with-long-horizon-coding-and-frontier-cyb]]
+**Related:** [[2026-08-14-z-ai-ships-glm-5-3-all-gains-from-post-training-no-new-base]] · [[2026-08-14-z-ai-ships-glm-5-3-with-no-new-base-model-all-gains-from-pos]] · [[2026-08-14-z-ai-ships-glm-5-3-with-no-new-base-model]] · [[2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie]] · [[2026-08-14-z-ai-releases-glm-5-3-with-near-frontier-cybersecurity-perfo]]
 <!-- graph:end -->

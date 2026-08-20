@@ -1,37 +1,37 @@
 ---
 article_id: 2026-08-17-ai-automation-startup-relay-shuts-down-team-joins-google-s-c
-title: AI automation startup Relay shuts down; team joins Google’s Chrome org
+title: AI Automation Startup Relay Shuts Down; Team Joins Google's Chrome Org
 date: '2026-08-17'
 source: TechCrunch
-url_original: null
-url_canonical: null
-url_status: missing
-digest_source: digests\raw\2026-08-18_060357_Inbox_Daily AI News Digest - August 18,
-  2026.md
-content_hash: a6e9a306131ac1a66fd058c5af86558961cbd818c722010ebdea5552b1ee7aa7
+url_original: https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/
+url_canonical: https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/
+url_status: found
+digest_source: digests\raw\2026-08-18_065100_Final-Daily-AI-News-Digest.md
+content_hash: 6027fc0644d858f6b8e77227f875288ef6456e6d722fe470de64f6c843b0aaa2
 normalized_title_hash: 8dbfaae6b8fd36ec
-canonical_url_hash: ''
-tags: []
+canonical_url_hash: 526cd2e1f6feaca6
+tags:
+- Consolidation
 entities:
 - Google
 themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-17-ai-automation-startup-relay-shuts-down-staff-join-google-s-c
+canonical_article_id: 2026-08-17-ai-automation-startup-relay-shuts-down-founder-rejoins-googl
 related_article_ids: []
 embedding_id: 2026-08-17-ai-automation-startup-relay-shuts-down-team-joins-google-s-c
 event_name: ''
 ---
 
-# AI automation startup Relay shuts down; team joins Google’s Chrome org
+# AI Automation Startup Relay Shuts Down; Team Joins Google's Chrome Org
 
-Relay, launched in 2021 as an AI-native alternative to Zapier, is winding down its service, with founder and CEO Jacob Bank returning to Google to lead product for Chrome. The move signals that browser-level agentic automation is being absorbed into platform incumbents rather than sustained as standalone workflow tooling. Enterprises evaluating independent automation vendors should weigh platform-absorption risk in procurement. techcrunch.com – Relay shuts down, staff joins Google’s Chrome team FUNDING
+Relay, launched in 2021 as an AI-native alternative to Zapier, is winding down its service, with founder Jacob Bank returning to Google to lead product for Chrome. The move signals that browser-level agentic automation is being absorbed into platform incumbents rather than sustained as standalone workflow tooling. Enterprises evaluating independent automation vendors should weigh platform-absorption risk in procurement decisions.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-08-17-ai-automation-startup-relay-shuts-down-staff-join-google-s-c]]
+**Canonical:** [[2026-08-17-ai-automation-startup-relay-shuts-down-founder-rejoins-googl]]
 <!-- graph:end -->

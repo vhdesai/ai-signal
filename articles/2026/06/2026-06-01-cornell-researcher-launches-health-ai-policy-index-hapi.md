@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare
 - 2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation
 - 2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
 - 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
-- 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
 embedding_id: 2026-06-01-cornell-researcher-launches-health-ai-policy-index-hapi
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A Cornell-affiliated researcher published the Health and AI Policy Index (HAPI),
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation]] · [[2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy]] · [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]]
+**Related:** [[2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare]] · [[2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation]] · [[2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy]]
 <!-- graph:end -->

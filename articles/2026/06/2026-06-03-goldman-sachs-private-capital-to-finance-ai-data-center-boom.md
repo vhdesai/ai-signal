@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-03-goldman-sachs-private-infrastructure-and-real-estate-capital
+- 2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su
+- 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
 - 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
 - 2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-center
-- 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
-- 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
 embedding_id: 2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Goldman Sachs projected that private infrastructure and real estate capital will
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-center]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]]
+**Related:** [[2026-06-03-goldman-sachs-private-infrastructure-and-real-estate-capital]] · [[2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su]] · [[2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-center]]
 <!-- graph:end -->

@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-z-ai-ships-glm-5-3-with-long-horizon-coding-and-frontier-cyb
 - 2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on
+- 2026-08-14-glm-5-3-arrives-with-stronger-long-horizon-coding-and-cyber
 - 2026-08-14-z-ai-releases-glm-5-3-with-near-frontier-cybersecurity-perfo
 - 2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie
-- 2026-04-03-zhipu-ai-s-glm-5v-turbo-a-multimodal-model-converting-design
 embedding_id: 2026-06-19-0g-private-computer-launches-glm-5-2-for-private-verifiable
 event_name: ''
 ---
@@ -37,5 +37,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-14-z-ai-ships-glm-5-3-with-long-horizon-coding-and-frontier-cyb]] · [[2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on]] · [[2026-08-14-z-ai-releases-glm-5-3-with-near-frontier-cybersecurity-perfo]] · [[2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie]] · [[2026-04-03-zhipu-ai-s-glm-5v-turbo-a-multimodal-model-converting-design]]
+**Related:** [[2026-08-14-z-ai-ships-glm-5-3-with-long-horizon-coding-and-frontier-cyb]] · [[2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on]] · [[2026-08-14-glm-5-3-arrives-with-stronger-long-horizon-coding-and-cyber]] · [[2026-08-14-z-ai-releases-glm-5-3-with-near-frontier-cybersecurity-perfo]] · [[2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie]]
 <!-- graph:end -->

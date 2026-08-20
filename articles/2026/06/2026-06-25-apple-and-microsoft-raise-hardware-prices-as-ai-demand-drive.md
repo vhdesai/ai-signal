@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-25-apple-and-microsoft-raise-prices-as-ai-driven-chip-demand-sp
 - 2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat
+- 2026-06-18-tim-cook-warns-ai-chip-demand-making-apple-price-increases-u
 - 2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con
 - 2026-08-11-memory-prices-quadruple-in-a-year-pushing-costs-into-consume
-- 2026-04-22-reuters-analysis-published-today-examines-how-apple-s-tightl
 embedding_id: 2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Apple said it will raise prices on certain MacBooks and iPads by up to $300, and
 
 **Entities:** [[Apple]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-25-apple-and-microsoft-raise-prices-as-ai-driven-chip-demand-sp]] · [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]] · [[2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con]] · [[2026-08-11-memory-prices-quadruple-in-a-year-pushing-costs-into-consume]] · [[2026-04-22-reuters-analysis-published-today-examines-how-apple-s-tightl]]
+**Related:** [[2026-06-25-apple-and-microsoft-raise-prices-as-ai-driven-chip-demand-sp]] · [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]] · [[2026-06-18-tim-cook-warns-ai-chip-demand-making-apple-price-increases-u]] · [[2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con]] · [[2026-08-11-memory-prices-quadruple-in-a-year-pushing-costs-into-consume]]
 <!-- graph:end -->

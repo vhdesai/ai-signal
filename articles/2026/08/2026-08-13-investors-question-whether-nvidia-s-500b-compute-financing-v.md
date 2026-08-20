@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-13-nvidia-s-500b-financing-vehicle-includes-gpu-residual-value
 - 2026-08-13-nvidia-s-new-500b-data-center-plan-carries-a-gpu-residual-va
 - 2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data
 - 2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz
-- 2026-08-13-nvidia-s-500b-financing-vehicle-includes-gpu-residual-value
-- 2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise
+- 2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba
 embedding_id: 2026-08-13-investors-question-whether-nvidia-s-500b-compute-financing-v
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Analysis of Nvidia's $500B third-party financing platform — built with Apollo,
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-13-nvidia-s-new-500b-data-center-plan-carries-a-gpu-residual-va]] · [[2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data]] · [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]] · [[2026-08-13-nvidia-s-500b-financing-vehicle-includes-gpu-residual-value]] · [[2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise]]
+**Related:** [[2026-08-13-nvidia-s-500b-financing-vehicle-includes-gpu-residual-value]] · [[2026-08-13-nvidia-s-new-500b-data-center-plan-carries-a-gpu-residual-va]] · [[2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data]] · [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]] · [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]]
 <!-- graph:end -->

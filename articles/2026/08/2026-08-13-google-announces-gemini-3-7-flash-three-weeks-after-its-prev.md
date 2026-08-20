@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-08-14-google-launches-gemini-3-7-flash-with-halved-intro-pricing
 - 2026-08-13-google-releases-gemini-3-7-flash-to-general-availability
 - 2026-08-13-google-ships-gemini-3-7-flash-with-a-50-introductory-price-c
-- 2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model
 embedding_id: 2026-08-13-google-announces-gemini-3-7-flash-three-weeks-after-its-prev
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Google released Gemini 3.7 Flash as a faster, cheaper workhorse tier tuned for c
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-14-google-launches-gemini-3-7-flash-with-halved-intro-pricing]] · [[2026-08-13-google-releases-gemini-3-7-flash-to-general-availability]] · [[2026-08-13-google-ships-gemini-3-7-flash-with-a-50-introductory-price-c]] · [[2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model]]
+**Related:** [[2026-08-14-google-launches-gemini-3-7-flash-with-halved-intro-pricing]] · [[2026-08-13-google-releases-gemini-3-7-flash-to-general-availability]] · [[2026-08-13-google-ships-gemini-3-7-flash-with-a-50-introductory-price-c]]
 <!-- graph:end -->

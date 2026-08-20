@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-11-ltx-2-5-launches-as-an-open-weights-nvidia-accelerated-world
 - 2026-08-11-ltx-2-5-open-weights-video-generation-10-second-clips-in-6-8
+- 2026-08-11-ltx-2-5-open-weights-video-generation-model-10-second-clips
 - 2026-08-11-ltx-2-5-launches-as-an-open-weights-video-model-generating-1
 - 2026-08-11-ltx-2-5-launches-as-open-weights-video-model-10-second-clips
-- 2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face
 embedding_id: 2026-08-11-ltx-2-5-launches-as-an-nvidia-accelerated-open-weights-world
 event_name: ''
 ---
@@ -40,5 +40,5 @@ LTX released LTX-2.5, an open-weights world model targeting video generation, re
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-11-ltx-2-5-launches-as-an-open-weights-nvidia-accelerated-world]] · [[2026-08-11-ltx-2-5-open-weights-video-generation-10-second-clips-in-6-8]] · [[2026-08-11-ltx-2-5-launches-as-an-open-weights-video-model-generating-1]] · [[2026-08-11-ltx-2-5-launches-as-open-weights-video-model-10-second-clips]] · [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]]
+**Related:** [[2026-08-11-ltx-2-5-launches-as-an-open-weights-nvidia-accelerated-world]] · [[2026-08-11-ltx-2-5-open-weights-video-generation-10-second-clips-in-6-8]] · [[2026-08-11-ltx-2-5-open-weights-video-generation-model-10-second-clips]] · [[2026-08-11-ltx-2-5-launches-as-an-open-weights-video-model-generating-1]] · [[2026-08-11-ltx-2-5-launches-as-open-weights-video-model-10-second-clips]]
 <!-- graph:end -->

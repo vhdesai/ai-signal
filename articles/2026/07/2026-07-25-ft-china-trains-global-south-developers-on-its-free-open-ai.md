@@ -21,10 +21,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom
 - 2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models
 - 2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on
 - 2026-08-03-chinese-open-models-are-reshaping-the-competitive-math-for-a
-- 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
 embedding_id: 2026-07-25-ft-china-trains-global-south-developers-on-its-free-open-ai
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Financial Times reports China is pairing wide release of open models (from D
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]] · [[2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on]] · [[2026-08-03-chinese-open-models-are-reshaping-the-competitive-math-for-a]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]]
+**Related:** [[2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom]] · [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]] · [[2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on]] · [[2026-08-03-chinese-open-models-are-reshaping-the-competitive-math-for-a]]
 <!-- graph:end -->

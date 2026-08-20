@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-12-white-house-authorizes-vetted-private-firms-to-run-offensive
 - 2026-08-13-white-house-opens-vetted-private-sector-cyber-operations-aga
+- 2026-08-17-trump-memo-lets-private-companies-hack-foreign-cybercriminal
 - 2026-05-10-white-house-mulls-executive-order-banning-private-sector-int
 - 2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego
-- 2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial
 embedding_id: 2026-08-12-white-house-authorizes-vetted-private-firms-for-offensive-cy
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A presidential memorandum directs the National Coordination Center to let vetted
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-08-12-white-house-authorizes-vetted-private-firms-to-run-offensive]] · [[2026-08-13-white-house-opens-vetted-private-sector-cyber-operations-aga]] · [[2026-05-10-white-house-mulls-executive-order-banning-private-sector-int]] · [[2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego]] · [[2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial]]
+**Related:** [[2026-08-12-white-house-authorizes-vetted-private-firms-to-run-offensive]] · [[2026-08-13-white-house-opens-vetted-private-sector-cyber-operations-aga]] · [[2026-08-17-trump-memo-lets-private-companies-hack-foreign-cybercriminal]] · [[2026-05-10-white-house-mulls-executive-order-banning-private-sector-int]] · [[2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego]]
 <!-- graph:end -->

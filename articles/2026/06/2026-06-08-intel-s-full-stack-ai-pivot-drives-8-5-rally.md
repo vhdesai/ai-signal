@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-24-intel-s-data-center-and-ai-unit-jumps-on-ai-customer-demand
 - 2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat
 - 2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar
 - 2026-05-14-cisco-shares-jump-18-as-cloud-providers-increase-ai-product
 - 2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex
-- 2026-08-10-intel-announces-15-billion-common-stock-offering-citing-ai-d
 embedding_id: 2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Intel shares climbed ~8.5% after three brokerages raised targets (Wells Fargo $1
 
 **Entities:** [[Intel]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat]] · [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]] · [[2026-05-14-cisco-shares-jump-18-as-cloud-providers-increase-ai-product]] · [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex]] · [[2026-08-10-intel-announces-15-billion-common-stock-offering-citing-ai-d]]
+**Related:** [[2026-07-24-intel-s-data-center-and-ai-unit-jumps-on-ai-customer-demand]] · [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat]] · [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]] · [[2026-05-14-cisco-shares-jump-18-as-cloud-providers-increase-ai-product]] · [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex]]
 <!-- graph:end -->

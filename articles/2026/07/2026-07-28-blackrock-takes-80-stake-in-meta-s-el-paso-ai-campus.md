@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da
+- 2026-07-29-meta-brings-blackrock-into-el-paso-data-center-through-14b-j
 - 2026-07-29-meta-brings-blackrock-into-el-paso-data-center-financing
 - 2026-07-29-meta-brings-blackrock-into-el-paso-data-center-in-5-9b-joint
-- 2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill
-- 2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb
+- 2026-07-21-blackrock-and-mgx-commit-5b-to-aligned-data-centers
 embedding_id: 2026-07-28-blackrock-takes-80-stake-in-meta-s-el-paso-ai-campus
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta and BlackRock formed a joint venture to own the gigawatt-scale data-center 
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da]] · [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-financing]] · [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-in-5-9b-joint]] · [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill]] · [[2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb]]
+**Related:** [[2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da]] · [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-through-14b-j]] · [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-financing]] · [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-in-5-9b-joint]] · [[2026-07-21-blackrock-and-mgx-commit-5b-to-aligned-data-centers]]
 <!-- graph:end -->

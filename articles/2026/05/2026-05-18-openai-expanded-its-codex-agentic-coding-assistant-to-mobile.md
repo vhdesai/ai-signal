@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-06-
 - 2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m
 - 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
-- 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
+- 2026-08-01-anthropic-published-a-project-glasswing-update-describing-cl
 embedding_id: 2026-05-18-openai-expanded-its-codex-agentic-coding-assistant-to-mobile
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI expanded its Codex agentic coding assistant to mobile platforms (May 15),
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-06-]] · [[2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m]] · [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]] · [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]]
+**Related:** [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-06-]] · [[2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m]] · [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]] · [[2026-08-01-anthropic-published-a-project-glasswing-update-describing-cl]]
 <!-- graph:end -->

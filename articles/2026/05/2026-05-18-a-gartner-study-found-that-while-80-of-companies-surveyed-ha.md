@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption
+- 2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo
 - 2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s
 - 2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal
 - 2026-05-14-the-ai-driven-restructuring-wave-has-eliminated-more-than-90
-- 2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo
 embedding_id: 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A Gartner study found that while 80% of companies surveyed had conducted AI-moti
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption]] · [[2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s]] · [[2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal]] · [[2026-05-14-the-ai-driven-restructuring-wave-has-eliminated-more-than-90]] · [[2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo]]
+**Related:** [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption]] · [[2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo]] · [[2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s]] · [[2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal]] · [[2026-05-14-the-ai-driven-restructuring-wave-has-eliminated-more-than-90]]
 <!-- graph:end -->

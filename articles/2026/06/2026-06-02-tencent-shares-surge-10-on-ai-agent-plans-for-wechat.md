@@ -18,14 +18,9 @@ entities:
 themes: []
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-06-30-tencent-begins-gray-box-testing-of-a-wechat-agent
-- 2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns
-- 2026-08-12-tencent-posts-ai-capex-surge-while-defending-returns
-- 2026-08-12-tencent-posts-rmb-204-8b-quarter-with-ai-boosted-marketing-a
-- 2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r
+dedupe_status: duplicate
+canonical_article_id: 2026-06-02-tencent-shares-jump-10-on-ai-agent-plans-for-wechat
+related_article_ids: []
 embedding_id: 2026-06-02-tencent-shares-surge-10-on-ai-agent-plans-for-wechat
 event_name: ''
 ---
@@ -39,5 +34,5 @@ Tencent shares rose over 10% after disclosing plans to test AI agent prototypes 
 
 **Entities:** [[Tencent]]
 **Topics:** [[Global AI Race]]
-**Related:** [[2026-06-30-tencent-begins-gray-box-testing-of-a-wechat-agent]] · [[2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns]] · [[2026-08-12-tencent-posts-ai-capex-surge-while-defending-returns]] · [[2026-08-12-tencent-posts-rmb-204-8b-quarter-with-ai-boosted-marketing-a]] · [[2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r]]
+**Canonical:** [[2026-06-02-tencent-shares-jump-10-on-ai-agent-plans-for-wechat]]
 <!-- graph:end -->

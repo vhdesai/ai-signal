@@ -22,8 +22,7 @@ related_article_ids:
 - 2026-08-05-windborne-raises-37-million-to-commercialize-ai-weather-fore
 - 2026-08-05-windborne-raises-37m-series-b-to-commercialize-ai-weather-fo
 - 2026-06-01-ai-weather-startup-windborne-out-forecasting-government-agen
-- 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
-- 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
+- 2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono
 embedding_id: 2026-08-05-windborne-raises-37-million-for-ai-weather-forecasting
 event_name: ''
 ---
@@ -36,5 +35,5 @@ WindBorne Systems raised a $37 million Series B to expand its AI weather-forecas
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-05-windborne-raises-37-million-to-commercialize-ai-weather-fore]] · [[2026-08-05-windborne-raises-37m-series-b-to-commercialize-ai-weather-fo]] · [[2026-06-01-ai-weather-startup-windborne-out-forecasting-government-agen]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]]
+**Related:** [[2026-08-05-windborne-raises-37-million-to-commercialize-ai-weather-fore]] · [[2026-08-05-windborne-raises-37m-series-b-to-commercialize-ai-weather-fo]] · [[2026-06-01-ai-weather-startup-windborne-out-forecasting-government-agen]] · [[2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono]]
 <!-- graph:end -->

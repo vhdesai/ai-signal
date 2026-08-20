@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-05-amazon-winds-down-mechanical-turk-closing-it-to-new-customer
 - 2026-07-06-products-amazon-winds-down-mechanical-turk-closing-it-to-new
 - 2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha
 - 2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as
 - 2026-08-08-shuts-down-creator-revenue-sharing-to-curb-ai-generated-spam
-- 2026-08-12-amazon-will-train-on-twitch-streamers-content-by-default-unl
 embedding_id: 2026-07-05-amazon-will-stop-accepting-new-customers-for-mechanical-turk
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Amazon will close Mechanical Turk to new customers on July 30, while continuing 
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-06-products-amazon-winds-down-mechanical-turk-closing-it-to-new]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as]] · [[2026-08-08-shuts-down-creator-revenue-sharing-to-curb-ai-generated-spam]] · [[2026-08-12-amazon-will-train-on-twitch-streamers-content-by-default-unl]]
+**Related:** [[2026-07-05-amazon-winds-down-mechanical-turk-closing-it-to-new-customer]] · [[2026-07-06-products-amazon-winds-down-mechanical-turk-closing-it-to-new]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as]] · [[2026-08-08-shuts-down-creator-revenue-sharing-to-curb-ai-generated-spam]]
 <!-- graph:end -->

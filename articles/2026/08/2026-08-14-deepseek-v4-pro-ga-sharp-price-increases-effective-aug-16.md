@@ -24,7 +24,6 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-14-deepseek-ships-v4-pro-and-raises-api-prices-sharply
 related_article_ids:
 - 2026-08-14-deepseek-launches-v4-pro-and-sharply-raises-api-prices
-- 2026-08-14-deepseek-moves-v4-pro-to-general-availability-with-steep-pri
 embedding_id: 2026-08-14-deepseek-v4-pro-ga-sharp-price-increases-effective-aug-16
 event_name: ''
 ---
@@ -39,5 +38,5 @@ V4 Pro goes GA with agentic capabilities and OpenAI API support. Flat-rate prici
 **Entities:** [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
 **Canonical:** [[2026-08-14-deepseek-ships-v4-pro-and-raises-api-prices-sharply]]
-**Related:** [[2026-08-14-deepseek-launches-v4-pro-and-sharply-raises-api-prices]] · [[2026-08-14-deepseek-moves-v4-pro-to-general-availability-with-steep-pri]]
+**Related:** [[2026-08-14-deepseek-launches-v4-pro-and-sharply-raises-api-prices]]
 <!-- graph:end -->

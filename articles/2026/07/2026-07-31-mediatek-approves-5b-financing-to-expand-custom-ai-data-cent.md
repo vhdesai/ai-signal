@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-31-mediatek-approves-up-to-5b-to-build-custom-ai-data-center-ch
 - 2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c
 - 2026-05-09-openai-s-18-billion-custom-ai-chip-initiative-with-broadcom
-- 2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target
-- 2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with
+- 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
+- 2026-08-14-nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-d
 embedding_id: 2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MediaTek's board approved a discretionary financing budget of up to $5B to fund 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-31-mediatek-approves-up-to-5b-to-build-custom-ai-data-center-ch]] · [[2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c]] · [[2026-05-09-openai-s-18-billion-custom-ai-chip-initiative-with-broadcom]] · [[2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]]
+**Related:** [[2026-07-31-mediatek-approves-up-to-5b-to-build-custom-ai-data-center-ch]] · [[2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c]] · [[2026-05-09-openai-s-18-billion-custom-ai-chip-initiative-with-broadcom]] · [[2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs]] · [[2026-08-14-nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-d]]
 <!-- graph:end -->

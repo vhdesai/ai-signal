@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
+- 2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of
 - 2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris
-- 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 - 2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight
 embedding_id: 2026-05-26-novarc-and-hanwha-ocean-sign-mou-on-ai-powered-shipbuilding
 event_name: ''
@@ -39,5 +39,5 @@ Industrial Physical AI company Novarc Technologies signed an MoU with shipbuilde
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight]]
+**Related:** [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of]] · [[2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris]] · [[2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight]]
 <!-- graph:end -->

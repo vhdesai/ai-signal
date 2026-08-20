@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-18-judges-and-lawyers-confront-ai-s-role-in-the-courts
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 - 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
 - 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
 - 2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva
-- 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 embedding_id: 2026-05-23-hkust-paper-llm-judge-agents-commit-serious-legal-errors-in
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Researchers at the Hong Kong University of Science and Technology (Zhou, Huang, 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]] · [[2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]]
+**Related:** [[2026-07-18-judges-and-lawyers-confront-ai-s-role-in-the-courts]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]] · [[2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva]]
 <!-- graph:end -->

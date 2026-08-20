@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-11-anthropic-and-openai-executives-engage-hindu-and-sikh-religi
+- 2026-07-15-anthropic-and-openai-split-on-how-ai-should-be-regulated
 - 2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
-- 2026-05-27-indian-government-infosys-tcs-join-anthropic-s-project-glass
+- 2026-08-03-california-agencies-expand-access-to-anthropic-claude-accord
 embedding_id: 2026-08-06-karnataka-explores-an-ai-governance-partnership-with-anthrop
 event_name: ''
 ---
@@ -38,5 +39,5 @@ India's Karnataka state is exploring a partnership with Anthropic to apply AI to
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-11-anthropic-and-openai-executives-engage-hindu-and-sikh-religi]] · [[2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-05-27-indian-government-infosys-tcs-join-anthropic-s-project-glass]]
+**Related:** [[2026-05-11-anthropic-and-openai-executives-engage-hindu-and-sikh-religi]] · [[2026-07-15-anthropic-and-openai-split-on-how-ai-should-be-regulated]] · [[2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-08-03-california-agencies-expand-access-to-anthropic-claude-accord]]
 <!-- graph:end -->

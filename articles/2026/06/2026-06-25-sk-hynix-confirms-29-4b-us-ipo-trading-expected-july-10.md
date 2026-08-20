@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of
 - 2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet
+- 2026-07-06-sk-hynix-launches-28b-us-share-sale-on-ai-memory-demand
 - 2026-07-10-sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-u-s-hist
 - 2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o
-- 2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing
 embedding_id: 2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Bloomberg reported SK Hynix is seeking to raise roughly $29.4B in a US listing, 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of]] · [[2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet]] · [[2026-07-10-sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-u-s-hist]] · [[2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o]] · [[2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing]]
+**Related:** [[2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of]] · [[2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet]] · [[2026-07-06-sk-hynix-launches-28b-us-share-sale-on-ai-memory-demand]] · [[2026-07-10-sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-u-s-hist]] · [[2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o]]
 <!-- graph:end -->

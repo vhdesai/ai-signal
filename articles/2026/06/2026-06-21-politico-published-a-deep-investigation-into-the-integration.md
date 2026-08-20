@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine
 - 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
+- 2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we
 - 2026-08-12-taiwan-s-nuclear-regulator-targeted-by-an-autonomous-ai-cybe
 - 2026-08-12-taiwan-s-nuclear-regulator-targeted-by-near-autonomous-ai-cy
-- 2026-08-13-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
 embedding_id: 2026-06-21-politico-published-a-deep-investigation-into-the-integration
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Politico published a deep investigation into the integration of AI into nuclear 
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-08-12-taiwan-s-nuclear-regulator-targeted-by-an-autonomous-ai-cybe]] · [[2026-08-12-taiwan-s-nuclear-regulator-targeted-by-near-autonomous-ai-cy]] · [[2026-08-13-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]]
+**Related:** [[2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we]] · [[2026-08-12-taiwan-s-nuclear-regulator-targeted-by-an-autonomous-ai-cybe]] · [[2026-08-12-taiwan-s-nuclear-regulator-targeted-by-near-autonomous-ai-cy]]
 <!-- graph:end -->

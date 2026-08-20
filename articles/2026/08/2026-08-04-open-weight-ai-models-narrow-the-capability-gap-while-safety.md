@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-04-open-weight-models-narrow-capability-gap-while-safety-contro
 - 2026-08-04-saferai-report-open-weight-models-near-frontier-capability-s
 - 2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g
-- 2026-08-14-dual-use-alarm-as-a-chinese-open-weights-model-rivals-us-fro
-- 2026-08-14-z-ai-glm-5-3-near-frontier-cyber-capability-under-gated-acce
+- 2026-07-20-openai-s-concern-over-open-weight-models-highlights-the-busi
+- 2026-07-26-silicon-valley-and-washington-continue-to-debate-chinese-ope
 embedding_id: 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TechCrunch reports on SaferAI evaluation findings that China's Z.ai GLM-5.2 open
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-04-open-weight-models-narrow-capability-gap-while-safety-contro]] · [[2026-08-04-saferai-report-open-weight-models-near-frontier-capability-s]] · [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g]] · [[2026-08-14-dual-use-alarm-as-a-chinese-open-weights-model-rivals-us-fro]] · [[2026-08-14-z-ai-glm-5-3-near-frontier-cyber-capability-under-gated-acce]]
+**Related:** [[2026-08-04-open-weight-models-narrow-capability-gap-while-safety-contro]] · [[2026-08-04-saferai-report-open-weight-models-near-frontier-capability-s]] · [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g]] · [[2026-07-20-openai-s-concern-over-open-weight-models-highlights-the-busi]] · [[2026-07-26-silicon-valley-and-washington-continue-to-debate-chinese-ope]]
 <!-- graph:end -->

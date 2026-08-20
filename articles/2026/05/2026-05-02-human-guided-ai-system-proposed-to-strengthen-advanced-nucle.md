@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations
 - 2026-08-12-taiwan-s-nuclear-regulator-targeted-by-near-autonomous-ai-cy
 - 2026-08-12-taiwan-s-nuclear-regulator-targeted-by-an-autonomous-ai-cybe
 - 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
-- 2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine
-- 2026-08-12-near-autonomous-ai-agents-attack-taiwan-s-nuclear-safety-age
+- 2026-08-18-ai-s-energy-appetite-sparks-activity-at-nuclear-research-fac
 embedding_id: 2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers published work proposing a human-in-the-loop AI framework for monito
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-12-taiwan-s-nuclear-regulator-targeted-by-near-autonomous-ai-cy]] · [[2026-08-12-taiwan-s-nuclear-regulator-targeted-by-an-autonomous-ai-cybe]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine]] · [[2026-08-12-near-autonomous-ai-agents-attack-taiwan-s-nuclear-safety-age]]
+**Related:** [[2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations]] · [[2026-08-12-taiwan-s-nuclear-regulator-targeted-by-near-autonomous-ai-cy]] · [[2026-08-12-taiwan-s-nuclear-regulator-targeted-by-an-autonomous-ai-cybe]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-08-18-ai-s-energy-appetite-sparks-activity-at-nuclear-research-fac]]
 <!-- graph:end -->

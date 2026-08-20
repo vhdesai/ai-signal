@@ -23,10 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d
+- 2026-08-01-pitchbook-saas-pocalypse-enters-second-phase-as-ai-agents-re
 - 2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets
-- 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
-- 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
-- 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
+- 2026-06-13-pitchbook-ai-ambitions-vs-exit-pressures
 embedding_id: 2026-08-14-pitchbook-maps-the-great-openai-exec-exodus
 event_name: ''
 ---
@@ -40,5 +39,5 @@ PitchBook has published a formal tracker mapping OpenAI’s ongoing leadership d
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d]] · [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]]
+**Related:** [[2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d]] · [[2026-08-01-pitchbook-saas-pocalypse-enters-second-phase-as-ai-agents-re]] · [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-06-13-pitchbook-ai-ambitions-vs-exit-pressures]]
 <!-- graph:end -->

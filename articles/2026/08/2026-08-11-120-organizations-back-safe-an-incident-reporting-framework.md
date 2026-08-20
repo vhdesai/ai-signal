@@ -18,12 +18,9 @@ entities:
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-11-nvidia-cisco-and-crowdstrike-back-safe-a-reporting-framework
-- 2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos
-- 2026-08-04-nvidia-and-open-secure-ai-alliance-propose-safe-cybersecurit
+dedupe_status: duplicate
+canonical_article_id: 2026-08-11-120-organizations-back-safe-a-reporting-framework-for-rogue
+related_article_ids: []
 embedding_id: 2026-08-11-120-organizations-back-safe-an-incident-reporting-framework
 event_name: ''
 ---
@@ -37,5 +34,5 @@ Nvidia, Cisco, CrowdStrike, and 120+ others back the Open Secure AI Alliance’s
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-11-nvidia-cisco-and-crowdstrike-back-safe-a-reporting-framework]] · [[2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos]] · [[2026-08-04-nvidia-and-open-secure-ai-alliance-propose-safe-cybersecurit]]
+**Canonical:** [[2026-08-11-120-organizations-back-safe-a-reporting-framework-for-rogue]]
 <!-- graph:end -->

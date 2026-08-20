@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne
 - 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
-- 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
+- 2026-08-02-nvidia-linked-ai-infrastructure-spending-fuels-circular-fina
 embedding_id: 2026-04-02-trending-nvidia-backs-marvell-nvlink-fusion-with-2b-commitme
 event_name: ''
 ---
@@ -39,5 +39,5 @@ event_name: ''
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne]] · [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
+**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne]] · [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-08-02-nvidia-linked-ai-infrastructure-spending-fuels-circular-fina]]
 <!-- graph:end -->

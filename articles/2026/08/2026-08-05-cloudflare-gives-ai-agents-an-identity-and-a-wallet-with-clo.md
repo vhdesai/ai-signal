@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
+- 2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme
 - 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
 - 2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m
-- 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
 embedding_id: 2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cloudflare introduced Wallets and cloudflare.pay, giving agents deployed on its 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]]
+**Related:** [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m]]
 <!-- graph:end -->

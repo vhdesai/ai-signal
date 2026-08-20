@@ -18,12 +18,9 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-30-google-says-ai-helped-chrome-fix-more-bugs-in-june-than-in-t
-- 2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope
-- 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
+dedupe_status: duplicate
+canonical_article_id: 2026-07-30-google-ai-helped-chrome-fix-1-072-security-bugs-in-two-relea
+related_article_ids: []
 embedding_id: 2026-07-30-google-says-ai-agents-found-and-fixed-1-072-chrome-security
 event_name: ''
 ---
@@ -37,5 +34,5 @@ AI agents helped Chrome fix 1,072 bugs across Chrome 149 and 150 — more than t
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-30-google-says-ai-helped-chrome-fix-more-bugs-in-june-than-in-t]] · [[2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]]
+**Canonical:** [[2026-07-30-google-ai-helped-chrome-fix-1-072-security-bugs-in-two-relea]]
 <!-- graph:end -->

@@ -24,7 +24,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-15-openai-s-enterprise-revenue-tops-consumer-for-the-first-time
 - 2026-08-14-openai-nears-ipo-at-a-40b-run-rate-amid-continued-executive
-- 2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo
 embedding_id: 2026-08-14-openai-passes-40b-run-rate-enterprise-now-larger-than-consum
 event_name: ''
 ---
@@ -38,5 +37,5 @@ OpenAI’s ARR hit $40B (~2× end-2025), with CFO Friar telling investors enterp
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-15-openai-s-enterprise-revenue-tops-consumer-for-the-first-time]] · [[2026-08-14-openai-nears-ipo-at-a-40b-run-rate-amid-continued-executive]] · [[2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo]]
+**Related:** [[2026-08-15-openai-s-enterprise-revenue-tops-consumer-for-the-first-time]] · [[2026-08-14-openai-nears-ipo-at-a-40b-run-rate-amid-continued-executive]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-12-cognition-reportedly-in-talks-to-raise-at-40b-valuation
 - 2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-- 2026-08-12-cognition-in-early-talks-at-a-40b-valuation
 - 2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua
+- 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
 embedding_id: 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A week-in-review of AI infrastructure flagged coding-agent startup Cognition rai
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-cognition-reportedly-in-talks-to-raise-at-40b-valuation]] · [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-12-cognition-in-early-talks-at-a-40b-valuation]] · [[2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua]]
+**Related:** [[2026-08-12-cognition-reportedly-in-talks-to-raise-at-40b-valuation]] · [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]]
 <!-- graph:end -->

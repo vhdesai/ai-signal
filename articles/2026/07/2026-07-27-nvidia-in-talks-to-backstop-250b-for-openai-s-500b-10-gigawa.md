@@ -22,9 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-nvidia-in-talks-to-guarantee-250b-in-financing-for-openai-s
-- 2026-07-26-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-data-center
-- 2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it
-- 2026-07-27-nvidia-in-talks-to-help-fund-a-500b-10-gigawatt-openai-data
+- 2026-07-27-nvidia-in-talks-to-guarantee-250b-financing-for-openai-s-pla
+- 2026-07-26-nvidia-weighs-250b-financing-backstop-for-openai-s-10-gigawa
 embedding_id: 2026-07-27-nvidia-in-talks-to-backstop-250b-for-openai-s-500b-10-gigawa
 event_name: ''
 ---
@@ -38,5 +37,5 @@ According to a Wall Street Journal report, Nvidia is in talks to guarantee rough
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-27-nvidia-in-talks-to-guarantee-250b-in-financing-for-openai-s]] · [[2026-07-26-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-data-center]] · [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]] · [[2026-07-27-nvidia-in-talks-to-help-fund-a-500b-10-gigawatt-openai-data]]
+**Related:** [[2026-07-27-nvidia-in-talks-to-guarantee-250b-in-financing-for-openai-s]] · [[2026-07-27-nvidia-in-talks-to-guarantee-250b-financing-for-openai-s-pla]] · [[2026-07-26-nvidia-weighs-250b-financing-backstop-for-openai-s-10-gigawa]]
 <!-- graph:end -->

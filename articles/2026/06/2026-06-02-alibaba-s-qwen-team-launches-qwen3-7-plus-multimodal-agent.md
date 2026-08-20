@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
 - 2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod
-- 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
+- 2026-07-19-alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multim
 embedding_id: 2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Alibaba released Qwen3.7-Plus on its Bailian platform, a multimodal agent model 
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]] · [[2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]]
+**Related:** [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]] · [[2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod]] · [[2026-07-19-alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multim]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits-driv
 - 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
 - 2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a
+- 2026-07-16-tsmc-plans-another-100-billion-u-s-investment-as-ai-demand-l
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
-- 2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi
-- 2026-08-12-ai-capex-could-hit-1-6-trillion-next-year-says-t-rowe-price
 embedding_id: 2026-05-23-moment-raises-78m-series-c-to-automate-fixed-income-and-equi
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Moment, which builds AI tooling for automating fixed-income and equities trading
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi]] · [[2026-08-12-ai-capex-could-hit-1-6-trillion-next-year-says-t-rowe-price]]
+**Related:** [[2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits-driv]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-07-16-tsmc-plans-another-100-billion-u-s-investment-as-ai-demand-l]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
 <!-- graph:end -->

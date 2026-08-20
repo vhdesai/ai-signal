@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-14-deepseek-launches-v4-pro-and-sharply-raises-api-prices
 - 2026-08-14-deepseek-v4-pro-price-increases-take-effect-today
 - 2026-08-14-deepseek-moves-v4-pro-to-general-availability-with-steep-pri
-- 2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent
+- 2026-08-14-deepseek-v4-pro-api-prices-rise-today-peak-off-peak-billing
 embedding_id: 2026-08-13-deepseek-launches-v4-pro-into-general-availability
 event_name: ''
 ---
@@ -41,5 +41,5 @@ DeepSeek moved its flagship V4-Pro out of preview into general availability acro
 
 **Entities:** [[Alibaba]] · [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-14-deepseek-ships-v4-pro-to-general-availability-with-api-price]] · [[2026-08-14-deepseek-launches-v4-pro-and-sharply-raises-api-prices]] · [[2026-08-14-deepseek-v4-pro-price-increases-take-effect-today]] · [[2026-08-14-deepseek-moves-v4-pro-to-general-availability-with-steep-pri]] · [[2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent]]
+**Related:** [[2026-08-14-deepseek-ships-v4-pro-to-general-availability-with-api-price]] · [[2026-08-14-deepseek-launches-v4-pro-and-sharply-raises-api-prices]] · [[2026-08-14-deepseek-v4-pro-price-increases-take-effect-today]] · [[2026-08-14-deepseek-moves-v4-pro-to-general-availability-with-steep-pri]] · [[2026-08-14-deepseek-v4-pro-api-prices-rise-today-peak-off-peak-billing]]
 <!-- graph:end -->

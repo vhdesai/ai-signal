@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat
 - 2026-07-08-hallusquatting-attack-can-trick-ai-coding-assistants-into-ru
 - 2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod
+- 2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn
 embedding_id: 2026-07-11-forget-typosquatting-slopsquatting-is-the-software-supply-ch
 event_name: ''
 ---
@@ -35,5 +36,5 @@ VentureBeat highlighted “slopsquatting,” a new software supply-chain threat 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat]] · [[2026-07-08-hallusquatting-attack-can-trick-ai-coding-assistants-into-ru]] · [[2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod]]
+**Related:** [[2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat]] · [[2026-07-08-hallusquatting-attack-can-trick-ai-coding-assistants-into-ru]] · [[2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod]] · [[2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn]]
 <!-- graph:end -->

@@ -21,6 +21,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-07-rippling-launches-ai-spend-console-after-internal-token-cost
 related_article_ids:
 - 2026-08-07-rippling-disclosed-it-was-burning-40-of-r-d-payroll-on-ai-to
+- 2026-06-10-ai-pilled-firms-now-spend-7-500-per-employee-per-month-on-ai
 embedding_id: 2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Rippling launched AI Spend Console after discovering that AI token usage was on 
 
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-08-07-rippling-launches-ai-spend-console-after-internal-token-cost]]
-**Related:** [[2026-08-07-rippling-disclosed-it-was-burning-40-of-r-d-payroll-on-ai-to]]
+**Related:** [[2026-08-07-rippling-disclosed-it-was-burning-40-of-r-d-payroll-on-ai-to]] · [[2026-06-10-ai-pilled-firms-now-spend-7-500-per-employee-per-month-on-ai]]
 <!-- graph:end -->

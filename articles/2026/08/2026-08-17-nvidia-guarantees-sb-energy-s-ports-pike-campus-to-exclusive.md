@@ -21,9 +21,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-17-openai-joins-the-ports-pike-project-targeting-roughly-8-gw-o
+- 2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai
 - 2026-08-17-nvidia-to-invest-1-5b-in-sb-energy-the-softbank-developer-be
-- 2026-08-17-nvidia-guarantees-105b-for-openai-s-ohio-8-gw-campus
 embedding_id: 2026-08-17-nvidia-guarantees-sb-energy-s-ports-pike-campus-to-exclusive
 event_name: ''
 ---
@@ -37,5 +36,5 @@ NVIDIA confirmed it will be the exclusive AI compute provider at PORTS-Pike and 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-17-openai-joins-the-ports-pike-project-targeting-roughly-8-gw-o]] · [[2026-08-17-nvidia-to-invest-1-5b-in-sb-energy-the-softbank-developer-be]] · [[2026-08-17-nvidia-guarantees-105b-for-openai-s-ohio-8-gw-campus]]
+**Related:** [[2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai]] · [[2026-08-17-nvidia-to-invest-1-5b-in-sb-energy-the-softbank-developer-be]]
 <!-- graph:end -->

@@ -20,10 +20,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-05-u-s-moves-to-ban-chinese-data-center-components
+- 2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device
 - 2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte
-- 2026-08-08-ai-data-center-imports-are-largely-exempt-from-us-tariffs
-- 2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv
-- 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
+- 2026-07-20-china-s-zhongji-innolight-targets-8b-hong-kong-listing-on-ai
 embedding_id: 2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The administration is drafting a ban on U.S. imports of new models of Chinese da
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte]] · [[2026-08-08-ai-data-center-imports-are-largely-exempt-from-us-tariffs]] · [[2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]]
+**Related:** [[2026-08-05-u-s-moves-to-ban-chinese-data-center-components]] · [[2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device]] · [[2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte]] · [[2026-07-20-china-s-zhongji-innolight-targets-8b-hong-kong-listing-on-ai]]
 <!-- graph:end -->

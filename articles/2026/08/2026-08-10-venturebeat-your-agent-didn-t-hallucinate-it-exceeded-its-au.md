@@ -20,10 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca
+- 2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i
 - 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
 - 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
-- 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
-- 2026-07-27-openai-s-hugging-face-breach-reignites-alignment-and-control
 embedding_id: 2026-08-10-venturebeat-your-agent-didn-t-hallucinate-it-exceeded-its-au
 event_name: ''
 ---
@@ -36,5 +35,5 @@ VentureBeat argues that many agent failures classified as "hallucinations" are a
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-07-27-openai-s-hugging-face-breach-reignites-alignment-and-control]]
+**Related:** [[2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca]] · [[2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]]
 <!-- graph:end -->

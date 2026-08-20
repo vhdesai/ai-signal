@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-google-s-gemini-3-5-flash-continues-broad-rollout-across-sea
 - 2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
-- 2026-05-26-all-85-on-demand-sessions-from-google-i-o-2026-are-now-avail
+- 2026-07-21-google-ships-three-new-gemini-flash-models-flagship-3-5-pro
 embedding_id: 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google I/O 2026 made Gemini 3.5 Flash generally available across Search, Chrome,
 
 **Entities:** [[Google]] · [[Samsung]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-gemini-3-5-flash-and-gemini-spark-continue-post-i-o-rollout]] · [[2026-05-19-google-s-gemini-3-5-flash-continues-broad-rollout-across-sea]] · [[2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform]] · [[2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl]] · [[2026-05-26-all-85-on-demand-sessions-from-google-i-o-2026-are-now-avail]]
+**Related:** [[2026-05-26-gemini-3-5-flash-and-gemini-spark-continue-post-i-o-rollout]] · [[2026-05-19-google-s-gemini-3-5-flash-continues-broad-rollout-across-sea]] · [[2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform]] · [[2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl]] · [[2026-07-21-google-ships-three-new-gemini-flash-models-flagship-3-5-pro]]
 <!-- graph:end -->

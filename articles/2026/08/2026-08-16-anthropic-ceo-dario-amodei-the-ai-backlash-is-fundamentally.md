@@ -21,13 +21,9 @@ themes:
 - model-capabilities
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-16-anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of
-- 2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return
-- 2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but
-- 2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits
+dedupe_status: duplicate
+canonical_article_id: 2026-08-16-amodei-calls-the-ai-backlash-fundamentally-a-crisis-of-trust
+related_article_ids: []
 embedding_id: 2026-08-16-anthropic-ceo-dario-amodei-the-ai-backlash-is-fundamentally
 event_name: ''
 ---
@@ -41,5 +37,5 @@ Amodei argued that public resistance to AI is less about the technology's capabi
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-16-anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of]] · [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return]] · [[2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but]] · [[2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits]]
+**Canonical:** [[2026-08-16-amodei-calls-the-ai-backlash-fundamentally-a-crisis-of-trust]]
 <!-- graph:end -->

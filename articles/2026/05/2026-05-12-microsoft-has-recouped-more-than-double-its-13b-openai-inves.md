@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce
 - 2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total
 - 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
 - 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
-- 2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope
-- 2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen
+- 2026-08-03-amazon-completes-another-35b-investment-in-openai
 embedding_id: 2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves
 event_name: ''
 ---
@@ -41,5 +41,5 @@ data shows Microsoft has earned more than $30B in revenue from OpenAI-tied servi
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total]] · [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]] · [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]] · [[2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope]] · [[2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen]]
+**Related:** [[2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce]] · [[2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total]] · [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]] · [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]] · [[2026-08-03-amazon-completes-another-35b-investment-in-openai]]
 <!-- graph:end -->

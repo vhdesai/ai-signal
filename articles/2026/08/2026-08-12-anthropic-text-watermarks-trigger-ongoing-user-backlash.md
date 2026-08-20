@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-anthropic-s-new-text-watermarks-trigger-user-backlash
 related_article_ids:
-- 2026-08-12-axios-reports-anthropic-s-text-watermarks-signal-a-new-front
+- 2026-08-12-anthropic-text-watermarks-trigger-user-backlash-over-transpa
 embedding_id: 2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Sharp objections from users who relied on Claude undetected in workplace and aca
 **Entities:** [[Anthropic]] · [[DeepSeek]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
 **Canonical:** [[2026-08-12-anthropic-s-new-text-watermarks-trigger-user-backlash]]
-**Related:** [[2026-08-12-axios-reports-anthropic-s-text-watermarks-signal-a-new-front]]
+**Related:** [[2026-08-12-anthropic-text-watermarks-trigger-user-backlash-over-transpa]]
 <!-- graph:end -->

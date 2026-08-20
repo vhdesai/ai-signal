@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-07-01-amazon-s-aws-commits-1-billion-to-a-new-forward-deployed-eng
 - 2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a
 - 2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0
+- 2026-08-03-amazon-completes-additional-35-billion-investment-in-openai
 embedding_id: 2026-07-09-aws-launches-forward-deployed-engineering-org-backed-by-1b-a
 event_name: ''
 ---
@@ -39,5 +40,5 @@ AWS stood up a Forward Deployed Engineering organization, backed by $1B, to embe
 
 **Entities:** [[Amazon]] · [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-aws-stands-up-a-forward-deployed-engineering-org-backed-by-a]] · [[2026-07-01-amazon-s-aws-commits-1-billion-to-a-new-forward-deployed-eng]] · [[2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a]] · [[2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0]]
+**Related:** [[2026-07-09-aws-stands-up-a-forward-deployed-engineering-org-backed-by-a]] · [[2026-07-01-amazon-s-aws-commits-1-billion-to-a-new-forward-deployed-eng]] · [[2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a]] · [[2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0]] · [[2026-08-03-amazon-completes-additional-35-billion-investment-in-openai]]
 <!-- graph:end -->

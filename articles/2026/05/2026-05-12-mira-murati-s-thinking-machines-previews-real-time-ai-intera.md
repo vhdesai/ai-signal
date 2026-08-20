@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa
 - 2026-05-14-mira-murati-s-thinking-machines-lab-introduces-tml-interacti
 - 2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl
-- 2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights
+- 2026-07-19-thinking-machines-leaned-on-chinese-open-source-technology-f
 embedding_id: 2026-05-12-mira-murati-s-thinking-machines-previews-real-time-ai-intera
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Thinking Machines Lab — founded by former OpenAI CTO Mira Murati — previewed
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa]] · [[2026-05-14-mira-murati-s-thinking-machines-lab-introduces-tml-interacti]] · [[2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl]] · [[2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights]]
+**Related:** [[2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa]] · [[2026-05-14-mira-murati-s-thinking-machines-lab-introduces-tml-interacti]] · [[2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl]] · [[2026-07-19-thinking-machines-leaned-on-chinese-open-source-technology-f]]
 <!-- graph:end -->

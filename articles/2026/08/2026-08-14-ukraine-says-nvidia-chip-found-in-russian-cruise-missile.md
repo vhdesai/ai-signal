@@ -25,7 +25,8 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-ukraine-says-an-nvidia-chip-was-found-inside-a-russian-cruis
-related_article_ids: []
+related_article_ids:
+- 2026-08-14-ukraine-says-nvidia-chip-found-inside-a-russian-cruise-missi
 embedding_id: 2026-08-14-ukraine-says-nvidia-chip-found-in-russian-cruise-missile
 event_name: ''
 ---
@@ -40,4 +41,5 @@ Ukrainian officials report recovering an Nvidia chip from a Russian cruise missi
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
 **Canonical:** [[2026-08-14-ukraine-says-an-nvidia-chip-was-found-inside-a-russian-cruis]]
+**Related:** [[2026-08-14-ukraine-says-nvidia-chip-found-inside-a-russian-cruise-missi]]
 <!-- graph:end -->

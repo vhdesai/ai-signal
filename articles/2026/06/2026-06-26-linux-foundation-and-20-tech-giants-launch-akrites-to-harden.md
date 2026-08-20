@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos
 - 2026-05-14-ai-tools-find-third-major-linux-kernel-vulnerability-in-two
 - 2026-05-16-security-researchers-leveraging-ai-tools-discovered-the-thir
+- 2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn
 - 2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent
-- 2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-source-pipelin
 embedding_id: 2026-06-26-linux-foundation-and-20-tech-giants-launch-akrites-to-harden
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Linux Foundation unveiled Akrites, a joint effort with roughly twenty tech c
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos]] · [[2026-05-14-ai-tools-find-third-major-linux-kernel-vulnerability-in-two]] · [[2026-05-16-security-researchers-leveraging-ai-tools-discovered-the-thir]] · [[2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent]] · [[2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-source-pipelin]]
+**Related:** [[2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos]] · [[2026-05-14-ai-tools-find-third-major-linux-kernel-vulnerability-in-two]] · [[2026-05-16-security-researchers-leveraging-ai-tools-discovered-the-thir]] · [[2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn]] · [[2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent]]
 <!-- graph:end -->

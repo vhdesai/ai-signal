@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative
 - 2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate
 - 2026-05-26-anthropic-mythos-project-glasswing-reframed-as-boardroom-gra
+- 2026-06-02-anthropic-expands-project-glasswing-to-200-partners-maps-yea
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
-- 2026-06-02-anthropic-expands-project-glasswing-to-150-organizations-acr
 embedding_id: 2026-05-20-ibm-expands-ai-security-portfolio-partners-with-anthropic-on
 event_name: ''
 ---
@@ -42,5 +42,5 @@ IBM announced an expansion of its enterprise security portfolio at Think 2026, i
 
 **Entities:** [[Anthropic]] · [[Arm]] · [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative]] · [[2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate]] · [[2026-05-26-anthropic-mythos-project-glasswing-reframed-as-boardroom-gra]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-06-02-anthropic-expands-project-glasswing-to-150-organizations-acr]]
+**Related:** [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative]] · [[2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate]] · [[2026-05-26-anthropic-mythos-project-glasswing-reframed-as-boardroom-gra]] · [[2026-06-02-anthropic-expands-project-glasswing-to-200-partners-maps-yea]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]]
 <!-- graph:end -->

@@ -23,10 +23,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops
 - 2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon
 - 2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
-- 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
+- 2026-07-19-china-s-moonshot-plans-a-30b-hong-kong-ipo-within-six-months
 embedding_id: 2026-07-31-moonshot-s-kimi-cluster-runs-on-20-000-nvidia-chips-leased-f
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Bloomberg reported that Moonshot AI built its flagship Kimi model on a cluster o
 
 **Entities:** [[Alibaba]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon]] · [[2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]]
+**Related:** [[2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops]] · [[2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon]] · [[2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-07-19-china-s-moonshot-plans-a-30b-hong-kong-ipo-within-six-months]]
 <!-- graph:end -->

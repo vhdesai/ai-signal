@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter
 - 2026-04-03-openai-rolled-out-codex-only-seats-with-pay-as-you-go-pricin
+- 2026-08-07-saas-companies-race-to-reinvent-as-ai-agents-replace-softwar
+- 2026-07-23-servicenow-invests-40-million-in-businessnext-to-deepen-bank
 - 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
-- 2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric
-- 2026-07-10-amazon-cto-says-enterprises-are-pivoting-to-cheaper-open-sou
 embedding_id: 2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin
 event_name: ''
 ---
@@ -38,5 +38,5 @@ ServiceNow CEO Bill McDermott told Business Insider the company has moved off pu
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter]] · [[2026-04-03-openai-rolled-out-codex-only-seats-with-pay-as-you-go-pricin]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric]] · [[2026-07-10-amazon-cto-says-enterprises-are-pivoting-to-cheaper-open-sou]]
+**Related:** [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter]] · [[2026-04-03-openai-rolled-out-codex-only-seats-with-pay-as-you-go-pricin]] · [[2026-08-07-saas-companies-race-to-reinvent-as-ai-agents-replace-softwar]] · [[2026-07-23-servicenow-invests-40-million-in-businessnext-to-deepen-bank]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]]
 <!-- graph:end -->

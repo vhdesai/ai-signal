@@ -3,15 +3,16 @@ article_id: 2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-for-on-device-vision-languag
 title: Liquid AI Ships LFM2.5-VL-3B for On-Device Vision-Language Workloads
 date: '2026-08-12'
 source: Unite.AI
-url_original: null
-url_canonical: null
-url_status: missing
-digest_source: digests\raw\2026-08-13_063725_Inbox_Daily AI News Digest - August 13,
-  2026.md
-content_hash: ba0df183dd330a24d92d51459053f884f3fba573dfdff432c2cf8db88c7550c5
+url_original: https://www.unite.ai/liquid-ai-ships-lfm2-5-vl-3b-for-faster-vision-language-ai-on-the-edge/
+url_canonical: https://www.unite.ai/liquid-ai-ships-lfm2-5-vl-3b-for-faster-vision-language-ai-on-the-edge/
+url_status: found
+digest_source: digests\raw\2026-08-13_065057_Final-Daily-AI-News-Digest.md
+content_hash: 8b9fce96cb75e009baddae45558166aeb2c27543ee748d378cbc15c17be5eecc
 normalized_title_hash: ff41f1916b86d6bf
-canonical_url_hash: ''
-tags: []
+canonical_url_hash: 73323dc702e80edb
+tags:
+- New
+- Edge ai
 entities: []
 themes:
 - model-capabilities
@@ -25,7 +26,7 @@ event_name: ''
 
 # Liquid AI Ships LFM2.5-VL-3B for On-Device Vision-Language Workloads
 
-Liquid AI released LFM2.5-VL-3B, a 3.1-billion-parameter open-weight vision-language model designed to run on phones, laptops, and single GPUs rather than in a data center. The release continues a clear 2026 pattern of capable multimodal models moving to the edge, which changes the cost and data-residency calculus for enterprise deployments. Latency-sensitive and privacy-constrained use cases are the immediate beneficiaries. https://www.unite.ai/liquid-ai-ships-lfm2-5-vl-3b-for-faster-vision-language-ai-on-the-edge/
+Liquid AI released LFM2.5-VL-3B, a 3.1B-parameter open-weight vision-language model designed to run on phones, laptops, and single GPUs. Adds visual grounding, screen understanding, and function calling. The release continues a clear 2026 pattern: capable multimodal models moving to the edge, changing the cost and data-residency calculus for enterprise deployments.
 
 <!-- graph:start -->
 ## Connections

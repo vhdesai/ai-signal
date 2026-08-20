@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
 - 2026-08-06-nvidia-still-dominates-ai-chips-but-bofa-sees-amd-closing-in
 - 2026-08-02-nvidia-still-on-pace-for-1-trillion-in-blackwell-and-rubin-c
+- 2026-08-18-nvidia-s-ai-moat-is-shifting-from-chips-to-capital
 - 2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv
-- 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
 embedding_id: 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Despite controlling an estimated 81% of the AI data center chip market, Nvidia f
 
 **Entities:** [[Amazon]] · [[Arm]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-08-06-nvidia-still-dominates-ai-chips-but-bofa-sees-amd-closing-in]] · [[2026-08-02-nvidia-still-on-pace-for-1-trillion-in-blackwell-and-rubin-c]] · [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]] · [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]]
+**Related:** [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-08-06-nvidia-still-dominates-ai-chips-but-bofa-sees-amd-closing-in]] · [[2026-08-02-nvidia-still-on-pace-for-1-trillion-in-blackwell-and-rubin-c]] · [[2026-08-18-nvidia-s-ai-moat-is-shifting-from-chips-to-capital]] · [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]]
 <!-- graph:end -->

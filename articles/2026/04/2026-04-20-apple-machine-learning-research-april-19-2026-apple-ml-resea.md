@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-20-apple-ml-research-april-17-2026-apple-announced-a-slate-of-a
+- 2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text
 - 2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu
 - 2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea
-- 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
-- 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
+- 2026-07-30-apple-applies-network-science-to-umap-s-internal-k-nearest-n
 embedding_id: 2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple Machine Learning Research • April 19, 2026 Apple ML Research published S
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-20-apple-ml-research-april-17-2026-apple-announced-a-slate-of-a]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]]
+**Related:** [[2026-04-20-apple-ml-research-april-17-2026-apple-announced-a-slate-of-a]] · [[2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea]] · [[2026-07-30-apple-applies-network-science-to-umap-s-internal-k-nearest-n]]
 <!-- graph:end -->

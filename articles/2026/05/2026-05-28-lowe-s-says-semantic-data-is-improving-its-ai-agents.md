@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-lowe-s-says-semantic-data-is-materially-boosting-its-ai-agen
 - 2026-07-07-intelligence-is-free-now-what-data-systems-for-of-and-by-age
+- 2026-07-16-bair-argues-data-systems-must-be-redesigned-for-agentic-work
 - 2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate
-- 2026-07-26-abbel-belief-state-memory-for-llm-agents
-- 2026-07-07-bair-intelligence-is-free-now-what-data-systems-for-of-and-b
+- 2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers
 embedding_id: 2026-05-28-lowe-s-says-semantic-data-is-improving-its-ai-agents
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Lowe’s is using semantic data to improve the performance of its AI agents, acc
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-lowe-s-says-semantic-data-is-materially-boosting-its-ai-agen]] · [[2026-07-07-intelligence-is-free-now-what-data-systems-for-of-and-by-age]] · [[2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate]] · [[2026-07-26-abbel-belief-state-memory-for-llm-agents]] · [[2026-07-07-bair-intelligence-is-free-now-what-data-systems-for-of-and-b]]
+**Related:** [[2026-05-28-lowe-s-says-semantic-data-is-materially-boosting-its-ai-agen]] · [[2026-07-07-intelligence-is-free-now-what-data-systems-for-of-and-by-age]] · [[2026-07-16-bair-argues-data-systems-must-be-redesigned-for-agentic-work]] · [[2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate]] · [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]]
 <!-- graph:end -->

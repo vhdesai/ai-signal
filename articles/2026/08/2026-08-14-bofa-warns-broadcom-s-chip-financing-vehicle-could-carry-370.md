@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-15-bond-traders-scrutinize-70b-of-off-balance-sheet-ai-credit-b
 - 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
 - 2026-08-16-bond-traders-flag-70b-of-off-balance-sheet-backstops-behind
 - 2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin
-- 2026-05-09-openai-s-18-billion-custom-ai-chip-initiative-with-broadcom
 embedding_id: 2026-08-14-bofa-warns-broadcom-s-chip-financing-vehicle-could-carry-370
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Bank of America's Tom Curcuruto estimated Broadcom's chip-financing vehicle coul
 
 **Entities:** [[AMD]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]] · [[2026-08-16-bond-traders-flag-70b-of-off-balance-sheet-backstops-behind]] · [[2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin]] · [[2026-05-09-openai-s-18-billion-custom-ai-chip-initiative-with-broadcom]]
+**Related:** [[2026-08-15-bond-traders-scrutinize-70b-of-off-balance-sheet-ai-credit-b]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]] · [[2026-08-16-bond-traders-flag-70b-of-off-balance-sheet-backstops-behind]] · [[2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin]]
 <!-- graph:end -->

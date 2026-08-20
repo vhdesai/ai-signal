@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
 - 2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform
+- 2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme
 - 2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc
-- 2026-08-06-aws-integrates-openai-codex-and-anthropic-claude-code-with-t
 embedding_id: 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
 event_name: ''
 ---
@@ -42,5 +42,5 @@ OpenAI and Amazon Web Services announced a stateful runtime integration that ena
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]] · [[2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc]] · [[2026-08-06-aws-integrates-openai-codex-and-anthropic-claude-code-with-t]]
+**Related:** [[2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]] · [[2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme]] · [[2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc]]
 <!-- graph:end -->

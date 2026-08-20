@@ -2,17 +2,17 @@
 article_id: 2026-08-10-microsoft-ships-multi-tenant-agent-management-in-public-prev
 title: Microsoft ships multi-tenant agent management in public preview
 date: '2026-08-10'
-source: Microsoft Partner Center Announcements
-url_original: https://learn.microsoft.com/en-us/partner-center/announcements/2026-august
-url_canonical: https://learn.microsoft.com/en-us/partner-center/announcements/2026-august
-url_status: found
-digest_source: digests\raw\2026-08-11_061444_Inbox_Daily AI News Digest - August 11,
-  2026.md
-content_hash: 613c32a7e9691539f655b41b92efb368fa7d15d647883bfc007bba2e46ac8545
+source: Microsoft Partner Center
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-08-11_065757_Final-Daily-AI-News-Digest.md
+content_hash: f936fbaf8adfb2e9daf437851f5907833f00be2900624ba50b2a7d041378ae3c
 normalized_title_hash: 19521ac76a562e13
-canonical_url_hash: e9fbd96b3a69c41a
+canonical_url_hash: ''
 tags:
 - New
+- Microsoft
 entities:
 - Microsoft
 themes:
@@ -31,7 +31,7 @@ event_name: ''
 
 # Microsoft ships multi-tenant agent management in public preview
 
-Microsoft opened public preview of multi-tenant agent management in the Microsoft 365 admin center. Administrators can view and manage agents across all tenants they govern from a single experience, with consolidated inventory, cross-tenant install and block controls, and risk insights. An Agent 365 license is required. This addresses a growing governance gap as agent sprawl accelerates across managed estates.
+Microsoft opened public preview of multi-tenant agent management in the Microsoft 365 admin center. Administrators can view and manage agents across all governed tenants from a single experience, with consolidated inventory, cross-tenant install/block controls, and risk insights. Agent 365 license required. Addresses a growing governance gap as agent sprawl accelerates. URL: Microsoft Learn: Partner Center August 2026
 
 <!-- graph:start -->
 ## Connections

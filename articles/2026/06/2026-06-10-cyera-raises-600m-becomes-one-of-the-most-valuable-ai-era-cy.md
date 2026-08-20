@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-06-10-cyera-raises-600m-becomes-top-ai-era-cybersecurity-startup
 - 2026-07-28-cyera-to-acquire-oasis-security-for-1b-to-secure-proliferati
 - 2026-07-29-cyera-agrees-to-acquire-oasis-security-for-1-billion-to-secu
-- 2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic
-- 2026-06-23-sovereign-ai-startup-dream-raises-260m-at-a-3b-valuation
+- 2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha
+- 2026-08-03-horizon3-raises-250m-as-autonomous-pentesting-demand-rises
 embedding_id: 2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The NYT reported that Cyera raised $600 million, positioning it as one of the mo
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-10-cyera-raises-600m-becomes-top-ai-era-cybersecurity-startup]] · [[2026-07-28-cyera-to-acquire-oasis-security-for-1b-to-secure-proliferati]] · [[2026-07-29-cyera-agrees-to-acquire-oasis-security-for-1-billion-to-secu]] · [[2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic]] · [[2026-06-23-sovereign-ai-startup-dream-raises-260m-at-a-3b-valuation]]
+**Related:** [[2026-06-10-cyera-raises-600m-becomes-top-ai-era-cybersecurity-startup]] · [[2026-07-28-cyera-to-acquire-oasis-security-for-1b-to-secure-proliferati]] · [[2026-07-29-cyera-agrees-to-acquire-oasis-security-for-1-billion-to-secu]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha]] · [[2026-08-03-horizon3-raises-250m-as-autonomous-pentesting-demand-rises]]
 <!-- graph:end -->

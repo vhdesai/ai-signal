@@ -23,7 +23,8 @@ related_article_ids:
 - 2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild
 - 2026-07-13-google-targets-july-17-general-availability-for-gemini-3-5-p
 - 2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc
-- 2026-08-07-google-confirms-gemini-4-supersedes-the-delayed-gemini-3-5-p
+- 2026-07-15-google-delays-gemini-3-5-pro-again-as-reliability-pressure-r
+- 2026-07-15-google-delays-gemini-3-5-pro-a-third-time-gemini-3-6-flash-f
 embedding_id: 2026-07-13-google-s-gemini-3-5-pro-targets-july-17-ga-but-every-spec-re
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Google DeepMind is reportedly targeting July 17 for general availability of Gemi
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild]] · [[2026-07-13-google-targets-july-17-general-availability-for-gemini-3-5-p]] · [[2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc]] · [[2026-08-07-google-confirms-gemini-4-supersedes-the-delayed-gemini-3-5-p]]
+**Related:** [[2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild]] · [[2026-07-13-google-targets-july-17-general-availability-for-gemini-3-5-p]] · [[2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc]] · [[2026-07-15-google-delays-gemini-3-5-pro-again-as-reliability-pressure-r]] · [[2026-07-15-google-delays-gemini-3-5-pro-a-third-time-gemini-3-6-flash-f]]
 <!-- graph:end -->

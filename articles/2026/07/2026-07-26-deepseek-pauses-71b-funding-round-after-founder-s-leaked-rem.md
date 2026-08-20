@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-26-deepseek-pauses-roughly-71b-funding-round-after-founder-rema
+- 2026-07-26-deepseek-pauses-second-funding-round-after-founder-s-leaked
 - 2026-07-25-deepseek-pauses-a-1-4b-raise-after-founder-s-leaked-remarks
 - 2026-07-26-deepseek-pauses-its-1-4b-funding-round-after-founder-s-leake
-- 2026-07-26-deepseek-pauses-second-funding-round-after-founder-s-leaked
 - 2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val
 embedding_id: 2026-07-26-deepseek-pauses-71b-funding-round-after-founder-s-leaked-rem
 event_name: ''
@@ -41,5 +41,5 @@ Suspended a raise near 480B yuan (~$71B) after viral posts attributed comments t
 
 **Entities:** [[DeepSeek]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-26-deepseek-pauses-roughly-71b-funding-round-after-founder-rema]] · [[2026-07-25-deepseek-pauses-a-1-4b-raise-after-founder-s-leaked-remarks]] · [[2026-07-26-deepseek-pauses-its-1-4b-funding-round-after-founder-s-leake]] · [[2026-07-26-deepseek-pauses-second-funding-round-after-founder-s-leaked]] · [[2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val]]
+**Related:** [[2026-07-26-deepseek-pauses-roughly-71b-funding-round-after-founder-rema]] · [[2026-07-26-deepseek-pauses-second-funding-round-after-founder-s-leaked]] · [[2026-07-25-deepseek-pauses-a-1-4b-raise-after-founder-s-leaked-remarks]] · [[2026-07-26-deepseek-pauses-its-1-4b-funding-round-after-founder-s-leake]] · [[2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val]]
 <!-- graph:end -->

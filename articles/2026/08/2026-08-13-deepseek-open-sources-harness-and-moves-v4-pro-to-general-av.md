@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-deepseek-open-sources-harness-a-modular-agent-runtime
+- 2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-agent-framewor
 - 2026-08-14-deepseek-open-sources-deepseek-harness-a-modular-agent-runti
 - 2026-08-13-deepseek-ships-v4-pro-open-source-harness-then-raises-prices
-- 2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-then-raises-ap
-- 2026-08-14-deepseek-launches-v4-pro-and-sharply-raises-api-prices
+- 2026-08-17-deepseek-releases-deepseek-harness-developer-preview
 embedding_id: 2026-08-13-deepseek-open-sources-harness-and-moves-v4-pro-to-general-av
 event_name: ''
 ---
@@ -40,5 +40,5 @@ DeepSeek released Harness, an open-source modular agent runtime in which models,
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-14-deepseek-open-sources-harness-a-modular-agent-runtime]] · [[2026-08-14-deepseek-open-sources-deepseek-harness-a-modular-agent-runti]] · [[2026-08-13-deepseek-ships-v4-pro-open-source-harness-then-raises-prices]] · [[2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-then-raises-ap]] · [[2026-08-14-deepseek-launches-v4-pro-and-sharply-raises-api-prices]]
+**Related:** [[2026-08-14-deepseek-open-sources-harness-a-modular-agent-runtime]] · [[2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-agent-framewor]] · [[2026-08-14-deepseek-open-sources-deepseek-harness-a-modular-agent-runti]] · [[2026-08-13-deepseek-ships-v4-pro-open-source-harness-then-raises-prices]] · [[2026-08-17-deepseek-releases-deepseek-harness-developer-preview]]
 <!-- graph:end -->

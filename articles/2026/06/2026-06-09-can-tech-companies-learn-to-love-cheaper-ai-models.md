@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model
 - 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
+- 2026-07-17-ai-commoditization-pressures-proprietary-model-economics
 - 2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man
-- 2026-05-25-twilio-s-ai-momentum-comes-with-margin-and-contract-tradeoff
-- 2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel
+- 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
 embedding_id: 2026-06-09-can-tech-companies-learn-to-love-cheaper-ai-models
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TechCrunch examined whether the industry can adapt to a future where cheaper mod
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man]] · [[2026-05-25-twilio-s-ai-momentum-comes-with-margin-and-contract-tradeoff]] · [[2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel]]
+**Related:** [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-07-17-ai-commoditization-pressures-proprietary-model-economics]] · [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man]] · [[2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending]]
 <!-- graph:end -->

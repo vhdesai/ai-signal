@@ -25,10 +25,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-18-alibaba-s-qwen-passes-3-billion-downloads-ahead-of-meta-and
+- 2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
 - 2026-07-13-alibaba-shares-surge-as-qwen-tops-global-downloads-chinese-a
-- 2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context
-- 2026-08-17-alibaba-answers-meta-s-ai-challenge-with-new-laptop-ready-mo
 embedding_id: 2026-08-15-alibaba-s-qwen-crosses-3-billion-downloads-overtaking-meta-a
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Alibaba says the Qwen family has surpassed 3 billion cumulative downloads in six
 
 **Entities:** [[Alibaba]] · [[Google]] · [[Meta]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]] · [[2026-07-13-alibaba-shares-surge-as-qwen-tops-global-downloads-chinese-a]] · [[2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context]] · [[2026-08-17-alibaba-answers-meta-s-ai-challenge-with-new-laptop-ready-mo]]
+**Related:** [[2026-08-18-alibaba-s-qwen-passes-3-billion-downloads-ahead-of-meta-and]] · [[2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]] · [[2026-07-13-alibaba-shares-surge-as-qwen-tops-global-downloads-chinese-a]]
 <!-- graph:end -->

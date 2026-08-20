@@ -21,9 +21,10 @@ themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-17-nvidia-guarantees-105b-for-openai-s-ohio-8-gw-campus
+canonical_article_id: 2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai
 related_article_ids:
-- 2026-08-17-nvidia-to-invest-1-5b-in-sb-energy-the-softbank-developer-be
+- 2026-08-17-nvidia-invests-1-5b-in-softbank-data-center-developer-offers
+- 2026-08-17-openai-locks-in-10-gigawatt-ohio-data-center-lease-with-nvid
 embedding_id: 2026-08-17-nvidia-guarantees-105b-in-leases-and-invests-1-5b-in-sb-ener
 event_name: ''
 ---
@@ -37,6 +38,6 @@ Nvidia is backing roughly $105 billion of lease financing and taking a $1.5 bill
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Canonical:** [[2026-08-17-nvidia-guarantees-105b-for-openai-s-ohio-8-gw-campus]]
-**Related:** [[2026-08-17-nvidia-to-invest-1-5b-in-sb-energy-the-softbank-developer-be]]
+**Canonical:** [[2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai]]
+**Related:** [[2026-08-17-nvidia-invests-1-5b-in-softbank-data-center-developer-offers]] · [[2026-08-17-openai-locks-in-10-gigawatt-ohio-data-center-lease-with-nvid]]
 <!-- graph:end -->

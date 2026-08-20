@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h
 - 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
 - 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
-- 2026-08-05-white-house-to-exempt-open-weight-models-from-voluntary-ai-s
+- 2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we
 embedding_id: 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Joint testing by the Financial Times and AI safety group Alice found that safety
 
 **Entities:** [[Google]] · [[Meta]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company]] · [[2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk]] · [[2026-08-05-white-house-to-exempt-open-weight-models-from-voluntary-ai-s]]
+**Related:** [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company]] · [[2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk]] · [[2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we]]
 <!-- graph:end -->

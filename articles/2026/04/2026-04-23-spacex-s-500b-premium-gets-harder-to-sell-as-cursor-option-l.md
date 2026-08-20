@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr
 - 2026-08-15-spacex-completes-60b-all-stock-acquisition-of-ai-coding-star
 - 2026-08-14-spacex-xai-completes-acquisition-of-cursor-at-a-reported-60b
-- 2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere
+- 2026-08-07-spacex-nears-completion-of-60b-cursor-acquisition
 embedding_id: 2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l
 event_name: ''
 ---
@@ -38,5 +38,5 @@ PitchBook’s Franco Granda argues SpaceX’s rumored $2T IPO target implies a ~
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-08-15-spacex-completes-60b-all-stock-acquisition-of-ai-coding-star]] · [[2026-08-14-spacex-xai-completes-acquisition-of-cursor-at-a-reported-60b]] · [[2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere]]
+**Related:** [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-08-15-spacex-completes-60b-all-stock-acquisition-of-ai-coding-star]] · [[2026-08-14-spacex-xai-completes-acquisition-of-cursor-at-a-reported-60b]] · [[2026-08-07-spacex-nears-completion-of-60b-cursor-acquisition]]
 <!-- graph:end -->

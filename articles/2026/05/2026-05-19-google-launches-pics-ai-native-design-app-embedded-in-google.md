@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i
 - 2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
 - 2026-07-30-nano-banana-image-generation-comes-to-google-earth
-- 2026-07-31-google-pulls-google-earth-s-ai-image-tool-one-day-after-laun
 embedding_id: 2026-05-19-google-launches-pics-ai-native-design-app-embedded-in-google
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google announced Pics, a new AI design app powered by the Nano Banana 2 image mo
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag]] · [[2026-07-30-nano-banana-image-generation-comes-to-google-earth]] · [[2026-07-31-google-pulls-google-earth-s-ai-image-tool-one-day-after-laun]]
+**Related:** [[2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i]] · [[2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag]] · [[2026-07-30-nano-banana-image-generation-comes-to-google-earth]]
 <!-- graph:end -->

@@ -25,7 +25,6 @@ related_article_ids:
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 - 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
-- 2026-04-23-apple-ml-research-releases-pararnn-large-scale-parallelizabl
 embedding_id: 2026-08-06-apple-proposes-locking-pretrained-weights-to-limit-unauthori
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Apple researchers published DLR-Lock, a method that replaces pretrained MLP laye
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]] · [[2026-04-23-apple-ml-research-releases-pararnn-large-scale-parallelizabl]]
+**Related:** [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 - 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
-- 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
+- 2026-07-20-openai-outlines-safety-and-alignment-concerns-for-long-horiz
 embedding_id: 2026-04-10-practitioners-who-deployed-agentic-ai-pipelines-in-late-2025
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Practitioners who deployed agentic AI pipelines in late 2025 and Q1 2026 are now
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]]
+**Related:** [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-07-20-openai-outlines-safety-and-alignment-concerns-for-long-horiz]]
 <!-- graph:end -->

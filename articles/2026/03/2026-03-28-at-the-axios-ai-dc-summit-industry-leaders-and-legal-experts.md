@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
+- 2026-07-17-ai-policy-groups-and-researchers-converge-on-regulation-effo
+- 2026-08-16-ai-super-pacs-move-into-state-races-ahead-of-the-midterms
 - 2026-05-27-how-to-close-ai-s-accountability-loophole
-- 2026-06-21-six-months-after-president-trump-warned-states-not-to-regula
-- 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
 embedding_id: 2026-03-28-at-the-axios-ai-dc-summit-industry-leaders-and-legal-experts
 event_name: ''
 ---
@@ -37,5 +37,5 @@ At the Axios AI+DC Summit, industry leaders and legal experts concluded that AI 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-05-27-how-to-close-ai-s-accountability-loophole]] · [[2026-06-21-six-months-after-president-trump-warned-states-not-to-regula]] · [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]]
+**Related:** [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-07-17-ai-policy-groups-and-researchers-converge-on-regulation-effo]] · [[2026-08-16-ai-super-pacs-move-into-state-races-ahead-of-the-midterms]] · [[2026-05-27-how-to-close-ai-s-accountability-loophole]]
 <!-- graph:end -->

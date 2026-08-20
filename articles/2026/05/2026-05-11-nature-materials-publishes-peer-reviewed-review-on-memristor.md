@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-08-tetramem-and-sk-hynix-demonstrate-memristor-based-in-memory
 - 2026-07-08-tetramem-and-sk-hynix-demonstrate-a-memristor-based-in-memor
 - 2026-04-02-research-breakthroughs
+- 2026-07-06-reinforcement-learning-steers-generative-models-toward-novel
 - 2026-05-17-academic-research-arxiv-will-impose-1-year-bans-for-ai-gener
-- 2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co
 embedding_id: 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Nature Materials published a comprehensive review article on memristor-based ana
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-08-tetramem-and-sk-hynix-demonstrate-memristor-based-in-memory]] · [[2026-07-08-tetramem-and-sk-hynix-demonstrate-a-memristor-based-in-memor]] · [[2026-04-02-research-breakthroughs]] · [[2026-05-17-academic-research-arxiv-will-impose-1-year-bans-for-ai-gener]] · [[2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co]]
+**Related:** [[2026-07-08-tetramem-and-sk-hynix-demonstrate-memristor-based-in-memory]] · [[2026-07-08-tetramem-and-sk-hynix-demonstrate-a-memristor-based-in-memor]] · [[2026-04-02-research-breakthroughs]] · [[2026-07-06-reinforcement-learning-steers-generative-models-toward-novel]] · [[2026-05-17-academic-research-arxiv-will-impose-1-year-bans-for-ai-gener]]
 <!-- graph:end -->

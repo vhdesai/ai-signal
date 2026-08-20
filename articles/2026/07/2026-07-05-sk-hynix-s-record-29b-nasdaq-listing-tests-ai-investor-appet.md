@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory
 - 2026-07-11-sk-hynix-surges-13-in-nasdaq-debut
 - 2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10
-- 2026-07-09-sk-hynix-prices-u-s-listing-at-149-share-debuts-on-nasdaq
+- 2026-07-06-sk-hynix-launches-28b-us-share-sale-on-ai-memory-demand
 embedding_id: 2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet
 event_name: ''
 ---
@@ -41,5 +41,5 @@ SK Hynix's roughly $29 billion Nasdaq listing is set to begin trading around Jul
 
 **Entities:** [[Google]] · [[NVIDIA]] · [[Samsung]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of]] · [[2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory]] · [[2026-07-11-sk-hynix-surges-13-in-nasdaq-debut]] · [[2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10]] · [[2026-07-09-sk-hynix-prices-u-s-listing-at-149-share-debuts-on-nasdaq]]
+**Related:** [[2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of]] · [[2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory]] · [[2026-07-11-sk-hynix-surges-13-in-nasdaq-debut]] · [[2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10]] · [[2026-07-06-sk-hynix-launches-28b-us-share-sale-on-ai-memory-demand]]
 <!-- graph:end -->

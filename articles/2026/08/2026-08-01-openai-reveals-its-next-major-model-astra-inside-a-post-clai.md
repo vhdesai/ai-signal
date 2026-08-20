@@ -18,14 +18,9 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-03-openai-s-unreleased-astra-model-reports-advances-on-10-long
-- 2026-08-09-openai-pauses-astra-after-it-nears-first-ever-critical-cyber
-- 2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput
-- 2026-08-10-openai-tightens-controls-on-its-astra-model-over-cybersecuri
-- 2026-08-09-openai-pauses-astra-after-first-ever-critical-cyber-classifi
+dedupe_status: duplicate
+canonical_article_id: 2026-08-01-openai-quietly-reveals-astra-through-a-mathematics-research
+related_article_ids: []
 embedding_id: 2026-08-01-openai-reveals-its-next-major-model-astra-inside-a-post-clai
 event_name: ''
 ---
@@ -39,5 +34,5 @@ OpenAI used a blog post about solving ten long-standing mathematics problems to 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-openai-s-unreleased-astra-model-reports-advances-on-10-long]] · [[2026-08-09-openai-pauses-astra-after-it-nears-first-ever-critical-cyber]] · [[2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput]] · [[2026-08-10-openai-tightens-controls-on-its-astra-model-over-cybersecuri]] · [[2026-08-09-openai-pauses-astra-after-first-ever-critical-cyber-classifi]]
+**Canonical:** [[2026-08-01-openai-quietly-reveals-astra-through-a-mathematics-research]]
 <!-- graph:end -->

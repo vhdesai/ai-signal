@@ -20,11 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-15-google-delays-gemini-3-5-pro-a-third-time-gemini-3-6-flash-f
 - 2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5
 - 2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild
 - 2026-07-13-google-s-gemini-3-5-pro-targets-july-17-ga-but-every-spec-re
-- 2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc
-- 2026-05-22-google-launched-gemini-3-5-flash-at-google-i-o-2026-immediat
 embedding_id: 2026-08-07-google-confirms-gemini-4-supersedes-the-delayed-gemini-3-5-p
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Google DeepMind confirmed development of Gemini 4 and effectively retired the re
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5]] · [[2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild]] · [[2026-07-13-google-s-gemini-3-5-pro-targets-july-17-ga-but-every-spec-re]] · [[2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc]] · [[2026-05-22-google-launched-gemini-3-5-flash-at-google-i-o-2026-immediat]]
+**Related:** [[2026-07-15-google-delays-gemini-3-5-pro-a-third-time-gemini-3-6-flash-f]] · [[2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5]] · [[2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild]] · [[2026-07-13-google-s-gemini-3-5-pro-targets-july-17-ga-but-every-spec-re]]
 <!-- graph:end -->

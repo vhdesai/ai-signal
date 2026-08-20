@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
+- 2026-08-14-hyperscaler-natural-gas-bets-may-create-new-ai-data-center-c
 - 2026-07-10-microsoft-s-carbon-emissions-rose-25-as-the-ai-data-center-b
 - 2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env
-- 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
 embedding_id: 2026-08-13-ai-may-extend-fossil-fuel-dominance-more-than-data-center-po
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A new Nature paper argues AI’s most profound energy impact won’t come from d
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-07-10-microsoft-s-carbon-emissions-rose-25-as-the-ai-data-center-b]] · [[2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]]
+**Related:** [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-08-14-hyperscaler-natural-gas-bets-may-create-new-ai-data-center-c]] · [[2026-07-10-microsoft-s-carbon-emissions-rose-25-as-the-ai-data-center-b]] · [[2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env]]
 <!-- graph:end -->

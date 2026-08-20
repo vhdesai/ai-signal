@@ -25,8 +25,8 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context
 - 2026-08-17-alibaba-answers-meta-s-ai-challenge-with-new-laptop-ready-mo
+- 2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context
 - 2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built
 - 2026-08-15-alibaba-s-qwen-crosses-3-billion-downloads-overtaking-meta-a
 - 2026-08-10-meta-releases-muse-glimmer-and-commits-to-open-weighting-its
@@ -43,5 +43,5 @@ Open-weight competition intensified: GLM-5.1 (Z.ai) briefly held the #1 SWE-benc
 
 **Entities:** [[Alibaba]] · [[Meta]] · [[Mistral]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context]] · [[2026-08-17-alibaba-answers-meta-s-ai-challenge-with-new-laptop-ready-mo]] · [[2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built]] · [[2026-08-15-alibaba-s-qwen-crosses-3-billion-downloads-overtaking-meta-a]] · [[2026-08-10-meta-releases-muse-glimmer-and-commits-to-open-weighting-its]]
+**Related:** [[2026-08-17-alibaba-answers-meta-s-ai-challenge-with-new-laptop-ready-mo]] · [[2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context]] · [[2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built]] · [[2026-08-15-alibaba-s-qwen-crosses-3-billion-downloads-overtaking-meta-a]] · [[2026-08-10-meta-releases-muse-glimmer-and-commits-to-open-weighting-its]]
 <!-- graph:end -->

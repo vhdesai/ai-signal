@@ -26,11 +26,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-01-amd-releases-instella-moe-16b-a3b-a-fully-open-moe-model-tra
 - 2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts
 - 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
 - 2026-08-01-amd-ships-instella-moe-16b-a3b-a-fully-open-mixture-of-exper
 - 2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri
-- 2026-06-22-moonmath-ai-open-sources-hip-attention-kernel-for-amd-mi300x
 embedding_id: 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Researchers released ZAYA1-8B, a strong open reasoning model whose defining char
 
 **Entities:** [[AMD]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-08-01-amd-ships-instella-moe-16b-a3b-a-fully-open-mixture-of-exper]] · [[2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri]] · [[2026-06-22-moonmath-ai-open-sources-hip-attention-kernel-for-amd-mi300x]]
+**Related:** [[2026-08-01-amd-releases-instella-moe-16b-a3b-a-fully-open-moe-model-tra]] · [[2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-08-01-amd-ships-instella-moe-16b-a3b-a-fully-open-mixture-of-exper]] · [[2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri]]
 <!-- graph:end -->

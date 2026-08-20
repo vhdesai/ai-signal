@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
+- 2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in
+- 2026-07-24-nvidia-and-south-korea-outline-full-stack-ai-collaboration
 - 2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration
-- 2026-07-25-nvidia-locks-down-sk-hynix-memory-supply-in-a-deal-potential
-- 2026-07-28-nvidia-sk-group-500b-partnership-is-mostly-recycled-announce
 embedding_id: 2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con
 event_name: ''
 ---
@@ -38,5 +38,5 @@ During Huang's Seoul visit, Nvidia announced a multi-year memory partnership wit
 
 **Entities:** [[NVIDIA]] · [[Scale AI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration]] · [[2026-07-25-nvidia-locks-down-sk-hynix-memory-supply-in-a-deal-potential]] · [[2026-07-28-nvidia-sk-group-500b-partnership-is-mostly-recycled-announce]]
+**Related:** [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in]] · [[2026-07-24-nvidia-and-south-korea-outline-full-stack-ai-collaboration]] · [[2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration]]
 <!-- graph:end -->

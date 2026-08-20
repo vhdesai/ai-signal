@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-10-house-democrats-press-for-openai-and-anthropic-ceos-to-testi
 - 2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age
 - 2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo
-- 2026-07-25-openai-containment-breach-continues-to-drive-incident-respon
+- 2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft
 embedding_id: 2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A group of House Democrats is asking leaders of Anthropic, OpenAI and other AI c
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-10-house-democrats-press-speaker-johnson-to-compel-ai-ceo-testi]] · [[2026-08-10-house-democrats-press-for-openai-and-anthropic-ceos-to-testi]] · [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age]] · [[2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo]] · [[2026-07-25-openai-containment-breach-continues-to-drive-incident-respon]]
+**Related:** [[2026-08-10-house-democrats-press-speaker-johnson-to-compel-ai-ceo-testi]] · [[2026-08-10-house-democrats-press-for-openai-and-anthropic-ceos-to-testi]] · [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age]] · [[2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo]] · [[2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft]]
 <!-- graph:end -->

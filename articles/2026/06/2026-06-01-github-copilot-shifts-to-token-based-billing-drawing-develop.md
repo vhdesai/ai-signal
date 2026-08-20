@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust
 - 2026-07-13-visual-studio-adds-real-time-copilot-usage-tracking-to-curb
+- 2026-06-19-microsoft-confirmed-two-significant-copilot-cowork-changes-i
 - 2026-07-13-visual-studio-adds-copilot-usage-tracking-to-curb-bill-shock
-- 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
 embedding_id: 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft is moving GitHub Copilot toward usage/token-based pricing, prompting d
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-07-13-visual-studio-adds-real-time-copilot-usage-tracking-to-curb]] · [[2026-07-13-visual-studio-adds-copilot-usage-tracking-to-curb-bill-shock]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]]
+**Related:** [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-07-13-visual-studio-adds-real-time-copilot-usage-tracking-to-curb]] · [[2026-06-19-microsoft-confirmed-two-significant-copilot-cowork-changes-i]] · [[2026-07-13-visual-studio-adds-copilot-usage-tracking-to-curb-bill-shock]]
 <!-- graph:end -->

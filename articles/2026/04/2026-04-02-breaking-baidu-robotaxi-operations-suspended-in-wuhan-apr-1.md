@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-04-02-baidu-s-apollo-go-robotaxi-fleet-suffered-a-suspected-system
 - 2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani
 - 2026-07-28-baidu-and-lyft-enter-london-s-robotaxi-market-as-testing-beg
+- 2026-07-30-beijing-threatens-retaliation-over-u-s-proposal-to-block-chi
 - 2026-04-22-major-analysis-published-today-in-the-bulletin-of-the-atomic
-- 2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as
 embedding_id: 2026-04-02-breaking-baidu-robotaxi-operations-suspended-in-wuhan-apr-1
 event_name: ''
 ---
@@ -39,5 +39,5 @@ event_name: ''
 
 **Entities:** [[Baidu]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-02-baidu-s-apollo-go-robotaxi-fleet-suffered-a-suspected-system]] · [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani]] · [[2026-07-28-baidu-and-lyft-enter-london-s-robotaxi-market-as-testing-beg]] · [[2026-04-22-major-analysis-published-today-in-the-bulletin-of-the-atomic]] · [[2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as]]
+**Related:** [[2026-04-02-baidu-s-apollo-go-robotaxi-fleet-suffered-a-suspected-system]] · [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani]] · [[2026-07-28-baidu-and-lyft-enter-london-s-robotaxi-market-as-testing-beg]] · [[2026-07-30-beijing-threatens-retaliation-over-u-s-proposal-to-block-chi]] · [[2026-04-22-major-analysis-published-today-in-the-bulletin-of-the-atomic]]
 <!-- graph:end -->

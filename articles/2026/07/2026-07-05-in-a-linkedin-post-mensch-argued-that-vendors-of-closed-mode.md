@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s
 - 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
 - 2026-07-27-satya-nadella-warns-companies-not-to-trust-one-ai-for-everyt
+- 2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
-- 2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model
 embedding_id: 2026-07-05-in-a-linkedin-post-mensch-argued-that-vendors-of-closed-mode
 event_name: ''
 ---
@@ -40,5 +40,5 @@ In a LinkedIn post, Mensch argued that vendors of closed models accumulate custo
 
 **Entities:** [[Mistral]] · [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-07-27-satya-nadella-warns-companies-not-to-trust-one-ai-for-everyt]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model]]
+**Related:** [[2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-07-27-satya-nadella-warns-companies-not-to-trust-one-ai-for-everyt]] · [[2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]]
 <!-- graph:end -->

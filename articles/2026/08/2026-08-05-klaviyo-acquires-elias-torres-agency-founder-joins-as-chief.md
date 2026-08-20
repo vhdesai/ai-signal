@@ -20,9 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-05-klaviyo-acquires-elias-torres-ai-customer-success-startup-na
+- 2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by
 - 2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an
 - 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
-- 2026-08-05-google-deepmind-leadership-overhaul-hassabis-steps-back-as-c
+- 2026-06-10-warner-music-acquires-ai-attribution-startup-sureel-ai
 embedding_id: 2026-08-05-klaviyo-acquires-elias-torres-agency-founder-joins-as-chief
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Marketing automation vendor Klaviyo has acquired Agency, the AI startup founded 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-klaviyo-acquires-elias-torres-ai-customer-success-startup-na]] · [[2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-08-05-google-deepmind-leadership-overhaul-hassabis-steps-back-as-c]]
+**Related:** [[2026-08-05-klaviyo-acquires-elias-torres-ai-customer-success-startup-na]] · [[2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by]] · [[2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-06-10-warner-music-acquires-ai-attribution-startup-sureel-ai]]
 <!-- graph:end -->

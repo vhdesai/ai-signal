@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-04-mit-uses-battleship-to-show-small-models-can-out-question-la
+- 2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d
 - 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-07-09-mit-s-floatform-swarm-of-small-robotic-boats-self-assembles
-- 2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate
 embedding_id: 2026-06-05-mit-uses-battleship-to-show-small-models-can-out-question-la
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT used a Battleship-style task to show that improving question-planning lets a
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-04-mit-uses-battleship-to-show-small-models-can-out-question-la]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-07-09-mit-s-floatform-swarm-of-small-robotic-boats-self-assembles]] · [[2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate]]
+**Related:** [[2026-06-04-mit-uses-battleship-to-show-small-models-can-out-question-la]] · [[2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-07-09-mit-s-floatform-swarm-of-small-robotic-boats-self-assembles]]
 <!-- graph:end -->

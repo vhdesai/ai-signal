@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i
+- 2026-06-02-jensen-huang-says-marvell-could-be-the-next-trillion-dollar
+- 2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil
 - 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
-- 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
-- 2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data
 embedding_id: 2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Marvell's expanding role in hyperscaler ASIC programs is being framed as the mos
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data]]
+**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-06-02-jensen-huang-says-marvell-could-be-the-next-trillion-dollar]] · [[2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]]
 <!-- graph:end -->

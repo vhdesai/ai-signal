@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-11-deezer-launches-free-ai-music-detector-across-streaming-plat
 - 2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re
 - 2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and
 - 2026-08-04-spotify-adds-merlin-to-its-ai-remix-and-covers-effort-follow
-- 2026-05-03-ai-generated-actors-and-scripts-now-ineligible-for-oscar-nom
 embedding_id: 2026-08-11-spotify-will-label-ai-persona-profiles-and-exclude-them-from
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Spotify will tag AI-generated artist profiles with "AI Persona" badges starting 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re]] · [[2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and]] · [[2026-08-04-spotify-adds-merlin-to-its-ai-remix-and-covers-effort-follow]] · [[2026-05-03-ai-generated-actors-and-scripts-now-ineligible-for-oscar-nom]]
+**Related:** [[2026-06-11-deezer-launches-free-ai-music-detector-across-streaming-plat]] · [[2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re]] · [[2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and]] · [[2026-08-04-spotify-adds-merlin-to-its-ai-remix-and-covers-effort-follow]]
 <!-- graph:end -->

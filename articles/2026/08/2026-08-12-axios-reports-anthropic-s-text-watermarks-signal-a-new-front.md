@@ -18,8 +18,11 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash
-related_article_ids: []
+canonical_article_id: 2026-08-12-anthropic-text-watermarks-trigger-user-backlash-over-transpa
+related_article_ids:
+- 2026-08-17-anthropic-s-text-watermark-faces-quality-and-durability-ques
+- 2026-08-14-anthropic-defends-and-explains-claude-watermarking-after-use
+- 2026-08-14-anthropic-details-how-claude-s-text-watermarking-works-under
 embedding_id: 2026-08-12-axios-reports-anthropic-s-text-watermarks-signal-a-new-front
 event_name: ''
 ---
@@ -33,5 +36,6 @@ Axios reported that Anthropic's text watermarking push is becoming part of a bro
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash]]
+**Canonical:** [[2026-08-12-anthropic-text-watermarks-trigger-user-backlash-over-transpa]]
+**Related:** [[2026-08-17-anthropic-s-text-watermark-faces-quality-and-durability-ques]] · [[2026-08-14-anthropic-defends-and-explains-claude-watermarking-after-use]] · [[2026-08-14-anthropic-details-how-claude-s-text-watermarking-works-under]]
 <!-- graph:end -->

@@ -1,23 +1,30 @@
 ---
 type: entity-hub
 hub: Scale AI
-member_count: 29
+member_count: 36
 ---
 
 # Scale AI
 
-> Auto-generated entity hub. 29 connected article(s).
+> Auto-generated entity hub. 36 connected article(s).
 
+- `2026-08-16` [[2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru|Open-weight AI is unlikely to reduce demand for AI infrastructure suppliers]]
 - `2026-08-11` [[2026-08-11-ibm-and-together-ai-sign-240m-multi-year-nvidia-powered-infe|IBM and Together AI Sign $240M Multi-Year Nvidia-Powered Inference Deal]]
 - `2026-08-06` [[2026-08-06-omilia-raises-67-million-to-scale-ai-customer-support-automa|Omilia raises $67 million to scale AI customer-support automation]]
 - `2026-08-06` [[2026-08-06-cursor-open-sources-mixture-of-kittens-an-moe-training-megak|Cursor Open-Sources Mixture-of-Kittens, an MoE Training Megakernel for NVIDIA NVL72]]
 - `2026-08-05` [[2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse|Meta Superintelligence Labs ships its first product, the “Muse Code” agent]]
 - `2026-08-04` [[2026-08-04-sk-hynix-and-sandisk-publish-the-first-hbf-memory-standard-a|SK hynix and Sandisk publish the first HBF memory standard at FMS 2026]]
 - `2026-07-31` [[2026-07-31-deepseek-plans-1-gigawatt-data-center-in-inner-mongolia|DeepSeek plans 1-gigawatt data center in Inner Mongolia]]
-- `2026-07-30` [[2026-07-30-scale-ai-names-francis-desouza-as-ceo|Scale AI names Francis deSouza as CEO]]
+- `2026-07-31` [[2026-07-31-deepseek-planning-1gw-data-center-in-inner-mongolia|DeepSeek Planning 1GW Data Center in Inner Mongolia]]
+- `2026-07-30` [[2026-07-30-scale-ai-names-francis-desouza-as-ceo|Scale AI Names Francis deSouza as CEO]]
 - `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
 - `2026-07-29` [[2026-07-29-cerebras-signs-a-10-year-ai-colocation-agreement-with-cleanc|Cerebras signs a 10-year AI colocation agreement with CleanCore in Minnesota]]
 - `2026-07-29` [[2026-07-29-cerebras-signs-10-year-ai-colocation-deal-with-cleancore-sol|Cerebras signs 10-year AI colocation deal with CleanCore Solutions]]
+- `2026-07-24` [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-to-challenge-nvidia|AMD unveils Helios rack-scale AI system to challenge Nvidia at the system level]]
+- `2026-07-24` [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-at-advancing-ai-2026|AMD Unveils Helios Rack-Scale AI System at Advancing AI 2026]]
+- `2026-07-23` [[2026-07-23-amd-takes-on-nvidia-with-helios-rack-scale-ai-system|AMD takes on NVIDIA with Helios rack-scale AI system]]
+- `2026-07-15` [[2026-07-15-vint-cerf-backs-identity-standards-for-internet-scale-ai-age|Vint Cerf backs identity standards for internet-scale AI agents]]
+- `2026-07-15` [[2026-07-15-vint-cerf-backs-effort-to-create-identity-standards-for-inte|Vint Cerf backs effort to create identity standards for internet-scale AI agents]]
 - `2026-07-10` [[2026-07-10-claude-fable-5-rewrites-bun-runtime-from-zig-to-rust-in-a-la|Claude Fable 5 rewrites Bun runtime from Zig to Rust in a large-scale AI migration demo]]
 - `2026-07-02` [[2026-07-02-remote-labor-index-update-fable-5-hits-a-record-16-1-automat|Remote Labor Index update: Fable 5 hits a record 16.1% automation rate on real freelance work]]
 - `2026-06-30` [[2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25|Brookfield and Bloom Energy scale AI-power partnership to $25B]]

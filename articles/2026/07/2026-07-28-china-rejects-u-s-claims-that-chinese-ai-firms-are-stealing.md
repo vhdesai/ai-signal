@@ -23,11 +23,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-21-u-s-threatens-sanctions-against-chinese-ai-models-over-alleg
 - 2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi
 - 2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via
 - 2026-07-31-chinese-military-researchers-used-openai-and-anthropic-model
-- 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
-- 2026-07-31-report-chinese-military-researchers-used-openai-and-anthropi
+- 2026-07-21-china-weighs-export-controls-on-its-own-advanced-ai-models-c
 embedding_id: 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
 event_name: ''
 ---
@@ -41,5 +41,5 @@ China's Ministry of Commerce issued a formal rebuttal to recent U.S. accusations
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi]] · [[2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via]] · [[2026-07-31-chinese-military-researchers-used-openai-and-anthropic-model]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-07-31-report-chinese-military-researchers-used-openai-and-anthropi]]
+**Related:** [[2026-07-21-u-s-threatens-sanctions-against-chinese-ai-models-over-alleg]] · [[2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi]] · [[2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via]] · [[2026-07-31-chinese-military-researchers-used-openai-and-anthropic-model]] · [[2026-07-21-china-weighs-export-controls-on-its-own-advanced-ai-models-c]]
 <!-- graph:end -->

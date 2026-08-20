@@ -18,7 +18,7 @@ entities:
 themes: []
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-15-anthropic-details-claude-s-watermark-limits-as-paying-users
+canonical_article_id: 2026-08-15-anthropic-details-how-claude-s-text-watermark-works-and-wher
 related_article_ids: []
 embedding_id: 2026-08-15-anthropic-watermark-details-subscriber-cancellations
 event_name: ''
@@ -32,5 +32,5 @@ Anthropic published a technical explainer: the SynthID-Text watermark is reader-
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Canonical:** [[2026-08-15-anthropic-details-claude-s-watermark-limits-as-paying-users]]
+**Canonical:** [[2026-08-15-anthropic-details-how-claude-s-text-watermark-works-and-wher]]
 <!-- graph:end -->

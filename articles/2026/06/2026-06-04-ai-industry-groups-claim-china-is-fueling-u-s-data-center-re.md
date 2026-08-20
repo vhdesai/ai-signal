@@ -21,11 +21,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-12-openai-says-china-launched-influence-campaign-to-shape-u-s-a
+- 2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti
 - 2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic
 - 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
-- 2026-07-24-white-house-draws-new-ai-line-on-china
-- 2026-06-29-a-chinese-cybersecurity-company-is-building-offensive-and-de
-- 2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce
+- 2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d
 embedding_id: 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AI industry groups are alleging Chinese influence behind grassroots resistance t
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-07-24-white-house-draws-new-ai-line-on-china]] · [[2026-06-29-a-chinese-cybersecurity-company-is-building-offensive-and-de]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]]
+**Related:** [[2026-06-12-openai-says-china-launched-influence-campaign-to-shape-u-s-a]] · [[2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti]] · [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]]
 <!-- graph:end -->

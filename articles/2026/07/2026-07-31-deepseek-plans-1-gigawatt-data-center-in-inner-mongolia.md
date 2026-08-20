@@ -20,14 +20,9 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-01-deepseek-reportedly-plans-a-1-gigawatt-data-center-in-inner
-- 2026-08-02-deepseek-data-center-plan-points-to-infrastructure-as-the-ne
-- 2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na
-- 2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga
-- 2026-07-07-deepseek-accelerates-custom-chip-efforts
+dedupe_status: duplicate
+canonical_article_id: 2026-07-31-deepseek-planning-1gw-data-center-in-inner-mongolia
+related_article_ids: []
 embedding_id: 2026-07-31-deepseek-plans-1-gigawatt-data-center-in-inner-mongolia
 event_name: ''
 ---
@@ -41,5 +36,5 @@ DeepSeek is reportedly planning a gigawatt-scale AI data center in Ulanqab, Inne
 
 **Entities:** [[DeepSeek]] · [[Scale AI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-01-deepseek-reportedly-plans-a-1-gigawatt-data-center-in-inner]] · [[2026-08-02-deepseek-data-center-plan-points-to-infrastructure-as-the-ne]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]] · [[2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga]] · [[2026-07-07-deepseek-accelerates-custom-chip-efforts]]
+**Canonical:** [[2026-07-31-deepseek-planning-1gw-data-center-in-inner-mongolia]]
 <!-- graph:end -->

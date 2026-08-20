@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares
 - 2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr
 - 2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar
 - 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
-- 2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c
 embedding_id: 2026-08-13-iren-delivers-horizon-1-to-microsoft-and-achieves-nvidia-exe
 event_name: ''
 ---
@@ -40,5 +40,5 @@ IREN delivered its Horizon 1 facility to Microsoft and secured NVIDIA Exemplar C
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c]]
+**Related:** [[2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares]] · [[2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]]
 <!-- graph:end -->

@@ -1,17 +1,17 @@
 ---
 article_id: 2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar
-title: OpenAI notifies European free-tier users that ChatGPT ads arrive this month
+title: OpenAI Notifies European Free-Tier Users That ChatGPT Ads Arrive This Month
 date: '2026-08-15'
 source: PPC Land
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-08-16_060529_Inbox_Daily AI News Digest - August 16,
-  2026.md
-content_hash: bee8e8777d2141fcc7051969d7ff146bc870193936a9de0cb637103f6de02306
+digest_source: digests\raw\2026-08-16_065100_Final-Daily-AI-News-Digest.md
+content_hash: 9719ab44bfd5e03d5a8ee2642979bc031974bc2fa88eed65426a9ea66361b015
 normalized_title_hash: e48acda9660b3677
 canonical_url_hash: ''
-tags: []
+tags:
+- Monetization
 entities:
 - OpenAI
 themes:
@@ -24,9 +24,9 @@ embedding_id: 2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-a
 event_name: ''
 ---
 
-# OpenAI notifies European free-tier users that ChatGPT ads arrive this month
+# OpenAI Notifies European Free-Tier Users That ChatGPT Ads Arrive This Month
 
-OpenAI Ireland informed Free and Go plan users across the EEA and Switzerland that advertising will appear in ChatGPT later in August. Paid Plus, Pro, Business, Enterprise, and Education tiers remain ad-free. Initial targeting is contextual only — conversation topic, coarse location, device type — with explicit opt-in required before chat history or memory informs personalization.
+OpenAI Ireland informed Free and Go plan users across the EEA and Switzerland that advertising will appear in ChatGPT later in August. Paid Plus, Pro, Business, Enterprise, and Education tiers remain ad-free. Initial targeting is contextual only — conversation topic, coarse location, device type — with explicit opt-in required before chat history or memory informs personalization. The ad-free guarantee for paid tiers is the commercially relevant detail: it establishes a clear data boundary that enterprise procurement teams can contract against.
 
 <!-- graph:start -->
 ## Connections

@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope
-- 2026-08-15-openai-tells-european-free-tier-users-ads-arrive-this-month
+- 2026-08-12-openai-begins-testing-ads-in-chatgpt
 - 2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar
-- 2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence
+- 2026-08-15-openai-tells-european-free-tier-users-ads-arrive-this-month
 embedding_id: 2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us
 event_name: ''
 ---
@@ -36,5 +36,5 @@ ChatGPT's opt-in-by-default advertising tracking for free users has drawn scruti
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope]] · [[2026-08-15-openai-tells-european-free-tier-users-ads-arrive-this-month]] · [[2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar]] · [[2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence]]
+**Related:** [[2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]] · [[2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar]] · [[2026-08-15-openai-tells-european-free-tier-users-ads-arrive-this-month]]
 <!-- graph:end -->

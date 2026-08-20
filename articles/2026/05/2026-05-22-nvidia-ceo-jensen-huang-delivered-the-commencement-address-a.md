@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y
 - 2026-05-10-jensen-huang-delivers-carnegie-mellon-commencement-shape-wha
+- 2026-06-20-in-a-wide-ranging-interview-aired-saturday-nvidia-ceo-jensen
 - 2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio
 embedding_id: 2026-05-22-nvidia-ceo-jensen-huang-delivered-the-commencement-address-a
 event_name: ''
@@ -37,5 +38,5 @@ Nvidia CEO Jensen Huang delivered the commencement address at Carnegie Mellon Un
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]]
-**Related:** [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-05-10-jensen-huang-delivers-carnegie-mellon-commencement-shape-wha]] · [[2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio]]
+**Related:** [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-05-10-jensen-huang-delivers-carnegie-mellon-commencement-shape-wha]] · [[2026-06-20-in-a-wide-ranging-interview-aired-saturday-nvidia-ceo-jensen]] · [[2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio]]
 <!-- graph:end -->

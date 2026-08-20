@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
+- 2026-06-20-multiple-developers-reported-markedly-different-performance
 - 2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti
 - 2026-07-09-openai-doubles-its-biosecurity-jailbreak-bounty-to-50-000-fo
-- 2026-05-08-new-openai-ships-gpt-5-3-instant-mini-as-new-rate-limit-fall
 embedding_id: 2026-05-05-openai-10x-codex-rate-limits-for-8-000-gpt-5-5-party-applica
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI emailed 8,000+ developers who applied to its invite-only GPT-5.5 launch p
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti]] · [[2026-07-09-openai-doubles-its-biosecurity-jailbreak-bounty-to-50-000-fo]] · [[2026-05-08-new-openai-ships-gpt-5-3-instant-mini-as-new-rate-limit-fall]]
+**Related:** [[2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-06-20-multiple-developers-reported-markedly-different-performance]] · [[2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti]] · [[2026-07-09-openai-doubles-its-biosecurity-jailbreak-bounty-to-50-000-fo]]
 <!-- graph:end -->

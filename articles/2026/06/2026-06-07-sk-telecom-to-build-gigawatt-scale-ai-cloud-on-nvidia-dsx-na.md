@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in
 - 2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con
+- 2026-07-27-nvidia-invests-in-naver-and-helps-assemble-south-korea-ai-da
 - 2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
-- 2026-08-08-firebird-opens-armenian-ai-factory-targets-2-gw-with-intende
-- 2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration
 embedding_id: 2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Nvidia and SK Telecom announced plans for a gigawatt-scale AI Cloud in Korea on 
 
 **Entities:** [[NVIDIA]] · [[Scale AI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-08-08-firebird-opens-armenian-ai-factory-targets-2-gw-with-intende]] · [[2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration]]
+**Related:** [[2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in]] · [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]] · [[2026-07-27-nvidia-invests-in-naver-and-helps-assemble-south-korea-ai-da]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]]
 <!-- graph:end -->

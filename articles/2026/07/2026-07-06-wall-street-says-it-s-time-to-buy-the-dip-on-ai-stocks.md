@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat
+- 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris
+- 2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st
 - 2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re
-- 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
-- 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
-- 2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov
-- 2026-07-31-situational-awareness-sell-off-remains-a-stress-signal-for-c
+- 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
 embedding_id: 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Business Insider reported that Morgan Stanley and Goldman Sachs strategists see 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]] · [[2026-07-31-situational-awareness-sell-off-remains-a-stress-signal-for-c]]
+**Related:** [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris]] · [[2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st]] · [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]]
 <!-- graph:end -->

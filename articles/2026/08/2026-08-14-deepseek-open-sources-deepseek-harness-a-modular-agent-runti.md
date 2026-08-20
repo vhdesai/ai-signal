@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-deepseek-open-sources-harness-a-modular-agent-runtime
 - 2026-08-13-deepseek-open-sources-harness-and-moves-v4-pro-to-general-av
-- 2026-05-09-deepseek-tui-terminal-based-programming-agent-for-deepseek-v
-- 2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-then-raises-ap
+- 2026-08-17-deepseek-releases-deepseek-harness-developer-preview
+- 2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-agent-framewor
 embedding_id: 2026-08-14-deepseek-open-sources-deepseek-harness-a-modular-agent-runti
 event_name: ''
 ---
@@ -39,5 +39,5 @@ DeepSeek released an open agent runtime in which models, tools, sandboxes, contr
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-14-deepseek-open-sources-harness-a-modular-agent-runtime]] · [[2026-08-13-deepseek-open-sources-harness-and-moves-v4-pro-to-general-av]] · [[2026-05-09-deepseek-tui-terminal-based-programming-agent-for-deepseek-v]] · [[2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-then-raises-ap]]
+**Related:** [[2026-08-14-deepseek-open-sources-harness-a-modular-agent-runtime]] · [[2026-08-13-deepseek-open-sources-harness-and-moves-v4-pro-to-general-av]] · [[2026-08-17-deepseek-releases-deepseek-harness-developer-preview]] · [[2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-agent-framewor]]
 <!-- graph:end -->

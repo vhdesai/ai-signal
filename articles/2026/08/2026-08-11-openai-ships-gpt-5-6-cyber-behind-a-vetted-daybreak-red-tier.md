@@ -22,7 +22,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-openai-launches-gpt-5-6-cyber-and-expands-daybreak-cyber-def
-- 2026-08-11-openai-launches-gpt-5-6-cyber-with-deliberately-reduced-refu
 embedding_id: 2026-08-11-openai-ships-gpt-5-6-cyber-behind-a-vetted-daybreak-red-tier
 event_name: ''
 ---
@@ -36,5 +35,5 @@ OpenAI released GPT-5.6-Cyber, a fine-tune of GPT-5.6 Sol trained for vulnerabil
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-10-openai-launches-gpt-5-6-cyber-and-expands-daybreak-cyber-def]] · [[2026-08-11-openai-launches-gpt-5-6-cyber-with-deliberately-reduced-refu]]
+**Related:** [[2026-08-10-openai-launches-gpt-5-6-cyber-and-expands-daybreak-cyber-def]]
 <!-- graph:end -->

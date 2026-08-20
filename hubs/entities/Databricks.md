@@ -1,26 +1,35 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 92
+member_count: 112
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 92 connected article(s).
+> Auto-generated entity hub. 112 connected article(s).
 
+- `2026-08-19` [[2026-08-19-stripe-confirms-7-5b-openrouter-acquisition-real-motive-is-a|Stripe Confirms $7.5B OpenRouter Acquisition — Real Motive Is AI Expense Management Power]]
+- `2026-08-19` [[2026-08-19-stripe-confirms-7-5-billion-openrouter-acquisition-gains-lev|Stripe Confirms $7.5 Billion OpenRouter Acquisition — Gains Leverage Over Frontier Labs]]
+- `2026-08-18` [[2026-08-18-wsj-deep-dive-trump-s-privateer-hacking-plan-brings-high-ris|WSJ Deep Dive: Trump's "Privateer" Hacking Plan Brings High Risk to Participating Companies]]
+- `2026-08-18` [[2026-08-18-a16z-faces-doj-antitrust-scrutiny-over-board-seats-at-databr|A16Z Faces DOJ Antitrust Scrutiny Over Board Seats at Databricks, Fivetran]]
 - `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
 - `2026-08-17` [[2026-08-17-doj-investigating-andreessen-horowitz-over-partners-holding|DOJ investigating Andreessen Horowitz over partners holding seats at competing AI/data companies]]
 - `2026-08-17` [[2026-08-17-doj-investigating-a16z-over-board-seats-at-competing-ai-data|DOJ Investigating a16z Over Board Seats at Competing AI/Data Companies]]
+- `2026-08-17` [[2026-08-17-doj-investigating-andreessen-horowitz-over-board-seats-at-co|DOJ Investigating Andreessen Horowitz Over Board Seats at Competing AI/Data Companies]]
 - `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
+- `2026-08-14` [[2026-08-14-weekly-funding-concentrates-in-data-ai-infrastructure-defens|Weekly Funding Concentrates in Data, AI Infrastructure, Defense, and AI Coding]]
 - `2026-08-14` [[2026-08-14-weekly-capital-flows-to-physical-substrate-not-applications|Weekly Capital Flows to Physical Substrate, Not Applications]]
 - `2026-08-14` [[2026-08-14-databricks-closes-5b-at-a-190b-valuation-as-annualized-reven|Databricks Closes $5B at a $190B Valuation as Annualized Revenue Tops $7B]]
 - `2026-08-14` [[2026-08-14-ai-infrastructure-and-data-deals-lead-the-week-s-largest-rou|AI Infrastructure and Data Deals Lead the Week's Largest Rounds]]
+- `2026-08-14` [[2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits-driv|$121 Billion in One-Time Gains Boosting Big Tech Profits — Driven by AI Investments]]
 - `2026-08-14` [[2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits|$121 Billion in One-Time Gains Boosting Big Tech Profits]]
 - `2026-08-13` [[2026-08-13-databricks-settles-on-5b-raise-at-a-190b-valuation|Databricks settles on $5B raise at a $190B valuation]]
 - `2026-08-13` [[2026-08-13-databricks-raises-5b-at-a-190b-valuation-as-annualized-reven|Databricks Raises $5B at a $190B Valuation as Annualized Revenue Tops $7B]]
 - `2026-08-13` [[2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b|Databricks Raises $5B at $190B Valuation as Revenue Tops $7B]]
+- `2026-08-13` [[2026-08-13-databricks-raises-5b-at-190b-valuation-as-annualized-revenue|Databricks Raises $5B at $190B Valuation as Annualized Revenue Tops $7B]]
 - `2026-08-13` [[2026-08-13-databricks-raises-5b-at-190b-valuation-with-revenue-past-7b|Databricks Raises $5B at $190B Valuation With Revenue Past $7B Annualized]]
 - `2026-08-13` [[2026-08-13-databricks-raises-5b-at-190b-valuation-after-15b-of-investor|Databricks Raises $5B at $190B Valuation After $15B of Investor Demand]]
+- `2026-08-13` [[2026-08-13-databricks-hits-7b-arr-reveals-5b-round-details-after-15b-of|Databricks Hits $7B ARR, Reveals $5B Round Details After $15B of Demand]]
 - `2026-08-13` [[2026-08-13-daily-ai-news-digest-august-14-2026|Daily AI News Digest – August 14, 2026]]
 - `2026-08-12` [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale|Anthropic research: worker-retraining programs may not scale to AI displacement]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
@@ -34,18 +43,28 @@ member_count: 92
 - `2026-08-06` [[2026-08-06-openai-partners-with-the-american-psychological-association|OpenAI partners with the American Psychological Association on youth mental health]]
 - `2026-08-06` [[2026-08-06-databricks-releases-enterprise-grounded-reasoning-benchmark|Databricks Releases Enterprise Grounded-Reasoning Benchmark, Adds Kimi K3 to Model Marketplace]]
 - `2026-08-04` [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g|Open-weight models close the frontier gap while the safety gap persists]]
+- `2026-08-03` [[2026-08-03-june-s-pitch-is-that-ai-deployment-itself-has-become-a-softw|June’s pitch is that AI deployment itself has become a software category, not just a services problem handled by…]]
 - `2026-08-03` [[2026-08-03-databricks-makes-variant-generally-available-for-semi-struct|Databricks makes Variant generally available for semi-structured data]]
 - `2026-08-03` [[2026-08-03-databricks-completes-panther-acquisition-to-build-security-l|Databricks completes Panther acquisition to build security lakehouse strategy]]
 - `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
 - `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
+- `2026-08-01` [[2026-08-01-aws-announced-a-preview-of-an-agentic-catalog-experience-in|AWS announced a preview of an agentic catalog experience in Amazon Quick, enabling data curators to use natural…]]
 - `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]
+- `2026-07-31` [[2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick|AWS announces agentic catalog experience in Amazon Quick]]
 - `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
 - `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
 - `2026-07-27` [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance|NVIDIA and partners launch Open Secure AI Alliance]]
 - `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
 - `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
 - `2026-07-24` [[2026-07-24-enterprise-ai-consolidates-as-infrastructure-provenance-and|Enterprise AI Consolidates as Infrastructure, Provenance, and Safety Take Center Stage]]
+- `2026-07-23` [[2026-07-23-databricks-extends-its-microsoft-azure-partnership-into-the|Databricks Extends Its Microsoft Azure Partnership into the 2030s]]
 - `2026-07-23` [[2026-07-23-daily-ai-news-digest-july-24-2026|Daily AI News Digest – July 24, 2026]]
+- `2026-07-22` [[2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil|Oracle and Databricks add AI-native enterprise workflow building blocks]]
+- `2026-07-17` [[2026-07-17-databricks-valued-at-188-billion-as-ai-demand-surges|Databricks valued at $188 billion as AI demand surges]]
+- `2026-07-17` [[2026-07-17-databricks-reportedly-set-to-reach-188-billion-valuation-wit|Databricks reportedly set to reach $188 billion valuation with Coatue investment]]
+- `2026-07-17` [[2026-07-17-databricks-reaches-188-billion-valuation-as-ai-infrastructur|Databricks reaches $188 billion valuation as AI infrastructure demand continues]]
+- `2026-07-17` [[2026-07-17-databricks-hits-188b-valuation-doubling-down-on-open-weight|Databricks Hits $188B Valuation, Doubling Down on Open-Weight Economics]]
+- `2026-07-16` [[2026-07-16-applied-computing-raises-20-million-for-an-oil-and-gas-found|Applied Computing raises $20 million for an oil-and-gas foundation model]]
 - `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
 - `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
@@ -63,6 +82,7 @@ member_count: 92
 - `2026-06-26` [[2026-06-26-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu|Companies: Nvidia, Google / DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras,…]]
 - `2026-06-25` [[2026-06-25-sources-scanned-companies-nvidia-google-deepmind-openai-anth|Sources scanned: Companies — Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
+- `2026-06-15` [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and|Databricks Closes DAIS 2026 With Genie One, Agent Bricks, and Unity AI Gateway GA]]
 - `2026-05-28` [[2026-05-28-lowe-s-says-semantic-data-is-materially-boosting-its-ai-agen|Lowe's says "semantic" data is materially boosting its AI agents]]
 - `2026-05-27` [[2026-05-27-the-week-that-reset-the-ai-industry|The Week That Reset the AI Industry]]
 - `2026-05-27` [[2026-05-27-natural-language-query-to-configuration-for-retrieval-agents|Natural-language query to configuration for retrieval agents (Zaharia et al.)]]

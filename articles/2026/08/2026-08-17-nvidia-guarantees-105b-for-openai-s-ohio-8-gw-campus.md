@@ -22,10 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-17-nvidia-guarantees-105b-in-leases-and-invests-1-5b-in-sb-ener
+- 2026-08-17-nvidia-guarantees-105b-in-leases-for-openai-s-ohio-data-cent
 - 2026-08-17-nvidia-guarantees-up-to-105b-in-financing-for-openai-s-ohio
-- 2026-07-26-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-data-center
-- 2026-08-17-openai-contracts-for-8-gw-it-at-the-ports-pike-campus-in-ohi
+- 2026-08-18-nvidia-guarantees-up-to-105-billion-of-openai-s-ohio-data-ce
 embedding_id: 2026-08-17-nvidia-guarantees-105b-for-openai-s-ohio-8-gw-campus
 event_name: ''
 ---
@@ -39,5 +38,5 @@ event_name: ''
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-17-nvidia-guarantees-105b-in-leases-and-invests-1-5b-in-sb-ener]] · [[2026-08-17-nvidia-guarantees-up-to-105b-in-financing-for-openai-s-ohio]] · [[2026-07-26-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-data-center]] · [[2026-08-17-openai-contracts-for-8-gw-it-at-the-ports-pike-campus-in-ohi]]
+**Related:** [[2026-08-17-nvidia-guarantees-105b-in-leases-for-openai-s-ohio-data-cent]] · [[2026-08-17-nvidia-guarantees-up-to-105b-in-financing-for-openai-s-ohio]] · [[2026-08-18-nvidia-guarantees-up-to-105-billion-of-openai-s-ohio-data-ce]]
 <!-- graph:end -->

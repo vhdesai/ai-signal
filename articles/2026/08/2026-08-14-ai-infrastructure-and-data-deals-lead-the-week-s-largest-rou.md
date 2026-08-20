@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-14-weekly-funding-concentrates-in-data-ai-infrastructure-defens
 - 2026-08-14-weekly-capital-flows-to-physical-substrate-not-applications
-- 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
-- 2026-05-28-public-pe-giants-pivot-from-software-to-ai-physical-infrastr
-- 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
+- 2026-07-17-databricks-reaches-188-billion-valuation-as-ai-infrastructur
+- 2026-07-20-massive-ai-supply-deals-face-execution-risk
+- 2026-08-17-big-tech-s-3-trillion-ai-spending-is-higher-than-reported
 embedding_id: 2026-08-14-ai-infrastructure-and-data-deals-lead-the-week-s-largest-rou
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Crunchbase's weekly tally put data platforms, AI infrastructure, energy storage,
 
 **Entities:** [[Databricks]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-14-weekly-capital-flows-to-physical-substrate-not-applications]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-05-28-public-pe-giants-pivot-from-software-to-ai-physical-infrastr]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]]
+**Related:** [[2026-08-14-weekly-funding-concentrates-in-data-ai-infrastructure-defens]] · [[2026-08-14-weekly-capital-flows-to-physical-substrate-not-applications]] · [[2026-07-17-databricks-reaches-188-billion-valuation-as-ai-infrastructur]] · [[2026-07-20-massive-ai-supply-deals-face-execution-risk]] · [[2026-08-17-big-tech-s-3-trillion-ai-spending-is-higher-than-reported]]
 <!-- graph:end -->

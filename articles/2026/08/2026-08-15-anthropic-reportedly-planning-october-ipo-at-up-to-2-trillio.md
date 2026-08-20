@@ -23,7 +23,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc
 - 2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast
-- 2026-08-06-amazon-s-stake-in-anthropic-could-top-200b-as-the-startup-ey
 embedding_id: 2026-08-15-anthropic-reportedly-planning-october-ipo-at-up-to-2-trillio
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Per an FT report, Anthropic is targeting an October listing at an estimated $2 t
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc]] · [[2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast]] · [[2026-08-06-amazon-s-stake-in-anthropic-could-top-200b-as-the-startup-ey]]
+**Related:** [[2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc]] · [[2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast]]
 <!-- graph:end -->

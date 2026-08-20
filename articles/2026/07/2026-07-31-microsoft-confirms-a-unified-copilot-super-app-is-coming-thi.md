@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
 - 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
 - 2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa
-- 2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one
+- 2026-07-04-microsoft-to-fold-consumer-and-enterprise-copilot-into-one-a
 embedding_id: 2026-07-31-microsoft-confirms-a-unified-copilot-super-app-is-coming-thi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft confirmed it will launch a unified Copilot app this year that combines
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-nadella-previews-a-unified-copilot-super-app-spanning-chat-c]] · [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa]] · [[2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one]]
+**Related:** [[2026-07-30-nadella-previews-a-unified-copilot-super-app-spanning-chat-c]] · [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa]] · [[2026-07-04-microsoft-to-fold-consumer-and-enterprise-copilot-into-one-a]]
 <!-- graph:end -->

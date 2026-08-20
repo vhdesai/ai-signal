@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-08-12-tencent-posts-rmb-204-8b-quarter-with-ai-boosted-marketing-a
 - 2026-08-12-tencent-posts-revenue-beat-on-ai-driven-ads-capex-surges-65
 - 2026-08-12-tencent-posts-ai-capex-surge-while-defending-returns
+- 2026-06-02-tencent-shares-jump-10-on-ai-agent-plans-for-wechat
 - 2026-08-12-tencent-reports-q2-2026-results-touting-an-ai-empowered-pivo
-- 2026-06-02-tencent-shares-surge-10-on-ai-agent-plans-for-wechat
 embedding_id: 2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Tencent reported Q2 revenue of RMB 204.8B (+11% YoY), with marketing services up
 
 **Entities:** [[Tencent]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-12-tencent-posts-rmb-204-8b-quarter-with-ai-boosted-marketing-a]] · [[2026-08-12-tencent-posts-revenue-beat-on-ai-driven-ads-capex-surges-65]] · [[2026-08-12-tencent-posts-ai-capex-surge-while-defending-returns]] · [[2026-08-12-tencent-reports-q2-2026-results-touting-an-ai-empowered-pivo]] · [[2026-06-02-tencent-shares-surge-10-on-ai-agent-plans-for-wechat]]
+**Related:** [[2026-08-12-tencent-posts-rmb-204-8b-quarter-with-ai-boosted-marketing-a]] · [[2026-08-12-tencent-posts-revenue-beat-on-ai-driven-ads-capex-surges-65]] · [[2026-08-12-tencent-posts-ai-capex-surge-while-defending-returns]] · [[2026-06-02-tencent-shares-jump-10-on-ai-agent-plans-for-wechat]] · [[2026-08-12-tencent-reports-q2-2026-results-touting-an-ai-empowered-pivo]]
 <!-- graph:end -->

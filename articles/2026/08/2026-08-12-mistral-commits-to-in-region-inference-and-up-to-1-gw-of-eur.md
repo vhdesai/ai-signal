@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f
+- 2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent
+- 2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e
 - 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
 - 2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da
-- 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
-- 2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop
 embedding_id: 2026-08-12-mistral-commits-to-in-region-inference-and-up-to-1-gw-of-eur
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Mistral announced in-region inference endpoints, hosting for third-party open mo
 
 **Entities:** [[Mistral]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]] · [[2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop]]
+**Related:** [[2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f]] · [[2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent]] · [[2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]]
 <!-- graph:end -->

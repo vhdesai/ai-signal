@@ -26,10 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-06-netflix-released-void-video-object-inpainting-and-deletion-a
+- 2026-08-03-hugging-face-s-decision-to-take-the-dispute-to-mainstream-te
 - 2026-07-06-nvidia-and-hugging-face-bring-new-open-models-and-frameworks
 - 2026-07-26-hugging-face-ceo-demands-radical-transparency-after-unpreced
-- 2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face
-- 2026-07-06-nvidia-and-hugging-face-open-source-a-humanoid-robotics-stac
+- 2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa
 embedding_id: 2026-04-04-netflix-released-void-video-object-and-interaction-deletion
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Netflix released VOID (Video Object and Interaction Deletion)—its first-ever p
 
 **Entities:** [[Alibaba]] · [[Google]] · [[Meta]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-06-netflix-released-void-video-object-inpainting-and-deletion-a]] · [[2026-07-06-nvidia-and-hugging-face-bring-new-open-models-and-frameworks]] · [[2026-07-26-hugging-face-ceo-demands-radical-transparency-after-unpreced]] · [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]] · [[2026-07-06-nvidia-and-hugging-face-open-source-a-humanoid-robotics-stac]]
+**Related:** [[2026-04-06-netflix-released-void-video-object-inpainting-and-deletion-a]] · [[2026-08-03-hugging-face-s-decision-to-take-the-dispute-to-mainstream-te]] · [[2026-07-06-nvidia-and-hugging-face-bring-new-open-models-and-frameworks]] · [[2026-07-26-hugging-face-ceo-demands-radical-transparency-after-unpreced]] · [[2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
 - 2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
+- 2026-08-06-openai-launches-codex-security-in-research-preview
 - 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
-- 2026-05-15-openai-announced-that-its-ai-powered-coding-assistant-codex
 embedding_id: 2026-06-29-researchers-at-0din-the-bug-bounty-platform-run-by-mozilla-s
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Researchers at 0DIN, the bug-bounty platform run by Mozilla's GenAI team, disclo
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-15-openai-announced-that-its-ai-powered-coding-assistant-codex]]
+**Related:** [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-08-06-openai-launches-codex-security-in-research-preview]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]]
 <!-- graph:end -->

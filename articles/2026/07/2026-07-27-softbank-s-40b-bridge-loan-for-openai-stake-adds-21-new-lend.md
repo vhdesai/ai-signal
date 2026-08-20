@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new
 - 2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion
 - 2026-04-01-openai-has-officially-closed-the-largest-private-financing-d
-- 2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak
+- 2026-08-15-nvidia-reportedly-close-to-guaranteeing-about-100-billion-in
 embedding_id: 2026-07-27-softbank-s-40b-bridge-loan-for-openai-stake-adds-21-new-lend
 event_name: ''
 ---
@@ -38,5 +38,5 @@ SoftBank's $40B bridge loan backing its OpenAI investment attracted a new syndic
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new]] · [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-04-01-openai-has-officially-closed-the-largest-private-financing-d]] · [[2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak]]
+**Related:** [[2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new]] · [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-04-01-openai-has-officially-closed-the-largest-private-financing-d]] · [[2026-08-15-nvidia-reportedly-close-to-guaranteeing-about-100-billion-in]]
 <!-- graph:end -->

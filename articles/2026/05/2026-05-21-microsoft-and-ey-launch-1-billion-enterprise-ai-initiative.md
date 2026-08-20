@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative
 - 2026-07-02-microsoft-launches-microsoft-frontier-a-2-5b-enterprise-ai-d
 - 2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0
-- 2026-07-02-microsoft-launches-frontier-company-a-6-000-person-forward-d
+- 2026-07-30-microsoft-365-copilot-paid-subscriptions-double-to-30-millio
 embedding_id: 2026-05-21-microsoft-and-ey-launch-1-billion-enterprise-ai-initiative
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft and EY announced a $1 billion-plus joint investment over five years to
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-microsoft-ey-deepen-1b-alliance-scaling-copilot-to-400-000-e]] · [[2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative]] · [[2026-07-02-microsoft-launches-microsoft-frontier-a-2-5b-enterprise-ai-d]] · [[2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0]] · [[2026-07-02-microsoft-launches-frontier-company-a-6-000-person-forward-d]]
+**Related:** [[2026-05-21-microsoft-ey-deepen-1b-alliance-scaling-copilot-to-400-000-e]] · [[2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative]] · [[2026-07-02-microsoft-launches-microsoft-frontier-a-2-5b-enterprise-ai-d]] · [[2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0]] · [[2026-07-30-microsoft-365-copilot-paid-subscriptions-double-to-30-millio]]
 <!-- graph:end -->

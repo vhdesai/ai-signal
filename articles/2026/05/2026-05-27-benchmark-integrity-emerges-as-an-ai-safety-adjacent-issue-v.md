@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-deepswe-exposes-benchmark-gaming-as-a-frontier-model-problem
 - 2026-05-27-datacurve-releases-deepswe-a-coding-benchmark-that-produces
+- 2026-07-16-the-enterprise-context-gap-a-trust-problem-not-a-retrieval-p
 - 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
 - 2026-06-26-this-preprint-argues-that-standard-benchmarks-substantially
-- 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
 embedding_id: 2026-05-27-benchmark-integrity-emerges-as-an-ai-safety-adjacent-issue-v
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Benchmark integrity emerges as an AI safety adjacent issue — VentureBeat, May 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-27-deepswe-exposes-benchmark-gaming-as-a-frontier-model-problem]] · [[2026-05-27-datacurve-releases-deepswe-a-coding-benchmark-that-produces]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-06-26-this-preprint-argues-that-standard-benchmarks-substantially]] · [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]]
+**Related:** [[2026-05-27-deepswe-exposes-benchmark-gaming-as-a-frontier-model-problem]] · [[2026-05-27-datacurve-releases-deepswe-a-coding-benchmark-that-produces]] · [[2026-07-16-the-enterprise-context-gap-a-trust-problem-not-a-retrieval-p]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-06-26-this-preprint-argues-that-standard-benchmarks-substantially]]
 <!-- graph:end -->

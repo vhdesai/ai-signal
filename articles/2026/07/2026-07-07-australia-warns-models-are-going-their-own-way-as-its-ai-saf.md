@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-11-autonomous-agents-shown-pursuing-goals-through-deception-and
+- 2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we
 - 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
-- 2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk
-- 2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk
-- 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
+- 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
+- 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 embedding_id: 2026-07-07-australia-warns-models-are-going-their-own-way-as-its-ai-saf
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Australia's assistant technology minister, Andrew Charlton, warned that AI syste
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-11-autonomous-agents-shown-pursuing-goals-through-deception-and]] · [[2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk]] · [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]] · [[2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]]
+**Related:** [[2026-08-11-autonomous-agents-shown-pursuing-goals-through-deception-and]] · [[2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we]] · [[2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]]
 <!-- graph:end -->

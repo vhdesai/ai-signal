@@ -18,14 +18,9 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-27-nvidia-in-talks-to-guarantee-250b-in-financing-for-openai-s
-- 2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it
-- 2026-07-27-nvidia-in-talks-to-backstop-250b-for-openai-s-500b-10-gigawa
-- 2026-08-17-nvidia-guarantees-up-to-105b-in-financing-for-openai-s-ohio
-- 2026-07-26-nvidia-weighs-a-250b-financing-backstop-for-openai-s-10-giga
+dedupe_status: duplicate
+canonical_article_id: 2026-07-26-nvidia-weighs-250b-financing-backstop-for-openai-s-10-gigawa
+related_article_ids: []
 embedding_id: 2026-07-26-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-data-center
 event_name: ''
 ---
@@ -39,5 +34,5 @@ Per WSJ reporting, Nvidia is in talks to guarantee roughly $250B in lease-and-de
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-27-nvidia-in-talks-to-guarantee-250b-in-financing-for-openai-s]] · [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]] · [[2026-07-27-nvidia-in-talks-to-backstop-250b-for-openai-s-500b-10-gigawa]] · [[2026-08-17-nvidia-guarantees-up-to-105b-in-financing-for-openai-s-ohio]] · [[2026-07-26-nvidia-weighs-a-250b-financing-backstop-for-openai-s-10-giga]]
+**Canonical:** [[2026-07-26-nvidia-weighs-250b-financing-backstop-for-openai-s-10-gigawa]]
 <!-- graph:end -->

@@ -18,14 +18,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
-- 2026-08-13-microsoft-merges-consumer-and-business-copilot-apps-kills-se
-- 2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa
-- 2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer
-- 2026-07-31-microsoft-confirms-a-unified-copilot-super-app-is-coming-thi
+dedupe_status: duplicate
+canonical_article_id: 2026-07-04-microsoft-to-fold-consumer-and-enterprise-copilot-into-one-a
+related_article_ids: []
 embedding_id: 2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one
 event_name: ''
 ---
@@ -39,5 +34,5 @@ Microsoft told its ~11,000-person Copilot team the product must "earn the right 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[2026-08-13-microsoft-merges-consumer-and-business-copilot-apps-kills-se]] · [[2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa]] · [[2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer]] · [[2026-07-31-microsoft-confirms-a-unified-copilot-super-app-is-coming-thi]]
+**Canonical:** [[2026-07-04-microsoft-to-fold-consumer-and-enterprise-copilot-into-one-a]]
 <!-- graph:end -->

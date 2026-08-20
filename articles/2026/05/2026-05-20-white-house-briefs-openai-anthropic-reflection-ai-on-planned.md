@@ -24,9 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t
+- 2026-08-19-white-house-ai-model-testing-framework-leaves-companies-with
+- 2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi
 - 2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace
-- 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
-- 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r
+- 2026-07-15-white-house-not-ruling-out-action-on-open-source-ai-models
 embedding_id: 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 event_name: ''
 ---
@@ -40,5 +41,5 @@ The White House Office of the National Cyber Director hosted a Tuesday briefing 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r]]
+**Related:** [[2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t]] · [[2026-08-19-white-house-ai-model-testing-framework-leaves-companies-with]] · [[2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-07-15-white-house-not-ruling-out-action-on-open-source-ai-models]]
 <!-- graph:end -->

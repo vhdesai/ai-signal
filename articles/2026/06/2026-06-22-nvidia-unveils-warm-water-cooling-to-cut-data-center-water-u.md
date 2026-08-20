@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da
 - 2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact
-- 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
-- 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
-- 2026-07-26-nvidia-weighs-a-250b-financing-backstop-for-openai-s-10-giga
+- 2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi
+- 2026-08-17-nvidia-invests-1-5b-in-softbank-data-center-developer-offers
+- 2026-07-19-australia-plans-to-govern-ai-s-water-and-power-use
 embedding_id: 2026-06-22-nvidia-unveils-warm-water-cooling-to-cut-data-center-water-u
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia announced a warm-water cooling design it says can eliminate nearly all wa
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da]] · [[2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact]] · [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-07-26-nvidia-weighs-a-250b-financing-backstop-for-openai-s-10-giga]]
+**Related:** [[2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da]] · [[2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact]] · [[2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi]] · [[2026-08-17-nvidia-invests-1-5b-in-softbank-data-center-developer-offers]] · [[2026-07-19-australia-plans-to-govern-ai-s-water-and-power-use]]
 <!-- graph:end -->

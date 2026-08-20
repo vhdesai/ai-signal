@@ -21,7 +21,7 @@ themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-14-z-ai-glm-5-3-reportedly-found-a-serious-vulnerability-in-cur
+canonical_article_id: 2026-08-14-glm-5-3-arrives-with-stronger-long-horizon-coding-and-cyber
 related_article_ids: []
 embedding_id: 2026-08-14-z-ai-s-glm-5-3-posts-frontier-cyber-scores-and-reportedly-fo
 event_name: ''
@@ -36,5 +36,5 @@ Z.ai released GLM-5.3, delivering large coding and cybersecurity gains achieved 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-08-14-z-ai-glm-5-3-reportedly-found-a-serious-vulnerability-in-cur]]
+**Canonical:** [[2026-08-14-glm-5-3-arrives-with-stronger-long-horizon-coding-and-cyber]]
 <!-- graph:end -->

@@ -23,7 +23,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-samsung-posts-record-profit-as-hbm-and-ai-memory-demand-surg
 - 2026-07-07-samsung-guides-to-record-q2-operating-profit-on-ai-memory-de
-- 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 embedding_id: 2026-07-31-samsung-and-sk-hynix-post-record-profits-as-ai-memory-demand
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Samsung reported a record operating profit on strong DRAM, HBM and NAND demand f
 
 **Entities:** [[Samsung]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-samsung-posts-record-profit-as-hbm-and-ai-memory-demand-surg]] · [[2026-07-07-samsung-guides-to-record-q2-operating-profit-on-ai-memory-de]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]]
+**Related:** [[2026-07-30-samsung-posts-record-profit-as-hbm-and-ai-memory-demand-surg]] · [[2026-07-07-samsung-guides-to-record-q2-operating-profit-on-ai-memory-de]]
 <!-- graph:end -->

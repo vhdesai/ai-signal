@@ -23,11 +23,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-the-eu-ai-act-has-now-moved-from-theory-to-enforceable-opera
 - 2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c
 - 2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres
 - 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight-in-the-u-s
 - 2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla
-- 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight
 embedding_id: 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A trio of regulatory updates landed in the last 24 hours: clarifying EU AI Act g
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c]] · [[2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight-in-the-u-s]] · [[2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]]
+**Related:** [[2026-08-03-the-eu-ai-act-has-now-moved-from-theory-to-enforceable-opera]] · [[2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c]] · [[2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight-in-the-u-s]] · [[2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla]]
 <!-- graph:end -->

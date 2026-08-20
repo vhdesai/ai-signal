@@ -24,6 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-14-wsj-chinese-ai-startup-dfsx-releases-a-chip-to-take-on-the-w
+- 2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
 embedding_id: 2026-07-14-chinese-ai-startup-dfsx-releases-chip-to-compete-with-wester
@@ -39,5 +40,5 @@ WSJ reports that Chinese AI startup DFSX released a chip aimed at competing with
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-14-wsj-chinese-ai-startup-dfsx-releases-a-chip-to-take-on-the-w]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]]
+**Related:** [[2026-07-14-wsj-chinese-ai-startup-dfsx-releases-a-chip-to-take-on-the-w]] · [[2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]]
 <!-- graph:end -->

@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio
 - 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
+- 2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers
 - 2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in
-- 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
-- 2026-07-30-dili-raises-21-7-million-to-bring-ai-compliance-to-infrastru
+- 2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su
 embedding_id: 2026-08-08-ai-infrastructure-buildout-is-fueling-a-regional-bank-commer
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The AI infrastructure build-out is generating a measurable "trickle-down" lendin
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-07-30-dili-raises-21-7-million-to-bring-ai-compliance-to-infrastru]]
+**Related:** [[2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in]] · [[2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su]]
 <!-- graph:end -->

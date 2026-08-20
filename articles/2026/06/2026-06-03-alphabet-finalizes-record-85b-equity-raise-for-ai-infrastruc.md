@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw
 - 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
-- 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
-- 2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa
+- 2026-07-22-google-justifies-massive-ai-spending-with-booming-cloud-grow
+- 2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en
 embedding_id: 2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Alphabet finalized an $85 billion equity raise—the largest in technology histo
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]] · [[2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa]]
+**Related:** [[2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-07-22-google-justifies-massive-ai-spending-with-booming-cloud-grow]] · [[2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en]]
 <!-- graph:end -->

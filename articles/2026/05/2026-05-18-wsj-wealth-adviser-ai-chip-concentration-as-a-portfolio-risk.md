@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc
+- 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat
 - 2026-05-29-wsj-wealth-adviser-j-j-exposure-vanishing-new-car-buyers-chi
 - 2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai
 - 2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog
-- 2026-05-19-amazon-s-ai-race-and-the-reshaping-of-wealth-management
-- 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
 embedding_id: 2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk
 event_name: ''
 ---
@@ -36,5 +36,5 @@ WSJ's wealth-advisory desk flagged the degree to which "AI" exposure in most div
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-29-wsj-wealth-adviser-j-j-exposure-vanishing-new-car-buyers-chi]] · [[2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai]] · [[2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog]] · [[2026-05-19-amazon-s-ai-race-and-the-reshaping-of-wealth-management]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]]
+**Related:** [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat]] · [[2026-05-29-wsj-wealth-adviser-j-j-exposure-vanishing-new-car-buyers-chi]] · [[2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai]] · [[2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog]]
 <!-- graph:end -->

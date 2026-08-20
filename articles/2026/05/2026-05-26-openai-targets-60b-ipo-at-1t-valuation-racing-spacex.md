@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat
 - 2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation
-- 2026-05-22-openai-files-s-1-targeting-september-ipo-at-1t-valuation
+- 2026-06-12-spacex-ipo-75b-raise-at-1-75t-musk-becomes-world-s-first-tri
 embedding_id: 2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex
 event_name: ''
 ---
@@ -36,5 +36,5 @@ OpenAI is reportedly targeting a public listing as early as September 2026, aimi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]] · [[2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation]] · [[2026-05-22-openai-files-s-1-targeting-september-ipo-at-1t-valuation]]
+**Related:** [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]] · [[2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation]] · [[2026-06-12-spacex-ipo-75b-raise-at-1-75t-musk-becomes-world-s-first-tri]]
 <!-- graph:end -->

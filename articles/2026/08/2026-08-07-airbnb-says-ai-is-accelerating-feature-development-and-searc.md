@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-07-airbnb-ai-cut-feature-launch-time-60-now-writes-60-of-code
 - 2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab
 - 2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a
-- 2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a
-- 2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years
+- 2026-08-19-ai-was-supposed-to-win-people-over-by-now-it-hasn-t
+- 2026-08-19-techcrunch-analysis-ai-was-supposed-to-win-people-over-by-no
 embedding_id: 2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Airbnb CEO Brian Chesky said AI helped reduce the time from concept to shipped f
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-airbnb-ai-cut-feature-launch-time-60-now-writes-60-of-code]] · [[2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab]] · [[2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a]] · [[2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a]] · [[2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years]]
+**Related:** [[2026-08-07-airbnb-ai-cut-feature-launch-time-60-now-writes-60-of-code]] · [[2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab]] · [[2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a]] · [[2026-08-19-ai-was-supposed-to-win-people-over-by-now-it-hasn-t]] · [[2026-08-19-techcrunch-analysis-ai-was-supposed-to-win-people-over-by-no]]
 <!-- graph:end -->

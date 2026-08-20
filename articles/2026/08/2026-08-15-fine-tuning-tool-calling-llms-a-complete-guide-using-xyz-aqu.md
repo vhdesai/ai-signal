@@ -45,7 +45,7 @@ related_article_ids:
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 - 2026-08-09-applied-methods-walkthrough-distilbert-lora-fine-tuning-for
 - 2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo
-- 2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc
+- 2026-07-15-apple-researchers-evaluate-uncertainty-for-llm-function-call
 embedding_id: 2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu
 event_name: ''
 ---
@@ -59,5 +59,5 @@ A hands-on pipeline for fine-tuning tool-calling LLMs, covering trajectory parsi
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-07-marktechpost-research-roundup-safety-classifiers-agent-memor]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-08-09-applied-methods-walkthrough-distilbert-lora-fine-tuning-for]] · [[2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo]] · [[2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc]]
+**Related:** [[2026-08-07-marktechpost-research-roundup-safety-classifiers-agent-memor]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-08-09-applied-methods-walkthrough-distilbert-lora-fine-tuning-for]] · [[2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo]] · [[2026-07-15-apple-researchers-evaluate-uncertainty-for-llm-function-call]]
 <!-- graph:end -->

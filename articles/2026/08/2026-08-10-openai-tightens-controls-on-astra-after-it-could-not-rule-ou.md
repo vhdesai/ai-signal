@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-openai-tightens-controls-on-its-astra-model-over-cybersecuri
+- 2026-08-07-openai-slows-astra-development-after-cyber-evaluations-flag
 - 2026-08-07-openai-cannot-rule-out-critical-cyber-capability-in-upcoming
 embedding_id: 2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou
 event_name: ''
@@ -37,5 +38,5 @@ OpenAI said internal evaluations of its upcoming Astra model showed agentic codi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-10-openai-tightens-controls-on-its-astra-model-over-cybersecuri]] · [[2026-08-07-openai-cannot-rule-out-critical-cyber-capability-in-upcoming]]
+**Related:** [[2026-08-10-openai-tightens-controls-on-its-astra-model-over-cybersecuri]] · [[2026-08-07-openai-slows-astra-development-after-cyber-evaluations-flag]] · [[2026-08-07-openai-cannot-rule-out-critical-cyber-capability-in-upcoming]]
 <!-- graph:end -->

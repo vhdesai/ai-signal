@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50
 - 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
 - 2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t
-- 2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe
+- 2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model
 embedding_id: 2026-05-18-deepseek-the-hangzhou-lab-behind-the-v4-model-a-1-6-trillion
 event_name: ''
 ---
@@ -41,5 +41,5 @@ DeepSeek — the Hangzhou lab behind the V4 model (a 1.6-trillion-parameter mode
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t]] · [[2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe]]
+**Related:** [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t]] · [[2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model]]
 <!-- graph:end -->

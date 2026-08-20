@@ -22,10 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-31-microsoft-introduces-mai-cyber-1-flash-and-project-perceptio
 - 2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec
 - 2026-07-28-microsoft-launches-mai-cyber-1-flash-its-first-cybersecurity
-- 2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc
-- 2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope
 embedding_id: 2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Microsoft escalated the AI-security race with Project Perception, a system of se
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec]] · [[2026-07-28-microsoft-launches-mai-cyber-1-flash-its-first-cybersecurity]] · [[2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc]] · [[2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope]]
+**Related:** [[2026-07-31-microsoft-introduces-mai-cyber-1-flash-and-project-perceptio]] · [[2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec]] · [[2026-07-28-microsoft-launches-mai-cyber-1-flash-its-first-cybersecurity]]
 <!-- graph:end -->

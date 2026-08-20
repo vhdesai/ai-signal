@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-08-12-hinton-fei-fei-li-and-andrew-ng-clash-over-open-weight-ai-ri
 - 2026-08-12-ai-pioneers-argue-for-keeping-ai-open-as-safety-concerns-mou
 - 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
+- 2026-07-26-silicon-valley-and-washington-continue-to-debate-chinese-ope
 embedding_id: 2026-08-12-hinton-li-and-ng-argue-openness-is-the-safer-path-as-scrutin
 event_name: ''
 ---
@@ -37,5 +38,5 @@ At the Ai4 conference, Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — three of t
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-12-hinton-li-and-ng-make-the-case-for-staying-open-as-safety-co]] · [[2026-08-12-hinton-fei-fei-li-and-andrew-ng-clash-over-open-weight-ai-ri]] · [[2026-08-12-ai-pioneers-argue-for-keeping-ai-open-as-safety-concerns-mou]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]]
+**Related:** [[2026-08-12-hinton-li-and-ng-make-the-case-for-staying-open-as-safety-co]] · [[2026-08-12-hinton-fei-fei-li-and-andrew-ng-clash-over-open-weight-ai-ri]] · [[2026-08-12-ai-pioneers-argue-for-keeping-ai-open-as-safety-concerns-mou]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]] · [[2026-07-26-silicon-valley-and-washington-continue-to-debate-chinese-ope]]
 <!-- graph:end -->

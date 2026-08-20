@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
 - 2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos
 - 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
+- 2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text
 - 2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag
-- 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 embedding_id: 2026-07-06-scaling-properties-of-continuous-diffusion-spoken-language-m
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Apple researchers studied scaling laws for continuous diffusion spoken-language 
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]] · [[2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]]
+**Related:** [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]] · [[2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text]] · [[2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag]]
 <!-- graph:end -->

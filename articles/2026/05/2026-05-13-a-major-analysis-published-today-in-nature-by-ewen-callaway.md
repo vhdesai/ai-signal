@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto
+- 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
+- 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
 - 2026-07-26-wsj-reports-some-ai-chatbots-can-provide-biological-weapons
 - 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
-- 2026-04-10-major-ai-labs-are-coordinating-through-the-frontier-model-fo
-- 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
-- 2026-08-05-uk-aisi-reports-frontier-models-completed-a-hacking-spree-in
 embedding_id: 2026-05-13-a-major-analysis-published-today-in-nature-by-ewen-callaway
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A major analysis published today in Nature by Ewen Callaway examines the growing
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-26-wsj-reports-some-ai-chatbots-can-provide-biological-weapons]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]] · [[2026-04-10-major-ai-labs-are-coordinating-through-the-frontier-model-fo]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]] · [[2026-08-05-uk-aisi-reports-frontier-models-completed-a-hacking-spree-in]]
+**Related:** [[2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-07-26-wsj-reports-some-ai-chatbots-can-provide-biological-weapons]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]]
 <!-- graph:end -->

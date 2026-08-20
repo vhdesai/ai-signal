@@ -25,8 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m
 - 2026-04-23-china-tightens-outbound-investment-screening-over-bytedance
+- 2026-08-03-qwen3-8-max-shows-china-s-leading-labs-still-pushing-frontie
+- 2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model
 - 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
-- 2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre
 embedding_id: 2026-05-28-stepfun-releases-step-3-7-flash-china-s-frontier-release-cad
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Chinese AI lab StepFun shipped Step 3.7 Flash, a lightweight LLM positioned for 
 
 **Entities:** [[Alibaba]] · [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m]] · [[2026-04-23-china-tightens-outbound-investment-screening-over-bytedance]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]] · [[2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre]]
+**Related:** [[2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m]] · [[2026-04-23-china-tightens-outbound-investment-screening-over-bytedance]] · [[2026-08-03-qwen3-8-max-shows-china-s-leading-labs-still-pushing-frontie]] · [[2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]]
 <!-- graph:end -->

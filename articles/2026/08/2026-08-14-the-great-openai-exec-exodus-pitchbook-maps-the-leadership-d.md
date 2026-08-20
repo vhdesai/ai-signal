@@ -6,9 +6,8 @@ source: PitchBook
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-08-14_070057_Inbox_Daily AI News Digest - August 14,
-  2026.md
-content_hash: cdda05b9c2b006981172b29a0d020b97daf16662994ea37af2ee8f68179a3e76
+digest_source: digests\raw\2026-08-14_084159_Final-Daily-AI-News-Digest.md
+content_hash: 20df87aec3844f48d206ef66b3f16d721e623b2a9ff3cd3033dc00674453dc3d
 normalized_title_hash: e2ebff799a963ea0
 canonical_url_hash: ''
 tags:
@@ -27,7 +26,7 @@ event_name: ''
 
 # The Great OpenAI Exec Exodus — PitchBook Maps the Leadership Departures
 
-PitchBook has published a tracker mapping OpenAI’s ongoing leadership exodus as the company approaches a potential IPO. Recent departures include former COO Brad Lightcap (Aug 12), CRO Denise Dresser (Aug 14), and former CPO Kevin Weil (now fundraising for an AI science startup). The pattern raises questions about organizational stability at the world’s highest-valued AI company.
+PitchBook has published a formal tracker mapping OpenAI's ongoing leadership exodus as the company approaches a potential IPO. Recent departures include former COO Brad Lightcap (August 12), CRO Denise Dresser (August 14), former CPO Kevin Weil (now fundraising for an AI science startup), head of ethics Chloé Bakalar (August 11), and multiple other senior figures over the past several months. The cumulative pattern is now significant enough to warrant formal analytical tracking by a major data provider. For enterprise buyers and investors, the tracker serves as a useful diligence reference — organizational stability at the world's highest-valued AI company is a material risk factor that should be weighed alongside capability and pricing. The departures cluster around the company's transition from a research-first culture to a commercially oriented, pre-IPO operating posture.
 
 <!-- graph:start -->
 ## Connections

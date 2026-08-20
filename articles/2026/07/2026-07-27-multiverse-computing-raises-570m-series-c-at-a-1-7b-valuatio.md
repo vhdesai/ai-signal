@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-spain-s-multiverse-computing-raises-500m-series-c-at-1-5b-va
 - 2026-07-28-multiverse-computing-raises-570m-series-c-at-1-7b-valuation
-- 2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b
 - 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
+- 2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b
 embedding_id: 2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Spain's Multiverse Computing raised a $570M (€500M) Series C to compress AI mo
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-27-spain-s-multiverse-computing-raises-500m-series-c-at-1-5b-va]] · [[2026-07-28-multiverse-computing-raises-570m-series-c-at-1-7b-valuation]] · [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]]
+**Related:** [[2026-07-27-spain-s-multiverse-computing-raises-500m-series-c-at-1-5b-va]] · [[2026-07-28-multiverse-computing-raises-570m-series-c-at-1-7b-valuation]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]] · [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b]]
 <!-- graph:end -->

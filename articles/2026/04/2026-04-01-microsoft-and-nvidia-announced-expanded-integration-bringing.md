@@ -26,10 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens
+- 2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control
 - 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
 - 2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026
-- 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
 embedding_id: 2026-04-01-microsoft-and-nvidia-announced-expanded-integration-bringing
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Microsoft and NVIDIA announced expanded integration, bringing NVIDIA's Nemotron 
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]]
+**Related:** [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]] · [[2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]]
 <!-- graph:end -->

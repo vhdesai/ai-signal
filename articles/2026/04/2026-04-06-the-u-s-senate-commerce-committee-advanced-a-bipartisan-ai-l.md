@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-27-how-to-close-ai-s-accountability-loophole
 - 2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego
 - 2026-05-28-illinois-passes-a-landmark-ai-safety-framework
-- 2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s
+- 2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft
 embedding_id: 2026-04-06-the-u-s-senate-commerce-committee-advanced-a-bipartisan-ai-l
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The U.S. Senate Commerce Committee advanced a bipartisan AI liability bill estab
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315]] · [[2026-05-27-how-to-close-ai-s-accountability-loophole]] · [[2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego]] · [[2026-05-28-illinois-passes-a-landmark-ai-safety-framework]] · [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]]
+**Related:** [[2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315]] · [[2026-05-27-how-to-close-ai-s-accountability-loophole]] · [[2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego]] · [[2026-05-28-illinois-passes-a-landmark-ai-safety-framework]] · [[2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft]]
 <!-- graph:end -->

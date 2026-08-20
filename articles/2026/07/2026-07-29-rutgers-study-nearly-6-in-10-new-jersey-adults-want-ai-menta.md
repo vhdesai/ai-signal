@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
 - 2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
+- 2026-07-15-nature-health-1-7m-copilot-health-conversations-mapped-acros
 - 2026-04-02-academic-research
 embedding_id: 2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta
 event_name: ''
@@ -36,5 +37,5 @@ A Rutgers-Eagleton study published in Health Affairs Scholar finds that almost 6
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-04-02-academic-research]]
+**Related:** [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-07-15-nature-health-1-7m-copilot-health-conversations-mapped-acros]] · [[2026-04-02-academic-research]]
 <!-- graph:end -->

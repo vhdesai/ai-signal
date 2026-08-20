@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-13-we-must-act-now-16-nobel-laureates-and-200-experts-urge-acti
 - 2026-07-13-200-economists-and-16-nobel-laureates-warn-of-large-scale-jo
 - 2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for
+- 2026-07-13-200-researchers-and-15-nobel-laureates-warn-on-ai-s-economic
 - 2026-07-13-nobel-laureates-and-ai-researchers-warn-on-ai-s-economic-imp
-- 2026-07-13-economists-and-ai-researchers-warn-that-labor-disruption-may
 embedding_id: 2026-07-13-16-nobel-laureates-and-200-economists-issue-we-must-act-now
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Organized by Erik Brynjolfsson, Ajay Agrawal, Anton Korinek, and Tom Cunningham,
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-13-we-must-act-now-16-nobel-laureates-and-200-experts-urge-acti]] · [[2026-07-13-200-economists-and-16-nobel-laureates-warn-of-large-scale-jo]] · [[2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for]] · [[2026-07-13-nobel-laureates-and-ai-researchers-warn-on-ai-s-economic-imp]] · [[2026-07-13-economists-and-ai-researchers-warn-that-labor-disruption-may]]
+**Related:** [[2026-07-13-we-must-act-now-16-nobel-laureates-and-200-experts-urge-acti]] · [[2026-07-13-200-economists-and-16-nobel-laureates-warn-of-large-scale-jo]] · [[2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for]] · [[2026-07-13-200-researchers-and-15-nobel-laureates-warn-on-ai-s-economic]] · [[2026-07-13-nobel-laureates-and-ai-researchers-warn-on-ai-s-economic-imp]]
 <!-- graph:end -->

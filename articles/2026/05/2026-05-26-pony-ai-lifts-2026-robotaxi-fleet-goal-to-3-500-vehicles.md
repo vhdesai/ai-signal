@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-uber-and-pony-ai-plan-2-000-robotaxis-across-european-cities
 - 2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across
+- 2026-08-14-uber-and-pony-ai-to-deploy-2-000-robotaxis-across-europe
 - 2026-08-14-pony-ai-and-uber-plan-more-than-2-000-robotaxis-across-five
 - 2026-08-14-applied-materials-record-9-12b-quarter-uber-pony-ai-2-000-eu
-- 2026-04-02-baidu-s-apollo-go-robotaxi-fleet-suffered-a-suspected-system
 embedding_id: 2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Chinese autonomous-driving firm Pony AI raised its 2026 robotaxi fleet target to
 
 **Entities:** [[Baidu]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-14-uber-and-pony-ai-plan-2-000-robotaxis-across-european-cities]] · [[2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across]] · [[2026-08-14-pony-ai-and-uber-plan-more-than-2-000-robotaxis-across-five]] · [[2026-08-14-applied-materials-record-9-12b-quarter-uber-pony-ai-2-000-eu]] · [[2026-04-02-baidu-s-apollo-go-robotaxi-fleet-suffered-a-suspected-system]]
+**Related:** [[2026-08-14-uber-and-pony-ai-plan-2-000-robotaxis-across-european-cities]] · [[2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across]] · [[2026-08-14-uber-and-pony-ai-to-deploy-2-000-robotaxis-across-europe]] · [[2026-08-14-pony-ai-and-uber-plan-more-than-2-000-robotaxis-across-five]] · [[2026-08-14-applied-materials-record-9-12b-quarter-uber-pony-ai-2-000-eu]]
 <!-- graph:end -->

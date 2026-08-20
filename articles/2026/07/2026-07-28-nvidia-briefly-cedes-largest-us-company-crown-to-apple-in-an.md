@@ -23,11 +23,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-17-apple-overtakes-nvidia-as-the-world-s-most-valuable-company
 - 2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception
 - 2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade
-- 2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch
 embedding_id: 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Nvidia fell roughly 5%, allowing Apple to reclaim the top US market-cap spot ami
 
 **Entities:** [[Apple]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception]] · [[2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade]] · [[2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch]]
+**Related:** [[2026-07-17-apple-overtakes-nvidia-as-the-world-s-most-valuable-company]] · [[2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception]] · [[2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade]]
 <!-- graph:end -->

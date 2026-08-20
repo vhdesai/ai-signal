@@ -22,7 +22,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b
 - 2026-07-14-pixverse-raises-439-million-as-valuation-passes-2-billion
-- 2026-05-18-decart-raises-300m-at-4b-valuation-for-real-time-generative
 embedding_id: 2026-07-14-video-generation-startup-pixverse-raises-439m-at-a-2b-valuat
 event_name: ''
 ---
@@ -35,5 +34,5 @@ PixVerse raised $439 million, pushing its valuation past $2 billion, with funds 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b]] · [[2026-07-14-pixverse-raises-439-million-as-valuation-passes-2-billion]] · [[2026-05-18-decart-raises-300m-at-4b-valuation-for-real-time-generative]]
+**Related:** [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b]] · [[2026-07-14-pixverse-raises-439-million-as-valuation-passes-2-billion]]
 <!-- graph:end -->

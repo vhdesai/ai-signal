@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-11-white-house-pushes-to-block-state-ai-laws-by-tying-preemptio
 - 2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l
 - 2026-05-07-breaking-white-house-expected-to-sign-ai-frontier-model-vett
+- 2026-06-11-white-house-ties-state-ai-law-preemption-to-kids-safety-cong
 - 2026-05-05-trump-administration-weighs-new-ai-model-guardrails
-- 2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin
-- 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
 embedding_id: 2026-04-20-axios-wsj-april-18-19-2026-reporting-indicates-an-intensifie
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Axios / WSJ • April 18–19, 2026 Reporting indicates an intensified White Hou
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]] · [[2026-05-07-breaking-white-house-expected-to-sign-ai-frontier-model-vett]] · [[2026-05-05-trump-administration-weighs-new-ai-model-guardrails]] · [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]] · [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]]
+**Related:** [[2026-06-11-white-house-pushes-to-block-state-ai-laws-by-tying-preemptio]] · [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]] · [[2026-05-07-breaking-white-house-expected-to-sign-ai-frontier-model-vett]] · [[2026-06-11-white-house-ties-state-ai-law-preemption-to-kids-safety-cong]] · [[2026-05-05-trump-administration-weighs-new-ai-model-guardrails]]
 <!-- graph:end -->

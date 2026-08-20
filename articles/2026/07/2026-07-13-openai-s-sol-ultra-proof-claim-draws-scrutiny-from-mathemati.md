@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-13-openai-s-sol-ultra-proof-of-cycle-double-cover-conjecture-dr
+- 2026-07-13-openai-s-sol-ultra-proof-of-the-cycle-double-cover-conjectur
 - 2026-07-10-gpt-5-6-sol-ultra-produces-claimed-proof-of-the-cycle-double
 - 2026-07-11-openai-claims-gpt-5-6-sol-ultra-produced-a-proof-of-a-50-yea
-- 2026-05-20-openai-reasoning-model-autonomously-disproves-80-year-old-er
 embedding_id: 2026-07-13-openai-s-sol-ultra-proof-claim-draws-scrutiny-from-mathemati
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The claimed proof of the 50-year-old cycle double cover conjecture by GPT-5.6 So
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-13-openai-s-sol-ultra-proof-of-cycle-double-cover-conjecture-dr]] · [[2026-07-10-gpt-5-6-sol-ultra-produces-claimed-proof-of-the-cycle-double]] · [[2026-07-11-openai-claims-gpt-5-6-sol-ultra-produced-a-proof-of-a-50-yea]] · [[2026-05-20-openai-reasoning-model-autonomously-disproves-80-year-old-er]]
+**Related:** [[2026-07-13-openai-s-sol-ultra-proof-of-cycle-double-cover-conjecture-dr]] · [[2026-07-13-openai-s-sol-ultra-proof-of-the-cycle-double-cover-conjectur]] · [[2026-07-10-gpt-5-6-sol-ultra-produces-claimed-proof-of-the-cycle-double]] · [[2026-07-11-openai-claims-gpt-5-6-sol-ultra-produced-a-proof-of-a-50-yea]]
 <!-- graph:end -->

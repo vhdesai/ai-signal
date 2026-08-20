@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
-- 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
+- 2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back
 embedding_id: 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI is hiring robotics engineers for a new division spun out of its world-sim
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]]
+**Related:** [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back]]
 <!-- graph:end -->

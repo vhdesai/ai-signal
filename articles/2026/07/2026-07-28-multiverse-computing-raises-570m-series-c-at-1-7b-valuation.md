@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio
 - 2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation
-- 2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b
+- 2026-08-15-china-s-infiforce-raises-150m-for-an-embodied-ai-world-model
 embedding_id: 2026-07-28-multiverse-computing-raises-570m-series-c-at-1-7b-valuation
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Spain's Multiverse Computing raised a $570M Series C — co-led by Forgepoint Ca
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio]] · [[2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation]] · [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b]]
+**Related:** [[2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio]] · [[2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation]] · [[2026-08-15-china-s-infiforce-raises-150m-for-an-embodied-ai-world-model]]
 <!-- graph:end -->

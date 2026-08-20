@@ -24,6 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-07-alibaba-to-charge-large-commercial-users-of-its-next-open-we
+- 2026-08-07-alibaba-to-require-revenue-sharing-from-large-commercial-qwe
 - 2026-08-07-alibaba-plans-to-charge-the-largest-users-of-its-open-qwen-m
 - 2026-08-07-alibaba-to-shift-next-qwen-model-to-revenue-sharing-licensin
 embedding_id: 2026-08-08-alibaba-plans-revenue-sharing-on-open-weight-qwen-3-8-max
@@ -39,5 +40,5 @@ Reuters reports that Alibaba plans to require large commercial users of its upco
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-07-alibaba-to-charge-large-commercial-users-of-its-next-open-we]] · [[2026-08-07-alibaba-plans-to-charge-the-largest-users-of-its-open-qwen-m]] · [[2026-08-07-alibaba-to-shift-next-qwen-model-to-revenue-sharing-licensin]]
+**Related:** [[2026-08-07-alibaba-to-charge-large-commercial-users-of-its-next-open-we]] · [[2026-08-07-alibaba-to-require-revenue-sharing-from-large-commercial-qwe]] · [[2026-08-07-alibaba-plans-to-charge-the-largest-users-of-its-open-qwen-m]] · [[2026-08-07-alibaba-to-shift-next-qwen-model-to-revenue-sharing-licensin]]
 <!-- graph:end -->

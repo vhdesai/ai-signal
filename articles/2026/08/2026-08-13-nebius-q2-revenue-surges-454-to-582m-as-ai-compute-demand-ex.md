@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares
 - 2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti
 - 2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge
-- 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
-- 2026-08-12-ai-cloud-pricing-hits-record-highs-as-neoclouds-auction-comp
+- 2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en
 embedding_id: 2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nebius, the Nvidia-backed neocloud, reported a 454% expansion in Q2 revenue to $
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti]] · [[2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]] · [[2026-08-12-ai-cloud-pricing-hits-record-highs-as-neoclouds-auction-comp]]
+**Related:** [[2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares]] · [[2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti]] · [[2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge]] · [[2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-deepseek-ships-v4-pro-and-raises-api-prices-sharply
+- 2026-08-14-deepseek-v4-pro-api-prices-rise-today-peak-off-peak-billing
 - 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
 - 2026-08-17-deepseek-s-peak-off-peak-api-pricing-takes-effect
 - 2026-08-14-deepseek-v4-pro-price-increases-take-effect-today
-- 2026-08-14-deepseek-v4-pro-ga-sharp-price-increases-effective-aug-16
 embedding_id: 2026-07-01-deepseek-introduces-peak-hour-surge-pricing-on-its-v4-api
 event_name: ''
 ---
@@ -39,5 +39,5 @@ DeepSeek told API customers it will double V4 model prices during two Beijing pe
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-14-deepseek-ships-v4-pro-and-raises-api-prices-sharply]] · [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c]] · [[2026-08-17-deepseek-s-peak-off-peak-api-pricing-takes-effect]] · [[2026-08-14-deepseek-v4-pro-price-increases-take-effect-today]] · [[2026-08-14-deepseek-v4-pro-ga-sharp-price-increases-effective-aug-16]]
+**Related:** [[2026-08-14-deepseek-ships-v4-pro-and-raises-api-prices-sharply]] · [[2026-08-14-deepseek-v4-pro-api-prices-rise-today-peak-off-peak-billing]] · [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c]] · [[2026-08-17-deepseek-s-peak-off-peak-api-pricing-takes-effect]] · [[2026-08-14-deepseek-v4-pro-price-increases-take-effect-today]]
 <!-- graph:end -->

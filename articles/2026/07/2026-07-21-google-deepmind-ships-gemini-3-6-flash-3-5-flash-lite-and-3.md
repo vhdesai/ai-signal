@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model
-- 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
-- 2026-08-13-google-releases-gemini-3-7-flash-to-general-availability
-- 2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9
+- 2026-07-21-google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flas
+- 2026-07-21-google-ships-three-new-gemini-flash-models-flagship-3-5-pro
+- 2026-07-21-google-ships-gemini-flash-models-and-cuts-long-horizon-agent
 - 2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl
+- 2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model
 embedding_id: 2026-07-21-google-deepmind-ships-gemini-3-6-flash-3-5-flash-lite-and-3
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google DeepMind released three token-efficient proprietary models built for chea
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-08-13-google-releases-gemini-3-7-flash-to-general-availability]] · [[2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9]] · [[2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl]]
+**Related:** [[2026-07-21-google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flas]] · [[2026-07-21-google-ships-three-new-gemini-flash-models-flagship-3-5-pro]] · [[2026-07-21-google-ships-gemini-flash-models-and-cuts-long-horizon-agent]] · [[2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl]] · [[2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model]]
 <!-- graph:end -->

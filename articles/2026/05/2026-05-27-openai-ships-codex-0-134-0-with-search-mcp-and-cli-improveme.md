@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b
 - 2026-08-06-openai-launches-codex-security-in-research-preview-for-autom
 - 2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access
-- 2026-04-20-openai-codex-0-122-0-ships-broad-platform-update
+- 2026-08-06-openai-launches-codex-security-in-research-preview
 embedding_id: 2026-05-27-openai-ships-codex-0-134-0-with-search-mcp-and-cli-improveme
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The release introduces case-insensitive local conversation-history search, per-s
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile]] · [[2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b]] · [[2026-08-06-openai-launches-codex-security-in-research-preview-for-autom]] · [[2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access]] · [[2026-04-20-openai-codex-0-122-0-ships-broad-platform-update]]
+**Related:** [[2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile]] · [[2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b]] · [[2026-08-06-openai-launches-codex-security-in-research-preview-for-autom]] · [[2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access]] · [[2026-08-06-openai-launches-codex-security-in-research-preview]]
 <!-- graph:end -->

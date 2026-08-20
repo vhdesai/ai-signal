@@ -25,7 +25,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
-- 2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip
 - 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival
 - 2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers
 - 2026-06-27-u-s-and-european-semiconductor-stocks-sold-off-friday-on-fea
@@ -42,5 +41,5 @@ A widening AI-driven sell-off swept global markets, with semiconductor and memor
 
 **Entities:** [[Apple]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]] · [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival]] · [[2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers]] · [[2026-06-27-u-s-and-european-semiconductor-stocks-sold-off-friday-on-fea]]
+**Related:** [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival]] · [[2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers]] · [[2026-06-27-u-s-and-european-semiconductor-stocks-sold-off-friday-on-fea]]
 <!-- graph:end -->

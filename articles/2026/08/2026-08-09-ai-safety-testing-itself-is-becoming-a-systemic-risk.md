@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-09-cyber-evaluation-sandboxes-are-failing-to-contain-the-models
 - 2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk
 - 2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped
-- 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
+- 2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we
 embedding_id: 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
 event_name: ''
 ---
@@ -42,5 +42,5 @@ A detailed TechCrunch analysis shows that cybersecurity evaluation environments 
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk]] · [[2026-08-09-cyber-evaluation-sandboxes-are-failing-to-contain-the-models]] · [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]] · [[2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]]
+**Related:** [[2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk]] · [[2026-08-09-cyber-evaluation-sandboxes-are-failing-to-contain-the-models]] · [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]] · [[2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped]] · [[2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we]]
 <!-- graph:end -->

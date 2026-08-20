@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-06-suno-says-it-will-watermark-ai-generated-songs-amid-legal-pr
-- 2026-06-05-stock-music-watermarks-surface-in-gemini-generated-songs
-- 2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an
-- 2026-08-12-claude-users-push-back-as-anthropic-begins-watermarking-gene
-- 2026-08-15-anthropic-details-how-claude-s-new-text-watermarking-will-wo
+- 2026-07-15-hack-suggests-suno-scraped-youtube-and-other-sources-for-ai
+- 2026-08-14-google-will-allow-users-to-remove-visible-watermarks-from-ai
+- 2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera
+- 2026-08-14-google-makes-visible-ai-watermarks-optional-keeps-invisible
 embedding_id: 2026-08-06-suno-says-it-will-start-watermarking-ai-generated-songs
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Suno announced audio watermarking, fingerprinting, tighter download controls, an
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-suno-says-it-will-watermark-ai-generated-songs-amid-legal-pr]] · [[2026-06-05-stock-music-watermarks-surface-in-gemini-generated-songs]] · [[2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an]] · [[2026-08-12-claude-users-push-back-as-anthropic-begins-watermarking-gene]] · [[2026-08-15-anthropic-details-how-claude-s-new-text-watermarking-will-wo]]
+**Related:** [[2026-08-06-suno-says-it-will-watermark-ai-generated-songs-amid-legal-pr]] · [[2026-07-15-hack-suggests-suno-scraped-youtube-and-other-sources-for-ai]] · [[2026-08-14-google-will-allow-users-to-remove-visible-watermarks-from-ai]] · [[2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera]] · [[2026-08-14-google-makes-visible-ai-watermarks-optional-keeps-invisible]]
 <!-- graph:end -->

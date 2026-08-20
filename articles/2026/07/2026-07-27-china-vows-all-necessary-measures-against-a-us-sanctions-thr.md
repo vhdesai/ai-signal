@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi
 - 2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th
+- 2026-07-21-u-s-threatens-sanctions-against-chinese-ai-models-over-alleg
 - 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
 - 2026-08-10-openai-pauses-internal-activity-on-unreleased-astra-model-ov
-- 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
 embedding_id: 2026-07-27-china-vows-all-necessary-measures-against-a-us-sanctions-thr
 event_name: ''
 ---
@@ -38,5 +38,5 @@ China warned it would take “all necessary measures” if the US proceeds with 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi]] · [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th]] · [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]] · [[2026-08-10-openai-pauses-internal-activity-on-unreleased-astra-model-ov]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]]
+**Related:** [[2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi]] · [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th]] · [[2026-07-21-u-s-threatens-sanctions-against-chinese-ai-models-over-alleg]] · [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]] · [[2026-08-10-openai-pauses-internal-activity-on-unreleased-astra-model-ov]]
 <!-- graph:end -->

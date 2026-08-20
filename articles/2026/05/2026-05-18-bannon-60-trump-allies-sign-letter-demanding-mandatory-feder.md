@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde
 - 2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc
 - 2026-05-21-trump-postpones-ai-executive-order-i-didn-t-like-certain-asp
-- 2026-06-02-trump-signs-ai-executive-order-cfr-publishes-assessment
+- 2026-06-02-trump-signs-narrower-than-expected-ai-executive-order
 embedding_id: 2026-05-18-bannon-60-trump-allies-sign-letter-demanding-mandatory-feder
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Former Trump advisor Steve Bannon joined over 60 conservative allies in signing 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c]] · [[2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde]] · [[2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc]] · [[2026-05-21-trump-postpones-ai-executive-order-i-didn-t-like-certain-asp]] · [[2026-06-02-trump-signs-ai-executive-order-cfr-publishes-assessment]]
+**Related:** [[2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c]] · [[2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde]] · [[2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc]] · [[2026-05-21-trump-postpones-ai-executive-order-i-didn-t-like-certain-asp]] · [[2026-06-02-trump-signs-narrower-than-expected-ai-executive-order]]
 <!-- graph:end -->

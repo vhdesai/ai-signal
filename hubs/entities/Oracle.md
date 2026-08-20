@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 134
+member_count: 145
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 134 connected article(s).
+> Auto-generated entity hub. 145 connected article(s).
 
 - `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
 - `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
@@ -21,6 +21,7 @@ member_count: 134
 - `2026-08-11` [[2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at|Enterprise AI Spending Shifts from Training to Operations at Scale]]
 - `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
 - `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]
+- `2026-08-08` [[2026-08-08-nvidia-invests-up-to-3b-in-blackstone-backed-power-firm-lanc|Nvidia invests up to $3B in Blackstone-backed power firm Lancium]]
 - `2026-08-08` [[2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the|Facing AI "apocalypse," software companies race to reinvent themselves]]
 - `2026-08-07` [[2026-08-07-marktechpost-research-roundup-safety-classifiers-agent-memor|MarkTechPost research roundup: safety classifiers, agent memory, and multimodal RAG tooling]]
 - `2026-08-06` [[2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights|Rep. Ro Khanna to introduce a “Data Center Bill of Rights”]]
@@ -28,6 +29,7 @@ member_count: 134
 - `2026-08-04` [[2026-08-04-wednesday-august-5-2026-prepared-for-senior-technology-leade|Wednesday, August 5, 2026 · Prepared for senior technology leadership]]
 - `2026-08-04` [[2026-08-04-oracle-nears-junk-grade-credit-rating-on-ai-data-center-debt|Oracle nears junk-grade credit rating on AI data-center debt]]
 - `2026-08-04` [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g|Open-weight models close the frontier gap while the safety gap persists]]
+- `2026-08-03` [[2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc|Oracle’s position highlights the risk embedded in infrastructure-first AI strategies when capital intensity rises…]]
 - `2026-08-03` [[2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny|Oracle's AI infrastructure bet draws renewed scrutiny]]
 - `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
 - `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
@@ -40,6 +42,11 @@ member_count: 134
 - `2026-07-29` [[2026-07-29-gartner-names-aws-google-microsoft-oracle-as-cloud-ai-infras|Gartner names AWS, Google, Microsoft, Oracle as Cloud AI Infrastructure leaders]]
 - `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
 - `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
+- `2026-07-23` [[2026-07-23-amd-takes-on-nvidia-with-helios-rack-scale-ai-system|AMD takes on NVIDIA with Helios rack-scale AI system]]
+- `2026-07-22` [[2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil|Oracle and Databricks add AI-native enterprise workflow building blocks]]
+- `2026-07-21` [[2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover|NVIDIA ramps Vera Rubin around tokens per megawatt and sovereign AI]]
+- `2026-07-18` [[2026-07-18-oracle-data-centers-reportedly-face-multibillion-dollar-cost|Oracle data centers reportedly face multibillion-dollar cost surprises]]
+- `2026-07-17` [[2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-to-accelerate|Meta Hires Senior AWS Compute Chief Dave Brown to Accelerate AI Infrastructure]]
 - `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
 - `2026-07-12` [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le|Frontier Proof Claims, Open-Model Momentum, and a Hardening Legal & Policy Backdrop]]
@@ -66,7 +73,11 @@ member_count: 134
 - `2026-06-23` [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption|Oracle Cuts ~21,000 Jobs (~13% of Workforce), Cites AI Adoption]]
 - `2026-06-22` [[2026-06-22-oracle-discloses-21-000-job-cuts-over-12-months-citing-ai-ad|Oracle Discloses ~21,000 Job Cuts Over 12 Months, Citing AI Adoption]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
+- `2026-06-11` [[2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-spending-guidance-spo|Oracle Beat Earnings but Fell 11% as AI Spending Guidance Spooked Investors]]
+- `2026-06-11` [[2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-capex-guidance-spooke|Oracle Beat Earnings but Fell 11% as AI Capex Guidance Spooked Investors]]
 - `2026-06-10` [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness|Oracle's AI Cloud Surge Is Offset by Software Weakness]]
+- `2026-06-10` [[2026-06-10-oracle-reports-record-q4-oci-revenue-surges-93-yoy-ai-backlo|Oracle Reports Record Q4: OCI Revenue Surges 93% YoY, AI Backlog Converts]]
+- `2026-06-10` [[2026-06-10-openai-models-and-codex-now-available-through-oracle-cloud|OpenAI Models and Codex Now Available Through Oracle Cloud]]
 - `2026-06-10` [[2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat|Microsoft's Xbox Unit Plans Staff Cuts as Margins Deteriorate]]
 - `2026-06-09` [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog|Oracle Reports Earnings with Record $553B AI Backlog]]
 - `2026-05-27` [[2026-05-27-the-week-that-reset-the-ai-industry|The Week That Reset the AI Industry]]

@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl
 - 2026-05-27-openai-names-south-korea-a-key-partner-for-ai-cyber-defense
 - 2026-08-07-openai-publishes-its-containment-posture-for-critical-cyber
-- 2026-04-15-model-releases
-- 2026-04-03-microsoft-announced-a-10b-investment-in-japan-2026-2029-to-e
+- 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
+- 2026-07-17-microsoft-readies-project-perception-a-multi-model-ai-securi
 embedding_id: 2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI Chief Strategy Officer Jason Kwon confirmed in a Tokyo interview that the
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl]] · [[2026-05-27-openai-names-south-korea-a-key-partner-for-ai-cyber-defense]] · [[2026-08-07-openai-publishes-its-containment-posture-for-critical-cyber]] · [[2026-04-15-model-releases]] · [[2026-04-03-microsoft-announced-a-10b-investment-in-japan-2026-2029-to-e]]
+**Related:** [[2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl]] · [[2026-05-27-openai-names-south-korea-a-key-partner-for-ai-cyber-defense]] · [[2026-08-07-openai-publishes-its-containment-posture-for-critical-cyber]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-07-17-microsoft-readies-project-perception-a-multi-model-ai-securi]]
 <!-- graph:end -->

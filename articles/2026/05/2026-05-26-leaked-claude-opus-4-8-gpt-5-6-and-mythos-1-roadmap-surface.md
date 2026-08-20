@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-08-openai-to-publicly-release-gpt-5-6-sol-terra-luna-on-july-9
 - 2026-07-07-openai-gpt-5-6-public-release-thursday-after-federal-pre-rel
 - 2026-06-20-gpt-5-6-rumors-continue-to-build-ahead-of-rumored-june-23-la
+- 2026-06-20-multiple-developers-reported-markedly-different-performance
 - 2026-05-18-openai-expanded-its-codex-agentic-coding-assistant-to-mobile
-- 2026-07-08-openai-to-open-gpt-5-6-to-the-public-july-9-after-clearing-f
 embedding_id: 2026-05-26-leaked-claude-opus-4-8-gpt-5-6-and-mythos-1-roadmap-surface
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Leaks indicate Claude Opus 4.8 "enhances visual understanding and multi-step rea
 
 **Entities:** [[Amazon]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-08-openai-to-publicly-release-gpt-5-6-sol-terra-luna-on-july-9]] · [[2026-07-07-openai-gpt-5-6-public-release-thursday-after-federal-pre-rel]] · [[2026-06-20-gpt-5-6-rumors-continue-to-build-ahead-of-rumored-june-23-la]] · [[2026-05-18-openai-expanded-its-codex-agentic-coding-assistant-to-mobile]] · [[2026-07-08-openai-to-open-gpt-5-6-to-the-public-july-9-after-clearing-f]]
+**Related:** [[2026-07-08-openai-to-publicly-release-gpt-5-6-sol-terra-luna-on-july-9]] · [[2026-07-07-openai-gpt-5-6-public-release-thursday-after-federal-pre-rel]] · [[2026-06-20-gpt-5-6-rumors-continue-to-build-ahead-of-rumored-june-23-la]] · [[2026-06-20-multiple-developers-reported-markedly-different-performance]] · [[2026-05-18-openai-expanded-its-codex-agentic-coding-assistant-to-mobile]]
 <!-- graph:end -->

@@ -23,10 +23,8 @@ themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-17-openai-contracts-for-8-gw-it-at-the-ports-pike-campus-in-ohi
-related_article_ids:
-- 2026-08-17-nvidia-guarantees-105b-for-openai-s-ohio-8-gw-campus
-- 2026-08-17-nvidia-guarantees-sb-energy-s-ports-pike-campus-to-exclusive
+canonical_article_id: 2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai
+related_article_ids: []
 embedding_id: 2026-08-17-openai-joins-the-ports-pike-project-targeting-roughly-8-gw-o
 event_name: ''
 ---
@@ -40,6 +38,5 @@ OpenAI announced it will "secure approximately 8 gigawatts-IT at the PORTS–Pik
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Canonical:** [[2026-08-17-openai-contracts-for-8-gw-it-at-the-ports-pike-campus-in-ohi]]
-**Related:** [[2026-08-17-nvidia-guarantees-105b-for-openai-s-ohio-8-gw-campus]] · [[2026-08-17-nvidia-guarantees-sb-energy-s-ports-pike-campus-to-exclusive]]
+**Canonical:** [[2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai]]
 <!-- graph:end -->

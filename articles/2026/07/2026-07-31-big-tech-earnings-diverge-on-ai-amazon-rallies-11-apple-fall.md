@@ -21,8 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
+- 2026-07-31-amazon-s-aws-acceleration-validates-ai-infrastructure-spendi
 - 2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200
-- 2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge
 embedding_id: 2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Quarterly results split Big Tech along AI lines: Amazon jumped roughly 11% on ac
 
 **Entities:** [[Amazon]] · [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200]] · [[2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge]]
+**Related:** [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-07-31-amazon-s-aws-acceleration-validates-ai-infrastructure-spendi]] · [[2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200]]
 <!-- graph:end -->

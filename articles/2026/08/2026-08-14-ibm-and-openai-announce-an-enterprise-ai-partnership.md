@@ -23,7 +23,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-13-ibm-embeds-openai-frontier-models-across-consulting-delivery
-- 2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d
 embedding_id: 2026-08-14-ibm-and-openai-announce-an-enterprise-ai-partnership
 event_name: ''
 ---
@@ -37,5 +36,5 @@ IBM will bring OpenAI frontier models, including GPT-5.6, into its enterprise co
 
 **Entities:** [[IBM]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-13-ibm-embeds-openai-frontier-models-across-consulting-delivery]] · [[2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d]]
+**Related:** [[2026-08-13-ibm-embeds-openai-frontier-models-across-consulting-delivery]]
 <!-- graph:end -->

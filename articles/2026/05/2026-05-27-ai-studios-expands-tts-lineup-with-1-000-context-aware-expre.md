@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike
 - 2026-03-28-mistral-released-voxtral-tts-an-open-source-text-to-speech-m
+- 2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l
 - 2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a
 - 2026-07-28-fish-audio-raises-52-million-seed-for-expressive-voice-model
-- 2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai
 embedding_id: 2026-05-27-ai-studios-expands-tts-lineup-with-1-000-context-aware-expre
 event_name: ''
 ---
@@ -36,5 +36,5 @@ AI Studios rolled out a major expansion of its text-to-speech catalog with more 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike]] · [[2026-03-28-mistral-released-voxtral-tts-an-open-source-text-to-speech-m]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-07-28-fish-audio-raises-52-million-seed-for-expressive-voice-model]] · [[2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai]]
+**Related:** [[2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike]] · [[2026-03-28-mistral-released-voxtral-tts-an-open-source-text-to-speech-m]] · [[2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-07-28-fish-audio-raises-52-million-seed-for-expressive-voice-model]]
 <!-- graph:end -->

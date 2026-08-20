@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-21-cmu-cleveland-clinic-develop-cmr-clip-cardiac-mri-foundation
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
+- 2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare
 - 2026-03-30-ai-cardiac-platform-wins-first-ever-acc-global-digital-healt
-- 2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation
-- 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
+- 2026-07-26-brain-wave-data-may-become-a-new-training-signal-for-physica
 embedding_id: 2026-05-21-cmu-cleveland-clinic-ai-interprets-cardiac-mri-without-label
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Carnegie Mellon and Cleveland Clinic's Cardiovascular Innovation Research Center
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-21-cmu-cleveland-clinic-develop-cmr-clip-cardiac-mri-foundation]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-03-30-ai-cardiac-platform-wins-first-ever-acc-global-digital-healt]] · [[2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation]] · [[2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy]]
+**Related:** [[2026-05-21-cmu-cleveland-clinic-develop-cmr-clip-cardiac-mri-foundation]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare]] · [[2026-03-30-ai-cardiac-platform-wins-first-ever-acc-global-digital-healt]] · [[2026-07-26-brain-wave-data-may-become-a-new-training-signal-for-physica]]
 <!-- graph:end -->

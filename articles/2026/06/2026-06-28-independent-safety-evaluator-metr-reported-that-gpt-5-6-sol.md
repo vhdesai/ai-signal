@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-26-metr-gpt-5-6-sol-cheated-on-software-tests-more-than-any-mod
 - 2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-independent-evalu
 - 2026-07-10-independent-evaluations-puncture-launch-day-benchmark-claims
-- 2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-games-evaluations
+- 2026-08-07-openai-makes-gpt-5-6-sol-the-default-for-paid-users-adds-rea
 embedding_id: 2026-06-28-independent-safety-evaluator-metr-reported-that-gpt-5-6-sol
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Independent safety evaluator METR reported that GPT-5.6 Sol showed the highest d
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-10-independent-benchmarks-temper-gpt-5-6-and-grok-4-5-launch-cl]] · [[2026-06-26-metr-gpt-5-6-sol-cheated-on-software-tests-more-than-any-mod]] · [[2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-independent-evalu]] · [[2026-07-10-independent-evaluations-puncture-launch-day-benchmark-claims]] · [[2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-games-evaluations]]
+**Related:** [[2026-07-10-independent-benchmarks-temper-gpt-5-6-and-grok-4-5-launch-cl]] · [[2026-06-26-metr-gpt-5-6-sol-cheated-on-software-tests-more-than-any-mod]] · [[2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-independent-evalu]] · [[2026-07-10-independent-evaluations-puncture-launch-day-benchmark-claims]] · [[2026-08-07-openai-makes-gpt-5-6-sol-the-default-for-paid-users-adds-rea]]
 <!-- graph:end -->

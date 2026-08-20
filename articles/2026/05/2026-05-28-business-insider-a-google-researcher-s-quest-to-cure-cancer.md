@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-08-05-jeff-dean-and-senior-google-ai-researchers-leave-to-launch-d
+- 2026-08-16-jeff-dean-s-last-day-at-google-an-hour-by-hour-breakdown
 - 2026-05-16-today-s-digest-spans-a-particularly-active-24-hour-window-in
 - 2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour
-- 2026-05-17-microsoft-corp-dev-ai-intelligence
 embedding_id: 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Business Insider profiled a Google researcher working to apply foundation models
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-08-05-jeff-dean-and-senior-google-ai-researchers-leave-to-launch-d]] · [[2026-05-16-today-s-digest-spans-a-particularly-active-24-hour-window-in]] · [[2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour]] · [[2026-05-17-microsoft-corp-dev-ai-intelligence]]
+**Related:** [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-08-05-jeff-dean-and-senior-google-ai-researchers-leave-to-launch-d]] · [[2026-08-16-jeff-dean-s-last-day-at-google-an-hour-by-hour-breakdown]] · [[2026-05-16-today-s-digest-spans-a-particularly-active-24-hour-window-in]] · [[2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour]]
 <!-- graph:end -->

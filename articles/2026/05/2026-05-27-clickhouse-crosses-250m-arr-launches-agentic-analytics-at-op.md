@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-openai-passes-40b-run-rate-enterprise-now-larger-than-consum
+- 2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-inference-silicon-to
 - 2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue
 - 2026-08-17-anthropic-s-arr-reaches-65b-pre-ipo-contracts-imply-1-8t
 - 2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b
-- 2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b
 embedding_id: 2026-05-27-clickhouse-crosses-250m-arr-launches-agentic-analytics-at-op
 event_name: ''
 ---
@@ -37,5 +37,5 @@ At its Open House 2026 user conference, ClickHouse disclosed it has crossed $250
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-14-openai-passes-40b-run-rate-enterprise-now-larger-than-consum]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue]] · [[2026-08-17-anthropic-s-arr-reaches-65b-pre-ipo-contracts-imply-1-8t]] · [[2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b]] · [[2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b]]
+**Related:** [[2026-08-14-openai-passes-40b-run-rate-enterprise-now-larger-than-consum]] · [[2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-inference-silicon-to]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue]] · [[2026-08-17-anthropic-s-arr-reaches-65b-pre-ipo-contracts-imply-1-8t]] · [[2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b]]
 <!-- graph:end -->

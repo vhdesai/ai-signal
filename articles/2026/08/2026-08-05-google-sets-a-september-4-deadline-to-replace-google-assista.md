@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-
+- 2026-07-16-eu-orders-google-to-open-android-and-share-search-data-with
 - 2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin
 - event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
 - 2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro
-- 2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan
 embedding_id: 2026-08-05-google-sets-a-september-4-deadline-to-replace-google-assista
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google confirmed it will begin removing Google Assistant from Android phones and
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-]] · [[2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin]] · [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]] · [[2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro]] · [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]]
+**Related:** [[2026-05-13-]] · [[2026-07-16-eu-orders-google-to-open-android-and-share-search-data-with]] · [[2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin]] · [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]] · [[2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro]]
 <!-- graph:end -->

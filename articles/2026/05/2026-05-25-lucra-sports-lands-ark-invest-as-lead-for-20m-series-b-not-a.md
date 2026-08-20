@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the
-- 2026-08-11-ai-startups-raised-in-h1-2026-openai-and-anthropic-took-more
-- 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
+- 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
+- 2026-08-03-semianalysis-dylan-patel-targets-400-million-venture-capital
 embedding_id: 2026-05-25-lucra-sports-lands-ark-invest-as-lead-for-20m-series-b-not-a
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Lucra Sports founder Dylan Robbins landed Cathie Wood and her ARK Invest Venture
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the]] · [[2026-08-11-ai-startups-raised-in-h1-2026-openai-and-anthropic-took-more]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]]
+**Related:** [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-08-03-semianalysis-dylan-patel-targets-400-million-venture-capital]]
 <!-- graph:end -->

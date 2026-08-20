@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-05-llamaindex-ships-legal-kb-an-agentic-retrieval-reference-app
 - 2026-05-23-hkust-paper-llm-judge-agents-commit-serious-legal-errors-in
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
+- 2026-08-06-openai-launches-codex-security-in-research-preview
 - 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
-- 2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop
 embedding_id: 2026-07-05-llamaindex-published-legal-kb-a-public-reference-application
 event_name: ''
 ---
@@ -37,5 +37,5 @@ LlamaIndex published legal-kb, a public reference application that gives AI agen
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-05-llamaindex-ships-legal-kb-an-agentic-retrieval-reference-app]] · [[2026-05-23-hkust-paper-llm-judge-agents-commit-serious-legal-errors-in]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop]]
+**Related:** [[2026-07-05-llamaindex-ships-legal-kb-an-agentic-retrieval-reference-app]] · [[2026-05-23-hkust-paper-llm-judge-agents-commit-serious-legal-errors-in]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-08-06-openai-launches-codex-security-in-research-preview]] · [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-05-global-anthropic-outage-disrupts-claude-chat-api-and-claude
 - 2026-06-06-anthropic-suffers-multi-model-claude-outage
 - 2026-04-06-anthropic-has-terminated-the-ability-to-use-claude-subscript
 - 2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
-- 2026-04-02-anthropic-s-claude-code-source-code-was-leaked-prompting-the
 embedding_id: 2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic experienced a broad outage affecting Claude’s consumer chat, the API
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-04-06-anthropic-has-terminated-the-ability-to-use-claude-subscript]] · [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]] · [[2026-04-02-anthropic-s-claude-code-source-code-was-leaked-prompting-the]]
+**Related:** [[2026-08-05-global-anthropic-outage-disrupts-claude-chat-api-and-claude]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-04-06-anthropic-has-terminated-the-ability-to-use-claude-subscript]] · [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-19-nyu-s-damodaran-warns-ai-correction-could-be-more-painful-th
+- 2026-06-20-nyu-finance-professor-aswath-damodaran-known-as-the-dean-of
 - 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
+- 2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc
 - 2026-08-15-bond-traders-scrutinize-70b-off-balance-sheet-ai-credit-back
-- 2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are
-- 2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190
 embedding_id: 2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot
 event_name: ''
 ---
@@ -39,5 +39,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-19-nyu-s-damodaran-warns-ai-correction-could-be-more-painful-th]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-08-15-bond-traders-scrutinize-70b-off-balance-sheet-ai-credit-back]] · [[2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]]
+**Related:** [[2026-06-19-nyu-s-damodaran-warns-ai-correction-could-be-more-painful-th]] · [[2026-06-20-nyu-finance-professor-aswath-damodaran-known-as-the-dean-of]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-08-15-bond-traders-scrutinize-70b-off-balance-sheet-ai-credit-back]]
 <!-- graph:end -->

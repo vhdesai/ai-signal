@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and
 - 2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
+- 2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic
 - 2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r
 embedding_id: 2026-06-08-alibaba-restructures-ai-organization-establishes-token-found
 event_name: ''
@@ -40,5 +41,5 @@ Alibaba announced a major organizational restructuring of its AI business, estab
 
 **Entities:** [[Alibaba]] · [[Baidu]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and]] · [[2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r]]
+**Related:** [[2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and]] · [[2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic]] · [[2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r]]
 <!-- graph:end -->

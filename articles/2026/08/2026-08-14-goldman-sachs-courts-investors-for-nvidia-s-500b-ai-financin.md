@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-14-nvidia-s-500b-compute-financing-platform-draws-private-credi
 - 2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne
 - 2026-08-14-nvidia-s-500-billion-compute-financing-platform-draws-privat
 - 2026-08-10-nvidia-lines-up-500b-with-wall-street-giants-to-financialize
-- 2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise
 embedding_id: 2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Goldman Sachs is marketing Nvidia's roughly $500B chip-backed financing program 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne]] · [[2026-08-14-nvidia-s-500-billion-compute-financing-platform-draws-privat]] · [[2026-08-10-nvidia-lines-up-500b-with-wall-street-giants-to-financialize]] · [[2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise]]
+**Related:** [[2026-08-14-nvidia-s-500b-compute-financing-platform-draws-private-credi]] · [[2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne]] · [[2026-08-14-nvidia-s-500-billion-compute-financing-platform-draws-privat]] · [[2026-08-10-nvidia-lines-up-500b-with-wall-street-giants-to-financialize]]
 <!-- graph:end -->

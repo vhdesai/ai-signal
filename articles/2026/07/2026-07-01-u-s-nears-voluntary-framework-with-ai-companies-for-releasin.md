@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel
 - 2026-07-31-europe-s-ai-safety-playbook-looms-over-the-u-s-framework-due
 - 2026-07-05-no-confirmed-primary-source-items-in-the-last-24-hours
+- 2026-08-19-white-house-ai-model-testing-framework-leaves-companies-with
 - 2026-05-27-wsj-opinion-an-ai-overwatch-act-would-help-the-us-compete-wi
-- 2026-08-05-white-house-to-exempt-open-weight-models-from-voluntary-ai-s
 embedding_id: 2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Reuters, relaying an FT report, says Washington is in advanced talks with AI com
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel]] · [[2026-07-31-europe-s-ai-safety-playbook-looms-over-the-u-s-framework-due]] · [[2026-07-05-no-confirmed-primary-source-items-in-the-last-24-hours]] · [[2026-05-27-wsj-opinion-an-ai-overwatch-act-would-help-the-us-compete-wi]] · [[2026-08-05-white-house-to-exempt-open-weight-models-from-voluntary-ai-s]]
+**Related:** [[2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel]] · [[2026-07-31-europe-s-ai-safety-playbook-looms-over-the-u-s-framework-due]] · [[2026-07-05-no-confirmed-primary-source-items-in-the-last-24-hours]] · [[2026-08-19-white-house-ai-model-testing-framework-leaves-companies-with]] · [[2026-05-27-wsj-opinion-an-ai-overwatch-act-would-help-the-us-compete-wi]]
 <!-- graph:end -->

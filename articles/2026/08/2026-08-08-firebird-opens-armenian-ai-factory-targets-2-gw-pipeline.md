@@ -1,17 +1,19 @@
 ---
 article_id: 2026-08-08-firebird-opens-armenian-ai-factory-targets-2-gw-pipeline
-title: Firebird Opens Armenian AI Factory, Targets 2 GW Pipeline
+title: Firebird opens Armenian AI factory, targets 2 GW pipeline
 date: '2026-08-08'
-source: NVIDIA Blog · Unite.AI
-url_original: https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/
-url_canonical: https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/
-url_status: found
-digest_source: digests\raw\2026-08-09_065625_Inbox_Daily AI News Digest - August 9,
-  2026.md
-content_hash: 448f39a396439cc26560ff3a73eed531170126478bec5734e153d2ffbc2bcdaf
+source: NVIDIA Blog / Unite.AI
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-08-09_065727_Final-Daily-AI-News-Digest.md
+content_hash: f68904fad29cff3d40d574c29de730b3203e18276dbb5c5f10b4a43e413fd7d0
 normalized_title_hash: c70459f78a6bcf9e
-canonical_url_hash: d31b6f14f3727b96
-tags: []
+canonical_url_hash: ''
+tags:
+- New
+- Sovereign ai
+- Capex
 entities:
 - NVIDIA
 - Perplexity
@@ -25,9 +27,9 @@ embedding_id: 2026-08-08-firebird-opens-armenian-ai-factory-targets-2-gw-pipelin
 event_name: ''
 ---
 
-# Firebird Opens Armenian AI Factory, Targets 2 GW Pipeline
+# Firebird opens Armenian AI factory, targets 2 GW pipeline
 
-Firebird opened its first AI factory in Hrazdan, Armenia — the CIS region’s largest — built on the NVIDIA DSX reference design. It plans to deploy more than 70,000 NVIDIA Rubin and Blackwell GPUs and 300 MW of capacity in Armenia by end-2027, part of an approximately 2 GW roadmap spanning Armenia, Kazakhstan, and other frontier markets. NVIDIA stated an intent to invest; Perplexity is among the first customers. The pattern: U.S. export licensing plus host-state approval as a repeatable market-entry template for sovereign AI. Industry News M&A
+Firebird opened its first AI factory in Hrazdan, Armenia—the CIS region's largest—built on the NVIDIA DSX reference design. It plans to deploy more than 70,000 NVIDIA Rubin and Blackwell GPUs and 300 MW of capacity in Armenia by end-2027, part of an approximately 2 GW roadmap spanning Armenia, Kazakhstan, and other frontier markets. Nvidia stated an intent to invest; Perplexity is among the first customers. URL: NVIDIA Blog: Firebird AI factory Armenia
 
 <!-- graph:start -->
 ## Connections

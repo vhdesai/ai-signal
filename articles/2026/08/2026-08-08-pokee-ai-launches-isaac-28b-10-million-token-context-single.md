@@ -22,9 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-08-pokee-ai-releases-isaac-28b-with-a-10m-token-context-window
 - 2026-08-08-pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agenti
 - 2026-08-08-pokee-ai-releases-pokee-isaac-28b-with-a-10m-token-context-w
-- 2026-08-08-pokee-ai-releases-isaac-28b-with-a-10m-token-context-window
 - 2026-08-08-pokee-ai-releases-isaac-28b-a-10m-token-agentic-model-for-cu
 - 2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens
 embedding_id: 2026-08-08-pokee-ai-launches-isaac-28b-10-million-token-context-single
@@ -40,5 +40,5 @@ Pokee AI released Isaac 28B, a 28B-parameter model with a verified 10M-token con
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-08-pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agenti]] · [[2026-08-08-pokee-ai-releases-pokee-isaac-28b-with-a-10m-token-context-w]] · [[2026-08-08-pokee-ai-releases-isaac-28b-with-a-10m-token-context-window]] · [[2026-08-08-pokee-ai-releases-isaac-28b-a-10m-token-agentic-model-for-cu]] · [[2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens]]
+**Related:** [[2026-08-08-pokee-ai-releases-isaac-28b-with-a-10m-token-context-window]] · [[2026-08-08-pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agenti]] · [[2026-08-08-pokee-ai-releases-pokee-isaac-28b-with-a-10m-token-context-w]] · [[2026-08-08-pokee-ai-releases-isaac-28b-a-10m-token-agentic-model-for-cu]] · [[2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens]]
 <!-- graph:end -->

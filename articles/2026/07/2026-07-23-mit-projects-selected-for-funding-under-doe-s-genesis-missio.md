@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft
 - 2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr
+- 2026-08-08-three-frontier-labs-containment-failures-traced-to-a-single
 - 2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315
 - 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
-- 2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l
 embedding_id: 2026-07-23-mit-projects-selected-for-funding-under-doe-s-genesis-missio
 event_name: ''
 ---
@@ -37,5 +38,5 @@ AI Safety & Policy Bipartisan AI Kill Switch Act introduced in the House; FRONTI
 
 **Entities:** [[Amazon]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]] · [[2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315]] · [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]] · [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]]
+**Related:** [[2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft]] · [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]] · [[2026-08-08-three-frontier-labs-containment-failures-traced-to-a-single]] · [[2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315]] · [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]]
 <!-- graph:end -->

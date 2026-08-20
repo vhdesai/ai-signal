@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for
 - 2026-06-30-nvidia-brings-its-bionemo-agent-toolkit-into-claude-science
 - 2026-08-11-china-s-leading-model-developers-remain-dependent-on-nvidia
-- 2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f
+- 2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst
 embedding_id: 2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia expanded its Agent Toolkit to add PhysicsNeMo and CUDA-X libraries as age
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod]] · [[2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for]] · [[2026-06-30-nvidia-brings-its-bionemo-agent-toolkit-into-claude-science]] · [[2026-08-11-china-s-leading-model-developers-remain-dependent-on-nvidia]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]]
+**Related:** [[2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod]] · [[2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for]] · [[2026-06-30-nvidia-brings-its-bionemo-agent-toolkit-into-claude-science]] · [[2026-08-11-china-s-leading-model-developers-remain-dependent-on-nvidia]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]]
 <!-- graph:end -->

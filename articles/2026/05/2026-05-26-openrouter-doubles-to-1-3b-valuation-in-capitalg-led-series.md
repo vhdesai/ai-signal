@@ -35,9 +35,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for
+- 2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 - 2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand
-- 2026-07-10-sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-u-s-hist
 embedding_id: 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
 event_name: ''
 ---
@@ -51,5 +51,5 @@ Micron and SK Hynix join the trillion-dollar club on AI memory demand Memory chi
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Apple]] · [[ByteDance]] · [[DeepSeek]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand]] · [[2026-07-10-sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-u-s-hist]]
+**Related:** [[2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for]] · [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand]]
 <!-- graph:end -->

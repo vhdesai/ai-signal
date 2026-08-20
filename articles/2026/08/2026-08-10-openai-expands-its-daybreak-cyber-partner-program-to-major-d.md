@@ -19,13 +19,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-13-ibm-partners-with-openai-to-embed-frontier-models-across-con
-- 2026-08-14-ibm-and-openai-announce-an-enterprise-ai-partnership
-- 2026-08-13-ibm-embeds-openai-frontier-models-across-its-consulting-deli
-- 2026-08-13-ibm-embeds-openai-frontier-models-into-its-consulting-delive
+dedupe_status: duplicate
+canonical_article_id: 2026-08-10-openai-expands-daybreak-cyber-partner-program-to-major-defen
+related_article_ids: []
 embedding_id: 2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d
 event_name: ''
 ---
@@ -39,5 +35,5 @@ OpenAI is embedding frontier cyber models with partners including Accenture, IBM
 
 **Entities:** [[IBM]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-13-ibm-partners-with-openai-to-embed-frontier-models-across-con]] · [[2026-08-14-ibm-and-openai-announce-an-enterprise-ai-partnership]] · [[2026-08-13-ibm-embeds-openai-frontier-models-across-its-consulting-deli]] · [[2026-08-13-ibm-embeds-openai-frontier-models-into-its-consulting-delive]]
+**Canonical:** [[2026-08-10-openai-expands-daybreak-cyber-partner-program-to-major-defen]]
 <!-- graph:end -->

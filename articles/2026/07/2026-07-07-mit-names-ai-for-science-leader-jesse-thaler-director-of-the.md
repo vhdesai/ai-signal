@@ -20,8 +20,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv
-- 2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research
-- 2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c
+- 2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations
+- 2026-08-01-mit-news-reports-that-csail-director-daniela-rus-received-th
 embedding_id: 2026-07-07-mit-names-ai-for-science-leader-jesse-thaler-director-of-the
 event_name: ''
 ---
@@ -33,5 +33,5 @@ MIT physics professor Jesse Thaler — inaugural director of the NSF AI Institut
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv]] · [[2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research]] · [[2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c]]
+**Related:** [[2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv]] · [[2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations]] · [[2026-08-01-mit-news-reports-that-csail-director-daniela-rus-received-th]]
 <!-- graph:end -->

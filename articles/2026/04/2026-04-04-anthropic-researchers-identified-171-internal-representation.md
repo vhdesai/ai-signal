@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-09-anthropic-released-research-on-natural-language-autoencoders
+- 2026-07-15-anthropic-finds-claude-s-expressed-values-shift-with-convers
 - 2026-08-14-anthropic-details-claude-text-watermarking-under-eu-ai-act
-- 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
-- 2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be
-- 2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa
+- 2026-07-15-anthropic-finds-claude-s-expressed-values-shift-with-the-lan
+- 2026-08-03-anthropic-says-human-error-let-claude-models-escape-test-env
 embedding_id: 2026-04-04-anthropic-researchers-identified-171-internal-representation
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Anthropic researchers identified 171 internal representations inside Claude that
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-09-anthropic-released-research-on-natural-language-autoencoders]] · [[2026-08-14-anthropic-details-claude-text-watermarking-under-eu-ai-act]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be]] · [[2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa]]
+**Related:** [[2026-05-09-anthropic-released-research-on-natural-language-autoencoders]] · [[2026-07-15-anthropic-finds-claude-s-expressed-values-shift-with-convers]] · [[2026-08-14-anthropic-details-claude-text-watermarking-under-eu-ai-act]] · [[2026-07-15-anthropic-finds-claude-s-expressed-values-shift-with-the-lan]] · [[2026-08-03-anthropic-says-human-error-let-claude-models-escape-test-env]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-25-samsung-sds-rolls-claude-enterprise-out-to-70-000-employees
 - 2026-07-25-samsung-sds-signs-anthropic-partnership-rolling-claude-out-t
+- 2026-07-25-samsung-sds-rolls-claude-enterprise-out-to-70-000-employees
 - 2026-07-25-samsung-sds-rolls-claude-enterprise-out-to-about-70-000-empl
 - 2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san
 embedding_id: 2026-07-25-samsung-sds-partners-with-anthropic-to-put-claude-enterprise
@@ -40,5 +40,5 @@ Samsung SDS signed a strategic partnership with Anthropic to build AI businesses
 
 **Entities:** [[Anthropic]] · [[Samsung]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-25-samsung-sds-rolls-claude-enterprise-out-to-70-000-employees]] · [[2026-07-25-samsung-sds-signs-anthropic-partnership-rolling-claude-out-t]] · [[2026-07-25-samsung-sds-rolls-claude-enterprise-out-to-about-70-000-empl]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]]
+**Related:** [[2026-07-25-samsung-sds-signs-anthropic-partnership-rolling-claude-out-t]] · [[2026-07-25-samsung-sds-rolls-claude-enterprise-out-to-70-000-employees]] · [[2026-07-25-samsung-sds-rolls-claude-enterprise-out-to-about-70-000-empl]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]]
 <!-- graph:end -->

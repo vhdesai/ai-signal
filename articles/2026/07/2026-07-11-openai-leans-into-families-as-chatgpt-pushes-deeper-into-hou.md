@@ -23,8 +23,8 @@ dedupe_status: duplicate
 canonical_article_id: 2026-07-11-openai-creates-a-dedicated-product-role-for-families-as-chat
 related_article_ids:
 - 2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol
-- 2026-06-26-chatgpt-expands-personal-finance-and-dictation-and-retires-g
-- 2026-08-01-sam-altman-continues-pitching-chatgpt-as-a-family-and-parent
+- 2026-08-18-openai-launches-chatgpt-for-teens-with-parental-controls-and
+- 2026-07-23-openai-chatgpt-health-now-available-to-all-u-s-adults-with-a
 embedding_id: 2026-07-11-openai-leans-into-families-as-chatgpt-pushes-deeper-into-hou
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI is hiring a dedicated product manager to build ChatGPT experiences for fa
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
 **Canonical:** [[2026-07-11-openai-creates-a-dedicated-product-role-for-families-as-chat]]
-**Related:** [[2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol]] · [[2026-06-26-chatgpt-expands-personal-finance-and-dictation-and-retires-g]] · [[2026-08-01-sam-altman-continues-pitching-chatgpt-as-a-family-and-parent]]
+**Related:** [[2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol]] · [[2026-08-18-openai-launches-chatgpt-for-teens-with-parental-controls-and]] · [[2026-07-23-openai-chatgpt-health-now-available-to-all-u-s-adults-with-a]]
 <!-- graph:end -->

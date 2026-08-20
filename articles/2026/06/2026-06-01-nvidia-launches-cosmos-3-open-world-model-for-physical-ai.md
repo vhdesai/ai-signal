@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-06-nvidia-details-cosmos-3-an-open-world-model-family-for-physi
+- 2026-07-20-nvidia-releases-cosmos-3-edge-for-on-device-physical-ai
 - 2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica
+- 2026-07-16-nvidia-unveils-cosmos-3-edge-and-expands-its-japan-physical
 - 2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model
-- 2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at
 embedding_id: 2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Nvidia released Cosmos 3, an open frontier foundation model designed for physica
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-06-nvidia-details-cosmos-3-an-open-world-model-family-for-physi]] · [[2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica]] · [[2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model]] · [[2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at]]
+**Related:** [[2026-08-06-nvidia-details-cosmos-3-an-open-world-model-family-for-physi]] · [[2026-07-20-nvidia-releases-cosmos-3-edge-for-on-device-physical-ai]] · [[2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica]] · [[2026-07-16-nvidia-unveils-cosmos-3-edge-and-expands-its-japan-physical]] · [[2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model]]
 <!-- graph:end -->

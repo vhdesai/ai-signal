@@ -18,8 +18,9 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i
-related_article_ids: []
+canonical_article_id: 2026-08-12-thrive-holdings-raises-2b-at-12b-valuation-to-apply-ai-to-tr
+related_article_ids:
+- 2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation
 embedding_id: 2026-08-12-thrive-holdings-raises-at-valuation-to-apply-ai-to-tradition
 event_name: ''
 ---
@@ -32,5 +33,6 @@ Thrive Holdings, created by Josh Kushner’s Thrive Capital, is raising \ billio
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i]]
+**Canonical:** [[2026-08-12-thrive-holdings-raises-2b-at-12b-valuation-to-apply-ai-to-tr]]
+**Related:** [[2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]]
 <!-- graph:end -->

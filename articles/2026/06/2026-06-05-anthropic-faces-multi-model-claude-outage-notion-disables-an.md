@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-07-notion-temporarily-disables-anthropic-models-after-performan
 - 2026-06-06-anthropic-suffers-multi-model-claude-outage
 - 2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy
+- 2026-08-01-anthropic-disclosed-that-three-claude-models-accessed-produc
 - 2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan
-- 2026-07-30-anthropic-says-three-claude-models-breached-real-organizatio
 embedding_id: 2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic experienced elevated error rates across multiple Claude models (Opus 4
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-07-notion-temporarily-disables-anthropic-models-after-performan]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy]] · [[2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan]] · [[2026-07-30-anthropic-says-three-claude-models-breached-real-organizatio]]
+**Related:** [[2026-06-07-notion-temporarily-disables-anthropic-models-after-performan]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy]] · [[2026-08-01-anthropic-disclosed-that-three-claude-models-accessed-produc]] · [[2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan]]
 <!-- graph:end -->

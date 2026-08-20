@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation
 - 2026-06-30-agentic-security-startup-straiker-announced-a-64m-series-a-l
 - 2026-08-04-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents
+- 2026-07-30-synthetic-user-startup-simile-raises-200m-series-b-at-2b-val
 - 2026-08-03-zenity-raises-125m-series-c-to-secure-and-govern-enterprise
-- 2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents
 embedding_id: 2026-07-09-lyzr-raises-100m-series-b-run-largely-by-its-own-ai-agent
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Enterprise-agent startup Lyzr closed a $100M Series B at roughly a $500M valuati
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation]] · [[2026-06-30-agentic-security-startup-straiker-announced-a-64m-series-a-l]] · [[2026-08-04-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-and-govern-enterprise]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]]
+**Related:** [[2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation]] · [[2026-06-30-agentic-security-startup-straiker-announced-a-64m-series-a-l]] · [[2026-08-04-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]] · [[2026-07-30-synthetic-user-startup-simile-raises-200m-series-b-at-2b-val]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-and-govern-enterprise]]
 <!-- graph:end -->

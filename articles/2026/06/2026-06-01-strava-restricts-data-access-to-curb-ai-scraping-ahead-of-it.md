@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-17-patreon-shifts-from-asking-to-blocking-ai-scraper-bots
+- 2026-07-17-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively
+- 2026-07-17-ai-commoditization-pressures-proprietary-model-economics
+- 2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
-- 2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us
-- 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
-- 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
-- 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 embedding_id: 2026-06-01-strava-restricts-data-access-to-curb-ai-scraping-ahead-of-it
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Strava announced tighter limits on how third parties can access its activity dat
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]]
+**Related:** [[2026-07-17-patreon-shifts-from-asking-to-blocking-ai-scraper-bots]] · [[2026-07-17-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively]] · [[2026-07-17-ai-commoditization-pressures-proprietary-model-economics]] · [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]]
 <!-- graph:end -->

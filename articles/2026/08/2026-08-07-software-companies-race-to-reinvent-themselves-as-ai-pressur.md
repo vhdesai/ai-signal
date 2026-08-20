@@ -22,9 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a
 - 2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models
+- 2026-07-17-ai-commoditization-pressures-proprietary-model-economics
 - 2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the
-- 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
-- 2026-07-09-traditional-saas-loses-ground-as-corporate-ai-budgets-shift
 embedding_id: 2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur
 event_name: ''
 ---
@@ -37,5 +36,5 @@ The Wall Street Journal reported that once-hot software companies are racing to 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a]] · [[2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models]] · [[2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-07-09-traditional-saas-loses-ground-as-corporate-ai-budgets-shift]]
+**Related:** [[2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a]] · [[2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models]] · [[2026-07-17-ai-commoditization-pressures-proprietary-model-economics]] · [[2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the]]
 <!-- graph:end -->

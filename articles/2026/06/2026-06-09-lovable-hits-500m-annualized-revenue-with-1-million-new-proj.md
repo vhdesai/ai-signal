@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-09-lovable-hits-500m-annualized-revenue-with-1m-new-projects-pe
+- 2026-08-12-ai-coding-startup-lovable-raises-400m-at-13-3b-valuation
 - 2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation
 - 2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri
 - 2026-08-12-lovable-confirms-400m-series-c-at-13-3b-valuation
-- 2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation
 embedding_id: 2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AI coding startup Lovable—which recently signed a multi-year Google Cloud deal
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1m-new-projects-pe]] · [[2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation]] · [[2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri]] · [[2026-08-12-lovable-confirms-400m-series-c-at-13-3b-valuation]] · [[2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation]]
+**Related:** [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1m-new-projects-pe]] · [[2026-08-12-ai-coding-startup-lovable-raises-400m-at-13-3b-valuation]] · [[2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation]] · [[2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri]] · [[2026-08-12-lovable-confirms-400m-series-c-at-13-3b-valuation]]
 <!-- graph:end -->

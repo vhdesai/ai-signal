@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over
 - 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
 - 2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man
 - 2026-05-20-google-fights-manipulation-of-ai-search-results
 - 2026-08-03-20-who-s-legally-to-blame-for-anthropic-and-openai-s-autonom
-- 2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut
 embedding_id: 2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A German court ruled in favor of two businesses that sued Google after AI Overvi
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man]] · [[2026-05-20-google-fights-manipulation-of-ai-search-results]] · [[2026-08-03-20-who-s-legally-to-blame-for-anthropic-and-openai-s-autonom]] · [[2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut]]
+**Related:** [[2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man]] · [[2026-05-20-google-fights-manipulation-of-ai-search-results]] · [[2026-08-03-20-who-s-legally-to-blame-for-anthropic-and-openai-s-autonom]]
 <!-- graph:end -->

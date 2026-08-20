@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from
+- 2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme
 - 2026-08-04-runware-launches-a-modular-inference-data-center-pod
 - 2026-08-11-ibm-and-together-ai-sign-240m-multi-year-nvidia-powered-infe
 - 2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s
-- 2026-08-04-runware-launches-sonic-inference-pod-a-modular-portable-data
 embedding_id: 2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi
 event_name: ''
 ---
@@ -41,5 +41,5 @@ IBM's Red Hat division launched two enterprise AI infrastructure products: the R
 
 **Entities:** [[IBM]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from]] · [[2026-08-04-runware-launches-a-modular-inference-data-center-pod]] · [[2026-08-11-ibm-and-together-ai-sign-240m-multi-year-nvidia-powered-infe]] · [[2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s]] · [[2026-08-04-runware-launches-sonic-inference-pod-a-modular-portable-data]]
+**Related:** [[2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from]] · [[2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme]] · [[2026-08-04-runware-launches-a-modular-inference-data-center-pod]] · [[2026-08-11-ibm-and-together-ai-sign-240m-multi-year-nvidia-powered-infe]] · [[2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s]]
 <!-- graph:end -->

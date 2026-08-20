@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou
+- 2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues
 - 2026-04-01-github-has-announced-that-starting-april-24-copilot-interact
 - 2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co
-- 2026-08-14-z-ai-glm-5-3-reportedly-found-a-serious-vulnerability-in-cur
 embedding_id: 2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Researchers from York University and the University of Calgary analyzed 446 Redd
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]] · [[2026-04-01-github-has-announced-that-starting-april-24-copilot-interact]] · [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]] · [[2026-08-14-z-ai-glm-5-3-reportedly-found-a-serious-vulnerability-in-cur]]
+**Related:** [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]] · [[2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues]] · [[2026-04-01-github-has-announced-that-starting-april-24-copilot-interact]] · [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]]
 <!-- graph:end -->

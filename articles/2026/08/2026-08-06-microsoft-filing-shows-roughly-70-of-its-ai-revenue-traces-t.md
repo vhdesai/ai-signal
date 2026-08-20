@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce
 - 2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves
 - 2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total
 - 2026-08-14-openai-s-annualized-revenue-run-rate-tops-40-billion-ahead-o
-- 2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo
 embedding_id: 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A new Microsoft filing, reported by Bloomberg, disclosed that Microsoft booked $
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total]] · [[2026-08-14-openai-s-annualized-revenue-run-rate-tops-40-billion-ahead-o]] · [[2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo]]
+**Related:** [[2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce]] · [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total]] · [[2026-08-14-openai-s-annualized-revenue-run-rate-tops-40-billion-ahead-o]]
 <!-- graph:end -->

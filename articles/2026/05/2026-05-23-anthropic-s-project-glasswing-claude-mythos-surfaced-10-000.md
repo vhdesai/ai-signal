@@ -29,9 +29,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-23-published-just-hours-ago-anthropic-s-initial-report-on-proje
 - 2026-05-26-anthropic-s-claude-mythos-flags-23-019-open-source-vulnerabi
+- 2026-08-01-anthropic-published-a-project-glasswing-update-describing-cl
 - 2026-04-07-source-the-hacker-news-reuters-the-star
 - 2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open
-- 2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate
 embedding_id: 2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Anthropic published its first public update on Project Glasswing, disclosing tha
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-23-published-just-hours-ago-anthropic-s-initial-report-on-proje]] · [[2026-05-26-anthropic-s-claude-mythos-flags-23-019-open-source-vulnerabi]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open]] · [[2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate]]
+**Related:** [[2026-05-23-published-just-hours-ago-anthropic-s-initial-report-on-proje]] · [[2026-05-26-anthropic-s-claude-mythos-flags-23-019-open-source-vulnerabi]] · [[2026-08-01-anthropic-published-a-project-glasswing-update-describing-cl]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents
 - 2026-07-11-claude-opus-4-7-is-now-generally-available
-- 2026-05-06-anthropic-managed-agents-adds-dreaming-multiagent-orchestrat
+- 2026-06-03-anthropic-maps-a-year-of-ai-enabled-cyberattacks-onto-mitre
 embedding_id: 2026-07-28-anthropic-ships-mcp-2026-07-28-spec-stateless-core-hardened
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic released the fifth Model Context Protocol spec, moving MCP from a stat
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents]] · [[2026-07-11-claude-opus-4-7-is-now-generally-available]] · [[2026-05-06-anthropic-managed-agents-adds-dreaming-multiagent-orchestrat]]
+**Related:** [[2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents]] · [[2026-07-11-claude-opus-4-7-is-now-generally-available]] · [[2026-06-03-anthropic-maps-a-year-of-ai-enabled-cyberattacks-onto-mitre]]
 <!-- graph:end -->

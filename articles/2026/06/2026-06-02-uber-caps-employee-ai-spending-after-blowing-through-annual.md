@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon
 - 2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro
 - 2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc
+- 2026-06-10-ai-pilled-firms-now-spend-7-500-per-employee-per-month-on-ai
 - 2026-08-07-rippling-ships-ai-spend-console-after-token-costs-spiked-to
-- 2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon
 embedding_id: 2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Uber has imposed caps on employee AI tool spending after burning through its ful
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro]] · [[2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc]] · [[2026-08-07-rippling-ships-ai-spend-console-after-token-costs-spiked-to]] · [[2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon]]
+**Related:** [[2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro]] · [[2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc]] · [[2026-06-10-ai-pilled-firms-now-spend-7-500-per-employee-per-month-on-ai]] · [[2026-08-07-rippling-ships-ai-spend-console-after-token-costs-spiked-to]]
 <!-- graph:end -->

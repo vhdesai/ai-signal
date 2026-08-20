@@ -26,10 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi
+- 2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl
+- 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 - 2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking
 - 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
-- 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
-- 2026-05-14-openai-discloses-security-incident-code-repository-data-stol
 embedding_id: 2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i
 event_name: ''
 ---
@@ -43,5 +43,5 @@ WIRED reporting describes internal fallout at OpenAI following a security incide
 
 **Entities:** [[Apple]] · [[Cerebras]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi]] · [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking]] · [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]] · [[2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company]] · [[2026-05-14-openai-discloses-security-incident-code-repository-data-stol]]
+**Related:** [[2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking]] · [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]]
 <!-- graph:end -->

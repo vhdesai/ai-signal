@@ -24,7 +24,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica
 - 2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s
-- 2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t
 embedding_id: 2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Minnesota’s first-in-the-nation ban on AI “nudification” tools is now in f
 
 **Entities:** [[Microsoft]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica]] · [[2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s]] · [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t]]
+**Related:** [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica]] · [[2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s]]
 <!-- graph:end -->

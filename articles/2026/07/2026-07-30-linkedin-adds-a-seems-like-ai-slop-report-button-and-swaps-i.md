@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-30-linkedin-adds-seems-like-ai-slop-report-button-and-swaps-ai
+- 2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme
 - 2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr
 - 2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash
 - 2026-05-16-ai-work-slop-gets-a-harvard-label-and-a-citadel-shaped-real
-- 2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice
-- 2026-08-12-enterprise-backlash-builds-as-anthropic-watermarks-claude-ge
 embedding_id: 2026-07-30-linkedin-adds-a-seems-like-ai-slop-report-button-and-swaps-i
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft’s LinkedIn introduced a user-facing control to flag posts that appea
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr]] · [[2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash]] · [[2026-05-16-ai-work-slop-gets-a-harvard-label-and-a-citadel-shaped-real]] · [[2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice]] · [[2026-08-12-enterprise-backlash-builds-as-anthropic-watermarks-claude-ge]]
+**Related:** [[2026-07-30-linkedin-adds-seems-like-ai-slop-report-button-and-swaps-ai]] · [[2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme]] · [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr]] · [[2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash]] · [[2026-05-16-ai-work-slop-gets-a-harvard-label-and-a-citadel-shaped-real]]
 <!-- graph:end -->

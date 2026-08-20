@@ -23,8 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-18-alibaba-s-qwen3-8-27b-runs-frontier-class-coding-and-reasoni
+- 2026-08-18-qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning
+- 2026-08-18-alibaba-s-qwen3-8-27b-runs-frontier-class-coding-agents-loca
 - 2026-08-18-alibaba-s-qwen3-8-27b-brings-frontier-class-local-coding-and
-- 2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo
 embedding_id: 2026-08-18-alibaba-qwen3-8-27b-runs-frontier-class-agents-locally
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Apache 2.0, 27B params, integrated vision, 262K context. Agentic coding and reas
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-18-alibaba-s-qwen3-8-27b-runs-frontier-class-coding-and-reasoni]] · [[2026-08-18-alibaba-s-qwen3-8-27b-brings-frontier-class-local-coding-and]] · [[2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo]]
+**Related:** [[2026-08-18-alibaba-s-qwen3-8-27b-runs-frontier-class-coding-and-reasoni]] · [[2026-08-18-qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning]] · [[2026-08-18-alibaba-s-qwen3-8-27b-runs-frontier-class-coding-agents-loca]] · [[2026-08-18-alibaba-s-qwen3-8-27b-brings-frontier-class-local-coding-and]]
 <!-- graph:end -->

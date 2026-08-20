@@ -20,7 +20,10 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-07-anthropic-loosens-claude-fable-5-biology-question-refusals-w
-related_article_ids: []
+related_article_ids:
+- 2026-08-07-anthropic-updates-claude-fable-5-s-biology-safety-classifier
+- 2026-08-07-anthropic-retunes-claude-fable-5-biology-safeguards-cutting
+- 2026-08-07-anthropic-says-claude-fable-5-will-relax-biology-question-re
 embedding_id: 2026-08-07-anthropic-loosens-fable-5-biology-safeguards-cutting-fallbac
 event_name: ''
 ---
@@ -35,4 +38,5 @@ Anthropic retuned Claude Fable 5’s biology safety classifiers to reduce false 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
 **Canonical:** [[2026-08-07-anthropic-loosens-claude-fable-5-biology-question-refusals-w]]
+**Related:** [[2026-08-07-anthropic-updates-claude-fable-5-s-biology-safety-classifier]] · [[2026-08-07-anthropic-retunes-claude-fable-5-biology-safeguards-cutting]] · [[2026-08-07-anthropic-says-claude-fable-5-will-relax-biology-question-re]]
 <!-- graph:end -->

@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con
 - 2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar
-- 2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele
-- 2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in
-- 2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws
+- 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
+- 2026-07-14-ibm-plunges-about-25-on-q2-warning-as-enterprise-budgets-piv
+- 2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off
 embedding_id: 2026-05-09-pc-motherboard-sales-are-forecast-to-decline-more-than-25-ye
 event_name: ''
 ---
@@ -34,5 +34,5 @@ PC motherboard sales are forecast to decline more than 25% year-over-year in 202
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con]] · [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]] · [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]] · [[2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in]] · [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]]
+**Related:** [[2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con]] · [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-07-14-ibm-plunges-about-25-on-q2-warning-as-enterprise-budgets-piv]] · [[2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off]]
 <!-- graph:end -->

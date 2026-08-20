@@ -20,9 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-for-on-device-vision-language-w
 - 2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-an-open-weight-edge-vision-lang
 - 2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-for-on-device-vision-language
-- 2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-for-on-device-vision-language-w
 - 2026-07-29-liquid-ai-releases-cpu-friendly-lfm2-5-encoder-models
 - 2026-08-06-liquid-ai-releases-lfm2-5-2-6b-a-powerful-model-that-runs-on
 embedding_id: 2026-08-12-liquid-ai-releases-lfm2-5-vl-3b-for-on-device-vision-languag
@@ -37,5 +37,5 @@ Liquid AI released LFM2.5-VL-3B, a roughly 3.1B-parameter open-weight, non-reaso
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-an-open-weight-edge-vision-lang]] · [[2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-for-on-device-vision-language]] · [[2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-for-on-device-vision-language-w]] · [[2026-07-29-liquid-ai-releases-cpu-friendly-lfm2-5-encoder-models]] · [[2026-08-06-liquid-ai-releases-lfm2-5-2-6b-a-powerful-model-that-runs-on]]
+**Related:** [[2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-for-on-device-vision-language-w]] · [[2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-an-open-weight-edge-vision-lang]] · [[2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-for-on-device-vision-language]] · [[2026-07-29-liquid-ai-releases-cpu-friendly-lfm2-5-encoder-models]] · [[2026-08-06-liquid-ai-releases-lfm2-5-2-6b-a-powerful-model-that-runs-on]]
 <!-- graph:end -->

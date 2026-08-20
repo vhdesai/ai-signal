@@ -19,13 +19,9 @@ themes:
 - datacenter-infrastructure
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-new-ai-c
-- 2026-07-14-nvidia-slashes-its-list-of-authorized-customers-in-asia-to-c
-- 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
-- 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
+dedupe_status: duplicate
+canonical_article_id: 2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-a-new-ai
+related_article_ids: []
 embedding_id: 2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-a-new-co
 event_name: ''
 ---
@@ -39,5 +35,5 @@ Per the Financial Times (citing three people familiar), Nvidia has cut its roste
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-new-ai-c]] · [[2026-07-14-nvidia-slashes-its-list-of-authorized-customers-in-asia-to-c]] · [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]]
+**Canonical:** [[2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-a-new-ai]]
 <!-- graph:end -->

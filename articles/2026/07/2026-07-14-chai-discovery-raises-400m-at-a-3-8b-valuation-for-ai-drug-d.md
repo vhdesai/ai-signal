@@ -20,7 +20,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-07-14-chai-discovery-raises-400m-at-3-8b-for-ai-drug-design
+canonical_article_id: 2026-07-14-chai-discovery-raises-400m-as-wsj-questions-ai-drug-discover
 related_article_ids: []
 embedding_id: 2026-07-14-chai-discovery-raises-400m-at-a-3-8b-valuation-for-ai-drug-d
 event_name: ''
@@ -35,5 +35,5 @@ OpenAI-backed Chai Discovery closed a $400 million round led by Index Ventures a
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Canonical:** [[2026-07-14-chai-discovery-raises-400m-at-3-8b-for-ai-drug-design]]
+**Canonical:** [[2026-07-14-chai-discovery-raises-400m-as-wsj-questions-ai-drug-discover]]
 <!-- graph:end -->

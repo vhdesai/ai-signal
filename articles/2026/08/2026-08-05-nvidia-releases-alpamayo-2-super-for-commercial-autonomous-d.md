@@ -20,7 +20,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-05-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso
-related_article_ids: []
+related_article_ids:
+- 2026-08-04-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso
 embedding_id: 2026-08-05-nvidia-releases-alpamayo-2-super-for-commercial-autonomous-d
 event_name: ''
 ---
@@ -35,4 +36,5 @@ NVIDIA made Alpamayo 2 Super commercially available as an open reasoning model f
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-08-05-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso]]
+**Related:** [[2026-08-04-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso]]
 <!-- graph:end -->

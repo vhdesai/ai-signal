@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
 - 2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
+- 2026-07-14-apple-opens-redesigned-siri-ai-through-the-ios-27-public-bet
 - 2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope
-- 2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc
 embedding_id: 2026-03-28-apple-announced-it-will-open-the-siri-platform-to-third-part
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Apple announced it will open the Siri platform to third-party AI models in iOS 2
 
 **Entities:** [[Apple]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]]
+**Related:** [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[2026-07-14-apple-opens-redesigned-siri-ai-through-the-ios-27-public-bet]] · [[2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope]]
 <!-- graph:end -->

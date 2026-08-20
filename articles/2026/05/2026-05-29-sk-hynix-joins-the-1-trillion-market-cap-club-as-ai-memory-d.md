@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing
 - 2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o
 - 2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory
-- 2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing
+- 2026-07-06-sk-hynix-launches-28b-us-share-sale-on-ai-memory-demand
 embedding_id: 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AI-driven demand for high-bandwidth memory continues to reprice the semiconducto
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]] · [[2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing]] · [[2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o]] · [[2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory]] · [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing]]
+**Related:** [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]] · [[2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing]] · [[2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o]] · [[2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory]] · [[2026-07-06-sk-hynix-launches-28b-us-share-sale-on-ai-memory-demand]]
 <!-- graph:end -->

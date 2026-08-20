@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a
 - 2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati
+- 2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat
 - 2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t
 - 2026-06-05-new-york-passes-first-state-level-data-center-moratorium
-- 2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions
 embedding_id: 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
 event_name: ''
 ---
@@ -37,5 +37,5 @@ WSJ reports that New York is set to temporarily ban large new data centers, refl
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t]] · [[2026-06-05-new-york-passes-first-state-level-data-center-moratorium]] · [[2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions]]
+**Related:** [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat]] · [[2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t]] · [[2026-06-05-new-york-passes-first-state-level-data-center-moratorium]]
 <!-- graph:end -->

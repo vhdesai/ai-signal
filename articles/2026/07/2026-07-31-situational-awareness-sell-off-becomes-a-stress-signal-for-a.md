@@ -18,12 +18,11 @@ entities: []
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-07-31-situational-awareness-fire-sale-turns-leveraged-ai-convictio
 related_article_ids:
 - 2026-07-31-situational-awareness-sell-off-remains-a-stress-signal-for-c
-- 2026-07-30-aschenbrenner-s-situational-awareness-ai-fund-forced-to-sell
-- 2026-07-31-situational-awareness-hedge-fund-collapses-portfolio-down-67
+- 2026-07-30-situational-awareness-hedge-fund-scrambles-for-capital-after
 embedding_id: 2026-07-31-situational-awareness-sell-off-becomes-a-stress-signal-for-a
 event_name: ''
 ---
@@ -36,5 +35,6 @@ Business Insider reported that the sell-off in Leopold Aschenbrenner's Situation
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-situational-awareness-sell-off-remains-a-stress-signal-for-c]] · [[2026-07-30-aschenbrenner-s-situational-awareness-ai-fund-forced-to-sell]] · [[2026-07-31-situational-awareness-hedge-fund-collapses-portfolio-down-67]]
+**Canonical:** [[2026-07-31-situational-awareness-fire-sale-turns-leveraged-ai-convictio]]
+**Related:** [[2026-07-31-situational-awareness-sell-off-remains-a-stress-signal-for-c]] · [[2026-07-30-situational-awareness-hedge-fund-scrambles-for-capital-after]]
 <!-- graph:end -->

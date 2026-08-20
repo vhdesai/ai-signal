@@ -19,12 +19,9 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a
-- 2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc
-- 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
+dedupe_status: duplicate
+canonical_article_id: 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
+related_article_ids: []
 embedding_id: 2026-08-11-ai-startups-raised-in-h1-2026-openai-and-anthropic-took-more
 event_name: ''
 ---
@@ -38,5 +35,5 @@ AI startups raised over \ billion in VC funding in H1 2026, surpassing the \ bil
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a]] · [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]]
+**Canonical:** [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]]
 <!-- graph:end -->

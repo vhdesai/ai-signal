@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-17-cursor-launches-origin-its-own-code-hosting-platform-hours-i
+- 2026-08-17-cursor-launches-origin-its-own-code-hosting-platform-during
 - 2026-08-17-cursor-launches-origin-code-hosting-platform-during-github-o
-- 2026-05-15-cursor-launches-hiring-spree-after-spacex-deal
-- 2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you
-- 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
+- 2026-08-18-cursor-capitalizes-on-github-frustration-launches-rival-host
+- 2026-08-18-cursor-launches-origin-a-github-rival-built-for-ai-native-wo
 embedding_id: 2026-08-17-cursor-launches-origin-code-hosting-as-a-github-outage-hits
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Cursor introduced Origin, an AI-native code hosting and pull-request platform bu
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-17-cursor-launches-origin-its-own-code-hosting-platform-hours-i]] · [[2026-08-17-cursor-launches-origin-code-hosting-platform-during-github-o]] · [[2026-05-15-cursor-launches-hiring-spree-after-spacex-deal]] · [[2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you]] · [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]]
+**Related:** [[2026-08-17-cursor-launches-origin-its-own-code-hosting-platform-hours-i]] · [[2026-08-17-cursor-launches-origin-its-own-code-hosting-platform-during]] · [[2026-08-17-cursor-launches-origin-code-hosting-platform-during-github-o]] · [[2026-08-18-cursor-capitalizes-on-github-frustration-launches-rival-host]] · [[2026-08-18-cursor-launches-origin-a-github-rival-built-for-ai-native-wo]]
 <!-- graph:end -->

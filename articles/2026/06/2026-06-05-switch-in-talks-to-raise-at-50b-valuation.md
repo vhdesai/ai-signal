@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom
 - 2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation
 - 2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at
-- 2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with
 embedding_id: 2026-06-05-switch-in-talks-to-raise-at-50b-valuation
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Data-center operator Switch is in talks with Brookfield, KKR, Goldman, and JPMor
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]] · [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]] · [[2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]] · [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]]
+**Related:** [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]] · [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]] · [[2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]] · [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]]
 <!-- graph:end -->

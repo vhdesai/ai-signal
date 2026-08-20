@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p
 - 2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super
 - 2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play
-- 2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn
+- 2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst
 embedding_id: 2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex
 event_name: ''
 ---
@@ -40,5 +40,5 @@ At Computex in Taipei, Jensen Huang launched the RTX Spark platform — a Window
 
 **Entities:** [[Arm]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]] · [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]] · [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]] · [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]]
+**Related:** [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]] · [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]] · [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]]
 <!-- graph:end -->

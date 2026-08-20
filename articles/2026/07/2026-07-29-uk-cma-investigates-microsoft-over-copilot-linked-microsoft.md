@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-26-italy-opens-antitrust-probe-into-microsoft-365-price-hike-ti
 - 2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd
 - 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
-- 2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso
+- 2026-06-19-microsoft-confirmed-two-significant-copilot-cowork-changes-i
 embedding_id: 2026-07-29-uk-cma-investigates-microsoft-over-copilot-linked-microsoft
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Britain's Competition and Markets Authority is probing whether Microsoft clearly
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-26-italy-opens-antitrust-probe-into-microsoft-365-price-hike-ti]] · [[2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]] · [[2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso]]
+**Related:** [[2026-06-26-italy-opens-antitrust-probe-into-microsoft-365-price-hike-ti]] · [[2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]] · [[2026-06-19-microsoft-confirmed-two-significant-copilot-cowork-changes-i]]
 <!-- graph:end -->

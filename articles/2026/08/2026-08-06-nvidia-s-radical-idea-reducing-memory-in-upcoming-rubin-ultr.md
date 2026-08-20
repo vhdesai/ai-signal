@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-06-nvidia-tests-rubin-ultra-variants-with-less-hbm-amid-tight-m
 - 2026-08-13-nvidia-weighs-reducing-memory-on-next-gen-rubin-ultra-gpu-du
 - 2026-08-06-nvidia-said-to-test-rubin-ultra-variants-with-less-hbm-amid
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
-- 2026-08-04-nvidia-pushes-ai-storage-stack-at-future-of-memory-and-stora
+- 2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch
 embedding_id: 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Nvidia is weighing a counterintuitive approach to the global HBM memory shortage
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-13-nvidia-weighs-reducing-memory-on-next-gen-rubin-ultra-gpu-du]] · [[2026-08-06-nvidia-said-to-test-rubin-ultra-variants-with-less-hbm-amid]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-08-04-nvidia-pushes-ai-storage-stack-at-future-of-memory-and-stora]]
+**Related:** [[2026-08-06-nvidia-tests-rubin-ultra-variants-with-less-hbm-amid-tight-m]] · [[2026-08-13-nvidia-weighs-reducing-memory-on-next-gen-rubin-ultra-gpu-du]] · [[2026-08-06-nvidia-said-to-test-rubin-ultra-variants-with-less-hbm-amid]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch]]
 <!-- graph:end -->

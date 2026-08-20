@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-26-ai-becomes-part-of-the-american-family
+- 2026-07-18-retailers-prepare-for-bots-as-buyers
+- 2026-07-17-ai-policy-groups-and-researchers-converge-on-regulation-effo
 - 2026-08-01-sam-altman-continues-pitching-chatgpt-as-a-family-and-parent
-- 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
-- 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
-- 2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol
+- 2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin
 embedding_id: 2026-07-25-ai-moves-into-family-life
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Axios examined how AI is embedding itself into everyday household routines — f
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-26-ai-becomes-part-of-the-american-family]] · [[2026-08-01-sam-altman-continues-pitching-chatgpt-as-a-family-and-parent]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]] · [[2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol]]
+**Related:** [[2026-07-26-ai-becomes-part-of-the-american-family]] · [[2026-07-18-retailers-prepare-for-bots-as-buyers]] · [[2026-07-17-ai-policy-groups-and-researchers-converge-on-regulation-effo]] · [[2026-08-01-sam-altman-continues-pitching-chatgpt-as-a-family-and-parent]] · [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin]]
 <!-- graph:end -->

@@ -20,11 +20,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-21-u-s-threatens-sanctions-against-chinese-ai-models-over-alleg
 - 2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th
 - 2026-07-27-china-vows-all-necessary-measures-against-a-us-sanctions-thr
 - 2026-08-13-beijing-could-suddenly-clamp-down-on-chinese-open-weight-ai
-- 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
-- 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
 embedding_id: 2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Beijing warned it would take “all necessary measures” if Washington proceeds
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th]] · [[2026-07-27-china-vows-all-necessary-measures-against-a-us-sanctions-thr]] · [[2026-08-13-beijing-could-suddenly-clamp-down-on-chinese-open-weight-ai]] · [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]] · [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]]
+**Related:** [[2026-07-21-u-s-threatens-sanctions-against-chinese-ai-models-over-alleg]] · [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th]] · [[2026-07-27-china-vows-all-necessary-measures-against-a-us-sanctions-thr]] · [[2026-08-13-beijing-could-suddenly-clamp-down-on-chinese-open-weight-ai]]
 <!-- graph:end -->

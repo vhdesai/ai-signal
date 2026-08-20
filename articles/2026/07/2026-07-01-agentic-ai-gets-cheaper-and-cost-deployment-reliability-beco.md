@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
 - 2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi
 - 2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain
-- 2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga
+- 2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference
 embedding_id: 2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco
 event_name: ''
 ---
@@ -43,5 +43,5 @@ The last 24 hours were defined less by raw capability than by the economics of p
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi]] · [[2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain]] · [[2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga]]
+**Related:** [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi]] · [[2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain]] · [[2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference]]
 <!-- graph:end -->

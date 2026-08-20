@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p
 - 2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
-- 2026-08-07-sk-hynix-approves-54-trillion-won-for-two-new-ai-memory-fabs
+- 2026-07-06-sk-hynix-launches-28b-us-share-sale-on-ai-memory-demand
 embedding_id: 2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu
 event_name: ''
 ---
@@ -40,5 +40,5 @@ South Korea's government and top tech firms committed roughly $1 trillion to mem
 
 **Entities:** [[Samsung]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-08-07-sk-hynix-approves-54-trillion-won-for-two-new-ai-memory-fabs]]
+**Related:** [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-07-06-sk-hynix-launches-28b-us-share-sale-on-ai-memory-demand]]
 <!-- graph:end -->

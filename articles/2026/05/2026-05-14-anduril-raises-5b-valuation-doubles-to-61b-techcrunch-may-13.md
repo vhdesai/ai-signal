@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-24-anduril-reportedly-in-talks-to-raise-at-100b-valuation
+- 2026-07-24-anduril-reportedly-seeks-funding-at-a-roughly-100b-valuation
 - 2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b
-- 2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation
-- 2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i
-- 2026-08-12-openai-backed-thrive-holdings-raises-2b-at-12b-valuation
-- 2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains
+- 2026-06-18-baseten-closes-1-5b-round-at-up-to-13b-valuation-as-open-sou
+- 2026-06-18-baseten-nears-1-5b-round-at-13b-valuation
 embedding_id: 2026-05-14-anduril-raises-5b-valuation-doubles-to-61b-techcrunch-may-13
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Anduril raises $5B, valuation doubles to $61B — TechCrunch, May 13, 2026 Andur
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b]] · [[2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]] · [[2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains]]
+**Related:** [[2026-07-24-anduril-reportedly-in-talks-to-raise-at-100b-valuation]] · [[2026-07-24-anduril-reportedly-seeks-funding-at-a-roughly-100b-valuation]] · [[2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b]] · [[2026-06-18-baseten-closes-1-5b-round-at-up-to-13b-valuation-as-open-sou]] · [[2026-06-18-baseten-nears-1-5b-round-at-13b-valuation]]
 <!-- graph:end -->

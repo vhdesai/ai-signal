@@ -22,7 +22,6 @@ related_article_ids:
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
 - 2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow
 - 2026-04-02-source-all-about-lawyer-the-neuron
-- 2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190
 embedding_id: 2026-08-12-ai-capex-could-hit-1-6-trillion-next-year-says-t-rowe-price
 event_name: ''
 ---
@@ -35,5 +34,5 @@ A T. Rowe Price fund manager projects AI capital expenditure could reach $1.6 tr
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]]
+**Related:** [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow]] · [[2026-04-02-source-all-about-lawyer-the-neuron]]
 <!-- graph:end -->

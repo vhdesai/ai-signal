@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-new-aws-appoints-matt-wood-as-chief-ai-and-technology-office
+- 2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-to-accelerate
+- 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
 - 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
-- 2026-05-13-microsoft-vp-of-copilot-security-shawn-bice-joins-aws-to-lea
-- 2026-04-09-products-tools
-- 2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-posts-fastest-grow
+- 2026-07-30-aws-vp-swami-sivasubramanian-takes-expanded-agentic-ai-role
 embedding_id: 2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Amazon Web Services veteran Matt Wood is returning to AWS in a newly created rol
 
 **Entities:** [[Amazon]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-new-aws-appoints-matt-wood-as-chief-ai-and-technology-office]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-05-13-microsoft-vp-of-copilot-security-shawn-bice-joins-aws-to-lea]] · [[2026-04-09-products-tools]] · [[2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-posts-fastest-grow]]
+**Related:** [[2026-05-18-new-aws-appoints-matt-wood-as-chief-ai-and-technology-office]] · [[2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-to-accelerate]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-07-30-aws-vp-swami-sivasubramanian-takes-expanded-agentic-ai-role]]
 <!-- graph:end -->

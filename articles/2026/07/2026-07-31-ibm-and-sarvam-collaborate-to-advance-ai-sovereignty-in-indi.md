@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-05-ibm-sovereign-core-ga-digital-sovereignty-for-ai
 - 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
 - 2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a
+- 2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership
 - 2026-08-13-ibm-partners-with-openai-to-accelerate-its-enterprise-ai-pus
-- 2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi
 embedding_id: 2026-07-31-ibm-and-sarvam-collaborate-to-advance-ai-sovereignty-in-indi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ IBM and Sarvam, India's full-stack sovereign AI company, announced a collaborati
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-05-ibm-sovereign-core-ga-digital-sovereignty-for-ai]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]] · [[2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a]] · [[2026-08-13-ibm-partners-with-openai-to-accelerate-its-enterprise-ai-pus]] · [[2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi]]
+**Related:** [[2026-05-05-ibm-sovereign-core-ga-digital-sovereignty-for-ai]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]] · [[2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a]] · [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership]] · [[2026-08-13-ibm-partners-with-openai-to-accelerate-its-enterprise-ai-pus]]
 <!-- graph:end -->

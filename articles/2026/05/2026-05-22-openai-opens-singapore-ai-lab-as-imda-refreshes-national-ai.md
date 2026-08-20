@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-22-openai-opens-singapore-applied-ai-lab-alongside-imda-agentic
 - 2026-05-22-singapore-imda-releases-updated-agentic-ai-governance-framew
 - 2026-07-27-openai-expands-european-footprint-with-new-dublin-hq-and-250
-- 2026-07-27-openai-to-establish-its-eu-headquarters-in-dublin-adding-250
+- 2026-08-17-openai-funds-independent-projects-on-policy-ideas-for-the-in
 embedding_id: 2026-05-22-openai-opens-singapore-ai-lab-as-imda-refreshes-national-ai
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI is opening a Singapore AI laboratory concurrent with Singapore's IMDA upd
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-22-openai-opens-singapore-ai-lab-imda-updates-framework]] · [[2026-05-22-openai-opens-singapore-applied-ai-lab-alongside-imda-agentic]] · [[2026-05-22-singapore-imda-releases-updated-agentic-ai-governance-framew]] · [[2026-07-27-openai-expands-european-footprint-with-new-dublin-hq-and-250]] · [[2026-07-27-openai-to-establish-its-eu-headquarters-in-dublin-adding-250]]
+**Related:** [[2026-05-22-openai-opens-singapore-ai-lab-imda-updates-framework]] · [[2026-05-22-openai-opens-singapore-applied-ai-lab-alongside-imda-agentic]] · [[2026-05-22-singapore-imda-releases-updated-agentic-ai-governance-framew]] · [[2026-07-27-openai-expands-european-footprint-with-new-dublin-hq-and-250]] · [[2026-08-17-openai-funds-independent-projects-on-policy-ideas-for-the-in]]
 <!-- graph:end -->

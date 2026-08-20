@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r
 - 2026-08-04-21-15-republican-attorneys-general-issue-preservation-demand
 - 2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age
-- 2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out
+- 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
 embedding_id: 2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Fifteen Republican attorneys general, led by Iowa's Brenna Bird, instructed Open
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r]] · [[2026-08-04-21-15-republican-attorneys-general-issue-preservation-demand]] · [[2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age]] · [[2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out]]
+**Related:** [[2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r]] · [[2026-08-04-21-15-republican-attorneys-general-issue-preservation-demand]] · [[2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age]] · [[2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach]]
 <!-- graph:end -->

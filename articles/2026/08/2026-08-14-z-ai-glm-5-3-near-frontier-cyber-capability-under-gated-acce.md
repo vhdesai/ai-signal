@@ -25,7 +25,6 @@ related_article_ids:
 - 2026-08-14-z-ai-releases-glm-5-3-with-near-frontier-cybersecurity-perfo
 - 2026-08-14-z-ai-ships-glm-5-3-with-long-horizon-coding-and-frontier-cyb
 - 2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie
-- 2026-08-14-z-ai-s-glm-5-3-posts-frontier-cyber-scores-and-reportedly-fo
 - 2026-08-14-dual-use-alarm-as-a-chinese-open-weights-model-rivals-us-fro
 embedding_id: 2026-08-14-z-ai-glm-5-3-near-frontier-cyber-capability-under-gated-acce
 event_name: ''
@@ -40,5 +39,5 @@ Z.ai released GLM-5.3 with gains from post-training only (no new base). CyberGym
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-14-z-ai-releases-glm-5-3-with-near-frontier-cybersecurity-perfo]] · [[2026-08-14-z-ai-ships-glm-5-3-with-long-horizon-coding-and-frontier-cyb]] · [[2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie]] · [[2026-08-14-z-ai-s-glm-5-3-posts-frontier-cyber-scores-and-reportedly-fo]] · [[2026-08-14-dual-use-alarm-as-a-chinese-open-weights-model-rivals-us-fro]]
+**Related:** [[2026-08-14-z-ai-releases-glm-5-3-with-near-frontier-cybersecurity-perfo]] · [[2026-08-14-z-ai-ships-glm-5-3-with-long-horizon-coding-and-frontier-cyb]] · [[2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie]] · [[2026-08-14-dual-use-alarm-as-a-chinese-open-weights-model-rivals-us-fro]]
 <!-- graph:end -->

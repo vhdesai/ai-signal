@@ -3,15 +3,17 @@ article_id: 2026-08-05-skillopt-shows-optimized-agent-skills-transfer-across-mod
 title: SkillOpt shows optimized agent skills transfer across model scales and harnesses
 date: '2026-08-05'
 source: MarkTechPost
-url_original: https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/
-url_canonical: https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/
-url_status: found
-digest_source: digests\raw\2026-08-06_060330_Inbox_Daily AI News Digest - August 6,
-  2026.md
-content_hash: 59dddf60dcc37b366879833a01ea8cd5f3a47410a44a81d410b9c41694345df4
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-08-06_065732_Final-Daily-AI-News-Digest.md
+content_hash: fe102436c6e1f041f3badfbf599f24b8acf402d6eab10e0b067366dc893c2384
 normalized_title_hash: ab4a1831a5eef7c8
-canonical_url_hash: c722bc5befc76a1c
-tags: []
+canonical_url_hash: ''
+tags:
+- New
+- Research
+- Agents
 entities:
 - Microsoft
 themes:
@@ -26,7 +28,7 @@ event_name: ''
 
 # SkillOpt shows optimized agent skills transfer across model scales and harnesses
 
-Researchers from Microsoft, Shanghai Jiao Tong University, Tongji University, and Fudan University introduced SkillOpt, a text-space optimizer that trains a single natural-language skill artifact and then transfers it across model sizes and between different agent harnesses, including Codex and Claude Code. The reported retention rates challenge the assumption that agent skills must be tuned per model. If it holds up, it materially reduces the switching cost of changing model vendors in an agent platform. AI Safety & Policy Breaking Security
+Researchers from Microsoft, Shanghai Jiao Tong, Tongji, and Fudan introduced SkillOpt, a text-space optimizer that trains a single natural-language skill artifact and transfers it across model sizes and between agent harnesses including Codex and Claude Code. If validated, it materially reduces the switching cost of changing model vendors in an agent platform. URL: MarkTechPost: Microsoft SkillOpt agent skill transfer
 
 <!-- graph:start -->
 ## Connections

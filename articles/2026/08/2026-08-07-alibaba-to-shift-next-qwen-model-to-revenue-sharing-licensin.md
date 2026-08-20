@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-08-08-alibaba-plans-revenue-sharing-on-open-weight-qwen-3-8-max
 - 2026-08-07-alibaba-to-charge-large-commercial-users-of-its-next-open-we
 - 2026-08-07-alibaba-plans-to-charge-the-largest-users-of-its-open-qwen-m
+- 2026-08-07-alibaba-to-require-revenue-sharing-from-large-commercial-qwe
 embedding_id: 2026-08-07-alibaba-to-shift-next-qwen-model-to-revenue-sharing-licensin
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Alibaba plans to require larger companies commercializing its next-generation Qw
 
 **Entities:** [[Alibaba]] · [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-08-alibaba-plans-revenue-sharing-on-open-weight-qwen-3-8-max]] · [[2026-08-07-alibaba-to-charge-large-commercial-users-of-its-next-open-we]] · [[2026-08-07-alibaba-plans-to-charge-the-largest-users-of-its-open-qwen-m]]
+**Related:** [[2026-08-08-alibaba-plans-revenue-sharing-on-open-weight-qwen-3-8-max]] · [[2026-08-07-alibaba-to-charge-large-commercial-users-of-its-next-open-we]] · [[2026-08-07-alibaba-plans-to-charge-the-largest-users-of-its-open-qwen-m]] · [[2026-08-07-alibaba-to-require-revenue-sharing-from-large-commercial-qwe]]
 <!-- graph:end -->

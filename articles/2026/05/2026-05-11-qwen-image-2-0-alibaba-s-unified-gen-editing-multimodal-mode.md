@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
 - 2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent
+- 2026-07-19-alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multim
+- 2026-07-21-alibaba-launches-qwen-image-3-0-without-benchmarks-or-open-w
 - 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
-- 2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age
-- 2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context
 embedding_id: 2026-05-11-qwen-image-2-0-alibaba-s-unified-gen-editing-multimodal-mode
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Alibaba's Qwen team released Qwen-Image-2.0, a unified foundation model for high
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]] · [[2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]] · [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age]] · [[2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context]]
+**Related:** [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]] · [[2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent]] · [[2026-07-19-alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multim]] · [[2026-07-21-alibaba-launches-qwen-image-3-0-without-benchmarks-or-open-w]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]]
 <!-- graph:end -->

@@ -21,7 +21,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-05-alphabet-absorbs-compounding-deepmind-leadership-losses-gemi
-- 2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st
 embedding_id: 2026-08-09-alphabet-absorbs-compounding-deepmind-leadership-losses
 event_name: ''
 ---
@@ -35,5 +34,5 @@ Coverage continued to develop on Alphabet's August 5 announcement that Demis Has
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-alphabet-absorbs-compounding-deepmind-leadership-losses-gemi]] · [[2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st]]
+**Related:** [[2026-08-05-alphabet-absorbs-compounding-deepmind-leadership-losses-gemi]]
 <!-- graph:end -->

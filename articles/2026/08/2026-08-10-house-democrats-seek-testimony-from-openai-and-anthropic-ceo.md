@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age
 - 2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr
 - 2026-08-10-house-democrats-press-for-openai-and-anthropic-ceos-to-testi
-- 2026-06-03-openai-and-anthropic-urge-congress-to-regulate-synthetic-dna
+- 2026-06-03-openai-and-anthropic-jointly-urge-congress-to-regulate-synth
 embedding_id: 2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo
 event_name: ''
 ---
@@ -39,5 +39,5 @@ House Democrats are formally requesting testimony from the CEOs of OpenAI and An
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age]] · [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]] · [[2026-08-10-house-democrats-press-for-openai-and-anthropic-ceos-to-testi]] · [[2026-06-03-openai-and-anthropic-urge-congress-to-regulate-synthetic-dna]]
+**Related:** [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age]] · [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]] · [[2026-08-10-house-democrats-press-for-openai-and-anthropic-ceos-to-testi]] · [[2026-06-03-openai-and-anthropic-jointly-urge-congress-to-regulate-synth]]
 <!-- graph:end -->

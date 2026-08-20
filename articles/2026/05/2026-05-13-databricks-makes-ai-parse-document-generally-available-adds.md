@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-15-databricks-made-its-ai-parse-document-function-generally-ava
 - 2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language
 - 2026-08-03-databricks-makes-variant-generally-available-for-semi-struct
+- 2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil
 - 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
-- 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
 embedding_id: 2026-05-13-databricks-makes-ai-parse-document-generally-available-adds
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Databricks made ai_parse_document — its function for extracting structured con
 
 **Entities:** [[Databricks]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-15-databricks-made-its-ai-parse-document-function-generally-ava]] · [[2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language]] · [[2026-08-03-databricks-makes-variant-generally-available-for-semi-struct]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]]
+**Related:** [[2026-05-15-databricks-made-its-ai-parse-document-function-generally-ava]] · [[2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language]] · [[2026-08-03-databricks-makes-variant-generally-available-for-semi-struct]] · [[2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]]
 <!-- graph:end -->

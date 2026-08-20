@@ -27,9 +27,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-15-a-new-macos-tool-called-ai-osaurus-launched-today-giving-use
 - 2026-08-05-macpaw-taps-liquid-ai-for-local-inference-in-its-app-ecosyst
+- 2026-07-21-apple-proposes-environment-free-synthetic-data-generation-fo
 - 2026-08-05-macpaw-partners-with-liquid-ai-to-bring-on-device-inference
 - 2026-05-09-a-community-driven-open-source-project-released-a-metal-base
-- 2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu
 embedding_id: 2026-05-15-osaurus-brings-unified-local-cloud-ai-model-management-to-ma
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Osaurus is a new macOS application that provides a single interface for managing
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[Mistral]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-15-a-new-macos-tool-called-ai-osaurus-launched-today-giving-use]] · [[2026-08-05-macpaw-taps-liquid-ai-for-local-inference-in-its-app-ecosyst]] · [[2026-08-05-macpaw-partners-with-liquid-ai-to-bring-on-device-inference]] · [[2026-05-09-a-community-driven-open-source-project-released-a-metal-base]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]]
+**Related:** [[2026-05-15-a-new-macos-tool-called-ai-osaurus-launched-today-giving-use]] · [[2026-08-05-macpaw-taps-liquid-ai-for-local-inference-in-its-app-ecosyst]] · [[2026-07-21-apple-proposes-environment-free-synthetic-data-generation-fo]] · [[2026-08-05-macpaw-partners-with-liquid-ai-to-bring-on-device-inference]] · [[2026-05-09-a-community-driven-open-source-project-released-a-metal-base]]
 <!-- graph:end -->

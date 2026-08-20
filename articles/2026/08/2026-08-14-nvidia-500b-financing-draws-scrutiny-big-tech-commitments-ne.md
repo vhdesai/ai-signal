@@ -24,10 +24,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-14-nvidia-s-500b-compute-financing-platform-draws-private-credi
 - 2026-08-14-nvidia-s-500-billion-compute-financing-platform-draws-privat
 - 2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin
 - 2026-08-13-nvidia-500b-financing-vehicle-with-gpu-residual-value-guaran
-- 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
 embedding_id: 2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Jensen Huang confirmed Nvidia can backstop up to $125B (~25% of potential deals)
 
 **Entities:** [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-08-14-nvidia-s-500-billion-compute-financing-platform-draws-privat]] · [[2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin]] · [[2026-08-13-nvidia-500b-financing-vehicle-with-gpu-residual-value-guaran]] · [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]]
+**Related:** [[2026-08-14-nvidia-s-500b-compute-financing-platform-draws-private-credi]] · [[2026-08-14-nvidia-s-500-billion-compute-financing-platform-draws-privat]] · [[2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin]] · [[2026-08-13-nvidia-500b-financing-vehicle-with-gpu-residual-value-guaran]]
 <!-- graph:end -->

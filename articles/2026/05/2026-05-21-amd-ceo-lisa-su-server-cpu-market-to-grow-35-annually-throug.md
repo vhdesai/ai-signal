@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t
 - 2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte
 - 2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient
-- 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
+- 2026-08-15-super-micro-s-72b-revenue-forecast-raises-stakes-for-ai-infr
 embedding_id: 2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug
 event_name: ''
 ---
@@ -41,5 +41,5 @@ AMD CEO Lisa Su revised the company's server CPU market growth projection from 1
 
 **Entities:** [[AMD]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]] · [[2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t]] · [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]] · [[2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]]
+**Related:** [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]] · [[2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t]] · [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]] · [[2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient]] · [[2026-08-15-super-micro-s-72b-revenue-forecast-raises-stakes-for-ai-infr]]
 <!-- graph:end -->

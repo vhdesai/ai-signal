@@ -3,38 +3,36 @@ article_id: 2026-07-31-situational-awareness-hedge-fund-collapses-portfolio-down
 title: 'Situational Awareness Hedge Fund Collapses: Portfolio Down 67%, Fire Sale
   to Citadel'
 date: '2026-07-31'
-source: DealBook · Wall Street Journal
+source: DealBook · Wall Street Journal · TechCrunch
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-07-31_065416_Inbox_Daily AI News Digest - July 31,
-  2026.md
-content_hash: 5b8c74d5f2c912da3994af8c2f0fa6fa76bebee6271808475f59482ed2ff2c34
+digest_source: digests\raw\2026-07-31_090003_Final-Daily-AI-News-Digest.md
+content_hash: 6b1d66590d542606123d54eccbdf1ca2abd7ea1f2e1b8ce16cf4459a04ecfbe9
 normalized_title_hash: bf4cd5750d583817
 canonical_url_hash: ''
 tags:
 - Breaking
-entities: []
+entities:
+- Anthropic
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-30-aschenbrenner-s-situational-awareness-ai-fund-forced-to-sell
-- 2026-07-31-situational-awareness-sell-off-becomes-a-stress-signal-for-a
-- 2026-07-31-situational-awareness-sell-off-remains-a-stress-signal-for-c
+dedupe_status: duplicate
+canonical_article_id: 2026-07-31-leopold-aschenbrenner-s-45b-situational-awareness-fund-colla
+related_article_ids: []
 embedding_id: 2026-07-31-situational-awareness-hedge-fund-collapses-portfolio-down-67
 event_name: ''
 ---
 
 # Situational Awareness Hedge Fund Collapses: Portfolio Down 67%, Fire Sale to Citadel
 
-Situational Awareness, the hedge fund founded by Leopold Aschenbrenner, suffered a severe drawdown after its AI-concentrated portfolio fell sharply in July, triggering margin calls and a fire sale to Citadel.
+Situational Awareness, the AI-focused hedge fund founded by Leopold Aschenbrenner, imploded after concentrated bets fell about 67% in July. The fund had expanded from $1.5 billion to more than $20 billion using leverage reportedly as high as four times across names like SK Hynix and CoreWeave. Margin calls forced a fire sale of its public equity portfolio to Citadel, and the fund even considered selling part of its Anthropic stake. The collapse is drawing comparisons to LTCM, Archegos, and the dot-com era because valuation certainty vanished just as leverage peaked. Even after the disaster, the fund told clients it was still up about 80% for the year, highlighting how violent the AI trade has become. Links: TechCrunch
 
 <!-- graph:start -->
 ## Connections
 
+**Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-aschenbrenner-s-situational-awareness-ai-fund-forced-to-sell]] · [[2026-07-31-situational-awareness-sell-off-becomes-a-stress-signal-for-a]] · [[2026-07-31-situational-awareness-sell-off-remains-a-stress-signal-for-c]]
+**Canonical:** [[2026-07-31-leopold-aschenbrenner-s-45b-situational-awareness-fund-colla]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-11-new-warning-in-race-to-superintelligence
 - 2026-07-12-new-warning-in-race-to-superintelligence
 - 2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash
-- 2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven
+- 2026-07-20-ai-is-supercharging-drug-development
 embedding_id: 2026-07-10-new-warning-in-race-to-superintelligence
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Axios AI+ highlighted a new AI Futures Project proposal calling for an internati
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-09-new-warning-in-race-to-superintelligence]] · [[2026-07-11-new-warning-in-race-to-superintelligence]] · [[2026-07-12-new-warning-in-race-to-superintelligence]] · [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]] · [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]]
+**Related:** [[2026-07-09-new-warning-in-race-to-superintelligence]] · [[2026-07-11-new-warning-in-race-to-superintelligence]] · [[2026-07-12-new-warning-in-race-to-superintelligence]] · [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]] · [[2026-07-20-ai-is-supercharging-drug-development]]
 <!-- graph:end -->

@@ -19,9 +19,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-03-ai-generated-actors-and-scripts-now-ineligible-for-oscar-nom
+- 2026-08-01-techcrunch-reports-that-snap-updated-spotlight-monetization
 - 2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos
 - 2026-07-05-the-motion-picture-association-sent-bytedance-a-cease-and-de
-- 2026-08-08-japan-makes-non-consensual-ai-voice-cloning-a-civil-violatio
 - 2026-08-01-judge-lets-minnesota-s-ai-nudify-app-ban-take-effect-despite
 embedding_id: 2026-05-02-trendingai-generated-actors-and-scripts-now-ineligible-for-o
 event_name: ''
@@ -35,5 +35,5 @@ The Academy Awards formally barred AI-generated acting performances and scripts 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-03-ai-generated-actors-and-scripts-now-ineligible-for-oscar-nom]] · [[2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos]] · [[2026-07-05-the-motion-picture-association-sent-bytedance-a-cease-and-de]] · [[2026-08-08-japan-makes-non-consensual-ai-voice-cloning-a-civil-violatio]] · [[2026-08-01-judge-lets-minnesota-s-ai-nudify-app-ban-take-effect-despite]]
+**Related:** [[2026-05-03-ai-generated-actors-and-scripts-now-ineligible-for-oscar-nom]] · [[2026-08-01-techcrunch-reports-that-snap-updated-spotlight-monetization]] · [[2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos]] · [[2026-07-05-the-motion-picture-association-sent-bytedance-a-cease-and-de]] · [[2026-08-01-judge-lets-minnesota-s-ai-nudify-app-ban-take-effect-despite]]
 <!-- graph:end -->

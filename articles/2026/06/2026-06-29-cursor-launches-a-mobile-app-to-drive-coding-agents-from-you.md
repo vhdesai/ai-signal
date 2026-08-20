@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-30-cursor-puts-agentic-coding-on-the-iphone
 - 2026-06-30-anysphere-released-cursor-s-first-iphone-and-ipad-app-in-pub
 - 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
-- 2026-05-15-cursor-launches-hiring-spree-after-spacex-deal
+- 2026-08-18-cursor-capitalizes-on-github-frustration-launches-rival-host
 embedding_id: 2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anysphere released Cursor Mobile, an iPhone/iPad app (public beta) that lets dev
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le]] · [[2026-06-30-cursor-puts-agentic-coding-on-the-iphone]] · [[2026-06-30-anysphere-released-cursor-s-first-iphone-and-ipad-app-in-pub]] · [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]] · [[2026-05-15-cursor-launches-hiring-spree-after-spacex-deal]]
+**Related:** [[2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le]] · [[2026-06-30-cursor-puts-agentic-coding-on-the-iphone]] · [[2026-06-30-anysphere-released-cursor-s-first-iphone-and-ipad-app-in-pub]] · [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]] · [[2026-08-18-cursor-capitalizes-on-github-frustration-launches-rival-host]]
 <!-- graph:end -->

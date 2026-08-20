@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out
+- 2026-08-03-37-eu-ai-act-enforcement-powers-now-apply-to-frontier-ai-pro
 - 2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare
+- 2026-08-03-eu-ai-act-enforcement-powers-now-apply-to-frontier-ai-provid
 - 2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi
-- 2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit
 embedding_id: 2026-07-29-eu-s-37-person-ai-act-enforcement-unit-gains-binding-powers
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Beginning Sunday, August 2, the European Commission's “A3” unit inside the A
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]] · [[2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare]] · [[2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi]] · [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit]]
+**Related:** [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]] · [[2026-08-03-37-eu-ai-act-enforcement-powers-now-apply-to-frontier-ai-pro]] · [[2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare]] · [[2026-08-03-eu-ai-act-enforcement-powers-now-apply-to-frontier-ai-provid]] · [[2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi]]
 <!-- graph:end -->

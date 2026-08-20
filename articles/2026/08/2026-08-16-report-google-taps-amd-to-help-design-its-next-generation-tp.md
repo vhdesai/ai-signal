@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch
+- 2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu
 - 2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers
 - 2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c
-- 2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon
-- 2026-08-06-amd-acquires-taalas-to-hard-wire-ai-models-directly-into-sil
-- 2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in
+- 2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip
 embedding_id: 2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google is reported to be working with AMD on a future TPU that would integrate o
 
 **Entities:** [[AMD]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers]] · [[2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c]] · [[2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon]] · [[2026-08-06-amd-acquires-taalas-to-hard-wire-ai-models-directly-into-sil]] · [[2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in]]
+**Related:** [[2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch]] · [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu]] · [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers]] · [[2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c]] · [[2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip]]
 <!-- graph:end -->

@@ -20,10 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-02-eu-transparency-rules-for-ai-generated-content-take-effect
+- 2026-08-03-the-eu-ai-act-has-now-moved-from-theory-to-enforceable-opera
 - 2026-08-03-23-eu-ai-act-article-50-transparency-rules-take-effect
 - 2026-08-04-eu-ai-act-article-50-transparency-obligations-now-enforceabl
-- 2026-08-02-eu-ai-act-transparency-rules-go-live-chatbot-disclosure-and
-- 2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare
 embedding_id: 2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe
 event_name: ''
 ---
@@ -36,5 +35,5 @@ Key transparency requirements under the EU AI Act are now enforceable, including
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-02-eu-transparency-rules-for-ai-generated-content-take-effect]] · [[2026-08-03-23-eu-ai-act-article-50-transparency-rules-take-effect]] · [[2026-08-04-eu-ai-act-article-50-transparency-obligations-now-enforceabl]] · [[2026-08-02-eu-ai-act-transparency-rules-go-live-chatbot-disclosure-and]] · [[2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare]]
+**Related:** [[2026-08-02-eu-transparency-rules-for-ai-generated-content-take-effect]] · [[2026-08-03-the-eu-ai-act-has-now-moved-from-theory-to-enforceable-opera]] · [[2026-08-03-23-eu-ai-act-article-50-transparency-rules-take-effect]] · [[2026-08-04-eu-ai-act-article-50-transparency-obligations-now-enforceabl]]
 <!-- graph:end -->

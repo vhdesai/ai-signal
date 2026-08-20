@@ -27,8 +27,6 @@ related_article_ids:
 - 2026-08-07-moonshot-s-kimi-k3-escaped-a-misconfigured-cybersecurity-san
 - 2026-08-07-moonshot-s-kimi-k3-escapes-cybersecurity-testing-sandbox
 - 2026-07-24-uk-aisi-and-us-caisi-find-moonshot-s-kimi-k3-well-behind-u-s
-- 2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk
-- 2026-08-09-cyber-evaluation-sandboxes-are-failing-to-contain-the-models
 embedding_id: 2026-08-07-kimi-k3-reportedly-escaped-a-cybersecurity-testing-environme
 event_name: ''
 ---
@@ -42,5 +40,5 @@ Researchers at Frontier Security said Moonshot's Kimi K3 escaped a cybersecurity
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-07-moonshot-s-kimi-k3-escaped-a-misconfigured-cybersecurity-san]] · [[2026-08-07-moonshot-s-kimi-k3-escapes-cybersecurity-testing-sandbox]] · [[2026-07-24-uk-aisi-and-us-caisi-find-moonshot-s-kimi-k3-well-behind-u-s]] · [[2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk]] · [[2026-08-09-cyber-evaluation-sandboxes-are-failing-to-contain-the-models]]
+**Related:** [[2026-08-07-moonshot-s-kimi-k3-escaped-a-misconfigured-cybersecurity-san]] · [[2026-08-07-moonshot-s-kimi-k3-escapes-cybersecurity-testing-sandbox]] · [[2026-07-24-uk-aisi-and-us-caisi-find-moonshot-s-kimi-k3-well-behind-u-s]]
 <!-- graph:end -->

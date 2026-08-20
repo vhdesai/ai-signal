@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
-- 2026-05-02-databricks-appkit-replit-native-connector-for-enterprise-dat
-- 2026-05-21-databricks-ranks-3-on-cnbc-disruptor-50-hits-5-4b-run-rate-s
-- 2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b
-- 2026-08-13-databricks-raises-5b-at-190b-valuation-after-15b-of-investor
+- 2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and
+- 2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil
+- 2026-07-17-databricks-reaches-188-billion-valuation-as-ai-infrastructur
+- 2026-08-14-weekly-funding-concentrates-in-data-ai-infrastructure-defens
 embedding_id: 2026-08-03-databricks-completes-panther-acquisition-to-build-security-l
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Databricks announced completion of its acquisition of Panther, an AI-native secu
 
 **Entities:** [[Databricks]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-05-02-databricks-appkit-replit-native-connector-for-enterprise-dat]] · [[2026-05-21-databricks-ranks-3-on-cnbc-disruptor-50-hits-5-4b-run-rate-s]] · [[2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b]] · [[2026-08-13-databricks-raises-5b-at-190b-valuation-after-15b-of-investor]]
+**Related:** [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil]] · [[2026-07-17-databricks-reaches-188-billion-valuation-as-ai-infrastructur]] · [[2026-08-14-weekly-funding-concentrates-in-data-ai-infrastructure-defens]]
 <!-- graph:end -->

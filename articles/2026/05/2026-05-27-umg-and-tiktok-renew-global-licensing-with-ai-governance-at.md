@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-27-umg-tiktok-deal-becomes-a-de-facto-governance-template-for-a
 - 2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re
 - 2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal
+- 2026-07-17-indonesia-copyright-rewrite-puts-google-and-ai-platforms-on
 - 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
-- 2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and
 embedding_id: 2026-05-27-umg-and-tiktok-renew-global-licensing-with-ai-governance-at
 event_name: ''
 ---
@@ -37,5 +37,5 @@ UMG and TikTok renew global licensing with AI governance at the center — TechC
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-umg-tiktok-deal-becomes-a-de-facto-governance-template-for-a]] · [[2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re]] · [[2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal]] · [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]] · [[2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and]]
+**Related:** [[2026-05-27-umg-tiktok-deal-becomes-a-de-facto-governance-template-for-a]] · [[2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re]] · [[2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal]] · [[2026-07-17-indonesia-copyright-rewrite-puts-google-and-ai-platforms-on]] · [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]]
 <!-- graph:end -->

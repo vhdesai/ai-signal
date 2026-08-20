@@ -16,13 +16,9 @@ entities: []
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio
-- 2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri
-- 2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat
-- 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
+dedupe_status: duplicate
+canonical_article_id: 2026-06-02-trump-administration-at-war-with-itself-over-ai-regulation
+related_article_ids: []
 embedding_id: 2026-06-02-white-house-divided-over-ai-regulation-as-policy-window-narr
 event_name: ''
 ---
@@ -35,5 +31,5 @@ Wired revealed deep internal divisions within the Trump administration — pro-i
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]] · [[2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri]] · [[2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]]
+**Canonical:** [[2026-06-02-trump-administration-at-war-with-itself-over-ai-regulation]]
 <!-- graph:end -->

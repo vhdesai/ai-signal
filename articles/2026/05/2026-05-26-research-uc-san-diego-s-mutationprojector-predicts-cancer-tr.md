@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
+- 2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop
 - 2026-08-06-stanford-s-evo-2-model-designs-a-functional-bacteriophage-th
 - 2026-04-01-carnegie-mellon-university-s-center-for-ai-driven-biomedical
-- 2026-04-04-cmu-s-center-for-ai-driven-biomedical-research-ai4bio-announ
 embedding_id: 2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr
 event_name: ''
 ---
@@ -37,5 +37,5 @@ UCSD researchers published MutationProjector in Cancer Discovery — an AI model
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-08-06-stanford-s-evo-2-model-designs-a-functional-bacteriophage-th]] · [[2026-04-01-carnegie-mellon-university-s-center-for-ai-driven-biomedical]] · [[2026-04-04-cmu-s-center-for-ai-driven-biomedical-research-ai4bio-announ]]
+**Related:** [[2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop]] · [[2026-08-06-stanford-s-evo-2-model-designs-a-functional-bacteriophage-th]] · [[2026-04-01-carnegie-mellon-university-s-center-for-ai-driven-biomedical]]
 <!-- graph:end -->

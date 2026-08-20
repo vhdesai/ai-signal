@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc
 - 2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr
-- 2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con
-- 2026-05-15-cursor-launches-hiring-spree-after-spacex-deal
+- 2026-08-17-cursor-acquisition-marks-second-largest-of-vc-backed-company
+- 2026-07-22-cursor-releases-cursor-router-a-request-level-classifier-for
 embedding_id: 2026-07-28-cursor-customers-push-back-on-usage-based-price-hikes
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cursor customers are reportedly pushing back on large renewal increases as the A
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr]] · [[2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con]] · [[2026-05-15-cursor-launches-hiring-spree-after-spacex-deal]]
+**Related:** [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr]] · [[2026-08-17-cursor-acquisition-marks-second-largest-of-vc-backed-company]] · [[2026-07-22-cursor-releases-cursor-router-a-request-level-classifier-for]]
 <!-- graph:end -->

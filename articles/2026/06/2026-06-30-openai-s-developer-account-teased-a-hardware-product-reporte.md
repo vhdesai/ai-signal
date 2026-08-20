@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-30-openai-posted-a-teaser-for-a-physical-codex-device-a-square
 - 2026-06-30-openai-teases-its-first-hardware-codex-micro-a-codex-shortcu
+- 2026-07-15-openai-launches-a-230-physical-keyboard-for-codex-power-user
 - 2026-04-20-openai-codex-0-122-0-ships-broad-platform-update
 - 2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b
-- 2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile
 embedding_id: 2026-06-30-openai-s-developer-account-teased-a-hardware-product-reporte
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI's developer account teased a hardware product—reportedly a Codex-focuse
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-30-openai-posted-a-teaser-for-a-physical-codex-device-a-square]] · [[2026-06-30-openai-teases-its-first-hardware-codex-micro-a-codex-shortcu]] · [[2026-04-20-openai-codex-0-122-0-ships-broad-platform-update]] · [[2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b]] · [[2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile]]
+**Related:** [[2026-06-30-openai-posted-a-teaser-for-a-physical-codex-device-a-square]] · [[2026-06-30-openai-teases-its-first-hardware-codex-micro-a-codex-shortcu]] · [[2026-07-15-openai-launches-a-230-physical-keyboard-for-codex-power-user]] · [[2026-04-20-openai-codex-0-122-0-ships-broad-platform-update]] · [[2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b]]
 <!-- graph:end -->

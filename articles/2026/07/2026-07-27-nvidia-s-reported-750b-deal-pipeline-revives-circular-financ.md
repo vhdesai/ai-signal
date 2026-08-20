@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-02-nvidia-linked-ai-infrastructure-spending-fuels-circular-fina
+- 2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it
+- 2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba
 - 2026-08-02-nvidia-s-planned-750b-ai-outlay-draws-circular-financing-and
-- 2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise
-- 2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne
-- 2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target
+- 2026-08-15-nvidia-reportedly-close-to-guaranteeing-about-100-billion-in
 embedding_id: 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Nvidia is reportedly working on a fresh round of AI infrastructure deals potenti
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-02-nvidia-s-planned-750b-ai-outlay-draws-circular-financing-and]] · [[2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise]] · [[2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne]] · [[2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target]]
+**Related:** [[2026-08-02-nvidia-linked-ai-infrastructure-spending-fuels-circular-fina]] · [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]] · [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]] · [[2026-08-02-nvidia-s-planned-750b-ai-outlay-draws-circular-financing-and]] · [[2026-08-15-nvidia-reportedly-close-to-guaranteeing-about-100-billion-in]]
 <!-- graph:end -->

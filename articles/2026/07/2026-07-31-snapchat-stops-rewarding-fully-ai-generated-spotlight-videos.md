@@ -19,9 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-01-techcrunch-reports-that-snap-updated-spotlight-monetization
+- 2026-07-20-youtube-clarifies-monetization-rules-for-ai-generated-and-lo
 - 2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature
 - 2026-08-08-shuts-down-creator-revenue-sharing-to-curb-ai-generated-spam
-- 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
 embedding_id: 2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Snapchat adjusted its recommendation systems so that fully AI-generated videos a
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature]] · [[2026-08-08-shuts-down-creator-revenue-sharing-to-curb-ai-generated-spam]] · [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]]
+**Related:** [[2026-08-01-techcrunch-reports-that-snap-updated-spotlight-monetization]] · [[2026-07-20-youtube-clarifies-monetization-rules-for-ai-generated-and-lo]] · [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature]] · [[2026-08-08-shuts-down-creator-revenue-sharing-to-curb-ai-generated-spam]]
 <!-- graph:end -->

@@ -21,10 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-50b-and-5-gi
 - 2026-07-13-meta-pours-an-additional-40b-into-its-hyperion-data-center-c
 - 2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill
-- 2026-07-13-infrastructure-meta-capex
-- 2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da
 embedding_id: 2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-5-gw-and-mor
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Meta will scale Hyperion to 5 GW at >$50B — up from initial ~$10B/2 GW. Partne
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-13-meta-pours-an-additional-40b-into-its-hyperion-data-center-c]] · [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill]] · [[2026-07-13-infrastructure-meta-capex]] · [[2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da]]
+**Related:** [[2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-50b-and-5-gi]] · [[2026-07-13-meta-pours-an-additional-40b-into-its-hyperion-data-center-c]] · [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill]]
 <!-- graph:end -->

@@ -22,8 +22,9 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c
 related_article_ids:
+- 2026-08-03-alibaba-unveils-qwen3-8-max-as-china-s-model-race-accelerate
+- 2026-08-03-alibaba-qwen3-8-max-raises-the-bar-in-china-s-model-race
 - 2026-08-03-alibaba-unveils-qwen3-8-max-its-largest-and-most-capable-mod
-- 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
 embedding_id: 2026-08-03-alibaba-launches-qwen3-8-max-its-largest-and-most-capable-mo
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Alibaba unveiled Qwen3.8-Max, a 2.4-trillion-parameter mixture-of-experts model 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
 **Canonical:** [[2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c]]
-**Related:** [[2026-08-03-alibaba-unveils-qwen3-8-max-its-largest-and-most-capable-mod]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]]
+**Related:** [[2026-08-03-alibaba-unveils-qwen3-8-max-as-china-s-model-race-accelerate]] · [[2026-08-03-alibaba-qwen3-8-max-raises-the-bar-in-china-s-model-race]] · [[2026-08-03-alibaba-unveils-qwen3-8-max-its-largest-and-most-capable-mod]]
 <!-- graph:end -->

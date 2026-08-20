@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-19-the-american-rebellion-against-ai-gains-steam
 - 2026-05-19-the-american-rebellion-against-ai-is-gaining-steam
 - 2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce
-- 2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic
-- 2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models
+- 2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d
+- 2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro
 embedding_id: 2026-06-07-wsj-the-artificial-intelligence-backlash
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The WSJ published a major feature on the emerging AI backlash, documenting how p
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-the-american-rebellion-against-ai-gains-steam]] · [[2026-05-19-the-american-rebellion-against-ai-is-gaining-steam]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]] · [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models]]
+**Related:** [[2026-05-19-the-american-rebellion-against-ai-gains-steam]] · [[2026-05-19-the-american-rebellion-against-ai-is-gaining-steam]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]] · [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro]]
 <!-- graph:end -->

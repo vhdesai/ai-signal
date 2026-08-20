@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
 - 2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by
+- 2026-08-14-samsung-s-xmae-and-himae-show-foundation-model-approaches-fo
 - 2026-07-10-stanford-s-biomni-shows-biomedical-agents-executing-end-to-e
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
-- 2026-04-11-princeton-s-center-for-information-technology-policy-publish
 embedding_id: 2026-05-02-mit-news-featured-beacon-biosignals-which-is-applying-ai-to
 event_name: ''
 ---
@@ -34,5 +34,5 @@ MIT News featured Beacon Biosignals, which is applying AI to neurological signal
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]] · [[2026-07-10-stanford-s-biomni-shows-biomedical-agents-executing-end-to-e]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]]
+**Related:** [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]] · [[2026-08-14-samsung-s-xmae-and-himae-show-foundation-model-approaches-fo]] · [[2026-07-10-stanford-s-biomni-shows-biomedical-agents-executing-end-to-e]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]]
 <!-- graph:end -->

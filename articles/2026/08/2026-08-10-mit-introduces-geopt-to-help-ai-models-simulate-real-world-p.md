@@ -16,14 +16,9 @@ entities: []
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-10-mit-csail-and-tsinghua-introduce-geopt-arguing-physics-is-ai
-- 2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu
-- 2026-06-26-this-preprint-proposes-a-world-model-approach-named-for-eins
-- 2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps
-- 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
+dedupe_status: duplicate
+canonical_article_id: 2026-08-10-mit-csail-and-tsinghua-introduce-geopt-arguing-physics-is-ai
+related_article_ids: []
 embedding_id: 2026-08-10-mit-introduces-geopt-to-help-ai-models-simulate-real-world-p
 event_name: ''
 ---
@@ -36,5 +31,5 @@ MIT researchers introduced GeoPT, a pretraining approach that helps AI simulatio
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-10-mit-csail-and-tsinghua-introduce-geopt-arguing-physics-is-ai]] · [[2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu]] · [[2026-06-26-this-preprint-proposes-a-world-model-approach-named-for-eins]] · [[2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps]] · [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]]
+**Canonical:** [[2026-08-10-mit-csail-and-tsinghua-introduce-geopt-arguing-physics-is-ai]]
 <!-- graph:end -->

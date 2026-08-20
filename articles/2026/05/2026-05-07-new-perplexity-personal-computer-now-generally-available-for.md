@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-18-perplexity-s-free-ai-offer-left-it-with-millions-more-users
 - 2026-05-15-a-new-macos-tool-called-ai-osaurus-launched-today-giving-use
+- 2026-08-20-meta-ai-launches-mac-app-with-system-wide-dictation-powered
 - 2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the
-- 2026-08-05-macpaw-partners-with-liquid-ai-to-bring-on-device-inference
-- 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
-- 2026-05-21-tencent-launches-marvis-an-os-level-ai-assistant-with-cross
+- 2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi
 embedding_id: 2026-05-07-new-perplexity-personal-computer-now-generally-available-for
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Perplexity opened its Personal Computer product — an OS-level AI assistant for
 
 **Entities:** [[Apple]] · [[Microsoft]] · [[Perplexity]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-15-a-new-macos-tool-called-ai-osaurus-launched-today-giving-use]] · [[2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the]] · [[2026-08-05-macpaw-partners-with-liquid-ai-to-bring-on-device-inference]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-05-21-tencent-launches-marvis-an-os-level-ai-assistant-with-cross]]
+**Related:** [[2026-08-18-perplexity-s-free-ai-offer-left-it-with-millions-more-users]] · [[2026-05-15-a-new-macos-tool-called-ai-osaurus-launched-today-giving-use]] · [[2026-08-20-meta-ai-launches-mac-app-with-system-wide-dictation-powered]] · [[2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the]] · [[2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi]]
 <!-- graph:end -->

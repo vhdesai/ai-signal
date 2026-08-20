@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-20-nadella-warns-ai-industry-there-is-no-societal-permission-fo
+- 2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back
 - 2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven
 - 2026-05-20-ai-news-digest-may-20-2026
 - 2026-08-09-daily-ai-news-digest-august-10-2026
-- 2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and
 embedding_id: 2026-05-26-ai-divide-overshadows-cannes-as-fjord-wins-palme-d-or
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The 2026 Cannes Film Festival closed with the AI-disclosure debate dominating pr
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-20-nadella-warns-ai-industry-there-is-no-societal-permission-fo]] · [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]] · [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-08-09-daily-ai-news-digest-august-10-2026]] · [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and]]
+**Related:** [[2026-06-20-nadella-warns-ai-industry-there-is-no-societal-permission-fo]] · [[2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back]] · [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]] · [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-08-09-daily-ai-news-digest-august-10-2026]]
 <!-- graph:end -->

@@ -20,11 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-02-white-house-divided-over-ai-regulation-as-policy-window-narr
+- 2026-06-02-trump-administration-at-war-with-itself-over-ai-regulation
 - 2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio
-- 2026-06-06-white-house-ai-adviser-sriram-krishnan-departs
-- 2026-05-10-white-house-mulls-executive-order-banning-private-sector-int
-- 2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly
+- 2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi
+- 2026-07-19-pentagon-official-blasts-openai-s-dean-ball-over-regulation
 embedding_id: 2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Outgoing White House tech adviser Sriram Krishnan told the Financial Times that 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-02-white-house-divided-over-ai-regulation-as-policy-window-narr]] · [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]] · [[2026-06-06-white-house-ai-adviser-sriram-krishnan-departs]] · [[2026-05-10-white-house-mulls-executive-order-banning-private-sector-int]] · [[2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly]]
+**Related:** [[2026-06-02-trump-administration-at-war-with-itself-over-ai-regulation]] · [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]] · [[2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi]] · [[2026-07-19-pentagon-official-blasts-openai-s-dean-ball-over-regulation]]
 <!-- graph:end -->

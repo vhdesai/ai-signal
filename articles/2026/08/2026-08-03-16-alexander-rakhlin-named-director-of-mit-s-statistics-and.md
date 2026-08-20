@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-alexander-rakhlin-named-director-of-mit-statistics-and-data
+- 2026-08-01-mit-news-reports-that-csail-director-daniela-rus-received-th
 - 2026-07-07-mit-names-ai-for-science-leader-jesse-thaler-director-of-the
 - 2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni
 - 2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c
@@ -36,5 +37,5 @@ MIT appointed machine-learning and statistics expert Alexander “Sasha” Rakhl
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-alexander-rakhlin-named-director-of-mit-statistics-and-data]] · [[2026-07-07-mit-names-ai-for-science-leader-jesse-thaler-director-of-the]] · [[2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni]] · [[2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c]]
+**Related:** [[2026-08-03-alexander-rakhlin-named-director-of-mit-statistics-and-data]] · [[2026-08-01-mit-news-reports-that-csail-director-daniela-rus-received-th]] · [[2026-07-07-mit-names-ai-for-science-leader-jesse-thaler-director-of-the]] · [[2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni]] · [[2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c]]
 <!-- graph:end -->

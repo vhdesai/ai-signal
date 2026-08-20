@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
 - 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
+- 2026-08-12-openai-begins-testing-ads-in-chatgpt
 - 2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app
-- 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
 embedding_id: 2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI said it disrupted a Cambodia-based scam operation that used ChatGPT to su
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]] · [[2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app]] · [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]]
+**Related:** [[2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]] · [[2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app]]
 <!-- graph:end -->

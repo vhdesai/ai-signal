@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
 - 2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
+- 2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers
 - 2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop
-- 2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window
 embedding_id: 2026-05-15-openai-announced-that-its-ai-powered-coding-assistant-codex
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI announced that its AI-powered coding assistant Codex will be coming to mo
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop]] · [[2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window]]
+**Related:** [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers]] · [[2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop]]
 <!-- graph:end -->

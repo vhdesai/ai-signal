@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation
+- 2026-08-07-nvidia-backed-firmus-raises-2b-at-10-5b-valuation
 - 2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners
 - 2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
-- 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
 embedding_id: 2026-08-10-australia-s-firmus-raises-2b-for-ai-data-centers-at-a-10-5b
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Firmus, an Australian AI infrastructure operator, raised US$2 billion at a valua
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]] · [[2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]]
+**Related:** [[2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation]] · [[2026-08-07-nvidia-backed-firmus-raises-2b-at-10-5b-valuation]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]] · [[2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
 <!-- graph:end -->

@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-18-survey-85-of-companies-burned-by-an-ai-mistake-are-cutting-h
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-07-30-can-ai-agents-conduct-open-ended-ai-research-early-evidence
+- 2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
-- 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
-- 2026-07-08-openai-audit-finds-30-of-swe-bench-pro-coding-tasks-are-brok
 embedding_id: 2026-08-07-cambridge-study-human-reviewers-miss-one-third-of-risky-ai-c
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A University of Cambridge study found that human reviewers fail to catch approxi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-07-30-can-ai-agents-conduct-open-ended-ai-research-early-evidence]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-07-08-openai-audit-finds-30-of-swe-bench-pro-coding-tasks-are-brok]]
+**Related:** [[2026-08-18-survey-85-of-companies-burned-by-an-ai-mistake-are-cutting-h]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-07-30-can-ai-agents-conduct-open-ended-ai-research-early-evidence]] · [[2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]]
 <!-- graph:end -->

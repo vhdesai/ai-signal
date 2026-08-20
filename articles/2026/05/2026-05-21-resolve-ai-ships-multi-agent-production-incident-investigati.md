@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
 - 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
 - 2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us
+- 2026-07-22-openai-unveils-presence-an-enterprise-platform-for-realtime
 - 2026-08-17-ai-module-inflated-86-of-pipeline-accuracy-by-leaking-answer
 embedding_id: 2026-05-21-resolve-ai-ships-multi-agent-production-incident-investigati
 event_name: ''
@@ -36,5 +37,5 @@ Resolve AI launched a multi-agent investigation system that dispatches coordinat
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us]] · [[2026-08-17-ai-module-inflated-86-of-pipeline-accuracy-by-leaking-answer]]
+**Related:** [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us]] · [[2026-07-22-openai-unveils-presence-an-enterprise-platform-for-realtime]] · [[2026-08-17-ai-module-inflated-86-of-pipeline-accuracy-by-leaking-answer]]
 <!-- graph:end -->

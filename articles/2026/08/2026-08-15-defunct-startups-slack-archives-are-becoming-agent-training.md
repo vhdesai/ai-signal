@@ -22,8 +22,7 @@ related_article_ids:
 - 2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre
 - 2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts
 - 2026-04-06-a-supply-chain-security-breach-at-mercor-a-platform-widely-u
-- 2026-04-04-mercor-the-10b-ai-startup-serving-anthropic-openai-and-meta
-- 2026-04-27-4tb-of-voice-data-stolen-from-40-000-ai-contractors-at-merco
+- 2026-08-14-business-insider-launches-the-ai-data-grab-series-on-workpla
 embedding_id: 2026-08-15-defunct-startups-slack-archives-are-becoming-agent-training
 event_name: ''
 ---
@@ -36,5 +35,5 @@ Mercor and rival data vendors are pursuing internal Slack archives, ticketing hi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre]] · [[2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts]] · [[2026-04-06-a-supply-chain-security-breach-at-mercor-a-platform-widely-u]] · [[2026-04-04-mercor-the-10b-ai-startup-serving-anthropic-openai-and-meta]] · [[2026-04-27-4tb-of-voice-data-stolen-from-40-000-ai-contractors-at-merco]]
+**Related:** [[2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre]] · [[2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts]] · [[2026-04-06-a-supply-chain-security-breach-at-mercor-a-platform-widely-u]] · [[2026-08-14-business-insider-launches-the-ai-data-grab-series-on-workpla]]
 <!-- graph:end -->

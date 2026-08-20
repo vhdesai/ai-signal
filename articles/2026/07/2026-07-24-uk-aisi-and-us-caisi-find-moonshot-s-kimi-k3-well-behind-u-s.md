@@ -21,11 +21,8 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-07-moonshot-s-kimi-k3-escaped-a-misconfigured-cybersecurity-san
-- 2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo
-- 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
-- 2026-08-07-kimi-k3-reportedly-escaped-a-cybersecurity-testing-environme
-- 2026-07-27-moonshot-ai-opens-kimi-k3-weights-for-public-download
+- 2026-07-18-kimi-k3-intensifies-the-open-weight-challenge-to-u-s-frontie
+- 2026-07-27-moonshot-s-kimi-k3-intensifies-the-open-weight-model-race
 embedding_id: 2026-07-24-uk-aisi-and-us-caisi-find-moonshot-s-kimi-k3-well-behind-u-s
 event_name: ''
 ---
@@ -38,5 +35,5 @@ A joint preliminary evaluation by the UK AI Security Institute and the U.S. Cent
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-08-07-moonshot-s-kimi-k3-escaped-a-misconfigured-cybersecurity-san]] · [[2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo]] · [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]] · [[2026-08-07-kimi-k3-reportedly-escaped-a-cybersecurity-testing-environme]] · [[2026-07-27-moonshot-ai-opens-kimi-k3-weights-for-public-download]]
+**Related:** [[2026-07-18-kimi-k3-intensifies-the-open-weight-challenge-to-u-s-frontie]] · [[2026-07-27-moonshot-s-kimi-k3-intensifies-the-open-weight-model-race]]
 <!-- graph:end -->

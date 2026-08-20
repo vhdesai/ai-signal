@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-01-the-trump-administration-released-a-comprehensive-national-a
+- 2026-06-11-white-house-ties-state-ai-law-preemption-to-kids-safety-cong
+- 2026-06-11-white-house-pushes-to-block-state-ai-laws-by-tying-preemptio
 - 2026-04-13-white-house-national-ai-policy-framework-moves-into-implemen
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
-- 2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c
-- 2026-05-27-white-house-delays-ai-cybersecurity-executive-order-hhs-embe
 embedding_id: 2026-05-16-the-white-house-released-a-comprehensive-national-policy-fra
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The White House released a comprehensive National Policy Framework for AI in Mar
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-01-the-trump-administration-released-a-comprehensive-national-a]] · [[2026-04-13-white-house-national-ai-policy-framework-moves-into-implemen]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c]] · [[2026-05-27-white-house-delays-ai-cybersecurity-executive-order-hhs-embe]]
+**Related:** [[2026-04-01-the-trump-administration-released-a-comprehensive-national-a]] · [[2026-06-11-white-house-ties-state-ai-law-preemption-to-kids-safety-cong]] · [[2026-06-11-white-house-pushes-to-block-state-ai-laws-by-tying-preemptio]] · [[2026-04-13-white-house-national-ai-policy-framework-moves-into-implemen]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]]
 <!-- graph:end -->

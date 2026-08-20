@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-31-axios-highlights-azure-s-100-billion-run-rate-and-ai-capex-d
 - 2026-05-21-two-hours-that-changed-ai-axios-documents-the-historic-may-2
 - 2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man
 - 2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac
 - 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
-- 2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202
 embedding_id: 2026-06-07-axios-the-business-of-ai-faces-four-harsh-realities
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Axios identified four structural challenges: runaway token costs, uncertain ente
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-21-two-hours-that-changed-ai-axios-documents-the-historic-may-2]] · [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man]] · [[2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]]
+**Related:** [[2026-07-31-axios-highlights-azure-s-100-billion-run-rate-and-ai-capex-d]] · [[2026-05-21-two-hours-that-changed-ai-axios-documents-the-historic-may-2]] · [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man]] · [[2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]]
 <!-- graph:end -->

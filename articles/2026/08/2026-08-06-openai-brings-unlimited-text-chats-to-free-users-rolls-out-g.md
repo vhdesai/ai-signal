@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-06-openai-upgrades-chatgpt-to-a-smarter-unified-gpt-5-6-sol-and
 - 2026-08-06-openai-expands-free-chatgpt-text-access-with-gpt-5-6-luna
+- 2026-08-06-openai-makes-gpt-5-6-luna-the-default-for-free-users-and-rem
 - 2026-08-06-openai-upgrades-chatgpt-gpt-5-6-sol-steadier-gpt-5-6-luna-no
 - 2026-08-07-gpt-5-6-sol-becomes-the-chatgpt-default-for-paid-users
-- 2026-08-07-openai-rolls-gpt-5-6-luna-out-to-chatgpt-free-and-go-users
 embedding_id: 2026-08-06-openai-brings-unlimited-text-chats-to-free-users-rolls-out-g
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI announced unlimited text-based chats for Free and Go-tier users, powered 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-openai-upgrades-chatgpt-to-a-smarter-unified-gpt-5-6-sol-and]] · [[2026-08-06-openai-expands-free-chatgpt-text-access-with-gpt-5-6-luna]] · [[2026-08-06-openai-upgrades-chatgpt-gpt-5-6-sol-steadier-gpt-5-6-luna-no]] · [[2026-08-07-gpt-5-6-sol-becomes-the-chatgpt-default-for-paid-users]] · [[2026-08-07-openai-rolls-gpt-5-6-luna-out-to-chatgpt-free-and-go-users]]
+**Related:** [[2026-08-06-openai-upgrades-chatgpt-to-a-smarter-unified-gpt-5-6-sol-and]] · [[2026-08-06-openai-expands-free-chatgpt-text-access-with-gpt-5-6-luna]] · [[2026-08-06-openai-makes-gpt-5-6-luna-the-default-for-free-users-and-rem]] · [[2026-08-06-openai-upgrades-chatgpt-gpt-5-6-sol-steadier-gpt-5-6-luna-no]] · [[2026-08-07-gpt-5-6-sol-becomes-the-chatgpt-default-for-paid-users]]
 <!-- graph:end -->

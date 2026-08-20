@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-01-a-joint-research-team-from-stanford-carnegie-mellon-mit-and
+- 2026-08-03-cuspai-illustrates-how-capital-is-spreading-into-the-physica
 - 2026-08-03-19-georgia-tech-to-lead-national-cloud-lab-for-advanced-manu
 - 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
 - 2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi
-- 2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co
 embedding_id: 2026-05-11-applied-materials-epic-center-adds-stanford-asu-and-rpi
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Stanford, Arizona State, and RPI joined Applied Materials' EPIC Center in Silico
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-01-a-joint-research-team-from-stanford-carnegie-mellon-mit-and]] · [[2026-08-03-19-georgia-tech-to-lead-national-cloud-lab-for-advanced-manu]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi]] · [[2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co]]
+**Related:** [[2026-04-01-a-joint-research-team-from-stanford-carnegie-mellon-mit-and]] · [[2026-08-03-cuspai-illustrates-how-capital-is-spreading-into-the-physica]] · [[2026-08-03-19-georgia-tech-to-lead-national-cloud-lab-for-advanced-manu]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi]]
 <!-- graph:end -->

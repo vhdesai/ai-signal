@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-as-open-source-ai-adoption-grows-the-attack-surface-expands
 - 2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli
 - 2026-08-17-openai-s-greg-brockman-argues-the-defender-s-window-for-ai-a
 - 2026-08-17-openai-publishes-the-defender-s-window-on-automating-enterpr
-- 2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio
 embedding_id: 2026-08-02-attackers-target-open-source-ai-as-big-tech-embraces-it
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Defense One reported that attackers are targeting open-source AI at the same tim
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli]] · [[2026-08-17-openai-s-greg-brockman-argues-the-defender-s-window-for-ai-a]] · [[2026-08-17-openai-publishes-the-defender-s-window-on-automating-enterpr]] · [[2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio]]
+**Related:** [[2026-08-03-as-open-source-ai-adoption-grows-the-attack-surface-expands]] · [[2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli]] · [[2026-08-17-openai-s-greg-brockman-argues-the-defender-s-window-for-ai-a]] · [[2026-08-17-openai-publishes-the-defender-s-window-on-automating-enterpr]]
 <!-- graph:end -->

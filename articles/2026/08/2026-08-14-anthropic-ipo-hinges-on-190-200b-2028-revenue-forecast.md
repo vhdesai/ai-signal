@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-14-anthropic-ipo-valuation-hinges-on-a-190-200b-2028-revenue-fo
 - 2026-08-14-anthropic-ipo-valuation-hinges-on-a-190-200-billion-2028-rev
-- 2026-08-15-anthropic-reportedly-planning-october-ipo-at-up-to-2-trillio
+- 2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi
+- 2026-08-17-anthropic-s-annualized-revenue-surges-to-65b-ipo-expected-th
 - 2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b
-- 2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren
-- 2026-08-14-anthropic-targets-2t-valuation-with-an-ipo-reportedly-eyed-f
 embedding_id: 2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic projects ~$190–200B annual revenue by 2028 — the figure bankers ar
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-14-anthropic-ipo-valuation-hinges-on-a-190-200-billion-2028-rev]] · [[2026-08-15-anthropic-reportedly-planning-october-ipo-at-up-to-2-trillio]] · [[2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b]] · [[2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren]] · [[2026-08-14-anthropic-targets-2t-valuation-with-an-ipo-reportedly-eyed-f]]
+**Related:** [[2026-08-14-anthropic-ipo-valuation-hinges-on-a-190-200b-2028-revenue-fo]] · [[2026-08-14-anthropic-ipo-valuation-hinges-on-a-190-200-billion-2028-rev]] · [[2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi]] · [[2026-08-17-anthropic-s-annualized-revenue-surges-to-65b-ipo-expected-th]] · [[2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b]]
 <!-- graph:end -->

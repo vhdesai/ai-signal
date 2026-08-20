@@ -24,7 +24,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-05-meta-launches-muse-code-an-ai-coding-agent-for-large-codebas
-- 2026-08-05-meta-ships-muse-code-and-muse-spark-1-2-entering-the-coding
 - 2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a
 embedding_id: 2026-08-05-meta-launches-muse-code-a-terminal-coding-agent-for-large-re
 event_name: ''
@@ -39,5 +38,5 @@ Meta launched Muse Code, a beta terminal coding agent powered by its Muse Spark 
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-meta-launches-muse-code-an-ai-coding-agent-for-large-codebas]] · [[2026-08-05-meta-ships-muse-code-and-muse-spark-1-2-entering-the-coding]] · [[2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a]]
+**Related:** [[2026-08-05-meta-launches-muse-code-an-ai-coding-agent-for-large-codebas]] · [[2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a]]
 <!-- graph:end -->

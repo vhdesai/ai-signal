@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-09-alphabet-absorbs-compounding-deepmind-leadership-losses
 - 2026-08-05-alphabet-overhauls-ai-leadership-hassabis-steps-back-jeff-de
+- 2026-08-05-hassabis-steps-aside-as-google-deepmind-ceo-jeff-dean-leaves
 - 2026-08-05-google-reshuffles-its-ai-leadership-jeff-dean-departs-to-fou
 - 2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st
-- 2026-08-05-google-deepmind-leadership-overhaul-hassabis-steps-back-as-c
 embedding_id: 2026-08-05-alphabet-absorbs-compounding-deepmind-leadership-losses-gemi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Demis Hassabis is moving from Google DeepMind CEO to unit chairman, with CTO Kor
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-09-alphabet-absorbs-compounding-deepmind-leadership-losses]] · [[2026-08-05-alphabet-overhauls-ai-leadership-hassabis-steps-back-jeff-de]] · [[2026-08-05-google-reshuffles-its-ai-leadership-jeff-dean-departs-to-fou]] · [[2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st]] · [[2026-08-05-google-deepmind-leadership-overhaul-hassabis-steps-back-as-c]]
+**Related:** [[2026-08-09-alphabet-absorbs-compounding-deepmind-leadership-losses]] · [[2026-08-05-alphabet-overhauls-ai-leadership-hassabis-steps-back-jeff-de]] · [[2026-08-05-hassabis-steps-aside-as-google-deepmind-ceo-jeff-dean-leaves]] · [[2026-08-05-google-reshuffles-its-ai-leadership-jeff-dean-departs-to-fou]] · [[2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st]]
 <!-- graph:end -->

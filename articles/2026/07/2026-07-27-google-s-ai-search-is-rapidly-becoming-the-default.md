@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
+- 2026-06-01-duckduckgo-s-no-ai-search-engine-sees-traffic-boom
 - 2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years
 - 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
 - 2026-05-20-google-fights-manipulation-of-ai-search-results
-- 2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers
 embedding_id: 2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TechCrunch reports that Google's AI Overviews now appear in 43% of searches, up 
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-05-20-google-fights-manipulation-of-ai-search-results]] · [[2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers]]
+**Related:** [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-06-01-duckduckgo-s-no-ai-search-engine-sees-traffic-boom]] · [[2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-05-20-google-fights-manipulation-of-ai-search-results]]
 <!-- graph:end -->

@@ -25,8 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-11-anthropic-targets-a-september-october-ipo-moving-ahead-of-op
 - 2026-08-12-anthropic-works-to-shore-up-investor-confidence-ahead-of-a-b
-- 2026-08-14-investors-battle-for-anthropic-shares-on-secondary-markets-a
-- 2026-08-13-anthropic-reportedly-weighing-2t-valuation-for-october-ipo
+- 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve
 embedding_id: 2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo
 event_name: ''
 ---
@@ -40,5 +39,5 @@ Anthropic is reportedly meeting investors ahead of a possible public debut this 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-11-anthropic-targets-a-september-october-ipo-moving-ahead-of-op]] · [[2026-08-12-anthropic-works-to-shore-up-investor-confidence-ahead-of-a-b]] · [[2026-08-14-investors-battle-for-anthropic-shares-on-secondary-markets-a]] · [[2026-08-13-anthropic-reportedly-weighing-2t-valuation-for-october-ipo]]
+**Related:** [[2026-08-11-anthropic-targets-a-september-october-ipo-moving-ahead-of-op]] · [[2026-08-12-anthropic-works-to-shore-up-investor-confidence-ahead-of-a-b]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]]
 <!-- graph:end -->

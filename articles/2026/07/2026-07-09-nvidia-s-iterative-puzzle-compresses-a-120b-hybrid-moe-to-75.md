@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
 - 2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus
+- 2026-07-17-nvidia-releases-nemotron-3-embed-8b-checkpoint-ranks-1-on-rt
 - 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
-- 2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o
 embedding_id: 2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA released Nemotron-Labs-3-Puzzle-75B-A9B, a deployment-optimized compressi
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]] · [[2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o]]
+**Related:** [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus]] · [[2026-07-17-nvidia-releases-nemotron-3-embed-8b-checkpoint-ranks-1-on-rt]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]]
 <!-- graph:end -->

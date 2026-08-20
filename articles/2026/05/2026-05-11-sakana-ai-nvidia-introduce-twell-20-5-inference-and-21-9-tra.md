@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge
 - 2026-05-28-sakana-ai-proposes-diffusionblocks-for-modular-denoising-net
+- 2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon
 - 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
-- 2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite
 embedding_id: 2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Sakana AI and NVIDIA jointly published research on TwELL, a technique that explo
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]] · [[2026-05-28-sakana-ai-proposes-diffusionblocks-for-modular-denoising-net]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite]]
+**Related:** [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]] · [[2026-05-28-sakana-ai-proposes-diffusionblocks-for-modular-denoising-net]] · [[2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]]
 <!-- graph:end -->

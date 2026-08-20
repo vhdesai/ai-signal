@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-28-apple-prepares-renewed-push-for-on-device-ai
 - 2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
-- 2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the
+- 2026-07-14-apple-opens-redesigned-siri-ai-through-the-ios-27-public-bet
 embedding_id: 2026-05-18-apple-revamps-siri-with-on-device-privacy-as-its-differentia
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Apple previewed a revamped Siri built around an on-device foundation model and a
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[2026-05-28-apple-prepares-renewed-push-for-on-device-ai]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the]]
+**Related:** [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[2026-05-28-apple-prepares-renewed-push-for-on-device-ai]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[2026-07-14-apple-opens-redesigned-siri-ai-through-the-ios-27-public-bet]]
 <!-- graph:end -->

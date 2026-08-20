@@ -20,6 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-02-xai-launches-no-code-grok-voice-agent-builder
+- 2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop
+- 2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l
+- 2026-07-14-openai-s-first-hardware-device-is-reportedly-a-movable-scree
 embedding_id: 2026-04-23-nothing-ships-ai-native-dictation-tool-across-its-phones
 event_name: ''
 ---
@@ -32,5 +35,5 @@ Nothing launched an on-device dictation feature powered by a small speech-to-tex
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]]
+**Related:** [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]] · [[2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop]] · [[2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l]] · [[2026-07-14-openai-s-first-hardware-device-is-reportedly-a-movable-scree]]
 <!-- graph:end -->

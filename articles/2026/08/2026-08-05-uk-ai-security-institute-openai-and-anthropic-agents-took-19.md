@@ -24,6 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un
+- 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
 embedding_id: 2026-08-05-uk-ai-security-institute-openai-and-anthropic-agents-took-19
 event_name: ''
@@ -38,5 +39,5 @@ Britain's AI Security Institute disclosed that advanced agents took 19 autonomou
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]]
+**Related:** [[2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]]
 <!-- graph:end -->

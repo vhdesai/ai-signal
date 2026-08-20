@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-24-apple-proposes-lead-to-reduce-no-recovery-failures-in-long-h
 - 2026-08-07-apple-researchers-propose-arbitrage-for-lower-latency-reason
 - 2026-07-27-apple-publishes-gh-esd-for-grounded-error-slice-discovery-in
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 embedding_id: 2026-07-24-apple-proposes-lead-to-address-long-horizon-reasoning-failur
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Apple published LEAD, or Lookahead-Enhanced Atomic Decomposition, a method aimed
 
 **Entities:** [[Apple]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-07-apple-researchers-propose-arbitrage-for-lower-latency-reason]] · [[2026-07-27-apple-publishes-gh-esd-for-grounded-error-slice-discovery-in]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
+**Related:** [[2026-07-24-apple-proposes-lead-to-reduce-no-recovery-failures-in-long-h]] · [[2026-08-07-apple-researchers-propose-arbitrage-for-lower-latency-reason]] · [[2026-07-27-apple-publishes-gh-esd-for-grounded-error-slice-discovery-in]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-17-doj-investigating-andreessen-horowitz-over-board-seats-at-co
 - 2026-08-17-doj-investigating-andreessen-horowitz-over-partners-holding
+- 2026-08-18-a16z-faces-doj-antitrust-scrutiny-over-board-seats-at-databr
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
 - 2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal
-- 2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego
-- 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
 embedding_id: 2026-08-17-doj-investigating-a16z-over-board-seats-at-competing-ai-data
 event_name: ''
 ---
@@ -38,5 +38,5 @@ DOJ examining whether a16z partners violated Section 8 of the Clayton Act via in
 
 **Entities:** [[Databricks]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-17-doj-investigating-andreessen-horowitz-over-partners-holding]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal]] · [[2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]]
+**Related:** [[2026-08-17-doj-investigating-andreessen-horowitz-over-board-seats-at-co]] · [[2026-08-17-doj-investigating-andreessen-horowitz-over-partners-holding]] · [[2026-08-18-a16z-faces-doj-antitrust-scrutiny-over-board-seats-at-databr]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal]]
 <!-- graph:end -->

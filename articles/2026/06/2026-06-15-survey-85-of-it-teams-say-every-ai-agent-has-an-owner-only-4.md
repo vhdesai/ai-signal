@@ -42,10 +42,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
+- 2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern
 - 2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca
 - 2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen
-- 2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent
-- 2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t
+- 2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i
 embedding_id: 2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4
 event_name: ''
 ---
@@ -59,5 +59,5 @@ Ivanti research found that organizational leaders are nearly twice as likely as 
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Salesforce]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca]] · [[2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen]] · [[2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent]] · [[2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t]]
+**Related:** [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern]] · [[2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca]] · [[2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen]] · [[2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i]]
 <!-- graph:end -->

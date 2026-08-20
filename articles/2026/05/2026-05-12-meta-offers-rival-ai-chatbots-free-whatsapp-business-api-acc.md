@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-14-meta-opens-whatsapp-api-to-ai-chatbot-rivals-siliconrepublic
 - 2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle
 - 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
-- 2026-07-14-chatgpt-returns-to-whatsapp-in-the-eu-after-brussels-forces
+- 2026-06-03-meta-launches-business-agent-for-whatsapp-globally
 embedding_id: 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Meta agreed to give general-purpose AI chatbots free WhatsApp Business API acces
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-05-14-meta-opens-whatsapp-api-to-ai-chatbot-rivals-siliconrepublic]] · [[2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]] · [[2026-07-14-chatgpt-returns-to-whatsapp-in-the-eu-after-brussels-forces]]
+**Related:** [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-05-14-meta-opens-whatsapp-api-to-ai-chatbot-rivals-siliconrepublic]] · [[2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]] · [[2026-06-03-meta-launches-business-agent-for-whatsapp-globally]]
 <!-- graph:end -->

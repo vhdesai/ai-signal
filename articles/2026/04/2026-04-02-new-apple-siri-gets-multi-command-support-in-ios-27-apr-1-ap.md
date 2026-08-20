@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing
 - 2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed
-- 2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri
+- 2026-07-14-apple-opens-redesigned-siri-ai-through-the-ios-27-public-bet
 embedding_id: 2026-04-02-new-apple-siri-gets-multi-command-support-in-ios-27-apr-1-ap
 event_name: ''
 ---
@@ -39,5 +39,5 @@ event_name: ''
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-03-28-apple-announced-it-will-open-the-siri-platform-to-third-part]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing]] · [[2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed]] · [[2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri]]
+**Related:** [[2026-03-28-apple-announced-it-will-open-the-siri-platform-to-third-part]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing]] · [[2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed]] · [[2026-07-14-apple-opens-redesigned-siri-ai-through-the-ios-27-public-bet]]
 <!-- graph:end -->

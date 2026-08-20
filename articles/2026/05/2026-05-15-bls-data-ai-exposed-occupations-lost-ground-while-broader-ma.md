@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
-- 2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo
 - 2026-05-14-the-ai-driven-restructuring-wave-has-eliminated-more-than-90
 - 2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot
+- 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
 embedding_id: 2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma
 event_name: ''
 ---
@@ -34,5 +34,5 @@ U.S. Bureau of Labor Statistics data show employment in 18 AI-exposed occupation
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo]] · [[2026-05-14-the-ai-driven-restructuring-wave-has-eliminated-more-than-90]] · [[2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot]]
+**Related:** [[2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-05-14-the-ai-driven-restructuring-wave-has-eliminated-more-than-90]] · [[2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]]
 <!-- graph:end -->

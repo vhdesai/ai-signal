@@ -1,43 +1,44 @@
 ---
 article_id: 2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon
-title: 'Counterpoint: 92% of Sovereign LLMs Trained on Nvidia Silicon as Inference
-  Competition Opens'
+title: 'Counterpoint: 92% of sovereign LLMs trained on Nvidia silicon as inference
+  competition opens'
 date: '2026-08-07'
 source: UPI
-url_original: https://www.upi.com/Top_News/World-News/2026/08/07/skorea/9321786142003/
-url_canonical: https://www.upi.com/Top_News/World-News/2026/08/07/skorea/9321786142003/
-url_status: found
-digest_source: digests\raw\2026-08-09_061456_Inbox_Daily AI News Digest - August 9,
-  2026.md
-content_hash: 0a8b23865634c9b82f3469517652b0f95632d1fa42a55dc78287e16b79a0c62b
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-08-09_065727_Final-Daily-AI-News-Digest.md
+content_hash: c1356b962a84b02ffc7756b2dbdb3f21da1ab67017a9d6280e68ff2dbdfdd766
 normalized_title_hash: 7de99121110b8f1d
-canonical_url_hash: a691dff134a0d245
-tags: []
+canonical_url_hash: ''
+tags:
+- Hot
+- Supply chain
 entities:
 - NVIDIA
 themes:
-- company-storylines
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch
-- 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
-- 2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod
+- 2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo
 - 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
+- 2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch
+- 2026-08-14-kog-aims-to-squeeze-more-inference-throughput-from-conventio
 - 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
 embedding_id: 2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon
 event_name: ''
 ---
 
-# Counterpoint: 92% of Sovereign LLMs Trained on Nvidia Silicon as Inference Competition Opens
+# Counterpoint: 92% of sovereign LLMs trained on Nvidia silicon as inference competition opens
 
-Counterpoint Research found that as of July, 92% of roughly 170 sovereign large language models across more than 80 countries were trained on Nvidia GPUs, with CUDA lock-in cited as the dominant factor alongside raw compute. The competitive opening is inference rather than training: SK Telecom has deployed Rebellions' domestically designed NPUs in production systems, betting that cost-per-token and energy efficiency outweigh peak throughput once services move from build to run. Enterprises modeling multi-year inference spend should treat training-share statistics as a poor proxy for future accelerator competition. Research Breakthroughs RESEARCHAGENTS
+Counterpoint Research found that 92% of roughly 170 sovereign large language models across 80+ countries were trained on Nvidia GPUs, with CUDA lock-in cited as the dominant factor. The competitive opening is inference: SK Telecom has deployed domestically designed Rebellions NPUs in production, betting that cost-per-token and energy efficiency outweigh peak throughput for run-phase services. URL: UPI: South Korea sovereign AI
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]]
+**Topics:** [[Infrastructure & Compute]]
+**Related:** [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch]] · [[2026-08-14-kog-aims-to-squeeze-more-inference-throughput-from-conventio]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]]
 <!-- graph:end -->

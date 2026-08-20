@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-17-higgsfield-raises-400m-series-b-at-a-5-4b-valuation
 - 2026-08-17-goldman-and-intel-back-5-4bn-ai-video-startup-higgsfield
+- 2026-08-17-higgsfield-raises-400m-at-5-4b-wispr-raises-280m-at-2b
 - 2026-05-26-ai-divide-overshadows-cannes-as-fjord-wins-palme-d-or
 embedding_id: 2026-05-21-higgsfield-ai-premieres-95-minute-fully-ai-generated-film-at
 event_name: ''
@@ -35,5 +36,5 @@ Higgsfield AI premiered Hell Grind — a 95-minute feature film generated entire
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-17-higgsfield-raises-400m-series-b-at-a-5-4b-valuation]] · [[2026-08-17-goldman-and-intel-back-5-4bn-ai-video-startup-higgsfield]] · [[2026-05-26-ai-divide-overshadows-cannes-as-fjord-wins-palme-d-or]]
+**Related:** [[2026-08-17-higgsfield-raises-400m-series-b-at-a-5-4b-valuation]] · [[2026-08-17-goldman-and-intel-back-5-4bn-ai-video-startup-higgsfield]] · [[2026-08-17-higgsfield-raises-400m-at-5-4b-wispr-raises-280m-at-2b]] · [[2026-05-26-ai-divide-overshadows-cannes-as-fjord-wins-palme-d-or]]
 <!-- graph:end -->

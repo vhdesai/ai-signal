@@ -22,9 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-anthropic-courts-fall-ipo-burry-calls-nvidia-500b-financing
+- 2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba
 - 2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin
-- 2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise
-- 2026-05-09-michael-burry-expands-ai-short-palantir-nvidia-oracle-into-2
 embedding_id: 2026-08-12-michael-burry-calls-nvidia-s-500b-ai-financing-push-a-wall-s
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Investor Michael Burry publicly criticized Nvidia's initiative — announced Aug
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-anthropic-courts-fall-ipo-burry-calls-nvidia-500b-financing]] · [[2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin]] · [[2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise]] · [[2026-05-09-michael-burry-expands-ai-short-palantir-nvidia-oracle-into-2]]
+**Related:** [[2026-08-12-anthropic-courts-fall-ipo-burry-calls-nvidia-500b-financing]] · [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]] · [[2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin]]
 <!-- graph:end -->

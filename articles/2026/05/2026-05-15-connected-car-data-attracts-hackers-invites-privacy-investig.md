@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-18-wsj-deep-dive-trump-s-privateer-hacking-plan-brings-high-ris
 - 2026-05-05-itron-hack-reaches-more-downstream-companies-than-initially
 - 2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt
-- 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight
-- 2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers
+- 2026-08-01-ai-for-car-diagnostics-promise-and-pitfalls-of-consumer-ai-t
 embedding_id: 2026-05-15-connected-car-data-attracts-hackers-invites-privacy-investig
 event_name: ''
 ---
@@ -34,5 +34,5 @@ WSJ Pro reports that the rapidly expanding data footprint inside connected vehic
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-05-itron-hack-reaches-more-downstream-companies-than-initially]] · [[2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]] · [[2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers]]
+**Related:** [[2026-08-18-wsj-deep-dive-trump-s-privateer-hacking-plan-brings-high-ris]] · [[2026-05-05-itron-hack-reaches-more-downstream-companies-than-initially]] · [[2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt]] · [[2026-08-01-ai-for-car-diagnostics-promise-and-pitfalls-of-consumer-ai-t]]
 <!-- graph:end -->

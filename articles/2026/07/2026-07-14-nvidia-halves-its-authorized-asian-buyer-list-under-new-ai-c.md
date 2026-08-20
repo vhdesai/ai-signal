@@ -22,7 +22,7 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-a-new-co
+canonical_article_id: 2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-a-new-ai
 related_article_ids: []
 embedding_id: 2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-new-ai-c
 event_name: ''
@@ -37,5 +37,5 @@ Nvidia reportedly cut its approved AI-chip customers in Asia by more than half a
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Canonical:** [[2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-a-new-co]]
+**Canonical:** [[2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-a-new-ai]]
 <!-- graph:end -->

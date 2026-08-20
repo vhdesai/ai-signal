@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-07-rippling-launches-ai-spend-console-after-internal-token-cost
 - 2026-08-07-rippling-ships-ai-spend-console-after-discovering-40-of-r-d
 - 2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc
-- 2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro
+- 2026-08-01-1-in-4-dollars-spent-on-ai-goes-to-waste-report-finds
 embedding_id: 2026-08-07-rippling-disclosed-it-was-burning-40-of-r-d-payroll-on-ai-to
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Rippling's CPO revealed that by March the company was on pace to spend the equiv
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-rippling-ships-ai-spend-console-after-token-costs-spiked-to]] · [[2026-08-07-rippling-launches-ai-spend-console-after-internal-token-cost]] · [[2026-08-07-rippling-ships-ai-spend-console-after-discovering-40-of-r-d]] · [[2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro]]
+**Related:** [[2026-08-07-rippling-ships-ai-spend-console-after-token-costs-spiked-to]] · [[2026-08-07-rippling-launches-ai-spend-console-after-internal-token-cost]] · [[2026-08-07-rippling-ships-ai-spend-console-after-discovering-40-of-r-d]] · [[2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc]] · [[2026-08-01-1-in-4-dollars-spent-on-ai-goes-to-waste-report-finds]]
 <!-- graph:end -->

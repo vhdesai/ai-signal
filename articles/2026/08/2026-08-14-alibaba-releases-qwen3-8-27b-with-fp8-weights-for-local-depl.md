@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
 - 2026-08-17-alibaba-answers-meta-s-ai-challenge-with-new-laptop-ready-mo
 - 2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod
-- 2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent
+- 2026-07-20-alibaba-debuts-qwen3-8-max-preview-a-2-4t-parameter-multimod
 embedding_id: 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Alibaba's Qwen team released Qwen3.8-27B, a long-context multimodal model distri
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]] · [[2026-08-17-alibaba-answers-meta-s-ai-challenge-with-new-laptop-ready-mo]] · [[2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod]] · [[2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent]]
+**Related:** [[2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]] · [[2026-08-17-alibaba-answers-meta-s-ai-challenge-with-new-laptop-ready-mo]] · [[2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod]] · [[2026-07-20-alibaba-debuts-qwen3-8-max-preview-a-2-4t-parameter-multimod]]
 <!-- graph:end -->

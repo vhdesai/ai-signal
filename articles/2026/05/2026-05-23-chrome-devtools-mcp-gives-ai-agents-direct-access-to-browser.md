@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag
 - 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
+- 2026-07-20-model-context-protocol-update-aims-to-make-agent-integration
 - 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
 - 2026-05-27-openai-ships-codex-0-134-0-with-search-mcp-and-cli-improveme
-- 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 embedding_id: 2026-05-23-chrome-devtools-mcp-gives-ai-agents-direct-access-to-browser
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Chrome DevTools team published an implementation of the Model Context Protoc
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]] · [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-05-27-openai-ships-codex-0-134-0-with-search-mcp-and-cli-improveme]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]]
+**Related:** [[2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]] · [[2026-07-20-model-context-protocol-update-aims-to-make-agent-integration]] · [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-05-27-openai-ships-codex-0-134-0-with-search-mcp-and-cli-improveme]]
 <!-- graph:end -->

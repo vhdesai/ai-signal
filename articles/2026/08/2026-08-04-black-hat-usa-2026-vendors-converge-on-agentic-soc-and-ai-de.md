@@ -20,6 +20,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors
+- 2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl
 - 2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications
 - 2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac
@@ -35,5 +36,5 @@ The second wave of Black Hat USA vendor announcements centered almost entirely o
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors]] · [[2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications]] · [[2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac]]
+**Related:** [[2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications]] · [[2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac]]
 <!-- graph:end -->

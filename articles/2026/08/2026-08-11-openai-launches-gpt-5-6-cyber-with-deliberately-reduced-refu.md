@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-11-openai-ships-gpt-5-6-cyber-with-reduced-refusals-behind-vett
+- 2026-08-11-openai-ships-gpt-5-6-cyber-with-deliberately-reduced-refusal
 - 2026-08-11-openai-ships-gpt-5-6-cyber-behind-a-vetted-daybreak-red-tier
 - 2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers
 - 2026-08-11-openai-ships-gpt-5-6-cyber-and-splits-daybreak-into-blue-and
-- 2026-08-10-openai-launches-gpt-5-6-cyber-and-expands-daybreak-cyber-def
 embedding_id: 2026-08-11-openai-launches-gpt-5-6-cyber-with-deliberately-reduced-refu
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Built on GPT-5.6 Sol, GPT-5.6-Cyber is trained for vulnerability research, penet
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-11-openai-ships-gpt-5-6-cyber-with-reduced-refusals-behind-vett]] · [[2026-08-11-openai-ships-gpt-5-6-cyber-behind-a-vetted-daybreak-red-tier]] · [[2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers]] · [[2026-08-11-openai-ships-gpt-5-6-cyber-and-splits-daybreak-into-blue-and]] · [[2026-08-10-openai-launches-gpt-5-6-cyber-and-expands-daybreak-cyber-def]]
+**Related:** [[2026-08-11-openai-ships-gpt-5-6-cyber-with-reduced-refusals-behind-vett]] · [[2026-08-11-openai-ships-gpt-5-6-cyber-with-deliberately-reduced-refusal]] · [[2026-08-11-openai-ships-gpt-5-6-cyber-behind-a-vetted-daybreak-red-tier]] · [[2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers]] · [[2026-08-11-openai-ships-gpt-5-6-cyber-and-splits-daybreak-into-blue-and]]
 <!-- graph:end -->

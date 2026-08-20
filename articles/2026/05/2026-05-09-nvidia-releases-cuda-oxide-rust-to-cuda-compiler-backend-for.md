@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-17-bytedance-seed-and-tsinghua-introduce-cuda-agent-for-gpu-ker
 - 2026-08-17-bytedance-seed-and-tsinghua-air-introduce-cuda-agent-for-gpu
 - 2026-08-17-bytedance-tsinghua-cuda-agent-for-gpu-kernel-generation
 - 2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x
 - 2026-08-07-nvidia-releases-nooa-an-object-oriented-python-framework-tha
-- 2026-08-07-nvidia-open-sources-nooa-object-oriented-agent-framework-rea
 embedding_id: 2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for
 event_name: ''
 ---
@@ -40,5 +40,5 @@ NVIDIA released cuda-oxide, an experimental compiler backend that lets AI infras
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-08-17-bytedance-seed-and-tsinghua-air-introduce-cuda-agent-for-gpu]] · [[2026-08-17-bytedance-tsinghua-cuda-agent-for-gpu-kernel-generation]] · [[2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x]] · [[2026-08-07-nvidia-releases-nooa-an-object-oriented-python-framework-tha]] · [[2026-08-07-nvidia-open-sources-nooa-object-oriented-agent-framework-rea]]
+**Related:** [[2026-08-17-bytedance-seed-and-tsinghua-introduce-cuda-agent-for-gpu-ker]] · [[2026-08-17-bytedance-seed-and-tsinghua-air-introduce-cuda-agent-for-gpu]] · [[2026-08-17-bytedance-tsinghua-cuda-agent-for-gpu-kernel-generation]] · [[2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x]] · [[2026-08-07-nvidia-releases-nooa-an-object-oriented-python-framework-tha]]
 <!-- graph:end -->

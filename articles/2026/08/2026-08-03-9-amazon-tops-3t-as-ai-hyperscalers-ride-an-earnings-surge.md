@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-amazon-tops-3-trillion-market-value-as-ai-cloud-demand-accel
 - 2026-08-04-amazon-joins-the-3-trillion-club-as-aws-posts-its-fastest-re
 - 2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears
 - 2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200
-- 2026-04-02-source-all-about-lawyer-the-neuron
 embedding_id: 2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Amazon crossed a $3 trillion market cap as cloud results reset expectations acro
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-04-amazon-joins-the-3-trillion-club-as-aws-posts-its-fastest-re]] · [[2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears]] · [[2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200]] · [[2026-04-02-source-all-about-lawyer-the-neuron]]
+**Related:** [[2026-08-03-amazon-tops-3-trillion-market-value-as-ai-cloud-demand-accel]] · [[2026-08-04-amazon-joins-the-3-trillion-club-as-aws-posts-its-fastest-re]] · [[2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears]] · [[2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200]]
 <!-- graph:end -->

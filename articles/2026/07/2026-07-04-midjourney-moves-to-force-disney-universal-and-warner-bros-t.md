@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t
 - 2026-07-05-in-the-copyright-suit-brought-by-disney-universal-and-warner
 - 2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou
-- 2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil
-- 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
+- 2026-08-14-anthropic-s-book-scanning-training-method-ruled-fair-use-but
+- 2026-07-14-major-publishers-sue-google-over-gemini-ai-training
 embedding_id: 2026-07-04-midjourney-moves-to-force-disney-universal-and-warner-bros-t
 event_name: ''
 ---
@@ -37,5 +37,5 @@ In the studios' 2025 copyright suit, Midjourney is asking the court to compel Di
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t]] · [[2026-07-05-in-the-copyright-suit-brought-by-disney-universal-and-warner]] · [[2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou]] · [[2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]]
+**Related:** [[2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t]] · [[2026-07-05-in-the-copyright-suit-brought-by-disney-universal-and-warner]] · [[2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou]] · [[2026-08-14-anthropic-s-book-scanning-training-method-ruled-fair-use-but]] · [[2026-07-14-major-publishers-sue-google-over-gemini-ai-training]]
 <!-- graph:end -->

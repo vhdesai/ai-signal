@@ -16,11 +16,9 @@ entities: []
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-17-goldman-and-intel-back-5-4bn-ai-video-startup-higgsfield
-- 2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-dictati
+dedupe_status: duplicate
+canonical_article_id: 2026-08-17-higgsfield-raises-400m-at-5-4b-wispr-raises-280m-at-2b
+related_article_ids: []
 embedding_id: 2026-08-17-higgsfield-raises-400m-series-b-at-a-5-4b-valuation
 event_name: ''
 ---
@@ -33,5 +31,5 @@ Higgsfield, a generative video and image platform for professional creators, rai
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-17-goldman-and-intel-back-5-4bn-ai-video-startup-higgsfield]] · [[2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-dictati]]
+**Canonical:** [[2026-08-17-higgsfield-raises-400m-at-5-4b-wispr-raises-280m-at-2b]]
 <!-- graph:end -->

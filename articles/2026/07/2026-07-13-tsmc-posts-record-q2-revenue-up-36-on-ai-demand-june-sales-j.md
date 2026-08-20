@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-16-tsmc-posts-record-q2-revenue-as-ai-chip-demand-holds
 - 2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained
 - 2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand
-- 2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman
-- 2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi
-- 2026-07-12-tsmc-breaks-ground-on-three-more-advanced-packaging-fabs-as
+- 2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-sustained-ai-c
+- 2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand
 embedding_id: 2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TSMC reported second‑quarter revenue of NT$1.27 trillion (~$39.6B), up 36% yea
 
 **Entities:** [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand]] · [[2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman]] · [[2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi]] · [[2026-07-12-tsmc-breaks-ground-on-three-more-advanced-packaging-fabs-as]]
+**Related:** [[2026-07-16-tsmc-posts-record-q2-revenue-as-ai-chip-demand-holds]] · [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-sustained-ai-c]] · [[2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand]]
 <!-- graph:end -->

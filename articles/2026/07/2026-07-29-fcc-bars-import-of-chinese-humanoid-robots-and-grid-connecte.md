@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-29-u-s-bans-new-chinese-humanoid-robots-and-grid-connected-powe
+- 2026-07-30-beijing-threatens-retaliation-over-u-s-proposal-to-block-chi
 - 2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component
-- 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
-- 2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv
+- 2026-08-05-u-s-moves-to-ban-chinese-data-center-components
+- 2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device
 embedding_id: 2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte
 event_name: ''
 ---
@@ -37,5 +38,5 @@ The Federal Communications Commission released new rules barring the import of C
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-29-u-s-bans-new-chinese-humanoid-robots-and-grid-connected-powe]] · [[2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component]] · [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv]]
+**Related:** [[2026-07-29-u-s-bans-new-chinese-humanoid-robots-and-grid-connected-powe]] · [[2026-07-30-beijing-threatens-retaliation-over-u-s-proposal-to-block-chi]] · [[2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component]] · [[2026-08-05-u-s-moves-to-ban-chinese-data-center-components]] · [[2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device]]
 <!-- graph:end -->

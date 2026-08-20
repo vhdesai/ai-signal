@@ -20,11 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n
 - 2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke
 - 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
-- 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
-- 2026-08-11-nvidia-frames-ai-factory-compute-as-an-investable-infrastruc
-- 2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da
 embedding_id: 2026-08-03-khosla-and-a16z-back-mining-startup-to-support-ai-era-resour
 event_name: ''
 ---
@@ -37,5 +35,5 @@ Fortune reported that Khosla Ventures and Andreessen Horowitz are backing a star
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-08-11-nvidia-frames-ai-factory-compute-as-an-investable-infrastruc]] · [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]]
+**Related:** [[2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n]] · [[2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]]
 <!-- graph:end -->

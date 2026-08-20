@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
 - 2026-06-29-venturebeat-details-how-prompt-injection-remains-the-top-ent
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
-- 2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio
+- 2026-07-15-apple-researchers-evaluate-uncertainty-for-llm-function-call
 embedding_id: 2026-06-26-this-paper-examines-prompt-injection-attacks-against-llm-bas
 event_name: ''
 ---
@@ -37,5 +37,5 @@ This paper examines prompt-injection attacks against LLM-based résumé screenin
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-28-prompt-injection-named-the-top-enterprise-ai-attack-vector-a]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-06-29-venturebeat-details-how-prompt-injection-remains-the-top-ent]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio]]
+**Related:** [[2026-06-28-prompt-injection-named-the-top-enterprise-ai-attack-vector-a]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-06-29-venturebeat-details-how-prompt-injection-remains-the-top-ent]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-07-15-apple-researchers-evaluate-uncertainty-for-llm-function-call]]
 <!-- graph:end -->

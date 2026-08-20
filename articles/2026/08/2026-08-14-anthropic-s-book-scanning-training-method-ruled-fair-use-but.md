@@ -1,0 +1,42 @@
+---
+article_id: 2026-08-14-anthropic-s-book-scanning-training-method-ruled-fair-use-but
+title: Anthropic's Book-Scanning Training Method Ruled Fair Use — But Broader Questions
+  Remain
+date: '2026-08-14'
+source: Business Insider**
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-08-15_065743_Final-Daily-AI-News-Digest.md
+content_hash: db6ef5b235efd1876682ac4f8ed3554d4e9d3bc8cebff6a2165f8b0ab5a02e6c
+normalized_title_hash: 317966d690833d62
+canonical_url_hash: ''
+tags:
+- Hot
+entities:
+- Anthropic
+themes:
+- company-storylines
+cross_cutting_topics: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-08-17-amazon-reportedly-destroying-rare-books-to-digitize-them-for
+- 2026-08-17-amazon-is-destroying-rare-books-to-digitize-them-for-ai-trai
+- 2026-08-17-ai-has-plunged-the-book-publishing-industry-into-chaos
+- 2026-08-14-anthropic-defends-and-explains-claude-watermarking-after-use
+embedding_id: 2026-08-14-anthropic-s-book-scanning-training-method-ruled-fair-use-but
+event_name: ''
+---
+
+# Anthropic's Book-Scanning Training Method Ruled Fair Use — But Broader Questions Remain
+
+Anthropic bought millions of used books, cut off their spines, scanned the contents to train its models, and destroyed the originals — following copyright law that lets you digitize a book you own without creating an extra copy. A federal judge ruled this part of the process was fair use in a high-profile case. However, the larger legal question remains: what happens after training, when models use what they've learned to generate new content. Business Insider is launching a new series called "The AI Data Grab" exploring these dynamics.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Anthropic]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[2026-08-17-amazon-reportedly-destroying-rare-books-to-digitize-them-for]] · [[2026-08-17-amazon-is-destroying-rare-books-to-digitize-them-for-ai-trai]] · [[2026-08-17-ai-has-plunged-the-book-publishing-industry-into-chaos]] · [[2026-08-14-anthropic-defends-and-explains-claude-watermarking-after-use]]
+<!-- graph:end -->

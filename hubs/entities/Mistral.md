@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 159
+member_count: 172
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 159 connected article(s).
+> Auto-generated entity hub. 172 connected article(s).
 
 - `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
 - `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
@@ -24,6 +24,7 @@ member_count: 159
 - `2026-08-07` [[2026-08-07-marktechpost-research-roundup-safety-classifiers-agent-memor|MarkTechPost research roundup: safety classifiers, agent memory, and multimodal RAG tooling]]
 - `2026-08-06` [[2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights|Rep. Ro Khanna to introduce a “Data Center Bill of Rights”]]
 - `2026-08-06` [[2026-08-06-openai-partners-with-the-american-psychological-association|OpenAI partners with the American Psychological Association on youth mental health]]
+- `2026-08-06` [[2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce|Microsoft's AI revenue: 70% flows through OpenAI, raising concentration questions]]
 - `2026-08-05` [[2026-08-05-mistral-releases-shieldstral-a-3b-on-device-ai-safety-model|Mistral releases “Shieldstral,” a 3B on-device AI safety model]]
 - `2026-08-04` [[2026-08-04-open-weight-models-narrow-capability-gap-while-safety-contro|Open-weight models narrow capability gap while safety controls lag]]
 - `2026-08-04` [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g|Open-weight models close the frontier gap while the safety gap persists]]
@@ -31,13 +32,23 @@ member_count: 159
 - `2026-08-04` [[2026-08-04-mistral-releases-shieldstral-for-policy-adaptive-safety-scre|Mistral releases Shieldstral for policy-adaptive safety screening]]
 - `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
 - `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
+- `2026-08-01` [[2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back|How OpenAI Lost Its AI Crown — and the Fight to Win It Back]]
 - `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]
 - `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
 - `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
 - `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
 - `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
 - `2026-07-25` [[2026-07-25-nvidia-s-open-weights-letter-expands-to-50-signatories|Nvidia’s open-weights letter expands to 50 signatories]]
+- `2026-07-25` [[2026-07-25-corporate-capital-is-concentrating-the-u-s-ai-startup-market|Corporate capital is concentrating the U.S. AI startup market]]
+- `2026-07-24` [[2026-07-24-u-s-industry-urges-against-broad-open-weight-restrictions-as|U.S. industry urges against broad open-weight restrictions as Washington weighs China response]]
+- `2026-07-24` [[2026-07-24-more-than-20-tech-companies-urge-washington-not-to-restrict|More than 20 tech companies urge Washington not to restrict open-weight AI]]
+- `2026-07-24` [[2026-07-24-20-tech-companies-urge-u-s-against-broad-open-weight-restric|20+ Tech Companies Urge U.S. Against Broad Open-Weight Restrictions]]
 - `2026-07-22` [[2026-07-22-efficient-new-models-and-mega-deals-collide-with-mounting-sa|Efficient new models and mega-deals collide with mounting safety alarms]]
+- `2026-07-21` [[2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover|NVIDIA ramps Vera Rubin around tokens per megawatt and sovereign AI]]
+- `2026-07-21` [[2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent|Microsoft deepens ties with Mistral, targeting Europe and enterprise AI]]
+- `2026-07-21` [[2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e|Microsoft and Mistral expand sovereign AI partnership with European compute deal]]
+- `2026-07-21` [[2026-07-21-microsoft-and-mistral-expand-partnership-with-multibillion-d|Microsoft and Mistral Expand Partnership with Multibillion-Dollar Europe Compute Deal]]
+- `2026-07-21` [[2026-07-21-microsoft-and-mistral-expand-partnership-for-regulated-indus|Microsoft and Mistral Expand Partnership for Regulated-Industry Sovereign AI]]
 - `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
 - `2026-07-14` [[2026-07-14-mistral-releases-robostral-navigate-for-single-camera-embodi|Mistral releases Robostral Navigate for single-camera embodied navigation]]
 - `2026-07-14` [[2026-07-14-mistral-ai-releases-robostral-navigate-an-8b-model-for-robot|Mistral AI releases Robostral Navigate — an 8B model for robot navigation from a single RGB camera]]
@@ -72,9 +83,11 @@ member_count: 159
 - `2026-06-26` [[2026-06-26-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu|Companies: Nvidia, Google / DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras,…]]
 - `2026-06-25` [[2026-06-25-sources-scanned-companies-nvidia-google-deepmind-openai-anth|Sources scanned: Companies — Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
 - `2026-06-25` [[2026-06-25-italy-s-domyn-to-launch-open-source-frontier-model-within-a|Italy’s Domyn to launch open-source frontier model within a year]]
+- `2026-06-20` [[2026-06-20-vivatech-2026-in-paris-wrapped-its-10th-anniversary-edition|VivaTech 2026 in Paris wrapped its 10th-anniversary edition with significant AI infrastructure announcements: Foxconn…]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
 - `2026-06-14` [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two|Z.ai launches GLM-5.2 with a usable 1M-token context and two reasoning-effort levels]]
 - `2026-06-02` [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense|Airbus Partners with Mistral AI for Sovereign AI in Defense and Design]]
+- `2026-06-01` [[2026-06-01-mistral-explores-custom-chip-design-to-cut-inference-costs|Mistral Explores Custom Chip Design to Cut Inference Costs]]
 - `2026-05-29` [[2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk|CEOs now fear cyberattacks more than any other business risk; Duke pays $3.7M settlement]]
 - `2026-05-28` [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands|Mistral signs Airbus and BMW, defends military-AI use, expands French data centers]]
 - `2026-05-28` [[2026-05-28-mistral-rebrands-le-chat-as-vibe-positioning-it-as-a-full-wo|Mistral rebrands Le Chat as "Vibe," positioning it as a full work agent]]

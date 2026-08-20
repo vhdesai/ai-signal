@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
+- 2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist
 - 2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput
-- 2026-05-14-openai-codex-work-from-anywhere-expansion
-- 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
-- 2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop
+- 2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers
 embedding_id: 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI published a field report on how scientists use AI coding agents to modern
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop]]
+**Related:** [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist]] · [[2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput]] · [[2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers]]
 <!-- graph:end -->

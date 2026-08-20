@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-02-microsoft-build-2026-scout-project-solara-and-frontier-tunin
+- 2026-06-02-microsoft-launches-scout-always-on-agent-agent-365-governanc
+- 2026-06-02-microsoft-build-2026-scout-agent-project-solara-and-frontier
 - event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy
 - event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi
-- 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
 embedding_id: 2026-06-02-microsoft-launches-scout-agent-agent-365-governance-and-surf
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Scout is the first “Autopilots”-class always-on agent, built on OpenClaw and
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-02-microsoft-build-2026-scout-project-solara-and-frontier-tunin]] · [[event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy]] · [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi]] · [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w]]
+**Related:** [[2026-06-02-microsoft-launches-scout-always-on-agent-agent-365-governanc]] · [[2026-06-02-microsoft-build-2026-scout-agent-project-solara-and-frontier]] · [[event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy]] · [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi]]
 <!-- graph:end -->

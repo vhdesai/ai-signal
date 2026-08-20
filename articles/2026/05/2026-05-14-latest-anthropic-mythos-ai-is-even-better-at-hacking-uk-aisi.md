@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-16-analysis-circulating-widely-on-may-15-109-hacker-news-points
 - 2026-05-18-anthropic-s-seed-100-cohort-and-mythos-cybersecurity-rollout
 - 2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m
+- 2026-07-31-anthropic-says-its-models-hacked-three-companies-during-safe
 - 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
-- 2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s
 embedding_id: 2026-05-14-latest-anthropic-mythos-ai-is-even-better-at-hacking-uk-aisi
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The U.K. AI Security Institute reported "notable capability jumps" in Anthropic'
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-16-analysis-circulating-widely-on-may-15-109-hacker-news-points]] · [[2026-05-18-anthropic-s-seed-100-cohort-and-mythos-cybersecurity-rollout]] · [[2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m]] · [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]] · [[2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s]]
+**Related:** [[2026-05-16-analysis-circulating-widely-on-may-15-109-hacker-news-points]] · [[2026-05-18-anthropic-s-seed-100-cohort-and-mythos-cybersecurity-rollout]] · [[2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m]] · [[2026-07-31-anthropic-says-its-models-hacked-three-companies-during-safe]] · [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]]
 <!-- graph:end -->

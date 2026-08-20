@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model
+- 2026-07-17-ai-commoditization-pressures-proprietary-model-economics
 - 2026-06-09-can-tech-companies-learn-to-love-cheaper-ai-models
 - 2026-08-12-thrive-holdings-raises-2b-to-push-ai-into-regulated-workflow
-- 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
-- 2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl
+- 2026-08-03-this-earnings-cycle-reinforces-that-markets-are-no-longer-re
 embedding_id: 2026-05-25-twilio-s-ai-momentum-comes-with-margin-and-contract-tradeoff
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Information’s Twilio coverage frames AI as both a growth driver and a sour
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-06-09-can-tech-companies-learn-to-love-cheaper-ai-models]] · [[2026-08-12-thrive-holdings-raises-2b-to-push-ai-into-regulated-workflow]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl]]
+**Related:** [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-07-17-ai-commoditization-pressures-proprietary-model-economics]] · [[2026-06-09-can-tech-companies-learn-to-love-cheaper-ai-models]] · [[2026-08-12-thrive-holdings-raises-2b-to-push-ai-into-regulated-workflow]] · [[2026-08-03-this-earnings-cycle-reinforces-that-markets-are-no-longer-re]]
 <!-- graph:end -->

@@ -28,7 +28,6 @@ related_article_ids:
 - 2026-08-05-white-house-frontier-model-review-framework-exempts-open-wei
 - 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
 - 2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h
-- 2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode
 embedding_id: 2026-08-05-white-house-to-exempt-open-weight-models-from-voluntary-ai-s
 event_name: ''
 ---
@@ -42,5 +41,5 @@ The administration told developers including Meta, Anthropic, Google, Nvidia and
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-05-white-house-frontier-model-review-framework-exempts-open-wei]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]] · [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]]
+**Related:** [[2026-08-05-white-house-frontier-model-review-framework-exempts-open-wei]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]] · [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]]
 <!-- graph:end -->

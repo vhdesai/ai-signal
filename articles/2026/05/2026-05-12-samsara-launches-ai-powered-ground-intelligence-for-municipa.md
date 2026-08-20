@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-this-geoai-workflow-is-valuable-as-a-concrete-example-of-how
 - 2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge
 - 2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds
 - 2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 embedding_id: 2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Fleet-management firm Samsara unveiled Ground Intelligence, an AI model trained 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]] · [[2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds]] · [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
+**Related:** [[2026-08-03-this-geoai-workflow-is-valuable-as-a-concrete-example-of-how]] · [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]] · [[2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds]] · [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f]]
 <!-- graph:end -->

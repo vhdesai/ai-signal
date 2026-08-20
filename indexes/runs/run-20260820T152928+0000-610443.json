@@ -1,0 +1,16 @@
+{
+  "run_id": "20260820T152928+0000-610443",
+  "started_at": "2026-08-20T15:29:28+00:00",
+  "finished_at": "2026-08-20T15:30:50+00:00",
+  "summary": {
+    "command": "split",
+    "result": {
+      "digests_parsed": 886,
+      "articles_written": 8540,
+      "events_parsed": 63,
+      "event_articles_written": 83,
+      "skipped_publication_sources": 5,
+      "skipped_thin_articles": 4167
+    }
+  }
+}

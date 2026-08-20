@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-spacex-xai-completes-acquisition-of-cursor-at-a-reported-60b
+- 2026-08-14-spacex-completes-60b-all-stock-acquisition-of-cursor-maker-a
 - 2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere
 - 2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc
-- 2026-08-14-spacex-completes-60b-all-stock-acquisition-of-cursor-maker-a
 - 2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr
 embedding_id: 2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso
 event_name: ''
@@ -42,5 +42,5 @@ SpaceX and xAI have lined up an acquisition option for Cursor (Anysphere), value
 
 **Entities:** [[Anthropic]] · [[Google]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-14-spacex-xai-completes-acquisition-of-cursor-at-a-reported-60b]] · [[2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere]] · [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-08-14-spacex-completes-60b-all-stock-acquisition-of-cursor-maker-a]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]]
+**Related:** [[2026-08-14-spacex-xai-completes-acquisition-of-cursor-at-a-reported-60b]] · [[2026-08-14-spacex-completes-60b-all-stock-acquisition-of-cursor-maker-a]] · [[2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere]] · [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]]
 <!-- graph:end -->

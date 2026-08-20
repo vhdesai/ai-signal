@@ -19,8 +19,7 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua
-related_article_ids:
-- 2026-08-12-cognition-in-early-talks-at-a-40b-valuation
+related_article_ids: []
 embedding_id: 2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at
 event_name: ''
 ---
@@ -34,5 +33,4 @@ Cognition is reported to be negotiating a new round at roughly $40 billion, only
 
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua]]
-**Related:** [[2026-08-12-cognition-in-early-talks-at-a-40b-valuation]]
 <!-- graph:end -->

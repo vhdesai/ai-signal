@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-04-openai-president-greg-brockman-made-the-case-for-a-future-wi
 - 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
+- 2026-06-02-openai-expands-codex-agent-beyond-software-to-finance-bankin
 - 2026-06-30-openai-teases-its-first-hardware-codex-micro-a-codex-shortcu
 - 2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app
-- 2026-05-14-openai-codex-work-from-anywhere-expansion
 embedding_id: 2026-07-04-openai-s-brockman-sketches-an-almost-no-interface-future-bui
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI president Greg Brockman argued in a new interview that the product end-st
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-04-openai-president-greg-brockman-made-the-case-for-a-future-wi]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-06-30-openai-teases-its-first-hardware-codex-micro-a-codex-shortcu]] · [[2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]]
+**Related:** [[2026-07-04-openai-president-greg-brockman-made-the-case-for-a-future-wi]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-06-02-openai-expands-codex-agent-beyond-software-to-finance-bankin]] · [[2026-06-30-openai-teases-its-first-hardware-codex-micro-a-codex-shortcu]] · [[2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app]]
 <!-- graph:end -->

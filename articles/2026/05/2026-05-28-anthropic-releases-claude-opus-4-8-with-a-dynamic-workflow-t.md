@@ -19,7 +19,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
-related_article_ids: []
+related_article_ids:
+- 2026-05-28-anthropic-releases-claude-opus-4-8-with-new-dynamic-workflow
 embedding_id: 2026-05-28-anthropic-releases-claude-opus-4-8-with-a-dynamic-workflow-t
 event_name: ''
 ---
@@ -34,4 +35,5 @@ Anthropic shipped Claude Opus 4.8, its latest flagship, headlined by a new dynam
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]]
+**Related:** [[2026-05-28-anthropic-releases-claude-opus-4-8-with-new-dynamic-workflow]]
 <!-- graph:end -->

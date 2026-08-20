@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r
+- 2026-08-13-draft-pentagon-memo-directs-up-to-244m-to-palantir-without-c
 - 2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous
 - 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
 - 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
-- 2026-04-03-more-than-30-openai-and-google-deepmind-employees-including
 embedding_id: 2026-05-21-palantir-sues-pentagon-to-compete-for-dia-ai-analytics-contr
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Palantir has sued for the right to bid on the Defense Intelligence Agency's data
 
 **Entities:** [[Palantir]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r]] · [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]] · [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]] · [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law]] · [[2026-04-03-more-than-30-openai-and-google-deepmind-employees-including]]
+**Related:** [[2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r]] · [[2026-08-13-draft-pentagon-memo-directs-up-to-244m-to-palantir-without-c]] · [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]] · [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]] · [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law]]
 <!-- graph:end -->

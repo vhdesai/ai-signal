@@ -1,22 +1,22 @@
 ---
 article_id: 2026-07-26-deepseek-pauses-second-funding-round-after-founder-s-leaked
-title: DeepSeek pauses second funding round after founder's leaked remarks go viral
+title: DeepSeek Pauses Second Funding Round After Founder's Leaked Remarks Go Viral
 date: '2026-07-26'
-source: The Next Web
+source: The Next Web**
 url_original: https://thenextweb.com/news/deepseek-funding-pause-viral-posts-liang-wenfeng
 url_canonical: https://thenextweb.com/news/deepseek-funding-pause-viral-posts-liang-wenfeng
 url_status: found
-digest_source: digests\raw\2026-07-26_062744_Inbox_Daily AI News Digest - July 26,
-  2026.md
-content_hash: 06f98770a3529a16d3bf774ee06cd841ef94946e0455fb1c67e2b17563cbb486
+digest_source: digests\raw\2026-07-26_065030_Final-Daily-AI-News-Digest.md
+content_hash: d4e09b302542f546c5b0b2ae48c40897518bbf98f95aafbebb91737b7153b113
 normalized_title_hash: a21bb2a083990a07
 canonical_url_hash: 7a5191b3b064cad2
-tags: []
+tags:
+- Breaking
+- Funding
 entities:
 - DeepSeek
 - NVIDIA
 themes:
-- datacenter-infrastructure
 - company-storylines
 cross_cutting_topics:
 - china-compete
@@ -27,14 +27,14 @@ embedding_id: 2026-07-26-deepseek-pauses-second-funding-round-after-founder-s-le
 event_name: ''
 ---
 
-# DeepSeek pauses second funding round after founder's leaked remarks go viral
+# DeepSeek Pauses Second Funding Round After Founder's Leaked Remarks Go Viral
 
-DeepSeek has told prospective backers it is suspending a second raise that would have valued the company near 480 billion yuan (~$71B), following the ~$7B first round it closed in June. The pause was triggered after viral posts — drawn from an investor-meeting transcript — attributed comments to founder Liang Wenfeng conceding that China's AI capabilities still trail the US and remain dependent on Nvidia chips. For a company treated as China's frontier standard-bearer, the reputational wobble now carries direct financing consequences; the round may resume later. Hot Markets
+DeepSeek told prospective backers it is suspending a raise that would have valued it near ~$71B, following a ~$7B first round in June. The pause was triggered after viral posts from an investor-meeting transcript attributed comments to founder Liang Wenfeng conceding China's AI capabilities still trail the U.S. and remain dependent on Nvidia chips. Reputational wobble now carries direct financing consequences.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
 **Canonical:** [[2026-07-26-deepseek-pauses-71b-funding-round-after-founder-s-leaked-rem]]
 <!-- graph:end -->

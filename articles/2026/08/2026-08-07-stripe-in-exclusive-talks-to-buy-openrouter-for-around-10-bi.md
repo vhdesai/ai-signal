@@ -1,18 +1,18 @@
 ---
 article_id: 2026-08-07-stripe-in-exclusive-talks-to-buy-openrouter-for-around-10-bi
-title: Stripe in Exclusive Talks to Buy OpenRouter for Around $10 Billion
+title: Stripe in exclusive talks to buy OpenRouter for around $10 billion
 date: '2026-08-07'
 source: The Information
-url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Stripe+OpenRouter+acquisition+10+billion
-url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Stripe+OpenRouter+acquisition+10+billion
-url_status: found
-digest_source: digests\raw\2026-08-07_065329_Inbox_Daily AI News Digest - August 7,
-  2026.md
-content_hash: f3eea91acb732a75e79eadd64f05b9fc0034a8f47f9238d19e1339a196d52b94
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-08-07_065743_Final-Daily-AI-News-Digest.md
+content_hash: 1b7166f99fd0e7065bafb64d801cc751a715fc3ec4a8a604e6c5ce3ee319bb5c
 normalized_title_hash: a64af71fb3704f9d
-canonical_url_hash: 854eef272b5b9072
+canonical_url_hash: ''
 tags:
 - Breaking
+- M&a
 entities: []
 themes:
 - company-storylines
@@ -20,21 +20,21 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-24-stripe-is-reportedly-in-talks-to-buy-openrouter
+- 2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter
 - 2026-08-16-stripe-to-acquire-ai-gateway-startup-openrouter-for-more-tha
 - 2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing
-- 2026-08-16-stripe-will-reportedly-acquire-ai-gateway-startup-openrouter
-- 2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le
 embedding_id: 2026-08-07-stripe-in-exclusive-talks-to-buy-openrouter-for-around-10-bi
 event_name: ''
 ---
 
-# Stripe in Exclusive Talks to Buy OpenRouter for Around $10 Billion
+# Stripe in exclusive talks to buy OpenRouter for around $10 billion
 
-Stripe is in exclusive negotiations to acquire OpenRouter, the AI model routing and API platform, for approximately $10 billion — a deal that would mark one of the largest AI acquisitions of the year and give the payments giant a commanding position in AI infrastructure middleware. OpenRouter provides a unified API that routes inference requests across multiple AI models based on cost, latency, and capability, making it a critical switching layer for enterprises running multi-model architectures. The acquisition logic is striking: Stripe already processes payments for AI API usage, and owning the routing layer would give it end-to-end visibility into how enterprises consume and pay for AI services. For CIOs, a Stripe-owned OpenRouter could simplify AI procurement and billing, but also raises concentration risk if a single company controls both the routing and payment layers of the AI stack.
+Stripe is negotiating to acquire OpenRouter, the AI model routing and API platform, for approximately $10 billion. OpenRouter provides a unified API that routes inference across multiple models based on cost, latency, and capability. Stripe already processes payments for AI API usage; owning the routing layer would give it end-to-end visibility into how enterprises consume and pay for AI services. For CIOs, a Stripe-owned OpenRouter could simplify procurement but also concentrate control over both routing and payments in the AI stack. URL: The Information search: Stripe OpenRouter acquisition
 
 <!-- graph:start -->
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-16-stripe-to-acquire-ai-gateway-startup-openrouter-for-more-tha]] · [[2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing]] · [[2026-08-16-stripe-will-reportedly-acquire-ai-gateway-startup-openrouter]] · [[2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le]]
+**Related:** [[2026-07-24-stripe-is-reportedly-in-talks-to-buy-openrouter]] · [[2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter]] · [[2026-08-16-stripe-to-acquire-ai-gateway-startup-openrouter-for-more-tha]] · [[2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing]]
 <!-- graph:end -->

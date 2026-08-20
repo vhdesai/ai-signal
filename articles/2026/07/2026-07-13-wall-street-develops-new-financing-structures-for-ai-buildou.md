@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-13-wall-street-develops-new-financing-structures-for-the-ai-bui
+- 2026-07-26-google-uses-wall-street-financing-techniques-to-expand-ai-ch
 - 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
 - 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
-- 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
-- 2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target
-- 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
+- 2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure
 embedding_id: 2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Information reports that Wall Street is finding more ways to fund AI, includ
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]]
+**Related:** [[2026-07-13-wall-street-develops-new-financing-structures-for-the-ai-bui]] · [[2026-07-26-google-uses-wall-street-financing-techniques-to-expand-ai-ch]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure]]
 <!-- graph:end -->

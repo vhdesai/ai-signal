@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips
 - 2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team
 - 2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud
-- 2026-08-05-anthropic-confirms-it-is-building-an-in-house-custom-silicon
+- 2026-08-05-anthropic-confirms-in-house-custom-chip-design-team-for-clau
 embedding_id: 2026-05-25-anthropic-eyes-microsoft-maia-200-as-5th-silicon-partner
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Anthropic is in talks to adopt Microsoft's custom Maia 200 AI chip for Claude mo
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips]] · [[2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team]] · [[2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud]] · [[2026-08-05-anthropic-confirms-it-is-building-an-in-house-custom-silicon]]
+**Related:** [[2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips]] · [[2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team]] · [[2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud]] · [[2026-08-05-anthropic-confirms-in-house-custom-chip-design-team-for-clau]]
 <!-- graph:end -->

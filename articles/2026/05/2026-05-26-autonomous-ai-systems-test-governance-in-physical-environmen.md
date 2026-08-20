@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic
 - 2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations
 - event-icra-2026-icra-2026-strategic-implications
-- 2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea
-- event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics
+- 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
+- 2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic
 embedding_id: 2026-05-26-autonomous-ai-systems-test-governance-in-physical-environmen
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A round-up of recent autonomous-systems deployments in logistics, construction, 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Related:** [[2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic]] · [[2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations]] · [[event-icra-2026-icra-2026-strategic-implications]] · [[2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics]]
+**Related:** [[2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic]] · [[2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations]] · [[event-icra-2026-icra-2026-strategic-implications]] · [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]] · [[2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic]]
 <!-- graph:end -->

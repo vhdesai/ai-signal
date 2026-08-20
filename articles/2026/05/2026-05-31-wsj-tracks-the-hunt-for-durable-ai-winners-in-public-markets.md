@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-amazon-s-ai-race-and-the-reshaping-of-wealth-management
 - 2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov
+- 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
 - 2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t
 - 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
-- 2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk
 embedding_id: 2026-05-31-wsj-tracks-the-hunt-for-durable-ai-winners-in-public-markets
 event_name: ''
 ---
@@ -38,5 +38,5 @@ WSJ highlighted investor efforts to identify the next long-duration winner in th
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-amazon-s-ai-race-and-the-reshaping-of-wealth-management]] · [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]] · [[2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk]]
+**Related:** [[2026-05-19-amazon-s-ai-race-and-the-reshaping-of-wealth-management]] · [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]]
 <!-- graph:end -->

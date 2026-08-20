@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-20-john-jumper-the-chemist-and-computer-scientist-who-shared-th
 - 2026-06-20-nobel-laureate-john-jumper-is-leaving-google-deepmind-for-an
 - 2026-07-29-deepmind-winds-down-its-alphafold-team-as-focus-shifts-to-ge
 - 2026-06-27-core-gemini-contributors-jonas-adler-and-alexander-pritzel-a
 - 2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-fo
-- 2026-06-29-a-structural-look-at-deepmind-s-sharpest-talent-losses-in-ye
 embedding_id: 2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro
 event_name: ''
 ---
@@ -41,5 +41,5 @@ AlphaFold creator and 2024 Nobel laureate departs after nearly nine years — th
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-20-nobel-laureate-john-jumper-is-leaving-google-deepmind-for-an]] · [[2026-07-29-deepmind-winds-down-its-alphafold-team-as-focus-shifts-to-ge]] · [[2026-06-27-core-gemini-contributors-jonas-adler-and-alexander-pritzel-a]] · [[2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-fo]] · [[2026-06-29-a-structural-look-at-deepmind-s-sharpest-talent-losses-in-ye]]
+**Related:** [[2026-06-20-john-jumper-the-chemist-and-computer-scientist-who-shared-th]] · [[2026-06-20-nobel-laureate-john-jumper-is-leaving-google-deepmind-for-an]] · [[2026-07-29-deepmind-winds-down-its-alphafold-team-as-focus-shifts-to-ge]] · [[2026-06-27-core-gemini-contributors-jonas-adler-and-alexander-pritzel-a]] · [[2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-fo]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
 - 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
-- 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
+- 2026-08-18-snowflake-s-cortex-ai-gateway-auto-routes-queries-cutting-in
 embedding_id: 2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Snowflake is pushing toward the “agentic enterprise” with expanded AWS commi
 
 **Entities:** [[Amazon]] · [[Snowflake]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]]
+**Related:** [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]] · [[2026-08-18-snowflake-s-cortex-ai-gateway-auto-routes-queries-cutting-in]]
 <!-- graph:end -->

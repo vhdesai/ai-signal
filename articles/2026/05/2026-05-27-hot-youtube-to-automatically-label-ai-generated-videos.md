@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-20-youtube-clarifies-monetization-rules-for-ai-generated-and-lo
 - 2026-05-28-youtube-lets-users-ask-ai-to-build-a-custom-video-feed
 - 2026-04-20-youtube-expands-ai-deepfake-detection-for-creators
+- 2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera
 - 2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool
-- 2026-07-30-linkedin-adds-a-seems-like-ai-slop-report-button-and-swaps-i
-- 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
 embedding_id: 2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos
 event_name: ''
 ---
@@ -34,5 +34,5 @@ YouTube announced that it will automatically apply AI-content labels to videos i
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-28-youtube-lets-users-ask-ai-to-build-a-custom-video-feed]] · [[2026-04-20-youtube-expands-ai-deepfake-detection-for-creators]] · [[2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool]] · [[2026-07-30-linkedin-adds-a-seems-like-ai-slop-report-button-and-swaps-i]] · [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]]
+**Related:** [[2026-07-20-youtube-clarifies-monetization-rules-for-ai-generated-and-lo]] · [[2026-05-28-youtube-lets-users-ask-ai-to-build-a-custom-video-feed]] · [[2026-04-20-youtube-expands-ai-deepfake-detection-for-creators]] · [[2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera]] · [[2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool]]
 <!-- graph:end -->

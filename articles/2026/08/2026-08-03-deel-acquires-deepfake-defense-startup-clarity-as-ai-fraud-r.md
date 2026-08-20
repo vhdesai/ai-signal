@@ -18,11 +18,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-deel-s-acquisition-of-clarity-shows-deepfake-defense-moving
 - 2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-- 2026-06-03-deepseek-seals-7-4b-round-led-by-tencent-and-catl-with-natio
 - 2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool
-- 2026-07-30-dili-raises-21-7-million-to-bring-ai-compliance-to-infrastru
 embedding_id: 2026-08-03-deel-acquires-deepfake-defense-startup-clarity-as-ai-fraud-r
 event_name: ''
 ---
@@ -34,5 +33,5 @@ Payroll and HR unicorn Deel said Monday it has acquired Clarity, an Israeli AI-s
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-06-03-deepseek-seals-7-4b-round-led-by-tencent-and-catl-with-natio]] · [[2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool]] · [[2026-07-30-dili-raises-21-7-million-to-bring-ai-compliance-to-infrastru]]
+**Related:** [[2026-08-03-deel-s-acquisition-of-clarity-shows-deepfake-defense-moving]] · [[2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool]]
 <!-- graph:end -->

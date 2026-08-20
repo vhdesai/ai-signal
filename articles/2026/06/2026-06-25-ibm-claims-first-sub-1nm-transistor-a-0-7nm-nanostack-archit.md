@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-02-research-breakthroughs
 - 2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand
 - 2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr
-- 2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa
+- 2026-06-19-investors-and-analysts-are-positioning-micron-technology-s-j
 embedding_id: 2026-06-25-ibm-claims-first-sub-1nm-transistor-a-0-7nm-nanostack-archit
 event_name: ''
 ---
@@ -41,5 +41,5 @@ IBM said its Albany research lab produced the first chip technology to operate b
 
 **Entities:** [[IBM]] · [[Intel]] · [[Samsung]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-29-ibm-introduced-what-it-bills-as-the-first-sub-1nm-chip-built]] · [[2026-04-02-research-breakthroughs]] · [[2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand]] · [[2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr]] · [[2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa]]
+**Related:** [[2026-06-29-ibm-introduced-what-it-bills-as-the-first-sub-1nm-chip-built]] · [[2026-04-02-research-breakthroughs]] · [[2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand]] · [[2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr]] · [[2026-06-19-investors-and-analysts-are-positioning-micron-technology-s-j]]
 <!-- graph:end -->

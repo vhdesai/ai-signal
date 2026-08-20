@@ -22,11 +22,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-27-anthropic-publishes-its-position-on-open-weight-models-amode
+- 2026-07-27-anthropic-clarifies-does-not-oppose-open-weights-but-warns-a
+- 2026-08-06-how-dario-amodei-spread-anthropic-s-religion-and-angered-riv
 - 2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return
-- 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
-- 2026-08-16-anthropic-ceo-dario-amodei-the-ai-backlash-is-fundamentally
-- 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
+- 2026-08-16-amodei-calls-the-ai-backlash-fundamentally-a-crisis-of-trust
 embedding_id: 2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but
 event_name: ''
 ---
@@ -40,5 +39,5 @@ TechCrunch reports that Anthropic CEO Dario Amodei clarified his position on ope
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-27-anthropic-publishes-its-position-on-open-weight-models-amode]] · [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-08-16-anthropic-ceo-dario-amodei-the-ai-backlash-is-fundamentally]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]]
+**Related:** [[2026-07-27-anthropic-clarifies-does-not-oppose-open-weights-but-warns-a]] · [[2026-08-06-how-dario-amodei-spread-anthropic-s-religion-and-angered-riv]] · [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return]] · [[2026-08-16-amodei-calls-the-ai-backlash-fundamentally-a-crisis-of-trust]]
 <!-- graph:end -->

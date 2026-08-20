@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-08-planned-amazon-data-center-could-become-the-largest-u-s-clim
 - 2026-08-08-amazon-s-planned-texas-data-center-power-plant-would-be-larg
 - 2026-08-08-planned-amazon-data-center-could-become-the-largest-climate
-- 2026-08-07-amazon-behind-massive-private-gas-plant-for-new-data-centers
+- 2026-08-14-natural-gas-prices-could-triple-near-ai-data-centers-researc
 embedding_id: 2026-08-08-amazon-backs-7-65-gw-texas-gas-plant-to-power-hyperscale-ai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Permitted for 30M+ metric tonnes of emissions/year—exceeding the largest US co
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-08-amazon-backs-a-7-65-gw-texas-gas-plant-to-power-a-hyperscale]] · [[2026-08-08-planned-amazon-data-center-could-become-the-largest-u-s-clim]] · [[2026-08-08-amazon-s-planned-texas-data-center-power-plant-would-be-larg]] · [[2026-08-08-planned-amazon-data-center-could-become-the-largest-climate]] · [[2026-08-07-amazon-behind-massive-private-gas-plant-for-new-data-centers]]
+**Related:** [[2026-08-08-amazon-backs-a-7-65-gw-texas-gas-plant-to-power-a-hyperscale]] · [[2026-08-08-planned-amazon-data-center-could-become-the-largest-u-s-clim]] · [[2026-08-08-amazon-s-planned-texas-data-center-power-plant-would-be-larg]] · [[2026-08-08-planned-amazon-data-center-could-become-the-largest-climate]] · [[2026-08-14-natural-gas-prices-could-triple-near-ai-data-centers-researc]]
 <!-- graph:end -->

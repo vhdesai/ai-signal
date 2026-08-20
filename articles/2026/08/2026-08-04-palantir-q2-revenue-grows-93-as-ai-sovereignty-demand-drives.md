@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges
 - 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
-- 2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand
 - 2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments
+- 2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand
 - 2026-05-14-palantir-reported-q1-2026-results-on-may-4-with-u-s
 embedding_id: 2026-08-04-palantir-q2-revenue-grows-93-as-ai-sovereignty-demand-drives
 event_name: ''
@@ -39,5 +39,5 @@ Palantir reported second-quarter revenue of $1.94 billion, up 93% year over year
 
 **Entities:** [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges]] · [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]] · [[2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand]] · [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments]] · [[2026-05-14-palantir-reported-q1-2026-results-on-may-4-with-u-s]]
+**Related:** [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges]] · [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]] · [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments]] · [[2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand]] · [[2026-05-14-palantir-reported-q1-2026-results-on-may-4-with-u-s]]
 <!-- graph:end -->

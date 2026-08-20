@@ -21,7 +21,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-15-anthropic-details-claude-s-watermark-limits-as-paying-users
-related_article_ids: []
+related_article_ids:
+- 2026-08-15-anthropic-gives-more-detail-on-how-claude-text-watermarking
 embedding_id: 2026-08-15-anthropic-details-how-claude-s-new-text-watermarking-will-wo
 event_name: ''
 ---
@@ -36,4 +37,5 @@ Anthropic published a blog post explaining the mechanics of watermarking Claude'
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-08-15-anthropic-details-claude-s-watermark-limits-as-paying-users]]
+**Related:** [[2026-08-15-anthropic-gives-more-detail-on-how-claude-text-watermarking]]
 <!-- graph:end -->

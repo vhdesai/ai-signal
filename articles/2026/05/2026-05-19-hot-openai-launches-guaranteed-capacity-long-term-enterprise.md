@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity
+- 2026-07-22-openai-s-ai-spending-commitments-approach-750b
+- 2026-08-03-long-duration-bond-issuance-for-ai-infrastructure-shows-that
 - 2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra
-- 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
-- 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
-- 2026-08-17-nvidia-guarantees-105b-for-openai-s-ohio-8-gw-campus
+- 2026-08-15-nvidia-reportedly-close-to-guaranteeing-about-100-billion-in
 embedding_id: 2026-05-19-hot-openai-launches-guaranteed-capacity-long-term-enterprise
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI launched Guaranteed Capacity, a new offering that allows enterprise custo
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity]] · [[2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-08-17-nvidia-guarantees-105b-for-openai-s-ohio-8-gw-campus]]
+**Related:** [[2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]] · [[2026-08-03-long-duration-bond-issuance-for-ai-infrastructure-shows-that]] · [[2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra]] · [[2026-08-15-nvidia-reportedly-close-to-guaranteeing-about-100-billion-in]]
 <!-- graph:end -->

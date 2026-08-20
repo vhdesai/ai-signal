@@ -20,10 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
-- 2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de
-- 2026-08-07-sk-hynix-approves-54-trillion-won-for-two-new-ai-memory-fabs
 embedding_id: 2026-07-10-u-s-officials-urge-ai-memory-suppliers-to-build-domestic-fab
 event_name: ''
 ---
@@ -37,5 +36,5 @@ In coverage of SK Hynix’s record listing, U.S. officials pressed SK Hynix and 
 
 **Entities:** [[Samsung]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]] · [[2026-08-07-sk-hynix-approves-54-trillion-won-for-two-new-ai-memory-fabs]]
+**Related:** [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]]
 <!-- graph:end -->

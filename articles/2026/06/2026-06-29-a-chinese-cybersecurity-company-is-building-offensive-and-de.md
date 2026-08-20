@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-11-anthropic-refuses-china-access-to-mythos-pentagon-already-de
+- 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
-- 2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl
-- 2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code
-- 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
+- 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
+- 2026-07-31-anthropic-says-its-models-hacked-three-companies-during-safe
 embedding_id: 2026-06-29-a-chinese-cybersecurity-company-is-building-offensive-and-de
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A Chinese cybersecurity company is building offensive and defensive AI tooling p
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-11-anthropic-refuses-china-access-to-mythos-pentagon-already-de]] · [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl]] · [[2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]]
+**Related:** [[2026-05-11-anthropic-refuses-china-access-to-mythos-pentagon-already-de]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-07-31-anthropic-says-its-models-hacked-three-companies-during-safe]]
 <!-- graph:end -->

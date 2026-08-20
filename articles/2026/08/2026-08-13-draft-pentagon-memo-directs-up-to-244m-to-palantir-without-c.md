@@ -3,19 +3,19 @@ article_id: 2026-08-13-draft-pentagon-memo-directs-up-to-244m-to-palantir-withou
 title: Draft Pentagon Memo Directs Up to $244M to Palantir Without Competition
 date: '2026-08-13'
 source: The Next Web
-url_original: null
-url_canonical: null
-url_status: missing
-digest_source: digests\raw\2026-08-14_065550_Inbox_Daily AI News Digest - August 14,
-  2026.md
-content_hash: 046bf529474d1c1ab4a9c887377eec416e765db9e0f141cd8a30be3309123d17
+url_original: https://thenextweb.com/news/palantir-pentagon-244m-no-bid-feinberg-memo
+url_canonical: https://thenextweb.com/news/palantir-pentagon-244m-no-bid-feinberg-memo
+url_status: found
+digest_source: digests\raw\2026-08-14_084159_Final-Daily-AI-News-Digest.md
+content_hash: 10ac1f03c2e01dc34d374c66fe03bc0812bdfba1f975007bd62166a8a04a0ec4
 normalized_title_hash: fa2c07c9c51d394e
-canonical_url_hash: ''
-tags: []
+canonical_url_hash: 6f8dcba43c35bd1c
+tags:
+- Procurement
 entities:
 - Palantir
 themes:
-- model-capabilities
+- policy-regulation
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-draft-pentagon-memo-directs-244m-to-palantir-without-competi
@@ -26,12 +26,12 @@ event_name: ''
 
 # Draft Pentagon Memo Directs Up to $244M to Palantir Without Competition
 
-A draft DoD memo from Deputy Secretary Feinberg directs up to $243.9M in Palantir services by March 2027 without competitive process, reportedly citing none of the statutory exceptions. ~Half of Palantir’s $3.2B in federal obligations since 2024 came through no-bid awards. The memo remains a draft with no signed sole-source justification. For defense-AI vendors, procurement speed is being prioritized over competitive process in AI-adjacent contracts — a pattern worth tracking as it scales. The Next Web Academic Research ACADEMIC
+A draft DoD memo from Deputy Secretary Stephen Feinberg, titled "Funding Palantir," directs staff to purchase up to $243.9M in Palantir services by March 2027 without a competitive process, reportedly citing none of the statutory exceptions under 10 USC 3204. Roughly half of Palantir's $3.2B in federal obligations since 2024 came through no-bid awards. DoD characterizes the approach as standard practice. The memo remains a draft and no signed sole-source justification has been issued. For defense-AI vendors, procurement speed is being prioritized over competitive process in AI-adjacent contracts — a pattern worth tracking as it scales, particularly given the potential for congressional scrutiny.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Palantir]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]]
 **Canonical:** [[2026-08-13-draft-pentagon-memo-directs-244m-to-palantir-without-competi]]
 <!-- graph:end -->

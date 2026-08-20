@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-11-openai-builds-for-families-and-older-adults-as-chatgpt-enter
 - 2026-07-11-openai-leans-into-families-as-chatgpt-pushes-deeper-into-hou
 - 2026-08-01-sam-altman-continues-pitching-chatgpt-as-a-family-and-parent
-- 2026-07-10-chatgpt-work-launches-after-u-s-government-approval
+- 2026-08-01-sam-altman-promotes-chatgpt-for-parenting-and-draws-public-b
 embedding_id: 2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI is hiring a product manager focused on ChatGPT experiences for families, 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-07-11-openai-creates-a-dedicated-product-role-for-families-as-chat]] · [[2026-07-11-openai-builds-for-families-and-older-adults-as-chatgpt-enter]] · [[2026-07-11-openai-leans-into-families-as-chatgpt-pushes-deeper-into-hou]] · [[2026-08-01-sam-altman-continues-pitching-chatgpt-as-a-family-and-parent]] · [[2026-07-10-chatgpt-work-launches-after-u-s-government-approval]]
+**Related:** [[2026-07-11-openai-creates-a-dedicated-product-role-for-families-as-chat]] · [[2026-07-11-openai-builds-for-families-and-older-adults-as-chatgpt-enter]] · [[2026-07-11-openai-leans-into-families-as-chatgpt-pushes-deeper-into-hou]] · [[2026-08-01-sam-altman-continues-pitching-chatgpt-as-a-family-and-parent]] · [[2026-08-01-sam-altman-promotes-chatgpt-for-parenting-and-draws-public-b]]
 <!-- graph:end -->

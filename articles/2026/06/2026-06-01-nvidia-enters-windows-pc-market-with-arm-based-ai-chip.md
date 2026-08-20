@@ -26,9 +26,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-30-first-windows-pcs-using-nvidia-chips-as-main-processor-debut
+- 2026-06-01-nvidia-unveils-vera-cpu-an-agent-native-processor-for-window
 - 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p
 - 2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super
-- 2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play
 embedding_id: 2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Nvidia announced its first processor for Windows personal computers—an Arm-bas
 
 **Entities:** [[AMD]] · [[Arm]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-30-first-windows-pcs-using-nvidia-chips-as-main-processor-debut]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]] · [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]] · [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]]
+**Related:** [[2026-05-30-first-windows-pcs-using-nvidia-chips-as-main-processor-debut]] · [[2026-06-01-nvidia-unveils-vera-cpu-an-agent-native-processor-for-window]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]] · [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]]
 <!-- graph:end -->

@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-03-24-openai-shuts-down-sora-1m-day-burn-1b-disney-deal-collapses
 - 2026-04-01-google-released-veo-3-1-lite-on-the-gemini-api-and-google-ai
 - 2026-03-28-bytedance-released-seedance-2-0-an-upgraded-video-generation
+- 2026-08-14-nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-d
 - 2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo
-- 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
 embedding_id: 2026-03-28-openai-officially-discontinued-its-sora-ai-video-generation
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI officially discontinued its Sora AI video generation platform, citing uns
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-03-24-openai-shuts-down-sora-1m-day-burn-1b-disney-deal-collapses]] · [[2026-04-01-google-released-veo-3-1-lite-on-the-gemini-api-and-google-ai]] · [[2026-03-28-bytedance-released-seedance-2-0-an-upgraded-video-generation]] · [[2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo]] · [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]]
+**Related:** [[2026-03-24-openai-shuts-down-sora-1m-day-burn-1b-disney-deal-collapses]] · [[2026-04-01-google-released-veo-3-1-lite-on-the-gemini-api-and-google-ai]] · [[2026-03-28-bytedance-released-seedance-2-0-an-upgraded-video-generation]] · [[2026-08-14-nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-d]] · [[2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo]]
 <!-- graph:end -->

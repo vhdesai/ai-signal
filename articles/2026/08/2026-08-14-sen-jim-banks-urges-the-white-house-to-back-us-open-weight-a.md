@@ -23,9 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-05-u-s-national-cyber-director-pushes-american-open-source-ai-f
 - 2026-08-04-18-hai-open-weight-models-aren-t-enough-we-need-truly-open-s
-- 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
-- 2026-08-05-white-house-to-exempt-open-weight-models-from-voluntary-ai-s
-- 2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a
+- 2026-07-20-openai-s-concern-over-open-weight-models-highlights-the-busi
+- 2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru
 embedding_id: 2026-08-14-sen-jim-banks-urges-the-white-house-to-back-us-open-weight-a
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Republican Senator Jim Banks released a letter pressing the administration to cr
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-05-u-s-national-cyber-director-pushes-american-open-source-ai-f]] · [[2026-08-04-18-hai-open-weight-models-aren-t-enough-we-need-truly-open-s]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-08-05-white-house-to-exempt-open-weight-models-from-voluntary-ai-s]] · [[2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a]]
+**Related:** [[2026-08-05-u-s-national-cyber-director-pushes-american-open-source-ai-f]] · [[2026-08-04-18-hai-open-weight-models-aren-t-enough-we-need-truly-open-s]] · [[2026-07-20-openai-s-concern-over-open-weight-models-highlights-the-busi]] · [[2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru]]
 <!-- graph:end -->

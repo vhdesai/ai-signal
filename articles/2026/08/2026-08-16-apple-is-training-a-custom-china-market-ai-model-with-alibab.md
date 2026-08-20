@@ -25,7 +25,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-apple-trained-a-china-specific-large-language-model-with-ali
-- 2026-08-10-apple-briefly-posts-then-pulls-a-guide-for-connecting-siri-t
 embedding_id: 2026-08-16-apple-is-training-a-custom-china-market-ai-model-with-alibab
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Reuters-sourced reporting says Apple is building a bespoke model for the Chinese
 
 **Entities:** [[Alibaba]] · [[Apple]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-14-apple-trained-a-china-specific-large-language-model-with-ali]] · [[2026-08-10-apple-briefly-posts-then-pulls-a-guide-for-connecting-siri-t]]
+**Related:** [[2026-08-14-apple-trained-a-china-specific-large-language-model-with-ali]]
 <!-- graph:end -->

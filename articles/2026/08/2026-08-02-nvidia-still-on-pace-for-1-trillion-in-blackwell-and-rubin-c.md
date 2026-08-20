@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
+- 2026-08-17-the-nvidia-paradox-selling-upgrades-while-positioning-gpus-a
 - 2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r
 - 2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s
 - 2026-08-01-nvidia-to-report-q2-fy2027-results-on-august-26-with-ai-chip
-- 2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu
 embedding_id: 2026-08-02-nvidia-still-on-pace-for-1-trillion-in-blackwell-and-rubin-c
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Analysis of Jensen Huang's guidance suggests at least $1 trillion in cumulative 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r]] · [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s]] · [[2026-08-01-nvidia-to-report-q2-fy2027-results-on-august-26-with-ai-chip]] · [[2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu]]
+**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-08-17-the-nvidia-paradox-selling-upgrades-while-positioning-gpus-a]] · [[2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r]] · [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s]] · [[2026-08-01-nvidia-to-report-q2-fy2027-results-on-august-26-with-ai-chip]]
 <!-- graph:end -->

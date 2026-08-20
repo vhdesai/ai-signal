@@ -20,11 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-14-hassabis-proposes-a-finra-style-u-s-standards-body-to-vet-fr
 - 2026-07-14-hassabis-proposes-a-finra-style-u-s-led-ai-watchdog-for-fron
 - 2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus
 - 2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog
-- 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
+- 2026-07-14-deepmind-ceo-proposes-independent-standards-body-for-frontie
 embedding_id: 2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Hassabis proposed a US-based self-regulator for “frontier-class” AI modeled 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-14-hassabis-proposes-a-finra-style-u-s-standards-body-to-vet-fr]] · [[2026-07-14-hassabis-proposes-a-finra-style-u-s-led-ai-watchdog-for-fron]] · [[2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus]] · [[2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]]
+**Related:** [[2026-07-14-hassabis-proposes-a-finra-style-u-s-led-ai-watchdog-for-fron]] · [[2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus]] · [[2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog]] · [[2026-07-14-deepmind-ceo-proposes-independent-standards-body-for-frontie]]
 <!-- graph:end -->

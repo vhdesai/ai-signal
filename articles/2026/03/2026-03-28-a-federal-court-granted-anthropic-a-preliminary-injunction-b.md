@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-01-a-federal-judge-granted-anthropic-a-preliminary-injunction-b
 - 2026-07-30-judge-says-the-u-s-still-lacks-evidence-for-anthropic-supply
+- 2026-07-30-judge-says-u-s-still-lacks-evidence-for-anthropic-supply-cha
 - 2026-05-01-pentagon-signs-8-classified-ai-contracts-anthropic-permanent
 - 2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous
-- 2026-03-24-a-federal-hearing-is-underway-today-before-judge-rita-lin-in
 embedding_id: 2026-03-28-a-federal-court-granted-anthropic-a-preliminary-injunction-b
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A federal court granted Anthropic a preliminary injunction blocking the Trump ad
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-04-01-a-federal-judge-granted-anthropic-a-preliminary-injunction-b]] · [[2026-07-30-judge-says-the-u-s-still-lacks-evidence-for-anthropic-supply]] · [[2026-05-01-pentagon-signs-8-classified-ai-contracts-anthropic-permanent]] · [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]] · [[2026-03-24-a-federal-hearing-is-underway-today-before-judge-rita-lin-in]]
+**Related:** [[2026-04-01-a-federal-judge-granted-anthropic-a-preliminary-injunction-b]] · [[2026-07-30-judge-says-the-u-s-still-lacks-evidence-for-anthropic-supply]] · [[2026-07-30-judge-says-u-s-still-lacks-evidence-for-anthropic-supply-cha]] · [[2026-05-01-pentagon-signs-8-classified-ai-contracts-anthropic-permanent]] · [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]]
 <!-- graph:end -->

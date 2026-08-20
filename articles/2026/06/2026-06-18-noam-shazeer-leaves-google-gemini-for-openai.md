@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-18-transformer-co-inventor-noam-shazeer-leaves-google-gemini-fo
+- 2026-06-17-noam-shazeer-transformer-co-inventor-and-gemini-co-lead-leav
+- 2026-06-19-noam-shazeer-co-author-of-the-foundational-2017-attention-is
 - 2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr
 - 2026-06-17-daily-ai-news-digest-june-18-2026
-- 2026-07-30-thursday-july-30-2026
-- 2026-08-12-deepmind-shakeup-kavukcuoglu-takes-over-sergey-brin-goes-all
-- 2026-08-14-daily-ai-news-digest-august-15-2026
 embedding_id: 2026-06-18-noam-shazeer-leaves-google-gemini-for-openai
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Transformer co-author and Gemini VP departs 22 months after Google paid $2.7B to
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr]] · [[2026-06-17-daily-ai-news-digest-june-18-2026]] · [[2026-07-30-thursday-july-30-2026]] · [[2026-08-12-deepmind-shakeup-kavukcuoglu-takes-over-sergey-brin-goes-all]] · [[2026-08-14-daily-ai-news-digest-august-15-2026]]
+**Related:** [[2026-06-18-transformer-co-inventor-noam-shazeer-leaves-google-gemini-fo]] · [[2026-06-17-noam-shazeer-transformer-co-inventor-and-gemini-co-lead-leav]] · [[2026-06-19-noam-shazeer-co-author-of-the-foundational-2017-attention-is]] · [[2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr]] · [[2026-06-17-daily-ai-news-digest-june-18-2026]]
 <!-- graph:end -->

@@ -27,7 +27,6 @@ related_article_ids:
 - 2026-08-14-apple-trains-a-china-specific-ai-model-with-alibaba-s-suppor
 - 2026-08-14-apple-trains-china-specific-ai-model-with-alibaba-s-support
 - 2026-08-16-apple-is-training-a-custom-china-market-ai-model-with-alibab
-- 2026-08-10-apple-briefly-posts-then-pulls-a-guide-for-connecting-siri-t
 embedding_id: 2026-08-14-apple-trained-a-china-specific-large-language-model-with-ali
 event_name: ''
 ---
@@ -41,5 +40,5 @@ Apple has trained its own large language model for the China market with help fr
 
 **Entities:** [[Alibaba]] · [[Apple]] · [[Huawei]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-14-apple-trains-a-china-specific-ai-model-with-alibaba]] · [[2026-08-14-apple-trains-a-china-specific-ai-model-with-alibaba-s-suppor]] · [[2026-08-14-apple-trains-china-specific-ai-model-with-alibaba-s-support]] · [[2026-08-16-apple-is-training-a-custom-china-market-ai-model-with-alibab]] · [[2026-08-10-apple-briefly-posts-then-pulls-a-guide-for-connecting-siri-t]]
+**Related:** [[2026-08-14-apple-trains-a-china-specific-ai-model-with-alibaba]] · [[2026-08-14-apple-trains-a-china-specific-ai-model-with-alibaba-s-suppor]] · [[2026-08-14-apple-trains-china-specific-ai-model-with-alibaba-s-support]] · [[2026-08-16-apple-is-training-a-custom-china-market-ai-model-with-alibab]]
 <!-- graph:end -->

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan
 - 2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode
 - 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
-- 2026-08-13-beijing-could-suddenly-clamp-down-on-chinese-open-weight-ai
+- 2026-07-21-china-weighs-export-controls-on-its-own-advanced-ai-models-c
 embedding_id: 2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Reuters reported that Chinese authorities recently met with Alibaba, ByteDance, 
 
 **Entities:** [[Alibaba]] · [[ByteDance]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo]] · [[2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan]] · [[2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode]] · [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-08-13-beijing-could-suddenly-clamp-down-on-chinese-open-weight-ai]]
+**Related:** [[2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo]] · [[2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan]] · [[2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode]] · [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-07-21-china-weighs-export-controls-on-its-own-advanced-ai-models-c]]
 <!-- graph:end -->

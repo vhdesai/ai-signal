@@ -25,8 +25,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain
-- 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
-- 2026-08-13-alphasense-study-u-s-frontier-models-can-be-cheaper-than-chi
+- 2026-07-31-openai-slashes-prices-on-some-of-its-newest-models
+- 2026-06-11-openai-considers-drastic-price-cuts-to-compete-with-anthropi
 embedding_id: 2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI and Anthropic are lowering prices on selected models as DeepSeek, Moonsho
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-08-13-alphasense-study-u-s-frontier-models-can-be-cheaper-than-chi]]
+**Related:** [[2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain]] · [[2026-07-31-openai-slashes-prices-on-some-of-its-newest-models]] · [[2026-06-11-openai-considers-drastic-price-cuts-to-compete-with-anthropi]]
 <!-- graph:end -->

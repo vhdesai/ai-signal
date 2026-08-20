@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos
 - 2026-04-20-youtube-expands-ai-deepfake-detection-for-creators
+- 2026-07-20-youtube-clarifies-monetization-rules-for-ai-generated-and-lo
 - 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
 - 2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool
-- 2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt
 embedding_id: 2026-05-28-youtube-lets-users-ask-ai-to-build-a-custom-video-feed
 event_name: ''
 ---
@@ -37,5 +37,5 @@ YouTube is rolling out a feature that lets users natural-language-prompt their w
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos]] · [[2026-04-20-youtube-expands-ai-deepfake-detection-for-creators]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool]] · [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]]
+**Related:** [[2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos]] · [[2026-04-20-youtube-expands-ai-deepfake-detection-for-creators]] · [[2026-07-20-youtube-clarifies-monetization-rules-for-ai-generated-and-lo]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool]]
 <!-- graph:end -->

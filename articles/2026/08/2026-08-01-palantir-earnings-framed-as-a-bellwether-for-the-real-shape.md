@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments
 - 2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump
 - 2026-08-04-palantir-q2-revenue-grows-93-as-ai-sovereignty-demand-drives
-- 2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand
+- 2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock
 embedding_id: 2026-08-01-palantir-earnings-framed-as-a-bellwether-for-the-real-shape
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Ahead of its results, Fast Company cast Palantir’s earnings as a key test of w
 
 **Entities:** [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges]] · [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments]] · [[2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump]] · [[2026-08-04-palantir-q2-revenue-grows-93-as-ai-sovereignty-demand-drives]] · [[2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand]]
+**Related:** [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges]] · [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments]] · [[2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump]] · [[2026-08-04-palantir-q2-revenue-grows-93-as-ai-sovereignty-demand-drives]] · [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]]
 <!-- graph:end -->

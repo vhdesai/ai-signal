@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-amazon-s-zoox-wins-first-u-s-approval-for-paid-robotaxis-wit
 - 2026-06-24-amazon-s-zoox-unveils-redesigned-robotaxi-ahead-of-commercia
-- 2026-07-28-baidu-and-lyft-enter-london-s-robotaxi-market-as-testing-beg
-- 2026-08-04-waymo-opens-dallas-robotaxi-service-to-all-riders
-- 2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across
+- 2026-08-17-tesla-readies-august-launch-of-cybercab-its-first-robotaxi-w
+- 2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo
+- 2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv
 embedding_id: 2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The NHTSA granted Amazon's Zoox permission to charge for rides in its purpose-bu
 
 **Entities:** [[Amazon]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-31-amazon-s-zoox-wins-first-u-s-approval-for-paid-robotaxis-wit]] · [[2026-06-24-amazon-s-zoox-unveils-redesigned-robotaxi-ahead-of-commercia]] · [[2026-07-28-baidu-and-lyft-enter-london-s-robotaxi-market-as-testing-beg]] · [[2026-08-04-waymo-opens-dallas-robotaxi-service-to-all-riders]] · [[2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across]]
+**Related:** [[2026-07-31-amazon-s-zoox-wins-first-u-s-approval-for-paid-robotaxis-wit]] · [[2026-06-24-amazon-s-zoox-unveils-redesigned-robotaxi-ahead-of-commercia]] · [[2026-08-17-tesla-readies-august-launch-of-cybercab-its-first-robotaxi-w]] · [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo]] · [[2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv]]
 <!-- graph:end -->

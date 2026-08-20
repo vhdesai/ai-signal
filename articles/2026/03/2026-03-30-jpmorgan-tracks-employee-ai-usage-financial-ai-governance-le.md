@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-04-01-jpmorgan-chase-is-formally-connecting-software-engineers-per
 - 2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t
 - 2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a
+- 2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial
 - 2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees
-- 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 embedding_id: 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
 event_name: ''
 ---
@@ -38,5 +38,5 @@ JPMorgan began logging how employees interact with internal AI tools — usage f
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-01-jpmorgan-chase-is-formally-connecting-software-engineers-per]] · [[2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t]] · [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]] · [[2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]]
+**Related:** [[2026-04-01-jpmorgan-chase-is-formally-connecting-software-engineers-per]] · [[2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t]] · [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]] · [[2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial]] · [[2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees]]
 <!-- graph:end -->

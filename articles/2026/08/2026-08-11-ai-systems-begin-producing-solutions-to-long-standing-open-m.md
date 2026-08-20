@@ -22,7 +22,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-23-openai-announced-it-has-solved-an-open-mathematics-problem-t
 - 2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore
-- 2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput
 - 2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem
 embedding_id: 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
 event_name: ''
@@ -37,5 +36,5 @@ Fields Medalist James Maynard described a discipline adjusting rapidly after Ope
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-openai-announced-it-has-solved-an-open-mathematics-problem-t]] · [[2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore]] · [[2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput]] · [[2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem]]
+**Related:** [[2026-05-23-openai-announced-it-has-solved-an-open-mathematics-problem-t]] · [[2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore]] · [[2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem]]
 <!-- graph:end -->

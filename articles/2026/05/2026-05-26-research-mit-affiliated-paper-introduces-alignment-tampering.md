@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-hot-mit-csail-alignment-tampering-rlhf-can-amplify-rather-th
 - 2026-05-27-alignment-tampering-how-rlhf-is-exploited-to-optimize-misali
+- 2026-06-18-openai-small-doses-of-beneficial-trait-training-make-models
 - 2026-06-18-openai-small-beneficial-trait-rl-training-makes-models-broad
 - 2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models
-- 2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9
 embedding_id: 2026-05-26-research-mit-affiliated-paper-introduces-alignment-tampering
 event_name: ''
 ---
@@ -38,5 +38,5 @@ An MIT-affiliated preprint defines "alignment tampering," a class of attacks aga
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-27-hot-mit-csail-alignment-tampering-rlhf-can-amplify-rather-th]] · [[2026-05-27-alignment-tampering-how-rlhf-is-exploited-to-optimize-misali]] · [[2026-06-18-openai-small-beneficial-trait-rl-training-makes-models-broad]] · [[2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models]] · [[2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9]]
+**Related:** [[2026-05-27-hot-mit-csail-alignment-tampering-rlhf-can-amplify-rather-th]] · [[2026-05-27-alignment-tampering-how-rlhf-is-exploited-to-optimize-misali]] · [[2026-06-18-openai-small-doses-of-beneficial-trait-training-make-models]] · [[2026-06-18-openai-small-beneficial-trait-rl-training-makes-models-broad]] · [[2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models]]
 <!-- graph:end -->

@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-uber-and-pony-ai-plan-2-000-robotaxis-across-european-cities
+- 2026-08-14-uber-and-pony-ai-to-deploy-2-000-robotaxis-across-europe
 - 2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across
 - 2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles
 - 2026-08-14-applied-materials-record-9-12b-quarter-uber-pony-ai-2-000-eu
-- 2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles
 embedding_id: 2026-08-14-pony-ai-and-uber-plan-more-than-2-000-robotaxis-across-five
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Pony.ai and Uber are expanding their autonomous-driving partnership to deploy ov
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-14-uber-and-pony-ai-plan-2-000-robotaxis-across-european-cities]] · [[2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across]] · [[2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles]] · [[2026-08-14-applied-materials-record-9-12b-quarter-uber-pony-ai-2-000-eu]] · [[2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles]]
+**Related:** [[2026-08-14-uber-and-pony-ai-plan-2-000-robotaxis-across-european-cities]] · [[2026-08-14-uber-and-pony-ai-to-deploy-2-000-robotaxis-across-europe]] · [[2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across]] · [[2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles]] · [[2026-08-14-applied-materials-record-9-12b-quarter-uber-pony-ai-2-000-eu]]
 <!-- graph:end -->

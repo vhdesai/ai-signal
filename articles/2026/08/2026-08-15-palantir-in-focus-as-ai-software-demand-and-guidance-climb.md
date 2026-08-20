@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments
 - 2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges
-- 2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand
 - 2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump
+- 2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand
 - 2026-08-04-palantir-q2-revenue-grows-93-as-ai-sovereignty-demand-drives
 embedding_id: 2026-08-15-palantir-in-focus-as-ai-software-demand-and-guidance-climb
 event_name: ''
@@ -39,5 +39,5 @@ Palantir remained in the spotlight following strong Q2 results and raised full-y
 
 **Entities:** [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments]] · [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges]] · [[2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand]] · [[2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump]] · [[2026-08-04-palantir-q2-revenue-grows-93-as-ai-sovereignty-demand-drives]]
+**Related:** [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments]] · [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges]] · [[2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump]] · [[2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand]] · [[2026-08-04-palantir-q2-revenue-grows-93-as-ai-sovereignty-demand-drives]]
 <!-- graph:end -->

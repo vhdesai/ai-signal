@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-11-cognition-in-early-talks-at-40b-valuation-river-ai-raises-1
 - 2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s
 - 2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws
-- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
+- 2026-07-14-softbank-says-ai-could-require-5t-a-year-by-2040-reflection
 embedding_id: 2026-06-24-ai-memory-startup-engram-emerges-from-stealth-with-98m
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Engram exited stealth with a $98M round at a $600M valuation, led by General Cat
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-08-11-cognition-in-early-talks-at-40b-valuation-river-ai-raises-1]] · [[2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s]] · [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
+**Related:** [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-08-11-cognition-in-early-talks-at-40b-valuation-river-ai-raises-1]] · [[2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s]] · [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]] · [[2026-07-14-softbank-says-ai-could-require-5t-a-year-by-2040-reflection]]
 <!-- graph:end -->

@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-23-microsoft-launches-in-house-ai-models-it-says-cut-costs-up-t
 - 2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce
 - 2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon
 - 2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro
 - 2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its
-- 2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou
 embedding_id: 2026-07-09-starbucks-builds-ai-software-to-cut-reliance-on-microsoft-an
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Per an internal presentation reported by Bloomberg, Starbucks is using AI-assist
 
 **Entities:** [[IBM]] · [[Microsoft]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro]] · [[2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its]] · [[2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou]]
+**Related:** [[2026-07-23-microsoft-launches-in-house-ai-models-it-says-cut-costs-up-t]] · [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro]] · [[2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its]]
 <!-- graph:end -->

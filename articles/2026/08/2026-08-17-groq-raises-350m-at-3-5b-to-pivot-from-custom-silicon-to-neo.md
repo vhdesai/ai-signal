@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-inference-silicon-to
 - 2026-08-17-groq-raises-350m-at-a-3-5b-valuation-to-pivot-from-inference
 - 2026-08-17-groq-raises-350m-series-a-at-a-3-5b-valuation-pivoting-from
 - 2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-silicon-to-neocloud
-- 2026-06-23-groq-confirms-650m-funding-round
-- 2026-06-22-groq-confirms-650m-raise-and-pivots-to-inference-neocloud
+- 2026-08-17-groq-raises-350m-at-3-5b-valuation-completes-pivot-from-chip
 embedding_id: 2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-custom-silicon-to-neo
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Groq raised $350 million at a $3.5 billion valuation as it repositions from AI c
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-17-groq-raises-350m-at-a-3-5b-valuation-to-pivot-from-inference]] · [[2026-08-17-groq-raises-350m-series-a-at-a-3-5b-valuation-pivoting-from]] · [[2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-silicon-to-neocloud]] · [[2026-06-23-groq-confirms-650m-funding-round]] · [[2026-06-22-groq-confirms-650m-raise-and-pivots-to-inference-neocloud]]
+**Related:** [[2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-inference-silicon-to]] · [[2026-08-17-groq-raises-350m-at-a-3-5b-valuation-to-pivot-from-inference]] · [[2026-08-17-groq-raises-350m-series-a-at-a-3-5b-valuation-pivoting-from]] · [[2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-silicon-to-neocloud]] · [[2026-08-17-groq-raises-350m-at-3-5b-valuation-completes-pivot-from-chip]]
 <!-- graph:end -->

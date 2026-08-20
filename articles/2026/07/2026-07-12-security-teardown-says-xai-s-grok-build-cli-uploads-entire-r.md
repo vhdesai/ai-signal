@@ -22,10 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-12-security-teardown-xai-s-grok-build-cli-uploads-entire-repos
 - 2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor
 - 2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta
+- 2026-07-16-xai-open-sources-grok-build-after-privacy-backlash
 - 2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac
-- 2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout
 embedding_id: 2026-07-12-security-teardown-says-xai-s-grok-build-cli-uploads-entire-r
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Grok Build CLI v0.2.93 transmits the full repository to a GCS bucket — not jus
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor]] · [[2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta]] · [[2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac]] · [[2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout]]
+**Related:** [[2026-07-12-security-teardown-xai-s-grok-build-cli-uploads-entire-repos]] · [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor]] · [[2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta]] · [[2026-07-16-xai-open-sources-grok-build-after-privacy-backlash]] · [[2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac]]
 <!-- graph:end -->

@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce-crm
 - 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
 - 2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
 - 2026-07-09-starbucks-builds-ai-software-to-cut-reliance-on-microsoft-an
-- 2026-06-05-supabase-doubles-to-10-5b-on-ai-coding-tool-adoption
 embedding_id: 2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Greenleaf Management, an Atlanta-based real estate firm with ~55 employees, save
 
 **Entities:** [[Anthropic]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-07-09-starbucks-builds-ai-software-to-cut-reliance-on-microsoft-an]] · [[2026-06-05-supabase-doubles-to-10-5b-on-ai-coding-tool-adoption]]
+**Related:** [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce-crm]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-07-09-starbucks-builds-ai-software-to-cut-reliance-on-microsoft-an]]
 <!-- graph:end -->

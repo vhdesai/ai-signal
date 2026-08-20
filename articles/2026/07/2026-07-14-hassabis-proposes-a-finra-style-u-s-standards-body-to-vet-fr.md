@@ -19,7 +19,7 @@ themes:
 - policy-regulation
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch
+canonical_article_id: 2026-07-14-deepmind-ceo-proposes-independent-standards-body-for-frontie
 related_article_ids: []
 embedding_id: 2026-07-14-hassabis-proposes-a-finra-style-u-s-standards-body-to-vet-fr
 event_name: ''
@@ -34,5 +34,5 @@ Google DeepMind CEO Demis Hassabis proposed governing frontier AI through a self
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Canonical:** [[2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch]]
+**Canonical:** [[2026-07-14-deepmind-ceo-proposes-independent-standards-body-for-frontie]]
 <!-- graph:end -->

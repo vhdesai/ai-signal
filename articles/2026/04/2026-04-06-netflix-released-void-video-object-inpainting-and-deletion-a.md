@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-04-netflix-released-void-video-object-and-interaction-deletion
+- 2026-08-18-when-ai-art-has-no-author-generated-images-often-can-t-be-tr
 embedding_id: 2026-04-06-netflix-released-void-video-object-inpainting-and-deletion-a
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Netflix released VOID (Video Object Inpainting and Deletion), an open-source mod
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-04-netflix-released-void-video-object-and-interaction-deletion]]
+**Related:** [[2026-04-04-netflix-released-void-video-object-and-interaction-deletion]] · [[2026-08-18-when-ai-art-has-no-author-generated-images-often-can-t-be-tr]]
 <!-- graph:end -->

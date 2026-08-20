@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
-- 2026-07-30-top-ai-venture-portfolios-reach-7-trillion-as-market-concent
-- 2026-08-11-ai-startups-raised-in-h1-2026-openai-and-anthropic-took-more
+- 2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat
+- 2026-08-01-pitchbook-saas-pocalypse-enters-second-phase-as-ai-agents-re
 embedding_id: 2026-08-14-workday-potential-43b-take-private-highlights-ai-proof-verti
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Workday is in discussions for a potential $43B take-private. Combined with Thoma
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-07-30-top-ai-venture-portfolios-reach-7-trillion-as-market-concent]] · [[2026-08-11-ai-startups-raised-in-h1-2026-openai-and-anthropic-took-more]]
+**Related:** [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat]] · [[2026-08-01-pitchbook-saas-pocalypse-enters-second-phase-as-ai-agents-re]]
 <!-- graph:end -->

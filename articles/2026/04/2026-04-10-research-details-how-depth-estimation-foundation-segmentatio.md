@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-this-geoai-workflow-is-valuable-as-a-concrete-example-of-how
 - 2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro
+- 2026-08-10-mit-csail-and-tsinghua-introduce-geopt-arguing-physics-is-ai
 - 2026-05-22-openai-published-research-showing-that-one-of-its-ai-models
 - 2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet
-- 2026-05-21-openai-model-autonomously-solves-80-year-old-erd-s-geometry
-- 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
 embedding_id: 2026-04-10-research-details-how-depth-estimation-foundation-segmentatio
 event_name: ''
 ---
@@ -37,5 +37,5 @@ research details how depth estimation, foundation segmentation models, and geome
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro]] · [[2026-05-22-openai-published-research-showing-that-one-of-its-ai-models]] · [[2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet]] · [[2026-05-21-openai-model-autonomously-solves-80-year-old-erd-s-geometry]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]]
+**Related:** [[2026-08-03-this-geoai-workflow-is-valuable-as-a-concrete-example-of-how]] · [[2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro]] · [[2026-08-10-mit-csail-and-tsinghua-introduce-geopt-arguing-physics-is-ai]] · [[2026-05-22-openai-published-research-showing-that-one-of-its-ai-models]] · [[2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet]]
 <!-- graph:end -->

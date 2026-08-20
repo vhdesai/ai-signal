@@ -18,13 +18,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
-- 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
-- 2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra
-- 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
+dedupe_status: duplicate
+canonical_article_id: 2026-08-12-kevin-weil-seeks-750m-valuation-for-ai-science-startup
+related_article_ids: []
 embedding_id: 2026-08-12-kevin-weil-seeks-valuation-for-ai-science-startup
 event_name: ''
 ---
@@ -38,5 +34,5 @@ Kevin Weil, OpenAI’s former Chief Product Officer, has sought a valuation of a
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]]
+**Canonical:** [[2026-08-12-kevin-weil-seeks-750m-valuation-for-ai-science-startup]]
 <!-- graph:end -->

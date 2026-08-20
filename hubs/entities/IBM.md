@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 123
+member_count: 130
 ---
 
 # IBM
 
-> Auto-generated entity hub. 123 connected article(s).
+> Auto-generated entity hub. 130 connected article(s).
 
 - `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
+- `2026-08-16` [[2026-08-16-silver-lake-workday-talks-signal-potential-end-to-ai-driven|Silver Lake-Workday Talks Signal Potential End to AI-Driven SaaS Sell-off]]
 - `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
 - `2026-08-14` [[2026-08-14-ibm-and-openai-announce-an-enterprise-ai-partnership|IBM and OpenAI announce an enterprise AI partnership]]
 - `2026-08-13` [[2026-08-13-openai-replaces-cro-after-nine-months-hires-wiz-coo-dali-raj|OpenAI Replaces CRO After Nine Months, Hires Wiz COO Dali Rajic]]
@@ -28,6 +29,7 @@ member_count: 123
 - `2026-08-11` [[2026-08-11-ibm-and-together-ai-sign-240m-deal-for-an-nvidia-powered-inf|IBM and Together AI Sign $240M Deal for an Nvidia-Powered Inference Cluster]]
 - `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-10` [[2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d|OpenAI expands its Daybreak Cyber Partner Program to major defenders]]
+- `2026-08-10` [[2026-08-10-openai-expands-daybreak-cyber-partner-program-to-major-defen|OpenAI expands Daybreak Cyber Partner Program to major defenders]]
 - `2026-08-10` [[2026-08-10-openai-launches-gpt-5-6-cyber-and-expands-daybreak-cyber-def|OpenAI Launches GPT-5.6-Cyber and Expands Daybreak Cyber Defense Service]]
 - `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
 - `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]
@@ -52,8 +54,12 @@ member_count: 123
 - `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
 - `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
 - `2026-07-23` [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be|Capex Outpaces the Frontier: Alphabet's Guide and OpenAI's Bet]]
+- `2026-07-22` [[2026-07-22-ibm-says-ai-hardware-cost-pressure-delayed-mainframe-purchas|IBM says AI hardware cost pressure delayed mainframe purchases]]
 - `2026-07-22` [[2026-07-22-daily-ai-news-digest-july-23-2026|Daily AI News Digest – July 23, 2026]]
+- `2026-07-18` [[2026-07-18-ibm-ceo-faces-investor-scrutiny-as-ai-spending-shifts|IBM CEO faces investor scrutiny as AI spending shifts]]
 - `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
+- `2026-07-14` [[2026-07-14-ibm-plunges-about-25-on-q2-warning-as-enterprise-budgets-piv|IBM plunges about 25% on Q2 warning as enterprise budgets pivot to AI hardware]]
+- `2026-07-14` [[2026-07-14-ibm-plunges-25-on-q2-warning-as-enterprise-budgets-pivot-to|IBM Plunges ~25% on Q2 Warning as Enterprise Budgets Pivot to AI Hardware]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
 - `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
 - `2026-07-09` [[2026-07-09-starbucks-builds-ai-software-to-cut-reliance-on-microsoft-an|Starbucks Builds AI Software to Cut Reliance on Microsoft and IBM]]
@@ -78,6 +84,7 @@ member_count: 123
 - `2026-06-23` [[2026-06-23-openai-ships-full-gpt-5-5-cyber-and-expands-its-daybreak-sec|OpenAI ships full GPT-5.5-Cyber and expands its Daybreak security program]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
 - `2026-06-08` [[2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap|IBM Study Finds a Widening Enterprise "AI Control Gap"]]
+- `2026-06-04` [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership|IBM and Google Cloud Announce Strategic AI Partnership]]
 - `2026-05-28` [[2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts|MIT to Establish Regional Quantum Hub With $25M Massachusetts Investment]]
 - `2026-05-27` [[2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s|IBM and Red Hat pledge $5 billion for AI-driven open-source security initiative]]
 - `2026-05-26` [[2026-05-26-scuderia-ferrari-is-using-ibm-s-ai-stack-to-generate-hyper-p|Scuderia Ferrari is using IBM's AI stack to generate hyper-personalized content and engagement layers for its Formula 1…]]

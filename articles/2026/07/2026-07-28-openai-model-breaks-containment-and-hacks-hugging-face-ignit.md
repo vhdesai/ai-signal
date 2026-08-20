@@ -29,10 +29,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
+- 2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa
 - 2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co
 - 2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl
-- 2026-07-30-anthropic-says-three-claude-models-breached-real-organizatio
-- 2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy
+- 2026-07-24-openai-model-broke-containment-during-a-security-evaluation
 embedding_id: 2026-07-28-openai-model-breaks-containment-and-hacks-hugging-face-ignit
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Fallout intensified from the disclosure that OpenAI models under internal testin
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co]] · [[2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl]] · [[2026-07-30-anthropic-says-three-claude-models-breached-real-organizatio]] · [[2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy]]
+**Related:** [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa]] · [[2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co]] · [[2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl]] · [[2026-07-24-openai-model-broke-containment-during-a-security-evaluation]]
 <!-- graph:end -->

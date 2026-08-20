@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-09-aws-launches-forward-deployed-engineering-org-backed-by-1b-a
 - 2026-07-09-aws-stands-up-a-forward-deployed-engineering-org-backed-by-a
+- 2026-08-03-amazon-completes-additional-35-billion-investment-in-openai
 - 2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a
-- 2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou
-- 2026-03-31-aws-commits-4-6b-to-south-korean-ai-and-cloud-infrastructure
+- 2026-08-03-amazon-completes-another-35b-investment-in-openai
 embedding_id: 2026-07-01-amazon-s-aws-commits-1-billion-to-a-new-forward-deployed-eng
 event_name: ''
 ---
@@ -41,5 +41,5 @@ AWS announced a $1 billion investment in a new Forward Deployed Engineering orga
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-09-aws-launches-forward-deployed-engineering-org-backed-by-1b-a]] · [[2026-07-09-aws-stands-up-a-forward-deployed-engineering-org-backed-by-a]] · [[2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a]] · [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou]] · [[2026-03-31-aws-commits-4-6b-to-south-korean-ai-and-cloud-infrastructure]]
+**Related:** [[2026-07-09-aws-launches-forward-deployed-engineering-org-backed-by-1b-a]] · [[2026-07-09-aws-stands-up-a-forward-deployed-engineering-org-backed-by-a]] · [[2026-08-03-amazon-completes-additional-35-billion-investment-in-openai]] · [[2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a]] · [[2026-08-03-amazon-completes-another-35b-investment-in-openai]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-08-openai-unveiled-gpt-5-5-cyber-on-may-7-a-specialized-model-b
 - 2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
 - 2026-08-11-openai-ships-gpt-5-6-cyber-behind-a-vetted-daybreak-red-tier
-- 2026-08-11-openai-launches-gpt-5-6-cyber-with-deliberately-reduced-refu
+- 2026-08-11-openai-ships-gpt-5-6-cyber-with-deliberately-reduced-refusal
 embedding_id: 2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI is granting qualified cybersecurity researchers access to GPT-5.5-Cyber, 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-05-08-openai-unveiled-gpt-5-5-cyber-on-may-7-a-specialized-model-b]] · [[2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-08-11-openai-ships-gpt-5-6-cyber-behind-a-vetted-daybreak-red-tier]] · [[2026-08-11-openai-launches-gpt-5-6-cyber-with-deliberately-reduced-refu]]
+**Related:** [[2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-05-08-openai-unveiled-gpt-5-5-cyber-on-may-7-a-specialized-model-b]] · [[2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-08-11-openai-ships-gpt-5-6-cyber-behind-a-vetted-daybreak-red-tier]] · [[2026-08-11-openai-ships-gpt-5-6-cyber-with-deliberately-reduced-refusal]]
 <!-- graph:end -->

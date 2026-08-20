@@ -22,9 +22,9 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz
 related_article_ids:
 - 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
+- 2026-08-11-nvidia-and-wall-street-launch-500b-ai-financing-alliance
 - 2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f
 - 2026-08-13-nvidia-anchors-a-500b-financing-consortium-to-fund-ai-data-c
-- 2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi
 embedding_id: 2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA and major Wall Street firms reportedly struck an AI financing deal target
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]]
-**Related:** [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f]] · [[2026-08-13-nvidia-anchors-a-500b-financing-consortium-to-fund-ai-data-c]] · [[2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi]]
+**Related:** [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-08-11-nvidia-and-wall-street-launch-500b-ai-financing-alliance]] · [[2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f]] · [[2026-08-13-nvidia-anchors-a-500b-financing-consortium-to-fund-ai-data-c]]
 <!-- graph:end -->

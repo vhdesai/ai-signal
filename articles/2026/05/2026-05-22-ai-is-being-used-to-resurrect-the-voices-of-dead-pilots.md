@@ -31,9 +31,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-ntsb-to-review-docket-access-after-ai-reconstructs-deceased
 - 2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t
+- 2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact
 - 2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol
 - 2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an
-- 2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki
 embedding_id: 2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots
 event_name: ''
 ---
@@ -47,5 +47,5 @@ TechCrunch reports on AI being used to synthesize the voices of deceased pilots 
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-ntsb-to-review-docket-access-after-ai-reconstructs-deceased]] · [[2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t]] · [[2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol]] · [[2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an]] · [[2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki]]
+**Related:** [[2026-05-22-ntsb-to-review-docket-access-after-ai-reconstructs-deceased]] · [[2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t]] · [[2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact]] · [[2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol]] · [[2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an]]
 <!-- graph:end -->

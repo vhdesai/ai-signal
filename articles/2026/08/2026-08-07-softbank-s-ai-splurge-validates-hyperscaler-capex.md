@@ -26,11 +26,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc
 - 2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and
+- 2026-07-24-moody-s-warns-ai-capex-is-straining-big-tech-credit-quality
 - 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
 - 2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190
-- 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
-- 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
 embedding_id: 2026-08-07-softbank-s-ai-splurge-validates-hyperscaler-capex
 event_name: ''
 ---
@@ -44,5 +44,5 @@ The Information's briefing argues that SoftBank's massive AI spending program se
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]]
+**Related:** [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and]] · [[2026-07-24-moody-s-warns-ai-capex-is-straining-big-tech-credit-quality]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]]
 <!-- graph:end -->

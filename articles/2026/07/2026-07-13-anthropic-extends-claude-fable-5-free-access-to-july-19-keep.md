@@ -26,7 +26,6 @@ related_article_ids:
 - 2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for
 - 2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-and
 - 2026-07-07-anthropic-extends-claude-fable-5-access-to-all-paid-plans-th
-- 2026-07-08-anthropic-reverses-course-extends-free-claude-fable-5-access
 embedding_id: 2026-07-13-anthropic-extends-claude-fable-5-free-access-to-july-19-keep
 event_name: ''
 ---
@@ -40,5 +39,5 @@ Anthropic gave Pro, Max, and Team subscribers a second one-week extension of fre
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for]] · [[2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-and]] · [[2026-07-07-anthropic-extends-claude-fable-5-access-to-all-paid-plans-th]] · [[2026-07-08-anthropic-reverses-course-extends-free-claude-fable-5-access]]
+**Related:** [[2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for]] · [[2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-and]] · [[2026-07-07-anthropic-extends-claude-fable-5-access-to-all-paid-plans-th]]
 <!-- graph:end -->

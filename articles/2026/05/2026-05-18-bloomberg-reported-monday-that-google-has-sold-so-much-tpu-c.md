@@ -26,10 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers
+- 2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch
+- 2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu
 - 2026-05-18-google-s-internal-tpu-crunch-research-teams-squeezed-as-comm
 - 2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp
-- 2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r
-- 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 embedding_id: 2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Bloomberg reported Monday that Google has sold so much TPU capacity to external 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers]] · [[2026-05-18-google-s-internal-tpu-crunch-research-teams-squeezed-as-comm]] · [[2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp]] · [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]]
+**Related:** [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers]] · [[2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch]] · [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu]] · [[2026-05-18-google-s-internal-tpu-crunch-research-teams-squeezed-as-comm]] · [[2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp]]
 <!-- graph:end -->

@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-03-meta-launches-business-agent-for-whatsapp-globally
 - 2026-07-29-meta-says-enterprise-ai-opportunity-extends-beyond-agents
 - 2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f
 - 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
 - 2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag
-- 2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey
 embedding_id: 2026-06-03-meta-launches-business-agent-and-business-agent-platform-glo
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta Business Agent handles customer interactions across WhatsApp, Messenger, an
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-meta-says-enterprise-ai-opportunity-extends-beyond-agents]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag]] · [[2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey]]
+**Related:** [[2026-06-03-meta-launches-business-agent-for-whatsapp-globally]] · [[2026-07-29-meta-says-enterprise-ai-opportunity-extends-beyond-agents]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag]]
 <!-- graph:end -->

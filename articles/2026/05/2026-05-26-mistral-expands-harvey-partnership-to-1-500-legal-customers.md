@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-27-mistral-and-harvey-expand-legal-ai-partnership
 - 2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec
 - 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu
-- 2026-08-08-harvey-in-talks-for-500m-at-a-15-5b-valuation
+- 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat
 embedding_id: 2026-05-26-mistral-expands-harvey-partnership-to-1-500-legal-customers
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Mistral and Harvey expanded their existing partnership to serve more than 1,500 
 
 **Entities:** [[Mistral]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-27-mistral-and-harvey-expand-legal-ai-partnership]] · [[2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec]] · [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu]] · [[2026-08-08-harvey-in-talks-for-500m-at-a-15-5b-valuation]]
+**Related:** [[2026-05-27-mistral-and-harvey-expand-legal-ai-partnership]] · [[2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec]] · [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu]] · [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat]]
 <!-- graph:end -->

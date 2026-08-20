@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-06-at-canva-chatgpt-compounded-an-ai-challenge
 - 2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar
 - 2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2
 - 2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a
 - 2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s
+- 2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo
 embedding_id: 2026-05-18-a-new-paper-analyzing-over-160-000-product-launches-on-produ
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A new paper analyzing over 160,000 product launches on Product Hunt found that e
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-at-canva-chatgpt-compounded-an-ai-challenge]] · [[2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar]] · [[2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2]] · [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]]
+**Related:** [[2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar]] · [[2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2]] · [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]] · [[2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo]]
 <!-- graph:end -->

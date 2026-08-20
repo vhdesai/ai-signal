@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare
 - 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
+- 2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin
+- 2026-08-03-the-eu-ai-act-has-now-moved-from-theory-to-enforceable-opera
 - 2026-04-04-utah-enacted-legislation-making-it-the-first-u-s
-- 2026-04-01-the-trump-administration-released-a-comprehensive-national-a
-- 2026-05-16-the-commerce-department-announced-amended-partnerships-with
-- 2026-06-02-microsoft-and-mayo-clinic-partner-to-build-healthcare-focuse
 embedding_id: 2026-05-13-a-landmark-policy-shift-reported-today-medicare-has-introduc
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A landmark policy shift reported today: Medicare has introduced a new payment mo
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-04-04-utah-enacted-legislation-making-it-the-first-u-s]] · [[2026-04-01-the-trump-administration-released-a-comprehensive-national-a]] · [[2026-05-16-the-commerce-department-announced-amended-partnerships-with]] · [[2026-06-02-microsoft-and-mayo-clinic-partner-to-build-healthcare-focuse]]
+**Related:** [[2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin]] · [[2026-08-03-the-eu-ai-act-has-now-moved-from-theory-to-enforceable-opera]] · [[2026-04-04-utah-enacted-legislation-making-it-the-first-u-s]]
 <!-- graph:end -->

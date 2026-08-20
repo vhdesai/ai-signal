@@ -22,7 +22,10 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-mai-models
-related_article_ids: []
+related_article_ids:
+- 2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-in-house-ma
+- 2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its
+- 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house
 embedding_id: 2026-07-08-microsoft-quietly-replaces-partner-models-with-mai-models-in
 event_name: ''
 ---
@@ -37,4 +40,5 @@ Microsoft is reportedly routing tens of thousands of prompts per week in Excel a
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-mai-models]]
+**Related:** [[2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-in-house-ma]] · [[2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-02-baidu-s-apollo-go-robotaxi-fleet-suffered-a-suspected-system
 - 2026-04-02-breaking-baidu-robotaxi-operations-suspended-in-wuhan-apr-1
+- 2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv
+- 2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo
 - 2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across
-- 2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani
-- 2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles
 embedding_id: 2026-07-28-baidu-and-lyft-enter-london-s-robotaxi-market-as-testing-beg
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Baidu's Apollo Go autonomous vehicles will begin operating in London through Fre
 
 **Entities:** [[Baidu]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-02-baidu-s-apollo-go-robotaxi-fleet-suffered-a-suspected-system]] · [[2026-04-02-breaking-baidu-robotaxi-operations-suspended-in-wuhan-apr-1]] · [[2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across]] · [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani]] · [[2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles]]
+**Related:** [[2026-04-02-baidu-s-apollo-go-robotaxi-fleet-suffered-a-suspected-system]] · [[2026-04-02-breaking-baidu-robotaxi-operations-suspended-in-wuhan-apr-1]] · [[2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv]] · [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo]] · [[2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across]]
 <!-- graph:end -->

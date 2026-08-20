@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-23-openai-chatgpt-health-now-available-to-all-u-s-adults-with-a
 - 2026-04-01-openai-has-expanded-chatgpt-s-reach-to-apple-carplay-enablin
 - 2026-05-17-openai-launched-chatgpt-for-personal-finance-for-pro-users-c
-- 2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr
 embedding_id: 2026-07-28-openai-extends-chatgpt-into-personal-health-records
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI rolled out a health feature for U.S. ChatGPT users that lets them connect
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-01-openai-has-expanded-chatgpt-s-reach-to-apple-carplay-enablin]] · [[2026-05-17-openai-launched-chatgpt-for-personal-finance-for-pro-users-c]] · [[2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr]]
+**Related:** [[2026-07-23-openai-chatgpt-health-now-available-to-all-u-s-adults-with-a]] · [[2026-04-01-openai-has-expanded-chatgpt-s-reach-to-apple-carplay-enablin]] · [[2026-05-17-openai-launched-chatgpt-for-personal-finance-for-pro-users-c]]
 <!-- graph:end -->

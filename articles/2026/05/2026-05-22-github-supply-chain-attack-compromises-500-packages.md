@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-22-wired-reported-that-the-group-behind-a-recent-github-reposit
 - 2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod
 - 2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git
+- 2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn
 - 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
-- 2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat
 embedding_id: 2026-05-22-github-supply-chain-attack-compromises-500-packages
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A coordinated GitHub supply-chain attack compromised more than 500 packages in t
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-22-wired-reported-that-the-group-behind-a-recent-github-reposit]] · [[2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod]] · [[2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat]]
+**Related:** [[2026-05-22-wired-reported-that-the-group-behind-a-recent-github-reposit]] · [[2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod]] · [[2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git]] · [[2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]]
 <!-- graph:end -->

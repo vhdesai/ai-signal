@@ -20,10 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe
+- 2026-07-24-moody-s-warns-ai-capex-is-straining-big-tech-credit-quality
 - 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
-- 2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog
-- 2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re
-- 2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur
+- 2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial
 embedding_id: 2026-08-09-ai-push-is-putting-banks-at-the-mercy-of-tech-firms-warns-mo
 event_name: ''
 ---
@@ -36,5 +35,5 @@ Moody’s warned that banks’ rapid AI adoption is concentrating operational ri
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog]] · [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur]]
+**Related:** [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]] · [[2026-07-24-moody-s-warns-ai-capex-is-straining-big-tech-credit-quality]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial]]
 <!-- graph:end -->

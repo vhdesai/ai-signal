@@ -1,17 +1,18 @@
 ---
 article_id: 2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope
-title: Microsoft books $3.2B gain on Anthropic stake, writes down OpenAI holding
+title: Microsoft Books $3.2B Gain on Anthropic Stake, Writes Down OpenAI Holding
 date: '2026-07-30'
 source: The American Bazaar
-url_original: https://americanbazaaronline.com/2026/07/30/microsoft-challenges-openai-anthropic-as-they-expand-ai-portfolio-485523/
-url_canonical: https://americanbazaaronline.com/2026/07/30/microsoft-challenges-openai-anthropic-as-they-expand-ai-portfolio-485523/
-url_status: found
-digest_source: digests\raw\2026-07-31_061901_Inbox_Daily AI News Digest - July 31,
-  2026.md
-content_hash: cf49f7e006c5b2f829cff7d2f254001c4de47a3d94b48e174c526dbe1591cd97
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-07-31_090003_Final-Daily-AI-News-Digest.md
+content_hash: 42206db7f60802dad1231b5e9c361d64e24aeec9ccebae83a63fbcf06422d33c
 normalized_title_hash: ab57d3cc59d989db
-canonical_url_hash: 13f5021e58f869f0
-tags: []
+canonical_url_hash: ''
+tags:
+- Hot
+- Earnings
 entities:
 - Anthropic
 - Microsoft
@@ -22,22 +23,22 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
-- 2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne
+- 2026-04-02-despite-the-record-raise-openai-s-secondary-market-position
 - 2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai
-- 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
 embedding_id: 2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope
 event_name: ''
 ---
 
-# Microsoft books $3.2B gain on Anthropic stake, writes down OpenAI holding
+# Microsoft Books $3.2B Gain on Anthropic Stake, Writes Down OpenAI Holding
 
-Microsoft’s latest quarterly results showed a $3.2B gain from its Anthropic investment — adding about 33 cents to diluted EPS — even as the carrying value of its OpenAI stake fell by roughly $600M in the period. Microsoft invested $5B in Anthropic in 2025 under an arrangement tied to $30B of Azure commitments. The disclosure underscores Microsoft’s strategy of backing multiple frontier labs while building its own models, days after Satya Nadella warned that firms betting on a single AI model may not survive. For enterprise buyers, it reinforces a multi-model posture at the platform layer.
+Microsoft disclosed a $3.2 billion gain on its Anthropic investment, adding roughly 33 cents to diluted EPS in the latest quarter. At the same time, the carrying value of its OpenAI stake declined by about $600 million, revealing a notable divergence inside its model portfolio. The numbers validate Microsoft's strategy of backing multiple frontier labs while also building internal MAI models. Satya Nadella's recent warning against depending on a single model now looks less rhetorical and more like capital-allocation doctrine. For enterprise buyers, the message is clear: even OpenAI's biggest backer is actively diversifying its AI supply chain. Links: The American Bazaar
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne]] · [[2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai]] · [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]]
+**Related:** [[2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-04-02-despite-the-record-raise-openai-s-secondary-market-position]] · [[2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai]]
 <!-- graph:end -->

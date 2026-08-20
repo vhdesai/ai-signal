@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-19-could-apple-s-lawsuit-derail-openai-s-hardware-plans
 - 2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code
 - 2026-08-06-openai-moves-to-dismiss-apple-s-trade-secrets-lawsuit-blames
 - 2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude
-- 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
+- 2026-08-03-the-apple-story-reframes-a-headline-grabbing-trade-secrets-d
 embedding_id: 2026-05-28-canada-dismisses-tech-firms-warnings-of-back-doors-to-device
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Canadian regulators dismissed tech-industry warnings that a new lawful-access fr
 
 **Entities:** [[Apple]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code]] · [[2026-08-06-openai-moves-to-dismiss-apple-s-trade-secrets-lawsuit-blames]] · [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]]
+**Related:** [[2026-07-19-could-apple-s-lawsuit-derail-openai-s-hardware-plans]] · [[2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code]] · [[2026-08-06-openai-moves-to-dismiss-apple-s-trade-secrets-lawsuit-blames]] · [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude]] · [[2026-08-03-the-apple-story-reframes-a-headline-grabbing-trade-secrets-d]]
 <!-- graph:end -->

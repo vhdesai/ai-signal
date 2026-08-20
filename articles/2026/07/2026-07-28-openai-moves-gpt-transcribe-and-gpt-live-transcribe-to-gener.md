@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-openai-updates-gpt-live-page-after-synthid-audio-watermarkin
 - 2026-05-18-openai-released-three-new-voice-api-models-designed-for-live
 - 2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol
+- 2026-08-02-openai-materially-updates-gpt-live-with-audio-watermarking-c
 - 2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode
-- 2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v
-- 2026-08-03-openai-details-gpt-live-its-full-duplex-voice-system-for-sub
 embedding_id: 2026-07-28-openai-moves-gpt-transcribe-and-gpt-live-transcribe-to-gener
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI marked its GPT-Transcribe (asynchronous, file-based) and GPT-Live-Transcr
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-18-openai-released-three-new-voice-api-models-designed-for-live]] · [[2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol]] · [[2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode]] · [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v]] · [[2026-08-03-openai-details-gpt-live-its-full-duplex-voice-system-for-sub]]
+**Related:** [[2026-08-03-openai-updates-gpt-live-page-after-synthid-audio-watermarkin]] · [[2026-05-18-openai-released-three-new-voice-api-models-designed-for-live]] · [[2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol]] · [[2026-08-02-openai-materially-updates-gpt-live-with-audio-watermarking-c]] · [[2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode]]
 <!-- graph:end -->

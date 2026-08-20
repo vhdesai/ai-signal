@@ -1,32 +1,47 @@
 ---
 type: entity-hub
 hub: TSMC
-member_count: 42
+member_count: 57
 ---
 
 # TSMC
 
-> Auto-generated entity hub. 42 connected article(s).
+> Auto-generated entity hub. 57 connected article(s).
 
+- `2026-08-19` [[2026-08-19-samsung-raises-advanced-foundry-prices-by-up-to-15|Samsung Raises Advanced Foundry Prices by Up to 15%]]
+- `2026-08-19` [[2026-08-19-cerebras-launches-cs-4-nexus-wafer-scale-inference-system|Cerebras launches CS-4 "Nexus" wafer-scale inference system]]
+- `2026-08-10` [[2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand|TSMC July revenue surges ~45% YoY on AI chip demand]]
 - `2026-08-10` [[2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi|TSMC July revenue surges roughly 45% year over year on AI chip demand]]
 - `2026-08-10` [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained|TSMC July revenue rises about 45% year over year on sustained AI chip demand]]
 - `2026-08-10` [[2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman|TSMC July revenue rises 44.7% year over year on AI chip demand]]
+- `2026-08-10` [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-sustained-ai-c|TSMC July Revenue Surges ~45% Year Over Year on Sustained AI Chip Demand]]
 - `2026-08-10` [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand|TSMC July Revenue Surges ~45% Year Over Year on AI Chip Demand]]
 - `2026-08-10` [[2026-08-10-microsoft-moves-to-order-300-000-maia-300-accelerators-from|Microsoft moves to order 300,000+ Maia 300 accelerators from TSMC]]
 - `2026-08-10` [[2026-08-10-microsoft-reportedly-orders-300-000-maia-300-accelerators-fr|Microsoft Reportedly Orders 300,000+ Maia 300 Accelerators from TSMC]]
 - `2026-08-10` [[2026-08-10-microsoft-plans-10-production-ramp-of-next-gen-maia-ai-chip|Microsoft Plans 10× Production Ramp of Next-Gen Maia AI Chip]]
 - `2026-08-10` [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-to-fund-a|Intel raises $15 billion in a common stock offering to fund AI chip growth]]
 - `2026-08-09` [[2026-08-09-daily-ai-news-digest-august-10-2026|Daily AI News Digest – August 10, 2026]]
+- `2026-08-06` [[2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-semiconductor-compl|Tesla and SpaceX commit $16.8B to Terafab semiconductor complex in Texas]]
+- `2026-07-30` [[2026-07-30-tsmc-works-on-advanced-ai-chip-packaging-as-the-infrastructu|TSMC works on advanced AI chip packaging as the infrastructure bottleneck shifts]]
 - `2026-07-30` [[2026-07-30-tsmc-develops-ai-chip-packaging-technology-to-counter-intel|TSMC develops AI chip-packaging technology to counter Intel]]
+- `2026-07-29` [[2026-07-29-tsmc-gradually-resumes-japan-operations-after-earthquake|TSMC gradually resumes Japan operations after earthquake]]
 - `2026-07-28` [[2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker|OpenAI’s hardware roadmap sharpens: a Jony Ive smart speaker and an AI phone]]
+- `2026-07-20` [[2026-07-20-tsmc-accelerates-arizona-buildout-to-capture-the-ai-megatren|TSMC accelerates Arizona buildout to capture the AI megatrend]]
+- `2026-07-20` [[2026-07-20-tsmc-accelerates-arizona-build-out-adding-100b-and-citing-an|TSMC Accelerates Arizona Build-Out, Adding $100B and Citing an AI "Mega Trend"]]
+- `2026-07-16` [[2026-07-16-tsmc-reportedly-plans-another-100b-u-s-investment-as-ai-dema|TSMC reportedly plans another $100B U.S. investment as AI demand surges]]
+- `2026-07-16` [[2026-07-16-tsmc-posts-record-q2-revenue-as-ai-chip-demand-holds|TSMC posts record Q2 revenue as AI chip demand holds]]
+- `2026-07-16` [[2026-07-16-tsmc-plans-another-100-billion-u-s-investment-as-ai-demand-l|TSMC plans another $100 billion U.S. investment as AI demand lifts earnings]]
+- `2026-07-15` [[2026-07-15-asml-raises-2026-guidance-a-second-time-on-strong-ai-chip-de|ASML raises 2026 guidance a second time on strong AI chip demand]]
 - `2026-07-13` [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j|TSMC posts record Q2 revenue, up 36% on AI demand; June sales jump ~68%]]
 - `2026-07-13` [[2026-07-13-monday-july-13-2026|Monday, July 13, 2026]]
 - `2026-07-13` [[2026-07-13-meta-readies-its-custom-iris-ai-chip-for-september-productio|Meta readies its custom “Iris” AI chip for September production]]
 - `2026-07-13` [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill|Capital and governance outran the model race. Four multi-billion-dollar infrastructure commitments — Meta, Intel, Samsung, TSMC — landed in one day. 200+ economists (15 Nobel laureates) warned on AI labor disruption, Xi will keynote next week's World AI Conference, and a security teardown found xAI's Grok CLI uploads entire repos including secrets. Nine items follow.]]
 - `2026-07-12` [[2026-07-12-tsmc-breaks-ground-on-three-more-advanced-packaging-fabs-as|TSMC breaks ground on three more advanced-packaging fabs as Q2 revenue hits record]]
+- `2026-07-12` [[2026-07-12-tsmc-breaks-ground-on-three-more-advanced-packaging-fabs-at|TSMC Breaks Ground on Three More Advanced-Packaging Fabs at Chiayi; Q2 Revenue Hits Record]]
 - `2026-07-12` [[2026-07-12-july-13-2026|July 13, 2026]]
 - `2026-06-26` [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea|Samsung Group to unveil ~$648B (1,000 trillion won) South Korea investment in chips and AI]]
 - `2026-06-25` [[2026-06-25-ibm-claims-first-sub-1nm-transistor-a-0-7nm-nanostack-archit|IBM claims first sub-1nm transistor — a 0.7nm "nanostack" architecture]]
+- `2026-06-11` [[2026-06-11-google-in-talks-with-samsung-to-manufacture-next-gen-ai-chip|Google in Talks with Samsung to Manufacture Next-Gen AI Chip]]
 - `2026-06-08` [[2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai|Alphabet Taps Intel to Manufacture Three Million In-House AI Chips]]
 - `2026-06-04` [[2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s|TSMC Warns AI Demand Is Straining the Entire Semiconductor Supply Chain]]
 - `2026-05-27` [[2026-05-27-trending-cerebras-68-ipo-pop-draws-fresh-ark-buying-ceo-warn|Trending Cerebras' 68% IPO pop draws fresh ARK buying; CEO warns on US chip catch-up]]

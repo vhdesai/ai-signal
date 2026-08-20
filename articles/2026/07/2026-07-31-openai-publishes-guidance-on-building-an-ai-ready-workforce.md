@@ -18,9 +18,12 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-07-31-openai-highlights-unive-s-ai-ready-workforce-program
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-07-31-openai-highlights-unive-s-ai-ready-workforce-program
+- 2026-07-24-enterprise-ai-consolidates-as-infrastructure-provenance-and
+- 2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol
 embedding_id: 2026-07-31-openai-publishes-guidance-on-building-an-ai-ready-workforce
 event_name: ''
 ---
@@ -34,5 +37,5 @@ OpenAI highlighted how Unive built an AI-ready workforce with ChatGPT Enterprise
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-07-31-openai-highlights-unive-s-ai-ready-workforce-program]]
+**Related:** [[2026-07-31-openai-highlights-unive-s-ai-ready-workforce-program]] · [[2026-07-24-enterprise-ai-consolidates-as-infrastructure-provenance-and]] · [[2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol]]
 <!-- graph:end -->

@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
 - 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
+- 2026-07-16-meta-says-it-will-alert-parents-when-teens-show-distress-in
 embedding_id: 2026-07-13-meta-patent-describes-an-always-listening-ai-that-infers-and
 event_name: ''
 ---
@@ -36,5 +37,5 @@ A Meta patent application (US 2026/0182881, published July 2) describes an AI th
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]]
+**Related:** [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-07-16-meta-says-it-will-alert-parents-when-teens-show-distress-in]]
 <!-- graph:end -->

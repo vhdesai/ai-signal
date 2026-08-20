@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 - 2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion
 - 2026-08-14-big-tech-ai-purchase-commitments-approach-1-5-trillion
+- 2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test
 - 2026-05-04-big-tech-s-725b-ai-capex-wave-google-amazon-microsoft-meta-i
-- 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
 embedding_id: 2026-04-02-before-the-iran-conflict-escalated-microsoft-amazon-alphabet
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Before the Iran conflict escalated, Microsoft, Amazon, Alphabet, and Meta had co
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[Oracle]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion]] · [[2026-08-14-big-tech-ai-purchase-commitments-approach-1-5-trillion]] · [[2026-05-04-big-tech-s-725b-ai-capex-wave-google-amazon-microsoft-meta-i]] · [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20]]
+**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion]] · [[2026-08-14-big-tech-ai-purchase-commitments-approach-1-5-trillion]] · [[2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test]] · [[2026-05-04-big-tech-s-725b-ai-capex-wave-google-amazon-microsoft-meta-i]]
 <!-- graph:end -->

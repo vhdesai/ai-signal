@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye
+- 2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin
 - 2026-04-10-mit-economics-faculty-have-published-analysis-examining-how
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-05-26-ai-may-make-work-more-productive-but-less-social
-- 2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur
 embedding_id: 2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft's annual Work Trend Index finds that enterprise AI productivity gains 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye]] · [[2026-04-10-mit-economics-faculty-have-published-analysis-examining-how]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-05-26-ai-may-make-work-more-productive-but-less-social]] · [[2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur]]
+**Related:** [[2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye]] · [[2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin]] · [[2026-04-10-mit-economics-faculty-have-published-analysis-examining-how]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-05-26-ai-may-make-work-more-productive-but-less-social]]
 <!-- graph:end -->

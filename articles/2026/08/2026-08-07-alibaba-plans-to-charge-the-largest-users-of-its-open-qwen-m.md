@@ -23,8 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-08-alibaba-plans-revenue-sharing-on-open-weight-qwen-3-8-max
 - 2026-08-07-alibaba-to-charge-large-commercial-users-of-its-next-open-we
+- 2026-08-07-alibaba-to-require-revenue-sharing-from-large-commercial-qwe
 - 2026-08-07-alibaba-to-require-revenue-sharing-from-large-commercial-use
-- 2026-08-15-alibaba-s-qwen-crosses-3-billion-downloads-overtaking-meta-a
+- 2026-08-18-alibaba-s-qwen-passes-3-billion-downloads-ahead-of-meta-and
 embedding_id: 2026-08-07-alibaba-plans-to-charge-the-largest-users-of-its-open-qwen-m
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Alibaba plans to charge its largest commercial users for its next open-source Qw
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-08-alibaba-plans-revenue-sharing-on-open-weight-qwen-3-8-max]] · [[2026-08-07-alibaba-to-charge-large-commercial-users-of-its-next-open-we]] · [[2026-08-07-alibaba-to-require-revenue-sharing-from-large-commercial-use]] · [[2026-08-15-alibaba-s-qwen-crosses-3-billion-downloads-overtaking-meta-a]]
+**Related:** [[2026-08-08-alibaba-plans-revenue-sharing-on-open-weight-qwen-3-8-max]] · [[2026-08-07-alibaba-to-charge-large-commercial-users-of-its-next-open-we]] · [[2026-08-07-alibaba-to-require-revenue-sharing-from-large-commercial-qwe]] · [[2026-08-07-alibaba-to-require-revenue-sharing-from-large-commercial-use]] · [[2026-08-18-alibaba-s-qwen-passes-3-billion-downloads-ahead-of-meta-and]]
 <!-- graph:end -->

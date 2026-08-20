@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-minimax-releases-h3-a-unified-text-image-video-audio-generat
+- 2026-07-31-china-s-minimax-releases-h3-open-weight-video-generation-mod
 - 2026-07-31-minimax-releases-h3-video-model-with-open-weights-to-follow
 - 2026-08-01-minimax-releases-h3-an-omni-modal-video-model-for-15-second
-- 2026-08-01-minimax-releases-h3-an-omni-modal-model-that-generates-2k-vi
-- 2026-07-31-bytedance-launches-seedance-2-5-as-chinese-labs-press-a-gene
+- 2026-08-01-minimax-releases-h3-an-omni-modal-video-model-with-native-st
 embedding_id: 2026-07-31-china-s-minimax-releases-h3-multimodal-video-model
 event_name: ''
 ---
@@ -41,5 +41,5 @@ MiniMax released H3, a video-generation model that jointly processes text, image
 
 **Entities:** [[ByteDance]] · [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-31-minimax-releases-h3-a-unified-text-image-video-audio-generat]] · [[2026-07-31-minimax-releases-h3-video-model-with-open-weights-to-follow]] · [[2026-08-01-minimax-releases-h3-an-omni-modal-video-model-for-15-second]] · [[2026-08-01-minimax-releases-h3-an-omni-modal-model-that-generates-2k-vi]] · [[2026-07-31-bytedance-launches-seedance-2-5-as-chinese-labs-press-a-gene]]
+**Related:** [[2026-07-31-minimax-releases-h3-a-unified-text-image-video-audio-generat]] · [[2026-07-31-china-s-minimax-releases-h3-open-weight-video-generation-mod]] · [[2026-07-31-minimax-releases-h3-video-model-with-open-weights-to-follow]] · [[2026-08-01-minimax-releases-h3-an-omni-modal-video-model-for-15-second]] · [[2026-08-01-minimax-releases-h3-an-omni-modal-video-model-with-native-st]]
 <!-- graph:end -->

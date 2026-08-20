@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
 - 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
 - 2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did
+- 2026-07-31-simple-answer-to-ai-job-loss-tax-capital-not-labor
 - 2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale
-- 2026-08-12-anthropic-worker-retraining-programs-may-not-scale-to-ai-dis
 embedding_id: 2026-05-11-mit-acemoglu-qje-firms-systematically-use-automation-to-supp
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A peer-reviewed study co-authored by MIT economist Daron Acemoglu and published 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]] · [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale]] · [[2026-08-12-anthropic-worker-retraining-programs-may-not-scale-to-ai-dis]]
+**Related:** [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]] · [[2026-07-31-simple-answer-to-ai-job-loss-tax-capital-not-labor]] · [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale]]
 <!-- graph:end -->

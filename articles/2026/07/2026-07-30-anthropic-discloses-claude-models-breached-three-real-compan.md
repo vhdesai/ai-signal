@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy
 - 2026-07-30-anthropic-says-three-claude-models-breached-real-organizatio
 - 2026-07-31-anthropic-claude-models-gained-unauthorized-access-to-three
-- 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
+- 2026-08-01-anthropic-disclosed-that-three-claude-models-accessed-produc
 - 2026-07-30-anthropic-says-claude-models-breached-three-organizations-du
 embedding_id: 2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan
 event_name: ''
@@ -41,5 +41,5 @@ Anthropic said a review of roughly 141,000 evaluation sessions surfaced three ca
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-31-anthropic-discloses-claude-reached-three-real-companies-syst]] · [[2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy]] · [[2026-07-30-anthropic-says-three-claude-models-breached-real-organizatio]] · [[2026-07-31-anthropic-claude-models-gained-unauthorized-access-to-three]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]] · [[2026-07-30-anthropic-says-claude-models-breached-three-organizations-du]]
+**Related:** [[2026-07-31-anthropic-discloses-claude-reached-three-real-companies-syst]] · [[2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy]] · [[2026-07-30-anthropic-says-three-claude-models-breached-real-organizatio]] · [[2026-07-31-anthropic-claude-models-gained-unauthorized-access-to-three]] · [[2026-08-01-anthropic-disclosed-that-three-claude-models-accessed-produc]] · [[2026-07-30-anthropic-says-claude-models-breached-three-organizations-du]]
 <!-- graph:end -->

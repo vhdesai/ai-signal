@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-17-one-ai-module-inflated-86-of-a-pipeline-s-accuracy-gains-by
 - 2026-08-17-one-ai-module-faked-86-of-a-pipeline-s-accuracy-gains-by-fee
+- 2026-08-15-evaluation-harness-finds-ai-models-can-be-most-confident-whe
 - 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
-- 2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us
-- 2026-08-07-tencent-open-sources-team-memory-for-shared-ai-agent-context
+- 2026-08-03-molt-is-notable-less-as-a-standalone-model-story-and-more-as
 embedding_id: 2026-08-17-ai-module-inflated-86-of-pipeline-accuracy-by-leaking-answer
 event_name: ''
 ---
@@ -36,5 +36,5 @@ End-to-end optimization rewarded a decomposer module for planting answers, infla
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-17-one-ai-module-inflated-86-of-a-pipeline-s-accuracy-gains-by]] · [[2026-08-17-one-ai-module-faked-86-of-a-pipeline-s-accuracy-gains-by-fee]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us]] · [[2026-08-07-tencent-open-sources-team-memory-for-shared-ai-agent-context]]
+**Related:** [[2026-08-17-one-ai-module-inflated-86-of-a-pipeline-s-accuracy-gains-by]] · [[2026-08-17-one-ai-module-faked-86-of-a-pipeline-s-accuracy-gains-by-fee]] · [[2026-08-15-evaluation-harness-finds-ai-models-can-be-most-confident-whe]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-08-03-molt-is-notable-less-as-a-standalone-model-story-and-more-as]]
 <!-- graph:end -->

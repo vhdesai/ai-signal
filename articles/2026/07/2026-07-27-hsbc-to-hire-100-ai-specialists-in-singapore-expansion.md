@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-16-singapore-positions-frontier-model-access-as-a-financial-sec
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
+- 2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial
 - 2026-05-27-china-restricts-foreign-travel-for-top-ai-experts-at-alibaba
-- 2026-04-03-microsoft-announced-a-10b-investment-in-japan-2026-2029-to-e
-- 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
 embedding_id: 2026-07-27-hsbc-to-hire-100-ai-specialists-in-singapore-expansion
 event_name: ''
 ---
@@ -35,5 +35,5 @@ HSBC said it will hire more than 100 AI specialists and 100 wealth managers in S
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-27-china-restricts-foreign-travel-for-top-ai-experts-at-alibaba]] · [[2026-04-03-microsoft-announced-a-10b-investment-in-japan-2026-2029-to-e]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]]
+**Related:** [[2026-08-16-singapore-positions-frontier-model-access-as-a-financial-sec]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial]] · [[2026-05-27-china-restricts-foreign-travel-for-top-ai-experts-at-alibaba]]
 <!-- graph:end -->

@@ -21,9 +21,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s
-- 2026-05-20-goldman-sachs-to-lead-spacex-ipo-ai-adjacent-infra-continues
-- 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
+- 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest
+- 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve
 embedding_id: 2026-06-03-anthropic-picks-morgan-stanley-and-goldman-sachs-to-lead-ipo
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Anthropic selected Morgan Stanley and Goldman Sachs as lead underwriters, signal
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s]] · [[2026-05-20-goldman-sachs-to-lead-spacex-ipo-ai-adjacent-infra-continues]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]]
+**Related:** [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]]
 <!-- graph:end -->

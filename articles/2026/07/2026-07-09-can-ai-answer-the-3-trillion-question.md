@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it
+- 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
-- 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
-- 2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor
-- 2026-07-14-softbank-s-masayoshi-son-says-ai-will-require-5t-a-year-by-2
+- 2026-07-22-openai-s-ai-spending-commitments-approach-750b
 embedding_id: 2026-07-09-can-ai-answer-the-3-trillion-question
 event_name: ''
 ---
@@ -35,5 +35,5 @@ TechCrunch revisited Sequoia's AI infrastructure ROI analysis, noting that 2026 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20]] · [[2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor]] · [[2026-07-14-softbank-s-masayoshi-son-says-ai-will-require-5t-a-year-by-2]]
+**Related:** [[2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it]] · [[2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]]
 <!-- graph:end -->

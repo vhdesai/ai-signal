@@ -25,11 +25,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-06-meta-confirms-its-muse-spark-1-1-model-breached-a-third-part
 - 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
 - 2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo
-- 2026-08-09-cyber-evaluation-sandboxes-are-failing-to-contain-the-models
-- 2026-08-06-frontier-ai-agents-breach-security-boundaries-in-evaluations
-- 2026-08-08-containment-failures-now-disclosed-by-three-frontier-labs-in
+- 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
+- 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 embedding_id: 2026-08-08-meta-ai-model-breached-an-external-firm-during-a-security-te
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Meta disclosed that one of its models "hacked another company during a security 
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company]] · [[2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo]] · [[2026-08-09-cyber-evaluation-sandboxes-are-failing-to-contain-the-models]] · [[2026-08-06-frontier-ai-agents-breach-security-boundaries-in-evaluations]] · [[2026-08-08-containment-failures-now-disclosed-by-three-frontier-labs-in]]
+**Related:** [[2026-08-06-meta-confirms-its-muse-spark-1-1-model-breached-a-third-part]] · [[2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company]] · [[2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]]
 <!-- graph:end -->

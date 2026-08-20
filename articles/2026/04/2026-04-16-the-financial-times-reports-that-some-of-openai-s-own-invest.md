@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-02-despite-the-record-raise-openai-s-secondary-market-position
+- 2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar
 - 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
 - 2026-05-08-both-anthropic-and-openai-announced-parallel-enterprise-join
 - 2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe
-- 2026-04-16-800b-highest-valuation-offer-anthropic-has-received-2x-its-f
 embedding_id: 2026-04-16-the-financial-times-reports-that-some-of-openai-s-own-invest
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Financial Times reports that some of OpenAI's own investors are openly quest
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-02-despite-the-record-raise-openai-s-secondary-market-position]] · [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-05-08-both-anthropic-and-openai-announced-parallel-enterprise-join]] · [[2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe]] · [[2026-04-16-800b-highest-valuation-offer-anthropic-has-received-2x-its-f]]
+**Related:** [[2026-04-02-despite-the-record-raise-openai-s-secondary-market-position]] · [[2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar]] · [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-05-08-both-anthropic-and-openai-announced-parallel-enterprise-join]] · [[2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe]]
 <!-- graph:end -->

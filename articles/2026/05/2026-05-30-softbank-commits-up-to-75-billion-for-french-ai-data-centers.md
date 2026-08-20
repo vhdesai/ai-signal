@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-30-softbank-to-invest-up-to-75b-in-french-data-centers
 - 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
 - 2026-07-14-softbank-s-son-says-ai-will-need-5-trillion-a-year-by-2040-c
+- 2026-07-14-softbank-says-ai-could-require-5t-a-year-by-2040-reflection
 - 2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da
-- 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
 embedding_id: 2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers
 event_name: ''
 ---
@@ -36,5 +36,5 @@ At the Choose France 2026 summit, SoftBank announced plans to invest up to €75
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-30-softbank-to-invest-up-to-75b-in-french-data-centers]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-07-14-softbank-s-son-says-ai-will-need-5-trillion-a-year-by-2040-c]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]]
+**Related:** [[2026-05-30-softbank-to-invest-up-to-75b-in-french-data-centers]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-07-14-softbank-s-son-says-ai-will-need-5-trillion-a-year-by-2040-c]] · [[2026-07-14-softbank-says-ai-could-require-5t-a-year-by-2040-reflection]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]]
 <!-- graph:end -->

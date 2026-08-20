@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-umg-and-tiktok-renew-global-licensing-with-ai-governance-at
 - 2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool
-- 2026-08-02-eu-transparency-rules-for-ai-generated-content-take-effect
-- 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
-- 2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal
+- 2026-07-30-xai-sued-over-grok-creating-non-consensual-explicit-imagery
+- 2026-08-02-eu-ai-act-transparency-rules-go-live-for-chatbots-deepfakes
+- 2026-08-03-the-eu-ai-act-has-now-moved-from-theory-to-enforceable-opera
 embedding_id: 2026-05-27-umg-tiktok-deal-becomes-a-de-facto-governance-template-for-a
 event_name: ''
 ---
@@ -37,5 +37,5 @@ UMG-TikTok deal becomes a de facto governance template for AI-generated content 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-27-umg-and-tiktok-renew-global-licensing-with-ai-governance-at]] · [[2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool]] · [[2026-08-02-eu-transparency-rules-for-ai-generated-content-take-effect]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal]]
+**Related:** [[2026-05-27-umg-and-tiktok-renew-global-licensing-with-ai-governance-at]] · [[2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool]] · [[2026-07-30-xai-sued-over-grok-creating-non-consensual-explicit-imagery]] · [[2026-08-02-eu-ai-act-transparency-rules-go-live-for-chatbots-deepfakes]] · [[2026-08-03-the-eu-ai-act-has-now-moved-from-theory-to-enforceable-opera]]
 <!-- graph:end -->

@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc
 - 2026-08-14-anthropic-targets-2t-valuation-with-an-ipo-reportedly-eyed-f
+- 2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi
 - 2026-08-15-anthropic-reportedly-planning-october-ipo-at-up-to-2-trillio
 - 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
 embedding_id: 2026-08-06-amazon-s-stake-in-anthropic-could-top-200b-as-the-startup-ey
@@ -39,5 +40,5 @@ Anthropic plans to go public in October and is reportedly targeting a valuation 
 
 **Entities:** [[Amazon]] · [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc]] · [[2026-08-14-anthropic-targets-2t-valuation-with-an-ipo-reportedly-eyed-f]] · [[2026-08-15-anthropic-reportedly-planning-october-ipo-at-up-to-2-trillio]] · [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]]
+**Related:** [[2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc]] · [[2026-08-14-anthropic-targets-2t-valuation-with-an-ipo-reportedly-eyed-f]] · [[2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi]] · [[2026-08-15-anthropic-reportedly-planning-october-ipo-at-up-to-2-trillio]] · [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]]
 <!-- graph:end -->

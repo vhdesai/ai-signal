@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-17-vertu-tests-demand-for-a-6-880-executive-ai-agent-phone
+- 2026-07-17-vertu-tests-whether-executives-will-pay-6-880-for-an-ai-agen
 - 2026-08-06-reports-detail-openai-s-hardware-device-donut-shaped-300-400
 - 2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents
 - 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
-- 2026-08-03-zenity-raises-125m-series-c-to-secure-and-govern-enterprise
-- 2026-08-04-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents
 embedding_id: 2026-05-28-vertu-launches-ai-foldable-for-ceos-starting-at-6-880
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Luxury phone brand Vertu unveiled an "AI foldable" pitched as a device to "run y
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-reports-detail-openai-s-hardware-device-donut-shaped-300-400]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-and-govern-enterprise]] · [[2026-08-04-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]]
+**Related:** [[2026-07-17-vertu-tests-demand-for-a-6-880-executive-ai-agent-phone]] · [[2026-07-17-vertu-tests-whether-executives-will-pay-6-880-for-an-ai-agen]] · [[2026-08-06-reports-detail-openai-s-hardware-device-donut-shaped-300-400]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]]
 <!-- graph:end -->

@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos
 - 2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro
 - 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
+- 2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale
 - 2026-07-06-vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models
-- 2026-08-05-industry-alliance-drafts-safe-guidelines-for-sharing-ai-inci
 embedding_id: 2026-08-04-red-hat-launches-asago-community-to-automate-ai-governance-f
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Red Hat announced Asago Community, an open source project that maps external gov
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos]] · [[2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro]] · [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]] · [[2026-07-06-vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models]] · [[2026-08-05-industry-alliance-drafts-safe-guidelines-for-sharing-ai-inci]]
+**Related:** [[2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos]] · [[2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro]] · [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]] · [[2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale]] · [[2026-07-06-vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models]]
 <!-- graph:end -->

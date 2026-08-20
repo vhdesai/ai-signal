@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-28-data-centers-may-face-temporary-power-cuts-on-the-largest-us
+- 2026-07-19-ai-enters-the-debate-over-grid-reliability
 - 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-07-25-one-fallen-power-line-exposes-a-growing-ai-data-center-probl
-- 2026-08-11-babcock-wilcox-expands-its-position-in-ai-data-center-power
 embedding_id: 2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A new government-mandated process is expected to accelerate grid connections for
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-28-data-centers-may-face-temporary-power-cuts-on-the-largest-us]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-07-25-one-fallen-power-line-exposes-a-growing-ai-data-center-probl]] · [[2026-08-11-babcock-wilcox-expands-its-position-in-ai-data-center-power]]
+**Related:** [[2026-07-28-data-centers-may-face-temporary-power-cuts-on-the-largest-us]] · [[2026-07-19-ai-enters-the-debate-over-grid-reliability]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-07-25-one-fallen-power-line-exposes-a-growing-ai-data-center-probl]]
 <!-- graph:end -->

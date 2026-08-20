@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea
 - 2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu
 - 2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san
-- 2026-08-07-sk-hynix-commits-roughly-38b-to-two-new-fabs-for-ai-memory
+- 2026-07-06-sk-hynix-launches-28b-us-share-sale-on-ai-memory-demand
 - 2026-08-07-sk-hynix-approves-54-trillion-won-for-two-new-ai-memory-fabs
 embedding_id: 2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p
 event_name: ''
@@ -39,5 +39,5 @@ President Lee Jae Myung unveiled an 800-trillion-won (~$517.9B) national plan to
 
 **Entities:** [[Samsung]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-08-07-sk-hynix-commits-roughly-38b-to-two-new-fabs-for-ai-memory]] · [[2026-08-07-sk-hynix-approves-54-trillion-won-for-two-new-ai-memory-fabs]]
+**Related:** [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-07-06-sk-hynix-launches-28b-us-share-sale-on-ai-memory-demand]] · [[2026-08-07-sk-hynix-approves-54-trillion-won-for-two-new-ai-memory-fabs]]
 <!-- graph:end -->

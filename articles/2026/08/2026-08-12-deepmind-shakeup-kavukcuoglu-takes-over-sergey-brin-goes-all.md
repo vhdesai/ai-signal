@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-12-google-deepmind-leadership-shake-up-kavukcuoglu-takes-over-h
 - 2026-08-12-kavukcuoglu-takes-over-google-deepmind-gemini-app-hits-1b-us
+- 2026-08-12-kavukcuoglu-takes-over-google-deepmind-as-hassabis-moves-to
 - 2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-amid-founder-le
 - 2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-as-hassabis-mov
-- 2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-amid-competitiv
 embedding_id: 2026-08-12-deepmind-shakeup-kavukcuoglu-takes-over-sergey-brin-goes-all
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Koray Kavukcuoglu now leads Google DeepMind as SVP reporting directly to Sundar 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-12-google-deepmind-leadership-shake-up-kavukcuoglu-takes-over-h]] · [[2026-08-12-kavukcuoglu-takes-over-google-deepmind-gemini-app-hits-1b-us]] · [[2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-amid-founder-le]] · [[2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-as-hassabis-mov]] · [[2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-amid-competitiv]]
+**Related:** [[2026-08-12-google-deepmind-leadership-shake-up-kavukcuoglu-takes-over-h]] · [[2026-08-12-kavukcuoglu-takes-over-google-deepmind-gemini-app-hits-1b-us]] · [[2026-08-12-kavukcuoglu-takes-over-google-deepmind-as-hassabis-moves-to]] · [[2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-amid-founder-le]] · [[2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-as-hassabis-mov]]
 <!-- graph:end -->

@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-31-spacex-will-not-remove-all-xai-unpermitted-turbines-until-20
 - 2026-07-31-spacex-won-t-remove-xai-s-unpermitted-colossus-turbines-for
+- 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
 - 2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin
 - 2026-08-07-spacex-s-terafab-ai-chip-plant-will-run-on-natural-gas-not-t
-- 2026-05-14-xai-sued-over-mobile-gas-turbines-at-mississippi-data-center
-- 2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros
 embedding_id: 2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth
 event_name: ''
 ---
@@ -39,5 +39,5 @@ SpaceX said it will not remove all of the unpermitted gas turbines powering xAI 
 
 **Entities:** [[xAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-31-spacex-won-t-remove-xai-s-unpermitted-colossus-turbines-for]] · [[2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin]] · [[2026-08-07-spacex-s-terafab-ai-chip-plant-will-run-on-natural-gas-not-t]] · [[2026-05-14-xai-sued-over-mobile-gas-turbines-at-mississippi-data-center]] · [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]]
+**Related:** [[2026-07-31-spacex-will-not-remove-all-xai-unpermitted-turbines-until-20]] · [[2026-07-31-spacex-won-t-remove-xai-s-unpermitted-colossus-turbines-for]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]] · [[2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin]] · [[2026-08-07-spacex-s-terafab-ai-chip-plant-will-run-on-natural-gas-not-t]]
 <!-- graph:end -->

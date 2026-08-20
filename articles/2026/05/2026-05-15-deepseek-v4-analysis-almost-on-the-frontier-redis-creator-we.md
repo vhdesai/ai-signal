@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-05-02-simon-willison-deepseek-v4-is-almost-on-the-frontier
 - 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
 - 2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud
+- 2026-08-01-axios-reports-that-deepseek-released-v4-flash-a-coding-focus
 embedding_id: 2026-05-15-deepseek-v4-analysis-almost-on-the-frontier-redis-creator-we
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Salvatore Sanfilippo, creator of Redis, published a widely-read technical analys
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-16-salvatore-sanfilippo-creator-of-redis-published-a-nuanced-an]] · [[2026-05-02-simon-willison-deepseek-v4-is-almost-on-the-frontier]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]] · [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]]
+**Related:** [[2026-05-16-salvatore-sanfilippo-creator-of-redis-published-a-nuanced-an]] · [[2026-05-02-simon-willison-deepseek-v4-is-almost-on-the-frontier]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]] · [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]] · [[2026-08-01-axios-reports-that-deepseek-released-v4-flash-a-coding-focus]]
 <!-- graph:end -->

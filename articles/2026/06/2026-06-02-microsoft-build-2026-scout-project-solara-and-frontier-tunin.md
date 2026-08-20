@@ -20,13 +20,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy
-- 2026-06-02-microsoft-launches-scout-agent-agent-365-governance-and-surf
-- event-microsoft-build-2026-microsoft-build-2026-strategic-implications
-- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
+dedupe_status: duplicate
+canonical_article_id: 2026-06-02-microsoft-build-2026-scout-agent-project-solara-and-frontier
+related_article_ids: []
 embedding_id: 2026-06-02-microsoft-build-2026-scout-project-solara-and-frontier-tunin
 event_name: ''
 ---
@@ -40,5 +36,5 @@ Microsoft’s Build keynote delivered three headline product announcements. Scou
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy]] · [[2026-06-02-microsoft-launches-scout-agent-agent-365-governance-and-surf]] · [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]]
+**Canonical:** [[2026-06-02-microsoft-build-2026-scout-agent-project-solara-and-frontier]]
 <!-- graph:end -->

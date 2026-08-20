@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar
 - 2026-08-13-anthropic-investors-anticipate-2-trillion-ipo-decart-acquisi
-- 2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference
 - 2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc
+- 2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference
 - 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
-- 2026-08-14-investors-battle-for-anthropic-shares-on-secondary-markets-a
 embedding_id: 2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Anthropic may seek a valuation above $2T in an autumn listing, with backers mode
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-13-anthropic-investors-anticipate-2-trillion-ipo-decart-acquisi]] · [[2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference]] · [[2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc]] · [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]] · [[2026-08-14-investors-battle-for-anthropic-shares-on-secondary-markets-a]]
+**Related:** [[2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar]] · [[2026-08-13-anthropic-investors-anticipate-2-trillion-ipo-decart-acquisi]] · [[2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc]] · [[2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference]] · [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]]
 <!-- graph:end -->

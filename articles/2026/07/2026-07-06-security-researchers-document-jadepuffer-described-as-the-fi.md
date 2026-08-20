@@ -17,14 +17,9 @@ entities: []
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-06-the-first-ai-run-ransomware-attack-still-needed-a-human
-- 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
-- 2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g
-- 2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec
-- 2026-07-21-daily-ai-news-digest-july-22-2026
+dedupe_status: duplicate
+canonical_article_id: 2026-07-06-researchers-document-jadepuffer-the-first-fully-autonomous-a
+related_article_ids: []
 embedding_id: 2026-07-06-security-researchers-document-jadepuffer-described-as-the-fi
 event_name: ''
 ---
@@ -37,5 +32,5 @@ Security Researchers document "JadePuffer," described as the first fully autonom
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-06-the-first-ai-run-ransomware-attack-still-needed-a-human]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g]] · [[2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec]] · [[2026-07-21-daily-ai-news-digest-july-22-2026]]
+**Canonical:** [[2026-07-06-researchers-document-jadepuffer-the-first-fully-autonomous-a]]
 <!-- graph:end -->

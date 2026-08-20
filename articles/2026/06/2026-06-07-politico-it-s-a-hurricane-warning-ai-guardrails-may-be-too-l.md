@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we
+- 2026-06-10-anthropic-walks-back-policy-that-could-have-sabotaged-ai-res
+- 2026-07-24-ai-guardrails-are-impeding-legitimate-offensive-security-res
 - 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
 - 2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall
-- 2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine
-- 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
-- 2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri
 embedding_id: 2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Politico published a long-form analysis arguing that the window for establishing
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall]] · [[2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine]] · [[2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk]] · [[2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri]]
+**Related:** [[2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we]] · [[2026-06-10-anthropic-walks-back-policy-that-could-have-sabotaged-ai-res]] · [[2026-07-24-ai-guardrails-are-impeding-legitimate-offensive-security-res]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall]]
 <!-- graph:end -->

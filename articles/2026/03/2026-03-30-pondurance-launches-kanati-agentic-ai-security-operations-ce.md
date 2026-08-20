@@ -23,8 +23,8 @@ related_article_ids:
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-soc-products
 - 2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac
 - 2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s
+- 2026-07-27-microsoft-launches-mai-cyber-1-flash-and-project-perception
 - 2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic
-- 2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an
 embedding_id: 2026-03-30-pondurance-launches-kanati-agentic-ai-security-operations-ce
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Pondurance launched Kanati, described as the industry's first Agentic AI SOC, de
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-soc-products]] · [[2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac]] · [[2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s]] · [[2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic]] · [[2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an]]
+**Related:** [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-soc-products]] · [[2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac]] · [[2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s]] · [[2026-07-27-microsoft-launches-mai-cyber-1-flash-and-project-perception]] · [[2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic]]
 <!-- graph:end -->

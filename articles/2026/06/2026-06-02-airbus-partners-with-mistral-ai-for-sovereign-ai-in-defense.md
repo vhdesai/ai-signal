@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e
 - 2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands
+- 2026-07-21-microsoft-and-mistral-expand-partnership-for-regulated-indus
 - 2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air
-- 2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop
-- 2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec
-- 2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f
+- 2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent
 embedding_id: 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Airbus announced a partnership with Mistral AI to deploy sovereign AI across air
 
 **Entities:** [[Mistral]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands]] · [[2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air]] · [[2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop]] · [[2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec]] · [[2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f]]
+**Related:** [[2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e]] · [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands]] · [[2026-07-21-microsoft-and-mistral-expand-partnership-for-regulated-indus]] · [[2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air]] · [[2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent]]
 <!-- graph:end -->

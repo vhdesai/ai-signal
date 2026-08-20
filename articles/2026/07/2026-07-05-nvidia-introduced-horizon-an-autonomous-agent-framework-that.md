@@ -21,8 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-17-nvidia-enpire-platform-enables-ai-agents-to-autonomously-run
 - 2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement
-- 2026-06-29-palantir-announced-a-strategic-initiative-with-nvidia-to-del
+- 2026-06-19-nvidia-s-research-lab-published-details-on-enpire-a-platform
 embedding_id: 2026-07-05-nvidia-introduced-horizon-an-autonomous-agent-framework-that
 event_name: ''
 ---
@@ -36,5 +37,5 @@ NVIDIA introduced HORIZON, an autonomous agent framework that treats each regist
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement]] · [[2026-06-29-palantir-announced-a-strategic-initiative-with-nvidia-to-del]]
+**Related:** [[2026-06-17-nvidia-enpire-platform-enables-ai-agents-to-autonomously-run]] · [[2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement]] · [[2026-06-19-nvidia-s-research-lab-published-details-on-enpire-a-platform]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race-europe-mus
 - 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
-- 2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel
-- 2026-08-13-analysis-export-controls-alone-won-t-decide-the-us-china-ai
+- 2026-08-03-olix-s-financing-is-significant-both-for-its-size-and-for-wh
+- 2026-08-18-ai-s-energy-appetite-sparks-activity-at-nuclear-research-fac
 embedding_id: 2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race
 event_name: ''
 ---
@@ -38,5 +38,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race-europe-mus]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel]] · [[2026-08-13-analysis-export-controls-alone-won-t-decide-the-us-china-ai]]
+**Related:** [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race-europe-mus]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-08-03-olix-s-financing-is-significant-both-for-its-size-and-for-wh]] · [[2026-08-18-ai-s-energy-appetite-sparks-activity-at-nuclear-research-fac]]
 <!-- graph:end -->

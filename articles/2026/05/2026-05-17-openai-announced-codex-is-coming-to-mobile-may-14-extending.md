@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
 - 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
-- 2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop
+- 2026-06-02-openai-extends-codex-beyond-coding-to-finance-banking-and-sa
 embedding_id: 2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending
 event_name: ''
 ---
@@ -42,5 +42,5 @@ OpenAI announced Codex is coming to mobile (May 14), extending its agentic codin
 
 **Entities:** [[Amazon]] · [[Databricks]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-15-openai-announced-that-its-ai-powered-coding-assistant-codex]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]] · [[2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop]]
+**Related:** [[2026-05-15-openai-announced-that-its-ai-powered-coding-assistant-codex]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]] · [[2026-06-02-openai-extends-codex-beyond-coding-to-finance-banking-and-sa]]
 <!-- graph:end -->

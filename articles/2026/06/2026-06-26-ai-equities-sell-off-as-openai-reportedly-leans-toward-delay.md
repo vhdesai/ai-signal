@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-26-openai-reportedly-delays-ipo-as-ai-spending-fears-spark-a-gl
 - 2026-06-26-reported-openai-ipo-delay-triggers-selloff-in-ai-linked-shar
+- 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 - 2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat
 - 2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for
-- 2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers
 embedding_id: 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Global tech stocks fell Friday amid renewed worry over the mounting cost of AI d
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-26-openai-reportedly-delays-ipo-as-ai-spending-fears-spark-a-gl]] · [[2026-06-26-reported-openai-ipo-delay-triggers-selloff-in-ai-linked-shar]] · [[2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat]] · [[2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for]] · [[2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers]]
+**Related:** [[2026-06-26-openai-reportedly-delays-ipo-as-ai-spending-fears-spark-a-gl]] · [[2026-06-26-reported-openai-ipo-delay-triggers-selloff-in-ai-linked-shar]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat]] · [[2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for]]
 <!-- graph:end -->

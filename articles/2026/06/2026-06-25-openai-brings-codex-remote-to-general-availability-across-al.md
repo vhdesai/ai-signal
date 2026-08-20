@@ -22,7 +22,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau
 - 2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access
-- 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
 embedding_id: 2026-06-25-openai-brings-codex-remote-to-general-availability-across-al
 event_name: ''
@@ -37,5 +36,5 @@ OpenAI made Codex Remote generally available on every ChatGPT plan, letting user
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]] · [[2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]]
+**Related:** [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]] · [[2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]]
 <!-- graph:end -->

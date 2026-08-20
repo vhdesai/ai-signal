@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-01-techcrunch-reports-that-google-removed-a-newly-launched-goog
 - 2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl
 - 2026-07-31-google-adds-then-pulls-an-ai-image-generation-feature-in-goo
-- 2026-03-28-today-s-ai-landscape-delivered-a-landmark-weekend-anthropic
 embedding_id: 2026-07-31-google-pulls-earth-ai-feature-one-day-after-launch-amid-misi
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch reports that Google removed a newly launched Google Earth AI feature 
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl]] · [[2026-07-31-google-adds-then-pulls-an-ai-image-generation-feature-in-goo]] · [[2026-03-28-today-s-ai-landscape-delivered-a-landmark-weekend-anthropic]]
+**Related:** [[2026-08-01-techcrunch-reports-that-google-removed-a-newly-launched-goog]] · [[2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl]] · [[2026-07-31-google-adds-then-pulls-an-ai-image-generation-feature-in-goo]]
 <!-- graph:end -->

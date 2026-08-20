@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
 - 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
 - 2026-04-02-academic-research
+- 2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin
 - 2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us
-- 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
 embedding_id: 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A new Stanford study published this week outlines specific dangers associated wi
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]] · [[2026-04-02-academic-research]] · [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]]
+**Related:** [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]] · [[2026-04-02-academic-research]] · [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin]] · [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]]
 <!-- graph:end -->

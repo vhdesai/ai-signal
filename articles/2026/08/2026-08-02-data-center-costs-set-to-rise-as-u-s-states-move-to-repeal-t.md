@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-states-reconsidering-data-center-tax-incentives-adds-a-new-a
 - 2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with
+- 2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi
 - 2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat
-- 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
-- 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
-- 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
+- 2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat
 embedding_id: 2026-08-02-data-center-costs-set-to-rise-as-u-s-states-move-to-repeal-t
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Information reported that data-center costs are set to rise as U.S. states c
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]] · [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]]
+**Related:** [[2026-08-03-states-reconsidering-data-center-tax-incentives-adds-a-new-a]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]] · [[2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi]] · [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]] · [[2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat]]
 <!-- graph:end -->

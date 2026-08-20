@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 - 2026-05-04-mit-students-build-a-wearable-ai-human-operator-that-drives
 embedding_id: 2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil
@@ -35,5 +36,5 @@ MIT engineers unveiled an adaptive physical-therapy system that uses generative 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-05-04-mit-students-build-a-wearable-ai-human-operator-that-drives]]
+**Related:** [[2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-05-04-mit-students-build-a-wearable-ai-human-operator-that-drives]]
 <!-- graph:end -->

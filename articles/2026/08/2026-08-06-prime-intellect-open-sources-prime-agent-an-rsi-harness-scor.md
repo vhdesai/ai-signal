@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-06-prime-intellect-releases-prime-agent-a-self-improving-harnes
 - 2026-08-06-prime-intellect-releases-prime-agent-an-open-source-recursiv
 - 2026-08-05-prime-intellect-s-open-source-prime-agent-scores-95-5-on-arc
-- 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
+- 2026-08-14-deepseek-open-sources-harness-a-modular-agent-runtime
 embedding_id: 2026-08-06-prime-intellect-open-sources-prime-agent-an-rsi-harness-scor
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Prime Intellect released Prime Agent under an MIT license, a self-improving codi
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-06-prime-intellect-releases-prime-agent-a-self-improving-harnes]] · [[2026-08-06-prime-intellect-releases-prime-agent-an-open-source-recursiv]] · [[2026-08-05-prime-intellect-s-open-source-prime-agent-scores-95-5-on-arc]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]]
+**Related:** [[2026-08-06-prime-intellect-releases-prime-agent-a-self-improving-harnes]] · [[2026-08-06-prime-intellect-releases-prime-agent-an-open-source-recursiv]] · [[2026-08-05-prime-intellect-s-open-source-prime-agent-scores-95-5-on-arc]] · [[2026-08-14-deepseek-open-sources-harness-a-modular-agent-runtime]]
 <!-- graph:end -->

@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control
 - 2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet
 - 2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod
 embedding_id: 2026-08-11-nvidia-is-trying-to-develop-the-world-s-best-open-source-ai
@@ -35,5 +36,5 @@ Nvidia pouring investment into an ambitious in-house AI model that it hopes driv
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet]] · [[2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod]]
+**Related:** [[2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control]] · [[2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet]] · [[2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod]]
 <!-- graph:end -->

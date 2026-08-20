@@ -20,10 +20,9 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-25-china-s-cxmt-debuts-on-shanghai-s-star-market-with-an-8-6b-r
+dedupe_status: duplicate
+canonical_article_id: 2026-08-14-china-s-cxmt-nears-intel-s-market-cap-becoming-one-of-the-wo
+related_article_ids: []
 embedding_id: 2026-08-14-china-s-cxmt-nears-intel-s-market-cap-rivaling-world-s-most
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Chinese memory chipmaker ChangXin Memory Technologies (CXMT) has reached a marke
 
 **Entities:** [[Intel]] · [[Tencent]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-25-china-s-cxmt-debuts-on-shanghai-s-star-market-with-an-8-6b-r]]
+**Canonical:** [[2026-08-14-china-s-cxmt-nears-intel-s-market-cap-becoming-one-of-the-wo]]
 <!-- graph:end -->

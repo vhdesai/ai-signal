@@ -18,14 +18,9 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-14-deepseek-weighs-a-second-raise-in-two-months-at-a-71b-pre-mo
-- 2026-07-13-deepseek-in-talks-to-raise-fresh-funds-at-a-71b-valuation
-- 2026-04-20-reuters-the-information-april-18-19-2026-deepseek-is-targeti
-- 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
-- 2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round
+dedupe_status: duplicate
+canonical_article_id: 2026-08-06-deepseek-restarts-8b-raise-and-plans-significant-api-price-i
+related_article_ids: []
 embedding_id: 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
 event_name: ''
 ---
@@ -39,5 +34,5 @@ DeepSeek has reopened a funding round seeking close to $8 billion at a pre-money
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-14-deepseek-weighs-a-second-raise-in-two-months-at-a-71b-pre-mo]] · [[2026-07-13-deepseek-in-talks-to-raise-fresh-funds-at-a-71b-valuation]] · [[2026-04-20-reuters-the-information-april-18-19-2026-deepseek-is-targeti]] · [[2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in]] · [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]]
+**Canonical:** [[2026-08-06-deepseek-restarts-8b-raise-and-plans-significant-api-price-i]]
 <!-- graph:end -->

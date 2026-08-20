@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
 - 2026-06-29-princeton-researchers-introduced-ceo-bench-which-drops-an-ai
 - 2026-06-21-kevin-o-leary-says-portfolio-companies-are-bypassing-consult
-- 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
-- 2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep
-- 2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon
+- 2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl
+- 2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin
 embedding_id: 2026-05-28-bcg-ceo-ai-is-changing-how-consultants-get-paid-and-much-mor
 event_name: ''
 ---
@@ -37,5 +37,5 @@ In a feature interview, BCG CEO Christoph Schweizer told the WSJ that AI is resh
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-29-princeton-researchers-introduced-ceo-bench-which-drops-an-ai]] · [[2026-06-21-kevin-o-leary-says-portfolio-companies-are-bypassing-consult]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon]]
+**Related:** [[2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending]] · [[2026-06-29-princeton-researchers-introduced-ceo-bench-which-drops-an-ai]] · [[2026-06-21-kevin-o-leary-says-portfolio-companies-are-bypassing-consult]] · [[2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl]] · [[2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin]]
 <!-- graph:end -->

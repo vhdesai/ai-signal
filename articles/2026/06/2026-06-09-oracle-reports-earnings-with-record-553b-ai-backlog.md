@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-10-oracle-reports-record-q4-oci-revenue-surges-93-yoy-ai-backlo
+- 2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-spending-guidance-spo
+- 2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-capex-guidance-spooke
 - 2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y
 - 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
-- 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
-- 2026-06-22-oracle-discloses-21-000-job-cuts-over-12-months-citing-ai-ad
-- 2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny
 embedding_id: 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Oracle reports Q4 earnings with a record $553 billion AI backlog. Barron's noted
 
 **Entities:** [[Oracle]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-06-22-oracle-discloses-21-000-job-cuts-over-12-months-citing-ai-ad]] · [[2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny]]
+**Related:** [[2026-06-10-oracle-reports-record-q4-oci-revenue-surges-93-yoy-ai-backlo]] · [[2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-spending-guidance-spo]] · [[2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-capex-guidance-spooke]] · [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]]
 <!-- graph:end -->

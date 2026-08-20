@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-23-google-docs-live-ai-voice-drafting-tool-moves-toward-summer
 - 2026-07-30-linkedin-adds-a-seems-like-ai-slop-report-button-and-swaps-i
+- 2026-08-03-your-next-sermon-might-be-written-by-chatgpt
 - 2026-07-14-waze-adds-ai-powered-voice-incident-reporting
 - 2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models
-- 2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t
 embedding_id: 2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The WSJ daily roundup highlights a hands-on review of Google's new voice-driven 
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-google-docs-live-ai-voice-drafting-tool-moves-toward-summer]] · [[2026-07-30-linkedin-adds-a-seems-like-ai-slop-report-button-and-swaps-i]] · [[2026-07-14-waze-adds-ai-powered-voice-incident-reporting]] · [[2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models]] · [[2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t]]
+**Related:** [[2026-05-23-google-docs-live-ai-voice-drafting-tool-moves-toward-summer]] · [[2026-07-30-linkedin-adds-a-seems-like-ai-slop-report-button-and-swaps-i]] · [[2026-08-03-your-next-sermon-might-be-written-by-chatgpt]] · [[2026-07-14-waze-adds-ai-powered-voice-incident-reporting]] · [[2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models]]
 <!-- graph:end -->

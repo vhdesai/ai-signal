@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-24-amd-unveils-helios-rack-scale-ai-system-to-challenge-nvidia
+- 2026-07-24-amd-unveils-helios-rack-scale-ai-system-at-advancing-ai-2026
+- 2026-07-23-amd-takes-on-nvidia-with-helios-rack-scale-ai-system
+- 2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-its-own-chip-de
 - 2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu
-- 2026-08-04-nvidia-pushes-ai-storage-stack-at-future-of-memory-and-stora
-- 2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally
-- 2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play
-- 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
 embedding_id: 2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Intel introduced rack-scale AI infrastructure for agentic and inference workload
 
 **Entities:** [[Intel]] · [[NVIDIA]] · [[Scale AI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu]] · [[2026-08-04-nvidia-pushes-ai-storage-stack-at-future-of-memory-and-stora]] · [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally]] · [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]]
+**Related:** [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-to-challenge-nvidia]] · [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-at-advancing-ai-2026]] · [[2026-07-23-amd-takes-on-nvidia-with-helios-rack-scale-ai-system]] · [[2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-its-own-chip-de]] · [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu]]
 <!-- graph:end -->

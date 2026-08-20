@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-02-trending-nvidia-backs-marvell-nvlink-fusion-with-2b-commitme
+- 2026-06-02-jensen-huang-says-marvell-could-be-the-next-trillion-dollar
 - 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
+- 2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil
 - 2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv
-- 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
-- 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
 embedding_id: 2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia announced a $2B strategic investment in Marvell Technology with a NVLink 
 
 **Entities:** [[NVIDIA]] · [[Scale AI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-02-trending-nvidia-backs-marvell-nvlink-fusion-with-2b-commitme]] · [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]] · [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]]
+**Related:** [[2026-04-02-trending-nvidia-backs-marvell-nvlink-fusion-with-2b-commitme]] · [[2026-06-02-jensen-huang-says-marvell-could-be-the-next-trillion-dollar]] · [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]] · [[2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil]] · [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]]
 <!-- graph:end -->

@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-17-pro-ai-and-ai-safety-groups-prepare-for-midterm-policy-fight
+- 2026-07-22-anthropic-doubles-midterm-spending-to-push-ai-regulation
+- 2026-07-17-pro-ai-and-ai-safety-groups-prepare-major-midterm-spending
 - 2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s
-- 2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202
-- 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
-- 2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake
-- 2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b
+- 2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it
 embedding_id: 2026-05-01-ai-regulation-proxy-war-crypto-investor-spends-3-5m-backing
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Ripple Labs investor and executive Chris Larsen plans to spend $3.5 million to s
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]] · [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake]] · [[2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b]]
+**Related:** [[2026-07-17-pro-ai-and-ai-safety-groups-prepare-for-midterm-policy-fight]] · [[2026-07-22-anthropic-doubles-midterm-spending-to-push-ai-regulation]] · [[2026-07-17-pro-ai-and-ai-safety-groups-prepare-major-midterm-spending]] · [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]] · [[2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it]]
 <!-- graph:end -->

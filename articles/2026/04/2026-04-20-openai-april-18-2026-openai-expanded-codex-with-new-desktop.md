@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
 - 2026-05-15-openai-announced-that-its-ai-powered-coding-assistant-codex
 - 2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending
-- 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
+- 2026-06-02-openai-extends-codex-beyond-coding-to-finance-banking-and-sa
 embedding_id: 2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI • April 18, 2026 OpenAI expanded Codex with new desktop-agent capabilit
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-15-openai-announced-that-its-ai-powered-coding-assistant-codex]] · [[2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending]] · [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]]
+**Related:** [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-15-openai-announced-that-its-ai-powered-coding-assistant-codex]] · [[2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending]] · [[2026-06-02-openai-extends-codex-beyond-coding-to-finance-banking-and-sa]]
 <!-- graph:end -->

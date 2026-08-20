@@ -23,7 +23,6 @@ related_article_ids:
 - 2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe
 - 2026-08-02-eu-transparency-rules-for-ai-generated-content-take-effect
 - 2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare
-- 2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out
 embedding_id: 2026-08-04-eu-ai-act-article-50-transparency-obligations-now-enforceabl
 event_name: ''
 ---
@@ -36,5 +35,5 @@ The EU began enforcing Article 50 of the AI Act as of August 2, requiring provid
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-03-23-eu-ai-act-article-50-transparency-rules-take-effect]] · [[2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe]] · [[2026-08-02-eu-transparency-rules-for-ai-generated-content-take-effect]] · [[2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare]] · [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]]
+**Related:** [[2026-08-03-23-eu-ai-act-article-50-transparency-rules-take-effect]] · [[2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe]] · [[2026-08-02-eu-transparency-rules-for-ai-generated-content-take-effect]] · [[2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare]]
 <!-- graph:end -->

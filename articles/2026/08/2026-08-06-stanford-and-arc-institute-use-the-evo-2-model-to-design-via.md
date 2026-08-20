@@ -18,14 +18,10 @@ entities: []
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop
 related_article_ids:
 - 2026-08-06-stanford-s-evo-2-model-designs-a-functional-bacteriophage-th
-- 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
-- 2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against
-- 2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in
-- 2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr
 embedding_id: 2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via
 event_name: ''
 ---
@@ -38,5 +34,6 @@ Researchers at Stanford and the Arc Institute used the Evo 2 genome language mod
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-06-stanford-s-evo-2-model-designs-a-functional-bacteriophage-th]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against]] · [[2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in]] · [[2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr]]
+**Canonical:** [[2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop]]
+**Related:** [[2026-08-06-stanford-s-evo-2-model-designs-a-functional-bacteriophage-th]]
 <!-- graph:end -->

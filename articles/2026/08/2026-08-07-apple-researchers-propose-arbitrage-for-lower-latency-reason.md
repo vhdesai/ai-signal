@@ -25,7 +25,6 @@ related_article_ids:
 - 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
-- 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
 embedding_id: 2026-08-07-apple-researchers-propose-arbitrage-for-lower-latency-reason
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Apple published ARBITRAGE, a step-level speculative generation framework that dy
 
 **Entities:** [[Apple]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-24-apple-proposes-lead-to-address-long-horizon-reasoning-failur]] · [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]]
+**Related:** [[2026-07-24-apple-proposes-lead-to-address-long-horizon-reasoning-failur]] · [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]]
 <!-- graph:end -->

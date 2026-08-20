@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai
+- 2026-07-20-nvidia-releases-cosmos-3-edge-for-on-device-physical-ai
 - 2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica
+- 2026-07-16-nvidia-unveils-cosmos-3-edge-and-expands-its-japan-physical
 - 2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens
-- 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
 embedding_id: 2026-08-06-nvidia-details-cosmos-3-an-open-world-model-family-for-physi
 event_name: ''
 ---
@@ -38,5 +39,5 @@ NVIDIA introduced Cosmos 3, described as “a frontier open physical AI foundati
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai]] · [[2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica]] · [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]]
+**Related:** [[2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai]] · [[2026-07-20-nvidia-releases-cosmos-3-edge-for-on-device-physical-ai]] · [[2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica]] · [[2026-07-16-nvidia-unveils-cosmos-3-edge-and-expands-its-japan-physical]] · [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]]
 <!-- graph:end -->

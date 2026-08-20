@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-17-alibaba-releases-happyshrimp-1-0-an-end-to-end-ai-music-gene
+- 2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l
 - 2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic
+- 2026-07-21-alibaba-launches-qwen-image-3-0-without-benchmarks-or-open-w
 - 2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age
-- 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
-- 2026-05-27-trending-stability-ai-releases-the-stable-audio-3-family-of
 embedding_id: 2026-08-17-alibaba-releases-ai-music-model-happyshrimp-1-0
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Alibaba put its HappyShrimp 1.0 music model into beta, supporting end-to-end son
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-17-alibaba-releases-happyshrimp-1-0-an-end-to-end-ai-music-gene]] · [[2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic]] · [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-05-27-trending-stability-ai-releases-the-stable-audio-3-family-of]]
+**Related:** [[2026-08-17-alibaba-releases-happyshrimp-1-0-an-end-to-end-ai-music-gene]] · [[2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l]] · [[2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic]] · [[2026-07-21-alibaba-launches-qwen-image-3-0-without-benchmarks-or-open-w]] · [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age]]
 <!-- graph:end -->

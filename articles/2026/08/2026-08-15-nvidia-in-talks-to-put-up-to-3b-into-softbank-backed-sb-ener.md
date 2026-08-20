@@ -19,7 +19,7 @@ themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-15-nvidia-in-talks-to-invest-3b-in-softbank-s-sb-energy-for-ope
+canonical_article_id: 2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai
 related_article_ids: []
 embedding_id: 2026-08-15-nvidia-in-talks-to-put-up-to-3b-into-softbank-backed-sb-ener
 event_name: ''
@@ -34,5 +34,5 @@ Nvidia is discussing an investment of as much as $3 billion in SB Energy, the So
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Canonical:** [[2026-08-15-nvidia-in-talks-to-invest-3b-in-softbank-s-sb-energy-for-ope]]
+**Canonical:** [[2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai]]
 <!-- graph:end -->

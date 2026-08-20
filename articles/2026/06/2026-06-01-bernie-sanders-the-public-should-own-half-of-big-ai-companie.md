@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
 - 2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau
 - 2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea
+- 2026-06-18-trump-administration-split-on-taking-equity-stakes-in-ai-gia
 - 2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake
-- 2026-07-02-openai-floats-handing-the-us-government-a-5-stake-to-ease-wa
 embedding_id: 2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie
 event_name: ''
 ---
@@ -36,5 +36,5 @@ In a New York Times op-ed, Senator Bernie Sanders argued that the public should 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau]] · [[2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea]] · [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake]] · [[2026-07-02-openai-floats-handing-the-us-government-a-5-stake-to-ease-wa]]
+**Related:** [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau]] · [[2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea]] · [[2026-06-18-trump-administration-split-on-taking-equity-stakes-in-ai-gia]] · [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake]]
 <!-- graph:end -->

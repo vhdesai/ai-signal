@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-11-at-a-secret-location-in-southern-germany-the-manager-of-a-dr
 - 2026-07-11-but-few-believe-the-demand-for-unmanned-warfare-will-subside
 - 2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already
-- 2026-07-11-for-investors-helsing-s-key-advantage-comes-from-its-role-in
+- 2026-07-20-anduril-and-archer-unveil-thunder-a-jointly-developed-autono
 embedding_id: 2026-07-11-helsing-s-next-innovation-sits-on-a-sunbaked-airfield-90-min
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Helsing's next innovation sits on a sunbaked airfield 90 minutes by car west of 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-11-the-aim-is-simple-for-a-small-fraction-of-the-cost-of-one-re]] · [[2026-07-11-at-a-secret-location-in-southern-germany-the-manager-of-a-dr]] · [[2026-07-11-but-few-believe-the-demand-for-unmanned-warfare-will-subside]] · [[2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already]] · [[2026-07-11-for-investors-helsing-s-key-advantage-comes-from-its-role-in]]
+**Related:** [[2026-07-11-the-aim-is-simple-for-a-small-fraction-of-the-cost-of-one-re]] · [[2026-07-11-at-a-secret-location-in-southern-germany-the-manager-of-a-dr]] · [[2026-07-11-but-few-believe-the-demand-for-unmanned-warfare-will-subside]] · [[2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already]] · [[2026-07-20-anduril-and-archer-unveil-thunder-a-jointly-developed-autono]]
 <!-- graph:end -->

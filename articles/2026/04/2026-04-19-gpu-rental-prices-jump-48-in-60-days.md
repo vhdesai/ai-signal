@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-15-nvidia-server-marketplace-startup-raises-100m-at-800m-valuat
 - 2026-08-12-ai-cloud-pricing-hits-record-highs-as-neoclouds-auction-comp
 - 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
+- 2026-08-17-nvidia-guarantees-105b-in-leases-for-openai-s-ohio-data-cent
 - 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
-- 2026-08-17-nvidia-guarantees-up-to-105b-in-financing-for-openai-s-ohio
-- 2026-07-27-nvidia-in-talks-to-backstop-250b-for-openai-s-500b-10-gigawa
 embedding_id: 2026-04-19-gpu-rental-prices-jump-48-in-60-days
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA Blackwell rental rates climbed from ~$2.75 to ~$4.08/hour over two months
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-ai-cloud-pricing-hits-record-highs-as-neoclouds-auction-comp]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-08-17-nvidia-guarantees-up-to-105b-in-financing-for-openai-s-ohio]] · [[2026-07-27-nvidia-in-talks-to-backstop-250b-for-openai-s-500b-10-gigawa]]
+**Related:** [[2026-06-15-nvidia-server-marketplace-startup-raises-100m-at-800m-valuat]] · [[2026-08-12-ai-cloud-pricing-hits-record-highs-as-neoclouds-auction-comp]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]] · [[2026-08-17-nvidia-guarantees-105b-in-leases-for-openai-s-ohio-data-cent]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi
+- 2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
+- 2026-07-30-xai-sued-over-grok-creating-non-consensual-explicit-imagery
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
-- 2026-03-28-the-european-parliament-passed-a-resolution-banning-ai-appli
-- 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 embedding_id: 2026-05-28-amnesty-says-major-generative-ai-data-pipelines-are-privacy
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Amnesty International argued that enormous data pipelines powering major generat
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi]] · [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-03-28-the-european-parliament-passed-a-resolution-banning-ai-appli]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]]
+**Related:** [[2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi]] · [[2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn]] · [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-07-30-xai-sued-over-grok-creating-non-consensual-explicit-imagery]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]]
 <!-- graph:end -->

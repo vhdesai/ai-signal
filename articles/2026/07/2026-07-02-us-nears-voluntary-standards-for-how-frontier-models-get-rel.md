@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin
 - 2026-07-31-europe-s-ai-safety-playbook-looms-over-the-u-s-framework-due
-- 2026-08-05-white-house-frontier-model-review-framework-exempts-open-wei
+- 2026-08-18-uk-assesses-economic-exposure-to-losing-access-to-foreign-fr
 - 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
 - 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 embedding_id: 2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel
@@ -40,5 +40,5 @@ The US government is negotiating voluntary standards with AI companies governing
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]] · [[2026-07-31-europe-s-ai-safety-playbook-looms-over-the-u-s-framework-due]] · [[2026-08-05-white-house-frontier-model-review-framework-exempts-open-wei]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]]
+**Related:** [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]] · [[2026-07-31-europe-s-ai-safety-playbook-looms-over-the-u-s-framework-due]] · [[2026-08-18-uk-assesses-economic-exposure-to-losing-access-to-foreign-fr]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]]
 <!-- graph:end -->

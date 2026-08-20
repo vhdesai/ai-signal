@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
+- 2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic
 - 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
-- 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
-- 2026-07-06-what-billions-of-ai-predictions-taught-expedia-before-the-ag
-- 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
-- 2026-05-14-enterprise-ai-governance-tools-outpace-policy-marktechpost-m
+- 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
+- 2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale
 embedding_id: 2026-07-06-vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Vercel's CEO argued that production AI architecture is separating model access f
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-07-06-what-billions-of-ai-predictions-taught-expedia-before-the-ag]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-05-14-enterprise-ai-governance-tools-outpace-policy-marktechpost-m]]
+**Related:** [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]] · [[2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale]]
 <!-- graph:end -->

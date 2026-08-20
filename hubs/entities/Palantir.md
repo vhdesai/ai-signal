@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 118
+member_count: 126
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 118 connected article(s).
+> Auto-generated entity hub. 126 connected article(s).
 
+- `2026-08-18` [[2026-08-18-google-says-its-ai-can-automate-forward-deployed-engineers-w|Google Says Its AI Can Automate Forward Deployed Engineers' Work]]
 - `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
+- `2026-08-16` [[2026-08-16-silver-lake-workday-talks-signal-potential-end-to-ai-driven|Silver Lake-Workday Talks Signal Potential End to AI-Driven SaaS Sell-off]]
 - `2026-08-15` [[2026-08-15-palantir-in-focus-as-ai-software-demand-and-guidance-climb|Palantir in Focus as AI-Software Demand and Guidance Climb]]
 - `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
 - `2026-08-13` [[2026-08-13-draft-pentagon-memo-directs-up-to-244m-to-palantir-without-c|Draft Pentagon Memo Directs Up to $244M to Palantir Without Competition]]
@@ -24,10 +26,13 @@ member_count: 118
 - `2026-08-06` [[2026-08-06-nvidia-assembles-new-ai-safety-engineering-team-doubles-down|Nvidia Assembles New AI Safety Engineering Team, Doubles Down on Open-Weight Models]]
 - `2026-08-05` [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges|Palantir posts a Q2 2026 blowout: revenue up 93%, stock surges roughly 29%]]
 - `2026-08-05` [[2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand|Palantir lifts 2026 guidance as AI-driven commercial demand accelerates]]
+- `2026-08-05` [[2026-08-05-eu-digital-omnibus-on-ai-delays-key-ai-act-deadlines|EU Digital Omnibus on AI delays key AI Act deadlines]]
 - `2026-08-04` [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments|Palantir stock jumps 16% after Q2 blowout as AIP deployments scale]]
 - `2026-08-04` [[2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump|Palantir Stock Surges as U.S. Enterprise AI Sales Jump]]
 - `2026-08-04` [[2026-08-04-palantir-q2-revenue-grows-93-as-ai-sovereignty-demand-drives|Palantir Q2 Revenue Grows 93% as "AI Sovereignty" Demand Drives 29% Stock Surge]]
 - `2026-08-04` [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g|Open-weight models close the frontier gap while the safety gap persists]]
+- `2026-08-04` [[2026-08-04-dow-hits-54-000-as-palantir-surges-and-the-ai-trade-roars-ba|Dow Hits 54,000 as Palantir Surges and the AI Trade Roars Back]]
+- `2026-08-03` [[2026-08-03-your-next-sermon-might-be-written-by-chatgpt|Your Next Sermon Might Be Written by ChatGPT]]
 - `2026-08-03` [[2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s|Palantir CEO Alex Karp calls the AI industry "Marxist" after strong quarter]]
 - `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
 - `2026-08-03` [[2026-08-03-10-palantir-posts-blowout-q2-2026-on-surging-ai-demand|10. Palantir posts blowout Q2 2026 on surging AI demand]]
@@ -39,6 +44,7 @@ member_count: 118
 - `2026-07-28` [[2026-07-28-palantir-faces-growing-european-backlash-over-dependence|Palantir faces growing European backlash over dependence]]
 - `2026-07-27` [[2026-07-27-nvidia-spacex-microsoft-palantir-launch-open-secure-ai-allia|Nvidia, SpaceX, Microsoft & Palantir launch Open Secure AI Alliance]]
 - `2026-07-27` [[2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu|Nvidia, Microsoft, SpaceX, Palantir and IBM launch an “Open Secure AI Alliance” — without OpenAI, Google or Anthropic]]
+- `2026-07-27` [[2026-07-27-nvidia-forms-37-member-open-secure-ai-alliance-and-open-sour|Nvidia Forms 37-Member Open Secure AI Alliance and Open-Sources the NOOA Framework]]
 - `2026-07-27` [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance|NVIDIA and partners launch Open Secure AI Alliance]]
 - `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
 - `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
@@ -46,6 +52,8 @@ member_count: 118
 - `2026-07-25` [[2026-07-25-nvidia-s-open-weights-letter-expands-to-50-signatories|Nvidia’s open-weights letter expands to 50 signatories]]
 - `2026-07-25` [[2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-as-op|Nvidia's “Open Weights” letter doubles to 50 signatories as OpenAI and Google sign on]]
 - `2026-07-25` [[2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-opena|Nvidia's "Open Weights" Letter Doubles to 50 Signatories; OpenAI and Google Sign On]]
+- `2026-07-24` [[2026-07-24-more-than-20-tech-companies-urge-washington-not-to-restrict|More than 20 tech companies urge Washington not to restrict open-weight AI]]
+- `2026-07-24` [[2026-07-24-20-tech-companies-urge-u-s-against-broad-open-weight-restric|20+ Tech Companies Urge U.S. Against Broad Open-Weight Restrictions]]
 - `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
 - `2026-07-13` [[2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model|Satya Nadella warns enterprises about dependence on AI model labs]]

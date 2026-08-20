@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-10-new-warning-in-race-to-superintelligence
 - 2026-07-09-new-warning-in-race-to-superintelligence
 - 2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash
-- 2026-07-24-white-house-draws-new-ai-line-on-china
+- 2026-07-20-ai-is-supercharging-drug-development
 embedding_id: 2026-07-12-new-warning-in-race-to-superintelligence
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Axios AI+ continued to feature the AI Futures Project’s “AI 2040” proposal
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-11-new-warning-in-race-to-superintelligence]] · [[2026-07-10-new-warning-in-race-to-superintelligence]] · [[2026-07-09-new-warning-in-race-to-superintelligence]] · [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]] · [[2026-07-24-white-house-draws-new-ai-line-on-china]]
+**Related:** [[2026-07-11-new-warning-in-race-to-superintelligence]] · [[2026-07-10-new-warning-in-race-to-superintelligence]] · [[2026-07-09-new-warning-in-race-to-superintelligence]] · [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]] · [[2026-07-20-ai-is-supercharging-drug-development]]
 <!-- graph:end -->

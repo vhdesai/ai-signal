@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 - 2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
-- 2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative
+- 2026-08-01-anthropic-published-a-project-glasswing-update-describing-cl
 embedding_id: 2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Anthropic launched Project Glasswing on April 7 — a coordinated initiative mak
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Google]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]] · [[2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative]]
+**Related:** [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]] · [[2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-08-01-anthropic-published-a-project-glasswing-update-describing-cl]]
 <!-- graph:end -->

@@ -24,6 +24,7 @@ canonical_article_id: 2026-08-11-ltx-2-5-launches-as-an-open-weights-nvidia-acce
 related_article_ids:
 - 2026-08-11-ltx-2-5-launches-as-open-weights-video-model-10-second-clips
 - 2026-08-11-ltx-2-5-open-weights-video-generation-10-second-clips-in-6-8
+- 2026-08-11-ltx-2-5-open-weights-video-generation-model-10-second-clips
 - 2026-08-11-ltx-2-5-launches-as-an-nvidia-accelerated-open-weights-world
 embedding_id: 2026-08-11-ltx-2-5-launches-as-an-open-weights-video-model-generating-1
 event_name: ''
@@ -39,5 +40,5 @@ LTX-2.5 shipped as an NVIDIA-accelerated open-weights video generation model, pr
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-08-11-ltx-2-5-launches-as-an-open-weights-nvidia-accelerated-world]]
-**Related:** [[2026-08-11-ltx-2-5-launches-as-open-weights-video-model-10-second-clips]] · [[2026-08-11-ltx-2-5-open-weights-video-generation-10-second-clips-in-6-8]] · [[2026-08-11-ltx-2-5-launches-as-an-nvidia-accelerated-open-weights-world]]
+**Related:** [[2026-08-11-ltx-2-5-launches-as-open-weights-video-model-10-second-clips]] · [[2026-08-11-ltx-2-5-open-weights-video-generation-10-second-clips-in-6-8]] · [[2026-08-11-ltx-2-5-open-weights-video-generation-model-10-second-clips]] · [[2026-08-11-ltx-2-5-launches-as-an-nvidia-accelerated-open-weights-world]]
 <!-- graph:end -->

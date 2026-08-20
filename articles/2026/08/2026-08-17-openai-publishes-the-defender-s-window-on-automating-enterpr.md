@@ -22,10 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-17-openai-s-greg-brockman-argues-the-defender-s-window-for-ai-a
+- 2026-08-18-openai-president-urges-enterprises-to-hasten-ai-security-def
+- 2026-08-17-openai-president-greg-brockman-to-publish-essay-on-ai-cybers
 - 2026-07-04-openai-president-greg-brockman-made-the-case-for-a-future-wi
-- 2026-08-02-attackers-target-open-source-ai-as-big-tech-embraces-it
-- 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
-- 2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli
 embedding_id: 2026-08-17-openai-publishes-the-defender-s-window-on-automating-enterpr
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Greg Brockman argues that AI is compressing the window in which defenders can re
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-17-openai-s-greg-brockman-argues-the-defender-s-window-for-ai-a]] · [[2026-07-04-openai-president-greg-brockman-made-the-case-for-a-future-wi]] · [[2026-08-02-attackers-target-open-source-ai-as-big-tech-embraces-it]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli]]
+**Related:** [[2026-08-17-openai-s-greg-brockman-argues-the-defender-s-window-for-ai-a]] · [[2026-08-18-openai-president-urges-enterprises-to-hasten-ai-security-def]] · [[2026-08-17-openai-president-greg-brockman-to-publish-essay-on-ai-cybers]] · [[2026-07-04-openai-president-greg-brockman-made-the-case-for-a-future-wi]]
 <!-- graph:end -->

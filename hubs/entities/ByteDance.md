@@ -1,27 +1,36 @@
 ---
 type: entity-hub
 hub: ByteDance
-member_count: 66
+member_count: 77
 ---
 
 # ByteDance
 
-> Auto-generated entity hub. 66 connected article(s).
+> Auto-generated entity hub. 77 connected article(s).
 
+- `2026-08-19` [[2026-08-19-china-allows-bytedance-and-tencent-to-import-10-000-nvidia-h|China allows ByteDance and Tencent to import ~10,000 Nvidia H200 chips each]]
 - `2026-08-17` [[2026-08-17-bytedance-tsinghua-cuda-agent-for-gpu-kernel-generation|ByteDance/Tsinghua: CUDA Agent for GPU Kernel Generation]]
+- `2026-08-17` [[2026-08-17-bytedance-seed-and-tsinghua-introduce-cuda-agent-for-gpu-ker|ByteDance Seed and Tsinghua Introduce CUDA Agent for GPU Kernel Generation]]
 - `2026-08-17` [[2026-08-17-bytedance-seed-and-tsinghua-air-introduce-cuda-agent-for-gpu|ByteDance Seed and Tsinghua AIR introduce CUDA Agent for GPU kernel generation]]
-- `2026-08-10` [[2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te|Beijing’s companion-app rules force ByteDance, Alibaba, and Tencent to pull AI companions]]
+- `2026-08-10` [[2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te|Beijing's Companion-App Rules Force ByteDance, Alibaba, and Tencent to Pull AI Companions]]
 - `2026-08-10` [[2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp|Beijing Forces ByteDance, Alibaba, and Tencent to Pull AI Companion Apps]]
 - `2026-08-09` [[2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real|Race to Full-Duplex: NVIDIA and ByteDance Ship Competing Real-Time Voice Architectures]]
 - `2026-08-09` [[2026-08-09-bytedance-introduces-seedrealtime-native-audio-visual-full-d|ByteDance Introduces SeedRealtime — Native Audio-Visual Full-Duplex LLM]]
-- `2026-08-07` [[2026-08-07-bytedance-reportedly-pre-training-a-model-of-up-to-10-trilli|ByteDance Reportedly Pre-Training a Model of Up to 10 Trillion Parameters]]
+- `2026-08-07` [[2026-08-07-nvidia-backed-firmus-raises-2b-at-10-5b-valuation|Nvidia-backed Firmus raises $2B at $10.5B valuation]]
+- `2026-08-07` [[2026-08-07-bytedance-reportedly-pre-training-a-model-of-up-to-10-trilli|ByteDance reportedly pre-training a model of up to 10 trillion parameters]]
 - `2026-08-07` [[2026-08-07-bytedance-reportedly-pre-training-a-10-trillion-parameter-mo|ByteDance Reportedly Pre-Training a 10-Trillion-Parameter Model]]
+- `2026-08-05` [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc|WSJ Wealth Adviser: Tech Giants' AI Spending Under the Microscope]]
+- `2026-08-05` [[2026-08-05-bytedance-founder-rules-out-distillation-on-ai-models|ByteDance Founder Rules Out Distillation on AI Models]]
 - `2026-08-01` [[2026-08-01-the-ai-brief-august-1-2026|The AI Brief — August 1, 2026]]
 - `2026-07-31` [[2026-07-31-minimax-releases-h3-video-model-with-open-weights-to-follow|MiniMax releases H3 video model, with open weights to follow]]
 - `2026-07-31` [[2026-07-31-minimax-releases-h3-a-unified-text-image-video-audio-generat|MiniMax Releases H3, a Unified Text-Image-Video-Audio Generation Model]]
 - `2026-07-31` [[2026-07-31-china-s-minimax-releases-h3-multimodal-video-model|China's MiniMax releases H3 multimodal video model]]
+- `2026-07-31` [[2026-07-31-china-s-minimax-releases-h3-open-weight-video-generation-mod|China's MiniMax Releases H3 Open-Weight Video Generation Model]]
 - `2026-07-31` [[2026-07-31-bytedance-launches-seedance-2-5-video-generation-model|ByteDance launches Seedance 2.5 video-generation model]]
 - `2026-07-31` [[2026-07-31-bytedance-launches-seedance-2-5-as-chinese-labs-press-a-gene|ByteDance launches Seedance 2.5 as Chinese labs press a generative-video offensive]]
+- `2026-07-21` [[2026-07-21-china-weighs-export-controls-on-its-own-advanced-ai-models-c|China weighs export controls on its own advanced AI models, chips, and data]]
+- `2026-07-20` [[2026-07-20-neill-blomkamp-releases-nightborne-a-13-minute-ai-generated|Neill Blomkamp Releases "Nightborne," a ~13-Minute AI-Generated Sci-Fi Short]]
+- `2026-07-16` [[2026-07-16-china-s-ai-challengers-close-the-gap-on-u-s-labs|China's AI Challengers Close the Gap on U.S. Labs]]
 - `2026-07-12` [[2026-07-12-goldman-sachs-names-its-favorite-chinese-ai-models|Goldman Sachs Names Its Favorite Chinese AI Models]]
 - `2026-07-07` [[2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo|Reuters: Beijing weighs curbing overseas access to China’s most advanced AI models]]
 - `2026-07-07` [[2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode|China Weighs Restricting Access to Its Most Powerful AI Models]]
@@ -35,12 +44,14 @@ member_count: 66
 - `2026-07-06` [[2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin|ByteDance & Alibaba Pull AI Companion Features Ahead of Beijing Rules]]
 - `2026-07-06` [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine|Beijing Weighs Restricting Overseas Access to Advanced Chinese Models; Platforms Curb AI Companion Features]]
 - `2026-07-05` [[2026-07-05-the-motion-picture-association-sent-bytedance-a-cease-and-de|The Motion Picture Association sent ByteDance a cease-and-desist over its Seedance AI video generator, calling it…]]
+- `2026-07-05` [[2026-07-05-bytedance-and-alibaba-pull-ai-companion-features-ahead-of-ch|ByteDance and Alibaba Pull AI-Companion Features Ahead of China's July 15 Rules]]
 - `2026-07-03` [[2026-07-03-bytedance-opens-the-public-launch-window-for-seedance-2-5-vi|ByteDance opens the public launch window for Seedance 2.5 video model]]
 - `2026-07-03` [[2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac|Anthropic moves to close loopholes that let Chinese firms access Claude]]
 - `2026-07-02` [[2026-07-02-anthropic-moves-to-close-loopholes-letting-chinese-firms-acc|Anthropic moves to close loopholes letting Chinese firms access Claude]]
 - `2026-06-29` [[2026-06-29-baidu-jumps-7-as-chip-arm-kunlunxin-targets-50b-hong-kong-ip|Baidu jumps 7% as chip arm Kunlunxin targets ~$50B Hong Kong IPO]]
 - `2026-06-27` [[2026-06-27-bytedance-and-renmin-university-release-illada-an-8b-diffusi|ByteDance and Renmin University release iLLaDA, an 8B diffusion language model]]
 - `2026-06-23` [[2026-06-23-bytedance-unveils-seedance-2-5-video-generation-model|ByteDance Unveils Seedance 2.5 Video Generation Model]]
+- `2026-06-02` [[2026-06-02-bytedance-loses-key-ai-research-leader-behind-seed-models|ByteDance Loses Key AI Research Leader Behind Seed Models]]
 - `2026-05-29` [[2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part|China's ByteDance developing AI chips modeled on Nvidia partner Groq]]
 - `2026-05-29` [[2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips|ByteDance is developing Groq-like AI inference chips]]
 - `2026-05-27` [[2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for|ByteDance Weighs Up to $70B in 2026 AI Capex, ~$100B Planned for 2027 Hot Breaking]]

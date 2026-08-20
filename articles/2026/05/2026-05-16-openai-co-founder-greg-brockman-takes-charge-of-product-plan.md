@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-18-openai-president-urges-enterprises-to-hasten-ai-security-def
 - 2026-05-17-openai-announced-another-internal-reorganization-in-a-memo-v
 - 2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o
 - 2026-04-02-hot-openai-s-greg-brockman-hints-at-agi-spud-model-apr-1-2-c
-- 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
-- 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
+- 2026-06-11-wired-meet-the-openai-engineer-leading-chatgpt-s-biggest-tra
 embedding_id: 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI co-founder and president Greg Brockman has officially assumed leadership 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-17-openai-announced-another-internal-reorganization-in-a-memo-v]] · [[2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o]] · [[2026-04-02-hot-openai-s-greg-brockman-hints-at-agi-spud-model-apr-1-2-c]] · [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]]
+**Related:** [[2026-08-18-openai-president-urges-enterprises-to-hasten-ai-security-def]] · [[2026-05-17-openai-announced-another-internal-reorganization-in-a-memo-v]] · [[2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o]] · [[2026-04-02-hot-openai-s-greg-brockman-hints-at-agi-spud-model-apr-1-2-c]] · [[2026-06-11-wired-meet-the-openai-engineer-leading-chatgpt-s-biggest-tra]]
 <!-- graph:end -->

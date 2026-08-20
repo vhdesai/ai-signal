@@ -1,19 +1,20 @@
 ---
 article_id: 2026-08-07-bytedance-reportedly-pre-training-a-model-of-up-to-10-trilli
-title: ByteDance Reportedly Pre-Training a Model of Up to 10 Trillion Parameters
+title: ByteDance reportedly pre-training a model of up to 10 trillion parameters
 date: '2026-08-07'
-source: '[Reuters]'
+source: Reuters
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-08-08_062022_Inbox_Daily AI News Digest - August 8,
-  2026.md
-content_hash: 18e83b3af962f0ca9d058e806cef8013c393bf42ecdf06bfc47d2e65ed4f945b
+digest_source: digests\raw\2026-08-08_065755_Final-Daily-AI-News-Digest.md
+content_hash: 893eb36fc10e2daa2b77e22944a47198905409d26f313db3e530f377c6981008
 normalized_title_hash: 7d323765c527ff16
 canonical_url_hash: ''
-tags: []
+tags:
+- New
+- Scale
+- China
 entities:
-- Anthropic
 - ByteDance
 themes:
 - model-capabilities
@@ -26,14 +27,14 @@ embedding_id: 2026-08-07-bytedance-reportedly-pre-training-a-model-of-up-to-10-t
 event_name: ''
 ---
 
-# ByteDance Reportedly Pre-Training a Model of Up to 10 Trillion Parameters
+# ByteDance reportedly pre-training a model of up to 10 trillion parameters
 
-ByteDance is reported to be pre-training a model with as many as 10 trillion parameters — roughly three times the scale of Moonshot's Kimi K3 and approaching industry estimates for Anthropic's Mythos systems. The model is still in early pre-training, a phase that typically runs three to six months before fine-tuning and any release. Reporting indicates founder Zhang Yiming directed teams to prioritize genuine capability over distillation shortcuts. If completed on schedule, it would be the most ambitious scale-up yet from a Chinese lab.
+ByteDance is reported to be pre-training a model with as many as 10 trillion parameters—roughly three times the scale of Moonshot's Kimi K3. The model is in early pre-training, typically three to six months before fine-tuning. Founder Zhang Yiming reportedly directed teams to prioritize genuine capability over distillation shortcuts. If completed on schedule, it would be the most ambitious scale-up yet from a Chinese lab.
 
 <!-- graph:start -->
 ## Connections
 
-**Entities:** [[Anthropic]] · [[ByteDance]]
+**Entities:** [[ByteDance]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
 **Canonical:** [[2026-08-07-bytedance-reportedly-pre-training-a-10-trillion-parameter-mo]]
 <!-- graph:end -->

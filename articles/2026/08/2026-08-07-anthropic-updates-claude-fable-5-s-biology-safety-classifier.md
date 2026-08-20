@@ -19,7 +19,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-07-anthropic-loosens-claude-fable-5-biology-question-refusals-w
+canonical_article_id: 2026-08-07-anthropic-loosens-fable-5-biology-safeguards-cutting-fallbac
 related_article_ids: []
 embedding_id: 2026-08-07-anthropic-updates-claude-fable-5-s-biology-safety-classifier
 event_name: ''
@@ -34,5 +34,5 @@ Anthropic updated the safety classifiers on Claude Fable 5, its frontier product
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-08-07-anthropic-loosens-claude-fable-5-biology-question-refusals-w]]
+**Canonical:** [[2026-08-07-anthropic-loosens-fable-5-biology-safeguards-cutting-fallbac]]
 <!-- graph:end -->

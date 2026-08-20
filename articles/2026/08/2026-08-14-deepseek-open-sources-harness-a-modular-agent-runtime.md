@@ -3,14 +3,13 @@ article_id: 2026-08-14-deepseek-open-sources-harness-a-modular-agent-runtime
 title: DeepSeek Open-Sources Harness, a Modular Agent Runtime
 date: '2026-08-14'
 source: VentureBeat
-url_original: null
-url_canonical: null
-url_status: missing
-digest_source: digests\raw\2026-08-15_062130_Inbox_Daily AI News Digest - August 15,
-  2026.md
-content_hash: d4aa38004d12c23864ce7f8ec79a0b9b880870ac7887fc657aa8ea157fc8cc1f
+url_original: https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api
+url_canonical: https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api
+url_status: found
+digest_source: digests\raw\2026-08-15_065044_Final-Daily-AI-News-Digest.md
+content_hash: 84189ef500bb3d1e06084941f23bfc497205aa1ec0046a93ff20243e98a0dec6
 normalized_title_hash: 3123524fd80172bc
-canonical_url_hash: ''
+canonical_url_hash: 33cc7a7d1a25faa3
 tags:
 - Launch
 entities:
@@ -28,7 +27,7 @@ event_name: ''
 
 # DeepSeek Open-Sources Harness, a Modular Agent Runtime
 
-Alongside V4 Pro's general availability, DeepSeek open-sourced DeepSeek Harness, an agent runtime in which models, tools, sandboxes, control loops and interfaces are independently swappable. It is positioned as an open alternative to proprietary coding-agent harnesses. The strategic move is toward owning the orchestration layer between models and agents, where switching costs actually accumulate. If Harness gains adoption, model-layer substitution becomes cheaper for buyers and harder to defend for incumbents. venturebeat.com Research Breakthroughs RESEARCH
+Alongside V4 Pro's general availability, DeepSeek open-sourced Harness, an agent runtime where models, tools, sandboxes, control loops, and interfaces are independently swappable — positioned as an open alternative to proprietary coding-agent harnesses. The strategic move is toward owning the orchestration layer between models and agents, where switching costs accumulate. If Harness gains adoption, model-layer substitution becomes cheaper for buyers and harder to defend for incumbents.
 
 <!-- graph:start -->
 ## Connections

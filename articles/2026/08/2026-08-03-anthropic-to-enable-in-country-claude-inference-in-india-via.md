@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-anthropic-to-offer-in-country-claude-inference-in-india-via
+- 2026-08-03-anthropic-s-move-to-enable-in-country-inference-in-india-add
 - 2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
-- 2026-08-14-anthropic-details-claude-text-watermarking-under-eu-ai-act
+- 2026-08-05-anthropic-confirms-in-house-custom-chip-design-team-for-clau
 embedding_id: 2026-08-03-anthropic-to-enable-in-country-claude-inference-in-india-via
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Anthropic plans to switch on local data processing for Claude in India through A
 
 **Entities:** [[Amazon]] · [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-03-anthropic-to-offer-in-country-claude-inference-in-india-via]] · [[2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-08-14-anthropic-details-claude-text-watermarking-under-eu-ai-act]]
+**Related:** [[2026-08-03-anthropic-to-offer-in-country-claude-inference-in-india-via]] · [[2026-08-03-anthropic-s-move-to-enable-in-country-inference-in-india-add]] · [[2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-08-05-anthropic-confirms-in-house-custom-chip-design-team-for-clau]]
 <!-- graph:end -->

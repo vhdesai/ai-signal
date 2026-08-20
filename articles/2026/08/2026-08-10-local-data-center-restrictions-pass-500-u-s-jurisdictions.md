@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-more-than-500-u-s-jurisdictions-now-restrict-new-data-center
+- 2026-08-10-us-data-center-bans-pass-500-jurisdictions
 - 2026-06-05-new-york-passes-first-state-level-data-center-moratorium
 - 2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati
-- 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
 embedding_id: 2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions
 event_name: ''
 ---
@@ -36,5 +36,5 @@ More than 500 U.S. cities, counties and states have now enacted bans or temporar
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-10-more-than-500-u-s-jurisdictions-now-restrict-new-data-center]] · [[2026-06-05-new-york-passes-first-state-level-data-center-moratorium]] · [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]]
+**Related:** [[2026-08-10-more-than-500-u-s-jurisdictions-now-restrict-new-data-center]] · [[2026-08-10-us-data-center-bans-pass-500-jurisdictions]] · [[2026-06-05-new-york-passes-first-state-level-data-center-moratorium]] · [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]]
 <!-- graph:end -->

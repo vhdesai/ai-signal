@@ -26,7 +26,7 @@ themes:
 - policy-regulation
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl
+canonical_article_id: 2026-07-27-nvidia-forms-37-member-open-secure-ai-alliance-and-open-sour
 related_article_ids:
 - 2026-07-27-nvidia-spacex-microsoft-palantir-launch-open-secure-ai-allia
 embedding_id: 2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu
@@ -42,6 +42,6 @@ Nvidia, joined by Microsoft, SpaceX, Palantir, IBM and roughly three dozen compa
 
 **Entities:** [[Anthropic]] · [[Google]] · [[IBM]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Palantir]]
 **Topics:** [[Policy & Regulation]]
-**Canonical:** [[2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl]]
+**Canonical:** [[2026-07-27-nvidia-forms-37-member-open-secure-ai-alliance-and-open-sour]]
 **Related:** [[2026-07-27-nvidia-spacex-microsoft-palantir-launch-open-secure-ai-allia]]
 <!-- graph:end -->

@@ -21,10 +21,9 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-14-applied-materials-posts-record-q3-revenue-of-9-12b-on-ai-chi
+- 2026-08-14-applied-materials-posts-record-9-12b-quarter-on-ai-chip-dema
 - 2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across
-- 2026-08-14-uber-and-pony-ai-plan-2-000-robotaxis-across-european-cities
-- 2026-08-14-pony-ai-and-uber-plan-more-than-2-000-robotaxis-across-five
+- 2026-08-14-uber-and-pony-ai-to-deploy-2-000-robotaxis-across-europe
 embedding_id: 2026-08-14-applied-materials-record-9-12b-quarter-uber-pony-ai-2-000-eu
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Applied Materials posted record Q3 revenue of $9.12B (+25% YoY), guiding to $10.
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-14-applied-materials-posts-record-q3-revenue-of-9-12b-on-ai-chi]] · [[2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across]] · [[2026-08-14-uber-and-pony-ai-plan-2-000-robotaxis-across-european-cities]] · [[2026-08-14-pony-ai-and-uber-plan-more-than-2-000-robotaxis-across-five]]
+**Related:** [[2026-08-14-applied-materials-posts-record-9-12b-quarter-on-ai-chip-dema]] · [[2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across]] · [[2026-08-14-uber-and-pony-ai-to-deploy-2-000-robotaxis-across-europe]]
 <!-- graph:end -->

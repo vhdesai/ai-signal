@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 139
+member_count: 143
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 139 connected article(s).
+> Auto-generated entity hub. 143 connected article(s).
 
+- `2026-08-19` [[2026-08-19-cerebras-launches-cs-4-nexus-wafer-scale-inference-system|Cerebras launches CS-4 "Nexus" wafer-scale inference system]]
+- `2026-08-19` [[2026-08-19-cerebras-launches-cs-4-its-first-multi-wafer-inference-syste|Cerebras Launches CS-4, Its First Multi-Wafer Inference System]]
 - `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
 - `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
 - `2026-08-14` [[2026-08-14-openai-introduces-ultrafast-tier-for-gpt-5-6-sol-powered-by|OpenAI introduces "Ultrafast" tier for GPT-5.6 Sol, powered by Cerebras]]
@@ -21,7 +23,7 @@ member_count: 139
 - `2026-08-13` [[2026-08-13-cerebras-slumps-18-on-mixed-quarterly-results|Cerebras Slumps 18% on Mixed Quarterly Results]]
 - `2026-08-13` [[2026-08-13-cerebras-shares-fall-16-despite-revenue-growth-and-25b-backl|Cerebras Shares Fall 16% Despite Revenue Growth and $25B Backlog]]
 - `2026-08-13` [[2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-per-second|Cerebras Runs OpenAI's GPT-5.6 Sol at 750 Tokens Per Second in New Ultrafast Tier]]
-- `2026-08-13` [[2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a|Carnegie Mellon Researchers Challenge What It Means to Say AI “Thinks”]]
+- `2026-08-13` [[2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a|Carnegie Mellon Researchers Challenge What It Means to Say AI "Thinks"]]
 - `2026-08-13` [[2026-08-13-cmu-researchers-challenge-what-it-means-to-say-ai-thinks|CMU Researchers Challenge What It Means to Say AI “Thinks”]]
 - `2026-08-12` [[2026-08-12-coreweave-and-super-micro-surge-on-evidence-of-sustained-ai|CoreWeave and Super Micro surge on evidence of sustained AI buildout]]
 - `2026-08-12` [[2026-08-12-cerebras-raises-full-year-guidance-but-stock-falls-14-after|Cerebras raises full-year guidance but stock falls 14% after hours]]
@@ -47,6 +49,8 @@ member_count: 139
 - `2026-07-29` [[2026-07-29-cerebras-signs-10-year-ai-colocation-deal-with-cleancore-sol|Cerebras signs 10-year AI colocation deal with CleanCore Solutions]]
 - `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
 - `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
+- `2026-07-22` [[2026-07-22-crowdstrike-and-cerebras-partner-on-high-speed-ai-threat-det|CrowdStrike and Cerebras partner on high-speed AI threat detection and response]]
+- `2026-07-22` [[2026-07-22-aws-crowdstrike-and-cerebras-push-ai-native-security-control|AWS, CrowdStrike, and Cerebras push AI-native security controls]]
 - `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
 - `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]

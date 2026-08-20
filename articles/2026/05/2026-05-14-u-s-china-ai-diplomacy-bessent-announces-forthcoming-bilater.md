@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-14-u-s-china-to-establish-bilateral-ai-safety-protocol-bessent
 - 2026-05-14-microsoft-corp-dev-ai-intelligence-brief
 - 2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-chip-export-status
+- 2026-07-21-u-s-and-china-set-first-official-ai-talks-for-september-bess
 - 2026-05-18-president-trump-confirmed-discussions-with-chinese-president
-- 2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-h200-chip-exports
 embedding_id: 2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater
 event_name: ''
 ---
@@ -39,5 +39,5 @@ At the Trump–Xi summit in Beijing, Treasury Secretary Scott Bessent announced 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-14-u-s-china-to-establish-bilateral-ai-safety-protocol-bessent]] · [[2026-05-14-microsoft-corp-dev-ai-intelligence-brief]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-chip-export-status]] · [[2026-05-18-president-trump-confirmed-discussions-with-chinese-president]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-h200-chip-exports]]
+**Related:** [[2026-05-14-u-s-china-to-establish-bilateral-ai-safety-protocol-bessent]] · [[2026-05-14-microsoft-corp-dev-ai-intelligence-brief]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-chip-export-status]] · [[2026-07-21-u-s-and-china-set-first-official-ai-talks-for-september-bess]] · [[2026-05-18-president-trump-confirmed-discussions-with-chinese-president]]
 <!-- graph:end -->

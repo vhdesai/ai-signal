@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
 - 2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust
 - 2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model
+- 2026-06-10-ai-pilled-firms-now-spend-7-500-per-employee-per-month-on-ai
 - 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
-- 2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202
 embedding_id: 2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch published an in-depth investigation into the enterprise AI cost crisi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]]
+**Related:** [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-06-10-ai-pilled-firms-now-spend-7-500-per-employee-per-month-on-ai]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]]
 <!-- graph:end -->

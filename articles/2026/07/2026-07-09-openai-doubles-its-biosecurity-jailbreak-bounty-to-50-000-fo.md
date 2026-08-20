@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-23-openai-launches-gpt-5-5-cyber-and-patch-the-planet-bug-bount
+- 2026-08-11-openai-ships-gpt-5-6-cyber-with-deliberately-reduced-refusal
 - 2026-08-11-openai-ships-gpt-5-6-cyber-behind-a-vetted-daybreak-red-tier
 - 2026-06-23-openai-ships-full-gpt-5-5-cyber-and-expands-its-daybreak-sec
-- 2026-04-23-
 embedding_id: 2026-07-09-openai-doubles-its-biosecurity-jailbreak-bounty-to-50-000-fo
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI converted its GPT-5.5 Bio Bug Bounty into an ongoing private program and 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-23-openai-launches-gpt-5-5-cyber-and-patch-the-planet-bug-bount]] · [[2026-08-11-openai-ships-gpt-5-6-cyber-behind-a-vetted-daybreak-red-tier]] · [[2026-06-23-openai-ships-full-gpt-5-5-cyber-and-expands-its-daybreak-sec]] · [[2026-04-23-]]
+**Related:** [[2026-06-23-openai-launches-gpt-5-5-cyber-and-patch-the-planet-bug-bount]] · [[2026-08-11-openai-ships-gpt-5-6-cyber-with-deliberately-reduced-refusal]] · [[2026-08-11-openai-ships-gpt-5-6-cyber-behind-a-vetted-daybreak-red-tier]] · [[2026-06-23-openai-ships-full-gpt-5-5-cyber-and-expands-its-daybreak-sec]]
 <!-- graph:end -->
