@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-20-morgan-stanley-downgrades-baidu-to-underweight-as-ernie-lags
 - 2026-05-14-alibaba-cloud-grows-38-but-core-profit-plunges-84-on-ai-cape
 - 2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc
 - 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
-- 2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to
 embedding_id: 2026-08-18-baidu-q2-revenue-falls-4-as-ai-cloud-surges-50
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Baidu reported Q2 revenue of RMB31.33B, down 4% year-over-year and below estimat
 
 **Entities:** [[Baidu]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-alibaba-cloud-grows-38-but-core-profit-plunges-84-on-ai-cape]] · [[2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]] · [[2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to]]
+**Related:** [[2026-08-20-morgan-stanley-downgrades-baidu-to-underweight-as-ernie-lags]] · [[2026-05-14-alibaba-cloud-grows-38-but-core-profit-plunges-84-on-ai-cape]] · [[2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]]
 <!-- graph:end -->

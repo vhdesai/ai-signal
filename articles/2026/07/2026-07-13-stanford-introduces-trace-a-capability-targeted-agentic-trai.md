@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag
+- 2026-08-24-machine-learning-mastery-publishes-guidance-on-integrating-a
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
 - 2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri
-- 2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi
 embedding_id: 2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Stanford researchers unveiled TRACE, which turns an agent’s recurring failures
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi]]
+**Related:** [[2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag]] · [[2026-08-24-machine-learning-mastery-publishes-guidance-on-integrating-a]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]]
 <!-- graph:end -->

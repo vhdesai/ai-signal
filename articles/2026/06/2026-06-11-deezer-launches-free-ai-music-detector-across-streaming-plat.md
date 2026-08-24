@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-11-deezer-launches-free-ai-music-detector-for-spotify-apple-mus
 - 2026-06-10-warner-music-acquires-ai-attribution-startup-sureel-ai
+- 2026-08-20-apple-music-will-label-songs-materially-generated-using-ai
 - 2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and
 - 2026-07-21-deezer-says-more-than-half-of-daily-uploads-are-ai-generated
-- 2026-08-11-spotify-will-label-ai-persona-profiles-and-exclude-them-from
 embedding_id: 2026-06-11-deezer-launches-free-ai-music-detector-across-streaming-plat
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Deezer launched a free tool detecting AI-generated music on Spotify, Apple Music
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-11-deezer-launches-free-ai-music-detector-for-spotify-apple-mus]] · [[2026-06-10-warner-music-acquires-ai-attribution-startup-sureel-ai]] · [[2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and]] · [[2026-07-21-deezer-says-more-than-half-of-daily-uploads-are-ai-generated]] · [[2026-08-11-spotify-will-label-ai-persona-profiles-and-exclude-them-from]]
+**Related:** [[2026-06-11-deezer-launches-free-ai-music-detector-for-spotify-apple-mus]] · [[2026-06-10-warner-music-acquires-ai-attribution-startup-sureel-ai]] · [[2026-08-20-apple-music-will-label-songs-materially-generated-using-ai]] · [[2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and]] · [[2026-07-21-deezer-says-more-than-half-of-daily-uploads-are-ai-generated]]
 <!-- graph:end -->

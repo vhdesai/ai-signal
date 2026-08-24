@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-22-rare-book-sales-are-booming-they-re-getting-sliced-up-and-fe
+- 2026-08-22-rare-book-sales-booming-they-re-getting-sliced-up-and-fed-to
 - 2026-08-14-anthropic-s-book-scanning-training-method-ruled-fair-use-but
 - 2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro
-- 2026-08-01-ai-and-the-blurring-of-reality
-- 2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models
 embedding_id: 2026-08-17-ai-has-plunged-the-book-publishing-industry-into-chaos
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The WSJ Daily Digest highlighted a major feature on how AI is disrupting book pu
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-14-anthropic-s-book-scanning-training-method-ruled-fair-use-but]] · [[2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro]] · [[2026-08-01-ai-and-the-blurring-of-reality]] · [[2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models]]
+**Related:** [[2026-08-22-rare-book-sales-are-booming-they-re-getting-sliced-up-and-fe]] · [[2026-08-22-rare-book-sales-booming-they-re-getting-sliced-up-and-fed-to]] · [[2026-08-14-anthropic-s-book-scanning-training-method-ruled-fair-use-but]] · [[2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro]]
 <!-- graph:end -->

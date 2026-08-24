@@ -36,8 +36,8 @@ related_article_ids:
 - 2026-05-21-oracle-fusion-data-intelligence-deployed-at-heathrow-mtn-clo
 - 2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o
 - 2026-05-21-oracle-fusion-data-intelligence-goes-live-at-heathrow-mtn-an
-- 2026-08-11-daily-ai-news-digest-august-12-2026
-- 2026-08-13-daily-ai-news-digest-august-14-2026
+- 2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del
+- 2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous
 embedding_id: 2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e
 event_name: ''
 ---
@@ -51,5 +51,5 @@ Oracle announced recognition of three utility-sector customers — Air Selangor 
 
 **Entities:** [[Apple]] · [[Cohere]] · [[Google]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[OpenAI]] · [[Oracle]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-21-oracle-fusion-data-intelligence-deployed-at-heathrow-mtn-clo]] · [[2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o]] · [[2026-05-21-oracle-fusion-data-intelligence-goes-live-at-heathrow-mtn-an]] · [[2026-08-11-daily-ai-news-digest-august-12-2026]] · [[2026-08-13-daily-ai-news-digest-august-14-2026]]
+**Related:** [[2026-05-21-oracle-fusion-data-intelligence-deployed-at-heathrow-mtn-clo]] · [[2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o]] · [[2026-05-21-oracle-fusion-data-intelligence-goes-live-at-heathrow-mtn-an]] · [[2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del]] · [[2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous]]
 <!-- graph:end -->

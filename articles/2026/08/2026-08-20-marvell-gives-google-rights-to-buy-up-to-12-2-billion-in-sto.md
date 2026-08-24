@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil
 - 2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa
 - 2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i
-- 2026-04-02-trending-nvidia-backs-marvell-nvlink-fusion-with-2b-commitme
 embedding_id: 2026-08-20-marvell-gives-google-rights-to-buy-up-to-12-2-billion-in-sto
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Marvell Technology has given Google the right to acquire a stake of up to $12.2 
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil]] · [[2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa]] · [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-04-02-trending-nvidia-backs-marvell-nvlink-fusion-with-2b-commitme]]
+**Related:** [[2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil]] · [[2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa]] · [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]]
 <!-- graph:end -->

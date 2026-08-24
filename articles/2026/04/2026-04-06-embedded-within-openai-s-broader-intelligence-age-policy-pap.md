@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-17-openai-funds-independent-projects-on-policy-ideas-for-the-in
 - 2026-04-06-openai-today-released-a-13-page-industrial-policy-document-t
+- 2026-08-21-openai-launches-ai-futures-a-blog-on-power-governance-and-hu
 - 2026-05-04-nature-medicine-a-call-for-an-independent-international-scie
 - 2026-06-03-openai-publishes-governance-blueprint-altman-to-urge-congres
-- 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 embedding_id: 2026-04-06-embedded-within-openai-s-broader-intelligence-age-policy-pap
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Embedded within OpenAI's broader intelligence-age policy paper is a call for an 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-08-17-openai-funds-independent-projects-on-policy-ideas-for-the-in]] · [[2026-04-06-openai-today-released-a-13-page-industrial-policy-document-t]] · [[2026-05-04-nature-medicine-a-call-for-an-independent-international-scie]] · [[2026-06-03-openai-publishes-governance-blueprint-altman-to-urge-congres]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]]
+**Related:** [[2026-08-17-openai-funds-independent-projects-on-policy-ideas-for-the-in]] · [[2026-04-06-openai-today-released-a-13-page-industrial-policy-document-t]] · [[2026-08-21-openai-launches-ai-futures-a-blog-on-power-governance-and-hu]] · [[2026-05-04-nature-medicine-a-call-for-an-independent-international-scie]] · [[2026-06-03-openai-publishes-governance-blueprint-altman-to-urge-congres]]
 <!-- graph:end -->

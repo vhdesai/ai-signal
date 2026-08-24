@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-21-doj-investigating-a16z-under-112-year-old-antitrust-law-over
 - 2026-08-17-doj-investigating-a16z-over-board-seats-at-competing-ai-data
 - 2026-05-21-databricks-ranks-3-on-cnbc-disruptor-50-hits-5-4b-run-rate-s
 embedding_id: 2026-08-18-a16z-faces-doj-antitrust-scrutiny-over-board-seats-at-databr
@@ -35,5 +36,5 @@ The Justice Department is examining Andreessen Horowitz over board seats it hold
 
 **Entities:** [[Databricks]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-17-doj-investigating-a16z-over-board-seats-at-competing-ai-data]] · [[2026-05-21-databricks-ranks-3-on-cnbc-disruptor-50-hits-5-4b-run-rate-s]]
+**Related:** [[2026-08-21-doj-investigating-a16z-under-112-year-old-antitrust-law-over]] · [[2026-08-17-doj-investigating-a16z-over-board-seats-at-competing-ai-data]] · [[2026-05-21-databricks-ranks-3-on-cnbc-disruptor-50-hits-5-4b-run-rate-s]]
 <!-- graph:end -->

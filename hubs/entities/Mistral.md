@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 172
+member_count: 175
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 172 connected article(s).
+> Auto-generated entity hub. 175 connected article(s).
 
+- `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
+- `2026-08-22` [[2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma|Saturday coverage: AI content demand strains the rare-book market]]
+- `2026-08-22` [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro|Frontier AI labs still won't say how they would contain a rogue model]]
 - `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
 - `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
 - `2026-08-12` [[2026-08-12-mistral-commits-to-in-region-inference-and-up-to-1-gw-of-eur|Mistral Commits to In-Region Inference and Up to 1 GW of European Compute]]

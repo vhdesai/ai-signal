@@ -25,10 +25,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous
 - 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
 - 2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at
-- 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
-- 2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4
+- 2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del
 embedding_id: 2026-08-13-enterprise-ai-adoption-stalls-legacy-it-and-agentic-gaps-per
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Two reports highlight persistent barriers to enterprise AI. A Cloudera report fi
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]] · [[2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]]
+**Related:** [[2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous]] · [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]] · [[2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at]] · [[2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del]]
 <!-- graph:end -->

@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-citi-launches-arc-to-scale-ai-agents-across-the-bank
 - 2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b
+- 2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous
+- 2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del
 - 2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an
-- 2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma
-- 2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle
 embedding_id: 2026-08-11-allstate-preps-allie-platform-to-drive-agentic-ai-strategy
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Allstate is building out its Allie platform as the backbone of its agentic AI st
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-04-citi-launches-arc-to-scale-ai-agents-across-the-bank]] · [[2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b]] · [[2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an]] · [[2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma]] · [[2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle]]
+**Related:** [[2026-05-04-citi-launches-arc-to-scale-ai-agents-across-the-bank]] · [[2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b]] · [[2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous]] · [[2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del]] · [[2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an]]
 <!-- graph:end -->

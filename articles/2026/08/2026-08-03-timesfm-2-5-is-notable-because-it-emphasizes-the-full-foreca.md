@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo
 - 2026-08-03-the-enterprise-bottleneck-has-clearly-shifted-from-gaining-m
 - 2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i
+- 2026-04-03-google-research-released-timesfm-time-series-foundation-mode
 - 2026-08-03-token-pricing-was-a-useful-early-metric-but-it-is-increasing
-- 2026-08-10-openai-describes-building-an-ai-native-finance-function
 embedding_id: 2026-08-03-timesfm-2-5-is-notable-because-it-emphasizes-the-full-foreca
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TimesFM 2.5 is notable because it emphasizes the full forecasting workflow rathe
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo]] · [[2026-08-03-the-enterprise-bottleneck-has-clearly-shifted-from-gaining-m]] · [[2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i]] · [[2026-08-03-token-pricing-was-a-useful-early-metric-but-it-is-increasing]] · [[2026-08-10-openai-describes-building-an-ai-native-finance-function]]
+**Related:** [[2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo]] · [[2026-08-03-the-enterprise-bottleneck-has-clearly-shifted-from-gaining-m]] · [[2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i]] · [[2026-04-03-google-research-released-timesfm-time-series-foundation-mode]] · [[2026-08-03-token-pricing-was-a-useful-early-metric-but-it-is-increasing]]
 <!-- graph:end -->

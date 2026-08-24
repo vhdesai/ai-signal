@@ -26,10 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190
+- 2026-08-20-meta-s-ai-positioning-lags-alphabet-microsoft-and-amazon-as
 - 2026-08-01-wall-street-rewards-ai-spending-when-it-is-tied-to-cloud-rev
 - 2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
-- 2026-07-24-moody-s-warns-ai-capex-is-straining-big-tech-credit-quality
 embedding_id: 2026-07-31-capex-vs-cash-flow-big-tech-doubles-down-on-ai
 event_name: ''
 ---
@@ -43,5 +43,5 @@ AI’s second-quarter earnings season crystallized the industry’s defining ten
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Google]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]] · [[2026-08-01-wall-street-rewards-ai-spending-when-it-is-tied-to-cloud-rev]] · [[2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-07-24-moody-s-warns-ai-capex-is-straining-big-tech-credit-quality]]
+**Related:** [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]] · [[2026-08-20-meta-s-ai-positioning-lags-alphabet-microsoft-and-amazon-as]] · [[2026-08-01-wall-street-rewards-ai-spending-when-it-is-tied-to-cloud-rev]] · [[2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da
 - 2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact
-- 2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi
-- 2026-08-17-nvidia-invests-1-5b-in-softbank-data-center-developer-offers
-- 2026-07-19-australia-plans-to-govern-ai-s-water-and-power-use
+- 2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt
+- 2026-08-21-nvidia-in-talks-to-invest-in-data-center-power-developer-clo
+- 2026-08-21-nvidia-partners-with-cloverleaf-infrastructure-for-data-cent
 embedding_id: 2026-06-22-nvidia-unveils-warm-water-cooling-to-cut-data-center-water-u
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia announced a warm-water cooling design it says can eliminate nearly all wa
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da]] · [[2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact]] · [[2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi]] · [[2026-08-17-nvidia-invests-1-5b-in-softbank-data-center-developer-offers]] · [[2026-07-19-australia-plans-to-govern-ai-s-water-and-power-use]]
+**Related:** [[2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da]] · [[2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact]] · [[2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt]] · [[2026-08-21-nvidia-in-talks-to-invest-in-data-center-power-developer-clo]] · [[2026-08-21-nvidia-partners-with-cloverleaf-infrastructure-for-data-cent]]
 <!-- graph:end -->

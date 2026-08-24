@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-06-27-deepseek-open-sources-dspark-accelerating-v4-inference-60-85
 - 2026-06-30-deepseek-released-dspark-an-mit-licensed-speculative-decodin
 - 2026-06-29-deepseek-open-sources-dspark-claiming-up-to-85-faster-llm-in
+- 2026-08-20-liquid-ai-releases-lfm2-5-dspark-draft-models-delivering-up
 - 2026-07-31-deepseek-launches-upgraded-v4-flash-api-with-big-agent-gains
-- 2026-05-22-zflow-ai-simulation-guided-optimization-delivers-1-54-throug
 embedding_id: 2026-06-28-deepseek-released-dspark-an-open-source-speculative-decoding
 event_name: ''
 ---
@@ -40,5 +40,5 @@ DeepSeek released DSpark, an open-source speculative-decoding framework shipping
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-27-deepseek-open-sources-dspark-accelerating-v4-inference-60-85]] · [[2026-06-30-deepseek-released-dspark-an-mit-licensed-speculative-decodin]] · [[2026-06-29-deepseek-open-sources-dspark-claiming-up-to-85-faster-llm-in]] · [[2026-07-31-deepseek-launches-upgraded-v4-flash-api-with-big-agent-gains]] · [[2026-05-22-zflow-ai-simulation-guided-optimization-delivers-1-54-throug]]
+**Related:** [[2026-06-27-deepseek-open-sources-dspark-accelerating-v4-inference-60-85]] · [[2026-06-30-deepseek-released-dspark-an-mit-licensed-speculative-decodin]] · [[2026-06-29-deepseek-open-sources-dspark-claiming-up-to-85-faster-llm-in]] · [[2026-08-20-liquid-ai-releases-lfm2-5-dspark-draft-models-delivering-up]] · [[2026-07-31-deepseek-launches-upgraded-v4-flash-api-with-big-agent-gains]]
 <!-- graph:end -->

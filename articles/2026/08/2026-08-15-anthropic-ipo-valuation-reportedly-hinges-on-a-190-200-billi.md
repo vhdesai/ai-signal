@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast
 - 2026-08-17-anthropic-s-annualized-revenue-surges-to-65b-ipo-expected-th
+- 2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an
 embedding_id: 2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Reuters reported that Anthropic's potential IPO valuation depends on a 2028 reve
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast]] · [[2026-08-17-anthropic-s-annualized-revenue-surges-to-65b-ipo-expected-th]]
+**Related:** [[2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast]] · [[2026-08-17-anthropic-s-annualized-revenue-surges-to-65b-ipo-expected-th]] · [[2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an]]
 <!-- graph:end -->

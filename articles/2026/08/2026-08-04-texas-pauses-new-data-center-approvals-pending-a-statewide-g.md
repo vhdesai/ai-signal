@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-04-texas-pauses-new-data-center-approvals-pending-statewide-gri
 - 2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat
+- 2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow
 - 2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t
 - 2026-07-28-data-centers-may-face-temporary-power-cuts-on-the-largest-us
-- 2026-07-13-infrastructure-local-policy-data-centers
 embedding_id: 2026-08-04-texas-pauses-new-data-center-approvals-pending-a-statewide-g
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Texas directed regulators to audit data centers seeking grid interconnection, ef
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-04-texas-pauses-new-data-center-approvals-pending-statewide-gri]] · [[2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat]] · [[2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t]] · [[2026-07-28-data-centers-may-face-temporary-power-cuts-on-the-largest-us]] · [[2026-07-13-infrastructure-local-policy-data-centers]]
+**Related:** [[2026-08-04-texas-pauses-new-data-center-approvals-pending-statewide-gri]] · [[2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat]] · [[2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow]] · [[2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t]] · [[2026-07-28-data-centers-may-face-temporary-power-cuts-on-the-largest-us]]
 <!-- graph:end -->

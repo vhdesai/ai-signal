@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-18-tim-cook-warns-ai-chip-demand-making-apple-price-increases-u
 - 2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re
 - 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
-- 2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con
+- 2026-08-22-reuters-reports-nvidia-customers-were-notified-of-ai-related
 embedding_id: 2026-07-11-goldman-sachs-warns-the-u-s-will-bear-the-brunt-of-a-global
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Goldman Sachs warned that AI-related demand could add materially to U.S. inflati
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]] · [[2026-06-18-tim-cook-warns-ai-chip-demand-making-apple-price-increases-u]] · [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con]]
+**Related:** [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]] · [[2026-06-18-tim-cook-warns-ai-chip-demand-making-apple-price-increases-u]] · [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-08-22-reuters-reports-nvidia-customers-were-notified-of-ai-related]]
 <!-- graph:end -->

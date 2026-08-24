@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-11-the-ai-industry-is-focused-on-agentic-ai-ai-native-software
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
+- 2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper
 - 2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou
-- 2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a
 embedding_id: 2026-08-05-tech-s-new-favorite-type-of-app-ai-native-vertical-software
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Business Insider reports that the technology industry's latest investment thesis
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-11-the-ai-industry-is-focused-on-agentic-ai-ai-native-software]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou]] · [[2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a]]
+**Related:** [[2026-07-11-the-ai-industry-is-focused-on-agentic-ai-ai-native-software]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper]] · [[2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou]]
 <!-- graph:end -->

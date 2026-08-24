@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle
 - 2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi
 - 2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race
+- 2026-08-19-terrapower-s-molten-salt-nuclear-reactor-has-a-secret-weapon
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
-- 2026-08-13-ai-may-extend-fossil-fuel-dominance-more-than-data-center-po
 embedding_id: 2026-08-18-ai-s-energy-appetite-sparks-activity-at-nuclear-research-fac
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Nuclear research facilities are seeing renewed investment driven by AI's insatia
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle]] · [[2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi]] · [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-08-13-ai-may-extend-fossil-fuel-dominance-more-than-data-center-po]]
+**Related:** [[2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle]] · [[2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi]] · [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race]] · [[2026-08-19-terrapower-s-molten-salt-nuclear-reactor-has-a-secret-weapon]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]]
 <!-- graph:end -->

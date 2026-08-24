@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 126
+member_count: 130
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 126 connected article(s).
+> Auto-generated entity hub. 130 connected article(s).
 
+- `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
+- `2026-08-22` [[2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma|Saturday coverage: AI content demand strains the rare-book market]]
+- `2026-08-22` [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro|Frontier AI labs still won't say how they would contain a rogue model]]
+- `2026-08-20` [[2026-08-20-palantir-adds-gemma-4-gemini-3-7-flash-and-grok-4-6-to-aip|Palantir Adds Gemma 4, Gemini 3.7 Flash and Grok 4.6 to AIP]]
 - `2026-08-18` [[2026-08-18-google-says-its-ai-can-automate-forward-deployed-engineers-w|Google Says Its AI Can Automate Forward Deployed Engineers' Work]]
 - `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
 - `2026-08-16` [[2026-08-16-silver-lake-workday-talks-signal-potential-end-to-ai-driven|Silver Lake-Workday Talks Signal Potential End to AI-Driven SaaS Sell-off]]

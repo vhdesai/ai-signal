@@ -20,9 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-24-openai-turns-on-chatgpt-ads-across-31-european-countries
 - 2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international
 - 2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp
-- 2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo
 embedding_id: 2026-08-14-openai-to-open-a-second-german-office-in-berlin
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Sam Altman told Handelsblatt that OpenAI will add a Berlin site alongside its Mu
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international]] · [[2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo]]
+**Related:** [[2026-08-24-openai-turns-on-chatgpt-ads-across-31-european-countries]] · [[2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international]] · [[2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp]]
 <!-- graph:end -->

@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-10-xai-fired-engineer-who-raised-grok-safety-alarms-new-lawsuit
 - 2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok
+- 2026-08-20-grok-sends-gibberish-responses-amid-xai-staff-exodus
 - 2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam
-- 2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of
-- 2026-07-01-investigation-finds-xai-s-grok-bypassing-its-own-safety-guar
+- 2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover
 embedding_id: 2026-06-10-xai-fired-engineer-who-raised-grok-safety-alarms-lawsuit-cla
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A former xAI engineer filed a lawsuit claiming he was fired for raising safety c
 
 **Entities:** [[Google]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-10-xai-fired-engineer-who-raised-grok-safety-alarms-new-lawsuit]] · [[2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok]] · [[2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam]] · [[2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of]] · [[2026-07-01-investigation-finds-xai-s-grok-bypassing-its-own-safety-guar]]
+**Related:** [[2026-06-10-xai-fired-engineer-who-raised-grok-safety-alarms-new-lawsuit]] · [[2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok]] · [[2026-08-20-grok-sends-gibberish-responses-amid-xai-staff-exodus]] · [[2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam]] · [[2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover]]
 <!-- graph:end -->

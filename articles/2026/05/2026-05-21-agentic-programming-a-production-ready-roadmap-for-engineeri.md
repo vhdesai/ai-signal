@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-10-practitioners-who-deployed-agentic-ai-pipelines-in-late-2025
 - 2026-07-31-the-end-to-end-agentic-ai-pipeline
+- 2026-08-24-machine-learning-mastery-publishes-guidance-on-integrating-a
 - 2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent
 - 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
-- 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 embedding_id: 2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A comprehensive tutorial roadmap covering what agentic programming is, how produ
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-04-10-practitioners-who-deployed-agentic-ai-pipelines-in-late-2025]] · [[2026-07-31-the-end-to-end-agentic-ai-pipeline]] · [[2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]]
+**Related:** [[2026-04-10-practitioners-who-deployed-agentic-ai-pipelines-in-late-2025]] · [[2026-07-31-the-end-to-end-agentic-ai-pipeline]] · [[2026-08-24-machine-learning-mastery-publishes-guidance-on-integrating-a]] · [[2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]]
 <!-- graph:end -->

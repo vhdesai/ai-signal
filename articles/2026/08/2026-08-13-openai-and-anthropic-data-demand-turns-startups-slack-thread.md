@@ -25,6 +25,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s
 - 2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product
 - 2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a
@@ -41,5 +42,5 @@ AI labs including OpenAI, Anthropic, and Google are driving a surge in demand fo
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Global AI Race]]
-**Related:** [[2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s]] · [[2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product]] · [[2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a]]
+**Related:** [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s]] · [[2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product]] · [[2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a]]
 <!-- graph:end -->

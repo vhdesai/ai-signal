@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-06-rumor-model-release-reported-gemini-3-5-pro-leak-points-to-2
 - 2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan
 - 2026-07-06-leak-google-s-gemini-3-5-pro-said-to-bring-2m-token-context
-- 2026-07-20-google-works-on-frozen-v2-chip-to-improve-gemini-inference-e
+- 2026-08-20-google-s-gemma-open-models-pass-1-billion-downloads
 embedding_id: 2026-05-08-a-viral-claim-from-privacy-researcher-alexander-hanff-that-g
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A viral claim from privacy researcher Alexander Hanff — that Google Chrome was
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip]] · [[2026-07-06-rumor-model-release-reported-gemini-3-5-pro-leak-points-to-2]] · [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-07-06-leak-google-s-gemini-3-5-pro-said-to-bring-2m-token-context]] · [[2026-07-20-google-works-on-frozen-v2-chip-to-improve-gemini-inference-e]]
+**Related:** [[2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip]] · [[2026-07-06-rumor-model-release-reported-gemini-3-5-pro-leak-points-to-2]] · [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-07-06-leak-google-s-gemini-3-5-pro-said-to-bring-2m-token-context]] · [[2026-08-20-google-s-gemma-open-models-pass-1-billion-downloads]]
 <!-- graph:end -->

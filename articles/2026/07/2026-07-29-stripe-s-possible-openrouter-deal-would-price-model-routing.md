@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-29-stripe-s-potential-openrouter-deal-would-price-model-routing
+- 2026-08-20-stripe-acquires-ai-marketplace-openrouter-for-7-5-billion
 - 2026-07-24-stripe-is-reportedly-in-talks-to-buy-openrouter
 - 2026-08-16-stripe-to-acquire-ai-gateway-startup-openrouter-for-more-tha
 - 2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter
-- 2026-08-07-stripe-in-exclusive-talks-to-buy-openrouter-for-around-10-bi
 embedding_id: 2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A potential Stripe acquisition of OpenRouter near $10 billion would value the mo
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-stripe-s-potential-openrouter-deal-would-price-model-routing]] · [[2026-07-24-stripe-is-reportedly-in-talks-to-buy-openrouter]] · [[2026-08-16-stripe-to-acquire-ai-gateway-startup-openrouter-for-more-tha]] · [[2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter]] · [[2026-08-07-stripe-in-exclusive-talks-to-buy-openrouter-for-around-10-bi]]
+**Related:** [[2026-07-29-stripe-s-potential-openrouter-deal-would-price-model-routing]] · [[2026-08-20-stripe-acquires-ai-marketplace-openrouter-for-7-5-billion]] · [[2026-07-24-stripe-is-reportedly-in-talks-to-buy-openrouter]] · [[2026-08-16-stripe-to-acquire-ai-gateway-startup-openrouter-for-more-tha]] · [[2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter]]
 <!-- graph:end -->

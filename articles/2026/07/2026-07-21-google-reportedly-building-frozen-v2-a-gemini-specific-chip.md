@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-20-google-works-on-frozen-v2-chip-to-improve-gemini-inference-e
 - 2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient
 - 2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp
+- 2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics
 - 2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu
-- 2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch
 embedding_id: 2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google is reportedly developing a custom inference chip that hardwires the Gemin
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-20-google-works-on-frozen-v2-chip-to-improve-gemini-inference-e]] · [[2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient]] · [[2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp]] · [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu]] · [[2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch]]
+**Related:** [[2026-07-20-google-works-on-frozen-v2-chip-to-improve-gemini-inference-e]] · [[2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient]] · [[2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp]] · [[2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics]] · [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin
 - 2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement
 - 2026-07-29-thinking-machines-co-founder-lilian-weng-departs-rejoins-ope
-- 2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back
+- 2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap
 embedding_id: 2026-08-03-13-ai-talent-war-intensifies-lilian-weng-reportedly-returns
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Reporting points to accelerating researcher poaching across OpenAI, Meta, Anthro
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin]] · [[2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement]] · [[2026-07-29-thinking-machines-co-founder-lilian-weng-departs-rejoins-ope]] · [[2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back]]
+**Related:** [[2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin]] · [[2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement]] · [[2026-07-29-thinking-machines-co-founder-lilian-weng-departs-rejoins-ope]] · [[2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap]]
 <!-- graph:end -->

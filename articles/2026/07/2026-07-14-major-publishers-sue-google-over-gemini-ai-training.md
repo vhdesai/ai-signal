@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil
+- 2026-08-23-techcrunch-is-it-legal-to-train-ai-on-copyrighted-books-it-s
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
 - 2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou
 - 2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw
-- 2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t
 embedding_id: 2026-07-14-major-publishers-sue-google-over-gemini-ai-training
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Hachette, Cengage, Elsevier, Scott Turow, and S.C.R.I.B.E. filed a class action 
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou]] · [[2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw]] · [[2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t]]
+**Related:** [[2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil]] · [[2026-08-23-techcrunch-is-it-legal-to-train-ai-on-copyrighted-books-it-s]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou]] · [[2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw]]
 <!-- graph:end -->

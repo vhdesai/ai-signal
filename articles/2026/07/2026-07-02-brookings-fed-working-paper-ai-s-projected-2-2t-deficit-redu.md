@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-31-wsj-argues-ai-job-loss-policy-should-tax-capital-not-labor
 - 2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a
 - 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
-- 2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro
+- 2026-08-23-study-finds-90-of-executives-report-no-ai-productivity-gain
 embedding_id: 2026-07-02-brookings-fed-working-paper-ai-s-projected-2-2t-deficit-redu
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A new working paper from economists at Brookings and the Federal Reserve finds A
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-31-simple-answer-to-ai-job-loss-tax-capital-not-labor]] · [[2026-07-31-wsj-argues-ai-job-loss-policy-should-tax-capital-not-labor]] · [[2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro]]
+**Related:** [[2026-07-31-simple-answer-to-ai-job-loss-tax-capital-not-labor]] · [[2026-07-31-wsj-argues-ai-job-loss-policy-should-tax-capital-not-labor]] · [[2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-08-23-study-finds-90-of-executives-report-no-ai-productivity-gain]]
 <!-- graph:end -->

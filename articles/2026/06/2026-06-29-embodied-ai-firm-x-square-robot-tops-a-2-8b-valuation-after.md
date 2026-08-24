@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021
+- 2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi
+- 2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its
+- 2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation
 - 2026-08-15-china-s-infiforce-raises-150m-for-an-embodied-ai-world-model
-- 2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation
-- 2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10
-- 2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes
 embedding_id: 2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Shenzhen-based X Square Robot disclosed four consecutive financing rounds culmin
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-08-15-china-s-infiforce-raises-150m-for-an-embodied-ai-world-model]] · [[2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation]] · [[2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10]] · [[2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes]]
+**Related:** [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi]] · [[2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its]] · [[2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation]] · [[2026-08-15-china-s-infiforce-raises-150m-for-an-embodied-ai-world-model]]
 <!-- graph:end -->

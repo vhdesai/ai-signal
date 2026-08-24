@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-20-openai-testing-chatgpt-for-science-subscription-targeting-re
 - 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
+- 2026-08-23-teachers-split-on-openai-s-chatgpt-for-teens
 - 2026-08-06-openai-expands-free-chatgpt-text-access-with-gpt-5-6-luna
 - 2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar
-- 2026-08-12-openai-begins-testing-ads-in-chatgpt
 embedding_id: 2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Leaked UI elements suggest OpenAI is developing a "ChatGPT for Science" subscrip
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-20-openai-testing-chatgpt-for-science-subscription-targeting-re]] · [[2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re]] · [[2026-08-06-openai-expands-free-chatgpt-text-access-with-gpt-5-6-luna]] · [[2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]]
+**Related:** [[2026-06-20-openai-testing-chatgpt-for-science-subscription-targeting-re]] · [[2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re]] · [[2026-08-23-teachers-split-on-openai-s-chatgpt-for-teens]] · [[2026-08-06-openai-expands-free-chatgpt-text-access-with-gpt-5-6-luna]] · [[2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar]]
 <!-- graph:end -->

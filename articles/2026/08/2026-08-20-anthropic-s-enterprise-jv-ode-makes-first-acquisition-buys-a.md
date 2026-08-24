@@ -18,12 +18,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-15-anthropic-and-blackstone-back-ode-as-ai-implementation-becom
-- 2026-05-21-anthropic-blackstone-h-f-jv-makes-first-acquisition-fraction
-- 2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman
+dedupe_status: duplicate
+canonical_article_id: 2026-08-20-anthropic-s-enterprise-ai-joint-venture-acquires-consultancy
+related_article_ids: []
 embedding_id: 2026-08-20-anthropic-s-enterprise-jv-ode-makes-first-acquisition-buys-a
 event_name: ''
 ---
@@ -37,5 +34,5 @@ Ode, the joint venture established by Anthropic and Wall Street firms including 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-15-anthropic-and-blackstone-back-ode-as-ai-implementation-becom]] · [[2026-05-21-anthropic-blackstone-h-f-jv-makes-first-acquisition-fraction]] · [[2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman]]
+**Canonical:** [[2026-08-20-anthropic-s-enterprise-ai-joint-venture-acquires-consultancy]]
 <!-- graph:end -->

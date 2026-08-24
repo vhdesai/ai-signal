@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o
 - 2026-06-01-anthropic-confidentially-files-for-u-s-ipo
 - 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve
-- 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest
+- 2026-08-21-anthropic-prepares-a-record-ipo-that-could-top-spacex-s-debu
 embedding_id: 2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic confirmed it has confidentially filed for a U.S. initial public offeri
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o]] · [[2026-06-01-anthropic-confidentially-files-for-u-s-ipo]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest]]
+**Related:** [[2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o]] · [[2026-06-01-anthropic-confidentially-files-for-u-s-ipo]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]] · [[2026-08-21-anthropic-prepares-a-record-ipo-that-could-top-spacex-s-debu]]
 <!-- graph:end -->

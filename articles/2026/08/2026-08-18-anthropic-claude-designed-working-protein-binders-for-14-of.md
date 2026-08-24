@@ -22,10 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-23-claude-autonomously-designed-protein-binders-that-worked-aga
+- 2026-08-23-claude-autonomously-designed-protein-binders-effective-again
 - 2026-05-18-anthropic-launches-claude-design-for-visual-collaboration
 - 2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res
 - 2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r
-- 2026-04-20-anthropic-april-17-2026-anthropic-unveiled-claude-design-a-s
 embedding_id: 2026-08-18-anthropic-claude-designed-working-protein-binders-for-14-of
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Anthropic published lab-validated results in which Claude models designed protei
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-18-anthropic-launches-claude-design-for-visual-collaboration]] · [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]] · [[2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r]] · [[2026-04-20-anthropic-april-17-2026-anthropic-unveiled-claude-design-a-s]]
+**Related:** [[2026-08-23-claude-autonomously-designed-protein-binders-that-worked-aga]] · [[2026-08-23-claude-autonomously-designed-protein-binders-effective-again]] · [[2026-05-18-anthropic-launches-claude-design-for-visual-collaboration]] · [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]] · [[2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r]]
 <!-- graph:end -->

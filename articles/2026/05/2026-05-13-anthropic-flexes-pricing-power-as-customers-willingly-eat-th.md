@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-17-anthropic-s-annualized-revenue-surges-to-65-billion-ahead-of
 - 2026-08-18-anthropic-s-annualized-revenue-tops-65-billion-ahead-of-ipo
 - 2026-08-17-anthropic-s-annualized-revenue-run-rate-surges-past-65b
+- 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
-- 2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b-up-rough
 embedding_id: 2026-05-13-anthropic-flexes-pricing-power-as-customers-willingly-eat-th
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic's revenue growth is unprecedented, and enterprise buyers like PagerDut
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-17-anthropic-s-annualized-revenue-surges-to-65-billion-ahead-of]] · [[2026-08-18-anthropic-s-annualized-revenue-tops-65-billion-ahead-of-ipo]] · [[2026-08-17-anthropic-s-annualized-revenue-run-rate-surges-past-65b]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b-up-rough]]
+**Related:** [[2026-08-17-anthropic-s-annualized-revenue-surges-to-65-billion-ahead-of]] · [[2026-08-18-anthropic-s-annualized-revenue-tops-65-billion-ahead-of-ipo]] · [[2026-08-17-anthropic-s-annualized-revenue-run-rate-surges-past-65b]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-22-california-governor-newsom-orders-first-us-state-ai-jobs-imp
 - 2026-04-01-governor-gavin-newsom-signed-an-executive-order-on-march-30
 - 2026-05-23-california-issues-trusted-ai-procurement-executive-order-man
+- 2026-08-22-openai-asks-california-to-strengthen-its-own-ai-safety-bill
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
-- 2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a
 embedding_id: 2026-05-22-california-governor-gavin-newsom-ordered-state-officials-thu
 event_name: ''
 ---
@@ -37,5 +37,5 @@ California Governor Gavin Newsom ordered state officials Thursday to begin devel
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Related:** [[2026-05-22-california-governor-newsom-orders-first-us-state-ai-jobs-imp]] · [[2026-04-01-governor-gavin-newsom-signed-an-executive-order-on-march-30]] · [[2026-05-23-california-issues-trusted-ai-procurement-executive-order-man]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a]]
+**Related:** [[2026-05-22-california-governor-newsom-orders-first-us-state-ai-jobs-imp]] · [[2026-04-01-governor-gavin-newsom-signed-an-executive-order-on-march-30]] · [[2026-05-23-california-issues-trusted-ai-procurement-executive-order-man]] · [[2026-08-22-openai-asks-california-to-strengthen-its-own-ai-safety-bill]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]]
 <!-- graph:end -->

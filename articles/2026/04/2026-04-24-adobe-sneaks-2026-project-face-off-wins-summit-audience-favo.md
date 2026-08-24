@@ -19,7 +19,6 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb
 - 2026-05-18-a-new-paper-analyzing-over-160-000-product-launches-on-produ
 - 2026-07-20-adobe-s-project-indigo-adds-ai-photo-critique-and-editing-gu
 embedding_id: 2026-04-24-adobe-sneaks-2026-project-face-off-wins-summit-audience-favo
@@ -35,5 +34,5 @@ Adobe's annual Sneaks showcase featured seven prototypes; Project Face Off — w
 
 **Entities:** [[Adobe]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb]] · [[2026-05-18-a-new-paper-analyzing-over-160-000-product-launches-on-produ]] · [[2026-07-20-adobe-s-project-indigo-adds-ai-photo-critique-and-editing-gu]]
+**Related:** [[2026-05-18-a-new-paper-analyzing-over-160-000-product-launches-on-produ]] · [[2026-07-20-adobe-s-project-indigo-adds-ai-photo-critique-and-editing-gu]]
 <!-- graph:end -->

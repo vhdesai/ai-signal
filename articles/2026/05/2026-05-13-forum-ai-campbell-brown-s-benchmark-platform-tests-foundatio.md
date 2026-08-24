@@ -44,8 +44,8 @@ related_article_ids:
 - 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
 - 2026-05-27-deepswe-exposes-benchmark-gaming-as-a-frontier-model-problem
 - 2026-05-27-ai-and-strategic-stability-a-framework-for-us-china-technolo
+- 2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro
 - 2026-05-27-benchmark-integrity-emerges-as-an-ai-safety-adjacent-issue-v
-- 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
 embedding_id: 2026-05-13-forum-ai-campbell-brown-s-benchmark-platform-tests-foundatio
 event_name: ''
 ---
@@ -59,5 +59,5 @@ Former Meta news chief Campbell Brown detailed Forum AI at StrictlyVC: a benchma
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]] · [[2026-05-27-deepswe-exposes-benchmark-gaming-as-a-frontier-model-problem]] · [[2026-05-27-ai-and-strategic-stability-a-framework-for-us-china-technolo]] · [[2026-05-27-benchmark-integrity-emerges-as-an-ai-safety-adjacent-issue-v]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]]
+**Related:** [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]] · [[2026-05-27-deepswe-exposes-benchmark-gaming-as-a-frontier-model-problem]] · [[2026-05-27-ai-and-strategic-stability-a-framework-for-us-china-technolo]] · [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro]] · [[2026-05-27-benchmark-integrity-emerges-as-an-ai-safety-adjacent-issue-v]]
 <!-- graph:end -->

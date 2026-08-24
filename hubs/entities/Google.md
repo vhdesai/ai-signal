@@ -1,18 +1,48 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1073
+member_count: 1103
 ---
 
 # Google
 
-> Auto-generated entity hub. 1073 connected article(s).
+> Auto-generated entity hub. 1103 connected article(s).
 
+- `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
+- `2026-08-23` [[2026-08-23-claude-deepens-google-workspace-integration-chatgpt-gains-dr|Claude Deepens Google Workspace Integration; ChatGPT Gains Drive File Editing]]
+- `2026-08-22` [[2026-08-22-study-frontier-labs-have-few-published-plans-for-containing|Study: Frontier Labs Have Few Published Plans for Containing a Rogue Model]]
+- `2026-08-22` [[2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma|Saturday coverage: AI content demand strains the rare-book market]]
+- `2026-08-22` [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and|Open-source course maps three ways to run an agent loop — and the provider economics behind each]]
+- `2026-08-22` [[2026-08-22-nvidia-notifies-customers-of-ai-server-price-hikes-above-15|Nvidia notifies customers of AI server price hikes above 15%]]
+- `2026-08-22` [[2026-08-22-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s|Nvidia Warns Largest Customers of 15%+ Price Increases on AI Servers]]
+- `2026-08-22` [[2026-08-22-nvidia-warns-large-customers-of-15-price-increases-on-ai-ser|Nvidia Warns Large Customers of 15%+ Price Increases on AI Servers]]
+- `2026-08-22` [[2026-08-22-inherent-founded-by-deepmind-alumni-says-its-ai-teammate-out|Inherent, founded by DeepMind alumni, says its AI 'teammate' outperformed Anthropic and OpenAI at replicating research]]
+- `2026-08-22` [[2026-08-22-inherent-s-faraday-agent-outperforms-frontier-models-at-repr|Inherent's "Faraday" Agent Outperforms Frontier Models at Reproducing Published Research]]
+- `2026-08-22` [[2026-08-22-inherent-exits-stealth-with-50m-says-its-agent-beats-frontie|Inherent exits stealth with $50M, says its agent beats frontier labs at reproducing papers]]
+- `2026-08-22` [[2026-08-22-inherent-exits-stealth-with-50m-claims-its-agent-beats-front|Inherent Exits Stealth With $50M — Claims Its Agent Beats Frontier Labs at Reproducing Papers]]
+- `2026-08-22` [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro|Frontier AI labs still won't say how they would contain a rogue model]]
+- `2026-08-21` [[2026-08-21-judge-overturns-economic-espionage-counts-against-former-goo|Judge Overturns Economic-Espionage Counts Against Former Google AI Engineer]]
+- `2026-08-21` [[2026-08-21-google-s-open-gemma-models-pass-one-billion-downloads|Google's open Gemma models pass one billion downloads]]
+- `2026-08-21` [[2026-08-21-google-s-gemma-open-models-pass-one-billion-downloads|Google's Gemma open models pass one billion downloads]]
+- `2026-08-21` [[2026-08-21-google-rolls-out-new-personalization-controls-across-search|Google rolls out new personalization controls across Search, Discover and News]]
+- `2026-08-21` [[2026-08-21-bcc-research-ai-moved-from-experimentation-to-embedded-infra|BCC Research: AI moved from experimentation to embedded infrastructure in Q2 2026]]
+- `2026-08-20` [[2026-08-20-unitree-raises-904m-in-shanghai-ipo-factory-automation-seen|Unitree Raises $904M in Shanghai IPO; Factory Automation Seen as Biggest Humanoid Opportunity]]
+- `2026-08-20` [[2026-08-20-twin1-ai-raises-20m-for-per-employee-ai-twins|Twin1 AI Raises $20M for Per-Employee “AI Twins”]]
+- `2026-08-20` [[2026-08-20-serval-makes-catalyst-super-agent-generally-available-for-au|Serval Makes 'Catalyst' Super-Agent Generally Available for Autonomous IT Remediation]]
 - `2026-08-20` [[2026-08-20-robots-rewiring-construction|Robots Rewiring Construction]]
+- `2026-08-20` [[2026-08-20-palantir-adds-gemma-4-gemini-3-7-flash-and-grok-4-6-to-aip|Palantir Adds Gemma 4, Gemini 3.7 Flash and Grok 4.6 to AIP]]
 - `2026-08-20` [[2026-08-20-meta-ai-launches-mac-app-with-system-wide-dictation-powered|Meta AI Launches Mac App with System-Wide Dictation Powered by Muse Spark]]
 - `2026-08-20` [[2026-08-20-marvell-gives-google-rights-to-buy-up-to-12-2-billion-in-sto|Marvell Gives Google Rights to Buy Up to $12.2 Billion in Stock as Part of Chip Deal]]
+- `2026-08-20` [[2026-08-20-google-s-gemma-open-models-pass-one-billion-cumulative-downl|Google’s Gemma Open Models Pass One Billion Cumulative Downloads]]
+- `2026-08-20` [[2026-08-20-google-s-open-gemma-models-pass-one-billion-downloads|Google's Open Gemma Models Pass One Billion Downloads]]
+- `2026-08-20` [[2026-08-20-google-s-gemma-open-models-pass-1-billion-downloads|Google's Gemma Open Models Pass 1 Billion Downloads]]
+- `2026-08-20` [[2026-08-20-google-gives-publishers-a-new-way-to-fight-ai-driven-traffic|Google gives publishers a new way to fight AI-driven traffic losses]]
+- `2026-08-20` [[2026-08-20-google-launches-preferred-sources-button-to-help-publishers|Google Launches “Preferred Sources” Button to Help Publishers Fight AI Traffic Losses]]
+- `2026-08-20` [[2026-08-20-google-introduces-envharness-reshaping-static-training-world|Google Introduces EnvHarness: Reshaping Static Training Worlds for Agent Learning]]
+- `2026-08-20` [[2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i|Google Completes Gemini-in-Chrome Rollout to Android Users in the US]]
 - `2026-08-19` [[2026-08-19-white-house-ai-model-testing-framework-leaves-companies-with|White House AI Model Testing Framework Leaves Companies With Unanswered Questions]]
 - `2026-08-19` [[2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi|Meta AI Launches Native Mac App With Screen Sharing and Business Tools]]
+- `2026-08-19` [[2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2b-sh|Marvell Lands Google Custom AI Chip Deal With Up to $12.2B Share Purchase Right]]
 - `2026-08-19` [[2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil|Marvell Lands Google Custom AI Chip Deal With Up to $12.2 Billion Share Purchase Right]]
 - `2026-08-19` [[2026-08-19-google-launches-ai-study-tools-across-search-and-gemini-for|Google Launches AI Study Tools Across Search and Gemini for Back-to-School]]
 - `2026-08-18` [[2026-08-18-the-25-most-promising-robotics-startups-in-2026|The 25 Most Promising Robotics Startups in 2026]]

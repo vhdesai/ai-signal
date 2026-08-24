@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips
 - 2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co
+- 2026-08-21-broadcom-seeks-up-to-80-billion-in-debt-for-an-ai-chip-finan
 - 2026-07-14-ibm-plunges-about-25-on-q2-warning-as-enterprise-budgets-piv
 - 2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off
-- 2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall
 embedding_id: 2026-06-04-broadcom-slides-12-as-ai-guidance-disappoints-lofty-expectat
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Broadcom fell ~12–13% after fiscal Q2 results paired strong AI revenue growth 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips]] · [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co]] · [[2026-07-14-ibm-plunges-about-25-on-q2-warning-as-enterprise-budgets-piv]] · [[2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off]] · [[2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall]]
+**Related:** [[2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips]] · [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co]] · [[2026-08-21-broadcom-seeks-up-to-80-billion-in-debt-for-an-ai-chip-finan]] · [[2026-07-14-ibm-plunges-about-25-on-q2-warning-as-enterprise-budgets-piv]] · [[2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off]]
 <!-- graph:end -->

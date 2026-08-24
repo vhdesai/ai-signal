@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-31-china-restricts-travel-for-top-ai-researchers
+- 2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap
 - 2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models
 - 2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers
 embedding_id: 2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home
@@ -36,5 +37,5 @@ TechCrunch reports growing evidence that China's leading AI researchers — hist
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-31-china-restricts-travel-for-top-ai-researchers]] · [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]] · [[2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers]]
+**Related:** [[2026-05-31-china-restricts-travel-for-top-ai-researchers]] · [[2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap]] · [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]] · [[2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers]]
 <!-- graph:end -->

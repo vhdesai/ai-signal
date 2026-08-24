@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: Perplexity
-member_count: 51
+member_count: 57
 ---
 
 # Perplexity
 
-> Auto-generated entity hub. 51 connected article(s).
+> Auto-generated entity hub. 57 connected article(s).
 
+- `2026-08-24` [[2026-08-24-nvidia-weighs-perplexity-stake-at-30b-as-the-startup-s-arr-t|Nvidia weighs Perplexity stake at $30B+ as the startup’s ARR tops $750M]]
+- `2026-08-24` [[2026-08-24-nvidia-reportedly-discussed-a-perplexity-investment-at-a-30|Nvidia reportedly discussed a Perplexity investment at a $30 billion-plus valuation]]
+- `2026-08-24` [[2026-08-24-nvidia-discusses-perplexity-investment-at-30-billion-plus-va|Nvidia Discusses Perplexity Investment at $30 Billion-Plus Valuation]]
+- `2026-08-24` [[2026-08-24-nvidia-discusses-perplexity-investment-at-30-billion-valuati|Nvidia Discusses Perplexity Investment at $30 Billion+ Valuation]]
+- `2026-08-24` [[2026-08-24-carnegie-mellon-ai-is-showing-a-revenue-payoff|Carnegie Mellon: AI Is Showing a Revenue Payoff]]
+- `2026-08-23` [[2026-08-23-scientists-push-back-ai-probably-won-t-cure-cancer-anytime-s|Scientists Push Back: AI Probably Won’t Cure Cancer Anytime Soon]]
 - `2026-08-18` [[2026-08-18-perplexity-s-free-ai-offer-left-it-with-millions-more-users|Perplexity's free AI offer left it with millions more users in India]]
 - `2026-08-18` [[2026-08-18-perplexity-s-india-experiment-ai-bundling-can-build-lasting|Perplexity's India Experiment: AI Bundling Can Build Lasting Revenue]]
 - `2026-08-18` [[2026-08-18-perplexity-s-india-experiment-shows-ai-bundling-can-build-la|Perplexity's India Experiment Shows AI Bundling Can Build Lasting Revenue]]

@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-21-u-s-ai-related-debt-issuance-hits-220b-as-bond-investors-pus
 - 2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge
 - 2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure
 - 2026-07-10-big-tech-s-ai-debt-load-doubles-to-350b-as-infrastructure-sp
-- 2026-06-10-amazon-borrows-17-5b-from-banks-as-ai-infrastructure-spendin
 embedding_id: 2026-06-10-morgan-stanley-global-ai-debt-issuance-to-top-500-billion-in
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Morgan Stanley projects global AI-related debt issuance will exceed $500 billion
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge]] · [[2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure]] · [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350b-as-infrastructure-sp]] · [[2026-06-10-amazon-borrows-17-5b-from-banks-as-ai-infrastructure-spendin]]
+**Related:** [[2026-08-21-u-s-ai-related-debt-issuance-hits-220b-as-bond-investors-pus]] · [[2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge]] · [[2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure]] · [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350b-as-infrastructure-sp]]
 <!-- graph:end -->

@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
+- 2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an
 - 2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren
 embedding_id: 2026-08-14-investors-battle-for-anthropic-shares-on-secondary-markets-a
 event_name: ''
@@ -37,5 +38,5 @@ Buying Anthropic shares on secondary markets has become extraordinarily competit
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]] · [[2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren]]
+**Related:** [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]] · [[2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an]] · [[2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren]]
 <!-- graph:end -->

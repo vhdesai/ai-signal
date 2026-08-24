@@ -22,6 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-flock-safety-adds-ai-surveillance-safeguards-after-backlash
+- 2026-08-23-flock-ceo-calls-for-compromise-as-ai-surveillance-backlash-g
+- 2026-08-23-flock-safety-ceo-calls-for-compromise-as-ai-surveillance-fac
 embedding_id: 2026-07-31-flock-safety-license-plate-readers-misread-71-of-police-aler
 event_name: ''
 ---
@@ -34,5 +36,5 @@ Business Insider reported that Flock Safety's AI-powered license-plate readers m
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-14-flock-safety-adds-ai-surveillance-safeguards-after-backlash]]
+**Related:** [[2026-08-14-flock-safety-adds-ai-surveillance-safeguards-after-backlash]] · [[2026-08-23-flock-ceo-calls-for-compromise-as-ai-surveillance-backlash-g]] · [[2026-08-23-flock-safety-ceo-calls-for-compromise-as-ai-surveillance-fac]]
 <!-- graph:end -->

@@ -23,10 +23,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai
+- 2026-08-23-alibaba-raises-10-2bn-in-hong-kong-earmarks-100-for-ai
+- 2026-08-23-alibaba-raises-10-2b-in-hong-kong-s-biggest-ever-follow-on-t
 - 2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek
-- 2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and
-- 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
-- 2026-08-12-tencent-posts-rmb-204-8b-quarter-with-ai-boosted-marketing-a
+- 2026-08-24-alibaba-plans-to-raise-10-2-billion-for-ai-investment
 embedding_id: 2026-07-04-kling-ai-raises-2-8b-from-alibaba-tencent-and-baidu-at-a-15b
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Kuaishou’s AI-video unit Kling AI secured more than $2.8B (~19B yuan) from inv
 
 **Entities:** [[Alibaba]] · [[Baidu]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek]] · [[2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]] · [[2026-08-12-tencent-posts-rmb-204-8b-quarter-with-ai-boosted-marketing-a]]
+**Related:** [[2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai]] · [[2026-08-23-alibaba-raises-10-2bn-in-hong-kong-earmarks-100-for-ai]] · [[2026-08-23-alibaba-raises-10-2b-in-hong-kong-s-biggest-ever-follow-on-t]] · [[2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek]] · [[2026-08-24-alibaba-plans-to-raise-10-2-billion-for-ai-investment]]
 <!-- graph:end -->

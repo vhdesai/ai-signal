@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-21-broadcom-seeks-up-to-80-billion-in-debt-for-an-ai-chip-finan
+- 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70b-in-debt-for-ai-chip
+- 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a
 - 2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent
-- 2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c
-- 2026-07-22-openai-s-ai-spending-commitments-approach-750b
-- 2026-06-24-openai-and-broadcom-unveil-jalape-o-their-first-custom-ai-in
-- 2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r
+- 2026-08-21-broadcom-seeks-60-80b-in-debt-to-build-ai-chip-capacity-for
 embedding_id: 2026-05-09-openai-s-18-billion-custom-ai-chip-initiative-with-broadcom
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI's $18 billion custom AI chip initiative with Broadcom — code-named Proj
 
 **Entities:** [[Microsoft]] · [[OpenAI]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent]] · [[2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]] · [[2026-06-24-openai-and-broadcom-unveil-jalape-o-their-first-custom-ai-in]] · [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]]
+**Related:** [[2026-08-21-broadcom-seeks-up-to-80-billion-in-debt-for-an-ai-chip-finan]] · [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70b-in-debt-for-ai-chip]] · [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a]] · [[2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent]] · [[2026-08-21-broadcom-seeks-60-80b-in-debt-to-build-ai-chip-capacity-for]]
 <!-- graph:end -->

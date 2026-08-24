@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement
 - 2026-08-01-nvidia-releases-molt-an-apache-2-0-pytorch-native-agentic-re
+- 2026-08-21-nvidia-research-the-agent-harness-not-the-base-model-drives
 - 2026-08-17-one-ai-module-inflated-86-of-a-pipeline-s-accuracy-gains-by
 - 2026-08-03-openai-appears-to-be-positioning-astra-as-a-model-family-bui
-- 2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to
 embedding_id: 2026-08-03-molt-is-notable-less-as-a-standalone-model-story-and-more-as
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Molt is notable less as a standalone model story and more as evidence that the a
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement]] · [[2026-08-01-nvidia-releases-molt-an-apache-2-0-pytorch-native-agentic-re]] · [[2026-08-17-one-ai-module-inflated-86-of-a-pipeline-s-accuracy-gains-by]] · [[2026-08-03-openai-appears-to-be-positioning-astra-as-a-model-family-bui]] · [[2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to]]
+**Related:** [[2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement]] · [[2026-08-01-nvidia-releases-molt-an-apache-2-0-pytorch-native-agentic-re]] · [[2026-08-21-nvidia-research-the-agent-harness-not-the-base-model-drives]] · [[2026-08-17-one-ai-module-inflated-86-of-a-pipeline-s-accuracy-gains-by]] · [[2026-08-03-openai-appears-to-be-positioning-astra-as-a-model-family-bui]]
 <!-- graph:end -->

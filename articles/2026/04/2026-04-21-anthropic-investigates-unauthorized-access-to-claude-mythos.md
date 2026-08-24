@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
 - 2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan
 - 2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy
-- 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
+- 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
 embedding_id: 2026-04-21-anthropic-investigates-unauthorized-access-to-claude-mythos
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Anthropic is investigating unauthorized access to Claude Mythos, a restricted cy
 
 **Entities:** [[Adobe]] · [[Amazon]] · [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan]] · [[2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy]] · [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]]
+**Related:** [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan]] · [[2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy]] · [[2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35]]
 <!-- graph:end -->

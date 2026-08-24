@@ -21,7 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-15-anthropic-details-claude-s-watermark-limits-as-paying-users
-- 2026-08-14-anthropic-defends-and-explains-claude-watermarking-after-use
+- 2026-08-21-anthropic-watermarks-claude-s-writing-some-users-cancel-subs
+- 2026-08-21-anthropic-watermarks-claude-s-writing-users-cancel-subscript
 embedding_id: 2026-08-15-claude-subscribers-cancel-over-the-new-watermark
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Business Insider reports that dozens of users, including Max-tier subscribers, p
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-15-anthropic-details-claude-s-watermark-limits-as-paying-users]] · [[2026-08-14-anthropic-defends-and-explains-claude-watermarking-after-use]]
+**Related:** [[2026-08-15-anthropic-details-claude-s-watermark-limits-as-paying-users]] · [[2026-08-21-anthropic-watermarks-claude-s-writing-some-users-cancel-subs]] · [[2026-08-21-anthropic-watermarks-claude-s-writing-users-cancel-subscript]]
 <!-- graph:end -->

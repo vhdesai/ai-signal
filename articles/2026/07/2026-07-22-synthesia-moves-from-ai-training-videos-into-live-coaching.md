@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots
+- 2026-08-23-harvard-startup-bootcamp-uses-ai-avatars-of-instructors-for
 - 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
 - 2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact
 - 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
-- 2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale
 embedding_id: 2026-07-22-synthesia-moves-from-ai-training-videos-into-live-coaching
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TechCrunch reports that Synthesia launched Roleplay Sessions, an enterprise trai
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale]]
+**Related:** [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]] · [[2026-08-23-harvard-startup-bootcamp-uses-ai-avatars-of-instructors-for]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]]
 <!-- graph:end -->

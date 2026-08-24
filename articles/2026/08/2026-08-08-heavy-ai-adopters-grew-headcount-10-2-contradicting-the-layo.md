@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s
 - 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
+- 2026-08-23-study-finds-90-of-executives-report-no-ai-productivity-gain
 - 2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption
 - 2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu
-- 2026-04-13-source-mit-csail-uc-berkeley-national-day-today
 embedding_id: 2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A Ramp/Revelio Labs study of 21,000+ US firms found that high-intensity AI adopt
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption]] · [[2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu]] · [[2026-04-13-source-mit-csail-uc-berkeley-national-day-today]]
+**Related:** [[2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-08-23-study-finds-90-of-executives-report-no-ai-productivity-gain]] · [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption]] · [[2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu]]
 <!-- graph:end -->

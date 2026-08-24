@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode
 - 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
+- 2026-08-22-nemo-guardrails-guide-illustrates-layered-controls-for-enter
 - 2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model
 - 2026-05-26-forge-open-source-project-guardrails-push-8b-model-from-53-t
-- 2026-07-24-ai-guardrails-are-impeding-legitimate-offensive-security-res
 embedding_id: 2026-07-14-ant-group-open-sources-singguard-nsfa-a-133-language-guardra
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Ant Group’s AI Safety Lab released SingGuard-NSFA, a guardrail that intercepts
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model]] · [[2026-05-26-forge-open-source-project-guardrails-push-8b-model-from-53-t]] · [[2026-07-24-ai-guardrails-are-impeding-legitimate-offensive-security-res]]
+**Related:** [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-08-22-nemo-guardrails-guide-illustrates-layered-controls-for-enter]] · [[2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model]] · [[2026-05-26-forge-open-source-project-guardrails-push-8b-model-from-53-t]]
 <!-- graph:end -->

@@ -28,8 +28,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive
 - 2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con
+- 2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d
 - 2026-07-11-goldman-sachs-warns-the-u-s-will-bear-the-brunt-of-a-global
-- 2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat
 embedding_id: 2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat
 event_name: ''
 ---
@@ -43,5 +43,5 @@ The AP reports that ~$700B in 2026 data‑center investment — led by Alphabet,
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Meta]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive]] · [[2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con]] · [[2026-07-11-goldman-sachs-warns-the-u-s-will-bear-the-brunt-of-a-global]] · [[2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat]]
+**Related:** [[2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive]] · [[2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con]] · [[2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d]] · [[2026-07-11-goldman-sachs-warns-the-u-s-will-bear-the-brunt-of-a-global]]
 <!-- graph:end -->

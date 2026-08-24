@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-22-harvard-s-699-startup-bootcamp-offers-ai-avatars-of-its-inst
 - 2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
 - 2026-04-02-new-apple-siri-gets-multi-command-support-in-ios-27-apr-1-ap
-- 2026-07-06-apple-adds-siri-pace-and-expressivity-controls-in-the-ios-27
-- 2026-04-01-products-tools
+- 2026-08-22-harvard-business-school-bootcamp-ships-ai-avatars-of-its-ins
 embedding_id: 2026-04-16-apple-plans-to-send-a-significant-chunk-of-its-siri-team-few
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Apple plans to send a significant chunk of its Siri team (fewer than 200 enginee
 
 **Entities:** [[Apple]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-04-02-new-apple-siri-gets-multi-command-support-in-ios-27-apr-1-ap]] · [[2026-07-06-apple-adds-siri-pace-and-expressivity-controls-in-the-ios-27]] · [[2026-04-01-products-tools]]
+**Related:** [[2026-08-22-harvard-s-699-startup-bootcamp-offers-ai-avatars-of-its-inst]] · [[2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-04-02-new-apple-siri-gets-multi-command-support-in-ios-27-apr-1-ap]] · [[2026-08-22-harvard-business-school-bootcamp-ships-ai-avatars-of-its-ins]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
+- 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
 - 2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex
 - 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
-- 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
 embedding_id: 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic announced that the Claude Platform on AWS is now generally available, 
 
 **Entities:** [[Amazon]] · [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex]] · [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]]
+**Related:** [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35]] · [[2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex]] · [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]]
 <!-- graph:end -->

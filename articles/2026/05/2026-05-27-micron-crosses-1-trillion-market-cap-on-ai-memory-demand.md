@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 - 2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on
-- 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
+- 2026-08-21-micron-commits-10b-to-a-boise-research-hub-targeting-post-dr
 embedding_id: 2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Micron Technology crossed a $1 trillion market capitalization during the May 27 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]]
+**Related:** [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on]] · [[2026-08-21-micron-commits-10b-to-a-boise-research-hub-targeting-post-dr]]
 <!-- graph:end -->

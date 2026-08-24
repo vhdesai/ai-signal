@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: TSMC
-member_count: 57
+member_count: 58
 ---
 
 # TSMC
 
-> Auto-generated entity hub. 57 connected article(s).
+> Auto-generated entity hub. 58 connected article(s).
 
+- `2026-08-24` [[2026-08-24-xiaomi-launches-3nm-xring-o3-soc-and-a-6nm-npu-to-run-its-mi|Xiaomi launches 3nm Xring O3 SoC and a 6nm NPU to run its MiMo LLM on-device]]
 - `2026-08-19` [[2026-08-19-samsung-raises-advanced-foundry-prices-by-up-to-15|Samsung Raises Advanced Foundry Prices by Up to 15%]]
 - `2026-08-19` [[2026-08-19-cerebras-launches-cs-4-nexus-wafer-scale-inference-system|Cerebras launches CS-4 "Nexus" wafer-scale inference system]]
 - `2026-08-10` [[2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand|TSMC July revenue surges ~45% YoY on AI chip demand]]

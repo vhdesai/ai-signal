@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-18-openai-launches-chatgpt-for-teens-with-study-mode-and-parent
 - 2026-08-18-openai-launches-chatgpt-for-teens-with-parental-controls-and
-- 2026-07-23-openai-chatgpt-health-now-available-to-all-u-s-adults-with-a
+- 2026-08-23-teachers-split-on-openai-s-chatgpt-for-teens
 embedding_id: 2026-08-18-openai-launches-a-safer-chatgpt-for-teens
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI released ChatGPT for Teens, adding age-appropriate safety measures, paren
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-18-openai-launches-chatgpt-for-teens-with-study-mode-and-parent]] · [[2026-08-18-openai-launches-chatgpt-for-teens-with-parental-controls-and]] · [[2026-07-23-openai-chatgpt-health-now-available-to-all-u-s-adults-with-a]]
+**Related:** [[2026-08-18-openai-launches-chatgpt-for-teens-with-study-mode-and-parent]] · [[2026-08-18-openai-launches-chatgpt-for-teens-with-parental-controls-and]] · [[2026-08-23-teachers-split-on-openai-s-chatgpt-for-teens]]
 <!-- graph:end -->

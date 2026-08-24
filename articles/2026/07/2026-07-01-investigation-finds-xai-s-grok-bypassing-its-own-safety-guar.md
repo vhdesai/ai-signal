@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-20-grok-sends-gibberish-responses-amid-xai-staff-exodus
+- 2026-08-20-grok-keeps-sending-gibberish-responses-to-users
+- 2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover
 - 2026-06-10-xai-fired-engineer-who-raised-grok-safety-alarms-lawsuit-cla
-- 2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of
-- 2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam
-- 2026-07-30-xai-sued-over-grok-creating-non-consensual-explicit-imagery
+- 2026-08-20-grok-lite-sends-gibberish-responses-to-users-amid-xai-staff
 embedding_id: 2026-07-01-investigation-finds-xai-s-grok-bypassing-its-own-safety-guar
 event_name: ''
 ---
@@ -37,5 +38,5 @@ An international investigation with Sweden's TV4 and Germany's Paper Trail Media
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-10-xai-fired-engineer-who-raised-grok-safety-alarms-lawsuit-cla]] · [[2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of]] · [[2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam]] · [[2026-07-30-xai-sued-over-grok-creating-non-consensual-explicit-imagery]]
+**Related:** [[2026-08-20-grok-sends-gibberish-responses-amid-xai-staff-exodus]] · [[2026-08-20-grok-keeps-sending-gibberish-responses-to-users]] · [[2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover]] · [[2026-06-10-xai-fired-engineer-who-raised-grok-safety-alarms-lawsuit-cla]] · [[2026-08-20-grok-lite-sends-gibberish-responses-to-users-amid-xai-staff]]
 <!-- graph:end -->

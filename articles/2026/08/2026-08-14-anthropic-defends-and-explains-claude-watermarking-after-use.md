@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
+- 2026-08-21-anthropic-watermarks-claude-s-writing-some-users-cancel-subs
 - 2026-08-15-anthropic-details-how-claude-s-new-text-watermarking-will-wo
 embedding_id: 2026-08-14-anthropic-defends-and-explains-claude-watermarking-after-use
 event_name: ''
@@ -36,5 +37,5 @@ Business Insider reported that Anthropic defended and explained its AI watermark
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]] · [[2026-08-15-anthropic-details-how-claude-s-new-text-watermarking-will-wo]]
+**Related:** [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]] · [[2026-08-21-anthropic-watermarks-claude-s-writing-some-users-cancel-subs]] · [[2026-08-15-anthropic-details-how-claude-s-new-text-watermarking-will-wo]]
 <!-- graph:end -->

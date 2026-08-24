@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-02-databricks-appkit-replit-native-connector-for-enterprise-dat
 - 2026-05-26-replit-expands-agent-workspaces-for-enterprise-teams
+- 2026-08-21-replit-ships-an-mcp-server-for-managing-apps-from-chatgpt-cl
 - 2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors
 - 2026-05-17-replit-released-its-first-iphone-app-update-in-four-months-a
-- 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
 embedding_id: 2026-05-26-replit-databricks-lakebase-launch-partner-vibe-code-apps-ins
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Replit is a named Lakebase launch partner. Users connect to a Databricks workspa
 
 **Entities:** [[Databricks]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-02-databricks-appkit-replit-native-connector-for-enterprise-dat]] · [[2026-05-26-replit-expands-agent-workspaces-for-enterprise-teams]] · [[2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors]] · [[2026-05-17-replit-released-its-first-iphone-app-update-in-four-months-a]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]]
+**Related:** [[2026-05-02-databricks-appkit-replit-native-connector-for-enterprise-dat]] · [[2026-05-26-replit-expands-agent-workspaces-for-enterprise-teams]] · [[2026-08-21-replit-ships-an-mcp-server-for-managing-apps-from-chatgpt-cl]] · [[2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors]] · [[2026-05-17-replit-released-its-first-iphone-app-update-in-four-months-a]]
 <!-- graph:end -->

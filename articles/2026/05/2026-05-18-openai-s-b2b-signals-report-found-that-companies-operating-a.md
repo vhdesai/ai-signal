@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t
 - 2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me
 - 2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr
+- 2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
-- 2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur
 embedding_id: 2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI's B2B Signals Report found that companies operating at the AI frontier us
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t]] · [[2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me]] · [[2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur]]
+**Related:** [[2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t]] · [[2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me]] · [[2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr]] · [[2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]]
 <!-- graph:end -->

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-08-spacexai-releases-grok-4-5-pitched-by-musk-as-an-opus-class
 - 2026-05-15-reporting-from-may-14-confirms-that-elon-musk-s-spacexai-the
 - 2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co
-- 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
+- 2026-08-20-grok-sends-gibberish-responses-amid-xai-staff-exodus
 embedding_id: 2026-05-14-spacexai-hemorrhaging-research-staff-following-xai-spacex-in
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Reports indicate that SpaceXAI — the entity formed by the integration of xAI r
 
 **Entities:** [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-12-spacexai-ships-grok-4-6-for-long-running-agents-musk-says-4]] · [[2026-07-08-spacexai-releases-grok-4-5-pitched-by-musk-as-an-opus-class]] · [[2026-05-15-reporting-from-may-14-confirms-that-elon-musk-s-spacexai-the]] · [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]] · [[2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work]]
+**Related:** [[2026-08-12-spacexai-ships-grok-4-6-for-long-running-agents-musk-says-4]] · [[2026-07-08-spacexai-releases-grok-4-5-pitched-by-musk-as-an-opus-class]] · [[2026-05-15-reporting-from-may-14-confirms-that-elon-musk-s-spacexai-the]] · [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]] · [[2026-08-20-grok-sends-gibberish-responses-amid-xai-staff-exodus]]
 <!-- graph:end -->

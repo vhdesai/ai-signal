@@ -1,16 +1,37 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 554
+member_count: 575
 ---
 
 # Meta
 
-> Auto-generated entity hub. 554 connected article(s).
+> Auto-generated entity hub. 575 connected article(s).
 
+- `2026-08-24` [[2026-08-24-tiktok-to-pay-400-million-to-settle-children-s-privacy-case|TikTok to Pay $400 Million to Settle Children’s Privacy Case]]
+- `2026-08-24` [[2026-08-24-meta-hires-openai-veteran-luke-metz|Meta Hires OpenAI Veteran Luke Metz]]
+- `2026-08-24` [[2026-08-24-luke-metz-leaves-openai-for-meta-superintelligence-labs|Luke Metz leaves OpenAI for Meta Superintelligence Labs]]
+- `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
+- `2026-08-22` [[2026-08-22-study-frontier-labs-still-publish-almost-no-plans-for-contai|Study: Frontier Labs Still Publish Almost No Plans for Containing a Rogue Model]]
+- `2026-08-22` [[2026-08-22-study-frontier-labs-have-few-published-plans-for-containing|Study: Frontier Labs Have Few Published Plans for Containing a Rogue Model]]
+- `2026-08-22` [[2026-08-22-study-frontier-ai-labs-still-won-t-say-how-they-d-contain-a|Study: Frontier AI Labs Still Won't Say How They'd Contain a Rogue Model]]
+- `2026-08-22` [[2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma|Saturday coverage: AI content demand strains the rare-book market]]
+- `2026-08-22` [[2026-08-22-frontier-labs-still-have-limited-public-detail-on-rogue-mode|Frontier labs still have limited public detail on rogue-model containment plans]]
+- `2026-08-22` [[2026-08-22-frontier-labs-lack-containment-plans-openai-reverses-on-sb-5|Frontier Labs Lack Containment Plans; OpenAI Reverses on SB 53]]
+- `2026-08-22` [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro|Frontier AI labs still won't say how they would contain a rogue model]]
+- `2026-08-22` [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-d-contain-a-rogue|Frontier AI Labs Still Won't Say How They'd Contain a Rogue Model]]
+- `2026-08-21` [[2026-08-21-meta-launches-ai-game-creation-app-pocket-across-the-us|Meta Launches AI Game-Creation App 'Pocket' Across the US]]
+- `2026-08-21` [[2026-08-21-meta-fair-researcher-zeyuan-allen-zhu-departs-after-four-yea|Meta FAIR researcher Zeyuan Allen-Zhu departs after four years]]
+- `2026-08-21` [[2026-08-21-doj-investigating-a16z-under-112-year-old-antitrust-law-over|DOJ Investigating a16z Under 112-Year-Old Antitrust Law Over Board Conflicts]]
+- `2026-08-20` [[2026-08-20-varonis-details-cosnitch-one-click-vulnerability-in-microsof|Varonis Details 'CoSnitch' One-Click Vulnerability in Microsoft 365 Copilot]]
+- `2026-08-20` [[2026-08-20-meta-s-ai-positioning-lags-alphabet-microsoft-and-amazon-as|Meta's AI positioning lags Alphabet, Microsoft and Amazon as capex pressures cash flow]]
+- `2026-08-20` [[2026-08-20-meta-pocket-vibe-coding-app-launches-in-u-s-continued|Meta Pocket Vibe-Coding App Launches in U.S. (Continued)]]
+- `2026-08-20` [[2026-08-20-meta-launches-pocket-a-vibe-coding-app-for-creating-and-shar|Meta Launches 'Pocket' — a Vibe-Coding App for Creating and Sharing Games — in the U.S.]]
+- `2026-08-20` [[2026-08-20-meta-launches-pocket-vibe-coding-app-for-creating-and-sharin|Meta Launches 'Pocket' — Vibe-Coding App for Creating and Sharing Games — in the U.S.]]
+- `2026-08-20` [[2026-08-20-meta-launches-pocket-vibe-coding-app-for-games-in-u-s-contin|Meta Launches 'Pocket' Vibe-Coding App for Games in U.S. (Continued)]]
 - `2026-08-20` [[2026-08-20-meta-ai-launches-mac-app-with-system-wide-dictation-powered|Meta AI Launches Mac App with System-Wide Dictation Powered by Muse Spark]]
-- `2026-08-19` [[2026-08-19-terrapower-s-molten-salt-nuclear-reactor-has-a-secret-weapon|TerraPower's Molten-Salt Nuclear Reactor Has a Secret Weapon for AI Data Centers]]
 - `2026-08-19` [[2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi|Meta AI Launches Native Mac App With Screen Sharing and Business Tools]]
+- `2026-08-19` [[2026-08-19-analysis-ai-was-supposed-to-win-people-over-by-now-it-hasn-t|Analysis: AI Was Supposed to Win People Over by Now — It Hasn't]]
 - `2026-08-18` [[2026-08-18-meta-faces-29-state-trial-over-alleged-harm-to-young-users|Meta faces 29-state trial over alleged harm to young users]]
 - `2026-08-18` [[2026-08-18-landmark-29-state-trial-against-meta-over-youth-harm-opens-i|Landmark 29-State Trial Against Meta Over Youth Harm Opens in Oakland]]
 - `2026-08-18` [[2026-08-18-apple-s-camera-equipped-airpods-may-avoid-pervert-pods-probl|Apple's Camera-Equipped AirPods May Avoid 'Pervert Pods' Problem via Recording Restrictions]]

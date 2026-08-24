@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-openai-brings-folha-and-uol-journalism-into-chatgpt-in-brazi
 - 2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal
+- 2026-08-24-openai-turns-on-chatgpt-ads-across-31-european-countries
 - 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
 - 2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl
-- 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
 embedding_id: 2026-05-26-openai-strikes-journalism-partnership-with-folha-and-uol-in
 event_name: ''
 ---
@@ -36,5 +36,5 @@ OpenAI's first media partnership in Brazil surfaces attributed Folha/UOL summari
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-05-27-openai-brings-folha-and-uol-journalism-into-chatgpt-in-brazi]] · [[2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]] · [[2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl]] · [[2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re]]
+**Related:** [[2026-05-27-openai-brings-folha-and-uol-journalism-into-chatgpt-in-brazi]] · [[2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal]] · [[2026-08-24-openai-turns-on-chatgpt-ads-across-31-european-countries]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]] · [[2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl]]
 <!-- graph:end -->

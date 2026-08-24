@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-20-one-in-five-enterprises-cannot-stop-a-runaway-ai-agent-s-spe
 - 2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco
+- 2026-08-20-one-in-five-enterprises-cannot-halt-a-runaway-ai-agent-s-spe
 - 2026-05-27-o-reilly-your-ai-agent-already-forgot-half-of-what-you-told
-- 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
-- 2026-05-14-enterprise-ai-governance-tools-outpace-policy-marktechpost-m
-- 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
+- 2026-08-20-one-in-five-enterprises-can-t-stop-a-runaway-ai-agent-s-spen
 embedding_id: 2026-05-12-ai-coders-carry-half-open-laptops-to-keep-agents-running
 event_name: ''
 ---
@@ -37,5 +37,5 @@ As long-running AI coding agents become production tools, developers are physica
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco]] · [[2026-05-27-o-reilly-your-ai-agent-already-forgot-half-of-what-you-told]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-05-14-enterprise-ai-governance-tools-outpace-policy-marktechpost-m]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]]
+**Related:** [[2026-08-20-one-in-five-enterprises-cannot-stop-a-runaway-ai-agent-s-spe]] · [[2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco]] · [[2026-08-20-one-in-five-enterprises-cannot-halt-a-runaway-ai-agent-s-spe]] · [[2026-05-27-o-reilly-your-ai-agent-already-forgot-half-of-what-you-told]] · [[2026-08-20-one-in-five-enterprises-can-t-stop-a-runaway-ai-agent-s-spen]]
 <!-- graph:end -->

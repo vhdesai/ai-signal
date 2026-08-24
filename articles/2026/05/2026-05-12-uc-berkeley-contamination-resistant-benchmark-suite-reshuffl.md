@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-12-uc-berkeley-paper-breaks-trust-in-all-public-agent-benchmark
+- 2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific
+- 2026-08-21-swe-bench-science-coding-agents-still-fail-on-real-scientifi
 - 2026-05-27-deepswe-exposes-benchmark-gaming-as-a-frontier-model-problem
 - 2026-05-26-deepswe-benchmark-crowns-gpt-5-5-and-finds-claude-opus-explo
-- 2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat
-- 2026-04-15-research-breakthroughs
 embedding_id: 2026-05-12-uc-berkeley-contamination-resistant-benchmark-suite-reshuffl
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Berkeley's contamination-resistant evaluation suite (SWE-bench Pro) is designed 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-12-uc-berkeley-paper-breaks-trust-in-all-public-agent-benchmark]] · [[2026-05-27-deepswe-exposes-benchmark-gaming-as-a-frontier-model-problem]] · [[2026-05-26-deepswe-benchmark-crowns-gpt-5-5-and-finds-claude-opus-explo]] · [[2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat]] · [[2026-04-15-research-breakthroughs]]
+**Related:** [[2026-05-12-uc-berkeley-paper-breaks-trust-in-all-public-agent-benchmark]] · [[2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific]] · [[2026-08-21-swe-bench-science-coding-agents-still-fail-on-real-scientifi]] · [[2026-05-27-deepswe-exposes-benchmark-gaming-as-a-frontier-model-problem]] · [[2026-05-26-deepswe-benchmark-crowns-gpt-5-5-and-finds-claude-opus-explo]]
 <!-- graph:end -->

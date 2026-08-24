@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe
 - 2026-04-23-tencent-previews-hunyuan-3-with-native-video-and-3d-generati
+- 2026-08-20-tencent-releases-hy-mt2-30b-a3b-and-hy-mt2-1-8b-translation
 - 2026-07-06-tencent-s-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-s
-- 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
 embedding_id: 2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Tencent released Hunyuan Hy3, a hybrid fast/slow-thinking reasoning model built 
 
 **Entities:** [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe]] · [[2026-04-23-tencent-previews-hunyuan-3-with-native-video-and-3d-generati]] · [[2026-07-06-tencent-s-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-s]] · [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]]
+**Related:** [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe]] · [[2026-04-23-tencent-previews-hunyuan-3-with-native-video-and-3d-generati]] · [[2026-08-20-tencent-releases-hy-mt2-30b-a3b-and-hy-mt2-1-8b-translation]] · [[2026-07-06-tencent-s-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-s]]
 <!-- graph:end -->

@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-09-adversarial-patterns-demonstrated-to-defeat-11-surveillance
 - 2026-08-09-adversarial-patterns-demonstrated-to-defeat-surveillance-cam
+- 2026-08-23-flock-safety-ceo-calls-for-compromise-as-ai-surveillance-fac
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 embedding_id: 2026-08-09-adversarial-patterns-defeat-11-surveillance-camera-systems-a
 event_name: ''
@@ -37,5 +38,5 @@ Researcher Bill Swearingen demonstrated that RL-generated visual patterns printe
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-09-adversarial-patterns-demonstrated-to-defeat-11-surveillance]] · [[2026-08-09-adversarial-patterns-demonstrated-to-defeat-surveillance-cam]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]]
+**Related:** [[2026-08-09-adversarial-patterns-demonstrated-to-defeat-11-surveillance]] · [[2026-08-09-adversarial-patterns-demonstrated-to-defeat-surveillance-cam]] · [[2026-08-23-flock-safety-ceo-calls-for-compromise-as-ai-surveillance-fac]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]]
 <!-- graph:end -->

@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-06-openai-unveils-lockdown-mode-to-protect-against-prompt-injec
+- 2026-08-21-zero-click-cryptographic-context-injection-attack-steals-gro
 - 2026-06-29-venturebeat-details-how-prompt-injection-remains-the-top-ent
 - 2026-06-26-this-paper-examines-prompt-injection-attacks-against-llm-bas
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-- 2026-07-10-prismata-confining-cross-site-prompt-injection-in-web-agents
 embedding_id: 2026-06-06-openai-unveils-lockdown-mode-against-prompt-injection
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Lockdown Mode disables live web browsing, image retrieval, Deep Research, and Ag
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-06-openai-unveils-lockdown-mode-to-protect-against-prompt-injec]] · [[2026-06-29-venturebeat-details-how-prompt-injection-remains-the-top-ent]] · [[2026-06-26-this-paper-examines-prompt-injection-attacks-against-llm-bas]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-07-10-prismata-confining-cross-site-prompt-injection-in-web-agents]]
+**Related:** [[2026-06-06-openai-unveils-lockdown-mode-to-protect-against-prompt-injec]] · [[2026-08-21-zero-click-cryptographic-context-injection-attack-steals-gro]] · [[2026-06-29-venturebeat-details-how-prompt-injection-remains-the-top-ent]] · [[2026-06-26-this-paper-examines-prompt-injection-attacks-against-llm-bas]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]]
 <!-- graph:end -->

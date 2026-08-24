@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
+- 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
 - 2026-06-05-nsa-reportedly-readying-anthropic-s-mythos-for-cyber-operati
-- 2026-05-22-anthropic-s-mythos-model-is-in-a-tightly-restricted-preview
 embedding_id: 2026-05-19-anthropic-lets-mythos-users-share-cyber-threats-with-one-ano
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic opened a feature in Mythos enabling users to share detected cyber thre
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-06-05-nsa-reportedly-readying-anthropic-s-mythos-for-cyber-operati]] · [[2026-05-22-anthropic-s-mythos-model-is-in-a-tightly-restricted-preview]]
+**Related:** [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35]] · [[2026-06-05-nsa-reportedly-readying-anthropic-s-mythos-for-cyber-operati]]
 <!-- graph:end -->

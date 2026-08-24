@@ -21,11 +21,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-23-unitree-s-460-ipo-stock-pop-in-shanghai-wasn-t-unusual-in-ch
+- 2026-08-23-unitree-s-460-ipo-stock-pop-reflects-china-s-ai-robotics-fre
+- 2026-08-23-unitree-s-460-ipo-stock-pop-in-shanghai
 - 2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto
-- 2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021
-- 2026-07-05-agility-robotics-is-going-public-via-spac
-- 2026-06-15-neura-robotics-plans-to-raise-1-2b-for-humanoid-robot-produc
-- 2026-08-15-china-s-infiforce-raises-150m-for-an-embodied-ai-world-model
+- 2026-08-23-unitree-s-460-ipo-pop-reflects-china-s-ai-robotics-frenzy
 embedding_id: 2026-08-12-unitree-s-shanghai-robotics-ipo-draws-8-000x-retail-oversubs
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Chinese humanoid robot maker Unitree priced its Shanghai IPO at 150.80 yuan per 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto]] · [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-07-05-agility-robotics-is-going-public-via-spac]] · [[2026-06-15-neura-robotics-plans-to-raise-1-2b-for-humanoid-robot-produc]] · [[2026-08-15-china-s-infiforce-raises-150m-for-an-embodied-ai-world-model]]
+**Related:** [[2026-08-23-unitree-s-460-ipo-stock-pop-in-shanghai-wasn-t-unusual-in-ch]] · [[2026-08-23-unitree-s-460-ipo-stock-pop-reflects-china-s-ai-robotics-fre]] · [[2026-08-23-unitree-s-460-ipo-stock-pop-in-shanghai]] · [[2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto]] · [[2026-08-23-unitree-s-460-ipo-pop-reflects-china-s-ai-robotics-frenzy]]
 <!-- graph:end -->

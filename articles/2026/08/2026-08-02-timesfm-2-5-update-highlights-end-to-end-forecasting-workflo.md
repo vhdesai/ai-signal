@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-timesfm-2-5-is-notable-because-it-emphasizes-the-full-foreca
+- 2026-04-03-google-research-released-timesfm-time-series-foundation-mode
+- 2026-08-21-autofigure-agentic-document-pipelines-for-generating-scienti
 - 2026-06-21-crawlee-for-python-workflow-packages-web-crawling-into-rag-r
-- 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
-- 2026-05-14-enterprise-ai-governance-tools-outpace-policy-marktechpost-m
-- 2026-08-03-june-s-pitch-is-that-ai-deployment-itself-has-become-a-softw
+- 2026-07-29-liquid-ai-releases-cpu-friendly-lfm2-5-encoder-models
 embedding_id: 2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MarkTechPost covered an end-to-end forecasting workflow around TimesFM 2.5, incl
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-timesfm-2-5-is-notable-because-it-emphasizes-the-full-foreca]] · [[2026-06-21-crawlee-for-python-workflow-packages-web-crawling-into-rag-r]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-14-enterprise-ai-governance-tools-outpace-policy-marktechpost-m]] · [[2026-08-03-june-s-pitch-is-that-ai-deployment-itself-has-become-a-softw]]
+**Related:** [[2026-08-03-timesfm-2-5-is-notable-because-it-emphasizes-the-full-foreca]] · [[2026-04-03-google-research-released-timesfm-time-series-foundation-mode]] · [[2026-08-21-autofigure-agentic-document-pipelines-for-generating-scienti]] · [[2026-06-21-crawlee-for-python-workflow-packages-web-crawling-into-rag-r]] · [[2026-07-29-liquid-ai-releases-cpu-friendly-lfm2-5-encoder-models]]
 <!-- graph:end -->

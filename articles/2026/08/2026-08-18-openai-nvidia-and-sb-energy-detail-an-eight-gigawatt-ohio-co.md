@@ -22,6 +22,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-20-ports-pike-advances-as-an-8-gw-ai-infrastructure-template-an
 - 2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai
 embedding_id: 2026-08-18-openai-nvidia-and-sb-energy-detail-an-eight-gigawatt-ohio-co
 event_name: ''
@@ -36,5 +37,5 @@ The Pike County, Ohio project is structured as a 20-year site commitment with a 
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai]]
+**Related:** [[2026-08-20-ports-pike-advances-as-an-8-gw-ai-infrastructure-template-an]] · [[2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai]]
 <!-- graph:end -->

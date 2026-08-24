@@ -20,9 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f
-- 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
-- 2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to
-- 2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and
+- 2026-08-20-ramp-launches-ai-model-router-continued
+- 2026-08-20-ramp-launches-ai-model-router-entering-market-days-after-str
+- 2026-08-23-ox-alpha-a-stealth-reasoning-model-appears-on-openrouter
+- 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
 embedding_id: 2026-07-28-fireworks-ai-releases-nexus-for-routing-coding-work-to-open
 event_name: ''
 ---
@@ -35,5 +36,5 @@ MarkTechPost reports that Fireworks AI released Fireworks Nexus, a drop-in routi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]] · [[2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to]] · [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]]
+**Related:** [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]] · [[2026-08-20-ramp-launches-ai-model-router-continued]] · [[2026-08-20-ramp-launches-ai-model-router-entering-market-days-after-str]] · [[2026-08-23-ox-alpha-a-stealth-reasoning-model-appears-on-openrouter]] · [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]]
 <!-- graph:end -->

@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-chatgpt-s-reported-dominance-in-identifiable-house-spending
+- 2026-08-03-california-agencies-expand-access-to-anthropic-claude-accord
 - 2026-08-16-singapore-positions-frontier-model-access-as-a-financial-sec
 - 2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i
 - 2026-08-16-ai-super-pacs-move-into-state-races-ahead-of-the-midterms
-- 2026-08-03-states-reconsidering-data-center-tax-incentives-adds-a-new-a
 embedding_id: 2026-08-03-california-s-broader-claude-access-signals-that-state-level
 event_name: ''
 ---
@@ -36,5 +36,5 @@ California’s broader Claude access signals that state-level public-sector depl
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-chatgpt-s-reported-dominance-in-identifiable-house-spending]] · [[2026-08-16-singapore-positions-frontier-model-access-as-a-financial-sec]] · [[2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i]] · [[2026-08-16-ai-super-pacs-move-into-state-races-ahead-of-the-midterms]] · [[2026-08-03-states-reconsidering-data-center-tax-incentives-adds-a-new-a]]
+**Related:** [[2026-08-03-chatgpt-s-reported-dominance-in-identifiable-house-spending]] · [[2026-08-03-california-agencies-expand-access-to-anthropic-claude-accord]] · [[2026-08-16-singapore-positions-frontier-model-access-as-a-financial-sec]] · [[2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i]] · [[2026-08-16-ai-super-pacs-move-into-state-races-ahead-of-the-midterms]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 - 2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu
+- 2026-08-23-why-your-local-model-feels-dumber-quantization-and-kernel-ch
 - 2026-07-21-apple-proposes-environment-free-synthetic-data-generation-fo
 - 2026-06-26-this-paper-examines-prompt-injection-attacks-against-llm-bas
-- 2026-04-11-princeton-s-center-for-information-technology-policy-publish
 embedding_id: 2026-07-15-apple-researchers-evaluate-uncertainty-for-llm-function-call
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Apple researchers published an evaluation of uncertainty quantification methods 
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu]] · [[2026-07-21-apple-proposes-environment-free-synthetic-data-generation-fo]] · [[2026-06-26-this-paper-examines-prompt-injection-attacks-against-llm-bas]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]]
+**Related:** [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu]] · [[2026-08-23-why-your-local-model-feels-dumber-quantization-and-kernel-ch]] · [[2026-07-21-apple-proposes-environment-free-synthetic-data-generation-fo]] · [[2026-06-26-this-paper-examines-prompt-injection-attacks-against-llm-bas]]
 <!-- graph:end -->

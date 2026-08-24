@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model
 - 2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after
-- 2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced
-- 2026-07-03-anthropic-taps-freshfields-to-steer-a-potential-trillion-dol
+- 2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its
+- 2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi
 embedding_id: 2026-08-03-14-ant-group-s-embodied-ai-arm-robbyant-begins-fundraising
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Ant Group’s embodied-AI unit Robbyant has reportedly opened fundraising, makin
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model]] · [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]] · [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]] · [[2026-07-03-anthropic-taps-freshfields-to-steer-a-potential-trillion-dol]]
+**Related:** [[2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model]] · [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]] · [[2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its]] · [[2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi]]
 <!-- graph:end -->

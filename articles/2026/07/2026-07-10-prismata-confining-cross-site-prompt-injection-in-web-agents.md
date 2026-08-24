@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-02-anthropic-research-flags-31-5-prompt-injection-hijack-rate-i
 - 2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9
 - 2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn
-- 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
+- 2026-08-21-zero-click-cryptographic-context-injection-attack-steals-gro
 embedding_id: 2026-07-10-prismata-confining-cross-site-prompt-injection-in-web-agents
 event_name: ''
 ---
@@ -36,5 +36,5 @@ UC Berkeley researchers introduced Prismata, a system-level defense against cros
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-06-02-anthropic-research-flags-31-5-prompt-injection-hijack-rate-i]] · [[2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9]] · [[2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]]
+**Related:** [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-06-02-anthropic-research-flags-31-5-prompt-injection-hijack-rate-i]] · [[2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9]] · [[2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn]] · [[2026-08-21-zero-click-cryptographic-context-injection-attack-steals-gro]]
 <!-- graph:end -->

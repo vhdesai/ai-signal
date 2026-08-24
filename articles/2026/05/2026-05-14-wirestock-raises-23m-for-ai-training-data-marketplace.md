@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
 - 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
 - 2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at
 - 2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation
 - 2026-08-12-ai-coding-valuations-accelerate-cognition-40b-lovable-13-3b
-- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 embedding_id: 2026-05-14-wirestock-raises-23m-for-ai-training-data-marketplace
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Wirestock, a platform connecting content creators with AI companies seeking lice
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]] · [[2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation]] · [[2026-08-12-ai-coding-valuations-accelerate-cognition-40b-lovable-13-3b]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
+**Related:** [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]] · [[2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation]] · [[2026-08-12-ai-coding-valuations-accelerate-cognition-40b-lovable-13-3b]]
 <!-- graph:end -->

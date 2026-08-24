@@ -22,11 +22,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai
+- 2026-08-23-alibaba-raises-10-2bn-in-hong-kong-earmarks-100-for-ai
+- 2026-08-24-alibaba-plunges-after-announcing-10-2-billion-share-placemen
 - 2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in
-- 2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai
-- 2026-08-12-tencent-posts-rmb-204-8b-quarter-with-ai-boosted-marketing-a
-- 2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns
-- 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
+- 2026-08-23-alibaba-raises-10-2b-in-hong-kong-s-biggest-ever-follow-on-t
 embedding_id: 2026-05-14-alibaba-cloud-grows-38-but-core-profit-plunges-84-on-ai-cape
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Alibaba cloud grows 38% but core profit plunges 84% on AI capex — CNBC, May 13
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai]] · [[2026-08-12-tencent-posts-rmb-204-8b-quarter-with-ai-boosted-marketing-a]] · [[2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]]
+**Related:** [[2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai]] · [[2026-08-23-alibaba-raises-10-2bn-in-hong-kong-earmarks-100-for-ai]] · [[2026-08-24-alibaba-plunges-after-announcing-10-2-billion-share-placemen]] · [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-08-23-alibaba-raises-10-2b-in-hong-kong-s-biggest-ever-follow-on-t]]
 <!-- graph:end -->

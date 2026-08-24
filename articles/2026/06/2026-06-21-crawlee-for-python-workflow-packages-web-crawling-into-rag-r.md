@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-23-labplot-guide-shows-scientific-data-analysis-pipelines-with
+- 2026-08-21-autofigure-agentic-document-pipelines-for-generating-scienti
 - 2026-08-08-shepherd-an-open-source-substrate-that-lets-meta-agents-fork
 - 2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline
 - 2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo
-- 2026-08-08-shepherd-lets-meta-agents-fork-replay-and-revert-any-agent-r
-- 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
 embedding_id: 2026-06-21-crawlee-for-python-workflow-packages-web-crawling-into-rag-r
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MarkTechPost published a Crawlee for Python workflow for building web-crawling p
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-08-shepherd-an-open-source-substrate-that-lets-meta-agents-fork]] · [[2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline]] · [[2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo]] · [[2026-08-08-shepherd-lets-meta-agents-fork-replay-and-revert-any-agent-r]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]]
+**Related:** [[2026-08-23-labplot-guide-shows-scientific-data-analysis-pipelines-with]] · [[2026-08-21-autofigure-agentic-document-pipelines-for-generating-scienti]] · [[2026-08-08-shepherd-an-open-source-substrate-that-lets-meta-agents-fork]] · [[2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline]] · [[2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo]]
 <!-- graph:end -->

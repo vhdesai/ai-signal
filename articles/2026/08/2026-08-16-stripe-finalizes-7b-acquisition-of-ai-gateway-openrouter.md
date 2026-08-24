@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-16-stripe-to-acquire-ai-gateway-startup-openrouter-for-more-tha
 - 2026-08-16-stripe-reportedly-acquires-ai-gateway-startup-openrouter-for
+- 2026-08-19-stripe-to-acquire-ai-model-marketplace-openrouter
 - 2026-08-16-stripe-will-reportedly-acquire-ai-gateway-startup-openrouter
 - 2026-08-16-stripe-openrouter-7b-deal-signals-payments-giant-s-ai-infras
-- 2026-07-24-stripe-is-reportedly-in-talks-to-buy-openrouter
 embedding_id: 2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Stripe has agreed to acquire OpenRouter, the routing layer that gives developers
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-16-stripe-to-acquire-ai-gateway-startup-openrouter-for-more-tha]] · [[2026-08-16-stripe-reportedly-acquires-ai-gateway-startup-openrouter-for]] · [[2026-08-16-stripe-will-reportedly-acquire-ai-gateway-startup-openrouter]] · [[2026-08-16-stripe-openrouter-7b-deal-signals-payments-giant-s-ai-infras]] · [[2026-07-24-stripe-is-reportedly-in-talks-to-buy-openrouter]]
+**Related:** [[2026-08-16-stripe-to-acquire-ai-gateway-startup-openrouter-for-more-tha]] · [[2026-08-16-stripe-reportedly-acquires-ai-gateway-startup-openrouter-for]] · [[2026-08-19-stripe-to-acquire-ai-model-marketplace-openrouter]] · [[2026-08-16-stripe-will-reportedly-acquire-ai-gateway-startup-openrouter]] · [[2026-08-16-stripe-openrouter-7b-deal-signals-payments-giant-s-ai-infras]]
 <!-- graph:end -->

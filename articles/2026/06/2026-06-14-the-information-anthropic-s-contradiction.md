@@ -21,7 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-ai-s
-- 2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return
+- 2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an
 embedding_id: 2026-06-14-the-information-anthropic-s-contradiction
 event_name: ''
 ---
@@ -35,5 +35,5 @@ The Information's briefing highlighted the contradiction at the heart of Anthrop
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-ai-s]] · [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return]]
+**Related:** [[2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-ai-s]] · [[2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an]]
 <!-- graph:end -->

@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-20-varonis-details-cosnitch-one-click-vulnerability-in-microsof
 - 2026-07-30-new-microsoft-copilot-flaws-reportedly-could-leak-customer-s
 - 2026-07-15-microsoft-patches-record-570-vulnerabilities-citing-ai-assis
 - 2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues
-- 2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co
 embedding_id: 2026-08-19-microsoft-patches-one-click-copilot-data-exfiltration-flaw-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft shipped a fix for "CoSnitch," a vulnerability chain that let a single 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-30-new-microsoft-copilot-flaws-reportedly-could-leak-customer-s]] · [[2026-07-15-microsoft-patches-record-570-vulnerabilities-citing-ai-assis]] · [[2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues]] · [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]]
+**Related:** [[2026-08-20-varonis-details-cosnitch-one-click-vulnerability-in-microsof]] · [[2026-07-30-new-microsoft-copilot-flaws-reportedly-could-leak-customer-s]] · [[2026-07-15-microsoft-patches-record-570-vulnerabilities-citing-ai-assis]] · [[2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues]]
 <!-- graph:end -->

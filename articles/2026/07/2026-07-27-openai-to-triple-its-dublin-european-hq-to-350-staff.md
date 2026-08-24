@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-openai-expands-european-footprint-with-new-dublin-hq-and-250
+- 2026-08-22-openai-codex-passes-20-million-users-as-rate-limit-complaint
 - 2026-07-27-hsbc-to-hire-100-ai-specialists-in-singapore-expansion
 embedding_id: 2026-07-27-openai-to-triple-its-dublin-european-hq-to-350-staff
 event_name: ''
@@ -35,5 +36,5 @@ OpenAI plans to hire around 250 more people to roughly triple its Dublin office 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-27-openai-expands-european-footprint-with-new-dublin-hq-and-250]] · [[2026-07-27-hsbc-to-hire-100-ai-specialists-in-singapore-expansion]]
+**Related:** [[2026-07-27-openai-expands-european-footprint-with-new-dublin-hq-and-250]] · [[2026-08-22-openai-codex-passes-20-million-users-as-rate-limit-complaint]] · [[2026-07-27-hsbc-to-hire-100-ai-specialists-in-singapore-expansion]]
 <!-- graph:end -->

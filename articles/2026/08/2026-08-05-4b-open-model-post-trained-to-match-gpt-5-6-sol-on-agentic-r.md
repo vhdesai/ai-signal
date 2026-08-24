@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-with
 - 2026-08-14-z-ai-ships-glm-5-3-all-gains-from-post-training-no-new-base
 - 2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re
-- 2026-08-12-open-reproducible-post-training-allenai-open-instruct-with-s
+- 2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and
 embedding_id: 2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Neon and Castform used a reinforcement-learning pipeline on Neon Lakebase Postgr
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe]] · [[2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-with]] · [[2026-08-14-z-ai-ships-glm-5-3-all-gains-from-post-training-no-new-base]] · [[2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re]] · [[2026-08-12-open-reproducible-post-training-allenai-open-instruct-with-s]]
+**Related:** [[2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe]] · [[2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-with]] · [[2026-08-14-z-ai-ships-glm-5-3-all-gains-from-post-training-no-new-base]] · [[2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re]] · [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and]]
 <!-- graph:end -->

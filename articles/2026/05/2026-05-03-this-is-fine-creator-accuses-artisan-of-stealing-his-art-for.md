@@ -20,6 +20,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
 - 2026-07-20-youtube-clarifies-monetization-rules-for-ai-generated-and-lo
+- 2026-08-23-techcrunch-is-it-legal-to-train-ai-on-copyrighted-books-it-s
 - 2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou
 embedding_id: 2026-05-03-this-is-fine-creator-accuses-artisan-of-stealing-his-art-for
 event_name: ''
@@ -33,5 +34,5 @@ Cartoonist KC Green says AI startup Artisan repurposed his iconic "This is fine"
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-07-20-youtube-clarifies-monetization-rules-for-ai-generated-and-lo]] · [[2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou]]
+**Related:** [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-07-20-youtube-clarifies-monetization-rules-for-ai-generated-and-lo]] · [[2026-08-23-techcrunch-is-it-legal-to-train-ai-on-copyrighted-books-it-s]] · [[2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou]]
 <!-- graph:end -->

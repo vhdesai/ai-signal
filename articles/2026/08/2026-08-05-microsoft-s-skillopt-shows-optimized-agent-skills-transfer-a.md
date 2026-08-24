@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-05-skillopt-shows-optimized-agent-skills-transfer-across-model
 - 2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent
+- 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
 - 2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s
-- 2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag
-- 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
+- 2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and
 embedding_id: 2026-08-05-microsoft-s-skillopt-shows-optimized-agent-skills-transfer-a
 event_name: ''
 ---
@@ -40,5 +40,5 @@ analysis of Microsoft Research's SkillOpt, which turns agent skills into trainab
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-05-skillopt-shows-optimized-agent-skills-transfer-across-model]] · [[2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent]] · [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]] · [[2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]]
+**Related:** [[2026-08-05-skillopt-shows-optimized-agent-skills-transfer-across-model]] · [[2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent]] · [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]] · [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]] · [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and]]
 <!-- graph:end -->

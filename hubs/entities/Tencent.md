@@ -1,13 +1,22 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 144
+member_count: 153
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 144 connected article(s).
+> Auto-generated entity hub. 153 connected article(s).
 
+- `2026-08-24` [[2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its|XPeng’s robotics arm raises $900M+ at a $6.3B valuation in its first outside round]]
+- `2026-08-24` [[2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi|XPeng Robotics Raises $900M+ at a $6.3B Valuation in Record China Embodied-AI Round]]
+- `2026-08-24` [[2026-08-24-bytedance-folds-trae-and-coze-into-doubao-to-challenge-tence|ByteDance folds Trae and Coze into Doubao to challenge Tencent’s WorkBuddy]]
+- `2026-08-24` [[2026-08-24-bytedance-folds-ai-tools-into-doubao-super-app-to-fight-tenc|ByteDance Folds AI Tools into Doubao Super-App to Fight Tencent]]
+- `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
+- `2026-08-22` [[2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma|Saturday coverage: AI content demand strains the rare-book market]]
+- `2026-08-22` [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro|Frontier AI labs still won't say how they would contain a rogue model]]
+- `2026-08-20` [[2026-08-20-tencent-releases-hy-mt2-30b-a3b-and-hy-mt2-1-8b-translation|Tencent Releases Hy-MT2-30B-A3B and Hy-MT2-1.8B Translation Models]]
+- `2026-08-20` [[2026-08-20-tencent-cloud-announces-first-malaysian-cloud-region-in-joho|Tencent Cloud Announces First Malaysian Cloud Region in Johor]]
 - `2026-08-19` [[2026-08-19-china-allows-bytedance-and-tencent-to-import-10-000-nvidia-h|China allows ByteDance and Tencent to import ~10,000 Nvidia H200 chips each]]
 - `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
 - `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]

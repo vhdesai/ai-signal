@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending
 - 2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion
+- 2026-08-22-gartner-ai-capabilities-will-outpace-cost-savings-enterprise
 - 2026-08-01-pitchbook-saas-pocalypse-enters-second-phase-as-ai-agents-re
-- 2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at
 embedding_id: 2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Gartner projects agentic AI will disrupt $234 billion of SaaS spend as software 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending]] · [[2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion]] · [[2026-08-01-pitchbook-saas-pocalypse-enters-second-phase-as-ai-agents-re]] · [[2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at]]
+**Related:** [[2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending]] · [[2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion]] · [[2026-08-22-gartner-ai-capabilities-will-outpace-cost-savings-enterprise]] · [[2026-08-01-pitchbook-saas-pocalypse-enters-second-phase-as-ai-agents-re]]
 <!-- graph:end -->

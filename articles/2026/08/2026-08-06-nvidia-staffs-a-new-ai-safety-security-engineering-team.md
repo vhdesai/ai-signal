@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-06-nvidia-assembles-new-ai-safety-engineering-team-doubles-down
+- 2026-08-21-nvidia-maps-where-security-belongs-in-the-ai-agent-stack
 - 2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli
 - 2026-08-04-nvidia-and-open-secure-ai-alliance-propose-safe-cybersecurit
 - 2026-08-04-nvidia-led-open-secure-ai-alliance-issues-first-agent-defens
-- 2026-07-27-nvidia-and-two-dozen-firms-launch-open-secure-ai-alliance
 embedding_id: 2026-08-06-nvidia-staffs-a-new-ai-safety-security-engineering-team
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Job listings show NVIDIA building an AI safety & security engineering team — i
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-06-nvidia-assembles-new-ai-safety-engineering-team-doubles-down]] · [[2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli]] · [[2026-08-04-nvidia-and-open-secure-ai-alliance-propose-safe-cybersecurit]] · [[2026-08-04-nvidia-led-open-secure-ai-alliance-issues-first-agent-defens]] · [[2026-07-27-nvidia-and-two-dozen-firms-launch-open-secure-ai-alliance]]
+**Related:** [[2026-08-06-nvidia-assembles-new-ai-safety-engineering-team-doubles-down]] · [[2026-08-21-nvidia-maps-where-security-belongs-in-the-ai-agent-stack]] · [[2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli]] · [[2026-08-04-nvidia-and-open-secure-ai-alliance-propose-safe-cybersecurit]] · [[2026-08-04-nvidia-led-open-secure-ai-alliance-issues-first-agent-defens]]
 <!-- graph:end -->

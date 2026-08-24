@@ -26,9 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-19-openai-moves-to-outflank-anthropic-on-enterprise-data-privac
+- 2026-08-21-anthropic-to-let-enterprises-hold-required-retention-data-on
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
+- 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
-- 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
 embedding_id: 2026-08-19-openai-launches-private-safety-processing-to-one-up-anthropi
 event_name: ''
 ---
@@ -42,5 +43,5 @@ OpenAI previewed Private Safety Processing — an automated system that monitors
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-19-openai-moves-to-outflank-anthropic-on-enterprise-data-privac]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]]
+**Related:** [[2026-08-19-openai-moves-to-outflank-anthropic-on-enterprise-data-privac]] · [[2026-08-21-anthropic-to-let-enterprises-hold-required-retention-data-on]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-15-ey-creates-ai-value-realization-office-to-govern-ai-spending
+- 2026-08-22-goldman-sachs-assesses-when-ai-will-begin-delivering-meaning
 - 2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value
 - 2026-08-01-ibm-earnings-read-as-a-gauge-of-ai-infrastructure-demand
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
-- 2026-04-01-jpmorgan-chase-is-formally-connecting-software-engineers-per
 embedding_id: 2026-08-06-ibm-launches-apptio-ai-value-roi-to-connect-ai-spend-to-busi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ IBM introduced Apptio AI Value & ROI (public preview), giving finance and techno
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-15-ey-creates-ai-value-realization-office-to-govern-ai-spending]] · [[2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value]] · [[2026-08-01-ibm-earnings-read-as-a-gauge-of-ai-infrastructure-demand]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-04-01-jpmorgan-chase-is-formally-connecting-software-engineers-per]]
+**Related:** [[2026-08-15-ey-creates-ai-value-realization-office-to-govern-ai-spending]] · [[2026-08-22-goldman-sachs-assesses-when-ai-will-begin-delivering-meaning]] · [[2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value]] · [[2026-08-01-ibm-earnings-read-as-a-gauge-of-ai-infrastructure-demand]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]]
 <!-- graph:end -->

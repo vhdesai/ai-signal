@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b
 - 2026-07-11-at-a-secret-location-in-southern-germany-the-manager-of-a-dr
 - 2026-07-11-there-has-been-a-seismic-change-since-then-and-not-solely-be
-- 2026-07-11-for-investors-helsing-s-key-advantage-comes-from-its-role-in
+- 2026-07-11-for-all-helsing-s-whiz-bang-a-i-it-is-possible-that-the-prol
 embedding_id: 2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Helsing, like other far smaller defense start-ups, has already flipped the scrip
 
 **Entities:** [[Apple]] · [[Meta]] · [[Palantir]] · [[Tesla]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg]] · [[2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b]] · [[2026-07-11-at-a-secret-location-in-southern-germany-the-manager-of-a-dr]] · [[2026-07-11-there-has-been-a-seismic-change-since-then-and-not-solely-be]] · [[2026-07-11-for-investors-helsing-s-key-advantage-comes-from-its-role-in]]
+**Related:** [[2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg]] · [[2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b]] · [[2026-07-11-at-a-secret-location-in-southern-germany-the-manager-of-a-dr]] · [[2026-07-11-there-has-been-a-seismic-change-since-then-and-not-solely-be]] · [[2026-07-11-for-all-helsing-s-whiz-bang-a-i-it-is-possible-that-the-prol]]
 <!-- graph:end -->

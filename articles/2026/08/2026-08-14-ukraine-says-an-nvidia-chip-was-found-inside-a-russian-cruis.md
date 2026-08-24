@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-ukraine-says-nvidia-chip-found-in-russian-cruise-missile
 - 2026-08-14-ukraine-says-nvidia-chip-found-inside-a-russian-cruise-missi
-- 2026-05-20-president-trump-disclosed-he-discussed-potential-ai-guardrai
-- 2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia
-- 2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-a-new-ai
+- 2026-08-24-ukraine-says-a-fully-autonomous-russian-ai-drone-killed-thre
+- 2026-08-20-nvidia-denies-report-it-will-ship-a-china-specific-ai-chip-b
+- 2026-08-22-nvidia-denies-it-will-ship-a-china-specific-ai-chip-by-year
 embedding_id: 2026-08-14-ukraine-says-an-nvidia-chip-was-found-inside-a-russian-cruis
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Ukrainian officials reported recovering an Nvidia chip from a Russian cruise mis
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-14-ukraine-says-nvidia-chip-found-in-russian-cruise-missile]] · [[2026-08-14-ukraine-says-nvidia-chip-found-inside-a-russian-cruise-missi]] · [[2026-05-20-president-trump-disclosed-he-discussed-potential-ai-guardrai]] · [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]] · [[2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-a-new-ai]]
+**Related:** [[2026-08-14-ukraine-says-nvidia-chip-found-in-russian-cruise-missile]] · [[2026-08-14-ukraine-says-nvidia-chip-found-inside-a-russian-cruise-missi]] · [[2026-08-24-ukraine-says-a-fully-autonomous-russian-ai-drone-killed-thre]] · [[2026-08-20-nvidia-denies-report-it-will-ship-a-china-specific-ai-chip-b]] · [[2026-08-22-nvidia-denies-it-will-ship-a-china-specific-ai-chip-by-year]]
 <!-- graph:end -->

@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a
 - 2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur
 - 2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back
-- 2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling
+- 2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma
 embedding_id: 2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the
 event_name: ''
 ---
@@ -60,5 +60,5 @@ A WSJ front-page story argues generative AI is steamrolling the once-booming sof
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models]] · [[2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a]] · [[2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur]] · [[2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back]] · [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]]
+**Related:** [[2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models]] · [[2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a]] · [[2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur]] · [[2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back]] · [[2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma]]
 <!-- graph:end -->

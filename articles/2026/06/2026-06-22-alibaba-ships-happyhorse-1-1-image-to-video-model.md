@@ -22,11 +22,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-24-alibaba-releases-wan3-0-turning-pdfs-and-slide-decks-into-30
 - 2026-08-17-alibaba-releases-happyshrimp-1-0-an-end-to-end-ai-music-gene
 - 2026-07-21-alibaba-launches-qwen-image-3-0-without-benchmarks-or-open-w
 - 2026-08-03-1-alibaba-moves-qwen3-8-max-to-general-availability
 - 2026-08-17-alibaba-releases-ai-music-model-happyshrimp-1-0
-- 2026-08-18-alibaba-s-qwen3-8-27b-brings-frontier-class-local-coding-and
 embedding_id: 2026-06-22-alibaba-ships-happyhorse-1-1-image-to-video-model
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Alibaba Cloud launched HappyHorse 1.1, an image-to-video model on Model Studio, 
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-17-alibaba-releases-happyshrimp-1-0-an-end-to-end-ai-music-gene]] · [[2026-07-21-alibaba-launches-qwen-image-3-0-without-benchmarks-or-open-w]] · [[2026-08-03-1-alibaba-moves-qwen3-8-max-to-general-availability]] · [[2026-08-17-alibaba-releases-ai-music-model-happyshrimp-1-0]] · [[2026-08-18-alibaba-s-qwen3-8-27b-brings-frontier-class-local-coding-and]]
+**Related:** [[2026-08-24-alibaba-releases-wan3-0-turning-pdfs-and-slide-decks-into-30]] · [[2026-08-17-alibaba-releases-happyshrimp-1-0-an-end-to-end-ai-music-gene]] · [[2026-07-21-alibaba-launches-qwen-image-3-0-without-benchmarks-or-open-w]] · [[2026-08-03-1-alibaba-moves-qwen3-8-max-to-general-availability]] · [[2026-08-17-alibaba-releases-ai-music-model-happyshrimp-1-0]]
 <!-- graph:end -->

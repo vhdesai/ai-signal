@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-18-perplexity-s-india-experiment-shows-ai-bundling-can-build-la
 - 2026-08-18-perplexity-s-india-experiment-ai-bundling-can-build-lasting
-- 2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree
-- 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
+- 2026-08-24-nvidia-discusses-perplexity-investment-at-30-billion-valuati
+- 2026-08-24-nvidia-weighs-perplexity-stake-at-30b-as-the-startup-s-arr-t
 embedding_id: 2026-08-18-perplexity-s-free-ai-offer-left-it-with-millions-more-users
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Perplexity's India revenue rose approximately 60% after its free Airtel-bundled 
 
 **Entities:** [[Perplexity]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-18-perplexity-s-india-experiment-shows-ai-bundling-can-build-la]] · [[2026-08-18-perplexity-s-india-experiment-ai-bundling-can-build-lasting]] · [[2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]]
+**Related:** [[2026-08-18-perplexity-s-india-experiment-shows-ai-bundling-can-build-la]] · [[2026-08-18-perplexity-s-india-experiment-ai-bundling-can-build-lasting]] · [[2026-08-24-nvidia-discusses-perplexity-investment-at-30-billion-valuati]] · [[2026-08-24-nvidia-weighs-perplexity-stake-at-30b-as-the-startup-s-arr-t]]
 <!-- graph:end -->

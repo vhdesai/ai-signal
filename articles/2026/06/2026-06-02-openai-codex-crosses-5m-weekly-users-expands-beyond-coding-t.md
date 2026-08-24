@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-02-openai-reports-codex-at-5m-weekly-active-users
+- 2026-08-22-openai-codex-passes-20-million-users-as-rate-limit-complaint
+- 2026-08-22-openai-codex-passes-20-million-users-amid-usage-limit-disput
 - 2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers
 - 2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age
-- 2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t
-- 2026-05-29-openai-brings-codex-computer-use-to-windows
 embedding_id: 2026-06-02-openai-codex-crosses-5m-weekly-users-expands-beyond-coding-t
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI published a knowledge-work report stating Codex now has over 5 million we
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-02-openai-reports-codex-at-5m-weekly-active-users]] · [[2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers]] · [[2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age]] · [[2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t]] · [[2026-05-29-openai-brings-codex-computer-use-to-windows]]
+**Related:** [[2026-06-02-openai-reports-codex-at-5m-weekly-active-users]] · [[2026-08-22-openai-codex-passes-20-million-users-as-rate-limit-complaint]] · [[2026-08-22-openai-codex-passes-20-million-users-amid-usage-limit-disput]] · [[2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers]] · [[2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age]]
 <!-- graph:end -->

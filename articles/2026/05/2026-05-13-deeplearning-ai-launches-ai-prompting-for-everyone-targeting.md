@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-06-researchers-from-mit-and-the-university-of-washington-publis
 - 2026-03-28-mit-researchers-published-findings-on-a-new-training-approac
 - 2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear
-- 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
+- 2026-08-24-machine-learning-mastery-publishes-guidance-on-integrating-a
 embedding_id: 2026-05-13-deeplearning-ai-launches-ai-prompting-for-everyone-targeting
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Andrew Ng and DeepLearning.AI announced "AI Prompting for Everyone," a new cours
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-06-a-large-scale-stanford-study-published-in-science-confirmed]] · [[2026-04-06-researchers-from-mit-and-the-university-of-washington-publis]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]] · [[2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]]
+**Related:** [[2026-04-06-a-large-scale-stanford-study-published-in-science-confirmed]] · [[2026-04-06-researchers-from-mit-and-the-university-of-washington-publis]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]] · [[2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear]] · [[2026-08-24-machine-learning-mastery-publishes-guidance-on-integrating-a]]
 <!-- graph:end -->

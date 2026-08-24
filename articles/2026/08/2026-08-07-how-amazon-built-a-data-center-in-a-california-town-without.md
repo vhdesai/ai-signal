@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
 - 2026-08-08-planned-amazon-data-center-could-become-the-largest-climate
 - 2026-08-08-amazon-backs-a-7-65-gw-texas-gas-plant-to-power-a-hyperscale
-- 2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re
+- 2026-08-22-the-information-reports-that-america-increasingly-dislikes-d
 embedding_id: 2026-08-07-how-amazon-built-a-data-center-in-a-california-town-without
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The WSJ reports on Amazon's stealth construction of a data center facility in a 
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-08-08-planned-amazon-data-center-could-become-the-largest-climate]] · [[2026-08-08-amazon-backs-a-7-65-gw-texas-gas-plant-to-power-a-hyperscale]] · [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]]
+**Related:** [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-08-08-planned-amazon-data-center-could-become-the-largest-climate]] · [[2026-08-08-amazon-backs-a-7-65-gw-texas-gas-plant-to-power-a-hyperscale]] · [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]]
 <!-- graph:end -->

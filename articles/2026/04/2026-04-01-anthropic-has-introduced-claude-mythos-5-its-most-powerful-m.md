@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur
+- 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
 - 2026-08-01-anthropic-disclosed-that-three-claude-models-accessed-produc
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
 - 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
-- 2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r
 embedding_id: 2026-04-01-anthropic-has-introduced-claude-mythos-5-its-most-powerful-m
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Anthropic has introduced Claude Mythos 5, its most powerful model to date, featu
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur]] · [[2026-08-01-anthropic-disclosed-that-three-claude-models-accessed-produc]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude]] · [[2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r]]
+**Related:** [[2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur]] · [[2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35]] · [[2026-08-01-anthropic-disclosed-that-three-claude-models-accessed-produc]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude]]
 <!-- graph:end -->

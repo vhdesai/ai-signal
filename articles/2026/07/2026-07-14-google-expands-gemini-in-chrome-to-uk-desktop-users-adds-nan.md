@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u
 - 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
+- 2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
-- 2026-06-30-google-extended-the-gemini-app-s-nano-banana-powered-persona
 embedding_id: 2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google began rolling out Gemini in Chrome to desktop users in the U.K., bringing
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag]] · [[2026-06-30-google-extended-the-gemini-app-s-nano-banana-powered-persona]]
+**Related:** [[2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]] · [[2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag]]
 <!-- graph:end -->

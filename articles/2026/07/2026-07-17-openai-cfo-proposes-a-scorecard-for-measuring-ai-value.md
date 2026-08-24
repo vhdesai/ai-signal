@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-10-openai-describes-building-an-ai-native-finance-function
 - 2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
+- 2026-08-22-goldman-sachs-assesses-when-ai-will-begin-delivering-meaning
 - 2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a
-- 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 embedding_id: 2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI CFO Sarah Friar published a scorecard for measuring AI ROI through useful
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-10-openai-describes-building-an-ai-native-finance-function]] · [[2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]]
+**Related:** [[2026-08-10-openai-describes-building-an-ai-native-finance-function]] · [[2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-08-22-goldman-sachs-assesses-when-ai-will-begin-delivering-meaning]] · [[2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a]]
 <!-- graph:end -->

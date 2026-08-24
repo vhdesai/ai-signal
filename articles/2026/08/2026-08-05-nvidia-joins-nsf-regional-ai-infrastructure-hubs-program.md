@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi
 - 2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai
 - 2026-04-20-nvidia-april-20-2026-at-hannover-messe-nvidia-announced-a-sw
-- 2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure
+- 2026-08-21-nvidia-partners-with-data-center-developer-cloverleaf-infras
 embedding_id: 2026-08-05-nvidia-joins-nsf-regional-ai-infrastructure-hubs-program
 event_name: ''
 ---
@@ -38,5 +38,5 @@ NVIDIA said it is participating in the U.S. National Science Foundation's State 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi]] · [[2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai]] · [[2026-04-20-nvidia-april-20-2026-at-hannover-messe-nvidia-announced-a-sw]] · [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure]]
+**Related:** [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi]] · [[2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai]] · [[2026-04-20-nvidia-april-20-2026-at-hannover-messe-nvidia-announced-a-sw]] · [[2026-08-21-nvidia-partners-with-data-center-developer-cloverleaf-infras]]
 <!-- graph:end -->

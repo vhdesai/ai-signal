@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern
+- 2026-08-22-venturebeat-says-successful-enterprise-agent-deployments-lim
 - 2026-08-03-forward-deployed-engineers-become-the-enterprise-ai-adoption
 - 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
-- 2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic
-- 2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin
+- 2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain
 embedding_id: 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A VentureBeat study of 573 enterprise leaders found that companies are moving ag
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern]] · [[2026-08-03-forward-deployed-engineers-become-the-enterprise-ai-adoption]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic]] · [[2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin]]
+**Related:** [[2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern]] · [[2026-08-22-venturebeat-says-successful-enterprise-agent-deployments-lim]] · [[2026-08-03-forward-deployed-engineers-become-the-enterprise-ai-adoption]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-13-dig-bench-isolates-rule-discovery-as-the-core-frontier-model
 - 2026-08-13-dig-bench-isolating-scientific-discovery-ability-in-llms
+- 2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific
 - 2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st
-- 2026-04-23-georgia-tech-and-ut-austin-release-open-benchmark-for-multi
 embedding_id: 2026-08-13-dig-bench-a-benchmark-isolating-scientific-discovery-ability
 event_name: ''
 ---
@@ -37,5 +37,5 @@ DiG-bench (Discovery in Games) comprises 70 interactive text games with undisclo
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-13-dig-bench-isolates-rule-discovery-as-the-core-frontier-model]] · [[2026-08-13-dig-bench-isolating-scientific-discovery-ability-in-llms]] · [[2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st]] · [[2026-04-23-georgia-tech-and-ut-austin-release-open-benchmark-for-multi]]
+**Related:** [[2026-08-13-dig-bench-isolates-rule-discovery-as-the-core-frontier-model]] · [[2026-08-13-dig-bench-isolating-scientific-discovery-ability-in-llms]] · [[2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific]] · [[2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st]]
 <!-- graph:end -->

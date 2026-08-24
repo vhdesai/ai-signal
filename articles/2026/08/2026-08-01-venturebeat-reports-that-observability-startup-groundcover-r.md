@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-06-03-coralogix-raises-200m-to-build-monitoring-layer-for-ai-agent
 - 2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation
 - 2026-08-13-deepseek-ships-v4-pro-open-source-harness-then-raises-prices
-- 2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en
+- 2026-08-20-one-in-five-enterprises-cannot-halt-a-runaway-ai-agent-s-spe
 embedding_id: 2026-08-01-venturebeat-reports-that-observability-startup-groundcover-r
 event_name: ''
 ---
@@ -35,5 +35,5 @@ VentureBeat reports that observability startup groundcover raised a $100 million
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-03-coralogix-raises-200m-to-build-monitoring-layer-for-ai-agent]] · [[2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation]] · [[2026-08-13-deepseek-ships-v4-pro-open-source-harness-then-raises-prices]] · [[2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en]]
+**Related:** [[2026-06-03-coralogix-raises-200m-to-build-monitoring-layer-for-ai-agent]] · [[2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation]] · [[2026-08-13-deepseek-ships-v4-pro-open-source-harness-then-raises-prices]] · [[2026-08-20-one-in-five-enterprises-cannot-halt-a-runaway-ai-agent-s-spe]]
 <!-- graph:end -->

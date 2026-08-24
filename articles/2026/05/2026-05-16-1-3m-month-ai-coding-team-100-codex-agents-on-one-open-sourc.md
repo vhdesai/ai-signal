@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-22-openai-codex-passes-20-million-users-amid-usage-limit-disput
 - 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
 - 2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1
+- 2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and
 - 2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti
-- 2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1-at-cut-rate-p
-- 2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code
 embedding_id: 2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenClaw founder Peter Steinberger is running approximately 100 parallel Codex i
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1]] · [[2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti]] · [[2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1-at-cut-rate-p]] · [[2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code]]
+**Related:** [[2026-08-22-openai-codex-passes-20-million-users-amid-usage-limit-disput]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1]] · [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and]] · [[2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti]]
 <!-- graph:end -->

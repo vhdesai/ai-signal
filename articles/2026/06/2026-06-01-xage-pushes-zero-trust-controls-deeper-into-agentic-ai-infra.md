@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
 - 2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic
 - 2026-07-27-microsoft-launches-mai-cyber-1-flash-and-project-perception
-- 2026-06-19-trustwise-joins-hpe-unleash-ai-partner-program-for-agentic-a
+- 2026-08-21-nvidia-maps-where-security-belongs-in-the-ai-agent-stack
 embedding_id: 2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Xage Security announced enhancements to its zero-trust solution for agentic AI u
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic]] · [[2026-07-27-microsoft-launches-mai-cyber-1-flash-and-project-perception]] · [[2026-06-19-trustwise-joins-hpe-unleash-ai-partner-program-for-agentic-a]]
+**Related:** [[2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic]] · [[2026-07-27-microsoft-launches-mai-cyber-1-flash-and-project-perception]] · [[2026-08-21-nvidia-maps-where-security-belongs-in-the-ai-agent-stack]]
 <!-- graph:end -->

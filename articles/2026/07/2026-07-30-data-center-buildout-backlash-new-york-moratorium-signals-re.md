@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-11-axios-congress-wants-in-on-the-data-center-backlash
 - 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
 - 2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a
-- 2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat
+- 2026-08-22-the-information-reports-that-america-increasingly-dislikes-d
 embedding_id: 2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The growing public pushback against data center construction is creating materia
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-05-new-york-passes-first-state-level-data-center-moratorium]] · [[2026-06-11-axios-congress-wants-in-on-the-data-center-backlash]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat]]
+**Related:** [[2026-06-05-new-york-passes-first-state-level-data-center-moratorium]] · [[2026-06-11-axios-congress-wants-in-on-the-data-center-backlash]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]]
 <!-- graph:end -->

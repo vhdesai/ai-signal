@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work
 - 2026-05-27-limited-new-university-announcements-within-the-strict-24-ho
 - 2026-04-22-academic-research
-- 2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j
+- 2026-08-23-university-of-chicago-s-social-sciences-core-bans-ai-and-goe
 embedding_id: 2026-05-24-uc-berkeley-law-tightens-ai-rules-without-banning-the-techno
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Berkeley Law adopted a stricter policy limiting student use of LLMs in core lega
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-23-uc-berkeley-school-of-law-announced-it-will-prohibit-ai-use]] · [[2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work]] · [[2026-05-27-limited-new-university-announcements-within-the-strict-24-ho]] · [[2026-04-22-academic-research]] · [[2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j]]
+**Related:** [[2026-05-23-uc-berkeley-school-of-law-announced-it-will-prohibit-ai-use]] · [[2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work]] · [[2026-05-27-limited-new-university-announcements-within-the-strict-24-ho]] · [[2026-04-22-academic-research]] · [[2026-08-23-university-of-chicago-s-social-sciences-core-bans-ai-and-goe]]
 <!-- graph:end -->

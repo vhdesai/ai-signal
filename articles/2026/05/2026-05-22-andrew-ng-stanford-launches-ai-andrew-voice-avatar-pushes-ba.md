@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-02-xai-launches-grok-voice-ai-agent-builder-beta-build-a-voice
 - 2026-07-02-xai-launches-no-code-grok-voice-agent-builder
+- 2026-08-23-who-s-behind-the-new-stealth-model-ox-alpha
 - 2026-07-02-xai-launches-grok-voice-ai-agent-builder
-- 2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent
-- 2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots
+- 2026-08-23-who-is-behind-ox-alpha-a-stealth-frontier-model-has-the-indu
 embedding_id: 2026-05-22-andrew-ng-stanford-launches-ai-andrew-voice-avatar-pushes-ba
 event_name: ''
 ---
@@ -36,5 +36,5 @@ In his weekly Batch column, Andrew Ng unveiled AI Andrew — a voice-to-voice ag
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-02-xai-launches-grok-voice-ai-agent-builder-beta-build-a-voice]] · [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]] · [[2026-07-02-xai-launches-grok-voice-ai-agent-builder]] · [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent]] · [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]]
+**Related:** [[2026-07-02-xai-launches-grok-voice-ai-agent-builder-beta-build-a-voice]] · [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]] · [[2026-08-23-who-s-behind-the-new-stealth-model-ox-alpha]] · [[2026-07-02-xai-launches-grok-voice-ai-agent-builder]] · [[2026-08-23-who-is-behind-ox-alpha-a-stealth-frontier-model-has-the-indu]]
 <!-- graph:end -->

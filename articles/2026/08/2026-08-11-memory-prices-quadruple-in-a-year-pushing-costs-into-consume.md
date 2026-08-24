@@ -20,6 +20,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con
+- 2026-08-22-nvidia-customers-reportedly-warned-about-ai-related-price-hi
 - 2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat
 - 2026-06-18-tim-cook-warns-ai-chip-demand-making-apple-price-increases-u
 - 2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive
@@ -35,5 +36,5 @@ AI-driven demand has quadrupled memory chip prices over the past year, and analy
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con]] · [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]] · [[2026-06-18-tim-cook-warns-ai-chip-demand-making-apple-price-increases-u]] · [[2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive]]
+**Related:** [[2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con]] · [[2026-08-22-nvidia-customers-reportedly-warned-about-ai-related-price-hi]] · [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]] · [[2026-06-18-tim-cook-warns-ai-chip-demand-making-apple-price-increases-u]] · [[2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive]]
 <!-- graph:end -->

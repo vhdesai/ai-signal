@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th
 - 2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 - 2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele
 - 2026-07-13-semiconductors-earnings-ai-supply-chain
-- 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 embedding_id: 2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Forbes details how the trillion-dollar data-center land grab has transformed mem
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]] · [[2026-07-13-semiconductors-earnings-ai-supply-chain]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]]
+**Related:** [[2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th]] · [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]] · [[2026-07-13-semiconductors-earnings-ai-supply-chain]]
 <!-- graph:end -->

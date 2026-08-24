@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-06-openai-launches-codex-security-in-research-preview
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 - 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
+- 2026-08-20-serval-debuts-catalyst-a-roving-agent-that-fixes-it-issues-p
 - 2026-05-14-raindrop-releases-workshop-open-source-local-ai-agent-debugg
-- 2026-07-27-microsoft-launches-mai-cyber-1-flash-and-project-perception
 embedding_id: 2026-07-17-capital-one-open-sources-vulnhunter-an-agentic-tool-that-fin
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Capital One released VulnHunter as open source — an agentic AI security tool t
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-openai-launches-codex-security-in-research-preview]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-05-14-raindrop-releases-workshop-open-source-local-ai-agent-debugg]] · [[2026-07-27-microsoft-launches-mai-cyber-1-flash-and-project-perception]]
+**Related:** [[2026-08-06-openai-launches-codex-security-in-research-preview]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-08-20-serval-debuts-catalyst-a-roving-agent-that-fixes-it-issues-p]] · [[2026-05-14-raindrop-releases-workshop-open-source-local-ai-agent-debugg]]
 <!-- graph:end -->

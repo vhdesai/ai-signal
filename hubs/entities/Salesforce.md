@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 45
+member_count: 50
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 45 connected article(s).
+> Auto-generated entity hub. 50 connected article(s).
 
+- `2026-08-23` [[2026-08-23-hugging-face-has-been-fielding-m-a-interest-for-a-deal-worth|Hugging Face has been fielding M&A interest for a deal worth at least $13 billion]]
+- `2026-08-22` [[2026-08-22-openai-s-americas-sales-vp-resigns-after-five-months-returni|OpenAI’s Americas Sales VP Resigns After Five Months, Returning to Salesforce]]
+- `2026-08-20` [[2026-08-20-twin1-ai-raises-20m-for-per-employee-ai-twins|Twin1 AI Raises $20M for Per-Employee “AI Twins”]]
+- `2026-08-20` [[2026-08-20-slack-launches-slack-code-putting-ai-coding-agents-inside-te|Slack Launches Slack Code, Putting AI Coding Agents Inside Team Channels]]
+- `2026-08-20` [[2026-08-20-slack-launches-code-channels-putting-ai-coding-agents-inside|Slack Launches Code Channels, Putting AI Coding Agents Inside Team Threads]]
 - `2026-08-05` [[2026-08-05-klaviyo-acquires-elias-torres-ai-customer-success-startup-na|Klaviyo Acquires Elias Torres' AI Customer-Success Startup, Names Him CPO]]
 - `2026-08-03` [[2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise|Marc Benioff-backed “June” exits stealth to tackle enterprise AI deployment]]
 - `2026-08-03` [[2026-08-03-june-s-pitch-is-that-ai-deployment-itself-has-become-a-softw|June’s pitch is that AI deployment itself has become a software category, not just a services problem handled by…]]

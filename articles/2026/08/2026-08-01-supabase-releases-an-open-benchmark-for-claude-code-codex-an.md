@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-01-supabase-releases-evals-an-open-benchmark-scoring-claude-cod
 - 2026-08-03-supabase-s-benchmark-matters-because-it-evaluates-coding-age
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
-- 2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s
+- 2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific
 embedding_id: 2026-08-01-supabase-releases-an-open-benchmark-for-claude-code-codex-an
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Supabase released Evals, an open-source benchmark that scores coding agents on r
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-01-supabase-releases-an-open-source-benchmark-for-claude-code-c]] · [[2026-08-01-supabase-releases-evals-an-open-benchmark-scoring-claude-cod]] · [[2026-08-03-supabase-s-benchmark-matters-because-it-evaluates-coding-age]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s]]
+**Related:** [[2026-08-01-supabase-releases-an-open-source-benchmark-for-claude-code-c]] · [[2026-08-01-supabase-releases-evals-an-open-benchmark-scoring-claude-cod]] · [[2026-08-03-supabase-s-benchmark-matters-because-it-evaluates-coding-age]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific]]
 <!-- graph:end -->

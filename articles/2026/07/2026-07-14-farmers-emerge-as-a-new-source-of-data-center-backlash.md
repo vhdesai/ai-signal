@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d
 - 2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a
+- 2026-08-22-the-information-reports-that-america-increasingly-dislikes-d
+- 2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats
 - 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
-- 2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati
-- 2026-08-16-kentucky-farmers-refuse-26-million-from-ai-data-center-devel
 embedding_id: 2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Growers, ranchers, and companies are warning about too much farmland being used 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-08-16-kentucky-farmers-refuse-26-million-from-ai-data-center-devel]]
+**Related:** [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]] · [[2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]]
 <!-- graph:end -->

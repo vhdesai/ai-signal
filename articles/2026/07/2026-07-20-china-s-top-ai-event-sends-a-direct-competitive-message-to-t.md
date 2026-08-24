@@ -23,10 +23,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap
 - 2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom
 - 2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi
 - 2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic
-- 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
 embedding_id: 2026-07-20-china-s-top-ai-event-sends-a-direct-competitive-message-to-t
 event_name: ''
 ---
@@ -40,5 +40,5 @@ WSJ reports that China's top AI event delivered a message to the U.S.: Chinese f
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom]] · [[2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi]] · [[2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic]] · [[2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending]]
+**Related:** [[2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap]] · [[2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom]] · [[2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi]] · [[2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic]]
 <!-- graph:end -->

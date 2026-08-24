@@ -23,11 +23,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-19-chinese-ai-firms-tap-restricted-nvidia-compute-overseas-as-u
 - 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
 - 2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia
 - 2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch
 - 2026-04-23-china-tightens-outbound-investment-screening-over-bytedance
-- 2026-06-12-nvidia-begins-vera-cpu-sales-pitch-to-chinese-clients-despit
 embedding_id: 2026-08-19-chinese-ai-firms-tap-restricted-nvidia-compute-offshore-as-u
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Chinese labs including Moonshot AI have accessed restricted Nvidia GB300-class c
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]] · [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]] · [[2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch]] · [[2026-04-23-china-tightens-outbound-investment-screening-over-bytedance]] · [[2026-06-12-nvidia-begins-vera-cpu-sales-pitch-to-chinese-clients-despit]]
+**Related:** [[2026-08-19-chinese-ai-firms-tap-restricted-nvidia-compute-overseas-as-u]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]] · [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]] · [[2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch]] · [[2026-04-23-china-tightens-outbound-investment-screening-over-bytedance]]
 <!-- graph:end -->

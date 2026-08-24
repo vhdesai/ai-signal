@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
 - 2026-07-07-the-power-of-collaboration-how-we-can-reduce-traffic-congest
 - 2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne
 - 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
-- 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
 embedding_id: 2026-06-26-this-study-empirically-examines-when-ensembling-strategies-r
 event_name: ''
 ---
@@ -36,5 +36,5 @@ This study empirically examines when ensembling strategies — routing, voting, 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-07-the-power-of-collaboration-how-we-can-reduce-traffic-congest]] · [[2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]]
+**Related:** [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]] · [[2026-07-07-the-power-of-collaboration-how-we-can-reduce-traffic-congest]] · [[2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]]
 <!-- graph:end -->

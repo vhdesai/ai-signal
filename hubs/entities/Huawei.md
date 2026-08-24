@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 148
+member_count: 155
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 148 connected article(s).
+> Auto-generated entity hub. 155 connected article(s).
 
+- `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
+- `2026-08-22` [[2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma|Saturday coverage: AI content demand strains the rare-book market]]
+- `2026-08-22` [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro|Frontier AI labs still won't say how they would contain a rogue model]]
+- `2026-08-21` [[2026-08-21-brazil-commits-444m-to-ai-supercomputing-split-between-chine|Brazil commits ~$444M to AI supercomputing, split between Chinese and U.S. partners]]
+- `2026-08-21` [[2026-08-21-brazil-commits-roughly-444m-to-domestic-ai-capacity-with-u-s|Brazil commits roughly $444M to domestic AI capacity with U.S. and Chinese partners]]
+- `2026-08-21` [[2026-08-21-brazil-launches-ai-supercomputer-push-with-both-u-s-and-chin|Brazil Launches AI Supercomputer Push With Both U.S. and Chinese Partners]]
+- `2026-08-21` [[2026-08-21-brazil-commits-444-million-to-domestic-ai-capacity-with-u-s|Brazil Commits ~$444 Million to Domestic AI Capacity With U.S. and Chinese Partners]]
 - `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
 - `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
 - `2026-08-14` [[2026-08-14-apple-trains-a-china-specific-ai-model-with-alibaba|Apple trains a China-specific AI model with Alibaba]]

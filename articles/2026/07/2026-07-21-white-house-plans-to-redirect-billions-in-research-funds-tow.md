@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-07-wsj-the-artificial-intelligence-backlash
+- 2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap
 - 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
 - 2026-07-30-mit-students-and-postdocs-connect-research-priorities-to-cap
-- 2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it
-- 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
+- 2026-08-23-nvidia-is-reportedly-spending-6-billion-to-build-a-u-s-alter
 embedding_id: 2026-07-21-white-house-plans-to-redirect-billions-in-research-funds-tow
 event_name: ''
 ---
@@ -38,5 +38,5 @@ WSJ reports that the White House plans to redirect billions in research funds to
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-07-30-mit-students-and-postdocs-connect-research-priorities-to-cap]] · [[2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it]] · [[2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending]]
+**Related:** [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-07-30-mit-students-and-postdocs-connect-research-priorities-to-cap]] · [[2026-08-23-nvidia-is-reportedly-spending-6-billion-to-build-a-u-s-alter]]
 <!-- graph:end -->

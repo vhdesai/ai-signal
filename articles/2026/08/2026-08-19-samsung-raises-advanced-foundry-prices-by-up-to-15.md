@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-14-smic-raises-chip-prices-as-ai-demand-pushes-utilization-to-9
 - 2026-07-03-meta-reportedly-taps-samsung-for-6-5b-to-build-its-next-gen
 - 2026-07-13-samsung-reportedly-accelerates-chip-capacity-plans
-- 2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea
+- 2026-08-24-rising-server-prices-shift-leverage-from-nvidia-to-samsung-a
 embedding_id: 2026-08-19-samsung-raises-advanced-foundry-prices-by-up-to-15
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Samsung lifted prices on new 4nm, 5nm and 8nm foundry orders placed in July, wit
 
 **Entities:** [[Samsung]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-08-14-smic-raises-chip-prices-as-ai-demand-pushes-utilization-to-9]] · [[2026-07-03-meta-reportedly-taps-samsung-for-6-5b-to-build-its-next-gen]] · [[2026-07-13-samsung-reportedly-accelerates-chip-capacity-plans]] · [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]]
+**Related:** [[2026-08-14-smic-raises-chip-prices-as-ai-demand-pushes-utilization-to-9]] · [[2026-07-03-meta-reportedly-taps-samsung-for-6-5b-to-build-its-next-gen]] · [[2026-07-13-samsung-reportedly-accelerates-chip-capacity-plans]] · [[2026-08-24-rising-server-prices-shift-leverage-from-nvidia-to-samsung-a]]
 <!-- graph:end -->

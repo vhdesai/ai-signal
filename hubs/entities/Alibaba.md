@@ -1,13 +1,28 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 274
+member_count: 289
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 274 connected article(s).
+> Auto-generated entity hub. 289 connected article(s).
 
+- `2026-08-24` [[2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its|XPeng’s robotics arm raises $900M+ at a $6.3B valuation in its first outside round]]
+- `2026-08-24` [[2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi|XPeng Robotics Raises $900M+ at a $6.3B Valuation in Record China Embodied-AI Round]]
+- `2026-08-24` [[2026-08-24-alibaba-releases-wan3-0-turning-pdfs-and-slide-decks-into-30|Alibaba releases Wan3.0, turning PDFs and slide decks into 30-second video]]
+- `2026-08-24` [[2026-08-24-alibaba-plans-to-raise-10-2-billion-for-ai-investment|Alibaba plans to raise $10.2 billion for AI investment]]
+- `2026-08-24` [[2026-08-24-alibaba-prices-10-2b-hong-kong-share-placement-to-fund-ai-sh|Alibaba Prices $10.2B Hong Kong Share Placement to Fund AI; Shares Fall ~10%]]
+- `2026-08-24` [[2026-08-24-alibaba-plunges-after-announcing-10-2-billion-share-placemen|Alibaba Plunges After Announcing $10.2 Billion Share Placement to Fund AI Push]]
+- `2026-08-23` [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books|The Unsettled Law of Training Models on Copyrighted Books]]
+- `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
+- `2026-08-23` [[2026-08-23-alibaba-raises-10-2b-in-hong-kong-s-biggest-ever-follow-on-t|Alibaba raises $10.2B in Hong Kong’s biggest-ever follow-on to fund full-stack AI]]
+- `2026-08-23` [[2026-08-23-alibaba-seeks-10-2b-in-hong-kong-share-placement-to-fund-ai|Alibaba Seeks $10.2B in Hong Kong Share Placement to Fund AI Expansion]]
+- `2026-08-23` [[2026-08-23-alibaba-raises-10-2bn-in-hong-kong-earmarks-100-for-ai|Alibaba Raises $10.2bn in Hong Kong, Earmarks 100% for AI]]
+- `2026-08-23` [[2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai|Alibaba Raises $10.2 Billion in Hong Kong — Earmarks 100% for AI]]
+- `2026-08-22` [[2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma|Saturday coverage: AI content demand strains the rare-book market]]
+- `2026-08-22` [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro|Frontier AI labs still won't say how they would contain a rogue model]]
+- `2026-08-20` [[2026-08-20-open-weight-pricing-pressure-intensifies-deepseek-v4-pro-vs|Open-Weight Pricing Pressure Intensifies: DeepSeek V4 Pro vs. Qwen 3.8 Max]]
 - `2026-08-18` [[2026-08-18-qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning|Qwen3.8-27B Runs Frontier-Class Coding Agents and Reasoning Locally]]
 - `2026-08-18` [[2026-08-18-alibaba-s-qwen3-8-27b-runs-frontier-class-coding-and-reasoni|Alibaba's Qwen3.8-27B runs frontier-class coding and reasoning agents locally]]
 - `2026-08-18` [[2026-08-18-alibaba-s-qwen3-8-27b-brings-frontier-class-local-coding-and|Alibaba's Qwen3.8-27B brings frontier-class local coding and reasoning to commodity hardware]]

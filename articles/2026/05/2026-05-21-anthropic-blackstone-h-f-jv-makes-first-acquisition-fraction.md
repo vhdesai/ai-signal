@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-20-anthropic-s-enterprise-jv-ode-makes-first-acquisition-buys-a
 - 2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman
+- 2026-08-20-anthropic-s-enterprise-ai-joint-venture-acquires-consultancy
 - 2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced
-- 2026-05-18-anthropic-launched-an-enterprise-ai-joint-venture-with-black
 embedding_id: 2026-05-21-anthropic-blackstone-h-f-jv-makes-first-acquisition-fraction
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The enterprise services joint venture formed by Anthropic, Blackstone, and Hellm
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-20-anthropic-s-enterprise-jv-ode-makes-first-acquisition-buys-a]] · [[2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman]] · [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]] · [[2026-05-18-anthropic-launched-an-enterprise-ai-joint-venture-with-black]]
+**Related:** [[2026-08-20-anthropic-s-enterprise-jv-ode-makes-first-acquisition-buys-a]] · [[2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman]] · [[2026-08-20-anthropic-s-enterprise-ai-joint-venture-acquires-consultancy]] · [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]]
 <!-- graph:end -->

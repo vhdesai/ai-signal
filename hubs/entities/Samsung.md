@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Samsung
-member_count: 77
+member_count: 80
 ---
 
 # Samsung
 
-> Auto-generated entity hub. 77 connected article(s).
+> Auto-generated entity hub. 80 connected article(s).
 
+- `2026-08-24` [[2026-08-24-south-korea-moves-to-cap-retail-exposure-to-leveraged-ai-chi|South Korea moves to cap retail exposure to leveraged AI-chip ETFs]]
+- `2026-08-24` [[2026-08-24-rising-server-prices-shift-leverage-from-nvidia-to-samsung-a|Rising Server Prices Shift Leverage from Nvidia to Samsung and SK hynix]]
+- `2026-08-23` [[2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th|Memory Supercycle Shows No Near-Term Break as HBM Remains the Bottleneck]]
 - `2026-08-19` [[2026-08-19-samsung-raises-advanced-foundry-prices-by-up-to-15|Samsung Raises Advanced Foundry Prices by Up to 15%]]
 - `2026-08-15` [[2026-08-15-ai-powered-wearables-race-to-become-health-intelligence-plat|AI-Powered Wearables Race to Become Health Intelligence Platforms]]
 - `2026-08-14` [[2026-08-14-samsung-s-xmae-and-himae-show-foundation-model-approaches-fo|Samsung's xMAE and HiMAE show foundation-model approaches for biosignal analysis]]

@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-26-openai-presses-the-white-house-to-fast-track-frontier-model
 - 2026-07-24-more-than-20-tech-companies-urge-washington-not-to-restrict
+- 2026-08-24-altman-warns-ai-could-concentrate-in-the-hands-of-a-few-powe
 - 2026-07-26-openai-presses-white-house-to-speed-frontier-model-reviews
 - 2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen
-- 2026-08-05-white-house-to-exempt-open-weight-models-from-voluntary-ai-s
 embedding_id: 2026-06-04-altman-urges-congress-to-fund-ai-testing-not-require-model-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI's Sam Altman pressed lawmakers to reject mandatory pre-release model sign
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-26-openai-presses-the-white-house-to-fast-track-frontier-model]] · [[2026-07-24-more-than-20-tech-companies-urge-washington-not-to-restrict]] · [[2026-07-26-openai-presses-white-house-to-speed-frontier-model-reviews]] · [[2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen]] · [[2026-08-05-white-house-to-exempt-open-weight-models-from-voluntary-ai-s]]
+**Related:** [[2026-07-26-openai-presses-the-white-house-to-fast-track-frontier-model]] · [[2026-07-24-more-than-20-tech-companies-urge-washington-not-to-restrict]] · [[2026-08-24-altman-warns-ai-could-concentrate-in-the-hands-of-a-few-powe]] · [[2026-07-26-openai-presses-white-house-to-speed-frontier-model-reviews]] · [[2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen]]
 <!-- graph:end -->

@@ -26,10 +26,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-20-ramp-launches-ai-model-router-continued
 - 2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le
+- 2026-08-20-ramp-launches-ai-model-router-entering-market-days-after-str
 - 2026-05-27-capitalg-s-lead-on-openrouter-signals-alphabet-s-distributio
-- 2026-08-16-stripe-to-acquire-ai-gateway-startup-openrouter-for-more-tha
-- 2026-08-16-stripe-openrouter-7b-deal-signals-payments-giant-s-ai-infras
 embedding_id: 2026-05-27-openrouter-cements-its-position-as-the-dominant-multi-model
 event_name: ''
 ---
@@ -43,5 +43,5 @@ OpenRouter cements its position as the dominant multi-model gateway — TechCrun
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le]] · [[2026-05-27-capitalg-s-lead-on-openrouter-signals-alphabet-s-distributio]] · [[2026-08-16-stripe-to-acquire-ai-gateway-startup-openrouter-for-more-tha]] · [[2026-08-16-stripe-openrouter-7b-deal-signals-payments-giant-s-ai-infras]]
+**Related:** [[2026-08-20-ramp-launches-ai-model-router-continued]] · [[2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le]] · [[2026-08-20-ramp-launches-ai-model-router-entering-market-days-after-str]] · [[2026-05-27-capitalg-s-lead-on-openrouter-signals-alphabet-s-distributio]]
 <!-- graph:end -->

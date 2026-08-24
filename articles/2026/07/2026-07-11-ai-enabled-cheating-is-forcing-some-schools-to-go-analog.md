@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work
 - 2026-05-23-uc-berkeley-school-of-law-announced-it-will-prohibit-ai-use
 - 2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse
+- 2026-08-23-university-of-chicago-s-social-sciences-core-bans-ai-and-goe
 - 2026-05-18-academia-scrambles-to-prepare-future-accountants-for-ai
-- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 embedding_id: 2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The University of Chicago Law School is banning laptops in first-year classes wh
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work]] · [[2026-05-23-uc-berkeley-school-of-law-announced-it-will-prohibit-ai-use]] · [[2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse]] · [[2026-05-18-academia-scrambles-to-prepare-future-accountants-for-ai]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
+**Related:** [[2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work]] · [[2026-05-23-uc-berkeley-school-of-law-announced-it-will-prohibit-ai-use]] · [[2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse]] · [[2026-08-23-university-of-chicago-s-social-sciences-core-bans-ai-and-goe]] · [[2026-05-18-academia-scrambles-to-prepare-future-accountants-for-ai]]
 <!-- graph:end -->

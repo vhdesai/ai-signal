@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt
 - 2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers
 - 2026-03-31-nvidia-launches-dlss-4-5-with-dynamic-multi-frame-generation
 - 2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo
-- 2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play
 embedding_id: 2026-07-23-nvidia-dgx-gb300-supercomputer-comes-online-at-naval-postgra
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA says a DGX GB300 system is now online at the Naval Postgraduate School, g
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers]] · [[2026-03-31-nvidia-launches-dlss-4-5-with-dynamic-multi-frame-generation]] · [[2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo]] · [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]]
+**Related:** [[2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt]] · [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers]] · [[2026-03-31-nvidia-launches-dlss-4-5-with-dynamic-multi-frame-generation]] · [[2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo]]
 <!-- graph:end -->

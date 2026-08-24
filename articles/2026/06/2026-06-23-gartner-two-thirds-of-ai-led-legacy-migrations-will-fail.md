@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-22-gartner-ai-capabilities-will-outpace-cost-savings-enterprise
+- 2026-08-22-gartner-ai-capabilities-outpacing-cost-savings-enterprise-sp
+- 2026-08-22-enterprises-winning-with-ai-agents-are-the-ones-constraining
 - 2026-08-13-enterprise-ai-adoption-stalls-legacy-it-and-agentic-gaps-per
 - 2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending
-- 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
-- 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
-- 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
 embedding_id: 2026-06-23-gartner-two-thirds-of-ai-led-legacy-migrations-will-fail
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Gartner projects that more than two-thirds of enterprise efforts to transform le
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-13-enterprise-ai-adoption-stalls-legacy-it-and-agentic-gaps-per]] · [[2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]]
+**Related:** [[2026-08-22-gartner-ai-capabilities-will-outpace-cost-savings-enterprise]] · [[2026-08-22-gartner-ai-capabilities-outpacing-cost-savings-enterprise-sp]] · [[2026-08-22-enterprises-winning-with-ai-agents-are-the-ones-constraining]] · [[2026-08-13-enterprise-ai-adoption-stalls-legacy-it-and-agentic-gaps-per]] · [[2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending]]
 <!-- graph:end -->

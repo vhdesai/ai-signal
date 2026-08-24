@@ -1,13 +1,29 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 711
+member_count: 727
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 711 connected article(s).
+> Auto-generated entity hub. 727 connected article(s).
 
+- `2026-08-23` [[2026-08-23-who-s-behind-the-new-stealth-model-ox-alpha|Who's behind the new 'stealth model' Ox Alpha?]]
+- `2026-08-23` [[2026-08-23-who-s-behind-the-stealth-model-ox-alpha-mystery-deepens|Who's Behind the Stealth Model "Ox Alpha"? — Mystery Deepens]]
+- `2026-08-23` [[2026-08-23-techcrunch-deep-dive-who-s-behind-the-stealth-model-ox-alpha|TechCrunch Deep-Dive: Who's Behind the Stealth Model 'Ox Alpha'?]]
+- `2026-08-23` [[2026-08-23-ox-alpha-a-stealth-reasoning-model-appears-on-openrouter|Ox Alpha, a stealth reasoning model, appears on OpenRouter]]
+- `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
+- `2026-08-22` [[2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma|Saturday coverage: AI content demand strains the rare-book market]]
+- `2026-08-22` [[2026-08-22-nvidia-notifies-customers-of-ai-server-price-hikes-above-15|Nvidia notifies customers of AI server price hikes above 15%]]
+- `2026-08-22` [[2026-08-22-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s|Nvidia Warns Largest Customers of 15%+ Price Increases on AI Servers]]
+- `2026-08-22` [[2026-08-22-nvidia-warns-large-customers-of-15-price-increases-on-ai-ser|Nvidia Warns Large Customers of 15%+ Price Increases on AI Servers]]
+- `2026-08-22` [[2026-08-22-mysterious-free-ai-model-ox-alpha-appears-on-openrouter-nobo|Mysterious Free AI Model 'Ox Alpha' Appears on OpenRouter — Nobody Knows Who Made It]]
+- `2026-08-22` [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro|Frontier AI labs still won't say how they would contain a rogue model]]
+- `2026-08-21` [[2026-08-21-bcc-research-ai-moved-from-experimentation-to-embedded-infra|BCC Research: AI moved from experimentation to embedded infrastructure in Q2 2026]]
+- `2026-08-20` [[2026-08-20-varonis-details-cosnitch-one-click-vulnerability-in-microsof|Varonis Details 'CoSnitch' One-Click Vulnerability in Microsoft 365 Copilot]]
+- `2026-08-20` [[2026-08-20-twin1-ai-raises-20m-for-per-employee-ai-twins|Twin1 AI Raises $20M for Per-Employee “AI Twins”]]
+- `2026-08-20` [[2026-08-20-serval-makes-catalyst-super-agent-generally-available-for-au|Serval Makes 'Catalyst' Super-Agent Generally Available for Autonomous IT Remediation]]
+- `2026-08-20` [[2026-08-20-meta-s-ai-positioning-lags-alphabet-microsoft-and-amazon-as|Meta's AI positioning lags Alphabet, Microsoft and Amazon as capex pressures cash flow]]
 - `2026-08-19` [[2026-08-19-microsoft-patches-one-click-copilot-data-exfiltration-flaw-a|Microsoft Patches One-Click Copilot Data-Exfiltration Flaw After Eight Months]]
 - `2026-08-18` [[2026-08-18-google-says-its-ai-can-automate-forward-deployed-engineers-w|Google Says Its AI Can Automate Forward Deployed Engineers' Work]]
 - `2026-08-18` [[2026-08-18-cursor-launches-origin-a-github-rival-as-github-suffers-six|Cursor Launches Origin — A GitHub Rival — as GitHub Suffers Six-Hour Worldwide Outage]]

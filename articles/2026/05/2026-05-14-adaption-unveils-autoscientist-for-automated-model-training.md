@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-15-a-deep-dive-analysis-published-may-14-examines-the-emerging
 - 2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina
 - 2026-05-14-ai-models-show-growing-ability-to-perform-cybersecurity-task
-- 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
+- 2026-08-24-machine-learning-mastery-publishes-guidance-on-integrating-a
 embedding_id: 2026-05-14-adaption-unveils-autoscientist-for-automated-model-training
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Adaption unveils AutoScientist for automated model training and alignment — Cr
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-13-startup-adaption-launched-autoscientist-a-tool-that-automate]] · [[2026-05-15-a-deep-dive-analysis-published-may-14-examines-the-emerging]] · [[2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina]] · [[2026-05-14-ai-models-show-growing-ability-to-perform-cybersecurity-task]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]]
+**Related:** [[2026-05-13-startup-adaption-launched-autoscientist-a-tool-that-automate]] · [[2026-05-15-a-deep-dive-analysis-published-may-14-examines-the-emerging]] · [[2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina]] · [[2026-05-14-ai-models-show-growing-ability-to-perform-cybersecurity-task]] · [[2026-08-24-machine-learning-mastery-publishes-guidance-on-integrating-a]]
 <!-- graph:end -->

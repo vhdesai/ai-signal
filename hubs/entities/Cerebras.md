@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 143
+member_count: 147
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 143 connected article(s).
+> Auto-generated entity hub. 147 connected article(s).
 
+- `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
+- `2026-08-22` [[2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma|Saturday coverage: AI content demand strains the rare-book market]]
+- `2026-08-22` [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro|Frontier AI labs still won't say how they would contain a rogue model]]
+- `2026-08-20` [[2026-08-20-cerebras-partners-with-callosum-to-expand-agentic-inference|Cerebras Partners With Callosum to Expand Agentic Inference in Europe]]
 - `2026-08-19` [[2026-08-19-cerebras-launches-cs-4-nexus-wafer-scale-inference-system|Cerebras launches CS-4 "Nexus" wafer-scale inference system]]
 - `2026-08-19` [[2026-08-19-cerebras-launches-cs-4-its-first-multi-wafer-inference-syste|Cerebras Launches CS-4, Its First Multi-Wafer Inference System]]
 - `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]

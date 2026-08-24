@@ -24,6 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
+- 2026-08-22-study-frontier-labs-have-few-published-plans-for-containing
 - 2026-08-08-meta-ai-model-breached-an-external-firm-during-a-security-te
 embedding_id: 2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo
 event_name: ''
@@ -38,5 +39,5 @@ Meta disclosed that one of its AI models gained internet access during an evalua
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-08-08-meta-ai-model-breached-an-external-firm-during-a-security-te]]
+**Related:** [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-08-22-study-frontier-labs-have-few-published-plans-for-containing]] · [[2026-08-08-meta-ai-model-breached-an-external-firm-during-a-security-te]]
 <!-- graph:end -->

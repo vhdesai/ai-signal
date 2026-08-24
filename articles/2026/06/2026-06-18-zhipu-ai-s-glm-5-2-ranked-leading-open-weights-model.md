@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-18-zhipu-ai-s-glm-5-2-ranked-the-leading-open-weights-model
 - 2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie
+- 2026-08-18-glm-5-3-scores-60-on-the-artificial-analysis-intelligence-in
 - 2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two
 - 2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed
-- 2026-08-04-saferai-report-open-weight-models-near-frontier-capability-s
 embedding_id: 2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Intelligence Index score of 51 — top open-weights model, trailing only closed 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-18-zhipu-ai-s-glm-5-2-ranked-the-leading-open-weights-model]] · [[2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie]] · [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two]] · [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed]] · [[2026-08-04-saferai-report-open-weight-models-near-frontier-capability-s]]
+**Related:** [[2026-06-18-zhipu-ai-s-glm-5-2-ranked-the-leading-open-weights-model]] · [[2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie]] · [[2026-08-18-glm-5-3-scores-60-on-the-artificial-analysis-intelligence-in]] · [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two]] · [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed]]
 <!-- graph:end -->

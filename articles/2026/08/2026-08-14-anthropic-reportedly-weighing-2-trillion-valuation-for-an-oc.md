@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-anthropic-targets-2t-valuation-with-an-ipo-reportedly-eyed-f
 - 2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren
-- 2026-08-15-anthropic-reportedly-planning-october-ipo-at-up-to-2-trillio
+- 2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an
 embedding_id: 2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Citing Financial Times reporting, Anthropic may seek a valuation above $2T in an
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-14-anthropic-targets-2t-valuation-with-an-ipo-reportedly-eyed-f]] · [[2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren]] · [[2026-08-15-anthropic-reportedly-planning-october-ipo-at-up-to-2-trillio]]
+**Related:** [[2026-08-14-anthropic-targets-2t-valuation-with-an-ipo-reportedly-eyed-f]] · [[2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren]] · [[2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an]]
 <!-- graph:end -->

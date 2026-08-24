@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 82
+member_count: 86
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 82 connected article(s).
+> Auto-generated entity hub. 86 connected article(s).
 
+- `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
+- `2026-08-22` [[2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma|Saturday coverage: AI content demand strains the rare-book market]]
+- `2026-08-22` [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro|Frontier AI labs still won't say how they would contain a rogue model]]
+- `2026-08-20` [[2026-08-20-morgan-stanley-downgrades-baidu-to-underweight-as-ernie-lags|Morgan Stanley Downgrades Baidu to Underweight as ERNIE Lags]]
 - `2026-08-18` [[2026-08-18-baidu-q2-revenue-falls-4-as-ai-cloud-surges-50|Baidu Q2 revenue falls 4% as AI cloud surges 50%]]
 - `2026-08-17` [[2026-08-17-worldclaw-trump-family-linked-crypto-venture-reselling-us-re|WorldClaw: Trump-family-linked crypto venture reselling US-restricted Chinese AI models]]
 - `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]

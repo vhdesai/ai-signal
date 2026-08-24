@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan
 - 2026-07-13-waze-adds-gemini-powered-conversational-search-and-route-per
 - 2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u
+- 2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i
 - 2026-07-30-google-expands-gemini-spark-globally-adds-chrome-auto-browse
-- 2026-07-13-google-s-waze-rolls-out-gemini-powered-features-motorcycle-m
 embedding_id: 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google expanded Gemini in Chrome to U.K. desktop users, added Gemini-powered Waz
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-07-13-waze-adds-gemini-powered-conversational-search-and-route-per]] · [[2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u]] · [[2026-07-30-google-expands-gemini-spark-globally-adds-chrome-auto-browse]] · [[2026-07-13-google-s-waze-rolls-out-gemini-powered-features-motorcycle-m]]
+**Related:** [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-07-13-waze-adds-gemini-powered-conversational-search-and-route-per]] · [[2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u]] · [[2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i]] · [[2026-07-30-google-expands-gemini-spark-globally-adds-chrome-auto-browse]]
 <!-- graph:end -->

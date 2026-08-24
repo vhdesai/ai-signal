@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-20-4danyone-reconstructs-animatable-4d-humans-from-a-single-cas
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
 - 2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans
 - 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
 - 2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi
-- 2026-05-26-mobilegym-verifiable-parallel-simulator-for-mobile-gui-agent
 embedding_id: 2026-05-26-trisplat-simulation-ready-feed-forward-3d-scene-reconstructi
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A feed-forward reconstructor that turns sparse images into physics-compatible 3D
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi]] · [[2026-05-26-mobilegym-verifiable-parallel-simulator-for-mobile-gui-agent]]
+**Related:** [[2026-08-20-4danyone-reconstructs-animatable-4d-humans-from-a-single-cas]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi]]
 <!-- graph:end -->

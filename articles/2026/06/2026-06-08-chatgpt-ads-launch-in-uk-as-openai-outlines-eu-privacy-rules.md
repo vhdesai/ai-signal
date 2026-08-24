@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international
+- 2026-08-24-openai-turns-on-chatgpt-ads-across-31-european-countries
 - 2026-08-15-openai-tells-european-free-tier-users-ads-arrive-this-month
 - 2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar
 - 2026-08-15-chatgpt-ads-arriving-this-month-for-european-free-tier-users
-- 2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope
 embedding_id: 2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI began serving ads in ChatGPT in the UK — its first major international 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international]] · [[2026-08-15-openai-tells-european-free-tier-users-ads-arrive-this-month]] · [[2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar]] · [[2026-08-15-chatgpt-ads-arriving-this-month-for-european-free-tier-users]] · [[2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope]]
+**Related:** [[2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international]] · [[2026-08-24-openai-turns-on-chatgpt-ads-across-31-european-countries]] · [[2026-08-15-openai-tells-european-free-tier-users-ads-arrive-this-month]] · [[2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar]] · [[2026-08-15-chatgpt-ads-arriving-this-month-for-european-free-tier-users]]
 <!-- graph:end -->

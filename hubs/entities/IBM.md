@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 130
+member_count: 134
 ---
 
 # IBM
 
-> Auto-generated entity hub. 130 connected article(s).
+> Auto-generated entity hub. 134 connected article(s).
 
+- `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
+- `2026-08-22` [[2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma|Saturday coverage: AI content demand strains the rare-book market]]
+- `2026-08-22` [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro|Frontier AI labs still won't say how they would contain a rogue model]]
+- `2026-08-21` [[2026-08-21-stripe-reportedly-moves-to-acquire-openrouter-as-ai-routing|Stripe reportedly moves to acquire OpenRouter as AI routing becomes a platform layer]]
 - `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
 - `2026-08-16` [[2026-08-16-silver-lake-workday-talks-signal-potential-end-to-ai-driven|Silver Lake-Workday Talks Signal Potential End to AI-Driven SaaS Sell-off]]
 - `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]

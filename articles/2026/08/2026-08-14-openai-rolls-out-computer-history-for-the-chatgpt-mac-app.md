@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos
 - 2026-08-11-openai-launches-a-chatgpt-and-codex-desktop-app-for-linux
 embedding_id: 2026-08-14-openai-rolls-out-computer-history-for-the-chatgpt-mac-app
 event_name: ''
@@ -35,5 +36,5 @@ OpenAI's Mac desktop app can now turn recent local computer activity into a sear
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-11-openai-launches-a-chatgpt-and-codex-desktop-app-for-linux]]
+**Related:** [[2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos]] · [[2026-08-11-openai-launches-a-chatgpt-and-codex-desktop-app-for-linux]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-25-28-9m-parameter-llm-runs-locally-on-an-8-esp32-microcontroll
 - 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
 - 2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r
-- 2026-08-14-french-startup-kog-bets-on-software-optimization-to-achieve
-- 2026-06-27-bytedance-and-renmin-university-release-illada-an-8b-diffusi
+- 2026-08-20-meet-s1-mini-superwhisper-s-462-mb-open-weights-text-normali
+- 2026-08-20-s1-mini-a-462-mb-open-weights-text-normalizer-for-cleaning-a
 embedding_id: 2026-07-25-28-9m-parameter-llm-now-runs-locally-on-an-8-esp32-microcont
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A developer ran a 28.9M-parameter TinyStories model entirely on an ESP32-S3 (~$8
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-25-28-9m-parameter-llm-runs-locally-on-an-8-esp32-microcontroll]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r]] · [[2026-08-14-french-startup-kog-bets-on-software-optimization-to-achieve]] · [[2026-06-27-bytedance-and-renmin-university-release-illada-an-8b-diffusi]]
+**Related:** [[2026-07-25-28-9m-parameter-llm-runs-locally-on-an-8-esp32-microcontroll]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r]] · [[2026-08-20-meet-s1-mini-superwhisper-s-462-mb-open-weights-text-normali]] · [[2026-08-20-s1-mini-a-462-mb-open-weights-text-normalizer-for-cleaning-a]]
 <!-- graph:end -->

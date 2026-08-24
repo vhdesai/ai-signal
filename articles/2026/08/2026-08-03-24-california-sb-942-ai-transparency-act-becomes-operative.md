@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-08-02-california-ai-transparency-act-sb-942-becomes-operative
 - 2026-08-02-california-s-ai-transparency-act-sb-942-becomes-operative
 - 2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ
+- 2026-08-22-openai-reverses-course-calls-for-california-to-strengthen-sb
 - 2026-05-23-california-issues-trusted-ai-procurement-executive-order-man
-- 2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe
 embedding_id: 2026-08-03-24-california-sb-942-ai-transparency-act-becomes-operative
 event_name: ''
 ---
@@ -36,5 +36,5 @@ California’s SB 942 took effect, requiring C2PA content provenance and free AI
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-02-california-ai-transparency-act-sb-942-becomes-operative]] · [[2026-08-02-california-s-ai-transparency-act-sb-942-becomes-operative]] · [[2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ]] · [[2026-05-23-california-issues-trusted-ai-procurement-executive-order-man]] · [[2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe]]
+**Related:** [[2026-08-02-california-ai-transparency-act-sb-942-becomes-operative]] · [[2026-08-02-california-s-ai-transparency-act-sb-942-becomes-operative]] · [[2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ]] · [[2026-08-22-openai-reverses-course-calls-for-california-to-strengthen-sb]] · [[2026-05-23-california-issues-trusted-ai-procurement-executive-order-man]]
 <!-- graph:end -->

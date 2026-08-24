@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-17-openai-funds-independent-projects-on-policy-ideas-for-the-in
+- 2026-08-20-openai-launches-ai-futures-a-blog-on-power-governance-and-th
 - 2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy
+- 2026-08-21-openai-launches-ai-futures-a-blog-on-power-governance-and-hu
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
-- 2026-04-06-embedded-within-openai-s-broader-intelligence-age-policy-pap
-- 2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation
 embedding_id: 2026-04-06-openai-today-released-a-13-page-industrial-policy-document-t
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI today released a 13-page industrial policy document titled "Industrial Po
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-08-17-openai-funds-independent-projects-on-policy-ideas-for-the-in]] · [[2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-04-06-embedded-within-openai-s-broader-intelligence-age-policy-pap]] · [[2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation]]
+**Related:** [[2026-08-17-openai-funds-independent-projects-on-policy-ideas-for-the-in]] · [[2026-08-20-openai-launches-ai-futures-a-blog-on-power-governance-and-th]] · [[2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy]] · [[2026-08-21-openai-launches-ai-futures-a-blog-on-power-governance-and-hu]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
 <!-- graph:end -->

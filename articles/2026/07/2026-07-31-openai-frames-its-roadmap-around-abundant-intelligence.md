@@ -23,7 +23,8 @@ related_article_ids:
 - 2026-08-01-openai-published-a-strategy-essay-describing-a-full-stack-ap
 - 2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy
 - 2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st
-- 2026-08-01-openai-publishes-ten-advances-in-mathematics-and-theoretical
+- 2026-08-20-openai-launches-ai-futures-a-blog-on-power-governance-and-th
+- 2026-08-21-openai-launches-ai-futures-a-blog-on-power-governance-and-hu
 embedding_id: 2026-07-31-openai-frames-its-roadmap-around-abundant-intelligence
 event_name: ''
 ---
@@ -37,5 +38,5 @@ OpenAI published a strategy essay describing a full-stack approach to making adv
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-01-openai-published-a-strategy-essay-describing-a-full-stack-ap]] · [[2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy]] · [[2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st]] · [[2026-08-01-openai-publishes-ten-advances-in-mathematics-and-theoretical]]
+**Related:** [[2026-08-01-openai-published-a-strategy-essay-describing-a-full-stack-ap]] · [[2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy]] · [[2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st]] · [[2026-08-20-openai-launches-ai-futures-a-blog-on-power-governance-and-th]] · [[2026-08-21-openai-launches-ai-futures-a-blog-on-power-governance-and-hu]]
 <!-- graph:end -->

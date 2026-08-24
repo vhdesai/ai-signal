@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-18-warp-introduces-factories-out-of-the-box-ai-software-develop
 - 2026-08-18-warp-s-new-system-is-an-out-of-the-box-software-factory-for
 - 2026-08-18-warp-introduces-factories-out-of-the-box-infrastructure-for
+- 2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro
 - 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
-- 2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo
 embedding_id: 2026-08-18-warp-introduces-factories-an-out-of-the-box-infrastructure-f
 event_name: ''
 ---
@@ -39,5 +39,5 @@ AI coding company Warp launched Warp Factories, an infrastructure system that pr
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-18-warp-introduces-factories-out-of-the-box-ai-software-develop]] · [[2026-08-18-warp-s-new-system-is-an-out-of-the-box-software-factory-for]] · [[2026-08-18-warp-introduces-factories-out-of-the-box-infrastructure-for]] · [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]] · [[2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo]]
+**Related:** [[2026-08-18-warp-introduces-factories-out-of-the-box-ai-software-develop]] · [[2026-08-18-warp-s-new-system-is-an-out-of-the-box-software-factory-for]] · [[2026-08-18-warp-introduces-factories-out-of-the-box-infrastructure-for]] · [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro]] · [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]]
 <!-- graph:end -->

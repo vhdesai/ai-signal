@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s
 - 2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk
+- 2026-08-21-brazil-launches-ai-supercomputer-push-with-both-u-s-and-chin
 - 2026-07-30-eu-commits-10b-to-seven-ai-gigafactories-in-race-with-u-s-an
-- 2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo
 embedding_id: 2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Wired reported that the UK is making a major investment in a billion-dollar AI s
 
 **Entities:** [[AMD]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s]] · [[2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk]] · [[2026-07-30-eu-commits-10b-to-seven-ai-gigafactories-in-race-with-u-s-an]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]]
+**Related:** [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s]] · [[2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk]] · [[2026-08-21-brazil-launches-ai-supercomputer-push-with-both-u-s-and-chin]] · [[2026-07-30-eu-commits-10b-to-seven-ai-gigafactories-in-race-with-u-s-an]]
 <!-- graph:end -->

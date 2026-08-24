@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re
+- 2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo
 - 2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce
 - 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
-- 2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri
-- 2026-07-13-infrastructure-local-policy-data-centers
+- 2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats
 embedding_id: 2026-06-11-axios-congress-wants-in-on-the-data-center-backlash
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Axios reported that Congress is preparing legislation to address the growing dat
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri]] · [[2026-07-13-infrastructure-local-policy-data-centers]]
+**Related:** [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]] · [[2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats]]
 <!-- graph:end -->

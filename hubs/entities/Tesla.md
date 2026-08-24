@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Tesla
-member_count: 40
+member_count: 41
 ---
 
 # Tesla
 
-> Auto-generated entity hub. 40 connected article(s).
+> Auto-generated entity hub. 41 connected article(s).
 
+- `2026-08-24` [[2026-08-24-tesla-sets-september-3-cybercab-launch-event-in-austin|Tesla sets September 3 Cybercab launch event in Austin]]
 - `2026-08-18` [[2026-08-18-wsj-deep-dive-trump-s-privateer-hacking-plan-brings-high-ris|WSJ Deep Dive: Trump's "Privateer" Hacking Plan Brings High Risk to Participating Companies]]
 - `2026-08-17` [[2026-08-17-tesla-readies-august-launch-of-cybercab-its-first-robotaxi-w|Tesla Readies August Launch of Cybercab — Its First Robotaxi Without Steering Wheel]]
 - `2026-08-14` [[2026-08-14-tesla-fsd-eliminates-speeding-tickets-in-real-world-testing|Tesla FSD Eliminates Speeding Tickets in Real-World Testing]]

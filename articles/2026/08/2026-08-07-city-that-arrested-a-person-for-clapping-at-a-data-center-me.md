@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati
+- 2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats
+- 2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo
 - 2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil
 - 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
-- 2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat
-- 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
 embedding_id: 2026-08-07-city-that-arrested-a-person-for-clapping-at-a-data-center-me
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Emporia, Kansas held its city commission meeting virtually with no public commen
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]]
+**Related:** [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats]] · [[2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo]] · [[2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]]
 <!-- graph:end -->

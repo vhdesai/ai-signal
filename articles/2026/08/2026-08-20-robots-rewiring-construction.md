@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-20-unitree-raises-904m-in-shanghai-ipo-factory-automation-seen
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 - 2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree
 - 2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them
 - 2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast
-- 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
 embedding_id: 2026-08-20-robots-rewiring-construction
 event_name: ''
 ---
@@ -40,5 +40,5 @@ PitchBook's daily roundup highlights how robotics and AI are increasingly being 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree]] · [[2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them]] · [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]]
+**Related:** [[2026-08-20-unitree-raises-904m-in-shanghai-ipo-factory-automation-seen]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree]] · [[2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them]] · [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]]
 <!-- graph:end -->

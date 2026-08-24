@@ -17,9 +17,12 @@ entities: []
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-08-19-ai-was-supposed-to-win-people-over-by-now-it-hasn-t
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-08-19-ai-was-supposed-to-win-people-over-by-now-it-hasn-t
+- 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
+- 2026-08-16-techcrunch-analysis-why-people-aren-t-buying-zuckerberg-s-ai
 embedding_id: 2026-08-19-techcrunch-analysis-ai-was-supposed-to-win-people-over-by-no
 event_name: ''
 ---
@@ -32,5 +35,5 @@ polling data paints a bleak picture: Pew finds 52% of Americans are "more concer
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-08-19-ai-was-supposed-to-win-people-over-by-now-it-hasn-t]]
+**Related:** [[2026-08-19-ai-was-supposed-to-win-people-over-by-now-it-hasn-t]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-08-16-techcrunch-analysis-why-people-aren-t-buying-zuckerberg-s-ai]]
 <!-- graph:end -->

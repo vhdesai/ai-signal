@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-cmu-edinburgh-tu-delft-study-big-ai-uses-big-tobacco-lobbyin
+- 2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap
 - 2026-05-01-survey-9-in-10-u-s-and-european-policy-experts-say-ai-govern
 - 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
 - 2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti
-- 2026-08-03-chatgpt-s-reported-dominance-in-identifiable-house-spending
 embedding_id: 2026-05-18-research-big-ai-uses-big-tobacco-style-lobbying-tactics-to-i
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers from the University of Edinburgh, Trinity College Dublin, TU Delft, 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-19-cmu-edinburgh-tu-delft-study-big-ai-uses-big-tobacco-lobbyin]] · [[2026-05-01-survey-9-in-10-u-s-and-european-policy-experts-say-ai-govern]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti]] · [[2026-08-03-chatgpt-s-reported-dominance-in-identifiable-house-spending]]
+**Related:** [[2026-05-19-cmu-edinburgh-tu-delft-study-big-ai-uses-big-tobacco-lobbyin]] · [[2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap]] · [[2026-05-01-survey-9-in-10-u-s-and-european-policy-experts-say-ai-govern]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti]]
 <!-- graph:end -->

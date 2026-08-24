@@ -18,6 +18,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-ukraine-says-an-nvidia-chip-was-found-inside-a-russian-cruis
+- 2026-08-21-stunt-filled-hype-videos-fuel-robotics-new-arms-race
+- 2026-08-24-ukraine-says-a-fully-autonomous-russian-ai-drone-killed-thre
 embedding_id: 2026-07-11-the-videos-from-ukraine-show-a-cat-and-mouse-game
 event_name: ''
 ---
@@ -29,5 +31,5 @@ The videos from Ukraine show a cat-and-mouse game. A so-called loitering munitio
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-08-14-ukraine-says-an-nvidia-chip-was-found-inside-a-russian-cruis]]
+**Related:** [[2026-08-14-ukraine-says-an-nvidia-chip-was-found-inside-a-russian-cruis]] · [[2026-08-21-stunt-filled-hype-videos-fuel-robotics-new-arms-race]] · [[2026-08-24-ukraine-says-a-fully-autonomous-russian-ai-drone-killed-thre]]
 <!-- graph:end -->

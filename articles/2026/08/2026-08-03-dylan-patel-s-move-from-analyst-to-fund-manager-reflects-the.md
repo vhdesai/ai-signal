@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-semianalysis-dylan-patel-targets-400-million-venture-capital
 - 2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i
+- 2026-08-21-private-equity-deploys-army-of-ai-wonks-to-embed-in-portfoli
 - 2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190
 - 2026-07-27-hsbc-to-hire-100-ai-specialists-in-singapore-expansion
-- 2026-07-25-corporate-capital-is-concentrating-the-u-s-ai-startup-market
 embedding_id: 2026-08-03-dylan-patel-s-move-from-analyst-to-fund-manager-reflects-the
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Dylan Patel’s move from analyst to fund manager reflects the rise of specialis
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-03-semianalysis-dylan-patel-targets-400-million-venture-capital]] · [[2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]] · [[2026-07-27-hsbc-to-hire-100-ai-specialists-in-singapore-expansion]] · [[2026-07-25-corporate-capital-is-concentrating-the-u-s-ai-startup-market]]
+**Related:** [[2026-08-03-semianalysis-dylan-patel-targets-400-million-venture-capital]] · [[2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i]] · [[2026-08-21-private-equity-deploys-army-of-ai-wonks-to-embed-in-portfoli]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]] · [[2026-07-27-hsbc-to-hire-100-ai-specialists-in-singapore-expansion]]
 <!-- graph:end -->

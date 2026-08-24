@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-01-ai-and-the-blurring-of-reality
 - 2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t
+- 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
 - 2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro
 - 2026-06-07-wsj-the-artificial-intelligence-backlash
 embedding_id: 2026-08-01-the-red-hot-book-at-the-center-of-an-ai-mystery
@@ -36,5 +37,5 @@ The WSJ profiles a book that has become unexpectedly central to the AI discourse
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-01-ai-and-the-blurring-of-reality]] · [[2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t]] · [[2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]]
+**Related:** [[2026-08-01-ai-and-the-blurring-of-reality]] · [[2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]] · [[2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]]
 <!-- graph:end -->

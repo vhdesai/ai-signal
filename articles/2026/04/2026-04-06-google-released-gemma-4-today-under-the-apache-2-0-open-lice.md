@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-04-04-google-released-gemma-4-in-four-sizes-e2b-e4b-26b-moe-and-31
 - 2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh
 - 2026-04-10-analysis-of-march-april-2026-benchmark-results-shows-open-we
+- 2026-08-20-google-s-gemma-open-models-pass-1-billion-downloads
 - 2026-06-03-google-releases-gemma-4-12b-sized-to-run-on-a-16gb-laptop
-- 2026-06-03-google-releases-gemma-4-12b-sized-for-a-16gb-laptop
 embedding_id: 2026-04-06-google-released-gemma-4-today-under-the-apache-2-0-open-lice
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google released Gemma 4 today under the Apache 2.0 open license, achieving 89.2%
 
 **Entities:** [[Google]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-04-google-released-gemma-4-in-four-sizes-e2b-e4b-26b-moe-and-31]] · [[2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh]] · [[2026-04-10-analysis-of-march-april-2026-benchmark-results-shows-open-we]] · [[2026-06-03-google-releases-gemma-4-12b-sized-to-run-on-a-16gb-laptop]] · [[2026-06-03-google-releases-gemma-4-12b-sized-for-a-16gb-laptop]]
+**Related:** [[2026-04-04-google-released-gemma-4-in-four-sizes-e2b-e4b-26b-moe-and-31]] · [[2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh]] · [[2026-04-10-analysis-of-march-april-2026-benchmark-results-shows-open-we]] · [[2026-08-20-google-s-gemma-open-models-pass-1-billion-downloads]] · [[2026-06-03-google-releases-gemma-4-12b-sized-to-run-on-a-16gb-laptop]]
 <!-- graph:end -->

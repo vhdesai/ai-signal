@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-21-ai-drives-up-demand-for-analytics-and-database-architecture
+- 2026-08-22-gartner-ai-capabilities-outpacing-cost-savings-enterprise-sp
+- 2026-08-22-gartner-ai-costs-will-rise-exponentially-despite-per-token-d
+- 2026-08-21-cio-dive-ai-drives-up-demand-for-analytics-and-database-arch
 - 2026-08-13-enterprise-ai-adoption-stalls-legacy-it-and-agentic-gaps-per
-- 2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans
-- 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
-- 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
-- 2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending
 embedding_id: 2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Enterprises are now pouring more resources into operating AI technology at scale
 
 **Entities:** [[Google]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-13-enterprise-ai-adoption-stalls-legacy-it-and-agentic-gaps-per]] · [[2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending]]
+**Related:** [[2026-08-21-ai-drives-up-demand-for-analytics-and-database-architecture]] · [[2026-08-22-gartner-ai-capabilities-outpacing-cost-savings-enterprise-sp]] · [[2026-08-22-gartner-ai-costs-will-rise-exponentially-despite-per-token-d]] · [[2026-08-21-cio-dive-ai-drives-up-demand-for-analytics-and-database-arch]] · [[2026-08-13-enterprise-ai-adoption-stalls-legacy-it-and-agentic-gaps-per]]
 <!-- graph:end -->

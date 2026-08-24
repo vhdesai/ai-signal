@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans
 - 2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt
+- 2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos
 - 2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access
 - 2026-07-10-openai-launches-chatgpt-work-agentic-assistant-and-gpt-live
-- 2026-08-14-openai-rolls-out-computer-history-for-the-chatgpt-mac-app
 embedding_id: 2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI is revoking existing code-signing certificates and forcing all ChatGPT Ma
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]] · [[2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access]] · [[2026-07-10-openai-launches-chatgpt-work-agentic-assistant-and-gpt-live]] · [[2026-08-14-openai-rolls-out-computer-history-for-the-chatgpt-mac-app]]
+**Related:** [[2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]] · [[2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos]] · [[2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access]] · [[2026-07-10-openai-launches-chatgpt-work-agentic-assistant-and-gpt-live]]
 <!-- graph:end -->

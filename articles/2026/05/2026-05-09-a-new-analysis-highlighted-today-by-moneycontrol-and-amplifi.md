@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
-- 2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product
+- 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 embedding_id: 2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A new analysis highlighted today by Moneycontrol and amplified across tech media
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product]]
+**Related:** [[2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]]
 <!-- graph:end -->

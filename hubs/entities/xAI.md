@@ -1,14 +1,31 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 311
+member_count: 328
 ---
 
 # xAI
 
-> Auto-generated entity hub. 311 connected article(s).
+> Auto-generated entity hub. 328 connected article(s).
 
+- `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
+- `2026-08-22` [[2026-08-22-study-frontier-labs-have-few-published-plans-for-containing|Study: Frontier Labs Have Few Published Plans for Containing a Rogue Model]]
+- `2026-08-22` [[2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma|Saturday coverage: AI content demand strains the rare-book market]]
+- `2026-08-22` [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro|Frontier AI labs still won't say how they would contain a rogue model]]
+- `2026-08-21` [[2026-08-21-zero-click-cryptographic-context-injection-attack-steals-gro|Zero-click “cryptographic context injection” attack steals Grok chat data]]
+- `2026-08-20` [[2026-08-20-xai-s-grok-hit-by-widespread-gibberish-response-glitch|xAI's Grok Hit by Widespread 'Gibberish' Response Glitch]]
+- `2026-08-20` [[2026-08-20-ramp-s-ai-model-router-now-live-continued|Ramp's AI Model Router Now Live (Continued)]]
+- `2026-08-20` [[2026-08-20-ramp-launches-ai-model-router-entering-market-days-after-str|Ramp Launches AI Model Router, Entering Market Days After Stripe’s $7.5B OpenRouter Deal]]
+- `2026-08-20` [[2026-08-20-ramp-launches-ai-model-router-continued|Ramp Launches AI Model Router (Continued)]]
+- `2026-08-20` [[2026-08-20-palantir-adds-gemma-4-gemini-3-7-flash-and-grok-4-6-to-aip|Palantir Adds Gemma 4, Gemini 3.7 Flash and Grok 4.6 to AIP]]
+- `2026-08-20` [[2026-08-20-musk-says-grok-can-earn-you-money-as-xai-pushes-beyond-chat|Musk Says Grok 'Can Earn You Money' as xAI Pushes Beyond Chat]]
+- `2026-08-20` [[2026-08-20-grok-keeps-sending-gibberish-responses-to-users|Grok keeps sending gibberish responses to users]]
+- `2026-08-20` [[2026-08-20-grok-sends-gibberish-responses-amid-xai-staff-exodus|Grok Sends Gibberish Responses Amid xAI Staff Exodus]]
+- `2026-08-20` [[2026-08-20-grok-lite-sends-gibberish-responses-to-users-amid-xai-staff|Grok Lite Sends Gibberish Responses to Users Amid xAI Staff Turnover]]
+- `2026-08-20` [[2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover|Grok Lite Sends Gibberish Responses Amid xAI Staff Turnover]]
+- `2026-08-20` [[2026-08-20-adversa-discloses-cryptographic-context-injection-data-exfil|Adversa Discloses 'Cryptographic Context Injection' Data-Exfiltration Attack on Grok]]
 - `2026-08-19` [[2026-08-19-spacex-reportedly-tried-to-acquire-cognition-ceo-denies-says|SpaceX Reportedly Tried to Acquire Cognition — CEO Denies, Says "Not for Sale"]]
+- `2026-08-19` [[2026-08-19-southaven-permit-hearing-could-determine-the-future-of-xai-s|Southaven permit hearing could determine the future of xAI's Grok compute site]]
 - `2026-08-19` [[2026-08-19-grok-4-6-reaches-general-availability-on-amazon-bedrock|Grok 4.6 Reaches General Availability on Amazon Bedrock]]
 - `2026-08-18` [[2026-08-18-cursor-launches-origin-a-github-rival-as-github-suffers-six|Cursor Launches Origin — A GitHub Rival — as GitHub Suffers Six-Hour Worldwide Outage]]
 - `2026-08-18` [[2026-08-18-cursor-launches-origin-a-github-rival-built-for-ai-native-wo|Cursor Launches Origin — A GitHub Rival Built for AI-Native Workflows]]

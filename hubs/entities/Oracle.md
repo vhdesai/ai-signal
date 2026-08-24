@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 145
+member_count: 152
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 145 connected article(s).
+> Auto-generated entity hub. 152 connected article(s).
 
+- `2026-08-23` [[2026-08-23-oracle-cloud-infrastructure-receives-nvidia-exemplar-cloud-v|Oracle Cloud Infrastructure receives NVIDIA Exemplar Cloud validation for GB300 NVL72 and HGX B300]]
+- `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
+- `2026-08-22` [[2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma|Saturday coverage: AI content demand strains the rare-book market]]
+- `2026-08-22` [[2026-08-22-nvidia-notifies-customers-of-ai-server-price-hikes-above-15|Nvidia notifies customers of AI server price hikes above 15%]]
+- `2026-08-22` [[2026-08-22-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s|Nvidia Warns Largest Customers of 15%+ Price Increases on AI Servers]]
+- `2026-08-22` [[2026-08-22-nvidia-warns-large-customers-of-15-price-increases-on-ai-ser|Nvidia Warns Large Customers of 15%+ Price Increases on AI Servers]]
+- `2026-08-22` [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro|Frontier AI labs still won't say how they would contain a rogue model]]
 - `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]
 - `2026-08-15` [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu|Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3]]
 - `2026-08-14` [[2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion|FT: Big Tech AI purchase commitments approach ~$1.5 trillion]]

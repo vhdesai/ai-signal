@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-21-nvidia-research-the-agent-harness-not-the-base-model-drives
 - 2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75
 - 2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-dupl
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
-- 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
 embedding_id: 2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to
 event_name: ''
 ---
@@ -37,5 +37,5 @@ NVIDIA released Switchyard, a router that reshuffles AI models mid-task to optim
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75]] · [[2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-dupl]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]]
+**Related:** [[2026-08-21-nvidia-research-the-agent-harness-not-the-base-model-drives]] · [[2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75]] · [[2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-dupl]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]]
 <!-- graph:end -->

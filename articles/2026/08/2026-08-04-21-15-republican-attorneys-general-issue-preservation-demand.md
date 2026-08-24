@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after
 - 2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out
+- 2026-08-22-openai-asks-california-to-strengthen-its-own-ai-safety-bill
 - 2026-07-17-apple-sends-legal-preservation-letters-to-40-former-staff-no
-- 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
 embedding_id: 2026-08-04-21-15-republican-attorneys-general-issue-preservation-demand
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A coalition of 15 GOP state attorneys general, led by Iowa’s Brenna Bird, issu
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after]] · [[2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out]] · [[2026-07-17-apple-sends-legal-preservation-letters-to-40-former-staff-no]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]]
+**Related:** [[2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after]] · [[2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out]] · [[2026-08-22-openai-asks-california-to-strengthen-its-own-ai-safety-bill]] · [[2026-07-17-apple-sends-legal-preservation-letters-to-40-former-staff-no]]
 <!-- graph:end -->

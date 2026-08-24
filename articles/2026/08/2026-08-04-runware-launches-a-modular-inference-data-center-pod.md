@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-04-runware-launches-sonic-inference-pod-a-modular-portable-data
 - 2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi
+- 2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics
 - 2026-08-13-community-labs-launches-cascadia-open-source-distributed-inf
 - 2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere
-- 2026-08-13-cascadia-launches-open-source-distributed-inference-for-inte
 embedding_id: 2026-08-04-runware-launches-a-modular-inference-data-center-pod
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Runware unveiled Sonic Inference Pod, a self-contained modular data center desig
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-04-runware-launches-sonic-inference-pod-a-modular-portable-data]] · [[2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi]] · [[2026-08-13-community-labs-launches-cascadia-open-source-distributed-inf]] · [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere]] · [[2026-08-13-cascadia-launches-open-source-distributed-inference-for-inte]]
+**Related:** [[2026-08-04-runware-launches-sonic-inference-pod-a-modular-portable-data]] · [[2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi]] · [[2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics]] · [[2026-08-13-community-labs-launches-cascadia-open-source-distributed-inf]] · [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere]]
 <!-- graph:end -->

@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-06-princeton-privileged-self-distillation-can-degrade-reasoning
 - 2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85
+- 2026-08-21-memtrapbench-retrieved-memory-can-actively-degrade-llm-reaso
 - 2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
-- 2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a
 embedding_id: 2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Proposes pass-rate weighted self-distillation as a technique to improve LLM reas
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-06-princeton-privileged-self-distillation-can-degrade-reasoning]] · [[2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85]] · [[2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a]]
+**Related:** [[2026-07-06-princeton-privileged-self-distillation-can-degrade-reasoning]] · [[2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85]] · [[2026-08-21-memtrapbench-retrieved-memory-can-actively-degrade-llm-reaso]] · [[2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]]
 <!-- graph:end -->

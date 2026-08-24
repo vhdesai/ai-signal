@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
 - 2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific
 - 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
 - 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
-- 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
 embedding_id: 2026-05-08-anthropic-rolled-out-claude-security-in-may-2026-a-new-capab
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic rolled out Claude Security in May 2026, a new capability that scans co
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]]
+**Related:** [[2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35]] · [[2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]]
 <!-- graph:end -->

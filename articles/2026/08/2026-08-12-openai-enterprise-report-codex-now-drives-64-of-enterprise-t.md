@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age
 - 2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a
 - 2026-06-02-openai-codex-crosses-5m-weekly-users-expands-beyond-coding-t
-- 2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr
+- 2026-08-22-openai-codex-passes-20-million-users-as-rate-limit-complaint
 embedding_id: 2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI published usage data showing frontier firms generate 8.3× more output to
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age]] · [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]] · [[2026-06-02-openai-codex-crosses-5m-weekly-users-expands-beyond-coding-t]] · [[2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr]]
+**Related:** [[2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age]] · [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]] · [[2026-06-02-openai-codex-crosses-5m-weekly-users-expands-beyond-coding-t]] · [[2026-08-22-openai-codex-passes-20-million-users-as-rate-limit-complaint]]
 <!-- graph:end -->

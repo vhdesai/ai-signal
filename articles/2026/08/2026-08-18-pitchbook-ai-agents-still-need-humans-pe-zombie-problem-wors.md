@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 - 2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion
 - 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
-- 2026-08-07-cambridge-study-human-reviewers-miss-one-third-of-risky-ai-c
+- 2026-08-22-enterprises-winning-with-ai-agents-are-the-ones-limiting-aut
 embedding_id: 2026-08-18-pitchbook-ai-agents-still-need-humans-pe-zombie-problem-wors
 event_name: ''
 ---
@@ -35,5 +35,5 @@ PitchBook's daily roundup highlights that "agents need humans, too" — reflecti
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]] · [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]] · [[2026-08-07-cambridge-study-human-reviewers-miss-one-third-of-risky-ai-c]]
+**Related:** [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]] · [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]] · [[2026-08-22-enterprises-winning-with-ai-agents-are-the-ones-limiting-aut]]
 <!-- graph:end -->

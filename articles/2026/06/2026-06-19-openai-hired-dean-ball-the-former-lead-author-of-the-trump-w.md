@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball
 - 2026-07-19-pentagon-official-blasts-openai-s-dean-ball-over-regulation
 - 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
-- 2026-05-05-trump-administration-weighs-new-ai-model-guardrails
+- 2026-08-21-openai-launches-ai-futures-a-blog-on-power-governance-and-hu
 embedding_id: 2026-06-19-openai-hired-dean-ball-the-former-lead-author-of-the-trump-w
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI hired Dean Ball, the former lead author of the Trump White House's AI Act
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball]] · [[2026-07-19-pentagon-official-blasts-openai-s-dean-ball-over-regulation]] · [[2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai]] · [[2026-05-05-trump-administration-weighs-new-ai-model-guardrails]]
+**Related:** [[2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball]] · [[2026-07-19-pentagon-official-blasts-openai-s-dean-ball-over-regulation]] · [[2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai]] · [[2026-08-21-openai-launches-ai-futures-a-blog-on-power-governance-and-hu]]
 <!-- graph:end -->

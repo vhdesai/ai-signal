@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-17-ecb-blog-predicts-ai-tech-stock-market-correction-is-likely
+- 2026-08-21-reuters-reports-corporate-ai-debt-surge-is-testing-investor
 - 2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe
 - 2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are
 - 2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov
@@ -36,5 +37,5 @@ Reuters reported that an ECB blog predicts an AI market correction, adding to sc
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-17-ecb-blog-predicts-ai-tech-stock-market-correction-is-likely]] · [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]] · [[2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are]] · [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]]
+**Related:** [[2026-08-17-ecb-blog-predicts-ai-tech-stock-market-correction-is-likely]] · [[2026-08-21-reuters-reports-corporate-ai-debt-surge-is-testing-investor]] · [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]] · [[2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are]] · [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]]
 <!-- graph:end -->

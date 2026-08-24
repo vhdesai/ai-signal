@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo
 - 2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv
+- 2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics
 - 2026-08-14-uber-and-pony-ai-plan-2-000-robotaxis-across-european-cities
-- 2026-08-14-pony-ai-and-uber-plan-more-than-2-000-robotaxis-across-five
-- 2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle
+- 2026-08-24-tesla-sets-september-3-cybercab-launch-event-in-austin
 embedding_id: 2026-08-04-waymo-opens-dallas-robotaxi-service-to-all-riders
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Waymo removed the waitlist for its Dallas robotaxi service, opening access to an
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo]] · [[2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv]] · [[2026-08-14-uber-and-pony-ai-plan-2-000-robotaxis-across-european-cities]] · [[2026-08-14-pony-ai-and-uber-plan-more-than-2-000-robotaxis-across-five]] · [[2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle]]
+**Related:** [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo]] · [[2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv]] · [[2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics]] · [[2026-08-14-uber-and-pony-ai-plan-2-000-robotaxis-across-european-cities]] · [[2026-08-24-tesla-sets-september-3-cybercab-launch-event-in-austin]]
 <!-- graph:end -->

@@ -1,13 +1,25 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 336
+member_count: 348
 ---
 
 # Apple
 
-> Auto-generated entity hub. 336 connected article(s).
+> Auto-generated entity hub. 348 connected article(s).
 
+- `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
+- `2026-08-22` [[2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma|Saturday coverage: AI content demand strains the rare-book market]]
+- `2026-08-22` [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro|Frontier AI labs still won't say how they would contain a rogue model]]
+- `2026-08-21` [[2026-08-21-neocloud-rankings-coreweave-nebius-lambda-crusoe-and-groq-co|Neocloud rankings: CoreWeave, Nebius, Lambda, Crusoe and Groq compared]]
+- `2026-08-21` [[2026-08-21-apple-music-makes-ai-transparency-tags-mandatory|Apple Music makes AI transparency tags mandatory]]
+- `2026-08-21` [[2026-08-21-apple-music-will-label-ai-generated-songs-with-disclosure-ta|Apple Music Will Label AI-Generated Songs, With Disclosure Tags Now Mandatory]]
+- `2026-08-20` [[2026-08-20-chatgpt-can-now-send-texts-for-you-with-new-apple-messages-p|ChatGPT can now send texts for you with new Apple Messages plug-in]]
+- `2026-08-20` [[2026-08-20-chatgpt-launches-apple-messages-plug-in-can-send-texts-on-yo|ChatGPT Launches Apple Messages Plug-In — Can Send Texts on Your Behalf]]
+- `2026-08-20` [[2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos|ChatGPT Gains an Apple Messages Integration on macOS]]
+- `2026-08-20` [[2026-08-20-apple-music-will-label-songs-materially-generated-using-ai|Apple Music will label songs "materially generated using AI"]]
+- `2026-08-20` [[2026-08-20-apple-music-to-apply-visible-made-with-ai-labels-to-generate|Apple Music to Apply Visible “Made With AI” Labels to Generated Tracks]]
+- `2026-08-20` [[2026-08-20-ai-data-startup-micro1-hits-500m-gross-run-rate-as-training|AI Data Startup Micro1 Hits $500M Gross Run Rate as Training Data Boom Accelerates]]
 - `2026-08-19` [[2026-08-19-google-launches-ai-study-tools-across-search-and-gemini-for|Google Launches AI Study Tools Across Search and Gemini for Back-to-School]]
 - `2026-08-18` [[2026-08-18-perplexity-s-india-experiment-ai-bundling-can-build-lasting|Perplexity's India Experiment: AI Bundling Can Build Lasting Revenue]]
 - `2026-08-18` [[2026-08-18-apple-s-camera-equipped-airpods-surface-with-visual-intellig|Apple's camera-equipped AirPods surface with "Visual Intelligence"]]

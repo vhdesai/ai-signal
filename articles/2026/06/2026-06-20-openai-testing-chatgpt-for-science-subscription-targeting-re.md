@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo
 - 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
+- 2026-08-23-teachers-split-on-openai-s-chatgpt-for-teens
 - 2026-08-12-openai-begins-testing-ads-in-chatgpt
 - 2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers
-- 2026-08-19-researchers-say-openai-revoked-their-access-to-cyber-securit
 embedding_id: 2026-06-20-openai-testing-chatgpt-for-science-subscription-targeting-re
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Leaked UI elements suggest a specialized subscription tier for universities and 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo]] · [[2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]] · [[2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers]] · [[2026-08-19-researchers-say-openai-revoked-their-access-to-cyber-securit]]
+**Related:** [[2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo]] · [[2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re]] · [[2026-08-23-teachers-split-on-openai-s-chatgpt-for-teens]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]] · [[2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers]]
 <!-- graph:end -->

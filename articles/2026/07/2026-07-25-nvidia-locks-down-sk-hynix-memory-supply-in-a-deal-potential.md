@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-24-rising-server-prices-shift-leverage-from-nvidia-to-samsung-a
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10
 embedding_id: 2026-07-25-nvidia-locks-down-sk-hynix-memory-supply-in-a-deal-potential
@@ -36,5 +37,5 @@ Nvidia moved to secure high-bandwidth memory (HBM) supply from SK Hynix as part 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10]]
+**Related:** [[2026-08-24-rising-server-prices-shift-leverage-from-nvidia-to-samsung-a]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10]]
 <!-- graph:end -->

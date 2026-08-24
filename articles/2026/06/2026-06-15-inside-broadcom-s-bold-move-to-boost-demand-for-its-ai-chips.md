@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a
 - 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia
 - 2026-07-31-mediatek-approves-up-to-5b-to-build-custom-ai-data-center-ch
-- 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
 embedding_id: 2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Information reported on Broadcom's strategic moves to boost AI chip demand f
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia]] · [[2026-07-31-mediatek-approves-up-to-5b-to-build-custom-ai-data-center-ch]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]]
+**Related:** [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia]] · [[2026-07-31-mediatek-approves-up-to-5b-to-build-custom-ai-data-center-ch]]
 <!-- graph:end -->

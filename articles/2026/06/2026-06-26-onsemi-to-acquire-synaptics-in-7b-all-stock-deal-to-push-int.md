@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation
 - 2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10
 - 2026-07-08-sambanova-raises-1b-at-an-11b-valuation-and-is-named-a-jpmor
 - 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
 - 2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu
-- 2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after
 embedding_id: 2026-06-26-onsemi-to-acquire-synaptics-in-7b-all-stock-deal-to-push-int
 event_name: ''
 ---
@@ -37,5 +37,5 @@ onsemi agreed to buy Synaptics in a roughly $7 billion all-stock transaction, ad
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10]] · [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-and-is-named-a-jpmor]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]]
+**Related:** [[2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation]] · [[2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10]] · [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-and-is-named-a-jpmor]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]]
 <!-- graph:end -->

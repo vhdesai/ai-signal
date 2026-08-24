@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-khosla-and-a16z-back-mining-startup-to-support-ai-era-resour
 - 2026-07-18-index-ventures-co-founder-warns-ai-wealth-may-be-redistribut
+- 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
 - 2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents
 - 2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser
-- 2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent
 embedding_id: 2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Khosla Ventures led a $10M seed round in Synthetic AI, co-founded by Ian Crosby 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-03-khosla-and-a16z-back-mining-startup-to-support-ai-era-resour]] · [[2026-07-18-index-ventures-co-founder-warns-ai-wealth-may-be-redistribut]] · [[2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents]] · [[2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser]] · [[2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent]]
+**Related:** [[2026-08-03-khosla-and-a16z-back-mining-startup-to-support-ai-era-resour]] · [[2026-07-18-index-ventures-co-founder-warns-ai-wealth-may-be-redistribut]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]] · [[2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents]] · [[2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser]]
 <!-- graph:end -->

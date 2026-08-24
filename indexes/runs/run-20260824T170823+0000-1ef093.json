@@ -1,0 +1,15 @@
+{
+  "run_id": "20260824T170823+0000-1ef093",
+  "started_at": "2026-08-24T17:08:23+00:00",
+  "finished_at": "2026-08-24T17:15:17+00:00",
+  "summary": {
+    "command": "index",
+    "result": {
+      "articles_indexed": 6982,
+      "embeddings": {
+        "enabled": false,
+        "error": "[Errno 13] Permission denied: 'C:\\\\Users\\\\vdesai\\\\OneDrive - Microsoft\\\\Documents\\\\tvfr\\\\6-AIProj\\\\Newsletter\\\\ext-host\\\\articles\\\\2026\\\\08\\\\2026-08-04-coreweave-expands-ai-cloud-platform-to-indonesia.md'"
+      }
+    }
+  }
+}

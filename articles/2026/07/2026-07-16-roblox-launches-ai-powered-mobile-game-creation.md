@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-20-meta-launches-pocket-a-vibe-coding-app-for-creating-and-shar
+- 2026-08-21-meta-launches-ai-game-creation-app-pocket-across-the-us
+- 2026-08-20-meta-launches-pocket-vibe-coding-app-for-games-in-u-s-contin
 - 2026-07-19-current-ai-races-to-build-public-interest-ai-infrastructure
-- 2026-05-15-openai-announced-that-its-ai-powered-coding-assistant-codex
-- 2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software
-- 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
+- 2026-08-20-meta-launches-pocket-vibe-coding-app-for-creating-and-sharin
 embedding_id: 2026-07-16-roblox-launches-ai-powered-mobile-game-creation
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Roblox announced Build, a mobile feature that turns text prompts into basic game
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-19-current-ai-races-to-build-public-interest-ai-infrastructure]] · [[2026-05-15-openai-announced-that-its-ai-powered-coding-assistant-codex]] · [[2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]]
+**Related:** [[2026-08-20-meta-launches-pocket-a-vibe-coding-app-for-creating-and-shar]] · [[2026-08-21-meta-launches-ai-game-creation-app-pocket-across-the-us]] · [[2026-08-20-meta-launches-pocket-vibe-coding-app-for-games-in-u-s-contin]] · [[2026-07-19-current-ai-races-to-build-public-interest-ai-infrastructure]] · [[2026-08-20-meta-launches-pocket-vibe-coding-app-for-creating-and-sharin]]
 <!-- graph:end -->

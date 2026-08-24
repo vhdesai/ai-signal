@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-08-07-claude-code-adds-cross-session-messaging-so-parallel-agents
 - 2026-08-08-claude-code-adds-cross-session-messaging-between-agents
 - 2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code
+- 2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen
 - 2026-05-12-anthropic-ships-claude-code-agent-view-with-goal-loop-schedu
-- 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
 embedding_id: 2026-08-07-claude-code-adds-cross-session-messaging-for-parallel-agent
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Anthropic shipped cross-session messaging in Claude Code, letting separate codin
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-claude-code-adds-cross-session-messaging-so-parallel-agents]] · [[2026-08-08-claude-code-adds-cross-session-messaging-between-agents]] · [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code]] · [[2026-05-12-anthropic-ships-claude-code-agent-view-with-goal-loop-schedu]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]]
+**Related:** [[2026-08-07-claude-code-adds-cross-session-messaging-so-parallel-agents]] · [[2026-08-08-claude-code-adds-cross-session-messaging-between-agents]] · [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code]] · [[2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen]] · [[2026-05-12-anthropic-ships-claude-code-agent-view-with-goal-loop-schedu]]
 <!-- graph:end -->

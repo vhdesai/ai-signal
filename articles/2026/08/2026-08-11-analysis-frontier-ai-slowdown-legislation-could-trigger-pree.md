@@ -20,6 +20,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-sam-altman-s-suggestion-that-the-industry-should-slow-the-pa
+- 2026-08-21-openai-slows-frontier-training-and-adds-safeguards-after-hug
 - 2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit
 - 2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le
 embedding_id: 2026-08-11-analysis-frontier-ai-slowdown-legislation-could-trigger-pree
@@ -34,5 +35,5 @@ A Forbes AI Insider analysis argues that legislation mandating a slowdown in fro
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-sam-altman-s-suggestion-that-the-industry-should-slow-the-pa]] · [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit]] · [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le]]
+**Related:** [[2026-08-03-sam-altman-s-suggestion-that-the-industry-should-slow-the-pa]] · [[2026-08-21-openai-slows-frontier-training-and-adds-safeguards-after-hug]] · [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit]] · [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le]]
 <!-- graph:end -->

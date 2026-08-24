@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
 - 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-- 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
+- 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
 embedding_id: 2026-07-13-skyfall-ai-releases-morpheus-a-persistent-enterprise-simulat
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MORPHEUS runs “worlds that never reset,” introducing structured non-stationa
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]]
+**Related:** [[2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]]
 <!-- graph:end -->

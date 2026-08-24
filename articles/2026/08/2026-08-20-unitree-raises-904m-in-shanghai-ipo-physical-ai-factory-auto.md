@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-23-unitree-s-460-ipo-stock-pop-in-shanghai
+- 2026-08-23-unitree-s-460-ipo-stock-pop-in-shanghai-wasn-t-unusual-in-ch
+- 2026-08-23-unitree-s-460-ipo-stock-pop-reflects-china-s-ai-robotics-fre
 - 2026-08-12-unitree-s-shanghai-robotics-ipo-draws-8-000x-retail-oversubs
-- 2026-07-05-agility-robotics-is-going-public-via-spac
-- 2026-06-15-neura-robotics-plans-to-raise-1-2b-for-humanoid-robot-produc
-- 2026-08-14-applied-materials-record-9-12b-quarter-uber-pony-ai-2-000-eu
-- 2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s
+- 2026-08-23-unitree-s-460-ipo-pop-reflects-china-s-ai-robotics-frenzy
 embedding_id: 2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Backflipping robot maker Unitree raised $904 million in its Shanghai IPO, but Pi
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-12-unitree-s-shanghai-robotics-ipo-draws-8-000x-retail-oversubs]] · [[2026-07-05-agility-robotics-is-going-public-via-spac]] · [[2026-06-15-neura-robotics-plans-to-raise-1-2b-for-humanoid-robot-produc]] · [[2026-08-14-applied-materials-record-9-12b-quarter-uber-pony-ai-2-000-eu]] · [[2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s]]
+**Related:** [[2026-08-23-unitree-s-460-ipo-stock-pop-in-shanghai]] · [[2026-08-23-unitree-s-460-ipo-stock-pop-in-shanghai-wasn-t-unusual-in-ch]] · [[2026-08-23-unitree-s-460-ipo-stock-pop-reflects-china-s-ai-robotics-fre]] · [[2026-08-12-unitree-s-shanghai-robotics-ipo-draws-8-000x-retail-oversubs]] · [[2026-08-23-unitree-s-460-ipo-pop-reflects-china-s-ai-robotics-frenzy]]
 <!-- graph:end -->

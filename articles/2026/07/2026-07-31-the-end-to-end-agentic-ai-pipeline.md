@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-24-machine-learning-mastery-publishes-guidance-on-integrating-a
 - 2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri
+- 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
 - 2026-07-11-choosing-the-right-ai-agent-memory-strategy-a-decision-tree
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
-- 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
-- 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
 embedding_id: 2026-07-31-the-end-to-end-agentic-ai-pipeline
 event_name: ''
 ---
@@ -37,5 +37,5 @@ This engineering guide lays out the seven architectural components that separate
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[2026-07-11-choosing-the-right-ai-agent-memory-strategy-a-decision-tree]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]]
+**Related:** [[2026-08-24-machine-learning-mastery-publishes-guidance-on-integrating-a]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]] · [[2026-07-11-choosing-the-right-ai-agent-memory-strategy-a-decision-tree]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]]
 <!-- graph:end -->

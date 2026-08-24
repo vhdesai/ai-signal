@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-06-cursor-open-sources-mixture-of-kittens-an-moe-training-megak
 - 2026-07-22-cursor-releases-cursor-router-a-request-level-classifier-for
 - 2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp
+- 2026-08-23-freetoken-an-edge-native-moe-serving-engine-running-a-753b-m
 - 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
-- 2026-05-19-cursor-launches-composer-2-5-and-discloses-spacexai-co-train
 embedding_id: 2026-08-04-cursor-open-sources-mixture-of-kittens-a-deterministic-moe-t
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Cursor released MoK, a deterministic mixture-of-experts training megakernel targ
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-06-cursor-open-sources-mixture-of-kittens-an-moe-training-megak]] · [[2026-07-22-cursor-releases-cursor-router-a-request-level-classifier-for]] · [[2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-05-19-cursor-launches-composer-2-5-and-discloses-spacexai-co-train]]
+**Related:** [[2026-08-06-cursor-open-sources-mixture-of-kittens-an-moe-training-megak]] · [[2026-07-22-cursor-releases-cursor-router-a-request-level-classifier-for]] · [[2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp]] · [[2026-08-23-freetoken-an-edge-native-moe-serving-engine-running-a-753b-m]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]]
 <!-- graph:end -->

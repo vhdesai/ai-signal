@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents
+- 2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen
 - 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
-- 2026-07-26-anthropic-discloses-a-claude-cowork-sandbox-escape-flaw-on-m
 embedding_id: 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
 event_name: ''
 ---
@@ -38,5 +38,5 @@ VentureBeat reported on May 19 that Anthropic has architected a self-hosted sand
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]] · [[2026-07-26-anthropic-discloses-a-claude-cowork-sandbox-escape-flaw-on-m]]
+**Related:** [[2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents]] · [[2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]]
 <!-- graph:end -->

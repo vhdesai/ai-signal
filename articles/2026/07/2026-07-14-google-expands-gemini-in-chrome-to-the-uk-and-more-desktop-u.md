@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i
 - 2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan
 - 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
 - 2026-07-30-google-expands-gemini-spark-globally-adds-chrome-auto-browse
 - 2026-07-30-google-connects-gemini-spark-to-chrome-for-autonomous-web-er
-- 2026-05-03-newgoogle-quietly-rolls-out-gemini-2-0-ios-redesign
 embedding_id: 2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google rolled Gemini-in-Chrome out to UK users and broadened availability across
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]] · [[2026-07-30-google-expands-gemini-spark-globally-adds-chrome-auto-browse]] · [[2026-07-30-google-connects-gemini-spark-to-chrome-for-autonomous-web-er]] · [[2026-05-03-newgoogle-quietly-rolls-out-gemini-2-0-ios-redesign]]
+**Related:** [[2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i]] · [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]] · [[2026-07-30-google-expands-gemini-spark-globally-adds-chrome-auto-browse]] · [[2026-07-30-google-connects-gemini-spark-to-chrome-for-autonomous-web-er]]
 <!-- graph:end -->

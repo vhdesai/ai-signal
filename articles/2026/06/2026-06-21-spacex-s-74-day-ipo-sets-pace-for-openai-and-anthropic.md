@@ -22,6 +22,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-23-anthropic-signals-an-ipo-that-could-beat-spacex-s-86-billion
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 - 2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and
 - 2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave
@@ -38,5 +39,5 @@ SpaceX went from confidential filing to listing in just 74 days, far faster than
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and]] · [[2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave]]
+**Related:** [[2026-08-23-anthropic-signals-an-ipo-that-could-beat-spacex-s-86-billion]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and]] · [[2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave]]
 <!-- graph:end -->

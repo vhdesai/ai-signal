@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-20-apple-music-will-label-songs-materially-generated-using-ai
+- 2026-08-21-apple-music-will-label-ai-generated-songs-with-disclosure-ta
+- 2026-08-20-apple-music-to-apply-visible-made-with-ai-labels-to-generate
 - 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
-- 2026-08-06-suno-says-it-will-watermark-ai-generated-songs-amid-legal-pr
-- 2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal
-- 2026-08-06-suno-says-it-will-start-watermarking-ai-generated-songs
-- 2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos
+- 2026-08-21-apple-music-makes-ai-transparency-tags-mandatory
 embedding_id: 2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A coalition representing music labels and artists is pushing streaming platforms
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]] · [[2026-08-06-suno-says-it-will-watermark-ai-generated-songs-amid-legal-pr]] · [[2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal]] · [[2026-08-06-suno-says-it-will-start-watermarking-ai-generated-songs]] · [[2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos]]
+**Related:** [[2026-08-20-apple-music-will-label-songs-materially-generated-using-ai]] · [[2026-08-21-apple-music-will-label-ai-generated-songs-with-disclosure-ta]] · [[2026-08-20-apple-music-to-apply-visible-made-with-ai-labels-to-generate]] · [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]] · [[2026-08-21-apple-music-makes-ai-transparency-tags-mandatory]]
 <!-- graph:end -->

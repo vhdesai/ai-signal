@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-04-google-released-gemma-4-in-four-sizes-e2b-e4b-26b-moe-and-31
+- 2026-08-20-google-s-gemma-open-models-pass-one-billion-cumulative-downl
 - 2026-04-06-google-released-gemma-4-today-under-the-apache-2-0-open-lice
 - 2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current
-- 2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6
-- 2026-04-10-analysis-of-march-april-2026-benchmark-results-shows-open-we
+- 2026-08-20-google-s-gemma-open-models-pass-1-billion-downloads
 embedding_id: 2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google DeepMind released Gemma 4 — a family of four open-weight models (E2B, E
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-04-google-released-gemma-4-in-four-sizes-e2b-e4b-26b-moe-and-31]] · [[2026-04-06-google-released-gemma-4-today-under-the-apache-2-0-open-lice]] · [[2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current]] · [[2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6]] · [[2026-04-10-analysis-of-march-april-2026-benchmark-results-shows-open-we]]
+**Related:** [[2026-04-04-google-released-gemma-4-in-four-sizes-e2b-e4b-26b-moe-and-31]] · [[2026-08-20-google-s-gemma-open-models-pass-one-billion-cumulative-downl]] · [[2026-04-06-google-released-gemma-4-today-under-the-apache-2-0-open-lice]] · [[2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current]] · [[2026-08-20-google-s-gemma-open-models-pass-1-billion-downloads]]
 <!-- graph:end -->

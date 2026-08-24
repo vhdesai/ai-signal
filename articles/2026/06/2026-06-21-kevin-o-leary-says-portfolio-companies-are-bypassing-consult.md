@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-21-private-equity-deploys-army-of-ai-wonks-to-embed-in-portfoli
 - 2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur
 - 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
 - 2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep
 - 2026-05-20-top-vcs-are-using-ai-to-scout-map-markets-and-prep-decisions
-- 2026-08-09-ai-push-is-putting-banks-at-the-mercy-of-tech-firms-warns-mo
 embedding_id: 2026-06-21-kevin-o-leary-says-portfolio-companies-are-bypassing-consult
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Business Insider reported comments from investor Kevin O'Leary that companies he
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur]] · [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor]] · [[2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep]] · [[2026-05-20-top-vcs-are-using-ai-to-scout-map-markets-and-prep-decisions]] · [[2026-08-09-ai-push-is-putting-banks-at-the-mercy-of-tech-firms-warns-mo]]
+**Related:** [[2026-08-21-private-equity-deploys-army-of-ai-wonks-to-embed-in-portfoli]] · [[2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur]] · [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor]] · [[2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep]] · [[2026-05-20-top-vcs-are-using-ai-to-scout-map-markets-and-prep-decisions]]
 <!-- graph:end -->

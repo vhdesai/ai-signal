@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-robinhood-opens-stock-trading-to-ai-agents-and-launches-an-a
 - 2026-05-27-robinhood-now-lets-your-ai-agents-trade-stocks
+- 2026-08-20-binance-launches-agent-os-letting-ai-agents-trade-crypto-via
+- 2026-08-20-binance-launches-agent-os-ai-agents-can-now-trade-crypto-via
 - 2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen
-- 2026-05-26-ing-s-vibe-coding-ai-builds-new-trading-systems-with-claude
-- 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
 embedding_id: 2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Robinhood unveiled an AI trading agent that can act on user-defined goals and a 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-27-robinhood-opens-stock-trading-to-ai-agents-and-launches-an-a]] · [[2026-05-27-robinhood-now-lets-your-ai-agents-trade-stocks]] · [[2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen]] · [[2026-05-26-ing-s-vibe-coding-ai-builds-new-trading-systems-with-claude]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]]
+**Related:** [[2026-05-27-robinhood-opens-stock-trading-to-ai-agents-and-launches-an-a]] · [[2026-05-27-robinhood-now-lets-your-ai-agents-trade-stocks]] · [[2026-08-20-binance-launches-agent-os-letting-ai-agents-trade-crypto-via]] · [[2026-08-20-binance-launches-agent-os-ai-agents-can-now-trade-crypto-via]] · [[2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen]]
 <!-- graph:end -->

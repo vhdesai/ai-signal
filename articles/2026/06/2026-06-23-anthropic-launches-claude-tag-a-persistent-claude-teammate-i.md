@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen
 - 2026-06-23-anthropic-launches-claude-tag-embedding-claude-as-a-teammate
 - 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
 - 2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code
 - 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
-- 2026-05-06-
 embedding_id: 2026-06-23-anthropic-launches-claude-tag-a-persistent-claude-teammate-i
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic launched Claude Tag, replacing its existing Claude-in-Slack app with a
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-23-anthropic-launches-claude-tag-embedding-claude-as-a-teammate]] · [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]] · [[2026-05-06-]]
+**Related:** [[2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen]] · [[2026-06-23-anthropic-launches-claude-tag-embedding-claude-as-a-teammate]] · [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]]
 <!-- graph:end -->

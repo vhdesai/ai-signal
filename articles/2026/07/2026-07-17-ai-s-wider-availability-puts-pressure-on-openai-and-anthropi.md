@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-17-ai-commoditization-pressures-proprietary-model-economics
 - 2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro
+- 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
-- 2026-08-03-chinese-open-models-are-reshaping-the-competitive-math-for-a
 embedding_id: 2026-07-17-ai-s-wider-availability-puts-pressure-on-openai-and-anthropi
 event_name: ''
 ---
@@ -42,5 +42,5 @@ WSJ reports that AI's broader availability is good for China but creates new pre
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-17-ai-commoditization-pressures-proprietary-model-economics]] · [[2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-08-03-chinese-open-models-are-reshaping-the-competitive-math-for-a]]
+**Related:** [[2026-07-17-ai-commoditization-pressures-proprietary-model-economics]] · [[2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]]
 <!-- graph:end -->

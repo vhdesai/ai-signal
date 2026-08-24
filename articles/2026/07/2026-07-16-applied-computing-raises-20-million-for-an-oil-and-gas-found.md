@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-21-starcloud-raises-250-million-for-orbital-ai-data-centers
 - 2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole
 - 2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud
+- 2026-08-21-starcloud-adds-250-million-for-orbital-ai-data-centers
 - 2026-08-14-hyperscaler-natural-gas-bets-may-create-new-ai-data-center-c
-- 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
-- 2026-05-27-orbital-industries-raises-50m-series-b-for-ai-discovered-exo
 embedding_id: 2026-07-16-applied-computing-raises-20-million-for-an-oil-and-gas-found
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Applied Computing raised a $20 million Series A led by KBR, with Databricks Vent
 
 **Entities:** [[Databricks]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole]] · [[2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud]] · [[2026-08-14-hyperscaler-natural-gas-bets-may-create-new-ai-data-center-c]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-05-27-orbital-industries-raises-50m-series-b-for-ai-discovered-exo]]
+**Related:** [[2026-08-21-starcloud-raises-250-million-for-orbital-ai-data-centers]] · [[2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole]] · [[2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud]] · [[2026-08-21-starcloud-adds-250-million-for-orbital-ai-data-centers]] · [[2026-08-14-hyperscaler-natural-gas-bets-may-create-new-ai-data-center-c]]
 <!-- graph:end -->

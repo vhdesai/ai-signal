@@ -25,7 +25,8 @@ related_article_ids:
 - 2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work
 - 2026-05-24-uc-berkeley-law-tightens-ai-rules-without-banning-the-techno
 - 2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog
-- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
+- 2026-08-23-university-of-chicago-s-social-sciences-core-bans-ai-and-goe
+- 2026-08-23-legal-analysis-is-it-legal-to-train-ai-on-copyrighted-books
 embedding_id: 2026-05-23-uc-berkeley-school-of-law-announced-it-will-prohibit-ai-use
 event_name: ''
 ---
@@ -39,5 +40,5 @@ UC Berkeley School of Law announced it will prohibit AI use in almost all graded
 
 **Entities:** [[Perplexity]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work]] · [[2026-05-24-uc-berkeley-law-tightens-ai-rules-without-banning-the-techno]] · [[2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
+**Related:** [[2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work]] · [[2026-05-24-uc-berkeley-law-tightens-ai-rules-without-banning-the-techno]] · [[2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog]] · [[2026-08-23-university-of-chicago-s-social-sciences-core-bans-ai-and-goe]] · [[2026-08-23-legal-analysis-is-it-legal-to-train-ai-on-copyrighted-books]]
 <!-- graph:end -->

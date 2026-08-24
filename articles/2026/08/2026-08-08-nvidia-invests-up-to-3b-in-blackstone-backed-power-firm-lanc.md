@@ -24,10 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-21-nvidia-in-talks-to-invest-in-data-center-power-developer-clo
 - 2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai
 - 2026-08-15-nvidia-in-talks-to-invest-up-to-3b-in-softbank-backed-sb-ene
+- 2026-08-21-nvidia-invests-hundreds-of-millions-in-data-center-power-dev
 - 2026-08-15-nvidia-weighs-3b-stake-in-sb-energy-while-restructuring-its
-- 2026-08-15-nvidia-in-talks-to-put-up-to-3b-into-softbank-backed-sb-ener
 embedding_id: 2026-08-08-nvidia-invests-up-to-3b-in-blackstone-backed-power-firm-lanc
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Nvidia agreed to invest $2 billion in Lancium, the power infrastructure develope
 
 **Entities:** [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai]] · [[2026-08-15-nvidia-in-talks-to-invest-up-to-3b-in-softbank-backed-sb-ene]] · [[2026-08-15-nvidia-weighs-3b-stake-in-sb-energy-while-restructuring-its]] · [[2026-08-15-nvidia-in-talks-to-put-up-to-3b-into-softbank-backed-sb-ener]]
+**Related:** [[2026-08-21-nvidia-in-talks-to-invest-in-data-center-power-developer-clo]] · [[2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai]] · [[2026-08-15-nvidia-in-talks-to-invest-up-to-3b-in-softbank-backed-sb-ene]] · [[2026-08-21-nvidia-invests-hundreds-of-millions-in-data-center-power-dev]] · [[2026-08-15-nvidia-weighs-3b-stake-in-sb-energy-while-restructuring-its]]
 <!-- graph:end -->
