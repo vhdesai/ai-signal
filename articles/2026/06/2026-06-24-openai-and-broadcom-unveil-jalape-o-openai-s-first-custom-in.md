@@ -25,9 +25,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw
 - 2026-06-25-openai-unveils-its-first-custom-chip-jalape-o-with-broadcom
+- 2026-08-25-openai-publishes-first-jalape-o-chip-benchmarks-claims-effic
+- 2026-08-25-openai-publishes-first-jalape-o-benchmarks-claiming-efficien
+- 2026-08-25-openai-s-jalape-o-chip-is-built-for-fast-inference-at-scale
 - 2026-06-24-openai-and-broadcom-unveil-jalape-o-their-first-custom-ai-in
-- 2026-07-07-reuters-deepseek-developing-its-own-inference-chip-to-cut-nv
-- 2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere
 embedding_id: 2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in
 event_name: ''
 ---
@@ -41,5 +42,5 @@ OpenAI and Broadcom unveiled “Jalapeño,” a custom AI accelerator purpose-bu
 
 **Entities:** [[AMD]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw]] · [[2026-06-25-openai-unveils-its-first-custom-chip-jalape-o-with-broadcom]] · [[2026-06-24-openai-and-broadcom-unveil-jalape-o-their-first-custom-ai-in]] · [[2026-07-07-reuters-deepseek-developing-its-own-inference-chip-to-cut-nv]] · [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere]]
+**Related:** [[2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw]] · [[2026-06-25-openai-unveils-its-first-custom-chip-jalape-o-with-broadcom]] · [[2026-08-25-openai-publishes-first-jalape-o-chip-benchmarks-claims-effic]] · [[2026-08-25-openai-publishes-first-jalape-o-benchmarks-claiming-efficien]] · [[2026-08-25-openai-s-jalape-o-chip-is-built-for-fast-inference-at-scale]] · [[2026-06-24-openai-and-broadcom-unveil-jalape-o-their-first-custom-ai-in]]
 <!-- graph:end -->

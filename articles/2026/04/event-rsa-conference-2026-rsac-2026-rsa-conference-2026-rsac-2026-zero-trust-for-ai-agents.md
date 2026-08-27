@@ -26,8 +26,8 @@ related_article_ids:
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-ai-as-opportunity-and
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications
-- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-frontier-model-security
 - 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
+- 2026-08-04-microsoft-expands-zero-trust-for-ai-with-new-assessment-and
 embedding_id: event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents
 event_name: RSA Conference 2026 / RSAC 2026
 ---
@@ -41,5 +41,5 @@ RSAC sessions from Microsoft, Cisco, CrowdStrike, Splunk, Anthropic, NVIDIA, and
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-ai-as-opportunity-and]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-frontier-model-security]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]]
+**Related:** [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-ai-as-opportunity-and]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-08-04-microsoft-expands-zero-trust-for-ai-with-new-assessment-and]]
 <!-- graph:end -->

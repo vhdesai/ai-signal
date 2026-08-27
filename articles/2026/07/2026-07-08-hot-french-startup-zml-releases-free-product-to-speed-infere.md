@@ -26,6 +26,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in
+- 2026-08-25-openai-s-jalape-o-chip-posts-inference-benchmarks-beating-nv
 - 2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw
 - 2026-08-14-kog-aims-to-squeeze-more-inference-throughput-from-conventio
 - 2026-05-11-
@@ -42,5 +43,5 @@ ZML released a free LLM inference server designed to run across Nvidia, AMD, Goo
 
 **Entities:** [[AMD]] · [[Apple]] · [[Google]] · [[Intel]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in]] · [[2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw]] · [[2026-08-14-kog-aims-to-squeeze-more-inference-throughput-from-conventio]] · [[2026-05-11-]]
+**Related:** [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in]] · [[2026-08-25-openai-s-jalape-o-chip-posts-inference-benchmarks-beating-nv]] · [[2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw]] · [[2026-08-14-kog-aims-to-squeeze-more-inference-throughput-from-conventio]] · [[2026-05-11-]]
 <!-- graph:end -->

@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-to-108b-as-ai-cape
 - 2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi
-- 2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q
-- 2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r
-- 2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re
-- 2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say
+- 2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt
+- 2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-to-108b-shares-sli
+- 2026-08-26-nvidia-posts-record-96-2b-quarter-and-forecasts-70-revenue-g
 embedding_id: 2026-05-24-nvidia-posts-81-6b-quarterly-revenue-burry-sharpens-cisco-cr
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia reported $81.6B in quarterly revenue (up 85% YoY), with the data center s
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi]] · [[2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q]] · [[2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r]] · [[2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re]] · [[2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say]]
+**Related:** [[2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-to-108b-as-ai-cape]] · [[2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi]] · [[2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt]] · [[2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-to-108b-shares-sli]] · [[2026-08-26-nvidia-posts-record-96-2b-quarter-and-forecasts-70-revenue-g]]
 <!-- graph:end -->

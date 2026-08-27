@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-24-nvidia-pays-6-billion-to-license-poolside-s-ai-model-factory
 - 2026-08-21-nvidia-to-pay-poolside-6-billion-for-a-non-exclusive-license
 - 2026-08-21-nvidia-to-pay-poolside-6b-for-a-non-exclusive-license-and-hi
 - 2026-08-21-nvidia-to-pay-poolside-6-billion-for-non-exclusive-license-a
-- 2026-08-21-nvidia-to-pay-poolside-6b-in-licensing-and-tap-the-startup-s
-- 2026-08-24-nvidia-discusses-perplexity-investment-at-30-billion-plus-va
+- 2026-08-24-nvidia-pays-6-billion-to-license-poolside-s-ai-model-softwar
 embedding_id: 2026-08-21-nvidia-strikes-a-7b-license-and-hire-deal-with-poolside
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia will reportedly pay $6B for a non-exclusive license to Poolside’s “Mo
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-21-nvidia-to-pay-poolside-6-billion-for-a-non-exclusive-license]] · [[2026-08-21-nvidia-to-pay-poolside-6b-for-a-non-exclusive-license-and-hi]] · [[2026-08-21-nvidia-to-pay-poolside-6-billion-for-non-exclusive-license-a]] · [[2026-08-21-nvidia-to-pay-poolside-6b-in-licensing-and-tap-the-startup-s]] · [[2026-08-24-nvidia-discusses-perplexity-investment-at-30-billion-plus-va]]
+**Related:** [[2026-08-24-nvidia-pays-6-billion-to-license-poolside-s-ai-model-factory]] · [[2026-08-21-nvidia-to-pay-poolside-6-billion-for-a-non-exclusive-license]] · [[2026-08-21-nvidia-to-pay-poolside-6b-for-a-non-exclusive-license-and-hi]] · [[2026-08-21-nvidia-to-pay-poolside-6-billion-for-non-exclusive-license-a]] · [[2026-08-24-nvidia-pays-6-billion-to-license-poolside-s-ai-model-softwar]]
 <!-- graph:end -->

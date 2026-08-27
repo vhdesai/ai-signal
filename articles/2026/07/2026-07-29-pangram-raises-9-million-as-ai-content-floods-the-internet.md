@@ -19,9 +19,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme
 - 2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-dictati
 - 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
+- 2026-08-25-stability-ai-maker-of-stable-diffusion-raises-76-million-in
 - 2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc
 embedding_id: 2026-07-29-pangram-raises-9-million-as-ai-content-floods-the-internet
 event_name: ''
@@ -35,5 +35,5 @@ Pangram raised $9 million and launched Pangram 4, a new AI text-detection model,
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme]] · [[2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-dictati]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc]]
+**Related:** [[2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-dictati]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-08-25-stability-ai-maker-of-stable-diffusion-raises-76-million-in]] · [[2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc]]
 <!-- graph:end -->

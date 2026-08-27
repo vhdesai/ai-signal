@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-23-techcrunch-deep-dive-who-s-behind-the-stealth-model-ox-alpha
 - 2026-08-23-who-s-behind-the-stealth-model-ox-alpha-mystery-deepens
 - 2026-08-23-who-is-behind-ox-alpha-a-stealth-frontier-model-has-the-indu
-- 2026-08-23-anonymous-ox-alpha-model-on-openrouter-draws-scrutiny-over-p
+- 2026-08-26-china-s-z-ai-confirmed-as-builder-of-free-ox-alpha-stealth-m
 embedding_id: 2026-08-22-mysterious-free-ai-model-ox-alpha-appears-on-openrouter-nobo
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A stealth reasoning model called Ox Alpha appeared on OpenRouter — free, with 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-23-who-s-behind-the-new-stealth-model-ox-alpha]] · [[2026-08-23-techcrunch-deep-dive-who-s-behind-the-stealth-model-ox-alpha]] · [[2026-08-23-who-s-behind-the-stealth-model-ox-alpha-mystery-deepens]] · [[2026-08-23-who-is-behind-ox-alpha-a-stealth-frontier-model-has-the-indu]] · [[2026-08-23-anonymous-ox-alpha-model-on-openrouter-draws-scrutiny-over-p]]
+**Related:** [[2026-08-23-who-s-behind-the-new-stealth-model-ox-alpha]] · [[2026-08-23-techcrunch-deep-dive-who-s-behind-the-stealth-model-ox-alpha]] · [[2026-08-23-who-s-behind-the-stealth-model-ox-alpha-mystery-deepens]] · [[2026-08-23-who-is-behind-ox-alpha-a-stealth-frontier-model-has-the-indu]] · [[2026-08-26-china-s-z-ai-confirmed-as-builder-of-free-ox-alpha-stealth-m]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-24-claude-hit-by-another-multi-model-outage-disrupting-develope
 - 2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl
+- 2026-08-24-anthropic-s-claude-suffers-another-outagetrending
 - 2026-08-05-global-anthropic-outage-disrupts-claude-chat-api-and-claude
 - 2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude
-- 2026-06-06-anthropic-suffers-multi-model-claude-outage
-- 2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an
 embedding_id: 2026-06-22-claude-suffers-90-minute-multi-model-global-outage-third-thi
 event_name: ''
 ---
@@ -37,5 +37,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl]] · [[2026-08-05-global-anthropic-outage-disrupts-claude-chat-api-and-claude]] · [[2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an]]
+**Related:** [[2026-08-24-claude-hit-by-another-multi-model-outage-disrupting-develope]] · [[2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl]] · [[2026-08-24-anthropic-s-claude-suffers-another-outagetrending]] · [[2026-08-05-global-anthropic-outage-disrupts-claude-chat-api-and-claude]] · [[2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin
 - 2026-05-12-mira-murati-s-thinking-machines-previews-real-time-ai-intera
 - 2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by
-- 2026-08-13-openai-replaces-cro-after-nine-months-hires-wiz-coo-dali-raj
-- 2026-08-14-openai-cro-dresser-departs-after-8-months-replaced-by-former
+- 2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent
+- 2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-p
 embedding_id: 2026-06-04-mira-murati-steps-back-into-the-spotlight
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Former OpenAI CTO Mira Murati made her first significant public appearances sinc
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin]] · [[2026-05-12-mira-murati-s-thinking-machines-previews-real-time-ai-intera]] · [[2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by]] · [[2026-08-13-openai-replaces-cro-after-nine-months-hires-wiz-coo-dali-raj]] · [[2026-08-14-openai-cro-dresser-departs-after-8-months-replaced-by-former]]
+**Related:** [[2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin]] · [[2026-05-12-mira-murati-s-thinking-machines-previews-real-time-ai-intera]] · [[2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by]] · [[2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent]] · [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-p]]
 <!-- graph:end -->

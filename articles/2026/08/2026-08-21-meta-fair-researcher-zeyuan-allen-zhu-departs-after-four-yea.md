@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-24-former-openai-researcher-luke-metz-joins-meta-s-superintelli
 - 2026-05-20-meta-cuts-8-000-jobs-starting-may-20-to-fund-115-135b-ai-cap
 - 2026-08-24-luke-metz-leaves-openai-for-meta-superintelligence-labs
 - 2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ
-- 2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y
 embedding_id: 2026-08-21-meta-fair-researcher-zeyuan-allen-zhu-departs-after-four-yea
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The prominent FAIR researcher announced his resignation, crediting the lab’s l
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-meta-cuts-8-000-jobs-starting-may-20-to-fund-115-135b-ai-cap]] · [[2026-08-24-luke-metz-leaves-openai-for-meta-superintelligence-labs]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]]
+**Related:** [[2026-08-24-former-openai-researcher-luke-metz-joins-meta-s-superintelli]] · [[2026-05-20-meta-cuts-8-000-jobs-starting-may-20-to-fund-115-135b-ai-cap]] · [[2026-08-24-luke-metz-leaves-openai-for-meta-superintelligence-labs]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]]
 <!-- graph:end -->

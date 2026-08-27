@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-post-money-valuati
 - 2026-06-11-jeff-bezos-s-prometheus-raises-12b-largest-ai-startup-round
 - 2026-08-13-databricks-hits-7b-arr-reveals-5b-round-details-after-15b-of
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
-- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 embedding_id: 2026-07-22-travis-kalanick-s-atoms-raises-1-7-billion-for-industrial-ro
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch reports that Travis Kalanick's robotics company Atoms raised $1.7 bil
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-11-jeff-bezos-s-prometheus-raises-12b-largest-ai-startup-round]] · [[2026-08-13-databricks-hits-7b-arr-reveals-5b-round-details-after-15b-of]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
+**Related:** [[2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-post-money-valuati]] · [[2026-06-11-jeff-bezos-s-prometheus-raises-12b-largest-ai-startup-round]] · [[2026-08-13-databricks-hits-7b-arr-reveals-5b-round-details-after-15b-of]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]]
 <!-- graph:end -->

@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Scale AI
-member_count: 36
+member_count: 37
 ---
 
 # Scale AI
 
-> Auto-generated entity hub. 36 connected article(s).
+> Auto-generated entity hub. 37 connected article(s).
 
+- `2026-08-24` [[2026-08-24-lancium-partners-with-nvidia-on-gigawatt-scale-ai-factories|Lancium Partners With Nvidia on Gigawatt-Scale AI Factories Across a 15+ GW Portfolio]]
 - `2026-08-16` [[2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru|Open-weight AI is unlikely to reduce demand for AI infrastructure suppliers]]
 - `2026-08-11` [[2026-08-11-ibm-and-together-ai-sign-240m-multi-year-nvidia-powered-infe|IBM and Together AI Sign $240M Multi-Year Nvidia-Powered Inference Deal]]
 - `2026-08-06` [[2026-08-06-omilia-raises-67-million-to-scale-ai-customer-support-automa|Omilia raises $67 million to scale AI customer-support automation]]

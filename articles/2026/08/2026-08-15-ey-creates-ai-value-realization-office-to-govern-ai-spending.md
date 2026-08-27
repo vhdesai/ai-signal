@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans
 - 2026-08-06-ibm-launches-apptio-ai-value-roi-to-connect-ai-spend-to-busi
 - 2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t
-- 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
+- 2026-08-26-microsoft-employees-reveal-how-much-cash-they-re-burning-on
 embedding_id: 2026-08-15-ey-creates-ai-value-realization-office-to-govern-ai-spending
 event_name: ''
 ---
@@ -37,5 +37,5 @@ EY is setting up a dedicated "AI Value Realization Office" to centralize AI spen
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative]] · [[2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans]] · [[2026-08-06-ibm-launches-apptio-ai-value-roi-to-connect-ai-spend-to-busi]] · [[2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]]
+**Related:** [[2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative]] · [[2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans]] · [[2026-08-06-ibm-launches-apptio-ai-value-roi-to-connect-ai-spend-to-busi]] · [[2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t]] · [[2026-08-26-microsoft-employees-reveal-how-much-cash-they-re-burning-on]]
 <!-- graph:end -->

@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
+- 2026-08-25-bain-joins-anthropic-s-claude-partner-network-at-top-tier
 - 2026-05-18-anthropic-launched-claude-for-small-business-a-toggle-inside
 - 2026-05-19-kpmg-integrates-claude-across-its-core-business-and-276-000
-- 2026-06-03-anthropic-scales-enterprise-consulting-ecosystem-with-servic
 embedding_id: 2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Anthropic launched a Claude for Small Business tier and materially expanded its 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Related:** [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-18-anthropic-launched-claude-for-small-business-a-toggle-inside]] · [[2026-05-19-kpmg-integrates-claude-across-its-core-business-and-276-000]] · [[2026-06-03-anthropic-scales-enterprise-consulting-ecosystem-with-servic]]
+**Related:** [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-08-25-bain-joins-anthropic-s-claude-partner-network-at-top-tier]] · [[2026-05-18-anthropic-launched-claude-for-small-business-a-toggle-inside]] · [[2026-05-19-kpmg-integrates-claude-across-its-core-business-and-276-000]]
 <!-- graph:end -->

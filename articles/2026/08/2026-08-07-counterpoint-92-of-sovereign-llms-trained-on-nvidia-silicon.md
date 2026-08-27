@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla
 - 2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo
 - 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
 - 2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch
 - 2026-08-14-kog-aims-to-squeeze-more-inference-throughput-from-conventio
-- 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
 embedding_id: 2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Counterpoint Research found that 92% of roughly 170 sovereign large language mod
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch]] · [[2026-08-14-kog-aims-to-squeeze-more-inference-throughput-from-conventio]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]]
+**Related:** [[2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch]] · [[2026-08-14-kog-aims-to-squeeze-more-inference-throughput-from-conventio]]
 <!-- graph:end -->

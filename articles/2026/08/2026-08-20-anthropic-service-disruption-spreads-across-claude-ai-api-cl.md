@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-20-anthropic-incident-spreads-across-claude-ai-api-claude-code
+- 2026-08-24-claude-hit-by-another-multi-model-outage-disrupting-develope
 - 2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude
 - 2026-08-08-claude-code-adds-cross-session-messaging-between-agents
-- 2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an
 embedding_id: 2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Elevated error rates hit requests across a broad set of Claude models simultaneo
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-20-anthropic-incident-spreads-across-claude-ai-api-claude-code]] · [[2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude]] · [[2026-08-08-claude-code-adds-cross-session-messaging-between-agents]] · [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an]]
+**Related:** [[2026-08-20-anthropic-incident-spreads-across-claude-ai-api-claude-code]] · [[2026-08-24-claude-hit-by-another-multi-model-outage-disrupting-develope]] · [[2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude]] · [[2026-08-08-claude-code-adds-cross-session-messaging-between-agents]]
 <!-- graph:end -->

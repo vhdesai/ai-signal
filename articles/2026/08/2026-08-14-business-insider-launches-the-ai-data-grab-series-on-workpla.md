@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-15-defunct-startups-slack-archives-are-becoming-agent-training
 - 2026-08-01-ibm-earnings-read-as-a-gauge-of-ai-infrastructure-demand
 - 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
-- 2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a
+- 2026-08-26-microsoft-employees-reveal-how-much-cash-they-re-burning-on
 embedding_id: 2026-08-14-business-insider-launches-the-ai-data-grab-series-on-workpla
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Business Insider is launching a new investigative series called "The AI Data Gra
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-08-15-defunct-startups-slack-archives-are-becoming-agent-training]] · [[2026-08-01-ibm-earnings-read-as-a-gauge-of-ai-infrastructure-demand]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]] · [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]]
+**Related:** [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-08-15-defunct-startups-slack-archives-are-becoming-agent-training]] · [[2026-08-01-ibm-earnings-read-as-a-gauge-of-ai-infrastructure-demand]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]] · [[2026-08-26-microsoft-employees-reveal-how-much-cash-they-re-burning-on]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-09-anthropic-adds-reflect-a-usage-analytics-dashboard-for-claud
 - 2026-07-09-anthropic-launches-reflect-a-usage-analytics-recap-for-claud
 - 2026-08-21-anthropic-watermarks-claude-s-writing-users-cancel-subscript
-- 2026-08-21-anthropic-watermarks-claude-s-writing-some-users-cancel-subs
+- 2026-08-27-anthropic-adds-a-native-browser-to-the-claude-cowork-desktop
 embedding_id: 2026-07-09-anthropic-adds-reflect-a-claude-usage-recap-dashboard
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic launched Reflect, a dashboard that uses Claude memory to surface a use
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-anthropic-rolls-out-claude-reflect-an-ai-usage-analytics-das]] · [[2026-07-09-anthropic-adds-reflect-a-usage-analytics-dashboard-for-claud]] · [[2026-07-09-anthropic-launches-reflect-a-usage-analytics-recap-for-claud]] · [[2026-08-21-anthropic-watermarks-claude-s-writing-users-cancel-subscript]] · [[2026-08-21-anthropic-watermarks-claude-s-writing-some-users-cancel-subs]]
+**Related:** [[2026-07-09-anthropic-rolls-out-claude-reflect-an-ai-usage-analytics-das]] · [[2026-07-09-anthropic-adds-reflect-a-usage-analytics-dashboard-for-claud]] · [[2026-07-09-anthropic-launches-reflect-a-usage-analytics-recap-for-claud]] · [[2026-08-21-anthropic-watermarks-claude-s-writing-users-cancel-subscript]] · [[2026-08-27-anthropic-adds-a-native-browser-to-the-claude-cowork-desktop]]
 <!-- graph:end -->

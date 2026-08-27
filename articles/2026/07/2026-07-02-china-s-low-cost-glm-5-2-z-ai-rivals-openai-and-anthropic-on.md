@@ -27,7 +27,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
-- 2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie
+- 2026-08-26-z-ai-ships-glm-5-3-flash-320b-moe-1m-context-claimed-chinese
 embedding_id: 2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Reuters reports that GLM‑5.2, an open‑weight model from Beijing startup Z.ai
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]] · [[2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie]]
+**Related:** [[2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]] · [[2026-08-26-z-ai-ships-glm-5-3-flash-320b-moe-1m-context-claimed-chinese]]
 <!-- graph:end -->

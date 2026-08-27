@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 152
+member_count: 157
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 152 connected article(s).
+> Auto-generated entity hub. 157 connected article(s).
 
+- `2026-08-26` [[2026-08-26-oracle-brings-sovereign-ai-and-cloud-offerings-to-leap-2026|Oracle Brings Sovereign AI and Cloud Offerings to LEAP 2026 Under Saudi Vision 2030]]
+- `2026-08-26` [[2026-08-26-openai-s-data-center-chief-chris-malone-departs|OpenAI's data-center chief Chris Malone departs]]
+- `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-an-ai-robot-tax|Bill Gates calls for "human reserved" jobs and an AI/robot tax]]
+- `2026-08-25` [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc|Liquid AI Open-Sources Pipette, a Reproducible On-Device Benchmarking Suite]]
+- `2026-08-24` [[2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens|Georgia Tech AI governance through a visiting scholar’s lens]]
 - `2026-08-23` [[2026-08-23-oracle-cloud-infrastructure-receives-nvidia-exemplar-cloud-v|Oracle Cloud Infrastructure receives NVIDIA Exemplar Cloud validation for GB300 NVL72 and HGX B300]]
 - `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
 - `2026-08-22` [[2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma|Saturday coverage: AI content demand strains the rare-book market]]

@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-purdue-s-anvil-supercomputer-upgraded-with-nsf-nairr-ai-data
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
+- 2026-08-26-purdue-ece-leads-4-8m-nsf-project-for-ai-powered-disaster-re
 - 2026-05-26-princeton-ai-lab-recaps-physical-foundations-of-intelligent
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
-- 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
 embedding_id: 2026-05-13-conference-proceedings-published-through-springer-today-high
 event_name: ''
 ---
@@ -37,5 +37,5 @@ conference proceedings published through Springer today highlight Purdue Univers
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-purdue-s-anvil-supercomputer-upgraded-with-nsf-nairr-ai-data]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-26-princeton-ai-lab-recaps-physical-foundations-of-intelligent]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]]
+**Related:** [[2026-05-20-purdue-s-anvil-supercomputer-upgraded-with-nsf-nairr-ai-data]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-08-26-purdue-ece-leads-4-8m-nsf-project-for-ai-powered-disaster-re]] · [[2026-05-26-princeton-ai-lab-recaps-physical-foundations-of-intelligent]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]]
 <!-- graph:end -->

@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2
 - event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge
+- 2026-08-25-nvidia-unveils-jetson-orin-nano-2-for-entry-level-edge-ai-an
 - 2026-07-15-nvidia-introduces-jetson-thor-t3000-t2000-for-mainstream-rob
 - 2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development
-- 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
 embedding_id: 2026-05-22-nvidia-sweeps-computex-2026-best-choice-awards-vera-rubin-nv
 event_name: ''
 ---
@@ -41,5 +41,5 @@ NVIDIA claimed COMPUTEX 2026 Best Choice Awards across three categories: the Ver
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge]] · [[2026-07-15-nvidia-introduces-jetson-thor-t3000-t2000-for-mainstream-rob]] · [[2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]]
+**Related:** [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge]] · [[2026-08-25-nvidia-unveils-jetson-orin-nano-2-for-entry-level-edge-ai-an]] · [[2026-07-15-nvidia-introduces-jetson-thor-t3000-t2000-for-mainstream-rob]] · [[2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development]]
 <!-- graph:end -->

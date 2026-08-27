@@ -1,17 +1,49 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 1427
+member_count: 1458
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 1427 connected article(s).
+> Auto-generated topic hub. 1458 connected article(s).
 
+- `2026-08-27` [[2026-08-27-openai-to-start-showing-ads-on-chatgpt-free-and-go-tiers-in|OpenAI to Start Showing Ads on ChatGPT Free and Go Tiers in India]]
+- `2026-08-27` [[2026-08-27-google-adds-agentic-cost-controls-cios-still-waiting-for-ai|Google Adds Agentic Cost Controls; CIOs Still Waiting for AI Savings]]
+- `2026-08-27` [[2026-08-27-alabama-demands-details-from-openai-lawmakers-sound-alarm-on|Alabama Demands Details From OpenAI; Lawmakers Sound Alarm on Flock "Surveillance State"]]
+- `2026-08-27` [[2026-08-27-alabama-demands-details-from-openai-lawmakers-alarm-on-flock|Alabama Demands Details From OpenAI; Lawmakers Alarm on Flock “Surveillance State”]]
+- `2026-08-26` [[2026-08-26-openai-s-hugging-face-breach-report-finds-agents-were-reward|OpenAI's Hugging Face breach report finds agents were "reward hacking" evaluations]]
+- `2026-08-26` [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach|OpenAI Publishes Official Report on the Hugging Face Breach]]
+- `2026-08-26` [[2026-08-26-openai-publishes-official-hugging-face-breach-postmortem|OpenAI Publishes Official Hugging Face Breach Postmortem]]
+- `2026-08-26` [[2026-08-26-meta-s-18b-settlement-ends-one-battle-wider-legal-war-looms|Meta’s $18B Settlement Ends One Battle — Wider Legal War Looms]]
+- `2026-08-26` [[2026-08-26-meta-reaches-18b-settlement-with-48-states-over-child-safety|Meta Reaches $18B Settlement With 48 States Over Child-Safety Claims]]
+- `2026-08-26` [[2026-08-26-meta-reaches-18-billion-settlement-with-48-states-but-wider|Meta Reaches $18 Billion Settlement With 48 States — But Wider Legal War Looms]]
+- `2026-08-26` [[2026-08-26-meta-reaches-18-billion-settlement-with-48-states-over-child|Meta Reaches $18 Billion Settlement With 48 States Over Child-Safety Claims]]
+- `2026-08-26` [[2026-08-26-mit-s-crysvcd-raises-ai-generated-materials-stability-to-70|MIT’s CrysVCD Raises AI-Generated Materials Stability to ~70%]]
+- `2026-08-26` [[2026-08-26-bill-gates-calls-for-a-robot-tax-and-human-reserved-jobs|Bill Gates calls for a robot tax and "Human Reserved" jobs]]
+- `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-an-ai-robot-tax|Bill Gates calls for "human reserved" jobs and an AI/robot tax]]
+- `2026-08-26` [[2026-08-26-bill-gates-proposes-a-robot-tax-and-human-reserved-job-categ|Bill Gates Proposes a Robot Tax and “Human Reserved” Job Category]]
+- `2026-08-26` [[2026-08-26-bill-gates-proposes-a-robot-tax-and-a-human-reserved-job-cat|Bill Gates Proposes a Robot Tax and a "Human Reserved" Job Category]]
+- `2026-08-26` [[2026-08-26-bill-gates-proposes-robot-tax-and-human-reserved-jobs-to-mit|Bill Gates Proposes 'Robot Tax' and 'Human Reserved' Jobs to Mitigate AI Harms]]
+- `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-a-tax-on-ai-tok|Bill Gates Calls for "Human Reserved" Jobs and a Tax on AI Tokens and Robots]]
+- `2026-08-25` [[2026-08-25-u-s-and-eu-ai-regulation-continue-to-diverge-structurally|U.S. and EU AI Regulation Continue to Diverge Structurally]]
+- `2026-08-25` [[2026-08-25-taiwan-charges-nvidia-and-super-micro-employees-with-ai-serv|Taiwan charges Nvidia and Super Micro employees with AI-server smugglingBreaking]]
+- `2026-08-25` [[2026-08-25-stability-ai-raises-76m-from-universal-music-sony-warner-and|Stability AI Raises $76M from Universal Music, Sony, Warner, and EA]]
+- `2026-08-25` [[2026-08-25-openai-discloses-disruption-of-an-elaborate-russian-covert-i|OpenAI discloses disruption of an elaborate Russian covert influence operation]]
+- `2026-08-25` [[2026-08-25-openai-bans-russia-origin-accounts-running-a-fake-israeli-th|OpenAI Bans Russia-Origin Accounts Running a Fake Israeli Think Tank Influence Operation]]
+- `2026-08-25` [[2026-08-25-microsoft-paint-and-photos-found-embedding-server-issued-use|Microsoft Paint and Photos Found Embedding Server-Issued, User-Linked Watermarks in AI Images]]
+- `2026-08-25` [[2026-08-25-mit-argues-ai-is-forcing-a-structural-rethink-of-higher-educ|MIT Argues AI Is Forcing a Structural Rethink of Higher Education]]
+- `2026-08-25` [[2026-08-25-caltech-researchers-launch-a-physics-ai-built-on-neural-oper|Caltech researchers launch a physics AI built on neural operators rather than Transformers]]
 - `2026-08-24` [[2026-08-24-ukraine-says-a-fully-autonomous-russian-ai-drone-killed-thre|Ukraine says a fully autonomous Russian AI drone killed three civilians in Zaporizhzhia]]
 - `2026-08-24` [[2026-08-24-tiktok-to-pay-400-million-to-settle-children-s-privacy-case|TikTok to Pay $400 Million to Settle Children’s Privacy Case]]
+- `2026-08-24` [[2026-08-24-sec-probes-situational-awareness-ai-hedge-fund-after-near-im|SEC Probes “Situational Awareness” AI Hedge Fund After Near-Implosion]]
 - `2026-08-24` [[2026-08-24-new-zealand-moves-to-ban-under-16s-from-social-media-with-fa|New Zealand moves to ban under-16s from social media with facial age checks]]
+- `2026-08-24` [[2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme|MIT: Generating Scenarios for Extreme Events, Without Extreme Data]]
+- `2026-08-24` [[2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens|Georgia Tech AI governance through a visiting scholar’s lens]]
+- `2026-08-24` [[2026-08-24-carterra-enables-anthropic-s-autonomous-ai-protein-design-st|Carterra Enables Anthropic's Autonomous AI Protein Design Study]]
 - `2026-08-24` [[2026-08-24-altman-warns-ai-could-concentrate-in-the-hands-of-a-few-powe|Altman warns AI could concentrate in the hands of a few powerful players]]
+- `2026-08-24` [[2026-08-24-alabama-attorney-general-subpoenas-openai-over-the-hugging-f|Alabama attorney general subpoenas OpenAI over the Hugging Face breach]]
+- `2026-08-24` [[2026-08-24-alabama-attorney-general-subpoenas-openai-over-hugging-face|Alabama Attorney General Subpoenas OpenAI Over Hugging Face Breach]]
 - `2026-08-23` [[2026-08-23-uber-faces-fine-of-nearly-825m-over-automated-driver-suspens|Uber Faces Fine of Nearly €825M Over Automated Driver Suspensions]]
 - `2026-08-23` [[2026-08-23-training-ai-on-copyrighted-books-remains-legally-unsettled|Training AI on Copyrighted Books Remains Legally Unsettled]]
 - `2026-08-23` [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books|The Unsettled Law of Training Models on Copyrighted Books]]
@@ -857,7 +889,6 @@ member_count: 1427
 - `2026-06-02` [[2026-06-02-trump-administration-at-war-with-itself-over-ai-regulation|Trump Administration at War with Itself Over AI Regulation]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi|Microsoft Build 2026: Windows, local agents, and developer devices]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy|Microsoft Build 2026: Agents, agent platforms, and agent lifecycle]]
-- `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero|Microsoft Build 2026 Preview: Open standards and agent interoperability]]
 - `2026-06-02` [[2026-06-02-meta-expands-teen-content-settings-globally|Meta Expands Teen Content Settings Globally]]
 - `2026-06-02` [[2026-06-02-hackers-hijack-instagram-accounts-via-meta-s-ai-support-chat|Hackers hijack Instagram accounts via Meta's AI support chatbot]]
 - `2026-06-02` [[2026-06-02-center-for-ai-safety-expands-creates-national-security-focus|Center for AI Safety Expands, Creates National Security–Focused Frontier Security Institute]]

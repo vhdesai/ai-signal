@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh
 - 2026-07-28-carnegie-mellon-brings-middle-schoolers-into-robotics-throug
 - 2026-08-03-georgia-tech-to-lead-nsf-cloud-laboratory-for-autonomous-man
 - 2026-08-03-georgia-tech-to-lead-national-cloud-laboratory-for-advanced
 - 2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv
-- 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
 embedding_id: 2026-07-29-thirteen-early-career-cornell-professors-win-nsf-career-awar
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Thirteen early-career Cornell faculty received NSF Faculty Early Career Developm
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-28-carnegie-mellon-brings-middle-schoolers-into-robotics-throug]] · [[2026-08-03-georgia-tech-to-lead-nsf-cloud-laboratory-for-autonomous-man]] · [[2026-08-03-georgia-tech-to-lead-national-cloud-laboratory-for-advanced]] · [[2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]]
+**Related:** [[2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh]] · [[2026-07-28-carnegie-mellon-brings-middle-schoolers-into-robotics-throug]] · [[2026-08-03-georgia-tech-to-lead-nsf-cloud-laboratory-for-autonomous-man]] · [[2026-08-03-georgia-tech-to-lead-national-cloud-laboratory-for-advanced]] · [[2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv]]
 <!-- graph:end -->

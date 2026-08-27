@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from
 - 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
 - 2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion
+- 2026-08-25-agentic-web-search-infrastructure-startup-keenable-raises-26
 - 2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference
 embedding_id: 2026-06-19-elastic-reportedly-agrees-to-buy-deductive-ai-for-up-to-85m
 event_name: ''
@@ -36,5 +37,5 @@ Elastic has reportedly agreed to acquire Deductive AI, a startup applying AI to 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]] · [[2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion]] · [[2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference]]
+**Related:** [[2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]] · [[2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion]] · [[2026-08-25-agentic-web-search-infrastructure-startup-keenable-raises-26]] · [[2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference]]
 <!-- graph:end -->

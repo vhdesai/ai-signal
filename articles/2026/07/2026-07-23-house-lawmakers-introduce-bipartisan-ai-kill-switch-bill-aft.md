@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr
 - 2026-07-23-mit-projects-selected-for-funding-under-doe-s-genesis-missio
 - 2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r
-- 2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil
+- 2026-08-27-alabama-demands-details-from-openai-lawmakers-sound-alarm-on
 embedding_id: 2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft
 event_name: ''
 ---
@@ -41,5 +41,5 @@ WSJ reports that House lawmakers introduced a bipartisan AI “kill switch” bi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-25-openai-containment-breach-continues-to-drive-incident-respon]] · [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]] · [[2026-07-23-mit-projects-selected-for-funding-under-doe-s-genesis-missio]] · [[2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r]] · [[2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil]]
+**Related:** [[2026-07-25-openai-containment-breach-continues-to-drive-incident-respon]] · [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]] · [[2026-07-23-mit-projects-selected-for-funding-under-doe-s-genesis-missio]] · [[2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r]] · [[2026-08-27-alabama-demands-details-from-openai-lawmakers-sound-alarm-on]]
 <!-- graph:end -->

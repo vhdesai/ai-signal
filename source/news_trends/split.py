@@ -833,6 +833,11 @@ def run_split(cfg: Config) -> dict:
 
         if _is_event_file(path.name):
             for article in parse_event(cfg, text, digest_source):
+                # Event articles must clear the same substantial-content bar as
+                # daily-digest articles — no fragments or snippet-only stubs.
+                if not _has_min_content(article):
+                    skipped_thin += 1
+                    continue
                 write_article(cfg, article)
                 events_written += 1
         else:

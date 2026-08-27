@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-05-hotibm-cleveland-clinic-riken-simulate-largest-ever-protein
 - 2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against
 - 2026-08-23-claude-autonomously-designed-protein-binders-effective-again
+- 2026-08-24-carterra-enables-anthropic-s-autonomous-ai-protein-design-st
 - 2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in
-- 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
 embedding_id: 2026-07-13-first-end-to-end-hybrid-quantum-classical-pipeline-for-de-no
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers coupled a generative adversarial network to latent vectors sampled f
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-05-hotibm-cleveland-clinic-riken-simulate-largest-ever-protein]] · [[2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against]] · [[2026-08-23-claude-autonomously-designed-protein-binders-effective-again]] · [[2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]]
+**Related:** [[2026-05-05-hotibm-cleveland-clinic-riken-simulate-largest-ever-protein]] · [[2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against]] · [[2026-08-23-claude-autonomously-designed-protein-binders-effective-again]] · [[2026-08-24-carterra-enables-anthropic-s-autonomous-ai-protein-design-st]] · [[2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in]]
 <!-- graph:end -->

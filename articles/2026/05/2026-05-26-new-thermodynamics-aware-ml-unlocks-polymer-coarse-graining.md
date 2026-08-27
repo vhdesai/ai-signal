@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-07-06-reinforcement-learning-steers-generative-models-toward-novel
 - 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
+- 2026-08-26-mit-s-crysvcd-raises-ai-generated-materials-stability-to-70
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
-- 2026-08-07-cornell-ai-plus-chemistry-expands-the-design-space-for-batte
 embedding_id: 2026-05-26-new-thermodynamics-aware-ml-unlocks-polymer-coarse-graining
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The team built a neural-network architecture organized around the metriplectic b
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-06-reinforcement-learning-steers-generative-models-toward-novel]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-08-07-cornell-ai-plus-chemistry-expands-the-design-space-for-batte]]
+**Related:** [[2026-07-06-reinforcement-learning-steers-generative-models-toward-novel]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-08-26-mit-s-crysvcd-raises-ai-generated-materials-stability-to-70]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]]
 <!-- graph:end -->

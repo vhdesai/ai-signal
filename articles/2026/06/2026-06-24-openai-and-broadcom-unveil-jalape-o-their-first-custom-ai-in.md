@@ -21,7 +21,11 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in
-related_article_ids: []
+related_article_ids:
+- 2026-06-25-openai-unveils-its-first-custom-chip-jalape-o-with-broadcom
+- 2026-08-25-openai-publishes-first-jalape-o-benchmarks-claims-efficiency
+- 2026-08-25-openai-s-jalape-o-chip-is-built-for-fast-inference-at-scale
+- 2026-08-25-openai-publishes-first-jalape-o-chip-benchmarks-claims-effic
 embedding_id: 2026-06-24-openai-and-broadcom-unveil-jalape-o-their-first-custom-ai-in
 event_name: ''
 ---
@@ -36,4 +40,5 @@ OpenAI and Broadcom revealed Jalapeño, an ASIC "Intelligence Processor" built f
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in]]
+**Related:** [[2026-06-25-openai-unveils-its-first-custom-chip-jalape-o-with-broadcom]] · [[2026-08-25-openai-publishes-first-jalape-o-benchmarks-claims-efficiency]] · [[2026-08-25-openai-s-jalape-o-chip-is-built-for-fast-inference-at-scale]] · [[2026-08-25-openai-publishes-first-jalape-o-chip-benchmarks-claims-effic]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-21-meta-cuts-8-000-jobs-tells-employees-ai-agents-will-primaril
 - 2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous
 - 2026-08-20-one-in-five-enterprises-cannot-stop-a-runaway-ai-agent-s-spe
-- 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
 - 2026-08-08-daily-ai-news-digest-august-8-2026
+- 2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r
 embedding_id: 2026-08-15-ai-manager-luna-makes-first-employee-firing-decision-at-sf-s
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Luna, the Claude-powered AI agent managing San Francisco's Andon Market, recomme
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-21-meta-cuts-8-000-jobs-tells-employees-ai-agents-will-primaril]] · [[2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous]] · [[2026-08-20-one-in-five-enterprises-cannot-stop-a-runaway-ai-agent-s-spe]] · [[2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]]
+**Related:** [[2026-05-21-meta-cuts-8-000-jobs-tells-employees-ai-agents-will-primaril]] · [[2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous]] · [[2026-08-20-one-in-five-enterprises-cannot-stop-a-runaway-ai-agent-s-spe]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r]]
 <!-- graph:end -->

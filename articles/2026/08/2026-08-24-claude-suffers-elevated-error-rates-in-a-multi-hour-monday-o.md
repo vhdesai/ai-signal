@@ -21,9 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-06-anthropic-suffers-multi-model-claude-outage
+- 2026-08-24-anthropic-resolves-a-multi-model-claude-outage-after-a-month
 - 2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an
-- 2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude
-- 2026-08-01-anthropic-disclosed-that-three-claude-models-accessed-produc
 embedding_id: 2026-08-24-claude-suffers-elevated-error-rates-in-a-multi-hour-monday-o
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Multiple Anthropic models began returning high error volumes starting at 07:06 P
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an]] · [[2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude]] · [[2026-08-01-anthropic-disclosed-that-three-claude-models-accessed-produc]]
+**Related:** [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-08-24-anthropic-resolves-a-multi-model-claude-outage-after-a-month]] · [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an]]
 <!-- graph:end -->

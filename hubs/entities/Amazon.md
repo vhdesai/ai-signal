@@ -1,14 +1,33 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 469
+member_count: 487
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 469 connected article(s).
+> Auto-generated entity hub. 487 connected article(s).
 
+- `2026-08-26` [[2026-08-26-moonshot-ai-in-cloud-revenue-share-talks-with-microsoft-amaz|Moonshot AI in cloud revenue-share talks with Microsoft, Amazon and Google]]
+- `2026-08-26` [[2026-08-26-moonshot-ai-reportedly-in-revenue-share-talks-to-host-kimi-k|Moonshot AI Reportedly in Revenue-Share Talks to Host Kimi K3 on US Clouds]]
+- `2026-08-26` [[2026-08-26-daily-ai-news-digest-august-27-2026|Daily AI News Digest – August 27, 2026]]
+- `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-an-ai-robot-tax|Bill Gates calls for "human reserved" jobs and an AI/robot tax]]
+- `2026-08-26` [[2026-08-26-anthropic-signs-45b-compute-deal-with-nscale-for-vera-rubin|Anthropic Signs $45B Compute Deal with Nscale for Vera Rubin Chips]]
+- `2026-08-26` [[2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin|Anthropic Commits ~$45B to Nscale for Six Years of Vera Rubin Compute]]
+- `2026-08-26` [[2026-08-26-amazon-triples-its-nvidia-gpu-order-adding-2-million-chips|Amazon triples its Nvidia GPU order, adding 2 million chips]]
+- `2026-08-26` [[2026-08-26-amazon-to-shut-mechanical-turk-on-september-30-after-21-year|Amazon to shut Mechanical Turk on September 30 after 21 years]]
+- `2026-08-26` [[2026-08-26-amazon-triples-nvidia-gpu-order-adding-2m-chips-including-ru|Amazon Triples Nvidia GPU Order — Adding 2M Chips Including Rubin Ultra]]
+- `2026-08-26` [[2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through|Amazon Triples Nvidia GPU Commitment — 2 Million Chips Through 2028]]
+- `2026-08-26` [[2026-08-26-amazon-triples-its-nvidia-gpu-commitment-adding-2-million-ch|Amazon Triples Its Nvidia GPU Commitment, Adding 2 Million Chips Through 2028]]
+- `2026-08-26` [[2026-08-26-amazon-triples-its-nvidia-gpu-commitment-2-million-chips-thr|Amazon Triples Its Nvidia GPU Commitment — 2 Million Chips Through 2028]]
+- `2026-08-26` [[2026-08-26-aws-and-nvidia-to-deploy-two-million-additional-gpus-across|AWS and Nvidia to deploy two million additional GPUs across 2027–2028]]
+- `2026-08-25` [[2026-08-25-nvidia-q2-fy27-earnings-land-today-as-the-ai-boom-s-scorecar|Nvidia Q2 FY27 Earnings Land Today as the AI Boom's Scorecard]]
+- `2026-08-25` [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc|Liquid AI Open-Sources Pipette, a Reproducible On-Device Benchmarking Suite]]
 - `2026-08-24` [[2026-08-24-wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going|Wall Street Is Counting on Nvidia to Keep the AI Party Going]]
+- `2026-08-24` [[2026-08-24-openai-s-gpt-5-6-family-lands-inside-aws-s-kiro-development|OpenAI's GPT-5.6 family lands inside AWS's Kiro development environment]]
+- `2026-08-24` [[2026-08-24-openai-brings-the-gpt-5-6-model-family-to-aws-s-kironew|OpenAI brings the GPT-5.6 model family to AWS’s KiroNew]]
+- `2026-08-24` [[2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens|Georgia Tech AI governance through a visiting scholar’s lens]]
+- `2026-08-24` [[2026-08-24-bytedance-merges-ai-teams-to-compete-with-tencenttrending|ByteDance merges AI teams to compete with TencentTrending]]
 - `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
 - `2026-08-22` [[2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma|Saturday coverage: AI content demand strains the rare-book market]]
 - `2026-08-22` [[2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs|Nvidia AI Server Prices to Rise More Than 15% on Memory Costs]]
@@ -423,7 +442,6 @@ member_count: 469
 - `2026-04-23` [[2026-04-23-meta-signs-multi-billion-dollar-chip-agreement-with-aws-on-g|Meta signs multi-billion-dollar chip agreement with AWS on Graviton]]
 - `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-tpu-8-family|Google Cloud Next 2026: TPU 8 family]]
 - `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-siri-gemini-enterprise-read-through|Google Cloud Next 2026: Siri/Gemini enterprise read-through]]
-- `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs|Google Cloud Next 2026: Partner and adoption programs]]
 - `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform|Google Cloud Next 2026: Gemini Enterprise Agent Platform]]
 - `2026-04-22` [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-2|Google Cloud Next 2026: Enterprise Agent Platform, Gemini Expansion, and Partner Fund — Strategic Implications]]
 - `2026-04-22` [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa|Google Cloud Next 2026: Enterprise Agent Platform, Gemini Expansion, and Partner Fund — Overview]]

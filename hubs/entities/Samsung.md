@@ -1,15 +1,17 @@
 ---
 type: entity-hub
 hub: Samsung
-member_count: 80
+member_count: 82
 ---
 
 # Samsung
 
-> Auto-generated entity hub. 80 connected article(s).
+> Auto-generated entity hub. 82 connected article(s).
 
+- `2026-08-25` [[2026-08-25-emerald-ai-raises-150m-at-a-1-05b-valuation-to-make-data-cen|Emerald AI raises $150M at a $1.05B valuation to make data center load flexible]]
 - `2026-08-24` [[2026-08-24-south-korea-moves-to-cap-retail-exposure-to-leveraged-ai-chi|South Korea moves to cap retail exposure to leveraged AI-chip ETFs]]
 - `2026-08-24` [[2026-08-24-rising-server-prices-shift-leverage-from-nvidia-to-samsung-a|Rising Server Prices Shift Leverage from Nvidia to Samsung and SK hynix]]
+- `2026-08-24` [[2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti|Nvidia puts the Groq 3 LPX inference rack into full production, Nebius first to deploy]]
 - `2026-08-23` [[2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th|Memory Supercycle Shows No Near-Term Break as HBM Remains the Bottleneck]]
 - `2026-08-19` [[2026-08-19-samsung-raises-advanced-foundry-prices-by-up-to-15|Samsung Raises Advanced Foundry Prices by Up to 15%]]
 - `2026-08-15` [[2026-08-15-ai-powered-wearables-race-to-become-health-intelligence-plat|AI-Powered Wearables Race to Become Health Intelligence Platforms]]

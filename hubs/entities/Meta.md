@@ -1,16 +1,36 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 575
+member_count: 595
 ---
 
 # Meta
 
-> Auto-generated entity hub. 575 connected article(s).
+> Auto-generated entity hub. 595 connected article(s).
 
+- `2026-08-26` [[2026-08-26-meta-s-18b-settlement-ends-one-battle-wider-legal-war-looms|Meta’s $18B Settlement Ends One Battle — Wider Legal War Looms]]
+- `2026-08-26` [[2026-08-26-meta-s-scrapped-project-ot-saw-ai-agents-take-large-scale-di|Meta's Scrapped "Project OT" Saw AI Agents Take "Large-Scale, Disruptive Actions"]]
+- `2026-08-26` [[2026-08-26-meta-reaches-18b-settlement-with-48-states-over-child-safety|Meta Reaches $18B Settlement With 48 States Over Child-Safety Claims]]
+- `2026-08-26` [[2026-08-26-meta-reaches-18-billion-settlement-with-48-states-but-wider|Meta Reaches $18 Billion Settlement With 48 States — But Wider Legal War Looms]]
+- `2026-08-26` [[2026-08-26-meta-reaches-18-billion-settlement-with-48-states-over-child|Meta Reaches $18 Billion Settlement With 48 States Over Child-Safety Claims]]
+- `2026-08-26` [[2026-08-26-meta-agrees-to-16-68-billion-settlement-in-social-media-addi|Meta Agrees to $16.68 Billion Settlement in Social Media Addiction Case]]
+- `2026-08-26` [[2026-08-26-ex-meta-scientists-launch-perceptron-to-bring-visual-ai-to-t|Ex-Meta scientists launch Perceptron to bring visual AI to the factory floor]]
+- `2026-08-26` [[2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif|Custom Silicon Comes for the Incumbent as Enterprise AI Shifts to Controls]]
+- `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-an-ai-robot-tax|Bill Gates calls for "human reserved" jobs and an AI/robot tax]]
+- `2026-08-26` [[2026-08-26-bill-gates-warns-about-ai-risks|Bill Gates Warns About AI Risks]]
+- `2026-08-25` [[2026-08-25-nvidia-q2-fy27-earnings-land-today-as-the-ai-boom-s-scorecar|Nvidia Q2 FY27 Earnings Land Today as the AI Boom's Scorecard]]
+- `2026-08-25` [[2026-08-25-meta-s-custom-transport-protocol-embraces-packet-chaos-to-bo|Meta's custom transport protocol embraces packet chaos to boost AI throughput]]
+- `2026-08-25` [[2026-08-25-meta-introduces-ai-agent-that-runs-errands-with-premium-tier|Meta Introduces AI Agent That Runs Errands, With Premium Tier Reported up to $199.99/Month]]
+- `2026-08-25` [[2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for|Meta AI Introduces MetaRoCE, a Clean-Sheet RDMA Transport for AI-Scale Ethernet]]
+- `2026-08-25` [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc|Liquid AI Open-Sources Pipette, a Reproducible On-Device Benchmarking Suite]]
+- `2026-08-25` [[2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized-alabama-pro|Hugging Face Revenue Jumps 50% to $150M Annualized; Alabama Probes OpenAI Over HF Hack]]
 - `2026-08-24` [[2026-08-24-tiktok-to-pay-400-million-to-settle-children-s-privacy-case|TikTok to Pay $400 Million to Settle Children’s Privacy Case]]
+- `2026-08-24` [[2026-08-24-meta-plans-to-launch-ai-agent-platform-hatch-in-coming-weeks|Meta Plans to Launch AI Agent Platform "Hatch" in Coming Weeks; New "Watermark" Model in October]]
+- `2026-08-24` [[2026-08-24-meta-plans-ai-agent-platform-hatch-launch-in-coming-weeks-ne|Meta Plans AI Agent Platform "Hatch" Launch in Coming Weeks; New Model in October]]
 - `2026-08-24` [[2026-08-24-meta-hires-openai-veteran-luke-metz|Meta Hires OpenAI Veteran Luke Metz]]
 - `2026-08-24` [[2026-08-24-luke-metz-leaves-openai-for-meta-superintelligence-labs|Luke Metz leaves OpenAI for Meta Superintelligence Labs]]
+- `2026-08-24` [[2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens|Georgia Tech AI governance through a visiting scholar’s lens]]
+- `2026-08-24` [[2026-08-24-former-openai-researcher-luke-metz-joins-meta-s-superintelli|Former OpenAI Researcher Luke Metz Joins Meta's Superintelligence Labs]]
 - `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
 - `2026-08-22` [[2026-08-22-study-frontier-labs-still-publish-almost-no-plans-for-contai|Study: Frontier Labs Still Publish Almost No Plans for Containing a Rogue Model]]
 - `2026-08-22` [[2026-08-22-study-frontier-labs-have-few-published-plans-for-containing|Study: Frontier Labs Have Few Published Plans for Containing a Rogue Model]]

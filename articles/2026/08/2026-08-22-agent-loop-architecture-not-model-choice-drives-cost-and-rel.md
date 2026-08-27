@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and
 - 2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne
 - 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
+- 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
 - 2026-08-08-four-agent-coordination-system-outperforms-a-frontier-single
-- 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
 embedding_id: 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A technical breakdown of an open-source coding-agent course maps three distinct 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and]] · [[2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-08-08-four-agent-coordination-system-outperforms-a-frontier-single]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]]
+**Related:** [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and]] · [[2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-08-08-four-agent-coordination-system-outperforms-a-frontier-single]]
 <!-- graph:end -->

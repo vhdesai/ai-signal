@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-15-deepseek-nears-500m-revenue-raises-at-74b-and-preps-a-shangh
+- 2026-08-26-deepseek-revenue-reaches-70m-through-july-tenfold-jump-from
+- 2026-08-26-deepseek-revenue-reaches-70-million-through-july-tenfold-jum
+- 2026-08-26-deepseek-s-revenue-reaches-70-million-as-of-july-tenfold-jum
 - 2026-07-15-deepseek-s-revenue-and-ipo-plans-signal-stronger-china-ai-co
-- 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context
-- 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
-- 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
 embedding_id: 2026-07-15-deepseek-nears-500m-revenue-and-prepares-for-public-market-p
 event_name: ''
 ---
@@ -41,5 +41,5 @@ DeepSeek disclosed roughly $400–500 million of annualized revenue through its 
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-15-deepseek-nears-500m-revenue-raises-at-74b-and-preps-a-shangh]] · [[2026-07-15-deepseek-s-revenue-and-ipo-plans-signal-stronger-china-ai-co]] · [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context]] · [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]]
+**Related:** [[2026-07-15-deepseek-nears-500m-revenue-raises-at-74b-and-preps-a-shangh]] · [[2026-08-26-deepseek-revenue-reaches-70m-through-july-tenfold-jump-from]] · [[2026-08-26-deepseek-revenue-reaches-70-million-through-july-tenfold-jum]] · [[2026-08-26-deepseek-s-revenue-reaches-70-million-as-of-july-tenfold-jum]] · [[2026-07-15-deepseek-s-revenue-and-ipo-plans-signal-stronger-china-ai-co]]
 <!-- graph:end -->

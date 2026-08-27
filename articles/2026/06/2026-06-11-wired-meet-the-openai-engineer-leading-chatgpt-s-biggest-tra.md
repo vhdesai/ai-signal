@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead
 - 2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo
+- 2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million
 - 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
-- 2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack
 embedding_id: 2026-06-11-wired-meet-the-openai-engineer-leading-chatgpt-s-biggest-tra
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Wired profiled Tibo Sottiaux, leading the Codex-to-ChatGPT "superapp" integratio
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]] · [[2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack]]
+**Related:** [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo]] · [[2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]]
 <!-- graph:end -->

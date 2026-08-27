@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-04-apple-approves-first-ai-agent-on-messages-for-business-platf
 - 2026-06-04-apple-approves-first-ai-agent-on-messages-for-business
 - 2026-08-01-the-information-makes-the-case-for-apple-buying-granola
-- 2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol
+- 2026-08-26-gemini-live-gains-agentic-spark-tasks-daily-brief-and-voice
 embedding_id: 2026-05-13-startup-poppy-launched-a-consumer-ai-assistant-focused-on-pr
 event_name: ''
 ---
@@ -38,5 +38,5 @@ startup Poppy launched a consumer AI assistant focused on proactive personal org
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]] · [[2026-06-04-apple-approves-first-ai-agent-on-messages-for-business-platf]] · [[2026-06-04-apple-approves-first-ai-agent-on-messages-for-business]] · [[2026-08-01-the-information-makes-the-case-for-apple-buying-granola]] · [[2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol]]
+**Related:** [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]] · [[2026-06-04-apple-approves-first-ai-agent-on-messages-for-business-platf]] · [[2026-06-04-apple-approves-first-ai-agent-on-messages-for-business]] · [[2026-08-01-the-information-makes-the-case-for-apple-buying-granola]] · [[2026-08-26-gemini-live-gains-agentic-spark-tasks-daily-brief-and-voice]]
 <!-- graph:end -->

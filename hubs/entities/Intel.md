@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 85
+member_count: 87
 ---
 
 # Intel
 
-> Auto-generated entity hub. 85 connected article(s).
+> Auto-generated entity hub. 87 connected article(s).
 
+- `2026-08-25` [[2026-08-25-nvidia-announces-new-customers-for-vera-cpu-and-groq-lpx-rac|Nvidia Announces New Customers for Vera CPU and Groq LPX Racks]]
+- `2026-08-24` [[2026-08-24-alabama-attorney-general-subpoenas-openai-over-the-hugging-f|Alabama attorney general subpoenas OpenAI over the Hugging Face breach]]
 - `2026-08-23` [[2026-08-23-alibaba-raises-10-2bn-in-hong-kong-earmarks-100-for-ai|Alibaba Raises $10.2bn in Hong Kong, Earmarks 100% for AI]]
 - `2026-08-17` [[2026-08-17-goldman-and-intel-back-5-4bn-ai-video-startup-higgsfield|Goldman and Intel back $5.4bn AI video startup Higgsfield]]
 - `2026-08-14` [[2026-08-14-nvidia-s-13f-reveals-a-21b-spacex-stake-and-30b-intel-positi|Nvidia's 13F reveals a $21B SpaceX stake and $30B Intel position]]

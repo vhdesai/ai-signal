@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
 - 2026-07-07-anthropic-claude-cowork-expands-with-microsoft-365-write-too
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da
+- 2026-08-27-anthropic-adds-a-native-browser-to-the-claude-cowork-desktop
 embedding_id: 2026-05-26-anthropic-open-sources-knowledge-work-plugins-for-claude-cow
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Anthropic published an open-source repository of role-specific plugins that let 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]] · [[2026-07-07-anthropic-claude-cowork-expands-with-microsoft-365-write-too]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]]
+**Related:** [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]] · [[2026-07-07-anthropic-claude-cowork-expands-with-microsoft-365-write-too]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]] · [[2026-08-27-anthropic-adds-a-native-browser-to-the-claude-cowork-desktop]]
 <!-- graph:end -->

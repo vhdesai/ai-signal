@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-04-google-launches-event-driven-webhooks-in-the-gemini-api
+- 2026-08-26-gemini-live-gains-agentic-task-execution-through-spark
 - event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
 - event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation
-- 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
 embedding_id: 2026-05-05-google-launched-event-driven-webhooks-support-in-the-gemini
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Google launched event-driven Webhooks support in the Gemini API on May 4, enabli
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-04-google-launches-event-driven-webhooks-in-the-gemini-api]] · [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]] · [[event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]]
+**Related:** [[2026-05-04-google-launches-event-driven-webhooks-in-the-gemini-api]] · [[2026-08-26-gemini-live-gains-agentic-task-execution-through-spark]] · [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]] · [[event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation]]
 <!-- graph:end -->

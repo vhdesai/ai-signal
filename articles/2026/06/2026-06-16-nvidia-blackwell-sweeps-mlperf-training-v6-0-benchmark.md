@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla
 - 2026-05-18-nvidia-s-nvfp4-pretraining-format-promises-2-throughput-at-p
+- 2026-08-25-openai-s-jalape-o-chip-posts-inference-benchmarks-beating-nv
+- 2026-08-26-openai-publishes-first-jalape-o-inference-benchmarks-claimin
 - 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
-- 2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a
-- 2026-05-23-nvidia-dynamo-update-accelerates-agentic-workload-streaming
-- 2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face
 embedding_id: 2026-06-16-nvidia-blackwell-sweeps-mlperf-training-v6-0-benchmark
 event_name: ''
 ---
@@ -39,5 +39,5 @@ MLCommons released MLPerf Training v6.0 results with NVIDIA's Blackwell GPU syst
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-18-nvidia-s-nvfp4-pretraining-format-promises-2-throughput-at-p]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]] · [[2026-05-23-nvidia-dynamo-update-accelerates-agentic-workload-streaming]] · [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]]
+**Related:** [[2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla]] · [[2026-05-18-nvidia-s-nvfp4-pretraining-format-promises-2-throughput-at-p]] · [[2026-08-25-openai-s-jalape-o-chip-posts-inference-benchmarks-beating-nv]] · [[2026-08-26-openai-publishes-first-jalape-o-inference-benchmarks-claimin]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]]
 <!-- graph:end -->

@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 92
+member_count: 98
 ---
 
 # AMD
 
-> Auto-generated entity hub. 92 connected article(s).
+> Auto-generated entity hub. 98 connected article(s).
 
+- `2026-08-26` [[2026-08-26-apple-debuts-pcs-and-chips-dedicated-to-enterprise-ai-worklo|Apple Debuts PCs and Chips Dedicated to Enterprise AI Workloads]]
+- `2026-08-26` [[2026-08-26-anthropic-signs-45b-compute-deal-with-nscale-for-vera-rubin|Anthropic Signs $45B Compute Deal with Nscale for Vera Rubin Chips]]
+- `2026-08-26` [[2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin|Anthropic Commits ~$45B to Nscale for Six Years of Vera Rubin Compute]]
+- `2026-08-25` [[2026-08-25-stability-ai-raises-76m-from-universal-music-sony-warner-and|Stability AI Raises $76M from Universal Music, Sony, Warner, and EA]]
+- `2026-08-25` [[2026-08-25-nvidia-announces-new-customers-for-vera-cpu-and-groq-lpx-rac|Nvidia Announces New Customers for Vera CPU and Groq LPX Racks]]
+- `2026-08-24` [[2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti|Nvidia puts the Groq 3 LPX inference rack into full production, Nebius first to deploy]]
 - `2026-08-16` [[2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp|Report: Google taps AMD to help design its next-generation TPU]]
 - `2026-08-14` [[2026-08-14-kog-aims-to-squeeze-more-inference-throughput-from-conventio|Kog aims to squeeze more inference throughput from conventional GPUs]]
 - `2026-08-14` [[2026-08-14-french-startup-kog-bets-on-software-optimization-to-achieve|French Startup Kog Bets on Software Optimization to Achieve 30x Faster LLM Inference on Standard GPUs]]

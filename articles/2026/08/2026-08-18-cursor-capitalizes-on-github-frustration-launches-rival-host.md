@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-18-cursor-launches-origin-a-github-rival-built-for-ai-native-wo
+- 2026-08-25-cursor-releases-origin-an-agent-native-alternative-to-github
 - 2026-08-17-cursor-launches-origin-code-hosting-as-a-github-outage-hits
 embedding_id: 2026-08-18-cursor-capitalizes-on-github-frustration-launches-rival-host
 event_name: ''
@@ -35,5 +36,5 @@ Cursor launched Origin, a code hosting platform covering repositories, pull requ
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-18-cursor-launches-origin-a-github-rival-built-for-ai-native-wo]] · [[2026-08-17-cursor-launches-origin-code-hosting-as-a-github-outage-hits]]
+**Related:** [[2026-08-18-cursor-launches-origin-a-github-rival-built-for-ai-native-wo]] · [[2026-08-25-cursor-releases-origin-an-agent-native-alternative-to-github]] · [[2026-08-17-cursor-launches-origin-code-hosting-as-a-github-outage-hits]]
 <!-- graph:end -->

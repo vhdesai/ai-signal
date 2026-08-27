@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-15-openai-tells-european-free-tier-users-ads-arrive-this-month
 - 2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar
 - 2026-08-15-chatgpt-ads-arriving-this-month-for-european-free-tier-users
-- 2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us
+- 2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india
 embedding_id: 2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI has quietly enabled marketing cookies and ad-targeting tracking by defaul
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-02-openai-has-updated-chatgpt-s-privacy-settings-to-enable-beha]] · [[2026-08-15-openai-tells-european-free-tier-users-ads-arrive-this-month]] · [[2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar]] · [[2026-08-15-chatgpt-ads-arriving-this-month-for-european-free-tier-users]] · [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]]
+**Related:** [[2026-05-02-openai-has-updated-chatgpt-s-privacy-settings-to-enable-beha]] · [[2026-08-15-openai-tells-european-free-tier-users-ads-arrive-this-month]] · [[2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar]] · [[2026-08-15-chatgpt-ads-arriving-this-month-for-european-free-tier-users]] · [[2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india]]
 <!-- graph:end -->

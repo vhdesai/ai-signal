@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 - 2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi
 - 2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti
-- 2026-07-04-micron-breaks-ground-on-a-9-3b-hiroshima-plant-for-ai-memory
-- 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
+- 2026-08-26-purdue-ece-leads-4-8m-nsf-project-for-ai-powered-disaster-re
 embedding_id: 2026-05-26-uc-san-diego-awarded-4-85m-nih-grant-to-expand-nemar-into-a
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The NIH awarded UCSD $4.85M to grow NEMAR into a national high-performance compu
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi]] · [[2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti]] · [[2026-07-04-micron-breaks-ground-on-a-9-3b-hiroshima-plant-for-ai-memory]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]]
+**Related:** [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi]] · [[2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti]] · [[2026-08-26-purdue-ece-leads-4-8m-nsf-project-for-ai-powered-disaster-re]]
 <!-- graph:end -->

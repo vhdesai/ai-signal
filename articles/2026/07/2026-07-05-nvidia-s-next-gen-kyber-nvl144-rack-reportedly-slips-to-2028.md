@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-06-infrastructure-nvidia-s-flagship-kyber-nvl144-rack-slips-12
 - 2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl
 - 2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha
-- 2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky
+- 2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through
 embedding_id: 2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Research firm SemiAnalysis reports that Nvidia's Kyber NVL144 rack — designed 
 
 **Entities:** [[AMD]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-slips-more-than-a-year-t]] · [[2026-07-06-infrastructure-nvidia-s-flagship-kyber-nvl144-rack-slips-12]] · [[2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky]]
+**Related:** [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-slips-more-than-a-year-t]] · [[2026-07-06-infrastructure-nvidia-s-flagship-kyber-nvl144-rack-slips-12]] · [[2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through]]
 <!-- graph:end -->

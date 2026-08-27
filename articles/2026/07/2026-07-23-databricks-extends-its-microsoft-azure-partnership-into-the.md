@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - event-microsoft-build-2026-microsoft-build-2026-azure-fabric-data-and-app-platform
 - 2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and
+- 2026-08-26-amazon-triples-its-nvidia-gpu-commitment-adding-2-million-ch
 - 2026-04-27-
-- event-microsoft-build-2026-microsoft-build-2026-infrastructure-silicon-and-cloud-operat
-- 2026-07-10-microsoft-s-carbon-emissions-rose-25-as-the-ai-data-center-b
+- 2026-08-26-aws-and-nvidia-to-deploy-two-million-additional-gpus-across
 embedding_id: 2026-07-23-databricks-extends-its-microsoft-azure-partnership-into-the
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Databricks will expand its Azure commitment through the 2030s, running core oper
 
 **Entities:** [[Arm]] · [[Databricks]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-microsoft-build-2026-microsoft-build-2026-azure-fabric-data-and-app-platform]] · [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[2026-04-27-]] · [[event-microsoft-build-2026-microsoft-build-2026-infrastructure-silicon-and-cloud-operat]] · [[2026-07-10-microsoft-s-carbon-emissions-rose-25-as-the-ai-data-center-b]]
+**Related:** [[event-microsoft-build-2026-microsoft-build-2026-azure-fabric-data-and-app-platform]] · [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[2026-08-26-amazon-triples-its-nvidia-gpu-commitment-adding-2-million-ch]] · [[2026-04-27-]] · [[2026-08-26-aws-and-nvidia-to-deploy-two-million-additional-gpus-across]]
 <!-- graph:end -->

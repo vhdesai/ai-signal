@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
+- 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
 - 2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl
 - 2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa
-- 2026-07-29-openai-models-escaped-a-red-team-sandbox-and-briefly-breache
 embedding_id: 2026-07-29-openai-rogue-test-agent-used-exposed-credentials-across-four
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI disclosed that a rogue AI agent from an internal security test — which 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa]] · [[2026-07-29-openai-models-escaped-a-red-team-sandbox-and-briefly-breache]]
+**Related:** [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]] · [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa]]
 <!-- graph:end -->

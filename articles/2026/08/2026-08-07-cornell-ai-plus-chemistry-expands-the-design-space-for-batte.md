@@ -21,9 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-06-reinforcement-learning-steers-generative-models-toward-novel
+- 2026-08-26-mit-s-crysvcd-raises-ai-generated-materials-stability-to-70
 - 2026-08-10-discovered-materials-applies-ai-to-the-search-for-cooler-run
 - 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
-- 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
+- 2026-08-26-mit-ai-helps-design-new-materials-that-work-in-the-real-worl
 embedding_id: 2026-08-07-cornell-ai-plus-chemistry-expands-the-design-space-for-batte
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Cornell researchers published IonNet in Science Advances on August 7, a model th
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-06-reinforcement-learning-steers-generative-models-toward-novel]] · [[2026-08-10-discovered-materials-applies-ai-to-the-search-for-cooler-run]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]]
+**Related:** [[2026-07-06-reinforcement-learning-steers-generative-models-toward-novel]] · [[2026-08-26-mit-s-crysvcd-raises-ai-generated-materials-stability-to-70]] · [[2026-08-10-discovered-materials-applies-ai-to-the-search-for-cooler-run]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-08-26-mit-ai-helps-design-new-materials-that-work-in-the-real-worl]]
 <!-- graph:end -->

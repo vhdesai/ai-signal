@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s
 - 2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific
 - 2026-07-22-openai-publishes-research-on-capacity-measurement-for-fronti
+- 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
 embedding_id: 2026-07-08-openai-audit-finds-30-of-swe-bench-pro-coding-tasks-are-brok
 event_name: ''
 ---
@@ -37,5 +38,5 @@ OpenAI published an audit estimating ~30% of tasks in SWE-Bench Pro — a widely
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-08-openai-audit-finds-roughly-30-of-swe-bench-pro-coding-tasks]] · [[2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s]] · [[2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific]] · [[2026-07-22-openai-publishes-research-on-capacity-measurement-for-fronti]]
+**Related:** [[2026-07-08-openai-audit-finds-roughly-30-of-swe-bench-pro-coding-tasks]] · [[2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s]] · [[2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific]] · [[2026-07-22-openai-publishes-research-on-capacity-measurement-for-fronti]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]]
 <!-- graph:end -->

@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-06-19-elastic-reportedly-agrees-to-buy-deductive-ai-for-up-to-85m
 - 2026-08-06-ex-spotify-team-raises-10-million-to-bring-intent-aware-reco
 - 2026-05-21-tencent-launches-marvis-an-os-level-ai-assistant-with-cross
+- 2026-08-25-agentic-web-search-infrastructure-startup-keenable-raises-26
 embedding_id: 2026-07-16-whatnot-acquires-ai-recommendation-startup-shaped
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Live-shopping unicorn Whatnot acquired Madrona-backed Shaped for its real-time r
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-15-whatnot-acquires-shaped-to-improve-real-time-live-shopping-r]] · [[2026-06-19-elastic-reportedly-agrees-to-buy-deductive-ai-for-up-to-85m]] · [[2026-08-06-ex-spotify-team-raises-10-million-to-bring-intent-aware-reco]] · [[2026-05-21-tencent-launches-marvis-an-os-level-ai-assistant-with-cross]]
+**Related:** [[2026-07-15-whatnot-acquires-shaped-to-improve-real-time-live-shopping-r]] · [[2026-06-19-elastic-reportedly-agrees-to-buy-deductive-ai-for-up-to-85m]] · [[2026-08-06-ex-spotify-team-raises-10-million-to-bring-intent-aware-reco]] · [[2026-05-21-tencent-launches-marvis-an-os-level-ai-assistant-with-cross]] · [[2026-08-25-agentic-web-search-infrastructure-startup-keenable-raises-26]]
 <!-- graph:end -->

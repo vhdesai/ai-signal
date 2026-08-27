@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
+- 2026-08-27-openai-to-start-showing-ads-on-chatgpt-free-and-go-tiers-in
 - 2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g
 - 2026-08-12-openai-begins-testing-ads-in-chatgpt
 - 2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt
-- 2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf
 embedding_id: 2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b
 event_name: ''
 ---
@@ -40,5 +40,5 @@ eMarketer projects standalone chatbots (including ChatGPT and Google AI Mode) wi
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]] · [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]]
+**Related:** [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-08-27-openai-to-start-showing-ads-on-chatgpt-free-and-go-tiers-in]] · [[2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]] · [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]]
 <!-- graph:end -->

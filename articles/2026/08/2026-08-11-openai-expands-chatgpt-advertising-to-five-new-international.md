@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-24-chatgpt-ads-go-live-across-europe-as-openai-becomes-a-media
 - 2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules
 - 2026-08-24-openai-turns-on-chatgpt-ads-across-31-european-countries
-- 2026-08-15-openai-tells-european-free-tier-users-ads-arrive-this-month
-- 2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar
-- 2026-08-15-chatgpt-ads-arriving-this-month-for-european-free-tier-users
+- 2026-08-27-openai-begins-showing-ads-on-chatgpt-free-tier-in-india
+- 2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india
 embedding_id: 2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international
 event_name: ''
 ---
@@ -40,5 +40,5 @@ In an August 11 update to its advertising post, OpenAI said ChatGPT Ads has laun
 
 **Entities:** [[Amazon]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules]] · [[2026-08-24-openai-turns-on-chatgpt-ads-across-31-european-countries]] · [[2026-08-15-openai-tells-european-free-tier-users-ads-arrive-this-month]] · [[2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar]] · [[2026-08-15-chatgpt-ads-arriving-this-month-for-european-free-tier-users]]
+**Related:** [[2026-08-24-chatgpt-ads-go-live-across-europe-as-openai-becomes-a-media]] · [[2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules]] · [[2026-08-24-openai-turns-on-chatgpt-ads-across-31-european-countries]] · [[2026-08-27-openai-begins-showing-ads-on-chatgpt-free-tier-in-india]] · [[2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india]]
 <!-- graph:end -->

@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its
+- 2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-post-money-valuati
 - 2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation
 - 2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021
 - 2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after
-- 2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto
 embedding_id: 2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi
 event_name: ''
 ---
@@ -41,5 +41,5 @@ XPeng said its robotics unit raised more than $900 million in its first outside 
 
 **Entities:** [[Alibaba]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its]] · [[2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation]] · [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]] · [[2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto]]
+**Related:** [[2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its]] · [[2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-post-money-valuati]] · [[2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation]] · [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]]
 <!-- graph:end -->

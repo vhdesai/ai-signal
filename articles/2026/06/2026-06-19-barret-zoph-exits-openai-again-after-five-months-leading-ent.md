@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-22-openai-s-americas-sales-vp-resigns-after-five-months-returni
+- 2026-08-25-openai-s-head-of-data-centers-has-left-the-company-anthropic
+- 2026-08-26-analysis-openai-s-executive-exodus-explained-brockman-reasse
 - 2026-08-11-openai-coo-brad-lightcap-departs-after-eight-years
-- 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption
-- 2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s
-- 2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d
+- 2026-08-26-techcrunch-analysis-how-do-we-explain-openai-s-executive-exo
 embedding_id: 2026-06-19-barret-zoph-exits-openai-again-after-five-months-leading-ent
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Zoph departed for the second time, five months after rejoining to head enterpris
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-22-openai-s-americas-sales-vp-resigns-after-five-months-returni]] · [[2026-08-11-openai-coo-brad-lightcap-departs-after-eight-years]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]] · [[2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d]]
+**Related:** [[2026-08-22-openai-s-americas-sales-vp-resigns-after-five-months-returni]] · [[2026-08-25-openai-s-head-of-data-centers-has-left-the-company-anthropic]] · [[2026-08-26-analysis-openai-s-executive-exodus-explained-brockman-reasse]] · [[2026-08-11-openai-coo-brad-lightcap-departs-after-eight-years]] · [[2026-08-26-techcrunch-analysis-how-do-we-explain-openai-s-executive-exo]]
 <!-- graph:end -->

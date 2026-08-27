@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
+- 2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens
 - 2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n
 embedding_id: 2026-08-11-georgia-tech-s-ipo-mine-makes-complex-ipo-filings-easier-to
 event_name: ''
@@ -35,5 +36,5 @@ Georgia Tech researchers introduced IPO-Mine, an open-source AI toolkit and data
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n]]
+**Related:** [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens]] · [[2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n]]
 <!-- graph:end -->

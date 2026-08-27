@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
 - 2026-07-27-corporate-boards-still-lack-rules-for-ai-use
+- 2026-08-25-analysis-u-s-and-eu-ai-regulation-continue-to-diverge-struct
 - 2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal
 - 2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash
-- 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
 embedding_id: 2026-07-09-microsoft-s-brad-smith-regulation-without-transparent-or-com
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Speaking to Fortune on the sidelines of the AI for Good Global Summit, Microsoft
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-07-27-corporate-boards-still-lack-rules-for-ai-use]] · [[2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal]] · [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]]
+**Related:** [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-07-27-corporate-boards-still-lack-rules-for-ai-use]] · [[2026-08-25-analysis-u-s-and-eu-ai-regulation-continue-to-diverge-struct]] · [[2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal]] · [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]]
 <!-- graph:end -->

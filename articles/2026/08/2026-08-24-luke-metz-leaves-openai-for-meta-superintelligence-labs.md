@@ -19,13 +19,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-24-meta-hires-openai-veteran-luke-metz
-- 2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin
-- 2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash
-- 2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su
+dedupe_status: duplicate
+canonical_article_id: 2026-08-24-former-openai-researcher-luke-metz-joins-meta-s-superintelli
+related_article_ids: []
 embedding_id: 2026-08-24-luke-metz-leaves-openai-for-meta-superintelligence-labs
 event_name: ''
 ---
@@ -39,5 +35,5 @@ Researcher Luke Metz — who returned to OpenAI from Mira Murati’s Thinking Ma
 
 **Entities:** [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-24-meta-hires-openai-veteran-luke-metz]] · [[2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin]] · [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]] · [[2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su]]
+**Canonical:** [[2026-08-24-former-openai-researcher-luke-metz-joins-meta-s-superintelli]]
 <!-- graph:end -->

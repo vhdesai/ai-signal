@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-23-anthropic-s-flagship-model-struggles-for-adoption-as-cheaper
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
+- 2026-08-25-inside-anthropic-moving-beyond-bigger-models-to-win-the-ente
 - 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
 - 2026-05-09-anthropic-released-research-on-natural-language-autoencoders
-- 2026-07-13-microsoft-anthropic-strategy
 embedding_id: 2026-07-21-anthropic-models-lag-rivals-in-customer-service-ai-benchmark
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Information reports that Anthropic's models, while strong at coding, are les
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-23-anthropic-s-flagship-model-struggles-for-adoption-as-cheaper]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-05-09-anthropic-released-research-on-natural-language-autoencoders]] · [[2026-07-13-microsoft-anthropic-strategy]]
+**Related:** [[2026-08-23-anthropic-s-flagship-model-struggles-for-adoption-as-cheaper]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-08-25-inside-anthropic-moving-beyond-bigger-models-to-win-the-ente]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-05-09-anthropic-released-research-on-natural-language-autoencoders]]
 <!-- graph:end -->

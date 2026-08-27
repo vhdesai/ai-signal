@@ -1,13 +1,22 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 348
+member_count: 355
 ---
 
 # Apple
 
-> Auto-generated entity hub. 348 connected article(s).
+> Auto-generated entity hub. 355 connected article(s).
 
+- `2026-08-26` [[2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif|Custom Silicon Comes for the Incumbent as Enterprise AI Shifts to Controls]]
+- `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-an-ai-robot-tax|Bill Gates calls for "human reserved" jobs and an AI/robot tax]]
+- `2026-08-26` [[2026-08-26-bill-gates-warns-about-ai-risks|Bill Gates Warns About AI Risks]]
+- `2026-08-26` [[2026-08-26-apple-debuts-pcs-and-chips-dedicated-to-enterprise-ai-worklo|Apple Debuts PCs and Chips Dedicated to Enterprise AI Workloads]]
+- `2026-08-25` [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc|Liquid AI Open-Sources Pipette, a Reproducible On-Device Benchmarking Suite]]
+- `2026-08-25` [[2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized-alabama-pro|Hugging Face Revenue Jumps 50% to $150M Annualized; Alabama Probes OpenAI Over HF Hack]]
+- `2026-08-25` [[2026-08-25-apple-surprise-launches-mac-mini-on-new-m6-chip-and-mac-stud|Apple Surprise-Launches Mac mini on New M6 Chip and Mac Studio on M5 Max / M5 Ultra]]
+- `2026-08-25` [[2026-08-25-analysis-u-s-and-eu-ai-regulation-continue-to-diverge-struct|Analysis: U.S. and EU AI regulation continue to diverge structurally]]
+- `2026-08-24` [[2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens|Georgia Tech AI governance through a visiting scholar’s lens]]
 - `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
 - `2026-08-22` [[2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma|Saturday coverage: AI content demand strains the rare-book market]]
 - `2026-08-22` [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro|Frontier AI labs still won't say how they would contain a rogue model]]
@@ -218,7 +227,6 @@ member_count: 348
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Overview]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference|Apple WWDC 2026 Preview: On-device AI and private inference]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy|Apple WWDC 2026 Preview: App Store and agent policy]]
-- `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence|Apple WWDC 2026 Preview: Accessibility and Apple Intelligence]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications|Apple WWDC 2026 Preview — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview|Apple WWDC 2026 Preview — Overview]]
 - `2026-06-08` [[2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli|Apple Unveils "Siri AI," iOS 27, and Comprehensive Apple Intelligence Overhaul at WWDC]]
@@ -326,7 +334,6 @@ member_count: 348
 - `2026-04-22` [[2026-04-22-reuters-analysis-published-today-examines-how-apple-s-tightl|Reuters analysis published today examines how Apple's tightly controlled ecosystem — custom chips, proprietary OS, curated apps — that built a $210 billion iPhone franchise is now creating friction in the AI era. Incoming CEO John Ternus (taking over from Tim Cook this fall) will face a defining strategic question about how open Apple must become to compete. The company's privacy-first ethos, while a consumer asset, limits the large-scale data collection and open model training approaches that rivals like Google, Meta, and OpenAI use freely.]]
 - `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-tpu-8-family|Google Cloud Next 2026: TPU 8 family]]
 - `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-siri-gemini-enterprise-read-through|Google Cloud Next 2026: Siri/Gemini enterprise read-through]]
-- `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs|Google Cloud Next 2026: Partner and adoption programs]]
 - `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform|Google Cloud Next 2026: Gemini Enterprise Agent Platform]]
 - `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications|Google Cloud Next 2026 — Strategic Implications]]
 - `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-overview|Google Cloud Next 2026 — Overview]]

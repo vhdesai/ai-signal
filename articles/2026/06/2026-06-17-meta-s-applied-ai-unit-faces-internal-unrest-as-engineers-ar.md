@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major
+- 2026-08-26-meta-s-scrapped-project-ot-saw-ai-agents-take-large-scale-di
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
 - 2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms
 - 2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ
-- 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
 embedding_id: 2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar
 event_name: ''
 ---
@@ -39,5 +39,5 @@ An in-depth report details organizational strain inside Meta's Applied AI unit, 
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]]
+**Related:** [[2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major]] · [[2026-08-26-meta-s-scrapped-project-ot-saw-ai-agents-take-large-scale-di]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]]
 <!-- graph:end -->

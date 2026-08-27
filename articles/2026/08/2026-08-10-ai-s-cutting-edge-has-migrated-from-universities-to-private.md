@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
+- 2026-08-25-mit-argues-ai-is-forcing-a-structural-rethink-of-higher-educ
 - 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
 - 2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi
-- 2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti
 embedding_id: 2026-08-10-ai-s-cutting-edge-has-migrated-from-universities-to-private
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A survey of how AI faculty are adapting as frontier capability concentrates insi
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi]] · [[2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti]]
+**Related:** [[2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-08-25-mit-argues-ai-is-forcing-a-structural-rethink-of-higher-educ]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi]]
 <!-- graph:end -->

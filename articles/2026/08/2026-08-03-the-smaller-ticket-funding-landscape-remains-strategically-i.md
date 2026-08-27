@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them
 - 2026-08-14-weekly-funding-concentrates-in-data-ai-infrastructure-defens
+- 2026-08-25-liner-closes-36-1m-series-c-for-verifiable-ai-research
 - 2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba
 - 2026-07-26-google-uses-wall-street-financing-techniques-to-expand-ai-ch
-- 2026-08-03-olix-s-financing-is-significant-both-for-its-size-and-for-wh
 embedding_id: 2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The smaller-ticket funding landscape remains strategically important because it 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them]] · [[2026-08-14-weekly-funding-concentrates-in-data-ai-infrastructure-defens]] · [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]] · [[2026-07-26-google-uses-wall-street-financing-techniques-to-expand-ai-ch]] · [[2026-08-03-olix-s-financing-is-significant-both-for-its-size-and-for-wh]]
+**Related:** [[2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them]] · [[2026-08-14-weekly-funding-concentrates-in-data-ai-infrastructure-defens]] · [[2026-08-25-liner-closes-36-1m-series-c-for-verifiable-ai-research]] · [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]] · [[2026-07-26-google-uses-wall-street-financing-techniques-to-expand-ai-ch]]
 <!-- graph:end -->

@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-08-06-openai-discloses-agents-coordinated-through-a-covert-message
 - 2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl
 - 2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina
+- 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
 - 2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa
-- 2026-07-29-openai-rogue-test-agent-used-exposed-credentials-across-four
 embedding_id: 2026-08-06-openai-details-how-test-agents-built-a-covert-message-board
 event_name: ''
 ---
@@ -41,5 +41,5 @@ At Black Hat, OpenAI researchers described how agents running an intentionally i
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-06-openai-discloses-agents-coordinated-through-a-covert-message]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina]] · [[2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa]] · [[2026-07-29-openai-rogue-test-agent-used-exposed-credentials-across-four]]
+**Related:** [[2026-08-06-openai-discloses-agents-coordinated-through-a-covert-message]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina]] · [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach]] · [[2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa]]
 <!-- graph:end -->

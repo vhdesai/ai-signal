@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-30-thinking-machines-cofounder-lilian-weng-returns-to-openai-fo
 - 2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement
 - 2026-08-03-13-ai-talent-war-intensifies-lilian-weng-reportedly-returns
-- 2026-07-15-thinking-machines-releases-inkling-its-first-open-weight-mod
+- 2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent
 embedding_id: 2026-07-29-thinking-machines-co-founder-lilian-weng-departs-rejoins-ope
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Lilian Weng, co-founder of Thinking Machines, said she is stepping down citing t
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin]] · [[2026-07-30-thinking-machines-cofounder-lilian-weng-returns-to-openai-fo]] · [[2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement]] · [[2026-08-03-13-ai-talent-war-intensifies-lilian-weng-reportedly-returns]] · [[2026-07-15-thinking-machines-releases-inkling-its-first-open-weight-mod]]
+**Related:** [[2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin]] · [[2026-07-30-thinking-machines-cofounder-lilian-weng-returns-to-openai-fo]] · [[2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement]] · [[2026-08-03-13-ai-talent-war-intensifies-lilian-weng-reportedly-returns]] · [[2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent]]
 <!-- graph:end -->

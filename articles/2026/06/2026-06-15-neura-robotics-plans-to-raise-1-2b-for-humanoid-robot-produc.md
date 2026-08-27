@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-25-neura-robotics-on-buying-spree
+- 2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker
 - 2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation
 - 2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its
 - 2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi
-- 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
-- 2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto
 embedding_id: 2026-06-15-neura-robotics-plans-to-raise-1-2b-for-humanoid-robot-produc
 event_name: ''
 ---
@@ -38,5 +38,5 @@ German startup Neura Robotics said it plans to raise up to €1B ($1.2B) in a ne
 
 **Entities:** [[OpenAI]] · [[Tesla]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation]] · [[2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its]] · [[2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto]]
+**Related:** [[2026-08-25-neura-robotics-on-buying-spree]] · [[2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker]] · [[2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation]] · [[2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its]] · [[2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi]]
 <!-- graph:end -->

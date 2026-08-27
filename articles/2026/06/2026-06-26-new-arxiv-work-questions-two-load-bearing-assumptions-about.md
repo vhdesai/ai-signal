@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 - 2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent
+- 2026-08-24-arxiv-agentweave-routing-before-reasoning-for-efficient-func
 - 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
-- 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
 embedding_id: 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]]
+**Related:** [[2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent]] · [[2026-08-24-arxiv-agentweave-routing-before-reasoning-for-efficient-func]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]]
 <!-- graph:end -->

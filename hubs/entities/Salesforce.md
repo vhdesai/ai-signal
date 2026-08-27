@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 50
+member_count: 54
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 50 connected article(s).
+> Auto-generated entity hub. 54 connected article(s).
 
+- `2026-08-27` [[2026-08-27-salesforce-and-anthropic-launch-claudeforce-crm-plugin|Salesforce and Anthropic Launch "Claudeforce" CRM Plugin]]
+- `2026-08-26` [[2026-08-26-salesforce-and-anthropic-announce-claudeforce|Salesforce and Anthropic announce "Claudeforce"]]
+- `2026-08-26` [[2026-08-26-salesforce-and-anthropic-launch-claudeforce-embedding-crm-in|Salesforce and Anthropic Launch “Claudeforce,” Embedding CRM Inside Claude]]
+- `2026-08-25` [[2026-08-25-emerald-ai-raises-150m-at-a-1-05b-valuation-to-make-data-cen|Emerald AI raises $150M at a $1.05B valuation to make data center load flexible]]
 - `2026-08-23` [[2026-08-23-hugging-face-has-been-fielding-m-a-interest-for-a-deal-worth|Hugging Face has been fielding M&A interest for a deal worth at least $13 billion]]
 - `2026-08-22` [[2026-08-22-openai-s-americas-sales-vp-resigns-after-five-months-returni|OpenAI’s Americas Sales VP Resigns After Five Months, Returning to Salesforce]]
 - `2026-08-20` [[2026-08-20-twin1-ai-raises-20m-for-per-employee-ai-twins|Twin1 AI Raises $20M for Per-Employee “AI Twins”]]

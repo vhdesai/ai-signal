@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-25-superstep-capital-backs-zencore-to-build-independent-google
+- 2026-08-26-moonshot-ai-reportedly-in-revenue-share-talks-to-host-kimi-k
+- 2026-08-25-superstep-capital-invests-in-zencore-to-build-an-independent
 - 2026-03-31-google-launches-2026-india-ai-accelerator-cursor-kimi-contro
 - 2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri
-- 2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership
-- 2026-07-22-google-commits-40-million-in-ai-credits-to-the-genesis-missi
 embedding_id: 2026-07-29-google-and-kddi-launch-an-ai-startup-support-program-for-jap
 event_name: ''
 ---
@@ -38,5 +39,5 @@ The joint program offers equity investment, Google Cloud credits, and access to 
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-03-31-google-launches-2026-india-ai-accelerator-cursor-kimi-contro]] · [[2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri]] · [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership]] · [[2026-07-22-google-commits-40-million-in-ai-credits-to-the-genesis-missi]]
+**Related:** [[2026-08-25-superstep-capital-backs-zencore-to-build-independent-google]] · [[2026-08-26-moonshot-ai-reportedly-in-revenue-share-talks-to-host-kimi-k]] · [[2026-08-25-superstep-capital-invests-in-zencore-to-build-an-independent]] · [[2026-03-31-google-launches-2026-india-ai-accelerator-cursor-kimi-contro]] · [[2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri]]
 <!-- graph:end -->

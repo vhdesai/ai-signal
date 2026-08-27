@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 134
+member_count: 140
 ---
 
 # IBM
 
-> Auto-generated entity hub. 134 connected article(s).
+> Auto-generated entity hub. 140 connected article(s).
 
+- `2026-08-26` [[2026-08-26-ibm-launches-granite-4-2-open-weight-models-for-local-and-ag|IBM launches Granite 4.2 open-weight models for local and agentic workloads]]
+- `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-an-ai-robot-tax|Bill Gates calls for "human reserved" jobs and an AI/robot tax]]
+- `2026-08-25` [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc|Liquid AI Open-Sources Pipette, a Reproducible On-Device Benchmarking Suite]]
+- `2026-08-25` [[2026-08-25-ibm-releases-granite-4-2-bringing-native-reasoning-and-agent|IBM releases Granite 4.2, bringing native reasoning and agentic RL to open enterprise models]]
+- `2026-08-25` [[2026-08-25-ibm-releases-granite-4-2-open-weight-reasoning-models-3b-8b|IBM Releases Granite 4.2 Open-Weight Reasoning Models (3B / 8B / 30B)]]
+- `2026-08-24` [[2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens|Georgia Tech AI governance through a visiting scholar’s lens]]
 - `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
 - `2026-08-22` [[2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma|Saturday coverage: AI content demand strains the rare-book market]]
 - `2026-08-22` [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro|Frontier AI labs still won't say how they would contain a rogue model]]

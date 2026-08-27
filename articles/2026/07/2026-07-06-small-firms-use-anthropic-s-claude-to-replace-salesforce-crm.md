@@ -22,9 +22,9 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce
 related_article_ids:
+- 2026-08-27-salesforce-and-anthropic-launch-claudeforce-crm-plugin
 - 2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin
 - 2026-06-05-supabase-doubles-to-10-5b-on-ai-coding-tool-adoption
-- 2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman
 embedding_id: 2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce-crm
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Greenleaf Management, an Atlanta-based real estate property and investment manag
 **Entities:** [[Anthropic]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce]]
-**Related:** [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin]] · [[2026-06-05-supabase-doubles-to-10-5b-on-ai-coding-tool-adoption]] · [[2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman]]
+**Related:** [[2026-08-27-salesforce-and-anthropic-launch-claudeforce-crm-plugin]] · [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin]] · [[2026-06-05-supabase-doubles-to-10-5b-on-ai-coding-tool-adoption]]
 <!-- graph:end -->

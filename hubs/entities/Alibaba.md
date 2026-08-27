@@ -1,15 +1,20 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 289
+member_count: 294
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 289 connected article(s).
+> Auto-generated entity hub. 294 connected article(s).
 
+- `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-an-ai-robot-tax|Bill Gates calls for "human reserved" jobs and an AI/robot tax]]
+- `2026-08-25` [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc|Liquid AI Open-Sources Pipette, a Reproducible On-Device Benchmarking Suite]]
+- `2026-08-25` [[2026-08-25-bytedance-launches-doubao-work-a-unified-office-ai-suitenew|ByteDance launches Doubao Work, a unified office AI suiteNew]]
 - `2026-08-24` [[2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its|XPeng’s robotics arm raises $900M+ at a $6.3B valuation in its first outside round]]
 - `2026-08-24` [[2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi|XPeng Robotics Raises $900M+ at a $6.3B Valuation in Record China Embodied-AI Round]]
+- `2026-08-24` [[2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens|Georgia Tech AI governance through a visiting scholar’s lens]]
+- `2026-08-24` [[2026-08-24-alibaba-sells-10-2b-in-stock-to-fund-ai-shares-plunge-roughl|Alibaba sells $10.2B in stock to fund AI; shares plunge roughly 10%BreakingHot]]
 - `2026-08-24` [[2026-08-24-alibaba-releases-wan3-0-turning-pdfs-and-slide-decks-into-30|Alibaba releases Wan3.0, turning PDFs and slide decks into 30-second video]]
 - `2026-08-24` [[2026-08-24-alibaba-plans-to-raise-10-2-billion-for-ai-investment|Alibaba plans to raise $10.2 billion for AI investment]]
 - `2026-08-24` [[2026-08-24-alibaba-prices-10-2b-hong-kong-share-placement-to-fund-ai-sh|Alibaba Prices $10.2B Hong Kong Share Placement to Fund AI; Shares Fall ~10%]]

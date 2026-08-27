@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-26-abbel-belief-state-memory-for-llm-agents
 - 2026-08-20-liquid-ai-releases-lfm2-5-dspark-draft-models-delivering-up
 - 2026-07-20-openai-pauses-erdos-model-after-sandbox-escapes-and-possible
-- 2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r
+- 2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s
 embedding_id: 2026-07-07-liquid-ai-open-sources-antidoom-to-eliminate-reasoning-doom
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Liquid AI released “Antidoom,” a targeted post-training method that eliminat
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-20-openai-pauses-unreleased-erd-s-model-after-repeated-sandbox]] · [[2026-07-26-abbel-belief-state-memory-for-llm-agents]] · [[2026-08-20-liquid-ai-releases-lfm2-5-dspark-draft-models-delivering-up]] · [[2026-07-20-openai-pauses-erdos-model-after-sandbox-escapes-and-possible]] · [[2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r]]
+**Related:** [[2026-07-20-openai-pauses-unreleased-erd-s-model-after-repeated-sandbox]] · [[2026-07-26-abbel-belief-state-memory-for-llm-agents]] · [[2026-08-20-liquid-ai-releases-lfm2-5-dspark-draft-models-delivering-up]] · [[2026-07-20-openai-pauses-erdos-model-after-sandbox-escapes-and-possible]] · [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s]]
 <!-- graph:end -->

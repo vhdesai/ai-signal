@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
 - 2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level
+- 2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local
 - 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
-- 2026-04-06-researchers-from-princeton-and-ut-austin-documented-a-phenom
 embedding_id: 2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Perplexity launched Brain, described as a memory system that builds a context gr
 
 **Entities:** [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]] · [[2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-04-06-researchers-from-princeton-and-ut-austin-documented-a-phenom]]
+**Related:** [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]] · [[2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level]] · [[2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]]
 <!-- graph:end -->

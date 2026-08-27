@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da
 - 2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto
+- 2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-post-money-valuati
 - 2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its
 - 2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi
-- 2026-08-23-unitree-s-460-ipo-stock-pop-reflects-china-s-ai-robotics-fre
 embedding_id: 2026-07-20-blackstone-invests-in-south-korean-actuator-maker-futronic-6
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Blackstone invested in Futronic, a maker of high-precision actuators for automot
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]] · [[2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto]] · [[2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its]] · [[2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi]] · [[2026-08-23-unitree-s-460-ipo-stock-pop-reflects-china-s-ai-robotics-fre]]
+**Related:** [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]] · [[2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto]] · [[2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-post-money-valuati]] · [[2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its]] · [[2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi]]
 <!-- graph:end -->

@@ -1,13 +1,31 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 727
+member_count: 742
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 727 connected article(s).
+> Auto-generated entity hub. 742 connected article(s).
 
+- `2026-08-26` [[2026-08-26-nvidia-s-1-5-trillion-earnings-question-the-return-on-invest|Nvidia’s $1.5 Trillion Earnings Question: The Return-on-Investment Dilemma]]
+- `2026-08-26` [[2026-08-26-moonshot-ai-in-cloud-revenue-share-talks-with-microsoft-amaz|Moonshot AI in cloud revenue-share talks with Microsoft, Amazon and Google]]
+- `2026-08-26` [[2026-08-26-moonshot-ai-reportedly-in-revenue-share-talks-to-host-kimi-k|Moonshot AI Reportedly in Revenue-Share Talks to Host Kimi K3 on US Clouds]]
+- `2026-08-26` [[2026-08-26-microsoft-and-humain-to-bring-allam-arabic-models-into-found|Microsoft and HUMAIN to bring ALLAM Arabic models into Foundry and Copilot]]
+- `2026-08-26` [[2026-08-26-microsoft-leaving-investors-flying-blind-on-ai-businesses|Microsoft Leaving Investors "Flying Blind" on AI Businesses]]
+- `2026-08-26` [[2026-08-26-microsoft-is-leaving-investors-flying-blind-on-its-ai-busine|Microsoft Is Leaving Investors "Flying Blind" on Its AI Businesses]]
+- `2026-08-26` [[2026-08-26-microsoft-employees-reveal-how-much-cash-they-re-burning-on|Microsoft Employees Reveal How Much Cash They’re Burning on AI]]
+- `2026-08-26` [[2026-08-26-meta-reaches-18b-settlement-with-48-states-over-child-safety|Meta Reaches $18B Settlement With 48 States Over Child-Safety Claims]]
+- `2026-08-26` [[2026-08-26-meta-reaches-18-billion-settlement-with-48-states-over-child|Meta Reaches $18 Billion Settlement With 48 States Over Child-Safety Claims]]
+- `2026-08-26` [[2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif|Custom Silicon Comes for the Incumbent as Enterprise AI Shifts to Controls]]
+- `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-an-ai-robot-tax|Bill Gates calls for "human reserved" jobs and an AI/robot tax]]
+- `2026-08-26` [[2026-08-26-bill-gates-warns-about-ai-risks|Bill Gates Warns About AI Risks]]
+- `2026-08-25` [[2026-08-25-nvidia-q2-fy27-earnings-land-today-as-the-ai-boom-s-scorecar|Nvidia Q2 FY27 Earnings Land Today as the AI Boom's Scorecard]]
+- `2026-08-25` [[2026-08-25-microsoft-paint-and-photos-found-embedding-server-issued-use|Microsoft Paint and Photos Found Embedding Server-Issued, User-Linked Watermarks in AI Images]]
+- `2026-08-25` [[2026-08-25-microsoft-adds-copilot-ai-capabilities-across-excel-in-augus|Microsoft Adds Copilot AI Capabilities Across Excel in August Update]]
+- `2026-08-25` [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc|Liquid AI Open-Sources Pipette, a Reproducible On-Device Benchmarking Suite]]
+- `2026-08-25` [[2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized-alabama-pro|Hugging Face Revenue Jumps 50% to $150M Annualized; Alabama Probes OpenAI Over HF Hack]]
+- `2026-08-24` [[2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens|Georgia Tech AI governance through a visiting scholar’s lens]]
 - `2026-08-23` [[2026-08-23-who-s-behind-the-new-stealth-model-ox-alpha|Who's behind the new 'stealth model' Ox Alpha?]]
 - `2026-08-23` [[2026-08-23-who-s-behind-the-stealth-model-ox-alpha-mystery-deepens|Who's Behind the Stealth Model "Ox Alpha"? — Mystery Deepens]]
 - `2026-08-23` [[2026-08-23-techcrunch-deep-dive-who-s-behind-the-stealth-model-ox-alpha|TechCrunch Deep-Dive: Who's Behind the Stealth Model 'Ox Alpha'?]]
@@ -368,7 +386,6 @@ member_count: 727
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy|Microsoft Build 2026: Agents, agent platforms, and agent lifecycle]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications|Microsoft Build 2026 — Strategic Implications]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-overview|Microsoft Build 2026 — Overview]]
-- `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero|Microsoft Build 2026 Preview: Open standards and agent interoperability]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent|Microsoft Build 2026 Preview: Copilot and Microsoft 365 agents]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model|Microsoft Build 2026 Preview: Azure AI Foundry and MAI model suite]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows|Microsoft Build 2026 Preview: AI-native Windows]]
@@ -660,7 +677,6 @@ member_count: 727
 - `2026-04-22` [[2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams|OpenAI launches Workspace Agents in ChatGPT for Teams]]
 - `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-tpu-8-family|Google Cloud Next 2026: TPU 8 family]]
 - `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-siri-gemini-enterprise-read-through|Google Cloud Next 2026: Siri/Gemini enterprise read-through]]
-- `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs|Google Cloud Next 2026: Partner and adoption programs]]
 - `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform|Google Cloud Next 2026: Gemini Enterprise Agent Platform]]
 - `2026-04-22` [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-2|Google Cloud Next 2026: Enterprise Agent Platform, Gemini Expansion, and Partner Fund — Strategic Implications]]
 - `2026-04-22` [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa|Google Cloud Next 2026: Enterprise Agent Platform, Gemini Expansion, and Partner Fund — Overview]]
@@ -684,7 +700,6 @@ member_count: 727
 - `2026-04-13` [[2026-04-13-industry-news|🏢 Industry News]]
 - `2026-04-13` [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini|Stanford AI Index: World AI Compute Grows 3.3× Per Year; Training Carbon Costs Now "Alarming"]]
 - `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents|RSA Conference 2026 / RSAC 2026: Zero trust for AI agents]]
-- `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-frontier-model-security|RSA Conference 2026 / RSAC 2026: Frontier model security]]
 - `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-soc-products|RSA Conference 2026 / RSAC 2026: Agentic SOC products]]
 - `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-ai-as-opportunity-and|RSA Conference 2026 / RSAC 2026: Agentic AI as opportunity and risk]]
 - `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications|RSA Conference 2026 / RSAC 2026 — Strategic Implications]]

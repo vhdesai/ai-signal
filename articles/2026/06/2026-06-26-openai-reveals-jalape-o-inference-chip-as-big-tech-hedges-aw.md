@@ -25,9 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in
-- 2026-06-25-openai-unveils-its-first-custom-chip-jalape-o-with-broadcom
-- 2026-07-07-reuters-deepseek-developing-its-own-inference-chip-to-cut-nv
-- 2026-07-07-deepseek-developing-its-own-ai-inference-chip-to-cut-nvidia
+- 2026-08-25-openai-publishes-first-jalape-o-chip-benchmarks-claims-effic
+- 2026-08-25-openai-s-jalape-o-chip-is-built-for-fast-inference-at-scale
+- 2026-08-25-openai-publishes-first-jalape-o-benchmarks-claims-efficiency
+- 2026-08-26-openai-publishes-first-jalape-o-inference-benchmarks-claimin
 embedding_id: 2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw
 event_name: ''
 ---
@@ -41,5 +42,5 @@ OpenAI disclosed plans for Jalapeño, a custom inference chip built with Broadco
 
 **Entities:** [[Apple]] · [[Google]] · [[Intel]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in]] · [[2026-06-25-openai-unveils-its-first-custom-chip-jalape-o-with-broadcom]] · [[2026-07-07-reuters-deepseek-developing-its-own-inference-chip-to-cut-nv]] · [[2026-07-07-deepseek-developing-its-own-ai-inference-chip-to-cut-nvidia]]
+**Related:** [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in]] · [[2026-08-25-openai-publishes-first-jalape-o-chip-benchmarks-claims-effic]] · [[2026-08-25-openai-s-jalape-o-chip-is-built-for-fast-inference-at-scale]] · [[2026-08-25-openai-publishes-first-jalape-o-benchmarks-claims-efficiency]] · [[2026-08-26-openai-publishes-first-jalape-o-inference-benchmarks-claimin]]
 <!-- graph:end -->

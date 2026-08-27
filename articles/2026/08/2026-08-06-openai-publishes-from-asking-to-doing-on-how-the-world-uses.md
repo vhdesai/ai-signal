@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million
 - 2026-07-29-chatgpt-nears-1-billion-weekly-active-users
 - 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
 - 2026-07-14-openai-publishes-chatgpt-work-playbooks-for-data-science-and
 - 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
-- 2026-06-18-openai-adds-enterprise-usage-analytics-and-spend-controls
 embedding_id: 2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI released new OpenAI Signals data offering country-by-country insight into
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-chatgpt-nears-1-billion-weekly-active-users]] · [[2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re]] · [[2026-07-14-openai-publishes-chatgpt-work-playbooks-for-data-science-and]] · [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]] · [[2026-06-18-openai-adds-enterprise-usage-analytics-and-spend-controls]]
+**Related:** [[2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million]] · [[2026-07-29-chatgpt-nears-1-billion-weekly-active-users]] · [[2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re]] · [[2026-07-14-openai-publishes-chatgpt-work-playbooks-for-data-science-and]] · [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]]
 <!-- graph:end -->

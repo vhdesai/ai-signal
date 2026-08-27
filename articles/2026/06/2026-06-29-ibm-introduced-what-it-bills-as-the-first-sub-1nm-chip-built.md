@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr
 - 2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand
 - 2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th
-- 2026-04-06-arm-announced-a-136-core-processor-designed-specifically-for
+- 2026-08-23-micron-tells-hot-chips-2026-the-memory-wall-is-widening-not
 embedding_id: 2026-06-29-ibm-introduced-what-it-bills-as-the-first-sub-1nm-chip-built
 event_name: ''
 ---
@@ -39,5 +39,5 @@ IBM introduced what it bills as the first sub‑1nm chip, built on a new transis
 
 **Entities:** [[IBM]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-25-ibm-claims-first-sub-1nm-transistor-a-0-7nm-nanostack-archit]] · [[2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr]] · [[2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand]] · [[2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th]] · [[2026-04-06-arm-announced-a-136-core-processor-designed-specifically-for]]
+**Related:** [[2026-06-25-ibm-claims-first-sub-1nm-transistor-a-0-7nm-nanostack-archit]] · [[2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr]] · [[2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand]] · [[2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th]] · [[2026-08-23-micron-tells-hot-chips-2026-the-memory-wall-is-widening-not]]
 <!-- graph:end -->

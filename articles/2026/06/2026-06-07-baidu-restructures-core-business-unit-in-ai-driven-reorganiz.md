@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-06-08-alibaba-restructures-ai-organization-establishes-token-found
 - 2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and
 - 2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc
+- 2026-08-24-bytedance-merges-ai-teams-to-compete-with-tencenttrending
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
-- 2026-05-13-baidu-create-2026-dumate-miaoda-and-daily-active-agents-as-t
 embedding_id: 2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Baidu restructured its Mobile Ecosystem Group (MEG), merging its commerce and e-
 
 **Entities:** [[Alibaba]] · [[Baidu]] · [[Tencent]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-08-alibaba-restructures-ai-organization-establishes-token-found]] · [[2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and]] · [[2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-13-baidu-create-2026-dumate-miaoda-and-daily-active-agents-as-t]]
+**Related:** [[2026-06-08-alibaba-restructures-ai-organization-establishes-token-found]] · [[2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and]] · [[2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc]] · [[2026-08-24-bytedance-merges-ai-teams-to-compete-with-tencenttrending]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]]
 <!-- graph:end -->

@@ -19,7 +19,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-24-luke-metz-leaves-openai-for-meta-superintelligence-labs
+canonical_article_id: 2026-08-24-former-openai-researcher-luke-metz-joins-meta-s-superintelli
 related_article_ids: []
 embedding_id: 2026-08-24-meta-hires-openai-veteran-luke-metz
 event_name: ''
@@ -34,5 +34,5 @@ AI researcher Luke Metz has joined Meta's Superintelligence Labs. Metz rejoined 
 
 **Entities:** [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-08-24-luke-metz-leaves-openai-for-meta-superintelligence-labs]]
+**Canonical:** [[2026-08-24-former-openai-researcher-luke-metz-joins-meta-s-superintelli]]
 <!-- graph:end -->

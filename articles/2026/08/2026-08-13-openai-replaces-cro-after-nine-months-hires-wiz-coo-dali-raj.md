@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-14-openai-cro-dresser-departs-after-8-months-replaced-by-former
 - 2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by
 - 2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving
-- 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
+- 2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent
 embedding_id: 2026-08-13-openai-replaces-cro-after-nine-months-hires-wiz-coo-dali-raj
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI replaced CRO Denise Dresser after just nine months, hiring Wiz president 
 
 **Entities:** [[IBM]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-14-openai-cro-dresser-departs-after-8-months-replaced-by-former]] · [[2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by]] · [[2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]]
+**Related:** [[2026-08-14-openai-cro-dresser-departs-after-8-months-replaced-by-former]] · [[2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by]] · [[2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving]] · [[2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent]]
 <!-- graph:end -->

@@ -27,7 +27,7 @@ related_article_ids:
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents
-- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-frontier-model-security
+- 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 embedding_id: event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-ai-as-opportunity-and
 event_name: RSA Conference 2026 / RSAC 2026
 ---
@@ -41,5 +41,5 @@ The corpus says 15 cybersecurity CEOs, including leaders from CrowdStrike, Senti
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-frontier-model-security]]
+**Related:** [[2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]]
 <!-- graph:end -->

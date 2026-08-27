@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-08-meta-launches-workforce-academy-to-train-data-center-constru
+- 2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for
 - 2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t
 - 2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute
 - 2026-07-09-meta-to-move-its-in-house-iris-ai-chip-into-production-in-se
-- 2026-07-29-meta-brings-blackrock-into-el-paso-data-center-financing
 embedding_id: 2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Meta is deploying data center infrastructure in tent structures — borrowing a 
 
 **Entities:** [[Meta]] · [[Tesla]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-08-meta-launches-workforce-academy-to-train-data-center-constru]] · [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute]] · [[2026-07-09-meta-to-move-its-in-house-iris-ai-chip-into-production-in-se]] · [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-financing]]
+**Related:** [[2026-06-08-meta-launches-workforce-academy-to-train-data-center-constru]] · [[2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for]] · [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute]] · [[2026-07-09-meta-to-move-its-in-house-iris-ai-chip-into-production-in-se]]
 <!-- graph:end -->

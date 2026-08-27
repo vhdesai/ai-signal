@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-05-amazon-will-stop-accepting-new-customers-for-mechanical-turk
+- 2026-08-26-amazon-to-shut-mechanical-turk-on-september-30-after-21-year
 - 2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha
 - 2026-08-08-shuts-down-creator-revenue-sharing-to-curb-ai-generated-spam
-- 2026-08-17-ai-automation-startup-relay-shuts-down-team-joins-google-s-c
 embedding_id: 2026-07-06-products-amazon-winds-down-mechanical-turk-closing-it-to-new
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Products Amazon winds down Mechanical Turk, closing it to new customers July 5, 
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-05-amazon-will-stop-accepting-new-customers-for-mechanical-turk]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[2026-08-08-shuts-down-creator-revenue-sharing-to-curb-ai-generated-spam]] · [[2026-08-17-ai-automation-startup-relay-shuts-down-team-joins-google-s-c]]
+**Related:** [[2026-07-05-amazon-will-stop-accepting-new-customers-for-mechanical-turk]] · [[2026-08-26-amazon-to-shut-mechanical-turk-on-september-30-after-21-year]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[2026-08-08-shuts-down-creator-revenue-sharing-to-curb-ai-generated-spam]]
 <!-- graph:end -->

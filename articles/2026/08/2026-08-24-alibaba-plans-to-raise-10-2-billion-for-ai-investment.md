@@ -21,6 +21,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-24-alibaba-sells-10-2b-in-stock-to-fund-ai-shares-plunge-roughl
 - 2026-08-24-alibaba-plunges-after-announcing-10-2-billion-share-placemen
 - 2026-08-24-alibaba-prices-10-2b-hong-kong-share-placement-to-fund-ai-sh
 embedding_id: 2026-08-24-alibaba-plans-to-raise-10-2-billion-for-ai-investment
@@ -36,5 +37,5 @@ The Wall Street Journal reported that Alibaba plans to raise $10.2 billion throu
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-24-alibaba-plunges-after-announcing-10-2-billion-share-placemen]] · [[2026-08-24-alibaba-prices-10-2b-hong-kong-share-placement-to-fund-ai-sh]]
+**Related:** [[2026-08-24-alibaba-sells-10-2b-in-stock-to-fund-ai-shares-plunge-roughl]] · [[2026-08-24-alibaba-plunges-after-announcing-10-2-billion-share-placemen]] · [[2026-08-24-alibaba-prices-10-2b-hong-kong-share-placement-to-fund-ai-sh]]
 <!-- graph:end -->

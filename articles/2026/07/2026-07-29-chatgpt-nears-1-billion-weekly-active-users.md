@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million
 - 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
 - 2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses
+- 2026-08-27-openai-to-start-showing-ads-on-chatgpt-free-and-go-tiers-in
 - 2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti
-- 2026-08-11-google-s-gemini-app-crosses-one-billion-monthly-users
 embedding_id: 2026-07-29-chatgpt-nears-1-billion-weekly-active-users
 event_name: ''
 ---
@@ -38,5 +39,5 @@ OpenAI’s ChatGPT is nearing 1 billion weekly active users, according to intern
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re]] · [[2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses]] · [[2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti]] · [[2026-08-11-google-s-gemini-app-crosses-one-billion-monthly-users]]
+**Related:** [[2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million]] · [[2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re]] · [[2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses]] · [[2026-08-27-openai-to-start-showing-ads-on-chatgpt-free-and-go-tiers-in]] · [[2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti]]
 <!-- graph:end -->

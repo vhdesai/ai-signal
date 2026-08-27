@@ -75,7 +75,44 @@ up on the next run (already-repaired links are skipped).
   (state, attempted, repaired, unresolved, deferred, elapsed). Both files are
   git-ignored.
 
-## Data sync
+## Content quality (substantial articles only)
+
+Every published article must carry **substantial information**; fragments and
+snippet-only stubs are excluded automatically during the `split` stage and never
+reach the site:
+
+- Articles below `_MIN_BODY_WORDS` (default **30 words ≈ 4–5 lines**) are dropped
+  (`skipped_thin_articles`). This bar applies to **all** article paths —
+  daily-digest, narrative, **and event-file** articles.
+- Mis-parsed digest mastheads (`source` starting "Compiled"/"Prepared for") and
+  `*_Publication-Sources.md` files are dropped.
+- Source/URL citation lists are preserved; only pure editorial-process notes are
+  stripped.
+
+To tune the threshold, edit `_MIN_BODY_WORDS` in `source/news_trends/split.py`.
+See `ARCHITECTURE.md` → "Split → Substantial-content requirement" for details.
+After any rebuild, verify no thin fragments leaked (spot-check the newest
+`site/snapshots/*.html`).
+
+## Merging missing source markdowns before a rebuild
+
+New daily digests are authored in the internal Obsidian pipeline first. Before a
+full rebuild, copy any markdowns present in the Obsidian `news/` folder but
+missing from this repo's `news/` folder, then re-ingest:
+
+```pwsh
+$eh = 'news'
+$ob = '..\Obsidian\news'   # adjust to the Obsidian repo's news path
+$have = (Get-ChildItem $eh -Filter *.md).Name
+Get-ChildItem $ob -Filter *.md |
+  Where-Object { $_.Name -notin $have } |
+  ForEach-Object { Copy-Item $_.FullName (Join-Path $eh $_.Name) -Force }
+```
+
+`ingest` then picks up the newly copied files (hash-based, idempotent). Multiple
+digests per day are fine — `dedupe` collapses them.
+
+
 
 Copy pipeline data (SQLite DB + ChromaDB) from the internal Obsidian pipeline:
 

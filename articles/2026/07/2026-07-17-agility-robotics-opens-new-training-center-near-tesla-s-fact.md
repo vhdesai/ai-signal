@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-05-agility-robotics-is-going-public-via-spac
 - 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
+- 2026-08-25-robotics-startup-generalist-reaches-3b-valuation
 - 2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a
 - 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
-- 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
 embedding_id: 2026-07-17-agility-robotics-opens-new-training-center-near-tesla-s-fact
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Agility Robotics is opening a 60,000-square-foot facility in Fremont, California
 
 **Entities:** [[Amazon]] · [[Tesla]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-05-agility-robotics-is-going-public-via-spac]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]] · [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]]
+**Related:** [[2026-07-05-agility-robotics-is-going-public-via-spac]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]] · [[2026-08-25-robotics-startup-generalist-reaches-3b-valuation]] · [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]]
 <!-- graph:end -->

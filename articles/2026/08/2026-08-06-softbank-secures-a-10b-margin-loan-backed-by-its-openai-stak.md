@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion
 - 2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta
 - 2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new
-- 2026-05-26-senior-figures-inside-softbank-are-reportedly-questioning-wh
+- 2026-08-26-softbank-weighs-a-10-20b-bond-sale-to-refinance-its-openai-p
 embedding_id: 2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak
 event_name: ''
 ---
@@ -38,5 +38,5 @@ SoftBank Group arranged a $10 billion margin loan collateralized by its ownershi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta]] · [[2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new]] · [[2026-05-26-senior-figures-inside-softbank-are-reportedly-questioning-wh]]
+**Related:** [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta]] · [[2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new]] · [[2026-08-26-softbank-weighs-a-10-20b-bond-sale-to-refinance-its-openai-p]]
 <!-- graph:end -->

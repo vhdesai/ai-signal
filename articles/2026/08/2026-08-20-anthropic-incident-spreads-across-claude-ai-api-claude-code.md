@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl
 - 2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
-- 2026-06-06-anthropic-suffers-multi-model-claude-outage
+- 2026-08-24-anthropic-resolves-a-multi-model-claude-outage-after-a-month
 embedding_id: 2026-08-20-anthropic-incident-spreads-across-claude-ai-api-claude-code
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Anthropic opened an incident after elevated error rates hit requests across a br
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl]] · [[2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]]
+**Related:** [[2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl]] · [[2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]] · [[2026-08-24-anthropic-resolves-a-multi-model-claude-outage-after-a-month]]
 <!-- graph:end -->

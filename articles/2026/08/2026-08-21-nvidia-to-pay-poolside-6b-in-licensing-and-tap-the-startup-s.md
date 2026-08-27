@@ -19,8 +19,9 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-21-nvidia-strikes-a-7b-license-and-hire-deal-with-poolside
-related_article_ids: []
+canonical_article_id: 2026-08-21-nvidia-to-pay-poolside-6b-for-a-non-exclusive-license-and-hi
+related_article_ids:
+- 2026-08-24-nvidia-pays-6-billion-to-license-poolside-s-ai-model-factory
 embedding_id: 2026-08-21-nvidia-to-pay-poolside-6b-in-licensing-and-tap-the-startup-s
 event_name: ''
 ---
@@ -34,5 +35,6 @@ Nvidia agreed to pay roughly $6B under a non-exclusive technology licence with A
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-08-21-nvidia-strikes-a-7b-license-and-hire-deal-with-poolside]]
+**Canonical:** [[2026-08-21-nvidia-to-pay-poolside-6b-for-a-non-exclusive-license-and-hi]]
+**Related:** [[2026-08-24-nvidia-pays-6-billion-to-license-poolside-s-ai-model-factory]]
 <!-- graph:end -->

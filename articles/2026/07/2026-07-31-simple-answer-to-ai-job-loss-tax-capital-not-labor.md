@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-wsj-argues-ai-job-loss-policy-should-tax-capital-not-labor
+- 2026-08-26-bill-gates-proposes-robot-tax-and-human-reserved-jobs
+- 2026-08-26-bill-gates-proposes-robot-tax-and-human-reserved-jobs-to-mit
+- 2026-08-26-bill-gates-calls-for-a-robot-tax-and-human-reserved-jobs
 - 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
-- 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
-- 2026-07-02-brookings-fed-working-paper-ai-s-projected-2-2t-deficit-redu
-- 2026-08-12-anthropic-worker-retraining-programs-may-not-scale-to-ai-dis
 embedding_id: 2026-07-31-simple-answer-to-ai-job-loss-tax-capital-not-labor
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Wall Street Journal publishes a detailed policy analysis arguing that the mo
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-31-wsj-argues-ai-job-loss-policy-should-tax-capital-not-labor]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-07-02-brookings-fed-working-paper-ai-s-projected-2-2t-deficit-redu]] · [[2026-08-12-anthropic-worker-retraining-programs-may-not-scale-to-ai-dis]]
+**Related:** [[2026-07-31-wsj-argues-ai-job-loss-policy-should-tax-capital-not-labor]] · [[2026-08-26-bill-gates-proposes-robot-tax-and-human-reserved-jobs]] · [[2026-08-26-bill-gates-proposes-robot-tax-and-human-reserved-jobs-to-mit]] · [[2026-08-26-bill-gates-calls-for-a-robot-tax-and-human-reserved-jobs]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]]
 <!-- graph:end -->

@@ -1,13 +1,25 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 363
+member_count: 375
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 363 connected article(s).
+> Auto-generated entity hub. 375 connected article(s).
 
+- `2026-08-26` [[2026-08-26-deepseek-s-revenue-reaches-70-million-as-of-july-tenfold-jum|DeepSeek's Revenue Reaches $70 Million as of July — Tenfold Jump from 2025]]
+- `2026-08-26` [[2026-08-26-deepseek-nears-74b-pre-ipo-round-eyes-2027-star-market-debut|DeepSeek nears ~$74B pre-IPO round, eyes 2027 STAR Market debut]]
+- `2026-08-26` [[2026-08-26-deepseek-revenue-reaches-70m-through-july-tenfold-jump-from|DeepSeek Revenue Reaches $70M Through July—Tenfold Jump From 2025]]
+- `2026-08-26` [[2026-08-26-deepseek-revenue-reaches-70-million-through-july-tenfold-jum|DeepSeek Revenue Reaches $70 Million Through July — Tenfold Jump From 2025]]
+- `2026-08-26` [[2026-08-26-deepseek-revenue-reaches-70-million-through-july-10x-jump-fr|DeepSeek Revenue Reaches $70 Million Through July — 10x Jump from 2025]]
+- `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-an-ai-robot-tax|Bill Gates calls for "human reserved" jobs and an AI/robot tax]]
+- `2026-08-26` [[2026-08-26-bill-gates-warns-about-ai-risks|Bill Gates Warns About AI Risks]]
+- `2026-08-25` [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc|Liquid AI Open-Sources Pipette, a Reproducible On-Device Benchmarking Suite]]
+- `2026-08-25` [[2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized-alabama-pro|Hugging Face Revenue Jumps 50% to $150M Annualized; Alabama Probes OpenAI Over HF Hack]]
+- `2026-08-25` [[2026-08-25-deepseek-reportedly-testing-a-new-coding-model|DeepSeek Reportedly Testing a New Coding Model]]
+- `2026-08-24` [[2026-08-24-nvidia-pays-6-billion-to-license-poolside-s-ai-model-factory|Nvidia pays $6 billion to license Poolside’s AI “model factory”BreakingHot]]
+- `2026-08-24` [[2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens|Georgia Tech AI governance through a visiting scholar’s lens]]
 - `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
 - `2026-08-23` [[2026-08-23-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-g|FreeToken: an edge-native MoE serving engine that runs 753B GLM-5.2 on a single workstation GPU]]
 - `2026-08-22` [[2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma|Saturday coverage: AI content demand strains the rare-book market]]

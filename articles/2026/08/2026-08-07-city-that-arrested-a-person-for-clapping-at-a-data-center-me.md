@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats
 - 2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo
 - 2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil
-- 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
+- 2026-08-27-alabama-demands-details-from-openai-lawmakers-sound-alarm-on
 embedding_id: 2026-08-07-city-that-arrested-a-person-for-clapping-at-a-data-center-me
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Emporia, Kansas held its city commission meeting virtually with no public commen
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats]] · [[2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo]] · [[2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]]
+**Related:** [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats]] · [[2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo]] · [[2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil]] · [[2026-08-27-alabama-demands-details-from-openai-lawmakers-sound-alarm-on]]
 <!-- graph:end -->

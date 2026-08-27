@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t
 - 2026-06-10-oracle-reports-record-q4-oci-revenue-surges-93-yoy-ai-backlo
 - 2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman
-- 2026-07-16-tsmc-posts-record-q2-revenue-as-ai-chip-demand-holds
+- 2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt
 embedding_id: 2026-08-13-lenovo-posts-record-26-9b-quarter-as-ai-related-revenue-jump
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Lenovo reported record quarterly revenue of $26.9 billion, up 43% year over year
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-13-lenovo-profits-soar-past-expectations-on-ai-computers-server]] · [[2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t]] · [[2026-06-10-oracle-reports-record-q4-oci-revenue-surges-93-yoy-ai-backlo]] · [[2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman]] · [[2026-07-16-tsmc-posts-record-q2-revenue-as-ai-chip-demand-holds]]
+**Related:** [[2026-08-13-lenovo-profits-soar-past-expectations-on-ai-computers-server]] · [[2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t]] · [[2026-06-10-oracle-reports-record-q4-oci-revenue-surges-93-yoy-ai-backlo]] · [[2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman]] · [[2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt]]
 <!-- graph:end -->

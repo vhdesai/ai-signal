@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-openai-ships-a-less-restricted-cyber-model-for-defenders-und
+- 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
 - 2026-07-21-openai-says-its-pre-release-models-breached-hugging-face-dur
+- 2026-08-26-openai-s-hugging-face-breach-report-finds-agents-were-reward
 - 2026-05-14-openai-discloses-security-incident-code-repository-data-stol
-- 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
-- 2026-08-07-openai-pauses-astra-model-development-after-reaching-critica
 embedding_id: 2026-08-19-researchers-say-openai-revoked-their-access-to-cyber-securit
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Security researchers report that OpenAI revoked their access to the "Trusted Acc
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-10-openai-ships-a-less-restricted-cyber-model-for-defenders-und]] · [[2026-07-21-openai-says-its-pre-release-models-breached-hugging-face-dur]] · [[2026-05-14-openai-discloses-security-incident-code-repository-data-stol]] · [[2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach]] · [[2026-08-07-openai-pauses-astra-model-development-after-reaching-critica]]
+**Related:** [[2026-08-10-openai-ships-a-less-restricted-cyber-model-for-defenders-und]] · [[2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre]] · [[2026-07-21-openai-says-its-pre-release-models-breached-hugging-face-dur]] · [[2026-08-26-openai-s-hugging-face-breach-report-finds-agents-were-reward]] · [[2026-05-14-openai-discloses-security-incident-code-repository-data-stol]]
 <!-- graph:end -->

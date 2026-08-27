@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-02-mit-researchers-developed-a-new-ai-model-that-measures-atomi
 - 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
+- 2026-08-26-mit-ai-helps-design-new-materials-that-work-in-the-real-worl
+- 2026-08-26-mit-s-crysvcd-designs-ai-generated-materials-that-are-actual
 - 2026-08-10-discovered-materials-applies-ai-to-the-search-for-cooler-run
-- 2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis
-- 2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co
 embedding_id: 2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT researchers developed an AI model that characterizes atomic-level defects in
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-02-mit-researchers-developed-a-new-ai-model-that-measures-atomi]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-08-10-discovered-materials-applies-ai-to-the-search-for-cooler-run]] · [[2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis]] · [[2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co]]
+**Related:** [[2026-04-02-mit-researchers-developed-a-new-ai-model-that-measures-atomi]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-08-26-mit-ai-helps-design-new-materials-that-work-in-the-real-worl]] · [[2026-08-26-mit-s-crysvcd-designs-ai-generated-materials-that-are-actual]] · [[2026-08-10-discovered-materials-applies-ai-to-the-search-for-cooler-run]]
 <!-- graph:end -->

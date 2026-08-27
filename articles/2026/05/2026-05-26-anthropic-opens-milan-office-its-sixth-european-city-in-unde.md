@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-anthropic-appoints-kiyoung-choi-as-representative-director-o
+- 2026-08-25-openai-dc-head-departs-anthropic-expected-to-file-s-1
 - 2026-07-27-anthropic-publishes-its-position-on-open-weight-models-amode
 - 2026-08-11-anthropic-targets-a-september-october-ipo-moving-ahead-of-op
 embedding_id: 2026-05-26-anthropic-opens-milan-office-its-sixth-european-city-in-unde
@@ -36,5 +37,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-anthropic-appoints-kiyoung-choi-as-representative-director-o]] · [[2026-07-27-anthropic-publishes-its-position-on-open-weight-models-amode]] · [[2026-08-11-anthropic-targets-a-september-october-ipo-moving-ahead-of-op]]
+**Related:** [[2026-05-26-anthropic-appoints-kiyoung-choi-as-representative-director-o]] · [[2026-08-25-openai-dc-head-departs-anthropic-expected-to-file-s-1]] · [[2026-07-27-anthropic-publishes-its-position-on-open-weight-models-amode]] · [[2026-08-11-anthropic-targets-a-september-october-ipo-moving-ahead-of-op]]
 <!-- graph:end -->

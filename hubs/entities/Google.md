@@ -1,13 +1,45 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1103
+member_count: 1132
 ---
 
 # Google
 
-> Auto-generated entity hub. 1103 connected article(s).
+> Auto-generated entity hub. 1132 connected article(s).
 
+- `2026-08-27` [[2026-08-27-thinking-machines-co-founder-barret-zoph-joins-google-deepmi|Thinking Machines co-founder Barret Zoph joins Google DeepMind as VP of Research]]
+- `2026-08-27` [[2026-08-27-google-adds-agentic-cost-controls-cios-still-waiting-for-ai|Google Adds Agentic Cost Controls; CIOs Still Waiting for AI Savings]]
+- `2026-08-27` [[2026-08-27-anthropic-adds-a-native-browser-to-the-claude-cowork-desktop|Anthropic Adds a Native Browser to the Claude Cowork Desktop App]]
+- `2026-08-26` [[2026-08-26-techcrunch-google-s-gemini-has-a-branding-problem-and-so-doe|TechCrunch: Google's Gemini has a branding problem — and so does the rest of AI]]
+- `2026-08-26` [[2026-08-26-moonshot-ai-in-cloud-revenue-share-talks-with-microsoft-amaz|Moonshot AI in cloud revenue-share talks with Microsoft, Amazon and Google]]
+- `2026-08-26` [[2026-08-26-moonshot-ai-reportedly-in-revenue-share-talks-to-host-kimi-k|Moonshot AI Reportedly in Revenue-Share Talks to Host Kimi K3 on US Clouds]]
+- `2026-08-26` [[2026-08-26-meta-reaches-18b-settlement-with-48-states-over-child-safety|Meta Reaches $18B Settlement With 48 States Over Child-Safety Claims]]
+- `2026-08-26` [[2026-08-26-meta-reaches-18-billion-settlement-with-48-states-over-child|Meta Reaches $18 Billion Settlement With 48 States Over Child-Safety Claims]]
+- `2026-08-26` [[2026-08-26-google-research-introduces-glucofm-a-0-72m-parameter-foundat|Google Research introduces GlucoFM, a 0.72M-parameter foundation model for glucose monitoring]]
+- `2026-08-26` [[2026-08-26-google-releases-gemini-3-5-transcribe-85-languages-speaker-a|Google Releases Gemini 3.5 Transcribe — 85+ Languages, Speaker Attribution]]
+- `2026-08-26` [[2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-and-pre|Google Releases Gemini 3.5 Transcribe for Streaming and Pre-Recorded Speech-to-Text]]
+- `2026-08-26` [[2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-speech-t|Google Releases Gemini 3.5 Transcribe for Streaming Speech-to-Text]]
+- `2026-08-26` [[2026-08-26-google-launches-gemini-3-5-transcribe-its-most-precise-speec|Google Launches Gemini 3.5 Transcribe, Its "Most Precise" Speech-to-Text Model]]
+- `2026-08-26` [[2026-08-26-google-deepmind-ships-gemini-3-5-transcribe-with-2-6-word-er|Google DeepMind ships Gemini 3.5 Transcribe with 2.6% word error rate]]
+- `2026-08-26` [[2026-08-26-google-cloud-expands-gemini-enterprise-into-legal-and-financ|Google Cloud Expands Gemini Enterprise into Legal and Financial Services]]
+- `2026-08-26` [[2026-08-26-gemini-live-gains-agentic-task-execution-through-spark|Gemini Live gains agentic task execution through Spark]]
+- `2026-08-26` [[2026-08-26-gemini-live-gains-agentic-spark-tasks-daily-brief-and-voice|Gemini Live gains agentic Spark Tasks, Daily Brief and voice inbox control]]
+- `2026-08-26` [[2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif|Custom Silicon Comes for the Incumbent as Enterprise AI Shifts to Controls]]
+- `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-an-ai-robot-tax|Bill Gates calls for "human reserved" jobs and an AI/robot tax]]
+- `2026-08-26` [[2026-08-26-anthropic-signs-45b-compute-deal-with-nscale-for-vera-rubin|Anthropic Signs $45B Compute Deal with Nscale for Vera Rubin Chips]]
+- `2026-08-26` [[2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin|Anthropic Commits ~$45B to Nscale for Six Years of Vera Rubin Compute]]
+- `2026-08-25` [[2026-08-25-superstep-capital-backs-zencore-to-build-independent-google|Superstep Capital backs Zencore to build independent Google Cloud AI services platform]]
+- `2026-08-25` [[2026-08-25-superstep-capital-invests-in-zencore-to-build-an-independent|Superstep Capital Invests in Zencore to Build an Independent Google Cloud AI Services Platform]]
+- `2026-08-25` [[2026-08-25-relativity-integrates-google-cloud-s-gemini-enterprise-for-l|Relativity integrates Google Cloud’s Gemini Enterprise for Legal]]
+- `2026-08-25` [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc|Liquid AI Open-Sources Pipette, a Reproducible On-Device Benchmarking Suite]]
+- `2026-08-25` [[2026-08-25-keenable-exits-stealth-with-26m-to-build-a-web-search-index|Keenable Exits Stealth with $26M to Build a Web Search Index for AI Agents]]
+- `2026-08-25` [[2026-08-25-keenable-exits-stealth-with-26m-to-build-web-search-index-fo|Keenable Exits Stealth With $26M to Build Web Search Index for AI Agents]]
+- `2026-08-25` [[2026-08-25-google-expands-its-gemini-platform-for-law-firms-and-lawyers|Google expands its Gemini platform for law firms and lawyersNew]]
+- `2026-08-25` [[2026-08-25-google-launches-gemini-enterprise-for-financial-services-wit|Google Launches Gemini Enterprise for Financial Services With Deutsche Bank as Design Partner]]
+- `2026-08-24` [[2026-08-24-meta-plans-to-launch-ai-agent-platform-hatch-in-coming-weeks|Meta Plans to Launch AI Agent Platform "Hatch" in Coming Weeks; New "Watermark" Model in October]]
+- `2026-08-24` [[2026-08-24-google-research-and-usc-introduce-me-pois-folding-human-mobi|Google Research and USC introduce ME-POIs, folding human-mobility patterns into place embeddingsNew]]
+- `2026-08-24` [[2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens|Georgia Tech AI governance through a visiting scholar’s lens]]
 - `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
 - `2026-08-23` [[2026-08-23-claude-deepens-google-workspace-integration-chatgpt-gains-dr|Claude Deepens Google Workspace Integration; ChatGPT Gains Drive File Editing]]
 - `2026-08-22` [[2026-08-22-study-frontier-labs-have-few-published-plans-for-containing|Study: Frontier Labs Have Few Published Plans for Containing a Rogue Model]]
@@ -551,7 +583,6 @@ member_count: 1103
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Overview]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference|Apple WWDC 2026 Preview: On-device AI and private inference]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy|Apple WWDC 2026 Preview: App Store and agent policy]]
-- `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence|Apple WWDC 2026 Preview: Accessibility and Apple Intelligence]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications|Apple WWDC 2026 Preview — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview|Apple WWDC 2026 Preview — Overview]]
 - `2026-06-08` [[2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli|Apple Unveils "Siri AI," iOS 27, and Comprehensive Apple Intelligence Overhaul at WWDC]]
@@ -650,7 +681,6 @@ member_count: 1103
 - `2026-05-26` [[2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g|AI Subscription Tiers Restructured Across OpenAI, Anthropic, Google, and xAI]]
 - `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-optany-optimize-anything|ACM CAIS 2026: optany / optimize_anything]]
 - `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-tressoir|ACM CAIS 2026: Tressoir]]
-- `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-conference-program-and-speakers|ACM CAIS 2026: Conference program and speakers]]
 - `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild|ACM CAIS 2026: AI Agents for Discovery in the Wild]]
 - `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-strategic-implications|ACM CAIS 2026 — Strategic Implications]]
 - `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-overview|ACM CAIS 2026 — Overview]]
@@ -1023,7 +1053,6 @@ member_count: 1103
 - `2026-04-22` [[2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat|OpenAI Releases GPT-5.5 and GPT-5.5 Pro, Now Available on Databricks Hot]]
 - `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-tpu-8-family|Google Cloud Next 2026: TPU 8 family]]
 - `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-siri-gemini-enterprise-read-through|Google Cloud Next 2026: Siri/Gemini enterprise read-through]]
-- `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs|Google Cloud Next 2026: Partner and adoption programs]]
 - `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform|Google Cloud Next 2026: Gemini Enterprise Agent Platform]]
 - `2026-04-22` [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-2|Google Cloud Next 2026: Enterprise Agent Platform, Gemini Expansion, and Partner Fund — Strategic Implications]]
 - `2026-04-22` [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa|Google Cloud Next 2026: Enterprise Agent Platform, Gemini Expansion, and Partner Fund — Overview]]

@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci
 - 2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio
+- 2026-08-24-stanford-entry-level-employment-in-the-most-ai-exposed-jobs
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
-- 2026-04-13-source-mit-csail-uc-berkeley-national-day-today
 embedding_id: 2026-06-29-stanford-ai-hiring-tools-show-racial-bias-that-hides-job-by
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A Stanford study analyzing 4M+ applications screened by a single vendor's game-b
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci]] · [[2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-04-13-source-mit-csail-uc-berkeley-national-day-today]]
+**Related:** [[2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci]] · [[2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio]] · [[2026-08-24-stanford-entry-level-employment-in-the-most-ai-exposed-jobs]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]]
 <!-- graph:end -->

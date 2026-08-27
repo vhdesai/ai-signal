@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
 - 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
-- 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
+- 2026-08-26-microsoft-is-leaving-investors-flying-blind-on-its-ai-busine
 embedding_id: 2026-08-04-microsoft-closes-up-for-2026-finally
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Information reports that Microsoft's stock has finally closed positive for 2
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-30-thursday-july-30-2026]] · [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]]
+**Related:** [[2026-07-30-thursday-july-30-2026]] · [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-08-26-microsoft-is-leaving-investors-flying-blind-on-its-ai-busine]]
 <!-- graph:end -->

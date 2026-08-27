@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co
 - 2026-07-21-openai-says-its-pre-release-models-breached-hugging-face-dur
 - 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
-- 2026-08-18-openai-institutes-new-safety-protocols-after-hugging-face-br
+- 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
 embedding_id: 2026-07-27-openai-s-hugging-face-breach-reignites-alignment-and-control
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TechCrunch reports that OpenAI's Hugging Face breach has split researchers betwe
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co]] · [[2026-07-21-openai-says-its-pre-release-models-breached-hugging-face-dur]] · [[2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach]] · [[2026-08-18-openai-institutes-new-safety-protocols-after-hugging-face-br]]
+**Related:** [[2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co]] · [[2026-07-21-openai-says-its-pre-release-models-breached-hugging-face-dur]] · [[2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach]] · [[2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre]]
 <!-- graph:end -->

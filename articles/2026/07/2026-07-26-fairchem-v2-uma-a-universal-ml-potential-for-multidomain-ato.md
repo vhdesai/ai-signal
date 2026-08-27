@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-26-fairchem-v2-uma-targets-multidomain-atomistic-simulation
 - 2026-08-20-mit-uses-machine-learning-to-screen-catalysts-for-greener-am
+- 2026-08-26-mit-s-crysvcd-raises-ai-generated-materials-stability-to-70
 - 2026-07-13-openai-s-sol-ultra-proof-claim-draws-scrutiny-from-mathemati
 embedding_id: 2026-07-26-fairchem-v2-uma-a-universal-ml-potential-for-multidomain-ato
 event_name: ''
@@ -37,5 +38,5 @@ MarkTechPost published a hands-on tutorial for FAIRChem v2 and Meta FAIR’s UMA
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-26-fairchem-v2-uma-targets-multidomain-atomistic-simulation]] · [[2026-08-20-mit-uses-machine-learning-to-screen-catalysts-for-greener-am]] · [[2026-07-13-openai-s-sol-ultra-proof-claim-draws-scrutiny-from-mathemati]]
+**Related:** [[2026-07-26-fairchem-v2-uma-targets-multidomain-atomistic-simulation]] · [[2026-08-20-mit-uses-machine-learning-to-screen-catalysts-for-greener-am]] · [[2026-08-26-mit-s-crysvcd-raises-ai-generated-materials-stability-to-70]] · [[2026-07-13-openai-s-sol-ultra-proof-claim-draws-scrutiny-from-mathemati]]
 <!-- graph:end -->

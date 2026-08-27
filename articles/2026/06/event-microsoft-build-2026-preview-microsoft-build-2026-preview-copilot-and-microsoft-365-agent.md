@@ -24,7 +24,6 @@ canonical_article_id: null
 related_article_ids:
 - event-microsoft-build-2026-microsoft-build-2026-overview
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
-- event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
 - event-microsoft-build-2026-microsoft-build-2026-microsoft-365-teams-marketplace-and-eco
 embedding_id: event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent
@@ -40,5 +39,5 @@ Build is expected to connect Microsoft 365 Copilot, Copilot Studio, Agent 365, a
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-365-teams-marketplace-and-eco]]
+**Related:** [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-365-teams-marketplace-and-eco]]
 <!-- graph:end -->

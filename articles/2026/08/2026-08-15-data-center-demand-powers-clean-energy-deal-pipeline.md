@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient
 - 2026-08-15-nvidia-in-talks-to-invest-3b-in-softbank-s-sb-energy-for-ope
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
-- 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
+- 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
 embedding_id: 2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline
 event_name: ''
 ---
@@ -36,5 +36,5 @@ PE investment in clean energy fell 62.3% quarter-over-quarter to $24.5 billion i
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]] · [[2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient]] · [[2026-08-15-nvidia-in-talks-to-invest-3b-in-softbank-s-sb-energy-for-ope]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs]]
+**Related:** [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]] · [[2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient]] · [[2026-08-15-nvidia-in-talks-to-invest-3b-in-softbank-s-sb-energy-for-ope]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]]
 <!-- graph:end -->

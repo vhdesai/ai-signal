@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development
 - 2026-07-15-nvidia-introduces-jetson-thor-t3000-t2000-for-mainstream-rob
+- 2026-08-25-nvidia-unveils-jetson-orin-nano-2-for-entry-level-edge-ai-an
 - 2026-05-22-nvidia-sweeps-computex-2026-best-choice-awards-vera-rubin-nv
-- 2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve
 embedding_id: 2026-07-23-nvidia-jetson-gpus-are-headed-to-the-lunar-surface
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechCrunch reports that Lunar Outpost plans to use NVIDIA Jetson chips in its ne
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development]] · [[2026-07-15-nvidia-introduces-jetson-thor-t3000-t2000-for-mainstream-rob]] · [[2026-05-22-nvidia-sweeps-computex-2026-best-choice-awards-vera-rubin-nv]] · [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve]]
+**Related:** [[2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development]] · [[2026-07-15-nvidia-introduces-jetson-thor-t3000-t2000-for-mainstream-rob]] · [[2026-08-25-nvidia-unveils-jetson-orin-nano-2-for-entry-level-edge-ai-an]] · [[2026-05-22-nvidia-sweeps-computex-2026-best-choice-awards-vera-rubin-nv]]
 <!-- graph:end -->

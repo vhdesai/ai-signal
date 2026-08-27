@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi
-- 2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia
-- 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
-- 2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu
-- 2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve
+- 2026-08-26-amazon-triples-its-nvidia-gpu-commitment-2-million-chips-thr
+- 2026-08-26-amazon-triples-its-nvidia-gpu-commitment-adding-2-million-ch
+- 2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through
+- 2026-08-26-amazon-triples-its-nvidia-gpu-order-adding-2-million-chips
 embedding_id: 2026-05-15-amazon-s-secret-titus-project-future-proofs-data-centers-for
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Business Insider's Eugene Kim revealed Amazon's secretive “Titus” initiative
 
 **Entities:** [[Amazon]] · [[Cerebras]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi]] · [[2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu]] · [[2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve]]
+**Related:** [[2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi]] · [[2026-08-26-amazon-triples-its-nvidia-gpu-commitment-2-million-chips-thr]] · [[2026-08-26-amazon-triples-its-nvidia-gpu-commitment-adding-2-million-ch]] · [[2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through]] · [[2026-08-26-amazon-triples-its-nvidia-gpu-order-adding-2-million-chips]]
 <!-- graph:end -->

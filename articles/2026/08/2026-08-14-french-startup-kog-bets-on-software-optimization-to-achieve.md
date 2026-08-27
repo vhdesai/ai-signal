@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-kog-aims-to-squeeze-more-inference-throughput-from-conventio
+- 2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti
 - 2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere
 - 2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon
-- 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
-- 2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra
+- 2026-08-25-openai-s-jalape-o-chip-posts-inference-benchmarks-beating-nv
 embedding_id: 2026-08-14-french-startup-kog-bets-on-software-optimization-to-achieve
 event_name: ''
 ---
@@ -42,5 +42,5 @@ French startup Kog is building a GPU inference optimization engine that demonstr
 
 **Entities:** [[AMD]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-14-kog-aims-to-squeeze-more-inference-throughput-from-conventio]] · [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere]] · [[2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon]] · [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra]]
+**Related:** [[2026-08-14-kog-aims-to-squeeze-more-inference-throughput-from-conventio]] · [[2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti]] · [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere]] · [[2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon]] · [[2026-08-25-openai-s-jalape-o-chip-posts-inference-benchmarks-beating-nv]]
 <!-- graph:end -->

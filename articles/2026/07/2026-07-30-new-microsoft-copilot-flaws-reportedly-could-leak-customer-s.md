@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-30-new-microsoft-copilot-vulnerabilities-could-leak-customer-se
 - 2026-08-19-microsoft-patches-one-click-copilot-data-exfiltration-flaw-a
 - 2026-08-20-varonis-details-cosnitch-one-click-vulnerability-in-microsof
-- 2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit
+- 2026-08-26-microsoft-leaving-investors-flying-blind-on-ai-businesses
 embedding_id: 2026-07-30-new-microsoft-copilot-flaws-reportedly-could-leak-customer-s
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Information reported that separate cybersecurity firms found previously unre
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-30-new-microsoft-copilot-security-flaws-show-how-ai-can-leak-cu]] · [[2026-07-30-new-microsoft-copilot-vulnerabilities-could-leak-customer-se]] · [[2026-08-19-microsoft-patches-one-click-copilot-data-exfiltration-flaw-a]] · [[2026-08-20-varonis-details-cosnitch-one-click-vulnerability-in-microsof]] · [[2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit]]
+**Related:** [[2026-07-30-new-microsoft-copilot-security-flaws-show-how-ai-can-leak-cu]] · [[2026-07-30-new-microsoft-copilot-vulnerabilities-could-leak-customer-se]] · [[2026-08-19-microsoft-patches-one-click-copilot-data-exfiltration-flaw-a]] · [[2026-08-20-varonis-details-cosnitch-one-click-vulnerability-in-microsof]] · [[2026-08-26-microsoft-leaving-investors-flying-blind-on-ai-businesses]]
 <!-- graph:end -->

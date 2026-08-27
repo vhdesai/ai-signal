@@ -19,6 +19,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-25-stability-ai-maker-of-stable-diffusion-raises-76-million-in
 - 2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i
 - 2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation
 embedding_id: 2026-08-18-reach-capital-closes-265m-fund-v-for-applied-ai-founders
@@ -33,5 +34,5 @@ Reach Capital announced the close of a $265 million Fund V, continuing the 11-ye
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i]] · [[2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]]
+**Related:** [[2026-08-25-stability-ai-maker-of-stable-diffusion-raises-76-million-in]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i]] · [[2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]]
 <!-- graph:end -->

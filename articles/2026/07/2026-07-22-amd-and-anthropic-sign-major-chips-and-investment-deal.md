@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-26-anthropic-signs-45b-compute-deal-with-nscale-for-vera-rubin
 - 2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch
 - 2026-08-04-anthropic-signs-reported-10b-six-year-compute-deal-with-nvid
 - 2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r
 - 2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol
-- 2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu
 embedding_id: 2026-07-22-amd-and-anthropic-sign-major-chips-and-investment-deal
 event_name: ''
 ---
@@ -41,5 +41,5 @@ WSJ reports that AMD and Anthropic signed a major chips-and-investment agreement
 
 **Entities:** [[AMD]] · [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch]] · [[2026-08-04-anthropic-signs-reported-10b-six-year-compute-deal-with-nvid]] · [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]] · [[2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol]] · [[2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu]]
+**Related:** [[2026-08-26-anthropic-signs-45b-compute-deal-with-nscale-for-vera-rubin]] · [[2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch]] · [[2026-08-04-anthropic-signs-reported-10b-six-year-compute-deal-with-nvid]] · [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]] · [[2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol]]
 <!-- graph:end -->

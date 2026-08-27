@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents
-- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-frontier-model-security
+- 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
 embedding_id: event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview
 event_name: RSA Conference 2026 / RSAC 2026
 ---
@@ -40,5 +40,5 @@ RSAC 2026 is the clearest security-focused event in the corpus. It appears in fo
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-ai-as-opportunity-and]] · [[2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-frontier-model-security]]
+**Related:** [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-ai-as-opportunity-and]] · [[2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]]
 <!-- graph:end -->

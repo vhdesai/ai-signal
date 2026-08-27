@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-11-anthropic-signs-a-9-1b-20-year-191-mw-compute-deal-with-riot
 - 2026-08-11-riot-platforms-signs-9-1b-20-year-compute-deal-tied-to-anthr
 - 2026-08-11-anthropic-signs-a-9-1b-20-year-191-mw-compute-lease-with-rio
-- 2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu
+- 2026-08-26-anthropic-signs-45b-compute-deal-with-nscale
 embedding_id: 2026-08-11-anthropic-signs-9-1b-20-year-compute-lease-with-riot-platfor
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic contracted 191 MW of capacity at Riot’s Rockdale, Texas campus under
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-11-anthropic-signs-a-9-1b-20-year-191-mw-compute-deal-with-riot]] · [[2026-08-11-riot-platforms-signs-9-1b-20-year-compute-deal-tied-to-anthr]] · [[2026-08-11-anthropic-signs-a-9-1b-20-year-191-mw-compute-lease-with-rio]] · [[2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu]]
+**Related:** [[2026-08-11-anthropic-signs-a-9-1b-20-year-191-mw-compute-deal-with-riot]] · [[2026-08-11-riot-platforms-signs-9-1b-20-year-compute-deal-tied-to-anthr]] · [[2026-08-11-anthropic-signs-a-9-1b-20-year-191-mw-compute-lease-with-rio]] · [[2026-08-26-anthropic-signs-45b-compute-deal-with-nscale]]
 <!-- graph:end -->

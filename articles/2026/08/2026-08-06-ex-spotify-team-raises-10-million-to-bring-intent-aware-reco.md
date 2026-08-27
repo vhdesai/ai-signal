@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-15-whatnot-acquires-shaped-to-improve-real-time-live-shopping-r
+- 2026-08-25-keenable-exits-stealth-with-26m-to-build-web-search-index-fo
 - 2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-regu
 - 2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re
-- 2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov
 embedding_id: 2026-08-06-ex-spotify-team-raises-10-million-to-bring-intent-aware-reco
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Malachyte, founded by former Spotify employees who worked on recommendation infr
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-15-whatnot-acquires-shaped-to-improve-real-time-live-shopping-r]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-regu]] · [[2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re]] · [[2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov]]
+**Related:** [[2026-07-15-whatnot-acquires-shaped-to-improve-real-time-live-shopping-r]] · [[2026-08-25-keenable-exits-stealth-with-26m-to-build-web-search-index-fo]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-regu]] · [[2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re]]
 <!-- graph:end -->

@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
+- 2026-08-26-analysis-openai-s-executive-exodus-explained-brockman-reasse
+- 2026-08-26-techcrunch-analysis-how-do-we-explain-openai-s-executive-exo
+- 2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a
 - 2026-05-18-openai-restructures-into-a-unified-consumer-deployment-compa
-- 2026-08-18-openai-president-urges-enterprises-to-hasten-ai-security-def
-- 2026-08-04-apple-tells-court-its-openai-trade-secrets-probe-has-widened
-- 2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl
 embedding_id: 2026-05-17-openai-announced-another-internal-reorganization-in-a-memo-v
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI announced another internal reorganization in a memo viewed by The Verge (
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-05-18-openai-restructures-into-a-unified-consumer-deployment-compa]] · [[2026-08-18-openai-president-urges-enterprises-to-hasten-ai-security-def]] · [[2026-08-04-apple-tells-court-its-openai-trade-secrets-probe-has-widened]] · [[2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl]]
+**Related:** [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-08-26-analysis-openai-s-executive-exodus-explained-brockman-reasse]] · [[2026-08-26-techcrunch-analysis-how-do-we-explain-openai-s-executive-exo]] · [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a]] · [[2026-05-18-openai-restructures-into-a-unified-consumer-deployment-compa]]
 <!-- graph:end -->

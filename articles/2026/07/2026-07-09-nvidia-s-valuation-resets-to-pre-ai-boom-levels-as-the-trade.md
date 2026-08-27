@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-24-wall-street-counts-on-nvidia-to-keep-the-ai-party-going-mark
+- 2026-08-26-nvidia-s-1-5-trillion-earnings-question-the-return-on-invest
 - 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
 - 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
-- 2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c
 embedding_id: 2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Nvidia has shed roughly $1 trillion in market value since its May 14 high and no
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-24-wall-street-counts-on-nvidia-to-keep-the-ai-party-going-mark]] · [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]] · [[2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c]]
+**Related:** [[2026-08-24-wall-street-counts-on-nvidia-to-keep-the-ai-party-going-mark]] · [[2026-08-26-nvidia-s-1-5-trillion-earnings-question-the-return-on-invest]] · [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]]
 <!-- graph:end -->

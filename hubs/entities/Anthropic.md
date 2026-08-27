@@ -1,18 +1,54 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 1599
+member_count: 1631
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 1599 connected article(s).
+> Auto-generated entity hub. 1631 connected article(s).
 
+- `2026-08-27` [[2026-08-27-salesforce-and-anthropic-launch-claudeforce-crm-plugin|Salesforce and Anthropic Launch "Claudeforce" CRM Plugin]]
+- `2026-08-27` [[2026-08-27-anthropic-adds-a-native-browser-to-the-claude-cowork-desktop|Anthropic Adds a Native Browser to the Claude Cowork Desktop App]]
+- `2026-08-26` [[2026-08-26-z-ai-confirms-it-built-ox-alpha-open-weights-releasing-today|Z.ai Confirms It Built 'Ox Alpha' — Open Weights Releasing Today]]
+- `2026-08-26` [[2026-08-26-techcrunch-analysis-how-do-we-explain-openai-s-executive-exo|TechCrunch Analysis: How Do We Explain OpenAI's Executive Exodus?]]
+- `2026-08-26` [[2026-08-26-salesforce-and-anthropic-announce-claudeforce|Salesforce and Anthropic announce "Claudeforce"]]
+- `2026-08-26` [[2026-08-26-salesforce-and-anthropic-launch-claudeforce-embedding-crm-in|Salesforce and Anthropic Launch “Claudeforce,” Embedding CRM Inside Claude]]
+- `2026-08-26` [[2026-08-26-google-cloud-expands-gemini-enterprise-into-legal-and-financ|Google Cloud Expands Gemini Enterprise into Legal and Financial Services]]
+- `2026-08-26` [[2026-08-26-daily-ai-news-digest-august-27-2026|Daily AI News Digest – August 27, 2026]]
+- `2026-08-26` [[2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif|Custom Silicon Comes for the Incumbent as Enterprise AI Shifts to Controls]]
+- `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-an-ai-robot-tax|Bill Gates calls for "human reserved" jobs and an AI/robot tax]]
+- `2026-08-26` [[2026-08-26-bill-gates-warns-about-ai-risks|Bill Gates Warns About AI Risks]]
+- `2026-08-26` [[2026-08-26-anthropic-to-pitch-investors-on-a-30-trillion-addressable-ma|Anthropic to pitch investors on a >$30 trillion addressable market ahead of IPO]]
+- `2026-08-26` [[2026-08-26-anthropic-signs-45b-compute-deal-with-nscale|Anthropic signs ~$45B compute deal with Nscale]]
+- `2026-08-26` [[2026-08-26-anthropic-signs-45b-compute-deal-with-nscale-for-vera-rubin|Anthropic Signs $45B Compute Deal with Nscale for Vera Rubin Chips]]
+- `2026-08-26` [[2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin|Anthropic Commits ~$45B to Nscale for Six Years of Vera Rubin Compute]]
+- `2026-08-26` [[2026-08-26-analysis-openai-s-executive-exodus-explained-brockman-reasse|Analysis: OpenAI’s Executive Exodus Explained — Brockman Reasserts Control]]
+- `2026-08-26` [[2026-08-26-amazon-triples-nvidia-gpu-order-adding-2m-chips-including-ru|Amazon Triples Nvidia GPU Order — Adding 2M Chips Including Rubin Ultra]]
+- `2026-08-25` [[2026-08-25-traders-bet-anthropic-ships-its-next-frontier-mythos-model-w|Traders bet Anthropic ships its next frontier “Mythos” model within weeksTrending]]
+- `2026-08-25` [[2026-08-25-stability-ai-raises-76m-from-universal-music-sony-warner-and|Stability AI Raises $76M from Universal Music, Sony, Warner, and EA]]
+- `2026-08-25` [[2026-08-25-openai-s-head-of-data-centers-has-left-the-company-anthropic|OpenAI's Head of Data Centers Has Left the Company; Anthropic Expected to File S-1]]
+- `2026-08-25` [[2026-08-25-openai-dc-head-departs-anthropic-expected-to-file-s-1|OpenAI DC Head Departs; Anthropic Expected to File S-1]]
+- `2026-08-25` [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc|Liquid AI Open-Sources Pipette, a Reproducible On-Device Benchmarking Suite]]
+- `2026-08-25` [[2026-08-25-inside-anthropic-moving-beyond-bigger-models-to-win-the-ente|Inside Anthropic: Moving Beyond Bigger Models to Win the Enterprise]]
+- `2026-08-25` [[2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized-alabama-pro|Hugging Face Revenue Jumps 50% to $150M Annualized; Alabama Probes OpenAI Over HF Hack]]
+- `2026-08-25` [[2026-08-25-google-expands-its-gemini-platform-for-law-firms-and-lawyers|Google expands its Gemini platform for law firms and lawyersNew]]
+- `2026-08-25` [[2026-08-25-claude-gets-unified-memory-across-chat-and-cowork-no-more-re|Claude Gets Unified Memory Across Chat and Cowork — No More Rebriefing]]
+- `2026-08-25` [[2026-08-25-claude-gets-unified-memory-across-chat-and-cowork|Claude Gets Unified Memory Across Chat and Cowork]]
+- `2026-08-25` [[2026-08-25-claude-cowork-finally-remembers-what-you-told-the-app-in-cha|Claude Cowork finally remembers what you told the app in chat]]
+- `2026-08-25` [[2026-08-25-bain-joins-anthropic-s-claude-partner-network-at-top-tier|Bain Joins Anthropic's Claude Partner Network at Top Tier]]
+- `2026-08-25` [[2026-08-25-bain-joins-anthropic-s-claude-partner-network-at-global-prem|Bain Joins Anthropic's Claude Partner Network at Global Premier Tier]]
 - `2026-08-24` [[2026-08-24-pitchbook-anticipating-anthropic-s-s-1-filing|PitchBook: Anticipating Anthropic's S-1 Filing]]
 - `2026-08-24` [[2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an|Investor Speculation Builds Around a Potential ~$2 Trillion Anthropic IPO]]
+- `2026-08-24` [[2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens|Georgia Tech AI governance through a visiting scholar’s lens]]
 - `2026-08-24` [[2026-08-24-claude-suffers-elevated-error-rates-in-a-multi-hour-monday-o|Claude Suffers Elevated Error Rates in a Multi-Hour Monday Outage]]
+- `2026-08-24` [[2026-08-24-claude-hit-by-another-multi-model-outage-disrupting-develope|Claude Hit by Another Multi-Model Outage, Disrupting Developer Workflows]]
+- `2026-08-24` [[2026-08-24-carterra-enables-anthropic-s-autonomous-ai-protein-design-st|Carterra Enables Anthropic's Autonomous AI Protein Design Study]]
 - `2026-08-24` [[2026-08-24-carnegie-mellon-ai-is-showing-a-revenue-payoff|Carnegie Mellon: AI Is Showing a Revenue Payoff]]
+- `2026-08-24` [[2026-08-24-anthropic-s-ipo-could-break-spacex-s-recordtrending|Anthropic’s IPO could break SpaceX’s recordTrending]]
+- `2026-08-24` [[2026-08-24-anthropic-s-claude-suffers-another-outagetrending|Anthropic’s Claude suffers another outageTrending]]
 - `2026-08-24` [[2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen|Anthropic's Claude Tag update reportedly lets its Slack agent read full conversations and jump in unprompted]]
+- `2026-08-24` [[2026-08-24-anthropic-resolves-a-multi-model-claude-outage-after-a-month|Anthropic resolves a multi-model Claude outage after a month of incidents]]
 - `2026-08-23` [[2026-08-23-training-ai-on-copyrighted-books-remains-legally-unsettled|Training AI on Copyrighted Books Remains Legally Unsettled]]
 - `2026-08-23` [[2026-08-23-techcrunch-is-it-legal-to-train-ai-on-copyrighted-books-it-s|TechCrunch: Is It Legal to Train AI on Copyrighted Books? It's Complicated]]
 - `2026-08-23` [[2026-08-23-scientists-push-back-ai-probably-won-t-cure-cancer-anytime-s|Scientists Push Back: AI Probably Won’t Cure Cancer Anytime Soon]]
@@ -919,7 +955,6 @@ member_count: 1599
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Overview]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference|Apple WWDC 2026 Preview: On-device AI and private inference]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy|Apple WWDC 2026 Preview: App Store and agent policy]]
-- `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence|Apple WWDC 2026 Preview: Accessibility and Apple Intelligence]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications|Apple WWDC 2026 Preview — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview|Apple WWDC 2026 Preview — Overview]]
 - `2026-06-08` [[2026-06-08-anthropic-doubles-claude-cowork-limits-at-no-extra-charge|Anthropic Doubles Claude Cowork Limits at No Extra Charge]]
@@ -961,7 +996,6 @@ member_count: 1599
 - `2026-06-02` [[2026-06-02-u-s-futures-slip-after-ai-driven-record-highs|U.S. futures slip after AI-driven record highs]]
 - `2026-06-02` [[2026-06-02-openai-expands-codex-agent-to-finance-banking-and-sales|OpenAI Expands Codex Agent to Finance, Banking, and Sales]]
 - `2026-06-02` [[2026-06-02-openai-expands-codex-agent-beyond-software-to-finance-bankin|OpenAI Expands Codex Agent Beyond Software to Finance, Banking, and Sales]]
-- `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero|Microsoft Build 2026 Preview: Open standards and agent interoperability]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent|Microsoft Build 2026 Preview: Copilot and Microsoft 365 agents]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model|Microsoft Build 2026 Preview: Azure AI Foundry and MAI model suite]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows|Microsoft Build 2026 Preview: AI-native Windows]]
@@ -1087,7 +1121,6 @@ member_count: 1599
 - `2026-05-26` [[2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g|AI Subscription Tiers Restructured Across OpenAI, Anthropic, Google, and xAI]]
 - `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-optany-optimize-anything|ACM CAIS 2026: optany / optimize_anything]]
 - `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-tressoir|ACM CAIS 2026: Tressoir]]
-- `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-conference-program-and-speakers|ACM CAIS 2026: Conference program and speakers]]
 - `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild|ACM CAIS 2026: AI Agents for Discovery in the Wild]]
 - `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-strategic-implications|ACM CAIS 2026 — Strategic Implications]]
 - `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-overview|ACM CAIS 2026 — Overview]]
@@ -1544,7 +1577,6 @@ member_count: 1599
 - `2026-04-13` [[2026-04-13-source-mit-csail-uc-berkeley-national-day-today|Source: MIT CSAIL · UC Berkeley · National Day Today]]
 - `2026-04-12` [[2026-04-12-sifive-founded-by-the-uc-berkeley-engineers-behind-the-risc|SiFive — founded by the UC Berkeley engineers behind the RISC-V open chip architecture — closed an oversubscribed $400M Series G round at a $3.65B valuation, led by Atreides Management with participation from Nvidia, Apollo Global, Point72, T. Rowe Price, and others. SiFive's designs integrate with Nvidia CUDA and NVLink Fusion infrastructure, positioning RISC-V as a potential third major CPU architecture in AI data centers alongside x86 and ARM. The CEO signaled this will likely be the last round before an IPO, with Nvidia's participation representing a notable vote of confidence in open ISA compute infrastructure.]]
 - `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents|RSA Conference 2026 / RSAC 2026: Zero trust for AI agents]]
-- `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-frontier-model-security|RSA Conference 2026 / RSAC 2026: Frontier model security]]
 - `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-soc-products|RSA Conference 2026 / RSAC 2026: Agentic SOC products]]
 - `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-ai-as-opportunity-and|RSA Conference 2026 / RSAC 2026: Agentic AI as opportunity and risk]]
 - `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications|RSA Conference 2026 / RSAC 2026 — Strategic Implications]]

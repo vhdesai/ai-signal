@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-synthetic-user-startup-simile-raises-200m-at-a-2b-valuation
 - 2026-07-30-simile-raises-200m-at-a-2b-valuation-to-simulate-8-billion-p
+- 2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-a-2-5b-va
+- 2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-2-5b-valu
 - 2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua
-- 2026-08-20-twin1-ai-raises-20m-for-per-employee-ai-twins
-- 2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital
 embedding_id: 2026-07-30-synthetic-user-startup-simile-raises-200m-series-b-at-2b-val
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Simile raised a $200 million Series B at a $2 billion valuation only five months
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-synthetic-user-startup-simile-raises-200m-at-a-2b-valuation]] · [[2026-07-30-simile-raises-200m-at-a-2b-valuation-to-simulate-8-billion-p]] · [[2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua]] · [[2026-08-20-twin1-ai-raises-20m-for-per-employee-ai-twins]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]]
+**Related:** [[2026-07-30-synthetic-user-startup-simile-raises-200m-at-a-2b-valuation]] · [[2026-07-30-simile-raises-200m-at-a-2b-valuation-to-simulate-8-billion-p]] · [[2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-a-2-5b-va]] · [[2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-2-5b-valu]] · [[2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua]]
 <!-- graph:end -->

@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web
 related_article_ids:
+- 2026-08-27-anthropic-adds-a-native-browser-to-the-claude-cowork-desktop
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co
-- 2026-07-07-anthropic-brings-claude-cowork-to-web-and-mobile-adds-micros
 embedding_id: 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic expanded Claude Cowork to mobile and web, enabling cross-device task h
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web]]
-**Related:** [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co]] · [[2026-07-07-anthropic-brings-claude-cowork-to-web-and-mobile-adds-micros]]
+**Related:** [[2026-08-27-anthropic-adds-a-native-browser-to-the-claude-cowork-desktop]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co]]
 <!-- graph:end -->

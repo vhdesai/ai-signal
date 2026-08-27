@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-27-openai-to-start-showing-ads-on-chatgpt-free-and-go-tiers-in
 - 2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b
 - 2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers
+- 2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india
 - 2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf
-- 2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope
-- 2026-08-12-openai-begins-testing-ads-in-chatgpt
 embedding_id: 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI launched a self-serve advertising platform for ChatGPT, removing the prev
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b]] · [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]] · [[2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]]
+**Related:** [[2026-08-27-openai-to-start-showing-ads-on-chatgpt-free-and-go-tiers-in]] · [[2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b]] · [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]] · [[2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]]
 <!-- graph:end -->

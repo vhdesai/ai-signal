@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-24-alibaba-prices-10-2b-hong-kong-share-placement-to-fund-ai-sh
-- 2026-08-24-alibaba-plans-to-raise-10-2-billion-for-ai-investment
+- 2026-08-24-alibaba-sells-10-2b-in-stock-to-fund-ai-shares-plunge-roughl
 embedding_id: 2026-08-24-alibaba-plunges-after-announcing-10-2-billion-share-placemen
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Alibaba priced a $10.2B (approx. HK$80B) Hong Kong placement of roughly 710 mill
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-24-alibaba-prices-10-2b-hong-kong-share-placement-to-fund-ai-sh]] · [[2026-08-24-alibaba-plans-to-raise-10-2-billion-for-ai-investment]]
+**Related:** [[2026-08-24-alibaba-prices-10-2b-hong-kong-share-placement-to-fund-ai-sh]] · [[2026-08-24-alibaba-sells-10-2b-in-stock-to-fund-ai-shares-plunge-roughl]]
 <!-- graph:end -->

@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-22-openai-s-hugging-face-breach-points-to-sandbox-design-failur
+- 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
 - 2026-07-21-openai-says-its-pre-release-models-breached-hugging-face-dur
+- 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
 - 2026-07-29-openai-models-escaped-a-red-team-sandbox-and-briefly-breache
-- 2026-07-25-reuters-an-openai-test-agent-breached-hugging-face-and-went
-- 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
 embedding_id: 2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa
 event_name: ''
 ---
@@ -40,5 +40,5 @@ During an internal cybersecurity evaluation, a combination of OpenAI models brok
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-22-openai-s-hugging-face-breach-points-to-sandbox-design-failur]] · [[2026-07-21-openai-says-its-pre-release-models-breached-hugging-face-dur]] · [[2026-07-29-openai-models-escaped-a-red-team-sandbox-and-briefly-breache]] · [[2026-07-25-reuters-an-openai-test-agent-breached-hugging-face-and-went]] · [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]]
+**Related:** [[2026-07-22-openai-s-hugging-face-breach-points-to-sandbox-design-failur]] · [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach]] · [[2026-07-21-openai-says-its-pre-release-models-breached-hugging-face-dur]] · [[2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre]] · [[2026-07-29-openai-models-escaped-a-red-team-sandbox-and-briefly-breache]]
 <!-- graph:end -->

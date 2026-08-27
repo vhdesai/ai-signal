@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-26-bair-proposes-abbel-for-long-horizon-belief-state-management
+- 2026-08-24-arxiv-agentweave-routing-before-reasoning-for-efficient-func
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-07-11-choosing-the-right-ai-agent-memory-strategy-a-decision-tree
 - 2026-07-08-co-lmlm-continuous-query-limited-memory-language-models
-- 2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter
 embedding_id: 2026-07-26-abbel-belief-state-memory-for-llm-agents
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Berkeley AI Research introduced ABBEL, a framework that isolates and supervises 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-26-bair-proposes-abbel-for-long-horizon-belief-state-management]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-07-11-choosing-the-right-ai-agent-memory-strategy-a-decision-tree]] · [[2026-07-08-co-lmlm-continuous-query-limited-memory-language-models]] · [[2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter]]
+**Related:** [[2026-07-26-bair-proposes-abbel-for-long-horizon-belief-state-management]] · [[2026-08-24-arxiv-agentweave-routing-before-reasoning-for-efficient-func]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-07-11-choosing-the-right-ai-agent-memory-strategy-a-decision-tree]] · [[2026-07-08-co-lmlm-continuous-query-limited-memory-language-models]]
 <!-- graph:end -->

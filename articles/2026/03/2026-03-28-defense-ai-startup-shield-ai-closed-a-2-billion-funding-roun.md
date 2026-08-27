@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
 - 2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg
-- 2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a
+- 2026-08-25-stability-ai-maker-of-stable-diffusion-raises-76-million-in
 embedding_id: 2026-03-28-defense-ai-startup-shield-ai-closed-a-2-billion-funding-roun
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Defense AI startup Shield AI closed a $2 billion funding round at a $12.7 billio
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg]] · [[2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a]]
+**Related:** [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg]] · [[2026-08-25-stability-ai-maker-of-stable-diffusion-raises-76-million-in]]
 <!-- graph:end -->

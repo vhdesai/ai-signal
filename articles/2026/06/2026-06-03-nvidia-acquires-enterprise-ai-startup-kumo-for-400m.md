@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-03-nvidia-acquires-kumo-ai
 - 2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners
 - 2026-05-10-nebius-acquires-ai-consultancy-eigen-for-643m-nvidia-commits
+- 2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion
 - 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
-- 2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in
 embedding_id: 2026-06-03-nvidia-acquires-enterprise-ai-startup-kumo-for-400m
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Nvidia acquired Kumo AI, a five-year-old startup that sells predictive AI softwa
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-03-nvidia-acquires-kumo-ai]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]] · [[2026-05-10-nebius-acquires-ai-consultancy-eigen-for-643m-nvidia-commits]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in]]
+**Related:** [[2026-06-03-nvidia-acquires-kumo-ai]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]] · [[2026-05-10-nebius-acquires-ai-consultancy-eigen-for-643m-nvidia-commits]] · [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]]
 <!-- graph:end -->

@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-18-meta-faces-29-state-trial-over-alleged-harm-to-young-users
-- 2026-08-07-meta-ordered-to-pay-additional-567m-in-new-mexico-child-safe
-- 2026-04-16-a-northern-district-of-california-ruling-found-that-when-a-s
-- 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
+- 2026-08-26-meta-s-18b-settlement-ends-one-battle-wider-legal-war-looms
+- 2026-08-26-meta-agrees-to-16-68-billion-settlement-in-social-media-addi
+- 2026-08-26-meta-reaches-18-billion-settlement-with-48-states-but-wider
 embedding_id: 2026-08-18-landmark-29-state-trial-against-meta-over-youth-harm-opens-i
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Opening arguments began in federal court in Oakland in a bipartisan action by 29
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-18-meta-faces-29-state-trial-over-alleged-harm-to-young-users]] · [[2026-08-07-meta-ordered-to-pay-additional-567m-in-new-mexico-child-safe]] · [[2026-04-16-a-northern-district-of-california-ruling-found-that-when-a-s]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]]
+**Related:** [[2026-08-18-meta-faces-29-state-trial-over-alleged-harm-to-young-users]] · [[2026-08-26-meta-s-18b-settlement-ends-one-battle-wider-legal-war-looms]] · [[2026-08-26-meta-agrees-to-16-68-billion-settlement-in-social-media-addi]] · [[2026-08-26-meta-reaches-18-billion-settlement-with-48-states-but-wider]]
 <!-- graph:end -->

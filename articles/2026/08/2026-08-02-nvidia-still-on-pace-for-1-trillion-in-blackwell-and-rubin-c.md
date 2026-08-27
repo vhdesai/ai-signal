@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
-- 2026-08-17-the-nvidia-paradox-selling-upgrades-while-positioning-gpus-a
-- 2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r
-- 2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d
-- 2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s
+- 2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through
+- 2026-08-26-amazon-triples-its-nvidia-gpu-commitment-2-million-chips-thr
+- 2026-08-26-amazon-triples-its-nvidia-gpu-commitment-adding-2-million-ch
+- 2026-08-25-nvidia-q2-fy27-earnings-land-today-as-the-ai-boom-s-scorecar
 embedding_id: 2026-08-02-nvidia-still-on-pace-for-1-trillion-in-blackwell-and-rubin-c
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Analysis of Jensen Huang's guidance suggests at least $1 trillion in cumulative 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-08-17-the-nvidia-paradox-selling-upgrades-while-positioning-gpus-a]] · [[2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r]] · [[2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d]] · [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s]]
+**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through]] · [[2026-08-26-amazon-triples-its-nvidia-gpu-commitment-2-million-chips-thr]] · [[2026-08-26-amazon-triples-its-nvidia-gpu-commitment-adding-2-million-ch]] · [[2026-08-25-nvidia-q2-fy27-earnings-land-today-as-the-ai-boom-s-scorecar]]
 <!-- graph:end -->

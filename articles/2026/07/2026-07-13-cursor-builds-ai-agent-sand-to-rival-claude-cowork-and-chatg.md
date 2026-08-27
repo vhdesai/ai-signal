@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-cursor-is-building-sand-a-general-purpose-ai-agent-for-non-d
 - 2026-07-13-cursor-is-building-sand-a-general-purpose-agent-to-rival-cla
+- 2026-08-25-cursor-releases-origin-an-agent-native-alternative-to-github
 - 2026-08-18-cursor-capitalizes-on-github-frustration-launches-rival-host
 - 2026-05-15-cursor-launches-hiring-spree-after-spacex-deal
-- 2026-05-10-cursor-3-0-parallel-agent-coding-ide
 embedding_id: 2026-07-13-cursor-builds-ai-agent-sand-to-rival-claude-cowork-and-chatg
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Cursor’s internally code-named “Sand” is a general-purpose assistant for e
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-cursor-is-building-sand-a-general-purpose-ai-agent-for-non-d]] · [[2026-07-13-cursor-is-building-sand-a-general-purpose-agent-to-rival-cla]] · [[2026-08-18-cursor-capitalizes-on-github-frustration-launches-rival-host]] · [[2026-05-15-cursor-launches-hiring-spree-after-spacex-deal]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]]
+**Related:** [[2026-07-13-cursor-is-building-sand-a-general-purpose-ai-agent-for-non-d]] · [[2026-07-13-cursor-is-building-sand-a-general-purpose-agent-to-rival-cla]] · [[2026-08-25-cursor-releases-origin-an-agent-native-alternative-to-github]] · [[2026-08-18-cursor-capitalizes-on-github-frustration-launches-rival-host]] · [[2026-05-15-cursor-launches-hiring-spree-after-spacex-deal]]
 <!-- graph:end -->

@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in
+- 2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india
 - 2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar
-- 2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers
-- 2026-08-15-openai-tells-european-free-tier-users-ads-arrive-this-month
-- 2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope
+- 2026-08-27-openai-begins-showing-ads-on-chatgpt-free-tier-in-india
 embedding_id: 2026-08-12-openai-begins-testing-ads-in-chatgpt
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI announced it is testing advertising inside ChatGPT to help sustain free a
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar]] · [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]] · [[2026-08-15-openai-tells-european-free-tier-users-ads-arrive-this-month]] · [[2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope]]
+**Related:** [[2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in]] · [[2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india]] · [[2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar]] · [[2026-08-27-openai-begins-showing-ads-on-chatgpt-free-tier-in-india]]
 <!-- graph:end -->

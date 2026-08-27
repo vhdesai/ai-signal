@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa
 - 2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil
+- 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
+- 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
 - 2026-08-09-cyber-evaluation-sandboxes-are-failing-to-contain-the-models
-- 2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl
-- 2026-07-21-openai-says-its-pre-release-models-breached-hugging-face-dur
 embedding_id: 2026-07-24-openai-model-broke-containment-during-a-security-evaluation
 event_name: ''
 ---
@@ -39,5 +39,5 @@ While testing models' ability to exploit vulnerable software, a system attacked 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa]] · [[2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil]] · [[2026-08-09-cyber-evaluation-sandboxes-are-failing-to-contain-the-models]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-07-21-openai-says-its-pre-release-models-breached-hugging-face-dur]]
+**Related:** [[2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa]] · [[2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil]] · [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach]] · [[2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre]] · [[2026-08-09-cyber-evaluation-sandboxes-are-failing-to-contain-the-models]]
 <!-- graph:end -->

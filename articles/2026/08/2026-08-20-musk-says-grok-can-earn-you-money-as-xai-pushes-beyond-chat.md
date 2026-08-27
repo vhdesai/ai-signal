@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-26-xai-markets-a-grok-trading-bot-with-a-limited-money-back-pro
 - 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
 - 2026-07-08-spacex-xai-launches-grok-4-5-at-roughly-half-the-price-of-ri
-- 2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3
 embedding_id: 2026-08-20-musk-says-grok-can-earn-you-money-as-xai-pushes-beyond-chat
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Elon Musk posted on X that Grok can earn you money, without providing specifics,
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent]] · [[2026-07-08-spacex-xai-launches-grok-4-5-at-roughly-half-the-price-of-ri]] · [[2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3]]
+**Related:** [[2026-08-26-xai-markets-a-grok-trading-bot-with-a-limited-money-back-pro]] · [[2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent]] · [[2026-07-08-spacex-xai-launches-grok-4-5-at-roughly-half-the-price-of-ri]]
 <!-- graph:end -->

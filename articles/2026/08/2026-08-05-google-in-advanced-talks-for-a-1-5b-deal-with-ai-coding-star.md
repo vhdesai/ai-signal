@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-05-google-in-talks-for-1-5b-hybrid-deal-with-coding-agent-start
 - 2026-08-05-google-in-talks-for-a-1-5b-plus-hire-and-license-deal-with-c
 - 2026-08-05-google-in-talks-for-1-5b-deal-with-coding-agent-startup-mech
+- 2026-08-25-keenable-exits-stealth-with-26m-to-build-web-search-index-fo
 - 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
-- 2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit
 embedding_id: 2026-08-05-google-in-advanced-talks-for-a-1-5b-deal-with-ai-coding-star
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google is reportedly pursuing a $1.5 billion-plus talent-and-licensing arrangeme
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-google-in-talks-for-1-5b-hybrid-deal-with-coding-agent-start]] · [[2026-08-05-google-in-talks-for-a-1-5b-plus-hire-and-license-deal-with-c]] · [[2026-08-05-google-in-talks-for-1-5b-deal-with-coding-agent-startup-mech]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]]
+**Related:** [[2026-08-05-google-in-talks-for-1-5b-hybrid-deal-with-coding-agent-start]] · [[2026-08-05-google-in-talks-for-a-1-5b-plus-hire-and-license-deal-with-c]] · [[2026-08-05-google-in-talks-for-1-5b-deal-with-coding-agent-startup-mech]] · [[2026-08-25-keenable-exits-stealth-with-26m-to-build-web-search-index-fo]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]]
 <!-- graph:end -->

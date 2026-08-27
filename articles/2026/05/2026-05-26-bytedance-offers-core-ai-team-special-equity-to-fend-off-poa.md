@@ -24,6 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-02-bytedance-loses-key-ai-research-leader-behind-seed-models
+- 2026-08-24-bytedance-merges-ai-teams-to-compete-with-tencenttrending
 - 2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp
 - 2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips
 embedding_id: 2026-05-26-bytedance-offers-core-ai-team-special-equity-to-fend-off-poa
@@ -39,5 +40,5 @@ ByteDance is issuing a special class of equity to members of its core AI researc
 
 **Entities:** [[Alibaba]] · [[ByteDance]] · [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-02-bytedance-loses-key-ai-research-leader-behind-seed-models]] · [[2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp]] · [[2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips]]
+**Related:** [[2026-06-02-bytedance-loses-key-ai-research-leader-behind-seed-models]] · [[2026-08-24-bytedance-merges-ai-teams-to-compete-with-tencenttrending]] · [[2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp]] · [[2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips]]
 <!-- graph:end -->

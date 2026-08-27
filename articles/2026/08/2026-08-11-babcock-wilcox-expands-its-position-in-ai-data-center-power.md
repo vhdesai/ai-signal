@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t
 - 2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers
 - 2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25
+- 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
 - 2026-08-15-big-manufacturers-find-new-demand-in-equipping-ai-data-cente
-- 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 embedding_id: 2026-08-11-babcock-wilcox-expands-its-position-in-ai-data-center-power
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Power-generation company Babcock & Wilcox is deepening its commitments to supply
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25]] · [[2026-08-15-big-manufacturers-find-new-demand-in-equipping-ai-data-cente]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]]
+**Related:** [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-08-15-big-manufacturers-find-new-demand-in-equipping-ai-data-cente]]
 <!-- graph:end -->

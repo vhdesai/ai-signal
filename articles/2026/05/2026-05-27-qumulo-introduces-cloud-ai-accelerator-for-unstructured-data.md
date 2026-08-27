@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for
 - 2026-07-16-nokia-and-nvidia-unveil-first-commercial-ai-ran-platform
 - 2026-08-04-runware-launches-a-modular-inference-data-center-pod
 - 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
 - 2026-08-04-nvidia-pushes-ai-storage-stack-at-future-of-memory-and-stora
-- 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
 embedding_id: 2026-05-27-qumulo-introduces-cloud-ai-accelerator-for-unstructured-data
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Qumulo announced a Cloud AI Accelerator service that connects its unstructured-d
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-16-nokia-and-nvidia-unveil-first-commercial-ai-ran-platform]] · [[2026-08-04-runware-launches-a-modular-inference-data-center-pod]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-08-04-nvidia-pushes-ai-storage-stack-at-future-of-memory-and-stora]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]]
+**Related:** [[2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for]] · [[2026-07-16-nokia-and-nvidia-unveil-first-commercial-ai-ran-platform]] · [[2026-08-04-runware-launches-a-modular-inference-data-center-pod]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-08-04-nvidia-pushes-ai-storage-stack-at-future-of-memory-and-stora]]
 <!-- graph:end -->

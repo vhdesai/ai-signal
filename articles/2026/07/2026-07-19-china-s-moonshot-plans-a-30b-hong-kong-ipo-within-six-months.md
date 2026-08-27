@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-19-moonshot-ai-plans-hong-kong-ipo-after-kimi-k3-model-debut
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
 - 2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes
-- 2026-07-20-moonshot-ai-seeks-investor-approval-to-begin-ipo-process
+- 2026-08-26-moonshot-ai-in-cloud-revenue-share-talks-with-microsoft-amaz
 embedding_id: 2026-07-19-china-s-moonshot-plans-a-30b-hong-kong-ipo-within-six-months
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Moonshot AI (Kimi models) is preparing to list in Hong Kong within ~6 months, wr
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-19-moonshot-plans-a-30b-hong-kong-ipo-within-six-months]] · [[2026-07-19-moonshot-ai-plans-hong-kong-ipo-after-kimi-k3-model-debut]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes]] · [[2026-07-20-moonshot-ai-seeks-investor-approval-to-begin-ipo-process]]
+**Related:** [[2026-07-19-moonshot-plans-a-30b-hong-kong-ipo-within-six-months]] · [[2026-07-19-moonshot-ai-plans-hong-kong-ipo-after-kimi-k3-model-debut]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes]] · [[2026-08-26-moonshot-ai-in-cloud-revenue-share-talks-with-microsoft-amaz]]
 <!-- graph:end -->

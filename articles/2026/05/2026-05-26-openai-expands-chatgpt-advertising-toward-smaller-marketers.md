@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
 - 2026-08-12-openai-begins-testing-ads-in-chatgpt
 - 2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt
-- 2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international
+- 2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india
 embedding_id: 2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Information reports that OpenAI is moving beyond large-brand launch partners
 
 **Entities:** [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]] · [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]] · [[2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international]]
+**Related:** [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]] · [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]] · [[2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india]]
 <!-- graph:end -->

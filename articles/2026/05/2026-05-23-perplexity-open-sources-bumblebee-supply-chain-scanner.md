@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-23-perplexity-released-bumblebee-an-open-source-read-only-suppl
 - 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
 - 2026-05-07-new-perplexity-personal-computer-now-generally-available-for
-- 2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for
-- 2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git
+- 2026-08-25-perplexity-ships-portable-computer-on-nvidia-dgx-spark
+- 2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local
 embedding_id: 2026-05-23-perplexity-open-sources-bumblebee-supply-chain-scanner
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Perplexity released Bumblebee, the internal security tool it uses to harden the 
 
 **Entities:** [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-perplexity-released-bumblebee-an-open-source-read-only-suppl]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-05-07-new-perplexity-personal-computer-now-generally-available-for]] · [[2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for]] · [[2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git]]
+**Related:** [[2026-05-23-perplexity-released-bumblebee-an-open-source-read-only-suppl]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-05-07-new-perplexity-personal-computer-now-generally-available-for]] · [[2026-08-25-perplexity-ships-portable-computer-on-nvidia-dgx-spark]] · [[2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local]]
 <!-- graph:end -->

@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear
 - 2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin
 - 2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o
+- 2026-08-26-salesforce-and-anthropic-launch-claudeforce-embedding-crm-in
 - 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
-- 2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise
 embedding_id: 2026-05-23-salesforce-defends-agentforce-demos-featuring-features-not-w
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Salesforce's recent promotional videos for Agentforce included mock-ups and capa
 
 **Entities:** [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear]] · [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin]] · [[2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise]]
+**Related:** [[2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear]] · [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin]] · [[2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o]] · [[2026-08-26-salesforce-and-anthropic-launch-claudeforce-embedding-crm-in]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]]
 <!-- graph:end -->

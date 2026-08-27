@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
 - 2026-07-25-single-downed-power-line-dropped-3-1-gw-of-data-centers-expo
 - 2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline
 - 2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth
 - 2026-07-25-one-fallen-power-line-trips-3-1-gw-of-ai-data-centers
-- 2026-07-25-one-fallen-power-line-trips-3-1-gw-of-ai-data-centers-stress
 embedding_id: 2026-05-18-lake-tahoe-residents-to-lose-75-of-power-supply-as-nv-energy
 event_name: ''
 ---
@@ -38,5 +38,5 @@ NV Energy notified Liberty Utilities that it will end the bulk of its wholesale 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-25-single-downed-power-line-dropped-3-1-gw-of-data-centers-expo]] · [[2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline]] · [[2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth]] · [[2026-07-25-one-fallen-power-line-trips-3-1-gw-of-ai-data-centers]] · [[2026-07-25-one-fallen-power-line-trips-3-1-gw-of-ai-data-centers-stress]]
+**Related:** [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-07-25-single-downed-power-line-dropped-3-1-gw-of-data-centers-expo]] · [[2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline]] · [[2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth]] · [[2026-07-25-one-fallen-power-line-trips-3-1-gw-of-ai-data-centers]]
 <!-- graph:end -->

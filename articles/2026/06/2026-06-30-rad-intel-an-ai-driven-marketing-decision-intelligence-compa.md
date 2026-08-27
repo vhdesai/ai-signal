@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally
 - 2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi
 - 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
+- 2026-08-25-nvidia-s-equity-stakes-in-ai-companies-could-become-john-mal
 - 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
-- 2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte
 embedding_id: 2026-06-30-rad-intel-an-ai-driven-marketing-decision-intelligence-compa
 event_name: ''
 ---
@@ -39,5 +39,5 @@ RAD Intel, an AI-driven marketing decision-intelligence company, announced it ac
 
 **Entities:** [[Intel]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally]] · [[2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi]] · [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]] · [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]]
+**Related:** [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally]] · [[2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi]] · [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor]] · [[2026-08-25-nvidia-s-equity-stakes-in-ai-companies-could-become-john-mal]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-apple-unveils-new-apple-intelligence-accessibility-features
-- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence
 - 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
 - 2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri
+- 2026-07-14-apple-opens-redesigned-siri-ai-through-the-ios-27-public-bet
 embedding_id: 2026-05-19-apple-unveils-apple-intelligence-accessibility-features-on-d
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Ahead of Global Accessibility Awareness Day, Apple unveiled a new set of AI-powe
 
 **Entities:** [[Apple]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-19-apple-unveils-new-apple-intelligence-accessibility-features]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri]]
+**Related:** [[2026-05-19-apple-unveils-new-apple-intelligence-accessibility-features]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri]] · [[2026-07-14-apple-opens-redesigned-siri-ai-through-the-ios-27-public-bet]]
 <!-- graph:end -->

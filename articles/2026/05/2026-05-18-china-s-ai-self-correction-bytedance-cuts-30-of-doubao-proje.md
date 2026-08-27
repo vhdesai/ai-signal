@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-trending-bytedance-cuts-30-of-ai-app-projects-as-china-s-ai
+- 2026-08-24-bytedance-merges-ai-teams-to-compete-with-tencenttrending
 - 2026-08-24-bytedance-folds-ai-tools-into-doubao-super-app-to-fight-tenc
 - 2026-08-24-bytedance-folds-trae-and-coze-into-doubao-to-challenge-tence
 - 2026-07-05-bytedance-and-alibaba-pull-ai-companion-features-ahead-of-ch
-- 2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as
 embedding_id: 2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje
 event_name: ''
 ---
@@ -41,5 +41,5 @@ In a widely circulated internal update, ByteDance disclosed it has cut approxima
 
 **Entities:** [[ByteDance]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-18-trending-bytedance-cuts-30-of-ai-app-projects-as-china-s-ai]] · [[2026-08-24-bytedance-folds-ai-tools-into-doubao-super-app-to-fight-tenc]] · [[2026-08-24-bytedance-folds-trae-and-coze-into-doubao-to-challenge-tence]] · [[2026-07-05-bytedance-and-alibaba-pull-ai-companion-features-ahead-of-ch]] · [[2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as]]
+**Related:** [[2026-05-18-trending-bytedance-cuts-30-of-ai-app-projects-as-china-s-ai]] · [[2026-08-24-bytedance-merges-ai-teams-to-compete-with-tencenttrending]] · [[2026-08-24-bytedance-folds-ai-tools-into-doubao-super-app-to-fight-tenc]] · [[2026-08-24-bytedance-folds-trae-and-coze-into-doubao-to-challenge-tence]] · [[2026-07-05-bytedance-and-alibaba-pull-ai-companion-features-ahead-of-ch]]
 <!-- graph:end -->

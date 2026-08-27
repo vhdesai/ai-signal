@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled
 - 2026-05-22-stanford-ai-index-us-ai-researcher-inflow-drops-89-since-201
 - 2026-05-04-hotai-researcher-inflow-to-us-down-89-since-2017
-- 2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr
+- 2026-08-24-stanford-entry-level-employment-in-the-most-ai-exposed-jobs
 embedding_id: 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT disclosed a 20% year-over-year decline in incoming graduate students, a tren
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-16-mit-disclosed-a-20-decline-in-incoming-graduate-students-a-s]] · [[2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled]] · [[2026-05-22-stanford-ai-index-us-ai-researcher-inflow-drops-89-since-201]] · [[2026-05-04-hotai-researcher-inflow-to-us-down-89-since-2017]] · [[2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr]]
+**Related:** [[2026-05-16-mit-disclosed-a-20-decline-in-incoming-graduate-students-a-s]] · [[2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled]] · [[2026-05-22-stanford-ai-index-us-ai-researcher-inflow-drops-89-since-201]] · [[2026-05-04-hotai-researcher-inflow-to-us-down-89-since-2017]] · [[2026-08-24-stanford-entry-level-employment-in-the-most-ai-exposed-jobs]]
 <!-- graph:end -->

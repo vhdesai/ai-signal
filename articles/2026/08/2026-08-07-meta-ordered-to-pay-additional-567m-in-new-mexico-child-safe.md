@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-07-new-mexico-court-orders-meta-to-fund-567m-child-safety-abate
-- 2026-08-18-meta-faces-29-state-trial-over-alleged-harm-to-young-users
-- 2026-08-24-tiktok-to-pay-400-million-to-settle-children-s-privacy-case
-- 2026-07-14-meta-sued-over-allegations-ai-targeted-workers-on-leave-for
-- 2026-08-18-landmark-29-state-trial-against-meta-over-youth-harm-opens-i
+- 2026-08-26-meta-reaches-18-billion-settlement-with-48-states-over-child
+- 2026-08-26-meta-reaches-18-billion-settlement-with-48-states-but-wider
+- 2026-08-26-meta-reaches-18b-settlement-with-48-states-over-child-safety
+- 2026-08-26-meta-s-18b-settlement-ends-one-battle-wider-legal-war-looms
 embedding_id: 2026-08-07-meta-ordered-to-pay-additional-567m-in-new-mexico-child-safe
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A New Mexico court ordered Meta to pay an additional $567M in damages related to
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-07-new-mexico-court-orders-meta-to-fund-567m-child-safety-abate]] · [[2026-08-18-meta-faces-29-state-trial-over-alleged-harm-to-young-users]] · [[2026-08-24-tiktok-to-pay-400-million-to-settle-children-s-privacy-case]] · [[2026-07-14-meta-sued-over-allegations-ai-targeted-workers-on-leave-for]] · [[2026-08-18-landmark-29-state-trial-against-meta-over-youth-harm-opens-i]]
+**Related:** [[2026-08-07-new-mexico-court-orders-meta-to-fund-567m-child-safety-abate]] · [[2026-08-26-meta-reaches-18-billion-settlement-with-48-states-over-child]] · [[2026-08-26-meta-reaches-18-billion-settlement-with-48-states-but-wider]] · [[2026-08-26-meta-reaches-18b-settlement-with-48-states-over-child-safety]] · [[2026-08-26-meta-s-18b-settlement-ends-one-battle-wider-legal-war-looms]]
 <!-- graph:end -->

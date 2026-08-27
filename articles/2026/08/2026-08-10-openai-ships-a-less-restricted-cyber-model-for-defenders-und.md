@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-openai-tightens-controls-on-its-astra-model-over-cybersecuri
 - 2026-08-07-openai-pauses-astra-model-development-after-reaching-critica
-- 2026-04-15-model-releases
+- 2026-08-25-openai-announces-new-security-safeguards-after-internal-mode
 embedding_id: 2026-08-10-openai-ships-a-less-restricted-cyber-model-for-defenders-und
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI launched a cybersecurity-tuned model available to vetted defenders throug
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-10-openai-tightens-controls-on-its-astra-model-over-cybersecuri]] · [[2026-08-07-openai-pauses-astra-model-development-after-reaching-critica]] · [[2026-04-15-model-releases]]
+**Related:** [[2026-08-10-openai-tightens-controls-on-its-astra-model-over-cybersecuri]] · [[2026-08-07-openai-pauses-astra-model-development-after-reaching-critica]] · [[2026-08-25-openai-announces-new-security-safeguards-after-internal-mode]]
 <!-- graph:end -->

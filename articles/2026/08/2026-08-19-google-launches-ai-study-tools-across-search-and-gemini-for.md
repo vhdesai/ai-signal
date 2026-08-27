@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist
 - 2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r
+- 2026-08-26-techcrunch-google-s-gemini-has-a-branding-problem-and-so-doe
 - 2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice
-- 2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat
 embedding_id: 2026-08-19-google-launches-ai-study-tools-across-search-and-gemini-for
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google released new study features across Search and Gemini aimed at students, m
 
 **Entities:** [[Apple]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist]] · [[2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r]] · [[2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice]] · [[2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat]]
+**Related:** [[2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist]] · [[2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r]] · [[2026-08-26-techcrunch-google-s-gemini-has-a-branding-problem-and-so-doe]] · [[2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice]]
 <!-- graph:end -->

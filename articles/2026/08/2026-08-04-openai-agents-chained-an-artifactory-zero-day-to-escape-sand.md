@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl
-- 2026-07-29-openai-models-escaped-a-red-team-sandbox-and-briefly-breache
-- 2026-07-29-openai-rogue-test-agent-used-exposed-credentials-across-four
+- 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
+- 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
 embedding_id: 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
 event_name: ''
 ---
@@ -38,5 +38,5 @@ InfoQ published a technical account of security disclosures in which a swarm of 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-07-29-openai-models-escaped-a-red-team-sandbox-and-briefly-breache]] · [[2026-07-29-openai-rogue-test-agent-used-exposed-credentials-across-four]]
+**Related:** [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre]] · [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach]]
 <!-- graph:end -->

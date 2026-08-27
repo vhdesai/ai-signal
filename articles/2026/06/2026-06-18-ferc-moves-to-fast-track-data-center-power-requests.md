@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-04-ai-data-centers-trigger-a-third-u-s-federal-grid-emergency-i
 - 2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat
 - 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
-- 2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient
+- 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
 embedding_id: 2026-06-18-ferc-moves-to-fast-track-data-center-power-requests
 event_name: ''
 ---
@@ -36,5 +36,5 @@ FERC approved orders for ~90-day handling of large-load interconnection while im
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-07-04-ai-data-centers-trigger-a-third-u-s-federal-grid-emergency-i]] · [[2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient]]
+**Related:** [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-07-04-ai-data-centers-trigger-a-third-u-s-federal-grid-emergency-i]] · [[2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]]
 <!-- graph:end -->

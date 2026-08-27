@@ -21,9 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-26-meta-reaches-18-billion-settlement-with-48-states-but-wider
+- 2026-08-26-meta-s-18b-settlement-ends-one-battle-wider-legal-war-looms
+- 2026-08-26-meta-reaches-18-billion-settlement-with-48-states-over-child
+- 2026-08-26-meta-reaches-18b-settlement-with-48-states-over-child-safety
 - 2026-08-07-meta-ordered-to-pay-additional-567m-in-new-mexico-child-safe
-- 2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over
-- 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
 embedding_id: 2026-08-24-tiktok-to-pay-400-million-to-settle-children-s-privacy-case
 event_name: ''
 ---
@@ -37,5 +39,5 @@ TikTok agreed to pay $400M to settle a children’s privacy case, adding to grow
 
 **Entities:** [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-07-meta-ordered-to-pay-additional-567m-in-new-mexico-child-safe]] · [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]]
+**Related:** [[2026-08-26-meta-reaches-18-billion-settlement-with-48-states-but-wider]] · [[2026-08-26-meta-s-18b-settlement-ends-one-battle-wider-legal-war-looms]] · [[2026-08-26-meta-reaches-18-billion-settlement-with-48-states-over-child]] · [[2026-08-26-meta-reaches-18b-settlement-with-48-states-over-child-safety]] · [[2026-08-07-meta-ordered-to-pay-additional-567m-in-new-mexico-child-safe]]
 <!-- graph:end -->

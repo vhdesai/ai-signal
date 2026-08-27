@@ -1,15 +1,17 @@
 ---
 type: entity-hub
 hub: ByteDance
-member_count: 79
+member_count: 81
 ---
 
 # ByteDance
 
-> Auto-generated entity hub. 79 connected article(s).
+> Auto-generated entity hub. 81 connected article(s).
 
+- `2026-08-25` [[2026-08-25-bytedance-launches-doubao-work-a-unified-office-ai-suitenew|ByteDance launches Doubao Work, a unified office AI suiteNew]]
+- `2026-08-24` [[2026-08-24-bytedance-merges-ai-teams-to-compete-with-tencenttrending|ByteDance merges AI teams to compete with TencentTrending]]
 - `2026-08-24` [[2026-08-24-bytedance-folds-trae-and-coze-into-doubao-to-challenge-tence|ByteDance folds Trae and Coze into Doubao to challenge Tencent’s WorkBuddy]]
-- `2026-08-24` [[2026-08-24-bytedance-folds-ai-tools-into-doubao-super-app-to-fight-tenc|ByteDance Folds AI Tools into Doubao Super-App to Fight Tencent]]
+- `2026-08-24` [[2026-08-24-bytedance-folds-ai-tools-into-doubao-super-app-to-fight-tenc|ByteDance Folds AI Tools Into Doubao Super-App to Fight Tencent]]
 - `2026-08-19` [[2026-08-19-china-allows-bytedance-and-tencent-to-import-10-000-nvidia-h|China allows ByteDance and Tencent to import ~10,000 Nvidia H200 chips each]]
 - `2026-08-17` [[2026-08-17-bytedance-tsinghua-cuda-agent-for-gpu-kernel-generation|ByteDance/Tsinghua: CUDA Agent for GPU Kernel Generation]]
 - `2026-08-17` [[2026-08-17-bytedance-seed-and-tsinghua-introduce-cuda-agent-for-gpu-ker|ByteDance Seed and Tsinghua Introduce CUDA Agent for GPU Kernel Generation]]

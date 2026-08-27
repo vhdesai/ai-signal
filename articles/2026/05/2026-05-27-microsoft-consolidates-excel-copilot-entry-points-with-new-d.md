@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-28-microsoft-ships-a-july-2026-excel-copilot-feature-wave
+- 2026-08-25-microsoft-adds-copilot-ai-capabilities-across-excel-in-augus
 - 2026-05-27-microsoft-ships-excel-copilot-redesign-with-live-web-data-fo
 - 2026-07-30-nadella-previews-a-unified-copilot-super-app-spanning-chat-c
 - 2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso
-- 2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l
 embedding_id: 2026-05-27-microsoft-consolidates-excel-copilot-entry-points-with-new-d
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft's May 2026 Excel update consolidates Copilot entry points down to two 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-28-microsoft-ships-a-july-2026-excel-copilot-feature-wave]] · [[2026-05-27-microsoft-ships-excel-copilot-redesign-with-live-web-data-fo]] · [[2026-07-30-nadella-previews-a-unified-copilot-super-app-spanning-chat-c]] · [[2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso]] · [[2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l]]
+**Related:** [[2026-07-28-microsoft-ships-a-july-2026-excel-copilot-feature-wave]] · [[2026-08-25-microsoft-adds-copilot-ai-capabilities-across-excel-in-augus]] · [[2026-05-27-microsoft-ships-excel-copilot-redesign-with-live-web-data-fo]] · [[2026-07-30-nadella-previews-a-unified-copilot-super-app-spanning-chat-c]] · [[2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso]]
 <!-- graph:end -->

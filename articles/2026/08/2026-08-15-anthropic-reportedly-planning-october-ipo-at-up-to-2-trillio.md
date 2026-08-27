@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-22-anthropic-investors-reportedly-targeting-a-2-trillion-ipo
 - 2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc
-- 2026-08-21-anthropic-prepares-a-record-ipo-that-could-top-spacex-s-debu
+- 2026-08-26-anthropic-to-pitch-investors-on-a-30-trillion-addressable-ma
 embedding_id: 2026-08-15-anthropic-reportedly-planning-october-ipo-at-up-to-2-trillio
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Per an FT report, Anthropic is targeting an October listing at an estimated $2 t
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-22-anthropic-investors-reportedly-targeting-a-2-trillion-ipo]] · [[2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc]] · [[2026-08-21-anthropic-prepares-a-record-ipo-that-could-top-spacex-s-debu]]
+**Related:** [[2026-08-22-anthropic-investors-reportedly-targeting-a-2-trillion-ipo]] · [[2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc]] · [[2026-08-26-anthropic-to-pitch-investors-on-a-30-trillion-addressable-ma]]
 <!-- graph:end -->

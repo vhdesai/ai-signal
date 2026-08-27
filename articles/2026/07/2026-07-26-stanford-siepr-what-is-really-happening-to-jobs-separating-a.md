@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-24-stanford-entry-level-employment-in-the-most-ai-exposed-jobs
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
 - 2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin
 - 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
 - 2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled
-- 2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did
 embedding_id: 2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A widely circulated SIEPR policy brief by Neale Mahoney, Erika McEntarfer, and K
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled]] · [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]]
+**Related:** [[2026-08-24-stanford-entry-level-employment-in-the-most-ai-exposed-jobs]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled]]
 <!-- graph:end -->

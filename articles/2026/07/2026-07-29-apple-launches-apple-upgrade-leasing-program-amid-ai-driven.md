@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-10-apple-downgraded-as-ai-driven-memory-costs-squeeze-iphone-ec
 - 2026-07-31-apple-considers-paywalling-heavier-siri-ai-usage-through-icl
 - 2026-07-31-apple-reportedly-considers-paid-tiers-for-advanced-siri-ai-u
-- 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
+- 2026-08-17-nvidia-guarantees-105b-in-leases-for-openai-s-ohio-data-cent
 embedding_id: 2026-07-29-apple-launches-apple-upgrade-leasing-program-amid-ai-driven
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple introduced a Klarna-partnered U.S. leasing program that replaces the iPhon
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su]] · [[2026-08-10-apple-downgraded-as-ai-driven-memory-costs-squeeze-iphone-ec]] · [[2026-07-31-apple-considers-paywalling-heavier-siri-ai-usage-through-icl]] · [[2026-07-31-apple-reportedly-considers-paid-tiers-for-advanced-siri-ai-u]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]]
+**Related:** [[2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su]] · [[2026-08-10-apple-downgraded-as-ai-driven-memory-costs-squeeze-iphone-ec]] · [[2026-07-31-apple-considers-paywalling-heavier-siri-ai-usage-through-icl]] · [[2026-07-31-apple-reportedly-considers-paid-tiers-for-advanced-siri-ai-u]] · [[2026-08-17-nvidia-guarantees-105b-in-leases-for-openai-s-ohio-data-cent]]
 <!-- graph:end -->

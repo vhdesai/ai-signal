@@ -26,6 +26,7 @@ canonical_article_id: 2026-05-21-oracle-fusion-data-intelligence-goes-live-at-he
 related_article_ids:
 - 2026-05-21-oracle-fusion-data-intelligence-deployed-at-heathrow-mtn-clo
 - 2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e
+- 2026-08-26-oracle-brings-sovereign-ai-and-cloud-offerings-to-leap-2026
 - 2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil
 embedding_id: 2026-05-21-oracle-fusion-data-intelligence-rolls-out-to-heathrow-airpor
 event_name: ''
@@ -41,5 +42,5 @@ Oracle announced that Heathrow Airport, Kent (UK county council), and MTN are li
 **Entities:** [[Databricks]] · [[Microsoft]] · [[Oracle]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-05-21-oracle-fusion-data-intelligence-goes-live-at-heathrow-mtn-an]]
-**Related:** [[2026-05-21-oracle-fusion-data-intelligence-deployed-at-heathrow-mtn-clo]] · [[2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e]] · [[2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil]]
+**Related:** [[2026-05-21-oracle-fusion-data-intelligence-deployed-at-heathrow-mtn-clo]] · [[2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e]] · [[2026-08-26-oracle-brings-sovereign-ai-and-cloud-offerings-to-leap-2026]] · [[2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil]]
 <!-- graph:end -->

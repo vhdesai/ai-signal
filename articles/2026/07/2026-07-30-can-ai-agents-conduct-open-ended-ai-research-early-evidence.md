@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-princeton-shadow-evaluations-ai-agents-fail-to-make-research
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
+- 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
 - 2026-05-22-openai-published-research-showing-that-one-of-its-ai-models
 - 2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi
-- 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
 embedding_id: 2026-07-30-can-ai-agents-conduct-open-ended-ai-research-early-evidence
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A 24-author study led by Princeton (Kirgis, Kapoor, Narayanan) introduces “sha
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-30-princeton-shadow-evaluations-ai-agents-fail-to-make-research]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-05-22-openai-published-research-showing-that-one-of-its-ai-models]] · [[2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]]
+**Related:** [[2026-07-30-princeton-shadow-evaluations-ai-agents-fail-to-make-research]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-05-22-openai-published-research-showing-that-one-of-its-ai-models]] · [[2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi]]
 <!-- graph:end -->

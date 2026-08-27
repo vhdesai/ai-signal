@@ -1,21 +1,52 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1045
+member_count: 1076
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1045 connected article(s).
+> Auto-generated topic hub. 1076 connected article(s).
 
+- `2026-08-26` [[2026-08-26-z-ai-ships-glm-5-3-flash-320b-moe-1m-context-claimed-chinese|Z.ai Ships GLM-5.3-Flash — 320B MoE, 1M Context, Claimed Chinese-Chip-Only Training and Serving]]
+- `2026-08-26` [[2026-08-26-z-ai-confirms-it-built-ox-alpha-open-weights-releasing-today|Z.ai Confirms It Built 'Ox Alpha' — Open Weights Releasing Today]]
+- `2026-08-26` [[2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-to-108b-as-ai-cape|Nvidia Q2 revenue doubles to $96.2B, guides to $108B as AI capex holds]]
+- `2026-08-26` [[2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-to-108b-shares-sli|Nvidia Q2 Revenue Doubles to $96.2B, Guides to $108B — Shares Slip After Hours]]
+- `2026-08-26` [[2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-108b-shares-slip-a|Nvidia Q2 Revenue Doubles to $96.2B, Guides $108B — Shares Slip After Hours]]
+- `2026-08-26` [[2026-08-26-nasdaq-futures-edge-lower-ahead-of-pce-data-and-nvidia-earni|Nasdaq futures edge lower ahead of PCE data and Nvidia earnings]]
+- `2026-08-26` [[2026-08-26-mystery-ox-alpha-model-traced-to-chinese-lab-z-ai|Mystery "Ox Alpha" model traced to Chinese lab Z.ai]]
+- `2026-08-26` [[2026-08-26-moonshot-ai-in-cloud-revenue-share-talks-with-microsoft-amaz|Moonshot AI in cloud revenue-share talks with Microsoft, Amazon and Google]]
+- `2026-08-26` [[2026-08-26-moonshot-ai-reportedly-in-revenue-share-talks-to-host-kimi-k|Moonshot AI Reportedly in Revenue-Share Talks to Host Kimi K3 on US Clouds]]
+- `2026-08-26` [[2026-08-26-instinct-raises-350m-at-a-2-5b-valuation-before-public-launc|Instinct raises $350M at a $2.5B valuation before public launch]]
+- `2026-08-26` [[2026-08-26-huawei-pitches-egypt-on-ascend-powered-ai-data-centers-for-m|Huawei Pitches Egypt on Ascend-Powered AI Data Centers for Military and Public Sector Use]]
+- `2026-08-26` [[2026-08-26-deepseek-s-revenue-reaches-70-million-as-of-july-tenfold-jum|DeepSeek's Revenue Reaches $70 Million as of July — Tenfold Jump from 2025]]
+- `2026-08-26` [[2026-08-26-deepseek-nears-74b-pre-ipo-round-eyes-2027-star-market-debut|DeepSeek nears ~$74B pre-IPO round, eyes 2027 STAR Market debut]]
+- `2026-08-26` [[2026-08-26-deepseek-revenue-reaches-70m-through-july-tenfold-jump-from|DeepSeek Revenue Reaches $70M Through July—Tenfold Jump From 2025]]
+- `2026-08-26` [[2026-08-26-deepseek-revenue-reaches-70-million-through-july-tenfold-jum|DeepSeek Revenue Reaches $70 Million Through July — Tenfold Jump From 2025]]
+- `2026-08-26` [[2026-08-26-deepseek-revenue-reaches-70-million-through-july-10x-jump-fr|DeepSeek Revenue Reaches $70 Million Through July — 10x Jump from 2025]]
+- `2026-08-26` [[2026-08-26-china-s-z-ai-confirmed-as-builder-of-free-ox-alpha-stealth-m|China's Z.AI Confirmed as Builder of Free "Ox Alpha" Stealth Model, Weights to Follow]]
+- `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-an-ai-robot-tax|Bill Gates calls for "human reserved" jobs and an AI/robot tax]]
+- `2026-08-26` [[2026-08-26-bill-gates-warns-about-ai-risks|Bill Gates Warns About AI Risks]]
+- `2026-08-26` [[2026-08-26-analysis-openai-s-executive-exodus-explained-brockman-reasse|Analysis: OpenAI’s Executive Exodus Explained — Brockman Reasserts Control]]
+- `2026-08-25` [[2026-08-25-taiwan-indicts-nine-including-nvidia-and-super-micro-staff-o|Taiwan indicts nine, including Nvidia and Super Micro staff, over B300 server smuggling]]
+- `2026-08-25` [[2026-08-25-taiwan-charges-nvidia-and-super-micro-employees-with-ai-serv|Taiwan charges Nvidia and Super Micro employees with AI-server smugglingBreaking]]
+- `2026-08-25` [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc|Liquid AI Open-Sources Pipette, a Reproducible On-Device Benchmarking Suite]]
+- `2026-08-25` [[2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized-alabama-pro|Hugging Face Revenue Jumps 50% to $150M Annualized; Alabama Probes OpenAI Over HF Hack]]
+- `2026-08-25` [[2026-08-25-deepseek-reportedly-testing-a-new-coding-model|DeepSeek Reportedly Testing a New Coding Model]]
+- `2026-08-25` [[2026-08-25-bytedance-launches-doubao-work-a-unified-office-ai-suitenew|ByteDance launches Doubao Work, a unified office AI suiteNew]]
 - `2026-08-24` [[2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its|XPeng’s robotics arm raises $900M+ at a $6.3B valuation in its first outside round]]
 - `2026-08-24` [[2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi|XPeng Robotics Raises $900M+ at a $6.3B Valuation in Record China Embodied-AI Round]]
 - `2026-08-24` [[2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation|XPENG Robotics Raises Over $900M at a $6.3B+ Valuation]]
+- `2026-08-24` [[2026-08-24-nvidia-pays-6-billion-to-license-poolside-s-ai-model-factory|Nvidia pays $6 billion to license Poolside’s AI “model factory”BreakingHot]]
 - `2026-08-24` [[2026-08-24-nvidia-is-reportedly-spending-6-billion-to-build-a-u-s-alter|Nvidia is reportedly spending $6 billion to build a U.S. alternative to Chinese AI]]
+- `2026-08-24` [[2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens|Georgia Tech AI governance through a visiting scholar’s lens]]
 - `2026-08-24` [[2026-08-24-galaxea-ai-showcases-full-stack-embodied-ai-generalization-a|Galaxea AI Showcases Full-Stack Embodied AI Generalization at WRC 2026]]
+- `2026-08-24` [[2026-08-24-former-openai-researcher-luke-metz-joins-meta-s-superintelli|Former OpenAI Researcher Luke Metz Joins Meta's Superintelligence Labs]]
 - `2026-08-24` [[2026-08-24-carnegie-mellon-ai-is-showing-a-revenue-payoff|Carnegie Mellon: AI Is Showing a Revenue Payoff]]
+- `2026-08-24` [[2026-08-24-bytedance-merges-ai-teams-to-compete-with-tencenttrending|ByteDance merges AI teams to compete with TencentTrending]]
 - `2026-08-24` [[2026-08-24-bytedance-folds-trae-and-coze-into-doubao-to-challenge-tence|ByteDance folds Trae and Coze into Doubao to challenge Tencent’s WorkBuddy]]
-- `2026-08-24` [[2026-08-24-bytedance-folds-ai-tools-into-doubao-super-app-to-fight-tenc|ByteDance Folds AI Tools into Doubao Super-App to Fight Tencent]]
+- `2026-08-24` [[2026-08-24-bytedance-folds-ai-tools-into-doubao-super-app-to-fight-tenc|ByteDance Folds AI Tools Into Doubao Super-App to Fight Tencent]]
+- `2026-08-24` [[2026-08-24-alibaba-sells-10-2b-in-stock-to-fund-ai-shares-plunge-roughl|Alibaba sells $10.2B in stock to fund AI; shares plunge roughly 10%BreakingHot]]
 - `2026-08-24` [[2026-08-24-alibaba-releases-wan3-0-turning-pdfs-and-slide-decks-into-30|Alibaba releases Wan3.0, turning PDFs and slide decks into 30-second video]]
 - `2026-08-24` [[2026-08-24-alibaba-plans-to-raise-10-2-billion-for-ai-investment|Alibaba plans to raise $10.2 billion for AI investment]]
 - `2026-08-24` [[2026-08-24-alibaba-prices-10-2b-hong-kong-share-placement-to-fund-ai-sh|Alibaba Prices $10.2B Hong Kong Share Placement to Fund AI; Shares Fall ~10%]]

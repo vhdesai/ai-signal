@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-apple-unveils-apple-intelligence-accessibility-features-on-d
-- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference
+- 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
 embedding_id: 2026-05-19-apple-unveils-new-apple-intelligence-accessibility-features
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Ahead of WWDC, Apple previewed Apple Intelligence accessibility features includi
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-apple-unveils-apple-intelligence-accessibility-features-on-d]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]]
+**Related:** [[2026-05-19-apple-unveils-apple-intelligence-accessibility-features-on-d]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]]
 <!-- graph:end -->

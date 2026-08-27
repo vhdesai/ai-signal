@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
 - 2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
 - 2026-08-08-planned-amazon-data-center-could-become-the-largest-u-s-clim
-- 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
 embedding_id: 2026-07-21-data-centers-expected-to-use-four-times-more-u-s-electricity
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TechCrunch reports that BloombergNEF expects U.S. data centers to use one-fifth 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-08-08-planned-amazon-data-center-could-become-the-largest-u-s-clim]] · [[2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs]]
+**Related:** [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-08-08-planned-amazon-data-center-could-become-the-largest-u-s-clim]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai
 - 2026-08-23-alibaba-raises-10-2bn-in-hong-kong-earmarks-100-for-ai
+- 2026-08-24-alibaba-sells-10-2b-in-stock-to-fund-ai-shares-plunge-roughl
 - 2026-08-24-alibaba-plunges-after-announcing-10-2-billion-share-placemen
 - 2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in
-- 2026-08-23-alibaba-raises-10-2b-in-hong-kong-s-biggest-ever-follow-on-t
 embedding_id: 2026-05-14-alibaba-cloud-grows-38-but-core-profit-plunges-84-on-ai-cape
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Alibaba cloud grows 38% but core profit plunges 84% on AI capex — CNBC, May 13
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai]] · [[2026-08-23-alibaba-raises-10-2bn-in-hong-kong-earmarks-100-for-ai]] · [[2026-08-24-alibaba-plunges-after-announcing-10-2-billion-share-placemen]] · [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-08-23-alibaba-raises-10-2b-in-hong-kong-s-biggest-ever-follow-on-t]]
+**Related:** [[2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai]] · [[2026-08-23-alibaba-raises-10-2bn-in-hong-kong-earmarks-100-for-ai]] · [[2026-08-24-alibaba-sells-10-2b-in-stock-to-fund-ai-shares-plunge-roughl]] · [[2026-08-24-alibaba-plunges-after-announcing-10-2-billion-share-placemen]] · [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]]
 <!-- graph:end -->

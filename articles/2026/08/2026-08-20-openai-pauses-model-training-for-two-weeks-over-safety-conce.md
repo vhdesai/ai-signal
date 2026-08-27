@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-21-business-insider-why-openai-s-training-pause-is-convenient
 - 2026-08-18-openai-pauses-frontier-rl-runs-over-critical-cyber-capabilit
+- 2026-08-25-openai-announces-new-security-safeguards-after-internal-mode
 - 2026-08-21-openai-slows-frontier-training-and-adds-safeguards-after-hug
 embedding_id: 2026-08-20-openai-pauses-model-training-for-two-weeks-over-safety-conce
 event_name: ''
@@ -38,5 +39,5 @@ OpenAI took a two-week break from training new AI models to rethink security mea
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-21-business-insider-why-openai-s-training-pause-is-convenient]] · [[2026-08-18-openai-pauses-frontier-rl-runs-over-critical-cyber-capabilit]] · [[2026-08-21-openai-slows-frontier-training-and-adds-safeguards-after-hug]]
+**Related:** [[2026-08-21-business-insider-why-openai-s-training-pause-is-convenient]] · [[2026-08-18-openai-pauses-frontier-rl-runs-over-critical-cyber-capabilit]] · [[2026-08-25-openai-announces-new-security-safeguards-after-internal-mode]] · [[2026-08-21-openai-slows-frontier-training-and-adds-safeguards-after-hug]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-05-google-launched-event-driven-webhooks-support-in-the-gemini
 - 2026-05-04-newgoogle-gemini-api-adds-event-driven-webhooks
+- 2026-08-26-gemini-live-gains-agentic-task-execution-through-spark
 - event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
 - event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation
-- 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
 embedding_id: 2026-05-04-google-launches-event-driven-webhooks-in-the-gemini-api
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google added event-driven Webhooks to the Gemini API to replace polling for the 
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-05-google-launched-event-driven-webhooks-support-in-the-gemini]] · [[2026-05-04-newgoogle-gemini-api-adds-event-driven-webhooks]] · [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]] · [[event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation]] · [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]]
+**Related:** [[2026-05-05-google-launched-event-driven-webhooks-support-in-the-gemini]] · [[2026-05-04-newgoogle-gemini-api-adds-event-driven-webhooks]] · [[2026-08-26-gemini-live-gains-agentic-task-execution-through-spark]] · [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]] · [[event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation]]
 <!-- graph:end -->

@@ -57,6 +57,31 @@ news/*.md (input)
 - Writes each article as a YAML-frontmatter markdown file in `articles/YYYY/MM/`
 - Computes content hashes and normalized title hashes for deduplication
 
+#### Substantial-content requirement (fragment/snippet exclusion)
+
+Every published article **must carry substantial information** — fragments and
+snippet-only stubs are dropped at split time and never reach the site. The
+filters live in `split.py` and apply to **all** parsed articles, including
+daily-digest, narrative, and event-file articles:
+
+- **Minimum body length** — `_MIN_BODY_WORDS` (default **30 words ≈ 4–5 rendered
+  lines**). Any article whose summary has fewer words is dropped via
+  `_has_min_content()` and counted in `skipped_thin_articles`. Event-file
+  articles are held to the same bar (they are **not** exempt).
+- **Masthead / overview headers** — an article whose `source` begins with
+  "Compiled" or "Prepared for" is a mis-parsed digest masthead, not a story, and
+  is dropped (`_is_masthead_article()`).
+- **Publication-sources digests** — `*_Publication-Sources.md` files only list
+  newsletter subject lines / "no emails found" placeholders and are skipped
+  wholesale (`_is_publication_sources_file()`), counted in
+  `skipped_publication_sources`.
+
+To make the exclusion stricter or looser in the future, adjust `_MIN_BODY_WORDS`
+in `split.py`; the same constant governs every article path. Source and URL
+citation lists (e.g. "Sources compiled from: …", "Publication Newsletter
+Sources …") are **preserved** — only pure editorial-process notes are stripped
+(see `_EDITORIAL_BOILERPLATE_RES`).
+
 ### 3. Index (`index.py`)
 
 - Reads all article markdown files from `articles/`

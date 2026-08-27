@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: TSMC
-member_count: 58
+member_count: 60
 ---
 
 # TSMC
 
-> Auto-generated entity hub. 58 connected article(s).
+> Auto-generated entity hub. 60 connected article(s).
 
+- `2026-08-24` [[2026-08-24-d-matrix-details-raptor-3d-dram-accelerator-at-hot-chips-202|d-Matrix Details Raptor 3D-DRAM Accelerator at Hot Chips 2026: 100 TB/s at a Fraction of HBM Energy]]
 - `2026-08-24` [[2026-08-24-xiaomi-launches-3nm-xring-o3-soc-and-a-6nm-npu-to-run-its-mi|Xiaomi launches 3nm Xring O3 SoC and a 6nm NPU to run its MiMo LLM on-device]]
+- `2026-08-24` [[2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti|Nvidia puts the Groq 3 LPX inference rack into full production, Nebius first to deploy]]
 - `2026-08-19` [[2026-08-19-samsung-raises-advanced-foundry-prices-by-up-to-15|Samsung Raises Advanced Foundry Prices by Up to 15%]]
 - `2026-08-19` [[2026-08-19-cerebras-launches-cs-4-nexus-wafer-scale-inference-system|Cerebras launches CS-4 "Nexus" wafer-scale inference system]]
 - `2026-08-10` [[2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand|TSMC July revenue surges ~45% YoY on AI chip demand]]

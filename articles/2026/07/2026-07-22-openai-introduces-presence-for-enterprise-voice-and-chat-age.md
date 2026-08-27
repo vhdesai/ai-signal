@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-22-openai-unveils-presence-an-enterprise-platform-for-realtime
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-07-31-openai-publishes-guidance-on-building-an-ai-ready-workforce
-- 2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on
+- 2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us
 embedding_id: 2026-07-22-openai-introduces-presence-for-enterprise-voice-and-chat-age
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI introduced Presence, an enterprise AI agent platform for deploying voice 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-22-openai-unveils-presence-an-enterprise-platform-for-realtime]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-07-31-openai-publishes-guidance-on-building-an-ai-ready-workforce]] · [[2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on]]
+**Related:** [[2026-07-22-openai-unveils-presence-an-enterprise-platform-for-realtime]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-07-31-openai-publishes-guidance-on-building-an-ai-ready-workforce]] · [[2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us]]
 <!-- graph:end -->

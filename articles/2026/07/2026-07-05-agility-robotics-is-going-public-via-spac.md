@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-25-robotics-startup-generalist-reaches-3b-valuation-on-200m-ext
+- 2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte
+- 2026-08-25-robotics-startup-generalist-reaches-3b-valuation
+- 2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker
 - 2026-07-17-agility-robotics-opens-new-training-center-near-tesla-s-fact
-- 2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its
-- 2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation
-- 2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto
-- 2026-08-12-unitree-s-shanghai-robotics-ipo-draws-8-000x-retail-oversubs
 embedding_id: 2026-07-05-agility-robotics-is-going-public-via-spac
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Agility Robotics, maker of the Digit humanoid robot, is merging with Churchill C
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-17-agility-robotics-opens-new-training-center-near-tesla-s-fact]] · [[2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its]] · [[2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation]] · [[2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto]] · [[2026-08-12-unitree-s-shanghai-robotics-ipo-draws-8-000x-retail-oversubs]]
+**Related:** [[2026-08-25-robotics-startup-generalist-reaches-3b-valuation-on-200m-ext]] · [[2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte]] · [[2026-08-25-robotics-startup-generalist-reaches-3b-valuation]] · [[2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker]] · [[2026-07-17-agility-robotics-opens-new-training-center-near-tesla-s-fact]]
 <!-- graph:end -->

@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
+- 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
 - 2026-08-06-openai-details-how-test-agents-built-a-covert-message-board
 - 2026-07-27-openai-s-hugging-face-breach-reignites-alignment-and-control
-- 2026-07-27-microsoft-launches-mai-cyber-1-flash-and-project-perception
-- 2026-08-08-containment-failures-now-disclosed-by-three-frontier-labs-in
+- 2026-08-26-openai-s-hugging-face-breach-report-finds-agents-were-reward
 embedding_id: 2026-07-20-reports-say-an-ai-agent-carried-out-an-end-to-end-cyberattac
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Axios reports that Hugging Face said an AI agent carried out an end-to-end cyber
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach]] · [[2026-08-06-openai-details-how-test-agents-built-a-covert-message-board]] · [[2026-07-27-openai-s-hugging-face-breach-reignites-alignment-and-control]] · [[2026-07-27-microsoft-launches-mai-cyber-1-flash-and-project-perception]] · [[2026-08-08-containment-failures-now-disclosed-by-three-frontier-labs-in]]
+**Related:** [[2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach]] · [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach]] · [[2026-08-06-openai-details-how-test-agents-built-a-covert-message-board]] · [[2026-07-27-openai-s-hugging-face-breach-reignites-alignment-and-control]] · [[2026-08-26-openai-s-hugging-face-breach-report-finds-agents-were-reward]]
 <!-- graph:end -->

@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific
 - 2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
+- 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
 - 2026-08-01-supabase-releases-an-open-benchmark-for-claude-code-codex-an
 embedding_id: 2026-08-21-swe-bench-science-coding-agents-still-fail-on-real-scientifi
 event_name: ''
@@ -36,5 +37,5 @@ A new 119-task benchmark evaluates whether coding agents can resolve genuine eng
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific]] · [[2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-08-01-supabase-releases-an-open-benchmark-for-claude-code-codex-an]]
+**Related:** [[2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific]] · [[2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-08-01-supabase-releases-an-open-benchmark-for-claude-code-codex-an]]
 <!-- graph:end -->

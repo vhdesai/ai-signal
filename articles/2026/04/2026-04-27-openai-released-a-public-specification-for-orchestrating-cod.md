@@ -27,10 +27,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri
+- 2026-08-25-ibm-releases-granite-4-2-bringing-native-reasoning-and-agent
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f
 - 2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model
 - 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
-- 2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o
 embedding_id: 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Sentry shipped a debugger that accepts natural-language queries against stack tr
 
 **Entities:** [[IBM]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]] · [[2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o]]
+**Related:** [[2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri]] · [[2026-08-25-ibm-releases-granite-4-2-bringing-native-reasoning-and-agent]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]] · [[2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]]
 <!-- graph:end -->

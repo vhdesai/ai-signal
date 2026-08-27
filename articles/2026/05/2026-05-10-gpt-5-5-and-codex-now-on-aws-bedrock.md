@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon
 - 2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock
+- 2026-08-24-openai-brings-the-gpt-5-6-model-family-to-aws-s-kironew
 - 2026-08-11-openai-s-daybreak-cyber-defense-models-land-on-amazon-bedroc
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
-- 2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-independent-evalu
 embedding_id: 2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock
 event_name: ''
 ---
@@ -40,5 +40,5 @@ One day after Microsoft and OpenAI restructured their Azure exclusivity agreemen
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock]] · [[2026-08-11-openai-s-daybreak-cyber-defense-models-land-on-amazon-bedroc]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-independent-evalu]]
+**Related:** [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock]] · [[2026-08-24-openai-brings-the-gpt-5-6-model-family-to-aws-s-kironew]] · [[2026-08-11-openai-s-daybreak-cyber-defense-models-land-on-amazon-bedroc]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]]
 <!-- graph:end -->

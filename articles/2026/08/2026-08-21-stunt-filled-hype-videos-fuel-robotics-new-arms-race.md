@@ -21,7 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra
-- 2026-07-11-the-videos-from-ukraine-show-a-cat-and-mouse-game
+- 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
 embedding_id: 2026-08-21-stunt-filled-hype-videos-fuel-robotics-new-arms-race
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Robotics companies are producing increasingly extreme stunt videos that exaggera
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra]] · [[2026-07-11-the-videos-from-ukraine-show-a-cat-and-mouse-game]]
+**Related:** [[2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]]
 <!-- graph:end -->

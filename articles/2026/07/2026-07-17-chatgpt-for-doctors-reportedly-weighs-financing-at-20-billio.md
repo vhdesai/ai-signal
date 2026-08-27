@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-17-chatgpt-for-doctors-weighs-financing-at-20-billion-valuation
 - 2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at
 - 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
+- 2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte
 - 2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua
-- 2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough
 embedding_id: 2026-07-17-chatgpt-for-doctors-reportedly-weighs-financing-at-20-billio
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Information reports that a “ChatGPT for doctors” company is considering 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-17-chatgpt-for-doctors-weighs-financing-at-20-billion-valuation]] · [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua]] · [[2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough]]
+**Related:** [[2026-07-17-chatgpt-for-doctors-weighs-financing-at-20-billion-valuation]] · [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte]] · [[2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua]]
 <!-- graph:end -->

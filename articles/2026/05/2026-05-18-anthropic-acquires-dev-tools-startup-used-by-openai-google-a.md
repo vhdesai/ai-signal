@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
+- 2026-08-27-anthropic-adds-a-native-browser-to-the-claude-cowork-desktop
 - 2026-05-18-anthropic-acquires-stainless-to-deepen-claude-agent-sdk-conn
 - 2026-05-19-anthropic-acquires-stainless-the-sdk-infrastructure-powering
 - 2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud
@@ -39,5 +40,5 @@ Anthropic has acquired an unnamed developer tooling startup that had been used b
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-18-anthropic-acquires-stainless-to-deepen-claude-agent-sdk-conn]] · [[2026-05-19-anthropic-acquires-stainless-the-sdk-infrastructure-powering]] · [[2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud]]
+**Related:** [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-08-27-anthropic-adds-a-native-browser-to-the-claude-cowork-desktop]] · [[2026-05-18-anthropic-acquires-stainless-to-deepen-claude-agent-sdk-conn]] · [[2026-05-19-anthropic-acquires-stainless-the-sdk-infrastructure-powering]] · [[2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud]]
 <!-- graph:end -->

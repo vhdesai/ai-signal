@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-25-microsoft-adds-copilot-ai-capabilities-across-excel-in-augus
 - 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
 - 2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso
 - 2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd
 - 2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m
-- 2026-04-20-microsoft-ai-april-18-2026-microsoft-detailed-additional-mai
 embedding_id: 2026-05-14-microsoft-edge-adds-copilot-features-that-read-across-browse
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft Edge adds Copilot features that read across browser tabs — Creati.ai
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso]] · [[2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd]] · [[2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m]] · [[2026-04-20-microsoft-ai-april-18-2026-microsoft-detailed-additional-mai]]
+**Related:** [[2026-08-25-microsoft-adds-copilot-ai-capabilities-across-excel-in-augus]] · [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso]] · [[2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd]] · [[2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m]]
 <!-- graph:end -->

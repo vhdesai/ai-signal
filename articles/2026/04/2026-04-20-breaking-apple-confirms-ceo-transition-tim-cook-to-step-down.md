@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli
 - 2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o
 - 2026-07-30-apple-beats-on-revenue-but-guides-weak-as-memory-crunch-bite
-- 2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli
+- 2026-08-25-openai-loses-head-of-data-centers-14th-executive-departure-i
 embedding_id: 2026-04-20-breaking-apple-confirms-ceo-transition-tim-cook-to-step-down
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple confirmed that CEO Tim Cook will step down later in 2026, with SVP of Hard
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-apple-beats-but-guides-soft-in-tim-cook-s-final-quarter-as-c]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o]] · [[2026-07-30-apple-beats-on-revenue-but-guides-weak-as-memory-crunch-bite]] · [[2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli]]
+**Related:** [[2026-07-30-apple-beats-but-guides-soft-in-tim-cook-s-final-quarter-as-c]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o]] · [[2026-07-30-apple-beats-on-revenue-but-guides-weak-as-memory-crunch-bite]] · [[2026-08-25-openai-loses-head-of-data-centers-14th-executive-departure-i]]
 <!-- graph:end -->

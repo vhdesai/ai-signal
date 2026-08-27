@@ -21,6 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
 - 2026-07-11-choosing-the-right-ai-agent-memory-strategy-a-decision-tree
+- 2026-08-24-arxiv-agentweave-routing-before-reasoning-for-efficient-func
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag
 embedding_id: 2026-08-10-practitioner-explainer-prompt-caching-versus-fine-tuning-for
@@ -35,5 +36,5 @@ A technical decision framework weighing prompt caching against fine-tuning on co
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]] · [[2026-07-11-choosing-the-right-ai-agent-memory-strategy-a-decision-tree]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag]]
+**Related:** [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]] · [[2026-07-11-choosing-the-right-ai-agent-memory-strategy-a-decision-tree]] · [[2026-08-24-arxiv-agentweave-routing-before-reasoning-for-efficient-func]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag]]
 <!-- graph:end -->

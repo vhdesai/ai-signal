@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-06-26-openai-hires-apple-s-vision-pro-and-smart-glasses-chief-paul
 - 2026-07-12-apple-sues-openai-over-alleged-trade-secret-theft-tied-to-it
 - 2026-08-12-openai-special-projects-lead-brad-lightcap-departing
-- 2026-07-11-apple-sues-openai-over-alleged-theft-of-ai-hardware-trade-se
-- 2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker
+- 2026-08-26-openai-s-data-center-chief-chris-malone-departs
+- 2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent
 embedding_id: 2026-06-28-paul-meade-apple-vp-of-hardware-engineering-for-the-vision-p
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Paul Meade, Apple VP of hardware engineering for the Vision Products Group and l
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-26-openai-hires-apple-s-vision-pro-and-smart-glasses-chief-paul]] · [[2026-07-12-apple-sues-openai-over-alleged-trade-secret-theft-tied-to-it]] · [[2026-08-12-openai-special-projects-lead-brad-lightcap-departing]] · [[2026-07-11-apple-sues-openai-over-alleged-theft-of-ai-hardware-trade-se]] · [[2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker]]
+**Related:** [[2026-06-26-openai-hires-apple-s-vision-pro-and-smart-glasses-chief-paul]] · [[2026-07-12-apple-sues-openai-over-alleged-trade-secret-theft-tied-to-it]] · [[2026-08-12-openai-special-projects-lead-brad-lightcap-departing]] · [[2026-08-26-openai-s-data-center-chief-chris-malone-departs]] · [[2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent]]
 <!-- graph:end -->

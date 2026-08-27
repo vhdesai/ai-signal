@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-08-21-swe-bench-science-coding-agents-still-fail-on-real-scientifi
 - 2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s
 - 2026-07-08-openai-audit-finds-30-of-swe-bench-pro-coding-tasks-are-brok
+- 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
 embedding_id: 2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific
 event_name: ''
@@ -38,5 +39,5 @@ Researchers introduce SWE-bench Science, a repository-level benchmark of 119 sci
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-21-swe-bench-science-coding-agents-still-fail-on-real-scientifi]] · [[2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s]] · [[2026-07-08-openai-audit-finds-30-of-swe-bench-pro-coding-tasks-are-brok]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]]
+**Related:** [[2026-08-21-swe-bench-science-coding-agents-still-fail-on-real-scientifi]] · [[2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s]] · [[2026-07-08-openai-audit-finds-30-of-swe-bench-pro-coding-tasks-are-brok]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]]
 <!-- graph:end -->

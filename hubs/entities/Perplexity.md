@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Perplexity
-member_count: 57
+member_count: 60
 ---
 
 # Perplexity
 
-> Auto-generated entity hub. 57 connected article(s).
+> Auto-generated entity hub. 60 connected article(s).
 
+- `2026-08-25` [[2026-08-25-perplexity-partners-with-nvidia-to-launch-portable-computer|Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs]]
+- `2026-08-25` [[2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local|Perplexity and Nvidia Launch "Portable Computer," a Fully Local AI Agent With Zero Token Costs]]
+- `2026-08-25` [[2026-08-25-perplexity-ships-portable-computer-on-nvidia-dgx-spark|Perplexity Ships “Portable Computer” on NVIDIA DGX Spark]]
+- `2026-08-25` [[2026-08-25-nvidia-s-equity-stakes-in-ai-companies-could-become-john-mal|Nvidia's Equity Stakes in AI Companies Could Become "John Malone-Style" Platform]]
 - `2026-08-24` [[2026-08-24-nvidia-weighs-perplexity-stake-at-30b-as-the-startup-s-arr-t|Nvidia weighs Perplexity stake at $30B+ as the startup’s ARR tops $750M]]
 - `2026-08-24` [[2026-08-24-nvidia-reportedly-discussed-a-perplexity-investment-at-a-30|Nvidia reportedly discussed a Perplexity investment at a $30 billion-plus valuation]]
 - `2026-08-24` [[2026-08-24-nvidia-discusses-perplexity-investment-at-30-billion-plus-va|Nvidia Discusses Perplexity Investment at $30 Billion-Plus Valuation]]
@@ -33,7 +37,6 @@ member_count: 57
 - `2026-05-27` [[2026-05-27-openai-brings-folha-and-uol-journalism-into-chatgpt-in-brazi|OpenAI Brings Folha and UOL Journalism into ChatGPT in Brazil]]
 - `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-optany-optimize-anything|ACM CAIS 2026: optany / optimize_anything]]
 - `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-tressoir|ACM CAIS 2026: Tressoir]]
-- `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-conference-program-and-speakers|ACM CAIS 2026: Conference program and speakers]]
 - `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild|ACM CAIS 2026: AI Agents for Discovery in the Wild]]
 - `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-strategic-implications|ACM CAIS 2026 — Strategic Implications]]
 - `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-overview|ACM CAIS 2026 — Overview]]

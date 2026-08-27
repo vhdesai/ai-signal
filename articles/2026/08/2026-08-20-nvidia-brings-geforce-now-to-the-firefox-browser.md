@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-30-first-windows-pcs-using-nvidia-chips-as-main-processor-debut
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
 - 2026-03-31-nvidia-launches-dlss-4-5-with-dynamic-multi-frame-generation
-- 2026-07-23-nvidia-dgx-gb300-supercomputer-comes-online-at-naval-postgra
+- 2026-08-26-amazon-triples-its-nvidia-gpu-order-adding-2-million-chips
 embedding_id: 2026-08-20-nvidia-brings-geforce-now-to-the-firefox-browser
 event_name: ''
 ---
@@ -38,5 +38,5 @@ NVIDIA extended GeForce NOW cloud gaming to Firefox on Windows, letting users st
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-30-first-windows-pcs-using-nvidia-chips-as-main-processor-debut]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]] · [[2026-03-31-nvidia-launches-dlss-4-5-with-dynamic-multi-frame-generation]] · [[2026-07-23-nvidia-dgx-gb300-supercomputer-comes-online-at-naval-postgra]]
+**Related:** [[2026-05-30-first-windows-pcs-using-nvidia-chips-as-main-processor-debut]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]] · [[2026-03-31-nvidia-launches-dlss-4-5-with-dynamic-multi-frame-generation]] · [[2026-08-26-amazon-triples-its-nvidia-gpu-order-adding-2-million-chips]]
 <!-- graph:end -->

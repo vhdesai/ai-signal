@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-25-anthropic-eyes-microsoft-maia-200-as-5th-silicon-partner
 - 2026-06-11-anthropic-pursues-data-center-leases-seeks-financial-backing
 - 2026-05-21-microsoft-in-talks-to-supply-maia-200-chips-to-anthropic-fol
-- 2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch
+- 2026-08-26-anthropic-signs-45b-compute-deal-with-nscale
 embedding_id: 2026-05-21-anthropic-in-talks-to-rent-microsoft-ai-chip-powered-servers
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Anthropic is in active discussions to rent servers powered by Microsoft's AI chi
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips]] · [[2026-05-25-anthropic-eyes-microsoft-maia-200-as-5th-silicon-partner]] · [[2026-06-11-anthropic-pursues-data-center-leases-seeks-financial-backing]] · [[2026-05-21-microsoft-in-talks-to-supply-maia-200-chips-to-anthropic-fol]] · [[2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch]]
+**Related:** [[2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips]] · [[2026-05-25-anthropic-eyes-microsoft-maia-200-as-5th-silicon-partner]] · [[2026-06-11-anthropic-pursues-data-center-leases-seeks-financial-backing]] · [[2026-05-21-microsoft-in-talks-to-supply-maia-200-chips-to-anthropic-fol]] · [[2026-08-26-anthropic-signs-45b-compute-deal-with-nscale]]
 <!-- graph:end -->

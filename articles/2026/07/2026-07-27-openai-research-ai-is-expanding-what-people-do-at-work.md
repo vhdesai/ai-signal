@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-openai-says-ai-is-expanding-what-people-do-at-work
+- 2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million
 - 2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses
 - 2026-07-14-openai-publishes-chatgpt-work-playbooks-for-data-science-and
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
@@ -37,5 +38,5 @@ OpenAI's new "Work at the Frontier" series, drawing on 800,000+ ChatGPT messages
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-27-openai-says-ai-is-expanding-what-people-do-at-work]] · [[2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses]] · [[2026-07-14-openai-publishes-chatgpt-work-playbooks-for-data-science-and]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]]
+**Related:** [[2026-07-27-openai-says-ai-is-expanding-what-people-do-at-work]] · [[2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million]] · [[2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses]] · [[2026-07-14-openai-publishes-chatgpt-work-playbooks-for-data-science-and]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]]
 <!-- graph:end -->

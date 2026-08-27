@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-18-nvidia-s-ai-moat-is-shifting-from-chips-to-capital
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
+- 2026-08-27-nvidia-v-gates-major-tech-figures-at-odds-on-ai-s-future
 - 2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch
-- 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
 embedding_id: 2026-08-06-nvidia-still-dominates-ai-chips-but-bofa-sees-amd-closing-in
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Nvidia continues to dominate AI accelerators, but Bank of America analysts see A
 
 **Entities:** [[AMD]] · [[Intel]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-18-nvidia-s-ai-moat-is-shifting-from-chips-to-capital]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch]] · [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]]
+**Related:** [[2026-08-18-nvidia-s-ai-moat-is-shifting-from-chips-to-capital]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-08-27-nvidia-v-gates-major-tech-figures-at-odds-on-ai-s-future]] · [[2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch]]
 <!-- graph:end -->

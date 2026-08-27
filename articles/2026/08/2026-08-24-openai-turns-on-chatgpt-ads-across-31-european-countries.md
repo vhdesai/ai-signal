@@ -17,12 +17,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international
-- 2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules
-- 2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers
+dedupe_status: duplicate
+canonical_article_id: 2026-08-24-chatgpt-ads-go-live-across-europe-as-openai-becomes-a-media
+related_article_ids: []
 embedding_id: 2026-08-24-openai-turns-on-chatgpt-ads-across-31-european-countries
 event_name: ''
 ---
@@ -36,5 +33,5 @@ OpenAI's advertising product began rolling out across 31 European markets includ
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international]] · [[2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules]] · [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]]
+**Canonical:** [[2026-08-24-chatgpt-ads-go-live-across-europe-as-openai-becomes-a-media]]
 <!-- graph:end -->

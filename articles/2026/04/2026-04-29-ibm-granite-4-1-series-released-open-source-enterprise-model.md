@@ -22,10 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-26-ibm-launches-granite-4-2-open-weight-models-for-local-and-ag
+- 2026-08-25-ibm-releases-granite-4-2-open-weight-reasoning-models-3b-8b
+- 2026-08-25-ibm-releases-granite-4-2-bringing-native-reasoning-and-agent
 - 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
 - 2026-05-11-openbmb-releases-minicpm-v-4-6-1-3b-most-recent-model-ship-a
-- 2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh
-- 2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context
 embedding_id: 2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model
 event_name: ''
 ---
@@ -39,5 +40,5 @@ IBM released the Granite 4.1 series — available in 3B, 8B, and 30B parameter v
 
 **Entities:** [[IBM]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]] · [[2026-05-11-openbmb-releases-minicpm-v-4-6-1-3b-most-recent-model-ship-a]] · [[2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh]] · [[2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context]]
+**Related:** [[2026-08-26-ibm-launches-granite-4-2-open-weight-models-for-local-and-ag]] · [[2026-08-25-ibm-releases-granite-4-2-open-weight-reasoning-models-3b-8b]] · [[2026-08-25-ibm-releases-granite-4-2-bringing-native-reasoning-and-agent]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]] · [[2026-05-11-openbmb-releases-minicpm-v-4-6-1-3b-most-recent-model-ship-a]]
 <!-- graph:end -->

@@ -1,14 +1,56 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 1563
+member_count: 1605
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 1563 connected article(s).
+> Auto-generated topic hub. 1605 connected article(s).
 
+- `2026-08-27` [[2026-08-27-softbank-in-talks-to-buy-majority-stake-in-humanoid-maker-1x|SoftBank in Talks to Buy Majority Stake in Humanoid Maker 1X at $6B Valuation]]
+- `2026-08-27` [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion|Nvidia Agrees to Buy Hugging Face for $12.9 Billion]]
+- `2026-08-27` [[2026-08-27-cummins-lands-largest-ever-battery-storage-contract-for-a-u|Cummins Lands Largest-Ever Battery Storage Contract for a U.S. AI Data Center]]
+- `2026-08-26` [[2026-08-26-openai-s-jalape-o-chip-beats-nvidia-blackwell-on-inference-e|OpenAI's "Jalapeño" Chip Beats Nvidia Blackwell on Inference-Efficiency Tests]]
+- `2026-08-26` [[2026-08-26-nvidia-s-blowout-q2-leaves-investors-unmoved-279b-supply-cha|Nvidia’s Blowout Q2 Leaves Investors Unmoved; $279B Supply-Chain Gamble Revealed]]
+- `2026-08-26` [[2026-08-26-nvidia-s-1-5-trillion-earnings-question-the-return-on-invest|Nvidia’s $1.5 Trillion Earnings Question: The Return-on-Investment Dilemma]]
+- `2026-08-26` [[2026-08-26-nvidia-s-blowout-q2-leaves-investors-unmoved-279-billion-sup|Nvidia's Blowout Q2 Leaves Investors Unmoved; $279 Billion Supply-Chain Gamble Revealed]]
+- `2026-08-26` [[2026-08-26-nvidia-s-1-5-trillion-earnings-question-can-customers-prove|Nvidia's $1.5 Trillion Earnings Question: Can Customers Prove AI ROI?]]
+- `2026-08-26` [[2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-to-108b-as-ai-cape|Nvidia Q2 revenue doubles to $96.2B, guides to $108B as AI capex holds]]
+- `2026-08-26` [[2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt|Nvidia Posts Record $96.2B Quarter, Guides to ~70% Revenue Growth for FY2028]]
+- `2026-08-26` [[2026-08-26-nasdaq-futures-edge-lower-ahead-of-pce-data-and-nvidia-earni|Nasdaq futures edge lower ahead of PCE data and Nvidia earnings]]
+- `2026-08-26` [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a|More than a dozen OpenAI executives have departed ahead of a planned IPO]]
+- `2026-08-26` [[2026-08-26-meta-s-scrapped-project-ot-saw-ai-agents-take-large-scale-di|Meta's Scrapped "Project OT" Saw AI Agents Take "Large-Scale, Disruptive Actions"]]
+- `2026-08-26` [[2026-08-26-daily-ai-news-digest-august-27-2026|Daily AI News Digest – August 27, 2026]]
+- `2026-08-26` [[2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif|Custom Silicon Comes for the Incumbent as Enterprise AI Shifts to Controls]]
+- `2026-08-26` [[2026-08-26-anthropic-signs-45b-compute-deal-with-nscale-for-vera-rubin|Anthropic Signs $45B Compute Deal with Nscale for Vera Rubin Chips]]
+- `2026-08-26` [[2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin|Anthropic Commits ~$45B to Nscale for Six Years of Vera Rubin Compute]]
+- `2026-08-26` [[2026-08-26-amazon-triples-nvidia-gpu-order-adding-2m-chips-including-ru|Amazon Triples Nvidia GPU Order — Adding 2M Chips Including Rubin Ultra]]
+- `2026-08-26` [[2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through|Amazon Triples Nvidia GPU Commitment — 2 Million Chips Through 2028]]
+- `2026-08-26` [[2026-08-26-amazon-triples-its-nvidia-gpu-commitment-adding-2-million-ch|Amazon Triples Its Nvidia GPU Commitment, Adding 2 Million Chips Through 2028]]
+- `2026-08-26` [[2026-08-26-amazon-triples-its-nvidia-gpu-commitment-2-million-chips-thr|Amazon Triples Its Nvidia GPU Commitment — 2 Million Chips Through 2028]]
+- `2026-08-25` [[2026-08-25-superstep-capital-backs-zencore-to-build-independent-google|Superstep Capital backs Zencore to build independent Google Cloud AI services platform]]
+- `2026-08-25` [[2026-08-25-openai-s-jalape-o-chip-outperforms-nvidia-blackwell-on-infer|OpenAI's Jalapeño Chip Outperforms Nvidia Blackwell on Inference Benchmarks]]
+- `2026-08-25` [[2026-08-25-openai-publishes-first-jalape-o-benchmarks-claiming-efficien|OpenAI publishes first Jalapeño benchmarks, claiming efficiency lead over Nvidia Blackwell]]
+- `2026-08-25` [[2026-08-25-openai-publishes-first-jalape-o-benchmarks-claims-efficiency|OpenAI Publishes First Jalapeño Benchmarks, Claims Efficiency Lead Over Nvidia Blackwell]]
+- `2026-08-25` [[2026-08-25-openai-publishes-first-jalape-o-chip-benchmarks-claims-effic|OpenAI Publishes First "Jalapeño" Chip Benchmarks, Claims Efficiency Lead Over Nvidia Blackwell]]
+- `2026-08-25` [[2026-08-25-nvidia-s-equity-stakes-in-ai-companies-could-become-john-mal|Nvidia's Equity Stakes in AI Companies Could Become "John Malone-Style" Platform]]
+- `2026-08-25` [[2026-08-25-nvidia-s-equity-stakes-could-become-john-malone-style-conglo|Nvidia's Equity Stakes Could Become "John Malone–Style" Conglomerate Platform]]
+- `2026-08-25` [[2026-08-25-nvidia-q2-report-becomes-the-market-s-scorecard-for-ai-capex|Nvidia Q2 Report Becomes the Market’s Scorecard for AI Capex Durability]]
+- `2026-08-25` [[2026-08-25-nvidia-q2-fy27-earnings-land-today-as-the-ai-boom-s-scorecar|Nvidia Q2 FY27 Earnings Land Today as the AI Boom's Scorecard]]
+- `2026-08-25` [[2026-08-25-nvidia-announces-new-vera-cpu-and-groq-lpx-rack-customers|Nvidia Announces New Vera CPU and Groq LPX Rack Customers]]
+- `2026-08-25` [[2026-08-25-nvidia-announces-new-customers-for-vera-cpu-and-groq-lpx-rac|Nvidia Announces New Customers for Vera CPU and Groq LPX Racks]]
+- `2026-08-25` [[2026-08-25-meta-s-custom-transport-protocol-embraces-packet-chaos-to-bo|Meta's custom transport protocol embraces packet chaos to boost AI throughput]]
+- `2026-08-25` [[2026-08-25-liner-closes-36-1m-series-c-for-verifiable-ai-research|Liner closes $36.1M Series C for verifiable AI research]]
+- `2026-08-25` [[2026-08-25-india-s-am-intelligence-places-a-binding-order-for-9-000-nvi|India's AM Intelligence places a binding order for 9,000 Nvidia Vera Rubin systems]]
+- `2026-08-25` [[2026-08-25-emerald-ai-raises-150m-at-1-05b-to-make-data-centers-flexibl|Emerald AI Raises $150M at $1.05B to Make Data Centers Flexible Grid Assets]]
+- `2026-08-25` [[2026-08-25-collate-launches-ai-governance-studio-for-cross-environment|Collate launches AI Governance Studio for cross-environment AI oversight]]
+- `2026-08-25` [[2026-08-25-analysis-u-s-and-eu-ai-regulation-continue-to-diverge-struct|Analysis: U.S. and EU AI regulation continue to diverge structurally]]
 - `2026-08-24` [[2026-08-24-rising-server-prices-shift-leverage-from-nvidia-to-samsung-a|Rising Server Prices Shift Leverage from Nvidia to Samsung and SK hynix]]
+- `2026-08-24` [[2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti|Nvidia puts the Groq 3 LPX inference rack into full production, Nebius first to deploy]]
+- `2026-08-24` [[2026-08-24-nvidia-pays-6-billion-to-license-poolside-s-ai-model-softwar|Nvidia pays $6 billion to license Poolside's AI model software]]
+- `2026-08-24` [[2026-08-24-nvidia-says-groq-racks-will-be-online-this-year-following-20|Nvidia Says Groq Racks Will Be Online This Year Following $20B Purchase]]
+- `2026-08-24` [[2026-08-24-ls-electric-more-than-doubles-a-us-ai-data-center-power-cont|LS Electric more than doubles a US AI data center power contract to $166M]]
 - `2026-08-24` [[2026-08-24-can-nvidia-keep-the-ai-party-going-wsj-preview-ahead-of-earn|Can Nvidia Keep the AI Party Going? — WSJ Preview Ahead of Earnings]]
 - `2026-08-23` [[2026-08-23-uber-faces-fine-of-nearly-1b-over-automated-driver-suspensio|Uber faces fine of nearly $1B over automated driver suspensions]]
 - `2026-08-23` [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books|The Unsettled Law of Training Models on Copyrighted Books]]
@@ -17,6 +59,7 @@ member_count: 1563
 - `2026-08-23` [[2026-08-23-sam-altman-says-he-s-worried-about-ai-being-controlled-by-a|Sam Altman says he's worried about AI being controlled by a few powerful players]]
 - `2026-08-23` [[2026-08-23-oracle-cloud-infrastructure-receives-nvidia-exemplar-cloud-v|Oracle Cloud Infrastructure receives NVIDIA Exemplar Cloud validation for GB300 NVL72 and HGX B300]]
 - `2026-08-23` [[2026-08-23-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s|Nvidia Warns Largest Customers of 15%+ Price Increases on AI Servers]]
+- `2026-08-23` [[2026-08-23-micron-tells-hot-chips-2026-the-memory-wall-is-widening-not|Micron tells Hot Chips 2026 the memory wall is widening, not closing]]
 - `2026-08-23` [[2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th|Memory Supercycle Shows No Near-Term Break as HBM Remains the Bottleneck]]
 - `2026-08-23` [[2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats|Local Backlash Against AI Data Centers Escalates to Threats and Building Restrictions]]
 - `2026-08-23` [[2026-08-23-is-it-legal-to-train-ai-models-on-copyrighted-books-it-s-com|Is it legal to train AI models on copyrighted books? It's complicated]]
@@ -938,7 +981,6 @@ member_count: 1563
 - `2026-06-08` [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con|Nvidia Signs Sweeping South Korea AI Deals; Memory Is the Constraint]]
 - `2026-06-08` [[2026-06-08-meta-launches-workforce-academy-to-train-data-center-constru|Meta Launches "Workforce Academy" to Train Data Center Construction Workers]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference|Apple WWDC 2026 Preview: On-device AI and private inference]]
-- `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence|Apple WWDC 2026 Preview: Accessibility and Apple Intelligence]]
 - `2026-06-08` [[2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai|Amazon Strikes Multibillion-Dollar Corning Fiber Deal for AI Data Centers]]
 - `2026-06-08` [[2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week|AMD Commits £2B to Accelerate UK AI at London Tech Week]]
 - `2026-06-08` [[2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk|AMD Commits £2 Billion to Accelerate AI Innovation in the UK]]
