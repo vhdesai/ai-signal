@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-amazon-retires-rufus-and-launches-an-alexa-shopping-agent-cn
 - 2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage
+- 2026-09-01-amazon-s-alexa-adds-update-me-when-shifting-shopping-ai-from
 - 2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd
-- 2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode
 embedding_id: 2026-08-11-amazon-s-panos-panay-to-make-the-post-smartphone-ai-hardware
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Amazon devices chief Panos Panay will speak on next-generation AI hardware at Te
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-amazon-retires-rufus-and-launches-an-alexa-shopping-agent-cn]] · [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]] · [[2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd]] · [[2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode]]
+**Related:** [[2026-05-14-amazon-retires-rufus-and-launches-an-alexa-shopping-agent-cn]] · [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]] · [[2026-09-01-amazon-s-alexa-adds-update-me-when-shifting-shopping-ai-from]] · [[2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd]]
 <!-- graph:end -->

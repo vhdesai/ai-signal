@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-20-slack-launches-code-channels-putting-ai-coding-agents-inside
 - 2026-08-20-slack-launches-slack-code-putting-ai-coding-agents-inside-te
+- 2026-09-02-meta-ditches-google-chat-for-slack-citing-ai-agent-workflows
 - 2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts
 - 2026-08-20-nanoclaw-brings-persistent-ai-agent-teams-to-slack-from-a-si
-- 2026-08-20-meta-launches-pocket-vibe-coding-app-for-creating-and-sharin
 embedding_id: 2026-07-21-jack-dorsey-s-buzz-puts-humans-and-ai-agents-in-the-same-wor
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TechCrunch reports that Jack Dorsey launched Buzz, an open-source workplace grou
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-20-slack-launches-code-channels-putting-ai-coding-agents-inside]] · [[2026-08-20-slack-launches-slack-code-putting-ai-coding-agents-inside-te]] · [[2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts]] · [[2026-08-20-nanoclaw-brings-persistent-ai-agent-teams-to-slack-from-a-si]] · [[2026-08-20-meta-launches-pocket-vibe-coding-app-for-creating-and-sharin]]
+**Related:** [[2026-08-20-slack-launches-code-channels-putting-ai-coding-agents-inside]] · [[2026-08-20-slack-launches-slack-code-putting-ai-coding-agents-inside-te]] · [[2026-09-02-meta-ditches-google-chat-for-slack-citing-ai-agent-workflows]] · [[2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts]] · [[2026-08-20-nanoclaw-brings-persistent-ai-agent-teams-to-slack-from-a-si]]
 <!-- graph:end -->

@@ -1,14 +1,23 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 774
+member_count: 783
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 774 connected article(s).
+> Auto-generated entity hub. 783 connected article(s).
 
+- `2026-09-01` [[2026-09-01-u-s-pushes-g20-toward-light-touch-ai-regulation-under-the-ca|U.S. Pushes G20 Toward Light-Touch AI Regulation Under the “Carolina Principles”]]
+- `2026-09-01` [[2026-09-01-microsoft-publishes-its-2026-responsible-ai-transparency-rep|Microsoft Publishes Its 2026 Responsible AI Transparency Report]]
+- `2026-09-01` [[2026-09-01-microsoft-365-outage-enters-second-day-disrupting-teams-and|Microsoft 365 Outage Enters Second Day, Disrupting Teams and Copilot]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-09-01` [[2026-09-01-john-ternus-takes-over-as-apple-ceo-tim-cook-becomes-executi|John Ternus Takes Over as Apple CEO; Tim Cook Becomes Executive Chair]]
+- `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
+- `2026-09-01` [[2026-09-01-google-launches-pics-an-ai-first-design-tool-aimed-at-canva|Google launches Pics, an AI-first design tool aimed at Canva and Adobe Express]]
+- `2026-09-01` [[2026-09-01-google-launches-google-pics-a-workspace-native-ai-image-crea|Google launches Google Pics, a Workspace-native AI image creator built on Nano Banana]]
+- `2026-09-01` [[2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-a-two-t|Anthropic ships Claude Fable 5.1 and Mythos 5.1 with a two-tier safeguard split]]
+- `2026-09-01` [[2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-75-chea|Anthropic ships Claude Fable 5.1 and Mythos 5.1 with 75% cheaper cache reads]]
 - `2026-08-31` [[2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise|Microsoft and HUMAIN expand collaboration with an enterprise AI bundle and an AI PC]]
 - `2026-08-31` [[2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap|Microsoft and HUMAIN Expand Strategic Collaboration at LEAP 2026]]
 - `2026-08-31` [[2026-08-31-google-takes-aim-at-anthropic-microsoft-with-budget-friendly|Google takes aim at Anthropic, Microsoft with budget-friendly AI pricing]]

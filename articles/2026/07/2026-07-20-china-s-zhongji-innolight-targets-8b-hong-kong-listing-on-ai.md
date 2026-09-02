@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-20-zhongji-innolight-targets-hong-kong-listing-on-ai-networking
 - 2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component
 - 2026-08-14-smic-raises-chip-prices-as-ai-demand-pushes-utilization-to-9
+- 2026-09-02-tencent-backed-enflame-s-ipo-draws-4-073-times-retail-demand
 - 2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and
-- 2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo
 embedding_id: 2026-07-20-china-s-zhongji-innolight-targets-8b-hong-kong-listing-on-ai
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Optical transceiver maker Zhongji Innolight won Hong Kong listing approval for w
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-20-zhongji-innolight-targets-hong-kong-listing-on-ai-networking]] · [[2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component]] · [[2026-08-14-smic-raises-chip-prices-as-ai-demand-pushes-utilization-to-9]] · [[2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and]] · [[2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo]]
+**Related:** [[2026-07-20-zhongji-innolight-targets-hong-kong-listing-on-ai-networking]] · [[2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component]] · [[2026-08-14-smic-raises-chip-prices-as-ai-demand-pushes-utilization-to-9]] · [[2026-09-02-tencent-backed-enflame-s-ipo-draws-4-073-times-retail-demand]] · [[2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and]]
 <!-- graph:end -->

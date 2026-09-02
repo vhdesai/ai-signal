@@ -1,15 +1,41 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 1948
+member_count: 1974
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 1948 connected article(s).
+> Auto-generated entity hub. 1974 connected article(s).
 
+- `2026-09-02` [[2026-09-02-softbank-s-sb-energy-files-to-go-public-naming-openai-as-chi|SoftBank's SB Energy files to go public, naming OpenAI as chief tenant and 5% owner]]
+- `2026-09-02` [[2026-09-02-openai-s-astra-becomes-its-first-model-rated-critical-for-cy|OpenAI’s Astra becomes its first model rated “Critical” for cyber capability]]
+- `2026-09-02` [[2026-09-02-openai-restricts-astra-model-after-it-crosses-critical-cyber|OpenAI restricts Astra model after it crosses "critical" cyber-risk threshold]]
+- `2026-09-02` [[2026-09-02-openai-faces-30-additional-lawsuits-over-the-tumbler-ridge-s|OpenAI faces 30 additional lawsuits over the Tumbler Ridge shooting]]
+- `2026-09-02` [[2026-09-02-openai-and-anthropic-balance-safety-disclosure-against-ipo-p|OpenAI and Anthropic balance safety disclosure against IPO positioning]]
+- `2026-09-02` [[2026-09-02-google-reportedly-readying-a-new-gemini-model-codenamed-skim|Google Reportedly Readying a New Gemini Model Codenamed “Skimaki”]]
+- `2026-09-02` [[2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day|Frontier capability and frontier cost moved on the same day]]
+- `2026-09-02` [[2026-09-02-anthropic-follows-openai-in-pausing-some-ai-training-followi|Anthropic follows OpenAI in pausing some AI training following rogue agent hacks]]
 - `2026-09-01` [[2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu|PitchBook: M&A, Not IPOs, Is Now the Default Exit for AI Startups Outside the Frontier Tier]]
+- `2026-09-01` [[2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr|Pentagon deploys ChatGPT Gov and Grok, notably excludes Anthropic]]
+- `2026-09-01` [[2026-09-01-path-to-astra-critical-capabilities-and-frontier-safeguards|Path to Astra: critical capabilities and frontier safeguards]]
+- `2026-09-01` [[2026-09-01-palo-alto-networks-frontier-ai-now-tips-the-scales-toward-at|Palo Alto Networks: frontier AI now tips the scales toward attackers]]
+- `2026-09-01` [[2026-09-01-openai-says-astra-is-the-first-model-to-cross-its-critical-c|OpenAI says Astra is the first model to cross its Critical cybersecurity threshold]]
+- `2026-09-01` [[2026-09-01-openai-says-astra-is-its-first-model-to-reach-critical-cyber|OpenAI says Astra is its first model to reach 'Critical' cybersecurity capability; suite timeline slips]]
+- `2026-09-01` [[2026-09-01-openai-connects-chatgpt-to-epic-electronic-health-records|OpenAI connects ChatGPT to Epic electronic health records]]
+- `2026-09-01` [[2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy|OpenAI Says Astra Is Its First Model to Meet the “Critical” Cybersecurity Threshold]]
+- `2026-09-01` [[2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a|Meta Superintelligence Labs Launches Muse Voice Transcribe, a Single Real-Time Audio Model]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-09-01` [[2026-09-01-john-ternus-takes-over-as-apple-ceo-tim-cook-becomes-executi|John Ternus Takes Over as Apple CEO; Tim Cook Becomes Executive Chair]]
+- `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
+- `2026-09-01` [[2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi|How AI-native companies turn workflows into operating capability]]
+- `2026-09-01` [[2026-09-01-chatgpt-health-integrates-with-epic-reaching-records-for-325|ChatGPT Health integrates with Epic, reaching records for 325M+ patients]]
+- `2026-09-01` [[2026-09-01-chatgpt-health-adds-epic-ehr-integration-for-clinicians|ChatGPT Health adds Epic EHR integration for clinicians]]
+- `2026-09-01` [[2026-09-01-apple-s-trade-secrets-suit-against-openai-escalates|Apple's trade-secrets suit against OpenAI escalates]]
+- `2026-09-01` [[2026-09-01-apple-s-trade-secrets-suit-against-openai-escalates-openai-d|Apple's Trade-Secrets Suit Against OpenAI Escalates; OpenAI Denies the Allegations]]
+- `2026-09-01` [[2026-09-01-apple-accuses-openai-of-destroying-evidence-in-trade-secrets|Apple accuses OpenAI of destroying evidence in trade-secrets case]]
+- `2026-09-01` [[2026-09-01-anthropic-debuts-enterprise-frontier-safeguards-with-zero-da|Anthropic debuts Enterprise Frontier Safeguards with zero data retention]]
+- `2026-09-01` [[2026-09-01-anthropic-signs-35b-nvidia-backed-lambda-cloud-deal-in-texas|Anthropic Signs $35B Nvidia-Backed Lambda Cloud Deal in Texas]]
 - `2026-08-31` [[2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered|The $5.5 billion perk SoftBank’s data-center venture offered to land OpenAI]]
 - `2026-08-31` [[2026-08-31-sb-energy-issued-openai-warrants-now-valued-near-5-5b-to-sec|SB Energy issued OpenAI warrants now valued near $5.5B to secure a 20-year data-center lease]]
 - `2026-08-31` [[2026-08-31-sb-energy-granted-openai-warrants-valued-near-5-5b-to-secure|SB Energy Granted OpenAI Warrants Valued Near $5.5B to Secure a 20-Year Data-Center Lease]]

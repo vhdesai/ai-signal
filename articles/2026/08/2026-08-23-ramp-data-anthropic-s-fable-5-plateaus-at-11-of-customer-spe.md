@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm
 - 2026-07-27-anthropic-launches-claude-opus-5-at-roughly-half-the-price-o
+- 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75
 - 2026-07-24-anthropic-launches-claude-opus-5-a-cheaper-agent-focused-fla
-- 2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu
 embedding_id: 2026-08-23-ramp-data-anthropic-s-fable-5-plateaus-at-11-of-customer-spe
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Drawing on Ramp token-management data covering 70,000 companies, the FT reports 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm]] · [[2026-07-27-anthropic-launches-claude-opus-5-at-roughly-half-the-price-o]] · [[2026-07-24-anthropic-launches-claude-opus-5-a-cheaper-agent-focused-fla]] · [[2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu]]
+**Related:** [[2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm]] · [[2026-07-27-anthropic-launches-claude-opus-5-at-roughly-half-the-price-o]] · [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75]] · [[2026-07-24-anthropic-launches-claude-opus-5-a-cheaper-agent-focused-fla]]
 <!-- graph:end -->

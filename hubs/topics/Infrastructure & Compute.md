@@ -1,18 +1,44 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 1736
+member_count: 1762
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 1736 connected article(s).
+> Auto-generated topic hub. 1762 connected article(s).
 
+- `2026-09-02` [[2026-09-02-tencent-backed-enflame-s-ipo-draws-4-073-times-retail-demand|Tencent-backed Enflame’s IPO draws 4,073 times retail demand]]
+- `2026-09-02` [[2026-09-02-softbank-s-sb-energy-files-to-go-public-naming-openai-as-chi|SoftBank's SB Energy files to go public, naming OpenAI as chief tenant and 5% owner]]
+- `2026-09-02` [[2026-09-02-musk-warns-of-ai-power-shortages-at-g20-as-summit-clashes-ov|Musk warns of AI power shortages at G20, as summit clashes over light-touch AI rules]]
+- `2026-09-02` [[2026-09-02-kkr-backs-10b-ai-infrastructure-venture-helix-digital-infras|KKR backs $10B AI infrastructure venture Helix Digital Infrastructure]]
+- `2026-09-02` [[2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day|Frontier capability and frontier cost moved on the same day]]
+- `2026-09-02` [[2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da|Cerebras and Compute Nordic Finland announce new 165MW AI data centre in Mikkeli, Finland]]
+- `2026-09-02` [[2026-09-02-build-ai-skills-with-new-ai-powered-learning-experiences|Build AI skills with new AI-powered learning experiences]]
+- `2026-09-01` [[2026-09-01-zhipu-ai-z-ai-first-half-revenue-jumps-nearly-400-on-api-gro|Zhipu AI (Z.AI) First-Half Revenue Jumps Nearly 400% on API Growth]]
 - `2026-09-01` [[2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo|Tencent-Backed AI Chipmaker Enflame Seeks ~$911 Million in IPO]]
 - `2026-09-01` [[2026-09-01-spacex-shakes-up-data-center-leadership-after-aggressive-bui|SpaceX Shakes Up Data Center Leadership After Aggressive Build-Out]]
+- `2026-09-01` [[2026-09-01-sequoia-incubated-empirik-spins-out-with-21m-to-predict-outa|Sequoia-incubated Empirik spins out with $21M to predict outages before they occur]]
+- `2026-09-01` [[2026-09-01-sequoia-incubated-empirik-launches-with-21m-to-predict-infra|Sequoia-incubated Empirik launches with $21M to predict infrastructure outages]]
+- `2026-09-01` [[2026-09-01-nvidia-and-crowdstrike-unveil-safemind-agentic-cybersecurity|NVIDIA and CrowdStrike unveil SafeMind agentic cybersecurity system at Fal.Con 2026]]
+- `2026-09-01` [[2026-09-01-nvidia-and-crowdstrike-deepen-partnership-on-agentic-cyberse|NVIDIA and CrowdStrike Deepen Partnership on Agentic Cybersecurity]]
+- `2026-09-01` [[2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a|Meta Superintelligence Labs Launches Muse Voice Transcribe, a Single Real-Time Audio Model]]
+- `2026-09-01` [[2026-09-01-john-ternus-takes-over-as-apple-ceo-tim-cook-becomes-executi|John Ternus Takes Over as Apple CEO; Tim Cook Becomes Executive Chair]]
 - `2026-09-01` [[2026-09-01-john-ternus-becomes-apple-ceo-as-tim-cook-moves-to-executive|John Ternus Becomes Apple CEO as Tim Cook Moves to Executive Chairman]]
+- `2026-09-01` [[2026-09-01-indian-ai-chip-startup-agrani-labs-raising-50m-at-up-to-200m|Indian AI-Chip Startup Agrani Labs Raising ~$50M at up to $200M Valuation]]
+- `2026-09-01` [[2026-09-01-huawei-first-half-profit-falls-roughly-a-third-as-r-d-hits-2|Huawei first-half profit falls roughly a third as R&D hits 26% of revenue]]
+- `2026-09-01` [[2026-09-01-huawei-first-half-profit-falls-37-amid-record-ai-and-chip-sp|Huawei First-Half Profit Falls ~37% Amid Record AI and Chip Spending]]
+- `2026-09-01` [[2026-09-01-how-the-fda-is-building-a-secure-ai-ready-data-foundation-on|How the FDA is building a secure, AI-ready data foundation on Databricks for Government]]
 - `2026-09-01` [[2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center|Cerebras and Compute Nordic Announce a 165 MW AI Data Center in Finland]]
 - `2026-09-01` [[2026-09-01-bank-of-england-governor-warns-frontier-ai-models-raise-syst|Bank of England Governor Warns Frontier AI Models Raise Systemic Cyber Risk]]
+- `2026-09-01` [[2026-09-01-anthropic-signs-reported-35b-cloud-agreement-with-nvidia-bac|Anthropic signs reported $35B cloud agreement with Nvidia-backed Lambda]]
+- `2026-09-01` [[2026-09-01-anthropic-signs-35b-cloud-deal-with-nvidia-backed-lambda-for|Anthropic signs $35B cloud deal with Nvidia-backed Lambda for a 350MW Texas campus]]
+- `2026-09-01` [[2026-09-01-anthropic-signs-35b-nvidia-backed-lambda-cloud-deal-in-texas|Anthropic Signs $35B Nvidia-Backed Lambda Cloud Deal in Texas]]
+- `2026-09-01` [[2026-09-01-afterquery-hits-3-2b-valuation-reportedly-y-combinator-s-fas|AfterQuery hits $3.2B valuation, reportedly Y Combinator’s fastest-ever unicorn]]
+- `2026-09-01` [[2026-09-01-afterquery-becomes-y-combinator-s-fastest-ever-unicorn-at-a|AfterQuery becomes Y Combinator's fastest-ever unicorn at a $3.2B valuation]]
+- `2026-09-01` [[2026-09-01-aws-and-accenture-sign-six-year-middle-east-ai-and-cloud-agr|AWS and Accenture Sign Six-Year Middle East AI and Cloud Agreement]]
+- `2026-09-01` [[2026-09-01-air-launches-with-50m-to-build-a-firewall-for-ai-agent-skill|AIR launches with $50M to build a firewall for AI agent skills and add-ons]]
+- `2026-09-01` [[2026-09-01-air-emerges-from-stealth-with-50m-to-police-the-ai-agent-sof|AIR emerges from stealth with $50M to police the AI agent software supply chain]]
 - `2026-08-31` [[2026-08-31-tsinghua-s-pacman-group-publishes-puro-2b-a-full-pretraining|Tsinghua's PACMAN Group Publishes Puro-2B, a Full Pretraining Recipe for Consumer GPUs]]
 - `2026-08-31` [[2026-08-31-trump-condemns-communities-opposing-data-centers-ahead-of-mi|Trump Condemns Communities Opposing Data Centers Ahead of Midterms]]
 - `2026-08-31` [[2026-08-31-together-ai-takes-250mw-of-saudi-capacity-from-humain-citing|Together AI takes 250MW of Saudi capacity from HUMAIN, citing US data-center backlash]]

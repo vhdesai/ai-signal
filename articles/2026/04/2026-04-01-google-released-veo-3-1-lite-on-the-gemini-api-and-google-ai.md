@@ -5,8 +5,8 @@ title: Google released Veo 3.1 Lite on the Gemini API and Google AI Studio, pric
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aiforautomation.io/news/2026-04-09-veo-3-1-lite-gemma-4-google-cheapest-video-ai
+url_status: repaired
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: 54673c5d2a674eae7be274b9617325f0011f4f424fce35dcc5a4862e4d5d5352

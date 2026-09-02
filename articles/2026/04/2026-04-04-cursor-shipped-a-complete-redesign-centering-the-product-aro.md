@@ -5,8 +5,8 @@ title: Cursor shipped a complete redesign centering the product around managing 
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.augmentedswe.com/p/cursor-3-agents
+url_status: repaired
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: d8227b938e7afb8ac2b67543cbf88b9d9a58a76adea72f0ad6b3dda078b4d956

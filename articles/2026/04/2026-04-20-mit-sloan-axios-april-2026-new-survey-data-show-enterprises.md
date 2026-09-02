@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
+- 2026-09-01-microsoft-publishes-its-2026-responsible-ai-transparency-rep
 - 2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic
 - 2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation
 - 2026-07-13-mit-cybersecurity-clinic-highlights-ai-s-changing-role-in-pu
-- 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
 embedding_id: 2026-04-20-mit-sloan-axios-april-2026-new-survey-data-show-enterprises
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MIT Sloan / Axios • April 2026 New survey data show enterprises accelerating f
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]] · [[2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic]] · [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]] · [[2026-07-13-mit-cybersecurity-clinic-highlights-ai-s-changing-role-in-pu]] · [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]]
+**Related:** [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]] · [[2026-09-01-microsoft-publishes-its-2026-responsible-ai-transparency-rep]] · [[2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic]] · [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]] · [[2026-07-13-mit-cybersecurity-clinic-highlights-ai-s-changing-role-in-pu]]
 <!-- graph:end -->

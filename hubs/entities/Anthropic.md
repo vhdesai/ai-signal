@@ -1,16 +1,38 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 1733
+member_count: 1755
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 1733 connected article(s).
+> Auto-generated entity hub. 1755 connected article(s).
 
+- `2026-09-02` [[2026-09-02-openai-and-anthropic-balance-safety-disclosure-against-ipo-p|OpenAI and Anthropic balance safety disclosure against IPO positioning]]
+- `2026-09-02` [[2026-09-02-google-reportedly-readying-a-new-gemini-model-codenamed-skim|Google Reportedly Readying a New Gemini Model Codenamed “Skimaki”]]
+- `2026-09-02` [[2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day|Frontier capability and frontier cost moved on the same day]]
+- `2026-09-02` [[2026-09-02-anthropic-introduces-zero-retention-ai-safety-monitoring-for|Anthropic introduces zero-retention AI safety monitoring for enterprises]]
+- `2026-09-02` [[2026-09-02-anthropic-follows-openai-in-pausing-some-ai-training-followi|Anthropic follows OpenAI in pausing some AI training following rogue agent hacks]]
+- `2026-09-02` [[2026-09-02-anthropic-details-evaluation-incidents-and-launches-enterpri|Anthropic details evaluation incidents and launches Enterprise Frontier Safeguards]]
+- `2026-09-01` [[2026-09-01-sony-music-publishing-and-warner-chappell-sue-anthropic-over|Sony Music Publishing and Warner Chappell Sue Anthropic Over Claude Training Data]]
 - `2026-09-01` [[2026-09-01-salesforce-puts-its-entire-crm-inside-claude|Salesforce Puts Its Entire CRM Inside Claude]]
 - `2026-09-01` [[2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu|PitchBook: M&A, Not IPOs, Is Now the Default Exit for AI Startups Outside the Frontier Tier]]
+- `2026-09-01` [[2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr|Pentagon deploys ChatGPT Gov and Grok, notably excludes Anthropic]]
+- `2026-09-01` [[2026-09-01-pentagon-deploys-chatgpt-mil-and-grok-for-government-to-gena|Pentagon Deploys ChatGPT Mil and Grok for Government to GenAI.mil; Anthropic Excluded]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
+- `2026-09-01` [[2026-09-01-anthropic-signs-reported-35b-cloud-agreement-with-nvidia-bac|Anthropic signs reported $35B cloud agreement with Nvidia-backed Lambda]]
+- `2026-09-01` [[2026-09-01-anthropic-signs-35b-cloud-deal-with-nvidia-backed-lambda-for|Anthropic signs $35B cloud deal with Nvidia-backed Lambda for a 350MW Texas campus]]
+- `2026-09-01` [[2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-a-two-t|Anthropic ships Claude Fable 5.1 and Mythos 5.1 with a two-tier safeguard split]]
+- `2026-09-01` [[2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-75-chea|Anthropic ships Claude Fable 5.1 and Mythos 5.1 with 75% cheaper cache reads]]
+- `2026-09-01` [[2026-09-01-anthropic-ships-claude-fable-5-1-and-claude-mythos-5-1-cuts|Anthropic ships Claude Fable 5.1 and Claude Mythos 5.1, cuts cache-read costs 75%]]
+- `2026-09-01` [[2026-09-01-anthropic-rolls-out-enterprise-frontier-safeguards|Anthropic rolls out "Enterprise Frontier Safeguards"]]
+- `2026-09-01` [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a|Anthropic releases Claude Fable 5.1 and Mythos 5.1, cutting agentic costs up to 45%]]
+- `2026-09-01` [[2026-09-01-anthropic-introduces-enterprise-frontier-safeguards-with-cus|Anthropic introduces Enterprise Frontier Safeguards with customer-held monitoring data]]
+- `2026-09-01` [[2026-09-01-anthropic-debuts-enterprise-frontier-safeguards-with-zero-da|Anthropic debuts Enterprise Frontier Safeguards with zero data retention]]
+- `2026-09-01` [[2026-09-01-anthropic-signs-35b-nvidia-backed-lambda-cloud-deal-in-texas|Anthropic Signs $35B Nvidia-Backed Lambda Cloud Deal in Texas]]
+- `2026-09-01` [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75|Anthropic Releases Claude Fable 5.1 and Mythos 5.1 with a 75% Cache-Read Price Cut]]
+- `2026-09-01` [[2026-09-01-anthropic-launches-enterprise-frontier-safeguards-keeping-mi|Anthropic Launches Enterprise Frontier Safeguards, Keeping Misuse Logs in the Customer's Cloud]]
 - `2026-08-31` [[2026-08-31-sony-music-publishing-and-warner-chappell-sue-anthropic-over|Sony Music Publishing and Warner Chappell Sue Anthropic Over Training Data]]
 - `2026-08-31` [[2026-08-31-researcher-achieves-remote-code-execution-against-claude-cod|Researcher Achieves Remote Code Execution Against Claude Code Opus 5 Auto Mode]]
 - `2026-08-31` [[2026-08-31-pentagon-adopts-xai-s-grok-and-openai-s-chatgpt-for-unclassi|Pentagon Adopts xAI’s Grok and OpenAI’s ChatGPT for Unclassified Military Use]]

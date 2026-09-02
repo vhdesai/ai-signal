@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-03-timesfm-2-5-is-notable-because-it-emphasizes-the-full-foreca
 - 2026-08-31-google-releases-timesfm-3-a-330m-parameter-zero-shot-forecas
 - 2026-08-29-nvidia-earth2studio-tutorial-shows-custom-ensemble-forecasti
+- 2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore
 - 2026-04-03-google-research-released-timesfm-time-series-foundation-mode
-- 2026-08-31-google-research-releases-timesfm-3-a-330m-parameter-zero-sho
 embedding_id: 2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MarkTechPost covered an end-to-end forecasting workflow around TimesFM 2.5, incl
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-timesfm-2-5-is-notable-because-it-emphasizes-the-full-foreca]] · [[2026-08-31-google-releases-timesfm-3-a-330m-parameter-zero-shot-forecas]] · [[2026-08-29-nvidia-earth2studio-tutorial-shows-custom-ensemble-forecasti]] · [[2026-04-03-google-research-released-timesfm-time-series-foundation-mode]] · [[2026-08-31-google-research-releases-timesfm-3-a-330m-parameter-zero-sho]]
+**Related:** [[2026-08-03-timesfm-2-5-is-notable-because-it-emphasizes-the-full-foreca]] · [[2026-08-31-google-releases-timesfm-3-a-330m-parameter-zero-shot-forecas]] · [[2026-08-29-nvidia-earth2studio-tutorial-shows-custom-ensemble-forecasti]] · [[2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore]] · [[2026-04-03-google-research-released-timesfm-time-series-foundation-mode]]
 <!-- graph:end -->

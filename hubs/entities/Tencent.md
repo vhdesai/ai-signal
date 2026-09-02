@@ -1,15 +1,17 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 172
+member_count: 174
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 172 connected article(s).
+> Auto-generated entity hub. 174 connected article(s).
 
+- `2026-09-02` [[2026-09-02-tencent-backed-enflame-s-ipo-draws-4-073-times-retail-demand|Tencent-backed Enflame’s IPO draws 4,073 times retail demand]]
 - `2026-09-01` [[2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo|Tencent-Backed AI Chipmaker Enflame Seeks ~$911 Million in IPO]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
 - `2026-08-31` [[2026-08-31-tencent-backed-china-chipmaker-enflame-seeks-911-million-in|Tencent-backed China chipmaker Enflame seeks $911 million in IPO]]
 - `2026-08-31` [[2026-08-31-tencent-unveils-hy4-preview-open-source-model-for-coding-and|Tencent Unveils Hy4 Preview Open-Source Model for Coding and Research]]
 - `2026-08-30` [[2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod|Tencent unveils Hy4 preview — a 770B-parameter open-source model]]

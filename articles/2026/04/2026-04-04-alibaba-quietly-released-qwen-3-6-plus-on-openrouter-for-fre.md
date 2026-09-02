@@ -5,8 +5,8 @@ title: Alibaba quietly released Qwen 3.6 Plus on OpenRouter for free—featuring
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.buildfastwithai.com/blogs/qwen-3-6-plus-preview-review
+url_status: repaired
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: c5acd1b91584336c1ae630fba70b5c79a6a6e86330883df2de8547bb13009b3f

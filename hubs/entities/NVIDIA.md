@@ -1,15 +1,27 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1231
+member_count: 1243
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1231 connected article(s).
+> Auto-generated entity hub. 1243 connected article(s).
 
+- `2026-09-02` [[2026-09-02-nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models|Nvidia and CrowdStrike develop new cybersecurity AI models]]
+- `2026-09-02` [[2026-09-02-kkr-backs-10b-ai-infrastructure-venture-helix-digital-infras|KKR backs $10B AI infrastructure venture Helix Digital Infrastructure]]
 - `2026-09-01` [[2026-09-01-nvidia-invests-3-5b-in-mediatek-and-opens-nvlink-fusion-to-c|Nvidia invests $3.5B in MediaTek and opens NVLink Fusion to custom accelerators]]
+- `2026-09-01` [[2026-09-01-nvidia-and-crowdstrike-unveil-safemind-agentic-cybersecurity|NVIDIA and CrowdStrike unveil SafeMind agentic cybersecurity system at Fal.Con 2026]]
+- `2026-09-01` [[2026-09-01-nvidia-and-crowdstrike-launch-safemind-an-agentic-cybersecur|NVIDIA and CrowdStrike launch SafeMind, an agentic cybersecurity system, at Fal.Con 2026]]
+- `2026-09-01` [[2026-09-01-nvidia-and-crowdstrike-deepen-partnership-on-agentic-cyberse|NVIDIA and CrowdStrike Deepen Partnership on Agentic Cybersecurity]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
+- `2026-09-01` [[2026-09-01-indian-ai-chip-startup-agrani-labs-raising-50m-at-up-to-200m|Indian AI-Chip Startup Agrani Labs Raising ~$50M at up to $200M Valuation]]
+- `2026-09-01` [[2026-09-01-huawei-first-half-profit-falls-37-amid-record-ai-and-chip-sp|Huawei First-Half Profit Falls ~37% Amid Record AI and Chip Spending]]
+- `2026-09-01` [[2026-09-01-anthropic-signs-reported-35b-cloud-agreement-with-nvidia-bac|Anthropic signs reported $35B cloud agreement with Nvidia-backed Lambda]]
+- `2026-09-01` [[2026-09-01-anthropic-signs-35b-cloud-deal-with-nvidia-backed-lambda-for|Anthropic signs $35B cloud deal with Nvidia-backed Lambda for a 350MW Texas campus]]
+- `2026-09-01` [[2026-09-01-anthropic-signs-35b-nvidia-backed-lambda-cloud-deal-in-texas|Anthropic Signs $35B Nvidia-Backed Lambda Cloud Deal in Texas]]
+- `2026-09-01` [[2026-09-01-afterquery-hits-3-2b-valuation-reportedly-y-combinator-s-fas|AfterQuery hits $3.2B valuation, reportedly Y Combinator’s fastest-ever unicorn]]
 - `2026-08-31` [[2026-08-31-taiwan-raids-nvidia-and-intel-pcb-supplier-unimicron-over-al|Taiwan Raids Nvidia and Intel PCB Supplier Unimicron Over Alleged Origin Fraud]]
 - `2026-08-31` [[2026-08-31-openai-buys-tens-of-thousands-of-mac-minis-and-mac-studios-t|OpenAI Buys Tens of Thousands of Mac Minis and Mac Studios to Train Computer-Use Agents]]
 - `2026-08-31` [[2026-08-31-nvidia-invests-3-5b-in-mediatek-and-extends-nvlink-fusion-to|Nvidia invests $3.5B in MediaTek and extends NVLink Fusion to custom accelerators]]

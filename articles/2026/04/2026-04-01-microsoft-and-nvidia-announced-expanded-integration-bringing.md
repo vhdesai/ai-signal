@@ -5,8 +5,8 @@ title: Microsoft and NVIDIA announced expanded integration, bringing NVIDIA's Ne
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://developer.nvidia.com/topics/ai/nemotron
+url_status: repaired
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: 0c46ddd2c887d96c8ba72431125e23f23c8d638155706eef6b97b4fd5c1de13f

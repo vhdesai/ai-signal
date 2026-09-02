@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-06-openai-asks-judge-to-dismiss-apple-s-trade-secrets-lawsuit
 - 2026-08-06-openai-moves-to-dismiss-apple-s-trade-secrets-lawsuit-blames
 - 2026-08-04-openai-calls-apple-s-trade-secret-suit-careless-and-oddly-pe
+- 2026-09-01-apple-s-trade-secrets-suit-against-openai-escalates
 - 2026-08-06-openai-files-motion-to-dismiss-apple-s-trade-secrets-lawsuit
-- 2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef
 embedding_id: 2026-08-07-openai-asks-judge-to-dismiss-apple-lawsuit
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI has formally asked a judge to dismiss Apple's trade-secrets lawsuit, esca
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-openai-asks-judge-to-dismiss-apple-s-trade-secrets-lawsuit]] · [[2026-08-06-openai-moves-to-dismiss-apple-s-trade-secrets-lawsuit-blames]] · [[2026-08-04-openai-calls-apple-s-trade-secret-suit-careless-and-oddly-pe]] · [[2026-08-06-openai-files-motion-to-dismiss-apple-s-trade-secrets-lawsuit]] · [[2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef]]
+**Related:** [[2026-08-06-openai-asks-judge-to-dismiss-apple-s-trade-secrets-lawsuit]] · [[2026-08-06-openai-moves-to-dismiss-apple-s-trade-secrets-lawsuit-blames]] · [[2026-08-04-openai-calls-apple-s-trade-secret-suit-careless-and-oddly-pe]] · [[2026-09-01-apple-s-trade-secrets-suit-against-openai-escalates]] · [[2026-08-06-openai-files-motion-to-dismiss-apple-s-trade-secrets-lawsuit]]
 <!-- graph:end -->

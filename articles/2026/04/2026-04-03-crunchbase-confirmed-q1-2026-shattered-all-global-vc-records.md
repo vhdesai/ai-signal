@@ -5,8 +5,8 @@ title: 'Crunchbase confirmed Q1 2026 shattered all global VC records: $300B acro
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://ai-blogs.org/news/2026-03-31-q1-2026-300b-funding-record.html
+url_status: repaired
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: 63296c8024cd895967b8f5b32cc1aa20e0e2619c53dcddb47212645b442b00c9

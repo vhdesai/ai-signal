@@ -5,8 +5,8 @@ title: OpenAI released GPT-5.4 on April 3, described as shifting AI from "answer
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://best-ai.org/ai-news/daily-ai-intelligence-digest-24-april-2026-openai-deploys-gpt-55-as-strategic-pivot-toward-agentic-reliability
+url_status: repaired
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: cc16172033dbeebe2fd58e7b303fee215a347c951b4279d910abac1a127d6033

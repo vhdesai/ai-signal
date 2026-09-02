@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-27-trending-stability-ai-releases-the-stable-audio-3-family-of
 - 2026-05-27-stable-audio-3-0-continues-to-drive-developer-and-rights-hol
 - 2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a
+- 2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a
 - 2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact
-- 2026-08-17-minimax-releases-minimax-music3-an-open-weights-five-minute
 embedding_id: 2026-05-26-stability-ai-releases-stable-audio-3
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Stability AI released Stable Audio 3, a family of fast latent-diffusion models f
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-27-trending-stability-ai-releases-the-stable-audio-3-family-of]] · [[2026-05-27-stable-audio-3-0-continues-to-drive-developer-and-rights-hol]] · [[2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a]] · [[2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact]] · [[2026-08-17-minimax-releases-minimax-music3-an-open-weights-five-minute]]
+**Related:** [[2026-05-27-trending-stability-ai-releases-the-stable-audio-3-family-of]] · [[2026-05-27-stable-audio-3-0-continues-to-drive-developer-and-rights-hol]] · [[2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a]] · [[2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a]] · [[2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact]]
 <!-- graph:end -->

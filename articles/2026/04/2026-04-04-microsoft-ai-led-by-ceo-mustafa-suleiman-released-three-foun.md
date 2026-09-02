@@ -5,8 +5,8 @@ title: Microsoft AI, led by CEO Mustafa Suleiman, released three foundational mo
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/
+url_status: repaired
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: 0273e1f47435df3ad9f9490116fb7238dd77505bbcb7dc2a33731f40748eb115

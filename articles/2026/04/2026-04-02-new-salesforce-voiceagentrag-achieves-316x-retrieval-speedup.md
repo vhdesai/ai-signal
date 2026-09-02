@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent
 - 2026-08-30-latency-benchmark-argues-voice-agents-need-ttfs-not-just-ttf
 - 2026-08-30-time-to-first-token-benchmark-for-voice-and-realtime-agent-i
-- 2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real
+- 2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a
 embedding_id: 2026-04-02-new-salesforce-voiceagentrag-achieves-316x-retrieval-speedup
 event_name: ''
 ---
@@ -39,5 +39,5 @@ event_name: ''
 
 **Entities:** [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for]] · [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent]] · [[2026-08-30-latency-benchmark-argues-voice-agents-need-ttfs-not-just-ttf]] · [[2026-08-30-time-to-first-token-benchmark-for-voice-and-realtime-agent-i]] · [[2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real]]
+**Related:** [[2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for]] · [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent]] · [[2026-08-30-latency-benchmark-argues-voice-agents-need-ttfs-not-just-ttf]] · [[2026-08-30-time-to-first-token-benchmark-for-voice-and-realtime-agent-i]] · [[2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-05-uk-ai-security-institute-openai-and-anthropic-agents-took-19
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
-- 2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte
+- 2026-09-02-anthropic-follows-openai-in-pausing-some-ai-training-followi
 embedding_id: 2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The AI Security Institute reported that agents built on Anthropic’s Mythos 5 a
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-uk-ai-security-institute-openai-and-anthropic-agents-took-19]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte]]
+**Related:** [[2026-08-05-uk-ai-security-institute-openai-and-anthropic-agents-took-19]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-09-02-anthropic-follows-openai-in-pausing-some-ai-training-followi]]
 <!-- graph:end -->

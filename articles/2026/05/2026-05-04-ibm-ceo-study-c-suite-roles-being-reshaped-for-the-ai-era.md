@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap
 - 2026-07-29-ai-shifts-mainframe-modernization-strategy
+- 2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
 - 2026-05-18-mustafa-suleiman-microsoft-s-ai-chief-stated-today-that-most
-- 2026-07-18-ibm-ceo-faces-investor-scrutiny-as-ai-spending-shifts
 embedding_id: 2026-05-04-ibm-ceo-study-c-suite-roles-being-reshaped-for-the-ai-era
 event_name: ''
 ---
@@ -37,5 +37,5 @@ IBM's CEO study finds C-suite roles are being restructured around AI accountabil
 
 **Entities:** [[IBM]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap]] · [[2026-07-29-ai-shifts-mainframe-modernization-strategy]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-05-18-mustafa-suleiman-microsoft-s-ai-chief-stated-today-that-most]] · [[2026-07-18-ibm-ceo-faces-investor-scrutiny-as-ai-spending-shifts]]
+**Related:** [[2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap]] · [[2026-07-29-ai-shifts-mainframe-modernization-strategy]] · [[2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-05-18-mustafa-suleiman-microsoft-s-ai-chief-stated-today-that-most]]
 <!-- graph:end -->

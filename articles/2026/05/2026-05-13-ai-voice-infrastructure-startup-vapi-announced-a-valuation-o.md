@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi
 - 2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a
 - 2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit
-- 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
+- 2026-09-02-kkr-backs-10b-ai-infrastructure-venture-helix-digital-infras
 embedding_id: 2026-05-13-ai-voice-infrastructure-startup-vapi-announced-a-valuation-o
 event_name: ''
 ---
@@ -40,5 +40,5 @@ AI voice infrastructure startup Vapi announced a valuation of $500 million follo
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-12-vapi-hits-500m-valuation-after-winning-amazon-ring-contract]] · [[2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]]
+**Related:** [[2026-05-12-vapi-hits-500m-valuation-after-winning-amazon-ring-contract]] · [[2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]] · [[2026-09-02-kkr-backs-10b-ai-infrastructure-venture-helix-digital-infras]]
 <!-- graph:end -->

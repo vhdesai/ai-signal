@@ -1,14 +1,17 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 164
+member_count: 167
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 164 connected article(s).
+> Auto-generated entity hub. 167 connected article(s).
 
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
+- `2026-09-01` [[2026-09-01-huawei-first-half-profit-falls-roughly-a-third-as-r-d-hits-2|Huawei first-half profit falls roughly a third as R&D hits 26% of revenue]]
+- `2026-09-01` [[2026-09-01-huawei-first-half-profit-falls-37-amid-record-ai-and-chip-sp|Huawei First-Half Profit Falls ~37% Amid Record AI and Chip Spending]]
 - `2026-08-31` [[2026-08-31-huawei-h1-profit-drop-quickens-to-36-on-rising-costs-r-d-spe|Huawei H1 profit drop quickens to 36% on rising costs, R&D spending]]
 - `2026-08-31` [[2026-08-31-huawei-h1-2026-net-profit-falls-36-as-ai-related-r-d-spendin|Huawei H1 2026 net profit falls 36% as AI-related R&D spending surges]]
 - `2026-08-29` [[2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta|Anthropic opens a research preview of the Model Hardware Standard for agents operating physical devices]]

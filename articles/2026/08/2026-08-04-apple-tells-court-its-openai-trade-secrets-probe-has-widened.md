@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle
 - 2026-07-13-apple-s-trade-secret-suit-against-openai-becomes-a-test-of-a
-- 2026-08-04-openai-calls-apple-s-trade-secret-suit-careless-and-oddly-pe
+- 2026-09-01-apple-s-trade-secrets-suit-against-openai-escalates
 embedding_id: 2026-08-04-apple-tells-court-its-openai-trade-secrets-probe-has-widened
 event_name: ''
 ---
@@ -38,5 +38,5 @@ In a new court filing, Apple said additional former employees may have retained 
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle]] · [[2026-07-13-apple-s-trade-secret-suit-against-openai-becomes-a-test-of-a]] · [[2026-08-04-openai-calls-apple-s-trade-secret-suit-careless-and-oddly-pe]]
+**Related:** [[2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle]] · [[2026-07-13-apple-s-trade-secret-suit-against-openai-becomes-a-test-of-a]] · [[2026-09-01-apple-s-trade-secrets-suit-against-openai-escalates]]
 <!-- graph:end -->

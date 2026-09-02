@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-10-anthropic-s-pre-release-fable-5-rewrites-bun-runtime-from-zi
 - 2026-07-10-claude-fable-5-rewrites-bun-runtime-from-zig-to-rust-in-a-la
 - 2026-07-10-anthropic-s-fable-5-rewrites-the-bun-runtime-from-zig-to-rus
-- 2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm
+- 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75
 embedding_id: 2026-07-10-anthropic-s-fable-5-rewrites-bun-runtime-from-zig-to-rust-1m
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Bun creator Jarred Sumner used a pre-release Claude "Fable 5" to port Bun's ~960
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-10-anthropic-s-pre-release-fable-5-rewrites-the-bun-runtime-fro]] · [[2026-07-10-anthropic-s-pre-release-fable-5-rewrites-bun-runtime-from-zi]] · [[2026-07-10-claude-fable-5-rewrites-bun-runtime-from-zig-to-rust-in-a-la]] · [[2026-07-10-anthropic-s-fable-5-rewrites-the-bun-runtime-from-zig-to-rus]] · [[2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm]]
+**Related:** [[2026-07-10-anthropic-s-pre-release-fable-5-rewrites-the-bun-runtime-fro]] · [[2026-07-10-anthropic-s-pre-release-fable-5-rewrites-bun-runtime-from-zi]] · [[2026-07-10-claude-fable-5-rewrites-bun-runtime-from-zig-to-rust-in-a-la]] · [[2026-07-10-anthropic-s-fable-5-rewrites-the-bun-runtime-from-zig-to-rus]] · [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75]]
 <!-- graph:end -->

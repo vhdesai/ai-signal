@@ -23,8 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-01-anthropic-signs-35b-nvidia-backed-lambda-cloud-deal-in-texas
+- 2026-09-01-anthropic-signs-35b-cloud-deal-with-nvidia-backed-lambda-for
+- 2026-09-01-anthropic-signs-reported-35b-cloud-agreement-with-nvidia-bac
 - 2026-08-31-anthropic-signs-a-35b-cloud-deal-with-nvidia-backed-lambda
-- 2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu
 embedding_id: 2026-08-31-anthropic-signs-35-billion-compute-deal-with-nvidia-backed-l
 event_name: ''
 ---
@@ -38,5 +40,5 @@ Anthropic has agreed to rent roughly $35 billion of compute capacity from Lambda
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-31-anthropic-signs-a-35b-cloud-deal-with-nvidia-backed-lambda]] · [[2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu]]
+**Related:** [[2026-09-01-anthropic-signs-35b-nvidia-backed-lambda-cloud-deal-in-texas]] · [[2026-09-01-anthropic-signs-35b-cloud-deal-with-nvidia-backed-lambda-for]] · [[2026-09-01-anthropic-signs-reported-35b-cloud-agreement-with-nvidia-bac]] · [[2026-08-31-anthropic-signs-a-35b-cloud-deal-with-nvidia-backed-lambda]]
 <!-- graph:end -->

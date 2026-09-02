@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo
 - 2026-08-31-google-releases-timesfm-3-a-330m-parameter-zero-shot-forecas
+- 2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore
 - 2026-08-03-the-enterprise-bottleneck-has-clearly-shifted-from-gaining-m
 - 2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i
-- 2026-04-03-google-research-released-timesfm-time-series-foundation-mode
 embedding_id: 2026-08-03-timesfm-2-5-is-notable-because-it-emphasizes-the-full-foreca
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TimesFM 2.5 is notable because it emphasizes the full forecasting workflow rathe
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo]] · [[2026-08-31-google-releases-timesfm-3-a-330m-parameter-zero-shot-forecas]] · [[2026-08-03-the-enterprise-bottleneck-has-clearly-shifted-from-gaining-m]] · [[2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i]] · [[2026-04-03-google-research-released-timesfm-time-series-foundation-mode]]
+**Related:** [[2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo]] · [[2026-08-31-google-releases-timesfm-3-a-330m-parameter-zero-shot-forecas]] · [[2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore]] · [[2026-08-03-the-enterprise-bottleneck-has-clearly-shifted-from-gaining-m]] · [[2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i]]
 <!-- graph:end -->

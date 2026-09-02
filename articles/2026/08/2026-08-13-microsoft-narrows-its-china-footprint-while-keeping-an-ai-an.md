@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-stanford-2026-ai-index-u-s-china-capability-gap-has-effectiv
 - 2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home
+- 2026-09-02-xinhua-reported-that-chinese-authorities-removed-5-6-million
 - 2026-08-21-brazil-commits-444m-to-ai-supercomputing-split-between-chine
 - 2026-08-04-microsoft-closes-up-for-2026-finally
 embedding_id: 2026-08-13-microsoft-narrows-its-china-footprint-while-keeping-an-ai-an
@@ -38,5 +39,5 @@ Reuters reports Microsoft has closed or exited at least 15 branches and joint ve
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-14-stanford-2026-ai-index-u-s-china-capability-gap-has-effectiv]] · [[2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home]] · [[2026-08-21-brazil-commits-444m-to-ai-supercomputing-split-between-chine]] · [[2026-08-04-microsoft-closes-up-for-2026-finally]]
+**Related:** [[2026-05-14-stanford-2026-ai-index-u-s-china-capability-gap-has-effectiv]] · [[2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home]] · [[2026-09-02-xinhua-reported-that-chinese-authorities-removed-5-6-million]] · [[2026-08-21-brazil-commits-444m-to-ai-supercomputing-split-between-chine]] · [[2026-08-04-microsoft-closes-up-for-2026-finally]]
 <!-- graph:end -->

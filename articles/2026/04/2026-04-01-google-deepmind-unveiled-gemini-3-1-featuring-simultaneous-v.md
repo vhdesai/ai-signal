@@ -5,8 +5,8 @@ title: Google DeepMind unveiled Gemini 3.1, featuring simultaneous voice and ima
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/
+url_status: repaired
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: 9a8abbc99186f956d1be6c700f01c61a0afa171ed03aa1e89bf209db5c2d6b07

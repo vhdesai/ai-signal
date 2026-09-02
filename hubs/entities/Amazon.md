@@ -1,14 +1,22 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 516
+member_count: 524
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 516 connected article(s).
+> Auto-generated entity hub. 524 connected article(s).
 
+- `2026-09-02` [[2026-09-02-meta-and-google-s-ai-returns-slide-piper-sandler-says-amazon|Meta and Google’s AI returns slide, Piper Sandler says Amazon’s capital discipline sets it apart]]
+- `2026-09-01` [[2026-09-01-purdue-libraries-and-school-of-information-studies-advance-a|Purdue Libraries and School of Information Studies Advance AI Across Research and Knowledge Stewardship]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
+- `2026-09-01` [[2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-a-two-t|Anthropic ships Claude Fable 5.1 and Mythos 5.1 with a two-tier safeguard split]]
+- `2026-09-01` [[2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-75-chea|Anthropic ships Claude Fable 5.1 and Mythos 5.1 with 75% cheaper cache reads]]
+- `2026-09-01` [[2026-09-01-amazon-s-alexa-adds-update-me-when-shifting-shopping-ai-from|Amazon’s Alexa adds “Update Me When,” shifting shopping AI from reactive to anticipatory]]
+- `2026-09-01` [[2026-09-01-amazon-adds-alexa-update-me-when-purchase-trigger-alerts|Amazon adds Alexa "Update Me When" purchase-trigger alerts]]
+- `2026-09-01` [[2026-09-01-aws-and-accenture-sign-six-year-middle-east-ai-and-cloud-agr|AWS and Accenture Sign Six-Year Middle East AI and Cloud Agreement]]
 - `2026-08-31` [[2026-08-31-taiwan-raids-nvidia-and-intel-pcb-supplier-unimicron-over-al|Taiwan Raids Nvidia and Intel PCB Supplier Unimicron Over Alleged Origin Fraud]]
 - `2026-08-31` [[2026-08-31-openai-reportedly-buys-tens-of-thousands-of-mac-minis-and-ma|OpenAI reportedly buys tens of thousands of Mac minis and Mac Studios to train computer-use agents]]
 - `2026-08-31` [[2026-08-31-openai-and-anthropic-buy-tens-of-thousands-of-macs-for-agent|OpenAI and Anthropic Buy Tens of Thousands of Macs for Agent Training; Apple Pulls Forward Refreshes]]

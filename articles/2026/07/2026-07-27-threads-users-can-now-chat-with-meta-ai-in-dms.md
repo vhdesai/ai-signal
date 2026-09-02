@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-meta-is-testing-a-meta-ai-integration-on-threads-that-mimics
 - 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
-- 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
+- 2026-09-02-meta-ditches-google-chat-for-slack-citing-ai-agent-workflows
 embedding_id: 2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Meta is rolling out Meta AI inside Threads direct messages, giving users another
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-meta-is-testing-a-meta-ai-integration-on-threads-that-mimics]] · [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]]
+**Related:** [[2026-05-13-meta-is-testing-a-meta-ai-integration-on-threads-that-mimics]] · [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-09-02-meta-ditches-google-chat-for-slack-citing-ai-agent-workflows]]
 <!-- graph:end -->

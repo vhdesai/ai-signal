@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-01-princeton-expands-institutional-support-for-ai-and-data-scie
+- 2026-09-01-princeton-establishes-data-and-intelligent-systems-dais-as-a
 - 2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 - 2026-05-13-conference-proceedings-published-through-springer-today-high
-- 2026-07-30-princeton-shadow-evaluations-ai-agents-fail-to-make-research
-- 2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la
 embedding_id: 2026-05-26-princeton-ai-lab-recaps-physical-foundations-of-intelligent
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Princeton's AI Lab posted a recap and full video from its faculty workshop on th
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-13-conference-proceedings-published-through-springer-today-high]] · [[2026-07-30-princeton-shadow-evaluations-ai-agents-fail-to-make-research]] · [[2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la]]
+**Related:** [[2026-09-01-princeton-expands-institutional-support-for-ai-and-data-scie]] · [[2026-09-01-princeton-establishes-data-and-intelligent-systems-dais-as-a]] · [[2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-13-conference-proceedings-published-through-springer-today-high]]
 <!-- graph:end -->

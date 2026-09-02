@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-20-anthropic-to-give-enterprise-clients-more-control-over-data
 - 2026-08-21-anthropic-to-let-enterprises-hold-required-retention-data-on
-- 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
-- 2026-08-19-openai-launches-private-safety-processing-to-one-up-anthropi
+- 2026-09-01-anthropic-debuts-enterprise-frontier-safeguards-with-zero-da
+- 2026-09-02-anthropic-introduces-zero-retention-ai-safety-monitoring-for
 embedding_id: 2026-08-20-anthropic-reverses-course-on-enterprise-data-retention-after
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic plans to let enterprise customers exercise greater control over their 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-20-anthropic-to-give-enterprise-clients-more-control-over-data]] · [[2026-08-21-anthropic-to-let-enterprises-hold-required-retention-data-on]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-08-19-openai-launches-private-safety-processing-to-one-up-anthropi]]
+**Related:** [[2026-08-20-anthropic-to-give-enterprise-clients-more-control-over-data]] · [[2026-08-21-anthropic-to-let-enterprises-hold-required-retention-data-on]] · [[2026-09-01-anthropic-debuts-enterprise-frontier-safeguards-with-zero-da]] · [[2026-09-02-anthropic-introduces-zero-retention-ai-safety-monitoring-for]]
 <!-- graph:end -->

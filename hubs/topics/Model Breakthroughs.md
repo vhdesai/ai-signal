@@ -1,20 +1,65 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 2622
+member_count: 2667
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 2622 connected article(s).
+> Auto-generated topic hub. 2667 connected article(s).
 
+- `2026-09-02` [[2026-09-02-xinhua-reported-that-chinese-authorities-removed-5-6-million|Xinhua reported that Chinese authorities removed 5.6 million pieces of unlawful or rule-violating content as part of a crackdown on AI misuse. The action shows Beijing continuing to pair rapid AI deployment with centralized content and platform enforcement. For global AI operators, the development is another example of diverging regulatory models across major markets.]]
+- `2026-09-02` [[2026-09-02-openai-s-astra-becomes-its-first-model-rated-critical-for-cy|OpenAI’s Astra becomes its first model rated “Critical” for cyber capability]]
+- `2026-09-02` [[2026-09-02-nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models|Nvidia and CrowdStrike develop new cybersecurity AI models]]
+- `2026-09-02` [[2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness|New IBM Study Finds AI Adoption Is Outpacing K-12 Readiness]]
+- `2026-09-02` [[2026-09-02-google-reportedly-readying-a-new-gemini-model-codenamed-skim|Google Reportedly Readying a New Gemini Model Codenamed “Skimaki”]]
+- `2026-09-02` [[2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day|Frontier capability and frontier cost moved on the same day]]
+- `2026-09-02` [[2026-09-02-baidu-cfo-says-ai-could-soon-match-search-business-in-profit|Baidu CFO says AI could soon match search business in profit and cash returns]]
+- `2026-09-02` [[2026-09-02-anthropic-follows-openai-in-pausing-some-ai-training-followi|Anthropic follows OpenAI in pausing some AI training following rogue agent hacks]]
+- `2026-09-01` [[2026-09-01-zhipu-ai-z-ai-first-half-revenue-jumps-nearly-400-on-api-gro|Zhipu AI (Z.AI) First-Half Revenue Jumps Nearly 400% on API Growth]]
+- `2026-09-01` [[2026-09-01-u-s-pushes-g20-toward-light-touch-ai-regulation-under-the-ca|U.S. Pushes G20 Toward Light-Touch AI Regulation Under the “Carolina Principles”]]
+- `2026-09-01` [[2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore|TimesFM-3: A zero-shot foundation model for multivariate forecasting]]
 - `2026-09-01` [[2026-09-01-salesforce-puts-its-entire-crm-inside-claude|Salesforce Puts Its Entire CRM Inside Claude]]
+- `2026-09-01` [[2026-09-01-purdue-libraries-and-school-of-information-studies-advance-a|Purdue Libraries and School of Information Studies Advance AI Across Research and Knowledge Stewardship]]
+- `2026-09-01` [[2026-09-01-princeton-stanford-and-ant-group-introduce-aqua-self-improvi|Princeton, Stanford, and Ant Group introduce AQuA, self-improving quant research agents]]
+- `2026-09-01` [[2026-09-01-princeton-stanford-and-ant-group-introduce-aqua-an-agentic-f|Princeton, Stanford and Ant Group Introduce AQuA, an Agentic Framework for Autonomous Factor Discovery]]
+- `2026-09-01` [[2026-09-01-princeton-expands-institutional-support-for-ai-and-data-scie|Princeton expands institutional support for AI and data-science scholarship]]
+- `2026-09-01` [[2026-09-01-princeton-establishes-data-and-intelligent-systems-dais-as-a|Princeton Establishes Data and Intelligent Systems (DaIS) as a New Academic Unit]]
 - `2026-09-01` [[2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu|PitchBook: M&A, Not IPOs, Is Now the Default Exit for AI Startups Outside the Frontier Tier]]
+- `2026-09-01` [[2026-09-01-perplexity-ships-hybrid-compute-on-mac-gating-cloud-calls-be|Perplexity ships hybrid compute on Mac, gating cloud calls behind a local model]]
+- `2026-09-01` [[2026-09-01-path-to-astra-critical-capabilities-and-frontier-safeguards|Path to Astra: critical capabilities and frontier safeguards]]
 - `2026-09-01` [[2026-09-01-palo-alto-unit-42-frontier-ai-now-tips-the-balance-toward-cy|Palo Alto Unit 42: Frontier AI Now Tips the Balance Toward Cyber Adversaries]]
+- `2026-09-01` [[2026-09-01-openai-says-astra-is-the-first-model-to-cross-its-critical-c|OpenAI says Astra is the first model to cross its Critical cybersecurity threshold]]
+- `2026-09-01` [[2026-09-01-openai-says-astra-is-its-first-model-to-reach-critical-cyber|OpenAI says Astra is its first model to reach 'Critical' cybersecurity capability; suite timeline slips]]
+- `2026-09-01` [[2026-09-01-openai-connects-chatgpt-to-epic-electronic-health-records|OpenAI connects ChatGPT to Epic electronic health records]]
+- `2026-09-01` [[2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy|OpenAI Says Astra Is Its First Model to Meet the “Critical” Cybersecurity Threshold]]
+- `2026-09-01` [[2026-09-01-microsoft-publishes-its-2026-responsible-ai-transparency-rep|Microsoft Publishes Its 2026 Responsible AI Transparency Report]]
+- `2026-09-01` [[2026-09-01-meta-releases-muse-voice-transcribe-collapsing-three-voice-c|Meta releases Muse Voice Transcribe, collapsing three voice components into one model]]
+- `2026-09-01` [[2026-09-01-meta-introduces-muse-a-voice-to-transcript-research-model|Meta introduces Muse, a voice-to-transcript research model]]
+- `2026-09-01` [[2026-09-01-meta-superintelligence-labs-releases-muse-voice-transcribe-i|Meta Superintelligence Labs releases Muse Voice Transcribe, its first real-time audio perception model]]
+- `2026-09-01` [[2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a|Meta Superintelligence Labs Launches Muse Voice Transcribe, a Single Real-Time Audio Model]]
+- `2026-09-01` [[2026-09-01-mapping-global-methane-emissions-from-space-with-deep-learni|Mapping global methane emissions from space with deep learning]]
+- `2026-09-01` [[2026-09-01-manus-resumes-independent-operations-after-china-blocks-meta|Manus Resumes Independent Operations After China Blocks Meta's ~$2B Acquisition]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-09-01` [[2026-09-01-john-ternus-takes-over-as-apple-ceo-tim-cook-becomes-executi|John Ternus Takes Over as Apple CEO; Tim Cook Becomes Executive Chair]]
 - `2026-09-01` [[2026-09-01-john-ternus-becomes-apple-ceo-as-the-tim-cook-era-ends|John Ternus Becomes Apple CEO as the Tim Cook Era Ends]]
 - `2026-09-01` [[2026-09-01-john-ternus-becomes-apple-ceo-as-tim-cook-moves-to-executive|John Ternus Becomes Apple CEO as Tim Cook Moves to Executive Chairman]]
+- `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
+- `2026-09-01` [[2026-09-01-how-the-fda-is-building-a-secure-ai-ready-data-foundation-on|How the FDA is building a secure, AI-ready data foundation on Databricks for Government]]
+- `2026-09-01` [[2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi|How AI-native companies turn workflows into operating capability]]
+- `2026-09-01` [[2026-09-01-google-launches-pics-an-ai-first-design-tool-aimed-at-canva|Google launches Pics, an AI-first design tool aimed at Canva and Adobe Express]]
+- `2026-09-01` [[2026-09-01-google-introduces-agentic-video-understanding-for-gemini|Google introduces agentic video understanding for Gemini]]
+- `2026-09-01` [[2026-09-01-google-research-and-nasa-jpl-map-global-methane-emissions-fr|Google Research and NASA JPL map global methane emissions from space using deep learning]]
 - `2026-09-01` [[2026-09-01-bank-of-england-governor-warns-frontier-ai-models-raise-syst|Bank of England Governor Warns Frontier AI Models Raise Systemic Cyber Risk]]
+- `2026-09-01` [[2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-a-two-t|Anthropic ships Claude Fable 5.1 and Mythos 5.1 with a two-tier safeguard split]]
+- `2026-09-01` [[2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-75-chea|Anthropic ships Claude Fable 5.1 and Mythos 5.1 with 75% cheaper cache reads]]
+- `2026-09-01` [[2026-09-01-anthropic-ships-claude-fable-5-1-and-claude-mythos-5-1-cuts|Anthropic ships Claude Fable 5.1 and Claude Mythos 5.1, cuts cache-read costs 75%]]
+- `2026-09-01` [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a|Anthropic releases Claude Fable 5.1 and Mythos 5.1, cutting agentic costs up to 45%]]
+- `2026-09-01` [[2026-09-01-anthropic-introduces-enterprise-frontier-safeguards-with-cus|Anthropic introduces Enterprise Frontier Safeguards with customer-held monitoring data]]
+- `2026-09-01` [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75|Anthropic Releases Claude Fable 5.1 and Mythos 5.1 with a 75% Cache-Read Price Cut]]
+- `2026-09-01` [[2026-09-01-amazon-adds-alexa-update-me-when-purchase-trigger-alerts|Amazon adds Alexa "Update Me When" purchase-trigger alerts]]
+- `2026-09-01` [[2026-09-01-ai2-releases-benchmirt-to-audit-llm-benchmark-integrity|Ai2 releases BenchMIRT to audit LLM benchmark integrity]]
+- `2026-09-01` [[2026-09-01-ai2-publishes-benchmirt-auditing-what-llm-benchmarks-actuall|Ai2 Publishes BenchMIRT, Auditing What LLM Benchmarks Actually Measure]]
 - `2026-08-31` [[2026-08-31-tsinghua-s-pacman-group-releases-puro-2b-a-fully-open-recipe|Tsinghua's PACMAN Group Releases Puro-2B, a Fully Open Recipe for Sub-$7K Pretraining]]
 - `2026-08-31` [[2026-08-31-tsinghua-s-pacman-group-publishes-puro-2b-a-full-pretraining|Tsinghua's PACMAN Group Publishes Puro-2B, a Full Pretraining Recipe for Consumer GPUs]]
 - `2026-08-31` [[2026-08-31-the-u-s-is-building-barriers-around-drones-and-robots-but-ch|The U.S. is building barriers around drones and robots, but China has scale to get around them]]

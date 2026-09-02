@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-30-eu-commits-10b-to-seven-ai-gigafactories-in-race-with-u-s-an
 - 2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories
 - 2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da
-- 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
+- 2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da
 embedding_id: 2026-04-23-helsinki-based-verda-raises-100m-to-build-european-ai-cloud
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Verda closed a €100M round to expand its Nordic GPU footprint, targeting enter
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-07-30-eu-commits-10b-to-seven-ai-gigafactories-in-race-with-u-s-an]] · [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]]
+**Related:** [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-07-30-eu-commits-10b-to-seven-ai-gigafactories-in-race-with-u-s-an]] · [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da]]
 <!-- graph:end -->

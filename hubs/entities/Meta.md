@@ -1,15 +1,24 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 623
+member_count: 632
 ---
 
 # Meta
 
-> Auto-generated entity hub. 623 connected article(s).
+> Auto-generated entity hub. 632 connected article(s).
 
+- `2026-09-02` [[2026-09-02-meta-ditches-google-chat-for-slack-citing-ai-agent-workflows|Meta ditches Google Chat for Slack, citing AI agent workflows]]
+- `2026-09-02` [[2026-09-02-meta-and-google-s-ai-returns-slide-piper-sandler-says-amazon|Meta and Google’s AI returns slide, Piper Sandler says Amazon’s capital discipline sets it apart]]
+- `2026-09-02` [[2026-09-02-google-reportedly-readying-a-new-gemini-model-codenamed-skim|Google Reportedly Readying a New Gemini Model Codenamed “Skimaki”]]
+- `2026-09-01` [[2026-09-01-meta-releases-muse-voice-transcribe-collapsing-three-voice-c|Meta releases Muse Voice Transcribe, collapsing three voice components into one model]]
+- `2026-09-01` [[2026-09-01-meta-introduces-muse-a-voice-to-transcript-research-model|Meta introduces Muse, a voice-to-transcript research model]]
+- `2026-09-01` [[2026-09-01-meta-superintelligence-labs-releases-muse-voice-transcribe-i|Meta Superintelligence Labs releases Muse Voice Transcribe, its first real-time audio perception model]]
+- `2026-09-01` [[2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a|Meta Superintelligence Labs Launches Muse Voice Transcribe, a Single Real-Time Audio Model]]
+- `2026-09-01` [[2026-09-01-manus-resumes-independent-operations-after-china-blocks-meta|Manus Resumes Independent Operations After China Blocks Meta's ~$2B Acquisition]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
 - `2026-09-01` [[2026-09-01-john-ternus-becomes-apple-ceo-as-the-tim-cook-era-ends|John Ternus Becomes Apple CEO as the Tim Cook Era Ends]]
+- `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
 - `2026-08-31` [[2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business|Meta’s AI agent push puts focus on new consumer business]]
 - `2026-08-31` [[2026-08-31-meta-reportedly-projected-up-to-10b-a-year-in-anthropic-mode|Meta reportedly projected up to $10B a year in Anthropic model spend]]
 - `2026-08-31` [[2026-08-31-meta-internally-projected-spending-up-to-10-billion-a-year-o|Meta internally projected spending up to $10 billion a year on Anthropic models]]

@@ -1,16 +1,37 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 1541
+member_count: 1562
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 1541 connected article(s).
+> Auto-generated topic hub. 1562 connected article(s).
 
+- `2026-09-02` [[2026-09-02-xinhua-reported-that-chinese-authorities-removed-5-6-million|Xinhua reported that Chinese authorities removed 5.6 million pieces of unlawful or rule-violating content as part of a crackdown on AI misuse. The action shows Beijing continuing to pair rapid AI deployment with centralized content and platform enforcement. For global AI operators, the development is another example of diverging regulatory models across major markets.]]
+- `2026-09-02` [[2026-09-02-tencent-backed-enflame-s-ipo-draws-4-073-times-retail-demand|Tencent-backed Enflame’s IPO draws 4,073 times retail demand]]
+- `2026-09-02` [[2026-09-02-openai-restricts-astra-model-after-it-crosses-critical-cyber|OpenAI restricts Astra model after it crosses "critical" cyber-risk threshold]]
+- `2026-09-02` [[2026-09-02-openai-faces-30-additional-lawsuits-over-the-tumbler-ridge-s|OpenAI faces 30 additional lawsuits over the Tumbler Ridge shooting]]
+- `2026-09-02` [[2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day|Frontier capability and frontier cost moved on the same day]]
+- `2026-09-02` [[2026-09-02-anthropic-introduces-zero-retention-ai-safety-monitoring-for|Anthropic introduces zero-retention AI safety monitoring for enterprises]]
+- `2026-09-02` [[2026-09-02-anthropic-follows-openai-in-pausing-some-ai-training-followi|Anthropic follows OpenAI in pausing some AI training following rogue agent hacks]]
+- `2026-09-02` [[2026-09-02-anthropic-details-evaluation-incidents-and-launches-enterpri|Anthropic details evaluation incidents and launches Enterprise Frontier Safeguards]]
+- `2026-09-01` [[2026-09-01-u-s-pushes-g20-toward-light-touch-ai-regulation-under-the-ca|U.S. Pushes G20 Toward Light-Touch AI Regulation Under the “Carolina Principles”]]
 - `2026-09-01` [[2026-09-01-tsinghua-s-pacman-group-publishes-puro-2b-a-full-pretraining|Tsinghua's PACMAN group publishes Puro-2B, a full pretraining recipe for consumer GPUs]]
+- `2026-09-01` [[2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore|TimesFM-3: A zero-shot foundation model for multivariate forecasting]]
+- `2026-09-01` [[2026-09-01-sony-music-publishing-and-warner-chappell-sue-anthropic-over|Sony Music Publishing and Warner Chappell Sue Anthropic Over Claude Training Data]]
+- `2026-09-01` [[2026-09-01-princeton-establishes-data-and-intelligent-systems-dais-as-a|Princeton Establishes Data and Intelligent Systems (DaIS) as a New Academic Unit]]
+- `2026-09-01` [[2026-09-01-pentagon-deploys-chatgpt-mil-and-grok-for-government-to-gena|Pentagon Deploys ChatGPT Mil and Grok for Government to GenAI.mil; Anthropic Excluded]]
+- `2026-09-01` [[2026-09-01-palo-alto-networks-frontier-ai-now-tips-the-scales-toward-at|Palo Alto Networks: frontier AI now tips the scales toward attackers]]
+- `2026-09-01` [[2026-09-01-openai-says-astra-is-the-first-model-to-cross-its-critical-c|OpenAI says Astra is the first model to cross its Critical cybersecurity threshold]]
+- `2026-09-01` [[2026-09-01-mapping-global-methane-emissions-from-space-with-deep-learni|Mapping global methane emissions from space with deep learning]]
+- `2026-09-01` [[2026-09-01-huawei-first-half-profit-falls-37-amid-record-ai-and-chip-sp|Huawei First-Half Profit Falls ~37% Amid Record AI and Chip Spending]]
+- `2026-09-01` [[2026-09-01-how-the-fda-is-building-a-secure-ai-ready-data-foundation-on|How the FDA is building a secure, AI-ready data foundation on Databricks for Government]]
 - `2026-09-01` [[2026-09-01-california-legislature-sends-newsom-a-slate-of-ai-bills-incl|California Legislature Sends Newsom a Slate of AI Bills, Including Limits on “Robo Bosses”]]
 - `2026-09-01` [[2026-09-01-bank-of-england-governor-warns-frontier-ai-models-raise-syst|Bank of England Governor Warns Frontier AI Models Raise Systemic Cyber Risk]]
+- `2026-09-01` [[2026-09-01-apple-s-trade-secrets-suit-against-openai-escalates|Apple's trade-secrets suit against OpenAI escalates]]
+- `2026-09-01` [[2026-09-01-anthropic-introduces-enterprise-frontier-safeguards-with-cus|Anthropic introduces Enterprise Frontier Safeguards with customer-held monitoring data]]
+- `2026-09-01` [[2026-09-01-anthropic-launches-enterprise-frontier-safeguards-keeping-mi|Anthropic Launches Enterprise Frontier Safeguards, Keeping Misuse Logs in the Customer's Cloud]]
 - `2026-08-31` [[2026-08-31-the-u-s-is-building-barriers-around-drones-and-robots-but-ch|The U.S. is building barriers around drones and robots, but China has scale to get around them]]
 - `2026-08-31` [[2026-08-31-stanford-hai-proposes-fiduciary-duties-for-ai-agent-develope|Stanford HAI Proposes Fiduciary Duties for AI-Agent Developers]]
 - `2026-08-31` [[2026-08-31-sony-music-publishing-and-warner-chappell-sue-anthropic-over|Sony Music Publishing and Warner Chappell Sue Anthropic Over Training Data]]

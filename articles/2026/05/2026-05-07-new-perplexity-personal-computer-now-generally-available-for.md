@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-01-perplexity-ships-hybrid-compute-on-mac-gating-cloud-calls-be
 - 2026-08-25-perplexity-partners-with-nvidia-to-launch-portable-computer
 - 2026-08-18-perplexity-s-free-ai-offer-left-it-with-millions-more-users
 - 2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local
 - 2026-08-31-apple-pulled-forward-mac-mini-and-mac-studio-launches-on-une
-- 2026-05-15-a-new-macos-tool-called-ai-osaurus-launched-today-giving-use
 embedding_id: 2026-05-07-new-perplexity-personal-computer-now-generally-available-for
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Perplexity opened its Personal Computer product — an OS-level AI assistant for
 
 **Entities:** [[Apple]] · [[Microsoft]] · [[Perplexity]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-25-perplexity-partners-with-nvidia-to-launch-portable-computer]] · [[2026-08-18-perplexity-s-free-ai-offer-left-it-with-millions-more-users]] · [[2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local]] · [[2026-08-31-apple-pulled-forward-mac-mini-and-mac-studio-launches-on-une]] · [[2026-05-15-a-new-macos-tool-called-ai-osaurus-launched-today-giving-use]]
+**Related:** [[2026-09-01-perplexity-ships-hybrid-compute-on-mac-gating-cloud-calls-be]] · [[2026-08-25-perplexity-partners-with-nvidia-to-launch-portable-computer]] · [[2026-08-18-perplexity-s-free-ai-offer-left-it-with-millions-more-users]] · [[2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local]] · [[2026-08-31-apple-pulled-forward-mac-mini-and-mac-studio-launches-on-une]]
 <!-- graph:end -->

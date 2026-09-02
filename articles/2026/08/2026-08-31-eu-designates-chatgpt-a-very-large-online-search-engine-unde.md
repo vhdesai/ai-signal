@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-31-european-commission-designates-chatgpt-a-very-large-online-s
 - 2026-08-31-european-commission-designates-chatgpt-under-the-digital-ser
+- 2026-09-01-eu-designates-chatgpt-a-very-large-online-search-engine-unde
 - 2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us
 - 2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules
 embedding_id: 2026-08-31-eu-designates-chatgpt-a-very-large-online-search-engine-unde
@@ -35,5 +36,5 @@ ChatGPT crossed the 45-million average monthly EU user threshold and becomes the
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-08-31-european-commission-designates-chatgpt-a-very-large-online-s]] · [[2026-08-31-european-commission-designates-chatgpt-under-the-digital-ser]] · [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]] · [[2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules]]
+**Related:** [[2026-08-31-european-commission-designates-chatgpt-a-very-large-online-s]] · [[2026-08-31-european-commission-designates-chatgpt-under-the-digital-ser]] · [[2026-09-01-eu-designates-chatgpt-a-very-large-online-search-engine-unde]] · [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]] · [[2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules]]
 <!-- graph:end -->

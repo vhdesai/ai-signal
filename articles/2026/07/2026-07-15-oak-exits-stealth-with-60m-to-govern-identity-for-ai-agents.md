@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent
+- 2026-09-01-air-launches-with-50m-to-build-a-firewall-for-ai-agent-skill
 - 2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s
 - 2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents
 - 2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance
-- 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
 embedding_id: 2026-07-15-oak-exits-stealth-with-60m-to-govern-identity-for-ai-agents
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Israeli startup Oak emerged from stealth with $60 million in seed funding and a 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent]] · [[2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]] · [[2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]]
+**Related:** [[2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent]] · [[2026-09-01-air-launches-with-50m-to-build-a-firewall-for-ai-agent-skill]] · [[2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]] · [[2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance]]
 <!-- graph:end -->

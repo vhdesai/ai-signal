@@ -5,8 +5,8 @@ title: Anthropic is in damage-control mode after source code for its Claude AI a
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techstrong.ai/articles/anthropic-scrambles-to-contain-damage-after-claude-code-leak/
+url_status: repaired
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: 2fe115fc015687def5c1d15211bef541e3d926a528a15a49ebe33161b538412c

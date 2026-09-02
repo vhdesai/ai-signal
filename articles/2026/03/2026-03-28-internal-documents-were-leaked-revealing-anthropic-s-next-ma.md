@@ -5,8 +5,8 @@ title: Internal documents were leaked revealing Anthropic's next major model, co
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theagenttimes.com/articles/anthropic-leak-exposes-claude-mythos-our-next-potential-leap-25236dfb
+url_status: repaired
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: 2894dedb0cbf5f6d409abf44cd32034534125798e49885b68437501d7d7ccaac

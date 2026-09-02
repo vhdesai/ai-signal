@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab
 - 2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a
 - 2026-08-27-google-ai-mode-adds-flight-tracking-and-in-chat-hotel-bookin
-- 2026-08-27-google-s-ai-mode-adds-flight-price-tracking-and-hotel-bookin
+- 2026-09-02-baidu-cfo-says-ai-could-soon-match-search-business-in-profit
 embedding_id: 2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Airbnb CEO Brian Chesky said AI helped reduce the time from concept to shipped f
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-airbnb-ai-cut-feature-launch-time-60-now-writes-60-of-code]] · [[2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab]] · [[2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a]] · [[2026-08-27-google-ai-mode-adds-flight-tracking-and-in-chat-hotel-bookin]] · [[2026-08-27-google-s-ai-mode-adds-flight-price-tracking-and-hotel-bookin]]
+**Related:** [[2026-08-07-airbnb-ai-cut-feature-launch-time-60-now-writes-60-of-code]] · [[2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab]] · [[2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a]] · [[2026-08-27-google-ai-mode-adds-flight-tracking-and-in-chat-hotel-bookin]] · [[2026-09-02-baidu-cfo-says-ai-could-soon-match-search-business-in-profit]]
 <!-- graph:end -->

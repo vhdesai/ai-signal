@@ -1,15 +1,32 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1197
+member_count: 1214
 ---
 
 # Google
 
-> Auto-generated entity hub. 1197 connected article(s).
+> Auto-generated entity hub. 1214 connected article(s).
 
+- `2026-09-02` [[2026-09-02-meta-ditches-google-chat-for-slack-citing-ai-agent-workflows|Meta ditches Google Chat for Slack, citing AI agent workflows]]
+- `2026-09-02` [[2026-09-02-meta-and-google-s-ai-returns-slide-piper-sandler-says-amazon|Meta and Google’s AI returns slide, Piper Sandler says Amazon’s capital discipline sets it apart]]
+- `2026-09-02` [[2026-09-02-google-reportedly-readying-a-new-gemini-model-codenamed-skim|Google Reportedly Readying a New Gemini Model Codenamed “Skimaki”]]
+- `2026-09-01` [[2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore|TimesFM-3: A zero-shot foundation model for multivariate forecasting]]
+- `2026-09-01` [[2026-09-01-pentagon-deploys-chatgpt-mil-and-grok-for-government-to-gena|Pentagon Deploys ChatGPT Mil and Grok for Government to GenAI.mil; Anthropic Excluded]]
+- `2026-09-01` [[2026-09-01-mapping-global-methane-emissions-from-space-with-deep-learni|Mapping global methane emissions from space with deep learning]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-09-01` [[2026-09-01-john-ternus-takes-over-as-apple-ceo-tim-cook-becomes-executi|John Ternus Takes Over as Apple CEO; Tim Cook Becomes Executive Chair]]
 - `2026-09-01` [[2026-09-01-john-ternus-becomes-apple-ceo-as-the-tim-cook-era-ends|John Ternus Becomes Apple CEO as the Tim Cook Era Ends]]
+- `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
+- `2026-09-01` [[2026-09-01-google-launches-pics-an-ai-first-design-tool-aimed-at-canva|Google launches Pics, an AI-first design tool aimed at Canva and Adobe Express]]
+- `2026-09-01` [[2026-09-01-google-launches-google-pics-a-workspace-native-ai-image-crea|Google launches Google Pics, a Workspace-native AI image creator built on Nano Banana]]
+- `2026-09-01` [[2026-09-01-google-introduces-agentic-video-understanding-for-gemini|Google introduces agentic video understanding for Gemini]]
+- `2026-09-01` [[2026-09-01-google-research-and-nasa-jpl-map-global-methane-emissions-fr|Google Research and NASA JPL map global methane emissions from space using deep learning]]
+- `2026-09-01` [[2026-09-01-google-pics-targets-canva-and-adobe-with-a-prompt-first-desi|Google Pics targets Canva and Adobe with a prompt-first design tool]]
+- `2026-09-01` [[2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-a-two-t|Anthropic ships Claude Fable 5.1 and Mythos 5.1 with a two-tier safeguard split]]
+- `2026-09-01` [[2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-75-chea|Anthropic ships Claude Fable 5.1 and Mythos 5.1 with 75% cheaper cache reads]]
+- `2026-09-01` [[2026-09-01-anthropic-debuts-enterprise-frontier-safeguards-with-zero-da|Anthropic debuts Enterprise Frontier Safeguards with zero data retention]]
+- `2026-09-01` [[2026-09-01-ai2-publishes-benchmirt-auditing-what-llm-benchmarks-actuall|Ai2 Publishes BenchMIRT, Auditing What LLM Benchmarks Actually Measure]]
 - `2026-08-31` [[2026-08-31-taiwan-raids-nvidia-and-intel-pcb-supplier-unimicron-over-al|Taiwan Raids Nvidia and Intel PCB Supplier Unimicron Over Alleged Origin Fraud]]
 - `2026-08-31` [[2026-08-31-purdue-study-finds-on-policy-distillation-works-largely-with|Purdue Study Finds On-Policy Distillation Works Largely Without the Teacher — and Proposes a Supervision-Free Alternative]]
 - `2026-08-31` [[2026-08-31-planetary-prediction-engine-automating-global-models-via-ear|Planetary prediction engine: Automating global models via Earth AI]]

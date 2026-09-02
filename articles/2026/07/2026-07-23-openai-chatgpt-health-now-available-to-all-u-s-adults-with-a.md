@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-07-23-openai-makes-chatgpt-health-available-to-all-u-s-users
 - 2026-07-28-openai-extends-chatgpt-into-personal-health-records
 - 2026-08-18-openai-launches-chatgpt-for-teens-with-parental-controls-and
+- 2026-09-01-chatgpt-health-integrates-with-epic-reaching-records-for-325
 - 2026-08-18-openai-launches-a-safer-chatgpt-for-teens
 embedding_id: 2026-07-23-openai-chatgpt-health-now-available-to-all-u-s-adults-with-a
 event_name: ''
@@ -39,5 +40,5 @@ Health in ChatGPT rolled out to all U.S. users 18+ across every plan, including 
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-23-openai-makes-chatgpt-health-available-to-all-u-s-users]] · [[2026-07-28-openai-extends-chatgpt-into-personal-health-records]] · [[2026-08-18-openai-launches-chatgpt-for-teens-with-parental-controls-and]] · [[2026-08-18-openai-launches-a-safer-chatgpt-for-teens]]
+**Related:** [[2026-07-23-openai-makes-chatgpt-health-available-to-all-u-s-users]] · [[2026-07-28-openai-extends-chatgpt-into-personal-health-records]] · [[2026-08-18-openai-launches-chatgpt-for-teens-with-parental-controls-and]] · [[2026-09-01-chatgpt-health-integrates-with-epic-reaching-records-for-325]] · [[2026-08-18-openai-launches-a-safer-chatgpt-for-teens]]
 <!-- graph:end -->

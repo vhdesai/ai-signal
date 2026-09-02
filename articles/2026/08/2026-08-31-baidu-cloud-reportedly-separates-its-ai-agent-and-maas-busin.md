@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz
+- 2026-09-02-baidu-cfo-says-ai-could-soon-match-search-business-in-profit
 - 2026-05-13-baidu-create-2026-dumate-miaoda-and-daily-active-agents-as-t
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
 - 2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc
-- 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
 embedding_id: 2026-08-31-baidu-cloud-reportedly-separates-its-ai-agent-and-maas-busin
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechNode reports that Baidu Cloud is separating its AI agent and model-as-a-serv
 
 **Entities:** [[Baidu]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz]] · [[2026-05-13-baidu-create-2026-dumate-miaoda-and-daily-active-agents-as-t]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]]
+**Related:** [[2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz]] · [[2026-09-02-baidu-cfo-says-ai-could-soon-match-search-business-in-profit]] · [[2026-05-13-baidu-create-2026-dumate-miaoda-and-daily-active-agents-as-t]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc]]
 <!-- graph:end -->

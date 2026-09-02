@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-openai-publishes-guidance-on-building-an-ai-ready-workforce
+- 2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-07-31-cognizant-ceo-all-350-000-employees-have-ai-fluency-meters
 - 2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin
-- 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
 embedding_id: 2026-07-31-openai-highlights-unive-s-ai-ready-workforce-program
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI spotlighted Italian insurer Unive as an example of an enterprise focusing
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-openai-publishes-guidance-on-building-an-ai-ready-workforce]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-07-31-cognizant-ceo-all-350-000-employees-have-ai-fluency-meters]] · [[2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin]] · [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]]
+**Related:** [[2026-07-31-openai-publishes-guidance-on-building-an-ai-ready-workforce]] · [[2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-07-31-cognizant-ceo-all-350-000-employees-have-ai-fluency-meters]] · [[2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin]]
 <!-- graph:end -->

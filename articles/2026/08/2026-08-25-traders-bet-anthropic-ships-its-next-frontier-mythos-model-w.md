@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-16-analysis-circulating-widely-on-may-15-109-hacker-news-points
 - 2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho
+- 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75
 - 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve
-- 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
 embedding_id: 2026-08-25-traders-bet-anthropic-ships-its-next-frontier-mythos-model-w
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Polymarket traders sharply raised the odds — to roughly 81% by September 15 �
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-16-analysis-circulating-widely-on-may-15-109-hacker-news-points]] · [[2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]] · [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]]
+**Related:** [[2026-05-16-analysis-circulating-widely-on-may-15-109-hacker-news-points]] · [[2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho]] · [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-29-cerebras-signs-a-10-year-ai-colocation-agreement-with-cleanc
 - 2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center
+- 2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da
 - 2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i
 - 2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale
-- 2026-05-02-ai-chip-maker-cerebras-systems-is-targeting-a-raise-of-up-to
 embedding_id: 2026-07-29-cerebras-signs-10-year-ai-colocation-deal-with-cleancore-sol
 event_name: ''
 ---
@@ -40,5 +40,5 @@ CleanCore Solutions (NYSE American: ZONE) signed a 10-year colocation agreement 
 
 **Entities:** [[Cerebras]] · [[Scale AI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-cerebras-signs-a-10-year-ai-colocation-agreement-with-cleanc]] · [[2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center]] · [[2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i]] · [[2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale]] · [[2026-05-02-ai-chip-maker-cerebras-systems-is-targeting-a-raise-of-up-to]]
+**Related:** [[2026-07-29-cerebras-signs-a-10-year-ai-colocation-agreement-with-cleanc]] · [[2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center]] · [[2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da]] · [[2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i]] · [[2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale]]
 <!-- graph:end -->

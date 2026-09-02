@@ -1,14 +1,17 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 347
+member_count: 350
 ---
 
 # xAI
 
-> Auto-generated entity hub. 347 connected article(s).
+> Auto-generated entity hub. 350 connected article(s).
 
+- `2026-09-01` [[2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr|Pentagon deploys ChatGPT Gov and Grok, notably excludes Anthropic]]
+- `2026-09-01` [[2026-09-01-pentagon-deploys-chatgpt-mil-and-grok-for-government-to-gena|Pentagon Deploys ChatGPT Mil and Grok for Government to GenAI.mil; Anthropic Excluded]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
 - `2026-08-31` [[2026-08-31-pentagon-adopts-xai-s-grok-and-openai-s-chatgpt-for-unclassi|Pentagon Adopts xAI’s Grok and OpenAI’s ChatGPT for Unclassified Military Use]]
 - `2026-08-31` [[2026-08-31-openai-cuts-off-cursor-after-spacex-s-takeover-of-anysphere|OpenAI cuts off Cursor after SpaceX's takeover of Anysphere]]
 - `2026-08-31` [[2026-08-31-openai-cuts-off-cursor-after-spacex-s-60-billion-takeover|OpenAI cuts off Cursor after SpaceX's $60 billion takeover]]

@@ -5,8 +5,8 @@ title: Amazon Web Services and Cerebras Systems announced a collaboration to del
 date: '2026-03-24'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.aboutamazon.com/news/aws/aws-cerebras-ai-inference
+url_status: repaired
 digest_source: digests\raw\2026-03-26_105104_Inbox_Daily AI News Digest – March 24,
   2026.md
 content_hash: 704aac56389d51a17a5000a87f12335e624ef40775cb42a784d2843aac79810f

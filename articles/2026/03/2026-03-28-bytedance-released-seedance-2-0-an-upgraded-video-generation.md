@@ -5,8 +5,8 @@ title: ByteDance released Seedance 2.0, an upgraded video generation model with 
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aiworkflows.tools/blog/seedance-2-0-ai-video-generation-complete-guide-2026
+url_status: repaired
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: 48288f8f5dc17ecd304b2752834ead01bd711283111ee6610ebe8ad66229a961

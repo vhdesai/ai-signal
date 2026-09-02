@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 63
+member_count: 64
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 63 connected article(s).
+> Auto-generated entity hub. 64 connected article(s).
 
+- `2026-09-02` [[2026-09-02-meta-ditches-google-chat-for-slack-citing-ai-agent-workflows|Meta ditches Google Chat for Slack, citing AI agent workflows]]
 - `2026-09-01` [[2026-09-01-salesforce-puts-its-entire-crm-inside-claude|Salesforce Puts Its Entire CRM Inside Claude]]
 - `2026-08-31` [[2026-08-31-openai-tests-outcome-based-pricing-with-major-customers|OpenAI Tests Outcome-Based Pricing With Major Customers]]
 - `2026-08-31` [[2026-08-31-ai-vendors-test-outcome-based-pricing-as-salesforce-style-mo|AI vendors test outcome-based pricing as Salesforce-style monetization gets harder]]

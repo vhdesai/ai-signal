@@ -5,8 +5,8 @@ title: Google Research released TimesFM (Time Series Foundation Model), applying
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://docs.cloud.google.com/bigquery/docs/timesfm-model
+url_status: repaired
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: 7916af02abc5b98f9d7bf61283998747ca545ada6de9ab52879daa47f67cf639
@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-31-google-research-releases-timesfm-3-a-330m-parameter-zero-sho
+- 2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore
 - 2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda
 - 2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab
 - 2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo
-- 2026-08-31-google-releases-timesfm-3-a-330m-parameter-zero-shot-forecas
 embedding_id: 2026-04-03-google-research-released-timesfm-time-series-foundation-mode
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google Research released TimesFM (Time Series Foundation Model), applying large-
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-31-google-research-releases-timesfm-3-a-330m-parameter-zero-sho]] · [[2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda]] · [[2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab]] · [[2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo]] · [[2026-08-31-google-releases-timesfm-3-a-330m-parameter-zero-shot-forecas]]
+**Related:** [[2026-08-31-google-research-releases-timesfm-3-a-330m-parameter-zero-sho]] · [[2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore]] · [[2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda]] · [[2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab]] · [[2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo]]
 <!-- graph:end -->

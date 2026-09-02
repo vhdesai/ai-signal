@@ -5,8 +5,8 @@ title: OpenAI completed a $122 billion fundraise, the largest single raise in co
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://gaius-tech.com/articles/openai-122-billion-fundraise-852-billion-valuation
+url_status: repaired
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: 0a09613e4ce05ceccf906d69a77ee660f59931a98de999edf745f082d6956ba6

@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 90
+member_count: 91
 ---
 
 # Intel
 
-> Auto-generated entity hub. 90 connected article(s).
+> Auto-generated entity hub. 91 connected article(s).
 
+- `2026-09-01` [[2026-09-01-indian-ai-chip-startup-agrani-labs-raising-50m-at-up-to-200m|Indian AI-Chip Startup Agrani Labs Raising ~$50M at up to $200M Valuation]]
 - `2026-08-31` [[2026-08-31-taiwan-raids-nvidia-and-intel-pcb-supplier-unimicron-over-al|Taiwan Raids Nvidia and Intel PCB Supplier Unimicron Over Alleged Origin Fraud]]
 - `2026-08-28` [[2026-08-28-google-deepmind-pilots-the-first-double-blind-evaluation-of|Google DeepMind Pilots the First Double-Blind Evaluation of a Frontier Model]]
 - `2026-08-28` [[2026-08-28-deepmind-runs-first-double-blind-cryptographic-evaluation-of|DeepMind Runs First Double-Blind Cryptographic Evaluation of a Frontier Model]]

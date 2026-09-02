@@ -1,17 +1,26 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1128
+member_count: 1137
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1128 connected article(s).
+> Auto-generated topic hub. 1137 connected article(s).
 
+- `2026-09-02` [[2026-09-02-xinhua-reported-that-chinese-authorities-removed-5-6-million|Xinhua reported that Chinese authorities removed 5.6 million pieces of unlawful or rule-violating content as part of a crackdown on AI misuse. The action shows Beijing continuing to pair rapid AI deployment with centralized content and platform enforcement. For global AI operators, the development is another example of diverging regulatory models across major markets.]]
+- `2026-09-02` [[2026-09-02-tencent-backed-enflame-s-ipo-draws-4-073-times-retail-demand|Tencent-backed Enflame’s IPO draws 4,073 times retail demand]]
+- `2026-09-01` [[2026-09-01-zhipu-ai-z-ai-first-half-revenue-jumps-nearly-400-on-api-gro|Zhipu AI (Z.AI) First-Half Revenue Jumps Nearly 400% on API Growth]]
+- `2026-09-01` [[2026-09-01-u-s-pushes-g20-toward-light-touch-ai-regulation-under-the-ca|U.S. Pushes G20 Toward Light-Touch AI Regulation Under the “Carolina Principles”]]
 - `2026-09-01` [[2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo|Tencent-Backed AI Chipmaker Enflame Seeks ~$911 Million in IPO]]
+- `2026-09-01` [[2026-09-01-manus-resumes-independent-operations-after-china-blocks-meta|Manus Resumes Independent Operations After China Blocks Meta's ~$2B Acquisition]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-09-01` [[2026-09-01-john-ternus-takes-over-as-apple-ceo-with-the-company-trailin|John Ternus takes over as Apple CEO with the company trailing in frontier AI]]
 - `2026-09-01` [[2026-09-01-john-ternus-takes-over-as-apple-ceo-inheriting-an-ai-gap|John Ternus Takes Over as Apple CEO, Inheriting an AI Gap]]
 - `2026-09-01` [[2026-09-01-john-ternus-becomes-apple-ceo-as-tim-cook-moves-to-executive|John Ternus Becomes Apple CEO as Tim Cook Moves to Executive Chairman]]
+- `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
+- `2026-09-01` [[2026-09-01-huawei-first-half-profit-falls-roughly-a-third-as-r-d-hits-2|Huawei first-half profit falls roughly a third as R&D hits 26% of revenue]]
+- `2026-09-01` [[2026-09-01-huawei-first-half-profit-falls-37-amid-record-ai-and-chip-sp|Huawei First-Half Profit Falls ~37% Amid Record AI and Chip Spending]]
 - `2026-08-31` [[2026-08-31-z-ai-first-half-revenue-rises-roughly-fivefold-to-954m-yuan|Z.AI first-half revenue rises roughly fivefold to 954M yuan on API demand]]
 - `2026-08-31` [[2026-08-31-z-ai-first-half-revenue-rises-nearly-fivefold-but-misses-tar|Z.AI First-Half Revenue Rises Nearly Fivefold but Misses Targets]]
 - `2026-08-31` [[2026-08-31-the-u-s-is-building-barriers-around-drones-and-robots-but-ch|The U.S. is building barriers around drones and robots, but China has scale to get around them]]

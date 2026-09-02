@@ -24,10 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr
+- 2026-09-01-pentagon-deploys-chatgpt-and-grok-on-the-genai-mil-platform
+- 2026-09-01-pentagon-deploys-chatgpt-mil-and-grok-for-government-to-gena
 - 2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno
 - 2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co
-- 2026-05-17-openai-s-gpt-5-5-instant-became-the-default-chatgpt-model-on
-- 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 embedding_id: 2026-08-31-pentagon-adopts-xai-s-grok-and-openai-s-chatgpt-for-unclassi
 event_name: ''
 ---
@@ -41,5 +42,5 @@ The Pentagon announced it has adopted xAI’s “Grok for Government” and Open
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno]] · [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]] · [[2026-05-17-openai-s-gpt-5-5-instant-became-the-default-chatgpt-model-on]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]]
+**Related:** [[2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr]] · [[2026-09-01-pentagon-deploys-chatgpt-and-grok-on-the-genai-mil-platform]] · [[2026-09-01-pentagon-deploys-chatgpt-mil-and-grok-for-government-to-gena]] · [[2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno]] · [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]]
 <!-- graph:end -->

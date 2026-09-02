@@ -1,18 +1,24 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 374
+member_count: 380
 ---
 
 # Apple
 
-> Auto-generated entity hub. 374 connected article(s).
+> Auto-generated entity hub. 380 connected article(s).
 
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-09-01` [[2026-09-01-john-ternus-takes-over-as-apple-ceo-with-the-company-trailin|John Ternus takes over as Apple CEO with the company trailing in frontier AI]]
 - `2026-09-01` [[2026-09-01-john-ternus-becomes-apple-ceo-today-as-tim-cook-moves-to-exe|John Ternus becomes Apple CEO today as Tim Cook moves to executive chairman]]
+- `2026-09-01` [[2026-09-01-john-ternus-takes-over-as-apple-ceo-tim-cook-becomes-executi|John Ternus Takes Over as Apple CEO; Tim Cook Becomes Executive Chair]]
 - `2026-09-01` [[2026-09-01-john-ternus-takes-over-as-apple-ceo-inheriting-an-ai-gap|John Ternus Takes Over as Apple CEO, Inheriting an AI Gap]]
 - `2026-09-01` [[2026-09-01-john-ternus-becomes-apple-ceo-as-the-tim-cook-era-ends|John Ternus Becomes Apple CEO as the Tim Cook Era Ends]]
 - `2026-09-01` [[2026-09-01-john-ternus-becomes-apple-ceo-as-tim-cook-moves-to-executive|John Ternus Becomes Apple CEO as Tim Cook Moves to Executive Chairman]]
+- `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
+- `2026-09-01` [[2026-09-01-apple-s-trade-secrets-suit-against-openai-escalates|Apple's trade-secrets suit against OpenAI escalates]]
+- `2026-09-01` [[2026-09-01-apple-s-trade-secrets-suit-against-openai-escalates-openai-d|Apple's Trade-Secrets Suit Against OpenAI Escalates; OpenAI Denies the Allegations]]
+- `2026-09-01` [[2026-09-01-apple-accuses-openai-of-destroying-evidence-in-trade-secrets|Apple accuses OpenAI of destroying evidence in trade-secrets case]]
 - `2026-08-31` [[2026-08-31-openai-reportedly-buys-tens-of-thousands-of-mac-minis-and-ma|OpenAI reportedly buys tens of thousands of Mac minis and Mac Studios to train computer-use agents]]
 - `2026-08-31` [[2026-08-31-openai-and-anthropic-buy-tens-of-thousands-of-macs-for-agent|OpenAI and Anthropic Buy Tens of Thousands of Macs for Agent Training; Apple Pulls Forward Refreshes]]
 - `2026-08-31` [[2026-08-31-openai-buys-tens-of-thousands-of-mac-minis-and-mac-studios-t|OpenAI Buys Tens of Thousands of Mac Minis and Mac Studios to Train Computer-Use Agents]]

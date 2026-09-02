@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Adobe
-member_count: 18
+member_count: 21
 ---
 
 # Adobe
 
-> Auto-generated entity hub. 18 connected article(s).
+> Auto-generated entity hub. 21 connected article(s).
 
+- `2026-09-01` [[2026-09-01-google-launches-pics-an-ai-first-design-tool-aimed-at-canva|Google launches Pics, an AI-first design tool aimed at Canva and Adobe Express]]
+- `2026-09-01` [[2026-09-01-google-launches-google-pics-a-workspace-native-ai-image-crea|Google launches Google Pics, a Workspace-native AI image creator built on Nano Banana]]
+- `2026-09-01` [[2026-09-01-google-pics-targets-canva-and-adobe-with-a-prompt-first-desi|Google Pics targets Canva and Adobe with a prompt-first design tool]]
 - `2026-07-27` [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance|NVIDIA and partners launch Open Secure AI Alliance]]
 - `2026-07-20` [[2026-07-20-adobe-s-project-indigo-adds-ai-photo-critique-and-editing-gu|Adobe's Project Indigo adds AI photo critique and editing guidance]]
 - `2026-07-08` [[2026-07-08-google-photos-adds-ai-video-remix-powered-by-gemini-omni|Google Photos adds AI "Video Remix" powered by Gemini Omni]]

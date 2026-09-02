@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-12-openai-begins-testing-ads-in-chatgpt
 - 2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper
 - 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
-- 2026-05-13-ai-iq-site-maps-50-frontier-models-onto-a-human-iq-bell-curv
+- 2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr
 embedding_id: 2026-08-06-at-canva-chatgpt-compounded-an-ai-challenge
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Canva's AI product rollout was undercut by ChatGPT and similar tools that replic
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]] · [[2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper]] · [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]] · [[2026-05-13-ai-iq-site-maps-50-frontier-models-onto-a-human-iq-bell-curv]]
+**Related:** [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]] · [[2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper]] · [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]] · [[2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr]]
 <!-- graph:end -->

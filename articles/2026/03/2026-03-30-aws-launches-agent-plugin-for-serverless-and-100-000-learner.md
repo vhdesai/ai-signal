@@ -5,8 +5,8 @@ title: AWS Launches Agent Plugin for Serverless and 100,000-Learner AI/ML Schola
 date: '2026-03-30'
 source: AWS Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-ai-ml-scholars-program-agent-plugin-for-aws-serverless-and-more-march-30-2026/
+url_status: repaired
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: c92b8e165ea0be7b0bcb637480d302f91e8c7f721dcafeda4e10cbe3b87c0bb5

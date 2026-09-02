@@ -23,6 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-25-perplexity-partners-with-nvidia-to-launch-portable-computer
 related_article_ids:
 - 2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local
+- 2026-09-01-perplexity-ships-hybrid-compute-on-mac-gating-cloud-calls-be
 - 2026-08-24-nvidia-discusses-perplexity-investment-at-30-billion-plus-va
 embedding_id: 2026-08-25-perplexity-ships-portable-computer-on-nvidia-dgx-spark
 event_name: ''
@@ -38,5 +39,5 @@ Perplexity packaged local models, an agent harness, an OS-enforced sandbox and c
 **Entities:** [[NVIDIA]] · [[Perplexity]]
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-08-25-perplexity-partners-with-nvidia-to-launch-portable-computer]]
-**Related:** [[2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local]] · [[2026-08-24-nvidia-discusses-perplexity-investment-at-30-billion-plus-va]]
+**Related:** [[2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local]] · [[2026-09-01-perplexity-ships-hybrid-compute-on-mac-gating-cloud-calls-be]] · [[2026-08-24-nvidia-discusses-perplexity-investment-at-30-billion-plus-va]]
 <!-- graph:end -->

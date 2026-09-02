@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-19-could-apple-s-lawsuit-derail-openai-s-hardware-plans
 - 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
+- 2026-09-01-apple-s-trade-secrets-suit-against-openai-escalates
 - 2026-07-19-apple-s-lawsuit-could-complicate-openai-s-hardware-plans
 - 2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over
-- 2026-05-27-how-to-close-ai-s-accountability-loophole
 embedding_id: 2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI is now defending an accelerating set of consumer-safety and product-liabi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-07-19-could-apple-s-lawsuit-derail-openai-s-hardware-plans]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-07-19-apple-s-lawsuit-could-complicate-openai-s-hardware-plans]] · [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over]] · [[2026-05-27-how-to-close-ai-s-accountability-loophole]]
+**Related:** [[2026-07-19-could-apple-s-lawsuit-derail-openai-s-hardware-plans]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-09-01-apple-s-trade-secrets-suit-against-openai-escalates]] · [[2026-07-19-apple-s-lawsuit-could-complicate-openai-s-hardware-plans]] · [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over]]
 <!-- graph:end -->

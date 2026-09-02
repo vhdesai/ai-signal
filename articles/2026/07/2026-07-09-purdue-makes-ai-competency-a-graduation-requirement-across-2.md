@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 - 2026-08-26-purdue-ece-leads-4-8m-nsf-project-for-ai-powered-disaster-re
 - 2026-05-13-conference-proceedings-published-through-springer-today-high
-- 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
+- 2026-09-01-purdue-libraries-and-school-of-information-studies-advance-a
 embedding_id: 2026-07-09-purdue-makes-ai-competency-a-graduation-requirement-across-2
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Purdue will require its incoming class of roughly 10,000 freshmen to complete AI
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-08-26-purdue-ece-leads-4-8m-nsf-project-for-ai-powered-disaster-re]] · [[2026-05-13-conference-proceedings-published-through-springer-today-high]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]]
+**Related:** [[2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-08-26-purdue-ece-leads-4-8m-nsf-project-for-ai-powered-disaster-re]] · [[2026-05-13-conference-proceedings-published-through-springer-today-high]] · [[2026-09-01-purdue-libraries-and-school-of-information-studies-advance-a]]
 <!-- graph:end -->

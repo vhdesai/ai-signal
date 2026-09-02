@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-26-purdue-ece-leads-4-8m-nsf-project-for-ai-powered-disaster-re
+- 2026-09-01-purdue-libraries-and-school-of-information-studies-advance-a
 - 2026-05-13-conference-proceedings-published-through-springer-today-high
 - 2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
-- 2026-08-05-nvidia-joins-nsf-regional-ai-infrastructure-hubs-program
 embedding_id: 2026-05-20-purdue-s-anvil-supercomputer-upgraded-with-nsf-nairr-ai-data
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Purdue's NSF-funded Anvil supercomputer is being upgraded with large AI training
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-26-purdue-ece-leads-4-8m-nsf-project-for-ai-powered-disaster-re]] · [[2026-05-13-conference-proceedings-published-through-springer-today-high]] · [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-08-05-nvidia-joins-nsf-regional-ai-infrastructure-hubs-program]]
+**Related:** [[2026-08-26-purdue-ece-leads-4-8m-nsf-project-for-ai-powered-disaster-re]] · [[2026-09-01-purdue-libraries-and-school-of-information-studies-advance-a]] · [[2026-05-13-conference-proceedings-published-through-springer-today-high]] · [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]]
 <!-- graph:end -->

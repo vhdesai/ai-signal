@@ -5,8 +5,8 @@ title: 'Salesforce announced a major Slackbot overhaul: reusable AI skills, Mode
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thenextweb.com/news/slack-slackbot-30-ai-features-agentic
+url_status: repaired
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: 9029224b693d4783f810cc70288c81c56827711349d12d46feecb8fef3a975ed

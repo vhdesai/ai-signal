@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-01-princeton-establishes-data-and-intelligent-systems-dais-as-a
+- 2026-09-01-princeton-expands-institutional-support-for-ai-and-data-scie
 - 2026-05-08-stanford-hai-consolidates-ai-data-science-programs-under-sin
 - 2026-05-10-stanford-consolidates-hai-and-data-science-programs-under-on
 - 2026-05-09-stanford-university-announced-it-will-merge-the-stanford-dat
-- 2026-05-26-princeton-ai-lab-recaps-physical-foundations-of-intelligent
-- 2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la
 embedding_id: 2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Princeton merged five units — the Survey Research Center, the Center for Stati
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-08-stanford-hai-consolidates-ai-data-science-programs-under-sin]] · [[2026-05-10-stanford-consolidates-hai-and-data-science-programs-under-on]] · [[2026-05-09-stanford-university-announced-it-will-merge-the-stanford-dat]] · [[2026-05-26-princeton-ai-lab-recaps-physical-foundations-of-intelligent]] · [[2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la]]
+**Related:** [[2026-09-01-princeton-establishes-data-and-intelligent-systems-dais-as-a]] · [[2026-09-01-princeton-expands-institutional-support-for-ai-and-data-scie]] · [[2026-05-08-stanford-hai-consolidates-ai-data-science-programs-under-sin]] · [[2026-05-10-stanford-consolidates-hai-and-data-science-programs-under-on]] · [[2026-05-09-stanford-university-announced-it-will-merge-the-stanford-dat]]
 <!-- graph:end -->

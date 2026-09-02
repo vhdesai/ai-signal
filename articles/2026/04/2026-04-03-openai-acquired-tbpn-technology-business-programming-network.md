@@ -5,8 +5,8 @@ title: OpenAI acquired TBPN (Technology Business Programming Network), a daily l
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/
+url_status: repaired
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: 3091e913aa686b95a90642d95188720f017b0ca2d988983aa8051d3a5d897018

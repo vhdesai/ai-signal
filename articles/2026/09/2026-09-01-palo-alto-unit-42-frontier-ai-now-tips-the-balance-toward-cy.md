@@ -17,14 +17,9 @@ entities: []
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur
-- 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
-- 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
-- 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
-- 2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m
+dedupe_status: duplicate
+canonical_article_id: 2026-09-01-palo-alto-networks-frontier-ai-now-tips-the-scales-toward-at
+related_article_ids: []
 embedding_id: 2026-09-01-palo-alto-unit-42-frontier-ai-now-tips-the-balance-toward-cy
 event_name: ''
 ---
@@ -37,5 +32,5 @@ Researchers at Palo Alto Networks’ Unit 42 reported that threat actors are alr
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m]]
+**Canonical:** [[2026-09-01-palo-alto-networks-frontier-ai-now-tips-the-scales-toward-at]]
 <!-- graph:end -->

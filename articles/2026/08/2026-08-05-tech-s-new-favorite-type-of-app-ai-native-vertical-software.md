@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi
 - 2026-07-11-the-ai-industry-is-focused-on-agentic-ai-ai-native-software
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 - 2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper
@@ -36,5 +37,5 @@ Business Insider reports that the technology industry's latest investment thesis
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-11-the-ai-industry-is-focused-on-agentic-ai-ai-native-software]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper]] · [[2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou]]
+**Related:** [[2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi]] · [[2026-07-11-the-ai-industry-is-focused-on-agentic-ai-ai-native-software]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper]] · [[2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou]]
 <!-- graph:end -->

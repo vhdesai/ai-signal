@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
 - 2026-07-18-retailers-prepare-for-bots-as-buyers
-- 2026-07-30-reddit-s-results-show-early-signs-of-ai-driven-search-referr
+- 2026-09-02-baidu-cfo-says-ai-could-soon-match-search-business-in-profit
 embedding_id: 2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Shopify said AI-referred traffic and orders to its merchants’ stores tripled y
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl]] · [[2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-07-18-retailers-prepare-for-bots-as-buyers]] · [[2026-07-30-reddit-s-results-show-early-signs-of-ai-driven-search-referr]]
+**Related:** [[2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl]] · [[2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-07-18-retailers-prepare-for-bots-as-buyers]] · [[2026-09-02-baidu-cfo-says-ai-could-soon-match-search-business-in-profit]]
 <!-- graph:end -->

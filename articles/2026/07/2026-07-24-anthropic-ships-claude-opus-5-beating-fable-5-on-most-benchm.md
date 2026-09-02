@@ -25,6 +25,8 @@ related_article_ids:
 - 2026-08-23-ramp-data-anthropic-s-fable-5-plateaus-at-11-of-customer-spe
 - 2026-07-27-anthropic-launches-claude-opus-5-at-roughly-half-the-price-o
 - 2026-07-24-anthropic-launches-claude-opus-5-a-cheaper-agent-focused-fla
+- 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75
+- 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a
 embedding_id: 2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm
 event_name: ''
 ---
@@ -38,5 +40,5 @@ Anthropic released Claude Opus 5 at $5 / $25 per million input/output tokens —
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-23-ramp-data-anthropic-s-fable-5-plateaus-at-11-of-customer-spe]] · [[2026-07-27-anthropic-launches-claude-opus-5-at-roughly-half-the-price-o]] · [[2026-07-24-anthropic-launches-claude-opus-5-a-cheaper-agent-focused-fla]]
+**Related:** [[2026-08-23-ramp-data-anthropic-s-fable-5-plateaus-at-11-of-customer-spe]] · [[2026-07-27-anthropic-launches-claude-opus-5-at-roughly-half-the-price-o]] · [[2026-07-24-anthropic-launches-claude-opus-5-a-cheaper-agent-focused-fla]] · [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75]] · [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a]]
 <!-- graph:end -->

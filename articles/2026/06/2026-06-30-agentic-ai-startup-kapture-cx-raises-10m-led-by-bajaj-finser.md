@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-30-bengaluru-based-agentic-ai-startup-kapture-cx-raised-10m-in
 - 2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents
 - 2026-06-30-agentic-security-startup-straiker-announced-a-64m-series-a-l
+- 2026-09-02-ai-sales-orchestration-startup-clay-raises-at-7b-valuation
 - 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
-- 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc
 embedding_id: 2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Bengaluru-based Kapture CX, which builds agentic AI for customer experience, rai
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-30-bengaluru-based-agentic-ai-startup-kapture-cx-raised-10m-in]] · [[2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents]] · [[2026-06-30-agentic-security-startup-straiker-announced-a-64m-series-a-l]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc]]
+**Related:** [[2026-06-30-bengaluru-based-agentic-ai-startup-kapture-cx-raised-10m-in]] · [[2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents]] · [[2026-06-30-agentic-security-startup-straiker-announced-a-64m-series-a-l]] · [[2026-09-02-ai-sales-orchestration-startup-clay-raises-at-7b-valuation]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]]
 <!-- graph:end -->

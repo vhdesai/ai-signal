@@ -24,10 +24,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-01-john-ternus-takes-over-as-apple-ceo-with-the-company-trailin
+- 2026-09-01-john-ternus-takes-over-as-apple-ceo-tim-cook-becomes-executi
 - 2026-08-30-apple-s-john-ternus-becomes-ceo-september-1-facing-a-major-m
 - 2026-04-20-breaking-apple-confirms-ceo-transition-tim-cook-to-step-down
-- 2026-09-01-john-ternus-becomes-apple-ceo-as-tim-cook-moves-to-executive
-- 2026-09-01-john-ternus-becomes-apple-ceo-today-as-tim-cook-moves-to-exe
 embedding_id: 2026-09-01-john-ternus-becomes-apple-ceo-as-the-tim-cook-era-ends
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Apple’s long-planned leadership transition took effect, with hardware chief Jo
 
 **Entities:** [[Apple]] · [[Google]] · [[Meta]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-30-apple-s-john-ternus-becomes-ceo-september-1-facing-a-major-m]] · [[2026-04-20-breaking-apple-confirms-ceo-transition-tim-cook-to-step-down]] · [[2026-09-01-john-ternus-becomes-apple-ceo-as-tim-cook-moves-to-executive]] · [[2026-09-01-john-ternus-becomes-apple-ceo-today-as-tim-cook-moves-to-exe]]
+**Related:** [[2026-09-01-john-ternus-takes-over-as-apple-ceo-with-the-company-trailin]] · [[2026-09-01-john-ternus-takes-over-as-apple-ceo-tim-cook-becomes-executi]] · [[2026-08-30-apple-s-john-ternus-becomes-ceo-september-1-facing-a-major-m]] · [[2026-04-20-breaking-apple-confirms-ceo-transition-tim-cook-to-step-down]]
 <!-- graph:end -->

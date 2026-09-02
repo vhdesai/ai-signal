@@ -1,22 +1,54 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 3774
+member_count: 3806
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 3774 connected article(s).
+> Auto-generated topic hub. 3806 connected article(s).
 
+- `2026-09-02` [[2026-09-02-openai-and-anthropic-balance-safety-disclosure-against-ipo-p|OpenAI and Anthropic balance safety disclosure against IPO positioning]]
+- `2026-09-02` [[2026-09-02-meta-ditches-google-chat-for-slack-citing-ai-agent-workflows|Meta ditches Google Chat for Slack, citing AI agent workflows]]
+- `2026-09-02` [[2026-09-02-build-ai-skills-with-new-ai-powered-learning-experiences|Build AI skills with new AI-powered learning experiences]]
+- `2026-09-02` [[2026-09-02-baidu-cfo-says-ai-could-soon-match-search-business-in-profit|Baidu CFO says AI could soon match search business in profit and cash returns]]
+- `2026-09-02` [[2026-09-02-anthropic-follows-openai-in-pausing-some-ai-training-followi|Anthropic follows OpenAI in pausing some AI training following rogue agent hacks]]
+- `2026-09-02` [[2026-09-02-ai-sales-orchestration-startup-clay-raises-at-7b-valuation|AI sales-orchestration startup Clay raises at $7B valuation]]
+- `2026-09-01` [[2026-09-01-zhipu-ai-z-ai-first-half-revenue-jumps-nearly-400-on-api-gro|Zhipu AI (Z.AI) First-Half Revenue Jumps Nearly 400% on API Growth]]
 - `2026-09-01` [[2026-09-01-spacex-shakes-up-data-center-leadership-after-aggressive-bui|SpaceX Shakes Up Data Center Leadership After Aggressive Build-Out]]
 - `2026-09-01` [[2026-09-01-salesforce-puts-its-entire-crm-inside-claude|Salesforce Puts Its Entire CRM Inside Claude]]
+- `2026-09-01` [[2026-09-01-princeton-stanford-and-ant-group-introduce-aqua-for-autonomo|Princeton, Stanford and Ant Group introduce AQuA for autonomous quant research]]
 - `2026-09-01` [[2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu|PitchBook: M&A, Not IPOs, Is Now the Default Exit for AI Startups Outside the Frontier Tier]]
+- `2026-09-01` [[2026-09-01-pentagon-deploys-chatgpt-and-grok-on-the-genai-mil-platform|Pentagon deploys ChatGPT and Grok on the GenAI.mil platform]]
+- `2026-09-01` [[2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr|Pentagon deploys ChatGPT Gov and Grok, notably excludes Anthropic]]
+- `2026-09-01` [[2026-09-01-openai-says-astra-is-the-first-model-to-cross-its-critical-c|OpenAI says Astra is the first model to cross its Critical cybersecurity threshold]]
 - `2026-09-01` [[2026-09-01-nvidia-invests-3-5b-in-mediatek-and-opens-nvlink-fusion-to-c|Nvidia invests $3.5B in MediaTek and opens NVLink Fusion to custom accelerators]]
+- `2026-09-01` [[2026-09-01-nvidia-and-crowdstrike-launch-safemind-an-agentic-cybersecur|NVIDIA and CrowdStrike launch SafeMind, an agentic cybersecurity system, at Fal.Con 2026]]
+- `2026-09-01` [[2026-09-01-nvidia-and-crowdstrike-deepen-partnership-on-agentic-cyberse|NVIDIA and CrowdStrike Deepen Partnership on Agentic Cybersecurity]]
+- `2026-09-01` [[2026-09-01-microsoft-publishes-its-2026-responsible-ai-transparency-rep|Microsoft Publishes Its 2026 Responsible AI Transparency Report]]
+- `2026-09-01` [[2026-09-01-manus-resumes-independent-operations-after-china-blocks-meta|Manus Resumes Independent Operations After China Blocks Meta's ~$2B Acquisition]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-09-01` [[2026-09-01-john-ternus-takes-over-as-apple-ceo-with-the-company-trailin|John Ternus takes over as Apple CEO with the company trailing in frontier AI]]
 - `2026-09-01` [[2026-09-01-john-ternus-becomes-apple-ceo-today-as-tim-cook-moves-to-exe|John Ternus becomes Apple CEO today as Tim Cook moves to executive chairman]]
+- `2026-09-01` [[2026-09-01-john-ternus-takes-over-as-apple-ceo-tim-cook-becomes-executi|John Ternus Takes Over as Apple CEO; Tim Cook Becomes Executive Chair]]
 - `2026-09-01` [[2026-09-01-john-ternus-takes-over-as-apple-ceo-inheriting-an-ai-gap|John Ternus Takes Over as Apple CEO, Inheriting an AI Gap]]
 - `2026-09-01` [[2026-09-01-john-ternus-becomes-apple-ceo-as-the-tim-cook-era-ends|John Ternus Becomes Apple CEO as the Tim Cook Era Ends]]
 - `2026-09-01` [[2026-09-01-john-ternus-becomes-apple-ceo-as-tim-cook-moves-to-executive|John Ternus Becomes Apple CEO as Tim Cook Moves to Executive Chairman]]
+- `2026-09-01` [[2026-09-01-indian-ai-chip-startup-agrani-labs-raising-50m-at-up-to-200m|Indian AI-Chip Startup Agrani Labs Raising ~$50M at up to $200M Valuation]]
+- `2026-09-01` [[2026-09-01-huawei-first-half-profit-falls-37-amid-record-ai-and-chip-sp|Huawei First-Half Profit Falls ~37% Amid Record AI and Chip Spending]]
+- `2026-09-01` [[2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi|How AI-native companies turn workflows into operating capability]]
+- `2026-09-01` [[2026-09-01-google-launches-google-pics-a-workspace-native-ai-image-crea|Google launches Google Pics, a Workspace-native AI image creator built on Nano Banana]]
+- `2026-09-01` [[2026-09-01-google-pics-targets-canva-and-adobe-with-a-prompt-first-desi|Google Pics targets Canva and Adobe with a prompt-first design tool]]
+- `2026-09-01` [[2026-09-01-eu-designates-chatgpt-a-very-large-online-search-engine-unde|EU designates ChatGPT a Very Large Online Search Engine under the Digital Services Act]]
+- `2026-09-01` [[2026-09-01-chatgpt-health-integrates-with-epic-reaching-records-for-325|ChatGPT Health integrates with Epic, reaching records for 325M+ patients]]
+- `2026-09-01` [[2026-09-01-chatgpt-health-adds-epic-ehr-integration-for-clinicians|ChatGPT Health adds Epic EHR integration for clinicians]]
+- `2026-09-01` [[2026-09-01-apple-s-trade-secrets-suit-against-openai-escalates-openai-d|Apple's Trade-Secrets Suit Against OpenAI Escalates; OpenAI Denies the Allegations]]
+- `2026-09-01` [[2026-09-01-apple-accuses-openai-of-destroying-evidence-in-trade-secrets|Apple accuses OpenAI of destroying evidence in trade-secrets case]]
+- `2026-09-01` [[2026-09-01-anthropic-rolls-out-enterprise-frontier-safeguards|Anthropic rolls out "Enterprise Frontier Safeguards"]]
+- `2026-09-01` [[2026-09-01-anthropic-debuts-enterprise-frontier-safeguards-with-zero-da|Anthropic debuts Enterprise Frontier Safeguards with zero data retention]]
+- `2026-09-01` [[2026-09-01-amazon-s-alexa-adds-update-me-when-shifting-shopping-ai-from|Amazon’s Alexa adds “Update Me When,” shifting shopping AI from reactive to anticipatory]]
+- `2026-09-01` [[2026-09-01-afterquery-becomes-y-combinator-s-fastest-unicorn-at-a-3-2b|AfterQuery becomes Y Combinator's fastest unicorn at a $3.2B valuation]]
+- `2026-09-01` [[2026-09-01-aws-and-accenture-sign-six-year-middle-east-ai-and-cloud-agr|AWS and Accenture Sign Six-Year Middle East AI and Cloud Agreement]]
 - `2026-08-31` [[2026-08-31-z-ai-first-half-revenue-rises-roughly-fivefold-to-954m-yuan|Z.AI first-half revenue rises roughly fivefold to 954M yuan on API demand]]
 - `2026-08-31` [[2026-08-31-z-ai-first-half-revenue-rises-nearly-fivefold-but-misses-tar|Z.AI First-Half Revenue Rises Nearly Fivefold but Misses Targets]]
 - `2026-08-31` [[2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered|The $5.5 billion perk SoftBank’s data-center venture offered to land OpenAI]]

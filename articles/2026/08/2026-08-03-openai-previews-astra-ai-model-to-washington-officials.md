@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-openai-previews-astra-to-washington-officials-before-public
 - 2026-08-03-openai-previews-astra-model-to-washington-officials
 - 2026-08-03-openai-appears-to-be-positioning-astra-as-a-model-family-bui
-- 2026-08-09-openai-pauses-astra-after-it-nears-first-ever-critical-cyber
+- 2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy
 embedding_id: 2026-08-03-openai-previews-astra-ai-model-to-washington-officials
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI has begun privately previewing a new AI model called Astra to policymaker
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-openai-previews-astra-to-washington-officials-before-public]] · [[2026-08-03-openai-previews-astra-model-to-washington-officials]] · [[2026-08-03-openai-appears-to-be-positioning-astra-as-a-model-family-bui]] · [[2026-08-09-openai-pauses-astra-after-it-nears-first-ever-critical-cyber]]
+**Related:** [[2026-08-03-openai-previews-astra-to-washington-officials-before-public]] · [[2026-08-03-openai-previews-astra-model-to-washington-officials]] · [[2026-08-03-openai-appears-to-be-positioning-astra-as-a-model-family-bui]] · [[2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy]]
 <!-- graph:end -->

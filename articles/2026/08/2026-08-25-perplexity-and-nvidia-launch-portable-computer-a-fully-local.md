@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-25-perplexity-partners-with-nvidia-to-launch-portable-computer
 - 2026-08-25-perplexity-ships-portable-computer-on-nvidia-dgx-spark
 - 2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to
-- 2026-08-24-nvidia-discusses-perplexity-investment-at-30-billion-plus-va
+- 2026-09-01-perplexity-ships-hybrid-compute-on-mac-gating-cloud-calls-be
 embedding_id: 2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Perplexity, partnering with Nvidia, launched Portable Computer — an agent plat
 
 **Entities:** [[NVIDIA]] · [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-25-perplexity-partners-with-nvidia-to-launch-portable-computer]] · [[2026-08-25-perplexity-ships-portable-computer-on-nvidia-dgx-spark]] · [[2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to]] · [[2026-08-24-nvidia-discusses-perplexity-investment-at-30-billion-plus-va]]
+**Related:** [[2026-08-25-perplexity-partners-with-nvidia-to-launch-portable-computer]] · [[2026-08-25-perplexity-ships-portable-computer-on-nvidia-dgx-spark]] · [[2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to]] · [[2026-09-01-perplexity-ships-hybrid-compute-on-mac-gating-cloud-calls-be]]
 <!-- graph:end -->

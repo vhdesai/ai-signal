@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Cyber Security News
 url_original: https://cybersecuritynews.com/claude-ai-suffers-outage/
 url_canonical: https://cybersecuritynews.com/claude-ai-suffers-outage/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: aa6f7e582fc4da94963006fd68c0fb1cef573af2462903c6df8d2634e299044b

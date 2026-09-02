@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-20-s1-mini-a-462-mb-open-weights-text-normalizer-for-cleaning-a
 - 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
+- 2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a
 - 2026-07-25-28-9m-parameter-llm-now-runs-locally-on-an-8-esp32-microcont
-- 2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v
 embedding_id: 2026-08-20-meet-s1-mini-superwhisper-s-462-mb-open-weights-text-normali
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Superwhisper released S1-mini, a 0.6B open-weights model that converts raw speec
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-20-s1-mini-a-462-mb-open-weights-text-normalizer-for-cleaning-a]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-07-25-28-9m-parameter-llm-now-runs-locally-on-an-8-esp32-microcont]] · [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v]]
+**Related:** [[2026-08-20-s1-mini-a-462-mb-open-weights-text-normalizer-for-cleaning-a]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a]] · [[2026-07-25-28-9m-parameter-llm-now-runs-locally-on-an-8-esp32-microcont]]
 <!-- graph:end -->

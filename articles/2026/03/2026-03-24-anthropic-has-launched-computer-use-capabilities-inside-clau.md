@@ -5,8 +5,8 @@ title: Anthropic has launched computer-use capabilities inside Claude Cowork and
 date: '2026-03-24'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.theverge.com/ai-artificial-intelligence/860730/anthropic-cowork-feature-ai-agents-claude-code
+url_status: repaired
 digest_source: digests\raw\2026-03-26_105104_Inbox_Daily AI News Digest – March 24,
   2026.md
 content_hash: 06c28ccdf379d42dc6aa38bb746f1b42795de88a31914dd734f9339d3c206acb

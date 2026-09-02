@@ -5,8 +5,8 @@ title: Governor Gavin Newsom signed an executive order on March 30 requiring AI 
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://statescoop.com/california-tightens-ai-vendor-oversight-through-executive-order/
+url_status: repaired
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: 7055f2efea4cba81edc595ca82ff4d1c9dc3b90c6b2c4a70146506175cbd6412

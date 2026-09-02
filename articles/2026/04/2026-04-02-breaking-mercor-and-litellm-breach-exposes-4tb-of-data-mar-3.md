@@ -5,8 +5,8 @@ title: '[BREAKING] Mercor and LiteLLM Breach Exposes 4TB of Data (Mar 31–Apr 2
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.aiworldmeter.com/blog/mercor-ai-data-breach-litellm-supply-chain-2026
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 770564b06014d75ad4cb505a634d9e38a8923bb7e38f3653a4d645fb94241b8a

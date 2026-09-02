@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da
 - 2026-07-09-cerebras-accelerates-european-expansion-with-200mw-of-ai-com
 - 2026-07-29-cerebras-signs-10-year-ai-colocation-deal-with-cleancore-sol
-- 2026-08-28-cerebras-expands-ai-inference-infrastructure-across-europe-a
 embedding_id: 2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Cerebras and Compute Nordic announced a new AI data center in Mikkeli, Finland, 
 
 **Entities:** [[Cerebras]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-09-cerebras-accelerates-european-expansion-with-200mw-of-ai-com]] · [[2026-07-29-cerebras-signs-10-year-ai-colocation-deal-with-cleancore-sol]] · [[2026-08-28-cerebras-expands-ai-inference-infrastructure-across-europe-a]]
+**Related:** [[2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da]] · [[2026-07-09-cerebras-accelerates-european-expansion-with-200mw-of-ai-com]] · [[2026-07-29-cerebras-signs-10-year-ai-colocation-deal-with-cleancore-sol]]
 <!-- graph:end -->

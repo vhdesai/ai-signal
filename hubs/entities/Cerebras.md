@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 157
+member_count: 159
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 157 connected article(s).
+> Auto-generated entity hub. 159 connected article(s).
 
+- `2026-09-02` [[2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da|Cerebras and Compute Nordic Finland announce new 165MW AI data centre in Mikkeli, Finland]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
 - `2026-09-01` [[2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center|Cerebras and Compute Nordic Announce a 165 MW AI Data Center in Finland]]
 - `2026-08-29` [[2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta|Anthropic opens a research preview of the Model Hardware Standard for agents operating physical devices]]
 - `2026-08-28` [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social|MIT AI report calls for alternative grading and more social learning]]

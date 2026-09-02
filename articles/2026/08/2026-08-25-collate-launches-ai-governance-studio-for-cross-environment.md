@@ -20,8 +20,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
+- 2026-09-01-microsoft-publishes-its-2026-responsible-ai-transparency-rep
 - 2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale
-- 2026-05-14-enterprise-ai-governance-tools-outpace-policy-marktechpost-m
 embedding_id: 2026-08-25-collate-launches-ai-governance-studio-for-cross-environment
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Collate Inc. announced AI Governance Studio, a capability intended to let organi
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]] · [[2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale]] · [[2026-05-14-enterprise-ai-governance-tools-outpace-policy-marktechpost-m]]
+**Related:** [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]] · [[2026-09-01-microsoft-publishes-its-2026-responsible-ai-transparency-rep]] · [[2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale]]
 <!-- graph:end -->

@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-a-two-t
+- 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a
 - 2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e
+- 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75
 - 2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for
-- 2026-07-13-anthropic-extends-claude-fable-5-access-after-openai-s-gpt-5
-- 2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co
 embedding_id: 2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Anthropic released Claude Fable 5 — a Mythos-class model for all users — alo
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e]] · [[2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for]] · [[2026-07-13-anthropic-extends-claude-fable-5-access-after-openai-s-gpt-5]] · [[2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co]]
+**Related:** [[2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-a-two-t]] · [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a]] · [[2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e]] · [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75]] · [[2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for]]
 <!-- graph:end -->

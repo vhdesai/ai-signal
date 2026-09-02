@@ -5,8 +5,8 @@ title: Anthropic's Claude Code source code was leaked, prompting the company to 
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thenewstack.io/anthropic-claude-code-leak/
+url_status: repaired
 digest_source: digests\raw\2026-04-02_080231_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 35aab3d1b31c460090d6d1c3327391b89bf475c235067270a341272f71d93573

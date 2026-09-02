@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall
+- 2026-09-01-zhipu-ai-z-ai-first-half-revenue-jumps-nearly-400-on-api-gro
 - 2026-08-31-china-s-zhipu-z-ai-posts-5x-revenue-growth-on-api-and-coding
 - 2026-08-31-z-ai-first-half-revenue-rises-roughly-fivefold-to-954m-yuan
 - 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
-- 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
 embedding_id: 2026-07-08-zhipu-ai-shares-surge-on-4b-fundraise-as-chinese-labs-race-f
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Zhipu AI raised roughly $4 billion via a discounted placement, sending shares up
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall]] · [[2026-08-31-china-s-zhipu-z-ai-posts-5x-revenue-growth-on-api-and-coding]] · [[2026-08-31-z-ai-first-half-revenue-rises-roughly-fivefold-to-954m-yuan]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]]
+**Related:** [[2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall]] · [[2026-09-01-zhipu-ai-z-ai-first-half-revenue-jumps-nearly-400-on-api-gro]] · [[2026-08-31-china-s-zhipu-z-ai-posts-5x-revenue-growth-on-api-and-coding]] · [[2026-08-31-z-ai-first-half-revenue-rises-roughly-fivefold-to-954m-yuan]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]]
 <!-- graph:end -->

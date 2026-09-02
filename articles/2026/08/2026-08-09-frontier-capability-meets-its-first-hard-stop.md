@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day
+- 2026-09-01-openai-says-astra-is-its-first-model-to-reach-critical-cyber
+- 2026-09-01-path-to-astra-critical-capabilities-and-frontier-safeguards
 - 2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le
-- 2026-08-09-openai-pauses-astra-after-it-nears-first-ever-critical-cyber
-- 2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou
-- 2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena
 embedding_id: 2026-08-09-frontier-capability-meets-its-first-hard-stop
 event_name: ''
 ---
@@ -38,5 +38,5 @@ ________________________________ The past 24 hours delivered the clearest signal
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le]] · [[2026-08-09-openai-pauses-astra-after-it-nears-first-ever-critical-cyber]] · [[2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou]] · [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena]]
+**Related:** [[2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day]] · [[2026-09-01-openai-says-astra-is-its-first-model-to-reach-critical-cyber]] · [[2026-09-01-path-to-astra-critical-capabilities-and-frontier-safeguards]] · [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le]]
 <!-- graph:end -->

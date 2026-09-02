@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-01-google-research-and-nasa-jpl-map-global-methane-emissions-fr
+- 2026-09-01-mapping-global-methane-emissions-from-space-with-deep-learni
 - 2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i
 - 2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl
 - 2026-05-01-google-research-catalyzing-scientific-impact-through-global
-- 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
-- 2026-05-13-an-open-access-review-article-published-today-in-discover-ar
 embedding_id: 2026-08-31-planetary-prediction-engine-automating-global-models-via-ear
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google Research introduced a planetary prediction engine that automates geospati
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i]] · [[2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl]] · [[2026-05-01-google-research-catalyzing-scientific-impact-through-global]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-13-an-open-access-review-article-published-today-in-discover-ar]]
+**Related:** [[2026-09-01-google-research-and-nasa-jpl-map-global-methane-emissions-fr]] · [[2026-09-01-mapping-global-methane-emissions-from-space-with-deep-learni]] · [[2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i]] · [[2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl]] · [[2026-05-01-google-research-catalyzing-scientific-impact-through-global]]
 <!-- graph:end -->

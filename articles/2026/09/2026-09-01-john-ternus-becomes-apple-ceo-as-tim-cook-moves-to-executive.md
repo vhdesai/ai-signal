@@ -26,7 +26,6 @@ related_article_ids:
 - 2026-09-01-john-ternus-takes-over-as-apple-ceo-inheriting-an-ai-gap
 - 2026-09-01-john-ternus-becomes-apple-ceo-today-as-tim-cook-moves-to-exe
 - 2026-08-30-apple-s-john-ternus-becomes-ceo-september-1-facing-a-major-m
-- 2026-09-01-john-ternus-becomes-apple-ceo-as-the-tim-cook-era-ends
 embedding_id: 2026-09-01-john-ternus-becomes-apple-ceo-as-tim-cook-moves-to-executive
 event_name: ''
 ---
@@ -40,5 +39,5 @@ Hardware chief John Ternus assumes the Apple CEO role today, ending Tim Cook's r
 
 **Entities:** [[Apple]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-01-john-ternus-takes-over-as-apple-ceo-inheriting-an-ai-gap]] · [[2026-09-01-john-ternus-becomes-apple-ceo-today-as-tim-cook-moves-to-exe]] · [[2026-08-30-apple-s-john-ternus-becomes-ceo-september-1-facing-a-major-m]] · [[2026-09-01-john-ternus-becomes-apple-ceo-as-the-tim-cook-era-ends]]
+**Related:** [[2026-09-01-john-ternus-takes-over-as-apple-ceo-inheriting-an-ai-gap]] · [[2026-09-01-john-ternus-becomes-apple-ceo-today-as-tim-cook-moves-to-exe]] · [[2026-08-30-apple-s-john-ternus-becomes-ceo-september-1-facing-a-major-m]]
 <!-- graph:end -->

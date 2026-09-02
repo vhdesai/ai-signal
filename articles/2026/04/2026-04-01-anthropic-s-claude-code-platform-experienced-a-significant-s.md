@@ -5,8 +5,8 @@ title: Anthropic's Claude Code platform experienced a significant security incid
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techspot.com/news/111907-anthropic-accidentally-exposed-claude-code-source-raising-security.html
+url_status: repaired
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: 56ba6945e99e9e9fe13a16ae6cf96eb02f69db068e53a083fb387d2931d06699

@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 138
+member_count: 139
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 138 connected article(s).
+> Auto-generated entity hub. 139 connected article(s).
 
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
 - `2026-08-29` [[2026-08-29-palantir-in-focus-after-court-strikes-down-pentagon-s-anthro|Palantir in focus after court strikes down Pentagon's Anthropic blacklist]]
 - `2026-08-29` [[2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta|Anthropic opens a research preview of the Model Hardware Standard for agents operating physical devices]]
 - `2026-08-28` [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social|MIT AI report calls for alternative grading and more social learning]]

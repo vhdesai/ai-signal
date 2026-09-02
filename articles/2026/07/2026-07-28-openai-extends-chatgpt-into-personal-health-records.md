@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-23-openai-chatgpt-health-now-available-to-all-u-s-adults-with-a
+- 2026-09-01-openai-connects-chatgpt-to-epic-electronic-health-records
+- 2026-09-01-chatgpt-health-integrates-with-epic-reaching-records-for-325
 - 2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos
-- 2026-08-20-chatgpt-launches-apple-messages-plug-in-can-send-texts-on-yo
-- 2026-08-20-chatgpt-can-now-send-texts-for-you-with-new-apple-messages-p
 embedding_id: 2026-07-28-openai-extends-chatgpt-into-personal-health-records
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI rolled out a health feature for U.S. ChatGPT users that lets them connect
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-23-openai-chatgpt-health-now-available-to-all-u-s-adults-with-a]] · [[2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos]] · [[2026-08-20-chatgpt-launches-apple-messages-plug-in-can-send-texts-on-yo]] · [[2026-08-20-chatgpt-can-now-send-texts-for-you-with-new-apple-messages-p]]
+**Related:** [[2026-07-23-openai-chatgpt-health-now-available-to-all-u-s-adults-with-a]] · [[2026-09-01-openai-connects-chatgpt-to-epic-electronic-health-records]] · [[2026-09-01-chatgpt-health-integrates-with-epic-reaching-records-for-325]] · [[2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos]]
 <!-- graph:end -->

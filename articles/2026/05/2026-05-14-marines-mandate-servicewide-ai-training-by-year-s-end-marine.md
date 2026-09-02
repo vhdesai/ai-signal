@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-31-pentagon-adopts-xai-s-grok-and-openai-s-chatgpt-for-unclassi
+- 2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr
 - 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
 - 2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete
-- 2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica
-- 2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp
+- 2026-09-01-pentagon-deploys-chatgpt-and-grok-on-the-genai-mil-platform
 embedding_id: 2026-05-14-marines-mandate-servicewide-ai-training-by-year-s-end-marine
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Marines mandate servicewide AI training by year's end — Marine Corps Times, Ma
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-31-pentagon-adopts-xai-s-grok-and-openai-s-chatgpt-for-unclassi]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete]] · [[2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica]] · [[2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp]]
+**Related:** [[2026-08-31-pentagon-adopts-xai-s-grok-and-openai-s-chatgpt-for-unclassi]] · [[2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete]] · [[2026-09-01-pentagon-deploys-chatgpt-and-grok-on-the-genai-mil-platform]]
 <!-- graph:end -->

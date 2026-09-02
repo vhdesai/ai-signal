@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-20-anthropic-reverses-course-on-enterprise-data-retention-after
-- 2026-08-19-openai-launches-private-safety-processing-to-one-up-anthropi
-- 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
+- 2026-09-01-anthropic-debuts-enterprise-frontier-safeguards-with-zero-da
+- 2026-09-01-anthropic-introduces-enterprise-frontier-safeguards-with-cus
 embedding_id: 2026-08-21-anthropic-to-let-enterprises-hold-required-retention-data-on
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic will let enterprise customers store the mandated 30-day retention data
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-20-anthropic-reverses-course-on-enterprise-data-retention-after]] · [[2026-08-19-openai-launches-private-safety-processing-to-one-up-anthropi]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]]
+**Related:** [[2026-08-20-anthropic-reverses-course-on-enterprise-data-retention-after]] · [[2026-09-01-anthropic-debuts-enterprise-frontier-safeguards-with-zero-da]] · [[2026-09-01-anthropic-introduces-enterprise-frontier-safeguards-with-cus]]
 <!-- graph:end -->

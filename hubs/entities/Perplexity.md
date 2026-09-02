@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Perplexity
-member_count: 60
+member_count: 61
 ---
 
 # Perplexity
 
-> Auto-generated entity hub. 60 connected article(s).
+> Auto-generated entity hub. 61 connected article(s).
 
+- `2026-09-01` [[2026-09-01-perplexity-ships-hybrid-compute-on-mac-gating-cloud-calls-be|Perplexity ships hybrid compute on Mac, gating cloud calls behind a local model]]
 - `2026-08-25` [[2026-08-25-perplexity-partners-with-nvidia-to-launch-portable-computer|Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs]]
 - `2026-08-25` [[2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local|Perplexity and Nvidia Launch "Portable Computer," a Fully Local AI Agent With Zero Token Costs]]
 - `2026-08-25` [[2026-08-25-perplexity-ships-portable-computer-on-nvidia-dgx-spark|Perplexity Ships “Portable Computer” on NVIDIA DGX Spark]]

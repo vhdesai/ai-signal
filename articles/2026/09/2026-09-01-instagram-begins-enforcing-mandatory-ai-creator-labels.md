@@ -19,6 +19,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers
 - 2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature
 - 2026-07-12-meta-discontinues-its-muse-image-ai-feature-within-three-day
 embedding_id: 2026-09-01-instagram-begins-enforcing-mandatory-ai-creator-labels
@@ -32,5 +33,5 @@ Instagram is now penalizing AI-generated creator accounts that do not self-ident
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature]] · [[2026-07-12-meta-discontinues-its-muse-image-ai-feature-within-three-day]]
+**Related:** [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers]] · [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature]] · [[2026-07-12-meta-discontinues-its-muse-image-ai-feature-within-three-day]]
 <!-- graph:end -->

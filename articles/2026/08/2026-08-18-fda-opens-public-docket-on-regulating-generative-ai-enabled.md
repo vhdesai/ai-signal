@@ -20,8 +20,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t
+- 2026-09-01-how-the-fda-is-building-a-secure-ai-ready-data-foundation-on
 - 2026-06-03-openai-and-anthropic-jointly-urge-congress-to-regulate-synth
-- 2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai
 embedding_id: 2026-08-18-fda-opens-public-docket-on-regulating-generative-ai-enabled
 event_name: ''
 ---
@@ -34,5 +34,5 @@ The US Food and Drug Administration issued a discussion paper and opened a publi
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t]] · [[2026-06-03-openai-and-anthropic-jointly-urge-congress-to-regulate-synth]] · [[2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai]]
+**Related:** [[2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t]] · [[2026-09-01-how-the-fda-is-building-a-secure-ai-ready-data-foundation-on]] · [[2026-06-03-openai-and-anthropic-jointly-urge-congress-to-regulate-synth]]
 <!-- graph:end -->

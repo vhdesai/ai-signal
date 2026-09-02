@@ -5,8 +5,8 @@ title: Mark Zuckerberg is personally testing a "CEO agent" that automates execut
 date: '2026-03-24'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.itechguides.com/mark-zuckerberg-secretly-training-an-ai-agent-to-do-his-ceo-job-what-we-know/
+url_status: repaired
 digest_source: digests\raw\2026-03-26_105104_Inbox_Daily AI News Digest – March 24,
   2026.md
 content_hash: 465b32f422a700c78b312001f3a2f29d3ebf17cb44848b839ff6207e42f37672

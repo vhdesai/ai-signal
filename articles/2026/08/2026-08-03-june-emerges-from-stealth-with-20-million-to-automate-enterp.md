@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise
 - 2026-08-03-marc-benioff-backed-june-raises-20-million-to-automate-ai-de
+- 2026-09-01-air-launches-with-50m-to-build-a-firewall-for-ai-agent-skill
+- 2026-09-01-air-emerges-from-stealth-with-50m-to-police-the-ai-agent-sof
 - 2026-05-11-openai-launches-4b-deployco-ai-services-venture
-- 2026-08-03-june-s-pitch-is-that-ai-deployment-itself-has-become-a-softw
-- 2026-07-15-indian-ai-coding-startup-emergent-becomes-a-unicorn-with-130
 embedding_id: 2026-08-03-june-emerges-from-stealth-with-20-million-to-automate-enterp
 event_name: ''
 ---
@@ -40,5 +40,5 @@ June, founded by former Salesforce AI executives, launched from stealth with a $
 
 **Entities:** [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise]] · [[2026-08-03-marc-benioff-backed-june-raises-20-million-to-automate-ai-de]] · [[2026-05-11-openai-launches-4b-deployco-ai-services-venture]] · [[2026-08-03-june-s-pitch-is-that-ai-deployment-itself-has-become-a-softw]] · [[2026-07-15-indian-ai-coding-startup-emergent-becomes-a-unicorn-with-130]]
+**Related:** [[2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise]] · [[2026-08-03-marc-benioff-backed-june-raises-20-million-to-automate-ai-de]] · [[2026-09-01-air-launches-with-50m-to-build-a-firewall-for-ai-agent-skill]] · [[2026-09-01-air-emerges-from-stealth-with-50m-to-police-the-ai-agent-sof]] · [[2026-05-11-openai-launches-4b-deployco-ai-services-venture]]
 <!-- graph:end -->

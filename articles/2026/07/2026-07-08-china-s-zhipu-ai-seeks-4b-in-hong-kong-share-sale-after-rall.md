@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-08-zhipu-ai-shares-surge-on-4b-fundraise-as-chinese-labs-race-f
 - 2026-08-31-china-s-zhipu-z-ai-posts-5x-revenue-growth-on-api-and-coding
+- 2026-09-01-zhipu-ai-z-ai-first-half-revenue-jumps-nearly-400-on-api-gro
 - 2026-08-31-z-ai-first-half-revenue-rises-roughly-fivefold-to-954m-yuan
 - 2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed
-- 2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti
 embedding_id: 2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Zhipu AI (Z.ai) is seeking roughly $4 billion through a Hong Kong share placemen
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-08-zhipu-ai-shares-surge-on-4b-fundraise-as-chinese-labs-race-f]] · [[2026-08-31-china-s-zhipu-z-ai-posts-5x-revenue-growth-on-api-and-coding]] · [[2026-08-31-z-ai-first-half-revenue-rises-roughly-fivefold-to-954m-yuan]] · [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed]] · [[2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti]]
+**Related:** [[2026-07-08-zhipu-ai-shares-surge-on-4b-fundraise-as-chinese-labs-race-f]] · [[2026-08-31-china-s-zhipu-z-ai-posts-5x-revenue-growth-on-api-and-coding]] · [[2026-09-01-zhipu-ai-z-ai-first-half-revenue-jumps-nearly-400-on-api-gro]] · [[2026-08-31-z-ai-first-half-revenue-rises-roughly-fivefold-to-954m-yuan]] · [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed]]
 <!-- graph:end -->

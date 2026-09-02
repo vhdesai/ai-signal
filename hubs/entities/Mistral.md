@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 185
+member_count: 186
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 185 connected article(s).
+> Auto-generated entity hub. 186 connected article(s).
 
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
 - `2026-08-30` [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig|Mistral taps Saudi Arabia's HUMAIN data centres for sovereign AI push]]
 - `2026-08-29` [[2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta|Anthropic opens a research preview of the Model Hardware Standard for agents operating physical devices]]
 - `2026-08-28` [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social|MIT AI report calls for alternative grading and more social learning]]

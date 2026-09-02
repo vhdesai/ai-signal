@@ -26,9 +26,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-11-river-ai-raises-1-1-billion-two-months-after-launch
 - 2026-07-29-thinking-machines-co-founder-lilian-weng-departs-rejoins-ope
-- 2026-08-11-cognition-in-early-talks-at-40b-valuation-river-ai-raises-1
+- 2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin
+- 2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets
+- 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
 embedding_id: 2026-08-11-xai-co-founder-leaves-to-build-open-source-ai-startup-river
 event_name: ''
 ---
@@ -42,5 +43,5 @@ Igor Babuschkin, a key researcher who previously worked at OpenAI, Google, and x
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-11-river-ai-raises-1-1-billion-two-months-after-launch]] · [[2026-07-29-thinking-machines-co-founder-lilian-weng-departs-rejoins-ope]] · [[2026-08-11-cognition-in-early-talks-at-40b-valuation-river-ai-raises-1]]
+**Related:** [[2026-07-29-thinking-machines-co-founder-lilian-weng-departs-rejoins-ope]] · [[2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin]] · [[2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]]
 <!-- graph:end -->

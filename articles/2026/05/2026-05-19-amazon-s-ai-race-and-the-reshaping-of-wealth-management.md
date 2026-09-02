@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc
 - 2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending
+- 2026-09-02-meta-and-google-s-ai-returns-slide-piper-sandler-says-amazon
 - 2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk
 - 2026-05-31-wsj-tracks-the-hunt-for-durable-ai-winners-in-public-markets
-- 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
 embedding_id: 2026-05-19-amazon-s-ai-race-and-the-reshaping-of-wealth-management
 event_name: ''
 ---
@@ -40,5 +40,5 @@ WSJ's Wealth Adviser briefing led with Amazon's accelerating AI race and the imp
 
 **Entities:** [[Amazon]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]] · [[2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk]] · [[2026-05-31-wsj-tracks-the-hunt-for-durable-ai-winners-in-public-markets]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]]
+**Related:** [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]] · [[2026-09-02-meta-and-google-s-ai-returns-slide-piper-sandler-says-amazon]] · [[2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk]] · [[2026-05-31-wsj-tracks-the-hunt-for-durable-ai-winners-in-public-markets]]
 <!-- graph:end -->

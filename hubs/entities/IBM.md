@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 145
+member_count: 147
 ---
 
 # IBM
 
-> Auto-generated entity hub. 145 connected article(s).
+> Auto-generated entity hub. 147 connected article(s).
 
+- `2026-09-02` [[2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness|New IBM Study Finds AI Adoption Is Outpacing K-12 Readiness]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
 - `2026-08-31` [[2026-08-31-eurohpc-awards-bull-a-387-8m-contract-for-the-lumi-ai-superc|EuroHPC awards Bull a €387.8M contract for the LUMI-AI supercomputer in Finland]]
 - `2026-08-29` [[2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta|Anthropic opens a research preview of the Model Hardware Standard for agents operating physical devices]]
 - `2026-08-28` [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social|MIT AI report calls for alternative grading and more social learning]]

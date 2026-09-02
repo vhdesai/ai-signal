@@ -5,8 +5,8 @@ title: An MIT-led team published work on designing AI diagnostic systems that ar
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.lavx.hu/article/designing-humble-ai-mit-researchers-create-framework-for-more-collaborative-medical-diagnosis-systems
+url_status: repaired
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: a03c097644ebafcf2b6b3a5fda1ad8c2cca7a55e0f6af38bfe9581310fbeb8d1

@@ -26,8 +26,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-07-openai-pauses-parts-of-astra-model-development-after-crossin
 - 2026-08-09-openai-pauses-astra-after-it-nears-first-ever-critical-cyber
-- 2026-08-07-openai-pauses-astra-after-first-ever-critical-cyber-risk-cla
-- 2026-08-09-openai-pauses-astra-after-first-ever-critical-cyber-classifi
+- 2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy
+- 2026-09-01-openai-says-astra-is-its-first-model-to-reach-critical-cyber
 embedding_id: 2026-08-07-openai-pauses-astra-model-development-after-reaching-critica
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI disclosed that its unreleased Astra model triggered the "critical cyberse
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-07-openai-pauses-parts-of-astra-model-development-after-crossin]] · [[2026-08-09-openai-pauses-astra-after-it-nears-first-ever-critical-cyber]] · [[2026-08-07-openai-pauses-astra-after-first-ever-critical-cyber-risk-cla]] · [[2026-08-09-openai-pauses-astra-after-first-ever-critical-cyber-classifi]]
+**Related:** [[2026-08-07-openai-pauses-parts-of-astra-model-development-after-crossin]] · [[2026-08-09-openai-pauses-astra-after-it-nears-first-ever-critical-cyber]] · [[2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy]] · [[2026-09-01-openai-says-astra-is-its-first-model-to-reach-critical-cyber]]
 <!-- graph:end -->

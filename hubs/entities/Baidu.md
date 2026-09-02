@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 94
+member_count: 96
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 94 connected article(s).
+> Auto-generated entity hub. 96 connected article(s).
 
+- `2026-09-02` [[2026-09-02-baidu-cfo-says-ai-could-soon-match-search-business-in-profit|Baidu CFO says AI could soon match search business in profit and cash returns]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
 - `2026-08-31` [[2026-08-31-baidu-cloud-reportedly-separates-its-ai-agent-and-maas-busin|Baidu Cloud reportedly separates its AI agent and MaaS businesses]]
 - `2026-08-29` [[2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta|Anthropic opens a research preview of the Model Hardware Standard for agents operating physical devices]]
 - `2026-08-28` [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social|MIT AI report calls for alternative grading and more social learning]]

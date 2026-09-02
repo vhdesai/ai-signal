@@ -5,8 +5,8 @@ title: Oracle began notifying thousands of employees across the U.S., India, Can
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://economictimes.indiatimes.com/news/international/us/oracle-layoffs-thousands-being-fired-via-email-without-warningheres-what-lead-to-the-global-restructuring/articleshow/129928398.cms
+url_status: repaired
 digest_source: digests\raw\2026-04-02_080231_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: d95f5cd0bd6029a65ae22f52e4a1cc09fb7a29a49114775e1a3136fd266eaaec

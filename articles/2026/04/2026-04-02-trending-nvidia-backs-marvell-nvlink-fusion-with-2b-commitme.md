@@ -5,8 +5,8 @@ title: '[TRENDING] Nvidia Backs Marvell NVLink Fusion with $2B Commitment (Mar 3
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://nvidianews.nvidia.com/news/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: aff34f5eb2d10d4bbe89a2ebc8d8c3c39da30ff6d94a720719fb74a20f46f419

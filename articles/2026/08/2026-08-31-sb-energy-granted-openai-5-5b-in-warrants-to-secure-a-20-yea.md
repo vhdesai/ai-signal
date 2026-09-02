@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-08-31-sb-energy-granted-openai-warrants-valued-near-5-5b-to-secure
 - 2026-08-31-sb-energy-issued-openai-warrants-now-valued-near-5-5b-to-sec
 - 2026-08-30-openai-received-5-5b-in-sb-energy-warrants-ahead-of-softbank
+- 2026-09-02-softbank-s-sb-energy-files-to-go-public-naming-openai-as-chi
 embedding_id: 2026-08-31-sb-energy-granted-openai-5-5b-in-warrants-to-secure-a-20-yea
 event_name: ''
 ---
@@ -38,5 +39,5 @@ SoftBank's SB Energy issued OpenAI stock warrants now valued at roughly $5.5 bil
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-31-sb-energy-granted-openai-warrants-valued-near-5-5b-to-secure]] · [[2026-08-31-sb-energy-issued-openai-warrants-now-valued-near-5-5b-to-sec]] · [[2026-08-30-openai-received-5-5b-in-sb-energy-warrants-ahead-of-softbank]]
+**Related:** [[2026-08-31-sb-energy-granted-openai-warrants-valued-near-5-5b-to-secure]] · [[2026-08-31-sb-energy-issued-openai-warrants-now-valued-near-5-5b-to-sec]] · [[2026-08-30-openai-received-5-5b-in-sb-energy-warrants-ahead-of-softbank]] · [[2026-09-02-softbank-s-sb-energy-files-to-go-public-naming-openai-as-chi]]
 <!-- graph:end -->

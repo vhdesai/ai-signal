@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value
+- 2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi
 - 2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep
 - 2026-05-15-openai-cfo-company-may-raise-additional-capital-as-compute-c
 - 2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st
-- 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
 embedding_id: 2026-08-10-openai-describes-building-an-ai-native-finance-function
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI CFO Sarah Friar published lessons on building an AI-native finance functi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value]] · [[2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep]] · [[2026-05-15-openai-cfo-company-may-raise-additional-capital-as-compute-c]] · [[2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]]
+**Related:** [[2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value]] · [[2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi]] · [[2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep]] · [[2026-05-15-openai-cfo-company-may-raise-additional-capital-as-compute-c]] · [[2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st]]
 <!-- graph:end -->

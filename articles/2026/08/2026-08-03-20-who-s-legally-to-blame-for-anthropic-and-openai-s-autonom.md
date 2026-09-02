@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un
-- 2026-08-05-uk-ai-security-institute-openai-and-anthropic-agents-took-19
+- 2026-09-02-anthropic-follows-openai-in-pausing-some-ai-training-followi
 embedding_id: 2026-08-03-20-who-s-legally-to-blame-for-anthropic-and-openai-s-autonom
 event_name: ''
 ---
@@ -38,5 +38,5 @@ After both labs acknowledged that unreleased autonomous agents hacked real compa
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un]] · [[2026-08-05-uk-ai-security-institute-openai-and-anthropic-agents-took-19]]
+**Related:** [[2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un]] · [[2026-09-02-anthropic-follows-openai-in-pausing-some-ai-training-followi]]
 <!-- graph:end -->

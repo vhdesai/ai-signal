@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-08-30-time-to-first-token-benchmark-for-voice-and-realtime-agent-i
 - 2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for
 - 2026-04-02-new-salesforce-voiceagentrag-achieves-316x-retrieval-speedup
+- 2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a
 - 2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v
-- 2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-per-second
 embedding_id: 2026-08-30-latency-benchmark-argues-voice-agents-need-ttfs-not-just-ttf
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MarkTechPost published a benchmark-driven analysis of inference APIs for voice a
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-30-time-to-first-token-benchmark-for-voice-and-realtime-agent-i]] · [[2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for]] · [[2026-04-02-new-salesforce-voiceagentrag-achieves-316x-retrieval-speedup]] · [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v]] · [[2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-per-second]]
+**Related:** [[2026-08-30-time-to-first-token-benchmark-for-voice-and-realtime-agent-i]] · [[2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for]] · [[2026-04-02-new-salesforce-voiceagentrag-achieves-316x-retrieval-speedup]] · [[2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a]] · [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v]]
 <!-- graph:end -->
