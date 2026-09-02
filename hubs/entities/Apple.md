@@ -1,13 +1,32 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 355
+member_count: 374
 ---
 
 # Apple
 
-> Auto-generated entity hub. 355 connected article(s).
+> Auto-generated entity hub. 374 connected article(s).
 
+- `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-09-01` [[2026-09-01-john-ternus-becomes-apple-ceo-today-as-tim-cook-moves-to-exe|John Ternus becomes Apple CEO today as Tim Cook moves to executive chairman]]
+- `2026-09-01` [[2026-09-01-john-ternus-takes-over-as-apple-ceo-inheriting-an-ai-gap|John Ternus Takes Over as Apple CEO, Inheriting an AI Gap]]
+- `2026-09-01` [[2026-09-01-john-ternus-becomes-apple-ceo-as-the-tim-cook-era-ends|John Ternus Becomes Apple CEO as the Tim Cook Era Ends]]
+- `2026-09-01` [[2026-09-01-john-ternus-becomes-apple-ceo-as-tim-cook-moves-to-executive|John Ternus Becomes Apple CEO as Tim Cook Moves to Executive Chairman]]
+- `2026-08-31` [[2026-08-31-openai-reportedly-buys-tens-of-thousands-of-mac-minis-and-ma|OpenAI reportedly buys tens of thousands of Mac minis and Mac Studios to train computer-use agents]]
+- `2026-08-31` [[2026-08-31-openai-and-anthropic-buy-tens-of-thousands-of-macs-for-agent|OpenAI and Anthropic Buy Tens of Thousands of Macs for Agent Training; Apple Pulls Forward Refreshes]]
+- `2026-08-31` [[2026-08-31-openai-buys-tens-of-thousands-of-mac-minis-and-mac-studios-t|OpenAI Buys Tens of Thousands of Mac Minis and Mac Studios to Train Computer-Use Agents]]
+- `2026-08-31` [[2026-08-31-apple-pulled-forward-mac-mini-and-mac-studio-launches-on-une|Apple pulled forward Mac mini and Mac Studio launches on unexpected enterprise AI demand]]
+- `2026-08-31` [[2026-08-31-apple-pulled-mac-mini-and-mac-studio-launches-forward-on-una|Apple Pulled Mac Mini and Mac Studio Launches Forward on Unanticipated Enterprise AI Demand]]
+- `2026-08-30` [[2026-08-30-google-ai-introduces-envharness-to-turn-static-agent-benchma|Google AI introduces EnvHarness to turn static agent benchmarks into adaptive training worlds]]
+- `2026-08-30` [[2026-08-30-apple-s-mac-sales-surge-as-developers-buy-hardware-for-local|Apple's Mac sales surge as developers buy hardware for local AI work]]
+- `2026-08-30` [[2026-08-30-apple-s-john-ternus-becomes-ceo-september-1-facing-a-major-m|Apple's John Ternus becomes CEO September 1, facing a major management reshuffle]]
+- `2026-08-30` [[2026-08-30-apple-s-john-ternus-becomes-ceo-september-1-facing-major-man|Apple's John Ternus Becomes CEO September 1, Facing Major Management Reshuffle]]
+- `2026-08-29` [[2026-08-29-how-to-use-xai-s-grok-across-mac-iphone-and-ipad|How to use xAI's Grok across Mac, iPhone and iPad]]
+- `2026-08-29` [[2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta|Anthropic opens a research preview of the Model Hardware Standard for agents operating physical devices]]
+- `2026-08-28` [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social|MIT AI report calls for alternative grading and more social learning]]
+- `2026-08-27` [[2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto|The Enterprise Agent Risk Is Inter-Agent Complexity, Not Autonomy]]
+- `2026-08-27` [[2026-08-27-anthropic-unveils-model-hardware-standard-for-agents-to-oper|Anthropic unveils Model Hardware Standard for agents to operate machines]]
 - `2026-08-26` [[2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif|Custom Silicon Comes for the Incumbent as Enterprise AI Shifts to Controls]]
 - `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-an-ai-robot-tax|Bill Gates calls for "human reserved" jobs and an AI/robot tax]]
 - `2026-08-26` [[2026-08-26-bill-gates-warns-about-ai-risks|Bill Gates Warns About AI Risks]]

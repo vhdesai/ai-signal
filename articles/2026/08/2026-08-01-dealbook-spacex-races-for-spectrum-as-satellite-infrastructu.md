@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl
 - 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
 - 2026-05-14-on-may-5-the-u-s-pentagon-signed-ai-infrastructure-and-model
-- 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
+- 2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory
 embedding_id: 2026-08-01-dealbook-spacex-races-for-spectrum-as-satellite-infrastructu
 event_name: ''
 ---
@@ -39,5 +39,5 @@ DealBook examined SpaceX's push to secure radio spectrum, the invisible infrastr
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-17-spacex-reportedly-discusses-providing-compute-for-pentagon-a]] · [[2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]] · [[2026-05-14-on-may-5-the-u-s-pentagon-signed-ai-infrastructure-and-model]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]]
+**Related:** [[2026-07-17-spacex-reportedly-discusses-providing-compute-for-pentagon-a]] · [[2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]] · [[2026-05-14-on-may-5-the-u-s-pentagon-signed-ai-infrastructure-and-model]] · [[2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory]]
 <!-- graph:end -->

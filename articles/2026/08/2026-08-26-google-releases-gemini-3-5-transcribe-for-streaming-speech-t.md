@@ -3,41 +3,42 @@ article_id: 2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-speec
 title: Google Releases Gemini 3.5 Transcribe for Streaming Speech-to-Text
 date: '2026-08-26'
 source: Engadget
-url_original: https://www.engadget.com/2244799/google-gemini-latest-transcription-model-can-turn-ramblings-into-structured-text/
-url_canonical: https://www.engadget.com/2244799/google-gemini-latest-transcription-model-can-turn-ramblings-into-structured-text/
-url_status: found
-digest_source: digests\raw\2026-08-27_065423_Inbox_Daily AI News Digest - August 27,
-  2026.md
-content_hash: 91c9062426a67285e0ef4de913880d31ef076133ba7687d9fd85b4c023c29f5d
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-08-27_084528_Inbox_Fw Daily AI News Digest – August
+  27, 2026.md
+content_hash: 99566c5c321c0815089057a52e333fa61bb489b500895772b3716f6b721039fd
 normalized_title_hash: 3bad2370f693335d
-canonical_url_hash: 6d86c075815e169c
+canonical_url_hash: ''
 tags:
 - Launch
 entities:
 - Google
 themes:
+- policy-regulation
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-and-pre
 related_article_ids:
+- 2026-08-27-google-launches-gemini-3-5-transcribe-speech-to-text-model
 - 2026-08-26-google-releases-gemini-3-5-transcribe-85-languages-speaker-a
 - 2026-08-26-google-deepmind-ships-gemini-3-5-transcribe-with-2-6-word-er
-- 2026-08-26-google-launches-gemini-3-5-transcribe-its-most-precise-speec
-- 2026-05-19-gemini-3-1-ultra-already-shipping-with-2m-token-native-multi
+- 2026-08-27-google-releases-gemini-3-5-transcribe-with-2-6-average-word
 embedding_id: 2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-speech-t
 event_name: ''
 ---
 
 # Google Releases Gemini 3.5 Transcribe for Streaming Speech-to-Text
 
-Gemini 3.5 Transcribe auto-detects 85+ languages, learns custom vocabulary, and reliably captures alphanumeric strings. It removes filler words and resolves self-corrections. Governance note: because the model edits disfluencies, compliance and legal workflows should retain original audio as the system of record.
+Gemini 3.5 Transcribe auto-detects 85+ languages, learns custom vocabulary, and reliably captures alphanumeric strings. It removes filler words and resolves self-corrections. Governance note: because the model edits disfluencies, compliance and legal workflows should retain original audio as the system of record. Engadget → AI Safety & Policy BREAKING SECURITY
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
 **Canonical:** [[2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-and-pre]]
-**Related:** [[2026-08-26-google-releases-gemini-3-5-transcribe-85-languages-speaker-a]] · [[2026-08-26-google-deepmind-ships-gemini-3-5-transcribe-with-2-6-word-er]] · [[2026-08-26-google-launches-gemini-3-5-transcribe-its-most-precise-speec]] · [[2026-05-19-gemini-3-1-ultra-already-shipping-with-2m-token-native-multi]]
+**Related:** [[2026-08-27-google-launches-gemini-3-5-transcribe-speech-to-text-model]] · [[2026-08-26-google-releases-gemini-3-5-transcribe-85-languages-speaker-a]] · [[2026-08-26-google-deepmind-ships-gemini-3-5-transcribe-with-2-6-word-er]] · [[2026-08-27-google-releases-gemini-3-5-transcribe-with-2-6-average-word]]
 <!-- graph:end -->

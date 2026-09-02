@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: Business Wire
 url_original: https://finance.yahoo.com/technology/ai/articles/brookfield-bloom-energy-expand-ai-200500617.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/brookfield-bloom-energy-expand-ai-200500617.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-01_062608_Inbox_Daily AI News Digest - July 1,
   2026.md
 content_hash: db6602ce8b12a517ca184e9d970e9d53b8789123962c5dcc4d075680f93b95e0
@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
+- 2026-08-31-humain-also-partners-with-together-ai-and-minio-on-riyadh-an
 - 2026-08-11-babcock-wilcox-expands-its-position-in-ai-data-center-power
 - 2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros
 - 2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio
-- 2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin
 embedding_id: 2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Brookfield and Bloom Energy announced a fivefold expansion of their partnership 
 
 **Entities:** [[Scale AI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-08-11-babcock-wilcox-expands-its-position-in-ai-data-center-power]] · [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio]] · [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]]
+**Related:** [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-08-31-humain-also-partners-with-together-ai-and-minio-on-riyadh-an]] · [[2026-08-11-babcock-wilcox-expands-its-position-in-ai-data-center-power]] · [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio]]
 <!-- graph:end -->

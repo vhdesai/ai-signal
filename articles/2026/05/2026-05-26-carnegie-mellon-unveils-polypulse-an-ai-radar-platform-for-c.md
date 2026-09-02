@@ -6,7 +6,7 @@ date: '2026-05-26'
 source: CMU ECE News
 url_original: https://www.ece.cmu.edu/news-and-events/story/2026/05/polypulse.html
 url_canonical: https://www.ece.cmu.edu/news-and-events/story/2026/05/polypulse.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: ed57bc53c516d218521154ed5b60378df3c783f0d11bfc0f27f95c5378d30dfa
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-trending-cmu-polypulse-contactless-mmwave-radar-ai-tracks-bl
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
+- 2026-08-29-cmu-and-university-of-washington-appear-in-early-model-hardw
 - 2026-05-14-cmu-ece-honors-geeps-with-test-of-time-award-the-distributed
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
-- 2026-07-26-brain-wave-data-may-become-a-new-training-signal-for-physica
 embedding_id: 2026-05-26-carnegie-mellon-unveils-polypulse-an-ai-radar-platform-for-c
 event_name: ''
 ---
@@ -38,5 +38,5 @@ CMU researchers unveiled PolyPulse, a millimeter-wave radar platform — the sam
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-trending-cmu-polypulse-contactless-mmwave-radar-ai-tracks-bl]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-05-14-cmu-ece-honors-geeps-with-test-of-time-award-the-distributed]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-07-26-brain-wave-data-may-become-a-new-training-signal-for-physica]]
+**Related:** [[2026-05-26-trending-cmu-polypulse-contactless-mmwave-radar-ai-tracks-bl]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-08-29-cmu-and-university-of-washington-appear-in-early-model-hardw]] · [[2026-05-14-cmu-ece-honors-geeps-with-test-of-time-award-the-distributed]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]]
 <!-- graph:end -->

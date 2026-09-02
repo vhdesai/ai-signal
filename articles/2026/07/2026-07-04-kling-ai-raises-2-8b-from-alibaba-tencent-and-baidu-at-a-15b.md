@@ -5,7 +5,7 @@ date: '2026-07-04'
 source: Analytics Insight
 url_original: https://www.analyticsinsight.net/news/alibaba-tencent-and-baidu-join-28-billion-funding-round-for-kling-ai
 url_canonical: https://www.analyticsinsight.net/news/alibaba-tencent-and-baidu-join-28-billion-funding-round-for-kling-ai
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-05_062627_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 2799d1d7f245cb1c053be999d9d15004be06a4a595de77f8a2a0de266826f420
@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai
 - 2026-08-23-alibaba-raises-10-2bn-in-hong-kong-earmarks-100-for-ai
+- 2026-08-24-alibaba-plunges-after-10-2b-placement-to-fund-ai-push
 - 2026-08-23-alibaba-raises-10-2b-in-hong-kong-s-biggest-ever-follow-on-t
 - 2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek
-- 2026-08-24-alibaba-plans-to-raise-10-2-billion-for-ai-investment
 embedding_id: 2026-07-04-kling-ai-raises-2-8b-from-alibaba-tencent-and-baidu-at-a-15b
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Kuaishou’s AI-video unit Kling AI secured more than $2.8B (~19B yuan) from inv
 
 **Entities:** [[Alibaba]] · [[Baidu]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai]] · [[2026-08-23-alibaba-raises-10-2bn-in-hong-kong-earmarks-100-for-ai]] · [[2026-08-23-alibaba-raises-10-2b-in-hong-kong-s-biggest-ever-follow-on-t]] · [[2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek]] · [[2026-08-24-alibaba-plans-to-raise-10-2-billion-for-ai-investment]]
+**Related:** [[2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai]] · [[2026-08-23-alibaba-raises-10-2bn-in-hong-kong-earmarks-100-for-ai]] · [[2026-08-24-alibaba-plunges-after-10-2b-placement-to-fund-ai-push]] · [[2026-08-23-alibaba-raises-10-2b-in-hong-kong-s-biggest-ever-follow-on-t]] · [[2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek]]
 <!-- graph:end -->

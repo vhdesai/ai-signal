@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: CNBC
 url_original: https://www.cnbc.com/2026/05/19/openai-announces-new-guaranteed-capacity-offering-for-customers-to-secure-compute.html
 url_canonical: https://www.cnbc.com/2026/05/19/openai-announces-new-guaranteed-capacity-offering-for-customers-to-secure-compute.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 93f5cc8cd038c39d68d9407ff8ef62a482c06ea2c51a7ed24a749cf6a43a5184
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity
 - 2026-07-22-openai-s-ai-spending-commitments-approach-750b
 - 2026-08-03-long-duration-bond-issuance-for-ai-infrastructure-shows-that
+- 2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered
 - 2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra
-- 2026-08-15-nvidia-reportedly-close-to-guaranteeing-about-100-billion-in
 embedding_id: 2026-05-19-hot-openai-launches-guaranteed-capacity-long-term-enterprise
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI launched Guaranteed Capacity, a new offering that allows enterprise custo
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]] · [[2026-08-03-long-duration-bond-issuance-for-ai-infrastructure-shows-that]] · [[2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra]] · [[2026-08-15-nvidia-reportedly-close-to-guaranteeing-about-100-billion-in]]
+**Related:** [[2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]] · [[2026-08-03-long-duration-bond-issuance-for-ai-infrastructure-shows-that]] · [[2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered]] · [[2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra]]
 <!-- graph:end -->

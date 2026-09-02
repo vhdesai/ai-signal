@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu
 - 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
 - 2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w
-- 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
+- 2026-08-27-the-case-that-a-cheap-flash-model-should-absorb-45-of-enterp
 embedding_id: 2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A Georgia Tech team published a new sparse attention architecture that reduces i
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]] · [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]] · [[2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]]
+**Related:** [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]] · [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]] · [[2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w]] · [[2026-08-27-the-case-that-a-cheap-flash-model-should-absorb-45-of-enterp]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-11'
 source: Anthropic
 url_original: https://www.anthropic.com/news/claude-opus-4-7
 url_canonical: https://www.anthropic.com/news/claude-opus-4-7
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-11_061544_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 54cdee9df1a10b2371bcd9ece282018e23b706c39a754030035de3869281e51b

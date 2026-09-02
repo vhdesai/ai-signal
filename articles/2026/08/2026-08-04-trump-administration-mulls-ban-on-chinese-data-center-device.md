@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Trump+ban+Chinese+data+center+devices
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Trump+ban+Chinese+data+center+devices
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-04_065014_Final-Daily-AI-News-Digest.md
 content_hash: 44ea1ca34e7a6cb240f793467baf6be084f4130386084621e5f6d2e664366475
 normalized_title_hash: 5ea004527864db34
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-05-u-s-moves-to-ban-chinese-data-center-components
 - 2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component
+- 2026-08-28-trump-administration-working-on-rule-to-curb-china-s-remote
+- 2026-08-28-trump-administration-working-on-ai-rule-to-curb-china-s-remo
 - 2026-05-18-president-trump-confirmed-discussions-with-chinese-president
-- 2026-07-30-beijing-threatens-retaliation-over-u-s-proposal-to-block-chi
-- 2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri
 embedding_id: 2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Trump administration is considering a ban on Chinese-made devices used in US
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-08-05-u-s-moves-to-ban-chinese-data-center-components]] · [[2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component]] · [[2026-05-18-president-trump-confirmed-discussions-with-chinese-president]] · [[2026-07-30-beijing-threatens-retaliation-over-u-s-proposal-to-block-chi]] · [[2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri]]
+**Related:** [[2026-08-05-u-s-moves-to-ban-chinese-data-center-components]] · [[2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component]] · [[2026-08-28-trump-administration-working-on-rule-to-curb-china-s-remote]] · [[2026-08-28-trump-administration-working-on-ai-rule-to-curb-china-s-remo]] · [[2026-05-18-president-trump-confirmed-discussions-with-chinese-president]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: DealBook (NYT) · [August 12, 2026] · The Wall Street Journal**
 url_original: https://www.wsj.com/tech/ai/why-wall-street-and-nvidia-are-building-an-exotic-money-pipeline-for-the-ai-boom-346ba482
 url_canonical: https://www.wsj.com/tech/ai/why-wall-street-and-nvidia-are-building-an-exotic-money-pipeline-for-the-ai-boom-346ba482
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-12_065755_Final-Daily-AI-News-Digest.md
 content_hash: 00ffdab1b07f70df35bfab49f8a5f527c8a06f225b7a06fde3d69dcf5427b687
 normalized_title_hash: 8df8724fde1ef8f5

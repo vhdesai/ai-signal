@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Engadget
 url_original: https://www.engadget.com/2244799/google-gemini-latest-transcription-model-can-turn-ramblings-into-structured-text/
 url_canonical: https://www.engadget.com/2244799/google-gemini-latest-transcription-model-can-turn-ramblings-into-structured-text/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_065417_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 327c1af2c93ecfaa5675f906e6cc8b073c7f9413dc1997a4c48ab5b4fa3847a2
@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-speech-t
+- 2026-08-27-google-releases-gemini-3-5-transcribe-with-2-6-average-word
+- 2026-08-27-google-launches-gemini-3-5-transcribe-speech-to-text-model
 - 2026-08-26-google-deepmind-ships-gemini-3-5-transcribe-with-2-6-word-er
-- 2026-08-26-google-launches-gemini-3-5-transcribe-its-most-precise-speec
-- 2026-05-10-google-gemini-3-1-ultra-2m-token-native-multimodal-context
 embedding_id: 2026-08-26-google-releases-gemini-3-5-transcribe-85-languages-speaker-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Auto-detects 85+ languages, learns custom vocabulary, captures alphanumerics, at
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-speech-t]] · [[2026-08-26-google-deepmind-ships-gemini-3-5-transcribe-with-2-6-word-er]] · [[2026-08-26-google-launches-gemini-3-5-transcribe-its-most-precise-speec]] · [[2026-05-10-google-gemini-3-1-ultra-2m-token-native-multimodal-context]]
+**Related:** [[2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-speech-t]] · [[2026-08-27-google-releases-gemini-3-5-transcribe-with-2-6-average-word]] · [[2026-08-27-google-launches-gemini-3-5-transcribe-speech-to-text-model]] · [[2026-08-26-google-deepmind-ships-gemini-3-5-transcribe-with-2-6-word-er]]
 <!-- graph:end -->

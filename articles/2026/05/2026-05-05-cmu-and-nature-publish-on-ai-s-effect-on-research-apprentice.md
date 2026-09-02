@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-05-nature-ai-agents-in-research-erode-the-apprenticeship-pipeli
+- 2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking
 - 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
 - 2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk
 - 2026-05-04-cmu-reflection-prompts-can-slow-down-ai-assisted-learning
-- 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
 embedding_id: 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Carnegie Mellon and a Nature paper independently report on how generative AI is 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-05-nature-ai-agents-in-research-erode-the-apprenticeship-pipeli]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk]] · [[2026-05-04-cmu-reflection-prompts-can-slow-down-ai-assisted-learning]] · [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]]
+**Related:** [[2026-05-05-nature-ai-agents-in-research-erode-the-apprenticeship-pipeli]] · [[2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk]] · [[2026-05-04-cmu-reflection-prompts-can-slow-down-ai-assisted-learning]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-07-04'
 source: Engadget
 url_original: https://www.engadget.com/2207936/midjourney-wants-studios-that-sued-show-court-ai-use/
 url_canonical: https://www.engadget.com/2207936/midjourney-wants-studios-that-sued-show-court-ai-use/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-04_062504_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 8440d5b1e32b4bcfa58cf7d80b92e9cebc1a7ff00428bfee0e037363f9370b86
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t
 - 2026-07-05-in-the-copyright-suit-brought-by-disney-universal-and-warner
 - 2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou
-- 2026-08-14-anthropic-s-book-scanning-training-method-ruled-fair-use-but
-- 2026-07-14-major-publishers-sue-google-over-gemini-ai-training
+- 2026-08-31-google-approaches-disney-universal-and-warner-bros-discovery
+- 2026-08-31-google-quietly-courts-hollywood-studios-for-ai-training-and
 embedding_id: 2026-07-04-midjourney-moves-to-force-disney-universal-and-warner-bros-t
 event_name: ''
 ---
@@ -37,5 +37,5 @@ In the studios' 2025 copyright suit, Midjourney is asking the court to compel Di
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t]] · [[2026-07-05-in-the-copyright-suit-brought-by-disney-universal-and-warner]] · [[2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou]] · [[2026-08-14-anthropic-s-book-scanning-training-method-ruled-fair-use-but]] · [[2026-07-14-major-publishers-sue-google-over-gemini-ai-training]]
+**Related:** [[2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t]] · [[2026-07-05-in-the-copyright-suit-brought-by-disney-universal-and-warner]] · [[2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou]] · [[2026-08-31-google-approaches-disney-universal-and-warner-bros-discovery]] · [[2026-08-31-google-quietly-courts-hollywood-studios-for-ai-training-and]]
 <!-- graph:end -->

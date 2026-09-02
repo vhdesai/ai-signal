@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-08-google-photos-adds-a-new-ai-video-remix-tool
+- 2026-08-29-google-releases-gemini-omni-1-1-flash-for-controllable-video
 - 2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video
 - 2026-05-12-google-gemini-omni-video-model-reportedly-in-testing-ahead-o
-- 2026-05-19-gemini-omni-google-s-unified-any-to-any-multimodal-model-goe
 embedding_id: 2026-07-16-google-vids-adds-personal-ai-avatars-and-gemini-omni-video-g
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google updated Vids with personal AI avatars that can look and sound like the ac
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-08-google-photos-adds-a-new-ai-video-remix-tool]] · [[2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video]] · [[2026-05-12-google-gemini-omni-video-model-reportedly-in-testing-ahead-o]] · [[2026-05-19-gemini-omni-google-s-unified-any-to-any-multimodal-model-goe]]
+**Related:** [[2026-07-08-google-photos-adds-a-new-ai-video-remix-tool]] · [[2026-08-29-google-releases-gemini-omni-1-1-flash-for-controllable-video]] · [[2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video]] · [[2026-05-12-google-gemini-omni-video-model-reportedly-in-testing-ahead-o]]
 <!-- graph:end -->

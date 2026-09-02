@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 133
+member_count: 138
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 133 connected article(s).
+> Auto-generated entity hub. 138 connected article(s).
 
+- `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-08-29` [[2026-08-29-palantir-in-focus-after-court-strikes-down-pentagon-s-anthro|Palantir in focus after court strikes down Pentagon's Anthropic blacklist]]
+- `2026-08-29` [[2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta|Anthropic opens a research preview of the Model Hardware Standard for agents operating physical devices]]
+- `2026-08-28` [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social|MIT AI report calls for alternative grading and more social learning]]
+- `2026-08-27` [[2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto|The Enterprise Agent Risk Is Inter-Agent Complexity, Not Autonomy]]
 - `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-an-ai-robot-tax|Bill Gates calls for "human reserved" jobs and an AI/robot tax]]
 - `2026-08-25` [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc|Liquid AI Open-Sources Pipette, a Reproducible On-Device Benchmarking Suite]]
 - `2026-08-24` [[2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens|Georgia Tech AI governance through a visiting scholar’s lens]]

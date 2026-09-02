@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-mit-open-learning-debuted-universal-ai-described-as-a-pathwa
+- 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
+- 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
 - 2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil
 - 2026-03-28-mit-researchers-published-findings-on-a-new-training-approac
-- 2026-05-23-cmu-launches-learnvia-and-convenes-global-science-diplomacy
-- 2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d
 embedding_id: 2026-05-12-mit-launches-universal-ai-ai-powered-education-program-acces
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MIT Open Learning launched Universal AI, a new education initiative built around
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-13-mit-open-learning-debuted-universal-ai-described-as-a-pathwa]] · [[2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]] · [[2026-05-23-cmu-launches-learnvia-and-convenes-global-science-diplomacy]] · [[2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d]]
+**Related:** [[2026-05-13-mit-open-learning-debuted-universal-ai-described-as-a-pathwa]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]] · [[2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]]
 <!-- graph:end -->

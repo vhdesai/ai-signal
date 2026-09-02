@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 - 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
-- 2026-08-11-xiaomi-s-milm-plus-releases-prove-perception-aligned-object
+- 2026-08-30-time-to-first-token-benchmark-for-voice-and-realtime-agent-i
 embedding_id: 2026-07-20-apple-introduces-lvsum-benchmark-for-timestamp-aware-long-vi
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Apple published LVSum, a human-annotated benchmark for evaluating long-form vide
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-08-11-xiaomi-s-milm-plus-releases-prove-perception-aligned-object]]
+**Related:** [[2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-08-30-time-to-first-token-benchmark-for-voice-and-realtime-agent-i]]
 <!-- graph:end -->

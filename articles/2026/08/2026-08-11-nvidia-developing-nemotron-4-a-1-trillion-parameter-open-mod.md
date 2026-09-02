@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-11-nvidia-is-building-a-1-trillion-parameter-open-model-nemotro
 - 2026-08-11-nvidia-is-developing-a-1-trillion-parameter-nemotron-4-open
 - 2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet
-- 2026-08-11-nvidia-is-trying-to-develop-the-world-s-best-open-source-ai
+- 2026-08-28-open-weight-ai-companies-become-major-acquisition-targets
 embedding_id: 2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia is building a ~1T-parameter open-model family optimized for its own hardw
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-11-nvidia-developing-nemotron-4-a-1t-parameter-open-model]] · [[2026-08-11-nvidia-is-building-a-1-trillion-parameter-open-model-nemotro]] · [[2026-08-11-nvidia-is-developing-a-1-trillion-parameter-nemotron-4-open]] · [[2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet]] · [[2026-08-11-nvidia-is-trying-to-develop-the-world-s-best-open-source-ai]]
+**Related:** [[2026-08-11-nvidia-developing-nemotron-4-a-1t-parameter-open-model]] · [[2026-08-11-nvidia-is-building-a-1-trillion-parameter-open-model-nemotro]] · [[2026-08-11-nvidia-is-developing-a-1-trillion-parameter-nemotron-4-open]] · [[2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet]] · [[2026-08-28-open-weight-ai-companies-become-major-acquisition-targets]]
 <!-- graph:end -->

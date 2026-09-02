@@ -6,7 +6,7 @@ date: '2026-08-10'
 source: MacRumors
 url_original: https://www.macrumors.com/2026/08/10/apple-posts-guide-for-connecting-siri-to-qwen-ai/
 url_canonical: https://www.macrumors.com/2026/08/10/apple-posts-guide-for-connecting-siri-to-qwen-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-10_061806_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: b4a4bb644425c5b80d05364ff63f608534819fa57fddbfa08c9a48172f197e37

@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-06-12-openai-says-china-launched-influence-campaign-to-shape-u-s-a
 - 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
 - 2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom
+- 2026-08-28-axios-china-linked-bot-farm-stoking-us-opposition-to-ai-data
 - 2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic
-- 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 embedding_id: 2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI publicly accused China of launching an influence campaign targeting Ameri
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-12-openai-says-china-launched-influence-campaign-to-shape-u-s-a]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom]] · [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]]
+**Related:** [[2026-06-12-openai-says-china-launched-influence-campaign-to-shape-u-s-a]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom]] · [[2026-08-28-axios-china-linked-bot-farm-stoking-us-opposition-to-ai-data]] · [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]]
 <!-- graph:end -->

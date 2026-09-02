@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific
 - 2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st
+- 2026-08-27-benchmarking-agent-sandboxes-cold-start-per-second-pricing-n
 - 2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat
-- 2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s
 embedding_id: 2026-04-23-georgia-tech-and-ut-austin-release-open-benchmark-for-multi
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Researchers at Georgia Tech and UT Austin published MA-Bench, an evaluation suit
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific]] · [[2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st]] · [[2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat]] · [[2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s]]
+**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific]] · [[2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st]] · [[2026-08-27-benchmarking-agent-sandboxes-cold-start-per-second-pricing-n]] · [[2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat]]
 <!-- graph:end -->

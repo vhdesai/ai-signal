@@ -5,7 +5,7 @@ date: '2026-06-07'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/
 url_canonical: https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-08_071435_Final-Daily-AI-News-Digest.md
 content_hash: 67c4bf9ce1522451411465d451b3eb97d4a346f1206d9eab37aa13931f851b0c
 normalized_title_hash: dd6ee5d66d9ff77b

@@ -6,7 +6,7 @@ date: '2026-08-07'
 source: 404 Media
 url_original: https://www.404media.co/city-that-arrested-person-for-clapping-at-data-center-meeting-moves-to-virtual-townhalls-for-public-safety/
 url_canonical: https://www.404media.co/city-that-arrested-person-for-clapping-at-data-center-meeting-moves-to-virtual-townhalls-for-public-safety/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-09_060558_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 9d0cf50dfadda34016356b3e27cc183783627a4fdfea3d1b1b00ffb5cfcf6b2f

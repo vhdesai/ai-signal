@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=ChatGPT%201%20billion%20weekly%20active%20users
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=ChatGPT%201%20billion%20weekly%20active%20users
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - July
   30, 2026 (Revised).md
 content_hash: 1d78d019ed857da2a4263edf77d717cd7f7090d3d2d0a156de87efb2a159196c
@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-31-openai-s-chatgpt-advertising-business-reaches-1b-annualized
+- 2026-08-27-openai-begins-showing-ads-on-chatgpt-in-india-its-largest-no
 - 2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million
-- 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
-- 2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses
-- 2026-08-27-openai-to-start-showing-ads-on-chatgpt-free-and-go-tiers-in
-- 2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti
+- 2026-08-27-openai-begins-showing-ads-on-chatgpt-s-free-and-go-tiers-in
+- 2026-08-31-openai-s-chatgpt-ads-business-reaches-1b-annualized-run-rate
 embedding_id: 2026-07-29-chatgpt-nears-1-billion-weekly-active-users
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI’s ChatGPT is nearing 1 billion weekly active users, according to intern
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million]] · [[2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re]] · [[2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses]] · [[2026-08-27-openai-to-start-showing-ads-on-chatgpt-free-and-go-tiers-in]] · [[2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti]]
+**Related:** [[2026-08-31-openai-s-chatgpt-advertising-business-reaches-1b-annualized]] · [[2026-08-27-openai-begins-showing-ads-on-chatgpt-in-india-its-largest-no]] · [[2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million]] · [[2026-08-27-openai-begins-showing-ads-on-chatgpt-s-free-and-go-tiers-in]] · [[2026-08-31-openai-s-chatgpt-ads-business-reaches-1b-annualized-run-rate]]
 <!-- graph:end -->

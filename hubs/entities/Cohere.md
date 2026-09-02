@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Cohere
-member_count: 13
+member_count: 16
 ---
 
 # Cohere
 
-> Auto-generated entity hub. 13 connected article(s).
+> Auto-generated entity hub. 16 connected article(s).
 
+- `2026-08-28` [[2026-08-28-cohere-parse-5-reportedly-prioritizes-cost-per-page-over-ben|Cohere Parse 5 reportedly prioritizes cost per page over benchmark wins]]
+- `2026-08-27` [[2026-08-27-cohere-releases-parse-5-a-2-3b-vision-language-model-for-ent|Cohere releases Parse 5, a 2.3B vision-language model for enterprise documents]]
+- `2026-08-27` [[2026-08-27-cohere-ships-parse-5-a-2-3b-vision-language-model-for-enterp|Cohere Ships Parse 5, a 2.3B Vision-Language Model for Enterprise Document Ingestion]]
 - `2026-08-07` [[2026-08-07-aws-details-how-cohere-health-digitizes-clinical-policies-us|AWS Details How Cohere Health Digitizes Clinical Policies Using Bedrock AgentCore]]
 - `2026-08-06` [[2026-08-06-google-execs-searching-for-the-exit|Google Execs Searching for the Exit]]
 - `2026-05-27` [[2026-05-27-the-week-that-reset-the-ai-industry|The Week That Reset the AI Industry]]

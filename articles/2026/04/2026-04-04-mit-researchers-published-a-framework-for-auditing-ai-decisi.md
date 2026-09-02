@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-02-new-mit-releases-ai-fairness-evaluation-framework-apr-2-mit
 - 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
 - 2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa
-- 2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci
+- 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
 embedding_id: 2026-04-04-mit-researchers-published-a-framework-for-auditing-ai-decisi
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT researchers published a framework for auditing AI decision-support systems f
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-02-mit-researchers-published-a-testing-framework-that-identifie]] · [[2026-04-02-new-mit-releases-ai-fairness-evaluation-framework-apr-2-mit]] · [[2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy]] · [[2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa]] · [[2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci]]
+**Related:** [[2026-04-02-mit-researchers-published-a-testing-framework-that-identifie]] · [[2026-04-02-new-mit-releases-ai-fairness-evaluation-framework-apr-2-mit]] · [[2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy]] · [[2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa]] · [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]]
 <!-- graph:end -->

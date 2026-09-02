@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-14-ibm-plunges-25-on-q2-warning-as-enterprise-budgets-pivot-to
+- 2026-08-30-ai-is-putting-pressure-on-corporate-it-budgets
 - 2026-07-29-ai-shifts-mainframe-modernization-strategy
-- 2026-07-18-ibm-ceo-faces-investor-scrutiny-as-ai-spending-shifts
 embedding_id: 2026-07-22-ibm-says-ai-hardware-cost-pressure-delayed-mainframe-purchas
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TechCrunch reports that IBM's quarterly results missed expectations after mainfr
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-14-ibm-plunges-25-on-q2-warning-as-enterprise-budgets-pivot-to]] · [[2026-07-29-ai-shifts-mainframe-modernization-strategy]] · [[2026-07-18-ibm-ceo-faces-investor-scrutiny-as-ai-spending-shifts]]
+**Related:** [[2026-07-14-ibm-plunges-25-on-q2-warning-as-enterprise-budgets-pivot-to]] · [[2026-08-30-ai-is-putting-pressure-on-corporate-it-budgets]] · [[2026-07-29-ai-shifts-mainframe-modernization-strategy]]
 <!-- graph:end -->

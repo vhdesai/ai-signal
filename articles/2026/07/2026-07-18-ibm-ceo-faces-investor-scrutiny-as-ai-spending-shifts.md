@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
 - 2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc
+- 2026-08-30-ai-is-putting-pressure-on-corporate-it-budgets
 - 2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it
 - 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
-- 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
 embedding_id: 2026-07-18-ibm-ceo-faces-investor-scrutiny-as-ai-spending-shifts
 event_name: ''
 ---
@@ -40,5 +40,5 @@ WSJ reports that IBM CEO Arvind Krishna has “nowhere to hide” from AI after 
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it]] · [[2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]]
+**Related:** [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-08-30-ai-is-putting-pressure-on-corporate-it-budgets]] · [[2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it]] · [[2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending]]
 <!-- graph:end -->

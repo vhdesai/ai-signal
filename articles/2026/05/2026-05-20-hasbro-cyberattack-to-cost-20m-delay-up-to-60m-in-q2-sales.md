@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-29-ibm-s-2026-cost-of-a-data-breach-report-ai-now-appears-in-on
 - 2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen
-- 2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor
-- 2026-08-26-meta-reaches-18-billion-settlement-with-48-states-over-child
-- 2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4
+- 2026-08-29-130b-in-data-center-projects-blocked-or-delayed-in-q1-alone
+- 2026-08-28-nvidia-pauses-its-36b-ai-cloud-revenue-share-financing-progr
+- 2026-08-28-nvidia-36b-ai-compute-partnership-paused-company-disputes
 embedding_id: 2026-05-20-hasbro-cyberattack-to-cost-20m-delay-up-to-60m-in-q2-sales
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Hasbro disclosed that its March data breach will cost roughly $20 million in leg
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-ibm-s-2026-cost-of-a-data-breach-report-ai-now-appears-in-on]] · [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor]] · [[2026-08-26-meta-reaches-18-billion-settlement-with-48-states-over-child]] · [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4]]
+**Related:** [[2026-07-29-ibm-s-2026-cost-of-a-data-breach-report-ai-now-appears-in-on]] · [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-08-29-130b-in-data-center-projects-blocked-or-delayed-in-q1-alone]] · [[2026-08-28-nvidia-pauses-its-36b-ai-cloud-revenue-share-financing-progr]] · [[2026-08-28-nvidia-36b-ai-compute-partnership-paused-company-disputes]]
 <!-- graph:end -->

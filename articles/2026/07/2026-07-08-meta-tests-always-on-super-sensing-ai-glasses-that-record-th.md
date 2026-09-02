@@ -24,9 +24,9 @@ dedupe_status: duplicate
 canonical_article_id: 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
 related_article_ids:
 - 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
+- 2026-08-28-meta-closes-smart-glasses-recording-loophole-launches-privac
 - 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
 - 2026-07-13-meta-patent-describes-an-always-listening-ai-that-infers-and
-- 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
 embedding_id: 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Meta is testing a prototype AI headset with “Super Sensing” that uses a came
 **Entities:** [[Meta]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]]
-**Related:** [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-07-13-meta-patent-describes-an-always-listening-ai-that-infers-and]] · [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]]
+**Related:** [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-08-28-meta-closes-smart-glasses-recording-loophole-launches-privac]] · [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-07-13-meta-patent-describes-an-always-listening-ai-that-infers-and]]
 <!-- graph:end -->

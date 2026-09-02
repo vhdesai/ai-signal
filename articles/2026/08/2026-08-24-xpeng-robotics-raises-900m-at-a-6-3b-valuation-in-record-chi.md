@@ -6,7 +6,7 @@ date: '2026-08-24'
 source: Reuters
 url_original: https://finance.yahoo.com/technology/articles/xpeng-says-robotics-business-raised-094034493.html
 url_canonical: https://finance.yahoo.com/technology/articles/xpeng-says-robotics-business-raised-094034493.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-24_085500_Final-Daily-AI-News-Digest.md
 content_hash: 7345278825d0cf355c1037ae4b593149ff900d86bbd3b2d710a95333f50b09f7
 normalized_title_hash: 595d3f10c398c06b

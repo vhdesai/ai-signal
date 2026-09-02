@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Google DeepMind Blog · Google DeepMind
 url_original: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/
 url_canonical: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 79d4d4537b9b5bf8d8edff8a15d35b52c50a7c14c1d0f338950700c4e41402ad
@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-27-google-launches-gemini-3-5-transcribe-speech-to-text-model
+- 2026-08-27-google-releases-gemini-3-5-transcribe-with-2-6-average-word
 - 2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-and-pre
 - 2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-speech-t
 - 2026-08-26-google-launches-gemini-3-5-transcribe-its-most-precise-speec
-- 2026-08-26-google-releases-gemini-3-5-transcribe-85-languages-speaker-a
-- 2026-05-14-google-gemini-3-1-ultra-ships-with-2m-token-context-and-nati
 embedding_id: 2026-08-26-google-deepmind-ships-gemini-3-5-transcribe-with-2-6-word-er
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Gemini 3.5 Transcribe is a speech-to-text model with built-in self-correction ha
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-and-pre]] · [[2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-speech-t]] · [[2026-08-26-google-launches-gemini-3-5-transcribe-its-most-precise-speec]] · [[2026-08-26-google-releases-gemini-3-5-transcribe-85-languages-speaker-a]] · [[2026-05-14-google-gemini-3-1-ultra-ships-with-2m-token-context-and-nati]]
+**Related:** [[2026-08-27-google-launches-gemini-3-5-transcribe-speech-to-text-model]] · [[2026-08-27-google-releases-gemini-3-5-transcribe-with-2-6-average-word]] · [[2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-and-pre]] · [[2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-speech-t]] · [[2026-08-26-google-launches-gemini-3-5-transcribe-its-most-precise-speec]]
 <!-- graph:end -->

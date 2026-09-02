@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/
 url_canonical: https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_065039_Final-Daily-AI-News-Digest.md
 content_hash: 0490a9cae7cba2546c07ded7210420ee220da6e0a107d3f0a60cb5b818c07a88
 normalized_title_hash: 4091e0467ce7d97f
@@ -18,14 +18,9 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-26-amazon-triples-its-nvidia-gpu-commitment-adding-2-million-ch
-- 2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through
-- 2026-08-26-amazon-triples-its-nvidia-gpu-order-adding-2-million-chips
-- 2026-08-26-amazon-triples-nvidia-gpu-order-adding-2m-chips-including-ru
-- 2026-08-26-aws-and-nvidia-to-deploy-two-million-additional-gpus-across
+dedupe_status: duplicate
+canonical_article_id: 2026-08-26-amazon-triples-its-nvidia-chip-order-over-surging-demand
+related_article_ids: []
 embedding_id: 2026-08-26-amazon-triples-its-nvidia-gpu-commitment-2-million-chips-thr
 event_name: ''
 ---
@@ -39,5 +34,5 @@ Announced on Nvidia's earnings call, the expanded partnership adds roughly 2 mil
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-26-amazon-triples-its-nvidia-gpu-commitment-adding-2-million-ch]] · [[2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through]] · [[2026-08-26-amazon-triples-its-nvidia-gpu-order-adding-2-million-chips]] · [[2026-08-26-amazon-triples-nvidia-gpu-order-adding-2m-chips-including-ru]] · [[2026-08-26-aws-and-nvidia-to-deploy-two-million-additional-gpus-across]]
+**Canonical:** [[2026-08-26-amazon-triples-its-nvidia-chip-order-over-surging-demand]]
 <!-- graph:end -->

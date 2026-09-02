@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-01-supabase-releases-an-open-benchmark-for-claude-code-codex-an
 - 2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific
-- 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
+- 2026-08-27-benchmarking-agent-sandboxes-cold-start-per-second-pricing-n
 embedding_id: 2026-08-03-supabase-s-benchmark-matters-because-it-evaluates-coding-age
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Supabase’s benchmark matters because it evaluates coding agents on real reposi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-01-supabase-releases-an-open-benchmark-for-claude-code-codex-an]] · [[2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]]
+**Related:** [[2026-08-01-supabase-releases-an-open-benchmark-for-claude-code-codex-an]] · [[2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific]] · [[2026-08-27-benchmarking-agent-sandboxes-cold-start-per-second-pricing-n]]
 <!-- graph:end -->

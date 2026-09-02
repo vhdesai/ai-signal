@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/
 url_canonical: https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-11_061544_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: e938e68ec2244b66bff0d637020cccdd3837f2cc1cda8176a715cc6d34fecd24
@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de
+- 2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 embedding_id: 2026-07-10-u-s-officials-urge-ai-memory-suppliers-to-build-domestic-fab
@@ -36,5 +37,5 @@ In coverage of SK Hynix’s record listing, U.S. officials pressed SK Hynix and 
 
 **Entities:** [[Samsung]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]]
+**Related:** [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]] · [[2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]]
 <!-- graph:end -->

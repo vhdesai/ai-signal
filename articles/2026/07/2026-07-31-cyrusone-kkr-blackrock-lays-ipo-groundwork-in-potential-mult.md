@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-31-cyrusone-prepares-ipo-groundwork-as-ai-data-center-demand-ke
 - 2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin
 - 2026-08-14-databricks-closes-5b-at-a-190b-valuation-as-annualized-reven
+- 2026-08-29-the-ipo-s-big-demotion-blue-collar-tech-drives-deals
 - 2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data
-- 2026-05-02-openai-cfo-sarah-friar-said-to-have-privately-advocated-dela
 embedding_id: 2026-07-31-cyrusone-kkr-blackrock-lays-ipo-groundwork-in-potential-mult
 event_name: ''
 ---
@@ -37,5 +37,5 @@ CyrusOne is reportedly preparing to hire banks for what could become one of next
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-31-cyrusone-prepares-ipo-groundwork-as-ai-data-center-demand-ke]] · [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]] · [[2026-08-14-databricks-closes-5b-at-a-190b-valuation-as-annualized-reven]] · [[2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data]] · [[2026-05-02-openai-cfo-sarah-friar-said-to-have-privately-advocated-dela]]
+**Related:** [[2026-07-31-cyrusone-prepares-ipo-groundwork-as-ai-data-center-demand-ke]] · [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]] · [[2026-08-14-databricks-closes-5b-at-a-190b-valuation-as-annualized-reven]] · [[2026-08-29-the-ipo-s-big-demotion-blue-collar-tech-drives-deals]] · [[2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data]]
 <!-- graph:end -->

@@ -28,10 +28,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl
+- 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 - 2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci
-- 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
 embedding_id: 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Georgia Tech AI Tutor "TokenSmith" Outperforms Human TAs in Randomized Controlle
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl]] · [[2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]]
+**Related:** [[2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci]]
 <!-- graph:end -->

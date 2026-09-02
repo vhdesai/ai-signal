@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/
 url_canonical: https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 484cb6882e29b25d2f7165176495d3f0575fda2ab346480bfea6d589b00b6963
 normalized_title_hash: a54441a2dbfe8e71
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-16-anthropic-has-begun-requiring-government-id-verification-via
 - 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
+- 2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte
 - 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
 - 2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions
-- 2026-08-21-anthropic-watermarks-claude-s-writing-some-users-cancel-subs
 embedding_id: 2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A revised privacy policy (effective July 8) states Anthropic may request governm
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-16-anthropic-has-begun-requiring-government-id-verification-via]] · [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions]] · [[2026-08-21-anthropic-watermarks-claude-s-writing-some-users-cancel-subs]]
+**Related:** [[2026-04-16-anthropic-has-begun-requiring-government-id-verification-via]] · [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]] · [[2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions]]
 <!-- graph:end -->

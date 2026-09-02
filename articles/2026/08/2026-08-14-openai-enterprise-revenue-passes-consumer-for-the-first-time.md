@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-14-openai-says-enterprise-revenue-has-overtaken-chatgpt-consume
 - 2026-08-15-openai-s-enterprise-revenue-tops-consumer-for-the-first-time
 - 2026-08-14-openai-passes-40b-run-rate-enterprise-now-larger-than-consum
-- 2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo
+- 2026-08-31-openai-s-chatgpt-ads-business-reaches-1b-annualized-run-rate
 embedding_id: 2026-08-14-openai-enterprise-revenue-passes-consumer-for-the-first-time
 event_name: ''
 ---
@@ -37,5 +37,5 @@ CFO Sarah Friar told investors that enterprise revenue now exceeds ChatGPT consu
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-14-openai-says-enterprise-revenue-has-overtaken-chatgpt-consume]] · [[2026-08-15-openai-s-enterprise-revenue-tops-consumer-for-the-first-time]] · [[2026-08-14-openai-passes-40b-run-rate-enterprise-now-larger-than-consum]] · [[2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo]]
+**Related:** [[2026-08-14-openai-says-enterprise-revenue-has-overtaken-chatgpt-consume]] · [[2026-08-15-openai-s-enterprise-revenue-tops-consumer-for-the-first-time]] · [[2026-08-14-openai-passes-40b-run-rate-enterprise-now-larger-than-consum]] · [[2026-08-31-openai-s-chatgpt-ads-business-reaches-1b-annualized-run-rate]]
 <!-- graph:end -->

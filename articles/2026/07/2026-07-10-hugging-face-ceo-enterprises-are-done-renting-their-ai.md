@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
 - 2026-08-17-business-insider-the-hottest-ai-models-aren-t-the-ones-devel
 - 2026-06-27-asian-labs-rush-out-mythos-class-rivals-as-the-u-s-export-ba
-- 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
+- 2026-08-28-open-weight-ai-companies-become-major-acquisition-targets
 embedding_id: 2026-07-10-hugging-face-ceo-enterprises-are-done-renting-their-ai
 event_name: ''
 ---
@@ -40,5 +40,5 @@ On TechCrunch's Equity podcast, Hugging Face CEO Clem Delangue argued that open-
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-08-17-business-insider-the-hottest-ai-models-aren-t-the-ones-devel]] · [[2026-06-27-asian-labs-rush-out-mythos-class-rivals-as-the-u-s-export-ba]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]]
+**Related:** [[2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-08-17-business-insider-the-hottest-ai-models-aren-t-the-ones-devel]] · [[2026-06-27-asian-labs-rush-out-mythos-class-rivals-as-the-u-s-export-ba]] · [[2026-08-28-open-weight-ai-companies-become-major-acquisition-targets]]
 <!-- graph:end -->

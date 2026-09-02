@@ -5,7 +5,7 @@ date: '2026-06-10'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/
 url_canonical: https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-11_070054_Final-Daily-AI-News-Digest.md
 content_hash: b284232dddd3fc438b7eaa2fa6b7113f24afad093bcd4ab0177f892c578d9063
 normalized_title_hash: 6c9b3ac6e930e1bb
@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-10-xai-fired-engineer-who-raised-grok-safety-alarms-new-lawsuit
 - 2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok
+- 2026-08-28-xai-faces-child-safety-lawsuits-over-grok-imagery-and-counte
 - 2026-08-20-grok-sends-gibberish-responses-amid-xai-staff-exodus
 - 2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam
-- 2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover
 embedding_id: 2026-06-10-xai-fired-engineer-who-raised-grok-safety-alarms-lawsuit-cla
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A former xAI engineer filed a lawsuit claiming he was fired for raising safety c
 
 **Entities:** [[Google]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-10-xai-fired-engineer-who-raised-grok-safety-alarms-new-lawsuit]] · [[2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok]] · [[2026-08-20-grok-sends-gibberish-responses-amid-xai-staff-exodus]] · [[2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam]] · [[2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover]]
+**Related:** [[2026-06-10-xai-fired-engineer-who-raised-grok-safety-alarms-new-lawsuit]] · [[2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok]] · [[2026-08-28-xai-faces-child-safety-lawsuits-over-grok-imagery-and-counte]] · [[2026-08-20-grok-sends-gibberish-responses-amid-xai-staff-exodus]] · [[2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam]]
 <!-- graph:end -->

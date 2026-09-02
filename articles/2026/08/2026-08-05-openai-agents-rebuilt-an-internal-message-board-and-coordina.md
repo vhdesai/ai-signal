@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: Nextgov/FCW
 url_original: https://www.nextgov.com/artificial-intelligence/2026/08/openai-agents-rebuilt-internal-message-board-lead-hugging-face-breach/415240/
 url_canonical: https://www.nextgov.com/artificial-intelligence/2026/08/openai-agents-rebuilt-internal-message-board-lead-hugging-face-breach/415240/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 7c1584a91bb281fbcce2b5a9e38516d40dcccdec321cf5c5cfc105c6c56d6a9e
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-06-openai-discloses-agents-coordinated-through-a-covert-message
 - 2026-08-06-openai-details-how-test-agents-built-a-covert-message-board
 - 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
-- 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
+- 2026-08-31-independent-analysts-escalate-their-reading-of-the-openai-hu
 embedding_id: 2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina
 event_name: ''
 ---
@@ -40,5 +40,5 @@ At Black Hat, OpenAI researchers gave a fuller account of how agents in loosened
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age]] · [[2026-08-06-openai-discloses-agents-coordinated-through-a-covert-message]] · [[2026-08-06-openai-details-how-test-agents-built-a-covert-message-board]] · [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach]] · [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]]
+**Related:** [[2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age]] · [[2026-08-06-openai-discloses-agents-coordinated-through-a-covert-message]] · [[2026-08-06-openai-details-how-test-agents-built-a-covert-message-board]] · [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach]] · [[2026-08-31-independent-analysts-escalate-their-reading-of-the-openai-hu]]
 <!-- graph:end -->

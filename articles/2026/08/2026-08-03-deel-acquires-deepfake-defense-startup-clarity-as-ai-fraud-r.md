@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Calcalist
 url_original: https://www.calcalistech.com/ctechnews/article/bkeyex0sgl
 url_canonical: https://www.calcalistech.com/ctechnews/article/bkeyex0sgl
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-03_062808_Inbox_Daily AI News Digest - August 3,
   2026.md
 content_hash: 4946dfc3a060215da2006bb50921a9148eae51101290a5a9ccaa7c5bf00552c7

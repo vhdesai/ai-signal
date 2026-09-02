@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say
 - 2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens
+- 2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value
 - 2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt
 - 2026-08-26-nvidia-s-blowout-q2-leaves-investors-unmoved-279-billion-sup
-- 2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-to-108b-shares-sli
 embedding_id: 2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Nvidia reported Q1 FY2027 revenue of $81.62B (vs. $78.86B estimate) and adj. EPS
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt]] · [[2026-08-26-nvidia-s-blowout-q2-leaves-investors-unmoved-279-billion-sup]] · [[2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-to-108b-shares-sli]]
+**Related:** [[2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value]] · [[2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt]] · [[2026-08-26-nvidia-s-blowout-q2-leaves-investors-unmoved-279-billion-sup]]
 <!-- graph:end -->

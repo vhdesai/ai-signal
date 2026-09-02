@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-08-03-amazon-completes-additional-35-billion-investment-in-openai
 - 2026-08-03-amazon-completes-another-35b-investment-in-openai
 - 2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending
+- 2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a
 embedding_id: 2026-08-03-a-35-billion-tranche-dramatically-raises-the-ceiling-for-pla
 event_name: ''
 ---
@@ -37,5 +38,5 @@ A $35 billion tranche dramatically raises the ceiling for platform financing and
 
 **Entities:** [[Amazon]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-03-amazon-completes-additional-35-billion-investment-in-openai]] · [[2026-08-03-amazon-completes-another-35b-investment-in-openai]] · [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]]
+**Related:** [[2026-08-03-amazon-completes-additional-35-billion-investment-in-openai]] · [[2026-08-03-amazon-completes-another-35b-investment-in-openai]] · [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]] · [[2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a]]
 <!-- graph:end -->

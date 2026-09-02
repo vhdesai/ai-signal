@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-06-26-this-paper-examines-prompt-injection-attacks-against-llm-bas
 - 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
 - 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
+- 2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono
 embedding_id: 2026-06-29-venturebeat-details-how-prompt-injection-remains-the-top-ent
 event_name: ''
 ---
@@ -38,5 +39,5 @@ VentureBeat details how prompt injection remains the top enterprise-AI attack ve
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-28-prompt-injection-named-the-top-enterprise-ai-attack-vector-a]] · [[2026-06-26-this-paper-examines-prompt-injection-attacks-against-llm-bas]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]]
+**Related:** [[2026-06-28-prompt-injection-named-the-top-enterprise-ai-attack-vector-a]] · [[2026-06-26-this-paper-examines-prompt-injection-attacks-against-llm-bas]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono]]
 <!-- graph:end -->

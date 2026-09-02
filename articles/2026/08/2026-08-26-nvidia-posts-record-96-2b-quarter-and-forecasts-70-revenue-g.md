@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html
 url_canonical: https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_060153_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 9c89ec1bf455e7b31a89032e53ce3d4452144f7f227b38414c13ca4ce2575532

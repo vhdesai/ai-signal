@@ -5,7 +5,7 @@ date: '2026-05-29'
 source: The Register
 url_original: https://www.theregister.com/ai-ml/2026/05/29/aws_reportedly_to_tuck_elon/
 url_canonical: https://www.theregister.com/ai-ml/2026/05/29/aws_reportedly_to_tuck_elon/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-31_163748_Daily-AI-News-Digest.md
 content_hash: 9a8ba4716ef5feddfc97dbb4e0258ec677b0141ef996584749bd5af1272f5bb3
 normalized_title_hash: d164b896dba8b4db
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon
 - 2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk
 - 2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock
-- 2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta
+- 2026-08-31-aws-broadens-bedrock-model-roster-with-anthropic-meta-and-op
 embedding_id: 2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Business Insider reported, and The Register analyzed, that AWS is in talks to ad
 
 **Entities:** [[Amazon]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-19-grok-4-6-reaches-general-availability-on-amazon-bedrock]] · [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk]] · [[2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock]] · [[2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta]]
+**Related:** [[2026-08-19-grok-4-6-reaches-general-availability-on-amazon-bedrock]] · [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk]] · [[2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock]] · [[2026-08-31-aws-broadens-bedrock-model-roster-with-anthropic-meta-and-op]]
 <!-- graph:end -->

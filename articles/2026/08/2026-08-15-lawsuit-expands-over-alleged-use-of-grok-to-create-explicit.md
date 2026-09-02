@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-15-new-plaintiff-joins-federal-class-action-over-grok-generated
 - 2026-08-15-fourth-plaintiff-joins-federal-class-action-over-grok-genera
-- 2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of
+- 2026-08-28-xai-faces-child-safety-lawsuits-over-grok-imagery-and-counte
 embedding_id: 2026-08-15-lawsuit-expands-over-alleged-use-of-grok-to-create-explicit
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A woman identified as Jane Doe 4 joined a lawsuit against xAI alleging that Grok
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-15-new-plaintiff-joins-federal-class-action-over-grok-generated]] · [[2026-08-15-fourth-plaintiff-joins-federal-class-action-over-grok-genera]] · [[2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of]]
+**Related:** [[2026-08-15-new-plaintiff-joins-federal-class-action-over-grok-generated]] · [[2026-08-15-fourth-plaintiff-joins-federal-class-action-over-grok-genera]] · [[2026-08-28-xai-faces-child-safety-lawsuits-over-grok-imagery-and-counte]]
 <!-- graph:end -->

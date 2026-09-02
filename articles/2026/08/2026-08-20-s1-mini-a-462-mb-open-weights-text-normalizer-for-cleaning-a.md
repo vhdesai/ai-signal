@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/20/meet-s1-mini-superwhispers-462-mb-open-weights-text-normalizer-that-turns-raw-asr-transcripts-into-clean-written-text/
 url_canonical: https://www.marktechpost.com/2026/08/20/meet-s1-mini-superwhispers-462-mb-open-weights-text-normalizer-that-turns-raw-asr-transcripts-into-clean-written-text/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: e852b234245c45c563500d927644dbea29766fbdab466983bb8235b4fbc1ffb8

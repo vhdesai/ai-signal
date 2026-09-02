@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono
 - 2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9
 - 2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models
 - 2026-08-15-evaluation-harness-finds-ai-models-can-be-most-confident-whe
 - 2026-08-20-one-in-five-enterprises-cannot-halt-a-runaway-ai-agent-s-spe
-- 2026-08-20-one-in-five-enterprises-can-t-stop-a-runaway-ai-agent-s-spen
 embedding_id: 2026-07-23-multi-turn-ai-attacks-reportedly-break-models-88-of-the-time
 event_name: ''
 ---
@@ -38,5 +38,5 @@ VentureBeat reports that multi-turn attacks can bypass model defenses 88% of the
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9]] · [[2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models]] · [[2026-08-15-evaluation-harness-finds-ai-models-can-be-most-confident-whe]] · [[2026-08-20-one-in-five-enterprises-cannot-halt-a-runaway-ai-agent-s-spe]] · [[2026-08-20-one-in-five-enterprises-can-t-stop-a-runaway-ai-agent-s-spen]]
+**Related:** [[2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono]] · [[2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9]] · [[2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models]] · [[2026-08-15-evaluation-harness-finds-ai-models-can-be-most-confident-whe]] · [[2026-08-20-one-in-five-enterprises-cannot-halt-a-runaway-ai-agent-s-spe]]
 <!-- graph:end -->

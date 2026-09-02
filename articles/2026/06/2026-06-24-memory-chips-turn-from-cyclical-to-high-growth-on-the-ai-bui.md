@@ -5,7 +5,7 @@ date: '2026-06-24'
 source: Forbes
 url_original: https://www.forbes.com/sites/rashishrivastava/2026/06/24/the-worlds-largest-tech-companies-memory-chips-skyrocket-amid-ai-data-center-buildout/
 url_canonical: https://www.forbes.com/sites/rashishrivastava/2026/06/24/the-worlds-largest-tech-companies-memory-chips-skyrocket-amid-ai-data-center-buildout/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-25_062805_Inbox_Daily AI News Digest - June 25,
   2026.md
 content_hash: d141f55262d142eb66740a4899adbb38ed62b6493329b716acfe80c88e315dad
@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th
 - 2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
+- 2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth
 - 2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele
-- 2026-07-13-semiconductors-earnings-ai-supply-chain
 embedding_id: 2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Forbes details how the trillion-dollar data-center land grab has transformed mem
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th]] · [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]] · [[2026-07-13-semiconductors-earnings-ai-supply-chain]]
+**Related:** [[2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th]] · [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth]] · [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]]
 <!-- graph:end -->

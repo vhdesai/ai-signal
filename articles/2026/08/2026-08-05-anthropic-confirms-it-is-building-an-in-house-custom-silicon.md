@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: Unite.AI
 url_original: https://www.unite.ai/anthropic-confirms-it-is-building-an-in-house-silicon-team-for-claude/
 url_canonical: https://www.unite.ai/anthropic-confirms-it-is-building-an-in-house-silicon-team-for-claude/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_061505_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 758c4f36d93a36a05bf46ac12f04e15cb3388fbfce5a466d58e74d16d7b36f75

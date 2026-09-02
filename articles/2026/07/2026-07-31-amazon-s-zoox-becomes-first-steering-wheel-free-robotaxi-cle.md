@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Engadget
 url_original: https://www.engadget.com/2227649/amazon-zoox-first-steering-wheel-free-robotaxi-regulatory-approval-paid-rides/
 url_canonical: https://www.engadget.com/2227649/amazon-zoox-first-steering-wheel-free-robotaxi-regulatory-approval-paid-rides/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-01_061911_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 4998e317311a262f1e283488d41bbe209aba9e2d626ec8b4a21806c2760bb5d1
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-24-amazon-s-zoox-unveils-redesigned-robotaxi-ahead-of-commercia
 - 2026-08-17-tesla-readies-august-launch-of-cybercab-its-first-robotaxi-w
 - 2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo
-- 2026-08-24-tesla-sets-september-3-cybercab-launch-event-in-austin
+- 2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee
 embedding_id: 2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The NHTSA granted Amazon's Zoox permission to charge for rides in its purpose-bu
 
 **Entities:** [[Amazon]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-31-amazon-s-zoox-wins-first-u-s-approval-for-paid-robotaxis-wit]] · [[2026-06-24-amazon-s-zoox-unveils-redesigned-robotaxi-ahead-of-commercia]] · [[2026-08-17-tesla-readies-august-launch-of-cybercab-its-first-robotaxi-w]] · [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo]] · [[2026-08-24-tesla-sets-september-3-cybercab-launch-event-in-austin]]
+**Related:** [[2026-07-31-amazon-s-zoox-wins-first-u-s-approval-for-paid-robotaxis-wit]] · [[2026-06-24-amazon-s-zoox-unveils-redesigned-robotaxi-ahead-of-commercia]] · [[2026-08-17-tesla-readies-august-launch-of-cybercab-its-first-robotaxi-w]] · [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo]] · [[2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee]]
 <!-- graph:end -->

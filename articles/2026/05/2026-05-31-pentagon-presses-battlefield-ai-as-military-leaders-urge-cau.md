@@ -5,7 +5,7 @@ date: '2026-05-31'
 source: The Associated Press
 url_original: https://lasvegassun.com/news/2026/may/31/as-the-pentagon-pushes-for-battlefield-ai-some-mil/
 url_canonical: https://lasvegassun.com/news/2026/may/31/as-the-pentagon-pushes-for-battlefield-ai-some-mil/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-01_060804_Daily-AI-News-Digest.md
 content_hash: 7a04ef54aaaf98e379453f084a3f9bf1bcd53b494f740f436b6a916ba9b48301
 normalized_title_hash: dce5d6f4e4e81c3e
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai
 - 2026-06-02-trump-signs-narrower-than-expected-ai-executive-order
+- 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 - 2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven
-- 2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine
 embedding_id: 2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau
 event_name: ''
 ---
@@ -38,5 +38,5 @@ As Defense Secretary Pete Hegseth pushes to accelerate military AI adoption, the
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai]] · [[2026-06-02-trump-signs-narrower-than-expected-ai-executive-order]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]] · [[2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine]]
+**Related:** [[2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai]] · [[2026-06-02-trump-signs-narrower-than-expected-ai-executive-order]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]]
 <!-- graph:end -->

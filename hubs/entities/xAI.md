@@ -1,13 +1,28 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 332
+member_count: 347
 ---
 
 # xAI
 
-> Auto-generated entity hub. 332 connected article(s).
+> Auto-generated entity hub. 347 connected article(s).
 
+- `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-08-31` [[2026-08-31-pentagon-adopts-xai-s-grok-and-openai-s-chatgpt-for-unclassi|Pentagon Adopts xAI’s Grok and OpenAI’s ChatGPT for Unclassified Military Use]]
+- `2026-08-31` [[2026-08-31-openai-cuts-off-cursor-after-spacex-s-takeover-of-anysphere|OpenAI cuts off Cursor after SpaceX's takeover of Anysphere]]
+- `2026-08-31` [[2026-08-31-openai-cuts-off-cursor-after-spacex-s-60-billion-takeover|OpenAI cuts off Cursor after SpaceX's $60 billion takeover]]
+- `2026-08-31` [[2026-08-31-openai-cuts-off-cursor-after-spacex-s-60b-takeover-of-anysph|OpenAI Cuts Off Cursor After SpaceX's $60B Takeover of Anysphere]]
+- `2026-08-30` [[2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-power-carries-a-po|Musk's faster path to gas turbines for AI power carries a pollution problem]]
+- `2026-08-30` [[2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-compute-carries-en|Musk's faster path to gas turbines for AI compute carries environmental risk]]
+- `2026-08-30` [[2026-08-30-musk-bets-on-in-house-turbine-casting-to-accelerate-ai-power|Musk Bets on In-House Turbine Casting to Accelerate AI Power — With an Emissions Cost]]
+- `2026-08-29` [[2026-08-29-spacex-moves-to-build-turbine-blade-manufacturing-to-unlock|SpaceX moves to build turbine-blade manufacturing to unlock AI data-center power]]
+- `2026-08-29` [[2026-08-29-how-to-use-xai-s-grok-across-mac-iphone-and-ipad|How to use xAI's Grok across Mac, iPhone and iPad]]
+- `2026-08-29` [[2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta|Anthropic opens a research preview of the Model Hardware Standard for agents operating physical devices]]
+- `2026-08-28` [[2026-08-28-xai-faces-child-safety-lawsuits-over-grok-imagery-and-counte|xAI Faces Child-Safety Lawsuits Over Grok Imagery — and Countersues Its Own Users]]
+- `2026-08-28` [[2026-08-28-openai-to-wind-down-cursor-s-model-access-following-spacex-a|OpenAI to Wind Down Cursor’s Model Access Following SpaceX Acquisition]]
+- `2026-08-28` [[2026-08-28-openai-moves-to-cut-cursor-off-from-its-models-after-spacex|OpenAI Moves to Cut Cursor Off From Its Models After SpaceX Acquisition]]
+- `2026-08-28` [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social|MIT AI report calls for alternative grading and more social learning]]
 - `2026-08-26` [[2026-08-26-xai-markets-a-grok-trading-bot-with-a-limited-money-back-pro|xAI markets a Grok trading bot with a limited money-back promise]]
 - `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-an-ai-robot-tax|Bill Gates calls for "human reserved" jobs and an AI/robot tax]]
 - `2026-08-25` [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc|Liquid AI Open-Sources Pipette, a Reproducible On-Device Benchmarking Suite]]

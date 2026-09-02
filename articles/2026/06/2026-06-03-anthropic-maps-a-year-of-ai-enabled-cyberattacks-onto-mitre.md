@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: Anthropic
 url_original: https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack
 url_canonical: https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-04_071040_Final-Daily-AI-News-Digest.md
 content_hash: fbccfa690a2ab7a7afb67d193da22710f56d668adc930e58f7ebc9b21d17e39c
 normalized_title_hash: fb6977082bc3a396
@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-02-anthropic-expands-glasswing-to-200-partners-maps-year-of-ai
 - 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
+- 2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
-- 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
 embedding_id: 2026-06-03-anthropic-maps-a-year-of-ai-enabled-cyberattacks-onto-mitre
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic's Frontier Red Team analyzed 832 accounts banned for malicious cyber a
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-02-anthropic-expands-glasswing-to-200-partners-maps-year-of-ai]] · [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]]
+**Related:** [[2026-06-02-anthropic-expands-glasswing-to-200-partners-maps-year-of-ai]] · [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]]
 <!-- graph:end -->

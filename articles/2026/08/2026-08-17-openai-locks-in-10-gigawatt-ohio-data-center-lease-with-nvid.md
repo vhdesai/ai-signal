@@ -5,7 +5,7 @@ date: '2026-08-17'
 source: The Wall Street Journal**
 url_original: https://www.wsj.com/tech/openai-locks-in-lease-for-huge-data-center-in-ohio-with-backing-from-nvidia
 url_canonical: https://www.wsj.com/tech/openai-locks-in-lease-for-huge-data-center-in-ohio-with-backing-from-nvidia
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-17_065758_Final-Daily-AI-News-Digest.md
 content_hash: e3690657c8fde3caefd85178ed1a51367350b93076aeff64c7dcfe5ccac85152
 normalized_title_hash: cd3dc3fe0ebb18d8

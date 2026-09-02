@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: TechCrunch; Bloomberg; Fortune
 url_original: https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/
 url_canonical: https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: f8b12a2cbf107f07c13f3e81bc1f6107b090a6a15416e542c87948876a598265
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc
 - 2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a
 - 2026-08-07-airbnb-ai-cut-feature-launch-time-60-now-writes-60-of-code
-- 2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic
+- 2026-08-27-google-ai-mode-adds-flight-tracking-and-in-chat-hotel-bookin
 embedding_id: 2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Chesky announced plans for an AI lab focused on travel and hospitality AI — re
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc]] · [[2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a]] · [[2026-08-07-airbnb-ai-cut-feature-launch-time-60-now-writes-60-of-code]] · [[2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic]]
+**Related:** [[2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc]] · [[2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a]] · [[2026-08-07-airbnb-ai-cut-feature-launch-time-60-now-writes-60-of-code]] · [[2026-08-27-google-ai-mode-adds-flight-tracking-and-in-chat-hotel-bookin]]
 <!-- graph:end -->

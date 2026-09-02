@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-11-openai-considers-price-cuts-to-compete-with-anthropic
 - 2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga
 - 2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain
-- 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
+- 2026-08-31-google-takes-aim-at-anthropic-microsoft-with-budget-friendly
 embedding_id: 2026-06-11-openai-considers-drastic-price-cuts-to-compete-with-anthropi
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The WSJ reported OpenAI is considering significant price cuts to compete with An
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-11-openai-considers-price-cuts-to-compete-with-anthropic]] · [[2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga]] · [[2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]]
+**Related:** [[2026-06-11-openai-considers-price-cuts-to-compete-with-anthropic]] · [[2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga]] · [[2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain]] · [[2026-08-31-google-takes-aim-at-anthropic-microsoft-with-budget-friendly]]
 <!-- graph:end -->

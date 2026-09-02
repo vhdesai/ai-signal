@@ -5,7 +5,7 @@ date: '2026-07-15'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/
 url_canonical: https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-15_082850_Final-Daily-AI-News-Digest.md
 content_hash: 8d046db10961278f1c19d774759886e1cc0d079ad4e593d5110642458e93c10a
 normalized_title_hash: 373f51cd9fb8e2ef

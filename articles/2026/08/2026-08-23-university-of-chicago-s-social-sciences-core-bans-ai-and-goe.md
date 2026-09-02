@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work
 - 2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog
 - 2026-05-23-uc-berkeley-school-of-law-announced-it-will-prohibit-ai-use
+- 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-05-24-uc-berkeley-law-tightens-ai-rules-without-banning-the-techno
-- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 embedding_id: 2026-08-23-university-of-chicago-s-social-sciences-core-bans-ai-and-goe
 event_name: ''
 ---
@@ -38,5 +38,5 @@ UChicago’s Social Sciences Core will require students to read primarily on pap
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work]] · [[2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog]] · [[2026-05-23-uc-berkeley-school-of-law-announced-it-will-prohibit-ai-use]] · [[2026-05-24-uc-berkeley-law-tightens-ai-rules-without-banning-the-techno]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
+**Related:** [[2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work]] · [[2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog]] · [[2026-05-23-uc-berkeley-school-of-law-announced-it-will-prohibit-ai-use]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-05-24-uc-berkeley-law-tightens-ai-rules-without-banning-the-techno]]
 <!-- graph:end -->

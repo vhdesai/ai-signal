@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: SecurityWeek
 url_original: https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/
 url_canonical: https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-05_061510_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 72b21b17609bff82dba9cb11082843eab93ce8f1b14d6ba3213bb4f0b7ccd072

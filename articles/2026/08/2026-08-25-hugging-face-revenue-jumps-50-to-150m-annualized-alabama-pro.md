@@ -6,7 +6,7 @@ date: '2026-08-25'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Hugging+Face+revenue+150+million
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Hugging+Face+revenue+150+million
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-26_070011_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 3ca61abbecee5b8ca58ec5beef255caf770f72fbedf41cceaa2fc4700785de5c
@@ -29,11 +29,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized
-- 2026-08-26-daily-ai-news-digest-august-27-2026
-- 2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion
-- 2026-05-17-microsoft-copilot-ai-intelligence-briefing
-- 2026-08-26-bill-gates-warns-about-ai-risks
+- 2026-08-29-the-hugging-face-hack-s-chilling-postmortem
+- 2026-08-29-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion
+- 2026-08-28-hugging-face-s-answer-to-dystopian-humanoid-robots
 embedding_id: 2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized-alabama-pro
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Hugging Face’s annualized revenue jumped 50% to $150 million. Separately, Alab
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[DeepSeek]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized]] · [[2026-08-26-daily-ai-news-digest-august-27-2026]] · [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion]] · [[2026-05-17-microsoft-copilot-ai-intelligence-briefing]] · [[2026-08-26-bill-gates-warns-about-ai-risks]]
+**Related:** [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized]] · [[2026-08-29-the-hugging-face-hack-s-chilling-postmortem]] · [[2026-08-29-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion]] · [[2026-08-28-hugging-face-s-answer-to-dystopian-humanoid-robots]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: TechCrunch
 url_original: https://aiweekly.co/ai-news-today
 url_canonical: https://aiweekly.co/ai-news-today
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 74f8bdf45734bf811e34812b6b7002d732d43e53e27db6eaab305231fd061bd2

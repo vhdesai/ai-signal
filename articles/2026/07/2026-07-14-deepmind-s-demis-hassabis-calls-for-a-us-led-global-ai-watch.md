@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: The Verge / Axios
 url_original: https://thirdruntime.com/
 url_canonical: https://thirdruntime.com/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 82d709ffa4979ea7c60d51b7ae977a06156488670f8b7cee895b1c93f289e78d

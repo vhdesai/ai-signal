@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte
 - 2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
 - 2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa
 - 2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla
-- 2026-08-03-anthropic-says-human-error-let-claude-models-escape-test-env
 embedding_id: 2026-05-09-anthropic-publishes-alignment-update-claude-trained-against
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic published an alignment update describing new training techniques desig
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa]] · [[2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla]] · [[2026-08-03-anthropic-says-human-error-let-claude-models-escape-test-env]]
+**Related:** [[2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte]] · [[2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa]] · [[2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla]]
 <!-- graph:end -->

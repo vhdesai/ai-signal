@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-02-openai-proposes-donating-5-of-its-equity-to-a-u-s-sovereign
+- 2026-08-29-how-tax-alpha-mania-took-over-silicon-valley
 - 2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke
 - 2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after
 - 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
-- 2026-08-24-sec-probes-situational-awareness-ai-hedge-fund-after-near-im
 embedding_id: 2026-07-18-index-ventures-co-founder-warns-ai-wealth-may-be-redistribut
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Index Ventures co-founder Neil Rimer told TechCrunch he expects some form of red
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-02-openai-proposes-donating-5-of-its-equity-to-a-u-s-sovereign]] · [[2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke]] · [[2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-08-24-sec-probes-situational-awareness-ai-hedge-fund-after-near-im]]
+**Related:** [[2026-07-02-openai-proposes-donating-5-of-its-equity-to-a-u-s-sovereign]] · [[2026-08-29-how-tax-alpha-mania-took-over-silicon-valley]] · [[2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke]] · [[2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]]
 <!-- graph:end -->

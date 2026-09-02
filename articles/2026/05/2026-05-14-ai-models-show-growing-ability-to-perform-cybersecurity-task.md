@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy
+- 2026-08-30-ai-labs-call-for-stronger-cyber-defenses-after-model-enabled
 - 2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability
 - 2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio
 - 2026-08-07-openai-publishes-its-containment-posture-for-critical-cyber
-- 2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report
 embedding_id: 2026-05-14-ai-models-show-growing-ability-to-perform-cybersecurity-task
 event_name: ''
 ---
@@ -37,5 +37,5 @@ AI models show growing ability to perform cybersecurity tasks — Creati.ai roun
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy]] · [[2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability]] · [[2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio]] · [[2026-08-07-openai-publishes-its-containment-posture-for-critical-cyber]] · [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]]
+**Related:** [[2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy]] · [[2026-08-30-ai-labs-call-for-stronger-cyber-defenses-after-model-enabled]] · [[2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability]] · [[2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio]] · [[2026-08-07-openai-publishes-its-containment-posture-for-critical-cyber]]
 <!-- graph:end -->

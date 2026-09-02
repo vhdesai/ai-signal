@@ -6,7 +6,7 @@ date: '2026-08-20'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=ATT+Anthropic+bills+open+source
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=ATT+Anthropic+bills+open+source
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-21_065921_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 333cb833529ba94d35764da4efc54b5b5f85875c3a3d0eb812b85249476e95f3

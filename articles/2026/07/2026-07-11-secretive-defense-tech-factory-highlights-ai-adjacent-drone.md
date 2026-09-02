@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-31-the-u-s-is-building-barriers-around-drones-and-robots-but-ch
+- 2026-08-30-u-s-builds-barriers-around-drones-and-robots-but-china-has-t
 - 2026-07-11-good-morning-andrew-here-the-business-of-war-is-a-booming-in
+- 2026-08-30-u-s-raises-barriers-on-foreign-drones-and-robots-china-s-sca
 - 2026-07-31-report-chinese-military-researchers-used-openai-and-anthropi
-- 2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree
-- 2026-07-11-but-few-believe-the-demand-for-unmanned-warfare-will-subside
-- 2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab
 embedding_id: 2026-07-11-secretive-defense-tech-factory-highlights-ai-adjacent-drone
 event_name: ''
 ---
@@ -37,5 +37,5 @@ DealBook reported on the expanding business of war technology, including secreti
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-11-good-morning-andrew-here-the-business-of-war-is-a-booming-in]] · [[2026-07-31-report-chinese-military-researchers-used-openai-and-anthropi]] · [[2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree]] · [[2026-07-11-but-few-believe-the-demand-for-unmanned-warfare-will-subside]] · [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]]
+**Related:** [[2026-08-31-the-u-s-is-building-barriers-around-drones-and-robots-but-ch]] · [[2026-08-30-u-s-builds-barriers-around-drones-and-robots-but-china-has-t]] · [[2026-07-11-good-morning-andrew-here-the-business-of-war-is-a-booming-in]] · [[2026-08-30-u-s-raises-barriers-on-foreign-drones-and-robots-china-s-sca]] · [[2026-07-31-report-chinese-military-researchers-used-openai-and-anthropi]]
 <!-- graph:end -->

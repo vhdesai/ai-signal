@@ -5,7 +5,7 @@ date: '2026-06-19'
 source: Financial Express; Firstpost
 url_original: https://www.financialexpress.com/business/news/ai-capex-is-immense-aswath-damodaran-warns-ai-correction-may-be-more-painful-than-dot-com-meltdown/4272391/
 url_canonical: https://www.financialexpress.com/business/news/ai-capex-is-immense-aswath-damodaran-warns-ai-correction-may-be-more-painful-than-dot-com-meltdown/4272391/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-20_070303_Final-Daily-AI-News-Digest.md
 content_hash: b312339a8bffa92b00390bfe3ab8f24bc0df811a5a7af3d20258a2bed3cace87
 normalized_title_hash: 3b5f4e46c420c9c4
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-19-nyu-s-damodaran-warns-ai-correction-could-be-more-painful-th
 - 2026-06-20-nyu-finance-professor-aswath-damodaran-known-as-the-dean-of
+- 2026-08-28-lambda-1b-debt-global-ai-debt-crosses-400b-continued
 - 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
 - 2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc
-- 2026-08-15-bond-traders-scrutinize-70b-off-balance-sheet-ai-credit-back
 embedding_id: 2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot
 event_name: ''
 ---
@@ -39,5 +39,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-19-nyu-s-damodaran-warns-ai-correction-could-be-more-painful-th]] · [[2026-06-20-nyu-finance-professor-aswath-damodaran-known-as-the-dean-of]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-08-15-bond-traders-scrutinize-70b-off-balance-sheet-ai-credit-back]]
+**Related:** [[2026-06-19-nyu-s-damodaran-warns-ai-correction-could-be-more-painful-th]] · [[2026-06-20-nyu-finance-professor-aswath-damodaran-known-as-the-dean-of]] · [[2026-08-28-lambda-1b-debt-global-ai-debt-crosses-400b-continued]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]]
 <!-- graph:end -->

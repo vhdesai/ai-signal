@@ -5,7 +5,7 @@ date: '2026-08-14'
 source: Engadget · VentureBeat · eWeek
 url_original: https://www.engadget.com/2236912/deepseek-ai-models-get-four-times-pricier/
 url_canonical: https://www.engadget.com/2236912/deepseek-ai-models-get-four-times-pricier/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-15_065044_Final-Daily-AI-News-Digest.md
 content_hash: 7b0a818b9271556529eae4400c1173f7ebe255ceee0479d2acbf405ae3592188
 normalized_title_hash: 032e5df12514178e

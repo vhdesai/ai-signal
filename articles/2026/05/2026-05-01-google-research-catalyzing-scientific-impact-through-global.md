@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi
 - 2026-06-22-google-deepmind-and-a24-announce-research-partnership
+- 2026-08-31-planetary-prediction-engine-automating-global-models-via-ear
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
 - 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
-- 2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin
 embedding_id: 2026-05-01-google-research-catalyzing-scientific-impact-through-global
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google Research published a new piece highlighting its strategy for catalyzing s
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi]] · [[2026-06-22-google-deepmind-and-a24-announce-research-partnership]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]] · [[2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin]]
+**Related:** [[2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi]] · [[2026-06-22-google-deepmind-and-a24-announce-research-partnership]] · [[2026-08-31-planetary-prediction-engine-automating-global-models-via-ear]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]]
 <!-- graph:end -->

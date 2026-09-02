@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers
 - 2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex
 - 2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt
+- 2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india
 - 2026-08-12-openai-begins-testing-ads-in-chatgpt
-- 2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf
 embedding_id: 2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Advertisers can now create ads for specific products on ChatGPT by sharing feeds
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]] · [[2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex]] · [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]]
+**Related:** [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]] · [[2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex]] · [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]] · [[2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]]
 <!-- graph:end -->

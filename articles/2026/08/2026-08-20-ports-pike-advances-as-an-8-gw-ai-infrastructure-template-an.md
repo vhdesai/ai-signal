@@ -6,7 +6,7 @@ date: '2026-08-20'
 source: Data Center Frontier
 url_original: https://www.datacenterfrontier.com/hyperscale/article/55398883/ports-pike-takes-shape-as-an-8-gw-ai-infrastructure-model
 url_canonical: https://www.datacenterfrontier.com/hyperscale/article/55398883/ports-pike-takes-shape-as-an-8-gw-ai-infrastructure-model
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-21_062036_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 2d5ac364e2ec5bf34ce3aac8e1d3fe9fef0a065509fcfd0a5ce4d991ceef42bc

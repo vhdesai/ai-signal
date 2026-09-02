@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: Wall Street Journal
 url_original: https://www.wsj.com/tech/ai/ai-just-went-rogue-again-this-time-it-turned-to-deception-ae68de09
 url_canonical: https://www.wsj.com/tech/ai/ai-just-went-rogue-again-this-time-it-turned-to-deception-ae68de09
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-07_084748_Final-Daily-AI-News-Digest.md
 content_hash: 995cb31ecf0363021491963e0c6905fb315bc6a9cca583c01ecf11e127ff7fc7
 normalized_title_hash: d7acc4598a5a2cc9

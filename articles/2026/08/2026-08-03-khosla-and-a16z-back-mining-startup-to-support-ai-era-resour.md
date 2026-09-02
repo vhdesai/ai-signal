@@ -21,8 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n
+- 2026-08-29-andreessen-horowitz-raises-1-1b-machine-age-fund-for-ai-hard
+- 2026-08-28-a16z-raises-1-1b-machine-age-fund-dedicated-to-ai-s-physical
 - 2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke
-- 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
 embedding_id: 2026-08-03-khosla-and-a16z-back-mining-startup-to-support-ai-era-resour
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Fortune reported that Khosla Ventures and Andreessen Horowitz are backing a star
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n]] · [[2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]]
+**Related:** [[2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n]] · [[2026-08-29-andreessen-horowitz-raises-1-1b-machine-age-fund-for-ai-hard]] · [[2026-08-28-a16z-raises-1-1b-machine-age-fund-dedicated-to-ai-s-physical]] · [[2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke]]
 <!-- graph:end -->

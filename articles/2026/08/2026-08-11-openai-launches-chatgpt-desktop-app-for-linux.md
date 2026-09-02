@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/
 url_canonical: https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-12_060916_Inbox_Daily AI News Digest - August 12,
   2026.md
 content_hash: 4da19907713147103cc33eaaf8b5cc70b1040ff5df2ac15a57333230e41a2ba7

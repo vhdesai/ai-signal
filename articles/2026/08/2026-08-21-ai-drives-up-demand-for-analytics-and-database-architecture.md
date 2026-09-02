@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-21-cio-dive-ai-drives-up-demand-for-analytics-and-database-arch
 - 2026-07-29-demand-outweighs-supply-for-ai-skilled-workers
 - 2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at
+- 2026-08-28-nvidia-warns-of-supply-constraints-enterprises-bet-on-agents
 - 2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous
-- 2026-08-22-gartner-ai-costs-will-rise-exponentially-despite-per-token-d
 embedding_id: 2026-08-21-ai-drives-up-demand-for-analytics-and-database-architecture
 event_name: ''
 ---
@@ -40,5 +40,5 @@ CIOs must tie technology investments to business goals to attract talent, as AI 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-21-cio-dive-ai-drives-up-demand-for-analytics-and-database-arch]] · [[2026-07-29-demand-outweighs-supply-for-ai-skilled-workers]] · [[2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at]] · [[2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous]] · [[2026-08-22-gartner-ai-costs-will-rise-exponentially-despite-per-token-d]]
+**Related:** [[2026-08-21-cio-dive-ai-drives-up-demand-for-analytics-and-database-arch]] · [[2026-07-29-demand-outweighs-supply-for-ai-skilled-workers]] · [[2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at]] · [[2026-08-28-nvidia-warns-of-supply-constraints-enterprises-bet-on-agents]] · [[2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous]]
 <!-- graph:end -->

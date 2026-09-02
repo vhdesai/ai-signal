@@ -6,7 +6,7 @@ date: '2026-08-23'
 source: Forbes
 url_original: https://www.forbes.com/sites/jonmarkman/2026/08/23/claude-designed-proteins-that-worked-against-14-of-15-disease-targets/
 url_canonical: https://www.forbes.com/sites/jonmarkman/2026/08/23/claude-designed-proteins-that-worked-against-14-of-15-disease-targets/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-24_061731_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 7dd1db8ff412123eb37afc30d62087914e3c1152133b551262efa691572aadf4
@@ -21,9 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-23-claude-autonomously-designed-protein-binders-that-worked-aga
+- 2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo
+- 2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico
 - 2026-08-18-anthropic-claude-designed-working-protein-binders-for-14-of
-- 2026-07-13-first-end-to-end-hybrid-quantum-classical-pipeline-for-de-no
-- 2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against
+- 2026-08-27-mit-framework-pushes-computational-protein-design-beyond-nat
 embedding_id: 2026-08-23-claude-autonomously-designed-protein-binders-effective-again
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Reported results describe Claude autonomously designing protein binders that wer
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-23-claude-autonomously-designed-protein-binders-that-worked-aga]] · [[2026-08-18-anthropic-claude-designed-working-protein-binders-for-14-of]] · [[2026-07-13-first-end-to-end-hybrid-quantum-classical-pipeline-for-de-no]] · [[2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against]]
+**Related:** [[2026-08-23-claude-autonomously-designed-protein-binders-that-worked-aga]] · [[2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo]] · [[2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico]] · [[2026-08-18-anthropic-claude-designed-working-protein-binders-for-14-of]] · [[2026-08-27-mit-framework-pushes-computational-protein-design-beyond-nat]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=AT%26T+Anthropic+bills
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=AT%26T+Anthropic+bills
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-21_065332_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: efc87b08d20b2ef41af32157c02b4c086c522beea7c893a6a4d427875df68229
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-20-at-t-plans-to-curb-anthropic-and-openai-spending-by-shifting
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
-- 2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a
+- 2026-08-27-anthropic-and-openai-to-share-the-ai-stage-at-techcrunch-dis
 embedding_id: 2026-08-20-at-t-has-a-plan-to-curb-its-anthropic-bills
 event_name: ''
 ---
@@ -39,5 +39,5 @@ AT&T plans to keep employee spending on Anthropic and OpenAI models flat by rout
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-20-at-t-plans-to-curb-anthropic-and-openai-spending-by-shifting]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a]]
+**Related:** [[2026-08-20-at-t-plans-to-curb-anthropic-and-openai-spending-by-shifting]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-08-27-anthropic-and-openai-to-share-the-ai-stage-at-techcrunch-dis]]
 <!-- graph:end -->

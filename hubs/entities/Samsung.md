@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Samsung
-member_count: 82
+member_count: 84
 ---
 
 # Samsung
 
-> Auto-generated entity hub. 82 connected article(s).
+> Auto-generated entity hub. 84 connected article(s).
 
+- `2026-08-31` [[2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth|China's CXMT makes a breakthrough in advanced high-bandwidth memory chips]]
+- `2026-08-31` [[2026-08-31-china-s-cxmt-makes-breakthrough-in-advanced-high-bandwidth-m|China's CXMT Makes Breakthrough in Advanced High-Bandwidth Memory Chips]]
 - `2026-08-25` [[2026-08-25-emerald-ai-raises-150m-at-a-1-05b-valuation-to-make-data-cen|Emerald AI raises $150M at a $1.05B valuation to make data center load flexible]]
 - `2026-08-24` [[2026-08-24-south-korea-moves-to-cap-retail-exposure-to-leveraged-ai-chi|South Korea moves to cap retail exposure to leveraged AI-chip ETFs]]
 - `2026-08-24` [[2026-08-24-rising-server-prices-shift-leverage-from-nvidia-to-samsung-a|Rising Server Prices Shift Leverage from Nvidia to Samsung and SK hynix]]

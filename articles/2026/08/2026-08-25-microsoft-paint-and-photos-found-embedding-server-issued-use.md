@@ -6,7 +6,7 @@ date: '2026-08-25'
 source: The Register
 url_original: https://www.theregister.com/ai-and-ml/2026/08/25/microsoft_ai_watermarks_in_paint_and_photos_are_linked_to_user_ids_researcher_finds/
 url_canonical: https://www.theregister.com/ai-and-ml/2026/08/25/microsoft_ai_watermarks_in_paint_and_photos_are_linked_to_user_ids_researcher_finds/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-26_062133_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: b536ae9b45661b905269de69b98f7ebf99adef735bd5d26f096ac24a70051dce

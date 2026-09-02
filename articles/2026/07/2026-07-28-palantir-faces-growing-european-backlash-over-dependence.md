@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: The Star
 url_original: https://www.thestar.com.my/business/business-news/2026/07/28/palantir-faces-growing-continental-backlash
 url_canonical: https://www.thestar.com.my/business/business-news/2026/07/28/palantir-faces-growing-continental-backlash
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 37f9de5f5276646832adc2413e58986e6055a5ab79fafd11677badcf3f65d764

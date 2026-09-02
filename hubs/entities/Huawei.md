@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 159
+member_count: 164
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 159 connected article(s).
+> Auto-generated entity hub. 164 connected article(s).
 
+- `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-08-31` [[2026-08-31-huawei-h1-profit-drop-quickens-to-36-on-rising-costs-r-d-spe|Huawei H1 profit drop quickens to 36% on rising costs, R&D spending]]
+- `2026-08-31` [[2026-08-31-huawei-h1-2026-net-profit-falls-36-as-ai-related-r-d-spendin|Huawei H1 2026 net profit falls 36% as AI-related R&D spending surges]]
+- `2026-08-29` [[2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta|Anthropic opens a research preview of the Model Hardware Standard for agents operating physical devices]]
+- `2026-08-28` [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social|MIT AI report calls for alternative grading and more social learning]]
 - `2026-08-26` [[2026-08-26-huawei-pitches-egypt-on-ascend-powered-ai-data-centers-for-m|Huawei Pitches Egypt on Ascend-Powered AI Data Centers for Military and Public Sector Use]]
 - `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-an-ai-robot-tax|Bill Gates calls for "human reserved" jobs and an AI/robot tax]]
 - `2026-08-25` [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc|Liquid AI Open-Sources Pipette, a Reproducible On-Device Benchmarking Suite]]

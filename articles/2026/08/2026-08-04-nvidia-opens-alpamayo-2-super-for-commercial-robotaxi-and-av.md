@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/
 url_canonical: https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-05_061510_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 3fcfcb3285bd2af7a3fb1d2b0e4ec8bfc999993570e7c9d7ba40315901c831b9

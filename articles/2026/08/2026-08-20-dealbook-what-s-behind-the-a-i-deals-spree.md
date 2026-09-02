@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the
+- 2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu
 - 2026-08-20-stripe-acquires-ai-marketplace-openrouter-for-7-5-billion
 - 2026-07-23-stripe-reportedly-in-talks-to-buy-ai-model-marketplace-openr
-- 2026-08-19-stripe-to-acquire-ai-model-marketplace-openrouter
 embedding_id: 2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree
 event_name: ''
 ---
@@ -37,5 +37,5 @@ DealBook highlights the accelerating pace of AI dealmaking — from Stripe's $7.
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the]] · [[2026-08-20-stripe-acquires-ai-marketplace-openrouter-for-7-5-billion]] · [[2026-07-23-stripe-reportedly-in-talks-to-buy-ai-model-marketplace-openr]] · [[2026-08-19-stripe-to-acquire-ai-model-marketplace-openrouter]]
+**Related:** [[2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the]] · [[2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu]] · [[2026-08-20-stripe-acquires-ai-marketplace-openrouter-for-7-5-billion]] · [[2026-07-23-stripe-reportedly-in-talks-to-buy-ai-model-marketplace-openr]]
 <!-- graph:end -->

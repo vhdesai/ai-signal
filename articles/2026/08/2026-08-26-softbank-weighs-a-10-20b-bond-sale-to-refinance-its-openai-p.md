@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: The Straits Times (via TechStartups) · SoftBank · OpenAI
 url_original: https://techstartups.com/2026/08/26/top-tech-news-today-august-26-2026-amazon-anthropic-google-microsoft-waymo-more/
 url_canonical: https://techstartups.com/2026/08/26/top-tech-news-today-august-26-2026-amazon-anthropic-google-microsoft-waymo-more/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: e46e01260f320658b6cac0f57f8236188326cf6c70f0ae4825378eeb2c338f17
@@ -20,9 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake
 - 2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new
 - 2026-08-24-softbank-plans-a-record-1-trillion-6-3b-retail-bond-to-fund
-- 2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta
 embedding_id: 2026-08-26-softbank-weighs-a-10-20b-bond-sale-to-refinance-its-openai-p
 event_name: ''
 ---
@@ -36,5 +36,5 @@ SoftBank is discussing a $10–20B dollar and euro bond, possibly in September, 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new]] · [[2026-08-24-softbank-plans-a-record-1-trillion-6-3b-retail-bond-to-fund]] · [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta]]
+**Related:** [[2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake]] · [[2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new]] · [[2026-08-24-softbank-plans-a-record-1-trillion-6-3b-retail-bond-to-fund]]
 <!-- graph:end -->

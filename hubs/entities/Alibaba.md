@@ -1,13 +1,23 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 294
+member_count: 305
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 294 connected article(s).
+> Auto-generated entity hub. 305 connected article(s).
 
+- `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-08-29` [[2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta|Anthropic opens a research preview of the Model Hardware Standard for agents operating physical devices]]
+- `2026-08-28` [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social|MIT AI report calls for alternative grading and more social learning]]
+- `2026-08-28` [[2026-08-28-glm-5-3-flash-and-qwen3-8-flash-next-converge-on-similar-eff|GLM-5.3-Flash and Qwen3.8-Flash-Next converge on similar efficient architectures]]
+- `2026-08-28` [[2026-08-28-alibaba-cloud-opens-its-first-brazilian-region-as-cloud-riva|Alibaba Cloud Opens Its First Brazilian Region as Cloud Rivalry Reaches Latin America]]
+- `2026-08-28` [[2026-08-28-alibaba-cloud-opens-its-first-brazilian-region|Alibaba Cloud Opens Its First Brazilian Region]]
+- `2026-08-28` [[2026-08-28-alibaba-cloud-opens-first-brazil-region-with-agentic-ai-serv|Alibaba Cloud Opens First Brazil Region with Agentic-AI Services]]
+- `2026-08-28` [[2026-08-28-alibaba-cloud-opens-first-brazil-cloud-region-with-agentic-a|Alibaba Cloud Opens First Brazil Cloud Region With Agentic AI Services]]
+- `2026-08-27` [[2026-08-27-nvidia-optimizes-hardware-for-deepseek-and-qwen-while-flaggi|Nvidia optimizes hardware for DeepSeek and Qwen while flagging China-model restriction risk]]
+- `2026-08-27` [[2026-08-27-nvidia-optimizes-for-deepseek-and-qwen-while-flagging-china|Nvidia Optimizes for DeepSeek and Qwen While Flagging China-Model Restriction Risk]]
 - `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-an-ai-robot-tax|Bill Gates calls for "human reserved" jobs and an AI/robot tax]]
 - `2026-08-25` [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc|Liquid AI Open-Sources Pipette, a Reproducible On-Device Benchmarking Suite]]
 - `2026-08-25` [[2026-08-25-bytedance-launches-doubao-work-a-unified-office-ai-suitenew|ByteDance launches Doubao Work, a unified office AI suiteNew]]
@@ -19,6 +29,7 @@ member_count: 294
 - `2026-08-24` [[2026-08-24-alibaba-plans-to-raise-10-2-billion-for-ai-investment|Alibaba plans to raise $10.2 billion for AI investment]]
 - `2026-08-24` [[2026-08-24-alibaba-prices-10-2b-hong-kong-share-placement-to-fund-ai-sh|Alibaba Prices $10.2B Hong Kong Share Placement to Fund AI; Shares Fall ~10%]]
 - `2026-08-24` [[2026-08-24-alibaba-plunges-after-announcing-10-2-billion-share-placemen|Alibaba Plunges After Announcing $10.2 Billion Share Placement to Fund AI Push]]
+- `2026-08-24` [[2026-08-24-alibaba-plunges-after-10-2b-placement-to-fund-ai-push|Alibaba Plunges After $10.2B Placement to Fund AI Push]]
 - `2026-08-23` [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books|The Unsettled Law of Training Models on Copyrighted Books]]
 - `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
 - `2026-08-23` [[2026-08-23-alibaba-raises-10-2b-in-hong-kong-s-biggest-ever-follow-on-t|Alibaba raises $10.2B in Hong Kong’s biggest-ever follow-on to fund full-stack AI]]

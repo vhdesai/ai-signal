@@ -21,9 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-20-google-introduces-envharness-reshaping-static-training-world
-- 2026-08-21-nvidia-research-the-agent-harness-not-the-base-model-drives
-- 2026-08-21-nvidia-avo-reaches-100-on-arc-agi-3-with-a-harness-centric-a
-- 2026-08-21-nvidia-shows-the-harness-not-the-model-is-the-real-hero-achi
+- 2026-08-30-envharness-turns-static-agent-training-environments-into-ada
+- 2026-08-30-google-ai-introduces-envharness-turning-static-agent-benchma
+- 2026-08-30-google-s-envharness-turns-static-agent-benchmarks-into-adapt
+- 2026-08-30-google-researchers-introduce-envharness-for-adaptive-agent-t
 embedding_id: 2026-08-21-envharness-reshaping-static-environments-for-agent-learning
 event_name: ''
 ---
@@ -37,5 +38,5 @@ EnvHarness is a programmable plug-in layer that makes static agent environments 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-20-google-introduces-envharness-reshaping-static-training-world]] · [[2026-08-21-nvidia-research-the-agent-harness-not-the-base-model-drives]] · [[2026-08-21-nvidia-avo-reaches-100-on-arc-agi-3-with-a-harness-centric-a]] · [[2026-08-21-nvidia-shows-the-harness-not-the-model-is-the-real-hero-achi]]
+**Related:** [[2026-08-20-google-introduces-envharness-reshaping-static-training-world]] · [[2026-08-30-envharness-turns-static-agent-training-environments-into-ada]] · [[2026-08-30-google-ai-introduces-envharness-turning-static-agent-benchma]] · [[2026-08-30-google-s-envharness-turns-static-agent-benchmarks-into-adapt]] · [[2026-08-30-google-researchers-introduce-envharness-for-adaptive-agent-t]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-07-31'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/
 url_canonical: https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-01_061413_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 5ad8bb41d769528ac67ce0dcb381809c9909155b466045f29d6af2cb242e9467
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc
 - 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
+- 2026-08-28-vercel-open-sources-vgpu-for-webgpu-shaders
 - 2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in
 - 2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu
-- 2026-08-14-deepseek-open-sources-deepseek-harness-a-modular-agent-runti
 embedding_id: 2026-07-31-jetbrains-research-open-sources-kotlinllm-an-intellij-plugin
 event_name: ''
 ---
@@ -38,5 +38,5 @@ JetBrains Research open-sourced KotlinLLM (Apache-2.0), an IntelliJ IDEA plugin 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc]] · [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]] · [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in]] · [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu]] · [[2026-08-14-deepseek-open-sources-deepseek-harness-a-modular-agent-runti]]
+**Related:** [[2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc]] · [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]] · [[2026-08-28-vercel-open-sources-vgpu-for-webgpu-shaders]] · [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in]] · [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu]]
 <!-- graph:end -->

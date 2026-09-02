@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
 - 2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in
 - 2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion
-- 2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a
+- 2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered
 embedding_id: 2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The OpenAI Foundation — which holds a 26% stake in OpenAI Group PBC valued at 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in]] · [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a]]
+**Related:** [[2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in]] · [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered]]
 <!-- graph:end -->

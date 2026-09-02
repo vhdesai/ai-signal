@@ -32,8 +32,8 @@ related_article_ids:
 - 2026-08-11-daily-ai-news-digest-august-11-2026
 - 2026-08-07-daily-ai-news-digest-august-9-2026
 - 2026-07-07-daily-ai-news-digest-july-8-2026
+- 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-08-09-daily-ai-news-digest-august-10-2026
-- 2026-07-06-daily-ai-news-digest-july-8-2026
 embedding_id: 2026-08-08-daily-ai-news-digest-august-8-2026
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Executive Summary: Labs Harden the Frontier While Loosening the Agents The last 
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-08-07-daily-ai-news-digest-august-9-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-08-09-daily-ai-news-digest-august-10-2026]] · [[2026-07-06-daily-ai-news-digest-july-8-2026]]
+**Related:** [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-08-07-daily-ai-news-digest-august-9-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-09-daily-ai-news-digest-august-10-2026]]
 <!-- graph:end -->

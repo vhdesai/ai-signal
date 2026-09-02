@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: Reuters
 url_original: https://finance.yahoo.com/technology/ai/articles/anthropic-enterprise-clients-more-data-200608225.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/anthropic-enterprise-clients-more-data-200608225.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-21_065332_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: f9ce215d5df969af111629a32e0b212f5ed9cec924de4d3f4ef36cbf65085267

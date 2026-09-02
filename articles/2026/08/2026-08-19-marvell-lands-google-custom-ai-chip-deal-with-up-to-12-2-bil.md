@@ -25,8 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2b-sh
 - 2026-08-20-marvell-gives-google-rights-to-buy-up-to-12-2-billion-in-sto
-- 2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa
-- 2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i
+- 2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real
+- 2026-08-28-marvell-s-120b-google-custom-silicon-deal-meets-a-timing-rea
+- 2026-08-28-marvell-sells-off-8-as-google-custom-silicon-revenue-slips-t
 embedding_id: 2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Marvell disclosed a commercial agreement with Google covering custom AI silicon,
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2b-sh]] · [[2026-08-20-marvell-gives-google-rights-to-buy-up-to-12-2-billion-in-sto]] · [[2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa]] · [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]]
+**Related:** [[2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2b-sh]] · [[2026-08-20-marvell-gives-google-rights-to-buy-up-to-12-2-billion-in-sto]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-meets-a-timing-rea]] · [[2026-08-28-marvell-sells-off-8-as-google-custom-silicon-revenue-slips-t]]
 <!-- graph:end -->

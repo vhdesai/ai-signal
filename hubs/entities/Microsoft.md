@@ -1,14 +1,47 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 742
+member_count: 774
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 742 connected article(s).
+> Auto-generated entity hub. 774 connected article(s).
 
+- `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-08-31` [[2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise|Microsoft and HUMAIN expand collaboration with an enterprise AI bundle and an AI PC]]
+- `2026-08-31` [[2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap|Microsoft and HUMAIN Expand Strategic Collaboration at LEAP 2026]]
+- `2026-08-31` [[2026-08-31-google-takes-aim-at-anthropic-microsoft-with-budget-friendly|Google takes aim at Anthropic, Microsoft with budget-friendly AI pricing]]
+- `2026-08-31` [[2026-08-31-big-tech-booked-more-than-160-billion-in-paper-gains-from-ai|Big Tech booked more than $160 billion in paper gains from AI stakes last quarter]]
+- `2026-08-31` [[2026-08-31-big-tech-booked-more-than-160b-in-paper-gains-from-ai-stakes|Big Tech Booked More Than $160B in Paper Gains From AI Stakes Last Quarter]]
+- `2026-08-29` [[2026-08-29-meta-tests-robots-inside-its-data-centers-as-tech-sector-job|Meta Tests Robots Inside Its Data Centers as Tech-Sector Job Cuts Mount]]
+- `2026-08-29` [[2026-08-29-meta-tests-robots-inside-data-centers-as-tech-job-cuts-mount|Meta Tests Robots Inside Data Centers as Tech Job Cuts Mount]]
+- `2026-08-29` [[2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta|Anthropic opens a research preview of the Model Hardware Standard for agents operating physical devices]]
+- `2026-08-28` [[2026-08-28-subject-daily-ai-news-digest-august-28-2026|Subject: Daily AI News Digest – August 28, 2026]]
+- `2026-08-28` [[2026-08-28-neocloud-lambda-raises-1b-in-private-debt-to-buy-nvidia-chip|Neocloud Lambda raises $1B in private debt to buy Nvidia chips and lease them to Microsoft]]
+- `2026-08-28` [[2026-08-28-neocloud-lambda-secures-1b-in-debt-to-buy-nvidia-chips-for-m|Neocloud Lambda Secures $1B in Debt to Buy Nvidia Chips for Microsoft]]
+- `2026-08-28` [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social|MIT AI report calls for alternative grading and more social learning]]
+- `2026-08-28` [[2026-08-28-lambda-secures-1-billion-in-private-debt-to-buy-more-nvidia|Lambda secures $1 billion in private debt to buy more Nvidia chips]]
+- `2026-08-28` [[2026-08-28-lambda-secures-1b-in-debt-to-buy-nvidia-chips-for-microsoft|Lambda Secures $1B in Debt to Buy Nvidia Chips for Microsoft; AI Debt Crosses $400B]]
+- `2026-08-28` [[2026-08-28-lambda-1b-debt-global-ai-debt-crosses-400b-continued|Lambda $1B Debt + Global AI Debt Crosses $400B (Continued)]]
+- `2026-08-28` [[2026-08-28-lambda-1b-debt-400b-global-ai-debt-continued|Lambda $1B Debt + $400B Global AI Debt (Continued)]]
+- `2026-08-28` [[2026-08-28-federal-judge-voids-pentagon-s-supply-chain-risk-label-on-an|Federal Judge Voids Pentagon's "Supply Chain Risk" Label on Anthropic]]
+- `2026-08-28` [[2026-08-28-eu-ai-act-moves-from-rulebook-to-real-enforcement|EU AI Act Moves from Rulebook to Real Enforcement]]
+- `2026-08-28` [[2026-08-28-cerebras-expands-ai-inference-infrastructure-across-europe-a|Cerebras Expands AI-Inference Infrastructure Across Europe and Canada]]
+- `2026-08-27` [[2026-08-27-subject-daily-ai-news-digest-august-27-2026|Subject: Daily AI News Digest – August 27, 2026]]
+- `2026-08-27` [[2026-08-27-over-100-companies-including-openai-anthropic-google-and-mic|Over 100 companies, including OpenAI, Anthropic, Google and Microsoft, call for coordinated defense against AI-enabled attacks]]
+- `2026-08-27` [[2026-08-27-openai-anthropic-google-microsoft-and-100-firms-call-for-joi|OpenAI, Anthropic, Google, Microsoft and 100+ Firms Call for Joint Defense Against AI Cyberattacks]]
+- `2026-08-27` [[2026-08-27-openai-begins-showing-ads-on-chatgpt-in-india|OpenAI Begins Showing Ads on ChatGPT in India]]
+- `2026-08-27` [[2026-08-27-nvidia-confirms-hugging-face-acquisition-for-12-9-billion|Nvidia Confirms Hugging Face Acquisition for $12.9 Billion]]
+- `2026-08-27` [[2026-08-27-more-than-100-companies-call-for-coordinated-defense-against|More Than 100 Companies Call for Coordinated Defense Against AI-Enabled Cyberattacks]]
+- `2026-08-27` [[2026-08-27-microsoft-cracks-down-on-employee-ai-tokenmaxxing|Microsoft cracks down on employee AI “tokenmaxxing”]]
+- `2026-08-27` [[2026-08-27-anthropic-signs-45b-six-year-compute-deal-with-nscale|Anthropic signs ~$45B, six-year compute deal with Nscale]]
+- `2026-08-27` [[2026-08-27-100-companies-including-openai-anthropic-google-and-microsof|100+ companies including OpenAI, Anthropic, Google, and Microsoft call for coordinated defense against rogue AI]]
+- `2026-08-27` [[2026-08-27-100-companies-rogue-ai-defense-letter-17-hacking-incidents-c|100+ Companies' Rogue AI Defense Letter + 17 Hacking Incidents (Continued)]]
+- `2026-08-27` [[2026-08-27-100-companies-call-for-rogue-ai-defense-continued|100+ Companies Call for Rogue AI Defense (Continued)]]
+- `2026-08-27` [[2026-08-27-100-companies-call-for-coordinated-defense-against-rogue-ai|100+ Companies Call for Coordinated Defense Against Rogue AI]]
 - `2026-08-26` [[2026-08-26-nvidia-s-1-5-trillion-earnings-question-the-return-on-invest|Nvidia’s $1.5 Trillion Earnings Question: The Return-on-Investment Dilemma]]
+- `2026-08-26` [[2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt|Nvidia Posts Record $96.2B Quarter, Guides to ~70% Revenue Growth for FY2028]]
 - `2026-08-26` [[2026-08-26-moonshot-ai-in-cloud-revenue-share-talks-with-microsoft-amaz|Moonshot AI in cloud revenue-share talks with Microsoft, Amazon and Google]]
 - `2026-08-26` [[2026-08-26-moonshot-ai-reportedly-in-revenue-share-talks-to-host-kimi-k|Moonshot AI Reportedly in Revenue-Share Talks to Host Kimi K3 on US Clouds]]
 - `2026-08-26` [[2026-08-26-microsoft-and-humain-to-bring-allam-arabic-models-into-found|Microsoft and HUMAIN to bring ALLAM Arabic models into Foundry and Copilot]]
@@ -26,14 +59,13 @@ member_count: 742
 - `2026-08-25` [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc|Liquid AI Open-Sources Pipette, a Reproducible On-Device Benchmarking Suite]]
 - `2026-08-25` [[2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized-alabama-pro|Hugging Face Revenue Jumps 50% to $150M Annualized; Alabama Probes OpenAI Over HF Hack]]
 - `2026-08-24` [[2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens|Georgia Tech AI governance through a visiting scholar’s lens]]
+- `2026-08-23` [[2026-08-23-who-s-behind-the-stealth-model-ox-alpha-mystery-deepens|Who’s Behind the Stealth Model “Ox Alpha”? — Mystery Deepens]]
 - `2026-08-23` [[2026-08-23-who-s-behind-the-new-stealth-model-ox-alpha|Who's behind the new 'stealth model' Ox Alpha?]]
-- `2026-08-23` [[2026-08-23-who-s-behind-the-stealth-model-ox-alpha-mystery-deepens|Who's Behind the Stealth Model "Ox Alpha"? — Mystery Deepens]]
 - `2026-08-23` [[2026-08-23-techcrunch-deep-dive-who-s-behind-the-stealth-model-ox-alpha|TechCrunch Deep-Dive: Who's Behind the Stealth Model 'Ox Alpha'?]]
 - `2026-08-23` [[2026-08-23-ox-alpha-a-stealth-reasoning-model-appears-on-openrouter|Ox Alpha, a stealth reasoning model, appears on OpenRouter]]
 - `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
 - `2026-08-22` [[2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma|Saturday coverage: AI content demand strains the rare-book market]]
 - `2026-08-22` [[2026-08-22-nvidia-notifies-customers-of-ai-server-price-hikes-above-15|Nvidia notifies customers of AI server price hikes above 15%]]
-- `2026-08-22` [[2026-08-22-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s|Nvidia Warns Largest Customers of 15%+ Price Increases on AI Servers]]
 - `2026-08-22` [[2026-08-22-nvidia-warns-large-customers-of-15-price-increases-on-ai-ser|Nvidia Warns Large Customers of 15%+ Price Increases on AI Servers]]
 - `2026-08-22` [[2026-08-22-mysterious-free-ai-model-ox-alpha-appears-on-openrouter-nobo|Mysterious Free AI Model 'Ox Alpha' Appears on OpenRouter — Nobody Knows Who Made It]]
 - `2026-08-22` [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro|Frontier AI labs still won't say how they would contain a rogue model]]

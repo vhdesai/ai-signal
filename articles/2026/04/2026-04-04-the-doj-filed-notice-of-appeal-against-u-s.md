@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-24-a-federal-hearing-is-underway-today-before-judge-rita-lin-in
+- 2026-08-28-federal-judge-strikes-down-the-pentagon-s-supply-chain-risk
 - 2026-03-28-a-federal-court-granted-anthropic-a-preliminary-injunction-b
 - 2026-07-30-judge-says-the-u-s-still-lacks-evidence-for-anthropic-supply
-- 2026-04-01-a-federal-judge-granted-anthropic-a-preliminary-injunction-b
-- 2026-07-30-judge-says-u-s-still-lacks-evidence-for-anthropic-supply-cha
+- 2026-08-28-federal-judge-rules-pentagon-s-supply-chain-risk-designation
 embedding_id: 2026-04-04-the-doj-filed-notice-of-appeal-against-u-s
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The DOJ filed notice of appeal against U.S. District Judge Rita Lin's March 26 r
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-03-24-a-federal-hearing-is-underway-today-before-judge-rita-lin-in]] · [[2026-03-28-a-federal-court-granted-anthropic-a-preliminary-injunction-b]] · [[2026-07-30-judge-says-the-u-s-still-lacks-evidence-for-anthropic-supply]] · [[2026-04-01-a-federal-judge-granted-anthropic-a-preliminary-injunction-b]] · [[2026-07-30-judge-says-u-s-still-lacks-evidence-for-anthropic-supply-cha]]
+**Related:** [[2026-03-24-a-federal-hearing-is-underway-today-before-judge-rita-lin-in]] · [[2026-08-28-federal-judge-strikes-down-the-pentagon-s-supply-chain-risk]] · [[2026-03-28-a-federal-court-granted-anthropic-a-preliminary-injunction-b]] · [[2026-07-30-judge-says-the-u-s-still-lacks-evidence-for-anthropic-supply]] · [[2026-08-28-federal-judge-rules-pentagon-s-supply-chain-risk-designation]]
 <!-- graph:end -->

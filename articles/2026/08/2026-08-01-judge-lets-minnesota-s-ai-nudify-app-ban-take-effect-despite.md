@@ -5,7 +5,7 @@ date: '2026-08-01'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/
 url_canonical: https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-03_060602_Inbox_Daily AI News Digest - August 3,
   2026.md
 content_hash: 143952923e41f90837db5855dfe649f7a7db0da157c2386ae9ac4c6819d6e7ce

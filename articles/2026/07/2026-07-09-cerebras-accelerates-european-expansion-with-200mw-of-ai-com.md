@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: GlobeNewswire
 url_original: https://markets.businessinsider.com/news/stocks/cerebras-systems-accelerates-european-expansion-with-200mw-of-ai-compute-capacity-by-end-of-2027-1036309838
 url_canonical: https://markets.businessinsider.com/news/stocks/cerebras-systems-accelerates-european-expansion-with-200mw-of-ai-compute-capacity-by-end-of-2027-1036309838
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-09_061826_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 1a4a283655cf7a8a885a222d69bed1c56fd4f0f2abc0eccdd70d43627d0c1a65
@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-cerebras-commits-to-200-mw-of-european-ai-capacity-part-earm
+- 2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center
+- 2026-08-28-cerebras-expands-ai-inference-infrastructure-across-europe-a
 - 2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb
 - 2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon
-- 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
-- 2026-08-20-cerebras-partners-with-callosum-to-expand-agentic-inference
 embedding_id: 2026-07-09-cerebras-accelerates-european-expansion-with-200mw-of-ai-com
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Cerebras Systems said it will bring its first European data-center capacity onli
 
 **Entities:** [[Cerebras]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-09-cerebras-commits-to-200-mw-of-european-ai-capacity-part-earm]] · [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]] · [[2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-08-20-cerebras-partners-with-callosum-to-expand-agentic-inference]]
+**Related:** [[2026-07-09-cerebras-commits-to-200-mw-of-european-ai-capacity-part-earm]] · [[2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center]] · [[2026-08-28-cerebras-expands-ai-inference-infrastructure-across-europe-a]] · [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]] · [[2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon]]
 <!-- graph:end -->

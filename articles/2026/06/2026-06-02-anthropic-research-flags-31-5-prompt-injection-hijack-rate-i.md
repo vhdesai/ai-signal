@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-08-15-anthropic-s-august-2026-risk-report-rates-full-automation-ri
 - 2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open
-- 2026-07-28-anthropic-s-unreleased-claude-mythos-model-discovers-two-nov
+- 2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte
 embedding_id: 2026-06-02-anthropic-research-flags-31-5-prompt-injection-hijack-rate-i
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Reporting on Anthropic findings cited a ~31.5% successful prompt-injection hijac
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-08-15-anthropic-s-august-2026-risk-report-rates-full-automation-ri]] · [[2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open]] · [[2026-07-28-anthropic-s-unreleased-claude-mythos-model-discovers-two-nov]]
+**Related:** [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-08-15-anthropic-s-august-2026-risk-report-rates-full-automation-ri]] · [[2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open]] · [[2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte]]
 <!-- graph:end -->

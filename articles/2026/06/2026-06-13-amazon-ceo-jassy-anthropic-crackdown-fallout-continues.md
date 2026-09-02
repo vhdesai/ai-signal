@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits
 - 2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions
 - 2026-06-19-trump-anthropic-no-longer-a-national-security-threat
-- 2026-07-31-anthropic-says-its-models-hacked-three-companies-during-safe
+- 2026-08-28-federal-judge-orders-pentagon-to-rescind-blacklisting-of-ant
 embedding_id: 2026-06-13-amazon-ceo-jassy-anthropic-crackdown-fallout-continues
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The fallout from The Information's exclusive — that Amazon CEO Jassy raised co
 
 **Entities:** [[Amazon]] · [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-13-amazon-ceo-jassy-s-talks-with-u-s-officials-triggered-crackd]] · [[2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits]] · [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions]] · [[2026-06-19-trump-anthropic-no-longer-a-national-security-threat]] · [[2026-07-31-anthropic-says-its-models-hacked-three-companies-during-safe]]
+**Related:** [[2026-06-13-amazon-ceo-jassy-s-talks-with-u-s-officials-triggered-crackd]] · [[2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits]] · [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions]] · [[2026-06-19-trump-anthropic-no-longer-a-national-security-threat]] · [[2026-08-28-federal-judge-orders-pentagon-to-rescind-blacklisting-of-ant]]
 <!-- graph:end -->

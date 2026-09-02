@@ -5,7 +5,7 @@ date: '2026-07-25'
 source: Nocut News**
 url_original: https://en.nocutnews.co.kr/news/6553251
 url_canonical: https://en.nocutnews.co.kr/news/6553251
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-26_065030_Final-Daily-AI-News-Digest.md
 content_hash: 7d56b950163d90ca0188280758c2ed3da6ec4f3c15defd819dbfa115b9e04e2e
 normalized_title_hash: 6aea7a9b5a23801c

@@ -6,7 +6,7 @@ date: '2026-07-22'
 source: VentureBeat
 url_original: https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots
 url_canonical: https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-24_065750_Final-Daily-AI-News-Digest.md
 content_hash: 19a90f9854a29c37951c005b91e867924ee4ac4a4c8a21baa828ef0f6f42b58f
 normalized_title_hash: 0ce9919737f85fc6

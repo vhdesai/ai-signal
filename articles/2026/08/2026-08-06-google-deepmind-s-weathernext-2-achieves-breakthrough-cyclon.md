@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: Google DeepMind
 url_original: https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/
 url_canonical: https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-07_061741_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: ed4edfec00642141b41c4e134b4d0a5823d1112eac296212f4574fc4ff78c264

@@ -39,11 +39,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst
 - 2026-04-21-anthropic-investigates-unauthorized-access-to-claude-mythos
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-08-01-the-ai-brief-august-1-2026
-- 2026-08-08-daily-ai-news-digest-august-8-2026
 embedding_id: 2026-04-22-major-analysis-published-today-in-the-bulletin-of-the-atomic
 event_name: ''
 ---
@@ -57,5 +57,5 @@ Claude Mythos Security Breach Highlights Dual-Use AI Risks at Frontier Labs The 
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[ByteDance]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[Microsoft]] · [[NVIDIA]] · [[Tencent]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst]] · [[2026-04-21-anthropic-investigates-unauthorized-access-to-claude-mythos]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-08-01-the-ai-brief-august-1-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]]
+**Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst]] · [[2026-04-21-anthropic-investigates-unauthorized-access-to-claude-mythos]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-08-01-the-ai-brief-august-1-2026]]
 <!-- graph:end -->

@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 151
+member_count: 157
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 151 connected article(s).
+> Auto-generated entity hub. 157 connected article(s).
 
+- `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-09-01` [[2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center|Cerebras and Compute Nordic Announce a 165 MW AI Data Center in Finland]]
+- `2026-08-29` [[2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta|Anthropic opens a research preview of the Model Hardware Standard for agents operating physical devices]]
+- `2026-08-28` [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social|MIT AI report calls for alternative grading and more social learning]]
+- `2026-08-28` [[2026-08-28-cerebras-expands-ai-inference-infrastructure-across-europe-a|Cerebras Expands AI-Inference Infrastructure Across Europe and Canada]]
+- `2026-08-27` [[2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto|The Enterprise Agent Risk Is Inter-Agent Complexity, Not Autonomy]]
 - `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-an-ai-robot-tax|Bill Gates calls for "human reserved" jobs and an AI/robot tax]]
 - `2026-08-25` [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc|Liquid AI Open-Sources Pipette, a Reproducible On-Device Benchmarking Suite]]
 - `2026-08-24` [[2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti|Nvidia puts the Groq 3 LPX inference rack into full production, Nebius first to deploy]]

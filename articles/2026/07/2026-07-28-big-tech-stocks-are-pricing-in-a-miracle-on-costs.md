@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/finance/big-tech-stocks-are-pricing-in-a-miracle-on-costs-6d93664f
 url_canonical: https://www.wsj.com/finance/big-tech-stocks-are-pricing-in-a-miracle-on-costs-6d93664f
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-29_065704_Final-Daily-AI-News-Digest.md
 content_hash: 9125b301c945dc775d6d7ffcf56b91782ad01a8a744acfc92971122aa711da6d
 normalized_title_hash: e430b58c5c0c36bd

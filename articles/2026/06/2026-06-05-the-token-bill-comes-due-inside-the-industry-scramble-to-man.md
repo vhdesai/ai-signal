@@ -6,7 +6,7 @@ date: '2026-06-05'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/
 url_canonical: https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-06_070013_Final-Daily-AI-News-Digest.md
 content_hash: c729ad49cf3703fa8fbc298a18346e87c5ebbc3bcf560f6bce9efd520db99fa3
 normalized_title_hash: 561599f81eac2a72
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
 - 2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust
 - 2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model
-- 2026-06-10-ai-pilled-firms-now-spend-7-500-per-employee-per-month-on-ai
-- 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
+- 2026-08-29-the-a-i-token-tax-enterprise-costs-become-unpredictable-budg
+- 2026-08-29-the-a-i-token-tax-how-ai-usage-costs-are-reshaping-enterpris
 embedding_id: 2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch published an in-depth investigation into the enterprise AI cost crisi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-06-10-ai-pilled-firms-now-spend-7-500-per-employee-per-month-on-ai]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]]
+**Related:** [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-08-29-the-a-i-token-tax-enterprise-costs-become-unpredictable-budg]] · [[2026-08-29-the-a-i-token-tax-how-ai-usage-costs-are-reshaping-enterpris]]
 <!-- graph:end -->

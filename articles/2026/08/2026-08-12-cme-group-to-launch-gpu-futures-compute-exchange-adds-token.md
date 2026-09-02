@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne
 - 2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n
 - 2026-08-14-nvidia-s-500b-compute-financing-platform-draws-private-credi
-- 2026-08-13-nvidia-s-500b-financing-vehicle-includes-gpu-residual-value
+- 2026-08-28-nvidia-36b-ai-compute-partnership-paused-company-disputes-ch
 embedding_id: 2026-08-12-cme-group-to-launch-gpu-futures-compute-exchange-adds-token
 event_name: ''
 ---
@@ -39,5 +39,5 @@ CME Group announced an October launch for two exchange-traded GPU futures contra
 
 **Entities:** [[Cerebras]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne]] · [[2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n]] · [[2026-08-14-nvidia-s-500b-compute-financing-platform-draws-private-credi]] · [[2026-08-13-nvidia-s-500b-financing-vehicle-includes-gpu-residual-value]]
+**Related:** [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne]] · [[2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n]] · [[2026-08-14-nvidia-s-500b-compute-financing-platform-draws-private-credi]] · [[2026-08-28-nvidia-36b-ai-compute-partnership-paused-company-disputes-ch]]
 <!-- graph:end -->

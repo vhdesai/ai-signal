@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: Unite.AI
 url_original: https://www.unite.ai/ibm-study-puts-ai-inside-one-in-four-malicious-breaches/
 url_canonical: https://www.unite.ai/ibm-study-puts-ai-inside-one-in-four-malicious-breaches/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-30_060704_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 3897e0ca4f70a5076ae32eee3e64e5faab123cca92fb8885ba942ce45586cb1c
@@ -43,9 +43,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-29-ibm-s-2026-cost-of-a-data-breach-report-ai-now-appears-in-on
 - 2026-05-27-check-point-78-of-orgs-report-ai-related-security-incidents
+- 2026-08-27-100-companies-call-for-rogue-ai-defense-continued
 - 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
-- 2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a
 embedding_id: 2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4
 event_name: ''
 ---
@@ -59,5 +59,5 @@ IBM's annual report finds that attackers used AI in roughly 25% of malicious bre
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-29-ibm-s-2026-cost-of-a-data-breach-report-ai-now-appears-in-on]] · [[2026-05-27-check-point-78-of-orgs-report-ai-related-security-incidents]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a]]
+**Related:** [[2026-07-29-ibm-s-2026-cost-of-a-data-breach-report-ai-now-appears-in-on]] · [[2026-05-27-check-point-78-of-orgs-report-ai-related-security-incidents]] · [[2026-08-27-100-companies-call-for-rogue-ai-defense-continued]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]]
 <!-- graph:end -->

@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-03-anthropic-to-offer-in-country-claude-inference-in-india-via
 - 2026-08-03-anthropic-to-enable-in-country-claude-inference-in-india-via
 - 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
+- 2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo
 - 2026-08-06-karnataka-explores-an-ai-governance-partnership-with-anthrop
-- 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 embedding_id: 2026-08-03-anthropic-s-move-to-enable-in-country-inference-in-india-add
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic’s move to enable in-country inference in India addresses one of the 
 
 **Entities:** [[Amazon]] · [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-anthropic-to-offer-in-country-claude-inference-in-india-via]] · [[2026-08-03-anthropic-to-enable-in-country-claude-inference-in-india-via]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-08-06-karnataka-explores-an-ai-governance-partnership-with-anthrop]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]]
+**Related:** [[2026-08-03-anthropic-to-offer-in-country-claude-inference-in-india-via]] · [[2026-08-03-anthropic-to-enable-in-country-claude-inference-in-india-via]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo]] · [[2026-08-06-karnataka-explores-an-ai-governance-partnership-with-anthrop]]
 <!-- graph:end -->

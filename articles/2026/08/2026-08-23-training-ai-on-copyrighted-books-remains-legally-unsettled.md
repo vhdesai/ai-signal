@@ -3,15 +3,15 @@ article_id: 2026-08-23-training-ai-on-copyrighted-books-remains-legally-unsettle
 title: Training AI on Copyrighted Books Remains Legally Unsettled
 date: '2026-08-23'
 source: TechCrunch
-url_original: https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/
-url_canonical: https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/
-url_status: found
-digest_source: digests\raw\2026-08-24_085500_Final-Daily-AI-News-Digest.md
-content_hash: aa4088757995c65ade20fcdc27d9242d8a1011a4061809129f685ccab1aa0fbf
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-08-24_090225_Inbox_Daily AI News Digest – August 24,
+  2026.md
+content_hash: b9f61b14977caf25efc127d311eb85bbd92fc271d5197b09e1dd5ca056e17818
 normalized_title_hash: 8a4475e9bf5ee3e7
-canonical_url_hash: 736c2f98ab12883c
-tags:
-- Legal
+canonical_url_hash: ''
+tags: []
 entities:
 - Anthropic
 themes:
@@ -26,7 +26,7 @@ event_name: ''
 
 # Training AI on Copyrighted Books Remains Legally Unsettled
 
-Key rulings: Judge Alsup's Anthropic decision ($1.5B fine) ruled AI training itself lawful — penalizing only the piracy method. Judge Bibas in Thomson Reuters v. Ross ruled against fair use when AI directly competes with the source. Courts are converging on a competition-based test while the 1976 Copyright Act remains unamended. Enterprises licensing third-party models should continue to require indemnification and provenance disclosure.
+Alsup ruling ($1.5B Anthropic fine): training lawful, piracy method penalized. Thomson Reuters v. Ross: fair use denied when AI directly competes. Courts converging on competition-based test; 1976 Copyright Act unamended. TechCrunch SURVEILLANCE
 
 <!-- graph:start -->
 ## Connections

@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: AWS Machine Learning Blog
 url_original: https://aws.amazon.com/blogs/machine-learning/category/post-types/announcements/
 url_canonical: https://aws.amazon.com/blogs/machine-learning/category/post-types/announcements/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: aa70dcb3bbe9724bbf52f8a8eb733798dd8cc858a19a23863cce24fdc2fd3fe0
@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-03-30-aws-launches-agent-plugin-for-serverless-and-100-000-learner
 - 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
 - 2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick
+- 2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo
 - 2026-08-04-aws-launches-web-search-on-amazon-bedrock-for-model-groundin
-- 2026-07-31-aws-hires-apple-and-google-veteran-to-lead-key-ai-products
 embedding_id: 2026-07-13-aws-ships-a-low-code-ui-for-generative-ai-inference-recommen
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Amazon launched a UI in SageMaker AI Studio that walks teams through preset use-
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-03-30-aws-launches-agent-plugin-for-serverless-and-100-000-learner]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]] · [[2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick]] · [[2026-08-04-aws-launches-web-search-on-amazon-bedrock-for-model-groundin]] · [[2026-07-31-aws-hires-apple-and-google-veteran-to-lead-key-ai-products]]
+**Related:** [[2026-03-30-aws-launches-agent-plugin-for-serverless-and-100-000-learner]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]] · [[2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick]] · [[2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo]] · [[2026-08-04-aws-launches-web-search-on-amazon-bedrock-for-model-groundin]]
 <!-- graph:end -->

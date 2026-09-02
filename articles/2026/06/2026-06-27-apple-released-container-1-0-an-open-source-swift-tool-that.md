@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model
 - 2026-05-15-osaurus-brings-unified-local-cloud-ai-model-management-to-ma
 - 2026-08-20-ports-pike-advances-as-an-8-gw-ai-infrastructure-template-an
-- 2026-05-09-a-community-driven-open-source-project-released-a-metal-base
+- 2026-08-30-apple-s-mac-sales-surge-as-developers-buy-hardware-for-local
 embedding_id: 2026-06-27-apple-released-container-1-0-an-open-source-swift-tool-that
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple released "container" 1.0, an open‑source Swift tool that runs Linux cont
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-15-a-new-macos-tool-called-ai-osaurus-launched-today-giving-use]] · [[2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model]] · [[2026-05-15-osaurus-brings-unified-local-cloud-ai-model-management-to-ma]] · [[2026-08-20-ports-pike-advances-as-an-8-gw-ai-infrastructure-template-an]] · [[2026-05-09-a-community-driven-open-source-project-released-a-metal-base]]
+**Related:** [[2026-05-15-a-new-macos-tool-called-ai-osaurus-launched-today-giving-use]] · [[2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model]] · [[2026-05-15-osaurus-brings-unified-local-cloud-ai-model-management-to-ma]] · [[2026-08-20-ports-pike-advances-as-an-8-gw-ai-infrastructure-template-an]] · [[2026-08-30-apple-s-mac-sales-surge-as-developers-buy-hardware-for-local]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-05'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/
 url_canonical: https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-06_084325_Final-Daily-AI-News-Digest.md
 content_hash: f708405447f1443e80591e041d09c3899395c75d8181e8f0ded70e9f2877f85a
 normalized_title_hash: 3ecc7737a2e70573

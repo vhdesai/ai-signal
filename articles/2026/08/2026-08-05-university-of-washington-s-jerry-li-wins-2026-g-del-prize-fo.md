@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: UW Allen School
 url_original: https://www.cs.washington.edu/allen-school-blog/jerry-li-2026-godel-prize/
 url_canonical: https://www.cs.washington.edu/allen-school-blog/jerry-li-2026-godel-prize/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-07_061741_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 4e57b908030bc141315a630a8a4fec263c809be000828fefac1c9ae15d9d8423

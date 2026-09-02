@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-30-openclaw-ships-2-0-its-largest-release-built-by-933-contribu
+- 2026-08-31-openclaw-ships-2-0-its-largest-release-built-by-933-contribu
 - 2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme
 - 2026-08-20-nanoclaw-brings-persistent-ai-agent-teams-to-slack-from-a-si
-- 2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou
-- 2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl
-- 2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending
+- 2026-08-30-openclaw-2-0-ships-the-open-source-ai-client-s-largest-ever
 embedding_id: 2026-06-30-the-open-source-agent-project-openclaw-released-ios-and-andr
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The open-source agent project OpenClaw released iOS and Android companion apps t
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme]] · [[2026-08-20-nanoclaw-brings-persistent-ai-agent-teams-to-slack-from-a-si]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl]] · [[2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending]]
+**Related:** [[2026-08-30-openclaw-ships-2-0-its-largest-release-built-by-933-contribu]] · [[2026-08-31-openclaw-ships-2-0-its-largest-release-built-by-933-contribu]] · [[2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme]] · [[2026-08-20-nanoclaw-brings-persistent-ai-agent-teams-to-slack-from-a-si]] · [[2026-08-30-openclaw-2-0-ships-the-open-source-ai-client-s-largest-ever]]
 <!-- graph:end -->

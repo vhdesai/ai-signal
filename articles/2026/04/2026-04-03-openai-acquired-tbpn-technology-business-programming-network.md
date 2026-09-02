@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-08-openai-acquires-presentation-startup-nextslide
 - 2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar
 - 2026-08-08-openai-acquires-presentation-startup-nextslide-team-joins-ch
-- 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
+- 2026-08-31-openai-s-chatgpt-advertising-business-reaches-a-1b-annualize
 embedding_id: 2026-04-03-openai-acquired-tbpn-technology-business-programming-network
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI acquired TBPN (Technology Business Programming Network), a daily live tec
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-27-openai-to-start-showing-ads-on-chatgpt-free-and-go-tiers-in]] · [[2026-08-08-openai-acquires-presentation-startup-nextslide]] · [[2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar]] · [[2026-08-08-openai-acquires-presentation-startup-nextslide-team-joins-ch]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]]
+**Related:** [[2026-08-27-openai-to-start-showing-ads-on-chatgpt-free-and-go-tiers-in]] · [[2026-08-08-openai-acquires-presentation-startup-nextslide]] · [[2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar]] · [[2026-08-08-openai-acquires-presentation-startup-nextslide-team-joins-ch]] · [[2026-08-31-openai-s-chatgpt-advertising-business-reaches-a-1b-annualize]]
 <!-- graph:end -->

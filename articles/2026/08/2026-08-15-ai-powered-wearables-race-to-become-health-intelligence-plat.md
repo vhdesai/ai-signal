@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-google-health-first-cross-modality-foundation-model-for-wear
 - 2026-08-14-samsung-health-ai-models-analyze-wearable-biosignal-data-on
+- 2026-08-31-ai-disruption-in-electronic-health-records-accelerates-as-ve
 - 2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda
-- 2026-05-17-microsoft-corp-dev-ai-intelligence
 embedding_id: 2026-08-15-ai-powered-wearables-race-to-become-health-intelligence-plat
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The $44 billion global wearable industry is rapidly evolving toward AI-powered h
 
 **Entities:** [[Apple]] · [[Google]] · [[Samsung]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-google-health-first-cross-modality-foundation-model-for-wear]] · [[2026-08-14-samsung-health-ai-models-analyze-wearable-biosignal-data-on]] · [[2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda]] · [[2026-05-17-microsoft-corp-dev-ai-intelligence]]
+**Related:** [[2026-05-22-google-health-first-cross-modality-foundation-model-for-wear]] · [[2026-08-14-samsung-health-ai-models-analyze-wearable-biosignal-data-on]] · [[2026-08-31-ai-disruption-in-electronic-health-records-accelerates-as-ve]] · [[2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda]]
 <!-- graph:end -->

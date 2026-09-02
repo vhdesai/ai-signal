@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-30-openai-received-5-5b-in-sb-energy-warrants-ahead-of-softbank
 - 2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline
+- 2026-08-30-openai-received-about-5-5-billion-in-sb-energy-warrants-ahea
 - 2026-08-14-natural-gas-prices-could-triple-near-ai-data-centers-researc
-- 2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da
-- 2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da
-- 2026-08-13-ai-may-extend-fossil-fuel-dominance-more-than-data-center-po
+- 2026-08-31-sb-energy-issued-openai-warrants-now-valued-near-5-5b-to-sec
 embedding_id: 2026-05-14-fervo-energy-pops-33-in-ipo-fueled-by-ai-data-center-demand
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Fervo Energy pops 33% in IPO, fueled by AI data center demand — TechCrunch, Ma
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline]] · [[2026-08-14-natural-gas-prices-could-triple-near-ai-data-centers-researc]] · [[2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da]] · [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]] · [[2026-08-13-ai-may-extend-fossil-fuel-dominance-more-than-data-center-po]]
+**Related:** [[2026-08-30-openai-received-5-5b-in-sb-energy-warrants-ahead-of-softbank]] · [[2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline]] · [[2026-08-30-openai-received-about-5-5-billion-in-sb-energy-warrants-ahea]] · [[2026-08-14-natural-gas-prices-could-triple-near-ai-data-centers-researc]] · [[2026-08-31-sb-energy-issued-openai-warrants-now-valued-near-5-5b-to-sec]]
 <!-- graph:end -->

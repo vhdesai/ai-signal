@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: '[Bloomberg]'
 url_original: https://finance.yahoo.com/technology/ai/articles/alibaba-seeks-10-billion-share-073532899.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/alibaba-seeks-10-billion-share-073532899.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-23_061214_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: 348ae996e349596978089b1355f398a9c9a85a9a0177d3ec5ca3e1b0bc4202d8

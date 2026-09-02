@@ -6,7 +6,7 @@ date: '2026-06-02'
 source: TechCrunch; The HR Digest
 url_original: https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/
 url_canonical: https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-03_083329_Inbox_Daily AI News Digest – June 3,
   2026 (Updated).md
 content_hash: 77fe41f5fc4c0d933a9391e31cccf12bf8b0de932767edd64c121bb004932b04
@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon
+- 2026-08-27-microsoft-cracks-down-on-employee-ai-tokenmaxxing
 - 2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro
 - 2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc
 - 2026-06-10-ai-pilled-firms-now-spend-7-500-per-employee-per-month-on-ai
-- 2026-08-07-rippling-ships-ai-spend-console-after-token-costs-spiked-to
 embedding_id: 2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Uber has imposed caps on employee AI tool spending after burning through its ful
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro]] · [[2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc]] · [[2026-06-10-ai-pilled-firms-now-spend-7-500-per-employee-per-month-on-ai]] · [[2026-08-07-rippling-ships-ai-spend-console-after-token-costs-spiked-to]]
+**Related:** [[2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon]] · [[2026-08-27-microsoft-cracks-down-on-employee-ai-tokenmaxxing]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro]] · [[2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc]] · [[2026-06-10-ai-pilled-firms-now-spend-7-500-per-employee-per-month-on-ai]]
 <!-- graph:end -->

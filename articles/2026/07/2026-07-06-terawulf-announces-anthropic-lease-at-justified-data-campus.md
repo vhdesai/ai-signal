@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: TeraWulf / GlobeNewswire
 url_original: https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
 url_canonical: https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-07_061720_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: acac8417418e796e1633ad30c96931773103b21f25cabeb68565e6859fa6658c
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-26-anthropic-signs-45b-compute-deal-with-nscale
 - 2026-06-11-anthropic-pursues-data-center-leases-seeks-financial-backing
 - 2026-08-11-anthropic-signs-a-9-1b-20-year-191-mw-compute-lease-with-rio
-- 2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu
+- 2026-08-26-anthropic-strikes-45-billion-cloud-deal-with-nscale
 embedding_id: 2026-07-06-terawulf-announces-anthropic-lease-at-justified-data-campus
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic signed a 20-year lease tied to a 401-megawatt AI infrastructure campus
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-06-terawulf-signs-19b-ai-infrastructure-lease-with-anthropic]] · [[2026-08-26-anthropic-signs-45b-compute-deal-with-nscale]] · [[2026-06-11-anthropic-pursues-data-center-leases-seeks-financial-backing]] · [[2026-08-11-anthropic-signs-a-9-1b-20-year-191-mw-compute-lease-with-rio]] · [[2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu]]
+**Related:** [[2026-07-06-terawulf-signs-19b-ai-infrastructure-lease-with-anthropic]] · [[2026-08-26-anthropic-signs-45b-compute-deal-with-nscale]] · [[2026-06-11-anthropic-pursues-data-center-leases-seeks-financial-backing]] · [[2026-08-11-anthropic-signs-a-9-1b-20-year-191-mw-compute-lease-with-rio]] · [[2026-08-26-anthropic-strikes-45-billion-cloud-deal-with-nscale]]
 <!-- graph:end -->

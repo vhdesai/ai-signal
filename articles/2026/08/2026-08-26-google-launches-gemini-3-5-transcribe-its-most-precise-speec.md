@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Ars Technica
 url_original: https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/
 url_canonical: https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_062110_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 9038305bc711f187ff6cbe0c42547cb4bbb34d808d28adc986bcbfbb6b650130
@@ -21,9 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-27-google-launches-gemini-3-5-transcribe-speech-to-text-model
 - 2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-speech-t
 - 2026-08-26-google-deepmind-ships-gemini-3-5-transcribe-with-2-6-word-er
-- 2026-05-19-gemini-3-1-ultra-already-shipping-with-2m-token-native-multi
+- 2026-08-27-google-releases-gemini-3-5-transcribe-with-2-6-average-word
 embedding_id: 2026-08-26-google-launches-gemini-3-5-transcribe-its-most-precise-speec
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Google introduced Gemini 3.5 Transcribe, a speech-to-text model it says is subst
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-speech-t]] · [[2026-08-26-google-deepmind-ships-gemini-3-5-transcribe-with-2-6-word-er]] · [[2026-05-19-gemini-3-1-ultra-already-shipping-with-2m-token-native-multi]]
+**Related:** [[2026-08-27-google-launches-gemini-3-5-transcribe-speech-to-text-model]] · [[2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-speech-t]] · [[2026-08-26-google-deepmind-ships-gemini-3-5-transcribe-with-2-6-word-er]] · [[2026-08-27-google-releases-gemini-3-5-transcribe-with-2-6-average-word]]
 <!-- graph:end -->

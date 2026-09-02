@@ -6,7 +6,7 @@ date: '2026-07-10'
 source: AiThority
 url_original: https://aithority.com/it-and-devops/cloud/coreweave-named-a-visionary-in-the-2026-gartner-magic-quadrant-for-cloud-ai-infrastructure/
 url_canonical: https://aithority.com/it-and-devops/cloud/coreweave-named-a-visionary-in-the-2026-gartner-magic-quadrant-for-cloud-ai-infrastructure/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-10_061505_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: be868bef6fc3831c56a1bf3541fa437f5b81fc3eba326349007fa4500695d272

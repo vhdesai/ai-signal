@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return
+- 2026-08-27-anthropic-considers-letting-shareholders-sell-in-ipo-departi
 - 2026-08-06-how-dario-amodei-spread-anthropic-s-religion-and-angered-riv
 embedding_id: 2026-08-18-anthropic-prepares-supervoting-power-for-dario-amodei-as-it
 event_name: ''
@@ -36,5 +37,5 @@ Anthropic is preparing to give CEO Dario Amodei and co-founders supervoting stoc
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return]] · [[2026-08-06-how-dario-amodei-spread-anthropic-s-religion-and-angered-riv]]
+**Related:** [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return]] · [[2026-08-27-anthropic-considers-letting-shareholders-sell-in-ipo-departi]] · [[2026-08-06-how-dario-amodei-spread-anthropic-s-religion-and-angered-riv]]
 <!-- graph:end -->

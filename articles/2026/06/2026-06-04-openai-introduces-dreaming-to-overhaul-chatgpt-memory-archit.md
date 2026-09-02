@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: OpenAI; Engadget
 url_original: https://openai.com/index/dreaming-better-memory-for-a-more-helpful-chatgpt/
 url_canonical: https://openai.com/index/dreaming-better-memory-for-a-more-helpful-chatgpt/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-05_080826_Final-Daily-AI-News-Digest.md
 content_hash: 911afba0460998506f021fb14f067a2573d7f68ce4b5836147d0beefca36e450
 normalized_title_hash: fde4b17da7401403

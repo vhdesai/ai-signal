@@ -27,10 +27,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic
+- 2026-08-31-google-takes-aim-at-anthropic-microsoft-with-budget-friendly
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 - 2026-07-13-microsoft-anthropic-strategy
-- 2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-in-house-ma
 embedding_id: 2026-07-15-microsoft-reportedly-trains-sales-teams-to-compete-more-dire
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Microsoft is reportedly coaching salespeople to position its in-house AI models 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-07-13-microsoft-anthropic-strategy]] · [[2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-in-house-ma]]
+**Related:** [[2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic]] · [[2026-08-31-google-takes-aim-at-anthropic-microsoft-with-budget-friendly]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-07-13-microsoft-anthropic-strategy]]
 <!-- graph:end -->

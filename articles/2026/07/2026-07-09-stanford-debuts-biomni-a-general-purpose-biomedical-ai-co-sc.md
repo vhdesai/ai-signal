@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: Stanford HAI
 url_original: https://news.stanford.edu/stories/2026/07/biomni-ai-powered-biomedical-co-scientist
 url_canonical: https://news.stanford.edu/stories/2026/07/biomni-ai-powered-biomedical-co-scientist
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-10_082135_Inbox_Fw Daily AI News Digest - July
   10, 2026.md
 content_hash: 6e0271be4c021fedb0c16eb6698da70567d470bea06d3057301fd31b1307061e

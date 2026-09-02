@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-01-pitchbook-says-the-saas-pocalypse-is-entering-its-second-pha
 - 2026-08-07-saas-companies-race-to-reinvent-as-ai-agents-replace-softwar
 - 2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a
+- 2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
-- 2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending
 embedding_id: 2026-08-01-pitchbook-saas-pocalypse-enters-second-phase-as-ai-agents-re
 event_name: ''
 ---
@@ -38,5 +38,5 @@ PitchBook's latest research brief declares that the SaaS disruption cycle has en
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-01-pitchbook-says-the-saas-pocalypse-is-entering-its-second-pha]] · [[2026-08-07-saas-companies-race-to-reinvent-as-ai-agents-replace-softwar]] · [[2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending]]
+**Related:** [[2026-08-01-pitchbook-says-the-saas-pocalypse-is-entering-its-second-pha]] · [[2026-08-07-saas-companies-race-to-reinvent-as-ai-agents-replace-softwar]] · [[2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a]] · [[2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]]
 <!-- graph:end -->

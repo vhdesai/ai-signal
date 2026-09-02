@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=data%20center%20restrictions
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=data%20center%20restrictions
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-11_062021_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 765625b756dab0b9923f06f808e3f60a7278dd125d4382340ca02b07a2fb1055

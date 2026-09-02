@@ -5,7 +5,7 @@ date: '2026-07-25'
 source: Startup Fortune**
 url_original: https://startupfortune.com/anthropic-asked-sk-hynix-for-chip-supplies-as-it-moves-to-build-its-own-silicon/
 url_canonical: https://startupfortune.com/anthropic-asked-sk-hynix-for-chip-supplies-as-it-moves-to-build-its-own-silicon/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-26_065030_Final-Daily-AI-News-Digest.md
 content_hash: 6d6c8f8aeb351b1972bd11858430de97b4ce2f31869a9f822e62723da482b0f7
 normalized_title_hash: 98929233e395aac4

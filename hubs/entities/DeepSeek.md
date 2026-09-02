@@ -1,13 +1,21 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 375
+member_count: 383
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 375 connected article(s).
+> Auto-generated entity hub. 383 connected article(s).
 
+- `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-08-29` [[2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta|Anthropic opens a research preview of the Model Hardware Standard for agents operating physical devices]]
+- `2026-08-28` [[2026-08-28-z-ai-s-latest-model-intensifies-low-cost-competition-tencent|Z.ai’s Latest Model Intensifies Low-Cost Competition; Tencent Shows Major Progress]]
+- `2026-08-28` [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social|MIT AI report calls for alternative grading and more social learning]]
+- `2026-08-28` [[2026-08-28-deepseek-founder-s-high-flyer-fund-piles-into-chinese-tech-i|DeepSeek founder's High-Flyer fund piles into Chinese tech IPOs]]
+- `2026-08-27` [[2026-08-27-nvidia-optimizes-hardware-for-deepseek-and-qwen-while-flaggi|Nvidia optimizes hardware for DeepSeek and Qwen while flagging China-model restriction risk]]
+- `2026-08-27` [[2026-08-27-nvidia-optimizes-for-deepseek-and-qwen-while-warning-on-u-s|Nvidia Optimizes for DeepSeek and Qwen While Warning on U.S. Restrictions]]
+- `2026-08-27` [[2026-08-27-nvidia-optimizes-for-deepseek-and-qwen-while-flagging-china|Nvidia Optimizes for DeepSeek and Qwen While Flagging China-Model Restriction Risk]]
 - `2026-08-26` [[2026-08-26-deepseek-s-revenue-reaches-70-million-as-of-july-tenfold-jum|DeepSeek's Revenue Reaches $70 Million as of July — Tenfold Jump from 2025]]
 - `2026-08-26` [[2026-08-26-deepseek-nears-74b-pre-ipo-round-eyes-2027-star-market-debut|DeepSeek nears ~$74B pre-IPO round, eyes 2027 STAR Market debut]]
 - `2026-08-26` [[2026-08-26-deepseek-revenue-reaches-70m-through-july-tenfold-jump-from|DeepSeek Revenue Reaches $70M Through July—Tenfold Jump From 2025]]

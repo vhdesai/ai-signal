@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-08-05-google-in-talks-for-1-5b-deal-with-coding-agent-startup-mech
 - 2026-08-18-google-wins-spirit-airlines-bankrupt-data-estate-for-10m
 - 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
+- 2026-08-31-ftc-and-22-state-attorneys-general-sue-amazon-over-alleged-a
 embedding_id: 2026-05-28-dealbook-google-employee-charged-in-polymarket-insider-tradi
 event_name: ''
 ---
@@ -37,5 +38,5 @@ A Google employee, Michele Spagnuolo, was charged by the CFTC after making more 
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-05-google-in-talks-for-1-5b-deal-with-coding-agent-startup-mech]] · [[2026-08-18-google-wins-spirit-airlines-bankrupt-data-estate-for-10m]] · [[2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer]]
+**Related:** [[2026-08-05-google-in-talks-for-1-5b-deal-with-coding-agent-startup-mech]] · [[2026-08-18-google-wins-spirit-airlines-bankrupt-data-estate-for-10m]] · [[2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer]] · [[2026-08-31-ftc-and-22-state-attorneys-general-sue-amazon-over-alleged-a]]
 <!-- graph:end -->

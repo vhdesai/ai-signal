@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/
 url_canonical: https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-30_062819_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 1eb3eef865a3c8d212adef133084138a7c954784b05bc0f7737493dbff368029
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-30-thinking-machines-cofounder-lilian-weng-returns-to-openai-fo
 - 2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement
 - 2026-08-03-13-ai-talent-war-intensifies-lilian-weng-reportedly-returns
-- 2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent
+- 2026-08-27-barret-zoph-thinking-machines-co-founder-who-left-for-openai
 embedding_id: 2026-07-29-thinking-machines-co-founder-lilian-weng-departs-rejoins-ope
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Lilian Weng, co-founder of Thinking Machines, said she is stepping down citing t
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin]] · [[2026-07-30-thinking-machines-cofounder-lilian-weng-returns-to-openai-fo]] · [[2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement]] · [[2026-08-03-13-ai-talent-war-intensifies-lilian-weng-reportedly-returns]] · [[2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent]]
+**Related:** [[2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin]] · [[2026-07-30-thinking-machines-cofounder-lilian-weng-returns-to-openai-fo]] · [[2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement]] · [[2026-08-03-13-ai-talent-war-intensifies-lilian-weng-reportedly-returns]] · [[2026-08-27-barret-zoph-thinking-machines-co-founder-who-left-for-openai]]
 <!-- graph:end -->

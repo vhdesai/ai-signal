@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: VentureBeat
 url_original: https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-they-happen
 url_canonical: https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-they-happen
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-21_061353_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 66d390eceb9bd2a5198783aa323afe4ba8e165291e13ae4c3483e9b2d02cad82
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-20-serval-launches-catalyst-a-super-agent-that-spawns-backgroun
 - 2026-08-20-serval-s-super-agent-catalyst-deploys-roving-background-agen
 - 2026-08-20-serval-makes-catalyst-super-agent-generally-available-for-au
+- 2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono
 - 2026-07-17-capital-one-open-sources-vulnhunter-an-agentic-tool-that-fin
-- 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
 embedding_id: 2026-08-20-serval-debuts-catalyst-a-roving-agent-that-fixes-it-issues-p
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Serval launched Catalyst, a “super agent” that spawns background agents to d
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-20-serval-launches-catalyst-a-super-agent-that-spawns-backgroun]] · [[2026-08-20-serval-s-super-agent-catalyst-deploys-roving-background-agen]] · [[2026-08-20-serval-makes-catalyst-super-agent-generally-available-for-au]] · [[2026-07-17-capital-one-open-sources-vulnhunter-an-agentic-tool-that-fin]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]]
+**Related:** [[2026-08-20-serval-launches-catalyst-a-super-agent-that-spawns-backgroun]] · [[2026-08-20-serval-s-super-agent-catalyst-deploys-roving-background-agen]] · [[2026-08-20-serval-makes-catalyst-super-agent-generally-available-for-au]] · [[2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono]] · [[2026-07-17-capital-one-open-sources-vulnhunter-an-agentic-tool-that-fin]]
 <!-- graph:end -->

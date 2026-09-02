@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: Wired
 url_original: https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/
 url_canonical: https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-02_060023_Daily-AI-News-Digest.md
 content_hash: c9aabaaa227c55f8f855ffe30f0297412eff57129c8ff8b77120bde2f47d12a9
 normalized_title_hash: dee0d940bee61cfc
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri
 - 2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio
 - 2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat
-- 2026-06-18-trump-s-shadow-ai-policy-emerges-case-by-case-interventions
+- 2026-08-27-trump-administration-s-ai-self-regulatory-eo-has-stalled
 embedding_id: 2026-06-02-trump-administration-at-war-with-itself-over-ai-regulation
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Wired published an investigation revealing deep internal divisions within the Tr
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-02-white-house-divided-over-ai-regulation-as-policy-window-narr]] · [[2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri]] · [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]] · [[2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat]] · [[2026-06-18-trump-s-shadow-ai-policy-emerges-case-by-case-interventions]]
+**Related:** [[2026-06-02-white-house-divided-over-ai-regulation-as-policy-window-narr]] · [[2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri]] · [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]] · [[2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat]] · [[2026-08-27-trump-administration-s-ai-self-regulatory-eo-has-stalled]]
 <!-- graph:end -->

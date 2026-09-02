@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: Yahoo Finance / Cerebras
 url_original: https://finance.yahoo.com/technology/ai/articles/lovable-cerebras-partner-power-ai-132500808.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/lovable-cerebras-partner-power-ai-132500808.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 56196c7afffcaa16b34a5345da1bd12e26e81f9b2efcf98911f323ebca01c980
@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-24-amazon-web-services-and-cerebras-systems-announced-a-collabo
+- 2026-08-28-cerebras-expands-ai-inference-infrastructure-across-europe-a
 - 2026-08-20-cerebras-partners-with-callosum-to-expand-agentic-inference
 - 2026-07-22-crowdstrike-and-cerebras-partner-on-high-speed-ai-threat-det
 - 2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation
-- 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
 embedding_id: 2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Cerebras announced a partnership bringing its wafer-scale inference performance 
 
 **Entities:** [[Cerebras]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-03-24-amazon-web-services-and-cerebras-systems-announced-a-collabo]] · [[2026-08-20-cerebras-partners-with-callosum-to-expand-agentic-inference]] · [[2026-07-22-crowdstrike-and-cerebras-partner-on-high-speed-ai-threat-det]] · [[2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]]
+**Related:** [[2026-03-24-amazon-web-services-and-cerebras-systems-announced-a-collabo]] · [[2026-08-28-cerebras-expands-ai-inference-infrastructure-across-europe-a]] · [[2026-08-20-cerebras-partners-with-callosum-to-expand-agentic-inference]] · [[2026-07-22-crowdstrike-and-cerebras-partner-on-high-speed-ai-threat-det]] · [[2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation]]
 <!-- graph:end -->

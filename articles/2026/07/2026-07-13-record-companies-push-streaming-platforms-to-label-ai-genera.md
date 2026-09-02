@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-21-apple-music-will-label-ai-generated-songs-with-disclosure-ta
 - 2026-08-20-apple-music-to-apply-visible-made-with-ai-labels-to-generate
 - 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
-- 2026-08-21-apple-music-makes-ai-transparency-tags-mandatory
+- 2026-08-29-record-labels-fight-over-ai-music-as-copyright-battle-intens
 embedding_id: 2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A coalition representing music labels and artists is pushing streaming platforms
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-20-apple-music-will-label-songs-materially-generated-using-ai]] · [[2026-08-21-apple-music-will-label-ai-generated-songs-with-disclosure-ta]] · [[2026-08-20-apple-music-to-apply-visible-made-with-ai-labels-to-generate]] · [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]] · [[2026-08-21-apple-music-makes-ai-transparency-tags-mandatory]]
+**Related:** [[2026-08-20-apple-music-will-label-songs-materially-generated-using-ai]] · [[2026-08-21-apple-music-will-label-ai-generated-songs-with-disclosure-ta]] · [[2026-08-20-apple-music-to-apply-visible-made-with-ai-labels-to-generate]] · [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]] · [[2026-08-29-record-labels-fight-over-ai-music-as-copyright-battle-intens]]
 <!-- graph:end -->

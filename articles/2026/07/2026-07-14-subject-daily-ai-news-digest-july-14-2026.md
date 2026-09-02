@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-12-july-13-2026
 - 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
+- 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
 - 2026-08-12-daily-ai-news-digest-august-13-2026
-- 2026-07-07-daily-ai-news-digest-july-8-2026
 embedding_id: 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Executive Summary: The last 24 hours were not about a new frontier-model launch;
 
 **Entities:** [[Google]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-12-july-13-2026]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-08-12-daily-ai-news-digest-august-13-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]]
+**Related:** [[2026-07-12-july-13-2026]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-08-12-daily-ai-news-digest-august-13-2026]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-07-09'
 source: NVIDIA
 url_original: https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4
 url_canonical: https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-10_062836_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 8455f8ebe969a17e4a2607b168fe781f40ec70cba81818fafd436488ed954ec0

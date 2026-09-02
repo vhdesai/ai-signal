@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI+security+analysis+privacy+protections
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI+security+analysis+privacy+protections
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-20_065702_Final-Daily-AI-News-Digest.md
 content_hash: d0f5cf7a2f295e0ca345f7136fe74c4af6ca78542d8ce51c8dec3c616e751a71
 normalized_title_hash: 416605db1f1ba2ad

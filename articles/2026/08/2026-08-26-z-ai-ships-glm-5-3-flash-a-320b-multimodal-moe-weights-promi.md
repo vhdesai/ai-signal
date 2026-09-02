@@ -3,14 +3,14 @@ article_id: 2026-08-26-z-ai-ships-glm-5-3-flash-a-320b-multimodal-moe-weights-pr
 title: Z.ai Ships GLM-5.3-Flash, a 320B Multimodal MoE — Weights Promised in Two Weeks
 date: '2026-08-26'
 source: Cloudflare Developer Changelog
-url_original: https://developers.cloudflare.com/changelog/post/2026-08-26-glm-5.3-flash-workers-ai/
-url_canonical: https://developers.cloudflare.com/changelog/post/2026-08-26-glm-5.3-flash-workers-ai/
-url_status: found
-digest_source: digests\raw\2026-08-27_065423_Inbox_Daily AI News Digest - August 27,
-  2026.md
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-08-27_084528_Inbox_Fw Daily AI News Digest – August
+  27, 2026.md
 content_hash: f3ba2ba7295ecd0e041d0e276efb894b39766b621774a7867caebcc014252a54
 normalized_title_hash: 69eeb86df6a17fc3
-canonical_url_hash: a72baa28001a1919
+canonical_url_hash: ''
 tags:
 - New
 entities: []

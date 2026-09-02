@@ -6,7 +6,7 @@ date: '2026-08-20'
 source: VentureBeat
 url_original: https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed
 url_canonical: https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-21_060504_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 8f3cf6dad9dc20b94e3469c1fccecb0b0421bec43521ef06c2cdd19a1531ee83

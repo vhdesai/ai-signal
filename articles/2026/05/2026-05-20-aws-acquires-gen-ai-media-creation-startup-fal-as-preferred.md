@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
+- 2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a
 - 2026-08-03-aws-partners-with-superblocks-to-bring-vibe-coding-into-priv
 - 2026-06-10-warner-music-acquires-ai-attribution-startup-sureel-ai
-- 2026-07-31-amazon-s-aws-acceleration-validates-ai-infrastructure-spendi
-- 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
 embedding_id: 2026-05-20-aws-acquires-gen-ai-media-creation-startup-fal-as-preferred
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Amazon Web Services confirmed on May 20 that it has acquired fal, a fast-growing
 
 **Entities:** [[Amazon]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-08-03-aws-partners-with-superblocks-to-bring-vibe-coding-into-priv]] · [[2026-06-10-warner-music-acquires-ai-attribution-startup-sureel-ai]] · [[2026-07-31-amazon-s-aws-acceleration-validates-ai-infrastructure-spendi]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]]
+**Related:** [[2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a]] · [[2026-08-03-aws-partners-with-superblocks-to-bring-vibe-coding-into-priv]] · [[2026-06-10-warner-music-acquires-ai-attribution-startup-sureel-ai]]
 <!-- graph:end -->

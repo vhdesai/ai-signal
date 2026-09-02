@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: Digital Trends
 url_original: https://www.digitaltrends.com/computing/turns-out-teaching-games-like-battleship-can-make-small-ai-models-a-whole-lot-smarter/
 url_canonical: https://www.digitaltrends.com/computing/turns-out-teaching-games-like-battleship-can-make-small-ai-models-a-whole-lot-smarter/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: cb82fdef7cc6f4f2402a5269985a6cb596f3a248a45dede57d57b201791a3f32
@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-04-mit-uses-battleship-to-show-small-models-can-out-question-la
 - 2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d
+- 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
 - 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-07-09-mit-s-floatform-swarm-of-small-robotic-boats-self-assembles
 embedding_id: 2026-06-05-mit-uses-battleship-to-show-small-models-can-out-question-la
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT used a Battleship-style task to show that improving question-planning lets a
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-04-mit-uses-battleship-to-show-small-models-can-out-question-la]] · [[2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-07-09-mit-s-floatform-swarm-of-small-robotic-boats-self-assembles]]
+**Related:** [[2026-06-04-mit-uses-battleship-to-show-small-models-can-out-question-la]] · [[2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d]] · [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
 <!-- graph:end -->

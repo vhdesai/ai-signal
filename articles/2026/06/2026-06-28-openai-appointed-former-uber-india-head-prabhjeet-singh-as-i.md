@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-27-openai-names-ex-uber-india-chief-as-its-first-india-managing
+- 2026-08-28-openai-hires-meta-s-sandhya-devanathan-to-lead-southeast-asi
+- 2026-08-28-meta-executive-leaves-for-openai-to-oversee-southeast-asia-o
+- 2026-08-28-meta-executive-sandhya-devanathan-leaves-for-openai-to-overs
 - 2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny
-- 2026-07-12-openai-safety-governance
-- 2026-06-19-noam-shazeer-co-author-of-the-foundational-2017-attention-is
 embedding_id: 2026-06-28-openai-appointed-former-uber-india-head-prabhjeet-singh-as-i
 event_name: ''
 ---
@@ -38,5 +39,5 @@ OpenAI appointed former Uber India head Prabhjeet Singh as its most senior India
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-27-openai-names-ex-uber-india-chief-as-its-first-india-managing]] · [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny]] · [[2026-07-12-openai-safety-governance]] · [[2026-06-19-noam-shazeer-co-author-of-the-foundational-2017-attention-is]]
+**Related:** [[2026-06-27-openai-names-ex-uber-india-chief-as-its-first-india-managing]] · [[2026-08-28-openai-hires-meta-s-sandhya-devanathan-to-lead-southeast-asi]] · [[2026-08-28-meta-executive-leaves-for-openai-to-oversee-southeast-asia-o]] · [[2026-08-28-meta-executive-sandhya-devanathan-leaves-for-openai-to-overs]] · [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny]]
 <!-- graph:end -->

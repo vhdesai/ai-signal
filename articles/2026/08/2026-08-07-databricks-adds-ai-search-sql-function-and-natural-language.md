@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: Databricks / Microsoft Learn
 url_original: https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2026/august
 url_canonical: https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2026/august
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-08_060927_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 2fb5de77a0848d79149b1955801887dca0354093310415341e374dee650fbf8b

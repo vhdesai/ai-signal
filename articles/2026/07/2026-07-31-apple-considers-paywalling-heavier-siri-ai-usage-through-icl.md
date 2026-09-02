@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/
 url_canonical: https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-01_060637_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 6ceaa81d07aa5f10d5e760cd9ad846a57ca5fefb09da28c656c2896a8bd91f98

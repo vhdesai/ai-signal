@@ -5,7 +5,7 @@ date: '2026-07-20'
 source: Reuters**
 url_original: https://finance.yahoo.com/technology/articles/blackstone-invests-south-korean-robotics-060542801.html
 url_canonical: https://finance.yahoo.com/technology/articles/blackstone-invests-south-korean-robotics-060542801.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-21_065051_Final-Daily-AI-News-Digest.md
 content_hash: 57e86e9038a6ef01b94ab4139a0e4a93a5c01b2a7531cee16674d868d0ad9c7b
 normalized_title_hash: 746f056735a71f77

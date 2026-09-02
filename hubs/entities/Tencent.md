@@ -1,13 +1,27 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 158
+member_count: 172
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 158 connected article(s).
+> Auto-generated entity hub. 172 connected article(s).
 
+- `2026-09-01` [[2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo|Tencent-Backed AI Chipmaker Enflame Seeks ~$911 Million in IPO]]
+- `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-08-31` [[2026-08-31-tencent-backed-china-chipmaker-enflame-seeks-911-million-in|Tencent-backed China chipmaker Enflame seeks $911 million in IPO]]
+- `2026-08-31` [[2026-08-31-tencent-unveils-hy4-preview-open-source-model-for-coding-and|Tencent Unveils Hy4 Preview Open-Source Model for Coding and Research]]
+- `2026-08-30` [[2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod|Tencent unveils Hy4 preview — a 770B-parameter open-source model]]
+- `2026-08-29` [[2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta|Anthropic opens a research preview of the Model Hardware Standard for agents operating physical devices]]
+- `2026-08-28` [[2026-08-28-z-ai-s-latest-model-intensifies-low-cost-competition-tencent|Z.ai’s Latest Model Intensifies Low-Cost Competition; Tencent Shows Major Progress]]
+- `2026-08-28` [[2026-08-28-tencent-releases-hy4-preview-claims-wins-over-z-ai-and-moons|Tencent releases “Hy4 Preview,” claims wins over Z.ai and Moonshot]]
+- `2026-08-28` [[2026-08-28-tencent-open-sources-hy4-preview-770b-parameters-49b-active|Tencent open-sources Hy4 preview: 770B parameters, 49B active, 1M-token context]]
+- `2026-08-28` [[2026-08-28-tencent-open-sources-hy4-preview-770b-moe-1m-token-context|Tencent Open-Sources Hy4 Preview: 770B MoE, 1M-Token Context]]
+- `2026-08-28` [[2026-08-28-tencent-open-sources-hy4-preview-770b-moe-with-a-1m-token-co|Tencent Open-Sources Hy4 Preview: 770B MoE With a 1M-Token Context Window]]
+- `2026-08-28` [[2026-08-28-nvidia-warns-of-supply-constraints-enterprises-bet-on-agents|Nvidia Warns of Supply Constraints; Enterprises Bet on Agents for In-House Software]]
+- `2026-08-28` [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social|MIT AI report calls for alternative grading and more social learning]]
+- `2026-08-27` [[2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto|The Enterprise Agent Risk Is Inter-Agent Complexity, Not Autonomy]]
 - `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-an-ai-robot-tax|Bill Gates calls for "human reserved" jobs and an AI/robot tax]]
 - `2026-08-25` [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc|Liquid AI Open-Sources Pipette, a Reproducible On-Device Benchmarking Suite]]
 - `2026-08-25` [[2026-08-25-bytedance-launches-doubao-work-a-unified-office-ai-suitenew|ByteDance launches Doubao Work, a unified office AI suiteNew]]

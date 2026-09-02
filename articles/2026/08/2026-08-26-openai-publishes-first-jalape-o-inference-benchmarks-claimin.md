@@ -6,7 +6,7 @@ date: '2026-08-26'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html
 url_canonical: https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_060153_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 865cc77df5e13df917cc334142309c4127d460aea30dadfc5be42a4796415981

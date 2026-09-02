@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
 - 2026-07-17-spacex-reportedly-discusses-providing-compute-for-pentagon-a
+- 2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory
 - 2026-08-21-starcloud-raises-250m-at-a-2-3b-valuation-for-orbital-data-c
 - 2026-08-21-starcloud-raises-250-million-for-orbital-ai-data-centers
-- 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
 embedding_id: 2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechCrunch reported today that Google and SpaceX are in early talks to co-develo
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-07-17-spacex-reportedly-discusses-providing-compute-for-pentagon-a]] · [[2026-08-21-starcloud-raises-250m-at-a-2-3b-valuation-for-orbital-data-c]] · [[2026-08-21-starcloud-raises-250-million-for-orbital-ai-data-centers]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]]
+**Related:** [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-07-17-spacex-reportedly-discusses-providing-compute-for-pentagon-a]] · [[2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory]] · [[2026-08-21-starcloud-raises-250m-at-a-2-3b-valuation-for-orbital-data-c]] · [[2026-08-21-starcloud-raises-250-million-for-orbital-ai-data-centers]]
 <!-- graph:end -->

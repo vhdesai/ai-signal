@@ -6,7 +6,7 @@ date: '2026-08-21'
 source: GlobeNewswire via Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/ai-technology-investment-accelerates-across-141100441.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/ai-technology-investment-accelerates-across-141100441.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_060949_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 8efd88cda986453227ad744f446b170d3ba8bfc1b5df3aeea68771a545abb0a1

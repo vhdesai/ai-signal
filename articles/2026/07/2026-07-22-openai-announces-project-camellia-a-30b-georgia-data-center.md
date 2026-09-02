@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-22-openai-s-planned-ai-infrastructure-spending-rises-to-750-bil
 - 2026-07-22-openai-announces-ai-infrastructure-project-in-effingham-coun
 - 2026-07-22-openai-s-infrastructure-budget-balloons-to-750b-through-2030
-- 2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga
+- 2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered
 embedding_id: 2026-07-22-openai-announces-project-camellia-a-30b-georgia-data-center
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI announced Project Camellia, a roughly $30 billion, 3.2-gigawatt data-cent
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-23-openai-unveils-project-camellia-a-30b-3-2-gw-data-center-cam]] · [[2026-07-22-openai-s-planned-ai-infrastructure-spending-rises-to-750-bil]] · [[2026-07-22-openai-announces-ai-infrastructure-project-in-effingham-coun]] · [[2026-07-22-openai-s-infrastructure-budget-balloons-to-750b-through-2030]] · [[2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga]]
+**Related:** [[2026-07-23-openai-unveils-project-camellia-a-30b-3-2-gw-data-center-cam]] · [[2026-07-22-openai-s-planned-ai-infrastructure-spending-rises-to-750-bil]] · [[2026-07-22-openai-announces-ai-infrastructure-project-in-effingham-coun]] · [[2026-07-22-openai-s-infrastructure-budget-balloons-to-750b-through-2030]] · [[2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered]]
 <!-- graph:end -->

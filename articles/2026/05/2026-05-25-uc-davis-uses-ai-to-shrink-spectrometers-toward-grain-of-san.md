@@ -5,7 +5,7 @@ date: '2026-05-25'
 source: ScienceDaily
 url_original: https://www.sciencedaily.com/releases/2026/05/260525000501.htm
 url_canonical: https://www.sciencedaily.com/releases/2026/05/260525000501.htm
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-26_081412_Inbox_Daily AI News Digest –– May 26,
   2026 (Corrected Cowork Edition).md
 content_hash: c85d5eb8793e8f930ba1ace4bae1d8e65390d41636277f536f7e5b3f6a2339e8

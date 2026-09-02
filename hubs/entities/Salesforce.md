@@ -1,14 +1,23 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 54
+member_count: 63
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 54 connected article(s).
+> Auto-generated entity hub. 63 connected article(s).
 
+- `2026-09-01` [[2026-09-01-salesforce-puts-its-entire-crm-inside-claude|Salesforce Puts Its Entire CRM Inside Claude]]
+- `2026-08-31` [[2026-08-31-openai-tests-outcome-based-pricing-with-major-customers|OpenAI Tests Outcome-Based Pricing With Major Customers]]
+- `2026-08-31` [[2026-08-31-ai-vendors-test-outcome-based-pricing-as-salesforce-style-mo|AI vendors test outcome-based pricing as Salesforce-style monetization gets harder]]
+- `2026-08-28` [[2026-08-28-salesforce-anthropic-claudeforce-signals-the-end-of-model-ag|Salesforce–Anthropic "Claudeforce" Signals the End of Model-Agnostic Enterprise AI]]
+- `2026-08-28` [[2026-08-28-salesforce-rockets-23-saasaissance-declared-as-software-stoc|Salesforce Rockets 23% — “SaaSaissance” Declared as Software Stocks Rally]]
+- `2026-08-28` [[2026-08-28-nvidia-warns-of-supply-constraints-enterprises-bet-on-agents|Nvidia Warns of Supply Constraints; Enterprises Bet on Agents for In-House Software]]
+- `2026-08-27` [[2026-08-27-subject-daily-ai-news-digest-august-27-2026|Subject: Daily AI News Digest – August 27, 2026]]
+- `2026-08-27` [[2026-08-27-salesforce-and-anthropic-launch-claudeforce|Salesforce and Anthropic launch “Claudeforce”]]
 - `2026-08-27` [[2026-08-27-salesforce-and-anthropic-launch-claudeforce-crm-plugin|Salesforce and Anthropic Launch "Claudeforce" CRM Plugin]]
+- `2026-08-27` [[2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b|Nvidia agrees to acquire Hugging Face for $12.9B]]
 - `2026-08-26` [[2026-08-26-salesforce-and-anthropic-announce-claudeforce|Salesforce and Anthropic announce "Claudeforce"]]
 - `2026-08-26` [[2026-08-26-salesforce-and-anthropic-launch-claudeforce-embedding-crm-in|Salesforce and Anthropic Launch “Claudeforce,” Embedding CRM Inside Claude]]
 - `2026-08-25` [[2026-08-25-emerald-ai-raises-150m-at-a-1-05b-valuation-to-make-data-cen|Emerald AI raises $150M at a $1.05B valuation to make data center load flexible]]

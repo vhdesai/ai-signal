@@ -249,6 +249,15 @@ def run_validate_urls(cfg: Config, limit: int | None = None) -> dict:
                 art.url_status = "missing"
                 missing += 1
                 continue
+            if "Analysis" in (art.tags or []):
+                # Editorially curated long-form analyses point to a hand-picked
+                # primary source. Treat as reachable so the repair stage never
+                # rewrites the link.
+                art.url_status = "ok"
+                art._http_status = None
+                skipped += 1
+                _persist(cfg, conn, art)
+                continue
             if _is_network_blocked_domain(art.url_canonical):
                 # Treat as reachable without an HTTP request: keeps the link in
                 # the site and prevents the repair stage from touching it.

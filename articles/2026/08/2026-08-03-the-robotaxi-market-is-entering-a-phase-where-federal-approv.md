@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo
 - 2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i
 - 2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble
-- 2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal
+- 2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee
 embedding_id: 2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The robotaxi market is entering a phase where federal approvals and local operat
 
 **Entities:** [[Baidu]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo]] · [[2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i]] · [[2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble]] · [[2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal]]
+**Related:** [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo]] · [[2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i]] · [[2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble]] · [[2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee]]
 <!-- graph:end -->

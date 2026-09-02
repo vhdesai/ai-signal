@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-16-nvidia-and-japan-launch-national-ai-infrastructure-for-physi
 - 2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project
 - 2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of
+- 2026-08-29-nvidia-wants-to-run-the-world-s-robots-china-is-an-eager-cus
 - 2026-07-16-nvidia-unveils-cosmos-3-edge-and-expands-its-japan-physical
-- 2026-07-24-nvidia-and-south-korea-outline-full-stack-ai-collaboration
 embedding_id: 2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Nvidia published an update on Japan's AI ecosystem, emphasizing manufacturers, r
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-16-nvidia-and-japan-launch-national-ai-infrastructure-for-physi]] · [[2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project]] · [[2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of]] · [[2026-07-16-nvidia-unveils-cosmos-3-edge-and-expands-its-japan-physical]] · [[2026-07-24-nvidia-and-south-korea-outline-full-stack-ai-collaboration]]
+**Related:** [[2026-07-16-nvidia-and-japan-launch-national-ai-infrastructure-for-physi]] · [[2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project]] · [[2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of]] · [[2026-08-29-nvidia-wants-to-run-the-world-s-robots-china-is-an-eager-cus]] · [[2026-07-16-nvidia-unveils-cosmos-3-edge-and-expands-its-japan-physical]]
 <!-- graph:end -->

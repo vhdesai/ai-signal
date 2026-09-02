@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 87
+member_count: 90
 ---
 
 # Intel
 
-> Auto-generated entity hub. 87 connected article(s).
+> Auto-generated entity hub. 90 connected article(s).
 
+- `2026-08-31` [[2026-08-31-taiwan-raids-nvidia-and-intel-pcb-supplier-unimicron-over-al|Taiwan Raids Nvidia and Intel PCB Supplier Unimicron Over Alleged Origin Fraud]]
+- `2026-08-28` [[2026-08-28-google-deepmind-pilots-the-first-double-blind-evaluation-of|Google DeepMind Pilots the First Double-Blind Evaluation of a Frontier Model]]
+- `2026-08-28` [[2026-08-28-deepmind-runs-first-double-blind-cryptographic-evaluation-of|DeepMind Runs First Double-Blind Cryptographic Evaluation of a Frontier Model]]
 - `2026-08-25` [[2026-08-25-nvidia-announces-new-customers-for-vera-cpu-and-groq-lpx-rac|Nvidia Announces New Customers for Vera CPU and Groq LPX Racks]]
 - `2026-08-24` [[2026-08-24-alabama-attorney-general-subpoenas-openai-over-the-hugging-f|Alabama attorney general subpoenas OpenAI over the Hugging Face breach]]
 - `2026-08-23` [[2026-08-23-alibaba-raises-10-2bn-in-hong-kong-earmarks-100-for-ai|Alibaba Raises $10.2bn in Hong Kong, Earmarks 100% for AI]]

@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/
 url_canonical: https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-24_060708_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: f97472a88fe958921cdb4a21636339d24bc528e5e883fe760b5e9f9974379884
@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-22-openai-reverses-course-asks-california-to-strengthen-sb-53
 - 2026-08-22-openai-asks-california-to-strengthen-its-ai-safety-bill
-- 2026-08-22-frontier-labs-still-have-limited-public-detail-on-rogue-mode
+- 2026-08-31-openai-wants-california-to-strengthen-its-newly-passed-ai-sa
 embedding_id: 2026-08-22-openai-says-california-should-strengthen-its-ai-safety-bill
 event_name: ''
 ---
@@ -36,5 +36,5 @@ In a post from its global affairs team, OpenAI said SB 53 "should be amended to 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-22-openai-reverses-course-asks-california-to-strengthen-sb-53]] · [[2026-08-22-openai-asks-california-to-strengthen-its-ai-safety-bill]] · [[2026-08-22-frontier-labs-still-have-limited-public-detail-on-rogue-mode]]
+**Related:** [[2026-08-22-openai-reverses-course-asks-california-to-strengthen-sb-53]] · [[2026-08-22-openai-asks-california-to-strengthen-its-ai-safety-bill]] · [[2026-08-31-openai-wants-california-to-strengthen-its-newly-passed-ai-sa]]
 <!-- graph:end -->

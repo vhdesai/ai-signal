@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-20-anthropic-s-1-5b-copyright-settlement-receives-final-court-a
 - 2026-07-20-anthropic-s-1-5b-author-copyright-settlement-receives-final
+- 2026-08-29-music-publishers-anthropic-lawsuit-escalates-training-data-l
 - 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
 - 2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne
-- 2026-05-22-anthropic-closes-30b-round-at-900b-valuation-google-commits
 embedding_id: 2026-07-20-anthropic-s-1-5-billion-copyright-settlement-receives-final
 event_name: ''
 ---
@@ -40,5 +40,5 @@ TechCrunch reports that a federal judge gave final approval to Anthropic's $1.5 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-20-anthropic-s-1-5b-copyright-settlement-receives-final-court-a]] · [[2026-07-20-anthropic-s-1-5b-author-copyright-settlement-receives-final]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne]] · [[2026-05-22-anthropic-closes-30b-round-at-900b-valuation-google-commits]]
+**Related:** [[2026-07-20-anthropic-s-1-5b-copyright-settlement-receives-final-court-a]] · [[2026-07-20-anthropic-s-1-5b-author-copyright-settlement-receives-final]] · [[2026-08-29-music-publishers-anthropic-lawsuit-escalates-training-data-l]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne]]
 <!-- graph:end -->

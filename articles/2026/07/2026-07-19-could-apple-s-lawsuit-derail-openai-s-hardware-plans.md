@@ -5,7 +5,7 @@ date: '2026-07-19'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/
 url_canonical: https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-20_065040_Final-Daily-AI-News-Digest.md
 content_hash: 2bb35a2e83dc86f9cb3dfae6eeeae0c2b950d0e5a047b605998108a40d231ef6
 normalized_title_hash: 8bbc4b7df186405e

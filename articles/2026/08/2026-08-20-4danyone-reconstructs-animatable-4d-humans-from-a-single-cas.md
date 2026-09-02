@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: Zhejiang University / Ant Research
 url_original: https://arxiv.org/abs/2608.20335
 url_canonical: https://arxiv.org/abs/2608.20335
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: aba6e6279b360fcedc217f212d701c79d1ade4254f7ad69fbba87835516b5ab0
@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-21-4danyone-4d-human-reconstruction-from-a-casual-monocular-vid
+- 2026-08-29-code-as-world-an-agentic-loop-that-rewrites-real-video-into
 - 2026-05-26-trisplat-simulation-ready-feed-forward-3d-scene-reconstructi
 - 2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
-- 2026-05-28-sakana-ai-proposes-diffusionblocks-for-modular-denoising-net
 embedding_id: 2026-08-20-4danyone-reconstructs-animatable-4d-humans-from-a-single-cas
 event_name: ''
 ---
@@ -37,5 +37,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-21-4danyone-4d-human-reconstruction-from-a-casual-monocular-vid]] · [[2026-05-26-trisplat-simulation-ready-feed-forward-3d-scene-reconstructi]] · [[2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-05-28-sakana-ai-proposes-diffusionblocks-for-modular-denoising-net]]
+**Related:** [[2026-08-21-4danyone-4d-human-reconstruction-from-a-casual-monocular-vid]] · [[2026-08-29-code-as-world-an-agentic-loop-that-rewrites-real-video-into]] · [[2026-05-26-trisplat-simulation-ready-feed-forward-3d-scene-reconstructi]] · [[2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-01'
 source: Wall Street Journal**
 url_original: https://www.wsj.com/business/media/the-red-hot-book-at-the-center-of-an-ai-mystery-201c4665
 url_canonical: https://www.wsj.com/business/media/the-red-hot-book-at-the-center-of-an-ai-mystery-201c4665
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-02_065015_Final-Daily-AI-News-Digest.md
 content_hash: a9a305b554eaace11c585854e287d07fda0100ef1cd9f3502ac0d5ef001aeca4
 normalized_title_hash: 6586c144c832877e

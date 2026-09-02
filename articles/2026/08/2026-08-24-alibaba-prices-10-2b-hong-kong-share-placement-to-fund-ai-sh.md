@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html
 url_canonical: https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-24_061731_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: aad04ade942703cc2d34abfee8346dabbd5d6fe7c6ba777d128361ef754ae7d5
@@ -21,7 +21,7 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-08-24-alibaba-plunges-after-announcing-10-2-billion-share-placemen
+canonical_article_id: 2026-08-24-alibaba-plunges-after-10-2b-placement-to-fund-ai-push
 related_article_ids: []
 embedding_id: 2026-08-24-alibaba-prices-10-2b-hong-kong-share-placement-to-fund-ai-sh
 event_name: ''
@@ -36,5 +36,5 @@ Alibaba priced an HK$80 billion (US$10.2B) placement of 710 million new shares a
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Canonical:** [[2026-08-24-alibaba-plunges-after-announcing-10-2-billion-share-placemen]]
+**Canonical:** [[2026-08-24-alibaba-plunges-after-10-2b-placement-to-fund-ai-push]]
 <!-- graph:end -->

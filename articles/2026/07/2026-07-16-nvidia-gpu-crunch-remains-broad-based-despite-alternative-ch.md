@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-29-nvidia-s-ai-advantage-is-shifting-from-the-gpu-to-the-system
+- 2026-08-29-nvidia-s-advantage-is-shifting-from-the-gpu-to-the-rest-of-t
+- 2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu
 - 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
-- 2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise
-- 2026-08-06-nvidia-tests-rubin-ultra-variants-with-less-hbm-amid-tight-m
-- 2026-08-17-the-nvidia-paradox-selling-upgrades-while-positioning-gpus-a
-- 2026-08-06-nvidia-still-dominates-ai-chips-but-bofa-sees-amd-closing-in
+- 2026-08-29-nvidia-s-competitive-advantage-is-moving-beyond-the-gpu
 embedding_id: 2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Information reports that nobody is immune from the Nvidia GPU crunch. The it
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise]] · [[2026-08-06-nvidia-tests-rubin-ultra-variants-with-less-hbm-amid-tight-m]] · [[2026-08-17-the-nvidia-paradox-selling-upgrades-while-positioning-gpus-a]] · [[2026-08-06-nvidia-still-dominates-ai-chips-but-bofa-sees-amd-closing-in]]
+**Related:** [[2026-08-29-nvidia-s-ai-advantage-is-shifting-from-the-gpu-to-the-system]] · [[2026-08-29-nvidia-s-advantage-is-shifting-from-the-gpu-to-the-rest-of-t]] · [[2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu]] · [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-08-29-nvidia-s-competitive-advantage-is-moving-beyond-the-gpu]]
 <!-- graph:end -->

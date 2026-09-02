@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark/
 url_canonical: https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-12_060916_Inbox_Daily AI News Digest - August 12,
   2026.md
 content_hash: 012e0a589b4538a076d4c0bf16491a2026007d8947c6570c7259577aa863e385

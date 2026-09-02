@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-06-nvidia-and-hugging-face-open-source-a-humanoid-robotics-stac
 - 2026-07-06-nvidia-and-hugging-face-bring-new-open-models-and-frameworks
+- 2026-08-27-nvidia-agrees-to-buy-hugging-face-for-a-reported-12-9-billio
+- 2026-08-29-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion
 - 2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model
-- 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
-- 2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion
 embedding_id: 2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero
 event_name: ''
 ---
@@ -38,5 +38,5 @@ NVIDIA and Hugging Face are integrating NVIDIA's Isaac GR00T 1.7 vision-language
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-06-nvidia-and-hugging-face-open-source-a-humanoid-robotics-stac]] · [[2026-07-06-nvidia-and-hugging-face-bring-new-open-models-and-frameworks]] · [[2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion]]
+**Related:** [[2026-07-06-nvidia-and-hugging-face-open-source-a-humanoid-robotics-stac]] · [[2026-07-06-nvidia-and-hugging-face-bring-new-open-models-and-frameworks]] · [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-a-reported-12-9-billio]] · [[2026-08-29-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion]] · [[2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model]]
 <!-- graph:end -->

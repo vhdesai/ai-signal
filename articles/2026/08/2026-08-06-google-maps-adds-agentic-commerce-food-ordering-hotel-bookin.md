@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/
 url_canonical: https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_061721_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 30114e01ad8e213b60868c8ad394dc7b328e7c6c3bc03d294695190c25790232
@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-06-google-maps-adds-agentic-features-for-food-ordering-hotels-a
-- 2026-07-16-google-ai-mode-adds-app-integrations-for-instacart-canva-and
-- 2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex
-- 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
-- 2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting
+- 2026-08-27-google-s-ai-mode-adds-flight-price-tracking-and-hotel-bookin
+- 2026-08-27-google-ai-mode-adds-flight-price-tracking-and-in-chat-hotel
+- 2026-08-27-google-ai-mode-adds-flight-price-tracking-and-hotel-booking
+- 2026-08-27-google-ai-mode-becomes-a-travel-agent-flight-tracking-hotel
 embedding_id: 2026-08-06-google-maps-adds-agentic-commerce-food-ordering-hotel-bookin
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google expanded its "Ask Maps" feature with agentic task-completion: users can o
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-google-maps-adds-agentic-features-for-food-ordering-hotels-a]] · [[2026-07-16-google-ai-mode-adds-app-integrations-for-instacart-canva-and]] · [[2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]]
+**Related:** [[2026-08-06-google-maps-adds-agentic-features-for-food-ordering-hotels-a]] · [[2026-08-27-google-s-ai-mode-adds-flight-price-tracking-and-hotel-bookin]] · [[2026-08-27-google-ai-mode-adds-flight-price-tracking-and-in-chat-hotel]] · [[2026-08-27-google-ai-mode-adds-flight-price-tracking-and-hotel-booking]] · [[2026-08-27-google-ai-mode-becomes-a-travel-agent-flight-tracking-hotel]]
 <!-- graph:end -->

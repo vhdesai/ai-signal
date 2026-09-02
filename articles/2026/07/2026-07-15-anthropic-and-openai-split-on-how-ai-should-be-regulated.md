@@ -5,7 +5,7 @@ date: '2026-07-15'
 source: Politico
 url_original: https://www.yahoo.com/news/politics/articles/inside-anthropic-state-state-plan-084500528.html
 url_canonical: https://www.yahoo.com/news/politics/articles/inside-anthropic-state-state-plan-084500528.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-17_065715_Final-Daily-AI-News-Digest.md
 content_hash: f927af3802e4ce56b01781ad8032b83854885d2c1f6e4d13b7e58f205374a25a
 normalized_title_hash: 3737defa5bfef3b4

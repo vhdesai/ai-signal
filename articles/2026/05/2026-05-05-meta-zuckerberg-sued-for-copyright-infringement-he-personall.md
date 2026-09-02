@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
 - 2026-07-14-major-publishers-sue-google-over-gemini-ai-training
-- 2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea
+- 2026-08-30-business-insider-reported-that-sony-and-warner-chappell-accu
 embedding_id: 2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Five major publishers and author Scott Turow filed suit against Meta and CEO Mar
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil]] · [[2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-07-14-major-publishers-sue-google-over-gemini-ai-training]] · [[2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea]]
+**Related:** [[2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil]] · [[2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-07-14-major-publishers-sue-google-over-gemini-ai-training]] · [[2026-08-30-business-insider-reported-that-sony-and-warner-chappell-accu]]
 <!-- graph:end -->

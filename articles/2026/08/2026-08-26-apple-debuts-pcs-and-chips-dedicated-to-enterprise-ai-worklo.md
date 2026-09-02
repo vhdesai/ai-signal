@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/apple-debuts-pc-chip-ai-workloads/828762/
 url_canonical: https://www.ciodive.com/news/apple-debuts-pc-chip-ai-workloads/828762/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-26_111101_Final-Daily-AI-News-Digest.md
 content_hash: b3f7e557dcd4e4bb33f78032b9ef177cb44cc7bcdd8721671095ea4a434a8f76
 normalized_title_hash: 5e3c92fc4bbfc807
@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif
 - 2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip
+- 2026-08-30-apple-s-mac-sales-surge-as-developers-buy-hardware-for-local
 - 2026-04-02-arm-holdings-whose-instruction-set-architecture-underpins-ch
 - 2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte
-- 2026-05-30-first-windows-pcs-using-nvidia-chips-as-main-processor-debut
 embedding_id: 2026-08-26-apple-debuts-pcs-and-chips-dedicated-to-enterprise-ai-worklo
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Apple launched PCs and chips specifically designed for enterprise AI compute—s
 
 **Entities:** [[AMD]] · [[Apple]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif]] · [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip]] · [[2026-04-02-arm-holdings-whose-instruction-set-architecture-underpins-ch]] · [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]] · [[2026-05-30-first-windows-pcs-using-nvidia-chips-as-main-processor-debut]]
+**Related:** [[2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif]] · [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip]] · [[2026-08-30-apple-s-mac-sales-surge-as-developers-buy-hardware-for-local]] · [[2026-04-02-arm-holdings-whose-instruction-set-architecture-underpins-ch]] · [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]]
 <!-- graph:end -->

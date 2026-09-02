@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=openais-next-ad-move-going-small-to-scale-big
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=openais-next-ad-move-going-small-to-scale-big
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-26_081412_Inbox_Daily AI News Digest –– May 26,
   2026 (Corrected Cowork Edition).md
 content_hash: ad6670b6b3612108dcb5c56b99b258755059d67025fb92ff90bca6d5889173fa
@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt
 - 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
+- 2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india
 - 2026-08-12-openai-begins-testing-ads-in-chatgpt
 - 2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt
-- 2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india
 embedding_id: 2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Information reports that OpenAI is moving beyond large-brand launch partners
 
 **Entities:** [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]] · [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]] · [[2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india]]
+**Related:** [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]] · [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]]
 <!-- graph:end -->

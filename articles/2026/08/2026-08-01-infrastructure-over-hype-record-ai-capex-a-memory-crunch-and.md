@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-08-01-the-ai-brief-august-1-2026
 - 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
 - 2026-08-07-softbank-s-ai-splurge-validates-hyperscaler-capex
-- 2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de
+- 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 embedding_id: 2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and
 event_name: ''
 ---
@@ -46,5 +46,5 @@ The last day was defined by the economics and physical plumbing of AI rather tha
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[DeepSeek]] · [[Google]] · [[Samsung]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]] · [[2026-08-01-the-ai-brief-august-1-2026]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-08-07-softbank-s-ai-splurge-validates-hyperscaler-capex]] · [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]]
+**Related:** [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]] · [[2026-08-01-the-ai-brief-august-1-2026]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-08-07-softbank-s-ai-splurge-validates-hyperscaler-capex]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]]
 <!-- graph:end -->

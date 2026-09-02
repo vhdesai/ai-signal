@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/07/30/google-deepmind-debuts-gemini-robotics-2-model-series-humanoid-robots/
 url_canonical: https://siliconangle.com/2026/07/30/google-deepmind-debuts-gemini-robotics-2-model-series-humanoid-robots/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-31_061901_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: dc680d9e4551be516a11385e09bceaefcc69932def41b68f4707e32aac8c8499

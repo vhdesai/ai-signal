@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: Reuters
 url_original: https://www.aol.com/articles/ai-chip-startup-sambanova-valued-102253000.html
 url_canonical: https://www.aol.com/articles/ai-chip-startup-sambanova-valued-102253000.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-09_062747_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: eaf4cb121091a13bafe7f02fd9be2277c77ea6e70d094644720cc92bdbc6912f

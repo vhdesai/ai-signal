@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/
 url_canonical: https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-05_060001_Daily-AI-News-Digest.md
 content_hash: 0b42355546a5663bcd432c515213af1642427b6c1753279490e0a43bd717adfd
 normalized_title_hash: d363fea12d884487
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin
 - 2026-05-12-mira-murati-s-thinking-machines-previews-real-time-ai-intera
+- 2026-08-27-thinking-machines-co-founder-barret-zoph-lands-at-google-aft
+- 2026-08-27-barret-zoph-thinking-machines-co-founder-who-left-for-openai
 - 2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by
-- 2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent
-- 2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-p
 embedding_id: 2026-06-04-mira-murati-steps-back-into-the-spotlight
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Former OpenAI CTO Mira Murati made her first significant public appearances sinc
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin]] · [[2026-05-12-mira-murati-s-thinking-machines-previews-real-time-ai-intera]] · [[2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by]] · [[2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent]] · [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-p]]
+**Related:** [[2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin]] · [[2026-05-12-mira-murati-s-thinking-machines-previews-real-time-ai-intera]] · [[2026-08-27-thinking-machines-co-founder-barret-zoph-lands-at-google-aft]] · [[2026-08-27-barret-zoph-thinking-machines-co-founder-who-left-for-openai]] · [[2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by]]
 <!-- graph:end -->

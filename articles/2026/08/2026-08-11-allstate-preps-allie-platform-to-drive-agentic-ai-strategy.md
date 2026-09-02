@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b
 - 2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous
 - 2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del
-- 2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an
+- 2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business
 embedding_id: 2026-08-11-allstate-preps-allie-platform-to-drive-agentic-ai-strategy
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Allstate is building out its Allie platform as the backbone of its agentic AI st
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-04-citi-launches-arc-to-scale-ai-agents-across-the-bank]] · [[2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b]] · [[2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous]] · [[2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del]] · [[2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an]]
+**Related:** [[2026-05-04-citi-launches-arc-to-scale-ai-agents-across-the-bank]] · [[2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b]] · [[2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous]] · [[2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del]] · [[2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business]]
 <!-- graph:end -->

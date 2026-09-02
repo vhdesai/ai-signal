@@ -6,7 +6,7 @@ date: '2026-05-13'
 source: PR Newswire / TMCnet
 url_original: https://www.tmcnet.com/usubmit/2026/05/13/10382595.htm
 url_canonical: https://www.tmcnet.com/usubmit/2026/05/13/10382595.htm
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 05a175104346a0c7e5dce80b2a339d373290cfc1a3c5af9a83bc69cc3b692e6b
@@ -22,11 +22,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-31-baidu-cloud-reportedly-separates-its-ai-agent-and-maas-busin
 - 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 - 2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz
 - 2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus
 - 2026-05-03-openai-releases-gpt-5-5-biggest-single-jump-in-usefulness-ho
-- 2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi
 embedding_id: 2026-05-13-baidu-create-2026-dumate-miaoda-and-daily-active-agents-as-t
 event_name: ''
 ---
@@ -40,5 +40,5 @@ At its annual developer conference in Beijing, Baidu CEO Robin Li proposed "Dail
 
 **Entities:** [[Baidu]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz]] · [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]] · [[2026-05-03-openai-releases-gpt-5-5-biggest-single-jump-in-usefulness-ho]] · [[2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi]]
+**Related:** [[2026-08-31-baidu-cloud-reportedly-separates-its-ai-agent-and-maas-busin]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz]] · [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]] · [[2026-05-03-openai-releases-gpt-5-5-biggest-single-jump-in-usefulness-ho]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-08-15'
 source: The Next Web
 url_original: https://thenextweb.com/news/anthropic-risk-report-bio-classifiers-human-feedback-gap
 url_canonical: https://thenextweb.com/news/anthropic-risk-report-bio-classifiers-human-feedback-gap
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-16_065100_Final-Daily-AI-News-Digest.md
 content_hash: 804409fef2b952735c949e35fa95d03f0a9963b0de9bb575c62c4cd61a01f388
 normalized_title_hash: 8f6828802e9278de
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-15-anthropic-raises-its-misalignment-risk-rating-and-shelves-an
 - 2026-06-06-anthropic-suffers-multi-model-claude-outage
 - 2026-08-15-anthropic-s-august-2026-risk-report-warns-automated-ai-r-d-c
-- 2026-08-14-anthropic-reveals-model-2-a-successor-to-claude-mythos-5-in
+- 2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte
 embedding_id: 2026-08-15-anthropic-raises-its-misalignment-risk-rating-and-discloses
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic's second company-wide risk report lifts its catastrophic-misalignment 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-15-anthropic-raises-misalignment-risk-rating-discloses-unreleas]] · [[2026-08-15-anthropic-raises-its-misalignment-risk-rating-and-shelves-an]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-08-15-anthropic-s-august-2026-risk-report-warns-automated-ai-r-d-c]] · [[2026-08-14-anthropic-reveals-model-2-a-successor-to-claude-mythos-5-in]]
+**Related:** [[2026-08-15-anthropic-raises-misalignment-risk-rating-discloses-unreleas]] · [[2026-08-15-anthropic-raises-its-misalignment-risk-rating-and-shelves-an]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-08-15-anthropic-s-august-2026-risk-report-warns-automated-ai-r-d-c]] · [[2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte]]
 <!-- graph:end -->

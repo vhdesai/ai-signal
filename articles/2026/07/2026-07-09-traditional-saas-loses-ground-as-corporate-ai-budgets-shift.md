@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Traditional+SaaS+corporate+budget+shift
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Traditional+SaaS+corporate+budget+shift
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-10_082135_Inbox_Fw Daily AI News Digest - July
   10, 2026.md
 content_hash: 3a241e6aa8661ffdeb353508eed6fcdce973f30d09ba1f83944fb13e1c597033
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon
 - 2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl
 - 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
-- 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
+- 2026-08-30-ai-is-putting-pressure-on-corporate-it-budgets
 embedding_id: 2026-07-09-traditional-saas-loses-ground-as-corporate-ai-budgets-shift
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Information reports that as businesses spend more on AI from Anthropic and o
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-09-traditional-saas-vendors-lose-budget-share-as-ai-spending-ri]] · [[2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon]] · [[2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl]] · [[2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending]] · [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]]
+**Related:** [[2026-07-09-traditional-saas-vendors-lose-budget-share-as-ai-spending-ri]] · [[2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon]] · [[2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl]] · [[2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending]] · [[2026-08-30-ai-is-putting-pressure-on-corporate-it-budgets]]
 <!-- graph:end -->

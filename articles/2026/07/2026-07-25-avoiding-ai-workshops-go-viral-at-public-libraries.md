@@ -5,7 +5,7 @@ date: '2026-07-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/
 url_canonical: https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-26_060512_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: b2324abf37a8999c647661a1a5da8be1aed167dfc512692b51589c8037952755
@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-25-librarians-host-viral-lsquo-avoiding-ai-rsquo-workshops-as-c
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-- 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
+- 2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie
 embedding_id: 2026-07-25-avoiding-ai-workshops-go-viral-at-public-libraries
 event_name: ''
 ---
@@ -34,5 +34,5 @@ TechCrunch reports that librarians are hosting high-demand workshops teaching pe
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-25-librarians-host-viral-lsquo-avoiding-ai-rsquo-workshops-as-c]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]]
+**Related:** [[2026-07-25-librarians-host-viral-lsquo-avoiding-ai-rsquo-workshops-as-c]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie]]
 <!-- graph:end -->

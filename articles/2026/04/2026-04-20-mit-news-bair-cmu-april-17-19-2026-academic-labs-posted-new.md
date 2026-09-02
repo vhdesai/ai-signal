@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg
 - 2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la
 - 2026-04-22-academic-research
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
+- 2026-08-29-cmu-and-university-of-washington-appear-in-early-model-hardw
+- 2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking
 embedding_id: 2026-04-20-mit-news-bair-cmu-april-17-19-2026-academic-labs-posted-new
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT News / BAIR / CMU • April 17–19, 2026 Academic labs posted new work on r
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg]] · [[2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la]] · [[2026-04-22-academic-research]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]]
+**Related:** [[2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg]] · [[2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la]] · [[2026-04-22-academic-research]] · [[2026-08-29-cmu-and-university-of-washington-appear-in-early-model-hardw]] · [[2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking]]
 <!-- graph:end -->

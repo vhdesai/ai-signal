@@ -1,19 +1,48 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 487
+member_count: 516
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 487 connected article(s).
+> Auto-generated entity hub. 516 connected article(s).
 
+- `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-08-31` [[2026-08-31-taiwan-raids-nvidia-and-intel-pcb-supplier-unimicron-over-al|Taiwan Raids Nvidia and Intel PCB Supplier Unimicron Over Alleged Origin Fraud]]
+- `2026-08-31` [[2026-08-31-openai-reportedly-buys-tens-of-thousands-of-mac-minis-and-ma|OpenAI reportedly buys tens of thousands of Mac minis and Mac Studios to train computer-use agents]]
+- `2026-08-31` [[2026-08-31-openai-and-anthropic-buy-tens-of-thousands-of-macs-for-agent|OpenAI and Anthropic Buy Tens of Thousands of Macs for Agent Training; Apple Pulls Forward Refreshes]]
+- `2026-08-31` [[2026-08-31-openai-buys-tens-of-thousands-of-mac-minis-and-mac-studios-t|OpenAI Buys Tens of Thousands of Mac Minis and Mac Studios to Train Computer-Use Agents]]
+- `2026-08-31` [[2026-08-31-ftc-and-22-state-attorneys-general-sue-amazon-over-alleged-a|FTC and 22 State Attorneys General Sue Amazon Over Alleged Ad Auction Manipulation]]
+- `2026-08-31` [[2026-08-31-big-tech-booked-more-than-160-billion-in-paper-gains-from-ai|Big Tech booked more than $160 billion in paper gains from AI stakes last quarter]]
+- `2026-08-31` [[2026-08-31-big-tech-booked-more-than-160b-in-paper-gains-from-ai-stakes|Big Tech Booked More Than $160B in Paper Gains From AI Stakes Last Quarter]]
+- `2026-08-31` [[2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo|Amazon brings OpenAI, Meta, and Anthropic models to AWS GovCloud]]
+- `2026-08-31` [[2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a|AWS broadens third-party model catalog with Anthropic, Meta and OpenAI models]]
+- `2026-08-31` [[2026-08-31-aws-broadens-bedrock-model-roster-with-anthropic-meta-and-op|AWS Broadens Bedrock Model Roster With Anthropic, Meta and OpenAI Models]]
+- `2026-08-29` [[2026-08-29-meta-tests-robots-inside-its-data-centers-as-tech-sector-job|Meta Tests Robots Inside Its Data Centers as Tech-Sector Job Cuts Mount]]
+- `2026-08-29` [[2026-08-29-meta-tests-robots-inside-data-centers-as-tech-job-cuts-mount|Meta Tests Robots Inside Data Centers as Tech Job Cuts Mount]]
+- `2026-08-29` [[2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta|Anthropic opens a research preview of the Model Hardware Standard for agents operating physical devices]]
+- `2026-08-29` [[2026-08-29-amazon-triples-ai-chip-orders-as-its-robotaxi-supplier-netwo|Amazon triples AI chip orders as its robotaxi supplier network expands]]
+- `2026-08-29` [[2026-08-29-aws-and-nvidia-to-deploy-two-million-additional-gpus-for-ai|AWS and Nvidia to deploy two million additional GPUs for AI workloads]]
+- `2026-08-28` [[2026-08-28-subject-daily-ai-news-digest-august-28-2026|Subject: Daily AI News Digest – August 28, 2026]]
+- `2026-08-28` [[2026-08-28-nvidia-pauses-ai-cloud-revenue-sharing-deals-amid-antitrust|Nvidia Pauses AI-Cloud Revenue-Sharing Deals Amid Antitrust Scrutiny]]
+- `2026-08-28` [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social|MIT AI report calls for alternative grading and more social learning]]
+- `2026-08-28` [[2026-08-28-chinese-embodied-ai-startup-psibot-raises-over-100-million|Chinese Embodied-AI Startup PsiBot Raises Over $100 Million]]
+- `2026-08-28` [[2026-08-28-aws-commits-to-roughly-2-million-more-nvidia-gpus|AWS Commits to Roughly 2 Million More Nvidia GPUs]]
+- `2026-08-27` [[2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio|UT Austin to lead $30M NSF center on human–robot co-adaptation]]
+- `2026-08-27` [[2026-08-27-subject-daily-ai-news-digest-august-27-2026|Subject: Daily AI News Digest – August 27, 2026]]
+- `2026-08-27` [[2026-08-27-openai-s-gpt-5-6-family-lands-in-aws-kiro-coding-agent|OpenAI’s GPT-5.6 Family Lands in AWS Kiro Coding Agent]]
+- `2026-08-27` [[2026-08-27-anthropic-unveils-model-hardware-standard-for-agents-to-oper|Anthropic unveils Model Hardware Standard for agents to operate machines]]
+- `2026-08-27` [[2026-08-27-aws-and-nvidia-to-deploy-2-million-additional-gpus|AWS and Nvidia to deploy 2 million additional GPUs]]
+- `2026-08-27` [[2026-08-27-100-companies-rogue-ai-defense-letter-17-hacking-incidents-c|100+ Companies' Rogue AI Defense Letter + 17 Hacking Incidents (Continued)]]
+- `2026-08-27` [[2026-08-27-100-companies-call-for-rogue-ai-defense-continued|100+ Companies Call for Rogue AI Defense (Continued)]]
 - `2026-08-26` [[2026-08-26-moonshot-ai-in-cloud-revenue-share-talks-with-microsoft-amaz|Moonshot AI in cloud revenue-share talks with Microsoft, Amazon and Google]]
 - `2026-08-26` [[2026-08-26-moonshot-ai-reportedly-in-revenue-share-talks-to-host-kimi-k|Moonshot AI Reportedly in Revenue-Share Talks to Host Kimi K3 on US Clouds]]
 - `2026-08-26` [[2026-08-26-daily-ai-news-digest-august-27-2026|Daily AI News Digest – August 27, 2026]]
 - `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-an-ai-robot-tax|Bill Gates calls for "human reserved" jobs and an AI/robot tax]]
 - `2026-08-26` [[2026-08-26-anthropic-signs-45b-compute-deal-with-nscale-for-vera-rubin|Anthropic Signs $45B Compute Deal with Nscale for Vera Rubin Chips]]
 - `2026-08-26` [[2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin|Anthropic Commits ~$45B to Nscale for Six Years of Vera Rubin Compute]]
+- `2026-08-26` [[2026-08-26-amazon-triples-its-nvidia-chip-order-over-surging-demand|Amazon triples its Nvidia chip order over "surging demand"]]
 - `2026-08-26` [[2026-08-26-amazon-triples-its-nvidia-gpu-order-adding-2-million-chips|Amazon triples its Nvidia GPU order, adding 2 million chips]]
 - `2026-08-26` [[2026-08-26-amazon-to-shut-mechanical-turk-on-september-30-after-21-year|Amazon to shut Mechanical Turk on September 30 after 21 years]]
 - `2026-08-26` [[2026-08-26-amazon-triples-nvidia-gpu-order-adding-2m-chips-including-ru|Amazon Triples Nvidia GPU Order — Adding 2M Chips Including Rubin Ultra]]

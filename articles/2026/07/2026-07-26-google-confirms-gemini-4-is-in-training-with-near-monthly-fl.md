@@ -5,7 +5,7 @@ date: '2026-07-26'
 source: 9to5Google
 url_original: https://9to5google.com/2026/07/26/google-gemini-4-teases/
 url_canonical: https://9to5google.com/2026/07/26/google-gemini-4-teases/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-27_061621_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: 285b33e5b21161f2089122efbdec8f93cbec16f0fc36e72a8c9a3d79daaf9e56

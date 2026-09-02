@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent
 - 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
 - 2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar
+- 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-07-31-the-end-to-end-agentic-ai-pipeline
-- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 embedding_id: 2026-05-26-a-new-educational-repository-ai-engineering-from-scratch-is
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A new educational repository, "ai-engineering-from-scratch," is climbing GitHub 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar]] · [[2026-07-31-the-end-to-end-agentic-ai-pipeline]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
+**Related:** [[2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-07-31-the-end-to-end-agentic-ai-pipeline]]
 <!-- graph:end -->

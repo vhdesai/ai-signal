@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over
 - 2026-07-16-eu-tells-google-to-open-android-and-search-data-to-ai-rivals
+- 2026-08-31-google-approaches-disney-universal-and-warner-bros-discovery
 - 2026-07-30-xai-sued-over-grok-creating-non-consensual-explicit-imagery
 - 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
-- 2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash
 embedding_id: 2026-07-17-indonesia-copyright-rewrite-puts-google-and-ai-platforms-on
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Reuters reports that Indonesia's copyright rewrite is putting Google and AI plat
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over]] · [[2026-07-16-eu-tells-google-to-open-android-and-search-data-to-ai-rivals]] · [[2026-07-30-xai-sued-over-grok-creating-non-consensual-explicit-imagery]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash]]
+**Related:** [[2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over]] · [[2026-07-16-eu-tells-google-to-open-android-and-search-data-to-ai-rivals]] · [[2026-08-31-google-approaches-disney-universal-and-warner-bros-discovery]] · [[2026-07-30-xai-sued-over-grok-creating-non-consensual-explicit-imagery]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]]
 <!-- graph:end -->

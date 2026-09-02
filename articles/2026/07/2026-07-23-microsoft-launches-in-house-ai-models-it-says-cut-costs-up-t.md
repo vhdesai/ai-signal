@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu
 - 2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce
 - 2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its
-- 2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves
+- 2026-08-27-the-case-that-a-cheap-flash-model-should-absorb-45-of-enterp
 embedding_id: 2026-07-23-microsoft-launches-in-house-ai-models-it-says-cut-costs-up-t
 event_name: ''
 ---
@@ -41,5 +41,5 @@ VentureBeat reports that Microsoft launched new in-house AI models that it says 
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]] · [[2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce]] · [[2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its]] · [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]]
+**Related:** [[2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]] · [[2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce]] · [[2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its]] · [[2026-08-27-the-case-that-a-cheap-flash-model-should-absorb-45-of-enterp]]
 <!-- graph:end -->

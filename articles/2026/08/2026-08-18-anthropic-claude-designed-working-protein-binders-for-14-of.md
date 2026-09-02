@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-23-claude-autonomously-designed-protein-binders-that-worked-aga
+- 2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo
 - 2026-08-23-claude-autonomously-designed-protein-binders-effective-again
+- 2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico
 - 2026-05-18-anthropic-launches-claude-design-for-visual-collaboration
-- 2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res
-- 2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r
 embedding_id: 2026-08-18-anthropic-claude-designed-working-protein-binders-for-14-of
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic published lab-validated results in which Claude models designed protei
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-23-claude-autonomously-designed-protein-binders-that-worked-aga]] · [[2026-08-23-claude-autonomously-designed-protein-binders-effective-again]] · [[2026-05-18-anthropic-launches-claude-design-for-visual-collaboration]] · [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]] · [[2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r]]
+**Related:** [[2026-08-23-claude-autonomously-designed-protein-binders-that-worked-aga]] · [[2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo]] · [[2026-08-23-claude-autonomously-designed-protein-binders-effective-again]] · [[2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico]] · [[2026-05-18-anthropic-launches-claude-design-for-visual-collaboration]]
 <!-- graph:end -->

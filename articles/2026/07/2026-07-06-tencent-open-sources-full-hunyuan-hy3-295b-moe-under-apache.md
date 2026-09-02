@@ -25,8 +25,8 @@ canonical_article_id: 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe
 related_article_ids:
 - 2026-07-06-tencent-s-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-s
 - 2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for
-- 2026-04-23-tencent-previews-hunyuan-3-with-native-video-and-3d-generati
-- 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
+- 2026-08-28-tencent-open-sources-hy4-preview-770b-moe-with-a-1m-token-co
+- 2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod
 embedding_id: 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe-under-apache
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Tencent open-sourced the full Hy3 — a 295-billion-parameter Mixture-of-Experts
 **Entities:** [[NVIDIA]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
 **Canonical:** [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe]]
-**Related:** [[2026-07-06-tencent-s-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-s]] · [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-04-23-tencent-previews-hunyuan-3-with-native-video-and-3d-generati]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]]
+**Related:** [[2026-07-06-tencent-s-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-s]] · [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-08-28-tencent-open-sources-hy4-preview-770b-moe-with-a-1m-token-co]] · [[2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod]]
 <!-- graph:end -->

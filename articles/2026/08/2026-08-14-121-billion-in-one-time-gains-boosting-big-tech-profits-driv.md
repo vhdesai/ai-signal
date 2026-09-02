@@ -5,7 +5,7 @@ date: '2026-08-14'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/finance/stocks/the-121-billion-in-one-time-gains-boosting-big-techs-profits-5d2201da
 url_canonical: https://www.wsj.com/finance/stocks/the-121-billion-in-one-time-gains-boosting-big-techs-profits-5d2201da
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-14_084159_Final-Daily-AI-News-Digest.md
 content_hash: ee904109865562847f197e8bc52d0ae8cded08517f7207e4f2cec2a47f636b40
 normalized_title_hash: c0f740307a99341e
@@ -21,9 +21,10 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits
 related_article_ids:
+- 2026-08-30-big-tech-profits-get-160b-boost-from-gains-on-stakes-in-othe
+- 2026-08-31-big-tech-booked-more-than-160-billion-in-paper-gains-from-ai
 - 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
-- 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
-- 2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall
+- 2026-08-31-big-tech-booked-more-than-160b-in-paper-gains-from-ai-stakes
 embedding_id: 2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits-driv
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Gains on investments in companies like Anthropic are inflating earnings at some 
 **Entities:** [[Anthropic]] · [[Databricks]]
 **Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits]]
-**Related:** [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall]]
+**Related:** [[2026-08-30-big-tech-profits-get-160b-boost-from-gains-on-stakes-in-othe]] · [[2026-08-31-big-tech-booked-more-than-160-billion-in-paper-gains-from-ai]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-08-31-big-tech-booked-more-than-160b-in-paper-gains-from-ai-stakes]]
 <!-- graph:end -->

@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking
 - 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
 - 2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse
 - 2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul
 - 2026-08-25-mit-argues-ai-is-forcing-a-structural-rethink-of-higher-educ
-- 2026-08-24-carnegie-mellon-spotlights-its-neuroai-pushnew
 embedding_id: 2026-05-04-cmu-reflection-prompts-can-slow-down-ai-assisted-learning
 event_name: ''
 ---
@@ -35,5 +35,5 @@ A CMU study finds that asking learners to reflect on AI-generated explanations c
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse]] · [[2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul]] · [[2026-08-25-mit-argues-ai-is-forcing-a-structural-rethink-of-higher-educ]] · [[2026-08-24-carnegie-mellon-spotlights-its-neuroai-pushnew]]
+**Related:** [[2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse]] · [[2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul]] · [[2026-08-25-mit-argues-ai-is-forcing-a-structural-rethink-of-higher-educ]]
 <!-- graph:end -->

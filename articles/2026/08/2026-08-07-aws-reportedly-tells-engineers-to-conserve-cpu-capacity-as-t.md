@@ -6,7 +6,7 @@ date: '2026-08-07'
 source: The Information
 url_original: https://stocktwits.com/news-articles/markets/equity/memory-gpu-shortage-agentic-ai-boom-cpu-crunch-aws-amazon/cZofIolRJ9d
 url_canonical: https://stocktwits.com/news-articles/markets/equity/memory-gpu-shortage-agentic-ai-boom-cpu-crunch-aws-amazon/cZofIolRJ9d
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-08_060927_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: a94a82d7ad7bdd0d00caf2d988d671bc125c3192fca9889a5498b630e2c5e870
@@ -26,9 +26,9 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity
 related_article_ids:
 - 2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch
+- 2026-08-29-aws-and-nvidia-to-deploy-two-million-additional-gpus-for-ai
 - 2026-08-03-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we
 - 2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai
-- 2026-08-04-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we
 embedding_id: 2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity-as-t
 event_name: ''
 ---
@@ -43,5 +43,5 @@ The Information reported that AWS managers told engineers to cut compute usage w
 **Entities:** [[Amazon]] · [[AMD]] · [[Arm]] · [[Intel]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity]]
-**Related:** [[2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch]] · [[2026-08-03-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we]] · [[2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai]] · [[2026-08-04-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we]]
+**Related:** [[2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch]] · [[2026-08-29-aws-and-nvidia-to-deploy-two-million-additional-gpus-for-ai]] · [[2026-08-03-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we]] · [[2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai]]
 <!-- graph:end -->

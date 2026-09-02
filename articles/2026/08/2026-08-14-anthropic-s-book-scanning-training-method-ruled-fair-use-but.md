@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-08-23-legal-analysis-is-it-legal-to-train-ai-on-copyrighted-books
 - 2026-08-23-techcrunch-is-it-legal-to-train-ai-on-copyrighted-books-it-s
 - 2026-08-23-is-it-legal-to-train-ai-models-on-copyrighted-books-it-s-com
+- 2026-08-30-business-insider-reported-that-sony-and-warner-chappell-accu
 embedding_id: 2026-08-14-anthropic-s-book-scanning-training-method-ruled-fair-use-but
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Anthropic bought millions of used books, cut off their spines, scanned the conte
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-23-training-ai-on-copyrighted-books-remains-legally-unsettled]] · [[2026-08-23-legal-analysis-is-it-legal-to-train-ai-on-copyrighted-books]] · [[2026-08-23-techcrunch-is-it-legal-to-train-ai-on-copyrighted-books-it-s]] · [[2026-08-23-is-it-legal-to-train-ai-models-on-copyrighted-books-it-s-com]]
+**Related:** [[2026-08-23-training-ai-on-copyrighted-books-remains-legally-unsettled]] · [[2026-08-23-legal-analysis-is-it-legal-to-train-ai-on-copyrighted-books]] · [[2026-08-23-techcrunch-is-it-legal-to-train-ai-on-copyrighted-books-it-s]] · [[2026-08-23-is-it-legal-to-train-ai-models-on-copyrighted-books-it-s-com]] · [[2026-08-30-business-insider-reported-that-sony-and-warner-chappell-accu]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-21'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/googles-gemini-3-6-flash-model-cuts-ai-agent-token-costs-by-up-to-65-on-long-horizon-engineering-tasks-and-3-5-pro-is-on-the-way
 url_canonical: https://venturebeat.com/technology/googles-gemini-3-6-flash-model-cuts-ai-agent-token-costs-by-up-to-65-on-long-horizon-engineering-tasks-and-3-5-pro-is-on-the-way
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-22_065707_Final-Daily-AI-News-Digest.md
 content_hash: 84b9ee1058ed7f20ab4f96cc0ec4b431e6586323a52a1355dc07a09bd7f75946
 normalized_title_hash: 53d4c9626576f828

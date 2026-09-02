@@ -6,7 +6,7 @@ date: '2026-08-25'
 source: '[Business Standard]'
 url_original: https://www.business-standard.com/technology/artificial-intelligence/data-centre-firm-am-intelligence-orders-9-000-nvidia-vera-rubin-systems-126082500791_1.html
 url_canonical: https://www.business-standard.com/technology/artificial-intelligence/data-centre-firm-am-intelligence-orders-9-000-nvidia-vera-rubin-systems-126082500791_1.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-25_061146_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 7cab509fe4ee1f9c9b90e50ae7be66e0d76d6afd764e4b96149c1907a4ea3baa
@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project
+- 2026-08-31-humain-also-partners-with-together-ai-and-minio-on-riyadh-an
 - 2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm
 - 2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover
-- 2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027
 embedding_id: 2026-08-25-india-s-am-intelligence-places-a-binding-order-for-9-000-nvi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AM Intelligence, part of the group behind renewable producer Greenko, ordered 9,
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project]] · [[2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm]] · [[2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]]
+**Related:** [[2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project]] · [[2026-08-31-humain-also-partners-with-together-ai-and-minio-on-riyadh-an]] · [[2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm]] · [[2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover]]
 <!-- graph:end -->

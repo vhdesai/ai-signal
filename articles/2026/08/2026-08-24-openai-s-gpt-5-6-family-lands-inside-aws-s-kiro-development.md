@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: '[Unite.AI]'
 url_original: https://www.unite.ai/openai-brings-gpt-5-6-model-family-to-awss-kiro/
 url_canonical: https://www.unite.ai/openai-brings-gpt-5-6-model-family-to-awss-kiro/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-25_061146_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: f95bd74b64e2ef3aa5c953892387fb14d8e8cc3edf346afa114cadaa996fb268
@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-24-openai-brings-the-gpt-5-6-model-family-to-aws-s-kironew
+- 2026-08-27-openai-s-gpt-5-6-family-lands-in-aws-kiro-coding-agent
 - 2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien
 embedding_id: 2026-08-24-openai-s-gpt-5-6-family-lands-inside-aws-s-kiro-development
 event_name: ''
@@ -36,5 +37,5 @@ All three GPT-5.6 models — Sol, Terra and Luna — are now available in Kiro, 
 
 **Entities:** [[Amazon]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-24-openai-brings-the-gpt-5-6-model-family-to-aws-s-kironew]] · [[2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien]]
+**Related:** [[2026-08-24-openai-brings-the-gpt-5-6-model-family-to-aws-s-kironew]] · [[2026-08-27-openai-s-gpt-5-6-family-lands-in-aws-kiro-coding-agent]] · [[2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien]]
 <!-- graph:end -->

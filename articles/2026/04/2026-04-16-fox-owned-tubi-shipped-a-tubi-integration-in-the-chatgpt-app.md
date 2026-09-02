@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-29-chatgpt-nears-1-billion-weekly-active-users
 - 2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr
 - 2026-08-21-chatgpt-gains-a-messages-integration-on-macos
+- 2026-08-27-openai-begins-showing-ads-on-chatgpt-s-free-and-go-tiers-in
 - 2026-05-15-new-chatgpt-launches-personal-finance-dashboard-for-pro-user
-- 2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf
 embedding_id: 2026-04-16-fox-owned-tubi-shipped-a-tubi-integration-in-the-chatgpt-app
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Fox-owned Tubi shipped a @Tubi integration in the ChatGPT app store, letting use
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-29-chatgpt-nears-1-billion-weekly-active-users]] · [[2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr]] · [[2026-08-21-chatgpt-gains-a-messages-integration-on-macos]] · [[2026-05-15-new-chatgpt-launches-personal-finance-dashboard-for-pro-user]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]]
+**Related:** [[2026-07-29-chatgpt-nears-1-billion-weekly-active-users]] · [[2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr]] · [[2026-08-21-chatgpt-gains-a-messages-integration-on-macos]] · [[2026-08-27-openai-begins-showing-ads-on-chatgpt-s-free-and-go-tiers-in]] · [[2026-05-15-new-chatgpt-launches-personal-finance-dashboard-for-pro-user]]
 <!-- graph:end -->

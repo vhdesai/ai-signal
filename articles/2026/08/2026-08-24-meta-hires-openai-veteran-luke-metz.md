@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Axios
 url_original: https://www.axios.com/2026/08/24/meta-hires-openai-luke-metz
 url_canonical: https://www.axios.com/2026/08/24/meta-hires-openai-luke-metz
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-24_085500_Final-Daily-AI-News-Digest.md
 content_hash: 5dab879bea84e68d52a4785d21759f46c11fe01331c9f54007c3a7002dfd3279
 normalized_title_hash: 2dd857f2196a7f8a

@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: Thales / Google Cloud / AiThority
 url_original: https://aithority.com/
 url_canonical: https://aithority.com/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 2e8d83477d3b26b88dc58cd51b9723ac4312e7a09e7e58c23498b8bddb91a520
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-27-bulgaria-partners-with-google-cloud-on-national-cybershield
 - 2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon
 - 2026-05-06-breakinganthropic-commits-200-billion-to-google-cloud-over-f
-- 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
+- 2026-08-28-alibaba-cloud-opens-first-brazil-region-with-agentic-ai-serv
 embedding_id: 2026-05-27-thales-and-google-cloud-expand-sovereign-cloud-to-germany
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Thales and Google Cloud are extending their sovereign-cloud joint venture into G
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-27-bulgaria-partners-with-google-cloud-on-national-cybershield]] · [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-05-06-breakinganthropic-commits-200-billion-to-google-cloud-over-f]] · [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]]
+**Related:** [[2026-05-27-bulgaria-partners-with-google-cloud-on-national-cybershield]] · [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-05-06-breakinganthropic-commits-200-billion-to-google-cloud-over-f]] · [[2026-08-28-alibaba-cloud-opens-first-brazil-region-with-agentic-ai-serv]]
 <!-- graph:end -->

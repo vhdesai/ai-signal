@@ -23,7 +23,7 @@ canonical_article_id: 2026-08-23-hugging-face-has-been-fielding-m-a-interest-for
 related_article_ids:
 - 2026-08-24-hugging-face-draws-m-a-interest
 - 2026-08-23-hugging-face-explores-a-sale-at-13b-nearly-triple-its-2023-v
-- 2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion
+- 2026-08-23-hugging-face-fielding-m-a-interest-at-13-billion
 embedding_id: 2026-08-23-hugging-face-is-reportedly-fielding-m-a-interest-at-a-valuat
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Business Insider reported that Hugging Face has been fielding acquisition intere
 
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-08-23-hugging-face-has-been-fielding-m-a-interest-for-a-deal-worth]]
-**Related:** [[2026-08-24-hugging-face-draws-m-a-interest]] · [[2026-08-23-hugging-face-explores-a-sale-at-13b-nearly-triple-its-2023-v]] · [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion]]
+**Related:** [[2026-08-24-hugging-face-draws-m-a-interest]] · [[2026-08-23-hugging-face-explores-a-sale-at-13b-nearly-triple-its-2023-v]] · [[2026-08-23-hugging-face-fielding-m-a-interest-at-13-billion]]
 <!-- graph:end -->

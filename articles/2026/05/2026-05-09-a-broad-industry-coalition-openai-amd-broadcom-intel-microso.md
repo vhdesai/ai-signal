@@ -29,7 +29,7 @@ related_article_ids:
 - event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f
 - 2026-08-25-meta-s-custom-transport-protocol-embraces-packet-chaos-to-bo
 - 2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in
-- 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
+- 2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu
 embedding_id: 2026-05-09-a-broad-industry-coalition-openai-amd-broadcom-intel-microso
 event_name: ''
 ---
@@ -43,5 +43,5 @@ A broad industry coalition — OpenAI, AMD, Broadcom, Intel, Microsoft, and NVID
 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Scale AI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-06-newopenai-microsoft-amd-broadcom-nvidia-publish-mrc-compute]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]] · [[2026-08-25-meta-s-custom-transport-protocol-embraces-packet-chaos-to-bo]] · [[2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in]] · [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]]
+**Related:** [[2026-05-06-newopenai-microsoft-amd-broadcom-nvidia-publish-mrc-compute]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]] · [[2026-08-25-meta-s-custom-transport-protocol-embraces-packet-chaos-to-bo]] · [[2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in]] · [[2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu]]
 <!-- graph:end -->

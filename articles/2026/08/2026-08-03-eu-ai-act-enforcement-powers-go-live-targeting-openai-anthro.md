@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html
 url_canonical: https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-03_062808_Inbox_Daily AI News Digest - August 3,
   2026.md
 content_hash: 36017d96ce32fd63717556c6860a459691039699b4da3dfbd839b73bc9fe27d9
@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-eu-ai-act-enforcement-powers-now-apply-to-frontier-ai-provid
+- 2026-08-28-eu-ai-act-moves-from-rulebook-to-real-enforcement
 - 2026-07-31-eu-stands-up-a-dedicated-ai-act-enforcement-unit-as-key-prov
 - 2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a
 - 2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia
-- 2026-08-03-the-eu-ai-act-has-now-moved-from-theory-to-enforceable-opera
 embedding_id: 2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The European Commission gained binding enforcement powers over general-purpose A
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-eu-ai-act-enforcement-powers-now-apply-to-frontier-ai-provid]] · [[2026-07-31-eu-stands-up-a-dedicated-ai-act-enforcement-unit-as-key-prov]] · [[2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a]] · [[2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia]] · [[2026-08-03-the-eu-ai-act-has-now-moved-from-theory-to-enforceable-opera]]
+**Related:** [[2026-08-03-eu-ai-act-enforcement-powers-now-apply-to-frontier-ai-provid]] · [[2026-08-28-eu-ai-act-moves-from-rulebook-to-real-enforcement]] · [[2026-07-31-eu-stands-up-a-dedicated-ai-act-enforcement-unit-as-key-prov]] · [[2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a]] · [[2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia]]
 <!-- graph:end -->

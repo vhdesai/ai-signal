@@ -5,7 +5,7 @@ date: '2026-08-02'
 source: Wall Street Journal**
 url_original: https://www.wsj.com/finance/stocks/stock-market-bubbles-recovery-029d21d0
 url_canonical: https://www.wsj.com/finance/stocks/stock-market-bubbles-recovery-029d21d0
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-02_065015_Final-Daily-AI-News-Digest.md
 content_hash: a94b171d45685ec28d4b41db003dd0d01e3ad98a47b389723376cef71290b13f
 normalized_title_hash: f3d42bc53213cee0
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 - 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
 - 2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov
-- 2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re
+- 2026-08-28-ai-jitters-weigh-on-u-s-stocks
 embedding_id: 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris
 event_name: ''
 ---
@@ -39,5 +39,5 @@ WSJ columnist James Mackintosh observes that the latest pullback in AI-related s
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]] · [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]]
+**Related:** [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]] · [[2026-08-28-ai-jitters-weigh-on-u-s-stocks]]
 <!-- graph:end -->

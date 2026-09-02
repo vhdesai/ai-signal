@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv
+- 2026-08-30-osha-data-shows-robotaxi-test-drivers-injured-by-sudden-auto
 - 2026-08-04-waymo-opens-dallas-robotaxi-service-to-all-riders
-- 2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle
-- 2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across
-- 2026-08-14-uber-and-pony-ai-to-deploy-2-000-robotaxis-across-europe
+- 2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee
+- 2026-08-30-the-hidden-human-labor-behind-robotaxi-autonomy
 embedding_id: 2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo
 event_name: ''
 ---
@@ -40,5 +40,5 @@ TechCrunch reports that Zoox cleared a key federal NHTSA hurdle for paid robotax
 
 **Entities:** [[Baidu]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv]] · [[2026-08-04-waymo-opens-dallas-robotaxi-service-to-all-riders]] · [[2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle]] · [[2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across]] · [[2026-08-14-uber-and-pony-ai-to-deploy-2-000-robotaxis-across-europe]]
+**Related:** [[2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv]] · [[2026-08-30-osha-data-shows-robotaxi-test-drivers-injured-by-sudden-auto]] · [[2026-08-04-waymo-opens-dallas-robotaxi-service-to-all-riders]] · [[2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee]] · [[2026-08-30-the-hidden-human-labor-behind-robotaxi-autonomy]]
 <!-- graph:end -->

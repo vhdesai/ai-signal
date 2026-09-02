@@ -779,12 +779,147 @@ def parse_event(cfg: Config, text: str, digest_source: str) -> list[Article]:
     return articles
 
 
+_FY27_CURATED_DATE_PREFIX = "2026-07-21_"
+
+
 def _is_curated_analysis_file(filename: str) -> bool:
     """Curated FY27 strategy / comparison analysis docs are rendered directly as
     site pages (see site.py) and must NOT be parsed into digest articles, which
     would otherwise pollute the daily pages with narrative fragments."""
     return bool(re.search(r"_(?:Strategy|Strategy_Signals|Comparison)\.md$", filename)) \
         and bool(re.match(r"^\d{4}-\d{2}-\d{2}_", filename))
+
+
+def _is_fy27_curated_file(filename: str) -> bool:
+    """The FY27 series (dated 2026-07-21) is rendered exclusively by the
+    bespoke fy27_* builders in site.py and MUST be excluded from any generic
+    curated-analysis handling."""
+    return _is_curated_analysis_file(filename) \
+        and filename.startswith(_FY27_CURATED_DATE_PREFIX)
+
+
+# Map curated-analysis filenames -> the primary source URL that should appear
+# on the article card. When a file isn't in the map the parser falls back to
+# the first http(s) URL it finds in the body.
+_CURATED_ANALYSIS_URL_OVERRIDES: dict[str, str] = {
+    "2026-08-28_Nvidia_Startup_Investment_Strategy.md":
+        "https://investor.nvidia.com/news/press-release-details/2026/"
+        "NVIDIA-Partners-With-Apollo-BlackRock-Blackstone-Brookfield-Goldman-Sachs-and-KKR-"
+        "to-Establish-AI-Compute-Infrastructure-Financing-Platforms-to-Mobilize-Over-500-"
+        "Billion-of-Third-Party-Capital/default.aspx",
+}
+
+
+def parse_curated_analysis(cfg: Config, text: str, filename: str,
+                           digest_source: str) -> Article | None:
+    """Parse a standalone long-form curated analysis file (e.g. Aug 2026
+    ``Nvidia_Startup_Investment_Strategy.md``) into a single indexable
+    ``Article`` record.
+
+    The record captures the executive-summary paragraph for search/dedupe; the
+    full document body is preserved on disk in ``news/`` and rendered as its
+    own standalone page by ``_build_curated_analysis_pages`` in site.py. The
+    ``"Analysis"`` tag is the trigger both for the extra "Read full analysis"
+    link on article cards and for the site.py builder's page-slug lookup.
+    """
+    m = re.match(r"^(\d{4})-(\d{2})-(\d{2})", filename)
+    if not m:
+        return None
+    try:
+        art_date = date(int(m.group(1)), int(m.group(2)), int(m.group(3)))
+    except ValueError:
+        return None
+
+    lines = text.splitlines()
+    title = ""
+    body_start = 0
+    for i, line in enumerate(lines):
+        stripped = line.strip()
+        if stripped.startswith("# ") and not stripped.startswith("## "):
+            title = stripped.lstrip("# ").strip()
+            body_start = i + 1
+            break
+    if not title:
+        return None
+
+    # Pull the Executive Summary section as the indexable summary. Fall back to
+    # the first two substantial paragraphs after the H1 if no such section
+    # exists.
+    summary_paras: list[str] = []
+    in_summary = False
+    para: list[str] = []
+    for line in lines[body_start:]:
+        stripped = line.strip()
+        if re.match(r"^##\s+Executive\s+Summary\b", stripped, re.IGNORECASE):
+            in_summary = True
+            continue
+        if in_summary:
+            if stripped.startswith("## ") or stripped.startswith("---"):
+                if para:
+                    summary_paras.append(" ".join(para).strip())
+                    para = []
+                break
+            if stripped:
+                para.append(stripped)
+            elif para:
+                summary_paras.append(" ".join(para).strip())
+                para = []
+    if para:
+        summary_paras.append(" ".join(para).strip())
+
+    if not summary_paras:
+        # Fallback: first two substantial paragraphs after the H1.
+        para = []
+        for line in lines[body_start:]:
+            stripped = line.strip()
+            if stripped.startswith("#") or stripped.startswith("---") \
+                    or stripped.startswith("**Research date:") \
+                    or stripped.startswith("**Anchor article:") \
+                    or stripped.startswith("**Primary question:"):
+                if para:
+                    summary_paras.append(" ".join(para).strip())
+                    para = []
+                if len(summary_paras) >= 2:
+                    break
+                continue
+            if stripped:
+                para.append(stripped)
+            elif para:
+                summary_paras.append(" ".join(para).strip())
+                para = []
+                if len(summary_paras) >= 2:
+                    break
+
+    summary = _clean_summary("\n\n".join(p for p in summary_paras if p))
+    if not summary:
+        return None
+
+    url = _CURATED_ANALYSIS_URL_OVERRIDES.get(filename)
+    if not url:
+        url = _extract_url(text)
+
+    entities, themes, cross = _classify(cfg, title, f"{title} {summary}",
+                                        "company-storylines")
+
+    base_id = f"{util.iso(art_date) or 'undated'}-{util.slugify(title)}"
+    article = Article(
+        article_id=base_id,
+        title=title,
+        date=util.iso(art_date),
+        source="Executive Analysis",
+        summary=summary,
+        theme="company-storylines",
+        tags=["Analysis"],
+        url_original=url,
+        url_canonical=url,
+        url_status="found" if url else "missing",
+        digest_source=digest_source,
+        entities=entities,
+        themes=themes,
+        cross_cutting_topics=cross,
+    )
+    article.compute_hashes()
+    return article
 
 
 def _is_publication_sources_file(filename: str) -> bool:
@@ -823,7 +958,17 @@ def run_split(cfg: Config) -> dict:
     skipped_publication = 0
     skipped_thin = 0
     for path in digests:
+        if _is_fy27_curated_file(path.name):
+            continue
         if _is_curated_analysis_file(path.name):
+            text = path.read_text(encoding="utf-8", errors="replace")
+            digest_source = str((cfg.raw_digest_archive_dir / path.name).relative_to(cfg.root))
+            article = parse_curated_analysis(cfg, text, path.name, digest_source)
+            if article and _has_min_content(article):
+                write_article(cfg, article)
+                written += 1
+            else:
+                skipped_thin += 1
             continue
         if _is_publication_sources_file(path.name):
             skipped_publication += 1

@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/
 url_canonical: https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-24_060711_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 3e3a2e3b174c62723404ed9d39214529ff08a75593770e5718ba821fba56ec56

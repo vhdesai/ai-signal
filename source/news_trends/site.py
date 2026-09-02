@@ -261,6 +261,28 @@ footer{color:var(--muted);font-size:12px;padding:32px 24px;text-align:center;bor
 a.curated-link{display:inline-flex;align-items:center;gap:6px;padding:8px 16px;background:#fff;border:1px solid var(--border);
                border-radius:8px;color:var(--brand-light);font-size:13px;font-weight:600;text-decoration:none;transition:all .15s}
 a.curated-link:hover{background:var(--brand-light);color:#fff;box-shadow:0 2px 8px rgba(26,115,232,.25)}
+
+/* ---- analysis-page CTA on article cards ---- */
+.analysis-cta{margin:10px 0 4px}
+a.analysis-link{display:inline-flex;align-items:center;gap:6px;padding:6px 12px;background:var(--brand-light);color:#fff;
+                border-radius:6px;font-size:12.5px;font-weight:600;text-decoration:none;transition:all .15s}
+a.analysis-link:hover{background:var(--brand);box-shadow:0 2px 8px rgba(13,107,94,.35)}
+
+/* ---- standalone curated-analysis page ---- */
+.analysis-page{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:32px 40px;
+               margin-bottom:32px;line-height:1.7}
+.analysis-page h1{font-size:26px;margin:0 0 8px;color:var(--brand)}
+.analysis-page h2{font-size:20px;margin-top:32px;color:var(--brand);border-bottom:2px solid var(--border);padding-bottom:6px}
+.analysis-page h3{font-size:16px;margin-top:24px;color:var(--brand-light)}
+.analysis-page table{border-collapse:collapse;width:100%;margin:14px 0;font-size:14px}
+.analysis-page th,.analysis-page td{border:1px solid var(--border);padding:8px 12px;text-align:left;vertical-align:top}
+.analysis-page th{background:#f0f7f5;color:var(--brand);font-weight:700}
+.analysis-page tr:nth-child(even) td{background:#fafcfb}
+.analysis-page blockquote{border-left:4px solid var(--brand-light);padding:4px 16px;color:var(--muted);margin:14px 0}
+.analysis-page code{background:#f3f5f7;padding:1px 6px;border-radius:4px;font-size:.9em}
+.analysis-meta{margin:0 0 20px;color:var(--muted);font-size:13px}
+.analysis-source-link{display:inline-block;margin-top:8px;color:var(--brand);text-decoration:none;font-weight:600}
+.analysis-source-link:hover{text-decoration:underline}
 .submit-link-cta{display:flex;align-items:center;gap:12px;margin-top:24px;padding:14px 20px;background:var(--card);
                  border:1px dashed var(--border);border-radius:var(--radius);font-size:13px;color:var(--muted)}
 .submit-link-cta .submit-btn{padding:6px 16px;background:var(--accent2);color:#fff;border-radius:8px;text-decoration:none;
@@ -349,6 +371,7 @@ _CARD = """<article class="card {{ 'dupe' if a.dedupe_status=='duplicate' else '
     {% if a.theme_label %}<span class="meta-dot">{{ a.theme_label }}</span>{% endif %}
   </div>
   <div class="summary">{{ a.summary_html }}</div>
+  {% if a.analysis_page %}<div class="analysis-cta"><a href="{{ a.rel }}analysis/{{ a.analysis_page }}" class="analysis-link">\U0001f4d6 Read full analysis on site &rarr;</a></div>{% endif %}
   <div class="tags">
   {%- for t in a.tags %}<span class="tag tag-hot">{{ t }}</span>{% endfor -%}
   {%- for e in a.entities %}<a class="tag tag-entity" href="{{ a.rel }}entities/{{ a.entity_files[e] }}">{{ e }}</a>{% endfor -%}
@@ -505,6 +528,13 @@ def _cards(articles: list[dict], rel: str = "", entity_files: dict | None = None
         a["rel"] = rel
         a["entity_files"] = entity_files
         a["cross_cutting_labels"] = {slug: _topic_label(slug) for slug in a.get("cross_cutting", [])}
+        # If this article is a curated long-form analysis (tag "Analysis"), the
+        # article_id doubles as the standalone page slug written by
+        # _build_curated_analysis_pages().
+        if "Analysis" in a.get("tags", []):
+            a["analysis_page"] = f"{a['article_id']}.html"
+        else:
+            a["analysis_page"] = ""
         out.append(tmpl.render(a=a))
     return "\n".join(out)
 
@@ -887,6 +917,103 @@ def _build_wwdc_analysis_page(cfg: Config, site: Path) -> int:
 # (see _is_curated_analysis_file in split.py). Files are auto-discovered so new
 # per-company briefings are picked up on the next build without code changes.
 _FY27_DATE = "2026-07-21"
+
+
+# --- Standalone curated analysis pages ---------------------------------------
+# Any `YYYY-MM-DD_*_Strategy.md` file that is NOT part of the FY27 date series
+# is a standalone long-form analysis (e.g. the Aug 2026 Nvidia startup-
+# investment strategy write-up). split.py emits ONE indexable Article record
+# per file (tag "Analysis"); this builder renders the full markdown body to
+# `site/analysis/<article_id>.html` and cross-links it from the article card
+# via the `analysis_page` field populated in `_cards()`.
+_CURATED_ANALYSIS_FILE_RE = _re.compile(
+    r"^(\d{4}-\d{2}-\d{2})_.+_(?:Strategy|Strategy_Signals|Comparison)\.md$"
+)
+
+
+def _curated_analysis_files(cfg: Config) -> list[Path]:
+    """Enumerate standalone curated-analysis markdowns (excluding the FY27
+    series which is rendered by its own bespoke builder)."""
+    out: list[Path] = []
+    for path in sorted(cfg.news_dir.glob("*.md")):
+        m = _CURATED_ANALYSIS_FILE_RE.match(path.name)
+        if not m or m.group(1) == _FY27_DATE:
+            continue
+        # Skip the FY27 head-to-head comparison files as well.
+        if "_vs_" in path.name and path.name.endswith("_Comparison.md"):
+            continue
+        out.append(path)
+    return out
+
+
+def _build_curated_analysis_pages(cfg: Config, site: Path,
+                                  canonical: list[dict]) -> int:
+    """Render each standalone curated-analysis markdown to its own site page.
+
+    The output filename is `analysis/<article_id>.html`, matching the slug that
+    `_cards()` computes for the article's "Read full analysis" CTA link.
+    """
+    files = _curated_analysis_files(cfg)
+    if not files:
+        return 0
+
+    # Map file date+slug -> article record so we can surface the article's
+    # source URL and canonical page anchor. `parse_curated_analysis` uses the
+    # file's H1 as the title and `util.slugify` on that for the article_id.
+    from . import util as _util
+    article_by_slug: dict[str, dict] = {}
+    for art in canonical:
+        if "Analysis" in (art.get("tags") or []):
+            article_by_slug[art["article_id"]] = art
+
+    pages = 0
+    for path in files:
+        text = path.read_text(encoding='utf-8', errors='replace')
+        # Derive the H1 title (same rule as parse_curated_analysis).
+        title = path.stem
+        body_start = 0
+        for i, line in enumerate(text.splitlines()):
+            stripped = line.strip()
+            if stripped.startswith("# ") and not stripped.startswith("## "):
+                title = stripped.lstrip("# ").strip() or title
+                body_start = i + 1
+                break
+        body_md = "\n".join(text.splitlines()[body_start:]).strip()
+        m = _re.match(r"^(\d{4}-\d{2}-\d{2})", path.name)
+        iso_date = m.group(1) if m else ""
+        slug = f"{iso_date}-{_util.slugify(title)}" if iso_date else _util.slugify(title)
+
+        art = article_by_slug.get(slug)
+        source_url = (art or {}).get("url_canonical") or ""
+        date_display = _format_date(iso_date) if iso_date else ""
+
+        source_link_html = ""
+        if source_url:
+            try:
+                domain = urllib.parse.urlparse(source_url).netloc.removeprefix("www.")
+            except Exception:
+                domain = source_url[:60]
+            source_link_html = (
+                f'<a class="analysis-source-link" href="{_html.escape(source_url)}" '
+                f'target="_blank" rel="noopener">\U0001f517 Primary source: '
+                f'{_html.escape(domain)} &rarr;</a>'
+            )
+
+        body_html = _md_to_html(body_md)
+        page_body = (
+            '<article class="analysis-page">'
+            f'<h1>{_html.escape(title)}</h1>'
+            f'<p class="analysis-meta">{_html.escape(date_display)} '
+            f'\u00b7 Executive Analysis \u00b7 Source: news/{_html.escape(path.name)}</p>'
+            f'{source_link_html}'
+            f'{body_html}'
+            '</article>'
+        )
+        _write(site / 'analysis' / f'{slug}.html',
+               _render(title, page_body, rel='../', active='',
+                       subtitle='Long-form analysis'))
+        pages += 1
+    return pages
 
 
 def _read_curated_doc(path: Path, fallback_title: str) -> tuple[str, str]:
@@ -1857,6 +1984,7 @@ def run_build_site(cfg: Config) -> dict:
     pages += _build_wwdc_analysis_page(cfg, site)
     pages += _build_fy27_compare_page(cfg, site)
     pages += _build_fy27_strategy_pages(cfg, site)
+    pages += _build_curated_analysis_pages(cfg, site, canonical)
 
     # --- submit link page ---
     pages += _build_submit_page(site, cfg, canonical)

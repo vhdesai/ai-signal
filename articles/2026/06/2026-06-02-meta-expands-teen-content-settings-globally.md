@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-27-meta-s-18b-child-safety-settlement-rests-on-unproven-age-ver
 - 2026-07-16-meta-says-it-will-alert-parents-when-teens-show-distress-in
 - 2026-08-05-meta-removed-more-than-50-ads-containing-ai-generated-child
 embedding_id: 2026-06-02-meta-expands-teen-content-settings-globally
@@ -35,5 +36,5 @@ Meta said it is rolling out stricter teen content controls more broadly across m
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-16-meta-says-it-will-alert-parents-when-teens-show-distress-in]] · [[2026-08-05-meta-removed-more-than-50-ads-containing-ai-generated-child]]
+**Related:** [[2026-08-27-meta-s-18b-child-safety-settlement-rests-on-unproven-age-ver]] · [[2026-07-16-meta-says-it-will-alert-parents-when-teens-show-distress-in]] · [[2026-08-05-meta-removed-more-than-50-ads-containing-ai-generated-child]]
 <!-- graph:end -->

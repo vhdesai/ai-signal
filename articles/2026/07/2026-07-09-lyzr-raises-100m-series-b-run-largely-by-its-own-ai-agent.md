@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/
 url_canonical: https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-10_061848_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 17bba52f1e27bb3090da4b33caf9e1ef526a6e5e13b56b5a2f8396d0499045cf

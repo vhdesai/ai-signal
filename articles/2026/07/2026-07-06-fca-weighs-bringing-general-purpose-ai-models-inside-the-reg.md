@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: The Next Web
 url_original: https://thenextweb.com/news/fca-considers-regulating-ai-models
 url_canonical: https://thenextweb.com/news/fca-considers-regulating-ai-models
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-06_084400_Final-Daily-AI-News-Digest.md
 content_hash: 14875a42defb24c1cae9e8c681fa2639887501b919ddaeb4d83a26e2fbe7305c
 normalized_title_hash: 7fc28edfdda1f281
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-15-researchers-at-northwestern-university-and-american-universi
 - 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
+- 2026-08-31-bank-of-england-s-bailey-warns-g20-that-frontier-ai-threaten
 - 2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl
 - 2026-08-03-the-eu-ai-act-has-now-moved-from-theory-to-enforceable-opera
-- 2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial
 embedding_id: 2026-07-06-fca-weighs-bringing-general-purpose-ai-models-inside-the-reg
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The FCA's Sheldon Mills said Britain should consider whether large language mode
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-15-researchers-at-northwestern-university-and-american-universi]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-08-03-the-eu-ai-act-has-now-moved-from-theory-to-enforceable-opera]] · [[2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial]]
+**Related:** [[2026-05-15-researchers-at-northwestern-university-and-american-universi]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-08-31-bank-of-england-s-bailey-warns-g20-that-frontier-ai-threaten]] · [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-08-03-the-eu-ai-act-has-now-moved-from-theory-to-enforceable-opera]]
 <!-- graph:end -->

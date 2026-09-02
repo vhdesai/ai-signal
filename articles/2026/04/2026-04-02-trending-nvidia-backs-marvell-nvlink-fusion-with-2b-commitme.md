@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i
-- 2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne
-- 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
-- 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
-- 2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through
+- 2026-08-31-nvidia-invests-3-5-billion-in-mediatek-and-deepens-edge-to-c
+- 2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real
+- 2026-08-31-nvidia-invests-3-5b-in-mediatek-deepens-ai-infrastructure-pa
+- 2026-08-31-nvidia-invests-3-5b-in-mediatek-and-extends-nvlink-fusion-to
 embedding_id: 2026-04-02-trending-nvidia-backs-marvell-nvlink-fusion-with-2b-commitme
 event_name: ''
 ---
@@ -39,5 +39,5 @@ event_name: ''
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne]] · [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through]]
+**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-08-31-nvidia-invests-3-5-billion-in-mediatek-and-deepens-edge-to-c]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real]] · [[2026-08-31-nvidia-invests-3-5b-in-mediatek-deepens-ai-infrastructure-pa]] · [[2026-08-31-nvidia-invests-3-5b-in-mediatek-and-extends-nvlink-fusion-to]]
 <!-- graph:end -->

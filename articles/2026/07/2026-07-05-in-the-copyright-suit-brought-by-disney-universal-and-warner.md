@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t
 - 2026-07-04-midjourney-moves-to-force-disney-universal-and-warner-bros-t
 - 2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou
-- 2026-07-14-major-publishers-sue-google-over-gemini-ai-training
-- 2026-08-14-anthropic-s-book-scanning-training-method-ruled-fair-use-but
+- 2026-08-31-google-approaches-disney-universal-and-warner-bros-discovery
+- 2026-08-31-google-quietly-courts-hollywood-studios-for-ai-training-and
 embedding_id: 2026-07-05-in-the-copyright-suit-brought-by-disney-universal-and-warner
 event_name: ''
 ---
@@ -37,5 +37,5 @@ In the copyright suit brought by Disney, Universal, and Warner Bros., Midjourney
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t]] · [[2026-07-04-midjourney-moves-to-force-disney-universal-and-warner-bros-t]] · [[2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou]] · [[2026-07-14-major-publishers-sue-google-over-gemini-ai-training]] · [[2026-08-14-anthropic-s-book-scanning-training-method-ruled-fair-use-but]]
+**Related:** [[2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t]] · [[2026-07-04-midjourney-moves-to-force-disney-universal-and-warner-bros-t]] · [[2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou]] · [[2026-08-31-google-approaches-disney-universal-and-warner-bros-discovery]] · [[2026-08-31-google-quietly-courts-hollywood-studios-for-ai-training-and]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-05-13'
 source: Databricks Release Notes
 url_original: https://docs.databricks.com/gcp/en/release-notes/product/2026/may
 url_canonical: https://docs.databricks.com/gcp/en/release-notes/product/2026/may
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 5b9d2aea36bf7ba5c38d26cb85b0746b2ee90db2668277a2501d2c71901263d7
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-15-databricks-made-its-ai-parse-document-function-generally-ava
 - 2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language
+- 2026-08-27-cohere-releases-parse-5-a-2-3b-vision-language-model-for-ent
 - 2026-08-03-databricks-makes-variant-generally-available-for-semi-struct
 - 2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil
-- 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
 embedding_id: 2026-05-13-databricks-makes-ai-parse-document-generally-available-adds
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Databricks made ai_parse_document — its function for extracting structured con
 
 **Entities:** [[Databricks]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-15-databricks-made-its-ai-parse-document-function-generally-ava]] · [[2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language]] · [[2026-08-03-databricks-makes-variant-generally-available-for-semi-struct]] · [[2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]]
+**Related:** [[2026-05-15-databricks-made-its-ai-parse-document-function-generally-ava]] · [[2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language]] · [[2026-08-27-cohere-releases-parse-5-a-2-3b-vision-language-model-for-ent]] · [[2026-08-03-databricks-makes-variant-generally-available-for-semi-struct]] · [[2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil]]
 <!-- graph:end -->

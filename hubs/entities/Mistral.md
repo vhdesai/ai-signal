@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 178
+member_count: 185
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 178 connected article(s).
+> Auto-generated entity hub. 185 connected article(s).
 
+- `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-08-30` [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig|Mistral taps Saudi Arabia's HUMAIN data centres for sovereign AI push]]
+- `2026-08-29` [[2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta|Anthropic opens a research preview of the Model Hardware Standard for agents operating physical devices]]
+- `2026-08-28` [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social|MIT AI report calls for alternative grading and more social learning]]
+- `2026-08-28` [[2026-08-28-eu-ai-act-moves-from-rulebook-to-real-enforcement|EU AI Act Moves from Rulebook to Real Enforcement]]
+- `2026-08-27` [[2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto|The Enterprise Agent Risk Is Inter-Agent Complexity, Not Autonomy]]
+- `2026-08-27` [[2026-08-27-cohere-releases-parse-5-a-2-3b-vision-language-model-for-ent|Cohere releases Parse 5, a 2.3B vision-language model for enterprise documents]]
 - `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-an-ai-robot-tax|Bill Gates calls for "human reserved" jobs and an AI/robot tax]]
 - `2026-08-25` [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc|Liquid AI Open-Sources Pipette, a Reproducible On-Device Benchmarking Suite]]
 - `2026-08-24` [[2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens|Georgia Tech AI governance through a visiting scholar’s lens]]

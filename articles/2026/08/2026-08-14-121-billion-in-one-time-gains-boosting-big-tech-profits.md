@@ -23,8 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits-driv
+- 2026-08-30-big-tech-profits-get-160b-boost-from-gains-on-stakes-in-othe
 - 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
-- 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
+- 2026-08-31-big-tech-booked-more-than-160-billion-in-paper-gains-from-ai
 embedding_id: 2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Gains on investments in companies like Anthropic are inflating earnings, with WS
 
 **Entities:** [[Anthropic]] · [[Databricks]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits-driv]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]]
+**Related:** [[2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits-driv]] · [[2026-08-30-big-tech-profits-get-160b-boost-from-gains-on-stakes-in-othe]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-08-31-big-tech-booked-more-than-160-billion-in-paper-gains-from-ai]]
 <!-- graph:end -->

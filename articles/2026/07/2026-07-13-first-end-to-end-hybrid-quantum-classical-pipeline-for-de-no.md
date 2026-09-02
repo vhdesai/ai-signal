@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: The Quantum Insider / bioRxiv
 url_original: https://www.biorxiv.org/content/10.64898/2026.07.09.736951v1
 url_canonical: https://www.biorxiv.org/content/10.64898/2026.07.09.736951v1
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-13_060615_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: a427fcb2b3edf62c96654fcabad4303480e84296810003449ed56e0092019cf8
@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico
 - 2026-05-05-hotibm-cleveland-clinic-riken-simulate-largest-ever-protein
 - 2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against
+- 2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo
 - 2026-08-23-claude-autonomously-designed-protein-binders-effective-again
-- 2026-08-24-carterra-enables-anthropic-s-autonomous-ai-protein-design-st
-- 2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in
 embedding_id: 2026-07-13-first-end-to-end-hybrid-quantum-classical-pipeline-for-de-no
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers coupled a generative adversarial network to latent vectors sampled f
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-05-hotibm-cleveland-clinic-riken-simulate-largest-ever-protein]] · [[2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against]] · [[2026-08-23-claude-autonomously-designed-protein-binders-effective-again]] · [[2026-08-24-carterra-enables-anthropic-s-autonomous-ai-protein-design-st]] · [[2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in]]
+**Related:** [[2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico]] · [[2026-05-05-hotibm-cleveland-clinic-riken-simulate-largest-ever-protein]] · [[2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against]] · [[2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo]] · [[2026-08-23-claude-autonomously-designed-protein-binders-effective-again]]
 <!-- graph:end -->

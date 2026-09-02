@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: The New York Times; NPR; TechCrunch; Politico; Council on Foreign Relations
 url_original: https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/
 url_canonical: https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-03_083329_Inbox_Daily AI News Digest – June 3,
   2026 (Updated).md
 content_hash: dfc40f8cd14a2ba54eeb58ee8d152b459ee38c1fba683d46f25df74741b0d7bf

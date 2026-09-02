@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html
 url_canonical: https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_060153_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 422311a569892533effcfc9f013045ee7679cb53547116afa8f5942aa744bb24
@@ -19,7 +19,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion
+canonical_article_id: 2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b
 related_article_ids: []
 embedding_id: 2026-08-27-nvidia-nears-12-9b-acquisition-of-hugging-face
 event_name: ''
@@ -34,5 +34,5 @@ Nvidia has reportedly agreed to acquire Hugging Face for approximately $12.9 bil
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion]]
+**Canonical:** [[2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b]]
 <!-- graph:end -->

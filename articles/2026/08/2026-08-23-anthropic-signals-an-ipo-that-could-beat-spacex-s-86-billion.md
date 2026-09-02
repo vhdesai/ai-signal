@@ -1,15 +1,16 @@
 ---
 article_id: 2026-08-23-anthropic-signals-an-ipo-that-could-beat-spacex-s-86-billion
-title: Anthropic Signals an IPO That Could Beat SpaceX's $86 Billion Record
+title: Anthropic Signals an IPO That Could Beat SpaceX’s $86 Billion Record
 date: '2026-08-23'
 source: Daily Sabah
-url_original: https://www.dailysabah.com/business/tech/anthropic-market-debut-could-beat-recent-ipo-record-set-by-spacex
-url_canonical: https://www.dailysabah.com/business/tech/anthropic-market-debut-could-beat-recent-ipo-record-set-by-spacex
-url_status: found
-digest_source: digests\raw\2026-08-24_085500_Final-Daily-AI-News-Digest.md
-content_hash: 6198d1f5afc0b173a9de0acd77e80c8b147e04f2b3341e37bd8654f923fe8f9c
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-08-24_090225_Inbox_Daily AI News Digest – August 24,
+  2026.md
+content_hash: bf25594aaaed4223696aa930d6af6c0293207e5c0646c0779b9c39dd828cc6ad
 normalized_title_hash: f1934e606528d9f9
-canonical_url_hash: ddc56268ee02390b
+canonical_url_hash: ''
 tags:
 - Breaking
 - Hot
@@ -30,9 +31,9 @@ embedding_id: 2026-08-23-anthropic-signals-an-ipo-that-could-beat-spacex-s-86-bi
 event_name: ''
 ---
 
-# Anthropic Signals an IPO That Could Beat SpaceX's $86 Billion Record
+# Anthropic Signals an IPO That Could Beat SpaceX’s $86 Billion Record
 
-Anthropic privately expects its forthcoming IPO to match or exceed the $86.2 billion SpaceX raised in June, with Morgan Stanley, Goldman Sachs and JPMorgan managing the deal. Public filing could come as soon as the end of August. Reporting places Anthropic's annualized revenue run rate at roughly $65 billion as of late July, up from about $9 billion at the end of 2025, alongside a first quarter of positive adjusted operating income — set against a 2025 net loss of nearly $42 billion driven by compute costs. For enterprise buyers, a listing would force disclosure of unit economics that have so far been inferred rather than audited.
+Anthropic privately expects its IPO to match or exceed SpaceX’s $86.2B June raise, with Morgan Stanley, Goldman Sachs and JPMorgan managing. Public filing could come as soon as end of August. Revenue run rate at ~$65B as of late July, up from ~$9B end of 2025, alongside a first quarter of positive adjusted operating income — set against a 2025 net loss of nearly $42B driven by compute costs.
 
 <!-- graph:start -->
 ## Connections

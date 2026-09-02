@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: Invezz
 url_original: https://invezz.com/news/2026/07/08/zhipu-seeks-4b-in-hong-kong-share-sale-after-ai-stock-rally/
 url_canonical: https://invezz.com/news/2026/07/08/zhipu-seeks-4b-in-hong-kong-share-sale-after-ai-stock-rally/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-09_061541_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: cc9fb7dc468d08f8a209cc31349c153ca563948709d58da16c3141e7a76af617
@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-08-zhipu-ai-shares-surge-on-4b-fundraise-as-chinese-labs-race-f
+- 2026-08-31-china-s-zhipu-z-ai-posts-5x-revenue-growth-on-api-and-coding
+- 2026-08-31-z-ai-first-half-revenue-rises-roughly-fivefold-to-954m-yuan
 - 2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed
 - 2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti
-- 2026-07-16-china-s-ai-challengers-close-the-gap-on-u-s-labs
-- 2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45
 embedding_id: 2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Zhipu AI (Z.ai) is seeking roughly $4 billion through a Hong Kong share placemen
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-08-zhipu-ai-shares-surge-on-4b-fundraise-as-chinese-labs-race-f]] · [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed]] · [[2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti]] · [[2026-07-16-china-s-ai-challengers-close-the-gap-on-u-s-labs]] · [[2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45]]
+**Related:** [[2026-07-08-zhipu-ai-shares-surge-on-4b-fundraise-as-chinese-labs-race-f]] · [[2026-08-31-china-s-zhipu-z-ai-posts-5x-revenue-growth-on-api-and-coding]] · [[2026-08-31-z-ai-first-half-revenue-rises-roughly-fivefold-to-954m-yuan]] · [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed]] · [[2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-humain-s-investment-in-mozn-shows-sovereign-ai-strategies-mo
-- 2026-08-26-microsoft-and-humain-to-bring-allam-arabic-models-into-found
-- 2026-08-03-khosla-and-a16z-back-mining-startup-to-support-ai-era-resour
-- 2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen
-- 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
+- 2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig
+- 2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap
+- 2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise
+- 2026-08-31-together-ai-takes-250-mw-of-saudi-capacity-from-humain-citin
 embedding_id: 2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AiThority republished a PR Newswire item announcing that HUMAIN, Saudi Arabia's 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-humain-s-investment-in-mozn-shows-sovereign-ai-strategies-mo]] · [[2026-08-26-microsoft-and-humain-to-bring-allam-arabic-models-into-found]] · [[2026-08-03-khosla-and-a16z-back-mining-startup-to-support-ai-era-resour]] · [[2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]]
+**Related:** [[2026-08-03-humain-s-investment-in-mozn-shows-sovereign-ai-strategies-mo]] · [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig]] · [[2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap]] · [[2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise]] · [[2026-08-31-together-ai-takes-250-mw-of-saudi-capacity-from-humain-citin]]
 <!-- graph:end -->

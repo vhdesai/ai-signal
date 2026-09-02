@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale
-- 2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne
-- 2026-05-21-anthropic-hits-first-profit-559m-on-10-9b-q2-revenue
-- 2026-05-13-anthropic-arr-crosses-44b-on-80x-yoy-growth-customers-willin
+- 2026-08-28-anthropic-researcher-shows-automated-ai-can-improve-alignmen
+- 2026-08-28-anthropic-shows-automated-ai-researchers-improve-alignment-f
+- 2026-08-28-anthropic-s-automated-alignment-researchers-beat-humans-at-4
 embedding_id: 2026-08-13-anthropic-review-finds-retraining-programs-unlikely-to-absor
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Anthropic's Economic Research team, with independent researcher David Roodman, r
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale]] · [[2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne]] · [[2026-05-21-anthropic-hits-first-profit-559m-on-10-9b-q2-revenue]] · [[2026-05-13-anthropic-arr-crosses-44b-on-80x-yoy-growth-customers-willin]]
+**Related:** [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale]] · [[2026-08-28-anthropic-researcher-shows-automated-ai-can-improve-alignmen]] · [[2026-08-28-anthropic-shows-automated-ai-researchers-improve-alignment-f]] · [[2026-08-28-anthropic-s-automated-alignment-researchers-beat-humans-at-4]]
 <!-- graph:end -->

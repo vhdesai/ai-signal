@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/sectors/technology/articles/intel-racks-ai-partnerships-challenge-140343711.html
 url_canonical: https://finance.yahoo.com/sectors/technology/articles/intel-racks-ai-partnerships-challenge-140343711.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-04_072143_Inbox_Daily AI News Digest – June 4,
   2026 (Updated).md
 content_hash: 5b7f88d6046f2f4f1400454142709435070e3537f6468645776598207836caca

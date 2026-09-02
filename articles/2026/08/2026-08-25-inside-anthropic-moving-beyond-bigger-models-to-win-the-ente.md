@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: Forbes
 url_original: https://www.forbes.com/sites/victordey/2026/08/25/inside-anthropic-moving-beyond-bigger-ai-models-to-win-the-enterprise-ai-race/
 url_canonical: https://www.forbes.com/sites/victordey/2026/08/25/inside-anthropic-moving-beyond-bigger-ai-models-to-win-the-enterprise-ai-race/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-26_061028_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: f747275afa4fa4d05f1c08f6807ee027517b8cba00f5826b2716b8e12c861ba4

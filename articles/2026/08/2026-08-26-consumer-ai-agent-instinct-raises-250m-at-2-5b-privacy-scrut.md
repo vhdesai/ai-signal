@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: TechCrunch / WSJ
 url_original: https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/
 url_canonical: https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_065417_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: cd595a0610fae3f54241297b206c8a2f729f08112a80f08a8c88da8f795407c8
@@ -16,13 +16,13 @@ entities: []
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-08-26-ai-assistant-startup-instinct-raises-350m-at-2-5b-despite-pr
 related_article_ids:
 - 2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-2-5b-valu
 - 2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-a-2-5b-va
-- 2026-08-26-consumer-ai-agent-instinct-raises-350m-at-2-5b-valuation-bef
-- 2026-08-26-instinct-raises-350m-at-a-2-5b-valuation-before-public-launc
+- 2026-08-26-ai-assistant-instinct-raises-350m-at-2-5b-one-year-old-still
+- 2026-08-27-consumer-ai-assistant-instinct-raises-250m-series-b-at-2-5b
 embedding_id: 2026-08-26-consumer-ai-agent-instinct-raises-250m-at-2-5b-privacy-scrut
 event_name: ''
 ---
@@ -35,5 +35,6 @@ Led by 23-year-old founder Noah Shinn. $250M Series B co-led by Index and Benchm
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-2-5b-valu]] · [[2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-a-2-5b-va]] · [[2026-08-26-consumer-ai-agent-instinct-raises-350m-at-2-5b-valuation-bef]] · [[2026-08-26-instinct-raises-350m-at-a-2-5b-valuation-before-public-launc]]
+**Canonical:** [[2026-08-26-ai-assistant-startup-instinct-raises-350m-at-2-5b-despite-pr]]
+**Related:** [[2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-2-5b-valu]] · [[2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-a-2-5b-va]] · [[2026-08-26-ai-assistant-instinct-raises-350m-at-2-5b-one-year-old-still]] · [[2026-08-27-consumer-ai-assistant-instinct-raises-250m-series-b-at-2-5b]]
 <!-- graph:end -->

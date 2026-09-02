@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 - 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
 - 2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic
-- 2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale
+- 2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto
 embedding_id: 2026-05-14-enterprise-ai-governance-tools-outpace-policy-marktechpost-m
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Enterprise AI governance: tools outpace policy — MarkTechPost, May 13, 2026 A 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]] · [[2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic]] · [[2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale]]
+**Related:** [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]] · [[2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic]] · [[2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto]]
 <!-- graph:end -->

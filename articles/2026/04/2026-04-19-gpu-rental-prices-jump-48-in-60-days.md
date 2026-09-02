@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-15-nvidia-server-marketplace-startup-raises-100m-at-800m-valuat
 - 2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs
+- 2026-08-27-nvidia-posts-record-96-2b-quarter-forecasts-70-ai-chip-growt
 - 2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d
 - 2026-08-12-ai-cloud-pricing-hits-record-highs-as-neoclouds-auction-comp
-- 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
 embedding_id: 2026-04-19-gpu-rental-prices-jump-48-in-60-days
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA Blackwell rental rates climbed from ~$2.75 to ~$4.08/hour over two months
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-15-nvidia-server-marketplace-startup-raises-100m-at-800m-valuat]] · [[2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs]] · [[2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d]] · [[2026-08-12-ai-cloud-pricing-hits-record-highs-as-neoclouds-auction-comp]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]]
+**Related:** [[2026-06-15-nvidia-server-marketplace-startup-raises-100m-at-800m-valuat]] · [[2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs]] · [[2026-08-27-nvidia-posts-record-96-2b-quarter-forecasts-70-ai-chip-growt]] · [[2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d]] · [[2026-08-12-ai-cloud-pricing-hits-record-highs-as-neoclouds-auction-comp]]
 <!-- graph:end -->

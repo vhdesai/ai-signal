@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: Cornell Chronicle
 url_original: https://news.cornell.edu/stories/2026/07/thirteen-early-career-professors-win-nsf-development-awards
 url_canonical: https://news.cornell.edu/stories/2026/07/thirteen-early-career-professors-win-nsf-development-awards
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-30_060704_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 00348c071ec944710a8472279df0deb5b45ebe2d244d1a1fa24d22cb03571153
@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh
 - 2026-07-28-carnegie-mellon-brings-middle-schoolers-into-robotics-throug
+- 2026-08-28-cornell-what-happened-when-we-put-ai-to-work
 - 2026-08-03-georgia-tech-to-lead-nsf-cloud-laboratory-for-autonomous-man
 - 2026-08-03-georgia-tech-to-lead-national-cloud-laboratory-for-advanced
-- 2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv
 embedding_id: 2026-07-29-thirteen-early-career-cornell-professors-win-nsf-career-awar
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Thirteen early-career Cornell faculty received NSF Faculty Early Career Developm
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh]] · [[2026-07-28-carnegie-mellon-brings-middle-schoolers-into-robotics-throug]] · [[2026-08-03-georgia-tech-to-lead-nsf-cloud-laboratory-for-autonomous-man]] · [[2026-08-03-georgia-tech-to-lead-national-cloud-laboratory-for-advanced]] · [[2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv]]
+**Related:** [[2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh]] · [[2026-07-28-carnegie-mellon-brings-middle-schoolers-into-robotics-throug]] · [[2026-08-28-cornell-what-happened-when-we-put-ai-to-work]] · [[2026-08-03-georgia-tech-to-lead-nsf-cloud-laboratory-for-autonomous-man]] · [[2026-08-03-georgia-tech-to-lead-national-cloud-laboratory-for-advanced]]
 <!-- graph:end -->

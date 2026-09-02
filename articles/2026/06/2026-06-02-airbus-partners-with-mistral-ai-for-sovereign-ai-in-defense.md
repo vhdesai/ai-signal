@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e
+- 2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig
 - 2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands
 - 2026-07-21-microsoft-and-mistral-expand-partnership-for-regulated-indus
 - 2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air
-- 2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent
 embedding_id: 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Airbus announced a partnership with Mistral AI to deploy sovereign AI across air
 
 **Entities:** [[Mistral]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e]] · [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands]] · [[2026-07-21-microsoft-and-mistral-expand-partnership-for-regulated-indus]] · [[2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air]] · [[2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent]]
+**Related:** [[2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e]] · [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig]] · [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands]] · [[2026-07-21-microsoft-and-mistral-expand-partnership-for-regulated-indus]] · [[2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air]]
 <!-- graph:end -->

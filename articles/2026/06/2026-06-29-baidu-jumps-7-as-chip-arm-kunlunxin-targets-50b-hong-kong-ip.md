@@ -5,7 +5,7 @@ date: '2026-06-29'
 source: CNBC
 url_original: https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html
 url_canonical: https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-30_061155_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: d0bc804a6cca470b5b41eb4cbcc91e08d3fd4146bbc1efc81e0fe6d4562ac9a5

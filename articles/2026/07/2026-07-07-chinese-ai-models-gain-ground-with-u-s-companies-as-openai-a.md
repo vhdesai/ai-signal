@@ -6,7 +6,7 @@ date: '2026-07-07'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html
 url_canonical: https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-07_062455_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 016aa6545038b56443d070bfcb7aa9e287f2cac28059efcf53d8971866a8a3fc
@@ -30,6 +30,7 @@ related_article_ids:
 - 2026-07-07-chinese-open-weight-models-gain-u-s-adoption-as-frontier-cos
 - 2026-07-07-chinese-open-weight-models-gain-u-s-enterprise-adoption-as-f
 - 2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga
+- 2026-08-28-z-ai-s-latest-model-intensifies-low-cost-competition-tencent
 embedding_id: 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
 event_name: ''
 ---
@@ -43,5 +44,5 @@ CNBC reports that U.S. companies are increasingly routing production workloads t
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-07-chinese-open-models-gain-ground-with-u-s-firms-as-frontier-c]] · [[2026-07-07-chinese-open-weight-models-gain-u-s-adoption-as-frontier-cos]] · [[2026-07-07-chinese-open-weight-models-gain-u-s-enterprise-adoption-as-f]] · [[2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga]]
+**Related:** [[2026-07-07-chinese-open-models-gain-ground-with-u-s-firms-as-frontier-c]] · [[2026-07-07-chinese-open-weight-models-gain-u-s-adoption-as-frontier-cos]] · [[2026-07-07-chinese-open-weight-models-gain-u-s-enterprise-adoption-as-f]] · [[2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga]] · [[2026-08-28-z-ai-s-latest-model-intensifies-low-cost-competition-tencent]]
 <!-- graph:end -->

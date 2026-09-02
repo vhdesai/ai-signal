@@ -5,7 +5,7 @@ date: '2026-06-11'
 source: Wired
 url_original: https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/
 url_canonical: https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-12_070109_Final-Daily-AI-News-Digest.md
 content_hash: b2b5558c0e6f0088cba8d9efcdcb9356d91f986f2a44071cee0acbea9df70322
 normalized_title_hash: 13414c04201773d6
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-11-wired-grok-is-still-hosting-sexualized-deepfakes-of-famous-w
 - 2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims
 - 2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake
+- 2026-08-28-xai-faces-child-safety-lawsuits-over-grok-imagery-and-counte
 - 2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok
-- 2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators
 embedding_id: 2026-06-11-grok-still-hosting-sexualized-deepfakes-of-famous-women
 event_name: ''
 ---
@@ -38,5 +38,5 @@ xAI's Grok continues hosting sexualized deepfakes despite the ongoing UK lawsuit
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-11-wired-grok-is-still-hosting-sexualized-deepfakes-of-famous-w]] · [[2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims]] · [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]] · [[2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok]] · [[2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators]]
+**Related:** [[2026-06-11-wired-grok-is-still-hosting-sexualized-deepfakes-of-famous-w]] · [[2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims]] · [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]] · [[2026-08-28-xai-faces-child-safety-lawsuits-over-grok-imagery-and-counte]] · [[2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok]]
 <!-- graph:end -->

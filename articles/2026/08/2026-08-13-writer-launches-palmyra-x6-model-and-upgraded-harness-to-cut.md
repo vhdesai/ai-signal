@@ -22,7 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and
-- 2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud
+- 2026-08-27-analysis-argues-glm-5-3-flash-can-absorb-45-of-enterprise-ai
+- 2026-08-27-the-case-that-a-cheap-flash-model-should-absorb-45-of-enterp
 embedding_id: 2026-08-13-writer-launches-palmyra-x6-model-and-upgraded-harness-to-cut
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Writer launched Palmyra X6, built as a post-training variation on Z.ai's open-so
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and]] · [[2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud]]
+**Related:** [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and]] · [[2026-08-27-analysis-argues-glm-5-3-flash-can-absorb-45-of-enterprise-ai]] · [[2026-08-27-the-case-that-a-cheap-flash-model-should-absorb-45-of-enterp]]
 <!-- graph:end -->

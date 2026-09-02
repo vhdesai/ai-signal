@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff
 url_canonical: https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-06_062205_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: c3e1ae9309fe8976e8f4365884c423edeb602877fb2dca98305baeb466ad21e4
@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-27-the-case-that-a-cheap-flash-model-should-absorb-45-of-enterp
 - 2026-08-06-liquid-ai-s-lfm2-5-2-6b-runs-capable-agents-on-device-down-t
+- 2026-08-27-analysis-argues-glm-5-3-flash-can-absorb-45-of-enterprise-ai
 - 2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f
-- 2026-06-30-good-morning-vik-the-past-24-hours-were-quiet-for-frontier-m
-- 2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code
-- 2026-06-18-snap-spins-off-ai-video-team-into-dotmo-due-to-costs
+- 2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo
 embedding_id: 2026-08-05-hark-unveils-handoff-a-low-cost-computer-use-agent
 event_name: ''
 ---
@@ -37,5 +37,5 @@ AI startup Hark launched its first product, Handoff, a computer-use agent positi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-liquid-ai-s-lfm2-5-2-6b-runs-capable-agents-on-device-down-t]] · [[2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f]] · [[2026-06-30-good-morning-vik-the-past-24-hours-were-quiet-for-frontier-m]] · [[2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code]] · [[2026-06-18-snap-spins-off-ai-video-team-into-dotmo-due-to-costs]]
+**Related:** [[2026-08-27-the-case-that-a-cheap-flash-model-should-absorb-45-of-enterp]] · [[2026-08-06-liquid-ai-s-lfm2-5-2-6b-runs-capable-agents-on-device-down-t]] · [[2026-08-27-analysis-argues-glm-5-3-flash-can-absorb-45-of-enterprise-ai]] · [[2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f]] · [[2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo]]
 <!-- graph:end -->

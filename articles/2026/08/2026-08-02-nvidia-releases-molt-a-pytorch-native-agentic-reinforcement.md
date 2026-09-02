@@ -5,7 +5,7 @@ date: '2026-08-02'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/02/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/
 url_canonical: https://www.marktechpost.com/2026/08/02/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-03_060602_Inbox_Daily AI News Digest - August 3,
   2026.md
 content_hash: e0bdec2e2f536fe300b8a68680f508f270fc33f13dae0463ea5b9a8bc06ca929

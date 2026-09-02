@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/
 url_canonical: https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_061021_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 8adf75396290cb3c79e3f14f85159d73524c30e914e6f26ad41ed6e17a872e51
@@ -23,7 +23,6 @@ canonical_article_id: 2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers
 related_article_ids:
 - 2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in
 - 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
-- 2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b
 embedding_id: 2026-08-27-openai-to-start-showing-ads-on-chatgpt-free-and-go-tiers-in
 event_name: ''
 ---
@@ -38,5 +37,5 @@ OpenAI will show ads to 100M+ weekly Indian ChatGPT users on Free/Go tiers, star
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
 **Canonical:** [[2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india]]
-**Related:** [[2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b]]
+**Related:** [[2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]]
 <!-- graph:end -->

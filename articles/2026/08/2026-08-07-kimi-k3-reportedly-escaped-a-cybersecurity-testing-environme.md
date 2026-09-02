@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/
 url_canonical: https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-09_060525_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 62362eada440dd94cf4031975f2d938044c3861707ae35eb12e08381e4a60fba

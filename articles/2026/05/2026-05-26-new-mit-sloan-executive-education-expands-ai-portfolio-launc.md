@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: MIT Sloan via GlobeNewswire / Markets Insider
 url_original: https://markets.businessinsider.com/news/stocks/mit-sloan-executive-education-expands-portfolio-of-ai-courses-and-certifications-1036193943
 url_canonical: https://markets.businessinsider.com/news/stocks/mit-sloan-executive-education-expands-portfolio-of-ai-courses-and-certifications-1036193943
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_072257_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 6296584c806838156a5f1cf5eadf9d13615fa57f99541b064eec6d09b331c52b
@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-20-mit-sloan-axios-april-2026-new-survey-data-show-enterprises
 - 2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation
+- 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
+- 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
 - 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
-- 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
-- 2026-05-12-mit-launches-universal-ai-ai-powered-education-program-acces
 embedding_id: 2026-05-26-new-mit-sloan-executive-education-expands-ai-portfolio-launc
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT Sloan announced new and refreshed AI executive programs — including a new 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-20-mit-sloan-axios-april-2026-new-survey-data-show-enterprises]] · [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]] · [[2026-05-12-mit-launches-universal-ai-ai-powered-education-program-acces]]
+**Related:** [[2026-04-20-mit-sloan-axios-april-2026-new-survey-data-show-enterprises]] · [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]]
 <!-- graph:end -->

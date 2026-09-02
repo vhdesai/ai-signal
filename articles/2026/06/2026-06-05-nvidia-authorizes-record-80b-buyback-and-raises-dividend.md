@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: Money Morning
 url_original: https://moneymorning.com/2026/06/05/nvidia-nvda-80-billion-buyback-dividend-june-2026
 url_canonical: https://moneymorning.com/2026/06/05/nvidia-nvda-80-billion-buyback-dividend-june-2026
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-06_070013_Final-Daily-AI-News-Digest.md
 content_hash: 4957fc9b1984a7cfdff71dc9830039d66e026bbf8573fdb122dacf04189ea9d1
 normalized_title_hash: ae4862135ee738f9
@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-05-nvidia-authorizes-record-80b-buyback-raises-dividend
 - 2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q
+- 2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value
 - 2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception
-- 2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt
 embedding_id: 2026-06-05-nvidia-authorizes-record-80b-buyback-and-raises-dividend
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Nvidia authorized an $80 billion share repurchase — its largest ever — and r
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-05-nvidia-authorizes-record-80b-buyback-raises-dividend]] · [[2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q]] · [[2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception]] · [[2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt]]
+**Related:** [[2026-06-05-nvidia-authorizes-record-80b-buyback-raises-dividend]] · [[2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q]] · [[2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value]] · [[2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception]]
 <!-- graph:end -->

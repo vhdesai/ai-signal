@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/
 url_canonical: https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-07_061720_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 7d39bd82a0b06f1ddc4bf6cfe9356f74fed38ac691ead5747d4920707f1606c7
@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-06-researchers-document-jadepuffer-the-first-fully-autonomous-a
+- 2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie
 - 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
 - 2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g
-- 2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut
 embedding_id: 2026-07-06-the-first-ai-run-ransomware-attack-still-needed-a-human
 event_name: ''
 ---
@@ -35,5 +35,5 @@ TechCrunch reported that Sysdig's JadePuffer incident involved an AI agent execu
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-06-researchers-document-jadepuffer-the-first-fully-autonomous-a]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g]] · [[2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut]]
+**Related:** [[2026-07-06-researchers-document-jadepuffer-the-first-fully-autonomous-a]] · [[2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g]]
 <!-- graph:end -->

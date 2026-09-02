@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-13-aws-ships-a-low-code-ui-for-generative-ai-inference-recommen
 - 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
 - 2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick
+- 2026-08-27-openai-s-gpt-5-6-family-lands-in-aws-kiro-coding-agent
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
-- 2026-08-01-aws-announced-a-preview-of-an-agentic-catalog-experience-in
 embedding_id: 2026-03-30-aws-launches-agent-plugin-for-serverless-and-100-000-learner
 event_name: ''
 ---
@@ -39,5 +39,5 @@ AWS released an Agent Plugin for Serverless enabling Claude Code, Cursor, and Am
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-aws-ships-a-low-code-ui-for-generative-ai-inference-recommen]] · [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]] · [[2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-08-01-aws-announced-a-preview-of-an-agentic-catalog-experience-in]]
+**Related:** [[2026-07-13-aws-ships-a-low-code-ui-for-generative-ai-inference-recommen]] · [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]] · [[2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick]] · [[2026-08-27-openai-s-gpt-5-6-family-lands-in-aws-kiro-coding-agent]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-07-30'
 source: MIT News
 url_original: https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730
 url_canonical: https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-31_060541_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: b415fa2aad6d9155065234a3a7d7a578b2779c296e6bd67cacaf5d8cb57800ae
@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-30-mit-students-connect-research-priorities-to-capitol-hill-pol
+- 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
 - 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
 - 2026-07-21-white-house-plans-to-redirect-billions-in-research-funds-tow
 - 2026-05-16-mit-disclosed-a-20-decline-in-incoming-graduate-students-a-s
-- 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
 embedding_id: 2026-07-30-mit-students-and-postdocs-connect-research-priorities-to-cap
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT reported that 25 students and postdocs met with 62 congressional offices to 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-30-mit-students-connect-research-priorities-to-capitol-hill-pol]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-07-21-white-house-plans-to-redirect-billions-in-research-funds-tow]] · [[2026-05-16-mit-disclosed-a-20-decline-in-incoming-graduate-students-a-s]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]]
+**Related:** [[2026-07-30-mit-students-connect-research-priorities-to-capitol-hill-pol]] · [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-07-21-white-house-plans-to-redirect-billions-in-research-funds-tow]] · [[2026-05-16-mit-disclosed-a-20-decline-in-incoming-graduate-students-a-s]]
 <!-- graph:end -->

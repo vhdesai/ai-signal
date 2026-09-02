@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: EconoTimes
 url_original: https://www.econotimes.com/Tencent-Shares-Jump-4-as-AI-Models-Move-Toward-Paid-Commercial-Services-1742040
 url_canonical: https://www.econotimes.com/Tencent-Shares-Jump-4-as-AI-Models-Move-Toward-Paid-Commercial-Services-1742040
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 33b053e0150c694edee2443b8e0c49cb34fee5d680ba410be21c0a8920162130
@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-19-tencent-commercializes-hy3-and-deepseek-v4-pro-shares-jump-4
 - 2026-05-27-tencent-cloud-begins-paid-commercial-services-for-hy3-previe
 - 2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t
+- 2026-08-28-z-ai-s-latest-model-intensifies-low-cost-competition-tencent
 - 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
-- 2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep
 embedding_id: 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Tencent announced its Tencent Cloud division will launch paid commercial service
 
 **Entities:** [[DeepSeek]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-19-tencent-commercializes-hy3-and-deepseek-v4-pro-shares-jump-4]] · [[2026-05-27-tencent-cloud-begins-paid-commercial-services-for-hy3-previe]] · [[2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep]]
+**Related:** [[2026-05-19-tencent-commercializes-hy3-and-deepseek-v4-pro-shares-jump-4]] · [[2026-05-27-tencent-cloud-begins-paid-commercial-services-for-hy3-previe]] · [[2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t]] · [[2026-08-28-z-ai-s-latest-model-intensifies-low-cost-competition-tencent]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]]
 <!-- graph:end -->

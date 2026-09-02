@@ -5,7 +5,7 @@ date: '2026-06-24'
 source: CNBC
 url_original: https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html
 url_canonical: https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-25_062805_Inbox_Daily AI News Digest - June 25,
   2026.md
 content_hash: 65996c653a6cb4902f24b6cbc250a5cf3de83312ecfe71db27925115409bb19f
@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle
 - 2026-07-31-amazon-s-zoox-wins-first-u-s-approval-for-paid-robotaxis-wit
+- 2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee
 - 2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles
 - 2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo
-- 2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv
 embedding_id: 2026-06-24-amazon-s-zoox-unveils-redesigned-robotaxi-ahead-of-commercia
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Amazon-owned Zoox revealed design and functional upgrades to its purpose-built, 
 ## Connections
 
 **Entities:** [[Amazon]]
-**Related:** [[2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle]] · [[2026-07-31-amazon-s-zoox-wins-first-u-s-approval-for-paid-robotaxis-wit]] · [[2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles]] · [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo]] · [[2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv]]
+**Related:** [[2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle]] · [[2026-07-31-amazon-s-zoox-wins-first-u-s-approval-for-paid-robotaxis-wit]] · [[2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee]] · [[2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles]] · [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo]]
 <!-- graph:end -->

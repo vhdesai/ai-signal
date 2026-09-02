@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-27-google-ai-mode-adds-flight-tracking-and-in-chat-hotel-bookin
+- 2026-08-27-google-ai-mode-adds-flight-price-tracking-and-in-chat-hotel
+- 2026-08-27-google-s-ai-mode-adds-flight-price-tracking-and-hotel-bookin
 - 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
-- 2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res
-- 2026-08-06-google-maps-adds-agentic-commerce-food-ordering-hotel-bookin
-- 2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default
-- 2026-08-06-google-maps-adds-agentic-features-for-food-ordering-hotels-a
+- 2026-08-27-google-ai-mode-adds-flight-price-tracking-and-hotel-booking
 embedding_id: 2026-07-16-google-ai-mode-adds-app-integrations-for-instacart-canva-and
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google AI Mode now lets U.S. users link and interact with select apps including 
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]] · [[2026-08-06-google-maps-adds-agentic-commerce-food-ordering-hotel-bookin]] · [[2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default]] · [[2026-08-06-google-maps-adds-agentic-features-for-food-ordering-hotels-a]]
+**Related:** [[2026-08-27-google-ai-mode-adds-flight-tracking-and-in-chat-hotel-bookin]] · [[2026-08-27-google-ai-mode-adds-flight-price-tracking-and-in-chat-hotel]] · [[2026-08-27-google-s-ai-mode-adds-flight-price-tracking-and-hotel-bookin]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-08-27-google-ai-mode-adds-flight-price-tracking-and-hotel-booking]]
 <!-- graph:end -->

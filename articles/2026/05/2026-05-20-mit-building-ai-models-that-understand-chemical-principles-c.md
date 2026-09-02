@@ -6,7 +6,7 @@ date: '2026-05-20'
 source: MIT News
 url_original: https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520
 url_canonical: https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: eb6c0146c8e796f1ea5a83c52f3655ac9246396cf5585228c9d31a2495c77d7f
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis
 - 2026-05-20-mit-building-ai-models-that-understand-chemical-principles-f
 - 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
+- 2026-08-28-deepmind-s-ai-co-scientist-now-plans-experiments-runs-lab-eq
 - 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
-- 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 embedding_id: 2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MIT profiles Associate Professor Connor Coley (Chemical Engineering / EECS / MIT
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis]] · [[2026-05-20-mit-building-ai-models-that-understand-chemical-principles-f]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]]
+**Related:** [[2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis]] · [[2026-05-20-mit-building-ai-models-that-understand-chemical-principles-f]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-08-28-deepmind-s-ai-co-scientist-now-plans-experiments-runs-lab-eq]] · [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]]
 <!-- graph:end -->

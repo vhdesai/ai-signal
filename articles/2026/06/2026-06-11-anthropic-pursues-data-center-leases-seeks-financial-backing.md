@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
+- 2026-08-31-anthropic-signs-35-billion-compute-deal-with-nvidia-backed-l
 - 2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back
 - 2026-08-26-anthropic-signs-45b-compute-deal-with-nscale
-- 2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu
 embedding_id: 2026-06-11-anthropic-pursues-data-center-leases-seeks-financial-backing
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic is pursuing its own data center leases and seeking additional Google b
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back]] · [[2026-08-26-anthropic-signs-45b-compute-deal-with-nscale]] · [[2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu]]
+**Related:** [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-08-31-anthropic-signs-35-billion-compute-deal-with-nvidia-backed-l]] · [[2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back]] · [[2026-08-26-anthropic-signs-45b-compute-deal-with-nscale]]
 <!-- graph:end -->

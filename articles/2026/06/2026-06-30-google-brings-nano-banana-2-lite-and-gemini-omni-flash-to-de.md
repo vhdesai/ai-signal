@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: Google
 url_original: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/
 url_canonical: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-01_062608_Inbox_Daily AI News Digest - July 1,
   2026.md
 content_hash: 4c1c7cc543b34195eb317a39b633c868c97c19fe732552fc01c1c39b1c8680f1
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-30-google-deepmind-ships-nano-banana-2-lite-and-brings-gemini-o
 - 2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
-- 2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-an
+- 2026-08-29-google-releases-gemini-omni-1-1-flash-for-controllable-video
 embedding_id: 2026-06-30-google-brings-nano-banana-2-lite-and-gemini-omni-flash-to-de
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google DeepMind moved Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image) — its f
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-30-google-deepmind-ships-nano-banana-2-lite-and-brings-gemini-o]] · [[2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag]] · [[2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-an]]
+**Related:** [[2026-06-30-google-deepmind-ships-nano-banana-2-lite-and-brings-gemini-o]] · [[2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag]] · [[2026-08-29-google-releases-gemini-omni-1-1-flash-for-controllable-video]]
 <!-- graph:end -->

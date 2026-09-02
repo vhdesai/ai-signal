@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-01-palo-alto-unit-42-frontier-ai-now-tips-the-balance-toward-cy
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
 - 2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto
-- 2026-07-31-cogent-unveils-vr-1-a-mythos-class-frontier-ai-model-for-cyb
 embedding_id: 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
 event_name: ''
 ---
@@ -38,5 +38,5 @@ CIO Dive highlighted that frontier AI models are surfacing security vulnerabilit
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto]] · [[2026-07-31-cogent-unveils-vr-1-a-mythos-class-frontier-ai-model-for-cyb]]
+**Related:** [[2026-09-01-palo-alto-unit-42-frontier-ai-now-tips-the-balance-toward-cy]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto]]
 <!-- graph:end -->

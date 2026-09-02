@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
+- 2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking
 - 2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent
 - 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
-- 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
 embedding_id: 2026-05-05-nature-ai-agents-in-research-erode-the-apprenticeship-pipeli
 event_name: ''
 ---
@@ -35,5 +35,5 @@ A Nature comment piece argues that autonomous research agents are eroding the ap
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]]
+**Related:** [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking]] · [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]]
 <!-- graph:end -->

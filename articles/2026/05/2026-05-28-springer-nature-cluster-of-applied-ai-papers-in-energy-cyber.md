@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: Springer Nature
 url_original: https://link.springer.com/subjects/artificial-intelligence
 url_canonical: https://link.springer.com/subjects/artificial-intelligence
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 7f561b3a9493a739a1c3dcc2cd58240188f7673ba450dfea795d4b76df9efc80
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin
 - 2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr
 - 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
-- 2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent
+- 2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po
 embedding_id: 2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Springer's AI feed published several peer-reviewed papers, including "Explainabl
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr]] · [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]]
+**Related:** [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr]] · [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]]
 <!-- graph:end -->

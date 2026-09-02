@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html
 url_canonical: https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-11_062053_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 038c146ae18cca8c39111961a88cc68f0eda1b3cb8bcf7d0e04951b8d9ae9d14

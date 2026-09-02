@@ -23,8 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-17-ai-driven-memory-crunch-jolts-india-s-smartphone-market
 - 2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con
-- 2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws
-- 2026-08-10-apple-downgraded-as-ai-driven-memory-costs-squeeze-iphone-ec
+- 2026-08-27-ai-s-memory-crunch-is-coming-for-android-apps
+- 2026-08-27-ai-data-center-demand-is-squeezing-memory-for-android-phones
+- 2026-08-27-ai-s-memory-crunch-hits-android-google-sets-new-app-memory-l
 embedding_id: 2026-07-17-ai-driven-memory-crunch-hits-india-s-smartphone-market
 event_name: ''
 ---
@@ -37,5 +38,5 @@ TechCrunch reports that AI-driven demand for memory chips is now affecting India
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-17-ai-driven-memory-crunch-jolts-india-s-smartphone-market]] · [[2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con]] · [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]] · [[2026-08-10-apple-downgraded-as-ai-driven-memory-costs-squeeze-iphone-ec]]
+**Related:** [[2026-07-17-ai-driven-memory-crunch-jolts-india-s-smartphone-market]] · [[2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con]] · [[2026-08-27-ai-s-memory-crunch-is-coming-for-android-apps]] · [[2026-08-27-ai-data-center-demand-is-squeezing-memory-for-android-phones]] · [[2026-08-27-ai-s-memory-crunch-hits-android-google-sets-new-app-memory-l]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-25'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html
 url_canonical: https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-26_061102_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 6d6b54fb0d8d898094811028ed12355971f567e1ee05eca920abdaff5784dcdd

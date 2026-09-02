@@ -6,7 +6,7 @@ date: '2026-07-23'
 source: International Business Times**
 url_original: https://www.ibtimes.sg/white-house-alleges-covert-ai-distillation-behind-moonshot-ais-kimi-k3-breakthrough-90428
 url_canonical: https://www.ibtimes.sg/white-house-alleges-covert-ai-distillation-behind-moonshot-ais-kimi-k3-breakthrough-90428
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-24_065052_Final-Daily-AI-News-Digest.md
 content_hash: 2d36f81a213417b5bcdb12d4b88a761dd92e2670852758aed7a59d08aac6b2e3
 normalized_title_hash: 008371ccde4d17d4

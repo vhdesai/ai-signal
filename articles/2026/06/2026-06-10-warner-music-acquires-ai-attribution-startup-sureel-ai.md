@@ -5,7 +5,7 @@ date: '2026-06-10'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/
 url_canonical: https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-11_070054_Final-Daily-AI-News-Digest.md
 content_hash: 26cabf893604cc7b37e20a32e39e9afe8fa62fa5a79cc70349fb05be21827b13
 normalized_title_hash: cfad9aa0e182308c
@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-11-deezer-launches-free-ai-music-detector-for-spotify-apple-mus
 - 2026-06-11-deezer-launches-free-ai-music-detector-across-streaming-plat
+- 2026-08-29-sony-music-and-warner-sue-anthropic-over-alleged-music-ip-th
+- 2026-08-29-sony-music-and-warner-chappell-sue-anthropic-over-song-lyric
 - 2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera
-- 2026-05-20-aws-acquires-gen-ai-media-creation-startup-fal-as-preferred
-- 2026-08-04-spotify-adds-merlin-to-its-ai-remix-and-covers-effort-follow
 embedding_id: 2026-06-10-warner-music-acquires-ai-attribution-startup-sureel-ai
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Warner Music acquired Sureel AI, a startup focused on AI-generated content attri
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-11-deezer-launches-free-ai-music-detector-for-spotify-apple-mus]] · [[2026-06-11-deezer-launches-free-ai-music-detector-across-streaming-plat]] · [[2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera]] · [[2026-05-20-aws-acquires-gen-ai-media-creation-startup-fal-as-preferred]] · [[2026-08-04-spotify-adds-merlin-to-its-ai-remix-and-covers-effort-follow]]
+**Related:** [[2026-06-11-deezer-launches-free-ai-music-detector-for-spotify-apple-mus]] · [[2026-06-11-deezer-launches-free-ai-music-detector-across-streaming-plat]] · [[2026-08-29-sony-music-and-warner-sue-anthropic-over-alleged-music-ip-th]] · [[2026-08-29-sony-music-and-warner-chappell-sue-anthropic-over-song-lyric]] · [[2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera]]
 <!-- graph:end -->

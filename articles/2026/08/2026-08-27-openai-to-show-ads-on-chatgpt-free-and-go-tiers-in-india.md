@@ -5,10 +5,10 @@ date: '2026-08-27'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/
 url_canonical: https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/
-url_status: found
-digest_source: digests\raw\2026-08-27_062110_Inbox_Daily AI News Digest - August 27,
+url_status: ok
+digest_source: digests\raw\2026-08-28_061348_Inbox_Daily AI News Digest - August 28,
   2026.md
-content_hash: 3658baafeee5abb555bfce04eaa2eb1516063535a0bd2a480f925bfd6fb4341d
+content_hash: c156de18142a03247e1dea892e99614507fd1f1c962aa44fa23fcc794997b353
 normalized_title_hash: 0d6e7ff07356eda1
 canonical_url_hash: 8a45cb93a1efe517
 tags: []
@@ -27,7 +27,7 @@ event_name: ''
 
 # OpenAI to Show Ads on ChatGPT Free and Go Tiers in India
 
-OpenAI said it will begin displaying advertisements to ChatGPT Free and Go subscribers in India, its first large-scale ad rollout in a major growth market. The step marks a shift from pure subscription monetization toward an ad-supported consumer model in price-sensitive geographies. Enterprise and API tiers are unaffected, but the move signals how OpenAI intends to fund consumer-scale inference costs. HARDWARE
+OpenAI will begin displaying advertising to ChatGPT users on the free and lower-priced Go tiers in India, where the company reports more than 100 million weekly active users, heavily skewed to those tiers. India is functioning as the proving ground for an ad-supported model that OpenAI has so far avoided in its core markets. The economics here are worth watching: it is the first real test of whether assistant surfaces can carry advertising without degrading trust in outputs.
 
 <!-- graph:start -->
 ## Connections

@@ -5,7 +5,7 @@ date: '2026-08-13'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/tech/ai/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-e25b3f71
 url_canonical: https://www.wsj.com/tech/ai/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-e25b3f71
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-14_084159_Final-Daily-AI-News-Digest.md
 content_hash: 10ccabd98fdc3d96676c806069dfbf724ab5b170eeefd7b1515bc449dfa2c97a
 normalized_title_hash: 2aee85e308a76278

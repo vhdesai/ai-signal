@@ -6,7 +6,7 @@ date: '2026-08-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/
 url_canonical: https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-26_061028_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: aa8147c64ab03b9daf49ddcc6dc385319a23b0fad73fe39a499f1457755ad378
@@ -22,9 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-31-apple-pulled-forward-mac-mini-and-mac-studio-launches-on-une
+- 2026-08-31-openai-buys-tens-of-thousands-of-mac-minis-and-mac-studios-t
 - 2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive
-- 2026-07-11-apple-announces-30b-custom-silicon-deal-with-broadcom-15b-ch
-- 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
+- 2026-08-31-apple-pulled-mac-mini-and-mac-studio-launches-forward-on-una
 embedding_id: 2026-08-25-apple-surprise-launches-mac-mini-on-new-m6-chip-and-mac-stud
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Apple unexpectedly announced a Mac mini built on the all-new M6 chip starting at
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive]] · [[2026-07-11-apple-announces-30b-custom-silicon-deal-with-broadcom-15b-ch]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]]
+**Related:** [[2026-08-31-apple-pulled-forward-mac-mini-and-mac-studio-launches-on-une]] · [[2026-08-31-openai-buys-tens-of-thousands-of-mac-minis-and-mac-studios-t]] · [[2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive]] · [[2026-08-31-apple-pulled-mac-mini-and-mac-studio-launches-forward-on-una]]
 <!-- graph:end -->

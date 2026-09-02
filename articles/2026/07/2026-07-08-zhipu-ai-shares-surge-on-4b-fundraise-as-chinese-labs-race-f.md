@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/tech/ai/chinas-zhipu-ai-shares-surge-on-4-0-billion-fundraising-00c6abc7
 url_canonical: https://www.wsj.com/tech/ai/chinas-zhipu-ai-shares-surge-on-4-0-billion-fundraising-00c6abc7
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-09_084403_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 2fe4a7d9bdc512b17e1f861b7a0296c3e62f1cdec03c68ad5d29e58f4fe8289e
@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall
+- 2026-08-31-china-s-zhipu-z-ai-posts-5x-revenue-growth-on-api-and-coding
+- 2026-08-31-z-ai-first-half-revenue-rises-roughly-fivefold-to-954m-yuan
 - 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
 - 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
-- 2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two
-- 2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45
 embedding_id: 2026-07-08-zhipu-ai-shares-surge-on-4b-fundraise-as-chinese-labs-race-f
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Zhipu AI raised roughly $4 billion via a discounted placement, sending shares up
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two]] · [[2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45]]
+**Related:** [[2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall]] · [[2026-08-31-china-s-zhipu-z-ai-posts-5x-revenue-growth-on-api-and-coding]] · [[2026-08-31-z-ai-first-half-revenue-rises-roughly-fivefold-to-954m-yuan]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]]
 <!-- graph:end -->

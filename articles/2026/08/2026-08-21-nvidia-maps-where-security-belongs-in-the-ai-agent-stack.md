@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: NVIDIA Developer Blog
 url_original: https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack/
 url_canonical: https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_060601_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: cbdcae260c08a22f535c50dc174e0240a6dcf820ca0e2d3edf6fb29fd39e3af6
@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-08-06-nvidia-staffs-a-new-ai-safety-security-engineering-team
 - 2026-08-21-nvidia-avo-reaches-100-on-arc-agi-3-with-a-harness-centric-a
 - 2026-08-21-nvidia-research-the-agent-harness-not-the-base-model-drives
+- 2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono
 embedding_id: 2026-08-21-nvidia-maps-where-security-belongs-in-the-ai-agent-stack
 event_name: ''
 ---
@@ -36,5 +37,5 @@ NVIDIA published a security framework for the emerging AI agent stack, separatin
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-06-nvidia-staffs-a-new-ai-safety-security-engineering-team]] · [[2026-08-21-nvidia-avo-reaches-100-on-arc-agi-3-with-a-harness-centric-a]] · [[2026-08-21-nvidia-research-the-agent-harness-not-the-base-model-drives]]
+**Related:** [[2026-08-06-nvidia-staffs-a-new-ai-safety-security-engineering-team]] · [[2026-08-21-nvidia-avo-reaches-100-on-arc-agi-3-with-a-harness-centric-a]] · [[2026-08-21-nvidia-research-the-agent-harness-not-the-base-model-drives]] · [[2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono]]
 <!-- graph:end -->

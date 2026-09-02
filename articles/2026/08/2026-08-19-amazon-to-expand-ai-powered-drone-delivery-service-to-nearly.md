@@ -22,6 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-pony-ai-and-uber-plan-more-than-2-000-robotaxis-across-five
 - 2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity
+- 2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo
+- 2026-08-29-amazon-triples-ai-chip-orders-as-its-robotaxi-supplier-netwo
 - 2026-04-09-products-tools
 embedding_id: 2026-08-19-amazon-to-expand-ai-powered-drone-delivery-service-to-nearly
 event_name: ''
@@ -36,5 +38,5 @@ Amazon is expanding its drone delivery service to nearly 500 locations, using AI
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-14-pony-ai-and-uber-plan-more-than-2-000-robotaxis-across-five]] · [[2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity]] · [[2026-04-09-products-tools]]
+**Related:** [[2026-08-14-pony-ai-and-uber-plan-more-than-2-000-robotaxis-across-five]] · [[2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity]] · [[2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo]] · [[2026-08-29-amazon-triples-ai-chip-orders-as-its-robotaxi-supplier-netwo]] · [[2026-04-09-products-tools]]
 <!-- graph:end -->

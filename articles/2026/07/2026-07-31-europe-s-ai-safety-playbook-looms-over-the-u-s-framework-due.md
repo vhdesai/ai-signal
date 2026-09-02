@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Axios
 url_original: https://www.yahoo.com/news/politics/articles/inside-europes-lessons-ai-safety-090504170.html
 url_canonical: https://www.yahoo.com/news/politics/articles/inside-europes-lessons-ai-safety-090504170.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-31_060925_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: 5962dd643190f0a24754b3a4536a496df826308f1f7a1d503ed3c4be888f0f74
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel
 - 2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi
 - 2026-08-19-white-house-ai-model-testing-framework-leaves-companies-with
-- 2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit
+- 2026-08-28-the-eu-ai-act-moves-from-drafting-into-enforcement
 embedding_id: 2026-07-31-europe-s-ai-safety-playbook-looms-over-the-u-s-framework-due
 event_name: ''
 ---
@@ -39,5 +39,5 @@ With the administration's voluntary AI framework due August 1, Axios reports EU 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]] · [[2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel]] · [[2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi]] · [[2026-08-19-white-house-ai-model-testing-framework-leaves-companies-with]] · [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit]]
+**Related:** [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]] · [[2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel]] · [[2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi]] · [[2026-08-19-white-house-ai-model-testing-framework-leaves-companies-with]] · [[2026-08-28-the-eu-ai-act-moves-from-drafting-into-enforcement]]
 <!-- graph:end -->

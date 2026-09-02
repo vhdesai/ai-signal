@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 157
+member_count: 163
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 157 connected article(s).
+> Auto-generated entity hub. 163 connected article(s).
 
+- `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-08-31` [[2026-08-31-keenable-ai-open-sources-needle-a-live-search-benchmark-that|Keenable AI Open-Sources NEEDLE, a Live Search Benchmark That Rebuilds Its Query Set Every Hour]]
+- `2026-08-29` [[2026-08-29-meta-tests-robots-inside-its-data-centers-as-tech-sector-job|Meta Tests Robots Inside Its Data Centers as Tech-Sector Job Cuts Mount]]
+- `2026-08-29` [[2026-08-29-meta-tests-robots-inside-data-centers-as-tech-job-cuts-mount|Meta Tests Robots Inside Data Centers as Tech Job Cuts Mount]]
+- `2026-08-29` [[2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta|Anthropic opens a research preview of the Model Hardware Standard for agents operating physical devices]]
+- `2026-08-28` [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social|MIT AI report calls for alternative grading and more social learning]]
+- `2026-08-27` [[2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto|The Enterprise Agent Risk Is Inter-Agent Complexity, Not Autonomy]]
 - `2026-08-26` [[2026-08-26-oracle-brings-sovereign-ai-and-cloud-offerings-to-leap-2026|Oracle Brings Sovereign AI and Cloud Offerings to LEAP 2026 Under Saudi Vision 2030]]
 - `2026-08-26` [[2026-08-26-openai-s-data-center-chief-chris-malone-departs|OpenAI's data-center chief Chris Malone departs]]
 - `2026-08-26` [[2026-08-26-bill-gates-calls-for-human-reserved-jobs-and-an-ai-robot-tax|Bill Gates calls for "human reserved" jobs and an AI/robot tax]]
@@ -17,7 +24,6 @@ member_count: 157
 - `2026-08-23` [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai|Google and Microsoft race to wire US schools with AI]]
 - `2026-08-22` [[2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma|Saturday coverage: AI content demand strains the rare-book market]]
 - `2026-08-22` [[2026-08-22-nvidia-notifies-customers-of-ai-server-price-hikes-above-15|Nvidia notifies customers of AI server price hikes above 15%]]
-- `2026-08-22` [[2026-08-22-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s|Nvidia Warns Largest Customers of 15%+ Price Increases on AI Servers]]
 - `2026-08-22` [[2026-08-22-nvidia-warns-large-customers-of-15-price-increases-on-ai-ser|Nvidia Warns Large Customers of 15%+ Price Increases on AI Servers]]
 - `2026-08-22` [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro|Frontier AI labs still won't say how they would contain a rogue model]]
 - `2026-08-17` [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo|No new peer-reviewed research published in the 24-hour window]]

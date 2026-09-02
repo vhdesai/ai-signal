@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: Financial Express
 url_original: https://www.financialexpress.com/life/technology-google-io-2026-live-updates-gemini-ai-upgrade-android-17-features-xr-smart-glasses-latest-news-4244729/
 url_canonical: https://www.financialexpress.com/life/technology-google-io-2026-live-updates-gemini-ai-upgrade-android-17-features-xr-smart-glasses-latest-news-4244729/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: a18927c8ce4506bcadc888cdf2da3458bfac655e9d36c5ee1a47b5ad20df560a

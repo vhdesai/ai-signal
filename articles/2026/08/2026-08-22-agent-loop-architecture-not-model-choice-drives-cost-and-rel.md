@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/
 url_canonical: https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-23_060427_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: 7f9b592ab4e7694a995d142a3cf0b624c0ed9d6f952902227598c9e6f07b6d38
@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and
 - 2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne
+- 2026-08-31-the-engineering-role-shifts-from-writing-code-to-bounding-ag
 - 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
 - 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
-- 2026-08-08-four-agent-coordination-system-outperforms-a-frontier-single
 embedding_id: 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A technical breakdown of an open-source coding-agent course maps three distinct 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and]] · [[2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-08-08-four-agent-coordination-system-outperforms-a-frontier-single]]
+**Related:** [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and]] · [[2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne]] · [[2026-08-31-the-engineering-role-shifts-from-writing-code-to-bounding-ag]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/
 url_canonical: https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_061719_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: e49e72f05a8b3dc81cc4ed16715b7a1ff276411d6631cbe053e694710620b050
@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-20-who-s-legally-to-blame-for-anthropic-and-openai-s-autonom
+- 2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits
-- 2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out
+- 2026-08-27-anthropic-and-openai-to-share-the-ai-stage-at-techcrunch-dis
 embedding_id: 2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut
 event_name: ''
 ---
@@ -38,5 +39,5 @@ TechCrunch examined who may be legally responsible when autonomous AI agents esc
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-03-20-who-s-legally-to-blame-for-anthropic-and-openai-s-autonom]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits]] · [[2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out]]
+**Related:** [[2026-08-03-20-who-s-legally-to-blame-for-anthropic-and-openai-s-autonom]] · [[2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits]] · [[2026-08-27-anthropic-and-openai-to-share-the-ai-stage-at-techcrunch-dis]]
 <!-- graph:end -->

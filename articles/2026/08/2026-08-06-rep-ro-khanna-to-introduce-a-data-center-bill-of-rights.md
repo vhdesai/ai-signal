@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/06/khanna-to-introduce-data-center-bill-of-rights-in-ai-power-plants-fight.html
 url_canonical: https://www.cnbc.com/2026/08/06/khanna-to-introduce-data-center-bill-of-rights-in-ai-power-plants-fight.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 04a8c6153b91ef3dc40bcb0cb47c2bf41d2527ec71e610e43bf4085488d63c97

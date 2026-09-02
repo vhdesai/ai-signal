@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-28-openai-appointed-former-uber-india-head-prabhjeet-singh-as-i
+- 2026-08-28-meta-executive-leaves-for-openai-to-oversee-southeast-asia-o
+- 2026-08-28-meta-executive-sandhya-devanathan-leaves-for-openai-to-overs
 - 2026-08-27-openai-to-start-showing-ads-on-chatgpt-free-and-go-tiers-in
-- 2026-07-07-cost-compute-and-consolidation-set-the-tone
-- 2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o
-- 2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in
+- 2026-08-28-openai-hires-meta-s-sandhya-devanathan-to-lead-southeast-asi
 embedding_id: 2026-06-27-openai-names-ex-uber-india-chief-as-its-first-india-managing
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI appointed Prabhjeet Singh, outgoing president of Uber India and South Asi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-28-openai-appointed-former-uber-india-head-prabhjeet-singh-as-i]] · [[2026-08-27-openai-to-start-showing-ads-on-chatgpt-free-and-go-tiers-in]] · [[2026-07-07-cost-compute-and-consolidation-set-the-tone]] · [[2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o]] · [[2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in]]
+**Related:** [[2026-06-28-openai-appointed-former-uber-india-head-prabhjeet-singh-as-i]] · [[2026-08-28-meta-executive-leaves-for-openai-to-oversee-southeast-asia-o]] · [[2026-08-28-meta-executive-sandhya-devanathan-leaves-for-openai-to-overs]] · [[2026-08-27-openai-to-start-showing-ads-on-chatgpt-free-and-go-tiers-in]] · [[2026-08-28-openai-hires-meta-s-sandhya-devanathan-to-lead-southeast-asi]]
 <!-- graph:end -->

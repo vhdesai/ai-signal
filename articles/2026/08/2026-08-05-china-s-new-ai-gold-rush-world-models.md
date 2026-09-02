@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=China+world+models+AI+gold+rush
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=China+world+models+AI+gold+rush
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-05_065023_Final-Daily-AI-News-Digest.md
 content_hash: 70a2fe60f0743697d1f7e7eeacbc15b21b541c19a5b9c4d34ff2259ad3c98984
 normalized_title_hash: b2bd104d7b46134b

@@ -6,7 +6,7 @@ date: '2026-05-21'
 source: 'Source: Cornell Chronicle / Science'
 url_original: https://news.cornell.edu/stories/2026/05/widespread-ai-misuse-means-higher-ed-must-rethink-assessment
 url_canonical: https://news.cornell.edu/stories/2026/05/widespread-ai-misuse-means-higher-ed-must-rethink-assessment
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: de2d962f6a443029af209e13dd5c79bb0392a6549a57e223e53bea913e6dc678
@@ -42,10 +42,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
+- 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
 - 2026-07-04-a-study-of-more-than-26-000-chinese-students-found-that-ai-u
 - 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
-- 2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c
 embedding_id: 2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl
 event_name: ''
 ---
@@ -59,5 +59,5 @@ A study published in Science, analyzing 95,000+ students at 20 U.S. public resea
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-07-04-a-study-of-more-than-26-000-chinese-students-found-that-ai-u]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]] · [[2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c]]
+**Related:** [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-07-04-a-study-of-more-than-26-000-chinese-students-found-that-ai-u]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]]
 <!-- graph:end -->

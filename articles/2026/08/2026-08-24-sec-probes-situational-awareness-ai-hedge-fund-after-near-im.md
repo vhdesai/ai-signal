@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: TechCrunch / NYT
 url_original: https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/
 url_canonical: https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-26_065442_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 27e2fb8a22e2fdf1de5c2dd15fd9fd8ff35d80cb6042c4cca20cee328414f68d

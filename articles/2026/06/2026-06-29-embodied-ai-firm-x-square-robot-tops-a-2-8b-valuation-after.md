@@ -6,7 +6,7 @@ date: '2026-06-29'
 source: PR Newswire
 url_original: https://uk.finance.yahoo.com/news/x-square-robot-secures-four-110000322.html
 url_canonical: https://uk.finance.yahoo.com/news/x-square-robot-secures-four-110000322.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-30_061732_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: a6ba3180797ad3dc0db470bac8cec7fe3e601dc187f7a6517497c1dc422148b0
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi
 - 2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its
 - 2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation
-- 2026-08-15-china-s-infiforce-raises-150m-for-an-embodied-ai-world-model
+- 2026-08-28-chinese-embodied-ai-startup-psibot-raises-over-100-million
 embedding_id: 2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Shenzhen-based X Square Robot disclosed four consecutive financing rounds culmin
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi]] · [[2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its]] · [[2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation]] · [[2026-08-15-china-s-infiforce-raises-150m-for-an-embodied-ai-world-model]]
+**Related:** [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi]] · [[2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its]] · [[2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation]] · [[2026-08-28-chinese-embodied-ai-startup-psibot-raises-over-100-million]]
 <!-- graph:end -->

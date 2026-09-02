@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/08/20/ai-workload-optimization-startup-callosum-raises-100m/
 url_canonical: https://siliconangle.com/2026/08/20/ai-workload-optimization-startup-callosum-raises-100m/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-21_061353_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 77d84c851f16d386149ed9df476d461aecc569723d7cc3807aa222b0760e17b9

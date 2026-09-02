@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking
 - 2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 - 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
 - 2026-04-01-carnegie-mellon-university-s-center-for-ai-driven-biomedical
-- 2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-ai-flaw-report
 embedding_id: 2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The National Science Foundation has funded a new AI research institute at Carneg
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-04-01-carnegie-mellon-university-s-center-for-ai-driven-biomedical]] · [[2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-ai-flaw-report]]
+**Related:** [[2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking]] · [[2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-04-01-carnegie-mellon-university-s-center-for-ai-driven-biomedical]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: The Next Web
 url_original: https://thenextweb.com/news/uk-lawmaker-xai-grok-images
 url_canonical: https://thenextweb.com/news/uk-lawmaker-xai-grok-images
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 0cabd9aefdda25e2d602960af1041cefd7b5fcdb7f87db32e7c0415d33b8a4d4
@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake
+- 2026-08-28-xai-faces-child-safety-lawsuits-over-grok-imagery-and-counte
 - 2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam
 - 2026-07-23-arkansas-family-sues-xai-over-grok-generated-child-abuse-ima
 - 2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims
-- 2026-08-15-lawsuit-expands-over-alleged-use-of-grok-to-create-explicit
 embedding_id: 2026-07-28-uk-mp-seeks-a-high-court-order-compelling-xai-to-add-permane
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Labour MP Jess Asato is seeking a court order that would require xAI to build pe
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]] · [[2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam]] · [[2026-07-23-arkansas-family-sues-xai-over-grok-generated-child-abuse-ima]] · [[2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims]] · [[2026-08-15-lawsuit-expands-over-alleged-use-of-grok-to-create-explicit]]
+**Related:** [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]] · [[2026-08-28-xai-faces-child-safety-lawsuits-over-grok-imagery-and-counte]] · [[2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam]] · [[2026-07-23-arkansas-family-sues-xai-over-grok-generated-child-abuse-ima]] · [[2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims]]
 <!-- graph:end -->

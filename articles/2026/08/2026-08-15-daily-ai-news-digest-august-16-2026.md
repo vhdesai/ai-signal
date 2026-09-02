@@ -26,6 +26,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-17-daily-ai-news-digest-august-18-2026
+- 2026-08-29-daily-ai-news-digest-august-30-2026
+- 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-08-14-daily-ai-news-digest-august-15-2026
 - 2026-08-11-daily-ai-news-digest-august-11-2026
 embedding_id: 2026-08-15-daily-ai-news-digest-august-16-2026
@@ -41,5 +43,5 @@ Executive Summary The weekend’s signal concentrates in two places: the financi
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-17-daily-ai-news-digest-august-18-2026]] · [[2026-08-14-daily-ai-news-digest-august-15-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]]
+**Related:** [[2026-08-17-daily-ai-news-digest-august-18-2026]] · [[2026-08-29-daily-ai-news-digest-august-30-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-14-daily-ai-news-digest-august-15-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]]
 <!-- graph:end -->

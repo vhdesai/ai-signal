@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/
 url_canonical: https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-25_061146_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 72693e54f07be858eb4c10f6e9dc6e5bba72eb574d955d12d2bfae3ce4b712cb
@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us
 - 2026-08-22-frontier-labs-still-have-limited-public-detail-on-rogue-mode
+- 2026-08-29-europe-ai-conversations-focus-on-who-controls-agentic-system
 - 2026-08-12-ai-pioneers-argue-for-keeping-ai-open-as-safety-concerns-mou
-- 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
 embedding_id: 2026-08-24-openai-pushes-agents-deeper-into-the-desktop-raising-the-con
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch reports on OpenAI's expanding agent surface, centered on a desktop ap
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us]] · [[2026-08-22-frontier-labs-still-have-limited-public-detail-on-rogue-mode]] · [[2026-08-12-ai-pioneers-argue-for-keeping-ai-open-as-safety-concerns-mou]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]]
+**Related:** [[2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us]] · [[2026-08-22-frontier-labs-still-have-limited-public-detail-on-rogue-mode]] · [[2026-08-29-europe-ai-conversations-focus-on-who-controls-agentic-system]] · [[2026-08-12-ai-pioneers-argue-for-keeping-ai-open-as-safety-concerns-mou]]
 <!-- graph:end -->

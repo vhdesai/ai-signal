@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: The Manila Times
 url_original: https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/eliyan-achieves-unicorn-status-with-145-million-series-c-to-advance-electro-optical-interconnects-for-ai-infrastructure/2394175
 url_canonical: https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/eliyan-achieves-unicorn-status-with-145-million-series-c-to-advance-electro-optical-interconnects-for-ai-infrastructure/2394175
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-30_062819_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 7af8e8fa3cb6f8cf24b4458cfb7715f8935d32b98cd6371e98815ca45e917134

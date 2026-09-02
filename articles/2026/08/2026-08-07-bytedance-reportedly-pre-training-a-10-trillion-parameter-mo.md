@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: Financial Times
 url_original: https://thenextweb.com/news/bytedance-10-trillion-parameter-model-mythos
 url_canonical: https://thenextweb.com/news/bytedance-10-trillion-parameter-model-mythos
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-08_061253_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 8512bb1927f308c5fe81cf6ad703bc4473d7370b4d75465abaf149fed6a46e1a

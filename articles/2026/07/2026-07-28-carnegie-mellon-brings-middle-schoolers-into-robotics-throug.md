@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: Carnegie Mellon University News
 url_original: https://www.cmu.edu/news/stories/archives/2026/july/middle-school-students-explore-advanced-manufacturing-and-robotics-through-cmu-partnership
 url_canonical: https://www.cmu.edu/news/stories/archives/2026/july/middle-school-students-explore-advanced-manufacturing-and-robotics-through-cmu-partnership
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: f6810c2051f5836835197ef879c121a751d0fb8523481a0ad2897b3450dce719
@@ -21,9 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research
+- 2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking
 - 2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
-- 2026-05-10-jensen-huang-delivers-carnegie-mellon-commencement-shape-wha
+- 2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio
 embedding_id: 2026-07-28-carnegie-mellon-brings-middle-schoolers-into-robotics-throug
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Carnegie Mellon’s Robotics Institute hosted a week-long STEM camp bringing 20 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research]] · [[2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-05-10-jensen-huang-delivers-carnegie-mellon-commencement-shape-wha]]
+**Related:** [[2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research]] · [[2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking]] · [[2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio]]
 <!-- graph:end -->

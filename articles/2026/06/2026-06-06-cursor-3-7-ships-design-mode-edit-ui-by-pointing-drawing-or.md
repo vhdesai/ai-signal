@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
 - 2026-07-30-visual-studio-s-july-update-ships-a-copilot-agent-and-built
 - 2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic
+- 2026-08-31-runway-introduces-solaris-an-interface-world-model-that-gene
 - 2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors
-- 2026-05-10-cursor-3-0-parallel-agent-coding-ide
 embedding_id: 2026-06-06-cursor-3-7-ships-design-mode-edit-ui-by-pointing-drawing-or
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Visual editing layer lets developers select on-screen elements and have the agen
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]] · [[2026-07-30-visual-studio-s-july-update-ships-a-copilot-agent-and-built]] · [[2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic]] · [[2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]]
+**Related:** [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]] · [[2026-07-30-visual-studio-s-july-update-ships-a-copilot-agent-and-built]] · [[2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic]] · [[2026-08-31-runway-introduces-solaris-an-interface-world-model-that-gene]] · [[2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors]]
 <!-- graph:end -->

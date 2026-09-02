@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po
 - 2026-06-07-wsj-the-artificial-intelligence-backlash
+- 2026-08-29-tech-backlash-roughly-130b-of-data-center-projects-blocked-o
 - 2026-08-22-the-information-reports-that-america-increasingly-dislikes-d
 - 2026-06-11-axios-congress-wants-in-on-the-data-center-backlash
-- 2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d
-- 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
 embedding_id: 2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce
 event_name: ''
 ---
@@ -37,5 +37,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]] · [[2026-06-11-axios-congress-wants-in-on-the-data-center-backlash]] · [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]]
+**Related:** [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-08-29-tech-backlash-roughly-130b-of-data-center-projects-blocked-o]] · [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]] · [[2026-06-11-axios-congress-wants-in-on-the-data-center-backlash]]
 <!-- graph:end -->

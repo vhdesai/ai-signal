@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-30-judge-says-the-u-s-still-lacks-evidence-for-anthropic-supply
-- 2026-04-01-a-federal-judge-granted-anthropic-a-preliminary-injunction-b
-- 2026-04-03-more-than-30-openai-and-google-deepmind-employees-including
-- 2026-05-07-new-pentagon-tech-chief-no-near-term-resolution-on-anthropic
-- 2026-04-04-the-doj-filed-notice-of-appeal-against-u-s
+- 2026-08-28-federal-judge-strikes-down-the-pentagon-s-supply-chain-risk
+- 2026-08-28-federal-judge-voids-pentagon-s-supply-chain-risk-designation
+- 2026-08-28-federal-judge-rules-pentagon-s-supply-chain-risk-designation
+- 2026-08-28-federal-judge-strikes-down-pentagon-s-blacklisting-of-anthro
+- 2026-08-28-federal-judge-nullifies-pentagon-s-supply-chain-risk-designa
 embedding_id: 2026-03-24-a-federal-hearing-is-underway-today-before-judge-rita-lin-in
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A federal hearing is underway today before Judge Rita Lin in California where An
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-30-judge-says-the-u-s-still-lacks-evidence-for-anthropic-supply]] · [[2026-04-01-a-federal-judge-granted-anthropic-a-preliminary-injunction-b]] · [[2026-04-03-more-than-30-openai-and-google-deepmind-employees-including]] · [[2026-05-07-new-pentagon-tech-chief-no-near-term-resolution-on-anthropic]] · [[2026-04-04-the-doj-filed-notice-of-appeal-against-u-s]]
+**Related:** [[2026-08-28-federal-judge-strikes-down-the-pentagon-s-supply-chain-risk]] · [[2026-08-28-federal-judge-voids-pentagon-s-supply-chain-risk-designation]] · [[2026-08-28-federal-judge-rules-pentagon-s-supply-chain-risk-designation]] · [[2026-08-28-federal-judge-strikes-down-pentagon-s-blacklisting-of-anthro]] · [[2026-08-28-federal-judge-nullifies-pentagon-s-supply-chain-risk-designa]]
 <!-- graph:end -->

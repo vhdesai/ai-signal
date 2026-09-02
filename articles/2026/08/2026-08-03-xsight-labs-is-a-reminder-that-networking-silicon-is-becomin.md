@@ -21,8 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-xsight-raises-300-million-as-server-networking-becomes-an-ai
 - 2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex
+- 2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu
 - 2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n
-- 2026-08-02-deepseek-data-center-plan-points-to-infrastructure-as-the-ne
+- 2026-08-29-nvidia-s-ai-advantage-is-shifting-from-the-gpu-to-the-system
 embedding_id: 2026-08-03-xsight-labs-is-a-reminder-that-networking-silicon-is-becomin
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Xsight Labs is a reminder that networking silicon is becoming a central bottlene
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-30-xsight-raises-300-million-as-server-networking-becomes-an-ai]] · [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex]] · [[2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n]] · [[2026-08-02-deepseek-data-center-plan-points-to-infrastructure-as-the-ne]]
+**Related:** [[2026-07-30-xsight-raises-300-million-as-server-networking-becomes-an-ai]] · [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex]] · [[2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu]] · [[2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n]] · [[2026-08-29-nvidia-s-ai-advantage-is-shifting-from-the-gpu-to-the-system]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: Google Research
 url_original: https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/
 url_canonical: https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-02_062325_Inbox_Daily AI News Digest - July 2,
   2026.md
 content_hash: 80adea597ed97dd8c6499e24e6c8cdcc9b3d96d5098c2f2a63f95a7e93cbcab8
@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-31-google-research-releases-timesfm-3-a-330m-parameter-zero-sho
 - 2026-04-03-google-research-released-timesfm-time-series-foundation-mode
+- 2026-08-31-google-releases-timesfm-3-a-330m-parameter-zero-shot-forecas
 - 2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda
 - 2026-08-26-google-research-introduces-glucofm-a-0-72m-parameter-foundat
-- 2026-08-14-google-open-sources-heir-a-compiler-for-running-inference-on
-- 2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml
 embedding_id: 2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google Research unveiled TabFM, a foundation model that brings zero-shot, in-con
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-03-google-research-released-timesfm-time-series-foundation-mode]] · [[2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda]] · [[2026-08-26-google-research-introduces-glucofm-a-0-72m-parameter-foundat]] · [[2026-08-14-google-open-sources-heir-a-compiler-for-running-inference-on]] · [[2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml]]
+**Related:** [[2026-08-31-google-research-releases-timesfm-3-a-330m-parameter-zero-sho]] · [[2026-04-03-google-research-released-timesfm-time-series-foundation-mode]] · [[2026-08-31-google-releases-timesfm-3-a-330m-parameter-zero-shot-forecas]] · [[2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda]] · [[2026-08-26-google-research-introduces-glucofm-a-0-72m-parameter-foundat]]
 <!-- graph:end -->

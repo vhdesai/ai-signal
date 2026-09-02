@@ -5,7 +5,7 @@ date: '2026-07-07'
 source: MIT News
 url_original: https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707
 url_canonical: https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-08_061307_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: be547daf72135e66116ed5671da2e543e529763f7c2cd007e6de5971bdb61aa0
@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp
 - 2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world
 - 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
+- 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
 - 2026-06-26-mit-s-masked-irl-uses-two-llms-to-help-robots-act-on-vague-i
-- 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 embedding_id: 2026-07-07-how-novice-coders-can-develop-ai-programs-for-military-appli
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT Lincoln Laboratory and the U.S. Air Force-MIT AI Accelerator described a pro
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp]] · [[2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world]] · [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i]] · [[2026-06-26-mit-s-masked-irl-uses-two-llms-to-help-robots-act-on-vague-i]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]]
+**Related:** [[2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp]] · [[2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world]] · [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i]] · [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]] · [[2026-06-26-mit-s-masked-irl-uses-two-llms-to-help-robots-act-on-vague-i]]
 <!-- graph:end -->

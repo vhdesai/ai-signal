@@ -5,7 +5,7 @@ date: '2026-08-19'
 source: Unite.AI
 url_original: https://www.unite.ai/grok-4-6-is-now-generally-available-on-amazon-bedrock/
 url_canonical: https://www.unite.ai/grok-4-6-is-now-generally-available-on-amazon-bedrock/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-20_065002_Final-Daily-AI-News-Digest.md
 content_hash: afe54db4d6d6de5f3720665a0cc75bc152f823ea12776fb6405c1ee9412900d6
 normalized_title_hash: 24bdd1cc9cd0afda

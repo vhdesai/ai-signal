@@ -6,7 +6,7 @@ date: '2026-07-31'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/
 url_canonical: https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-01_061413_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: f4b1a7cfaa44613c103a48687b0ac7be2e63a590c48d8de75c12d5bebe638992

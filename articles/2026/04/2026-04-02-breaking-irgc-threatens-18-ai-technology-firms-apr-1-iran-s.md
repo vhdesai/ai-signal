@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-04-04-iran-s-irgc-issued-a-warning-targeting-18-major-u-s
 - 2026-04-06-google-deepmind-researchers-published-a-significant-security
 - 2026-04-02-iran-s-islamic-revolutionary-guard-corps-declared-18-america
+- 2026-08-27-openai-anthropic-google-and-100-firms-call-for-action-agains
 - 2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani
-- 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
 embedding_id: 2026-04-02-breaking-irgc-threatens-18-ai-technology-firms-apr-1-iran-s
 event_name: ''
 ---
@@ -37,5 +37,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-04-iran-s-irgc-issued-a-warning-targeting-18-major-u-s]] · [[2026-04-06-google-deepmind-researchers-published-a-significant-security]] · [[2026-04-02-iran-s-islamic-revolutionary-guard-corps-declared-18-america]] · [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]]
+**Related:** [[2026-04-04-iran-s-irgc-issued-a-warning-targeting-18-major-u-s]] · [[2026-04-06-google-deepmind-researchers-published-a-significant-security]] · [[2026-04-02-iran-s-islamic-revolutionary-guard-corps-declared-18-america]] · [[2026-08-27-openai-anthropic-google-and-100-firms-call-for-action-agains]] · [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Meta+Hatch+AI+agent+platform
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Meta+Hatch+AI+agent+platform
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-26_111101_Final-Daily-AI-News-Digest.md
 content_hash: d3ee1680145015b5210550f6ae77c9f3f763119aaed1d6ae13048e8e40a8fb6d
 normalized_title_hash: 22d51f01cb24a60f
@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-24-meta-plans-to-launch-ai-agent-platform-hatch-in-coming-weeks
 - 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
+- 2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business
 - 2026-04-10-meta-debuted-muse-spark-on-april-8-the-inaugural-model-from
 - 2026-07-09-daily-ai-news-digest-july-10-2026
 embedding_id: 2026-08-24-meta-plans-ai-agent-platform-hatch-launch-in-coming-weeks-ne
@@ -38,5 +39,5 @@ Meta plans to launch "Hatch," its consumer AI agent platform, as soon as the nex
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-24-meta-plans-to-launch-ai-agent-platform-hatch-in-coming-weeks]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-04-10-meta-debuted-muse-spark-on-april-8-the-inaugural-model-from]] · [[2026-07-09-daily-ai-news-digest-july-10-2026]]
+**Related:** [[2026-08-24-meta-plans-to-launch-ai-agent-platform-hatch-in-coming-weeks]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business]] · [[2026-04-10-meta-debuted-muse-spark-on-april-8-the-inaugural-model-from]] · [[2026-07-09-daily-ai-news-digest-july-10-2026]]
 <!-- graph:end -->

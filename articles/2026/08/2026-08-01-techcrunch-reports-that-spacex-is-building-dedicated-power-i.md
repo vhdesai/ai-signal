@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory
 - 2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
-- 2026-07-17-spacex-reportedly-discusses-providing-compute-for-pentagon-a
 embedding_id: 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch reports that SpaceX is building dedicated power infrastructure for xA
 
 **Entities:** [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-07-17-spacex-reportedly-discusses-providing-compute-for-pentagon-a]]
+**Related:** [[2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory]] · [[2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]]
 <!-- graph:end -->

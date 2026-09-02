@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: Yahoo Finance
 url_original: https://uk.finance.yahoo.com/news/softbank-40-billion-loan-openai-043037251.html
 url_canonical: https://uk.finance.yahoo.com/news/softbank-40-billion-loan-openai-043037251.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-27_062053_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: ac1e5e040a394bb4ff403f18453161ff660fa2591d61c55a797af8010539db9d
@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new
+- 2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake
 - 2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion
 - 2026-04-01-openai-has-officially-closed-the-largest-private-financing-d
-- 2026-08-26-softbank-weighs-a-10-20b-bond-sale-to-refinance-its-openai-p
 embedding_id: 2026-07-27-softbank-s-40b-bridge-loan-for-openai-stake-adds-21-new-lend
 event_name: ''
 ---
@@ -38,5 +38,5 @@ SoftBank's $40B bridge loan backing its OpenAI investment attracted a new syndic
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new]] · [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-04-01-openai-has-officially-closed-the-largest-private-financing-d]] · [[2026-08-26-softbank-weighs-a-10-20b-bond-sale-to-refinance-its-openai-p]]
+**Related:** [[2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new]] · [[2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake]] · [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-04-01-openai-has-officially-closed-the-largest-private-financing-d]]
 <!-- graph:end -->

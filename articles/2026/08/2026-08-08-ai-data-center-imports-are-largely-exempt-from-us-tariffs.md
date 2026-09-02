@@ -19,10 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-27-u-s-weighs-broader-semiconductor-tariff-regime-covering-serv
+- 2026-08-27-u-s-weighs-a-broader-semiconductor-tariff-regime-covering-se
+- 2026-08-28-washington-weighs-extending-chip-tariffs-to-servers-and-fini
+- 2026-08-28-semiconductor-tariff-phase-2-weighed-for-servers-and-laptops
 - 2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of
-- 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
-- 2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s
-- 2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo
 embedding_id: 2026-08-08-ai-data-center-imports-are-largely-exempt-from-us-tariffs
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Bloomberg argues the AI buildout has been quietly insulated from Trump-era prote
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s]] · [[2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo]]
+**Related:** [[2026-08-27-u-s-weighs-broader-semiconductor-tariff-regime-covering-serv]] · [[2026-08-27-u-s-weighs-a-broader-semiconductor-tariff-regime-covering-se]] · [[2026-08-28-washington-weighs-extending-chip-tariffs-to-servers-and-fini]] · [[2026-08-28-semiconductor-tariff-phase-2-weighed-for-servers-and-laptops]] · [[2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of]]
 <!-- graph:end -->

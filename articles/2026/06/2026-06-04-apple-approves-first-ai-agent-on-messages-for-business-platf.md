@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: TechCrunch; 9to5Mac; AppleInsider
 url_original: https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/
 url_canonical: https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-05_080826_Final-Daily-AI-News-Digest.md
 content_hash: 0fadc503b262ea7cadf6fcfd711dca45e07da0f55107af6907fc6e13f22cc281
 normalized_title_hash: 3aa74a87eddfd128

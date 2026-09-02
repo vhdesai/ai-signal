@@ -5,7 +5,7 @@ date: '2026-05-31'
 source: NPR / Boise State Public Radio*
 url_original: https://www.boisestatepublicradio.org/2026-05-31/these-ai-models-are-free-private-and-will-never-say-no
 url_canonical: https://www.boisestatepublicradio.org/2026-05-31/these-ai-models-are-free-private-and-will-never-say-no
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-31_163845_Daily-AI-News-Digest.md
 content_hash: aebd591d3efb34a318dca7cc5ade5c6747ea5d8e626b1ecac8aca768c3e0f2d1
 normalized_title_hash: 7dd4b2d89de78df2
@@ -31,8 +31,8 @@ related_article_ids:
 - 2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h
 - 2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode
 - 2026-08-08-daily-ai-news-digest-august-8-2026
+- 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed
-- 2026-08-12-at-t-bets-on-open-weight-models-to-control-token-cost-and-da
 embedding_id: 2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Open-weight models with capabilities close to proprietary frontier systems — f
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[DeepSeek]] · [[Huawei]] · [[Microsoft]] · [[OpenAI]] · [[Perplexity]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]] · [[2026-08-12-at-t-bets-on-open-weight-models-to-control-token-cost-and-da]]
+**Related:** [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/
 url_canonical: https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-05_061724_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 81c8c2c6d5f59615873c0ad83ad951bb2f0aaf7f2e4739bae4656d42decc63a7
@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo
 - 2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv
+- 2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee
 - 2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics
-- 2026-08-14-uber-and-pony-ai-plan-2-000-robotaxis-across-european-cities
-- 2026-08-24-tesla-sets-september-3-cybercab-launch-event-in-austin
+- 2026-08-30-osha-data-shows-robotaxi-test-drivers-injured-by-sudden-auto
 embedding_id: 2026-08-04-waymo-opens-dallas-robotaxi-service-to-all-riders
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Waymo removed the waitlist for its Dallas robotaxi service, opening access to an
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo]] · [[2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv]] · [[2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics]] · [[2026-08-14-uber-and-pony-ai-plan-2-000-robotaxis-across-european-cities]] · [[2026-08-24-tesla-sets-september-3-cybercab-launch-event-in-austin]]
+**Related:** [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo]] · [[2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv]] · [[2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee]] · [[2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics]] · [[2026-08-30-osha-data-shows-robotaxi-test-drivers-injured-by-sudden-auto]]
 <!-- graph:end -->

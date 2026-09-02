@@ -5,7 +5,7 @@ date: '2026-08-18'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/
 url_canonical: https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-19_065003_Final-Daily-AI-News-Digest.md
 content_hash: 5024e0d23585a3d7541c203564f9e7fa8e18270b98376641ce8eb6afe564b83e
 normalized_title_hash: 5348f418c8fd96c9

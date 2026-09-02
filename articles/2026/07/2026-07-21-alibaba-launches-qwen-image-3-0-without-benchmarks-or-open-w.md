@@ -5,7 +5,7 @@ date: '2026-07-21'
 source: Unite.AI**
 url_original: https://www.unite.ai/alibaba-launches-qwen-image-3-0-without-benchmarks-or-weights/
 url_canonical: https://www.unite.ai/alibaba-launches-qwen-image-3-0-without-benchmarks-or-weights/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-23_065018_Final-Daily-AI-News-Digest.md
 content_hash: 36f139fccb87ae876e9840e9e2cd32f7ad94c48381a62e7cc6fef03d04a0017e
 normalized_title_hash: ef12b5b1018fbd2b

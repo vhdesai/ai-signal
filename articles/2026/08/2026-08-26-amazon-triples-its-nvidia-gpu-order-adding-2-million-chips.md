@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/
 url_canonical: https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_060153_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 390e269910db5039b3125aafe9fba1910773a70b87498b4658f3b632cc26f1ca
@@ -19,7 +19,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-26-amazon-triples-its-nvidia-gpu-commitment-2-million-chips-thr
+canonical_article_id: 2026-08-26-amazon-triples-its-nvidia-chip-order-over-surging-demand
 related_article_ids: []
 embedding_id: 2026-08-26-amazon-triples-its-nvidia-gpu-order-adding-2-million-chips
 event_name: ''
@@ -34,5 +34,5 @@ Amazon is adding roughly 2 million more Nvidia GPUs to AWS data centers across t
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-08-26-amazon-triples-its-nvidia-gpu-commitment-2-million-chips-thr]]
+**Canonical:** [[2026-08-26-amazon-triples-its-nvidia-chip-order-over-surging-demand]]
 <!-- graph:end -->

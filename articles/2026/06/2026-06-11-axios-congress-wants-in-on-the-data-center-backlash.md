@@ -5,7 +5,7 @@ date: '2026-06-11'
 source: Axios
 url_original: https://www.axios.com/2026/06/11/data-centers-ai-congress-bresnahan-bill
 url_canonical: https://www.axios.com/2026/06/11/data-centers-ai-congress-bresnahan-bill
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-11_060053_Daily-AI-News-Digest.md
 content_hash: 59ac18cfd86d3e62864a8bde6e20a980e969984662ff965f12a14755b8f451c3
 normalized_title_hash: 74c6fd8873e9b547
@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re
 - 2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo
+- 2026-08-29-tech-backlash-roughly-130b-of-data-center-projects-blocked-o
 - 2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce
 - 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
-- 2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats
 embedding_id: 2026-06-11-axios-congress-wants-in-on-the-data-center-backlash
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Axios reported that Congress is preparing legislation to address the growing dat
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]] · [[2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats]]
+**Related:** [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]] · [[2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo]] · [[2026-08-29-tech-backlash-roughly-130b-of-data-center-projects-blocked-o]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]]
 <!-- graph:end -->

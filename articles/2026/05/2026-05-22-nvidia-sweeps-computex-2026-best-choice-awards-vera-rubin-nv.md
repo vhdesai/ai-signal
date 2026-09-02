@@ -6,7 +6,7 @@ date: '2026-05-22'
 source: Nvidia Blog  / MindwiredAI
 url_original: https://blogs.nvidia.com/
 url_canonical: https://blogs.nvidia.com/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 8fabc8be1d218f183af0ac8c4c9692b6368afa27ac78f1266b14bb4da1869cbb

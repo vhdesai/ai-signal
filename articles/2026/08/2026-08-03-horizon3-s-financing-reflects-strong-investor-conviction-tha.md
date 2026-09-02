@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono
 - 2026-08-03-12-horizon3-raises-250m-series-e-at-a-2b-valuation
 - 2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha
-- 2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk
+- 2026-08-31-financial-stability-board-chair-flags-ai-cyber-risk-as-immed
 embedding_id: 2026-08-03-horizon3-s-financing-reflects-strong-investor-conviction-tha
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Horizon3’s financing reflects strong investor conviction that autonomous secur
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono]] · [[2026-08-03-12-horizon3-raises-250m-series-e-at-a-2b-valuation]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha]] · [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]]
+**Related:** [[2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono]] · [[2026-08-03-12-horizon3-raises-250m-series-e-at-a-2b-valuation]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha]] · [[2026-08-31-financial-stability-board-chair-flags-ai-cyber-risk-as-immed]]
 <!-- graph:end -->

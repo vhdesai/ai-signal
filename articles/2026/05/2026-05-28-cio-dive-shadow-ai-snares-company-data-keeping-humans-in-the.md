@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
 - 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
 - 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
-- 2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali
+- 2026-09-01-palo-alto-unit-42-frontier-ai-now-tips-the-balance-toward-cy
 embedding_id: 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 event_name: ''
 ---
@@ -37,5 +37,5 @@ CIO Dive reported that enterprise data is increasingly leaking into shadow-AI to
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali]]
+**Related:** [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-09-01-palo-alto-unit-42-frontier-ai-now-tips-the-balance-toward-cy]]
 <!-- graph:end -->

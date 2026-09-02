@@ -6,7 +6,7 @@ date: '2026-07-28'
 source: The Next Web
 url_original: https://thenextweb.com/news/anthropic-claude-mythos-cryptographic-attacks-hawk-aes
 url_canonical: https://thenextweb.com/news/anthropic-claude-mythos-cryptographic-attacks-hawk-aes
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 44e5acc13f10cb48878fb21d45055b2c2e2a6e53612415138379f1514ec72457

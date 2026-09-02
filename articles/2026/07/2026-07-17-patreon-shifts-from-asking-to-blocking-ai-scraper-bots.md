@@ -5,7 +5,7 @@ date: '2026-07-17'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/
 url_canonical: https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-19_065029_Final-Daily-AI-News-Digest.md
 content_hash: cad379d9cb5996238081867cee8ce829f303ebd22fd5fc4fca7db9a5f55c74ce
 normalized_title_hash: 655654816ac1a704

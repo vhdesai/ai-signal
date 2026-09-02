@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: Business Insider
 url_original: https://aiweekly.co/ai-news-today
 url_canonical: https://aiweekly.co/ai-news-today
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-24_060214_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: e28cd19f6a39944fa0836d9af8d8f1e2ec2752c907105062e5892bef8d229f7e
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-23-hugging-face-has-been-fielding-m-a-interest-for-a-deal-worth
 - 2026-08-23-hugging-face-fielding-m-a-interest-at-13-billion-or-more
+- 2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b
 - 2026-08-26-nvidia-reportedly-agrees-to-acquire-hugging-face-for-12-9b
 - 2026-08-27-nvidia-nears-12-9b-acquisition-of-hugging-face
-- 2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion
 embedding_id: 2026-08-23-hugging-face-explores-a-sale-at-13b-nearly-triple-its-2023-v
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Business Insider reports Hugging Face has quietly been exploring a sale that cou
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-23-hugging-face-has-been-fielding-m-a-interest-for-a-deal-worth]] · [[2026-08-23-hugging-face-fielding-m-a-interest-at-13-billion-or-more]] · [[2026-08-26-nvidia-reportedly-agrees-to-acquire-hugging-face-for-12-9b]] · [[2026-08-27-nvidia-nears-12-9b-acquisition-of-hugging-face]] · [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion]]
+**Related:** [[2026-08-23-hugging-face-has-been-fielding-m-a-interest-for-a-deal-worth]] · [[2026-08-23-hugging-face-fielding-m-a-interest-at-13-billion-or-more]] · [[2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b]] · [[2026-08-26-nvidia-reportedly-agrees-to-acquire-hugging-face-for-12-9b]] · [[2026-08-27-nvidia-nears-12-9b-acquisition-of-hugging-face]]
 <!-- graph:end -->

@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-07-11-at-a-secret-location-in-southern-germany-the-manager-of-a-dr
 - 2026-07-11-secretive-defense-tech-factory-highlights-ai-adjacent-drone
 - 2026-07-11-for-investors-helsing-s-key-advantage-comes-from-its-role-in
+- 2026-08-30-u-s-builds-barriers-around-drones-and-robots-but-china-has-t
 - 2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already
-- 2026-07-11-helsing-s-next-innovation-sits-on-a-sunbaked-airfield-90-min
 embedding_id: 2026-07-11-but-few-believe-the-demand-for-unmanned-warfare-will-subside
 event_name: ''
 ---
@@ -33,5 +33,5 @@ But few believe the demand for unmanned warfare will subside any time soon. And 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-11-at-a-secret-location-in-southern-germany-the-manager-of-a-dr]] · [[2026-07-11-secretive-defense-tech-factory-highlights-ai-adjacent-drone]] · [[2026-07-11-for-investors-helsing-s-key-advantage-comes-from-its-role-in]] · [[2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already]] · [[2026-07-11-helsing-s-next-innovation-sits-on-a-sunbaked-airfield-90-min]]
+**Related:** [[2026-07-11-at-a-secret-location-in-southern-germany-the-manager-of-a-dr]] · [[2026-07-11-secretive-defense-tech-factory-highlights-ai-adjacent-drone]] · [[2026-07-11-for-investors-helsing-s-key-advantage-comes-from-its-role-in]] · [[2026-08-30-u-s-builds-barriers-around-drones-and-robots-but-china-has-t]] · [[2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-18-openai-president-urges-enterprises-to-hasten-ai-security-def
 - 2026-08-17-openai-s-greg-brockman-argues-the-defender-s-window-for-ai-a
 - 2026-08-17-openai-publishes-the-defender-s-window-on-automating-enterpr
-- 2026-04-02-hot-openai-s-greg-brockman-hints-at-agi-spud-model-apr-1-2-c
+- 2026-08-28-openai-leads-new-call-for-cyberdefense-of-critical-infrastru
 embedding_id: 2026-08-17-openai-president-greg-brockman-to-publish-essay-on-ai-cybers
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI president Greg Brockman is expected to publish an essay today warning of 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-17-openai-s-brockman-warns-of-ai-cybersecurity-tipping-point]] · [[2026-08-18-openai-president-urges-enterprises-to-hasten-ai-security-def]] · [[2026-08-17-openai-s-greg-brockman-argues-the-defender-s-window-for-ai-a]] · [[2026-08-17-openai-publishes-the-defender-s-window-on-automating-enterpr]] · [[2026-04-02-hot-openai-s-greg-brockman-hints-at-agi-spud-model-apr-1-2-c]]
+**Related:** [[2026-08-17-openai-s-brockman-warns-of-ai-cybersecurity-tipping-point]] · [[2026-08-18-openai-president-urges-enterprises-to-hasten-ai-security-def]] · [[2026-08-17-openai-s-greg-brockman-argues-the-defender-s-window-for-ai-a]] · [[2026-08-17-openai-publishes-the-defender-s-window-on-automating-enterpr]] · [[2026-08-28-openai-leads-new-call-for-cyberdefense-of-critical-infrastru]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-databricks-makes-ai-parse-document-generally-available-adds
 - 2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language
+- 2026-08-27-cohere-releases-parse-5-a-2-3b-vision-language-model-for-ent
 - 2026-08-03-databricks-makes-variant-generally-available-for-semi-struct
 - 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
-- 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
 embedding_id: 2026-05-15-databricks-made-its-ai-parse-document-function-generally-ava
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Databricks made its ai_parse_document function generally available by default fo
 
 **Entities:** [[Databricks]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-13-databricks-makes-ai-parse-document-generally-available-adds]] · [[2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language]] · [[2026-08-03-databricks-makes-variant-generally-available-for-semi-struct]] · [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]]
+**Related:** [[2026-05-13-databricks-makes-ai-parse-document-generally-available-adds]] · [[2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language]] · [[2026-08-27-cohere-releases-parse-5-a-2-3b-vision-language-model-for-ent]] · [[2026-08-03-databricks-makes-variant-generally-available-for-semi-struct]] · [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-07-28'
 source: Anthropic
 url_original: https://claude.com/blog/bringing-mcp-2026-07-28-to-claude
 url_canonical: https://claude.com/blog/bringing-mcp-2026-07-28-to-claude
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-29_062156_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: e7973c4d829b8af17c1585a896c8b94b100b2eecdac7fae870194db952a67a6d
@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents
-- 2026-07-11-claude-opus-4-7-is-now-generally-available
-- 2026-06-03-anthropic-maps-a-year-of-ai-enabled-cyberattacks-onto-mitre
+- 2026-08-27-anthropic-previews-model-hardware-standard-to-let-agents-ope
+- 2026-08-27-anthropic-introduces-the-model-hardware-standard-for-agent-t
 embedding_id: 2026-07-28-anthropic-ships-mcp-2026-07-28-spec-stateless-core-hardened
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic released the fifth Model Context Protocol spec, moving MCP from a stat
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents]] · [[2026-07-11-claude-opus-4-7-is-now-generally-available]] · [[2026-06-03-anthropic-maps-a-year-of-ai-enabled-cyberattacks-onto-mitre]]
+**Related:** [[2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents]] · [[2026-08-27-anthropic-previews-model-hardware-standard-to-let-agents-ope]] · [[2026-08-27-anthropic-introduces-the-model-hardware-standard-for-agent-t]]
 <!-- graph:end -->

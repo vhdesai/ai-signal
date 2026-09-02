@@ -5,7 +5,7 @@ date: '2026-06-25'
 source: CBS News
 url_original: https://www.cbsnews.com/news/apple-price-hikes-macbook-ipad-2026/
 url_canonical: https://www.cbsnews.com/news/apple-price-hikes-macbook-ipad-2026/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-27_064706_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 57646bb503122a002f87b5ad87bc0a330346bb98f1a78953c35ba285d6253df4

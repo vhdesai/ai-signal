@@ -5,7 +5,7 @@ date: '2026-07-22'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/07/22/aws-turns-security-hub-ai-multicloud-security-control-plane/
 url_canonical: https://siliconangle.com/2026/07/22/aws-turns-security-hub-ai-multicloud-security-control-plane/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-23_090927_Final-Daily-AI-News-Digest.md
 content_hash: 4c1f2fe52bdad97edfaad70102a8ed36a46ddf6c0f8f4a335b0035cfedfb91ba
 normalized_title_hash: 9a1ffa7e23f5e342
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-31-tech-mahindra-and-cisco-partner-on-ai-driven-security-servic
 - 2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform
 - 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
-- 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
+- 2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo
 embedding_id: 2026-07-22-aws-turns-security-hub-into-an-ai-and-multicloud-security-co
 event_name: ''
 ---
@@ -39,5 +39,5 @@ AWS's latest Security Hub updates reposition it as an AI-aware, multicloud secur
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-22-aws-crowdstrike-and-cerebras-push-ai-native-security-control]] · [[2026-07-31-tech-mahindra-and-cisco-partner-on-ai-driven-security-servic]] · [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]]
+**Related:** [[2026-07-22-aws-crowdstrike-and-cerebras-push-ai-native-security-control]] · [[2026-07-31-tech-mahindra-and-cisco-partner-on-ai-driven-security-servic]] · [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]] · [[2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo]]
 <!-- graph:end -->

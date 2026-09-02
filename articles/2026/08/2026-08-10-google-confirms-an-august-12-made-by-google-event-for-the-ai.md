@@ -6,7 +6,7 @@ date: '2026-08-10'
 source: Android Authority
 url_original: https://www.androidauthority.com/big-google-pixel-announcements-august-12-2026-3694960/
 url_canonical: https://www.androidauthority.com/big-google-pixel-announcements-august-12-2026-3694960/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_061444_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: fc05c81dff43fb297a7bd98ebea52a4d4e00489debee6f018a018b254c8bdbb1

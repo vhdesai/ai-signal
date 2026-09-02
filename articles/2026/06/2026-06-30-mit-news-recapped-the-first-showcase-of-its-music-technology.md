@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin
+- 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
-- 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
-- 2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil
+- 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
 embedding_id: 2026-06-30-mit-news-recapped-the-first-showcase-of-its-music-technology
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT News recapped the first showcase of its Music Technology and Computation Gra
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]] · [[2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil]]
+**Related:** [[2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]]
 <!-- graph:end -->

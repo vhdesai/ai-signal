@@ -5,7 +5,7 @@ date: '2026-07-25'
 source: GitHub
 url_original: https://github.com/meituan-longcat/LongCat-2.0
 url_canonical: https://github.com/meituan-longcat/LongCat-2.0
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-26_061151_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 2780e312c88892f4cce80a223bc4707c0a8f500ac01155e58070d65aec7ae7fe

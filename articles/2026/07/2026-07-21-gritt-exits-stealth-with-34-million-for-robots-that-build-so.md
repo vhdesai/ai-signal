@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte
 - 2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise
 - 2026-08-03-june-emerges-from-stealth-with-20-million-to-automate-enterp
-- 2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with
+- 2026-08-30-caterpillar-applies-mining-automation-lessons-to-enterprise
 embedding_id: 2026-07-21-gritt-exits-stealth-with-34-million-for-robots-that-build-so
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TechCrunch reports that Gritt exited stealth with $34 million in total funding t
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent]] · [[2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte]] · [[2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise]] · [[2026-08-03-june-emerges-from-stealth-with-20-million-to-automate-enterp]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]]
+**Related:** [[2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent]] · [[2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte]] · [[2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise]] · [[2026-08-03-june-emerges-from-stealth-with-20-million-to-automate-enterp]] · [[2026-08-30-caterpillar-applies-mining-automation-lessons-to-enterprise]]
 <!-- graph:end -->

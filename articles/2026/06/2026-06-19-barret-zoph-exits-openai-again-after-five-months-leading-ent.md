@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-22-openai-s-americas-sales-vp-resigns-after-five-months-returni
+- 2026-08-27-barret-zoph-thinking-machines-co-founder-who-left-for-openai
 - 2026-08-25-openai-s-head-of-data-centers-has-left-the-company-anthropic
+- 2026-08-27-thinking-machines-co-founder-barret-zoph-lands-at-google-aft
 - 2026-08-26-analysis-openai-s-executive-exodus-explained-brockman-reasse
-- 2026-08-11-openai-coo-brad-lightcap-departs-after-eight-years
-- 2026-08-26-techcrunch-analysis-how-do-we-explain-openai-s-executive-exo
 embedding_id: 2026-06-19-barret-zoph-exits-openai-again-after-five-months-leading-ent
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Zoph departed for the second time, five months after rejoining to head enterpris
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-22-openai-s-americas-sales-vp-resigns-after-five-months-returni]] · [[2026-08-25-openai-s-head-of-data-centers-has-left-the-company-anthropic]] · [[2026-08-26-analysis-openai-s-executive-exodus-explained-brockman-reasse]] · [[2026-08-11-openai-coo-brad-lightcap-departs-after-eight-years]] · [[2026-08-26-techcrunch-analysis-how-do-we-explain-openai-s-executive-exo]]
+**Related:** [[2026-08-22-openai-s-americas-sales-vp-resigns-after-five-months-returni]] · [[2026-08-27-barret-zoph-thinking-machines-co-founder-who-left-for-openai]] · [[2026-08-25-openai-s-head-of-data-centers-has-left-the-company-anthropic]] · [[2026-08-27-thinking-machines-co-founder-barret-zoph-lands-at-google-aft]] · [[2026-08-26-analysis-openai-s-executive-exodus-explained-brockman-reasse]]
 <!-- graph:end -->

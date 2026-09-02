@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/nvidia-dominates-ai-chips-bofa-223300866.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-dominates-ai-chips-bofa-223300866.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-07_061807_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: eebbe7468d849ee0ee6f159819f9caf45e22f9e7a5c5cc3600f50e6b78072a8a

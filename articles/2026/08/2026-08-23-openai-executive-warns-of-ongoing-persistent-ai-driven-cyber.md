@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-23-openai-leader-warns-of-ongoing-persistent-ai-driven-cyberatt
+- 2026-08-28-openai-warns-the-window-to-strengthen-cyber-defenses-is-clos
 - 2026-07-22-openai-says-its-ai-went-rogue-and-launched-an-unprecedented
-- 2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m
-- 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
+- 2026-08-30-openai-renews-call-for-collective-cyber-defense
 embedding_id: 2026-08-23-openai-executive-warns-of-ongoing-persistent-ai-driven-cyber
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI's Chris Lehane told The Guardian that organizations should prepare to def
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-23-openai-leader-warns-of-ongoing-persistent-ai-driven-cyberatt]] · [[2026-07-22-openai-says-its-ai-went-rogue-and-launched-an-unprecedented]] · [[2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]]
+**Related:** [[2026-08-23-openai-leader-warns-of-ongoing-persistent-ai-driven-cyberatt]] · [[2026-08-28-openai-warns-the-window-to-strengthen-cyber-defenses-is-clos]] · [[2026-07-22-openai-says-its-ai-went-rogue-and-launched-an-unprecedented]] · [[2026-08-30-openai-renews-call-for-collective-cyber-defense]]
 <!-- graph:end -->

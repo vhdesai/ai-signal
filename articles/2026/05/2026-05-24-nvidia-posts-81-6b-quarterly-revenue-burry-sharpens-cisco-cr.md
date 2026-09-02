@@ -5,7 +5,7 @@ date: '2026-05-24'
 source: Yahoo Finance / TechCrunch
 url_original: https://investors.cerebras.ai/
 url_canonical: https://investors.cerebras.ai/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 01c480bfad407519c28c922d81a56346193f9a32373892cd2c9f8908ef7932ee
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-to-108b-as-ai-cape
 - 2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi
+- 2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value
 - 2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt
 - 2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-to-108b-shares-sli
-- 2026-08-26-nvidia-posts-record-96-2b-quarter-and-forecasts-70-revenue-g
 embedding_id: 2026-05-24-nvidia-posts-81-6b-quarterly-revenue-burry-sharpens-cisco-cr
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia reported $81.6B in quarterly revenue (up 85% YoY), with the data center s
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-to-108b-as-ai-cape]] · [[2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi]] · [[2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt]] · [[2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-to-108b-shares-sli]] · [[2026-08-26-nvidia-posts-record-96-2b-quarter-and-forecasts-70-revenue-g]]
+**Related:** [[2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-to-108b-as-ai-cape]] · [[2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi]] · [[2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value]] · [[2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt]] · [[2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-to-108b-shares-sli]]
 <!-- graph:end -->

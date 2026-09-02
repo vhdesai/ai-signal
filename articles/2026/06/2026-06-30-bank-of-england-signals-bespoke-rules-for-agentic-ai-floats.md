@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-06-30/agentic-ai-may-require-regulatory-reform-boes-breeden-says
 url_canonical: https://money.usnews.com/investing/news/articles/2026-06-30/agentic-ai-may-require-regulatory-reform-boes-breeden-says
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-01_062608_Inbox_Daily AI News Digest - July 1,
   2026.md
 content_hash: 288eae6e008608ccfeab22693e04a40599b3dda25a52fa09d5383af8e5651d27

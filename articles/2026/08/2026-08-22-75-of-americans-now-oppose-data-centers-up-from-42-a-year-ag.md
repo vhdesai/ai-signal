@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=America+hates+data+centers+polling
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=America+hates+data+centers+polling
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-23_065923_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: 951fd39ad71f05b12f9fb282a83081af9370c0f552f8ef893b8e07acd06b0e98
@@ -21,9 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-31-trump-condemns-communities-opposing-data-centers-ahead-of-mi
+- 2026-08-29-community-opposition-blocked-or-delayed-130b-of-data-center
+- 2026-08-29-tech-backlash-roughly-130b-of-data-center-projects-blocked-o
 - 2026-08-22-the-information-reports-that-america-increasingly-dislikes-d
-- 2026-08-21-when-backing-data-centers-backfires-lawmakers-sour-on-megasi
-- 2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions
 embedding_id: 2026-08-22-75-of-americans-now-oppose-data-centers-up-from-42-a-year-ag
 event_name: ''
 ---
@@ -36,5 +37,5 @@ A full 75% of Americans now oppose data centers, up from 42% a year ago (Embold 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]] · [[2026-08-21-when-backing-data-centers-backfires-lawmakers-sour-on-megasi]] · [[2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions]]
+**Related:** [[2026-08-31-trump-condemns-communities-opposing-data-centers-ahead-of-mi]] · [[2026-08-29-community-opposition-blocked-or-delayed-130b-of-data-center]] · [[2026-08-29-tech-backlash-roughly-130b-of-data-center-projects-blocked-o]] · [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-22'
 source: ADTmag · Databricks Release Notes
 url_original: https://adtmag.com/articles/2026/07/22/oracle-adds-ai-native-development.aspx
 url_canonical: https://adtmag.com/articles/2026/07/22/oracle-adds-ai-native-development.aspx
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-24_065750_Final-Daily-AI-News-Digest.md
 content_hash: 1177fd41b2835c5f0ccc86fa610074fc3dc089cc6cb0f754c0c505226cd89da2
 normalized_title_hash: d97b121e897db265

@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: CRN · Amazon / AWS
 url_original: https://www.crn.com/news/ai/2026/amazon-q2-earnings-aws-ai-demand-outpaces-capacity-through-2027-jassy-says
 url_canonical: https://www.crn.com/news/ai/2026/amazon-q2-earnings-aws-ai-demand-outpaces-capacity-through-2027-jassy-says
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-31_061058_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: 12108aba8d78f7e4a0cb57084f346696bde3018b21865199e2a29b5dc0c584fe

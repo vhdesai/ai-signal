@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: OnMSFT
 url_original: https://onmsft.com/news/nvidia-denies-rubin-ultra-delay-rumors-says-chip-roadmap-remains-on-track/
 url_canonical: https://onmsft.com/news/nvidia-denies-rubin-ultra-delay-rumors-says-chip-roadmap-remains-on-track/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-09_061826_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: b7c1280209107e8271d46669965c86754c590e2a5a982baa56202082ae43599d

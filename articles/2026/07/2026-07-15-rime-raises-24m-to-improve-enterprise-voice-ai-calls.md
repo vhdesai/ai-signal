@@ -5,7 +5,7 @@ date: '2026-07-15'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/
 url_canonical: https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-15_082850_Final-Daily-AI-News-Digest.md
 content_hash: 6813267e3c6353050f2dfce489e131ece02eb3d1e03c1eabd658c3cb9ae093e9
 normalized_title_hash: ce73d99feadf1936

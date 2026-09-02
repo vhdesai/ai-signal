@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu
 - 2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion
 - 2026-07-27-softbank-s-40b-bridge-loan-for-openai-stake-adds-21-new-lend
+- 2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered
 - 2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it
-- 2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta
 embedding_id: 2026-04-01-openai-has-officially-closed-the-largest-private-financing-d
 event_name: ''
 ---
@@ -42,5 +42,5 @@ OpenAI has officially closed the largest private financing deal in Silicon Valle
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu]] · [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-07-27-softbank-s-40b-bridge-loan-for-openai-stake-adds-21-new-lend]] · [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]] · [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta]]
+**Related:** [[2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu]] · [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-07-27-softbank-s-40b-bridge-loan-for-openai-stake-adds-21-new-lend]] · [[2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered]] · [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]]
 <!-- graph:end -->

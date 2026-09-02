@@ -5,7 +5,7 @@ date: '2026-06-15'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=broadcom+ai+chips+demand
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=broadcom+ai+chips+demand
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-15_073619_Final-Daily-AI-News-Digest.md
 content_hash: 46b49643e3da9b821a72f98b8eaea4f949883b2e18b480fce4a7f95e88bf7858
 normalized_title_hash: d8453b75348620a1

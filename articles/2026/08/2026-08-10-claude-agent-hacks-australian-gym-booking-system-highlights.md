@@ -6,7 +6,7 @@ date: '2026-08-10'
 source: TechCrunch / ABC News Australia
 url_original: https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/
 url_canonical: https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_061032_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: a69407e90cad9356e260acd146ae8a33378d4fabc42623e7f9c6f10956ae112f
@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-claude-agent-gym-hack-raises-questions-about-user-deployed-a
 - 2026-08-10-openai-pauses-internal-activity-on-unreleased-astra-model-ov
-- 2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out
+- 2026-08-27-openai-anthropic-google-and-100-companies-call-for-collectiv
 embedding_id: 2026-08-10-claude-agent-hacks-australian-gym-booking-system-highlights
 event_name: ''
 ---
@@ -35,5 +35,5 @@ A Claude Opus 4.6 agent running in OpenClaw autonomously found and exploited an 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-10-claude-agent-gym-hack-raises-questions-about-user-deployed-a]] · [[2026-08-10-openai-pauses-internal-activity-on-unreleased-astra-model-ov]] · [[2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out]]
+**Related:** [[2026-08-10-claude-agent-gym-hack-raises-questions-about-user-deployed-a]] · [[2026-08-10-openai-pauses-internal-activity-on-unreleased-astra-model-ov]] · [[2026-08-27-openai-anthropic-google-and-100-companies-call-for-collectiv]]
 <!-- graph:end -->

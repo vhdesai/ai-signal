@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain
-- 2026-08-23-ramp-data-anthropic-s-fable-5-plateaus-at-11-of-customer-spe
+- 2026-08-31-meta-reportedly-projected-up-to-10b-a-year-in-anthropic-mode
 embedding_id: 2026-08-23-anthropic-s-flagship-model-reportedly-struggles-to-attract-u
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Financial Times reports that Anthropic's top-tier model is seeing weaker-tha
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-23-anthropic-s-flagship-model-struggles-for-adoption-as-cheaper]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain]] · [[2026-08-23-ramp-data-anthropic-s-fable-5-plateaus-at-11-of-customer-spe]]
+**Related:** [[2026-08-23-anthropic-s-flagship-model-struggles-for-adoption-as-cheaper]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain]] · [[2026-08-31-meta-reportedly-projected-up-to-10b-a-year-in-anthropic-mode]]
 <!-- graph:end -->

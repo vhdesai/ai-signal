@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: Google
 url_original: https://arxiv.org/abs/2608.19880
 url_canonical: https://arxiv.org/abs/2608.19880
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: a77ba8446889fadd69253bb6a1c62fb217cbc4d894691f19d06a97153bdf81d7
@@ -23,9 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-21-envharness-reshaping-static-environments-for-agent-learning
-- 2026-08-21-deepseek-harness-highlights-the-agent-runtime-as-a-product-c
-- 2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and
-- 2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne
+- 2026-08-30-google-ai-introduces-envharness-turning-static-agent-benchma
+- 2026-08-30-envharness-turns-static-agent-training-environments-into-ada
+- 2026-08-30-google-s-envharness-turns-static-agent-benchmarks-into-adapt
+- 2026-08-30-google-researchers-introduce-envharness-for-adaptive-agent-t
 embedding_id: 2026-08-20-google-introduces-envharness-reshaping-static-training-world
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Google researchers propose Environment Harness (EnvHarness), a programmable laye
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-21-envharness-reshaping-static-environments-for-agent-learning]] · [[2026-08-21-deepseek-harness-highlights-the-agent-runtime-as-a-product-c]] · [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and]] · [[2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne]]
+**Related:** [[2026-08-21-envharness-reshaping-static-environments-for-agent-learning]] · [[2026-08-30-google-ai-introduces-envharness-turning-static-agent-benchma]] · [[2026-08-30-envharness-turns-static-agent-training-environments-into-ada]] · [[2026-08-30-google-s-envharness-turns-static-agent-benchmarks-into-adapt]] · [[2026-08-30-google-researchers-introduce-envharness-for-adaptive-agent-t]]
 <!-- graph:end -->

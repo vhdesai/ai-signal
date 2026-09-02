@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-19-nonprofit-current-ai-races-to-build-an-open-world-wide-web-o
 - 2026-07-22-openai-s-planned-ai-infrastructure-spending-rises-to-750-bil
 - 2026-07-22-openai-s-ai-spending-commitments-approach-750b
-- 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
+- 2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie
 embedding_id: 2026-07-19-current-ai-races-to-build-public-interest-ai-infrastructure
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch profiles Current AI, a nonprofit building open public AI infrastructu
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-19-nonprofit-current-ai-races-to-build-an-open-world-wide-web-o]] · [[2026-07-22-openai-s-planned-ai-infrastructure-spending-rises-to-750-bil]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]]
+**Related:** [[2026-07-19-nonprofit-current-ai-races-to-build-an-open-world-wide-web-o]] · [[2026-07-22-openai-s-planned-ai-infrastructure-spending-rises-to-750-bil]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]] · [[2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie]]
 <!-- graph:end -->

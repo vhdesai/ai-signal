@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-20-one-in-five-enterprises-cannot-stop-a-runaway-ai-agent-s-spe
 - 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
+- 2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono
 - 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
 - 2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain
-- 2026-08-20-one-in-five-enterprises-cannot-halt-a-runaway-ai-agent-s-spe
 embedding_id: 2026-05-21-resolve-ai-ships-multi-agent-production-incident-investigati
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Resolve AI launched a multi-agent investigation system that dispatches coordinat
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-20-one-in-five-enterprises-cannot-stop-a-runaway-ai-agent-s-spe]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain]] · [[2026-08-20-one-in-five-enterprises-cannot-halt-a-runaway-ai-agent-s-spe]]
+**Related:** [[2026-08-20-one-in-five-enterprises-cannot-stop-a-runaway-ai-agent-s-spe]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain]]
 <!-- graph:end -->

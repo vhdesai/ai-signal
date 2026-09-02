@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/
 url_canonical: https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_065417_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: e7ee5f2c8bac6bdd28dd96c93da8d1c27d97759f590f0e0d504a5098c3ccc0b3
@@ -20,7 +20,7 @@ themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-26-amazon-triples-its-nvidia-gpu-commitment-2-million-chips-thr
+canonical_article_id: 2026-08-26-amazon-triples-its-nvidia-chip-order-over-surging-demand
 related_article_ids: []
 embedding_id: 2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through
 event_name: ''
@@ -35,5 +35,5 @@ Announced on earnings call. ~2M Blackwell Ultra, Rubin, and Rubin Ultra GPUs for
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Canonical:** [[2026-08-26-amazon-triples-its-nvidia-gpu-commitment-2-million-chips-thr]]
+**Canonical:** [[2026-08-26-amazon-triples-its-nvidia-chip-order-over-surging-demand]]
 <!-- graph:end -->

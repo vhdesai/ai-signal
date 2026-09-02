@@ -5,7 +5,7 @@ date: '2026-08-14'
 source: Reuters
 url_original: https://www.usnews.com/news/top-news/articles/2026-08-14/exclusive-anthropic-ipo-valuation-hinges-on-190-200-billion-2028-revenue-forecast-sources-say
 url_canonical: https://www.usnews.com/news/top-news/articles/2026-08-14/exclusive-anthropic-ipo-valuation-hinges-on-190-200-billion-2028-revenue-forecast-sources-say
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-15_065044_Final-Daily-AI-News-Digest.md
 content_hash: 6c9026f5ce025df9ecfdbc5d683b5b3f28dfa05e1e558a41b2ba1095e15a6ed0
 normalized_title_hash: 8f4ae074f2766389

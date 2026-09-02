@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/energy/articles/amazon-behind-massive-private-gas-210211828.html
 url_canonical: https://finance.yahoo.com/energy/articles/amazon-behind-massive-private-gas-210211828.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-09_060558_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 30e745659228feb353bdc86970bb391beb7fe5d6034659f537fca133686553e6

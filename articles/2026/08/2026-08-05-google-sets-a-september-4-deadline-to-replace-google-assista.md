@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: Engadget
 url_original: https://www.engadget.com/2230792/google-assistant-shut-down-android-devices-in-september/
 url_canonical: https://www.engadget.com/2230792/google-assistant-shut-down-android-devices-in-september/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: d4909f1e2905ff8a3a2634edd1984624674e1092044b687846902a3ca92f299e

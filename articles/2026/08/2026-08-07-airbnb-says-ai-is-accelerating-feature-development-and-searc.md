@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/
 url_canonical: https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-09_060525_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 7f6295ee9d2ef9b6a7ba5c6de495cd10b956e36cf62a4025484ba32d2e6467cc
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-07-airbnb-ai-cut-feature-launch-time-60-now-writes-60-of-code
 - 2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab
 - 2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a
-- 2026-08-19-techcrunch-analysis-ai-was-supposed-to-win-people-over-by-no
-- 2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a
+- 2026-08-27-google-ai-mode-adds-flight-tracking-and-in-chat-hotel-bookin
+- 2026-08-27-google-s-ai-mode-adds-flight-price-tracking-and-hotel-bookin
 embedding_id: 2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Airbnb CEO Brian Chesky said AI helped reduce the time from concept to shipped f
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-airbnb-ai-cut-feature-launch-time-60-now-writes-60-of-code]] · [[2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab]] · [[2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a]] · [[2026-08-19-techcrunch-analysis-ai-was-supposed-to-win-people-over-by-no]] · [[2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a]]
+**Related:** [[2026-08-07-airbnb-ai-cut-feature-launch-time-60-now-writes-60-of-code]] · [[2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab]] · [[2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a]] · [[2026-08-27-google-ai-mode-adds-flight-tracking-and-in-chat-hotel-bookin]] · [[2026-08-27-google-s-ai-mode-adds-flight-price-tracking-and-hotel-bookin]]
 <!-- graph:end -->

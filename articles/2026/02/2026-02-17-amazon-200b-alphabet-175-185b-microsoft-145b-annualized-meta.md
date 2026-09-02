@@ -30,8 +30,8 @@ related_article_ids:
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
 - 2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test
+- 2026-08-31-big-tech-booked-more-than-160b-in-paper-gains-from-ai-stakes
 - 2026-04-02-before-the-iran-conflict-escalated-microsoft-amazon-alphabet
-- 2026-07-22-alphabet-beats-on-revenue-and-82-cloud-growth-but-205b-capex
 embedding_id: 2026-02-17-amazon-200b-alphabet-175-185b-microsoft-145b-annualized-meta
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Meta and NVIDIA confirmed a multi-year, multi-generational deal spanning million
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test]] · [[2026-04-02-before-the-iran-conflict-escalated-microsoft-amazon-alphabet]] · [[2026-07-22-alphabet-beats-on-revenue-and-82-cloud-growth-but-205b-capex]]
+**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test]] · [[2026-08-31-big-tech-booked-more-than-160b-in-paper-gains-from-ai-stakes]] · [[2026-04-02-before-the-iran-conflict-escalated-microsoft-amazon-alphabet]]
 <!-- graph:end -->

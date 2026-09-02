@@ -3,14 +3,14 @@ article_id: 2026-08-26-amazon-triples-its-nvidia-gpu-commitment-adding-2-million
 title: Amazon Triples Its Nvidia GPU Commitment, Adding 2 Million Chips Through 2028
 date: '2026-08-26'
 source: TechCrunch
-url_original: https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/
-url_canonical: https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/
-url_status: found
-digest_source: digests\raw\2026-08-27_065423_Inbox_Daily AI News Digest - August 27,
-  2026.md
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-08-27_084528_Inbox_Fw Daily AI News Digest – August
+  27, 2026.md
 content_hash: 93c790140191e5a4ff11b097e6828fa3bcf0f3ba8200eff2cc148024ae70218f
 normalized_title_hash: f0c420b6f19387c2
-canonical_url_hash: d949d26fe8757800
+canonical_url_hash: ''
 tags:
 - Hot
 entities:
@@ -18,10 +18,13 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-26-amazon-triples-its-nvidia-gpu-commitment-2-million-chips-thr
-related_article_ids: []
+canonical_article_id: 2026-08-26-amazon-triples-its-nvidia-chip-order-over-surging-demand
+related_article_ids:
+- 2026-08-26-aws-and-nvidia-to-deploy-two-million-additional-gpus-across
 embedding_id: 2026-08-26-amazon-triples-its-nvidia-gpu-commitment-adding-2-million-ch
 event_name: ''
 ---
@@ -34,6 +37,7 @@ Announced on Nvidia’s earnings call, the expanded partnership adds ~2 million 
 ## Connections
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
-**Canonical:** [[2026-08-26-amazon-triples-its-nvidia-gpu-commitment-2-million-chips-thr]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Canonical:** [[2026-08-26-amazon-triples-its-nvidia-chip-order-over-surging-demand]]
+**Related:** [[2026-08-26-aws-and-nvidia-to-deploy-two-million-additional-gpus-across]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: MIT News
 url_original: https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626
 url_canonical: https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-27_064706_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: e466fcf0cc70042303cb9e4dacbb00e76b2663d8692256a81d1a34199b83cc01

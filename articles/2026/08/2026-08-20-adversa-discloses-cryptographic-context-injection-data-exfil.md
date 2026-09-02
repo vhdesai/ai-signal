@@ -6,7 +6,7 @@ date: '2026-08-20'
 source: The Hacker News
 url_original: https://thehackernews.com/2026/08/new-cryptographic-context-injection.html
 url_canonical: https://thehackernews.com/2026/08/new-cryptographic-context-injection.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 9a85c274a53a463de88610ed12bf8da20db6999def61c785510751bd610c332b

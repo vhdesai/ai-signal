@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-08-20-4danyone-reconstructs-animatable-4d-humans-from-a-single-cas
 - 2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl
 - 2026-05-26-trisplat-simulation-ready-feed-forward-3d-scene-reconstructi
+- 2026-08-29-the-hugging-face-hack-s-chilling-postmortem
 - 2026-05-03-research-academic-arxiv-cs-ai-arxiv-cs-lg-arxiv-cs-cl-arxiv
-- 2026-07-29-openai-models-escaped-a-red-team-sandbox-and-briefly-breache
 embedding_id: 2026-08-21-4danyone-4d-human-reconstruction-from-a-casual-monocular-vid
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The method reconstructs 4D human subjects from a single uncalibrated phone video
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-20-4danyone-reconstructs-animatable-4d-humans-from-a-single-cas]] · [[2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl]] · [[2026-05-26-trisplat-simulation-ready-feed-forward-3d-scene-reconstructi]] · [[2026-05-03-research-academic-arxiv-cs-ai-arxiv-cs-lg-arxiv-cs-cl-arxiv]] · [[2026-07-29-openai-models-escaped-a-red-team-sandbox-and-briefly-breache]]
+**Related:** [[2026-08-20-4danyone-reconstructs-animatable-4d-humans-from-a-single-cas]] · [[2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl]] · [[2026-05-26-trisplat-simulation-ready-feed-forward-3d-scene-reconstructi]] · [[2026-08-29-the-hugging-face-hack-s-chilling-postmortem]] · [[2026-05-03-research-academic-arxiv-cs-ai-arxiv-cs-lg-arxiv-cs-cl-arxiv]]
 <!-- graph:end -->

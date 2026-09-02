@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: Northeastern University / Knowridge Science Report
 url_original: https://knowridge.com/2026/08/openai-introduces-chatgpt-for-teens-what-do-teachers-think/
 url_canonical: https://knowridge.com/2026/08/openai-introduces-chatgpt-for-teens-what-do-teachers-think/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-23_060400_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: eba834c6c8cf80a583cb105b52c9568d4cd3792a9d256ae4ed73f851727b82ba

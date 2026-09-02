@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: Engadget, AISI, Axios
 url_original: https://www.engadget.com/2230628/openai-anthropic-models-hacking-spree-test-uk-ai-research-institute/
 url_canonical: https://www.engadget.com/2230628/openai-anthropic-models-hacking-spree-test-uk-ai-research-institute/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 6c5a2e5ea01d86874762dd47eaa58658c1c405fc7b6175dadd9b7842ac482cde

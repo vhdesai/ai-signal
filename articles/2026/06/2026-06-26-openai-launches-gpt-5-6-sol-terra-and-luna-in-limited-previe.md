@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: MacRumors
 url_original: https://www.macrumors.com/2026/06/26/openai-gpt-5-6-sol/
 url_canonical: https://www.macrumors.com/2026/06/26/openai-gpt-5-6-sol/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-27_091929_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 69f242ae7bdebf7e881f65cc59e5725234be727e0113e95924744f55fa798699

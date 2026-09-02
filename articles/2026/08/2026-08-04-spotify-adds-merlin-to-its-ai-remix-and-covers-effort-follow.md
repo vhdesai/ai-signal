@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/
 url_canonical: https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-05_061956_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 82cb6810b44b13daa3675e62f959109976468f881fbefcb751fff58c5b642047
@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal
 - 2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and
 - 2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera
+- 2026-08-29-record-labels-fight-over-ai-music-as-copyright-battle-intens
 embedding_id: 2026-08-04-spotify-adds-merlin-to-its-ai-remix-and-covers-effort-follow
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Merlin, which represents more than 30,000 independent labels and distributors, h
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re]] · [[2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal]] · [[2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and]] · [[2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera]]
+**Related:** [[2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re]] · [[2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal]] · [[2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and]] · [[2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera]] · [[2026-08-29-record-labels-fight-over-ai-music-as-copyright-battle-intens]]
 <!-- graph:end -->

@@ -1,0 +1,17 @@
+{
+  "run_id": "20260902T062026+0000-4bda25",
+  "started_at": "2026-09-02T06:20:26+00:00",
+  "finished_at": "2026-09-02T06:25:08+00:00",
+  "summary": {
+    "command": "index",
+    "result": {
+      "articles_indexed": 7671,
+      "embeddings": {
+        "enabled": true,
+        "added": 1,
+        "total": 7671,
+        "md_rewritten": 7671
+      }
+    }
+  }
+}

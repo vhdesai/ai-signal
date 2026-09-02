@@ -5,7 +5,7 @@ date: '2026-07-17'
 source: VentureBeat**
 url_original: https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do
 url_canonical: https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-18_065018_Final-Daily-AI-News-Digest.md
 content_hash: 0c0a24518b882f58a6c210daa01bed0a5edc26c386f78728c26655d5b8452812
 normalized_title_hash: 2c4fafb1f059a1f5
@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono
 - 2026-08-06-openai-launches-codex-security-in-research-preview
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 - 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
 - 2026-08-20-serval-debuts-catalyst-a-roving-agent-that-fixes-it-issues-p
-- 2026-05-14-raindrop-releases-workshop-open-source-local-ai-agent-debugg
 embedding_id: 2026-07-17-capital-one-open-sources-vulnhunter-an-agentic-tool-that-fin
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Capital One released VulnHunter as open source — an agentic AI security tool t
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-openai-launches-codex-security-in-research-preview]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-08-20-serval-debuts-catalyst-a-roving-agent-that-fixes-it-issues-p]] · [[2026-05-14-raindrop-releases-workshop-open-source-local-ai-agent-debugg]]
+**Related:** [[2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono]] · [[2026-08-06-openai-launches-codex-security-in-research-preview]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-08-20-serval-debuts-catalyst-a-roving-agent-that-fixes-it-issues-p]]
 <!-- graph:end -->

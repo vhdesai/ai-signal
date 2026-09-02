@@ -6,7 +6,7 @@ date: '2026-07-09'
 source: 24/7 Wall St.
 url_original: https://www.aol.com/finance/down-40-coreweave-being-left-163728398.html
 url_canonical: https://www.aol.com/finance/down-40-coreweave-being-left-163728398.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-10_062836_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 07de3b496772d879b798a23c91111cfa2b2ea1d7ff3a41d13805cc3c81f594f1

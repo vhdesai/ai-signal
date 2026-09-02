@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: TechCrunch · Meta
 url_original: https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/
 url_canonical: https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-31_061058_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: 0c03cb1533e426f30d04104cfc2dc433d7b11eeb2c91109fa9a1c4f98f1ecb3a

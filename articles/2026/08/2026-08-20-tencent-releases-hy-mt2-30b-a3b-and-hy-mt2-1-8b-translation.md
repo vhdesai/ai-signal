@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: Capital & Compute
 url_original: https://capitalandcompute.net/blog/new-ai-models-august-2026/
 url_canonical: https://capitalandcompute.net/blog/new-ai-models-august-2026/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: c866cdb669bbee82755ba1efddf8f729ff5c786c4d4946cd8435a64d0e4c84a0
@@ -24,8 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for
 - 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe
+- 2026-08-28-tencent-open-sources-hy4-preview-770b-parameters-49b-active
 - 2026-07-06-tencent-s-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-s
-- 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
+- 2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod
 embedding_id: 2026-08-20-tencent-releases-hy-mt2-30b-a3b-and-hy-mt2-1-8b-translation
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Tencent shipped two new machine-translation models: the flagship Hy-MT2-30B-A3B,
 
 **Entities:** [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe]] · [[2026-07-06-tencent-s-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-s]] · [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]]
+**Related:** [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe]] · [[2026-08-28-tencent-open-sources-hy4-preview-770b-parameters-49b-active]] · [[2026-07-06-tencent-s-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-s]] · [[2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod]]
 <!-- graph:end -->

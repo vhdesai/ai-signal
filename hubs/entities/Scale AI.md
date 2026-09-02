@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Scale AI
-member_count: 37
+member_count: 41
 ---
 
 # Scale AI
 
-> Auto-generated entity hub. 37 connected article(s).
+> Auto-generated entity hub. 41 connected article(s).
 
+- `2026-08-31` [[2026-08-31-nvidia-invests-3-5-billion-in-mediatek-and-deepens-its-ai-in|Nvidia invests $3.5 billion in MediaTek and deepens its AI infrastructure partnership]]
+- `2026-08-31` [[2026-08-31-nvidia-invests-3-5b-in-mediatek-deepens-ai-infrastructure-pa|Nvidia Invests $3.5B in MediaTek, Deepens AI Infrastructure Partnership]]
+- `2026-08-31` [[2026-08-31-nvidia-invests-3-5b-in-mediatek-convertible-bonds-deepens-ai|Nvidia Invests $3.5B in MediaTek Convertible Bonds, Deepens AI Infrastructure Partnership]]
+- `2026-08-31` [[2026-08-31-nvidia-and-mediatek-deepen-partnership-across-ai-infrastruct|NVIDIA and MediaTek deepen partnership across AI infrastructure, local AI, and automotive]]
 - `2026-08-24` [[2026-08-24-lancium-partners-with-nvidia-on-gigawatt-scale-ai-factories|Lancium Partners With Nvidia on Gigawatt-Scale AI Factories Across a 15+ GW Portfolio]]
 - `2026-08-16` [[2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru|Open-weight AI is unlikely to reduce demand for AI infrastructure suppliers]]
 - `2026-08-11` [[2026-08-11-ibm-and-together-ai-sign-240m-multi-year-nvidia-powered-infe|IBM and Together AI Sign $240M Multi-Year Nvidia-Powered Inference Deal]]

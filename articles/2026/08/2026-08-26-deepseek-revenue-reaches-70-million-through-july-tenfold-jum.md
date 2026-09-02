@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek+revenue+70+million+2026
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek+revenue+70+million+2026
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-26_065740_Final-Daily-AI-News-Digest.md
 content_hash: 68ff94b5d2dd43bd67ca36b54ca543790cc586deb0a285e542987ca107b3ed98
 normalized_title_hash: 272ab8ab1dd4114e

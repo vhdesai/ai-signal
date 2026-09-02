@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
 - 2026-07-31-simple-answer-to-ai-job-loss-tax-capital-not-labor
 - 2026-07-31-wsj-argues-ai-job-loss-policy-should-tax-capital-not-labor
+- 2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po
 - 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
-- 2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a
 embedding_id: 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Fresh policy coverage highlights rising public opposition to AI-driven job disru
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-07-31-simple-answer-to-ai-job-loss-tax-capital-not-labor]] · [[2026-07-31-wsj-argues-ai-job-loss-policy-should-tax-capital-not-labor]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a]]
+**Related:** [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-07-31-simple-answer-to-ai-job-loss-tax-capital-not-labor]] · [[2026-07-31-wsj-argues-ai-job-loss-policy-should-tax-capital-not-labor]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]]
 <!-- graph:end -->

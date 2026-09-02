@@ -6,7 +6,7 @@ date: '2026-08-25'
 source: Digital Trends
 url_original: https://www.digitaltrends.com/computing/openai-says-its-jalapeno-ai-chip-delivers-faster-responses-than-rivals-like-nvidia/
 url_canonical: https://www.digitaltrends.com/computing/openai-says-its-jalapeno-ai-chip-delivers-faster-responses-than-rivals-like-nvidia/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-26_111101_Final-Daily-AI-News-Digest.md
 content_hash: 5311b93a03b6582a64d5409e309d905a6953a09d36b99b939ad0caf45f3f0f7d
 normalized_title_hash: c30ca4b8d7e55f55

@@ -6,7 +6,7 @@ date: '2026-07-02'
 source: Variety
 url_original: https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/
 url_canonical: https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-04_061951_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 9105ff84bad501b16f518ab243422886d980611fba70997fb0fb0b03fb8808b7
@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-04-midjourney-moves-to-force-disney-universal-and-warner-bros-t
 - 2026-07-05-in-the-copyright-suit-brought-by-disney-universal-and-warner
 - 2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou
-- 2026-08-23-training-ai-on-copyrighted-books-remains-legally-unsettled
-- 2026-08-14-anthropic-s-book-scanning-training-method-ruled-fair-use-but
+- 2026-08-31-google-approaches-disney-universal-and-warner-bros-discovery
+- 2026-08-31-google-quietly-courts-hollywood-studios-for-ai-training-and
 embedding_id: 2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Midjourney has asked the federal judge overseeing the studios' copyright suit to
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-04-midjourney-moves-to-force-disney-universal-and-warner-bros-t]] · [[2026-07-05-in-the-copyright-suit-brought-by-disney-universal-and-warner]] · [[2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou]] · [[2026-08-23-training-ai-on-copyrighted-books-remains-legally-unsettled]] · [[2026-08-14-anthropic-s-book-scanning-training-method-ruled-fair-use-but]]
+**Related:** [[2026-07-04-midjourney-moves-to-force-disney-universal-and-warner-bros-t]] · [[2026-07-05-in-the-copyright-suit-brought-by-disney-universal-and-warner]] · [[2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou]] · [[2026-08-31-google-approaches-disney-universal-and-warner-bros-discovery]] · [[2026-08-31-google-quietly-courts-hollywood-studios-for-ai-training-and]]
 <!-- graph:end -->

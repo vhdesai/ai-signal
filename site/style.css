@@ -222,6 +222,28 @@ footer{color:var(--muted);font-size:12px;padding:32px 24px;text-align:center;bor
 a.curated-link{display:inline-flex;align-items:center;gap:6px;padding:8px 16px;background:#fff;border:1px solid var(--border);
                border-radius:8px;color:var(--brand-light);font-size:13px;font-weight:600;text-decoration:none;transition:all .15s}
 a.curated-link:hover{background:var(--brand-light);color:#fff;box-shadow:0 2px 8px rgba(26,115,232,.25)}
+
+/* ---- analysis-page CTA on article cards ---- */
+.analysis-cta{margin:10px 0 4px}
+a.analysis-link{display:inline-flex;align-items:center;gap:6px;padding:6px 12px;background:var(--brand-light);color:#fff;
+                border-radius:6px;font-size:12.5px;font-weight:600;text-decoration:none;transition:all .15s}
+a.analysis-link:hover{background:var(--brand);box-shadow:0 2px 8px rgba(13,107,94,.35)}
+
+/* ---- standalone curated-analysis page ---- */
+.analysis-page{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:32px 40px;
+               margin-bottom:32px;line-height:1.7}
+.analysis-page h1{font-size:26px;margin:0 0 8px;color:var(--brand)}
+.analysis-page h2{font-size:20px;margin-top:32px;color:var(--brand);border-bottom:2px solid var(--border);padding-bottom:6px}
+.analysis-page h3{font-size:16px;margin-top:24px;color:var(--brand-light)}
+.analysis-page table{border-collapse:collapse;width:100%;margin:14px 0;font-size:14px}
+.analysis-page th,.analysis-page td{border:1px solid var(--border);padding:8px 12px;text-align:left;vertical-align:top}
+.analysis-page th{background:#f0f7f5;color:var(--brand);font-weight:700}
+.analysis-page tr:nth-child(even) td{background:#fafcfb}
+.analysis-page blockquote{border-left:4px solid var(--brand-light);padding:4px 16px;color:var(--muted);margin:14px 0}
+.analysis-page code{background:#f3f5f7;padding:1px 6px;border-radius:4px;font-size:.9em}
+.analysis-meta{margin:0 0 20px;color:var(--muted);font-size:13px}
+.analysis-source-link{display:inline-block;margin-top:8px;color:var(--brand);text-decoration:none;font-weight:600}
+.analysis-source-link:hover{text-decoration:underline}
 .submit-link-cta{display:flex;align-items:center;gap:12px;margin-top:24px;padding:14px 20px;background:var(--card);
                  border:1px dashed var(--border);border-radius:var(--radius);font-size:13px;color:var(--muted)}
 .submit-link-cta .submit-btn{padding:6px 16px;background:var(--accent2);color:#fff;border-radius:8px;text-decoration:none;

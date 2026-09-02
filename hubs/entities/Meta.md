@@ -1,13 +1,41 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 595
+member_count: 623
 ---
 
 # Meta
 
-> Auto-generated entity hub. 595 connected article(s).
+> Auto-generated entity hub. 623 connected article(s).
 
+- `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
+- `2026-09-01` [[2026-09-01-john-ternus-becomes-apple-ceo-as-the-tim-cook-era-ends|John Ternus Becomes Apple CEO as the Tim Cook Era Ends]]
+- `2026-08-31` [[2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business|Meta’s AI agent push puts focus on new consumer business]]
+- `2026-08-31` [[2026-08-31-meta-reportedly-projected-up-to-10b-a-year-in-anthropic-mode|Meta reportedly projected up to $10B a year in Anthropic model spend]]
+- `2026-08-31` [[2026-08-31-meta-internally-projected-spending-up-to-10-billion-a-year-o|Meta internally projected spending up to $10 billion a year on Anthropic models]]
+- `2026-08-31` [[2026-08-31-meta-internally-projected-spending-up-to-10b-a-year-on-anthr|Meta Internally Projected Spending Up to $10B a Year on Anthropic's Models]]
+- `2026-08-31` [[2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo|Amazon brings OpenAI, Meta, and Anthropic models to AWS GovCloud]]
+- `2026-08-31` [[2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a|AWS broadens third-party model catalog with Anthropic, Meta and OpenAI models]]
+- `2026-08-31` [[2026-08-31-aws-broadens-bedrock-model-roster-with-anthropic-meta-and-op|AWS Broadens Bedrock Model Roster With Anthropic, Meta and OpenAI Models]]
+- `2026-08-30` [[2026-08-30-google-ai-introduces-envharness-to-turn-static-agent-benchma|Google AI introduces EnvHarness to turn static agent benchmarks into adaptive training worlds]]
+- `2026-08-29` [[2026-08-29-meta-tests-robots-inside-its-data-centers-as-tech-sector-job|Meta Tests Robots Inside Its Data Centers as Tech-Sector Job Cuts Mount]]
+- `2026-08-29` [[2026-08-29-meta-tests-robots-inside-data-centers-as-tech-job-cuts-mount|Meta Tests Robots Inside Data Centers as Tech Job Cuts Mount]]
+- `2026-08-29` [[2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta|Anthropic opens a research preview of the Model Hardware Standard for agents operating physical devices]]
+- `2026-08-28` [[2026-08-28-openai-hires-meta-s-sandhya-devanathan-to-lead-southeast-asi|OpenAI hires Meta's Sandhya Devanathan to lead Southeast Asia and Australia]]
+- `2026-08-28` [[2026-08-28-meta-executive-sandhya-devanathan-leaves-for-openai-to-overs|Meta Executive Sandhya Devanathan Leaves for OpenAI to Oversee Southeast Asia]]
+- `2026-08-28` [[2026-08-28-meta-executive-leaves-for-openai-to-oversee-southeast-asia-o|Meta Executive Leaves for OpenAI to Oversee Southeast Asia Operations]]
+- `2026-08-28` [[2026-08-28-meta-closes-smart-glasses-recording-loophole-launches-privac|Meta Closes Smart-Glasses Recording Loophole, Launches Privacy Campaign]]
+- `2026-08-28` [[2026-08-28-meta-ai-s-evoharness-rl-reportedly-boosts-agent-efficiency|Meta AI's EvoHarness-RL reportedly boosts agent efficiency]]
+- `2026-08-28` [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social|MIT AI report calls for alternative grading and more social learning]]
+- `2026-08-28` [[2026-08-28-inside-meta-s-push-to-put-robots-to-work-in-its-data-centers|Inside Meta's push to put robots to work in its data centers]]
+- `2026-08-28` [[2026-08-28-eu-ai-act-moves-from-rulebook-to-real-enforcement|EU AI Act Moves from Rulebook to Real Enforcement]]
+- `2026-08-28` [[2026-08-28-the-ai-assistant-running-my-life-bi-tech-memo-first-person-a|"The AI Assistant Running My Life" — BI Tech Memo First-Person Account]]
+- `2026-08-27` [[2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie|Running Tally of AI Systems That Have Attacked Real Companies]]
+- `2026-08-27` [[2026-08-27-openai-anthropic-google-and-100-companies-call-for-collectiv|OpenAI, Anthropic, Google, and 100+ Companies Call for Collective Defense Against Rogue AI]]
+- `2026-08-27` [[2026-08-27-meta-s-18b-settlement-hinges-on-age-verification-tech-that-d|Meta’s $18B Settlement Hinges on Age-Verification Tech That Doesn’t Work Well]]
+- `2026-08-27` [[2026-08-27-meta-s-18b-child-safety-settlement-rests-on-unproven-age-ver|Meta's $18B child-safety settlement rests on unproven age-verification technology]]
+- `2026-08-27` [[2026-08-27-meta-closes-smart-glasses-loophole-that-allowed-recording-wi|Meta Closes Smart-Glasses Loophole That Allowed Recording With the Indicator Covered]]
+- `2026-08-27` [[2026-08-27-anthropic-unveils-model-hardware-standard-for-agents-to-oper|Anthropic unveils Model Hardware Standard for agents to operate machines]]
 - `2026-08-26` [[2026-08-26-meta-s-18b-settlement-ends-one-battle-wider-legal-war-looms|Meta’s $18B Settlement Ends One Battle — Wider Legal War Looms]]
 - `2026-08-26` [[2026-08-26-meta-s-scrapped-project-ot-saw-ai-agents-take-large-scale-di|Meta's Scrapped "Project OT" Saw AI Agents Take "Large-Scale, Disruptive Actions"]]
 - `2026-08-26` [[2026-08-26-meta-reaches-18b-settlement-with-48-states-over-child-safety|Meta Reaches $18B Settlement With 48 States Over Child-Safety Claims]]

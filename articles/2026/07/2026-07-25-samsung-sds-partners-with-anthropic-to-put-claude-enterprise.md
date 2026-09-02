@@ -6,7 +6,7 @@ date: '2026-07-25'
 source: Seoul Economic Daily
 url_original: https://en.sedaily.com/technology/2026/07/25/samsung-sds-signs-ai-partnership-with-anthropic-to-develop
 url_canonical: https://en.sedaily.com/technology/2026/07/25/samsung-sds-signs-ai-partnership-with-anthropic-to-develop
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-26_061151_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 89c3fbcce46250ba19eda4cf8f176bb43d673fae0d2c4dc6dd470138cc26fca5

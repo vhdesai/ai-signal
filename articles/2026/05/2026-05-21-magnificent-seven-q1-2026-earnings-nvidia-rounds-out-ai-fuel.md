@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-21-reuters-magnificent-seven-ai-fueled-earnings-wrap-nvidia-sti
+- 2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value
 - 2026-08-26-nvidia-s-1-5-trillion-earnings-question-the-return-on-invest
 - 2026-08-25-nvidia-q2-fy27-earnings-land-today-as-the-ai-boom-s-scorecar
 - 2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r
-- 2026-08-22-goldman-sachs-assesses-when-ai-will-deliver-meaningful-earni
 embedding_id: 2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Nvidia's Q1 2026 results — released this week — completed the Magnificent Se
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-reuters-magnificent-seven-ai-fueled-earnings-wrap-nvidia-sti]] · [[2026-08-26-nvidia-s-1-5-trillion-earnings-question-the-return-on-invest]] · [[2026-08-25-nvidia-q2-fy27-earnings-land-today-as-the-ai-boom-s-scorecar]] · [[2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r]] · [[2026-08-22-goldman-sachs-assesses-when-ai-will-deliver-meaningful-earni]]
+**Related:** [[2026-05-21-reuters-magnificent-seven-ai-fueled-earnings-wrap-nvidia-sti]] · [[2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value]] · [[2026-08-26-nvidia-s-1-5-trillion-earnings-question-the-return-on-invest]] · [[2026-08-25-nvidia-q2-fy27-earnings-land-today-as-the-ai-boom-s-scorecar]] · [[2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r]]
 <!-- graph:end -->

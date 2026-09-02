@@ -5,7 +5,7 @@ date: '2026-07-19'
 source: The Next Web**
 url_original: https://thenextweb.com/news/moonshot-ai-ipo-six-months-30-billion-kimi-k3
 url_canonical: https://thenextweb.com/news/moonshot-ai-ipo-six-months-30-billion-kimi-k3
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-20_065040_Final-Daily-AI-News-Digest.md
 content_hash: fc3728e852e7e9d9d2f3d4b6755fe35fa04468c3513835019fc3d7fef207a498
 normalized_title_hash: 9b8a23c72864d586

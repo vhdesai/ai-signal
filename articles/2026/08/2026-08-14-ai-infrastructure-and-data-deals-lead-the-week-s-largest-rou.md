@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-weekly-funding-concentrates-in-data-ai-infrastructure-defens
 - 2026-08-14-weekly-capital-flows-to-physical-substrate-not-applications
+- 2026-08-28-ai-assistants-dominate-a-thinner-week-of-megadeals
+- 2026-08-28-ai-assistants-lead-a-thinner-week-of-megadeals
 - 2026-07-17-databricks-reaches-188-billion-valuation-as-ai-infrastructur
-- 2026-07-20-massive-ai-supply-deals-face-execution-risk
-- 2026-08-17-big-tech-s-3-trillion-ai-spending-is-higher-than-reported
 embedding_id: 2026-08-14-ai-infrastructure-and-data-deals-lead-the-week-s-largest-rou
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Crunchbase's weekly tally put data platforms, AI infrastructure, energy storage,
 
 **Entities:** [[Databricks]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-14-weekly-funding-concentrates-in-data-ai-infrastructure-defens]] · [[2026-08-14-weekly-capital-flows-to-physical-substrate-not-applications]] · [[2026-07-17-databricks-reaches-188-billion-valuation-as-ai-infrastructur]] · [[2026-07-20-massive-ai-supply-deals-face-execution-risk]] · [[2026-08-17-big-tech-s-3-trillion-ai-spending-is-higher-than-reported]]
+**Related:** [[2026-08-14-weekly-funding-concentrates-in-data-ai-infrastructure-defens]] · [[2026-08-14-weekly-capital-flows-to-physical-substrate-not-applications]] · [[2026-08-28-ai-assistants-dominate-a-thinner-week-of-megadeals]] · [[2026-08-28-ai-assistants-lead-a-thinner-week-of-megadeals]] · [[2026-07-17-databricks-reaches-188-billion-valuation-as-ai-infrastructur]]
 <!-- graph:end -->

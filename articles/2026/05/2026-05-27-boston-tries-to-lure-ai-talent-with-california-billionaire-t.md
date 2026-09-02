@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-20-california-draws-more-startup-investment-than-all-other-49-s
 - 2026-05-22-california-governor-gavin-newsom-ordered-state-officials-thu
+- 2026-08-29-how-tax-alpha-mania-took-over-silicon-valley
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
 - 2026-06-27-stanford-s-2026-ai-index-investment-surges-as-jobs-and-publi
-- 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 embedding_id: 2026-05-27-boston-tries-to-lure-ai-talent-with-california-billionaire-t
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Boston is actively recruiting AI founders and senior engineers in response to Ca
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-08-20-california-draws-more-startup-investment-than-all-other-49-s]] · [[2026-05-22-california-governor-gavin-newsom-ordered-state-officials-thu]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-06-27-stanford-s-2026-ai-index-investment-surges-as-jobs-and-publi]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]]
+**Related:** [[2026-08-20-california-draws-more-startup-investment-than-all-other-49-s]] · [[2026-05-22-california-governor-gavin-newsom-ordered-state-officials-thu]] · [[2026-08-29-how-tax-alpha-mania-took-over-silicon-valley]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-06-27-stanford-s-2026-ai-index-investment-surges-as-jobs-and-publi]]
 <!-- graph:end -->

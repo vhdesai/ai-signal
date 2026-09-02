@@ -6,7 +6,7 @@ date: '2026-06-30'
 source: Phys.org
 url_original: https://phys.org/news/2026-06-scientists-ai-tool-rivals-alphafold.html
 url_canonical: https://phys.org/news/2026-06-scientists-ai-tool-rivals-alphafold.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-01_062608_Inbox_Daily AI News Digest - July 1,
   2026.md
 content_hash: d6211793a0cb1899ea10d43be4622aee7263f7089a29d7db5563098981798029
@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-13-dig-bench-isolating-scientific-discovery-ability-in-llms
+- 2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
 - 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
-- 2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via
 embedding_id: 2026-06-30-virginia-tech-s-rnabpflow-matches-alphafold-3-on-rna-structu
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Two Virginia Tech computer scientists published RNAbpFlow in Nature Methods, a f
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-13-dig-bench-isolating-scientific-discovery-ability-in-llms]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via]]
+**Related:** [[2026-08-13-dig-bench-isolating-scientific-discovery-ability-in-llms]] · [[2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]]
 <!-- graph:end -->

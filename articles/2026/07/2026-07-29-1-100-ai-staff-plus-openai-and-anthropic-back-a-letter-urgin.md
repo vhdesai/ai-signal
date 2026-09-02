@@ -6,7 +6,7 @@ date: '2026-07-29'
 source: Newsmax
 url_original: https://www.newsmax.com/Newsfront/artificial-intelligence-safety/2026/07/29/id/1264412/
 url_canonical: https://www.newsmax.com/Newsfront/artificial-intelligence-safety/2026/07/29/id/1264412/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-30_060824_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 440009c92442c2cd8b0a0b73eed61699f5540520bead3ff84067c021e93b49be
@@ -28,8 +28,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools
 - 2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace
+- 2026-08-27-openai-anthropic-google-and-100-firms-call-for-action-agains
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
-- 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption
 embedding_id: 2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin
 event_name: ''
 ---
@@ -43,5 +43,5 @@ More than 1,100 current and former employees across OpenAI, Anthropic, Google De
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]]
+**Related:** [[2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-08-27-openai-anthropic-google-and-100-firms-call-for-action-agains]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]]
 <!-- graph:end -->

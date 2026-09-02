@@ -5,7 +5,7 @@ date: '2026-05-15'
 source: Cerebras IR
 url_original: https://www.usatoday.com/story/money/2026/05/19/meta-ai-layoffs-may-20/90164481007/
 url_canonical: https://www.usatoday.com/story/money/2026/05/19/meta-ai-layoffs-may-20/90164481007/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: aa2b9d1a557f5cd3e99ce1480569aecef919ad6cecc95fecb324283413461675

@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: The Economic Times
 url_original: https://datacenters.economictimes.indiatimes.com/news/construction-site-development/googles-15-billion-india-data-centre-faces-water-wildlife-protests/133020136
 url_canonical: https://datacenters.economictimes.indiatimes.com/news/construction-site-development/googles-15-billion-india-data-centre-faces-water-wildlife-protests/133020136
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-07_084748_Final-Daily-AI-News-Digest.md
 content_hash: 15488e69e765c9c79ff2167969667382486d8aec67600c4f11eb6b6c9272b618
 normalized_title_hash: b0e9ea69779c0878

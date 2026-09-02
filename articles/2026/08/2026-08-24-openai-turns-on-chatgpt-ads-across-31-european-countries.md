@@ -3,18 +3,20 @@ article_id: 2026-08-24-openai-turns-on-chatgpt-ads-across-31-european-countries
 title: OpenAI Turns On ChatGPT Ads Across 31 European Countries
 date: '2026-08-24'
 source: TechBooky
-url_original: https://www.techbooky.com/chatgpt-ads-europe-openai-media-business/
-url_canonical: https://www.techbooky.com/chatgpt-ads-europe-openai-media-business/
-url_status: found
-digest_source: digests\raw\2026-08-24_085500_Final-Daily-AI-News-Digest.md
-content_hash: bef8b292821da7c139fd9ac63b750f45d93c8a6ce893b858550320105dadd128
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-08-24_090225_Inbox_Daily AI News Digest – August 24,
+  2026.md
+content_hash: f5929e6aa956dec1dd744eb156d7f616aa4c9003f7caad365cbf90e7128aefa2
 normalized_title_hash: 762c7a48339b3e9a
-canonical_url_hash: 45a4d7f3eeeb0ca1
+canonical_url_hash: ''
 tags:
 - Launch
 entities:
 - OpenAI
 themes:
+- model-capabilities
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -26,12 +28,12 @@ event_name: ''
 
 # OpenAI Turns On ChatGPT Ads Across 31 European Countries
 
-OpenAI's advertising product began rolling out across 31 European markets including Germany, France, Spain, Italy and the Netherlands. Access is initially limited to OpenAI's Ads Solutions team, agency partners and technology partners, with self-service expected later. The move formalizes advertising as a third revenue line alongside subscriptions and API, and materially changes how ChatGPT should be assessed as a distribution channel.
+Formalizes advertising as a third revenue line alongside subscriptions and API. Self-service via Ads Manager expected later. OpenAI states ads do not influence model responses — a claim that will be tested by advertisers and regulators. TechBooky M&A
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
 **Canonical:** [[2026-08-24-chatgpt-ads-go-live-across-europe-as-openai-becomes-a-media]]
 <!-- graph:end -->

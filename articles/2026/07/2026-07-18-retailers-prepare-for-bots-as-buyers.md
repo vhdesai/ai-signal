@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
+- 2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business
 - 2026-07-25-ai-moves-into-family-life
 - 2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res
-- 2026-08-07-saas-companies-race-to-reinvent-as-ai-agents-replace-softwar
 embedding_id: 2026-07-18-retailers-prepare-for-bots-as-buyers
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Axios reports that retailers are adapting as AI bots increasingly become buyers,
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-07-25-ai-moves-into-family-life]] · [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]] · [[2026-08-07-saas-companies-race-to-reinvent-as-ai-agents-replace-softwar]]
+**Related:** [[2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business]] · [[2026-07-25-ai-moves-into-family-life]] · [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]]
 <!-- graph:end -->

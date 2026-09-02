@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d
+- 2026-08-27-nvidia-posts-record-96-2b-quarter-forecasts-70-ai-chip-growt
 - 2026-07-26-nvidia-weighs-roughly-250b-financing-backstop-for-openai-s-o
 - 2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki
 - 2026-07-26-nvidia-weighs-roughly-250b-guarantee-for-openai-s-ohio-data
-- 2026-08-15-nvidia-in-talks-to-invest-3b-in-softbank-s-sb-energy-for-ope
 embedding_id: 2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Bank of America's top semiconductor analyst Vivek Arya raised Nvidia's price tar
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d]] · [[2026-07-26-nvidia-weighs-roughly-250b-financing-backstop-for-openai-s-o]] · [[2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki]] · [[2026-07-26-nvidia-weighs-roughly-250b-guarantee-for-openai-s-ohio-data]] · [[2026-08-15-nvidia-in-talks-to-invest-3b-in-softbank-s-sb-energy-for-ope]]
+**Related:** [[2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d]] · [[2026-08-27-nvidia-posts-record-96-2b-quarter-forecasts-70-ai-chip-growt]] · [[2026-07-26-nvidia-weighs-roughly-250b-financing-backstop-for-openai-s-o]] · [[2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki]] · [[2026-07-26-nvidia-weighs-roughly-250b-guarantee-for-openai-s-ohio-data]]
 <!-- graph:end -->

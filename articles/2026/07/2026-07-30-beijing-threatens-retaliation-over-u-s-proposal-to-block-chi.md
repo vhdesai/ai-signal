@@ -21,10 +21,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-30-u-s-builds-barriers-around-drones-and-robots-but-china-has-t
 - 2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte
+- 2026-08-30-u-s-raises-barriers-on-foreign-drones-and-robots-china-s-sca
 - 2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri
-- 2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi
-- 2026-07-22-dealbook-highlights-u-s-warning-on-chinese-ai-risks
 embedding_id: 2026-07-30-beijing-threatens-retaliation-over-u-s-proposal-to-block-chi
 event_name: ''
 ---
@@ -37,5 +37,5 @@ China's Ministry of Commerce warned that the Trump administration's proposal to 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte]] · [[2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri]] · [[2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi]] · [[2026-07-22-dealbook-highlights-u-s-warning-on-chinese-ai-risks]]
+**Related:** [[2026-08-30-u-s-builds-barriers-around-drones-and-robots-but-china-has-t]] · [[2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte]] · [[2026-08-30-u-s-raises-barriers-on-foreign-drones-and-robots-china-s-sca]] · [[2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-05-18'
 source: Cornell AI Initiative
 url_original: https://ai.cornell.edu/calendar/2026-05-18/
 url_canonical: https://ai.cornell.edu/calendar/2026-05-18/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 377bdc1291e78e9be87e412b1703fccfecfcf6c6c81c143a73f9596c24fe917b
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover
 - 2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on
+- 2026-08-28-cornell-what-happened-when-we-put-ai-to-work
 - 2026-05-27-cornell-tech-hosts-inaugural-frontiers-of-ai-summit
 - 2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma
-- 2026-05-18-breaking-cornell-and-toyota-research-institute-launch-31-uni
 embedding_id: 2026-05-18-new-cornell-ai-initiative-opens-community-centered-ai-three
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A three-day Cornell convening began May 18, bringing researchers, practitioners,
 
 **Entities:** [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]] · [[2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on]] · [[2026-05-27-cornell-tech-hosts-inaugural-frontiers-of-ai-summit]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[2026-05-18-breaking-cornell-and-toyota-research-institute-launch-31-uni]]
+**Related:** [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]] · [[2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on]] · [[2026-08-28-cornell-what-happened-when-we-put-ai-to-work]] · [[2026-05-27-cornell-tech-hosts-inaugural-frontiers-of-ai-summit]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]]
 <!-- graph:end -->

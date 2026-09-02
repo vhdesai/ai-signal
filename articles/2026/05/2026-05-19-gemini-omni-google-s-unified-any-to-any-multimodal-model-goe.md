@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-wo
 - 2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-an
 - 2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video
+- 2026-08-29-google-releases-gemini-omni-1-1-flash-for-controllable-video
 - 2026-05-12-google-gemini-omni-video-model-reportedly-in-testing-ahead-o
-- 2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at
 embedding_id: 2026-05-19-gemini-omni-google-s-unified-any-to-any-multimodal-model-goe
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Gemini Omni is live today for paid Gemini subscribers. It is Google's first mode
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-wo]] · [[2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-an]] · [[2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video]] · [[2026-05-12-google-gemini-omni-video-model-reportedly-in-testing-ahead-o]] · [[2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at]]
+**Related:** [[2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-wo]] · [[2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-an]] · [[2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video]] · [[2026-08-29-google-releases-gemini-omni-1-1-flash-for-controllable-video]] · [[2026-05-12-google-gemini-omni-video-model-reportedly-in-testing-ahead-o]]
 <!-- graph:end -->

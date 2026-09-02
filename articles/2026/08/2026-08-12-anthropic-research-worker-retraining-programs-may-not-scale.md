@@ -45,9 +45,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-12-anthropic-worker-retraining-programs-may-not-scale-to-ai-dis
 - 2026-08-13-anthropic-review-finds-retraining-programs-unlikely-to-absor
+- 2026-08-28-anthropic-researcher-shows-automated-ai-can-improve-alignmen
+- 2026-08-28-anthropic-shows-automated-ai-researchers-improve-alignment-f
 - 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
-- 2026-06-02-deepmind-anthropic-and-meta-expand-research-into-machine-con
-- 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 embedding_id: 2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale
 event_name: ''
 ---
@@ -61,5 +61,5 @@ A meta-analysis of 56 randomized U.S. studies plus European evidence found typic
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-12-anthropic-worker-retraining-programs-may-not-scale-to-ai-dis]] · [[2026-08-13-anthropic-review-finds-retraining-programs-unlikely-to-absor]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]] · [[2026-06-02-deepmind-anthropic-and-meta-expand-research-into-machine-con]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]]
+**Related:** [[2026-08-12-anthropic-worker-retraining-programs-may-not-scale-to-ai-dis]] · [[2026-08-13-anthropic-review-finds-retraining-programs-unlikely-to-absor]] · [[2026-08-28-anthropic-researcher-shows-automated-ai-can-improve-alignmen]] · [[2026-08-28-anthropic-shows-automated-ai-researchers-improve-alignment-f]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]]
 <!-- graph:end -->

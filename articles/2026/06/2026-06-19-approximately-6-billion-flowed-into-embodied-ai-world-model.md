@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-29-nvidia-s-physical-ai-business-reaches-10b-run-rate-with-chin
 - 2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in
 - 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
 - 2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel
 - 2026-04-02-source-all-about-lawyer-the-neuron
-- 2026-08-24-nvidia-is-reportedly-spending-6-billion-to-build-a-u-s-alter
 embedding_id: 2026-06-19-approximately-6-billion-flowed-into-embodied-ai-world-model
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Approximately $6 billion flowed into embodied AI world-model companies in Q1 202
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-08-24-nvidia-is-reportedly-spending-6-billion-to-build-a-u-s-alter]]
+**Related:** [[2026-08-29-nvidia-s-physical-ai-business-reaches-10b-run-rate-with-chin]] · [[2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]] · [[2026-04-02-source-all-about-lawyer-the-neuron]]
 <!-- graph:end -->

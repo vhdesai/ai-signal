@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Jump%20Capital%20350%20million%20AI%20fund
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Jump%20Capital%20350%20million%20AI%20fund
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-29_060511_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 58aee6f3943415f8602e719530fbaa7e1ed8249864660ed7457907ff9a814a35

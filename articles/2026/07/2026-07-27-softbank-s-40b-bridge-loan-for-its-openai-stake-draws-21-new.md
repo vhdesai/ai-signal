@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: Bloomberg
 url_original: https://finance.yahoo.com/technology/ai/articles/softbank-40-billion-loan-openai-043037251.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/softbank-40-billion-loan-openai-043037251.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-27_061009_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: 5c28f12b81d7bd0d0dc0cf4db94d1b4cbbbf85efd800c5dc04a0f539f0dcbc92
@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-softbank-s-40b-openai-loan-draws-21-new-lenders
+- 2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake
 - 2026-07-27-softbank-s-40b-bridge-loan-for-openai-stake-adds-21-new-lend
 - 2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion
 - 2026-08-26-softbank-weighs-a-10-20b-bond-sale-to-refinance-its-openai-p
-- 2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta
 embedding_id: 2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new
 event_name: ''
 ---
@@ -38,5 +38,5 @@ SoftBank's $40 billion bridge loan financing its OpenAI investment has attracted
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-27-softbank-s-40b-openai-loan-draws-21-new-lenders]] · [[2026-07-27-softbank-s-40b-bridge-loan-for-openai-stake-adds-21-new-lend]] · [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-08-26-softbank-weighs-a-10-20b-bond-sale-to-refinance-its-openai-p]] · [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta]]
+**Related:** [[2026-07-27-softbank-s-40b-openai-loan-draws-21-new-lenders]] · [[2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake]] · [[2026-07-27-softbank-s-40b-bridge-loan-for-openai-stake-adds-21-new-lend]] · [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-08-26-softbank-weighs-a-10-20b-bond-sale-to-refinance-its-openai-p]]
 <!-- graph:end -->

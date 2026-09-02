@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 98
+member_count: 100
 ---
 
 # AMD
 
-> Auto-generated entity hub. 98 connected article(s).
+> Auto-generated entity hub. 100 connected article(s).
 
+- `2026-08-31` [[2026-08-31-humain-also-partners-with-together-ai-and-minio-on-riyadh-an|HUMAIN Also Partners With Together AI and MinIO on Riyadh and Dammam Data Centers]]
+- `2026-08-31` [[2026-08-31-eurohpc-awards-bull-a-387-8m-contract-for-the-lumi-ai-superc|EuroHPC awards Bull a €387.8M contract for the LUMI-AI supercomputer in Finland]]
 - `2026-08-26` [[2026-08-26-apple-debuts-pcs-and-chips-dedicated-to-enterprise-ai-worklo|Apple Debuts PCs and Chips Dedicated to Enterprise AI Workloads]]
 - `2026-08-26` [[2026-08-26-anthropic-signs-45b-compute-deal-with-nscale-for-vera-rubin|Anthropic Signs $45B Compute Deal with Nscale for Vera Rubin Chips]]
 - `2026-08-26` [[2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin|Anthropic Commits ~$45B to Nscale for Six Years of Vera Rubin Compute]]

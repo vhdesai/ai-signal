@@ -3,18 +3,19 @@ article_id: 2026-08-26-mit-s-crysvcd-raises-ai-generated-materials-stability-to-
 title: MIT’s CrysVCD Raises AI-Generated Materials Stability to ~70%
 date: '2026-08-26'
 source: MIT News
-url_original: https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826
-url_canonical: https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826
-url_status: found
-digest_source: digests\raw\2026-08-27_065423_Inbox_Daily AI News Digest - August 27,
-  2026.md
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-08-27_084528_Inbox_Fw Daily AI News Digest – August
+  27, 2026.md
 content_hash: 02c25dfcfcca43b9d823990a0073a8f303d2ea227732d540ffc88c3c149cfdd4
 normalized_title_hash: 8b60168daffc9ed1
-canonical_url_hash: 29facfa5780b28e7
+canonical_url_hash: ''
 tags: []
 entities: []
 themes:
-- policy-regulation
+- datacenter-infrastructure
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-mit-ai-helps-design-new-materials-that-work-in-the-real-worl
@@ -30,6 +31,6 @@ Published in Nature Computational Science, CrysVCD reverses the standard generat
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
 **Canonical:** [[2026-08-26-mit-ai-helps-design-new-materials-that-work-in-the-real-worl]]
 <!-- graph:end -->

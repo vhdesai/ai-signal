@@ -5,7 +5,7 @@ date: '2026-07-19'
 source: ABC News
 url_original: https://www.abc.net.au/news/2026-07-19/government-tighten-rules-ai-artificial-intelligence/106933212
 url_canonical: https://www.abc.net.au/news/2026-07-19/government-tighten-rules-ai-artificial-intelligence/106933212
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-20_065739_Final-Daily-AI-News-Digest.md
 content_hash: b7d265a2b8554103dd8c962d51991975faef3093eded0ba5ffbab9688ee88588
 normalized_title_hash: abbaae6bba7fcdf4

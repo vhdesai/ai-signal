@@ -5,7 +5,7 @@ date: '2026-07-03'
 source: Tech in Asia
 url_original: https://www.techinasia.com/news/sg-robotics-accelerator-cohort-sees-125m-raise-exit
 url_canonical: https://www.techinasia.com/news/sg-robotics-accelerator-cohort-sees-125m-raise-exit
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-04_062504_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: bdbc24485fb846bf8c0f9e31aa8aff2d1e61cc4f16c796a8b643f018ceae0f07

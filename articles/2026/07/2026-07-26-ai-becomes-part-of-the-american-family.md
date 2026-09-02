@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-25-ai-moves-into-family-life
+- 2026-08-29-when-the-third-parent-is-ai-business-insider-explores-ai-s-r
+- 2026-08-29-when-the-third-parent-is-ai-ai-s-growing-role-in-children-s
 - 2026-07-18-retailers-prepare-for-bots-as-buyers
 - 2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol
-- 2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one
-- 2026-08-03-this-study-is-important-because-it-examines-real-world-usage
 embedding_id: 2026-07-26-ai-becomes-part-of-the-american-family
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Axios reports on how AI assistants are becoming part of family life, from homewo
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-25-ai-moves-into-family-life]] · [[2026-07-18-retailers-prepare-for-bots-as-buyers]] · [[2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol]] · [[2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one]] · [[2026-08-03-this-study-is-important-because-it-examines-real-world-usage]]
+**Related:** [[2026-07-25-ai-moves-into-family-life]] · [[2026-08-29-when-the-third-parent-is-ai-business-insider-explores-ai-s-r]] · [[2026-08-29-when-the-third-parent-is-ai-ai-s-growing-role-in-children-s]] · [[2026-07-18-retailers-prepare-for-bots-as-buyers]] · [[2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: '[Mango Developer]'
 url_original: https://mangodeveloper.com/articles/micron-at-hot-chips-2026-the-memory-wall-is-winning-and-hbm-cant-keep-up
 url_canonical: https://mangodeveloper.com/articles/micron-at-hot-chips-2026-the-memory-wall-is-winning-and-hbm-cant-keep-up
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-25_061146_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: a8e56d7e4f40023c487faa99a0345eb6330dfe01c5a28436bff382370734f724
@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion
 - 2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th
 - 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
-- 2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand
+- 2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth
 embedding_id: 2026-08-23-micron-tells-hot-chips-2026-the-memory-wall-is-widening-not
 event_name: ''
 ---
@@ -35,5 +35,5 @@ At Hot Chips 2026, Micron laid out that accelerator compute is tripling every tw
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion]] · [[2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]]
+**Related:** [[2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion]] · [[2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-28-xai-faces-child-safety-lawsuits-over-grok-imagery-and-counte
 - 2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok
 - 2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims
 - 2026-06-11-wired-grok-is-still-hosting-sexualized-deepfakes-of-famous-w
 - 2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam
-- 2026-07-28-uk-mp-seeks-a-high-court-order-compelling-xai-to-add-permane
 embedding_id: 2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake
 event_name: ''
 ---
@@ -38,5 +38,5 @@ More than 100 campaigners and organizations are now backing a UK MP's lawsuit ag
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok]] · [[2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims]] · [[2026-06-11-wired-grok-is-still-hosting-sexualized-deepfakes-of-famous-w]] · [[2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam]] · [[2026-07-28-uk-mp-seeks-a-high-court-order-compelling-xai-to-add-permane]]
+**Related:** [[2026-08-28-xai-faces-child-safety-lawsuits-over-grok-imagery-and-counte]] · [[2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok]] · [[2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims]] · [[2026-06-11-wired-grok-is-still-hosting-sexualized-deepfakes-of-famous-w]] · [[2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam]]
 <!-- graph:end -->

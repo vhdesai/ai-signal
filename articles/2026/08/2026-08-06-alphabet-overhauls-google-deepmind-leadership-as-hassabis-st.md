@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: TechRepublic
 url_original: https://www.techrepublic.com/article/news-google-ai-leadership-hassabis-jeff-dean/
 url_canonical: https://www.techrepublic.com/article/news-google-ai-leadership-hassabis-jeff-dean/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-07_061041_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 7dd3a521107e4196c9bf7cf16b76e62dd9edc2a8e71b7bd827c0e00c4ddd8286

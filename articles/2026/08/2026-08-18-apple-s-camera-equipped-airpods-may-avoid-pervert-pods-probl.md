@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-18-apple-s-camera-equipped-airpods-surface-with-visual-intellig
 - 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
 - 2026-07-17-zoom-do-not-record-me-hack-highlights-friction-from-ai-trans
-- 2026-08-11-uk-courts-confiscate-meta-smart-glasses-over-covert-recordin
+- 2026-08-28-meta-closes-smart-glasses-recording-loophole-launches-privac
 embedding_id: 2026-08-18-apple-s-camera-equipped-airpods-may-avoid-pervert-pods-probl
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple's leaked camera-equipped AirPods reportedly won't allow users to record ph
 ## Connections
 
 **Entities:** [[Apple]] · [[Meta]]
-**Related:** [[2026-08-18-apple-s-camera-equipped-airpods-may-avoid-privacy-backlash-v]] · [[2026-08-18-apple-s-camera-equipped-airpods-surface-with-visual-intellig]] · [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]] · [[2026-07-17-zoom-do-not-record-me-hack-highlights-friction-from-ai-trans]] · [[2026-08-11-uk-courts-confiscate-meta-smart-glasses-over-covert-recordin]]
+**Related:** [[2026-08-18-apple-s-camera-equipped-airpods-may-avoid-privacy-backlash-v]] · [[2026-08-18-apple-s-camera-equipped-airpods-surface-with-visual-intellig]] · [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]] · [[2026-07-17-zoom-do-not-record-me-hack-highlights-friction-from-ai-trans]] · [[2026-08-28-meta-closes-smart-glasses-recording-loophole-launches-privac]]
 <!-- graph:end -->
