@@ -323,6 +323,40 @@ a.deals-pill:hover .deals-pill-count{color:#fff}
 .deals-more{margin-top:14px;text-align:right}
 a.deals-more-link{color:var(--brand-light);font-weight:600;font-size:13px;text-decoration:none}
 a.deals-more-link:hover{text-decoration:underline}
+
+/* ---- Investments sub-nav tabs ---- */
+.deals-hub-static{cursor:default;pointer-events:none}
+.deals-hub-static .deals-pill{pointer-events:auto}
+.investments-tabs-row{margin:12px 0 8px}
+a.deals-pill-active{background:var(--accent);color:#fff;border-color:var(--accent);font-weight:700}
+a.deals-pill-active .deals-pill-count{color:#fff}
+a.deals-pill-active:hover{background:var(--accent);color:#fff}
+.view-tabs{display:flex;gap:2px;margin:0 0 24px;padding:4px;background:var(--card);border:1px solid var(--border);
+           border-radius:10px;width:fit-content}
+a.view-tab{display:inline-flex;align-items:center;padding:8px 18px;border-radius:8px;text-decoration:none;
+           color:var(--muted);font-size:13px;font-weight:600;transition:all .15s}
+a.view-tab:hover{background:var(--bg);color:var(--brand)}
+a.view-tab-active{background:var(--brand);color:#fff}
+a.view-tab-active:hover{background:var(--brand);color:#fff}
+
+/* ---- Alphabetical view: per-entity card w/ recent stories ---- */
+.alpha-entity-card ul.alpha-recent{list-style:none;padding:0;margin:10px 0 0;font-size:13px}
+.alpha-entity-card ul.alpha-recent li{padding:4px 0;color:var(--muted);border-top:1px dashed var(--border)}
+.alpha-entity-card ul.alpha-recent li:first-child{border-top:none}
+.alpha-entity-card ul.alpha-recent a{color:var(--brand-light);text-decoration:none;font-weight:600}
+.alpha-entity-card ul.alpha-recent a:hover{text-decoration:underline}
+.alpha-title{color:var(--text)}
+.alpha-more{margin-top:8px;font-size:12px}
+.alpha-more a{color:var(--brand);text-decoration:none;font-weight:600}
+.alpha-more a:hover{text-decoration:underline}
+
+/* ---- Timeline view: date-grid + articles-by-date sections ---- */
+.timeline-days{margin-top:32px}
+.timeline-day{margin:24px 0 40px;padding-top:12px;border-top:2px solid var(--border)}
+.timeline-day h3{margin:0 0 14px;font-size:18px;color:var(--brand)}
+.timeline-day h3 a{color:inherit;text-decoration:none}
+.timeline-day h3 a:hover{text-decoration:underline}
+.timeline-day-count{color:var(--muted);font-size:13px;font-weight:500;margin-left:10px}
 .submit-link-cta{display:flex;align-items:center;gap:12px;margin-top:24px;padding:14px 20px;background:var(--card);
                  border:1px dashed var(--border);border-radius:var(--radius);font-size:13px;color:var(--muted)}
 .submit-link-cta .submit-btn{padding:6px 16px;background:var(--accent2);color:#fff;border-radius:8px;text-decoration:none;
@@ -387,6 +421,7 @@ _BASE = """<!DOCTYPE html>
   <a href="{{ rel }}index.html"{% if active=='index' %} aria-current="page"{% endif %}>Today\u2019s Pulse</a>
   <a href="{{ rel }}archive.html"{% if active=='archive' %} aria-current="page"{% endif %}>Timeline</a>
   <a href="{{ rel }}topics.html"{% if active=='topics' %} aria-current="page"{% endif %}>Themes</a>
+  <a href="{{ rel }}investments.html"{% if active=='investments' %} aria-current="page"{% endif %}>Investments</a>
   <a href="{{ rel }}events.html"{% if active=='events' %} aria-current="page"{% endif %}>Events</a>
   <a href="{{ rel }}entities.html"{% if active=='entities' %} aria-current="page"{% endif %}>Companies</a>
   <a href="{{ rel }}search.html"{% if active=='search' %} aria-current="page"{% endif %}>Search</a>
@@ -986,15 +1021,74 @@ def _curated_analysis_files(cfg: Config) -> list[Path]:
     return out
 
 
-def _build_deals_hub_page(site: Path, deals_by_slug: dict[str, list[dict]],
-                          entity_files: dict[str, str]) -> int:
-    """Render the M&A & Investments hub at ``/topics/m-and-a-investments.html``.
+def _investments_tab_strip(active_slug: str, active_view: str,
+                           deals_by_slug: dict[str, list[dict]], rel: str) -> str:
+    """Two-row tab strip shown at the top of every /investments/* page.
 
-    Shows a short intro then one section per sub-category
-    (``ma-activity``, ``company-investments``, ``infrastructure-investments``)
-    with the newest ~12 stories per section and a "View all" link into that
-    sub-category's dedicated topic page.
+    Row 1 (category switcher): pills for the three sub-categories with the
+    active one highlighted. Row 2 (view switcher): Latest / Alphabetical /
+    Timeline tabs for the current sub-category. Both link to real static URLs
+    so navigation is directly bookmarkable and works with no JS.
     """
+    view_labels = (
+        ("latest", "Latest", ""),
+        ("by-company", "Alphabetical", "-by-company"),
+        ("timeline", "Timeline", "-timeline"),
+    )
+
+    # Category pills
+    pills: list[str] = []
+    for slug in _DEALS_SUBCATEGORIES:
+        count = len(deals_by_slug.get(slug, []))
+        # When switching category, land on the SAME view the user was on
+        view_suffix = next((s for k, _l, s in view_labels if k == active_view), "")
+        href = f"{rel}investments/{slug}{view_suffix}.html"
+        classes = "deals-pill"
+        if slug == active_slug:
+            classes += " deals-pill-active"
+        pills.append(
+            f'<a class="{classes}" href="{href}">'
+            f'<span class="deals-pill-label">{_topic_label(slug)}</span>'
+            f'<span class="deals-pill-count">{count}</span></a>'
+        )
+    category_row = f'<div class="deals-hub-pills investments-tabs-row">{"".join(pills)}</div>'
+
+    # View tabs (Latest / Alphabetical / Timeline)
+    view_tabs: list[str] = []
+    for key, label, suffix in view_labels:
+        href = f"{rel}investments/{active_slug}{suffix}.html"
+        classes = "view-tab"
+        if key == active_view:
+            classes += " view-tab-active"
+        view_tabs.append(f'<a class="{classes}" href="{href}">{label}</a>')
+    view_row = f'<div class="view-tabs">{"".join(view_tabs)}</div>'
+
+    return category_row + view_row
+
+
+def _build_investments_pages(site: Path, deals_by_slug: dict[str, list[dict]],
+                             entity_files: dict[str, str],
+                             paginate_js: str) -> int:
+    """Generate the /investments.html landing + nine sub-category view pages.
+
+    Structure:
+      /investments.html                                (landing hub)
+      /investments/<slug>.html                         (Latest view)
+      /investments/<slug>-by-company.html              (Alphabetical A-Z)
+      /investments/<slug>-timeline.html                (Timeline w/ date-boxes)
+
+    where <slug> is one of ma-activity, company-investments,
+    infrastructure-investments. The Latest view mirrors the old
+    /topics/<slug>.html card list; the two additional views scope the existing
+    site-wide patterns (letter-nav for entities, date-grid for archive) to a
+    single sub-category.
+    """
+    pages_written = 0
+    total = sum(len(v) for v in deals_by_slug.values())
+    if not total:
+        return 0
+
+    # ----- Landing hub: /investments.html -----
     intro = (
         '<div class="deals-intro">'
         '<h2>\U0001f4b0 M&amp;A &amp; Investments</h2>'
@@ -1005,38 +1099,158 @@ def _build_deals_hub_page(site: Path, deals_by_slug: dict[str, list[dict]],
         '(e.g. an equity stake tied to a chip supply deal).</p>'
         '</div>'
     )
-
+    # Prominent gold card + sub-category pills mirroring the /topics.html
+    # hero, so the landing feels self-contained.
+    hub_pills = "".join(
+        f'<a class="deals-pill" href="investments/{slug}.html">'
+        f'<span class="deals-pill-label">{_topic_label(slug)}</span>'
+        f'<span class="deals-pill-count">{len(deals_by_slug.get(slug, []))}</span></a>'
+        for slug in _DEALS_SUBCATEGORIES
+    )
+    hero = (
+        '<div class="deals-hub-card deals-hub-static">'
+        '<div class="deals-hub-title">\U0001f4b0 M&amp;A &amp; Investments</div>'
+        '<div class="deals-hub-sub">Follow the money: acquisitions, funding rounds, and infrastructure capex.</div>'
+        f'<div class="deals-hub-pills">{hub_pills}</div>'
+        '</div>'
+    )
+    # Per-section previews (12 newest each) so the landing feels alive.
     sections: list[str] = []
-    total = 0
     for slug in _DEALS_SUBCATEGORIES:
         items = deals_by_slug.get(slug, [])
         if not items:
             continue
-        total += len(items)
-        # newest first; the /topics/<slug>.html page carries the full list
         items_sorted = sorted(items, key=lambda a: (a.get("date") or ""), reverse=True)
         preview = items_sorted[:12]
-        preview_html = _cards(preview, rel="../", entity_files=entity_files)
+        preview_html = _cards(preview, rel="", entity_files=entity_files)
         more = ""
         if len(items) > len(preview):
             more = (f'<div class="deals-more">'
-                    f'<a class="deals-more-link" href="{slug}.html">'
+                    f'<a class="deals-more-link" href="investments/{slug}.html">'
                     f'View all {len(items)} stories in {_topic_label(slug)} \u2192</a></div>')
         sections.append(
             f'<section class="deals-section" id="{slug}">'
             f'<div class="deals-section-head">'
-            f'<h3><a href="{slug}.html">{_topic_label(slug)}</a></h3>'
+            f'<h3><a href="investments/{slug}.html">{_topic_label(slug)}</a></h3>'
             f'<span class="deals-section-count">{len(items)} stories</span>'
             f'</div>'
             f'{preview_html}{more}'
             f'</section>'
         )
-
-    body = intro + "".join(sections)
-    _write(site / "topics" / "m-and-a-investments.html",
-           _render("M&A & Investments", body, rel="../", active="topics",
+    body = hero + intro + "".join(sections)
+    _write(site / "investments.html",
+           _render("Investments", body, active="investments",
                    subtitle=f"{total} deal-flow stories across three sub-categories"))
-    return 1
+    pages_written += 1
+
+    # ----- Sub-category pages: 3 slugs \u00d7 3 views = 9 pages -----
+    for slug in _DEALS_SUBCATEGORIES:
+        items = deals_by_slug.get(slug, [])
+        if not items:
+            continue
+        label = _topic_label(slug)
+
+        # Latest view (default). Cards list, newest first, matches old /topics/ page.
+        latest_items = sorted(items, key=lambda a: (a.get("date") or ""), reverse=True)
+        tabs = _investments_tab_strip(slug, "latest", deals_by_slug, rel="../")
+        body = tabs + _cards(latest_items, rel="../", entity_files=entity_files)
+        if len(latest_items) > _PAGE_SIZE:
+            body += paginate_js
+        _write(site / "investments" / f"{slug}.html",
+               _render(label, body, rel="../", active="investments",
+                       subtitle=f"{len(items)} stories \u00b7 Latest first"))
+        pages_written += 1
+
+        # Alphabetical view: A-Z letter nav then per-letter sections listing
+        # each company with its article count in THIS sub-category. Each
+        # company entry expands to show up to 5 most-recent article titles
+        # (with dates) so the "and also by date" ordering is visible.
+        ent_counter: Counter = Counter()
+        by_entity: dict[str, list[dict]] = defaultdict(list)
+        for a in items:
+            for e in a.get("entities", []):
+                ent_counter[e] += 1
+                by_entity[e].append(a)
+        sorted_ents = sorted(ent_counter.keys(), key=str.upper)
+        letters_present = sorted({e[0].upper() for e in sorted_ents if e})
+        all_letters = [chr(c) for c in range(65, 91)]
+        letter_nav = '<div class="letter-nav">' + "".join(
+            f'<a href="#letter-{L}">{L}</a>' if L in letters_present
+            else f'<a class="disabled">{L}</a>'
+            for L in all_letters
+        ) + '</div>'
+
+        parts: list[str] = [letter_nav]
+        current_letter = ""
+        for e in sorted_ents:
+            first = e[0].upper()
+            if first != current_letter:
+                current_letter = first
+                parts.append(f'<h2 id="letter-{first}">{first}</h2>')
+            c = ent_counter[e]
+            safe = _safe_filename(e)
+            # Show up to 5 most-recent article titles+dates under each company.
+            recent = sorted(by_entity[e], key=lambda a: (a.get("date") or ""), reverse=True)[:5]
+            recent_html = "".join(
+                f'<li><a href="../snapshots/{a["date"]}.html">{_format_date(a["date"]) or a.get("date") or ""}</a>'
+                f' \u2014 <span class="alpha-title">{_html.escape(a.get("title") or "")[:120]}</span></li>'
+                for a in recent if a.get("date")
+            )
+            more_link = ""
+            if len(by_entity[e]) > len(recent):
+                more_link = (f'<div class="alpha-more">'
+                             f'<a href="../entities/{safe}.html">View all {c} stories for {_html.escape(e)} \u2192</a></div>')
+            parts.append(
+                f'<div class="card alpha-entity-card">'
+                f'<a class="t" href="../entities/{safe}.html">{_html.escape(e)}</a>'
+                f'<div class="meta"><span>{c} {"story" if c == 1 else "stories"}</span></div>'
+                f'<ul class="alpha-recent">{recent_html}</ul>'
+                f'{more_link}'
+                f'</div>'
+            )
+        tabs = _investments_tab_strip(slug, "by-company", deals_by_slug, rel="../")
+        body = tabs + "\n".join(parts)
+        _write(site / "investments" / f"{slug}-by-company.html",
+               _render(f"{label} \u2014 Alphabetical", body, rel="../",
+                       active="investments",
+                       subtitle=f"{len(sorted_ents)} companies \u00b7 {len(items)} stories"))
+        pages_written += 1
+
+        # Timeline view: date-box grid (like /archive.html) + articles grouped
+        # by date below, so users can browse chronologically without leaving
+        # the sub-category scope.
+        by_date: dict[str, list[dict]] = defaultdict(list)
+        for a in items:
+            d = a.get("date")
+            if d:
+                by_date[d].append(a)
+        sorted_dates = sorted(by_date.keys(), reverse=True)
+        date_grid = '<div class="grid">' + "".join(
+            f'<div class="card"><a class="t" href="#date-{d}">{_format_date(d)}</a>'
+            f'<div class="count">{len(by_date[d])}</div><div class="label">'
+            f'{"story" if len(by_date[d]) == 1 else "stories"}</div></div>'
+            for d in sorted_dates
+        ) + '</div>'
+        date_sections: list[str] = []
+        for d in sorted_dates:
+            day_articles = sorted(by_date[d], key=lambda a: (a.get("title") or ""))
+            date_sections.append(
+                f'<section class="timeline-day" id="date-{d}">'
+                f'<h3><a href="../snapshots/{d}.html">{_format_date(d)}</a> '
+                f'<span class="timeline-day-count">'
+                f'{len(day_articles)} {"story" if len(day_articles) == 1 else "stories"}</span></h3>'
+                f'{_cards(day_articles, rel="../", entity_files=entity_files)}'
+                f'</section>'
+            )
+        tabs = _investments_tab_strip(slug, "timeline", deals_by_slug, rel="../")
+        body = tabs + date_grid + '<div class="timeline-days">' + "".join(date_sections) + '</div>'
+        _write(site / "investments" / f"{slug}-timeline.html",
+               _render(f"{label} \u2014 Timeline", body, rel="../",
+                       active="investments",
+                       subtitle=f"{len(sorted_dates)} days \u00b7 {len(items)} stories"))
+        pages_written += 1
+
+    return pages_written
 
 
 def _build_curated_analysis_pages(cfg: Config, site: Path,
@@ -1998,32 +2212,37 @@ def run_build_site(cfg: Config) -> dict:
         for t in a["themes"] + a["cross_cutting"]:
             by_topic[t].append(a)
 
-    # M&A & Investments hub: highlighted card on /topics.html + one dedicated
-    # hub page /topics/m-and-a-investments.html that indexes the three deals
-    # sub-categories together, plus the three individual topic pages
-    # (auto-generated by the loop below because they're in topics.yaml).
+    # M&A & Investments hub: highlighted card on /topics.html links to the
+    # top-level /investments.html landing (built by _build_investments_pages
+    # below). The three sub-category slugs (ma-activity, company-investments,
+    # infrastructure-investments) are NOT rendered as /topics/*.html pages —
+    # their canonical home is under /investments/ so the sub-nav & views
+    # stay coherent. They are also filtered OUT of the /topics.html grid.
     deals_by_slug = {slug: by_topic.get(slug, []) for slug in _DEALS_SUBCATEGORIES}
     deals_total = sum(len(v) for v in deals_by_slug.values())
     deals_hub_card = ""
     if deals_total:
         sub_pills = "".join(
-            f'<a class="deals-pill" href="topics/{slug}.html">'
+            f'<a class="deals-pill" href="investments/{slug}.html">'
             f'<span class="deals-pill-label">{_topic_label(slug)}</span>'
             f'<span class="deals-pill-count">{len(deals_by_slug[slug])}</span></a>'
             for slug in _DEALS_SUBCATEGORIES
         )
         deals_hub_card = (
-            '<a class="deals-hub-card" href="topics/m-and-a-investments.html">'
+            '<a class="deals-hub-card" href="investments.html">'
             '<div class="deals-hub-title">\U0001f4b0 M&amp;A &amp; Investments</div>'
             '<div class="deals-hub-sub">Follow the money: acquisitions, funding rounds, and infrastructure capex.</div>'
             f'<div class="deals-hub-pills">{sub_pills}</div>'
             '</a>'
         )
 
+    # Grid cards for /topics.html EXCLUDING the deals sub-slugs (they get
+    # their own hub card above).
     topic_rows = '<div class="grid">' + "".join(
         f'<div class="card"><a class="t" href="topics/{t}.html">{_topic_label(t)}</a>'
         f'<div class="count">{len(items)}</div><div class="label">stories</div></div>'
         for t, items in sorted(by_topic.items(), key=lambda x: len(x[1]), reverse=True)
+        if t not in _DEALS_SUBCATEGORIES
     ) + '</div>'
     topics_body = _chat_highlight(
         "The best way to explore news by theme is AI Chat",
@@ -2033,7 +2252,11 @@ def run_build_site(cfg: Config) -> dict:
            _render("Themes", topics_body, active="topics",
                    subtitle="Browse AI news by theme"))
     pages += 1
+    # Auto-generate one /topics/<slug>.html per remaining theme (deals slugs
+    # go under /investments/ instead).
     for t, items in by_topic.items():
+        if t in _DEALS_SUBCATEGORIES:
+            continue
         body = _cards(items, rel="../", entity_files=entity_files)
         if len(items) > _PAGE_SIZE:
             body += paginate_js
@@ -2042,10 +2265,9 @@ def run_build_site(cfg: Config) -> dict:
                        subtitle=f"{len(items)} stories"))
         pages += 1
 
-    # Dedicated M&A & Investments hub page: intro + one section per
-    # sub-category showing the newest stories with a "View all" link.
+    # /investments.html landing + /investments/<slug>[-by-company|-timeline].html
     if deals_total:
-        pages += _build_deals_hub_page(site, deals_by_slug, entity_files)
+        pages += _build_investments_pages(site, deals_by_slug, entity_files, paginate_js)
 
     # --- entities (alphabetical with letter nav, exclude future-dated) ---
     ent_counter: Counter = Counter()
