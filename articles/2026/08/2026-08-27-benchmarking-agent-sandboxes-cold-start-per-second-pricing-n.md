@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: MarkTechPost · E2B, Daytona, Modal, Cloudflare, Vercel
 url_original: https://www.marktechpost.com/2026/08/27/best-agent-sandboxes-2026-cold-start-pricing-network-policy/
 url_canonical: https://www.marktechpost.com/2026/08/27/best-agent-sandboxes-2026-cold-start-pricing-network-policy/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 8787c0bfd5a13b105d9425c1d8acec4917afa2ca8ebb2f28f59dc31f8ed6d7f5

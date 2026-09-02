@@ -19,6 +19,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -36,6 +37,6 @@ Tencent reported Q2 revenue of 204.78B yuan ($30.36B), beating estimates, driven
 ## Connections
 
 **Entities:** [[Intel]] · [[Tencent]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns]]
 <!-- graph:end -->

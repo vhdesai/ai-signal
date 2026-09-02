@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - policy-regulation
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ Bloomberg reports that Tencent-backed AI chipmaker Enflame saw heavy retail dema
 ## Connections
 
 **Entities:** [[Tencent]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-31-tencent-backed-china-chipmaker-enflame-seeks-911-million-in]] · [[2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo]] · [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]]
 <!-- graph:end -->

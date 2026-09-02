@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/
 url_canonical: https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-27_062110_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 53c91190f8a975a3558c6d61312cfc3fe0d4a2bafec90eeecfa8315c211596eb
@@ -17,6 +17,8 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a
@@ -33,6 +35,6 @@ Chris Malone, OpenAI's data center lead, has left the company, adding to a lengt
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a]]
 <!-- graph:end -->

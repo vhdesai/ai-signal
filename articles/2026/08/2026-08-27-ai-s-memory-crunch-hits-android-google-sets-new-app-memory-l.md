@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/
 url_canonical: https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_061032_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 8fc90bb6e11e5e98642ecb5e90efcbe055ce3e2ea2a20e5f70bf09da07451f95
@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-ai-data-center-demand-is-squeezing-memory-for-android-phones
@@ -34,6 +35,6 @@ Google is setting new memory-use limits for Android apps citing “significant h
 ## Connections
 
 **Entities:** [[Google]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-27-ai-data-center-demand-is-squeezing-memory-for-android-phones]]
 <!-- graph:end -->

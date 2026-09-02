@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ Maia 200: Microsoft's second-generation AI accelerator is running in production 
 ## Connections
 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-10-microsoft-moves-to-order-300-000-maia-300-accelerators-from]] · [[2026-08-10-microsoft-reportedly-orders-300-000-maia-300-accelerators-fr]] · [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[event-microsoft-build-2026-microsoft-build-2026-azure-fabric-data-and-app-platform]] · [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]]
 <!-- graph:end -->

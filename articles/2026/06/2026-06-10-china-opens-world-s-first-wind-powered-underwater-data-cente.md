@@ -5,7 +5,7 @@ date: '2026-06-10'
 source: Wired
 url_original: https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/
 url_canonical: https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-11_070054_Final-Daily-AI-News-Digest.md
 content_hash: 5852b3a131282d8061dcd141f7fda0cdea10cf10f1b5a3ffb3360095b026eba8
 normalized_title_hash: 97200d18caaeb1e0
@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -36,6 +37,6 @@ China opened the first wind-powered underwater data center, combining ocean cool
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-19-terrapower-s-molten-salt-nuclear-reactor-has-a-secret-weapon]] · [[2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]] · [[2026-06-22-nvidia-unveils-warm-water-cooling-to-cut-data-center-water-u]] · [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]]
 <!-- graph:end -->

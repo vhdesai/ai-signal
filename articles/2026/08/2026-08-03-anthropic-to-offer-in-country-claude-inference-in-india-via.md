@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Moneycontrol
 url_original: https://www.moneycontrol.com/artificial-intelligence/anthropic-to-enable-local-data-processing-for-claude-in-india-through-amazon-bedrock-article-13992577.html
 url_canonical: https://www.moneycontrol.com/artificial-intelligence/anthropic-to-enable-local-data-processing-for-claude-in-india-through-amazon-bedrock-article-13992577.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-03_062808_Inbox_Daily AI News Digest - August 3,
   2026.md
 content_hash: 7debd1b47038e218a94002984c3835d3dacdc78709814b565fa386733154fa30
@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-03-anthropic-to-enable-in-country-claude-inference-in-india-via
@@ -33,6 +34,6 @@ Anthropic will enable local data processing for Claude in India in the coming we
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-03-anthropic-to-enable-in-country-claude-inference-in-india-via]]
 <!-- graph:end -->

@@ -19,6 +19,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -36,6 +38,6 @@ Reuters reported, citing three sources, that DeepSeek is developing an in-house 
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-07-deepseek-developing-its-own-ai-inference-chip-to-cut-nvidia]]
 <!-- graph:end -->

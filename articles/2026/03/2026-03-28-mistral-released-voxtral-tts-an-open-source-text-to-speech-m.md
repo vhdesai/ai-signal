@@ -5,8 +5,8 @@ title: Mistral released Voxtral TTS, an open-source text-to-speech model that th
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://mistral.ai/news/voxtral-tts/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: 8d3804db54109499e6ea0235e0e92f64ff54481405b221a0cce3bab8ec069522

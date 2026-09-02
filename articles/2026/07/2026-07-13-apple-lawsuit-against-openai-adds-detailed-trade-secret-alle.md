@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/
 url_canonical: https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_060635_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 3164413daa76a4387f7bd003286ca3632253f37a0ebb90223b4ba2e536b99039

@@ -17,6 +17,8 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +40,6 @@ AI chipmaker Cerberus (CBRS) priced its IPO at $185/share on Wednesday in what b
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-12-cerebras-guides-ipo-above-upsized-150-160-range-4-8b-raise-a]] · [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]] · [[2026-04-16-cerebras-systems-is-preparing-for-a-nasdaq-listing-ticker-cb]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record]]
 <!-- graph:end -->

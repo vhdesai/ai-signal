@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Amazon and OpenAI announced a jointly built stateful runtime environment on Bedr
 ## Connections
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock]] · [[2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock]] · [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-08-11-openai-s-daybreak-cyber-defense-models-land-on-amazon-bedroc]]
 <!-- graph:end -->

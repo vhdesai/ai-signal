@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: Microsoft Build 2026 Preview
 url_original: https://build.microsoft.com/
 url_canonical: https://build.microsoft.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\microsoft-build-2026-preview.md
 content_hash: cf95932a6a368378c1ad38d507fdbd8a37dd64095dbe184e0cf1f618a4ef14fb
 normalized_title_hash: 0e91aa1700915556
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Build is expected to connect Microsoft 365 Copilot, Copilot Studio, Agent 365, a
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-365-teams-marketplace-and-eco]]
 <!-- graph:end -->

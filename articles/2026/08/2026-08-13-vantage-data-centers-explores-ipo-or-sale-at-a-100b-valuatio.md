@@ -15,6 +15,8 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-vantage-data-centers-explores-ipo-at-100b-valuation
@@ -30,6 +32,6 @@ Vantage Data Centers, a major hyperscale developer and operator, is weighing opt
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-13-vantage-data-centers-explores-ipo-at-100b-valuation]]
 <!-- graph:end -->

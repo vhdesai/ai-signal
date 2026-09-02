@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Meta released Forum on iOS — a standalone Reddit-like app for Facebook Groups 
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-22-meta-released-forum-on-ios-today-a-standalone-app-that-surfa]] · [[2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms]] · [[2026-08-20-meta-ai-launches-mac-app-with-system-wide-dictation-powered]] · [[2026-05-13-meta-is-testing-a-meta-ai-integration-on-threads-that-mimics]] · [[2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook]]
 <!-- graph:end -->

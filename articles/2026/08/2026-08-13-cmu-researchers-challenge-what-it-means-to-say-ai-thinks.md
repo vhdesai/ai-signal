@@ -22,6 +22,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - model-capabilities
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -39,6 +40,6 @@ Published in IEEE Annals of the History of Computing, arguing anthropomorphic AI
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[DeepSeek]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a]]
 <!-- graph:end -->

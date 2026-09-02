@@ -21,6 +21,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ CNBC updated its ongoing tracker of NVIDIA's equity investment commitments, whic
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in]] · [[2026-05-10-nvidia-tops-40b-in-ai-equity-bets-invests-3-2b-in-corning-2]] · [[2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c]]
 <!-- graph:end -->

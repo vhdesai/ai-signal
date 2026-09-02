@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-12-industry-news-markets-ai-trade-investing
@@ -32,6 +33,6 @@ The Information reports on an equity trade gaining traction around the AI boom. 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-12-industry-news-markets-ai-trade-investing]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/
 url_canonical: https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-29_062619_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 5232e3a9c998c20b9b6961e6e56da2403f38f76bccc51ffa5cf2c5a96319d66c
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Spur Intelligence raised $200 million from Insight Partners for technology that 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-28-spur-raises-200-million-to-distinguish-humans-from-bot-traff]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-07-23-aegisai-raises-36-million-to-fight-ai-driven-spear-phishing]] · [[2026-08-20-twin1-ai-raises-20m-for-per-employee-ai-twins]] · [[2026-06-11-jeff-bezos-s-prometheus-raises-12b-largest-ai-startup-round]]
 <!-- graph:end -->

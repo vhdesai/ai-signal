@@ -17,6 +17,7 @@ entities:
 - Alibaba
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ Alibaba cloud grows 38% but core profit plunges 84% on AI capex — CNBC, May 13
 ## Connections
 
 **Entities:** [[Alibaba]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai]] · [[2026-08-23-alibaba-raises-10-2bn-in-hong-kong-earmarks-100-for-ai]] · [[2026-08-24-alibaba-plunges-after-10-2b-placement-to-fund-ai-push]] · [[2026-08-24-alibaba-sells-10-2b-in-stock-to-fund-ai-shares-plunge-roughl]] · [[2026-08-24-alibaba-plunges-after-announcing-10-2-billion-share-placemen]]
 <!-- graph:end -->

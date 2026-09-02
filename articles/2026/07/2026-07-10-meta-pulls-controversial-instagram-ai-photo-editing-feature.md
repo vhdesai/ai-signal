@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/
 url_canonical: https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-11_060831_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: adb331e02ba96d2c0d1ff97bddc0ad4238e02380ee74ab9c90d10dc59bea8f16
@@ -36,6 +36,7 @@ entities:
 - xAI
 themes:
 - policy-regulation
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -57,6 +58,6 @@ Meta removed a feature that let users modify photos from public Instagram accoun
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-10-meta-pulls-instagram-ai-image-feature-days-after-launch]] · [[2026-07-10-meta-removes-controversial-ai-feature-on-instagram-after-bac]] · [[2026-07-11-meta-scraps-instagram-muse-image-likeness-tool-days-after-la]] · [[2026-07-12-meta-discontinues-its-muse-image-ai-feature-within-three-day]]
 <!-- graph:end -->

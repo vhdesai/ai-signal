@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/
 url_canonical: https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_062029_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 29495b86b6bcf261c933a281179a072b8f96020a8b81c1b0b3ea1489e1026ad5

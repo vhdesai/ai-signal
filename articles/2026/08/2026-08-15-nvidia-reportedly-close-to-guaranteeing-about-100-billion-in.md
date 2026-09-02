@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ The Information reported that Nvidia is close to a deal to guarantee roughly $10
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-14-nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-d]]
 <!-- graph:end -->

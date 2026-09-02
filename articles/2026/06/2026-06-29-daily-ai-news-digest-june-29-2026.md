@@ -23,6 +23,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -44,6 +45,6 @@ The dominant thread over the last 24–48 hours was the state asserting itself o
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]] · [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]]
 <!-- graph:end -->

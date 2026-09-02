@@ -19,6 +19,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -41,6 +42,6 @@ PsiBot, a Chinese embodied-AI company focused on dexterous robotic manipulation,
 ## Connections
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-29-nvidia-s-physical-ai-business-reaches-10b-run-rate-with-chin]] · [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-08-29-china-s-robotics-industry-has-become-a-major-buyer-of-nvidia]] · [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]] · [[2026-08-15-china-s-infiforce-raises-150m-for-an-embodied-ai-world-model]]
 <!-- graph:end -->

@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Power-generation company Babcock & Wilcox is deepening its commitments to supply
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-08-15-big-manufacturers-find-new-demand-in-equipping-ai-data-cente]]
 <!-- graph:end -->

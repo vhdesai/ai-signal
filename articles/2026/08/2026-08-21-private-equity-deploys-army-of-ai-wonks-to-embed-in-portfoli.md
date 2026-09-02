@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ PE firms are deploying dedicated AI specialists directly into portfolio companie
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-06-21-kevin-o-leary-says-portfolio-companies-are-bypassing-consult]] · [[2026-08-31-ai-data-center-construction-sends-private-equity-into-the-tr]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]]
 <!-- graph:end -->

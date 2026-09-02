@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: YourStory
 url_original: https://yourstory.com/2026/06/startup-news-and-updates-daily-roundup-june-30-2026
 url_canonical: https://yourstory.com/2026/06/startup-news-and-updates-daily-roundup-june-30-2026
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-30_061732_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 12a1e96c21e2d962935c3b2f023c2639d7837b973d16abbea671645ad3d83c89
@@ -16,6 +16,7 @@ entities: []
 themes:
 - policy-regulation
 - model-capabilities
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Bengaluru-based Kapture CX, which builds agentic AI for customer experience, rai
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Company Investments]]
 **Related:** [[2026-06-30-bengaluru-based-agentic-ai-startup-kapture-cx-raised-10m-in]] · [[2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents]] · [[2026-06-30-agentic-security-startup-straiker-announced-a-64m-series-a-l]] · [[2026-09-02-ai-sales-orchestration-startup-clay-raises-at-7b-valuation]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]]
 <!-- graph:end -->

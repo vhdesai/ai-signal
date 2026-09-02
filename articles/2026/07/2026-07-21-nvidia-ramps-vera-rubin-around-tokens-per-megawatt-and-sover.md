@@ -23,6 +23,7 @@ entities:
 - Oracle
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -45,6 +46,6 @@ NVIDIA says Vera Rubin NVL72 production is ramping with CoreWeave, Google Cloud,
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[Google]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[Oracle]]
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo]] · [[2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm]]
 <!-- graph:end -->

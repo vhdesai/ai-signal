@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Memory-chip companies are expected to post large sales gains as earnings season 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-13-semiconductors-earnings-ai-supply-chain]] · [[2026-08-28-axios-nvidia-almighty-chip-profits-recycled-across-the-ai-ec]] · [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]] · [[2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui]] · [[2026-08-10-hyperscalers-reported-to-have-committed-nearly-2-trillion-to]]
 <!-- graph:end -->

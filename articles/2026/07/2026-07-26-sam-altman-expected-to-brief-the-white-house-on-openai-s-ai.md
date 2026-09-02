@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +41,6 @@ Axios reports that OpenAI CEO Sam Altman is expected to tell the White House thi
 ## Connections
 
 **Entities:** [[Google]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-26-openai-presses-the-white-house-to-fast-track-frontier-model]] · [[2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/sectors/technology/articles/deepseek-eyes-7-4-billion-123039218.html
 url_canonical: https://finance.yahoo.com/sectors/technology/articles/deepseek-eyes-7-4-billion-123039218.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: 62b62bd98dee9a08e98155c08590e1af453cc960f27fd88e6e6146d0825998ea
@@ -20,6 +20,7 @@ entities:
 - Tencent
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -42,6 +43,6 @@ DeepSeek is raising ~50B yuan (~$7.4B) in its first-ever outside funding at $49�
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[OpenAI]] · [[Tencent]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-13-deepseek-in-talks-to-raise-fresh-funds-at-a-71b-valuation]] · [[2026-07-15-deepseek-nears-500m-revenue-raises-at-74b-and-preps-a-shangh]] · [[2026-07-26-deepseek-pauses-71b-funding-round-after-founder-s-leaked-rem]] · [[2026-06-03-deepseek-prepares-7-billion-maiden-fundraise]] · [[2026-07-26-deepseek-pauses-roughly-71b-funding-round-after-founder-rema]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-16'
 source: The Motley Fool**
 url_original: https://www.fool.com/coverage/stock-market-today/2026/07/16/stock-market-today-july-16-micron-plunges-as-tech-stocks-extend-sell-off/
 url_canonical: https://www.fool.com/coverage/stock-market-today/2026/07/16/stock-market-today-july-16-micron-plunges-as-tech-stocks-extend-sell-off/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-17_065015_Final-Daily-AI-News-Digest.md
 content_hash: 5e1946a13dbb43bc2bd61632c1da27f647a4152c323cac558b2d5cb90c0571f3
 normalized_title_hash: 750f7cee1a3aaccd
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Memory and chip leaders fell sharply — Micron among the biggest decliners — 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat]] · [[2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st]] · [[2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface]]
 <!-- graph:end -->

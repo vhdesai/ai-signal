@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: Axios
 url_original: https://www.axios.com/2026/08/11/chips-memory-inflation-ai
 url_canonical: https://www.axios.com/2026/08/11/chips-memory-inflation-ai
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-11_062021_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: b92c1c40132db0ec93918e979b370689f39b7644c420eacb81e4cf05c28a33de
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ AI-driven demand has quadrupled memory chip prices over the past year, and analy
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con]] · [[2026-08-22-nvidia-customers-reportedly-warned-about-ai-related-price-hi]] · [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]] · [[2026-06-18-tim-cook-warns-ai-chip-demand-making-apple-price-increases-u]] · [[2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive]]
 <!-- graph:end -->

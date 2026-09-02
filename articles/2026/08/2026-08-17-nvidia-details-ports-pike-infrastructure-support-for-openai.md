@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ NVIDIA said it is partnering with SB Energy to secure land, power, and shell cap
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-17-openai-joins-the-ports-pike-project-targeting-roughly-8-gw-o]] · [[2026-08-17-nvidia-guarantees-sb-energy-s-8-gw-ohio-campus-openai-signs]] · [[2026-08-17-openai-contracts-for-8-gw-it-at-the-ports-pike-campus-in-ohi]] · [[2026-08-17-nvidia-guarantees-105b-in-leases-and-invests-1-5b-in-sb-ener]] · [[2026-08-17-nvidia-guarantees-sb-energy-s-ports-pike-campus-to-exclusive]]
 <!-- graph:end -->

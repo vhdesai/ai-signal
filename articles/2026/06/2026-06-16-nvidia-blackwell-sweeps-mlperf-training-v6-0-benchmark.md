@@ -5,7 +5,7 @@ date: '2026-06-16'
 source: MLCommons / Markets Insider
 url_original: https://markets.businessinsider.com/news/stocks/mlcommons-releases-mlperf-training-v6-0-results-1036253514
 url_canonical: https://markets.businessinsider.com/news/stocks/mlcommons-releases-mlperf-training-v6-0-results-1036253514
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-18_075931_Final-Daily-AI-News-Digest.md
 content_hash: ec25c682abeaaec01fa121fdb095dc0b5ba4de3f5b8bb04a6a01c57c3dc5e564
 normalized_title_hash: 1c495d9715ee9c9a
@@ -17,6 +17,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ MLCommons released MLPerf Training v6.0 results with NVIDIA's Blackwell GPU syst
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla]] · [[2026-05-18-nvidia-s-nvfp4-pretraining-format-promises-2-throughput-at-p]] · [[2026-08-25-openai-s-jalape-o-chip-posts-inference-benchmarks-beating-nv]] · [[2026-08-26-openai-publishes-first-jalape-o-inference-benchmarks-claimin]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]]
 <!-- graph:end -->

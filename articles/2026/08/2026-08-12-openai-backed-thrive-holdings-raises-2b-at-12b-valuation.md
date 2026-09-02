@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i
@@ -33,6 +34,6 @@ Thrive Holdings, a Thrive Capital spinout that buys traditional businesses and i
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ PitchBook examines how the traditional tech IPO is being “demoted” as a liqu
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-29-the-ipo-s-big-demotion-blue-collar-tech-drives-deals]] · [[2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-06-13-pitchbook-ai-ambitions-vs-exit-pressures]] · [[2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit]]
 <!-- graph:end -->

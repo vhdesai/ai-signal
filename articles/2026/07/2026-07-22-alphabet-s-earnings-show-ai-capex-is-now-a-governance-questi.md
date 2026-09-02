@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Alphabet's earnings crystallize a tension that now faces every major AI investor
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]] · [[2026-07-30-investors-continue-to-reward-ai-spend-when-it-is-paired-with]] · [[2026-07-22-alphabet-beats-on-revenue-and-82-cloud-growth-but-205b-capex]] · [[2026-07-22-google-defends-ai-capex-with-booming-cloud-growth]]
 <!-- graph:end -->

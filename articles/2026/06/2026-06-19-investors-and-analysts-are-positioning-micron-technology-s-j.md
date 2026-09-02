@@ -16,6 +16,7 @@ entities: []
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Investors and analysts are positioning Micron Technology's June 24 earnings repo
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-19-micron-earnings-viewed-as-critical-test-for-ai-driven-rally]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]] · [[2026-07-09-micron-commits-250b-to-us-memory-manufacturing-on-ai-demand]]
 <!-- graph:end -->

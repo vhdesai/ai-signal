@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: UC San Diego Today
 url_original: https://today.ucsd.edu/story/uc-san-diego-to-test-innovative-power-technology-for-ai-data-centers
 url_canonical: https://today.ucsd.edu/story/uc-san-diego-to-test-innovative-power-technology-for-ai-data-centers
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 251e56814fdd19df7e021bb03047b606534d4e6dffb1ffe029c104d0e1958295
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ The San Diego Supercomputer Center will pilot a new power-delivery technology in
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai]] · [[2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]]
 <!-- graph:end -->

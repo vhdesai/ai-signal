@@ -16,6 +16,8 @@ entities:
 - Cerebras
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +38,6 @@ AI chip maker Cerebras Systems disclosed IPO terms seeking to raise up to $3.5B 
 ## Connections
 
 **Entities:** [[Cerebras]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-10-cerebras-ipo-seeking-3-5b-at-26-6b-valuation]] · [[2026-05-02-ai-chip-maker-cerebras-systems-is-targeting-a-raise-of-up-to]] · [[2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u]] · [[2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr]]
 <!-- graph:end -->

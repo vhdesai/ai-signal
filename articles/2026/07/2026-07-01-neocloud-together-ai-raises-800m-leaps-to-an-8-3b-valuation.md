@@ -5,7 +5,7 @@ date: '2026-07-01'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/
 url_canonical: https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-03_062557_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: 9f598ec4678336b419e508580e42568a8d0cf9f530bef59f7e6ed633cdd910d6
@@ -16,6 +16,8 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
@@ -32,6 +34,6 @@ AI "neocloud" Together AI raised an $800 million Series C at an $8.3 billion val
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]]
 <!-- graph:end -->

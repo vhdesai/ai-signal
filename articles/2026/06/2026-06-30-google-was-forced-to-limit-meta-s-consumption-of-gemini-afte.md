@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Google was forced to limit Meta's consumption of Gemini after Meta blew through 
 ## Connections
 
 **Entities:** [[Google]] · [[Meta]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-28-google-caps-meta-s-gemini-usage-as-compute-scarcity-bites]] · [[2026-06-29-google-capped-meta-s-gemini-usage-as-the-compute-crunch-hits]]
 <!-- graph:end -->

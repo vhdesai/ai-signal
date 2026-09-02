@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: Unite.AI
 url_original: https://www.unite.ai/mistrals-shieldstral-packs-policy-adaptive-safety-screening-into-3b-parameters/
 url_canonical: https://www.unite.ai/mistrals-shieldstral-packs-policy-adaptive-safety-screening-into-3b-parameters/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-05_070154_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 264f0c30c42948c3c975ad4b1da5fdbf726dd2acad97636d50e865e4468a606a

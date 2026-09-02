@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: Stanford Institute for Human-Centered AI**
 url_original: https://hai.stanford.edu/ai-index/2026-ai-index-report
 url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_061105_Daily-AI-News-Digest.md
 content_hash: 69cb09d182bb70539903355230c5db7f5b0ccf6623c4bd0c8674148ff82bc191
 normalized_title_hash: 2a8b07a6e936cd1b
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -35,6 +36,6 @@ Stanford HAI's 2026 AI Index (page updated within the window) documents that the
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]] · [[2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili]] · [[2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-05-18'
 source: TechCrunch
 url_original: https://techcrunch.com/category/artificial-intelligence/
 url_canonical: https://techcrunch.com/category/artificial-intelligence/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: a88364083aa358a679acd1a8ae33a0ddc86cc825ee7d12c0889524d70b32b509
@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Amazon's Alexa+ now includes a feature that generates full-length, conversationa
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l]] · [[2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd]] · [[2026-06-22-amazon-pushes-conversational-ai-ads-onto-the-open-internet]] · [[2026-08-19-amazon-makes-ai-powered-alexa-free-on-all-fire-tv-no-prime-r]] · [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]]
 <!-- graph:end -->

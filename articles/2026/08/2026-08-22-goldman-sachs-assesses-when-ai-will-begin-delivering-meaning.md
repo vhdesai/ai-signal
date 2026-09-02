@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Goldman Sachs published an analysis of when AI spending will translate to measur
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-22-goldman-sachs-assesses-when-ai-will-deliver-meaningful-earni]] · [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-17-marketwatch-ai-productivity-payoff-shifting-investor-focus-f]]
 <!-- graph:end -->

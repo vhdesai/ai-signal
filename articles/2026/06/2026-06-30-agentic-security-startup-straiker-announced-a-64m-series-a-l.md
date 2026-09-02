@@ -16,6 +16,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Agentic-security startup Straiker announced a $64M Series A — led by Marathon 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents]] · [[2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-07-09-lyzr-raises-100m-series-b-run-largely-by-its-own-ai-agent]] · [[2026-08-06-naive-raises-28-5-million-to-automate-company-setup-and-back]]
 <!-- graph:end -->

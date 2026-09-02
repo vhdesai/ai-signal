@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/
 url_canonical: https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-09_061826_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: fb0e820ad4e3c58ddefe89400a0690b113d8dc983fedea28e152ab0d304f045f
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips
@@ -33,6 +34,6 @@ AI chip maker SambaNova Systems raised $1 billion at an $11 billion valuation, l
 ## Connections
 
 **Entities:** [[Intel]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Canonical:** [[2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips]]
 <!-- graph:end -->

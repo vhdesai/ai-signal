@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Enterprise AI vendor C3 AI held its quarterly earnings call, offering a read on 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-17-big-tech-s-3-trillion-ai-spending-is-higher-than-reported]] · [[2026-08-01-palantir-earnings-framed-as-a-bellwether-for-the-real-shape]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]] · [[2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers]] · [[2026-08-20-one-in-five-enterprises-cannot-halt-a-runaway-ai-agent-s-spe]]
 <!-- graph:end -->

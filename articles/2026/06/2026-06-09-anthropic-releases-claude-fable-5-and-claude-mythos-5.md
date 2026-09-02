@@ -5,7 +5,7 @@ date: '2026-06-09'
 source: Anthropic; TechCrunch; Wired; Bloomberg; Axios
 url_original: https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/
 url_canonical: https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-10_070030_Final-Daily-AI-News-Digest.md
 content_hash: a892d638a4409f43fc5c3d34a31810e8453e70738abb9068ba2161740f83eca6
 normalized_title_hash: 7e465de446620f39
@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - model-capabilities
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Anthropic released Claude Fable 5 — a Mythos-class model for all users — alo
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]]
 **Related:** [[2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-a-two-t]] · [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a]] · [[2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e]] · [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75]] · [[2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for]]
 <!-- graph:end -->

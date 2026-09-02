@@ -4,8 +4,8 @@ title: The DOJ filed notice of appeal against U.S
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://news.bloomberglaw.com/ip-law/doj-fires-lawyer-who-filed-ai-brief-after-poor-court-showing
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: b869cafea7966970e8c116125c7607df8ff140814f95254cf604b46040282001

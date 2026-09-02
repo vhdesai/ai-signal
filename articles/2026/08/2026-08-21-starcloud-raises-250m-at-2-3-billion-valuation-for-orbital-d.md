@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: GeekWire
 url_original: https://www.geekwire.com/2026/starcloud-250m-data-center-satellite-network-nvidia/
 url_canonical: https://www.geekwire.com/2026/starcloud-250m-data-center-satellite-network-nvidia/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-22_065242_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: f7be55385ce53b5cbf375bf27d8b36ebb3689eeedd54f7534f2af4199c3ae05f
@@ -16,6 +16,8 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-starcloud-adds-250-million-for-orbital-ai-data-centers
@@ -34,7 +36,7 @@ Starcloud closed a $250M Series A extension to build a satellite network hosting
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-21-starcloud-adds-250-million-for-orbital-ai-data-centers]]
 **Related:** [[2026-08-21-starcloud-raises-250m-at-2-3b-for-orbital-data-centers-as-la]] · [[2026-08-21-starcloud-raises-250m-at-a-2-3b-valuation-for-orbital-data-c]]
 <!-- graph:end -->

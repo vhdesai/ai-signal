@@ -18,6 +18,8 @@ entities:
 - Databricks
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +41,6 @@ Databricks announced a new strategic funding round led by Coatue that values the
 ## Connections
 
 **Entities:** [[Databricks]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-17-databricks-reportedly-set-to-reach-188-billion-valuation-wit]] · [[2026-07-17-databricks-valued-at-188-billion-as-ai-demand-surges]] · [[2026-08-13-databricks-raises-5b-at-190b-valuation-as-annualized-revenue]] · [[2026-07-17-databricks-hits-188b-valuation-doubling-down-on-open-weight]] · [[2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-08-26'
 source: Tbreak
 url_original: https://tbreak.com/oracle-leap-2026-sovereign-ai-saudi-vision-2030/
 url_canonical: https://tbreak.com/oracle-leap-2026-sovereign-ai-saudi-vision-2030/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-26_061028_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 7d84b2ebd08212467afa55443c045f5cc885be2af802b3ff32dc956a1180ee22

@@ -18,6 +18,7 @@ entities:
 - Samsung
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-sk-hynix-launches-28b-us-share-sale-on-ai-memory-demand
@@ -38,7 +39,7 @@ SK Hynix's roughly $29 billion Nasdaq listing is set to begin trading around Jul
 ## Connections
 
 **Entities:** [[Google]] · [[NVIDIA]] · [[Samsung]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-06-sk-hynix-launches-28b-us-share-sale-on-ai-memory-demand]]
 **Related:** [[2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet]] · [[2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory]] · [[2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10]] · [[2026-07-11-sk-hynix-surges-13-in-nasdaq-debut]]
 <!-- graph:end -->

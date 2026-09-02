@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: PYMNTS
 url_original: https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-resumes-funding-round-to-raise-8-billion/
 url_canonical: https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-resumes-funding-round-to-raise-8-billion/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_061041_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 73bcda3821fb1762673db8aa82adcb96372e76de598cd62f1ec17860fe4a7d02
@@ -16,6 +16,7 @@ entities:
 - DeepSeek
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -33,6 +34,6 @@ DeepSeek has reopened a funding round seeking close to $8 billion at a pre-money
 ## Connections
 
 **Entities:** [[DeepSeek]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-06-deepseek-restarts-8b-raise-and-plans-significant-api-price-i]]
 <!-- graph:end -->

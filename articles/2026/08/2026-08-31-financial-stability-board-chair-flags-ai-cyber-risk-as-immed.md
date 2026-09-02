@@ -6,7 +6,7 @@ date: '2026-08-31'
 source: Nairametrics
 url_original: https://nairametrics.com/2026/08/31/fsb-chair-warns-ai-cyber-risk-is-most-immediate-concern-for-global-financial-stability/
 url_canonical: https://nairametrics.com/2026/08/31/fsb-chair-warns-ai-cyber-risk-is-most-immediate-concern-for-global-financial-stability/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-31_060712_Inbox_Daily AI News Digest – August 31,
   2026.md
 content_hash: ed9d13e082610f26983cee255339ad18d5370d2ee0ea2969bc671bb687f744c6

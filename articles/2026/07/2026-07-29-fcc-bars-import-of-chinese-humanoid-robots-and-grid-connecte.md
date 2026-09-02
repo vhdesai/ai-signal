@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -37,6 +38,6 @@ The Federal Communications Commission released new rules barring the import of C
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-29-u-s-bans-new-chinese-humanoid-robots-and-grid-connected-powe]] · [[2026-08-30-u-s-builds-barriers-around-drones-and-robots-but-china-has-t]] · [[2026-07-30-beijing-threatens-retaliation-over-u-s-proposal-to-block-chi]] · [[2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component]] · [[2026-08-05-u-s-moves-to-ban-chinese-data-center-components]]
 <!-- graph:end -->

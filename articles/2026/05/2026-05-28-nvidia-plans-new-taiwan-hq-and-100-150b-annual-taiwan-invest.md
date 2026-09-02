@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Nvidia CEO Jensen Huang on May 27 announced plans for a new Taiwan headquarters 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of]] · [[2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value]] · [[2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi]]
 <!-- graph:end -->

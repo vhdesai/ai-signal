@@ -20,6 +20,8 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-nvidia-invests-1-5b-in-softbank-data-center-developer-offers
@@ -36,6 +38,6 @@ Nvidia said it will invest $1.5B in SB Energy, the SoftBank-owned developer buil
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-17-nvidia-invests-1-5b-in-softbank-data-center-developer-offers]]
 <!-- graph:end -->

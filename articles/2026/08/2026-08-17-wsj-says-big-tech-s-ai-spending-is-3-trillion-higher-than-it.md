@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ The Wall Street Journal reported that Big Tech's AI spending exposure is substan
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-17-big-tech-s-3-trillion-ai-spending-is-higher-than-reported]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]]
 <!-- graph:end -->

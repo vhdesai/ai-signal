@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Three threads run through the last 24 hours. First, leadership and scale at Goog
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-05-daily-ai-news-digest-august-6-2026]] · [[2026-08-12-daily-ai-news-digest-august-13-2026]] · [[2026-08-17-daily-ai-news-digest-august-18-2026]] · [[2026-08-14-daily-ai-news-digest-august-15-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]]
 <!-- graph:end -->

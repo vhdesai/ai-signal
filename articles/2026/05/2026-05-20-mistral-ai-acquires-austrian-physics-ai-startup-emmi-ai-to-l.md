@@ -18,6 +18,7 @@ entities:
 - Mistral
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Mistral AI acquired Linz-based Emmi AI, a developer of Physics AI models for ind
 ## Connections
 
 **Entities:** [[Mistral]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-19-hot-mistral-ai-acquires-emmi-ai-building-europe-s-leading-in]] · [[2026-05-22-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-e]] · [[2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air]] · [[2026-05-22-four-frontier-labs-four-acquisitions-in-five-days]]
 <!-- graph:end -->

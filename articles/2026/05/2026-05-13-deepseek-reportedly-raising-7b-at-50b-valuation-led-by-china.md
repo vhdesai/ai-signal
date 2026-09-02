@@ -17,6 +17,7 @@ entities:
 - DeepSeek
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ DeepSeek is in advanced talks for a $7B+ state-backed funding round at up to $50
 ## Connections
 
 **Entities:** [[DeepSeek]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-06-03-deepseek-prepares-7-billion-maiden-fundraise]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]] · [[2026-06-03-deepseek-nears-7-4b-maiden-fundraise-led-by-tencent-and-catl]]
 <!-- graph:end -->

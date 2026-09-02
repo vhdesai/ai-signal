@@ -5,7 +5,7 @@ date: '2026-07-26'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
 url_canonical: https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-26_060512_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 5a8253ec0db88b36b2f1ebe76948656821936d6ef51c3ef89f37ce12a5f4ae1a
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ TechCrunch reports that Monday.com became the latest technology company to cite 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-25-monday-com-cites-ai-as-a-factor-in-fresh-layoffs]] · [[2026-07-22-monday-com-cuts-20-of-staff-to-refocus-around-ai-work-platfo]] · [[2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal]] · [[2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros]]
 <!-- graph:end -->

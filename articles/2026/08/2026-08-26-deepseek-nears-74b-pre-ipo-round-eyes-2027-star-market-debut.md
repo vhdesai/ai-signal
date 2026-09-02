@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: SCMP / NationPress · DeepSeek
 url_original: https://www.nationpress.com/sciencetech/deepseek-eyes-74bn-round-2027-ipo
 url_canonical: https://www.nationpress.com/sciencetech/deepseek-eyes-74bn-round-2027-ipo
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 8686e95377355b72950810867f1acedd7717ac4c192fea6db59dad4da8572983
@@ -17,6 +17,7 @@ entities:
 - DeepSeek
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -37,6 +38,6 @@ DeepSeek is closing a round valuing it near 500B yuan (~$74B) pre-money, raising
 ## Connections
 
 **Entities:** [[DeepSeek]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val]] · [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]] · [[2026-04-22-trendingtencent-and-alibaba-close-in-on-deepseek-round-at-20]]
 <!-- graph:end -->

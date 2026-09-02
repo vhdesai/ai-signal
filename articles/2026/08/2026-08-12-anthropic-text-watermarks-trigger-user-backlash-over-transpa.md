@@ -5,7 +5,7 @@ date: '2026-08-12'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/
 url_canonical: https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-13_065057_Final-Daily-AI-News-Digest.md
 content_hash: 5b69b5a35ea90a794c7cce1ad2b27019afad584344075e3041c6b00975278a86
 normalized_title_hash: 4545893316035cf0
@@ -17,6 +17,7 @@ entities:
 - DeepSeek
 themes:
 - policy-regulation
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -35,7 +36,7 @@ Anthropic's rollout of watermarking for all Claude-generated text has drawn shar
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash]]
 **Related:** [[2026-08-12-axios-reports-anthropic-s-text-watermarks-signal-a-new-front]]
 <!-- graph:end -->

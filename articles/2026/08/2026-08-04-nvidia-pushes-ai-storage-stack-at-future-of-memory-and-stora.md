@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/ai-storage-fms/
 url_canonical: https://blogs.nvidia.com/blog/ai-storage-fms/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-05_061724_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 351ff3e14877e0f29b186fd082b60b1b1b941b7b0d7abb931d997726691802b0
@@ -20,6 +20,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ NVIDIA published a storage-focused AI infrastructure update around the Future of
 ## Connections
 
 **Entities:** [[Google]] · [[Intel]] · [[Meta]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-08-06-nvidia-tests-rubin-ultra-variants-with-less-hbm-amid-tight-m]] · [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: TechCrunch; CNBC
 url_original: https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/
 url_canonical: https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 51b25c423c27e5506c4e6810c0ea421345e6c79ccf328b5e74c30a880a80689c
 normalized_title_hash: a4d969ca4819401c
@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Reflection AI agreed to pay SpaceX $150M/month from July 2026 through 2029 for N
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-23-spacex-signs-up-to-6-3b-compute-deal-with-reflection-ai]] · [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio]] · [[2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n]] · [[2026-07-14-reflection-signs-1b-plus-nebius-compute-deal-as-open-model-l]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]]
 <!-- graph:end -->

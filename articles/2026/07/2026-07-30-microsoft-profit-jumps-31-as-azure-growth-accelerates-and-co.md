@@ -18,6 +18,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Microsoft reported quarterly profit of $35.8 billion, up 31%, while Azure revenu
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-30-microsoft-fq4-azure-43-crosses-100b-run-rate-30m-copilot-sea]] · [[2026-07-30-microsoft-q4-blowout-profit-jumps-31-cloud-posts-fastest-gro]] · [[2026-07-30-microsoft-365-copilot-paid-subscriptions-double-to-30-millio]] · [[2026-07-30-microsoft-shows-ai-capex-with-operating-leverage-while-meta]]
 <!-- graph:end -->

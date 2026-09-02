@@ -21,6 +21,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +41,6 @@ Huawei is projecting roughly $12 billion in AI chip revenue in 2026 — a 60% ye
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev]] · [[2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: OpenAI completed a $122 billion fundraise, the largest single raise in co
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://gaius-tech.com/articles/openai-122-billion-fundraise-852-billion-valuation
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: 0a09613e4ce05ceccf906d69a77ee660f59931a98de999edf745f082d6956ba6
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ OpenAI completed a $122 billion fundraise, the largest single raise in corporate
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe]] · [[2026-04-02-despite-the-record-raise-openai-s-secondary-market-position]] · [[2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u]]
 <!-- graph:end -->

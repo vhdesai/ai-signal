@@ -5,7 +5,7 @@ date: '2026-06-08'
 source: IBM Institute for Business Value
 url_original: https://www.tmcnet.com/usubmit/2026/06/08/10395398.htm
 url_canonical: https://www.tmcnet.com/usubmit/2026/06/08/10395398.htm
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-09_070112_Final-Daily-AI-News-Digest.md
 content_hash: 35c03ab5c552a4a636a0adf20e9fcebe36f9182b1ed04ee1c8818291447666de
 normalized_title_hash: ae25bd40bc39f641

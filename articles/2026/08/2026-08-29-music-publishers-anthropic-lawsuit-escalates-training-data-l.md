@@ -16,6 +16,7 @@ entities:
 - Anthropic
 themes:
 - datacenter-infrastructure
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Axios reported that music publishers sued Anthropic, alleging blatant theft of c
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]]
 **Related:** [[2026-08-30-business-insider-reported-that-sony-and-warner-chappell-accu]] · [[2026-08-29-sony-music-and-warner-sue-anthropic-alleging-brazen-campaign]] · [[2026-08-29-sony-music-and-warner-chappell-sue-anthropic-over-song-lyric]] · [[2026-08-31-sony-music-publishing-and-warner-chappell-sue-anthropic-over]] · [[2026-08-29-sony-music-and-warner-chappell-sue-anthropic-over-alleged-co]]
 <!-- graph:end -->

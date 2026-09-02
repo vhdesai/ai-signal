@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/
 url_canonical: https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-23_060427_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: 7386ead9d5c12bf3540cd32353e66cc0338ca9264bd3a35bb38bcabe15d070d3
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Harvard Business School's eight-week, $699 HBS Foundry bootcamp for entrepreneur
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-22-harvard-s-699-startup-bootcamp-offers-ai-avatars-of-its-inst]] · [[2026-08-22-harvard-business-school-launches-699-startup-bootcamp-with-a]] · [[2026-08-22-harvard-business-school-launches-ai-avatar-professors-for-69]] · [[2026-08-22-harvard-launches-ai-avatar-professors-for-699-entrepreneursh]] · [[2026-08-23-harvard-startup-bootcamp-uses-ai-avatars-of-instructors-for]] · [[2026-08-22-harvard-startup-bootcamp-uses-ai-avatars-of-instructors-for]]
 <!-- graph:end -->

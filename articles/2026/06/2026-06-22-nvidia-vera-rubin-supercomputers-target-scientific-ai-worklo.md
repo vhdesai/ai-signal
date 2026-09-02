@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: NVIDIA Newsroom
 url_original: https://nvidianews.nvidia.com/news/nvidia-vera-rubin-delivers-world-class-supercomputers-for-science
 url_canonical: https://nvidianews.nvidia.com/news/nvidia-vera-rubin-delivers-world-class-supercomputers-for-science
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-22_060000_Daily-AI-News-Digest.md
 content_hash: 0ea64f6c90423140d9dd8eefb2ffc5fa36aeea2788b3b37e376a89aecc9c2413
 normalized_title_hash: c5bb8e72a8473cf9
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ NVIDIA announced Vera Rubin-based supercomputers for science, extending its AI c
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover]] · [[2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform]] · [[2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project]]
 <!-- graph:end -->

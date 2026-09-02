@@ -5,7 +5,7 @@ date: null
 source: NVIDIA GTC 2026 and GTC Taipei 2026
 url_original: https://www.nvidia.com/gtc/
 url_canonical: https://www.nvidia.com/gtc/
-url_status: ok
+url_status: found
 digest_source: digests\raw\nvidia-gtc-2026-gtc-taipei-2026.md
 content_hash: 75b67613e9a0b32fe182f9c71a0b60863995ea84b19e35f6d2af37e7121055ee
 normalized_title_hash: 837f090f603272f3
@@ -26,6 +26,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -47,6 +48,6 @@ GTC 2026 is consistently framed as NVIDIA's pivot from model acceleration to emb
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[Oracle]] · [[SAP]] · [[TSMC]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-gtc-taipei-computex-adja]] · [[2026-05-27-nvidia-refreshes-gtc-2026-press-kit-ahead-of-taipei]]
 <!-- graph:end -->

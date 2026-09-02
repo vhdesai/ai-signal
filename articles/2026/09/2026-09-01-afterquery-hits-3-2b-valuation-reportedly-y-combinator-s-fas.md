@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-01-afterquery-becomes-y-combinator-s-fastest-ever-unicorn-at-a
@@ -32,6 +33,6 @@ AI training-data startup AfterQuery raised at a $3.2 billion valuation just five
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Canonical:** [[2026-09-01-afterquery-becomes-y-combinator-s-fastest-ever-unicorn-at-a]]
 <!-- graph:end -->

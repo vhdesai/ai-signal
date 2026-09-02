@@ -23,6 +23,8 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - model-capabilities
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -45,6 +47,6 @@ The last day was defined by the economics and physical plumbing of AI rather tha
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[DeepSeek]] · [[Google]] · [[Samsung]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]] · [[2026-08-01-the-ai-brief-august-1-2026]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-08-07-softbank-s-ai-splurge-validates-hyperscaler-capex]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]]
 <!-- graph:end -->

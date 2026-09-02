@@ -17,6 +17,7 @@ entities:
 - Google
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Google is quietly laying off Cloud division staff, including cybersecurity threa
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g]] · [[2026-05-26-google-cloud-coo-ai-security-must-be-a-ceo-board-issue]] · [[2026-08-06-google-execs-searching-for-the-exit]] · [[2026-05-11-ai-attribution-layoffs-cloudflare-1-100-xai-500-paypal-4-760]]
 <!-- graph:end -->

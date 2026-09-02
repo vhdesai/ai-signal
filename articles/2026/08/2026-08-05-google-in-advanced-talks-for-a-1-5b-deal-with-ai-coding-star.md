@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: Yahoo Finance, SiliconANGLE, Business Insider
 url_original: https://finance.yahoo.com/technology/ai/articles/google-eyes-1-5b-investment-172001789.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/google-eyes-1-5b-investment-172001789.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: f5229cbecf202e6e4ddedc4127a0f3a6566d049daeaa96bbf50dda6e4c8fe8a8
@@ -17,6 +17,7 @@ entities:
 - Google
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Google is reportedly pursuing a $1.5 billion-plus talent-and-licensing arrangeme
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-05-google-in-talks-for-1-5b-hybrid-deal-with-coding-agent-start]] · [[2026-08-05-google-in-talks-for-a-1-5b-plus-hire-and-license-deal-with-c]] · [[2026-08-05-google-in-talks-for-1-5b-deal-with-coding-agent-startup-mech]] · [[2026-08-25-keenable-exits-stealth-with-26m-to-build-web-search-index-fo]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]]
 <!-- graph:end -->

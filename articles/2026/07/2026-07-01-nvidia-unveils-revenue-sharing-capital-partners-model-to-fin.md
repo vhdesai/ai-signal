@@ -6,7 +6,7 @@ date: '2026-07-01'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/
 url_canonical: https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-02_062325_Inbox_Daily AI News Digest - July 2,
   2026.md
 content_hash: 6a4c90e7c55aa50b69560d839d25acab27284892acf6217cc1de5c9d4753bf04
@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr
@@ -34,6 +35,6 @@ Nvidia introduced a model in which it partners with "AI clouds" to deploy large 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr]]
 <!-- graph:end -->

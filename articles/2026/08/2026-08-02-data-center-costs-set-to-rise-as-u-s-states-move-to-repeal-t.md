@@ -5,7 +5,7 @@ date: '2026-08-02'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=data%20center%20tax%20breaks%20repeal
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=data%20center%20tax%20breaks%20repeal
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-03_060602_Inbox_Daily AI News Digest - August 3,
   2026.md
 content_hash: 24c48d41309727d16f6fe32c8684fe99b7dc34481a439f9657ae72e884ca7bc2
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ The Information reported that data-center costs are set to rise as U.S. states c
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-03-states-reconsidering-data-center-tax-incentives-adds-a-new-a]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]] · [[2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi]] · [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]] · [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]]
 <!-- graph:end -->

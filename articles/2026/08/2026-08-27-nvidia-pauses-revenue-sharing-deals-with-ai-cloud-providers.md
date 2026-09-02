@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ AI Compute Partnership program frozen <2 months after launch amid antitrust conc
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-27-nvidia-pauses-revenue-sharing-financing-deals-with-ai-cloud]] · [[2026-08-28-nvidia-36b-ai-compute-partnership-paused-company-disputes-ch]] · [[2026-08-28-nvidia-pauses-its-36b-ai-cloud-revenue-share-financing-progr]] · [[2026-08-28-nvidia-pauses-ai-cloud-revenue-sharing-deals-amid-antitrust]] · [[2026-08-28-nvidia-36b-ai-compute-partnership-paused-company-disputes]]
 <!-- graph:end -->

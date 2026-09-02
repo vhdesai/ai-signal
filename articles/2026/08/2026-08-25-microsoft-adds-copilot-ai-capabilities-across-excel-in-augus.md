@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: Neowin
 url_original: https://www.neowin.net/news/here-are-all-the-new-features-microsoft-added-to-excel-in-august-2026/
 url_canonical: https://www.neowin.net/news/here-are-all-the-new-features-microsoft-added-to-excel-in-august-2026/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-26_061028_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: a064c9c4b6088e27106fdfd5c0641d11b32247f2ce2de397bba06dbccc2792ca

@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: DatacenterDynamics
 url_original: https://www.datacenterdynamics.com/en/news/modal-labs-secures-funding/
 url_canonical: https://www.datacenterdynamics.com/en/news/modal-labs-secures-funding/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-27_072257_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 3028d83181a8a699a3d5f0b1672dbe40701131d74b76ded6255aa982154286fd
@@ -34,6 +34,8 @@ entities:
 - xAI
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -55,6 +57,6 @@ Modal Labs closed a $355M Series C in a two-tranche structure (first at $2.5B, s
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[ByteDance]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Tencent]] · [[xAI]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-04-12-sifive-founded-by-the-uc-berkeley-engineers-behind-the-risc]] · [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]]
 <!-- graph:end -->

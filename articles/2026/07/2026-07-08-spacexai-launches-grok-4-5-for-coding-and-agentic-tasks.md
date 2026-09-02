@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-07-08/spacexai-launches-grok-4-5-model-for-coding-agentic-tasks
 url_canonical: https://money.usnews.com/investing/news/articles/2026-07-08/spacexai-launches-grok-4-5-model-for-coding-agentic-tasks
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-09_061826_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 97c1d4bd84e9ff4c16312fcd9c0053fe08795c596d812e4be1fca8b3022b53ad
@@ -18,6 +18,7 @@ entities:
 - xAI
 themes:
 - model-capabilities
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ SpaceXAI (Elon Musk's xAI) released Grok 4.5 on July 8, calling it its most inte
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[xAI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[M&A Activity]]
 **Related:** [[2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work]] · [[2026-08-12-spacexai-ships-grok-4-6-for-long-running-agents-musk-says-4]] · [[2026-07-08-spacexai-ships-grok-4-5-for-coding-and-agentic-workloads]]
 <!-- graph:end -->

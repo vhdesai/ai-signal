@@ -20,6 +20,8 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +43,6 @@ Cerebras Systems is preparing for a Nasdaq listing (ticker: CBRS) targeting appr
 ## Connections
 
 **Entities:** [[Amazon]] · [[Cerebras]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-12-cerebras-guides-ipo-above-upsized-150-160-range-4-8b-raise-a]] · [[2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation]] · [[2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u]] · [[2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68]] · [[2026-05-14-cerebras-pop-sets-up-the-ai-trade-on-wall-street]]
 <!-- graph:end -->

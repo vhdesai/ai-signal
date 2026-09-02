@@ -16,6 +16,7 @@ entities: []
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Investment professionals say community opposition to data centers — now bipart
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]]
 <!-- graph:end -->

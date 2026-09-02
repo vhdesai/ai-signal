@@ -19,6 +19,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-nvidia-agrees-to-buy-hugging-face-for-a-reported-12-9-billio
@@ -36,7 +37,7 @@ Nvidia acquires the repository hosting 1M+ open-source AI models. Follow-on cove
 ## Connections
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-a-reported-12-9-billio]]
 **Related:** [[2026-08-26-nvidia-reportedly-agrees-to-acquire-hugging-face-for-12-9-bi]]
 <!-- graph:end -->

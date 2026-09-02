@@ -17,6 +17,7 @@ entities:
 - Tencent
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -34,6 +35,6 @@ Tencent reported Q2 revenue of RMB 204.8B, up 11% year over year, with non-IFRS 
 ## Connections
 
 **Entities:** [[Tencent]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns]]
 <!-- graph:end -->

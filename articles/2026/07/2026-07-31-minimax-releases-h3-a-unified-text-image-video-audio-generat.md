@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-07-31/chinas-minimax-releases-h3-video-model
 url_canonical: https://money.usnews.com/investing/news/articles/2026-07-31/chinas-minimax-releases-h3-video-model
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-01_062620_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 5f9654433b9385b2e2533eb58678cf30e11bfeefa60721161dde700e8f603dfc

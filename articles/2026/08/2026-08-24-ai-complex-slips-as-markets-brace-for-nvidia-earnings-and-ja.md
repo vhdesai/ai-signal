@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html
 url_canonical: https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_061731_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 7dc63c1af74ed0a99d8742622228b0e8a36146033254b591d5fc35253cdcfa88

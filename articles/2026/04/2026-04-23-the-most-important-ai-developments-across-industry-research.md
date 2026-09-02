@@ -22,6 +22,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -44,6 +45,6 @@ Today's big picture: April 23, 2026 finds AI at a genuine inflection point — n
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-and-most-capable-mo]] · [[2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c]]
 <!-- graph:end -->

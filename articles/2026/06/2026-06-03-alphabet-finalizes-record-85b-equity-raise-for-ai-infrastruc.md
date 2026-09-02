@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: Barron’s; TechCrunch; blog.google
 url_original: https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/
 url_canonical: https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-04_072143_Inbox_Daily AI News Digest – June 4,
   2026 (Updated).md
 content_hash: cff3963df08ad1dd92e697c066067a3729198f7a46e179e1f15493f71a58b9bc
@@ -18,6 +18,7 @@ entities:
 - Meta
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Alphabet finalized an $85 billion equity raise—the largest in technology histo
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-07-22-google-justifies-massive-ai-spending-with-booming-cloud-grow]] · [[2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en]]
 <!-- graph:end -->

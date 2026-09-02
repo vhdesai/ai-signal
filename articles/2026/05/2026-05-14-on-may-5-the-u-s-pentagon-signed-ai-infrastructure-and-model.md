@@ -23,6 +23,7 @@ entities:
 - Oracle
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +43,6 @@ On May 5, the U.S. Pentagon signed AI infrastructure and model agreements with S
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]] · [[2026-05-09-the-pentagon-signed-ai-deployment-agreements-with-eight-vend]] · [[2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks]]
 <!-- graph:end -->

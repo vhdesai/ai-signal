@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Unite.AI
 url_original: https://www.unite.ai/house-homeland-security-panel-calls-altman-in-over-openai-breach/
 url_canonical: https://www.unite.ai/house-homeland-security-panel-calls-altman-in-over-openai-breach/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-04_062620_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 069c1bd19bcad3271f6fb4115ef98e29751f7fbe9039a8af10c8c0a88e4dfd5a

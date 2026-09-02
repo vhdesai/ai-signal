@@ -6,7 +6,7 @@ date: '2026-06-26'
 source: CNBC
 url_original: https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html
 url_canonical: https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-27_091929_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 9ccbdcbb1ee63bd4db48b5987deb417fc5ea49870d3718bdf9ce78c6f59dae82
@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +41,6 @@ Enterprises are beginning to throttle once-unconstrained AI spend, with companie
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-06-27-as-enterprises-rein-in-ai-bills-customers-are-tilting-toward]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu]]
 <!-- graph:end -->

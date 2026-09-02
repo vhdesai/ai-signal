@@ -6,7 +6,7 @@ date: '2026-08-25'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/
 url_canonical: https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-26_060307_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 26dde4660649aa3ef94debd974e1259577368d0f65d4e702f00987326e08dc1a

@@ -18,6 +18,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ SpaceX closed its all-stock acquisition of Anysphere (Cursor) — the largest st
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-14-spacex-completes-60b-all-stock-acquisition-of-cursor-maker-a]] · [[2026-08-14-spacex-xai-completes-acquisition-of-cursor-at-a-reported-60b]] · [[2026-08-15-spacex-completes-60b-all-stock-acquisition-of-ai-coding-star]] · [[2026-06-19-market-analysts-continue-to-assess-spacex-s-60-billion-all-s]] · [[2026-08-14-spacex-completes-its-acquisition-of-cursor-folding-it-into-s]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: AiThority
 url_original: https://aithority.com/it-and-devops/cloud/coreweave-expands-cloud-ai-platform-to-indonesia-marking-first-move-into-asia-pacific-region/
 url_canonical: https://aithority.com/it-and-devops/cloud/coreweave-expands-cloud-ai-platform-to-indonesia-marking-first-move-into-asia-pacific-region/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-04_061719_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 68b8b99c67bd55180e93585c7111525e688c2960155e544b8a1132da6b7f7256
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ AiThority reports that CoreWeave announced three Indonesian data-center faciliti
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-24-coreweave-lands-new-ai-cloud-deal-as-data-center-siting-rule]] · [[2026-07-10-coreweave-named-a-visionary-in-the-2026-gartner-magic-quadra]] · [[2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin]] · [[2026-08-05-coreweave-signs-multi-year-storage-agreement-with-solidigm]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]]
 <!-- graph:end -->

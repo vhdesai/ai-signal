@@ -5,7 +5,7 @@ date: '2026-08-31'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=CXMT+high+bandwidth+memory+chips
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=CXMT+high+bandwidth+memory+chips
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: ebc5b1ed1aec58c10833adcfa30543ff43cac622b83b8fb0714cf47a35b25ebd
 normalized_title_hash: f8bc1e4c1bfb7480
@@ -17,6 +17,7 @@ entities:
 - Samsung
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -34,6 +35,6 @@ China's leading memory-chip maker, ChangXin Memory Technologies (CXMT), has begu
 ## Connections
 
 **Entities:** [[Samsung]]
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ OpenAI told the White House it has launched a biodefense effort built around GPT
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]]
 **Related:** [[2026-05-28-openai-briefs-white-house-on-biodefense-program-built-on-gpt]] · [[2026-05-29-openai-briefs-white-house-officials-on-gpt-rosalind-biodefen]] · [[2026-05-29-openai-introduces-gpt-rosalind-biodefense-for-pandemic-prepa]] · [[2026-04-16-openai-gpt-rosalind-targets-life-sciences-research]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - Amazon
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Amazon increased pricing on a key AWS AI cloud service by 20%, citing rising mem
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity]] · [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai]] · [[2026-07-30-amazon-raises-2026-capital-spending-to-220b-as-aws-growth-hi]] · [[2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears]]
 <!-- graph:end -->

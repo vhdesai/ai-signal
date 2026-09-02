@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - model-capabilities
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -33,6 +34,6 @@ Yahoo Finance reports that Moonshot AI is planning a Hong Kong IPO after the deb
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-19-china-s-moonshot-plans-a-30b-hong-kong-ipo-within-six-months]]
 <!-- graph:end -->

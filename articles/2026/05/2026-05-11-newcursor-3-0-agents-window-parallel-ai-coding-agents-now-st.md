@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Cursor 3.0's Agents Window — launched in late April 2026 — fundamentally cha
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]] · [[2026-05-14-cursor-3-0-has-fundamentally-changed-developer-interaction-w]] · [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]] · [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]]
 <!-- graph:end -->

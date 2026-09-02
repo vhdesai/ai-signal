@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ TechCrunch reports that NVIDIA CEO Jensen Huang left Tokyo with deals spanning J
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-16-nvidia-unveils-cosmos-3-edge-and-expands-its-japan-physical]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]] · [[2026-06-20-in-a-wide-ranging-interview-aired-saturday-nvidia-ceo-jensen]] · [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s]]
 <!-- graph:end -->

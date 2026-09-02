@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: The Motley Fool; 24/7 Wall St.
 url_original: https://www.fool.com/coverage/stock-market-today/2026/06/22/stock-market-today-june-22-alphabet-falls-as-alphafold-co-creator-s-exit-raises-ai-talent-concerns/
 url_canonical: https://www.fool.com/coverage/stock-market-today/2026/06/22/stock-market-today-june-22-alphabet-falls-as-alphafold-co-creator-s-exit-raises-ai-talent-concerns/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 942e52b31d88384a2f6fe8ac0589fb4c86648d4d71b657d7c78520efdb0134f1
 normalized_title_hash: 229a32319cf3ffc1
@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Alphabet slid ~6% and Amazon ~4% as investors absorbed the back-to-back departur
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en]] · [[2026-08-31-big-tech-booked-more-than-160b-in-paper-gains-from-ai-stakes]] · [[2026-06-17-daily-ai-news-digest-june-18-2026]] · [[2026-07-22-alphabet-beats-on-revenue-and-82-cloud-growth-but-205b-capex]] · [[2026-06-29-a-structural-look-at-deepmind-s-sharpest-talent-losses-in-ye]]
 <!-- graph:end -->

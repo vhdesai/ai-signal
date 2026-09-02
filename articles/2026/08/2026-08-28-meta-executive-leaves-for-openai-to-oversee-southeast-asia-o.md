@@ -5,7 +5,7 @@ date: '2026-08-28'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/
 url_canonical: https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_061032_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: c8bcc511ac408f0da0007a3ca72096ac4641bd88019a6a48fb6e259ea35f3f9d

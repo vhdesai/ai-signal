@@ -21,6 +21,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -43,6 +44,6 @@ In a striking competitive synchronicity, Anthropic announced a $1.5B enterprise 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Palantir]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]] · [[2026-05-08-both-anthropic-and-openai-announced-parallel-enterprise-join]] · [[2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip]] · [[2026-05-04-hotopenai-anthropic-enterprise-joint-ventures-now-in-talks-t]] · [[2026-05-04-hotopenai-and-anthropic-each-launch-billion-dollar-enterpris]] · [[2026-05-04-breakingopenai-and-anthropic-both-launch-multibillion-dollar]]
 <!-- graph:end -->

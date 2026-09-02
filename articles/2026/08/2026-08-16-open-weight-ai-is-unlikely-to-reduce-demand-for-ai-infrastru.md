@@ -17,6 +17,7 @@ entities:
 - Scale AI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ The Wall Street Journal reported that open-weight AI is not expected to material
 ## Connections
 
 **Entities:** [[Scale AI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-12-at-t-bets-on-open-weight-models-to-control-token-cost-and-da]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-07-17-ai-commoditization-pressures-proprietary-model-economics]] · [[2026-07-20-massive-ai-supply-deals-face-execution-risk]]
 <!-- graph:end -->

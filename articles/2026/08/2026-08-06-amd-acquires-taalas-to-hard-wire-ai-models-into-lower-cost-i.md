@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/08/06/amd-acquires-taalas-hardwire-ai-models-silicon/
 url_canonical: https://siliconangle.com/2026/08/06/amd-acquires-taalas-hardwire-ai-models-silicon/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_084748_Final-Daily-AI-News-Digest.md
 content_hash: 5da449a1e450b9e7f1bcb74064acb25b3eb923eef033804d41bbdb5e0456a0d9
 normalized_title_hash: 03494654064d1a30
@@ -20,6 +20,9 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- ma-activity
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-amd-acquires-taalas-to-hard-wire-ai-models-directly-into-sil
@@ -36,6 +39,6 @@ AMD acquired Taalas, a Toronto startup that builds model-specific integrated cir
 ## Connections
 
 **Entities:** [[AMD]] · [[Meta]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-06-amd-acquires-taalas-to-hard-wire-ai-models-directly-into-sil]]
 <!-- graph:end -->

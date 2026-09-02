@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/cleancore-solutions-inc-nyse-american-120000096.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/cleancore-solutions-inc-nyse-american-120000096.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: aea0090a4b341d327a5f77d42794c5927e97f0212a2145a86d0fcb620a70b4fa
@@ -18,6 +18,7 @@ entities:
 - Scale AI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-29-cerebras-signs-10-year-ai-colocation-deal-with-cleancore-sol
@@ -34,6 +35,6 @@ CleanCore Solutions (NYSE American: ZONE) signed a 10-year colocation agreement 
 ## Connections
 
 **Entities:** [[Cerebras]] · [[Scale AI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-29-cerebras-signs-10-year-ai-colocation-deal-with-cleancore-sol]]
 <!-- graph:end -->

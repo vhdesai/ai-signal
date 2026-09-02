@@ -18,6 +18,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Analysis of Satya Nadella's June 14 blog post reveals a stark warning: "If all t
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration]] · [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat]] · [[2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie]] · [[2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model]]
 <!-- graph:end -->

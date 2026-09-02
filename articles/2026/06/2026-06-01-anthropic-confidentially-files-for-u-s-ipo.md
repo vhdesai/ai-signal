@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: CNBC; TechCrunch; Wall Street Journal; Wired
 url_original: https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
 url_canonical: https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-02_070034_Final-Daily-AI-News-Digest.md
 content_hash: d2aee085e2a1b2a17b61d3a478f8e7d9f06afff768134f19a2cc5dea6de4a804
 normalized_title_hash: 3017d4c5ce2eb18f
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo
@@ -35,7 +36,7 @@ Anthropic submitted a confidential draft S-1 to the SEC, setting the stage for o
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo]]
 **Related:** [[2026-06-01-anthropic-confidentially-files-s-1-for-landmark-ipo]]
 <!-- graph:end -->

@@ -16,6 +16,7 @@ entities:
 - Tencent
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -36,6 +37,6 @@ Shanghai Enflame Technology, the Tencent-backed AI chip maker, is looking to rai
 ## Connections
 
 **Entities:** [[Tencent]]
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-31-tencent-backed-china-chipmaker-enflame-seeks-911-million-in]] · [[2026-09-02-tencent-backed-enflame-s-ipo-draws-4-073-times-retail-demand]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]]
 <!-- graph:end -->

@@ -15,6 +15,8 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +38,6 @@ Nvidia announced a $500 million investment in Corning to expand US-based manufac
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai]] · [[2026-05-10-nvidia-tops-40b-in-ai-equity-bets-invests-3-2b-in-corning-2]] · [[2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c]] · [[2026-08-19-relativity-networks-raises-22m-for-hollow-core-fiber-in-ai-d]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]]
 <!-- graph:end -->

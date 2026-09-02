@@ -19,6 +19,7 @@ entities:
 - Snowflake
 themes:
 - policy-regulation
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ TechCrunch reports that Glow, founded by former Meta and Snowflake executives, e
 ## Connections
 
 **Entities:** [[Meta]] · [[Snowflake]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]]
 **Related:** [[2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-regu]] · [[2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent]] · [[2026-07-16-fireworks-ai-closes-1-5b-round-at-17-5b-valuation]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ PitchBook has published a formal tracker mapping OpenAI’s ongoing leadership d
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d]] · [[2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu]] · [[2026-08-01-pitchbook-saas-pocalypse-enters-second-phase-as-ai-agents-re]] · [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Axios reports that AI is accelerating drug development as pharmaceutical compani
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-11-new-warning-in-race-to-superintelligence]] · [[2026-07-10-new-warning-in-race-to-superintelligence]] · [[2026-07-09-new-warning-in-race-to-superintelligence]] · [[2026-07-12-new-warning-in-race-to-superintelligence]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]]
 <!-- graph:end -->

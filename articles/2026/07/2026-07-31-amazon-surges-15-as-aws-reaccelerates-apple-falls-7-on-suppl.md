@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Wall Street Journal**
 url_original: https://www.wsj.com/finance/stocks/amazon-surges-and-apple-falls-on-latest-earnings-9f3f3c8b
 url_canonical: https://www.wsj.com/finance/stocks/amazon-surges-and-apple-falls-on-latest-earnings-9f3f3c8b
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-01_065003_Final-Daily-AI-News-Digest.md
 content_hash: d7fc6011f0de9fe86775b9893992d1130eb3fb55e8cf6c0a64e34d992e3d4bb9
 normalized_title_hash: a2edf9c46ad48c1d
@@ -18,6 +18,7 @@ entities:
 - Apple
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-31-amazon-s-aws-acceleration-validates-ai-infrastructure-spendi
@@ -34,6 +35,6 @@ The AI infrastructure investment thesis received its clearest validation yet as 
 ## Connections
 
 **Entities:** [[Amazon]] · [[Apple]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-31-amazon-s-aws-acceleration-validates-ai-infrastructure-spendi]]
 <!-- graph:end -->

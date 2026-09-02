@@ -19,6 +19,7 @@ entities:
 - Snowflake
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-amazon-is-buying-and-destroying-rare-books-to-scan-them-for
@@ -36,7 +37,7 @@ event_name: ''
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[NVIDIA]] · [[Snowflake]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-17-amazon-is-buying-and-destroying-rare-books-to-scan-them-for]]
 **Related:** [[2026-08-17-amazon-reportedly-destroying-rare-books-to-digitize-them-for]]
 <!-- graph:end -->

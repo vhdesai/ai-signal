@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Nvidia and SK hynix announced a multiyear technology partnership to co-develop n
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-07-nvidia-and-sk-hynix-sign-multiyear-memory-partnership-for-ai]] · [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]] · [[2026-07-25-nvidia-locks-down-sk-hynix-memory-supply-in-a-deal-potential]] · [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]]
 <!-- graph:end -->

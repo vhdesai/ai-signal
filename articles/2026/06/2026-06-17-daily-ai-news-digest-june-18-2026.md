@@ -21,6 +21,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +43,6 @@ Today's dominant narrative: The Anthropic Fable 5 / Mythos 5 export-control cris
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-17-noam-shazeer-transformer-co-inventor-and-gemini-co-lead-leav]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-06-18-transformer-co-inventor-noam-shazeer-leaves-google-gemini-fo]] · [[2026-05-20-ai-news-digest-may-20-2026]]
 <!-- graph:end -->

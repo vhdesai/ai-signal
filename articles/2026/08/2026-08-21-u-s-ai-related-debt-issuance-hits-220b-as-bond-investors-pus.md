@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-08-21/analysis-us-corporate-ai-debt-surge-tests-investor-limits-as-fatigue-emerges
 url_canonical: https://money.usnews.com/investing/news/articles/2026-08-21/analysis-us-corporate-ai-debt-surge-tests-investor-limits-as-fatigue-emerges
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-22_062347_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: b7551c40cbeff9bca6f1e61653574995decf525ec166e644a52b1e9d9a56670c
@@ -16,6 +16,7 @@ entities:
 - Amazon
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Reuters analysis puts 2026 U.S. corporate AI-related debt issuance near $220B, u
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a]] · [[2026-06-10-amazon-borrows-17-5b-from-banks-as-ai-infrastructure-spendin]]
 <!-- graph:end -->

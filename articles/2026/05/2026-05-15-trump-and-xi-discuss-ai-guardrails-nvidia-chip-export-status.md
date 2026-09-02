@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -34,6 +35,6 @@ President Trump confirmed he discussed potential bilateral AI safety guardrails 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-05-15-trump-and-xi-discuss-ai-guardrails-and-nvidia-chips-at-beiji]]
 <!-- graph:end -->

@@ -22,6 +22,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - model-capabilities
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -43,6 +44,6 @@ Today’s signal is a financial reckoning running underneath the capability race
 ## Connections
 
 **Entities:** [[Apple]] · [[Google]] · [[IBM]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Company Investments]]
 **Related:** [[2026-08-14-daily-ai-news-digest-august-15-2026]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-08-12-daily-ai-news-digest-august-13-2026]] · [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le]]
 <!-- graph:end -->

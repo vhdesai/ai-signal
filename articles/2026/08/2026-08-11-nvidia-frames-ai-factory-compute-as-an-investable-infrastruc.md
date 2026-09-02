@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/
 url_canonical: https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-12_060916_Inbox_Daily AI News Digest - August 12,
   2026.md
 content_hash: 62bbecaaf93cac95657b025331778ad10ffd29849aca92cc09c7b9c963f1517a
@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f
@@ -35,7 +36,7 @@ NVIDIA said it is partnering with Apollo, BlackRock, Blackstone, Brookfield, Gol
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f]]
 **Related:** [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/
 url_canonical: https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_060636_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: c992aeed30ec248bbc7eefcd3ff791d3f886d1116ddce2fd3990a1ee8bb6b443
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +34,6 @@ Naive raised a $28.5 million Series A for infrastructure that lets AI agents pro
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]] · [[2026-07-15-indian-ai-coding-startup-emergent-becomes-a-unicorn-with-130]]
 <!-- graph:end -->

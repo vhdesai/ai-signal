@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026
 url_canonical: https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-26_111101_Final-Daily-AI-News-Digest.md
 content_hash: 465e94ae350f690053ddd6cd8652487722f4357c4542473b8e9b9a4a9936d539
 normalized_title_hash: 2b7f19905de78224
@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ WSJ frames today's Nvidia earnings report as the most consequential since the AI
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-26-nvidia-s-1-5-trillion-earnings-question-the-return-on-invest]] · [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]] · [[2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r]] · [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]]
 <!-- graph:end -->

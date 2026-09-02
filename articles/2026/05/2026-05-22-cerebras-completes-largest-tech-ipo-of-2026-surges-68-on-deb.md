@@ -18,6 +18,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +38,6 @@ Cerebras Systems completed what is being called the largest tech IPO of 2026, ra
 ## Connections
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-14-cerebras-systems-prices-largest-us-ipo-of-2026-at-56-4b-valu]] · [[2026-05-17-cerebras-systems-hit-the-nasdaq-on-may-14-in-the-most-closel]]
 <!-- graph:end -->

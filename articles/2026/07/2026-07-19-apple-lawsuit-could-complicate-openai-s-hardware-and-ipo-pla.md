@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ TechCrunch analyzed whether Apple's trade-secrets lawsuit against OpenAI could d
 ## Connections
 
 **Entities:** [[Apple]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-19-apple-s-lawsuit-could-complicate-openai-s-hardware-plans]] · [[2026-07-19-could-apple-s-lawsuit-derail-openai-s-hardware-plans]] · [[2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle]] · [[2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef]]
 <!-- graph:end -->

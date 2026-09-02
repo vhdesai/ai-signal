@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Stockholm-based AI coding startup Lovable announced a $400 million funding round
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation]] · [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj]] · [[2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation]] · [[2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri]]
 <!-- graph:end -->

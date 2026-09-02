@@ -18,6 +18,8 @@ entities:
 - Samsung
 themes:
 - company-storylines
+- ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +40,6 @@ The $44 billion global wearable industry is rapidly evolving toward AI-powered h
 ## Connections
 
 **Entities:** [[Apple]] · [[Google]] · [[Samsung]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-05-22-google-health-first-cross-modality-foundation-model-for-wear]] · [[2026-08-14-samsung-health-ai-models-analyze-wearable-biosignal-data-on]] · [[2026-08-31-ai-disruption-in-electronic-health-records-accelerates-as-ve]] · [[2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda]]
 <!-- graph:end -->

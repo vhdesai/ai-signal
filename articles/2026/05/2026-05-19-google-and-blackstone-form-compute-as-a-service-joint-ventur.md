@@ -17,6 +17,7 @@ entities:
 - Google
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Google and Blackstone unveiled a joint venture to offer AI data-center capacity,
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]] · [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]] · [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]] · [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership]]
 <!-- graph:end -->

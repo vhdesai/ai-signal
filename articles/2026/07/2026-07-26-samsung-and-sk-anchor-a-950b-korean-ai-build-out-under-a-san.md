@@ -6,7 +6,7 @@ date: '2026-07-26'
 source: The Korea Herald
 url_original: https://www.koreaherald.com/article/10820345
 url_canonical: https://www.koreaherald.com/article/10820345
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-26_061151_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 06ca8526f5ff2fd1a600c36167bd7397ad10e37391fea4cfadf4ad3528977b47
@@ -21,6 +21,7 @@ entities:
 - Samsung
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +43,6 @@ At the San Francisco AI Summit, Samsung Electronics and SK Group unveiled AI-inf
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[Samsung]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]] · [[2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p]] · [[2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in]]
 <!-- graph:end -->

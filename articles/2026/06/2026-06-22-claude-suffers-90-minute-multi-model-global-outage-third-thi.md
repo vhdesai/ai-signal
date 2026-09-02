@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: Cyber Security News
 url_original: https://cybersecuritynews.com/anthropic-claude-ai-outage/
 url_canonical: https://cybersecuritynews.com/anthropic-claude-ai-outage/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: a28443993c594e8bcedd788f621f7821e1b64422579f146c49a531f1461de1d2
 normalized_title_hash: 9b9be105bb995ea5

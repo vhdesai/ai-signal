@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-18-nvidia-backs-openai-s-ohio-data-center-leases-with-a-guarant
@@ -35,6 +36,6 @@ Nvidia has guaranteed up to $105 billion of OpenAI's lease obligations across ap
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-18-nvidia-backs-openai-s-ohio-data-center-leases-with-a-guarant]]
 <!-- graph:end -->

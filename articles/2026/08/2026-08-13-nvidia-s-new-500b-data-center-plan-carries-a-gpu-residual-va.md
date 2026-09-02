@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-nvidia-500b-financing-vehicle-with-gpu-residual-value-guaran
@@ -34,7 +35,7 @@ Nvidia said Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR are
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-13-nvidia-500b-financing-vehicle-with-gpu-residual-value-guaran]]
 **Related:** [[2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data]]
 <!-- graph:end -->

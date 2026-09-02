@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -36,6 +37,6 @@ The Information reports that Moonshot AI is seeking investor approval to begin a
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-07-19-china-s-moonshot-plans-a-30b-hong-kong-ipo-within-six-months]] · [[2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes]]
 <!-- graph:end -->

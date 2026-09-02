@@ -6,7 +6,7 @@ date: '2026-08-25'
 source: Digital Trends
 url_original: https://www.digitaltrends.com/computing/openai-says-its-jalapeno-ai-chip-delivers-faster-responses-than-rivals-like-nvidia/
 url_canonical: https://www.digitaltrends.com/computing/openai-says-its-jalapeno-ai-chip-delivers-faster-responses-than-rivals-like-nvidia/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-26_061318_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 2cfd9841032d8983f430ef5aaece15733f3dab387022fe5baaba3114c90248ac
@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ OpenAI released the first performance results for Jalapeño, the custom LLM infe
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-25-openai-publishes-first-jalape-o-chip-benchmarks-claims-effic]] · [[2026-08-25-openai-publishes-first-jalape-o-benchmarks-claims-efficiency]] · [[2026-08-26-openai-publishes-first-jalape-o-inference-benchmarks-claimin]] · [[2026-08-25-openai-s-jalape-o-chip-is-built-for-fast-inference-at-scale]] · [[2026-08-25-openai-s-jalape-o-chip-posts-inference-benchmarks-beating-nv]]
 <!-- graph:end -->

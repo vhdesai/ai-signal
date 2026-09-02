@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ SambaNova Systems raised $1 billion in new funding focused on inference-optimize
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]] · [[2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips]] · [[2026-07-08-sambanova-raises-1b-at-11b-valuation-named-jpmorgan-inferenc]] · [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation]] · [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-lands-jpmorgan-as-an]]
 <!-- graph:end -->

@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Infrastructure Nvidia's flagship Kyber NVL144 rack slips ~12 months to 2028 July
 ## Connections
 
 **Entities:** [[AMD]] · [[Google]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028]] · [[2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through]]
 <!-- graph:end -->

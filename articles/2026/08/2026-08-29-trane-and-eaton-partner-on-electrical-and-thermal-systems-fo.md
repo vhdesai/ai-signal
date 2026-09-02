@@ -5,7 +5,7 @@ date: '2026-08-29'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/eaton-ai-data-center-healthcare-090651273.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/eaton-ai-data-center-healthcare-090651273.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-30_065043_Final-Daily-AI-News-Digest.md
 content_hash: b762dba89b8cd567eeb5483bf569323333358e83e98635a230c22136d9f8f041
 normalized_title_hash: 3c7659b8c6ca99dd
@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Trane Technologies announced a collaboration with Eaton to integrate electrical 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-29-trane-and-eaton-partner-on-power-and-thermal-systems-for-ai]] · [[2026-08-27-cummins-lands-largest-ever-battery-storage-contract-for-a-u]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai]]
 <!-- graph:end -->

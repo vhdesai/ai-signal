@@ -6,7 +6,7 @@ date: '2026-08-15'
 source: TechCrunch · The Washington Post
 url_original: https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/
 url_canonical: https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-16_065100_Final-Daily-AI-News-Digest.md
 content_hash: a189e67180d51356913f783bafa3e8a528b8a251369f67dea25bae847f7f148b
 normalized_title_hash: bae4c0abddd73683
@@ -19,6 +19,7 @@ entities:
 - xAI
 themes:
 - policy-regulation
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -41,6 +42,6 @@ A woman identified as Jane Doe 4 joined a suit filed by three Tennessee teenager
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[xAI]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok]] · [[2026-08-15-fourth-plaintiff-joins-grok-csam-class-action-against-xai-sp]] · [[2026-08-15-woman-alleges-grok-generated-7-000-csam-images-from-single-c]] · [[2026-08-15-lawsuit-expands-over-alleged-use-of-grok-to-create-explicit]] · [[2026-08-15-new-plaintiff-joins-federal-class-action-over-grok-generated]]
 <!-- graph:end -->

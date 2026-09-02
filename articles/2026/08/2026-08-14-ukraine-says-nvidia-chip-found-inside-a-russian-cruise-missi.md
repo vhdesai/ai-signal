@@ -5,7 +5,7 @@ date: '2026-08-14'
 source: Yahoo News
 url_original: https://www.yahoo.com/news/science/articles/ukraine-says-nvidia-chip-found-155953862.html
 url_canonical: https://www.yahoo.com/news/science/articles/ukraine-says-nvidia-chip-found-155953862.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-15_065044_Final-Daily-AI-News-Digest.md
 content_hash: ff69fe528a0fcc5c7ad1b015bd21baf61c6e4d7a236fe5d10e32e28d111615f6
 normalized_title_hash: 3c9dfc63ed2cefca
@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -40,7 +41,7 @@ Ukrainian officials report recovering an Nvidia chip from a Russian cruise missi
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-14-ukraine-says-nvidia-chip-found-in-russian-cruise-missile]]
 **Related:** [[2026-08-14-ukraine-says-an-nvidia-chip-was-found-inside-a-russian-cruis]] · [[2026-08-14-daily-ai-news-digest-august-15-2026]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]]
 <!-- graph:end -->

@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +34,6 @@ Of the Pentagon's $1.5 trillion budget request for next year, about $55 billion 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Related:** [[2026-03-28-defense-ai-startup-shield-ai-closed-a-2-billion-funding-roun]] · [[2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget]] · [[2026-08-18-vcs-poured-47-4b-into-physical-ai-in-the-first-half-of-2026]]
 <!-- graph:end -->

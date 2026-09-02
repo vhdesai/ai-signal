@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html
 url_canonical: https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-01_061707_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 81ebd50c27e22dc28db9100c987cc795db8734ec6d488c4268d2f266e2b965e8
@@ -16,6 +16,8 @@ entities:
 - Amazon
 themes:
 - model-capabilities
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-growth-hits-a-four
@@ -33,7 +35,7 @@ On its Q2 call, Amazon lifted 2026 capital-spending guidance to about $220 billi
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-growth-hits-a-four]]
 **Related:** [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]]
 <!-- graph:end -->

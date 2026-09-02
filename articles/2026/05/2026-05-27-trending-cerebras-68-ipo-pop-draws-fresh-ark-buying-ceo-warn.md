@@ -6,7 +6,7 @@ date: '2026-05-27'
 source: Cerebras / The Motley Fool
 url_original: https://www.fool.com/investing/2026/05/27/cerebras-surged-68-on-its-first-day-of-trading-her/
 url_canonical: https://www.fool.com/investing/2026/05/27/cerebras-surged-68-on-its-first-day-of-trading-her/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 2a8c840c12f5989b18e0c4b95ff3ccc5ff5d22bcf5c781f379c665f16a568b43
@@ -18,6 +18,7 @@ entities:
 - TSMC
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Cerebras Systems' post-IPO rally — shares surged 68% on debut earlier this mon
 ## Connections
 
 **Entities:** [[Cerebras]] · [[TSMC]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Related:** [[2026-05-22-cerebras-ipo-surges-68-on-day-one-wall-street-remains-cool-o]] · [[2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14]] · [[2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr]] · [[2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t]]
 <!-- graph:end -->

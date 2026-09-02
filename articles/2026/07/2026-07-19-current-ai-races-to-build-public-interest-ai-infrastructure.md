@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ TechCrunch profiles Current AI, a nonprofit building open public AI infrastructu
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-19-nonprofit-current-ai-races-to-build-an-open-world-wide-web-o]] · [[2026-07-22-openai-s-planned-ai-infrastructure-spending-rises-to-750-bil]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]] · [[2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -35,6 +36,6 @@ Stanford's ninth annual AI Index Report delivers a sweeping portrait of accelera
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-04-13-stanford-2026-ai-index-swe-bench-scores-60-100-in-one-year-u]]
 <!-- graph:end -->

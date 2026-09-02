@@ -15,6 +15,7 @@ entities: []
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Hyperscaler capital-expenditure guidance now points to roughly $725B in combined
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]]
 <!-- graph:end -->

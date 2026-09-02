@@ -17,6 +17,7 @@ entities: []
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Startup Subquadratic launched SubQ 1M-Preview with $29M in seed funding, claimin
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-05-subq-launches-first-commercial-subquadratic-llm-with-12m-tok]] · [[2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w]] · [[2026-05-18-subquadratic-released-the-first-commercially-available-non-t]] · [[2026-05-05-trending-subquadratic-claims-1-000x-ai-efficiency-gain-resea]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]]
 <!-- graph:end -->

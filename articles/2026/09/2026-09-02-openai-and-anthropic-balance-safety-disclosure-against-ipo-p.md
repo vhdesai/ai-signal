@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Axios analyzed the same-day Fable 5.1 and Astra announcements as evidence of a s
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]] · [[2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk]]
 <!-- graph:end -->

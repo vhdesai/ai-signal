@@ -18,6 +18,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-31-cyrusone-kkr-blackrock-lays-ipo-groundwork-in-potential-mult
@@ -33,6 +34,6 @@ The Information reported that CyrusOne, the data-center operator owned by KKR an
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Canonical:** [[2026-07-31-cyrusone-kkr-blackrock-lays-ipo-groundwork-in-potential-mult]]
 <!-- graph:end -->

@@ -22,6 +22,7 @@ entities:
 - Tencent
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -43,6 +44,6 @@ U.S. and European semiconductor stocks sold off Friday on fears that soaring AI�
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Baidu]] · [[NVIDIA]] · [[OpenAI]] · [[Samsung]] · [[Tencent]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-08-19-chip-stocks-sell-off-as-investors-worry-about-ai-spending-sl]] · [[2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b]] · [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]]
 <!-- graph:end -->

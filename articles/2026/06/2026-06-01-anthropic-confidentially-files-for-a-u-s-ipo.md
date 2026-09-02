@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Anthropic confirmed it has confidentially filed for a U.S. initial public offeri
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o]] · [[2026-06-01-anthropic-confidentially-files-for-u-s-ipo]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]] · [[2026-08-21-anthropic-prepares-a-record-ipo-that-could-top-spacex-s-debu]]
 <!-- graph:end -->

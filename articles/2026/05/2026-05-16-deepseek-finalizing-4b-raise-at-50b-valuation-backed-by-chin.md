@@ -21,6 +21,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -43,6 +44,6 @@ DeepSeek, the Chinese AI lab best known for its efficiency-first R-series reason
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]] · [[2026-05-13-deepseek-reportedly-raising-7b-at-50b-valuation-led-by-china]]
 <!-- graph:end -->

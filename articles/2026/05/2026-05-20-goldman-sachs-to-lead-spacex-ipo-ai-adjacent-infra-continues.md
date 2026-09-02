@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ SpaceX selected Goldman Sachs as lead underwriter for its upcoming IPO, with a d
 ## Connections
 
 **Entities:** [[Google]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b]] · [[2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq]] · [[2026-06-03-anthropic-picks-morgan-stanley-and-goldman-sachs-to-lead-ipo]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]] · [[2026-08-13-spacex-stock-jumps-as-grok-release-ramps-up-ai-competition]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-05-22'
 source: Edgen.tech
 url_original: https://www.edgen.tech/
 url_canonical: https://www.edgen.tech/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 363444604c11901186990ae9694cf7370ef928d74cd6fdd58124e3a1bd8e5237
@@ -20,6 +20,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -42,6 +43,6 @@ DeepSeek, the Chinese AI lab whose open-weight models rattled the AI industry ea
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[Tencent]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-05-22-deepseek-raising-10b-founder-pledges-agi-mission-over-commer]]
 <!-- graph:end -->

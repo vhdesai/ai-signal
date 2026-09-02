@@ -16,6 +16,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-04-cerebras-prices-ipo-at-26-6b-valuation-seeks-3-5b
@@ -36,7 +38,7 @@ Cerebras Systems disclosed IPO terms seeking to raise up to $3.5 billion by sell
 ## Connections
 
 **Entities:** [[Cerebras]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-04-cerebras-prices-ipo-at-26-6b-valuation-seeks-3-5b]]
 **Related:** [[2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t]] · [[2026-05-10-cerebras-ipo-seeking-3-5b-at-26-6b-valuation]] · [[2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr]] · [[2026-05-02-ai-chip-maker-cerebras-systems-is-targeting-a-raise-of-up-to]]
 <!-- graph:end -->

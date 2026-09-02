@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: CNBC / Unite.AI
 url_original: https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html
 url_canonical: https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-11_061444_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 13156b04a0ed490ca832fe776cf77cc873c65f2e9b231db07edc059a212f40f6
@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Nvidia signed memoranda of understanding with Apollo, Blackstone, BlackRock, Bro
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-11-nvidia-signs-financing-mous-with-six-major-asset-managers-to]] · [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]] · [[2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f]]
 <!-- graph:end -->

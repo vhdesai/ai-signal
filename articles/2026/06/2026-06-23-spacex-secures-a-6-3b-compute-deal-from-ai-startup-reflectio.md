@@ -18,6 +18,7 @@ entities:
 - xAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ SpaceX signed a compute-capacity agreement with open-source AI startup Reflectio
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[Scale AI]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal]] · [[2026-06-23-spacex-signs-up-to-6-3b-compute-deal-with-reflection-ai]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-07-14-reflection-signs-1b-plus-nebius-compute-deal-as-open-model-l]] · [[2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-22-openai-and-getty-images-strike-multi-year-content-display-de
@@ -33,6 +34,6 @@ OpenAI signed a multi-year agreement to integrate Getty Images' licensed visual 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-06-22-openai-and-getty-images-strike-multi-year-content-display-de]]
 <!-- graph:end -->

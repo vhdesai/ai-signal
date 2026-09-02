@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy
@@ -30,6 +31,6 @@ Cyera raised $600 million, positioning it as one of the most valuable cybersecur
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy]]
 <!-- graph:end -->

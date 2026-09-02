@@ -4,8 +4,8 @@ title: Iran's IRGC issued a warning targeting 18 major U.S
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://blockonomi.com/irgc-issues-attack-warning-against-18-major-u-s-tech-firms-in-middle-east/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: cea868d7e6b57abcd7aa6f603adbebf0b3de4105c0342e1d0329b4f8bea66c7a

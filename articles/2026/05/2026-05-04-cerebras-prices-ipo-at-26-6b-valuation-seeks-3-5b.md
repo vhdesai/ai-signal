@@ -15,6 +15,8 @@ entities:
 - Cerebras
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +39,6 @@ Cerebras Systems disclosed terms for its long-awaited IPO: 28M shares at $115-$1
 ## Connections
 
 **Entities:** [[Cerebras]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-10-cerebras-ipo-seeking-3-5b-at-26-6b-valuation]] · [[2026-05-14-cerebras-systems-prices-5-55b-ipo-at-185-share-largest-u-s-t]] · [[2026-05-10-breakingcerebras-ipo-demand-forces-price-hike-4-8b-raise-exp]] · [[2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t]] · [[2026-05-15-cerebras-closes-ipo-at-95b-market-cap-kicking-off-2026-tech]] · [[2026-05-04-trendingcerebras-ipo-on-track-seeking-3-5b-at-26-6b-valuatio]]
 <!-- graph:end -->

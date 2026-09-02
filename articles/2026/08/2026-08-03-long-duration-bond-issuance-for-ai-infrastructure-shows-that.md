@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +34,6 @@ Long-duration bond issuance for AI infrastructure shows that data-center expansi
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs]]
 <!-- graph:end -->

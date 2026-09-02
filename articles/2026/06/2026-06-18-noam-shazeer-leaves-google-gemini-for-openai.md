@@ -5,7 +5,7 @@ date: '2026-06-18'
 source: TechCrunch; CNBC
 url_original: https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/
 url_canonical: https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-19_070311_Final-Daily-AI-News-Digest.md
 content_hash: 2609ac64951b5446e54a51778e33e63af5bb8c70f901fca3c98a0e0907bee737
 normalized_title_hash: f277533be002b80b
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Transformer co-author and Gemini VP departs 22 months after Google paid $2.7B to
 ## Connections
 
 **Entities:** [[Google]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-18-transformer-co-inventor-noam-shazeer-leaves-google-gemini-fo]] · [[2026-06-17-noam-shazeer-transformer-co-inventor-and-gemini-co-lead-leav]] · [[2026-06-19-noam-shazeer-co-author-of-the-foundational-2017-attention-is]] · [[2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr]] · [[2026-06-17-daily-ai-news-digest-june-18-2026]]
 <!-- graph:end -->

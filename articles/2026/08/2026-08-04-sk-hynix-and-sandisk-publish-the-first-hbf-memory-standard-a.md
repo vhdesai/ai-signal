@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: The Manila Times
 url_original: https://www.manilatimes.net/2026/08/04/tmt-newswire/pr-newswire/sk-hynix-unveils-first-hbf-standard-specifications-with-sandisk-presenting-ai-memory-solutions-at-fms-2026/2397569
 url_canonical: https://www.manilatimes.net/2026/08/04/tmt-newswire/pr-newswire/sk-hynix-unveils-first-hbf-standard-specifications-with-sandisk-presenting-ai-memory-solutions-at-fms-2026/2397569
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-04_062620_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 16261ef219cd1648edcefe1044f1f347e462f79cf06d86e62f5de762a9a2f3f1
@@ -17,6 +17,7 @@ entities:
 - Scale AI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-04-8-sk-hynix-and-sandisk-unveil-first-hbf-standard-specs-for-a
@@ -33,6 +34,6 @@ SK hynix and Sandisk unveiled the first standardized specifications for High-Ban
 ## Connections
 
 **Entities:** [[Google]] · [[Scale AI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-04-8-sk-hynix-and-sandisk-unveil-first-hbf-standard-specs-for-a]]
 <!-- graph:end -->

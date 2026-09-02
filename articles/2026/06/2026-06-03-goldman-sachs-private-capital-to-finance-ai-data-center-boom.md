@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Goldman Sachs projected that private infrastructure and real estate capital will
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-03-goldman-sachs-private-infrastructure-and-real-estate-capital]] · [[2026-08-31-ai-data-center-construction-sends-private-equity-into-the-tr]] · [[2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su]] · [[2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]]
 <!-- graph:end -->

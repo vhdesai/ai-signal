@@ -19,6 +19,8 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +42,6 @@ Three of the world's leading AI-adjacent companies — SpaceX, OpenAI, and Anthr
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble]] · [[2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip]] · [[2026-07-03-anthropic-taps-freshfields-to-steer-a-potential-trillion-dol]]
 <!-- graph:end -->

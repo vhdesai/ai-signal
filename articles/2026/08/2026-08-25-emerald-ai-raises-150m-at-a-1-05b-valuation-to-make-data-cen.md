@@ -18,6 +18,8 @@ entities:
 - Samsung
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-25-emerald-ai-raises-150m-at-1-05b-to-make-data-centers-flexibl
@@ -34,6 +36,6 @@ Emerald AI closed a $150M round led by DCVC and Energize Capital, with Nvidia, S
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[Salesforce]] · [[Samsung]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-25-emerald-ai-raises-150m-at-1-05b-to-make-data-centers-flexibl]]
 <!-- graph:end -->

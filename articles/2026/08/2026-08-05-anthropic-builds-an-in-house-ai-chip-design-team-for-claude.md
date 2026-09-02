@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: TechCrunch, Business Insider
 url_original: https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/
 url_canonical: https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 75d87c8cb49a2c7b02dccf444eac88ac13efd503ddcbce364a033954de0e3957
@@ -22,6 +22,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -43,6 +44,6 @@ Anthropic confirmed it is assembling a silicon team to co-design custom chips fo
 ## Connections
 
 **Entities:** [[Amazon]] · [[AMD]] · [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude]] · [[2026-08-05-anthropic-confirms-in-house-custom-chip-design-team-for-clau]] · [[2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud]] · [[2026-08-05-anthropic-confirms-it-is-building-an-in-house-custom-silicon]] · [[2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-nvidia-guarantees-105b-for-openai-s-ohio-8-gw-campus
@@ -34,6 +35,6 @@ Nvidia agreed to backstop up to $105 billion in lease financing for an SB Energy
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-17-nvidia-guarantees-105b-for-openai-s-ohio-8-gw-campus]]
 <!-- graph:end -->

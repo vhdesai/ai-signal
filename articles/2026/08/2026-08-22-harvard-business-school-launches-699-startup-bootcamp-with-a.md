@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/
 url_canonical: https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-23_060915_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: 001af65c3a1d9b5d7d57fed0230dd28d7173b4b7750de0aad2220a286f73e557
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-22-harvard-business-school-bootcamp-ships-ai-avatars-of-its-ins
@@ -30,6 +31,6 @@ HBS Foundry, a new $699 startup bootcamp, uses AI avatars of its instructors for
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-22-harvard-business-school-bootcamp-ships-ai-avatars-of-its-ins]]
 <!-- graph:end -->

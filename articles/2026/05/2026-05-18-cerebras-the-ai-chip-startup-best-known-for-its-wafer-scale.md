@@ -20,6 +20,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +41,6 @@ Cerebras, the AI chip startup best known for its wafer-scale processors, went pu
 ## Connections
 
 **Entities:** [[Amazon]] · [[Cerebras]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-02-ai-chip-maker-cerebras-systems-is-targeting-a-raise-of-up-to]] · [[2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr]] · [[2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t]]
 <!-- graph:end -->

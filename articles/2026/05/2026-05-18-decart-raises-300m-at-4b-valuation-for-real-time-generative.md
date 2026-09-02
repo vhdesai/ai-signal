@@ -17,6 +17,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Decart, developer of real-time generative video and GPU optimization technology,
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference]] · [[2026-08-13-anthropic-in-talks-to-acquire-israeli-startup-decart-for-abo]] · [[2026-07-17-databricks-reportedly-set-to-reach-188-billion-valuation-wit]] · [[2026-07-15-deepseek-nears-500m-revenue-and-prepares-for-public-market-p]] · [[2026-07-14-video-generation-startup-pixverse-raises-439m-at-a-2b-valuat]]
 <!-- graph:end -->

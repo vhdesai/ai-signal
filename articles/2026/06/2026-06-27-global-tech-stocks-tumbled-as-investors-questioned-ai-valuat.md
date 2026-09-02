@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Global tech stocks tumbled as investors questioned AI valuations and data‑cent
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers]] · [[2026-07-27-global-chip-rout-deepens-korea-s-kospi-trips-circuit-breaker]] · [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-07-13-sk-hynix-shares-plunge-12-15-in-seoul-triggering-kospi-circu]]
 <!-- graph:end -->

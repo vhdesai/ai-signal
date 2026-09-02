@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: TheStreet
 url_original: https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-26-2026
 url_canonical: https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-26-2026
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-26_061028_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 6fd79e71951992d22aec3b128334ef409f704db0fd9c8c84c051dde4df8c8a01
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ NVIDIA reports fiscal Q2 after today’s close in the sector’s most-watched pr
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-26-nvidia-beats-on-fiscal-q2-with-96-22b-revenue-shares-still-s]] · [[2026-08-01-nvidia-to-report-q2-fy2027-results-on-august-26-with-ai-chip]] · [[2026-08-25-nvidia-q2-report-becomes-the-market-s-scorecard-for-ai-capex]] · [[2026-08-09-nvidia-heads-into-q2-print-as-the-sector-s-next-repricing-ev]] · [[2026-08-26-nasdaq-futures-edge-lower-ahead-of-pce-data-and-nvidia-earni]]
 <!-- graph:end -->

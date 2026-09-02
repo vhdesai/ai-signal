@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: OpenAI Developer Community / GitHub
 url_original: https://community.openai.com/t/introducing-the-open-source-codex-security-cli/1388319
 url_canonical: https://community.openai.com/t/introducing-the-open-source-codex-security-cli/1388319
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 43ec3be0d8882058a441dc19b9740e6f6b9f35981bfa50979c1f88cd26049dea

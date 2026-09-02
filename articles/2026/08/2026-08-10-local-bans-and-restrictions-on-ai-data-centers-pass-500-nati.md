@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Reporting published today puts the number of local U.S. laws seeking to ban or r
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t]] · [[2026-08-10-us-data-center-bans-pass-500-jurisdictions]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]]
 <!-- graph:end -->

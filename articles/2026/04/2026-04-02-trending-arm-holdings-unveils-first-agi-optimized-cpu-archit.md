@@ -17,6 +17,7 @@ entities:
 - Arm
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ event_name: ''
 ## Connections
 
 **Entities:** [[Arm]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-06-arm-announced-a-136-core-processor-designed-specifically-for]] · [[2026-04-02-arm-holdings-whose-instruction-set-architecture-underpins-ch]] · [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]] · [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex]] · [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]]
 <!-- graph:end -->

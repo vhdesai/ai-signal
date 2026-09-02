@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/
 url_canonical: https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-26_060307_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 04a71c7f0733c066238052435d6909254f5ffb561beb3e4fa4716580fc8494c9
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Stability AI closed a $76 million Series B, bringing total funding to $232 milli
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-25-stability-ai-raises-76m-series-b-backed-by-universal-warner]] · [[2026-08-25-stability-ai-raises-76m-from-universal-music-sony-warner-and]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-18-reach-capital-closes-265m-fund-v-for-applied-ai-founders]]
 <!-- graph:end -->

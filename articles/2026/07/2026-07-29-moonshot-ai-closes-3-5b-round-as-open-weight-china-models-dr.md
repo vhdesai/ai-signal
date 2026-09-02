@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/322091/20260729/moonshot-ai-closes-35b-round-its-open-weights-come-china-data-risk.htm
 url_canonical: https://www.techtimes.com/articles/322091/20260729/moonshot-ai-closes-35b-round-its-open-weights-come-china-data-risk.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-30_062819_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: befff337c9e84dc43d7829d2a9edb23418f75aa5a98319c130b69c156ff126f1
@@ -19,6 +19,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ Moonshot AI, the Alibaba-backed Beijing lab behind the open-weight Kimi K3 model
 ## Connections
 
 **Entities:** [[Alibaba]] · [[DeepSeek]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes]] · [[2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model]] · [[2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops]]
 <!-- graph:end -->

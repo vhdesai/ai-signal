@@ -6,7 +6,7 @@ date: '2026-06-08'
 source: Wired
 url_original: https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/
 url_canonical: https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-09_063948_Daily-AI-News-Digest.md
 content_hash: c9c4a78b3b9e5486ac67af57d39981bb7500524ff1092d5309909e473327d935
 normalized_title_hash: 938005fa4fe293d4
@@ -18,6 +18,7 @@ entities:
 - AMD
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Wired reported that the UK is making a major investment in a billion-dollar AI s
 ## Connections
 
 **Entities:** [[AMD]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s]] · [[2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk]] · [[2026-08-21-brazil-launches-ai-supercomputer-push-with-both-u-s-and-chin]] · [[2026-07-30-eu-commits-10b-to-seven-ai-gigafactories-in-race-with-u-s-an]]
 <!-- graph:end -->

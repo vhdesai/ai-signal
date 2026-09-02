@@ -5,7 +5,7 @@ date: '2026-08-31'
 source: Forbes / TechStartups
 url_original: https://www.forbes.com/sites/jonmarkman/2026/08/31/openai-cuts-off-cursor-after-spacexs-60-billion-takeover/
 url_canonical: https://www.forbes.com/sites/jonmarkman/2026/08/31/openai-cuts-off-cursor-after-spacexs-60-billion-takeover/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: 32ba189f205df855b7aceffdf12261716c6458e8c4afd47d74e71e856484f676
 normalized_title_hash: 77bd9d79803192d6
@@ -19,6 +19,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-openai-cuts-off-cursor-after-spacex-s-60-billion-takeover
@@ -35,6 +36,6 @@ OpenAI will end Cursor's direct model access on November 12, citing an inability
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-31-openai-cuts-off-cursor-after-spacex-s-60-billion-takeover]]
 <!-- graph:end -->

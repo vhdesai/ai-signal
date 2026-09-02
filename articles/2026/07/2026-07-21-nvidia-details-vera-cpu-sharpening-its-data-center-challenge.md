@@ -5,7 +5,7 @@ date: '2026-07-21'
 source: CNBC**
 url_original: https://www.cnbc.com/2026/07/21/nvidia-vera-cpu-ai-amd-intel.html
 url_canonical: https://www.cnbc.com/2026/07/21/nvidia-vera-cpu-ai-amd-intel.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-23_065018_Final-Daily-AI-News-Digest.md
 content_hash: 5ebacdd214203b191ded6e6221cb6b82cb00d4b4c586bccd61f287e20bb74c15
 normalized_title_hash: 6167ad2b96147d46
@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-21-nvidia-details-vera-cpu-opening-a-new-front-against-amd-and
@@ -38,7 +39,7 @@ Nvidia released new technical specs for Vera, its next-gen data-center CPU that 
 ## Connections
 
 **Entities:** [[AMD]] · [[Intel]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-21-nvidia-details-vera-cpu-opening-a-new-front-against-amd-and]]
 **Related:** [[2026-07-21-nvidia-details-vera-cpu-for-ai-agent-workloads]] · [[2026-07-27-nvidia-deploys-vera-cpu-to-accelerate-chip-design-workflows]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]]
 <!-- graph:end -->

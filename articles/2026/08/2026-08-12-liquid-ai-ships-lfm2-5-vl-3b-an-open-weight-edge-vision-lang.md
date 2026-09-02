@@ -17,6 +17,7 @@ entities: []
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-liquid-ai-releases-lfm2-5-vl-3b-for-on-device-vision-languag
@@ -32,6 +33,6 @@ Liquid AI released LFM2.5-VL-3B, a 3.1-billion-parameter open-weight vision-lang
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-12-liquid-ai-releases-lfm2-5-vl-3b-for-on-device-vision-languag]]
 <!-- graph:end -->

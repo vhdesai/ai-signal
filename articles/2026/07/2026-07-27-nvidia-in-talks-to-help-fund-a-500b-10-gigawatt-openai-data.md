@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: Forbes
 url_original: https://www.forbes.com/sites/tylerroush/2026/07/27/nvidia-and-openai-discussing-500-billion-data-center-heres-what-we-know/
 url_canonical: https://www.forbes.com/sites/tylerroush/2026/07/27/nvidia-and-openai-discussing-500-billion-data-center-heres-what-we-know/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-28_060942_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: 37ac1e76bf5d8293784a0c47acca05a10d774a9c5f2af62e769493618232ab17
@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-nvidia-in-talks-to-guarantee-250b-financing-for-openai-s-pla
@@ -37,7 +38,7 @@ Nvidia has discussed providing up to $250 billion to help OpenAI lease a propose
 ## Connections
 
 **Entities:** [[Meta]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-27-nvidia-in-talks-to-guarantee-250b-financing-for-openai-s-pla]]
 **Related:** [[2026-07-26-nvidia-weighs-250b-financing-backstop-for-openai-s-10-gigawa]] · [[2026-08-15-nvidia-in-talks-to-invest-3b-in-softbank-s-sb-energy-for-ope]]
 <!-- graph:end -->

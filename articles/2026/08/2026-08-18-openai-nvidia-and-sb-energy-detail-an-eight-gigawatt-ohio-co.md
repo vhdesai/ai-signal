@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ The Pike County, Ohio project is structured as a 20-year site commitment with a 
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-20-ports-pike-advances-as-an-8-gw-ai-infrastructure-template-an]] · [[2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai]]
 <!-- graph:end -->

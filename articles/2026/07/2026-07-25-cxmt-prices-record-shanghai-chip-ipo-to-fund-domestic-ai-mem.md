@@ -18,6 +18,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -34,6 +35,6 @@ China’s ChangXin Memory Technologies, a flagship DRAM maker, is reportedly pri
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-25-china-s-cxmt-debuts-on-shanghai-s-star-market-with-an-8-6b-r]]
 <!-- graph:end -->

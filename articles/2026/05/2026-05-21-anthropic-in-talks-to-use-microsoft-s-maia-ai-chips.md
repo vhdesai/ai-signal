@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Anthropic is reportedly negotiating to rent servers powered by Microsoft's in-ho
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-21-microsoft-in-talks-to-supply-maia-200-chips-to-anthropic-fol]] · [[2026-05-25-anthropic-eyes-microsoft-maia-200-as-5th-silicon-partner]] · [[2026-05-21-anthropic-in-talks-to-rent-microsoft-ai-chip-powered-servers]] · [[2026-08-05-anthropic-confirms-it-is-building-an-in-house-custom-silicon]] · [[2026-08-04-anthropic-signs-reported-10b-six-year-compute-deal-with-nvid]]
 <!-- graph:end -->

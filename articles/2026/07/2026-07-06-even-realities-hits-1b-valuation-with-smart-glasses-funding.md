@@ -19,6 +19,7 @@ entities:
 - Tencent
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -36,6 +37,6 @@ Even Realities raised $150 million at a $1 billion valuation for camera-free AI 
 ## Connections
 
 **Entities:** [[Tencent]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-06-even-realities-hits-1b-valuation-on-150m-from-meituan-and-te]]
 <!-- graph:end -->

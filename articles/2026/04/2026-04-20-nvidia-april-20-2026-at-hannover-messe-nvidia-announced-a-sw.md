@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ NVIDIA • April 20, 2026 At Hannover Messe, NVIDIA announced a sweep of industr
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-20-nvidia-april-20-2026-hannover-messe-nvidia-announced-an-expa]] · [[2026-04-20-nvidia-deepens-agentic-ai-partnerships-with-adobe-and-wpp]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-08-05-nvidia-joins-nsf-regional-ai-infrastructure-hubs-program]] · [[2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr]]
 <!-- graph:end -->

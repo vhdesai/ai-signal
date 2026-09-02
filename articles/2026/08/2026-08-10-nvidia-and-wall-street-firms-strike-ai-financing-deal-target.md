@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz
@@ -37,7 +38,7 @@ NVIDIA and major Wall Street firms reportedly struck an AI financing deal target
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]]
 **Related:** [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-08-11-nvidia-and-wall-street-launch-500b-ai-financing-alliance]] · [[2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f]] · [[2026-08-13-nvidia-anchors-a-500b-financing-consortium-to-fund-ai-data-c]]
 <!-- graph:end -->

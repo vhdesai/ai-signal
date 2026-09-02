@@ -5,7 +5,7 @@ date: '2026-05-21'
 source: 'Source: The Decoder / Wall Street Journal'
 url_original: https://the-decoder.com/anthropic-is-about-to-become-the-first-profitable-ai-lab/
 url_canonical: https://the-decoder.com/anthropic-is-about-to-become-the-first-profitable-ai-lab/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 870854b4dfe0c8f4150cb1b2881e9b28a32e99f5f0ae00221d3b35f8b743ff53
@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-21-anthropic-hits-first-profit-559m-on-10-9b-q2-revenue
@@ -34,6 +35,6 @@ Anthropic projects a Q2 2026 operating profit of $559 million on $10.9 billion i
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-05-21-anthropic-hits-first-profit-559m-on-10-9b-q2-revenue]]
 <!-- graph:end -->

@@ -21,6 +21,7 @@ entities:
 - Oracle
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-big-tech-ai-purchase-commitments-approach-1-5-trillion
@@ -37,6 +38,6 @@ The Financial Times reports that Alphabet, Microsoft, Amazon, Nvidia, Oracle, an
 ## Connections
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[Oracle]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-14-big-tech-ai-purchase-commitments-approach-1-5-trillion]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-07'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/
 url_canonical: https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-08_071435_Final-Daily-AI-News-Digest.md
 content_hash: 67c4bf9ce1522451411465d451b3eb97d4a346f1206d9eab37aa13931f851b0c
 normalized_title_hash: dd6ee5d66d9ff77b
@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Doosan Robotics is integrating Nvidia Isaac, Cosmos world-foundation models, and
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-15-nvidia-introduces-jetson-thor-t3000-t2000-for-mainstream-rob]] · [[2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-08-25-nvidia-unveils-jetson-orin-nano-2-for-entry-level-edge-ai-an]] · [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/
 url_canonical: https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-05_061956_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: cf9d8dd1e734f256a2ffcba6aa4c9e4eb05f65bdaedaaf9442c3d46319feec82
@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu
@@ -35,6 +36,6 @@ Anthropic agreed to a six-year, roughly $10 billion arrangement for computing ca
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu]]
 <!-- graph:end -->

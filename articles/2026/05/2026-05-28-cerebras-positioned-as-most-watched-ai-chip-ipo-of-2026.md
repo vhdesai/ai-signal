@@ -19,6 +19,8 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +42,6 @@ A May 28 Motley Fool feature characterized Cerebras as the most-anticipated AI c
 ## Connections
 
 **Entities:** [[Cerebras]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale]] · [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]] · [[2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr]]
 <!-- graph:end -->

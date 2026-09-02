@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: The News International
 url_original: https://www.thenews.com.pk/latest/1413412-nvidia-ai-server-prices-rise-giving-samsung-more-power
 url_canonical: https://www.thenews.com.pk/latest/1413412-nvidia-ai-server-prices-rise-giving-samsung-more-power
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_085500_Final-Daily-AI-News-Digest.md
 content_hash: 2da9fde524b7188e7a5a657bca7c3a3752052cd8ab0787cb57a6f9e2d8150060
 normalized_title_hash: baef78858291fb44
@@ -17,6 +17,7 @@ entities:
 - Samsung
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ The same memory shortage driving Nvidia's price increases is strengthening the n
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[Samsung]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-25-nvidia-locks-down-sk-hynix-memory-supply-in-a-deal-potential]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]]
 <!-- graph:end -->

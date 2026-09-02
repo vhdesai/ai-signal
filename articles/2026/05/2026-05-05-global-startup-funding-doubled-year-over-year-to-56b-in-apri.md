@@ -17,6 +17,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Global startup funding doubled year-over-year to $56B in April, marking the thir
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-09-global-venture-funding-reached-56-billion-in-april-2026-the]] · [[2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai]] · [[2026-06-11-jeff-bezos-s-prometheus-raises-12b-to-build-an-artificial-ge]] · [[2026-07-07-north-american-startup-funding-hit-a-record-392b-in-h1-2026]] · [[2026-06-11-jeff-bezos-s-prometheus-raises-12b-largest-ai-startup-round]]
 <!-- graph:end -->

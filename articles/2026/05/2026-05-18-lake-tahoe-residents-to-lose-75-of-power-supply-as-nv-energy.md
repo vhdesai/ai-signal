@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ NV Energy notified Liberty Utilities that it will end the bulk of its wholesale 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-07-25-single-downed-power-line-dropped-3-1-gw-of-data-centers-expo]] · [[2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline]] · [[2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth]] · [[2026-07-25-one-fallen-power-line-trips-3-1-gw-of-ai-data-centers]]
 <!-- graph:end -->

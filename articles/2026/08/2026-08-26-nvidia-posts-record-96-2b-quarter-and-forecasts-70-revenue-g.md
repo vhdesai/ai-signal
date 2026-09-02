@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html
 url_canonical: https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-27_060153_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 9c89ec1bf455e7b31a89032e53ce3d4452144f7f227b38414c13ca4ce2575532
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-nvidia-beats-on-fiscal-q2-with-96-22b-revenue-shares-still-s
@@ -33,6 +34,6 @@ Nvidia reported second-quarter fiscal 2027 revenue of $96.2 billion, up 106% yea
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-26-nvidia-beats-on-fiscal-q2-with-96-22b-revenue-shares-still-s]]
 <!-- graph:end -->

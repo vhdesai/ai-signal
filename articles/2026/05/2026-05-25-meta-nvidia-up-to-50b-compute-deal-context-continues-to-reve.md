@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Coverage this week continued to digest the up-to-$50B Meta–NVIDIA compute arra
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]] · [[2026-08-14-nvidia-s-500b-compute-financing-platform-draws-private-credi]]
 <!-- graph:end -->

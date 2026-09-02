@@ -18,6 +18,8 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +40,6 @@ SoftBank's SB Energy issued OpenAI stock warrants now valued at roughly $5.5 bil
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-31-sb-energy-granted-openai-warrants-valued-near-5-5b-to-secure]] · [[2026-08-31-sb-energy-issued-openai-warrants-now-valued-near-5-5b-to-sec]] · [[2026-08-30-openai-received-5-5b-in-sb-energy-warrants-ahead-of-softbank]] · [[2026-09-02-softbank-s-sb-energy-files-to-go-public-naming-openai-as-chi]]
 <!-- graph:end -->

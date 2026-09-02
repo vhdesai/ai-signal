@@ -5,7 +5,7 @@ date: '2026-06-21'
 source: Business Insider
 url_original: https://www.businessinsider.com/deepfake-expert-ai-video-images-hard-to-know-whats-real-2026-6
 url_canonical: https://www.businessinsider.com/deepfake-expert-ai-video-images-hard-to-know-whats-real-2026-6
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-21_060000_Daily-AI-News-Digest.md
 content_hash: e8a3758e652dd1fafa9ee5264470bacd78f48ef32cf74b382f84606c2b3d0fa2
 normalized_title_hash: 42cb510200b850ed

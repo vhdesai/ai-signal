@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=China%20DUV%20chipmaking%20tools
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=China%20DUV%20chipmaking%20tools
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-29_065704_Final-Daily-AI-News-Digest.md
 content_hash: aa09b570eaefc0bc6bcc85de8e72d012a4ff3c67e3004cc410a30050cda7a03c
 normalized_title_hash: 4ed55ffac511ea4e

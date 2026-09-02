@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ AMD announced more than $10 billion in capital commitments across Taiwan's semic
 ## Connections
 
 **Entities:** [[AMD]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki]] · [[2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of]] · [[2026-07-23-amd-takes-on-nvidia-with-helios-rack-scale-ai-system]] · [[2026-07-30-eu-commits-10b-to-seven-ai-gigafactories-in-race-with-u-s-an]] · [[2026-05-28-nvidia-plans-new-taiwan-hq-and-100-150b-annual-taiwan-invest]]
 <!-- graph:end -->

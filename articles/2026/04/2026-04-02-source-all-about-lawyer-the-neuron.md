@@ -22,6 +22,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -43,6 +44,6 @@ Big Tech AI Capex Approaches $700 Billion — Q1 Spend Up 45% YoY Combined Q1 20
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[Oracle]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-04-big-tech-s-725b-ai-capex-wave-google-amazon-microsoft-meta-i]]
 <!-- graph:end -->

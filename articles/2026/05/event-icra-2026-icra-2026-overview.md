@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: ICRA 2026
 url_original: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
 url_canonical: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
-url_status: broken
+url_status: found
 digest_source: digests\raw\icra-2026.md
 content_hash: b49e3e9973ea09e22775f04ada59f7115f56ff20219decf7d537e0f49d07a6e2
 normalized_title_hash: 960e1a4b0777ff75
@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: event-icra-2026-icra-2026-nvidia-research-robotics-papers
@@ -32,6 +33,6 @@ ICRA 2026 appears in the late-May corpus as the robotics event that extends the 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[event-icra-2026-icra-2026-nvidia-research-robotics-papers]]
 <!-- graph:end -->

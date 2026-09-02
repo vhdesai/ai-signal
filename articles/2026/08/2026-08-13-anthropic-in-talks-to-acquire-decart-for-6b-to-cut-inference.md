@@ -5,7 +5,7 @@ date: '2026-08-13'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/anthropic-talks-acquire-israeli-ai-121409676.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/anthropic-talks-acquire-israeli-ai-121409676.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-14_084159_Final-Daily-AI-News-Digest.md
 content_hash: 86bd615a8a5b5ade1547e43677491ecd6ec267d552f8424b90ce3f4fffecf80e
 normalized_title_hash: b671091b0b77125f
@@ -18,6 +18,8 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren
@@ -35,7 +37,7 @@ Anthropic is in early-stage talks to acquire Decart AI, which builds GPU optimiz
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Canonical:** [[2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren]]
 **Related:** [[2026-08-13-anthropic-in-talks-to-acquire-israeli-startup-decart-for-abo]]
 <!-- graph:end -->

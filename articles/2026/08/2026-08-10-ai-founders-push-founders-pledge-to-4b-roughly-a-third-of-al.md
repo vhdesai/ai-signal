@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: Wired
 url_original: https://aiweekly.co/alerts/ai-founders-push-founders-pledge-to-4b-a-third-of-all-pledges
 url_canonical: https://aiweekly.co/alerts/ai-founders-push-founders-pledge-to-4b-a-third-of-all-pledges
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-10_061806_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: c15cdb3b963065e3d419cd0d1070d495ad6cc11318ed562cc850f0688931003b

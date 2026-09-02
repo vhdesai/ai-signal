@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: VentureBeat
 url_original: https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message
 url_canonical: https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 52605e5e1ce7ff678a40c18c63cce8aaf7c9a7e5c08f7b0a49a6008c0a190c95

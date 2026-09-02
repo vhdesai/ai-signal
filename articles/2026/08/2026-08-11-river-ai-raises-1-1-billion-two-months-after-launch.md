@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/
 url_canonical: https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-12_060916_Inbox_Daily AI News Digest - August 12,
   2026.md
 content_hash: cea46bd6965a91f4621f7fd78a4b8141d55a9b771742f89fe3e0e35269bc0287
@@ -19,6 +19,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ River AI, founded by xAI co-founder Igor Babuschkin, raised $1.1 billion in a se
 ## Connections
 
 **Entities:** [[AMD]] · [[NVIDIA]] · [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-11-river-ai-raises-1-1b-for-open-weights-post-training-cloud]] · [[2026-08-11-river-ai-raises-1-1b-for-an-open-weights-post-training-cloud]] · [[2026-08-11-cognition-in-early-talks-at-40b-valuation-river-ai-raises-1]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]]
 <!-- graph:end -->

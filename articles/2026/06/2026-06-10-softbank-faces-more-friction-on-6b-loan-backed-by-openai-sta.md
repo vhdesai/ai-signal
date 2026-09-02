@@ -19,6 +19,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ SoftBank is reportedly running into additional problems borrowing $6 billion sec
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake]] · [[2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak]] · [[2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new]] · [[2026-07-27-softbank-s-40b-openai-loan-draws-21-new-lenders]]
 <!-- graph:end -->

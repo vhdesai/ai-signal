@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: The Economic Times
 url_original: https://datacenters.economictimes.indiatimes.com/news/construction-site-development/googles-15-billion-india-data-centre-faces-water-wildlife-protests/133020136
 url_canonical: https://datacenters.economictimes.indiatimes.com/news/construction-site-development/googles-15-billion-india-data-centre-faces-water-wildlife-protests/133020136
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_084748_Final-Daily-AI-News-Digest.md
 content_hash: 15488e69e765c9c79ff2167969667382486d8aec67600c4f11eb6b6c9272b618
 normalized_title_hash: b0e9ea69779c0878
@@ -16,6 +16,7 @@ entities:
 - Google
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Google's planned $15 billion AI and data-center hub in Visakhapatnam—developed
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-06-05-airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-indi]] · [[2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back]] · [[2026-05-19-microsoft-india-s-largest-data-center-on-track-for-mid-2026]]
 <!-- graph:end -->

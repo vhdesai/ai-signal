@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ event_name: ''
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-17-ecb-blog-predicts-ai-tech-stock-market-correction-is-likely]] · [[2026-08-12-michael-burry-calls-nvidia-s-500b-ai-financing-push-a-wall-s]] · [[2026-05-09-michael-burry-expands-ai-short-palantir-nvidia-oracle-into-2]] · [[2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv]] · [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]]
 <!-- graph:end -->

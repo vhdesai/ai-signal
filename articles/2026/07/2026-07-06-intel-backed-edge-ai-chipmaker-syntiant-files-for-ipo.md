@@ -17,6 +17,7 @@ entities:
 - Intel
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Syntiant, an Intel-backed maker of ultra-low-power edge-AI processors, has filed
 ## Connections
 
 **Entities:** [[Cerebras]] · [[Intel]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Related:** [[2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale]] · [[2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr]] · [[2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t]]
 <!-- graph:end -->

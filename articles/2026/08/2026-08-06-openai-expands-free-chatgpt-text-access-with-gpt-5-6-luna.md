@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/
 url_canonical: https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-08_060643_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 37a1e6f473112d16d97a2b7f75bcc0cc1879528cb2f4474d17d41d6ac8fa3f4b

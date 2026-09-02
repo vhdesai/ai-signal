@@ -5,7 +5,7 @@ date: '2026-07-16'
 source: The Next Web
 url_original: https://thenextweb.com/news/nokia-nvidia-ai-ran-platform-2027
 url_canonical: https://thenextweb.com/news/nokia-nvidia-ai-ran-platform-2027
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-17_092848_Final-Daily-AI-News-Digest.md
 content_hash: a7cd76b3c3f07fa0b5fff6115d422dbcfc7a6887c82766f4c247f26ee060bd6a
 normalized_title_hash: 386d189abdfa4447
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Nokia and NVIDIA unveiled a commercial AI-RAN platform that runs radio-access ne
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-16-nokia-and-nvidia-unveil-the-first-commercial-ai-ran-platform]] · [[2026-08-29-nvidia-wants-to-run-the-world-s-robots-and-china-is-an-eager]] · [[2026-08-29-nvidia-wants-to-run-the-world-s-robots-china-is-an-eager-cus]] · [[2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu]]
 <!-- graph:end -->

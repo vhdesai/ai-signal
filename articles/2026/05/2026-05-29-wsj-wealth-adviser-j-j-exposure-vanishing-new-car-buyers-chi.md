@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +39,6 @@ The Wealth Adviser brief flagged three macro stories advisers are fielding from 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk]] · [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-05-19-amazon-s-ai-race-and-the-reshaping-of-wealth-management]] · [[2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-07-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/
 url_canonical: https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-26_061151_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: c7dfd10e118e22db6ea10b7ad1879e41a2c16ecdef8c58d0d339efd0d3a22930
@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -33,6 +34,6 @@ A power-line fault outside Washington, D.C. on July 25 caused more than 3.1 GW o
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-25-fallen-power-line-exposes-ai-data-center-grid-stability-prob]]
 <!-- graph:end -->

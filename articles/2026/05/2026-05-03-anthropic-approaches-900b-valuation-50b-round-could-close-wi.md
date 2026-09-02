@@ -25,6 +25,9 @@ entities:
 - xAI
 themes:
 - company-storylines
+- ma-activity
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -46,6 +49,6 @@ Anthropic Approaches $900B+ Valuation — $50B Round Could Close Within Two Week
 ## Connections
 
 **Entities:** [[Amazon]] · [[AMD]] · [[Anthropic]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-15-anthropic-potential-30b-funding-round-could-push-valuation-t]] · [[2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o]] · [[2026-05-17-industry-news-deals-anthropic-in-talks-to-raise-30-50b-at-up]]
 <!-- graph:end -->

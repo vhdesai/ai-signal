@@ -18,6 +18,8 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-19-hot-mistral-ai-acquires-emmi-ai-building-europe-s-leading-in
@@ -34,6 +36,6 @@ Mistral AI has acquired Vienna-based startup Emmi AI for an undisclosed sum, mar
 ## Connections
 
 **Entities:** [[Mistral]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Canonical:** [[2026-05-19-hot-mistral-ai-acquires-emmi-ai-building-europe-s-leading-in]]
 <!-- graph:end -->

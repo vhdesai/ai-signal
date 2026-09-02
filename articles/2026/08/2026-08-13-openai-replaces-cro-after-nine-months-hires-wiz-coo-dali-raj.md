@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ OpenAI replaced CRO Denise Dresser after just nine months, hiring Wiz president 
 ## Connections
 
 **Entities:** [[IBM]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-14-openai-cro-dresser-departs-after-8-months-replaced-by-former]] · [[2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by]] · [[2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving]] · [[2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent]]
 <!-- graph:end -->

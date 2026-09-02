@@ -22,6 +22,7 @@ entities:
 - Tencent
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -44,6 +45,6 @@ Nvidia warns demand continues to outstrip production capacity even with 17% pric
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]] · [[Salesforce]] · [[Tencent]]
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-26-bill-gates-warns-about-ai-risks]] · [[2026-05-17-microsoft-copilot-ai-intelligence-briefing]] · [[2026-08-15-daily-ai-news-digest-august-16-2026]]
 <!-- graph:end -->

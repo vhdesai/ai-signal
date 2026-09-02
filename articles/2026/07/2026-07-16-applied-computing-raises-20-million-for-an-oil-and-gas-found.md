@@ -18,6 +18,7 @@ entities:
 - Databricks
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Applied Computing raised a $20 million Series A led by KBR, with Databricks Vent
 ## Connections
 
 **Entities:** [[Databricks]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-21-starcloud-raises-250-million-for-orbital-ai-data-centers]] · [[2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole]] · [[2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud]] · [[2026-08-21-starcloud-adds-250-million-for-orbital-ai-data-centers]] · [[2026-08-14-hyperscaler-natural-gas-bets-may-create-new-ai-data-center-c]]
 <!-- graph:end -->

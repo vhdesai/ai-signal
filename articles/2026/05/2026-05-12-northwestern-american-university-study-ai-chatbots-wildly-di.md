@@ -23,6 +23,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -44,6 +45,6 @@ A joint study by researchers at Northwestern University and American University 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[Google]] · [[Microsoft]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-23-researchers-from-northwestern-and-american-university-tested]] · [[2026-05-15-researchers-at-northwestern-university-and-american-universi]] · [[2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl]] · [[2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r]] · [[2026-05-17-microsoft-corp-dev-ai-intelligence]]
 <!-- graph:end -->

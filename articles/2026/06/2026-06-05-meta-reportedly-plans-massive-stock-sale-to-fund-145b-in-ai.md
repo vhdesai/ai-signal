@@ -17,6 +17,7 @@ entities:
 - Meta
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
@@ -33,6 +34,6 @@ Meta is considering raising tens of billions through equity sales to fund ~$145B
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - TSMC
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman
@@ -33,6 +34,6 @@ TSMC reported ~45% YoY growth in July revenue, driven by AI accelerator and adva
 ## Connections
 
 **Entities:** [[TSMC]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman]]
 <!-- graph:end -->

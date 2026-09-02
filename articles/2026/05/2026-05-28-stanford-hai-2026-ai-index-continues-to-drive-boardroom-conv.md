@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +39,6 @@ Stanford's 2026 AI Index — the year's most-cited independent measurement — r
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-27-stanford-hai-2026-ai-index-continuing-analysis]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-08-30'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/tech/ai/the-5-5-billion-perk-softbanks-data-center-venture-offered-to-land-openai-a5c7fb5e
 url_canonical: https://www.wsj.com/tech/ai/the-5-5-billion-perk-softbanks-data-center-venture-offered-to-land-openai-a5c7fb5e
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: 3484322542b655073902e1c36264486aabd915cf55f44b0e2e0d710c18ecfb89
 normalized_title_hash: 8833d1c355b4a94b
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Draft IPO documents show SB Energy — the SoftBank venture powering OpenAI's St
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-30-openai-received-about-5-5-billion-in-sb-energy-warrants-ahea]] · [[2026-08-31-sb-energy-issued-openai-warrants-now-valued-near-5-5b-to-sec]] · [[2026-08-31-sb-energy-granted-openai-5-5b-in-warrants-to-secure-a-20-yea]] · [[2026-08-31-sb-energy-granted-openai-warrants-valued-near-5-5b-to-secure]] · [[2026-09-02-softbank-s-sb-energy-files-to-go-public-naming-openai-as-chi]]
 <!-- graph:end -->

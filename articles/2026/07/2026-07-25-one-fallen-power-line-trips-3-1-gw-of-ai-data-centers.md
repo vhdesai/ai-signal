@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +34,6 @@ A single failure outside Washington, D.C., reportedly caused more than 3.1 GW of
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-25-fallen-power-line-exposes-ai-data-center-grid-stability-prob]] · [[2026-07-25-one-fallen-power-line-exposes-a-growing-ai-data-center-probl]]
 <!-- graph:end -->

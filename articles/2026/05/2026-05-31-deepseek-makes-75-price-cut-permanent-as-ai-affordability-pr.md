@@ -6,7 +6,7 @@ date: '2026-05-31'
 source: The Financial Express*
 url_original: https://www.financialexpress.com/life/technology-ai-affordability-wakeup-call-anthropics-65bn-mega-round-and-indias-first-12nm-ai-chip-weekly-ai-roundup-4255352/
 url_canonical: https://www.financialexpress.com/life/technology-ai-affordability-wakeup-call-anthropics-65bn-mega-round-and-indias-first-12nm-ai-chip-weekly-ai-roundup-4255352/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-31_163845_Daily-AI-News-Digest.md
 content_hash: 38f6f38c64d2ad590e31a9140d06325033c7f179b0db36fdc14936e6ceb89cc3
 normalized_title_hash: d37688c49ccc115b

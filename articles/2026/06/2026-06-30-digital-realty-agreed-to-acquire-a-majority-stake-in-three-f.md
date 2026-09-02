@@ -16,6 +16,8 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- ma-activity
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +37,6 @@ Digital Realty agreed to acquire a majority stake in three fully-leased Northern
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]] · [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]] · [[2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da]] · [[2026-08-17-nvidia-guarantees-up-to-105b-in-financing-for-openai-s-ohio]]
 <!-- graph:end -->

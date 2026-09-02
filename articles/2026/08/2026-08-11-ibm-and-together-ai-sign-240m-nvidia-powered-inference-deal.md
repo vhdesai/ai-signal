@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-ibm-and-together-ai-sign-240m-deal-for-an-nvidia-powered-inf
@@ -36,6 +37,6 @@ IBM and Together AI signed a $240M multiyear agreement to build a large inferenc
 ## Connections
 
 **Entities:** [[IBM]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-11-ibm-and-together-ai-sign-240m-deal-for-an-nvidia-powered-inf]]
 <!-- graph:end -->

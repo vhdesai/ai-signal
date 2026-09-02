@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ OpenAI confirmed its confidential S-1 filing with the SEC on Friday May 22, with
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-25-openai-preparing-confidential-s-1-targeting-1t-ipo-valuation]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]] · [[2026-05-22-openai-files-s-1-targeting-september-ipo-at-1t-valuation]]
 <!-- graph:end -->

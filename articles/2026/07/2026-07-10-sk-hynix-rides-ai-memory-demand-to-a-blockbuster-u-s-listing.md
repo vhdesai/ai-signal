@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory
@@ -36,7 +37,7 @@ Memory-chip maker SK Hynix made its U.S. market debut on July 10, reportedly rai
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory]]
 **Related:** [[2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o]] · [[2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]]
 <!-- graph:end -->

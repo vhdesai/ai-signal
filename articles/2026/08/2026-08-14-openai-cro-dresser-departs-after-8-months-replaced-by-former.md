@@ -18,6 +18,8 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by
@@ -34,6 +36,6 @@ OpenAI’s CRO Denise Dresser is leaving after just eight months, continuing rap
 ## Connections
 
 **Entities:** [[Google]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Canonical:** [[2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by]]
 <!-- graph:end -->

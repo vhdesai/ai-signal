@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-30-openai-received-5-5b-in-sb-energy-warrants-ahead-of-softbank
@@ -34,6 +35,6 @@ Draft IPO documents show SB Energy, the SoftBank venture powering OpenAI's Starg
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Canonical:** [[2026-08-30-openai-received-5-5b-in-sb-energy-warrants-ahead-of-softbank]]
 <!-- graph:end -->

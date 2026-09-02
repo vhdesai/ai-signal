@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-08-amazon-s-planned-texas-data-center-power-plant-would-be-larg
@@ -35,6 +36,6 @@ For a planned data center in Pecos County, Texas, Amazon is backing an on-site g
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-08-amazon-s-planned-texas-data-center-power-plant-would-be-larg]]
 <!-- graph:end -->

@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -41,6 +42,6 @@ Alibaba revealed a more powerful Zhenwu AI chip alongside the Qwen 3.7-Max model
 ## Connections
 
 **Entities:** [[Alibaba]] · [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]] · [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-05-20-alibaba-unveils-ai-chip-to-challenge-nvidia-alongside-next-g]] · [[2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]]
 <!-- graph:end -->

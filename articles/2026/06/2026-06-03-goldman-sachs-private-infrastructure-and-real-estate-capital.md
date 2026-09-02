@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom
@@ -31,6 +32,6 @@ Goldman Sachs published analysis projecting that private infrastructure and real
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]]
 <!-- graph:end -->

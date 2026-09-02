@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: IBM Newsroom
 url_original: https://newsroom.ibm.com/2026-08-06-IBM-Introduces-Apptio-AI-Value-ROI-to-Close-the-Gap-Between-AI-Spend-and-Business-Results
 url_canonical: https://newsroom.ibm.com/2026-08-06-IBM-Introduces-Apptio-AI-Value-ROI-to-Close-the-Gap-Between-AI-Spend-and-Business-Results
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_061331_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 117aabeec1ee210f3706917cb5469071a3b6e4d43061fc429a962fec9096e3c7

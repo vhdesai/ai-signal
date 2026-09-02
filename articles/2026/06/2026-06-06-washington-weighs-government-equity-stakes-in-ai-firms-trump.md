@@ -5,7 +5,7 @@ date: '2026-06-06'
 source: TechCrunch; Semafor; Fortune; NYT; Axios
 url_original: https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/
 url_canonical: https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-08_071435_Final-Daily-AI-News-Digest.md
 content_hash: b24d2e48833dba4eaa6257b3f66ed845a384672d75f5819001b4b9932b94d878
 normalized_title_hash: 4c1802e262befc89
@@ -18,6 +18,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ President Trump told reporters the federal government may take equity "pieces" i
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau]] · [[2026-06-18-trump-administration-split-on-taking-equity-stakes-in-ai-gia]] · [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake]] · [[2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake]] · [[2026-07-02-openai-floats-handing-the-us-government-a-5-stake-to-ease-wa]]
 <!-- graph:end -->

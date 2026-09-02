@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/
 url_canonical: https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_061105_Daily-AI-News-Digest.md
 content_hash: a9027bedfd90633c898325b592763c4663c903412a065f7c8708314faf959d65
 normalized_title_hash: 0549515f2530a047
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Strava announced tighter limits on how third parties can access its activity dat
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-17-patreon-shifts-from-asking-to-blocking-ai-scraper-bots]] · [[2026-07-17-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively]] · [[2026-07-17-ai-commoditization-pressures-proprietary-model-economics]] · [[2026-08-20-one-in-five-enterprises-cannot-halt-a-runaway-ai-agent-s-spe]] · [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]]
 <!-- graph:end -->

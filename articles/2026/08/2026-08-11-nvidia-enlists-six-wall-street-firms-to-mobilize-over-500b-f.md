@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
@@ -34,7 +35,7 @@ Nvidia is partnering with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sac
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]]
 **Related:** [[2026-08-11-nvidia-frames-ai-factory-compute-as-an-investable-infrastruc]]
 <!-- graph:end -->

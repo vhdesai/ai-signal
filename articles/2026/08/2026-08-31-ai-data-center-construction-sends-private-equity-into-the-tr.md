@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ PitchBook reported that private equity is following the AI data-center boom into
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit]] · [[2026-05-28-public-pe-giants-pivot-from-software-to-ai-physical-infrastr]]
 <!-- graph:end -->

@@ -16,6 +16,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ xAI, the maker of the Grok chatbot, has been rebranded as SpaceXAI, consolidatin
 ## Connections
 
 **Entities:** [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-07-06-xai-rebrands-as-spacexai-folding-grok-fully-into-spacex]] · [[2026-07-06-xai-officially-rebrands-as-spacexai-completing-merger-into-s]] · [[2026-07-06-xai-officially-rebrands-to-spacexai]] · [[2026-07-07-xai-officially-rebrands-as-spacexai-completing-merger-into-s]] · [[2026-05-15-reporting-from-may-14-confirms-that-elon-musk-s-spacexai-the]]
 <!-- graph:end -->

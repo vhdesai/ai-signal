@@ -23,6 +23,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -44,6 +45,6 @@ Both Alibaba and Tencent used their latest earnings calls to signal materially h
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Huawei]] · [[NVIDIA]] · [[Tencent]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]] · [[2026-04-25-tencent-alibaba-in-advanced-talks-to-back-deepseek-s-first-e]] · [[2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep]]
 <!-- graph:end -->

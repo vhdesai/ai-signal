@@ -6,7 +6,7 @@ date: '2026-06-01'
 source: CNBC; Reuters; Yahoo Finance; The Guardian
 url_original: https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/
 url_canonical: https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-04_070640_Inbox_Daily AI News Digest – June 2,
   2026.md
 content_hash: 3112a747deadbd4485ea9bf0b647034202747ec341b6dc161b5bc11f36ab4ef3
@@ -18,6 +18,8 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +40,6 @@ Alphabet announced plans to raise $80 billion through stock sales for its AI bui
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]] · [[2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw]] · [[2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]] · [[2026-08-06-alphabet-seeks-up-to-25b-in-bond-sale-to-fund-ai-capital-spe]]
 <!-- graph:end -->

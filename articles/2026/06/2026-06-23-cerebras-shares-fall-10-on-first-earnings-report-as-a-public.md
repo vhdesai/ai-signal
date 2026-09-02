@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ In its debut report since last month's $5.55B IPO, Cerebras Systems posted nearl
 ## Connections
 
 **Entities:** [[Cerebras]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14]] · [[2026-08-13-cerebras-shares-fall-16-despite-revenue-growth-and-25b-backl]] · [[2026-08-13-cerebras-slumps-18-on-mixed-quarterly-results]]
 <!-- graph:end -->

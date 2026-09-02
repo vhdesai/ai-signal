@@ -5,7 +5,7 @@ date: '2026-07-26'
 source: The Wall Street Journal
 url_original: https://www.straitstimes.com/business/nvidia-in-talks-with-openai-to-guarantee-322b-financing-for-data-center-wsj-reports
 url_canonical: https://www.straitstimes.com/business/nvidia-in-talks-with-openai-to-guarantee-322b-financing-for-data-center-wsj-reports
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-27_061621_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: 24aba4e104a7baf869fd9218207d33d164330e6ffdeed35f0f9b19ccdb53255b
@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-26-nvidia-weighs-250b-financing-backstop-for-openai-s-10-gigawa
@@ -33,6 +34,6 @@ Per WSJ reporting, Nvidia is in talks to guarantee roughly $250B in lease-and-de
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-26-nvidia-weighs-250b-financing-backstop-for-openai-s-10-gigawa]]
 <!-- graph:end -->

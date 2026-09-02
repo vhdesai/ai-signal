@@ -21,6 +21,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Microsoft Research released Fara1.5, an open-weight family of browser computer-u
 ## Connections
 
 **Entities:** [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope]] · [[2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba]] · [[2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb]]
 <!-- graph:end -->

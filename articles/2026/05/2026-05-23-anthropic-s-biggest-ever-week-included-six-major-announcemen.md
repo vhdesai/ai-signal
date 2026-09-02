@@ -22,6 +22,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +43,6 @@ Anthropic's biggest-ever week included six major announcements in five days: Q1 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[Perplexity]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year]] · [[2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea]] · [[2026-05-07-]]
 <!-- graph:end -->

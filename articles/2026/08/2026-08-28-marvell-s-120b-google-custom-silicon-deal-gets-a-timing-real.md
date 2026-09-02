@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Marvell shares fell roughly 8% despite raised forecasts after CEO Matt Murphy sa
 ## Connections
 
 **Entities:** [[Google]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-meets-a-timing-rea]] · [[2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil]] · [[2026-08-28-marvell-sells-off-8-as-google-custom-silicon-revenue-slips-t]] · [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]]
 <!-- graph:end -->

@@ -18,6 +18,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +41,6 @@ Anthropic has committed approximately $200 billion in cloud spend with Google ov
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-05-06-hot-alphabet-briefly-overtakes-nvidia-on-200-billion-anthrop]] · [[2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q]] · [[2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai]] · [[2026-05-07-anthropic-arr-crosses-44b-80x-year-over-year-growth]]
 <!-- graph:end -->

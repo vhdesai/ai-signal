@@ -18,6 +18,7 @@ entities:
 - Salesforce
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ June, founded by former Salesforce AI executives, launched from stealth with a $
 ## Connections
 
 **Entities:** [[Salesforce]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise]] · [[2026-08-03-marc-benioff-backed-june-raises-20-million-to-automate-ai-de]] · [[2026-09-01-air-launches-with-50m-to-build-a-firewall-for-ai-agent-skill]] · [[2026-09-01-air-emerges-from-stealth-with-50m-to-police-the-ai-agent-sof]] · [[2026-05-11-openai-launches-4b-deployco-ai-services-venture]]
 <!-- graph:end -->

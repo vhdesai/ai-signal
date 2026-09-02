@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: The Next Web
 url_original: https://thenextweb.com/news/deepseek-v4-flash-vision-exp-opus-benchmarks
 url_canonical: https://thenextweb.com/news/deepseek-v4-flash-vision-exp-opus-benchmarks
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_060949_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 0f5a428a14b630e019354d386b9aa12497f8b3a0f0252382138a9cc27276aca5
@@ -18,6 +18,7 @@ entities:
 - DeepSeek
 themes:
 - model-capabilities
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +39,6 @@ DeepSeek added image and screenshot understanding to its low-cost V4-Flash line 
 ## Connections
 
 **Entities:** [[DeepSeek]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-21-deepseek-ships-v4-flash-vision-exp-an-experimental-multimoda]] · [[2026-07-31-deepseek-moves-agent-focused-v4-flash-api-into-public-beta]] · [[2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age]]
 <!-- graph:end -->

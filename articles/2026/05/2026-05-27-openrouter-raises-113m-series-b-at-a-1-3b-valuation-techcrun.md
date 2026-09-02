@@ -16,6 +16,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +34,6 @@ OpenRouter raises $113M Series B at a $1.3B valuation — TechCrunch / New York 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]]
 <!-- graph:end -->

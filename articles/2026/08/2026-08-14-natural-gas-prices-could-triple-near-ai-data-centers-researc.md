@@ -21,6 +21,7 @@ entities:
 - Microsoft
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-hyperscaler-natural-gas-bets-may-create-new-ai-data-center-c
@@ -37,6 +38,6 @@ Energy research firm Noreva warns that natural gas prices could surge above $10/
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-14-hyperscaler-natural-gas-bets-may-create-new-ai-data-center-c]]
 <!-- graph:end -->

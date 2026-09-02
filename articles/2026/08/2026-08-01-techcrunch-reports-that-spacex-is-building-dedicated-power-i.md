@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ TechCrunch reports that SpaceX is building dedicated power infrastructure for xA
 ## Connections
 
 **Entities:** [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory]] · [[2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]]
 <!-- graph:end -->

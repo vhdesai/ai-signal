@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: TechCrunch; Engadget; Developer Tech; AIToolsRecap
 url_original: https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/
 url_canonical: https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 9eb2a707ac713c02d4a7509070d7f04dd5723f4ac43ae328853483c0b869b290
 normalized_title_hash: 538351b4579be870

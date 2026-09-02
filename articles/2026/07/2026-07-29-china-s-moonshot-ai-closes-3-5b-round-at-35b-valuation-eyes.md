@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: Unite.AI
 url_original: https://www.unite.ai/moonshot-ai-blows-past-its-funding-target-ahead-of-a-hong-kong-ipo/
 url_canonical: https://www.unite.ai/moonshot-ai-blows-past-its-funding-target-ahead-of-a-hong-kong-ipo/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-30_060824_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: e49c009b25ee352d2ea2cb8dee8a145ad6576adec5fcb4c4c1c931f50f79cd2d
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -34,6 +35,6 @@ Moonshot AI has closed a $3.5B financing round valuing the Beijing lab at about 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-07-19-china-s-moonshot-plans-a-30b-hong-kong-ipo-within-six-months]]
 <!-- graph:end -->

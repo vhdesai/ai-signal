@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: NVIDIA Newsroom
 url_original: https://winbuzzer.com/ai/openai/
 url_canonical: https://winbuzzer.com/ai/openai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: e4a937ca6242328809b8561dac59d618ac7dfd587209171d21935e70113588c3
@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Nvidia's GTC 2026 press-kit page was refreshed with new partner asset links and 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-gtc-taipei-computex-adja]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications]]
 <!-- graph:end -->

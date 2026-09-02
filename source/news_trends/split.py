@@ -43,6 +43,123 @@ _THEME_KEYWORDS = {
     "company-storylines": ("industry", "company", "funding", "valuation", "acquisition", "revenue", "earnings", "product", "tool"),
 }
 
+# --- M&A / Investment classifiers -------------------------------------------
+# These three themes ("M&A Activity", "Company Investments", "Infrastructure
+# Investments") are the "money & deals" sub-taxonomy under the M&A &
+# Investments hub. They are ADDITIVE to the primary themes above (an article
+# can be both "company-storylines" and "ma-activity") so existing browses stay
+# intact per user direction. Word boundaries are used to reduce false
+# positives from words like "acquire customers" — for the deals taxonomy we
+# want the *transaction* sense, not the generic verb.
+
+# M&A Activity: full acquisitions, mergers, take-privates, asset purchases.
+_MA_ACTIVITY_PATTERNS = (
+    re.compile(r"\bacquir(?:e|es|ed|ing|ition|itions)\b", re.IGNORECASE),
+    re.compile(r"\bmerger(?:s)?\b", re.IGNORECASE),
+    re.compile(r"\bmerge[sd]?\s+with\b", re.IGNORECASE),
+    re.compile(r"\bmerging\s+with\b", re.IGNORECASE),
+    re.compile(r"\bbuyout\b", re.IGNORECASE),
+    re.compile(r"\btake(?:s|n)?\s+private\b", re.IGNORECASE),
+    re.compile(r"\bgo(?:es|ing)?\s+private\b", re.IGNORECASE),
+    re.compile(r"\btakeover\b", re.IGNORECASE),
+    re.compile(r"\ball[- ](?:cash|stock)\s+(?:deal|acquisition|purchase)\b", re.IGNORECASE),
+    re.compile(r"\bagreed\s+to\s+acquire\b", re.IGNORECASE),
+    re.compile(r"\bagreement\s+to\s+acquire\b", re.IGNORECASE),
+    re.compile(r"\bacqui-?hire\b", re.IGNORECASE),
+    re.compile(r"\basset\s+purchase\b", re.IGNORECASE),
+    re.compile(r"\bspin[- ]off\b", re.IGNORECASE),
+    re.compile(r"\bdivest(?:ed|iture|ment)?\b", re.IGNORECASE),
+)
+
+# Company Investments: money flowing INTO a company (equity, debt, IPOs,
+# strategic stakes). Distinct from infrastructure capex; if both apply the
+# article is tagged with both.
+_COMPANY_INVESTMENT_PATTERNS = (
+    re.compile(r"\bfunding\s+round\b", re.IGNORECASE),
+    re.compile(r"\braise[sd]?\s+\$?\d", re.IGNORECASE),
+    re.compile(r"\braising\s+\$?\d", re.IGNORECASE),
+    re.compile(r"\bseries\s+[a-k]\b", re.IGNORECASE),
+    re.compile(r"\bseed\s+(?:round|funding)\b", re.IGNORECASE),
+    re.compile(r"\bpre[- ]seed\b", re.IGNORECASE),
+    re.compile(r"\bpre[- ]ipo\b", re.IGNORECASE),
+    re.compile(r"\bipo\b", re.IGNORECASE),
+    re.compile(r"\binitial\s+public\s+offering\b", re.IGNORECASE),
+    re.compile(r"\bgoing\s+public\b", re.IGNORECASE),
+    re.compile(r"\bsecondar(?:y|ies)\s+(?:sale|offering|tender)\b", re.IGNORECASE),
+    re.compile(r"\btender\s+offer\b", re.IGNORECASE),
+    re.compile(r"\bequity\s+stake\b", re.IGNORECASE),
+    re.compile(r"\btake(?:s|n)?\s+.{0,20}\bstake\s+in\b", re.IGNORECASE),
+    re.compile(r"\bstrategic\s+invest(?:or|ment)\b", re.IGNORECASE),
+    re.compile(r"\binvests?\s+\$?\d", re.IGNORECASE),
+    re.compile(r"\binvested\s+\$?\d", re.IGNORECASE),
+    re.compile(r"\binvestment\s+of\s+\$?\d", re.IGNORECASE),
+    re.compile(r"\bvaluation\s+of\s+\$?\d", re.IGNORECASE),
+    re.compile(r"\bvalued\s+at\s+\$?\d", re.IGNORECASE),
+    re.compile(r"\bventure\s+(?:capital|round|firm|funding)\b", re.IGNORECASE),
+    re.compile(r"\bventure[- ]backed\b", re.IGNORECASE),
+    re.compile(r"\bconvertible\s+note\b", re.IGNORECASE),
+    re.compile(r"\bcap[- ]table\b", re.IGNORECASE),
+    re.compile(r"\bcorporate\s+venture\b", re.IGNORECASE),
+    re.compile(r"\bsovereign\s+wealth\s+fund\b", re.IGNORECASE),
+    re.compile(r"\bdown[- ]round\b", re.IGNORECASE),
+    re.compile(r"\bmega[- ]round\b", re.IGNORECASE),
+)
+
+# Infrastructure Investments: money flowing into physical AI infrastructure
+# — datacenters, GPU/chip commitments, power deals, fabs, cloud capacity.
+_INFRA_INVESTMENT_PATTERNS = (
+    re.compile(r"\bdata\s*cent(?:er|re)s?\b", re.IGNORECASE),
+    re.compile(r"\bgigawatt\b", re.IGNORECASE),
+    re.compile(r"\bmegawatt\b", re.IGNORECASE),
+    re.compile(r"\b\d+\s*(?:GW|MW)\b"),
+    re.compile(r"\bcapex\b", re.IGNORECASE),
+    re.compile(r"\bcapital\s+expenditure\b", re.IGNORECASE),
+    re.compile(r"\bfab(?:s|rication)?\b", re.IGNORECASE),
+    re.compile(r"\bfoundr(?:y|ies)\b", re.IGNORECASE),
+    re.compile(r"\bwafer\b", re.IGNORECASE),
+    re.compile(r"\bhbm\b", re.IGNORECASE),
+    re.compile(r"\bhigh[- ]bandwidth\s+memory\b", re.IGNORECASE),
+    re.compile(r"\bpower\s+purchase\b", re.IGNORECASE),
+    re.compile(r"\bppa\b"),
+    re.compile(r"\b(?:gpu|chip)\s+order(?:s|ing)?\b", re.IGNORECASE),
+    re.compile(r"\b(?:gpu|chip|hardware)\s+shipments?\b", re.IGNORECASE),
+    re.compile(r"\bai\s+infrastructure\b", re.IGNORECASE),
+    re.compile(r"\bcompute\s+infrastructure\b", re.IGNORECASE),
+    re.compile(r"\bcloud\s+infrastructure\b", re.IGNORECASE),
+    re.compile(r"\bai\s+(?:factor(?:y|ies)|campus(?:es)?)\b", re.IGNORECASE),
+    re.compile(r"\bhyperscaler(?:s)?\b", re.IGNORECASE),
+    re.compile(r"\bnuclear\s+(?:power|deal|reactor|smr)\b", re.IGNORECASE),
+    re.compile(r"\bblackwell\b", re.IGNORECASE),
+    re.compile(r"\brubin\b", re.IGNORECASE),
+    re.compile(r"\bhopper\b", re.IGNORECASE),
+    re.compile(r"\btrainium\b", re.IGNORECASE),
+    re.compile(r"\bironwood\b", re.IGNORECASE),
+    re.compile(r"\bmaia\b", re.IGNORECASE),
+    re.compile(r"\btpu\b"),
+    re.compile(r"\binstinct\s+mi\d", re.IGNORECASE),
+    re.compile(r"\bcommits?\s+\$?\d.{0,80}\b(?:infrastructure|data\s*cent|gpu|chip|cloud|campus|power|fab)\b", re.IGNORECASE),
+    re.compile(r"\bbuild(?:s|ing)?\s+.{0,50}\b(?:data\s*cent|ai\s+campus|ai\s+factor)\b", re.IGNORECASE),
+)
+
+
+def _classify_deals(haystack: str) -> list[str]:
+    """Return the sub-set of ``M&A & Investments`` theme slugs that apply.
+
+    Runs independently from the primary theme classifier; results are appended
+    to ``article.themes`` so the deals hub and the /topics/*.html pages pick
+    them up automatically. Empty return means the article is not a
+    money/deals story.
+    """
+    tags: list[str] = []
+    if any(p.search(haystack) for p in _MA_ACTIVITY_PATTERNS):
+        tags.append("ma-activity")
+    if any(p.search(haystack) for p in _COMPANY_INVESTMENT_PATTERNS):
+        tags.append("company-investments")
+    if any(p.search(haystack) for p in _INFRA_INVESTMENT_PATTERNS):
+        tags.append("infrastructure-investments")
+    return tags
+
+
 _CHINA_KEYWORDS = (
     "china", "chinese", "deepseek", "beijing", "xi jinping", "export control",
     "export rules", "alibaba", "tencent", "huawei", "u.s.\u2013china", "us-china",
@@ -350,6 +467,13 @@ def _classify(cfg: Config, title: str, summary: str, theme: str) -> tuple[list[s
             if any(k in haystack_lower for k in keywords):
                 themes.append(topic_id)
     themes = [t for t in cfg.topic_ids if t in themes] or themes
+
+    # Additive M&A / investment sub-taxonomy. These slugs are registered in
+    # topics.yaml so they surface as their own /topics/*.html pages, and the
+    # M&A & Investments hub page indexes them together.
+    for deal_slug in _classify_deals(haystack):
+        if deal_slug not in themes:
+            themes.append(deal_slug)
 
     cross = ["china-compete"] if any(k in haystack_lower for k in _CHINA_KEYWORDS) else []
     return entities, themes, cross

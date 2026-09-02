@@ -16,6 +16,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
@@ -32,6 +33,6 @@ Anthropic is in the final stages of a funding round expected to raise roughly $3
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]]
 <!-- graph:end -->

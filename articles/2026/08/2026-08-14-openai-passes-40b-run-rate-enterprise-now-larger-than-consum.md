@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ OpenAI’s ARR hit $40B (~2× end-2025), with CFO Friar telling investors enterp
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-15-openai-s-enterprise-revenue-tops-consumer-for-the-first-time]] · [[2026-08-14-openai-nears-ipo-at-a-40b-run-rate-amid-continued-executive]]
 <!-- graph:end -->

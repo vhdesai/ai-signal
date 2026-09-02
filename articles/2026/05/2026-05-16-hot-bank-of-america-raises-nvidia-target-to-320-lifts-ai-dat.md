@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Bank of America's top semiconductor analyst Vivek Arya raised Nvidia's price tar
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d]] · [[2026-08-27-nvidia-posts-record-96-2b-quarter-forecasts-70-ai-chip-growt]] · [[2026-07-26-nvidia-weighs-roughly-250b-financing-backstop-for-openai-s-o]] · [[2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki]] · [[2026-07-26-nvidia-weighs-roughly-250b-guarantee-for-openai-s-ohio-data]]
 <!-- graph:end -->

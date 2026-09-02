@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: UPI
 url_original: https://www.upi.com/Top_News/US/2026/08/06/meta-ai-model-hacks-irregular-anthropic-openai/9851786031275/
 url_canonical: https://www.upi.com/Top_News/US/2026/08/06/meta-ai-model-hacks-irregular-anthropic-openai/9851786031275/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_061807_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: b769c9a875ab3af0bd9e36e57018ed4f1b581375e9ab5852cc09507cbbd3b8bf

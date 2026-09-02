@@ -16,6 +16,8 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +38,6 @@ The Wall Street Journal reported that a startup raised $700 million to replace d
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-19-relativity-networks-raises-22m-for-hollow-core-fiber-in-ai-d]] · [[2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai]] · [[2026-08-19-relativity-networks-raises-22-million-for-hollow-core-fiber]] · [[2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics]] · [[2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent]]
 <!-- graph:end -->

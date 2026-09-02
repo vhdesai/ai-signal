@@ -21,6 +21,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -43,6 +44,6 @@ Today’s developments center on a hardening US–China split in AI. Beijing’s
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-08-daily-ai-news-digest-july-9-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-06-30-white-house-ai-crackdown-opens-the-door-for-chinese-models-t]] · [[2026-07-06-daily-ai-news-digest-july-8-2026]] · [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r]]
 <!-- graph:end -->

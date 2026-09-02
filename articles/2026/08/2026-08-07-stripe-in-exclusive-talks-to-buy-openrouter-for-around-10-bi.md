@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Stripe is negotiating to acquire OpenRouter, the AI model routing and API platfo
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-07-24-stripe-is-reportedly-in-talks-to-buy-openrouter]] · [[2026-08-20-stripe-acquires-ai-marketplace-openrouter-for-7-5-billion]] · [[2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter]] · [[2026-08-16-stripe-to-acquire-ai-gateway-startup-openrouter-for-more-tha]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ The House Oversight Committee opened a formal conflict-of-interest investigation
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-13-sam-altman-s-personal-investments-trigger-gop-probe-and-sec]] · [[2026-05-18-the-republican-led-house-oversight-committee-launched-an-inv]] · [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-06-12-state-attorneys-general-open-investigation-into-openai]] · [[2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra]]
 <!-- graph:end -->

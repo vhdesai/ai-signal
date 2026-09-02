@@ -17,7 +17,8 @@ entities:
 - Anthropic
 - OpenAI
 - xAI
-themes: []
+themes:
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,5 +40,6 @@ Crunchbase data confirmed Q1 2026 as the largest venture capital quarter in hist
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
+**Topics:** [[Company Investments]]
 **Related:** [[2026-04-01-global-venture-investment-reached-297-billion-in-q1-2026-up]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-04-02-trending-q1-2026-vc-breaks-300b-record-apr-1-global-venture]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-07-25-corporate-capital-is-concentrating-the-u-s-ai-startup-market]]
 <!-- graph:end -->

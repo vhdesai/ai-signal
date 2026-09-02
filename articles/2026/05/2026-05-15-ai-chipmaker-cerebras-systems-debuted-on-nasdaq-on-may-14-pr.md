@@ -21,6 +21,8 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +44,6 @@ AI chipmaker Cerebras Systems debuted on Nasdaq on May 14, pricing at $185/share
 ## Connections
 
 **Entities:** [[Amazon]] · [[Cerebras]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-17-cerebras-systems-hit-the-nasdaq-on-may-14-in-the-most-closel]] · [[2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68]] · [[2026-05-14-cerebras-systems-prices-largest-us-ipo-of-2026-at-56-4b-valu]] · [[2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t]] · [[2026-05-15-cerebras-closes-ipo-at-95b-market-cap-kicking-off-2026-tech]]
 <!-- graph:end -->

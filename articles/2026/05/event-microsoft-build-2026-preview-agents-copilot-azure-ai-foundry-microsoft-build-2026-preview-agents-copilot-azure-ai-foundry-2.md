@@ -23,6 +23,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
@@ -44,7 +45,7 @@ Microsoft is productizing agentic work: Copilot and GitHub are becoming platform
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]]
 **Related:** [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]] · [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent]]
 <!-- graph:end -->

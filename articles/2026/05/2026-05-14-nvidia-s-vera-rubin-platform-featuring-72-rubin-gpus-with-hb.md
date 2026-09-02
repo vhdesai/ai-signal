@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ NVIDIA's Vera Rubin platform — featuring 72 Rubin GPUs with HBM4 at 22 TB/s ba
 ## Connections
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti]] · [[2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform]]
 <!-- graph:end -->

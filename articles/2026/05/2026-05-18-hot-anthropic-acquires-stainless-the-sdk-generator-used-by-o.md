@@ -6,7 +6,7 @@ date: '2026-05-18'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/
 url_canonical: https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 53cce9a4a86c3aecd7a69c9e830d6965a9c42f317b6f7966998463891ffe7f32
@@ -20,6 +20,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Anthropic announced the acquisition of Stainless, the New York-based SDK-generat
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-19-anthropic-acquires-stainless-the-sdk-infrastructure-powering]] · [[2026-05-12-anthropic-in-advanced-talks-to-acquire-stainless-for-300m]] · [[2026-05-18-anthropic-acquires-stainless-and-expands-the-claude-platform]] · [[2026-05-18-anthropic-acquires-dev-tools-startup-used-by-openai-google-a]]
 <!-- graph:end -->

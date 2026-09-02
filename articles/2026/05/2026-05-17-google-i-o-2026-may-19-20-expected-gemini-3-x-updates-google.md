@@ -20,6 +20,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ Google I/O 2026 — May 19–20. Expected: Gemini 3.x updates, Googlebook expans
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-16-google-i-o-2026-opens-monday-may-19-at-shoreline-amphitheatr]] · [[2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin]] · [[2026-05-18-google-i-o-2026-opens-tomorrow-with-gemini-3-expected-to-hea]] · [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]] · [[2026-05-26-google-i-o-2026-recap-highlights-gemini-3-5-flash-omni-and-a]]
 <!-- graph:end -->

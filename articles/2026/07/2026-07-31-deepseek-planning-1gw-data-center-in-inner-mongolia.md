@@ -18,6 +18,7 @@ entities:
 - Scale AI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ DeepSeek is reportedly planning a gigawatt-scale AI data center in Inner Mongoli
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[Scale AI]]
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-01-deepseek-reportedly-plans-a-gigawatt-scale-data-center-in-in]] · [[2026-07-31-deepseek-plans-1-gigawatt-data-center-in-inner-mongolia]] · [[2026-08-01-deepseek-reportedly-plans-a-1-gigawatt-data-center-in-inner]] · [[2026-08-02-deepseek-data-center-plan-points-to-infrastructure-as-the-ne]]
 <!-- graph:end -->

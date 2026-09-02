@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/
 url_canonical: https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-05_061956_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 82cb6810b44b13daa3675e62f959109976468f881fbefcb751fff58c5b642047

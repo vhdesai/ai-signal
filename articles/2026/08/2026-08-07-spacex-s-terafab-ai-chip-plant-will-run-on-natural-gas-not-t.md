@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/
 url_canonical: https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-08_061755_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: a3ff9f031bb8fedf1ba93066b0c1822135b85edc4cdf3452d4c5390be6a36bbf
@@ -17,6 +17,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ SpaceX's planned AI chip manufacturing facility, Terafab — intended to supply 
 ## Connections
 
 **Entities:** [[Tesla]] · [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-a-new-texas-semicon]] · [[2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas]]
 <!-- graph:end -->

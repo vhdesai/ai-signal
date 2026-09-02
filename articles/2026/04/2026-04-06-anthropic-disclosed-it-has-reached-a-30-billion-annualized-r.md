@@ -28,6 +28,8 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -49,6 +51,6 @@ Broadcom Locks In Long-Term Google Custom Chip Supply Deal Through 2031 Broadcom
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-21-broadcom-seeks-60-80b-in-debt-to-build-ai-chip-capacity-for]] · [[2026-05-06-hot-alphabet-briefly-overtakes-nvidia-on-200-billion-anthrop]] · [[2026-05-07-]] · [[2026-08-21-broadcom-seeks-up-to-80-billion-in-debt-for-an-ai-chip-finan]] · [[2026-07-22-amd-and-anthropic-sign-major-chips-and-investment-deal]]
 <!-- graph:end -->

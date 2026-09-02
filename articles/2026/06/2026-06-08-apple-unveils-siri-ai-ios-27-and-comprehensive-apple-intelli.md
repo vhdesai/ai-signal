@@ -6,7 +6,7 @@ date: '2026-06-08'
 source: Apple; TechCrunch; CNBC; Wired; Axios; The Verge
 url_original: https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
 url_canonical: https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-09_070112_Final-Daily-AI-News-Digest.md
 content_hash: 0462ee5322e7813341376d1fdb7397d94e5f8809cfd1172c4e86466fcb08a410
 normalized_title_hash: bb50bd48382e5be6

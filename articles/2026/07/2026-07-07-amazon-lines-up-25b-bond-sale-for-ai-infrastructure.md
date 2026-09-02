@@ -18,6 +18,7 @@ entities:
 - Meta
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Amazon is preparing a $25 billion bond sale to fund AI infrastructure expansion,
 ## Connections
 
 **Entities:** [[Amazon]] · [[Meta]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-07-amazon-readies-a-25b-plus-bond-sale-to-fund-its-ai-and-aws-b]] · [[2026-07-07-amazon-to-raise-at-least-25b-in-bond-sale-to-fund-ai-buildou]] · [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou]] · [[2026-06-10-amazon-borrows-17-5b-from-banks-as-ai-infrastructure-spendin]] · [[2026-08-21-u-s-ai-related-debt-issuance-hits-220b-as-bond-investors-pus]]
 <!-- graph:end -->

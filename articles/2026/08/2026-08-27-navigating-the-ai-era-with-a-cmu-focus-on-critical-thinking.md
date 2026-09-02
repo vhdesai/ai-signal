@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: Carnegie Mellon University · Carnegie Mellon
 url_original: https://www.cmu.edu/news/stories/archives/2026/august/navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking
 url_canonical: https://www.cmu.edu/news/stories/archives/2026/august/navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 0daa33556b822784deb88e6ea66882e82bba66d5cac16243c36749936f9c7581

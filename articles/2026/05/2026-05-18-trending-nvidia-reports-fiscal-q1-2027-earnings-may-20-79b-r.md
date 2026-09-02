@@ -5,7 +5,7 @@ date: '2026-05-18'
 source: The Motley Fool
 url_original: https://www.fool.com/investing/2026/05/18/nvidias-next-earnings-report-on-may-20-could-send/
 url_canonical: https://www.fool.com/investing/2026/05/18/nvidias-next-earnings-report-on-may-20-could-send/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: f025c88a24e1c95aede3ce38dac60fb5e1c48cef88cfddb5f3c0b7c6b7a3dec9
@@ -19,6 +19,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Nvidia reports fiscal Q1 2027 earnings after market close on Wednesday May 20, w
 ## Connections
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-26-nvidia-posts-record-96-2b-quarter-and-forecasts-70-revenue-g]] · [[2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value]] · [[2026-08-26-nvidia-beats-on-fiscal-q2-with-96-22b-revenue-shares-still-s]] · [[2026-08-27-nvidia-posts-another-record-quarter-and-guides-to-multi-year]] · [[2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt]]
 <!-- graph:end -->

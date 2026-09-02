@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ WSJ / TechCrunch • April 18, 2026 Cerebras Systems filed S-1 paperwork to go p
 ## Connections
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-04-22-meta-is-deploying-new-tracking-software-called-the-model-cap]] · [[2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a]] · [[2026-04-16-cerebras-systems-is-preparing-for-a-nasdaq-listing-ticker-cb]] · [[2026-05-15-wsj-cerebras-ipo-is-a-huge-bet-on-nvidia-fatigue]] · [[2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ WSJ reports that the large supply deals feeding the AI boom are “no sure thing
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it]] · [[2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru]] · [[2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure]] · [[2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure]]
 <!-- graph:end -->

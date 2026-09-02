@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Per an FT report, Anthropic is targeting an October listing at an estimated $2 t
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-22-anthropic-investors-reportedly-targeting-a-2-trillion-ipo]] · [[2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc]] · [[2026-08-26-anthropic-to-pitch-investors-on-a-30-trillion-addressable-ma]]
 <!-- graph:end -->

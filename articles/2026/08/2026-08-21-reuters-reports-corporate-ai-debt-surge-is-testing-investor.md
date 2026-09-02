@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Reuters reported that rising corporate debt tied to AI investment is testing inv
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin]] · [[2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure]] · [[2026-08-17-reuters-reports-ecb-blog-predicts-an-ai-market-correction]]
 <!-- graph:end -->

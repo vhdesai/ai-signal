@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/
 url_canonical: https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_061731_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: f933d874a190a37172e2a990fc692c269d19bcf1e656cc3b5f1914a5159076db
@@ -20,6 +20,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ An analysis piece walks through the still-unresolved legal position on training 
 ## Connections
 
 **Entities:** [[Alibaba]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]]
 <!-- graph:end -->

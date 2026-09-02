@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Analysis of Jensen Huang's guidance suggests at least $1 trillion in cumulative 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through]] · [[2026-08-26-amazon-triples-its-nvidia-gpu-commitment-2-million-chips-thr]] · [[2026-08-26-amazon-triples-its-nvidia-gpu-commitment-adding-2-million-ch]] · [[2026-08-25-nvidia-q2-fy27-earnings-land-today-as-the-ai-boom-s-scorecar]]
 <!-- graph:end -->

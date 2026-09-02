@@ -16,6 +16,7 @@ entities: []
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Khosla Ventures led a $10M seed round in Synthetic AI, co-founded by Ian Crosby 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-03-khosla-and-a16z-back-mining-startup-to-support-ai-era-resour]] · [[2026-07-18-index-ventures-co-founder-warns-ai-wealth-may-be-redistribut]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]] · [[2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents]] · [[2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser]]
 <!-- graph:end -->

@@ -16,6 +16,7 @@ entities: []
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Lenovo reported soaring profits that beat analyst expectations, driven by strong
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-13-lenovo-posts-record-26-9b-quarter-as-ai-related-revenue-jump]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]] · [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]]
 <!-- graph:end -->

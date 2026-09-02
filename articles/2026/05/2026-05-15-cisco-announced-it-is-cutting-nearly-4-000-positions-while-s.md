@@ -17,6 +17,7 @@ entities: []
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Cisco announced it is cutting nearly 4,000 positions while simultaneously report
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-14-cisco-cuts-4-000-jobs-while-posting-record-quarterly-revenue]] · [[2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu]] · [[2026-08-13-cisco-ai-product-orders-hit-4b-in-a-single-quarter]] · [[2026-07-28-visa-cuts-2-600-jobs-7-of-workforce-citing-ai-efficiency]]
 <!-- graph:end -->

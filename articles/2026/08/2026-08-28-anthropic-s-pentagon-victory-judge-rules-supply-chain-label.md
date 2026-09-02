@@ -19,6 +19,7 @@ entities:
 - Anthropic
 themes:
 - policy-regulation
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ event_name: ''
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]]
 **Related:** [[2026-08-28-federal-judge-rules-pentagon-s-supply-chain-risk-designation]] · [[2026-08-28-federal-judge-strikes-down-the-pentagon-s-supply-chain-risk]] · [[2026-08-28-federal-judge-voids-pentagon-s-supply-chain-risk-label-on-an]] · [[2026-08-28-federal-judge-voids-pentagon-s-supply-chain-risk-designation]] · [[2026-08-28-federal-judge-rules-pentagon-illegally-labeled-anthropic-a-s]]
 <!-- graph:end -->

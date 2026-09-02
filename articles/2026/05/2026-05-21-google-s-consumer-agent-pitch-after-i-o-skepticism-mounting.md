@@ -5,7 +5,7 @@ date: '2026-05-21'
 source: 'Source: TechCrunch'
 url_original: https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/
 url_canonical: https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 7cbf047890032ce7097e7260e13bce61d53ae3c3344d145cd49d8a8e321b9ee8

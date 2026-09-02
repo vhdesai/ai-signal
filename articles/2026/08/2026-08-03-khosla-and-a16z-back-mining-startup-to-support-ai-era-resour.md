@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Fortune reported that Khosla Ventures and Andreessen Horowitz are backing a star
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n]] · [[2026-08-29-andreessen-horowitz-raises-1-1b-machine-age-fund-for-ai-hard]] · [[2026-08-28-a16z-raises-1-1b-machine-age-fund-dedicated-to-ai-s-physical]] · [[2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke]]
 <!-- graph:end -->

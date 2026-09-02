@@ -5,7 +5,7 @@ date: '2026-07-22'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/tech/ai/anthropic-doubles-midterm-spending-to-40-million-to-push-ai-regulation-9cd547ae
 url_canonical: https://www.wsj.com/tech/ai/anthropic-doubles-midterm-spending-to-40-million-to-push-ai-regulation-9cd547ae
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-24_065750_Final-Daily-AI-News-Digest.md
 content_hash: a97ab620658709b3ade2f83b65dbe9656c200f4d3add1fa938e117ae2cce2130
 normalized_title_hash: 6494912807ed7b70

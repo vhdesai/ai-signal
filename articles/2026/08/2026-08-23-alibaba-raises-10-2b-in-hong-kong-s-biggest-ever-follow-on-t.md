@@ -6,7 +6,7 @@ date: '2026-08-23'
 source: Nikkei Asia / Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/alibaba-raises-10-billion-hong-113019173.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/alibaba-raises-10-billion-hong-113019173.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_060214_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 4a48384cf29cb8f60c7340e4d24ef3bf98b8c89d1a9ba54d94913308fe3e172a
@@ -19,6 +19,8 @@ entities:
 - Alibaba
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -36,6 +38,6 @@ Alibaba announced an HK$80 billion ($10.2 billion) share placement, selling 710 
 ## Connections
 
 **Entities:** [[Alibaba]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai]]
 <!-- graph:end -->

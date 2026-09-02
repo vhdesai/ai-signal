@@ -19,6 +19,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ A July Pulse survey found that 80% of organizations that have implemented AI-age
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-12-enterprises-secure-ai-agent-identities-but-cannot-contain-a]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i]] · [[2026-08-31-identity-and-permissions-are-insufficient-to-govern-autonomo]]
 <!-- graph:end -->

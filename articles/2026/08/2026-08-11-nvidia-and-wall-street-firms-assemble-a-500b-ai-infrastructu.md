@@ -6,7 +6,7 @@ date: '2026-08-11'
 source: FinanceFeeds
 url_original: https://financefeeds.com/nvidia-partners-with-wall-street-giants-on-500-billion-ai-infrastructure-financing-push/
 url_canonical: https://financefeeds.com/nvidia-partners-with-wall-street-giants-on-500-billion-ai-infrastructure-financing-push/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-11_060300_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 13c921c282a3e058b1265c340179cc1393e4e5c0c5f5b9417f952d88552fa9b7
@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Nvidia is working with Apollo, Blackstone, BlackRock's Global Infrastructure Par
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f]] · [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]] · [[2026-08-11-nvidia-and-wall-street-launch-500b-ai-financing-alliance]] · [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]] · [[2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi]]
 <!-- graph:end -->

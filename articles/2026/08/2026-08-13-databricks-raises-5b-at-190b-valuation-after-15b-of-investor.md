@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-databricks-hits-7b-arr-reveals-5b-round-details-after-15b-of
@@ -34,7 +35,7 @@ Databricks closed a $5B round led by Coatue, Blackstone, MGX, T. Rowe Price, and
 ## Connections
 
 **Entities:** [[Databricks]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-13-databricks-hits-7b-arr-reveals-5b-round-details-after-15b-of]]
 **Related:** [[2026-08-13-databricks-settles-on-5b-raise-at-a-190b-valuation]]
 <!-- graph:end -->

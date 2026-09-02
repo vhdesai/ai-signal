@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: Tech Wire Asia
 url_original: https://techwireasia.com/2026/06/anthropic-claude-microsoft-foundry-azure/
 url_canonical: https://techwireasia.com/2026/06/anthropic-claude-microsoft-foundry-azure/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-30_061155_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 9cf6b4d291341644af645726bf5d62f2d57fd6e3e359a747a172b0e9ad88aa60
@@ -21,6 +21,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +43,6 @@ Claude Opus 4.8 and Haiku 4.5 reached general availability in Microsoft Foundry,
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-07-11-claude-opus-4-7-is-now-generally-available]] · [[2026-05-12-anthropic-claude-opus-4-7-now-available-broadly-including-on]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]] · [[2026-09-01-anthropic-signs-reported-35b-cloud-agreement-with-nvidia-bac]]
 <!-- graph:end -->

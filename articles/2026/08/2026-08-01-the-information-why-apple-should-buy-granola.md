@@ -5,7 +5,7 @@ date: '2026-08-01'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Apple+buy+Granola
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Apple+buy+Granola
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-02_065015_Final-Daily-AI-News-Digest.md
 content_hash: 706f2ef97d16ef82360965bd6ff281fe4879a4492771c1802b150da644918906
 normalized_title_hash: b95c6dbba83f5581
@@ -17,6 +17,7 @@ entities:
 - Apple
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-01-the-information-makes-the-case-for-apple-buying-granola
@@ -33,6 +34,6 @@ The Information makes a strategic case for Apple to acquire Granola, an AI-power
 ## Connections
 
 **Entities:** [[Apple]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-01-the-information-makes-the-case-for-apple-buying-granola]]
 <!-- graph:end -->

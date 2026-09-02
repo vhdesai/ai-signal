@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: 9to5Mac
 url_original: https://9to5mac.com/2026/08/06/openai-updating-chatgpt-with-a-smarter-gpt-5-6-sol-and-unlimited-free-chats/
 url_canonical: https://9to5mac.com/2026/08/06/openai-updating-chatgpt-with-a-smarter-gpt-5-6-sol-and-unlimited-free-chats/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_061041_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 29b485a6b6e53f10ec0f39c9cd632748637288c4c069317bf76d88c155d5bddb

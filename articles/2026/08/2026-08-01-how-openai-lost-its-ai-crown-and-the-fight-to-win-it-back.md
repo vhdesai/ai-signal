@@ -5,7 +5,7 @@ date: '2026-08-01'
 source: Wall Street Journal**
 url_original: https://www.wsj.com/tech/ai/how-openai-lost-its-ai-crownand-the-fight-to-win-it-back-7d069695
 url_canonical: https://www.wsj.com/tech/ai/how-openai-lost-its-ai-crownand-the-fight-to-win-it-back-7d069695
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-02_065015_Final-Daily-AI-News-Digest.md
 content_hash: f2c6b11452f3e840f3833e431e057b1017871edd0fe572233ba250610d3bf5fc
 normalized_title_hash: 4ac109935cdf1405

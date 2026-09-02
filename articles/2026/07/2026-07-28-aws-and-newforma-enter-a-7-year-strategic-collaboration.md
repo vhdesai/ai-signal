@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: TMCnet
 url_original: https://www.tmcnet.com/usubmit/2026/07/28/10420831.htm
 url_canonical: https://www.tmcnet.com/usubmit/2026/07/28/10420831.htm
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: febbd66aeecfa8da0ca6b3dbef81847de243908ee6e5e9e178fb1415893fd6a6
@@ -17,6 +17,7 @@ entities:
 - Amazon
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Architecture/engineering/construction software firm Newforma announced a seven-y
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-09-01-aws-and-accenture-sign-six-year-middle-east-ai-and-cloud-agr]] · [[2026-08-03-a-35-billion-tranche-dramatically-raises-the-ceiling-for-pla]] · [[2026-04-16-openai-signed-a-strategic-partnership-with-wegovy-maker-novo]] · [[2026-07-28-recursive-signs-410m-multi-year-aws-deal-to-scale-self-impro]] · [[2026-04-27-]]
 <!-- graph:end -->

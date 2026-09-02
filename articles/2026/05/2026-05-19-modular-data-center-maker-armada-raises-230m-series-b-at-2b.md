@@ -17,6 +17,8 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +39,6 @@ Armada, maker of modular and rapidly deployable edge data centers, raised a $230
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation]] · [[2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio]] · [[2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat]] · [[2026-08-25-emerald-ai-raises-150m-at-1-05b-to-make-data-centers-flexibl]] · [[2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b]]
 <!-- graph:end -->

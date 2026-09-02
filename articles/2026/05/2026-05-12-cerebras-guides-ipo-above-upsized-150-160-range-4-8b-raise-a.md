@@ -18,6 +18,8 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +41,6 @@ Cerebras Systems told investors it expects to price above the top of its already
 ## Connections
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u]] · [[2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68]] · [[2026-04-16-cerebras-systems-is-preparing-for-a-nasdaq-listing-ticker-cb]] · [[2026-05-17-cerebras-systems-hit-the-nasdaq-on-may-14-in-the-most-closel]] · [[2026-05-10-breakingcerebras-ipo-demand-forces-price-hike-4-8b-raise-exp]]
 <!-- graph:end -->

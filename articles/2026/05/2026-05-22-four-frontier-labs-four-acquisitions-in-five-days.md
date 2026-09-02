@@ -20,6 +20,8 @@ entities:
 - Mistral
 themes:
 - company-storylines
+- ma-activity
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +42,6 @@ In a single week, Anthropic acquired API tooling vendor Stainless for $300M+, Mi
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[Mistral]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-22-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-e]] · [[2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult]] · [[2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed]] · [[2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a]]
 <!-- graph:end -->

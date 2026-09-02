@@ -16,6 +16,7 @@ entities: []
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Second phase of semiconductor duties would reach products containing chips — s
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-28-semiconductor-tariff-phase-2-weighed-for-servers-and-laptops]] · [[2026-08-27-u-s-weighs-a-broader-semiconductor-tariff-regime-covering-se]] · [[2026-08-28-washington-weighs-extending-chip-tariffs-to-servers-and-fini]] · [[2026-08-08-ai-data-center-imports-are-largely-exempt-from-us-tariffs]]
 <!-- graph:end -->

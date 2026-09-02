@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Financial Times
 url_original: https://aiweekly.co/ai-news-today
 url_canonical: https://aiweekly.co/ai-news-today
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_060214_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 24d9adc353606481f097ef6375e6a1a4321c2ad8968078ad559846112cb1fa3e
@@ -17,6 +17,7 @@ entities:
 - Samsung
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ South Korean regulators are moving to cap individual exposure to leveraged semic
 ## Connections
 
 **Entities:** [[Samsung]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-08-03-south-korea-s-deepx-valuation-surges-to-2-2b-in-fresh-fundin]] · [[2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o]] · [[2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p]]
 <!-- graph:end -->

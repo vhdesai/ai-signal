@@ -15,6 +15,8 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +35,6 @@ a16z closed a $1.1 billion vehicle dedicated to AI chips, memory, networking, st
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-28-andreessen-horowitz-closes-1-1b-machine-age-fund-for-ai-hard]] · [[2026-08-28-a16z-raises-1-1b-machine-age-fund-dedicated-to-ai-s-physical]] · [[2026-08-31-andreessen-horowitz-raises-a-1-1-billion-ai-hardware-fund]]
 <!-- graph:end -->

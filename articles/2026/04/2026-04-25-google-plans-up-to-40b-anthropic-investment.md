@@ -16,6 +16,7 @@ entities:
 - Google
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Google plans to invest up to $40B in Anthropic via cash and compute as Claude de
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-15-anthropic-potential-30b-funding-round-could-push-valuation-t]] · [[2026-05-07-anthropic-arr-crosses-44b-80x-year-over-year-growth]] · [[2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f]] · [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]] · [[2026-05-06-hot-alphabet-briefly-overtakes-nvidia-on-200-billion-anthrop]]
 <!-- graph:end -->

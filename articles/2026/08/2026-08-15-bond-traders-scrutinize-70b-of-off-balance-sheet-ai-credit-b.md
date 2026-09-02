@@ -5,7 +5,7 @@ date: '2026-08-15'
 source: Bloomberg
 url_original: https://finance.yahoo.com/technology/ai/articles/bond-traders-agonizing-over-70-190000845.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/bond-traders-agonizing-over-70-190000845.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-16_065100_Final-Daily-AI-News-Digest.md
 content_hash: eece2ac95fce51c5f657317b460d6752e6e309d31d19deeb0a14f830ec41d65b
 normalized_title_hash: 87a7d35d8bbf667d
@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Roughly $70 billion in residual-value guarantees tied to AI infrastructure sit o
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-16-bond-traders-flag-70b-of-off-balance-sheet-backstops-behind]] · [[2026-08-15-bond-traders-scrutinize-70b-off-balance-sheet-ai-credit-back]] · [[2026-08-13-nvidia-500b-financing-vehicle-with-gpu-residual-value-guaran]] · [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70b-in-debt-for-ai-chip]] · [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a]]
 <!-- graph:end -->

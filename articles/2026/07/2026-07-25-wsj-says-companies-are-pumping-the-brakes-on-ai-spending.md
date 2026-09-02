@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -35,6 +36,6 @@ The Wall Street Journal reports that companies are becoming more selective about
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon]]
 <!-- graph:end -->

@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ SpaceX has filed plans for a $55B semiconductor fabrication facility in Texas du
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[TSMC]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te]] · [[2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-semiconductor-compl]] · [[2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-chip-complex-in-tex]] · [[2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-a-new-texas-semicon]] · [[2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea]]
 <!-- graph:end -->

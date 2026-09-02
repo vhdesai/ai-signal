@@ -5,7 +5,7 @@ date: '2026-04-22'
 source: Google Cloud Next 2026
 url_original: https://cloud.google.com/next
 url_canonical: https://cloud.google.com/next
-url_status: ok
+url_status: found
 digest_source: digests\raw\google-cloud-next-2026.md
 content_hash: 2d15008aa534c274c0849cbb49e28eb535d5488da273b5787673964bc915eaba
 normalized_title_hash: 20e64c269a82c014

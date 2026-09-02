@@ -17,6 +17,7 @@ entities:
 - Baidu
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -34,6 +35,6 @@ Baidu's AI chip arm Kunlunxin is planning a Hong Kong IPO at a ~$50B target — 
 ## Connections
 
 **Entities:** [[Baidu]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-06-29-baidu-jumps-7-as-chip-arm-kunlunxin-targets-50b-hong-kong-ip]]
 <!-- graph:end -->

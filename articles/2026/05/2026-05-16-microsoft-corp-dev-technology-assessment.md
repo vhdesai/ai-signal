@@ -21,6 +21,8 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +44,6 @@ ________________________________ The frontier held its April ceiling through mid
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-05-17-google-i-o-2026-may-19-20-expected-gemini-3-x-updates-google]]
 <!-- graph:end -->

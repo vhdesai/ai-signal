@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -36,6 +37,6 @@ President Trump said he raised possible AI guardrails with President Xi as U.S. 
 ## Connections
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[NVIDIA]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-05-15-trump-and-xi-discuss-ai-guardrails-and-nvidia-chips-at-beiji]]
 <!-- graph:end -->

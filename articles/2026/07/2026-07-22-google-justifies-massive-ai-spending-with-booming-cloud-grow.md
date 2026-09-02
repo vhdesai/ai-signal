@@ -18,6 +18,7 @@ entities:
 - Google
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ TechCrunch reports that Google Cloud revenue grew 82% year over year to $24.8 bi
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-30-investors-continue-to-reward-ai-spend-when-it-is-paired-with]] · [[2026-07-22-google-defends-ai-capex-with-booming-cloud-growth]] · [[2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc]] · [[2026-05-04-q1-2026-cloud-market-129b-record-ai-as-the-wedge]] · [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: Medical Xpress
 url_original: https://medicalxpress.com/news/2026-06-national-index-tracks-ai-health.html
 url_canonical: https://medicalxpress.com/news/2026-06-national-index-tracks-ai-health.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-02_061615_Daily-AI-News-Digest.md
 content_hash: a1b76e2a159f754a43628c2312b55ea59c2a4dfe4653397d6f0628aeb869bdea
 normalized_title_hash: c86bad1128c7d1a6

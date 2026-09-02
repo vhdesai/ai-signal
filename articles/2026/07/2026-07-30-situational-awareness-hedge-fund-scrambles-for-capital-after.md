@@ -16,6 +16,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Situational Awareness, the $20 billion hedge fund founded by Leopold Aschenbrenn
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-31-leopold-aschenbrenner-s-45b-situational-awareness-fund-colla]] · [[2026-08-05-the-high-powered-backers-of-situational-awareness-revealed]] · [[2026-07-31-situational-awareness-fire-sale-turns-leveraged-ai-convictio]] · [[2026-07-31-situational-awareness-sell-off-becomes-a-stress-signal-for-a]]
 <!-- graph:end -->

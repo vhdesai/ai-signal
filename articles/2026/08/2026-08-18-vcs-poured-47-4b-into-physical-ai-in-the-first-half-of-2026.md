@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Global venture funding into physical AI — robotics, autonomy and aerospace app
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai]] · [[2026-05-09-global-venture-funding-reached-56-billion-in-april-2026-the]] · [[2026-08-16-vc-semiconductor-funding-hits-14-1b-in-h1-2026-on-track-to-s]]
 <!-- graph:end -->

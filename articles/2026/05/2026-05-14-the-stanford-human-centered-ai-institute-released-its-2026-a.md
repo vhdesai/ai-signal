@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -37,6 +38,6 @@ The Stanford Human-Centered AI Institute released its 2026 AI Index, the most co
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]] · [[2026-05-18-stanford-s-annual-ai-index-the-field-s-most-cited-benchmark]]
 <!-- graph:end -->

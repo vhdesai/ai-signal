@@ -16,6 +16,7 @@ entities:
 - Apple
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +39,6 @@ Apple reportedly extended its Broadcom partnership across multiple product gener
 ## Connections
 
 **Entities:** [[Apple]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-11-apple-announces-30b-custom-silicon-deal-with-broadcom-15b-ch]] · [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]] · [[2026-08-21-broadcom-seeks-up-to-80-billion-in-debt-for-an-ai-chip-finan]] · [[2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai]] · [[2026-08-21-broadcom-seeks-60-80b-in-debt-to-build-ai-chip-capacity-for]]
 <!-- graph:end -->

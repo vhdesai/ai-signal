@@ -6,7 +6,7 @@ date: '2026-08-25'
 source: '[Business Standard]'
 url_original: https://www.business-standard.com/technology/artificial-intelligence/data-centre-firm-am-intelligence-orders-9-000-nvidia-vera-rubin-systems-126082500791_1.html
 url_canonical: https://www.business-standard.com/technology/artificial-intelligence/data-centre-firm-am-intelligence-orders-9-000-nvidia-vera-rubin-systems-126082500791_1.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-25_061146_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 7cab509fe4ee1f9c9b90e50ae7be66e0d76d6afd764e4b96149c1907a4ea3baa
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ AM Intelligence, part of the group behind renewable producer Greenko, ordered 9,
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project]] · [[2026-08-31-humain-also-partners-with-together-ai-and-minio-on-riyadh-an]] · [[2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm]] · [[2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover]]
 <!-- graph:end -->

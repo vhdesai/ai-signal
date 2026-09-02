@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Axios frames Nvidia as simultaneously the AI industry’s supplier, banker, and 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]] · [[2026-08-28-executive-analysis-why-nvidia-backs-and-buys-ai-startups]] · [[2026-08-18-nvidia-s-ai-moat-is-shifting-from-chips-to-capital]]
 <!-- graph:end -->

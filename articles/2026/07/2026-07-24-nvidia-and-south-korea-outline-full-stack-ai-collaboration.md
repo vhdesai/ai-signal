@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration
@@ -34,6 +35,6 @@ NVIDIA says South Korean President Jae Myung Lee and senior Korean business and 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration]]
 <!-- graph:end -->

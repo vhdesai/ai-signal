@@ -5,7 +5,7 @@ date: '2026-07-24'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/
 url_canonical: https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-25_065018_Final-Daily-AI-News-Digest.md
 content_hash: 5e6d7596704747b89a8b1dfb78ea6bd473736aa239f109988827b4b0cfecdb24
 normalized_title_hash: a638ef752fb7d9f7

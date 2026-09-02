@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: CRN
 url_original: https://www.crn.com/news/ai/2026/aws-google-oracle-microsoft-top-gartner-s-cloud-ai-infrastructure-list-for-2026
 url_canonical: https://www.crn.com/news/ai/2026/aws-google-oracle-microsoft-top-gartner-s-cloud-ai-infrastructure-list-for-2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-30_062819_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: c9f99c71f8ced79cbb225c69db9e8382f0a108da89bb6e1c2c653742675b0f91
@@ -21,6 +21,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -43,6 +44,6 @@ Gartner published its 2026 Magic Quadrant for Cloud AI Infrastructure, naming AW
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Microsoft]] · [[Oracle]] · [[Tencent]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-magic-quadrant-names]] · [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o]] · [[2026-07-10-coreweave-named-a-visionary-in-the-2026-gartner-magic-quadra]] · [[2026-05-04-trendingcloud-market-share-q1-2026-aws-microsoft-google-all]] · [[2026-04-27-]]
 <!-- graph:end -->

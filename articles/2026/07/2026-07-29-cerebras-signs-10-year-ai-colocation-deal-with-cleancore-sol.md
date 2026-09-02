@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/cleancore-solutions-inc-nyse-american-120000096.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/cleancore-solutions-inc-nyse-american-120000096.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-30_060704_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 3d69ac14aeb59e0616890e9409b0d121bdd8170db8860d88f62a572707036dba
@@ -18,6 +18,7 @@ entities:
 - Scale AI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ CleanCore Solutions (NYSE American: ZONE) signed a 10-year colocation agreement 
 ## Connections
 
 **Entities:** [[Cerebras]] · [[Scale AI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-29-cerebras-signs-a-10-year-ai-colocation-agreement-with-cleanc]] · [[2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center]] · [[2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da]] · [[2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i]] · [[2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale]]
 <!-- graph:end -->

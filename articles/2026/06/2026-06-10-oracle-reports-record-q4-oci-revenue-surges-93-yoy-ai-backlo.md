@@ -17,6 +17,7 @@ entities:
 - Oracle
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Oracle reported record Q4 and FY 2026 results with OCI revenue surging 93% year-
 ## Connections
 
 **Entities:** [[Oracle]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-spending-guidance-spo]] · [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]] · [[2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-capex-guidance-spooke]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]] · [[2026-08-13-lenovo-posts-record-26-9b-quarter-as-ai-related-revenue-jump]]
 <!-- graph:end -->

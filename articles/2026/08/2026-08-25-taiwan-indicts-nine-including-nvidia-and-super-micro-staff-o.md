@@ -6,7 +6,7 @@ date: '2026-08-25'
 source: '[The Next Web]'
 url_original: https://thenextweb.com/news/taiwan-indicts-nine-ai-server-smuggling
 url_canonical: https://thenextweb.com/news/taiwan-indicts-nine-ai-server-smuggling
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-25_061146_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: dc45b75a8b997fa3e0c456ad851c261b9b50681f0fa7738fcb3ec077f51f00ee

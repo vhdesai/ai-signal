@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: Business Times
 url_original: https://www.btimesonline.com/articles/178026/20260710/micron-expands-us-investment-to-250-billion-through-2035-as-ai-chip-demand-sends-shares-higher.htm
 url_canonical: https://www.btimesonline.com/articles/178026/20260710/micron-expands-us-investment-to-250-billion-through-2035-as-ai-chip-demand-sends-shares-higher.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-11_065220_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 626dfe0d8421dd1a6c5ad3941092987fad36df203c2f8aa6f6a90d8198163f68
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Micron unveiled ~$250B in U.S. manufacturing through 2035, tied to HBM demand fo
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on]] · [[2026-07-10-micron-expands-u-s-manufacturing-plan-to-about-250b-on-ai-me]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]]
 <!-- graph:end -->

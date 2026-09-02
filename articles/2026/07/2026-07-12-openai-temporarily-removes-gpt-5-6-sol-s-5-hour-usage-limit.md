@@ -5,7 +5,7 @@ date: '2026-07-12'
 source: BleepingComputer
 url_original: https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/
 url_canonical: https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-13_060615_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: a9219e63b15c61c6e6679dbae192423f1600b8d114c855536c91aa81c1079d4b

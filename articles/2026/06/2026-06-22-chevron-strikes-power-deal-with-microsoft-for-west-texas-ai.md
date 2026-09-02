@@ -17,6 +17,7 @@ entities:
 - Microsoft
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ The Wall Street Journal reported that Chevron reached a power agreement with Mic
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-06-22-microsoft-signs-20-year-power-deal-with-chevron-for-west-tex]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]]
 <!-- graph:end -->

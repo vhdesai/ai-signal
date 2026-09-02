@@ -16,6 +16,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Sources cited by WinBuzzer claim Anthropic is exploring a new funding round of a
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f]] · [[2026-05-15-anthropic-potential-30b-funding-round-could-push-valuation-t]] · [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]] · [[2026-05-15-hot-anthropic-closing-in-on-900b-valuation-in-new-30b-fundin]]
 <!-- graph:end -->

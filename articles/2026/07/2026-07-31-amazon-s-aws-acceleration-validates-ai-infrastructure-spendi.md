@@ -19,6 +19,7 @@ entities:
 - Apple
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Amazon shares surged after the company reported 37% AWS revenue growth, the fast
 ## Connections
 
 **Entities:** [[Amazon]] · [[Apple]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-31-amazon-surges-15-as-aws-reaccelerates-apple-falls-7-on-suppl]] · [[2026-08-01-wall-street-rewards-ai-spending-when-it-is-tied-to-cloud-rev]] · [[2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200]]
 <!-- graph:end -->

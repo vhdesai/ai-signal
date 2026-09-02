@@ -6,7 +6,7 @@ date: '2026-07-21'
 source: Moneycontrol (via The Information)**
 url_original: https://www.moneycontrol.com/technology/google-is-working-on-new-frozen-v2-ai-chip-for-gemini-here-s-what-it-could-do-article-13979159.html
 url_canonical: https://www.moneycontrol.com/technology/google-is-working-on-new-frozen-v2-ai-chip-for-gemini-here-s-what-it-could-do-article-13979159.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-21_065051_Final-Daily-AI-News-Digest.md
 content_hash: c0c889484d9ec398380951374a28f4586a089e05baca06f4f7ad6d0e029bbc8c
 normalized_title_hash: fbeb2076866d139d
@@ -18,6 +18,7 @@ entities:
 - Google
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Google is reportedly developing a custom inference chip that hardwires the Gemin
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-20-google-works-on-frozen-v2-chip-to-improve-gemini-inference-e]] · [[2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient]] · [[2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp]] · [[2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics]] · [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu]]
 <!-- graph:end -->

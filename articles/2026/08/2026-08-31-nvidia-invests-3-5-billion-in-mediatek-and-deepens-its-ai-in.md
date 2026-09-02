@@ -18,6 +18,8 @@ entities:
 - Scale AI
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-nvidia-and-mediatek-deepen-partnership-across-ai-infrastruct
@@ -34,6 +36,6 @@ Nvidia and MediaTek expanded their collaboration across custom AI infrastructure
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[Scale AI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-31-nvidia-and-mediatek-deepen-partnership-across-ai-infrastruct]]
 <!-- graph:end -->

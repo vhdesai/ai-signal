@@ -5,7 +5,7 @@ date: null
 source: NVIDIA GTC 2026 and GTC Taipei 2026
 url_original: https://www.nvidia.com/gtc/
 url_canonical: https://www.nvidia.com/gtc/
-url_status: ok
+url_status: found
 digest_source: digests\raw\nvidia-gtc-2026-gtc-taipei-2026.md
 content_hash: 848ccb4174d68c6fc280f1a3e30dc0ffbc9ef9a917ea0fe1ed1719b2061db489
 normalized_title_hash: fb77a6cbd2942cc2
@@ -23,6 +23,7 @@ entities:
 - xAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -44,6 +45,6 @@ The corpus previews GTC Taipei as a delivery-story event: N1X ARM-based laptop S
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[Oracle]] · [[SAP]] · [[TSMC]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]] · [[2026-05-27-nvidia-gtc-taipei-2026-preview-n1x-arm-laptop-soc-vera-rubin]] · [[2026-05-27-nvidia-refreshes-gtc-2026-press-kit-ahead-of-taipei]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics]]
 <!-- graph:end -->

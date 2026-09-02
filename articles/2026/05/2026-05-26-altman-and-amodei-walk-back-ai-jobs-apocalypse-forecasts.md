@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: TIME / The Decoder
 url_original: https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/
 url_canonical: https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 6d38f65ada9580b4263f7f3a7f49c6f07f64583e8433bb902660656b00605916

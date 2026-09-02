@@ -5,7 +5,7 @@ date: '2026-08-12'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/
 url_canonical: https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-13_060924_Inbox_Daily AI News Digest - August 13,
   2026.md
 content_hash: 7238998988bbbbc44c6a92986f6b9b1ca1ed63290dff59411f21815e5eb777c7
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua
@@ -31,6 +32,6 @@ Cognition, the maker of the Devin AI coding agent, is reportedly in talks to rai
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - ByteDance
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -34,6 +35,6 @@ MiniMax released H3, a multimodal video model that can take text, image, video, 
 ## Connections
 
 **Entities:** [[Alibaba]] · [[ByteDance]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-31-china-s-minimax-releases-h3-multimodal-video-model]]
 <!-- graph:end -->

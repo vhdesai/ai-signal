@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: Tech Funding News**
 url_original: https://www.londondaily.news/uk-startups-secure-17-billion-in-first-half-of-2026-with-ai-drawing-74-of-venture-capital/
 url_canonical: https://www.londondaily.news/uk-startups-secure-17-billion-in-first-half-of-2026-with-ai-drawing-74-of-venture-capital/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-06_084325_Final-Daily-AI-News-Digest.md
 content_hash: dc9a905c4f7e9e9419f1089a7d001242c48e34ba19fe2cd98edcb75b73c40227
 normalized_title_hash: 33508fd45da5c3cb
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc
@@ -31,6 +32,6 @@ UK startups raised approximately $17 billion in the first half of 2026 — rough
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc]]
 <!-- graph:end -->

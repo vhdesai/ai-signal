@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: '[TIME]'
 url_original: https://time.com/article/2026/08/06/google-deepmind-ai-demis-hassabis/
 url_canonical: https://time.com/article/2026/08/06/google-deepmind-ai-demis-hassabis/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-08_062022_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: b76924b5fe78f6146b987b2bb2a19034852df6bab0e4f3c621b673068bad8e50

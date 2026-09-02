@@ -5,8 +5,8 @@ title: Arm Holdings — whose instruction set architecture underpins chips from 
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.cnbc.com/2023/11/09/how-arm-gained-chip-dominance-with-apple-nvidia-amazon-and-qualcomm.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-02_080231_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: f769985844037ae91679dceb1f2dcf01349ddea0fedb609828a9d4bcdb0c8e42
@@ -21,6 +21,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +43,6 @@ Arm Holdings — whose instruction set architecture underpins chips from Apple, 
 ## Connections
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Arm]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-06-arm-announced-a-136-core-processor-designed-specifically-for]] · [[2026-04-02-trending-arm-holdings-unveils-first-agi-optimized-cpu-archit]] · [[2026-08-26-apple-debuts-pcs-and-chips-dedicated-to-enterprise-ai-worklo]] · [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]]
 <!-- graph:end -->

@@ -18,6 +18,8 @@ entities:
 - Cerebras
 themes:
 - model-capabilities
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +41,6 @@ Less than a week after the largest tech IPO of 2026, Cerebras announced it is ru
 ## Connections
 
 **Entities:** [[Cerebras]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-981-tokens-sec]] · [[2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon]] · [[2026-07-27-moonshot-ai-releases-kimi-k3-weights-the-largest-open-model]] · [[2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]]
 <!-- graph:end -->

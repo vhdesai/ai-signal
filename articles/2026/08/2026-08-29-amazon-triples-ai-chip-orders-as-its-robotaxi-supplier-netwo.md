@@ -17,6 +17,7 @@ entities:
 - Amazon
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Amazon is reported to have roughly tripled its AI chip orders while broadening t
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-26-amazon-triples-its-nvidia-chip-order-over-surging-demand]] · [[2026-04-09-products-tools]] · [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]]
 <!-- graph:end -->

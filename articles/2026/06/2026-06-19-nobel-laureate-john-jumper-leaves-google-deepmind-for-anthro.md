@@ -5,7 +5,7 @@ date: '2026-06-19'
 source: CNBC; Business Insider; The Decoder
 url_original: https://www.businessinsider.com/alphafold-john-jumper-leaves-google-deepmind-anthropic-demis-hassabis-nobel-2026-6
 url_canonical: https://www.businessinsider.com/alphafold-john-jumper-leaves-google-deepmind-anthropic-demis-hassabis-nobel-2026-6
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-20_070303_Final-Daily-AI-News-Digest.md
 content_hash: b3b6f41f195f30ac878a24b352cd7c3b910b9e5a305da629c16ddf8ed7ff2911
 normalized_title_hash: 90b04be21c2e67b1

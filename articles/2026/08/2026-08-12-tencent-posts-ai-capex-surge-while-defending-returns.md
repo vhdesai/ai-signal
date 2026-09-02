@@ -16,6 +16,7 @@ entities:
 - Tencent
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -33,6 +34,6 @@ Tencent reported a surge in AI capital expenditure alongside marketing services 
 ## Connections
 
 **Entities:** [[Tencent]]
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns]]
 <!-- graph:end -->

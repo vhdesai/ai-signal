@@ -6,7 +6,7 @@ date: '2026-08-24'
 source: TMCnet
 url_original: https://www.tmcnet.com/usubmit/2026/08/24/10434417.htm
 url_canonical: https://www.tmcnet.com/usubmit/2026/08/24/10434417.htm
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-25_163610_Inbox_Fw Daily AI News Digest - August
   25, 2026.md
 content_hash: 30c3fd161fae2cf8dcb66ab775179aa2590e9128d2c052af9d309d0a1dadca74
@@ -18,6 +18,7 @@ entities:
 - Scale AI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Lancium announced a partnership with Nvidia to advance gigawatt-scale AI factory
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[Scale AI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-08-nvidia-invests-up-to-3b-in-blackstone-backed-power-firm-lanc]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 - ByteDance
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +41,6 @@ The Financial Times reports that Chinese groups including Ant Financial (via a S
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[ByteDance]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac]] · [[2026-07-03-anthropic-moves-to-close-chinese-firms-backdoor-access-to-cl]] · [[2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant]] · [[2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi]] · [[2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing]]
 <!-- graph:end -->

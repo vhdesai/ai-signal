@@ -5,7 +5,7 @@ date: '2026-06-15'
 source: Bloomberg
 url_original: https://www.bloomberg.com/deals
 url_canonical: https://www.bloomberg.com/deals
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-15_155554_Final-Daily-AI-News-Digest.md
 content_hash: d50893577ce85d60d12bba4404f7d188a2ac4325e66136f5cc6bf72eff2daae1
 normalized_title_hash: 115dcd3fa3a01733
@@ -15,6 +15,7 @@ entities:
 - Salesforce
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Bloomberg reported Salesforce has agreed to acquire Fin, an AI-native customer-s
 ## Connections
 
 **Entities:** [[Salesforce]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-08-06-omilia-raises-67-million-to-scale-ai-customer-support-automa]] · [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin]] · [[2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target]] · [[2026-05-10-nebius-acquires-ai-consultancy-eigen-for-643m-nvidia-commits]]
 <!-- graph:end -->

@@ -19,6 +19,7 @@ entities:
 - Meta
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ WSJ reports that Meta plans to hire a top Amazon computing executive as it weigh
 ## Connections
 
 **Entities:** [[Amazon]] · [[Meta]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-to-accelerate]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]] · [[2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]]
 <!-- graph:end -->

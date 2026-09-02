@@ -18,6 +18,7 @@ entities:
 - DeepSeek
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -35,6 +36,6 @@ Memeburn reported that DeepSeek is planning a data center of at least one gigawa
 ## Connections
 
 **Entities:** [[DeepSeek]]
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-01-deepseek-reportedly-plans-a-1-gigawatt-data-center-in-inner]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-07-03'
 source: The Information
 url_original: https://www.theinformation.com/search?q=Anthropic+Freshfields+IPO
 url_canonical: https://www.theinformation.com/search?q=Anthropic+Freshfields+IPO
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-05_061331_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 21f3a1e1566ba479f0d915b77894d80c4dd3982abb824fe52274f0414cacf696
@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -41,6 +42,6 @@ Anthropic's bankers have retained UK law firm Freshfields — the adviser on Goo
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest]] · [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]] · [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]]
 <!-- graph:end -->

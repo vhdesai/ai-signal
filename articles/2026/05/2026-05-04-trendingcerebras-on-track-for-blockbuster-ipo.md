@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ OpenAI's "cozy partner" Cerebras is now reported to be on track for a blockbuste
 ## Connections
 
 **Entities:** [[Cerebras]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Company Investments]]
 **Related:** [[2026-05-23-cerebras-systems-completed-a-blockbuster-ipo-with-a-strong-m]] · [[2026-05-28-cerebras-positioned-as-most-watched-ai-chip-ipo-of-2026]] · [[2026-05-18-cerebras-ipo-winners-include-foundation-benchmark-and-openai]] · [[2026-05-13-cerebras-could-be-2026-s-hottest-ipo-sovereigns-backstop-the]]
 <!-- graph:end -->

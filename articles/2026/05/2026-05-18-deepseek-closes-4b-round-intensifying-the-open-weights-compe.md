@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - model-capabilities
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -42,6 +43,6 @@ China's DeepSeek closed a $4 billion funding round that values the lab among the
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-06-03-deepseek-prepares-7-billion-maiden-fundraise]]
 <!-- graph:end -->

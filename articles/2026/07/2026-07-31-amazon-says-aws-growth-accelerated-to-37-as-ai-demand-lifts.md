@@ -17,6 +17,7 @@ entities:
 - Amazon
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-31-amazon-q2-aws-revenue-accelerates-to-37-capex-guided-to-220b
@@ -33,6 +34,6 @@ Amazon reported that AWS revenue grew 37% in Q2, nine points faster than Q1, whi
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-31-amazon-q2-aws-revenue-accelerates-to-37-capex-guided-to-220b]]
 <!-- graph:end -->

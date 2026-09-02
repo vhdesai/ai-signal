@@ -5,7 +5,7 @@ date: '2026-09-01'
 source: OpenAI
 url_original: https://openai.com/index/ai-native-company-workflows/
 url_canonical: https://openai.com/index/ai-native-company-workflows/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-02_061041_Inbox_Daily AI News Digest – September
   2, 2026.md
 content_hash: a7c63bebf083ec1a52a11566142e7c2c79f79f4348b307b11fbf2c56ecdc7da4

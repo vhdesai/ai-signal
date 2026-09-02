@@ -20,6 +20,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +43,6 @@ Cerebras Systems is raising its IPO price range to $150–$160 per share (up fro
 ## Connections
 
 **Entities:** [[Cerebras]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-14-cerebras-prices-5-5b-ipo-above-range-wsj-may-13-2026-cerebra]] · [[2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t]] · [[2026-05-10-cerebras-ipo-seeking-3-5b-at-26-6b-valuation]] · [[2026-05-04-cerebras-prices-ipo-at-26-6b-valuation-seeks-3-5b]] · [[2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u]]
 <!-- graph:end -->

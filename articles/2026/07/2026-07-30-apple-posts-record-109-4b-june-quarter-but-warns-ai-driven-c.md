@@ -6,7 +6,7 @@ date: '2026-07-30'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/30/apple-earnings-live-updates.html
 url_canonical: https://www.cnbc.com/2026/07/30/apple-earnings-live-updates.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-01_061911_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 7552501a80a71e5e1d665ee3bfd2d2a8e148cd72a1034a2209aa77d7f69c0351
@@ -17,6 +17,7 @@ entities:
 - Apple
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Apple reported fiscal Q3 revenue of $109.4B, up 16%, with iPhone up 22% to $54.3
 ## Connections
 
 **Entities:** [[Apple]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-30-apple-posts-record-june-quarter-but-warns-ai-driven-componen]] · [[2026-07-31-apple-posts-record-june-quarter-but-warns-of-ai-driven-compo]] · [[2026-07-30-apple-beats-but-guides-soft-in-tim-cook-s-final-quarter-as-c]] · [[2026-07-30-apple-beats-on-revenue-but-guides-weak-as-memory-crunch-bite]] · [[2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t]]
 <!-- graph:end -->

@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ PitchBook analyzed the tension between AI startups' ambitions and investor press
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-01-pitchbook-says-the-saas-pocalypse-is-entering-its-second-pha]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]] · [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu]]
 <!-- graph:end -->

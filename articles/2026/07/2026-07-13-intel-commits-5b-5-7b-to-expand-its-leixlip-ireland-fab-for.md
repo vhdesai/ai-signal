@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: RTÉ**
 url_original: https://www.rte.ie/news/business/2026/0713/1583104-new-intel-leixlip-jobs/
 url_canonical: https://www.rte.ie/news/business/2026/0713/1583104-new-intel-leixlip-jobs/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-13_065032_Final-Daily-AI-News-Digest.md
 content_hash: d17244b775acce1902d1ec744cccba3414146d65efb8bfc0da560b9125cedb57
 normalized_title_hash: 26f24f627f8e5ada
@@ -17,6 +17,7 @@ entities:
 - Intel
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Intel announced €5 billion to expand Fab 34 at Leixlip, upgrading fabrication 
 ## Connections
 
 **Entities:** [[Intel]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-13-intel-commits-5b-to-expand-leixlip-ireland-fab-for-ai-chips]] · [[2026-07-30-eu-commits-10b-to-seven-ai-gigafactories-in-race-with-u-s-an]] · [[2026-08-11-intel-launches-15-billion-stock-offering-to-fund-ai-foundry]] · [[2026-08-10-intel-launches-a-15b-stock-offering-to-fund-its-ai-and-found]] · [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally]]
 <!-- graph:end -->

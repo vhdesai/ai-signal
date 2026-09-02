@@ -5,7 +5,7 @@ date: '2026-08-15'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+SB+Energy+OpenAI+data+center
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+SB+Energy+OpenAI+data+center
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-16_065759_Final-Daily-AI-News-Digest.md
 content_hash: c5ea3198a2acfb8819f85bcc248560313dd411b02c363b44d47d8777789e2377
 normalized_title_hash: b887953c836c13ee
@@ -18,6 +18,8 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +41,6 @@ Nvidia is in talks to invest as much as $3 billion in SB Energy, the SoftBank-ba
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-15-nvidia-in-talks-to-invest-3b-in-softbank-s-sb-energy-for-ope]] · [[2026-08-15-nvidia-in-talks-to-invest-up-to-3b-in-softbank-backed-sb-ene]] · [[2026-08-15-nvidia-in-talks-to-put-up-to-3b-into-softbank-backed-sb-ener]] · [[2026-08-15-nvidia-weighs-3b-stake-in-sb-energy-while-restructuring-its]] · [[2026-08-17-nvidia-to-invest-1-5b-in-sb-energy-the-softbank-developer-be]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-07-08'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/08/openai-gets-us-regulatory-approval-for-gpt-5point6-rollout-axios-report.html
 url_canonical: https://www.cnbc.com/2026/07/08/openai-gets-us-regulatory-approval-for-gpt-5point6-rollout-axios-report.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-09_084403_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 55e0df31ad25cd357ab78a2c3e22cba53124448611181dbfb7b6a06d955f9916

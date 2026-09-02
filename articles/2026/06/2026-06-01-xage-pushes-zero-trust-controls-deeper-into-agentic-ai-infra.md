@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: AiThority
 url_original: https://aithority.com/security/xage-security-supercharges-its-just-announced-zero-trust-for-agentic-ai-solution-with-nvidia-vera-bluefield-4-stx-security-innovations/
 url_canonical: https://aithority.com/security/xage-security-supercharges-its-just-announced-zero-trust-for-agentic-ai-solution-with-nvidia-vera-bluefield-4-stx-security-innovations/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: e18ff5ded03108909ea62aa1a84d5ba708938406161fd2434116b0a59da4fa29
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Xage Security announced enhancements to its zero-trust solution for agentic AI u
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic]] · [[2026-07-27-microsoft-launches-mai-cyber-1-flash-and-project-perception]] · [[2026-08-21-nvidia-maps-where-security-belongs-in-the-ai-agent-stack]]
 <!-- graph:end -->

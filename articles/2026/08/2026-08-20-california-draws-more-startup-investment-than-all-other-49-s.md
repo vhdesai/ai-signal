@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ WSJ reports California now attracts more startup VC investment than all other 49
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-25-corporate-capital-is-concentrating-the-u-s-ai-startup-market]] · [[2026-05-27-boston-tries-to-lure-ai-talent-with-california-billionaire-t]] · [[2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat]] · [[2026-04-10-crunchbase-data-confirmed-q1-2026-as-the-largest-venture-cap]]
 <!-- graph:end -->

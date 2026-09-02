@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: The Next Web / Bloomberg, CNBC, Reuters
 url_original: https://thenextweb.com/news/broadcom-60bn-ai-chip-debt-anthropic
 url_canonical: https://thenextweb.com/news/broadcom-60bn-ai-chip-debt-anthropic
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_060949_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 958d950d359572ba6f479facf7dc776efc8c2431537a02c682dce2483d409960
@@ -18,6 +18,8 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70b-in-debt-for-ai-chip
@@ -36,7 +38,7 @@ Broadcom is reported to be raising $60–80B — potentially up to ~$100B — th
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70b-in-debt-for-ai-chip]]
 **Related:** [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a]] · [[2026-04-25-google-plans-up-to-40b-anthropic-investment]]
 <!-- graph:end -->

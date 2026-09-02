@@ -5,8 +5,8 @@ title: Meta has hired the entire founding team of Dreamer — an agentic AI star
 date: '2026-03-24'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://the-decoder.com/meta-acqui-hires-dreamers-entire-team-to-bolster-its-lagging-ai-agent-ambitions/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-26_105104_Inbox_Daily AI News Digest – March 24,
   2026.md
 content_hash: 995e7dacccce5e85b4cdaf892f043b67e1ca24f9f07a08d1a739fddab8bee3b9
@@ -17,7 +17,9 @@ entities:
 - Google
 - Meta
 - OpenAI
-themes: []
+themes:
+- ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,5 +41,6 @@ Meta has hired the entire founding team of Dreamer — an agentic AI startup val
 ## Connections
 
 **Entities:** [[Google]] · [[Meta]] · [[OpenAI]]
+**Topics:** [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1]] · [[2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-05-02-trendingmeta-acquires-humanoid-robotics-startup-assured-robo]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]]
 <!-- graph:end -->

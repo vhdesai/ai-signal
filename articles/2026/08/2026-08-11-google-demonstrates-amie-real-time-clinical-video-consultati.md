@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: Google Blog
 url_original: https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/
 url_canonical: https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-12_060916_Inbox_Daily AI News Digest - August 12,
   2026.md
 content_hash: a048fd0116dbe0e62824fdf999f68a96ce1b7781dc9760f1eeb50359d302f18b

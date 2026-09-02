@@ -6,7 +6,7 @@ date: '2026-07-28'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/321817/20260728/amd-secures-ai-data-center-capacity-core-scientific-14b-power-play.htm
 url_canonical: https://www.techtimes.com/articles/321817/20260728/amd-secures-ai-data-center-capacity-core-scientific-14b-power-play.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-29_062156_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: acc1ffdda6cd9fe65a413e465711d027c3651a383b0bb976d54b0c8142184bf0
@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ AMD secured more than 529 megawatts of U.S. AI data-center capacity from former 
 ## Connections
 
 **Entities:** [[AMD]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t]] · [[2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa]] · [[2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]] · [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]]
 <!-- graph:end -->

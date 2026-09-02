@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-lambda-1b-debt-400b-global-ai-debt-continued
@@ -35,6 +36,6 @@ Lambda raised $1B in private short-dated debt (arranged by JP Morgan) to buy Nvi
 ## Connections
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-28-lambda-1b-debt-400b-global-ai-debt-continued]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-19'
 source: TechCrunch / Bloomberg
 url_original: https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/
 url_canonical: https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-20_065002_Final-Daily-AI-News-Digest.md
 content_hash: ac6ca97ea5032d1309f419575a7071570fef961dc63be1919300b4a6ba2d0549
 normalized_title_hash: 10c13a830390ed90
@@ -16,6 +16,8 @@ entities:
 - xAI
 themes:
 - company-storylines
+- ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +36,6 @@ Bloomberg reported SpaceX attempted to acquire Cognition (maker of the Devin cod
 ## Connections
 
 **Entities:** [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]] · [[2026-07-01-spacex-reportedly-showed-investors-a-handset-like-ai-device]]
 <!-- graph:end -->

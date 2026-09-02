@@ -5,7 +5,7 @@ date: '2026-08-28'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/
 url_canonical: https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-29_060713_Inbox_Daily AI News Digest - August 29,
   2026.md
 content_hash: bf29f3f27909ad0f77dedb6383434d0a0ee4a1589a30ae70667d97afd9c09dd7

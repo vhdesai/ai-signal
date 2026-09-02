@@ -6,7 +6,7 @@ date: '2026-06-01'
 source: NVIDIA; TechCrunch; Wall Street Journal
 url_original: https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/
 url_canonical: https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-04_070640_Inbox_Daily AI News Digest – June 2,
   2026.md
 content_hash: a35062bcb2944551c426bc2856acaa4373e8e61d0c985c95bb7a2fea89799e64

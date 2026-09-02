@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: Fox Business
 url_original: https://www.foxbusiness.com/media/micron-ceo-says-ai-boom-drives-unprecedented-memory-demand-company-invests-250b
 url_canonical: https://www.foxbusiness.com/media/micron-ceo-says-ai-boom-drives-unprecedented-memory-demand-company-invests-250b
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-10_082135_Inbox_Fw Daily AI News Digest - July
   10, 2026.md
 content_hash: fb542253abeff2fbc8fedc07879b59acdfe4cbade5bd8081a17b84937b1b4738
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Micron detailed a $250 billion U.S. investment aimed at eventually producing 40%
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-09-micron-commits-250b-to-us-memory-manufacturing-on-ai-demand]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on]] · [[2026-07-10-micron-expands-u-s-manufacturing-plan-to-about-250b-on-ai-me]] · [[2026-08-21-micron-commits-10b-to-a-boise-research-hub-targeting-post-dr]]
 <!-- graph:end -->

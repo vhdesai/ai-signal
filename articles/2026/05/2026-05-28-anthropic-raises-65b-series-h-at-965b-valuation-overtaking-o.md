@@ -22,6 +22,8 @@ entities:
 - Samsung
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
@@ -38,6 +40,6 @@ Anthropic announced a $65B Series H at a $965B post-money valuation, vaulting pa
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[OpenAI]] · [[Samsung]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]]
 <!-- graph:end -->

@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Local officials who supported AI data center projects report death threats and, 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash]] · [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]]
 <!-- graph:end -->

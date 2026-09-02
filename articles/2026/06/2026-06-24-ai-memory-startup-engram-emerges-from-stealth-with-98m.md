@@ -5,7 +5,7 @@ date: '2026-06-24'
 source: Tech Company News
 url_original: https://www.techcompanynews.com/latest-tech-news-june-24-2026/
 url_canonical: https://www.techcompanynews.com/latest-tech-news-june-24-2026/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-25_062805_Inbox_Daily AI News Digest - June 25,
   2026.md
 content_hash: 7e7935e31f0b10a79ec6b49574c0414368a7747b8e6633e5c2a4de0cb9eb6d74

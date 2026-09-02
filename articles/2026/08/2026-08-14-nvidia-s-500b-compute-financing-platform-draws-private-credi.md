@@ -5,7 +5,7 @@ date: '2026-08-14'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-08-14/private-credit-roundup-nvidias-half-trillion-for-chips-financing-plus-others
 url_canonical: https://money.usnews.com/investing/news/articles/2026-08-14/private-credit-roundup-nvidias-half-trillion-for-chips-financing-plus-others
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-15_065044_Final-Daily-AI-News-Digest.md
 content_hash: 0fb6aa9da1f222715f9cb2250ad6e71c1609c952e1f3ab175a56e513e736bf8e
 normalized_title_hash: 486f042e75a55cb2
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne
@@ -33,6 +34,6 @@ Nvidia's financing partnership with six major financial institutions is now the 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne]]
 <!-- graph:end -->

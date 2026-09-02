@@ -5,7 +5,7 @@ date: '2026-07-16'
 source: GeekWire**
 url_original: https://www.geekwire.com/2026/whatnot-acquires-madrona-backed-ai-startup-shaped-to-boost-live-shopping-recommendations/
 url_canonical: https://www.geekwire.com/2026/whatnot-acquires-madrona-backed-ai-startup-shaped-to-boost-live-shopping-recommendations/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-17_065015_Final-Daily-AI-News-Digest.md
 content_hash: d0cc553352a0380590c41c4704ab2238ca8d185cf5db3533592dd8388394809c
 normalized_title_hash: 7644310ce30a10d6
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Live-shopping unicorn Whatnot acquired Madrona-backed Shaped for its real-time r
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-07-15-whatnot-acquires-shaped-to-improve-real-time-live-shopping-r]] · [[2026-06-19-elastic-reportedly-agrees-to-buy-deductive-ai-for-up-to-85m]] · [[2026-08-06-ex-spotify-team-raises-10-million-to-bring-intent-aware-reco]] · [[2026-05-21-tencent-launches-marvis-an-os-level-ai-assistant-with-cross]] · [[2026-08-25-agentic-web-search-infrastructure-startup-keenable-raises-26]]
 <!-- graph:end -->

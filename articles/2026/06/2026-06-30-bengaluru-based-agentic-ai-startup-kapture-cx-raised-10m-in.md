@@ -16,6 +16,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser
@@ -31,6 +32,6 @@ Bengaluru-based agentic AI startup Kapture CX raised $10M in a pre-Series B roun
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser]]
 <!-- graph:end -->

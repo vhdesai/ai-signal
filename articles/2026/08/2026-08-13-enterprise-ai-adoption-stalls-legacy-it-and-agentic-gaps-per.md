@@ -20,6 +20,8 @@ entities:
 - OpenAI
 themes:
 - model-capabilities
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -41,6 +43,6 @@ Two reports highlight persistent barriers to enterprise AI. A Cloudera report fi
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[DeepSeek]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous]] · [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]] · [[2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at]] · [[2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del]]
 <!-- graph:end -->

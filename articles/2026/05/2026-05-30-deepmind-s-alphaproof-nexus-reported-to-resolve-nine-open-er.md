@@ -5,7 +5,7 @@ date: '2026-05-30'
 source: Tech Times*
 url_original: https://www.techtimes.com/articles/317447/20260530/ai-math-proof-milestone-deepmind-cracks-9-erds-problems-magnetar-confirmed.htm
 url_canonical: https://www.techtimes.com/articles/317447/20260530/ai-math-proof-milestone-deepmind-cracks-9-erds-problems-magnetar-confirmed.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-31_163732_Daily-AI-News-Digest.md
 content_hash: 0a8e4a1b26f743e582678a72f5d17e93f3a38d73ad3466b3ea2911c4d67557b1
 normalized_title_hash: e5396e9009a2bca3

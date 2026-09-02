@@ -16,6 +16,7 @@ entities: []
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-a-2-5b-va
@@ -33,7 +34,7 @@ Instinct, a one-year-old AI assistant still in private beta, closed $350M co-led
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-a-2-5b-va]]
 **Related:** [[2026-08-26-instinct-raises-350m-at-a-2-5b-valuation-before-public-launc]] · [[2026-08-26-instinct-raises-350m-at-a-2-5b-valuation]]
 <!-- graph:end -->

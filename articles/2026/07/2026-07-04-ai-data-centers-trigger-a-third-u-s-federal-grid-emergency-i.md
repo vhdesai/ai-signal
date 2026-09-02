@@ -5,7 +5,7 @@ date: '2026-07-04'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/319678/20260704/ai-data-centers-trigger-third-federal-grid-emergency-sending-bills-air-quality-down.htm
 url_canonical: https://www.techtimes.com/articles/319678/20260704/ai-data-centers-trigger-third-federal-grid-emergency-sending-bills-air-quality-down.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-04_061951_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 93146d1f880fa6bee3bf205740d653f9662f1903aa67d8425e452a5b556a70ce
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ On June 30, Energy Secretary Chris Wright signed two emergency orders under Sect
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-28-pjm-may-temporarily-cut-power-to-data-centers-to-prevent-bla]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-07-25-one-fallen-power-line-trips-3-1-gw-of-ai-data-centers-stress]] · [[2026-07-28-data-centers-may-face-temporary-power-cuts-on-the-largest-us]]
 <!-- graph:end -->

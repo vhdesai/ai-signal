@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: TechCrunch; N2K CyberWire
 url_original: https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/
 url_canonical: https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-04_071147_Daily-AI-News-Digest.md
 content_hash: 2ddf46ffde536cfdec0a33383131c38e856127397048d90d27e88648b80c82de
 normalized_title_hash: bfe1217e3e1179e4
@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-03-coralogix-raises-200m-to-build-monitoring-layer-for-ai-agent
@@ -30,6 +31,6 @@ Coralogix raised $200 million in a Series F, positioning itself as the observabi
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Canonical:** [[2026-06-03-coralogix-raises-200m-to-build-monitoring-layer-for-ai-agent]]
 <!-- graph:end -->

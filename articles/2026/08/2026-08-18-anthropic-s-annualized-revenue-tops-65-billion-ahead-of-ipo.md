@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Anthropic's annualized revenue run-rate reached roughly $65 billion in July, an 
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b]]
 <!-- graph:end -->

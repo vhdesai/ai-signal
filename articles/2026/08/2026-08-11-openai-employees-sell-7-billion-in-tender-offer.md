@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ OpenAI employees sold approximately $7 billion in shares through the latest tend
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation]] · [[2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu]] · [[2026-04-04-openai-completed-a-122-billion-fundraise-the-largest-single]]
 <!-- graph:end -->

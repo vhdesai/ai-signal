@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Nvidia retains dominant AI accelerator share, but competition is eroding the pur
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-06-nvidia-still-dominates-ai-chips-but-bofa-sees-amd-closing-in]] · [[2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares]] · [[2026-08-25-nvidia-s-equity-stakes-could-become-john-malone-style-conglo]] · [[2026-08-25-nvidia-s-equity-stakes-in-ai-companies-could-become-john-mal]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ VivaTech 2026 in Paris wrapped its 10th-anniversary edition with significant AI 
 ## Connections
 
 **Entities:** [[Mistral]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-20-foxconn-demonstrated-a-complete-physical-ai-stack-at-vivatec]] · [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure]] · [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve]] · [[2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing]]
 <!-- graph:end -->

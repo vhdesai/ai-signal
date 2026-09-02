@@ -23,6 +23,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -40,6 +41,6 @@ CNBC reported that the European Commission's AI Act enforcement powers are now a
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro]]
 <!-- graph:end -->

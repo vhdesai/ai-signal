@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: Bloomberg
 url_original: https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-80-billion-debt-171925920.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-80-billion-debt-171925920.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_061248_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: b935c50d11140c001a14504718d2a3460cbbcd70cc31ffc40d9a271f9fa2a405
@@ -18,6 +18,7 @@ entities:
 - Anthropic
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a
@@ -34,6 +35,6 @@ Broadcom is in talks with lenders on a structure that could reach roughly $100B 
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a]]
 <!-- graph:end -->

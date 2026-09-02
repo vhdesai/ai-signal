@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/anthropic-market-debut-could-break-124722679.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/anthropic-market-debut-could-break-124722679.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_062347_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 40106a11d96f5291a3131dc2ddf1ef2ef216cd74188b5d7428cb402918890777
@@ -18,6 +18,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Anthropic has confidentially submitted a draft S-1 to the SEC and could file pub
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-20-anthropic-expects-an-ipo-that-matches-or-exceeds-spacex-s-re]] · [[2026-08-23-anthropic-signals-an-ipo-that-could-beat-spacex-s-86-billion]] · [[2026-08-21-anthropic-prepares-a-record-ipo-that-could-top-spacex-s-debu]] · [[2026-08-24-anthropic-s-ipo-could-break-spacex-s-recordtrending]]
 <!-- graph:end -->

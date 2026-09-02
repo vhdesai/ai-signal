@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ PitchBook flagged CoreWeave's latest GPU-related move as part of a broader capit
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-21-gpu-neocloud-comparison-ranks-providers-by-pricing-and-contr]] · [[2026-08-23-gpu-neocloud-comparison-ranks-coreweave-nebius-lambda-crusoe]] · [[2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch]] · [[2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu]] · [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]]
 <!-- graph:end -->

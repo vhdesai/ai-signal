@@ -6,7 +6,7 @@ date: '2026-07-09'
 source: arXiv
 url_original: https://arxiv.org/abs/2607.08746
 url_canonical: https://arxiv.org/abs/2607.08746
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-10_061505_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 83de7a0e04825c3205a8e8aaab1cc558fae234603ad7cfda10406e842b285e4d

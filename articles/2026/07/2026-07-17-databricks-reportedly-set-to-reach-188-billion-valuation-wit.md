@@ -18,6 +18,7 @@ entities:
 - Databricks
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-17-databricks-reaches-188-billion-valuation-as-ai-infrastructur
@@ -34,6 +35,6 @@ WSJ reports that Databricks is set to reach a $188 billion valuation with new in
 ## Connections
 
 **Entities:** [[Databricks]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-17-databricks-reaches-188-billion-valuation-as-ai-infrastructur]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-08-24'
 source: Reuters
 url_original: https://finance.yahoo.com/technology/articles/xpeng-says-robotics-business-raised-094034493.html
 url_canonical: https://finance.yahoo.com/technology/articles/xpeng-says-robotics-business-raised-094034493.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-24_085500_Final-Daily-AI-News-Digest.md
 content_hash: 7345278825d0cf355c1037ae4b593149ff900d86bbd3b2d710a95333f50b09f7
 normalized_title_hash: 595d3f10c398c06b
@@ -18,6 +18,7 @@ entities:
 - Tencent
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +41,6 @@ XPeng said its robotics unit raised more than $900 million in its first outside 
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Tencent]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its]] · [[2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-post-money-valuati]] · [[2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation]] · [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]]
 <!-- graph:end -->

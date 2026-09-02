@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/
 url_canonical: https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 370b60c0276492b518527486ebaa94c405010130a9a672ce02eb48902abff7bd
@@ -16,6 +16,7 @@ entities: []
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Cognition, maker of the autonomous AI software engineer Devin, raised over $1B a
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-27-cognition-devin-raises-1b-at-26b-post-money-more-than-2-valu]] · [[2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua]] · [[2026-08-12-cognition-reportedly-in-talks-to-raise-at-40b-valuation]] · [[2026-08-12-cognition-reportedly-in-talks-to-raise-at-a-40b-valuation]] · [[2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua]]
 <!-- graph:end -->

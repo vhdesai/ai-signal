@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: Cybersecurity News
 url_original: https://cybersecuritynews.com/claude-mythos-moves-toward-public/
 url_canonical: https://cybersecuritynews.com/claude-mythos-moves-toward-public/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-26_081412_Inbox_Daily AI News Digest –– May 26,
   2026 (Corrected Cowork Edition).md
 content_hash: 22f696d20c930c12b0c3d2a88bc100f3519881c465d16ae2a1e80bcd9d59d83e

@@ -17,6 +17,7 @@ entities:
 - xAI
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ The Information reports that SpaceX is laying groundwork for a foundry in Bastro
 ## Connections
 
 **Entities:** [[xAI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory]] · [[2026-08-30-musk-bets-on-in-house-turbine-casting-to-accelerate-ai-power]] · [[2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-compute-carries-en]] · [[2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-power-carries-a-po]]
 <!-- graph:end -->

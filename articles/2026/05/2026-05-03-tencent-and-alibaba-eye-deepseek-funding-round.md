@@ -21,6 +21,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -42,6 +43,6 @@ Reporting indicates Tencent and Alibaba are evaluating participation in DeepSeek
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Baidu]] · [[ByteDance]] · [[DeepSeek]] · [[Huawei]] · [[Tencent]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep]] · [[2026-04-25-tencent-alibaba-in-advanced-talks-to-back-deepseek-s-first-e]] · [[2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]]
 <!-- graph:end -->

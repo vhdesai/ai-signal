@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ NextEra Energy and Dominion Energy announced a $66.8B all-stock combination, cre
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-25-nextera-acquires-dominion-energy-for-67b-largest-us-utility]] · [[2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g]] · [[2026-08-24-ls-electric-more-than-doubles-a-us-ai-data-center-power-cont]]
 <!-- graph:end -->

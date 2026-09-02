@@ -6,7 +6,7 @@ date: '2026-08-23'
 source: Prime Intellect
 url_original: https://www.primeintellect.ai/research/nanogpt-speedrun
 url_canonical: https://www.primeintellect.ai/research/nanogpt-speedrun
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_060214_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 143df9443985388358fb37632f5bafd222a8e6c98888f0e8b49295dc73d12c5d

@@ -18,6 +18,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026
@@ -34,6 +35,6 @@ NVIDIA's GTC 2026 keynote centered on agentic and physical AI, headlined by Nemo
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]]
 <!-- graph:end -->

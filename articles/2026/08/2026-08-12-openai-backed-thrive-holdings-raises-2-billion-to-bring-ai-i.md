@@ -6,7 +6,7 @@ date: '2026-08-12'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/
 url_canonical: https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-13_060924_Inbox_Daily AI News Digest - August 13,
   2026.md
 content_hash: 19b64ab6da53c0716e2e29178981975ac80bb0a0d84cb80b83f6f9a1e87f4590
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Thrive Holdings raised $2 billion at a $12 billion valuation from investors incl
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-regu]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]] · [[2026-08-12-thrive-holdings-raises-2b-at-12b-valuation-to-apply-ai-to-tr]]
 <!-- graph:end -->

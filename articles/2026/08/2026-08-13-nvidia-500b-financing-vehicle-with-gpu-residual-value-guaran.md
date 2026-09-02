@@ -19,6 +19,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Nvidia is guaranteeing up to 25% of the value shortfall if GPUs pledged as loan 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-13-nvidia-s-500b-financing-vehicle-includes-gpu-residual-value]] · [[2026-08-13-nvidia-s-new-500b-data-center-plan-carries-a-gpu-residual-va]] · [[2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne]] · [[2026-08-16-bond-traders-flag-70b-of-off-balance-sheet-backstops-behind]] · [[2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin]]
 <!-- graph:end -->

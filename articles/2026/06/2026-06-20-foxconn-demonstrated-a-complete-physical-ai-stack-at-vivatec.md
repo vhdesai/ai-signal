@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Foxconn demonstrated a complete physical AI stack at VivaTech 2026--from Nvidia 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve]] · [[2026-06-20-vivatech-2026-in-paris-wrapped-its-10th-anniversary-edition]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]]
 <!-- graph:end -->

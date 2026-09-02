@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-ai-accounting-startup-rillet-reaches-unicorn-status-in-a-48
@@ -30,6 +31,6 @@ TechCrunch reported that AI accounting startup Rillet raised $100 million and be
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-21-ai-accounting-startup-rillet-reaches-unicorn-status-in-a-48]]
 <!-- graph:end -->

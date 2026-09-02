@@ -5,7 +5,7 @@ date: '2026-07-02'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/
 url_canonical: https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-03_062557_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: ce8d49d7d06863a5ed3af9fbf937506c55edf679a5104697a1a077f3165e5d68
@@ -17,6 +17,7 @@ entities:
 - Meta
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ At an internal town hall, Mark Zuckerberg reportedly told employees that AI agen
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]] · [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag]] · [[2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey]]
 <!-- graph:end -->

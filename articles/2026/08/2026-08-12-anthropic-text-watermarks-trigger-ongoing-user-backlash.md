@@ -19,6 +19,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -37,7 +38,7 @@ Sharp objections from users who relied on Claude undetected in workplace and aca
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-12-anthropic-s-new-text-watermarks-trigger-user-backlash]]
 **Related:** [[2026-08-12-anthropic-text-watermarks-trigger-user-backlash-over-transpa]]
 <!-- graph:end -->

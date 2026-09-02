@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: July 29, 2026
 url_original: https://www.politico.eu/article/meet-the-eu-team-going-up-against-big-ai-models/
 url_canonical: https://www.politico.eu/article/meet-the-eu-team-going-up-against-big-ai-models/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-01_061911_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: e3b269bb28e73a0b1c605612741bb3592d473c0a013a85ccf839db40c32d1e84
@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Beginning Sunday, August 2, the European Commission's “A3” unit inside the A
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[M&A Activity]]
 **Related:** [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]] · [[2026-08-03-37-eu-ai-act-enforcement-powers-now-apply-to-frontier-ai-pro]] · [[2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare]] · [[2026-08-03-eu-ai-act-enforcement-powers-now-apply-to-frontier-ai-provid]] · [[2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi]]
 <!-- graph:end -->

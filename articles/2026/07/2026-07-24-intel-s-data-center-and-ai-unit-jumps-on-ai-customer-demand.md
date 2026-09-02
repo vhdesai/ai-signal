@@ -5,7 +5,7 @@ date: '2026-07-24'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Intel%20AI%20customers
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Intel%20AI%20customers
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-25_065719_Final-Daily-AI-News-Digest.md
 content_hash: 7643026e82361f62333c655ae0d100cf06345afdbbfdcd6f06abdef5ad050a32
 normalized_title_hash: f4ab60feb5718342
@@ -17,6 +17,7 @@ entities:
 - Intel
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Intel shares rose after the company reported strong second-quarter results, incl
 ## Connections
 
 **Entities:** [[Intel]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally]] · [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]] · [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat]] · [[2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d]] · [[2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a]]
 <!-- graph:end -->

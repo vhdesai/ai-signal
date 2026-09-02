@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/
 url_canonical: https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-27_061503_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 1eebee526cabca3d28c28fcf8778bf356683beb54e509d4a4f1599871fc6f28e
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-consumer-ai-agent-instinct-raises-250m-at-2-5b-privacy-scrut
@@ -31,7 +32,7 @@ Instinct, operated by Spear Street Technology and led by 23-year-old founder Noa
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-26-consumer-ai-agent-instinct-raises-250m-at-2-5b-privacy-scrut]]
 **Related:** [[2026-08-26-consumer-ai-agent-instinct-raises-350m-at-2-5b-valuation-bef]]
 <!-- graph:end -->

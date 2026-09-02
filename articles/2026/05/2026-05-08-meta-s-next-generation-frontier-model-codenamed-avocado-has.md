@@ -17,6 +17,7 @@ entities:
 - Meta
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Meta's next-generation frontier model, codenamed Avocado, has slipped again — 
 ## Connections
 
 **Entities:** [[Google]] · [[Meta]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-18-meta-s-proprietary-flagship-model-avocado-has-slipped-again]] · [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]] · [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]] · [[2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f]] · [[2026-06-28-google-caps-meta-s-gemini-usage-as-compute-scarcity-bites]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri
@@ -33,6 +34,6 @@ The European "vibe coding" startup confirmed a $400 million Series C led by Menl
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri]]
 <!-- graph:end -->

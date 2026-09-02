@@ -21,6 +21,7 @@ entities:
 - Oracle
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +43,6 @@ Ongoing analyses of Nvidia's GTC 2026 announcements confirm the Vera Rubin platf
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[NVIDIA]] · [[Oracle]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-14-nvidia-s-vera-rubin-platform-featuring-72-rubin-gpus-with-hb]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform]] · [[2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm]] · [[2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ The Wall Street Journal reports that a SoftBank data-center venture offered a $5
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta]] · [[2026-08-30-openai-received-5-5b-in-sb-energy-warrants-ahead-of-softbank]] · [[2026-08-31-sb-energy-granted-openai-5-5b-in-warrants-to-secure-a-20-yea]]
 <!-- graph:end -->

@@ -24,6 +24,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -46,6 +47,6 @@ Executive Summary: Labs Harden the Frontier While Loosening the Agents The last 
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-08-07-daily-ai-news-digest-august-9-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-09-daily-ai-news-digest-august-10-2026]]
 <!-- graph:end -->

@@ -28,6 +28,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -49,6 +50,6 @@ IBM Earns FedRAMP High for 11 AI Products Including watsonx; Partners with ARM f
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[IBM]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-01-products-tools]] · [[2026-08-11-ibm-and-together-ai-sign-240m-deal-for-an-nvidia-powered-inf]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-08-11-ibm-and-together-ai-sign-240m-nvidia-powered-inference-deal]] · [[2026-08-11-ibm-and-together-ai-sign-240m-multi-year-nvidia-powered-infe]]
 <!-- graph:end -->

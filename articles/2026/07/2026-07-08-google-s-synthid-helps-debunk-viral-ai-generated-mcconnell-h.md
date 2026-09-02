@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/
 url_canonical: https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-09_084403_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 51c13751fcef7893d66e4aee2613d47d37829ef1f9c9d0378bc44474b6d4fdb9

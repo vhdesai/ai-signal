@@ -21,6 +21,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +43,6 @@ OpenAI has partnered with Microsoft, AMD, Broadcom, Nvidia, and Intel researcher
 ## Connections
 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-09-a-broad-industry-coalition-openai-amd-broadcom-intel-microso]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]] · [[2026-08-25-meta-s-custom-transport-protocol-embraces-packet-chaos-to-bo]] · [[2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for]] · [[2026-08-13-openai-previews-ultrafast-tier-gpt-5-6-sol-at-750-tokens-sec]]
 <!-- graph:end -->

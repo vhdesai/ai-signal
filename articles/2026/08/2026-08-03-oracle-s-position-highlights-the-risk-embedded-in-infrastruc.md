@@ -16,6 +16,7 @@ entities:
 - Oracle
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Oracle’s position highlights the risk embedded in infrastructure-first AI stra
 ## Connections
 
 **Entities:** [[Oracle]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-08-03-long-duration-bond-issuance-for-ai-infrastructure-shows-that]] · [[2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]]
 <!-- graph:end -->

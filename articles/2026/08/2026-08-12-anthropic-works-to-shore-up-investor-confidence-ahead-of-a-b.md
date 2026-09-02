@@ -17,6 +17,8 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +40,6 @@ Anthropic is meeting prospective public-market investors as it races toward a li
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo]] · [[2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar]] · [[2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk]] · [[2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-05-23'
 source: Motley Fool
 url_original: https://www.fool.com/investing/2026/05/23/jensen-huang-surprise-announcement-nvidia/
 url_canonical: https://www.fool.com/investing/2026/05/23/jensen-huang-surprise-announcement-nvidia/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: f7c6bb577e286a5d83274ac4022b323c6844523db74a94bbaa984159f118f5de
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ NVIDIA reported Q1 FY27 adjusted EPS of $1.87 (vs. $1.77 consensus) on revenue o
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm]] · [[2026-05-20-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks]] · [[2026-05-28-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks]] · [[2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu]] · [[2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re]]
 <!-- graph:end -->

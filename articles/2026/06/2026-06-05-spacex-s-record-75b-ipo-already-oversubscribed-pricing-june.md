@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/markets/stocks/articles/spcx-ipo-record-75-billion-155245946.html
 url_canonical: https://finance.yahoo.com/markets/stocks/articles/spcx-ipo-record-75-billion-155245946.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
 content_hash: 6b96bfc25a54ac405a98e71cfef6a2ada34ff8a8043d2f7e98e433097fc97a99
@@ -17,6 +17,8 @@ entities:
 - xAI
 themes:
 - company-storylines
+- ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +40,6 @@ SpaceX's $75B offering — 555.55M shares at $135 — is oversubscribed. Morgan 
 ## Connections
 
 **Entities:** [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se]] · [[2026-06-11-spacex-officially-prices-75b-ipo-at-135-share-market-debut-t]] · [[2026-06-12-spacex-ipo-75b-raise-at-1-75t-musk-becomes-world-s-first-tri]] · [[2026-06-10-spacex-ipo-begins-trading-today-75b-raise-at-1-75t-valuation]] · [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Anthropic launched an enterprise AI joint venture with Blackstone, Hellman & Fri
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]] · [[2026-05-08-both-anthropic-and-openai-announced-parallel-enterprise-join]] · [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]]
 <!-- graph:end -->

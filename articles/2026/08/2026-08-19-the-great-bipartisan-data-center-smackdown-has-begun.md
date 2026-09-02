@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Pennsylvania Gov. Shapiro signed an executive order enabling the state to block 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow]] · [[2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat]] · [[2026-08-23-republican-split-opens-on-data-centers-trump-defends-the-bui]]
 <!-- graph:end -->

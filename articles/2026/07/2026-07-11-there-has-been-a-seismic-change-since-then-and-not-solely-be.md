@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ There has been a seismic change since then — and not solely because of the war
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already]] · [[2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b]] · [[2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg]] · [[2026-07-11-for-investors-helsing-s-key-advantage-comes-from-its-role-in]] · [[2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget]]
 <!-- graph:end -->

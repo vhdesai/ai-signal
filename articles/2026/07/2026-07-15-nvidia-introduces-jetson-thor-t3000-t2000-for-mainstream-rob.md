@@ -6,7 +6,7 @@ date: '2026-07-15'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/
 url_canonical: https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-17_092848_Final-Daily-AI-News-Digest.md
 content_hash: 645c8c7bedf6d6656122f1e52fddbecb4996e99ab9fbc261f7178b012ac5ecff
 normalized_title_hash: 0bcd21919b5dc8e9
@@ -20,6 +20,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ NVIDIA launched the Blackwell-based Jetson T3000 and T2000 modules to bring foun
 ## Connections
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development]] · [[2026-08-25-nvidia-unveils-jetson-orin-nano-2-for-entry-level-edge-ai-an]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[2026-05-22-nvidia-sweeps-computex-2026-best-choice-awards-vera-rubin-nv]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]]
 <!-- graph:end -->

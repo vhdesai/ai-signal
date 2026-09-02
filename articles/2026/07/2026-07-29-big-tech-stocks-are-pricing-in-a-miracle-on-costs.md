@@ -19,6 +19,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Wall Street analysts' earnings models for Big Tech are baking in dramatic new op
 ## Connections
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are]] · [[2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits-driv]]
 <!-- graph:end -->

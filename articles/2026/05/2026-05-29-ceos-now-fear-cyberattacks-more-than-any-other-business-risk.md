@@ -26,6 +26,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - model-capabilities
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -46,6 +47,6 @@ WSJ Pro Cybersecurity reports that, for the first time, chief executives are ran
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Google]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Company Investments]]
 **Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi]] · [[2026-08-17-big-tech-s-3-trillion-ai-spending-is-higher-than-reported]] · [[2026-04-22-major-analysis-published-today-in-the-bulletin-of-the-atomic]]
 <!-- graph:end -->

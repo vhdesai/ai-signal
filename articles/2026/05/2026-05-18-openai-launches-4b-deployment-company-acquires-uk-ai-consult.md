@@ -19,6 +19,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ OpenAI announced the OpenAI Deployment Company, a majority-owned subsidiary back
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-18-openai-established-the-openai-deployment-company-a-majority]] · [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]] · [[2026-05-11-openai-launches-4b-deployco-ai-services-venture]] · [[2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an]]
 <!-- graph:end -->

@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ VentureBeat reports that observability startup groundcover raised a $100 million
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-03-coralogix-raises-200m-to-build-monitoring-layer-for-ai-agent]] · [[2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation]] · [[2026-08-13-deepseek-ships-v4-pro-open-source-harness-then-raises-prices]] · [[2026-08-20-one-in-five-enterprises-cannot-halt-a-runaway-ai-agent-s-spe]]
 <!-- graph:end -->

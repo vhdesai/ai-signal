@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/
 url_canonical: https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-26_061014_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 0061ecf2104b93a6b685add31527e2b67379872910a7d3872e4b28820d08a6c9

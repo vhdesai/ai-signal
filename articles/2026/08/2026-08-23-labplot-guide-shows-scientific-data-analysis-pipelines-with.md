@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/23/scientific-data-analysis-with-labplot-in-python-signal-processing-spectral-peak-fitting-visualization-and-batch-automation/
 url_canonical: https://www.marktechpost.com/2026/08/23/scientific-data-analysis-with-labplot-in-python-signal-processing-spectral-peak-fitting-visualization-and-batch-automation/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_060711_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 0f3b018a1614976521c485fb97e68e8e4f60ea53d36fa1c3ddf12e218080e4a6

@@ -18,6 +18,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +41,6 @@ Meta is eliminating approximately 8,000 positions (~10% of workforce) while simu
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-19-meta-to-cut-8-000-jobs-as-capex-hits-145b-ai-push]] · [[2026-05-19-meta-cuts-8-000-jobs-while-raising-ai-capital-expenditure-to]] · [[2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-capex-guidance-to-14]] · [[2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-infrastructure-capex]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]]
 <!-- graph:end -->

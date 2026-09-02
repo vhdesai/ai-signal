@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -37,6 +38,6 @@ Chinese humanoid robot maker Unitree priced its Shanghai IPO at 150.80 yuan per 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-23-unitree-s-460-ipo-stock-pop-in-shanghai-wasn-t-unusual-in-ch]] · [[2026-08-23-unitree-s-460-ipo-stock-pop-reflects-china-s-ai-robotics-fre]] · [[2026-08-23-unitree-s-460-ipo-stock-pop-in-shanghai]] · [[2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto]] · [[2026-08-23-unitree-s-460-ipo-pop-reflects-china-s-ai-robotics-frenzy]]
 <!-- graph:end -->

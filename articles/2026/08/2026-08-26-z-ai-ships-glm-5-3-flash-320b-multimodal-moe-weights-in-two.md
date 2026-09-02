@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Cloudflare Developer Changelog
 url_original: https://developers.cloudflare.com/changelog/post/2026-08-26-glm-5.3-flash-workers-ai/
 url_canonical: https://developers.cloudflare.com/changelog/post/2026-08-26-glm-5.3-flash-workers-ai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-27_065417_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: fb0b5ed5a494f0dd82922fdcef97115a7986019a49f23ddbd3d95e7183a3cbe8

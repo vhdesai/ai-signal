@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/
 url_canonical: https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-05_061956_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 242e6660603cbf3dc9e2ea9d07a143619ae296bbf249475e112ea54350972b64
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-04-runware-launches-a-modular-inference-data-center-pod
@@ -31,6 +32,6 @@ AI infrastructure company Runware unveiled the Sonic Inference Pod, a self-conta
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-04-runware-launches-a-modular-inference-data-center-pod]]
 <!-- graph:end -->

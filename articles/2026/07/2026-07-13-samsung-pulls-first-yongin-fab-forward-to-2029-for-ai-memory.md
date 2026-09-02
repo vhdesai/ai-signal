@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: The Next Web · The Information
 url_original: https://thenextweb.com/news/samsung-yongin-first-fab-2029
 url_canonical: https://thenextweb.com/news/samsung-yongin-first-fab-2029
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - July
   13, 2026.md
 content_hash: 1e3865b48c730a85ad5a31e7aa0ce36e5717306ebfc76072e4c14a5f8674dfd1
@@ -17,6 +17,7 @@ entities:
 - Samsung
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Samsung will start operations 1–2 years ahead of schedule at the first of six 
 ## Connections
 
 **Entities:** [[Samsung]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-13-samsung-pulls-first-yongin-fab-forward-to-2029-to-chase-ai-m]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-07-13-semiconductors-samsung-capacity]] · [[2026-07-13-samsung-reportedly-accelerates-chip-capacity-plans]]
 <!-- graph:end -->

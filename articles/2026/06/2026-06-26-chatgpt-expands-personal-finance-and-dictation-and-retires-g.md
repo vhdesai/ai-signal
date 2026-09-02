@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: OpenAI
 url_original: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 url_canonical: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-27_064706_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 86a2340f9936e15515fe3020d49de6dbb6f333245ce65b0a185a78dba9765371

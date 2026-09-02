@@ -21,6 +21,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -43,6 +44,6 @@ Replit tripled its valuation from $3B to $9B in a Georgian-led Series D, expandi
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Meta]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr]] · [[2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso]] · [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-08-replit-ceo-amjad-masad-disclosed-at-techcrunch-s-strictlyvc]] · [[2026-04-20-the-information-techcrunch-april-19-2026-anysphere-s-cursor]]
 <!-- graph:end -->

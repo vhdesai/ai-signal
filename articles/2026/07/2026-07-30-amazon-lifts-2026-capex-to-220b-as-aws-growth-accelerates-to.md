@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html
 url_canonical: https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-01_061911_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 3ff1ada34ff333cc5934ccbd9c735eaf918fefa68817de3e97ee9e58cc1ae51c
@@ -17,6 +17,7 @@ entities:
 - Google
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-growth-hits-a-four
@@ -33,6 +34,6 @@ Amazon reported Q2 revenue up 20% to $200.6B, with AWS up 37% to $42.2B — its 
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-growth-hits-a-four]]
 <!-- graph:end -->

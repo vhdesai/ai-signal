@@ -19,6 +19,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - model-capabilities
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Source window: last 24 hours (2026-06-26 09:18 PDT → 2026-06-27 09:18 PDT) The
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Company Investments]]
 **Related:** [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p]] · [[2026-06-26-daily-ai-news-digest-june-26-2026]] · [[2026-07-08-daily-ai-news-digest-july-9-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]]
 <!-- graph:end -->

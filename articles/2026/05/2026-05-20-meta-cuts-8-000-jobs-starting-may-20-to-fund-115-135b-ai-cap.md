@@ -5,7 +5,7 @@ date: '2026-05-20'
 source: USA Today / The Next Web
 url_original: https://www.analyticsinsight.net/news/what-grok-build-means-for-the-future-of-ai-coding-tools
 url_canonical: https://www.analyticsinsight.net/news/what-grok-build-means-for-the-future-of-ai-coding-tools
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: b9d07533d2a173548b7fce595a54b0c1fcee4e661a3120917b31855acd3ee3b3
@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Meta began its third 2026 layoff wave on May 20, eliminating ~10% of its workfor
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]]
 <!-- graph:end -->

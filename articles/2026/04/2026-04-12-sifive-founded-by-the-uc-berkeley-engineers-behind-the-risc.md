@@ -31,6 +31,9 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- ma-activity
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -52,6 +55,6 @@ Anthropic Crosses $30B ARR and Acquires Biotech Startup; Huawei Ascend 950PR Ach
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Baidu]] · [[ByteDance]] · [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe]] · [[2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs]] · [[2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
 <!-- graph:end -->

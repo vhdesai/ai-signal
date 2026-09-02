@@ -18,6 +18,8 @@ entities:
 themes:
 - policy-regulation
 - company-storylines
+- ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +41,6 @@ Sam Altman took the stand in Oakland on May 12 in the high-stakes Musk v. OpenAI
 ## Connections
 
 **Entities:** [[OpenAI]] · [[xAI]]
-**Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla]] · [[2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins]] · [[2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children]] · [[2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr]] · [[2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial]]
 <!-- graph:end -->

@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Microsoft AI released three proprietary foundational models under its MAI brand 
 ## Connections
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su]] · [[2026-04-04-microsoft-ai-led-by-ceo-mustafa-suleiman-released-three-foun]] · [[2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-04-02-in-a-landmark-move-toward-ai-self-sufficiency-microsoft-toda]]
 <!-- graph:end -->

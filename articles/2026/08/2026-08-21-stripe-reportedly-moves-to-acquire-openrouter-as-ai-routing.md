@@ -18,6 +18,7 @@ entities:
 - IBM
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ IBM published analysis of Stripe's reported OpenRouter deal, framing it as evide
 ## Connections
 
 **Entities:** [[IBM]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter]] · [[2026-08-19-stripe-to-acquire-ai-model-marketplace-openrouter]] · [[2026-08-20-stripe-closes-its-openrouter-deal-at-a-reported-7-5b]] · [[2026-07-24-stripe-is-reportedly-in-talks-to-buy-openrouter]]
 <!-- graph:end -->

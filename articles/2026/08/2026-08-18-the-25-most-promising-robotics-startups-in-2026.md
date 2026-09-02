@@ -20,6 +20,8 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +42,6 @@ BI published its annual ranking of the 25 most promising robotics startups, cura
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-23-the-most-important-ai-developments-across-industry-research]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del]]
 <!-- graph:end -->

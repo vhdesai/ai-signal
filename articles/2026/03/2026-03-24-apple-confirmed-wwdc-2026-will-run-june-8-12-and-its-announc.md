@@ -5,8 +5,8 @@ title: Apple confirmed WWDC 2026 will run June 8–12, and its announcement pres
 date: '2026-03-24'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-26_105104_Inbox_Daily AI News Digest – March 24,
   2026.md
 content_hash: f2931a2e70ee710762df132dfc5ee272d50632ba359cfb2b7f6da893c7ff7692

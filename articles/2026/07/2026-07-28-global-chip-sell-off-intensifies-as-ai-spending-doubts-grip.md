@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: The Wall Street Journal · DealBook · PitchBook
 url_original: https://www.wsj.com/finance/stocks/investors-rotate-out-of-chip-stocks-365d8bc6
 url_canonical: https://www.wsj.com/finance/stocks/investors-rotate-out-of-chip-stocks-365d8bc6
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-29_065704_Final-Daily-AI-News-Digest.md
 content_hash: 3d04817e5188fd76eaf438b3d2c67416e6d3c7c5c7e2d6be7ca68e1f15bce5fd
 normalized_title_hash: fc8aa26fa592e655
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -32,6 +33,6 @@ Chip and memory stocks sold off globally as investors worried about Big Tech’s
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]]
 <!-- graph:end -->

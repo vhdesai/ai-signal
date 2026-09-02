@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Nvidia's Q1 2026 results — released this week — completed the Magnificent Se
 ## Connections
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-21-reuters-magnificent-seven-ai-fueled-earnings-wrap-nvidia-sti]] · [[2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value]] · [[2026-08-26-nvidia-s-1-5-trillion-earnings-question-the-return-on-invest]] · [[2026-08-25-nvidia-q2-fy27-earnings-land-today-as-the-ai-boom-s-scorecar]] · [[2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r]]
 <!-- graph:end -->

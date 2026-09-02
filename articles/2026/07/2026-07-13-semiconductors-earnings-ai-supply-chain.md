@@ -17,6 +17,7 @@ entities: []
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele
@@ -32,6 +33,6 @@ Axios reports that memory-chip companies are expected to post large sales gains 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]]
 <!-- graph:end -->

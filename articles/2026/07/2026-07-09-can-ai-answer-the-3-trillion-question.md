@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/
 url_canonical: https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-10_061505_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 09b60265bcbea51c11a39d392ed1b0b4ff887888645e628b82f2817693bb678d
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ TechCrunch revisited Sequoia's AI infrastructure ROI analysis, noting that 2026 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it]] · [[2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]]
 <!-- graph:end -->

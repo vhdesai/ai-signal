@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: Microsoft Build 2026 Preview
 url_original: https://build.microsoft.com/
 url_canonical: https://build.microsoft.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\microsoft-build-2026-preview.md
 content_hash: 0f732e9404b1c548fab62ad4ef25065fedf1cf9691d9426cc518e4e547cbdb02
 normalized_title_hash: bc0968b02050acd5
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ The corpus expects deeper Copilot integration into the Windows shell, OS-level a
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent]] · [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview]]
 <!-- graph:end -->

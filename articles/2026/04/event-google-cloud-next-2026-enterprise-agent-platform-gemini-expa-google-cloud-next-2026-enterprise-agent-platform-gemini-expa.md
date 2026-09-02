@@ -23,6 +23,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -45,6 +46,6 @@ Google Cloud Next 2026 appears as a concentrated high-signal enterprise AI event
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-2]] · [[event-google-cloud-next-2026-google-cloud-next-2026-overview]] · [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform]] · [[event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications]] · [[2026-05-17-google-i-o-2026-may-19-20-expected-gemini-3-x-updates-google]]
 <!-- graph:end -->

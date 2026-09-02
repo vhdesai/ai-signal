@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-ai-assistant-instinct-raises-350m-at-2-5b-one-year-old-still
@@ -32,7 +33,7 @@ One-year-old Instinct raised $250M Series B (co-led by Index Ventures and Benchm
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-26-ai-assistant-instinct-raises-350m-at-2-5b-one-year-old-still]]
 **Related:** [[2026-08-26-consumer-ai-agent-instinct-raises-250m-at-2-5b-privacy-scrut]]
 <!-- graph:end -->

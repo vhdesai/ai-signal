@@ -16,6 +16,8 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-custom-silicon-to-neo
@@ -32,6 +34,6 @@ Repositions from custom AI-chip vendor to capacity provider, expanding an Nvidia
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-custom-silicon-to-neo]]
 <!-- graph:end -->

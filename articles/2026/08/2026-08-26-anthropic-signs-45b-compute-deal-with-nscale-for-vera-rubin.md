@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: TechCrunch / Bloomberg
 url_original: https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/
 url_canonical: https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-27_061021_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 092f1aea4968915be9891387174f7433affcebed9e0e2374400bdcdb60af4333
@@ -22,6 +22,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin
@@ -38,6 +39,6 @@ Anthropic signed a ~$45B, six-year deal with British infrastructure company Nsca
 ## Connections
 
 **Entities:** [[Amazon]] · [[AMD]] · [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin]]
 <!-- graph:end -->

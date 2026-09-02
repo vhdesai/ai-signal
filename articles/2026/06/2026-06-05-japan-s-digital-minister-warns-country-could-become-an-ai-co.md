@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Japan's digital minister warned the country risks becoming an "AI colony" if it 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10]] · [[2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]] · [[2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of]] · [[2026-04-13-source-the-neuron-apr-13-2026]]
 <!-- graph:end -->

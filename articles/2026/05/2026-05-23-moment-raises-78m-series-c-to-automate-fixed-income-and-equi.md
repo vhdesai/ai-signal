@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Moment, which builds AI tooling for automating fixed-income and equities trading
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits-driv]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-08-25-stability-ai-maker-of-stable-diffusion-raises-76-million-in]] · [[2026-07-16-tsmc-plans-another-100-billion-u-s-investment-as-ai-demand-l]]
 <!-- graph:end -->

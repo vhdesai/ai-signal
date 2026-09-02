@@ -6,7 +6,7 @@ date: '2026-05-19'
 source: The Indian Express
 url_original: https://indianexpress.com/article/technology/artificial-intelligence/cursor-launches-composer-2-5-model-long-running-ai-coding-tasks-10697239/
 url_canonical: https://indianexpress.com/article/technology/artificial-intelligence/cursor-launches-composer-2-5-model-long-running-ai-coding-tasks-10697239/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 2125ad95bbabfef6dcb978f92da107f12e24dc92d71aece81b335b8da34fcc30
@@ -19,6 +19,8 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- ma-activity
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +41,6 @@ Cursor released Composer 2.5, a coding model optimized for long-running tasks wi
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp]] · [[2026-05-18-cursor-ships-composer-2-5-matches-claude-opus-4-7-and-gpt-5]] · [[2026-05-20-cursor-launches-composer-2-5-its-first-in-house-coding-model]] · [[2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh]] · [[2026-05-15-cursor-launches-hiring-spree-after-spacex-deal]]
 <!-- graph:end -->

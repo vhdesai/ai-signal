@@ -5,7 +5,7 @@ date: '2026-07-19'
 source: The Wall Street Journal**
 url_original: https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d
 url_canonical: https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-21_065051_Final-Daily-AI-News-Digest.md
 content_hash: 05773aa9308c8ced90be1f211a72def0bddfb6ee9b2d02c1eeba19e40f366f9c
 normalized_title_hash: ed88d965c425c3e8

@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/
 url_canonical: https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-29_060511_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 2c5ad6d6323881e1f88a3a0943d1352f79fdeb16a9d1c3994fde41913d716c65

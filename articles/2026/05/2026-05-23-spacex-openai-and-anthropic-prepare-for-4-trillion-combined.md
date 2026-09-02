@@ -6,7 +6,7 @@ date: '2026-05-23'
 source: Invezz
 url_original: https://invezz.com/news/2026/05/23/fears-and-frenzy-mount-as-spacex-openai-and-anthropic-prepare-for-a-4t-ai-ipo-wave/
 url_canonical: https://invezz.com/news/2026/05/23/fears-and-frenzy-mount-as-spacex-openai-and-anthropic-prepare-for-a-4t-ai-ipo-wave/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-24_071254_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: d7008a5d553a61cd672d96c0c577e037ade0076c3b47d10748f6f9453c4a051a
@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave
@@ -36,6 +37,6 @@ Following SpaceX's S-1 filing on May 20 and OpenAI's confidential S-1 filing on 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave]]
 <!-- graph:end -->

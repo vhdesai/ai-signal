@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: JDJournal
 url_original: https://www.jdjournal.com/2026/07/09/norm-ai-1-2-billion-valuation-120m-series-c-funding/
 url_canonical: https://www.jdjournal.com/2026/07/09/norm-ai-1-2-billion-valuation-120m-series-c-funding/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-09_062747_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 89dad8a0f775d8e82c2ff3f62a99ceb2a187e609688caf09b0a885681f837bd8
@@ -16,6 +16,7 @@ entities: []
 themes:
 - policy-regulation
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +34,6 @@ York-based Norm AI raised $120 million in a Series C that lifted its valuation t
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation]] · [[2026-06-25-enterprise-ai-funding-stays-hot-norm-ai-raises-120m-taktile]]
 <!-- graph:end -->

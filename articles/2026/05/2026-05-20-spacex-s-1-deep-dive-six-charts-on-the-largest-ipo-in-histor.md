@@ -17,6 +17,8 @@ entities: []
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +39,6 @@ PitchBook unpacks SpaceX's S-1 with six charts: $18.7B in 2025 revenue (+33% YoY
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq]] · [[2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se]] · [[2026-06-12-spacex-ipo-75b-raise-at-1-75t-musk-becomes-world-s-first-tri]] · [[2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june]] · [[2026-06-11-spacex-officially-prices-75b-ipo-at-135-share-market-debut-t]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/08/20/twin1-ai-raises-20m-to-put-an-ai-twin-behind-every-knowledge-worker/
 url_canonical: https://siliconangle.com/2026/08/20/twin1-ai-raises-20m-to-put-an-ai-twin-behind-every-knowledge-worker/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_061353_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 2118445daf333e3a42367b163f3bbbd90aa8035a41dcd4fda6982d2ac7b8df49
@@ -18,6 +18,7 @@ entities:
 - Salesforce
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Twin1 AI raised $20 million to build persistent AI counterparts for individual k
 ## Connections
 
 **Entities:** [[Google]] · [[Microsoft]] · [[Salesforce]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Related:** [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]]
 <!-- graph:end -->

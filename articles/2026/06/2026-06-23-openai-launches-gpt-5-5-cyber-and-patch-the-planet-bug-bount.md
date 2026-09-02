@@ -5,7 +5,7 @@ date: '2026-06-23'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=openai+gpt+cyber+patch+planet
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=openai+gpt+cyber+patch+planet
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-23_065425_Final-Daily-AI-News-Digest.md
 content_hash: 3dbfb98181e5c6883ee364218fd35ac558a48406c6033e3c79d51fa2f35b4d4c
 normalized_title_hash: f2d175e4129318fb

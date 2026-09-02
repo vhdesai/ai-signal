@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/05/microsoft-makes-openai-gpt-5point6-sol-default-in-github-copilot-for-staff.html
 url_canonical: https://www.cnbc.com/2026/08/05/microsoft-makes-openai-gpt-5point6-sol-default-in-github-copilot-for-staff.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 0f93115db9fe65b5b38636bd25d78260f1bec85e050ee0c5510e1b0ca633dfdf

@@ -18,6 +18,7 @@ entities:
 - Microsoft
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ CIO Dive reported that Microsoft executives framed the company's existing data-c
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-01-wall-street-rewards-ai-spending-when-it-is-tied-to-cloud-rev]] · [[2026-07-30-microsoft-shows-ai-capex-with-operating-leverage-while-meta]] · [[2026-07-31-axios-highlights-azure-s-100-billion-run-rate-and-ai-capex-d]]
 <!-- graph:end -->

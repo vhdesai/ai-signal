@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: TechCrunch / WSJ
 url_original: https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/
 url_canonical: https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-26_065442_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 05ae30aadd63c8c6952e124700392efbf520af9efb9c75fcad135477ff817728
@@ -17,6 +17,8 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +40,6 @@ Chris Malone left after the infrastructure org was “reorganized.” Now 14+ ex
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-p]] · [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a]] · [[2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent]] · [[2026-08-26-openai-s-data-center-chief-chris-malone-departs]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]]
 <!-- graph:end -->

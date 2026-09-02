@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Cohere's Command A+ is a 218-billion-parameter Sparse Mixture-of-Experts model d
 ## Connections
 
 **Entities:** [[Cohere]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model]] · [[2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads]] · [[2026-05-20-cohere-ships-command-a-first-apache-2-0-open-model-with-loss]] · [[2026-03-28-cohere-launched-cohere-transcribe-an-open-source-automatic-s]] · [[2026-04-23-cohere-and-aleph-alpha-explore-20b-european-ai-combination]]
 <!-- graph:end -->

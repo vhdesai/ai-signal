@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Dario+Amodei+Anthropic+religion+rivals
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Dario+Amodei+Anthropic+religion+rivals
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-06_065033_Final-Daily-AI-News-Digest.md
 content_hash: 69de9303c6c65639eec45bcd297f60f53382b1ee32217a40dc9580adc1d1dfc0
 normalized_title_hash: 75241ed133a663d4

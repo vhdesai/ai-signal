@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-nvidia-s-blowout-q2-leaves-investors-unmoved-279-billion-sup
@@ -34,6 +35,6 @@ Nvidia delivered blowout Q2 earnings but the stock barely moved. WSJ details Nvi
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-26-nvidia-s-blowout-q2-leaves-investors-unmoved-279-billion-sup]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-06-26'
 source: World Energy News
 url_original: https://www.worldenergynews.com/news/chevron-continue-securing-deals-for-data-centers-776159
 url_canonical: https://www.worldenergynews.com/news/chevron-continue-securing-deals-for-data-centers-776159
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-27_091929_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 6721afba7923f46dda4c1dd560f6d22407f9670034a9d9ee7c833fe1d4ca9c6f
@@ -17,6 +17,7 @@ entities:
 - Microsoft
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Chevron said it is negotiating additional U.S. data-center power deals across th
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-08-08-amazon-backs-a-7-65-gw-texas-gas-plant-to-power-a-hyperscale]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]]
 <!-- graph:end -->

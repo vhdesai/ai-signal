@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ PitchBook examines Nvidia’s startup investment strategy: every equity stake in
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]] · [[2026-08-28-executive-analysis-why-nvidia-backs-and-buys-ai-startups]]
 <!-- graph:end -->

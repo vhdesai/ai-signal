@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Chipmaker Analog Devices is close to acquiring Empower Semiconductor — a 12-ye
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]]
 **Related:** [[2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline]] · [[2026-07-19-ai-chip-startup-etched-reportedly-in-talks-for-a-20b-valuati]] · [[2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in]] · [[2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a]] · [[2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon]]
 <!-- graph:end -->

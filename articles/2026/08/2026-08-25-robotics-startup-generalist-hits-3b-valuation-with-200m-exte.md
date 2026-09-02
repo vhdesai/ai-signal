@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/
 url_canonical: https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-26_061014_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: f82ebe513212a7ffb21e9bc875fa37a2f1391d4dfcb9e578bd6ab01683c0f244
@@ -17,6 +17,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Generalist (ex-DeepMind + Boston Dynamics founders) raised $200M extension led b
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-25-robotics-startup-generalist-reaches-3b-valuation]] · [[2026-08-25-robotics-startup-generalist-reaches-3b-valuation-on-200m-ext]] · [[2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough]] · [[2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua]]
 <!-- graph:end -->

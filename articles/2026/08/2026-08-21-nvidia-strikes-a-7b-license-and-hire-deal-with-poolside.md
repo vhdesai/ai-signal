@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: TechStartups
 url_original: https://techstartups.com/2026/08/21/top-tech-news-today-august-21-2026-anthropic-apple-broadcom-google-nvidia-openai-tesla-more/
 url_canonical: https://techstartups.com/2026/08/21/top-tech-news-today-august-21-2026-anthropic-apple-broadcom-google-nvidia-openai-tesla-more/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_060949_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 072f0a8804326a7f1a34733d3a400bd9f9f2dcb390712de7045725d63560a6fc

@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-30-caterpillar-applies-its-mine-automation-playbook-to-enterpri
@@ -30,6 +31,6 @@ CTO Jaime Mineart described Caterpillar extending autonomy experience from minin
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-30-caterpillar-applies-its-mine-automation-playbook-to-enterpri]]
 <!-- graph:end -->

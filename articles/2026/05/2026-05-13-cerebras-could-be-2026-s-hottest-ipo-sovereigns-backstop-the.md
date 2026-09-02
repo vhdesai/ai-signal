@@ -17,6 +17,8 @@ entities:
 - Cerebras
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +38,6 @@ PitchBook reports Cerebras is guiding its IPO above range for a ~$4.8B raise, wh
 ## Connections
 
 **Entities:** [[Cerebras]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-14-cerebras-systems-prices-largest-us-ipo-of-2026-at-56-4b-valu]] · [[2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale]] · [[2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u]]
 <!-- graph:end -->

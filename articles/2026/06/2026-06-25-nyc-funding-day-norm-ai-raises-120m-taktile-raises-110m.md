@@ -5,7 +5,7 @@ date: '2026-06-25'
 source: AlleyWatch
 url_original: https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-25-2026/
 url_canonical: https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-25-2026/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-26_063633_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: d89deece87936c6b92be759811403a2d15f3bde7ca5dc98cbbb93303198bd17e
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-25-enterprise-ai-funding-stays-hot-norm-ai-raises-120m-taktile
@@ -30,6 +31,6 @@ Two enterprise-AI rounds led the day’s New York deal flow: Norm AI ($120M, per
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-06-25-enterprise-ai-funding-stays-hot-norm-ai-raises-120m-taktile]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 - Oracle
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-capex-guidance-spooke
@@ -34,6 +35,6 @@ Oracle reported record Q4 with OCI revenue +93% YoY but dropped 11% after AI cap
 ## Connections
 
 **Entities:** [[Meta]] · [[Microsoft]] · [[Oracle]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-capex-guidance-spooke]]
 <!-- graph:end -->

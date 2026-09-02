@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ The Information reports that nobody is immune from the Nvidia GPU crunch. The it
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-29-nvidia-s-ai-advantage-is-shifting-from-the-gpu-to-the-system]] · [[2026-08-29-nvidia-s-advantage-is-shifting-from-the-gpu-to-the-rest-of-t]] · [[2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu]] · [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-08-29-nvidia-s-competitive-advantage-is-moving-beyond-the-gpu]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/
 url_canonical: https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-27_061021_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: ef6852a644948fc1e6f89f13da61dce8e05ed7c1a2cab43518f048f6990f20d0
@@ -18,6 +18,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ TechCrunch’s deep-dive argues 14+ departures reflect Greg Brockman’s reasser
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-26-techcrunch-analysis-how-do-we-explain-openai-s-executive-exo]] · [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-p]] · [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-29'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/06/29/coreweave-debuts-aria-agent-automate-ai-research-weights-biases/
 url_canonical: https://siliconangle.com/2026/06/29/coreweave-debuts-aria-agent-automate-ai-research-weights-biases/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-30_061155_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 451a2af060b7c78a98fd68bb47ccdab7bf4eb6b3f5d073d336d6dba75c9d5e74

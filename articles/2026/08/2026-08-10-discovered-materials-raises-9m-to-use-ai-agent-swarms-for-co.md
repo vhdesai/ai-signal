@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/
 url_canonical: https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-10_061003_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: f188af6003364d160dbd4447c45471c095140aac6de38cdc87b14eb2d26a8e14
@@ -16,6 +16,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c
@@ -33,7 +34,7 @@ Y Combinator-backed Discovered Materials closed a $9M seed from Lightspeed India
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c]]
 **Related:** [[2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole]]
 <!-- graph:end -->

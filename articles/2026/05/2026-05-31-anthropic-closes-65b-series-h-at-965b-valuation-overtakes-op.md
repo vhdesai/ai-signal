@@ -6,7 +6,7 @@ date: '2026-05-31'
 source: OpenTools (citing Reuters, Axios)*
 url_original: https://opentools.ai/news/anthropic-965-billion-valuation-overtakes-openai-2026
 url_canonical: https://opentools.ai/news/anthropic-965-billion-valuation-overtakes-openai-2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-31_163845_Daily-AI-News-Digest.md
 content_hash: 0efc1efaa6fa734bf895768d4a0fbc61eafd271913ee5f36d9a5fca5625c7c55
 normalized_title_hash: 869cfd450a543b5d
@@ -20,6 +20,7 @@ entities:
 - Samsung
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Anthropic closed a $65B Series H on May 28 at a $965B post-money valuation, leap
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Samsung]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]]
 <!-- graph:end -->

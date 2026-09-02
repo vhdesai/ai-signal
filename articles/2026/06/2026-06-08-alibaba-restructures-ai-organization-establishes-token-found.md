@@ -18,6 +18,7 @@ entities:
 - Baidu
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +41,6 @@ Alibaba announced a major organizational restructuring of its AI business, estab
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Baidu]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and]] · [[2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic]] · [[2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r]]
 <!-- graph:end -->

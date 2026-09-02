@@ -19,6 +19,7 @@ entities:
 - Tesla
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-musk-told-cursor-staff-grok-is-falling-behind-in-first-all-h
@@ -35,6 +36,6 @@ In his first address to Cursor staff after the $60B acquisition closed, Elon Mus
 ## Connections
 
 **Entities:** [[Tesla]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-26-musk-told-cursor-staff-grok-is-falling-behind-in-first-all-h]]
 <!-- graph:end -->

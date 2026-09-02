@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ David Silver, the DeepMind researcher behind AlphaGo, emerged from stealth with 
 ## Connections
 
 **Entities:** [[Google]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b]] · [[2026-05-14-nvidia-partners-with-david-silver-s-ineffable-intelligence-t]] · [[2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s]] · [[2026-03-24-google-deepmind-s-alphaproof-the-reinforcement-learning-syst]] · [[2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent]]
 <!-- graph:end -->

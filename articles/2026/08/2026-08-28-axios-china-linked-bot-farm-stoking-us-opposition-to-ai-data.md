@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -36,6 +37,6 @@ Roughly 200 accounts tied to a suspected Chinese bot farm attempted to turn Amer
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti]] · [[2026-07-24-white-house-draws-new-ai-line-on-china]] · [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]]
 <!-- graph:end -->

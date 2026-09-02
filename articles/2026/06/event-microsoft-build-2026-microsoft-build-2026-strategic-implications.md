@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: event-microsoft-build-2026-microsoft-build-2026-overview
@@ -36,6 +37,6 @@ Agentic apps are becoming the platform center of gravity: Microsoft is treating 
 ## Connections
 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[event-microsoft-build-2026-microsoft-build-2026-overview]]
 <!-- graph:end -->

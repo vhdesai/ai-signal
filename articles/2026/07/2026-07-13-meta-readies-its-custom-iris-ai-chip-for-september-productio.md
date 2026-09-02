@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: The Verge / TechStartups
 url_original: https://techstartups.com/2026/07/13/top-tech-news-today-july-13-2026-apple-anthropic-blackstone-meta-openai-samsung-sharefile-more/
 url_canonical: https://techstartups.com/2026/07/13/top-tech-news-today-july-13-2026-apple-anthropic-blackstone-meta-openai-samsung-sharefile-more/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 8bf0213972c7710ea946b32fcef63ae95d72d3960c19083efd5c857df0e41d4c
@@ -20,6 +20,7 @@ entities:
 - TSMC
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Internal documents show Meta plans to begin manufacturing its custom data-center
 ## Connections
 
 **Entities:** [[AMD]] · [[Meta]] · [[NVIDIA]] · [[TSMC]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-09-meta-to-move-in-house-iris-ai-chip-into-production-in-septem]] · [[2026-06-24-qualcomm-enters-the-data-center-cpu-race-with-dragonfly-c100]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/11/what-comes-after-the-smartphone-amazons-panos-panay-will-make-his-case-at-techcrunch-disrupt-2026/
 url_canonical: https://techcrunch.com/2026/08/11/what-comes-after-the-smartphone-amazons-panos-panay-will-make-his-case-at-techcrunch-disrupt-2026/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-11_061444_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 5cbde9fc09dd0f8de1c41cad851cbedeed0b1644e8f371fbb15c270fb411cc85

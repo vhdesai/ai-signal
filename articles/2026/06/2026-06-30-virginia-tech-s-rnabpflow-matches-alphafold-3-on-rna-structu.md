@@ -6,7 +6,7 @@ date: '2026-06-30'
 source: Phys.org
 url_original: https://phys.org/news/2026-06-scientists-ai-tool-rivals-alphafold.html
 url_canonical: https://phys.org/news/2026-06-scientists-ai-tool-rivals-alphafold.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-01_062608_Inbox_Daily AI News Digest - July 1,
   2026.md
 content_hash: d6211793a0cb1899ea10d43be4622aee7263f7089a29d7db5563098981798029

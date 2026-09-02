@@ -20,6 +20,7 @@ entities:
 - Oracle
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ Enterprises are now pouring more resources into operating AI technology at scale
 ## Connections
 
 **Entities:** [[Google]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-21-ai-drives-up-demand-for-analytics-and-database-architecture]] · [[2026-08-22-gartner-ai-capabilities-outpacing-cost-savings-enterprise-sp]] · [[2026-08-22-gartner-ai-costs-will-rise-exponentially-despite-per-token-d]] · [[2026-08-21-cio-dive-ai-drives-up-demand-for-analytics-and-database-arch]] · [[2026-08-13-enterprise-ai-adoption-stalls-legacy-it-and-agentic-gaps-per]]
 <!-- graph:end -->

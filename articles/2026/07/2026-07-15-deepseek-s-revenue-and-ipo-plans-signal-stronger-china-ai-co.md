@@ -5,7 +5,7 @@ date: '2026-07-15'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek%20revenue%20IPO
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek%20revenue%20IPO
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-15_082850_Final-Daily-AI-News-Digest.md
 content_hash: 52d3588f225d5678888668c20b2e6d58b90ac4c62b36cc85c76d29937e5ac28c
 normalized_title_hash: 80b35c9ac16b9212
@@ -18,6 +18,7 @@ entities:
 - DeepSeek
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -35,6 +36,6 @@ The Information reports that DeepSeek's annualized revenue is nearing $500 milli
 ## Connections
 
 **Entities:** [[DeepSeek]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-15-deepseek-nears-500m-revenue-and-prepares-for-public-market-p]]
 <!-- graph:end -->

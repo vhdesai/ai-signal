@@ -6,7 +6,7 @@ date: '2026-07-08'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/
 url_canonical: https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-09_083947_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 638d1424077f701756ff2fa3c3604f7d1af72f8a403faba5ab939ed5338407fa
@@ -18,6 +18,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-prime-intellect-and-ollama-funding-point-to-enterprise-contr
@@ -33,6 +34,6 @@ Prime Intellect raised $130 million at a $1 billion valuation for a platform tha
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-07-08-prime-intellect-and-ollama-funding-point-to-enterprise-contr]]
 <!-- graph:end -->

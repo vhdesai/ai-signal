@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Bill Gates–founded TerraPower plans to announce its first data center project 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-18-ai-s-energy-appetite-sparks-activity-at-nuclear-research-fac]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]] · [[2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da]] · [[2026-06-10-china-opens-world-s-first-wind-powered-underwater-data-cente]]
 <!-- graph:end -->

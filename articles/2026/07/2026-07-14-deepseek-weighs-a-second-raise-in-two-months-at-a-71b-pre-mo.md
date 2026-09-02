@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: The Economic Times
 url_original: https://economictimes.indiatimes.com/tech/technology/chinas-deepseek-considers-new-fundraising-after-first-round/articleshow/132389513.cms
 url_canonical: https://economictimes.indiatimes.com/tech/technology/chinas-deepseek-considers-new-fundraising-after-first-round/articleshow/132389513.cms
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_061116_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 7bf5618fe2bfc510b89be917a1f903cfdf849d7ce8ce2635fbbd5a1b89799e63
@@ -18,6 +18,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +41,6 @@ DeepSeek has opened preliminary talks for a new funding round that would value t
 ## Connections
 
 **Entities:** [[DeepSeek]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]] · [[2026-06-03-deepseek-prepares-7-billion-maiden-fundraise]] · [[2026-07-14-deepseek-reportedly-plans-another-funding-round-after-raisin]] · [[2026-07-13-deepseek-in-talks-to-raise-fresh-funds-at-a-71b-valuation]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]]
 <!-- graph:end -->

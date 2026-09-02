@@ -16,6 +16,8 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +35,6 @@ Thrive Holdings, which applies AI as an operating layer inside traditional servi
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i]]
 <!-- graph:end -->

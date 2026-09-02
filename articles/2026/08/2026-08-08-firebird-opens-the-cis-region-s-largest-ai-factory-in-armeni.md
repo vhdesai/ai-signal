@@ -5,7 +5,7 @@ date: '2026-08-08'
 source: NVIDIA Newsroom / Unite.AI
 url_original: https://nvidianews.nvidia.com/news/latest
 url_canonical: https://nvidianews.nvidia.com/news/latest
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-08_060927_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 711e6fd579bafdb88b129e8bff19acea5006545d2ab02d6a336c6e0054501fee
@@ -18,6 +18,7 @@ entities:
 - Perplexity
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-08-firebird-launches-cis-region-s-largest-ai-factory-in-armenia
@@ -34,6 +35,6 @@ U.S.-based AI cloud Firebird opened the CIS region’s largest AI factory in Hra
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[Perplexity]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-08-firebird-launches-cis-region-s-largest-ai-factory-in-armenia]]
 <!-- graph:end -->

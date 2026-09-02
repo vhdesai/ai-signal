@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: Reuters (via U.S. News) · European Commission
 url_original: https://money.usnews.com/investing/news/articles/2026-07-30/eu-aims-for-seven-ai-gigafactories-with-10-billion-plan-in-race-with-us-china
 url_canonical: https://money.usnews.com/investing/news/articles/2026-07-30/eu-aims-for-seven-ai-gigafactories-with-10-billion-plan-in-race-with-us-china
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-31_061058_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: 0ce7fd93d295078fe22ae7a139ce3fafdf2b7a1a3951a97dc46400ae03346f77

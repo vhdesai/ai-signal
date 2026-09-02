@@ -14,7 +14,9 @@ canonical_url_hash: ''
 tags: []
 entities:
 - NVIDIA
-themes: []
+themes:
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-nvidia-to-invest-5b-in-ilya-sutskever-s-safe-superintelligen
@@ -31,5 +33,6 @@ Nvidia and Safe Superintelligence announced a long-term strategic partnership un
 ## Connections
 
 **Entities:** [[NVIDIA]]
+**Topics:** [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-27-nvidia-to-invest-5b-in-ilya-sutskever-s-safe-superintelligen]]
 <!-- graph:end -->

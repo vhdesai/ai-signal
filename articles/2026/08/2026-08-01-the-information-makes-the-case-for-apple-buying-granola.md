@@ -18,6 +18,7 @@ entities:
 - Apple
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ The Information argues that Apple should consider acquiring Granola, an AI meeti
 ## Connections
 
 **Entities:** [[Apple]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-01-the-information-why-apple-should-buy-granola]] · [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]] · [[2026-05-28-apple-prepares-renewed-push-for-on-device-ai]] · [[2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem]] · [[2026-04-20-apple-ml-research-april-17-2026-apple-announced-a-slate-of-a]]
 <!-- graph:end -->

@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Crypto exchange BingX added OpenAI and Anthropic to its Pre-IPO Trading Zone via
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest]] · [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]] · [[2026-08-17-anthropic-s-annualized-revenue-surges-to-65b-ipo-expected-th]]
 <!-- graph:end -->

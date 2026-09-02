@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: Business Insider via Yahoo Finance
 url_original: https://finance.yahoo.com/markets/stocks/articles/markets-biggest-ai-stocks-struggling-170527844.html
 url_canonical: https://finance.yahoo.com/markets/stocks/articles/markets-biggest-ai-stocks-struggling-170527844.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-07_061720_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: e63419f68f4de99e91b00340250112b08b8a9e1ea69d5727ddd58d00dd69e36e
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Business Insider reported that Morgan Stanley and Goldman Sachs strategists see 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris]] · [[2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st]] · [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]]
 <!-- graph:end -->

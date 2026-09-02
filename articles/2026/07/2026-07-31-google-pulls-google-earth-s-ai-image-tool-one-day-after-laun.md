@@ -6,7 +6,7 @@ date: '2026-07-31'
 source: The Next Web
 url_original: https://thenextweb.com/news/google-earth-ai-image-generation-rollback-fake-satellite-imagery
 url_canonical: https://thenextweb.com/news/google-earth-ai-image-generation-rollback-fake-satellite-imagery
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-01_062620_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: cc521ba49df05b3959f6447f7c7839bffc2115dd16917f170364247e558e63ae

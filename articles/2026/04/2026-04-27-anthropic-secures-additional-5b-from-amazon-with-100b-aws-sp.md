@@ -24,6 +24,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -45,6 +46,6 @@ Anthropic secured an additional $5 billion from Amazon and in return pledged $10
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[Palantir]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g]] · [[2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q]] · [[2026-05-03-anthropic-approaches-900b-valuation-50b-round-could-close-wi]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-12'
 source: TechCrunch; NPR; WSJ; Reuters; Wired; Barron's
 url_original: https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/
 url_canonical: https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-13_160430_Final-Daily-AI-News-Digest.md
 content_hash: ed9f671685bf477678cb2870b0e341db21126c6865cc0f4d7671208f61e3e6a0
 normalized_title_hash: 4d3f30caca3e8fb3
@@ -17,6 +17,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Largest IPO in history. Early crypto contracts initially fell before recovering 
 ## Connections
 
 **Entities:** [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-12-spacex-ipo-75b-raise-at-1-75t-musk-becomes-world-s-first-tri]] · [[2026-06-11-spacex-officially-prices-75b-ipo-at-135-share-market-debut-t]] · [[2026-06-10-spacex-ipo-begins-trading-today-75b-raise-at-1-75t-valuation]] · [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]] · [[2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june]]
 <!-- graph:end -->

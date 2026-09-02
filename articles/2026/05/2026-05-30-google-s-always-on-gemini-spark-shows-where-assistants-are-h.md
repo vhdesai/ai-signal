@@ -5,7 +5,7 @@ date: '2026-05-30'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/
 url_canonical: https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: ec3e8096a14c25a1b67dbdc22e8ae6cc154e401de220e666042506af94b3bac3

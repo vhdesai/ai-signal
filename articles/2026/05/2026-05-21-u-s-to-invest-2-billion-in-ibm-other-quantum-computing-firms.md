@@ -17,6 +17,7 @@ entities:
 - IBM
 themes:
 - model-capabilities
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ The Trump administration has agreed to take $2 billion in equity stakes across n
 ## Connections
 
 **Entities:** [[IBM]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr]] · [[2026-06-23-trump-signs-sweeping-quantum-computing-executive-orders]] · [[2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake]] · [[2026-05-26-quantum-computing-company-quantinuum-disclosed-plans-in-an-s]] · [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake]]
 <!-- graph:end -->

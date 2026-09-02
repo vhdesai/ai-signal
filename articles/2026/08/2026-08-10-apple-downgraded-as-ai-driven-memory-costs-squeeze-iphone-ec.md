@@ -17,6 +17,7 @@ entities:
 - Apple
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Jefferies analyst Edison Lee downgraded Apple to underperform, citing rising mem
 ## Connections
 
 **Entities:** [[Apple]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con]] · [[2026-07-31-apple-posts-record-june-quarter-but-warns-of-ai-driven-compo]] · [[2026-08-11-memory-prices-quadruple-in-a-year-pushing-costs-into-consume]] · [[2026-07-17-ai-driven-memory-crunch-hits-india-s-smartphone-market]]
 <!-- graph:end -->

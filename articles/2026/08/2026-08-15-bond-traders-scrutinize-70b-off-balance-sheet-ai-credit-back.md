@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-15-bond-traders-scrutinize-70b-of-off-balance-sheet-ai-credit-b
@@ -35,6 +36,6 @@ event_name: ''
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-15-bond-traders-scrutinize-70b-of-off-balance-sheet-ai-credit-b]]
 <!-- graph:end -->

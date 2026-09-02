@@ -17,6 +17,8 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-regu
@@ -34,7 +36,7 @@ OpenAI-backed Thrive raised $2B at $12B from SoftBank, D1, and Altimeter. The th
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Canonical:** [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-regu]]
 **Related:** [[2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]]
 <!-- graph:end -->

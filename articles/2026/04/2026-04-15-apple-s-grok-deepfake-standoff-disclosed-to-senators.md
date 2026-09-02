@@ -20,6 +20,7 @@ entities:
 - xAI
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ A letter from Apple to U.S. senators revealed Apple privately threatened to pull
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Meta]] · [[xAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-11-grok-still-hosting-sexualized-deepfakes-of-famous-women]] · [[2026-06-11-wired-grok-is-still-hosting-sexualized-deepfakes-of-famous-w]] · [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]] · [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk]] · [[2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta]]
 <!-- graph:end -->

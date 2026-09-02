@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: DataCenterDynamics · DeepSeek
 url_original: https://www.datacenterdynamics.com/en/news/deepseek-planning-1gw-data-center-in-inner-mongolia-china-report/
 url_canonical: https://www.datacenterdynamics.com/en/news/deepseek-planning-1gw-data-center-in-inner-mongolia-china-report/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-31_061058_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: afc8c3387dce2d90da292aa17eb129d1e708c160bb29a9ebd12ac3cec5e502cd
@@ -18,6 +18,7 @@ entities:
 - Scale AI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -35,6 +36,6 @@ DeepSeek is reportedly planning a gigawatt-scale AI data center in Ulanqab, Inne
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[Scale AI]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-31-deepseek-planning-1gw-data-center-in-inner-mongolia]]
 <!-- graph:end -->

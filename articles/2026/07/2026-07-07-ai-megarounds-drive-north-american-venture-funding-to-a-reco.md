@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ North American startup investment hit an all-time high of $392 billion in the fi
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-07-north-american-startup-funding-hit-a-record-392b-in-h1-2026]] · [[2026-07-07-north-american-startup-funding-hits-record-392b-in-h1-2026-o]] · [[2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-07-07-north-american-vc-hits-392b-in-h1-2026]]
 <!-- graph:end -->

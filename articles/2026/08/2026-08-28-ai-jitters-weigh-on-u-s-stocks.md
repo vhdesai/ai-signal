@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ The Wall Street Journal reported that U.S. stocks were mixed amid artificial-int
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]]
 <!-- graph:end -->

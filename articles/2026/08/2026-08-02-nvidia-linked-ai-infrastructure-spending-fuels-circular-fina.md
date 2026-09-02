@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ NPR reported that Nvidia is expected to spend on the order of $750 billion acros
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-02-nvidia-s-planned-750b-ai-outlay-draws-circular-financing-and]] · [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]] · [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]] · [[2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise]]
 <!-- graph:end -->

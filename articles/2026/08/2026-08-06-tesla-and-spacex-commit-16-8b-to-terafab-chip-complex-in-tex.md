@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas/
 url_canonical: https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-08_062022_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 151d0331b12f3778aa089e90bd5e3f753ff42babba118b2ca378e99cfc8d3e06
@@ -16,6 +16,7 @@ entities:
 - Tesla
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-a-new-texas-semicon
@@ -32,6 +33,6 @@ Tesla and SpaceX formally announced a jointly funded semiconductor complex calle
 ## Connections
 
 **Entities:** [[Tesla]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-a-new-texas-semicon]]
 <!-- graph:end -->

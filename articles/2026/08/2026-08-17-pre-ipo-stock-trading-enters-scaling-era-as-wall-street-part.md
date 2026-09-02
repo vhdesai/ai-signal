@@ -18,6 +18,8 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +41,6 @@ Morgan Stanley, Charles Schwab, and other established firms are acquiring pre-IP
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-05-02-openai-s-cfo-is-reported-to-be-signaling-2027-as-a-potential]] · [[2026-06-03-anthropic-picks-morgan-stanley-and-goldman-sachs-to-lead-ipo]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]] · [[2026-05-04-trendingcerebras-on-track-for-blockbuster-ipo]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: Tech Xplore
 url_original: https://techxplore.com/news/2026-07-sk-hynix-billion-powered-ai.html
 url_canonical: https://techxplore.com/news/2026-07-sk-hynix-billion-powered-ai.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-10_082135_Inbox_Fw Daily AI News Digest - July
   10, 2026.md
 content_hash: d83468353b1e33a392da48e5ab27db4ed2b088d7be57eeb18fb04b08feff4bea
@@ -16,6 +16,8 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +38,6 @@ SK Hynix priced one of the largest equity deals on record, raising $26.5 billion
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-us-listing]] · [[2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory]] · [[2026-07-10-sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-u-s-hist]] · [[2026-07-10-sk-hynix-raises-26-5b-in-the-largest-ever-foreign-u-s-ipo]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-nvidia-and-wall-street-launch-500b-ai-financing-alliance
@@ -37,7 +38,7 @@ Nvidia announced a landmark partnership with BlackRock, Apollo, Blackstone, Broo
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-11-nvidia-and-wall-street-launch-500b-ai-financing-alliance]]
 **Related:** [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-08-13-nvidia-anchors-a-500b-financing-consortium-to-fund-ai-data-c]] · [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]]
 <!-- graph:end -->

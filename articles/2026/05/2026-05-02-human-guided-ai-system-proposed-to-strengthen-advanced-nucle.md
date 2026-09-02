@@ -17,6 +17,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Researchers published work proposing a human-in-the-loop AI framework for monito
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations]] · [[2026-08-12-taiwan-s-nuclear-regulator-targeted-by-near-autonomous-ai-cy]] · [[2026-08-12-taiwan-s-nuclear-regulator-targeted-by-an-autonomous-ai-cybe]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-08-18-ai-s-energy-appetite-sparks-activity-at-nuclear-research-fac]]
 <!-- graph:end -->

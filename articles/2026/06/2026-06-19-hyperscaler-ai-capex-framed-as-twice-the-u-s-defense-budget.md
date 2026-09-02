@@ -5,7 +5,7 @@ date: '2026-06-19'
 source: AOL
 url_original: https://www.aol.com/articles/google-spacex-microsoft-amazon-spend-171902000.html
 url_canonical: https://www.aol.com/articles/google-spacex-microsoft-amazon-spend-171902000.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-20_070006_Final-Daily-AI-News-Digest.md
 content_hash: 94b993baae271b0f7d1e38f5675eaf1065a9f076be302e761ca7ac4aee35aa72
 normalized_title_hash: 42043bde15dfdda3
@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Projected hyperscaler spending over the next three years characterized as ~$3 tr
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-03-hyperscaler-ai-capex-estimates-top-1-trillion-for-2027]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow]] · [[2026-08-10-hyperscalers-reported-to-have-committed-nearly-2-trillion-to]] · [[2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa]]
 <!-- graph:end -->

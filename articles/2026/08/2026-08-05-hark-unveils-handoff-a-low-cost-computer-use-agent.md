@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff
 url_canonical: https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-06_062205_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: c3e1ae9309fe8976e8f4365884c423edeb602877fb2dca98305baeb466ad21e4

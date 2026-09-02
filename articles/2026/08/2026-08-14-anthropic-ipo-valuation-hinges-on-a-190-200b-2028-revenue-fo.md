@@ -5,7 +5,7 @@ date: '2026-08-14'
 source: Reuters
 url_original: https://www.usnews.com/news/top-news/articles/2026-08-14/exclusive-anthropic-ipo-valuation-hinges-on-190-200-billion-2028-revenue-forecast-sources-say
 url_canonical: https://www.usnews.com/news/top-news/articles/2026-08-14/exclusive-anthropic-ipo-valuation-hinges-on-190-200-billion-2028-revenue-forecast-sources-say
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-15_065044_Final-Daily-AI-News-Digest.md
 content_hash: 6c9026f5ce025df9ecfdbc5d683b5b3f28dfa05e1e558a41b2ba1095e15a6ed0
 normalized_title_hash: 8f4ae074f2766389
@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast
@@ -33,6 +34,6 @@ Anthropic is projecting roughly $190–200 billion in annual revenue by 2028, a 
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast]]
 <!-- graph:end -->

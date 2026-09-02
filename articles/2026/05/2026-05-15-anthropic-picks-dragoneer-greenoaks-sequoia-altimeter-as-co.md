@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Anthropic has selected Dragoneer, Greenoaks, Sequoia Capital, and Altimeter Capi
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-22-anthropic-closes-30b-round-at-900b-valuation-google-commits]] · [[2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o]] · [[2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open]] · [[2026-05-28-anthropic-raises-65b-series-h-at-965b-valuation-overtaking-o]] · [[2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope]]
 <!-- graph:end -->

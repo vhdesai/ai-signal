@@ -18,6 +18,7 @@ entities:
 - Scale AI
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ NVIDIA's Vera Rubin platform — comprising the Vera CPU, Rubin GPU, NVLink 6 Sw
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[Scale AI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform]] · [[2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo]] · [[2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm]] · [[2026-05-14-nvidia-s-vera-rubin-platform-featuring-72-rubin-gpus-with-hb]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge]]
 <!-- graph:end -->

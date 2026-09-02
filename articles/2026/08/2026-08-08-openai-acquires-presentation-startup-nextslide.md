@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ OpenAI disclosed the acquisition of NextSlide, which converts prompts, notes, an
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-08-openai-acquires-presentation-startup-nextslide-team-joins-ch]] · [[2026-08-10-openai-acquires-presentation-startup-nextslide]] · [[2026-08-10-openai-acquires-presentation-startup-nextslide-team-folds-in]] · [[2026-05-26-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]] · [[2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint]]
 <!-- graph:end -->

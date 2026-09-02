@@ -24,6 +24,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -43,6 +44,6 @@ DeepSeek — the Hangzhou lab that shocked Silicon Valley by training a frontier
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]] · [[Tencent]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]]
 <!-- graph:end -->

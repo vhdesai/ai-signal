@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: Forbes
 url_original: https://www.forbes.com/sites/paulocarvao/2026/08/25/nvidia-earnings-a-scorecard-for-the-ai-boom/
 url_canonical: https://www.forbes.com/sites/paulocarvao/2026/08/25/nvidia-earnings-a-scorecard-for-the-ai-boom/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-26_062133_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 9ee3a9bb13eee460a3ce25d0b12f4e866daf77a40007d1677464bb8cb604a760
@@ -20,6 +20,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ Nvidia reports after the close on August 26, with investors focused on data-cent
 ## Connections
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value]] · [[2026-08-01-nvidia-to-report-q2-fy2027-results-on-august-26-with-ai-chip]] · [[2026-05-20-trending-nvidia-q1-fy2027-earnings-reports-after-market-clos]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-05-14-nvidia-heads-into-q1-earnings-with-chip-stocks-at-fresh-high]]
 <!-- graph:end -->

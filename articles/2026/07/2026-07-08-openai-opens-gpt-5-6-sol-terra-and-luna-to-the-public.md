@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html
 url_canonical: https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-09_062747_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 4f4d2420e0c91a71d421d951a03cd2ca4b1e545e21e3c50ff2c57964468d295b
@@ -20,6 +20,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ OpenAI said it would make its GPT‑5.6 family broadly available starting Thursd
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-08-openai-opens-gpt-5-6-sol-terra-luna-to-the-public]] · [[2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi]] · [[2026-07-09-openai-launches-gpt-5-6-family-sol-terra-luna-to-general-ava]] · [[2026-07-10-openai-completes-public-rollout-of-the-gpt-5-6-family-sol-te]] · [[2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe]]
 <!-- graph:end -->

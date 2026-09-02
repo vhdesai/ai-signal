@@ -20,6 +20,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -42,6 +43,6 @@ Good morning, Vik. A quieter Sunday cycle, but three market-moving items demand 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-08-15-daily-ai-news-digest-august-16-2026]]
 <!-- graph:end -->

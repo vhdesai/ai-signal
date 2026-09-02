@@ -5,7 +5,7 @@ date: '2026-07-25'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/
 url_canonical: https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-26_061102_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: e0abe8d0e511c72980abaa0c0c046e3b77944342244c84effaa1fac1af05d841

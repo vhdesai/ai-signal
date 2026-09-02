@@ -6,7 +6,7 @@ date: '2026-07-09'
 source: Carnegie Mellon University
 url_original: https://www.cmu.edu/news/stories/archives/2026/july/cmu-researchers-build-missing-infrastructure-to-move-ai-between-robots
 url_canonical: https://www.cmu.edu/news/stories/archives/2026/july/cmu-researchers-build-missing-infrastructure-to-move-ai-between-robots
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-10_082135_Inbox_Fw Daily AI News Digest - July
   10, 2026.md
 content_hash: 15353ffd210531ca5a8074114dcc0edfc7c3c16924d41bf2406c24f798528b47
@@ -16,6 +16,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ CMU released Robot I/O, an open-source Python framework for robot control, data 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-09-carnegie-mellon-releases-robot-i-o-rio-open-source-glue-to-m]] · [[2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg]] · [[2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]]
 <!-- graph:end -->

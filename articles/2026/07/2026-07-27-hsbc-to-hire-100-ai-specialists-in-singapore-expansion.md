@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: U.S. News
 url_original: https://money.usnews.com/investing/news/articles/2026-07-27/hsbc-to-hire-100-ai-specialists-100-wealth-managers-in-boost-to-singapore-hub
 url_canonical: https://money.usnews.com/investing/news/articles/2026-07-27/hsbc-to-hire-100-ai-specialists-100-wealth-managers-in-boost-to-singapore-hub
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-27_062053_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: a667f2817317d086cb8cd8fa82f809b620e98756626a5bd85d8472db3313ff1a

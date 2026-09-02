@@ -19,6 +19,8 @@ entities:
 - Tesla
 themes:
 - company-storylines
+- ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +42,6 @@ Anthropic closed its $30B funding round at a $900B+ valuation, co-led by Sequoia
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Tesla]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o]] · [[2026-05-26-anthropic-is-expected-to-close-its-30b-funding-round-at-a-pr]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]]
 <!-- graph:end -->

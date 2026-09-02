@@ -17,6 +17,7 @@ entities:
 - DeepSeek
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ Reuters reported that DeepSeek is preparing to raise approximately $7 billion in
 ## Connections
 
 **Entities:** [[DeepSeek]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-14-deepseek-reportedly-plans-another-funding-round-after-raisin]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]] · [[2026-05-13-deepseek-reportedly-raising-7b-at-50b-valuation-led-by-china]] · [[2026-07-14-deepseek-weighs-a-second-raise-in-two-months-at-a-71b-pre-mo]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]]
 <!-- graph:end -->

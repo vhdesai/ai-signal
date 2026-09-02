@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Unitree+IPO+China
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Unitree+IPO+China
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-24_065007_Final-Daily-AI-News-Digest.md
 content_hash: 0815202459e47c3f07f496ffc19ad476f9ee4463d1c4ecf5c4a11f53d0bc7f88
 normalized_title_hash: 850baf586b6f7613
@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -31,6 +32,6 @@ Humanoid robot maker Unitree surged 460% on its Shanghai debut, the latest in a 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-23-unitree-s-460-ipo-pop-reflects-china-s-ai-robotics-frenzy]]
 <!-- graph:end -->

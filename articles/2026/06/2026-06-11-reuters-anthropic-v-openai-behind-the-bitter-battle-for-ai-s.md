@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Reuters published a long-form narrative tracing the Anthropic–OpenAI rivalry f
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-the]] · [[2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-07-15-anthropic-and-openai-split-on-how-ai-should-be-regulated]] · [[2026-07-17-ai-s-wider-availability-puts-pressure-on-openai-and-anthropi]]
 <!-- graph:end -->

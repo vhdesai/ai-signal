@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/
 url_canonical: https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_060941_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 04de4c20f5059ae518d76a4dc58a8cfcb4a53bb3a3af8af83d5126440764f3a6
@@ -16,6 +16,7 @@ entities:
 - xAI
 themes:
 - model-capabilities
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ xAI’s Grok chatbot sent extended nonsense responses to Grok Lite users (e.g., 
 ## Connections
 
 **Entities:** [[xAI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[M&A Activity]]
 **Related:** [[2026-08-20-grok-lite-sends-gibberish-responses-to-users-amid-xai-staff]] · [[2026-08-20-grok-sends-gibberish-responses-amid-xai-staff-exodus]] · [[2026-08-20-xai-s-grok-hit-by-widespread-gibberish-response-glitch]] · [[2026-08-20-grok-keeps-sending-gibberish-responses-to-users]]
 <!-- graph:end -->

@@ -16,6 +16,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Together AI secured 250 megawatts and roughly 120,000 accelerators from Saudi st
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-31-together-ai-takes-250mw-of-saudi-capacity-from-humain-citing]] · [[2026-08-31-together-ai-trades-revenue-share-for-250-mw-and-120-000-chip]] · [[2026-08-31-humain-also-partners-with-together-ai-and-minio-on-riyadh-an]] · [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig]] · [[2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic]]
 <!-- graph:end -->

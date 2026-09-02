@@ -22,6 +22,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +43,6 @@ OpenAI: Launched GPT-5.6 (Sol, Terra, Luna), GPT-Live voice model, and new scien
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Meta]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice]] · [[2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus]] · [[2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist]] · [[2026-07-08-openai-opens-gpt-5-6-sol-terra-and-luna-to-the-public]]
 <!-- graph:end -->

@@ -19,6 +19,7 @@ entities:
 - Tesla
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Business Insider's Tech Memo reports on real-world experience with Tesla's Full 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]] · [[Tesla]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-26-bill-gates-warns-about-ai-risks]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-29-the-a-i-token-tax-enterprise-ai-costs-become-unpredictable-b]] · [[2026-08-29-the-a-i-token-tax-enterprise-costs-become-unpredictable-budg]]
 <!-- graph:end -->

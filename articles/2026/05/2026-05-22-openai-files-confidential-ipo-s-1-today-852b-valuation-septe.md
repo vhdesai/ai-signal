@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio
@@ -34,6 +35,6 @@ OpenAI is preparing to file its confidential IPO prospectus with the SEC today, 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]]
 <!-- graph:end -->

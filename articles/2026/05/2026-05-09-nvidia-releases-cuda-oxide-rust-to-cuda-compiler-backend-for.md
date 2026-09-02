@@ -18,6 +18,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ NVIDIA released cuda-oxide, an experimental compiler backend that lets AI infras
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-17-bytedance-seed-and-tsinghua-introduce-cuda-agent-for-gpu-ker]] · [[2026-08-17-bytedance-seed-and-tsinghua-air-introduce-cuda-agent-for-gpu]] · [[2026-08-17-bytedance-tsinghua-cuda-agent-for-gpu-kernel-generation]] · [[2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme]] · [[2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x]]
 <!-- graph:end -->

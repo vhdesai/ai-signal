@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: Dataconomy / The Next Web
 url_original: https://dataconomy.com/2026/08/21/nvidia-explores-potential-partnership-or-acquisition-with/
 url_canonical: https://dataconomy.com/2026/08/21/nvidia-explores-potential-partnership-or-acquisition-with/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_060949_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 94c8162e734df070f04e1b3ec78be319d5b402029f38052799e327d965cdfd47
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Nvidia has opened preliminary talks with Rebellions spanning a technical partner
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400]] · [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]] · [[2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip]] · [[2026-08-24-korean-investors-net-sell-2-63b-of-nvidia-ahead-of-earnings]] · [[2026-07-28-nvidia-sk-group-500b-partnership-is-mostly-recycled-announce]]
 <!-- graph:end -->

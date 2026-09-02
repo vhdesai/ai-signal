@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - policy-regulation
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Horizon3.ai, an AI-powered autonomous penetration testing startup, has raised $2
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]]
 **Related:** [[2026-08-03-horizon3-raises-250m-as-autonomous-pentesting-demand-rises]] · [[2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono]] · [[2026-08-03-12-horizon3-raises-250m-series-e-at-a-2b-valuation]] · [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]]
 <!-- graph:end -->

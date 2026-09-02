@@ -20,6 +20,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Anthropic disclosed Q1 2026 revenue grew 80x year-over-year, pushing ARR above $
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-14-anthropic-signed-an-agreement-giving-claude-access-to-spacex]] · [[2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea]] · [[2026-05-07-]]
 <!-- graph:end -->

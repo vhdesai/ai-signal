@@ -22,6 +22,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -43,6 +44,6 @@ Anthropic is in advanced talks to acquire developer-tools startup Stainless for 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-18-anthropic-acquires-stainless-and-expands-the-claude-platform]] · [[2026-05-19-anthropic-acquires-stainless-the-sdk-infrastructure-powering]] · [[2026-05-18-anthropic-acquires-stainless-to-deepen-claude-agent-sdk-conn]] · [[2026-05-18-hot-anthropic-acquires-stainless-the-sdk-generator-used-by-o]] · [[2026-05-18-anthropic-acquires-dev-tools-startup-used-by-openai-google-a]]
 <!-- graph:end -->

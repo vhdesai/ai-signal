@@ -16,6 +16,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ No confirmed primary-source items in the last 24 hours. The week's major policy 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]]
 **Related:** [[2026-06-29-all-21-items-were-confirmed-published-within-the-last-24-hou]] · [[2026-08-02-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-08-03-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]]
 <!-- graph:end -->

@@ -19,6 +19,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ South Korean AI inference chip startup Rebellions raised $400 million in a pre-I
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]] · [[2026-08-21-nvidia-in-talks-with-korean-inference-chip-designer-rebellio]] · [[2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-07-23-inference-chip-startup-etched-doubles-valuation-to-10-3b-in]]
 <!-- graph:end -->

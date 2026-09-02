@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: TheStreet
 url_original: https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-26-2026
 url_canonical: https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-26-2026
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-27_092146_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: c6b56d9c1fdab4442af293ab325c4f0c799c759abc4bb9a6bcaa53b9b069c1ab
@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
@@ -33,6 +34,6 @@ Global equities fell Friday amid a broad technology sell-off, as investors quest
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]]
 <!-- graph:end -->

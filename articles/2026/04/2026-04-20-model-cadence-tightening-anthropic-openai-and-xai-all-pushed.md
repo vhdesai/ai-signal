@@ -25,6 +25,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -47,6 +48,6 @@ Model cadence tightening: Anthropic, OpenAI, and xAI all pushed meaningful upgra
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[DeepSeek]] · [[Huawei]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-07-09-anthropic-openai-and-spacex-are-bigger-than-the-last-25-year]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]]
 <!-- graph:end -->

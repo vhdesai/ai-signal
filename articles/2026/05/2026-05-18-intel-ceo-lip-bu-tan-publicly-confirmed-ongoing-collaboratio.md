@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Intel CEO Lip-Bu Tan publicly confirmed ongoing collaboration with Nvidia follow
 ## Connections
 
 **Entities:** [[Intel]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]] · [[2026-06-07-nvidia-and-sk-hynix-sign-multiyear-memory-partnership-for-ai]]
 <!-- graph:end -->

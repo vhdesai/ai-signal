@@ -21,6 +21,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Today's cycle is dominated by the enterprise build-out rather than new frontier 
 ## Connections
 
 **Entities:** [[Amazon]] · [[Databricks]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-23-daily-ai-news-digest-july-24-2026]] · [[2026-07-31-openai-publishes-guidance-on-building-an-ai-ready-workforce]]
 <!-- graph:end -->

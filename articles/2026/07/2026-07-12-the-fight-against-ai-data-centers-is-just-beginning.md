@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ The Verge reported that opposition to AI data center expansion is accelerating a
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]] · [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]]
 <!-- graph:end -->

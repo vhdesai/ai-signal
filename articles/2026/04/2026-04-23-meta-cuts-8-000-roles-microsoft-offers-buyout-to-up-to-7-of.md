@@ -17,6 +17,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Meta began notifying roughly 8,000 employees (~10% of workforce) of role elimina
 ## Connections
 
 **Entities:** [[Meta]] · [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-19-meta-to-cut-8-000-jobs-as-capex-hits-145b-ai-push]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-capex-guidance-to-14]] · [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]] · [[2026-05-19-meta-cuts-8-000-jobs-while-raising-ai-capital-expenditure-to]]
 <!-- graph:end -->

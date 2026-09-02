@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -38,7 +39,7 @@ DeepSeek V4 entered preview via V4-Pro and V4-Flash variants, offering open weig
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-04-24-deepseek-v4-in-preview-with-1m-context-window]]
 **Related:** [[2026-04-24-deepseek-v4-enters-preview-with-1m-context-pro-and-flash-var]] · [[2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap]] · [[2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ OpenAI-backed Chai Discovery raised $400M at a $3.8B valuation, with Novartis jo
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-14-chai-discovery-raises-400m-at-3-8b-for-ai-drug-design]] · [[2026-07-14-chai-discovery-raises-400m-at-3-8b-valuation-for-ai-drug-des]] · [[2026-07-14-chai-discovery-raises-400m-at-a-3-8b-valuation-for-ai-drug-d]] · [[2026-07-17-ai-capital-spreads-across-drug-discovery-policy-and-robotics]] · [[2026-07-13-deepseek-chai-pixverse-and-nous-show-capital-shifting-across]]
 <!-- graph:end -->

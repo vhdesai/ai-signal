@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project
@@ -35,6 +36,6 @@ Nvidia announced it is working with Noetra and Japanese government and industry 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project]]
 <!-- graph:end -->

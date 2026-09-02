@@ -18,6 +18,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-databricks-hits-7b-arr-reveals-5b-round-details-after-15b-of
@@ -34,6 +35,6 @@ Closed $5B at $190B led by Coatue, Blackstone, MGX, T. Rowe Price, and Sixth Str
 ## Connections
 
 **Entities:** [[Databricks]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-13-databricks-hits-7b-arr-reveals-5b-round-details-after-15b-of]]
 <!-- graph:end -->

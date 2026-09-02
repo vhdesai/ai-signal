@@ -6,7 +6,7 @@ date: '2026-07-14'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/softbanks-son-says-ai-5-052004186.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/softbanks-son-says-ai-5-052004186.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_061116_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 0284365e2e4da60de195585262dae0d9bb127c352c4235e5154839272a1d8d04
@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-14-softbank-s-masayoshi-son-says-ai-will-require-5t-a-year-by-2
@@ -33,6 +34,6 @@ At SoftBank World 2026 in Tokyo, Masayoshi Son projected that building out AI wi
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-14-softbank-s-masayoshi-son-says-ai-will-require-5t-a-year-by-2]]
 <!-- graph:end -->

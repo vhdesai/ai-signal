@@ -16,6 +16,8 @@ entities:
 - Amazon
 themes:
 - datacenter-infrastructure
+- ma-activity
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-amazon-is-buying-and-destroying-rare-books-to-scan-them-for
@@ -32,6 +34,6 @@ Amazon is acquiring and destructively scanning rare books to build training corp
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-17-amazon-is-buying-and-destroying-rare-books-to-scan-them-for]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-24'
 source: CNBC
 url_original: https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html
 url_canonical: https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-25_062805_Inbox_Daily AI News Digest - June 25,
   2026.md
 content_hash: e280a2d61e4a524bafe5aacfbfd14b790a1c699b8bebf4e9fc85134ffec22e9b
@@ -17,6 +17,8 @@ entities:
 - Meta
 themes:
 - datacenter-infrastructure
+- ma-activity
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +40,6 @@ Qualcomm revealed the Dragonfly C1000, a data-center CPU built for agentic AI wi
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-13-meta-readies-its-custom-iris-ai-chip-for-september-productio]] · [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t]] · [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september]] · [[2026-07-09-meta-to-move-its-in-house-iris-ai-chip-into-production-in-se]] · [[2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c]]
 <!-- graph:end -->

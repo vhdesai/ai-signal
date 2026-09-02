@@ -19,6 +19,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-openai-cuts-off-cursor-after-spacex-s-60-billion-takeover
@@ -36,7 +37,7 @@ OpenAI plans to end Cursor's direct model access on November 12 after SpaceX's r
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-31-openai-cuts-off-cursor-after-spacex-s-60-billion-takeover]]
 **Related:** [[2026-08-31-openai-cutting-off-cursor-ai-model-access-after-spacex-deal]]
 <!-- graph:end -->

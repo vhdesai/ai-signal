@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/
 url_canonical: https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-01_060637_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: a44a0cc19dd4481c3b8d169e7ce66ed026258d60f7cc4eac5f65f09f504ce753
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Smallest.ai raised a $13 million Series A to build specialized voice models desi
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-07-15-rime-raises-24-million-to-improve-enterprise-voice-ai-calls]] · [[2026-07-02-xai-launches-grok-voice-ai-agent-builder]]
 <!-- graph:end -->

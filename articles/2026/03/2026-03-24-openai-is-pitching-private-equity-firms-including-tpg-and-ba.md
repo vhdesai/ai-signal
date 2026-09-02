@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - model-capabilities
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ OpenAI is pitching private equity firms including TPG and Bain Capital on joint 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]]
 **Related:** [[2026-05-04-openai-finalizes-10b-development-company-jv-with-tpg-brookfi]] · [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-a-1-trill]] · [[2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation]]
 <!-- graph:end -->

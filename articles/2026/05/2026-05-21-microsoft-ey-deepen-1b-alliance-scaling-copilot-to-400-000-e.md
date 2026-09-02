@@ -6,7 +6,7 @@ date: '2026-05-21'
 source: 'Source: Microsoft Official Blog'
 url_original: https://blogs.microsoft.com/blog/2026/05/21/from-ai-pilots-to-enterprise-impact-why-execution-is-the-new-differentiator/
 url_canonical: https://blogs.microsoft.com/blog/2026/05/21/from-ai-pilots-to-enterprise-impact-why-execution-is-the-new-differentiator/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 24cbbf42fd2a1bcd108549318b644e55b83ccbda6666cb46652128471eb8733e
@@ -17,6 +17,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-21-microsoft-and-ey-launch-1-billion-enterprise-ai-initiative
@@ -33,6 +34,6 @@ Microsoft and EY deepened a $1 billion-plus joint initiative to move enterprises
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-21-microsoft-and-ey-launch-1-billion-enterprise-ai-initiative]]
 <!-- graph:end -->

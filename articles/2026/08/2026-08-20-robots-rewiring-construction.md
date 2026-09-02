@@ -18,6 +18,9 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- ma-activity
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +42,6 @@ PitchBook's daily roundup highlights how robotics and AI are increasingly being 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-31-ai-data-center-construction-sends-private-equity-into-the-tr]] · [[2026-08-20-unitree-raises-904m-in-shanghai-ipo-factory-automation-seen]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree]] · [[2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them]]
 <!-- graph:end -->

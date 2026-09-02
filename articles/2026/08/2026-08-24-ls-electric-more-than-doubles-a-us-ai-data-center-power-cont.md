@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: '[UPI]'
 url_original: https://www.upi.com/Top_News/World-News/2026/08/24/ls-electric-ai-data-center-deal/4801787611247/
 url_canonical: https://www.upi.com/Top_News/World-News/2026/08/24/ls-electric-ai-data-center-deal/4801787611247/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-25_061146_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 73924aca80f4ed61060a07141b975d4ed8b4a6ec97979818422f91f34df6f431
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-24-ls-electric-expands-u-s-ai-data-center-power-contract-to-166
@@ -30,6 +31,6 @@ South Korea's LS Electric said a June contract to supply a 38-kV high-voltage di
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-24-ls-electric-expands-u-s-ai-data-center-power-contract-to-166]]
 <!-- graph:end -->

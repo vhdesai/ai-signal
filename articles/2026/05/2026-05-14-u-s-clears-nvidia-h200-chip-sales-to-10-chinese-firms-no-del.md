@@ -5,7 +5,7 @@ date: '2026-05-14'
 source: Reuters via U.S. News & World Report
 url_original: https://www.usnews.com/news/top-news/articles/2026-05-14/exclusive-us-clears-h200-chip-sales-to-10-china-firms-as-nvidia-ceo-looks-for-breakthrough
 url_canonical: https://www.usnews.com/news/top-news/articles/2026-05-14/exclusive-us-clears-h200-chip-sales-to-10-china-firms-as-nvidia-ceo-looks-for-breakthrough
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 48ea86fc59ea24fdd4a70b96dc437af7474bea5536d654bb1818a4ebbcec238e

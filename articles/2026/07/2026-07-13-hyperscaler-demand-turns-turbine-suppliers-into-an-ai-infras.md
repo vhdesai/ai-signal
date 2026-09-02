@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ WSJ highlighted surging demand for specialized turbine parts as airlines and hyp
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory]] · [[2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru]] · [[2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n]] · [[2026-08-03-estimates-above-1-trillion-in-hyperscaler-capex-for-2027-und]]
 <!-- graph:end -->

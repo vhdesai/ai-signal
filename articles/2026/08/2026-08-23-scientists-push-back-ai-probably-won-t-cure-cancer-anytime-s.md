@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=AI+probably+wont+cure+cancer+soon+scientists
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=AI+probably+wont+cure+cancer+soon+scientists
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-24_065858_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 051026b44c103b3e65317f7d5d7599ffc73dbbc3a0baffbcd988f19603d7d9f4
@@ -19,6 +19,7 @@ entities:
 - Perplexity
 themes:
 - model-capabilities
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +41,6 @@ Prominent cardiologist Eric Topol and other scientists push back on the cancer-c
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[Perplexity]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-22-the-information-questions-near-term-claims-that-ai-will-cure]] · [[2026-08-23-scientists-say-ai-probably-won-t-cure-cancer-anytime-soon]] · [[2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer]] · [[2026-08-24-carnegie-mellon-ai-is-showing-a-revenue-payoff]]
 <!-- graph:end -->

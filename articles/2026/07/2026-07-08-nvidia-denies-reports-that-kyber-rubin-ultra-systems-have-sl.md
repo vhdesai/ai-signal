@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: OnMSFT
 url_original: https://onmsft.com/news/nvidia-denies-rubin-ultra-delay-rumors-says-chip-roadmap-remains-on-track/
 url_canonical: https://onmsft.com/news/nvidia-denies-rubin-ultra-delay-rumors-says-chip-roadmap-remains-on-track/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-09_061826_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: b7c1280209107e8271d46669965c86754c590e2a5a982baa56202082ae43599d
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Nvidia publicly rejected reports that its next-generation Rubin Ultra chips and 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028]] · [[2026-07-06-infrastructure-nvidia-s-flagship-kyber-nvl144-rack-slips-12]] · [[2026-08-06-nvidia-tests-rubin-ultra-variants-with-less-hbm-amid-tight-m]] · [[2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through]]
 <!-- graph:end -->

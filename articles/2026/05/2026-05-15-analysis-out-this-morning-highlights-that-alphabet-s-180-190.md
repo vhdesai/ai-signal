@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ analysis out this morning highlights that Alphabet's $180–$190B AI-driven cape
 ## Connections
 
 **Entities:** [[Google]] · [[Meta]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]] · [[2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-08-20-meta-s-ai-positioning-lags-alphabet-microsoft-and-amazon-as]]
 <!-- graph:end -->

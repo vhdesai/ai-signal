@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-ai-s
@@ -33,6 +34,6 @@ Reuters published a long-form narrative on the intensifying rivalry between Anth
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-ai-s]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ SK Hynix plans to invest about $38 billion in new memory-chip production capacit
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-08-07-sk-hynix-approves-54-trillion-won-for-two-new-ai-memory-fabs]] · [[2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o]]
 <!-- graph:end -->

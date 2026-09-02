@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ NVIDIA announced Medical Physics Simulation, an open-source GPU-accelerated fram
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica]] · [[2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model]] · [[2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme]] · [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]] · [[2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at]]
 <!-- graph:end -->

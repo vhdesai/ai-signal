@@ -16,6 +16,8 @@ entities:
 - Alibaba
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -36,6 +38,6 @@ The Wall Street Journal reported that Alibaba plans to raise $10.2 billion throu
 ## Connections
 
 **Entities:** [[Alibaba]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-24-alibaba-sells-10-2b-in-stock-to-fund-ai-shares-plunge-roughl]] · [[2026-08-24-alibaba-plunges-after-announcing-10-2-billion-share-placemen]] · [[2026-08-24-alibaba-prices-10-2b-hong-kong-share-placement-to-fund-ai-sh]]
 <!-- graph:end -->

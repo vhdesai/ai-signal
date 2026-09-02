@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: Cursor Blog
 url_original: https://cursor.com/blog/mixture-of-kittens
 url_canonical: https://cursor.com/blog/mixture-of-kittens
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_061721_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 6f4de1b9724e24c6732dc9560b6424e726970365669685d3136e7224930fdd0a
@@ -19,6 +19,7 @@ entities:
 - Scale AI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Cursor open-sourced Mixture-of-Kittens (MoK), a production Mixture-of-Experts tr
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[Scale AI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-04-cursor-open-sources-mixture-of-kittens-a-deterministic-moe-t]] · [[2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement]]
 <!-- graph:end -->

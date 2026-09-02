@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ NVIDIA says Bristol Myers Squibb is deploying a second DGX SuperPOD built on eig
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-20-bristol-myers-squibb-to-build-one-of-the-largest-private-nvi]] · [[2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project]]
 <!-- graph:end -->

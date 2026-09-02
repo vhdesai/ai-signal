@@ -25,10 +25,21 @@ TOPIC_LABELS: dict[str, str] = {
     "datacenter-infrastructure": "\u26a1 Infrastructure & Compute",
     "policy-regulation": "\U0001f4dc Policy & Regulation",
     "company-storylines": "\U0001f3e2 Corporate Moves",
+    "ma-activity": "\U0001f91d M&A Activity",
+    "company-investments": "\U0001f4b0 Company Investments",
+    "infrastructure-investments": "\U0001f3d7\ufe0f Infrastructure Investments",
     "what-changed": "\U0001f504 What Changed",
     "related-stories": "\U0001f517 Related Stories",
     "china-compete": "\U0001f30f Global AI Race",
 }
+
+# Sub-taxonomy grouped under the M&A & Investments hub page. Order controls
+# how the hub renders each sub-section.
+_DEALS_SUBCATEGORIES: tuple[str, ...] = (
+    "ma-activity",
+    "company-investments",
+    "infrastructure-investments",
+)
 
 # Items per page for client-side pagination on large listings
 _PAGE_SIZE = 30
@@ -283,6 +294,35 @@ a.analysis-link:hover{background:var(--brand);box-shadow:0 2px 8px rgba(13,107,9
 .analysis-meta{margin:0 0 20px;color:var(--muted);font-size:13px}
 .analysis-source-link{display:inline-block;margin-top:8px;color:var(--brand);text-decoration:none;font-weight:600}
 .analysis-source-link:hover{text-decoration:underline}
+
+/* ---- M&A & Investments hub ---- */
+a.deals-hub-card{display:block;margin:16px 0 24px;padding:20px 24px;background:linear-gradient(135deg,#fff8e6,#fff2d1);
+                 border:1px solid #f3d17a;border-left:4px solid var(--accent);border-radius:var(--radius);
+                 text-decoration:none;color:var(--text);transition:box-shadow .15s,transform .15s}
+a.deals-hub-card:hover{box-shadow:0 4px 14px rgba(245,158,11,.20);transform:translateY(-1px)}
+.deals-hub-title{font-size:18px;font-weight:700;color:var(--brand);margin-bottom:4px}
+.deals-hub-sub{font-size:13px;color:var(--muted);margin-bottom:12px}
+.deals-hub-pills{display:flex;flex-wrap:wrap;gap:8px}
+a.deals-pill{display:inline-flex;align-items:center;gap:6px;padding:6px 12px;background:#fff;border:1px solid var(--border);
+             border-radius:999px;text-decoration:none;color:var(--brand);font-size:13px;transition:background .15s}
+a.deals-pill:hover{background:var(--accent);color:#fff;border-color:var(--accent)}
+.deals-pill-label{font-weight:600}
+.deals-pill-count{color:var(--muted);font-weight:500}
+a.deals-pill:hover .deals-pill-count{color:#fff}
+.deals-intro{margin-bottom:24px;padding:20px 24px;background:var(--card);border:1px solid var(--border);
+             border-radius:var(--radius)}
+.deals-intro h2{margin:0 0 10px;color:var(--brand);font-size:22px}
+.deals-intro p{margin:0;color:var(--muted);font-size:14px;line-height:1.55}
+.deals-section{margin:32px 0}
+.deals-section-head{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:14px;
+                    padding-bottom:6px;border-bottom:2px solid var(--border)}
+.deals-section-head h3{margin:0;font-size:18px}
+.deals-section-head h3 a{color:var(--brand);text-decoration:none}
+.deals-section-head h3 a:hover{text-decoration:underline}
+.deals-section-count{color:var(--muted);font-size:13px}
+.deals-more{margin-top:14px;text-align:right}
+a.deals-more-link{color:var(--brand-light);font-weight:600;font-size:13px;text-decoration:none}
+a.deals-more-link:hover{text-decoration:underline}
 .submit-link-cta{display:flex;align-items:center;gap:12px;margin-top:24px;padding:14px 20px;background:var(--card);
                  border:1px dashed var(--border);border-radius:var(--radius);font-size:13px;color:var(--muted)}
 .submit-link-cta .submit-btn{padding:6px 16px;background:var(--accent2);color:#fff;border-radius:8px;text-decoration:none;
@@ -944,6 +984,59 @@ def _curated_analysis_files(cfg: Config) -> list[Path]:
             continue
         out.append(path)
     return out
+
+
+def _build_deals_hub_page(site: Path, deals_by_slug: dict[str, list[dict]],
+                          entity_files: dict[str, str]) -> int:
+    """Render the M&A & Investments hub at ``/topics/m-and-a-investments.html``.
+
+    Shows a short intro then one section per sub-category
+    (``ma-activity``, ``company-investments``, ``infrastructure-investments``)
+    with the newest ~12 stories per section and a "View all" link into that
+    sub-category's dedicated topic page.
+    """
+    intro = (
+        '<div class="deals-intro">'
+        '<h2>\U0001f4b0 M&amp;A &amp; Investments</h2>'
+        '<p>Where the money is moving in AI. This hub groups deal-flow stories '
+        'into three sub-categories: full-company transactions, equity going '
+        '<em>into</em> companies, and capital going <em>into</em> physical '
+        'infrastructure. Articles can appear in more than one sub-category '
+        '(e.g. an equity stake tied to a chip supply deal).</p>'
+        '</div>'
+    )
+
+    sections: list[str] = []
+    total = 0
+    for slug in _DEALS_SUBCATEGORIES:
+        items = deals_by_slug.get(slug, [])
+        if not items:
+            continue
+        total += len(items)
+        # newest first; the /topics/<slug>.html page carries the full list
+        items_sorted = sorted(items, key=lambda a: (a.get("date") or ""), reverse=True)
+        preview = items_sorted[:12]
+        preview_html = _cards(preview, rel="../", entity_files=entity_files)
+        more = ""
+        if len(items) > len(preview):
+            more = (f'<div class="deals-more">'
+                    f'<a class="deals-more-link" href="{slug}.html">'
+                    f'View all {len(items)} stories in {_topic_label(slug)} \u2192</a></div>')
+        sections.append(
+            f'<section class="deals-section" id="{slug}">'
+            f'<div class="deals-section-head">'
+            f'<h3><a href="{slug}.html">{_topic_label(slug)}</a></h3>'
+            f'<span class="deals-section-count">{len(items)} stories</span>'
+            f'</div>'
+            f'{preview_html}{more}'
+            f'</section>'
+        )
+
+    body = intro + "".join(sections)
+    _write(site / "topics" / "m-and-a-investments.html",
+           _render("M&A & Investments", body, rel="../", active="topics",
+                   subtitle=f"{total} deal-flow stories across three sub-categories"))
+    return 1
 
 
 def _build_curated_analysis_pages(cfg: Config, site: Path,
@@ -1904,6 +1997,29 @@ def run_build_site(cfg: Config) -> dict:
             continue
         for t in a["themes"] + a["cross_cutting"]:
             by_topic[t].append(a)
+
+    # M&A & Investments hub: highlighted card on /topics.html + one dedicated
+    # hub page /topics/m-and-a-investments.html that indexes the three deals
+    # sub-categories together, plus the three individual topic pages
+    # (auto-generated by the loop below because they're in topics.yaml).
+    deals_by_slug = {slug: by_topic.get(slug, []) for slug in _DEALS_SUBCATEGORIES}
+    deals_total = sum(len(v) for v in deals_by_slug.values())
+    deals_hub_card = ""
+    if deals_total:
+        sub_pills = "".join(
+            f'<a class="deals-pill" href="topics/{slug}.html">'
+            f'<span class="deals-pill-label">{_topic_label(slug)}</span>'
+            f'<span class="deals-pill-count">{len(deals_by_slug[slug])}</span></a>'
+            for slug in _DEALS_SUBCATEGORIES
+        )
+        deals_hub_card = (
+            '<a class="deals-hub-card" href="topics/m-and-a-investments.html">'
+            '<div class="deals-hub-title">\U0001f4b0 M&amp;A &amp; Investments</div>'
+            '<div class="deals-hub-sub">Follow the money: acquisitions, funding rounds, and infrastructure capex.</div>'
+            f'<div class="deals-hub-pills">{sub_pills}</div>'
+            '</a>'
+        )
+
     topic_rows = '<div class="grid">' + "".join(
         f'<div class="card"><a class="t" href="topics/{t}.html">{_topic_label(t)}</a>'
         f'<div class="count">{len(items)}</div><div class="label">stories</div></div>'
@@ -1912,7 +2028,7 @@ def run_build_site(cfg: Config) -> dict:
     topics_body = _chat_highlight(
         "The best way to explore news by theme is AI Chat",
         "Ask about topics — 'Latest model breakthroughs?' or 'Policy news this week?'",
-    ) + topic_rows
+    ) + deals_hub_card + topic_rows
     _write(site / "topics.html",
            _render("Themes", topics_body, active="topics",
                    subtitle="Browse AI news by theme"))
@@ -1925,6 +2041,11 @@ def run_build_site(cfg: Config) -> dict:
                _render(_topic_label(t), body, rel="../", active="topics",
                        subtitle=f"{len(items)} stories"))
         pages += 1
+
+    # Dedicated M&A & Investments hub page: intro + one section per
+    # sub-category showing the newest stories with a "View all" link.
+    if deals_total:
+        pages += _build_deals_hub_page(site, deals_by_slug, entity_files)
 
     # --- entities (alphabetical with letter nav, exclude future-dated) ---
     ent_counter: Counter = Counter()

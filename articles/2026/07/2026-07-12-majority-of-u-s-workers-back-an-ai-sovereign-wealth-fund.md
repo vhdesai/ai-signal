@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - policy-regulation
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ A Verasight survey found 69% of U.S. adults support requiring AI companies to tr
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]]
 **Related:** [[2026-07-12-majority-of-us-workers-back-an-ai-sovereign-wealth-fund]] · [[2026-07-02-openai-proposes-donating-5-of-its-equity-to-a-u-s-sovereign]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]] · [[2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake]]
 <!-- graph:end -->

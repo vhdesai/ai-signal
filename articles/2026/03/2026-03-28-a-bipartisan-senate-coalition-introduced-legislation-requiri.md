@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ A bipartisan Senate coalition introduced legislation requiring mandatory energy 
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-of-bills]] · [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-targetin]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-06-11-axios-congress-wants-in-on-the-data-center-backlash]] · [[2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development]]
 <!-- graph:end -->

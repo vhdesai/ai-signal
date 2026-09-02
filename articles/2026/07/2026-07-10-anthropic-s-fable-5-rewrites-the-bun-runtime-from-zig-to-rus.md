@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: The Decoder
 url_original: https://the-decoder.com/bun-ditches-zig-for-rust-with-help-from-claude-fable-5-writes-over-a-million-lines-of-code-in-11-days/
 url_canonical: https://the-decoder.com/bun-ditches-zig-for-rust-with-help-from-claude-fable-5-writes-over-a-million-lines-of-code-in-11-days/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-11_060959_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 5be5dbf3f80102f6e5b8b050c1b85489bad014f567fd43c4bd665bc19b6e1acc
@@ -16,6 +16,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-anthropic-s-fable-5-rewrites-bun-runtime-from-zig-to-rust-1m
@@ -32,6 +33,6 @@ Bun creator Jarred Sumner said a pre-release Claude Fable 5 did most of the work
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-07-10-anthropic-s-fable-5-rewrites-bun-runtime-from-zig-to-rust-1m]]
 <!-- graph:end -->

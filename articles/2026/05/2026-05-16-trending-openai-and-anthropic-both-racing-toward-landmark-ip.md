@@ -19,6 +19,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Both OpenAI ($852B valuation after a $122B March funding round) and Anthropic (t
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Palantir]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]] · [[2026-05-08-both-anthropic-and-openai-announced-parallel-enterprise-join]]
 <!-- graph:end -->

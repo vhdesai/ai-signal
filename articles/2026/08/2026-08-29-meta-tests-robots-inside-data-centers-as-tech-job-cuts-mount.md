@@ -19,6 +19,7 @@ entities:
 - Oracle
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Meta piloting robots in data center operations. ~140,000 US tech job elimination
 ## Connections
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]] · [[Oracle]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-29-meta-tests-robots-inside-its-data-centers-as-tech-sector-job]] · [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]]
 <!-- graph:end -->

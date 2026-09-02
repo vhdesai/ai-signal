@@ -5,7 +5,7 @@ date: '2026-07-21'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic%20customer%20service%20AI
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic%20customer%20service%20AI
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-22_065707_Final-Daily-AI-News-Digest.md
 content_hash: 6bf3fb679d891422609615ec3c2e30ad295de013ee786c4febe0fc9d69b89478
 normalized_title_hash: 3daa4b6d858d85a1

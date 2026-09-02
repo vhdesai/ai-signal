@@ -16,6 +16,8 @@ entities:
 - Amazon
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +39,6 @@ Amazon Web Services Korea disclosed plans to invest 7 trillion won (~$4.6B) in S
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud]] · [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-08-03-amazon-completes-additional-35-billion-investment-in-openai]]
 <!-- graph:end -->

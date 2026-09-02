@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +34,6 @@ President Trump said communities that reject data centers will end up “backwar
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-22-75-of-americans-now-oppose-data-centers-up-from-42-a-year-ag]] · [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]] · [[2026-06-11-axios-congress-wants-in-on-the-data-center-backlash]]
 <!-- graph:end -->

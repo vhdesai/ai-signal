@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Nvidia's equity investment portfolio exceeded $40 billion in 2026, adding deals 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-10-nvidia-tops-40b-in-ai-equity-bets-invests-3-2b-in-corning-2]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]]
 <!-- graph:end -->

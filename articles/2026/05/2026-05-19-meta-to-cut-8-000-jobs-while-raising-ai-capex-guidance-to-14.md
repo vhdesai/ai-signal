@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: TechRepublic
 url_original: https://www.techrepublic.com/article/news-meta-ai-spending-job-cuts-may-2026/
 url_canonical: https://www.techrepublic.com/article/news-meta-ai-spending-job-cuts-may-2026/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 894a63381ffdcee1aead8aa9809246924c70030d3927f8a5159978f133d94a41
@@ -17,6 +17,7 @@ entities:
 - Meta
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion
@@ -33,6 +34,6 @@ Meta is preparing to eliminate approximately 8,000 jobs (~10% of workforce) star
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]]
 <!-- graph:end -->

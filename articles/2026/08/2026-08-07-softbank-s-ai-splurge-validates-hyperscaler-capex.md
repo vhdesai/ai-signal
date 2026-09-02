@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=SoftBank+AI+splurge+capex
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=SoftBank+AI+splurge+capex
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-07_065329_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: db349d8a479be0314551d394f4af8f4115025fe4c6b52129b142f9fb33ce32b4
@@ -21,6 +21,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -43,6 +44,6 @@ The Information's briefing argues that SoftBank's massive AI spending program se
 ## Connections
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and]] · [[2026-07-24-moody-s-warns-ai-capex-is-straining-big-tech-credit-quality]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]]
 <!-- graph:end -->

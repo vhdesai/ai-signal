@@ -19,6 +19,7 @@ entities:
 - Mistral
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Mistral AI is evaluating the development of custom-designed chips to reduce infe
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Microsoft]] · [[Mistral]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design]] · [[2026-07-07-deepseek-is-developing-its-own-ai-inference-chip]] · [[2026-05-28-mistral-explores-custom-chips-and-new-french-data-center]] · [[2026-07-07-reuters-deepseek-is-developing-its-own-ai-inference-chip]]
 <!-- graph:end -->

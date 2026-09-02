@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ The Wall Street Journal published new commentary and coverage on data-center dis
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]]
 <!-- graph:end -->

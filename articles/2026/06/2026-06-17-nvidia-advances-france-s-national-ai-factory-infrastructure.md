@@ -17,6 +17,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ NVIDIA published a VivaTech recap highlighting the activation of France's nation
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-20-vivatech-2026-in-paris-wrapped-its-10th-anniversary-edition]] · [[2026-07-16-nvidia-and-japan-launch-national-ai-infrastructure-for-physi]] · [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers]] · [[2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]]
 <!-- graph:end -->

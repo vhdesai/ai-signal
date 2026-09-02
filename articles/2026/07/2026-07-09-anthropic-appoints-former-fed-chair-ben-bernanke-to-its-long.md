@@ -16,6 +16,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Anthropic named Nobel laureate and former Federal Reserve Chair Ben Bernanke to 
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-04-anthropic-appoints-tino-cuellar-as-first-chief-global-affair]] · [[2026-07-22-anthropic-doubles-midterm-spending-to-push-ai-regulation]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]] · [[2026-08-18-anthropic-prepares-supervoting-power-for-dario-amodei-as-it]] · [[2026-08-04-anthropic-names-tino-cu-llar-chief-global-affairs-officer]]
 <!-- graph:end -->

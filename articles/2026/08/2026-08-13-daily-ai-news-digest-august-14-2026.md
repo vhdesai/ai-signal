@@ -21,6 +21,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -42,6 +43,6 @@ Executive Summary Capital formation, leadership churn, and distribution deals do
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Databricks]] · [[DeepSeek]] · [[IBM]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-14-daily-ai-news-digest-august-15-2026]] · [[2026-08-17-daily-ai-news-digest-august-18-2026]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]]
 <!-- graph:end -->

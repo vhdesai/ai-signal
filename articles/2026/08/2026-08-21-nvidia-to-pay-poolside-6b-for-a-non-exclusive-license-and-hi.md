@@ -6,7 +6,7 @@ date: '2026-08-21'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/nvidia-pay-poolside-6-billion-181448803.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-pay-poolside-6-billion-181448803.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_060308_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 6720d4e800c2213a9f395d5e383ab5674d2ec382b6b0160365b5ae92596bb6d1
@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-nvidia-strikes-a-7b-license-and-hire-deal-with-poolside
@@ -35,7 +36,7 @@ Nvidia agreed to pay roughly $6 billion under a non-exclusive technology license
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-21-nvidia-strikes-a-7b-license-and-hire-deal-with-poolside]]
 **Related:** [[2026-08-21-nvidia-to-pay-poolside-6b-in-licensing-and-tap-the-startup-s]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-02'
 source: The Motley Fool
 url_original: https://www.aol.com/finance/nvidia-bold-bet-ai-neoclouds-145617376.html
 url_canonical: https://www.aol.com/finance/nvidia-bold-bet-ai-neoclouds-145617376.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-03_062005_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: 81a9450edf0da71670f479304c38eaeb808f585b8885a5c19d6a77e8164ba6dd
@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ NVIDIA's AI Compute Partnership lets neocloud providers access GPU infrastructur
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr]] · [[2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares]] · [[2026-07-22-nvidia-helps-customers-finance-gpu-purchases-to-expand-ai-ch]]
 <!-- graph:end -->

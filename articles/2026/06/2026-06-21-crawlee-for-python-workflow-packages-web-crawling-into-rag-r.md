@@ -5,7 +5,7 @@ date: '2026-06-21'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/
 url_canonical: https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-21_060000_Daily-AI-News-Digest.md
 content_hash: 6b134194d35fa6f7e8277fa5cf251fa1f654dbe9b9d1e7c79845d945b543eefa
 normalized_title_hash: 040eb323d87a38bd

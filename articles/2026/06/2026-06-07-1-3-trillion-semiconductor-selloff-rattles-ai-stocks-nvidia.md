@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ A sharp semiconductor selloff wiped ~$1.3 trillion from AI chip stocks, ending W
 ## Connections
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]] · [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s]] · [[2026-06-27-u-s-and-european-semiconductor-stocks-sold-off-friday-on-fea]] · [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]] · [[2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-07-30'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html
 url_canonical: https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-01_061707_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 7176faafb379be06c8c22af7908d5c70209e3cff63324f3bd14dbfe7588eab68

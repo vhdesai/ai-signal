@@ -5,7 +5,7 @@ date: '2026-07-01'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/
 url_canonical: https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-02_062325_Inbox_Daily AI News Digest - July 2,
   2026.md
 content_hash: dd516a915bb66f0642e289b4e4ec8f666fcbf780caa49c6cb66941e19ce7ac3f
@@ -19,6 +19,7 @@ entities:
 - xAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-01-meta-moves-to-sell-excess-ai-compute-through-a-new-cloud-bus
@@ -35,6 +36,6 @@ Bloomberg, via TechCrunch, reports Meta is developing a cloud infrastructure bus
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-01-meta-moves-to-sell-excess-ai-compute-through-a-new-cloud-bus]]
 <!-- graph:end -->

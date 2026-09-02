@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: GeekWire
 url_original: https://www.geekwire.com/2026/amazon-tops-3-trillion-and-microsoft-surges-as-wall-street-sets-aside-ai-spending-fears-for-now/
 url_canonical: https://www.geekwire.com/2026/amazon-tops-3-trillion-and-microsoft-surges-as-wall-street-sets-aside-ai-spending-fears-for-now/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-04_061916_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 32e5fde89356cb503109459717b5626295b3123f25a1228df8c128c79a806d82
@@ -18,6 +18,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Amazon crossed a $3 trillion market capitalization for the first time on Monday,
 ## Connections
 
 **Entities:** [[Amazon]] · [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-04-amazon-joins-the-3-trillion-club-as-aws-posts-its-fastest-re]] · [[2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200]] · [[2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge]]
 <!-- graph:end -->

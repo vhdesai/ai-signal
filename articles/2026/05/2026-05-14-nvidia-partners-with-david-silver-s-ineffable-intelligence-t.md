@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ NVIDIA announced a multi-year codesign partnership with Ineffable Intelligence �
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-27-safe-superintelligence-partners-with-nvidia-to-scale-researc]] · [[2026-07-27-nvidia-to-invest-5b-in-ilya-sutskever-s-safe-superintelligen]] · [[2026-07-27-nvidia-to-take-5b-stake-in-ilya-sutskever-s-safe-superintell]] · [[2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b]] · [[2026-06-07-nvidia-and-sk-hynix-sign-multiyear-memory-partnership-for-ai]]
 <!-- graph:end -->

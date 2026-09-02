@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +34,6 @@ Founded by two Israeli Unit 8200 veterans, AIR raised $50 million across two see
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Related:** [[2026-09-01-air-launches-with-50m-to-build-a-firewall-for-ai-agent-skill]] · [[2026-08-03-june-emerges-from-stealth-with-20-million-to-automate-enterp]] · [[2026-07-15-oak-exits-stealth-with-60m-to-govern-identity-for-ai-agents]]
 <!-- graph:end -->

@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - model-capabilities
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Georgia Tech researchers introduced IPO-Mine, an open-source AI toolkit and data
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]]
 **Related:** [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-08-29-the-ipo-s-big-demotion-blue-collar-tech-drives-deals]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens]]
 <!-- graph:end -->

@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Anthropic issued a formal warning to investors cautioning against secondary-mark
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-14-investors-battle-for-anthropic-shares-on-secondary-markets-a]] · [[2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar]] · [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]] · [[2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an]] · [[2026-04-02-despite-the-record-raise-openai-s-secondary-market-position]]
 <!-- graph:end -->

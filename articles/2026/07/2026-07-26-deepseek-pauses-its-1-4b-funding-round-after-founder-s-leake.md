@@ -6,7 +6,7 @@ date: '2026-07-26'
 source: The Next Web
 url_original: https://thenextweb.com/news/deepseek-funding-pause-viral-posts-liang-wenfeng
 url_canonical: https://thenextweb.com/news/deepseek-funding-pause-viral-posts-liang-wenfeng
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-26_062227_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 2fdd471c2f113223a06c323f6d67cd6dfd55518b3d183eca300a32185ef528f6
@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -37,7 +38,7 @@ DeepSeek told prospective backers it would not sign investment agreements as exp
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-26-deepseek-pauses-71b-funding-round-after-founder-s-leaked-rem]]
 **Related:** [[2026-07-26-deepseek-pauses-its-second-funding-round-after-founder-s-vir]]
 <!-- graph:end -->

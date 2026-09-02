@@ -5,7 +5,7 @@ date: '2026-07-17'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/
 url_canonical: https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-19_065029_Final-Daily-AI-News-Digest.md
 content_hash: 1c0842f83eb8098b11e48bc0528b02f2ce624f9ffabc8f4c31f824490da78f39
 normalized_title_hash: 1966c9614875d503

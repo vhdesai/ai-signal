@@ -5,7 +5,7 @@ date: '2026-05-24'
 source: The Motley Fool
 url_original: https://www.fool.com/investing/2026/05/25/80-billion-reasons-buy-nvidia-monster-earnings/
 url_canonical: https://www.fool.com/investing/2026/05/25/80-billion-reasons-buy-nvidia-monster-earnings/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-25_071611_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 0d9257c3261ddb32b112c856b5ff23265c69b02e5ce3789931e0a1101bde962a
@@ -20,6 +20,7 @@ entities:
 - Oracle
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ Amazon's 2026 AI infrastructure capex is now estimated at roughly $200B — the 
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[Oracle]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai]] · [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200]]
 <!-- graph:end -->

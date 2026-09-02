@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/
 url_canonical: https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-29_062156_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: a9b3dfccc4b170b8384fdd402d669f0ca96db2812de3065be3b23f2703d25332
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-28-fish-audio-raises-52-million-seed-for-expressive-voice-model
@@ -30,6 +31,6 @@ Fish Audio raised a $52M seed round to build AI voice models aimed at creators a
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-07-28-fish-audio-raises-52-million-seed-for-expressive-voice-model]]
 <!-- graph:end -->

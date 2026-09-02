@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-apple-pulled-forward-mac-mini-and-mac-studio-launches-on-une
@@ -34,6 +35,6 @@ Apple's unusually early Mac mini and Mac Studio refresh — ahead of the iPhone 
 ## Connections
 
 **Entities:** [[Apple]] · [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-31-apple-pulled-forward-mac-mini-and-mac-studio-launches-on-une]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b
@@ -35,7 +36,7 @@ ARR hit $65B at end of July (up from $47B in May, ~$9B at end-2025). Tokenized p
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b]]
 **Related:** [[2026-08-17-tokenized-anthropic-pre-ipo-contracts-imply-a-1-8t-valuation]] · [[2026-05-13-anthropic-arr-crosses-44b-on-80x-yoy-growth-customers-willin]]
 <!-- graph:end -->

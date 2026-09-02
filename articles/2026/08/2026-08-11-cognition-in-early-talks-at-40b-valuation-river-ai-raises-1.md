@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ Cognition AI is in early discussions at $40B+ (>50% step-up), signaling the prem
 ## Connections
 
 **Entities:** [[AMD]] · [[NVIDIA]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-11-river-ai-raises-1-1b-for-open-weights-post-training-cloud]] · [[2026-08-11-river-ai-raises-1-1b-for-an-open-weights-post-training-cloud]] · [[2026-08-11-river-ai-raises-1-1-billion-two-months-after-launch]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-08-12-cognition-in-early-talks-at-a-40b-valuation]]
 <!-- graph:end -->

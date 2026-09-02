@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-14-chai-discovery-raises-400m-as-wsj-questions-ai-drug-discover
@@ -33,6 +34,6 @@ OpenAI-backed Chai Discovery closed $400 million led by Index Ventures at $3.8 b
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-07-14-chai-discovery-raises-400m-as-wsj-questions-ai-drug-discover]]
 <!-- graph:end -->

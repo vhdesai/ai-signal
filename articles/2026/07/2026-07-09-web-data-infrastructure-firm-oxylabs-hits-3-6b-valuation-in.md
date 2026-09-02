@@ -6,7 +6,7 @@ date: '2026-07-09'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/07/09/web-data-scraping-infrastructure-startup-oxylabs-reels-130m-first-ever-funding-round/
 url_canonical: https://siliconangle.com/2026/07/09/web-data-scraping-infrastructure-startup-oxylabs-reels-130m-first-ever-funding-round/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-11_065220_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 2c2fe6d91015cd47da4b23e758a34a68767c141fe56e2f4ade0611cde69c49b6
@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-oxylabs-hits-3-6b-valuation-as-ai-training-data-infrastructu
@@ -32,6 +33,6 @@ Lithuanian web-data and scraping company Oxylabs raised $130M from Warburg Pincu
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-07-09-oxylabs-hits-3-6b-valuation-as-ai-training-data-infrastructu]]
 <!-- graph:end -->

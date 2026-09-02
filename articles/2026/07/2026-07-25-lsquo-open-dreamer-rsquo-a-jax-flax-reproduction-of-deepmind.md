@@ -6,7 +6,7 @@ date: '2026-07-25'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/
 url_canonical: https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-26_061102_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 94a6ef8a006c9823fe6a945217d24c445172600309182fdff716afcbed11d819

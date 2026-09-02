@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/
 url_canonical: https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-08_061307_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 872bc64cba1db3854c93340d58a3e0a4c5ed2fece10c1483da6b72f38511b742
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -32,6 +33,6 @@ SambaNova raised a $1 billion first close for its Series F at an $11 billion val
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc]] · [[2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips]]
 <!-- graph:end -->

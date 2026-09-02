@@ -24,6 +24,8 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- ma-activity
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -44,6 +46,6 @@ Executive Takeaways Nvidia beat on Q2 but the real signal is FY2028 guidance. Re
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Salesforce]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-26-daily-ai-news-digest-august-27-2026]] · [[2026-08-15-daily-ai-news-digest-august-16-2026]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
 <!-- graph:end -->

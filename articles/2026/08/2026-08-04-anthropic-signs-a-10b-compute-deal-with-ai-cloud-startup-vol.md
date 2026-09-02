@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu
@@ -34,6 +35,6 @@ Anthropic committed roughly $10 billion over six years to Volta, an AI cloud sta
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu]]
 <!-- graph:end -->

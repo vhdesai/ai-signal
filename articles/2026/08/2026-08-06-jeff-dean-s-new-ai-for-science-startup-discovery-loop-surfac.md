@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: Business Insider
 url_original: https://africa.businessinsider.com/news/jeff-deans-new-startup-pitch-deck-slides-are-an-insane-flex/wq0enjw
 url_canonical: https://africa.businessinsider.com/news/jeff-deans-new-startup-pitch-deck-slides-are-an-insane-flex/wq0enjw
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_061331_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: a604d9dd46efde2cfb414cc45213f84e62ed7a658498c958ef9b347f1df93972

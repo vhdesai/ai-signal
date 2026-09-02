@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-07-31/mediatek-plans-5-billion-financing-for-ai-data-center-chips
 url_canonical: https://money.usnews.com/investing/news/articles/2026-07-31/mediatek-plans-5-billion-financing-for-ai-data-center-chips
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-01_062620_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 4efe63e0794356da40a06b85bd8d349480dabaef8af6579828f1ff93cb2b2549
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent
@@ -30,6 +31,6 @@ MediaTek’s board approved a discretionary budget of up to $5B to fund its expa
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent]]
 <!-- graph:end -->

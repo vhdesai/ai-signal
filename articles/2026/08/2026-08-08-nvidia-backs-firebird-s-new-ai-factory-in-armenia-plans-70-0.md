@@ -6,7 +6,7 @@ date: '2026-08-08'
 source: Nvidia
 url_original: https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/
 url_canonical: https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-08_061755_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: f6cca115b3b907b53660fea831961550a261159dcafff81ac33f4f2b88df01cb
@@ -18,6 +18,7 @@ entities:
 - Perplexity
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-08-firebird-launches-cis-region-s-largest-ai-factory-in-armenia
@@ -34,6 +35,6 @@ AI cloud startup Firebird opened the CIS region's largest AI data center in Hraz
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[Perplexity]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-08-firebird-launches-cis-region-s-largest-ai-factory-in-armenia]]
 <!-- graph:end -->

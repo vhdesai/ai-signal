@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: Geeky Gadgets
 url_original: https://www.geeky-gadgets.com/google-deepmind-gemini-4-expected/
 url_canonical: https://www.geeky-gadgets.com/google-deepmind-gemini-4-expected/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-09_061456_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 9feac5bb65b1ad5f4b7609789b3df5bde62e4d5ce8746795373337c3788e9293

@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: Business Insider / Reuters
 url_original: https://finance.yahoo.com/technology/ai/articles/hugging-face-exploring-sale-valuing-200012818.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/hugging-face-exploring-sale-valuing-200012818.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_085500_Final-Daily-AI-News-Digest.md
 content_hash: 007fe09f01831b8e82976ab03ee0a37e9991dad6884ada920cb8e35e2b78ae03
 normalized_title_hash: 45b5daad9c11d697

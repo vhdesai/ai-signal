@@ -5,8 +5,8 @@ title: '[NEW] Apple Siri Gets Multi-Command Support in iOS 27 (Apr 1) Apple prev
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://softwareherald.com/siri-multi-command-sequencing-apple-tests-threaded-commands-in-ios-27/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: fc881b88ded624fd4172ada4fff7d5ae7eb2c2a79a1f52b5e0f50b8fa139f2f3

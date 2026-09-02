@@ -20,6 +20,7 @@ entities:
 - Oracle
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ Alphabet, Microsoft, Amazon, Nvidia, Oracle and Meta have accumulated close to $
 ## Connections
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[Oracle]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion]] · [[2026-04-02-before-the-iran-conflict-escalated-microsoft-amazon-alphabet]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test]]
 <!-- graph:end -->

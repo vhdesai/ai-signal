@@ -16,6 +16,7 @@ entities: []
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri
@@ -31,6 +32,6 @@ European vibe-coding startup Lovable confirmed a $400M Series C led by Menlo Ven
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri]]
 <!-- graph:end -->

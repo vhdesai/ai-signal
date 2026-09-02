@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Bill Ackman's Pershing Square disclosed a newly built position in Microsoft, arg
 ## Connections
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope]] · [[2026-08-24-nvidia-weighs-perplexity-stake-at-30b-as-the-startup-s-arr-t]] · [[2026-08-25-nvidia-s-equity-stakes-in-ai-companies-could-become-john-mal]] · [[2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered]] · [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor]]
 <!-- graph:end -->

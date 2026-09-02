@@ -19,6 +19,7 @@ entities:
 themes:
 - policy-regulation
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
@@ -36,7 +37,7 @@ Anthropic is reportedly in advanced talks for a funding round of approximately $
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]]
-**Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]] · [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]]
 **Related:** [[2026-05-15-anthropic-targets-900-billion-valuation-in-30b-funding-round]]
 <!-- graph:end -->

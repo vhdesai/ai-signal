@@ -6,7 +6,7 @@ date: '2026-05-22'
 source: Mistral Blog
 url_original: https://mistral.ai/news/science-to-win-industrial-ai
 url_canonical: https://mistral.ai/news/science-to-win-industrial-ai
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: d81c83b9d1cbb76f66942da94f9b77d914833402c1997c0d662b146dc5685d28
@@ -21,6 +21,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ Mistral AI acquired Vienna-based Emmi AI, a startup specializing in machine lear
 ## Connections
 
 **Entities:** [[Mistral]] · [[Palantir]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-20-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-l]] · [[2026-05-19-hot-mistral-ai-acquires-emmi-ai-building-europe-s-leading-in]] · [[2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air]] · [[2026-05-22-four-frontier-labs-four-acquisitions-in-five-days]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: The Next Web
 url_original: https://thenextweb.com/news/microsoft-ai-revenue-openai-70-percent-dependence
 url_canonical: https://thenextweb.com/news/microsoft-ai-revenue-openai-70-percent-dependence
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_061807_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: dce4e606d1c30980da9e9e91b79c05c9dfc6933905aba873751c766c0968fffb
@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ A new Microsoft filing, reported by Bloomberg, disclosed that Microsoft booked $
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce]] · [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total]] · [[2026-08-14-openai-s-annualized-revenue-run-rate-tops-40-billion-ahead-o]]
 <!-- graph:end -->

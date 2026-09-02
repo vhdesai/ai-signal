@@ -5,7 +5,7 @@ date: '2026-05-20'
 source: The Information
 url_original: https://www.theinformation.com/briefings/alibaba-unveils-new-ai-chip-china-accelerates
 url_canonical: https://www.theinformation.com/briefings/alibaba-unveils-new-ai-chip-china-accelerates
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-20_085232_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 2c3e5b63e2bac07a1deb22873b2a299303d382f4cab3f79e64d5941f77ab3e58

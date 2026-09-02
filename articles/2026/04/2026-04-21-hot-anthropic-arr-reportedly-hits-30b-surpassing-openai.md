@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-04-21-hot-anthropic-arr-reportedly-hits-30b-on-claude-opus-4-7
@@ -36,6 +37,6 @@ Anthropic has reportedly reached roughly $30B in annual recurring revenue versus
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-04-21-hot-anthropic-arr-reportedly-hits-30b-on-claude-opus-4-7]]
 <!-- graph:end -->

@@ -16,6 +16,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ OpenAI began serving ads in ChatGPT in the UK — its first major international 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international]] · [[2026-08-24-chatgpt-ads-go-live-across-europe-as-openai-becomes-a-media]] · [[2026-08-24-openai-turns-on-chatgpt-ads-across-31-european-countries]] · [[2026-08-15-openai-tells-european-free-tier-users-ads-arrive-this-month]] · [[2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar]]
 <!-- graph:end -->

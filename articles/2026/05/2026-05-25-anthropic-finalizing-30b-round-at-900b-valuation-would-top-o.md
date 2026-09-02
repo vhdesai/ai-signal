@@ -6,7 +6,7 @@ date: '2026-05-25'
 source: Bloomberg / BuildFastWithAI roundup
 url_original: https://www.buildfastwithai.com/blogs/ai-news-today-may-25-2026
 url_canonical: https://www.buildfastwithai.com/blogs/ai-news-today-may-25-2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-25_071611_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 947112169bb89d1805735f08f0ca831e31a579c778513e5a83c6d53a336badd0
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope
@@ -34,6 +35,6 @@ Anthropic is reportedly closing a $30B funding round co-led by Sequoia, Dragonee
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope]]
 <!-- graph:end -->

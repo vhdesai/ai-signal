@@ -19,6 +19,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -41,6 +42,6 @@ Junyang Lin, former lead researcher of Alibaba's Qwen models, is raising several
 ## Connections
 
 **Entities:** [[Alibaba]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-12-former-alibaba-qwen-lead-junyang-lin-starts-new-ai-lab-at-2b]] · [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-08-03-alibaba-releases-qwen3-8-max-a-2-4-trillion-parameter-moe-mo]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]] · [[2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c]]
 <!-- graph:end -->

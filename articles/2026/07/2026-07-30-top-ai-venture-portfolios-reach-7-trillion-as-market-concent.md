@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat
@@ -31,6 +32,6 @@ PitchBook reported that portfolio valuations across the top 30 VC firms have dou
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat]]
 <!-- graph:end -->

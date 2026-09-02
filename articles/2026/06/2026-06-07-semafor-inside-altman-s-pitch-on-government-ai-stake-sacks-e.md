@@ -16,6 +16,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses
@@ -32,6 +33,6 @@ Semafor published details of Sam Altman's pitch to the government on an AI equit
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses]]
 <!-- graph:end -->

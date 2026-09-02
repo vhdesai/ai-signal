@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: '[CNBC]'
 url_original: https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html
 url_canonical: https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-11_061404_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 13915bcdf9839587bd6d98e7147d0695e75d30547be5d00f9ffbb629b83173e9
@@ -16,6 +16,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation
@@ -32,6 +33,6 @@ OpenAI wrapped a roughly $7B secondary share sale allowing current and former em
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Canonical:** [[2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation]]
 <!-- graph:end -->

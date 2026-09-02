@@ -5,7 +5,7 @@ date: '2026-08-17'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/
 url_canonical: https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-19_065003_Final-Daily-AI-News-Digest.md
 content_hash: 30711571f5b22aa73d979b5a96e22fc574b278e810c81150d127450a6702ce7f
 normalized_title_hash: 5a893c07d7fcd2c0
@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b-up-rough
@@ -33,6 +34,6 @@ Anthropic's annualized revenue run-rate reached roughly $65 billion in July, wit
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b-up-rough]]
 <!-- graph:end -->

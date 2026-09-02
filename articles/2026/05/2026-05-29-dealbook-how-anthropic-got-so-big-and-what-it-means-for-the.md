@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ DealBook goes behind the numbers on Anthropic's leapfrog past OpenAI, dissecting
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]] · [[2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree]]
 <!-- graph:end -->

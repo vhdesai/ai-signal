@@ -16,6 +16,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Spanish startup Xoople closed a $130 million Series B to expand its constellatio
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-21-starcloud-adds-250-million-for-orbital-ai-data-centers]] · [[2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic]] · [[2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b]] · [[2026-08-21-starcloud-raises-250m-at-2-3b-for-orbital-data-centers-as-la]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]]
 <!-- graph:end -->

@@ -20,6 +20,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Anthropic reportedly asked SK Hynix for semiconductor materials tied to custom A
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials-moving-to]] · [[2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch]] · [[2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team]]
 <!-- graph:end -->

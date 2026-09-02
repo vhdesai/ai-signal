@@ -24,6 +24,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-100-companies-call-for-rogue-ai-defense-continued
@@ -40,6 +41,6 @@ The open letter from OpenAI, Anthropic, Google, Microsoft, CrowdStrike, and 100+
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-27-100-companies-call-for-rogue-ai-defense-continued]]
 <!-- graph:end -->

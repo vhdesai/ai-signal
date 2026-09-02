@@ -5,7 +5,7 @@ date: '2026-06-18'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/
 url_canonical: https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-19_060000_Daily-AI-News-Digest.md
 content_hash: 5a8f5a4fb5bcfedd4a42a318d0e6b9482dd038cf00e79eacdfe4db89a0a04a15
 normalized_title_hash: 39b8e613d804f4e9
@@ -17,6 +17,8 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +40,6 @@ TechCrunch reported that OpenAI is adding experienced corporate leaders as it pr
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-p]] · [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-05-02-openai-s-cfo-is-reported-to-be-signaling-2027-as-a-potential]] · [[2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving]]
 <!-- graph:end -->

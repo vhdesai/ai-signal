@@ -17,6 +17,7 @@ entities:
 - IBM
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ The EU's EuroHPC joint undertaking selected Bull to build LUMI-AI alongside the 
 ## Connections
 
 **Entities:** [[AMD]] · [[IBM]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing]] · [[2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center]] · [[2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da]] · [[2026-04-23-helsinki-based-verda-raises-100m-to-build-european-ai-cloud]]
 <!-- graph:end -->

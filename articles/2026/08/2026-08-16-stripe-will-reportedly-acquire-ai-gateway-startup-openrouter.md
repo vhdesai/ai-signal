@@ -16,6 +16,8 @@ tags:
 entities: []
 themes:
 - company-storylines
+- ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter
@@ -31,6 +33,6 @@ Stripe has finalized a deal to buy OpenRouter, the inference gateway that routes
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Canonical:** [[2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter]]
 <!-- graph:end -->

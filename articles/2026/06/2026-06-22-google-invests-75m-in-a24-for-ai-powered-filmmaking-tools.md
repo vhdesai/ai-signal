@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: Variety / blog.google
 url_original: https://variety.com/2026/digital/news/google-invests-a24-ai-powered-filmmaking-tools-1236444444/
 url_canonical: https://variety.com/2026/digital/news/google-invests-a24-ai-powered-filmmaking-tools-1236444444/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-22_085442_Final-Daily-AI-News-Digest.md
 content_hash: 92cd8559f1224daa3874a63a717c639c4f7e666fbdfb6e3a1b5850cc9e5cdc8a
 normalized_title_hash: 5cf6606e18de29fb
@@ -17,6 +17,7 @@ entities:
 - Google
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Google is investing $75 million in A24 to develop AI-powered filmmaking tools, w
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-22-google-invests-in-a24-to-develop-ai-powered-filmmaking-tools]] · [[2026-06-23-google-deepmind-invests-75m-in-film-studio-a24]] · [[2026-06-27-a24-s-75m-google-deepmind-ai-research-partnership-sparks-cre]] · [[2026-06-22-google-deepmind-invests-75m-in-a24-for-ai-filmmaking-tools]] · [[2026-06-22-google-deepmind-and-a24-announce-research-partnership]]
 <!-- graph:end -->

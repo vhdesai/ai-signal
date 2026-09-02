@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ Cerebras has formalized a $4 billion IPO targeting a $40 billion valuation — a
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Related:** [[2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation]] · [[2026-05-14-cerebras-prices-5-55b-ipo-at-185-share-largest-u-s-tech-ipo]] · [[2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68]] · [[2026-05-14-cerebras-pop-sets-up-the-ai-trade-on-wall-street]] · [[2026-05-10-cerebras-ipo-seeking-3-5b-at-26-6b-valuation]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-07'
 source: Engadget
 url_original: https://www.engadget.com/2209300/xai-now-officially-spacexai/
 url_canonical: https://www.engadget.com/2209300/xai-now-officially-spacexai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-07_062455_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: c5965f70feba66ec1485f2638cb38f50a0833fa04369a162cbe850a04214da6f
@@ -18,6 +18,9 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- ma-activity
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +39,6 @@ Elon Musk's xAI has officially rebranded as SpaceXAI, completing its absorption 
 ## Connections
 
 **Entities:** [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-06-musk-s-xai-is-renamed-spacexai-following-spacex-s-acquisitio]] · [[2026-05-15-reporting-from-may-14-confirms-that-elon-musk-s-spacexai-the]]
 <!-- graph:end -->

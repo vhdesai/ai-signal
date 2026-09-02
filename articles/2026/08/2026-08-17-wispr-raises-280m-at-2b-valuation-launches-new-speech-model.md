@@ -18,6 +18,7 @@ entities:
 - Amazon
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ AI dictation startup Wispr raised $280M Series B led by Menlo Ventures at a $2B 
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-dictati]] · [[2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-ai-dict]] · [[2026-08-17-wispr-raises-280m-at-a-2b-valuation-to-expand-beyond-dictati]] · [[2026-08-17-higgsfield-raises-400m-at-5-4b-wispr-raises-280m-at-2b]]
 <!-- graph:end -->

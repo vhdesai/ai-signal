@@ -24,6 +24,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -46,6 +47,6 @@ Sunday, May 17, 2026 | Pacific Time Today's big picture: The AI industry enters 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-08-14-daily-ai-news-digest-august-15-2026]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]]
 <!-- graph:end -->

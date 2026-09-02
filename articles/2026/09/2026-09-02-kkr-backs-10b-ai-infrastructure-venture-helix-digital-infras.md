@@ -5,7 +5,7 @@ date: '2026-09-02'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=KKR+Helix+AI+infrastructure
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=KKR+Helix+AI+infrastructure
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-02_065546_Final-Daily-AI-News-Digest.md
 content_hash: cfd7825c11a1259f17d3777b8d54e8b453e377911ed8a6f33cd0c7dd24d73c0a
 normalized_title_hash: 34b763d6b86cb5db
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ KKR is backing Helix Digital Infrastructure, a new venture targeting roughly $10
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen]] · [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Analysis of Nvidia's $500B third-party financing platform — built with Apollo,
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-13-nvidia-s-500b-financing-vehicle-includes-gpu-residual-value]] · [[2026-08-13-nvidia-s-new-500b-data-center-plan-carries-a-gpu-residual-va]] · [[2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data]] · [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]] · [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]]
 <!-- graph:end -->

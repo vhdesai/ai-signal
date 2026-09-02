@@ -6,7 +6,7 @@ date: '2026-08-17'
 source: Unite.AI
 url_original: https://www.unite.ai/copilot-autofix-opened-a-shell-injection-in-snowflakes-ci-cd-pipeline/
 url_canonical: https://www.unite.ai/copilot-autofix-opened-a-shell-injection-in-snowflakes-ci-cd-pipeline/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-18_065100_Final-Daily-AI-News-Digest.md
 content_hash: 56e4828f6fb4fde04304d0c9f818c06fc482c87b52c35c145f63f57cdb519bb7
 normalized_title_hash: e4be7cb556bc0d4a

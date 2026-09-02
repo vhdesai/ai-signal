@@ -17,6 +17,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Microsoft shares are down nearly 16% YTD, the worst performer of big tech. Briti
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co]] · [[2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down]] · [[2026-08-05-spacex-falls-13-as-ai-capital-spending-rises-sixfold]]
 <!-- graph:end -->

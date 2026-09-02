@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris
@@ -34,6 +35,6 @@ WSJ analysis says the latest AI-stock pullback has had limited impact on the bro
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris]]
 <!-- graph:end -->

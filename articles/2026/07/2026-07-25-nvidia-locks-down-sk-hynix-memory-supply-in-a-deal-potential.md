@@ -5,7 +5,7 @@ date: '2026-07-25'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html
 url_canonical: https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-26_061102_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 6d6b54fb0d8d898094811028ed12355971f567e1ee05eca920abdaff5784dcdd
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Nvidia moved to secure high-bandwidth memory (HBM) supply from SK Hynix as part 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-24-rising-server-prices-shift-leverage-from-nvidia-to-samsung-a]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10]]
 <!-- graph:end -->

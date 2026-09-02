@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ In its Annual Economic Report released Sunday, the BIS flagged an AI-driven bust
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin]] · [[2026-08-17-ecb-blog-predicts-ai-tech-stock-market-correction-is-likely]] · [[2026-08-14-michael-burry-warns-ai-capex-resembles-dot-com-and-housing-b]] · [[2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off]]
 <!-- graph:end -->

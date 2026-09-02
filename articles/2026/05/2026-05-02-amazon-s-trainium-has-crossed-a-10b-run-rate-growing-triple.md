@@ -23,6 +23,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -45,6 +46,6 @@ US AI infrastructure strategy now explicitly framed as a counterweight to China'
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-08-29-nvidia-s-physical-ai-business-reaches-10b-run-rate-with-chin]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-04-02-source-all-about-lawyer-the-neuron]]
 <!-- graph:end -->

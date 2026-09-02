@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ WSJ reports that chip-equipment supplier ASML raised guidance again, citing unre
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-15-asml-raises-2026-guidance-a-second-time-on-strong-ai-chip-de]] · [[2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s]] · [[2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-08-03-deepx-s-new-valuation-highlights-persistent-investor-appetit]]
 <!-- graph:end -->

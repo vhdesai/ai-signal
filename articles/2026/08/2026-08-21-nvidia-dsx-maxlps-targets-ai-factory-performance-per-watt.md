@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: NVIDIA Developer Blog
 url_original: https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/
 url_canonical: https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_060601_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: e25a751340cd445634f593d6c8154ae03c051cdde4dffa223745b0bb944d3440
@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ NVIDIA detailed DSX MaxLPS, a suite of chip, thermal, system, and software techn
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact]] · [[2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu]] · [[2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover]] · [[2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla]]
 <!-- graph:end -->

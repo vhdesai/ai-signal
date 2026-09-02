@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Meta reached up to an $18 billion settlement with 48 states over child-safety cl
 ## Connections
 
 **Entities:** [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[M&A Activity]]
 **Related:** [[2026-08-26-meta-reaches-18b-settlement-with-48-states-over-child-safety]] · [[2026-08-26-meta-reaches-18-billion-settlement-with-48-states-but-wider]] · [[2026-08-07-meta-ordered-to-pay-additional-567m-in-new-mexico-child-safe]] · [[2026-08-27-meta-s-18b-child-safety-settlement-rests-on-unproven-age-ver]]
 <!-- graph:end -->

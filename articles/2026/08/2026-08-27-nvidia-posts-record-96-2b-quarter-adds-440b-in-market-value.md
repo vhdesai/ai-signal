@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html
 url_canonical: https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_061348_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 83018ef57aaa8661197ab6129bb36f5e2fb4e2682a94c76d6654ddab2487933f
@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-nvidia-posts-a-record-quarter-and-guides-for-ai-growth-throu
@@ -34,6 +35,6 @@ Nvidia reported fiscal Q2 2027 revenue of $96.2 billion, up 106% year over year,
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-27-nvidia-posts-a-record-quarter-and-guides-for-ai-growth-throu]]
 <!-- graph:end -->

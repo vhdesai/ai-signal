@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: The Motley Fool
 url_original: https://www.fool.com/investing/2026/08/23/micron-sandisk-and-sk-hynix-history-says-this-abou/
 url_canonical: https://www.fool.com/investing/2026/08/23/micron-sandisk-and-sk-hynix-history-says-this-abou/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_085500_Final-Daily-AI-News-Digest.md
 content_hash: 8c6bcaaf4f5f9b450a629fba193609eb2f308a614151ec82a445ee468cfb1b57
 normalized_title_hash: b0a519e9c47fcdc4
@@ -16,6 +16,7 @@ entities:
 - Samsung
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ High-bandwidth memory is now described as one of the largest single bottlenecks 
 ## Connections
 
 **Entities:** [[Samsung]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-23-memory-supercycle-shows-no-near-term-break-hbm-is-the-bottle]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui]] · [[2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth]] · [[2026-05-28-nvidia-server-maker-wiwynn-warns-ai-bottlenecks-now-extend-b]]
 <!-- graph:end -->

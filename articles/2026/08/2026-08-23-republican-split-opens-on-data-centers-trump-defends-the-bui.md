@@ -18,6 +18,7 @@ tags:
 entities: []
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ In a 40-minute Sunday radio interview, President Trump defended the AI data-cent
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-08-31-trump-condemns-communities-opposing-data-centers-ahead-of-mi]] · [[2026-08-19-the-great-bipartisan-data-center-smackdown-has-begun]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]]
 <!-- graph:end -->

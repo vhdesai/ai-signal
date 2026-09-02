@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-31-situational-awareness-fire-sale-turns-leveraged-ai-convictio
@@ -34,7 +35,7 @@ Business Insider reported that the sell-off in Leopold Aschenbrenner's Situation
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-31-situational-awareness-fire-sale-turns-leveraged-ai-convictio]]
 **Related:** [[2026-07-31-situational-awareness-sell-off-remains-a-stress-signal-for-c]] · [[2026-07-30-situational-awareness-hedge-fund-scrambles-for-capital-after]]
 <!-- graph:end -->

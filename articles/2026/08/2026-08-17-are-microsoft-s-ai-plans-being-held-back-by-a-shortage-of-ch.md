@@ -17,6 +17,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ A Guardian investigation reports an apparent discrepancy between Microsoft's pub
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai]] · [[2026-07-20-massive-ai-supply-deals-face-execution-risk]] · [[2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient]] · [[2026-07-19-ai-memory-shortage-puts-pressure-on-governments-to-act]] · [[2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa]]
 <!-- graph:end -->

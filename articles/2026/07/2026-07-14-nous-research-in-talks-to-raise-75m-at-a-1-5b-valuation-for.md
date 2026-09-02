@@ -6,7 +6,7 @@ date: '2026-07-14'
 source: The Eastern Herald
 url_original: https://easternherald.com/2026/07/14/nous-research-hermes-ai-agent-funding-valuation/
 url_canonical: https://easternherald.com/2026/07/14/nous-research-hermes-ai-agent-funding-valuation/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 7860fc606073512834ed44651228b27b438cb8c3e1bb8db9a8d7721dc99ef636
@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +34,6 @@ Nous Research is reportedly negotiating a round of at least $75M at a $1.5B valu
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-13-nous-research-in-talks-for-funding-at-1-5b-valuation]]
 <!-- graph:end -->

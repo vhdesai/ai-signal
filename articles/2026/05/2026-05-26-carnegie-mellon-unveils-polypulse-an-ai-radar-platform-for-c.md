@@ -6,7 +6,7 @@ date: '2026-05-26'
 source: CMU ECE News
 url_original: https://www.ece.cmu.edu/news-and-events/story/2026/05/polypulse.html
 url_canonical: https://www.ece.cmu.edu/news-and-events/story/2026/05/polypulse.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: ed57bc53c516d218521154ed5b60378df3c783f0d11bfc0f27f95c5378d30dfa

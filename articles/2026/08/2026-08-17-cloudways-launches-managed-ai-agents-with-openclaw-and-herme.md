@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Cloudways announced managed AI agents with the general availability of OpenClaw 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-05-04-sap-moves-to-block-openclaw-and-other-unauthorized-ai-agents]] · [[2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co]]
 <!-- graph:end -->

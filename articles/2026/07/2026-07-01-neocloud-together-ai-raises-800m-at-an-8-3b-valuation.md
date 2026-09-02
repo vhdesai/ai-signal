@@ -5,7 +5,7 @@ date: '2026-07-01'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/
 url_canonical: https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-02_062325_Inbox_Daily AI News Digest - July 2,
   2026.md
 content_hash: e5e470cce323c1b4845a49cf46586f8885c649027ca161a1449f28fc95be2cba
@@ -16,6 +16,8 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +38,6 @@ Together AI, which rents Nvidia GPU clusters optimized for open-weight models, r
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-01-neocloud-together-ai-raises-800m-leaps-to-an-8-3b-valuation]] · [[2026-07-01-together-ai-raises-800m-series-c-at-an-8-3b-valuation]] · [[2026-08-17-groq-raises-350m-at-3-5b-valuation-completes-pivot-from-chip]] · [[2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-custom-silicon-to-neo]]
 <!-- graph:end -->

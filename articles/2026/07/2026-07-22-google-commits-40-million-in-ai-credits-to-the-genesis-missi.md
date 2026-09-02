@@ -18,6 +18,7 @@ entities:
 - Google
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Google DeepMind says Google is committing $40 million in AI tokens and credits t
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-22-doe-genesis-mission-launches-broad-ai-for-science-funding-pu]] · [[2026-07-22-microsoft-commits-60m-to-the-doe-s-genesis-mission-to-accele]] · [[2026-08-10-hyperscalers-reported-to-have-committed-nearly-2-trillion-to]] · [[2026-08-06-mirendil-signs-100m-google-cloud-deal-to-scale-self-improvin]] · [[2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa]]
 <!-- graph:end -->

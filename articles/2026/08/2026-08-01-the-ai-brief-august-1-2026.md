@@ -24,6 +24,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -46,6 +47,6 @@ Today's cycle was driven by AI infrastructure economics and safety fallout rathe
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[ByteDance]] · [[DeepSeek]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-07-07-july-7-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]]
 <!-- graph:end -->

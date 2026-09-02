@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: TheStreet · AP News
 url_original: https://www.thestreet.com/stock-market-today/stock-market-today-july-10-2026-nasdaq-futures-slip-ahead-of-sk-hynix-debut
 url_canonical: https://www.thestreet.com/stock-market-today/stock-market-today-july-10-2026-nasdaq-futures-slip-ahead-of-sk-hynix-debut
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-10_065350_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 0402697d6139b938c69746f569d6c1e4a9d713b73847091ad317f163fbaa9fbd
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-sk-hynix-prices-u-s-listing-at-149-share-and-debuts-on-nasda
@@ -34,6 +35,6 @@ SK Hynix priced its U.S. offering at $149/share — the largest first-time forei
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-09-sk-hynix-prices-u-s-listing-at-149-share-and-debuts-on-nasda]]
 <!-- graph:end -->

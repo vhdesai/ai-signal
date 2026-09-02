@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ CoreWeave secured a $6 billion compute commitment from quant trading giant Jane 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu]] · [[2026-08-12-coreweave-q2-revenue-doubles-to-2-575b-while-cash-burn-hits]] · [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin]] · [[2026-08-12-coreweave-and-super-micro-surge-on-evidence-of-sustained-ai]]
 <!-- graph:end -->

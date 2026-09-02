@@ -5,7 +5,7 @@ date: '2026-08-09'
 source: TechCrunch · The Wall Street Journal
 url_original: https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/
 url_canonical: https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-10_082903_Inbox_Fw Daily AI News Digest - August
   10, 2026.md
 content_hash: 5bf50afb287b01b13397f5fe8bb3046e2f6ecb0ecc051d3c16f4accb74457579
@@ -15,6 +15,8 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-09-hedge-fund-situational-awareness-invests-400m-in-stealth-chi
@@ -30,6 +32,6 @@ Leopold Aschenbrenner’s AI-focused hedge fund invested $400M in Source Foundry
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-09-hedge-fund-situational-awareness-invests-400m-in-stealth-chi]]
 <!-- graph:end -->

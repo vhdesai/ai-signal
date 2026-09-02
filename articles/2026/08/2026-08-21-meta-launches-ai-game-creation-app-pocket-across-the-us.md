@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: ProPakistani
 url_original: https://propakistani.pk/2026/08/21/meta-launches-pocket-app-that-lets-you-create-and-share-games/
 url_canonical: https://propakistani.pk/2026/08/21/meta-launches-pocket-app-that-lets-you-create-and-share-games/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: eb079bd9866e39b591e30a7dab136321958485dacb5bbc8b9ad143ed0b459033

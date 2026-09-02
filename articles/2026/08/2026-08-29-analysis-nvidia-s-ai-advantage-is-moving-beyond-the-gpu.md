@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ TechCrunch argues Nvidia's moat is shifting from GPUs to data orchestration — 
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-29-nvidia-s-competitive-advantage-is-moving-beyond-the-gpu]] · [[2026-08-29-nvidia-s-ai-advantage-is-shifting-from-the-gpu-to-the-system]] · [[2026-08-29-nvidia-s-advantage-is-shifting-from-the-gpu-to-the-rest-of-t]] · [[2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu]] · [[2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch]]
 <!-- graph:end -->

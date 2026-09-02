@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-07-
@@ -37,7 +38,7 @@ Anthropic disclosed Q1 2026 revenue grew 80x year-over-year, with annualized rec
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-07-]]
 **Related:** [[2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q]]
 <!-- graph:end -->

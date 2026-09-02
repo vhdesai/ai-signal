@@ -5,7 +5,7 @@ date: '2026-05-25'
 source: Hugging Face Blog
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-26_071231_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: dcf27f5025a7b9c9a24eebf088e1b39d96855fe3d0a148638393267b00244385

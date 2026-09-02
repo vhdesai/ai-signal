@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: Forbes · Nvidia
 url_original: https://www.forbes.com/sites/jimosman/2026/08/27/nvidia-stock-blowout-earnings-reveal-a-279-billion-bet-on-ai/
 url_canonical: https://www.forbes.com/sites/jimosman/2026/08/27/nvidia-stock-blowout-earnings-reveal-a-279-billion-bet-on-ai/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: eace413dc0f171217eb415161f576d7c874ed9d06c3f1b92a0fe6f0a001f9f3f
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-nvidia-posts-a-record-quarter-and-guides-for-ai-growth-throu
@@ -33,6 +34,6 @@ Nvidia reported roughly $96.2B in quarterly revenue with data-center sales near 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-27-nvidia-posts-a-record-quarter-and-guides-for-ai-growth-throu]]
 <!-- graph:end -->

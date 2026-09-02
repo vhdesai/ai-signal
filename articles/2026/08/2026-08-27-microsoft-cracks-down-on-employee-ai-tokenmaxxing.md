@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: Business Insider via Yahoo Finance · Microsoft
 url_original: https://finance.yahoo.com/technology/ai/articles/microsoft-cracks-down-employee-ai-174500002.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/microsoft-cracks-down-employee-ai-174500002.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 76f1b271f5dff58400be4354b3e10cd541b4565832a40a0c98bc725b3622585d
@@ -16,6 +16,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Microsoft is reportedly tightening internal rules on AI compute spending after e
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual]] · [[2026-08-26-microsoft-employees-reveal-how-much-cash-they-re-burning-on]] · [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Cerebras prices $5.5B IPO above range — WSJ, May 13, 2026 Cerebras priced abov
 ## Connections
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-10-breakingcerebras-ipo-demand-forces-price-hike-4-8b-raise-exp]] · [[2026-05-05-cerebras-prices-ipo-at-up-to-a-40b-valuation]] · [[2026-05-17-cerebras-systems-hit-the-nasdaq-on-may-14-in-the-most-closel]] · [[2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation]]
 <!-- graph:end -->

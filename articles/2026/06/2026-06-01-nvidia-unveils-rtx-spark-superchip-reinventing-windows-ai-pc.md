@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: NVIDIA
 url_original: https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Microsoft-Reinvent-Windows-PCs-for-the-Age-of-Personal-AI/default.aspx
 url_canonical: https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Microsoft-Reinvent-Windows-PCs-for-the-Age-of-Personal-AI/default.aspx
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-02_061615_Daily-AI-News-Digest.md
 content_hash: e75cc4127dc600f8e4e3f079b2c117db1418fce348930aeedf7367d470cf35dd
 normalized_title_hash: 6a1fe74d68487331
@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super
@@ -34,6 +35,6 @@ At GTC Taipei, Nvidia introduced the RTX Spark superchip—1 petaflop of AI comp
 ## Connections
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]]
 <!-- graph:end -->

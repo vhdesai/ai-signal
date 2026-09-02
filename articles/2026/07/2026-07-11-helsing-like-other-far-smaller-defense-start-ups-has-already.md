@@ -21,6 +21,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +43,6 @@ Helsing, like other far smaller defense start-ups, has already flipped the scrip
 ## Connections
 
 **Entities:** [[Apple]] · [[Meta]] · [[Palantir]] · [[Tesla]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg]] · [[2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b]] · [[2026-07-11-at-a-secret-location-in-southern-germany-the-manager-of-a-dr]] · [[2026-07-11-there-has-been-a-seismic-change-since-then-and-not-solely-be]] · [[2026-07-11-for-investors-helsing-s-key-advantage-comes-from-its-role-in]]
 <!-- graph:end -->

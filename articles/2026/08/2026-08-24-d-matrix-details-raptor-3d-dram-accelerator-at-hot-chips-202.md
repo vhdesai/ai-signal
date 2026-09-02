@@ -6,7 +6,7 @@ date: '2026-08-24'
 source: ServeTheHome
 url_original: https://www.servethehome.com/d-matrix-raptor-3d-dram-accelerator-for-generative-inference-at-hot-chips-2026/
 url_canonical: https://www.servethehome.com/d-matrix-raptor-3d-dram-accelerator-for-generative-inference-at-hot-chips-2026/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-26_062133_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 6f5b80f6d513021ad5c18ad2890b1d0adeb5c3a54ceda13994dfe185c40c11d2
@@ -17,6 +17,7 @@ entities:
 - TSMC
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ At Hot Chips 2026, d-Matrix detailed Raptor, an inference accelerator that bonds
 ## Connections
 
 **Entities:** [[TSMC]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-08-23-micron-tells-hot-chips-2026-the-memory-wall-is-widening-not]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti]]
 <!-- graph:end -->

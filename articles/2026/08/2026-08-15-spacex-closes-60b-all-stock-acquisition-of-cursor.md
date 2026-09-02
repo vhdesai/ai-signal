@@ -17,6 +17,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ SpaceX completed its purchase of AI coding company Cursor, exercising an option 
 ## Connections
 
 **Entities:** [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-15-spacex-completes-60b-all-stock-acquisition-of-ai-coding-star]] · [[2026-08-15-spacex-officially-closes-its-cursor-acquisition]] · [[2026-08-15-spacex-officially-closes-60b-acquisition-of-cursor]] · [[2026-08-15-spacex-officially-closes-60b-cursor-acquisition]] · [[2026-08-07-spacex-nears-completion-of-60b-cursor-acquisition]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: GLOBE NEWSWIRE via Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/cerebras-callosum-partner-deliver-ultra-121800248.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/cerebras-callosum-partner-deliver-ultra-121800248.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 3ebf0380be33ea400e26e0055e798110386445412a24a03f671828e20fcc5295
@@ -17,6 +17,7 @@ entities:
 - Cerebras
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Cerebras announced a partnership with London-based frontier-AI and compute-softw
 ## Connections
 
 **Entities:** [[Cerebras]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-28-cerebras-expands-ai-inference-infrastructure-across-europe-a]] · [[2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i]] · [[2026-03-24-amazon-web-services-and-cerebras-systems-announced-a-collabo]] · [[2026-07-09-cerebras-accelerates-european-expansion-with-200mw-of-ai-com]]
 <!-- graph:end -->

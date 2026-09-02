@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-24-korean-investors-net-sell-2-63b-of-nvidia-ahead-of-earnings
@@ -34,7 +35,7 @@ Nvidia reports Q2 FY2027 Wednesday carrying ~$5T market cap. Largest single S&P 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-24-korean-investors-net-sell-2-63b-of-nvidia-ahead-of-earnings]]
 **Related:** [[2026-08-24-wall-street-counts-on-nvidia-to-keep-the-ai-party-going-mark]]
 <!-- graph:end -->

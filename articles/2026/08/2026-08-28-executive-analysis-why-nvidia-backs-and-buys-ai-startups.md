@@ -5,7 +5,7 @@ date: '2026-08-28'
 source: Executive Analysis
 url_original: https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Partners-With-Apollo-BlackRock-Blackstone-Brookfield-Goldman-Sachs-and-KKR-to-Establish-AI-Compute-Infrastructure-Financing-Platforms-to-Mobilize-Over-500-Billion-of-Third-Party-Capital/default.aspx
 url_canonical: https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Partners-With-Apollo-BlackRock-Blackstone-Brookfield-Goldman-Sachs-and-KKR-to-Establish-AI-Compute-Infrastructure-Financing-Platforms-to-Mobilize-Over-500-Billion-of-Third-Party-Capital/default.aspx
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_Nvidia_Startup_Investment_Strategy.md
 content_hash: db8d9b85b62a99ab6b9d103133b9ca72a568a4545d5cc66ee6201c20503746fb
 normalized_title_hash: 6fa9e43e03cee1bd
@@ -16,6 +16,9 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- ma-activity
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +38,6 @@ Nvidia's startup activity is best understood as ecosystem engineering rather tha
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-28-why-nvidia-loves-backing-startups-pitchbook-analysis]] · [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]]
 <!-- graph:end -->

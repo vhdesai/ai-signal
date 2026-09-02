@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +41,6 @@ ChangXin Memory Technologies has begun producing advanced high-bandwidth memory 
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[Samsung]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-31-china-s-cxmt-makes-breakthrough-in-advanced-high-bandwidth-m]] · [[2026-07-27-cxmt-soars-in-shanghai-debut-as-china-funds-ai-memory-indepe]] · [[2026-08-04-major-pc-makers-start-using-memory-chips-from-china-s-cxmt]]
 <!-- graph:end -->

@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ TechCrunch reports that Alphabet is designing a new server chip, internally call
 ## Connections
 
 **Entities:** [[Google]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip]] · [[2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient]] · [[2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]] · [[2026-05-03-google-s-unreleased-gemini-3-2-flash-surfaces-on-eleuther-ai]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/
 url_canonical: https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_061721_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 24505a2c87b1327934a101a05d5b1b4a35b13934418f582c3c1b98fb3cf07ea2
@@ -19,6 +19,7 @@ entities:
 - Google
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-05-jeff-dean-and-sanjay-ghemawat-leave-google-to-co-found-disco
@@ -35,6 +36,6 @@ Jeff Dean (Google Chief Scientist), Sanjay Ghemawat, Quoc Le, and Oriol Vinyals 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-05-jeff-dean-and-sanjay-ghemawat-leave-google-to-co-found-disco]]
 <!-- graph:end -->

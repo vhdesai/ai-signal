@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Foxconn reported Q2 net income of NT$59.97B ($1.86B), beating analyst estimates,
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets]] · [[2026-08-22-nvidia-warns-large-customers-of-15-price-increases-on-ai-ser]] · [[2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman]]
 <!-- graph:end -->

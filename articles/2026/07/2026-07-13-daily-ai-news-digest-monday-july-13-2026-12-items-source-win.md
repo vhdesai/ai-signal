@@ -18,6 +18,7 @@ entities:
 - Meta
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill
@@ -34,6 +35,6 @@ Meta will scale its Hyperion data-center project in Louisiana to 5 gigawatts at 
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill]]
 <!-- graph:end -->

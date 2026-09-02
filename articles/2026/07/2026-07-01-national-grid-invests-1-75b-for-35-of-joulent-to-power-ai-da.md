@@ -5,7 +5,7 @@ date: '2026-07-01'
 source: Reuters
 url_original: https://www.aol.com/articles/uks-national-grid-invest-1-111538000.html
 url_canonical: https://www.aol.com/articles/uks-national-grid-invest-1-111538000.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-02_062325_Inbox_Daily AI News Digest - July 2,
   2026.md
 content_hash: 249e4d68e03ab90417406eef15d9a1e70fc81bc5ab35bbc65238718307448c33
@@ -16,6 +16,8 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +39,6 @@ Britain's National Grid said it will invest $1.75B for a 35% stake in Joulent, a
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]] · [[2026-08-25-emerald-ai-raises-150m-at-1-05b-to-make-data-centers-flexibl]] · [[2026-08-25-emerald-ai-raises-150m-at-a-1-05b-valuation-to-make-data-cen]] · [[2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai]] · [[2026-08-15-nvidia-in-talks-to-invest-3b-in-softbank-s-sb-energy-for-ope]]
 <!-- graph:end -->

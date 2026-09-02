@@ -6,7 +6,7 @@ date: '2026-07-01'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/
 url_canonical: https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-03_060836_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: e495a13e5543655d90a5c62ab1be402c6f994bce50f1a87ce47019a218838788
@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Nvidia introduced a business model in which it shares cloud revenue and provides
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-01-nvidia-unveils-revenue-sharing-capital-partners-model-to-fin]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]] · [[2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares]]
 <!-- graph:end -->

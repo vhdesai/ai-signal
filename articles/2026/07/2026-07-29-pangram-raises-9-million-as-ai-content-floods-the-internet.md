@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/
 url_canonical: https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-30_060904_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 8abea910f03460b46e48377c14514af569567ea527abc9cce2f11058fb2a1bb7
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Pangram raised $9 million and launched Pangram 4, a new AI text-detection model,
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-dictati]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-08-25-stability-ai-maker-of-stable-diffusion-raises-76-million-in]] · [[2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc]]
 <!-- graph:end -->

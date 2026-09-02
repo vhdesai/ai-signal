@@ -6,7 +6,7 @@ date: '2026-08-03'
 source: Mint
 url_original: https://www.livemint.com/ai/how-chinese-ai-models-could-upend-anthropic-openai-and-nvidia-11785718398700.html
 url_canonical: https://www.livemint.com/ai/how-chinese-ai-models-could-upend-anthropic-openai-and-nvidia-11785718398700.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-04_060905_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 3f134e8093441ea5bebdebea6b29155f1bd696daa0cc249935d78852f91c017c

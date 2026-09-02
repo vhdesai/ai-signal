@@ -6,7 +6,7 @@ date: '2026-08-08'
 source: TechCrunch / The New York Times
 url_original: https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/
 url_canonical: https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-09_061128_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: f9b0c4de8ef1ceb67809d298b265bdfc4664334717c4d3d189c95d7a53c42780
@@ -19,6 +19,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Amazon is investing in an on-site natural gas power plant for a Pecos County, Te
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-08-planned-amazon-data-center-could-become-the-largest-climate]] · [[2026-08-08-planned-amazon-data-center-could-become-the-largest-u-s-clim]] · [[2026-08-08-amazon-backs-a-7-65-gw-texas-gas-plant-to-power-a-hyperscale]] · [[2026-08-07-amazon-behind-massive-private-gas-plant-for-new-data-centers]] · [[2026-08-08-amazon-backs-7-65-gw-texas-gas-plant-to-power-hyperscale-ai]]
 <!-- graph:end -->

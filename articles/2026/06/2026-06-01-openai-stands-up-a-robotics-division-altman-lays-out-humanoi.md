@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: Firstpost**
 url_original: https://www.firstpost.com/tech/openai-is-hiring-robotics-engineers-as-sam-altman-lays-out-vision-for-ai-powered-humanoids-ws-e-14017360.html
 url_canonical: https://www.firstpost.com/tech/openai-is-hiring-robotics-engineers-as-sam-altman-lays-out-vision-for-ai-powered-humanoids-ws-e-14017360.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-01_061636_Daily-AI-News-Digest.md
 content_hash: 76fd39535a36b8aadbdd4a2e6f2611857e638f8f7c13a61b3f15fcdab8e9eced
 normalized_title_hash: f386c32afe8a1fe7

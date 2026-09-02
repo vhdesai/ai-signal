@@ -16,6 +16,8 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +36,6 @@ Data Center Dynamics reported that UK chip startup Olix raised $312 million at a
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-03-olix-raises-europe-s-largest-chip-round-for-optical-ai-silic]] · [[2026-08-03-olix-s-financing-is-significant-both-for-its-size-and-for-wh]] · [[2026-08-15-british-ai-chip-founder-becomes-europe-s-youngest-self-made]]
 <!-- graph:end -->

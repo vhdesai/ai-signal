@@ -16,6 +16,7 @@ entities:
 - Databricks
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Crunchbase's weekly tally put data platforms, AI infrastructure, energy storage,
 ## Connections
 
 **Entities:** [[Databricks]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-14-weekly-funding-concentrates-in-data-ai-infrastructure-defens]] · [[2026-08-14-weekly-capital-flows-to-physical-substrate-not-applications]] · [[2026-08-28-ai-assistants-dominate-a-thinner-week-of-megadeals]] · [[2026-08-28-ai-assistants-lead-a-thinner-week-of-megadeals]] · [[2026-07-17-databricks-reaches-188-billion-valuation-as-ai-infrastructur]]
 <!-- graph:end -->

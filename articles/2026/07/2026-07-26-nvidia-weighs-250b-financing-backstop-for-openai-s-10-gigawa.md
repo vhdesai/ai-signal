@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Nvidia is in talks to guarantee ~$250B of financing to help OpenAI lease a 10-GW
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-27-nvidia-in-talks-to-guarantee-250b-financing-for-openai-s-pla]] · [[2026-07-26-nvidia-weighs-a-250b-financing-backstop-for-openai-s-10-giga]] · [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]] · [[2026-07-26-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-data-center]] · [[2026-07-26-nvidia-weighs-roughly-250b-financing-backstop-for-openai-s-o]]
 <!-- graph:end -->

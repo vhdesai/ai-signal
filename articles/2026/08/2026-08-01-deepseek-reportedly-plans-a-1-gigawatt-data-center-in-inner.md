@@ -5,7 +5,7 @@ date: '2026-08-01'
 source: Memeburn
 url_original: https://memeburn.com/deepseek-data-center-plan-reveals/
 url_canonical: https://memeburn.com/deepseek-data-center-plan-reveals/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-02_061105_Inbox_Daily AI News Digest - August 2,
   2026.md
 content_hash: 2bbecd704c30aab8245efaf9e80e61a596367c53f0531affd560f95ea8bd71f8
@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +39,6 @@ Reports indicate DeepSeek is planning a data center of at least one gigawatt in 
 ## Connections
 
 **Entities:** [[DeepSeek]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-01-deepseek-reportedly-plans-a-gigawatt-scale-data-center-in-in]] · [[2026-07-31-deepseek-planning-1gw-data-center-in-inner-mongolia]] · [[2026-08-02-deepseek-data-center-plan-points-to-infrastructure-as-the-ne]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]]
 <!-- graph:end -->

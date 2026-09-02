@@ -6,7 +6,7 @@ date: '2026-07-29'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html
 url_canonical: https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-30_060824_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 690cc1ada8ccfa056411d6eb7be36d754e424dbd92a7151321179d3207894ac6
@@ -19,6 +19,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Microsoft reported fiscal Q4 revenue of roughly $90.0B, ahead of the ~$87.7B con
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-30-microsoft-s-azure-tops-100b-as-fiscal-q4-beat-rewards-capex]] · [[2026-07-29-microsoft-beats-on-fq4-as-azure-grows-43-shares-jump-8]] · [[2026-07-30-microsoft-q4-blowout-profit-jumps-31-cloud-posts-fastest-gro]] · [[2026-07-30-microsoft-fq4-azure-43-crosses-100b-run-rate-30m-copilot-sea]] · [[2026-07-30-capex-reckoning-hyperscalers-split-on-ai-payoff]]
 <!-- graph:end -->

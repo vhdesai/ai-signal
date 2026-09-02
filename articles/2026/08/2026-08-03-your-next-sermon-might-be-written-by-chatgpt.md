@@ -19,6 +19,7 @@ entities:
 - Palantir
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +39,6 @@ The WSJ explores how clergy members are increasingly using ChatGPT and other AI 
 ## Connections
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[Palantir]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin]]
 <!-- graph:end -->

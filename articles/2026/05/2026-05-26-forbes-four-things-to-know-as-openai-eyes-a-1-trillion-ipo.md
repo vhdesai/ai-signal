@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Forbes laid out the investor case ahead of a potential late-2026 OpenAI IPO targ
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u]]
 <!-- graph:end -->

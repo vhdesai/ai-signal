@@ -20,6 +20,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ Following Google's I/O announcement that it will rebuild traditional Search arou
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]]
 <!-- graph:end -->

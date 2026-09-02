@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers
@@ -30,6 +31,6 @@ The WSJ's daily digest highlighted that traditional big manufacturers are findin
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]]
 <!-- graph:end -->

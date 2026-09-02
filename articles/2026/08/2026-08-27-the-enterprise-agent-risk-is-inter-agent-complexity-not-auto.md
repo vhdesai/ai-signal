@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: VentureBeat
 url_original: https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them
 url_canonical: https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-28_061348_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 8ec4c7d05e1c3691e3f5f07c60b7650d13c21f689950bdc1d744c965632e58fa
@@ -25,6 +25,7 @@ entities:
 - Tencent
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -47,6 +48,6 @@ A VentureBeat analysis argues the material governance risk in enterprise AI is n
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[IBM]] · [[Mistral]] · [[NVIDIA]] · [[Oracle]] · [[Palantir]] · [[Tencent]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain]] · [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]] · [[2026-08-22-venturebeat-says-successful-enterprise-agent-deployments-lim]] · [[2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono]] · [[2026-08-23-enterprise-ai-agent-success-is-tied-to-limiting-autonomy]]
 <!-- graph:end -->

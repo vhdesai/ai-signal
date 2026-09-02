@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca
@@ -31,6 +32,6 @@ Four of five enterprises that secured AI agent identities never built isolation 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Investor Michael Burry publicly criticized Nvidia's initiative — announced Aug
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-12-anthropic-courts-fall-ipo-burry-calls-nvidia-500b-financing]] · [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]] · [[2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin]]
 <!-- graph:end -->

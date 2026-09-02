@@ -16,6 +16,8 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +38,6 @@ Infrastructure Markets SK Hynix launches ~$28B US share sale on AI-memory demand
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-06-sk-hynix-launches-28b-us-share-sale-on-ai-memory-demand]] · [[2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing]] · [[2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory]] · [[2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10]] · [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing]]
 <!-- graph:end -->

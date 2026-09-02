@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: The American Bazaar
 url_original: https://americanbazaaronline.com/2026/08/20/elon-musk-says-grok-can-earn-you-money-486790/
 url_canonical: https://americanbazaaronline.com/2026/08/20/elon-musk-says-grok-can-earn-you-money-486790/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: b5b2e25da859e55cc98723f6d22beaf055f65c1c6fd71b0ba89da58d0d24bec5

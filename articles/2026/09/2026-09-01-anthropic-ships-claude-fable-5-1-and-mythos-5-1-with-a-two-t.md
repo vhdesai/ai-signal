@@ -21,6 +21,7 @@ entities:
 - Microsoft
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a
@@ -37,6 +38,6 @@ Anthropic released Claude Fable 5.1 and Claude Mythos 5.1 — the same underlyin
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a]]
 <!-- graph:end -->

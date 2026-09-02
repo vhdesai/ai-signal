@@ -5,7 +5,7 @@ date: '2026-07-15'
 source: CNBC**
 url_original: https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html
 url_canonical: https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-16_065004_Final-Daily-AI-News-Digest.md
 content_hash: 3989e7444e5b0dc9f1ce13a969f10b31cd764d614bba1419f5597abb316a7f69
 normalized_title_hash: c36b4ba40cb4f535
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Goldman Sachs, Morgan Stanley, and JPMorgan have begun scheduling investor meeti
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest]] · [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]] · [[2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar]]
 <!-- graph:end -->

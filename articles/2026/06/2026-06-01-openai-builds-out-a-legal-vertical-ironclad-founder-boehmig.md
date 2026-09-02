@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: Artificial Lawyer
 url_original: https://www.artificiallawyer.com/2026/06/01/ironclad-founder-jason-boehmig-joins-openai-for-legal-vertical-launch/
 url_canonical: https://www.artificiallawyer.com/2026/06/01/ironclad-founder-jason-boehmig-joins-openai-for-legal-vertical-launch/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-02_061615_Daily-AI-News-Digest.md
 content_hash: ddb62527e59fc262ccd9ee5a2993f760ea00f0c0d09c4a815a4fbfd5b18d40b3
 normalized_title_hash: 06e45919e7bcd3c9

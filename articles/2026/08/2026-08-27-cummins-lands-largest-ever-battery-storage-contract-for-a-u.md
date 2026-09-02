@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: Yahoo Finance UK
 url_original: https://uk.finance.yahoo.com/news/cummins-cmi-lands-biggest-battery-110627193.html
 url_canonical: https://uk.finance.yahoo.com/news/cummins-cmi-lands-biggest-battery-110627193.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-27_062110_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 00b730059c14079c6746463256721dbabd29759fe896cca29db8b6d8a2f04053
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Cummins announced its biggest battery energy storage systems contract to date, s
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient]] · [[2026-08-11-babcock-wilcox-expands-its-position-in-ai-data-center-power]] · [[2026-08-24-ls-electric-expands-u-s-ai-data-center-power-contract-to-166]] · [[2026-08-14-ai-infrastructure-and-data-deals-lead-the-week-s-largest-rou]]
 <!-- graph:end -->

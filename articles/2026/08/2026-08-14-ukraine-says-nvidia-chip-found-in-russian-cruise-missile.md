@@ -21,6 +21,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - policy-regulation
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -39,7 +40,7 @@ Ukrainian officials report recovering an Nvidia chip from a Russian cruise missi
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-14-ukraine-says-an-nvidia-chip-was-found-inside-a-russian-cruis]]
 **Related:** [[2026-08-14-ukraine-says-nvidia-chip-found-inside-a-russian-cruise-missi]]
 <!-- graph:end -->

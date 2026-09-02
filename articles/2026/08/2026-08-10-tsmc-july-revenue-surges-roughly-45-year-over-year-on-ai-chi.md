@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html
 url_canonical: https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-10_060307_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: 67a754cfcc6922c11dd692e74822a5ce6003b4a2a7224782c3dc65470cf356a2
@@ -18,6 +18,7 @@ entities:
 - TSMC
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman
@@ -34,6 +35,6 @@ TSMC reported a ~45% year-over-year jump in July revenue, reinforcing that AI ac
 ## Connections
 
 **Entities:** [[Google]] · [[NVIDIA]] · [[TSMC]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman]]
 <!-- graph:end -->

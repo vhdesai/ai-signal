@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Anthropic, Macquarie, and GIC announced Theseus Infrastructure — a platform to
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-10-anthropic-macquarie-and-gic-form-theseus-infrastructure-for]] · [[2026-08-11-anthropic-macquarie-and-gic-launch-theseus-infrastructure-fo]] · [[2026-06-11-anthropic-pursues-data-center-leases-seeks-financial-backing]] · [[2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back]]
 <!-- graph:end -->

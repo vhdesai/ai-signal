@@ -5,7 +5,7 @@ date: '2026-07-15'
 source: PYMNTS · The Information
 url_original: https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-revenue-nears-500-million-as-chinese-ai-startup-eyes-ipo/
 url_canonical: https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-revenue-nears-500-million-as-chinese-ai-startup-eyes-ipo/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-17_092848_Final-Daily-AI-News-Digest.md
 content_hash: ae1c531f47052f644850b0a71664465b8b9f9ba33536018202131b5ccda1279f
 normalized_title_hash: 00bbb6508bceef06

@@ -5,7 +5,7 @@ date: '2026-08-17'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/
 url_canonical: https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-18_065100_Final-Daily-AI-News-Digest.md
 content_hash: 1287f84444342f94ffe608cdba529e16e8b07f4634f53ce20fb0e98cd92b8bb2
 normalized_title_hash: 3289be844b833dd1
@@ -16,6 +16,8 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-custom-silicon-to-neo
@@ -32,6 +34,6 @@ Groq closed $350 million as it repositions from a custom AI-chip vendor to a cap
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-custom-silicon-to-neo]]
 <!-- graph:end -->

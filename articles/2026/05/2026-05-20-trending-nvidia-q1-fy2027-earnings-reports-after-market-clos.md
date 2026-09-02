@@ -5,7 +5,7 @@ date: '2026-05-20'
 source: Bloomberg
 url_original: https://www.bloomberg.com/news/articles/2026-05-20/nvidia-earnings-can-affirm-chip-stock-rally-or-spur-market-chaos
 url_canonical: https://www.bloomberg.com/news/articles/2026-05-20/nvidia-earnings-can-affirm-chip-stock-rally-or-spur-market-chaos
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 17d69e41cf8edd67b61c0f9cfecfda5154f75b6d30e6c08cac6d702ca05e2fad
@@ -19,6 +19,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -41,6 +42,6 @@ Nvidia reports Q1 FY2027 results (period ending April 26, 2026) after market clo
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-01-nvidia-to-report-q2-fy2027-results-on-august-26-with-ai-chip]] · [[2026-08-24-wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going]] · [[2026-05-14-nvidia-heads-into-q1-earnings-with-chip-stocks-at-fresh-high]] · [[2026-08-25-nvidia-q2-fy27-earnings-land-today-as-the-ai-boom-s-scorecar]] · [[2026-08-24-wall-street-counts-on-nvidia-to-keep-the-ai-party-going-mark]]
 <!-- graph:end -->

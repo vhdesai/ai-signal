@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ The AI hardware spotlight has shifted from GPU-heavy training to CPU-driven infe
 ## Connections
 
 **Entities:** [[AMD]] · [[Intel]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug]] · [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]] · [[2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t]] · [[2026-07-24-intel-s-data-center-and-ai-unit-jumps-on-ai-customer-demand]] · [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally]]
 <!-- graph:end -->

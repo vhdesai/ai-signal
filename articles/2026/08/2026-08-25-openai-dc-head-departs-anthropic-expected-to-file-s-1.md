@@ -17,6 +17,8 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +39,6 @@ OpenAI's head of data centers has left—continuing the company's executive exod
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-25-openai-s-head-of-data-centers-has-left-the-company-anthropic]] · [[2026-08-27-anthropic-and-openai-to-share-the-ai-stage-at-techcrunch-dis]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]]
 <!-- graph:end -->

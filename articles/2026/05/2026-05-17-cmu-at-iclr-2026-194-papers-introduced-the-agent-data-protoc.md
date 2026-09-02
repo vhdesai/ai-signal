@@ -16,6 +16,7 @@ tags: []
 entities: []
 themes:
 - model-capabilities
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ CMU at ICLR 2026 (194 papers) introduced the Agent Data Protocol (ADP) — a sta
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[M&A Activity]]
 **Related:** [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-04-22-academic-research]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - Palantir
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Palantir reported Q1 2026 revenue of approximately $1.54 billion, up ~85% year-o
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Palantir]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-04-palantir-q1-2026-revenue-85-yoy-u-s-commercial-133]] · [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]] · [[2026-05-14-palantir-reported-q1-2026-results-on-may-4-with-u-s]] · [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges]] · [[2026-05-04-palantir-posts-blowout-q1-with-85-revenue-growth-892m-free-c]]
 <!-- graph:end -->

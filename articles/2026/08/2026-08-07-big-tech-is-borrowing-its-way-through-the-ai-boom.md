@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Yahoo Finance reported that major technology companies are increasingly using de
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure]] · [[2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs]] · [[2026-07-26-google-uses-wall-street-financing-techniques-to-expand-ai-ch]]
 <!-- graph:end -->

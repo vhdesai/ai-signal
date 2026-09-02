@@ -26,6 +26,8 @@ entities:
 - Tesla
 themes:
 - policy-regulation
+- ma-activity
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -48,6 +50,6 @@ Anthropic updated Claude Fable 5's biology safety classifiers, cutting automatic
 ## Connections
 
 **Entities:** [[AMD]] · [[Anthropic]] · [[DeepSeek]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Tesla]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[M&A Activity]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-07-anthropic-relaxes-claude-fable-5-s-biology-guardrails-while]] · [[2026-08-07-anthropic-loosens-claude-fable-5-biology-question-refusals-w]] · [[2026-08-07-anthropic-updates-claude-fable-5-s-biology-safety-classifier]] · [[2026-06-10-anthropic-walks-back-policy-that-could-have-sabotaged-ai-res]] · [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a]]
 <!-- graph:end -->

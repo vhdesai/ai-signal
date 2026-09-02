@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Brad Lightcap, who formerly served as OpenAI’s COO and most recently led its s
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent]] · [[2026-07-07-openai-s-chief-futurist-is-leaving-the-company]]
 <!-- graph:end -->

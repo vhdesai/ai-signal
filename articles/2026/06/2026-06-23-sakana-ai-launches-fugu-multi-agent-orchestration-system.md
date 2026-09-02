@@ -5,7 +5,7 @@ date: '2026-06-23'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=sakana+ai+fugu+launch
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=sakana+ai+fugu+launch
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-23_065425_Final-Daily-AI-News-Digest.md
 content_hash: dd938adbffda9188425b5b1f0f6930e86865790ee82c2e3c733388d077f9ca32
 normalized_title_hash: dcbb647607e491cd
@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +39,6 @@ Tokyo-based Sakana AI (valued at $2.6B) launched Fugu, a system that coordinates
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro]] · [[2026-07-26-sakana-ai-releases-fugu-cyber-orchestration-model]] · [[2026-07-25-sakana-ai-releases-fugu-cyber-a-security-tuned-orchestration]] · [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]]
 <!-- graph:end -->

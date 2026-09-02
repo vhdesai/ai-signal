@@ -5,7 +5,7 @@ date: '2026-06-12'
 source: TechCrunch; NPR; WSJ; Reuters; Wired; Barron's
 url_original: https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/
 url_canonical: https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-13_160159_Final-Daily-AI-News-Digest.md
 content_hash: 254aab22f0c2251257de5e47b3952d438a12927cbd32cb66882e8a501083e2ae
 normalized_title_hash: c8049972edcc6dcb
@@ -17,6 +17,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona
@@ -33,6 +34,6 @@ SpaceX priced shares at $135 in the largest IPO in history. Early crypto-traded 
 ## Connections
 
 **Entities:** [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona]]
 <!-- graph:end -->

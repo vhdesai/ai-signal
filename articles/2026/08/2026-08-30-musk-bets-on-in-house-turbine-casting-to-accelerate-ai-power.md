@@ -6,7 +6,7 @@ date: '2026-08-30'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/
 url_canonical: https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: a0014330a2157c005253b52096b32945bb688b9a6f346da71f72eb7db31564c8
 normalized_title_hash: 025763becb996fc2
@@ -18,6 +18,7 @@ entities:
 - xAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Elon Musk says a new SpaceX foundry will cast gas turbine blades in-house and br
 ## Connections
 
 **Entities:** [[xAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-compute-carries-en]] · [[2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-power-carries-a-po]] · [[2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-compute-carries-a]] · [[2026-08-29-spacex-moves-to-build-turbine-blade-manufacturing-to-unlock]]
 <!-- graph:end -->

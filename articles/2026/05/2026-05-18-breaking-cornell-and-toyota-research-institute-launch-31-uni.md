@@ -6,7 +6,7 @@ date: '2026-05-18'
 source: Cornell Chronicle
 url_original: https://news.cornell.edu/stories/2026/05/toyota-research-institute-cornell-partner-ai-projects
 url_canonical: https://news.cornell.edu/stories/2026/05/toyota-research-institute-cornell-partner-ai-projects
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 254162098f92fd561455ba764ab06ecb3e2d3ffeef3c7955a932d79a4cab3ef5

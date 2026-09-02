@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/
 url_canonical: https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-03_062808_Inbox_Daily AI News Digest - August 3,
   2026.md
 content_hash: 144228b2563f952c33bfd5fddd60adec5c374138cce7901eecd5a1150000b139
@@ -17,6 +17,7 @@ entities:
 - Salesforce
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-03-june-emerges-from-stealth-with-20-million-to-automate-enterp
@@ -33,6 +34,6 @@ June emerged from stealth with a $20 million pre-seed round — backed by Salesf
 ## Connections
 
 **Entities:** [[Salesforce]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-03-june-emerges-from-stealth-with-20-million-to-automate-enterp]]
 <!-- graph:end -->

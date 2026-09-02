@@ -18,6 +18,7 @@ entities:
 - Meta
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Follow-on reporting detailed that Meta had been running customer service, ad too
 ## Connections
 
 **Entities:** [[Google]] · [[Meta]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-30-google-was-forced-to-limit-meta-s-consumption-of-gemini-afte]] · [[2026-06-28-google-caps-meta-s-gemini-usage-as-compute-scarcity-bites]] · [[2026-06-29-google-capped-meta-s-gemini-usage-as-the-compute-crunch-hits]]
 <!-- graph:end -->

@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
@@ -31,6 +32,6 @@ Micron unveiled an expanded U.S. manufacturing plan worth roughly $250 billion t
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]]
 <!-- graph:end -->

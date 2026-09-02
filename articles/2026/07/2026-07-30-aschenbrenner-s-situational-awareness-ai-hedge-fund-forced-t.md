@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: TechCrunch · Situational Awareness LP, Citadel, Anthropic
 url_original: https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/
 url_canonical: https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-31_061058_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: 573ea2a6743939a070391073d651fa9650fd53d5f147d872ce6a5673666888d6

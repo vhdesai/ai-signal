@@ -21,6 +21,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ On April 27, Microsoft and OpenAI replaced their six-year exclusive cloud AI rel
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-27-hotmicrosoft-and-openai-end-cloud-exclusivity]] · [[2026-04-27-]]
 <!-- graph:end -->

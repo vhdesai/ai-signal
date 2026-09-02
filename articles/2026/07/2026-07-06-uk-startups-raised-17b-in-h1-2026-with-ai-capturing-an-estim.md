@@ -16,6 +16,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc
@@ -31,6 +32,6 @@ UK startups raised about $17 billion in the first half of 2026 — roughly doubl
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc]]
 <!-- graph:end -->

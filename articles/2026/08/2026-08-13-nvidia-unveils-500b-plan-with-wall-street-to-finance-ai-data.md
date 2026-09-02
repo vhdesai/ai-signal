@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-nvidia-s-new-500b-data-center-plan-carries-a-gpu-residual-va
@@ -38,7 +39,7 @@ Nvidia announced that Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-13-nvidia-s-new-500b-data-center-plan-carries-a-gpu-residual-va]]
 **Related:** [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]]
 <!-- graph:end -->

@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ PitchBook's US Public PE and GP Deal Roundup found the largest listed PE players
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-31-ai-data-center-construction-sends-private-equity-into-the-tr]] · [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]] · [[2026-08-14-pitchbook-analysts-examine-what-nvidia-s-500b-financing-play]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-08-14-ai-infrastructure-and-data-deals-lead-the-week-s-largest-rou]]
 <!-- graph:end -->

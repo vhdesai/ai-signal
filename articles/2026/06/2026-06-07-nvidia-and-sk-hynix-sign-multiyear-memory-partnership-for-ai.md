@@ -5,7 +5,7 @@ date: '2026-06-07'
 source: NVIDIA Newsroom; Business Insider
 url_original: https://nvidianews.nvidia.com/news/sk-hynix-ai-factory
 url_canonical: https://nvidianews.nvidia.com/news/sk-hynix-ai-factory
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-08_071435_Final-Daily-AI-News-Digest.md
 content_hash: f22d8a97fcfa3935aad8a8b2b73523ad963105f36d23678ac7644629be5f4e90
 normalized_title_hash: 4fa6942081784640
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
@@ -33,6 +34,6 @@ Nvidia and SK hynix announced a multiyear agreement to co-develop next-generatio
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]]
 <!-- graph:end -->

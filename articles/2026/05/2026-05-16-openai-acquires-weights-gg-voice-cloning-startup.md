@@ -18,6 +18,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ OpenAI has acquired Weights.gg, a small startup (~6 people) known for enabling c
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact]] · [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v]] · [[2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl]] · [[2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-08'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/markets/article/the-ai-boom-ripples-into-regional-banks-as-lending-picks-up-112917906.html
 url_canonical: https://finance.yahoo.com/markets/article/the-ai-boom-ripples-into-regional-banks-as-lending-picks-up-112917906.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-08_061755_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 61a8451e92b9a8a36a46f6a72484cd26b7a15016a6f943227023b48db8636077
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ The AI infrastructure build-out is generating a measurable "trickle-down" lendin
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in]] · [[2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su]]
 <!-- graph:end -->

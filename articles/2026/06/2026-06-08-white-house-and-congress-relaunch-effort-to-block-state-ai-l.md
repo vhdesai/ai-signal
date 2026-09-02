@@ -5,7 +5,7 @@ date: '2026-06-08'
 source: Axios
 url_original: https://www.axios.com/2026/06/08/white-house-hill-relaunch-effort-block-state-ai-laws
 url_canonical: https://www.axios.com/2026/06/08/white-house-hill-relaunch-effort-block-state-ai-laws
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-09_070112_Final-Daily-AI-News-Digest.md
 content_hash: f3d0256888924deb2836b1d59ecaafb392f024d34efc05eba1f578db0162e1df
 normalized_title_hash: 6c0f082cea899433

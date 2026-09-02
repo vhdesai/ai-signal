@@ -6,7 +6,7 @@ date: '2026-08-20'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/ode-anthropic-acquires-casper-studios-150000200.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/ode-anthropic-acquires-casper-studios-150000200.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_062036_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: a9edd45a5207718ed8b250321a20fd0b26fc0d55a4e7a16fbb5f8e185ba0b064
@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-20-anthropic-s-enterprise-ai-joint-venture-acquires-consultancy
@@ -33,6 +34,6 @@ Ode with Anthropic, an enterprise AI transformation firm, announced the acquisit
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-20-anthropic-s-enterprise-ai-joint-venture-acquires-consultancy]]
 <!-- graph:end -->

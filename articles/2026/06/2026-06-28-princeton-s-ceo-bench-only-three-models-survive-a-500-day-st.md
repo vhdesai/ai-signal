@@ -5,7 +5,7 @@ date: '2026-06-28'
 source: Princeton University
 url_original: https://github.com/zlab-princeton/ceobench-src
 url_canonical: https://github.com/zlab-princeton/ceobench-src
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-29_060726_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: c5ef64761654906c1641173b5443e187401494f5239f9b951369df516e304f2d

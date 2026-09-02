@@ -6,7 +6,7 @@ date: '2026-08-24'
 source: The Wall Street Journal / Yahoo Finance
 url_original: https://www.wsj.com/finance/stocks/wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going-7e7caf0c
 url_canonical: https://www.wsj.com/finance/stocks/wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going-7e7caf0c
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-24_085500_Final-Daily-AI-News-Digest.md
 content_hash: e973ab5f0089e5275f12755514b475ea43038d928e7490922434f075d1c85fd2
 normalized_title_hash: 84c29b2f1655b150
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-24-markets-brace-for-nvidia-earnings-korean-investors-sell-2-63
@@ -37,7 +38,7 @@ Nvidia reports Q2 FY2027 results on Wednesday carrying an approximately $5T mark
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-24-markets-brace-for-nvidia-earnings-korean-investors-sell-2-63]]
 **Related:** [[2026-08-24-wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going]] · [[2026-08-25-nvidia-q2-report-becomes-the-market-s-scorecard-for-ai-capex]] · [[2026-08-24-korean-investors-net-sell-2-63b-of-nvidia-ahead-of-earnings]] · [[2026-08-24-can-nvidia-keep-the-ai-party-going-wsj-preview-ahead-of-earn]]
 <!-- graph:end -->

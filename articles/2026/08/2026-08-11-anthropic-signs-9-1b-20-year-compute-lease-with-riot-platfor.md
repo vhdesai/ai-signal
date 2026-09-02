@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Anthropic contracted 191 MW of capacity at Riot’s Rockdale, Texas campus under
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-11-anthropic-signs-a-9-1b-20-year-191-mw-compute-deal-with-riot]] · [[2026-08-11-riot-platforms-signs-9-1b-20-year-compute-deal-tied-to-anthr]] · [[2026-08-11-anthropic-signs-a-9-1b-20-year-191-mw-compute-lease-with-rio]] · [[2026-08-26-anthropic-strikes-45-billion-cloud-deal-with-nscale]] · [[2026-08-31-anthropic-signs-35-billion-compute-deal-with-nvidia-backed-l]]
 <!-- graph:end -->

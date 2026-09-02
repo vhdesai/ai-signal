@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: Tencent Hunyuan
 url_original: https://github.com/Tencent-Hunyuan/Hy3
 url_canonical: https://github.com/Tencent-Hunyuan/Hy3
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-06_084400_Final-Daily-AI-News-Digest.md
 content_hash: d639f67d2c3939152dd1695a95d4fcd0d6e3ea50cb491a2eb5578a6628601610
 normalized_title_hash: 0ae2688bd326d9f4

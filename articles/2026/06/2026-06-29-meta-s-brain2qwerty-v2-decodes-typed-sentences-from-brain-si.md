@@ -5,7 +5,7 @@ date: '2026-06-29'
 source: Digital Trends
 url_original: https://www.digitaltrends.com/cool-tech/metas-brain2qwerty-v2-turns-thoughts-into-text-and-it-doesnt-need-brain-implants/
 url_canonical: https://www.digitaltrends.com/cool-tech/metas-brain2qwerty-v2-turns-thoughts-into-text-and-it-doesnt-need-brain-implants/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-30_061155_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 8ca085fb459112823368b2c53f9d82773832770361ddcc6d03f2d1ad89665bf6
@@ -17,6 +17,7 @@ entities:
 - Meta
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ Meta FAIR unveiled Brain2Qwerty v2, a non-invasive brain-to-text system that dec
 ## Connections
 
 **Entities:** [[Baidu]] · [[Meta]]
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-06-30-meta-ai-published-brain2qwerty-v2-a-non-invasive-pipeline-th]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]]
 <!-- graph:end -->

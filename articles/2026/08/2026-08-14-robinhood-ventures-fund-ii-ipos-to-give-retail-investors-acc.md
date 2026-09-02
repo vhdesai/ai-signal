@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-robinhood-ventures-fund-ii-ipos-for-retail-ai-startup-access
@@ -33,6 +34,6 @@ Robinhood Ventures Fund II began trading on the NYSE after raising roughly $200 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-14-robinhood-ventures-fund-ii-ipos-for-retail-ai-startup-access]]
 <!-- graph:end -->

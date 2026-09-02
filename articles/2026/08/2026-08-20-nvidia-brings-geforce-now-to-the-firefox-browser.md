@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/
 url_canonical: https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 918c280837ac7d3922ea3392a032f2756aaf330e84fd35891c2075bf11e65fd3

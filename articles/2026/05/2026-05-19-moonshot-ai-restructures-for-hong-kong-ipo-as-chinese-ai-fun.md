@@ -17,6 +17,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ Chinese AI startup Moonshot AI — developer of the Kimi series of open-weight L
 ## Connections
 
 **Entities:** [[DeepSeek]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-19-moonshot-plans-a-30b-hong-kong-ipo-within-six-months]] · [[2026-07-19-china-s-moonshot-plans-a-30b-hong-kong-ipo-within-six-months]] · [[2026-07-19-moonshot-ai-plans-hong-kong-ipo-after-kimi-k3-model-debut]] · [[2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes]] · [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]]
 <!-- graph:end -->

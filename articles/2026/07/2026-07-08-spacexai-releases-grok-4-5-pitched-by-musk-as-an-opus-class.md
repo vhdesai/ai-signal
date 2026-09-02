@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/
 url_canonical: https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-10_061848_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 03454d955c0a4c5f862f2ff6a7d78b648d93d0a341fcd66fbd8a40025226e18a
@@ -17,6 +17,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Grok 4.5 is the first model from SpaceXAI since xAI’s merger into SpaceX and t
 ## Connections
 
 **Entities:** [[xAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work]] · [[2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks]] · [[2026-07-08-musk-sets-grok-4-5-public-release-for-thursday-pitching-an-o]]
 <!-- graph:end -->

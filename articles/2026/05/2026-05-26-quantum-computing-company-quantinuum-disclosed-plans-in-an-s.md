@@ -17,6 +17,7 @@ entities:
 - Cerebras
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Quantum-computing company Quantinuum disclosed plans in an SEC filing to raise $
 ## Connections
 
 **Entities:** [[Cerebras]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t]] · [[2026-05-04-cerebras-prices-ipo-at-26-6b-valuation-seeks-3-5b]]
 <!-- graph:end -->

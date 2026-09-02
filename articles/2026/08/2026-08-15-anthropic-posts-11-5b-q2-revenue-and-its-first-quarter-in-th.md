@@ -5,7 +5,7 @@ date: '2026-08-15'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html
 url_canonical: https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-16_065100_Final-Daily-AI-News-Digest.md
 content_hash: 2ecb980568c336923ec3214bad0ad397ca420e36b982a9d6639f0827bff9ec5d
 normalized_title_hash: e31bc40b99fcace6
@@ -19,6 +19,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-15-anthropic-posts-11-5b-q2-revenue-and-its-first-profitable-qu
@@ -35,6 +36,6 @@ Anthropic told investors that preliminary Q2 2026 revenue exceeded $11.5 billion
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-15-anthropic-posts-11-5b-q2-revenue-and-its-first-profitable-qu]]
 <!-- graph:end -->

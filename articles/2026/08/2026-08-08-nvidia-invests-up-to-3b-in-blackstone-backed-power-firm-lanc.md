@@ -20,6 +20,8 @@ entities:
 - Oracle
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +43,6 @@ Nvidia agreed to invest $2 billion in Lancium, the power infrastructure develope
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-24-lancium-partners-with-nvidia-on-gigawatt-scale-ai-factories]] · [[2026-08-21-nvidia-in-talks-to-invest-in-data-center-power-developer-clo]] · [[2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai]] · [[2026-08-15-nvidia-in-talks-to-invest-up-to-3b-in-softbank-backed-sb-ene]] · [[2026-08-21-nvidia-invests-hundreds-of-millions-in-data-center-power-dev]]
 <!-- graph:end -->

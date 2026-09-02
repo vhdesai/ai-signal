@@ -19,6 +19,7 @@ entities:
 - Microsoft
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Axios AI+ highlighted Microsoft's Azure crossing a $100 billion annual revenue r
 ## Connections
 
 **Entities:** [[Meta]] · [[Microsoft]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-07-30-microsoft-shows-ai-capex-with-operating-leverage-while-meta]] · [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]]
 <!-- graph:end -->

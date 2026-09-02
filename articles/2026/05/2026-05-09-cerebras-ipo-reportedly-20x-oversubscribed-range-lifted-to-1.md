@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Investor commentary reports Cerebras Systems' IPO — pricing May 14 — is 20x 
 ## Connections
 
 **Entities:** [[Cerebras]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-14-cerebras-prices-5-55b-ipo-at-185-share-largest-u-s-tech-ipo]] · [[2026-05-14-cerebras-systems-prices-5-55b-ipo-at-185-share-largest-u-s-t]] · [[2026-05-10-breakingcerebras-ipo-demand-forces-price-hike-4-8b-raise-exp]] · [[2026-05-04-cerebras-prices-ipo-at-26-6b-valuation-seeks-3-5b]] · [[2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation]]
 <!-- graph:end -->

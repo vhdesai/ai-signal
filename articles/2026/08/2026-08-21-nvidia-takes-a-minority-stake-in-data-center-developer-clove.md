@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: Reuters
 url_original: https://www.aol.com/articles/nvidia-invests-data-center-developer-143451000.html
 url_canonical: https://www.aol.com/articles/nvidia-invests-data-center-developer-143451000.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_061248_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: fd82bead8dc26a205f9169e016dd485fa0da08a6566daea74595b276f3e7e569
@@ -17,6 +17,8 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-nvidia-in-talks-to-invest-in-data-center-power-developer-clo
@@ -33,6 +35,6 @@ Nvidia invested in Cloverleaf Infrastructure, a developer that assembles large p
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-21-nvidia-in-talks-to-invest-in-data-center-power-developer-clo]]
 <!-- graph:end -->

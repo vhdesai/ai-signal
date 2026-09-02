@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: Business Insider
 url_original: https://markets.businessinsider.com/news/stocks/stmicroelectronics-raises-its-revenue-ambition-for-data-centers-amidst-continued-strong-demand-for-ai-infrastructure-1036216353
 url_canonical: https://markets.businessinsider.com/news/stocks/stmicroelectronics-raises-its-revenue-ambition-for-data-centers-amidst-continued-strong-demand-for-ai-infrastructure-1036216353
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-02_061615_Daily-AI-News-Digest.md
 content_hash: 5a572e77d2acc6b2270f6383742a74a6879167d362c87f097865ab28e9ba9847
 normalized_title_hash: 771d651c7e18355c
@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ STMicroelectronics raised its 2026 data-center revenue target to roughly $1 bill
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent]] · [[2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c]] · [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-07-31-mediatek-approves-up-to-5b-to-build-custom-ai-data-center-ch]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/energy/articles/amazon-behind-massive-private-gas-210211828.html
 url_canonical: https://finance.yahoo.com/energy/articles/amazon-behind-massive-private-gas-210211828.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-09_060558_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 30e745659228feb353bdc86970bb391beb7fe5d6034659f537fca133686553e6
@@ -17,6 +17,7 @@ entities:
 - xAI
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Amazon confirmed it is financing GW Ranch, a 35-turbine, 7.65-gigawatt private g
 ## Connections
 
 **Entities:** [[Amazon]] · [[xAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-08-amazon-backs-a-7-65-gw-texas-gas-plant-to-power-a-hyperscale]] · [[2026-08-08-planned-amazon-data-center-could-become-the-largest-climate]] · [[2026-08-08-amazon-s-planned-texas-data-center-power-plant-would-be-larg]] · [[2026-08-08-planned-amazon-data-center-could-become-the-largest-u-s-clim]] · [[2026-08-08-amazon-backs-7-65-gw-texas-gas-plant-to-power-hyperscale-ai]]
 <!-- graph:end -->

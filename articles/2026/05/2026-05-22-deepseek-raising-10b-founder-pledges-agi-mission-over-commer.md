@@ -18,6 +18,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +41,6 @@ DeepSeek's founder Liang Wenfeng told investors in its ongoing 70 billion yuan (
 ## Connections
 
 **Entities:** [[DeepSeek]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t]] · [[2026-07-26-deepseek-pauses-roughly-71b-funding-round-after-founder-rema]] · [[2026-06-03-deepseek-prepares-7-billion-maiden-fundraise]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: MIT News
 url_original: https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713
 url_canonical: https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-14_060635_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 904b370e6b07bb8147aaafdd81235927324ba1a011d5f2e158fbf5d718aff16e

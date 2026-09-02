@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/
 url_canonical: https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-30_062819_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 4316290dcb7b88a23039e188e1d4b70d7cde37045a6b2e3816efb3f3edadf47f
@@ -17,6 +17,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Dili raised a $15M Series A (led by Khosla Ventures, with participation from Y C
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]] · [[2026-07-30-dili-raises-21-7-million-to-bring-ai-compliance-to-infrastru]] · [[2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c]] · [[2026-08-08-ai-infrastructure-buildout-is-fueling-a-regional-bank-commer]] · [[2026-08-12-thrive-holdings-raises-2b-to-push-ai-into-regulated-workflow]]
 <!-- graph:end -->

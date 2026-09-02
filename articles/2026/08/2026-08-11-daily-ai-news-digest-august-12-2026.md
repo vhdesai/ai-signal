@@ -20,6 +20,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-daily-ai-news-digest-august-11-2026
@@ -36,6 +37,6 @@ Executive Summary Wednesday’s cycle was dominated by the financialization of A
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-11-daily-ai-news-digest-august-11-2026]]
 <!-- graph:end -->

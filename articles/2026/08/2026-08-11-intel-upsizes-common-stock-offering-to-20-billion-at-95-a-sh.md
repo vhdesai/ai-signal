@@ -16,6 +16,7 @@ entities:
 - Intel
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Intel priced 210.5 million shares at $95, raising roughly $19.7 billion and upsi
 ## Connections
 
 **Entities:** [[Intel]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-10-intel-raises-20b-in-upsized-common-stock-offering-to-fund-ai]] · [[2026-08-10-intel-announces-15-billion-common-stock-offering-citing-ai-d]]
 <!-- graph:end -->

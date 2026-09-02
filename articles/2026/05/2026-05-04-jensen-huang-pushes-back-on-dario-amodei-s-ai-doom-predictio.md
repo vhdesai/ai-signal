@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Nvidia CEO Jensen Huang publicly criticized industry leaders — singling out An
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-06-20-in-a-wide-ranging-interview-aired-saturday-nvidia-ceo-jensen]] · [[2026-05-22-nvidia-ceo-jensen-huang-delivered-the-commencement-address-a]]
 <!-- graph:end -->

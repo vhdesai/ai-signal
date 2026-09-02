@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s
@@ -36,6 +37,6 @@ OpenAI President Greg Brockman testified before the U.S. Senate that the company
 ## Connections
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]]
 <!-- graph:end -->

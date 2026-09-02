@@ -18,6 +18,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Reuters, citing seven federal employees, three contracting experts, and a review
 ## Connections
 
 **Entities:** [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-12-spacexai-ships-grok-4-6-for-long-running-agents-musk-says-4]] · [[2026-08-13-spacex-stock-jumps-as-grok-release-ramps-up-ai-competition]] · [[2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work]] · [[2026-05-14-spacexai-hemorrhaging-research-staff-following-xai-spacex-in]] · [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk]]
 <!-- graph:end -->

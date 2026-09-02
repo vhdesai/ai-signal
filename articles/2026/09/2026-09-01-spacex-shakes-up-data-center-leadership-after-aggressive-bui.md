@@ -16,6 +16,7 @@ entities: []
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Elon Musk has replaced several leaders on the SpaceX data center team with execu
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-15-reporting-from-may-14-confirms-that-elon-musk-s-spacexai-the]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]]
 <!-- graph:end -->

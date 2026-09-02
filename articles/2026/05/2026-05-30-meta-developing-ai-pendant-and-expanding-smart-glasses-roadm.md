@@ -5,7 +5,7 @@ date: '2026-05-30'
 source: TechCrunch; [June 1, 2026] · PCMag; Hypebeast
 url_original: https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/
 url_canonical: https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
 content_hash: 8f0f029a843a01b948138968048d8ffee01d4d56e3e7045ede49566859a58b6b
 normalized_title_hash: c8d165b0a657ca10

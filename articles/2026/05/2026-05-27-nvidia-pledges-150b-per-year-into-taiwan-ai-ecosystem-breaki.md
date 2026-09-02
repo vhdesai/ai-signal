@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of
@@ -32,6 +33,6 @@ Jensen Huang announced Nvidia will invest $150B annually to make Taiwan the "epi
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of]]
 <!-- graph:end -->

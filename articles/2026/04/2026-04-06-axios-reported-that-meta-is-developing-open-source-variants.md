@@ -27,6 +27,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -49,6 +50,6 @@ DeepSeek V4 Confirmed Running on Huawei Ascend Chips — First Frontier Model on
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[Meta]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow]] · [[2026-04-06-deepseek-s-forthcoming-v4-model-reportedly-carrying-1-trilli]] · [[2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at]] · [[2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri]] · [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]]
 <!-- graph:end -->

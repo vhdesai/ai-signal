@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ AI model-training startup AfterQuery has reportedly raised at a $3.2 billion val
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Related:** [[2026-09-01-afterquery-hits-3-2b-valuation-reportedly-y-combinator-s-fas]] · [[2026-09-01-afterquery-becomes-y-combinator-s-fastest-unicorn-at-a-3-2b]] · [[2026-07-15-indian-ai-coding-startup-emergent-becomes-a-unicorn-with-130]] · [[2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b]]
 <!-- graph:end -->

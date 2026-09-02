@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: OpenAI CDN / public research discussion
 url_original: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf
 url_canonical: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-11_061544_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 35272ecbf193631116f223145decbd0a87fd08e135b63b979ca35bc844c48c84

@@ -18,6 +18,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ In a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang stated "
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a]] · [[2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will]] · [[2026-05-22-nvidia-ceo-jensen-huang-delivered-the-commencement-address-a]] · [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]] · [[2026-06-20-in-a-wide-ranging-interview-aired-saturday-nvidia-ceo-jensen]]
 <!-- graph:end -->

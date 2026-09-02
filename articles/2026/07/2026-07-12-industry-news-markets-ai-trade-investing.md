@@ -17,6 +17,7 @@ entities: []
 themes:
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ The Information reports on an equity trade gaining traction around the AI boom. 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-12-the-information-tracks-a-hot-equity-trade-spreading-through]] · [[2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog]] · [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]]
 <!-- graph:end -->

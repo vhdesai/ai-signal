@@ -28,6 +28,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -50,6 +51,6 @@ Oracle announced recognition of three utility-sector customers — Air Selangor 
 ## Connections
 
 **Entities:** [[Apple]] · [[Cohere]] · [[Google]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[OpenAI]] · [[Oracle]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-21-oracle-fusion-data-intelligence-deployed-at-heathrow-mtn-clo]] · [[2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o]] · [[2026-05-21-oracle-fusion-data-intelligence-goes-live-at-heathrow-mtn-an]] · [[2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del]] · [[2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous]]
 <!-- graph:end -->

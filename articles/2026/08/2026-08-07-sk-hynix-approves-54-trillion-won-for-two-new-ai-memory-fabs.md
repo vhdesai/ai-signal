@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/07/sk-hynix-memory-chips-ai-prices.html
 url_canonical: https://www.cnbc.com/2026/08/07/sk-hynix-memory-chips-ai-prices.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-08_061253_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: ea951ed78d6020642da18da550de42ea688aa149317e5e58ae01a3b524a6aaa2
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ SK hynix approved roughly 54 trillion won (about $38 billion) for new fabs at Yo
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-07-sk-hynix-commits-roughly-38b-to-two-new-fabs-for-ai-memory]] · [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o]]
 <!-- graph:end -->

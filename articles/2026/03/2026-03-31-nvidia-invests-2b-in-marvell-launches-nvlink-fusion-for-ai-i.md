@@ -17,6 +17,8 @@ entities:
 - Scale AI
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +40,6 @@ Nvidia announced a $2B strategic investment in Marvell Technology with a NVLink 
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[Scale AI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-02-trending-nvidia-backs-marvell-nvlink-fusion-with-2b-commitme]] · [[2026-08-31-nvidia-invests-3-5b-in-mediatek-deepens-ai-infrastructure-pa]] · [[2026-06-02-jensen-huang-says-marvell-could-be-the-next-trillion-dollar]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real]] · [[2026-08-31-nvidia-invests-3-5-billion-in-mediatek-and-deepens-its-ai-in]]
 <!-- graph:end -->

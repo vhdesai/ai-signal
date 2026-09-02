@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-anthropic-signs-9-1b-20-year-compute-lease-with-riot-platfor
@@ -33,6 +34,6 @@ Anthropic contracted 191 megawatts of critical IT capacity at Riot Platforms' Ro
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-11-anthropic-signs-9-1b-20-year-compute-lease-with-riot-platfor]]
 <!-- graph:end -->

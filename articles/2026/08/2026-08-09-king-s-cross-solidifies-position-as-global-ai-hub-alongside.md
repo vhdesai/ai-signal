@@ -5,7 +5,7 @@ date: '2026-08-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/
 url_canonical: https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-09_061128_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: c8a4da0f25d9c5b319f772477b97e9eb072fafd59d92de925f91f5440f4a9281

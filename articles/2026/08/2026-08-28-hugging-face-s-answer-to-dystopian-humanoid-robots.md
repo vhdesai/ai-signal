@@ -18,6 +18,8 @@ entities:
 - NVIDIA
 themes:
 - policy-regulation
+- ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +40,6 @@ PitchBook highlights how Hugging Face (now being acquired by Nvidia for $12.9B) 
 ## Connections
 
 **Entities:** [[Google]] · [[NVIDIA]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-08-29-the-a-i-token-tax-enterprise-ai-costs-become-unpredictable-b]] · [[2026-08-29-the-a-i-token-tax-enterprise-costs-become-unpredictable-budg]] · [[2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized-alabama-pro]] · [[2026-08-29-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion]]
 <!-- graph:end -->

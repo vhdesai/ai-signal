@@ -5,7 +5,7 @@ date: '2026-05-13'
 source: AiThority
 url_original: https://aithority.com/machine-learning/vapi-raises-50m-series-b-as-it-reaches-1-billion-calls-powering-the-next-generation-of-enterprise-voice-ai/
 url_canonical: https://aithority.com/machine-learning/vapi-raises-50m-series-b-as-it-reaches-1-billion-calls-powering-the-next-generation-of-enterprise-voice-ai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 9c6c3fcef61ca04d606218f8e10cccfced26a276f5b69cd3b94a54ff29a36ca9
@@ -17,6 +17,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Voice-agent platform Vapi closed a $50M Series B led by Peak XV, with participat
 ## Connections
 
 **Entities:** [[Amazon]] · [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-12-vapi-hits-500m-valuation-after-winning-amazon-ring-contract]] · [[2026-05-13-ai-voice-infrastructure-startup-vapi-announced-a-valuation-o]] · [[2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native]] · [[2026-05-18-dust-closes-40m-series-b-for-enterprise-human-agent-collabor]] · [[2026-07-15-rime-raises-24-million-to-improve-enterprise-voice-ai-calls]]
 <!-- graph:end -->

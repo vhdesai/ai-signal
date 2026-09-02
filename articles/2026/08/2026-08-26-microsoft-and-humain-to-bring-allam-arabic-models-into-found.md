@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: PRNewswire / TMCnet · Microsoft · HUMAIN
 url_original: https://www.tmcnet.com/usubmit/2026/08/26/10435483.htm
 url_canonical: https://www.tmcnet.com/usubmit/2026/08/26/10435483.htm
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 942f9ae2498141aeeab5d9c19ae8e09a6f3409c176e6145b3cb41cd086bbf778
@@ -17,6 +17,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ PIF-owned HUMAIN and Microsoft announced a long-term collaboration to make HUMAI
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise]] · [[2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap]] · [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig]] · [[2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]]
 <!-- graph:end -->

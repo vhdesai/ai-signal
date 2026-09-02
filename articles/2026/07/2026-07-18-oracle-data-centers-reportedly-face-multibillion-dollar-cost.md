@@ -18,6 +18,7 @@ entities:
 - Oracle
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ The Information reports that Oracle data centers are facing multibillion-dollar 
 ## Connections
 
 **Entities:** [[Oracle]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc]] · [[2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-08-13-nvidia-s-new-500b-data-center-plan-carries-a-gpu-residual-va]]
 <!-- graph:end -->

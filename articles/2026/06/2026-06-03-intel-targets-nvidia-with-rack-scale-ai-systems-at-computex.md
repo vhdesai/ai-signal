@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/sectors/technology/articles/intel-racks-ai-partnerships-challenge-140343711.html
 url_canonical: https://finance.yahoo.com/sectors/technology/articles/intel-racks-ai-partnerships-challenge-140343711.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-04_072143_Inbox_Daily AI News Digest – June 4,
   2026 (Updated).md
 content_hash: 5b7f88d6046f2f4f1400454142709435070e3537f6468645776598207836caca
@@ -19,6 +19,7 @@ entities:
 - Scale AI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Intel introduced rack-scale AI infrastructure for agentic and inference workload
 ## Connections
 
 **Entities:** [[Intel]] · [[NVIDIA]] · [[Scale AI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-to-challenge-nvidia]] · [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-at-advancing-ai-2026]] · [[2026-07-23-amd-takes-on-nvidia-with-helios-rack-scale-ai-system]] · [[2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-its-own-chip-de]] · [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu]]
 <!-- graph:end -->

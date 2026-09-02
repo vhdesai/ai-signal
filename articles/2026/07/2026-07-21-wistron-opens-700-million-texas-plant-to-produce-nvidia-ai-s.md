@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ NVIDIA says Wistron opened a 324,000-square-foot Fort Worth manufacturing plant 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-26-nvidia-weighs-250b-financing-backstop-for-openai-s-10-gigawa]] · [[2026-07-27-nvidia-in-talks-to-guarantee-250b-financing-for-openai-s-pla]] · [[2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm]] · [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]]
 <!-- graph:end -->

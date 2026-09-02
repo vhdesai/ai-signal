@@ -6,7 +6,7 @@ date: '2026-08-07'
 source: 404 Media
 url_original: https://www.404media.co/city-that-arrested-person-for-clapping-at-data-center-meeting-moves-to-virtual-townhalls-for-public-safety/
 url_canonical: https://www.404media.co/city-that-arrested-person-for-clapping-at-data-center-meeting-moves-to-virtual-townhalls-for-public-safety/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-09_060558_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 9d0cf50dfadda34016356b3e27cc183783627a4fdfea3d1b1b00ffb5cfcf6b2f
@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Emporia, Kansas held its city commission meeting virtually with no public commen
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats]] · [[2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo]] · [[2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil]] · [[2026-08-27-alabama-demands-details-from-openai-lawmakers-sound-alarm-on]]
 <!-- graph:end -->

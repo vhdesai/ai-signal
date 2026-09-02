@@ -19,6 +19,7 @@ entities:
 - DeepSeek
 themes:
 - policy-regulation
+- ma-activity
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +41,6 @@ The Pentagon added Alibaba, Baidu, and other Chinese tech companies to its CMC L
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Baidu]] · [[DeepSeek]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[M&A Activity]] · [[Global AI Race]]
 **Related:** [[2026-07-06-policy-china-us-judge-orders-pentagon-to-stop-treating-aliba]] · [[2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi]]
 <!-- graph:end -->

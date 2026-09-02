@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter
@@ -35,6 +36,6 @@ Per a Bloomberg report, Stripe has finalized a deal to acquire OpenRouter, the m
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[M&A Activity]]
 **Canonical:** [[2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter]]
 <!-- graph:end -->

@@ -21,6 +21,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -43,6 +44,6 @@ Researchers released ZAYA1-8B, a strong open reasoning model whose defining char
 ## Connections
 
 **Entities:** [[AMD]] · [[Huawei]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-01-amd-releases-instella-moe-16b-a3b-a-fully-open-moe-model-tra]] · [[2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-08-01-amd-ships-instella-moe-16b-a3b-a-fully-open-mixture-of-exper]] · [[2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri]]
 <!-- graph:end -->

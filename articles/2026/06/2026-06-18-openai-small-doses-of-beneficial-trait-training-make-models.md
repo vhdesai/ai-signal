@@ -5,7 +5,7 @@ date: '2026-06-18'
 source: OpenAI Alignment Research
 url_original: https://alignment.openai.com/beneficial-rl/
 url_canonical: https://alignment.openai.com/beneficial-rl/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-19_070001_Final-Daily-AI-News-Digest.md
 content_hash: 88b3485f7c78c89df26d2e2cd3fbf6e30c055b9cc2edb36ef5961876837bc529
 normalized_title_hash: bc749d120c22ad27

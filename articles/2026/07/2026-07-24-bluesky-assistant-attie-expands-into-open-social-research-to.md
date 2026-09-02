@@ -5,7 +5,7 @@ date: '2026-07-24'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/
 url_canonical: https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-26_060512_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: b51d590a7caa8988fb5fda8925ee8542eddd6eeed93c4c16fcde62fd4a5cd20d

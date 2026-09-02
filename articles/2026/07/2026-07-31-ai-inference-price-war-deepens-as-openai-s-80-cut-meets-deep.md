@@ -6,7 +6,7 @@ date: '2026-07-31'
 source: Forbes
 url_original: https://www.forbes.com/sites/geruiwang/2026/07/31/why-openais-80-price-cut-could-trigger-a-race-to-the-bottom-in-ai/
 url_canonical: https://www.forbes.com/sites/geruiwang/2026/07/31/why-openais-80-price-cut-could-trigger-a-race-to-the-bottom-in-ai/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-01_061707_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: a4326d6ce6d9b27b969f15376ebd01fb676163559fab3e671f6809e35a261b82

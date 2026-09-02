@@ -21,6 +21,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -43,6 +44,6 @@ Nvidia reported $81.6B in quarterly revenue, another record, with forward guidan
 ## Connections
 
 **Entities:** [[Huawei]] · [[NVIDIA]] · [[Perplexity]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say]] · [[2026-05-20-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks]] · [[2026-05-28-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks]] · [[2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value]] · [[2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki]]
 <!-- graph:end -->

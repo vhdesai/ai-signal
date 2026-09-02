@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/
 url_canonical: https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-27_065039_Final-Daily-AI-News-Digest.md
 content_hash: 0490a9cae7cba2546c07ded7210420ee220da6e0a107d3f0a60cb5b818c07a88
 normalized_title_hash: 4091e0467ce7d97f
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-amazon-triples-its-nvidia-chip-order-over-surging-demand
@@ -33,6 +34,6 @@ Announced on Nvidia's earnings call, the expanded partnership adds roughly 2 mil
 ## Connections
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-26-amazon-triples-its-nvidia-chip-order-over-surging-demand]]
 <!-- graph:end -->

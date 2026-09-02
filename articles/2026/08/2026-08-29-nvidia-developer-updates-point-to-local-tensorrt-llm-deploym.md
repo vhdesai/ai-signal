@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ NVIDIA documentation updates surfaced around TensorRT-LLM local deployment examp
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme]] · [[2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x]] · [[2026-08-18-nvidia-releases-tensorrt-model-connect-in-public-preview]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]]
 <!-- graph:end -->

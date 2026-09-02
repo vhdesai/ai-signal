@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/
 url_canonical: https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-27_061021_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 8be21185a709d82ad55d8c42c641625769cdf6d0c427cf2364132f99593c0695
@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-amazon-triples-its-nvidia-chip-order-over-surging-demand
@@ -36,6 +37,6 @@ Amazon added 2M+ Nvidia GPUs (Blackwell Ultra, Rubin, Rubin Ultra) for 2027–20
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-26-amazon-triples-its-nvidia-chip-order-over-surging-demand]]
 <!-- graph:end -->

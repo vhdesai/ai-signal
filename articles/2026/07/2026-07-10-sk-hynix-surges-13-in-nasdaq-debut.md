@@ -18,6 +18,8 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +39,6 @@ SK hynix's ADRs jumped ~13% on Nasdaq debut, opening at $170 vs $149 offer — i
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-11-sk-hynix-surges-13-in-nasdaq-debut]] · [[2026-07-09-sk-hynix-prices-u-s-listing-at-149-share-and-debuts-on-nasda]] · [[2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet]]
 <!-- graph:end -->

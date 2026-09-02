@@ -5,7 +5,7 @@ date: '2026-07-17'
 source: GeekWire**
 url_original: https://www.geekwire.com/2026/departing-aws-exec-dave-brown-is-reportedly-joining-meta-as-facebook-parent-mulls-its-own-cloud/
 url_canonical: https://www.geekwire.com/2026/departing-aws-exec-dave-brown-is-reportedly-joining-meta-as-facebook-parent-mulls-its-own-cloud/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-18_065018_Final-Daily-AI-News-Digest.md
 content_hash: f123eb13cb017f1192fedeef047cff2a8ce49273be817af00679706ae9363a92
 normalized_title_hash: 9a888b2527787f2f
@@ -21,6 +21,7 @@ entities:
 - Oracle
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Meta is hiring Dave Brown, one of AWS's most senior compute and AI executives, t
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[Oracle]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-17-meta-reportedly-plans-to-hire-a-top-amazon-computing-executi]] · [[2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c]] · [[2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal]]
 <!-- graph:end -->

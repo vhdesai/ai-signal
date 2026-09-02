@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -36,6 +37,6 @@ WSJ Pro Cybersecurity reports that the U.S. government is advancing plans to ban
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device]] · [[2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component]] · [[2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]]
 <!-- graph:end -->

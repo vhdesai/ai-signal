@@ -16,6 +16,7 @@ entities: []
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d
@@ -31,6 +32,6 @@ Isomorphic Labs — the DeepMind spinout applying AI to pharmaceutical research 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d]]
 <!-- graph:end -->

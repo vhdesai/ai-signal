@@ -20,6 +20,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ A new PitchBook analyst note argues that Stripe鈥檚 acquisition of OpenRouter 鈥
 ## Connections
 
 **Entities:** [[Anthropic]] 路 [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] 路 [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] 路 [[Corporate Moves]] 路 [[Company Investments]]
 **Related:** [[2026-08-19-stripe-to-acquire-ai-model-marketplace-openrouter]] 路 [[2026-08-20-stripe-acquires-ai-marketplace-openrouter-for-7-5-billion]] 路 [[2026-08-29-the-ipo-s-big-demotion-alternative-liquidity-paths-rise]] 路 [[2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter]]
 <!-- graph:end -->

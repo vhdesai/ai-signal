@@ -18,6 +18,7 @@ entities:
 - Meta
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Meta has acquired Assured Robot Intelligence, a small San Diego-based humanoid r
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-02-meta-has-acquired-assured-robot-intelligence-ari-a-humanoid]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]]
 <!-- graph:end -->

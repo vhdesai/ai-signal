@@ -19,6 +19,7 @@ entities:
 - TSMC
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-tsmc-develops-ai-chip-packaging-technology-to-counter-intel
@@ -35,6 +36,6 @@ The Information reported that TSMC is developing advanced chip-packaging technol
 ## Connections
 
 **Entities:** [[Intel]] · [[TSMC]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-30-tsmc-develops-ai-chip-packaging-technology-to-counter-intel]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Nvidia will report fiscal Q2 2027 earnings after the close on August 26, framed 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-09-nvidia-heads-into-q2-print-as-the-sector-s-next-repricing-ev]] · [[2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r]] · [[2026-05-20-trending-nvidia-q1-fy2027-earnings-reports-after-market-clos]] · [[2026-08-25-nvidia-q2-fy27-earnings-land-today-as-the-ai-boom-s-scorecar]] · [[2026-08-26-nvidia-reports-fiscal-q2-results-today-amid-a-sharp-pre-prin]]
 <!-- graph:end -->

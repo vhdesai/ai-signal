@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Bloomberg argues the AI buildout has been quietly insulated from Trump-era prote
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-27-u-s-weighs-broader-semiconductor-tariff-regime-covering-serv]] · [[2026-08-27-u-s-weighs-a-broader-semiconductor-tariff-regime-covering-se]] · [[2026-08-28-washington-weighs-extending-chip-tariffs-to-servers-and-fini]] · [[2026-08-28-semiconductor-tariff-phase-2-weighed-for-servers-and-laptops]] · [[2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of]]
 <!-- graph:end -->

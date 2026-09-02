@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/
 url_canonical: https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: 1e65935706032d6f857e10770810551069cc883673c2d7a2424d5ee43e26162a
@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Anthropic president Daniela Amodei pushed back on skepticism about AI investment
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-s-retu]] · [[2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but]] · [[2026-08-16-anthropic-ceo-ai-backlash-is-fundamentally-a-crisis-of-trust]] · [[2026-08-16-anthropic-ceo-dario-amodei-the-ai-backlash-is-fundamentally]] · [[2026-08-18-anthropic-prepares-supervoting-power-for-dario-amodei-as-it]]
 <!-- graph:end -->

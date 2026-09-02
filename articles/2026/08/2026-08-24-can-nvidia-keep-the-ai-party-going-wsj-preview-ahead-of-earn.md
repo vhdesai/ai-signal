@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ WSJ 10-Point leads with the question on every investor’s mind ahead of Nvidia�
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-24-wall-street-counts-on-nvidia-to-keep-the-ai-party-going-mark]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]] · [[2026-08-24-wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going]] · [[2026-05-18-wsj-markets-p-m-tomorrow-and-tomorrow-wall-street-s-pre-nvid]] · [[2026-08-22-reuters-reports-nvidia-customers-were-notified-of-ai-related]]
 <!-- graph:end -->

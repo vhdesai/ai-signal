@@ -5,7 +5,7 @@ date: '2026-09-01'
 source: Anthropic
 url_original: https://www.anthropic.com/news/enterprise-frontier-safeguards
 url_canonical: https://www.anthropic.com/news/enterprise-frontier-safeguards
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-02_065546_Final-Daily-AI-News-Digest.md
 content_hash: cfd8324c518f0732e4e49e5261cd8c82c90b6d286da56d061eeeb94ca907f0cd
 normalized_title_hash: 9acf3209ef29fddf

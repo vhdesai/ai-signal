@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ TSMC reported second‑quarter revenue of NT$1.27 trillion (~$39.6B), up 36% yea
 ## Connections
 
 **Entities:** [[TSMC]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-16-tsmc-posts-record-q2-revenue-as-ai-chip-demand-holds]] · [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-sustained-ai-c]] · [[2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand]]
 <!-- graph:end -->

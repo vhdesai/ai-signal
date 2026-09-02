@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ The Financial Times reports a record ~$200B in M&A across the U.S. power and uti
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-17-cybersecurity-m-a-heads-for-record-year-as-ai-security-start]] · [[2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline]] · [[2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-10'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/
 url_canonical: https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-10_070030_Final-Daily-AI-News-Digest.md
 content_hash: dde1ec6058b9b0a0876d8ca29d8f91fc2d93b6defeda262c9e5f937d42ab325e
 normalized_title_hash: f121473c755e25d3
@@ -16,6 +16,7 @@ entities:
 - Meta
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Meta signed its first AI data center deal in India through Reliance Industries. 
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle]] · [[2026-06-22-meta-backs-cred-in-900m-round-taps-founder-for-whatsapp-lead]]
 <!-- graph:end -->

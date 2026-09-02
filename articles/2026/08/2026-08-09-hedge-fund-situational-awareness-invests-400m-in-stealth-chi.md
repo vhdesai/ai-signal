@@ -6,7 +6,7 @@ date: '2026-08-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/
 url_canonical: https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-10_060307_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: 2ea5d230af9509ba963ccaf65a1f06100d60da773ca48ad0193b6d5ac774d79f
@@ -16,6 +16,8 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +37,6 @@ The AI-focused hedge fund Situational Awareness, itself recovering from a sharp 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-09-situational-awareness-invests-400m-in-chip-startup-source-fo]] · [[2026-08-09-situational-awareness-puts-400m-into-chip-startup-source-fou]] · [[2026-07-30-situational-awareness-hedge-fund-scrambles-for-capital-after]] · [[2026-08-05-the-high-powered-backers-of-situational-awareness-revealed]]
 <!-- graph:end -->

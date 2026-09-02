@@ -17,6 +17,8 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- ma-activity
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +39,6 @@ Meta acquired Assured Robot Intelligence, a humanoid robotics startup founded a 
 ## Connections
 
 **Entities:** [[Meta]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]] · [[2026-05-02-meta-has-acquired-assured-robot-intelligence-ari-a-humanoid]] · [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]] · [[2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse]]
 <!-- graph:end -->

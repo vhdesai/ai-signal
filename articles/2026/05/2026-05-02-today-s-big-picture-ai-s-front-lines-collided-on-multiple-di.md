@@ -23,6 +23,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -44,6 +45,6 @@ Today's big picture: AI's front lines collided on multiple dimensions in the pas
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-29-ai-stops-being-a-software-category-courts-capital-and-contra]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-07-28-nvidia-s-triple-play-china-s-largest-open-model-and-the-agen]]
 <!-- graph:end -->

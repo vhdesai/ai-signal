@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ OpenAI's $18 billion custom AI chip initiative with Broadcom — code-named Proj
 ## Connections
 
 **Entities:** [[Microsoft]] · [[OpenAI]] · [[TSMC]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-21-broadcom-seeks-up-to-80-billion-in-debt-for-an-ai-chip-finan]] · [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70b-in-debt-for-ai-chip]] · [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a]] · [[2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent]] · [[2026-08-21-broadcom-seeks-60-80b-in-debt-to-build-ai-chip-capacity-for]]
 <!-- graph:end -->

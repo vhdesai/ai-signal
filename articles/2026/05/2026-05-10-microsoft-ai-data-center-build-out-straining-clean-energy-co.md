@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Microsoft is having internal discussions about whether to delay or scale back it
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-06-22-microsoft-signs-20-year-power-deal-with-chevron-for-west-tex]] · [[2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]] · [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/
 url_canonical: https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-31_061901_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: 6ad9d11b1a1af1d21e25e4af3737d8aead4e58a1523bcb27c0c1cf0eba654f24
@@ -16,6 +16,7 @@ entities: []
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Simile, which builds AI “synthetic users” to simulate customer and product r
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-30-synthetic-user-startup-simile-raises-200m-series-b-at-2b-val]] · [[2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c]] · [[2026-07-30-simile-raises-200m-at-a-2b-valuation-to-simulate-8-billion-p]] · [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]]
 <!-- graph:end -->

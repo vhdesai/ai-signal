@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-anthropic-signs-35-billion-compute-deal-with-nvidia-backed-l
@@ -34,6 +35,6 @@ Anthropic agreed to a roughly $35 billion computing arrangement with Lambda cove
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-31-anthropic-signs-35-billion-compute-deal-with-nvidia-backed-l]]
 <!-- graph:end -->

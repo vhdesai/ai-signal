@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: Forbes
 url_original: https://www.forbes.com/sites/robertszczerba/2026/07/13/did-meta-signal-the-ai-boom-is-overbuilt-wall-street-cheered-anyway/
 url_canonical: https://www.forbes.com/sites/robertszczerba/2026/07/13/did-meta-signal-the-ai-boom-is-overbuilt-wall-street-cheered-anyway/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-14_061758_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 0fef5d6503118eb7431481523f7d1363d4f69eaea74fe66ff3f428f7d06a1d3f
@@ -17,6 +17,8 @@ entities:
 - Meta
 themes:
 - datacenter-infrastructure
+- ma-activity
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +38,6 @@ Forbes examined an apparent contradiction in Meta’s recent moves: the company 
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-01-meta-moves-to-sell-excess-ai-compute-through-a-new-cloud-bus]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]]
 <!-- graph:end -->

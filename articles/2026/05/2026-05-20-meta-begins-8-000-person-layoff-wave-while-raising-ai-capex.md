@@ -18,6 +18,7 @@ entities:
 - Meta
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Meta started notifying employees of roughly 8,000 layoffs — about 10% of its 7
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun]] · [[2026-05-22-meta-began-notifying-approximately-8-000-employees-of-layoff]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]]
 <!-- graph:end -->

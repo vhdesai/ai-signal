@@ -19,6 +19,9 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- ma-activity
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +43,6 @@ SpaceX officially filed its S-1 prospectus to list on Nasdaq under ticker SPCX, 
 ## Connections
 
 **Entities:** [[Perplexity]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]] · [[2026-06-12-spacex-ipo-75b-raise-at-1-75t-musk-becomes-world-s-first-tri]] · [[2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b]] · [[2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona]] · [[2026-06-11-spacex-officially-prices-75b-ipo-at-135-share-market-debut-t]]
 <!-- graph:end -->

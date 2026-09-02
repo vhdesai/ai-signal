@@ -23,6 +23,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -45,6 +46,6 @@ Today's biggest themes: The AI enterprise land-grab intensified dramatically —
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[DeepSeek]] · [[Huawei]] · [[NVIDIA]] · [[OpenAI]] · [[Palantir]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]]
 <!-- graph:end -->

@@ -19,6 +19,8 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai
@@ -37,7 +39,7 @@ Nvidia is backing roughly $105 billion of lease financing and taking a $1.5 bill
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai]]
 **Related:** [[2026-08-17-nvidia-invests-1-5b-in-softbank-data-center-developer-offers]] · [[2026-08-17-openai-locks-in-10-gigawatt-ohio-data-center-lease-with-nvid]]
 <!-- graph:end -->

@@ -32,6 +32,7 @@ entities:
 - xAI
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -49,6 +50,6 @@ Reuters stitches together the close of Magnificent Seven earnings with Nvidia as
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Cerebras]] · [[Google]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Tencent]] · [[xAI]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]]
 <!-- graph:end -->

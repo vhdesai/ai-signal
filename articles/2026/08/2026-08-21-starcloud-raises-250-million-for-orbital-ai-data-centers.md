@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/
 url_canonical: https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_060601_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 412b538f0e6b4c87b72cec07dbe67bd503866ff9eb93eac6487e9e6081ce5168
@@ -15,6 +15,8 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-starcloud-adds-250-million-for-orbital-ai-data-centers
@@ -30,6 +32,6 @@ Starcloud raised a $250 million extension to its Series A, valuing the orbital d
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-21-starcloud-adds-250-million-for-orbital-ai-data-centers]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +41,6 @@ The frontier race accelerated sharply. OpenAI opened GPT-5.6 to the public and l
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-07-06-daily-ai-news-digest-july-8-2026]] · [[2026-07-09-daily-ai-news-digest-july-10-2026]] · [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi]] · [[2026-07-11-daily-ai-news-digest-july-12-2026]]
 <!-- graph:end -->

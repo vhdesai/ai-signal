@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Nvidia is in talks to invest in Cloverleaf Infrastructure, a data center power d
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-21-nvidia-takes-a-minority-stake-in-data-center-developer-clove]] · [[2026-08-21-nvidia-invests-hundreds-of-millions-in-data-center-power-dev]] · [[2026-08-21-nvidia-partners-with-data-center-developer-cloverleaf-infras]] · [[2026-08-21-nvidia-partners-with-cloverleaf-infrastructure-for-data-cent]] · [[2026-08-21-nvidia-partners-with-data-center-developer-cloverleaf]]
 <!-- graph:end -->

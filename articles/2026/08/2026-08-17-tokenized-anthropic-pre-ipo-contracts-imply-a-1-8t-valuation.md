@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Anthropic-linked pre-IPO contracts traded near the $1,800 level, implying a valu
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]] · [[2026-08-26-anthropic-to-pitch-investors-on-a-30-trillion-addressable-ma]] · [[2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast]]
 <!-- graph:end -->

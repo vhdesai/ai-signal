@@ -5,7 +5,7 @@ date: '2026-05-29'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/snowflake-targets-ai-agent-adoption-aws/821393/
 url_canonical: https://www.ciodive.com/news/snowflake-targets-ai-agent-adoption-aws/821393/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-29_075823_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: e4a2a7f369a9a0fe27075e38edde8bd40aafc9bd6637e92adfc77e9d7b3e50a4
@@ -18,6 +18,7 @@ entities:
 - Snowflake
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Snowflake is pushing toward the “agentic enterprise” with expanded AWS commi
 ## Connections
 
 **Entities:** [[Amazon]] · [[Snowflake]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo]] · [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]]
 <!-- graph:end -->

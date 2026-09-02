@@ -19,6 +19,7 @@ entities:
 - Microsoft
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-03-estimates-above-1-trillion-in-hyperscaler-capex-for-2027-und
@@ -35,6 +36,6 @@ Yahoo Finance reports Goldman Sachs analysis estimating 2027 hyperscaler capital
 ## Connections
 
 **Entities:** [[Meta]] · [[Microsoft]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-03-estimates-above-1-trillion-in-hyperscaler-capex-for-2027-und]]
 <!-- graph:end -->

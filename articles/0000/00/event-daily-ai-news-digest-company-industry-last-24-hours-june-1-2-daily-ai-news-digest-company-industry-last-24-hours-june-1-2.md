@@ -5,8 +5,8 @@ title: 'Daily AI News Digest — Company & Industry (Last 24 Hours: June 1–2, 
 date: null
 source: 'Daily AI News Digest — Company & Industry (Last 24 Hours: June 1–2, 2026)'
 url_original: null
-url_canonical: https://toolscompare.ai/news/june-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\ai-news-digest-2026-06-02-2.md
 content_hash: ca39762e6e4811609feb872e54ad21419ca5525aeeef325e3c102a2bc1dae645
 normalized_title_hash: 21591d254ea68be4
@@ -21,6 +21,8 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -43,6 +45,6 @@ This pass covers AI company and industry news confirmed published within the las
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-29-daily-ai-news-digest-august-30-2026]] · [[2026-08-17-daily-ai-news-digest-august-18-2026]]
 <!-- graph:end -->

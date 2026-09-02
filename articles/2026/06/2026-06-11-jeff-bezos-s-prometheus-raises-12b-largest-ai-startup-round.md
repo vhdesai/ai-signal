@@ -5,7 +5,7 @@ date: '2026-06-11'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/
 url_canonical: https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-13_160159_Final-Daily-AI-News-Digest.md
 content_hash: 30f2e39aab2ce2324b35627a5af92049975a44c2bf35e35f94021b49f25d3c17
 normalized_title_hash: 6e0c7fac413b084a
@@ -16,6 +16,7 @@ entities:
 - DeepSeek
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +39,6 @@ Bezos-backed Prometheus raised $12 billion to build autonomous systems for desig
 ## Connections
 
 **Entities:** [[DeepSeek]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-06-11-jeff-bezos-s-prometheus-raises-12b-to-build-an-artificial-ge]] · [[2026-05-05-global-startup-funding-doubled-year-over-year-to-56b-in-apri]] · [[2026-05-09-global-venture-funding-reached-56-billion-in-april-2026-the]] · [[2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc]] · [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou]]
 <!-- graph:end -->

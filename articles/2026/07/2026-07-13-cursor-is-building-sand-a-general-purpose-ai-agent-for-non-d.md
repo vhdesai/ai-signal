@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: TweakTown
 url_original: https://www.tweaktown.com/news/112601/cursor-builds-ai-agent-sand-to-rival-anthropics-claude-cowork/index.html
 url_canonical: https://www.tweaktown.com/news/112601/cursor-builds-ai-agent-sand-to-rival-anthropics-claude-cowork/index.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-13_060615_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: fae5d5c29b6a226836d4c66e66ed5edb42a8a478a4d144499a8fbe2d9918300b

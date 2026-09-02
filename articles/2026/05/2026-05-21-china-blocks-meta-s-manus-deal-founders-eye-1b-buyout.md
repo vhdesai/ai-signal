@@ -17,6 +17,7 @@ entities:
 - Meta
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -36,7 +37,7 @@ Manus co-founders Xiao Hong, Ji Yichao, and Zhang Tao are exploring options to f
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
 **Canonical:** [[2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek]]
 **Related:** [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]] · [[2026-08-13-manus-resumes-independence-after-beijing-blocks-meta-acquisi]]
 <!-- graph:end -->

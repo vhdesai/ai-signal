@@ -18,6 +18,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Noam Shazeer, co-author of the foundational 2017 "Attention Is All You Need" pap
 ## Connections
 
 **Entities:** [[Google]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-17-noam-shazeer-transformer-co-inventor-and-gemini-co-lead-leav]] · [[2026-06-18-noam-shazeer-leaves-google-gemini-for-openai]] · [[2026-06-17-daily-ai-news-digest-june-18-2026]] · [[2026-08-12-google-s-new-ai-boss-inherits-a-race-to-catch-openai-and-ant]]
 <!-- graph:end -->

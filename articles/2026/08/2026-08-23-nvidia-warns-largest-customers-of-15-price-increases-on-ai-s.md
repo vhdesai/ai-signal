@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: Reuters
 url_original: https://finance.yahoo.com/technology/ai/articles/nvidia-customers-warned-ai-related-180912617.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-customers-warned-ai-related-180912617.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_062105_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 573a7d54ccfb7cb986fef7496651617163c6218613e4e12ac5e91f262caafb61
@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Several of Nvidia's largest customers have been told that prices for servers con
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs]] · [[2026-08-22-nvidia-customers-reportedly-warned-about-ai-related-price-hi]]
 <!-- graph:end -->

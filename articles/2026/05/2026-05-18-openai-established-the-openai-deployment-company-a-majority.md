@@ -18,6 +18,8 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +40,6 @@ OpenAI established the OpenAI Deployment Company, a majority-controlled venture 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]] · [[2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult]] · [[2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money]] · [[2026-05-11-openai-launches-4b-deployco-ai-services-venture]]
 <!-- graph:end -->

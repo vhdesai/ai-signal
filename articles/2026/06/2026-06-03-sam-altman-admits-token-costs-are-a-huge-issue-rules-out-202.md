@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Sam Altman publicly acknowledged AI token costs are becoming “a huge issue,”
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra]] · [[2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]] · [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man]]
 <!-- graph:end -->

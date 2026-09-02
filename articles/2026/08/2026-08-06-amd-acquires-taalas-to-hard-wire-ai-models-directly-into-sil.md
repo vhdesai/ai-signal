@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ AMD agreed to acquire Taalas, a Toronto startup that builds custom chips around 
 ## Connections
 
 **Entities:** [[AMD]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]]
 **Related:** [[2026-08-06-amd-acquires-taalas-to-hardwire-models-into-silicon]] · [[2026-08-06-amd-acquires-taalas-to-hard-wire-ai-models-into-lower-cost-i]] · [[2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon]] · [[2026-07-23-amd-takes-on-nvidia-with-helios-rack-scale-ai-system]] · [[2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in]]
 <!-- graph:end -->

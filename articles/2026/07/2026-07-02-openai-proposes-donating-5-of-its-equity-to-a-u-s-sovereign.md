@@ -5,7 +5,7 @@ date: '2026-07-02'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/
 url_canonical: https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-03_062557_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: 1ab95afc6aef6650152888330d0f332abd1e4912018a87a722f5e74ed8dc157d
@@ -16,6 +16,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Sam Altman has proposed giving 5% of OpenAI's equity to a U.S. sovereign wealth 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]]
 **Related:** [[2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-07-02-openai-floats-giving-the-u-s-government-a-5-stake-42-6b]]
 <!-- graph:end -->

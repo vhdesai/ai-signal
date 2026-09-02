@@ -21,6 +21,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Agent 365 for local agents / Windows 365 for Agents: Control plane and managed C
 ## Connections
 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy]] · [[event-microsoft-build-2026-microsoft-build-2026-overview]]
 <!-- graph:end -->

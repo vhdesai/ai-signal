@@ -6,7 +6,7 @@ date: '2026-08-03'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/
 url_canonical: https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-04_061719_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 0e07172fecbd32b99ed55a3ea4013937cd0d95056fbba7f0d269719be8ffa171
@@ -18,6 +18,7 @@ entities:
 - Amazon
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ TechCrunch reports that AWS signed a multiyear joint marketing agreement with Su
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-03-6-aws-embeds-vibe-coding-startup-superblocks-inside-private]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]] · [[2026-08-03-a-35-billion-tranche-dramatically-raises-the-ceiling-for-pla]] · [[2026-08-06-aws-integrates-openai-codex-and-anthropic-claude-code-with-t]]
 <!-- graph:end -->

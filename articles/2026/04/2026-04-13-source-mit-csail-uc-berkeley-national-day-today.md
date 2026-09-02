@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ HOTStanford 2026 AI Index: Adoption at 88%, Public-Expert Divide Reaches Crisis 
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-04-13-stanford-hai-2026-ai-index-us-china-gap-nearly-closed-ai-inc]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]] · [[2026-05-22-stanford-hai-2026-ai-index-capability-not-plateauing-adoptio]]
 <!-- graph:end -->

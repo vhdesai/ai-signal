@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-26-nvidia-weighs-roughly-250b-financing-backstop-for-openai-s-o
@@ -36,7 +37,7 @@ Nvidia is reportedly in talks to guarantee about $250 billion in financing for O
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-26-nvidia-weighs-roughly-250b-financing-backstop-for-openai-s-o]]
 **Related:** [[2026-07-27-nvidia-in-talks-to-guarantee-250b-in-financing-for-openai-s]] · [[2026-07-27-nvidia-in-talks-to-guarantee-250b-financing-for-openai-s-pla]]
 <!-- graph:end -->

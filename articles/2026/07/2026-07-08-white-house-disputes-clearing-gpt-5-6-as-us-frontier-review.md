@@ -6,7 +6,7 @@ date: '2026-07-08'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/08/openai-gets-us-regulatory-approval-for-gpt-5point6-rollout-axios-report.html
 url_canonical: https://www.cnbc.com/2026/07/08/openai-gets-us-regulatory-approval-for-gpt-5point6-rollout-axios-report.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-09_083415_Inbox_Fw Daily AI News Digest - July
   9, 2026.md
 content_hash: 2beb324cdbcadf14ba4cccaa14a876ee383c6407d48886a594a58214e6f62717
@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-u-s-frontier-model
@@ -33,6 +34,6 @@ Axios reported Commerce cleared OpenAI's GPT-5.6, but the White House told CNBC 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-u-s-frontier-model]]
 <!-- graph:end -->

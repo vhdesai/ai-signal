@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/08/20/ai-workload-optimization-startup-callosum-raises-100m/
 url_canonical: https://siliconangle.com/2026/08/20/ai-workload-optimization-startup-callosum-raises-100m/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_061353_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 77d84c851f16d386149ed9df476d461aecc569723d7cc3807aa222b0760e17b9
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -32,6 +33,6 @@ London-based Callosum announced a $100 million seed round led by Atomico, with p
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Related:** [[2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud]] · [[2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics]]
 <!-- graph:end -->

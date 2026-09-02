@@ -16,6 +16,7 @@ entities:
 - ByteDance
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +39,6 @@ ByteDance is discussing 2026 AI capital expenditure of as much as $70B (400-500B
 ## Connections
 
 **Entities:** [[ByteDance]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]]
 <!-- graph:end -->

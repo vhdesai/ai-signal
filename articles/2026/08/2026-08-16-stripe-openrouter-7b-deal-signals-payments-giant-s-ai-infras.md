@@ -18,6 +18,9 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- ma-activity
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter
@@ -33,6 +36,6 @@ event_name: ''
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter]]
 <!-- graph:end -->

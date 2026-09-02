@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for
@@ -33,6 +34,6 @@ PitchBook has published an analyst deep-dive on Nvidia's $500 billion financing 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]]
 <!-- graph:end -->

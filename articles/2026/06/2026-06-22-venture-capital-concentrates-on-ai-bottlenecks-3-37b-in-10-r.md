@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Nearly $3B of the day's ~$3.4B went to four infrastructure-layer deals: Baseten 
 ## Connections
 
 **Entities:** [[Meta]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Related:** [[2026-07-25-corporate-capital-is-concentrating-the-u-s-ai-startup-market]] · [[2026-07-30-top-ai-venture-portfolios-reach-7-trillion-as-market-concent]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]]
 <!-- graph:end -->

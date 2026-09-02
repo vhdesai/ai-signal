@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: ICRA 2026
 url_original: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
 url_canonical: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
-url_status: broken
+url_status: found
 digest_source: digests\raw\icra-2026.md
 content_hash: 6e9924ba3f92cb33e43aec5f25e932582800bfed12eb95fed0644b885dc51a86
 normalized_title_hash: 5d871d36149c9230
@@ -17,6 +17,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ ICRA coverage highlights the need for better perception pipelines and manipulati
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[event-icra-2026-icra-2026-nvidia-research-robotics-papers]] · [[event-icra-2026-icra-2026-overview]] · [[event-icra-2026-icra-2026-multi-task-policy-learning]] · [[event-icra-2026-icra-2026-strategic-implications]]
 <!-- graph:end -->

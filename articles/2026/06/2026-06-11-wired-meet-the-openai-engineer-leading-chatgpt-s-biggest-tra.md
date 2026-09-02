@@ -5,7 +5,7 @@ date: '2026-06-11'
 source: Wired
 url_original: https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/
 url_canonical: https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-12_070109_Final-Daily-AI-News-Digest.md
 content_hash: 3f30929325e79137141d5e798d499975746baef16fc5a4efe73b01514a3a1e28
 normalized_title_hash: 0b5de3ca84e1751f
@@ -16,6 +16,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Wired profiled Tibo Sottiaux, leading the Codex-to-ChatGPT "superapp" integratio
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo]] · [[2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]]
 <!-- graph:end -->

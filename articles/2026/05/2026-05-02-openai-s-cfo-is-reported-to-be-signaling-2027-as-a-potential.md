@@ -16,6 +16,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ OpenAI's CFO is reported to be signaling 2027 as a potential IPO window while th
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-08-14-openai-s-annualized-revenue-run-rate-tops-40-billion-ahead-o]] · [[2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo]] · [[2026-05-22-openai-files-confidential-ipo-targeting-1-trillion-valuation]]
 <!-- graph:end -->

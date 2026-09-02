@@ -24,6 +24,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -45,6 +46,6 @@ Stanford's landmark 2026 AI Index documents that AI capability is accelerating, 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
 **Related:** [[2026-05-20-stanford-2026-ai-index-us-china-gap-down-to-2-7-swe-bench-hi]] · [[2026-05-22-stanford-hai-releases-2026-ai-index-u-s-china-performance-ga]] · [[2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai]] · [[2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7]]
 <!-- graph:end -->

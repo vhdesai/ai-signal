@@ -6,7 +6,7 @@ date: '2026-05-31'
 source: CNBC*
 url_original: https://www.cnbc.com/2026/05/31/us-takes-step-to-halt-nvidia-ai-chip-shipments-to-chinese-firms-outside-china.html
 url_canonical: https://www.cnbc.com/2026/05/31/us-takes-step-to-halt-nvidia-ai-chip-shipments-to-chinese-firms-outside-china.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-31_163732_Daily-AI-News-Digest.md
 content_hash: 3d0cf6b37f946e78b250dad9cdfe79de699f99b3883057e63cbbf2ef29131e6b
 normalized_title_hash: 0fcaf0e63fad9d27
@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -41,6 +42,6 @@ The Commerce Department took steps to extend export controls to cover advanced A
 ## Connections
 
 **Entities:** [[AMD]] · [[NVIDIA]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-06-29-with-u-s-export-controls-limiting-nvidia-s-advanced-chips-in]] · [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]] · [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta]]
 <!-- graph:end -->

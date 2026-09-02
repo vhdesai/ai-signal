@@ -5,8 +5,8 @@ title: San Francisco-based Arcee AI (30 employees) released Trinity-Large-Thinki
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://datanorth.ai/news/arcee-ai-releases-trinity-large-thinking-open-source
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: 7cd5b93fd3ed892ae1213b8927e1a298b579c22fdd9973dde194a18539f54b25
@@ -23,6 +23,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -45,6 +46,6 @@ San Francisco-based Arcee AI (30 employees) released Trinity-Large-Thinking, a 3
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Google]] · [[Meta]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-27-daily-ai-news-digest-july-28-2026]] · [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI+balance+sheet+IPO
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI+balance+sheet+IPO
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-22_085442_Final-Daily-AI-News-Digest.md
 content_hash: 65af4c987768b86d522a1e2fbe19b30a74e763b021d2890be27f7ec886d43ea5
 normalized_title_hash: 4d1be11fe5bef068
@@ -18,6 +18,8 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +40,6 @@ The Information reviewed OpenAI's financial statements and found a company that 
 ## Connections
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-22-openai-s-light-balance-sheet-faces-scrutiny-ahead-of-ipo]] · [[2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total]] · [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]] · [[2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in]]
 <!-- graph:end -->

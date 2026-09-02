@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: Reuters
 url_original: https://www.aol.com/articles/ai-chip-startup-sambanova-valued-102253000.html
 url_canonical: https://www.aol.com/articles/ai-chip-startup-sambanova-valued-102253000.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-09_062747_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: eaf4cb121091a13bafe7f02fd9be2277c77ea6e70d094644720cc92bdbc6912f
@@ -18,6 +18,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc
@@ -34,6 +35,6 @@ AI chip startup SambaNova said it raised $1 billion in a Series F led by General
 ## Connections
 
 **Entities:** [[Intel]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc]]
 <!-- graph:end -->

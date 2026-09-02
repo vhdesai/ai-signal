@@ -17,6 +17,7 @@ entities:
 - Mistral
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ At its first annual conference in Paris, Mistral formally launched a physics-awa
 ## Connections
 
 **Entities:** [[Mistral]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands]] · [[2026-05-22-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-e]] · [[2026-05-20-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-l]] · [[2026-05-19-hot-mistral-ai-acquires-emmi-ai-building-europe-s-leading-in]]
 <!-- graph:end -->

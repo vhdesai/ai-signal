@@ -18,6 +18,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a
@@ -34,6 +36,6 @@ TechCrunch tallied 14+ senior exits since January, including the COO, CRO, CMO, 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a]]
 <!-- graph:end -->

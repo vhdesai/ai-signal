@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: TechCrunch; Forbes
 url_original: https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/
 url_canonical: https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
 content_hash: 07ed79cedb85582346f6f45ab4bbb3bde52594f53f7f56deee6f797e98e99834
@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ AirTrunk committed $30B+ to build 5GW of AI data center capacity in India by 203
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-06-google-s-15b-india-ai-data-center-faces-water-and-wildlife-o]] · [[2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud]] · [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-05-19-microsoft-india-s-largest-data-center-on-track-for-mid-2026]] · [[2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers]]
 <!-- graph:end -->

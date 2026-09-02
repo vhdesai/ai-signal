@@ -5,7 +5,7 @@ date: '2026-07-07'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/07/amazon-bond-sale-ai-debt.html
 url_canonical: https://www.cnbc.com/2026/07/07/amazon-bond-sale-ai-debt.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-09_061826_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 6debbdd851170052ba91de3ed5c5d61897319635b37487f3406d4570c1e8b251
@@ -16,6 +16,7 @@ entities:
 - Amazon
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure
@@ -32,6 +33,6 @@ Amazon is raising at least $25 billion through an eight-part bond sale to suppor
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure]]
 <!-- graph:end -->

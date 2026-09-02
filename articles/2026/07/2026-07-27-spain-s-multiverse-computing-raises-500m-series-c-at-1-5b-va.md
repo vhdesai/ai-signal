@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: EU-Startups
 url_original: https://www.eu-startups.com/2026/07/spains-multiverse-computing-hits-unicorn-status-after-raising-e500-million-series-c-at-e1-5-billion-valuation/
 url_canonical: https://www.eu-startups.com/2026/07/spains-multiverse-computing-hits-unicorn-status-after-raising-e500-million-series-c-at-e1-5-billion-valuation/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-27_062053_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: f5c4bc539a8b7a462455c6d62ad1304fb16d2c8eb58bce4141c55ac0875b4a0d
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio
@@ -30,6 +31,6 @@ Multiverse Computing closed a €500M (~$570M) Series C at a €1.5B (~$1.7B) va
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio]]
 <!-- graph:end -->

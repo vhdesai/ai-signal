@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-sb-energy-granted-openai-5-5b-in-warrants-to-secure-a-20-yea
@@ -34,6 +35,6 @@ Draft IPO documents reviewed by the Journal show SoftBank subsidiary SB Energy g
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Canonical:** [[2026-08-31-sb-energy-granted-openai-5-5b-in-warrants-to-secure-a-20-yea]]
 <!-- graph:end -->

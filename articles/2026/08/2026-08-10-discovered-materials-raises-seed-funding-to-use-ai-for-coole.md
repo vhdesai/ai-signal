@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/
 url_canonical: https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-11_060740_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: fc9fa93f81a30910468bd7d9ed76e336fffc6b7126d6bcd017b16218bd7e0e5a
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co
@@ -35,7 +36,7 @@ Discovered Materials raised a $9 million seed round to use swarms of AI agents a
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Canonical:** [[2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co]]
 **Related:** [[2026-08-10-discovered-materials-applies-ai-to-the-search-for-cooler-run]] · [[2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c]] · [[2026-08-03-cuspai-illustrates-how-capital-is-spreading-into-the-physica]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-02'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html
 url_canonical: https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-05_062627_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 193dc1750723373eadd0c68a7b7157f403f1e4da0f3468ae622b6dac4d1a1958
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-02-openai-floats-giving-the-u-s-government-a-5-stake-42-6b
@@ -34,6 +35,6 @@ OpenAI has proposed giving the US government a roughly 5% equity stake — worth
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-07-02-openai-floats-giving-the-u-s-government-a-5-stake-42-6b]]
 <!-- graph:end -->

@@ -16,6 +16,7 @@ entities:
 - Anthropic
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -33,6 +34,6 @@ Forbes published a geopolitical analysis arguing that AI competition is fundamen
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race-europe-mus]]
 <!-- graph:end -->

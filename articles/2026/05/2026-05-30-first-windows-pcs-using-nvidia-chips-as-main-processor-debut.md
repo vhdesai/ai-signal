@@ -5,7 +5,7 @@ date: '2026-05-30'
 source: Axios
 url_original: https://www.axios.com/2026/05/30/nvidia-microsoft-pcs-ai-surface-dell
 url_canonical: https://www.axios.com/2026/05/30/nvidia-microsoft-pcs-ai-surface-dell
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-31_163748_Daily-AI-News-Digest.md
 content_hash: 2345bccc183825760174b61d07941e7367d28e62a981a252d1ffd54b24827f14
 normalized_title_hash: 4a3131c6e9c674f5
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Nvidia and Microsoft are set to introduce the first Windows PCs that use an Nvid
 ## Connections
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc]] · [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]] · [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]]
 <!-- graph:end -->

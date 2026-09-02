@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ PitchBook's Q2 2026 US VC Valuations Report highlights that capital concentratio
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat]] · [[2026-07-25-corporate-capital-is-concentrating-the-u-s-ai-startup-market]] · [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]]
 <!-- graph:end -->

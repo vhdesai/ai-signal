@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Nvidia has reportedly agreed to buy Hugging Face for ~$12.9B. The deal would giv
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[M&A Activity]]
 **Related:** [[2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b]] · [[2026-08-27-nvidia-nears-12-9b-acquisition-of-hugging-face]] · [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion]] · [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-a-reported-12-9-billio]] · [[2026-08-27-nvidia-closes-in-on-12-9b-hugging-face-acquisition]]
 <!-- graph:end -->

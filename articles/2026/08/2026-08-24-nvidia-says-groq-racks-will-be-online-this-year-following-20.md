@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/24/nvidia-says-groq-racks-will-be-online-this-year-after-20-billion-deal.html
 url_canonical: https://www.cnbc.com/2026/08/24/nvidia-says-groq-racks-will-be-online-this-year-after-20-billion-deal.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-26_065442_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: e5d256f7a1648364a51bb00e13a38295d34e134360da25bd0441fe33d0d11e7c
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Systems built on Groq’s inference silicon will reach customers before year-end
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti]] · [[2026-06-23-groq-confirms-650m-funding-round]]
 <!-- graph:end -->

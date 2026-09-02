@@ -20,6 +20,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -42,6 +43,6 @@ Reuters / The Information • April 18–19, 2026 DeepSeek is targeting a $300M 
 ## Connections
 
 **Entities:** [[Cerebras]] · [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]] · [[2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe]] · [[2026-07-15-deepseek-nears-500m-revenue-raises-at-74b-and-preps-a-shangh]] · [[2026-07-13-deepseek-in-talks-to-raise-fresh-funds-at-a-71b-valuation]] · [[2026-06-03-deepseek-prepares-7-billion-maiden-fundraise]]
 <!-- graph:end -->

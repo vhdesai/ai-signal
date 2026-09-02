@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +34,6 @@ Zenity closed a $125 million Series C led by Norwest to expand its platform for 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-04-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]] · [[2026-08-03-15-zenity-raises-125m-series-c-for-agent-governance]] · [[2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-08-22'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/
 url_canonical: https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_060907_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: eaa85f8c51727e7d9e1d1f3c596838eebc6527ba548258f842b6961703970990

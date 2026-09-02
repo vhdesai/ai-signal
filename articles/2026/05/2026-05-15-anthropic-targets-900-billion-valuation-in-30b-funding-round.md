@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f
@@ -37,7 +38,7 @@ Anthropic is in advanced discussions to raise approximately $30 billion at a val
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f]]
 **Related:** [[2026-05-17-reports-indicate-anthropic-is-in-final-stages-of-a-funding-r]]
 <!-- graph:end -->

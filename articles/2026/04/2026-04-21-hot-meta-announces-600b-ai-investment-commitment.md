@@ -19,6 +19,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Meta unveiled a $600B AI investment plan anchored by its new Muse Spark model, p
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-20-meta-releases-muse-spark-model-amid-restructuring]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]] · [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1]] · [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai]] · [[2026-07-10-meta-opens-muse-spark-1-1-its-first-paid-ai-api-at-cut-rate]]
 <!-- graph:end -->

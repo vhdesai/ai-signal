@@ -19,6 +19,8 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +42,6 @@ Meta's AI glasses remain controversial despite head of Instagram Adam Mosseri's 
 ## Connections
 
 **Entities:** [[Google]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]] · [[2026-08-16-why-people-aren-t-buying-mark-zuckerberg-s-ai-future-and-whe]] · [[2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court]] · [[2026-08-16-techcrunch-analysis-why-people-aren-t-buying-zuckerberg-s-ai]] · [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature]]
 <!-- graph:end -->

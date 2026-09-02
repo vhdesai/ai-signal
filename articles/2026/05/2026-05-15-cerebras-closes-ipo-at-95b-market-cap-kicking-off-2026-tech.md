@@ -5,7 +5,7 @@ date: '2026-05-15'
 source: Cerebras IR
 url_original: https://www.usatoday.com/story/money/2026/05/19/meta-ai-layoffs-may-20/90164481007/
 url_canonical: https://www.usatoday.com/story/money/2026/05/19/meta-ai-layoffs-may-20/90164481007/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: aa2b9d1a557f5cd3e99ce1480569aecef919ad6cecc95fecb324283413461675
@@ -17,6 +17,8 @@ entities:
 - Databricks
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr
@@ -35,7 +37,7 @@ Cerebras Systems closed its IPO at $311.07 — up 68% from the $185 offer price 
 ## Connections
 
 **Entities:** [[Cerebras]] · [[Databricks]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr]]
 **Related:** [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]] · [[2026-05-14-cerebras-systems-prices-largest-us-ipo-of-2026-at-56-4b-valu]]
 <!-- graph:end -->

@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Baseten is reportedly in talks to raise at an $11 billion valuation, while Orbit
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains]] · [[2026-06-18-baseten-closes-1-5b-round-at-up-to-13b-valuation-as-open-sou]] · [[2026-05-27-orbital-industries-raises-50m-series-b-for-ai-discovered-exo]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-08-21-starcloud-raises-250-million-for-orbital-ai-data-centers]]
 <!-- graph:end -->

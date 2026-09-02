@@ -18,6 +18,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
@@ -34,6 +36,6 @@ Nvidia's aggressive strategy of financing the entire AI supply chain — taking 
 ## Connections
 
 **Entities:** [[Intel]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
 <!-- graph:end -->

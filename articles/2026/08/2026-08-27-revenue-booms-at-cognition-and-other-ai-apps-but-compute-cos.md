@@ -6,7 +6,7 @@ date: '2026-08-27'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Cognition+revenue+compute+costs
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Cognition+revenue+compute+costs
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-28_065040_Final-Daily-AI-News-Digest.md
 content_hash: 4d8f55adb1103348ce360dd83518da7daac1f584a65615a54694db0f725885fb
 normalized_title_hash: 3ecf9207c19677a4

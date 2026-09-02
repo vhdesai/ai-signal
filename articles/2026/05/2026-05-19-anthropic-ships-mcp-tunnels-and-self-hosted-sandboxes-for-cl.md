@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: 9to5Mac
 url_original: https://9to5mac.com/2026/05/19/anthropic-enhances-claude-managed-agents-with-two-new-privacy-and-security-features/
 url_canonical: https://9to5mac.com/2026/05/19/anthropic-enhances-claude-managed-agents-with-two-new-privacy-and-security-features/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 27ce62720fb9687f195412c5693c05baef49926cdd6285c76f8ecba3648f791e

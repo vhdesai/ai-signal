@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/
 url_canonical: https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-30_060904_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: bb684226cb7e7c36a3302e62027ab74e06ff83c109f08e697c6235deb6daf1f7
@@ -16,6 +16,7 @@ entities:
 - Meta
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Zuckerberg also told investors that Meta sees a broader enterprise AI opportunit
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey]] · [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag]] · [[2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]]
 <!-- graph:end -->

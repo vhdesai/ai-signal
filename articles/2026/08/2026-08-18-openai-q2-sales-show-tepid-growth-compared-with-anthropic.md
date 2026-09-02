@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ OpenAI's revenue grew much slower than Anthropic's last quarter, disappointing i
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-18-openai-s-q2-revenue-growth-lags-anthropic-as-margins-worsen]] · [[2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu]] · [[2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]]
 <!-- graph:end -->

@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ The European Central Bank published a blog post warning that a market correction
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-17-reuters-reports-ecb-blog-predicts-an-ai-market-correction]] · [[2026-08-14-michael-burry-warns-ai-capex-resembles-dot-com-and-housing-b]] · [[2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv]] · [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]]
 <!-- graph:end -->

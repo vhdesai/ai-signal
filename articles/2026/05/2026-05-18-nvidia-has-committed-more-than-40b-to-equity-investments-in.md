@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Nvidia has committed more than $40B to equity investments in AI companies in 202
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]]
 <!-- graph:end -->

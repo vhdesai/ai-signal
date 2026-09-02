@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Axios
 url_original: https://aiweekly.co/ai-news-today
 url_canonical: https://aiweekly.co/ai-news-today
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_060214_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: f996fd734c13c1001823e40fba4453529f3b2c2d76890f64b5b4cdbfa06e4ac3

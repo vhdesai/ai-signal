@@ -5,7 +5,7 @@ date: '2026-06-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/
 url_canonical: https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-26_060525_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 469d2cf12b987b46343d1563746456e03b7095d298e537cb47832cfca8313186
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ Amazon said it will invest a further $13 billion through 2030 to expand AWS data
 ## Connections
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud]] · [[2026-08-03-amazon-completes-another-35b-investment-in-openai]] · [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou]] · [[2026-04-09-products-tools]] · [[2026-08-03-amazon-completes-additional-35-billion-investment-in-openai]]
 <!-- graph:end -->

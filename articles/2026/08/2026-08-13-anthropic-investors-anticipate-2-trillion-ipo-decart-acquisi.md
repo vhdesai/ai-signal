@@ -19,6 +19,8 @@ entities:
 - DeepSeek
 themes:
 - company-storylines
+- ma-activity
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -36,6 +38,6 @@ Backers of Anthropic told the Financial Times they expect the company to double 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren]]
 <!-- graph:end -->

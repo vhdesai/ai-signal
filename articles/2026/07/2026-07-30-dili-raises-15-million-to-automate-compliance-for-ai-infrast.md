@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/
 url_canonical: https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - July
   30, 2026 (Revised).md
 content_hash: 492db10e79a8a42b4feb1f157b1d0d332db82660fc36bccc7e67d04b0b012997
@@ -16,6 +16,8 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +38,6 @@ Dili raised a $15 million Series A to apply AI to compliance workflows for U.S. 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-30-dili-raises-21-7-million-to-bring-ai-compliance-to-infrastru]] · [[2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio]] · [[2026-08-06-naive-raises-28-5-million-to-automate-company-setup-and-back]] · [[2026-08-12-thrive-holdings-raises-2b-to-push-ai-into-regulated-workflow]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]]
 <!-- graph:end -->

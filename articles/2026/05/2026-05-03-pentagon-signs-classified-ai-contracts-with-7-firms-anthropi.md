@@ -24,6 +24,8 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -44,6 +46,6 @@ Pentagon Signs Classified AI Contracts with 7 Firms; Anthropic Excluded Over Sup
 ## Connections
 
 **Entities:** [[Amazon]] · [[AMD]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]] · [[2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth]] · [[2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks]] · [[2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors]]
 <!-- graph:end -->

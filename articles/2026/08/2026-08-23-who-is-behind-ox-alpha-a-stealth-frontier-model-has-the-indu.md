@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/
 url_canonical: https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_060214_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: fa261d8563f65c0e76c7ed7e1ed4714ab9ef7a3f3910dff8f313d0001a8aff50
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - model-capabilities
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-23-anonymous-ox-alpha-model-on-openrouter-draws-scrutiny-over-p
@@ -31,6 +32,6 @@ A free anonymous model called Ox Alpha, listed on OpenRouter as “a reasoning m
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[M&A Activity]]
 **Canonical:** [[2026-08-23-anonymous-ox-alpha-model-on-openrouter-draws-scrutiny-over-p]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-02'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/
 url_canonical: https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-03_060602_Inbox_Daily AI News Digest - August 3,
   2026.md
 content_hash: 7710d035fc187cd3c83fe9f0a61a61b012aed1b157cd704e54cf56587c524674

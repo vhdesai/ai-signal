@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ WSJ's wealth-advisory desk flagged the degree to which "AI" exposure in most div
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat]] · [[2026-05-29-wsj-wealth-adviser-j-j-exposure-vanishing-new-car-buyers-chi]] · [[2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai]] · [[2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog]]
 <!-- graph:end -->

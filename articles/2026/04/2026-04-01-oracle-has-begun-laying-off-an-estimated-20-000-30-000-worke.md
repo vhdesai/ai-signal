@@ -4,8 +4,8 @@ title: Oracle has begun laying off an estimated 20,000–30,000 workers in the U
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://time.com/article/2026/04/30/oracle-layoffs-ai-tech-jobs/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: ae2071309c03c9323684adc66a6885eb7c61b2465f223e13623a003891dd47e9
@@ -20,6 +20,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ Oracle has begun laying off an estimated 20,000–30,000 workers in the U.S. and
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Microsoft]] · [[Oracle]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g]] · [[2026-04-02-oracle-began-notifying-thousands-of-employees-across-the-u-s]] · [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]]
 <!-- graph:end -->

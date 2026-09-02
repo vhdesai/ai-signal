@@ -15,6 +15,7 @@ entities:
 - Scale AI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Enzo Health closed a $20M Series A led by N47 to scale AI tools that automate pa
 ## Connections
 
 **Entities:** [[Scale AI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-02-takeda-taps-insilico-medicine-s-generative-ai-platform-in-a]] · [[2026-05-18-dust-closes-40m-series-b-for-enterprise-human-agent-collabor]] · [[2026-07-02-takeda-signs-ai-drug-discovery-pact-with-insilico-worth-up-t]] · [[2026-07-02-takeda-and-insilico-medicine-sign-ai-drug-discovery-pact-wor]] · [[2026-07-14-chai-discovery-raises-400m-at-a-3-8b-valuation-for-ai-drug-d]]
 <!-- graph:end -->

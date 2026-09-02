@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: Microsoft Build 2026 Preview
 url_original: https://build.microsoft.com/
 url_canonical: https://build.microsoft.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\microsoft-build-2026-preview.md
 content_hash: 75cc1f422bf4a8ef07727411e1178442d5b02cfab5cd6ffb862aa55b9491e69f
 normalized_title_hash: 4a878143a52487c5
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Windows as an agent surface: Build may define how deeply Microsoft embeds AI int
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models]]
 <!-- graph:end -->

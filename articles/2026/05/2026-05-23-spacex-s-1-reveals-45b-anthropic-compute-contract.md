@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ SpaceX's IPO filing — being parsed by analysts this weekend — discloses that
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029]] · [[2026-05-21-spacex-s-1-reveals-45b-anthropic-compute-deal]] · [[2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex]]
 <!-- graph:end -->

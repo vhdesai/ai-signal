@@ -16,6 +16,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-23-openai-executive-warns-of-ongoing-persistent-ai-driven-cyber
@@ -32,6 +33,6 @@ OpenAI’s Chris Lehane told The Guardian that organizations should prepare for 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[M&A Activity]]
 **Canonical:** [[2026-08-23-openai-executive-warns-of-ongoing-persistent-ai-driven-cyber]]
 <!-- graph:end -->

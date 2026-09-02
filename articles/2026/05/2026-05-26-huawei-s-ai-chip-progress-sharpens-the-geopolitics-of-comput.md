@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=huawei-narrow-chip-gap-tsmc-sanctions
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=huawei-narrow-chip-gap-tsmc-sanctions
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-26_081144_Inbox_Daily AI News Digest –– May 26,
   2026 (Merged Cowork Edition).md
 content_hash: 7b4f4c444f750e00eba5d9cf20b0b94b59b54737c6da3228d710e298b2b74f44
@@ -19,6 +19,7 @@ entities:
 - TSMC
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -41,6 +42,6 @@ The Information’s AM coverage highlighted Huawei’s efforts to narrow the chi
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[TSMC]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-06-30-tuesday-june-30-2026]] · [[2026-08-06-chip-investors-navigate-geopolitical-risk-as-ai-powered-cons]]
 <!-- graph:end -->

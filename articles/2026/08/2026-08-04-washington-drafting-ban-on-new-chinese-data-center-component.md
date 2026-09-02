@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: Reuters
 url_original: https://www.usnews.com/news/top-news/articles/2026-08-04/exclusive-trump-administration-drafting-ban-on-chinese-data-center-devices-sources-say
 url_canonical: https://www.usnews.com/news/top-news/articles/2026-08-04/exclusive-trump-administration-drafting-ban-on-chinese-data-center-devices-sources-say
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-06_061505_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 9261ffb0ae59563a3fd62e3f36cebbbf923ea563e6721fe29da630cb8d86adb9
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -35,6 +36,6 @@ The administration is drafting a ban on U.S. imports of new models of Chinese da
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-05-u-s-moves-to-ban-chinese-data-center-components]] · [[2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device]] · [[2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte]] · [[2026-07-20-china-s-zhongji-innolight-targets-8b-hong-kong-listing-on-ai]]
 <!-- graph:end -->

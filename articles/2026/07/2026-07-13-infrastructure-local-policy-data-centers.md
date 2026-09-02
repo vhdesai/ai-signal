@@ -16,6 +16,7 @@ entities: []
 themes:
 - datacenter-infrastructure
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Axios reports that New Orleans has paused data-center activity amid rising local
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-13-new-orleans-pauses-data-center-approvals-amid-ai-backlash]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats]] · [[2026-08-29-community-opposition-blocked-or-delayed-130b-of-data-center]] · [[2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi]]
 <!-- graph:end -->

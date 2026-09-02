@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-amazon-triples-its-nvidia-chip-order-over-surging-demand
@@ -37,7 +38,7 @@ Announced on Nvidia’s earnings call, the expanded partnership adds ~2 million 
 ## Connections
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-26-amazon-triples-its-nvidia-chip-order-over-surging-demand]]
 **Related:** [[2026-08-26-aws-and-nvidia-to-deploy-two-million-additional-gpus-across]]
 <!-- graph:end -->

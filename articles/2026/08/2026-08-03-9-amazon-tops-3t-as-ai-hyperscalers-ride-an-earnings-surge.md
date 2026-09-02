@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: AOL / 24-7 Wall St. · Read article →
 url_original: https://www.aol.com/articles/amazon-tops-3t-meta-rallies-173128000.html
 url_canonical: https://www.aol.com/articles/amazon-tops-3t-meta-rallies-173128000.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-04_061155_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 673325594c6a9bd23d8f98df49b67efd6e1aac1d5cd476a5802950640c4236e4
@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Amazon crossed a $3 trillion market cap as cloud results reset expectations acro
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-03-amazon-tops-3-trillion-market-value-as-ai-cloud-demand-accel]] · [[2026-08-04-amazon-joins-the-3-trillion-club-as-aws-posts-its-fastest-re]] · [[2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears]] · [[2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200]]
 <!-- graph:end -->

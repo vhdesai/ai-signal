@@ -5,7 +5,7 @@ date: '2026-08-12'
 source: Bloomberg
 url_original: https://finance.yahoo.com/technology/ai/articles/ai-startup-cognition-funding-talks-035336592.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/ai-startup-cognition-funding-talks-035336592.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-12_065059_Final-Daily-AI-News-Digest.md
 content_hash: 4f301c964a55bd0e0d8b37836f0c4e1427359637a98d594375063841759ad9f5
 normalized_title_hash: 4be3dea407715ae2

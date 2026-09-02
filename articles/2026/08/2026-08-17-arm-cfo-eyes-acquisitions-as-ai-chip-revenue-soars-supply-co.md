@@ -5,7 +5,7 @@ date: '2026-08-17'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Arm+CFO+acquisitions+AI+chip
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Arm+CFO+acquisitions+AI+chip
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-17_163645_Final-Daily-AI-News-Digest.md
 content_hash: cc73205ab976db03755c9dac9b10ade906404932775ff9e942c72e186fe51be6
 normalized_title_hash: 6a5e62a2c4e317a6
@@ -16,6 +16,7 @@ entities:
 - Arm
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Arm shares have more than doubled this year, giving the $300 billion company inc
 ## Connections
 
 **Entities:** [[Arm]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]] · [[2026-07-20-massive-ai-supply-deals-face-execution-risk]] · [[2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s]] · [[2026-08-10-intel-announces-15-billion-common-stock-offering-citing-ai-d]]
 <!-- graph:end -->

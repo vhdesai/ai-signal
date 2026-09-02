@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-08-11/ibm-together-ai-ink-240-million-deal-for-nvidia-powered-ai-inference-cluster
 url_canonical: https://money.usnews.com/investing/news/articles/2026-08-11/ibm-together-ai-ink-240-million-deal-for-nvidia-powered-ai-inference-cluster
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-11_062021_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 37cc46792c29e87a0a8ae1a2fbcbe227a42146ffb47ec1300659b60146e83881
@@ -18,6 +18,7 @@ entities:
 - Scale AI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-ibm-and-together-ai-sign-240m-deal-for-an-nvidia-powered-inf
@@ -34,6 +35,6 @@ IBM and Together AI signed a $240 million multi-year agreement to build a large-
 ## Connections
 
 **Entities:** [[IBM]] · [[NVIDIA]] · [[Scale AI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-11-ibm-and-together-ai-sign-240m-deal-for-an-nvidia-powered-inf]]
 <!-- graph:end -->

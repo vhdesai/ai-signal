@@ -4,8 +4,8 @@ title: Mistral AI Secures $830M in Debt to Build 13,800-GPU Paris Data Center
 date: '2026-03-30'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: f9e13b8703cfc38686cd42297ca70dd3da6850848c388dbd52e1ae01c323a18a
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Mistral AI closed $830M in debt from a seven-bank European consortium (no U.S. b
 ## Connections
 
 **Entities:** [[Mistral]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]] · [[2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-07-27-nvidia-in-talks-to-guarantee-250b-financing-for-openai-s-pla]] · [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]]
 <!-- graph:end -->

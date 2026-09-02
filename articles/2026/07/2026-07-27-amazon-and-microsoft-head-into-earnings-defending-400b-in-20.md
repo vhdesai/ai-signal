@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: Fortune
 url_original: https://uk.finance.yahoo.com/news/amazon-microsoft-spending-400-billion-070200962.html
 url_canonical: https://uk.finance.yahoo.com/news/amazon-microsoft-spending-400-billion-070200962.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-27_061009_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: df26426f639bff17708fc7f89d9fb17f90ea14b394ed30c4b30664e878f1c82b
@@ -17,6 +17,7 @@ entities:
 - Microsoft
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Fortune reports Amazon and Microsoft will collectively spend roughly $400 billio
 ## Connections
 
 **Entities:** [[Amazon]] · [[Microsoft]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test]]
 <!-- graph:end -->

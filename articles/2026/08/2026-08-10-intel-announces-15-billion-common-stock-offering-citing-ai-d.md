@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html
 url_canonical: https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-10_082903_Inbox_Fw Daily AI News Digest - August
   10, 2026.md
 content_hash: 0a2d71e3c8d8aa76f676be5e6bb019398ee480cf36806de66bdda3fe237211ce
@@ -16,6 +16,7 @@ entities:
 - Intel
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Intel announced a $15B underwritten public offering capitalizing on a ~400% shar
 ## Connections
 
 **Entities:** [[Intel]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-10-intel-announces-a-15-billion-common-stock-offering-citing-ai]] · [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-to-fund-a]] · [[2026-08-10-intel-launches-a-15b-stock-offering-to-fund-its-ai-and-found]] · [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat]] · [[2026-08-11-intel-launches-15-billion-stock-offering-to-fund-ai-foundry]]
 <!-- graph:end -->

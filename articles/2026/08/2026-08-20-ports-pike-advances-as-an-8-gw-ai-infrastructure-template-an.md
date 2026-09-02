@@ -6,7 +6,7 @@ date: '2026-08-20'
 source: Data Center Frontier
 url_original: https://www.datacenterfrontier.com/hyperscale/article/55398883/ports-pike-takes-shape-as-an-8-gw-ai-infrastructure-model
 url_canonical: https://www.datacenterfrontier.com/hyperscale/article/55398883/ports-pike-takes-shape-as-an-8-gw-ai-infrastructure-model
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_062036_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 2d5ac364e2ec5bf34ce3aac8e1d3fe9fef0a065509fcfd0a5ce4d991ceef42bc
@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ The PORTS-Pike project in Ohio is taking shape as a combined federal-site redeve
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai]] · [[2026-08-18-openai-nvidia-and-sb-energy-detail-an-eight-gigawatt-ohio-co]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-07-sk-hynix-approves-54-trillion-won-for-two-new-ai-memory-fabs
@@ -32,6 +33,6 @@ SK hynix committed 54 trillion won (~$38.1B) to build new fabrication plants at 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-07-sk-hynix-approves-54-trillion-won-for-two-new-ai-memory-fabs]]
 <!-- graph:end -->

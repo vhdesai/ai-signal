@@ -5,7 +5,7 @@ date: '2026-08-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/
 url_canonical: https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-10_082903_Inbox_Fw Daily AI News Digest - August
   10, 2026.md
 content_hash: 97291fbdb4dd11b9b518da57ae5dba92b13c7f6b57f8be164b952254c800eabb
@@ -17,6 +17,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Researcher Bill Swearingen demonstrated that RL-generated visual patterns printe
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-09-adversarial-patterns-demonstrated-to-defeat-11-surveillance]] · [[2026-08-09-adversarial-patterns-demonstrated-to-defeat-surveillance-cam]] · [[2026-08-23-flock-safety-ceo-calls-for-compromise-as-ai-surveillance-fac]] · [[2026-08-23-flock-safety-faces-bipartisan-backlash-as-ai-surveillance-be]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]]
 <!-- graph:end -->

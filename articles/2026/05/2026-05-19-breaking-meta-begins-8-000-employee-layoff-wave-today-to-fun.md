@@ -6,7 +6,7 @@ date: '2026-05-19'
 source: CNBC
 url_original: https://www.metaintro.com/blog/meta-layoffs-8000-may-2026-zuckerberg-ai-reality-check
 url_canonical: https://www.metaintro.com/blog/meta-layoffs-8000-may-2026-zuckerberg-ai-reality-check
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 9f393f0c0a4720eec3ad035288504cafadd06223ce0e3712f5ee01fbbcaf655e
@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Meta begins cutting approximately 8,000 employees this week — roughly 10% of i
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-20-meta-begins-8-000-person-layoff-wave-while-raising-ai-capex]] · [[2026-05-22-meta-began-notifying-approximately-8-000-employees-of-layoff]] · [[2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-infrastructure-capex]] · [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]]
 <!-- graph:end -->

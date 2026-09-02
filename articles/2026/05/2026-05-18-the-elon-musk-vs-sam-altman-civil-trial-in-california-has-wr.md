@@ -18,6 +18,8 @@ entities:
 - xAI
 themes:
 - datacenter-infrastructure
+- ma-activity
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +41,6 @@ The Elon Musk vs. Sam Altman civil trial in California has wrapped its evidentia
 ## Connections
 
 **Entities:** [[OpenAI]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins]] · [[2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla]] · [[2026-05-18-california-jury-rejects-elon-musk-s-lawsuit-against-openai-i]]
 <!-- graph:end -->

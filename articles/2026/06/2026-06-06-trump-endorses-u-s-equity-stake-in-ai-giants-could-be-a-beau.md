@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Trump publicly endorsed government equity stakes in major AI companies. CNBC rep
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea]] · [[2026-06-18-trump-administration-split-on-taking-equity-stakes-in-ai-gia]] · [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake]] · [[2026-07-02-openai-floats-handing-the-us-government-a-5-stake-to-ease-wa]]
 <!-- graph:end -->

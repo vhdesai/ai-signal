@@ -20,6 +20,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s
@@ -36,6 +38,6 @@ Fresh off the largest tech IPO of 2026 — raising $5.55 billion at a $95 billio
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s]]
 <!-- graph:end -->

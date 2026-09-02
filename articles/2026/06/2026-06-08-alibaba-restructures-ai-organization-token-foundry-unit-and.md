@@ -18,6 +18,7 @@ entities:
 - Baidu
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -35,6 +36,6 @@ Alibaba established a "Token Foundry" business unit and AI Future Research Insti
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Baidu]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-06-08-alibaba-restructures-ai-organization-establishes-token-found]]
 <!-- graph:end -->

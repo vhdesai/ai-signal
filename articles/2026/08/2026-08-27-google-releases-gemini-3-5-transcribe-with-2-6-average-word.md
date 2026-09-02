@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/27/google-ai-releases-gemini-3-5-transcribe-a-speech-to-text-model-reporting-2-6-average-wer-across-85-languages/
 url_canonical: https://www.marktechpost.com/2026/08/27/google-ai-releases-gemini-3-5-transcribe-a-speech-to-text-model-reporting-2-6-average-wer-across-85-languages/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_060357_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 5fd4491de48d31c6f8ae06bca0b34dd97b84bc250eda69d41730a8281df4a083

@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/
 url_canonical: https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_065240_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 407de7860fec32662603352e551a1713e357ab368c784f60e12c29462eae44f3
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-apple-s-trade-secret-suit-against-openai-becomes-a-test-of-a
@@ -34,6 +35,6 @@ Apple's 41-page complaint alleges a former employee exploited a "rare" bug to do
 ## Connections
 
 **Entities:** [[Apple]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]]
 **Canonical:** [[2026-07-13-apple-s-trade-secret-suit-against-openai-becomes-a-test-of-a]]
 <!-- graph:end -->

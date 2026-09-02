@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: '[Yahoo Finance]'
 url_original: https://finance.yahoo.com/technology/ai/articles/firmus-nearly-doubles-valuation-over-022927084.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/firmus-nearly-doubles-valuation-over-022927084.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-08_062022_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 3cf36c01cc7cf4328af2a2b46cc86c0d9840cfd4042aa6bbf23ecc81a8db7614
@@ -16,6 +16,8 @@ entities:
 - NVIDIA
 themes:
 - model-capabilities
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +39,6 @@ Australian AI infrastructure company Firmus closed a fully subscribed $2 billion
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-07-nvidia-backed-firmus-raises-2b-at-10-5b-valuation]] · [[2026-08-10-australia-s-firmus-raises-2b-for-ai-data-centers-at-a-10-5b]] · [[2026-08-11-nvidia-frames-ai-factory-compute-as-an-investable-infrastruc]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]] · [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: Carnegie Mellon University's Center for AI-Driven Biomedical Research (AI
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.cmu.edu/mcs/news-events/2026/0327-ai4bio
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: 350621fd582beea2c4b3a46ec44033855cb6378881926463db563adcfd90659d

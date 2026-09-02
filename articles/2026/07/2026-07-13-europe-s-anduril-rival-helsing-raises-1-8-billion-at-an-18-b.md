@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/13/helsing-fund-raise-defense-18-billion.html
 url_canonical: https://www.cnbc.com/2026/07/13/helsing-fund-raise-defense-18-billion.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-13_060615_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: be70afe796f259c730aff3db27cbe24fb18bc13e696bab41babf5d13529d691c
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ German AI-defense startup Helsing said it raised $1.8 billion at an $18 billion 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg]] · [[2026-07-24-anduril-reportedly-in-talks-to-raise-at-100b-valuation]] · [[2026-07-24-anduril-reportedly-seeks-funding-at-a-roughly-100b-valuation]] · [[2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already]] · [[2026-05-14-anduril-raises-5b-valuation-doubles-to-61b-techcrunch-may-13]]
 <!-- graph:end -->

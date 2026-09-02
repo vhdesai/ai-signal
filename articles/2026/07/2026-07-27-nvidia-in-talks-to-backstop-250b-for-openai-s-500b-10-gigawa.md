@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ According to a Wall Street Journal report, Nvidia is in talks to guarantee rough
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-27-nvidia-in-talks-to-guarantee-250b-in-financing-for-openai-s]] · [[2026-07-27-nvidia-in-talks-to-guarantee-250b-financing-for-openai-s-pla]] · [[2026-07-26-nvidia-weighs-250b-financing-backstop-for-openai-s-10-gigawa]]
 <!-- graph:end -->

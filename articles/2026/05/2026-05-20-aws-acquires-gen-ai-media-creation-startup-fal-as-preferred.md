@@ -18,6 +18,7 @@ entities:
 - Google
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Amazon Web Services confirmed on May 20 that it has acquired fal, a fast-growing
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a]] · [[2026-08-03-aws-partners-with-superblocks-to-bring-vibe-coding-into-priv]] · [[2026-06-10-warner-music-acquires-ai-attribution-startup-sureel-ai]]
 <!-- graph:end -->

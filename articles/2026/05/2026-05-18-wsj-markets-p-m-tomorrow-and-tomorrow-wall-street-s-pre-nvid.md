@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ WSJ's afternoon markets dispatch led on the market's wait-and-see posture into N
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-24-can-nvidia-keep-the-ai-party-going-wsj-preview-ahead-of-earn]] · [[2026-08-24-wall-street-counts-on-nvidia-to-keep-the-ai-party-going-mark]] · [[2026-08-24-wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going]] · [[2026-08-24-ai-complex-slips-as-markets-brace-for-nvidia-earnings-and-ja]] · [[2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception]]
 <!-- graph:end -->

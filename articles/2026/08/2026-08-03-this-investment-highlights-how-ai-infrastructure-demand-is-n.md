@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ This investment highlights how AI infrastructure demand is now radiating upstrea
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-03-cuspai-illustrates-how-capital-is-spreading-into-the-physica]] · [[2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-08-03-xsight-labs-is-a-reminder-that-networking-silicon-is-becomin]] · [[2026-07-17-ai-commoditization-pressures-proprietary-model-economics]]
 <!-- graph:end -->

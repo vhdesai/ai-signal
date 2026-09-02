@@ -5,7 +5,7 @@ date: '2026-07-21'
 source: Channel News Asia
 url_original: https://www.channelnewsasia.com/business/blackrock-backed-group-commits-5-billion-aligned-data-centers-after-completing-acquisition-6268081
 url_canonical: https://www.channelnewsasia.com/business/blackrock-backed-group-commits-5-billion-aligned-data-centers-after-completing-acquisition-6268081
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-22_065707_Final-Daily-AI-News-Digest.md
 content_hash: 9cabadd3eeb218805284f1ff9944e70dd9417e9d098197ef324f2ef9c1fb8e87
 normalized_title_hash: 1f0ce847f6b7561a
@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ A BlackRock- and MGX-backed group committed $5 billion of growth capital to Alig
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-21-blackrock-mgx-consortium-commits-another-5b-to-aligned-data]] · [[2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da]] · [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-in-5-9b-joint]] · [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-through-14b-j]] · [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-financing]]
 <!-- graph:end -->

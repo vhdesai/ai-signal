@@ -24,6 +24,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -46,6 +47,6 @@ China's "Big Fund" — its largest state-backed semiconductor investment vehicle
 ## Connections
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[Huawei]] · [[NVIDIA]] · [[Perplexity]] · [[Tencent]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45]] · [[2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-05-13-deepseek-reportedly-raising-7b-at-50b-valuation-led-by-china]] · [[2026-04-25-tencent-alibaba-in-advanced-talks-to-back-deepseek-s-first-e]]
 <!-- graph:end -->

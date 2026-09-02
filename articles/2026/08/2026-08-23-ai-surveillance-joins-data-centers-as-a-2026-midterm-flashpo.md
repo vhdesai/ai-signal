@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: Axios
 url_original: https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech
 url_canonical: https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-23_062157_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: 20d0d19bc4f5f02c8726d72636cd9e6c7607f00f2c32a68e333f5ad2307f6d7c
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Members of Congress and congressional candidates are moving to harness grassroot
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats]] · [[2026-08-23-flock-safety-ceo-calls-for-compromise-as-ai-surveillance-fac]] · [[2026-06-11-axios-congress-wants-in-on-the-data-center-backlash]] · [[2026-08-23-flock-safety-faces-bipartisan-backlash-as-ai-surveillance-be]] · [[2026-08-23-flock-ceo-calls-for-compromise-as-ai-surveillance-backlash-g]]
 <!-- graph:end -->

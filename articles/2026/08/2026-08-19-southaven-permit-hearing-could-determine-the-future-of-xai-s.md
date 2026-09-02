@@ -17,6 +17,7 @@ entities:
 - xAI
 themes:
 - policy-regulation
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Coverage Notes • Academic Research: No university-affiliated research publicat
 ## Connections
 
 **Entities:** [[Anthropic]] · [[xAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]]
 **Related:** [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[2026-08-03-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-08-02-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-06-25-no-items-met-the-strict-24-hour-publication-bar]]
 <!-- graph:end -->

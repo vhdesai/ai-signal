@@ -18,6 +18,7 @@ entities:
 - Palantir
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Palantir announced a strategic initiative with NVIDIA to deliver an "intelligent
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[Palantir]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control]] · [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]] · [[2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu]] · [[2026-04-01-microsoft-and-nvidia-announced-expanded-integration-bringing]]
 <!-- graph:end -->

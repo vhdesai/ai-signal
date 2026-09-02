@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Surging prices for memory and storage chips, driven by high demand from AI compa
 ## Connections
 
 **Entities:** [[Apple]] · [[Intel]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con]] · [[2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s]] · [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]] · [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]] · [[2026-06-25-apple-and-microsoft-raise-prices-as-ai-driven-chip-demand-sp]]
 <!-- graph:end -->

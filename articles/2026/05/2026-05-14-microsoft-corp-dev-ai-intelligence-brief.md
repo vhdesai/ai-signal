@@ -24,6 +24,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -46,6 +47,6 @@ Today's window is shaped by three intersecting themes. US-China AI diplomacy too
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Arm]] · [[Cerebras]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-14-daily-ai-news-digest-may-14-2026]] · [[2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-05-17-microsoft-corp-dev-ai-intelligence]] · [[2026-05-17-microsoft-copilot-ai-intelligence-briefing]]
 <!-- graph:end -->

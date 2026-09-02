@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Anthropic is preparing an initial public offering for the September to early-Oct
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-08-20-anthropic-expects-an-ipo-that-matches-or-exceeds-spacex-s-re]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-07-21'
 source: Microsoft**
 url_original: https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/
 url_canonical: https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-22_065007_Final-Daily-AI-News-Digest.md
 content_hash: 99f9175d5a02bf4ea64d467c81728e26e67617032c9730d7580421788fc3f5e9
 normalized_title_hash: 311e74323267cca3
@@ -20,6 +20,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ Microsoft will tap Mistral's expanded Europe-based GPU capacity — built on Nvi
 ## Connections
 
 **Entities:** [[Microsoft]] · [[Mistral]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-07-21-microsoft-and-mistral-expand-partnership-for-regulated-indus]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]] · [[2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent]]
 <!-- graph:end -->

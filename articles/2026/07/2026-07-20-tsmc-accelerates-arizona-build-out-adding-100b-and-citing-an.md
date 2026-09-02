@@ -5,7 +5,7 @@ date: '2026-07-20'
 source: CNBC**
 url_original: https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html
 url_canonical: https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-21_065051_Final-Daily-AI-News-Digest.md
 content_hash: 552d62f793e0e45606246a18948c4d1738ca9ae021974c1f5c05e32a5370b31f
 normalized_title_hash: 946af3c9850c843b
@@ -17,6 +17,7 @@ entities:
 - TSMC
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ TSMC commits an additional $100B, lifting its total Arizona pipeline to $265B. R
 ## Connections
 
 **Entities:** [[TSMC]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-20-tsmc-accelerates-arizona-buildout-to-capture-the-ai-megatren]] · [[2026-07-16-tsmc-plans-another-100-billion-u-s-investment-as-ai-demand-l]] · [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-sustained-ai-c]]
 <!-- graph:end -->

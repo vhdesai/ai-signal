@@ -6,7 +6,7 @@ date: '2026-05-18'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/
 url_canonical: https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 5c7c1ba99639ebd111681009bd59c911a21c6c248bd897853da84daf316f1930
@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - model-capabilities
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Alphabet spinout SandboxAQ — backed by Eric Schmidt — is embedding its scien
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]]
 **Related:** [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]] · [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]]
 <!-- graph:end -->

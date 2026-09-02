@@ -18,6 +18,8 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +40,6 @@ Infrastructure China China's Biren raises ~$892.5M to scale GPUs against Nvidia 
 ## Connections
 
 **Entities:** [[Baidu]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-16-breaking-cerberus-ipo-new-nvidia-rival-raises-5-6b-stock-sur]] · [[2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and]] · [[2026-06-29-baidu-jumps-7-as-chip-arm-kunlunxin-targets-50b-hong-kong-ip]]
 <!-- graph:end -->

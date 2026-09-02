@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure
@@ -32,6 +33,6 @@ The Wall Street Journal reported that large technology companies are borrowing f
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure]]
 <!-- graph:end -->

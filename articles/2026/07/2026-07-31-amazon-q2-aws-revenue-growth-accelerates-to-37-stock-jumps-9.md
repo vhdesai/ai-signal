@@ -18,6 +18,7 @@ entities:
 - Amazon
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Amazon Web Services posted 37% revenue growth in the June quarter, while operati
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-31-amazon-q2-aws-revenue-accelerates-to-37-capex-guided-to-220b]] · [[2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity]]
 <!-- graph:end -->

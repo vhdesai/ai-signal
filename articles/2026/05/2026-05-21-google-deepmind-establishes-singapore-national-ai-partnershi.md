@@ -18,6 +18,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Google DeepMind announced a new national AI partnership with Singapore focused o
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration]] · [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership]] · [[2026-06-22-google-deepmind-and-a24-announce-research-partnership]] · [[2026-07-14-google-expands-gemini-and-ai-education-tools-at-i-o-connect]] · [[2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10]]
 <!-- graph:end -->

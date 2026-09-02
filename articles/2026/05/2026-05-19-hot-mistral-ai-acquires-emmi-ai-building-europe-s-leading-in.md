@@ -6,7 +6,7 @@ date: '2026-05-19'
 source: Reuters
 url_original: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai
 url_canonical: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 668bc7cbb9ff6e884c75ae5ad298fc9281c99aa400e7c1c3c53e51cb7b88a27f
@@ -17,6 +17,7 @@ entities:
 - Mistral
 themes:
 - model-capabilities
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ France's Mistral AI has acquired Linz, Austria-based Emmi AI — which raised �
 ## Connections
 
 **Entities:** [[Mistral]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[M&A Activity]]
 **Related:** [[2026-05-20-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-l]] · [[2026-05-19-mistral-ai-acquires-vienna-s-emmi-ai-to-target-industrial-ph]] · [[2026-05-22-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-e]] · [[2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air]] · [[2026-05-22-four-frontier-labs-four-acquisitions-in-five-days]]
 <!-- graph:end -->

@@ -16,6 +16,8 @@ entities:
 - Intel
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +35,6 @@ Intel is raising $15 billion in fresh capital targeting physical AI, purpose-bui
 ## Connections
 
 **Entities:** [[Intel]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-10-intel-announces-15-billion-common-stock-offering-citing-ai-d]]
 <!-- graph:end -->

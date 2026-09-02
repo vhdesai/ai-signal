@@ -6,7 +6,7 @@ date: '2026-06-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/
 url_canonical: https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-27_064706_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: c8858e806b63146ae311fc8bb54d52f32d78b02030780531b5fa890506198b65
@@ -17,6 +17,7 @@ entities: []
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ York lab General Intuition closed a $320 million Series A at a $2.3 billion valu
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-25-general-intuition-raises-320m-to-train-agents-on-video-game]] · [[2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough]] · [[2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-25-robotics-startup-generalist-reaches-3b-valuation-on-200m-ext]]
 <!-- graph:end -->

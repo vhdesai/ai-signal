@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: Gizbot; Microsoft
 url_original: https://www.gizbot.com/features/microsoft-build-2026-highlights-the-biggest-announcements-you-need-to-know-126021.html
 url_canonical: https://www.gizbot.com/features/microsoft-build-2026-highlights-the-biggest-announcements-you-need-to-know-126021.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-04_071040_Final-Daily-AI-News-Digest.md
 content_hash: 82e355cdd047d616efdae2fbee2d5bb6e7c7c8485386289b9fe02468e3d6162a
 normalized_title_hash: 0fa48468ae08b240
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Jensen Huang joined Satya Nadella to announce the Surface RTX Spark Dev Box — 
 ## Connections
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]] · [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex]]
 <!-- graph:end -->

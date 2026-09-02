@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ CuspAI illustrates how capital is spreading into the physical-materials layer th
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n]] · [[2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole]] · [[2026-08-10-discovered-materials-applies-ai-to-the-search-for-cooler-run]] · [[2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]]
 <!-- graph:end -->

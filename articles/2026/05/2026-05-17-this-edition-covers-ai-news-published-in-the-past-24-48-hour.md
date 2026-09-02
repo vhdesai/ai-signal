@@ -21,6 +21,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +43,6 @@ This edition covers AI news published in the past 24–48 hours across monitored
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-04-20-daily-ai-news-digest-prepared-april-20-2026]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-05-17-microsoft-corp-dev-ai-intelligence]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]]
 <!-- graph:end -->

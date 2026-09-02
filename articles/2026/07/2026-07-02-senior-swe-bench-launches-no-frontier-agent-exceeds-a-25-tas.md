@@ -6,7 +6,7 @@ date: '2026-07-02'
 source: Snorkel AI
 url_original: https://senior-swe-bench.snorkel.ai/
 url_canonical: https://senior-swe-bench.snorkel.ai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-03_062005_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: 05199874ff5a39493e9d9766eaa9ded330ddda00adf093e0614f9a6289623f74

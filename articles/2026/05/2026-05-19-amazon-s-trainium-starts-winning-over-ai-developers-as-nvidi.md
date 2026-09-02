@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ Amazon's long-running effort to build a credible Nvidia alternative is gaining t
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve]] · [[2026-08-29-aws-and-nvidia-to-deploy-two-million-additional-gpus-for-ai]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple]] · [[2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia]]
 <!-- graph:end -->

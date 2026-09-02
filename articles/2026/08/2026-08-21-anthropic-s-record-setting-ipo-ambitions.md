@@ -16,6 +16,8 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +38,6 @@ DealBook highlights Anthropic's "record-setting I.P.O. ambitions" as the company
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-22-anthropic-investors-reportedly-targeting-a-2-trillion-ipo]] · [[2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk]] · [[2026-08-22-anthropic-targets-an-ipo-that-could-match-or-beat-spacex-s-r]] · [[2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge]]
 <!-- graph:end -->

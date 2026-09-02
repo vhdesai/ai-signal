@@ -5,7 +5,7 @@ date: '2026-08-08'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/
 url_canonical: https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-09_060558_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: bcbfc3c646865a120003ce59dfec0ff2da6e64a75cffa957ea71e25ddf1dbf68
@@ -17,6 +17,7 @@ entities:
 - Perplexity
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Firebird opened the CIS region’s largest AI factory in Hrazdan, Armenia, built
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[Perplexity]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-08-firebird-opens-the-cis-region-s-largest-ai-factory-in-armeni]] · [[2026-08-08-firebird-opens-armenian-ai-factory-targets-2-gw-pipeline]] · [[2026-08-08-nvidia-backs-firebird-s-new-ai-factory-in-armenia-plans-70-0]] · [[2026-08-08-firebird-opens-armenian-ai-factory-targets-2-gw-with-intende]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]]
 <!-- graph:end -->

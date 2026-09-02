@@ -5,7 +5,7 @@ date: '2026-06-28'
 source: The Hans India
 url_original: https://www.thehansindia.com/tech/grok-45-enters-private-testing-at-spacex-tesla-elon-musk-1091457
 url_canonical: https://www.thehansindia.com/tech/grok-45-enters-private-testing-at-spacex-tesla-elon-musk-1091457
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-29_060726_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 697c9684ad629d2dead5cac986e4c16b30c7c9b37c6c1c9621b3e212076c112b

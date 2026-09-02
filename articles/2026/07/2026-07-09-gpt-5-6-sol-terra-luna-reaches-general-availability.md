@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: OpenAI
 url_original: https://openai.com/index/gpt-5-6/
 url_canonical: https://openai.com/index/gpt-5-6/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-11_060959_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 86e9be602b66a1a2b3e249580dae7ff9286b41036516ef0d61fdd56c85d23745

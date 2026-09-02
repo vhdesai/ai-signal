@@ -22,6 +22,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -43,6 +44,6 @@ Nvidia: Remains central to AI infrastructure; demand for GPUs is high. - Google/
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Google]] · [[Meta]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-12-openai-launched-gpt-5-6-sol-terra-luna-gpt-live-voice-model]] · [[2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice]] · [[2026-08-11-daily-ai-news-digest-august-12-2026]] · [[2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]]
 <!-- graph:end -->

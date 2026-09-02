@@ -17,6 +17,7 @@ entities:
 - Meta
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Meta announced 8,000 job cuts as part of an "efficiency push" coinciding with sh
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]]
 <!-- graph:end -->

@@ -20,6 +20,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Investors are increasingly distinguishing between AI spending with visible reven
 ## Connections
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-31-amazon-s-aws-acceleration-validates-ai-infrastructure-spendi]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall]] · [[2026-07-31-capex-vs-cash-flow-big-tech-doubles-down-on-ai]]
 <!-- graph:end -->

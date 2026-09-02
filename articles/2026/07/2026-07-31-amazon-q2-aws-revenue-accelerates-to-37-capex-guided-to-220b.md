@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: U.S. News / Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-07-31/amazon-jumps-as-aws-growth-soothes-fears-over-rising-ai-spending
 url_canonical: https://money.usnews.com/investing/news/articles/2026-07-31/amazon-jumps-as-aws-growth-soothes-fears-over-rising-ai-spending
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-01_061413_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: b5a293de50e9497f6dbf919b2be7ad580235c0de53fd2257a8c73d532b950875
@@ -19,6 +19,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ AWS grew 37% to $42.2B — its fastest pace in roughly five years — with opera
 ## Connections
 
 **Entities:** [[Amazon]] · [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-31-amazon-says-aws-growth-accelerated-to-37-as-ai-demand-lifts]] · [[2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity]] · [[2026-07-31-amazon-q2-aws-revenue-growth-accelerates-to-37-stock-jumps-9]]
 <!-- graph:end -->

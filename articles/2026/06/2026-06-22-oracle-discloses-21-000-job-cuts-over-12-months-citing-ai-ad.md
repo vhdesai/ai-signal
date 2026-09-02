@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: TechCrunch; Reuters; WSJ
 url_original: https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
 url_canonical: https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 93f4a97cc95f4ec061b20032fb8d8489a365039235efd1fbd2b50135e92e2bc2
 normalized_title_hash: 0d20f8403652ffa2

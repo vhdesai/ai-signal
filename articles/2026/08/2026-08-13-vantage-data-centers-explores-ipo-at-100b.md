@@ -19,6 +19,8 @@ entities:
 - Oracle
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +40,6 @@ Silver Lake- and DigitalBridge-backed Vantage explores an IPO at ~$100B that cou
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-13-vantage-data-centers-explores-ipo-at-100b-valuation]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation]]
 <!-- graph:end -->

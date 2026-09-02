@@ -16,6 +16,8 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +38,6 @@ Backflipping robot maker Unitree raised $904 million in its Shanghai IPO, but Pi
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-23-unitree-s-460-ipo-stock-pop-in-shanghai]] · [[2026-08-23-unitree-s-460-ipo-stock-pop-in-shanghai-wasn-t-unusual-in-ch]] · [[2026-08-23-unitree-s-460-ipo-stock-pop-reflects-china-s-ai-robotics-fre]] · [[2026-08-12-unitree-s-shanghai-robotics-ipo-draws-8-000x-retail-oversubs]] · [[2026-08-23-unitree-s-460-ipo-pop-reflects-china-s-ai-robotics-frenzy]]
 <!-- graph:end -->

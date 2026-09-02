@@ -20,6 +20,8 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-nvidia-guarantees-105b-in-leases-and-invests-1-5b-in-sb-ener
@@ -39,7 +41,7 @@ Nvidia will invest $1.5B in SB Energy and provide up to $105B in credit to build
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-17-nvidia-guarantees-105b-in-leases-and-invests-1-5b-in-sb-ener]]
 **Related:** [[2026-08-17-nvidia-to-invest-1-5b-in-sb-energy-the-softbank-developer-be]] · [[2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai]] · [[2026-07-26-nvidia-weighs-250b-financing-backstop-for-openai-s-10-gigawa]]
 <!-- graph:end -->

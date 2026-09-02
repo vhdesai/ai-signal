@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
@@ -35,6 +36,6 @@ Cognition, the maker of autonomous AI software engineer Devin, raised over $1 bi
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
 <!-- graph:end -->

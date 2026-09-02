@@ -19,6 +19,8 @@ entities:
 - OpenAI
 themes:
 - model-capabilities
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -36,6 +38,6 @@ Deloitte finds only 20% of organizations are prepared for autonomous AI agents, 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Associated Press
 url_original: https://www.usnews.com/news/business/articles/2026-08-26/strong-ai-chip-demand-fuels-nvidias-q2-results-well-beyond-wall-streets-expectations
 url_canonical: https://www.usnews.com/news/business/articles/2026-08-26/strong-ai-chip-demand-fuels-nvidias-q2-results-well-beyond-wall-streets-expectations
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-27_061503_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: bfb9259f859b0cff2f213e48f6ced55aeae36b0df8b9950094f49d0d3ff0d96f
@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -36,7 +37,7 @@ Nvidia reported net income of $59.69B ($2.46/share) for the May–July period, a
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt]]
 **Related:** [[2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value]] · [[2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-108b-shares-slip-a]]
 <!-- graph:end -->

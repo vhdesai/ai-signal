@@ -6,7 +6,7 @@ date: '2026-08-29'
 source: Anthropic
 url_original: https://www.anthropic.com/news/model-hardware-standard-research-preview
 url_canonical: https://www.anthropic.com/news/model-hardware-standard-research-preview
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-30_060705_Inbox_Daily AI News Digest - August 30,
   2026.md
 content_hash: 26f1801917daacb438098125d4e8d2386e4959bbf3db9d3a3e25f83b5d434b40
@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Anthropic said early MHS partners used the standard to automate scientific and m
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta]] · [[2026-08-31-anthropic-s-model-hardware-standard-draws-enterprise-scrutin]]
 <!-- graph:end -->

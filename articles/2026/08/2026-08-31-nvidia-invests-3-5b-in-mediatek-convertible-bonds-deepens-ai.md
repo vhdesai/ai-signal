@@ -6,7 +6,7 @@ date: '2026-08-31'
 source: NVIDIA Newsroom / Reuters
 url_original: https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms
 url_canonical: https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: 1a1fd2d3d281f696a948902dc029fc869ebcbf14bddc374d243ba9ad3d9489ea
 normalized_title_hash: 4b744ea7687b5651
@@ -19,6 +19,8 @@ entities:
 - Scale AI
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-nvidia-and-mediatek-deepen-partnership-across-ai-infrastruct
@@ -35,6 +37,6 @@ Nvidia and MediaTek announced an expanded collaboration spanning custom AI infra
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[Scale AI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-31-nvidia-and-mediatek-deepen-partnership-across-ai-infrastruct]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-07'
 source: AFP via Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/samsung-expects-1-800-leap-001639799.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/samsung-expects-1-800-leap-001639799.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-07_061720_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 51a5e4b1c61d823e81edafc4998149f82aa9c260e75295f559a57513bba5fbc9
@@ -16,6 +16,7 @@ entities:
 - Samsung
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Samsung forecast an approximately 1,800% operating-profit increase, driven by AI
 ## Connections
 
 **Entities:** [[Samsung]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-30-samsung-posts-record-profit-up-1-814-year-over-year-on-ai-me]] · [[2026-07-07-samsung-guides-to-record-q2-operating-profit-on-ai-memory-de]] · [[2026-07-07-samsung-guides-to-record-q2-profit-on-ai-memory-demand-but-s]] · [[2026-07-30-samsung-posts-record-profit-as-hbm-and-ai-memory-demand-surg]] · [[2026-07-31-samsung-and-sk-hynix-post-record-profits-as-ai-memory-demand]]
 <!-- graph:end -->

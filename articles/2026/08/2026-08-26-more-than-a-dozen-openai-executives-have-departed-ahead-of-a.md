@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/
 url_canonical: https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-27_061503_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 5e7293239b37a413563f783af48c6a73bf5cd40a00c733c30579cac27f1a71e1
@@ -17,6 +17,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +39,6 @@ TechCrunch tallied over a dozen senior exits since January, including Sam Altman
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-p]] · [[2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent]] · [[2026-08-26-openai-s-data-center-chief-chris-malone-departs]] · [[2026-08-25-openai-loses-head-of-data-centers-14th-executive-departure-i]]
 <!-- graph:end -->

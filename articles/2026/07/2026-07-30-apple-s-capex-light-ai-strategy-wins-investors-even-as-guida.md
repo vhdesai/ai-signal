@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Apple beat on quarterly revenue and EPS, helped by a 22% iPhone jump, but softer
 ## Connections
 
 **Entities:** [[Apple]] · [[Google]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-30-apple-beats-on-revenue-but-guides-weak-as-memory-crunch-bite]] · [[2026-07-31-apple-posts-record-june-quarter-but-warns-of-ai-driven-compo]] · [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and]] · [[2026-07-31-capex-vs-cash-flow-big-tech-doubles-down-on-ai]] · [[2026-07-30-thursday-july-30-2026]]
 <!-- graph:end -->

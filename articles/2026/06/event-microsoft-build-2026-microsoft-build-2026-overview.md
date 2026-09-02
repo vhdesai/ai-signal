@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Microsoft Build 2026 was framed as a full-stack developer platform event for the
 ## Connections
 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-365-teams-marketplace-and-eco]]
 <!-- graph:end -->

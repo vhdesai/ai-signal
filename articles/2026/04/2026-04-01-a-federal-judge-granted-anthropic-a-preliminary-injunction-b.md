@@ -5,8 +5,8 @@ title: A federal judge granted Anthropic a preliminary injunction blocking the D
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://breakingdefense.com/2026/03/judge-grants-anthropic-preliminary-injunction-but-pentagon-cto-says-ban-still-stands/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: b1910316a951451b16126c1e778f10841b583fe8b9a03f5a282acba724ee2020

@@ -5,7 +5,7 @@ date: '2026-06-29'
 source: Engadget
 url_original: https://www.engadget.com/2203579/google-reportedly-capped-meta-use-of-gemini-ai-for-coding-chatbots/
 url_canonical: https://www.engadget.com/2203579/google-reportedly-capped-meta-use-of-gemini-ai-for-coding-chatbots/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-29_060726_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: a48ae5fb1f2c95edf31e80289da9ff561e58d6e054b64cd2f87cd20be9a33ab1
@@ -17,6 +17,7 @@ entities:
 - Meta
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-29-google-capped-meta-s-gemini-usage-as-the-compute-crunch-hits
@@ -33,6 +34,6 @@ Google was forced to cap Meta's use of Gemini after Meta exceeded allotted capac
 ## Connections
 
 **Entities:** [[Google]] · [[Meta]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-06-29-google-capped-meta-s-gemini-usage-as-the-compute-crunch-hits]]
 <!-- graph:end -->

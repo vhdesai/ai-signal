@@ -19,6 +19,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
@@ -35,6 +36,6 @@ Both OpenAI and Anthropic's newly announced enterprise joint ventures are active
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Palantir]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: VentureBeat; CIO.com; Yahoo Finance
 url_original: https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence
 url_canonical: https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-06_070013_Final-Daily-AI-News-Digest.md
 content_hash: e5913883a0636a5cd1b9110d6fb488b57b9626b72cc1a759e1e137af06fa90fa
 normalized_title_hash: 958d2e63ba670be2
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su
@@ -34,6 +35,6 @@ Microsoft AI CEO Mustafa Suleyman told VentureBeat at Build 2026 that a contract
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su]]
 <!-- graph:end -->

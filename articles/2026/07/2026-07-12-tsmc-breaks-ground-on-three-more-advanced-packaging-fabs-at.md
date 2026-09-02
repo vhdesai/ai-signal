@@ -6,7 +6,7 @@ date: '2026-07-12'
 source: Focus Taiwan**
 url_original: https://focustaiwan.tw/business/202607120005
 url_canonical: https://focustaiwan.tw/business/202607120005
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-13_065032_Final-Daily-AI-News-Digest.md
 content_hash: 0c7e9c0d6ece9b39029c4e36e80c240847fea236d6efab332adffb4f4074461f
 normalized_title_hash: e2c765bc2770958e
@@ -18,6 +18,7 @@ entities:
 - TSMC
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-12-tsmc-breaks-ground-on-three-more-advanced-packaging-fabs-as
@@ -34,6 +35,6 @@ TSMC will add three advanced-packaging (CoWoS) facilities in Phase II of the Chi
 ## Connections
 
 **Entities:** [[TSMC]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-12-tsmc-breaks-ground-on-three-more-advanced-packaging-fabs-as]]
 <!-- graph:end -->

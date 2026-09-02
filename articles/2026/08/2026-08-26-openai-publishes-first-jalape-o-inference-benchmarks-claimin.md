@@ -6,7 +6,7 @@ date: '2026-08-26'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html
 url_canonical: https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-27_060153_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 865cc77df5e13df917cc334142309c4127d460aea30dadfc5be42a4796415981
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ OpenAI released initial benchmark results for Jalapeño, its LLM-optimized infer
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-25-openai-publishes-first-jalape-o-benchmarks-claiming-efficien]] · [[2026-08-26-openai-s-jalape-o-chip-beats-nvidia-blackwell-on-inference-e]]
 <!-- graph:end -->

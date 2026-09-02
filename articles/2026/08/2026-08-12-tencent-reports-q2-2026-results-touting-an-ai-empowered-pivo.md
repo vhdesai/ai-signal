@@ -19,6 +19,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ Tencent's second-quarter 2026 results were headlined "Substantial Progress towar
 ## Connections
 
 **Entities:** [[Tencent]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns]] · [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]] · [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]]
 <!-- graph:end -->

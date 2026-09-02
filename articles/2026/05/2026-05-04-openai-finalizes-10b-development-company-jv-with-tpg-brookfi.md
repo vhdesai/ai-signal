@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Hours before Anthropic's announcement, OpenAI revealed its parallel $10B venture
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip]] · [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]] · [[2026-05-08-both-anthropic-and-openai-announced-parallel-enterprise-join]]
 <!-- graph:end -->

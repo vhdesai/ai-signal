@@ -6,7 +6,7 @@ date: '2026-08-17'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+paradox+GPU+asset+class
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+paradox+GPU+asset+class
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-18_065759_Final-Daily-AI-News-Digest.md
 content_hash: 2cec9953dd135eee72359ab945ab41860fef7432d09d0c04cf4c043571decc21
 normalized_title_hash: 3aea198f8d3eff87
@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Nvidia faces a strategic tension: it wants customers to buy newest-generation ch
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-26-nvidia-weighs-250b-financing-backstop-for-openai-s-10-gigawa]] · [[2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai]]
 <!-- graph:end -->

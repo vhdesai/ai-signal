@@ -5,7 +5,7 @@ date: '2026-07-02'
 source: Business Insider
 url_original: https://www.aol.com/news/alexandr-wang-says-metas-coming-235204979.html
 url_canonical: https://www.aol.com/news/alexandr-wang-says-metas-coming-235204979.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-03_060836_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: b537096efbce9bb431d6f97797d9cb7725967ed87433149c15cd12c52624cd5e

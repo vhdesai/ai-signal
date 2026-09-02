@@ -16,6 +16,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Anduril raises $5B, valuation doubles to $61B — TechCrunch, May 13, 2026 Andur
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-24-anduril-reportedly-in-talks-to-raise-at-100b-valuation]] · [[2026-07-24-anduril-reportedly-seeks-funding-at-a-roughly-100b-valuation]] · [[2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b]] · [[2026-06-18-baseten-closes-1-5b-round-at-up-to-13b-valuation-as-open-sou]] · [[2026-06-18-baseten-nears-1-5b-round-at-13b-valuation]]
 <!-- graph:end -->

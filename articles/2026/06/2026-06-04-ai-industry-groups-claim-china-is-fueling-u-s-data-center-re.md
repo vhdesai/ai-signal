@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -37,6 +38,6 @@ AI industry groups are alleging Chinese influence behind grassroots resistance t
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-06-12-openai-says-china-launched-influence-campaign-to-shape-u-s-a]] · [[2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti]] · [[2026-08-28-axios-china-linked-bot-farm-stoking-us-opposition-to-ai-data]] · [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]]
 <!-- graph:end -->

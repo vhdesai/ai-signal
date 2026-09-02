@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: Thales / Google Cloud / AiThority
 url_original: https://aithority.com/
 url_canonical: https://aithority.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 2e8d83477d3b26b88dc58cd51b9723ac4312e7a09e7e58c23498b8bddb91a520
@@ -16,6 +16,7 @@ entities:
 - Google
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Thales and Google Cloud are extending their sovereign-cloud joint venture into G
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-27-bulgaria-partners-with-google-cloud-on-national-cybershield]] · [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-05-06-breakinganthropic-commits-200-billion-to-google-cloud-over-f]] · [[2026-08-28-alibaba-cloud-opens-first-brazil-region-with-agentic-ai-serv]]
 <!-- graph:end -->

@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing
@@ -32,7 +33,7 @@ SK Hynix priced one of the largest equity deals on record, raising $26.5 billion
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Canonical:** [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing]]
 **Related:** [[2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing]]
 <!-- graph:end -->

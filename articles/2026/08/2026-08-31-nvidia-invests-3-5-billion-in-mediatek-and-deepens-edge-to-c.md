@@ -17,6 +17,8 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +36,6 @@ Nvidia invested $3.5 billion in convertible bonds issued by Taiwanese chipmaker 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-09-01-nvidia-invests-3-5b-in-mediatek-and-opens-nvlink-fusion-to-c]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-08-26'
 source: 24/7 Wall St. · OpenAI · Nvidia
 url_original: https://247wallst.com/investing/2026/08/26/openais-custom-chip-embarrasses-nvidia-while-company-vows-to-keep-buying-from-it/
 url_canonical: https://247wallst.com/investing/2026/08/26/openais-custom-chip-embarrasses-nvidia-while-company-vows-to-keep-buying-from-it/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 5d245fb713b8a86a61d908c7ffbae1751bf1334896005a40c75db8ceae59bd05
@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ OpenAI published benchmarks claiming its first custom inference silicon delivers
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-26-openai-publishes-first-jalape-o-inference-benchmarks-claimin]] · [[2026-08-25-openai-publishes-first-jalape-o-benchmarks-claiming-efficien]] · [[2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif]]
 <!-- graph:end -->

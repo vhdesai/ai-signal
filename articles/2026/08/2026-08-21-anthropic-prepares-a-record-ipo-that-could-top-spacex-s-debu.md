@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: Yahoo Finance / Proactive
 url_original: https://finance.yahoo.com/technology/ai/articles/anthropic-file-ipo-could-top-063500275.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/anthropic-file-ipo-could-top-063500275.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_060949_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 8b3af82c90d2d3ca27c75ff91f771bbfe9ae2bab39c2461c511bd3a44ce71497
@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Anthropic is preparing to file publicly as soon as the end of this month, in a l
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-24-anthropic-s-ipo-could-break-spacex-s-recordtrending]] · [[2026-08-23-anthropic-signals-an-ipo-that-could-beat-spacex-s-86-billion]] · [[2026-08-22-anthropic-investors-reportedly-targeting-a-2-trillion-ipo]] · [[2026-08-22-anthropic-targets-an-ipo-that-could-match-or-beat-spacex-s-r]] · [[2026-08-26-anthropic-to-pitch-investors-on-a-30-trillion-addressable-ma]]
 <!-- graph:end -->

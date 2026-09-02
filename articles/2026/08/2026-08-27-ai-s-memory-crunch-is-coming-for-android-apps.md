@@ -18,6 +18,7 @@ entities:
 - Google
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-ai-data-center-demand-is-squeezing-memory-for-android-phones
@@ -34,6 +35,6 @@ Google is setting new memory-use limits for Android apps citing "significant har
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-27-ai-data-center-demand-is-squeezing-memory-for-android-phones]]
 <!-- graph:end -->

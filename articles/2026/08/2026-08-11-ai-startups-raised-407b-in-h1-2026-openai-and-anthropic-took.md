@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ AI startups raised over $407 billion in VC funding in the first half of 2026, bl
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Related:** [[2026-08-11-ai-startups-raised-in-h1-2026-openai-and-anthropic-took-more]] · [[2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]]
 <!-- graph:end -->

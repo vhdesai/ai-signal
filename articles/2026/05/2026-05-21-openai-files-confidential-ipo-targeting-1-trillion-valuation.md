@@ -5,7 +5,7 @@ date: '2026-05-21'
 source: 'Source: Bloomberg / Straits Times'
 url_original: https://www.straitstimes.com/business/companies-markets/chatgpt-maker-openai-preparing-to-file-for-listing-in-coming-weeks
 url_canonical: https://www.straitstimes.com/business/companies-markets/chatgpt-maker-openai-preparing-to-file-for-listing-in-coming-weeks
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 3b40e36ae9bcd66fcf5aed322f825194892c016ac992a1894eaa3c567c1211f4
@@ -17,6 +17,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +40,6 @@ OpenAI is preparing a confidential IPO filing for a public debut in autumn 2026 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-22-openai-files-confidential-ipo-targeting-1-trillion-valuation]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-a-1-trill]] · [[2026-05-25-openai-preparing-confidential-s-1-targeting-1t-ipo-valuation]] · [[2026-05-22-openai-files-confidential-ipo-s-1-today-852b-valuation-septe]]
 <!-- graph:end -->

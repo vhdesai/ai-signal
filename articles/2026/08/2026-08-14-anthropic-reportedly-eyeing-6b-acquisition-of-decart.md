@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Anthropic is reported to be in discussions to acquire Decart for roughly $6 bill
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren]] · [[2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne]]
 <!-- graph:end -->

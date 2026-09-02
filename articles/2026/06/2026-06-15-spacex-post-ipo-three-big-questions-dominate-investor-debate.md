@@ -16,6 +16,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Business Insider framed the three core questions post-SpaceX IPO: whether xAI ca
 ## Connections
 
 **Entities:** [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq]] · [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]] · [[2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona]]
 <!-- graph:end -->

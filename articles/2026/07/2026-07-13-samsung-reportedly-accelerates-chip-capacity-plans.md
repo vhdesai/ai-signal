@@ -18,6 +18,7 @@ entities:
 - Samsung
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ The Information reports that Samsung is moving up plant capacity plans to 2029, 
 ## Connections
 
 **Entities:** [[Samsung]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-13-semiconductors-samsung-capacity]] · [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]] · [[2026-07-07-samsung-expects-1-800-operating-profit-leap-on-ai-boom]] · [[2026-07-10-u-s-officials-urge-ai-memory-suppliers-to-build-domestic-fab]] · [[2026-07-30-samsung-posts-record-profit-up-1-814-year-over-year-on-ai-me]]
 <!-- graph:end -->

@@ -19,6 +19,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Jensen Huang announced Nvidia will invest roughly $150 billion annually in Taiwa
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki]] · [[2026-05-28-nvidia-plans-new-taiwan-hq-and-100-150b-annual-taiwan-invest]] · [[2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi]] · [[2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
 <!-- graph:end -->

@@ -21,6 +21,8 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +44,6 @@ Microsoft's Xbox gaming unit plans to cut staff in the coming months as its fina
 ## Connections
 
 **Entities:** [[Microsoft]] · [[OpenAI]] · [[Oracle]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co]] · [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration]] · [[2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce]] · [[2026-08-26-microsoft-leaving-investors-flying-blind-on-ai-businesses]] · [[2026-08-26-microsoft-is-leaving-investors-flying-blind-on-its-ai-busine]]
 <!-- graph:end -->

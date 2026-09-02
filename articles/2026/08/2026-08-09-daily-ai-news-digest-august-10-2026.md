@@ -24,6 +24,8 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -45,6 +47,6 @@ Executive Summary Monday’s cycle was defined by two forces pulling in opposite
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Intel]] · [[Meta]] · [[Microsoft]] · [[OpenAI]] · [[TSMC]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-08-14-daily-ai-news-digest-august-15-2026]] · [[2026-08-17-daily-ai-news-digest-august-18-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-08-05-daily-ai-news-digest-august-6-2026]]
 <!-- graph:end -->

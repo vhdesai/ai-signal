@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-nvidia-beats-on-fiscal-q2-with-96-22b-revenue-shares-still-s
@@ -35,7 +36,7 @@ Nvidia reported Q2 FY2027 revenue of $96.2 billion, up 106% YoY, with data cente
 ## Connections
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-26-nvidia-beats-on-fiscal-q2-with-96-22b-revenue-shares-still-s]]
 **Related:** [[2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-to-108b-as-ai-cape]]
 <!-- graph:end -->

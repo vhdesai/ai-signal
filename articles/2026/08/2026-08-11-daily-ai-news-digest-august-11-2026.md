@@ -20,6 +20,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +43,6 @@ Two themes define the last 24 hours. First, AI infrastructure is being financial
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Intel]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-11-daily-ai-news-digest-august-12-2026]] · [[2026-08-17-daily-ai-news-digest-august-18-2026]] · [[2026-08-29-daily-ai-news-digest-august-30-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-14-daily-ai-news-digest-august-15-2026]]
 <!-- graph:end -->

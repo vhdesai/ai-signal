@@ -22,6 +22,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -43,6 +44,6 @@ The past day's cycle was defined less by new frontier models than by the economi
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-06-30-tuesday-june-30-2026]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]]
 <!-- graph:end -->

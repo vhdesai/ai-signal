@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Jump%20Capital%20350%20million%20AI%20fund
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Jump%20Capital%20350%20million%20AI%20fund
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-29_060511_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 58aee6f3943415f8602e719530fbaa7e1ed8249864660ed7457907ff9a814a35
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +34,6 @@ The Information reports that Jump Capital raised a $350 million fund focused on 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc]] · [[2026-08-11-ai-startups-raised-in-h1-2026-openai-and-anthropic-took-more]]
 <!-- graph:end -->

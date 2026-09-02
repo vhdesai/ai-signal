@@ -22,6 +22,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - model-capabilities
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -43,6 +44,6 @@ Over the roughly 48 hours to the morning of Saturday, July 4 — a U.S. holiday 
 ## Connections
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Company Investments]]
 **Related:** [[2026-07-03-enterprises-move-in-big-tech-builds-deployment-armies-as-the]] · [[2026-07-12-july-13-2026]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-08-01-the-ai-brief-august-1-2026]] · [[2026-07-07-july-7-2026]]
 <!-- graph:end -->

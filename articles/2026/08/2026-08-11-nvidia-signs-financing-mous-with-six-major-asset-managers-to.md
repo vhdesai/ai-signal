@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi
@@ -37,7 +38,7 @@ Nvidia signed memoranda of understanding with Apollo, BlackRock, Blackstone, Bro
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi]]
 **Related:** [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]] · [[2026-08-10-nvidia-lines-up-over-500b-to-make-ai-compute-an-investable-a]] · [[2026-08-14-nvidia-s-500b-compute-financing-platform-draws-private-credi]]
 <!-- graph:end -->

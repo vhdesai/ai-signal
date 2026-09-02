@@ -16,6 +16,7 @@ tags: []
 entities: []
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ event_name: ''
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-08-29-tech-backlash-roughly-130b-of-data-center-projects-blocked-o]] · [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]] · [[2026-06-11-axios-congress-wants-in-on-the-data-center-backlash]]
 <!-- graph:end -->

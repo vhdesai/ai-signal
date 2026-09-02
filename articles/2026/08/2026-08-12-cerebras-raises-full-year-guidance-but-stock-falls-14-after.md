@@ -16,6 +16,7 @@ entities:
 - Cerebras
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14
@@ -32,6 +33,6 @@ In its second earnings report since May's IPO, Cerebras raised full-year guidanc
 ## Connections
 
 **Entities:** [[Cerebras]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14]]
 <!-- graph:end -->

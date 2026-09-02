@@ -20,6 +20,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ The National Science Foundation launched a $100 million program to stand up regi
 ## Connections
 
 **Entities:** [[AMD]] · [[Intel]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-05-nvidia-joins-nsf-regional-ai-infrastructure-hubs-program]] · [[2026-08-02-nvidia-linked-ai-infrastructure-spending-fuels-circular-fina]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f]]
 <!-- graph:end -->

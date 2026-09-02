@@ -5,7 +5,7 @@ date: '2026-06-25'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/06/25/patronus-ai-grabs-50m-funding-stress-test-ai-agents-simulated-environments/
 url_canonical: https://siliconangle.com/2026/06/25/patronus-ai-grabs-50m-funding-stress-test-ai-agents-simulated-environments/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-26_063633_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 00c4003395e01aaeb14af9012925c8059667f9683c38ebf58c525fdaab06c412
@@ -18,6 +18,7 @@ entities:
 themes:
 - policy-regulation
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Patronus AI, founded by former Meta researchers Anand Kannappan and Rebecca Qian
 ## Connections
 
 **Entities:** [[Meta]] · [[Samsung]]
-**Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser]] · [[2026-06-30-bengaluru-based-agentic-ai-startup-kapture-cx-raised-10m-in]] · [[2026-08-20-twin1-ai-raises-20m-for-per-employee-ai-twins]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]] · [[2026-07-13-open-source-agent-maker-nous-research-in-talks-to-raise-at-1]]
 <!-- graph:end -->

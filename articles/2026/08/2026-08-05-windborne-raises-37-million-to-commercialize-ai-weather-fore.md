@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/
 url_canonical: https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_060715_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: a76e809a9c09dd5807e557b35bedf93a42b93a9e27a5558a5de315c542c3db2c
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - model-capabilities
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-05-windborne-raises-37-million-for-ai-weather-forecasting
@@ -31,6 +32,6 @@ WindBorne Systems raised a $37 million Series B to expand its AI-enabled weather
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]]
 **Canonical:** [[2026-08-05-windborne-raises-37-million-for-ai-weather-forecasting]]
 <!-- graph:end -->

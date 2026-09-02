@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Inc. framed IBM’s latest results as a signal on enterprise AI-infrastructure a
 ## Connections
 
 **Entities:** [[IBM]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-22-goldman-sachs-assesses-when-ai-will-deliver-meaningful-earni]] · [[2026-08-22-goldman-sachs-assesses-when-ai-will-begin-delivering-meaning]] · [[2026-08-17-big-tech-s-3-trillion-ai-spending-is-higher-than-reported]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]]
 <!-- graph:end -->

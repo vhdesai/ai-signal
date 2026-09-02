@@ -17,6 +17,8 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +40,6 @@ Market analysts continue to assess SpaceX's $60 billion all-stock acquisition of
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-08-15-spacex-completes-60b-all-stock-acquisition-of-ai-coding-star]] · [[2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere]] · [[2026-08-14-spacex-completes-60b-all-stock-acquisition-of-cursor-maker-a]] · [[2026-08-14-spacex-xai-completes-acquisition-of-cursor-at-a-reported-60b]] · [[2026-08-07-spacex-nears-completion-of-60b-cursor-acquisition]]
 <!-- graph:end -->

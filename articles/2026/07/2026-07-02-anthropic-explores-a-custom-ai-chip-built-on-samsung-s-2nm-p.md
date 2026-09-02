@@ -5,7 +5,7 @@ date: '2026-07-02'
 source: The Information
 url_original: https://www.theinformation.com/search?query=Anthropic%20Samsung%20custom%20chip
 url_canonical: https://www.theinformation.com/search?query=Anthropic%20Samsung%20custom%20chip
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-04_060818_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 2c6c825b9e55f1d740f0ed176fcd87ca0f14d5dc5b151ebccb69d7637f788790
@@ -18,6 +18,7 @@ entities:
 - Samsung
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Anthropic is in early discussions with Samsung Electronics about a custom AI chi
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[Samsung]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch]] · [[2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team]] · [[2026-08-05-anthropic-confirms-in-house-custom-chip-design-team-for-clau]] · [[2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials]] · [[2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude]]
 <!-- graph:end -->

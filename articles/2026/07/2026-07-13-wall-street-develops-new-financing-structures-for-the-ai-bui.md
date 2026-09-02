@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Wall%20Street%20fund%20AI
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Wall%20Street%20fund%20AI
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-14_065741_Final-Daily-AI-News-Digest.md
 content_hash: debb449adfc337bc55a2790b9959a1cbf9a3cbf53dc8c0e5446b7509230f899c
 normalized_title_hash: 0bf3dc8e79bc4212
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou
@@ -31,6 +32,6 @@ The Information reports that Wall Street is creating more ways to fund AI infras
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou]]
 <!-- graph:end -->

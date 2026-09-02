@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ AWS and Nvidia plan to deploy two million more GPUs for AI workloads, extending 
 ## Connections
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-27-aws-and-nvidia-to-deploy-2-million-additional-gpus]] · [[2026-08-28-aws-commits-to-roughly-2-million-more-nvidia-gpus]]
 <!-- graph:end -->

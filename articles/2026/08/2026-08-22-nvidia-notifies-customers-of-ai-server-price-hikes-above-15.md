@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-reports
 url_canonical: https://money.usnews.com/investing/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-reports
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-23_060400_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: 19eba3d8f4c9cf865e1bfcf31435ce19df0425bef67eb2344fe6969f562b3627
@@ -20,6 +20,7 @@ entities:
 - Oracle
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d
@@ -36,6 +37,6 @@ Several of Nvidia's largest customers have been told that prices for servers con
 ## Connections
 
 **Entities:** [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[Oracle]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d]]
 <!-- graph:end -->

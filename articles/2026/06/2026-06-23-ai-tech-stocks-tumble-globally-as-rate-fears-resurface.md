@@ -17,6 +17,7 @@ entities:
 - Samsung
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ A broad selloff hit AI-adjacent equities worldwide. Samsung Electronics and SK H
 ## Connections
 
 **Entities:** [[Samsung]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat]] · [[2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off]] · [[2026-06-27-u-s-and-european-semiconductor-stocks-sold-off-friday-on-fea]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]]
 <!-- graph:end -->

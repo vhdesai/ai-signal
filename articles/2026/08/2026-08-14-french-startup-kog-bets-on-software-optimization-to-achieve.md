@@ -20,6 +20,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ French startup Kog is building a GPU inference optimization engine that demonstr
 ## Connections
 
 **Entities:** [[AMD]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-14-kog-aims-to-squeeze-more-inference-throughput-from-conventio]] · [[2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti]] · [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere]] · [[2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon]] · [[2026-08-25-openai-s-jalape-o-chip-posts-inference-benchmarks-beating-nv]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-08-01'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/01/amd-releases-instella-moe-16b-a3b-a-fully-open-mixture-of-experts-llm-with-2-8b-active-parameters-trained-on-instinct-gpus/
 url_canonical: https://www.marktechpost.com/2026/08/01/amd-releases-instella-moe-16b-a3b-a-fully-open-mixture-of-experts-llm-with-2-8b-active-parameters-trained-on-instinct-gpus/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-03_060602_Inbox_Daily AI News Digest - August 3,
   2026.md
 content_hash: 75e2e0d089a573f9864b21e5c670ae56d1dd8c31beaa58408e2bb7e2677cbc42

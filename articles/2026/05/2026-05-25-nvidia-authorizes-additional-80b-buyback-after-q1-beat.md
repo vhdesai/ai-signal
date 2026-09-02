@@ -5,7 +5,7 @@ date: '2026-05-25'
 source: The Motley Fool
 url_original: https://www.linkedin.com/pulse/week-ai-24-may-2026-konekt-ai-eumqc
 url_canonical: https://www.linkedin.com/pulse/week-ai-24-may-2026-konekt-ai-eumqc
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-25_071611_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 644d65a133d0702989d6423d4018568b7be0838c1b36b3f2279e07cf4e55e5ed
@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q
@@ -34,6 +35,6 @@ Following last week's Q1 print that beat both consensus and internal guidance, N
 ## Connections
 
 **Entities:** [[Amazon]] · [[Meta]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q]]
 <!-- graph:end -->

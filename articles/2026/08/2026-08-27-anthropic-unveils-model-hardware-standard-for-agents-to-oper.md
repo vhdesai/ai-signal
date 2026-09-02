@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: CNBC · Anthropic
 url_original: https://www.cnbc.com/2026/08/27/anthropic-pushes-into-physical-world-with-new-standard-to-help-ai-agents-operate-machines.html
 url_canonical: https://www.cnbc.com/2026/08/27/anthropic-pushes-into-physical-world-with-new-standard-to-help-ai-agents-operate-machines.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: df468ec242d0f308e0bac6806cf3e6fe31bcc4f9bfa99bf964f168f961954523

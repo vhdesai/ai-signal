@@ -18,6 +18,8 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- ma-activity
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +40,6 @@ European AI infrastructure company Nebius announced the $643 million acquisition
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-27-nvidia-confirms-hugging-face-acquisition-for-12-9-billion]] · [[2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares]] · [[2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-08-07'
 source: Anthropic
 url_original: https://support.claude.com/en/articles/15363606-why-claude-switched-models-in-your-conversation-with-fable-5
 url_canonical: https://support.claude.com/en/articles/15363606-why-claude-switched-models-in-your-conversation-with-fable-5
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_061041_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 73555bda2f44e5b571df6e14876cafd672005f72e50862a130e543d6ab04591f

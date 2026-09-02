@@ -16,6 +16,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ OpenAI hired Dean Ball, the former lead author of the Trump White House's AI Act
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]]
 **Related:** [[2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball]] · [[2026-07-19-pentagon-official-blasts-openai-s-dean-ball-over-regulation]] · [[2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai]] · [[2026-08-21-openai-launches-ai-futures-a-blog-on-power-governance-and-hu]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Engadget
 url_original: https://www.engadget.com/2244799/google-gemini-latest-transcription-model-can-turn-ramblings-into-structured-text/
 url_canonical: https://www.engadget.com/2244799/google-gemini-latest-transcription-model-can-turn-ramblings-into-structured-text/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-27_065417_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 327c1af2c93ecfaa5675f906e6cc8b073c7f9413dc1997a4c48ab5b4fa3847a2

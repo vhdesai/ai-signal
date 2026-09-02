@@ -6,7 +6,7 @@ date: '2026-06-02'
 source: Microsoft; TechCrunch; Wired; The Verge; Gizbot
 url_original: https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/
 url_canonical: https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-04_071147_Daily-AI-News-Digest.md
 content_hash: 48dfe6a632cbb9bb08be828424a3738aad2010b75115ee905c0daaaaf647d785
 normalized_title_hash: a023e090aa40da70
@@ -18,6 +18,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-02-microsoft-launches-scout-agent-agent-365-governance-and-surf
@@ -34,6 +35,6 @@ Microsoft launched Scout, the first of a new "Autopilots" class of always-on aut
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-06-02-microsoft-launches-scout-agent-agent-365-governance-and-surf]]
 <!-- graph:end -->

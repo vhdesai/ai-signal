@@ -5,7 +5,7 @@ date: '2026-06-11'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/
 url_canonical: https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-12_070109_Final-Daily-AI-News-Digest.md
 content_hash: 7dc88e594b56717770e171c1824b8bd5448118dd341a4078c882c9068b05aef1
 normalized_title_hash: 1783e2b6dee76d1b
@@ -17,6 +17,7 @@ entities:
 - DeepSeek
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -34,6 +35,6 @@ Bezos-backed Prometheus raised $12 billion — the largest AI startup round ever
 ## Connections
 
 **Entities:** [[DeepSeek]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-06-11-jeff-bezos-s-prometheus-raises-12b-largest-ai-startup-round]]
 <!-- graph:end -->

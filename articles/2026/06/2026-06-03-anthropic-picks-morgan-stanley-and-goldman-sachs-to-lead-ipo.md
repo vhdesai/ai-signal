@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Anthropic selected Morgan Stanley and Goldman Sachs as lead underwriters, signal
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]]
 <!-- graph:end -->

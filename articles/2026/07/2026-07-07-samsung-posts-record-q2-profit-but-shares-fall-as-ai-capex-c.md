@@ -5,7 +5,7 @@ date: '2026-07-07'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/07/samsung-electronics-preliminary-second-quarter-profit-hits-fresh-high.html
 url_canonical: https://www.cnbc.com/2026/07/07/samsung-electronics-preliminary-second-quarter-profit-hits-fresh-high.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-07_062455_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 8e81ccc9ee7b1e226c4a3c5944d59b16bb36512c288d2e855d16d984d1c8fa97
@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-07-samsung-guides-to-record-q2-operating-profit-on-ai-memory-de
@@ -33,6 +34,6 @@ Samsung guided to a record ~89.4 trillion won ($58.4B) Q2 operating profit — u
 ## Connections
 
 **Entities:** [[Samsung]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-07-samsung-guides-to-record-q2-operating-profit-on-ai-memory-de]]
 <!-- graph:end -->

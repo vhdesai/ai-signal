@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Dylan Patel’s move from analyst to fund manager reflects the rise of specialis
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-03-semianalysis-dylan-patel-targets-400-million-venture-capital]] · [[2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i]] · [[2026-08-21-private-equity-deploys-army-of-ai-wonks-to-embed-in-portfoli]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]] · [[2026-07-27-hsbc-to-hire-100-ai-specialists-in-singapore-expansion]]
 <!-- graph:end -->

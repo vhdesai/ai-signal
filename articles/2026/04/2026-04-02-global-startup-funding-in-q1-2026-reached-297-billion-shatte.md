@@ -20,6 +20,8 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +43,6 @@ Global startup funding in Q1 2026 reached $297 billion, shattering all previous 
 ## Connections
 
 **Entities:** [[Mistral]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai]] · [[2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o]] · [[2026-07-07-north-american-startup-funding-hits-record-392b-in-h1-2026-o]]
 <!-- graph:end -->

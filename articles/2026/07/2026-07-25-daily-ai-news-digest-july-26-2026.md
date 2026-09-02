@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +41,6 @@ Capital, infra fragility, and safety investigations drove the last 24 hours. Dee
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-09-daily-ai-news-digest-july-10-2026]] · [[2026-07-26-daily-ai-news-digest-july-27-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-07-08-daily-ai-news-digest-july-9-2026]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-05-31'
 source: Wall Street Journal; May 30, 2026 · TechCrunch; June 1, 2026 · The Information
 url_original: https://www.wsj.com/tech/ai/softbank-to-plow-52-billion-into-french-data-centers-5268a1be
 url_canonical: https://www.wsj.com/tech/ai/softbank-to-plow-52-billion-into-french-data-centers-5268a1be
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: bd0b01610e8487226512eddad33369c49eeada92f64a70bae0b325cb3dfdb495
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ SoftBank’s plan to invest tens of billions in French data centers adds another
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers]] · [[2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered]] · [[2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]]
 <!-- graph:end -->

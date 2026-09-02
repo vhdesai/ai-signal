@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: Yahoo Finance / Proactive
 url_original: https://finance.yahoo.com/technology/ai/articles/traders-bet-anthropic-ship-next-100000419.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/traders-bet-anthropic-ship-next-100000419.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 9464b4bf0f5fe783ab1206a815498ef09ae159fdefed4a6af90bd2619054367e

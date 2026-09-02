@@ -18,6 +18,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +41,6 @@ TechCrunch reported Google and SpaceX are exploring orbital data centers for AI 
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl]] · [[2026-08-21-starcloud-raises-250-million-for-orbital-ai-data-centers]] · [[2026-08-21-starcloud-adds-250-million-for-orbital-ai-data-centers]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-08-04-spacex-revenue-nearly-doubles-on-ai-compute-deals-and-starli]]
 <!-- graph:end -->

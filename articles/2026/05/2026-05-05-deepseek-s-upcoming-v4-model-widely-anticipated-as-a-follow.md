@@ -23,6 +23,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -43,6 +44,6 @@ DeepSeek's upcoming V4 model — widely anticipated as a follow-on to the market
 ## Connections
 
 **Entities:** [[Alibaba]] · [[ByteDance]] · [[DeepSeek]] · [[Huawei]] · [[NVIDIA]] · [[Tencent]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]] · [[2026-05-08-following-the-april-24-release-of-deepseek-v4-preview-a-wave]] · [[2026-04-06-deepseek-s-forthcoming-v4-model-reportedly-carrying-1-trilli]]
 <!-- graph:end -->

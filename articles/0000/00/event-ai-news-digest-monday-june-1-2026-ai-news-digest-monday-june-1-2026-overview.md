@@ -4,8 +4,8 @@ title: AI News Digest — Monday, June 1, 2026 — Overview
 date: null
 source: AI News Digest — Monday, June 1, 2026
 url_original: null
-url_canonical: https://www.buildfastwithai.com/blogs/ai-news-today-june-1-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\ai-news-digest-2026-06-01-report.md
 content_hash: c675eb07dcae7b11474adae303066b06d7fddc3b5f24021bda379830a08a7423
 normalized_title_hash: 756d287a11985ee4
@@ -35,6 +35,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -57,6 +58,6 @@ The strict 24-hour window was dominated by a single event: NVIDIA's GTC Taipei /
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2]] · [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]] · [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-05-27-nvidia-refreshes-gtc-2026-press-kit-ahead-of-taipei]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]]
 <!-- graph:end -->

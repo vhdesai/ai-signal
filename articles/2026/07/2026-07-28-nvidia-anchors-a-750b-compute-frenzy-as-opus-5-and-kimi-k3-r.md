@@ -22,6 +22,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -43,6 +44,6 @@ Nvidia dominated the past 24 hours on three fronts — a reported ~$250B financi
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-28-nvidia-s-triple-play-china-s-largest-open-model-and-the-agen]] · [[2026-07-27-daily-ai-news-digest-july-28-2026]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
 <!-- graph:end -->

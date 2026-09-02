@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: NOTUS**
 url_original: https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble
 url_canonical: https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-06_084325_Final-Daily-AI-News-Digest.md
 content_hash: b49a8169566512f36c166c7cc6429c8981552ed127ac4a06c2a3c409ccfecbb9
 normalized_title_hash: dbe7bdf9eb3683d8

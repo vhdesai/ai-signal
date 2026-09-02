@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ The Wall Street Journal highlighted farmers who refused a multimillion-dollar AI
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-08-16-kentucky-farmers-refuse-26-million-from-ai-data-center-devel]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]]
 <!-- graph:end -->

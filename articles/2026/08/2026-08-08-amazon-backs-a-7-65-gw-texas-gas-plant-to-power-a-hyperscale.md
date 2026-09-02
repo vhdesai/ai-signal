@@ -5,7 +5,7 @@ date: '2026-08-08'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/
 url_canonical: https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-09_062204_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: edfe1b90976da1bd1a7a52932fbbeff4d258262628a6e0ad6091dad6155abaab
@@ -18,6 +18,7 @@ entities:
 - Amazon
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Amazon confirmed it is financing Pacifico Energy’s GW Ranch, a private 7.65-gi
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-07-amazon-behind-massive-private-gas-plant-for-new-data-centers]] · [[2026-08-08-planned-amazon-data-center-could-become-the-largest-climate]] · [[2026-08-08-amazon-s-planned-texas-data-center-power-plant-would-be-larg]] · [[2026-08-08-amazon-backs-7-65-gw-texas-gas-plant-to-power-hyperscale-ai]] · [[2026-08-08-planned-amazon-data-center-could-become-the-largest-u-s-clim]]
 <!-- graph:end -->

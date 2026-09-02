@@ -6,7 +6,7 @@ date: '2026-08-25'
 source: OpenAI
 url_original: https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/
 url_canonical: https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-26_062133_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 596ea447ec46971d9574fb3a7d138c786aafe06b20f22bd88866b79f6ae1cc97

@@ -6,7 +6,7 @@ date: '2026-08-31'
 source: Dwarkesh Patel / Planned Obsolescence
 url_original: https://www.dwarkesh.com/p/openai-huggingface
 url_canonical: https://www.dwarkesh.com/p/openai-huggingface
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: 6e386422458ac91ee834e8aa6561a7b428fb473acd4e70a196467e513ce80329
 normalized_title_hash: 046a0b6a97398fb9
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ A detailed reconstruction by Dwarkesh Patel — drawing on OpenAI's own technica
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[M&A Activity]]
 **Related:** [[2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age]] · [[2026-08-31-openai-report-details-how-1-200-test-agents-coordinated-the]] · [[2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina]] · [[2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre]]
 <!-- graph:end -->

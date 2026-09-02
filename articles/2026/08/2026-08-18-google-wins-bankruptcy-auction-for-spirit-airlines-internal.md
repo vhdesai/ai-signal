@@ -5,7 +5,7 @@ date: '2026-08-18'
 source: TechSpot
 url_original: https://www.techspot.com/news/113526-google-pays-10-million-100-million-spirit-airlines.html
 url_canonical: https://www.techspot.com/news/113526-google-pays-10-million-100-million-spirit-airlines.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-18_065100_Final-Daily-AI-News-Digest.md
 content_hash: d3f06cc14df1767e32d8081b1c085adae27e61ed2f542f4c77476b6d9d454e3f
 normalized_title_hash: cededcbe4e5000e7
@@ -16,6 +16,7 @@ entities:
 - Google
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-18-google-wins-10-million-auction-for-spirit-airlines-internal
@@ -33,7 +34,7 @@ Google outbid rivals to acquire a Spirit Airlines corpus reported to include rou
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-18-google-wins-10-million-auction-for-spirit-airlines-internal]]
 **Related:** [[2026-08-18-google-wins-spirit-airlines-bankrupt-data-estate-for-10m]]
 <!-- graph:end -->

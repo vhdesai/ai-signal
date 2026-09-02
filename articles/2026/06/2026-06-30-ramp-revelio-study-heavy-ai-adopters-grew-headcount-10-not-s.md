@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: Ramp Economics Lab
 url_original: https://ramp.com/data/ai-jobs-impact
 url_canonical: https://ramp.com/data/ai-jobs-impact
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-04_060818_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 82a78b52050abb3bcbedc5519068794adac214dd17153de676bc59d6a606fd10

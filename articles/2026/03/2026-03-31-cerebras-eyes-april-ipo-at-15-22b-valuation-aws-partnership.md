@@ -20,6 +20,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +43,6 @@ Cerebras re-filed confidentially for a U.S. IPO led by Morgan Stanley, targeting
 ## Connections
 
 **Entities:** [[Amazon]] · [[Cerebras]] · [[OpenAI]] · [[Oracle]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation]] · [[2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u]] · [[2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation]] · [[2026-05-14-cerebras-prices-5-55b-ipo-at-185-share-largest-u-s-tech-ipo]] · [[2026-05-10-breakingcerebras-ipo-demand-forces-price-hike-4-8b-raise-exp]]
 <!-- graph:end -->

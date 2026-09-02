@@ -5,8 +5,8 @@ title: OpenAI and Amazon Web Services announced a stateful runtime integration t
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.aboutamazon.com/news/aws/amazon-open-ai-strategic-partnership-investment
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: c69725a6d4f9e6e9fac0ba9f4747869be464e29805065daca521dfba2de3ec3f

@@ -26,6 +26,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -44,6 +45,6 @@ Researchers from Google Cloud AI Research, Washington University in St. Louis, a
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-30-envharness-turns-static-agent-training-environments-into-ada]] · [[2026-08-20-google-introduces-envharness-reshaping-static-training-world]]
 <!-- graph:end -->

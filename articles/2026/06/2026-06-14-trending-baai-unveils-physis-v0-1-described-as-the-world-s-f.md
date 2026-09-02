@@ -6,7 +6,7 @@ date: '2026-06-14'
 source: June 14, 2026
 url_original: https://news.cgtn.com/news/2026-06-14/China-unveils-AI-world-model-that-understands-physical-world-1NYmex0KQlG/p.html
 url_canonical: https://news.cgtn.com/news/2026-06-14/China-unveils-AI-world-model-that-understands-physical-world-1NYmex0KQlG/p.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-15_155554_Final-Daily-AI-News-Digest.md
 content_hash: 3800b20ef2dc37d92f8365f078e898bf154575a8d9bda78de9dece9a2114dc04
 normalized_title_hash: 8966ab124941d3f7

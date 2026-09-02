@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: Benzinga
 url_original: https://www.benzinga.com/markets/tech/26/05/52653879/nvidia-vera-ai-cpus-spacex-anthropic-openai-elon-musk
 url_canonical: https://www.benzinga.com/markets/tech/26/05/52653879/nvidia-vera-ai-cpus-spacex-anthropic-openai-elon-musk
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 4b15b45965c3f9ed83cf45f669145d63c50fb0142123cc426c195f0a46495d99
@@ -20,6 +20,7 @@ entities:
 - Oracle
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ Nvidia confirmed that SpaceXAI, Oracle Cloud Infrastructure, Anthropic, and Open
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-21-nvidia-details-vera-cpu-for-ai-agent-workloads]] · [[2026-06-01-nvidia-unveils-vera-cpu-an-agent-native-processor-for-window]] · [[2026-07-21-nvidia-details-vera-cpu-opening-a-new-front-against-amd-and]] · [[2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-its-own-chip-de]] · [[2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-up-its-own-chip]]
 <!-- graph:end -->

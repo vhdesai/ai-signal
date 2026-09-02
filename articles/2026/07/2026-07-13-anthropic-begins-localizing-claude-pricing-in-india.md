@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/
 url_canonical: https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_062633_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 47b53df0425ff6b11aa4f1fca239e8ed156a293963ea4fafae59f4256d64532a

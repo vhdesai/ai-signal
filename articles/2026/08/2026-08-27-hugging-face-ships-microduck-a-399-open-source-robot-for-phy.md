@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/
 url_canonical: https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-29_065041_Final-Daily-AI-News-Digest.md
 content_hash: 8078ad927ffb7e7cb0627e7bad4b089fcab1265da1373f4329ce24f62ad178b8
 normalized_title_hash: be8462be536ec3a5

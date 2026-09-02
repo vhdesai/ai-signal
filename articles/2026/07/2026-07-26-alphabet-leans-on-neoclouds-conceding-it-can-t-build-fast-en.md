@@ -5,7 +5,7 @@ date: '2026-07-26'
 source: Memeburn**
 url_original: https://memeburn.com/google-cant-build-fast-enough-neocloud-stocks-surge/
 url_canonical: https://memeburn.com/google-cant-build-fast-enough-neocloud-stocks-surge/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-27_065041_Final-Daily-AI-News-Digest.md
 content_hash: 729027b5607232f87d9bae1410ad9d133a036637e17453e0ac5a7053ce8baaec
 normalized_title_hash: 25d174e49375ed65
@@ -16,6 +16,8 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en
@@ -31,6 +33,6 @@ Alphabet raised 2026 AI capex guidance to ~$205B and acknowledged it needs third
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en]]
 <!-- graph:end -->

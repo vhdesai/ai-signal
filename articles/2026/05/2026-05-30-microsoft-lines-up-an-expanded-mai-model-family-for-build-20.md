@@ -5,7 +5,7 @@ date: '2026-05-30'
 source: TestingCatalog
 url_original: https://www.testingcatalog.com/microsoft-readies-new-mai-voice-and-image-models-for-build-2026/
 url_canonical: https://www.testingcatalog.com/microsoft-readies-new-mai-voice-and-image-models-for-build-2026/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_060804_Daily-AI-News-Digest.md
 content_hash: 04cba7b0cb8ceaa04a058247076719b69760f0237065cfa9a9b122804bac8fef
 normalized_title_hash: 77c4fcf0f57c3a25

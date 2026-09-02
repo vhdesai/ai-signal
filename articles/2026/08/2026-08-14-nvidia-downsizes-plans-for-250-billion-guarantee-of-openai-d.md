@@ -5,7 +5,7 @@ date: '2026-08-14'
 source: The Wall Street Journal**
 url_original: https://www.wsj.com/tech/nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-data-center-b56c38d3
 url_canonical: https://www.wsj.com/tech/nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-data-center-b56c38d3
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-15_065743_Final-Daily-AI-News-Digest.md
 content_hash: ad13c69368293f42567e3c83bd3534d4160ba0f7ce143d82e62d55d0ccdbd51f
 normalized_title_hash: f14cf3164464fc00
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,5 +35,5 @@ Nvidia is scaling back its plans to guarantee up to $250 billion in financing fo
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 <!-- graph:end -->

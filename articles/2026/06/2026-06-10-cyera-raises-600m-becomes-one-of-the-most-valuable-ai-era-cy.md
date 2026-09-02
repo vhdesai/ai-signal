@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ The NYT reported that Cyera raised $600 million, positioning it as one of the mo
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-10-cyera-raises-600m-becomes-top-ai-era-cybersecurity-startup]] · [[2026-07-28-cyera-to-acquire-oasis-security-for-1b-to-secure-proliferati]] · [[2026-07-29-cyera-agrees-to-acquire-oasis-security-for-1-billion-to-secu]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha]] · [[2026-08-03-horizon3-raises-250m-as-autonomous-pentesting-demand-rises]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - Mistral
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ In a parallel WSJ piece, Mistral leadership cautioned European governments and e
 ## Connections
 
 **Entities:** [[Mistral]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design]] · [[2026-05-28-mistral-confirms-it-is-exploring-custom-ai-chip-design-and-r]] · [[2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent]] · [[2026-05-28-mistral-ceo-says-lab-is-exploring-designing-its-own-ai-chips]] · [[2026-05-28-mistral-explores-custom-chips-and-new-french-data-center]]
 <!-- graph:end -->

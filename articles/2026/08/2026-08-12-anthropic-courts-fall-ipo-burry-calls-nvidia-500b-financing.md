@@ -21,6 +21,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -43,6 +44,6 @@ Anthropic is meeting prospective public-market investors ahead of a possible lis
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-12-anthropic-courts-investors-for-fall-ipo-burry-critiques-nvid]] · [[2026-08-12-anthropic-courts-investors-ahead-of-fall-ipo-michael-burry-c]] · [[2026-08-12-michael-burry-calls-nvidia-s-500b-ai-financing-push-a-wall-s]] · [[2026-08-12-anthropic-works-to-shore-up-investor-confidence-ahead-of-a-b]] · [[2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar]]
 <!-- graph:end -->

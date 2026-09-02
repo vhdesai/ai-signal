@@ -5,7 +5,7 @@ date: '2026-07-03'
 source: TIME
 url_original: https://time.com/article/2026/07/03/openai-invest-ai-trump-administration-sam-altman/
 url_canonical: https://time.com/article/2026/07/03/openai-invest-ai-trump-administration-sam-altman/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-04_060818_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 5dd139cdc96fc5a8e4a826056eea24baa93defe5ffc5698f0467818d2e7637ed
@@ -21,6 +21,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -41,6 +42,6 @@ OpenAI has discussed ceding roughly 5% of its equity — about $42.6 billion at 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-02-openai-proposes-donating-5-of-its-equity-to-a-u-s-sovereign]] · [[2026-07-02-openai-floats-giving-the-u-s-government-a-5-stake-42-6b]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]]
 <!-- graph:end -->

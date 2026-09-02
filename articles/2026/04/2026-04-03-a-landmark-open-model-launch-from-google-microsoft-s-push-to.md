@@ -20,6 +20,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ A landmark open-model launch from Google, Microsoft's push toward AI self-suffic
 ## Connections
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-04-02-in-a-landmark-move-toward-ai-self-sufficiency-microsoft-toda]] · [[2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]]
 <!-- graph:end -->

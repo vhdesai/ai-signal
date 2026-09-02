@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Global startup funding doubled year-over-year to $56B in April — the third-hig
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-05-global-startup-funding-doubled-year-over-year-to-56b-in-apri]] · [[2026-05-09-global-venture-funding-reached-56-billion-in-april-2026-the]] · [[2026-04-02-global-startup-funding-in-q1-2026-reached-297-billion-shatte]] · [[2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o]] · [[2026-07-07-north-american-startup-funding-hits-record-392b-in-h1-2026-o]]
 <!-- graph:end -->

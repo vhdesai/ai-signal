@@ -5,7 +5,7 @@ date: '2026-07-15'
 source: CNBC · The Wall Street Journal
 url_original: https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html
 url_canonical: https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-15_082850_Final-Daily-AI-News-Digest.md
 content_hash: 6372ea3f06957e91d8089fc2abeaca7f2f903594416d735b533a39709f3e8f34
 normalized_title_hash: 7bb7b5dfcdd7a998
@@ -17,6 +17,7 @@ entities:
 - TSMC
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ ASML raised its full-year guidance for the second time this year and beat quarte
 ## Connections
 
 **Entities:** [[TSMC]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Related:** [[2026-07-15-asml-raises-guidance-again-on-continuing-ai-chip-demand]] · [[2026-07-16-tsmc-reportedly-plans-another-100b-u-s-investment-as-ai-dema]] · [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-sustained-ai-c]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand]]
 <!-- graph:end -->

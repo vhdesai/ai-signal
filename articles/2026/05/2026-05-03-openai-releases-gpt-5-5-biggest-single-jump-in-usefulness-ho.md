@@ -22,6 +22,7 @@ entities:
 - OpenAI
 themes:
 - model-capabilities
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -41,6 +42,6 @@ OpenAI Releases GPT-5.5 — "Biggest Single Jump in Usefulness" HOT MSN / Multip
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Meta]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-04-23-]] · [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]]
 <!-- graph:end -->

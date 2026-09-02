@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: eWeek
 url_original: https://www.eweek.com/news/firmus-2-billion-ai-infrastructure-raise/
 url_canonical: https://www.eweek.com/news/firmus-2-billion-ai-infrastructure-raise/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-11_060300_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 5c979be418f39c793543c9a32c625a20cb24fb5d92009d097a8482adbfcea39f
@@ -15,6 +15,8 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +37,6 @@ Firmus, an Australian AI infrastructure operator, raised US$2 billion at a valua
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation]] · [[2026-08-07-nvidia-backed-firmus-raises-2b-at-10-5b-valuation]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]] · [[2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
 <!-- graph:end -->

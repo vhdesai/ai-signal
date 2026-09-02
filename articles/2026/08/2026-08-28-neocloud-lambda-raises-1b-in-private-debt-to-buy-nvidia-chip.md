@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-lambda-secures-1-billion-in-private-debt-to-buy-more-nvidia
@@ -34,6 +35,6 @@ Lambda secured $1 billion in private debt to purchase Nvidia accelerators, which
 ## Connections
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-28-lambda-secures-1-billion-in-private-debt-to-buy-more-nvidia]]
 <!-- graph:end -->

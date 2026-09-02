@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: Business Insider
 url_original: https://www.businessinsider.com/anthropic-soared-1-2-trillion-valuation-on-secondary-markets-2026-7
 url_canonical: https://www.businessinsider.com/anthropic-soared-1-2-trillion-valuation-on-secondary-markets-2026-7
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-09_084403_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 92cf0064c5708543150486afa548b7a0b92a84af962c97ef7041762e70a69fed
@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
@@ -33,6 +34,6 @@ Anthropic shares are reportedly trading around a $1.2 trillion valuation on seco
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]]
 <!-- graph:end -->

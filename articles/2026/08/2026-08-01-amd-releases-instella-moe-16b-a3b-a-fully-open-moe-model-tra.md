@@ -20,6 +20,7 @@ entities:
 - NVIDIA
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ AMD released Instella-MoE-16B-A3B, a Mixture-of-Experts language model with 16B 
 ## Connections
 
 **Entities:** [[AMD]] · [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts]] · [[2026-08-01-amd-ships-instella-moe-16b-a3b-a-fully-open-mixture-of-exper]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-08-03-amd-s-release-is-strategically-important-because-it-demonstr]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]]
 <!-- graph:end -->

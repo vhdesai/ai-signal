@@ -4,7 +4,7 @@ type: vault-index
 
 # News Trends — Knowledge Graph
 
-> 7767 article notes · 34 entity hubs · 5 topic hubs. Open **Graph view** to explore.
+> 7767 article notes · 34 entity hubs · 8 topic hubs. Open **Graph view** to explore.
 
 ## Entities
 
@@ -12,4 +12,4 @@ type: vault-index
 
 ## Topics
 
-[[Corporate Moves]] · [[Global AI Race]] · [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Policy & Regulation]]
+[[Company Investments]] · [[Corporate Moves]] · [[Global AI Race]] · [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[M&A Activity]] · [[Model Breakthroughs]] · [[Policy & Regulation]]

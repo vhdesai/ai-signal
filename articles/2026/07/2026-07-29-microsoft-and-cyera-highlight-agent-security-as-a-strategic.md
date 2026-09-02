@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: CIO Dive / TechCrunch
 url_original: https://www.ciodive.com/news/microsoft-agentic-security-platform-ai-attacks/826370/
 url_canonical: https://www.ciodive.com/news/microsoft-agentic-security-platform-ai-attacks/826370/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - July
   30, 2026 (Revised).md
 content_hash: 512029c4eec76893464ba2e41c5f8247e24375eccb0e24725c4708260435504b
@@ -17,6 +17,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-29-cyera-agrees-to-acquire-oasis-security-for-1-billion-to-secu
@@ -33,6 +34,6 @@ Microsoft launched an agentic security platform designed to counter AI-based att
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-07-29-cyera-agrees-to-acquire-oasis-security-for-1-billion-to-secu]]
 <!-- graph:end -->

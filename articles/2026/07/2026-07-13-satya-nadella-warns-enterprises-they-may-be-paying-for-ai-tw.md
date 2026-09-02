@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/
 url_canonical: https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_060635_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 6bd4be407831f90cc78cb0fa74c9268a5d96f526d892116cf3276747fe545c1f

@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Nvidia published an update on Japan's AI ecosystem, emphasizing manufacturers, r
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-16-nvidia-and-japan-launch-national-ai-infrastructure-for-physi]] · [[2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project]] · [[2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of]] · [[2026-08-29-nvidia-wants-to-run-the-world-s-robots-china-is-an-eager-cus]] · [[2026-07-16-nvidia-unveils-cosmos-3-edge-and-expands-its-japan-physical]]
 <!-- graph:end -->

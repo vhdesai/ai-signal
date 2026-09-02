@@ -5,7 +5,7 @@ date: '2026-09-01'
 source: Meta AI Research
 url_original: https://research.meta.ai/blog/introducing-muse-voice-transcribe
 url_canonical: https://research.meta.ai/blog/introducing-muse-voice-transcribe
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-02_065546_Final-Daily-AI-News-Digest.md
 content_hash: 162f93a205c8258c52df5fa853e811c88b37002d1fd448a1113cd515b6c245aa
 normalized_title_hash: dede6183ba3fcac3

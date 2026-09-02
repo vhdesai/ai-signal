@@ -22,6 +22,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -43,6 +44,6 @@ AI Infrastructure Faces $7 Trillion Reality Check; Financing and Insurance Stres
 ## Connections
 
 **Entities:** [[Oracle]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-12-oracle-drawing-up-layoff-plans-as-ai-infrastructure-debt-mou]] · [[2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke]] · [[2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-05-24'
 source: Best Practice AI weekly brief
 url_original: https://epium.com/news/uc-berkeley-law-tightens-artificial-intelligence-rules-without-banning-it/
 url_canonical: https://epium.com/news/uc-berkeley-law-tightens-artificial-intelligence-rules-without-banning-it/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-25_071611_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 40c87db0ffee649e224d8f7edcbbf5cadac0be55c2af3ff5b7f7f0bcdb3dd29e
@@ -19,6 +19,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ The May 24 brief aggregates Nvidia's ~$90B deal spree, Barclays' warning that Bi
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-15-bond-traders-scrutinize-70b-off-balance-sheet-ai-credit-back]] · [[2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure]] · [[2026-07-24-moody-s-warns-ai-capex-is-straining-big-tech-credit-quality]] · [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]]
 <!-- graph:end -->

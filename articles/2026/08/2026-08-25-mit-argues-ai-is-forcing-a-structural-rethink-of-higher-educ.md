@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: Forbes
 url_original: https://www.forbes.com/sites/ronschmelzer/2026/08/25/mit-says-ai-is-forcing-a-rethink-of-college-itself/
 url_canonical: https://www.forbes.com/sites/ronschmelzer/2026/08/25/mit-says-ai-is-forcing-a-rethink-of-college-itself/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-26_062133_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 123d8dea8892b5311afa93df46d80b0bf565206fab99da5df00f71b95245e10d

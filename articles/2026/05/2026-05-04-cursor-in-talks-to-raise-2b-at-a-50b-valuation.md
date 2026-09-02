@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ AI coding startup Cursor is in advanced talks to raise about $2B at a $50B pre-m
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-04-17-breaking-cursor-in-advanced-talks-on-2b-round-at-50b-valuati]] · [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]] · [[2026-04-20-the-information-techcrunch-april-19-2026-anysphere-s-cursor]] · [[2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr]]
 <!-- graph:end -->

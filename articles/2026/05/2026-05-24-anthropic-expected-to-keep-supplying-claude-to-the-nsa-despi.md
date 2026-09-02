@@ -20,6 +20,7 @@ entities:
 - NVIDIA
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Reporting today suggests Anthropic will continue supplying models to the NSA des
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]] · [[2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks]]
 <!-- graph:end -->

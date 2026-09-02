@@ -18,6 +18,7 @@ entities:
 - Oracle
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Record Q4 with OCI revenue +93% YoY yet -11% on AI capex guidance. CIO.com noted
 ## Connections
 
 **Entities:** [[Meta]] · [[Microsoft]] · [[Oracle]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-spending-guidance-spo]] · [[2026-06-10-oracle-reports-record-q4-oci-revenue-surges-93-yoy-ai-backlo]] · [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]] · [[2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi]] · [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]]
 <!-- graph:end -->

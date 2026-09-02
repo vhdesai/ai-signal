@@ -21,6 +21,8 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +44,6 @@ Anthropic projects turning an operating profit for the first time in Q2, with re
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2]] · [[2026-08-15-anthropic-posts-11-5b-q2-revenue-and-its-first-profitable-qu]] · [[2026-08-15-anthropic-posts-11-5b-q2-revenue-first-profitable-quarter]] · [[2026-08-15-anthropic-posts-11-5b-q2-revenue-and-its-first-quarter-in-th]] · [[2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Nvidia delivered blowout Q2 earnings but investors were unmoved — the stock ba
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-26-nvidia-s-blowout-q2-leaves-investors-unmoved-279b-supply-cha]] · [[2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re]] · [[2026-08-26-nvidia-beats-on-fiscal-q2-with-96-22b-revenue-shares-still-s]]
 <!-- graph:end -->

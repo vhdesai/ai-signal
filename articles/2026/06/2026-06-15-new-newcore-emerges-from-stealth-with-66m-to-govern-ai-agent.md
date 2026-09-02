@@ -6,7 +6,7 @@ date: '2026-06-15'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/
 url_canonical: https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-15_155554_Final-Daily-AI-News-Digest.md
 content_hash: 94ba79617c8941385e7dd349a13947d71d9bd2479e7cf636b57cc8271d7a821f
 normalized_title_hash: 746ffbae026aa492
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Cybersecurity startup NewCore emerged from stealth with $66M to authenticate, go
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-15-oak-exits-stealth-with-60m-to-govern-identity-for-ai-agents]] · [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]]
 <!-- graph:end -->

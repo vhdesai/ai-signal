@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-02-nvidia-linked-ai-infrastructure-spending-fuels-circular-fina
@@ -33,6 +34,6 @@ NPR reported that Nvidia is set to spend on the order of $750 billion across the
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-02-nvidia-linked-ai-infrastructure-spending-fuels-circular-fina]]
 <!-- graph:end -->

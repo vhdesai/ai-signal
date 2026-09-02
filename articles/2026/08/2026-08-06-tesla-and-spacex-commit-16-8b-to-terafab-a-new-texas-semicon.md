@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas/
 url_canonical: https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_061041_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 23d02573945b4702797ee1ec5049148ad2b383addd99a9bd822395f30e839094
@@ -16,6 +16,7 @@ entities:
 - Tesla
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Tesla and SpaceX announced an initial $16.8 billion investment to build “Teraf
 ## Connections
 
 **Entities:** [[Tesla]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-semiconductor-compl]] · [[2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-chip-complex-in-tex]] · [[2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas]] · [[2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te]] · [[2026-08-07-spacex-s-terafab-ai-chip-plant-will-run-on-natural-gas-not-t]]
 <!-- graph:end -->

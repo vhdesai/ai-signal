@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: TechCrunch · Simile
 url_original: https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/
 url_canonical: https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-31_061058_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: 68235847275911d62f6f2dc9d5a9d018f94047935dbc04b0957a22430eeb318e
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Synthetic-user startup Simile raised a $200M+ Series B at roughly a $2B post-mon
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-30-synthetic-user-startup-simile-raises-200m-series-b-at-2b-val]] · [[2026-07-14-video-generation-startup-pixverse-raises-439m-at-a-2b-valuat]] · [[2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri]] · [[2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation]] · [[2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough]]
 <!-- graph:end -->

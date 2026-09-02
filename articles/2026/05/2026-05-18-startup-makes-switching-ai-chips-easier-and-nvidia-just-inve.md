@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ A startup has launched tooling that lets AI workloads move more easily between d
 ## Connections
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-08-18-nvidia-s-ai-moat-is-shifting-from-chips-to-capital]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi]] · [[2026-08-28-executive-analysis-why-nvidia-backs-and-buys-ai-startups]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/
 url_canonical: https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-26_061014_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 2baa3a8fb24f9ae30fe5259c0a42453d62ff075c0d2422cdeab865122cb44d90
@@ -18,6 +18,7 @@ entities:
 themes:
 - policy-regulation
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Stability AI raised $76M Series B from major entertainment companies (Universal,
 ## Connections
 
 **Entities:** [[AMD]] · [[Anthropic]]
-**Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-25-stability-ai-raises-76m-series-b-backed-by-universal-warner]] · [[2026-08-25-stability-ai-maker-of-stable-diffusion-raises-76-million-in]] · [[2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-17-industry-news-deals-anthropic-in-talks-to-raise-30-50b-at-up]]
 <!-- graph:end -->

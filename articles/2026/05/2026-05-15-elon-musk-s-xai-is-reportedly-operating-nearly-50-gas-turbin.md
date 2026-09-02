@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Elon Musk's xAI is reportedly operating nearly 50 gas turbines without proper en
 ## Connections
 
 **Entities:** [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-compute-carries-en]] · [[2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth]] · [[2026-05-14-xai-sued-over-mobile-gas-turbines-at-mississippi-data-center]] · [[2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-power-carries-a-po]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]]
 <!-- graph:end -->

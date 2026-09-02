@@ -21,6 +21,7 @@ entities:
 themes:
 - policy-regulation
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -38,6 +39,6 @@ The past 24 hours were dominated by Nvidia, which moved on three fronts at once:
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-29-sony-music-and-warner-chappell-sue-anthropic-over-lyrics-in
@@ -35,7 +36,7 @@ Filed in N.D. Cal., naming Anthropic, CEO Amodei, and co-founder Mann. Alleges t
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-29-sony-music-and-warner-chappell-sue-anthropic-over-lyrics-in]]
 **Related:** [[2026-08-29-sony-music-and-warner-chappell-sue-anthropic-over-alleged-co]] · [[2026-08-29-sony-music-publishing-and-warner-chappell-sue-anthropic-over]]
 <!-- graph:end -->

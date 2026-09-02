@@ -5,7 +5,7 @@ date: null
 source: NVIDIA GTC 2026 and GTC Taipei 2026
 url_original: https://www.nvidia.com/gtc/
 url_canonical: https://www.nvidia.com/gtc/
-url_status: ok
+url_status: found
 digest_source: digests\raw\nvidia-gtc-2026-gtc-taipei-2026.md
 content_hash: ba14a58d8570a703c974fd9832cbbf36b9f7d58c1ca93f8676be514d864e2539
 normalized_title_hash: 86756afeab08eac4
@@ -26,6 +26,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -47,6 +48,6 @@ Nemotron 3 Nano Omni: Covered as a unified multimodal reasoning model released a
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[Oracle]] · [[SAP]] · [[TSMC]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications]]
 <!-- graph:end -->

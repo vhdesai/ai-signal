@@ -6,7 +6,7 @@ date: '2026-07-29'
 source: CRN
 url_original: https://www.crn.com/news/ai/2026/aws-google-oracle-microsoft-top-gartner-s-cloud-ai-infrastructure-list-for-2026
 url_canonical: https://www.crn.com/news/ai/2026/aws-google-oracle-microsoft-top-gartner-s-cloud-ai-infrastructure-list-for-2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-30_060704_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: e04bce4157f7ed8c52861d56881bcc451a9984523086b06d6ddaf5bb9f73d2c1
@@ -23,6 +23,7 @@ entities:
 - Oracle
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -40,6 +41,6 @@ Gartner placed the four hyperscalers at the top of its 2026 Magic Quadrant for c
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Microsoft]] · [[Oracle]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-29-gartner-names-aws-google-microsoft-oracle-as-cloud-ai-infras]]
 <!-- graph:end -->

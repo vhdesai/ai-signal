@@ -18,6 +18,7 @@ entities:
 - Meta
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-28-google-rations-gemini-capacity-to-meta-amid-a-deepening-comp
@@ -38,7 +39,7 @@ Per a Financial Times report, Google told Meta around March that it could not su
 ## Connections
 
 **Entities:** [[Google]] · [[Meta]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-06-28-google-rations-gemini-capacity-to-meta-amid-a-deepening-comp]]
 **Related:** [[2026-06-28-google-caps-meta-s-gemini-usage-as-compute-scarcity-bites]] · [[2026-06-29-google-capped-meta-s-gemini-usage-as-the-compute-crunch-hits]] · [[2026-06-30-google-was-forced-to-limit-meta-s-consumption-of-gemini-afte]] · [[2026-06-30-follow-on-reporting-detailed-that-meta-had-been-running-cust]]
 <!-- graph:end -->

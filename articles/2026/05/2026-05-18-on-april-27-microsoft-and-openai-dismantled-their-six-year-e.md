@@ -20,6 +20,7 @@ entities:
 themes:
 - policy-regulation
 - model-capabilities
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ On April 27, Microsoft and OpenAI dismantled their six-year exclusive cloud agre
 ## Connections
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Company Investments]]
 **Related:** [[2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc]] · [[2026-04-27-]]
 <!-- graph:end -->

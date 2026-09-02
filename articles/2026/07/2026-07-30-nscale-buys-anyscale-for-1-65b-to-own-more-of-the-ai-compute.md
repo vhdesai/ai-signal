@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/
 url_canonical: https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-31_060925_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: a5fd55e8d83ebb8bc1d6e3d356ad66b82073a828491664adf3bbc00ae2fdfe34
@@ -15,6 +15,8 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- ma-activity
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +37,6 @@ British "neocloud" Nscale agreed to acquire Anyscale — the company behind the 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-31-nscale-acquires-anyscale-for-a-reported-1-65b-to-own-more-of]] · [[2026-07-31-nscale-acquires-anyscale-for-1-65b-to-own-more-of-the-ai-com]] · [[2026-07-30-nscale-buys-anyscale-to-own-more-of-the-ai-compute-stack]] · [[2026-07-30-nscale-s-anyscale-deal-shows-ai-compute-providers-moving-up]] · [[2026-07-30-nscale-to-acquire-anyscale-for-1-65b]]
 <!-- graph:end -->

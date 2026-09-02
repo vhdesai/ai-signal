@@ -5,7 +5,7 @@ date: '2026-07-01'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/together-ai-raises-800-million-180132872.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/together-ai-raises-800-million-180132872.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-03_062005_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: 9380308b761d9ce3f8194efed48a0320064154f4a27ec2d8352ab80b0ab23e30
@@ -18,6 +18,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -35,6 +36,6 @@ Together AI announced an $800 million Series C at an $8.3 billion post-money val
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]]
 <!-- graph:end -->

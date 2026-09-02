@@ -5,7 +5,7 @@ date: '2026-08-08'
 source: Unite.AI
 url_original: https://www.unite.ai/firebird-takes-its-ai-factory-platform-global-with-a-2-gigawatt-pipeline/
 url_canonical: https://www.unite.ai/firebird-takes-its-ai-factory-platform-global-with-a-2-gigawatt-pipeline/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-09_061456_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: f33f11498af47f3cd039cfadcde756954535e3455ea78547b85d92fcd80f4927
@@ -17,6 +17,7 @@ entities:
 - Perplexity
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-08-firebird-launches-cis-region-s-largest-ai-factory-in-armenia
@@ -33,6 +34,6 @@ Firebird opened its first AI factory in Hrazdan, Armenia, and outlined a pipelin
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[Perplexity]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-08-firebird-launches-cis-region-s-largest-ai-factory-in-armenia]]
 <!-- graph:end -->

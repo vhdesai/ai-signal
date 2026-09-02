@@ -15,6 +15,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ OpenAI launched a self-serve advertising platform for ChatGPT, removing the prev
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-31-openai-s-chatgpt-advertising-business-reaches-a-1b-annualize]] · [[2026-08-31-openai-s-chatgpt-advertising-business-reaches-1b-annualized]] · [[2026-08-31-openai-s-chatgpt-ads-business-reaches-1b-annualized-run-rate]] · [[2026-08-31-openai-s-advertising-business-reaches-a-1-billion-annualized]] · [[2026-08-31-openai-says-chatgpt-ads-reached-a-1b-annualized-run-rate-in]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-05-24'
 source: WinBuzzer
 url_original: https://www.buildfastwithai.com/blogs/ai-news-today-may-25-2026
 url_canonical: https://www.buildfastwithai.com/blogs/ai-news-today-may-25-2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-26_071231_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 502cd9a5c95b8776f4a5fe112b95e1516aef40eeb0edd97e8cfd8b78d944a32c

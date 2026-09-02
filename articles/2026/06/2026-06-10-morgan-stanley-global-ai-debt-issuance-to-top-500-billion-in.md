@@ -16,6 +16,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Morgan Stanley projects global AI-related debt issuance will exceed $500 billion
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-21-u-s-ai-related-debt-issuance-hits-220b-as-bond-investors-pus]] · [[2026-08-28-lambda-1b-debt-400b-global-ai-debt-continued]] · [[2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge]] · [[2026-08-28-lambda-1b-debt-global-ai-debt-crosses-400b-continued]]
 <!-- graph:end -->

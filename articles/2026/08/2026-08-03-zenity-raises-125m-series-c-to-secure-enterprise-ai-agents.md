@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Unite.AI
 url_original: https://www.unite.ai/zenity-raises-125-million-as-enterprises-confront-the-security-risks-of-autonomous-ai-agents/
 url_canonical: https://www.unite.ai/zenity-raises-125-million-as-enterprises-confront-the-security-risks-of-autonomous-ai-agents/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-04_061916_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 7ac315955370df6e94eaf1515bfee3a12af92194c44f8b42092a7e01c3e1f056
@@ -16,6 +16,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-03-15-zenity-raises-125m-series-c-for-agent-governance
@@ -32,6 +33,6 @@ Agent-security startup Zenity closed a $125 million Series C led by Norwest to i
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-03-15-zenity-raises-125m-series-c-for-agent-governance]]
 <!-- graph:end -->

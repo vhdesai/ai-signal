@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight
@@ -35,7 +36,7 @@ At the International Conference on Robotics and Automation (ICRA), NVIDIA Resear
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight]]
 **Related:** [[event-icra-2026-icra-2026-nvidia-research-robotics-papers]]
 <!-- graph:end -->

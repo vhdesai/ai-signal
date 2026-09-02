@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html
 url_canonical: https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-23_065253_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: 329800c90fcaae81c658facbf399da96598844e3884e3a159f602750b2d18feb
@@ -20,6 +20,7 @@ entities:
 - Oracle
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs
@@ -36,6 +37,6 @@ Nvidia has told its largest customers that AI server prices will rise by more th
 ## Connections
 
 **Entities:** [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[Oracle]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs]]
 <!-- graph:end -->

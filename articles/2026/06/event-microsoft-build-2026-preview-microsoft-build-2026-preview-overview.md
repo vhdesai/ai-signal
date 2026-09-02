@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: Microsoft Build 2026 Preview
 url_original: https://build.microsoft.com/
 url_canonical: https://build.microsoft.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\microsoft-build-2026-preview.md
 content_hash: 9931fb7bdcedd6ec54942a897316c22d7d9dda0105af69ccf544ac5ede93846c
 normalized_title_hash: e94ec9f9b73524ee
@@ -19,6 +19,8 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- ma-activity
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +42,6 @@ The corpus mentions Microsoft Build 2026 less frequently than Google I/O or WWDC
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-28-microsoft-build-2026-preview-ai-native-windows-push-coming-j]] · [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]]
 <!-- graph:end -->

@@ -21,6 +21,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-14-cerebras-prices-5-55b-ipo-at-185-share-largest-u-s-tech-ipo
@@ -37,6 +39,6 @@ Cerebras Systems (NASDAQ: CBRS) priced at $185 per share, raising $5.55 billion 
 ## Connections
 
 **Entities:** [[Amazon]] · [[Cerebras]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-14-cerebras-prices-5-55b-ipo-at-185-share-largest-u-s-tech-ipo]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-05-24'
 source: Industry weekly digest
 url_original: https://bestpractice.ai/insights/ai-daily-brief/2026-05-24
 url_canonical: https://bestpractice.ai/insights/ai-daily-brief/2026-05-24
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-25_071611_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 885a29994994d8449fb8f57940e9da0e169ae9f4fda3cf5b2a4790aa19864259
@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Weekend recaps consolidated Meta's May 20 round of ~8,000 layoffs (≈10% of wor
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-20-meta-begins-8-000-person-layoff-wave-while-raising-ai-capex]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-05-22-meta-began-notifying-approximately-8-000-employees-of-layoff]] · [[2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot]] · [[2026-05-25-clickup-mass-layoff-signals-the-white-collar-ai-restructurin]]
 <!-- graph:end -->

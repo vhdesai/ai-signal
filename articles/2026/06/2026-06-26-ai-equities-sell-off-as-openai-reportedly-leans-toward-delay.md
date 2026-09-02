@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: TheStreet
 url_original: https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-26-2026
 url_canonical: https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-26-2026
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-27_091929_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 8965a004bbdc37d6fca26a6ba752f9a869ab79db62d25bdce5ca3f9ed2df1b18
@@ -16,6 +16,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Global tech stocks fell Friday amid renewed worry over the mounting cost of AI d
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-26-openai-reportedly-delays-ipo-as-ai-spending-fears-spark-a-gl]] · [[2026-06-26-reported-openai-ipo-delay-triggers-selloff-in-ai-linked-shar]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat]] · [[2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for]]
 <!-- graph:end -->

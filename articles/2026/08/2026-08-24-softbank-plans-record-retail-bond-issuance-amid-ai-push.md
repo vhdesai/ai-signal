@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ The Wall Street Journal reported that SoftBank plans a record retail bond issuan
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-24-softbank-plans-a-record-1-trillion-6-3b-retail-bond-to-fund]] · [[2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak]] · [[2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered]] · [[2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake]]
 <!-- graph:end -->

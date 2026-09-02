@@ -20,6 +20,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ NVIDIA published a blog framing its Vera CPU as a new category — “max single
 ## Connections
 
 **Entities:** [[Arm]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-07-nvidia-positions-its-vera-cpu-for-the-agentic-era-and-previe]] · [[2026-07-07-nvidia-positions-vera-cpu-for-the-agentic-era-previews-next]] · [[2026-07-21-nvidia-details-vera-cpu-for-ai-agent-workloads]] · [[2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-its-own-chip-de]] · [[2026-07-21-nvidia-details-vera-cpu-opening-a-new-front-against-amd-and]]
 <!-- graph:end -->

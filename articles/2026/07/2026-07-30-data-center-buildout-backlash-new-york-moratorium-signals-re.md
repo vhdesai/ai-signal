@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ The growing public pushback against data center construction is creating materia
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-05-new-york-passes-first-state-level-data-center-moratorium]] · [[2026-06-11-axios-congress-wants-in-on-the-data-center-backlash]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]]
 <!-- graph:end -->

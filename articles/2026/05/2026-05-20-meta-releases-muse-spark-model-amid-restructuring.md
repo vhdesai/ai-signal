@@ -17,6 +17,7 @@ entities:
 - Meta
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Meta announced its Muse Spark model alongside a sharp increase in AI capex guida
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]] · [[2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1]] · [[2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1-at-cut-rate-p]] · [[2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f]] · [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1]]
 <!-- graph:end -->

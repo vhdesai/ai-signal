@@ -5,7 +5,7 @@ date: '2026-08-28'
 source: CNBC · DeepSeek / High-Flyer
 url_original: https://www.cnbc.com/2026/08/28/deepseek-founder-liang-wenfeng-high-flyer-china-tech-ipos-funding.html
 url_canonical: https://www.cnbc.com/2026/08/28/deepseek-founder-liang-wenfeng-high-flyer-china-tech-ipos-funding.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: a29c58410cbfdf4206054fd3f495ccc5f1b02a4acecafb6874b5d3028f301e63
@@ -16,6 +16,7 @@ entities:
 - DeepSeek
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -37,6 +38,6 @@ High-Flyer Quant, the hedge fund founded by DeepSeek's Liang Wenfeng that bankro
 ## Connections
 
 **Entities:** [[DeepSeek]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-22-deepseek-raising-10b-founder-pledges-agi-mission-over-commer]] · [[2026-06-03-deepseek-nears-7-4b-maiden-fundraise-led-by-tencent-and-catl]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab]]
 <!-- graph:end -->

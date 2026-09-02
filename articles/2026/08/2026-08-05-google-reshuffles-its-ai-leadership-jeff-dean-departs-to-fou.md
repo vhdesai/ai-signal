@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html
 url_canonical: https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_061807_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 18eb169a9e6a4f7e371d645d1ad85d872d9157460938e77d7ccffee4825ecde7
@@ -19,6 +19,7 @@ entities:
 - Google
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-05-google-deepmind-leadership-overhaul-hassabis-steps-back-as-c
@@ -36,7 +37,7 @@ Google announced a sweeping reorganization of its AI operations. Chief scientist
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-05-google-deepmind-leadership-overhaul-hassabis-steps-back-as-c]]
 **Related:** [[2026-08-05-jeff-dean-and-sanjay-ghemawat-leave-google-to-co-found-disco]]
 <!-- graph:end -->

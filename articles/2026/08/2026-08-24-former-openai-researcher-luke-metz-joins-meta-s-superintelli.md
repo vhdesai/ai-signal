@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Yahoo Finance
 url_original: https://ca.finance.yahoo.com/news/former-openai-researcher-luke-metz-114700717.html
 url_canonical: https://ca.finance.yahoo.com/news/former-openai-researcher-luke-metz-114700717.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-25_163610_Inbox_Fw Daily AI News Digest - August
   25, 2026.md
 content_hash: ad9065c65c2c72a86936b015cd9749e08a023feafc92fce65d4d05b83ceb180b

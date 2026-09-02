@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: The Information · Meta Platforms
 url_original: https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-New-Strategic-Venture-with-BlackRock-to-Develop-Data-Center-in-El-Paso/default.aspx
 url_canonical: https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-New-Strategic-Venture-with-BlackRock-to-Develop-Data-Center-in-El-Paso/default.aspx
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-29_065704_Final-Daily-AI-News-Digest.md
 content_hash: 3d072f0e702200a4d03102c2f5340859fd84b640b52a811555473b868d54c346
 normalized_title_hash: 3417216eec4a875b
@@ -17,6 +17,7 @@ entities:
 - Meta
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-29-meta-brings-blackrock-into-el-paso-data-center-financing
@@ -33,6 +34,6 @@ Meta and BlackRock announced a financing partnership for Meta’s El Paso, Texas
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-financing]]
 <!-- graph:end -->

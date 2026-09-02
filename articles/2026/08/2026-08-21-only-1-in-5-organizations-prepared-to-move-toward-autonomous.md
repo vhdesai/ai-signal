@@ -18,6 +18,8 @@ entities:
 - OpenAI
 themes:
 - model-capabilities
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +41,6 @@ Deloitte finds that only 20% of organizations are prepared to move toward autono
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-08-13-enterprise-ai-adoption-stalls-legacy-it-and-agentic-gaps-per]] · [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]]
 <!-- graph:end -->

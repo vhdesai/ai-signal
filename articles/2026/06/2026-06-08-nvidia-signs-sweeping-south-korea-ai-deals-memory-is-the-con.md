@@ -5,7 +5,7 @@ date: '2026-06-08'
 source: Reuters; Daily Sabah
 url_original: https://www.dailysabah.com/business/tech/nvidia-strikes-deals-with-south-korean-giants-to-advance-ai-boom
 url_canonical: https://www.dailysabah.com/business/tech/nvidia-strikes-deals-with-south-korean-giants-to-advance-ai-boom
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-09_070112_Final-Daily-AI-News-Digest.md
 content_hash: 04321d89cceeefb629c84beabf0432a646d30a3a1c7a5598fcbd2f23d99458e0
 normalized_title_hash: dbb6e6ad9c41d684
@@ -17,6 +17,7 @@ entities:
 - Scale AI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ During Huang's Seoul visit, Nvidia announced a multi-year memory partnership wit
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[Scale AI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in]] · [[2026-07-24-nvidia-and-south-korea-outline-full-stack-ai-collaboration]] · [[2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration]]
 <!-- graph:end -->

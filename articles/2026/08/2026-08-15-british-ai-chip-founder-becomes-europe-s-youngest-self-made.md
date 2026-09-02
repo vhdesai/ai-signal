@@ -19,6 +19,8 @@ entities:
 - Arm
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +40,6 @@ James Dacombe, 25, became Europe's youngest self-made billionaire after his phot
 ## Connections
 
 **Entities:** [[Arm]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua]] · [[2026-08-03-olix-raises-europe-s-largest-chip-round-for-optical-ai-silic]] · [[2026-08-03-olix-s-financing-is-significant-both-for-its-size-and-for-wh]]
 <!-- graph:end -->

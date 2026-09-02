@@ -17,6 +17,7 @@ entities:
 - Databricks
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-databricks-raises-5b-at-190b-valuation-after-15b-of-investor
@@ -33,6 +34,6 @@ CEO Ali Ghodsi said he set out to raise $1B, saw roughly $15B of investor intere
 ## Connections
 
 **Entities:** [[Databricks]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-13-databricks-raises-5b-at-190b-valuation-after-15b-of-investor]]
 <!-- graph:end -->

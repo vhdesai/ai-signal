@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: TIME
 url_original: https://www.businesstoday.in/technology/artificial-intelligence/story/indian-government-tech-firm-join-forces-to-test-anthropics-claude-mythos-report-533512-2026-05-27
 url_canonical: https://www.businesstoday.in/technology/artificial-intelligence/story/indian-government-tech-firm-join-forces-to-test-anthropics-claude-mythos-report-533512-2026-05-27
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: e3242a2daf8e87d2b97e0aee9c495813c8a28125bf0f5905b65edae072eac74b

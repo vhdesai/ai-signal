@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-wispr-raises-280m-at-2b-valuation-launches-new-speech-model
@@ -30,6 +31,6 @@ Wispr, known for its AI dictation product, raised a $280 million Series B led by
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-17-wispr-raises-280m-at-2b-valuation-launches-new-speech-model]]
 <!-- graph:end -->

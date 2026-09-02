@@ -5,7 +5,7 @@ date: '2026-08-09'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling/
 url_canonical: https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-10_082903_Inbox_Fw Daily AI News Digest - August
   10, 2026.md
 content_hash: 22fb0249220d7f0e05fff170a5f9f49b7fde1965d743522051a78778a7ee669d

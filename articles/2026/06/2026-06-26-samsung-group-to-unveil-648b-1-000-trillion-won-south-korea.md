@@ -6,7 +6,7 @@ date: '2026-06-26'
 source: CNA
 url_original: https://www.channelnewsasia.com/business/samsung-group-unveil-648-billion-south-korea-investments-including-chip-plants-report-says-6211521
 url_canonical: https://www.channelnewsasia.com/business/samsung-group-unveil-648-billion-south-korea-investments-including-chip-plants-report-says-6211521
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-27_064706_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 108b3d88c9cb2d1e1f538ce06b2335907c56aaefa14960dd9b3e5233b7ac56bf
@@ -18,6 +18,7 @@ entities:
 - TSMC
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Samsung Group plans to announce a decade-long investment of about 1,000 trillion
 ## Connections
 
 **Entities:** [[Samsung]] · [[TSMC]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-03-31-aws-commits-4-6b-to-south-korean-ai-and-cloud-infrastructure]] · [[2026-08-03-south-korea-s-deepx-valuation-surges-to-2-2b-in-fresh-fundin]]
 <!-- graph:end -->

@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri
@@ -30,6 +31,6 @@ Lovable closed another $400M in Series C funding, more than doubling its valuati
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri]]
 <!-- graph:end -->

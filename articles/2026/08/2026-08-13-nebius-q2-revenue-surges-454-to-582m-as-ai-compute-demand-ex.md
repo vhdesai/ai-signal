@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Nebius, the Nvidia-backed neocloud, reported a 454% expansion in Q2 revenue to $
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares]] · [[2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti]] · [[2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge]] · [[2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en]]
 <!-- graph:end -->

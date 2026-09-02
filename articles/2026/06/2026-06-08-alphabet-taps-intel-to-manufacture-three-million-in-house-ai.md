@@ -18,6 +18,7 @@ entities:
 - TSMC
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Alphabet tapped Intel to manufacture three million in-house AI chips — a signi
 ## Connections
 
 **Entities:** [[Google]] · [[Intel]] · [[TSMC]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]] · [[2026-06-11-google-in-talks-with-samsung-to-manufacture-next-gen-ai-chip]] · [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september]] · [[2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc]] · [[2026-04-02-cognichip-a-startup-building-ai-systems-that-design-semicond]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: Bloomberg
 url_original: https://thirdruntime.com/
 url_canonical: https://thirdruntime.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 8afaf5441a2d141dd5e54b8c622525e563e25f5f459f6085a78af0c25cbfaf7d
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Neocloud provider Nebius agreed to sell roughly $1 billion in AI capacity to AI 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex]] · [[2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en]] · [[2026-07-14-reflection-signs-1b-plus-nebius-compute-deal-as-open-model-l]] · [[2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares]] · [[2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n]]
 <!-- graph:end -->

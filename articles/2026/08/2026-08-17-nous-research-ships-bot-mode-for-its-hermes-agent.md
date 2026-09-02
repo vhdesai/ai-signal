@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -32,6 +33,6 @@ Nous Research shipped Bot Mode for Hermes, replacing a single-agent session list
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-31-nous-research-ships-hermes-agent-integration-for-block-s-ope]] · [[2026-06-20-nous-research-updates-hermes-agent-with-blank-slate-mode]]
 <!-- graph:end -->

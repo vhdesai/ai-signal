@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: '[SiliconANGLE]'
 url_original: https://siliconangle.com/2026/08/07/legal-ai-startup-harvey-reportedly-raising-500m-15-5b-valuation/
 url_canonical: https://siliconangle.com/2026/08/07/legal-ai-startup-harvey-reportedly-raising-500m-15-5b-valuation/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-08_062022_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 9b404e66e44efb6ff49446cd79fcdcd297e9e71d8edea265d7dc6765952734ae
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - model-capabilities
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat
@@ -30,6 +31,6 @@ Harvey, which builds AI software for law firms and in-house legal teams, is repo
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]]
 **Canonical:** [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat]]
 <!-- graph:end -->

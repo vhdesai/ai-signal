@@ -6,7 +6,7 @@ date: '2026-08-10'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/
 url_canonical: https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-11_061032_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 762a9abe57f2b30675af9230bfb4124bec848eec53d293a7f4072471e26b4dab

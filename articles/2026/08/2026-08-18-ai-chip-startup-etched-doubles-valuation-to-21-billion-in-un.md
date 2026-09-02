@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Etched raised $700M at a $21 billion valuation—roughly double its mark from on
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Related:** [[2026-08-18-etched-s-valuation-doubles-to-21b-in-a-month]] · [[2026-07-23-etched-reaches-10-3-billion-valuation-for-inference-focused]] · [[2026-07-17-ai-chip-startup-etched-reportedly-in-talks-at-20-billion-val]] · [[2026-08-18-inference-chip-startup-etched-raises-another-700m-at-21b-val]] · [[2026-07-19-ai-chip-startup-etched-reportedly-in-talks-for-a-20b-valuati]]
 <!-- graph:end -->

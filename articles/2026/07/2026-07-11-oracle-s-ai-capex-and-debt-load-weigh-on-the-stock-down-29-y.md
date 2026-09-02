@@ -16,6 +16,7 @@ entities:
 - Oracle
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ A weekend markets note flags Oracle trading near $140, off roughly 29% year-to-d
 ## Connections
 
 **Entities:** [[Oracle]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-20-meta-s-ai-positioning-lags-alphabet-microsoft-and-amazon-as]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]]
 <!-- graph:end -->

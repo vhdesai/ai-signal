@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html
 url_canonical: https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-01_061911_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 91333057cd61f7b8bb71437084fda923fe48bcdff31b9c5f66334bb679da0d61
@@ -16,6 +16,7 @@ entities:
 - Samsung
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-samsung-posts-record-profit-as-hbm-and-ai-memory-demand-surg
@@ -32,6 +33,6 @@ Samsung reported an all-time-high quarterly operating profit (~89.5 trillion won
 ## Connections
 
 **Entities:** [[Samsung]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-30-samsung-posts-record-profit-as-hbm-and-ai-memory-demand-surg]]
 <!-- graph:end -->

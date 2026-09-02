@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Xsight%20server%20networking%20300%20million
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Xsight%20server%20networking%20300%20million
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-01_060637_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 11b8fb8b7bb44fdba0861c3c16514cb53587c0148e75c8ca061e2346ff3e48aa
@@ -16,6 +16,8 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +38,6 @@ The Information reported that the server-networking boom drove a $300 million fu
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-03-xsight-labs-is-a-reminder-that-networking-silicon-is-becomin]] · [[2026-08-22-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]] · [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]]
 <!-- graph:end -->

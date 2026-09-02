@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Rime raised a $24 million Series A led by M13 Ventures, with Twilio Ventures, Co
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-15-rime-raises-24m-to-improve-enterprise-voice-ai-calls]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike]] · [[2026-07-28-fish-audio-raises-52m-seed-to-build-ai-voice-models]] · [[2026-07-28-fish-audio-raises-52m-seed-for-ai-voice-models]]
 <!-- graph:end -->

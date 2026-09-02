@@ -5,7 +5,7 @@ date: '2026-07-03'
 source: Tech in Asia
 url_original: https://www.techinasia.com/news/sg-robotics-accelerator-cohort-sees-125m-raise-exit
 url_canonical: https://www.techinasia.com/news/sg-robotics-accelerator-cohort-sees-125m-raise-exit
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-04_062504_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: bdbc24485fb846bf8c0f9e31aa8aff2d1e61cc4f16c796a8b643f018ceae0f07
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - model-capabilities
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -35,6 +36,6 @@ dConstruct Technologies closed a US$125M Series A — one of the largest for a S
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]] · [[2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10]] · [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-08-10'
 source: Business Wire / Yahoo Finance / The Next Web
 url_original: https://finance.yahoo.com/technology/ai/articles/anthropic-macquarie-asset-management-gic-120400841.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/anthropic-macquarie-asset-management-gic-120400841.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-11_061444_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: a9d3bfef5d55c59332427b0147048cc1f6b51ab1045e530fd248e515fbf6b21c
@@ -18,6 +18,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ The three parties launched Theseus Infrastructure to develop, operate and lease 
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-11-anthropic-macquarie-and-gic-launch-theseus-infrastructure-fo]] · [[2026-08-11-anthropic-macquarie-and-gic-form-theseus-infrastructure]] · [[2026-08-10-anthropic-macquarie-and-gic-form-theseus-infrastructure-to-b]] · [[2026-06-11-anthropic-pursues-data-center-leases-seeks-financial-backing]] · [[2026-08-26-anthropic-strikes-45-billion-cloud-deal-with-nscale]]
 <!-- graph:end -->

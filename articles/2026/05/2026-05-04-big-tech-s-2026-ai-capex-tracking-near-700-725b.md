@@ -19,6 +19,7 @@ entities:
 - Meta
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Spencer Jakab argues AI spending remains buoyant despite tariff uncertainty: com
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-04-02-source-all-about-lawyer-the-neuron]]
 <!-- graph:end -->

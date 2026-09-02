@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ The U.S. Department of Defense has expanded its AI infrastructure program by sig
 ## Connections
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws]] · [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]] · [[2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors]] · [[2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi]]
 <!-- graph:end -->

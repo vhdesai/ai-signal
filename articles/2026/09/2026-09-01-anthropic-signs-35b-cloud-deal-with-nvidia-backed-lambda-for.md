@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Anthropic contracted roughly $35 billion of capacity with neocloud provider Lamb
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-09-01-anthropic-signs-reported-35b-cloud-agreement-with-nvidia-bac]] · [[2026-09-01-anthropic-signs-35b-nvidia-backed-lambda-cloud-deal-in-texas]] · [[2026-08-31-anthropic-signs-35-billion-compute-deal-with-nvidia-backed-l]]
 <!-- graph:end -->

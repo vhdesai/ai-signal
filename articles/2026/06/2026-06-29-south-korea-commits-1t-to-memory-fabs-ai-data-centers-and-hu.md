@@ -5,7 +5,7 @@ date: '2026-06-29'
 source: Ars Technica
 url_original: https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/
 url_canonical: https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-30_061155_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: fa9053f1a043c552980323b77026a908f3e0f0d5b098f564458bc5afacb58df3
@@ -18,6 +18,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ South Korea's government and top tech firms committed roughly $1 trillion to mem
 ## Connections
 
 **Entities:** [[Samsung]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-07-06-sk-hynix-launches-28b-us-share-sale-on-ai-memory-demand]]
 <!-- graph:end -->

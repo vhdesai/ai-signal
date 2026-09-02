@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: The Motley Fool**
 url_original: https://www.fool.com/investing/2026/05/31/nvda-stock-jensen-huang-keynote-computex/
 url_canonical: https://www.fool.com/investing/2026/05/31/nvda-stock-jensen-huang-keynote-computex/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_061636_Daily-AI-News-Digest.md
 content_hash: 52ff51c5f443445a28fa8bd87e58e2633d58a3bc9ecd15ffd4eb3716e0d6835c
 normalized_title_hash: 9afc4cf7d3335321
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Jensen Huang delivered Nvidia's GTC Taipei keynote on Monday, June 1 (11 a.m. Ta
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-gtc-taipei-computex-adja]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview]]
 <!-- graph:end -->

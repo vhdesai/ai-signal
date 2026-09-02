@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: NVIDIA Newsroom
 url_original: https://nvidianews.nvidia.com/news/europe-unveils-a-record-35-new-nvidia-ai-supercomputers
 url_canonical: https://nvidianews.nvidia.com/news/europe-unveils-a-record-35-new-nvidia-ai-supercomputers
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-22_085442_Final-Daily-AI-News-Digest.md
 content_hash: 5e87eb2fd8979d955af20ff6ab47a64428824a19dd47af8f3f86587aee04ffbd
 normalized_title_hash: 2ab3cab820a1fa9c
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ NVIDIA announced a record slate of 35 AI supercomputers across Europe as part of
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-08-29-aws-and-nvidia-to-deploy-two-million-additional-gpus-for-ai]] · [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/
 url_canonical: https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 11d698c31060f7bb437791c0af3433c725b284438c18512fdd73bb5c1b2c5b2a
 normalized_title_hash: e1f6dfff3f39ea42
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Nvidia announced a warm-water cooling design it says can eliminate nearly all wa
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da]] · [[2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact]] · [[2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt]] · [[2026-08-21-nvidia-in-talks-to-invest-in-data-center-power-developer-clo]] · [[2026-08-21-nvidia-partners-with-cloverleaf-infrastructure-for-data-cent]]
 <!-- graph:end -->

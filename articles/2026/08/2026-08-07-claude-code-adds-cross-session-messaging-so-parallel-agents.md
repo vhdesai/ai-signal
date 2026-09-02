@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: 9to5Mac
 url_original: https://9to5mac.com/2026/08/07/claude-code-now-lets-sessions-talk-to-each-other-on-macos/
 url_canonical: https://9to5mac.com/2026/08/07/claude-code-now-lets-sessions-talk-to-each-other-on-macos/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-08_065056_Final-Daily-AI-News-Digest.md
 content_hash: 9b9b2f3c7861eaee4c1a0855fc754e50af35291b56d39da5dbe519205d81f9c8
 normalized_title_hash: 27f20919f09d50a3

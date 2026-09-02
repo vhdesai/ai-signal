@@ -5,7 +5,7 @@ date: '2026-04-22'
 source: Google Cloud Next 2026
 url_original: https://cloud.google.com/next
 url_canonical: https://cloud.google.com/next
-url_status: ok
+url_status: found
 digest_source: digests\raw\google-cloud-next-2026.md
 content_hash: ea5d34944df6571395af256f2f7ba9e7156a6d4b7c8a5d73ae6a647336e8e784
 normalized_title_hash: f4965acec0711714
@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Enterprise agent platform war: Google is directly challenging Microsoft Azure AI
 ## Connections
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa]] · [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]]
 <!-- graph:end -->

@@ -19,6 +19,7 @@ entities:
 - Mistral
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Mistral announced flagship enterprise deals with Airbus (a 5-year contract spann
 ## Connections
 
 **Entities:** [[Mistral]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]] · [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]] · [[2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan]]
 <!-- graph:end -->

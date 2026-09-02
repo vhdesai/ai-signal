@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - policy-regulation
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +41,6 @@ Infiforce closed nearly $150 million (about RMB 1B) across Series A and A+ round
 ## Connections
 
 **Entities:** [[Apple]] · [[DeepSeek]] · [[NVIDIA]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-04-12-sifive-founded-by-the-uc-berkeley-engineers-behind-the-risc]] · [[2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45]]
 <!-- graph:end -->

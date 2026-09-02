@@ -6,7 +6,7 @@ date: '2026-05-20'
 source: Constellation Research
 url_original: https://www.constellationr.com/insights/news/agents-chaos-paper-raises-agentic-ai-questions
 url_canonical: https://www.constellationr.com/insights/news/agents-chaos-paper-raises-agentic-ai-questions
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 4fd84f65ac5e37f1cfd4c88d3e1536f632583b3db613446ce6c20f349df682e0
@@ -17,6 +17,7 @@ entities: []
 themes:
 - policy-regulation
 - model-capabilities
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ A multi-institution paper from Harvard, MIT, Stanford, Carnegie Mellon, and Nort
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[M&A Activity]]
 **Related:** [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva]] · [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]]
 <!-- graph:end -->

@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - model-capabilities
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-openai-and-anthropic-buy-tens-of-thousands-of-macs-for-agent
@@ -36,6 +37,6 @@ OpenAI has acquired tens of thousands of Apple desktop systems to run reinforcem
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[M&A Activity]]
 **Canonical:** [[2026-08-31-openai-and-anthropic-buy-tens-of-thousands-of-macs-for-agent]]
 <!-- graph:end -->

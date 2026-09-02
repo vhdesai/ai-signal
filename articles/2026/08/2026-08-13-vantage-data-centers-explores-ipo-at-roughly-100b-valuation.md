@@ -17,6 +17,8 @@ entities:
 - Oracle
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-vantage-data-centers-explores-ipo-at-100b-valuation
@@ -33,6 +35,6 @@ Vantage Data Centers, backed by Silver Lake and DigitalBridge, is exploring opti
 ## Connections
 
 **Entities:** [[OpenAI]] · [[Oracle]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-13-vantage-data-centers-explores-ipo-at-100b-valuation]]
 <!-- graph:end -->

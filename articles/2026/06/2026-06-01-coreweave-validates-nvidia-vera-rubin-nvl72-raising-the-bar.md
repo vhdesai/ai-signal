@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: AiThority
 url_original: https://aithority.com/it-and-devops/cloud/coreweave-completes-industry-first-bring-up-and-validation-of-nvidia-vera-rubin-nvl72/
 url_canonical: https://aithority.com/it-and-devops/cloud/coreweave-completes-industry-first-bring-up-and-validation-of-nvidia-vera-rubin-nvl72/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: 4348e23956f8bfd43865766b7d83f542a566f941a7cf9572f05e78b9a9d59123
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ CoreWeave announced what it called an industry-first bring-up and validation of 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover]] · [[2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]] · [[2026-05-27-nvidia-gtc-taipei-2026-preview-n1x-arm-laptop-soc-vera-rubin]]
 <!-- graph:end -->

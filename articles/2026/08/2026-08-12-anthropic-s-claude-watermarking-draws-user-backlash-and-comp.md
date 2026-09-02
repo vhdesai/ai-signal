@@ -5,7 +5,7 @@ date: '2026-08-12'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/
 url_canonical: https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-13_060924_Inbox_Daily AI News Digest - August 13,
   2026.md
 content_hash: e68c798655271b42aa3886a70422e6ea6ca118212c0ecf424f9581bbc473b50d

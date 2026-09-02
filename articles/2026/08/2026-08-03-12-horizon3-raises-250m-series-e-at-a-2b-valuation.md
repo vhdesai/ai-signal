@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: TechCrunch · Read article →
 url_original: https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/
 url_canonical: https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-04_061155_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: b29e30ec2da01c057d0ce64e8fa371eab8ae9a0e5254d8702ed8a2325e6baa9a
@@ -16,6 +16,7 @@ entities: []
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Horizon3, which builds AI-powered continuous security validation, raised a $250M
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-03-horizon3-raises-250m-as-autonomous-pentesting-demand-rises]] · [[2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha]] · [[2026-08-03-horizon3-s-financing-reflects-strong-investor-conviction-tha]] · [[2026-08-25-stability-ai-raises-76m-series-b-backed-by-universal-warner]]
 <!-- graph:end -->

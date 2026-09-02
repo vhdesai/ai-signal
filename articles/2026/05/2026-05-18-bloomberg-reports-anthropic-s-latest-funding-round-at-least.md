@@ -21,6 +21,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +44,6 @@ Bloomberg reports Anthropic's latest funding round — at least $30 billion — 
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]] · [[2026-05-26-anthropic-is-expected-to-close-its-30b-funding-round-at-a-pr]] · [[2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope]] · [[2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open]]
 <!-- graph:end -->

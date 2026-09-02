@@ -25,6 +25,7 @@ entities:
 - Scale AI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -46,6 +47,6 @@ AMD unveiled Helios, a rack-scale AI system aimed at the largest model labs and 
 ## Connections
 
 **Entities:** [[AMD]] · [[Anthropic]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Scale AI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-to-challenge-nvidia]] · [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-at-advancing-ai-2026]] · [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex]] · [[2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in]] · [[2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry]]
 <!-- graph:end -->

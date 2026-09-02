@@ -15,6 +15,8 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +37,6 @@ DealBook teased "a scoop on a big A.I. funding round" alongside coverage of Fed 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-28-dealbook-scoop-on-a-big-a-i-funding-round]] · [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree]] · [[2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it]] · [[2026-08-29-the-a-i-token-tax-how-ai-usage-costs-are-reshaping-enterpris]]
 <!-- graph:end -->

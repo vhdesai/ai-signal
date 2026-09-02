@@ -26,6 +26,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -47,6 +48,6 @@ Meta will scale Hyperion to 5 GW at >$50B — up from initial ~$10B/2 GW. Partne
 ## Connections
 
 **Entities:** [[Intel]] · [[Meta]] · [[Samsung]] · [[TSMC]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-13-daily-ai-news-digest-monday-july-13-2026-12-items-source-win]] · [[2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-50b-and-5-gi]] · [[2026-07-13-meta-s-louisiana-data-center-investment-reportedly-rises-to]] · [[2026-07-13-infrastructure-meta-capex]] · [[2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-5-gw-and-mor]]
 <!-- graph:end -->

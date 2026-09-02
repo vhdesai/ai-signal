@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: TheStreet
 url_original: https://www.thestreet.com/stock-market-today/stock-market-today-july-10-2026-nasdaq-futures-slip-ahead-of-sk-hynix-debut
 url_canonical: https://www.thestreet.com/stock-market-today/stock-market-today-july-10-2026-nasdaq-futures-slip-ahead-of-sk-hynix-debut
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-10_062836_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: b2a8d29e3a7ff0d0326da135cb8e04c84a4c16730522e20fd08524cd4f909b57
@@ -16,6 +16,7 @@ entities:
 - Samsung
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ SK Hynix priced its U.S. offering at $149/share on July 9 — billed as the larg
 ## Connections
 
 **Entities:** [[Samsung]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-09-sk-hynix-prices-u-s-listing-at-149-share-debuts-on-nasdaq]] · [[2026-07-10-sk-hynix-surges-13-in-nasdaq-debut]] · [[2026-07-11-sk-hynix-surges-13-in-nasdaq-debut]] · [[2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet]]
 <!-- graph:end -->

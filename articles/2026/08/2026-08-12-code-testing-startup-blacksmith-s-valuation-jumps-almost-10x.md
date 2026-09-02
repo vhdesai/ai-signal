@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation
@@ -30,6 +31,6 @@ Blacksmith raised a $45 million Series B led by Peak XV Partners at a $550 milli
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation]]
 <!-- graph:end -->

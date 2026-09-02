@@ -19,6 +19,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ OpenAI has expanded ChatGPT's reach to Apple CarPlay, enabling hands-free conver
 ## Connections
 
 **Entities:** [[Apple]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos]] · [[2026-08-21-chatgpt-gains-a-messages-integration-on-macos]] · [[2026-08-20-chatgpt-launches-apple-messages-plug-in-can-send-texts-on-yo]] · [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]] · [[2026-08-06-openai-expands-free-chatgpt-text-access-with-gpt-5-6-luna]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: The Information · WSJ Wealth Adviser
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Meta+BlackRock+El+Paso+data+center
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Meta+BlackRock+El+Paso+data+center
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-29_065623_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: a46e610db96e735afbaf0972e21f591b6bdab6f4e3eb48f7d35db992abe3b26d
@@ -17,6 +17,7 @@ entities:
 - Meta
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-29-meta-brings-blackrock-into-el-paso-data-center-financing
@@ -33,6 +34,6 @@ Meta Platforms has structured its $10 billion El Paso, Texas, data center campus
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-financing]]
 <!-- graph:end -->

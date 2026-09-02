@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/
 url_canonical: https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-05_061956_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: fba0f40621db9e77ffd2611d244c3570a0ea91af2e1f47b021f8b1396c40f4e0
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-05-windborne-raises-37-million-for-ai-weather-forecasting
@@ -30,6 +31,6 @@ WindBorne Systems, which collects atmospheric data from long-duration weather ba
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-05-windborne-raises-37-million-for-ai-weather-forecasting]]
 <!-- graph:end -->

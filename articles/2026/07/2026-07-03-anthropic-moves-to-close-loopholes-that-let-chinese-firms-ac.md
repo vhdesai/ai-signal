@@ -19,6 +19,7 @@ entities:
 - Microsoft
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -36,6 +37,6 @@ Anthropic is tightening enforcement to shut loopholes that let Chinese firms rea
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[ByteDance]] · [[Microsoft]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-03-anthropic-moves-to-close-chinese-firms-backdoor-access-to-cl]]
 <!-- graph:end -->

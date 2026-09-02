@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi
 url_canonical: https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-07_084748_Final-Daily-AI-News-Digest.md
 content_hash: b31966340486b0bed72aafdcbba1d0bd25045f79cc0307d279fbb7bf8cbf1616
 normalized_title_hash: eeab962f601393e0
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-liquid-ai-releases-lfm2-5-2-6b-a-powerful-model-that-runs-on
@@ -31,6 +32,6 @@ Liquid AI released LFM2.5-2.6B, a compact model it says delivers strong agentic 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-06-liquid-ai-releases-lfm2-5-2-6b-a-powerful-model-that-runs-on]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ SAP announced a $1.16 billion investment in NemoClaw, an 18-month-old German AI 
 ## Connections
 
 **Entities:** [[SAP]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-10-oxylabs-raises-130m-from-warburg-pincus-at-a-3-6b-valuation]] · [[2026-06-03-nvidia-acquires-enterprise-ai-startup-kumo-for-400m]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-07-13-nous-research-in-talks-for-new-funding-at-1-5-billion-valuat]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Inference chip maker Groq confirmed a $650M raise, reinforcing investor appetite
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Related:** [[2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-inference-silicon-to]] · [[2026-08-17-groq-raises-350m-series-a-at-a-3-5b-valuation-pivoting-from]] · [[2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-silicon-to-neocloud]] · [[2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-custom-silicon-to-neo]] · [[2026-08-17-groq-raises-350m-at-a-3-5b-valuation-to-pivot-from-inference]]
 <!-- graph:end -->

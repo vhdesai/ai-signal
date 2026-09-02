@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Alongside the model release, Anthropic published Enterprise Frontier Safeguards,
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-09-01-anthropic-launches-enterprise-frontier-safeguards-keeping-mi]] · [[2026-09-01-anthropic-introduces-enterprise-frontier-safeguards-with-cus]] · [[2026-09-01-anthropic-rolls-out-enterprise-frontier-safeguards]] · [[2026-09-02-anthropic-introduces-zero-retention-ai-safety-monitoring-for]]
 <!-- graph:end -->

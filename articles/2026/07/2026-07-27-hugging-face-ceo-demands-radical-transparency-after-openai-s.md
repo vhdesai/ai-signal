@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: Forbes**
 url_original: https://www.forbes.com/sites/janakirammsv/2026/07/27/the-hugging-face-breach-exposed-a-gap-in-ai-safety-controls/
 url_canonical: https://www.forbes.com/sites/janakirammsv/2026/07/27/the-hugging-face-breach-exposed-a-gap-in-ai-safety-controls/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-27_065041_Final-Daily-AI-News-Digest.md
 content_hash: 754179c00e95196944dcf72d82fdf2a6a2b86818901ec30010b0123a3d3ee1a8
 normalized_title_hash: b94b26d03c7922ca

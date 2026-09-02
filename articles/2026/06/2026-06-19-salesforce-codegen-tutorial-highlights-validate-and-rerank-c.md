@@ -5,7 +5,7 @@ date: '2026-06-19'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks/
 url_canonical: https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-19_060000_Daily-AI-News-Digest.md
 content_hash: 0b34ec68a770d32b00761c9e35d2cdc2b0845bbacdc9f1da1d4ef8f8301d0382
 normalized_title_hash: 6dcd9ef325640862

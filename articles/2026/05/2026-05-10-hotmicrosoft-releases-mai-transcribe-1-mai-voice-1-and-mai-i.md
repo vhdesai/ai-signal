@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Microsoft quietly released three new proprietary AI models through Azure Foundry
 ## Connections
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai]] · [[2026-04-10-microsoft-ai-released-three-proprietary-foundational-models]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model]] · [[2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su]] · [[2026-04-04-microsoft-ai-led-by-ceo-mustafa-suleiman-released-three-foun]]
 <!-- graph:end -->

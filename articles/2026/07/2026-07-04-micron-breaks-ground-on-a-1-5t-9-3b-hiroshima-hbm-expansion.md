@@ -5,7 +5,7 @@ date: '2026-07-04'
 source: Bloomberg
 url_original: https://www.moneycontrol.com/news/business/micron-breaks-ground-on-9-billion-western-japan-plant-expansion-13965876.html
 url_canonical: https://www.moneycontrol.com/news/business/micron-breaks-ground-on-9-billion-western-japan-plant-expansion-13965876.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-04_062504_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 8619b5d204d8fcc5509ff9d3fa622c82957dd66f75dda90b79576ba9c0e6b10f
@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Micron began construction Saturday on a ¥1.5 trillion (~$9.3B) expansion of its
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-04-micron-breaks-ground-on-a-9-3b-hiroshima-plant-for-ai-memory]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on]] · [[2026-07-10-micron-expands-u-s-manufacturing-plan-to-about-250b-on-ai-me]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]]
 <!-- graph:end -->

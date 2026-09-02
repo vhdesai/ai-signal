@@ -17,6 +17,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ xAI sued over "mobile" gas turbines at Mississippi data center — TechCrunch, M
 ## Connections
 
 **Entities:** [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin]] · [[2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth]] · [[2026-07-31-spacex-will-not-remove-all-xai-unpermitted-turbines-until-20]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]] · [[2026-07-31-spacex-won-t-remove-xai-s-unpermitted-colossus-turbines-for]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/
 url_canonical: https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-11_065909_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 6a513175622b26caca60dd2cf4afcd9d83377fd008688f6fe52b30c498232e64
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-ollama-raises-65m-series-b-as-local-ai-adoption-scales
@@ -31,6 +32,6 @@ Ollama, the open-source tool for running open-weight models locally, raised a $6
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-07-09-ollama-raises-65m-series-b-as-local-ai-adoption-scales]]
 <!-- graph:end -->

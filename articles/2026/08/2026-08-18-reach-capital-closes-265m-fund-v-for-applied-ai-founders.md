@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +34,6 @@ Reach Capital announced the close of a $265 million Fund V, continuing the 11-ye
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-25-stability-ai-maker-of-stable-diffusion-raises-76-million-in]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i]] · [[2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]]
 <!-- graph:end -->

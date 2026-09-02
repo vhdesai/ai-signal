@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: The Next Web
 url_original: https://thenextweb.com/news/alibaba-10-2bn-share-placement-ai-infrastructure
 url_canonical: https://thenextweb.com/news/alibaba-10-2bn-share-placement-ai-infrastructure
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-23_062157_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: fd745deda5068acced4e432a1bbde6b98ceb44129f0a1752e08de34331e0ef90
@@ -19,6 +19,8 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -36,6 +38,6 @@ Alibaba is placing HK$80bn (roughly $10.2bn) of new shares in Hong Kong and stat
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Intel]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai]]
 <!-- graph:end -->

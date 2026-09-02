@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: MarkTechPost · Read article →
 url_original: https://www.marktechpost.com/category/technology/artificial-intelligence/
 url_canonical: https://www.marktechpost.com/category/technology/artificial-intelligence/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-04_061155_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: e858f0e2edf27ed862d2f27ae9fd041af047a2652f27d6a0601c4f638ad515cb

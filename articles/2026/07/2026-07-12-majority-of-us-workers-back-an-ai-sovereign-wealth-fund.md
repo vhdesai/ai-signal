@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - policy-regulation
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-12-majority-of-u-s-workers-back-an-ai-sovereign-wealth-fund
@@ -30,6 +31,6 @@ A Verasight survey of 1,690 US adults found that 69% support requiring AI compan
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]]
 **Canonical:** [[2026-07-12-majority-of-u-s-workers-back-an-ai-sovereign-wealth-fund]]
 <!-- graph:end -->

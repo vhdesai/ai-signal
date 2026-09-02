@@ -17,6 +17,7 @@ entities:
 - Google
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Isomorphic Labs — the Google DeepMind spinout behind AlphaFold — closed a $2
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-13-isomorphic-labs-deepmind-spinout-raises-2-1b-series-b-for-ai]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]] · [[2026-07-30-google-deepmind-disbands-its-alphafold-team]] · [[2026-07-30-google-dissolves-nobel-prize-winning-alphafold-team]] · [[2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-to]]
 <!-- graph:end -->

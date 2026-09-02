@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ A $35 billion tranche dramatically raises the ceiling for platform financing and
 ## Connections
 
 **Entities:** [[Amazon]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-03-amazon-completes-additional-35-billion-investment-in-openai]] · [[2026-08-03-amazon-completes-another-35b-investment-in-openai]] · [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]] · [[2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a]]
 <!-- graph:end -->

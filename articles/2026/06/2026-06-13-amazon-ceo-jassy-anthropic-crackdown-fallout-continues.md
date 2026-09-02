@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ The fallout from The Information's exclusive — that Amazon CEO Jassy raised co
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-13-amazon-ceo-jassy-s-talks-with-u-s-officials-triggered-crackd]] · [[2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits]] · [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions]] · [[2026-06-19-trump-anthropic-no-longer-a-national-security-threat]] · [[2026-08-28-federal-judge-orders-pentagon-to-rescind-blacklisting-of-ant]]
 <!-- graph:end -->

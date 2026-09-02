@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Simile raised a $200 million Series B at a $2 billion valuation only five months
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-30-synthetic-user-startup-simile-raises-200m-at-a-2b-valuation]] · [[2026-07-30-simile-raises-200m-at-a-2b-valuation-to-simulate-8-billion-p]] · [[2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-a-2-5b-va]] · [[2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-2-5b-valu]] · [[2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua]]
 <!-- graph:end -->

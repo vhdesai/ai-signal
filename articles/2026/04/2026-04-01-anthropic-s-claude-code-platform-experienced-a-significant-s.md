@@ -5,8 +5,8 @@ title: Anthropic's Claude Code platform experienced a significant security incid
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.techspot.com/news/111907-anthropic-accidentally-exposed-claude-code-source-raising-security.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: 56ba6945e99e9e9fe13a16ae6cf96eb02f69db068e53a083fb387d2931d06699
@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - policy-regulation
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Anthropic's Claude Code platform experienced a significant security incident whe
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]]
 **Related:** [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-04-02-anthropic-s-claude-code-source-code-was-leaked-prompting-the]] · [[2026-04-04-an-npm-packaging-error-exposed-512-000-lines-of-claude-code]] · [[2026-03-31-anthropic-claude-code-source-leaked-again-exposes-capybara-m]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]]
 <!-- graph:end -->

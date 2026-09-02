@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/
 url_canonical: https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: d6160d298d7c40f871bc6e1a16fcb330a8aeb9f738ded89ec594048abc8728bb
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Visa took an undisclosed equity stake in Replit and is exploring integration of 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Related:** [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-05-26-replit-expands-agent-workspaces-for-enterprise-teams]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont]]
 <!-- graph:end -->

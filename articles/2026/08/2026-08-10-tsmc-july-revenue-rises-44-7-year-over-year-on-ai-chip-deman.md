@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: '[Quartz via Yahoo Finance]'
 url_original: https://finance.yahoo.com/technology/ai/articles/tsmc-july-2026-revenue-jumps-110802277.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/tsmc-july-2026-revenue-jumps-110802277.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-10_062245_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: 7df8f91a24c5ee322175d4628bc67c68b6bbe3a0426149e1f70ea518dd598b27
@@ -18,6 +18,7 @@ entities:
 - TSMC
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ TSMC reported July revenue of NT$467.58 billion (about $14.5 billion), up 44.7% 
 ## Connections
 
 **Entities:** [[Google]] · [[NVIDIA]] · [[TSMC]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-sustained-ai-c]] · [[2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi]] · [[2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand]]
 <!-- graph:end -->

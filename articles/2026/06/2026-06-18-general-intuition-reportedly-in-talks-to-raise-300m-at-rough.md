@@ -5,7 +5,7 @@ date: '2026-06-18'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/
 url_canonical: https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-19_060000_Daily-AI-News-Digest.md
 content_hash: edd0c90b4b75a025974c552caf20f2089a2c7ad8c74c31d44ff3687d266d2ca3
 normalized_title_hash: a7300fff183afb97
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ General Intuition is reportedly discussing a $300 million raise at about a $2 bi
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-25-general-intuition-raises-320m-series-a-at-a-2-3b-valuation-t]] · [[2026-06-25-general-intuition-raises-320m-to-train-agents-on-video-game]] · [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]] · [[2026-08-26-instinct-raises-350m-at-a-2-5b-valuation]] · [[2026-08-25-robotics-startup-generalist-reaches-3b-valuation-on-200m-ext]]
 <!-- graph:end -->

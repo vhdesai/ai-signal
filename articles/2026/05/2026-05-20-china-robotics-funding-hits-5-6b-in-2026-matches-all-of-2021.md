@@ -17,6 +17,7 @@ entities: []
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +39,6 @@ Chinese robotics companies have raised $5.6 billion across 176 deals through mid
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi]] · [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]] · [[2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its]] · [[2026-08-18-vcs-poured-47-4b-into-physical-ai-in-the-first-half-of-2026]] · [[2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation]]
 <!-- graph:end -->

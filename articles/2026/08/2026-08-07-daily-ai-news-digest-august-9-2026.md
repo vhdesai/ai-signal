@@ -20,6 +20,8 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +43,6 @@ Executive Summary The sharpest signal in the past 24 hours is that frontier AI c
 ## Connections
 
 **Entities:** [[Amazon]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-08-daily-ai-news-digest-august-9-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-08-12-daily-ai-news-digest-august-13-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]]
 <!-- graph:end -->

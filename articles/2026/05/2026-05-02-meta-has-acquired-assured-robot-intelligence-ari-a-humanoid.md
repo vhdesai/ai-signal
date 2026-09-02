@@ -18,6 +18,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Meta has acquired Assured Robot Intelligence (ARI), a humanoid robotics startup,
 ## Connections
 
 **Entities:** [[Meta]] · [[Tesla]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]] · [[2026-05-02-trendingmeta-acquires-humanoid-robotics-startup-assured-robo]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]] · [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]]
 <!-- graph:end -->

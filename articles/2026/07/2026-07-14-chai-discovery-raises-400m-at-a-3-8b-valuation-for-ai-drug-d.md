@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: The New York Times
 url_original: https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/
 url_canonical: https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_062633_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 0ade6c52c9cee1a000635ca50e6ae64ac6c59b71be1640dfbc53282bedcf70d7
@@ -18,6 +18,8 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-14-chai-discovery-raises-400m-as-wsj-questions-ai-drug-discover
@@ -34,6 +36,6 @@ OpenAI-backed Chai Discovery closed a $400 million round led by Index Ventures a
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-14-chai-discovery-raises-400m-as-wsj-questions-ai-drug-discover]]
 <!-- graph:end -->

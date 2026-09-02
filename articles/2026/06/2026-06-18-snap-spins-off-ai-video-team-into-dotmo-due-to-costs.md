@@ -5,7 +5,7 @@ date: '2026-06-18'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/
 url_canonical: https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-19_060000_Daily-AI-News-Digest.md
 content_hash: 4f94dfe8b5cdef57dbc49f17a2c6e393bf1a9bfa9151e0e1d119d9ce2a946ca8
 normalized_title_hash: f65246f8b85b5d3f

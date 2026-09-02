@@ -5,7 +5,7 @@ date: '2026-05-25'
 source: TechCrunch
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-26_071231_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 5aef7fcf91838ae385cf4f26a26cd98ae81e1622460a2a30bb34fb3722527d08
@@ -18,6 +18,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ ClickUp's mass layoff is being read by analysts as a leading indicator for how p
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-25-clickup-mass-layoff-signals-the-white-collar-ai-restructurin]] · [[2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros]] · [[2026-05-22-meta-began-notifying-approximately-8-000-employees-of-layoff]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]]
 <!-- graph:end -->

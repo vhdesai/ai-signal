@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: Google DeepMind Blog; TechCrunch; WSJ; Reuters
 url_original: https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/
 url_canonical: https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: cad8d612e59fd143137d9919f88644f11cd90ebd2122fb4eb15c5ac99905130d
 normalized_title_hash: 4e99d187d6822c78

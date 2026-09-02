@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/
 url_canonical: https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-09_083947_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: fae28de389e8a6bccd2a838c5ec9657bcbece5decd4b0136b2d886c2cbf22770

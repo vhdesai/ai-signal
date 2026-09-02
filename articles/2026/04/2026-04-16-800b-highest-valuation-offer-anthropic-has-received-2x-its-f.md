@@ -21,6 +21,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -43,6 +44,6 @@ $800B — Highest valuation offer Anthropic has received (2x its Feb round) $852
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[DeepSeek]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-17-anthropic-s-annualized-revenue-surges-to-65b-ipo-expected-th]] · [[2026-05-28-anthropic-raises-65b-series-h-at-965b-valuation-overtaking-o]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]] · [[2026-05-15-anthropic-potential-30b-funding-round-could-push-valuation-t]]
 <!-- graph:end -->

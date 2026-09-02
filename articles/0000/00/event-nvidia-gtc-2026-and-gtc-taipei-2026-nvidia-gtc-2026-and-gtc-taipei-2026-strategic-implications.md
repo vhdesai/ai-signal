@@ -5,7 +5,7 @@ date: null
 source: NVIDIA GTC 2026 and GTC Taipei 2026
 url_original: https://www.nvidia.com/gtc/
 url_canonical: https://www.nvidia.com/gtc/
-url_status: ok
+url_status: found
 digest_source: digests\raw\nvidia-gtc-2026-gtc-taipei-2026.md
 content_hash: 6872fb1b4147562bd02ca09b09b58355ac8a81247231fa6537830b4203ab90af
 normalized_title_hash: 598525e35de7ab95
@@ -23,6 +23,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -44,6 +45,6 @@ AI factory lock-in: NVIDIA is positioning the rack, network, software runtime, a
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[Oracle]] · [[SAP]] · [[TSMC]] · [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-2]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-gtc-taipei-computex-adja]]
 <!-- graph:end -->

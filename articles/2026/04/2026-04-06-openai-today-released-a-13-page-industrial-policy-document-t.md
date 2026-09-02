@@ -18,6 +18,7 @@ entities:
 themes:
 - policy-regulation
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ OpenAI today released a 13-page industrial policy document titled "Industrial Po
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-17-openai-funds-independent-projects-on-policy-ideas-for-the-in]] · [[2026-08-20-openai-launches-ai-futures-a-blog-on-power-governance-and-th]] · [[2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy]] · [[2026-08-21-openai-launches-ai-futures-a-blog-on-power-governance-and-hu]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
 <!-- graph:end -->

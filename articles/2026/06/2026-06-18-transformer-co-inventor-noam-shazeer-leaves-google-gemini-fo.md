@@ -5,7 +5,7 @@ date: '2026-06-18'
 source: TechCrunch; CNBC
 url_original: https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/
 url_canonical: https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-19_070001_Final-Daily-AI-News-Digest.md
 content_hash: 2d139b438d1180402986f5aa2f47cc0ec50461f8a344951562a5b92661fed7bd
 normalized_title_hash: fb819f7b96b6eaa5
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-18-noam-shazeer-leaves-google-gemini-for-openai
@@ -34,6 +35,6 @@ Shazeer, co-author of "Attention Is All You Need" and VP Engineering co-leading 
 ## Connections
 
 **Entities:** [[Google]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-06-18-noam-shazeer-leaves-google-gemini-for-openai]]
 <!-- graph:end -->

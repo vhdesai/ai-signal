@@ -17,6 +17,8 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +36,6 @@ Nvidia has agreed to buy open-source AI hub Hugging Face for roughly $12.9B, val
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b]]
 <!-- graph:end -->

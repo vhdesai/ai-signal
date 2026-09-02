@@ -19,6 +19,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ IBM's Red Hat division launched two enterprise AI infrastructure products: the R
 ## Connections
 
 **Entities:** [[IBM]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from]] · [[2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme]] · [[2026-08-04-runware-launches-a-modular-inference-data-center-pod]] · [[2026-08-11-ibm-and-together-ai-sign-240m-multi-year-nvidia-powered-infe]] · [[2026-08-25-ibm-releases-granite-4-2-bringing-native-reasoning-and-agent]]
 <!-- graph:end -->

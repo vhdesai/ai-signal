@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/
 url_canonical: https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - July
   30, 2026 (Revised).md
 content_hash: 34cfc84f23a91f5f54b3695c7dd67f55440cbd96ba37044d50c4f5ea48a27dc4
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-28-data-centers-may-face-temporary-power-cuts-on-the-largest-us
@@ -31,6 +32,6 @@ PJM Interconnection, the largest U.S. grid operator, plans to curtail power to d
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-28-data-centers-may-face-temporary-power-cuts-on-the-largest-us]]
 <!-- graph:end -->

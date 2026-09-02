@@ -16,6 +16,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ York is reportedly set to temporarily ban large new data centers, New Orleans ha
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash]] · [[2026-07-13-infrastructure-local-policy-data-centers]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]] · [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]]
 <!-- graph:end -->

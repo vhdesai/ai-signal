@@ -20,6 +20,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr
@@ -36,6 +37,6 @@ AI inference chipmaker Cerebras Systems opened at $350 a share on Nasdaq Thursda
 ## Connections
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr]]
 <!-- graph:end -->

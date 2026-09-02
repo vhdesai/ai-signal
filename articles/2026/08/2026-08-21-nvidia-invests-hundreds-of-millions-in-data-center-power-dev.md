@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: TechCrunch / WSJ / Reuters
 url_original: https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/
 url_canonical: https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_060854_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 4a81458d8e3ceb9c7dd1e900dbb30f1d2ffda972e14674a592b91522d3892263
@@ -18,6 +18,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-nvidia-in-talks-to-invest-in-data-center-power-developer-clo
@@ -34,6 +36,6 @@ Nvidia partnered with Cloverleaf Infrastructure, a data center site preparation 
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-21-nvidia-in-talks-to-invest-in-data-center-power-developer-clo]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-08'
 source: CNBC
 url_original: https://www.cnbc.com/2026/06/08/amazon-taps-corning-for-op.html
 url_canonical: https://www.cnbc.com/2026/06/08/amazon-taps-corning-for-op.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-09_070112_Final-Daily-AI-News-Digest.md
 content_hash: d34c748fd3d483ce52c5fd34660203693242e9bdac0ca3d793a123d1c2e290e1
 normalized_title_hash: 1ee15801b093a889
@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Amazon will pay Corning billions for optical fiber to connect its AI data center
 ## Connections
 
 **Entities:** [[Amazon]] · [[Meta]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]] · [[2026-08-19-relativity-networks-raises-22-million-for-hollow-core-fiber]] · [[2026-08-19-relativity-networks-raises-22m-for-hollow-core-fiber-in-ai-d]] · [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Amazon CEO: $15B AI Revenue, $200B Capex Plan, $20B Custom Chip Business Amazon 
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-posts-fastest-grow]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-growth-hits-a-four]] · [[2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity]] · [[2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai]]
 <!-- graph:end -->

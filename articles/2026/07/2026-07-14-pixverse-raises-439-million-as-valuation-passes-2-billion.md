@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/
 url_canonical: https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_060635_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: cb9f88fab619cd023cd852921d44582bdf11ae1644396e6a715044af7dbd4fcf
@@ -17,6 +17,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -36,6 +37,6 @@ Singapore-based video-generation startup PixVerse closed a Series C extension, b
 ## Connections
 
 **Entities:** [[Alibaba]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b]] · [[2026-07-14-video-generation-startup-pixverse-raises-439m-at-a-2b-valuat]]
 <!-- graph:end -->

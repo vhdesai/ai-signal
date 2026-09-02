@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/
 url_canonical: https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 484cb6882e29b25d2f7165176495d3f0575fda2ab346480bfea6d589b00b6963
 normalized_title_hash: a54441a2dbfe8e71

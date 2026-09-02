@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +41,6 @@ Alibaba priced HK$80B (~$10.2B) in the largest primary follow-on ever by a HK-li
 ## Connections
 
 **Entities:** [[Alibaba]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-24-alibaba-plunges-after-announcing-10-2-billion-share-placemen]] · [[2026-08-24-alibaba-sells-10-2b-in-stock-to-fund-ai-shares-plunge-roughl]] · [[2026-08-24-alibaba-prices-10-2b-hong-kong-share-placement-to-fund-ai-sh]] · [[2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai]]
 <!-- graph:end -->

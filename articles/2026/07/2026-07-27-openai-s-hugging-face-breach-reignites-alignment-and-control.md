@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/
 url_canonical: https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-28_060522_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: 65939004c103e4c5ca920937e15de07014d295a709756b9c297b765fcab61079

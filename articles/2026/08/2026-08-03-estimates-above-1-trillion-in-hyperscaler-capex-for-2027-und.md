@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Estimates above $1 trillion in hyperscaler capex for 2027 underscore that AI sca
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-03-hyperscaler-ai-capex-estimates-top-1-trillion-for-2027]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget]] · [[2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa]]
 <!-- graph:end -->

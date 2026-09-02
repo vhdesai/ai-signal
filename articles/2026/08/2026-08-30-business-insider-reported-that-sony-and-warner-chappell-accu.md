@@ -23,6 +23,7 @@ entities:
 themes:
 - policy-regulation
 - model-capabilities
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ Filtered to items published between August 30, 2026 at 6:45 AM PDT and August 31
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[M&A Activity]]
 **Related:** [[2026-08-29-sony-music-and-warner-chappell-sue-anthropic-over-alleged-co]] · [[2026-08-31-sony-music-publishing-and-warner-chappell-sue-anthropic-over]]
 <!-- graph:end -->

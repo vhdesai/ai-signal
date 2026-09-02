@@ -5,7 +5,7 @@ date: '2026-06-20'
 source: 24/7 Wall St.; VentureBeat
 url_original: https://247wallst.com/investing/2026/06/20/microsofts-ceo-just-warned-the-entire-ai-industry-your-dominance-will-trigger-a-backlash/
 url_canonical: https://247wallst.com/investing/2026/06/20/microsofts-ceo-just-warned-the-entire-ai-industry-your-dominance-will-trigger-a-backlash/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-21_070147_Final-Daily-AI-News-Digest.md
 content_hash: 2c6f34af7ed090aa16f1d812d6d33e52b4335bb77a5196e2c22306cf4310234e
 normalized_title_hash: 4f3dc5b9ff7eaa36
@@ -16,6 +16,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ event_name: ''
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-20-nadella-warns-ai-industry-there-is-no-societal-permission-fo]] · [[2026-06-21-analysis-of-satya-nadella-s-june-14-blog-post-reveals-a-star]] · [[2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce]] · [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat]] · [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]]
 <!-- graph:end -->

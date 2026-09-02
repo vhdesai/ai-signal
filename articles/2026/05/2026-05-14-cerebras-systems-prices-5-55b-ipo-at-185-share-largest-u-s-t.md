@@ -6,7 +6,7 @@ date: '2026-05-14'
 source: Blockonomi
 url_original: https://blockonomi.com/cerebras-systems-cbrs-executes-record-breaking-5-55b-ai-chip-ipo/
 url_canonical: https://blockonomi.com/cerebras-systems-cbrs-executes-record-breaking-5-55b-ai-chip-ipo/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 3510dcd9b2d80aca70c30c52ff6687d398ce57a5a21168ef85fa01ac0115ee0b
@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-14-cerebras-prices-5-55b-ipo-at-185-share-largest-u-s-tech-ipo
@@ -36,6 +37,6 @@ Cerebras priced its Nasdaq debut above the $150–$160 marketed range, raising $
 ## Connections
 
 **Entities:** [[Amazon]] · [[Arm]] · [[Cerebras]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-05-14-cerebras-prices-5-55b-ipo-at-185-share-largest-u-s-tech-ipo]]
 <!-- graph:end -->

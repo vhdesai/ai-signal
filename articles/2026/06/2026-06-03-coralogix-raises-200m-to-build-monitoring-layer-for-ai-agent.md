@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/
 url_canonical: https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-04_071040_Final-Daily-AI-News-Digest.md
 content_hash: 0847293e0662a7d5f9f95c58de7821e78bfeb2f39a5f0a9fe72044791a13b161
 normalized_title_hash: 3e27342f2c0065ec
@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Coralogix raised $200M in a Series F, positioning itself as the observability pl
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-03-coralogix-raises-200m-to-build-the-monitoring-layer-for-ai-a]] · [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco]] · [[2026-08-01-venturebeat-reports-that-observability-startup-groundcover-r]] · [[2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en]] · [[2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance]]
 <!-- graph:end -->

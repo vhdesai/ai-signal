@@ -6,7 +6,7 @@ date: '2026-06-02'
 source: Microsoft; TechCrunch; Wired; The Verge; Gizbot
 url_original: https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/
 url_canonical: https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-04_072143_Inbox_Daily AI News Digest – June 4,
   2026 (Updated).md
 content_hash: cf452a908607beec8aee7b849bb361f1f2fad471d0802d42a7483dd6d518cd2c
@@ -19,6 +19,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Scout is the first “Autopilots”-class always-on agent, built on OpenClaw and
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-02-microsoft-launches-scout-always-on-agent-agent-365-governanc]] · [[2026-06-02-microsoft-build-2026-scout-agent-project-solara-and-frontier]] · [[event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy]] · [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi]]
 <!-- graph:end -->

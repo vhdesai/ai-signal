@@ -5,7 +5,7 @@ date: '2026-07-05'
 source: CNBC**
 url_original: https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html
 url_canonical: https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-06_084325_Final-Daily-AI-News-Digest.md
 content_hash: 4dfb00000ebea72079ed59cb3647e89ca2dafbb1505f7b4adec94ae81c19c415
 normalized_title_hash: fe99fbe2a8a9e62a
@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028
@@ -35,6 +36,6 @@ Research firm SemiAnalysis reports that Nvidia's Kyber NVL144 rack — designed 
 ## Connections
 
 **Entities:** [[AMD]] · [[Google]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028]]
 <!-- graph:end -->

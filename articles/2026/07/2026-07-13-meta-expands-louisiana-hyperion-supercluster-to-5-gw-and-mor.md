@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: Benzinga (Reuters) · The Wall Street Journal
 url_original: https://www.benzinga.com/markets/tech/26/07/60410281/mark-zuckerbergs-meta-just-supercharged-its-biggest-ai-bet-yet-expanding-its-hyperion-data-center-into-a-50-billion-plus-project
 url_canonical: https://www.benzinga.com/markets/tech/26/07/60410281/mark-zuckerbergs-meta-just-supercharged-its-biggest-ai-bet-yet-expanding-its-hyperion-data-center-into-a-50-billion-plus-project
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - July
   13, 2026.md
 content_hash: f6ee935a7189f7777e645ef93e2f4f509cd7860474aad4f842cd0647c664f18c
@@ -17,6 +17,7 @@ entities:
 - Meta
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Meta will scale Hyperion to 5 GW at >$50B — up from initial ~$10B/2 GW. Partne
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-50b-and-5-gi]] · [[2026-07-13-meta-pours-an-additional-40b-into-its-hyperion-data-center-c]] · [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill]]
 <!-- graph:end -->

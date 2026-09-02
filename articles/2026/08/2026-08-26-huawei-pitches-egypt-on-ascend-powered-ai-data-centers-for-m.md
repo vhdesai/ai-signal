@@ -17,6 +17,7 @@ entities:
 - Huawei
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ Huawei has submitted a proposal to the Egyptian government to build AI data cent
 ## Connections
 
 **Entities:** [[Huawei]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]] · [[2026-05-26-with-h200-shipments-to-china-stalled-by-conflicting-u-s]] · [[2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev]] · [[2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim]] · [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]]
 <!-- graph:end -->

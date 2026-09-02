@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: AI News
 url_original: https://www.artificialintelligence-news.com/
 url_canonical: https://www.artificialintelligence-news.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 4c957a2d402693d1e70da00f317a268de9cba5f14de3a32af84ec41764cb5838

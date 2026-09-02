@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: The Next Web
 url_original: https://thenextweb.com/news/alibaba-charge-big-users-open-source-qwen
 url_canonical: https://thenextweb.com/news/alibaba-charge-big-users-open-source-qwen
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_061807_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: ec5f0644ca348eb27e068377daee35d35a51ef62ceeb915b39eaf46bccd253e9

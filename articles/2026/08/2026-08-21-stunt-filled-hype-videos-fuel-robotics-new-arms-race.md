@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=robotics+hype+videos+arms+race
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=robotics+hype+videos+arms+race
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-22_065910_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: bf4cca2ab41bcb6507a3dceb6f63ab5d4007984cb8abf63d0546a18e3b4ff06c

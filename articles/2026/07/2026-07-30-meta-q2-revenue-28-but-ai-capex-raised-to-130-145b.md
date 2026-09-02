@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: TechCrunch · Meta
 url_original: https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/
 url_canonical: https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-31_061058_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: 0c03cb1533e426f30d04104cfc2dc433d7b11eeb2c91109fa9a1c4f98f1ecb3a
@@ -17,6 +17,7 @@ entities:
 - Meta
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Meta reported $60.8B in revenue (+28%), but profit fell on legal charges, severa
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-30-meta-q4-profit-falls-14-free-cash-flow-plunges-91-as-capex-n]] · [[2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]] · [[2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b]]
 <!-- graph:end -->

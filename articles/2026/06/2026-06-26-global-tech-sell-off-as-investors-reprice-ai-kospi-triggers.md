@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: TheStreet
 url_original: https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-26-2026
 url_canonical: https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-26-2026
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-27_064706_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: f3742bb3126f41c9a4b98151f8ff36944f3d6215b7a4ee665abe9b6a334a69dd
@@ -17,6 +17,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +39,6 @@ Equities fell Friday in a global technology sell-off as investors questioned str
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat]] · [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-07-27-global-chip-rout-deepens-korea-s-kospi-trips-circuit-breaker]] · [[2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/nvidia-750-billion-deals-revive-102003935.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-750-billion-deals-revive-102003935.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-27_062053_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: c51ecc7e66dd56614be45a29847b1483079dfbcd801bff82c00430592452e89a
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Nvidia is reportedly working on a fresh round of AI infrastructure deals potenti
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-02-nvidia-linked-ai-infrastructure-spending-fuels-circular-fina]] · [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]] · [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]] · [[2026-08-02-nvidia-s-planned-750b-ai-outlay-draws-circular-financing-and]] · [[2026-08-15-nvidia-reportedly-close-to-guaranteeing-about-100-billion-in]]
 <!-- graph:end -->

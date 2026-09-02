@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ Meta debuted Muse Spark on April 8, the inaugural model from Meta Superintellige
 ## Connections
 
 **Entities:** [[Meta]] · [[Scale AI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc]] · [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1]] · [[2026-07-10-meta-opens-muse-spark-1-1-its-first-paid-ai-api-at-cut-rate]] · [[2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in]]
 <!-- graph:end -->

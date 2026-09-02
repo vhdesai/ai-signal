@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: ICRA 2026
 url_original: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
 url_canonical: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
-url_status: broken
+url_status: found
 digest_source: digests\raw\icra-2026.md
 content_hash: 999b827a3ed471bca9dd1dce9a6c914daa9ba9d4f5b9219a6818154a2b814e0c
 normalized_title_hash: 47e496b12faedbac
@@ -17,6 +17,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,5 +34,5 @@ The core technical challenge is making policies trained in simulation robust eno
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 <!-- graph:end -->

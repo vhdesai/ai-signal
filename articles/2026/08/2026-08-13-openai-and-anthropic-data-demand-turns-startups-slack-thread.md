@@ -19,7 +19,8 @@ entities:
 - DeepSeek
 - Google
 - OpenAI
-themes: []
+themes:
+- ma-activity
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -41,6 +42,6 @@ AI labs including OpenAI, Anthropic, and Google are driving a surge in demand fo
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Global AI Race]]
+**Topics:** [[M&A Activity]] · [[Global AI Race]]
 **Related:** [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s]] · [[2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product]] · [[2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a]]
 <!-- graph:end -->

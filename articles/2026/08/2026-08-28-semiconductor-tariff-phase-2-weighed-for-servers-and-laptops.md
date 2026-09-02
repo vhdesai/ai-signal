@@ -16,6 +16,7 @@ tags: []
 entities: []
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ The administration is weighing extending semiconductor duties beyond discrete ch
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-28-phase-2-chip-tariffs-would-strip-data-center-exemptions]] · [[2026-08-27-u-s-weighs-a-broader-semiconductor-tariff-regime-covering-se]] · [[2026-08-28-washington-weighs-extending-chip-tariffs-to-servers-and-fini]] · [[2026-08-08-ai-data-center-imports-are-largely-exempt-from-us-tariffs]]
 <!-- graph:end -->

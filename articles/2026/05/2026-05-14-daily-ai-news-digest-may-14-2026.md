@@ -23,6 +23,8 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -45,6 +47,6 @@ The past 48 hours have been unusually dense across the AI stack. Cerebras priced
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Arm]] · [[Cerebras]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-14-microsoft-corp-dev-ai-intelligence-brief]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-14-daily-ai-news-digest-august-15-2026]] · [[2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p]]
 <!-- graph:end -->

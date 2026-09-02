@@ -5,7 +5,7 @@ date: '2026-05-24'
 source: AIToolsRecap
 url_original: https://aitoolsrecap.com/Blog/MayNews2026.aspx
 url_canonical: https://aitoolsrecap.com/Blog/MayNews2026.aspx
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-24_071254_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 5789c86806c6bcb842b915e00aa5a2b00513b009751133fa32ef71102bf16ed7

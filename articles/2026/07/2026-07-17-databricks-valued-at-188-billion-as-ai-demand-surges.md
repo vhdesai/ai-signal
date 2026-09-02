@@ -18,6 +18,7 @@ entities:
 - Databricks
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-17-databricks-reaches-188-billion-valuation-as-ai-infrastructur
@@ -34,6 +35,6 @@ The Information reports that Databricks has been valued at $188 billion as AI de
 ## Connections
 
 **Entities:** [[Databricks]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-07-17-databricks-reaches-188-billion-valuation-as-ai-infrastructur]]
 <!-- graph:end -->

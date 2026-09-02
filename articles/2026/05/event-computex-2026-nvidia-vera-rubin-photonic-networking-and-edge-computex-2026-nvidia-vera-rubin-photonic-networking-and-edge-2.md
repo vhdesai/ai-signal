@@ -19,6 +19,7 @@ entities:
 - TSMC
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge
@@ -39,7 +40,7 @@ Networking is becoming as strategic as GPUs: Photonic interconnects point to rac
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[TSMC]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge]]
 **Related:** [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-2]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]]
 <!-- graph:end -->

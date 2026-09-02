@@ -19,6 +19,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ In a busy earnings week, Meta revenue grew 33%, Alphabet beat across the board, 
 ## Connections
 
 **Entities:** [[Apple]] · [[Meta]] · [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai]] · [[2026-07-31-amazon-s-aws-acceleration-validates-ai-infrastructure-spendi]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-07-22-alphabet-beats-on-revenue-and-82-cloud-growth-but-205b-capex]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 6b26b924f6219aa81d4e9a0b04041d9c1aa6b2679afdd011ddbbb70021fd4a29

@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: Memeburn
 url_original: https://memeburn.com/openai-codex-reaches-20-million-users-amid-usage-limit-complaints/
 url_canonical: https://memeburn.com/openai-codex-reaches-20-million-users-amid-usage-limit-complaints/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_065242_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 23912536ccdef286f261afaefc85e8d54e7f7a024ee4e8ca9b2d80008d184727

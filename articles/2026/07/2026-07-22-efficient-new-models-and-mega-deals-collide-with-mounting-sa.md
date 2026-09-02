@@ -23,6 +23,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -45,6 +46,6 @@ The last 24 hours brought efficient Gemini Flash releases, major AI infrastructu
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-21-google-launches-gemini-3-5-flash-cyber-ai-for-vulnerability]] · [[2026-05-27-the-week-that-reset-the-ai-industry]] · [[2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice]]
 <!-- graph:end -->

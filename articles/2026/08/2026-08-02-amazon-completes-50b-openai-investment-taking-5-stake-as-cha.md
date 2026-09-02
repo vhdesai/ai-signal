@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Amazon completed its $50 billion investment in OpenAI, disclosed in an SEC filin
 ## Connections
 
 **Entities:** [[Amazon]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-03-amazon-completes-another-35b-investment-in-openai]] · [[2026-08-03-amazon-completes-additional-35-billion-investment-in-openai]] · [[2026-06-10-amazon-borrows-17-5b-from-banks-as-ai-infrastructure-spendin]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]]
 <!-- graph:end -->

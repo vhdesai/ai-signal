@@ -5,8 +5,8 @@ title: Apple announced it will open the Siri platform to third-party AI models i
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://computertech.co/apple-siri-open-to-third-party-ai-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: c8d4628c039ef62763c4e54de89481b5b8ae56f3934011cfb7d8f5219cb986db

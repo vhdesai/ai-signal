@@ -17,6 +17,8 @@ entities:
 - xAI
 themes:
 - company-storylines
+- ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-musk-s-xai-is-renamed-spacexai-following-spacex-s-acquisitio
@@ -33,6 +35,6 @@ Elon Musk's xAI has officially rebranded as SpaceXAI, completing its absorption 
 ## Connections
 
 **Entities:** [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Canonical:** [[2026-07-06-musk-s-xai-is-renamed-spacexai-following-spacex-s-acquisitio]]
 <!-- graph:end -->

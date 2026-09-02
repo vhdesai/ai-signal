@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/
 url_canonical: https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-29_062619_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: cf23984ee0beb0026f73db79c2dc71525bfbb4f6e8a877071f125aceeb7dcb52
@@ -17,6 +17,7 @@ entities:
 themes:
 - policy-regulation
 - model-capabilities
+- ma-activity
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ Baidu's Apollo Go autonomous vehicles will begin operating in London through Fre
 ## Connections
 
 **Entities:** [[Baidu]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[M&A Activity]] · [[Global AI Race]]
 **Related:** [[2026-04-02-baidu-s-apollo-go-robotaxi-fleet-suffered-a-suspected-system]] · [[2026-04-02-breaking-baidu-robotaxi-operations-suspended-in-wuhan-apr-1]] · [[2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv]] · [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo]] · [[2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across]]
 <!-- graph:end -->

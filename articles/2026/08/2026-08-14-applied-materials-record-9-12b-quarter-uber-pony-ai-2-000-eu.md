@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -35,6 +36,6 @@ Applied Materials posted record Q3 revenue of $9.12B (+25% YoY), guiding to $10.
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-14-applied-materials-posts-record-9-12b-quarter-on-ai-chip-dema]] · [[2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across]] · [[2026-08-14-uber-and-pony-ai-to-deploy-2-000-robotaxis-across-europe]]
 <!-- graph:end -->

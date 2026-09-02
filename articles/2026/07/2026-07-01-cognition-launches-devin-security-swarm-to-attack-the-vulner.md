@@ -5,7 +5,7 @@ date: '2026-07-01'
 source: PR Newswire
 url_original: https://www.aol.com/articles/cognition-launches-devin-security-swarm-130000000.html
 url_canonical: https://www.aol.com/articles/cognition-launches-devin-security-swarm-130000000.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-03_062557_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: 157981ee99155106f50caacec53d320f262c67b65b9a7e64f98eb41ec914f21c

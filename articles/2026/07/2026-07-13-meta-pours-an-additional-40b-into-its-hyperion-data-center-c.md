@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: Bloomberg / NOLA.com
 url_original: https://aiweekly.co/ai-news-today
 url_canonical: https://aiweekly.co/ai-news-today
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: e33d72a69c33a323b5cdc621ed0f9c34c5b8bd769ef329e617a5680e4bee6f5e
@@ -17,6 +17,7 @@ entities:
 - Meta
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-50b-and-5-gi
@@ -36,7 +37,7 @@ Meta is adding roughly $40 billion to its Hyperion campus in Richland Parish, ta
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-50b-and-5-gi]]
 **Related:** [[2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-5-gw-and-mor]] · [[2026-07-13-infrastructure-meta-capex]] · [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-in-5-9b-joint]]
 <!-- graph:end -->

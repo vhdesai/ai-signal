@@ -5,7 +5,7 @@ date: '2026-08-29'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html
 url_canonical: https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-30_065043_Final-Daily-AI-News-Digest.md
 content_hash: 7f629e6b248a414a86ebc8f7dc8068463a54d5617efda0eb35aad4777a87b641
 normalized_title_hash: 7b44456c5fa70c00
@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-29-130b-in-data-center-projects-blocked-or-delayed-in-q1-alone
@@ -30,6 +31,6 @@ Roughly $130 billion in data-center projects were delayed or cancelled in Q1 202
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-29-130b-in-data-center-projects-blocked-or-delayed-in-q1-alone]]
 <!-- graph:end -->

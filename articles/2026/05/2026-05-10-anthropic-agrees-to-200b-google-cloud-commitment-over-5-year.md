@@ -21,6 +21,7 @@ entities:
 - Oracle
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Per The Information, Anthropic agreed to pay Google $200 billion over five years
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[Oracle]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-06-breakinganthropic-commits-200-billion-to-google-cloud-over-f]] · [[2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]]
 <!-- graph:end -->

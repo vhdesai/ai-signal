@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +39,6 @@ Bloomberg reports that Tencent-backed Enflame is seeking roughly $911 million in
 ## Connections
 
 **Entities:** [[Tencent]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo]] · [[2026-09-02-tencent-backed-enflame-s-ipo-draws-4-073-times-retail-demand]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-06-03-deepseek-nears-7-4b-maiden-fundraise-led-by-tencent-and-catl]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - Cerebras
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ The Information / TechCrunch • April 19, 2026 Anysphere's Cursor is reportedly
 ## Connections
 
 **Entities:** [[Cerebras]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-04-17-breaking-cursor-in-advanced-talks-on-2b-round-at-50b-valuati]] · [[2026-06-19-market-analysts-continue-to-assess-spacex-s-60-billion-all-s]] · [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation]]
 <!-- graph:end -->

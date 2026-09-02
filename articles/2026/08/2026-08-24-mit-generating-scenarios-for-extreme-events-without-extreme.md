@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: MIT News
 url_original: https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824
 url_canonical: https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-25_163610_Inbox_Fw Daily AI News Digest - August
   25, 2026.md
 content_hash: 29e6d1820dcd4d9d506f9aefc84a593f3f9fd44da3acfbdcd49a199f7298cca1
@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ MIT engineers published an algorithm that generates plausible extreme-event and 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event]] · [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent]] · [[2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ OpenAI President Greg Brockman testified in the Musk trial that his stake in Ope
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-12-openai-to-spend-50-billion-on-infrastructure-in-2026-brockma]] · [[2026-07-02-openai-floats-giving-the-u-s-government-a-5-stake-42-6b]] · [[2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra]] · [[2026-07-02-openai-floats-handing-the-us-government-a-5-stake-to-ease-wa]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]]
 <!-- graph:end -->

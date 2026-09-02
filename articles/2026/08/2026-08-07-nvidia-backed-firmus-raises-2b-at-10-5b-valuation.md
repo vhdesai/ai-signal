@@ -24,6 +24,8 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -46,6 +48,6 @@ Australian AI infrastructure company Firmus closed a $2 billion equity round nea
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[ByteDance]] · [[DeepSeek]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation]] · [[2026-08-10-australia-s-firmus-raises-2b-for-ai-data-centers-at-a-10-5b]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]] · [[2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in]]
 <!-- graph:end -->

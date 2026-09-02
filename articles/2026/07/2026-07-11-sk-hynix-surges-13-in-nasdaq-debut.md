@@ -17,6 +17,8 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +37,6 @@ SK hynix's US depositary receipts jumped roughly 13% in their Nasdaq debut, open
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-10-sk-hynix-surges-13-in-nasdaq-debut]] · [[2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet]]
 <!-- graph:end -->

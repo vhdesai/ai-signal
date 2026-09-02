@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: American Bazaar / Axios
 url_original: https://americanbazaaronline.com/2026/08/06/openai-files-a-motion-to-dismiss-apple-lawsuit-485909/
 url_canonical: https://americanbazaaronline.com/2026/08/06/openai-files-a-motion-to-dismiss-apple-lawsuit-485909/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_061331_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 003c3c0f81c1fd9cbf65b29895cb8e87ebafa7c43847f2ef30955ba297031401

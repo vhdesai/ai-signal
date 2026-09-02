@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - model-capabilities
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -42,6 +43,6 @@ Frontier model launches are clearing new government hurdles and the US–China A
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-06-daily-ai-news-digest-july-8-2026]] · [[2026-07-08-daily-ai-news-digest-july-9-2026]] · [[2026-07-13-monday-july-13-2026]] · [[2026-07-09-daily-ai-news-digest-july-10-2026]] · [[2026-07-13-daily-ai-news-digest-july-14-2026]]
 <!-- graph:end -->

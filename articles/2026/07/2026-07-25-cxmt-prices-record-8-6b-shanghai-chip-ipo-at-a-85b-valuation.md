@@ -5,7 +5,7 @@ date: '2026-07-25'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/321597/20260725/cxmt-hits-star-market-monday-86b-war-chest-hard-equipment-ceiling.htm
 url_canonical: https://www.techtimes.com/articles/321597/20260725/cxmt-hits-star-market-monday-86b-war-chest-hard-equipment-ceiling.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-26_062744_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: e18a1049881479a66e8b0405f02a9cfad4012f6009721d4c38a3c46adb080204
@@ -16,6 +16,7 @@ entities:
 - Samsung
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -33,6 +34,6 @@ ChangXin Memory Technologies (CXMT), China's flagship DRAM maker, is set to debu
 ## Connections
 
 **Entities:** [[Samsung]]
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-25-china-s-cxmt-debuts-on-shanghai-s-star-market-with-an-8-6b-r]]
 <!-- graph:end -->

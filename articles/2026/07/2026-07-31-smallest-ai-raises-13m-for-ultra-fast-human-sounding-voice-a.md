@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/
 url_canonical: https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-01_061707_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: f082fb3e69a60f832e128d1ab551fa58a9bf9444b6e3d19cbaa19d65930e3db3
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike
@@ -30,6 +31,6 @@ Smallest.ai raised $13 million to build low-latency voice AI aimed at closing th
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike]]
 <!-- graph:end -->

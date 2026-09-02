@@ -18,6 +18,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-spacexai-ships-grok-4-6-for-long-running-agents-and-coding
@@ -35,7 +36,7 @@ SpaceXAI (formerly xAI) released Grok 4.6, a flagship model tuned for long-runni
 ## Connections
 
 **Entities:** [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-12-spacexai-ships-grok-4-6-for-long-running-agents-and-coding]]
 **Related:** [[2026-08-12-xai-launches-grok-4-6-for-long-running-agents-grok-4-7-previ]]
 <!-- graph:end -->

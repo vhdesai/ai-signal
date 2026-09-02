@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai
@@ -34,6 +35,6 @@ OpenAI announced an agreement to secure approximately 8 gigawatts-IT at the PORT
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai]]
 <!-- graph:end -->

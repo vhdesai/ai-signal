@@ -6,7 +6,7 @@ date: '2026-05-27'
 source: ChatForest
 url_original: https://nvidianews.nvidia.com/online-press-kit/gtc-2026-news
 url_canonical: https://nvidianews.nvidia.com/online-press-kit/gtc-2026-news
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: f785545e0f206c10196468eadd9fec2309ecf794e1a1db9942630ee90e1c98fe
@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Pre-GTC Taipei coverage (Jensen Huang keynote scheduled June 1) signals the N1X 
 ## Connections
 
 **Entities:** [[Apple]] · [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-gtc-taipei-computex-adja]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge]]
 <!-- graph:end -->

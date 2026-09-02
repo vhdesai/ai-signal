@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Counterpoint Research found that 92% of roughly 170 sovereign large language mod
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch]] · [[2026-08-14-kog-aims-to-squeeze-more-inference-throughput-from-conventio]]
 <!-- graph:end -->

@@ -16,6 +16,8 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +39,6 @@ Bloomberg reported SK Hynix is seeking to raise roughly $29.4B in a US listing, 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of]] · [[2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet]] · [[2026-07-06-sk-hynix-launches-28b-us-share-sale-on-ai-memory-demand]] · [[2026-07-10-sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-u-s-hist]] · [[2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o]]
 <!-- graph:end -->

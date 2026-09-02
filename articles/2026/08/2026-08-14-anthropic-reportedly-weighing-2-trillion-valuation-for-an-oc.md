@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Citing Financial Times reporting, Anthropic may seek a valuation above $2T in an
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-14-anthropic-targets-2t-valuation-with-an-ipo-reportedly-eyed-f]] · [[2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren]] · [[2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an]]
 <!-- graph:end -->

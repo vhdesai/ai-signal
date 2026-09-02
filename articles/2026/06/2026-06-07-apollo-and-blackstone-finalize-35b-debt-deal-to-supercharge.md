@@ -20,6 +20,8 @@ entities:
 - Meta
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -42,6 +44,6 @@ Apollo and Blackstone finalized a $35 billion debt facility for Anthropic — th
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Meta]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]] · [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation]] · [[2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol]] · [[2026-08-21-anthropic-s-record-setting-ipo-ambitions]]
 <!-- graph:end -->

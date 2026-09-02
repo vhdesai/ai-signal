@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: Reuters / U.S. News
 url_original: https://money.usnews.com/investing/news/articles/2026-07-29/meta-narrows-annual-capex-forecast-as-ai-buildout-grows
 url_canonical: https://money.usnews.com/investing/news/articles/2026-07-29/meta-narrows-annual-capex-forecast-as-ai-buildout-grows
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-30_060704_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 6647c3c8d434c054c2876af96a0e8c39a7b77833f22e97407c6c0f6e47023577
@@ -17,6 +17,7 @@ entities:
 - Meta
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Meta raised the low end of its annual capital-expenditure forecast to fund its A
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-20-meta-s-ai-positioning-lags-alphabet-microsoft-and-amazon-as]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]] · [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]] · [[2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down]] · [[2026-07-30-meta-q4-profit-falls-14-free-cash-flow-plunges-91-as-capex-n]]
 <!-- graph:end -->

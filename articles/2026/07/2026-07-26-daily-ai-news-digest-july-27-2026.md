@@ -19,6 +19,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ AI capital cycle hits new highs as the first autonomous-AI breach becomes a gove
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-27-daily-ai-news-digest-july-28-2026]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-07-25-daily-ai-news-digest-july-26-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-07-22-daily-ai-news-digest-july-23-2026]]
 <!-- graph:end -->

@@ -20,6 +20,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
@@ -36,6 +37,6 @@ Elon Musk's xAI launched Grok Build, its first dedicated AI coding agent, availa
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent]]
 <!-- graph:end -->

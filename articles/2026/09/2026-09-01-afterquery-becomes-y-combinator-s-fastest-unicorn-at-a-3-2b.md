@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-01-afterquery-becomes-y-combinator-s-fastest-ever-unicorn-at-a
@@ -30,6 +31,6 @@ Model-training data startup AfterQuery reportedly closed a round valuing it at $
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-09-01-afterquery-becomes-y-combinator-s-fastest-ever-unicorn-at-a]]
 <!-- graph:end -->

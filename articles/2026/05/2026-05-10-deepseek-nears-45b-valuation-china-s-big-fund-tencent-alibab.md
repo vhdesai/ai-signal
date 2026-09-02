@@ -19,6 +19,7 @@ entities:
 - Tencent
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -41,6 +42,6 @@ DeepSeek — still self-funded by hedge fund High-Flyer since its founding in 20
 ## Connections
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[Huawei]] · [[Tencent]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-04-22-trendingtencent-and-alibaba-close-in-on-deepseek-round-at-20]] · [[2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45]] · [[2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep]] · [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]]
 <!-- graph:end -->

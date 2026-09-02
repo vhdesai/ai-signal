@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Apple filed a federal complaint in the Northern District of California accusing 
 ## Connections
 
 **Entities:** [[Apple]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef]] · [[2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft]] · [[2026-07-13-apple-sues-openai-alleging-theft-of-trade-secrets-on-unrelea]] · [[2026-09-01-apple-s-trade-secrets-suit-against-openai-escalates-openai-d]]
 <!-- graph:end -->

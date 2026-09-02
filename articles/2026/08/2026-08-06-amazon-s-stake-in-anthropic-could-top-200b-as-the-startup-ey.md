@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/amazons-stake-anthropic-could-worth-152700734.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/amazons-stake-anthropic-could-worth-152700734.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_061807_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 51c7fb2e7cd05ba3582505e757e70ad5a53fcb819f01970f7636f84dd2f8a6df
@@ -18,6 +18,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Anthropic plans to go public in October and is reportedly targeting a valuation 
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc]] · [[2026-08-14-anthropic-targets-2t-valuation-with-an-ipo-reportedly-eyed-f]] · [[2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi]] · [[2026-08-15-anthropic-reportedly-planning-october-ipo-at-up-to-2-trillio]] · [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]]
 <!-- graph:end -->

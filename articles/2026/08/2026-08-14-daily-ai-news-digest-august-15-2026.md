@@ -21,6 +21,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -42,6 +43,6 @@ Executive Summary AI economics, not capability, dominated the last 24 hours. Ope
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-17-daily-ai-news-digest-august-18-2026]] · [[2026-08-15-daily-ai-news-digest-august-16-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-08-13-daily-ai-news-digest-august-14-2026]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ Shenzhen-based smart-glasses startup Even Realities raised $150 million in a pre
 ## Connections
 
 **Entities:** [[Meta]] · [[Tencent]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-06-even-realities-hits-1b-valuation-with-smart-glasses-funding]] · [[2026-07-11-even-realities-bets-camera-free-g2-smart-glasses-on-producti]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab]]
 <!-- graph:end -->

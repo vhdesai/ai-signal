@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ York passed a one-year moratorium on large data center construction — the firs
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t]] · [[2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat]] · [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Coalition of state AGs has opened an investigation into OpenAI. The probe lands 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-13-sam-altman-s-personal-investments-prompt-gop-probe-sec-inves]] · [[2026-05-26-openai-confirmed-its-confidential-s-1-filing-with-the-sec-on]] · [[2026-05-26-openai-s-ipo-path-sets-up-the-first-true-public-market-test]] · [[2026-05-18-the-republican-led-house-oversight-committee-launched-an-inv]]
 <!-- graph:end -->

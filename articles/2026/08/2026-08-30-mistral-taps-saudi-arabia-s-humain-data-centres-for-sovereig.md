@@ -17,6 +17,7 @@ entities:
 - Mistral
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Paris-based Mistral AI and PIF-backed HUMAIN have entered a strategic collaborat
 ## Connections
 
 **Entities:** [[Mistral]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic]] · [[2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]] · [[2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise]] · [[2026-08-03-humain-s-investment-in-mozn-shows-sovereign-ai-strategies-mo]]
 <!-- graph:end -->

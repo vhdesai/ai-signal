@@ -5,7 +5,7 @@ date: '2026-07-23'
 source: TechRepublic**
 url_original: https://www.techrepublic.com/article/news-google-flash-cyber-codemender/
 url_canonical: https://www.techrepublic.com/article/news-google-flash-cyber-codemender/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-24_065052_Final-Daily-AI-News-Digest.md
 content_hash: de529cbecf93b43783c725fc4f7a95d7609e15b6f8145bb5cc2740609ddba62d
 normalized_title_hash: 83846815bf2c697d

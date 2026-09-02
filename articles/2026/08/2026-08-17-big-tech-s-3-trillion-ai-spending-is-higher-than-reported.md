@@ -18,6 +18,8 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +41,6 @@ The WSJ 10-Point highlights that Big Tech's $3 trillion in planned AI infrastruc
 ## Connections
 
 **Entities:** [[Arm]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it]] · [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]] · [[2026-07-26-daily-ai-news-digest-july-27-2026]]
 <!-- graph:end -->

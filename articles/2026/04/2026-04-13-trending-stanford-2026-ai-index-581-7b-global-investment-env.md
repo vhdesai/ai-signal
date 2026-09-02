@@ -18,6 +18,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Stanford's Institute for Human-Centered AI published its 400-page 2026 AI Index,
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-22-the-stanford-university-2026-ai-index-report-documents-a-fie]] · [[2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2]] · [[2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme]] · [[2026-05-27-stanford-hai-2026-ai-index-continuing-analysis]]
 <!-- graph:end -->

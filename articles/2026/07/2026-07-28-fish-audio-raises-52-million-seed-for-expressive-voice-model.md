@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/
 url_canonical: https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-29_060511_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 223f480a13ba76fc3647c90721c0743931477432c9e8e7f852577d37c9b27cf3
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Fish Audio raised a $52 million seed round to expand AI voice models for creator
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-28-fish-audio-raises-52m-seed-for-ai-voice-models]] · [[2026-07-28-fish-audio-raises-52m-seed-to-build-ai-voice-models]] · [[2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike]] · [[2026-07-15-rime-raises-24-million-to-improve-enterprise-voice-ai-calls]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]]
 <!-- graph:end -->

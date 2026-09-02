@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/27/trump-semiconductor-tech-tariffs.html
 url_canonical: https://www.cnbc.com/2026/08/27/trump-semiconductor-tech-tariffs.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_060357_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 2d02933f54ca43319988f7c50aa5bcf5c2fb1d1b89fe70a83d2a211ba9126d8d
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ The administration is considering new tariffs on semiconductors used in the U.S.
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-27-u-s-weighs-broader-semiconductor-tariff-regime-covering-serv]] · [[2026-08-28-semiconductor-tariff-phase-2-weighed-for-servers-and-laptops]] · [[2026-08-28-phase-2-chip-tariffs-would-strip-data-center-exemptions]] · [[2026-08-08-ai-data-center-imports-are-largely-exempt-from-us-tariffs]] · [[2026-08-28-washington-weighs-extending-chip-tariffs-to-servers-and-fini]]
 <!-- graph:end -->

@@ -16,6 +16,7 @@ entities:
 - Anthropic
 themes:
 - model-capabilities
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Claude Mythos — Anthropic's next-generation model currently in restricted prev
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[M&A Activity]]
 **Related:** [[2026-05-22-claude-mythos-in-restricted-preview-clears-all-uk-ai-safety]] · [[2026-05-18-anthropic-s-next-generation-flagship-claude-mythos-remains-r]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]]
 <!-- graph:end -->

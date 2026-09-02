@@ -6,7 +6,7 @@ date: '2026-08-22'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/
 url_canonical: https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-23_065006_Final-Daily-AI-News-Digest.md
 content_hash: 2eff8df42a96d5ecf98647a0722fff973deb44113ee2d020b15341c8d689f77c
 normalized_title_hash: 2032724a13819c84
@@ -18,6 +18,7 @@ entities:
 - Google
 themes:
 - model-capabilities
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-22-inherent-exits-stealth-with-50m-claims-agent-beats-frontier
@@ -35,7 +36,7 @@ London-based Inherent, founded by Google DeepMind alumni including chief scienti
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]]
 **Canonical:** [[2026-08-22-inherent-exits-stealth-with-50m-claims-agent-beats-frontier]]
 **Related:** [[2026-08-22-inherent-exits-stealth-with-50m-says-its-agent-beats-frontie]]
 <!-- graph:end -->

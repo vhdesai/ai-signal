@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: TechCrunch; Tech Times; PPC Land
 url_original: https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/
 url_canonical: https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-02_060023_Daily-AI-News-Digest.md
 content_hash: e74a0e0ee9c4eba9902d44f650662e126c7e9b85ed65e8d41e9e5a650320a918
 normalized_title_hash: 7722dd522bad42c0

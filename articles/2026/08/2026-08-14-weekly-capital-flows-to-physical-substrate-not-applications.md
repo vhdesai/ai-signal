@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Crunchbase’s weekly tally: Databricks ($5B), River AI ($1.1B), data center/ene
 ## Connections
 
 **Entities:** [[Databricks]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-14-ai-infrastructure-and-data-deals-lead-the-week-s-largest-rou]] · [[2026-07-17-databricks-hits-188b-valuation-doubling-down-on-open-weight]] · [[2026-08-28-ai-assistants-lead-a-thinner-week-of-megadeals]]
 <!-- graph:end -->

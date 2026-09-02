@@ -5,7 +5,7 @@ date: '2026-07-22'
 source: Business Insider
 url_original: https://africa.businessinsider.com/news/nvidia-has-a-new-way-to-sell-more-ai-chips-help-customers-buy-them/feqgz9y
 url_canonical: https://africa.businessinsider.com/news/nvidia-has-a-new-way-to-sell-more-ai-chips-help-customers-buy-them/feqgz9y
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-24_065750_Final-Daily-AI-News-Digest.md
 content_hash: 482c2cc988cad6d4ef1905c81b2e2a971cef77cbbdbc7b13ff89ff244875ee8b
 normalized_title_hash: 44ec400361dc06c4

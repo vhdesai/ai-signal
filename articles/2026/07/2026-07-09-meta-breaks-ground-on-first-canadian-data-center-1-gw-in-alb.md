@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/articles/meta-builds-first-canadian-data-112206212.html
 url_canonical: https://finance.yahoo.com/technology/articles/meta-builds-first-canadian-data-112206212.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-09_061541_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 359a2e87538f3a3c39e40ac95becfcf24e1411c3320bc13a3d5ec16fb2163213
@@ -16,6 +16,7 @@ entities:
 - Meta
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Meta broke ground on a 1-gigawatt AI data center in Sturgeon County, Alberta, an
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da]] · [[2026-07-13-meta-s-louisiana-data-center-investment-reportedly-rises-to]] · [[2026-07-28-blackrock-takes-80-stake-in-meta-s-el-paso-ai-campus]] · [[2026-07-13-infrastructure-meta-capex]] · [[2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga]]
 <!-- graph:end -->

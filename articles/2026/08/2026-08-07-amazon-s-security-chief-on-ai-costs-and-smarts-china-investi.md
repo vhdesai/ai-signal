@@ -18,6 +18,7 @@ entities:
 - Amazon
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +39,6 @@ WSJ Pro Cybersecurity profiles Amazon's security chief discussing how the compan
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]]
 <!-- graph:end -->

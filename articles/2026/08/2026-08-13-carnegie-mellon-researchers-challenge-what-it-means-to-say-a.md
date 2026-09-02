@@ -5,7 +5,7 @@ date: '2026-08-13'
 source: Carnegie Mellon University
 url_original: https://www.cmu.edu/news/stories/archives/2026/august/researchers-explore-what-it-means-to-say-ai-thinks
 url_canonical: https://www.cmu.edu/news/stories/archives/2026/august/researchers-explore-what-it-means-to-say-ai-thinks
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-14_084159_Final-Daily-AI-News-Digest.md
 content_hash: 844d54885bda535e15aaacab669da011f5ec28ea015ce6f676da0d5563dff350
 normalized_title_hash: 0bc8585c1fdc2bcb
@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - model-capabilities
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -42,6 +43,6 @@ CMU historian Christopher Phillips and the University of Pittsburgh's Alison Lan
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[DeepSeek]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-13-cmu-researchers-challenge-what-it-means-to-say-ai-thinks]] · [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]] · [[2026-07-17-ai-commoditization-pressures-proprietary-model-economics]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]]
 <!-- graph:end -->

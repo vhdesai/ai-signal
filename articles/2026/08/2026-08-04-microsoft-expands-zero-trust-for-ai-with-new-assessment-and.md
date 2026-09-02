@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: Microsoft Security Blog
 url_original: https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/
 url_canonical: https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_061721_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 106ccd7fb7f6e2afb9e75da0eb21aeac9c57cc1e2783acefe0268e3fab0ae52d

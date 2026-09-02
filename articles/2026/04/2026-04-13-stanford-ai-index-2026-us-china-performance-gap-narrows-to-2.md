@@ -19,6 +19,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +41,6 @@ Stanford HAI's 400-page 2026 AI Index documents an industry at a decisive inflec
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7]] · [[2026-04-13-trendingstanford-ai-index-2026-us-china-gap-narrows-to-2-7-p]] · [[2026-05-23-stanford-ai-index-2026-u-s-china-model-gap-narrows-to-2-7]] · [[2026-04-13-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]]
 <!-- graph:end -->

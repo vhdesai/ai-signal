@@ -17,6 +17,7 @@ entities:
 - Amazon
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ The WSJ reports on Amazon's stealth construction of a data center facility in a 
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-08-08-planned-amazon-data-center-could-become-the-largest-climate]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-08-08-amazon-backs-a-7-65-gw-texas-gas-plant-to-power-a-hyperscale]]
 <!-- graph:end -->

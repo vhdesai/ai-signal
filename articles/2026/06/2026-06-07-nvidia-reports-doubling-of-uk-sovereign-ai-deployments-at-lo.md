@@ -5,7 +5,7 @@ date: '2026-06-07'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/
 url_canonical: https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-08_071435_Final-Daily-AI-News-Digest.md
 content_hash: f30f9efa4c269054cfd9737b49dc9a9083133fabdca5f162aa13735a50b5a61b
 normalized_title_hash: b8204e4489f4ede3
@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ One year after Huang and PM Starmer framed Britain as "an AI maker, not an AI ta
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure]] · [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers]] · [[2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon]] · [[2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]]
 <!-- graph:end -->

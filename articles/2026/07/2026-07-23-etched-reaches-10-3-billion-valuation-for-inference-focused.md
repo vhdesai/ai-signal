@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Etched raised a $300 million Series C at a $10.3 billion valuation, led by Sequo
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-18-ai-chip-startup-etched-doubles-valuation-to-21-billion-in-un]] · [[2026-08-18-etched-s-valuation-doubles-to-21b-in-a-month]] · [[2026-07-19-ai-chip-startup-etched-reportedly-in-talks-for-a-20b-valuati]] · [[2026-07-17-ai-chip-startup-etched-reportedly-in-talks-at-20-billion-val]] · [[2026-08-18-etched-s-valuation-doubles-to-21b-in-one-month-after-jane-st]]
 <!-- graph:end -->

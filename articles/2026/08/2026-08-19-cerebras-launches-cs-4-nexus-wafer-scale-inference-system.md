@@ -19,6 +19,7 @@ entities:
 - TSMC
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-19-cerebras-launches-cs-4-its-first-multi-wafer-inference-syste
@@ -35,6 +36,6 @@ Cerebras unveiled the CS-4 on its new Nexus architecture, built from three WSE-3
 ## Connections
 
 **Entities:** [[Cerebras]] · [[TSMC]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-19-cerebras-launches-cs-4-its-first-multi-wafer-inference-syste]]
 <!-- graph:end -->

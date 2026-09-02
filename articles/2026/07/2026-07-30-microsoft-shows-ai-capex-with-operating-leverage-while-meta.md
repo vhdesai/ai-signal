@@ -18,6 +18,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Microsoft spent heavily on AI-related capex but kept operating expense growth ne
 ## Connections
 
 **Entities:** [[Meta]] · [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-30-microsoft-profit-jumps-31-as-azure-growth-accelerates-and-co]] · [[2026-07-30-microsoft-365-copilot-paid-subscriptions-double-to-30-millio]] · [[2026-07-31-axios-highlights-azure-s-100-billion-run-rate-and-ai-capex-d]] · [[2026-07-31-microsoft-holds-capex-line-while-cloud-revenue-climbs]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]]
 <!-- graph:end -->

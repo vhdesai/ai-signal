@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b-up-rough
@@ -35,6 +36,6 @@ Anthropic's annualized revenue run rate surpassed $65B at the end of July, up fr
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b-up-rough]]
 <!-- graph:end -->

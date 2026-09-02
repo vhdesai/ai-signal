@@ -5,7 +5,7 @@ date: '2026-09-02'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/pro/cybersecurity/openais-astra-model-can-hack-with-minimal-human-help-e5285d5c
 url_canonical: https://www.wsj.com/pro/cybersecurity/openais-astra-model-can-hack-with-minimal-human-help-e5285d5c
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-02_065546_Final-Daily-AI-News-Digest.md
 content_hash: b15c6db7a6295efabce1a23f7adccb6d094b63436820c49e08165f97ff1b6a57
 normalized_title_hash: 14eead4f06ead670

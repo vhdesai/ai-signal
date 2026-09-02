@@ -20,6 +20,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -42,6 +43,6 @@ The US Independence Day holiday weekend thinned Western corporate and newsroom o
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Mistral]] · [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-17-microsoft-copilot-ai-intelligence-briefing]] · [[2026-07-12-july-13-2026]] · [[2026-07-13-monday-july-13-2026]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-07-july-7-2026]]
 <!-- graph:end -->

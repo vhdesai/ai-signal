@@ -18,6 +18,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +41,6 @@ AI chip maker Cerebras Systems is targeting a raise of up to $4 billion in its u
 ## Connections
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t]] · [[2026-05-14-cerebras-systems-prices-largest-us-ipo-of-2026-at-56-4b-valu]] · [[2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale]] · [[2026-05-10-cerebras-ipo-seeking-3-5b-at-26-6b-valuation]] · [[2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u]]
 <!-- graph:end -->

@@ -23,6 +23,8 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- ma-activity
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +44,6 @@ Git-like trace of typed events; any prior state can be forked and replayed. Lift
 ## Connections
 
 **Entities:** [[Amazon]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-08-shepherd-an-open-source-substrate-that-lets-meta-agents-fork]] · [[2026-08-08-daily-ai-news-digest-august-9-2026]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]]
 <!-- graph:end -->

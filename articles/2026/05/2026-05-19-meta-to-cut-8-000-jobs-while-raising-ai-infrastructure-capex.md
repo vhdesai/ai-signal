@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion
@@ -35,6 +36,6 @@ Meta is preparing to slash approximately 8,000 jobs — roughly 10% of its workf
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]]
 <!-- graph:end -->

@@ -16,6 +16,8 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +37,6 @@ North American venture capital investment reached $392 billion in the first half
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-02-trending-q1-2026-vc-breaks-300b-record-apr-1-global-venture]] · [[2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco]] · [[2026-04-01-global-venture-investment-reached-297-billion-in-q1-2026-up]] · [[2026-07-30-top-ai-venture-portfolios-reach-7-trillion-as-market-concent]]
 <!-- graph:end -->

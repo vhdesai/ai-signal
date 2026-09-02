@@ -6,7 +6,7 @@ date: '2026-08-20'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/
 url_canonical: https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_060941_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: f72248dae316b00e730f0739c5bc9e761b54debb0c5b49222933191f3eb3e4a0

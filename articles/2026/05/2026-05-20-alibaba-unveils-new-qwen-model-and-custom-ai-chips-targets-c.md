@@ -17,6 +17,7 @@ entities:
 - Alibaba
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -34,6 +35,6 @@ Alibaba unveiled a next-generation Qwen model alongside custom-silicon designs a
 ## Connections
 
 **Entities:** [[Alibaba]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-05-20-alibaba-unveils-ai-chip-to-challenge-nvidia-alongside-next-g]]
 <!-- graph:end -->

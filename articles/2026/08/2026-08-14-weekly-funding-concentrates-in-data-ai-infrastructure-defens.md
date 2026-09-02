@@ -5,7 +5,7 @@ date: '2026-08-14'
 source: Crunchbase News
 url_original: https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy/
 url_canonical: https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-16_065100_Final-Daily-AI-News-Digest.md
 content_hash: d215b853645e7dda0e4d1e64d795ad978a1400846f4824f87a62fbb00e0eb453
 normalized_title_hash: 7be1ae9904d8700d
@@ -16,6 +16,7 @@ entities:
 - Databricks
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-ai-infrastructure-and-data-deals-lead-the-week-s-largest-rou
@@ -32,6 +33,6 @@ Crunchbase's weekly tally shows Databricks returning for another $5 billion just
 ## Connections
 
 **Entities:** [[Databricks]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-14-ai-infrastructure-and-data-deals-lead-the-week-s-largest-rou]]
 <!-- graph:end -->

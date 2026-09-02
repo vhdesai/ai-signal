@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/07/28/ai-model-compression-startup-multiverse-raises-570m-1-7b-valuation/
 url_canonical: https://siliconangle.com/2026/07/28/ai-model-compression-startup-multiverse-raises-570m-1-7b-valuation/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-29_062156_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 854f8b77c2580fa4256d2397013cb00344a3e11bbe0613b1ba3ecf169ebc173e
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +34,6 @@ Spain's Multiverse Computing raised a $570M Series C — co-led by Forgepoint Ca
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio]] · [[2026-08-25-multiverse-computing-reports-4-bit-compressed-model-matching]] · [[2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation]]
 <!-- graph:end -->

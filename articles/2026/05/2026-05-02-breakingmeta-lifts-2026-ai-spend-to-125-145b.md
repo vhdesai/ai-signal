@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Meta raised its 2026 capex guidance to $125–145B, up from a prior $115B. The i
 ## Connections
 
 **Entities:** [[AMD]] · [[Meta]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-07-30-meta-q2-revenue-28-but-ai-capex-raised-to-130-145b]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]]
 <!-- graph:end -->

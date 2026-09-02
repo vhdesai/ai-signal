@@ -6,7 +6,7 @@ date: '2026-08-22'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+AI+chip+prices+rise+17+percent
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+AI+chip+prices+rise+17+percent
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-23_065923_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: b7b9eadb8b1ab70fe2f651f18c1d538b24ab4480993a49a4303582f48aef2bca
@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Prices for Nvidia’s flagship Grace Blackwell 300 and Vera Rubin 200 server chi
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-22-nvidia-notifies-customers-of-ai-server-price-hikes-above-15]] · [[2026-08-22-nvidia-warns-large-customers-of-15-price-increases-on-ai-ser]] · [[2026-08-22-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s]] · [[2026-08-23-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s]] · [[2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs]]
 <!-- graph:end -->

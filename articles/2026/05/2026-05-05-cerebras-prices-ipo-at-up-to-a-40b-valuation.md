@@ -17,6 +17,7 @@ entities:
 - Cerebras
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Cerebras priced its long-delayed IPO with a deal range valuing the AI accelerato
 ## Connections
 
 **Entities:** [[Cerebras]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-14-cerebras-prices-5-5b-ipo-above-range-wsj-may-13-2026-cerebra]] · [[2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation]] · [[2026-05-10-cerebras-ipo-seeking-3-5b-at-26-6b-valuation]] · [[2026-05-10-breakingcerebras-ipo-demand-forces-price-hike-4-8b-raise-exp]]
 <!-- graph:end -->

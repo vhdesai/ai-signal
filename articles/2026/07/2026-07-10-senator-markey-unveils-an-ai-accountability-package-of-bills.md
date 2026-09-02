@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Senator Ed Markey (D-MA) rolled out a roughly dozen-bill “AI accountability ag
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-targetin]] · [[2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri]] · [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]]
 <!-- graph:end -->

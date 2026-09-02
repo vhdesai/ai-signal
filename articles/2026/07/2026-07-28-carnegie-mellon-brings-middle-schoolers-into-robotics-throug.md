@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: Carnegie Mellon University News
 url_original: https://www.cmu.edu/news/stories/archives/2026/july/middle-school-students-explore-advanced-manufacturing-and-robotics-through-cmu-partnership
 url_canonical: https://www.cmu.edu/news/stories/archives/2026/july/middle-school-students-explore-advanced-manufacturing-and-robotics-through-cmu-partnership
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: f6810c2051f5836835197ef879c121a751d0fb8523481a0ad2897b3450dce719

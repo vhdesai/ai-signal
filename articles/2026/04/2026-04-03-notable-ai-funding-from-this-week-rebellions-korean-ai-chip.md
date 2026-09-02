@@ -5,8 +5,8 @@ title: 'Notable AI funding from this week: Rebellions (Korean AI chip) raised $4
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: 5df3ac1e197ec514b40d315b3ccb6b82384525664871b80449c046c3b90e165b
@@ -17,6 +17,8 @@ entities: []
 themes:
 - datacenter-infrastructure
 - company-storylines
+- ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +39,6 @@ Notable AI funding from this week: Rebellions (Korean AI chip) raised $400M pre-
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]] · [[2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400]] · [[2026-08-21-nvidia-in-talks-with-korean-inference-chip-designer-rebellio]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-08-03-south-korea-s-deepx-valuation-surges-to-2-2b-in-fresh-fundin]]
 <!-- graph:end -->

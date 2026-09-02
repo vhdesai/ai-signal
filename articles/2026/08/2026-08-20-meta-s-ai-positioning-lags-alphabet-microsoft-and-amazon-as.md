@@ -6,7 +6,7 @@ date: '2026-08-20'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/meta-falls-far-behind-amazon-144806616.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/meta-falls-far-behind-amazon-144806616.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_062036_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: e0ecc04df792e45da6f61b3fb2adad1addad1af27cc7131003328bea21b3a04e
@@ -19,6 +19,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Coverage this cycle highlights Meta trailing its hyperscaler peers on AI-attribu
 ## Connections
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]] · [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]] · [[2026-07-30-capex-reckoning-hyperscalers-split-on-ai-payoff]] · [[2026-07-30-meta-q4-profit-falls-14-free-cash-flow-plunges-91-as-capex-n]]
 <!-- graph:end -->

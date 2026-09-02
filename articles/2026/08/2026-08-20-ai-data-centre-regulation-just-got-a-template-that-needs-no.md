@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: AI News
 url_original: https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/
 url_canonical: https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_060504_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 1b9936f7cc0dd23a2a5215d1f47cc2dfd541eb71dbc41c8f106399ec0f9de212
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Pennsylvania has made AI data centre permits conditional on a signed offtake con
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-08-16-ai-super-pacs-move-into-state-races-ahead-of-the-midterms]] · [[2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan]] · [[2026-08-03-states-reconsidering-data-center-tax-incentives-adds-a-new-a]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: '[Bloomberg]'
 url_original: https://finance.yahoo.com/technology/ai/articles/alibaba-seeks-10-billion-share-073532899.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/alibaba-seeks-10-billion-share-073532899.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-23_061214_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: 348ae996e349596978089b1355f398a9c9a85a9a0177d3ec5ca3e1b0bc4202d8
@@ -16,6 +16,7 @@ entities:
 - Alibaba
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -33,6 +34,6 @@ Alibaba announced plans to raise roughly HK$80 billion ($10.2 billion) through a
 ## Connections
 
 **Entities:** [[Alibaba]]
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai]]
 <!-- graph:end -->

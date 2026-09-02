@@ -16,6 +16,8 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- ma-activity
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +38,6 @@ The Wall Street Journal publishes a detailed postmortem on the collapse of Situa
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-31-situational-awareness-collapse-becomes-the-cautionary-tale-f]] · [[2026-07-31-situational-awareness-hedge-fund-collapses-portfolio-down-67]] · [[2026-07-31-situational-awareness-fire-sale-turns-leveraged-ai-convictio]] · [[2026-07-30-situational-awareness-hedge-fund-scrambles-for-capital-after]] · [[2026-08-05-the-high-powered-backers-of-situational-awareness-revealed]]
 <!-- graph:end -->

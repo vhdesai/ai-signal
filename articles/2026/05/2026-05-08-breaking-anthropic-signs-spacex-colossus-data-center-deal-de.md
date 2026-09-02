@@ -19,6 +19,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +42,6 @@ Anthropic finalized a compute agreement with Elon Musk's SpaceX, securing dedica
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-14-anthropic-signed-an-agreement-giving-claude-access-to-spacex]] · [[2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029]] · [[2026-05-20-spacex-s-1-reveals-anthropic-will-pay-45b-for-colossus-compu]] · [[2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex]] · [[2026-05-14-on-may-5-the-u-s-pentagon-signed-ai-infrastructure-and-model]]
 <!-- graph:end -->

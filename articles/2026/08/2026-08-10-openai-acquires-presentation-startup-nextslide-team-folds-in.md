@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: MediaNama
 url_original: https://www.medianama.com/2026/08/223-openai-presentation-firm-nextslide-chatgpt/
 url_canonical: https://www.medianama.com/2026/08/223-openai-presentation-firm-nextslide-chatgpt/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-10_061806_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: a50493ff17474639cb0277792e0d70de1fac69c85641e6de400874170fab25f6
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-openai-acquires-presentation-startup-nextslide
@@ -35,7 +36,7 @@ OpenAI acquired NextSlide, with the team joining the ChatGPT project. The move s
 ## Connections
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-10-openai-acquires-presentation-startup-nextslide]]
 **Related:** [[2026-08-08-openai-acquires-presentation-startup-nextslide]]
 <!-- graph:end -->

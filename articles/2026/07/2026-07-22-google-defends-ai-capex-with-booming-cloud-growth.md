@@ -5,7 +5,7 @@ date: '2026-07-22'
 source: TechCrunch · DealBook
 url_original: https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/
 url_canonical: https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-24_065750_Final-Daily-AI-News-Digest.md
 content_hash: b281ec4e1c462a5c3e13ff3d9738613733e8719fda86253d1d70fd24d494ec97
 normalized_title_hash: b88299f963086a5e
@@ -17,6 +17,7 @@ entities:
 - Google
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Alphabet's cloud unit is thriving as enterprises adopt AI and AI-infrastructure 
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi]] · [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-07-22-google-justifies-massive-ai-spending-with-booming-cloud-grow]] · [[2026-07-30-investors-continue-to-reward-ai-spend-when-it-is-paired-with]] · [[2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en]]
 <!-- graph:end -->

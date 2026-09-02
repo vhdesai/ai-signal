@@ -29,6 +29,8 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -51,6 +53,6 @@ event_name: ''
 ## Connections
 
 **Entities:** [[Adobe]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[DeepSeek]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-04-15-model-releases]] · [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]]
 <!-- graph:end -->

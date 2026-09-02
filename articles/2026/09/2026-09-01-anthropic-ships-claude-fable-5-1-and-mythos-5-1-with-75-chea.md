@@ -20,6 +20,7 @@ entities:
 - Microsoft
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-01-anthropic-ships-claude-fable-5-1-and-claude-mythos-5-1-cuts
@@ -36,6 +37,6 @@ Anthropic released twinned versions of its most advanced model: Fable 5.1, gener
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-09-01-anthropic-ships-claude-fable-5-1-and-claude-mythos-5-1-cuts]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: TechStartups, citing Business Insider
 url_original: https://techstartups.com/2026/08/10/top-tech-news-today-august-10-2026-apple-google-meta-openai-unitree-more/
 url_canonical: https://techstartups.com/2026/08/10/top-tech-news-today-august-10-2026-apple-google-meta-openai-unitree-more/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-11_061444_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 43fe63f6352337ecc5398cd16f0618ae1b905ff66003544c058c1d1be26be310
@@ -36,6 +36,7 @@ entities:
 - xAI
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -58,6 +59,6 @@ Opposition to large AI data centers is spreading across party lines over electri
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-08-29-tech-backlash-roughly-130b-of-data-center-projects-blocked-o]] · [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t]]
 <!-- graph:end -->

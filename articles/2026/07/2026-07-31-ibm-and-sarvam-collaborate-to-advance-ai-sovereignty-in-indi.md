@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: IBM Newsroom
 url_original: https://in.newsroom.ibm.com/IBM-and-Sarvam-Collaborate-to-Advance-AI-Sovereignty
 url_canonical: https://in.newsroom.ibm.com/IBM-and-Sarvam-Collaborate-to-Advance-AI-Sovereignty
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-01_061413_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 828111743175e18f447f332f53a85d4cf006af1af3a35e81c7fb48c05fcfb742
@@ -17,6 +17,7 @@ entities:
 - IBM
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ IBM and Sarvam, India's full-stack sovereign AI company, announced a collaborati
 ## Connections
 
 **Entities:** [[IBM]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-05-ibm-sovereign-core-ga-digital-sovereignty-for-ai]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]] · [[2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a]] · [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership]] · [[2026-08-13-ibm-partners-with-openai-to-accelerate-its-enterprise-ai-pus]]
 <!-- graph:end -->

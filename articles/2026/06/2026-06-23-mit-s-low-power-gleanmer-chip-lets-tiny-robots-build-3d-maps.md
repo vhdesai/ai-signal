@@ -6,7 +6,7 @@ date: '2026-06-23'
 source: MIT News
 url_original: https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623
 url_canonical: https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 846b20fa22cf399e049be667db3450324c31523f784bef9526dbbab9b153f649
 normalized_title_hash: 7c7c9fb86fca65df

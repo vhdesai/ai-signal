@@ -5,7 +5,7 @@ date: '2026-06-29'
 source: CNBC
 url_original: https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html
 url_canonical: https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-29_060726_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 70c4d410dbc385d1f139e3da559e7177057bb5eaa0674eeecf3a1fc2b8461180
@@ -16,6 +16,7 @@ entities:
 - Samsung
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +39,6 @@ President Lee Jae Myung unveiled an 800-trillion-won (~$517.9B) national plan to
 ## Connections
 
 **Entities:** [[Samsung]]
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-07-06-sk-hynix-launches-28b-us-share-sale-on-ai-memory-demand]] · [[2026-08-07-sk-hynix-approves-54-trillion-won-for-two-new-ai-memory-fabs]]
 <!-- graph:end -->

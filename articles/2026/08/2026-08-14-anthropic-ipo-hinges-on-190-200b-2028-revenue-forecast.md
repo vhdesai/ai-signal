@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Anthropic projects ~$190–200B annual revenue by 2028 — the figure bankers ar
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-14-anthropic-ipo-valuation-hinges-on-a-190-200b-2028-revenue-fo]] · [[2026-08-14-anthropic-ipo-valuation-hinges-on-a-190-200-billion-2028-rev]] · [[2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi]] · [[2026-08-17-anthropic-s-annualized-revenue-surges-to-65b-ipo-expected-th]] · [[2026-08-26-anthropic-to-pitch-investors-on-a-30-trillion-addressable-ma]]
 <!-- graph:end -->

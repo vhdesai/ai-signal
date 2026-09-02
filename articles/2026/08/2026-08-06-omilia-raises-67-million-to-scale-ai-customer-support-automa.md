@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/
 url_canonical: https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_060715_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 66e0b4222694ca1e460c9ff7f0a6859061aad4bab96d2d22b9232a23dbfb80c9
@@ -17,6 +17,7 @@ entities:
 - Scale AI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Omilia raised a $67 million Series B to expand its customer-support automation p
 ## Connections
 
 **Entities:** [[Scale AI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin]] · [[2026-07-29-encore-ai-raises-30-million-for-agents-that-learn-from-custo]] · [[2026-07-09-ollama-raises-65m-series-b-as-local-ai-adoption-scales]] · [[2026-08-06-naive-raises-28-5-million-to-automate-company-setup-and-back]] · [[2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]]
 <!-- graph:end -->

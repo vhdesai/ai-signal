@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ The Information reports that OpenRouter is fielding multibillion-dollar takeover
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing]] · [[2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le]] · [[2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter]]
 <!-- graph:end -->

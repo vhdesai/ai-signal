@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -32,6 +33,6 @@ Vibe-coding platform Lovable raised a $400M Series C and is scaling hiring to ro
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri]] · [[2026-08-12-ai-coding-startup-lovable-raises-400m-at-13-3b-valuation]]
 <!-- graph:end -->

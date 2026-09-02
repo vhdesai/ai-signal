@@ -17,6 +17,7 @@ entities: []
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Three funding events in one day paint a clear picture. Cognition (Devin) is nego
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-12-ai-coding-valuations-keep-compounding-cognition-40b-lovable]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
 <!-- graph:end -->

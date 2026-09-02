@@ -5,7 +5,7 @@ date: '2026-05-18'
 source: TechCrunch
 url_original: https://techcrunch.com/category/artificial-intelligence/
 url_canonical: https://techcrunch.com/category/artificial-intelligence/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 5b20d4b8d91c0ab01ea0c3f5baee1f3f3d33e1021c63e9323e1ad4756639fe2b
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Anthropic has acquired an unnamed developer tooling startup that had been used b
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-08-27-anthropic-adds-a-native-browser-to-the-claude-cowork-desktop]] · [[2026-05-18-anthropic-acquires-stainless-to-deepen-claude-agent-sdk-conn]] · [[2026-05-19-anthropic-acquires-stainless-the-sdk-infrastructure-powering]] · [[2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: CTech**
 url_original: https://www.calcalistech.com/ctechnews/article/zzhjwk3b8
 url_canonical: https://www.calcalistech.com/ctechnews/article/zzhjwk3b8
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_061636_Daily-AI-News-Digest.md
 content_hash: 4322e106d611818d8d628ae51f71cc532fdd2fb3329d4a3d3e5e044004c119a8
 normalized_title_hash: 6f23295a059d71c7
@@ -18,6 +18,8 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +40,6 @@ Networking-software firm DriveNets closed a $410M Series D at an $8.5B valuation
 ## Connections
 
 **Entities:** [[AMD]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-10-nvidia-lines-up-over-500b-to-make-ai-compute-an-investable-a]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry]] · [[2026-07-29-nvidia-partner-chipagents-raises-60m-to-automate-chip-design]]
 <!-- graph:end -->

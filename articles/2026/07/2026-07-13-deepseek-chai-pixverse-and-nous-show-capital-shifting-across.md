@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: Reuters · The Information · TechCrunch · DealBook
 url_original: https://economictimes.indiatimes.com/tech/technology/chinas-deepseek-considers-new-fundraising-after-first-round/articleshow/132389513.cms
 url_canonical: https://economictimes.indiatimes.com/tech/technology/chinas-deepseek-considers-new-fundraising-after-first-round/articleshow/132389513.cms
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_082213_Inbox_Fw Daily AI News Digest - July
   14, 2026.md
 content_hash: 8e1c37a1c68e01c4e54e8f99b7aafb3b5463f1511cdf6f393974879fdc246793
@@ -16,6 +16,7 @@ entities:
 - DeepSeek
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -37,6 +38,6 @@ DeepSeek is reportedly weighing another raise at a ~$71B pre-money valuation; Ch
 ## Connections
 
 **Entities:** [[DeepSeek]]
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-13-open-source-agent-maker-nous-research-in-talks-to-raise-at-1]] · [[2026-07-13-nous-research-in-talks-for-new-funding-at-1-5-billion-valuat]] · [[2026-07-13-open-source-agent-maker-nous-research-in-talks-at-a-1-5b-val]] · [[2026-07-14-chai-discovery-raises-400m-at-3-8b-for-ai-drug-design]]
 <!-- graph:end -->

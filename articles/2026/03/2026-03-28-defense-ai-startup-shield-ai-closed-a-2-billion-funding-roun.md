@@ -5,8 +5,8 @@ title: Defense AI startup Shield AI closed a $2 billion funding round at a $12.7
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/2026/03/26/defense-startup-shield-ai-lands-12-7b-valuation-up-140-after-u-s-air-force-deal/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: a699cd554282089ad1cbd1607ed60dbb85d18278f82c4dc323278416b220dc2c
@@ -16,6 +16,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Defense AI startup Shield AI closed a $2 billion funding round at a $12.7 billio
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg]] · [[2026-08-25-stability-ai-maker-of-stable-diffusion-raises-76-million-in]]
 <!-- graph:end -->

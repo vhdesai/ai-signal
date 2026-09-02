@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/
 url_canonical: https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_060601_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 68aacc8238ca8eb2a1b0664030ca50acfb686e261aff8d1401e76e18e956ddbd
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-nvidia-in-talks-to-invest-in-data-center-power-developer-clo
@@ -33,6 +34,6 @@ NVIDIA announced a partnership with Cloverleaf Infrastructure, a developer that 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-21-nvidia-in-talks-to-invest-in-data-center-power-developer-clo]]
 <!-- graph:end -->

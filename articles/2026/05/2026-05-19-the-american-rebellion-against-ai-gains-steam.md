@@ -17,6 +17,7 @@ entities: []
 themes:
 - datacenter-infrastructure
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ WSJ Editor-in-Chief Emma Tucker frames a growing US backlash against AI — from
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-19-the-american-rebellion-against-ai-is-gaining-steam]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]]
 <!-- graph:end -->

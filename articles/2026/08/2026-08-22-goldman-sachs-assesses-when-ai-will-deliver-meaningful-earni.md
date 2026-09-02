@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/ai-begin-delivering-meaningful-earnings-140721856.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/ai-begin-delivering-meaningful-earnings-140721856.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-23_060915_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: 9f07bfcd6f999722a2e3b305b3dcb0738ff24a009b9f738480ddfa6e1da0ed60
@@ -19,6 +19,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-22-goldman-sachs-assesses-when-ai-will-begin-delivering-meaning
@@ -35,6 +36,6 @@ Goldman Sachs published analysis on when AI spending will translate to measurabl
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-22-goldman-sachs-assesses-when-ai-will-begin-delivering-meaning]]
 <!-- graph:end -->

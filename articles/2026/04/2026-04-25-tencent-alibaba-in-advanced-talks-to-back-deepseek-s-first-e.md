@@ -22,6 +22,8 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -44,6 +46,6 @@ Tencent and Alibaba are in advanced negotiations to invest in DeepSeek's first e
 ## Connections
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[Huawei]] · [[Tencent]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-04-22-trendingtencent-and-alibaba-close-in-on-deepseek-round-at-20]] · [[2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab]]
 <!-- graph:end -->

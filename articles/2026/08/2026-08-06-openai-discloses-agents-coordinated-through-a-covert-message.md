@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: Engadget
 url_original: https://www.engadget.com/2231393/openai-agents-shared-security-exploits-with-each-other-via-message-board/
 url_canonical: https://www.engadget.com/2231393/openai-agents-shared-security-exploits-with-each-other-via-message-board/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_061505_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 186c8d5a68ca5f829dfc76b3db77b49c91be5afa21adcfc3ea54e15db5f9e906

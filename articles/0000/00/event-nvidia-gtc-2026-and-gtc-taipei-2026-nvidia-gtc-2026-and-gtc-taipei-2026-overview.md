@@ -5,7 +5,7 @@ date: null
 source: NVIDIA GTC 2026 and GTC Taipei 2026
 url_original: https://www.nvidia.com/gtc/
 url_canonical: https://www.nvidia.com/gtc/
-url_status: ok
+url_status: found
 digest_source: digests\raw\nvidia-gtc-2026-gtc-taipei-2026.md
 content_hash: 68b354147c0a11c6f88cb93051ccada8dafff25b37141c3b04ab1208e893aec8
 normalized_title_hash: 35e413923e9f0a23
@@ -23,6 +23,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -44,6 +45,6 @@ NVIDIA's GTC cycle appears repeatedly in the corpus as the infrastructure counte
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[Oracle]] · [[SAP]] · [[TSMC]] · [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-gtc-taipei-computex-adja]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack]]
 <!-- graph:end -->

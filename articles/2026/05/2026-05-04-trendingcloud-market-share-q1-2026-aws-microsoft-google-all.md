@@ -15,7 +15,8 @@ entities:
 - Amazon
 - Google
 - Microsoft
-themes: []
+themes:
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,5 +38,6 @@ Q1 2026 hyperscaler cloud market share data shows AWS, Microsoft Azure, and Goog
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Microsoft]]
+**Topics:** [[Infrastructure Investments]]
 **Related:** [[2026-05-04-q1-2026-cloud-market-129b-record-ai-as-the-wedge]] · [[2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge]] · [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o]] · [[2026-07-29-gartner-names-aws-google-microsoft-oracle-as-cloud-ai-infras]] · [[2026-07-30-investors-continue-to-reward-ai-spend-when-it-is-paired-with]]
 <!-- graph:end -->

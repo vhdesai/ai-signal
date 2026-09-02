@@ -15,6 +15,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Sources indicate Anthropic's next funding round could close within two weeks at 
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-10-anthropic-closing-50b-round-at-900b-valuation-final-private]] · [[2026-05-26-anthropic-closing-30b-round-at-900b-valuation]] · [[2026-05-18-bloomberg-reports-anthropic-s-latest-funding-round-at-least]] · [[2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f]] · [[2026-05-15-hot-anthropic-closing-in-on-900b-valuation-in-new-30b-fundin]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/
 url_canonical: https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_060504_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: a3887103377993b08cfbf27c9f82c16b6381981315484fd0d59b37062b584cd2
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-20-ramp-launches-ai-model-router-continued
@@ -31,6 +32,6 @@ Ramp launched Router, an API service that lets companies switch between large la
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-20-ramp-launches-ai-model-router-continued]]
 <!-- graph:end -->

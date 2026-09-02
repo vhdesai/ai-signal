@@ -5,7 +5,7 @@ date: '2026-08-28'
 source: Wired (syndicated copy) · Meta, Nvidia
 url_original: https://oo.news/news/e57f271bee31
 url_canonical: https://oo.news/news/e57f271bee31
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 0aae3211ed8503cfd52ca85ec1c8685e8ea562c171fe12ea77c926803a235714
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ In a previously unreported effort, Meta is testing robots from vendors including
 ## Connections
 
 **Entities:** [[Meta]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-29-meta-tests-robots-inside-its-data-centers-as-tech-sector-job]] · [[2026-08-29-meta-tests-robots-inside-data-centers-as-tech-job-cuts-mount]] · [[2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for]] · [[2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu]] · [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve]]
 <!-- graph:end -->

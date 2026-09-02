@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Nvidia agreed to commit roughly $5 billion to Safe Superintelligence, the secret
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-27-nvidia-to-take-5b-stake-in-ilya-sutskever-s-safe-superintell]] · [[2026-07-27-safe-superintelligence-partners-with-nvidia-to-scale-researc]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai]]
 <!-- graph:end -->

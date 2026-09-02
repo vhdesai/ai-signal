@@ -17,6 +17,7 @@ entities:
 - Oracle
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Oracle is preparing a new round of layoffs this month as part of an effort to re
 ## Connections
 
 **Entities:** [[Oracle]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke]] · [[2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g]] · [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption]] · [[2026-04-02-trending-oracle-announces-30-000-layoffs-apr-1-oracle-confir]]
 <!-- graph:end -->

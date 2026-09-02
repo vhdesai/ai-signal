@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - model-capabilities
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-28-openai-briefs-white-house-on-biodefense-program-built-on-gpt
@@ -34,6 +35,6 @@ OpenAI told the White House it has launched a biodefense effort built around GPT
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]]
 **Canonical:** [[2026-05-28-openai-briefs-white-house-on-biodefense-program-built-on-gpt]]
 <!-- graph:end -->

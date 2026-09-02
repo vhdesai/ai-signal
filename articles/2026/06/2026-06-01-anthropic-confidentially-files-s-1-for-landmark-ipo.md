@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: CNBC; Wired; Fortune; TechCrunch
 url_original: https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
 url_canonical: https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-02_060023_Daily-AI-News-Digest.md
 content_hash: e41685eb52992d1300afde2e1eebce883adc620328bbc09af66297ab033bf11c
 normalized_title_hash: 351348da99ea18f8
@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-01-anthropic-confidentially-files-for-u-s-ipo
@@ -36,7 +37,7 @@ Anthropic filed a confidential IPO prospectus with the SEC, setting the stage fo
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-06-01-anthropic-confidentially-files-for-u-s-ipo]]
 **Related:** [[2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk]] · [[2026-08-22-anthropic-targets-an-ipo-that-could-match-or-beat-spacex-s-r]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]]
 <!-- graph:end -->

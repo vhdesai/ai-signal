@@ -5,7 +5,7 @@ date: '2026-07-05'
 source: Bloomberg
 url_original: https://finance.yahoo.com/technology/ai/articles/nvidia-supplier-hon-hai-reports-074723309.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-supplier-hon-hai-reports-074723309.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-05_062627_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: d681ea4a45bfa4fd7b82974fd10e0ade50672c4605ad29ceabf3ae7e0a6e0e7f
@@ -20,6 +20,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets
@@ -36,6 +37,6 @@ Hon Hai (Foxconn), Nvidia’s key server-assembly partner, reported June revenue
 ## Connections
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets]]
 <!-- graph:end -->

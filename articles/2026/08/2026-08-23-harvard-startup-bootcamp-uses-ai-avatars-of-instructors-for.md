@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/
 url_canonical: https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_060711_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 3e3a2e3b174c62723404ed9d39214529ff08a75593770e5718ba821fba56ec56
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -31,6 +32,6 @@ Harvard Business School's Foundry bootcamp is using AI avatars created by HeyGen
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-22-harvard-business-school-bootcamp-ships-ai-avatars-of-its-ins]]
 <!-- graph:end -->

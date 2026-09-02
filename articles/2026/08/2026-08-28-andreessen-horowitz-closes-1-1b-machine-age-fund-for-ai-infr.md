@@ -16,6 +16,7 @@ entities: []
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-a16z-raises-1-1b-machine-age-fund-dedicated-to-ai-s-physical
@@ -31,6 +32,6 @@ a16z announced a $1.1 billion vehicle dedicated to the physical infrastructure u
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-28-a16z-raises-1-1b-machine-age-fund-dedicated-to-ai-s-physical]]
 <!-- graph:end -->

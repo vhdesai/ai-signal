@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Quartz / Tech in Asia
 url_original: https://techstartups.com/2026/07/31/top-tech-news-today-july-31-2026-amazon-anthropic-apple-google-microsoft-reddit-sony-suno-more/
 url_canonical: https://techstartups.com/2026/07/31/top-tech-news-today-july-31-2026-amazon-anthropic-apple-google-microsoft-reddit-sony-suno-more/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-01_061413_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 8160fbee8a2897a55f2a52a01103c6d3351f28bf66636c5be887c743728e41cd
@@ -17,6 +17,7 @@ entities:
 - Samsung
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Samsung reported a record operating profit on strong DRAM, HBM and NAND demand f
 ## Connections
 
 **Entities:** [[Samsung]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-30-samsung-posts-record-profit-as-hbm-and-ai-memory-demand-surg]] · [[2026-07-07-samsung-guides-to-record-q2-operating-profit-on-ai-memory-de]]
 <!-- graph:end -->

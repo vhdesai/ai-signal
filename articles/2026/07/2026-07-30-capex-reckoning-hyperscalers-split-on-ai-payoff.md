@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -41,6 +42,6 @@ The past 24 hours put the defining tension of the AI cycle — capital in versus
 ## Connections
 
 **Entities:** [[Google]] · [[Meta]] · [[Microsoft]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-30-thursday-july-30-2026]] · [[2026-08-20-meta-s-ai-positioning-lags-alphabet-microsoft-and-amazon-as]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]] · [[2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge]]
 <!-- graph:end -->

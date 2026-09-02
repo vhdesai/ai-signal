@@ -25,6 +25,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -46,6 +47,6 @@ The past 24–48 hours produced the densest frontier-model release window of the
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[Meta]] · [[Microsoft]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-06-30-no-new-frontier-model-shipped-within-the-last-24-hours]] · [[2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien]] · [[2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens]] · [[2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day]]
 <!-- graph:end -->

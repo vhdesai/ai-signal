@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ The WSJ Markets A.M. newsletter highlights two converging forces in AI-related f
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris]] · [[2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog]]
 <!-- graph:end -->

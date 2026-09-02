@@ -5,8 +5,8 @@ title: Amazon Web Services and Cerebras Systems announced a collaboration to del
 date: '2026-03-24'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.aboutamazon.com/news/aws/aws-cerebras-ai-inference
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-26_105104_Inbox_Daily AI News Digest – March 24,
   2026.md
 content_hash: 704aac56389d51a17a5000a87f12335e624ef40775cb42a784d2843aac79810f
@@ -16,7 +16,8 @@ tags: []
 entities:
 - Amazon
 - Cerebras
-themes: []
+themes:
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,5 +39,6 @@ Amazon Web Services and Cerebras Systems announced a collaboration to deliver th
 ## Connections
 
 **Entities:** [[Amazon]] · [[Cerebras]]
+**Topics:** [[Infrastructure Investments]]
 **Related:** [[2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i]] · [[2026-08-28-cerebras-expands-ai-inference-infrastructure-across-europe-a]] · [[2026-07-22-aws-crowdstrike-and-cerebras-push-ai-native-security-control]] · [[2026-08-20-cerebras-partners-with-callosum-to-expand-agentic-inference]] · [[2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-per-second]]
 <!-- graph:end -->

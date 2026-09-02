@@ -6,7 +6,7 @@ date: '2026-05-22'
 source: Bloomberg
 url_original: https://www.bloomberg.com/
 url_canonical: https://www.bloomberg.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 87d605bff5788d31a2c0ca9be9fa332237a6f9d93f4af38d587a88eb936cde02
@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ Anthropic is expected to close a funding round exceeding $30 billion at a valuat
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]] · [[2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o]] · [[2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope]] · [[2026-05-18-bloomberg-reports-anthropic-s-latest-funding-round-at-least]] · [[2026-05-26-anthropic-is-expected-to-close-its-30b-funding-round-at-a-pr]]
 <!-- graph:end -->

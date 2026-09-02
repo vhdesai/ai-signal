@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-07-08/ai-chip-startup-sambanova-valued-at-11-billion-in-1-billion-funding-round
 url_canonical: https://money.usnews.com/investing/news/articles/2026-07-08/ai-chip-startup-sambanova-valued-at-11-billion-in-1-billion-funding-round
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-09_083415_Inbox_Fw Daily AI News Digest - July
   9, 2026.md
 content_hash: d2530bf874abf06d7076b1abd48862f99faba6aa201ce6361e0fc7d6f9525af2
@@ -16,6 +16,7 @@ entities:
 - Intel
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc
@@ -34,7 +35,7 @@ AI chip startup SambaNova raised $1B in a Series F led by General Atlantic at $1
 ## Connections
 
 **Entities:** [[Intel]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc]]
 **Related:** [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-and-is-named-a-jpmor]] · [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-and-lands-jpmorgan-a]]
 <!-- graph:end -->

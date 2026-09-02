@@ -6,7 +6,7 @@ date: '2026-06-24'
 source: CNBC · within 48-hour window
 url_original: https://www.cnbc.com/2026/06/24/nvidia-huang-data-center-smuggled-chips.html
 url_canonical: https://www.cnbc.com/2026/06/24/nvidia-huang-data-center-smuggled-chips.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-26_060525_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 5b9d56a600d165b9a2751541a92ffafed0baa84c3727ddd14191534f307692d8
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ At Nvidia’s annual stockholder meeting, Jensen Huang said national security ta
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports]] · [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]] · [[2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a]] · [[2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of]]
 <!-- graph:end -->

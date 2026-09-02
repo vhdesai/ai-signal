@@ -5,7 +5,7 @@ date: '2026-08-28'
 source: The Information · WSJ Pro CyberSecurity
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=judge+Pentagon+rescind+blacklist+Anthropic
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=judge+Pentagon+rescind+blacklist+Anthropic
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-28_065948_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 7bc73de62841ed3becc659bdce6e29cdbe7c06d43b493cad8f00dfbeb44e5fdb
@@ -18,6 +18,7 @@ entities:
 - Anthropic
 themes:
 - policy-regulation
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-federal-judge-orders-pentagon-to-rescind-blacklisting-of-ant
@@ -35,7 +36,7 @@ A judge ruled the Trump administration was wrong to blacklist Anthropic and orde
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]]
 **Canonical:** [[2026-08-28-federal-judge-orders-pentagon-to-rescind-blacklisting-of-ant]]
 **Related:** [[2026-08-27-federal-judge-rules-pentagon-s-blacklisting-of-anthropic-unl]]
 <!-- graph:end -->

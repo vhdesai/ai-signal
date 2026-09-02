@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: Reuters**
 url_original: https://money.usnews.com/investing/news/articles/2026-07-06/sk-hynix-launches-28-billion-us-listing-draws-7-billion-in-investor-interest
 url_canonical: https://money.usnews.com/investing/news/articles/2026-07-06/sk-hynix-launches-28-billion-us-listing-draws-7-billion-in-investor-interest
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-06_084325_Final-Daily-AI-News-Digest.md
 content_hash: e407402967dd1f8133cd1cf3411f5aeea9880831b92f79e8cf04a80ae3d67690
 normalized_title_hash: 8c37b0e72dac6f48
@@ -19,6 +19,7 @@ entities:
 - Samsung
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o
@@ -36,7 +37,7 @@ South Korean chipmaker SK Hynix launched a US share sale to raise approximately 
 ## Connections
 
 **Entities:** [[Google]] · [[NVIDIA]] · [[Samsung]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o]]
 **Related:** [[2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-08-31'
 source: NVIDIA Newsroom
 url_original: https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms
 url_canonical: https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-31_060712_Inbox_Daily AI News Digest – August 31,
   2026.md
 content_hash: d2ce0c8f032364a2137e602ebfefca345c507fee732e41823c8bc8155f6494e9
@@ -18,6 +18,7 @@ entities:
 - Scale AI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ NVIDIA and MediaTek announced an expanded collaboration spanning custom AI infra
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[Scale AI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-31-nvidia-invests-3-5b-in-mediatek-deepens-ai-infrastructure-pa]] · [[2026-08-31-nvidia-invests-3-5-billion-in-mediatek-and-deepens-its-ai-in]] · [[2026-08-31-nvidia-invests-3-5b-in-mediatek-convertible-bonds-deepens-ai]] · [[2026-08-31-nvidia-invests-3-5b-in-mediatek-and-extends-nvlink-fusion-to]] · [[2026-09-01-nvidia-invests-3-5b-in-mediatek-and-opens-nvlink-fusion-to-c]]
 <!-- graph:end -->

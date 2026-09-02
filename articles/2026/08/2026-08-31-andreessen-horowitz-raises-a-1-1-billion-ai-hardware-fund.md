@@ -16,6 +16,8 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +36,6 @@ Andreessen Horowitz's new Machine Age Fund will invest in the physical infrastru
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-29-andreessen-horowitz-raises-1-1b-machine-age-fund-for-ai-hard]] · [[2026-08-28-andreessen-horowitz-closes-1-1b-machine-age-fund-for-ai-hard]] · [[2026-08-28-a16z-raises-1-1b-machine-age-fund-dedicated-to-ai-s-physical]]
 <!-- graph:end -->

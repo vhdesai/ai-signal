@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Wired published a feature documenting Meta's current state: record financial per
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]] · [[2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-06-25-meta-accelerates-plan-to-automate-90-of-content-moderation]] · [[2026-08-05-meta-removed-more-than-50-ads-containing-ai-generated-child]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-24'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/
 url_canonical: https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-26_060512_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: c9372c7314dffb0ae1fb1d193f32582c4b547bcbdf24d48fc8cbe0afa9cd93a7
@@ -17,6 +17,7 @@ entities:
 - Samsung
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ NVIDIA says South Korean President Jae Myung Lee and Korean business and researc
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[Samsung]]
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-24-nvidia-and-south-korea-outline-full-stack-ai-collaboration]] · [[2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in]] · [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-07-27-nvidia-invests-in-naver-and-helps-assemble-south-korea-ai-da]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-08-07'
 source: Anthropic / 9to5Mac
 url_original: https://claude.com/blog/auto-mode-default-in-claude-code
 url_canonical: https://claude.com/blog/auto-mode-default-in-claude-code
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-08_060927_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 62491b1cac46339886e20ce3c97de486f99bf4631454846fd7b88833d9014e4b
@@ -21,6 +21,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +43,6 @@ Starting August 14, new Claude Code sessions on Pro, Max, and Team plans will ru
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-07-auto-mode-is-now-the-default-in-claude-code-for-pro-max-and]] · [[2026-08-09-anthropic-makes-claude-code-auto-mode-the-default]] · [[2026-08-09-anthropic-makes-claude-code-auto-mode-default-catches-89-of]] · [[2026-08-09-anthropic-makes-claude-code-auto-mode-the-default-for-pro-ma]] · [[2026-08-09-anthropic-makes-claude-code-s-auto-mode-the-default-for-pro]]
 <!-- graph:end -->

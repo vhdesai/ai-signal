@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/finance/stocks/wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going-7e7caf0c
 url_canonical: https://www.wsj.com/finance/stocks/wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going-7e7caf0c
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-24_060708_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 99e03c8f6583d69ce68d2894e7fdfea0845f1ba84e5a4fdd958f95d66873d39d
@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-24-wall-street-counts-on-nvidia-to-keep-the-ai-party-going-mark
@@ -34,6 +35,6 @@ Nvidia reports Q2 FY2027 results on Wednesday, August 26 at 2:00pm PT, carrying 
 ## Connections
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-24-wall-street-counts-on-nvidia-to-keep-the-ai-party-going-mark]]
 <!-- graph:end -->

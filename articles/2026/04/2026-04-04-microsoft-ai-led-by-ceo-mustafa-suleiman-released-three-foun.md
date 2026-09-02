@@ -5,8 +5,8 @@ title: Microsoft AI, led by CEO Mustafa Suleiman, released three foundational mo
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: 0273e1f47435df3ad9f9490116fb7238dd77505bbcb7dc2a33731f40748eb115
@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Microsoft AI, led by CEO Mustafa Suleiman, released three foundational models un
 ## Connections
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-10-microsoft-ai-released-three-proprietary-foundational-models]] · [[2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su]] · [[2026-04-02-in-a-landmark-move-toward-ai-self-sufficiency-microsoft-toda]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai]]
 <!-- graph:end -->

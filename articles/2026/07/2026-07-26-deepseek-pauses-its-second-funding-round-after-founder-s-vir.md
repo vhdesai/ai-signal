@@ -5,7 +5,7 @@ date: '2026-07-26'
 source: The Next Web
 url_original: https://thenextweb.com/news/deepseek-funding-pause-viral-posts-liang-wenfeng
 url_canonical: https://thenextweb.com/news/deepseek-funding-pause-viral-posts-liang-wenfeng
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-27_061621_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: 092c3414f670599ebc4b705def5179006bdb38265fcdcca8314d70fc102ee488
@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -37,7 +38,7 @@ DeepSeek suspended an ongoing funding round after viral posts attributed to foun
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-26-deepseek-pauses-its-1-4b-funding-round-after-founder-s-leake]]
 **Related:** [[2026-07-25-deepseek-pauses-a-1-4b-raise-after-founder-s-leaked-remarks]] · [[2026-07-26-deepseek-pauses-71b-funding-round-after-founder-s-leaked-rem]]
 <!-- graph:end -->

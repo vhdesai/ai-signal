@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/softbanks-son-says-ai-5-052004186.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/softbanks-son-says-ai-5-052004186.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_082213_Inbox_Fw Daily AI News Digest - July
   14, 2026.md
 content_hash: d03e324dba8670a53266e955eca7f9c56d162833b8acb3d51591939ab3e58a06
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Masayoshi Son projected that AI buildout will require roughly $5 trillion of ann
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-14-softbank-s-son-says-ai-will-need-5-trillion-a-year-by-2040-c]] · [[2026-07-14-softbank-says-ai-could-require-5t-a-year-by-2040-reflection]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]] · [[2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet]]
 <!-- graph:end -->

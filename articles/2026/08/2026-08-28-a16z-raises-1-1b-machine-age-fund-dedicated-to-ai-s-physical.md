@@ -15,6 +15,8 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +37,6 @@ Andreessen Horowitz announced a $1.1 billion vehicle that will invest exclusivel
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-28-andreessen-horowitz-raises-1-1b-machine-age-fund-for-ai-hard]] · [[2026-08-29-andreessen-horowitz-raises-1-1b-machine-age-fund-for-ai-hard]] · [[2026-08-28-andreessen-horowitz-closes-1-1b-machine-age-fund-for-ai-infr]] · [[2026-08-28-andreessen-horowitz-closes-1-1b-machine-age-fund-for-ai-hard]] · [[2026-08-31-andreessen-horowitz-raises-a-1-1-billion-ai-hardware-fund]]
 <!-- graph:end -->

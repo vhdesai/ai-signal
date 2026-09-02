@@ -18,6 +18,7 @@ entities:
 - Alibaba
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -35,6 +36,6 @@ Alibaba Cloud has launched two data centers in Brazil, its first major infrastru
 ## Connections
 
 **Entities:** [[Alibaba]]
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-28-alibaba-cloud-opens-first-brazil-cloud-region-with-agentic-a]]
 <!-- graph:end -->

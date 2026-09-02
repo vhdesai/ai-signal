@@ -19,6 +19,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -36,6 +38,6 @@ SK Hynix, a key memory supplier to Nvidia, raised $26.5 billion (about KRW 40 tr
 ## Connections
 
 **Entities:** [[Alibaba]] · [[NVIDIA]] · [[Samsung]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing]]
 <!-- graph:end -->

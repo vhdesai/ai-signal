@@ -27,6 +27,8 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -46,6 +48,6 @@ event_name: ''
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-18-president-trump-confirmed-discussions-with-chinese-president]] · [[2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo]]
 <!-- graph:end -->

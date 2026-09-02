@@ -21,6 +21,8 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +44,6 @@ Washington's grip on frontier AI tightened over the weekend: the U.S. cleared An
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-06-30-white-house-ai-crackdown-opens-the-door-for-chinese-models-t]]
 <!-- graph:end -->

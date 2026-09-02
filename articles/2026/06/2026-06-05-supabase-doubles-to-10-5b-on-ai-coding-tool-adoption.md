@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/
 url_canonical: https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
 content_hash: d591330a93ffe283c5bc516407e4cdfb87bfc3af31ecc6131e64ac5704e5b988
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Supabase raised $500M at ~$10.5B, doubling for the third time in two years. CEO 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-05-supabase-doubles-to-10-5b-valuation-on-the-back-of-ai-coding]] · [[2026-05-08-replit-ceo-amjad-masad-disclosed-at-techcrunch-s-strictlyvc]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]]
 <!-- graph:end -->

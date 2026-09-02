@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/
 url_canonical: https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-26_061014_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: ff6e2873e7895aba64602c4470ff5ed8838dcae164f3ac280ae22edfcb09a969
@@ -19,6 +19,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-25-openai-s-jalape-o-chip-is-built-for-fast-inference-at-scale
@@ -36,7 +37,7 @@ At Hot Chips, OpenAI shared first benchmarks for Jalapeño, its custom inference
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-25-openai-s-jalape-o-chip-is-built-for-fast-inference-at-scale]]
 **Related:** [[2026-08-26-openai-publishes-first-jalape-o-inference-benchmarks-claimin]]
 <!-- graph:end -->

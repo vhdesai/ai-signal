@@ -18,6 +18,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-10-breakingcerebras-ipo-demand-forces-price-hike-4-8b-raise-exp
@@ -34,6 +36,6 @@ AI chip maker Cerebras Systems disclosed IPO terms: up to $3.5B raised by sellin
 ## Connections
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-10-breakingcerebras-ipo-demand-forces-price-hike-4-8b-raise-exp]]
 <!-- graph:end -->

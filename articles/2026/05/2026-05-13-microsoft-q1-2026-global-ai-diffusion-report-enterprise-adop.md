@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Microsoft's Q1 2026 Global AI Diffusion Report shows enterprise AI adoption cont
 ## Connections
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-10-microsoft-q1-2026-global-ai-diffusion-report-uae-leads-at-70]] · [[2026-05-18-microsoft-s-2026-global-ai-diffusion-report-documented-that]] · [[2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop]] · [[2026-05-22-the-stanford-university-2026-ai-index-report-documents-a-fie]]
 <!-- graph:end -->

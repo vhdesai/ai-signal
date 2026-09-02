@@ -21,6 +21,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +43,6 @@ PitchBook reports that corporate venture capital has become one of the most powe
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat]] · [[2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit]] · [[2026-08-11-ai-startups-raised-in-h1-2026-openai-and-anthropic-took-more]] · [[2026-07-30-top-ai-venture-portfolios-reach-7-trillion-as-market-concent]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]]
 <!-- graph:end -->

@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Jensen Huang confirmed Nvidia can backstop up to $125B (~25% of potential deals)
 ## Connections
 
 **Entities:** [[Google]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-14-nvidia-s-500b-compute-financing-platform-draws-private-credi]] · [[2026-08-14-nvidia-s-500-billion-compute-financing-platform-draws-privat]] · [[2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin]] · [[2026-08-13-nvidia-500b-financing-vehicle-with-gpu-residual-value-guaran]]
 <!-- graph:end -->

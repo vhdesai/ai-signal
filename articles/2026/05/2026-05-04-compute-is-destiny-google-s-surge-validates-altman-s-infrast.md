@@ -17,6 +17,7 @@ entities:
 - Google
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ A sharp Alphabet stock rally is being read by analysts as proof that compute cap
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai]] · [[2026-08-13-cmu-researchers-challenge-what-it-means-to-say-ai-thinks]] · [[2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers]]
 <!-- graph:end -->

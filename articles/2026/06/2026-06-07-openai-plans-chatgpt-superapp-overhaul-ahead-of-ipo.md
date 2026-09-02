@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Reuters reported that OpenAI is planning a major overhaul of ChatGPT into a cons
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]] · [[2026-06-11-wired-meet-the-openai-engineer-leading-chatgpt-s-biggest-tra]] · [[2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp]]
 <!-- graph:end -->

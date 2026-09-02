@@ -18,6 +18,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Emergent raised $130 million at a $1.5 billion post-money valuation, led by Crea
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-15-indian-ai-coding-startup-emergent-reaches-unicorn-status]] · [[2026-07-15-indian-ai-coding-startup-emergent-hits-unicorn-status-with-1]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua]]
 <!-- graph:end -->

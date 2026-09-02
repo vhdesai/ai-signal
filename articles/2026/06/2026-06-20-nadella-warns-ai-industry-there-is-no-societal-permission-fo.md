@@ -5,7 +5,7 @@ date: '2026-06-20'
 source: 24/7 Wall St.; VentureBeat
 url_original: https://247wallst.com/investing/2026/06/20/microsofts-ceo-just-warned-the-entire-ai-industry-your-dominance-will-trigger-a-backlash/
 url_canonical: https://247wallst.com/investing/2026/06/20/microsofts-ceo-just-warned-the-entire-ai-industry-your-dominance-will-trigger-a-backlash/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-21_070014_Final-Daily-AI-News-Digest.md
 content_hash: 12430091ecda25e4f2386d74f0c49cc6afd4c774f7889e404eedd20707be1340
 normalized_title_hash: 242dbcb0607adea1
@@ -16,6 +16,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration
@@ -32,6 +33,6 @@ Analysis of Nadella's June 14 blog post: "If all the value is accrued by only a 
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration]]
 <!-- graph:end -->

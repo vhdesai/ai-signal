@@ -21,6 +21,8 @@ entities:
 - xAI
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +42,6 @@ OpenAI filed its S-1 with the SEC on May 22, formally setting up a September 202
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[Mistral]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-25-openai-preparing-confidential-s-1-targeting-1t-ipo-valuation]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]] · [[2026-05-26-openai-confirmed-its-confidential-s-1-filing-with-the-sec-on]]
 <!-- graph:end -->

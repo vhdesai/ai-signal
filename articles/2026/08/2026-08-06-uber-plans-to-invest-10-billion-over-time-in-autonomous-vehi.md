@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Uber+10+billion+autonomous+vehicles
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Uber+10+billion+autonomous+vehicles
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-06_065033_Final-Daily-AI-News-Digest.md
 content_hash: b47aaf9505dd5bdbb691152f3e26af802319eeaa212fd5e7a720faaeebafb8c2
 normalized_title_hash: 2479f00caf00cc6a
@@ -16,6 +16,8 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -36,6 +38,6 @@ Uber announced plans to invest $10 billion over time in autonomous vehicle techn
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-04-23-huawei-commits-11-7b-to-autonomous-driving-ai-compute-build]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-08-14-pony-ai-and-uber-plan-more-than-2-000-robotaxis-across-five]] · [[2026-04-25-google-plans-up-to-40b-anthropic-investment]]
 <!-- graph:end -->

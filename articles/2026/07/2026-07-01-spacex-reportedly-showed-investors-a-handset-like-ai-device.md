@@ -5,7 +5,7 @@ date: '2026-07-01'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/
 url_canonical: https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-02_062325_Inbox_Daily AI News Digest - July 2,
   2026.md
 content_hash: 68aae777316282447c095e2493d4d7d270e344c2a02862c5b904cfe0e09999a5

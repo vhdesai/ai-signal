@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Anthropic projected its first-ever operating profit of $559M in Q2 2026 on $10.9
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2]] · [[2026-05-21-anthropic-projects-first-ever-operating-profit-559m-on-10-9b]] · [[2026-08-15-anthropic-posts-11-5b-q2-revenue-first-profitable-quarter]] · [[2026-08-17-anthropic-s-annualized-revenue-surges-to-65-billion-ahead-of]] · [[2026-08-15-anthropic-posts-11-5b-q2-revenue-and-its-first-profitable-qu]]
 <!-- graph:end -->

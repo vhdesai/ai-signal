@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/
 url_canonical: https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_072257_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: bd98317624cc2d9be67a81f002af97944282b7f75cdb432b6d3f3226715ffb4e
@@ -20,6 +20,8 @@ entities:
 - xAI
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -37,6 +39,6 @@ AI gateway startup OpenRouter announced a $113M Series B led by CapitalG at a ~$
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le]]
 <!-- graph:end -->

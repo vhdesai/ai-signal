@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ WiWynn executives told Bloomberg the next AI server-build bottleneck is no longe
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-08-13-nvidia-weighs-reducing-memory-on-next-gen-rubin-ultra-gpu-du]] · [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-08-06-nvidia-tests-rubin-ultra-variants-with-less-hbm-amid-tight-m]]
 <!-- graph:end -->

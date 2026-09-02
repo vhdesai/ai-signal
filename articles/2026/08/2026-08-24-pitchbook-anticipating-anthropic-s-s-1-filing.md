@@ -16,6 +16,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ PitchBook's daily newsletter features analysis anticipating Anthropic's S-1 fili
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-20-anthropic-expects-an-ipo-that-matches-or-exceeds-spacex-s-re]] · [[2026-08-22-anthropic-targets-an-ipo-that-could-match-or-beat-spacex-s-r]] · [[2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk]]
 <!-- graph:end -->

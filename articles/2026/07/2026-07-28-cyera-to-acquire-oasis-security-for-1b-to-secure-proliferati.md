@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/
 url_canonical: https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-29_062619_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: a085ad3b11b6e0783c11d25b6985cff7aa7c6c0a881ae11ff63fe0cb97384fa8
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Data-security company Cyera — recently valued near $12 billion — signed a le
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-07-29-cyera-agrees-to-acquire-oasis-security-for-1-billion-to-secu]] · [[2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic]] · [[2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]]
 <!-- graph:end -->

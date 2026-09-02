@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek+revenue+70+million
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek+revenue+70+million
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-26_065442_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 434db7c4eee3602bab608ab32effb2dc7300000374e932dba326caf0ea9440a9
@@ -17,6 +17,7 @@ entities:
 - DeepSeek
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +39,6 @@ DeepSeek generated ~475M yuan (~$70.7M) in the first seven months of 2026, rough
 ## Connections
 
 **Entities:** [[DeepSeek]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-26-deepseek-s-revenue-reaches-70-million-as-of-july-tenfold-jum]] · [[2026-08-26-deepseek-revenue-reaches-70m-through-july-tenfold-jump-from]] · [[2026-08-26-deepseek-revenue-reaches-70-million-through-july-tenfold-jum]] · [[2026-07-15-deepseek-nears-500m-revenue-and-prepares-for-public-market-p]]
 <!-- graph:end -->

@@ -21,6 +21,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +43,6 @@ AI’s second-quarter earnings season crystallized the industry’s defining ten
 ## Connections
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Google]] · [[Meta]] · [[Microsoft]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]] · [[2026-08-20-meta-s-ai-positioning-lags-alphabet-microsoft-and-amazon-as]] · [[2026-08-01-wall-street-rewards-ai-spending-when-it-is-tied-to-cloud-rev]] · [[2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]]
 <!-- graph:end -->

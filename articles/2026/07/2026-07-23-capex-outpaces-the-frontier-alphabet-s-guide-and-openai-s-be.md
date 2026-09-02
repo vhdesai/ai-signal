@@ -22,6 +22,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +43,6 @@ The latest cycle made clear that the AI economy is now dominated by compute, pow
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[IBM]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-23-ai-s-capital-and-compute-race-outpaces-the-model-cycle]] · [[2026-07-03-the-economics-and-governance-of-ai-took-center-stage]] · [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and]] · [[2026-07-22-daily-ai-news-digest-july-23-2026]]
 <!-- graph:end -->

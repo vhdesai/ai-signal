@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - model-capabilities
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ OpenAI unveiled its "Korea Cyber Action Plan" in Seoul, broadening access to its
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]]
 **Related:** [[2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration]] · [[2026-07-24-nvidia-and-south-korea-outline-full-stack-ai-collaboration]] · [[2026-07-28-nvidia-sk-group-500b-partnership-is-mostly-recycled-announce]]
 <!-- graph:end -->

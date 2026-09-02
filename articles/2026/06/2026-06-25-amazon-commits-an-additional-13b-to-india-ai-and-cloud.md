@@ -5,7 +5,7 @@ date: '2026-06-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/
 url_canonical: https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-26_063633_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: ed615de0c4d82b4718e1bfdef343c4ca25182a7e712d45b7bce6e256421b28e9
@@ -18,6 +18,7 @@ entities:
 - Microsoft
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct
@@ -34,6 +35,6 @@ After CEO Andy Jassy met PM Narendra Modi in New Delhi, Amazon said it will inve
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Microsoft]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]]
 <!-- graph:end -->

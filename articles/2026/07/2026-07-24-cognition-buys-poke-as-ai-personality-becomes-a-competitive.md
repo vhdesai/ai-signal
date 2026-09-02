@@ -5,7 +5,7 @@ date: '2026-07-24'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/
 url_canonical: https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-26_060512_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 2dce85762b8bad84f83361143b96a69d93d1a34f7c01c2a5296cd90edc4c1377
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - model-capabilities
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +34,6 @@ TechCrunch reports that Cognition acquired Poke to bring Poke's conversational s
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[M&A Activity]]
 **Related:** [[2026-06-04-apple-approves-first-ai-agent-on-messages-for-business]] · [[2026-08-08-pokee-ai-releases-isaac-28b-a-10m-token-agentic-model-for-cu]] · [[2026-08-21-ai-coding-tools-are-reinforcing-javascript-and-typescript-do]]
 <!-- graph:end -->

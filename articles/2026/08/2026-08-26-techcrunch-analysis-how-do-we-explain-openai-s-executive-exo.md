@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-analysis-openai-s-executive-exodus-explained-brockman-reasse
@@ -34,6 +35,6 @@ TechCrunch's deep-dive argues the 14+ executive departures in 2026 reflect Greg 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-26-analysis-openai-s-executive-exodus-explained-brockman-reasse]]
 <!-- graph:end -->

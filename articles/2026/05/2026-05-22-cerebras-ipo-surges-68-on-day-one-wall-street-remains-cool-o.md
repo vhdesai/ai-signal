@@ -5,7 +5,7 @@ date: '2026-05-22'
 source: 'Source: The Motley Fool'
 url_original: https://www.fool.com/investing/2026/05/22/wall-streets-favorite-ai-stock-vs-the-one-theyre-i/
 url_canonical: https://www.fool.com/investing/2026/05/22/wall-streets-favorite-ai-stock-vs-the-one-theyre-i/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 420135c33d46744f23da25b23c4c3a95d93e756109b8a1a3b9e023870995e3b9
@@ -18,6 +18,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +39,6 @@ Cerebras shares surged roughly 60% from its $185 IPO price after a 68% first-day
 ## Connections
 
 **Entities:** [[Cerebras]] · [[Microsoft]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale]] · [[2026-05-14-cerebras-pop-sets-up-the-ai-trade-on-wall-street]] · [[2026-05-27-trending-cerebras-68-ipo-pop-draws-fresh-ark-buying-ceo-warn]]
 <!-- graph:end -->

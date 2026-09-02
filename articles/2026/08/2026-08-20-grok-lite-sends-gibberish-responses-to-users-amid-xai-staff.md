@@ -17,6 +17,7 @@ entities:
 - xAI
 themes:
 - policy-regulation
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover
@@ -33,6 +34,6 @@ xAI's Grok chatbot began sending extended nonsense responses (e.g., "match it wi
 ## Connections
 
 **Entities:** [[xAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[M&A Activity]]
 **Canonical:** [[2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover]]
 <!-- graph:end -->

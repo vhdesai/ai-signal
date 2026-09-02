@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ TechCrunch argues Nvidia's defensibility increasingly rests on its CPU, networki
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-29-nvidia-s-ai-advantage-is-shifting-from-the-gpu-to-the-system]] · [[2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu]] · [[2026-08-29-analysis-nvidia-s-ai-advantage-is-moving-beyond-the-gpu]] · [[2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch]]
 <!-- graph:end -->

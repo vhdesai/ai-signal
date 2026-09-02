@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Four-time CFO Amy Butte (NYSE, Navan) tells Business Insider that AI is forcing 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-10-openai-describes-building-an-ai-native-finance-function]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value]] · [[2026-08-22-goldman-sachs-assesses-when-ai-will-deliver-meaningful-earni]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]]
 <!-- graph:end -->

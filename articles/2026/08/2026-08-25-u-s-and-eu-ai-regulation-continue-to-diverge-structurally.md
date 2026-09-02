@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: Fast Company
 url_original: https://www.fastcompany.com/91594112/the-u-s-and-the-eu-regulate-ai-differently
 url_canonical: https://www.fastcompany.com/91594112/the-u-s-and-the-eu-regulate-ai-differently
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-26_111101_Final-Daily-AI-News-Digest.md
 content_hash: 181b0761cfc788f26b1652760501642a94b7458dfb8c7e7e669f0c8936bb24a5
 normalized_title_hash: c2d2c6bdb78bfb3b

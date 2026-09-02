@@ -21,6 +21,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +43,6 @@ Business Insider reports that Microsoft CEO Satya Nadella criticized, indirectly
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie]] · [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat]] · [[2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model]] · [[2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic]] · [[2026-07-27-satya-nadella-warns-companies-not-to-trust-one-ai-for-everyt]]
 <!-- graph:end -->

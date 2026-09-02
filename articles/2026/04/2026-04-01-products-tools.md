@@ -21,6 +21,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +44,6 @@ Apple Tests Multi-Command Siri for iOS 27 — Simultaneous Task Handling Coming 
 ## Connections
 
 **Entities:** [[Apple]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[Salesforce]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri]] · [[2026-04-02-salesforce-announced-a-sweeping-ai-driven-overhaul-of-slack]] · [[2026-04-10-salesforce-announced-a-major-slackbot-upgrade-adding-30-new]] · [[2026-04-03-salesforce-announced-a-major-slackbot-overhaul-reusable-ai-s]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]]
 <!-- graph:end -->

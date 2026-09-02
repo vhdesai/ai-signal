@@ -16,6 +16,7 @@ entities:
 - Intel
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Higgsfield closed a $400M Series B at a $5.4B valuation, with Goldman Sachs and 
 ## Connections
 
 **Entities:** [[Intel]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-17-higgsfield-raises-400m-series-b-at-a-5-4b-valuation]] · [[2026-08-17-higgsfield-raises-400m-at-5-4b-wispr-raises-280m-at-2b]] · [[2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin]]
 <!-- graph:end -->

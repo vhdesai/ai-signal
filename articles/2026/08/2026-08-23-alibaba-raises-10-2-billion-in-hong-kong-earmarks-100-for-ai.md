@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: The Next Web
 url_original: https://thenextweb.com/news/alibaba-10-2bn-share-placement-ai-infrastructure
 url_canonical: https://thenextweb.com/news/alibaba-10-2bn-share-placement-ai-infrastructure
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_065240_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 1f2da0f60fba426184aeb18f5330771140354c74d02c9734c2b7cb73796fc52a
@@ -17,6 +17,8 @@ entities:
 - Alibaba
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +41,6 @@ Alibaba placed HK$80B (~$10.2B) in the largest primary follow-on ever by a Hong 
 ## Connections
 
 **Entities:** [[Alibaba]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-23-alibaba-raises-10-2bn-in-hong-kong-earmarks-100-for-ai]] · [[2026-08-23-alibaba-raises-10-2b-in-hong-kong-s-biggest-ever-follow-on-t]] · [[2026-08-24-alibaba-plunges-after-10-2b-placement-to-fund-ai-push]] · [[2026-08-23-alibaba-seeks-10-2b-in-hong-kong-share-placement-to-fund-ai]] · [[2026-08-24-alibaba-plunges-after-announcing-10-2-billion-share-placemen]]
 <!-- graph:end -->

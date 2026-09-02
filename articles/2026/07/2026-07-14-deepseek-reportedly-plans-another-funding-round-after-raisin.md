@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek%20funding%20round
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek%20funding%20round
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-14_060635_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: a1bc2c79ae017b3cf04a56a2763c997cba7f0dae49d119c071ac4d4e46746fb6
@@ -18,6 +18,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +41,6 @@ The Information reports that DeepSeek is plotting another funding round only wee
 ## Connections
 
 **Entities:** [[DeepSeek]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-06-03-deepseek-prepares-7-billion-maiden-fundraise]] · [[2026-05-13-deepseek-reportedly-raising-7b-at-50b-valuation-led-by-china]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-07-14-deepseek-weighs-a-second-raise-in-two-months-at-a-71b-pre-mo]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]]
 <!-- graph:end -->

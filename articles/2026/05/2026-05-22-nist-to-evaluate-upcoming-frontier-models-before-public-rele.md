@@ -5,7 +5,7 @@ date: '2026-05-22'
 source: The Batch
 url_original: https://www.andrewng.org/writing
 url_canonical: https://www.andrewng.org/writing
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 3f725ea303047ed90182a6e2ef72e9538da811f548b608313b36175e1ed43f79

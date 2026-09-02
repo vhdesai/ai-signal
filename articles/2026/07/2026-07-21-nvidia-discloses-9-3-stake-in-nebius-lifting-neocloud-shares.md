@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ CNBC reports that Nebius shares surged after NVIDIA disclosed a 9.3% stake in th
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex]] · [[2026-08-18-nvidia-s-ai-moat-is-shifting-from-chips-to-capital]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en]]
 <!-- graph:end -->

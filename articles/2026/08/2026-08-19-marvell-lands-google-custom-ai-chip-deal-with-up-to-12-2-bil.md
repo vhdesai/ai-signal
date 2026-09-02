@@ -19,6 +19,7 @@ entities:
 - Google
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Marvell disclosed a commercial agreement with Google covering custom AI silicon,
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2b-sh]] · [[2026-08-20-marvell-gives-google-rights-to-buy-up-to-12-2-billion-in-sto]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-meets-a-timing-rea]] · [[2026-08-28-marvell-sells-off-8-as-google-custom-silicon-revenue-slips-t]]
 <!-- graph:end -->

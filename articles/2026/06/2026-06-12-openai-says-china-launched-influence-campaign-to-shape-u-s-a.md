@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -34,6 +35,6 @@ OpenAI publicly accused China of launching an influence campaign to shape Americ
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti]]
 <!-- graph:end -->

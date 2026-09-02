@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Forbes
 url_original: https://www.forbes.com/sites/rachelwells/2026/08/26/bill-gates-says-some-jobs-should-be-off-limits-to-ai-whos-impacted/
 url_canonical: https://www.forbes.com/sites/rachelwells/2026/08/26/bill-gates-says-some-jobs-should-be-off-limits-to-ai-whos-impacted/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-26_062133_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: b93892788bd3363cab2e3094cff346d31e762d89ac5a67c66299829483a724e0

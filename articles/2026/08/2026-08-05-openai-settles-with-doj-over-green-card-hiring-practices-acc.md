@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/
 url_canonical: https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_061721_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: a39c0ea5228c6d69110345b15462fd1c609a91de8fb131d77479f27d5dbb7455
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ The DOJ's Civil Rights Division settled with OpenAI and its divested subsidiary 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[M&A Activity]]
 **Related:** [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after]] · [[2026-07-07-illinois-enacts-first-in-nation-law-requiring-independent-sa]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]]
 <!-- graph:end -->

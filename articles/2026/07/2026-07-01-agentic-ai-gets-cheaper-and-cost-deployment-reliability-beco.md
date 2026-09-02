@@ -21,6 +21,7 @@ entities:
 themes:
 - policy-regulation
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -42,6 +43,6 @@ The last 24 hours were defined less by raw capability than by the economics of p
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi]] · [[2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain]] · [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and]]
 <!-- graph:end -->

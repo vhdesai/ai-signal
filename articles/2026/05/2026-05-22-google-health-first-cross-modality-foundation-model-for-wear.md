@@ -5,7 +5,7 @@ date: '2026-05-22'
 source: 'Source: arXiv cs.AI'
 url_original: https://arxiv.org/list/cs.AI/recent
 url_canonical: https://arxiv.org/list/cs.AI/recent
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 9f8cd5a9866d6fb4eeb991351fc9969448506897df57137b7b7e555ef7c05c3b

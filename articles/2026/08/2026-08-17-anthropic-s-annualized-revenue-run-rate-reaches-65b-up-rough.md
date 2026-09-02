@@ -18,6 +18,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b
@@ -38,7 +39,7 @@ Anthropic told investors over the weekend that its annualized run rate hit $65 b
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b]]
 **Related:** [[2026-08-18-anthropic-s-annualized-revenue-tops-65-billion-ahead-of-ipo]] · [[2026-08-17-anthropic-s-annualized-revenue-surges-to-65-billion-ahead-of]] · [[2026-08-17-anthropic-s-annualized-revenue-run-rate-surges-past-65b]] · [[2026-08-17-anthropic-s-annualized-revenue-surges-to-65b-ipo-expected-th]]
 <!-- graph:end -->

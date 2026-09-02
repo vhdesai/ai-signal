@@ -6,7 +6,7 @@ date: '2026-06-25'
 source: AlleyWatch
 url_original: https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-25-2026/
 url_canonical: https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-25-2026/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-27_091929_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: dcdb4e596749c967cdddbe0b973b7b0797d4562b70cffd8a2eb9364e2b3cb20d
@@ -16,6 +16,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Despite cooling public-market sentiment, private capital kept flowing into appli
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-25-nyc-ai-funding-stays-hot-norm-ai-raises-120m-taktile-lands-1]] · [[2026-06-25-nyc-funding-day-norm-ai-raises-120m-taktile-raises-110m]] · [[2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation]] · [[2026-07-09-legal-ai-startup-norm-ai-hits-a-1-2b-valuation-with-a-120m-s]] · [[2026-07-07-legal-ai-startup-norm-ai-raises-120m-series-c-at-a-1-2b-valu]]
 <!-- graph:end -->

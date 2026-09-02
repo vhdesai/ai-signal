@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: Yahoo News
 url_original: https://www.yahoo.com/news/politics/articles/trump-administration-approves-rollout-openai-043100164.html
 url_canonical: https://www.yahoo.com/news/politics/articles/trump-administration-approves-rollout-openai-043100164.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-09_061541_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 99754d6bd4177e28ae3a349f81e88447887d21d020ae8ce45e40d0d831bca227
@@ -19,6 +19,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ The Trump administration cleared a broad rollout of GPT-5.6 (the Sol, Terra, and
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes]]
 <!-- graph:end -->

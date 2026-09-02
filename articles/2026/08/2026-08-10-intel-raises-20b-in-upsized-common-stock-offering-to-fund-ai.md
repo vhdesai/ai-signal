@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: '[Intel / CNBC]'
 url_original: https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html
 url_canonical: https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-11_061404_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: b9bd3f55fe6445e6479c8c311d778b16b5a209332eaf9dcbc2ce283ac8ac36e9
@@ -16,6 +16,8 @@ entities:
 - Intel
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +35,6 @@ Intel priced an upsized $20B common stock offering at $95 per share — roughly 
 ## Connections
 
 **Entities:** [[Intel]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-11-intel-upsizes-common-stock-offering-to-20-billion-at-95-a-sh]]
 <!-- graph:end -->

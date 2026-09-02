@@ -16,6 +16,7 @@ entities:
 - Oracle
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Oracle reports Q4 earnings with a record $553 billion AI backlog. Barron's noted
 ## Connections
 
 **Entities:** [[Oracle]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-10-oracle-reports-record-q4-oci-revenue-surges-93-yoy-ai-backlo]] · [[2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-spending-guidance-spo]] · [[2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-capex-guidance-spooke]] · [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]]
 <!-- graph:end -->

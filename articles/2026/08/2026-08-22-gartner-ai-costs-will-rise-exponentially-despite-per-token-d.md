@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-22-gartner-ai-capabilities-outpacing-cost-savings-enterprise-sp
@@ -34,6 +35,6 @@ Gartner predicts enterprise AI costs will rise exponentially as organizations de
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-22-gartner-ai-capabilities-outpacing-cost-savings-enterprise-sp]]
 <!-- graph:end -->

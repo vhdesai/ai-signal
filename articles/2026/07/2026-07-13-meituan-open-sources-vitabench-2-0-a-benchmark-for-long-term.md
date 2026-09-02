@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: AIToolly / Meituan
 url_original: https://aitoolly.com/ai-news/2026-07-13
 url_canonical: https://aitoolly.com/ai-news/2026-07-13
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: fcffef343db48ea3ab32af9ce37add247352b91575d1494d17aa93cda2d7de06

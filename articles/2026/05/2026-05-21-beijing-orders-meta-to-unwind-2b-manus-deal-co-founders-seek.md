@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- ma-activity
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ Beijing has ordered Meta to unwind its $2 billion acquisition of Manus, the Chin
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
 **Related:** [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]] · [[2026-09-01-manus-resumes-independent-operations-after-china-blocks-meta]] · [[2026-05-14-chinese-regulators-blocked-meta-s-attempted-acquisition-of-m]] · [[2026-05-21-china-blocks-meta-s-manus-deal-founders-eye-1b-buyout]]
 <!-- graph:end -->

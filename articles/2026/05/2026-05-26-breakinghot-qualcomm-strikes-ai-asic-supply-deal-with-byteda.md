@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: Bloomberg (originating scoop) · Reuters via Yahoo Finance
 url_original: https://finance.yahoo.com/sectors/technology/articles/qualcomm-strikes-ai-chip-deal-145541849.html
 url_canonical: https://finance.yahoo.com/sectors/technology/articles/qualcomm-strikes-ai-chip-deal-145541849.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_072257_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 834e87fef83d0c4668b44e1ed6d217df36b7a9874c653d008187d8ed380d2390
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Bloomberg reports Qualcomm has struck a deal to supply AI data-center ASICs to B
 ## Connections
 
 **Entities:** [[ByteDance]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-26-qualcomm-strikes-ai-chip-supply-deal-with-bytedance]] · [[2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part]] · [[2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for]] · [[2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips]] · [[2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp]]
 <!-- graph:end -->

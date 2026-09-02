@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek%20funding%20round%20hold
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek%20funding%20round%20hold
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-28_065753_Final-Daily-AI-News-Digest.md
 content_hash: 1529a485f177af061bda1437c7d06e4f99cbbb5f29b60ce052629523e887d970
 normalized_title_hash: 302ff094799d5424
@@ -17,6 +17,7 @@ entities:
 - DeepSeek
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -34,6 +35,6 @@ DeepSeek told investors it is pausing fundraising talks that valued the company 
 ## Connections
 
 **Entities:** [[DeepSeek]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-27-deepseek-puts-current-funding-round-on-hold-after-leaked-fou]]
 <!-- graph:end -->

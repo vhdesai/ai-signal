@@ -28,6 +28,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -48,6 +49,6 @@ The 2026 Stanford AI Index documents that global AI compute capacity has grown 3
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[TSMC]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env]] · [[2026-05-15-stanford-s-9th-annual-ai-index-now-being-widely-cited-this-w]] · [[2026-05-22-the-stanford-university-2026-ai-index-report-documents-a-fie]] · [[2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2]]
 <!-- graph:end -->

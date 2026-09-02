@@ -5,7 +5,7 @@ date: '2026-07-16'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/
 url_canonical: https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-17_092848_Final-Daily-AI-News-Digest.md
 content_hash: c80892afb5a251c9ae1a1c62086dce16454e2de21ef6f76ee7db5df2cc6546af
 normalized_title_hash: 8af13154654b050e

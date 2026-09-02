@@ -17,6 +17,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Wirestock, a platform connecting content creators with AI companies seeking lice
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-25-stability-ai-raises-76m-series-b-backed-by-universal-warner]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]] · [[2026-09-02-ai-sales-orchestration-startup-clay-raises-at-7b-valuation]]
 <!-- graph:end -->

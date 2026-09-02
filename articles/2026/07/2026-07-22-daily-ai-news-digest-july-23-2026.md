@@ -24,6 +24,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -45,6 +46,6 @@ Capex outpaces the frontier. Alphabet beat on revenue with 82% Google Cloud grow
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[IBM]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-09-daily-ai-news-digest-july-10-2026]] · [[2026-07-26-daily-ai-news-digest-july-27-2026]] · [[2026-07-23-ai-s-capital-and-compute-race-outpaces-the-model-cycle]] · [[2026-07-11-daily-ai-news-digest-july-12-2026]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]]
 <!-- graph:end -->

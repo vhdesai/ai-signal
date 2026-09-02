@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ A new Nature paper argues AI’s most profound energy impact won’t come from d
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-08-14-hyperscaler-natural-gas-bets-may-create-new-ai-data-center-c]] · [[2026-07-10-microsoft-s-carbon-emissions-rose-25-as-the-ai-data-center-b]] · [[2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: Mistral AI secured $830M in its first-ever debt financing (BNP Paribas, H
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://thenextweb.com/news/mistral-ai-830m-debt-data-centre-paris
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: 9ff151709d1f8f1cae63576fda659b1ef456bb1f4783f557c1149c6244e91033
@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Mistral AI secured $830M in its first-ever debt financing (BNP Paribas, HSBC, an
 ## Connections
 
 **Entities:** [[Mistral]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f]] · [[2026-08-28-lambda-secures-1-billion-in-private-debt-to-buy-more-nvidia]] · [[2026-07-27-nvidia-in-talks-to-guarantee-250b-financing-for-openai-s-pla]] · [[2026-08-15-nvidia-reportedly-close-to-guaranteeing-about-100-billion-in]]
 <!-- graph:end -->

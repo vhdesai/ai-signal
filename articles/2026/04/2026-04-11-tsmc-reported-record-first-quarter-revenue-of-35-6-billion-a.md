@@ -23,6 +23,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -44,6 +46,6 @@ Cerebras Targeting April IPO at $22–25B Valuation AI chip startup Cerebras Sys
 ## Connections
 
 **Entities:** [[Cerebras]] · [[NVIDIA]] · [[TSMC]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-02-ai-chip-maker-cerebras-systems-is-targeting-a-raise-of-up-to]] · [[2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale]] · [[2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t]] · [[2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr]] · [[2026-05-10-cerebras-ipo-seeking-3-5b-at-26-6b-valuation]]
 <!-- graph:end -->

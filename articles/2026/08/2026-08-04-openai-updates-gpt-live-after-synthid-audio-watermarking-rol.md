@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: OpenAI Blog
 url_original: https://openai.com/index/introducing-gpt-live/
 url_canonical: https://openai.com/index/introducing-gpt-live/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-04_061719_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 5a6536e4f439820ffd5772f2a173b49a76abe36e556975d5e021011629387be6

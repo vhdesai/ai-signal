@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: CNBC (first reported by The Information, Aug 26) · Nvidia, Hugging Face
 url_original: https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html
 url_canonical: https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: a4b27b4fde23ad724bad3e95488f3c122fa869dfca8c7e5613a48697140cf9be
@@ -19,6 +19,7 @@ entities:
 - Salesforce
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Nvidia has reportedly agreed to buy open-source model hub Hugging Face for $12.9
 ## Connections
 
 **Entities:** [[Google]] · [[NVIDIA]] · [[Salesforce]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion]] · [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-a-reported-12-9-billio]] · [[2026-08-26-nvidia-reportedly-agrees-to-acquire-hugging-face-for-12-9b]] · [[2026-08-27-nvidia-nears-12-9b-acquisition-of-hugging-face]] · [[2026-08-29-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion]]
 <!-- graph:end -->

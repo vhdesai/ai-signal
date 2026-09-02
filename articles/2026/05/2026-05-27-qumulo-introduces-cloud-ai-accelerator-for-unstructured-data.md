@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: AiThority
 url_original: https://aithority.com/
 url_canonical: https://aithority.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 25df211eace1c91f722781306e03e6d92cee8b2427bd9a6ea5cc798c6c435328
@@ -16,6 +16,7 @@ entities: []
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Qumulo announced a Cloud AI Accelerator service that connects its unstructured-d
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for]] · [[2026-07-16-nokia-and-nvidia-unveil-first-commercial-ai-ran-platform]] · [[2026-08-04-runware-launches-a-modular-inference-data-center-pod]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-08-04-nvidia-pushes-ai-storage-stack-at-future-of-memory-and-stora]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - Cerebras
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Cerebras and Compute Nordic announced a new AI data center in Mikkeli, Finland, 
 ## Connections
 
 **Entities:** [[Cerebras]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da]] · [[2026-07-09-cerebras-accelerates-european-expansion-with-200mw-of-ai-com]] · [[2026-07-29-cerebras-signs-10-year-ai-colocation-deal-with-cleancore-sol]]
 <!-- graph:end -->

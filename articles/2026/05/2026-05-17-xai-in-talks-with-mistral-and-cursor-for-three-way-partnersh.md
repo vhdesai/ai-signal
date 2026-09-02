@@ -23,6 +23,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -44,6 +45,6 @@ Elon Musk's xAI — now part of SpaceX following a $1.25 trillion merger — is 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Mistral]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch]] · [[2026-05-11-trendingxai-pursues-triple-alliance-with-cursor-and-mistral]] · [[2026-05-23-xai-mistral-cursor-partnership-talks-gain-definition]] · [[2026-05-16-elon-musk-s-xai-is-pursuing-a-three-way-alliance-with-french]]
 <!-- graph:end -->

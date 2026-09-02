@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Cerebras Systems fell over 18% premarket after missing key estimates despite soa
 ## Connections
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-23-cerebras-shares-fall-10-on-first-earnings-report-as-a-public]] · [[2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14]] · [[2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-08-13-cerebras-shares-fall-16-despite-revenue-growth-and-25b-backl]]
 <!-- graph:end -->

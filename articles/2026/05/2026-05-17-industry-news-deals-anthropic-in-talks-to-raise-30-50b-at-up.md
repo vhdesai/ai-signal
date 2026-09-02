@@ -26,6 +26,9 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- ma-activity
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -43,6 +46,6 @@ event_name: ''
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Cerebras]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]]
 <!-- graph:end -->

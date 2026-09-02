@@ -18,6 +18,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Microsoft reported quarterly profit of $35.8 billion, a 31% surge that beat cons
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-29-microsoft-beats-on-fq4-as-azure-grows-43-shares-jump-8]] · [[2026-07-30-microsoft-fq4-azure-43-crosses-100b-run-rate-30m-copilot-sea]] · [[2026-07-30-microsoft-profit-jumps-31-as-azure-growth-accelerates-and-co]] · [[2026-07-29-microsoft-s-fiscal-q4-beat-lifts-shares-8-as-it-raises-ai-dr]]
 <!-- graph:end -->

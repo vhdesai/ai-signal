@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ A May 8 analysis flags mounting structural evidence that Nvidia's AI chip franch
 ## Connections
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-08-06-nvidia-still-dominates-ai-chips-but-bofa-sees-amd-closing-in]] · [[2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia]] · [[2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]]
 <!-- graph:end -->

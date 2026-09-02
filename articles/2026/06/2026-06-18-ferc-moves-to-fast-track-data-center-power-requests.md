@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ FERC approved orders for ~90-day handling of large-load interconnection while im
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-07-04-ai-data-centers-trigger-a-third-u-s-federal-grid-emergency-i]] · [[2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]]
 <!-- graph:end -->

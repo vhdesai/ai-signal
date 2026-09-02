@@ -16,6 +16,7 @@ entities: []
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Duties on assembled servers and networking gear cascade through every data-cente
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-28-semiconductor-tariff-phase-2-weighed-for-servers-and-laptops]] · [[2026-08-27-u-s-weighs-a-broader-semiconductor-tariff-regime-covering-se]] · [[2026-08-28-phase-2-chip-tariffs-would-strip-data-center-exemptions]] · [[2026-08-08-ai-data-center-imports-are-largely-exempt-from-us-tariffs]]
 <!-- graph:end -->

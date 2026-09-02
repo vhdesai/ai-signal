@@ -17,6 +17,7 @@ entities:
 - Tencent
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ Tencent and Alibaba are in advanced talks to anchor DeepSeek's first external fu
 ## Connections
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[Tencent]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek]] · [[2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab]] · [[2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-04-25-tencent-alibaba-in-advanced-talks-to-back-deepseek-s-first-e]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-08-31'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/healthcare/articles/ai-disruption-electronic-health-records-075900231.html
 url_canonical: https://finance.yahoo.com/healthcare/articles/ai-disruption-electronic-health-records-075900231.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-31_060941_Inbox_Daily AI News Digest – August 31,
   2026.md
 content_hash: f94259dabbb1e6cbb40d2a6243408e5469f82a45030a897c77b8cb546be2f258
@@ -17,6 +17,7 @@ entities: []
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Yahoo Finance reports that disclosed venture funding into AI-enabled electronic 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]]
 <!-- graph:end -->

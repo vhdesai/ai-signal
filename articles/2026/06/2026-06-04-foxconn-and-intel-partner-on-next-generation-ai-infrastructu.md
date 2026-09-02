@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-06-04/foxconn-announces-strategic-collaboration-with-intel-on-next-gen-ai-infrastructure
 url_canonical: https://money.usnews.com/investing/news/articles/2026-06-04/foxconn-announces-strategic-collaboration-with-intel-on-next-gen-ai-infrastructure
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: c2bbe289fae647d448d7a42cc535a920abb2c8121c4a751c94f36d610540d7b1
@@ -17,6 +17,7 @@ entities:
 - Intel
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Foxconn and Intel announced a strategic collaboration spanning silicon, rack, sy
 ## Connections
 
 **Entities:** [[Intel]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing]] · [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex]] · [[2026-05-15-intel-and-mclaren-partnership-puts-data-in-the-fast-lane]] · [[2026-06-20-vivatech-2026-in-paris-wrapped-its-10th-anniversary-edition]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]]
 <!-- graph:end -->

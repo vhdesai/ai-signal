@@ -16,6 +16,7 @@ entities:
 - Huawei
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -33,6 +34,6 @@ Reuters reports that Huawei’s first-half profit decline accelerated as rising 
 ## Connections
 
 **Entities:** [[Huawei]]
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-31-huawei-h1-2026-net-profit-falls-36-as-ai-related-r-d-spendin]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-07-29/meta-narrows-annual-capex-forecast-as-ai-buildout-grows
 url_canonical: https://money.usnews.com/investing/news/articles/2026-07-29/meta-narrows-annual-capex-forecast-as-ai-buildout-grows
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-30_062819_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: aa3430ce467f4bd5b82f2cd7a14a4b9793f5f5fd330e9856d4c0d000e2c2c3a3
@@ -16,6 +16,7 @@ entities:
 - Meta
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Meta's Q2 2026 free cash flow collapsed 91% year over year to $784M (from $8.55B
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-30-meta-q4-profit-falls-14-free-cash-flow-plunges-91-as-capex-n]] · [[2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex]] · [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]] · [[2026-08-20-meta-s-ai-positioning-lags-alphabet-microsoft-and-amazon-as]]
 <!-- graph:end -->

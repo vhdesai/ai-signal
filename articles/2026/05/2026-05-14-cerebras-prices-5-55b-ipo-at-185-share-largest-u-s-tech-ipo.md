@@ -22,6 +22,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -43,6 +44,6 @@ Cerebras priced its Nasdaq debut above the $150–$160 marketed range at $185, r
 ## Connections
 
 **Entities:** [[Amazon]] · [[Arm]] · [[Cerebras]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-14-cerebras-systems-prices-5-55b-ipo-at-185-share-largest-u-s-t]] · [[2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation]] · [[2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u]] · [[2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68]] · [[2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation]]
 <!-- graph:end -->

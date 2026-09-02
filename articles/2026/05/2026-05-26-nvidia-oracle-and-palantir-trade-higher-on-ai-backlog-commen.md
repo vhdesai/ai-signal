@@ -22,6 +22,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -43,6 +44,6 @@ US AI-exposed equities — Nvidia, Oracle, Palantir, and IBM — traded higher o
 ## Connections
 
 **Entities:** [[IBM]] · [[NVIDIA]] · [[Oracle]] · [[Palantir]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump]] · [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments]] · [[2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade]] · [[2026-08-28-axios-nvidia-almighty-chip-profits-recycled-across-the-ai-ec]] · [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Buying Anthropic shares on secondary markets has become extraordinarily competit
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]] · [[2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an]] · [[2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren]]
 <!-- graph:end -->

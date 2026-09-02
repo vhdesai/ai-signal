@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Anthropic reportedly gave investors a 48-hour allocation window for a $50B raise
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-26-anthropic-closing-30b-round-at-900b-valuation]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]] · [[2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope]] · [[2026-05-15-hot-anthropic-closing-in-on-900b-valuation-in-new-30b-fundin]]
 <!-- graph:end -->

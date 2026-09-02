@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/
 url_canonical: https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-08_060643_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 557691a9522c7138b34c8409786c227f40bd16ce7722e466c20f4630a107316a

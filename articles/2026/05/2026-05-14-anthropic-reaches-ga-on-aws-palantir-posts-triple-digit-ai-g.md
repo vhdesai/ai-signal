@@ -22,6 +22,7 @@ entities:
 themes:
 - policy-regulation
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +43,6 @@ Anthropic's Claude family moved to general availability across the AWS catalog, 
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]] · [[OpenAI]] · [[Palantir]]
-**Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]]
 <!-- graph:end -->

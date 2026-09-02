@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: TechRepublic
 url_original: https://www.techrepublic.com/article/news-spacex-cursor-ai-coding-agents-iphone/
 url_canonical: https://www.techrepublic.com/article/news-spacex-cursor-ai-coding-agents-iphone/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-01_062608_Inbox_Daily AI News Digest - July 1,
   2026.md
 content_hash: fae5efc869c3d13df2add8136303bdd1879576e04421602f03cd5453358fb613
@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le
@@ -34,6 +35,6 @@ Cursor — the AI coding platform whose parent, Anysphere, agreed to a roughly $
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le]]
 <!-- graph:end -->

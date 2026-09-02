@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Anthropic shared investor projections showing $10.9 billion in Q2 2026 revenue �
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-21-anthropic-hits-first-profit-559m-on-10-9b-q2-revenue]] · [[2026-05-20-anthropic-revenue-explosive-growth-brings-ipo-and-profitable]] · [[2026-08-15-anthropic-posts-11-5b-q2-revenue-and-its-first-profitable-qu]] · [[2026-08-17-anthropic-s-annualized-revenue-surges-to-65b-ipo-expected-th]]
 <!-- graph:end -->

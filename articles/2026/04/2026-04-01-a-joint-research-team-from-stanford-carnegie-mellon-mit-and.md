@@ -16,6 +16,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ A joint research team from Stanford, Carnegie Mellon, MIT, and the University of
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-02-research-breakthroughs]] · [[2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps]]
 <!-- graph:end -->

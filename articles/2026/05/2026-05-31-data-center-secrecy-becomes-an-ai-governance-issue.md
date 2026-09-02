@@ -5,7 +5,7 @@ date: '2026-05-31'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/
 url_canonical: https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: 9e3b04eed94304495f570ad28d461b35e6920ad199d57b0fb1f9422c0aaf0cc8
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ TechCrunch reported that Erin Brockovich is targeting secrecy around data-center
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-31-erin-brockovich-takes-aim-at-data-center-secrecy]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-08-09-historian-jill-lepore-argues-silicon-valley-s-government-by]] · [[2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: The Wall Street Journal
 url_original: https://finance.yahoo.com/technology/ai/articles/google-moves-ai-responsibility-team-134146705.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/google-moves-ai-responsibility-team-134146705.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_065356_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 31b5d67336118f13b02694ad42e6d7bfc8188fea273c3139fa99422316bb8683

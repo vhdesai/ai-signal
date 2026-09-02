@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ MAI-Thinking-1: Microsoft AI's first reasoning model, described as a 35B active-
 ## Connections
 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model]] · [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20]] · [[2026-04-10-microsoft-ai-released-three-proprietary-foundational-models]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]]
 <!-- graph:end -->

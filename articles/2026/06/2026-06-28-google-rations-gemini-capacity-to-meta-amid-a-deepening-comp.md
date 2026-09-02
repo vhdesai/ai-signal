@@ -17,6 +17,7 @@ entities:
 - Meta
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-28-google-caps-meta-s-gemini-usage-as-compute-scarcity-bites
@@ -34,7 +35,7 @@ Google has capped Meta's purchases of Gemini model capacity after Meta sought mo
 ## Connections
 
 **Entities:** [[Google]] · [[Meta]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-06-28-google-caps-meta-s-gemini-usage-as-compute-scarcity-bites]]
 **Related:** [[2026-06-28-per-a-financial-times-report-google-told-meta-around-march-t]]
 <!-- graph:end -->

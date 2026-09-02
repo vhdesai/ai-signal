@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ The enterprise services joint venture formed by Anthropic, Blackstone, and Hellm
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-20-anthropic-s-enterprise-jv-ode-makes-first-acquisition-buys-a]] · [[2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman]] · [[2026-08-20-anthropic-s-enterprise-ai-joint-venture-acquires-consultancy]] · [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]]
 <!-- graph:end -->

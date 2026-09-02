@@ -16,6 +16,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Marvell's expanding role in hyperscaler ASIC programs is being framed as the mos
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-06-02-jensen-huang-says-marvell-could-be-the-next-trillion-dollar]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real]] · [[2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil]]
 <!-- graph:end -->

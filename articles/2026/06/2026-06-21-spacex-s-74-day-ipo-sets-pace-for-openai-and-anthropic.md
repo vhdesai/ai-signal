@@ -5,7 +5,7 @@ date: '2026-06-21'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=SpaceX+IPO+74+days+OpenAI+Anthropic
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=SpaceX+IPO+74+days+OpenAI+Anthropic
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-22_085442_Final-Daily-AI-News-Digest.md
 content_hash: 47c4a30bb11d0519b3cc26e30355a691c433481fcefebfead062a41e15cb299d
 normalized_title_hash: b7b9f54d54d3f8b5
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ SpaceX went from confidential filing to listing in just 74 days, far faster than
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-23-anthropic-signals-an-ipo-that-could-beat-spacex-s-86-billion]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-08-24-anthropic-s-ipo-could-break-spacex-s-recordtrending]] · [[2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and]]
 <!-- graph:end -->

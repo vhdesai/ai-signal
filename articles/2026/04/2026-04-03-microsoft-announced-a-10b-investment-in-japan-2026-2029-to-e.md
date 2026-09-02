@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Microsoft announced a $10B investment in Japan (2026–2029) to expand AI infras
 ## Connections
 
 **Entities:** [[Microsoft]] · [[Oracle]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen]] · [[2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g]] · [[2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]] · [[2026-04-02-oracle-began-notifying-thousands-of-employees-across-the-u-s]]
 <!-- graph:end -->

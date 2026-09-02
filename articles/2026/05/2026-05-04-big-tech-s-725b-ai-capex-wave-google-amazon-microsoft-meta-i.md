@@ -19,6 +19,7 @@ entities:
 - Microsoft
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
@@ -35,6 +36,6 @@ Google, Amazon, Microsoft, and Meta are collectively projecting $725 billion in 
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]]
 <!-- graph:end -->

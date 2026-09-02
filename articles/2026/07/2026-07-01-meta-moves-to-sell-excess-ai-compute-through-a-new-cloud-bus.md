@@ -5,7 +5,7 @@ date: '2026-07-01'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html
 url_canonical: https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-03_062005_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: e3244560fefab604311d0edae89645d69f2539f4635746b10e39a46769588a1d
@@ -16,6 +16,7 @@ entities:
 - Meta
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Meta shares closed up nearly 9% after reports (first from Bloomberg, confirmed b
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute]] · [[2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]]
 <!-- graph:end -->

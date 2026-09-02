@@ -6,7 +6,7 @@ date: '2026-08-15'
 source: CNBC · The Wall Street Journal
 url_original: https://www.cnbc.com/2026/08/15/nvidia-mulls-3b-investment-in-sb-energy-in-openai-data-center-deal-report.html
 url_canonical: https://www.cnbc.com/2026/08/15/nvidia-mulls-3b-investment-in-sb-energy-in-openai-data-center-deal-report.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-16_065100_Final-Daily-AI-News-Digest.md
 content_hash: 55b2faef66948e678cd2fedce26f980eb0649e9565cf7bf59c2884bab9c9580d
 normalized_title_hash: d06f17a37ce8e677
@@ -18,6 +18,8 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai
@@ -34,6 +36,6 @@ Nvidia is in talks to invest up to $3 billion in SB Energy, the SoftBank subsidi
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai]]
 <!-- graph:end -->

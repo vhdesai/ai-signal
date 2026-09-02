@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ OpenAI has raised more than $4 billion at a $10B pre-money valuation for a new j
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-18-openai-established-the-openai-deployment-company-a-majority]] · [[2026-05-11-openai-launches-4b-deployco-ai-services-venture]] · [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult]] · [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]]
 <!-- graph:end -->

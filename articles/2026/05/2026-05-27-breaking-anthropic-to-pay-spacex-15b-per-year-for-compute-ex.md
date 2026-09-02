@@ -6,7 +6,7 @@ date: '2026-05-27'
 source: Axios AI+
 url_original: https://www.axios.com/
 url_canonical: https://www.axios.com/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: d4c7590f8a12dc24e19eb0a278dd4d7d7aec64c6dad5e379d61428e9ef5c13c4
@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Axios reports Anthropic is on track to pay SpaceX approximately $15 billion annu
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract]] · [[2026-05-21-spacex-s-1-reveals-45b-anthropic-compute-deal]] · [[2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029]]
 <!-- graph:end -->

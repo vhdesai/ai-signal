@@ -29,6 +29,8 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -50,6 +52,6 @@ Micron and SK Hynix join the trillion-dollar club on AI memory demand Memory chi
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Apple]] · [[ByteDance]] · [[DeepSeek]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for]] · [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand]]
 <!-- graph:end -->

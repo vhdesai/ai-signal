@@ -17,6 +17,7 @@ entities:
 - Google
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ TechCrunch reported today that Google and SpaceX are in early talks to co-develo
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-07-17-spacex-reportedly-discusses-providing-compute-for-pentagon-a]] · [[2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory]] · [[2026-08-21-starcloud-raises-250m-at-a-2-3b-valuation-for-orbital-data-c]] · [[2026-08-21-starcloud-raises-250-million-for-orbital-ai-data-centers]]
 <!-- graph:end -->

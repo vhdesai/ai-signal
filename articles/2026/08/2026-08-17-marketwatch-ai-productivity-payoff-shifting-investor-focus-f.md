@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ MarketWatch identifies 20 stocks positioned to capture gains as AI adoption move
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-22-goldman-sachs-assesses-when-ai-will-deliver-meaningful-earni]] · [[2026-08-22-goldman-sachs-assesses-when-ai-will-begin-delivering-meaning]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-08-23-study-finds-90-of-executives-report-no-ai-productivity-gain]]
 <!-- graph:end -->

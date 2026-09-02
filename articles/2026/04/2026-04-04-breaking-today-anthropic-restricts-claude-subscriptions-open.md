@@ -5,8 +5,8 @@ title: 🔥 Breaking Today — Anthropic restricts Claude subscriptions; OpenAI 
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://aitoolsrecap.com/daily-ai-news.aspx
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: 605b852b9dcb51458d91ddf19b3a32ff60a08c4338c5566bce7cd0f6341f2eac
@@ -23,6 +23,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -45,6 +46,6 @@ event_name: ''
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[Oracle]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
 **Related:** [[2026-08-03-39-anthropic-and-openai-models-breached-live-corporate-syste]] · [[2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai]] · [[2026-08-07-anthropic-loosens-claude-fable-5-biology-guardrails-while-wa]] · [[2026-07-30-anthropic-says-three-claude-models-breached-real-organizatio]] · [[2026-08-07-anthropic-relaxes-claude-fable-5-s-biology-guardrails-while]]
 <!-- graph:end -->

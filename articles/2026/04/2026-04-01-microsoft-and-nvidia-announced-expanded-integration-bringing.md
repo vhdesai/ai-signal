@@ -5,8 +5,8 @@ title: Microsoft and NVIDIA announced expanded integration, bringing NVIDIA's Ne
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://developer.nvidia.com/topics/ai/nemotron
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: 0c46ddd2c887d96c8ba72431125e23f23c8d638155706eef6b97b4fd5c1de13f
@@ -21,6 +21,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +43,6 @@ Microsoft and NVIDIA announced expanded integration, bringing NVIDIA's Nemotron 
 ## Connections
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]] · [[2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]]
 <!-- graph:end -->

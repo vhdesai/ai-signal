@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-23-hugging-face-has-been-fielding-m-a-interest-for-a-deal-worth
@@ -35,7 +36,7 @@ Business Insider reported that Hugging Face has been fielding acquisition intere
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-23-hugging-face-has-been-fielding-m-a-interest-for-a-deal-worth]]
 **Related:** [[2026-08-24-hugging-face-draws-m-a-interest]] · [[2026-08-23-hugging-face-explores-a-sale-at-13b-nearly-triple-its-2023-v]] · [[2026-08-23-hugging-face-fielding-m-a-interest-at-13-billion]]
 <!-- graph:end -->

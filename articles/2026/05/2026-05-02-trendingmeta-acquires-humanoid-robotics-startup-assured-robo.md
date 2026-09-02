@@ -14,7 +14,8 @@ tags: []
 entities:
 - Meta
 - Tesla
-themes: []
+themes:
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-02-meta-has-acquired-assured-robot-intelligence-ari-a-humanoid
@@ -31,5 +32,6 @@ Meta acquired Assured Robot Intelligence — founded a year ago by Xiaolong Wang
 ## Connections
 
 **Entities:** [[Meta]] · [[Tesla]]
+**Topics:** [[M&A Activity]]
 **Canonical:** [[2026-05-02-meta-has-acquired-assured-robot-intelligence-ari-a-humanoid]]
 <!-- graph:end -->

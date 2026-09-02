@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: AWS
 url_original: https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/
 url_canonical: https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_061741_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: c02c417bab92b52cf41ccadb26d8e9462d659c528f38a500dcc701ee68b231b6

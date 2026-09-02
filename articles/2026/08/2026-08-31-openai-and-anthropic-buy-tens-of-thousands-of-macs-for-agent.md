@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ OpenAI has acquired tens of thousands of Apple desktop systems for reinforcement
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]]
 **Related:** [[2026-08-31-openai-buys-tens-of-thousands-of-mac-minis-and-mac-studios-t]] · [[2026-08-31-openai-reportedly-buys-tens-of-thousands-of-mac-minis-and-ma]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]] · [[2026-03-24-anthropic-claude-gets-computer-use-on-mac-desktop-automation]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-15-anthropic-posts-11-5b-q2-revenue-and-its-first-profitable-qu
@@ -33,6 +34,6 @@ Preliminary Q2 revenue exceeded $11.5B — ~14× year-ago, >2× Q1 — with posi
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-15-anthropic-posts-11-5b-q2-revenue-and-its-first-profitable-qu]]
 <!-- graph:end -->

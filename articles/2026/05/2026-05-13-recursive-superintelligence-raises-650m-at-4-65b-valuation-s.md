@@ -18,6 +18,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Recursive Superintelligence emerged from stealth with a record $650 million Seri
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b]] · [[2026-07-28-recursive-superintelligence-signs-410-million-compute-deal-w]] · [[2026-07-28-recursive-signs-410m-multi-year-aws-deal-to-scale-self-impro]] · [[2026-07-28-recursive-superintelligence-signs-410m-compute-deal-with-ama]] · [[2026-07-28-aws-signs-a-410m-compute-deal-with-recursive-superintelligen]]
 <!-- graph:end -->

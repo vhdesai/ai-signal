@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature
@@ -33,6 +34,6 @@ Meta removed a newly launched feature that let users generate images by @-mentio
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature]]
 <!-- graph:end -->

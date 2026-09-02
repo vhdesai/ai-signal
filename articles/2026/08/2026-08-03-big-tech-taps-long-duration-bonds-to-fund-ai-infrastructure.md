@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ The Wall Street Journal reported that large technology companies are borrowing f
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure]] · [[2026-08-03-how-to-play-the-flood-of-ai-bonds]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-08-03-long-duration-bond-issuance-for-ai-infrastructure-shows-that]] · [[2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it]]
 <!-- graph:end -->

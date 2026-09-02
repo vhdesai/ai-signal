@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: PR Newswire · Read article →
 url_original: https://www.manilatimes.net/2026/08/04/tmt-newswire/pr-newswire/sk-hynix-unveils-first-hbf-standard-specifications-with-sandisk-presenting-ai-memory-solutions-at-fms-2026/2397569
 url_canonical: https://www.manilatimes.net/2026/08/04/tmt-newswire/pr-newswire/sk-hynix-unveils-first-hbf-standard-specifications-with-sandisk-presenting-ai-memory-solutions-at-fms-2026/2397569
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-04_061155_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: fcac9b5894832dfcc4f510d98677c9b5a16419a32b83aa549ac42bf21000909a
@@ -18,6 +18,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ At FMS 2026, SK hynix and Sandisk introduced the first High-Bandwidth Flash (HBF
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-04-sk-hynix-and-sandisk-publish-the-first-hbf-standard-expandin]] · [[2026-08-04-sk-hynix-and-sandisk-publish-the-first-hbf-memory-standard-a]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]]
 <!-- graph:end -->

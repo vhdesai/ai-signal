@@ -27,6 +27,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -48,6 +50,6 @@ Nvidia Invests $2B in Marvell, Launches NVLink Fusion — Opens AI Ecosystem to 
 ## Connections
 
 **Entities:** [[Meta]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-08-11-daily-ai-news-digest-august-12-2026]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus]]
 <!-- graph:end -->

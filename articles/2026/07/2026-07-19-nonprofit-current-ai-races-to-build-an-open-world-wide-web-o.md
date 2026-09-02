@@ -5,7 +5,7 @@ date: '2026-07-19'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/
 url_canonical: https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-20_065739_Final-Daily-AI-News-Digest.md
 content_hash: fe28e2497b3933e8e4bbf40f33bc920cea2e42d5599d5150f73f981c8742ac8e
 normalized_title_hash: be65170a40228180
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-19-current-ai-races-to-build-public-interest-ai-infrastructure
@@ -31,6 +32,6 @@ TechCrunch profiled Current AI, a nonprofit building freely available AI infrast
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-19-current-ai-races-to-build-public-interest-ai-infrastructure]]
 <!-- graph:end -->

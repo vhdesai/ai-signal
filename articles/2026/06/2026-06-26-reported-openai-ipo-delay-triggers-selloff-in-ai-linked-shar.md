@@ -16,6 +16,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Shares of Japanese NAND-flash maker Kioxia fell about 12% on Friday after report
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr]] · [[2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for]] · [[2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat]]
 <!-- graph:end -->

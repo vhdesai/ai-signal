@@ -6,7 +6,7 @@ date: '2026-08-24'
 source: '[Firstpost]'
 url_original: https://www.firstpost.com/tech/nvidia-puts-groq-3-lpx-into-full-production-racks-set-to-go-online-this-year-14040482.html
 url_canonical: https://www.firstpost.com/tech/nvidia-puts-groq-3-lpx-into-full-production-racks-set-to-go-online-this-year-14040482.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-25_061146_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 31520a242a493508644e1fe3122bd25fe3a2d528c03f035a33715e82dab78db0
@@ -23,6 +23,7 @@ entities:
 - TSMC
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -44,6 +45,6 @@ Nvidia announced full production of the Groq 3 LPX rack, commercializing technol
 ## Connections
 
 **Entities:** [[AMD]] · [[Cerebras]] · [[NVIDIA]] · [[OpenAI]] · [[Samsung]] · [[TSMC]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-24-nvidia-says-groq-racks-will-be-online-this-year-following-20]] · [[2026-05-14-nvidia-s-vera-rubin-platform-featuring-72-rubin-gpus-with-hb]] · [[2026-08-25-nvidia-announces-new-vera-cpu-and-groq-lpx-rack-customers]] · [[2026-08-25-nvidia-announces-new-customers-for-vera-cpu-and-groq-lpx-rac]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]]
 <!-- graph:end -->

@@ -23,6 +23,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -45,6 +46,6 @@ ________________________________ The last 24 hours were defined less by capabili
 ## Connections
 
 **Entities:** [[Alibaba]] · [[AMD]] · [[DeepSeek]] · [[Meta]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le]] · [[2026-06-26-daily-ai-news-digest-june-26-2026]]
 <!-- graph:end -->

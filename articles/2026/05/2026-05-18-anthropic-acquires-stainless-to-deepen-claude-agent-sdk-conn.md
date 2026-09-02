@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-18-anthropic-acquires-stainless-and-expands-the-claude-platform
@@ -34,6 +35,6 @@ Anthropic acquired Stainless, a developer tooling company specializing in API SD
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-05-18-anthropic-acquires-stainless-and-expands-the-claude-platform]]
 <!-- graph:end -->

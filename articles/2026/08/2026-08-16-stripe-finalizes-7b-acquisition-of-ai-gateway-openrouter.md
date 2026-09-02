@@ -5,7 +5,7 @@ date: '2026-08-16'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/
 url_canonical: https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-17_163645_Final-Daily-AI-News-Digest.md
 content_hash: 9d91e2ea9d10167bd6f0f17e6823a6e44ca89ffb07c67005ea68624ea7903ae8
 normalized_title_hash: 6d4657efcb000fd2
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Stripe has agreed to acquire OpenRouter, the routing layer that gives developers
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-16-stripe-to-acquire-ai-gateway-startup-openrouter-for-more-tha]] · [[2026-08-16-stripe-reportedly-acquires-ai-gateway-startup-openrouter-for]] · [[2026-08-19-stripe-to-acquire-ai-model-marketplace-openrouter]] · [[2026-08-16-stripe-will-reportedly-acquire-ai-gateway-startup-openrouter]] · [[2026-08-16-stripe-openrouter-7b-deal-signals-payments-giant-s-ai-infras]]
 <!-- graph:end -->

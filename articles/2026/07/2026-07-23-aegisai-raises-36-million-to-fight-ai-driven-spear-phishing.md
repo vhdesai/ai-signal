@@ -18,6 +18,7 @@ entities:
 - Google
 themes:
 - policy-regulation
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ AegisAI, founded by former Google security executives, raised a $36 million Seri
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]]
 **Related:** [[2026-07-28-bot-detection-startup-spur-raises-200m-from-insight-partners]] · [[2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-a-2-5b-va]] · [[2026-08-26-ai-assistant-startup-instinct-raises-350m-at-2-5b-despite-pr]] · [[2026-08-26-instinct-raises-350m-at-a-2-5b-valuation-before-public-launc]] · [[2026-07-15-indian-ai-coding-startup-emergent-becomes-a-unicorn-with-130]]
 <!-- graph:end -->

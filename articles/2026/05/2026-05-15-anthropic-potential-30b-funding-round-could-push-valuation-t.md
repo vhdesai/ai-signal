@@ -5,7 +5,7 @@ date: '2026-05-15'
 source: The AI Track
 url_original: https://theaitrack.com/ai-news-may-2026-in-depth-and-concise/
 url_canonical: https://theaitrack.com/ai-news-may-2026-in-depth-and-concise/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: b24c28f02005593aea734d6a36b5fef42b1b94d6a6ed42e4fbcd2c431ba4ca88
@@ -20,6 +20,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
@@ -36,6 +38,6 @@ Reports indicate Anthropic is in active discussions for a funding round of appro
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]]
 <!-- graph:end -->

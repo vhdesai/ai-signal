@@ -16,7 +16,8 @@ tags: []
 entities:
 - Anthropic
 - OpenAI
-themes: []
+themes:
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,5 +39,6 @@ Senior figures inside SoftBank are reportedly questioning whether Son's $60B Ope
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
+**Topics:** [[Company Investments]]
 **Related:** [[2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet]] · [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake]] · [[2026-04-16-the-financial-times-reports-that-some-of-openai-s-own-invest]] · [[2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak]]
 <!-- graph:end -->

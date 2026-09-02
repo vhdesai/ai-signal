@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Blue Owl–managed funds led a $2.4 billion equipment financing for IREN's AI fa
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
 <!-- graph:end -->

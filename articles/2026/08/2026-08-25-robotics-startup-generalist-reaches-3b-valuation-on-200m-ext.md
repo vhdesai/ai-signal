@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/
 url_canonical: https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-26_062133_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: b45f6f9db3f14d412225356f26dea9eeb28a3a7ec74073b93942f35dcf43edc7
@@ -16,6 +16,7 @@ entities: []
 themes:
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte
@@ -31,6 +32,6 @@ Physical AI company Generalist has reached a $3 billion valuation via a $200 mil
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte]]
 <!-- graph:end -->

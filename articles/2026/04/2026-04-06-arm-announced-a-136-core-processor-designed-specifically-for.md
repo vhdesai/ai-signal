@@ -5,8 +5,8 @@ title: Arm announced a 136-core processor designed specifically for AGI workload
 date: '2026-04-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://circuitdigest.com/news/arm-agi-cpu-debuts-with-136-cores-focuses-on-ai-infrastructure
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-06_070950_Inbox_Daily AI News Digest – April 6,
   2026.md
 content_hash: bc5a569d702fc10667507ec7a70d35de49a1ce8c80d8732e708d15e85fc8388a
@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Arm announced a 136-core processor designed specifically for AGI workloads — i
 ## Connections
 
 **Entities:** [[Arm]] · [[Meta]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-02-trending-arm-holdings-unveils-first-agi-optimized-cpu-archit]] · [[2026-04-02-arm-holdings-whose-instruction-set-architecture-underpins-ch]] · [[2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in]] · [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t]] · [[2026-07-09-meta-to-move-its-in-house-iris-ai-chip-into-production-in-se]]
 <!-- graph:end -->

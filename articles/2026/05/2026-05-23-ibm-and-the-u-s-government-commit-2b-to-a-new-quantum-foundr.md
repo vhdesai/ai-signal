@@ -17,6 +17,7 @@ entities:
 - IBM
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ IBM and the U.S. government announced a $2 billion investment in a new quantum f
 ## Connections
 
 **Entities:** [[IBM]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-21-ibm-commerce-dept-launch-anderon-america-s-first-quantum-com]] · [[2026-05-21-u-s-to-invest-2-billion-in-ibm-other-quantum-computing-firms]] · [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s]] · [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe]] · [[2026-07-16-tsmc-reportedly-plans-another-100b-u-s-investment-as-ai-dema]]
 <!-- graph:end -->

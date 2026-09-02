@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Newly released U.S. law-enforcement documents show DHS, the FBI, and other feder
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-02-the-u-s-department-of-defense-has-expanded-its-ai-infrastruc]] · [[2026-06-29-a-chinese-cybersecurity-company-is-building-offensive-and-de]] · [[2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta]] · [[2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-22'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/
 url_canonical: https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-23_065018_Final-Daily-AI-News-Digest.md
 content_hash: a330f20659cd73221930e65a8a43aec75d1791b5ff5f439a7da1cc59a6b3d477
 normalized_title_hash: c679b7ded0e5259c
@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ OpenAI will spend $750 billion on infrastructure through 2030 — roughly 25% mo
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-22-openai-s-planned-ai-infrastructure-spending-rises-to-750-bil]] · [[2026-07-22-openai-announces-project-camellia-a-30b-georgia-data-center]] · [[2026-07-23-openai-unveils-project-camellia-a-30b-3-2-gw-data-center-cam]] · [[2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga]]
 <!-- graph:end -->

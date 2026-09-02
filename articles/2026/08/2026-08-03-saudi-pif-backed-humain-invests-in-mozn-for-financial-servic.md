@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ AiThority republished a PR Newswire item announcing that HUMAIN, Saudi Arabia's 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-03-humain-s-investment-in-mozn-shows-sovereign-ai-strategies-mo]] · [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig]] · [[2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap]] · [[2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise]] · [[2026-08-31-together-ai-takes-250-mw-of-saudi-capacity-from-humain-citin]]
 <!-- graph:end -->

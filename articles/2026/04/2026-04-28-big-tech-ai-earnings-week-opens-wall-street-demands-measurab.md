@@ -26,6 +26,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -47,6 +48,6 @@ Microsoft, Meta, Amazon, Alphabet, and Apple all report earnings this week in wh
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test]] · [[2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2]] · [[2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]]
 <!-- graph:end -->

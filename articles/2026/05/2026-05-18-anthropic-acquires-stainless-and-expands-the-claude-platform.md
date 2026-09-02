@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Anthropic acquired developer-tooling company Stainless to deepen its enterprise 
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-18-anthropic-acquires-stainless-to-deepen-claude-agent-sdk-conn]] · [[2026-05-12-anthropic-in-advanced-talks-to-acquire-stainless-for-300m]] · [[2026-05-19-anthropic-acquires-stainless-the-sdk-infrastructure-powering]] · [[2026-05-18-hot-anthropic-acquires-stainless-the-sdk-generator-used-by-o]] · [[2026-05-18-anthropic-acquires-dev-tools-startup-used-by-openai-google-a]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: SoyaCincau
 url_original: https://soyacincau.com/2026/08/20/tencent-cloud-malaysia-johor/
 url_canonical: https://soyacincau.com/2026/08/20/tencent-cloud-malaysia-johor/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 16620332d9be4b6ca3edfb292e37ad3d9ae0891c2cc0467150c82690c64278e7

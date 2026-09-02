@@ -19,6 +19,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -41,6 +42,6 @@ Nvidia approaches its Q1 print with the broader chip sector rallying on reaffirm
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-20-trending-nvidia-q1-fy2027-earnings-reports-after-market-clos]] · [[2026-08-25-nvidia-q2-fy27-earnings-land-today-as-the-ai-boom-s-scorecar]] · [[2026-08-26-nvidia-reports-fiscal-q2-results-today-amid-a-sharp-pre-prin]] · [[2026-08-26-nasdaq-futures-edge-lower-ahead-of-pce-data-and-nvidia-earni]] · [[2026-08-25-nvidia-q2-report-becomes-the-market-s-scorecard-for-ai-capex]]
 <!-- graph:end -->

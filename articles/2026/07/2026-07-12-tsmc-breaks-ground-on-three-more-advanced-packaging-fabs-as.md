@@ -6,7 +6,7 @@ date: '2026-07-12'
 source: Focus Taiwan
 url_original: https://focustaiwan.tw/business/202607120005
 url_canonical: https://focustaiwan.tw/business/202607120005
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - July
   13, 2026.md
 content_hash: d49b6db533de49e71013fc77425fd692024bfa3bf2e8ce1d069f13184b8af633
@@ -18,6 +18,7 @@ entities:
 - TSMC
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Three new CoWoS fabs at Chiayi Science Park — the bottleneck step gating AI-ac
 ## Connections
 
 **Entities:** [[TSMC]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-12-tsmc-breaks-ground-on-three-more-advanced-packaging-fabs-at]] · [[2026-07-16-tsmc-posts-record-q2-revenue-as-ai-chip-demand-holds]] · [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j]] · [[2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand]]
 <!-- graph:end -->

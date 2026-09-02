@@ -18,6 +18,7 @@ entities:
 - Microsoft
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Microsoft India and South Asia President Puneet Chandok confirmed that Microsoft
 ## Connections
 
 **Entities:** [[Amazon]] · [[Microsoft]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud]] · [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-08-06-google-s-15b-india-ai-data-center-faces-water-and-wildlife-o]] · [[2026-06-05-airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-indi]] · [[2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri]]
 <!-- graph:end -->

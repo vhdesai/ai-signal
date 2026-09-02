@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Power delivery and heat rejection — not compute procurement — are the pacing
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-29-trane-and-eaton-partner-on-electrical-and-thermal-systems-fo]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-08-11-babcock-wilcox-expands-its-position-in-ai-data-center-power]] · [[2026-07-25-one-fallen-power-line-exposes-a-growing-ai-data-center-probl]] · [[2026-07-13-hyperscaler-demand-turns-turbine-suppliers-into-an-ai-infras]]
 <!-- graph:end -->

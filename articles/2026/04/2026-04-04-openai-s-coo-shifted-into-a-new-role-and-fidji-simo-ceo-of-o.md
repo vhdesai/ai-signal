@@ -5,8 +5,8 @@ title: OpenAI's COO shifted into a new role, and Fidji Simo—CEO of OpenAI's AG
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: bae9efab9f44e51fed59a8339ed590a27e4417082c65874d9ade775c2c7b0ed7
@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ OpenAI's COO shifted into a new role, and Fidji Simo—CEO of OpenAI's AGI divis
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-08-11-openai-coo-brad-lightcap-departs-after-eight-years]] · [[2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai]]
 <!-- graph:end -->

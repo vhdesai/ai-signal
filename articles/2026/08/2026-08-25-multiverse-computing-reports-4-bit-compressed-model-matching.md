@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: Unite.AI
 url_original: https://www.unite.ai/multiverse-computings-4-bit-healing-beats-full-precision-model/
 url_canonical: https://www.unite.ai/multiverse-computings-4-bit-healing-beats-full-precision-model/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-26_111101_Final-Daily-AI-News-Digest.md
 content_hash: a708842e8f786161bcf86587c9bb7bd99d427599b69239cb166eb1fba4e6ade3
 normalized_title_hash: 25ef8e53b2aad9b3

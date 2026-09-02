@@ -6,7 +6,7 @@ date: '2026-08-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/
 url_canonical: https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-26_062133_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: c68e9d4e50d0e104a29570f0097b5039c4beb8308369cfc732b26913f4bbdf0e
@@ -16,6 +16,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-25-stability-ai-raises-76m-from-universal-music-sony-warner-and
@@ -31,6 +32,6 @@ Stability AI raised $76 million in Series B funding, bringing total capital rais
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-25-stability-ai-raises-76m-from-universal-music-sony-warner-and]]
 <!-- graph:end -->

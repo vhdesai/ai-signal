@@ -6,7 +6,7 @@ date: '2026-06-30'
 source: Yahoo News
 url_original: https://www.yahoo.com/news/politics/articles/california-state-agencies-50-off-103429469.html
 url_canonical: https://www.yahoo.com/news/politics/articles/california-state-agencies-50-off-103429469.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-30_061732_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 5e7b979d6da14fbad8c4b755e811f556ff01ca91f766ef55f3c87f2284d57778

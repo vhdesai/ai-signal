@@ -21,6 +21,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +43,6 @@ Andrej Karpathy — formerly of OpenAI, Tesla, and widely regarded as one of the
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]] · [[Tesla]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-19-andrej-karpathy-joins-anthropic-s-claude-pretraining-team]] · [[2026-05-19-andrej-karpathy-joins-anthropic-to-work-on-claude-pretrainin]] · [[2026-05-19-andrej-karpathy-joins-anthropic-to-rebuild-claude-pretrainin]] · [[2026-05-19-andrej-karpathy-joins-anthropic-to-lead-pretraining-research]] · [[2026-05-20-andrej-karpathy-joins-anthropic-s-pretraining-team]]
 <!-- graph:end -->

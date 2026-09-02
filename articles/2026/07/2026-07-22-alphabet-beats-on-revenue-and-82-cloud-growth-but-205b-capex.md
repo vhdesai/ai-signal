@@ -6,7 +6,7 @@ date: '2026-07-22'
 source: CNBC**
 url_original: https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html
 url_canonical: https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-23_065018_Final-Daily-AI-News-Digest.md
 content_hash: 74a6584071bbb5f4035807843db7f4063228e2597c7875f657df003c508646ac
 normalized_title_hash: 371c7326798ad392
@@ -19,6 +19,7 @@ entities:
 - Google
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Alphabet reported Q2 revenue of $119.8B (up 24%), with Google Cloud surging 82% 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi]] · [[2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en]] · [[2026-07-30-amazon-lifts-2026-capex-to-220b-as-aws-growth-accelerates-to]] · [[2026-07-30-microsoft-s-azure-tops-100b-as-fiscal-q4-beat-rewards-capex]] · [[2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands]]
 <!-- graph:end -->

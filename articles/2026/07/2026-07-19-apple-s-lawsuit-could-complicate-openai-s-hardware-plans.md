@@ -5,7 +5,7 @@ date: '2026-07-19'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/
 url_canonical: https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-20_065739_Final-Daily-AI-News-Digest.md
 content_hash: b4fc073cacf1be236a7c8087a4c646a4a155fab510661ced1689621659150395
 normalized_title_hash: 8b77dd163b79e2cd
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-19-apple-lawsuit-could-complicate-openai-s-hardware-and-ipo-pla
@@ -34,6 +35,6 @@ TechCrunch examined whether Apple's trade-secret lawsuit against OpenAI could je
 ## Connections
 
 **Entities:** [[Apple]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-07-19-apple-lawsuit-could-complicate-openai-s-hardware-and-ipo-pla]]
 <!-- graph:end -->

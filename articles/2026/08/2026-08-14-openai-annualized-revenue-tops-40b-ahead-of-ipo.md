@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ OpenAI's annualized revenue run rate has passed $40B, roughly doubling since the
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-14-openai-s-annualized-revenue-run-rate-tops-40-billion-ahead-o]] · [[2026-08-14-openai-passes-40b-run-rate-as-revenue-chief-exits-ahead-of-e]] · [[2026-08-14-openai-passes-40b-annualized-run-rate-as-revenue-chief-exits]] · [[2026-08-14-openai-nears-ipo-at-a-40b-run-rate-amid-continued-executive]] · [[2026-08-14-openai-passes-40b-run-rate-enterprise-now-larger-than-consum]]
 <!-- graph:end -->

@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -42,6 +43,6 @@ Alibaba used its Apsara event to unveil a next-generation Qwen model alongside c
 ## Connections
 
 **Entities:** [[Alibaba]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model]] · [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]] · [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]]
 <!-- graph:end -->

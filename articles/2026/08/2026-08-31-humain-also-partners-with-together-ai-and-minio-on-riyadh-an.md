@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Separately, HUMAIN announced partnerships with U.S. startups Together AI and Min
 ## Connections
 
 **Entities:** [[AMD]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-31-together-ai-takes-250-mw-of-saudi-capacity-from-humain-citin]] · [[2026-08-31-together-ai-trades-revenue-share-for-250-mw-and-120-000-chip]] · [[2026-08-31-together-ai-takes-250mw-of-saudi-capacity-from-humain-citing]] · [[2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25]]
 <!-- graph:end -->

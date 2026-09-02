@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ NVIDIA confirmed it will be the exclusive AI compute provider at PORTS-Pike and 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai]] · [[2026-08-17-nvidia-to-invest-1-5b-in-sb-energy-the-softbank-developer-be]]
 <!-- graph:end -->

@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Yahoo Finance reported that AI-driven investment is creating jobs far from Silic
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n]] · [[2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]]
 <!-- graph:end -->

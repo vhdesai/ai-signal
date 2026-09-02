@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -35,6 +36,6 @@ TikTok owner ByteDance is developing a new AI inference chip whose structure res
 ## Connections
 
 **Entities:** [[ByteDance]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips]]
 <!-- graph:end -->

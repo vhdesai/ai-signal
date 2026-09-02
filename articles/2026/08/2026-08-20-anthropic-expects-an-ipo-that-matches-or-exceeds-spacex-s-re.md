@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: Bloomberg
 url_original: https://finance.yahoo.com/technology/ai/articles/anthropic-targets-ipo-match-beat-183337879.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/anthropic-targets-ipo-match-beat-183337879.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_065242_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 2732758ef6a637f39bce06e57c1c93040ccebfc933e9ef9b4466a7d7ea90e531
@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Anthropic has confidentially submitted a draft S-1 to the SEC and could file pub
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-22-anthropic-targets-an-ipo-that-could-match-or-beat-spacex-s-r]] · [[2026-08-23-anthropic-signals-an-ipo-that-could-beat-spacex-s-86-billion]] · [[2026-08-24-anthropic-s-ipo-could-break-spacex-s-recordtrending]]
 <!-- graph:end -->

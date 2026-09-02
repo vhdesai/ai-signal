@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -35,6 +36,6 @@ DeepSeek reportedly suspended a funding round near 480 billion yuan, or roughly 
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-26-deepseek-pauses-71b-funding-round-after-founder-s-leaked-rem]]
 <!-- graph:end -->

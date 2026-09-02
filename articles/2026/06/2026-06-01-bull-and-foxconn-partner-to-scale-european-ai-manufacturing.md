@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: HPCwire; Yahoo Finance; Focus Taiwan
 url_original: https://www.yahoo.com/finance/news/bull-foxconn-partner-scale-europes-063000548.html
 url_canonical: https://www.yahoo.com/finance/news/bull-foxconn-partner-scale-europes-063000548.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
 content_hash: b5052e9b72d3c1e37c30f243cbc192591d238ca4f6ba3a05a3755bb81013d6d1
 normalized_title_hash: d5378fb61249f0e9
@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Atos subsidiary Bull and Foxconn (Hon Hai) announced a partnership to manufactur
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu]] · [[2026-08-31-eurohpc-awards-bull-a-387-8m-contract-for-the-lumi-ai-superc]] · [[2026-06-20-vivatech-2026-in-paris-wrapped-its-10th-anniversary-edition]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-07-30-eu-commits-10b-to-seven-ai-gigafactories-in-race-with-u-s-an]]
 <!-- graph:end -->

@@ -19,6 +19,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +42,6 @@ Eighteen months after a CFIUS-stalled filing, Cerebras has returned with a Nasda
 ## Connections
 
 **Entities:** [[Amazon]] · [[Cerebras]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation]] · [[2026-05-14-cerebras-systems-prices-5-55b-ipo-at-185-share-largest-u-s-t]] · [[2026-05-14-cerebras-prices-5-55b-ipo-at-185-share-largest-u-s-tech-ipo]] · [[2026-05-10-cerebras-ipo-seeking-3-5b-at-26-6b-valuation]] · [[2026-05-10-breakingcerebras-ipo-demand-forces-price-hike-4-8b-raise-exp]]
 <!-- graph:end -->

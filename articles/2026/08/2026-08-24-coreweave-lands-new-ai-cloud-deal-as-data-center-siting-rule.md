@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-lands-ai-cloud-151135672.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-lands-ai-cloud-151135672.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-25_163610_Inbox_Fw Daily AI News Digest - August
   25, 2026.md
 content_hash: 441d9f8abf88a8f357a3b3dde3b50c4d640d69c120857a32ca99d466765a5a54
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ CoreWeave secured an additional AI cloud commitment even as local permitting and
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-04-coreweave-expands-ai-cloud-platform-to-indonesia]] · [[2026-07-10-coreweave-named-a-visionary-in-the-2026-gartner-magic-quadra]] · [[2026-08-05-coreweave-signs-multi-year-storage-agreement-with-solidigm]] · [[2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin]] · [[2026-07-20-coreweave-s-gpu-expansion-highlights-infrastructure-arms-rac]]
 <!-- graph:end -->

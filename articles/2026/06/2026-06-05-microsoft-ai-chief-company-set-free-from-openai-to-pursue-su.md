@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: VentureBeat; CIO.com
 url_original: https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence
 url_canonical: https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
 content_hash: 3f51d6c9091f939ca84ebd635abc429a2e3d448086d7ca5008967fc4ba8e9526
@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Mustafa Suleyman told VentureBeat a contractual change ~6 months ago gave Micros
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-in-house-ma]] · [[2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-mai-models]] · [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]]
 <!-- graph:end -->

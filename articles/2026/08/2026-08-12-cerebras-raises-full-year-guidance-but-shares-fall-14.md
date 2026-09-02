@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +39,6 @@ In only its second report since its May IPO, Cerebras lifted full-year guidance 
 ## Connections
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-12-cerebras-raises-full-year-guidance-but-stock-falls-14-after]] · [[2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu]] · [[2026-06-23-cerebras-shares-fall-10-on-first-earnings-report-as-a-public]]
 <!-- graph:end -->

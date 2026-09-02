@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ IBM and Together AI signed a $240 million multiyear agreement to build a large i
 ## Connections
 
 **Entities:** [[IBM]] · [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-12-ibm-and-together-ai-sign-240m-nvidia-powered-inference-deal]] · [[2026-08-11-ibm-and-together-ai-sign-240m-multi-year-nvidia-powered-infe]] · [[2026-08-11-ibm-and-together-ai-sign-240m-nvidia-powered-inference-deal]] · [[2026-08-11-together-ai-commits-240m-to-an-nvidia-powered-inference-clus]]
 <!-- graph:end -->

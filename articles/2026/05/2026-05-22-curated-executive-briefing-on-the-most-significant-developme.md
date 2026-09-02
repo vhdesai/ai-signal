@@ -34,6 +34,8 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -55,6 +57,6 @@ event_name: ''
 ## Connections
 
 **Entities:** [[AMD]] · [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Intel]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Salesforce]] · [[Tesla]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-11-daily-ai-news-digest-august-12-2026]]
 <!-- graph:end -->

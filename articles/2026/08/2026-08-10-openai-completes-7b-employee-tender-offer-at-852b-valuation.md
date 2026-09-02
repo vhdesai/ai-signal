@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/
 url_canonical: https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-11_062021_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 5689a53cf8929e2365ebcc7940827b6efa600279a5532686becefe7858d1ae89
@@ -16,6 +16,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ OpenAI completed a secondary sale allowing employees to sell roughly $7 billion 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-10-openai-completes-7b-employee-tender-offer-at-an-852b-valuati]] · [[2026-08-11-openai-employees-sell-7-billion-in-tender-offer]] · [[2026-08-10-openai-reportedly-completes-7-billion-employee-tender-offer]] · [[2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe]] · [[2026-04-04-openai-completed-a-122-billion-fundraise-the-largest-single]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/06/khanna-to-introduce-data-center-bill-of-rights-in-ai-power-plants-fight.html
 url_canonical: https://www.cnbc.com/2026/08/06/khanna-to-introduce-data-center-bill-of-rights-in-ai-power-plants-fight.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 04a8c6153b91ef3dc40bcb0cb47c2bf41d2527ec71e610e43bf4085488d63c97
@@ -36,6 +36,7 @@ entities:
 - xAI
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -58,6 +59,6 @@ Rep. Ro Khanna is introducing a data center bill of rights as voters nationwide 
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]]
 <!-- graph:end -->

@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-03-amazon-completes-additional-35-billion-investment-in-openai
@@ -35,6 +36,6 @@ The Information reported that Amazon completed an additional $35 billion investm
 ## Connections
 
 **Entities:** [[Amazon]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-03-amazon-completes-additional-35-billion-investment-in-openai]]
 <!-- graph:end -->

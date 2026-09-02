@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Semafor published details of Sam Altman's pitch to the government on an equity-s
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-18-trump-administration-split-on-taking-equity-stakes-in-ai-gia]] · [[2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai]] · [[2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake]]
 <!-- graph:end -->

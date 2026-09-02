@@ -5,7 +5,7 @@ date: '2026-09-01'
 source: Google Research
 url_original: https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/
 url_canonical: https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-02_061041_Inbox_Daily AI News Digest – September
   2, 2026.md
 content_hash: d5d97efac51f8e2f9ac710285eb9c45ba2057b44eed8326a39bfa8c273da4283

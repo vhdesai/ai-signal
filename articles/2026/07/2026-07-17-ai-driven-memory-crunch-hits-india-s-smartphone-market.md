@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ TechCrunch reports that AI-driven demand for memory chips is now affecting India
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-17-ai-driven-memory-crunch-jolts-india-s-smartphone-market]] · [[2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con]] · [[2026-08-27-ai-s-memory-crunch-is-coming-for-android-apps]] · [[2026-08-27-ai-data-center-demand-is-squeezing-memory-for-android-phones]] · [[2026-08-27-ai-s-memory-crunch-hits-android-google-sets-new-app-memory-l]]
 <!-- graph:end -->

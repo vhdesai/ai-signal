@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=nvidia+rubin+ultra+hbm+memory
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=nvidia+rubin+ultra+hbm+memory
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-07_084748_Final-Daily-AI-News-Digest.md
 content_hash: 834f924a62fa55f6fc9bc2ecfaf95de2fe5767a2607f8aa84a30f1567c98cfdf
 normalized_title_hash: a16cdd1913b07cf3
@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
@@ -34,6 +35,6 @@ Nvidia is testing configurations of its next-generation Rubin Ultra chip with le
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]]
 <!-- graph:end -->

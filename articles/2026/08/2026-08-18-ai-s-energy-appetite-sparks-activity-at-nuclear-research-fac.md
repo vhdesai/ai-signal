@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Nuclear research facilities are seeing renewed investment driven by AI's insatia
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle]] · [[2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi]] · [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race]] · [[2026-08-19-terrapower-s-molten-salt-nuclear-reactor-has-a-secret-weapon]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]]
 <!-- graph:end -->

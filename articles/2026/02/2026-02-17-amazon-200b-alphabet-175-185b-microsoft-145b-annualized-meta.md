@@ -23,6 +23,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -44,6 +45,6 @@ Meta and NVIDIA confirmed a multi-year, multi-generational deal spanning million
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test]] · [[2026-08-31-big-tech-booked-more-than-160b-in-paper-gains-from-ai-stakes]] · [[2026-04-02-before-the-iran-conflict-escalated-microsoft-amazon-alphabet]]
 <!-- graph:end -->

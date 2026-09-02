@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Alphabet-backed AI drug-design company Isomorphic Labs (led by DeepMind founder 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-13-isomorphic-labs-deepmind-spinout-raises-2-1b-series-b-for-ai]] · [[2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-regu]]
 <!-- graph:end -->

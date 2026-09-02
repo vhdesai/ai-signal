@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ event_name: ''
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-17-nvidia-guarantees-105b-in-leases-for-openai-s-ohio-data-cent]] · [[2026-08-17-nvidia-guarantees-up-to-105b-in-financing-for-openai-s-ohio]] · [[2026-08-18-nvidia-guarantees-up-to-105-billion-of-openai-s-ohio-data-ce]]
 <!-- graph:end -->

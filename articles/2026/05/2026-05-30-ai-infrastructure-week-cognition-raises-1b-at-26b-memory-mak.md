@@ -6,7 +6,7 @@ date: '2026-05-30'
 source: Sophic Capital*
 url_original: https://sophiccapital.com/may-30-2026-ai-infrastructure-week/
 url_canonical: https://sophiccapital.com/may-30-2026-ai-infrastructure-week/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-31_163845_Daily-AI-News-Digest.md
 content_hash: 78813cbd115da6b9b9777926db3636bff827375a2080fd4b075f36b19dd4faac
 normalized_title_hash: 83075196609c7048
@@ -16,6 +16,8 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +38,6 @@ A week-in-review of AI infrastructure flagged coding-agent startup Cognition rai
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-12-cognition-reportedly-in-talks-to-raise-at-40b-valuation]] · [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]]
 <!-- graph:end -->

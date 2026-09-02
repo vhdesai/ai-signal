@@ -23,6 +23,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa
@@ -44,7 +45,7 @@ Enterprise agents become platform products: Google is packaging agents as manage
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa]]
 **Related:** [[event-google-cloud-next-2026-google-cloud-next-2026-overview]] · [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform]] · [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-strategic-imp]] · [[event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications]]
 <!-- graph:end -->

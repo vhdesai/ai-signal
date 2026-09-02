@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs
@@ -34,6 +35,6 @@ Vera Rubin and Grace Blackwell configurations shipping early 2027 are affected. 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs]]
 <!-- graph:end -->

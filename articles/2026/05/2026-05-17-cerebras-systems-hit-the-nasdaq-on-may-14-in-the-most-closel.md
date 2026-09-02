@@ -18,6 +18,8 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +39,6 @@ Cerebras Systems hit the Nasdaq on May 14 in the most closely watched tech IPO o
 ## Connections
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr]] · [[2026-05-14-cerebras-systems-prices-largest-us-ipo-of-2026-at-56-4b-valu]] · [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]]
 <!-- graph:end -->

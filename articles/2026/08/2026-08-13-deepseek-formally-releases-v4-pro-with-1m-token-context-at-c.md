@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -41,7 +42,7 @@ DeepSeek formally released its production V4 Pro model, ending a roughly four-mo
 ## Connections
 
 **Entities:** [[DeepSeek]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context]]
 **Related:** [[2026-08-13-deepseek-releases-v4-pro-with-1m-token-context-at-commodity]] · [[2026-08-14-deepseek-ships-v4-pro-and-raises-api-prices-sharply]] · [[2026-08-13-deepseek-v4-pro-launches-to-mixed-reviews-priced-at-a-fracti]] · [[2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas]]
 <!-- graph:end -->

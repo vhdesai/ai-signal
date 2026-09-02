@@ -6,7 +6,7 @@ date: '2026-08-24'
 source: Reuters
 url_original: https://aiweekly.co/ai-news-today
 url_canonical: https://aiweekly.co/ai-news-today
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_060214_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: b6c93abbbcde7e1c55a8ba5f078a08d44ba9c345b00a380a02a53fa5ea8e937e
@@ -19,6 +19,7 @@ entities:
 - Tencent
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -36,6 +37,6 @@ XPeng’s robotics unit closed a first external round of more than $900 million 
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Tencent]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi]]
 <!-- graph:end -->

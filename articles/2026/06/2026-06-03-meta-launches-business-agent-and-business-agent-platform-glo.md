@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: Meta; Reuters; TechCrunch
 url_original: https://about.fb.com/news/2026/06/meta-business-agent/
 url_canonical: https://about.fb.com/news/2026/06/meta-business-agent/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-04_072143_Inbox_Daily AI News Digest – June 4,
   2026 (Updated).md
 content_hash: 9c924884cd72a8d9279333f278a2005dd118d53e362138abbb5191e6e624c282

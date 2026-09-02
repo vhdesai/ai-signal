@@ -5,7 +5,7 @@ date: '2026-07-02'
 source: Moneycontrol
 url_original: https://www.moneycontrol.com/technology/xai-rolls-out-grok-voice-ai-agent-builder-to-let-users-create-ai-voice-agents-in-under-two-minutes-article-13964433.html
 url_canonical: https://www.moneycontrol.com/technology/xai-rolls-out-grok-voice-ai-agent-builder-to-let-users-create-ai-voice-agents-in-under-two-minutes-article-13964433.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-03_062005_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: 3a8f6979aa1d680ad36597d8ad5333e31eb0cc6049d333f37f131b738be1dd91

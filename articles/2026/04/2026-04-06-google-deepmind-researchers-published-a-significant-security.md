@@ -27,6 +27,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -48,6 +49,6 @@ Iran's IRGC Threatens 17 US Tech Firms; OpenAI Stargate UAE Data Center Named as
 ## Connections
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-02-iran-s-islamic-revolutionary-guard-corps-declared-18-america]] · [[2026-04-04-iran-s-irgc-issued-a-warning-targeting-18-major-u-s]] · [[2026-04-02-breaking-irgc-threatens-18-ai-technology-firms-apr-1-iran-s]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat]]
 <!-- graph:end -->

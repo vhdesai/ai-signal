@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: 24/7 Wall St.
 url_original: https://247wallst.com/cards/nvidia-nvda-price-swing-01kzp9nqbrrvjv2gktbn5wgf8f
 url_canonical: https://247wallst.com/cards/nvidia-nvda-price-swing-01kzp9nqbrrvjv2gktbn5wgf8f
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-11_062021_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: c7e46c81a545826003866f4db92c5dc230ab11e00cb7b6b75194dffdb476855b
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -37,6 +38,6 @@ Nvidia shares dropped 3.1% to $217 as Washington signaled a review of how Chines
 ## Connections
 
 **Entities:** [[Huawei]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]] · [[2026-08-10-chinese-ai-labs-still-train-on-nvidia-switching-to-huawei-si]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]]
 <!-- graph:end -->

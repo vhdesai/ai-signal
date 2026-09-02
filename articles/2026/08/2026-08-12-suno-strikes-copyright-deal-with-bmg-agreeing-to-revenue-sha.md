@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ AI music startup Suno signed its second major label deal with BMG (world’s 4th
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-08-29-daily-ai-news-digest-august-30-2026]] · [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2]] · [[2026-08-30-business-insider-reported-that-sony-and-warner-chappell-accu]]
 <!-- graph:end -->

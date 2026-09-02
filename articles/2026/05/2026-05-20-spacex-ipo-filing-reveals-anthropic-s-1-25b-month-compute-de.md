@@ -20,6 +20,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-20-anthropic-to-pay-xai-1-25b-per-month-for-compute-under-40b-s
@@ -36,6 +37,6 @@ SpaceX's IPO paperwork disclosed that Anthropic agreed to pay SpaceX $1.25 billi
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-05-20-anthropic-to-pay-xai-1-25b-per-month-for-compute-under-40b-s]]
 <!-- graph:end -->

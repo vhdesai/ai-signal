@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: '[TechSpot]'
 url_original: https://www.techspot.com/news/113642-nvidia-posts-record-quarter-predicts-ai-driven-growth.html
 url_canonical: https://www.techspot.com/news/113642-nvidia-posts-record-quarter-predicts-ai-driven-growth.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_062029_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 3dd4bfd4c7fd8aa560b2a42aaa9da9670791543a59bf3c9499a042ccbf80aadf
@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Nvidia reported quarterly revenue of $96.22 billion for the three months ending 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-27-nvidia-posts-another-record-quarter-and-guides-to-multi-year]] · [[2026-08-27-nvidia-posts-record-96-2b-quarter-forecasts-70-ai-chip-growt]] · [[2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value]]
 <!-- graph:end -->

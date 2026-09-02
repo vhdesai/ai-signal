@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/instinct-ai-assistant-raises-250-173454497.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/instinct-ai-assistant-raises-250-173454497.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_061348_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: d8c45db0d72957e3eb7e1b07ba6daf90e700ae389f976cfb3de6fdabc7d4ce1f
@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -31,6 +32,6 @@ Instinct, a roughly one-year-old consumer AI assistant startup founded by 23-yea
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-26-ai-assistant-instinct-raises-350m-at-2-5b-one-year-old-still]]
 <!-- graph:end -->

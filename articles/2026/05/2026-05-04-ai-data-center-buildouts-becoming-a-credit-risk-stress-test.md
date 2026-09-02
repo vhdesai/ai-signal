@@ -14,6 +14,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ JPMorgan, Morgan Stanley, and other major banks are reportedly looking for ways 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-center]] · [[2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]]
 <!-- graph:end -->

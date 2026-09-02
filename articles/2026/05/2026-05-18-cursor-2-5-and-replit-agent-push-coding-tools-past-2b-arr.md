@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Cursor shipped Composer 2.5 on May 18 and is reportedly in talks for a fresh rou
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso]]
 <!-- graph:end -->

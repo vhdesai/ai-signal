@@ -20,6 +20,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ South Korean AI chip startup Rebellions raised $400M pre-IPO ($850M total), laun
 ## Connections
 
 **Entities:** [[Adobe]] · [[NVIDIA]] · [[Salesforce]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip]] · [[2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400]] · [[2026-08-21-nvidia-in-talks-with-korean-inference-chip-designer-rebellio]] · [[2026-04-02-global-startup-funding-in-q1-2026-reached-297-billion-shatte]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]]
 <!-- graph:end -->

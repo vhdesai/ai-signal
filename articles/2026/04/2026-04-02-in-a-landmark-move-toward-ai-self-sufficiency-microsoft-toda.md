@@ -5,8 +5,8 @@ title: In a landmark move toward AI self-sufficiency, Microsoft today launched t
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://tech-insider.org/microsoft-mai-in-house-ai-models-openai-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-02_080231_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 53b246843a833228173dc71c46a2204f693c740e8b822567cc25922aaf4f4320
@@ -20,6 +20,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ In a landmark move toward AI self-sufficiency, Microsoft today launched three in
 ## Connections
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su]] · [[2026-04-04-microsoft-ai-led-by-ceo-mustafa-suleiman-released-three-foun]] · [[2026-04-10-microsoft-ai-released-three-proprietary-foundational-models]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai]]
 <!-- graph:end -->

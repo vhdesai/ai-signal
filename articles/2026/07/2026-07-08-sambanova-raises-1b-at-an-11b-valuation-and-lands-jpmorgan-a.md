@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-sambanova-raises-1b-at-11b-valuation-jpmorgan-named-inferenc
@@ -32,6 +33,6 @@ SambaNova raised $1 billion in a Series F led by General Atlantic at an $11 bill
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Canonical:** [[2026-07-08-sambanova-raises-1b-at-11b-valuation-jpmorgan-named-inferenc]]
 <!-- graph:end -->

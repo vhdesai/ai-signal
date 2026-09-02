@@ -5,7 +5,7 @@ date: '2026-06-10'
 source: TechCrunch; Reuters; PYMNTS
 url_original: https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/
 url_canonical: https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-11_070054_Final-Daily-AI-News-Digest.md
 content_hash: d0e1b35d18a9f786e547bf052e2a0f3e3ae74a733b1167da61093761972bbbc7
 normalized_title_hash: 620cdd5a8d15c139
@@ -18,6 +18,7 @@ entities:
 - Meta
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Amazon secured a $17.5 billion credit facility on top of a recent bond sale, dri
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Meta]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure]] · [[2026-07-07-amazon-to-raise-at-least-25b-in-bond-sale-to-fund-ai-buildou]] · [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou]] · [[2026-07-07-amazon-readies-a-25b-plus-bond-sale-to-fund-its-ai-and-aws-b]] · [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350b-as-infrastructure-sp]]
 <!-- graph:end -->

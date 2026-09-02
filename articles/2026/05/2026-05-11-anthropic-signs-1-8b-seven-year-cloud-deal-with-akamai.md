@@ -21,6 +21,8 @@ entities:
 - xAI
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +43,6 @@ Anthropic has signed a seven-year, $1.8 billion cloud infrastructure agreement w
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol]] · [[2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu]] · [[2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-volta]]
 <!-- graph:end -->

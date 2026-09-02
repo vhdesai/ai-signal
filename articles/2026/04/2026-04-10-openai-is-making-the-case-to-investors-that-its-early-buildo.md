@@ -19,6 +19,8 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +42,6 @@ OpenAI is making the case to investors that its early buildout of AI infrastruct
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u]] · [[2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]]
 <!-- graph:end -->

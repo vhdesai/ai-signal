@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: Wired; CNBC
 url_original: https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/
 url_canonical: https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
 content_hash: 0f6f209b791b22516d612026d78816c4c348125371742b24aff48c9c68dc9bb0

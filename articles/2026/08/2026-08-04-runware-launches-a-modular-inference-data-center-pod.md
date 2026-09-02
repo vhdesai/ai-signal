@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/
 url_canonical: https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-05_070154_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 6d3308501272d39214b2ff98bfa21bf45b9ebb720d8e06c3c3b3d365f9ea831f
@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Runware unveiled Sonic Inference Pod, a self-contained modular data center desig
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-04-runware-launches-sonic-inference-pod-a-modular-portable-data]] · [[2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi]] · [[2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics]] · [[2026-08-13-community-labs-launches-cascadia-open-source-distributed-inf]] · [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere]]
 <!-- graph:end -->

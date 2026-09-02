@@ -6,7 +6,7 @@ date: '2026-08-18'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/
 url_canonical: https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-19_065003_Final-Daily-AI-News-Digest.md
 content_hash: cf1d848a9f892338132c1a7928ec74dd1a15ac36e935ef54967de92b4882c515
 normalized_title_hash: f438654c36e8ee14

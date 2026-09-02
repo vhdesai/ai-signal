@@ -16,6 +16,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Reuters reported that Anthropic—which had been blacklisted by the White House�
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo]] · [[2026-08-28-u-s-judge-orders-pentagon-to-rescind-blacklisting-of-anthrop]] · [[2026-08-28-federal-judge-orders-pentagon-to-rescind-blacklisting-of-ant]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]] · [[2026-08-11-anthropic-targets-a-september-october-ipo-moving-ahead-of-op]]
 <!-- graph:end -->

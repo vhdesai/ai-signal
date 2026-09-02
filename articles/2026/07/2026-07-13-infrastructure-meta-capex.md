@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ WSJ reports that Meta has raised the expected cost of its Louisiana data-center 
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-13-meta-s-louisiana-data-center-investment-reportedly-rises-to]] · [[2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-50b-and-5-gi]] · [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill]] · [[2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da]]
 <!-- graph:end -->

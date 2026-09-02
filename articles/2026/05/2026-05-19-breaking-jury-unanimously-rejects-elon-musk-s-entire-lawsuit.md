@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: TechCrunch
 url_original: https://techcrunch.com/category/artificial-intelligence/
 url_canonical: https://techcrunch.com/category/artificial-intelligence/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 2f0223593650b303374740616257539c29d27867f281bd75880077f92b94b6a3
@@ -16,6 +16,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ A California jury needed less than two hours to unanimously reject every claim i
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]]
 **Related:** [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-18-california-jury-rejects-elon-musk-s-lawsuit-against-openai-i]] · [[2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs]] · [[2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call]] · [[2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr]]
 <!-- graph:end -->

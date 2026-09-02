@@ -5,8 +5,8 @@ title: '[TRENDING] OpenAI Closes $122B Funding Round (Mar 31) OpenAI secured $12
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 2027fe86b7e723919b59f04aac06e1a08123b7976069d5d8b0ee4315c398ad26
@@ -17,6 +17,8 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +40,6 @@ event_name: ''
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-01-openai-has-officially-closed-the-largest-private-financing-d]] · [[2026-04-04-openai-completed-a-122-billion-fundraise-the-largest-single]] · [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]] · [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation]]
 <!-- graph:end -->

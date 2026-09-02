@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: '[Axios]'
 url_original: https://www.axios.com/2026/08/11/ai-agents-rogue-autonomy-hugging-face
 url_canonical: https://www.axios.com/2026/08/11/ai-agents-rogue-autonomy-hugging-face
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-11_061404_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 31da169c1b18957c1426db28ca43df2224c28e46e7881afba1bbe876e8c0f22e

@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-07-09/exclusive-meta-to-put-ai-chip-into-production-in-september-as-it-looks-to-double-computing-capacity-memo-shows
 url_canonical: https://money.usnews.com/investing/news/articles/2026-07-09/exclusive-meta-to-put-ai-chip-into-production-in-september-as-it-looks-to-double-computing-capacity-memo-shows
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-11_062053_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 0c773c75587d43dc5f87bf039c9c734caf390361b6cf94ff1595b5d870666fd5
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-meta-to-move-in-house-iris-ai-chip-into-production-in-septem
@@ -33,6 +34,6 @@ An internal memo reported by Reuters shows Meta plans to put its next data-cente
 ## Connections
 
 **Entities:** [[Meta]] · [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-09-meta-to-move-in-house-iris-ai-chip-into-production-in-septem]]
 <!-- graph:end -->

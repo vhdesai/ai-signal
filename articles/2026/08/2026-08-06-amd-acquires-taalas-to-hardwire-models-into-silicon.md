@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: AMD
 url_original: https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market
 url_canonical: https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-08_061253_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 079fe77badd27d142857b3723eadee58facd81610cc8f1d0e482dbe24fa219dd
@@ -16,6 +16,7 @@ entities:
 - AMD
 themes:
 - datacenter-infrastructure
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-amd-acquires-taalas-to-hard-wire-ai-models-directly-into-sil
@@ -32,6 +33,6 @@ AMD is acquiring Toronto-based Taalas, which etches trained AI models directly i
 ## Connections
 
 **Entities:** [[AMD]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]]
 **Canonical:** [[2026-08-06-amd-acquires-taalas-to-hard-wire-ai-models-directly-into-sil]]
 <!-- graph:end -->

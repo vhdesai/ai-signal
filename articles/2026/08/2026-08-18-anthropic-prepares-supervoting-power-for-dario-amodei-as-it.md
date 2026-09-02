@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Anthropic is preparing to give CEO Dario Amodei and co-founders supervoting stoc
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return]] · [[2026-08-27-anthropic-considers-letting-shareholders-sell-in-ipo-departi]] · [[2026-08-06-how-dario-amodei-spread-anthropic-s-religion-and-angered-riv]]
 <!-- graph:end -->

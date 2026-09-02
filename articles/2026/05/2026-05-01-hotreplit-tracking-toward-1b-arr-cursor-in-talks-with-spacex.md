@@ -14,6 +14,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Replit CEO Amjad Masad disclosed at TechCrunch's StrictlyVC event that the compa
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-01-replit-s-masad-argues-for-independence-as-cursor-spacex-xai]] · [[2026-05-02-replit-ceo-amjad-masad-disclosed-at-strictlyvc-that-replit-i]] · [[2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso]] · [[2026-05-08-replit-ceo-amjad-masad-disclosed-at-techcrunch-s-strictlyvc]]
 <!-- graph:end -->

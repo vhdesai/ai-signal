@@ -5,8 +5,8 @@ title: Anthropic has agreed to terms on a $10 billion funding round co-led by Co
 date: '2026-03-24'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.straitstimes.com/business/anthropic-finalises-us30-billion-funding-round-led-by-gic-at-us380-billion-valuation
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-26_105104_Inbox_Daily AI News Digest – March 24,
   2026.md
 content_hash: 7fa81a8b2d993de6f84fbe4f3b731dba167418a34eb74b9f1dd9b15067a7487f
@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Anthropic has agreed to terms on a $10 billion funding round co-led by Coatue an
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-15-hot-anthropic-closing-in-on-900b-valuation-in-new-30b-fundin]] · [[2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f]] · [[2026-05-15-anthropic-targets-900-billion-valuation-in-30b-funding-round]] · [[2026-05-17-reports-indicate-anthropic-is-in-final-stages-of-a-funding-r]] · [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]]
 <!-- graph:end -->

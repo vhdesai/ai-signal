@@ -5,7 +5,7 @@ date: '2026-05-25'
 source: buildfastwithai
 url_original: https://www.buildfastwithai.com/blogs/ai-news-today-may-25-2026
 url_canonical: https://www.buildfastwithai.com/blogs/ai-news-today-may-25-2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: b2bfd93a7d48e8d5e6d4da535f4bb00c1a2fee7cd1e8dbf83c5e368bcad5462f
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ OpenAI is preparing a confidential S-1 with the SEC, advised by Goldman Sachs an
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]] · [[2026-05-26-openai-confirmed-its-confidential-s-1-filing-with-the-sec-on]] · [[2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation]]
 <!-- graph:end -->

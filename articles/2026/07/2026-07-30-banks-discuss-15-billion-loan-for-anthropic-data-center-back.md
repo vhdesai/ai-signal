@@ -18,6 +18,7 @@ entities:
 - Google
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Banks are reportedly in talks to lend $15 billion for an Anthropic data center b
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-25-google-plans-up-to-40b-anthropic-investment]] · [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne]] · [[2026-05-22-anthropic-closes-30b-round-at-900b-valuation-google-commits]]
 <!-- graph:end -->

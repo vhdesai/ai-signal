@@ -23,6 +23,8 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -40,6 +42,6 @@ DeepSeek's V4 model—featuring 1.6 trillion parameters (V4-Pro) and a 1 million
 ## Connections
 
 **Entities:** [[Alibaba]] · [[ByteDance]] · [[DeepSeek]] · [[Huawei]] · [[NVIDIA]] · [[Tencent]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]]
 <!-- graph:end -->

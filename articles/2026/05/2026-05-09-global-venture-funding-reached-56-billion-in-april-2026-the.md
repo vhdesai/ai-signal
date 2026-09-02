@@ -16,6 +16,8 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +39,6 @@ Global venture funding reached $56 billion in April 2026 — the third-highest m
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-05-global-startup-funding-doubled-year-over-year-to-56b-in-apri]] · [[2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o]] · [[2026-08-18-vcs-poured-47-4b-into-physical-ai-in-the-first-half-of-2026]]
 <!-- graph:end -->

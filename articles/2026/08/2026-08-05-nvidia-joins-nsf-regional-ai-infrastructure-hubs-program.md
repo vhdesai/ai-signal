@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/
 url_canonical: https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_060715_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 71f91b746acaea0a5c2eb3454d3c77dc17bc3314b858c2a934d48386b7f3458e
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ NVIDIA said it is participating in the U.S. National Science Foundation's State 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi]] · [[2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai]] · [[2026-04-20-nvidia-april-20-2026-at-hannover-messe-nvidia-announced-a-sw]] · [[2026-08-21-nvidia-partners-with-data-center-developer-cloverleaf-infras]]
 <!-- graph:end -->

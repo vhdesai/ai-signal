@@ -26,6 +26,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -47,6 +48,6 @@ Q1 2026: $300B Into 6,000 Startups — AI Captures 80% of All Global VC TRENDING
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Oracle]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-02-oracle-began-notifying-thousands-of-employees-across-the-u-s]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco]]
 <!-- graph:end -->

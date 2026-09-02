@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: OpenAI
 url_original: https://community.openai.com/t/20-price-reduction-for-gpt-5-6-sol-api-codex-credits-and-chatgpt-work/1391726
 url_canonical: https://community.openai.com/t/20-price-reduction-for-gpt-5-6-sol-api-codex-credits-and-chatgpt-work/1391726
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_062347_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: a464584233db9ad7ac6d4a97746f273f95b5eb28b022010058e078414f7f76f3
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - model-capabilities
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +39,6 @@ OpenAI reduced GPT-5.6 Sol API and Codex credit pricing by over 20% for the next
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-22-openai-cuts-gpt-5-6-sol-api-pricing-by-more-than-20]] · [[2026-07-31-openai-crosses-1-billion-users-after-cutting-gpt-5-6-prices]] · [[2026-07-30-openai-cuts-gpt-5-6-api-pricing-up-to-80-and-adds-sol-fast]]
 <!-- graph:end -->

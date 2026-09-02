@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Anthropic told investors that preliminary Q2 2026 revenue exceeded $11.5 billion
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-15-anthropic-posts-11-5b-q2-revenue-first-profitable-quarter]] · [[2026-08-15-anthropic-posts-11-5b-q2-revenue-and-its-first-quarter-in-th]] · [[2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2]] · [[2026-05-20-anthropic-revenue-explosive-growth-brings-ipo-and-profitable]] · [[2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b]]
 <!-- graph:end -->

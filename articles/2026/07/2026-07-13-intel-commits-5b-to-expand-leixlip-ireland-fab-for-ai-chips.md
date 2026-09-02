@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: RTÉ
 url_original: https://www.rte.ie/news/business/2026/0713/1583104-new-intel-leixlip-jobs/
 url_canonical: https://www.rte.ie/news/business/2026/0713/1583104-new-intel-leixlip-jobs/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - July
   13, 2026.md
 content_hash: 907290ae3cc5ef3597c413ab45fdd0dc825106a488d9652da245123ca92bf1a4
@@ -17,6 +17,7 @@ entities:
 - Intel
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-intel-commits-5b-5-7b-to-expand-its-leixlip-ireland-fab-for
@@ -33,6 +34,6 @@ Intel announced €5B to expand Fab 34 for Xeon 6 and next-gen processors on Int
 ## Connections
 
 **Entities:** [[Intel]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-13-intel-commits-5b-5-7b-to-expand-its-leixlip-ireland-fab-for]]
 <!-- graph:end -->

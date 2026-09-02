@@ -5,7 +5,7 @@ date: '2026-06-19'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/
 url_canonical: https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-19_060000_Daily-AI-News-Digest.md
 content_hash: 8ba077d45d6e6c93b8ebe1e607f1895e8ecbb59aba7f20a8e6e7d183a1dc54ec
 normalized_title_hash: 4e7c18ad2350f62c

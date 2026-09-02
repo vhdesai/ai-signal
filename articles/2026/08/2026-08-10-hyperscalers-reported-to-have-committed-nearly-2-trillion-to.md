@@ -18,6 +18,7 @@ entities:
 - Google
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa
@@ -34,6 +35,6 @@ Reporting compiled Monday puts cumulative hyperscaler commitments for AI hardwar
 ## Connections
 
 **Entities:** [[Apple]] · [[Google]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa]]
 <!-- graph:end -->

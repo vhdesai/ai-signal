@@ -5,7 +5,7 @@ date: '2026-08-12'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/
 url_canonical: https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-13_060924_Inbox_Daily AI News Digest - August 13,
   2026.md
 content_hash: 3b2a9679aa1ab688b76f6fd7396b8974cd0e14cbf84db9102aeeddaf69fe1e95

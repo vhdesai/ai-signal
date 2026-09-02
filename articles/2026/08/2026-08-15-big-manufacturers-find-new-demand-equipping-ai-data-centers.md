@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ The Wall Street Journal reported that large manufacturers are finding new demand
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-15-big-manufacturers-find-new-demand-in-equipping-ai-data-cente]] · [[2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru]] · [[2026-07-20-massive-ai-supply-deals-face-execution-risk]] · [[2026-07-13-hyperscaler-demand-turns-turbine-suppliers-into-an-ai-infras]] · [[2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it]]
 <!-- graph:end -->

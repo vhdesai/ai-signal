@@ -16,6 +16,7 @@ entities:
 - Meta
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Meta launched a "Workforce Academy" to train skilled trades workers for AI data 
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major]] · [[2026-08-13-meta-joins-openai-and-blackrock-in-signing-union-pacts-for-a]] · [[2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu]]
 <!-- graph:end -->

@@ -21,6 +21,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +43,6 @@ Bloomberg reported Monday that Google has sold so much TPU capacity to external 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers]] · [[2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch]] · [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu]] · [[2026-05-18-google-s-internal-tpu-crunch-research-teams-squeezed-as-comm]] · [[2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp]]
 <!-- graph:end -->

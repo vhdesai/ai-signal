@@ -6,7 +6,7 @@ date: '2026-05-22'
 source: Nvidia Blog  / MindwiredAI
 url_original: https://blogs.nvidia.com/
 url_canonical: https://blogs.nvidia.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 8fabc8be1d218f183af0ac8c4c9692b6368afa27ac78f1266b14bb4da1869cbb
@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ NVIDIA claimed COMPUTEX 2026 Best Choice Awards across three categories: the Ver
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge]] · [[2026-08-25-nvidia-unveils-jetson-orin-nano-2-for-entry-level-edge-ai-an]] · [[2026-07-15-nvidia-introduces-jetson-thor-t3000-t2000-for-mainstream-rob]] · [[2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development]]
 <!-- graph:end -->

@@ -21,6 +21,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ Anthropic acquired Stainless, the developer-tools company whose SDK generators p
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-18-hot-anthropic-acquires-stainless-the-sdk-generator-used-by-o]] · [[2026-05-12-anthropic-in-advanced-talks-to-acquire-stainless-for-300m]] · [[2026-05-18-anthropic-acquires-stainless-and-expands-the-claude-platform]] · [[2026-05-18-anthropic-acquires-dev-tools-startup-used-by-openai-google-a]]
 <!-- graph:end -->

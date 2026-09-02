@@ -21,6 +21,7 @@ entities:
 - Palantir
 themes:
 - model-capabilities
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +43,6 @@ Scion Asset Management's latest 13F shows Michael Burry now holds ~$912M in noti
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]]
 **Related:** [[2026-08-12-michael-burry-calls-nvidia-s-500b-ai-financing-push-a-wall-s]] · [[2026-08-12-anthropic-courts-investors-ahead-of-fall-ipo-michael-burry-c]] · [[2026-08-14-michael-burry-warns-ai-capex-resembles-dot-com-and-housing-b]] · [[2026-08-12-anthropic-courts-fall-ipo-burry-calls-nvidia-500b-financing]] · [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]]
 <!-- graph:end -->

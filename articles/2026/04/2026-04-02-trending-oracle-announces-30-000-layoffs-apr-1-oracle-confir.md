@@ -5,8 +5,8 @@ title: '[TRENDING] Oracle Announces 30,000 Layoffs (Apr 1) Oracle confirmed plan
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://time.com/article/2026/04/30/oracle-layoffs-ai-tech-jobs/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 2df9fc1b4f01c47109b63f04aacb5183df51d92ad5f5a2025d4c63ad89dc44ea

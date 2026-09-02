@@ -18,6 +18,7 @@ entities:
 - TSMC
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ WSJ reports that TSMC plans a further $100 billion U.S. investment after AI dema
 ## Connections
 
 **Entities:** [[TSMC]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-16-tsmc-reportedly-plans-another-100b-u-s-investment-as-ai-dema]] · [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand]] · [[2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman]] · [[2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand]]
 <!-- graph:end -->

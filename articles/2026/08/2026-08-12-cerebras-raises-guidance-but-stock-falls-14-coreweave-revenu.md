@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Two infrastructure earnings in one day paint a nuanced picture. Cerebras raised 
 ## Connections
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14]] · [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-08-12-coreweave-and-super-micro-surge-on-evidence-of-sustained-ai]]
 <!-- graph:end -->

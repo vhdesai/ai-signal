@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +34,6 @@ A T. Rowe Price fund manager projects AI capital expenditure could reach $1.6 tr
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow]] · [[2026-04-02-source-all-about-lawyer-the-neuron]]
 <!-- graph:end -->

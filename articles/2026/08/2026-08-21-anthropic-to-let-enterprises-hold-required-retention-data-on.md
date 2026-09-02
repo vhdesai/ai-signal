@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/anthropic-let-enterprise-customers-store-125515386.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/anthropic-let-enterprise-customers-store-125515386.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_060308_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 8a9008354eccb202dd9a87a7ca71f258dd25932c40691a4d20dd4e140f9822d3
@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Anthropic will let enterprise customers store the mandated 30-day retention data
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-20-anthropic-reverses-course-on-enterprise-data-retention-after]] · [[2026-09-01-anthropic-debuts-enterprise-frontier-safeguards-with-zero-da]] · [[2026-09-01-anthropic-introduces-enterprise-frontier-safeguards-with-cus]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo
@@ -34,6 +35,6 @@ OpenAI's annualized revenue run rate has reached $40 billion, roughly double its
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo]]
 <!-- graph:end -->

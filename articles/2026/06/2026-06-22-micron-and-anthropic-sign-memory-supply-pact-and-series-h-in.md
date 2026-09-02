@@ -17,6 +17,8 @@ entities:
 - Anthropic
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +40,6 @@ Multi-year memory and storage supply deal, joint architecture work, Claude adopt
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round]] · [[2026-07-22-amd-and-anthropic-sign-major-chips-and-investment-deal]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-08-21-micron-commits-10b-to-a-boise-research-hub-targeting-post-dr]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-07-05'
 source: Reuters
 url_original: https://finance.yahoo.com/technology/ai/articles/foxconn-second-quarter-revenue-jumps-074232190.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/foxconn-second-quarter-revenue-jumps-074232190.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-05_061331_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 6f73e2d36e1d44d4686a4721c93fc6b2416b3c08d7dc9338513fba5e3403f3fc
@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Foxconn (Hon Hai) reported Q2 revenue of T$2.513 trillion (~$78.71B), up 39.8% y
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-05-hon-hai-precision-foxconn-nvidia-s-key-server-assembly-partn]] · [[2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain]] · [[2026-08-12-foxconn-reports-35-profit-rise-on-ai-server-demand]] · [[2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman]] · [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j]]
 <!-- graph:end -->

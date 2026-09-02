@@ -5,7 +5,7 @@ date: '2026-06-08'
 source: Wired
 url_original: https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/
 url_canonical: https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-09_070112_Final-Daily-AI-News-Digest.md
 content_hash: 439a6e3a8e691b2239ba76051b997e1bba0db84154dbf44190961fd1eb5eed50
 normalized_title_hash: 5c5a39dfd003ea55

@@ -16,6 +16,7 @@ entities:
 - Databricks
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -32,5 +33,5 @@ Databricks raised $5B led by Coatue with Blackstone, MGX and T. Rowe Price parti
 ## Connections
 
 **Entities:** [[Databricks]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 <!-- graph:end -->

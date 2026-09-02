@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: Anthropic Newsroom
 url_original: https://www.anthropic.com/news
 url_canonical: https://www.anthropic.com/news
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: bc72e6b922ae7d15dd1b55f61549373c66b8ecf96f2dc54b56e66ba5cc761ff3
@@ -14,7 +14,8 @@ canonical_url_hash: f6aa679babd7a46a
 tags: []
 entities:
 - Anthropic
-themes: []
+themes:
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-19-kpmg-and-anthropic-launch-global-alliance-claude-deployed-to
@@ -31,5 +32,6 @@ KPMG announced a strategic alliance integrating Claude across its core business 
 ## Connections
 
 **Entities:** [[Anthropic]]
+**Topics:** [[M&A Activity]]
 **Canonical:** [[2026-05-19-kpmg-and-anthropic-launch-global-alliance-claude-deployed-to]]
 <!-- graph:end -->

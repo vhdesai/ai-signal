@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia%20Naver%20AI%20data%20center
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia%20Naver%20AI%20data%20center
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-27_065741_Final-Daily-AI-News-Digest.md
 content_hash: 7d471b1d99b806cfc4008e80a8a833b7ef67e3beaadd7e5a35f5fffc7b19b803
 normalized_title_hash: f0aa3f828e510ede
@@ -17,6 +17,8 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in
@@ -33,6 +35,6 @@ Nvidia said it would invest $1 billion in South Korea’s Naver to help expand A
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in]]
 <!-- graph:end -->

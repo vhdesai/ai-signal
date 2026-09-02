@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ OpenAI is leaning toward pushing its listing to 2027 — easing off a possible Q
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-17-anthropic-s-annualized-revenue-surges-to-65b-ipo-expected-th]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest]] · [[2026-05-10-anthropic-closing-50b-round-at-900b-valuation-final-private]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]]
 <!-- graph:end -->

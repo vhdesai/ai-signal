@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-openai-moves-to-cut-cursor-off-from-its-models-after-spacex
@@ -34,6 +35,6 @@ OpenAI notified SpaceX that it intends to wind down the contract supplying model
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-28-openai-moves-to-cut-cursor-off-from-its-models-after-spacex]]
 <!-- graph:end -->

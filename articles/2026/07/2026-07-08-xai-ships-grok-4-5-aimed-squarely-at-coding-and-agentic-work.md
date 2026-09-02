@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-07-08/spacexai-launches-grok-4-5-model-for-coding-agentic-tasks
 url_canonical: https://money.usnews.com/investing/news/articles/2026-07-08/spacexai-launches-grok-4-5-model-for-coding-agentic-tasks
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-09_062747_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 70e469c1e3277b4d71fc752d1ee457d19c045f90c1295c0a4dded566a0fe6f88
@@ -19,6 +19,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-spacex-xai-launches-grok-4-5-at-roughly-half-the-price-of-ri
@@ -35,6 +36,6 @@ Elon Musk’s xAI released Grok 4.5 on Wednesday, calling it its most capable mo
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-07-08-spacex-xai-launches-grok-4-5-at-roughly-half-the-price-of-ri]]
 <!-- graph:end -->

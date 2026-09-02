@@ -21,6 +21,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -43,6 +44,6 @@ The WSJ Wealth Adviser briefing highlights growing investor scrutiny of Big Tech
 ## Connections
 
 **Entities:** [[Amazon]] · [[Apple]] · [[ByteDance]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-17-big-tech-s-3-trillion-ai-spending-is-higher-than-reported]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-05-19-amazon-s-ai-race-and-the-reshaping-of-wealth-management]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk]]
 <!-- graph:end -->

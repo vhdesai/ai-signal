@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Nvidia signed memoranda of understanding with Apollo, Blackstone, BlackRock, Bro
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]] · [[2026-08-13-nvidia-anchors-a-500b-financing-consortium-to-fund-ai-data-c]] · [[2026-08-13-nvidia-s-500b-financing-vehicle-includes-gpu-residual-value]] · [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]]
 <!-- graph:end -->

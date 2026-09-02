@@ -17,6 +17,7 @@ entities:
 - Perplexity
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Hark raised a $700M Series A for what it describes as a "universal" AI interface
 ## Connections
 
 **Entities:** [[Perplexity]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]] · [[2026-06-25-nyc-ai-funding-stays-hot-norm-ai-raises-120m-taktile-lands-1]] · [[2026-06-25-enterprise-ai-funding-stays-hot-norm-ai-raises-120m-taktile]] · [[2026-07-29-encore-ai-raises-30-million-for-agents-that-learn-from-custo]] · [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation]]
 <!-- graph:end -->

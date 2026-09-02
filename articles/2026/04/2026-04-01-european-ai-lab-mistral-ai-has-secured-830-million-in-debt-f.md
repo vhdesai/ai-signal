@@ -5,8 +5,8 @@ title: European AI lab Mistral AI has secured $830 million in debt financing to 
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: 833232165203e88c90c811978e4f7d91324b7003e93aef90d16023e49ee428d8
@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +41,6 @@ European AI lab Mistral AI has secured $830 million in debt financing to establi
 ## Connections
 
 **Entities:** [[Mistral]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]] · [[2026-05-28-mistral-explores-custom-chips-and-new-french-data-center]] · [[2026-08-12-mistral-commits-to-in-region-inference-and-up-to-1-gw-of-eur]] · [[2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers]]
 <!-- graph:end -->

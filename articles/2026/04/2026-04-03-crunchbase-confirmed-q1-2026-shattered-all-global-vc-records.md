@@ -5,8 +5,8 @@ title: 'Crunchbase confirmed Q1 2026 shattered all global VC records: $300B acro
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://ai-blogs.org/news/2026-03-31-q1-2026-300b-funding-record.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: 63296c8024cd895967b8f5b32cc1aa20e0e2619c53dcddb47212645b442b00c9
@@ -22,6 +22,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -43,6 +44,6 @@ Crunchbase confirmed Q1 2026 shattered all global VC records: $300B across 6,000
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-04-01-global-venture-investment-reached-297-billion-in-q1-2026-up]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-04-10-crunchbase-data-confirmed-q1-2026-as-the-largest-venture-cap]]
 <!-- graph:end -->

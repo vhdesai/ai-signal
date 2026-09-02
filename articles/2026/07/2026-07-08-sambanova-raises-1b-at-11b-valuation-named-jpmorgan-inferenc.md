@@ -17,6 +17,7 @@ entities: []
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc
@@ -32,6 +33,6 @@ AI chip maker SambaNova raised $1 billion at an $11 billion valuation in its Ser
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc]]
 <!-- graph:end -->

@@ -21,6 +21,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -38,6 +39,6 @@ A woman alleges a family member used Grok to convert a single childhood photo in
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-15-fourth-plaintiff-joins-federal-class-action-over-grok-genera]]
 <!-- graph:end -->

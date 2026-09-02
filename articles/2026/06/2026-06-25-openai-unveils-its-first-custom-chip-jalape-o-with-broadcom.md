@@ -5,7 +5,7 @@ date: '2026-06-25'
 source: SDxCentral
 url_original: https://www.sdxcentral.com/news/openai-gets-spicy-with-broadcom-via-ai-data-movement-optimized-jalape%C3%B1o-chip/
 url_canonical: https://www.sdxcentral.com/news/openai-gets-spicy-with-broadcom-via-ai-data-movement-optimized-jalape%C3%B1o-chip/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-26_063633_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 8481c6e72d47fad1c040b29374943b9e267fd0bc230ac421fbc58ced2a59656b

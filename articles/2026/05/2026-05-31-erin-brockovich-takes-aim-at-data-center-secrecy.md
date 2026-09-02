@@ -5,7 +5,7 @@ date: '2026-05-31'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/
 url_canonical: https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
 content_hash: 27c9733de4b8aaf6b4f62de6a9b329e8c06666f10c90e853f692f1640e159efa
 normalized_title_hash: 7a2197eadc9ac7c6
@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Environmental activist Erin Brockovich has launched a campaign targeting the lac
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri]]
 <!-- graph:end -->

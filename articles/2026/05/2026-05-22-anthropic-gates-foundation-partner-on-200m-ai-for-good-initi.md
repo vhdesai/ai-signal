@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - model-capabilities
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-22-anthropic-and-gates-foundation-announce-200m-ai-for-good-par
@@ -33,6 +34,6 @@ Anthropic and the Bill & Melinda Gates Foundation announced a $200 million partn
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]]
 **Canonical:** [[2026-05-22-anthropic-and-gates-foundation-announce-200m-ai-for-good-par]]
 <!-- graph:end -->
