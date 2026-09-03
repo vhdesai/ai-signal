@@ -357,6 +357,24 @@ a.view-tab-active:hover{background:var(--brand);color:#fff}
 .timeline-day h3 a{color:inherit;text-decoration:none}
 .timeline-day h3 a:hover{text-decoration:underline}
 .timeline-day-count{color:var(--muted);font-size:13px;font-weight:500;margin-left:10px}
+
+/* ---- Investments landing page (article-free hub) ---- */
+.invest-tagline{font-size:16px;color:var(--muted);margin:8px 0 20px;line-height:1.5}
+.invest-hero-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:20px;margin:24px 0 40px}
+a.invest-hero-card{display:flex;flex-direction:column;padding:24px;background:linear-gradient(135deg,#fff8e1 0%,#fff 60%);
+                   border:1px solid var(--border);border-radius:14px;text-decoration:none;color:inherit;
+                   box-shadow:0 2px 8px rgba(0,0,0,0.04);transition:all .18s;min-height:220px}
+a.invest-hero-card:hover{transform:translateY(-3px);box-shadow:0 6px 20px rgba(0,0,0,0.10);
+                         border-color:var(--accent)}
+.invest-hero-head{display:flex;justify-content:space-between;align-items:baseline;
+                  margin-bottom:12px;gap:10px;flex-wrap:wrap}
+.invest-hero-title{font-size:20px;font-weight:700;color:var(--brand)}
+.invest-hero-count{font-size:13px;color:var(--muted);font-weight:600;white-space:nowrap}
+.invest-hero-desc{font-size:14px;line-height:1.55;color:var(--text);margin:0 0 14px;flex:1}
+.invest-hero-examples{font-size:12.5px;color:var(--muted);line-height:1.5;
+                      padding-top:12px;border-top:1px dashed var(--border);margin-bottom:12px}
+.invest-hero-examples strong{color:var(--text)}
+.invest-hero-cta{font-size:13px;font-weight:700;color:var(--accent);margin-top:auto}
 .submit-link-cta{display:flex;align-items:center;gap:12px;margin-top:24px;padding:14px 20px;background:var(--card);
                  border:1px dashed var(--border);border-radius:var(--radius);font-size:13px;color:var(--muted)}
 .submit-link-cta .submit-btn{padding:6px 16px;background:var(--accent2);color:#fff;border-radius:8px;text-decoration:none;
@@ -1089,9 +1107,11 @@ def _build_investments_pages(site: Path, deals_by_slug: dict[str, list[dict]],
         return 0
 
     # ----- Landing hub: /investments.html -----
+    # A clean, article-free landing: heading + intro paragraph + three large
+    # category cards (each with a description + example story types) so the
+    # reader picks the right sub-category before diving into content.
     intro = (
         '<div class="deals-intro">'
-        '<h2>\U0001f4b0 M&amp;A &amp; Investments</h2>'
         '<p>Where the money is moving in AI. This hub groups deal-flow stories '
         'into three sub-categories: full-company transactions, equity going '
         '<em>into</em> companies, and capital going <em>into</em> physical '
@@ -1099,47 +1119,66 @@ def _build_investments_pages(site: Path, deals_by_slug: dict[str, list[dict]],
         '(e.g. an equity stake tied to a chip supply deal).</p>'
         '</div>'
     )
-    # Prominent gold card + sub-category pills mirroring the /topics.html
-    # hero, so the landing feels self-contained.
-    hub_pills = "".join(
-        f'<a class="deals-pill" href="investments/{slug}.html">'
-        f'<span class="deals-pill-label">{_topic_label(slug)}</span>'
-        f'<span class="deals-pill-count">{len(deals_by_slug.get(slug, []))}</span></a>'
-        for slug in _DEALS_SUBCATEGORIES
-    )
-    hero = (
-        '<div class="deals-hub-card deals-hub-static">'
-        '<div class="deals-hub-title">\U0001f4b0 M&amp;A &amp; Investments</div>'
-        '<div class="deals-hub-sub">Follow the money: acquisitions, funding rounds, and infrastructure capex.</div>'
-        f'<div class="deals-hub-pills">{hub_pills}</div>'
-        '</div>'
-    )
-    # Per-section previews (12 newest each) so the landing feels alive.
-    sections: list[str] = []
+
+    # Human-facing description + typical examples per sub-category. Used on
+    # both the big landing cards and (compact) below the sub-category
+    # tab-strip on each Latest/Alphabetical/Timeline view.
+    subcat_meta = {
+        "ma-activity": {
+            "desc": ("Full-company transactions: acquisitions, mergers, "
+                     "acqui-hires, take-privates, spin-offs and divestitures. "
+                     "Who bought whom, and for how much."),
+            "examples": ("Meta acquires ARI \u2022 Anthropic\u2013Blackstone JV "
+                         "buys Fractional AI \u2022 AMD acquires Taalas"),
+        },
+        "company-investments": {
+            "desc": ("Money going <em>into</em> companies: funding rounds, "
+                     "venture capital, IPOs, S-1 filings, secondary sales, "
+                     "strategic equity stakes and valuations."),
+            "examples": ("Anthropic\u2019s $30B round at $900B valuation \u2022 "
+                         "Cerebras IPO \u2022 DeepSeek $50B pre-money"),
+        },
+        "infrastructure-investments": {
+            "desc": ("Capital going <em>into</em> physical AI infrastructure: "
+                     "datacenter build-outs, GPU / chip orders, foundry "
+                     "capacity, power purchase agreements, and hyperscaler "
+                     "capex."),
+            "examples": ("Anthropic \u2013 SpaceX $40B compute deal \u2022 "
+                         "Huawei $11.7B autonomy build-out \u2022 nuclear PPAs"),
+        },
+    }
+
+    hero_cards = []
     for slug in _DEALS_SUBCATEGORIES:
-        items = deals_by_slug.get(slug, [])
-        if not items:
-            continue
-        items_sorted = sorted(items, key=lambda a: (a.get("date") or ""), reverse=True)
-        preview = items_sorted[:12]
-        preview_html = _cards(preview, rel="", entity_files=entity_files)
-        more = ""
-        if len(items) > len(preview):
-            more = (f'<div class="deals-more">'
-                    f'<a class="deals-more-link" href="investments/{slug}.html">'
-                    f'View all {len(items)} stories in {_topic_label(slug)} \u2192</a></div>')
-        sections.append(
-            f'<section class="deals-section" id="{slug}">'
-            f'<div class="deals-section-head">'
-            f'<h3><a href="investments/{slug}.html">{_topic_label(slug)}</a></h3>'
-            f'<span class="deals-section-count">{len(items)} stories</span>'
-            f'</div>'
-            f'{preview_html}{more}'
-            f'</section>'
+        n = len(deals_by_slug.get(slug, []))
+        meta = subcat_meta.get(slug, {"desc": "", "examples": ""})
+        hero_cards.append(
+            f'<a class="invest-hero-card" href="investments/{slug}.html">'
+            f'  <div class="invest-hero-head">'
+            f'    <span class="invest-hero-title">{_topic_label(slug)}</span>'
+            f'    <span class="invest-hero-count">{n} stories</span>'
+            f'  </div>'
+            f'  <p class="invest-hero-desc">{meta["desc"]}</p>'
+            f'  <div class="invest-hero-examples"><strong>Examples:</strong> '
+            f'{meta["examples"]}</div>'
+            f'  <div class="invest-hero-cta">Browse {_topic_label(slug)} \u2192</div>'
+            f'</a>'
         )
-    body = hero + intro + "".join(sections)
+    hero_grid = '<div class="invest-hero-grid">' + "".join(hero_cards) + '</div>'
+
+    # Big title + tagline live in the page subtitle / body header so we can
+    # keep the standard site layout wrapper.
+    body = (
+        '<div class="invest-tagline">'
+        'Follow the money: Acquisitions, Company Investments &amp; Funding '
+        'Rounds, and Infrastructure Investments.'
+        '</div>'
+        + intro
+        + hero_grid
+    )
     _write(site / "investments.html",
-           _render("Investments", body, active="investments",
+           _render("\U0001f4b0 M&A and Investments", body,
+                   active="investments",
                    subtitle=f"{total} deal-flow stories across three sub-categories"))
     pages_written += 1
 
