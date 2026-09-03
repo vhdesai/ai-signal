@@ -6,7 +6,7 @@ date: '2026-08-07'
 source: Business Insider
 url_original: https://www.businessinsider.com/atlassian-q4-2026-earnings-ai-surprise-more-software-developers-2026-8
 url_canonical: https://www.businessinsider.com/atlassian-q4-2026-earnings-ai-surprise-more-software-developers-2026-8
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-08_061755_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 3cdc074af1e234dbb465a831ffdf50a6178147bede665c0b16d6d1020686e2e0

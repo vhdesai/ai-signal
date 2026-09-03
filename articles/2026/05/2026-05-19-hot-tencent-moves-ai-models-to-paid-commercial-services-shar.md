@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: EconoTimes
 url_original: https://www.econotimes.com/Tencent-Shares-Jump-4-as-AI-Models-Move-Toward-Paid-Commercial-Services-1742040
 url_canonical: https://www.econotimes.com/Tencent-Shares-Jump-4-as-AI-Models-Move-Toward-Paid-Commercial-Services-1742040
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 33b053e0150c694edee2443b8e0c49cb34fee5d680ba410be21c0a8920162130

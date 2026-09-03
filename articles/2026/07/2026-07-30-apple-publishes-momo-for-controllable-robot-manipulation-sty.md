@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 - 2026-08-10-dyna-robotics-unveils-dyna-2-claiming-the-first-scaling-law
 - 2026-04-20-apple-ml-research-april-17-2026-apple-announced-a-slate-of-a
+- 2026-09-02-refactor-vla-unsupervised-library-learning-of-typed-motor-pr
 - 2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea
-- 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
 embedding_id: 2026-07-30-apple-publishes-momo-for-controllable-robot-manipulation-sty
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple published MoMo, a two-stage imitation-learning framework that separates ta
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-08-10-dyna-robotics-unveils-dyna-2-claiming-the-first-scaling-law]] · [[2026-04-20-apple-ml-research-april-17-2026-apple-announced-a-slate-of-a]] · [[2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]]
+**Related:** [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-08-10-dyna-robotics-unveils-dyna-2-claiming-the-first-scaling-law]] · [[2026-04-20-apple-ml-research-april-17-2026-apple-announced-a-slate-of-a]] · [[2026-09-02-refactor-vla-unsupervised-library-learning-of-typed-motor-pr]] · [[2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea]]
 <!-- graph:end -->

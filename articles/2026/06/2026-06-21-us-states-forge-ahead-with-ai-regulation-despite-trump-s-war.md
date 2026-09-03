@@ -4,8 +4,8 @@ title: US States Forge Ahead with AI Regulation Despite Trump's Warnings
 date: '2026-06-21'
 source: Los Angeles Times
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.latimes.com/world-nation/story/2026-06-21/trump-tried-to-block-states-from-regulating-ai-but-some-are-forging-ahead
+url_status: repaired
 digest_source: digests\raw\2026-06-21_070014_Final-Daily-AI-News-Digest.md
 content_hash: c772e9f445afa0015492ab9a716ec84c815ad25a9838d3281dcf8ff2606dc3da
 normalized_title_hash: eb557d8b053d6fc0

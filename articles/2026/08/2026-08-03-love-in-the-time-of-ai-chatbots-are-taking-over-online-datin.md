@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Wall Street Journal**
 url_original: https://www.wsj.com/articles/ai-dating-apps-love-b594c091
 url_canonical: https://www.wsj.com/articles/ai-dating-apps-love-b594c091
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-04_065014_Final-Daily-AI-News-Digest.md
 content_hash: c523cf91dac9b901f871388da1e2d1b82105ad68a8243423a914947a5eb86c33
 normalized_title_hash: e246f839dcc09972

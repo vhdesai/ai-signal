@@ -4,8 +4,8 @@ title: 'IBM × Oracle: expanded partnership for AI and cloud modernization'
 date: '2026-05-04'
 source: IBM Newsroom
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://newsroom.ibm.com/blog-ibm-and-oracle-expand-partnership-to-help-organizations-modernize-with-ai-and-cloud
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080124_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 1e72f01ee97d5ec1ba618dfe0bc699d291565e1ee4aa1a573dc9aa6a614ce3f4
 normalized_title_hash: e5f613f9178a3491
@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-03-hpe-expands-oracle-collaboration-for-ai-data-center-networki
 - 2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership
 - 2026-05-05-ibm-watsonx-orchestrate-unified-ai-agent-management
 - 2026-08-13-ibm-embeds-openai-models-across-its-consulting-delivery-plat
 - 2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform
-- 2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a
 embedding_id: 2026-05-04-ibm-oracle-expanded-partnership-for-ai-and-cloud-modernizati
 event_name: ''
 ---
@@ -39,5 +39,5 @@ IBM and Oracle announced an expanded partnership to help organizations modernize
 
 **Entities:** [[IBM]] · [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership]] · [[2026-05-05-ibm-watsonx-orchestrate-unified-ai-agent-management]] · [[2026-08-13-ibm-embeds-openai-models-across-its-consulting-delivery-plat]] · [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]] · [[2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a]]
+**Related:** [[2026-09-03-hpe-expands-oracle-collaboration-for-ai-data-center-networki]] · [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership]] · [[2026-05-05-ibm-watsonx-orchestrate-unified-ai-agent-management]] · [[2026-08-13-ibm-embeds-openai-models-across-its-consulting-delivery-plat]] · [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]]
 <!-- graph:end -->

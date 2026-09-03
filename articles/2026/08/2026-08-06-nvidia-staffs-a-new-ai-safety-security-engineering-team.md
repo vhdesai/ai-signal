@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: Business Insider / The Next Web
 url_original: https://thenextweb.com/news/nvidia-ai-safety-team-open-models-chip-demand
 url_canonical: https://thenextweb.com/news/nvidia-ai-safety-team-open-models-chip-demand
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-07_061331_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: b90e24f276fb5b55a822784dca952bee9515bca6b677a1517619c9262e545b89

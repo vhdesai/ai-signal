@@ -6,7 +6,7 @@ date: '2026-05-21'
 source: 'Source: Oracle Newsroom'
 url_original: https://www.oracle.com/news/
 url_canonical: https://www.oracle.com/news/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 290b28f0d8cbf5a3fc8cc0dbea584aaa1fa145d5dbc5b0dc211fb55a38b9c867

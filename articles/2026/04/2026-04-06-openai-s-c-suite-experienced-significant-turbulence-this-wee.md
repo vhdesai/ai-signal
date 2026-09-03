@@ -5,8 +5,8 @@ title: OpenAI's C-suite experienced significant turbulence this week, with three
 date: '2026-04-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessinsider.com/executives-who-left-openai-in-2026-8
+url_status: repaired
 digest_source: digests\raw\2026-04-06_070950_Inbox_Daily AI News Digest – April 6,
   2026.md
 content_hash: e1bae60631ac20252ceed1d4a22903bad614221ceeab4d2a4fac9936c736cb11

@@ -5,7 +5,7 @@ date: '2026-05-25'
 source: Axios scoop, surfaced in May 24-25 digests
 url_original: https://techcrunch.com/2026/05/
 url_canonical: https://techcrunch.com/2026/05/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-25_071611_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 60b99ae954db41229274e6d469551f48adff76d2d4ebe29fbb5c4c6d1f3fe564

@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: Reuters
 url_original: https://www.yahoo.com/news/world/articles/brazil-launches-ai-supercomputer-push-013837788.html
 url_canonical: https://www.yahoo.com/news/world/articles/brazil-launches-ai-supercomputer-push-013837788.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-22_061248_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 527b065b3cda5e2dec865ceaeb576fc64b366d7d72f572b0ac2d79fce8567138

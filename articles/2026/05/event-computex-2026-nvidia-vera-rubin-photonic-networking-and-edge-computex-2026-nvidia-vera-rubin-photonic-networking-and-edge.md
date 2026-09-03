@@ -5,8 +5,8 @@ title: 'Computex 2026: NVIDIA Vera Rubin, Photonic Networking, and Edge Robotics
 date: '2026-05-23'
 source: 'Computex 2026: NVIDIA Vera Rubin, Photonic Networking, and Edge Robotics'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theroboticsmedia.com/article/nvidia-computex-gtc-taipei-2026-physical-ai-keynote-robotics
+url_status: repaired
 digest_source: digests\raw\Computex 2026 - NVIDIA Vera Rubin Photonic Networking and
   Robotics.md
 content_hash: 8ace1618faee8546ceeee3c1229824d9c55718f8f4b309f4fe59bbac66305ddc

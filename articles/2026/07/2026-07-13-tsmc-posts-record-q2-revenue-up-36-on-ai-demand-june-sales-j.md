@@ -4,8 +4,8 @@ title: TSMC posts record Q2 revenue, up 36% on AI demand; June sales jump ~68%
 date: '2026-07-13'
 source: CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html
+url_status: repaired
 digest_source: digests\raw\2026-07-13_060930_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: f3e7eca234d356efce854a6c76999e024c83421b9f39a4c73985e8ee92880ba0

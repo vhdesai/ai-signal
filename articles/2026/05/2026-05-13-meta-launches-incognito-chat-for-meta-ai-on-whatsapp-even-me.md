@@ -6,7 +6,7 @@ date: '2026-05-13'
 source: Meta Newsroom
 url_original: https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/
 url_canonical: https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 6bb934923c5ecf81db2053adbf2b6961a5f2667c3d404da947623420caecc6f7

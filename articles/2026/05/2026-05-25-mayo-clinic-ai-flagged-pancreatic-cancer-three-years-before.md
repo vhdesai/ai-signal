@@ -4,8 +4,8 @@ title: Mayo Clinic AI Flagged Pancreatic Cancer Three Years Before Diagnosis
 date: '2026-05-25'
 source: Mayo Clinic research
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.fox9.com/news/ai-detects-pancreatic-cancer-earlier-mayo-study-shows-april-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070622_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 24c0b96631b48b539fe36d47f1ce3dedda8c16f85e1d2d03c9f69e3c504eff85

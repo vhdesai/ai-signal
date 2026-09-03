@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/CIO-AI-costs-management/826116/
 url_canonical: https://www.ciodive.com/news/CIO-AI-costs-management/826116/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-28_065753_Final-Daily-AI-News-Digest.md
 content_hash: b920625ad6739b3dec5fd3ef9d38f6539796324ce243a8fe4a2920d9a4da1bf5
 normalized_title_hash: f757e82339368a60

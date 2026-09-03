@@ -5,8 +5,8 @@ title: 'UC San Diego: First empirical evidence of an LLM passing a rigorous thre
 date: '2026-05-19'
 source: UC San Diego Today · Read article
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2503.23674
+url_status: repaired
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 3c69bd918c4586c528968aa64994d5068ce4136b648a436a12dcacefc9fb84b0

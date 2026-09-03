@@ -5,8 +5,8 @@ title: 'Stanford 2026 AI Index: US-China Gap Down to 2.7%, SWE-Bench Hits Near 1
 date: '2026-05-20'
 source: Stanford HAI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
+url_status: repaired
 digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: f0e69714efd2396853d1d1890d1926f2a1cbce64223312658aac80b99040a93e

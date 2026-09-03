@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 632
+member_count: 638
 ---
 
 # Meta
 
-> Auto-generated entity hub. 632 connected article(s).
+> Auto-generated entity hub. 638 connected article(s).
 
+- `2026-09-03` [[2026-09-03-sanders-and-casar-propose-a-u-s-ban-on-artificial-superintel|Sanders and Casar Propose a U.S. Ban on 'Artificial Superintelligence']]
+- `2026-09-03` [[2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai|Broadcom projects AI chip revenue to double in 2027 and again in 2028]]
+- `2026-09-03` [[2026-09-03-amazon-and-meta-ai-bots-account-for-most-website-visits|Amazon and Meta AI bots account for most website visits]]
+- `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
+- `2026-09-02` [[2026-09-02-meta-releases-more-powerful-ai-model-edging-closer-to-rivals|Meta releases more powerful AI model, edging closer to rivals]]
+- `2026-09-02` [[2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age|Meta releases Muse Spark 1.3 for coding and long-horizon agentic workflows]]
 - `2026-09-02` [[2026-09-02-meta-ditches-google-chat-for-slack-citing-ai-agent-workflows|Meta ditches Google Chat for Slack, citing AI agent workflows]]
 - `2026-09-02` [[2026-09-02-meta-and-google-s-ai-returns-slide-piper-sandler-says-amazon|Meta and Google’s AI returns slide, Piper Sandler says Amazon’s capital discipline sets it apart]]
 - `2026-09-02` [[2026-09-02-google-reportedly-readying-a-new-gemini-model-codenamed-skim|Google Reportedly Readying a New Gemini Model Codenamed “Skimaki”]]

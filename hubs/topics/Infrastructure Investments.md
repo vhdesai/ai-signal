@@ -1,15 +1,33 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1386
+member_count: 1404
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1386 connected article(s).
+> Auto-generated topic hub. 1404 connected article(s).
 
+- `2026-09-03` [[2026-09-03-sivers-commits-30m-to-expand-indium-phosphide-laser-producti|Sivers Commits $30M to Expand Indium Phosphide Laser Production in Glasgow]]
+- `2026-09-03` [[2026-09-03-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug|Nvidia agrees to roughly $13 billion deal for AI platform Hugging Face]]
+- `2026-09-03` [[2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop|Nscale touts $103 billion in contracted revenue after Anthropic compute win]]
+- `2026-09-03` [[2026-09-03-hpe-expands-oracle-collaboration-for-ai-data-center-networki|HPE expands Oracle collaboration for AI data center networking]]
+- `2026-09-03` [[2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai|Broadcom projects AI chip revenue to double in 2027 and again in 2028]]
+- `2026-09-02` [[2026-09-02-ipronics-raises-125m-with-nvidia-participation-for-optical-a|iPronics raises $125M with NVIDIA participation for optical AI networking]]
+- `2026-09-02` [[2026-09-02-ipronics-raises-125-million-for-programmable-optical-network|iPronics raises $125 million for programmable optical networking, with Nvidia participating]]
+- `2026-09-02` [[2026-09-02-vertiv-to-acquire-utilityinnovation-group-to-shorten-time-to|Vertiv to acquire UtilityInnovation Group to shorten time-to-power for AI data centers]]
+- `2026-09-02` [[2026-09-02-texas-halts-new-data-center-grid-connections-after-ghost-dem|Texas Halts New Data-Center Grid Connections After “Ghost Demand” Surge]]
+- `2026-09-02` [[2026-09-02-nvidia-joins-ipronics-125-million-round-for-programmable-opt|Nvidia joins iPronics' $125 million round for programmable optical networking]]
+- `2026-09-02` [[2026-09-02-nebius-lifts-year-end-contracted-power-target-from-3-gw-to-5|Nebius Lifts Year-End Contracted Power Target from 3 GW to 5 GW]]
 - `2026-09-02` [[2026-09-02-kkr-backs-10b-ai-infrastructure-venture-helix-digital-infras|KKR backs $10B AI infrastructure venture Helix Digital Infrastructure]]
+- `2026-09-02` [[2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst|HUMAIN and AMD Launch a $10 Billion AI Infrastructure Ecosystem]]
+- `2026-09-02` [[2026-09-02-g20-technology-discussions-center-on-u-s-ai-adoption-and-dat|G20 technology discussions center on U.S. AI adoption and data-center buildout]]
+- `2026-09-02` [[2026-09-02-equinix-partners-with-nvidia-to-carve-a-niche-in-the-ai-data|Equinix partners with Nvidia to carve a niche in the AI data-center buildout]]
+- `2026-09-02` [[2026-09-02-cerebras-breaks-ground-on-a-165mw-data-center-in-mikkeli-fin|Cerebras breaks ground on a 165MW data center in Mikkeli, Finland]]
 - `2026-09-02` [[2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da|Cerebras and Compute Nordic Finland announce new 165MW AI data centre in Mikkeli, Finland]]
+- `2026-09-02` [[2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru|Broadcom's AI revenue surge reinforces the non-GPU infrastructure trade]]
+- `2026-09-02` [[2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta|Anthropic launches Claude commerce-agent blueprints for retailers]]
+- `2026-09-02` [[2026-09-02-aws-to-open-its-first-saudi-arabia-region-in-december-anchor|AWS to open its first Saudi Arabia region in December, anchoring a $5.3B AI push]]
 - `2026-09-01` [[2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo|Tencent-Backed AI Chipmaker Enflame Seeks ~$911 Million in IPO]]
 - `2026-09-01` [[2026-09-01-spacex-shakes-up-data-center-leadership-after-aggressive-bui|SpaceX Shakes Up Data Center Leadership After Aggressive Build-Out]]
 - `2026-09-01` [[2026-09-01-sequoia-incubated-empirik-launches-with-21m-to-predict-infra|Sequoia-incubated Empirik launches with $21M to predict infrastructure outages]]

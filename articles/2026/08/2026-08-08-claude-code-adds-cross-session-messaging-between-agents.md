@@ -5,7 +5,7 @@ date: '2026-08-08'
 source: MacRumors
 url_original: https://www.macrumors.com/2026/08/08/claude-code-adds-cross-session-messaging/
 url_canonical: https://www.macrumors.com/2026/08/08/claude-code-adds-cross-session-messaging/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-08_061253_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 49e6009c08815ee8def63a78a94e6d6c05c1ada045bf7c298c8d61bfecee2ad5

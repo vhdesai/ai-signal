@@ -5,7 +5,7 @@ date: '2026-07-07'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/
 url_canonical: https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-08_061307_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 5a1626a40dff6f089cbe91beaf397231cc4effc754229d2efed954a1e0d4eedc

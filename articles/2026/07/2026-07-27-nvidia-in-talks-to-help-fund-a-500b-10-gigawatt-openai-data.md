@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: Forbes
 url_original: https://www.forbes.com/sites/tylerroush/2026/07/27/nvidia-and-openai-discussing-500-billion-data-center-heres-what-we-know/
 url_canonical: https://www.forbes.com/sites/tylerroush/2026/07/27/nvidia-and-openai-discussing-500-billion-data-center-heres-what-we-know/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-28_060942_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: 37ac1e76bf5d8293784a0c47acca05a10d774a9c5f2af62e769493618232ab17

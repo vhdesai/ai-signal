@@ -5,7 +5,7 @@ date: '2026-08-12'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/
 url_canonical: https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-13_065057_Final-Daily-AI-News-Digest.md
 content_hash: f646f1c6937fdc809e13184e0d507772f0da15598f753cac17c1e1e06db2cc3d
 normalized_title_hash: 3d8a98c262fffa9a

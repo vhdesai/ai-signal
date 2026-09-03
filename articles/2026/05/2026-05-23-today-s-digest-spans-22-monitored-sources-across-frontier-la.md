@@ -5,8 +5,8 @@ title: Today's digest spans 22+ monitored sources across frontier labs, major te
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.tunx.ai/best-ai-news-sources-in-2026-a-curated-daily-digest-and-ranked-guide/
+url_status: repaired
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: d0a2733fb5ca41bf9a199c53732253e1540f6c77cfbb29b9cea652264aaf1145

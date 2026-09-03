@@ -5,8 +5,8 @@ title: 'Carnegie Mellon researchers and collaborators published "Toward a Scienc
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cmu.edu/news/stories/archives/2026/august/cmu-researchers-envision-humans-and-ai-as-teammates
+url_status: repaired
 digest_source: digests\raw\2026-05-02_071601_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 0c7ad79baac92532ac05b1a8127b8e07a5385b2b8dcb3584b985f16f177596a0
 normalized_title_hash: 3c7af0183c1459c5

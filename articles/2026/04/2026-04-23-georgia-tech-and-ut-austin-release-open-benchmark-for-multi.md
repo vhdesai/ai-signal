@@ -4,8 +4,8 @@ title: Georgia Tech and UT Austin release open benchmark for multi-agent coordin
 date: '2026-04-23'
 source: MIT News / AI News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2606.08340
+url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: cbe01c9c399737558eda9f454f4a9c72219f98e7dec7fd2c002df298e30798f0

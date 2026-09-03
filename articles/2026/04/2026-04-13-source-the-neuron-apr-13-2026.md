@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-02-us-pushes-deregulation-at-g20-innovation-ministerial-as-eu-a
 - 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
 - 2026-08-25-analysis-u-s-and-eu-ai-regulation-continue-to-diverge-struct
 - 2026-07-31-europe-s-ai-safety-playbook-looms-over-the-u-s-framework-due
 - 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
-- 2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash
 embedding_id: 2026-04-13-source-the-neuron-apr-13-2026
 event_name: ''
 ---
@@ -37,5 +37,5 @@ U.S.–EU Regulatory Divergence Deepens; AI Sovereignty Becomes Global Organizin
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]] · [[2026-08-25-analysis-u-s-and-eu-ai-regulation-continue-to-diverge-struct]] · [[2026-07-31-europe-s-ai-safety-playbook-looms-over-the-u-s-framework-due]] · [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]] · [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]]
+**Related:** [[2026-09-02-us-pushes-deregulation-at-g20-innovation-ministerial-as-eu-a]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]] · [[2026-08-25-analysis-u-s-and-eu-ai-regulation-continue-to-diverge-struct]] · [[2026-07-31-europe-s-ai-safety-playbook-looms-over-the-u-s-framework-due]] · [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]]
 <!-- graph:end -->

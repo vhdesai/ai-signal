@@ -5,7 +5,7 @@ date: '2026-06-10'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/
 url_canonical: https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-11_070054_Final-Daily-AI-News-Digest.md
 content_hash: 26cabf893604cc7b37e20a32e39e9afe8fa62fa5a79cc70349fb05be21827b13
 normalized_title_hash: cfad9aa0e182308c

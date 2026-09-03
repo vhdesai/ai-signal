@@ -6,7 +6,7 @@ date: '2026-08-26'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/
 url_canonical: https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_062110_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 0322508069a45098d4d1baff971d147e5142b709faa1ec033fb4066f1b6f4fc3

@@ -4,8 +4,8 @@ title: Anthropic Research Flags ~31.5% Prompt-Injection Hijack Rate in Browser A
 date: '2026-06-02'
 source: WinBuzzer
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://winbuzzer.com/2026/06/02/anthropic-reveals-315-browser-agent-hijack-rate-xcxwbn/
+url_status: repaired
 digest_source: digests\raw\2026-06-03_083329_Inbox_Daily AI News Digest – June 3,
   2026 (Updated).md
 content_hash: 443ad26da22870f64de29c7e3f498f31375470993f5e5ed91748a717712c210f

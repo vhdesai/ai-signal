@@ -5,8 +5,8 @@ title: 'Two Speeds of Learning: a representation-readout decomposition of grokki
 date: '2026-05-29'
 source: arXiv cs.AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2605.27078
+url_status: repaired
 digest_source: digests\raw\2026-05-29_073426_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: 65939ccb538c3fbdfde3a77e6e76b1a9cc9972639ca2661ff0aaf54db154220c

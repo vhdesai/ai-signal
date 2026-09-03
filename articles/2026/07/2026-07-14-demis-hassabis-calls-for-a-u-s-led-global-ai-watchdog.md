@@ -4,8 +4,8 @@ title: Demis Hassabis calls for a U.S.-led global AI watchdog
 date: '2026-07-14'
 source: Axios
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://bostonglobalforum.org/publication/shaping-futures/google-deepminds-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog/
+url_status: repaired
 digest_source: digests\raw\2026-07-14_060635_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 6169e09d439da35c0bbb6ed93cac35578492c4ed00407988de1109261fff857c

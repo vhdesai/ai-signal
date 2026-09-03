@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/
 url_canonical: https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_061348_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 69dcf5bdf06273e31c84dfa328da136a8d1ed2f0e4756eb59663a0112c2cfe94
@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion
 related_article_ids:
-- 2026-08-29-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion
+- 2026-09-03-nvidia-confirms-12-9-billion-acquisition-of-hugging-face
 embedding_id: 2026-08-27-nvidia-closes-in-on-12-9b-hugging-face-acquisition
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Nvidia has reportedly agreed to acquire Hugging Face, the dominant open-source m
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion]]
-**Related:** [[2026-08-29-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion]]
+**Related:** [[2026-09-03-nvidia-confirms-12-9-billion-acquisition-of-hugging-face]]
 <!-- graph:end -->

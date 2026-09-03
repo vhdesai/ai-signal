@@ -5,8 +5,8 @@ title: The Elon Musk vs. Sam Altman civil trial in California has wrapped its ev
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://allaboutlawyer.com/musk-vs-altman-openai-breach-charitable-trust-lawsuit/
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: fd73ce707ef9814fe4613af826e4299ad59af01fea1a88f1473310e8149e5400

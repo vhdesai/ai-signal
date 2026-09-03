@@ -5,8 +5,8 @@ title: UC Berkeley School of Law announced it will prohibit AI use in almost all
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/berkeley-law-artificial-intelligence-policy-questions-and-answers/
+url_status: repaired
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 3cfc42d8a3d9e7941039c0ffff9f5e452c50e98eacdf86626baf57ab0fe173a0

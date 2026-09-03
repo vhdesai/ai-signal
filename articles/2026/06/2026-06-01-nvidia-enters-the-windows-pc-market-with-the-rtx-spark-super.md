@@ -6,7 +6,7 @@ date: '2026-06-01'
 source: Bloomberg / Associated Press**
 url_original: https://www.newsday.com/news/nation/nvidia-microsoft-ai-laptops-jensen-chip-g68435
 url_canonical: https://www.newsday.com/news/nation/nvidia-microsoft-ai-laptops-jensen-chip-g68435
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-01_061105_Daily-AI-News-Digest.md
 content_hash: 028eab805671267378e51c035ce311f3d24f41171351c642ef010f4565f4ee8a
 normalized_title_hash: 5acf6cde6daa7359
@@ -29,8 +29,8 @@ related_article_ids:
 - 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc
 - 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p
 - 2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex
+- 2026-09-02-asus-unveils-proart-pcs-on-nvidia-rtx-spark-at-ifa-2026
 - 2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip
-- 2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play
 embedding_id: 2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Nvidia unveiled its RTX Spark superchip at Computex 2026, pairing a Grace-class 
 
 **Entities:** [[AMD]] · [[Arm]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]] · [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex]] · [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip]] · [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]]
+**Related:** [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]] · [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex]] · [[2026-09-02-asus-unveils-proart-pcs-on-nvidia-rtx-spark-at-ifa-2026]] · [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip]]
 <!-- graph:end -->

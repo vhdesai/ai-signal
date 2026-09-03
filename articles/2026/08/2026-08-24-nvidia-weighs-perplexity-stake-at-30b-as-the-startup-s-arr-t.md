@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: The Information / Moneycontrol
 url_original: https://www.moneycontrol.com/world/nvidia-discusses-perplexity-investment-at-30-billion-plus-valuation-reports-article-14014016.html
 url_canonical: https://www.moneycontrol.com/world/nvidia-discusses-perplexity-investment-at-30-billion-plus-valuation-reports-article-14014016.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-24_060214_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 969c0d116814e2368b40a98db52fae7bc74a05ded1cea35213633ff73dbacc27

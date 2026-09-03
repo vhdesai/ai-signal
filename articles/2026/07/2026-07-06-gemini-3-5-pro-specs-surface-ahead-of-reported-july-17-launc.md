@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: Geeky Gadgets
 url_original: https://www.geeky-gadgets.com/google-gemini-3-5-pro-leaks/
 url_canonical: https://www.geeky-gadgets.com/google-gemini-3-5-pro-leaks/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-06_084400_Final-Daily-AI-News-Digest.md
 content_hash: bcc9f52099fd47a3a0f9ddad31e2fb520f2267ab0255de81154207814ed0e444
 normalized_title_hash: b526265cc13ded90

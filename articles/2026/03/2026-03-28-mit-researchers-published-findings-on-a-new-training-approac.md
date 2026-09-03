@@ -5,8 +5,8 @@ title: MIT researchers published findings on a new training approach they call "
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech.yahoo.com/ai/meta-ai/articles/mit-researchers-look-create-more-180700180.html
+url_status: repaired
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: 2b33ad9d9b8a7df9f86cdeb600b1be2df2ddc83dda8787dff994bb4c9b342f3c

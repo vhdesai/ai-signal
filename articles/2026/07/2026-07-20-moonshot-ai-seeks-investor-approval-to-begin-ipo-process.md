@@ -23,9 +23,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-03-china-s-moonshot-ai-confidentially-filed-for-a-hong-kong-ipo
+- 2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
 - 2026-07-19-china-s-moonshot-plans-a-30b-hong-kong-ipo-within-six-months
-- 2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes
 embedding_id: 2026-07-20-moonshot-ai-seeks-investor-approval-to-begin-ipo-process
 event_name: ''
 ---
@@ -38,5 +39,5 @@ The Information reports that Moonshot AI is seeking investor approval to begin a
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-07-19-china-s-moonshot-plans-a-30b-hong-kong-ipo-within-six-months]] · [[2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes]]
+**Related:** [[2026-09-03-china-s-moonshot-ai-confidentially-filed-for-a-hong-kong-ipo]] · [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-07-19-china-s-moonshot-plans-a-30b-hong-kong-ipo-within-six-months]]
 <!-- graph:end -->

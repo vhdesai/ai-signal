@@ -4,8 +4,8 @@ title: EU presses U.S. for access to Anthropic's Mythos model
 date: '2026-06-01'
 source: Mobile World Live
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/claude-fable-and-mythos-5-1
+url_status: repaired
 digest_source: digests\raw\2026-06-02_061120_Daily-AI-News-Digest.md
 content_hash: 4cf98106bbdbe6b079637a2ff6094aa17405575332a246f34296abe715f295a9
 normalized_title_hash: 9f68c99318294463

@@ -5,7 +5,7 @@ date: '2026-08-29'
 source: Engadget
 url_original: https://www.engadget.com/2246997/sony-warner-sue-anthropic-for-blatant-violation-of-copyright-law/
 url_canonical: https://www.engadget.com/2246997/sony-warner-sue-anthropic-for-blatant-violation-of-copyright-law/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-30_065043_Final-Daily-AI-News-Digest.md
 content_hash: 160e7d50790479c800ce2d239ff4087b5ea445d48fd4c679ec934ce1dc0427a4
 normalized_title_hash: a3d39aa1b7386e1b

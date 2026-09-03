@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-02-meta-releases-more-powerful-ai-model-edging-closer-to-rivals
 - 2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla
 - 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
 - 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 - 2026-06-25-meta-accelerates-plan-to-automate-90-of-content-moderation
-- 2026-08-05-meta-removed-more-than-50-ads-containing-ai-generated-child
 embedding_id: 2026-05-16-wired-published-a-feature-documenting-meta-s-current-state-r
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Wired published a feature documenting Meta's current state: record financial per
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]] · [[2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-06-25-meta-accelerates-plan-to-automate-90-of-content-moderation]] · [[2026-08-05-meta-removed-more-than-50-ads-containing-ai-generated-child]]
+**Related:** [[2026-09-02-meta-releases-more-powerful-ai-model-edging-closer-to-rivals]] · [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]] · [[2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-06-25-meta-accelerates-plan-to-automate-90-of-content-moderation]]
 <!-- graph:end -->

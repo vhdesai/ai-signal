@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-02-aws-to-open-its-first-saudi-arabia-region-in-december-anchor
 - 2026-07-28-aws-and-newforma-enter-a-7-year-strategic-collaboration
 - 2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap
 - 2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise
 - 2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc
-- 2026-04-27-
 embedding_id: 2026-09-01-aws-and-accenture-sign-six-year-middle-east-ai-and-cloud-agr
 event_name: ''
 ---
@@ -40,5 +40,5 @@ AWS and Accenture entered a six-year agreement to accelerate cloud, data moderni
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-07-28-aws-and-newforma-enter-a-7-year-strategic-collaboration]] · [[2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap]] · [[2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise]] · [[2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc]] · [[2026-04-27-]]
+**Related:** [[2026-09-02-aws-to-open-its-first-saudi-arabia-region-in-december-anchor]] · [[2026-07-28-aws-and-newforma-enter-a-7-year-strategic-collaboration]] · [[2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap]] · [[2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise]] · [[2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc]]
 <!-- graph:end -->

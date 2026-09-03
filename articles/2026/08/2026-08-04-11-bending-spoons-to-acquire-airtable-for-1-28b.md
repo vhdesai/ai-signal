@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: TechCrunch · Read article →
 url_original: https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/
 url_canonical: https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_061155_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 6ce302b113c87dc9a1f970f9c06bf5f5fa56b6a5e404b8f63b8702e3bfc3805a

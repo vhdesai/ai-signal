@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 125
+member_count: 127
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 125 connected article(s).
+> Auto-generated entity hub. 127 connected article(s).
 
+- `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
+- `2026-09-02` [[2026-09-02-trust3-ai-extends-agent-security-controls-to-the-databricks|Trust3 AI extends agent security controls to the Databricks Unity AI Gateway]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
 - `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
 - `2026-09-01` [[2026-09-01-how-the-fda-is-building-a-secure-ai-ready-data-foundation-on|How the FDA is building a secure, AI-ready data foundation on Databricks for Government]]

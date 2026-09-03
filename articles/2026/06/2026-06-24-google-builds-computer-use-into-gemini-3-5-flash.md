@@ -5,7 +5,7 @@ date: '2026-06-24'
 source: Google DeepMind
 url_original: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/
 url_canonical: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-26_063633_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: ac221c55298b6934e3207f62fa1a78a6bebf006c5a4428bc9630cb9f609bb329
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-21-google-launches-gemini-3-5-flash-cyber-ai-for-vulnerability
 - 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
-- 2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model
+- 2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8
 embedding_id: 2026-06-24-google-builds-computer-use-into-gemini-3-5-flash
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google made computer use a native, built-in tool in Gemini 3.5 Flash, retiring t
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-24-google-makes-computer-use-a-built-in-tool-in-gemini-3-5-flas]] · [[2026-07-21-google-launches-gemini-3-5-flash-cyber-ai-for-vulnerability]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model]]
+**Related:** [[2026-06-24-google-makes-computer-use-a-built-in-tool-in-gemini-3-5-flas]] · [[2026-07-21-google-launches-gemini-3-5-flash-cyber-ai-for-vulnerability]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8]]
 <!-- graph:end -->

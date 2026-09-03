@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html
 url_canonical: https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_062205_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 6f399f4bbccc8ece22a150ac998ad464322de529c2254b3f0b90f53f0b050491
@@ -26,8 +26,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-05-meta-ships-muse-code-and-muse-spark-1-2-entering-the-coding
 - 2026-08-05-meta-ships-muse-code-a-terminal-coding-agent-built-on-muse-s
+- 2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age
 - 2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a
-- 2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1
 embedding_id: 2026-08-05-meta-debuts-muse-code-and-muse-spark-1-2-entering-the-coding
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Meta released Muse Code, its first coding agent, powered by a co-trained Muse Sp
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-05-meta-ships-muse-code-and-muse-spark-1-2-entering-the-coding]] · [[2026-08-05-meta-ships-muse-code-a-terminal-coding-agent-built-on-muse-s]] · [[2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a]] · [[2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1]]
+**Related:** [[2026-08-05-meta-ships-muse-code-and-muse-spark-1-2-entering-the-coding]] · [[2026-08-05-meta-ships-muse-code-a-terminal-coding-agent-built-on-muse-s]] · [[2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age]] · [[2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a]]
 <!-- graph:end -->

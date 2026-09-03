@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/your-agent-didnt-hallucinate-it-exceeded-its-authority
 url_canonical: https://venturebeat.com/technology/your-agent-didnt-hallucinate-it-exceeded-its-authority
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-10_061003_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: 06a055ad3b3a86dcb9ce0290dd342539ed179670f880dd5c8e28abe78f4e14f8

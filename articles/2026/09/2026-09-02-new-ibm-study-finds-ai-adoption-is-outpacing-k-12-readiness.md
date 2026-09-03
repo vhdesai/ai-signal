@@ -5,7 +5,7 @@ date: '2026-09-02'
 source: IBM Newsroom
 url_original: https://newsroom.ibm.com/2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness
 url_canonical: https://newsroom.ibm.com/2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-02_061041_Inbox_Daily AI News Digest – September
   2, 2026.md
 content_hash: f1a9dccc9bd4a5a3c701c4543d1623148f74a748a94a51a60ae0b0e42b18df1d
@@ -17,14 +17,9 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users
-- 2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai
-- 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
-- 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
-- 2026-08-03-this-study-is-important-because-it-examines-real-world-usage
+dedupe_status: duplicate
+canonical_article_id: 2026-09-02-ibm-study-finds-classroom-ai-adoption-outpacing-k-12-readine
+related_article_ids: []
 embedding_id: 2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness
 event_name: ''
 ---
@@ -38,5 +33,5 @@ IBM released U.S. research showing that AI is already routine in many K-12 class
 
 **Entities:** [[IBM]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users]] · [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-08-03-this-study-is-important-because-it-examines-real-world-usage]]
+**Canonical:** [[2026-09-02-ibm-study-finds-classroom-ai-adoption-outpacing-k-12-readine]]
 <!-- graph:end -->

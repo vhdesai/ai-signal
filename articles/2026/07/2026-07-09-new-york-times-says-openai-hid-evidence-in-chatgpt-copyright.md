@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/
 url_canonical: https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-10_061505_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 2a3d5b39b1d4da93119a651b61a5f8734725f2fc90b770288182e48a2b37b6e9
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t
 - 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
+- 2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training
+- 2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio
 - 2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over
-- 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
-- 2026-07-09-news-organizations-ask-federal-court-to-sanction-openai-in-c
 embedding_id: 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The New York Times and The Daily News filed a sanctions motion alleging OpenAI c
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-07-09-news-organizations-ask-federal-court-to-sanction-openai-in-c]]
+**Related:** [[2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training]] · [[2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio]] · [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over]]
 <!-- graph:end -->

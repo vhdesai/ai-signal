@@ -6,7 +6,7 @@ date: '2026-08-25'
 source: VentureBeat
 url_original: https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs
 url_canonical: https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-26_062133_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 8220071b2c482c216eab471c8f7cdc873e63e6731c7ac35a48fa7e5eba446fae
@@ -25,8 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-25-perplexity-partners-with-nvidia-to-launch-portable-computer
 - 2026-08-25-perplexity-ships-portable-computer-on-nvidia-dgx-spark
+- 2026-09-01-perplexity-ships-hybrid-compute-that-keeps-confidential-file
+- 2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b
 - 2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to
-- 2026-09-01-perplexity-ships-hybrid-compute-on-mac-gating-cloud-calls-be
 embedding_id: 2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Perplexity, partnering with Nvidia, launched Portable Computer — an agent plat
 
 **Entities:** [[NVIDIA]] · [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-25-perplexity-partners-with-nvidia-to-launch-portable-computer]] · [[2026-08-25-perplexity-ships-portable-computer-on-nvidia-dgx-spark]] · [[2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to]] · [[2026-09-01-perplexity-ships-hybrid-compute-on-mac-gating-cloud-calls-be]]
+**Related:** [[2026-08-25-perplexity-partners-with-nvidia-to-launch-portable-computer]] · [[2026-08-25-perplexity-ships-portable-computer-on-nvidia-dgx-spark]] · [[2026-09-01-perplexity-ships-hybrid-compute-that-keeps-confidential-file]] · [[2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b]] · [[2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to]]
 <!-- graph:end -->

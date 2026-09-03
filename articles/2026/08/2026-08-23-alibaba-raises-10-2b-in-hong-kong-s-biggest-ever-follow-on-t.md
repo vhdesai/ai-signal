@@ -6,7 +6,7 @@ date: '2026-08-23'
 source: Nikkei Asia / Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/alibaba-raises-10-billion-hong-113019173.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/alibaba-raises-10-billion-hong-113019173.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-24_060214_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 4a48384cf29cb8f60c7340e4d24ef3bf98b8c89d1a9ba54d94913308fe3e172a

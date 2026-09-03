@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: CRN
 url_original: https://www.crn.com/news/ai/2026/aws-forward-deployed-engineers-is-a-force-multiplier-for-partners-bizcloud-president-explains
 url_canonical: https://www.crn.com/news/ai/2026/aws-forward-deployed-engineers-is-a-force-multiplier-for-partners-bizcloud-president-explains
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-10_065350_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: d563269b74e37e0380539fe0841f32a223f627969132214531c6a8b4801e4e7e

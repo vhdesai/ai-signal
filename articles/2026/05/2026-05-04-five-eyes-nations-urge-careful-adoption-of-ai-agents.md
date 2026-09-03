@@ -4,8 +4,8 @@ title: Five Eyes nations urge “careful adoption” of AI agents
 date: '2026-05-04'
 source: WSJ Pro Cybersecurity / CIO Dive
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.forrester.com/blogs/five-eyes-cybersecurity-agencies-careful-agentic-ai-adoption-guidance-operationalized-by-aegis/
+url_status: repaired
 digest_source: digests\raw\2026-05-04_082406_Inbox_Daily AI News Digest –– May 4,
   2026 (Updated- May 3–4 only).md
 content_hash: 40ae9797ee33bf7aa95f2bb3288bcc97089e3f7d4b8f1871ef4715a5214c1631

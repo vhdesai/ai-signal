@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-28-tencent-open-sources-hy4-preview-770b-parameters-49b-active
 - 2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod
 - 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
-- 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe
+- 2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on
 embedding_id: 2026-08-28-tencent-open-sources-hy4-preview-770b-moe-1m-token-context
 event_name: ''
 ---
@@ -40,5 +40,5 @@ event_name: ''
 
 **Entities:** [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-28-tencent-open-sources-hy4-preview-770b-moe-with-a-1m-token-co]] · [[2026-08-28-tencent-open-sources-hy4-preview-770b-parameters-49b-active]] · [[2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]] · [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe]]
+**Related:** [[2026-08-28-tencent-open-sources-hy4-preview-770b-moe-with-a-1m-token-co]] · [[2026-08-28-tencent-open-sources-hy4-preview-770b-parameters-49b-active]] · [[2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]] · [[2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on]]
 <!-- graph:end -->

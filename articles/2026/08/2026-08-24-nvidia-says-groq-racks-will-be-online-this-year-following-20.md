@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/24/nvidia-says-groq-racks-will-be-online-this-year-after-20-billion-deal.html
 url_canonical: https://www.cnbc.com/2026/08/24/nvidia-says-groq-racks-will-be-online-this-year-after-20-billion-deal.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-26_065442_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: e5d256f7a1648364a51bb00e13a38295d34e134360da25bd0441fe33d0d11e7c

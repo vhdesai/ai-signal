@@ -4,8 +4,8 @@ title: Google's Genie World Model Can Now Simulate Real Streets Using Street Vie
 date: '2026-05-19'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie-expands/
+url_status: repaired
 digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: dd3d78fb7e7bdbd361d5e209a3d43df570255fce553804c1bc2407f423c138ba
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds
 - 2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i
+- 2026-09-02-fei-fei-li-s-world-labs-unveils-atlas-a-photorealistic-inter
 - 2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese
 - 2026-08-29-code-as-world-turns-real-videos-into-executable-mujoco-physi
-- 2026-07-31-google-adds-then-pulls-an-ai-image-generation-feature-in-goo
 embedding_id: 2026-05-19-google-s-genie-world-model-can-now-simulate-real-streets-usi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Unveiled at Google I/O 2026, the Genie world-modeling system now incorporates St
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds]] · [[2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i]] · [[2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese]] · [[2026-08-29-code-as-world-turns-real-videos-into-executable-mujoco-physi]] · [[2026-07-31-google-adds-then-pulls-an-ai-image-generation-feature-in-goo]]
+**Related:** [[2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds]] · [[2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i]] · [[2026-09-02-fei-fei-li-s-world-labs-unveils-atlas-a-photorealistic-inter]] · [[2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese]] · [[2026-08-29-code-as-world-turns-real-videos-into-executable-mujoco-physi]]
 <!-- graph:end -->

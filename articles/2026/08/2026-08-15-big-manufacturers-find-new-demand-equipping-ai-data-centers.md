@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru
 - 2026-07-20-massive-ai-supply-deals-face-execution-risk
 - 2026-07-13-hyperscaler-demand-turns-turbine-suppliers-into-an-ai-infras
-- 2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it
+- 2026-09-02-g20-technology-discussions-center-on-u-s-ai-adoption-and-dat
 embedding_id: 2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Wall Street Journal reported that large manufacturers are finding new demand
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-15-big-manufacturers-find-new-demand-in-equipping-ai-data-cente]] · [[2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru]] · [[2026-07-20-massive-ai-supply-deals-face-execution-risk]] · [[2026-07-13-hyperscaler-demand-turns-turbine-suppliers-into-an-ai-infras]] · [[2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it]]
+**Related:** [[2026-08-15-big-manufacturers-find-new-demand-in-equipping-ai-data-cente]] · [[2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru]] · [[2026-07-20-massive-ai-supply-deals-face-execution-risk]] · [[2026-07-13-hyperscaler-demand-turns-turbine-suppliers-into-an-ai-infras]] · [[2026-09-02-g20-technology-discussions-center-on-u-s-ai-adoption-and-dat]]
 <!-- graph:end -->

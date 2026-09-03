@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: Princeton AI Lab
 url_original: https://ai.princeton.edu/ai-lab
 url_canonical: https://ai.princeton.edu/ai-lab
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 965695606dcfdc9d4d82e7a3dd2be408c5696458ba9e47069bfd130aa5c6da64

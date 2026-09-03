@@ -4,8 +4,8 @@ title: Direct Code Interpreters Outperform Vector Search for Complex Agent Tasks
 date: '2026-05-22'
 source: VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://chrisweves.com/posts/bash-outperforms-vector-search
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070622_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 66f9efd8f321f7f8b97f8b0857dc53d11804fdf67a011c816ab807a6ab4beb09

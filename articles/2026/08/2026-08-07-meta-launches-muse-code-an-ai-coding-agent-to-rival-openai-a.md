@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: eWeek
 url_original: https://www.eweek.com/news/meta-muse-code-ai-coding-agent-2026/
 url_canonical: https://www.eweek.com/news/meta-muse-code-ai-coding-agent-2026/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-07_061807_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 1fbb6bbda30a4fb0fcf70e6b498f13bb22ddcdedeab29682e10831f61f530636

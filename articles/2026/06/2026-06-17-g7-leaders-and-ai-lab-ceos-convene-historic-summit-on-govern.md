@@ -6,7 +6,7 @@ date: '2026-06-17'
 source: CNBC
 url_original: https://www.cnbc.com/2026/06/17/g7-trump-ai-tech-leaders-openai-anthropic-google.html
 url_canonical: https://www.cnbc.com/2026/06/17/g7-trump-ai-tech-leaders-openai-anthropic-google.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-18_075931_Final-Daily-AI-News-Digest.md
 content_hash: 07e06048e46f678df5ed0ca93c1fd42f6bba16af37e51c9046f9ddff980c1049
 normalized_title_hash: 93ea2fa12e87d33e

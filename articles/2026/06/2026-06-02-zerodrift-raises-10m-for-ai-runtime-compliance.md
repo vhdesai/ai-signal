@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/
 url_canonical: https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-04_070640_Inbox_Daily AI News Digest – June 2,
   2026.md
 content_hash: bef8e9689f2981d6a52c622bd356d11d49d20bb634c608e52f960d0a6aa0cee7

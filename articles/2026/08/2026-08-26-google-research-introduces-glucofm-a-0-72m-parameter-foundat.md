@@ -6,7 +6,7 @@ date: '2026-08-26'
 source: MarkTechPost · Google Research · UNSW Sydney
 url_original: https://www.marktechpost.com/2026/08/26/google-research-introduces-glucofm-a-0-72m-parameter-dual-stream-foundation-model-for-continuous-glucose-monitoring/
 url_canonical: https://www.marktechpost.com/2026/08/26/google-research-introduces-glucofm-a-0-72m-parameter-dual-stream-foundation-model-for-continuous-glucose-monitoring/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 6f8df6bc97fab488dd5302d9b5cdc41655259c52e418f86e11ce121502cccdd0
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab
 - 2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore
 - 2026-08-31-google-research-releases-timesfm-3-a-330m-parameter-zero-sho
-- 2026-04-23-uw-and-ucsd-paper-shows-small-specialist-models-beating-gpt
+- 2026-09-02-gigapath-flash-and-gigatime-flash-toward-population-scale-di
 embedding_id: 2026-08-26-google-research-introduces-glucofm-a-0-72m-parameter-foundat
 event_name: ''
 ---
@@ -40,5 +40,5 @@ GlucoFM separates a slow physiological "state" stream from a transient "event" s
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda]] · [[2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab]] · [[2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore]] · [[2026-08-31-google-research-releases-timesfm-3-a-330m-parameter-zero-sho]] · [[2026-04-23-uw-and-ucsd-paper-shows-small-specialist-models-beating-gpt]]
+**Related:** [[2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda]] · [[2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab]] · [[2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore]] · [[2026-08-31-google-research-releases-timesfm-3-a-330m-parameter-zero-sho]] · [[2026-09-02-gigapath-flash-and-gigatime-flash-toward-population-scale-di]]
 <!-- graph:end -->

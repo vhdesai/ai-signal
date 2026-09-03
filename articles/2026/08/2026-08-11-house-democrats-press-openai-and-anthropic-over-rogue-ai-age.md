@@ -48,7 +48,7 @@ related_article_ids:
 - 2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo
 - 2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
-- 2026-08-10-house-democrats-press-for-openai-and-anthropic-ceos-to-testi
+- 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
 embedding_id: 2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age
 event_name: ''
 ---
@@ -62,5 +62,5 @@ Fifty-one House Democrats, led by Representatives Greg Casar and Doris Matsui, d
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo]] · [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-08-10-house-democrats-press-for-openai-and-anthropic-ceos-to-testi]]
+**Related:** [[2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo]] · [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]]
 <!-- graph:end -->

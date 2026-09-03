@@ -1,20 +1,40 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 1974
+member_count: 1994
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 1974 connected article(s).
+> Auto-generated entity hub. 1994 connected article(s).
 
+- `2026-09-03` [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training|U.S. government sides with OpenAI in New York Times training-data lawsuit]]
+- `2026-09-03` [[2026-09-03-sanders-and-casar-propose-a-u-s-ban-on-artificial-superintel|Sanders and Casar Propose a U.S. Ban on 'Artificial Superintelligence']]
+- `2026-09-03` [[2026-09-03-openai-says-astra-reaches-a-critical-cybersecurity-capabilit|OpenAI says Astra reaches a critical cybersecurity capability threshold]]
+- `2026-09-03` [[2026-09-03-openai-building-automated-ai-shutdown-tools-after-hugging-fa|OpenAI building automated AI shutdown tools after Hugging Face hack]]
+- `2026-09-03` [[2026-09-03-hot-altman-raises-the-stakes-on-government-scrutiny-of-front|Hot Altman raises the stakes on government scrutiny of frontier models]]
+- `2026-09-03` [[2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim|DOJ urges judge to rule for OpenAI, Microsoft in New York Times lawsuit]]
+- `2026-09-03` [[2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai|Broadcom projects AI chip revenue to double in 2027 and again in 2028]]
+- `2026-09-03` [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a|Anthropic breaks with Google and OpenAI over Massachusetts AI safety bill]]
+- `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
+- `2026-09-02` [[2026-09-02-u-s-pushes-light-touch-ai-regulation-at-g20-as-europe-advanc|U.S. pushes light-touch AI regulation at G20 as Europe advances new AI law]]
+- `2026-09-02` [[2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio|The U.S. government filed a brief supporting OpenAI's position in The New York Times copyright lawsuit over the use of copyrighted material to train large language models. TechCrunch reports the brief argues that constraining LLM development under a misunderstanding of fair use could hinder U.S. AI leadership and economic progress. The intervention is not a court ruling, but it may carry weight in a case that could shape training-data norms for the industry.]]
 - `2026-09-02` [[2026-09-02-softbank-s-sb-energy-files-to-go-public-naming-openai-as-chi|SoftBank's SB Energy files to go public, naming OpenAI as chief tenant and 5% owner]]
+- `2026-09-02` [[2026-09-02-openai-s-new-reasoning-technique-alarms-ai-safety-experts|OpenAI’s new reasoning technique alarms AI safety experts]]
 - `2026-09-02` [[2026-09-02-openai-s-astra-becomes-its-first-model-rated-critical-for-cy|OpenAI’s Astra becomes its first model rated “Critical” for cyber capability]]
+- `2026-09-02` [[2026-09-02-openai-says-astra-crosses-its-critical-cybersecurity-thresho|OpenAI says Astra crosses its critical cybersecurity threshold]]
 - `2026-09-02` [[2026-09-02-openai-restricts-astra-model-after-it-crosses-critical-cyber|OpenAI restricts Astra model after it crosses "critical" cyber-risk threshold]]
 - `2026-09-02` [[2026-09-02-openai-faces-30-additional-lawsuits-over-the-tumbler-ridge-s|OpenAI faces 30 additional lawsuits over the Tumbler Ridge shooting]]
 - `2026-09-02` [[2026-09-02-openai-and-anthropic-balance-safety-disclosure-against-ipo-p|OpenAI and Anthropic balance safety disclosure against IPO positioning]]
+- `2026-09-02` [[2026-09-02-openai-says-forthcoming-astra-model-crosses-critical-cyberse|OpenAI Says Forthcoming Astra Model Crosses “Critical” Cybersecurity Threshold]]
+- `2026-09-02` [[2026-09-02-openai-says-astra-is-its-first-model-to-cross-the-critical-c|OpenAI Says Astra Is Its First Model to Cross the 'Critical' Cyber Threshold]]
+- `2026-09-02` [[2026-09-02-new-nvidia-open-sources-switchyard-a-rust-proxy-for-cross-pr|New NVIDIA open-sources Switchyard, a Rust proxy for cross-provider LLM traffic]]
+- `2026-09-02` [[2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age|Meta releases Muse Spark 1.3 for coding and long-horizon agentic workflows]]
+- `2026-09-02` [[2026-09-02-justice-department-backs-openai-s-fair-use-defense-in-publis|Justice Department Backs OpenAI's Fair-Use Defense in Publisher Copyright Case]]
+- `2026-09-02` [[2026-09-02-google-starts-september-with-ai-momentum-after-a-long-stock|Google starts September with AI momentum after a long stock losing streak]]
 - `2026-09-02` [[2026-09-02-google-reportedly-readying-a-new-gemini-model-codenamed-skim|Google Reportedly Readying a New Gemini Model Codenamed “Skimaki”]]
 - `2026-09-02` [[2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day|Frontier capability and frontier cost moved on the same day]]
+- `2026-09-02` [[2026-09-02-breaking-openai-says-astra-is-its-first-model-to-cross-the-c|Breaking OpenAI says "Astra" is its first model to cross the Critical cybersecurity threshold]]
 - `2026-09-02` [[2026-09-02-anthropic-follows-openai-in-pausing-some-ai-training-followi|Anthropic follows OpenAI in pausing some AI training following rogue agent hacks]]
 - `2026-09-01` [[2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu|PitchBook: M&A, Not IPOs, Is Now the Default Exit for AI Startups Outside the Frontier Tier]]
 - `2026-09-01` [[2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr|Pentagon deploys ChatGPT Gov and Grok, notably excludes Anthropic]]

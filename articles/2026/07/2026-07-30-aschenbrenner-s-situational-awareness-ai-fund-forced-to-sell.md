@@ -6,7 +6,7 @@ date: '2026-07-30'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/
 url_canonical: https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-31_061901_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: ccce823bcf99914108b92b2b75cabb070b0f971e25bab57003425aceb8959f94

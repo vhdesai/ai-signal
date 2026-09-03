@@ -6,7 +6,7 @@ date: '2026-08-31'
 source: NVIDIA Newsroom / Reuters
 url_original: https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms
 url_canonical: https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: 1a1fd2d3d281f696a948902dc029fc869ebcbf14bddc374d243ba9ad3d9489ea
 normalized_title_hash: 4b744ea7687b5651

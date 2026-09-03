@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding
 url_canonical: https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-07_061720_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 73cf519cbfb38ed218470350e321bff96fa0d4c677b8e4b6427c7ec1d8dec0e3
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for
 - 2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod
 - 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe
-- 2026-08-20-tencent-releases-hy-mt2-30b-a3b-and-hy-mt2-1-8b-translation
+- 2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on
 embedding_id: 2026-07-06-tencent-s-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-s
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Tencent released Hy3 as a 295B-parameter mixture-of-experts model with 21B activ
 
 **Entities:** [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod]] · [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe]] · [[2026-08-20-tencent-releases-hy-mt2-30b-a3b-and-hy-mt2-1-8b-translation]]
+**Related:** [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod]] · [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe]] · [[2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on]]
 <!-- graph:end -->

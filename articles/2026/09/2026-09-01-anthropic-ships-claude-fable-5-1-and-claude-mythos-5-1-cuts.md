@@ -6,7 +6,7 @@ date: '2026-09-01'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/
 url_canonical: https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-02_065546_Final-Daily-AI-News-Digest.md
 content_hash: e0566756b552350d29e595b8903740bc32c47ac5a8bbea765d259d35463fd97f
 normalized_title_hash: 312a77cdf4b50c99
@@ -23,8 +23,8 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75
 related_article_ids:
 - 2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-75-chea
-- 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a
-- 2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm
+- 2026-09-02-anthropic-ships-claude-fable-5-1-and-mythos-5-1-cutting-agen
+- 2026-09-02-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-geograp
 embedding_id: 2026-09-01-anthropic-ships-claude-fable-5-1-and-claude-mythos-5-1-cuts
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic released two new model variants — Claude Fable 5.1 and Claude Mythos
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75]]
-**Related:** [[2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-75-chea]] · [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a]] · [[2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm]]
+**Related:** [[2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-75-chea]] · [[2026-09-02-anthropic-ships-claude-fable-5-1-and-mythos-5-1-cutting-agen]] · [[2026-09-02-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-geograp]]
 <!-- graph:end -->

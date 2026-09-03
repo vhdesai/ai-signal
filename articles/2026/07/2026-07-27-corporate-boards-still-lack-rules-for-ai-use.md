@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/corporate-boards-lack-rules-ai-use-deloitte-survey-artificial-intelligence/826117/
 url_canonical: https://www.ciodive.com/news/corporate-boards-lack-rules-ai-use-deloitte-survey-artificial-intelligence/826117/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-28_065753_Final-Daily-AI-News-Digest.md
 content_hash: 359060fd2964feeb225bbcb060f6f7755b1224c3e06da31e087b7bbcebc1925f
 normalized_title_hash: b173c9d8119e4a55

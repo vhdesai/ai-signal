@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 167
+member_count: 169
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 167 connected article(s).
+> Auto-generated entity hub. 169 connected article(s).
 
+- `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
+- `2026-09-02` [[2026-09-02-tencent-backed-enflame-draws-6-000x-retail-oversubscription|Tencent-Backed Enflame Draws 6,000x Retail Oversubscription in $910M Shanghai IPO]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
 - `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
 - `2026-09-01` [[2026-09-01-huawei-first-half-profit-falls-roughly-a-third-as-r-d-hits-2|Huawei first-half profit falls roughly a third as R&D hits 26% of revenue]]

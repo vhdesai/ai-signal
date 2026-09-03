@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/
 url_canonical: https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-23_065253_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: 38847a8cda01b8140e349721306729226f75e3febdec4641048925455c7b5650

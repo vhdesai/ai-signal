@@ -4,8 +4,8 @@ title: 'NYT: OpenAI and Anthropic quietly lobby Washington to curb open-source A
 date: '2026-07-25'
 source: The New York Times
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://gaasnews.com/policy/labs-lobby-against-open-weights/
+url_status: repaired
 digest_source: digests\raw\2026-07-26_061151_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: f8af6e0252c6085f03d0ff0521fd010f8f7daf4b24f77d6bf0fb2c5ef0802827

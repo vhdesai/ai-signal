@@ -5,8 +5,8 @@ title: Stanford HAI's 2026 AI Index — the most comprehensive annual analysis o
 date: '2026-05-22'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070841_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 92ffacb4a36b5169e374316ac8cf7468fccf262861eb0b9bf57538db83262e3b

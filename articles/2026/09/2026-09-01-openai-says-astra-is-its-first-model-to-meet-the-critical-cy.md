@@ -21,8 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-02-openai-says-astra-crosses-its-critical-cybersecurity-thresho
 - 2026-09-01-openai-says-astra-is-its-first-model-to-reach-critical-cyber
 - 2026-09-01-openai-says-astra-is-the-first-model-to-cross-its-critical-c
+- 2026-09-02-openai-says-forthcoming-astra-model-crosses-critical-cyberse
 - 2026-09-01-path-to-astra-critical-capabilities-and-frontier-safeguards
 embedding_id: 2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy
 event_name: ''
@@ -37,5 +39,5 @@ In “Path to Astra,” OpenAI published the safeguard framing for its next fron
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-01-openai-says-astra-is-its-first-model-to-reach-critical-cyber]] · [[2026-09-01-openai-says-astra-is-the-first-model-to-cross-its-critical-c]] · [[2026-09-01-path-to-astra-critical-capabilities-and-frontier-safeguards]]
+**Related:** [[2026-09-02-openai-says-astra-crosses-its-critical-cybersecurity-thresho]] · [[2026-09-01-openai-says-astra-is-its-first-model-to-reach-critical-cyber]] · [[2026-09-01-openai-says-astra-is-the-first-model-to-cross-its-critical-c]] · [[2026-09-02-openai-says-forthcoming-astra-model-crosses-critical-cyberse]] · [[2026-09-01-path-to-astra-critical-capabilities-and-frontier-safeguards]]
 <!-- graph:end -->

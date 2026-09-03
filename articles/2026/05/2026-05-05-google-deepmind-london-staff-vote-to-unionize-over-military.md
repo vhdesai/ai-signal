@@ -4,8 +4,8 @@ title: Google DeepMind London Staff Vote to Unionize Over Military AI Contracts
 date: '2026-05-05'
 source: 'Underlying vote: May 5, 2026'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techbuzz.ai/articles/google-deepmind-workers-vote-to-unionize-over-military-ai-deals
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071033_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 3153a992a0c93daa1264913dadabfb98938fb6e74f98149189607ce6b1246f06

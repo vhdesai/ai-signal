@@ -32,8 +32,8 @@ related_article_ids:
 - 2026-07-21-google-launches-gemini-3-5-flash-cyber-ai-for-vulnerability
 - 2026-05-27-the-week-that-reset-the-ai-industry
 - 2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f
-- 2026-07-14-subject-daily-ai-news-digest-july-14-2026
-- 2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice
+- 2026-09-02-google-launches-gemini-3-8-flash-and-a-cyber-defense-variant
+- 2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8
 embedding_id: 2026-07-22-efficient-new-models-and-mega-deals-collide-with-mounting-sa
 event_name: ''
 ---
@@ -47,5 +47,5 @@ The last 24 hours brought efficient Gemini Flash releases, major AI infrastructu
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-07-21-google-launches-gemini-3-5-flash-cyber-ai-for-vulnerability]] · [[2026-05-27-the-week-that-reset-the-ai-industry]] · [[2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice]]
+**Related:** [[2026-07-21-google-launches-gemini-3-5-flash-cyber-ai-for-vulnerability]] · [[2026-05-27-the-week-that-reset-the-ai-industry]] · [[2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f]] · [[2026-09-02-google-launches-gemini-3-8-flash-and-a-cyber-defense-variant]] · [[2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8]]
 <!-- graph:end -->

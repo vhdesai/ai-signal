@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 783
+member_count: 789
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 783 connected article(s).
+> Auto-generated entity hub. 789 connected article(s).
 
+- `2026-09-03` [[2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim|DOJ urges judge to rule for OpenAI, Microsoft in New York Times lawsuit]]
+- `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
+- `2026-09-02` [[2026-09-02-trending-hiddenlayer-raises-100m-series-b-as-enterprises-rus|Trending HiddenLayer raises $100M Series B as enterprises rush to secure AI deployments]]
+- `2026-09-02` [[2026-09-02-justice-department-backs-openai-s-fair-use-defense-in-publis|Justice Department Backs OpenAI's Fair-Use Defense in Publisher Copyright Case]]
+- `2026-09-02` [[2026-09-02-gigapath-flash-and-gigatime-flash-toward-population-scale-di|GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models]]
+- `2026-09-02` [[2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta|Anthropic launches Claude commerce-agent blueprints for retailers]]
 - `2026-09-01` [[2026-09-01-u-s-pushes-g20-toward-light-touch-ai-regulation-under-the-ca|U.S. Pushes G20 Toward Light-Touch AI Regulation Under the “Carolina Principles”]]
 - `2026-09-01` [[2026-09-01-microsoft-publishes-its-2026-responsible-ai-transparency-rep|Microsoft Publishes Its 2026 Responsible AI Transparency Report]]
 - `2026-09-01` [[2026-09-01-microsoft-365-outage-enters-second-day-disrupting-teams-and|Microsoft 365 Outage Enters Second Day, Disrupting Teams and Copilot]]

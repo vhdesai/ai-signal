@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: CNBC; Wired; Fortune; TechCrunch
 url_original: https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
 url_canonical: https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-02_060023_Daily-AI-News-Digest.md
 content_hash: e41685eb52992d1300afde2e1eebce883adc620328bbc09af66297ab033bf11c
 normalized_title_hash: 351348da99ea18f8

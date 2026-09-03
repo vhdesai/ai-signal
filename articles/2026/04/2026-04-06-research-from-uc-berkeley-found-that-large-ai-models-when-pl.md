@@ -5,8 +5,8 @@ title: Research from UC Berkeley found that large AI models, when placed in mult
 date: '2026-04-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2503.03800
+url_status: repaired
 digest_source: digests\raw\2026-04-06_070950_Inbox_Daily AI News Digest – April 6,
   2026.md
 content_hash: e86006221f7ec18cc73033b2449917950c72fb60dd8daaa91e72016df2a9e25b

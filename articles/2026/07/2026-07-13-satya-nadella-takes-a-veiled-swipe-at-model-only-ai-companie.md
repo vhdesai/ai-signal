@@ -4,8 +4,8 @@ title: Satya Nadella takes a veiled swipe at model-only AI companies
 date: '2026-07-13'
 source: Business Insider
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessinsider.com/microsoft-ceo-satya-nadella-swipe-ai-model-makers-distillation-2026-7
+url_status: repaired
 digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - July
   13, 2026.md
 content_hash: 6f992d6d7b86b590c6d6424c209eed657c3c7831710a118d2c197cf3b15edc4a

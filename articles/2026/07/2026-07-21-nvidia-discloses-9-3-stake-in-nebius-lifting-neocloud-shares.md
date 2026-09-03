@@ -4,8 +4,8 @@ title: NVIDIA discloses 9.3% stake in Nebius, lifting neocloud shares
 date: '2026-07-21'
 source: CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/07/21/nebius-stock-nvidia-stake-neocloud.html
+url_status: repaired
 digest_source: digests\raw\2026-07-21-daily-ai-news-digest.md
 content_hash: e6d1bed1474b10817a2ec35d596125d34c782e4bb3a57d9874a756cbd51afddb
 normalized_title_hash: 9ff36fe50d3a6fd3

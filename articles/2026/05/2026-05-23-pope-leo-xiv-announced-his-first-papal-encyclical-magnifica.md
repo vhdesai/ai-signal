@@ -5,8 +5,8 @@ title: Pope Leo XIV announced his first papal encyclical, Magnifica Humanitas, w
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html
+url_status: repaired
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 9f87cd643bdc0943faecd0d4aabeeb95639f1fd281bcbb3f6dd6a4a319eb942e

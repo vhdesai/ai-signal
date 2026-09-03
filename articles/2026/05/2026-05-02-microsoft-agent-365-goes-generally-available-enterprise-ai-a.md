@@ -5,8 +5,8 @@ title: Microsoft Agent 365 Goes Generally Available — Enterprise AI Agent Gove
 date: '2026-05-02'
 source: AIToolsRecap
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/
+url_status: repaired
 digest_source: digests\raw\2026-05-19_071414_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: ee587d7a36169e59484ed63e781ccfc7cdf40e41d95026ac8b3d85aed5199859

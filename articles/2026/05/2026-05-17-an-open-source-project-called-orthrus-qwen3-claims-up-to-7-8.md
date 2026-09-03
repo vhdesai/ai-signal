@@ -5,8 +5,8 @@ title: An open-source project called Orthrus-Qwen3 claims up to 7.8x tokens-per-
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.skysynctech.ca/news/orthrus-qwen3-token-efficiency-forward-pass
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 89bf521b67922954e7f3fe4494b99936550445efaf50a21b43a7fcb684c9a71f

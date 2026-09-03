@@ -6,7 +6,7 @@ date: '2026-07-02'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/319531/20260702/nvidia-diffusion-llm-hits-242x-throughput-without-retraining-nemotron-twotower-released.htm
 url_canonical: https://www.techtimes.com/articles/319531/20260702/nvidia-diffusion-llm-hits-242x-throughput-without-retraining-nemotron-twotower-released.htm
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-03_062005_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: 7e8cd25cbd18b44381cf0309881006c54ad87e2f769dc4fcde8f8b7f03fee661

@@ -1,14 +1,17 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 147
+member_count: 150
 ---
 
 # IBM
 
-> Auto-generated entity hub. 147 connected article(s).
+> Auto-generated entity hub. 150 connected article(s).
 
+- `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-02` [[2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness|New IBM Study Finds AI Adoption Is Outpacing K-12 Readiness]]
+- `2026-09-02` [[2026-09-02-ibm-study-finds-classroom-ai-adoption-outpacing-k-12-readine|IBM study finds classroom AI adoption outpacing K-12 readiness]]
+- `2026-09-02` [[2026-09-02-from-mit-to-ibm-expediting-ai-and-quantum-deployment|From MIT to IBM, expediting AI and quantum deployment]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
 - `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
 - `2026-08-31` [[2026-08-31-eurohpc-awards-bull-a-387-8m-contract-for-the-lumi-ai-superc|EuroHPC awards Bull a €387.8M contract for the LUMI-AI supercomputer in Finland]]

@@ -4,8 +4,8 @@ title: HOTMicrosoft and OpenAI End Cloud Exclusivity
 date: '2026-04-27'
 source: The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theaitrack.com/microsoft-and-openai-end-exclusive-deal/
+url_status: repaired
 digest_source: digests\raw\2026-05-04_080719_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 17df89f4c801c10ea5359ba450fbffefbe161d9ee475a22eccd24269e99abcb9
 normalized_title_hash: 9f49411de2204e87

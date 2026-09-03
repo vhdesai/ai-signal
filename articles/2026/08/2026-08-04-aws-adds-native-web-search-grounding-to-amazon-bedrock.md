@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: AWS Machine Learning Blog
 url_original: https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/
 url_canonical: https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-05_070154_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 8a5dd99bf8a981fdcc510ee8261de6c09f2b719e436411aa30dfbbc655bbd4c1

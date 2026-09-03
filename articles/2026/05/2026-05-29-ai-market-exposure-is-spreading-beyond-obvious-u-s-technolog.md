@@ -4,8 +4,8 @@ title: AI market exposure is spreading beyond obvious U.S. technology winners
 date: '2026-05-29'
 source: Wall Street Journal
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.tradingpedia.com/2025/12/19/goldman-sachs-sees-next-phase-of-bull-market-spreading-beyond-u-s-tech-in-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075823_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 3a6f12732ee25ca7af13c78262ba3dcdabea1b8cfbc3dac33f3d4a1c7aa4d0ac

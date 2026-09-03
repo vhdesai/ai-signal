@@ -5,8 +5,8 @@ title: UT Austin Dell Medical School names first Chief Translational AI and Info
 date: '2026-05-19'
 source: UT News
 url_original: https://news.utexas.edu/
-url_canonical: https://news.utexas.edu/
-url_status: found
+url_canonical: https://dellmed.utexas.edu/news/hongfang-liu-joins-dell-medical-school-to-lead-new-department-of-quantitative-and-systems-health-sciences-serve-as-chief-translational-ai-and-informatics-officer
+url_status: repaired
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: c26ffb9a937700456a89474fd9a8a5a5ae675980b01ce739a22b8f950a5af7e3

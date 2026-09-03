@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: The Next Web / z.ai
 url_original: https://z.ai/blog/glm-5.2
 url_canonical: https://z.ai/blog/glm-5.2
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-13_060615_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: e6d15e7f37b4f8742bfa5e4a293dc6d08ba8d04a3f452cc14acf3a90e9da18e4

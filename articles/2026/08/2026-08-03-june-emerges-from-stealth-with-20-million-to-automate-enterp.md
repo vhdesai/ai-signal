@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise
 - 2026-08-03-marc-benioff-backed-june-raises-20-million-to-automate-ai-de
 - 2026-09-01-air-launches-with-50m-to-build-a-firewall-for-ai-agent-skill
+- 2026-09-01-air-emerges-from-stealth-with-50m-to-police-the-ai-agent-sup
 - 2026-09-01-air-emerges-from-stealth-with-50m-to-police-the-ai-agent-sof
-- 2026-05-11-openai-launches-4b-deployco-ai-services-venture
 embedding_id: 2026-08-03-june-emerges-from-stealth-with-20-million-to-automate-enterp
 event_name: ''
 ---
@@ -41,5 +41,5 @@ June, founded by former Salesforce AI executives, launched from stealth with a $
 
 **Entities:** [[Salesforce]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise]] · [[2026-08-03-marc-benioff-backed-june-raises-20-million-to-automate-ai-de]] · [[2026-09-01-air-launches-with-50m-to-build-a-firewall-for-ai-agent-skill]] · [[2026-09-01-air-emerges-from-stealth-with-50m-to-police-the-ai-agent-sof]] · [[2026-05-11-openai-launches-4b-deployco-ai-services-venture]]
+**Related:** [[2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise]] · [[2026-08-03-marc-benioff-backed-june-raises-20-million-to-automate-ai-de]] · [[2026-09-01-air-launches-with-50m-to-build-a-firewall-for-ai-agent-skill]] · [[2026-09-01-air-emerges-from-stealth-with-50m-to-police-the-ai-agent-sup]] · [[2026-09-01-air-emerges-from-stealth-with-50m-to-police-the-ai-agent-sof]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: PCWorld
 url_original: https://www.pcworld.com/article/3152460/nvidia-rtx-spark-chip-reinvents-laptops-for-agentic-ai.html
 url_canonical: https://www.pcworld.com/article/3152460/nvidia-rtx-spark-chip-reinvents-laptops-for-agentic-ai.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-01_060804_Daily-AI-News-Digest.md
 content_hash: 73d757e88dcf44edcc98757fe7d481e91dfcc1d63799effc77ea0ecce715f39f
 normalized_title_hash: 68bd79613384c5f2
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p
 - 2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super
 - 2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play
-- 2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst
+- 2026-09-02-asus-unveils-proart-pcs-on-nvidia-rtx-spark-at-ifa-2026
 embedding_id: 2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex
 event_name: ''
 ---
@@ -40,5 +40,5 @@ At Computex in Taipei, Jensen Huang launched the RTX Spark platform — a Window
 
 **Entities:** [[Arm]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]] · [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]] · [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]]
+**Related:** [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]] · [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]] · [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]] · [[2026-09-02-asus-unveils-proart-pcs-on-nvidia-rtx-spark-at-ifa-2026]]
 <!-- graph:end -->

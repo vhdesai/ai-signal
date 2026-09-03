@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 159
+member_count: 161
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 159 connected article(s).
+> Auto-generated entity hub. 161 connected article(s).
 
+- `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
+- `2026-09-02` [[2026-09-02-cerebras-breaks-ground-on-a-165mw-data-center-in-mikkeli-fin|Cerebras breaks ground on a 165MW data center in Mikkeli, Finland]]
 - `2026-09-02` [[2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da|Cerebras and Compute Nordic Finland announce new 165MW AI data centre in Mikkeli, Finland]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
 - `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]

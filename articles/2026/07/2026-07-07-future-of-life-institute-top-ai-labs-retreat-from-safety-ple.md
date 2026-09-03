@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-09-fli-summer-2026-ai-safety-index-no-lab-scores-better-than-c
 - 2026-08-22-study-frontier-labs-still-publish-almost-no-plans-for-contai
 - 2026-08-22-study-frontier-labs-have-few-published-plans-for-containing
-- 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
+- 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
 embedding_id: 2026-07-07-future-of-life-institute-top-ai-labs-retreat-from-safety-ple
 event_name: ''
 ---
@@ -45,5 +45,5 @@ A new FLI AI Safety Index found leading labs have weakened or eliminated commitm
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Mistral]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-09-fli-summer-2026-ai-safety-index-no-lab-scores-better-than-a]] · [[2026-08-09-fli-summer-2026-ai-safety-index-no-lab-scores-better-than-c]] · [[2026-08-22-study-frontier-labs-still-publish-almost-no-plans-for-contai]] · [[2026-08-22-study-frontier-labs-have-few-published-plans-for-containing]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]]
+**Related:** [[2026-08-09-fli-summer-2026-ai-safety-index-no-lab-scores-better-than-a]] · [[2026-08-09-fli-summer-2026-ai-safety-index-no-lab-scores-better-than-c]] · [[2026-08-22-study-frontier-labs-still-publish-almost-no-plans-for-contai]] · [[2026-08-22-study-frontier-labs-have-few-published-plans-for-containing]] · [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]]
 <!-- graph:end -->

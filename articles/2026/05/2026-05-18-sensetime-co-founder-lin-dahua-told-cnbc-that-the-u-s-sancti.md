@@ -5,8 +5,8 @@ title: SenseTime co-founder Lin Dahua told CNBC that the U.S.-sanctioned Chinese
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/05/06/china-ai-race-cost-efficiency-sensetime-competition.html
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 459660663251fea10d13607ae164c28d899a0db10a45469bddd669863ba05cae

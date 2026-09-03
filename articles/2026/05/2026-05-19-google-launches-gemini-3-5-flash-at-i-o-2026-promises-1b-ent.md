@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/google-says-gemini-3-5-flash-can-slash-enterprise-ai-costs-by-more-than-1-billion-a-year
 url_canonical: https://venturebeat.com/technology/google-says-gemini-3-5-flash-can-slash-enterprise-ai-costs-by-more-than-1-billion-a-year
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: d877df92e108fa91ccc26ac762bd1805b2a9e221aad0e0ae761041d7137760c0

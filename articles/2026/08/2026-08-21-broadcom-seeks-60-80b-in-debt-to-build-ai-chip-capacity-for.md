@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: The Next Web / Bloomberg, CNBC, Reuters
 url_original: https://thenextweb.com/news/broadcom-60bn-ai-chip-debt-anthropic
 url_canonical: https://thenextweb.com/news/broadcom-60bn-ai-chip-debt-anthropic
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_060949_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 958d950d359572ba6f479facf7dc776efc8c2431537a02c682dce2483d409960

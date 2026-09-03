@@ -1,16 +1,29 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 985
+member_count: 998
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 985 connected article(s).
+> Auto-generated topic hub. 998 connected article(s).
 
+- `2026-09-03` [[2026-09-03-sivers-commits-30m-to-expand-indium-phosphide-laser-producti|Sivers Commits $30M to Expand Indium Phosphide Laser Production in Glasgow]]
+- `2026-09-03` [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va|Moonshot AI Files Confidentially for Hong Kong IPO at ~$50B Valuation]]
+- `2026-09-03` [[2026-09-03-liteon-invests-176m-for-25-of-liquid-cooling-specialist-dcx|LITEON Invests $176M for 25% of Liquid-Cooling Specialist DCX]]
+- `2026-09-03` [[2026-09-03-china-s-moonshot-ai-confidentially-filed-for-a-hong-kong-ipo|China's Moonshot AI confidentially filed for a Hong Kong IPO]]
+- `2026-09-02` [[2026-09-02-ipronics-raises-125m-with-nvidia-participation-for-optical-a|iPronics raises $125M with NVIDIA participation for optical AI networking]]
+- `2026-09-02` [[2026-09-02-ipronics-raises-125-million-for-programmable-optical-network|iPronics raises $125 million for programmable optical networking, with Nvidia participating]]
+- `2026-09-02` [[2026-09-02-ipronics-raises-125m-with-nvidia-participating-for-programma|iPronics Raises $125M, With Nvidia Participating, for Programmable Optical Networking]]
+- `2026-09-02` [[2026-09-02-trending-hiddenlayer-raises-100m-series-b-as-enterprises-rus|Trending HiddenLayer raises $100M Series B as enterprises rush to secure AI deployments]]
+- `2026-09-02` [[2026-09-02-trending-anthropic-s-triple-release-read-as-a-2-trillion-ipo|Trending Anthropic's triple release read as a $2 trillion IPO playbook]]
 - `2026-09-02` [[2026-09-02-tencent-backed-enflame-s-ipo-draws-4-073-times-retail-demand|Tencent-backed Enflame’s IPO draws 4,073 times retail demand]]
+- `2026-09-02` [[2026-09-02-tencent-backed-enflame-draws-6-000x-retail-oversubscription|Tencent-Backed Enflame Draws 6,000x Retail Oversubscription in $910M Shanghai IPO]]
 - `2026-09-02` [[2026-09-02-softbank-s-sb-energy-files-to-go-public-naming-openai-as-chi|SoftBank's SB Energy files to go public, naming OpenAI as chief tenant and 5% owner]]
 - `2026-09-02` [[2026-09-02-openai-and-anthropic-balance-safety-disclosure-against-ipo-p|OpenAI and Anthropic balance safety disclosure against IPO positioning]]
+- `2026-09-02` [[2026-09-02-nvidia-joins-ipronics-125-million-round-for-programmable-opt|Nvidia joins iPronics' $125 million round for programmable optical networking]]
+- `2026-09-02` [[2026-09-02-enterprise-ai-startup-wonderful-raises-550m-at-a-5-billion-v|Enterprise AI startup Wonderful raises $550M at a $5 billion valuation]]
+- `2026-09-02` [[2026-09-02-anthropic-s-ipo-prospectus-will-test-assumptions-behind-the|Anthropic's IPO prospectus will test assumptions behind the AI boom]]
 - `2026-09-02` [[2026-09-02-ai-sales-orchestration-startup-clay-raises-at-7b-valuation|AI sales-orchestration startup Clay raises at $7B valuation]]
 - `2026-09-01` [[2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo|Tencent-Backed AI Chipmaker Enflame Seeks ~$911 Million in IPO]]
 - `2026-09-01` [[2026-09-01-sequoia-incubated-empirik-spins-out-with-21m-to-predict-outa|Sequoia-incubated Empirik spins out with $21M to predict outages before they occur]]

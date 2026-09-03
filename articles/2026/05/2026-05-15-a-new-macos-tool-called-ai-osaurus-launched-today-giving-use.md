@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-15-osaurus-brings-unified-local-cloud-ai-model-management-to-ma
 - 2026-08-30-apple-s-mac-sales-surge-as-developers-buy-hardware-for-local
+- 2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b
 - 2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi
 - 2026-09-01-perplexity-ships-hybrid-compute-on-mac-gating-cloud-calls-be
-- 2026-07-21-apple-proposes-environment-free-synthetic-data-generation-fo
 embedding_id: 2026-05-15-a-new-macos-tool-called-ai-osaurus-launched-today-giving-use
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A new macOS tool called AI Osaurus launched today, giving users a unified interf
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-15-osaurus-brings-unified-local-cloud-ai-model-management-to-ma]] · [[2026-08-30-apple-s-mac-sales-surge-as-developers-buy-hardware-for-local]] · [[2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi]] · [[2026-09-01-perplexity-ships-hybrid-compute-on-mac-gating-cloud-calls-be]] · [[2026-07-21-apple-proposes-environment-free-synthetic-data-generation-fo]]
+**Related:** [[2026-05-15-osaurus-brings-unified-local-cloud-ai-model-management-to-ma]] · [[2026-08-30-apple-s-mac-sales-surge-as-developers-buy-hardware-for-local]] · [[2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b]] · [[2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi]] · [[2026-09-01-perplexity-ships-hybrid-compute-on-mac-gating-cloud-calls-be]]
 <!-- graph:end -->

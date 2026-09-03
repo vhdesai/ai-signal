@@ -5,7 +5,7 @@ date: '2026-09-01'
 source: Princeton University
 url_original: https://www.princeton.edu/news/2026/09/01/princeton-strengthens-its-support-ai-and-data-science-scholarship-through-data-and
 url_canonical: https://www.princeton.edu/news/2026/09/01/princeton-strengthens-its-support-ai-and-data-science-scholarship-through-data-and
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-02_065546_Final-Daily-AI-News-Digest.md
 content_hash: bcef3695e11547a7ec634d75eff185280be6270229ebab5cb52f99f2e9ce8866
 normalized_title_hash: 1f819537556dcd9f

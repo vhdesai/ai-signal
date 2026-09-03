@@ -42,10 +42,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness
+- 2026-09-02-ibm-study-finds-classroom-ai-adoption-outpacing-k-12-readine
 - 2026-08-19-google-launches-ai-study-tools-across-search-and-gemini-for
 - 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens
-- 2026-08-06-openai-partners-with-the-american-psychological-association
 embedding_id: 2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai
 event_name: ''
 ---
@@ -59,5 +59,5 @@ The New York Times reports that Google, Microsoft, OpenAI and other large techno
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness]] · [[2026-08-19-google-launches-ai-study-tools-across-search-and-gemini-for]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens]] · [[2026-08-06-openai-partners-with-the-american-psychological-association]]
+**Related:** [[2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness]] · [[2026-09-02-ibm-study-finds-classroom-ai-adoption-outpacing-k-12-readine]] · [[2026-08-19-google-launches-ai-study-tools-across-search-and-gemini-for]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens]]
 <!-- graph:end -->

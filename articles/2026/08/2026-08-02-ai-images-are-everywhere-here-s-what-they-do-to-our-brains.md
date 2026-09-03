@@ -5,7 +5,7 @@ date: '2026-08-02'
 source: Wall Street Journal**
 url_original: https://www.wsj.com/tech/ai/ai-slop-blurring-reality-podcast-06a9e879
 url_canonical: https://www.wsj.com/tech/ai/ai-slop-blurring-reality-podcast-06a9e879
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-03_065028_Final-Daily-AI-News-Digest.md
 content_hash: 198a6a5c2844df2a92a66c6efd486dc061e4647bc1f0570502cb6591c8c7a969
 normalized_title_hash: 2ca2543f8aa05a0a

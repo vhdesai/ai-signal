@@ -5,7 +5,7 @@ date: '2026-05-20'
 source: USA Today / The Next Web
 url_original: https://www.analyticsinsight.net/news/what-grok-build-means-for-the-future-of-ai-coding-tools
 url_canonical: https://www.analyticsinsight.net/news/what-grok-build-means-for-the-future-of-ai-coding-tools
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: b9d07533d2a173548b7fce595a54b0c1fcee4e661a3120917b31855acd3ee3b3

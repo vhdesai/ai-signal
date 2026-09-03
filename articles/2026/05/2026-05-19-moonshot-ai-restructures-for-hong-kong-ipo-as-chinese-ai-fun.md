@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-07-19-moonshot-plans-a-30b-hong-kong-ipo-within-six-months
 - 2026-07-19-china-s-moonshot-plans-a-30b-hong-kong-ipo-within-six-months
 - 2026-07-19-moonshot-ai-plans-hong-kong-ipo-after-kimi-k3-model-debut
-- 2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes
-- 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
+- 2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va
+- 2026-09-03-china-s-moonshot-ai-confidentially-filed-for-a-hong-kong-ipo
 embedding_id: 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Chinese AI startup Moonshot AI — developer of the Kimi series of open-weight L
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-07-19-moonshot-plans-a-30b-hong-kong-ipo-within-six-months]] · [[2026-07-19-china-s-moonshot-plans-a-30b-hong-kong-ipo-within-six-months]] · [[2026-07-19-moonshot-ai-plans-hong-kong-ipo-after-kimi-k3-model-debut]] · [[2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes]] · [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]]
+**Related:** [[2026-07-19-moonshot-plans-a-30b-hong-kong-ipo-within-six-months]] · [[2026-07-19-china-s-moonshot-plans-a-30b-hong-kong-ipo-within-six-months]] · [[2026-07-19-moonshot-ai-plans-hong-kong-ipo-after-kimi-k3-model-debut]] · [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va]] · [[2026-09-03-china-s-moonshot-ai-confidentially-filed-for-a-hong-kong-ipo]]
 <!-- graph:end -->

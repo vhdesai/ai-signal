@@ -1,15 +1,34 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1243
+member_count: 1262
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1243 connected article(s).
+> Auto-generated entity hub. 1262 connected article(s).
 
+- `2026-09-03` [[2026-09-03-nvidia-is-the-central-bank-of-ai|Nvidia is the central bank of AI]]
+- `2026-09-03` [[2026-09-03-nvidia-confirms-12-9-billion-acquisition-of-hugging-face|Nvidia confirms $12.9 billion acquisition of Hugging Face]]
+- `2026-09-03` [[2026-09-03-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug|Nvidia agrees to roughly $13 billion deal for AI platform Hugging Face]]
+- `2026-09-03` [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13-billion-taking-aim|Nvidia agrees to buy Hugging Face for $13 billion, taking aim at the open-model layer]]
+- `2026-09-03` [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13-billion|Nvidia agrees to buy Hugging Face for $13 billion]]
+- `2026-09-03` [[2026-09-03-nvidia-agrees-to-acquire-hugging-face-for-nearly-13-billion|Nvidia Agrees to Acquire Hugging Face for Nearly $13 Billion]]
+- `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
+- `2026-09-02` [[2026-09-02-ipronics-raises-125m-with-nvidia-participation-for-optical-a|iPronics raises $125M with NVIDIA participation for optical AI networking]]
+- `2026-09-02` [[2026-09-02-ipronics-raises-125-million-for-programmable-optical-network|iPronics raises $125 million for programmable optical networking, with Nvidia participating]]
+- `2026-09-02` [[2026-09-02-ipronics-raises-125m-with-nvidia-participating-for-programma|iPronics Raises $125M, With Nvidia Participating, for Programmable Optical Networking]]
+- `2026-09-02` [[2026-09-02-u-s-pushes-light-touch-ai-regulation-at-g20-as-europe-advanc|U.S. pushes light-touch AI regulation at G20 as Europe advances new AI law]]
+- `2026-09-02` [[2026-09-02-tencent-backed-enflame-draws-6-000x-retail-oversubscription|Tencent-Backed Enflame Draws 6,000x Retail Oversubscription in $910M Shanghai IPO]]
+- `2026-09-02` [[2026-09-02-nvidia-joins-ipronics-125-million-round-for-programmable-opt|Nvidia joins iPronics' $125 million round for programmable optical networking]]
 - `2026-09-02` [[2026-09-02-nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models|Nvidia and CrowdStrike develop new cybersecurity AI models]]
+- `2026-09-02` [[2026-09-02-new-nvidia-open-sources-switchyard-a-rust-proxy-for-cross-pr|New NVIDIA open-sources Switchyard, a Rust proxy for cross-provider LLM traffic]]
 - `2026-09-02` [[2026-09-02-kkr-backs-10b-ai-infrastructure-venture-helix-digital-infras|KKR backs $10B AI infrastructure venture Helix Digital Infrastructure]]
+- `2026-09-02` [[2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst|HUMAIN and AMD Launch a $10 Billion AI Infrastructure Ecosystem]]
+- `2026-09-02` [[2026-09-02-equinix-partners-with-nvidia-to-carve-a-niche-in-the-ai-data|Equinix partners with Nvidia to carve a niche in the AI data-center buildout]]
+- `2026-09-02` [[2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru|Broadcom's AI revenue surge reinforces the non-GPU infrastructure trade]]
+- `2026-09-02` [[2026-09-02-aws-to-open-its-first-saudi-arabia-region-in-december-anchor|AWS to open its first Saudi Arabia region in December, anchoring a $5.3B AI push]]
+- `2026-09-02` [[2026-09-02-asus-unveils-proart-pcs-on-nvidia-rtx-spark-at-ifa-2026|ASUS unveils ProArt PCs on NVIDIA RTX Spark at IFA 2026]]
 - `2026-09-01` [[2026-09-01-nvidia-invests-3-5b-in-mediatek-and-opens-nvlink-fusion-to-c|Nvidia invests $3.5B in MediaTek and opens NVLink Fusion to custom accelerators]]
 - `2026-09-01` [[2026-09-01-nvidia-and-crowdstrike-unveil-safemind-agentic-cybersecurity|NVIDIA and CrowdStrike unveil SafeMind agentic cybersecurity system at Fal.Con 2026]]
 - `2026-09-01` [[2026-09-01-nvidia-and-crowdstrike-launch-safemind-an-agentic-cybersecur|NVIDIA and CrowdStrike launch SafeMind, an agentic cybersecurity system, at Fal.Con 2026]]

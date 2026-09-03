@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: International Business Times Singapore · Google / Alphabet
 url_original: https://www.ibtimes.sg/googles-gemini-3-7-flash-just-dropped-50-why-2027-price-cut-rare-window-92805
 url_canonical: https://www.ibtimes.sg/googles-gemini-3-7-flash-just-dropped-50-why-2027-price-cut-rare-window-92805
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 883b990779785b451470072b64c28fdeb146702ee9e2ce2a1af8caa79bd7c48a
@@ -20,7 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-02-google-ships-gemini-3-8-flash-to-general-availability-plus-a
 - 2026-08-14-google-launches-gemini-3-7-flash-with-halved-intro-pricing
+- 2026-09-02-google-releases-gemini-3-8-flash-and-a-restricted-cybersecur
 - 2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9
 embedding_id: 2026-08-27-google-cuts-gemini-3-7-flash-api-price-by-50
 event_name: ''
@@ -35,5 +37,5 @@ Google is offering Gemini 3.7 Flash at half its standard API price through Decem
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-14-google-launches-gemini-3-7-flash-with-halved-intro-pricing]] · [[2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9]]
+**Related:** [[2026-09-02-google-ships-gemini-3-8-flash-to-general-availability-plus-a]] · [[2026-08-14-google-launches-gemini-3-7-flash-with-halved-intro-pricing]] · [[2026-09-02-google-releases-gemini-3-8-flash-and-a-restricted-cybersecur]] · [[2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9]]
 <!-- graph:end -->

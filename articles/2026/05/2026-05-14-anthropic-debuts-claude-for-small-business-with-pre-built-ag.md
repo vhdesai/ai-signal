@@ -5,7 +5,7 @@ date: '2026-05-14'
 source: TechBooky
 url_original: https://www.techbooky.com/anthropic-debuts-claude-for-small-business-featuring-pre-built-ai-workflows-connectors/
 url_canonical: https://www.techbooky.com/anthropic-debuts-claude-for-small-business-featuring-pre-built-ai-workflows-connectors/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 663b63bf572faa01776465875fe41f7361ad6be923bdd5df1547e667c36159af
@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-anthropic-launched-claude-for-small-business-a-toggle-inside
 - 2026-05-14-anthropic-launches-claude-for-small-business-anthropic-via-t
+- 2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta
 - 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
-- 2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw
 embedding_id: 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A day after the AWS GA, Anthropic released Claude for Small Business — a curat
 
 **Entities:** [[Amazon]] · [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-anthropic-launched-claude-for-small-business-a-toggle-inside]] · [[2026-05-14-anthropic-launches-claude-for-small-business-anthropic-via-t]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw]]
+**Related:** [[2026-05-18-anthropic-launched-claude-for-small-business-a-toggle-inside]] · [[2026-05-14-anthropic-launches-claude-for-small-business-anthropic-via-t]] · [[2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]]
 <!-- graph:end -->

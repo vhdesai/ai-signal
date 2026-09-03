@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for
+- 2026-09-03-new-tencent-s-hy4-open-weight-preview-lands-8th-on-code-aren
 - 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe
 - 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe-under-apache
 - 2026-08-31-tencent-unveils-hy4-preview-open-source-model-for-coding-and
-- 2026-08-28-tencent-releases-hy4-preview-claims-wins-over-z-ai-and-moons
 embedding_id: 2026-04-23-tencent-previews-hunyuan-3-with-native-video-and-3d-generati
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Tencent previewed Hunyuan 3 (branded Hy3), emphasizing unified text, image, vide
 
 **Entities:** [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe]] · [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe-under-apache]] · [[2026-08-31-tencent-unveils-hy4-preview-open-source-model-for-coding-and]] · [[2026-08-28-tencent-releases-hy4-preview-claims-wins-over-z-ai-and-moons]]
+**Related:** [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-09-03-new-tencent-s-hy4-open-weight-preview-lands-8th-on-code-aren]] · [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe]] · [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe-under-apache]] · [[2026-08-31-tencent-unveils-hy4-preview-open-source-model-for-coding-and]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/cleancore-solutions-inc-nyse-american-120000096.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/cleancore-solutions-inc-nyse-american-120000096.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-30_060704_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 3d69ac14aeb59e0616890e9409b0d121bdd8170db8860d88f62a572707036dba
@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-07-29-cerebras-signs-a-10-year-ai-colocation-agreement-with-cleanc
 - 2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center
 - 2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da
+- 2026-09-02-cerebras-breaks-ground-on-a-165mw-data-center-in-mikkeli-fin
 - 2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i
-- 2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale
 embedding_id: 2026-07-29-cerebras-signs-10-year-ai-colocation-deal-with-cleancore-sol
 event_name: ''
 ---
@@ -41,5 +41,5 @@ CleanCore Solutions (NYSE American: ZONE) signed a 10-year colocation agreement 
 
 **Entities:** [[Cerebras]] · [[Scale AI]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-29-cerebras-signs-a-10-year-ai-colocation-agreement-with-cleanc]] · [[2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center]] · [[2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da]] · [[2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i]] · [[2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale]]
+**Related:** [[2026-07-29-cerebras-signs-a-10-year-ai-colocation-agreement-with-cleanc]] · [[2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center]] · [[2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da]] · [[2026-09-02-cerebras-breaks-ground-on-a-165mw-data-center-in-mikkeli-fin]] · [[2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i]]
 <!-- graph:end -->

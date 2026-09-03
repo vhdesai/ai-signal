@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/
 url_canonical: https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-05_061956_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: fba0f40621db9e77ffd2611d244c3570a0ea91af2e1f47b021f8b1396c40f4e0

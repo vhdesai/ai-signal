@@ -5,7 +5,7 @@ date: '2026-06-15'
 source: AK&M
 url_original: https://www.akm.ru/eng/news/german-startup-neura-robotics-intends-to-raise-1-2-billion-in-a-funding-round/
 url_canonical: https://www.akm.ru/eng/news/german-startup-neura-robotics-intends-to-raise-1-2-billion-in-a-funding-round/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-15_155554_Final-Daily-AI-News-Digest.md
 content_hash: 2ae1f06c4bd267511e392123d6871f79bd699f48068b6dcfee88f82d7e4d82b5
 normalized_title_hash: 55bc6ff2996c8631

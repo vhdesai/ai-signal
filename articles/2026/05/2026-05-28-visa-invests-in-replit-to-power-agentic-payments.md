@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/
 url_canonical: https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: d6160d298d7c40f871bc6e1a16fcb330a8aeb9f738ded89ec594048abc8728bb

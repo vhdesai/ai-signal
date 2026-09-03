@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: PRNewswire / TMCnet · Microsoft · HUMAIN
 url_original: https://www.tmcnet.com/usubmit/2026/08/26/10435483.htm
 url_canonical: https://www.tmcnet.com/usubmit/2026/08/26/10435483.htm
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 942f9ae2498141aeeab5d9c19ae8e09a6f3409c176e6145b3cb41cd086bbf778

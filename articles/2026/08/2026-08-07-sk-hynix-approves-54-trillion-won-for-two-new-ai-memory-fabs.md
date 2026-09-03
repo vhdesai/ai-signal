@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/07/sk-hynix-memory-chips-ai-prices.html
 url_canonical: https://www.cnbc.com/2026/08/07/sk-hynix-memory-chips-ai-prices.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-08_061253_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: ea951ed78d6020642da18da550de42ea688aa149317e5e58ae01a3b524a6aaa2

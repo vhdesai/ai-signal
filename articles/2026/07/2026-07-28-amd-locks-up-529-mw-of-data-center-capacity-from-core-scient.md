@@ -6,7 +6,7 @@ date: '2026-07-28'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/321817/20260728/amd-secures-ai-data-center-capacity-core-scientific-14b-power-play.htm
 url_canonical: https://www.techtimes.com/articles/321817/20260728/amd-secures-ai-data-center-capacity-core-scientific-14b-power-play.htm
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-29_062156_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: acc1ffdda6cd9fe65a413e465711d027c3651a383b0bb976d54b0c8142184bf0

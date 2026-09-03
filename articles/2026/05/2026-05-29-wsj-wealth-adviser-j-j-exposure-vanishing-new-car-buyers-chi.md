@@ -5,8 +5,8 @@ title: 'WSJ Wealth Adviser: J&J exposure, vanishing new-car buyers, China factor
 date: '2026-05-29'
 source: The Wall Street Journal Wealth Adviser Briefing
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.wsj.com/public/page/wealth-advisor-web.html
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 8b67240b1f86c1003d3324d8fd31070b83ea7e65daaeae0ebec50692de84e47e

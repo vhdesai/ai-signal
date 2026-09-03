@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: Blackstone / Williams
 url_original: https://aiweekly.co/ai-news-today
 url_canonical: https://aiweekly.co/ai-news-today
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: f9572942dbc227608e9647da3bcffd40f134cd4f466a52bc0b94b32e7cc77855

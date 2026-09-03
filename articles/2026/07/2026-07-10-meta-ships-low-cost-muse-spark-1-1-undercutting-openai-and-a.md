@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: Computerworld
 url_original: https://www.computerworld.com/article/4195528/meta-launches-low-cost-muse-spark-1-1-as-enterprise-ai-spending-comes-under-scrutiny-2.html
 url_canonical: https://www.computerworld.com/article/4195528/meta-launches-low-cost-muse-spark-1-1-as-enterprise-ai-spending-comes-under-scrutiny-2.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-10_061000_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: a9079b10c5603182a43e215f3dd59adf80bfca16652247d56e52e90127ed9cd4

@@ -1,21 +1,52 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 2667
+member_count: 2698
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 2667 connected article(s).
+> Auto-generated topic hub. 2698 connected article(s).
 
+- `2026-09-03` [[2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on|Tencent releases Hy4 preview, an open-weight model trained on its own user data]]
+- `2026-09-03` [[2026-09-03-openai-says-astra-reaches-a-critical-cybersecurity-capabilit|OpenAI says Astra reaches a critical cybersecurity capability threshold]]
+- `2026-09-03` [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13-billion-taking-aim|Nvidia agrees to buy Hugging Face for $13 billion, taking aim at the open-model layer]]
+- `2026-09-03` [[2026-09-03-new-tencent-s-hy4-open-weight-preview-lands-8th-on-code-aren|New Tencent's Hy4 open-weight preview lands 8th on Code Arena WebDev]]
+- `2026-09-03` [[2026-09-03-new-allen-institute-university-of-washington-and-fred-hutch|New Allen Institute, University of Washington and Fred Hutch launch $95M "AI BioDesign" initiative]]
 - `2026-09-02` [[2026-09-02-xinhua-reported-that-chinese-authorities-removed-5-6-million|Xinhua reported that Chinese authorities removed 5.6 million pieces of unlawful or rule-violating content as part of a crackdown on AI misuse. The action shows Beijing continuing to pair rapid AI deployment with centralized content and platform enforcement. For global AI operators, the development is another example of diverging regulatory models across major markets.]]
+- `2026-09-02` [[2026-09-02-trending-alibaba-s-qwen-3-8-max-0902-debuts-at-1-on-code-are|Trending Alibaba's Qwen-3.8-Max-0902 debuts at #1 on Code Arena WebDev]]
+- `2026-09-02` [[2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio|The U.S. government filed a brief supporting OpenAI's position in The New York Times copyright lawsuit over the use of copyrighted material to train large language models. TechCrunch reports the brief argues that constraining LLM development under a misunderstanding of fair use could hinder U.S. AI leadership and economic progress. The intervention is not a court ruling, but it may carry weight in a case that could shape training-data norms for the industry.]]
+- `2026-09-02` [[2026-09-02-tencent-backed-enflame-draws-6-000x-retail-oversubscription|Tencent-Backed Enflame Draws 6,000x Retail Oversubscription in $910M Shanghai IPO]]
+- `2026-09-02` [[2026-09-02-salesforce-and-anthropic-launch-claudeforce-making-claude-th|Salesforce and Anthropic Launch “Claudeforce,” Making Claude the Default Reasoning Model in Agentforce and Slack]]
+- `2026-09-02` [[2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive|Perplexity adds hybrid compute so agents can keep sensitive steps on local Macs]]
 - `2026-09-02` [[2026-09-02-openai-s-astra-becomes-its-first-model-rated-critical-for-cy|OpenAI’s Astra becomes its first model rated “Critical” for cyber capability]]
 - `2026-09-02` [[2026-09-02-nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models|Nvidia and CrowdStrike develop new cybersecurity AI models]]
 - `2026-09-02` [[2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness|New IBM Study Finds AI Adoption Is Outpacing K-12 Readiness]]
+- `2026-09-02` [[2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age|Meta releases Muse Spark 1.3 for coding and long-horizon agentic workflows]]
+- `2026-09-02` [[2026-09-02-mit-and-motional-use-concept-level-explanations-to-flag-auto|MIT and Motional use concept-level explanations to flag autonomous-vehicle mistakes]]
+- `2026-09-02` [[2026-09-02-mit-and-motional-build-a-system-that-helps-humans-predict-se|MIT and Motional build a system that helps humans predict self-driving errors]]
+- `2026-09-02` [[2026-09-02-ibm-study-finds-classroom-ai-adoption-outpacing-k-12-readine|IBM study finds classroom AI adoption outpacing K-12 readiness]]
+- `2026-09-02` [[2026-09-02-hot-pacman-framework-gives-ai-millisecond-scale-control-of-f|Hot PACMAN framework gives AI millisecond-scale control of fusion plasmas]]
+- `2026-09-02` [[2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8|Hot Google DeepMind launches Gemini 3.8 Flash and Gemini 3.8 Flash Cyber]]
+- `2026-09-02` [[2026-09-02-google-s-fairwind-program-gates-advanced-cyber-ai-to-trusted|Google's Fairwind Program gates advanced cyber AI to trusted defenders]]
+- `2026-09-02` [[2026-09-02-google-starts-september-with-ai-momentum-after-a-long-stock|Google starts September with AI momentum after a long stock losing streak]]
+- `2026-09-02` [[2026-09-02-google-ships-gemini-3-8-flash-to-general-availability-plus-a|Google ships Gemini 3.8 Flash to general availability, plus a Flash Cyber variant]]
+- `2026-09-02` [[2026-09-02-google-releases-gemini-3-8-flash-and-a-restricted-cybersecur|Google releases Gemini 3.8 Flash and a restricted cybersecurity variant]]
+- `2026-09-02` [[2026-09-02-google-launches-gemini-3-8-flash-and-a-cyber-defense-variant|Google launches Gemini 3.8 Flash and a cyber-defense variant for trusted defenders]]
 - `2026-09-02` [[2026-09-02-google-reportedly-readying-a-new-gemini-model-codenamed-skim|Google Reportedly Readying a New Gemini Model Codenamed “Skimaki”]]
+- `2026-09-02` [[2026-09-02-google-launches-gemini-3-8-flash-its-third-flash-release-in|Google Launches Gemini 3.8 Flash, Its Third Flash Release in Six Weeks]]
+- `2026-09-02` [[2026-09-02-google-launches-gemini-3-8-flash-and-a-restricted-gemini-3-8|Google Launches Gemini 3.8 Flash and a Restricted Gemini 3.8 Flash Cyber Variant]]
+- `2026-09-02` [[2026-09-02-g20-technology-discussions-center-on-u-s-ai-adoption-and-dat|G20 technology discussions center on U.S. AI adoption and data-center buildout]]
 - `2026-09-02` [[2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day|Frontier capability and frontier cost moved on the same day]]
+- `2026-09-02` [[2026-09-02-fei-fei-li-s-world-labs-unveils-atlas-a-photorealistic-inter|Fei-Fei Li's World Labs unveils Atlas, a photorealistic interactive world model]]
+- `2026-09-02` [[2026-09-02-crowdstrike-brings-falcon-telemetry-into-anthropic-s-claude|CrowdStrike brings Falcon telemetry into Anthropic's Claude Marketplace]]
+- `2026-09-02` [[2026-09-02-crowdstrike-brings-the-falcon-platform-to-the-anthropic-clau|CrowdStrike Brings the Falcon Platform to the Anthropic Claude Marketplace]]
+- `2026-09-02` [[2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru|Broadcom's AI revenue surge reinforces the non-GPU infrastructure trade]]
 - `2026-09-02` [[2026-09-02-baidu-cfo-says-ai-could-soon-match-search-business-in-profit|Baidu CFO says AI could soon match search business in profit and cash returns]]
+- `2026-09-02` [[2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta|Anthropic launches Claude commerce-agent blueprints for retailers]]
 - `2026-09-02` [[2026-09-02-anthropic-follows-openai-in-pausing-some-ai-training-followi|Anthropic follows OpenAI in pausing some AI training following rogue agent hacks]]
+- `2026-09-02` [[2026-09-02-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-geograp|Anthropic Ships Claude Fable 5.1 and Mythos 5.1, With Geographic Access Limits]]
+- `2026-09-02` [[2026-09-02-anthropic-ships-claude-fable-5-1-and-mythos-5-1-cutting-agen|Anthropic Ships Claude Fable 5.1 and Mythos 5.1, Cutting Agentic Workload Costs Up to 45%]]
 - `2026-09-01` [[2026-09-01-zhipu-ai-z-ai-first-half-revenue-jumps-nearly-400-on-api-gro|Zhipu AI (Z.AI) First-Half Revenue Jumps Nearly 400% on API Growth]]
 - `2026-09-01` [[2026-09-01-u-s-pushes-g20-toward-light-touch-ai-regulation-under-the-ca|U.S. Pushes G20 Toward Light-Touch AI Regulation Under the “Carolina Principles”]]
 - `2026-09-01` [[2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore|TimesFM-3: A zero-shot foundation model for multivariate forecasting]]
@@ -54,7 +85,7 @@ member_count: 2667
 - `2026-09-01` [[2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-a-two-t|Anthropic ships Claude Fable 5.1 and Mythos 5.1 with a two-tier safeguard split]]
 - `2026-09-01` [[2026-09-01-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-75-chea|Anthropic ships Claude Fable 5.1 and Mythos 5.1 with 75% cheaper cache reads]]
 - `2026-09-01` [[2026-09-01-anthropic-ships-claude-fable-5-1-and-claude-mythos-5-1-cuts|Anthropic ships Claude Fable 5.1 and Claude Mythos 5.1, cuts cache-read costs 75%]]
-- `2026-09-01` [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a|Anthropic releases Claude Fable 5.1 and Mythos 5.1, cutting agentic costs up to 45%]]
+- `2026-09-01` [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a|Anthropic releases Claude Fable 5.1 and Mythos 5.1, cutting agent costs up to 45%]]
 - `2026-09-01` [[2026-09-01-anthropic-introduces-enterprise-frontier-safeguards-with-cus|Anthropic introduces Enterprise Frontier Safeguards with customer-held monitoring data]]
 - `2026-09-01` [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75|Anthropic Releases Claude Fable 5.1 and Mythos 5.1 with a 75% Cache-Read Price Cut]]
 - `2026-09-01` [[2026-09-01-amazon-adds-alexa-update-me-when-purchase-trigger-alerts|Amazon adds Alexa "Update Me When" purchase-trigger alerts]]

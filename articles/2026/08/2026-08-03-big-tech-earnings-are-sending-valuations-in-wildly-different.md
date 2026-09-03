@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Wall Street Journal**
 url_original: https://www.wsj.com/finance/stocks/tech-company-earnings-stock-market-5c4179d8
 url_canonical: https://www.wsj.com/finance/stocks/tech-company-earnings-stock-market-5c4179d8
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-03_065028_Final-Daily-AI-News-Digest.md
 content_hash: 9b4cf82e6ef33a3a0f01de43fd3746c6babdd4235b2545f2088f8082a5152be9
 normalized_title_hash: e89250927cd0befe

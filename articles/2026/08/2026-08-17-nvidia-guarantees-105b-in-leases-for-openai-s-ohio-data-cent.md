@@ -5,7 +5,7 @@ date: '2026-08-17'
 source: CNBC · Yahoo Finance · NVIDIA Newsroom · OpenAI
 url_original: https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html
 url_canonical: https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-18_065100_Final-Daily-AI-News-Digest.md
 content_hash: 000f0c33e7fe90cceece7cedc38725d277033f6c5c1efeee9dfb86cc8a43b472
 normalized_title_hash: 0d90dbd2e101e677

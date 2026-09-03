@@ -6,7 +6,7 @@ date: '2026-07-11'
 source: The Motley Fool
 url_original: https://www.fool.com/investing/2026/07/11/apple-ceo-tim-cook-announces-30-billion-broadcom-d/
 url_canonical: https://www.fool.com/investing/2026/07/11/apple-ceo-tim-cook-announces-30-billion-broadcom-d/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-11_060831_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 5be3d8a8b71cf54f4d15e15da7e680e9b70a90207f74c72a991d2cec28a64459
@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-06-broadcom-expands-work-for-apple-supplying-products-through-2
 - 2026-08-21-broadcom-seeks-up-to-80-billion-in-debt-for-an-ai-chip-finan
+- 2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai
 - 2026-08-21-broadcom-seeks-60-80b-in-debt-to-build-ai-chip-capacity-for
 - 2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte
-- 2026-08-14-bofa-warns-broadcom-s-chip-financing-vehicle-could-carry-370
 embedding_id: 2026-07-11-apple-announces-30b-custom-silicon-deal-with-broadcom-15b-ch
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Apple CEO Tim Cook announced a multiyear partnership with Broadcom worth more th
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-06-broadcom-expands-work-for-apple-supplying-products-through-2]] · [[2026-08-21-broadcom-seeks-up-to-80-billion-in-debt-for-an-ai-chip-finan]] · [[2026-08-21-broadcom-seeks-60-80b-in-debt-to-build-ai-chip-capacity-for]] · [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]] · [[2026-08-14-bofa-warns-broadcom-s-chip-financing-vehicle-could-carry-370]]
+**Related:** [[2026-07-06-broadcom-expands-work-for-apple-supplying-products-through-2]] · [[2026-08-21-broadcom-seeks-up-to-80-billion-in-debt-for-an-ai-chip-finan]] · [[2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai]] · [[2026-08-21-broadcom-seeks-60-80b-in-debt-to-build-ai-chip-capacity-for]] · [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]]
 <!-- graph:end -->

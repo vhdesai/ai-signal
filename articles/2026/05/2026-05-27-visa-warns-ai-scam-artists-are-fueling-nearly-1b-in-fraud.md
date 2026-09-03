@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-28-visa-cuts-2-600-jobs-citing-ai-driven-efficiency
 - 2026-08-27-microsoft-cracks-down-on-employee-ai-tokenmaxxing
 - 2026-08-25-liner-closes-36-1m-series-c-for-verifiable-ai-research
 - 2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending
 - 2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending
+- 2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast
 embedding_id: 2026-05-27-visa-warns-ai-scam-artists-are-fueling-nearly-1b-in-fraud
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Visa warned that AI scam artists are helping fuel nearly $1 billion in scams. Th
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-28-visa-cuts-2-600-jobs-citing-ai-driven-efficiency]] · [[2026-08-27-microsoft-cracks-down-on-employee-ai-tokenmaxxing]] · [[2026-08-25-liner-closes-36-1m-series-c-for-verifiable-ai-research]] · [[2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending]] · [[2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending]]
+**Related:** [[2026-08-27-microsoft-cracks-down-on-employee-ai-tokenmaxxing]] · [[2026-08-25-liner-closes-36-1m-series-c-for-verifiable-ai-research]] · [[2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending]] · [[2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending]] · [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]]
 <!-- graph:end -->

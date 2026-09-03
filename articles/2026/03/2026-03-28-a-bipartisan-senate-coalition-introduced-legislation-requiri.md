@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-10-senator-markey-unveils-an-ai-accountability-package-targetin
 - 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 - 2026-06-11-axios-congress-wants-in-on-the-data-center-backlash
-- 2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development
+- 2026-09-03-sanders-and-casar-propose-a-u-s-ban-on-artificial-superintel
 embedding_id: 2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A bipartisan Senate coalition introduced legislation requiring mandatory energy 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-of-bills]] · [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-targetin]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-06-11-axios-congress-wants-in-on-the-data-center-backlash]] · [[2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development]]
+**Related:** [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-of-bills]] · [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-targetin]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-06-11-axios-congress-wants-in-on-the-data-center-backlash]] · [[2026-09-03-sanders-and-casar-propose-a-u-s-ban-on-artificial-superintel]]
 <!-- graph:end -->

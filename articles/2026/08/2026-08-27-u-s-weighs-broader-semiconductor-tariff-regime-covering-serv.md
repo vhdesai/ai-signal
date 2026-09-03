@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/27/trump-semiconductor-tech-tariffs.html
 url_canonical: https://www.cnbc.com/2026/08/27/trump-semiconductor-tech-tariffs.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_065356_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 010499beb03fbbb1fa8b1baf379de6314a5d719b6497d3ad05757f2a31c7122a

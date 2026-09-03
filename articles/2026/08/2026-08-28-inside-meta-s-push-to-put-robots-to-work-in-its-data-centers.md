@@ -5,7 +5,7 @@ date: '2026-08-28'
 source: Wired (syndicated copy) · Meta, Nvidia
 url_original: https://oo.news/news/e57f271bee31
 url_canonical: https://oo.news/news/e57f271bee31
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 0aae3211ed8503cfd52ca85ec1c8685e8ea562c171fe12ea77c926803a235714

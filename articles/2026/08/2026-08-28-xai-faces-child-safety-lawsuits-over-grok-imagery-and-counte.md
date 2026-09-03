@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam
 - 2026-07-23-arkansas-family-sues-xai-over-grok-generated-child-abuse-ima
 - 2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of
+- 2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega
 - 2026-08-15-lawsuit-expands-over-alleged-use-of-grok-to-create-explicit
-- 2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims
 embedding_id: 2026-08-28-xai-faces-child-safety-lawsuits-over-grok-imagery-and-counte
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Alleged victims are suing xAI over AI-generated child sexual abuse material and 
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam]] · [[2026-07-23-arkansas-family-sues-xai-over-grok-generated-child-abuse-ima]] · [[2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of]] · [[2026-08-15-lawsuit-expands-over-alleged-use-of-grok-to-create-explicit]] · [[2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims]]
+**Related:** [[2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam]] · [[2026-07-23-arkansas-family-sues-xai-over-grok-generated-child-abuse-ima]] · [[2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of]] · [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega]] · [[2026-08-15-lawsuit-expands-over-alleged-use-of-grok-to-create-explicit]]
 <!-- graph:end -->

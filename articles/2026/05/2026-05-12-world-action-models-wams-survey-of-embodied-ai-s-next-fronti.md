@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-20-scaling-laws-for-embodied-ai
 - 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
 - 2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model
+- 2026-09-02-refactor-vla-unsupervised-library-learning-of-typed-motor-pr
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
-- 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 embedding_id: 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A landmark survey paper formalizes the World Action Models paradigm — embodied
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-scaling-laws-for-embodied-ai]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]]
+**Related:** [[2026-05-20-scaling-laws-for-embodied-ai]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model]] · [[2026-09-02-refactor-vla-unsupervised-library-learning-of-typed-motor-pr]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]]
 <!-- graph:end -->

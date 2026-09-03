@@ -5,8 +5,8 @@ title: 'A new analysis published in The Decoder examines a growing paradox: curr
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/llms-crush-coding-and-math-but-choke-on-casual-questions-and-thats-not-a-contradiction/
+url_status: repaired
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: 43e60d0390297440a5cdffe0e40f442619bf7f03d757e882ddd9033643d8cfa7

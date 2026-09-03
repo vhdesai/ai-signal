@@ -1,18 +1,41 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 1562
+member_count: 1585
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 1562 connected article(s).
+> Auto-generated topic hub. 1585 connected article(s).
 
+- `2026-09-03` [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training|U.S. government sides with OpenAI in New York Times training-data lawsuit]]
+- `2026-09-03` [[2026-09-03-sanders-and-casar-propose-a-u-s-ban-on-artificial-superintel|Sanders and Casar Propose a U.S. Ban on 'Artificial Superintelligence']]
+- `2026-09-03` [[2026-09-03-hot-altman-raises-the-stakes-on-government-scrutiny-of-front|Hot Altman raises the stakes on government scrutiny of frontier models]]
+- `2026-09-03` [[2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral|French finance minister warns Europe cannot rely on Mistral alone]]
+- `2026-09-03` [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a|Anthropic breaks with Google and OpenAI over Massachusetts AI safety bill]]
+- `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
+- `2026-09-03` [[2026-09-03-air-security-emerges-from-stealth-with-50m-to-build-a-firewa|AIR Security Emerges From Stealth With $50M to Build a Firewall for AI Agents]]
 - `2026-09-02` [[2026-09-02-xinhua-reported-that-chinese-authorities-removed-5-6-million|Xinhua reported that Chinese authorities removed 5.6 million pieces of unlawful or rule-violating content as part of a crackdown on AI misuse. The action shows Beijing continuing to pair rapid AI deployment with centralized content and platform enforcement. For global AI operators, the development is another example of diverging regulatory models across major markets.]]
+- `2026-09-02` [[2026-09-02-us-pushes-deregulation-at-g20-innovation-ministerial-as-eu-a|US Pushes Deregulation at G20 Innovation Ministerial as EU Advances New AI Law]]
+- `2026-09-02` [[2026-09-02-u-s-pushes-light-touch-ai-regulation-at-g20-as-europe-advanc|U.S. pushes light-touch AI regulation at G20 as Europe advances new AI law]]
+- `2026-09-02` [[2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio|The U.S. government filed a brief supporting OpenAI's position in The New York Times copyright lawsuit over the use of copyrighted material to train large language models. TechCrunch reports the brief argues that constraining LLM development under a misunderstanding of fair use could hinder U.S. AI leadership and economic progress. The intervention is not a court ruling, but it may carry weight in a case that could shape training-data norms for the industry.]]
+- `2026-09-02` [[2026-09-02-texas-keeps-new-data-center-grid-connections-frozen-over-gho|Texas Keeps New Data-Center Grid Connections Frozen Over 'Ghost Demand']]
 - `2026-09-02` [[2026-09-02-tencent-backed-enflame-s-ipo-draws-4-073-times-retail-demand|Tencent-backed Enflame’s IPO draws 4,073 times retail demand]]
+- `2026-09-02` [[2026-09-02-openai-says-astra-crosses-its-critical-cybersecurity-thresho|OpenAI says Astra crosses its critical cybersecurity threshold]]
 - `2026-09-02` [[2026-09-02-openai-restricts-astra-model-after-it-crosses-critical-cyber|OpenAI restricts Astra model after it crosses "critical" cyber-risk threshold]]
 - `2026-09-02` [[2026-09-02-openai-faces-30-additional-lawsuits-over-the-tumbler-ridge-s|OpenAI faces 30 additional lawsuits over the Tumbler Ridge shooting]]
+- `2026-09-02` [[2026-09-02-openai-says-forthcoming-astra-model-crosses-critical-cyberse|OpenAI Says Forthcoming Astra Model Crosses “Critical” Cybersecurity Threshold]]
+- `2026-09-02` [[2026-09-02-openai-says-astra-is-its-first-model-to-cross-the-critical-c|OpenAI Says Astra Is Its First Model to Cross the 'Critical' Cyber Threshold]]
+- `2026-09-02` [[2026-09-02-new-york-city-bans-generative-ai-in-schools-through-eighth-g|New York City bans generative AI in schools through eighth grade]]
+- `2026-09-02` [[2026-09-02-mit-and-motional-use-concept-level-explanations-to-flag-auto|MIT and Motional use concept-level explanations to flag autonomous-vehicle mistakes]]
+- `2026-09-02` [[2026-09-02-justice-department-backs-openai-s-fair-use-defense-in-publis|Justice Department Backs OpenAI's Fair-Use Defense in Publisher Copyright Case]]
+- `2026-09-02` [[2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst|HUMAIN and AMD Launch a $10 Billion AI Infrastructure Ecosystem]]
+- `2026-09-02` [[2026-09-02-google-deepmind-launches-the-fairwind-program-for-proactive|Google DeepMind launches the Fairwind Program for proactive cyber defense]]
 - `2026-09-02` [[2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day|Frontier capability and frontier cost moved on the same day]]
+- `2026-09-02` [[2026-09-02-fei-fei-li-s-world-labs-unveils-atlas-a-photorealistic-inter|Fei-Fei Li's World Labs unveils Atlas, a photorealistic interactive world model]]
+- `2026-09-02` [[2026-09-02-breaking-openai-says-astra-is-its-first-model-to-cross-the-c|Breaking OpenAI says "Astra" is its first model to cross the Critical cybersecurity threshold]]
+- `2026-09-02` [[2026-09-02-boehringer-ingelheim-licenses-owkin-s-k-pro-ai-scientist-and|Boehringer Ingelheim Licenses Owkin's K Pro 'AI Scientist' and Multimodal Patient Data]]
+- `2026-09-02` [[2026-09-02-at-the-g20-the-us-pushes-lighter-ai-regulation-as-the-eu-adv|At the G20, the US pushes lighter AI regulation as the EU advances new law]]
 - `2026-09-02` [[2026-09-02-anthropic-introduces-zero-retention-ai-safety-monitoring-for|Anthropic introduces zero-retention AI safety monitoring for enterprises]]
 - `2026-09-02` [[2026-09-02-anthropic-follows-openai-in-pausing-some-ai-training-followi|Anthropic follows OpenAI in pausing some AI training following rogue agent hacks]]
 - `2026-09-02` [[2026-09-02-anthropic-details-evaluation-incidents-and-launches-enterpri|Anthropic details evaluation incidents and launches Enterprise Frontier Safeguards]]

@@ -4,8 +4,8 @@ title: Apple's Grok Deepfake Standoff Disclosed to Senators
 date: '2026-04-15'
 source: NBC News / MacRumors / CNET
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677
+url_status: repaired
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 80317cede96005dcd052fb6b918e7baa849b58280daba9610a611ffa32fc1ea1
@@ -26,10 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-11-grok-still-hosting-sexualized-deepfakes-of-famous-women
+- 2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega
 - 2026-06-11-wired-grok-is-still-hosting-sexualized-deepfakes-of-famous-w
 - 2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake
 - 2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk
-- 2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta
 embedding_id: 2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators
 event_name: ''
 ---
@@ -43,5 +43,5 @@ A letter from Apple to U.S. senators revealed Apple privately threatened to pull
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Meta]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-11-grok-still-hosting-sexualized-deepfakes-of-famous-women]] · [[2026-06-11-wired-grok-is-still-hosting-sexualized-deepfakes-of-famous-w]] · [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]] · [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk]] · [[2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta]]
+**Related:** [[2026-06-11-grok-still-hosting-sexualized-deepfakes-of-famous-women]] · [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega]] · [[2026-06-11-wired-grok-is-still-hosting-sexualized-deepfakes-of-famous-w]] · [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]] · [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk]]
 <!-- graph:end -->

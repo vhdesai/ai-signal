@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-22-microsoft-commits-60m-to-the-doe-s-genesis-mission-to-accele
 - 2026-07-22-google-commits-40-million-in-ai-credits-to-the-genesis-missi
 - 2026-07-30-mit-students-and-postdocs-connect-research-priorities-to-cap
-- 2026-08-03-georgia-tech-to-lead-national-cloud-laboratory-for-advanced
+- 2026-09-02-from-mit-to-ibm-expediting-ai-and-quantum-deployment
 embedding_id: 2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MIT News reports that MIT researchers will contribute to 15 collaborative projec
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-22-doe-genesis-mission-launches-broad-ai-for-science-funding-pu]] · [[2026-07-22-microsoft-commits-60m-to-the-doe-s-genesis-mission-to-accele]] · [[2026-07-22-google-commits-40-million-in-ai-credits-to-the-genesis-missi]] · [[2026-07-30-mit-students-and-postdocs-connect-research-priorities-to-cap]] · [[2026-08-03-georgia-tech-to-lead-national-cloud-laboratory-for-advanced]]
+**Related:** [[2026-07-22-doe-genesis-mission-launches-broad-ai-for-science-funding-pu]] · [[2026-07-22-microsoft-commits-60m-to-the-doe-s-genesis-mission-to-accele]] · [[2026-07-22-google-commits-40-million-in-ai-credits-to-the-genesis-missi]] · [[2026-07-30-mit-students-and-postdocs-connect-research-priorities-to-cap]] · [[2026-09-02-from-mit-to-ibm-expediting-ai-and-quantum-deployment]]
 <!-- graph:end -->

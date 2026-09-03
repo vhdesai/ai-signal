@@ -5,8 +5,8 @@ title: Anthropic announced that the Claude Platform on AWS is now generally avai
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aws.amazon.com/about-aws/whats-new/2026/05/claude-platform-aws/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 7029d005ae2edc15e10d2c93b29206b11568db3849fcf60ad2b426610d42fe61
@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
+- 2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta
 - 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
 - 2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex
-- 2026-08-27-anthropic-adds-a-native-browser-to-the-claude-cowork-desktop
 embedding_id: 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic announced that the Claude Platform on AWS is now generally available, 
 
 **Entities:** [[Amazon]] · [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35]] · [[2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex]] · [[2026-08-27-anthropic-adds-a-native-browser-to-the-claude-cowork-desktop]]
+**Related:** [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta]] · [[2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35]] · [[2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex]]
 <!-- graph:end -->

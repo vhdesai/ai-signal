@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta
 - 2026-07-15-nature-health-1-7m-copilot-health-conversations-mapped-acros
+- 2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter
 - 2026-07-25-wsj-investigation-chatbots-coaxed-into-detailed-weapons-inst
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
-- 2026-07-23-openai-makes-chatgpt-health-available-to-all-u-s-users
 embedding_id: 2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac
 event_name: ''
 ---
@@ -37,5 +37,5 @@ research found that AI-powered chatbots correctly answer everyday health questio
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta]] · [[2026-07-15-nature-health-1-7m-copilot-health-conversations-mapped-acros]] · [[2026-07-25-wsj-investigation-chatbots-coaxed-into-detailed-weapons-inst]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-07-23-openai-makes-chatgpt-health-available-to-all-u-s-users]]
+**Related:** [[2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta]] · [[2026-07-15-nature-health-1-7m-copilot-health-conversations-mapped-acros]] · [[2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter]] · [[2026-07-25-wsj-investigation-chatbots-coaxed-into-detailed-weapons-inst]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]]
 <!-- graph:end -->

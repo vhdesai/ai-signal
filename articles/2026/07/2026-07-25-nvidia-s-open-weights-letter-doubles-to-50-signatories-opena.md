@@ -5,8 +5,8 @@ title: Nvidia's "Open Weights" Letter Doubles to 50 Signatories; OpenAI and Goog
 date: '2026-07-25'
 source: Forbes
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://lumienai.com/news/jensen-huang-open-weights-letter-50-signatories-amazon-anthropic-absent
+url_status: repaired
 digest_source: digests\raw\2026-07-26_065237_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: e4eeab7cfa68a3f73e40d373eaaaed084720edd17e780ccdfc4d5b9b3a88967c

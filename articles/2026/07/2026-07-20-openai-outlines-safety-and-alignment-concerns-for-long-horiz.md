@@ -4,8 +4,8 @@ title: OpenAI outlines safety and alignment concerns for long-horizon models
 date: '2026-07-20'
 source: OpenAI Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techbytes.app/posts/openai-safety-alignment-long-horizon-models-2026/
+url_status: repaired
 digest_source: digests\raw\2026-07-21-daily-ai-news-digest.md
 content_hash: 50b204766282f7a3f1e494ed5354ff05c6dcab58cd16feddf5158ad9e41d628f
 normalized_title_hash: 44ea60ad7d81bc32

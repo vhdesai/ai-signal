@@ -6,7 +6,7 @@ date: '2026-05-21'
 source: 'Source: Memeburn'
 url_original: https://memeburn.com/cursor-composer-2-5-officially-launches/
 url_canonical: https://memeburn.com/cursor-composer-2-5-officially-launches/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: c2ad905e0d12fa9fd65ddb239f5453d5f58a87693f0a528adb108ff7cdaad36b

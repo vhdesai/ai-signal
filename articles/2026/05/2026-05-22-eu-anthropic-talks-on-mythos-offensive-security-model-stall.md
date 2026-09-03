@@ -6,7 +6,7 @@ date: '2026-05-22'
 source: 'Source: Bloomberg / The Edge Singapore'
 url_original: https://www.theedgesingapore.com/news/tech/spain-says-eu-talks-anthropic-over-mythos-concerns-are-stalled
 url_canonical: https://www.theedgesingapore.com/news/tech/spain-says-eu-talks-anthropic-over-mythos-concerns-are-stalled
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 476755b199f625b701f31ccb00bf56fcd10d494aec32ae84b5d0c96d1db36ea0

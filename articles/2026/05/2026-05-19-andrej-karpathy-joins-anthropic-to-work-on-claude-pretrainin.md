@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: The AI Track
 url_original: https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/
 url_canonical: https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: e4c5335e670dc1603f660077c6817887b6512a4f1cbf220271a07d10134012e1

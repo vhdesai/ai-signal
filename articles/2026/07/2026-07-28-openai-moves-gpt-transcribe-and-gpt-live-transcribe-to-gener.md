@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: OpenAI Release Notes
 url_original: https://openai.com/products/release-notes/
 url_canonical: https://openai.com/products/release-notes/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: a4321d3b8c2b16a4edc0a2cae3a0a72076027414672891709e90da13f4c127ac

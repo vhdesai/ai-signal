@@ -6,7 +6,7 @@ date: '2026-08-04'
 source: '[Unite.AI]'
 url_original: https://www.unite.ai/nvidias-alpamayo-2-super-opens-robotaxi-development-to-commercial-use/
 url_canonical: https://www.unite.ai/nvidias-alpamayo-2-super-opens-robotaxi-development-to-commercial-use/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-05_061956_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 68bcbad928f13036d033cbe153724baacb250a66b3d9506a8a839dd594619e60

@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap
 - 2026-08-23-study-finds-90-of-executives-report-no-ai-productivity-gain
+- 2026-09-03-for-all-their-talk-about-ai-few-companies-are-quantifying-ga
 - 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
 - 2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali
-- 2026-08-23-enterprise-ai-agent-success-is-tied-to-limiting-autonomy
 embedding_id: 2026-08-22-only-35-of-leaders-say-ai-consistently-delivers-business-out
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Just 35% of leaders say AI consistently delivers business outcomes, earns regula
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap]] · [[2026-08-23-study-finds-90-of-executives-report-no-ai-productivity-gain]] · [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]] · [[2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali]] · [[2026-08-23-enterprise-ai-agent-success-is-tied-to-limiting-autonomy]]
+**Related:** [[2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap]] · [[2026-08-23-study-finds-90-of-executives-report-no-ai-productivity-gain]] · [[2026-09-03-for-all-their-talk-about-ai-few-companies-are-quantifying-ga]] · [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]] · [[2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali]]
 <!-- graph:end -->

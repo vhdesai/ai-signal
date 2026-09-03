@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
 - 2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent
 - 2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin
-- 2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi
+- 2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training
 embedding_id: 2026-08-02-openai-updates-article-on-news-organizations-using-ai
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI's company article on how news organizations are using AI was sitemap-upda
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]] · [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]] · [[2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi]]
+**Related:** [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]] · [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]] · [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training]]
 <!-- graph:end -->

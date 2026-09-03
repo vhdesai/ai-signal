@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Bloomberg
 url_original: https://aiweekly.co/ai-news-today
 url_canonical: https://aiweekly.co/ai-news-today
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-24_060214_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 86a30de8162562f20434d0454acf920b9700ed86d7f9452c3832a7e3a6518348

@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: Yahoo Finance, SiliconANGLE, Business Insider
 url_original: https://finance.yahoo.com/technology/ai/articles/google-eyes-1-5b-investment-172001789.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/google-eyes-1-5b-investment-172001789.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: f5229cbecf202e6e4ddedc4127a0f3a6566d049daeaa96bbf50dda6e4c8fe8a8

@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: The Information / Newsmax
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI%20Anthropic%20pace%20AI%20development%20letter
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI%20Anthropic%20pace%20AI%20development%20letter
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - July
   30, 2026 (Revised).md
 content_hash: 922134b8872ec1ec858a959e4ac94481d6aed73a1d57e26f048938a41df80e87

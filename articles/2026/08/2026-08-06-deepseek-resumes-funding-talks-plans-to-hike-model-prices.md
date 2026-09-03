@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek+funding+price+hike
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek+funding+price+hike
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-06_065033_Final-Daily-AI-News-Digest.md
 content_hash: 99c03ef6f88415adec651839fda890a77e5aa04eb8b7c2f6c853eae6860e6cd4
 normalized_title_hash: e049b58f76f94dca

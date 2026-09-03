@@ -4,8 +4,8 @@ title: NVIDIA releases Nemotron 3 Nano Omni for agentic systems
 date: '2026-05-04'
 source: NVIDIA
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: 1e929e7207fb901215bd66e32ab1235f7f814e5ed3fbc8703204b7a268d0f81d

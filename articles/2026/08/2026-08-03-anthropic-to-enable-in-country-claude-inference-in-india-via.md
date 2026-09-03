@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-anthropic-to-offer-in-country-claude-inference-in-india-via
 - 2026-08-03-anthropic-s-move-to-enable-in-country-inference-in-india-add
+- 2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta
 - 2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud
 - 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
-- 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 embedding_id: 2026-08-03-anthropic-to-enable-in-country-claude-inference-in-india-via
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic plans to switch on local data processing for Claude in India through A
 
 **Entities:** [[Amazon]] · [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-03-anthropic-to-offer-in-country-claude-inference-in-india-via]] · [[2026-08-03-anthropic-s-move-to-enable-in-country-inference-in-india-add]] · [[2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud]] · [[2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]]
+**Related:** [[2026-08-03-anthropic-to-offer-in-country-claude-inference-in-india-via]] · [[2026-08-03-anthropic-s-move-to-enable-in-country-inference-in-india-add]] · [[2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta]] · [[2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud]] · [[2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35]]
 <!-- graph:end -->

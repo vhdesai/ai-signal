@@ -5,8 +5,8 @@ title: AI coding assistant Cursor is reportedly in acquisition discussions with 
 date: '2026-05-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/technology/ai/articles/spacex-completes-record-60-billion-131311785.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-05-05_071404_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 9522ade3a9f3741c9e6e3406daafc8c17922a84ac46d81c44dcc27e699efaf58
 normalized_title_hash: 9debd6650be13487

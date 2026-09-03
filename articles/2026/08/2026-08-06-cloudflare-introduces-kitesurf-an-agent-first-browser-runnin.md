@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/
 url_canonical: https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-07_060636_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: d06a135fff08d807f52cd18b4623b400922fa472145e63b74cde56deacd60e8c

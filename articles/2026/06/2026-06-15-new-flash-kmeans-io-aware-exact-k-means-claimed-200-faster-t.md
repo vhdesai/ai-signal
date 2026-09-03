@@ -6,7 +6,7 @@ date: '2026-06-15'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-15_155554_Final-Daily-AI-News-Digest.md
 content_hash: 5c45bef405d2ec2f3fc6c8c74f11b3ee19bb44e103618cff05d026d76f41fcc3
 normalized_title_hash: a0ffb63cada3c10e
@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s
 - 2026-08-14-french-startup-kog-bets-on-software-optimization-to-achieve
+- 2026-09-02-gigapath-flash-and-gigatime-flash-toward-population-scale-di
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
-- 2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r
 embedding_id: 2026-06-15-new-flash-kmeans-io-aware-exact-k-means-claimed-200-faster-t
 event_name: ''
 ---
@@ -35,5 +35,5 @@ MarkTechPost's lead June 15 research item describes Flash-KMeans, an IO-aware ex
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s]] · [[2026-08-14-french-startup-kog-bets-on-software-optimization-to-achieve]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r]]
+**Related:** [[2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s]] · [[2026-08-14-french-startup-kog-bets-on-software-optimization-to-achieve]] · [[2026-09-02-gigapath-flash-and-gigatime-flash-toward-population-scale-di]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]]
 <!-- graph:end -->

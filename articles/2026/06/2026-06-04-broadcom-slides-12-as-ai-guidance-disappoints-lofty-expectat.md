@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: The Motley Fool
 url_original: https://www.fool.com/coverage/stock-market-today/2026/06/04/stock-market-today-june-4-broadcom-shares-plunge-after-ai-outlook-misses-high-investor-expectations/
 url_canonical: https://www.fool.com/coverage/stock-market-today/2026/06/04/stock-market-today-june-4-broadcom-shares-plunge-after-ai-outlook-misses-high-investor-expectations/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: 8b4eb4d48270153ac42cd98338413a2ce1e96c374c9877a75b45a38b89ff399e
@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-02-broadcom-posts-record-quarter-on-custom-ai-accelerators-guid
 - 2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips
 - 2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co
+- 2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai
 - 2026-08-21-broadcom-seeks-up-to-80-billion-in-debt-for-an-ai-chip-finan
-- 2026-07-14-ibm-plunges-about-25-on-q2-warning-as-enterprise-budgets-piv
-- 2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off
 embedding_id: 2026-06-04-broadcom-slides-12-as-ai-guidance-disappoints-lofty-expectat
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Broadcom fell ~12–13% after fiscal Q2 results paired strong AI revenue growth 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips]] · [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co]] · [[2026-08-21-broadcom-seeks-up-to-80-billion-in-debt-for-an-ai-chip-finan]] · [[2026-07-14-ibm-plunges-about-25-on-q2-warning-as-enterprise-budgets-piv]] · [[2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off]]
+**Related:** [[2026-09-02-broadcom-posts-record-quarter-on-custom-ai-accelerators-guid]] · [[2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips]] · [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co]] · [[2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai]] · [[2026-08-21-broadcom-seeks-up-to-80-billion-in-debt-for-an-ai-chip-finan]]
 <!-- graph:end -->

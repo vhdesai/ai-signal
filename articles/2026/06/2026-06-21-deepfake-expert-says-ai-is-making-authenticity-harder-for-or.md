@@ -5,7 +5,7 @@ date: '2026-06-21'
 source: Business Insider
 url_original: https://www.businessinsider.com/deepfake-expert-ai-video-images-hard-to-know-whats-real-2026-6
 url_canonical: https://www.businessinsider.com/deepfake-expert-ai-video-images-hard-to-know-whats-real-2026-6
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-21_060000_Daily-AI-News-Digest.md
 content_hash: e8a3758e652dd1fafa9ee5264470bacd78f48ef32cf74b382f84606c2b3d0fa2
 normalized_title_hash: 42cb510200b850ed
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-01-wsj-warns-ai-generated-content-is-blurring-evidence-trust-an
 - 2026-08-01-ai-and-the-blurring-of-reality
+- 2026-09-02-pangram-s-max-spero-on-why-ai-detection-is-harder-than-real
 - 2026-08-03-deel-s-acquisition-of-clarity-shows-deepfake-defense-moving
 - 2026-08-04-microsoft-teams-adds-a-report-button-to-flag-ai-deepfake-mee
-- 2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims
 embedding_id: 2026-06-21-deepfake-expert-says-ai-is-making-authenticity-harder-for-or
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Business Insider interviewed digital forensics expert Hany Farid, who said AI-ge
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-01-wsj-warns-ai-generated-content-is-blurring-evidence-trust-an]] · [[2026-08-01-ai-and-the-blurring-of-reality]] · [[2026-08-03-deel-s-acquisition-of-clarity-shows-deepfake-defense-moving]] · [[2026-08-04-microsoft-teams-adds-a-report-button-to-flag-ai-deepfake-mee]] · [[2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims]]
+**Related:** [[2026-08-01-wsj-warns-ai-generated-content-is-blurring-evidence-trust-an]] · [[2026-08-01-ai-and-the-blurring-of-reality]] · [[2026-09-02-pangram-s-max-spero-on-why-ai-detection-is-harder-than-real]] · [[2026-08-03-deel-s-acquisition-of-clarity-shows-deepfake-defense-moving]] · [[2026-08-04-microsoft-teams-adds-a-report-button-to-flag-ai-deepfake-mee]]
 <!-- graph:end -->

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202
 - 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 - 2026-08-16-ai-super-pacs-move-into-state-races-ahead-of-the-midterms
-- 2026-07-22-openai-s-planned-ai-infrastructure-spending-rises-to-750-bil
+- 2026-09-02-g20-technology-discussions-center-on-u-s-ai-adoption-and-dat
 embedding_id: 2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Greg Brockman's Senate testimony on $50 billion in planned 2026 infrastructure s
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-12-openai-to-spend-50-billion-on-infrastructure-in-2026-brockma]] · [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-08-16-ai-super-pacs-move-into-state-races-ahead-of-the-midterms]] · [[2026-07-22-openai-s-planned-ai-infrastructure-spending-rises-to-750-bil]]
+**Related:** [[2026-05-12-openai-to-spend-50-billion-on-infrastructure-in-2026-brockma]] · [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-08-16-ai-super-pacs-move-into-state-races-ahead-of-the-midterms]] · [[2026-09-02-g20-technology-discussions-center-on-u-s-ai-adoption-and-dat]]
 <!-- graph:end -->

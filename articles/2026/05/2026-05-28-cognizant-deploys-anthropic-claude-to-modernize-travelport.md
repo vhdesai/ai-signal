@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: TechCircle
 url_original: https://www.techcircle.in/2026/05/28/cognizant-deploys-anthropic-s-claude-ai-to-modernise-travelport-s-travel-platform
 url_canonical: https://www.techcircle.in/2026/05/28/cognizant-deploys-anthropic-s-claude-ai-to-modernise-travelport-s-travel-platform
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 7f10a36181476e1c034b9213416f1957d49a36f25ab203ee3d5e68e8fa449b91
@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 - 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
+- 2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta
 - 2026-05-08-anthropic-rolled-out-claude-security-in-may-2026-a-new-capab
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 embedding_id: 2026-05-28-cognizant-deploys-anthropic-claude-to-modernize-travelport
@@ -37,5 +38,5 @@ Cognizant signed a deal to deploy Anthropic's Claude across Travelport's booking
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-05-08-anthropic-rolled-out-claude-security-in-may-2026-a-new-capab]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
+**Related:** [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta]] · [[2026-05-08-anthropic-rolled-out-claude-security-in-may-2026-a-new-capab]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
 <!-- graph:end -->

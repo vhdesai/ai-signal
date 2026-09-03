@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/
 url_canonical: https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-11_061544_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: e938e68ec2244b66bff0d637020cccdd3837f2cc1cda8176a715cc6d34fecd24

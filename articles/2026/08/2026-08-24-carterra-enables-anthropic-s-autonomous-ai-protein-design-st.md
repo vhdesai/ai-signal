@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/carterra-enables-anthropics-autonomous-ai-130000943.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/carterra-enables-anthropics-autonomous-ai-130000943.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-25_163610_Inbox_Fw Daily AI News Digest - August
   25, 2026.md
 content_hash: 97dc088173b36f117272a55f644c29ca98b6c27c0a6c35adb355d9669b3abe65

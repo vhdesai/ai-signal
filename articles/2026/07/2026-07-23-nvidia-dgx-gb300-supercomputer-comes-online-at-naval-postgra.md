@@ -4,8 +4,8 @@ title: NVIDIA DGX GB300 supercomputer comes online at Naval Postgraduate School
 date: '2026-07-23'
 source: NVIDIA Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/
+url_status: repaired
 digest_source: digests\raw\2026-07-23-daily-ai-news-digest.md
 content_hash: 52bc7eab59dcb60fa2da1abdd7d8deced16212e6fc8b8c1e81467011219e143a
 normalized_title_hash: 974946830040afa3

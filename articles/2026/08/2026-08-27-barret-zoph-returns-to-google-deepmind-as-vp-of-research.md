@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: The Next Web
 url_original: https://thenextweb.com/news/barret-zoph-google-deepmind-thinking-machines
 url_canonical: https://thenextweb.com/news/barret-zoph-google-deepmind-thinking-machines
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_065356_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 17b7b6c5cc2b53ecdaba238898aa9c71598ac667baf3b50b7058246f971c9723

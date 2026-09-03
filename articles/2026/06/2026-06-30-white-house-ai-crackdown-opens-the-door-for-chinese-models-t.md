@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: CNBC
 url_original: https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html
 url_canonical: https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-30_061155_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: f74c82a8f6ee93c067b7ed102c172f65414f05ba02e5b40ca5e04972fc97c774

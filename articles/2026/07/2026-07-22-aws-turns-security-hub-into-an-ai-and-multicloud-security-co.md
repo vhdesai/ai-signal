@@ -5,7 +5,7 @@ date: '2026-07-22'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/07/22/aws-turns-security-hub-ai-multicloud-security-control-plane/
 url_canonical: https://siliconangle.com/2026/07/22/aws-turns-security-hub-ai-multicloud-security-control-plane/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-23_090927_Final-Daily-AI-News-Digest.md
 content_hash: 4c1f2fe52bdad97edfaad70102a8ed36a46ddf6c0f8f4a335b0035cfedfb91ba
 normalized_title_hash: 9a1ffa7e23f5e342

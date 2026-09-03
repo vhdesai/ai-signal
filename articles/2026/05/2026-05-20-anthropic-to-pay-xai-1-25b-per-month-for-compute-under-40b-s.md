@@ -4,8 +4,8 @@ title: Anthropic to Pay xAI $1.25B Per Month for Compute Under $40B SpaceX Deal
 date: '2026-05-20'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/
+url_status: repaired
 digest_source: digests\raw\2026-05-21_081619_Inbox_Daily AI News Digest –– May 21,
   2026.md
 content_hash: e75a50064916b470147c942dd4dd3efab7569d38ceec98ca0509e08024f4ce5c

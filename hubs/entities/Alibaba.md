@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 306
+member_count: 309
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 306 connected article(s).
+> Auto-generated entity hub. 309 connected article(s).
 
+- `2026-09-03` [[2026-09-03-new-tencent-s-hy4-open-weight-preview-lands-8th-on-code-aren|New Tencent's Hy4 open-weight preview lands 8th on Code Arena WebDev]]
+- `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
+- `2026-09-02` [[2026-09-02-trending-alibaba-s-qwen-3-8-max-0902-debuts-at-1-on-code-are|Trending Alibaba's Qwen-3.8-Max-0902 debuts at #1 on Code Arena WebDev]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
 - `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
 - `2026-08-29` [[2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta|Anthropic opens a research preview of the Model Hardware Standard for agents operating physical devices]]

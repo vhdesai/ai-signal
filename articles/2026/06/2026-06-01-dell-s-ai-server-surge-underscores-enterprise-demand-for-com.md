@@ -4,8 +4,8 @@ title: Dell’s AI-server surge underscores enterprise demand for compute
 date: '2026-06-01'
 source: CIO Dive
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.ciodive.com/news/dell-hpe-ai-server-market-growth/759329/
+url_status: repaired
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: 2f5f65fc9cf0d7c756a402dd8a16f72e5adabaf94760fc5c04989224ee82e1a2

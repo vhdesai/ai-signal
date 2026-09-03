@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 350
+member_count: 352
 ---
 
 # xAI
 
-> Auto-generated entity hub. 350 connected article(s).
+> Auto-generated entity hub. 352 connected article(s).
 
+- `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
+- `2026-09-02` [[2026-09-02-xai-resets-free-grok-token-limits-grok-4-7-teased-for-mid-se|xAI resets free Grok token limits; Grok 4.7 teased for mid-September]]
 - `2026-09-01` [[2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr|Pentagon deploys ChatGPT Gov and Grok, notably excludes Anthropic]]
 - `2026-09-01` [[2026-09-01-pentagon-deploys-chatgpt-mil-and-grok-for-government-to-gena|Pentagon Deploys ChatGPT Mil and Grok for Government to GenAI.mil; Anthropic Excluded]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]

@@ -5,8 +5,8 @@ title: NTSB Blocks Public Docket Access After Researchers Used AI to Reconstruct
 date: '2026-05-23'
 source: TechCrunch
 url_original: https://tera.fm/episodes/techcrunch/2026-05-23
-url_canonical: https://tera.fm/episodes/techcrunch/2026-05-23
-url_status: found
+url_canonical: https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/
+url_status: repaired
 digest_source: digests\raw\2026-05-24_071254_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 4a27a128ac060cff179af67c14f19fbd52e30ae06d5f3431b938cb2abddf8ba9

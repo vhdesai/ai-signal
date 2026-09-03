@@ -4,8 +4,8 @@ title: Andrej Karpathy Joins Anthropic Pretraining Team to Work on Claude Breaki
 date: '2026-05-19'
 source: TheAITrack / Multiple Sources
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theaitrack.com/andrej-karpathy-joins-anthropic/
+url_status: repaired
 digest_source: digests\raw\2026-05-21_070721_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: 1339a4905b607561e7953480c8b7b9b5b5c7d4199b8011178195f59bb2c88bd5

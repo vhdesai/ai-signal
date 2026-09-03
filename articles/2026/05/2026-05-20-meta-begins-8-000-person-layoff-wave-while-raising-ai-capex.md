@@ -4,8 +4,8 @@ title: Meta begins 8,000-person layoff wave while raising AI capex to $145B
 date: '2026-05-20'
 source: TechRepublic · Read article
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techjournal.org/meta-layoffs-begin-8000-jobs-ai-spending
+url_status: repaired
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 9a580f5e1633dfd3b23f89074bf8759065de2b25b17b0eebbdda93aaed0a924e

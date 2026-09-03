@@ -5,8 +5,8 @@ title: OpenAI announced a new $100/month ChatGPT Pro subscription tier on April 
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/
+url_status: repaired
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: 7af9751cdbb29ad796f0bee250647fb92cde581d4cb5ff60c57dfeea376549e2

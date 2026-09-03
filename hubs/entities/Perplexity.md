@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Perplexity
-member_count: 61
+member_count: 65
 ---
 
 # Perplexity
 
-> Auto-generated entity hub. 61 connected article(s).
+> Auto-generated entity hub. 65 connected article(s).
 
+- `2026-09-02` [[2026-09-02-u-s-pushes-light-touch-ai-regulation-at-g20-as-europe-advanc|U.S. pushes light-touch AI regulation at G20 as Europe advances new AI law]]
+- `2026-09-02` [[2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive|Perplexity adds hybrid compute so agents can keep sensitive steps on local Macs]]
+- `2026-09-02` [[2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b|Perplexity Introduces Hybrid Compute, Splitting Agent Tasks Between Cloud Models and Local Macs]]
+- `2026-09-01` [[2026-09-01-perplexity-ships-hybrid-compute-that-keeps-confidential-file|Perplexity ships hybrid compute that keeps confidential files on the local Mac]]
 - `2026-09-01` [[2026-09-01-perplexity-ships-hybrid-compute-on-mac-gating-cloud-calls-be|Perplexity ships hybrid compute on Mac, gating cloud calls behind a local model]]
 - `2026-08-25` [[2026-08-25-perplexity-partners-with-nvidia-to-launch-portable-computer|Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs]]
 - `2026-08-25` [[2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local|Perplexity and Nvidia Launch "Portable Computer," a Fully Local AI Agent With Zero Token Costs]]

@@ -24,6 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-nvidia-agrees-to-buy-hugging-face-for-a-reported-12-9-billio
 related_article_ids:
+- 2026-09-03-nvidia-agrees-to-acquire-hugging-face-for-nearly-13-billion
 - 2026-08-26-nvidia-reportedly-agrees-to-acquire-hugging-face-for-12-9-bi
 embedding_id: 2026-08-27-nvidia-confirms-hugging-face-acquisition-for-12-9-billion
 event_name: ''
@@ -39,5 +40,5 @@ Nvidia acquires the repository hosting 1M+ open-source AI models. Follow-on cove
 **Entities:** [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-a-reported-12-9-billio]]
-**Related:** [[2026-08-26-nvidia-reportedly-agrees-to-acquire-hugging-face-for-12-9-bi]]
+**Related:** [[2026-09-03-nvidia-agrees-to-acquire-hugging-face-for-nearly-13-billion]] · [[2026-08-26-nvidia-reportedly-agrees-to-acquire-hugging-face-for-12-9-bi]]
 <!-- graph:end -->

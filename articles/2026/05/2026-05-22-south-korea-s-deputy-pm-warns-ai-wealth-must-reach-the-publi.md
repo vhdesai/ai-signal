@@ -4,8 +4,8 @@ title: South Korea's deputy PM warns AI wealth must reach the public
 date: '2026-05-22'
 source: 'Source: TechCrunch via Creati.ai'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/05/23/ai-wealth-must-benefit-the-public-south-koreas-deputy-pm-says.html
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070540_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 6d3e39299119e9264a13cf395e95e9d356ffbf8babbec875e2f4b4dd7c1172cb

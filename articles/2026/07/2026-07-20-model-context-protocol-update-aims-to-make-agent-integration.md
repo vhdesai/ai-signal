@@ -4,8 +4,8 @@ title: Model Context Protocol update aims to make agent integrations easier to s
 date: '2026-07-20'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/
+url_status: repaired
 digest_source: digests\raw\2026-07-21-daily-ai-news-digest.md
 content_hash: 5db83c344ce217c7e2dda1adb75846783ce4eab5e339a4c6b84cff9f89c17af6
 normalized_title_hash: 8e27f61c3076da13

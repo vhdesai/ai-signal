@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-28-google-deepmind-pilots-the-first-double-blind-evaluation-of
 - 2026-07-21-google-deepmind-ships-gemini-3-6-flash-3-5-flash-lite-and-3
+- 2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8
 - 2026-04-02-google-deepmind-released-gemini-3-1-flash-live-in-march-desc
-- 2026-04-01-google-deepmind-unveiled-gemini-3-1-featuring-simultaneous-v
 embedding_id: 2026-08-28-deepmind-runs-first-double-blind-cryptographic-evaluation-of
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Gemini 2.5 Flash Lite tested inside a confidential computing enclave — evaluat
 
 **Entities:** [[Google]] · [[Intel]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-28-google-deepmind-pilots-the-first-double-blind-evaluation-of]] · [[2026-07-21-google-deepmind-ships-gemini-3-6-flash-3-5-flash-lite-and-3]] · [[2026-04-02-google-deepmind-released-gemini-3-1-flash-live-in-march-desc]] · [[2026-04-01-google-deepmind-unveiled-gemini-3-1-featuring-simultaneous-v]]
+**Related:** [[2026-08-28-google-deepmind-pilots-the-first-double-blind-evaluation-of]] · [[2026-07-21-google-deepmind-ships-gemini-3-6-flash-3-5-flash-lite-and-3]] · [[2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8]] · [[2026-04-02-google-deepmind-released-gemini-3-1-flash-live-in-march-desc]]
 <!-- graph:end -->

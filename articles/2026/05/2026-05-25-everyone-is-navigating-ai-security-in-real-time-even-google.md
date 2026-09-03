@@ -4,8 +4,8 @@ title: '"Everyone is navigating AI security in real time — even Google"'
 date: '2026-05-25'
 source: TechCrunch
 url_original: https://bestpractice.ai/insights/ai-daily-brief/2026-05-24
-url_canonical: https://bestpractice.ai/insights/ai-daily-brief/2026-05-24
-url_status: found
+url_canonical: https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/
+url_status: repaired
 digest_source: digests\raw\2026-05-25_071611_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 94bb891d51167c778eaecc7bd5e266ecfda09228ff35dfea5599225e4ac4d226

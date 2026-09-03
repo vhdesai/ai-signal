@@ -4,8 +4,8 @@ title: 'Import AI 457: "AI Stuxnet," the Muon Optimizer, and Positive Alignment 
 date: '2026-05-18'
 source: Import AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://importai.substack.com/p/import-ai-457-ai-stuxnet-cursed-muon
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070636_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 2cded9c752981ba460bb15dddfaa366d71484b36fbf1182c844cdb460d349132

@@ -5,7 +5,7 @@ date: '2026-08-30'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/
 url_canonical: https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: 43c77bf9706a9b77838bcf616534386ea89f4f3be76a490edf0cddbb8beae048
 normalized_title_hash: b65a51436d5b7838

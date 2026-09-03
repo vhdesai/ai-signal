@@ -1,18 +1,32 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 1762
+member_count: 1776
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 1762 connected article(s).
+> Auto-generated topic hub. 1776 connected article(s).
 
+- `2026-09-03` [[2026-09-03-sivers-commits-30m-to-expand-indium-phosphide-laser-producti|Sivers Commits $30M to Expand Indium Phosphide Laser Production in Glasgow]]
+- `2026-09-03` [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13-billion-taking-aim|Nvidia agrees to buy Hugging Face for $13 billion, taking aim at the open-model layer]]
+- `2026-09-03` [[2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop|Nscale touts $103 billion in contracted revenue after Anthropic compute win]]
+- `2026-09-03` [[2026-09-03-liteon-invests-176m-for-25-of-liquid-cooling-specialist-dcx|LITEON Invests $176M for 25% of Liquid-Cooling Specialist DCX]]
+- `2026-09-03` [[2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai|Broadcom projects AI chip revenue to double in 2027 and again in 2028]]
+- `2026-09-02` [[2026-09-02-ipronics-raises-125m-with-nvidia-participating-for-programma|iPronics Raises $125M, With Nvidia Participating, for Programmable Optical Networking]]
+- `2026-09-02` [[2026-09-02-vertiv-to-acquire-utilityinnovation-group-to-shorten-time-to|Vertiv to acquire UtilityInnovation Group to shorten time-to-power for AI data centers]]
+- `2026-09-02` [[2026-09-02-texas-halts-new-data-center-grid-connections-over-ghost-dema|Texas halts new data-center grid connections over “ghost demand”]]
+- `2026-09-02` [[2026-09-02-texas-halts-new-data-center-grid-connections-after-speculati|Texas halts new data-center grid connections after speculative demand surge]]
+- `2026-09-02` [[2026-09-02-texas-halts-new-data-center-grid-connections-after-ghost-dem|Texas Halts New Data-Center Grid Connections After “Ghost Demand” Surge]]
 - `2026-09-02` [[2026-09-02-tencent-backed-enflame-s-ipo-draws-4-073-times-retail-demand|Tencent-backed Enflame’s IPO draws 4,073 times retail demand]]
 - `2026-09-02` [[2026-09-02-softbank-s-sb-energy-files-to-go-public-naming-openai-as-chi|SoftBank's SB Energy files to go public, naming OpenAI as chief tenant and 5% owner]]
+- `2026-09-02` [[2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive|Perplexity adds hybrid compute so agents can keep sensitive steps on local Macs]]
+- `2026-09-02` [[2026-09-02-nvidia-joins-ipronics-125-million-round-for-programmable-opt|Nvidia joins iPronics' $125 million round for programmable optical networking]]
+- `2026-09-02` [[2026-09-02-nebius-lifts-year-end-contracted-power-target-from-3-gw-to-5|Nebius Lifts Year-End Contracted Power Target from 3 GW to 5 GW]]
 - `2026-09-02` [[2026-09-02-musk-warns-of-ai-power-shortages-at-g20-as-summit-clashes-ov|Musk warns of AI power shortages at G20, as summit clashes over light-touch AI rules]]
 - `2026-09-02` [[2026-09-02-kkr-backs-10b-ai-infrastructure-venture-helix-digital-infras|KKR backs $10B AI infrastructure venture Helix Digital Infrastructure]]
 - `2026-09-02` [[2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day|Frontier capability and frontier cost moved on the same day]]
+- `2026-09-02` [[2026-09-02-equinix-partners-with-nvidia-to-carve-a-niche-in-the-ai-data|Equinix partners with Nvidia to carve a niche in the AI data-center buildout]]
 - `2026-09-02` [[2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da|Cerebras and Compute Nordic Finland announce new 165MW AI data centre in Mikkeli, Finland]]
 - `2026-09-02` [[2026-09-02-build-ai-skills-with-new-ai-powered-learning-experiences|Build AI skills with new AI-powered learning experiences]]
 - `2026-09-01` [[2026-09-01-zhipu-ai-z-ai-first-half-revenue-jumps-nearly-400-on-api-gro|Zhipu AI (Z.AI) First-Half Revenue Jumps Nearly 400% on API Growth]]

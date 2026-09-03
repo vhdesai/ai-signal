@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers
+- 2026-09-02-meta-releases-more-powerful-ai-model-edging-closer-to-rivals
 - 2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru
 - 2026-08-03-the-enterprise-bottleneck-has-clearly-shifted-from-gaining-m
 - 2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n
-- 2026-07-13-hyperscaler-demand-turns-turbine-suppliers-into-an-ai-infras
 embedding_id: 2026-06-27-a-feature-profiling-the-less-visible-infrastructure-tooling
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A feature profiling the less‑visible infrastructure, tooling, and model compan
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru]] · [[2026-08-03-the-enterprise-bottleneck-has-clearly-shifted-from-gaining-m]] · [[2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n]] · [[2026-07-13-hyperscaler-demand-turns-turbine-suppliers-into-an-ai-infras]]
+**Related:** [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-09-02-meta-releases-more-powerful-ai-model-edging-closer-to-rivals]] · [[2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru]] · [[2026-08-03-the-enterprise-bottleneck-has-clearly-shifted-from-gaining-m]] · [[2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n]]
 <!-- graph:end -->

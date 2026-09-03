@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: TechCrunch; Cybersecurity Dive; Help Net Security
 url_original: https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/
 url_canonical: https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-03_083329_Inbox_Daily AI News Digest – June 3,
   2026 (Updated).md
 content_hash: 7305d7eb0181bb8032948691963c6d03d61daf73cc324517b597795de90a938d

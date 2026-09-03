@@ -4,8 +4,8 @@ title: OpenAI Reasoning Model Disproves an 80-Year-Old Erdős Geometry Conjectur
 date: '2026-05-25'
 source: The AI Track / AIToolsRecap
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://dataconomy.com/2026/05/21/openai-model-disproves-erdos-geometry-conjecture/
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070548_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 0d6e4528fe9f1db118ea833192b625cdbb076c7dfd337a9f28b29f1475b4a4de

@@ -4,8 +4,8 @@ title: China Robotics Funding Hits $5.6B in 2026 — Matches All of 2021 Through
 date: '2026-05-20'
 source: Crunchbase News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tools4all.ai/trends/china-robotics-funding-hits-56b-driven-by-embodied-ai
+url_status: repaired
 digest_source: digests\raw\2026-05-22_071207_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: bc29a80dfb20bee6d9dbd53f4541f4bbc27b140908e558a08d94e4188d0b912d

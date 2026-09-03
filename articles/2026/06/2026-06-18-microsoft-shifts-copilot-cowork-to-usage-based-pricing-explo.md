@@ -5,7 +5,7 @@ date: '2026-06-18'
 source: Axios; TheStreet; Fast Company
 url_original: https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/
 url_canonical: https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-19_070001_Final-Daily-AI-News-Digest.md
 content_hash: 26ef7b9f2d5cbe51c526cbb46852d4a48fc9c0821d601e0cdb4c8ca67f533b3a
 normalized_title_hash: 7ee116cf10f8dd66

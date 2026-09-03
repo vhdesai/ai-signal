@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/
 url_canonical: https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-28_065054_Final-Daily-AI-News-Digest.md
 content_hash: f6d9d8d61a0f39a19f62d4ad1a21ec481d269d4648293814dd9362805e369587
 normalized_title_hash: 4df17f35263256c2

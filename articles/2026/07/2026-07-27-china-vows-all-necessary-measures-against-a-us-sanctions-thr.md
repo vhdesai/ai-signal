@@ -6,7 +6,7 @@ date: '2026-07-27'
 source: Bloomberg
 url_original: https://www.theedgesingapore.com/news/geopolitics/china-vows-response-us-sanctions-threat-against-ai-firms
 url_canonical: https://www.theedgesingapore.com/news/geopolitics/china-vows-response-us-sanctions-threat-against-ai-firms
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-27_061009_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: b88bd9a6e22c75e8a90a806ee2d731de8abdce9f669384d75129eec9b2187800

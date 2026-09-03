@@ -4,8 +4,8 @@ title: '"Negation neglect" research probes how LLMs handle reversed factual stat
 date: '2026-05-29'
 source: Research coverage
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2605.13829
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 2e9df1d84d65be4a606814476a94c634d142249128ca080b5fe031752681ed46

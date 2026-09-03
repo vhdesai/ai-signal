@@ -4,8 +4,8 @@ title: Qwen 3.7 Max and Grok "Build" Paid Tiers Land Within 48 Hours
 date: '2026-05-25'
 source: Alibaba Cloud / xAI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.alibabacloud.com/en/solutions/generative-ai/qwen?_p_lc=1
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071821_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 3a56c5049947ab9a21dba68e4928b37c918854aca9f03334ae5a3543d1db1336

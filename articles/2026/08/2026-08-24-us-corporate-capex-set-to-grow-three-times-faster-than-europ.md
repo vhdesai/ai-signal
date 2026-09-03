@@ -6,7 +6,7 @@ date: '2026-08-24'
 source: Financial Times
 url_original: https://aiweekly.co/ai-news-today
 url_canonical: https://aiweekly.co/ai-news-today
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-24_060214_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: d59416631041bdd6ec709cc71cf3a6976a564f697fc449700cb9bde51839f8fa

@@ -5,8 +5,8 @@ title: '[HOT] Microsoft Sets Frontier AI Target for 2027 (Apr 2) Executive state
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/technology/ai/articles/microsoft-restructures-reporting-segments-around-111524996.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 267a1c8a79ba672d6cad141fb9f15d8b87f143de3b6b520737d455ed262e8bd7

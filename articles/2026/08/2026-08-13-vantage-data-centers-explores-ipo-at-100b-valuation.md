@@ -5,7 +5,7 @@ date: '2026-08-13'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-08-13/exclusive-vantage-data-centers-explores-ipo-at-100-billion-valuation-or-sale-sources-say
 url_canonical: https://money.usnews.com/investing/news/articles/2026-08-13/exclusive-vantage-data-centers-explores-ipo-at-100-billion-valuation-or-sale-sources-say
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-14_084159_Final-Daily-AI-News-Digest.md
 content_hash: 82c3a117d8af9637ff870000064d273afe5531ab5984aab243a20359e9fed26e
 normalized_title_hash: a11d68e3ea373673

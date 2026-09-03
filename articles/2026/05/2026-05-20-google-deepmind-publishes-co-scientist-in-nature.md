@@ -5,7 +5,7 @@ date: '2026-05-20'
 source: Google DeepMind Blog
 url_original: https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/
 url_canonical: https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-20_085232_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 30ac3c8c1f7e4014fc76be9d42e319db89e62c15ad025d61bf7cc37f41cd6247

@@ -5,8 +5,8 @@ title: Andrej Karpathy — the former Tesla AI director and founding OpenAI rese
 date: '2026-05-22'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://felloai.com/who-is-andrej-karpathy/
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070841_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 09fe9538c5102a350fadf6319c159d06d4a7d53aa46efdf07a2de2aab8e9c5f5

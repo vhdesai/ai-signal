@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 186
+member_count: 189
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 186 connected article(s).
+> Auto-generated entity hub. 189 connected article(s).
 
+- `2026-09-03` [[2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral|French finance minister warns Europe cannot rely on Mistral alone]]
+- `2026-09-03` [[2026-09-03-c-te-d-ivoire-enlists-mistral-ai-for-national-ai-projects|Côte d'Ivoire enlists Mistral AI for national AI projects]]
+- `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
 - `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]
 - `2026-08-30` [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig|Mistral taps Saudi Arabia's HUMAIN data centres for sovereign AI push]]

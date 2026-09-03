@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/
 url_canonical: https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_061721_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: a39c0ea5228c6d69110345b15462fd1c609a91de8fb131d77479f27d5dbb7455
@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim
 - 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
-- 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
-- 2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after
-- 2026-07-07-illinois-enacts-first-in-nation-law-requiring-independent-sa
-- 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
+- 2026-09-02-justice-department-backs-openai-s-fair-use-defense-in-publis
+- 2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio
+- 2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training
 embedding_id: 2026-08-05-openai-settles-with-doj-over-green-card-hiring-practices-acc
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The DOJ's Civil Rights Division settled with OpenAI and its divested subsidiary 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[M&A Activity]]
-**Related:** [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after]] · [[2026-07-07-illinois-enacts-first-in-nation-law-requiring-independent-sa]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]]
+**Related:** [[2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-09-02-justice-department-backs-openai-s-fair-use-defense-in-publis]] · [[2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio]] · [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training]]
 <!-- graph:end -->

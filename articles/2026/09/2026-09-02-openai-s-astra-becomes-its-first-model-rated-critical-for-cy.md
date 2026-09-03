@@ -18,11 +18,9 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy
-- 2026-08-07-openai-pauses-astra-after-first-ever-critical-cyber-risk-cla
+dedupe_status: duplicate
+canonical_article_id: 2026-09-02-breaking-openai-says-astra-is-its-first-model-to-cross-the-c
+related_article_ids: []
 embedding_id: 2026-09-02-openai-s-astra-becomes-its-first-model-rated-critical-for-cy
 event_name: ''
 ---
@@ -36,5 +34,5 @@ OpenAI said Astra reached the “Critical” cybersecurity level under its Prepa
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy]] · [[2026-08-07-openai-pauses-astra-after-first-ever-critical-cyber-risk-cla]]
+**Canonical:** [[2026-09-02-breaking-openai-says-astra-is-its-first-model-to-cross-the-c]]
 <!-- graph:end -->

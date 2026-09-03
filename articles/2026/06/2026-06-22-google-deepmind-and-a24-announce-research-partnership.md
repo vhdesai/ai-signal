@@ -4,8 +4,8 @@ title: Google DeepMind and A24 announce research partnership
 date: '2026-06-22'
 source: blog.google
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/deepmind-a24-research-partnership/
+url_status: repaired
 digest_source: digests\raw\2026-06-22_060000_Daily-AI-News-Digest.md
 content_hash: 0e4f8d2a8177498589f867e913600f8c8c661cf2edea865aa39f079aaf4ae5b6
 normalized_title_hash: a2442ec804ec965c

@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Shacknews (figures via Reuters) / TheStreet · Nvidia
 url_original: https://www.shacknews.com/article/150497/nvidia-nvda-q2-2027-earnings-results
 url_canonical: https://www.shacknews.com/article/150497/nvidia-nvda-q2-2027-earnings-results
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 82f1e7d11b0eb854220754066af0de0a6a8fd5e3624922c461dd12ff5a0c355e

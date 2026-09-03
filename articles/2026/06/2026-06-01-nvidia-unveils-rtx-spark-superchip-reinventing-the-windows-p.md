@@ -6,7 +6,7 @@ date: '2026-06-01'
 source: NVIDIA; TechCrunch; Wall Street Journal
 url_original: https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/
 url_canonical: https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-04_070640_Inbox_Daily AI News Digest – June 2,
   2026.md
 content_hash: a35062bcb2944551c426bc2856acaa4373e8e61d0c985c95bb7a2fea89799e64
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super
 - 2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex
 - 2026-06-01-nvidia-unveils-vera-cpu-an-agent-native-processor-for-window
-- 2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip
+- 2026-09-02-asus-unveils-proart-pcs-on-nvidia-rtx-spark-at-ifa-2026
 embedding_id: 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p
 event_name: ''
 ---
@@ -42,5 +42,5 @@ At GTC Taipei, Nvidia introduced the RTX Spark superchip — 1 petaflop of AI co
 
 **Entities:** [[Arm]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]] · [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex]] · [[2026-06-01-nvidia-unveils-vera-cpu-an-agent-native-processor-for-window]] · [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip]]
+**Related:** [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]] · [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex]] · [[2026-06-01-nvidia-unveils-vera-cpu-an-agent-native-processor-for-window]] · [[2026-09-02-asus-unveils-proart-pcs-on-nvidia-rtx-spark-at-ifa-2026]]
 <!-- graph:end -->

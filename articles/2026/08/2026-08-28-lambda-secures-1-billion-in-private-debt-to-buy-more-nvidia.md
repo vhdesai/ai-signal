@@ -5,7 +5,7 @@ date: '2026-08-28'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/
 url_canonical: https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-29_060713_Inbox_Daily AI News Digest - August 29,
   2026.md
 content_hash: 3106266ac9a30b9fcda578bb5d8677be59d38d2a637f6651fa8e56db84135b9c

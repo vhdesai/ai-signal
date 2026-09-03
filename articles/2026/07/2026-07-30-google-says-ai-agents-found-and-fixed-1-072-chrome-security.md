@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: BleepingComputer · Google
 url_original: https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/
 url_canonical: https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-31_061058_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: 69571ea17cb6610c1cc0fb41ea5c5f76750c038c391864d67e66ea5c786852e4

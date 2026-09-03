@@ -5,7 +5,7 @@ date: '2026-08-28'
 source: Ars Technica
 url_original: https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/
 url_canonical: https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-29_065041_Final-Daily-AI-News-Digest.md
 content_hash: 3c83a7dd795191bfd1494a6dc2049c55f5093a68b21d88a27a61f8dc0979a18f
 normalized_title_hash: 5ec947af7f0e9842

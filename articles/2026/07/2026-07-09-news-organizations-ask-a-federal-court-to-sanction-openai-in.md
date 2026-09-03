@@ -41,9 +41,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-news-organizations-ask-federal-court-to-sanction-openai-in-c
+- 2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training
 - 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
-- 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
-- 2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica
+- 2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim
 embedding_id: 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
 event_name: ''
 ---
@@ -57,5 +57,5 @@ A coalition of 17 news organizations — including The New York Times, New York 
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-09-news-organizations-ask-federal-court-to-sanction-openai-in-c]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica]]
+**Related:** [[2026-07-09-news-organizations-ask-federal-court-to-sanction-openai-in-c]] · [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]] · [[2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: Google DeepMind's Manish Gupta calls Shadow AI a bigger enterprise threat
 date: '2026-05-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.aninews.in/news/business/shadow-ai-bigger-threat-than-hackers-as-cyberattacks-accelerate-in-ai-era-google-deepminds-gupta20260527123156/
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071713_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 3cabb3dbf3c78c64a25437b857677a4fd7618e707c4c3258671cfcc7f0e79596

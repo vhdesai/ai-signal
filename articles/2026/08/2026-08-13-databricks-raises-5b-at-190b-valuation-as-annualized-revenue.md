@@ -5,7 +5,7 @@ date: '2026-08-13'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/
 url_canonical: https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-14_084159_Final-Daily-AI-News-Digest.md
 content_hash: 75d38db35e4e6adb434383eebb5255bfae50ef23ad80aecf183638bbb3cceeb0
 normalized_title_hash: 6f37eb3f5886abb6

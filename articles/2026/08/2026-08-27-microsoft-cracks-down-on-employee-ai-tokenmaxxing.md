@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: Business Insider via Yahoo Finance · Microsoft
 url_original: https://finance.yahoo.com/technology/ai/articles/microsoft-cracks-down-employee-ai-174500002.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/microsoft-cracks-down-employee-ai-174500002.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 76f1b271f5dff58400be4354b3e10cd541b4565832a40a0c98bc725b3622585d

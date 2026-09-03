@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: TechNode
 url_original: https://technode.com/2026/07/31/bytedance-launches-seedance-2-5-video-generation-model/
 url_canonical: https://technode.com/2026/07/31/bytedance-launches-seedance-2-5-video-generation-model/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-01_061911_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 4fc390ddec4741c29858d0ca8d8de3cf78aab666a618fabd73d4ebc949408c34

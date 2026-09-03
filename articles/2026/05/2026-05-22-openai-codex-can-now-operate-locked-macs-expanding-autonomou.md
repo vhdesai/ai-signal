@@ -4,8 +4,8 @@ title: OpenAI Codex Can Now Operate Locked Macs — Expanding Autonomous Agent R
 date: '2026-05-22'
 source: AIHub
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://opentools.ai/news/openai-codex-locked-mac-control
+url_status: repaired
 digest_source: digests\raw\2026-05-22_071207_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 313470b9cbebbdf9dc694a11d43619df2e2612941572bbab1ae33b40b1d404c4

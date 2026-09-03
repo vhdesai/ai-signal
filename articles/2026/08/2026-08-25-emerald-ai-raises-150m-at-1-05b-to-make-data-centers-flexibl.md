@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/08/25/data-center-power-startup-emerald-ai-raises-150m-at-1-05b-valuation/
 url_canonical: https://siliconangle.com/2026/08/25/data-center-power-startup-emerald-ai-raises-150m-at-1-05b-valuation/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-26_062133_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: c868dfc1b606120c4df3ab1a9afe68bacb05f0ab275b09dba24f0b922acae125

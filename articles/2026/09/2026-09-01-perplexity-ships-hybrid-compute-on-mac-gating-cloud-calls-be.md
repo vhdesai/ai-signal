@@ -20,9 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b
+- 2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive
+- 2026-09-01-perplexity-ships-hybrid-compute-that-keeps-confidential-file
 - 2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local
-- 2026-05-07-new-perplexity-personal-computer-now-generally-available-for
-- 2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for
 embedding_id: 2026-09-01-perplexity-ships-hybrid-compute-on-mac-gating-cloud-calls-be
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Perplexity introduced a hybrid compute mode that splits each Perplexity Computer
 
 **Entities:** [[Perplexity]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local]] · [[2026-05-07-new-perplexity-personal-computer-now-generally-available-for]] · [[2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for]]
+**Related:** [[2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b]] · [[2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive]] · [[2026-09-01-perplexity-ships-hybrid-compute-that-keeps-confidential-file]] · [[2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local]]
 <!-- graph:end -->

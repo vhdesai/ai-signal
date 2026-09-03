@@ -5,7 +5,7 @@ date: '2026-07-11'
 source: Machine Learning Mastery
 url_original: https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/
 url_canonical: https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-11_060831_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 468c289bfc2801950a1fa8503deee54c85c7df7f085c5d280ff03e5df868c4b4

@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: Engadget
 url_original: https://www.engadget.com/2230792/google-assistant-shut-down-android-devices-in-september/
 url_canonical: https://www.engadget.com/2230792/google-assistant-shut-down-android-devices-in-september/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: d4909f1e2905ff8a3a2634edd1984624674e1092044b687846902a3ca92f299e
@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i
+- 2026-09-02-google-adds-gemini-powered-object-memory-to-android-find-hub
 - 2026-05-13-
 - 2026-07-16-eu-orders-google-to-open-android-and-share-search-data-with
 - 2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin
-- event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
 embedding_id: 2026-08-05-google-sets-a-september-4-deadline-to-replace-google-assista
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google confirmed it will begin removing Google Assistant from Android phones and
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i]] · [[2026-05-13-]] · [[2026-07-16-eu-orders-google-to-open-android-and-share-search-data-with]] · [[2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin]] · [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]]
+**Related:** [[2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i]] · [[2026-09-02-google-adds-gemini-powered-object-memory-to-android-find-hub]] · [[2026-05-13-]] · [[2026-07-16-eu-orders-google-to-open-android-and-share-search-data-with]] · [[2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin]]
 <!-- graph:end -->

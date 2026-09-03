@@ -6,7 +6,7 @@ date: '2026-06-03'
 source: Anthropic
 url_original: https://www.anthropic.com/news/services-track-partner-hub
 url_canonical: https://www.anthropic.com/news/services-track-partner-hub
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-04_071147_Daily-AI-News-Digest.md
 content_hash: 2bca6ed3fba3aa81f7811d0344ea7ab626900e30d77d7fc78a141a04a73f4df4
 normalized_title_hash: f6aa0794983a427a

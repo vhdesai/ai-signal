@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: The Star
 url_original: https://www.thestar.com.my/business/business-news/2026/07/28/palantir-faces-growing-continental-backlash
 url_canonical: https://www.thestar.com.my/business/business-news/2026/07/28/palantir-faces-growing-continental-backlash
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 37f9de5f5276646832adc2413e58986e6055a5ab79fafd11677badcf3f65d764
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent
 - 2026-04-20-palantir-wsj-april-19-2026-palantir-leadership-posted-a-publ
 - 2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump
-- 2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g
+- 2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral
 embedding_id: 2026-07-28-palantir-faces-growing-european-backlash-over-dependence
 event_name: ''
 ---
@@ -39,5 +39,5 @@ European governments are reportedly shifting toward domestic intelligence platfo
 
 **Entities:** [[Palantir]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan]] · [[2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent]] · [[2026-04-20-palantir-wsj-april-19-2026-palantir-leadership-posted-a-publ]] · [[2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump]] · [[2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g]]
+**Related:** [[2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan]] · [[2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent]] · [[2026-04-20-palantir-wsj-april-19-2026-palantir-leadership-posted-a-publ]] · [[2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump]] · [[2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral]]
 <!-- graph:end -->

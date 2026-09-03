@@ -4,8 +4,8 @@ title: Microsoft deepens ties with Mistral, targeting Europe and enterprise AI
 date: '2026-07-21'
 source: WSJ
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://geopoliticspulse.com/2026/07/21/microsoft-deepens-ties-with-mistral-targeting-europe-and-enterprise-ai-wsj/
+url_status: repaired
 digest_source: digests\raw\2026-07-21-daily-ai-news-digest.md
 content_hash: 64224994b33992264472641cd70be9af3dcc28b236961827cf5247c73ca7b5dc
 normalized_title_hash: e0f51f5fdd81bde7

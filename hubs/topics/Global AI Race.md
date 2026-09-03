@@ -1,15 +1,24 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1137
+member_count: 1146
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1137 connected article(s).
+> Auto-generated topic hub. 1146 connected article(s).
 
+- `2026-09-03` [[2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on|Tencent releases Hy4 preview, an open-weight model trained on its own user data]]
+- `2026-09-03` [[2026-09-03-nvidia-agrees-to-acquire-hugging-face-for-nearly-13-billion|Nvidia Agrees to Acquire Hugging Face for Nearly $13 Billion]]
+- `2026-09-03` [[2026-09-03-new-tencent-s-hy4-open-weight-preview-lands-8th-on-code-aren|New Tencent's Hy4 open-weight preview lands 8th on Code Arena WebDev]]
+- `2026-09-03` [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va|Moonshot AI Files Confidentially for Hong Kong IPO at ~$50B Valuation]]
+- `2026-09-03` [[2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral|French finance minister warns Europe cannot rely on Mistral alone]]
+- `2026-09-03` [[2026-09-03-china-s-moonshot-ai-confidentially-filed-for-a-hong-kong-ipo|China's Moonshot AI confidentially filed for a Hong Kong IPO]]
+- `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-02` [[2026-09-02-xinhua-reported-that-chinese-authorities-removed-5-6-million|Xinhua reported that Chinese authorities removed 5.6 million pieces of unlawful or rule-violating content as part of a crackdown on AI misuse. The action shows Beijing continuing to pair rapid AI deployment with centralized content and platform enforcement. For global AI operators, the development is another example of diverging regulatory models across major markets.]]
+- `2026-09-02` [[2026-09-02-trending-alibaba-s-qwen-3-8-max-0902-debuts-at-1-on-code-are|Trending Alibaba's Qwen-3.8-Max-0902 debuts at #1 on Code Arena WebDev]]
 - `2026-09-02` [[2026-09-02-tencent-backed-enflame-s-ipo-draws-4-073-times-retail-demand|Tencent-backed Enflame’s IPO draws 4,073 times retail demand]]
+- `2026-09-02` [[2026-09-02-tencent-backed-enflame-draws-6-000x-retail-oversubscription|Tencent-Backed Enflame Draws 6,000x Retail Oversubscription in $910M Shanghai IPO]]
 - `2026-09-01` [[2026-09-01-zhipu-ai-z-ai-first-half-revenue-jumps-nearly-400-on-api-gro|Zhipu AI (Z.AI) First-Half Revenue Jumps Nearly 400% on API Growth]]
 - `2026-09-01` [[2026-09-01-u-s-pushes-g20-toward-light-touch-ai-regulation-under-the-ca|U.S. Pushes G20 Toward Light-Touch AI Regulation Under the “Carolina Principles”]]
 - `2026-09-01` [[2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo|Tencent-Backed AI Chipmaker Enflame Seeks ~$911 Million in IPO]]

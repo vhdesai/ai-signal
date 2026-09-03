@@ -5,8 +5,8 @@ title: AMD and Meta have officially expanded their multi-year AI infrastructure 
 date: '2026-03-24'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://ir.amd.com/news-events/press-releases/detail/1279/amd-and-meta-announce-expanded-strategic-partnership-to-deploy-6-gigawatts-of-amd-gpus
+url_status: repaired
 digest_source: digests\raw\2026-03-26_105104_Inbox_Daily AI News Digest – March 24,
   2026.md
 content_hash: cb7354247bb146d075db5e8121373795050fb7075616e4e57a31c264a604069b
@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-23-amd-takes-on-nvidia-with-helios-rack-scale-ai-system
 - 2026-07-24-amd-unveils-helios-rack-scale-ai-system-at-advancing-ai-2026
+- 2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst
 - 2026-07-24-amd-unveils-helios-rack-scale-ai-system-to-challenge-nvidia
 - 2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon
-- 2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry
 embedding_id: 2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in
 event_name: ''
 ---
@@ -41,5 +41,5 @@ AMD and Meta have officially expanded their multi-year AI infrastructure partner
 
 **Entities:** [[AMD]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-23-amd-takes-on-nvidia-with-helios-rack-scale-ai-system]] · [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-at-advancing-ai-2026]] · [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-to-challenge-nvidia]] · [[2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon]] · [[2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry]]
+**Related:** [[2026-07-23-amd-takes-on-nvidia-with-helios-rack-scale-ai-system]] · [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-at-advancing-ai-2026]] · [[2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst]] · [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-to-challenge-nvidia]] · [[2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon]]
 <!-- graph:end -->

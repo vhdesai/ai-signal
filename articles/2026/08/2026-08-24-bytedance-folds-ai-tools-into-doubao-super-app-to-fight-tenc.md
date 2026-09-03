@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: The Edge Singapore
 url_original: https://www.theedgesingapore.com/news/china/bytedance-folds-ai-tools-doubao-super-app-fight-tencent
 url_canonical: https://www.theedgesingapore.com/news/china/bytedance-folds-ai-tools-doubao-super-app-fight-tencent
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-25_163610_Inbox_Fw Daily AI News Digest - August
   25, 2026.md
 content_hash: 7009f06e812309719f3592e7ecab8d449beddb15ecbcfea894c142d5c5a3b967

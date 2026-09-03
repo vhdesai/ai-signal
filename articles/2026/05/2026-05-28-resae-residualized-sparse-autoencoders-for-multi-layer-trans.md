@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and
 - 2026-08-04-four-part-practitioner-series-on-transformer-inference-perfo
+- 2026-09-02-refactor-vla-unsupervised-library-learning-of-typed-motor-pr
 - 2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen
-- 2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt
 embedding_id: 2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A residualized sparse-autoencoder approach for multi-layer interventions in tran
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and]] · [[2026-08-04-four-part-practitioner-series-on-transformer-inference-perfo]] · [[2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen]] · [[2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt]]
+**Related:** [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and]] · [[2026-08-04-four-part-practitioner-series-on-transformer-inference-perfo]] · [[2026-09-02-refactor-vla-unsupervised-library-learning-of-typed-motor-pr]] · [[2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen]]
 <!-- graph:end -->

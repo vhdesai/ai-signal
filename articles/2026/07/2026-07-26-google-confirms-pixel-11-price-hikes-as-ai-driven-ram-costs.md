@@ -5,7 +5,7 @@ date: '2026-07-26'
 source: The Next Web
 url_original: https://thenextweb.com/news/google-pixel-11-price-hike-ram-memory-crisis
 url_canonical: https://thenextweb.com/news/google-pixel-11-price-hike-ram-memory-crisis
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-26_061102_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: a7d116d15be36687aebf8292cdc22915d8768ef39b5fca13ad3db1143e5fada9

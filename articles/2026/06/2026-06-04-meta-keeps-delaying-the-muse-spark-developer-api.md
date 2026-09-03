@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: The Next Web
 url_original: https://thenextweb.com/news/meta-muse-spark-api-delay
 url_canonical: https://thenextweb.com/news/meta-muse-spark-api-delay
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: a9cee0bc5cf7248bb4c1dad17b55452b7456b34c0d836468841412b3684731df
@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age
 - 2026-06-23-trump-administration-presses-meta-to-submit-frontier-models
 - 2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1
 - 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
 - 2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f
-- 2026-06-30-follow-on-reporting-detailed-that-meta-had-been-running-cust
 embedding_id: 2026-06-04-meta-keeps-delaying-the-muse-spark-developer-api
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta's Muse Spark launched in April but the developer API has slipped repeatedly
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-23-trump-administration-presses-meta-to-submit-frontier-models]] · [[2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f]] · [[2026-06-30-follow-on-reporting-detailed-that-meta-had-been-running-cust]]
+**Related:** [[2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age]] · [[2026-06-23-trump-administration-presses-meta-to-submit-frontier-models]] · [[2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f]]
 <!-- graph:end -->

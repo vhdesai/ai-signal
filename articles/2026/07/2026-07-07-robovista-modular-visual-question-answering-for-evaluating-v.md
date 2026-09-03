@@ -6,7 +6,7 @@ date: '2026-07-07'
 source: arXiv
 url_original: https://arxiv.org/abs/2607.04610
 url_canonical: https://arxiv.org/abs/2607.04610
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-07_061720_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: e1e09fd8713898b256aa7ee937619f378246f500d61e6bb650e8f19c880a294b
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
 - 2026-08-20-deepmind-s-eximo-uses-vision-language-models-to-guide-robot
+- 2026-09-02-refactor-vla-unsupervised-library-learning-of-typed-motor-pr
 - 2026-08-24-arxiv-agentweave-routing-before-reasoning-for-efficient-func
-- 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
 embedding_id: 2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v
 event_name: ''
 ---
@@ -37,5 +37,5 @@ RoboVista proposes a modular visual-question-answering benchmark for evaluating 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]] · [[2026-08-20-deepmind-s-eximo-uses-vision-language-models-to-guide-robot]] · [[2026-08-24-arxiv-agentweave-routing-before-reasoning-for-efficient-func]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]]
+**Related:** [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]] · [[2026-08-20-deepmind-s-eximo-uses-vision-language-models-to-guide-robot]] · [[2026-09-02-refactor-vla-unsupervised-library-learning-of-typed-motor-pr]] · [[2026-08-24-arxiv-agentweave-routing-before-reasoning-for-efficient-func]]
 <!-- graph:end -->

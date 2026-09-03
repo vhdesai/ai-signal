@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/23/best-gpu-neoclouds-2026/
 url_canonical: https://www.marktechpost.com/2026/08/23/best-gpu-neoclouds-2026/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-24_060711_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 8fb8608a2ceb337396b09a72d55ea470c2c744f53f6705bc2691df030a93e3cc

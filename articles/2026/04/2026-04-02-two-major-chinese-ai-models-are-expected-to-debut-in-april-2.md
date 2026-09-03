@@ -4,8 +4,8 @@ title: Two major Chinese AI models are expected to debut in April 2026
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://renovateqr.com/blog/chinese-ai-models-april-2026
+url_status: repaired
 digest_source: digests\raw\2026-04-02_080231_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: fb97e57ed60589e36d205b2bd0c5eeac221f4121126496806c8313af57a8b97d

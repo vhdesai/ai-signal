@@ -6,7 +6,7 @@ date: '2026-07-09'
 source: Stanford University
 url_original: https://techxplore.com/news/2026-07-biomni-ai-powered-biomedical-scientist.html
 url_canonical: https://techxplore.com/news/2026-07-biomni-ai-powered-biomedical-scientist.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-10_062836_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 377a14cd3fe0715bd273887d6fc0d0e3be9c2e817338381934fe407a2cfedf8b

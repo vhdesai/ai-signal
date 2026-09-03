@@ -5,8 +5,8 @@ title: Microsoft AI Chief Says Company Was "Set Free" from OpenAI; Calls Anthrop
 date: '2026-06-05'
 source: VentureBeat; CIO.com; Yahoo Finance
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/technology/ai/articles/microsoft-cuts-ai-bill-replacing-065811487.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-06-06_060013_Daily-AI-News-Digest.md
 content_hash: 34601a526879e45272861834d953b0fa8915d786b861800449c25064c74360a7
 normalized_title_hash: 5ed32017a4af9803

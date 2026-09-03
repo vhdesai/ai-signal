@@ -5,8 +5,8 @@ title: OpenAI released three new voice API models designed for live audio agents
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://gadgetbond.com/openai-gpt-realtime-2-translate-whisper-voice-models-api-update-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 9fe2e5e0bd21a62131b4991c4cccc1992d8122551f1c7e9c7173550a129757f8

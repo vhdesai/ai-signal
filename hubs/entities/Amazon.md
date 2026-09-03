@@ -1,14 +1,18 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 524
+member_count: 528
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 524 connected article(s).
+> Auto-generated entity hub. 528 connected article(s).
 
+- `2026-09-03` [[2026-09-03-amazon-and-meta-ai-bots-account-for-most-website-visits|Amazon and Meta AI bots account for most website visits]]
+- `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-02` [[2026-09-02-meta-and-google-s-ai-returns-slide-piper-sandler-says-amazon|Meta and Google’s AI returns slide, Piper Sandler says Amazon’s capital discipline sets it apart]]
+- `2026-09-02` [[2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta|Anthropic launches Claude commerce-agent blueprints for retailers]]
+- `2026-09-02` [[2026-09-02-aws-to-open-its-first-saudi-arabia-region-in-december-anchor|AWS to open its first Saudi Arabia region in December, anchoring a $5.3B AI push]]
 - `2026-09-01` [[2026-09-01-purdue-libraries-and-school-of-information-studies-advance-a|Purdue Libraries and School of Information Studies Advance AI Across Research and Knowledge Stewardship]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
 - `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]

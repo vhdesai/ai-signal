@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: Intelligent CIO
 url_original: https://www.intelligentcio.com/north-america/2026/08/04/red-hat-launches-asago-community-to-automate-ai-safety-and-governance-from-policy-to-production/
 url_canonical: https://www.intelligentcio.com/north-america/2026/08/04/red-hat-launches-asago-community-to-automate-ai-safety-and-governance-from-policy-to-production/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-05_061510_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: f7e6ab6a5e67113fd4bfde5ef98864ee2223931ad7e01f17bc2cf5ef66486bec

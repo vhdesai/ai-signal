@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 101
+member_count: 102
 ---
 
 # AMD
 
-> Auto-generated entity hub. 101 connected article(s).
+> Auto-generated entity hub. 102 connected article(s).
 
+- `2026-09-02` [[2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst|HUMAIN and AMD Launch a $10 Billion AI Infrastructure Ecosystem]]
 - `2026-09-01` [[2026-09-01-indian-ai-chip-startup-agrani-labs-raising-50m-at-up-to-200m|Indian AI-Chip Startup Agrani Labs Raising ~$50M at up to $200M Valuation]]
 - `2026-08-31` [[2026-08-31-humain-also-partners-with-together-ai-and-minio-on-riyadh-an|HUMAIN Also Partners With Together AI and MinIO on Riyadh and Dammam Data Centers]]
 - `2026-08-31` [[2026-08-31-eurohpc-awards-bull-a-387-8m-contract-for-the-lumi-ai-superc|EuroHPC awards Bull a €387.8M contract for the LUMI-AI supercomputer in Finland]]

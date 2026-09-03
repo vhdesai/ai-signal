@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-08-28-alibaba-cloud-opens-its-first-brazilian-region-as-cloud-riva
 - 2026-08-28-alibaba-cloud-opens-its-first-brazilian-region
 - 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
+- 2026-09-02-aws-to-open-its-first-saudi-arabia-region-in-december-anchor
 embedding_id: 2026-08-28-alibaba-cloud-opens-first-brazil-cloud-region-with-agentic-a
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Alibaba Cloud launched two São Paulo data centers forming its first cloud regio
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-08-28-alibaba-cloud-opens-first-brazil-region-with-agentic-ai-serv]] · [[2026-08-28-alibaba-cloud-opens-its-first-brazilian-region-as-cloud-riva]] · [[2026-08-28-alibaba-cloud-opens-its-first-brazilian-region]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]]
+**Related:** [[2026-08-28-alibaba-cloud-opens-first-brazil-region-with-agentic-ai-serv]] · [[2026-08-28-alibaba-cloud-opens-its-first-brazilian-region-as-cloud-riva]] · [[2026-08-28-alibaba-cloud-opens-its-first-brazilian-region]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]] · [[2026-09-02-aws-to-open-its-first-saudi-arabia-region-in-december-anchor]]
 <!-- graph:end -->

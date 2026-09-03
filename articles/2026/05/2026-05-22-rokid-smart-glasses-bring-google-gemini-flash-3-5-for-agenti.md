@@ -4,8 +4,8 @@ title: Rokid Smart Glasses Bring Google Gemini Flash 3.5 for Agentic Wearable AI
 date: '2026-05-22'
 source: AiThority / GlobeNewswire
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://portal.sina.com.hk/finance/finance-globenewswire/globenewswire/2026/05/21/1772658/rokid-accelerates-agentic-ai-roadmap-for-smart-glasses-following-google-gemini-updates-at-i-o/
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070646_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: a700c094c5ab8930f62d58d1c7cadc44d7c6d0addb61d6ee9823680d8dc210ae

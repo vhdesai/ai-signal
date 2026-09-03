@@ -4,8 +4,8 @@ title: Microsoft Copilot multi-model story and Agent 365 reach GA at $15/user/mo
 date: '2026-05-25'
 source: Week of May 25, 2026
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcommunity.microsoft.com/blog/microsoft365copilotblog/what’s-new-in-microsoft-365-copilot--may-2026/4522010
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: d2937f5f26d2d3af2d9c1eae1fc209652581b12a124da35b8d298e7a09413e51

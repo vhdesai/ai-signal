@@ -4,8 +4,8 @@ title: China Advances Comprehensive AI Legislation as US Regulatory Drift Deepen
 date: '2026-05-22'
 source: ProdSens / Semafor
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://english.www.gov.cn/policies/latestreleases/202501/03/content_WS6777c872c6d0868f4e8ee7cd.html
+url_status: repaired
 digest_source: digests\raw\2026-05-22_071207_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: dd498a2baabd0d91fc0766f6eed4a1db7bdb744be4853e82a56edd5444a504d4

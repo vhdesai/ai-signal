@@ -4,8 +4,8 @@ title: OpenAI's Sol Ultra "Proof" of Cycle Double Cover Conjecture Draws Scrutin
 date: '2026-07-13'
 source: Multiple sources
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://kingy.ai/blog/openai-gpt-5-6-sol-ultra-cycle-double-cover-proof-claim/
+url_status: repaired
 digest_source: digests\raw\2026-07-14_065240_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 58df692a334e5f8dc6ce9c21291b1a1fafdbb2ba1c2f31188bbb62182d1d5508

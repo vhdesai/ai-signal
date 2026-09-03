@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l
 - 2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex
 - 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
+- 2026-09-02-trending-alibaba-s-qwen-3-8-max-0902-debuts-at-1-on-code-are
 - 2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c
-- 2026-08-03-alibaba-unveils-qwen3-8-max-its-largest-and-most-capable-mod
 embedding_id: 2026-04-21-new-alibaba-ships-qwen-3-6-max-preview
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Alibaba quietly pushed Qwen 3.6-Max-Preview live on Qwen Chat, posting the highe
 
 **Entities:** [[Alibaba]] · [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l]] · [[2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]] · [[2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c]] · [[2026-08-03-alibaba-unveils-qwen3-8-max-its-largest-and-most-capable-mod]]
+**Related:** [[2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l]] · [[2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]] · [[2026-09-02-trending-alibaba-s-qwen-3-8-max-0902-debuts-at-1-on-code-are]] · [[2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c]]
 <!-- graph:end -->

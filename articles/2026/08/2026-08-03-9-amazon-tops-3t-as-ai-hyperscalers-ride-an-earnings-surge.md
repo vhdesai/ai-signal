@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: AOL / 24-7 Wall St. · Read article →
 url_original: https://www.aol.com/articles/amazon-tops-3t-meta-rallies-173128000.html
 url_canonical: https://www.aol.com/articles/amazon-tops-3t-meta-rallies-173128000.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_061155_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 673325594c6a9bd23d8f98df49b67efd6e1aac1d5cd476a5802950640c4236e4

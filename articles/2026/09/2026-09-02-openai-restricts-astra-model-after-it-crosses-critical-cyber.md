@@ -5,7 +5,7 @@ date: '2026-09-02'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/pro/cybersecurity/openais-astra-model-can-hack-with-minimal-human-help-e5285d5c
 url_canonical: https://www.wsj.com/pro/cybersecurity/openais-astra-model-can-hack-with-minimal-human-help-e5285d5c
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-02_065546_Final-Daily-AI-News-Digest.md
 content_hash: b15c6db7a6295efabce1a23f7adccb6d094b63436820c49e08165f97ff1b6a57
 normalized_title_hash: 14eead4f06ead670
@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou
+- 2026-09-02-openai-says-astra-crosses-its-critical-cybersecurity-thresho
 embedding_id: 2026-09-02-openai-restricts-astra-model-after-it-crosses-critical-cyber
 event_name: ''
 ---
@@ -35,5 +36,5 @@ The Wall Street Journal reports OpenAI is restricting capabilities of its Astra 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou]]
+**Related:** [[2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou]] · [[2026-09-02-openai-says-astra-crosses-its-critical-cybersecurity-thresho]]
 <!-- graph:end -->

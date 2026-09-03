@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
 - 2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a
 - 2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees
+- 2026-09-03-for-all-their-talk-about-ai-few-companies-are-quantifying-ga
 - 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
-- 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
 embedding_id: 2026-04-01-jpmorgan-chase-is-formally-connecting-software-engineers-per
 event_name: ''
 ---
@@ -38,5 +38,5 @@ JPMorgan Chase is formally connecting software engineers' performance ratings to
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]] · [[2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]]
+**Related:** [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]] · [[2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees]] · [[2026-09-03-for-all-their-talk-about-ai-few-companies-are-quantifying-ga]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]]
 <!-- graph:end -->

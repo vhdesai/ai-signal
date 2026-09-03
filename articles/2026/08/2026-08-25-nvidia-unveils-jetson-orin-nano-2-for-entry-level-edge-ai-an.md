@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: Unite.AI
 url_original: https://www.unite.ai/nvidia-unveils-jetson-orin-nano-2-to-redefine-entry-level-edge-ai/
 url_canonical: https://www.unite.ai/nvidia-unveils-jetson-orin-nano-2-to-redefine-entry-level-edge-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-26_061028_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: ff60d28410108a58848a9f9030b273b4841ed2cc1b2978270917773a623194ed

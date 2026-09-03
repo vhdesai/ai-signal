@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: MIT News · Read article →
 url_original: https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803
 url_canonical: https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-04_061155_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 2c5f6f5538fbd0c6daaf08163a40b04ef03db390baa4db88baa14651a4f16b59

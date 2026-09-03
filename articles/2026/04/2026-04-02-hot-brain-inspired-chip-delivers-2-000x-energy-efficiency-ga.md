@@ -5,8 +5,8 @@ title: '[HOT] Brain-Inspired Chip Delivers 2,000x Energy Efficiency Gain (Apr 2)
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://developmentstoday.com/innovation/a-uk-neuromorphic-chip-claim-puts-ai-efficiency-back-at-the-center-of-hardware-c
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 59dc98a8f5e6fa3c399564dfd2b7d36e6e496807b312eeeb64d86c974a18302c

@@ -4,8 +4,8 @@ title: Microsoft's Satya Nadella Warns Against AI-Market Concentration
 date: '2026-06-22'
 source: WSJ
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.msn.com/en-in/money/news/microsoft-ceo-satya-nadella-warns-against-ai-concentration/ar-AA26jM7T
+url_status: repaired
 digest_source: digests\raw\2026-06-22_085442_Final-Daily-AI-News-Digest.md
 content_hash: 698f4837d79c5570e61ddb9400da5f4d2fb48546aec37351efb7554a8d6628eb
 normalized_title_hash: 0e1498453e15980c

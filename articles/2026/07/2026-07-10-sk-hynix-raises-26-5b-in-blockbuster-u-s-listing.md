@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: Tech Xplore
 url_original: https://techxplore.com/news/2026-07-sk-hynix-billion-powered-ai.html
 url_canonical: https://techxplore.com/news/2026-07-sk-hynix-billion-powered-ai.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-10_082135_Inbox_Fw Daily AI News Digest - July
   10, 2026.md
 content_hash: d83468353b1e33a392da48e5ab27db4ed2b088d7be57eeb18fb04b08feff4bea

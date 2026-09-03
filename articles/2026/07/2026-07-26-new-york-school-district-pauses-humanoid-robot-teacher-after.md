@@ -5,7 +5,7 @@ date: '2026-07-26'
 source: Newsmax
 url_original: https://www.newsmax.com/newsfront/salamanca-city-central-school-district-realbotix-ai/2026/07/26/id/1264064/
 url_canonical: https://www.newsmax.com/newsfront/salamanca-city-central-school-district-realbotix-ai/2026/07/26/id/1264064/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-26_062744_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: c1ada5618d397db4f316d4f442412b9bbe94dfd5e8f2cba74bc1dd750a2ac10d
@@ -19,6 +19,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-02-new-york-city-bans-generative-ai-in-schools-through-eighth-g
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 - 2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker
 embedding_id: 2026-07-26-new-york-school-district-pauses-humanoid-robot-teacher-after
@@ -33,5 +34,5 @@ The Salamanca City Central School District paused plans to place a ~$57,590 Real
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker]]
+**Related:** [[2026-09-02-new-york-city-bans-generative-ai-in-schools-through-eighth-g]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker]]
 <!-- graph:end -->

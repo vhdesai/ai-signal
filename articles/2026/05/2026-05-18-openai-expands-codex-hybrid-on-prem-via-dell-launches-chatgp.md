@@ -5,8 +5,8 @@ title: OpenAI Expands Codex Hybrid/On-Prem via Dell, Launches ChatGPT Personal F
 date: '2026-05-18'
 source: OpenAI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bitsminds.com/news/openai-dell-codex-on-prem-enterprise-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: c56f1e6bbf28ffef68d3fea96f4fdd850c812204ea5086fa912c53a8066dcc83

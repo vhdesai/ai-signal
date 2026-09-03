@@ -5,8 +5,8 @@ title: Researchers at MIT analyzed 809 large language models released between Oc
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://futuretech.mit.edu/publication/is-there-secret-sauce-in-large-language-model-development
+url_status: repaired
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: 6ce4dfea4ece4bccc39f299403fe942508ce2977149379d24af1f1bcc4fe91f6

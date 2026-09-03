@@ -6,7 +6,7 @@ date: '2026-08-25'
 source: VentureBeat
 url_original: https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs
 url_canonical: https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-26_060307_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 5318d5951d2c74b1b579ca4d53dcf64907edfd37ced44d158d78c2369f3da6be

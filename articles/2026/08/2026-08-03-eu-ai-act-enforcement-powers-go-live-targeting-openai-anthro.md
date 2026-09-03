@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html
 url_canonical: https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-03_062808_Inbox_Daily AI News Digest - August 3,
   2026.md
 content_hash: 36017d96ce32fd63717556c6860a459691039699b4da3dfbd839b73bc9fe27d9

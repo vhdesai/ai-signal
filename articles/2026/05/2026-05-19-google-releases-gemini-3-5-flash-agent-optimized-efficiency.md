@@ -4,8 +4,8 @@ title: Google Releases Gemini 3.5 Flash — Agent-Optimized Efficiency Model
 date: '2026-05-19'
 source: Ars Technica / LLM Stats
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/
+url_status: repaired
 digest_source: digests\raw\2026-05-22_071207_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 2d0a3e247a52f71b36c081e78ca2eefeb255ebaa2a30c41ed72c487b4573799b

@@ -4,8 +4,8 @@ title: Pentagon signs classified AI deals with seven companies — Anthropic exc
 date: '2026-05-04'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thenextweb.com/news/pentagon-ai-deals-anthropic-safety-limits
+url_status: repaired
 digest_source: digests\raw\2026-05-04_082406_Inbox_Daily AI News Digest –– May 4,
   2026 (Updated- May 3–4 only).md
 content_hash: c99d9efdecfc658e29d88bda5bf79d028ddf50a2d03fbd71c94295343bf847f8

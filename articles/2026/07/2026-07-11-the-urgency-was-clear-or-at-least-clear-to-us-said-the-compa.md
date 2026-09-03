@@ -21,6 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands
 - 2026-08-29-at-techbbq-european-ai-discussion-converged-on-control-and-s
+- 2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral
 - 2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise
 embedding_id: 2026-07-11-the-urgency-was-clear-or-at-least-clear-to-us-said-the-compa
 event_name: ''
@@ -34,5 +35,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands]] · [[2026-08-29-at-techbbq-european-ai-discussion-converged-on-control-and-s]] · [[2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise]]
+**Related:** [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands]] · [[2026-08-29-at-techbbq-european-ai-discussion-converged-on-control-and-s]] · [[2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral]] · [[2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise]]
 <!-- graph:end -->

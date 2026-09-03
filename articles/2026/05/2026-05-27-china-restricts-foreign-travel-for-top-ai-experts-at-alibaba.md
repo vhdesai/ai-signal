@@ -5,8 +5,8 @@ title: China Restricts Foreign Travel for Top AI Experts at Alibaba, DeepSeek, a
 date: '2026-05-27'
 source: Times Now
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.timesnownews.com/technology-science/china-restricts-foreign-travel-for-top-ai-experts-from-alibaba-deepseek-and-more-article-154411558
+url_status: repaired
 digest_source: digests\raw\2026-05-28_071047_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: e52d72d0242731d20f3b22db83cd22647a7e78efdbec3ce851c17ee3c2d563ea

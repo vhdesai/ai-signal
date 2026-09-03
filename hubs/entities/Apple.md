@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 380
+member_count: 385
 ---
 
 # Apple
 
-> Auto-generated entity hub. 380 connected article(s).
+> Auto-generated entity hub. 385 connected article(s).
 
+- `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
+- `2026-09-02` [[2026-09-02-refactor-vla-unsupervised-library-learning-of-typed-motor-pr|REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs]]
+- `2026-09-02` [[2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive|Perplexity adds hybrid compute so agents can keep sensitive steps on local Macs]]
+- `2026-09-02` [[2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b|Perplexity Introduces Hybrid Compute, Splitting Agent Tasks Between Cloud Models and Local Macs]]
+- `2026-09-01` [[2026-09-01-perplexity-ships-hybrid-compute-that-keeps-confidential-file|Perplexity ships hybrid compute that keeps confidential files on the local Mac]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
 - `2026-09-01` [[2026-09-01-john-ternus-takes-over-as-apple-ceo-with-the-company-trailin|John Ternus takes over as Apple CEO with the company trailing in frontier AI]]
 - `2026-09-01` [[2026-09-01-john-ternus-becomes-apple-ceo-today-as-tim-cook-moves-to-exe|John Ternus becomes Apple CEO today as Tim Cook moves to executive chairman]]

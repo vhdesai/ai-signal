@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: UPI
 url_original: https://www.upi.com/Top_News/World-News/2026/08/24/ls-electric-ai-data-center-deal/4801787611247/
 url_canonical: https://www.upi.com/Top_News/World-News/2026/08/24/ls-electric-ai-data-center-deal/4801787611247/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-25_163610_Inbox_Fw Daily AI News Digest - August
   25, 2026.md
 content_hash: aef4676c04da1a49b9c1ef48914958bbca92e8e5de594a42e3c6f95ea0590fa3

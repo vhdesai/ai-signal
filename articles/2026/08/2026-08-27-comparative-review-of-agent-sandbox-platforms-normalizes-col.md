@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/27/best-agent-sandboxes-2026-cold-start-pricing-network-policy/
 url_canonical: https://www.marktechpost.com/2026/08/27/best-agent-sandboxes-2026-cold-start-pricing-network-policy/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_060357_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: acac9b2b4c25cab2b3fb2707f66541b8b84ea1c2a7bebc24522c9cf748d37a92

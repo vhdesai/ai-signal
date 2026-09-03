@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: Forbes
 url_original: https://www.forbes.com/sites/quickerbettertech/2026/08/23/claude-has-more-google-workspace-integrationsand-other-business-technology-news-this-week/
 url_canonical: https://www.forbes.com/sites/quickerbettertech/2026/08/23/claude-has-more-google-workspace-integrationsand-other-business-technology-news-this-week/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-24_085500_Final-Daily-AI-News-Digest.md
 content_hash: 225ee55319767bd643e5d4510746859c7561354736a7b6cafa013278cf8fb74d
 normalized_title_hash: 83f84fd4bd9bc924

@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: Apple Machine Learning Research
 url_original: https://machinelearning.apple.com/research/gh-esd
 url_canonical: https://machinelearning.apple.com/research/gh-esd
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-29_060511_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 79854e27dd8386431056107dad5371eb8bb318d2f91f4bdbdcb11ab2128ebe2b

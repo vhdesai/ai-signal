@@ -6,7 +6,7 @@ date: '2026-07-24'
 source: Decrypt · within 48h
 url_original: https://decrypt.co/374305/claude-opus-5-outscores-fable-5-most-benchmarks-half-price
 url_canonical: https://decrypt.co/374305/claude-opus-5-outscores-fable-5-most-benchmarks-half-price
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-26_062227_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 9e1b77954ff19c1b14c464d11705324a716af26537768a3823c7898e85a8e744

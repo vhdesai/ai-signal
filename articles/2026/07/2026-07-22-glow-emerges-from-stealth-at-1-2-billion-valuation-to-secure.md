@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-02-trending-hiddenlayer-raises-100m-series-b-as-enterprises-rus
 - 2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation
 - 2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-regu
 - 2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent
 - 2026-07-16-fireworks-ai-closes-1-5b-round-at-17-5b-valuation
-- 2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the
 embedding_id: 2026-07-22-glow-emerges-from-stealth-at-1-2-billion-valuation-to-secure
 event_name: ''
 ---
@@ -42,5 +42,5 @@ TechCrunch reports that Glow, founded by former Meta and Snowflake executives, e
 
 **Entities:** [[Meta]] · [[Snowflake]]
 **Topics:** [[Policy & Regulation]] · [[Company Investments]]
-**Related:** [[2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-regu]] · [[2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent]] · [[2026-07-16-fireworks-ai-closes-1-5b-round-at-17-5b-valuation]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the]]
+**Related:** [[2026-09-02-trending-hiddenlayer-raises-100m-series-b-as-enterprises-rus]] · [[2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-regu]] · [[2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent]] · [[2026-07-16-fireworks-ai-closes-1-5b-round-at-17-5b-valuation]]
 <!-- graph:end -->

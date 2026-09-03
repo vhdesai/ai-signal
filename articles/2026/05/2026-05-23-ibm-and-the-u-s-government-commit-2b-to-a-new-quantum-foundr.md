@@ -4,8 +4,8 @@ title: IBM and the U.S. government commit $2B to a new quantum foundry
 date: '2026-05-23'
 source: Chip Beat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://newsroom.ibm.com/ibm-and-u-s-department-of-commerce-announce-americas-first-purpose-built-quantum-foundry
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070444_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 9a9b21724df02722623201dfbabad0acf4654f02c8873851d2741026aebdb0f3

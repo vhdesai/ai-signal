@@ -5,7 +5,7 @@ date: '2026-08-17'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/
 url_canonical: https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-18_065100_Final-Daily-AI-News-Digest.md
 content_hash: 8e1b3de611ae7ef2182d948eaed216f3a26a8532c9fd5ffc1fd3a192245105d4
 normalized_title_hash: 73a084ecacadae22

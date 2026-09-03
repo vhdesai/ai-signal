@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: Stanford Report
 url_original: https://news.stanford.edu/stories/2026/08/evo-2-ai-tool-e-coli-killer-bacteriophages
 url_canonical: https://news.stanford.edu/stories/2026/08/evo-2-ai-tool-e-coli-killer-bacteriophages
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-07_061741_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 2199e7d41d4249ce6d579849f55fedb4a31bc6c36e8f7b028b06305591062428

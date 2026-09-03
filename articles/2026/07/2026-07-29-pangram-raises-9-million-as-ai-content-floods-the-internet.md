@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/
 url_canonical: https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-30_060904_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 8abea910f03460b46e48377c14514af569567ea527abc9cce2f11058fb2a1bb7

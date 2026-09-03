@@ -4,8 +4,8 @@ title: WSJ tracks the hunt for durable AI winners in public markets
 date: '2026-05-31'
 source: Wall Street Journal
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://graphics.wsj.com/markets-dailies-us-open/
+url_status: repaired
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: 08f17049945628419c5022e9471a8fd02d1326fab6e76549b3ec0a3f958f9158

@@ -5,8 +5,8 @@ title: The Stanford University 2026 AI Index Report documents a field advancing 
 date: '2026-05-22'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070841_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 14176e9a4eb554e50f38e0a04f7be07d7c052e08652273417848ed4256378d86

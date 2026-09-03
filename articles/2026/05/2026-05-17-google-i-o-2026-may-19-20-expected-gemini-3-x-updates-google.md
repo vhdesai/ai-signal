@@ -5,8 +5,8 @@ title: 'Google I/O 2026 — May 19–20. Expected: Gemini 3.x updates, Googleboo
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: dde59880f908f4f1b46d5d18f7a57d09c9bb52807891a334f6e75005e62a3741

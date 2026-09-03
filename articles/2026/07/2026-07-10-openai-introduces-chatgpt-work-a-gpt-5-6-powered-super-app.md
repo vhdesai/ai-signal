@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: Republic World
 url_original: https://www.republicworld.com/tech/openai-introduces-chatgpt-work-its-long-awaited-super-app-powered-by-gpt-56-2026-07-10-131920
 url_canonical: https://www.republicworld.com/tech/openai-introduces-chatgpt-work-its-long-awaited-super-app-powered-by-gpt-56-2026-07-10-131920
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-10_061000_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: cd30fb2d2c4d3533df1f5104101a1dccb7c570fe482fd8d0912ef1d22a525082

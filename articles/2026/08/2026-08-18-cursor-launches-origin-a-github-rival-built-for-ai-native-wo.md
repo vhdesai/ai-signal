@@ -5,7 +5,7 @@ date: '2026-08-18'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/
 url_canonical: https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-19_065003_Final-Daily-AI-News-Digest.md
 content_hash: 9402b77aa42b84bc96d52eac5d2441e4d5c8428b39b08b67c79f276e71a0570f
 normalized_title_hash: 8c4b81a0225c4c88

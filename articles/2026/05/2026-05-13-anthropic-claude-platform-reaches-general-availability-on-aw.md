@@ -5,7 +5,7 @@ date: '2026-05-13'
 source: InfoQ
 url_original: https://www.infoq.com/news/2026/05/anthropic-claude-aws/
 url_canonical: https://www.infoq.com/news/2026/05/anthropic-claude-aws/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: b9685d2f64558aed1fb12605456507a49971f3270fc37c0d2f5ad207a5c17403
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
-- 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
+- 2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta
 embedding_id: 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Anthropic announced GA of the Claude Platform on AWS, giving enterprise customer
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Cerebras]] · [[OpenAI]]
 **Topics:** [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]]
+**Related:** [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35]] · [[2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta]]
 <!-- graph:end -->

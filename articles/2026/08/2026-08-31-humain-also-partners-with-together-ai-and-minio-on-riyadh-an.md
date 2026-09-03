@@ -24,6 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-31-together-ai-takes-250-mw-of-saudi-capacity-from-humain-citin
+- 2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst
 - 2026-08-31-together-ai-trades-revenue-share-for-250-mw-and-120-000-chip
 - 2026-08-31-together-ai-takes-250mw-of-saudi-capacity-from-humain-citing
 - 2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25
@@ -40,5 +41,5 @@ Separately, HUMAIN announced partnerships with U.S. startups Together AI and Min
 
 **Entities:** [[AMD]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-31-together-ai-takes-250-mw-of-saudi-capacity-from-humain-citin]] · [[2026-08-31-together-ai-trades-revenue-share-for-250-mw-and-120-000-chip]] · [[2026-08-31-together-ai-takes-250mw-of-saudi-capacity-from-humain-citing]] · [[2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25]]
+**Related:** [[2026-08-31-together-ai-takes-250-mw-of-saudi-capacity-from-humain-citin]] · [[2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst]] · [[2026-08-31-together-ai-trades-revenue-share-for-250-mw-and-120-000-chip]] · [[2026-08-31-together-ai-takes-250mw-of-saudi-capacity-from-humain-citing]] · [[2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25]]
 <!-- graph:end -->

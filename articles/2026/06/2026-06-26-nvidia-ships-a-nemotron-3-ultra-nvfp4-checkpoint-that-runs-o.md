@@ -6,7 +6,7 @@ date: '2026-06-26'
 source: NVIDIA Developer Blog
 url_original: https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/
 url_canonical: https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-27_092146_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 52716923775d870fd03fa3915f9259201b56f87010b4963668abf8f40d4ff043

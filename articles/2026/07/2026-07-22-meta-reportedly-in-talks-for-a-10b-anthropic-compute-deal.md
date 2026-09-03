@@ -5,7 +5,7 @@ date: '2026-07-22'
 source: The Motley Fool
 url_original: https://www.fool.com/investing/2026/07/22/mark-zuckerbergs-meta-is-in-talks-for-a-10-billion/
 url_canonical: https://www.fool.com/investing/2026/07/22/mark-zuckerbergs-meta-is-in-talks-for-a-10-billion/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-24_065750_Final-Daily-AI-News-Digest.md
 content_hash: ce3cbcbd26356a5660befec26badf1ae073320a621afa5c3afe69b425913d555
 normalized_title_hash: 96b93110fb34c300

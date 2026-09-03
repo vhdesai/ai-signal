@@ -4,8 +4,8 @@ title: 'Stanford AI Index 2026: U.S.–China model gap narrows to 2.7%'
 date: '2026-05-23'
 source: 'Source: Stanford HAI / IEEE Spectrum syndication'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070540_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: a2136a3aea93f3cec7f8ad68d1833730d1a1ea5d5e2a2abf6cda60d24ab27f17

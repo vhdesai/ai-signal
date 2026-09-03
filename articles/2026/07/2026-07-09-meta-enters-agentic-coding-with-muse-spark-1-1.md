@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/
 url_canonical: https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-11_062818_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: d6b52b6d1ec1650792c123265a025fbad5c634fc6a09320363d9fa28dbb8428a

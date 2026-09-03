@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-openai-describes-building-an-ai-native-finance-function
+- 2026-09-03-for-all-their-talk-about-ai-few-companies-are-quantifying-ga
 - 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
 - 2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value
 - 2026-08-22-goldman-sachs-assesses-when-ai-will-deliver-meaningful-earni
-- 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 embedding_id: 2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Four-time CFO Amy Butte (NYSE, Navan) tells Business Insider that AI is forcing 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-10-openai-describes-building-an-ai-native-finance-function]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value]] · [[2026-08-22-goldman-sachs-assesses-when-ai-will-deliver-meaningful-earni]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]]
+**Related:** [[2026-08-10-openai-describes-building-an-ai-native-finance-function]] · [[2026-09-03-for-all-their-talk-about-ai-few-companies-are-quantifying-ga]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value]] · [[2026-08-22-goldman-sachs-assesses-when-ai-will-deliver-meaningful-earni]]
 <!-- graph:end -->

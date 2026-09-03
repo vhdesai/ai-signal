@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: The Next Web (Yonhap)**
 url_original: https://thenextweb.com/news/samsung-yongin-first-fab-2029
 url_canonical: https://thenextweb.com/news/samsung-yongin-first-fab-2029
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-13_065032_Final-Daily-AI-News-Digest.md
 content_hash: d0a130662a9829aba3dc4b0eb5ea9b427fa48280adcbc851387369e0363c0f91
 normalized_title_hash: cb20b13a53bbea3c

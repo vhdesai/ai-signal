@@ -6,7 +6,7 @@ date: '2026-08-21'
 source: Bloomberg
 url_original: https://finance.yahoo.com/technology/ai/articles/nvidia-pay-poolside-6-billion-181448803.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-pay-poolside-6-billion-181448803.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_061248_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 5e0dbd67776e5944d7c46f44137f49caea76d4a067008a27cf2620a242c36347

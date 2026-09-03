@@ -5,8 +5,8 @@ title: Alphabet's Earnings Show AI Capex Is Now a Governance Question, Not Just 
 date: '2026-07-22'
 source: Multiple sources**
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.metirai.com/blog/alphabet-q2-2026-earnings-google-cloud-ai-capex
+url_status: repaired
 digest_source: digests\raw\2026-07-23_065018_Final-Daily-AI-News-Digest.md
 content_hash: 0a60a12030177410330ce1a983b544bf8402127fd01890549dc68ae80c2e1545
 normalized_title_hash: 7300d783542a1afe

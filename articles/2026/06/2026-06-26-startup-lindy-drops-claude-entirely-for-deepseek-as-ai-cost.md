@@ -6,7 +6,7 @@ date: '2026-06-26'
 source: THE DECODER
 url_original: https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-for-deepseek-saving-millions-as-cost-pressure-mounts-on-anthropic/
 url_canonical: https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-for-deepseek-saving-millions-as-cost-pressure-mounts-on-anthropic/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-27_092146_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 3a62d97205479b4e90dbb46582eb7e8c9142d91eac91e8f2458b4acd685c2edc

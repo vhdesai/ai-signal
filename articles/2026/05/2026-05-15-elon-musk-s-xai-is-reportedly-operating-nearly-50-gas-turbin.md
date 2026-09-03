@@ -5,8 +5,8 @@ title: Elon Musk's xAI is reportedly operating nearly 50 gas turbines without pr
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.theguardian.com/technology/2026/jan/15/elon-musk-xai-datacenter-memphis
+url_status: repaired
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: bece8bc6f2cc457840715459b40ed42396f1380c95f70206eb6a140667ec6f97

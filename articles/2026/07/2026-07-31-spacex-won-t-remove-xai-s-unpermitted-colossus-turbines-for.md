@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/
 url_canonical: https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-01_061911_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 18e2e6a7b8ba9b51ed340ca9da7a396867f5d9eb5efd45accc34a635850a4dfe

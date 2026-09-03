@@ -5,8 +5,8 @@ title: At Google I/O 2026 (May 19–20, Mountain View), CEO Sundar Pichai declar
 date: '2026-05-22'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.startuphub.ai/ai-news/ai-figures/2026/figure-sundar-pichai-io-2026-agentic-gemini-recap-2026-06-21
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070841_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: cb2a36f2a8108af68fc62f3d2faa3a23a0753030694dfcb0b9d19230a7063fd1

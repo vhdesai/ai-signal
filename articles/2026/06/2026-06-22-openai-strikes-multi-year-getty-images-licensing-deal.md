@@ -4,8 +4,8 @@ title: OpenAI Strikes Multi-Year Getty Images Licensing Deal
 date: '2026-06-22'
 source: Multiple sources
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://newsroom.gettyimages.com/en/getty-images/getty-images-announces-display-partnership-with-openai
+url_status: repaired
 digest_source: digests\raw\2026-06-23_065425_Final-Daily-AI-News-Digest.md
 content_hash: d249a22eda92fabaae8c53fbcc6163342eed3c7fb9e4c3c6dac60f00fd8d747c
 normalized_title_hash: bedd976eedcb10fa

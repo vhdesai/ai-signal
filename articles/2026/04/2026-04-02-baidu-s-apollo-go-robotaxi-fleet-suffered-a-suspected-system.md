@@ -5,8 +5,8 @@ title: Baidu's Apollo Go robotaxi fleet suffered a suspected system-wide softwar
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.lego-sia.com/en/posts/2026/04/30/hardware-wuhan-failure-triggers-regulatory-freeze/
+url_status: repaired
 digest_source: digests\raw\2026-04-02_080231_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 70ba8bbd0371b544c1e0a750cb9a2e4daf9799e78bbb1f7e8e0b7f39fd05c201

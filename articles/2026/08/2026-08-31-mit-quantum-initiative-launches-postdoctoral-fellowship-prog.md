@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts
+- 2026-09-02-from-mit-to-ibm-expediting-ai-and-quantum-deployment
 - 2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun
 - 2026-05-13-conference-proceedings-published-through-springer-today-high
 embedding_id: 2026-08-31-mit-quantum-initiative-launches-postdoctoral-fellowship-prog
@@ -36,5 +37,5 @@ The MIT Quantum Initiative launched a postdoctoral fellowship program and will w
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts]] · [[2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun]] · [[2026-05-13-conference-proceedings-published-through-springer-today-high]]
+**Related:** [[2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts]] · [[2026-09-02-from-mit-to-ibm-expediting-ai-and-quantum-deployment]] · [[2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun]] · [[2026-05-13-conference-proceedings-published-through-springer-today-high]]
 <!-- graph:end -->

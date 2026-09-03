@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 - 2026-04-02-academic-research
+- 2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter
 - 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
-- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 embedding_id: 2026-08-16-bot-meets-bot-the-rise-of-ai-to-ai-interaction-loops
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The NYT Morning newsletter explores the emerging phenomenon of "bot loops" — w
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-04-02-academic-research]] · [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
+**Related:** [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-04-02-academic-research]] · [[2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter]] · [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]]
 <!-- graph:end -->

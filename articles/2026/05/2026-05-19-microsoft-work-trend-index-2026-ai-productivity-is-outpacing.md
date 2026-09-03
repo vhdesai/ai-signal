@@ -6,7 +6,7 @@ date: '2026-05-19'
 source: Forbes / Moor Insights
 url_original: https://www.forbes.com/sites/moorinsights/2026/05/19/microsoft-work-trend-index-2026-shows-ai-productivity-is-not-enough/
 url_canonical: https://www.forbes.com/sites/moorinsights/2026/05/19/microsoft-work-trend-index-2026-shows-ai-productivity-is-not-enough/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: b5b18938da81fdd5de2d7f4738b2201a2be49b283c7bfa93b4d0b285037e57d9
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye
 - 2026-08-23-study-finds-90-of-executives-report-no-ai-productivity-gain
+- 2026-09-03-for-all-their-talk-about-ai-few-companies-are-quantifying-ga
 - 2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin
 - 2026-04-10-mit-economics-faculty-have-published-analysis-examining-how
-- 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 embedding_id: 2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft's annual Work Trend Index finds that enterprise AI productivity gains 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye]] · [[2026-08-23-study-finds-90-of-executives-report-no-ai-productivity-gain]] · [[2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin]] · [[2026-04-10-mit-economics-faculty-have-published-analysis-examining-how]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]]
+**Related:** [[2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye]] · [[2026-08-23-study-finds-90-of-executives-report-no-ai-productivity-gain]] · [[2026-09-03-for-all-their-talk-about-ai-few-companies-are-quantifying-ga]] · [[2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin]] · [[2026-04-10-mit-economics-faculty-have-published-analysis-examining-how]]
 <!-- graph:end -->

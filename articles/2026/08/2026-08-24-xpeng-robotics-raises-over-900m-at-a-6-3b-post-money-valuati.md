@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: PR Newswire
 url_original: https://www.prnewswire.com/news-releases/xpeng-robotics-business-raises-over-us900-million-at-a-post-money-valuation-of-over-us6-3-billion-accelerating-physical-ai-deployment-302858203.html
 url_canonical: https://www.prnewswire.com/news-releases/xpeng-robotics-business-raises-over-us900-million-at-a-post-money-valuation-of-over-us6-3-billion-accelerating-physical-ai-deployment-302858203.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-25_163610_Inbox_Fw Daily AI News Digest - August
   25, 2026.md
 content_hash: 7c87dbfe5defe58beefd7e4f63e362f28bf20231a17b88dda729d98d6ae23fe6

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
 - 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
-- 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
+- 2026-09-02-meta-releases-more-powerful-ai-model-edging-closer-to-rivals
 embedding_id: 2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Bloomberg reported Meta is exploring paid AI subscription tiers – a notable st
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions]] · [[2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]]
+**Related:** [[2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions]] · [[2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-09-02-meta-releases-more-powerful-ai-model-edging-closer-to-rivals]]
 <!-- graph:end -->

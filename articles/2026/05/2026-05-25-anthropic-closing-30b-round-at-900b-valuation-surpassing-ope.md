@@ -5,7 +5,7 @@ date: '2026-05-25'
 source: Bloomberg via buildfastwithai
 url_original: https://www.buildfastwithai.com/blogs/ai-news-today-may-25-2026
 url_canonical: https://www.buildfastwithai.com/blogs/ai-news-today-may-25-2026
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 8df4564a57b949a45b400ac84842970767e193868870e221fa09b28ca9633f67

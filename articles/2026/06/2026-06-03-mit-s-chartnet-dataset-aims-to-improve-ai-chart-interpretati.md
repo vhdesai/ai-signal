@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: MIT News
 url_original: https://news.mit.edu/2026/mit-researchers-teach-ai-models-interpret-charts
 url_canonical: https://news.mit.edu/2026/mit-researchers-teach-ai-models-interpret-charts
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-04_071147_Daily-AI-News-Digest.md
 content_hash: 0743d632de7b68cfc6ed7360fb4bf5a66d6fc119b94ae65998443527ba7e92d7
 normalized_title_hash: f079e432376392a4
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu
 - 2026-08-10-mit-csail-and-tsinghua-introduce-geopt-arguing-physics-is-ai
 - 2026-08-10-mit-introduces-geopt-to-help-ai-models-simulate-real-world-p
-- 2026-07-29-mit-traces-physionet-s-evolution-into-a-global-standard-for
+- 2026-09-02-mit-and-motional-build-a-system-that-helps-humans-predict-se
 embedding_id: 2026-06-03-mit-s-chartnet-dataset-aims-to-improve-ai-chart-interpretati
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT researchers introduced ChartNet, a training dataset designed to improve visi
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-03-mit-s-chartnet-helps-smaller-models-read-charts-better-than]] · [[2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu]] · [[2026-08-10-mit-csail-and-tsinghua-introduce-geopt-arguing-physics-is-ai]] · [[2026-08-10-mit-introduces-geopt-to-help-ai-models-simulate-real-world-p]] · [[2026-07-29-mit-traces-physionet-s-evolution-into-a-global-standard-for]]
+**Related:** [[2026-06-03-mit-s-chartnet-helps-smaller-models-read-charts-better-than]] · [[2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu]] · [[2026-08-10-mit-csail-and-tsinghua-introduce-geopt-arguing-physics-is-ai]] · [[2026-08-10-mit-introduces-geopt-to-help-ai-models-simulate-real-world-p]] · [[2026-09-02-mit-and-motional-build-a-system-that-helps-humans-predict-se]]
 <!-- graph:end -->

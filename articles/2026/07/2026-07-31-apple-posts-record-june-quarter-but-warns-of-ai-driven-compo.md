@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: CNBC / Bloomberg
 url_original: https://www.zacks.com/stock/news/2965760/aapl-q3-earnings-call-focuses-on-ai-and-supply-constraints
 url_canonical: https://www.zacks.com/stock/news/2965760/aapl-q3-earnings-call-focuses-on-ai-and-supply-constraints
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-01_061413_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 8bb7dd81fe23e49e272069d50563490ff2146e2a3c68a1b2e7b061c27d5d34a2

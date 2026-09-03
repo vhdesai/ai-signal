@@ -4,8 +4,8 @@ title: AI race splits as China wages an open-weight model insurgency
 date: '2026-07-19'
 source: Axios
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theglobaleye.it/2026/07/18/ai-race-splits-in-two-as-china-wages-open-weight-insurgency/
+url_status: repaired
 digest_source: digests\raw\2026-07-19-daily-ai-news-digest.md
 content_hash: 217b1830899a7da0667fe5825520bdda7698d047c03b1be9c78b75d6da5834d1
 normalized_title_hash: 616d3555371b2e7d

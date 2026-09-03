@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/ai-storage-fms/
 url_canonical: https://blogs.nvidia.com/blog/ai-storage-fms/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-05_061724_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 351ff3e14877e0f29b186fd082b60b1b1b941b7b0d7abb931d997726691802b0

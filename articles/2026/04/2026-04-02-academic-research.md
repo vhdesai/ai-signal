@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
 - 2026-04-06-researchers-from-mit-and-the-university-of-washington-publis
 - 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
-- 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
+- 2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter
 embedding_id: 2026-04-02-academic-research
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT/Berkeley Study: AI Chatbots Can Trigger "Delusional Spiraling" in Users A jo
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]] · [[2026-04-06-researchers-from-mit-and-the-university-of-washington-publis]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]]
+**Related:** [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]] · [[2026-04-06-researchers-from-mit-and-the-university-of-washington-publis]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]] · [[2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter]]
 <!-- graph:end -->

@@ -24,6 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b
+- 2026-09-03-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug
 embedding_id: 2026-08-29-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Nvidia has agreed to buy open-source AI hub Hugging Face for roughly $12.9B, val
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
-**Related:** [[2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b]]
+**Related:** [[2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b]] · [[2026-09-03-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug]]
 <!-- graph:end -->

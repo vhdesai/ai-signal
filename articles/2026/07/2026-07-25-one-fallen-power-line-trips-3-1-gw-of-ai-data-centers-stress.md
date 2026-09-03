@@ -5,7 +5,7 @@ date: '2026-07-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/
 url_canonical: https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-26_062227_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 4c024a6c4470f5ffb36488adaa8be5416a102239884c117cf469179950051111

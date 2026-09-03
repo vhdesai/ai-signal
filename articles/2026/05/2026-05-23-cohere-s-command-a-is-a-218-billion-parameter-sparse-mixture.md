@@ -5,8 +5,8 @@ title: Cohere's Command A+ is a 218-billion-parameter Sparse Mixture-of-Experts 
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://cohere.com/blog/command-a-plus
+url_status: repaired
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 12eebe118a394262bd84b53670ecd64263b711c4c5603b3d54ab8f8112cfbc89

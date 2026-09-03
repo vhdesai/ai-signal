@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: TechBooky
 url_original: https://www.techbooky.com/chatgpt-ads-europe-openai-media-business/
 url_canonical: https://www.techbooky.com/chatgpt-ads-europe-openai-media-business/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: fe8b77cf6904ad722e3096501665ea81456abb23b29e5ae3617a59aed8de1f81

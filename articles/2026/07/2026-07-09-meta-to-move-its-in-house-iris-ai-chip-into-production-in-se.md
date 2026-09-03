@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-07-09/exclusive-meta-to-put-ai-chip-into-production-in-september-as-it-looks-to-double-computing-capacity-memo-shows
 url_canonical: https://money.usnews.com/investing/news/articles/2026-07-09/exclusive-meta-to-put-ai-chip-into-production-in-september-as-it-looks-to-double-computing-capacity-memo-shows
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-11_062053_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 0c773c75587d43dc5f87bf039c9c734caf390361b6cf94ff1595b5d870666fd5

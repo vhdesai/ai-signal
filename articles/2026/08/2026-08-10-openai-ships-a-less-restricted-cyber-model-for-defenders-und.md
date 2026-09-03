@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: '[TechCrunch / OpenAI]'
 url_original: https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/
 url_canonical: https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_061404_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 8bd38320f82556711366b396a7ef4c29f39205b3b30992983262992b5b50ffd5
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-01-openai-says-astra-is-the-first-model-to-cross-its-critical-c
 - 2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy
+- 2026-09-02-openai-says-forthcoming-astra-model-crosses-critical-cyberse
 - 2026-08-10-openai-tightens-controls-on-its-astra-model-over-cybersecuri
 - 2026-09-02-openai-restricts-astra-model-after-it-crosses-critical-cyber
-- 2026-08-07-openai-pauses-astra-model-development-after-reaching-critica
 embedding_id: 2026-08-10-openai-ships-a-less-restricted-cyber-model-for-defenders-und
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI launched a cybersecurity-tuned model available to vetted defenders throug
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-01-openai-says-astra-is-the-first-model-to-cross-its-critical-c]] · [[2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy]] · [[2026-08-10-openai-tightens-controls-on-its-astra-model-over-cybersecuri]] · [[2026-09-02-openai-restricts-astra-model-after-it-crosses-critical-cyber]] · [[2026-08-07-openai-pauses-astra-model-development-after-reaching-critica]]
+**Related:** [[2026-09-01-openai-says-astra-is-the-first-model-to-cross-its-critical-c]] · [[2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy]] · [[2026-09-02-openai-says-forthcoming-astra-model-crosses-critical-cyberse]] · [[2026-08-10-openai-tightens-controls-on-its-astra-model-over-cybersecuri]] · [[2026-09-02-openai-restricts-astra-model-after-it-crosses-critical-cyber]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: 'Meta + Stanford Propose Fast Byte Latent Transformer: 50%+ Inference Spe
 date: '2026-05-12'
 source: The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2605.08044
+url_status: repaired
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: f42a6dc8ccd06aff9600f44a79ffcd03b4184e3349866493dbd1af071b5e45d8

@@ -6,7 +6,7 @@ date: '2026-05-31'
 source: Tech Times*
 url_original: https://www.techtimes.com/articles/317461/20260531/ai-regulation-2026-opens-three-fronts-cnn-sues-perplexity-openai-aligns-eu-rules.htm
 url_canonical: https://www.techtimes.com/articles/317461/20260531/ai-regulation-2026-opens-three-fronts-cnn-sues-perplexity-openai-aligns-eu-rules.htm
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-31_163845_Daily-AI-News-Digest.md
 content_hash: 80a166bcb8fd986eb7cb8b45789ef35fe670d15104801c1636215be7c69bf121
 normalized_title_hash: 9ac7f3bc982fb6df
@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
+- 2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training
+- 2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio
 - 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
-- 2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s
-- 2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits
-- 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
 embedding_id: 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
 event_name: ''
 ---
@@ -42,5 +42,5 @@ CNN filed a copyright and trademark suit against Perplexity in the Southern Dist
 
 **Entities:** [[OpenAI]] · [[Perplexity]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s]] · [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]]
+**Related:** [[2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training]] · [[2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]]
 <!-- graph:end -->

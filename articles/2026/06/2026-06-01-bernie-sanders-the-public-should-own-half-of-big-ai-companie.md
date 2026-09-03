@@ -4,8 +4,8 @@ title: 'Bernie Sanders: The Public Should Own Half of Big AI Companies'
 date: '2026-06-01'
 source: The New York Times
 url_original: https://www.nytimes.com/2026/06/01/opinion/bernie-sanders-ai-companies.html
-url_canonical: https://www.nytimes.com/2026/06/01/opinion/bernie-sanders-ai-companies.html
-url_status: found
+url_canonical: https://www.sanders.senate.gov/op-eds/the-public-should-own-half-of-the-big-a-i-companies/
+url_status: repaired
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
 content_hash: 49df7e2c2e5416c06d3b56d877c6e3cb54940258390b2f3f82f73a2047b1ed8f
 normalized_title_hash: f19c2d65e94f3016

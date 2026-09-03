@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Sortiraparis
 url_original: https://www.sortiraparis.com/en/news/in-paris/articles/350921-claude-down-this-monday-morning-what-s-happening
 url_canonical: https://www.sortiraparis.com/en/news/in-paris/articles/350921-claude-down-this-monday-morning-what-s-happening
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-24_085500_Final-Daily-AI-News-Digest.md
 content_hash: 4ca5694f09ed2c80f142caaef93e37258094537c7a66139e45cf4bdc8a6552e3
 normalized_title_hash: 4bc819254795d71d

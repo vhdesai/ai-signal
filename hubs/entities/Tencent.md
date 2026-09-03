@@ -1,14 +1,18 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 174
+member_count: 178
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 174 connected article(s).
+> Auto-generated entity hub. 178 connected article(s).
 
+- `2026-09-03` [[2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on|Tencent releases Hy4 preview, an open-weight model trained on its own user data]]
+- `2026-09-03` [[2026-09-03-new-tencent-s-hy4-open-weight-preview-lands-8th-on-code-aren|New Tencent's Hy4 open-weight preview lands 8th on Code Arena WebDev]]
+- `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-02` [[2026-09-02-tencent-backed-enflame-s-ipo-draws-4-073-times-retail-demand|Tencent-backed Enflame’s IPO draws 4,073 times retail demand]]
+- `2026-09-02` [[2026-09-02-tencent-backed-enflame-draws-6-000x-retail-oversubscription|Tencent-Backed Enflame Draws 6,000x Retail Oversubscription in $910M Shanghai IPO]]
 - `2026-09-01` [[2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo|Tencent-Backed AI Chipmaker Enflame Seeks ~$911 Million in IPO]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
 - `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]

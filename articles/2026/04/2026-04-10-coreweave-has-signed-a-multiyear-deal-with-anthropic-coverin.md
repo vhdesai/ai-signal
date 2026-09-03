@@ -5,8 +5,8 @@ title: CoreWeave has signed a multiyear deal with Anthropic covering a variety o
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://coreweave.com/news/coreweave-announces-multi-year-agreement-with-anthropic
+url_status: repaired
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: f9c5556b5f86e40cf4203aabccef493cdbb4eccb59ac4c4aee223aaa3ab03e82

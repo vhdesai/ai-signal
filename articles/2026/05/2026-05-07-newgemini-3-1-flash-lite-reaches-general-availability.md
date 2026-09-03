@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-21-google-ships-three-new-gemini-flash-models-flagship-3-5-pro
+- 2026-09-02-google-ships-gemini-3-8-flash-to-general-availability-plus-a
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
 - 2026-08-13-google-releases-gemini-3-7-flash-to-general-availability
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro
-- 2026-04-01-google-deepmind-unveiled-gemini-3-1-featuring-simultaneous-v
 embedding_id: 2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google officially released gemini-3.1-flash-lite as a generally available produc
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-21-google-ships-three-new-gemini-flash-models-flagship-3-5-pro]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag]] · [[2026-08-13-google-releases-gemini-3-7-flash-to-general-availability]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro]] · [[2026-04-01-google-deepmind-unveiled-gemini-3-1-featuring-simultaneous-v]]
+**Related:** [[2026-07-21-google-ships-three-new-gemini-flash-models-flagship-3-5-pro]] · [[2026-09-02-google-ships-gemini-3-8-flash-to-general-availability-plus-a]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag]] · [[2026-08-13-google-releases-gemini-3-7-flash-to-general-availability]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro]]
 <!-- graph:end -->

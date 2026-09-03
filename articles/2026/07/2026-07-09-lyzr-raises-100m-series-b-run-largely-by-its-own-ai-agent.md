@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/
 url_canonical: https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-10_061848_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 17bba52f1e27bb3090da4b33caf9e1ef526a6e5e13b56b5a2f8396d0499045cf
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-a-2-5b-va
 - 2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-2-5b-valu
 - 2026-08-26-consumer-ai-agent-instinct-raises-350m-at-2-5b-valuation-bef
+- 2026-09-02-trending-hiddenlayer-raises-100m-series-b-as-enterprises-rus
 - 2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation
-- 2026-06-30-agentic-security-startup-straiker-announced-a-64m-series-a-l
 embedding_id: 2026-07-09-lyzr-raises-100m-series-b-run-largely-by-its-own-ai-agent
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Enterprise-agent startup Lyzr closed a $100M Series B at roughly a $500M valuati
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-a-2-5b-va]] · [[2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-2-5b-valu]] · [[2026-08-26-consumer-ai-agent-instinct-raises-350m-at-2-5b-valuation-bef]] · [[2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation]] · [[2026-06-30-agentic-security-startup-straiker-announced-a-64m-series-a-l]]
+**Related:** [[2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-a-2-5b-va]] · [[2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-2-5b-valu]] · [[2026-08-26-consumer-ai-agent-instinct-raises-350m-at-2-5b-valuation-bef]] · [[2026-09-02-trending-hiddenlayer-raises-100m-series-b-as-enterprises-rus]] · [[2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation]]
 <!-- graph:end -->

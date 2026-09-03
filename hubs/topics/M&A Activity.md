@@ -1,13 +1,19 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 420
+member_count: 426
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 420 connected article(s).
+> Auto-generated topic hub. 426 connected article(s).
 
+- `2026-09-03` [[2026-09-03-nvidia-confirms-12-9-billion-acquisition-of-hugging-face|Nvidia confirms $12.9 billion acquisition of Hugging Face]]
+- `2026-09-03` [[2026-09-03-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug|Nvidia agrees to roughly $13 billion deal for AI platform Hugging Face]]
+- `2026-09-03` [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13-billion-taking-aim|Nvidia agrees to buy Hugging Face for $13 billion, taking aim at the open-model layer]]
+- `2026-09-03` [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13-billion|Nvidia agrees to buy Hugging Face for $13 billion]]
+- `2026-09-03` [[2026-09-03-nvidia-agrees-to-acquire-hugging-face-for-nearly-13-billion|Nvidia Agrees to Acquire Hugging Face for Nearly $13 Billion]]
+- `2026-09-02` [[2026-09-02-vertiv-to-acquire-utilityinnovation-group-to-shorten-time-to|Vertiv to acquire UtilityInnovation Group to shorten time-to-power for AI data centers]]
 - `2026-09-01` [[2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu|PitchBook: M&A, Not IPOs, Is Now the Default Exit for AI Startups Outside the Frontier Tier]]
 - `2026-09-01` [[2026-09-01-manus-resumes-independent-operations-after-china-blocks-meta|Manus Resumes Independent Operations After China Blocks Meta's ~$2B Acquisition]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]

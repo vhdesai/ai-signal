@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: MIT Technology Review
 url_original: https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/
 url_canonical: https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-10_062836_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 3c0d2f9ffa1e1229fedec8cc6986b2f47a62187c8ed182ebe2bd6d1f3975c6d5

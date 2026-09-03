@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/articles/meta-builds-first-canadian-data-112206212.html
 url_canonical: https://finance.yahoo.com/technology/articles/meta-builds-first-canadian-data-112206212.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-09_061541_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 359a2e87538f3a3c39e40ac95becfcf24e1411c3320bc13a3d5ec16fb2163213

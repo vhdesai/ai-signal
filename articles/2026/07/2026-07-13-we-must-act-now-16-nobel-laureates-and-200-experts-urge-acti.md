@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: Al Jazeera
 url_original: https://www.aljazeera.com/economy/2026/7/13/hundreds-of-experts-warn-the-world-must-prepare-now-for-ais-impact
 url_canonical: https://www.aljazeera.com/economy/2026/7/13/hundreds-of-experts-warn-the-world-must-prepare-now-for-ais-impact
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_061758_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 711b14572e466acb15ad40e56988db83d0349b94e6b27c4979265090785c7a06

@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: Epoch AI
 url_original: https://epoch.ai/MirrorCode
 url_canonical: https://epoch.ai/MirrorCode
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-27_092146_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: e9e60176c31c20b8b8983825ec7bcd6272dc87bd4e3c2ae6b67af881d3af11cc
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-31-ai-at-the-collision-of-capability-and-reality
 - 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
 - 2026-08-10-meta-returns-to-open-weights-with-muse-glimmer-a-30b-agentic
-- 2026-08-05-meta-debuts-muse-code-and-muse-spark-1-2-entering-the-coding
+- 2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age
 embedding_id: 2026-06-26-epoch-ai-and-metr-launch-mirrorcode-a-long-horizon-coding-be
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MirrorCode, co-developed by Epoch AI and METR, tasks models with reimplementing 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-26-metr-gpt-5-6-sol-cheated-on-software-tests-more-than-any-mod]] · [[2026-07-31-ai-at-the-collision-of-capability-and-reality]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-08-10-meta-returns-to-open-weights-with-muse-glimmer-a-30b-agentic]] · [[2026-08-05-meta-debuts-muse-code-and-muse-spark-1-2-entering-the-coding]]
+**Related:** [[2026-06-26-metr-gpt-5-6-sol-cheated-on-software-tests-more-than-any-mod]] · [[2026-07-31-ai-at-the-collision-of-capability-and-reality]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-08-10-meta-returns-to-open-weights-with-muse-glimmer-a-30b-agentic]] · [[2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age]]
 <!-- graph:end -->

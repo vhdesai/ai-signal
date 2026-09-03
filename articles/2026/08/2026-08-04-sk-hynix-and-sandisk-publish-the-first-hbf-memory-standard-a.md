@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: The Manila Times
 url_original: https://www.manilatimes.net/2026/08/04/tmt-newswire/pr-newswire/sk-hynix-unveils-first-hbf-standard-specifications-with-sandisk-presenting-ai-memory-solutions-at-fms-2026/2397569
 url_canonical: https://www.manilatimes.net/2026/08/04/tmt-newswire/pr-newswire/sk-hynix-unveils-first-hbf-standard-specifications-with-sandisk-presenting-ai-memory-solutions-at-fms-2026/2397569
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_062620_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 16261ef219cd1648edcefe1044f1f347e462f79cf06d86e62f5de762a9a2f3f1

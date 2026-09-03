@@ -6,7 +6,7 @@ date: '2026-08-03'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/
 url_canonical: https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_061719_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 0e07172fecbd32b99ed55a3ea4013937cd0d95056fbba7f0d269719be8ffa171

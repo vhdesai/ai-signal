@@ -5,8 +5,8 @@ title: A landmark open-model launch from Google, Microsoft's push toward AI self
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release
+url_status: repaired
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: 394a2f8a2cf5fbd87f3e45f4b9debb6320597f9a8ecd2d663818c7c15c248acf

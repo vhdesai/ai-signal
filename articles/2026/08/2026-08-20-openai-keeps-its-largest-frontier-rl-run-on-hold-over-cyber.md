@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: Morocco World News
 url_original: https://www.moroccoworldnews.com/2026/08/335522/openai-pauses-frontier-ai-training-over-astras-critical-cyber-capabilities/
 url_canonical: https://www.moroccoworldnews.com/2026/08/335522/openai-pauses-frontier-ai-training-over-astras-critical-cyber-capabilities/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-21_061353_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: b2c89a0a50c51cd11cc07a2aa5c9696793b2c04fec0eee2feb0d6db7ae008310

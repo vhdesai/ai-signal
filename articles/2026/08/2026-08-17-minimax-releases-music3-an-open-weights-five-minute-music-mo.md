@@ -5,7 +5,7 @@ date: '2026-08-17'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/17/minimax-releases-minimax-music3/
 url_canonical: https://www.marktechpost.com/2026/08/17/minimax-releases-minimax-music3/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-18_065100_Final-Daily-AI-News-Digest.md
 content_hash: 04bcd49a8114cea9481dd0aa08dbf6d64e501a372471a7972cab631ce2c8ffa3
 normalized_title_hash: 1fe7d3886a49e237

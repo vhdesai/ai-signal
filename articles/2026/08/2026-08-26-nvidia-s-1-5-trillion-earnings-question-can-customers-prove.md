@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026
 url_canonical: https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-26_111101_Final-Daily-AI-News-Digest.md
 content_hash: 465e94ae350f690053ddd6cd8652487722f4357c4542473b8e9b9a4a9936d539
 normalized_title_hash: 2b7f19905de78224

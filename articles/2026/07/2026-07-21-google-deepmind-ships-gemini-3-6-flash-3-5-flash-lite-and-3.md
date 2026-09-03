@@ -5,8 +5,8 @@ title: Google DeepMind ships Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cybe
 date: '2026-07-21'
 source: VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.resultsense.com/news/2026-07-22-google-gemini-flash-release-pro-delayed/
+url_status: repaired
 digest_source: digests\raw\2026-07-22_061941_Inbox_Daily AI News Digest - July 22,
   2026.md
 content_hash: 15d1a635129b48721400ee39f84b29fe7d706b89d1951f55d094f82f4706c943
@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-21-google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flas
+- 2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8
 - 2026-07-21-google-ships-three-new-gemini-flash-models-flagship-3-5-pro
 - 2026-07-21-google-ships-gemini-flash-models-and-cuts-long-horizon-agent
 - 2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl
-- 2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model
 embedding_id: 2026-07-21-google-deepmind-ships-gemini-3-6-flash-3-5-flash-lite-and-3
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google DeepMind released three token-efficient proprietary models built for chea
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-21-google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flas]] · [[2026-07-21-google-ships-three-new-gemini-flash-models-flagship-3-5-pro]] · [[2026-07-21-google-ships-gemini-flash-models-and-cuts-long-horizon-agent]] · [[2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl]] · [[2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model]]
+**Related:** [[2026-07-21-google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flas]] · [[2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8]] · [[2026-07-21-google-ships-three-new-gemini-flash-models-flagship-3-5-pro]] · [[2026-07-21-google-ships-gemini-flash-models-and-cuts-long-horizon-agent]] · [[2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl]]
 <!-- graph:end -->

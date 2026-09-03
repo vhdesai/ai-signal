@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur
 - 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
 - 2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou
+- 2026-09-02-openai-says-astra-crosses-its-critical-cybersecurity-thresho
 embedding_id: 2026-09-01-palo-alto-networks-frontier-ai-now-tips-the-scales-toward-at
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Researchers at Palo Alto Networks' Unit 42 told CIO Dive that threat actors are 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-01-palo-alto-unit-42-frontier-ai-now-tips-the-balance-toward-cy]] · [[2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]] · [[2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou]]
+**Related:** [[2026-09-01-palo-alto-unit-42-frontier-ai-now-tips-the-balance-toward-cy]] · [[2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]] · [[2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou]] · [[2026-09-02-openai-says-astra-crosses-its-critical-cybersecurity-thresho]]
 <!-- graph:end -->

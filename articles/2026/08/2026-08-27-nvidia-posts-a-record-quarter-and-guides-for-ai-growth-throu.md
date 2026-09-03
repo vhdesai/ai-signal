@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: '[TechSpot]'
 url_original: https://www.techspot.com/news/113642-nvidia-posts-record-quarter-predicts-ai-driven-growth.html
 url_canonical: https://www.techspot.com/news/113642-nvidia-posts-record-quarter-predicts-ai-driven-growth.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_062029_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 3dd4bfd4c7fd8aa560b2a42aaa9da9670791543a59bf3c9499a042ccbf80aadf

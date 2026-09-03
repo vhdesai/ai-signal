@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: heise online
 url_original: https://www.heise.de/en/news/Anthropic-is-giving-its-AI-Claude-its-own-browser-11431857.html
 url_canonical: https://www.heise.de/en/news/Anthropic-is-giving-its-AI-Claude-its-own-browser-11431857.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_062110_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 72dd306ac49c9ab30f66839660b78f9ed82ccd99e2577d00be635dac3fc749a8
@@ -24,8 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web
+- 2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta
 - 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
-- 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 embedding_id: 2026-08-27-anthropic-adds-a-native-browser-to-the-claude-cowork-desktop
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic expanded its Claude Cowork desktop application with a built-in browser
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
+**Related:** [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web]] · [[2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: 'DeepSeek V4 Analysis: "Almost on the Frontier" — Redis Creator Weighs 
 date: '2026-05-15'
 source: Hacker News / Salvatore Antirez
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.simplenews.ai/news/redis-creator-antirez-releases-ds4-deepseek-v4-flash-inference-engine-built-with-gpt-55-1zsy
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 045bb1470d859d0e0e8c0f273883c616b7ca24424d7c8b680bd6dfae56d3b58a

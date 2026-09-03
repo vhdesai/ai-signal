@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral
 - 2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design
 - 2026-05-28-mistral-confirms-it-is-exploring-custom-ai-chip-design-and-r
 - 2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent
 - 2026-05-28-mistral-ceo-says-lab-is-exploring-designing-its-own-ai-chips
-- 2026-05-28-mistral-explores-custom-chips-and-new-french-data-center
 embedding_id: 2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan
 event_name: ''
 ---
@@ -40,5 +40,5 @@ In a parallel WSJ piece, Mistral leadership cautioned European governments and e
 
 **Entities:** [[Mistral]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design]] · [[2026-05-28-mistral-confirms-it-is-exploring-custom-ai-chip-design-and-r]] · [[2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent]] · [[2026-05-28-mistral-ceo-says-lab-is-exploring-designing-its-own-ai-chips]] · [[2026-05-28-mistral-explores-custom-chips-and-new-french-data-center]]
+**Related:** [[2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral]] · [[2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design]] · [[2026-05-28-mistral-confirms-it-is-exploring-custom-ai-chip-design-and-r]] · [[2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent]] · [[2026-05-28-mistral-ceo-says-lab-is-exploring-designing-its-own-ai-chips]]
 <!-- graph:end -->

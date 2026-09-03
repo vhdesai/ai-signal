@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: TIME / Bloomberg
 url_original: https://www.aol.com/articles/inside-google-deepminds-reshuffle-ceo-175325000.html
 url_canonical: https://www.aol.com/articles/inside-google-deepminds-reshuffle-ceo-175325000.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-07_061331_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 721579c7b25b530d68c4de2547ab94ac948e5d2a2e9daf5f35dfb52941073f86

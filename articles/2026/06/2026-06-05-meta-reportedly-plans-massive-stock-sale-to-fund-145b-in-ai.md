@@ -5,8 +5,8 @@ title: Meta Reportedly Plans Massive Stock Sale to Fund $145B in AI Investments;
 date: '2026-06-05'
 source: CNBC; Crypto Briefing
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://cryptobriefing.com/meta-stock-sale-ai-investments/
+url_status: repaired
 digest_source: digests\raw\2026-06-07_070026_Final-Daily-AI-News-Digest.md
 content_hash: 988d84820ad81fe8819fd5302e34a7ffcab077f59e9a0d9e872dcb640a00be59
 normalized_title_hash: 45e4c01a6a0c2331

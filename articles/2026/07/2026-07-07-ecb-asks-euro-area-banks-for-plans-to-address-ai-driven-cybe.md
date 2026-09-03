@@ -4,8 +4,8 @@ title: ECB asks euro-area banks for plans to address AI-driven cyber threats
 date: '2026-07-07'
 source: Bloomberg
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bloomberg.com/news/articles/2026-07-07/ecb-asks-banks-for-plans-to-address-ai-cybersecurity-threats
+url_status: repaired
 digest_source: digests\raw\2026-07-07_062455_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 82742e6ad2b8087d6b09360833669f0b06ffdc1936a01a125e7f5ed9896fbd36

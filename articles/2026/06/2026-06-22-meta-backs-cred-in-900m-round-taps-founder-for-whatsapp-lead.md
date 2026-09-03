@@ -4,8 +4,8 @@ title: Meta Backs CRED in ~$900M Round; Taps Founder for WhatsApp Leadership
 date: '2026-06-22'
 source: TechStartups
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://greyjournal.net/news/meta-cred-investment-kunal-shah-whatsapp-2026/
+url_status: repaired
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: fb2b629f390c36c879789fac620b90a99e87fee7aef982f9aa0b9daa941faed3
 normalized_title_hash: 67fa1a91de6748db

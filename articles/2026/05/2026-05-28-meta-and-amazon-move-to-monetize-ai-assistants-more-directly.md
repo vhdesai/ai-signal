@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=meta-launches-paid-ai-chatbot-subscriptions
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=meta-launches-paid-ai-chatbot-subscriptions
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-29_075823_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 31d166bcd6da5e321ca234c1917180a398498e2def7283e3a0987b0189eca432
@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
+- 2026-09-03-amazon-and-meta-ai-bots-account-for-most-website-visits
 - 2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine
 - 2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage
 - 2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd
-- 2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms
 embedding_id: 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Information’s newsletter highlighted Meta’s paid AI chatbot subscription
 
 **Entities:** [[Amazon]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]] · [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]] · [[2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd]] · [[2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms]]
+**Related:** [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]] · [[2026-09-03-amazon-and-meta-ai-bots-account-for-most-website-visits]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]] · [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]] · [[2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd]]
 <!-- graph:end -->

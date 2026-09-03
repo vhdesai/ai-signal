@@ -22,8 +22,9 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-03-new-tencent-s-hy4-open-weight-preview-lands-8th-on-code-aren
 - 2026-08-31-tencent-unveils-hy4-preview-open-source-model-for-coding-and
-- 2026-08-28-tencent-releases-hy4-preview-claims-wins-over-z-ai-and-moons
+- 2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on
 embedding_id: 2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Tencent released a preview of Hy4, an open-source model with 770B total paramete
 
 **Entities:** [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-31-tencent-unveils-hy4-preview-open-source-model-for-coding-and]] · [[2026-08-28-tencent-releases-hy4-preview-claims-wins-over-z-ai-and-moons]]
+**Related:** [[2026-09-03-new-tencent-s-hy4-open-weight-preview-lands-8th-on-code-aren]] · [[2026-08-31-tencent-unveils-hy4-preview-open-source-model-for-coding-and]] · [[2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on]]
 <!-- graph:end -->

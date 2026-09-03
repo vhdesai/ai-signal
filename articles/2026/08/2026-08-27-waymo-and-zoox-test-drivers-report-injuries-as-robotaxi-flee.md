@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/
 url_canonical: https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_062029_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 0d6e49cd3e26debee81559df2773586fb034769cdd166d04146dcf12a28c40a6

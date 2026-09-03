@@ -4,8 +4,8 @@ title: Despite the record raise, OpenAI's secondary market position is showing c
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techbuzz.ai/articles/openai-ups-secondary-sale-to-10-3b-at-500b-valuation
+url_status: repaired
 digest_source: digests\raw\2026-04-02_080231_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 7d2984916225a8179bdd924ffbe7f92e9182443bde2c052171880d290e89b476

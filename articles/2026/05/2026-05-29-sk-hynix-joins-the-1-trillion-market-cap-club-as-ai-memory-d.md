@@ -4,8 +4,8 @@ title: SK Hynix joins the $1 trillion market-cap club as AI memory demand accele
 date: '2026-05-29'
 source: Market coverage
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/markets/stocks/article/sk-hynix-joins-micron-in-1-trillion-club-as-ai-memory-chip-rally-accelerates-024514610.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 768f9a1227f6da43dbb202e2067b124c67bf73c41bc96098a84073cda7fc0074

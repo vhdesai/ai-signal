@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 96
+member_count: 97
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 96 connected article(s).
+> Auto-generated entity hub. 97 connected article(s).
 
+- `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-02` [[2026-09-02-baidu-cfo-says-ai-could-soon-match-search-business-in-profit|Baidu CFO says AI could soon match search business in profit and cash returns]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
 - `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]

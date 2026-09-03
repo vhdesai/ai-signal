@@ -5,8 +5,8 @@ title: 'Enterprise AI-restructuring signals broaden: Standard Chartered cuts, Me
 date: '2026-05-24'
 source: Best Practice AI weekly brief
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.aieatingtheworld.com/articles/meta-layoffs-2026-8000-jobs-cut-ai-restructuring
+url_status: repaired
 digest_source: digests\raw\2026-05-25_071611_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 052bcd2a43053e23d094b804946d1cc8bd4b83d25f00998fa6dc493d281085e0

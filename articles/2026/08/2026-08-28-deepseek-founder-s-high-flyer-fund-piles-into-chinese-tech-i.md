@@ -5,7 +5,7 @@ date: '2026-08-28'
 source: CNBC · DeepSeek / High-Flyer
 url_original: https://www.cnbc.com/2026/08/28/deepseek-founder-liang-wenfeng-high-flyer-china-tech-ipos-funding.html
 url_canonical: https://www.cnbc.com/2026/08/28/deepseek-founder-liang-wenfeng-high-flyer-china-tech-ipos-funding.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: a29c58410cbfdf4206054fd3f495ccc5f1b02a4acecafb6874b5d3028f301e63

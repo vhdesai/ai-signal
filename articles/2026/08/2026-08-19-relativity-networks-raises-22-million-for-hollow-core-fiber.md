@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with
 - 2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai
 - 2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics
-- 2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory
+- 2026-09-02-ipronics-raises-125-million-for-programmable-optical-network
 embedding_id: 2026-08-19-relativity-networks-raises-22-million-for-hollow-core-fiber
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Relativity Networks closed a $22 million round to commercialize hollow-core fibe
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-19-relativity-networks-raises-22m-for-hollow-core-fiber-in-ai-d]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]] · [[2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai]] · [[2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics]] · [[2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory]]
+**Related:** [[2026-08-19-relativity-networks-raises-22m-for-hollow-core-fiber-in-ai-d]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]] · [[2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai]] · [[2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics]] · [[2026-09-02-ipronics-raises-125-million-for-programmable-optical-network]]
 <!-- graph:end -->

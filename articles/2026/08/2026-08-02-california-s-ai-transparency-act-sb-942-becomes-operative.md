@@ -5,7 +5,7 @@ date: '2026-08-02'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/322713/20260802/california-ai-transparency-act-operative-midjourney-has-no-watermark-fines-start-today.htm
 url_canonical: https://www.techtimes.com/articles/322713/20260802/california-ai-transparency-act-operative-midjourney-has-no-watermark-fines-start-today.htm
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_061916_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 2ae6a3c16d1a38c02d9788ace2d1ed3f53f0c6b4d5f4a5fcf59f5af64e441f9e

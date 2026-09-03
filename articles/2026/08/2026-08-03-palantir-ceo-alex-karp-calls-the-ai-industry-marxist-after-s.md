@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/
 url_canonical: https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_061719_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 860e49f931f19e2dbc283c099a3343ff7460206d129fb7aa6253943d423fbae2

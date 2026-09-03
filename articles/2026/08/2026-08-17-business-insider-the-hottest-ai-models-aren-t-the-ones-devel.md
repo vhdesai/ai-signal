@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-10-hugging-face-ceo-enterprises-are-done-renting-their-ai
 - 2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling
+- 2026-09-02-meta-releases-more-powerful-ai-model-edging-closer-to-rivals
 - 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
 - 2026-08-28-open-weight-ai-companies-become-major-acquisition-targets
-- 2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti
 embedding_id: 2026-08-17-business-insider-the-hottest-ai-models-aren-t-the-ones-devel
 event_name: ''
 ---
@@ -42,5 +42,5 @@ data from Hugging Face shows that developers gravitate toward different models t
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-10-hugging-face-ceo-enterprises-are-done-renting-their-ai]] · [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-08-28-open-weight-ai-companies-become-major-acquisition-targets]] · [[2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti]]
+**Related:** [[2026-07-10-hugging-face-ceo-enterprises-are-done-renting-their-ai]] · [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]] · [[2026-09-02-meta-releases-more-powerful-ai-model-edging-closer-to-rivals]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-08-28-open-weight-ai-companies-become-major-acquisition-targets]]
 <!-- graph:end -->

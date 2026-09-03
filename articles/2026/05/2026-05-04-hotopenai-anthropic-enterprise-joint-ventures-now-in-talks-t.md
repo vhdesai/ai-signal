@@ -5,8 +5,8 @@ title: HotOpenAI & Anthropic Enterprise Joint Ventures Now in Talks to Acquire A
 date: '2026-05-04'
 source: Reuters / TechCrunch / Bloomberg
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-anthropic-ventures-in-talks-to-buy-ai-services-firms-sources/articleshow/130832682.cms
+url_status: repaired
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: 4ee1b5056b6cf2c6d2081347c3c8804f73c79c41ef5c41f7f2397e7c568187f0
 normalized_title_hash: 37f065cde432dc40

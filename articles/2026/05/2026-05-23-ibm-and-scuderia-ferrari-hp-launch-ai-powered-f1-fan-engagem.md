@@ -5,7 +5,7 @@ date: '2026-05-23'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/
 url_canonical: https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-24_071254_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 2680d301036e7ad53d41d00908e2a2807158243c00c929e7ded14538b2260a54

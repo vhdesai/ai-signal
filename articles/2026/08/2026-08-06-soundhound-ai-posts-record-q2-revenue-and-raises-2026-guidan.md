@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: The Motley Fool
 url_original: https://www.fool.com/coverage/stock-market-today/2026/08/06/stock-market-today-aug-6-soundhound-ai-surges-10-on-record-q2-revenue-and-raised-2026-guidance/
 url_canonical: https://www.fool.com/coverage/stock-market-today/2026/08/06/stock-market-today-aug-6-soundhound-ai-surges-10-on-record-q2-revenue-and-raised-2026-guidance/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-07_061807_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 8ec01b1c09e39360bd919d5617324ebe115a306f0ab26595661fcb6902e61391

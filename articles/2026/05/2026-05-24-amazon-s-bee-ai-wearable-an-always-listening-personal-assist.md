@@ -4,8 +4,8 @@ title: 'Amazon''s Bee AI Wearable: An Always-Listening Personal Assistant'
 date: '2026-05-24'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2025/07/22/amazon-acquires-bee-the-ai-wearable-that-records-everything-you-say/
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070548_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: ba7743d0e27b19fe5472f51383d017a32a38e4bc31814ec52416125755a36c8b

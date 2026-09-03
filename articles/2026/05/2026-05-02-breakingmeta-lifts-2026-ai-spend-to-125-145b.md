@@ -4,8 +4,8 @@ title: BREAKINGMeta Lifts 2026 AI Spend to $125–145B
 date: '2026-05-02'
 source: Mark McNeilly Substack
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aisheetreport.com/articles/meta-capex-2026-guidance-layoffs/
+url_status: repaired
 digest_source: digests\raw\2026-05-04_080719_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: a0b216fbd0e8bcc9d281f297f846605c498311f360d0191c3d006bb128e1e828
 normalized_title_hash: 6e62090a178eb03e

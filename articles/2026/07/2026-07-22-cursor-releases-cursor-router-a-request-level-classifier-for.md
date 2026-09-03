@@ -6,7 +6,7 @@ date: '2026-07-22'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/
 url_canonical: https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-24_065750_Final-Daily-AI-News-Digest.md
 content_hash: 570c41740844a4ead5ef8c30eb1307aec118140b161d3aed16dec2d316d35318
 normalized_title_hash: e3f77abf1bfb659f

@@ -5,8 +5,8 @@ title: '"The Future of Truth" Author Accepts Responsibility After AI-Fabricated 
 date: '2026-05-24'
 source: AIChief
 url_original: https://aichief.com/news/
-url_canonical: https://aichief.com/news/
-url_status: found
+url_canonical: https://www.aicopyrightlegal.com/blog/ai-fabricated-quotes-future-of-truth-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-24_071254_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 3629826640609e50fae5736024ed85c019a6043b4290f0cd59e580f91c7ba003

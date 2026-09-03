@@ -5,7 +5,7 @@ date: '2026-07-15'
 source: CNBC**
 url_original: https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html
 url_canonical: https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-16_065004_Final-Daily-AI-News-Digest.md
 content_hash: 3989e7444e5b0dc9f1ce13a969f10b31cd764d614bba1419f5597abb316a7f69
 normalized_title_hash: c36b4ba40cb4f535

@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Adobe
-member_count: 21
+member_count: 22
 ---
 
 # Adobe
 
-> Auto-generated entity hub. 21 connected article(s).
+> Auto-generated entity hub. 22 connected article(s).
 
+- `2026-09-02` [[2026-09-02-adobe-is-making-its-tools-available-in-slack|Adobe is making its tools available in Slack]]
 - `2026-09-01` [[2026-09-01-google-launches-pics-an-ai-first-design-tool-aimed-at-canva|Google launches Pics, an AI-first design tool aimed at Canva and Adobe Express]]
 - `2026-09-01` [[2026-09-01-google-launches-google-pics-a-workspace-native-ai-image-crea|Google launches Google Pics, a Workspace-native AI image creator built on Nano Banana]]
 - `2026-09-01` [[2026-09-01-google-pics-targets-canva-and-adobe-with-a-prompt-first-desi|Google Pics targets Canva and Adobe with a prompt-first design tool]]

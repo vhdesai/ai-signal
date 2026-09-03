@@ -5,8 +5,8 @@ title: Meta began notifying approximately 8,000 employees of layoffs beginning M
 date: '2026-05-22'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techjournal.org/meta-layoffs-begin-8000-jobs-ai-spending
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070841_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: d168ef83681de2c12786fa39ffb3abf47fc379001a715a5b2e0d0e7d0dae665c

@@ -4,8 +4,8 @@ title: OpenAI Codex enterprise partnership with Dell; ChatGPT product updates ac
 date: '2026-05-18'
 source: Forbes · Read article
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bitsminds.com/news/openai-dell-codex-on-prem-enterprise-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: dea9053d826b263359358d629062d9d21fea202cacf5dc9406e093bb3c08a54c

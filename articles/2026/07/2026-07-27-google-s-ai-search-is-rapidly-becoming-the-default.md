@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/
 url_canonical: https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-29_060511_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: ac031a73f61f9e503bc9781078d27000710bd0cb16fa03a7cdb99f695e23f2ff

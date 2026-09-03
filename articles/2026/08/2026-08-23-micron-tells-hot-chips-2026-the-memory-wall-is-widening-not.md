@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: '[Mango Developer]'
 url_original: https://mangodeveloper.com/articles/micron-at-hot-chips-2026-the-memory-wall-is-winning-and-hbm-cant-keep-up
 url_canonical: https://mangodeveloper.com/articles/micron-at-hot-chips-2026-the-memory-wall-is-winning-and-hbm-cant-keep-up
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-25_061146_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: a8e56d7e4f40023c487faa99a0345eb6330dfe01c5a28436bff382370734f724

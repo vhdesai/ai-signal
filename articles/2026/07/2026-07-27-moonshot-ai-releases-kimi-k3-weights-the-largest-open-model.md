@@ -6,7 +6,7 @@ date: '2026-07-27'
 source: VentureBeat**
 url_original: https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems
 url_canonical: https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-28_065054_Final-Daily-AI-News-Digest.md
 content_hash: 1d12de6a999e71105652d43858478bcf76a0ae7dbc907fce2d592775d348486f
 normalized_title_hash: c5e5fb569ecd0d10

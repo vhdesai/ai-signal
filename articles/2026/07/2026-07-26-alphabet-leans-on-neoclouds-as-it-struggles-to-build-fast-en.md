@@ -5,7 +5,7 @@ date: '2026-07-26'
 source: Memeburn
 url_original: https://memeburn.com/google-cant-build-fast-enough-neocloud-stocks-surge/
 url_canonical: https://memeburn.com/google-cant-build-fast-enough-neocloud-stocks-surge/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-27_065741_Final-Daily-AI-News-Digest.md
 content_hash: e6b393c8c66369748b8957a6f71c278a7e64f9a8c081ac6b0d5d349f41bac25d
 normalized_title_hash: e11807df7ff88c9c

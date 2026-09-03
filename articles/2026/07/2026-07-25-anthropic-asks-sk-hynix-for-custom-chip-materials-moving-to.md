@@ -5,8 +5,8 @@ title: Anthropic Asks SK Hynix for Custom Chip Materials — Moving to Build Its
 date: '2026-07-25'
 source: Startup Fortune
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://fortune.com/2026/07/25/sk-chair-chey-tae-won-anthropic-chip-supplies-skhynix/
+url_status: repaired
 digest_source: digests\raw\2026-07-26_065237_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 62622f8f19d247358bc03965999fb0dc7c5aad85f2b90ed0669a6c248a37655c

@@ -5,8 +5,8 @@ title: MIT CSAIL's “SceneSmith” uses collaborating AI agents to mass-produce
 date: '2026-07-13'
 source: MIT News
 url_original: https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713
-url_canonical: https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713
-url_status: found
+url_canonical: https://www.csail.mit.edu/news/ai-agents-create-virtual-playgrounds-help-robots-get-crucial-training-data
+url_status: repaired
 digest_source: digests\raw\2026-07-14_061116_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: b22f0daf85ee95a7e110742849003b27ca11ea80e8d58b1c2073b8a7a1b75a9e

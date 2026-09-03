@@ -1,16 +1,34 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1214
+member_count: 1232
 ---
 
 # Google
 
-> Auto-generated entity hub. 1214 connected article(s).
+> Auto-generated entity hub. 1232 connected article(s).
 
+- `2026-09-03` [[2026-09-03-judge-rejects-doj-push-to-force-google-to-divest-adx|Judge Rejects DOJ Push to Force Google to Divest AdX]]
+- `2026-09-03` [[2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai|Broadcom projects AI chip revenue to double in 2027 and again in 2028]]
+- `2026-09-03` [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a|Anthropic breaks with Google and OpenAI over Massachusetts AI safety bill]]
+- `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
+- `2026-09-02` [[2026-09-02-u-s-pushes-light-touch-ai-regulation-at-g20-as-europe-advanc|U.S. pushes light-touch AI regulation at G20 as Europe advances new AI law]]
+- `2026-09-02` [[2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age|Meta releases Muse Spark 1.3 for coding and long-horizon agentic workflows]]
 - `2026-09-02` [[2026-09-02-meta-ditches-google-chat-for-slack-citing-ai-agent-workflows|Meta ditches Google Chat for Slack, citing AI agent workflows]]
 - `2026-09-02` [[2026-09-02-meta-and-google-s-ai-returns-slide-piper-sandler-says-amazon|Meta and Google’s AI returns slide, Piper Sandler says Amazon’s capital discipline sets it apart]]
+- `2026-09-02` [[2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8|Hot Google DeepMind launches Gemini 3.8 Flash and Gemini 3.8 Flash Cyber]]
+- `2026-09-02` [[2026-09-02-google-s-fairwind-program-gates-advanced-cyber-ai-to-trusted|Google's Fairwind Program gates advanced cyber AI to trusted defenders]]
+- `2026-09-02` [[2026-09-02-google-starts-september-with-ai-momentum-after-a-long-stock|Google starts September with AI momentum after a long stock losing streak]]
+- `2026-09-02` [[2026-09-02-google-ships-gemini-3-8-flash-to-general-availability-plus-a|Google ships Gemini 3.8 Flash to general availability, plus a Flash Cyber variant]]
+- `2026-09-02` [[2026-09-02-google-releases-gemini-3-8-flash-and-a-restricted-cybersecur|Google releases Gemini 3.8 Flash and a restricted cybersecurity variant]]
+- `2026-09-02` [[2026-09-02-google-launches-gemini-3-8-flash-and-a-cyber-defense-variant|Google launches Gemini 3.8 Flash and a cyber-defense variant for trusted defenders]]
 - `2026-09-02` [[2026-09-02-google-reportedly-readying-a-new-gemini-model-codenamed-skim|Google Reportedly Readying a New Gemini Model Codenamed “Skimaki”]]
+- `2026-09-02` [[2026-09-02-google-launches-gemini-3-8-flash-its-third-flash-release-in|Google Launches Gemini 3.8 Flash, Its Third Flash Release in Six Weeks]]
+- `2026-09-02` [[2026-09-02-google-launches-gemini-3-8-flash-and-a-restricted-gemini-3-8|Google Launches Gemini 3.8 Flash and a Restricted Gemini 3.8 Flash Cyber Variant]]
+- `2026-09-02` [[2026-09-02-google-deepmind-launches-the-fairwind-program-for-proactive|Google DeepMind launches the Fairwind Program for proactive cyber defense]]
+- `2026-09-02` [[2026-09-02-google-adds-gemini-powered-object-memory-to-android-find-hub|Google Adds Gemini-Powered Object Memory to Android Find Hub]]
+- `2026-09-02` [[2026-09-02-broadcom-posts-record-quarter-on-custom-ai-accelerators-guid|Broadcom Posts Record Quarter on Custom AI Accelerators, Guides Softer]]
+- `2026-09-02` [[2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta|Anthropic launches Claude commerce-agent blueprints for retailers]]
 - `2026-09-01` [[2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore|TimesFM-3: A zero-shot foundation model for multivariate forecasting]]
 - `2026-09-01` [[2026-09-01-pentagon-deploys-chatgpt-mil-and-grok-for-government-to-gena|Pentagon Deploys ChatGPT Mil and Grok for Government to GenAI.mil; Anthropic Excluded]]
 - `2026-09-01` [[2026-09-01-mapping-global-methane-emissions-from-space-with-deep-learni|Mapping global methane emissions from space with deep learning]]

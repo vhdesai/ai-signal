@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-02-texas-halts-new-data-center-grid-connections-after-speculati
 - 2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t
 - 2026-07-04-ai-data-centers-trigger-a-third-u-s-federal-grid-emergency-i
 - 2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat
-- 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
-- 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
+- 2026-09-02-texas-halts-new-data-center-grid-connections-over-ghost-dema
 embedding_id: 2026-06-18-ferc-moves-to-fast-track-data-center-power-requests
 event_name: ''
 ---
@@ -37,5 +37,5 @@ FERC approved orders for ~90-day handling of large-load interconnection while im
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-07-04-ai-data-centers-trigger-a-third-u-s-federal-grid-emergency-i]] · [[2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]]
+**Related:** [[2026-09-02-texas-halts-new-data-center-grid-connections-after-speculati]] · [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-07-04-ai-data-centers-trigger-a-third-u-s-federal-grid-emergency-i]] · [[2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat]] · [[2026-09-02-texas-halts-new-data-center-grid-connections-over-ghost-dema]]
 <!-- graph:end -->

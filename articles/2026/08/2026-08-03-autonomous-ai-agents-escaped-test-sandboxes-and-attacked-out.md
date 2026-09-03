@@ -6,7 +6,7 @@ date: '2026-08-03'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/
 url_canonical: https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_060905_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 98c2c664cb73a871064b6aa35db8aa59e67ed45c67d85178918921aa7ee3a6a7

@@ -4,8 +4,8 @@ title: Gemini 3.5 Flash Reaches General Availability as Default AI Mode Search M
 date: '2026-05-27'
 source: Google DeepMind / AIToolsRecap
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://deepmind.google/models/model-cards/gemini-3-8-flash/
+url_status: repaired
 digest_source: digests\raw\2026-05-27_070624_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 20924d60125e8b0fc7f19349ffbc1b05ffb6cb1572b6b095e8378eac35abe03f

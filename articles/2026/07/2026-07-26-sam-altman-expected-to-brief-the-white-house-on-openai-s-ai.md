@@ -24,10 +24,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-03-hot-altman-raises-the-stakes-on-government-scrutiny-of-front
 - 2026-07-26-openai-presses-the-white-house-to-fast-track-frontier-model
 - 2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo
 - 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
-- 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 embedding_id: 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Axios reports that OpenAI CEO Sam Altman is expected to tell the White House thi
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-26-openai-presses-the-white-house-to-fast-track-frontier-model]] · [[2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]]
+**Related:** [[2026-09-03-hot-altman-raises-the-stakes-on-government-scrutiny-of-front]] · [[2026-07-26-openai-presses-the-white-house-to-fast-track-frontier-model]] · [[2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]]
 <!-- graph:end -->

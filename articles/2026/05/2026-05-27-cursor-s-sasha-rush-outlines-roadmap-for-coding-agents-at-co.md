@@ -4,8 +4,8 @@ title: Cursor's Sasha Rush Outlines Roadmap for Coding Agents at Cornell Summit
 date: '2026-05-27'
 source: 'Source: Cornell Tech'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.the-information-bottleneck.com/p/the-future-of-coding-agents-with-ae3
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071446_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: da1584db9e4567796be5a7af9aa5181c5abccc88493dbece89c2d6fdc5772182

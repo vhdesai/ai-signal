@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: Yahoo Finance / Proactive
 url_original: https://finance.yahoo.com/technology/ai/articles/traders-bet-anthropic-ship-next-100000419.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/traders-bet-anthropic-ship-next-100000419.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 9464b4bf0f5fe783ab1206a815498ef09ae159fdefed4a6af90bd2619054367e
@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-02-trending-anthropic-s-triple-release-read-as-a-2-trillion-ipo
 - 2026-05-16-analysis-circulating-widely-on-may-15-109-hacker-news-points
 - 2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho
-- 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75
-- 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve
+- 2026-09-02-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-geograp
 embedding_id: 2026-08-25-traders-bet-anthropic-ships-its-next-frontier-mythos-model-w
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Polymarket traders sharply raised the odds — to roughly 81% by September 15 �
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-16-analysis-circulating-widely-on-may-15-109-hacker-news-points]] · [[2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho]] · [[2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]]
+**Related:** [[2026-09-02-trending-anthropic-s-triple-release-read-as-a-2-trillion-ipo]] · [[2026-05-16-analysis-circulating-widely-on-may-15-109-hacker-news-points]] · [[2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho]] · [[2026-09-02-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-geograp]]
 <!-- graph:end -->

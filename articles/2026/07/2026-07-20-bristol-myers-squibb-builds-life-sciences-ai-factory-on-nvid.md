@@ -4,8 +4,8 @@ title: Bristol Myers Squibb builds life-sciences AI factory on NVIDIA Vera Rubin
 date: '2026-07-20'
 source: NVIDIA Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/
+url_status: repaired
 digest_source: digests\raw\2026-07-20-daily-ai-news-digest.md
 content_hash: 7b7855b8b8a369078256faaf8b2fc4029fc24baaf2766a752f9dbb935a0df8fb
 normalized_title_hash: 21514b2281dc436a
