@@ -19,7 +19,6 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-meta-to-move-in-house-iris-ai-chip-into-production-in-septem
@@ -36,6 +35,6 @@ An internal memo reviewed by Reuters shows Meta plans to begin manufacturing its
 ## Connections
 
 **Entities:** [[Meta]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-07-09-meta-to-move-in-house-iris-ai-chip-into-production-in-septem]]
 <!-- graph:end -->

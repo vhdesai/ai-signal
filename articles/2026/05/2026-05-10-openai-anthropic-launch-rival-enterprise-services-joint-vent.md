@@ -18,6 +18,7 @@ entities:
 - Palantir
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Both AI giants announced separately backed enterprise deployment ventures within
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Palantir]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]] · [[2026-05-18-openai-established-the-openai-deployment-company-a-majority]]
 <!-- graph:end -->

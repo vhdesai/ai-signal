@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Deel’s acquisition of Clarity shows deepfake defense moving from a niche secur
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-03-deel-acquires-deepfake-defense-startup-clarity-as-ai-fraud-r]] · [[2026-08-04-microsoft-teams-adds-a-report-button-to-flag-ai-deepfake-mee]] · [[2026-06-21-deepfake-expert-says-ai-is-making-authenticity-harder-for-or]] · [[2026-08-04-microsoft-teams-adds-an-in-meeting-report-button-to-counter]] · [[2026-08-04-microsoft-rolls-out-in-meeting-reporting-in-teams-to-counter]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities: []
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Cisco reported $4 billion in AI product orders in fiscal Q4, after $5.3 billion 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-14-cisco-shares-jump-18-as-cloud-providers-increase-ai-product]] · [[2026-05-14-cisco-cuts-4-000-jobs-while-posting-record-quarterly-revenue]] · [[2026-05-15-cisco-announced-it-is-cutting-nearly-4-000-positions-while-s]] · [[2026-05-14-cisco-beats-on-q3-posts-surging-ai-orders-plans-4-000-layoff]]
 <!-- graph:end -->

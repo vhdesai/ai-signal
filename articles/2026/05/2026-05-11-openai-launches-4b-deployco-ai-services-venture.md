@@ -18,6 +18,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ OpenAI revealed the OpenAI Deployment Company ("DeployCo"), a $4B+ AI services b
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult]] · [[2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an]] · [[2026-05-18-openai-established-the-openai-deployment-company-a-majority]] · [[2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money]] · [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]]
 <!-- graph:end -->

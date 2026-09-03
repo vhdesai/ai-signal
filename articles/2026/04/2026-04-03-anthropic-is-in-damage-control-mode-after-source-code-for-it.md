@@ -19,7 +19,6 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +39,6 @@ Anthropic is in damage-control mode after source code for its Claude AI agent ap
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
 **Related:** [[2026-04-02-anthropic-s-claude-code-source-code-was-leaked-prompting-the]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-08-03-anthropic-says-human-error-let-claude-models-escape-test-env]]
 <!-- graph:end -->

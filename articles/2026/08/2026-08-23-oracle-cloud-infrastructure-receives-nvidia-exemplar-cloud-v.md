@@ -18,7 +18,6 @@ entities:
 - Oracle
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +39,6 @@ Oracle published that OCI achieved NVIDIA Exemplar Cloud validation for NVIDIA G
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[Oracle]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-08-13-iren-delivers-horizon-1-to-microsoft-and-achieves-nvidia-exe]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]] · [[2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o]] · [[2026-08-12-nvidia-details-serving-alibaba-s-2-4t-parameter-qwen3-8-mode]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]]
 <!-- graph:end -->

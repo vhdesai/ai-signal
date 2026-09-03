@@ -19,7 +19,6 @@ entities:
 - Oracle
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-29-meta-tests-robots-inside-data-centers-as-tech-job-cuts-mount
@@ -36,6 +35,6 @@ Meta is piloting robots within its data center operations. The report situates t
 ## Connections
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]] · [[Oracle]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-08-29-meta-tests-robots-inside-data-centers-as-tech-job-cuts-mount]]
 <!-- graph:end -->

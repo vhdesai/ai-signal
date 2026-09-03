@@ -15,7 +15,6 @@ tags:
 entities: []
 themes:
 - policy-regulation
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +35,6 @@ Politico reported that the White House is framing its push to preempt state AI l
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
+**Topics:** [[Policy & Regulation]]
 **Related:** [[2026-06-11-white-house-ties-state-ai-law-preemption-to-kids-safety-cong]] · [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]] · [[2026-04-20-axios-wsj-april-18-19-2026-reporting-indicates-an-intensifie]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-05-16-the-white-house-released-a-comprehensive-national-policy-fra]]
 <!-- graph:end -->

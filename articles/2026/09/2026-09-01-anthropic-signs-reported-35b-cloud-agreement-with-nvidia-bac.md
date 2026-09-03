@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-01-anthropic-signs-35b-cloud-deal-with-nvidia-backed-lambda-for
@@ -34,6 +35,6 @@ Anthropic has signed an agreement valued at roughly $35 billion with neocloud pr
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-09-01-anthropic-signs-35b-cloud-deal-with-nvidia-backed-lambda-for]]
 <!-- graph:end -->

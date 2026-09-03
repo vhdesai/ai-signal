@@ -16,7 +16,6 @@ tags:
 entities: []
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +34,6 @@ polling data paints a bleak picture: Pew finds 52% of Americans are "more concer
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-08-19-ai-was-supposed-to-win-people-over-by-now-it-hasn-t]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-08-16-techcrunch-analysis-why-people-aren-t-buying-zuckerberg-s-ai]]
 <!-- graph:end -->

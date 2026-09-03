@@ -19,6 +19,7 @@ themes:
 - datacenter-infrastructure
 - company-storylines
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ AI voice infrastructure startup Vapi announced a valuation of $500 million follo
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-12-vapi-hits-500m-valuation-after-winning-amazon-ring-contract]] · [[2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]] · [[2026-09-02-kkr-backs-10b-ai-infrastructure-venture-helix-digital-infras]]
 <!-- graph:end -->

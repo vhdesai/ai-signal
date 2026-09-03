@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Microsoft and OpenAI restructured their partnership, ending Azure cloud exclusiv
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-27-microsoft-openai-restructure-exclusive-cloud-deal]] · [[2026-04-27-microsoft-and-openai-end-exclusive-cloud-deal-azure-remains]] · [[2026-04-27-microsoft-openai-end-exclusivity-partnership-fundamentally-r]] · [[2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc]] · [[2026-04-27-]]
 <!-- graph:end -->

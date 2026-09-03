@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ The Information's weekend edition features the postmortem of the Hugging Face ha
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[M&A Activity]]
 **Related:** [[2026-08-29-the-information-publishes-a-postmortem-on-the-hugging-face-h]] · [[2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age]] · [[2026-08-26-openai-publishes-official-hugging-face-breach-postmortem]]
 <!-- graph:end -->

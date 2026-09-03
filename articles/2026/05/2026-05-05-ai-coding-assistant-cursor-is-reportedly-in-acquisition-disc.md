@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ AI coding assistant Cursor is reportedly in acquisition discussions with SpaceX 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso]] · [[2026-08-17-cursor-acquisition-marks-second-largest-of-vc-backed-company]] · [[2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con]]
 <!-- graph:end -->

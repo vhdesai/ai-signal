@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -41,6 +42,6 @@ Nvidia's triple play, China's largest open model, and the agentic-security land 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-28-nvidia-s-triple-play-china-s-largest-open-model-and-the-agen]] · [[2026-07-26-daily-ai-news-digest-july-27-2026]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
 <!-- graph:end -->

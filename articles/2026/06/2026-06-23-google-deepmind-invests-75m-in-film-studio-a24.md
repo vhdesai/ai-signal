@@ -17,7 +17,6 @@ entities:
 - Google
 themes:
 - company-storylines
-- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +37,6 @@ Google DeepMind made a "first-of-its-kind" ~$75M investment in indie film studio
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Corporate Moves]] · [[M&A Activity]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-06-22-google-deepmind-invests-75m-in-a24-for-ai-filmmaking-tools]] · [[2026-06-22-google-invests-75m-in-a24-for-ai-powered-filmmaking-tools]] · [[2026-06-27-a24-s-75m-google-deepmind-ai-research-partnership-sparks-cre]] · [[2026-06-22-google-deepmind-and-a24-announce-research-partnership]]
 <!-- graph:end -->

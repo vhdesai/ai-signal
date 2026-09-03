@@ -18,6 +18,7 @@ entities:
 themes:
 - company-storylines
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ ChipAgents closed a $60M Series A extension led by B Capital, bringing total fun
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin]] · [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]] · [[2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]]
 <!-- graph:end -->

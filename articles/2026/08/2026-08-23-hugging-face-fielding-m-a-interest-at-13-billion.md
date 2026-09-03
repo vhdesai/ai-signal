@@ -16,6 +16,7 @@ entities: []
 themes:
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Exploring a sale at ~3x its last $4.5B valuation. A change of control at the def
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-23-hugging-face-is-reportedly-fielding-m-a-interest-at-a-valuat]] · [[2026-08-23-hugging-face-explores-a-sale-at-13b-nearly-triple-its-2023-v]] · [[2026-08-24-hugging-face-draws-m-a-interest]]
 <!-- graph:end -->

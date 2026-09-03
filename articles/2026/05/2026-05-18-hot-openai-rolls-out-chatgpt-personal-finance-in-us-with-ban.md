@@ -17,6 +17,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ OpenAI is rolling out a Personal Finance feature in ChatGPT to US Pro subscriber
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-18-openai-launched-a-personal-finance-preview-for-chatgpt-pro-u]] · [[2026-05-23-openai-connected-chatgpt-to-financial-accounts-through-plaid]]
 <!-- graph:end -->

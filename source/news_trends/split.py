@@ -48,33 +48,69 @@ _THEME_KEYWORDS = {
 # Investments") are the "money & deals" sub-taxonomy under the M&A &
 # Investments hub. They are ADDITIVE to the primary themes above (an article
 # can be both "company-storylines" and "ma-activity") so existing browses stay
-# intact per user direction. Word boundaries are used to reduce false
-# positives from words like "acquire customers" — for the deals taxonomy we
-# want the *transaction* sense, not the generic verb.
+# intact per user direction.
+#
+# Classifier strategy: use broad topical patterns, then filter out matches
+# whose local context (\u00b140 chars) is a known false-positive phrase such as
+# "AI takeover" (safety), "customer acquisition" (marketing), "wafer defects"
+# (research). For infrastructure specifically, weak topic markers (chip
+# codenames, "datacenters") additionally require an investment/spend signal
+# somewhere in the article, since they very often appear in technology
+# coverage without any capex angle.
 
-# M&A Activity: full acquisitions, mergers, take-privates, asset purchases.
-_MA_ACTIVITY_PATTERNS = (
-    re.compile(r"\bacquir(?:e|es|ed|ing|ition|itions)\b", re.IGNORECASE),
+# ---------------- M&A Activity ----------------
+_MA_PATTERNS = (
+    # Verb forms
+    re.compile(r"\bacquir(?:e|es|ed|ing)\b", re.IGNORECASE),
+    # Noun forms
+    re.compile(r"\bacquisit(?:ion|ions)\b", re.IGNORECASE),
+    # Mergers
     re.compile(r"\bmerger(?:s)?\b", re.IGNORECASE),
     re.compile(r"\bmerge[sd]?\s+with\b", re.IGNORECASE),
     re.compile(r"\bmerging\s+with\b", re.IGNORECASE),
-    re.compile(r"\bbuyout\b", re.IGNORECASE),
+    # Buyouts / take-privates
+    re.compile(r"\bbuyout(?:s)?\b", re.IGNORECASE),
     re.compile(r"\btake(?:s|n)?\s+private\b", re.IGNORECASE),
     re.compile(r"\bgo(?:es|ing)?\s+private\b", re.IGNORECASE),
-    re.compile(r"\btakeover\b", re.IGNORECASE),
-    re.compile(r"\ball[- ](?:cash|stock)\s+(?:deal|acquisition|purchase)\b", re.IGNORECASE),
+    # Takeover (filtered against AI-takeover / mathematics-takeover contexts)
+    re.compile(r"\btakeover(?:s)?\b", re.IGNORECASE),
+    # All-cash / all-stock deals
+    re.compile(r"\ball[- ](?:cash|stock)\s+(?:deal|acquisition|purchase|offer|takeover)\b", re.IGNORECASE),
+    # Deal-in-progress
     re.compile(r"\bagreed\s+to\s+acquire\b", re.IGNORECASE),
     re.compile(r"\bagreement\s+to\s+acquire\b", re.IGNORECASE),
+    re.compile(r"\bin\s+(?:advanced\s+)?(?:talks|discussions)\s+to\s+acquire\b", re.IGNORECASE),
+    # Acqui-hire / asset deals
     re.compile(r"\bacqui-?hire\b", re.IGNORECASE),
     re.compile(r"\basset\s+purchase\b", re.IGNORECASE),
+    # Corporate restructuring
     re.compile(r"\bspin[- ]off\b", re.IGNORECASE),
-    re.compile(r"\bdivest(?:ed|iture|ment)?\b", re.IGNORECASE),
+    re.compile(r"\bdivest(?:ed|iture|ment)\b", re.IGNORECASE),
+    # Sized deals
+    re.compile(r"\$\s?[\d.,]+\s*(?:B|M|billion|million)\s+(?:takeover|acquisition|deal|buyout|merger|purchase)\b", re.IGNORECASE),
+    # M&A activity keyword (formal term)
+    re.compile(r"\bM&A\b"),
+    re.compile(r"\bmergers?\s+(?:and|&)\s+acquisitions\b", re.IGNORECASE),
 )
 
-# Company Investments: money flowing INTO a company (equity, debt, IPOs,
-# strategic stakes). Distinct from infrastructure capex; if both apply the
-# article is tagged with both.
-_COMPANY_INVESTMENT_PATTERNS = (
+# Contexts around a matched word that mean it's NOT actually an M&A signal.
+# Checked against a \u00b140-char window centered on the match.
+_MA_FALSE_POSITIVE_CONTEXT = re.compile(
+    r"\b(?:customer|talent|data|user|users|language|skill|skills|model|models|"
+    r"knowledge|training|content|context|rights|IP|patent|patents|license|licenses|"
+    r"target|reader|readers|audience|subscriber|subscribers)\s+acquisit(?:ion|ions)\b"
+    r"|\bacquir(?:e|es|ed|ing)\s+(?:knowledge|skills?|users?|customers?|data|training|"
+    r"context|expertise|rights|licenses?|access|control|readers?|subscribers?|audiences?)\b"
+    r"|\bAI\s+takeover\b"
+    r"|\bagentic\s+takeover\b"
+    r"|\bAGI\s+takeover\b"
+    r"|\btakeover\s+of\s+(?:mathematics|physics|chemistry|biology|humanity|humans|jobs|labor|work|the\s+world|the\s+internet|search)\b"
+    r"|\bmodel\s+acquisition\b",
+    re.IGNORECASE,
+)
+
+# ---------------- Company Investments ----------------
+_COMPANY_INV_PATTERNS = (
     re.compile(r"\bfunding\s+round\b", re.IGNORECASE),
     re.compile(r"\braise[sd]?\s+\$?\d", re.IGNORECASE),
     re.compile(r"\braising\s+\$?\d", re.IGNORECASE),
@@ -84,7 +120,11 @@ _COMPANY_INVESTMENT_PATTERNS = (
     re.compile(r"\bpre[- ]ipo\b", re.IGNORECASE),
     re.compile(r"\bipo\b", re.IGNORECASE),
     re.compile(r"\binitial\s+public\s+offering\b", re.IGNORECASE),
-    re.compile(r"\bgoing\s+public\b", re.IGNORECASE),
+    re.compile(r"\bgo(?:es|ing)?\s+public\b", re.IGNORECASE),
+    re.compile(r"\bfile[sd]?\s+to\s+go\s+public\b", re.IGNORECASE),
+    re.compile(r"\bfile[sd]?\s+(?:for\s+)?ipo\b", re.IGNORECASE),
+    re.compile(r"\bfiled?\s+s[- ]?1\b", re.IGNORECASE),
+    re.compile(r"\bs[- ]?1\s+filing\b", re.IGNORECASE),
     re.compile(r"\bsecondar(?:y|ies)\s+(?:sale|offering|tender)\b", re.IGNORECASE),
     re.compile(r"\btender\s+offer\b", re.IGNORECASE),
     re.compile(r"\bequity\s+stake\b", re.IGNORECASE),
@@ -103,32 +143,50 @@ _COMPANY_INVESTMENT_PATTERNS = (
     re.compile(r"\bsovereign\s+wealth\s+fund\b", re.IGNORECASE),
     re.compile(r"\bdown[- ]round\b", re.IGNORECASE),
     re.compile(r"\bmega[- ]round\b", re.IGNORECASE),
+    re.compile(r"\bannualized?\s+revenue\s+run[- ]rate\b", re.IGNORECASE),
+    re.compile(r"\bannual\s+revenue\s+run[- ]rate\b", re.IGNORECASE),
+    re.compile(r"\b(?:pre|post)[- ]money\s+valuation\b", re.IGNORECASE),
 )
 
-# Infrastructure Investments: money flowing into physical AI infrastructure
-# — datacenters, GPU/chip commitments, power deals, fabs, cloud capacity.
-_INFRA_INVESTMENT_PATTERNS = (
-    re.compile(r"\bdata\s*cent(?:er|re)s?\b", re.IGNORECASE),
-    re.compile(r"\bgigawatt\b", re.IGNORECASE),
-    re.compile(r"\bmegawatt\b", re.IGNORECASE),
-    re.compile(r"\b\d+\s*(?:GW|MW)\b"),
+_COMPANY_INV_FALSE_POSITIVE_CONTEXT = re.compile(
+    r"\bpost[- ]ipo\s+era\b"
+    r"|\bipo\s+market\s+outlook\b"
+    r"|\bventure\s+into\s+(?:new|the)\b",  # "venture into a new market"
+    re.IGNORECASE,
+)
+
+# ---------------- Infrastructure Investments ----------------
+# STRONG: patterns that on their own imply capex / infrastructure spending.
+_INFRA_STRONG_PATTERNS = (
     re.compile(r"\bcapex\b", re.IGNORECASE),
     re.compile(r"\bcapital\s+expenditure\b", re.IGNORECASE),
-    re.compile(r"\bfab(?:s|rication)?\b", re.IGNORECASE),
-    re.compile(r"\bfoundr(?:y|ies)\b", re.IGNORECASE),
-    re.compile(r"\bwafer\b", re.IGNORECASE),
-    re.compile(r"\bhbm\b", re.IGNORECASE),
-    re.compile(r"\bhigh[- ]bandwidth\s+memory\b", re.IGNORECASE),
-    re.compile(r"\bpower\s+purchase\b", re.IGNORECASE),
+    re.compile(r"\bpower\s+purchase(?:\s+agreement)?\b", re.IGNORECASE),
     re.compile(r"\bppa\b"),
-    re.compile(r"\b(?:gpu|chip)\s+order(?:s|ing)?\b", re.IGNORECASE),
-    re.compile(r"\b(?:gpu|chip|hardware)\s+shipments?\b", re.IGNORECASE),
+    re.compile(r"\bai\s+factor(?:y|ies)\b", re.IGNORECASE),
+    re.compile(r"\bai\s+campus(?:es)?\b", re.IGNORECASE),
+    re.compile(r"\bgigafactor(?:y|ies)\b", re.IGNORECASE),
+    re.compile(r"\bnuclear\s+(?:power\s+)?(?:deal|reactor|smr|ppa|purchase\s+agreement)\b", re.IGNORECASE),
+    re.compile(r"\bhyperscaler\s+(?:spend|capex|commit|contract|order)\b", re.IGNORECASE),
+    re.compile(r"\bcommits?\s+\$?\d.{0,80}\b(?:infrastructure|data\s*cent|gpu|chip|cloud|campus|power|fab|hbm|wafer|foundr)\b", re.IGNORECASE),
+    re.compile(r"\$\s?[\d.,]+\s*(?:B|M|billion|million|trillion)s?\s+.{0,60}\b(?:data\s*cent|infrastructure|gpu|chip|campus|fab|foundr|hbm|blackwell|rubin|hopper|nuclear|compute|cloud)\b", re.IGNORECASE),
+    re.compile(r"\bbuild(?:s|ing)?\s+.{0,50}\b(?:data\s*cent|ai\s+campus|ai\s+factor|hyperscale|gigafactor)\b", re.IGNORECASE),
+    re.compile(r"\bfoundr(?:y|ies)\s+.{0,60}\b(?:invest|expand|capacity|commit|billion|million|\$|deal|contract|announce)\b", re.IGNORECASE),
+    re.compile(r"\bfab\s+(?:capacity|construction|announce(?:d|s|ment)?|build|expand|commit|deal|billion|million|\$)\b", re.IGNORECASE),
+    re.compile(r"\b(?:gpu|chip|hardware)\s+(?:order|shipment|allocation)s?\s+.{0,40}(?:\$|billion|million|trillion|to\s+[A-Z])", re.IGNORECASE),
+    re.compile(r"\b\d+\s*(?:GW|MW)\s+(?:data\s*cent|ai|nuclear|power|deploy|deal|commit|campus|gpu|solar|wind)\b", re.IGNORECASE),
+    re.compile(r"\bgigawatt\s+(?:data\s*cent|ai|nuclear|power|deal|campus|scale)\b", re.IGNORECASE),
+    re.compile(r"\bmulti[- ]?year\s+(?:chip|gpu|compute|cloud)\s+deal\b", re.IGNORECASE),
+    re.compile(r"\bdata\s*cent(?:er|re)s?\s+(?:deal|contract|order|expansion|investment|billion|million|\$)\b", re.IGNORECASE),
+)
+
+# WEAK: infra topic markers that also appear in unrelated tech coverage. Fire
+# only if an investment/spend signal is present in the article.
+_INFRA_WEAK_PATTERNS = (
+    re.compile(r"\bdata\s*cent(?:er|re)s?\b", re.IGNORECASE),
     re.compile(r"\bai\s+infrastructure\b", re.IGNORECASE),
     re.compile(r"\bcompute\s+infrastructure\b", re.IGNORECASE),
     re.compile(r"\bcloud\s+infrastructure\b", re.IGNORECASE),
-    re.compile(r"\bai\s+(?:factor(?:y|ies)|campus(?:es)?)\b", re.IGNORECASE),
     re.compile(r"\bhyperscaler(?:s)?\b", re.IGNORECASE),
-    re.compile(r"\bnuclear\s+(?:power|deal|reactor|smr)\b", re.IGNORECASE),
     re.compile(r"\bblackwell\b", re.IGNORECASE),
     re.compile(r"\brubin\b", re.IGNORECASE),
     re.compile(r"\bhopper\b", re.IGNORECASE),
@@ -137,26 +195,85 @@ _INFRA_INVESTMENT_PATTERNS = (
     re.compile(r"\bmaia\b", re.IGNORECASE),
     re.compile(r"\btpu\b"),
     re.compile(r"\binstinct\s+mi\d", re.IGNORECASE),
-    re.compile(r"\bcommits?\s+\$?\d.{0,80}\b(?:infrastructure|data\s*cent|gpu|chip|cloud|campus|power|fab)\b", re.IGNORECASE),
-    re.compile(r"\bbuild(?:s|ing)?\s+.{0,50}\b(?:data\s*cent|ai\s+campus|ai\s+factor)\b", re.IGNORECASE),
+    re.compile(r"\bhbm\b", re.IGNORECASE),
+    re.compile(r"\bhigh[- ]bandwidth\s+memory\b", re.IGNORECASE),
+    re.compile(r"\bwafer(?:s)?\b", re.IGNORECASE),
+    re.compile(r"\bfoundr(?:y|ies)\b", re.IGNORECASE),
+    re.compile(r"\bfab(?:s|rication)?\b", re.IGNORECASE),
+    re.compile(r"\bgigawatt\b", re.IGNORECASE),
+    re.compile(r"\bmegawatt\b", re.IGNORECASE),
+    re.compile(r"\b\d+\s*(?:GW|MW)\b"),
 )
+
+_INFRA_INVESTMENT_SIGNAL = re.compile(
+    r"\$\s?\d"
+    r"|\b(?:billion|million|trillion|bn)s?\b"
+    r"|\bcapex\b"
+    r"|\bcapital\s+expenditure\b"
+    r"|\binvest(?:s|ed|ing|ment|ments)?\b"
+    r"|\bspend(?:s|ing|ed|ings?)?\b"
+    r"|\bcommit(?:s|ted|ments|ment)?\b"
+    r"|\border(?:s|ed|ing)?\s+(?:\$|\d|for)"
+    r"|\bpurchase(?:s|d|ing)?\b"
+    r"|\bcontract(?:s|ed)?\b"
+    r"|\bfund(?:s|ed|ing)?\b"
+    r"|\bfinanc(?:e|ing|es|ed)\b"
+    r"|\bexpand(?:s|ed|ing|sion)?\b"
+    r"|\bbuild(?:s|ing|out|outs)?\b"
+    r"|\bconstruct(?:ion|s|ed|ing)?\b"
+    r"|\bdeploy(?:s|ed|ing|ment)?\b"
+    r"|\bdeal\b"
+    r"|\bagreement\b"
+    r"|\bcapacit(?:y|ies)\b"
+    r"|\bbudget(?:s|ed|ing)?\b"
+    r"|\bbacklog\b",
+    re.IGNORECASE,
+)
+
+
+def _has_valid_match(text: str, patterns, fp_re: re.Pattern | None) -> bool:
+    """Return True if any pattern match's local window (\u00b140 chars) is not
+    inside a false-positive phrase.
+    """
+    for p in patterns:
+        for m in p.finditer(text):
+            if fp_re is None:
+                return True
+            start = max(0, m.start() - 40)
+            end = min(len(text), m.end() + 40)
+            if not fp_re.search(text[start:end]):
+                return True
+    return False
 
 
 def _classify_deals(haystack: str) -> list[str]:
     """Return the sub-set of ``M&A & Investments`` theme slugs that apply.
 
-    Runs independently from the primary theme classifier; results are appended
-    to ``article.themes`` so the deals hub and the /topics/*.html pages pick
-    them up automatically. Empty return means the article is not a
-    money/deals story.
+    Uses topical patterns + local false-positive filtering. For infrastructure
+    only, weak topic markers additionally require an investment/spend signal
+    anywhere in the article.
     """
     tags: list[str] = []
-    if any(p.search(haystack) for p in _MA_ACTIVITY_PATTERNS):
+
+    # M&A Activity: any pattern that isn't in a false-positive window.
+    if _has_valid_match(haystack, _MA_PATTERNS, _MA_FALSE_POSITIVE_CONTEXT):
         tags.append("ma-activity")
-    if any(p.search(haystack) for p in _COMPANY_INVESTMENT_PATTERNS):
+
+    # Company Investments: patterns already require $ or specific finance
+    # terms; a light FP filter handles a handful of ambiguous phrases.
+    if _has_valid_match(haystack, _COMPANY_INV_PATTERNS,
+                        _COMPANY_INV_FALSE_POSITIVE_CONTEXT):
         tags.append("company-investments")
-    if any(p.search(haystack) for p in _INFRA_INVESTMENT_PATTERNS):
+
+    # Infrastructure Investments: strong patterns fire on their own; weak
+    # topic markers additionally require an investment/spend signal.
+    if any(p.search(haystack) for p in _INFRA_STRONG_PATTERNS):
         tags.append("infrastructure-investments")
+    elif _INFRA_INVESTMENT_SIGNAL.search(haystack) and any(
+        p.search(haystack) for p in _INFRA_WEAK_PATTERNS
+    ):
+        tags.append("infrastructure-investments")
+
     return tags
 
 

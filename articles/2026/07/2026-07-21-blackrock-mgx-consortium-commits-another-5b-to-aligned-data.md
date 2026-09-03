@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- ma-activity
 - infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -32,6 +33,6 @@ BlackRock and Abu Dhabi's MGX committed $5B in growth capital to Aligned Data Ce
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-21-blackrock-and-mgx-commit-5b-to-aligned-data-centers]]
 <!-- graph:end -->

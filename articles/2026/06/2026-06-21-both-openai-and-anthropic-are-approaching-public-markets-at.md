@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Both OpenAI and Anthropic are approaching public markets at valuations near $1 t
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u]] · [[2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai]] · [[2026-08-17-anthropic-s-annualized-revenue-surges-to-65b-ipo-expected-th]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]]
 <!-- graph:end -->

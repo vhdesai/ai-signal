@@ -18,7 +18,6 @@ themes:
 - datacenter-infrastructure
 - company-storylines
 - company-investments
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +38,6 @@ TechCrunch tallied over a dozen senior exits since January, including Sam Altman
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-p]] · [[2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent]] · [[2026-08-26-openai-s-data-center-chief-chris-malone-departs]] · [[2026-08-25-openai-loses-head-of-data-centers-14th-executive-departure-i]]
 <!-- graph:end -->

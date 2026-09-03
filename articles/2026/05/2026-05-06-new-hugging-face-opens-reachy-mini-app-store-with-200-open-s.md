@@ -18,6 +18,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Hugging Face launched the Reachy Mini App Store, a free, community-built marketp
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-27-hugging-face-opens-orders-for-microduck-a-399-open-source-ro]] · [[2026-08-28-hugging-face-s-answer-to-dystopian-humanoid-robots]] · [[2026-08-24-hugging-face-draws-m-a-interest]] · [[2026-08-29-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion]] · [[2026-08-27-hugging-face-launches-399-open-source-microduck-robot-for-ph]]
 <!-- graph:end -->

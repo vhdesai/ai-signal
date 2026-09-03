@@ -19,7 +19,6 @@ entities:
 - TSMC
 themes:
 - model-capabilities
-- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -42,6 +41,6 @@ The Information’s AM coverage highlighted Huawei’s efforts to narrow the chi
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[TSMC]]
-**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
 **Related:** [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-06-30-tuesday-june-30-2026]] · [[2026-08-06-chip-investors-navigate-geopolitical-risk-as-ai-powered-cons]]
 <!-- graph:end -->

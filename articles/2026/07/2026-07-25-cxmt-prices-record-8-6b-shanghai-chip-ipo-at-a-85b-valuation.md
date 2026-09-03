@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -34,6 +35,6 @@ ChangXin Memory Technologies (CXMT), China's flagship DRAM maker, is set to debu
 ## Connections
 
 **Entities:** [[Samsung]]
-**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-25-china-s-cxmt-debuts-on-shanghai-s-star-market-with-an-8-6b-r]]
 <!-- graph:end -->

@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Anysphere, parent of Cursor, is in advanced discussions to raise roughly $2B at 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation]] · [[2026-04-20-the-information-techcrunch-april-19-2026-anysphere-s-cursor]] · [[2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr]] · [[2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere]] · [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]]
 <!-- graph:end -->

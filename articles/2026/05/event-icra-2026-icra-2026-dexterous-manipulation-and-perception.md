@@ -17,7 +17,6 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +37,6 @@ ICRA coverage highlights the need for better perception pipelines and manipulati
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
 **Related:** [[event-icra-2026-icra-2026-nvidia-research-robotics-papers]] · [[event-icra-2026-icra-2026-overview]] · [[event-icra-2026-icra-2026-multi-task-policy-learning]] · [[event-icra-2026-icra-2026-strategic-implications]]
 <!-- graph:end -->

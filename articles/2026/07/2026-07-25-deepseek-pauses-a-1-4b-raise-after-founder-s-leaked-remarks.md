@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +41,6 @@ DeepSeek told prospective backers it would not sign investment agreements as exp
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-26-deepseek-pauses-its-1-4b-funding-round-after-founder-s-leake]] · [[2026-07-26-deepseek-pauses-second-funding-round-after-founder-s-leaked]] · [[2026-07-26-deepseek-pauses-71b-funding-round-after-founder-s-leaked-rem]] · [[2026-07-26-deepseek-pauses-roughly-71b-funding-round-after-founder-rema]] · [[2026-07-26-deepseek-pauses-its-second-funding-round-after-founder-s-vir]]
 <!-- graph:end -->

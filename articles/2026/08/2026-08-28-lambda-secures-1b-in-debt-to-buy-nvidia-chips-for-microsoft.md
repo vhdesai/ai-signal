@@ -21,6 +21,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-lambda-1b-debt-400b-global-ai-debt-continued
@@ -37,6 +38,6 @@ Lambda raised $1B in private short-dated debt (JP Morgan) to buy Nvidia chips an
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Company Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-28-lambda-1b-debt-400b-global-ai-debt-continued]]
 <!-- graph:end -->

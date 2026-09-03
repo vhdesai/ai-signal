@@ -16,6 +16,7 @@ entities:
 - Meta
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -36,6 +37,6 @@ AI agent startup Manus will resume operating independently after Beijing blocked
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
 **Related:** [[2026-08-13-manus-resumes-independent-operations-after-beijing-blocks-me]] · [[2026-08-13-manus-says-it-will-resume-operating-as-an-independent-compan]] · [[2026-09-01-manus-resumes-independent-operations-after-china-blocks-meta]]
 <!-- graph:end -->

@@ -17,7 +17,6 @@ entities:
 - Microsoft
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +38,6 @@ PIF-owned HUMAIN and Microsoft announced a long-term collaboration to make HUMAI
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise]] · [[2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap]] · [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig]] · [[2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]]
 <!-- graph:end -->

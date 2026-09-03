@@ -16,7 +16,6 @@ tags:
 entities: []
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-u-s-weighs-a-broader-semiconductor-tariff-regime-covering-se
@@ -32,6 +31,6 @@ The administration is considering new tariffs extended to data center servers, l
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-08-27-u-s-weighs-a-broader-semiconductor-tariff-regime-covering-se]]
 <!-- graph:end -->

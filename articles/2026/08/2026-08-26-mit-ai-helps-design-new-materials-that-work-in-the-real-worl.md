@@ -16,7 +16,6 @@ tags:
 entities: []
 themes:
 - model-capabilities
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +36,6 @@ MIT researchers introduced CrysVCD, a crystal generator with valence-constrained
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-08-26-mit-s-crysvcd-designs-ai-generated-materials-that-are-actual]] · [[2026-08-26-mit-s-crysvcd-raises-ai-generated-materials-stability-to-70]] · [[2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl]] · [[2026-07-06-reinforcement-learning-steers-generative-models-toward-novel]] · [[2026-04-02-mit-researchers-developed-a-new-ai-model-that-measures-atomi]]
 <!-- graph:end -->

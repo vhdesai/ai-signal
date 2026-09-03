@@ -16,7 +16,6 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: event-icra-2026-icra-2026-nvidia-research-robotics-papers
@@ -33,6 +32,6 @@ ICRA 2026 appears in the late-May corpus as the robotics event that extends the 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[event-icra-2026-icra-2026-nvidia-research-robotics-papers]]
 <!-- graph:end -->

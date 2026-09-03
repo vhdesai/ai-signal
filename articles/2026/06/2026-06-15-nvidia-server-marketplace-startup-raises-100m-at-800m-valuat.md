@@ -17,6 +17,7 @@ entities:
 themes:
 - company-storylines
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ A startup building a marketplace for Nvidia server capacity raised $100M at an $
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-24-nvidia-discusses-perplexity-investment-at-30-billion-valuati]] · [[2026-07-27-nvidia-in-talks-to-backstop-250b-for-openai-s-500b-10-gigawa]] · [[2026-08-17-the-nvidia-paradox-selling-upgrades-while-positioning-gpus-a]] · [[2026-08-22-nvidia-notifies-customers-of-ai-server-price-hikes-above-15]] · [[2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d]]
 <!-- graph:end -->

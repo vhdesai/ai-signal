@@ -21,6 +21,7 @@ entities:
 - Oracle
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-big-tech-s-ai-debt-load-doubles-to-350-billion
@@ -37,6 +38,6 @@ Alphabet, Amazon, Meta, Microsoft, and Oracle have collectively added about $350
 ## Connections
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]] · [[Oracle]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350-billion]]
 <!-- graph:end -->

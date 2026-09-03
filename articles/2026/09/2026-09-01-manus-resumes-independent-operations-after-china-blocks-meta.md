@@ -17,6 +17,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -37,6 +38,6 @@ Singapore-based agent startup Manus said it has formally resumed independent ope
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
 **Related:** [[2026-08-11-manus-returns-to-independence-as-china-forces-meta-s-2b-acqu]] · [[2026-08-13-manus-resumes-independence-after-beijing-blocks-meta-acquisi]] · [[2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek]]
 <!-- graph:end -->

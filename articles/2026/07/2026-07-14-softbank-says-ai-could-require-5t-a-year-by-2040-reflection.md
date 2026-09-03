@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-14-softbank-s-masayoshi-son-says-ai-will-require-5t-a-year-by-2
@@ -34,6 +35,6 @@ SoftBank's Masayoshi Son projected that AI buildout will require roughly $5 tril
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-14-softbank-s-masayoshi-son-says-ai-will-require-5t-a-year-by-2]]
 <!-- graph:end -->

@@ -21,6 +21,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ The last 24 hours were defined by legal and commercial hardball rather than mode
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-17-daily-ai-news-digest-august-18-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-08-15-daily-ai-news-digest-august-16-2026]] · [[2026-08-14-daily-ai-news-digest-august-15-2026]]
 <!-- graph:end -->

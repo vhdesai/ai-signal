@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Cursor — the coding tool used across two-thirds of the Fortune 500 — is quie
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-07-13-cursor-builds-ai-agent-sand-to-rival-claude-cowork-and-chatg]] · [[2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app]] · [[2026-08-17-cursor-acquisition-marks-second-largest-of-vc-backed-company]] · [[2026-05-15-cursor-launches-hiring-spree-after-spacex-deal]]
 <!-- graph:end -->

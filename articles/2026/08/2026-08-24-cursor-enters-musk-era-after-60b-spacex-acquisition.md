@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +34,6 @@ On the day SpaceX completed its $60B Cursor acquisition, Musk called into an all
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-24-cursor-officially-enters-its-musk-era-after-60b-spacex-acqui]] · [[2026-08-07-spacex-nears-completion-of-60b-cursor-acquisition]] · [[2026-08-15-spacex-closes-60b-all-stock-acquisition-of-cursor]]
 <!-- graph:end -->

@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- ma-activity
 - company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -37,6 +38,6 @@ PitchBook reports that Neura Robotics is on an acquisition spree, consolidating 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-06-15-neura-robotics-plans-to-raise-1-2b-for-humanoid-robot-produc]] · [[2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto]] · [[2026-06-01-unitree-s-h2-plus-gives-academic-robotics-a-nvidia-isaac-gr0]] · [[2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker]]
 <!-- graph:end -->

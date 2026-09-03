@@ -17,7 +17,6 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +37,6 @@ The Wall Street Journal highlighted Nvidia's push to provide the computing found
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
 **Related:** [[2026-08-29-nvidia-wants-to-run-the-world-s-robots-china-is-an-eager-cus]] · [[2026-08-29-china-s-robotics-industry-has-become-a-major-buyer-of-nvidia]] · [[2026-08-24-nvidia-is-reportedly-spending-6-billion-to-build-a-u-s-alter]]
 <!-- graph:end -->

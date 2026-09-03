@@ -17,7 +17,6 @@ entities:
 - NVIDIA
 themes:
 - model-capabilities
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +38,6 @@ NVIDIA published results for NVFP4, a 4-bit floating-point format designed for f
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o]] · [[2026-06-16-nvidia-blackwell-sweeps-mlperf-training-v6-0-benchmark]] · [[2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-08-11-nvidia-developing-nemotron-4-a-1t-parameter-open-model]]
 <!-- graph:end -->

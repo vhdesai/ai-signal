@@ -20,7 +20,6 @@ entities:
 themes:
 - datacenter-infrastructure
 - policy-regulation
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +41,6 @@ A nine-year-old Linux kernel root bug went public, cPanel patched a 9.8 auth-byp
 ## Connections
 
 **Entities:** [[SAP]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
 **Related:** [[2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-05-14-on-may-5-the-u-s-pentagon-signed-ai-infrastructure-and-model]] · [[2026-05-22-wired-reported-that-the-group-behind-a-recent-github-reposit]] · [[2026-05-03-pentagon-signs-eight-vendors-to-ai-frameworks]]
 <!-- graph:end -->

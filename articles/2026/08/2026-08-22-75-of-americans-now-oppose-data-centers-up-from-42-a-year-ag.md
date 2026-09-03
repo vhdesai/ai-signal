@@ -17,7 +17,6 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +36,6 @@ A full 75% of Americans now oppose data centers, up from 42% a year ago (Embold 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-08-31-trump-condemns-communities-opposing-data-centers-ahead-of-mi]] · [[2026-08-29-community-opposition-blocked-or-delayed-130b-of-data-center]] · [[2026-08-29-tech-backlash-roughly-130b-of-data-center-projects-blocked-o]] · [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ MOUs with Apollo, Blackstone, BlackRock, Brookfield, Goldman Sachs, KKR. Nvidia 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-11-nvidia-and-wall-street-launch-500b-ai-financing-alliance]] · [[2026-08-13-nvidia-s-500b-financing-vehicle-includes-gpu-residual-value]] · [[2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data]] · [[2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin]] · [[2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi]]
 <!-- graph:end -->

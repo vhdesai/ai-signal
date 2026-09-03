@@ -22,6 +22,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -43,6 +44,6 @@ Ramp launched "Router" — model routing for OpenAI, Anthropic, DeepSeek, Moonsh
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
 **Related:** [[2026-08-20-ramp-launches-ai-model-router-entering-market-days-after-str]] · [[2026-08-20-ramp-s-ai-model-router-now-live-continued]] · [[2026-08-20-ramp-launches-its-own-ai-model-router-called-router]] · [[2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter]]
 <!-- graph:end -->

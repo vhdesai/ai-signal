@@ -18,7 +18,6 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - model-capabilities
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +39,6 @@ Twitch confirmed Amazon is using streamer content to train generative AI models,
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
 **Related:** [[2026-08-12-amazon-will-train-on-twitch-streamers-content-by-default-unl]] · [[2026-08-13-twitch-opts-all-streamers-into-amazon-ai-training-by-default]] · [[2026-08-12-anthropic-text-watermarks-trigger-backlash-amazon-twitch-set]] · [[2026-07-17-patreon-blocks-ai-training-bots-instead-of-relying-on-robots]] · [[2026-07-06-if-you-use-google-you-re-training-its-ai-here-s-how-to-opt-o]]
 <!-- graph:end -->

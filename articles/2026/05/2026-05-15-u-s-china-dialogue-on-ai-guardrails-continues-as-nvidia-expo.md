@@ -18,7 +18,6 @@ entities:
 - NVIDIA
 themes:
 - policy-regulation
-- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -36,6 +35,6 @@ President Trump confirmed earlier this month that he discussed potential AI guar
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
 **Canonical:** [[2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-fut]]
 <!-- graph:end -->

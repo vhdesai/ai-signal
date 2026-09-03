@@ -17,7 +17,6 @@ entities:
 - Snowflake
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +39,6 @@ WSJ Pro Cybersecurity reports that the individual responsible for the massive Sn
 ## Connections
 
 **Entities:** [[Snowflake]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
 **Related:** [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-08-12-taiwan-s-nuclear-regulator-targeted-by-an-autonomous-ai-cybe]] · [[2026-08-05-ai-just-went-rogue-again-this-time-it-turned-to-deception]] · [[2026-06-29-a-chinese-cybersecurity-company-is-building-offensive-and-de]] · [[2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn]]
 <!-- graph:end -->

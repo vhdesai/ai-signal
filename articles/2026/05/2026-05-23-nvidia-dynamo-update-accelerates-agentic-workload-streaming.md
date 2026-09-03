@@ -17,7 +17,6 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +38,6 @@ NVIDIA's Dynamo platform received new enhancements aimed at multi-step "agentic"
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo]] · [[2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]] · [[2026-07-07-nvidia-positions-its-vera-cpu-for-the-agentic-era-and-previe]]
 <!-- graph:end -->

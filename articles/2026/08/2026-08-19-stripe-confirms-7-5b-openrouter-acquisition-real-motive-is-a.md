@@ -19,6 +19,7 @@ entities:
 - Databricks
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-19-stripe-confirms-7-5-billion-openrouter-acquisition-gains-lev
@@ -35,6 +36,6 @@ Stripe officially confirmed its OpenRouter acquisition at $7.5B (founders receiv
 ## Connections
 
 **Entities:** [[Databricks]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-19-stripe-confirms-7-5-billion-openrouter-acquisition-gains-lev]]
 <!-- graph:end -->

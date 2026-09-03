@@ -19,6 +19,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ OpenAI notified SpaceX it intends to wind down the contract supplying its models
 ## Connections
 
 **Entities:** [[OpenAI]] · [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-28-openai-to-wind-down-cursor-s-model-access-following-spacex-a]] · [[2026-08-28-openai-terminates-cursor-s-model-access-following-spacex-acq]] · [[2026-08-29-openai-to-terminate-cursor-s-model-access-after-spacex-s-60b]] · [[2026-08-31-openai-moves-to-cut-cursor-s-access-to-its-models-following]] · [[2026-08-29-openai-to-terminate-cursor-s-model-access-after-spacex-acqui]]
 <!-- graph:end -->

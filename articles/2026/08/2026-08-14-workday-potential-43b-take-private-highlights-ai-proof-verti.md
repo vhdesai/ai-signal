@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Workday is in discussions for a potential $43B take-private. Combined with Thoma
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu]] · [[2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat]] · [[2026-08-01-pitchbook-saas-pocalypse-enters-second-phase-as-ai-agents-re]]
 <!-- graph:end -->

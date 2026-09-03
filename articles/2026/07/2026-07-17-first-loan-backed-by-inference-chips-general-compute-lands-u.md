@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ AI inference-cloud startup General Compute secured a debt facility scaling to $4
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-17-inference-chips-pledged-as-loan-collateral-in-a-400m-financi]] · [[2026-07-17-general-compute-lands-400-million-loan-backed-by-inference-c]] · [[2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud]] · [[2026-06-23-groq-confirms-650m-funding-round]]
 <!-- graph:end -->

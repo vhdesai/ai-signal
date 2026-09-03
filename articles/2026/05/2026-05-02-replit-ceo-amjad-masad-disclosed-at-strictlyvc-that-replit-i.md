@@ -16,6 +16,8 @@ entities:
 - Apple
 themes:
 - company-storylines
+- ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +38,6 @@ Replit CEO Amjad Masad disclosed at StrictlyVC that Replit is running at a $1 bi
 ## Connections
 
 **Entities:** [[Apple]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-05-08-replit-ceo-amjad-masad-disclosed-at-techcrunch-s-strictlyvc]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-02-replit-s-amjad-masad-on-the-cursor-deal-and-apple-friction]]
 <!-- graph:end -->

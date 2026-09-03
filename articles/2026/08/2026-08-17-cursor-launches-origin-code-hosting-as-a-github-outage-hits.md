@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Cursor introduced Origin, an AI-native code hosting and pull-request platform bu
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-17-cursor-launches-origin-its-own-code-hosting-platform-hours-i]] · [[2026-08-17-cursor-launches-origin-its-own-code-hosting-platform-during]] · [[2026-08-17-cursor-launches-origin-code-hosting-platform-during-github-o]] · [[2026-08-18-cursor-capitalizes-on-github-frustration-launches-rival-host]] · [[2026-08-18-cursor-launches-origin-a-github-rival-built-for-ai-native-wo]]
 <!-- graph:end -->

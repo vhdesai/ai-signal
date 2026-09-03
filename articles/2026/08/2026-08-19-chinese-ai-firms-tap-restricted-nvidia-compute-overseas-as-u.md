@@ -18,7 +18,6 @@ entities:
 - NVIDIA
 themes:
 - policy-regulation
-- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -36,6 +35,6 @@ Chinese labs including Moonshot AI have accessed restricted Nvidia GB300-class c
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
 **Canonical:** [[2026-08-19-chinese-ai-firms-tap-restricted-nvidia-compute-offshore-as-u]]
 <!-- graph:end -->

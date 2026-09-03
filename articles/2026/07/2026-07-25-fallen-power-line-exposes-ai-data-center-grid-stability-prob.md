@@ -16,7 +16,6 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +36,6 @@ TechCrunch reports that a fallen power line near Washington, D.C., caused more t
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-07-25-one-fallen-power-line-trips-3-1-gw-of-ai-data-centers-stress]] · [[2026-07-25-single-downed-power-line-dropped-3-1-gw-of-data-centers-expo]] · [[2026-07-25-one-fallen-power-line-trips-3-1-gw-of-ai-data-centers-jolts]] · [[2026-07-25-one-fallen-power-line-trips-3-1-gw-of-ai-data-centers]] · [[2026-07-25-one-fallen-power-line-exposes-a-growing-ai-data-center-probl]]
 <!-- graph:end -->

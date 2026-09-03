@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Europe's AI law has crossed from statute into active enforcement, and Brussels w
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-28-eu-ai-act-moves-from-statute-to-enforcement]] · [[2026-08-28-eu-ai-act-moves-from-rulebook-to-real-enforcement]] · [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit]]
 <!-- graph:end -->

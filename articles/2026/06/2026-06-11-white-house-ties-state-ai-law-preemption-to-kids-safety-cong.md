@@ -16,7 +16,6 @@ tags:
 entities: []
 themes:
 - policy-regulation
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-11-white-house-pushes-to-block-state-ai-laws-by-tying-preemptio
@@ -32,6 +31,6 @@ The White House is framing its push to preempt state AI laws around children's s
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
+**Topics:** [[Policy & Regulation]]
 **Canonical:** [[2026-06-11-white-house-pushes-to-block-state-ai-laws-by-tying-preemptio]]
 <!-- graph:end -->

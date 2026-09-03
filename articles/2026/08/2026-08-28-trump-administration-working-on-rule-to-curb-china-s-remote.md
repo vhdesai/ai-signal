@@ -17,7 +17,6 @@ entities:
 - NVIDIA
 themes:
 - policy-regulation
-- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -35,6 +34,6 @@ The Trump administration is developing an AI rule to close the loophole that all
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
 **Canonical:** [[2026-08-28-trump-administration-working-on-ai-rule-to-curb-china-s-remo]]
 <!-- graph:end -->

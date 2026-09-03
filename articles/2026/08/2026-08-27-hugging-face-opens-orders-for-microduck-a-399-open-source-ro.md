@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-hugging-face-launches-399-open-source-microduck-robot-for-ph
@@ -33,6 +34,6 @@ Hugging Face began taking orders for Microduck, a $399 open-source desktop robot
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-27-hugging-face-launches-399-open-source-microduck-robot-for-ph]]
 <!-- graph:end -->

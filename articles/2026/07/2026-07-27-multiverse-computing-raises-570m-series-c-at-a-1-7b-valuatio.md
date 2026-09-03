@@ -17,6 +17,7 @@ themes:
 - model-capabilities
 - company-storylines
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Spain's Multiverse Computing raised a $570M (€500M) Series C to compress AI mo
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-27-spain-s-multiverse-computing-raises-500m-series-c-at-1-5b-va]] · [[2026-07-28-multiverse-computing-raises-570m-series-c-at-1-7b-valuation]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]] · [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b]]
 <!-- graph:end -->

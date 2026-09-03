@@ -17,7 +17,6 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,5 +33,5 @@ The core technical challenge is making policies trained in simulation robust eno
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
 <!-- graph:end -->

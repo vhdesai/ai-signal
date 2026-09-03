@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - model-capabilities
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ OpenAI will make all three GPT-5.6 variants publicly available Thursday, July 9,
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]]
 **Related:** [[2026-07-08-openai-to-publicly-release-gpt-5-6-sol-terra-luna-on-july-9]] · [[2026-07-08-openai-to-open-gpt-5-6-to-the-public-july-9-after-clearing-f]] · [[2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi]] · [[2026-07-08-openai-confirms-gpt-5-6-sol-terra-luna-public-launch-for-thu]] · [[2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp]]
 <!-- graph:end -->

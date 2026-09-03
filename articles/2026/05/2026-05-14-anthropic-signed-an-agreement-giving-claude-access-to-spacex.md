@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Anthropic signed an agreement giving Claude access to SpaceX's entire Colossus 1
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-06-anthropic-spacex-colossus-1-deal-doubles-claude-code-rate-li]] · [[2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year]] · [[2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex]] · [[2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea]]
 <!-- graph:end -->

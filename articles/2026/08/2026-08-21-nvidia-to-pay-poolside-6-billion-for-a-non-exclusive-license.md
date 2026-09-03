@@ -20,6 +20,7 @@ entities:
 themes:
 - company-storylines
 - ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-nvidia-strikes-a-7b-license-and-hire-deal-with-poolside
@@ -36,6 +37,6 @@ Nvidia agreed to pay roughly $6B under a non-exclusive licensing agreement with 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[M&A Activity]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Canonical:** [[2026-08-21-nvidia-strikes-a-7b-license-and-hire-deal-with-poolside]]
 <!-- graph:end -->

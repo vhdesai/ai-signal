@@ -17,7 +17,6 @@ entities:
 - NVIDIA
 themes:
 - model-capabilities
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +38,6 @@ NVIDIA detailed how it quantized its 550B-parameter Nemotron 3 Ultra to the 4-bi
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75]] · [[2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso]] · [[2026-07-17-nvidia-releases-nemotron-3-embed-8b-checkpoint-ranks-1-on-rt]] · [[2026-08-11-nvidia-is-developing-a-1-trillion-parameter-nemotron-4-open]] · [[2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet]]
 <!-- graph:end -->

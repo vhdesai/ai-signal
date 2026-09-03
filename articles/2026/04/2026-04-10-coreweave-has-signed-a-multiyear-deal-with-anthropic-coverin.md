@@ -20,6 +20,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- ma-activity
 - infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -42,6 +43,6 @@ CoreWeave has signed a multiyear deal with Anthropic covering a variety of Nvidi
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol]] · [[2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-nvidia-backed]] · [[2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu]] · [[2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-volta]] · [[2026-08-04-anthropic-signs-reported-10b-six-year-compute-deal-with-nvid]]
 <!-- graph:end -->

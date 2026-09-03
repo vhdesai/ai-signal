@@ -15,7 +15,6 @@ entities: []
 themes:
 - datacenter-infrastructure
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +35,6 @@ DeepMind's Decoupled DiLoCo work — recently posted on the official DeepMind ne
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
 **Related:** [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]] · [[2026-08-28-deepmind-s-ai-co-scientist-now-plans-experiments-runs-lab-eq]] · [[2026-06-26-a-training-methods-preprint-from-martin-jaggi-s-group-propos]] · [[2026-08-06-google-deepmind-s-weathernext-2-sets-state-of-the-art-in-ai]]
 <!-- graph:end -->

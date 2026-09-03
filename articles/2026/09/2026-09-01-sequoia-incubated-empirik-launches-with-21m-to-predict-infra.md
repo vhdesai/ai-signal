@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Empirik came out of Sequoia incubation with $21 million to apply predictive mode
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-09-01-sequoia-incubated-empirik-spins-out-with-21m-to-predict-outa]] · [[2026-08-05-sequoia-capital-goes-all-out-on-ai-under-new-leaders]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha]] · [[2026-06-18-baseten-closes-1-5b-round-at-up-to-13b-valuation-as-open-sou]] · [[2026-07-09-ollama-raises-65m-series-b-as-local-ai-adoption-scales]]
 <!-- graph:end -->

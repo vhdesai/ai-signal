@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Anthropic announced GA of the Claude Platform on AWS, giving enterprise customer
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Cerebras]] · [[OpenAI]]
-**Topics:** [[Company Investments]]
+**Topics:** [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]]
 <!-- graph:end -->

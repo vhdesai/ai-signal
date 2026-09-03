@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-29-openai-to-cut-off-model-access-for-spacex-owned-cursor
@@ -33,6 +34,6 @@ OpenAI told the coding startup Cursor it will end model access on November 12, c
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-29-openai-to-cut-off-model-access-for-spacex-owned-cursor]]
 <!-- graph:end -->

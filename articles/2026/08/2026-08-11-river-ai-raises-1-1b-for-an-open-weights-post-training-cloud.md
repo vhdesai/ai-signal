@@ -19,6 +19,7 @@ entities:
 themes:
 - company-storylines
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-river-ai-raises-1-1-billion-two-months-after-launch
@@ -35,6 +36,6 @@ River AI, founded by xAI co-founder Igor Babuschkin, announced $1.1 billion rais
 ## Connections
 
 **Entities:** [[AMD]] · [[NVIDIA]] · [[xAI]]
-**Topics:** [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-11-river-ai-raises-1-1-billion-two-months-after-launch]]
 <!-- graph:end -->

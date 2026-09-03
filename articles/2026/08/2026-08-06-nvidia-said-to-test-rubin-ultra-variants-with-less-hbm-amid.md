@@ -16,7 +16,6 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
@@ -33,6 +32,6 @@ The Information reports Nvidia is testing Rubin Ultra configurations with less h
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]]
 <!-- graph:end -->

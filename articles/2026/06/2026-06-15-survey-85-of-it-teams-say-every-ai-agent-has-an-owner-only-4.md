@@ -36,6 +36,8 @@ entities:
 - xAI
 themes:
 - policy-regulation
+- ma-activity
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -58,6 +60,6 @@ Ivanti research found that organizational leaders are nearly twice as likely as 
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Salesforce]] · [[Tencent]] · [[xAI]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[M&A Activity]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern]] · [[2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca]] · [[2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen]] · [[2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i]]
 <!-- graph:end -->

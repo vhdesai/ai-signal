@@ -21,6 +21,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-06-breakinganthropic-commits-200-billion-to-google-cloud-over-f
@@ -37,6 +38,6 @@ Alphabet's market cap briefly surpassed Nvidia's in after-hours trading after re
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-06-breakinganthropic-commits-200-billion-to-google-cloud-over-f]]
 <!-- graph:end -->

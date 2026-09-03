@@ -20,6 +20,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- company-investments
 - infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -42,6 +43,6 @@ SpaceX's public S-1 filing disclosed a roughly $40 billion compute agreement wit
 ## Connections
 
 **Entities:** [[Anthropic]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-20-spacex-s-1-reveals-anthropic-will-pay-45b-for-colossus-compu]] · [[2026-05-21-spacex-s-1-reveals-45b-anthropic-compute-deal]] · [[2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract]] · [[2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029]] · [[2026-05-20-spacex-ipo-filing-reveals-anthropic-s-1-25b-month-compute-de]]
 <!-- graph:end -->

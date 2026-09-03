@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Goldman Sachs is marketing Nvidia's roughly $500B chip-backed financing program 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-14-nvidia-s-500b-compute-financing-platform-draws-private-credi]] · [[2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne]] · [[2026-08-14-nvidia-s-500-billion-compute-financing-platform-draws-privat]] · [[2026-08-10-nvidia-lines-up-500b-with-wall-street-giants-to-financialize]]
 <!-- graph:end -->

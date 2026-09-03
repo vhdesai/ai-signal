@@ -19,6 +19,7 @@ entities:
 - Google
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Anthropic's ARR has now surpassed $44B, growing 80x year over year and powered b
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-21-hot-anthropic-arr-reportedly-hits-30b-on-claude-opus-4-7]] · [[2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year]]
 <!-- graph:end -->

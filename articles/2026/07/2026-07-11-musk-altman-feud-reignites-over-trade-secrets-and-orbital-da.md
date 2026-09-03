@@ -17,7 +17,6 @@ entities:
 - Apple
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +37,6 @@ Musk called Altman's approach "scamming"; Altman countered that Musk is "selling
 ## Connections
 
 **Entities:** [[Apple]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial]] · [[2026-04-13-industry-news]] · [[2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu]]
 <!-- graph:end -->

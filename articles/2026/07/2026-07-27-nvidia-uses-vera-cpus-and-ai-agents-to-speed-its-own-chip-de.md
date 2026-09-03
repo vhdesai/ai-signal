@@ -17,7 +17,6 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-nvidia-deploys-vera-cpu-to-accelerate-chip-design-workflows
@@ -35,7 +34,7 @@ Nvidia is putting Vera CPUs to work alongside AI agents to accelerate chip desig
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-27-nvidia-deploys-vera-cpu-to-accelerate-chip-design-workflows]]
 **Related:** [[2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-up-its-own-chip]]
 <!-- graph:end -->

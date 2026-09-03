@@ -18,6 +18,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-20-anthropic-reverses-course-on-enterprise-data-retention-after
@@ -34,6 +35,6 @@ Anthropic plans to let enterprise customers exercise greater control over their 
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-20-anthropic-reverses-course-on-enterprise-data-retention-after]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 themes:
 - company-storylines
 - company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -35,6 +36,6 @@ DeepSeek's annualized revenue has reached ~$400–500M — its first disclosed f
 ## Connections
 
 **Entities:** [[DeepSeek]]
-**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-15-deepseek-nears-500m-revenue-and-prepares-for-public-market-p]]
 <!-- graph:end -->

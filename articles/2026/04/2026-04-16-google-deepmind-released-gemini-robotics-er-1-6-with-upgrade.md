@@ -19,6 +19,7 @@ entities:
 - Tesla
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Google DeepMind released Gemini Robotics ER 1.6 with upgraded spatial reasoning 
 ## Connections
 
 **Entities:** [[Google]] · [[NVIDIA]] · [[Tesla]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-30-google-deepmind-launches-gemini-robotics-2-for-multi-robot-h]] · [[2026-07-30-google-deepmind-debuts-gemini-robotics-2-for-humanoid-robots]] · [[2026-07-30-google-deepmind-unveils-gemini-robotics-2-with-whole-body-co]] · [[2026-08-03-google-deepmind-frames-gemini-robotics-2-as-a-step-toward-ph]] · [[2026-07-31-google-deepmind-releases-gemini-robotics-2-for-whole-body-hu]]
 <!-- graph:end -->

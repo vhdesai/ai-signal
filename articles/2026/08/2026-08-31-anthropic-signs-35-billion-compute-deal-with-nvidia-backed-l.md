@@ -19,6 +19,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Anthropic has agreed to rent roughly $35 billion of compute capacity from Lambda
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-09-01-anthropic-signs-35b-nvidia-backed-lambda-cloud-deal-in-texas]] · [[2026-09-01-anthropic-signs-35b-cloud-deal-with-nvidia-backed-lambda-for]] · [[2026-09-01-anthropic-signs-reported-35b-cloud-agreement-with-nvidia-bac]] · [[2026-08-31-anthropic-signs-a-35b-cloud-deal-with-nvidia-backed-lambda]]
 <!-- graph:end -->

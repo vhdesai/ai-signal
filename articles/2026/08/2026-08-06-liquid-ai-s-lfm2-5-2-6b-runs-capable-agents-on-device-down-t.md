@@ -16,7 +16,6 @@ tags:
 entities: []
 themes:
 - model-capabilities
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-liquid-ai-releases-lfm2-5-2-6b-a-powerful-model-that-runs-on
@@ -32,6 +31,6 @@ Liquid AI released LFM2.5-2.6B, a compact model it says delivers strong agentic 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
+**Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-08-06-liquid-ai-releases-lfm2-5-2-6b-a-powerful-model-that-runs-on]]
 <!-- graph:end -->

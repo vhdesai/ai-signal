@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Anysphere's Cursor released Cursor Mobile, an iOS app that lets developers spin 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you]] · [[2026-06-30-cursor-puts-agentic-coding-on-the-iphone]] · [[2026-06-30-anysphere-released-cursor-s-first-iphone-and-ipad-app-in-pub]] · [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]] · [[2026-08-14-spacex-completes-60b-all-stock-acquisition-of-cursor-maker-a]]
 <!-- graph:end -->

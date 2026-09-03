@@ -18,7 +18,9 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- ma-activity
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-sambanova-raises-1b-at-11b-valuation-jpmorgan-named-inferenc
@@ -35,6 +37,6 @@ AI chip maker SambaNova raised $1B at an $11B valuation in a first close of its 
 ## Connections
 
 **Entities:** [[Intel]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-08-sambanova-raises-1b-at-11b-valuation-jpmorgan-named-inferenc]]
 <!-- graph:end -->

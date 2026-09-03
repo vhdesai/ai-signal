@@ -19,6 +19,7 @@ entities:
 - Google
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Apple plans to use next month's WWDC to position 15 years of custom silicon as a
 ## Connections
 
 **Entities:** [[Apple]] · [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o]]
 <!-- graph:end -->

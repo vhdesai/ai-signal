@@ -18,6 +18,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- ma-activity
 - company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -35,6 +36,6 @@ Crunchbase data shows U.S. and Canadian startups raised a record $392 billion in
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Canonical:** [[2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco]]
 <!-- graph:end -->

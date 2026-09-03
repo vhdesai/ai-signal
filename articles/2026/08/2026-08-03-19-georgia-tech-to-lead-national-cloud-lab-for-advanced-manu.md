@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Backed by $18.1M from the NSF, Georgia Tech will lead a Programmable Cloud Labor
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-03-georgia-tech-to-lead-national-cloud-laboratory-for-advanced]] · [[2026-08-03-georgia-tech-to-lead-nsf-cloud-laboratory-for-autonomous-man]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c]] · [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi]]
 <!-- graph:end -->

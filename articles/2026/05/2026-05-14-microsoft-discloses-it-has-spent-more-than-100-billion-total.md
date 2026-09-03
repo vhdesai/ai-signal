@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Microsoft disclosed cumulative OpenAI spend now exceeds $100 billion across equi
 ## Connections
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]] · [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]]
 <!-- graph:end -->

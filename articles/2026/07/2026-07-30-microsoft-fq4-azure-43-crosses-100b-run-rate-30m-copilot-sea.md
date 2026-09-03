@@ -18,6 +18,7 @@ entities:
 - Microsoft
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Microsoft reported about $90.0B in revenue (+18%), with Azure and cloud up 43% a
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-29-microsoft-beats-on-fq4-as-azure-grows-43-shares-jump-8]] · [[2026-07-30-microsoft-s-azure-tops-100b-as-fiscal-q4-beat-rewards-capex]] · [[2026-07-30-microsoft-profit-jumps-31-as-azure-growth-accelerates-and-co]] · [[2026-07-30-microsoft-q4-blowout-profit-jumps-31-cloud-posts-fastest-gro]] · [[2026-07-29-microsoft-s-fiscal-q4-beat-lifts-shares-8-as-it-raises-ai-dr]]
 <!-- graph:end -->

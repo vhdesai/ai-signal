@@ -28,6 +28,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -49,7 +50,7 @@ Huawei projects its AI chip revenue will climb 60% to approximately $12 billion 
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[ByteDance]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[NVIDIA]] · [[OpenAI]] · [[Tencent]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red]]
 **Related:** [[2026-05-01-trending-huawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-r]] · [[2026-05-01-trendinghuawei-eyes-12b-ai-chip-revenue-as-deepseek-v4-drive]] · [[2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim]] · [[2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev]]
 <!-- graph:end -->

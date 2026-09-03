@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-terawulf-announces-anthropic-lease-at-justified-data-campus
@@ -33,6 +34,6 @@ TeraWulf (Nasdaq: WULF) announced a long-term lease with Anthropic at its "Justi
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-06-terawulf-announces-anthropic-lease-at-justified-data-campus]]
 <!-- graph:end -->

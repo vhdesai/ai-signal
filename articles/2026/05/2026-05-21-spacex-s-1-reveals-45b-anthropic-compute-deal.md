@@ -18,6 +18,7 @@ entities:
 themes:
 - company-storylines
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ SpaceX's IPO filing disclosed that Anthropic has committed to pay $1.25B per mon
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract]] · [[2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029]] · [[2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex]]
 <!-- graph:end -->

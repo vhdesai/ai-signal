@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ WSJ Wealth Adviser reports that cybersecurity dealmaking surged in the first hal
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]] · [[2026-06-08-software-m-a-deals-hit-covid-era-lows-amid-ai-disruption]] · [[2026-08-17-arm-cfo-eyes-acquisitions-as-ai-chip-revenue-soars-supply-co]] · [[2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a]]
 <!-- graph:end -->

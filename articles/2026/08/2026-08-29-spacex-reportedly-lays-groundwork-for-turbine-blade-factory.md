@@ -17,7 +17,6 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-29-spacex-moves-to-build-turbine-blade-manufacturing-to-unlock
@@ -33,6 +32,6 @@ The Information reported that SpaceX is laying groundwork for a turbine-blade fa
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-08-29-spacex-moves-to-build-turbine-blade-manufacturing-to-unlock]]
 <!-- graph:end -->

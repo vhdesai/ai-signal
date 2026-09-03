@@ -17,7 +17,6 @@ entities:
 - OpenAI
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +37,6 @@ OpenAI rolled out a health feature for U.S. ChatGPT users that lets them connect
 ## Connections
 
 **Entities:** [[Apple]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-23-openai-chatgpt-health-now-available-to-all-u-s-adults-with-a]] · [[2026-09-01-openai-connects-chatgpt-to-epic-electronic-health-records]] · [[2026-09-01-chatgpt-health-integrates-with-epic-reaching-records-for-325]] · [[2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos]]
 <!-- graph:end -->

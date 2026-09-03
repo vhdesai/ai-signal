@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -31,6 +32,6 @@ XPENG's robotics business announced share purchase agreements to raise more than
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi]]
 <!-- graph:end -->

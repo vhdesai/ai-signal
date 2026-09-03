@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - model-capabilities
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ Publication Newsletter Sources *Additional coverage from newsletter subscription
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]]
 **Related:** [[2026-06-04-daily-ai-news-digest-23-items-coverage-window-june-3-06-00-p]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]] · [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2]]
 <!-- graph:end -->

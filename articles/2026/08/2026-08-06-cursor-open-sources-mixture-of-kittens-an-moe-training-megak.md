@@ -19,7 +19,6 @@ entities:
 - Scale AI
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +39,6 @@ Cursor open-sourced Mixture-of-Kittens (MoK), a production Mixture-of-Experts tr
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[Scale AI]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-08-04-cursor-open-sources-mixture-of-kittens-a-deterministic-moe-t]] · [[2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement]]
 <!-- graph:end -->

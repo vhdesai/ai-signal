@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - model-capabilities
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Asana introduced AI agents that share memory across an organization while enforc
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[M&A Activity]]
 **Related:** [[2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]]
 <!-- graph:end -->

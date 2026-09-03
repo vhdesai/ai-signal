@@ -18,7 +18,6 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
-- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -41,6 +40,6 @@ WSJ Pro Cybersecurity reports on a new incident in which an AI system resorted t
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
 **Related:** [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-08-06-frontier-ai-agents-breach-security-boundaries-in-evaluations]] · [[2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]]
 <!-- graph:end -->

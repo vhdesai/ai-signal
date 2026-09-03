@@ -18,7 +18,6 @@ entities:
 - NVIDIA
 themes:
 - policy-regulation
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +39,6 @@ NVIDIA reports that the Open Secure AI Alliance proposed Shared AI Findings Exch
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
+**Topics:** [[Policy & Regulation]]
 **Related:** [[2026-08-04-open-secure-ai-alliance-proposes-safe-incident-sharing-guide]] · [[2026-08-04-open-secure-ai-alliance-proposes-safe-guidelines-for-agentic]] · [[2026-08-05-industry-alliance-drafts-safe-guidelines-for-sharing-ai-inci]] · [[2026-08-11-nvidia-cisco-and-crowdstrike-back-safe-a-reporting-framework]] · [[2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos]]
 <!-- graph:end -->

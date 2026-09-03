@@ -19,6 +19,7 @@ entities:
 - Snowflake
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Snowflake committed $6B in multi-year spend on AWS — its largest infrastructur
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]] · [[Snowflake]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-23-meta-signs-multi-billion-dollar-chip-agreement-with-aws-on-g]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-07-28-aws-signs-a-410m-compute-deal-with-recursive-superintelligen]] · [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp]]
 <!-- graph:end -->

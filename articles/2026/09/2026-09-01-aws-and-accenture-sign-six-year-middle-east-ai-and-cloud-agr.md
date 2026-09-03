@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ AWS and Accenture entered a six-year agreement to accelerate cloud, data moderni
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-07-28-aws-and-newforma-enter-a-7-year-strategic-collaboration]] · [[2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap]] · [[2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise]] · [[2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc]] · [[2026-04-27-]]
 <!-- graph:end -->

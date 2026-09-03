@@ -35,6 +35,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- ma-activity
 - company-investments
 - infrastructure-investments
 cross_cutting_topics:
@@ -59,6 +60,6 @@ Good morning. The past 24 hours close out what is shaping up to be the most cons
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Cerebras]] · [[Cohere]] · [[Databricks]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Salesforce]] · [[SAP]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-22-efficient-new-models-and-mega-deals-collide-with-mounting-sa]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-05-17-google-i-o-2026-may-19-20-expected-gemini-3-x-updates-google]] · [[2026-05-17-microsoft-corp-dev-ai-intelligence]] · [[2026-08-14-daily-ai-news-digest-august-15-2026]]
 <!-- graph:end -->

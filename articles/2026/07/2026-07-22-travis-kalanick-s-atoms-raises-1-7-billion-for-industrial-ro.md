@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- ma-activity
 - company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -37,6 +38,6 @@ TechCrunch reports that Travis Kalanick's robotics company Atoms raised $1.7 bil
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-post-money-valuati]] · [[2026-06-11-jeff-bezos-s-prometheus-raises-12b-largest-ai-startup-round]] · [[2026-08-13-databricks-hits-7b-arr-reveals-5b-round-details-after-15b-of]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]]
 <!-- graph:end -->

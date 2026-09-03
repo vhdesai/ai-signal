@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Stepped back from the revenue-sharing program on antitrust grounds <2 months aft
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-28-nvidia-36b-ai-compute-partnership-paused-company-disputes-ch]] · [[2026-08-28-nvidia-pauses-ai-cloud-revenue-sharing-deals-amid-antitrust]] · [[2026-08-27-nvidia-pauses-revenue-sharing-deals-with-ai-cloud-providers]]
 <!-- graph:end -->

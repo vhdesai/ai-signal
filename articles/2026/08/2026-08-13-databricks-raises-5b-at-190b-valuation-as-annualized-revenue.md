@@ -17,6 +17,7 @@ entities:
 - Databricks
 themes:
 - company-storylines
+- ma-activity
 - company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -34,6 +35,6 @@ Databricks closed a $5 billion round at a $190 billion valuation led by Coatue, 
 ## Connections
 
 **Entities:** [[Databricks]]
-**Topics:** [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Canonical:** [[2026-08-13-databricks-hits-7b-arr-reveals-5b-round-details-after-15b-of]]
 <!-- graph:end -->

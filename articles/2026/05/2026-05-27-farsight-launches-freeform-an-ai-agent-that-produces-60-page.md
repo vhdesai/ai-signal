@@ -16,6 +16,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Investment-banking-tooling vendor Farsight launched Freeform, an autonomous agen
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope]] · [[2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for]] · [[2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta]] · [[2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del]]
 <!-- graph:end -->

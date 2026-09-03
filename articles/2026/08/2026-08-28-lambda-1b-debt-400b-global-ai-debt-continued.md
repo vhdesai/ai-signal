@@ -22,6 +22,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- ma-activity
 - company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -44,6 +45,6 @@ Lambda's $1B private debt for Nvidia chips leased to Microsoft — atop $1.9B in
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-08-28-lambda-1b-debt-global-ai-debt-crosses-400b-continued]] · [[2026-08-28-lambda-secures-1b-in-debt-to-buy-nvidia-chips-for-microsoft]] · [[2026-08-28-neocloud-lambda-secures-1b-in-debt-to-buy-nvidia-chips-for-m]] · [[2026-08-28-lambda-secures-1-billion-in-private-debt-to-buy-more-nvidia]] · [[2026-08-28-neocloud-lambda-raises-1b-in-private-debt-to-buy-nvidia-chip]]
 <!-- graph:end -->

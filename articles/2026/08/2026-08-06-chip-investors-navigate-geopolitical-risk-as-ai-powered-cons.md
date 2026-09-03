@@ -21,6 +21,7 @@ entities:
 - Snowflake
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -43,6 +44,6 @@ The WSJ Wealth Adviser briefing examines how semiconductor investors are navigat
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Meta]] · [[Snowflake]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-08-18-wsj-deep-dive-trump-s-privateer-hacking-plan-brings-high-ris]] · [[2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]]
 <!-- graph:end -->

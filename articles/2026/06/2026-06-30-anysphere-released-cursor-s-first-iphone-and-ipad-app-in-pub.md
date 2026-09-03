@@ -16,6 +16,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Anysphere released Cursor's first iPhone and iPad app in public beta across all 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you]] · [[2026-06-30-cursor-puts-agentic-coding-on-the-iphone]] · [[2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le]] · [[2026-08-14-spacex-completes-60b-all-stock-acquisition-of-cursor-maker-a]] · [[2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere]]
 <!-- graph:end -->

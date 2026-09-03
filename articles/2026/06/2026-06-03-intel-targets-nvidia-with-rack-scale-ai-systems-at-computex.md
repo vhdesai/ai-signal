@@ -19,7 +19,6 @@ entities:
 - Scale AI
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +40,6 @@ Intel introduced rack-scale AI infrastructure for agentic and inference workload
 ## Connections
 
 **Entities:** [[Intel]] · [[NVIDIA]] · [[Scale AI]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-to-challenge-nvidia]] · [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-at-advancing-ai-2026]] · [[2026-07-23-amd-takes-on-nvidia-with-helios-rack-scale-ai-system]] · [[2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-its-own-chip-de]] · [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu]]
 <!-- graph:end -->

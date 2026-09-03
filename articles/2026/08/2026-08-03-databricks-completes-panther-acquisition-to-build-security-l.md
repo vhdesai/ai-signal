@@ -16,6 +16,7 @@ entities:
 - Databricks
 themes:
 - policy-regulation
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Databricks announced completion of its acquisition of Panther, an AI-native secu
 ## Connections
 
 **Entities:** [[Databricks]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[M&A Activity]]
 **Related:** [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil]] · [[2026-07-17-databricks-reaches-188-billion-valuation-as-ai-infrastructur]] · [[2026-08-14-weekly-funding-concentrates-in-data-ai-infrastructure-defens]]
 <!-- graph:end -->

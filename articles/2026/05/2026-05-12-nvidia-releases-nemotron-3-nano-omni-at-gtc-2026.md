@@ -18,7 +18,6 @@ entities:
 - SAP
 themes:
 - model-capabilities
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +39,6 @@ NVIDIA released Nemotron 3 Nano Omni, a unified multimodal reasoning model, alon
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[SAP]]
-**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack]] · [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]] · [[2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o]]
 <!-- graph:end -->

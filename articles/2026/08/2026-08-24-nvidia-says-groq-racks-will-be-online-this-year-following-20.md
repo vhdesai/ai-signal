@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- ma-activity
 - infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -36,6 +37,6 @@ Systems built on Groq’s inference silicon will reach customers before year-end
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti]] · [[2026-06-23-groq-confirms-650m-funding-round]]
 <!-- graph:end -->

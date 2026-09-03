@@ -18,7 +18,6 @@ entities:
 - xAI
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +38,6 @@ Elon Musk says a new SpaceX foundry will cast gas turbine blades in-house and br
 ## Connections
 
 **Entities:** [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-compute-carries-en]] · [[2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-power-carries-a-po]] · [[2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-compute-carries-a]] · [[2026-08-29-spacex-moves-to-build-turbine-blade-manufacturing-to-unlock]]
 <!-- graph:end -->

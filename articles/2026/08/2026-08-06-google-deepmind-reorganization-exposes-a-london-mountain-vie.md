@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st
@@ -34,6 +35,6 @@ Google's AI reorganization — with Demis Hassabis moving away from day-to-day o
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]]
 **Canonical:** [[2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st]]
 <!-- graph:end -->

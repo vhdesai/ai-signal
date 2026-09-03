@@ -18,7 +18,6 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +38,6 @@ Among 61 accepted research papers at CAIS 2026, the standout contribution is "op
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
 **Related:** [[2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge]] · [[2026-05-10-uc-berkeley-optany-one-unified-llm-optimizer-beats-specializ]] · [[2026-05-15-researchers-from-uc-berkeley-mit-and-ut-austin-published-opt]] · [[2026-05-14-a-joint-team-from-uc-berkeley-and-mit-published-optany-optim]] · [[event-acm-cais-2026-acm-cais-2026-optany-optimize-anything]]
 <!-- graph:end -->

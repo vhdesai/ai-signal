@@ -18,6 +18,7 @@ entities:
 - TSMC
 themes:
 - company-storylines
+- ma-activity
 - infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -35,6 +36,6 @@ TSMC reported a ~45% year-over-year jump in July revenue, reinforcing that AI ac
 ## Connections
 
 **Entities:** [[Google]] · [[NVIDIA]] · [[TSMC]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman]]
 <!-- graph:end -->

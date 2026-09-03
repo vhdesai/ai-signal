@@ -20,6 +20,7 @@ entities:
 - Snowflake
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ Salesforce put Agentforce front and center in its enterprise messaging, while Sn
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Salesforce]] · [[Snowflake]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin]] · [[2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps]] · [[2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin]] · [[2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma]] · [[2026-05-27-snowflake-signs-6b-five-year-deal-with-aws-for-graviton-gpu]]
 <!-- graph:end -->

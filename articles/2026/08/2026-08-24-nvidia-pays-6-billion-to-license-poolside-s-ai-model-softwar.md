@@ -18,6 +18,8 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- ma-activity
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-24-nvidia-pays-6-billion-to-license-poolside-s-ai-model-factory
@@ -34,6 +36,6 @@ Nvidia agreed to pay $6 billion to license Poolside's "Model Factory" model-buil
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-24-nvidia-pays-6-billion-to-license-poolside-s-ai-model-factory]]
 <!-- graph:end -->

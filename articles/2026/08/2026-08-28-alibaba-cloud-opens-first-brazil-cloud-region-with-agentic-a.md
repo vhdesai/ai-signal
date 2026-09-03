@@ -17,7 +17,6 @@ entities:
 - Alibaba
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +38,6 @@ Alibaba Cloud launched two São Paulo data centers forming its first cloud regio
 ## Connections
 
 **Entities:** [[Alibaba]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
 **Related:** [[2026-08-28-alibaba-cloud-opens-first-brazil-region-with-agentic-ai-serv]] · [[2026-08-28-alibaba-cloud-opens-its-first-brazilian-region-as-cloud-riva]] · [[2026-08-28-alibaba-cloud-opens-its-first-brazilian-region]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]]
 <!-- graph:end -->

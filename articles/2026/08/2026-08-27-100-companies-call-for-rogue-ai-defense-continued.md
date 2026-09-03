@@ -22,6 +22,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- ma-activity
 - infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -42,6 +43,6 @@ event_name: ''
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
+**Topics:** [[Policy & Regulation]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-27-100-companies-rogue-ai-defense-letter-17-hacking-incidents-c]] · [[2026-08-27-openai-anthropic-google-and-100-firms-call-for-action-agains]] · [[2026-08-27-over-100-companies-including-openai-anthropic-google-and-mic]]
 <!-- graph:end -->

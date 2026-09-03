@@ -18,6 +18,7 @@ entities:
 themes:
 - company-storylines
 - ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-nvidia-to-pay-poolside-6b-for-a-non-exclusive-license-and-hi
@@ -35,7 +36,7 @@ Nvidia agreed to pay roughly $6B under a non-exclusive technology licence with A
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[M&A Activity]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Canonical:** [[2026-08-21-nvidia-to-pay-poolside-6b-for-a-non-exclusive-license-and-hi]]
 **Related:** [[2026-08-24-nvidia-pays-6-billion-to-license-poolside-s-ai-model-factory]]
 <!-- graph:end -->

@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -36,6 +37,6 @@ South Korean AI-chip designer DeepX raised new capital at roughly four times its
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]] · [[2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45]] · [[2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]]
 <!-- graph:end -->

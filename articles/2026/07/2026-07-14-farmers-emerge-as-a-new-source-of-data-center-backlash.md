@@ -16,7 +16,6 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +36,6 @@ Growers, ranchers, and companies are warning about too much farmland being used 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]] · [[2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]]
 <!-- graph:end -->

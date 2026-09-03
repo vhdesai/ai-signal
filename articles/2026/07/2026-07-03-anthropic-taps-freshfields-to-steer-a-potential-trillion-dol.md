@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- ma-activity
 - company-investments
 cross_cutting_topics:
 - china-compete
@@ -42,6 +43,6 @@ Anthropic's bankers have retained UK law firm Freshfields — the adviser on Goo
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest]] · [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]] · [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]]
 <!-- graph:end -->

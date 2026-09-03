@@ -17,6 +17,7 @@ entities: []
 themes:
 - company-storylines
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Lithuanian web-data and scraping-infrastructure company Oxylabs raised $130 mill
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-09-web-data-infrastructure-firm-oxylabs-hits-3-6b-valuation-in]] · [[2026-07-10-oxylabs-raises-130m-from-warburg-pincus-at-a-3-6b-valuation]] · [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu]] · [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
 <!-- graph:end -->

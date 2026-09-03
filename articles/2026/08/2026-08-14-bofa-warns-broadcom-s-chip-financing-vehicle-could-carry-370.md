@@ -16,6 +16,7 @@ entities:
 - AMD
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Bank of America's Tom Curcuruto estimated Broadcom's chip-financing vehicle coul
 ## Connections
 
 **Entities:** [[AMD]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70b-in-debt-for-ai-chip]] · [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a]] · [[2026-08-21-broadcom-seeks-up-to-80-billion-in-debt-for-an-ai-chip-finan]] · [[2026-08-21-broadcom-seeks-60-80b-in-debt-to-build-ai-chip-capacity-for]] · [[2026-08-21-u-s-ai-related-debt-issuance-hits-220b-as-bond-investors-pus]]
 <!-- graph:end -->

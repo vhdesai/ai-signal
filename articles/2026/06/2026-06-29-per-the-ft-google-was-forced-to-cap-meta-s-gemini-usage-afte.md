@@ -19,7 +19,6 @@ entities:
 - Meta
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-29-google-capped-meta-s-gemini-usage-as-the-compute-crunch-hits
@@ -36,6 +35,6 @@ Per the FT, Google was forced to cap Meta's Gemini usage after Meta exceeded its
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-06-29-google-capped-meta-s-gemini-usage-as-the-compute-crunch-hits]]
 <!-- graph:end -->

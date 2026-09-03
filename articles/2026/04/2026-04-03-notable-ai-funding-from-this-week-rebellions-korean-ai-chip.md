@@ -19,6 +19,7 @@ themes:
 - company-storylines
 - ma-activity
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Notable AI funding from this week: Rebellions (Korean AI chip) raised $400M pre-
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]] · [[2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400]] · [[2026-08-21-nvidia-in-talks-with-korean-inference-chip-designer-rebellio]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-08-03-south-korea-s-deepx-valuation-surges-to-2-2b-in-fresh-fundin]]
 <!-- graph:end -->

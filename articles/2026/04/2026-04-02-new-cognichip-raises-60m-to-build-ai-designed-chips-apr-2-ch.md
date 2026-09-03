@@ -17,6 +17,7 @@ entities: []
 themes:
 - datacenter-infrastructure
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-04-02-cognichip-a-startup-building-ai-systems-that-design-semicond
@@ -32,6 +33,6 @@ event_name: ''
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-04-02-cognichip-a-startup-building-ai-systems-that-design-semicond]]
 <!-- graph:end -->

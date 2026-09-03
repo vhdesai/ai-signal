@@ -16,7 +16,6 @@ entities:
 - Palantir
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +37,6 @@ Palantir CEO Alex Karp publicly argued that "SaaS is dead" in the supply-chain c
 ## Connections
 
 **Entities:** [[Palantir]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s]] · [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]] · [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments]] · [[2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio]] · [[2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model]]
 <!-- graph:end -->

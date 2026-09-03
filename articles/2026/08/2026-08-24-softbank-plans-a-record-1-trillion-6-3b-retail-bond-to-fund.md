@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ SoftBank is preparing what would be Japan’s largest retail bond ever — rough
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-26-softbank-weighs-a-10-20b-bond-sale-to-refinance-its-openai-p]] · [[2026-08-24-softbank-plans-record-retail-bond-issuance-amid-ai-push]] · [[2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new]] · [[2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake]]
 <!-- graph:end -->

@@ -20,7 +20,6 @@ entities:
 - Oracle
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +41,6 @@ Nvidia confirmed that SpaceXAI, Oracle Cloud Infrastructure, Anthropic, and Open
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-21-nvidia-details-vera-cpu-for-ai-agent-workloads]] · [[2026-06-01-nvidia-unveils-vera-cpu-an-agent-native-processor-for-window]] · [[2026-07-21-nvidia-details-vera-cpu-opening-a-new-front-against-amd-and]] · [[2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-its-own-chip-de]] · [[2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-up-its-own-chip]]
 <!-- graph:end -->

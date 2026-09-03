@@ -18,7 +18,6 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super
@@ -35,6 +34,6 @@ At GTC Taipei, Nvidia introduced the RTX Spark superchip—1 petaflop of AI comp
 ## Connections
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]]
 <!-- graph:end -->

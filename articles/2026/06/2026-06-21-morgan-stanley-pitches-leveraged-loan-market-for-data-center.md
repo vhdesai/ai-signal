@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- ma-activity
 - infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -37,6 +38,6 @@ Morgan Stanley is pitching data center developer clients on tapping the leverage
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su]] · [[2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs]] · [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]]
 <!-- graph:end -->

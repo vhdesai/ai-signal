@@ -17,6 +17,7 @@ entities:
 - Google
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Google expanded Gemini Spark globally and added a Chrome "auto browse" capabilit
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-07-30-google-expands-gemini-spark-globally-adds-chrome-auto-browse]] · [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]] · [[2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i]] · [[2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u]]
 <!-- graph:end -->

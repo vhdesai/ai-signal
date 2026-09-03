@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ AI cloud provider Lambda raised $1 billion in private, short-dated debt to buy N
 ## Connections
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-28-neocloud-lambda-raises-1b-in-private-debt-to-buy-nvidia-chip]] · [[2026-08-28-lambda-1b-debt-400b-global-ai-debt-continued]]
 <!-- graph:end -->

@@ -22,6 +22,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- ma-activity
 - infrastructure-investments
 cross_cutting_topics:
 - china-compete
@@ -45,6 +46,6 @@ Executive Takeaways Nvidia’s $279B supply-chain gamble is now public. Record q
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-08-17-daily-ai-news-digest-august-18-2026]] · [[2026-08-28-nvidia-warns-of-supply-constraints-enterprises-bet-on-agents]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]]
 <!-- graph:end -->

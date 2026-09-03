@@ -24,6 +24,7 @@ entities:
 - Palantir
 themes:
 - policy-regulation
+- ma-activity
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -46,6 +47,6 @@ Analysis details the EU Digital Omnibus on AI (Regulation 2026/1744), which ente
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]] · [[Palantir]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[M&A Activity]] · [[Global AI Race]]
 **Related:** [[2026-08-05-eu-digital-omnibus-on-ai-delays-key-ai-act-deadlines-and-add]] · [[2026-07-30-eu-delays-high-risk-ai-act-deadlines-and-bans-non-consensual]] · [[2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m]] · [[2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica]] · [[2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin]]
 <!-- graph:end -->

@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ TechCrunch analyzes $26B+ in open-weight deals in three weeks: Nvidia–Hugging 
 ## Connections
 
 **Entities:** [[Google]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-28-open-weight-ai-companies-become-major-acquisition-targets]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-08-17-the-nvidia-paradox-selling-upgrades-while-positioning-gpus-a]] · [[2026-08-12-meta-and-nvidia-plant-very-firm-flag-in-open-weight-ai-race]]
 <!-- graph:end -->

@@ -16,7 +16,6 @@ tags:
 entities: []
 themes:
 - policy-regulation
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-08-new-york-legislature-passes-landmark-ai-generated-news-discl
@@ -32,6 +31,6 @@ York's legislature passed a bill requiring disclosure when news content is gener
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
+**Topics:** [[Policy & Regulation]]
 **Canonical:** [[2026-06-08-new-york-legislature-passes-landmark-ai-generated-news-discl]]
 <!-- graph:end -->

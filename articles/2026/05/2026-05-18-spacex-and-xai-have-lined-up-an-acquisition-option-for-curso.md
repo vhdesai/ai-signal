@@ -20,6 +20,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ SpaceX and xAI have lined up an acquisition option for Cursor (Anysphere), value
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[xAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-14-spacex-xai-completes-acquisition-of-cursor-at-a-reported-60b]] · [[2026-08-14-spacex-completes-60b-all-stock-acquisition-of-cursor-maker-a]] · [[2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere]] · [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]]
 <!-- graph:end -->

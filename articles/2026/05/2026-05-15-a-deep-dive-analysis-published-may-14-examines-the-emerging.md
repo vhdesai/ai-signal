@@ -17,6 +17,7 @@ entities: []
 themes:
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ A deep-dive analysis published May 14 examines the emerging reality of AI system
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]] · [[2026-05-14-adaption-unveils-autoscientist-for-automated-model-training]] · [[2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate]]
 <!-- graph:end -->

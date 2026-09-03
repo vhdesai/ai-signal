@@ -17,6 +17,7 @@ entities:
 - Google
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-05-google-in-advanced-talks-for-a-1-5b-deal-with-ai-coding-star
@@ -33,6 +34,6 @@ Google is reportedly negotiating a deal worth more than $1.5 billion to license 
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-05-google-in-advanced-talks-for-a-1-5b-deal-with-ai-coding-star]]
 <!-- graph:end -->

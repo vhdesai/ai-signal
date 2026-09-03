@@ -19,7 +19,6 @@ entities:
 - Mistral
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +40,6 @@ WSJ reports that Microsoft is deepening its relationship with Mistral, with a fo
 ## Connections
 
 **Entities:** [[Microsoft]] · [[Mistral]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-21-microsoft-and-mistral-expand-partnership-for-regulated-indus]] · [[2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e]] · [[2026-08-12-mistral-commits-to-in-region-inference-and-up-to-1-gw-of-eur]] · [[2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]]
 <!-- graph:end -->

@@ -19,7 +19,6 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-21-nvidia-details-vera-cpu-opening-a-new-front-against-amd-and
@@ -39,7 +38,7 @@ Nvidia released new technical specs for Vera, its next-gen data-center CPU that 
 ## Connections
 
 **Entities:** [[AMD]] · [[Intel]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-07-21-nvidia-details-vera-cpu-opening-a-new-front-against-amd-and]]
 **Related:** [[2026-07-21-nvidia-details-vera-cpu-for-ai-agent-workloads]] · [[2026-07-27-nvidia-deploys-vera-cpu-to-accelerate-chip-design-workflows]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]]
 <!-- graph:end -->

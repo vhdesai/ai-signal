@@ -16,6 +16,7 @@ entities:
 - Amazon
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-28-aws-signs-a-410m-compute-deal-with-recursive-superintelligen
@@ -32,6 +33,6 @@ Recursive Superintelligence signed a $410 million multiyear compute deal with Am
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-28-aws-signs-a-410m-compute-deal-with-recursive-superintelligen]]
 <!-- graph:end -->

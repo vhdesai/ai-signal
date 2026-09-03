@@ -16,7 +16,6 @@ tags: []
 entities: []
 themes:
 - model-capabilities
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +36,6 @@ MIT researchers developed a new AI model that measures atomic-scale defects in m
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-08-26-mit-ai-helps-design-new-materials-that-work-in-the-real-worl]] · [[2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d]] · [[2026-08-26-mit-s-crysvcd-designs-ai-generated-materials-that-are-actual]]
 <!-- graph:end -->

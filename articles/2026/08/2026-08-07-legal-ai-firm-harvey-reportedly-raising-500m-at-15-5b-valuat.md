@@ -17,6 +17,7 @@ entities: []
 themes:
 - datacenter-infrastructure
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Harvey, which builds AI software for law firms and in-house legal teams, is repo
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu]] · [[2026-08-08-harvey-in-talks-for-500m-at-a-15-5b-valuation]] · [[2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation]] · [[2026-05-27-mistral-and-harvey-expand-legal-ai-partnership]] · [[2026-07-09-legal-ai-startup-norm-ai-hits-a-1-2b-valuation-with-a-120m-s]]
 <!-- graph:end -->

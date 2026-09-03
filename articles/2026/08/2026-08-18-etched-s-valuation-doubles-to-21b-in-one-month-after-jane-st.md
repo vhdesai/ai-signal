@@ -18,6 +18,7 @@ themes:
 - datacenter-infrastructure
 - company-storylines
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ AI chip startup Etched raised $700M at a $21B valuation led by Jane Street — d
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-18-ai-chip-startup-etched-doubles-valuation-to-21-billion-in-un]] · [[2026-07-23-etched-reaches-10-3-billion-valuation-for-inference-focused]] · [[2026-07-19-ai-chip-startup-etched-reportedly-in-talks-for-a-20b-valuati]] · [[2026-07-17-ai-chip-startup-etched-reportedly-in-talks-at-20-billion-val]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere
@@ -33,6 +34,6 @@ SpaceX has closed its acquisition of Anysphere's Cursor, which will operate insi
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere]]
 <!-- graph:end -->

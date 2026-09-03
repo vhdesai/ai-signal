@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-23-hugging-face-explores-a-sale-at-13b-nearly-triple-its-2023-v
@@ -30,6 +31,6 @@ Hugging Face is exploring a sale valuing the open model repository at $13B+ and 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-23-hugging-face-explores-a-sale-at-13b-nearly-triple-its-2023-v]]
 <!-- graph:end -->

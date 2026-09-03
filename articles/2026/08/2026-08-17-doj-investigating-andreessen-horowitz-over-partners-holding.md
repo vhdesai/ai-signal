@@ -17,6 +17,7 @@ entities:
 - Databricks
 themes:
 - company-storylines
+- ma-activity
 - company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -34,6 +35,6 @@ The Justice Department has spent nearly a year examining whether a16z partners v
 ## Connections
 
 **Entities:** [[Databricks]]
-**Topics:** [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Canonical:** [[2026-08-17-doj-investigating-a16z-over-board-seats-at-competing-ai-data]]
 <!-- graph:end -->

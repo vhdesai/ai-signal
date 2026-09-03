@@ -18,7 +18,6 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +36,6 @@ Several of Nvidia's largest customers have been told that prices for servers con
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs]] · [[2026-08-22-nvidia-customers-reportedly-warned-about-ai-related-price-hi]]
 <!-- graph:end -->

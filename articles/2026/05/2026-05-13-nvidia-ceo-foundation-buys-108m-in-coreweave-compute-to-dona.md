@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-13-huang-foundation-buys-108m-of-coreweave-compute-donates-it-t
@@ -34,6 +35,6 @@ The Jensen and Lori Huang Foundation disclosed it is purchasing $108M of compute
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-13-huang-foundation-buys-108m-of-coreweave-compute-donates-it-t]]
 <!-- graph:end -->

@@ -16,7 +16,6 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +37,6 @@ Doosan Robotics is integrating Nvidia Isaac, Cosmos world-foundation models, and
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-07-15-nvidia-introduces-jetson-thor-t3000-t2000-for-mainstream-rob]] · [[2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-08-25-nvidia-unveils-jetson-orin-nano-2-for-entry-level-edge-ai-an]] · [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]]
 <!-- graph:end -->

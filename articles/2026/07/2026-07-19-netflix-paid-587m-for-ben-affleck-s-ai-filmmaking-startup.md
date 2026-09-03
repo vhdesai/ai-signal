@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ A new Netflix regulatory filing revealed it paid $587 million in cash for InterP
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-05-global-startup-funding-doubled-year-over-year-to-56b-in-apri]] · [[2026-08-09-situational-awareness-puts-400m-into-chip-startup-source-fou]] · [[2026-06-27-a24-s-75m-google-deepmind-ai-research-partnership-sparks-cre]] · [[2026-08-25-stability-ai-raises-76m-from-universal-music-sony-warner-and]]
 <!-- graph:end -->

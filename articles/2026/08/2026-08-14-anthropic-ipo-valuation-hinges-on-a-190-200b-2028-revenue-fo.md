@@ -18,6 +18,7 @@ entities:
 themes:
 - company-storylines
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast
@@ -34,6 +35,6 @@ Anthropic is projecting roughly $190–200 billion in annual revenue by 2028, a 
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast]]
 <!-- graph:end -->

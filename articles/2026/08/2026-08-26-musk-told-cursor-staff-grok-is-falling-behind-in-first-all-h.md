@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ In his first address after the $60B Cursor acquisition closed, Musk said SpaceXA
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-26-the-information-musk-told-cursor-staff-grok-is-falling-behin]] · [[2026-08-24-cursor-enters-musk-era-after-60b-spacex-acquisition]] · [[2026-08-15-spacex-closes-60b-all-stock-acquisition-of-cursor]]
 <!-- graph:end -->

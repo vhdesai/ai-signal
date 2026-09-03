@@ -16,7 +16,6 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions
@@ -32,6 +31,6 @@ More than 500 US towns and counties now block or restrict new data-center develo
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions]]
 <!-- graph:end -->

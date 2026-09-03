@@ -20,6 +20,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- ma-activity
 - company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -42,6 +43,6 @@ It was a quiet summer weekend for AI: the major labs' newsrooms stayed dark afte
 ## Connections
 
 **Entities:** [[Apple]] · [[Meta]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-07-11-daily-ai-news-digest-july-12-2026]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le]] · [[2026-07-12-july-13-2026]] · [[2026-07-03-the-economics-and-governance-of-ai-took-center-stage]]
 <!-- graph:end -->

@@ -18,7 +18,6 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +37,6 @@ Anthropic will let enterprise customers store the mandated 30-day retention data
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
+**Topics:** [[Policy & Regulation]]
 **Related:** [[2026-08-20-anthropic-reverses-course-on-enterprise-data-retention-after]] · [[2026-09-01-anthropic-debuts-enterprise-frontier-safeguards-with-zero-da]] · [[2026-09-01-anthropic-introduces-enterprise-frontier-safeguards-with-cus]]
 <!-- graph:end -->

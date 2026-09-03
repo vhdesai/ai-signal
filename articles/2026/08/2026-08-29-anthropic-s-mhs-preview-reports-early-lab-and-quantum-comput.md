@@ -17,7 +17,6 @@ entities:
 - Anthropic
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +35,6 @@ Anthropic said early MHS partners used the standard to automate scientific and m
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta]] · [[2026-08-31-anthropic-s-model-hardware-standard-draws-enterprise-scrutin]]
 <!-- graph:end -->

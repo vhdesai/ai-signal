@@ -18,7 +18,6 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +38,6 @@ Nvidia’s largest customers have been notified of 15%+ price increases on AI se
 ## Connections
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-08-22-nvidia-warns-large-customers-of-15-price-increases-on-ai-ser]] · [[2026-08-22-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s]] · [[2026-08-23-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s]] · [[2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d]]
 <!-- graph:end -->

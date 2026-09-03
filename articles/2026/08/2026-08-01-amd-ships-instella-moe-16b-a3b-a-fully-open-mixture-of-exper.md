@@ -18,7 +18,6 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-01-amd-releases-instella-moe-16b-a3b-a-fully-open-moe-model-tra
@@ -35,6 +34,6 @@ AMD released Instella-MoE-16B-A3B, a fully open Mixture-of-Experts language mode
 ## Connections
 
 **Entities:** [[AMD]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
 **Canonical:** [[2026-08-01-amd-releases-instella-moe-16b-a3b-a-fully-open-moe-model-tra]]
 <!-- graph:end -->

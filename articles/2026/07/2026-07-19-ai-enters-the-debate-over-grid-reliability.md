@@ -17,7 +17,6 @@ tags:
 entities: []
 themes:
 - policy-regulation
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +37,6 @@ WSJ published an opinion article arguing that AI can be a fast track to grid rel
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
+**Topics:** [[Policy & Regulation]]
 **Related:** [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-07-20-massive-ai-supply-deals-face-execution-risk]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-07-28-data-centers-may-face-temporary-power-cuts-on-the-largest-us]]
 <!-- graph:end -->

@@ -19,7 +19,6 @@ entities:
 - Microsoft
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +39,6 @@ Scout is the first “Autopilots”-class always-on agent, built on OpenClaw and
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-06-02-microsoft-launches-scout-always-on-agent-agent-365-governanc]] · [[2026-06-02-microsoft-build-2026-scout-agent-project-solara-and-frontier]] · [[event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy]] · [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi]]
 <!-- graph:end -->

@@ -15,7 +15,6 @@ tags:
 entities: []
 themes:
 - policy-regulation
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +35,6 @@ WSJ Politics reports lawmakers are "suddenly souring on megasize data centers," 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
+**Topics:** [[Policy & Regulation]]
 **Related:** [[2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-06-11-axios-congress-wants-in-on-the-data-center-backlash]] · [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]] · [[2026-08-29-tech-backlash-roughly-130b-of-data-center-projects-blocked-o]]
 <!-- graph:end -->

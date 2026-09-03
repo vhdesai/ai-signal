@@ -22,6 +22,7 @@ themes:
 - datacenter-infrastructure
 - ma-activity
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -43,6 +44,6 @@ Robot maker Unitree raised $904 million in its Shanghai IPO. Key Themes * Indust
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Company Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto]] · [[2026-08-12-unitree-s-shanghai-robotics-ipo-draws-8-000x-retail-oversubs]] · [[2026-08-23-unitree-s-460-ipo-stock-pop-reflects-china-s-ai-robotics-fre]] · [[2026-08-23-unitree-s-460-ipo-stock-pop-in-shanghai-wasn-t-unusual-in-ch]] · [[2026-08-23-unitree-s-460-ipo-stock-pop-in-shanghai]]
 <!-- graph:end -->

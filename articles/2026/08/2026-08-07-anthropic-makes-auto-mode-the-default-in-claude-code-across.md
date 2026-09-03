@@ -21,7 +21,6 @@ entities:
 - Microsoft
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -43,6 +42,6 @@ Starting August 14, new Claude Code sessions on Pro, Max, and Team plans will ru
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-08-07-auto-mode-is-now-the-default-in-claude-code-for-pro-max-and]] · [[2026-08-09-anthropic-makes-claude-code-auto-mode-the-default]] · [[2026-08-09-anthropic-makes-claude-code-auto-mode-default-catches-89-of]] · [[2026-08-09-anthropic-makes-claude-code-auto-mode-the-default-for-pro-ma]] · [[2026-08-09-anthropic-makes-claude-code-s-auto-mode-the-default-for-pro]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ StartupHub.ai's 2026 ranking of the top 20 coding agents confirms Cursor, GitHub
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr]] · [[2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]]
 <!-- graph:end -->

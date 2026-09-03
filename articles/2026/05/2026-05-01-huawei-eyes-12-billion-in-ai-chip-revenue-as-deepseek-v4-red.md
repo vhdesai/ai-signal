@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -38,7 +39,7 @@ Huawei is projecting a 60% year-over-year surge in AI chip revenue to approximat
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]]
 **Related:** [[2026-05-01-newhuawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-drives]]
 <!-- graph:end -->

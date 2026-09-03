@@ -17,7 +17,6 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +38,6 @@ MLCommons released MLPerf Training v6.0 results with NVIDIA's Blackwell GPU syst
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
 **Related:** [[2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla]] · [[2026-05-18-nvidia-s-nvfp4-pretraining-format-promises-2-throughput-at-p]] · [[2026-08-25-openai-s-jalape-o-chip-posts-inference-benchmarks-beating-nv]] · [[2026-08-26-openai-publishes-first-jalape-o-inference-benchmarks-claimin]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-03-19-georgia-tech-to-lead-national-cloud-lab-for-advanced-manu
@@ -32,6 +33,6 @@ Georgia Tech announced an $18.1 million NSF award to build a programmable cloud 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-03-19-georgia-tech-to-lead-national-cloud-lab-for-advanced-manu]]
 <!-- graph:end -->

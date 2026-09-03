@@ -16,7 +16,6 @@ tags:
 entities: []
 themes:
 - model-capabilities
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +36,6 @@ Paramount's CTO is stepping down amid a wave of senior tech leadership changes a
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans]] · [[2026-07-20-u-s-ai-standards-office-loses-another-leader]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]]
 <!-- graph:end -->

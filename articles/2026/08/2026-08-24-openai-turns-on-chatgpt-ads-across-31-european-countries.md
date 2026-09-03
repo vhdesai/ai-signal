@@ -18,6 +18,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-24-chatgpt-ads-go-live-across-europe-as-openai-becomes-a-media
@@ -34,6 +35,6 @@ Formalizes advertising as a third revenue line alongside subscriptions and API. 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-24-chatgpt-ads-go-live-across-europe-as-openai-becomes-a-media]]
 <!-- graph:end -->

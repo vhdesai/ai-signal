@@ -16,7 +16,6 @@ tags:
 entities: []
 themes:
 - model-capabilities
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +36,6 @@ PitchBook’s Daily Pitch described the AI super-cycle as a multi-layer private-
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]] · [[2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit]] · [[2026-06-13-pitchbook-ai-ambitions-vs-exit-pressures]] · [[2026-08-14-pitchbook-analysts-examine-what-nvidia-s-500b-financing-play]]
 <!-- graph:end -->

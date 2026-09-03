@@ -19,7 +19,6 @@ entities:
 - OpenAI
 themes:
 - company-storylines
-- ma-activity
 - infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -42,6 +41,6 @@ The corpus mentions Microsoft Build 2026 less frequently than Google I/O or WWDC
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-28-microsoft-build-2026-preview-ai-native-windows-push-coming-j]] · [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]]
 <!-- graph:end -->

@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-cursor-builds-ai-agent-sand-to-rival-claude-cowork-and-chatg
@@ -31,6 +32,6 @@ reporting details Cursor's internally code-named "Sand," a general-purpose assis
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-07-13-cursor-builds-ai-agent-sand-to-rival-claude-cowork-and-chatg]]
 <!-- graph:end -->

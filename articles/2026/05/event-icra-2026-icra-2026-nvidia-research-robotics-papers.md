@@ -16,7 +16,6 @@ entities:
 - NVIDIA
 themes:
 - model-capabilities
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-28-nvidia-research-presents-eight-icra-papers-advancing-sim-to
@@ -35,7 +34,7 @@ The corpus says NVIDIA presented eight ICRA papers advancing sim-to-real transfe
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
+**Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-05-28-nvidia-research-presents-eight-icra-papers-advancing-sim-to]]
 **Related:** [[event-icra-2026-icra-2026-overview]] · [[2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight]]
 <!-- graph:end -->

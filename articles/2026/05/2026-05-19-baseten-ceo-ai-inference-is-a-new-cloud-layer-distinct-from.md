@@ -17,7 +17,6 @@ entities: []
 themes:
 - datacenter-infrastructure
 - model-capabilities
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +37,6 @@ Baseten CEO Tuhin Srivastava told Business Insider's Tech Memo that the cloud ma
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
 **Related:** [[2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains]] · [[2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi]] · [[2026-06-19-elastic-reportedly-agrees-to-buy-deductive-ai-for-up-to-85m]] · [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]] · [[2026-06-18-baseten-closes-1-5b-round-at-up-to-13b-valuation-as-open-sou]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,5 +34,5 @@ Jeff Dean, Sanjay Ghemawat, Oriol Vinyals, and Quoc Le are leaving Google to co-
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 <!-- graph:end -->

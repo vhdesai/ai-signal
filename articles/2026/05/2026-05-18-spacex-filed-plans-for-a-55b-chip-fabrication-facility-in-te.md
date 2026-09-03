@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- ma-activity
 - company-investments
 - infrastructure-investments
 cross_cutting_topics: []
@@ -41,6 +42,6 @@ SpaceX filed plans for a $55B chip fabrication facility in Texas ("Terafab"), po
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas]] · [[2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-semiconductor-compl]] · [[2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-a-new-texas-semicon]] · [[2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-chip-complex-in-tex]] · [[2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +41,6 @@ Today’s cycle was defined by a China-led model and price offensive, escalating
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
 **Related:** [[2026-08-04-wednesday-august-5-2026-prepared-for-senior-technology-leade]] · [[2026-08-03-monday-august-3-2026]] · [[2026-08-01-the-ai-brief-august-1-2026]] · [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt]] · [[2026-07-12-july-13-2026]]
 <!-- graph:end -->

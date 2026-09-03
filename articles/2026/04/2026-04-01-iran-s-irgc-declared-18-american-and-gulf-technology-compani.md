@@ -34,7 +34,6 @@ entities:
 - Tesla
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -57,6 +56,6 @@ Baidu Apollo Go Robotaxi Fleet Freezes City-Wide Across Wuhan — Passengers Str
 ## Connections
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Baidu]] · [[Google]] · [[IBM]] · [[Intel]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[Oracle]] · [[Palantir]] · [[Tesla]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
 **Related:** [[2026-04-02-baidu-s-apollo-go-robotaxi-fleet-suffered-a-suspected-system]] · [[2026-04-04-iran-s-irgc-issued-a-warning-targeting-18-major-u-s]] · [[2026-04-02-iran-s-islamic-revolutionary-guard-corps-declared-18-america]] · [[2026-04-02-breaking-baidu-robotaxi-operations-suspended-in-wuhan-apr-1]] · [[2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi]]
 <!-- graph:end -->

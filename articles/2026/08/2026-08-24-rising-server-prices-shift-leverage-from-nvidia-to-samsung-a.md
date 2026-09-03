@@ -17,7 +17,6 @@ entities:
 - Samsung
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +36,6 @@ The same memory shortage driving Nvidia's price increases is strengthening the n
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[Samsung]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-07-25-nvidia-locks-down-sk-hynix-memory-supply-in-a-deal-potential]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]]
 <!-- graph:end -->

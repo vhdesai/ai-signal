@@ -18,7 +18,6 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
-- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +38,6 @@ A detailed reconstruction by Dwarkesh Patel — drawing on OpenAI's own technica
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[M&A Activity]]
+**Topics:** [[Policy & Regulation]]
 **Related:** [[2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age]] · [[2026-08-31-openai-report-details-how-1-200-test-agents-coordinated-the]] · [[2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina]] · [[2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre]]
 <!-- graph:end -->

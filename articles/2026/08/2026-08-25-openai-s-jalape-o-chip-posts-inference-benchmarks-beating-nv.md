@@ -18,7 +18,6 @@ entities:
 - OpenAI
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-25-openai-publishes-first-jalape-o-benchmarks-claiming-efficien
@@ -35,6 +34,6 @@ OpenAI’s first custom inference chip, built with Broadcom, posted early result
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-08-25-openai-publishes-first-jalape-o-benchmarks-claiming-efficien]]
 <!-- graph:end -->

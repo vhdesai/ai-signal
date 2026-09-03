@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ SB Energy, a SoftBank-backed data-center power developer, filed to go public. It
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Related:** [[2026-08-31-sb-energy-granted-openai-5-5b-in-warrants-to-secure-a-20-yea]] · [[2026-08-30-openai-received-5-5b-in-sb-energy-warrants-ahead-of-softbank]]
 <!-- graph:end -->

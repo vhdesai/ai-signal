@@ -19,7 +19,6 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028
@@ -36,6 +35,6 @@ Research firm SemiAnalysis reports that Nvidia's Kyber NVL144 rack — designed 
 ## Connections
 
 **Entities:** [[AMD]] · [[Google]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028]]
 <!-- graph:end -->

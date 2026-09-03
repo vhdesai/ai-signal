@@ -19,6 +19,7 @@ entities:
 - Oracle
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -41,6 +42,6 @@ Synergy Research reports global cloud spend hit a record $129B in Q1 2026, with 
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Google]] · [[Microsoft]] · [[Oracle]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-05-04-trendingcloud-market-share-q1-2026-aws-microsoft-google-all]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor]] · [[2026-07-22-google-justifies-massive-ai-spending-with-booming-cloud-grow]]
 <!-- graph:end -->

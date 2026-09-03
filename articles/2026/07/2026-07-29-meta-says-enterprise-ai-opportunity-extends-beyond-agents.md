@@ -16,7 +16,6 @@ entities:
 - Meta
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +36,6 @@ Zuckerberg also told investors that Meta sees a broader enterprise AI opportunit
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey]] · [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag]] · [[2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]]
 <!-- graph:end -->

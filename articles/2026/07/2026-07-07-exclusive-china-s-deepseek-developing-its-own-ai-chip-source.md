@@ -18,7 +18,6 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -36,6 +35,6 @@ Reuters reported that DeepSeek has been designing an inference-focused AI chip f
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
 **Canonical:** [[2026-07-07-deepseek-developing-its-own-ai-inference-chip-to-cut-nvidia]]
 <!-- graph:end -->

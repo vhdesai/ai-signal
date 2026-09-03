@@ -22,6 +22,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- ma-activity
 - company-investments
 - infrastructure-investments
 cross_cutting_topics: []
@@ -44,6 +45,6 @@ Anthropic signed a deal for ~$45B in AI compute from Nscale, covering ~460 MW at
 ## Connections
 
 **Entities:** [[Amazon]] · [[AMD]] · [[Anthropic]] · [[Google]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-26-anthropic-signs-45b-compute-deal-with-nscale-for-vera-rubin]] · [[2026-08-26-anthropic-signs-45b-compute-deal-with-nscale]] · [[2026-08-27-anthropic-signs-45b-six-year-compute-deal-with-nscale]] · [[2026-08-26-anthropic-strikes-45-billion-cloud-deal-with-nscale]]
 <!-- graph:end -->

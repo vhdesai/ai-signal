@@ -39,6 +39,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -60,6 +61,6 @@ Fifty-one House Democrats, led by Representatives Greg Casar and Doris Matsui, d
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo]] · [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-08-10-house-democrats-press-for-openai-and-anthropic-ceos-to-testi]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - Amazon
 themes:
 - policy-regulation
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ A 404 Media investigation, in which a bookseller hid a tracking device inside a 
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[M&A Activity]]
 **Related:** [[2026-08-17-amazon-is-destroying-rare-books-to-digitize-them-for-ai-trai]] · [[2026-08-17-amazon-is-buying-and-destroying-rare-books-to-train-ai-model]] · [[2026-08-17-amazon-is-reported-to-be-destroying-rare-books-to-digitize-t]] · [[2026-08-17-amazon-reportedly-destroying-rare-books-for-ai-training]] · [[2026-08-17-amazon-reportedly-destroying-rare-books-to-digitize-them-for]]
 <!-- graph:end -->

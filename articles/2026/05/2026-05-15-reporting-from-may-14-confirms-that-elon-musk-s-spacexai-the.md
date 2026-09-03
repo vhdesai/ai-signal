@@ -20,7 +20,6 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - ma-activity
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +41,6 @@ Reporting from May 14 confirms that Elon Musk's SpaceXAI — the merged entity c
 ## Connections
 
 **Entities:** [[OpenAI]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[M&A Activity]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[M&A Activity]]
 **Related:** [[2026-07-06-xai-officially-rebrands-as-spacexai-completing-merger-into-s]] · [[2026-07-07-xai-officially-rebrands-as-spacexai-completing-merger-into-s]] · [[2026-07-06-xai-rebrands-as-spacexai-folding-grok-fully-into-spacex]] · [[2026-07-06-musk-s-xai-is-renamed-spacexai-following-spacex-s-acquisitio]] · [[2026-07-06-xai-officially-rebrands-to-spacexai]]
 <!-- graph:end -->

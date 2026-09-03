@@ -19,6 +19,7 @@ entities:
 themes:
 - policy-regulation
 - model-capabilities
+- ma-activity
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -36,6 +37,6 @@ Beijing has codified a previously informal practice into a formal travel-approva
 ## Connections
 
 **Entities:** [[Alibaba]] · [[DeepSeek]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[M&A Activity]] · [[Global AI Race]]
 **Canonical:** [[2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers]]
 <!-- graph:end -->

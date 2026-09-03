@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- ma-activity
 - company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -40,6 +41,6 @@ OpenAI completed a $122 billion fundraise, the largest single raise in corporate
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe]] · [[2026-04-02-despite-the-record-raise-openai-s-secondary-market-position]] · [[2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u]]
 <!-- graph:end -->

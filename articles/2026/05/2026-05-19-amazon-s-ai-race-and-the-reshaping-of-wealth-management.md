@@ -18,7 +18,6 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +39,6 @@ WSJ's Wealth Adviser briefing led with Amazon's accelerating AI race and the imp
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
 **Related:** [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]] · [[2026-09-02-meta-and-google-s-ai-returns-slide-piper-sandler-says-amazon]] · [[2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk]] · [[2026-05-31-wsj-tracks-the-hunt-for-durable-ai-winners-in-public-markets]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - model-capabilities
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ CMU's Center for AI-Driven Biomedical Research (AI4BIO) announced its first four
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[M&A Activity]]
 **Related:** [[2026-04-01-carnegie-mellon-university-s-center-for-ai-driven-biomedical]] · [[2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc]] · [[2026-07-10-stanford-s-biomni-shows-biomedical-agents-executing-end-to-e]] · [[2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop]] · [[2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in]]
 <!-- graph:end -->

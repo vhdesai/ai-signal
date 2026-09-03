@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-17-first-loan-backed-by-inference-chips-general-compute-lands-u
@@ -31,6 +32,6 @@ General Compute secured a $400M loan from Upper90 using inference-specific chips
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-17-first-loan-backed-by-inference-chips-general-compute-lands-u]]
 <!-- graph:end -->

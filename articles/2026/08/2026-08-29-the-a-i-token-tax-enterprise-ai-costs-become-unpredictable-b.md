@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ DealBook's Sarah Kessler examines how AI usage costs are becoming a significant 
 ## Connections
 
 **Entities:** [[Google]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
 **Related:** [[2026-08-29-the-a-i-token-tax-enterprise-costs-become-unpredictable-budg]] · [[2026-08-29-the-a-i-token-tax-how-ai-usage-costs-are-reshaping-enterpris]] · [[2026-08-29-the-a-i-token-tax-how-ai-costs-are-reshaping-enterprise-budg]] · [[2026-08-28-hugging-face-s-answer-to-dystopian-humanoid-robots]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]]
 <!-- graph:end -->

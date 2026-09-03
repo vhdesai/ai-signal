@@ -18,6 +18,7 @@ entities:
 - Perplexity
 themes:
 - model-capabilities
+- ma-activity
 - company-investments
 cross_cutting_topics:
 - china-compete
@@ -41,6 +42,6 @@ Carnegie Mellon research indicates that AI is beginning to demonstrate measurabl
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[Perplexity]]
-**Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[M&A Activity]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a]] · [[2026-08-22-goldman-sachs-assesses-when-ai-will-begin-delivering-meaning]] · [[2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
 <!-- graph:end -->

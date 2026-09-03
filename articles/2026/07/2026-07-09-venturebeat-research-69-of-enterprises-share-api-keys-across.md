@@ -17,6 +17,7 @@ entities: []
 themes:
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ A VentureBeat Pulse survey of 107 enterprises found 69% run AI agents with share
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i]] · [[2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca]] · [[2026-08-12-enterprises-secure-ai-agent-identities-but-cannot-contain-a]] · [[2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]]
 <!-- graph:end -->

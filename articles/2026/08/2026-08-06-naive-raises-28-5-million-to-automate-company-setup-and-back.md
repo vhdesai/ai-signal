@@ -17,6 +17,7 @@ entities: []
 themes:
 - company-storylines
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ Naive raised a $28.5 million Series A for infrastructure that lets AI agents pro
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]] · [[2026-07-15-indian-ai-coding-startup-emergent-becomes-a-unicorn-with-130]]
 <!-- graph:end -->

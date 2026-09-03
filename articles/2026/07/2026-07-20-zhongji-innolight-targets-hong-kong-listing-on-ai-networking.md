@@ -18,7 +18,6 @@ entities: []
 themes:
 - datacenter-infrastructure
 - company-investments
-- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -35,6 +34,6 @@ Chinese optical transceiver maker Zhongji Innolight won approval for a Hong Kong
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-20-china-s-zhongji-innolight-targets-8b-hong-kong-listing-on-ai]]
 <!-- graph:end -->

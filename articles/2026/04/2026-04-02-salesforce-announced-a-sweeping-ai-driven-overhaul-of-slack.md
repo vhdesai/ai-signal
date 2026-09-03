@@ -17,6 +17,7 @@ entities:
 - Salesforce
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-04-02-new-salesforce-adds-30-ai-features-to-slack-apr-1-salesforce
@@ -33,6 +34,6 @@ Salesforce announced a sweeping AI-driven overhaul of Slack, adding 30 new featu
 ## Connections
 
 **Entities:** [[Salesforce]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-04-02-new-salesforce-adds-30-ai-features-to-slack-apr-1-salesforce]]
 <!-- graph:end -->

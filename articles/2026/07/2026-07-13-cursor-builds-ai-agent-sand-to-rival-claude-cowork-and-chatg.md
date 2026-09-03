@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Cursor’s internally code-named “Sand” is a general-purpose assistant for e
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-07-13-cursor-is-building-sand-a-general-purpose-ai-agent-for-non-d]] · [[2026-07-13-cursor-is-building-sand-a-general-purpose-agent-to-rival-cla]] · [[2026-08-25-cursor-releases-origin-an-agent-native-alternative-to-github]] · [[2026-08-18-cursor-capitalizes-on-github-frustration-launches-rival-host]] · [[2026-05-15-cursor-launches-hiring-spree-after-spacex-deal]]
 <!-- graph:end -->

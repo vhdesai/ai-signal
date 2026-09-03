@@ -16,7 +16,6 @@ entities:
 - Microsoft
 themes:
 - company-storylines
-- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +37,6 @@ PCMag previewed Microsoft's Build 2026 conference, opening June 2 at Fort Mason 
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Corporate Moves]] · [[M&A Activity]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]]
 <!-- graph:end -->

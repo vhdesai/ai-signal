@@ -17,7 +17,6 @@ entities:
 - Tencent
 themes:
 - model-capabilities
-- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +38,6 @@ Tencent unveiled a new entry-level foundation model, reported as Hy4 Preview, an
 ## Connections
 
 **Entities:** [[Tencent]]
-**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
 **Related:** [[2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod]] · [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]] · [[2026-08-31-tencent-unveils-hy4-preview-open-source-model-for-coding-and]] · [[2026-08-28-z-ai-s-latest-model-intensifies-low-cost-competition-tencent]]
 <!-- graph:end -->

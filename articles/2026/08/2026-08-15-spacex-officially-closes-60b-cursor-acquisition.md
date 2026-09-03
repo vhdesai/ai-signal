@@ -19,6 +19,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-15-spacex-closes-60b-all-stock-acquisition-of-cursor
@@ -35,6 +36,6 @@ Cursor confirmed that the AI coding company is now formally part of SpaceX, comp
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[xAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-15-spacex-closes-60b-all-stock-acquisition-of-cursor]]
 <!-- graph:end -->

@@ -23,6 +23,7 @@ entities:
 - TSMC
 themes:
 - datacenter-infrastructure
+- ma-activity
 - infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -45,6 +46,6 @@ Nvidia announced full production of the Groq 3 LPX rack, commercializing technol
 ## Connections
 
 **Entities:** [[AMD]] · [[Cerebras]] · [[NVIDIA]] · [[OpenAI]] · [[Samsung]] · [[TSMC]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-24-nvidia-says-groq-racks-will-be-online-this-year-following-20]] · [[2026-05-14-nvidia-s-vera-rubin-platform-featuring-72-rubin-gpus-with-hb]] · [[2026-08-25-nvidia-announces-new-vera-cpu-and-groq-lpx-rack-customers]] · [[2026-08-25-nvidia-announces-new-customers-for-vera-cpu-and-groq-lpx-rac]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]]
 <!-- graph:end -->

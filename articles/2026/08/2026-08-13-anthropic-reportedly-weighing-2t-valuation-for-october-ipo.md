@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- ma-activity
 - company-investments
 cross_cutting_topics:
 - china-compete
@@ -41,7 +42,7 @@ Anthropic may seek a valuation above $2T in an autumn listing, with backers mode
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar]]
 **Related:** [[2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren]]
 <!-- graph:end -->

@@ -17,7 +17,6 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
-- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +39,6 @@ OpenAI publicly accused China of launching an influence campaign targeting Ameri
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
 **Related:** [[2026-06-12-openai-says-china-launched-influence-campaign-to-shape-u-s-a]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom]] · [[2026-08-28-axios-china-linked-bot-farm-stoking-us-opposition-to-ai-data]] · [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]]
 <!-- graph:end -->

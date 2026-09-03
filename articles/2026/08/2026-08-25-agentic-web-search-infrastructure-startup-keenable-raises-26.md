@@ -16,6 +16,7 @@ entities: []
 themes:
 - company-storylines
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Keenable.ai exited stealth with $26 million to rebuild web search infrastructure
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-25-keenable-exits-stealth-with-26m-to-build-web-search-index-fo]] · [[2026-08-25-keenable-exits-stealth-with-26m-to-build-a-web-search-index]] · [[2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b]] · [[2026-08-31-keenable-ai-open-sources-needle-a-live-search-benchmark-that]]
 <!-- graph:end -->

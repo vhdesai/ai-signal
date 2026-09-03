@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ TechCrunch reports that OpenAI's cumulative compute and infrastructure commitmen
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion]] · [[2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total]] · [[2026-08-14-big-tech-ai-purchase-commitments-approach-1-5-trillion]] · [[2026-08-10-openai-reportedly-completes-7-billion-employee-tender-offer]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]]
 <!-- graph:end -->

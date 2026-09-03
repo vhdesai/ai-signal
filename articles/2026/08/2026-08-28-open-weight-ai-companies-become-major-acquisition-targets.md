@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-analysis-open-weight-ai-companies-are-the-valley-s-hottest-a
@@ -33,6 +34,6 @@ TechCrunch reported that open-weight AI companies are becoming some of Silicon V
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-28-analysis-open-weight-ai-companies-are-the-valley-s-hottest-a]]
 <!-- graph:end -->

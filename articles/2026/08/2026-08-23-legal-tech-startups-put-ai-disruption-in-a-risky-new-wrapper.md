@@ -16,6 +16,7 @@ entities: []
 themes:
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ The FT examines a wave of legal technology startups repackaging general-purpose 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-23-legal-tech-startups-are-repackaging-ai-disruption-in-a-riski]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]] · [[2026-05-27-how-to-close-ai-s-accountability-loophole]] · [[2026-08-06-at-canva-chatgpt-compounded-an-ai-challenge]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]]
 <!-- graph:end -->

@@ -15,7 +15,6 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +35,6 @@ States reconsidering data-center tax incentives adds a new and increasingly poli
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-08-02-data-center-costs-set-to-rise-as-u-s-states-move-to-repeal-t]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t]] · [[2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi]]
 <!-- graph:end -->

@@ -17,7 +17,6 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +38,6 @@ At a demonstration in Orangeville, Utah, Nvidia and nuclear startup Valar Atomic
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-07-16-nvidia-and-japan-launch-national-ai-infrastructure-for-physi]] · [[2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai]] · [[2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo]]
 <!-- graph:end -->

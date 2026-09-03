@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ OpenAI’s run-rate revenue from business customers increased 32% month-on-month
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-14-openai-passes-40b-run-rate-as-revenue-chief-exits-ahead-of-e]] · [[2026-08-14-openai-s-annualized-revenue-run-rate-tops-40-billion-ahead-o]] · [[2026-08-14-openai-passes-40b-annualized-run-rate-as-revenue-chief-exits]] · [[2026-08-14-openai-passes-40b-run-rate-enterprise-now-larger-than-consum]] · [[2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ A new analysis highlighted today by Moneycontrol and amplified across tech media
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]]
 <!-- graph:end -->

@@ -18,7 +18,6 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-openai-publishes-first-jalape-o-inference-benchmarks-claimin
@@ -37,7 +36,7 @@ OpenAI's custom Jalapeño accelerator outperformed Nvidia Blackwell systems on k
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-08-26-openai-publishes-first-jalape-o-inference-benchmarks-claimin]]
 **Related:** [[2026-08-25-openai-publishes-first-jalape-o-benchmarks-claiming-efficien]] · [[2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- company-investments
 - infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -39,6 +40,6 @@ Anthropic is closing a roughly $30B primary round at a post-money valuation nort
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-05-10-anthropic-closing-50b-round-at-900b-valuation-final-private]] · [[2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]]
 <!-- graph:end -->

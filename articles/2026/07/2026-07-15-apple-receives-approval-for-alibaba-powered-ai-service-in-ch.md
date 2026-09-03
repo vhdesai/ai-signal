@@ -19,7 +19,6 @@ entities:
 - Apple
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -37,6 +36,6 @@ The Information reports that Apple received approval for an Alibaba-powered AI s
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Apple]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
 **Canonical:** [[2026-07-15-apple-intelligence-is-approved-for-china-with-alibaba-s-qwen]]
 <!-- graph:end -->

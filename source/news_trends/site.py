@@ -2212,32 +2212,16 @@ def run_build_site(cfg: Config) -> dict:
         for t in a["themes"] + a["cross_cutting"]:
             by_topic[t].append(a)
 
-    # M&A & Investments hub: highlighted card on /topics.html links to the
-    # top-level /investments.html landing (built by _build_investments_pages
-    # below). The three sub-category slugs (ma-activity, company-investments,
-    # infrastructure-investments) are NOT rendered as /topics/*.html pages —
-    # their canonical home is under /investments/ so the sub-nav & views
-    # stay coherent. They are also filtered OUT of the /topics.html grid.
+    # M&A & Investments hub: lives at top-level /investments.html (built by
+    # _build_investments_pages below). The three sub-category slugs
+    # (ma-activity, company-investments, infrastructure-investments) are NOT
+    # rendered as /topics/*.html pages — their canonical home is under
+    # /investments/. They are also filtered OUT of the /topics.html grid so
+    # the Themes page shows only pure editorial themes.
     deals_by_slug = {slug: by_topic.get(slug, []) for slug in _DEALS_SUBCATEGORIES}
     deals_total = sum(len(v) for v in deals_by_slug.values())
-    deals_hub_card = ""
-    if deals_total:
-        sub_pills = "".join(
-            f'<a class="deals-pill" href="investments/{slug}.html">'
-            f'<span class="deals-pill-label">{_topic_label(slug)}</span>'
-            f'<span class="deals-pill-count">{len(deals_by_slug[slug])}</span></a>'
-            for slug in _DEALS_SUBCATEGORIES
-        )
-        deals_hub_card = (
-            '<a class="deals-hub-card" href="investments.html">'
-            '<div class="deals-hub-title">\U0001f4b0 M&amp;A &amp; Investments</div>'
-            '<div class="deals-hub-sub">Follow the money: acquisitions, funding rounds, and infrastructure capex.</div>'
-            f'<div class="deals-hub-pills">{sub_pills}</div>'
-            '</a>'
-        )
 
-    # Grid cards for /topics.html EXCLUDING the deals sub-slugs (they get
-    # their own hub card above).
+    # Grid cards for /topics.html EXCLUDING the deals sub-slugs.
     topic_rows = '<div class="grid">' + "".join(
         f'<div class="card"><a class="t" href="topics/{t}.html">{_topic_label(t)}</a>'
         f'<div class="count">{len(items)}</div><div class="label">stories</div></div>'
@@ -2247,7 +2231,7 @@ def run_build_site(cfg: Config) -> dict:
     topics_body = _chat_highlight(
         "The best way to explore news by theme is AI Chat",
         "Ask about topics — 'Latest model breakthroughs?' or 'Policy news this week?'",
-    ) + deals_hub_card + topic_rows
+    ) + topic_rows
     _write(site / "topics.html",
            _render("Themes", topics_body, active="topics",
                    subtitle="Browse AI news by theme"))

@@ -17,7 +17,6 @@ entities:
 - Anthropic
 themes:
 - policy-regulation
-- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -39,7 +38,7 @@ AI competition is fundamentally an energy race: "People are constrained by softw
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
 **Canonical:** [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race]]
 **Related:** [[2026-06-21-forbes-published-a-geopolitical-analysis-arguing-that-ai-com]] · [[2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel]] · [[2026-07-17-ai-commoditization-pressures-proprietary-model-economics]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]]
 <!-- graph:end -->

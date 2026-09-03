@@ -17,7 +17,6 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +38,6 @@ Nvidia announced a warm-water cooling design it says can eliminate nearly all wa
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da]] · [[2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact]] · [[2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt]] · [[2026-08-21-nvidia-in-talks-to-invest-in-data-center-power-developer-clo]] · [[2026-08-21-nvidia-partners-with-cloverleaf-infrastructure-for-data-cent]]
 <!-- graph:end -->

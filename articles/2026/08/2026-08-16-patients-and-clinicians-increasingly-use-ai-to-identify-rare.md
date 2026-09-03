@@ -20,6 +20,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- ma-activity
 - infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -41,6 +42,6 @@ Patients, families, doctors, and nurses are turning to AI tools — including ph
 ## Connections
 
 **Entities:** [[Arm]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-08-01-ai-for-car-diagnostics-promise-and-pitfalls-of-consumer-ai-t]] · [[2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy]]
 <!-- graph:end -->

@@ -18,6 +18,7 @@ entities:
 themes:
 - company-storylines
 - ma-activity
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Anthropic discussed acquiring MatX for ~$7B before abandoning the deal, with tal
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]] · [[M&A Activity]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin]] · [[2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]] · [[2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round]]
 <!-- graph:end -->

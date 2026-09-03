@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - policy-regulation
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -32,6 +33,6 @@ Advocacy groups are urging the FTC to investigate AI firms that buy, scan and de
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[M&A Activity]]
 **Related:** [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]]
 <!-- graph:end -->

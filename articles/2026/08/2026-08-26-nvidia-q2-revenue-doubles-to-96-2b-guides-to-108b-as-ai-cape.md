@@ -17,6 +17,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- ma-activity
 - infrastructure-investments
 cross_cutting_topics:
 - china-compete
@@ -37,7 +38,7 @@ Nvidia reported net income of $59.69B ($2.46/share) for the May–July period, a
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt]]
 **Related:** [[2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value]] · [[2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-108b-shares-slip-a]]
 <!-- graph:end -->

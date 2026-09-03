@@ -18,6 +18,7 @@ themes:
 - datacenter-infrastructure
 - company-storylines
 - company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +40,6 @@ May's AI funding tally jumped to roughly $25B across 37 disclosed deals, with GP
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a]] · [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-venture-c]] · [[2026-07-06-uk-startups-raised-17b-in-h1-2026-with-ai-capturing-an-estim]] · [[2026-05-05-global-startup-funding-doubled-year-over-year-to-56b-in-apri]]
 <!-- graph:end -->

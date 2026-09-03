@@ -36,6 +36,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -58,6 +59,6 @@ MIT News profiles PhD student Ila Kumar, who works alongside young people who ha
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
 **Related:** [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-08-06-openai-partners-with-the-american-psychological-association]] · [[2026-06-30-sources-scanned-companies-nvidia-google-alphabet-deepmind-op]] · [[2026-07-04-companies-blogs-nvidia-google-deepmind-openai-anthropic-mist]] · [[2026-05-02-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu]]
 <!-- graph:end -->

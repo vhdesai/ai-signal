@@ -23,7 +23,6 @@ entities:
 - Oracle
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -41,6 +40,6 @@ Gartner placed the four hyperscalers at the top of its 2026 Magic Quadrant for c
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Microsoft]] · [[Oracle]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
 **Canonical:** [[2026-07-29-gartner-names-aws-google-microsoft-oracle-as-cloud-ai-infras]]
 <!-- graph:end -->

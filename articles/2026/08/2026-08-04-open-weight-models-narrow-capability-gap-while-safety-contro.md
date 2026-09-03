@@ -23,6 +23,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -40,6 +41,6 @@ TechCrunch reported on SaferAI findings that China's Z.ai GLM-5.2 open-weight mo
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]]
 <!-- graph:end -->

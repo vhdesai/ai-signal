@@ -20,7 +20,6 @@ entities:
 - TSMC
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +41,6 @@ Google is in talks with Samsung as a third foundry partner alongside TSMC and In
 ## Connections
 
 **Entities:** [[Google]] · [[Intel]] · [[Samsung]] · [[TSMC]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp]] · [[2026-07-03-meta-reportedly-taps-samsung-for-6-5b-to-build-its-next-gen]] · [[2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch]] · [[2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]]
 <!-- graph:end -->

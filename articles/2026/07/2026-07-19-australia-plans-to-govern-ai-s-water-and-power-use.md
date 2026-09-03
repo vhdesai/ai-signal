@@ -17,7 +17,6 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +37,6 @@ WSJ reports that Australia is planning to govern the use of water and power for 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-06-09-reuters-will-ai-become-a-public-utility]] · [[2026-07-19-australia-to-curb-government-use-of-automated-ai-decision-ma]] · [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]]
 <!-- graph:end -->

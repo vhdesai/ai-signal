@@ -21,6 +21,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- ma-activity
 - company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -43,6 +44,6 @@ WIRED reporting describes internal fallout at OpenAI following a security incide
 ## Connections
 
 **Entities:** [[Apple]] · [[Cerebras]] · [[Google]] · [[Meta]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Company Investments]]
+**Topics:** [[Policy & Regulation]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi]] · [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-08-25-openai-announces-new-security-safeguards-after-internal-mode]]
 <!-- graph:end -->

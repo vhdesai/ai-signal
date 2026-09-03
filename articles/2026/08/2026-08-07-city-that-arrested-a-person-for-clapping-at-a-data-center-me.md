@@ -19,7 +19,6 @@ entities:
 - OpenAI
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +40,6 @@ Emporia, Kansas held its city commission meeting virtually with no public commen
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats]] · [[2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo]] · [[2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil]] · [[2026-08-27-alabama-demands-details-from-openai-lawmakers-sound-alarm-on]]
 <!-- graph:end -->

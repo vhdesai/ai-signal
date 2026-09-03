@@ -17,6 +17,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-18-google-wins-bankruptcy-auction-for-spirit-airlines-internal
@@ -36,7 +37,7 @@ Google outbid rivals for ~100M emails, 500M Teams messages, 30M lines of code, a
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-18-google-wins-bankruptcy-auction-for-spirit-airlines-internal]]
 **Related:** [[2026-08-18-google-wins-10-million-auction-for-spirit-airlines-internal]] · [[2026-08-17-daily-ai-news-digest-august-18-2026]] · [[2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc]]
 <!-- graph:end -->

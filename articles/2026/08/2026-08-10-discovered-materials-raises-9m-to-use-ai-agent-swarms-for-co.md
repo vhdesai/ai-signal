@@ -17,6 +17,7 @@ entities:
 themes:
 - company-storylines
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c
@@ -34,7 +35,7 @@ Y Combinator-backed Discovered Materials closed a $9M seed from Lightspeed India
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c]]
 **Related:** [[2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole]]
 <!-- graph:end -->

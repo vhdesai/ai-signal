@@ -17,7 +17,6 @@ entities:
 - Samsung
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -35,6 +34,6 @@ China's leading memory-chip maker, ChangXin Memory Technologies (CXMT), has begu
 ## Connections
 
 **Entities:** [[Samsung]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
 **Canonical:** [[2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth]]
 <!-- graph:end -->

@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - company-storylines
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ Reports indicate Anthropic is in the final stages of raising approximately $30 b
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-15-anthropic-potential-30b-funding-round-could-push-valuation-t]] · [[2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f]] · [[2026-05-17-reports-indicate-anthropic-is-in-final-stages-of-a-funding-r]] · [[2026-05-15-hot-anthropic-closing-in-on-900b-valuation-in-new-30b-fundin]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]]
 <!-- graph:end -->

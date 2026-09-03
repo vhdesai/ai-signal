@@ -20,7 +20,6 @@ entities:
 - TSMC
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +38,6 @@ Internal documents show Meta plans to begin manufacturing its custom data-center
 ## Connections
 
 **Entities:** [[AMD]] · [[Meta]] · [[NVIDIA]] · [[TSMC]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-09-meta-to-move-in-house-iris-ai-chip-into-production-in-septem]] · [[2026-06-24-qualcomm-enters-the-data-center-cpu-race-with-dragonfly-c100]]
 <!-- graph:end -->

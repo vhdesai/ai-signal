@@ -16,7 +16,6 @@ entities:
 - Microsoft
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-04-14-microsoft-mai-image-2-efficient-arrives-at-41-lower-cost
@@ -33,6 +32,6 @@ Microsoft's MAI Superintelligence Team released MAI-Image-2-Efficient in Foundry
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-04-14-microsoft-mai-image-2-efficient-arrives-at-41-lower-cost]]
 <!-- graph:end -->

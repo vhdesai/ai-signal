@@ -20,6 +20,7 @@ themes:
 - policy-regulation
 - model-capabilities
 - company-storylines
+- ma-activity
 - company-investments
 cross_cutting_topics:
 - china-compete
@@ -43,6 +44,6 @@ A detailed walkthrough builds an end-to-end post-training pipeline for a compact
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[xAI]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-with]] · [[2026-08-12-open-reproducible-post-training-allenai-open-instruct-with-s]] · [[2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-07-13-prime-intellect-releases-verifiers-v1-a-composable-toolkit-f]]
 <!-- graph:end -->

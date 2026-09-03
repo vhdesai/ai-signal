@@ -16,6 +16,7 @@ entities:
 - Huawei
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +39,6 @@ Huawei disclosed an $11.7B multi-year investment in training and inference infra
 ## Connections
 
 **Entities:** [[Huawei]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red]] · [[2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i]] · [[2026-05-01-trending-huawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-r]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-05-01-trendinghuawei-eyes-12b-ai-chip-revenue-as-deepseek-v4-drive]]
 <!-- graph:end -->

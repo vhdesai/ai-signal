@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Cursor launched a lower-priced India subscription, Cursor Start, at ₹649 per m
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]] · [[2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere]] · [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-08-14-spacex-xai-completes-acquisition-of-cursor-at-a-reported-60b]] · [[2026-08-15-spacex-completes-60b-all-stock-acquisition-of-ai-coding-star]]
 <!-- graph:end -->

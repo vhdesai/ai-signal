@@ -17,7 +17,6 @@ entities:
 - Baidu
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +38,6 @@ Baidu reported Q2 revenue of RMB31.33B, down 4% year-over-year and below estimat
 ## Connections
 
 **Entities:** [[Baidu]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-08-20-morgan-stanley-downgrades-baidu-to-underweight-as-ernie-lags]] · [[2026-05-14-alibaba-cloud-grows-38-but-core-profit-plunges-84-on-ai-cape]] · [[2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc]] · [[2026-09-02-baidu-cfo-says-ai-could-soon-match-search-business-in-profit]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]]
 <!-- graph:end -->

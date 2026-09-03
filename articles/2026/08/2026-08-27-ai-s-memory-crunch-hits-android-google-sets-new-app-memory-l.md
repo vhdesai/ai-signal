@@ -18,6 +18,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- ma-activity
 - infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -35,6 +36,6 @@ Google is setting new memory-use limits for Android apps citing “significant h
 ## Connections
 
 **Entities:** [[Google]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-27-ai-data-center-demand-is-squeezing-memory-for-android-phones]]
 <!-- graph:end -->

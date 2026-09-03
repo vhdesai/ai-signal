@@ -18,6 +18,7 @@ entities: []
 themes:
 - company-storylines
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-26-openrouter-raises-113m-series-b-at-1-3b-valuation-led-by-cap
@@ -36,7 +37,7 @@ OpenRouter's Series B was led by CapitalG, with valuation more than doubling as 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-26-openrouter-raises-113m-series-b-at-1-3b-valuation-led-by-cap]]
 **Related:** [[2026-05-27-openrouter-raises-113m-series-b-at-a-1-3b-valuation-techcrun]] · [[2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]]
 <!-- graph:end -->

@@ -22,6 +22,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +43,6 @@ Executive Summary Financial and operational machinery dominated. Anthropic discl
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[OpenAI]] · [[Snowflake]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Company Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-15-daily-ai-news-digest-august-16-2026]] · [[2026-08-29-daily-ai-news-digest-august-30-2026]] · [[2026-08-14-daily-ai-news-digest-august-15-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]]
 <!-- graph:end -->

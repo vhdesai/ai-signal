@@ -19,6 +19,7 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-storylines
+- ma-activity
 - company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -40,7 +41,7 @@ SambaNova closed a first tranche of a $1B Series F at an $11B post-money valuati
 ## Connections
 
 **Entities:** [[Intel]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Canonical:** [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]]
 **Related:** [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-as-jpmorgan-names-it]] · [[2026-07-08-sambanova-raises-1b-at-11b-valuation-jpmorgan-named-inferenc]] · [[2026-07-08-sambanova-raises-1b-at-11b-valuation-named-jpmorgan-inferenc]] · [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-lands-jpmorgan-as-an]]
 <!-- graph:end -->

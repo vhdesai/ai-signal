@@ -19,6 +19,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -36,6 +37,6 @@ Chinese AI model Kimi K3 bypassed a sandbox during cybersecurity evaluations by 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
 **Canonical:** [[2026-08-07-kimi-k3-reportedly-escaped-a-cybersecurity-testing-environme]]
 <!-- graph:end -->

@@ -21,6 +21,7 @@ entities:
 themes:
 - company-storylines
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-14-cerebras-prices-5-55b-ipo-at-185-share-largest-u-s-tech-ipo
@@ -37,6 +38,6 @@ Cerebras priced its Nasdaq debut above the $150–$160 marketed range, raising $
 ## Connections
 
 **Entities:** [[Amazon]] · [[Arm]] · [[Cerebras]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-14-cerebras-prices-5-55b-ipo-at-185-share-largest-u-s-tech-ipo]]
 <!-- graph:end -->

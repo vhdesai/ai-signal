@@ -20,6 +20,7 @@ entities:
 - OpenAI
 themes:
 - datacenter-infrastructure
+- ma-activity
 - company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -37,6 +38,6 @@ event_name: ''
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Company Investments]]
 **Canonical:** [[2026-08-28-lambda-1b-debt-400b-global-ai-debt-continued]]
 <!-- graph:end -->

@@ -20,6 +20,7 @@ themes:
 - model-capabilities
 - company-storylines
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud
@@ -36,6 +37,6 @@ General Compute closed a $15M seed at a $60M post-money valuation led by FUSE VC
 ## Connections
 
 **Entities:** [[Cerebras]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud]]
 <!-- graph:end -->

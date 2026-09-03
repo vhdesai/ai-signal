@@ -17,6 +17,7 @@ entities:
 themes:
 - model-capabilities
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ The Y Combinator–backed startup closed a $9 million seed round led by Lightspe
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Model Breakthroughs]] · [[Company Investments]]
+**Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co]] · [[2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole]] · [[2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]]
 <!-- graph:end -->

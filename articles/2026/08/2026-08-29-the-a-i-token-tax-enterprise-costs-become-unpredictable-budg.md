@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - company-storylines
+- ma-activity
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -37,6 +38,6 @@ DealBook examines how AI usage costs have become a significant "token tax" on en
 ## Connections
 
 **Entities:** [[Google]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
 **Canonical:** [[2026-08-29-the-a-i-token-tax-enterprise-ai-costs-become-unpredictable-b]]
 <!-- graph:end -->

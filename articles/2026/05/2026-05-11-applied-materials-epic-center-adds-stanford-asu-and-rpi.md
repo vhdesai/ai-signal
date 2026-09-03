@@ -16,7 +16,6 @@ tags:
 entities: []
 themes:
 - model-capabilities
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +36,6 @@ Stanford, Arizona State, and RPI joined Applied Materials' EPIC Center in Silico
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-04-01-a-joint-research-team-from-stanford-carnegie-mellon-mit-and]] · [[2026-08-03-cuspai-illustrates-how-capital-is-spreading-into-the-physica]] · [[2026-08-03-19-georgia-tech-to-lead-national-cloud-lab-for-advanced-manu]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi]]
 <!-- graph:end -->

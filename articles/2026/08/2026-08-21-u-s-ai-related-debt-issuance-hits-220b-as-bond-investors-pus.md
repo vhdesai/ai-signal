@@ -16,6 +16,7 @@ entities:
 - Amazon
 themes:
 - company-storylines
+- ma-activity
 - infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -35,6 +36,6 @@ Reuters analysis puts 2026 U.S. corporate AI-related debt issuance near $220B, u
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a]] · [[2026-06-10-amazon-borrows-17-5b-from-banks-as-ai-infrastructure-spendin]]
 <!-- graph:end -->

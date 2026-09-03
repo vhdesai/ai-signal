@@ -15,6 +15,7 @@ entities:
 - Meta
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -37,6 +38,6 @@ Chinese authorities blocked Meta's attempted acquisition of Manus, a Beijing-lin
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
 **Related:** [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-manus]] · [[2026-04-27-hotchina-blocks-meta-s-2b-acquisition-of-ai-startup-manus]] · [[2026-05-14-chinese-regulators-blocked-meta-s-attempted-acquisition-of-m]] · [[2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek]] · [[2026-08-13-manus-resumes-independence-after-beijing-blocks-meta-acquisi]]
 <!-- graph:end -->

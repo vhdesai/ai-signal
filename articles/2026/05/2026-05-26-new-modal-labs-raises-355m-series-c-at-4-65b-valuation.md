@@ -34,6 +34,7 @@ entities:
 - xAI
 themes:
 - company-storylines
+- ma-activity
 - company-investments
 - infrastructure-investments
 cross_cutting_topics:
@@ -57,6 +58,6 @@ Modal Labs closed a $355M Series C in a two-tranche structure (first at $2.5B, s
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[ByteDance]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Tencent]] · [[xAI]]
-**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-04-12-sifive-founded-by-the-uc-berkeley-engineers-behind-the-risc]] · [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]]
 <!-- graph:end -->

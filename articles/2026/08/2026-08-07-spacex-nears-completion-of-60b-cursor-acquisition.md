@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Cursor told staff that SpaceX could complete its $60 billion acquisition as soon
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-15-spacex-completes-60b-all-stock-acquisition-of-ai-coding-star]] · [[2026-08-24-cursor-enters-musk-era-after-60b-spacex-acquisition]] · [[2026-08-15-spacex-closes-60b-all-stock-acquisition-of-cursor]] · [[2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere]] · [[2026-08-15-spacex-officially-closes-60b-acquisition-of-cursor]]
 <!-- graph:end -->

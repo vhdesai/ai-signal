@@ -23,7 +23,6 @@ entities:
 themes:
 - datacenter-infrastructure
 - model-capabilities
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -44,6 +43,6 @@ Today’s window is defined by silicon and by the enterprise, not by frontier mo
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
 **Related:** [[2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla]] · [[2026-06-26-daily-ai-news-digest-june-26-2026]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics]]
 <!-- graph:end -->

@@ -17,7 +17,6 @@ entities:
 - Scale AI
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +37,6 @@ During Huang's Seoul visit, Nvidia announced a multi-year memory partnership wit
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[Scale AI]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in]] · [[2026-07-24-nvidia-and-south-korea-outline-full-stack-ai-collaboration]] · [[2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration]]
 <!-- graph:end -->

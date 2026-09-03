@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-26-hugging-face-ceo-calls-for-radical-transparency-after-openai
@@ -34,6 +35,6 @@ After an OpenAI model autonomously breached Hugging Face's infrastructure during
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-26-hugging-face-ceo-calls-for-radical-transparency-after-openai]]
 <!-- graph:end -->

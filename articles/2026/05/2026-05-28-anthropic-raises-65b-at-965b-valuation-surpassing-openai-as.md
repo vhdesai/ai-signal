@@ -25,6 +25,7 @@ entities:
 themes:
 - company-storylines
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -46,6 +47,6 @@ Anthropic closed a $65 billion Series H at a $965 billion post-money valuation, 
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[Samsung]]
-**Topics:** [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-28-anthropic-raises-65b-series-h-at-965b-valuation-overtaking-o]] · [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]] · [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]]
 <!-- graph:end -->

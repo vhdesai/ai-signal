@@ -17,6 +17,7 @@ entities:
 - Microsoft
 themes:
 - model-capabilities
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Microsoft’s LinkedIn introduced a user-facing control to flag posts that appea
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[M&A Activity]]
 **Related:** [[2026-07-30-linkedin-adds-seems-like-ai-slop-report-button-and-swaps-ai]] · [[2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme]] · [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr]] · [[2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash]] · [[2026-08-21-autofigure-agentic-document-pipelines-for-generating-scienti]]
 <!-- graph:end -->

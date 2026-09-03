@@ -19,6 +19,7 @@ entities:
 - Google
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Demis Hassabis is ceding day-to-day CEO duties at Google DeepMind to become Alph
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-05-google-deepmind-restructures-hassabis-moves-to-chairman-kavu]] · [[2026-08-05-google-reshuffles-its-ai-leadership-jeff-dean-departs-to-fou]] · [[2026-08-05-hassabis-steps-aside-as-google-deepmind-ceo-jeff-dean-leaves]] · [[2026-08-05-google-s-ai-leadership-reshuffled-jeff-dean-departs-hassabis]] · [[2026-08-06-demis-hassabis-named-alphabet-chief-scientist-koray-kavukcuo]]
 <!-- graph:end -->

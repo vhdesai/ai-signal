@@ -18,6 +18,7 @@ entities:
 - Google
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +40,6 @@ Anthropic finalized a $30 billion financing led by Sequoia, Dragoneer, Greenoaks
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope]] · [[2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o]] · [[2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open]] · [[2026-05-26-anthropic-is-expected-to-close-its-30b-funding-round-at-a-pr]] · [[2026-05-18-bloomberg-reports-anthropic-s-latest-funding-round-at-least]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-hugging-face-ceo-calls-for-radical-transparency-after-openai
@@ -33,6 +34,6 @@ Hugging Face CEO Clem Delangue called for full attack logs and a $100 million co
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-27-hugging-face-ceo-calls-for-radical-transparency-after-openai]]
 <!-- graph:end -->

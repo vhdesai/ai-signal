@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ BI's Tech Memo features a first-person account of living with a comprehensive AI
 ## Connections
 
 **Entities:** [[Meta]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-28-the-ai-assistant-running-my-life-first-person-account]] · [[2026-08-28-hugging-face-s-answer-to-dystopian-humanoid-robots]] · [[2026-08-28-google-personal-intelligence-a-huge-help-wsj-first-person-re]]
 <!-- graph:end -->

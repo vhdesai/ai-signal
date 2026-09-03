@@ -18,6 +18,7 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 - company-storylines
+- ma-activity
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -36,7 +37,7 @@ Alibaba launched Qwen3.8-Max on Monday, calling it its “most powerful” model
 ## Connections
 
 **Entities:** [[Alibaba]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
 **Canonical:** [[2026-08-03-alibaba-qwen3-8-max-raises-the-bar-in-china-s-model-race]]
 **Related:** [[2026-07-19-alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multim]]
 <!-- graph:end -->

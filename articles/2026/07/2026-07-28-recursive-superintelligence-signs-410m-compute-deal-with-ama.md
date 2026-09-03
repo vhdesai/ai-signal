@@ -16,6 +16,7 @@ entities:
 - Amazon
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-28-aws-signs-a-410m-compute-deal-with-recursive-superintelligen
@@ -32,6 +33,6 @@ Recursive Superintelligence, led by Richard Socher, signed a $410 million comput
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-28-aws-signs-a-410m-compute-deal-with-recursive-superintelligen]]
 <!-- graph:end -->

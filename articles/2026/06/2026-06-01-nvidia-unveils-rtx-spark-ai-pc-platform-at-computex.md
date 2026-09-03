@@ -19,7 +19,6 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +39,6 @@ At Computex in Taipei, Jensen Huang launched the RTX Spark platform — a Window
 ## Connections
 
 **Entities:** [[Arm]] · [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]] · [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]] · [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]]
 <!-- graph:end -->

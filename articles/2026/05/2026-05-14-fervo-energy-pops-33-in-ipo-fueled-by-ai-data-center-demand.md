@@ -17,7 +17,6 @@ entities: []
 themes:
 - company-storylines
 - company-investments
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +37,6 @@ Fervo Energy pops 33% in IPO, fueled by AI data center demand — TechCrunch, Ma
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-08-30-openai-received-5-5b-in-sb-energy-warrants-ahead-of-softbank]] · [[2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline]] · [[2026-08-30-openai-received-about-5-5-billion-in-sb-energy-warrants-ahea]] · [[2026-08-14-natural-gas-prices-could-triple-near-ai-data-centers-researc]] · [[2026-08-31-sb-energy-issued-openai-warrants-now-valued-near-5-5b-to-sec]]
 <!-- graph:end -->

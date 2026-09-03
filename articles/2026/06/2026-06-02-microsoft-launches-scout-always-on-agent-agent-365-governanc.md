@@ -18,7 +18,6 @@ entities:
 - Microsoft
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-02-microsoft-launches-scout-agent-agent-365-governance-and-surf
@@ -35,6 +34,6 @@ Microsoft launched Scout, the first of a new "Autopilots" class of always-on aut
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-06-02-microsoft-launches-scout-agent-agent-365-governance-and-surf]]
 <!-- graph:end -->

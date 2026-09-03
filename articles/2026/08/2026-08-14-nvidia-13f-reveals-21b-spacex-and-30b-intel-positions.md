@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Nvidia’s 13F disclosed a $20.98B SpaceX stake and $29.99B Intel position as of
 ## Connections
 
 **Entities:** [[Intel]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-14-nvidia-s-13f-reveals-21b-spacex-and-30b-intel-equity-positio]] · [[2026-08-14-nvidia-s-13f-reveals-a-21b-spacex-stake-and-30b-intel-positi]] · [[2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin]] · [[2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]]
 <!-- graph:end -->

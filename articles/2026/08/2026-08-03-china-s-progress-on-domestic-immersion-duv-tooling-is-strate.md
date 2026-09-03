@@ -15,7 +15,6 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -37,6 +36,6 @@ China’s progress on domestic immersion DUV tooling is strategically significan
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
 **Related:** [[2026-07-29-china-begins-mass-production-of-homegrown-duv-chipmaking-too]] · [[2026-07-27-china-begins-mass-producing-homegrown-duv-chipmaking-tools]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]]
 <!-- graph:end -->

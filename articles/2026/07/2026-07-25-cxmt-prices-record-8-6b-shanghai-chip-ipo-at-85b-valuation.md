@@ -19,6 +19,7 @@ themes:
 - datacenter-infrastructure
 - company-storylines
 - company-investments
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -36,6 +37,6 @@ China's flagship DRAM maker debuting on STAR Market — Asia's largest raise of 
 ## Connections
 
 **Entities:** [[Samsung]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-07-25-china-s-cxmt-debuts-on-shanghai-s-star-market-with-an-8-6b-r]]
 <!-- graph:end -->

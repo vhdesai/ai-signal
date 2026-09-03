@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +42,6 @@ Executive Summary: The last 24 hours were not about a new frontier-model launch;
 ## Connections
 
 **Entities:** [[Google]] · [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-12-july-13-2026]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-08-12-daily-ai-news-digest-august-13-2026]]
 <!-- graph:end -->

@@ -18,7 +18,6 @@ entities:
 - Scale AI
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -36,6 +35,6 @@ DeepSeek is reportedly planning a gigawatt-scale AI data center in Ulanqab, Inne
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[Scale AI]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
 **Canonical:** [[2026-07-31-deepseek-planning-1gw-data-center-in-inner-mongolia]]
 <!-- graph:end -->

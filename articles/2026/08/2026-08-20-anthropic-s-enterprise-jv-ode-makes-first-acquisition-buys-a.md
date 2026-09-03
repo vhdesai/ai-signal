@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-20-anthropic-s-enterprise-ai-joint-venture-acquires-consultancy
@@ -33,6 +34,6 @@ Ode, the joint venture established by Anthropic and Wall Street firms including 
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-20-anthropic-s-enterprise-ai-joint-venture-acquires-consultancy]]
 <!-- graph:end -->

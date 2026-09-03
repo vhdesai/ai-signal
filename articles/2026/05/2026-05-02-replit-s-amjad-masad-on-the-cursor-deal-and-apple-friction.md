@@ -17,6 +17,7 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ In an extensive interview, Replit CEO Amjad Masad addresses the Cursor partnersh
 ## Connections
 
 **Entities:** [[Apple]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-02-replit-ceo-amjad-masad-disclosed-at-strictlyvc-that-replit-i]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl]] · [[2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso]]
 <!-- graph:end -->

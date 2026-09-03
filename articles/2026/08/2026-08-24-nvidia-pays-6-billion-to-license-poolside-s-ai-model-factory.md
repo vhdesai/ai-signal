@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -37,6 +38,6 @@ Nvidia is paying approximately $6B to license Poolside’s model-building softwa
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
 **Related:** [[2026-08-24-nvidia-pays-6-billion-to-license-poolside-s-ai-model-softwar]] · [[2026-08-21-nvidia-strikes-a-7b-license-and-hire-deal-with-poolside]]
 <!-- graph:end -->

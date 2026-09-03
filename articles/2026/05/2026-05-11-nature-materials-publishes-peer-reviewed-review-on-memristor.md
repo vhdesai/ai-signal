@@ -18,7 +18,6 @@ entities:
 - NVIDIA
 themes:
 - model-capabilities
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +39,6 @@ Nature Materials published a comprehensive review article on memristor-based ana
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-07-08-tetramem-and-sk-hynix-demonstrate-memristor-based-in-memory]] · [[2026-07-08-tetramem-and-sk-hynix-demonstrate-a-memristor-based-in-memor]] · [[2026-04-02-research-breakthroughs]] · [[2026-07-06-reinforcement-learning-steers-generative-models-toward-novel]] · [[2026-05-17-academic-research-arxiv-will-impose-1-year-bans-for-ai-gener]]
 <!-- graph:end -->

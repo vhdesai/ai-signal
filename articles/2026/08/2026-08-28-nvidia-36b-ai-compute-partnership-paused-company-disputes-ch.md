@@ -16,6 +16,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-nvidia-36b-ai-compute-partnership-paused-company-disputes
@@ -35,7 +36,7 @@ Nvidia stepped back from its AI Compute Partnership less than two months after l
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-28-nvidia-36b-ai-compute-partnership-paused-company-disputes]]
 **Related:** [[2026-08-28-nvidia-pauses-its-36b-ai-cloud-revenue-share-financing-progr]] · [[2026-08-27-nvidia-pauses-revenue-sharing-deals-with-ai-cloud-providers]] · [[2026-08-28-nvidia-pauses-ai-cloud-revenue-sharing-deals-amid-antitrust]]
 <!-- graph:end -->

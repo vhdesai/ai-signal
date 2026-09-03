@@ -18,6 +18,7 @@ entities:
 - Databricks
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Stripe officially confirmed the $7.5B deal (founders received $1.5B, investors $
 ## Connections
 
 **Entities:** [[Databricks]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-19-stripe-confirms-7-5b-openrouter-acquisition-real-motive-is-a]] · [[2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter]] · [[2026-08-20-stripe-closes-its-openrouter-deal-at-a-reported-7-5b]]
 <!-- graph:end -->

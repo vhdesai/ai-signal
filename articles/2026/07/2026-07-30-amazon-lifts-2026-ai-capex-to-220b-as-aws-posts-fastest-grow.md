@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- company-investments
 - infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -35,6 +36,6 @@ Amazon reported Q2 revenue up 20% to $200.6B, with AWS growing 37% to $42.2B —
 ## Connections
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-growth-hits-a-four]]
 <!-- graph:end -->

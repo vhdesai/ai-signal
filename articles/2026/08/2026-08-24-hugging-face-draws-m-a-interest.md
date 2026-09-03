@@ -15,7 +15,7 @@ tags:
 entities: []
 themes:
 - company-storylines
-- infrastructure-investments
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +33,6 @@ Business Insider reports that Hugging Face, the open-source AI model hosting pla
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-23-hugging-face-fielding-m-a-interest-at-13-billion]] · [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion]]
 <!-- graph:end -->

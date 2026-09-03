@@ -19,6 +19,7 @@ entities:
 - Google
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +41,6 @@ Anthropic disclosed Q1 2026 revenue growing 80× year-over-year, pushing annual 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year]] · [[2026-05-23-anthropic-s-biggest-ever-week-included-six-major-announcemen]] · [[2026-05-20-spacex-s-1-reveals-anthropic-will-pay-45b-for-colossus-compu]] · [[2026-05-07-]]
 <!-- graph:end -->

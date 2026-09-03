@@ -17,6 +17,7 @@ entities:
 - Meta
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ AI agent startup Manus will soon return to operating as an independent company a
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-08-13-manus-resumes-independent-operations-after-beijing-blocks-me]] · [[2026-08-13-manus-says-it-will-resume-operating-as-an-independent-compan]] · [[2026-09-01-manus-resumes-independent-operations-after-china-blocks-meta]] · [[2026-08-13-manus-resumes-independence-after-beijing-blocks-meta-acquisi]] · [[2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek]]
 <!-- graph:end -->

@@ -18,7 +18,6 @@ entities:
 - Google
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +39,6 @@ The Information reports that Google plans a new “Frozen” chip designed to ru
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-07-20-google-works-on-frozen-v2-chip-to-improve-gemini-inference-e]] · [[2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip]] · [[2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics]] · [[2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en]] · [[2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips]]
 <!-- graph:end -->

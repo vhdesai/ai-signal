@@ -19,6 +19,7 @@ entities:
 - xAI
 themes:
 - model-capabilities
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +41,6 @@ Elon Musk's SpaceX released Grok 4.5, its first model trained specifically for c
 ## Connections
 
 **Entities:** [[Anthropic]] · [[xAI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[M&A Activity]]
 **Related:** [[2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work]] · [[2026-07-08-xai-s-grok-4-5-arrives-as-an-opus-class-lower-cost-challenge]] · [[2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work]] · [[2026-07-17-xai-launches-grok-4-5-for-coding-agents-and-knowledge-work]] · [[2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks]]
 <!-- graph:end -->

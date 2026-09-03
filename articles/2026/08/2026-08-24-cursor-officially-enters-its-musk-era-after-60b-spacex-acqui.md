@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-24-cursor-enters-musk-era-after-60b-spacex-acquisition
@@ -30,6 +31,6 @@ On the day SpaceX completed its $60 billion acquisition of Cursor, Elon Musk cal
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-24-cursor-enters-musk-era-after-60b-spacex-acquisition]]
 <!-- graph:end -->

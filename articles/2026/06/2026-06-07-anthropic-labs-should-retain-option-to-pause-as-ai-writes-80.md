@@ -18,6 +18,7 @@ entities:
 - Anthropic
 themes:
 - policy-regulation
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-07-anthropic-argues-for-conditional-pause-option-as-ai-begins-w
@@ -34,6 +35,6 @@ Clark and Favaro argued labs should preserve the option to slow or pause if "rec
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Company Investments]]
 **Canonical:** [[2026-06-07-anthropic-argues-for-conditional-pause-option-as-ai-begins-w]]
 <!-- graph:end -->

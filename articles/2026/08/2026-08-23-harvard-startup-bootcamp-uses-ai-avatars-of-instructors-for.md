@@ -15,7 +15,6 @@ tags: []
 entities: []
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -32,6 +31,6 @@ Harvard Business School's Foundry bootcamp is using AI avatars created by HeyGen
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-08-22-harvard-business-school-bootcamp-ships-ai-avatars-of-its-ins]]
 <!-- graph:end -->

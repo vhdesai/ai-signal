@@ -16,6 +16,7 @@ entities:
 - Arm
 themes:
 - datacenter-infrastructure
+- ma-activity
 - infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -37,6 +38,6 @@ Arm shares have more than doubled this year, giving the $300 billion company inc
 ## Connections
 
 **Entities:** [[Arm]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]] · [[2026-07-20-massive-ai-supply-deals-face-execution-risk]] · [[2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s]] · [[2026-08-10-intel-announces-15-billion-common-stock-offering-citing-ai-d]]
 <!-- graph:end -->

@@ -16,7 +16,6 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +35,6 @@ A meaningful cultural backlash against AI is crystallizing in the United States:
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-05-20-dealbook-ai-backlash-goes-global-as-meta-cuts-jobs-and-compa]] · [[2026-05-19-the-american-rebellion-against-ai-is-gaining-steam]] · [[2026-08-19-analysis-ai-was-supposed-to-win-people-over-by-now-it-hasn-t]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]]
 <!-- graph:end -->

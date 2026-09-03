@@ -17,7 +17,6 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +36,6 @@ WSJ reports that Moonshot AI's model release added fuel to Wall Street's chip se
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-07-26-making-sense-of-the-panic-over-chinese-ai]] · [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-07-26-silicon-valley-and-washington-continue-to-debate-chinese-ope]]
 <!-- graph:end -->

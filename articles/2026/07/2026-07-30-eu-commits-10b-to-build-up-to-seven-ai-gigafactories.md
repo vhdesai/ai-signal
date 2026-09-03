@@ -38,6 +38,7 @@ entities:
 - xAI
 themes:
 - policy-regulation
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -60,6 +61,6 @@ The European Commission unveiled a €10B initiative to finance up to seven larg
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[AMD]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Scale AI]] · [[Tencent]] · [[xAI]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-07-30-eu-commits-10b-to-seven-ai-gigafactories-in-race-with-u-s-an]] · [[2026-05-02-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu]] · [[2026-06-29-sources-scanned-companies-nvidia-google-deepmind-openai-anth]] · [[2026-06-25-sources-scanned-companies-nvidia-google-deepmind-openai-anth]] · [[2026-07-02-sources-scanned-companies-nvidia-google-deepmind-openai-anth]]
 <!-- graph:end -->

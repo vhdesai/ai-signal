@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ For National Robotics Week, NVIDIA is highlighting physical AI entering producti
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations]] · [[2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea]] · [[2026-05-28-nvidia-research-advances-robotics-work-from-simulation-towar]] · [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve]] · [[2026-08-29-nvidia-s-physical-ai-business-reaches-10b-run-rate-with-chin]]
 <!-- graph:end -->

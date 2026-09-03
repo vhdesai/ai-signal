@@ -20,6 +20,7 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -42,6 +43,6 @@ Over the US Independence Day weekend, hard demand signals outweighed new product
 ## Connections
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-26-daily-ai-news-digest-august-27-2026]] · [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-08-01-the-ai-brief-august-1-2026]]
 <!-- graph:end -->

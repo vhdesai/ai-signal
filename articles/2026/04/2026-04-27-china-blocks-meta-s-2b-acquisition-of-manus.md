@@ -15,6 +15,7 @@ entities:
 - Meta
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -32,6 +33,6 @@ Chinese regulators blocked Meta's planned acquisition of AI agent startup Manus,
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
 **Canonical:** [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]]
 <!-- graph:end -->

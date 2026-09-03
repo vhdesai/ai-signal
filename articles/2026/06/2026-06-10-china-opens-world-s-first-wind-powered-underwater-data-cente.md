@@ -15,7 +15,6 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -37,6 +36,6 @@ China opened the first wind-powered underwater data center, combining ocean cool
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
 **Related:** [[2026-08-19-terrapower-s-molten-salt-nuclear-reactor-has-a-secret-weapon]] · [[2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]] · [[2026-06-22-nvidia-unveils-warm-water-cooling-to-cut-data-center-water-u]] · [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]]
 <!-- graph:end -->

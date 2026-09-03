@@ -17,6 +17,8 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- ma-activity
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +40,6 @@ Nvidia will reportedly pay $6B for a non-exclusive license to Poolside’s “Mo
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-08-24-nvidia-pays-6-billion-to-license-poolside-s-ai-model-factory]] · [[2026-08-21-nvidia-to-pay-poolside-6-billion-for-a-non-exclusive-license]] · [[2026-08-21-nvidia-to-pay-poolside-6b-for-a-non-exclusive-license-and-hi]] · [[2026-08-21-nvidia-to-pay-poolside-6-billion-for-non-exclusive-license-a]] · [[2026-08-24-nvidia-pays-6-billion-to-license-poolside-s-ai-model-softwar]]
 <!-- graph:end -->

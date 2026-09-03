@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi
@@ -30,6 +31,6 @@ XPENG's robotics business closed a first external round of more than US$900 mill
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi]]
 <!-- graph:end -->

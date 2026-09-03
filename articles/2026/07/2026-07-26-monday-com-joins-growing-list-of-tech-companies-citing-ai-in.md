@@ -16,7 +16,6 @@ tags:
 entities: []
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +35,6 @@ TechCrunch reports that Monday.com became the latest technology company to cite 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-25-monday-com-cites-ai-as-a-factor-in-fresh-layoffs]] · [[2026-07-22-monday-com-cuts-20-of-staff-to-refocus-around-ai-work-platfo]] · [[2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal]] · [[2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros]]
 <!-- graph:end -->

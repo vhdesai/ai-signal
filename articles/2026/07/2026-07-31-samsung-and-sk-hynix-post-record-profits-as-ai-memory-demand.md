@@ -17,7 +17,6 @@ entities:
 - Samsung
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +35,6 @@ Samsung reported a record operating profit on strong DRAM, HBM and NAND demand f
 ## Connections
 
 **Entities:** [[Samsung]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-30-samsung-posts-record-profit-as-hbm-and-ai-memory-demand-surg]] · [[2026-07-07-samsung-guides-to-record-q2-operating-profit-on-ai-memory-de]]
 <!-- graph:end -->

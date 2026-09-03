@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Forbes released its annual AI 50 ranking of top private AI companies — the ben
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-07-31-ai-leaders-dominate-venture-secondary-trading-but-concentrat]] · [[2026-05-08-the-stanford-hai-2026-ai-index-the-most-comprehensive-annual]] · [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026]] · [[2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a]] · [[2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]]
 <!-- graph:end -->

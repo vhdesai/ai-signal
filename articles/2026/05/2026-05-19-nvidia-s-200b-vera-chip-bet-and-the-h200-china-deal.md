@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +41,6 @@ Jensen Huang detailed Nvidia's Vera roadmap — a generational successor positio
 ## Connections
 
 **Entities:** [[Google]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Related:** [[2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki]] · [[2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]] · [[2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm]] · [[2026-05-19-nvidia-s-jensen-huang-says-china-will-open-over-time-to-h200]]
 <!-- graph:end -->

@@ -15,6 +15,7 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -32,6 +33,6 @@ Stripe confirmed its acquisition of OpenRouter, the model-routing and AI spend-m
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]]
 **Related:** [[2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter]] · [[2026-07-24-stripe-is-reportedly-in-talks-to-buy-openrouter]]
 <!-- graph:end -->

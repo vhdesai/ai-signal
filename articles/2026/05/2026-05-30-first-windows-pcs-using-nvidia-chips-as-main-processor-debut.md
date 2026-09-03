@@ -17,7 +17,6 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +38,6 @@ Nvidia and Microsoft are set to introduce the first Windows PCs that use an Nvid
 ## Connections
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc]] · [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]] · [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]]
 <!-- graph:end -->

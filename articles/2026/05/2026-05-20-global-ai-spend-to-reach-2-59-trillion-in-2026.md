@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion
@@ -31,6 +32,6 @@ CIO Dive reports global AI spending is on track for $2.59 trillion in 2026, with
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion]]
 <!-- graph:end -->

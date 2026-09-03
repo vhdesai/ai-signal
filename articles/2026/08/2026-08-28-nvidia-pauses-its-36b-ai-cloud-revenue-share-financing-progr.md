@@ -18,6 +18,7 @@ entities:
 - NVIDIA
 themes:
 - model-capabilities
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-nvidia-36b-ai-compute-partnership-paused-company-disputes-ch
@@ -34,6 +35,6 @@ Nvidia stepped back from its AI Compute Partnership — a credit-support and rev
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-28-nvidia-36b-ai-compute-partnership-paused-company-disputes-ch]]
 <!-- graph:end -->

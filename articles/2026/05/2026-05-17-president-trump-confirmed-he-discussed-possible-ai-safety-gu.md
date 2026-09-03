@@ -17,7 +17,6 @@ entities:
 - NVIDIA
 themes:
 - policy-regulation
-- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +37,6 @@ President Trump confirmed he discussed possible AI safety guardrails with Presid
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
 **Related:** [[2026-05-18-president-trump-confirmed-discussions-with-chinese-president]] · [[2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri]] · [[2026-05-23-presidents-trump-and-xi-had-direct-discussions-about-possibl]]
 <!-- graph:end -->

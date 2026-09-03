@@ -20,7 +20,6 @@ entities:
 - OpenAI
 themes:
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +39,6 @@ OpenAI published benchmarks claiming its first custom inference silicon delivers
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-08-26-openai-publishes-first-jalape-o-inference-benchmarks-claimin]] · [[2026-08-25-openai-publishes-first-jalape-o-benchmarks-claiming-efficien]] · [[2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif]]
 <!-- graph:end -->

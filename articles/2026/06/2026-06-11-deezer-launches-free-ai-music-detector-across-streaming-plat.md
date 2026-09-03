@@ -17,6 +17,7 @@ entities:
 - Apple
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Deezer launched a free tool detecting AI-generated music on Spotify, Apple Music
 ## Connections
 
 **Entities:** [[Apple]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-06-11-deezer-launches-free-ai-music-detector-for-spotify-apple-mus]] · [[2026-06-10-warner-music-acquires-ai-attribution-startup-sureel-ai]] · [[2026-08-20-apple-music-will-label-songs-materially-generated-using-ai]] · [[2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and]] · [[2026-07-21-deezer-says-more-than-half-of-daily-uploads-are-ai-generated]]
 <!-- graph:end -->

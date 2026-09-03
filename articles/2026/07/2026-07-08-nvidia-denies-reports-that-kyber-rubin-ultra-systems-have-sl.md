@@ -17,7 +17,6 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +37,6 @@ Nvidia publicly rejected reports that its next-generation Rubin Ultra chips and 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028]] · [[2026-07-06-infrastructure-nvidia-s-flagship-kyber-nvl144-rack-slips-12]] · [[2026-08-06-nvidia-tests-rubin-ultra-variants-with-less-hbm-amid-tight-m]] · [[2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through]]
 <!-- graph:end -->

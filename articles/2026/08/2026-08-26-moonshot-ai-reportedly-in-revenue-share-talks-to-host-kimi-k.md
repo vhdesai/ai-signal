@@ -20,7 +20,6 @@ entities:
 themes:
 - model-capabilities
 - company-storylines
-- infrastructure-investments
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -38,6 +37,6 @@ Moonshot AI is reportedly negotiating revenue-sharing arrangements with Microsof
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Microsoft]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
 **Canonical:** [[2026-08-26-moonshot-ai-in-cloud-revenue-share-talks-with-microsoft-amaz]]
 <!-- graph:end -->

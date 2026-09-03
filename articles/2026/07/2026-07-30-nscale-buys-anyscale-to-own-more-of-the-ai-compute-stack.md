@@ -16,6 +16,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- ma-activity
 - infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -32,6 +33,6 @@ British AI neocloud Nscale is buying Anyscale, the company behind commercial too
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-07-30-nscale-buys-anyscale-for-1-65b-to-own-more-of-the-ai-compute]]
 <!-- graph:end -->

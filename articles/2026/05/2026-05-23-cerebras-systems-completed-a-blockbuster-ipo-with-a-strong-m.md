@@ -21,7 +21,6 @@ entities:
 themes:
 - datacenter-infrastructure
 - company-investments
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -42,6 +41,6 @@ Cerebras Systems completed a blockbuster IPO, with a strong market debut that re
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[OpenAI]] · [[Perplexity]]
-**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
 **Related:** [[2026-05-17-cerebras-systems-hit-the-nasdaq-on-may-14-in-the-most-closel]] · [[2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr]] · [[2026-05-28-cerebras-positioned-as-most-watched-ai-chip-ipo-of-2026]] · [[2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale]]
 <!-- graph:end -->

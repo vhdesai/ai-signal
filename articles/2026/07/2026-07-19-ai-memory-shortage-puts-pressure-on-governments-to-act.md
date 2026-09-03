@@ -17,7 +17,6 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +36,6 @@ A global shortage of AI memory, including high-bandwidth memory and advanced DRA
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-08-27-ai-data-center-demand-is-squeezing-memory-for-android-phones]] · [[2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui]] · [[2026-08-27-ai-s-memory-crunch-hits-android-google-sets-new-app-memory-l]] · [[2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con]]
 <!-- graph:end -->

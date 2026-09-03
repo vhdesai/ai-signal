@@ -19,6 +19,7 @@ entities:
 - Perplexity
 themes:
 - model-capabilities
+- ma-activity
 - company-investments
 cross_cutting_topics:
 - china-compete
@@ -41,6 +42,6 @@ Prominent cardiologist Eric Topol and other scientists push back on the cancer-c
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[Perplexity]]
-**Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[M&A Activity]] · [[Company Investments]] · [[Global AI Race]]
 **Related:** [[2026-08-22-the-information-questions-near-term-claims-that-ai-will-cure]] · [[2026-08-23-scientists-say-ai-probably-won-t-cure-cancer-anytime-soon]] · [[2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer]] · [[2026-08-24-carnegie-mellon-ai-is-showing-a-revenue-payoff]]
 <!-- graph:end -->

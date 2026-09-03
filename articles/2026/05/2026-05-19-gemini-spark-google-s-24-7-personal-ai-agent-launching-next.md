@@ -18,7 +18,6 @@ entities:
 - Google
 themes:
 - model-capabilities
-- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
@@ -35,6 +34,6 @@ Google's most ambitious I/O announcement is Gemini Spark — a persistent backgr
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
+**Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w]]
 <!-- graph:end -->

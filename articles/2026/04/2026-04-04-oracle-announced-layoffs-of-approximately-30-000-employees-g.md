@@ -19,6 +19,7 @@ entities:
 - Oracle
 themes:
 - company-storylines
+- ma-activity
 - infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -41,6 +42,6 @@ Oracle announced layoffs of approximately 30,000 employees globally as it redire
 ## Connections
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[Oracle]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke]] · [[2026-04-02-trending-oracle-announces-30-000-layoffs-apr-1-oracle-confir]] · [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption]] · [[2026-04-02-oracle-began-notifying-thousands-of-employees-across-the-u-s]] · [[2026-08-12-oracle-drawing-up-layoff-plans-as-ai-infrastructure-debt-mou]]
 <!-- graph:end -->

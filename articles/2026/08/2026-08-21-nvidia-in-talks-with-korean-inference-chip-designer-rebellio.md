@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - company-storylines
+- ma-activity
 - company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -39,6 +40,6 @@ Nvidia has opened preliminary talks with Rebellions spanning a technical partner
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400]] · [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]] · [[2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip]] · [[2026-08-24-korean-investors-net-sell-2-63b-of-nvidia-ahead-of-earnings]] · [[2026-07-28-nvidia-sk-group-500b-partnership-is-mostly-recycled-announce]]
 <!-- graph:end -->

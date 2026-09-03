@@ -19,6 +19,7 @@ entities:
 - xAI
 themes:
 - model-capabilities
+- ma-activity
 - company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -41,6 +42,6 @@ Saturday, May 2, 2026 Today's digest covers 18 confirmed stories from the past 2
 ## Connections
 
 **Entities:** [[Cerebras]] · [[Microsoft]] · [[Mistral]] · [[xAI]]
-**Topics:** [[Model Breakthroughs]] · [[Company Investments]]
+**Topics:** [[Model Breakthroughs]] · [[M&A Activity]] · [[Company Investments]]
 **Related:** [[2026-05-14-daily-ai-news-digest-may-14-2026]] · [[2026-08-12-daily-ai-news-digest-august-13-2026]] · [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-06-29-good-morning-vik-today-s-frontier-news-is-driven-less-by-blo]]
 <!-- graph:end -->

@@ -20,6 +20,7 @@ themes:
 - datacenter-infrastructure
 - company-storylines
 - company-investments
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-20-anthropic-to-pay-xai-1-25b-per-month-for-compute-under-40b-s
@@ -36,6 +37,6 @@ SpaceX's IPO filing disclosed the structure of its Anthropic compute deal: $1.25
 ## Connections
 
 **Entities:** [[Anthropic]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-05-20-anthropic-to-pay-xai-1-25b-per-month-for-compute-under-40b-s]]
 <!-- graph:end -->

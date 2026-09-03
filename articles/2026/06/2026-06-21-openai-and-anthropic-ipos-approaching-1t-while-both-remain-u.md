@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-21-both-openai-and-anthropic-are-approaching-public-markets-at
@@ -33,6 +34,6 @@ Both approaching public markets at valuations near $1 trillion while spending bi
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-06-21-both-openai-and-anthropic-are-approaching-public-markets-at]]
 <!-- graph:end -->

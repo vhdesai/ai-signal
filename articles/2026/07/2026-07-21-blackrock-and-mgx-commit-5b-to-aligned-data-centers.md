@@ -17,6 +17,7 @@ tags:
 entities: []
 themes:
 - datacenter-infrastructure
+- ma-activity
 - infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -38,6 +39,6 @@ A BlackRock- and MGX-backed group committed $5 billion of growth capital to Alig
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-07-21-blackrock-mgx-consortium-commits-another-5b-to-aligned-data]] · [[2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da]] · [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-in-5-9b-joint]] · [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-through-14b-j]] · [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-financing]]
 <!-- graph:end -->

@@ -17,6 +17,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- ma-activity
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Anysphere released Cursor Mobile, an iPhone/iPad app (public beta) that lets dev
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]]
 **Related:** [[2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le]] · [[2026-06-30-cursor-puts-agentic-coding-on-the-iphone]] · [[2026-06-30-anysphere-released-cursor-s-first-iphone-and-ipad-app-in-pub]] · [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]] · [[2026-08-18-cursor-capitalizes-on-github-frustration-launches-rival-host]]
 <!-- graph:end -->

@@ -15,6 +15,7 @@ tags:
 entities: []
 themes:
 - company-storylines
+- company-investments
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -31,6 +32,6 @@ Clay, the New York-based developer of AI-driven sales and marketing software, is
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Related:** [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
 <!-- graph:end -->

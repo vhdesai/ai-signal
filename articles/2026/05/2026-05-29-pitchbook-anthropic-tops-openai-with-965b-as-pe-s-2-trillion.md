@@ -19,6 +19,7 @@ entities:
 - OpenAI
 themes:
 - company-storylines
+- ma-activity
 - infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -41,6 +42,6 @@ PitchBook's morning brief leads on Anthropic's $965B mark, situating it within a
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
 **Related:** [[2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-07-03-anthropic-taps-freshfields-to-steer-a-potential-trillion-dol]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation]]
 <!-- graph:end -->
