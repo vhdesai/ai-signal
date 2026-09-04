@@ -4,8 +4,8 @@ title: Japan's Digital Minister Warns Country Could Become an "AI Colony"
 date: '2026-06-05'
 source: Reuters
 url_original: null
-url_canonical: https://whtc.com/2026/06/05/japan-could-end-up-an-ai-colony-if-it-falls-behind-digital-minister-warns/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: 9d65724c6f87984076de0d8bca1372eddf56e1b69cd40b2faffb1832132c3500

@@ -5,8 +5,8 @@ title: Anthropic announced that the Claude Platform on AWS is now generally avai
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://aws.amazon.com/about-aws/whats-new/2026/05/claude-platform-aws/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 7029d005ae2edc15e10d2c93b29206b11568db3849fcf60ad2b426610d42fe61

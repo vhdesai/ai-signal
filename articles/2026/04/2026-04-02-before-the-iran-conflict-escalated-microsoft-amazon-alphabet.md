@@ -5,8 +5,8 @@ title: Before the Iran conflict escalated, Microsoft, Amazon, Alphabet, and Meta
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://aiweekly.co/alerts/amazon-microsoft-alphabet-meta-plan-725b-ai-capex-in-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-02_080231_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: e15621fc3ac5a76a131ada6b8a8a45557a88f8273553da8072932c0edd035d30

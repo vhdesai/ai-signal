@@ -4,8 +4,8 @@ title: 'Google I/O 2026: Gemini as the Agentic Platform — Overview'
 date: '2026-05-19'
 source: 'Google I/O 2026: Gemini as the Agentic Platform'
 url_original: null
-url_canonical: https://www.blockchain-council.org/ai/google-io-2026-agentic-gemini-era-google-new-updates/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\Google IO 2026 - Gemini Agentic Platform.md
 content_hash: 140ac7d3d7f9a3212fe266d6138739634e78215a403c9bd801c1aeb9b88430fc
 normalized_title_hash: 6166520efcbf4360

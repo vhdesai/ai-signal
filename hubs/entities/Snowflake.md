@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Snowflake
-member_count: 24
+member_count: 25
 ---
 
 # Snowflake
 
-> Auto-generated entity hub. 24 connected article(s).
+> Auto-generated entity hub. 25 connected article(s).
 
+- `2026-09-03` [[2026-09-03-snowflake-defies-outcome-pricing-pressure-as-ai-coding-adopt|Snowflake defies outcome-pricing pressure as AI coding adoption accelerates]]
 - `2026-09-02` [[2026-09-02-trust3-ai-extends-agent-security-controls-to-the-databricks|Trust3 AI extends agent security controls to the Databricks Unity AI Gateway]]
 - `2026-09-02` [[2026-09-02-google-deepmind-launches-the-fairwind-program-for-proactive|Google DeepMind launches the Fairwind Program for proactive cyber defense]]
 - `2026-08-18` [[2026-08-18-snowflake-s-cortex-ai-gateway-auto-routes-queries-cutting-in|Snowflake's Cortex AI Gateway Auto-Routes Queries, Cutting Inference Costs Up to 3x]]

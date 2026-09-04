@@ -4,8 +4,8 @@ title: Mistral Explores Custom Chip Design to Cut Inference Costs
 date: '2026-06-01'
 source: TechCentral.ie; MSN
 url_original: null
-url_canonical: https://aiweekly.co/alerts/mistral-explores-custom-chips-to-cut-token-costs
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-02_060023_Daily-AI-News-Digest.md
 content_hash: 6216c638d3a20a00f0ba40595fbe1446fc3b305518e6e9f80b432f1c1b1559eb
 normalized_title_hash: 61610f3ebd57d4bf

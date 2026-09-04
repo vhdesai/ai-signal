@@ -5,8 +5,8 @@ date: '2026-05-27'
 source: Sanjeev Arora (Princeton Language and Intelligence) at Cornell Tech Frontiers
   of AI Summit
 url_original: null
-url_canonical: https://vimeo.com/1176309814
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-28_071047_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 4c49b700681f692c41b28953f3a5c1505990636aec8e7b927885e8b063b069ed

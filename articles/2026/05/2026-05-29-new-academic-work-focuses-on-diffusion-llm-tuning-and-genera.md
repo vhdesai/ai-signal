@@ -4,8 +4,8 @@ title: New academic work focuses on diffusion LLM tuning and generalization dyna
 date: '2026-05-29'
 source: arXiv cs.AI
 url_original: null
-url_canonical: https://arxiv.org/abs/2606.23391v1
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_075823_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 9dc584409dc2883d8192b8b7a7d3a5b64f62746e08c4ed6672c9f7facad9ba50

@@ -5,8 +5,8 @@ title: At its Android Show event (May 12), Google announced Googlebook — a new
 date: '2026-05-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.google/products-and-platforms/platforms/android/
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070759_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: f4b3023f4fa0e7801ad94724a8e7e96890e260c3b50d69b8523a0799af696cc4

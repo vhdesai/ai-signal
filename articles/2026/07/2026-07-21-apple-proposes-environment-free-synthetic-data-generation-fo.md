@@ -4,8 +4,8 @@ title: Apple proposes environment-free synthetic data generation for API-calling
 date: '2026-07-21'
 source: Apple Machine Learning Research
 url_original: null
-url_canonical: https://machinelearning.apple.com/research/environment-free
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-22-daily-ai-news-digest.md
 content_hash: dc460df0fc500c945a97f5d70d280fee644da341728463c9fdd52af6a7f47294
 normalized_title_hash: 99ee3bc35ab0535d

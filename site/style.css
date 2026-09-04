@@ -321,9 +321,11 @@ a.invest-hero-card:hover{transform:translateY(-3px);box-shadow:0 6px 20px rgba(0
 .invest-hero-title{font-size:20px;font-weight:700;color:var(--brand)}
 .invest-hero-count{font-size:13px;color:var(--muted);font-weight:600;white-space:nowrap}
 .invest-hero-desc{font-size:14px;line-height:1.55;color:var(--text);margin:0 0 14px;flex:1}
-.invest-hero-examples{font-size:12.5px;color:var(--muted);line-height:1.5;
+.invest-hero-examples{font-size:12.5px;color:var(--muted);line-height:1.55;
                       padding-top:12px;border-top:1px dashed var(--border);margin-bottom:12px}
 .invest-hero-examples strong{color:var(--text)}
+.invest-hero-examples a{color:var(--brand);text-decoration:none;border-bottom:1px dotted var(--brand)}
+.invest-hero-examples a:hover{color:var(--accent);border-bottom-color:var(--accent)}
 .invest-hero-cta{font-size:13px;font-weight:700;color:var(--accent);margin-top:auto}
 .submit-link-cta{display:flex;align-items:center;gap:12px;margin-top:24px;padding:14px 20px;background:var(--card);
                  border:1px dashed var(--border);border-radius:var(--radius);font-size:13px;color:var(--muted)}

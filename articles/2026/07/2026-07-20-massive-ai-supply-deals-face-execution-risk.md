@@ -4,8 +4,8 @@ title: Massive AI supply deals face execution risk
 date: '2026-07-20'
 source: WSJ
 url_original: null
-url_canonical: https://news.sustainability-directory.com/industry/announced-decarbonization-projects-face-massive-execution-risk-capital-deployment-lags/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-20-daily-ai-news-digest.md
 content_hash: 0bafc006f26888032ea2bf4bf1a1f06842a12cedb9819db9afeab4ff8fa3087f
 normalized_title_hash: f9dd6e35f4cf0a71

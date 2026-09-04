@@ -5,8 +5,8 @@ title: 'Big Tech AI Earnings Week Opens: Wall Street Demands Measurable ROI, Not
 date: '2026-04-28'
 source: Globe Newswire
 url_original: null
-url_canonical: https://finance.yahoo.com/sectors/technology/articles/ramsey-theory-group-ceo-dan-114500858.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-28_072402_Inbox_Daily AI News Digest – April 28,
   2026.md
 content_hash: 626c8a04ff0f234b1314e3ae8056bf465e7648a04f7bce189e5925952ccee0ed

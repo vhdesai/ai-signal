@@ -5,8 +5,8 @@ title: UMG and TikTok renew global licensing with AI governance at the center â€
 date: '2026-05-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.universalmusic.com/label/universal-music-publishing-group/
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071713_Inbox_Daily AI News Digest â€“ May 27,
   2026.md
 content_hash: b62a457ab9ee4e6f2c31fb351906e73044709cd08f5275265d0e7d339ccef5cd

@@ -4,8 +4,8 @@ title: White House reportedly seeks utility and data-center pledge on AI power c
 date: '2026-07-13'
 source: Reuters
 url_original: null
-url_canonical: https://www.dailysignal.com/2026/07/13/white-house-data-centers-ai-pledge/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - July
   13, 2026.md
 content_hash: 15387d09e71e6cefba47e89c9d648693ac3fd230578d42b20da21563eadf6281

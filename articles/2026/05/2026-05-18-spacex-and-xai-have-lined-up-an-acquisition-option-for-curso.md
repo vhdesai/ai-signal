@@ -5,8 +5,8 @@ title: SpaceX and xAI have lined up an acquisition option for Cursor (Anysphere)
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techjournal.org/spacex-acquires-cursor-60-billion
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 560ff425b770b65e4e6f11bed093eddc5f4de6183df2cc997595d8112febdde2

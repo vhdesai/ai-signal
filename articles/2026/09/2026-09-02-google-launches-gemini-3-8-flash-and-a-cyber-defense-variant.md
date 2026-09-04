@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-02-google-releases-gemini-3-8-flash-and-gates-its-cyber-variant
 - 2026-09-02-google-launches-gemini-3-8-flash-and-a-restricted-gemini-3-8
 - 2026-09-02-google-releases-gemini-3-8-flash-and-a-restricted-cybersecur
 - 2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8
 - 2026-07-21-google-launches-gemini-3-5-flash-cyber-ai-for-vulnerability
-- 2026-09-02-google-ships-gemini-3-8-flash-to-general-availability-plus-a
 embedding_id: 2026-09-02-google-launches-gemini-3-8-flash-and-a-cyber-defense-variant
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google introduced Gemini 3.8 Flash, describing it as its strongest reasoning and
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-02-google-launches-gemini-3-8-flash-and-a-restricted-gemini-3-8]] · [[2026-09-02-google-releases-gemini-3-8-flash-and-a-restricted-cybersecur]] · [[2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8]] · [[2026-07-21-google-launches-gemini-3-5-flash-cyber-ai-for-vulnerability]] · [[2026-09-02-google-ships-gemini-3-8-flash-to-general-availability-plus-a]]
+**Related:** [[2026-09-02-google-releases-gemini-3-8-flash-and-gates-its-cyber-variant]] · [[2026-09-02-google-launches-gemini-3-8-flash-and-a-restricted-gemini-3-8]] · [[2026-09-02-google-releases-gemini-3-8-flash-and-a-restricted-cybersecur]] · [[2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8]] · [[2026-07-21-google-launches-gemini-3-5-flash-cyber-ai-for-vulnerability]]
 <!-- graph:end -->

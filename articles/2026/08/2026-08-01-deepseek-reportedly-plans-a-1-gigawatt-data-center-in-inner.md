@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-01-deepseek-reportedly-plans-a-gigawatt-scale-data-center-in-in
 - 2026-07-31-deepseek-planning-1gw-data-center-in-inner-mongolia
 - 2026-08-02-deepseek-data-center-plan-points-to-infrastructure-as-the-ne
-- 2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na
+- 2026-09-04-deepseek-and-bytedance-accelerate-china-aligned-ai-infrastru
 embedding_id: 2026-08-01-deepseek-reportedly-plans-a-1-gigawatt-data-center-in-inner
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Reports indicate DeepSeek is planning a data center of at least one gigawatt in 
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-01-deepseek-reportedly-plans-a-gigawatt-scale-data-center-in-in]] · [[2026-07-31-deepseek-planning-1gw-data-center-in-inner-mongolia]] · [[2026-08-02-deepseek-data-center-plan-points-to-infrastructure-as-the-ne]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]]
+**Related:** [[2026-08-01-deepseek-reportedly-plans-a-gigawatt-scale-data-center-in-in]] · [[2026-07-31-deepseek-planning-1gw-data-center-in-inner-mongolia]] · [[2026-08-02-deepseek-data-center-plan-points-to-infrastructure-as-the-ne]] · [[2026-09-04-deepseek-and-bytedance-accelerate-china-aligned-ai-infrastru]]
 <!-- graph:end -->

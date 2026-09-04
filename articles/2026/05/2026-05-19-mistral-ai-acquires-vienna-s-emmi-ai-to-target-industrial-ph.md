@@ -4,8 +4,8 @@ title: Mistral AI Acquires Vienna's Emmi AI to Target Industrial Physics Simulat
 date: '2026-05-19'
 source: Mistral AI / The Next Web / The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://mistral.ai/products/vibe/
+url_status: repaired
 digest_source: digests\raw\2026-05-19_070742_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 7c47345c5e5e03691820792a412fac52eac1dfd292d8a3d89f1c69945cdcc5a3

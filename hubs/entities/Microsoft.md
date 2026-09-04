@@ -1,14 +1,18 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 789
+member_count: 793
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 789 connected article(s).
+> Auto-generated entity hub. 793 connected article(s).
 
+- `2026-09-03` [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private|Mark Zuckerberg opposed a national AI regulator in a private call with Trump]]
 - `2026-09-03` [[2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim|DOJ urges judge to rule for OpenAI, Microsoft in New York Times lawsuit]]
+- `2026-09-03` [[2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-new-yo|DOJ backs OpenAI and Microsoft's fair-use position in New York Times litigation]]
+- `2026-09-03` [[2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-nyt-tr|DOJ backs OpenAI and Microsoft's fair-use position in NYT training-data litigation]]
+- `2026-09-03` [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-jane-street-ai-clo|Crusoe raises $3B at a $30B valuation after Jane Street AI cloud contract]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-02` [[2026-09-02-trending-hiddenlayer-raises-100m-series-b-as-enterprises-rus|Trending HiddenLayer raises $100M Series B as enterprises rush to secure AI deployments]]
 - `2026-09-02` [[2026-09-02-justice-department-backs-openai-s-fair-use-defense-in-publis|Justice Department Backs OpenAI's Fair-Use Defense in Publisher Copyright Case]]

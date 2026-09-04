@@ -5,8 +5,8 @@ title: DeepSWE exposes benchmark gaming as a frontier-model problem — VentureB
 date: '2026-05-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.theneuron.ai/explainer-articles/datacurves-deepswe-exposes-a-weird-new-problem-with-ai-coding-leaderboards/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-27_071713_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 900d6e84aadade032b5535e9efe91095b83fcebe246a8851f1100a7c5a6ed29c

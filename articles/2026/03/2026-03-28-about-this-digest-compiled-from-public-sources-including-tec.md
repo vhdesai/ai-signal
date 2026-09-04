@@ -5,8 +5,8 @@ title: 'About this digest: Compiled from public sources including TechCrunch, Ve
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://news.tunx.ai/best-ai-news-sources-in-2026-a-curated-daily-digest-and-ranked-guide/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: f8dcd025cc9474a00b0a79a1b9fe6121a0058abde397a4043ee5e8eb5c817123

@@ -5,8 +5,8 @@ title: '[HOT] Brain-Inspired Chip Delivers 2,000x Energy Efficiency Gain (Apr 2)
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://developmentstoday.com/innovation/a-uk-neuromorphic-chip-claim-puts-ai-efficiency-back-at-the-center-of-hardware-c
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 59dc98a8f5e6fa3c399564dfd2b7d36e6e496807b312eeeb64d86c974a18302c
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-04-02-research-breakthroughs
 - 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
 - 2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient
+- 2026-09-04-business-insider-spotlights-lightmatter-as-optical-computing
 - 2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla
-- 2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world
 embedding_id: 2026-04-02-hot-brain-inspired-chip-delivers-2-000x-energy-efficiency-ga
 event_name: ''
 ---
@@ -37,5 +37,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-02-research-breakthroughs]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient]] · [[2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla]] · [[2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world]]
+**Related:** [[2026-04-02-research-breakthroughs]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient]] · [[2026-09-04-business-insider-spotlights-lightmatter-as-optical-computing]] · [[2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla]]
 <!-- graph:end -->

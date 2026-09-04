@@ -5,8 +5,8 @@ title: The Trump Administration released a comprehensive national AI policy fram
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.whitehouse.gov/administration/donald-j-trump/
+url_status: repaired
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: 496b0b01e7c7bc13449f9b35d1c5f7d64c955b859725958e89108f08810e8069

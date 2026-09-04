@@ -4,8 +4,8 @@ title: Standard Chartered Plans 7,800+ Job Cuts by 2030, Explicitly Citing AI Ad
 date: '2026-05-19'
 source: Reuters / Financial Times / Bloomberg
 url_original: null
-url_canonical: https://www.theguardian.com/business/2026/may/19/standard-chartered-bank-cut-jobs-ai-london
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_070742_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 0e988b86972cc17fefbb19521bdef07695afece94055a132fa440de17a0fb163

@@ -4,7 +4,7 @@ title: NVIDIA delivers $81.6B record quarter as Vera CPU benchmarks debut
 date: '2026-05-20'
 source: NVIDIA Newsroom
 url_original: null
-url_canonical: https://www.ibtimes.com/nvidias-record-quarter-confirms-chipmakers-are-winning-ai-boom-3806944
+url_canonical: http://www.nvidia.com/page/home.html
 url_status: repaired
 digest_source: digests\raw\2026-05-29_073357_Inbox_Daily AI News Digest – May 29,
   2026.md

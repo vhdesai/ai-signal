@@ -5,8 +5,8 @@ title: '🧠 Model Releases & Frontier Research 5 stories ARC-AGI-3 Analysis: Fr
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://arxiv.org/abs/2603.24621
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_071133_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 61d2badd9850c40d128409a5c56e59ff0ec8db1b5676c07a7beb5e1bc5a3e274
 normalized_title_hash: cbc1537ef690dcba

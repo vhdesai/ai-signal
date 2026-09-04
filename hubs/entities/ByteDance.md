@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: ByteDance
-member_count: 81
+member_count: 83
 ---
 
 # ByteDance
 
-> Auto-generated entity hub. 81 connected article(s).
+> Auto-generated entity hub. 83 connected article(s).
 
+- `2026-09-04` [[2026-09-04-deepseek-and-bytedance-accelerate-china-aligned-ai-infrastru|DeepSeek and ByteDance accelerate China-aligned AI infrastructure plans]]
+- `2026-09-03` [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private|Mark Zuckerberg opposed a national AI regulator in a private call with Trump]]
 - `2026-08-25` [[2026-08-25-bytedance-launches-doubao-work-a-unified-office-ai-suitenew|ByteDance launches Doubao Work, a unified office AI suiteNew]]
 - `2026-08-24` [[2026-08-24-bytedance-merges-ai-teams-to-compete-with-tencenttrending|ByteDance merges AI teams to compete with TencentTrending]]
 - `2026-08-24` [[2026-08-24-bytedance-folds-trae-and-coze-into-doubao-to-challenge-tence|ByteDance folds Trae and Coze into Doubao to challenge Tencent’s WorkBuddy]]

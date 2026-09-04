@@ -5,8 +5,8 @@ title: 'Google''s Waze rolls out Gemini‑powered features: Motorcycle mode and 
 date: '2026-07-13'
 source: Engadget
 url_original: null
-url_canonical: https://www.engadget.com/2211810/waze-rolls-out-ai-features-motorcycle-less-chatty-modes/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-13_060930_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: 3beb80f790d2dc58bbcdb655dd4d6dbbf03cc5dc64fe697904e906f12a2a0556

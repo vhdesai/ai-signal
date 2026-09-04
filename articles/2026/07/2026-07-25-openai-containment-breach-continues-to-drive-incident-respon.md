@@ -5,8 +5,8 @@ title: OpenAI containment breach continues to drive incident-response and kill-s
 date: '2026-07-25'
 source: CIO Dive · Politico
 url_original: null
-url_canonical: https://www.ciodive.com/news/openai-breach-cybersecurity/825963/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-26_065947_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 942e02a47d24bb11e62594e3a97cf869f8822d34b81ded9099097c4502dd7560

@@ -4,8 +4,8 @@ title: DeepSeek reportedly plans another funding round after raising $7.4 billio
 date: '2026-07-14'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek%20funding%20round
-url_canonical: https://zukcloud.com/en/blog/2026-deepseek-second-funding-round-500-billion-valuation.html
-url_status: repaired
+url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek%20funding%20round
+url_status: broken
 digest_source: digests\raw\2026-07-14_060635_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: a1bc2c79ae017b3cf04a56a2763c997cba7f0dae49d119c071ac4d4e46746fb6

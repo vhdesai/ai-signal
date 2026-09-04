@@ -4,8 +4,8 @@ title: Zoom “do not record me” hack highlights friction from AI transcriptio
 date: '2026-07-17'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-18-daily-ai-news-digest.md
 content_hash: a9d942a4fa353bb0cd038e3264e6d2e1df33fd7459193a4db469e26692d291a1
 normalized_title_hash: 146d9ae290bb0ce3

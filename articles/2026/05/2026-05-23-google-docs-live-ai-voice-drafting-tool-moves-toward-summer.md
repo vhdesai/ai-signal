@@ -5,8 +5,8 @@ title: 'Google Docs Live: AI voice drafting tool moves toward summer launch for 
 date: '2026-05-23'
 source: Wall Street Journal via Techmeme
 url_original: null
-url_canonical: https://blog.progressiverobot.com/hands-on-with-a-pre-release-build-of-google-docs-live-an-ai-powered-voice-tool-for-drafting-documents-rolling-out-this-summer-to-ai-pro-and-ultra-subscribers-nicole-nguyenwall-street-journal
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-24_070444_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: d33dfe8baab43df61dd52b753b265c82e2bc2ca236714332e081e492f89228e8

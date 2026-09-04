@@ -4,8 +4,8 @@ title: 'AI''s Last 24 Hours: Talent Shocks, Capital, and a Two-Way Export War'
 date: '2026-06-24'
 source: 'Source window: June 23, 6:11 AM – June 24, 6:11 AM PDT'
 url_original: null
-url_canonical: https://andrew.ooo/answers/anthropic-vs-openai-vs-google-deepmind-talent-war-june-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-24_061930_Inbox_Daily AI News Digest - June 24,
   2026.md
 content_hash: 81f7e956191b1ce8b204a7b10c3795bbffde388dade5d8b4e29895f9a336fdb7

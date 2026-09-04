@@ -5,8 +5,8 @@ title: Nvidia reported $81.6B in quarterly revenue, another record, with forward
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.techspot.com/news/113642-nvidia-posts-record-quarter-predicts-ai-driven-growth.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 5058348b4bbe6e87a385ca970c67bdf472fbb847333b2637cdbe161e1b2c58ec

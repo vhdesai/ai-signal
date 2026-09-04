@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-08-24-nvidia-discusses-perplexity-investment-at-30-billion-valuati
 - 2026-08-24-nvidia-weighs-perplexity-stake-at-30b-as-the-startup-s-arr-t
 - 2026-08-24-nvidia-reportedly-discussed-a-perplexity-investment-at-a-30
+- 2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99b
 embedding_id: 2026-08-24-nvidia-discusses-perplexity-investment-at-30-billion-plus-va
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Nvidia is discussing investing in Perplexity as part of an equity round valuing 
 
 **Entities:** [[NVIDIA]] · [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-24-nvidia-discusses-perplexity-investment-at-30-billion-valuati]] · [[2026-08-24-nvidia-weighs-perplexity-stake-at-30b-as-the-startup-s-arr-t]] · [[2026-08-24-nvidia-reportedly-discussed-a-perplexity-investment-at-a-30]]
+**Related:** [[2026-08-24-nvidia-discusses-perplexity-investment-at-30-billion-valuati]] · [[2026-08-24-nvidia-weighs-perplexity-stake-at-30b-as-the-startup-s-arr-t]] · [[2026-08-24-nvidia-reportedly-discussed-a-perplexity-investment-at-a-30]] · [[2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99b]]
 <!-- graph:end -->

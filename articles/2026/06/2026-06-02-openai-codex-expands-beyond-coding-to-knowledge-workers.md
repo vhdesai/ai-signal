@@ -4,8 +4,8 @@ title: OpenAI Codex Expands Beyond Coding to Knowledge Workers
 date: '2026-06-02'
 source: Axios (Exclusive); Help Net Security
 url_original: https://www.axios.com/2026/06/02/openai-codex-knowledge-workers
-url_canonical: https://keepingupwith.ai/articles/codex-expands-beyond-coding-as-knowledge-workers-become-fastest-growing-user-seg/
-url_status: repaired
+url_canonical: https://www.axios.com/2026/06/02/openai-codex-knowledge-workers
+url_status: broken
 digest_source: digests\raw\2026-06-02_060023_Daily-AI-News-Digest.md
 content_hash: d9245a6c8bdfb6a1fb63765139e60a197730deb3d87623a33dbd96ff7404d14c
 normalized_title_hash: f546420e6858c403

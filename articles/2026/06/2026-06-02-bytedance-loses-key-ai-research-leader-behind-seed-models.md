@@ -4,8 +4,8 @@ title: ByteDance Loses Key AI Research Leader Behind Seed Models
 date: '2026-06-02'
 source: South China Morning Post
 url_original: null
-url_canonical: https://www.scmp.com/tech/big-tech/article/3355677/bytedance-loses-key-ai-research-leader-behind-seed-models-amid-monetisation-push
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-02_060023_Daily-AI-News-Digest.md
 content_hash: 5f1623fcb722259a63b07593d94feb3a3881dcddc17252b2812353c4d5a63182
 normalized_title_hash: cfdc879a69890e8e

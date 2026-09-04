@@ -1,22 +1,27 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1404
+member_count: 1409
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1404 connected article(s).
+> Auto-generated topic hub. 1409 connected article(s).
 
+- `2026-09-04` [[2026-09-04-deepseek-and-bytedance-accelerate-china-aligned-ai-infrastru|DeepSeek and ByteDance accelerate China-aligned AI infrastructure plans]]
 - `2026-09-03` [[2026-09-03-sivers-commits-30m-to-expand-indium-phosphide-laser-producti|Sivers Commits $30M to Expand Indium Phosphide Laser Production in Glasgow]]
 - `2026-09-03` [[2026-09-03-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug|Nvidia agrees to roughly $13 billion deal for AI platform Hugging Face]]
-- `2026-09-03` [[2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop|Nscale touts $103 billion in contracted revenue after Anthropic compute win]]
+- `2026-09-03` [[2026-09-03-nscale-touts-103b-in-contracted-revenue-after-anthropic-comp|Nscale touts $103B in contracted revenue after Anthropic compute win]]
+- `2026-09-03` [[2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop|Nscale touts $103 billion in contracted revenue after Anthropic and Figure compute wins]]
 - `2026-09-03` [[2026-09-03-hpe-expands-oracle-collaboration-for-ai-data-center-networki|HPE expands Oracle collaboration for AI data center networking]]
+- `2026-09-03` [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-jane-street-ai-clo|Crusoe raises $3B at a $30B valuation after Jane Street AI cloud contract]]
+- `2026-09-03` [[2026-09-03-crusoe-raises-3-billion-at-a-30-billion-valuation-after-jane|Crusoe raises $3 billion at a $30 billion valuation after Jane Street AI cloud contract]]
 - `2026-09-03` [[2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai|Broadcom projects AI chip revenue to double in 2027 and again in 2028]]
 - `2026-09-02` [[2026-09-02-ipronics-raises-125m-with-nvidia-participation-for-optical-a|iPronics raises $125M with NVIDIA participation for optical AI networking]]
 - `2026-09-02` [[2026-09-02-ipronics-raises-125-million-for-programmable-optical-network|iPronics raises $125 million for programmable optical networking, with Nvidia participating]]
 - `2026-09-02` [[2026-09-02-vertiv-to-acquire-utilityinnovation-group-to-shorten-time-to|Vertiv to acquire UtilityInnovation Group to shorten time-to-power for AI data centers]]
 - `2026-09-02` [[2026-09-02-texas-halts-new-data-center-grid-connections-after-ghost-dem|Texas Halts New Data-Center Grid Connections After “Ghost Demand” Surge]]
+- `2026-09-02` [[2026-09-02-nvidia-joins-ipronics-125m-round-for-programmable-optical-ne|Nvidia joins iPronics' $125M round for programmable optical networking]]
 - `2026-09-02` [[2026-09-02-nvidia-joins-ipronics-125-million-round-for-programmable-opt|Nvidia joins iPronics' $125 million round for programmable optical networking]]
 - `2026-09-02` [[2026-09-02-nebius-lifts-year-end-contracted-power-target-from-3-gw-to-5|Nebius Lifts Year-End Contracted Power Target from 3 GW to 5 GW]]
 - `2026-09-02` [[2026-09-02-kkr-backs-10b-ai-infrastructure-venture-helix-digital-infras|KKR backs $10B AI infrastructure venture Helix Digital Infrastructure]]

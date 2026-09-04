@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 385
+member_count: 388
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 385 connected article(s).
+> Auto-generated entity hub. 388 connected article(s).
 
+- `2026-09-04` [[2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in|Reports warn hackers are turning Claude, Qwen and DeepSeek into attack agents]]
+- `2026-09-04` [[2026-09-04-deepseek-and-bytedance-accelerate-china-aligned-ai-infrastru|DeepSeek and ByteDance accelerate China-aligned AI infrastructure plans]]
+- `2026-09-03` [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private|Mark Zuckerberg opposed a national AI regulator in a private call with Trump]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
 - `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]

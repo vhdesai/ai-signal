@@ -4,8 +4,8 @@ title: 'DeepSeek V4 Launches: 1M-Token Multimodal Model Debuts on Huawei Silicon
 date: '2026-04-24'
 source: Tech Xplore
 url_original: null
-url_canonical: https://www.brightcoast.ai/blog/deepseek-v4-launches-multimodal-frontier-model-on-huawei-chips
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-28_072402_Inbox_Daily AI News Digest – April 28,
   2026.md
 content_hash: 1f62d0e696c518fedf631eca0151558bdb2c947d3031f71179b8a4ded83b8f6d

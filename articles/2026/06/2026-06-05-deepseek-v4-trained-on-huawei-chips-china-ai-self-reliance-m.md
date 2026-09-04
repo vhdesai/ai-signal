@@ -4,8 +4,8 @@ title: DeepSeek V4 Trained on Huawei Chips — China AI Self-Reliance Milestone
 date: '2026-06-05'
 source: South China Morning Post; Huawei Central
 url_original: null
-url_canonical: https://www.scmp.com/tech/article/3356117/huawei-chips-refine-deepseek-model-major-leap-chinas-ai-self-reliance
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
 content_hash: 7260698eadff2e6a3ad9a1cafd29e22b9da353a4b7f39390385432d176e34e1a

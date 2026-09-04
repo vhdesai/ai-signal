@@ -1,14 +1,17 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1232
+member_count: 1236
 ---
 
 # Google
 
-> Auto-generated entity hub. 1232 connected article(s).
+> Auto-generated entity hub. 1236 connected article(s).
 
+- `2026-09-03` [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private|Mark Zuckerberg opposed a national AI regulator in a private call with Trump]]
 - `2026-09-03` [[2026-09-03-judge-rejects-doj-push-to-force-google-to-divest-adx|Judge Rejects DOJ Push to Force Google to Divest AdX]]
+- `2026-09-03` [[2026-09-03-google-research-maps-the-complete-male-fruit-fly-brain|Google Research maps the complete male fruit fly brain]]
+- `2026-09-03` [[2026-09-03-google-deepmind-releases-weathernext-3-with-higher-resolutio|Google DeepMind releases WeatherNext 3 with higher-resolution AI forecasting]]
 - `2026-09-03` [[2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai|Broadcom projects AI chip revenue to double in 2027 and again in 2028]]
 - `2026-09-03` [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a|Anthropic breaks with Google and OpenAI over Massachusetts AI safety bill]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
@@ -20,6 +23,7 @@ member_count: 1232
 - `2026-09-02` [[2026-09-02-google-s-fairwind-program-gates-advanced-cyber-ai-to-trusted|Google's Fairwind Program gates advanced cyber AI to trusted defenders]]
 - `2026-09-02` [[2026-09-02-google-starts-september-with-ai-momentum-after-a-long-stock|Google starts September with AI momentum after a long stock losing streak]]
 - `2026-09-02` [[2026-09-02-google-ships-gemini-3-8-flash-to-general-availability-plus-a|Google ships Gemini 3.8 Flash to general availability, plus a Flash Cyber variant]]
+- `2026-09-02` [[2026-09-02-google-releases-gemini-3-8-flash-and-gates-its-cyber-variant|Google releases Gemini 3.8 Flash and gates its cyber variant through Fairwind]]
 - `2026-09-02` [[2026-09-02-google-releases-gemini-3-8-flash-and-a-restricted-cybersecur|Google releases Gemini 3.8 Flash and a restricted cybersecurity variant]]
 - `2026-09-02` [[2026-09-02-google-launches-gemini-3-8-flash-and-a-cyber-defense-variant|Google launches Gemini 3.8 Flash and a cyber-defense variant for trusted defenders]]
 - `2026-09-02` [[2026-09-02-google-reportedly-readying-a-new-gemini-model-codenamed-skim|Google Reportedly Readying a New Gemini Model Codenamed “Skimaki”]]

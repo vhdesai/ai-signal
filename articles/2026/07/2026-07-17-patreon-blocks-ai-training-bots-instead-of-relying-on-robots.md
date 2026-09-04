@@ -4,8 +4,8 @@ title: Patreon blocks AI training bots instead of relying on robots.txt
 date: '2026-07-17'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-19-daily-ai-news-digest.md
 content_hash: 6152c1b9ba5d3ce2a76257ecb31f4255e9d9288a497c5d21ad2fd90a778f3f2e
 normalized_title_hash: 199d1fafac3aebb4

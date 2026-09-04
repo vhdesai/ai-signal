@@ -4,8 +4,8 @@ title: 'O''Reilly: "Your AI agent already forgot half of what you told it"'
 date: '2026-05-27'
 source: O'Reilly
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.oreilly.com/products/books-videos.html
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 615a96d8a2799886e8a5c214a5b8869eff8d3240891d35fb2cc5573d8dd34134

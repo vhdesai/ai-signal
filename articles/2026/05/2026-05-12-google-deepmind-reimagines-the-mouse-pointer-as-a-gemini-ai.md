@@ -4,8 +4,8 @@ title: Google DeepMind reimagines the mouse pointer as a Gemini AI agent
 date: '2026-05-12'
 source: Google DeepMind Blog  · Analytics India Magazine
 url_original: null
-url_canonical: https://deepmind.google/blog/ai-pointer/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 09be976805a6f591dc322ea425d7c6d63ceb2afdccd141560799510de86cc9b1

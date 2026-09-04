@@ -5,8 +5,8 @@ title: The Trump administration's Commerce Department order forcing Anthropic to
 date: '2026-06-19'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.whitehouse.gov/administration/donald-j-trump/
+url_status: repaired
 digest_source: digests\raw\2026-06-19-daily-ai-news-digest.md
 content_hash: f658fed6bd30d9754ea0c707f468b172abe587bb6c5caa6ae9fe8f9a8a2283fc
 normalized_title_hash: 4d99c254247e5fea

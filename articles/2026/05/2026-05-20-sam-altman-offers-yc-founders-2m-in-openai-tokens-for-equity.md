@@ -4,8 +4,8 @@ title: Sam Altman offers YC founders $2M in OpenAI tokens for equity
 date: '2026-05-20'
 source: Economic Times · Read article
 url_original: null
-url_canonical: https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-invest-in-yc-startups-using-2-million-worth-of-tokens-heres-what-it-means/articleshow/131224704.cms
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 14eaf5becae4738b3747a08c69b7a30fc3eb955dabff81a1e8070aab032a4360

@@ -21,7 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-23-hugging-face-fielding-m-a-interest-at-13-billion
-- 2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion
+- 2026-09-04-nvidia-agrees-to-buy-hugging-face-taking-control-of-a-key-op
 embedding_id: 2026-08-24-hugging-face-draws-m-a-interest
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Business Insider reports that Hugging Face, the open-source AI model hosting pla
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-08-23-hugging-face-fielding-m-a-interest-at-13-billion]] · [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion]]
+**Related:** [[2026-08-23-hugging-face-fielding-m-a-interest-at-13-billion]] · [[2026-09-04-nvidia-agrees-to-buy-hugging-face-taking-control-of-a-key-op]]
 <!-- graph:end -->

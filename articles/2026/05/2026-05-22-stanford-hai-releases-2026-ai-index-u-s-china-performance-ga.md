@@ -5,8 +5,8 @@ title: Stanford HAI Releases 2026 AI Index — U.S.-China Performance Gap Closes
 date: '2026-05-22'
 source: Stanford HAI
 url_original: null
-url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_071207_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 1ea50342c3cd9d04486574b30b637606c7f7e03fd9a408089d16de01ab28a407

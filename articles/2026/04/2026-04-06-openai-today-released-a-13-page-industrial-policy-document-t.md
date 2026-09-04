@@ -5,8 +5,8 @@ title: OpenAI today released a 13-page industrial policy document titled "Indust
 date: '2026-04-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.ai.cc/blogs/openai-industrial-policy-for-the-intelligence-age-2026-api-developers-compliance-guide/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-06_070950_Inbox_Daily AI News Digest – April 6,
   2026.md
 content_hash: ecc48a9baaaa52d4f84fb633cc7901c9d870e360332669b6b6005b39139cb885

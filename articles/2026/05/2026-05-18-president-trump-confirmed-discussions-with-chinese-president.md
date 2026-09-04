@@ -5,8 +5,8 @@ title: President Trump confirmed discussions with Chinese President Xi Jinping o
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.whitehouse.gov/administration/donald-j-trump/
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: f0495f01a708dd3488783c0ed59758e36c266878a8845b221d24f6579cbc05c3

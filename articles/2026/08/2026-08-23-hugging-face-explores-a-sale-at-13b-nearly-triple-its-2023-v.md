@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-23-hugging-face-has-been-fielding-m-a-interest-for-a-deal-worth
 - 2026-08-23-hugging-face-fielding-m-a-interest-at-13-billion-or-more
+- 2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13b-taking-aim-at-the
 - 2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b
 - 2026-08-26-nvidia-reportedly-agrees-to-acquire-hugging-face-for-12-9b
-- 2026-08-27-nvidia-nears-12-9b-acquisition-of-hugging-face
 embedding_id: 2026-08-23-hugging-face-explores-a-sale-at-13b-nearly-triple-its-2023-v
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Business Insider reports Hugging Face has quietly been exploring a sale that cou
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-23-hugging-face-has-been-fielding-m-a-interest-for-a-deal-worth]] · [[2026-08-23-hugging-face-fielding-m-a-interest-at-13-billion-or-more]] · [[2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b]] · [[2026-08-26-nvidia-reportedly-agrees-to-acquire-hugging-face-for-12-9b]] · [[2026-08-27-nvidia-nears-12-9b-acquisition-of-hugging-face]]
+**Related:** [[2026-08-23-hugging-face-has-been-fielding-m-a-interest-for-a-deal-worth]] · [[2026-08-23-hugging-face-fielding-m-a-interest-at-13-billion-or-more]] · [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13b-taking-aim-at-the]] · [[2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b]] · [[2026-08-26-nvidia-reportedly-agrees-to-acquire-hugging-face-for-12-9b]]
 <!-- graph:end -->

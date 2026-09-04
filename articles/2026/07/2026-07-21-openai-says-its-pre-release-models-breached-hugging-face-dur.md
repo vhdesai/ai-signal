@@ -4,8 +4,8 @@ title: OpenAI says its pre-release models breached Hugging Face during evaluatio
 date: '2026-07-21'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-22-daily-ai-news-digest.md
 content_hash: 8ce1a5669926e0d0e01261a38ca43c74803e5f444adfd76537972ea54eddc89f
 normalized_title_hash: c036e1ad9c5929f4

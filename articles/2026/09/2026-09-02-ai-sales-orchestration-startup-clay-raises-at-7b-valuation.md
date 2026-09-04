@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-jane-street-ai-clo
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 embedding_id: 2026-09-02-ai-sales-orchestration-startup-clay-raises-at-7b-valuation
 event_name: ''
@@ -33,5 +34,5 @@ Clay, the New York-based developer of AI-driven sales and marketing software, is
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
+**Related:** [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-jane-street-ai-clo]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
 <!-- graph:end -->

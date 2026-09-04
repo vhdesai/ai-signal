@@ -5,8 +5,8 @@ title: Microsoft introduced Copilot upgrades enabling multiple AI models — inc
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.itechguides.com/anthropics-claude-models-are-now-available-in-microsoft-365-copilot-what-that-means-in-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: 853491b3eaecc779e597a3b9df50d38b230f57813e9f6fc79fd0fb04430e2915

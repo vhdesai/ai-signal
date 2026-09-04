@@ -4,8 +4,8 @@ title: 'The AI spending mirage: Nvidia needs to sell more chips, not pricier one
 date: '2026-05-20'
 source: The Motley Fool · Read article
 url_original: null
-url_canonical: https://www.fool.com/investing/2026/09/01/nvidia-just-proved-it-doesnt-need-china-anymore/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: d45f912d9f803da33813e8e7cc13d59f00d4386b2fd44ab2de1145db58d0c5c0

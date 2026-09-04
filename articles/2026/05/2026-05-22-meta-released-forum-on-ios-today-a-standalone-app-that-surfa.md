@@ -5,8 +5,8 @@ title: Meta released Forum on iOS today, a standalone app that surfaces Facebook
 date: '2026-05-22'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.wionews.com/technology/what-is-meta-s-new-forum-app-facebook-groups-gets-a-standalone-ai-powered-platform-1779611977767
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_070841_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 49a45b0eb4bc57af53c09290cd1df106a73972184306df576af4a01c0fde3528

@@ -4,8 +4,8 @@ title: AMD and Anthropic sign major chips-and-investment deal
 date: '2026-07-22'
 source: WSJ
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/ai/articles/amd-invest-5-billion-anthropic-123753765.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-22_060455_Inbox_Daily AI News Digest - July 22,
   2026.md
 content_hash: 2e430268a2a434f7f8fdce41b5fb18cd912a89cf6fda229fe315217122312f52

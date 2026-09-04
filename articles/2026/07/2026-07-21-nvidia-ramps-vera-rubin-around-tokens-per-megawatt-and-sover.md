@@ -4,8 +4,8 @@ title: NVIDIA ramps Vera Rubin around tokens per megawatt and sovereign AI
 date: '2026-07-21'
 source: NVIDIA Blog
 url_original: null
-url_canonical: https://blogs.nvidia.com/blog/vera-rubin/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-22-daily-ai-news-digest.md
 content_hash: 08f9522beefd2e0a2891b01362cd69032b16da82eade6fd711b8fab7ce5548ae
 normalized_title_hash: 6b285978d07436af

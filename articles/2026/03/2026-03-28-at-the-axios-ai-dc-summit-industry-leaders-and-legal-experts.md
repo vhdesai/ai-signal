@@ -5,8 +5,8 @@ title: At the Axios AI+DC Summit, industry leaders and legal experts concluded t
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://kipcurriermanagementleadership.blogspot.com/2026/03/axios-aidc-summit-copyright-protection.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: 9a04a659613c07a2135856ed5940e4783144fbcb4cec010e977fa346f1e6fd71

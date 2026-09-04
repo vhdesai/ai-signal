@@ -4,8 +4,8 @@ title: Mira Murati's Thinking Machines Leaned on Chinese Tech for Its Debut Mode
 date: '2026-07-19'
 source: Financial Times**
 url_original: null
-url_canonical: https://thevalue.engineering/news/mira-murati-inkling-thinking-machines-launch.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-20_065040_Final-Daily-AI-News-Digest.md
 content_hash: d491a65840dfce7764c80ff566b9a0e64c47226ddf966cb2f83f947855dee097
 normalized_title_hash: 252f29b54aec01bc

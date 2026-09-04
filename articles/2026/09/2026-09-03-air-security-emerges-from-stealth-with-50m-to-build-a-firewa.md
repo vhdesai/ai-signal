@@ -20,8 +20,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-03-air-security-launches-with-50-million-to-build-a-firewall-fo
+- 2026-09-03-air-security-launches-with-50m-to-build-a-firewall-for-ai-ag
 - 2026-09-01-air-emerges-from-stealth-with-50m-to-police-the-ai-agent-sof
-- 2026-07-15-oak-exits-stealth-with-60m-to-govern-identity-for-ai-agents
 embedding_id: 2026-09-03-air-security-emerges-from-stealth-with-50m-to-build-a-firewa
 event_name: ''
 ---
@@ -34,5 +34,5 @@ AIR Security launched with $50 million raised across two seed rounds led by Sequ
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-03-air-security-launches-with-50-million-to-build-a-firewall-fo]] · [[2026-09-01-air-emerges-from-stealth-with-50m-to-police-the-ai-agent-sof]] · [[2026-07-15-oak-exits-stealth-with-60m-to-govern-identity-for-ai-agents]]
+**Related:** [[2026-09-03-air-security-launches-with-50-million-to-build-a-firewall-fo]] · [[2026-09-03-air-security-launches-with-50m-to-build-a-firewall-for-ai-ag]] · [[2026-09-01-air-emerges-from-stealth-with-50m-to-police-the-ai-agent-sof]]
 <!-- graph:end -->

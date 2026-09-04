@@ -5,8 +5,8 @@ title: Bristol Myers Squibb to Build One of the Largest Private NVIDIA Clusters 
 date: '2026-07-20'
 source: Bristol Myers Squibb**
 url_original: https://news.bms.com/news/corporate-financial/2026/Bristol-Myers-Squibb-to-Build-the-Most-Powerful-AI-Factory-in-Life-Sciences-with-NVIDIA/default.aspx
-url_canonical: https://www.biospace.com/press-releases/bristol-myers-squibb-to-build-the-most-powerful-ai-factory-in-life-sciences-with-nvidia
-url_status: repaired
+url_canonical: https://news.bms.com/news/corporate-financial/2026/Bristol-Myers-Squibb-to-Build-the-Most-Powerful-AI-Factory-in-Life-Sciences-with-NVIDIA/default.aspx
+url_status: broken
 digest_source: digests\raw\2026-07-21_065051_Final-Daily-AI-News-Digest.md
 content_hash: 3812be6248422ee33e2013966176ee7cee3ebdc2542ad9dcd20093b0dacf62ae
 normalized_title_hash: dc87762715707bcf

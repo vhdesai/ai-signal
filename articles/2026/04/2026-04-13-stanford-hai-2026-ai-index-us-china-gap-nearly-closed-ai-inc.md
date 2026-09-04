@@ -5,8 +5,8 @@ title: Stanford HAI 2026 AI Index — US-China Gap Nearly Closed, AI Incidents U
 date: '2026-04-13'
 source: Stanford HAI / MIT Technology Review / IEEE Spectrum
 url_original: null
-url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_070742_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: a7b63171294ccb4e55e1504a7320d41866148195bc5740cf224606098ee7eb04

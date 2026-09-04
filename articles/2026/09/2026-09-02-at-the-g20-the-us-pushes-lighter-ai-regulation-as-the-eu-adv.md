@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-02-us-pushes-deregulation-at-g20-innovation-ministerial-as-eu-a
 - 2026-09-01-u-s-pushes-g20-toward-light-touch-ai-regulation-under-the-ca
+- 2026-09-03-g20-endorses-u-s-backed-carolina-principles-for-sector-based
 - 2026-09-02-u-s-pushes-light-touch-ai-regulation-at-g20-as-europe-advanc
 - 2026-09-02-g20-technology-discussions-center-on-u-s-ai-adoption-and-dat
-- 2026-08-25-analysis-u-s-and-eu-ai-regulation-continue-to-diverge-struct
 embedding_id: 2026-09-02-at-the-g20-the-us-pushes-lighter-ai-regulation-as-the-eu-adv
 event_name: ''
 ---
@@ -36,5 +36,5 @@ At the G20 innovation ministerial, Commerce Secretary Howard Lutnick pitched int
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-02-us-pushes-deregulation-at-g20-innovation-ministerial-as-eu-a]] · [[2026-09-01-u-s-pushes-g20-toward-light-touch-ai-regulation-under-the-ca]] · [[2026-09-02-u-s-pushes-light-touch-ai-regulation-at-g20-as-europe-advanc]] · [[2026-09-02-g20-technology-discussions-center-on-u-s-ai-adoption-and-dat]] · [[2026-08-25-analysis-u-s-and-eu-ai-regulation-continue-to-diverge-struct]]
+**Related:** [[2026-09-02-us-pushes-deregulation-at-g20-innovation-ministerial-as-eu-a]] · [[2026-09-01-u-s-pushes-g20-toward-light-touch-ai-regulation-under-the-ca]] · [[2026-09-03-g20-endorses-u-s-backed-carolina-principles-for-sector-based]] · [[2026-09-02-u-s-pushes-light-touch-ai-regulation-at-g20-as-europe-advanc]] · [[2026-09-02-g20-technology-discussions-center-on-u-s-ai-adoption-and-dat]]
 <!-- graph:end -->

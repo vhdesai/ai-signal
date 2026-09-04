@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-06-at-canva-chatgpt-compounded-an-ai-challenge
 - 2026-07-16-google-ai-mode-adds-app-integrations-for-instacart-canva-and
 - 2026-05-25-adobe-canva-and-capcut-integrate-gemini-directly-inside-the
 - 2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi
 - 2026-09-01-google-pics-targets-canva-and-adobe-with-a-prompt-first-desi
+- 2026-04-03-google-upgraded-vids-with-veo-3-1-video-generation-lyria-3-m
 embedding_id: 2026-04-16-canva-s-updated-ai-assistant-now-uses-its-ai-model-to-let-us
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Canva's updated AI assistant now uses its AI model to let users create editable,
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-at-canva-chatgpt-compounded-an-ai-challenge]] · [[2026-07-16-google-ai-mode-adds-app-integrations-for-instacart-canva-and]] · [[2026-05-25-adobe-canva-and-capcut-integrate-gemini-directly-inside-the]] · [[2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi]] · [[2026-09-01-google-pics-targets-canva-and-adobe-with-a-prompt-first-desi]]
+**Related:** [[2026-07-16-google-ai-mode-adds-app-integrations-for-instacart-canva-and]] · [[2026-05-25-adobe-canva-and-capcut-integrate-gemini-directly-inside-the]] · [[2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi]] · [[2026-09-01-google-pics-targets-canva-and-adobe-with-a-prompt-first-desi]] · [[2026-04-03-google-upgraded-vids-with-veo-3-1-video-generation-lyria-3-m]]
 <!-- graph:end -->

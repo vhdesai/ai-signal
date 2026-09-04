@@ -4,8 +4,8 @@ title: Trump postpones AI executive order signing at the last minute
 date: '2026-05-22'
 source: The Silicon Review
 url_original: null
-url_canonical: https://techbuzz.ai/articles/trump-postpones-ai-executive-order-signing-i-didn-t-like-certain-aspects
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-24_070444_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 04298291b2ea8bbe8e5df1c4d387a5cfa3be2f7bd49a1edba0b8106df931494d

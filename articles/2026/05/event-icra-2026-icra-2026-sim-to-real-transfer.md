@@ -4,8 +4,8 @@ title: 'ICRA 2026: Sim-to-real transfer'
 date: '2026-05-28'
 source: ICRA 2026
 url_original: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
-url_canonical: https://www.embodiedglobal.com/en/article/nvidia-icra-2026-sim-to-real-robotics-research
-url_status: repaired
+url_canonical: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
+url_status: broken
 digest_source: digests\raw\icra-2026.md
 content_hash: 999b827a3ed471bca9dd1dce9a6c914daa9ba9d4f5b9219a6818154a2b814e0c
 normalized_title_hash: 47e496b12faedbac

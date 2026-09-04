@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-06-mirendil-signs-100m-google-cloud-deal-to-scale-self-improvin
 - 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
+- 2026-09-03-crusoe-raises-3-billion-at-a-30-billion-valuation-after-jane
 - 2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu
-- 2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit
 embedding_id: 2026-08-06-mirendil-signs-100-million-plus-google-cloud-deal-for-self-i
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Mirendil signed a multiyear Google Cloud partnership worth more than $100 millio
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-06-mirendil-signs-100m-google-cloud-deal-to-scale-self-improvin]] · [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]]
+**Related:** [[2026-08-06-mirendil-signs-100m-google-cloud-deal-to-scale-self-improvin]] · [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-09-03-crusoe-raises-3-billion-at-a-30-billion-valuation-after-jane]] · [[2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu]]
 <!-- graph:end -->

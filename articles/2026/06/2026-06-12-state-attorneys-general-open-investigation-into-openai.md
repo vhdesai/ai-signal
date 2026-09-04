@@ -4,8 +4,8 @@ title: State Attorneys General Open Investigation into OpenAI
 date: '2026-06-12'
 source: Wall Street Journal
 url_original: null
-url_canonical: https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-13_160430_Final-Daily-AI-News-Digest.md
 content_hash: f32c6e07b42845b2afe2b986d934984954b5fcdd8a0561c313946b534e4f6ab9
 normalized_title_hash: 334d4ca51c154683

@@ -4,8 +4,8 @@ title: California Issues Trusted-AI Procurement Executive Order, Mandates Waterm
 date: '2026-05-23'
 source: State of California Executive Order N-5-26 / AI Flash Report
 url_original: null
-url_canonical: https://www.clearygottlieb.com/news-and-insights/publication-listing/california-issues-executive-order-on-procurement
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-25_070622_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 4fe2bdbe73d287397c9ac285acf0885fe1b1d8ee4925613a0ae1f32d3ad51eb7

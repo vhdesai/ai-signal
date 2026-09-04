@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t
 - 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
 - 2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training
+- 2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-new-yo
 - 2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio
-- 2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over
 embedding_id: 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The New York Times and The Daily News filed a sanctions motion alleging OpenAI c
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training]] · [[2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio]] · [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over]]
+**Related:** [[2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training]] · [[2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-new-yo]] · [[2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio]]
 <!-- graph:end -->

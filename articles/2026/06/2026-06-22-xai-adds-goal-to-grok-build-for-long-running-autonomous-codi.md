@@ -4,8 +4,8 @@ title: xAI Adds /goal to Grok Build for Long-Running Autonomous Coding
 date: '2026-06-22'
 source: Blockchain.News; MarkTechPost
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://builtin.com/artificial-intelligence/what-is-xai
+url_status: repaired
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 8dc4c14160bcba5dba54ec4b5d9551c22157f5951ffb7e5e6dbfa7c7266693e1
 normalized_title_hash: 4f083395ecac8005

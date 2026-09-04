@@ -4,8 +4,8 @@ title: xAI–Mistral–Cursor partnership talks gain definition
 date: '2026-05-23'
 source: 'Source: Sifted / Tech Express'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techjournal.org/spacex-xai-merger
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070540_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: e90cfb99bd186ebcbbe3515302b8f74586592f85337a7d026884d62388e06ef4

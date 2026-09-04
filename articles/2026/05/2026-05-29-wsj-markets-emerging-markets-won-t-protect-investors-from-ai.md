@@ -4,8 +4,8 @@ title: 'WSJ Markets: Emerging markets won''t protect investors from AI mania'
 date: '2026-05-29'
 source: The Wall Street Journal
 url_original: null
-url_canonical: https://www.msn.com/en-us/money/markets/emerging-markets-won-t-protect-you-from-ai-mania/ar-AA24lvaq
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: fdbc912314110f01df8001071c22335d888ed50f57d51121e4ff245059adc1c6

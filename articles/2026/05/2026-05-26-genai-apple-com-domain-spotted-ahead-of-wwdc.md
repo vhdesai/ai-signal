@@ -4,8 +4,8 @@ title: genai.apple.com domain spotted ahead of WWDC
 date: '2026-05-26'
 source: MacRumors
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://grokipedia.com/page/GenAImil
+url_status: repaired
 digest_source: digests\raw\2026-05-27_072257_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 82ebe8982007bef503f302d90f4658e4ffad37f56d074a701229176323344e85

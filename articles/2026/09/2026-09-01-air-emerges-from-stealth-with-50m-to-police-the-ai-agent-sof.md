@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-09-01-air-emerges-from-stealth-with-50m-to-police-the-ai-agent-sup
 - 2026-09-01-air-launches-with-50m-to-build-a-firewall-for-ai-agent-skill
 - 2026-09-03-air-security-emerges-from-stealth-with-50m-to-build-a-firewa
+- 2026-09-03-air-security-launches-with-50m-to-build-a-firewall-for-ai-ag
 - 2026-09-03-air-security-launches-with-50-million-to-build-a-firewall-fo
-- 2026-08-03-june-emerges-from-stealth-with-20-million-to-automate-enterp
 embedding_id: 2026-09-01-air-emerges-from-stealth-with-50m-to-police-the-ai-agent-sof
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Founded by two Israeli Unit 8200 veterans, AIR raised $50 million across two see
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
-**Related:** [[2026-09-01-air-emerges-from-stealth-with-50m-to-police-the-ai-agent-sup]] · [[2026-09-01-air-launches-with-50m-to-build-a-firewall-for-ai-agent-skill]] · [[2026-09-03-air-security-emerges-from-stealth-with-50m-to-build-a-firewa]] · [[2026-09-03-air-security-launches-with-50-million-to-build-a-firewall-fo]] · [[2026-08-03-june-emerges-from-stealth-with-20-million-to-automate-enterp]]
+**Related:** [[2026-09-01-air-emerges-from-stealth-with-50m-to-police-the-ai-agent-sup]] · [[2026-09-01-air-launches-with-50m-to-build-a-firewall-for-ai-agent-skill]] · [[2026-09-03-air-security-emerges-from-stealth-with-50m-to-build-a-firewa]] · [[2026-09-03-air-security-launches-with-50m-to-build-a-firewall-for-ai-ag]] · [[2026-09-03-air-security-launches-with-50-million-to-build-a-firewall-fo]]
 <!-- graph:end -->

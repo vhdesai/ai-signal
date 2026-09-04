@@ -5,8 +5,8 @@ title: 'Hugging Face Daily Papers: ~30 New Submissions Including Google DeepMind
 date: '2026-05-11'
 source: 🔗 Hugging Face Daily Papers  · 🏛 Multiple institutions
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.ibm.com/think/topics/hugging-face
+url_status: repaired
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: d1b6d1adf0e3c39a6111a513124148a6984043b4dd03f32c7831f50abe6f5c3c

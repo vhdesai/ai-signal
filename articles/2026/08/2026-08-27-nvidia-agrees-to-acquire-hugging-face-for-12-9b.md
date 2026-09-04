@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-27-nvidia-agrees-to-buy-hugging-face-for-a-reported-12-9-billio
 - 2026-08-26-nvidia-reportedly-agrees-to-acquire-hugging-face-for-12-9b
 - 2026-08-27-nvidia-nears-12-9b-acquisition-of-hugging-face
-- 2026-08-29-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion
+- 2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control
 embedding_id: 2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Nvidia has reportedly agreed to buy open-source model hub Hugging Face for $12.9
 
 **Entities:** [[Google]] · [[NVIDIA]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion]] · [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-a-reported-12-9-billio]] · [[2026-08-26-nvidia-reportedly-agrees-to-acquire-hugging-face-for-12-9b]] · [[2026-08-27-nvidia-nears-12-9b-acquisition-of-hugging-face]] · [[2026-08-29-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion]]
+**Related:** [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion]] · [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-a-reported-12-9-billio]] · [[2026-08-26-nvidia-reportedly-agrees-to-acquire-hugging-face-for-12-9b]] · [[2026-08-27-nvidia-nears-12-9b-acquisition-of-hugging-face]] · [[2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control]]
 <!-- graph:end -->

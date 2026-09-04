@@ -4,8 +4,8 @@ title: xAI Ships Grok 4.3; Now Available in Palantir AIP
 date: '2026-05-06'
 source: xAI / Palantir Release Notes
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://builtin.com/artificial-intelligence/what-is-xai
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: d5f0b8b6222bcfbaf683b69f27e200de97b32050a67852f932ebe9e3ca13c736

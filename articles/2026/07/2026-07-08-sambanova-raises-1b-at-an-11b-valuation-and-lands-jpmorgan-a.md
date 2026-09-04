@@ -5,8 +5,8 @@ title: SambaNova raises $1B at an $11B valuation and lands JPMorgan as an infere
 date: '2026-07-08'
 source: Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/
+url_status: repaired
 digest_source: digests\raw\2026-07-09_084403_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 19a991e118b29e1fe5b3b5e8a3835099488876f403f24ad1011afa533fea0cb4

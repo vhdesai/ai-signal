@@ -1,14 +1,17 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 638
+member_count: 641
 ---
 
 # Meta
 
-> Auto-generated entity hub. 638 connected article(s).
+> Auto-generated entity hub. 641 connected article(s).
 
 - `2026-09-03` [[2026-09-03-sanders-and-casar-propose-a-u-s-ban-on-artificial-superintel|Sanders and Casar Propose a U.S. Ban on 'Artificial Superintelligence']]
+- `2026-09-03` [[2026-09-03-meta-ships-muse-spark-1-3-as-agent-economics-move-to-the-for|Meta ships Muse Spark 1.3 as agent economics move to the foreground]]
+- `2026-09-03` [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private|Mark Zuckerberg opposed a national AI regulator in a private call with Trump]]
+- `2026-09-03` [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-jane-street-ai-clo|Crusoe raises $3B at a $30B valuation after Jane Street AI cloud contract]]
 - `2026-09-03` [[2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai|Broadcom projects AI chip revenue to double in 2027 and again in 2028]]
 - `2026-09-03` [[2026-09-03-amazon-and-meta-ai-bots-account-for-most-website-visits|Amazon and Meta AI bots account for most website visits]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]

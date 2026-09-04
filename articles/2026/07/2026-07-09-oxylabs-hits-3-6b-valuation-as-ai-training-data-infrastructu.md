@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-10-oxylabs-raises-130m-from-warburg-pincus-at-a-3-6b-valuation
 - 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu
 - 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat
-- 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
+- 2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-jane-street-ai-clo
 embedding_id: 2026-07-09-oxylabs-hits-3-6b-valuation-as-ai-training-data-infrastructu
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Lithuanian web-data and scraping-infrastructure company Oxylabs raised $130 mill
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-09-web-data-infrastructure-firm-oxylabs-hits-3-6b-valuation-in]] · [[2026-07-10-oxylabs-raises-130m-from-warburg-pincus-at-a-3-6b-valuation]] · [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu]] · [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
+**Related:** [[2026-07-09-web-data-infrastructure-firm-oxylabs-hits-3-6b-valuation-in]] · [[2026-07-10-oxylabs-raises-130m-from-warburg-pincus-at-a-3-6b-valuation]] · [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu]] · [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat]] · [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-jane-street-ai-clo]]
 <!-- graph:end -->

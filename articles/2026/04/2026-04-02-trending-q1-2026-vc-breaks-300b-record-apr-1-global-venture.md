@@ -5,7 +5,7 @@ title: '[TRENDING] Q1 2026 VC Breaks $300B Record (Apr 1) Global venture capital
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.aiworldmeter.com/blog/q1-2026-ai-venture-funding-300-billion
+url_canonical: https://explodingtopics.com/blog/trending-topics
 url_status: repaired
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md

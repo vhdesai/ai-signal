@@ -5,8 +5,8 @@ title: Anduril raises $5B, valuation doubles to $61B — TechCrunch, May 13, 202
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://artificialweapons.com/articles/anduril-60-billion-valuation-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: eb9bb80c344d45d45b6e77ba337c2e6bc5222037514ea9cbeab20d17059e2800

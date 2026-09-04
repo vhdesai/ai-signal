@@ -4,8 +4,8 @@ title: Scientists use AI detectors to protect gray whales in San Francisco Bay
 date: '2026-05-19'
 source: NBC News · Read article
 url_original: null
-url_canonical: https://www.nbcnews.com/news/animal-news/new-whale-detection-network-launches-san-francisco-bay-alerting-ships-rcna346046
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 7e4ab32934c0eb41caf1654af63e0d9264dcb42e6c6dbf7c48305c78e48eaacf

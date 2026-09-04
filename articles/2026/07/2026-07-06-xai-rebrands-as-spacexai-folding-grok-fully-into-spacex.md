@@ -4,8 +4,8 @@ title: xAI rebrands as SpaceXAI, folding Grok fully into SpaceX
 date: '2026-07-06'
 source: Gizmodo
 url_original: null
-url_canonical: https://aiclaudius.com/article/xai-rebrands-spacexai-musk-grok-merger-jul-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-07_061919_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 35372704ce6acb8af9a124d52d01708e9fd195adf67f75f7e12032f99cd3ec7f

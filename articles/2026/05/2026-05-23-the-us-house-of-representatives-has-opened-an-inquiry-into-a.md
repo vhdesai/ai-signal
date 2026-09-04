@@ -5,8 +5,8 @@ title: The US House of Representatives has opened an inquiry into Airbnb's use o
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://theaicronicle.com/en/news/geopolitics/us-house-probe-airbnb-anysphere-chinese-ai-models
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 45b51babb7961aa6aee65479695a041b52fb4589144db8023a7e1275060e66e9

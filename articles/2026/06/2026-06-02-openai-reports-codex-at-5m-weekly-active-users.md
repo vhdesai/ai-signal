@@ -4,8 +4,8 @@ title: OpenAI reports Codex at 5M+ weekly active users
 date: '2026-06-02'
 source: OpenAI
 url_original: null
-url_canonical: https://tech-insider.org/ie/openai-codex-5-million-users-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-02_061120_Daily-AI-News-Digest.md
 content_hash: 468348e98e819f80908fb570d7400ce7ab25ded2ceb9ab4e1447574ec8dced0d
 normalized_title_hash: 4fd5569ddff31275

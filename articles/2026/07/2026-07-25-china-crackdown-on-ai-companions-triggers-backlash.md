@@ -4,8 +4,8 @@ title: China crackdown on AI companions triggers backlash
 date: '2026-07-25'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=China%20AI%20companion%20crackdown
-url_canonical: https://oecd.ai/en/incidents/2025-11-26-972d
-url_status: repaired
+url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=China%20AI%20companion%20crackdown
+url_status: broken
 digest_source: digests\raw\2026-07-26_060512_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 4ec5aac86cb380b679b6156d102c5687da45358e4f55c6a4643618ece8e4fe05

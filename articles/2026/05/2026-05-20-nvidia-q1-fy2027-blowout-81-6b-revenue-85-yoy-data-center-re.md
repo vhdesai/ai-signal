@@ -5,7 +5,7 @@ title: 'Nvidia Q1 FY2027 blowout: $81.6B revenue (+85% YoY), data-center revenue
 date: '2026-05-20'
 source: CNBC  / The Information  · Nvidia
 url_original: null
-url_canonical: https://convergedigest.com/nvidia-q2-fy2027-data-center-vera-rubin-ai-infrastructure/
+url_canonical: http://www.nvidia.com/page/home.html
 url_status: repaired
 digest_source: digests\raw\2026-05-21_071109_Inbox_Daily AI News Digest – May 21,
   2026.md

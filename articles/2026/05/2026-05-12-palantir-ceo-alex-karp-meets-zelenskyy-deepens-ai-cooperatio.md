@@ -4,8 +4,8 @@ title: Palantir CEO Alex Karp meets Zelenskyy; deepens AI cooperation with Ukrai
 date: '2026-05-12'
 source: Yahoo Finance
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/quote/PLTR/?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: e0c2b98855a13d8534747c4b468fd46c770f8654ba45de24a59744b0a756cfb4

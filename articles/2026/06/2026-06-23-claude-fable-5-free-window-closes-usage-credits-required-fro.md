@@ -4,8 +4,8 @@ title: Claude Fable 5 Free Window Closes; Usage Credits Required from June 23
 date: '2026-06-23'
 source: Anthropic
 url_original: null
-url_canonical: https://the-agent-report.com/2026/06/anthropic-claude-fable-5-free-access-ends-june-22-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 2c21d432c7cfa468554808b281ff95b0c97c7fb40d51f47cf5762c72d7b7a245
 normalized_title_hash: ef96a5cac8f45202

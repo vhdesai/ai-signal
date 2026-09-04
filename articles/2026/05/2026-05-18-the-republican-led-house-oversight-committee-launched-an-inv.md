@@ -5,8 +5,8 @@ title: The Republican-led House Oversight Committee launched an investigation in
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.msn.com/en-us/money/companies/sam-altman-s-business-dealings-under-gop-scrutiny-ahead-of-openai-s-ipo/ar-AA22Xx2j
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: d395ea10852ed8f510854ec65033511355b0c6682b5a5c3aa2adecaa6014a499

@@ -4,8 +4,8 @@ title: Samsung reportedly accelerates chip-capacity plans
 date: '2026-07-13'
 source: The Information
 url_original: null
-url_canonical: https://gradient.news/samsung-yongin-chip-plant-2029/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-13-daily-ai-news-digest.md
 content_hash: afde194c1f54b5d4d78a0191c76804976256160600e187e1b9c6d9e8c8d4569a
 normalized_title_hash: 2293da036eb0db2e

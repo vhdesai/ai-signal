@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-23-training-ai-on-copyrighted-books-remains-legally-unsettled
 - 2026-08-23-is-it-legal-to-train-ai-models-on-copyrighted-books-it-s-com
 - 2026-08-14-anthropic-s-book-scanning-training-method-ruled-fair-use-but
-- 2026-09-02-justice-department-backs-openai-s-fair-use-defense-in-publis
+- 2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-nyt-tr
 embedding_id: 2026-08-23-legal-analysis-is-it-legal-to-train-ai-on-copyrighted-books
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A comprehensive legal analysis finds the AI training copyright landscape remains
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-23-techcrunch-is-it-legal-to-train-ai-on-copyrighted-books-it-s]] · [[2026-08-23-training-ai-on-copyrighted-books-remains-legally-unsettled]] · [[2026-08-23-is-it-legal-to-train-ai-models-on-copyrighted-books-it-s-com]] · [[2026-08-14-anthropic-s-book-scanning-training-method-ruled-fair-use-but]] · [[2026-09-02-justice-department-backs-openai-s-fair-use-defense-in-publis]]
+**Related:** [[2026-08-23-techcrunch-is-it-legal-to-train-ai-on-copyrighted-books-it-s]] · [[2026-08-23-training-ai-on-copyrighted-books-remains-legally-unsettled]] · [[2026-08-23-is-it-legal-to-train-ai-models-on-copyrighted-books-it-s-com]] · [[2026-08-14-anthropic-s-book-scanning-training-method-ruled-fair-use-but]] · [[2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-nyt-tr]]
 <!-- graph:end -->

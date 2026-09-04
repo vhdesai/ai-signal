@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-05-microsoft-s-skillopt-shows-optimized-agent-skills-transfer-a
 - 2026-08-10-claude-agent-gym-hack-raises-questions-about-user-deployed-a
 - 2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl
+- 2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in
 - 2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking
-- 2026-08-01-supabase-releases-an-open-benchmark-for-claude-code-codex-an
 embedding_id: 2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Researchers at HKUST released "Cloak and Detonate," showing that malicious add-o
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-05-microsoft-s-skillopt-shows-optimized-agent-skills-transfer-a]] · [[2026-08-10-claude-agent-gym-hack-raises-questions-about-user-deployed-a]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking]] · [[2026-08-01-supabase-releases-an-open-benchmark-for-claude-code-codex-an]]
+**Related:** [[2026-08-05-microsoft-s-skillopt-shows-optimized-agent-skills-transfer-a]] · [[2026-08-10-claude-agent-gym-hack-raises-questions-about-user-deployed-a]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in]] · [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking]]
 <!-- graph:end -->

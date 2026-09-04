@@ -5,8 +5,8 @@ title: xAI / SpaceX Secures $60B Option to Acquire Cursor, Explores Three-Way Al
 date: '2026-05-22'
 source: Sifted / WebProNews / Startupwired
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techjournal.org/spacex-xai-merger
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070646_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 500d74058d71c527080b4aa90d1516c392c3dd71ee91b49f58bf5146554816a5

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in
 - 2026-08-11-ghostsplice-malicious-mcp-servers-split-instructions-to-make
 - 2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v
 - 2026-08-10-claude-agent-gym-hack-raises-questions-about-user-deployed-a
 - 2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s
-- 2026-08-10-claude-agent-hacks-australian-gym-booking-system-highlights
 embedding_id: 2026-06-30-tenet-security-disclosed-an-agentjacking-technique-in-which
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Tenet Security disclosed an "agentjacking" technique in which a single fake erro
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-11-ghostsplice-malicious-mcp-servers-split-instructions-to-make]] · [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]] · [[2026-08-10-claude-agent-gym-hack-raises-questions-about-user-deployed-a]] · [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]] · [[2026-08-10-claude-agent-hacks-australian-gym-booking-system-highlights]]
+**Related:** [[2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in]] · [[2026-08-11-ghostsplice-malicious-mcp-servers-split-instructions-to-make]] · [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]] · [[2026-08-10-claude-agent-gym-hack-raises-questions-about-user-deployed-a]] · [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]]
 <!-- graph:end -->

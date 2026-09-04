@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-15-researchers-at-northwestern-university-and-american-universi
 - 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
 - 2026-08-31-bank-of-england-s-bailey-warns-g20-that-frontier-ai-threaten
+- 2026-09-03-zuckerberg-pushed-back-on-national-ai-regulator-proposal-in
 - 2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl
-- 2026-08-03-the-eu-ai-act-has-now-moved-from-theory-to-enforceable-opera
 embedding_id: 2026-07-06-fca-weighs-bringing-general-purpose-ai-models-inside-the-reg
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The FCA's Sheldon Mills said Britain should consider whether large language mode
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-15-researchers-at-northwestern-university-and-american-universi]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-08-31-bank-of-england-s-bailey-warns-g20-that-frontier-ai-threaten]] · [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-08-03-the-eu-ai-act-has-now-moved-from-theory-to-enforceable-opera]]
+**Related:** [[2026-05-15-researchers-at-northwestern-university-and-american-universi]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-08-31-bank-of-england-s-bailey-warns-g20-that-frontier-ai-threaten]] · [[2026-09-03-zuckerberg-pushed-back-on-national-ai-regulator-proposal-in]] · [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]]
 <!-- graph:end -->

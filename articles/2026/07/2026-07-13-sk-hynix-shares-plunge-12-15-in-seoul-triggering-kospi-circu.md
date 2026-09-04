@@ -4,8 +4,8 @@ title: SK Hynix shares plunge 12–15% in Seoul, triggering Kospi circuit breake
 date: '2026-07-13'
 source: Invezz · CNBC
 url_original: https://invezz.com/news/2026/07/13/heres-why-the-kospi-index-is-in-a-freefall-today-july-13/
-url_canonical: https://stkmrkt.com/news/sk-hynix-record-15-percent-plunge-kospi-circuit-breaker-ai-memory-unwind-july-2026
-url_status: repaired
+url_canonical: https://invezz.com/news/2026/07/13/heres-why-the-kospi-index-is-in-a-freefall-today-july-13/
+url_status: broken
 digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - July
   13, 2026.md
 content_hash: ec95f197c1dd97902644235506fcc62568a97c4fb195f99ad83992945f3d6036

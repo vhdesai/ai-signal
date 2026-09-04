@@ -4,8 +4,8 @@ title: Microsoft launches new Surface for Business lineup with on-device AI acce
 date: '2026-05-19'
 source: Microsoft Windows Blog
 url_original: https://blogs.windows.com/devices/2026/05/19/introducing-new-surface-devices-built-for-business-and-ai-acceleration/
-url_canonical: https://blogs.windows.com/devices/2026/05/19/introducing-new-surface-devices-built-for-business-and-ai-acceleration/
-url_status: broken
+url_canonical: https://account.microsoft.com/account-checkup
+url_status: repaired
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: d80aa3c1cc9ed4c4437b1dccd90fb4b4034bddbb5540588da455834417cf7a6a

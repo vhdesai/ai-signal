@@ -4,8 +4,8 @@ title: Anthropic closes $30B round at $900B+ valuation; Google commits up to $40
 date: '2026-05-22'
 source: Forbes / AIToolsRecap
 url_original: null
-url_canonical: https://www.techtimes.com/articles/317066/20260523/anthropic-funding-round-top-30b-900b-valuation-would-surpass-openai-most-valuable-ai-startup.htm
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-24_070444_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 8bae49b4dcd9f590c4e5eeb82e292f760e216437906921a36ad2cbc0648c512b

@@ -5,8 +5,8 @@ title: Meta Copyright Lawsuit Elevates CEO Liability in AI Training Data Governa
 date: '2026-05-05'
 source: Variety
 url_original: null
-url_canonical: https://www.hklaw.com/en/insights/publications/2026/05/major-publishers-challenge-ai-training-practices
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: 0415f69bf72fff9e159ba3a071df30398e864585bbe53a24308cf5949c7f7bcb

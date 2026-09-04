@@ -4,8 +4,8 @@ title: 'Nature: AI agents in research erode the apprenticeship pipeline'
 date: '2026-05-05'
 source: Nature
 url_original: null
-url_canonical: https://www.nature.com/articles/d41586-026-01440-9
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_080124_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 4667d14d5771bcb9a9ac730675e951ba8b6d50f85f1e8a04781e013d96c427bc
 normalized_title_hash: 1500f46aa6f9587a

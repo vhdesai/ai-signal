@@ -371,9 +371,11 @@ a.invest-hero-card:hover{transform:translateY(-3px);box-shadow:0 6px 20px rgba(0
 .invest-hero-title{font-size:20px;font-weight:700;color:var(--brand)}
 .invest-hero-count{font-size:13px;color:var(--muted);font-weight:600;white-space:nowrap}
 .invest-hero-desc{font-size:14px;line-height:1.55;color:var(--text);margin:0 0 14px;flex:1}
-.invest-hero-examples{font-size:12.5px;color:var(--muted);line-height:1.5;
+.invest-hero-examples{font-size:12.5px;color:var(--muted);line-height:1.55;
                       padding-top:12px;border-top:1px dashed var(--border);margin-bottom:12px}
 .invest-hero-examples strong{color:var(--text)}
+.invest-hero-examples a{color:var(--brand);text-decoration:none;border-bottom:1px dotted var(--brand)}
+.invest-hero-examples a:hover{color:var(--accent);border-bottom-color:var(--accent)}
 .invest-hero-cta{font-size:13px;font-weight:700;color:var(--accent);margin-top:auto}
 .submit-link-cta{display:flex;align-items:center;gap:12px;margin-top:24px;padding:14px 20px;background:var(--card);
                  border:1px dashed var(--border);border-radius:var(--radius);font-size:13px;color:var(--muted)}
@@ -1084,6 +1086,121 @@ def _investments_tab_strip(active_slug: str, active_view: str,
     return category_row + view_row
 
 
+# --- Strong-signal patterns used to pick "truly relevant" example stories
+# for the /investments landing hub. These are applied to the article TITLE
+# (case-insensitive) so we only surface examples whose headline itself
+# unambiguously describes a deal in that sub-category. Broader classifier
+# patterns can legitimately match body text (e.g. an entity page mention),
+# but on the hub we want the reader to see three clean, canonical examples.
+_HUB_EXAMPLE_STRONG = {
+    "ma-activity": _re.compile(
+        r"\b(acqui(?:re[ds]?|res|ring|sition)|merge[ds]?|merger|"
+        r"buy(?:s|out|ing)|bought|takeover|take[- ]private|"
+        r"spin[- ]off|divest|carve[- ]out|acqui[- ]?hire)\b",
+        _re.IGNORECASE,
+    ),
+    "company-investments": _re.compile(
+        r"\b(raise[ds]?|raising|funding round|series\s+[a-h]\b|"
+        r"seed round|pre[- ]seed|valuation|valued at|"
+        r"ipo\b|s-1\b|files? to go public|secondary sale|"
+        r"tender offer|pre[- ]money|post[- ]money)\b",
+        _re.IGNORECASE,
+    ),
+    "infrastructure-investments": _re.compile(
+        r"\b(data ?center|hyperscaler|gigawatt|megawatt|"
+        r"gpu (?:cluster|order|supply)|chip supply|foundry|"
+        r"capex|build[- ]?out|power purchase|nuclear|"
+        r"substation|fab\b|wafer)\b",
+        _re.IGNORECASE,
+    ),
+}
+
+# Any $-amount or "billion/million/bn/mn" is a strong hint that the story
+# describes a concrete deal (rather than an opinion piece / analysis).
+_HUB_EXAMPLE_MONEY = _re.compile(
+    r"(\$\s?\d|\b\d+(?:\.\d+)?\s*(?:billion|million|trillion|bn|mn)\b)",
+    _re.IGNORECASE,
+)
+
+
+def _pick_hub_examples(items: list[dict], slug: str, n: int = 3) -> list[dict]:
+    """Choose up to `n` recent, truly-relevant example articles for the hub.
+
+    Selection strategy (in priority order):
+      1. Recent (title matches the sub-category's strong pattern AND mentions
+         a money amount, AND has a working canonical URL).
+      2. Recent (title matches strong pattern OR mentions money; URL working).
+      3. Fallback to the most-recent items regardless of title strictness.
+    Deduplicates on a normalized-title signature so the same deal reported
+    by three feeds does not appear three times.
+    """
+    if not items:
+        return []
+    strong_re = _HUB_EXAMPLE_STRONG.get(slug)
+    money_re = _HUB_EXAMPLE_MONEY
+    ok_status = {"ok", "repaired", "found"}
+
+    def _url_ok(a: dict) -> bool:
+        return bool(a.get("url_canonical")) and a.get("url_status") in ok_status
+
+    def _title(a: dict) -> str:
+        return (a.get("title") or "").strip()
+
+    sorted_items = sorted(items, key=lambda a: (a.get("date") or ""), reverse=True)
+
+    tier1: list[dict] = []
+    tier2: list[dict] = []
+    tier3: list[dict] = []
+    for a in sorted_items:
+        title = _title(a)
+        if not title:
+            continue
+        has_strong = bool(strong_re and strong_re.search(title))
+        has_money = bool(money_re.search(title))
+        url_ok = _url_ok(a)
+        if url_ok and has_strong and has_money:
+            tier1.append(a)
+        elif url_ok and (has_strong or has_money):
+            tier2.append(a)
+        else:
+            tier3.append(a)
+
+    picked: list[dict] = []
+    seen_signatures: set[str] = set()
+    for pool in (tier1, tier2, tier3):
+        for a in pool:
+            sig = _re.sub(r"\W+", "", _title(a).lower())[:40]
+            if sig in seen_signatures:
+                continue
+            seen_signatures.add(sig)
+            picked.append(a)
+            if len(picked) >= n:
+                return picked
+    return picked
+
+
+def _format_hub_example(a: dict) -> str:
+    """Render one example article as a compact clickable snippet.
+
+    Uses the external canonical URL when working; otherwise renders as plain
+    text. Truncates the title to ~55 chars so three examples fit on one line
+    on typical desktop widths.
+    """
+    title = (a.get("title") or "").strip()
+    if not title:
+        return ""
+    display = title
+    if len(display) > 58:
+        display = display[:55].rstrip() + "\u2026"
+    display = _html.escape(display)
+    url = a.get("url_canonical") or ""
+    status = a.get("url_status") or ""
+    if url and status in ("ok", "repaired", "found"):
+        return (f'<a href="{_html.escape(url)}" target="_blank" '
+                f'rel="noopener">{display}</a>')
+    return display
+
+
 def _build_investments_pages(site: Path, deals_by_slug: dict[str, list[dict]],
                              entity_files: dict[str, str],
                              paginate_js: str) -> int:
@@ -1120,38 +1237,48 @@ def _build_investments_pages(site: Path, deals_by_slug: dict[str, list[dict]],
         '</div>'
     )
 
-    # Human-facing description + typical examples per sub-category. Used on
-    # both the big landing cards and (compact) below the sub-category
-    # tab-strip on each Latest/Alphabetical/Timeline view.
+    # Human-facing description + typical examples per sub-category. The
+    # `examples_fallback` string is used only when there are no articles
+    # (empty pipeline) — normally we render three recent-and-relevant
+    # example articles picked by `_pick_hub_examples()`.
     subcat_meta = {
         "ma-activity": {
             "desc": ("Full-company transactions: acquisitions, mergers, "
                      "acqui-hires, take-privates, spin-offs and divestitures. "
                      "Who bought whom, and for how much."),
-            "examples": ("Meta acquires ARI \u2022 Anthropic\u2013Blackstone JV "
-                         "buys Fractional AI \u2022 AMD acquires Taalas"),
+            "examples_fallback": ("Meta acquires ARI \u2022 Anthropic\u2013Blackstone JV "
+                                  "buys Fractional AI \u2022 AMD acquires Taalas"),
         },
         "company-investments": {
             "desc": ("Money going <em>into</em> companies: funding rounds, "
                      "venture capital, IPOs, S-1 filings, secondary sales, "
                      "strategic equity stakes and valuations."),
-            "examples": ("Anthropic\u2019s $30B round at $900B valuation \u2022 "
-                         "Cerebras IPO \u2022 DeepSeek $50B pre-money"),
+            "examples_fallback": ("Anthropic\u2019s $30B round at $900B valuation \u2022 "
+                                  "Cerebras IPO \u2022 DeepSeek $50B pre-money"),
         },
         "infrastructure-investments": {
             "desc": ("Capital going <em>into</em> physical AI infrastructure: "
                      "datacenter build-outs, GPU / chip orders, foundry "
                      "capacity, power purchase agreements, and hyperscaler "
                      "capex."),
-            "examples": ("Anthropic \u2013 SpaceX $40B compute deal \u2022 "
-                         "Huawei $11.7B autonomy build-out \u2022 nuclear PPAs"),
+            "examples_fallback": ("Anthropic \u2013 SpaceX $40B compute deal \u2022 "
+                                  "Huawei $11.7B autonomy build-out \u2022 nuclear PPAs"),
         },
     }
 
     hero_cards = []
     for slug in _DEALS_SUBCATEGORIES:
-        n = len(deals_by_slug.get(slug, []))
-        meta = subcat_meta.get(slug, {"desc": "", "examples": ""})
+        items = deals_by_slug.get(slug, [])
+        n = len(items)
+        meta = subcat_meta.get(slug, {"desc": "", "examples_fallback": ""})
+        # Dynamic examples: pick up to 3 recent, truly-relevant example
+        # stories from THIS sub-category and render them as clickable links.
+        picked = _pick_hub_examples(items, slug, n=3)
+        rendered = [s for s in (_format_hub_example(a) for a in picked) if s]
+        if rendered:
+            examples_html = " \u2022 ".join(rendered)
+        else:
+            examples_html = meta["examples_fallback"]
         hero_cards.append(
             f'<a class="invest-hero-card" href="investments/{slug}.html">'
             f'  <div class="invest-hero-head">'
@@ -1159,8 +1286,8 @@ def _build_investments_pages(site: Path, deals_by_slug: dict[str, list[dict]],
             f'    <span class="invest-hero-count">{n} stories</span>'
             f'  </div>'
             f'  <p class="invest-hero-desc">{meta["desc"]}</p>'
-            f'  <div class="invest-hero-examples"><strong>Examples:</strong> '
-            f'{meta["examples"]}</div>'
+            f'  <div class="invest-hero-examples"><strong>Recent examples:</strong> '
+            f'{examples_html}</div>'
             f'  <div class="invest-hero-cta">Browse {_topic_label(slug)} \u2192</div>'
             f'</a>'
         )

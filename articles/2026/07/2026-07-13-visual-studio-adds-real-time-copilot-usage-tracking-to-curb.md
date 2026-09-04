@@ -4,8 +4,8 @@ title: Visual Studio adds real-time Copilot usage tracking to curb billing shock
 date: '2026-07-13'
 source: Visual Studio Magazine
 url_original: https://visualstudiomagazine.com/articles/2026/07/13/visual-studio-takes-aim-at-copilot-billing-shock.aspx
-url_canonical: https://www.techtimes.com/articles/319403/20260630/visual-studio-2026-fixes-copilot-billing-blind-spot-native-cost-tracker.htm
-url_status: repaired
+url_canonical: https://visualstudiomagazine.com/articles/2026/07/13/visual-studio-takes-aim-at-copilot-billing-shock.aspx
+url_status: broken
 digest_source: digests\raw\2026-07-14_061758_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 6ef03a1b1540bf9b0ffdc184e33a3eafe1e8aa743f0ac4254a3a74be891b981d

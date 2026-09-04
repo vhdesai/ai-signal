@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-02-google-s-fairwind-program-gates-advanced-cyber-ai-to-trusted
 - 2026-09-02-google-launches-gemini-3-8-flash-and-a-cyber-defense-variant
+- 2026-09-02-google-releases-gemini-3-8-flash-and-gates-its-cyber-variant
 - 2026-09-02-google-launches-gemini-3-8-flash-and-a-restricted-gemini-3-8
 - 2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8
 embedding_id: 2026-09-02-google-deepmind-launches-the-fairwind-program-for-proactive
@@ -38,5 +39,5 @@ Google and DeepMind launched Fairwind, a limited-access program giving governmen
 
 **Entities:** [[Google]] · [[Snowflake]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-02-google-s-fairwind-program-gates-advanced-cyber-ai-to-trusted]] · [[2026-09-02-google-launches-gemini-3-8-flash-and-a-cyber-defense-variant]] · [[2026-09-02-google-launches-gemini-3-8-flash-and-a-restricted-gemini-3-8]] · [[2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8]]
+**Related:** [[2026-09-02-google-s-fairwind-program-gates-advanced-cyber-ai-to-trusted]] · [[2026-09-02-google-launches-gemini-3-8-flash-and-a-cyber-defense-variant]] · [[2026-09-02-google-releases-gemini-3-8-flash-and-gates-its-cyber-variant]] · [[2026-09-02-google-launches-gemini-3-8-flash-and-a-restricted-gemini-3-8]] · [[2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8]]
 <!-- graph:end -->

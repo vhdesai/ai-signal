@@ -5,8 +5,8 @@ title: In an unusual moment of transparency, Anthropic publicly acknowledged a s
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.scientificamerican.com/article/anthropic-leak-reveals-claude-code-tracking-user-frustration-and-raises-new/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 43c67c15ff6ec808c06f248decdc63b2d14c26551acf9cec7ecdb400beb3b752

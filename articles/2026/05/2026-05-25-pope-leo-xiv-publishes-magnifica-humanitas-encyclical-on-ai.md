@@ -4,8 +4,8 @@ title: Pope Leo XIV Publishes "Magnifica Humanitas" Encyclical on AI
 date: '2026-05-25'
 source: Vatican / Reuters
 url_original: null
-url_canonical: https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-27_071821_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 4e43033ecbf1f9679f8fb2917770b53815a5599a1e8ebad43f0823d9c6c88a85

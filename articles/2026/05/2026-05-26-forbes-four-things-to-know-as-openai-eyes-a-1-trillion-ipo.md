@@ -4,8 +4,8 @@ title: 'Forbes: Four Things to Know as OpenAI Eyes a $1 Trillion IPO'
 date: '2026-05-26'
 source: Forbes
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.forbes.com/real-time-billionaires/
+url_status: repaired
 digest_source: digests\raw\2026-05-27_070624_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 671ef525cddd29c5bcee4cdc35ab13f9be6864a8e86aa687695b58a61e77f255

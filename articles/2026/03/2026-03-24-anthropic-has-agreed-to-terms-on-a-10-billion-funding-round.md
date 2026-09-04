@@ -5,8 +5,8 @@ title: Anthropic has agreed to terms on a $10 billion funding round co-led by Co
 date: '2026-03-24'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.straitstimes.com/business/anthropic-finalises-us30-billion-funding-round-led-by-gic-at-us380-billion-valuation
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-26_105104_Inbox_Daily AI News Digest – March 24,
   2026.md
 content_hash: 7fa81a8b2d993de6f84fbe4f3b731dba167418a34eb74b9f1dd9b15067a7487f

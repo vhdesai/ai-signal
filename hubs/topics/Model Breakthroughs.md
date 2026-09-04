@@ -1,18 +1,25 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 2698
+member_count: 2706
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 2698 connected article(s).
+> Auto-generated topic hub. 2706 connected article(s).
 
+- `2026-09-04` [[2026-09-04-openai-releases-gpt-6-astra-and-keeps-initial-access-restric|OpenAI releases GPT-6 Astra and keeps initial access restricted]]
+- `2026-09-04` [[2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne|OpenAI releases GPT-6 Astra and hints the AGI line may be near]]
+- `2026-09-03` [[2026-09-03-university-of-washington-allen-institute-and-fred-hutch-laun|University of Washington, Allen Institute and Fred Hutch launch $95M AI BioDesign project]]
 - `2026-09-03` [[2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on|Tencent releases Hy4 preview, an open-weight model trained on its own user data]]
 - `2026-09-03` [[2026-09-03-openai-says-astra-reaches-a-critical-cybersecurity-capabilit|OpenAI says Astra reaches a critical cybersecurity capability threshold]]
 - `2026-09-03` [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13-billion-taking-aim|Nvidia agrees to buy Hugging Face for $13 billion, taking aim at the open-model layer]]
 - `2026-09-03` [[2026-09-03-new-tencent-s-hy4-open-weight-preview-lands-8th-on-code-aren|New Tencent's Hy4 open-weight preview lands 8th on Code Arena WebDev]]
 - `2026-09-03` [[2026-09-03-new-allen-institute-university-of-washington-and-fred-hutch|New Allen Institute, University of Washington and Fred Hutch launch $95M "AI BioDesign" initiative]]
+- `2026-09-03` [[2026-09-03-meta-ships-muse-spark-1-3-as-agent-economics-move-to-the-for|Meta ships Muse Spark 1.3 as agent economics move to the foreground]]
+- `2026-09-03` [[2026-09-03-google-research-maps-the-complete-male-fruit-fly-brain|Google Research maps the complete male fruit fly brain]]
+- `2026-09-03` [[2026-09-03-google-deepmind-releases-weathernext-3-with-higher-resolutio|Google DeepMind releases WeatherNext 3 with higher-resolution AI forecasting]]
+- `2026-09-03` [[2026-09-03-georgia-tech-finds-many-ai-generated-security-patches-are-se|Georgia Tech finds many AI-generated security patches are semantically wrong]]
 - `2026-09-02` [[2026-09-02-xinhua-reported-that-chinese-authorities-removed-5-6-million|Xinhua reported that Chinese authorities removed 5.6 million pieces of unlawful or rule-violating content as part of a crackdown on AI misuse. The action shows Beijing continuing to pair rapid AI deployment with centralized content and platform enforcement. For global AI operators, the development is another example of diverging regulatory models across major markets.]]
 - `2026-09-02` [[2026-09-02-trending-alibaba-s-qwen-3-8-max-0902-debuts-at-1-on-code-are|Trending Alibaba's Qwen-3.8-Max-0902 debuts at #1 on Code Arena WebDev]]
 - `2026-09-02` [[2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio|The U.S. government filed a brief supporting OpenAI's position in The New York Times copyright lawsuit over the use of copyrighted material to train large language models. TechCrunch reports the brief argues that constraining LLM development under a misunderstanding of fair use could hinder U.S. AI leadership and economic progress. The intervention is not a court ruling, but it may carry weight in a case that could shape training-data norms for the industry.]]
@@ -31,6 +38,7 @@ member_count: 2698
 - `2026-09-02` [[2026-09-02-google-s-fairwind-program-gates-advanced-cyber-ai-to-trusted|Google's Fairwind Program gates advanced cyber AI to trusted defenders]]
 - `2026-09-02` [[2026-09-02-google-starts-september-with-ai-momentum-after-a-long-stock|Google starts September with AI momentum after a long stock losing streak]]
 - `2026-09-02` [[2026-09-02-google-ships-gemini-3-8-flash-to-general-availability-plus-a|Google ships Gemini 3.8 Flash to general availability, plus a Flash Cyber variant]]
+- `2026-09-02` [[2026-09-02-google-releases-gemini-3-8-flash-and-gates-its-cyber-variant|Google releases Gemini 3.8 Flash and gates its cyber variant through Fairwind]]
 - `2026-09-02` [[2026-09-02-google-releases-gemini-3-8-flash-and-a-restricted-cybersecur|Google releases Gemini 3.8 Flash and a restricted cybersecurity variant]]
 - `2026-09-02` [[2026-09-02-google-launches-gemini-3-8-flash-and-a-cyber-defense-variant|Google launches Gemini 3.8 Flash and a cyber-defense variant for trusted defenders]]
 - `2026-09-02` [[2026-09-02-google-reportedly-readying-a-new-gemini-model-codenamed-skim|Google Reportedly Readying a New Gemini Model Codenamed “Skimaki”]]

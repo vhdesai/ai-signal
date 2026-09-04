@@ -5,8 +5,8 @@ title: 🎓 Academic Research ArXiv Will Impose 1-Year Bans for AI-Generated Res
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.aibusinessreview.org/2026/05/17/arxiv-year-long-ban-ai-generated-papers/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_071257_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: b01435508d66f936e9dc0a4c0569198bde4e024ebaa184b035f5e884506c2136

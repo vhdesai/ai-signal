@@ -4,8 +4,8 @@ title: Chrome DevTools MCP gives AI agents direct access to browser debugging
 date: '2026-05-23'
 source: GitHub Trending
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.google.com/intl/en_uk/chrome/
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070444_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 7541fd57ebf04382a82cf3a221516b96b06a1ed5062793194e04d85a08cc5d3d

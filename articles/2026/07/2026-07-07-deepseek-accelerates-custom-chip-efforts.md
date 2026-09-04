@@ -4,8 +4,8 @@ title: DeepSeek Accelerates Custom Chip Efforts
 date: '2026-07-07'
 source: Multiple sources
 url_original: null
-url_canonical: https://theaicronicle.com/en/news/companies/deepseek-building-own-ai-chip-nvidia-huawei-reliance
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_070026_Final-Daily-AI-News-Digest.md
 content_hash: d27e13f257e2d9532471098ac251dc0a3a8224de8809d7abd599bab09bf6dd7d
 normalized_title_hash: 9a0bfd1e03283717

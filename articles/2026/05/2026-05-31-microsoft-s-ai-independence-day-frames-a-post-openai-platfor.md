@@ -4,8 +4,8 @@ title: Microsoft’s “AI Independence Day” frames a post-OpenAI platform nar
 date: '2026-05-31'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Microsoft%20AI%20Independence%20Day
-url_canonical: https://samexpert.com/microsoft-ai-independence-strategy/
-url_status: repaired
+url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Microsoft%20AI%20Independence%20Day
+url_status: broken
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: bd08a0d24eccf3ca51887ecff356bacdd9944cab0d63862e5264b91ac36dc6e5

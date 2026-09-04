@@ -5,7 +5,7 @@ title: Subquadratic released the first commercially available non-transformer LL
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://subq.ai/introducing-subq
+url_canonical: https://subq.ai/subq-1-1-small-technical-report
 url_status: repaired
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md

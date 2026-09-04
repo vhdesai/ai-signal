@@ -1,16 +1,22 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 998
+member_count: 1005
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 998 connected article(s).
+> Auto-generated topic hub. 1005 connected article(s).
 
+- `2026-09-04` [[2026-09-04-nvidia-discusses-2-5b-investment-in-mira-murati-s-thinking-m|Nvidia discusses $2.5B investment in Mira Murati's Thinking Machines Lab]]
+- `2026-09-04` [[2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-a-50|Moonshot AI files confidentially for Hong Kong IPO near a $50 billion valuation]]
+- `2026-09-04` [[2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-50b|Moonshot AI files confidentially for Hong Kong IPO near $50B valuation]]
 - `2026-09-03` [[2026-09-03-sivers-commits-30m-to-expand-indium-phosphide-laser-producti|Sivers Commits $30M to Expand Indium Phosphide Laser Production in Glasgow]]
 - `2026-09-03` [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va|Moonshot AI Files Confidentially for Hong Kong IPO at ~$50B Valuation]]
+- `2026-09-03` [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private|Mark Zuckerberg opposed a national AI regulator in a private call with Trump]]
 - `2026-09-03` [[2026-09-03-liteon-invests-176m-for-25-of-liquid-cooling-specialist-dcx|LITEON Invests $176M for 25% of Liquid-Cooling Specialist DCX]]
+- `2026-09-03` [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-jane-street-ai-clo|Crusoe raises $3B at a $30B valuation after Jane Street AI cloud contract]]
+- `2026-09-03` [[2026-09-03-crusoe-raises-3-billion-at-a-30-billion-valuation-after-jane|Crusoe raises $3 billion at a $30 billion valuation after Jane Street AI cloud contract]]
 - `2026-09-03` [[2026-09-03-china-s-moonshot-ai-confidentially-filed-for-a-hong-kong-ipo|China's Moonshot AI confidentially filed for a Hong Kong IPO]]
 - `2026-09-02` [[2026-09-02-ipronics-raises-125m-with-nvidia-participation-for-optical-a|iPronics raises $125M with NVIDIA participation for optical AI networking]]
 - `2026-09-02` [[2026-09-02-ipronics-raises-125-million-for-programmable-optical-network|iPronics raises $125 million for programmable optical networking, with Nvidia participating]]
@@ -21,6 +27,7 @@ member_count: 998
 - `2026-09-02` [[2026-09-02-tencent-backed-enflame-draws-6-000x-retail-oversubscription|Tencent-Backed Enflame Draws 6,000x Retail Oversubscription in $910M Shanghai IPO]]
 - `2026-09-02` [[2026-09-02-softbank-s-sb-energy-files-to-go-public-naming-openai-as-chi|SoftBank's SB Energy files to go public, naming OpenAI as chief tenant and 5% owner]]
 - `2026-09-02` [[2026-09-02-openai-and-anthropic-balance-safety-disclosure-against-ipo-p|OpenAI and Anthropic balance safety disclosure against IPO positioning]]
+- `2026-09-02` [[2026-09-02-nvidia-joins-ipronics-125m-round-for-programmable-optical-ne|Nvidia joins iPronics' $125M round for programmable optical networking]]
 - `2026-09-02` [[2026-09-02-nvidia-joins-ipronics-125-million-round-for-programmable-opt|Nvidia joins iPronics' $125 million round for programmable optical networking]]
 - `2026-09-02` [[2026-09-02-enterprise-ai-startup-wonderful-raises-550m-at-a-5-billion-v|Enterprise AI startup Wonderful raises $550M at a $5 billion valuation]]
 - `2026-09-02` [[2026-09-02-anthropic-s-ipo-prospectus-will-test-assumptions-behind-the|Anthropic's IPO prospectus will test assumptions behind the AI boom]]

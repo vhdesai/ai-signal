@@ -4,8 +4,8 @@ title: SambaNova Raises $1B at $11B Valuation; JPMorgan Named Inference Partner
 date: '2026-07-08'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-07-08/ai-chip-startup-sambanova-valued-at-11-billion-in-1-billion-funding-round
-url_canonical: https://money.usnews.com/investing/news/articles/2026-07-08/ai-chip-startup-sambanova-valued-at-11-billion-in-1-billion-funding-round
-url_status: broken
+url_canonical: https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/
+url_status: repaired
 digest_source: digests\raw\2026-07-09_083415_Inbox_Fw Daily AI News Digest - July
   9, 2026.md
 content_hash: d2530bf874abf06d7076b1abd48862f99faba6aa201ce6361e0fc7d6f9525af2

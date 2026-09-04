@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-17-copilot-autofix-introduced-shell-injection-in-snowflake-s-ci
 - 2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod
+- 2026-09-03-georgia-tech-finds-many-ai-generated-security-patches-are-se
 - 2026-05-22-github-supply-chain-attack-compromises-500-packages
 - 2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou
 embedding_id: 2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn
@@ -39,5 +40,5 @@ A GitHub Copilot Autofix patch merged into Snowflake's snowflake-connector-net r
 
 **Entities:** [[Snowflake]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-17-copilot-autofix-introduced-shell-injection-in-snowflake-s-ci]] · [[2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod]] · [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]]
+**Related:** [[2026-08-17-copilot-autofix-introduced-shell-injection-in-snowflake-s-ci]] · [[2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod]] · [[2026-09-03-georgia-tech-finds-many-ai-generated-security-patches-are-se]] · [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]]
 <!-- graph:end -->

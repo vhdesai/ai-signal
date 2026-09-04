@@ -4,8 +4,8 @@ title: Cornell Tech hosts inaugural Frontiers of AI Summit
 date: '2026-05-27'
 source: Cornell Tech
 url_original: https://tech.cornell.edu/frontiers-of-ai-summit/
-url_canonical: https://www.garysguide.com/events/iwmzeci/Cornell-Tech-Frontiers-Of-AI-Summit
-url_status: repaired
+url_canonical: https://tech.cornell.edu/frontiers-of-ai-summit/
+url_status: broken
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: af8d8748936ccb8500dc9b511a8dfc6a65fc29533c9679581e08dce2135cab40

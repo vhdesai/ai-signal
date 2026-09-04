@@ -4,8 +4,8 @@ title: Chevron Strikes Power Deal with Microsoft for West Texas AI Data Center
 date: '2026-06-22'
 source: WSJ
 url_original: null
-url_canonical: https://constructionreviewonline.com/7-billion-kilby-project-chevron-signs-20-year-power-deal-with-microsoft-for-west-texas-data-center/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-22_085442_Final-Daily-AI-News-Digest.md
 content_hash: 71a1445fdef039d8d1a9860ee37602b2fd30de254048d8381f6020ba11636537
 normalized_title_hash: 5c42aef360928948

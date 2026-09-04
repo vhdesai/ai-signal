@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-02-ipronics-raises-125m-with-nvidia-participating-for-programma
 - 2026-09-02-ipronics-raises-125m-with-nvidia-participation-for-optical-a
+- 2026-09-02-nvidia-joins-ipronics-125m-round-for-programmable-optical-ne
 - 2026-09-02-nvidia-joins-ipronics-125-million-round-for-programmable-opt
-- 2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with
 embedding_id: 2026-09-02-ipronics-raises-125-million-for-programmable-optical-network
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Valencia-based iPronics closed a $125 million round co-led by Maverick Silicon a
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-02-ipronics-raises-125m-with-nvidia-participating-for-programma]] · [[2026-09-02-ipronics-raises-125m-with-nvidia-participation-for-optical-a]] · [[2026-09-02-nvidia-joins-ipronics-125-million-round-for-programmable-opt]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]]
+**Related:** [[2026-09-02-ipronics-raises-125m-with-nvidia-participating-for-programma]] · [[2026-09-02-ipronics-raises-125m-with-nvidia-participation-for-optical-a]] · [[2026-09-02-nvidia-joins-ipronics-125m-round-for-programmable-optical-ne]] · [[2026-09-02-nvidia-joins-ipronics-125-million-round-for-programmable-opt]]
 <!-- graph:end -->

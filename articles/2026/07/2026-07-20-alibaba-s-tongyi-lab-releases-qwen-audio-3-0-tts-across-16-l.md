@@ -4,8 +4,8 @@ title: Alibaba's Tongyi Lab releases Qwen-Audio-3.0-TTS across 16 languages
 date: '2026-07-20'
 source: MarkTechPost
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/07/20/alibabas-tongyi-lab-releases-qwen-audio-3-0-tts-a-hosted-text-to-speech-model-in-flash-and-plus-tiers-across-16-languages/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-21-daily-ai-news-digest.md
 content_hash: efd2c562026303cdd7494aee83d6a0b3fcb2f17748a13856921acc93fb8fc950
 normalized_title_hash: 05d84d0cb6575a61

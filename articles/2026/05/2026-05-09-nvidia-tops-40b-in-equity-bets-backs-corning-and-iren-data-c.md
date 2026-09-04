@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-10-nvidia-tops-40b-in-ai-equity-bets-invests-3-2b-in-corning-2
 - 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
-- 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
+- 2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99b
 embedding_id: 2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Nvidia's equity investment portfolio exceeded $40 billion in 2026, adding deals 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-10-nvidia-tops-40b-in-ai-equity-bets-invests-3-2b-in-corning-2]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]]
+**Related:** [[2026-05-10-nvidia-tops-40b-in-ai-equity-bets-invests-3-2b-in-corning-2]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99b]]
 <!-- graph:end -->

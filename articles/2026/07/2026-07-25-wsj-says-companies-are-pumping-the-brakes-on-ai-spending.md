@@ -4,8 +4,8 @@ title: WSJ says companies are pumping the brakes on AI spending
 date: '2026-07-25'
 source: The Wall Street Journal
 url_original: null
-url_canonical: https://www.straitstimes.com/world/united-states/elon-musk-is-quietly-pumping-the-brakes-on-plans-to-start-a-third-political-party-wsj-reports
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-25_065719_Final-Daily-AI-News-Digest.md
 content_hash: 6773158d0329346581d02efcbfe342dd9f9eb4f50f26779f701e37bcc2d0690f
 normalized_title_hash: 495c4c18885f997e

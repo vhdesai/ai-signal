@@ -25,8 +25,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-05-meta-debuts-muse-code-and-muse-spark-1-2-entering-the-coding
+- 2026-09-03-meta-ships-muse-spark-1-3-as-agent-economics-move-to-the-for
 - 2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1
-- 2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f
 embedding_id: 2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta released Muse Spark 1.3 in Muse Code and the Meta Model API, emphasizing st
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-05-meta-debuts-muse-code-and-muse-spark-1-2-entering-the-coding]] · [[2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1]] · [[2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f]]
+**Related:** [[2026-08-05-meta-debuts-muse-code-and-muse-spark-1-2-entering-the-coding]] · [[2026-09-03-meta-ships-muse-spark-1-3-as-agent-economics-move-to-the-for]] · [[2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1]]
 <!-- graph:end -->

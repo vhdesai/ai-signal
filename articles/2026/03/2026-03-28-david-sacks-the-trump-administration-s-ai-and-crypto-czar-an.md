@@ -5,8 +5,8 @@ title: David Sacks, the Trump administration's AI and Crypto Czar, announced his
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.cnbc.com/2026/03/26/david-sacks-trump-crypto-ai-czar.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: 0c26ac72734f2abdf48eabb388cb7d9a7f217a94227e977c6ebe9f117b333673

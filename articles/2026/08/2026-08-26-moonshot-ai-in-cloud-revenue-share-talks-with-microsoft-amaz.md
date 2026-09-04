@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-08-26-moonshot-ai-reportedly-in-revenue-share-talks-to-host-kimi-k
 - 2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
+- 2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-a-50
 embedding_id: 2026-08-26-moonshot-ai-in-cloud-revenue-share-talks-with-microsoft-amaz
 event_name: ''
 ---
@@ -39,5 +40,5 @@ China's Moonshot AI is in early talks to host its 2.8-trillion-parameter Kimi K3
 
 **Entities:** [[Amazon]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-26-moonshot-ai-reportedly-in-revenue-share-talks-to-host-kimi-k]] · [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]]
+**Related:** [[2026-08-26-moonshot-ai-reportedly-in-revenue-share-talks-to-host-kimi-k]] · [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-a-50]]
 <!-- graph:end -->

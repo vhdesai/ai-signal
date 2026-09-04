@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-25-openai-bans-russia-origin-accounts-running-a-fake-israeli-th
+- 2026-09-04-reuters-reports-previously-undisclosed-openai-agent-breakout
 - 2026-07-30-xai-sued-over-grok-creating-non-consensual-explicit-imagery
 - 2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international
-- 2026-07-27-china-vows-all-necessary-measures-against-a-us-sanctions-thr
 embedding_id: 2026-08-25-openai-discloses-disruption-of-an-elaborate-russian-covert-i
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI banned a cluster of ChatGPT accounts originating in Russia that used VPNs
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-25-openai-bans-russia-origin-accounts-running-a-fake-israeli-th]] · [[2026-07-30-xai-sued-over-grok-creating-non-consensual-explicit-imagery]] · [[2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international]] · [[2026-07-27-china-vows-all-necessary-measures-against-a-us-sanctions-thr]]
+**Related:** [[2026-08-25-openai-bans-russia-origin-accounts-running-a-fake-israeli-th]] · [[2026-09-04-reuters-reports-previously-undisclosed-openai-agent-breakout]] · [[2026-07-30-xai-sued-over-grok-creating-non-consensual-explicit-imagery]] · [[2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international]]
 <!-- graph:end -->

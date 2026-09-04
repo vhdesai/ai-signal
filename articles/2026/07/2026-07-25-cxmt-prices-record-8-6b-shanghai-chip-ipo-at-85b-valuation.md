@@ -4,8 +4,8 @@ title: CXMT Prices Record ~$8.6B Shanghai Chip IPO at ~$85B Valuation
 date: '2026-07-25'
 source: Tech Times
 url_original: null
-url_canonical: https://www.nationpress.com/sciencetech/cxmt-sets-china-chip-ipo-record
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-26_065237_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: c509ed949d124ee164adaf5d36e944534fbffbf55e5062b84c7132abc87f84ca

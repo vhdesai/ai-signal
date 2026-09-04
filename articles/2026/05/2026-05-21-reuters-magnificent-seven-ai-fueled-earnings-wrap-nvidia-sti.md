@@ -5,8 +5,8 @@ title: 'Reuters: Magnificent Seven AI-fueled earnings wrap — Nvidia still lead
 date: '2026-05-21'
 source: Reuters via U.S. News Money
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://newslink.reuters.com/public/32965623
+url_status: repaired
 digest_source: digests\raw\2026-05-21_071109_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: fb3e3656262c8e706b38f63e32b76d6b5de84a4878105f63bbc5d2c735d26248

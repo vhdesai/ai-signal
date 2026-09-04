@@ -5,8 +5,8 @@ title: President Trump abruptly canceled the signing of a long-awaited AI securi
 date: '2026-05-22'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.whitehouse.gov/administration/donald-j-trump/
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070841_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 87a03d11343fd93479a86860c17d019c53e23614d838803c8bcf16ba67ab8c83

@@ -5,8 +5,8 @@ title: Databricks Closes DAIS 2026 With Genie One, Agent Bricks, and Unity AI Ga
 date: '2026-06-15'
 source: Databricks DAIS 2026
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.databricks.com/company/about-us
+url_status: repaired
 digest_source: digests\raw\2026-06-18_075931_Final-Daily-AI-News-Digest.md
 content_hash: ffc311eacaf65c2a8cc27b58ba76736205b96e0f3e73216e77b0e064fcc1b7e5
 normalized_title_hash: d5f1240565b3316e

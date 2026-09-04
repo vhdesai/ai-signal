@@ -5,8 +5,8 @@ title: The European Union's newly established AI Act Enforcement Office issued i
 date: '2026-04-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://european-union.europa.eu/principles-countries-history/eu-countries_en
+url_status: repaired
 digest_source: digests\raw\2026-04-06_070950_Inbox_Daily AI News Digest – April 6,
   2026.md
 content_hash: b73f5e65975bf384e0877b6463ffd61ce3a19df8fc3cbb8365d08c332a5448d7

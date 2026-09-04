@@ -4,8 +4,8 @@ title: Kirkland & Ellis to spend $500M building proprietary AI
 date: '2026-05-27'
 source: Financial Times
 url_original: null
-url_canonical: https://www.kirkland.com/news/in-the-news/2026/05/kirkland-ellis-to-spend-$500mn-building-its-own-ai-technology
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 58f10d2caf0baf4b9248009da2e176efb4676dcf076dcebd5ebee422f309379b

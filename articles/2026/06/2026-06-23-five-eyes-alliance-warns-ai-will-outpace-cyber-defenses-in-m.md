@@ -4,8 +4,8 @@ title: Five Eyes alliance warns AI will outpace cyber defenses "in months, not y
 date: '2026-06-23'
 source: CBS News
 url_original: null
-url_canonical: https://www.cbsnews.com/news/ai-bypass-cybersecurity-systems-months-not-years-five-eyes/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-24_060529_Inbox_Daily AI News Digest - June 24,
   2026.md
 content_hash: a94c6683ead1272416b8d35b0cf69a824e152faf87b3776460f32b6a97a62834

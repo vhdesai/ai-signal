@@ -4,8 +4,8 @@ title: SpaceX reportedly discusses providing compute for Pentagon AI push
 date: '2026-07-17'
 source: WSJ
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/ai/articles/spacex-reportedly-talks-supply-pentagon-204400246.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-18-daily-ai-news-digest.md
 content_hash: b33687a962441082460115b69ee780d736a2bc5044f52008cfd400adf51dac60
 normalized_title_hash: 2eae34ce90f1d7df

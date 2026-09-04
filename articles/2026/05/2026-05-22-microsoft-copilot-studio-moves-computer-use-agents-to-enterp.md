@@ -4,7 +4,7 @@ title: Microsoft Copilot Studio Moves Computer-Use Agents to Enterprise GA
 date: '2026-05-22'
 source: Microsoft / VentureBeat
 url_original: null
-url_canonical: https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/computer-using-agents-now-deliver-more-secure-ui-automation-at-scale/
+url_canonical: https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365
 url_status: repaired
 digest_source: digests\raw\2026-05-27_071821_Inbox_Daily AI News Digest – May 27,
   2026.md

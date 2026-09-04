@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 167
+member_count: 168
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 167 connected article(s).
+> Auto-generated entity hub. 168 connected article(s).
 
 - `2026-09-03` [[2026-09-03-hpe-expands-oracle-collaboration-for-ai-data-center-networki|HPE expands Oracle collaboration for AI data center networking]]
+- `2026-09-03` [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-jane-street-ai-clo|Crusoe raises $3B at a $30B valuation after Jane Street AI cloud contract]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-02` [[2026-09-02-build-ai-skills-with-new-ai-powered-learning-experiences|Build AI skills with new AI-powered learning experiences]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]

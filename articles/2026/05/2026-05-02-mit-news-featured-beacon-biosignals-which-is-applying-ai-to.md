@@ -5,8 +5,8 @@ title: MIT News featured Beacon Biosignals, which is applying AI to neurological
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://bcs.mit.edu/news/beacon-biosignals-mapping-brain-during-sleep
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_071601_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 9b085ebf77a0d2c459dc3d3b6c1ebb2a25172254efae2be961475bf373a0f1fa
 normalized_title_hash: 1d9a908bb7af0e44

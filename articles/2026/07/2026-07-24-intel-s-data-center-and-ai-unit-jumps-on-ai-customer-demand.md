@@ -4,8 +4,8 @@ title: Intel's data-center and AI unit jumps on AI customer demand
 date: '2026-07-24'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Intel%20AI%20customers
-url_canonical: https://frontierbeat.com/2026/07/24/intel-q2-revenue-data-center-growth/
-url_status: repaired
+url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Intel%20AI%20customers
+url_status: broken
 digest_source: digests\raw\2026-07-25_065719_Final-Daily-AI-News-Digest.md
 content_hash: 7643026e82361f62333c655ae0d100cf06345afdbbfdcd6f06abdef5ad050a32
 normalized_title_hash: f4ab60feb5718342

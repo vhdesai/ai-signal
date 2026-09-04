@@ -5,8 +5,8 @@ title: DeepMind, Anthropic, and Meta Expand Research into Machine Consciousness 
 date: '2026-06-02'
 source: Financial Times
 url_original: null
-url_canonical: https://futurism.com/artificial-intelligence/anthropic-deemind-ai-consciousness
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-02_060023_Daily-AI-News-Digest.md
 content_hash: 5f7d01391e06d94f3cf860841f4b23b0fd65b12867322dc9f72bfc286a4a476e
 normalized_title_hash: d9e5b761a54ceaaa

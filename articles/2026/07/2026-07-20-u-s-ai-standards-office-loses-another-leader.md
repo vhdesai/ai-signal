@@ -4,8 +4,8 @@ title: U.S. AI standards office loses another leader
 date: '2026-07-20'
 source: TechCrunch
 url_original: null
-url_canonical: https://news.ojobit.com/story/third-ai-czar-quits-caisi-75fc52
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-21-daily-ai-news-digest.md
 content_hash: c4753569801f3b94ae4180aa913afac6d8b02ae48b2818e697de97f28ef62076
 normalized_title_hash: c5ba017881a760b2

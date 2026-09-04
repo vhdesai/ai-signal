@@ -4,8 +4,8 @@ title: Trump Signs Sweeping Quantum Computing Executive Orders
 date: '2026-06-23'
 source: WSJ Pro Cybersecurity / The Information
 url_original: null
-url_canonical: https://www.hklaw.com/en/insights/publications/2026/06/president-trump-signs-two-quantum-executive-orders
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-23_065425_Final-Daily-AI-News-Digest.md
 content_hash: 98d9039f947f9a7d9faa8cb6bfc612ff8e0625dd62ca7c88fc12f66ea700afa8
 normalized_title_hash: f76874ec8b31d519

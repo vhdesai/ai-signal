@@ -5,8 +5,8 @@ title: The Alibaba Qwen team released Qwen3.7-Max, a proprietary model built for
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen3-8-max?_p_lc=1
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 88fe8b8c829994abb3b34ef9bcb253ab6cc61bfd6208df5f942d8a8c046dc03c

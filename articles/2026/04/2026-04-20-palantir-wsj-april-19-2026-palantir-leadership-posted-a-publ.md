@@ -5,8 +5,8 @@ title: Palantir / WSJ • April 19, 2026 Palantir leadership posted a public man
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.wired.com/story/palantir-what-the-company-does/
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 56644bb705106e7da0bd9413cc204ddcab266382ca62674ca97bf7c38f5d19d2

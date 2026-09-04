@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-31-openai-tests-outcome-based-pricing-with-major-customers
 - 2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric
+- 2026-09-03-snowflake-defies-outcome-pricing-pressure-as-ai-coding-adopt
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 - 2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value
-- 2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-capex-guidance-spooke
 embedding_id: 2026-08-31-ai-vendors-test-outcome-based-pricing-as-salesforce-style-mo
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI has begun letting selected large customers pay only when its AI completes
 
 **Entities:** [[OpenAI]] · [[Salesforce]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-31-openai-tests-outcome-based-pricing-with-major-customers]] · [[2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value]] · [[2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-capex-guidance-spooke]]
+**Related:** [[2026-08-31-openai-tests-outcome-based-pricing-with-major-customers]] · [[2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric]] · [[2026-09-03-snowflake-defies-outcome-pricing-pressure-as-ai-coding-adopt]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value]]
 <!-- graph:end -->

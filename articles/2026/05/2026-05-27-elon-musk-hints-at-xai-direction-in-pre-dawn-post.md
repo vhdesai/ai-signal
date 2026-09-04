@@ -4,8 +4,8 @@ title: Elon Musk Hints at xAI Direction in Pre-Dawn Post
 date: '2026-05-27'
 source: 'Source: International Business Times UK'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.forbes.com/profile/elon-musk/
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071446_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 06892914e80dddce47609d4fd8c1783e4be24f197de9298585f8c0fcb5d020d2

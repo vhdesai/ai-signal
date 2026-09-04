@@ -4,8 +4,8 @@ title: Amazon Lines Up $25B Bond Sale for AI Infrastructure
 date: '2026-07-07'
 source: Multiple sources
 url_original: null
-url_canonical: https://www.cnbc.com/2026/07/07/amazon-bond-sale-ai-debt.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_074500_Inbox_Daily AI News Digest – July 8,
   2026.md
 content_hash: 25355be9578b60ef59f262097d085f20b0d0380b5963e170f26cbb7bb6621432

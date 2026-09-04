@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-27-nvidia-agrees-to-buy-hugging-face-for-a-reported-12-9-billio
+- 2026-09-04-nvidia-agrees-to-buy-hugging-face-taking-control-of-a-key-op
+- 2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13b-taking-aim-at-the
 - 2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13-billion-taking-aim
 - 2026-08-27-nvidia-confirms-hugging-face-acquisition-for-12-9-billion
-- 2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion
-- 2026-08-27-nvidia-closes-in-on-12-9b-hugging-face-acquisition
 embedding_id: 2026-08-26-nvidia-reportedly-agrees-to-acquire-hugging-face-for-12-9-bi
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The Information reported Nvidia has agreed to buy the dominant open-model reposi
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-a-reported-12-9-billio]] · [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13-billion-taking-aim]] · [[2026-08-27-nvidia-confirms-hugging-face-acquisition-for-12-9-billion]] · [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion]] · [[2026-08-27-nvidia-closes-in-on-12-9b-hugging-face-acquisition]]
+**Related:** [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-a-reported-12-9-billio]] · [[2026-09-04-nvidia-agrees-to-buy-hugging-face-taking-control-of-a-key-op]] · [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13b-taking-aim-at-the]] · [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13-billion-taking-aim]] · [[2026-08-27-nvidia-confirms-hugging-face-acquisition-for-12-9-billion]]
 <!-- graph:end -->

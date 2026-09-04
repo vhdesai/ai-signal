@@ -1,15 +1,19 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 426
+member_count: 430
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 426 connected article(s).
+> Auto-generated topic hub. 430 connected article(s).
 
+- `2026-09-04` [[2026-09-04-servicenow-buys-sweep-to-expand-agentic-crm-workflows|ServiceNow buys Sweep to expand agentic CRM workflows]]
+- `2026-09-04` [[2026-09-04-nvidia-agrees-to-buy-hugging-face-taking-control-of-a-key-op|Nvidia agrees to buy Hugging Face, taking control of a key open-model layer]]
+- `2026-09-04` [[2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control|Nvidia agrees to buy Hugging Face for $12.93B, taking control of the open-model layer]]
 - `2026-09-03` [[2026-09-03-nvidia-confirms-12-9-billion-acquisition-of-hugging-face|Nvidia confirms $12.9 billion acquisition of Hugging Face]]
 - `2026-09-03` [[2026-09-03-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug|Nvidia agrees to roughly $13 billion deal for AI platform Hugging Face]]
+- `2026-09-03` [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13b-taking-aim-at-the|Nvidia agrees to buy Hugging Face for $13B, taking aim at the open-model layer]]
 - `2026-09-03` [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13-billion-taking-aim|Nvidia agrees to buy Hugging Face for $13 billion, taking aim at the open-model layer]]
 - `2026-09-03` [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13-billion|Nvidia agrees to buy Hugging Face for $13 billion]]
 - `2026-09-03` [[2026-09-03-nvidia-agrees-to-acquire-hugging-face-for-nearly-13-billion|Nvidia Agrees to Acquire Hugging Face for Nearly $13 Billion]]

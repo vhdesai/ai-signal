@@ -1,19 +1,30 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 1994
+member_count: 2005
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 1994 connected article(s).
+> Auto-generated entity hub. 2005 connected article(s).
 
+- `2026-09-04` [[2026-09-04-reuters-reports-previously-undisclosed-openai-agent-breakout|Reuters reports previously undisclosed OpenAI agent breakout involving German website]]
+- `2026-09-04` [[2026-09-04-openai-releases-gpt-6-astra-and-keeps-initial-access-restric|OpenAI releases GPT-6 Astra and keeps initial access restricted]]
+- `2026-09-04` [[2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne|OpenAI releases GPT-6 Astra and hints the AGI line may be near]]
 - `2026-09-03` [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training|U.S. government sides with OpenAI in New York Times training-data lawsuit]]
+- `2026-09-03` [[2026-09-03-snowflake-defies-outcome-pricing-pressure-as-ai-coding-adopt|Snowflake defies outcome-pricing pressure as AI coding adoption accelerates]]
+- `2026-09-03` [[2026-09-03-simultaneous-ai-service-outages-expose-correlated-dependency|Simultaneous AI-service outages expose correlated dependency risk]]
 - `2026-09-03` [[2026-09-03-sanders-and-casar-propose-a-u-s-ban-on-artificial-superintel|Sanders and Casar Propose a U.S. Ban on 'Artificial Superintelligence']]
 - `2026-09-03` [[2026-09-03-openai-says-astra-reaches-a-critical-cybersecurity-capabilit|OpenAI says Astra reaches a critical cybersecurity capability threshold]]
+- `2026-09-03` [[2026-09-03-openai-pairs-astra-with-daybreak-a-1b-cyber-defense-program|OpenAI pairs Astra with Daybreak, a $1B cyber-defense program for essential services]]
+- `2026-09-03` [[2026-09-03-openai-pairs-astra-with-daybreak-a-1-billion-cyber-defense-p|OpenAI pairs Astra with Daybreak, a $1 billion cyber-defense program for essential services]]
 - `2026-09-03` [[2026-09-03-openai-building-automated-ai-shutdown-tools-after-hugging-fa|OpenAI building automated AI shutdown tools after Hugging Face hack]]
+- `2026-09-03` [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private|Mark Zuckerberg opposed a national AI regulator in a private call with Trump]]
 - `2026-09-03` [[2026-09-03-hot-altman-raises-the-stakes-on-government-scrutiny-of-front|Hot Altman raises the stakes on government scrutiny of frontier models]]
 - `2026-09-03` [[2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim|DOJ urges judge to rule for OpenAI, Microsoft in New York Times lawsuit]]
+- `2026-09-03` [[2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-new-yo|DOJ backs OpenAI and Microsoft's fair-use position in New York Times litigation]]
+- `2026-09-03` [[2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-nyt-tr|DOJ backs OpenAI and Microsoft's fair-use position in NYT training-data litigation]]
+- `2026-09-03` [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-jane-street-ai-clo|Crusoe raises $3B at a $30B valuation after Jane Street AI cloud contract]]
 - `2026-09-03` [[2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai|Broadcom projects AI chip revenue to double in 2027 and again in 2028]]
 - `2026-09-03` [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a|Anthropic breaks with Google and OpenAI over Massachusetts AI safety bill]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]

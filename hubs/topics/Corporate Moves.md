@@ -1,21 +1,32 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 3854
+member_count: 3866
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 3854 connected article(s).
+> Auto-generated topic hub. 3866 connected article(s).
 
+- `2026-09-04` [[2026-09-04-servicenow-buys-sweep-to-expand-agentic-crm-workflows|ServiceNow buys Sweep to expand agentic CRM workflows]]
+- `2026-09-04` [[2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99b|Nvidia's disclosed equity portfolio reaches $99B]]
+- `2026-09-04` [[2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99-billion|Nvidia's disclosed equity portfolio reaches $99 billion]]
+- `2026-09-04` [[2026-09-04-nvidia-discusses-2-5b-investment-in-mira-murati-s-thinking-m|Nvidia discusses $2.5B investment in Mira Murati's Thinking Machines Lab]]
+- `2026-09-04` [[2026-09-04-nvidia-agrees-to-buy-hugging-face-taking-control-of-a-key-op|Nvidia agrees to buy Hugging Face, taking control of a key open-model layer]]
+- `2026-09-04` [[2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control|Nvidia agrees to buy Hugging Face for $12.93B, taking control of the open-model layer]]
+- `2026-09-04` [[2026-09-04-nyc-parents-push-back-after-discovering-classroom-ai-use|NYC parents push back after discovering classroom AI use]]
+- `2026-09-04` [[2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-a-50|Moonshot AI files confidentially for Hong Kong IPO near a $50 billion valuation]]
+- `2026-09-04` [[2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-50b|Moonshot AI files confidentially for Hong Kong IPO near $50B valuation]]
+- `2026-09-04` [[2026-09-04-business-insider-spotlights-lightmatter-as-optical-computing|Business Insider spotlights Lightmatter as optical computing gains executive attention]]
+- `2026-09-03` [[2026-09-03-snowflake-defies-outcome-pricing-pressure-as-ai-coding-adopt|Snowflake defies outcome-pricing pressure as AI coding adoption accelerates]]
 - `2026-09-03` [[2026-09-03-openai-building-automated-ai-shutdown-tools-after-hugging-fa|OpenAI building automated AI shutdown tools after Hugging Face hack]]
 - `2026-09-03` [[2026-09-03-nvidia-is-the-central-bank-of-ai|Nvidia is the central bank of AI]]
 - `2026-09-03` [[2026-09-03-nvidia-confirms-12-9-billion-acquisition-of-hugging-face|Nvidia confirms $12.9 billion acquisition of Hugging Face]]
 - `2026-09-03` [[2026-09-03-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug|Nvidia agrees to roughly $13 billion deal for AI platform Hugging Face]]
+- `2026-09-03` [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13b-taking-aim-at-the|Nvidia agrees to buy Hugging Face for $13B, taking aim at the open-model layer]]
 - `2026-09-03` [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13-billion-taking-aim|Nvidia agrees to buy Hugging Face for $13 billion, taking aim at the open-model layer]]
 - `2026-09-03` [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13-billion|Nvidia agrees to buy Hugging Face for $13 billion]]
 - `2026-09-03` [[2026-09-03-nvidia-agrees-to-acquire-hugging-face-for-nearly-13-billion|Nvidia Agrees to Acquire Hugging Face for Nearly $13 Billion]]
-- `2026-09-03` [[2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop|Nscale touts $103 billion in contracted revenue after Anthropic compute win]]
 - `2026-09-03` [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va|Moonshot AI Files Confidentially for Hong Kong IPO at ~$50B Valuation]]
 - `2026-09-03` [[2026-09-03-judge-rejects-doj-push-to-force-google-to-divest-adx|Judge Rejects DOJ Push to Force Google to Divest AdX]]
 - `2026-09-03` [[2026-09-03-hpe-expands-oracle-collaboration-for-ai-data-center-networki|HPE expands Oracle collaboration for AI data center networking]]
@@ -25,6 +36,7 @@ member_count: 3854
 - `2026-09-03` [[2026-09-03-china-s-moonshot-ai-confidentially-filed-for-a-hong-kong-ipo|China's Moonshot AI confidentially filed for a Hong Kong IPO]]
 - `2026-09-03` [[2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai|Broadcom projects AI chip revenue to double in 2027 and again in 2028]]
 - `2026-09-03` [[2026-09-03-amazon-and-meta-ai-bots-account-for-most-website-visits|Amazon and Meta AI bots account for most website visits]]
+- `2026-09-03` [[2026-09-03-air-security-launches-with-50m-to-build-a-firewall-for-ai-ag|AIR Security launches with $50M to build a firewall for AI agents]]
 - `2026-09-03` [[2026-09-03-air-security-launches-with-50-million-to-build-a-firewall-fo|AIR Security launches with $50 million to build a firewall for AI agents]]
 - `2026-09-03` [[2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter|AI chatbots frequently flub voting questions ahead of midterms, study finds]]
 - `2026-09-02` [[2026-09-02-xai-resets-free-grok-token-limits-grok-4-7-teased-for-mid-se|xAI resets free Grok token limits; Grok 4.7 teased for mid-September]]

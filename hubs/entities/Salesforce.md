@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 65
+member_count: 66
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 65 connected article(s).
+> Auto-generated entity hub. 66 connected article(s).
 
+- `2026-09-04` [[2026-09-04-servicenow-buys-sweep-to-expand-agentic-crm-workflows|ServiceNow buys Sweep to expand agentic CRM workflows]]
 - `2026-09-02` [[2026-09-02-salesforce-and-anthropic-launch-claudeforce-making-claude-th|Salesforce and Anthropic Launch “Claudeforce,” Making Claude the Default Reasoning Model in Agentforce and Slack]]
 - `2026-09-02` [[2026-09-02-meta-ditches-google-chat-for-slack-citing-ai-agent-workflows|Meta ditches Google Chat for Slack, citing AI agent workflows]]
 - `2026-09-01` [[2026-09-01-salesforce-puts-its-entire-crm-inside-claude|Salesforce Puts Its Entire CRM Inside Claude]]

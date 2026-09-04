@@ -28,10 +28,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
+- 2026-09-03-snowflake-defies-outcome-pricing-pressure-as-ai-coding-adopt
 - 2026-05-27-snowflake-signs-6b-five-year-deal-with-aws-for-graviton-gpu
 - 2026-08-28-salesforce-rockets-23-saasaissance-declared-as-software-stoc
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
-- 2026-08-07-atlassian-stock-jumps-35-as-ai-appears-to-expand-not-shrink
 embedding_id: 2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Snowflake shares jumped more than 35% after sales metrics grew 34% year-over-yea
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[Salesforce]] · [[SAP]] · [[Snowflake]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-05-27-snowflake-signs-6b-five-year-deal-with-aws-for-graviton-gpu]] · [[2026-08-28-salesforce-rockets-23-saasaissance-declared-as-software-stoc]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-08-07-atlassian-stock-jumps-35-as-ai-appears-to-expand-not-shrink]]
+**Related:** [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-09-03-snowflake-defies-outcome-pricing-pressure-as-ai-coding-adopt]] · [[2026-05-27-snowflake-signs-6b-five-year-deal-with-aws-for-graviton-gpu]] · [[2026-08-28-salesforce-rockets-23-saasaissance-declared-as-software-stoc]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]]
 <!-- graph:end -->

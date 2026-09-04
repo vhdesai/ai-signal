@@ -4,8 +4,8 @@ title: Hyperscaler demand turns turbine suppliers into an AI infrastructure bott
 date: '2026-07-13'
 source: The Wall Street Journal
 url_original: null
-url_canonical: https://oilprice.com/Energy/Natural-Gas/The-AI-Race-Sparks-Unprecedented-Demand-for-Gas-Turbines.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - July
   13, 2026.md
 content_hash: 4d5f592efefd0ef1d59cce52edbf20ba33801de421decafb3baeef85358ca580

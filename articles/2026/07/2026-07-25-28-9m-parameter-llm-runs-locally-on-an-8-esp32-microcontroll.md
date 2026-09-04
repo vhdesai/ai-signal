@@ -4,8 +4,8 @@ title: 28.9M-parameter LLM runs locally on an $8 ESP32 microcontroller
 date: '2026-07-25'
 source: GitHub
 url_original: null
-url_canonical: https://wiki.edgeaifoundation.org/2026/08/05/running-a-28-9m-parameter-llm-on-a-microcontroller/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-26_065947_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 461ace409b2704c140b464747fe6d6e8a321213de4d7d9ef8103f6ea23c0151c

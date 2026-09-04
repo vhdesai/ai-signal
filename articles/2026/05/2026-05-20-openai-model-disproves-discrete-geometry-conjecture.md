@@ -4,8 +4,8 @@ title: OpenAI Model Disproves Discrete-Geometry Conjecture
 date: '2026-05-20'
 source: OpenAI
 url_original: null
-url_canonical: https://gigazine.net/gsc_news/en/20260521-openai-model-disproves-discrete-geometry-conjecture/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-21_081619_Inbox_Daily AI News Digest –– May 21,
   2026.md
 content_hash: e6fbc8dfedd268b7fd5f56f85b938a192bd698a8d5cd43519e62a97696e79bb7

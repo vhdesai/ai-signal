@@ -5,8 +5,8 @@ title: 'Google Research: Catalyzing Scientific Impact Through Global AI Partners
 date: '2026-05-01'
 source: Google Research Blog
 url_original: null
-url_canonical: https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 3844ef74370b81b5dcafaf23d6a765859059ba9abda7b20775edd87069b453e9
 normalized_title_hash: afb19a470069cfb9

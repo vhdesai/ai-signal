@@ -4,8 +4,8 @@ title: OpenAI Breaks Ground on 1 GW Stargate Data Center in Michigan
 date: '2026-06-01'
 source: OpenAI
 url_original: https://openai.com/index/stargate-michigan-data-center
-url_canonical: https://www.cnbc.com/2026/06/01/stargate-project-michigan-live-updates.html
-url_status: repaired
+url_canonical: https://openai.com/index/stargate-michigan-data-center
+url_status: broken
 digest_source: digests\raw\2026-06-04_070640_Inbox_Daily AI News Digest – June 2,
   2026.md
 content_hash: e211a14ac61c4d2f832e86e4b71b8e6971dc743eab9a34c4bb0ce7ee98cc1e02

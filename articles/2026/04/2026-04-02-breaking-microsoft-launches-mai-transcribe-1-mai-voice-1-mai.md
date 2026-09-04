@@ -5,8 +5,8 @@ title: '[BREAKING] Microsoft Launches MAI-Transcribe-1, MAI-Voice-1, MAI-Image-2
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://enterprisedna.co/resources/news/microsoft-mai-transcribe-voice-image-foundry-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: bc4dc636c43c7045476fa176c315e82047fe0e9afa7912a75d91f6564c7df822

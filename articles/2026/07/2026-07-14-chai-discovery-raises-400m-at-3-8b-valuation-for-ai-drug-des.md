@@ -4,8 +4,8 @@ title: Chai Discovery Raises $400M at $3.8B Valuation for AI Drug Design
 date: '2026-07-14'
 source: The New York Times (DealBook)**
 url_original: null
-url_canonical: https://santageai.com/news/2026/07/20/chai-discovery-400m-ai-drug-design
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-14_065042_Final-Daily-AI-News-Digest.md
 content_hash: 46732a77519089fac374a4b711d84f11527e0e61c29a57de9c6e512f0ca17183
 normalized_title_hash: 730bbaf52226a200

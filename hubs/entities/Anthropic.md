@@ -1,15 +1,19 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 1773
+member_count: 1777
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 1773 connected article(s).
+> Auto-generated entity hub. 1777 connected article(s).
 
+- `2026-09-03` [[2026-09-03-snowflake-defies-outcome-pricing-pressure-as-ai-coding-adopt|Snowflake defies outcome-pricing pressure as AI coding adoption accelerates]]
+- `2026-09-03` [[2026-09-03-simultaneous-ai-service-outages-expose-correlated-dependency|Simultaneous AI-service outages expose correlated dependency risk]]
 - `2026-09-03` [[2026-09-03-sanders-and-casar-propose-a-u-s-ban-on-artificial-superintel|Sanders and Casar Propose a U.S. Ban on 'Artificial Superintelligence']]
-- `2026-09-03` [[2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop|Nscale touts $103 billion in contracted revenue after Anthropic compute win]]
+- `2026-09-03` [[2026-09-03-nscale-touts-103b-in-contracted-revenue-after-anthropic-comp|Nscale touts $103B in contracted revenue after Anthropic compute win]]
+- `2026-09-03` [[2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop|Nscale touts $103 billion in contracted revenue after Anthropic and Figure compute wins]]
+- `2026-09-03` [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private|Mark Zuckerberg opposed a national AI regulator in a private call with Trump]]
 - `2026-09-03` [[2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral|French finance minister warns Europe cannot rely on Mistral alone]]
 - `2026-09-03` [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a|Anthropic breaks with Google and OpenAI over Massachusetts AI safety bill]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]

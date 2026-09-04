@@ -4,8 +4,8 @@ title: 'IBM × Oracle: expanded partnership for AI and cloud modernization'
 date: '2026-05-04'
 source: IBM Newsroom
 url_original: null
-url_canonical: https://newsroom.ibm.com/blog-ibm-and-oracle-expand-partnership-to-help-organizations-modernize-with-ai-and-cloud
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_080124_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 1e72f01ee97d5ec1ba618dfe0bc699d291565e1ee4aa1a573dc9aa6a614ce3f4
 normalized_title_hash: e5f613f9178a3491

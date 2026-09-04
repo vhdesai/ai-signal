@@ -28,6 +28,7 @@ related_article_ids:
 - 2026-07-31-deepseek-plans-1-gigawatt-data-center-in-inner-mongolia
 - 2026-08-01-deepseek-reportedly-plans-a-1-gigawatt-data-center-in-inner
 - 2026-08-02-deepseek-data-center-plan-points-to-infrastructure-as-the-ne
+- 2026-09-04-deepseek-and-bytedance-accelerate-china-aligned-ai-infrastru
 embedding_id: 2026-07-31-deepseek-planning-1gw-data-center-in-inner-mongolia
 event_name: ''
 ---
@@ -41,5 +42,5 @@ DeepSeek is reportedly planning a gigawatt-scale AI data center in Inner Mongoli
 
 **Entities:** [[DeepSeek]] · [[Scale AI]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-01-deepseek-reportedly-plans-a-gigawatt-scale-data-center-in-in]] · [[2026-07-31-deepseek-plans-1-gigawatt-data-center-in-inner-mongolia]] · [[2026-08-01-deepseek-reportedly-plans-a-1-gigawatt-data-center-in-inner]] · [[2026-08-02-deepseek-data-center-plan-points-to-infrastructure-as-the-ne]]
+**Related:** [[2026-08-01-deepseek-reportedly-plans-a-gigawatt-scale-data-center-in-in]] · [[2026-07-31-deepseek-plans-1-gigawatt-data-center-in-inner-mongolia]] · [[2026-08-01-deepseek-reportedly-plans-a-1-gigawatt-data-center-in-inner]] · [[2026-08-02-deepseek-data-center-plan-points-to-infrastructure-as-the-ne]] · [[2026-09-04-deepseek-and-bytedance-accelerate-china-aligned-ai-infrastru]]
 <!-- graph:end -->

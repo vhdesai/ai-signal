@@ -4,8 +4,8 @@ title: SambaNova Raises $1B at $11B Valuation for AI Inference Chips
 date: '2026-07-08'
 source: Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/
+url_status: repaired
 digest_source: digests\raw\2026-07-08_062121_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 0ddb346067f800799f06d17a7fff1f2912940d984e2d43b8f4c0db477fed79b2

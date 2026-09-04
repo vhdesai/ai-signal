@@ -5,8 +5,8 @@ title: Cerebras runs trillion-parameter Kimi K2.6 at ~1,000 tokens/second — 6.
 date: '2026-05-20'
 source: VentureBeat  · Cerebras Systems
 url_original: null
-url_canonical: https://aiweekly.co/alerts/cerebras-runs-trillion-parameter-model-67x-faster-than-gpu-clouds
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-21_071109_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: dacfa9405b716b4595af01e1a9bb3f3df524e765f4cdec6e7b98217ba6bb19fc

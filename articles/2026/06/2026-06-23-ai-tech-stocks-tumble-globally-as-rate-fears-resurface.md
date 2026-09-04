@@ -4,8 +4,8 @@ title: AI Tech Stocks Tumble Globally as Rate Fears Resurface
 date: '2026-06-23'
 source: DealBook
 url_original: null
-url_canonical: https://finance.yahoo.com/markets/stocks/articles/tech-sell-off-deepens-nasdaq-113010929.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-23_065425_Final-Daily-AI-News-Digest.md
 content_hash: 40110323c88b24aa081038597b7a071966ebc6ec7eb11a88f4bdc2c743e2a96a
 normalized_title_hash: 2c046223a7bf9b63

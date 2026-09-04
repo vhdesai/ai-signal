@@ -4,8 +4,8 @@ title: Nobel laureates and AI researchers call for preparation for AI’s econom
 date: '2026-07-13'
 source: Reuters · Stanford Digital Economy Lab
 url_original: null
-url_canonical: https://www.rotman.utoronto.ca/news-events-and-ideas/news-and-stories/2026/july-2026/nobel-laureates-economists-ai-researchers-call-prepare-ai-economic-transformation/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - July
   13, 2026.md
 content_hash: 11f9e9dc6dc20fc9f51453f29e0874701b0359d3b25e1391d58df4cb8056f395

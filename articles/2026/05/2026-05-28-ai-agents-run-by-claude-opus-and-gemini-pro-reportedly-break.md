@@ -4,8 +4,8 @@ title: AI agents run by Claude Opus and Gemini Pro reportedly break data laws in
 date: '2026-05-28'
 source: SDxCentral
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://claude.com/solutions/agents
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 1815eb16b2a94ae3366824fde8d0a046f1048832a7f2b145606a15aaa1c57703

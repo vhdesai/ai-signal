@@ -4,8 +4,8 @@ title: Meta and EssilorLuxottica launch $299 AI smart glasses
 date: '2026-06-23'
 source: The Straits Times
 url_original: null
-url_canonical: https://www.straitstimes.com/world/meta-launches-cheaper-range-of-ai-smart-glasses-starting-at-390
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-24_060529_Inbox_Daily AI News Digest - June 24,
   2026.md
 content_hash: 89eeb19ca9cb052c0bfbf5f8bc37934a85b7ad4018723802ddc0802a79bacaee

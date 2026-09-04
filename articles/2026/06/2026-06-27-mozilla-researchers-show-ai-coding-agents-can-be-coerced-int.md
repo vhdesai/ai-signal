@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v
 - 2026-06-29-researchers-at-0din-the-bug-bounty-platform-run-by-mozilla-s
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
+- 2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in
 - 2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu
-- 2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code
 embedding_id: 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Mozilla's 0DIN (Zero Day Investigative Network) demonstrated that AI coding assi
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]] · [[2026-06-29-researchers-at-0din-the-bug-bounty-platform-run-by-mozilla-s]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu]] · [[2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code]]
+**Related:** [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]] · [[2026-06-29-researchers-at-0din-the-bug-bounty-platform-run-by-mozilla-s]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in]] · [[2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu]]
 <!-- graph:end -->

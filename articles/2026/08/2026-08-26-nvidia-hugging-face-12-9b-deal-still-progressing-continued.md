@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion
+- 2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control
 - 2026-08-27-nvidia-closes-in-on-12-9b-hugging-face-acquisition
 - 2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b
 - 2026-08-27-nvidia-nears-12-9b-acquisition-of-hugging-face
-- 2026-08-27-nvidia-agrees-to-buy-hugging-face-for-a-reported-12-9-billio
 embedding_id: 2026-08-26-nvidia-hugging-face-12-9b-deal-still-progressing-continued
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The reported $12.9B acquisition remains in talks without a signed agreement. Hug
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion]] · [[2026-08-27-nvidia-closes-in-on-12-9b-hugging-face-acquisition]] · [[2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b]] · [[2026-08-27-nvidia-nears-12-9b-acquisition-of-hugging-face]] · [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-a-reported-12-9-billio]]
+**Related:** [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-12-9-billion]] · [[2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control]] · [[2026-08-27-nvidia-closes-in-on-12-9b-hugging-face-acquisition]] · [[2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b]] · [[2026-08-27-nvidia-nears-12-9b-acquisition-of-hugging-face]]
 <!-- graph:end -->

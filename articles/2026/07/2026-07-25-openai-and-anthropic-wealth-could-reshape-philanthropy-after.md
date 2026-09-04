@@ -4,8 +4,8 @@ title: OpenAI and Anthropic wealth could reshape philanthropy after mega-IPOs
 date: '2026-07-25'
 source: DealBook
 url_original: null
-url_canonical: https://philanthropistsnotebook.com/2026/07/27/analysis-openai-anthropic-ipos-could-unlock-billions-and-reshape-the-philanthropy-landscape/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-26_065947_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 482b4b550804f7ee8a1d599ded55e2ab12805beff331ee42740577f39245fb3d

@@ -1,17 +1,27 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 1585
+member_count: 1595
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 1585 connected article(s).
+> Auto-generated topic hub. 1595 connected article(s).
 
+- `2026-09-04` [[2026-09-04-reuters-reports-previously-undisclosed-openai-agent-breakout|Reuters reports previously undisclosed OpenAI agent breakout involving German website]]
+- `2026-09-04` [[2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in|Reports warn hackers are turning Claude, Qwen and DeepSeek into attack agents]]
+- `2026-09-03` [[2026-09-03-zuckerberg-pushed-back-on-national-ai-regulator-proposal-in|Zuckerberg pushed back on national AI regulator proposal in private Trump call]]
 - `2026-09-03` [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training|U.S. government sides with OpenAI in New York Times training-data lawsuit]]
+- `2026-09-03` [[2026-09-03-simultaneous-ai-service-outages-expose-correlated-dependency|Simultaneous AI-service outages expose correlated dependency risk]]
 - `2026-09-03` [[2026-09-03-sanders-and-casar-propose-a-u-s-ban-on-artificial-superintel|Sanders and Casar Propose a U.S. Ban on 'Artificial Superintelligence']]
+- `2026-09-03` [[2026-09-03-openai-pairs-astra-with-daybreak-a-1b-cyber-defense-program|OpenAI pairs Astra with Daybreak, a $1B cyber-defense program for essential services]]
+- `2026-09-03` [[2026-09-03-openai-pairs-astra-with-daybreak-a-1-billion-cyber-defense-p|OpenAI pairs Astra with Daybreak, a $1 billion cyber-defense program for essential services]]
+- `2026-09-03` [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private|Mark Zuckerberg opposed a national AI regulator in a private call with Trump]]
 - `2026-09-03` [[2026-09-03-hot-altman-raises-the-stakes-on-government-scrutiny-of-front|Hot Altman raises the stakes on government scrutiny of frontier models]]
+- `2026-09-03` [[2026-09-03-g20-endorses-u-s-backed-carolina-principles-for-sector-based|G20 endorses U.S.-backed Carolina Principles for sector-based AI regulation]]
 - `2026-09-03` [[2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral|French finance minister warns Europe cannot rely on Mistral alone]]
+- `2026-09-03` [[2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-new-yo|DOJ backs OpenAI and Microsoft's fair-use position in New York Times litigation]]
+- `2026-09-03` [[2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-nyt-tr|DOJ backs OpenAI and Microsoft's fair-use position in NYT training-data litigation]]
 - `2026-09-03` [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a|Anthropic breaks with Google and OpenAI over Massachusetts AI safety bill]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-03` [[2026-09-03-air-security-emerges-from-stealth-with-50m-to-build-a-firewa|AIR Security Emerges From Stealth With $50M to Build a Firewall for AI Agents]]

@@ -5,8 +5,8 @@ title: The US Center for AI Standards and Innovation (CAISI, part of the Commerc
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.vogelitlawblog.com/2026/05/center-for-ai-standards-and-innovation-caisi-to-vet-ai-models/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 618eb6b55f3450d93a6be8652a1b643dd2d20408376e96adbb46fce4474f91b9

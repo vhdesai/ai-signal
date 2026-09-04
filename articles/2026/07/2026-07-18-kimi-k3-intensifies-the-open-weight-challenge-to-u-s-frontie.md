@@ -4,8 +4,8 @@ title: Kimi K3 intensifies the open-weight challenge to U.S. frontier models
 date: '2026-07-18'
 source: Axios
 url_original: null
-url_canonical: https://prototypr.io/news/chinas-open-weight-kimi-model-stuns-ai-world-with-frontier-level-results
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-18-daily-ai-news-digest.md
 content_hash: c9db7c0a2d7917cf7326b08d00b2622f6be3e833c2e8d574e53a14c72d1ac913
 normalized_title_hash: ca7ab2c93420d8aa

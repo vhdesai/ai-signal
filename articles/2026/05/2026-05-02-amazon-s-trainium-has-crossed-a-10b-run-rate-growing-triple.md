@@ -7,8 +7,8 @@ title: Amazon's Trainium has crossed a $10B+ run rate, growing triple digits ann
 date: '2026-05-02'
 source: AI-led US–allied geopolitical alignment with Saudi Arabia, UAE — Crypto Briefing
 url_original: null
-url_canonical: https://ai2.work/blog/amazon-s-custom-chip-empire-hits-20b-run-rate-with-225b-backlog
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_080952_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: b740c6f3df2780ed8a13ecacec50948da3539de181725850244e57f24d910bed
 normalized_title_hash: c8d113659c1539c3

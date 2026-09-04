@@ -5,8 +5,8 @@ title: Mark Zuckerberg is personally testing a "CEO agent" that automates execut
 date: '2026-03-24'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.itechguides.com/mark-zuckerberg-secretly-training-an-ai-agent-to-do-his-ceo-job-what-we-know/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-26_105104_Inbox_Daily AI News Digest – March 24,
   2026.md
 content_hash: 465b32f422a700c78b312001f3a2f29d3ebf17cb44848b839ff6207e42f37672
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey
 - 2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag
 - 2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi
+- 2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private
 - 2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision
-- 2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast
 embedding_id: 2026-03-24-mark-zuckerberg-is-personally-testing-a-ceo-agent-that-autom
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Mark Zuckerberg is personally testing a "CEO agent" that automates executive inf
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey]] · [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag]] · [[2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi]] · [[2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision]] · [[2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast]]
+**Related:** [[2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey]] · [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag]] · [[2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi]] · [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private]] · [[2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision]]
 <!-- graph:end -->

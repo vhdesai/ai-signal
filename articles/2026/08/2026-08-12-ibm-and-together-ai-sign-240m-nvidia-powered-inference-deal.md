@@ -26,6 +26,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-11-ibm-and-together-ai-sign-240m-deal-for-an-nvidia-powered-inf
+- 2026-09-02-equinix-nvidia-and-together-ai-launch-distributed-inference
 embedding_id: 2026-08-12-ibm-and-together-ai-sign-240m-nvidia-powered-inference-deal
 event_name: ''
 ---
@@ -39,5 +40,5 @@ IBM and Together AI signed a $240 million multiyear agreement to build an approx
 
 **Entities:** [[IBM]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-11-ibm-and-together-ai-sign-240m-deal-for-an-nvidia-powered-inf]]
+**Related:** [[2026-08-11-ibm-and-together-ai-sign-240m-deal-for-an-nvidia-powered-inf]] · [[2026-09-02-equinix-nvidia-and-together-ai-launch-distributed-inference]]
 <!-- graph:end -->

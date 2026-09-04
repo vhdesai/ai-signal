@@ -5,8 +5,8 @@ title: SK Hynix suffers its biggest Kospi drop in ~two decades, triggering a cir
 date: '2026-07-13'
 source: Invezz / CNBC
 url_original: https://invezz.com/news/2026/07/13/heres-why-the-kospi-index-is-in-a-freefall-today-july-13/
-url_canonical: https://stkmrkt.com/news/sk-hynix-record-15-percent-plunge-kospi-circuit-breaker-ai-memory-unwind-july-2026
-url_status: repaired
+url_canonical: https://invezz.com/news/2026/07/13/heres-why-the-kospi-index-is-in-a-freefall-today-july-13/
+url_status: broken
 digest_source: digests\raw\2026-07-13_060615_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: 80a738260ba9775869283500564897791d829c832af7511914ebe34ce61ed032

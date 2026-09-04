@@ -4,8 +4,8 @@ title: Anthropic launches Claude Tag, a persistent Claude teammate inside Slack
 date: '2026-06-23'
 source: VentureBeat
 url_original: null
-url_canonical: https://www.anthropic.com/news/introducing-claude-tag
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-24_060529_Inbox_Daily AI News Digest - June 24,
   2026.md
 content_hash: 766e9bd586699199a4ff7e4a329d89de745bd7179c109f7860774aa7d54fbecc

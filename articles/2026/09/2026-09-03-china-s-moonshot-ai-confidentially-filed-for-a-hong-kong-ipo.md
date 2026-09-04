@@ -21,9 +21,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-a-50
+- 2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-50b
 - 2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
-- 2026-07-19-china-s-moonshot-plans-a-30b-hong-kong-ipo-within-six-months
 embedding_id: 2026-09-03-china-s-moonshot-ai-confidentially-filed-for-a-hong-kong-ipo
 event_name: ''
 ---
@@ -36,5 +37,5 @@ WSJ reported that Moonshot AI has confidentially filed for a Hong Kong listing, 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-07-19-china-s-moonshot-plans-a-30b-hong-kong-ipo-within-six-months]]
+**Related:** [[2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-a-50]] · [[2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-50b]] · [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]]
 <!-- graph:end -->

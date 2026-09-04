@@ -4,8 +4,8 @@ title: Poolside releases Laguna S 2.1 open-weight agentic coding model
 date: '2026-07-21'
 source: VentureBeat
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-23-daily-ai-news-digest.md
 content_hash: f73c5b2b6b8c9ed576985dce9b0b84e89d436844f13b05ff53282054732a9e8b
 normalized_title_hash: dcc246d7dcf7c528

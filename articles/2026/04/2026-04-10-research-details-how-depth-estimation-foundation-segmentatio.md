@@ -5,7 +5,7 @@ title: research details how depth estimation, foundation segmentation models, an
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://arxiv.org/abs/2507.11540
+url_canonical: https://researcher.life/blog/article/what-is-research-definition-types-methods-and-examples/
 url_status: repaired
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md

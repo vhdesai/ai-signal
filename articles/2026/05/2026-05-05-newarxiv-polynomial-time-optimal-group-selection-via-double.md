@@ -5,8 +5,8 @@ title: 'NEWarXiv: Polynomial-time optimal group selection via double-commutator 
 date: '2026-05-05'
 source: arXiv:2605.00834
 url_original: null
-url_canonical: https://arxiv.org/abs/2605.00834
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 2c79d958279ead74ed796061e197580ec0aa778e173482f94dea91f7a11914a3
 normalized_title_hash: baa4543ff718e78a

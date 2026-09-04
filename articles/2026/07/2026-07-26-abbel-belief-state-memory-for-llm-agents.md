@@ -4,8 +4,8 @@ title: 'ABBEL: belief-state memory for LLM agents'
 date: '2026-07-26'
 source: BAIR Blog
 url_original: https://bair.berkeley.edu/blog/2026/07/26/abbel/
-url_canonical: https://arxiv.org/html/2512.20111v2
-url_status: repaired
+url_canonical: https://bair.berkeley.edu/blog/2026/07/26/abbel/
+url_status: broken
 digest_source: digests\raw\2026-07-27_061621_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: ff252cb4afe2cabbf453e834ce60c8fa76de6c2dd6ee4828505468c0e7c95056

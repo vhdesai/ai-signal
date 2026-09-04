@@ -5,8 +5,8 @@ title: xAI • April 17, 2026 xAI pushed Grok 4.3 into public beta on the X plat
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://builtin.com/artificial-intelligence/what-is-xai
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 62233a7f8814fc6a8a09ba990edf05321657d3281f1d10672f39dd9754cbf1e3

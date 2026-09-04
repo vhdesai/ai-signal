@@ -5,8 +5,8 @@ title: Nebius Acquires AI Consultancy Eigen for $643M; NVIDIA Commits $2B to Com
 date: '2026-05-10'
 source: 🔗 Yahoo Finance / Simply Wall St  · 🏢 Nebius / Eigen / NVIDIA
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/quote/NBIS/?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: afa0ed9e9d8c22035131847a8fa87452054153635a6a327a881f50b043b425c9

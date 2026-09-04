@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-02-equinix-nvidia-and-together-ai-launch-distributed-inference
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-08-24-lancium-partners-with-nvidia-on-gigawatt-scale-ai-factories
-- 2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares
 embedding_id: 2026-09-02-equinix-partners-with-nvidia-to-carve-a-niche-in-the-ai-data
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Equinix is positioning its colocation and interconnection footprint as the neutr
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-08-24-lancium-partners-with-nvidia-on-gigawatt-scale-ai-factories]] · [[2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares]]
+**Related:** [[2026-09-02-equinix-nvidia-and-together-ai-launch-distributed-inference]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-08-24-lancium-partners-with-nvidia-on-gigawatt-scale-ai-factories]]
 <!-- graph:end -->

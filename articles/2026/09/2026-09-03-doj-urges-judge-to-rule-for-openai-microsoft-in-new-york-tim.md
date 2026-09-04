@@ -18,14 +18,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training
-- 2026-09-02-justice-department-backs-openai-s-fair-use-defense-in-publis
-- 2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio
-- 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
-- 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
+dedupe_status: duplicate
+canonical_article_id: 2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-new-yo
+related_article_ids: []
 embedding_id: 2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim
 event_name: ''
 ---
@@ -39,5 +34,5 @@ The Washington Post reports that the U.S. Department of Justice urged a judge to
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training]] · [[2026-09-02-justice-department-backs-openai-s-fair-use-defense-in-publis]] · [[2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]]
+**Canonical:** [[2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-new-yo]]
 <!-- graph:end -->

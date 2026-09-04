@@ -4,8 +4,8 @@ title: LLMs can mass-produce finance papers that look human-authored
 date: '2026-05-29'
 source: Academic coverage
 url_original: null
-url_canonical: https://www.psu.edu/news/research/story/ai-can-mass-produce-finance-research-papers-indistinguishable-human-work
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: c68ed121081c5ec34889a4e2f42bbca4fa10e4989816756c02f85ec99e1382e9

@@ -5,8 +5,8 @@ title: President Trump abruptly canceled a ceremony scheduled to sign an executi
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.whitehouse.gov/administration/donald-j-trump/
+url_status: repaired
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 2c06abe59a2fbf1e5080dd494c57bbf8935a89f21212b1d87073d7f7688d74b3

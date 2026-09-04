@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-03-zuckerberg-pushed-back-on-national-ai-regulator-proposal-in
 - 2026-06-02-trump-administration-at-war-with-itself-over-ai-regulation
 - 2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio
 - 2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi
-- 2026-07-19-pentagon-official-blasts-openai-s-dean-ball-over-regulation
 embedding_id: 2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Outgoing White House tech adviser Sriram Krishnan told the Financial Times that 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-02-trump-administration-at-war-with-itself-over-ai-regulation]] · [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]] · [[2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi]] · [[2026-07-19-pentagon-official-blasts-openai-s-dean-ball-over-regulation]]
+**Related:** [[2026-09-03-zuckerberg-pushed-back-on-national-ai-regulator-proposal-in]] · [[2026-06-02-trump-administration-at-war-with-itself-over-ai-regulation]] · [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]] · [[2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi]]
 <!-- graph:end -->

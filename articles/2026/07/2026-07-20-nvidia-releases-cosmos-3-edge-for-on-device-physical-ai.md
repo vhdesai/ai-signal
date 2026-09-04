@@ -4,8 +4,8 @@ title: NVIDIA releases Cosmos 3 Edge for on-device physical AI
 date: '2026-07-20'
 source: NVIDIA Blog
 url_original: null
-url_canonical: https://huggingface.co/blog/nvidia/cosmos3edge
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-21-daily-ai-news-digest.md
 content_hash: 317d07f0d550a0c70a9d64de8a300704e83841d2a669232ffad8c7ecf0208d86
 normalized_title_hash: 73f32552f74d879e
