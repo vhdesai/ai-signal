@@ -362,35 +362,38 @@ a.view-tab-active:hover{background:var(--brand);color:#fff}
 .invest-tagline{font-size:16px;color:var(--muted);margin:8px 0 20px;line-height:1.5}
 .invest-hero-grid{display:flex;flex-direction:column;gap:22px;margin:24px 0 40px}
 .invest-hero-card{display:grid;grid-template-columns:minmax(280px,1.15fr) minmax(280px,1fr);
-                  gap:24px;padding:24px 26px;background:linear-gradient(135deg,#fff8e1 0%,#fff 60%);
+                  gap:28px;padding:24px 26px;background:linear-gradient(135deg,#fff8e1 0%,#fffdf5 60%);
                   border:1px solid var(--border);border-radius:14px;
                   box-shadow:0 2px 8px rgba(0,0,0,0.04);transition:box-shadow .18s}
 .invest-hero-card:hover{box-shadow:0 6px 20px rgba(0,0,0,0.10)}
-@media (max-width:720px){.invest-hero-card{grid-template-columns:1fr}}
-.invest-hero-left{display:flex;flex-direction:column}
+@media (max-width:720px){.invest-hero-card{grid-template-columns:1fr;gap:18px}}
+/* The whole LEFT column is a clickable link to the sub-category page; no
+   separate "Browse ..." button is needed. */
+a.invest-hero-left{display:flex;flex-direction:column;text-decoration:none;color:inherit;
+                   padding:2px;border-radius:8px;transition:background .18s}
+a.invest-hero-left:hover{background:rgba(255,255,255,0.55)}
+a.invest-hero-left:hover .invest-hero-title{text-decoration:underline}
 .invest-hero-head{display:flex;justify-content:space-between;align-items:baseline;
                   margin-bottom:10px;gap:10px;flex-wrap:wrap}
 .invest-hero-title{font-size:22px;font-weight:700;color:var(--brand)}
+.invest-hero-title-arrow{color:var(--accent);margin-left:6px;font-weight:700}
 .invest-hero-count{font-size:13px;color:var(--muted);font-weight:600;white-space:nowrap}
-.invest-hero-desc{font-size:14.5px;line-height:1.55;color:var(--text);margin:0 0 22px}
-a.invest-hero-cta-btn{display:inline-block;align-self:flex-start;margin-top:auto;
-                      padding:12px 22px;font-size:17px;font-weight:700;color:#fff;
-                      background:var(--accent);border-radius:8px;text-decoration:none;
-                      transition:background .18s,transform .18s,box-shadow .18s;
-                      box-shadow:0 1px 2px rgba(0,0,0,0.08)}
-a.invest-hero-cta-btn:hover{background:var(--brand);transform:translateY(-1px);
-                            box-shadow:0 4px 10px rgba(0,0,0,0.12)}
-.invest-hero-right{background:rgba(255,255,255,0.55);border:1px dashed var(--border);
-                   border-radius:10px;padding:14px 16px 12px;min-width:0}
-.invest-hero-right-label{display:block;color:var(--muted);margin-bottom:8px;
+.invest-hero-desc{font-size:14.5px;line-height:1.55;color:var(--text);margin:0}
+/* RIGHT column: examples list. NO inner box/border/background so the whole
+   yellow card is a single visual container (per user annotation). */
+.invest-hero-right{min-width:0;display:flex;flex-direction:column;
+                   padding-left:20px;border-left:1px dashed var(--border)}
+@media (max-width:720px){.invest-hero-right{padding-left:0;border-left:0;
+                                            padding-top:14px;border-top:1px dashed var(--border)}}
+.invest-hero-right-label{display:block;color:var(--muted);margin-bottom:10px;
                          font-size:11.5px;font-weight:700;letter-spacing:0.5px;
                          text-transform:uppercase}
 .invest-hero-examples-list{list-style:none;padding:0;margin:0;
-                           display:flex;flex-direction:column;gap:7px;font-size:13.5px;line-height:1.5}
-.invest-hero-examples-list li{padding-left:14px;position:relative;
+                           display:flex;flex-direction:column;gap:8px;font-size:13.5px;line-height:1.5}
+.invest-hero-examples-list li{padding-left:16px;position:relative;
                               overflow-wrap:break-word;word-break:break-word}
 .invest-hero-examples-list li::before{content:"\25CF";position:absolute;left:0;top:0;
-                                      color:var(--accent);font-size:9px;line-height:1.9}
+                                      color:var(--accent);font-size:9px;line-height:2.1}
 .invest-hero-examples-list a{color:var(--brand);text-decoration:none;
                              border-bottom:1px dotted var(--brand)}
 .invest-hero-examples-list a:hover{color:var(--accent);border-bottom-color:var(--accent)}
@@ -1297,20 +1300,21 @@ def _build_investments_pages(site: Path, deals_by_slug: dict[str, list[dict]],
             examples_html = "".join(f"<li>{item}</li>" for item in rendered)
         else:
             examples_html = f"<li>{meta['examples_fallback']}</li>"
-        # Outer wrapper is a <div> (not <a>) because we want nested <a> tags
-        # for each example link. The big CTA button is the primary click
-        # target for reaching the sub-category page.
+        # Two-column card: LEFT column (title + description) is itself a
+        # single <a> pointing to the sub-category page — the whole left area
+        # is the click target, so no separate "Browse ..." button is needed.
+        # RIGHT column has its own external example-article links; they are
+        # siblings of the left <a>, not nested inside it (invalid HTML).
         hero_cards.append(
             f'<div class="invest-hero-card">'
-            f'<div class="invest-hero-left">'
+            f'<a class="invest-hero-left" href="investments/{slug}.html">'
             f'<div class="invest-hero-head">'
-            f'<span class="invest-hero-title">{label}</span>'
+            f'<span class="invest-hero-title">{label}'
+            f'<span class="invest-hero-title-arrow">\u2192</span></span>'
             f'<span class="invest-hero-count">{n} stories</span>'
             f'</div>'
             f'<p class="invest-hero-desc">{meta["desc"]}</p>'
-            f'<a class="invest-hero-cta-btn" href="investments/{slug}.html">'
-            f'Browse {label} \u2192</a>'
-            f'</div>'
+            f'</a>'
             f'<div class="invest-hero-right">'
             f'<span class="invest-hero-right-label">Recent examples</span>'
             f'<ul class="invest-hero-examples-list">{examples_html}</ul>'
