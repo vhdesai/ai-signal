@@ -14,7 +14,7 @@ from .index import run_index
 from .dedupe import run_dedupe
 from .graph import run_build_graph
 from .urls import run_validate_urls, run_repair_urls, run_clean_repairs
-from .site import run_build_site, run_review_submissions
+from .site import run_build_site, run_build_site_daily, run_review_submissions
 from .runlog import write_run
 
 DEFAULT_OBSIDIAN_ROOT = Path(__file__).resolve().parents[2]
@@ -49,6 +49,12 @@ def build_parser() -> argparse.ArgumentParser:
              "repair-urls (default: indexes/repair.stop).",
     )
     parser.add_argument(
+        "--repair-since", type=str, default=None,
+        help="Restrict repair-urls to articles dated on or after this date. "
+             "Accepts YYYY-MM-DD or the literal 'today'. Useful for a "
+             "quick post-rebuild pass that only fixes today's new links.",
+    )
+    parser.add_argument(
         "--no-embeddings", action="store_true",
         help="Skip Chroma/semantic embedding work in the index stage.",
     )
@@ -57,7 +63,8 @@ def build_parser() -> argparse.ArgumentParser:
     for command in (
         "ingest", "normalize", "split", "index", "dedupe", "build-graph",
         "validate-urls", "repair-urls", "clean-repairs", "build-site",
-        "review-submissions", "publish", "run-all",
+        "build-site-daily",
+        "review-submissions", "publish", "run-all", "run-daily",
     ):
         subcommands.add_parser(command)
     return parser
@@ -84,11 +91,14 @@ def run_stage(command: str, cfg: Config, args: argparse.Namespace) -> dict:
             time_budget_s=args.repair_timeout,
             max_workers=args.repair_workers,
             stop_file=args.repair_stop_file,
+            since=args.repair_since,
         )
     if command == "clean-repairs":
         return run_clean_repairs(cfg)
     if command == "build-site":
         return run_build_site(cfg)
+    if command == "build-site-daily":
+        return run_build_site_daily(cfg)
     if command == "review-submissions":
         return run_review_submissions(cfg)
     if command == "publish":
@@ -109,6 +119,26 @@ def main() -> None:
         ]
         stages = {stage: run_stage(stage, cfg, args) for stage in sequence}
         result = {"command": "run-all", "stages": stages}
+        result["run_log"] = write_run(cfg, started, result)
+    elif args.command == "run-daily":
+        # Fast daily rebuild: caps URL repair to today's articles (unless the
+        # caller explicitly set --repair-since) and uses build-site-daily
+        # which rebuilds only pages affected by newly-added / changed
+        # articles, with automatic fallback to a full rebuild when site
+        # code changes.
+        if not args.repair_since:
+            args.repair_since = "today"
+        # Default: cap the repair time budget to 10 min in daily mode so a
+        # daily run finishes in bounded time. Users can still override with
+        # --repair-timeout on the command line.
+        if args.repair_timeout == 3600.0:  # unchanged from parser default
+            args.repair_timeout = 600.0
+        sequence = [
+            "ingest", "split", "index", "dedupe", "build-graph",
+            "validate-urls", "repair-urls", "build-site-daily", "publish",
+        ]
+        stages = {stage: run_stage(stage, cfg, args) for stage in sequence}
+        result = {"command": "run-daily", "stages": stages}
         result["run_log"] = write_run(cfg, started, result)
     else:
         result = {"command": args.command, "result": run_stage(args.command, cfg, args)}

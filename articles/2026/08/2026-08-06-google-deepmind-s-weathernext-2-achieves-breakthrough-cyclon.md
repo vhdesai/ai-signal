@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-06-google-deepmind-weathernext-improves-cyclone-forecasting-lea
 - 2026-09-03-new-trending-google-deepmind-introduces-weathernext-3-with-h
 - 2026-09-03-google-deepmind-releases-weathernext-3-with-higher-resolutio
-- 2026-09-03-google-deepmind-releases-weathernext-3-with-hourly-5-km-fore
+- 2026-09-06-google-s-weathernext-3-drops-physics-simulation-and-learns-w
 embedding_id: 2026-08-06-google-deepmind-s-weathernext-2-achieves-breakthrough-cyclon
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google DeepMind published a Nature paper showing its WeatherNext 2 model achieve
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-06-google-deepmind-s-weathernext-2-sets-state-of-the-art-in-ai]] · [[2026-08-06-google-deepmind-weathernext-improves-cyclone-forecasting-lea]] · [[2026-09-03-new-trending-google-deepmind-introduces-weathernext-3-with-h]] · [[2026-09-03-google-deepmind-releases-weathernext-3-with-higher-resolutio]] · [[2026-09-03-google-deepmind-releases-weathernext-3-with-hourly-5-km-fore]]
+**Related:** [[2026-08-06-google-deepmind-s-weathernext-2-sets-state-of-the-art-in-ai]] · [[2026-08-06-google-deepmind-weathernext-improves-cyclone-forecasting-lea]] · [[2026-09-03-new-trending-google-deepmind-introduces-weathernext-3-with-h]] · [[2026-09-03-google-deepmind-releases-weathernext-3-with-higher-resolutio]] · [[2026-09-06-google-s-weathernext-3-drops-physics-simulation-and-learns-w]]
 <!-- graph:end -->

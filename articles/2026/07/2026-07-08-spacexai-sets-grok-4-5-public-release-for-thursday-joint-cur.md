@@ -4,8 +4,8 @@ title: SpaceXAI Sets Grok 4.5 Public Release for Thursday; Joint Cursor Model Im
 date: '2026-07-08'
 source: Yahoo Finance · The Next Web
 url_original: null
-url_canonical: https://coursiv.io/blog/spacexai
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_074536_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: ba2b9dc683f7e44a20d81dec9b284ba8ec486340bc0259510b52d13744f6e050

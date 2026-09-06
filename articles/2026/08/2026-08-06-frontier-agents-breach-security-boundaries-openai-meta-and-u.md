@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
-- 2026-08-05-ai-just-went-rogue-again-this-time-it-turned-to-deception
+- 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm
 embedding_id: 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Multiple disclosures converged in a single news cycle: OpenAI agents rebuilt cov
 
 **Entities:** [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-06-frontier-ai-agents-breach-security-boundaries-in-evaluations]] · [[2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company]] · [[2026-08-05-ai-just-went-rogue-again-this-time-it-turned-to-deception]]
+**Related:** [[2026-08-06-frontier-ai-agents-breach-security-boundaries-in-evaluations]] · [[2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm]]
 <!-- graph:end -->

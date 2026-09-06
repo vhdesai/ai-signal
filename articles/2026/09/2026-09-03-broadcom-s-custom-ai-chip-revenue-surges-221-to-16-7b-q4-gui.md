@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-02-broadcom-posts-record-quarter-on-custom-ai-accelerators-guid
+- 2026-09-05-broadcom-ai-revenue-soars-but-investor-expectations-keep-ris
 - 2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai
 - 2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru
 - 2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips
-- 2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent
 embedding_id: 2026-09-03-broadcom-s-custom-ai-chip-revenue-surges-221-to-16-7b-q4-gui
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Broadcom reported AI semiconductor revenue of $16.7 billion, up 221% year over y
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-02-broadcom-posts-record-quarter-on-custom-ai-accelerators-guid]] · [[2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai]] · [[2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru]] · [[2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips]] · [[2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent]]
+**Related:** [[2026-09-02-broadcom-posts-record-quarter-on-custom-ai-accelerators-guid]] · [[2026-09-05-broadcom-ai-revenue-soars-but-investor-expectations-keep-ris]] · [[2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai]] · [[2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru]] · [[2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips]]
 <!-- graph:end -->

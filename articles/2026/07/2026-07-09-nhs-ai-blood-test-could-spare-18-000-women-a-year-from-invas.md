@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-05-nhs-to-embed-an-ai-triage-tool-in-the-nhs-app-for-200-000-pa
 - 2026-05-25-mayo-clinic-ai-flagged-pancreatic-cancer-three-years-before
 - 2026-05-02-hotmayo-clinic-ai-flags-pancreatic-cancer-three-years-before
-- 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
+- 2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s
 embedding_id: 2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas
 event_name: ''
 ---
@@ -36,5 +36,5 @@ NHS trusts in Leeds and Mid Yorkshire are deploying PinPoint, a machine-learning
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur]] · [[2026-07-05-nhs-to-embed-an-ai-triage-tool-in-the-nhs-app-for-200-000-pa]] · [[2026-05-25-mayo-clinic-ai-flagged-pancreatic-cancer-three-years-before]] · [[2026-05-02-hotmayo-clinic-ai-flags-pancreatic-cancer-three-years-before]] · [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]]
+**Related:** [[2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur]] · [[2026-07-05-nhs-to-embed-an-ai-triage-tool-in-the-nhs-app-for-200-000-pa]] · [[2026-05-25-mayo-clinic-ai-flagged-pancreatic-cancer-three-years-before]] · [[2026-05-02-hotmayo-clinic-ai-flags-pancreatic-cancer-three-years-before]] · [[2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s]]
 <!-- graph:end -->

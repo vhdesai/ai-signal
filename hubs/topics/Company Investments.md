@@ -1,25 +1,33 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1026
+member_count: 1034
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1026 connected article(s).
+> Auto-generated topic hub. 1034 connected article(s).
 
+- `2026-09-06` [[2026-09-06-sb-energy-files-for-ipo-with-nvidia-backing|SB Energy files for IPO with Nvidia backing]]
+- `2026-09-06` [[2026-09-06-nvidia-s-12-9b-hugging-face-deal-shows-why-ipos-are-now-opti|Nvidia's $12.9B Hugging Face deal shows why IPOs are now optional]]
+- `2026-09-06` [[2026-09-06-mistral-reportedly-closes-3b-round-with-samsung-nvidia-and-s|Mistral reportedly closes €3B round with Samsung, Nvidia, and Scaleup Fund]]
+- `2026-09-06` [[2026-09-06-crusoe-raises-3b-at-a-30b-valuation|Crusoe raises $3B at a $30B valuation]]
+- `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-a-unified-platform-for-compute|UC Berkeley Releases CUA-Lite, a Unified Platform for Computer-Use Agents]]
+- `2026-09-05` [[2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and|Perplexity details its GPU embedding stack: how Ivy, Tulip and ROSE serve pplx-embed]]
+- `2026-09-05` [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah|Nvidia-backed Nscale discloses $103B in contracted revenue ahead of IPO]]
 - `2026-09-04` [[2026-09-04-xdof-is-reportedly-in-talks-for-a-series-b-at-a-1-2-billion|XDOF is reportedly in talks for a Series B at a $1.2 billion valuation]]
 - `2026-09-04` [[2026-09-04-nvidia-discusses-2-5b-investment-in-mira-murati-s-thinking-m|Nvidia discusses $2.5B investment in Mira Murati's Thinking Machines Lab]]
 - `2026-09-04` [[2026-09-04-nscale-seeks-about-3-5-billion-in-pre-ipo-financing|Nscale seeks about $3.5 billion in pre-IPO financing]]
 - `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-on-the-back-of-a-45b|Nscale seeks $3.5B in pre-IPO financing on the back of a $45B Anthropic deal]]
 - `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-anthropic-compu|Nscale seeks $3.5B in pre-IPO financing after Anthropic compute deal]]
+- `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-45b-anthropic-d|Nscale seeks $3.5B in pre-IPO financing after $45B Anthropic deal]]
 - `2026-09-04` [[2026-09-04-nscale-reportedly-seeks-3-5b-ahead-of-a-potential-ipo|Nscale reportedly seeks $3.5B ahead of a potential IPO]]
 - `2026-09-04` [[2026-09-04-nscale-reportedly-seeks-3-5-billion-ahead-of-a-possible-ipo|Nscale reportedly seeks $3.5 billion ahead of a possible IPO]]
-- `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-45b-anthropic-d|Nscale Seeks $3.5B in Pre-IPO Financing After $45B Anthropic Deal]]
 - `2026-09-04` [[2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-a-50|Moonshot AI files confidentially for Hong Kong IPO near a $50 billion valuation]]
 - `2026-09-04` [[2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-50b|Moonshot AI files confidentially for Hong Kong IPO near $50B valuation]]
 - `2026-09-04` [[2026-09-04-gimlet-labs-raises-300m-for-disaggregated-multi-silicon-infe|Gimlet Labs raises $300M for disaggregated multi-silicon inference]]
 - `2026-09-04` [[2026-09-04-gimlet-labs-raises-300m-series-b-at-a-3b-valuation-for-multi|Gimlet Labs Raises $300M Series B at a $3B Valuation for Multi-Silicon Inference]]
+- `2026-09-04` [[2026-09-04-figure-committed-3-5b-for-ai-compute-after-raising-1-9b|Figure committed $3.5B for AI compute after raising $1.9B]]
 - `2026-09-04` [[2026-09-04-berkeley-founded-xdof-reportedly-discusses-1-2b-valuation-fo|Berkeley-founded XDOF reportedly discusses $1.2B valuation for robot-training data]]
 - `2026-09-04` [[2026-09-04-berkeley-founded-xdof-discusses-a-1-2b-valuation-for-robot-t|Berkeley-Founded XDOF Discusses a $1.2B Valuation for Robot Training Data]]
 - `2026-09-04` [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing|AI compute provider Nscale seeks $3.5B in pre-IPO financing]]

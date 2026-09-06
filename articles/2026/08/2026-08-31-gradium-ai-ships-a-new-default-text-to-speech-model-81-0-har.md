@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a
+- 2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai
 - 2026-09-01-meta-superintelligence-labs-releases-muse-voice-transcribe-i
 - 2026-09-03-microsoft-ai-ships-mai-transcribe-2-at-0-10-an-hour-undercut
-- 2026-09-03-microsoft-ai-s-mai-transcribe-2-undercuts-rivals-at-0-10-per
-- 2026-07-09-nvidia-backs-paris-voice-ai-startup-gradium-s-100m-round
+- 2026-09-06-meta-releases-muse-voice-transcribe-for-real-time-streaming
 embedding_id: 2026-08-31-gradium-ai-ships-a-new-default-text-to-speech-model-81-0-har
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Gradium AI released a new text-to-speech model and made it the default across it
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a]] · [[2026-09-01-meta-superintelligence-labs-releases-muse-voice-transcribe-i]] · [[2026-09-03-microsoft-ai-ships-mai-transcribe-2-at-0-10-an-hour-undercut]] · [[2026-09-03-microsoft-ai-s-mai-transcribe-2-undercuts-rivals-at-0-10-per]] · [[2026-07-09-nvidia-backs-paris-voice-ai-startup-gradium-s-100m-round]]
+**Related:** [[2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a]] · [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai]] · [[2026-09-01-meta-superintelligence-labs-releases-muse-voice-transcribe-i]] · [[2026-09-03-microsoft-ai-ships-mai-transcribe-2-at-0-10-an-hour-undercut]] · [[2026-09-06-meta-releases-muse-voice-transcribe-for-real-time-streaming]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-17-bytedance-tsinghua-cuda-agent-for-gpu-kernel-generation
 - 2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for
 - 2026-08-23-freetoken-edge-native-moe-serving-engine-runs-753b-glm-5-2-o
+- 2026-09-05-perplexity-details-the-gpu-embedding-stack-behind-pplx-embed
 - 2026-08-23-freetoken-an-edge-native-moe-serving-engine-running-a-753b-m
-- 2026-06-22-moonmath-ai-open-sources-hip-attention-kernel-for-amd-mi300x
 embedding_id: 2026-07-25-developer-guide-to-high-performance-gpu-kernels-with-tilelan
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MarkTechPost published a hands-on guide to writing high-performance GPU kernels 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-17-bytedance-tsinghua-cuda-agent-for-gpu-kernel-generation]] · [[2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for]] · [[2026-08-23-freetoken-edge-native-moe-serving-engine-runs-753b-glm-5-2-o]] · [[2026-08-23-freetoken-an-edge-native-moe-serving-engine-running-a-753b-m]] · [[2026-06-22-moonmath-ai-open-sources-hip-attention-kernel-for-amd-mi300x]]
+**Related:** [[2026-08-17-bytedance-tsinghua-cuda-agent-for-gpu-kernel-generation]] · [[2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for]] · [[2026-08-23-freetoken-edge-native-moe-serving-engine-runs-753b-glm-5-2-o]] · [[2026-09-05-perplexity-details-the-gpu-embedding-stack-behind-pplx-embed]] · [[2026-08-23-freetoken-an-edge-native-moe-serving-engine-running-a-753b-m]]
 <!-- graph:end -->

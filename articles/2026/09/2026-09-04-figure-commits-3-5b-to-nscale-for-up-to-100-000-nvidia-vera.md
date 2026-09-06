@@ -22,8 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-04-figure-commits-billions-to-nscale-for-nvidia-vera-rubin-gpu
+- 2026-09-04-figure-committed-3-5b-for-ai-compute-after-raising-1-9b
+- 2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah
 - 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
-- 2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm
 embedding_id: 2026-09-04-figure-commits-3-5b-to-nscale-for-up-to-100-000-nvidia-vera
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Humanoid robotics company Figure signed a compute partnership with Nscale starti
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-04-figure-commits-billions-to-nscale-for-nvidia-vera-rubin-gpu]] · [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]] · [[2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm]]
+**Related:** [[2026-09-04-figure-commits-billions-to-nscale-for-nvidia-vera-rubin-gpu]] · [[2026-09-04-figure-committed-3-5b-for-ai-compute-after-raising-1-9b]] · [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah]] · [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]]
 <!-- graph:end -->

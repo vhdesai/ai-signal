@@ -4,8 +4,8 @@ title: NVIDIA Advances France's National AI Factory Infrastructure at VivaTech
 date: '2026-06-17'
 source: NVIDIA Newsroom
 url_original: null
-url_canonical: http://www.nvidia.com/page/home.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-18_075931_Final-Daily-AI-News-Digest.md
 content_hash: 46fcf898c768692b5e8b7a0c7516fa899ed9780265aa3278b239bee61228b2d5
 normalized_title_hash: 3ec0fc5e12212f7a

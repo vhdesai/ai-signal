@@ -4,8 +4,8 @@ title: Trump administration presses Meta to submit frontier models for federal t
 date: '2026-06-23'
 source: The New York Times
 url_original: null
-url_canonical: https://www.whitehouse.gov/administration/donald-j-trump/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-24_061930_Inbox_Daily AI News Digest - June 24,
   2026.md
 content_hash: fceed81ddf6e38125d0566e0cd8f5051a5f36a1d004f53180e622b93c3498c65

@@ -674,8 +674,20 @@ def _load(cfg: Config) -> list[dict]:
 
 
 def _write(path: Path, html: str) -> None:
+    # When _WRITE_FILTER is set (by run_build_site_daily), only files in the
+    # filter set are written; all other _write() calls are silently skipped.
+    # This lets run_build_site_daily re-use the existing run_build_site()
+    # pipeline for correctness while still saving disk I/O on unchanged pages.
+    if _WRITE_FILTER is not None and path.resolve() not in _WRITE_FILTER:
+        return
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(html, encoding="utf-8")
+
+
+# Module-level filter for _write(). None = write everything (normal
+# run_build_site behavior). A set of resolved Path objects = only write
+# files whose resolved path is in the set (used by run_build_site_daily).
+_WRITE_FILTER: set[Path] | None = None
 
 
 def _chat_highlight(title: str, description: str, rel: str = "") -> str:
@@ -2604,3 +2616,239 @@ q.addEventListener('input',()=>{{const raw=q.value;const parsed=parseQuery(raw);
     # --- admin / provenance removed for public site ---
 
     return {"pages": pages, "articles": len(articles), "canonical": len(canonical), "site_dir": str(site)}
+
+
+# ============================================================================
+# Incremental (daily) build: run_build_site_daily
+# ----------------------------------------------------------------------------
+# Rebuilds only pages affected by newly-added or changed articles. Uses a
+# per-file manifest (site/.build-manifest.json) to detect changes and falls
+# back to a full run_build_site() when:
+#   * The manifest is missing (first run of build-site-daily).
+#   * The manifest is corrupt / unreadable.
+#   * The site rendering code has changed since the manifest was written
+#     (SHA of site.py + split.py + graph.py).
+#   * Any article was removed from the canonical set (rare, and safer to
+#     rebuild than to hunt down stale cross-references).
+# When falling back, a fresh manifest is written for the next run.
+# ============================================================================
+
+
+def _daily_code_sha() -> str:
+    """SHA256 fingerprint of the site-render code. When this changes, the
+    incremental build must fall back to a full rebuild so template/CSS
+    updates are applied to previously-cached pages."""
+    import hashlib
+    h = hashlib.sha256()
+    for module_path in (
+        Path(__file__),
+        Path(__file__).parent / "split.py",
+        Path(__file__).parent / "graph.py",
+    ):
+        try:
+            h.update(module_path.read_bytes())
+        except OSError:
+            continue
+    return h.hexdigest()
+
+
+def _daily_article_hash(a: dict) -> str:
+    """Fingerprint of an article's presentation-relevant state.
+
+    If two articles produce the same hash, any page that renders the article
+    (its date snapshot, the entity pages of its entities, the theme pages of
+    its themes) will render identically. So we can safely skip re-writing
+    those pages.
+    """
+    import hashlib
+    import json as _json
+    fields = {
+        "title": a.get("title") or "",
+        "date": a.get("date") or "",
+        "url_canonical": a.get("url_canonical") or "",
+        "url_status": a.get("url_status") or "",
+        "summary": a.get("summary") or "",
+        "entities": sorted(a.get("entities", []) or []),
+        "themes": sorted(a.get("themes", []) or []),
+        "cross_cutting": sorted(a.get("cross_cutting", []) or []),
+        "tags": sorted(a.get("tags", []) or []),
+        "dedupe_status": a.get("dedupe_status") or "",
+        "theme": a.get("theme") or "",
+    }
+    return hashlib.sha256(
+        _json.dumps(fields, sort_keys=True, ensure_ascii=False).encode("utf-8")
+    ).hexdigest()
+
+
+def _daily_write_manifest(path: Path, code_sha: str,
+                          article_hashes: dict[str, str]) -> None:
+    """Persist the manifest atomically."""
+    import json as _json
+    from datetime import datetime, timezone
+    payload = {
+        "version": 1,
+        "code_sha": code_sha,
+        "built_at": datetime.now(timezone.utc).isoformat(),
+        "articles": article_hashes,
+    }
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_suffix(path.suffix + ".tmp")
+    tmp.write_text(_json.dumps(payload), encoding="utf-8")
+    tmp.replace(path)
+
+
+def _daily_compute_affected_paths(cfg: Config, articles: list[dict],
+                                  changed_ids: set[str]) -> set[Path]:
+    """Compute the set of resolved output file paths that must be rewritten
+    when the given article IDs have changed content."""
+    site = cfg.site_dir
+    paths: set[Path] = set()
+
+    # 1) Root-level pages that reflect global counts / newest content on
+    #    every rebuild. Cheap to regenerate and users always see them.
+    root_pages = (
+        "index.html", "style.css", "sitemap.xml",
+        "topics.html", "entities.html", "archive.html",
+        "investments.html", "chat.html", "about.html",
+    )
+    for name in root_pages:
+        paths.add((site / name).resolve())
+
+    # 2) For every changed article, add its date-snapshot, the entity pages
+    #    of every entity it mentions, and the theme/topic pages of every
+    #    theme it belongs to.
+    changed_dates: set[str] = set()
+    changed_entities: set[str] = set()
+    changed_themes: set[str] = set()
+    changed_deal_slugs: set[str] = set()
+    has_analysis_change = False
+    changed_by_id = {a["article_id"]: a for a in articles if a["article_id"] in changed_ids}
+    for a in changed_by_id.values():
+        d = a.get("date")
+        if d:
+            changed_dates.add(d)
+        for e in a.get("entities", []) or []:
+            changed_entities.add(e)
+        for t in a.get("themes", []) or []:
+            changed_themes.add(t)
+            if t in _DEALS_SUBCATEGORIES:
+                changed_deal_slugs.add(t)
+        for t in a.get("cross_cutting", []) or []:
+            changed_themes.add(t)
+            if t in _DEALS_SUBCATEGORIES:
+                changed_deal_slugs.add(t)
+        if "Analysis" in (a.get("tags", []) or []):
+            has_analysis_change = True
+
+    for d in changed_dates:
+        paths.add((site / "snapshots" / f"{d}.html").resolve())
+
+    for e in changed_entities:
+        fname = _safe_filename(e) + ".html"
+        paths.add((site / "entities" / fname).resolve())
+
+    for t in changed_themes:
+        paths.add((site / "topics" / f"{t}.html").resolve())
+
+    # If any deal-classified article changed, rebuild the whole Investments
+    # section: the 3 latest views, 3 alphabetical views, 3 timeline views,
+    # plus the hero landing (already in root_pages).
+    if changed_deal_slugs:
+        for slug in _DEALS_SUBCATEGORIES:
+            for suffix in ("", "-by-company", "-timeline"):
+                paths.add((site / "investments" / f"{slug}{suffix}.html").resolve())
+
+    # Curated analysis articles are standalone pages keyed by article_id.
+    if has_analysis_change:
+        for a in changed_by_id.values():
+            if "Analysis" in (a.get("tags", []) or []):
+                paths.add((site / "articles" / f"{a['article_id']}.html").resolve())
+
+    return paths
+
+
+def run_build_site_daily(cfg: Config) -> dict:
+    """Incremental site build with manifest-based change detection.
+
+    Falls back to run_build_site() when the manifest is missing, corrupt,
+    the site code has changed, or any article has been removed. Otherwise
+    computes the set of affected output files and re-runs run_build_site()
+    with a write-filter so only those files touch disk.
+    """
+    import json as _json
+    from time import monotonic
+
+    started = monotonic()
+    manifest_path = cfg.site_dir / ".build-manifest.json"
+    current_code_sha = _daily_code_sha()
+
+    # Load current article state up-front so we can hash it either way.
+    articles = _load(cfg)
+    current_hashes = {a["article_id"]: _daily_article_hash(a) for a in articles}
+
+    fallback_reason: str | None = None
+    prev_manifest: dict | None = None
+    if not manifest_path.exists():
+        fallback_reason = "no-manifest"
+    else:
+        try:
+            prev_manifest = _json.loads(manifest_path.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            fallback_reason = "manifest-corrupt"
+        else:
+            if prev_manifest.get("code_sha") != current_code_sha:
+                fallback_reason = "code-changed"
+
+    prev_hashes = (prev_manifest or {}).get("articles", {}) if not fallback_reason else {}
+    removed_ids = set(prev_hashes) - set(current_hashes) if prev_hashes else set()
+    if fallback_reason is None and removed_ids:
+        fallback_reason = "articles-removed"
+
+    if fallback_reason is not None:
+        # Full rebuild (unchanged behavior).
+        result = run_build_site(cfg)
+        _daily_write_manifest(manifest_path, current_code_sha, current_hashes)
+        return {
+            **result,
+            "mode": "full",
+            "reason": fallback_reason,
+            "elapsed_s": round(monotonic() - started, 2),
+        }
+
+    changed_ids = {aid for aid, h in current_hashes.items()
+                   if prev_hashes.get(aid) != h}
+
+    if not changed_ids:
+        # Nothing changed. Still rewrite root-level pages so counts / hero
+        # examples stay fresh, but everything else is skipped.
+        affected = _daily_compute_affected_paths(cfg, articles, set())
+        global _WRITE_FILTER
+        _WRITE_FILTER = affected
+        try:
+            result = run_build_site(cfg)
+        finally:
+            _WRITE_FILTER = None
+        _daily_write_manifest(manifest_path, current_code_sha, current_hashes)
+        return {
+            **result,
+            "mode": "incremental",
+            "changed_articles": 0,
+            "written_files": len(affected),
+            "elapsed_s": round(monotonic() - started, 2),
+        }
+
+    # True incremental rebuild.
+    affected = _daily_compute_affected_paths(cfg, articles, changed_ids)
+    globals()["_WRITE_FILTER"] = affected
+    try:
+        result = run_build_site(cfg)
+    finally:
+        globals()["_WRITE_FILTER"] = None
+    _daily_write_manifest(manifest_path, current_code_sha, current_hashes)
+    return {
+        **result,
+        "mode": "incremental",
+        "changed_articles": len(changed_ids),
+        "written_files": len(affected),
+        "elapsed_s": round(monotonic() - started, 2),
+    }

@@ -1,15 +1,26 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 1819
+member_count: 1832
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 1819 connected article(s).
+> Auto-generated topic hub. 1832 connected article(s).
 
+- `2026-09-06` [[2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further|Report: China's AI giants stretch each compute dollar further than US rivals]]
+- `2026-09-06` [[2026-09-06-micron-s-fully-booked-advanced-fabs-spotlight-ai-memory-cons|Micron's fully booked advanced fabs spotlight AI memory constraints]]
+- `2026-09-06` [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai|Meta's new real-time audio model targets always-listening AI assistants]]
+- `2026-09-06` [[2026-09-06-crusoe-raises-3b-at-a-30b-valuation|Crusoe raises $3B at a $30B valuation]]
+- `2026-09-06` [[2026-09-06-cerebras-announces-200mw-european-ai-compute-expansion|Cerebras announces 200MW European AI compute expansion]]
 - `2026-09-05` [[2026-09-05-wsj-reports-u-s-used-promise-of-nvidia-chips-in-armenia-azer|WSJ reports U.S. used promise of Nvidia chips in Armenia-Azerbaijan peace effort]]
+- `2026-09-05` [[2026-09-05-sunday-september-6-2026|Sunday, September 6, 2026]]
+- `2026-09-05` [[2026-09-05-perplexity-publishes-the-internals-of-its-gpu-embedding-serv|Perplexity Publishes the Internals of Its GPU Embedding Serving Stack]]
 - `2026-09-05` [[2026-09-05-nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momen|Nvidia partner Hon Hai's sales climb 52% with AI server momentum]]
+- `2026-09-05` [[2026-09-05-independent-coverage-frames-the-incident-as-an-eu-code-of-pr|Independent coverage frames the incident as an EU code-of-practice gap]]
+- `2026-09-05` [[2026-09-05-deepseek-orders-160-000-huawei-ascend-chips-for-inner-mongol|DeepSeek orders 160,000 Huawei Ascend chips for Inner Mongolia inference cluster]]
+- `2026-09-05` [[2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner|DeepSeek Orders 160,000 Huawei Ascend 950DT Chips for Inner Mongolia Inference Cluster]]
+- `2026-09-05` [[2026-09-05-broadcom-ai-revenue-soars-but-investor-expectations-keep-ris|Broadcom AI revenue soars, but investor expectations keep rising]]
 - `2026-09-05` [[2026-09-05-ai-s-next-bottlenecks-nvidia-broadcom-and-crowdstrike-move-u|AI's next bottlenecks: Nvidia, Broadcom and CrowdStrike move up the stack]]
 - `2026-09-04` [[2026-09-04-u-s-used-promise-of-nvidia-chips-to-broker-armenia-azerbaija|U.S. used promise of NVIDIA chips to broker Armenia-Azerbaijan peace deal]]
 - `2026-09-04` [[2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne|OpenAI releases GPT-6 Astra and hints the AGI line may be near]]
@@ -17,10 +28,12 @@ member_count: 1819
 - `2026-09-04` [[2026-09-04-nvidia-discusses-2-5b-investment-in-mira-murati-s-thinking-m|Nvidia discusses $2.5B investment in Mira Murati's Thinking Machines Lab]]
 - `2026-09-04` [[2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control|Nvidia agrees to buy Hugging Face for $12.93B, taking control of the open-model layer]]
 - `2026-09-04` [[2026-09-04-nscale-seeks-about-3-5-billion-in-pre-ipo-financing|Nscale seeks about $3.5 billion in pre-IPO financing]]
+- `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-45b-anthropic-d|Nscale seeks $3.5B in pre-IPO financing after $45B Anthropic deal]]
 - `2026-09-04` [[2026-09-04-nscale-reportedly-seeks-3-5b-ahead-of-a-potential-ipo|Nscale reportedly seeks $3.5B ahead of a potential IPO]]
 - `2026-09-04` [[2026-09-04-nvidia-shows-how-frontier-reasoning-models-can-run-on-jetson|NVIDIA shows how frontier reasoning models can run on Jetson]]
 - `2026-09-04` [[2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-50b|Moonshot AI files confidentially for Hong Kong IPO near $50B valuation]]
 - `2026-09-04` [[2026-09-04-hot-deepseek-to-deploy-160-000-huawei-ascend-chips-in-inner|Hot DeepSeek to deploy ~160,000 Huawei Ascend chips in Inner Mongolia]]
+- `2026-09-04` [[2026-09-04-figure-committed-3-5b-for-ai-compute-after-raising-1-9b|Figure committed $3.5B for AI compute after raising $1.9B]]
 - `2026-09-04` [[2026-09-04-figure-commits-3-5b-to-nscale-for-up-to-100-000-nvidia-vera|Figure Commits $3.5B to Nscale for Up to 100,000 Nvidia Vera Rubin GPUs]]
 - `2026-09-04` [[2026-09-04-deepseek-plots-major-huawei-ai-chip-order|DeepSeek plots major Huawei AI chip order]]
 - `2026-09-04` [[2026-09-04-deepseek-plans-a-160-000-chip-huawei-cluster-at-a-1gw-inner|DeepSeek plans a 160,000-chip Huawei cluster at a 1GW Inner Mongolia site]]

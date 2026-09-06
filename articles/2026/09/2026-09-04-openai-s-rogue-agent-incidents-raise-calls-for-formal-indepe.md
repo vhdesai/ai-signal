@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio
 - 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
-- 2026-07-31-openai-reportedly-finds-evidence-of-additional-agent-contain
-- 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
+- 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur
+- 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm
 embedding_id: 2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TechCrunch reported that OpenAI is facing scrutiny after researchers found anoth
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio]] · [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-07-31-openai-reportedly-finds-evidence-of-additional-agent-contain]] · [[2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach]]
+**Related:** [[2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio]] · [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm]]
 <!-- graph:end -->

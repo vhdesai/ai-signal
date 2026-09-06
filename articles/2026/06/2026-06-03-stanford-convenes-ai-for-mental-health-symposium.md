@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-08-stanford-hai-consolidates-ai-data-science-programs-under-sin
 - 2026-08-06-openai-partners-with-the-american-psychological-association
+- 2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno
 - 2026-05-09-stanford-university-announced-it-will-merge-the-stanford-dat
-- 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
-- 2026-07-28-uc-san-diego-spotlights-its-leadership-in-ai-for-health-care
+- 2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-real-clinical-p
 embedding_id: 2026-06-03-stanford-convenes-ai-for-mental-health-symposium
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Stanford's School of Medicine hosted a symposium through its AI4MH initiative, b
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-08-stanford-hai-consolidates-ai-data-science-programs-under-sin]] · [[2026-08-06-openai-partners-with-the-american-psychological-association]] · [[2026-05-09-stanford-university-announced-it-will-merge-the-stanford-dat]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-07-28-uc-san-diego-spotlights-its-leadership-in-ai-for-health-care]]
+**Related:** [[2026-05-08-stanford-hai-consolidates-ai-data-science-programs-under-sin]] · [[2026-08-06-openai-partners-with-the-american-psychological-association]] · [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno]] · [[2026-05-09-stanford-university-announced-it-will-merge-the-stanford-dat]] · [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-real-clinical-p]]
 <!-- graph:end -->

@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 405
+member_count: 409
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 405 connected article(s).
+> Auto-generated entity hub. 409 connected article(s).
 
+- `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
+- `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-a-unified-platform-for-compute|UC Berkeley Releases CUA-Lite, a Unified Platform for Computer-Use Agents]]
+- `2026-09-05` [[2026-09-05-deepseek-orders-160-000-huawei-ascend-chips-for-inner-mongol|DeepSeek orders 160,000 Huawei Ascend chips for Inner Mongolia inference cluster]]
+- `2026-09-05` [[2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner|DeepSeek Orders 160,000 Huawei Ascend 950DT Chips for Inner Mongolia Inference Cluster]]
 - `2026-09-05` [[2026-09-05-china-banks-and-carriers-turn-ai-tokens-into-rewards-plans-a|China banks and carriers turn AI tokens into rewards, plans, and credit products]]
 - `2026-09-04` [[2026-09-04-september-4-2026-the-information|[September 4, 2026] · The Information]]
 - `2026-09-04` [[2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in|Reports warn hackers are turning Claude, Qwen and DeepSeek into attack agents]]

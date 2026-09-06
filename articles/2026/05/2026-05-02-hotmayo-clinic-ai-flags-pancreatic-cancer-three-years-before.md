@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-05-25-mayo-clinic-ai-flagged-pancreatic-cancer-three-years-before
 - 2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur
 - 2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas
+- 2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s
 - 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
-- 2026-08-23-scientists-say-ai-probably-won-t-cure-cancer-anytime-soon
 embedding_id: 2026-05-02-hotmayo-clinic-ai-flags-pancreatic-cancer-three-years-before
 event_name: ''
 ---
@@ -33,5 +33,5 @@ A Mayo Clinic AI system identified pancreatic cancer signals in patient data an 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-25-mayo-clinic-ai-flagged-pancreatic-cancer-three-years-before]] · [[2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur]] · [[2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas]] · [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-08-23-scientists-say-ai-probably-won-t-cure-cancer-anytime-soon]]
+**Related:** [[2026-05-25-mayo-clinic-ai-flagged-pancreatic-cancer-three-years-before]] · [[2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur]] · [[2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas]] · [[2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s]] · [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]]
 <!-- graph:end -->

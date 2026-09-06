@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-28-cerebras-expands-ai-inference-infrastructure-across-europe-a
 - 2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i
+- 2026-09-06-cerebras-announces-200mw-european-ai-compute-expansion
 - 2026-03-24-amazon-web-services-and-cerebras-systems-announced-a-collabo
-- 2026-07-09-cerebras-accelerates-european-expansion-with-200mw-of-ai-com
 embedding_id: 2026-08-20-cerebras-partners-with-callosum-to-expand-agentic-inference
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Cerebras announced a partnership with London-based frontier-AI and compute-softw
 
 **Entities:** [[Cerebras]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-28-cerebras-expands-ai-inference-infrastructure-across-europe-a]] · [[2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i]] · [[2026-03-24-amazon-web-services-and-cerebras-systems-announced-a-collabo]] · [[2026-07-09-cerebras-accelerates-european-expansion-with-200mw-of-ai-com]]
+**Related:** [[2026-08-28-cerebras-expands-ai-inference-infrastructure-across-europe-a]] · [[2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i]] · [[2026-09-06-cerebras-announces-200mw-european-ai-compute-expansion]] · [[2026-03-24-amazon-web-services-and-cerebras-systems-announced-a-collabo]]
 <!-- graph:end -->

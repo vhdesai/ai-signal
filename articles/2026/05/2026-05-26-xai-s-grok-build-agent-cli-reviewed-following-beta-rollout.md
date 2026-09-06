@@ -4,8 +4,8 @@ title: xAI's Grok Build Agent CLI Reviewed Following Beta Rollout
 date: '2026-05-26'
 source: BuildFastWithAI
 url_original: null
-url_canonical: https://builtin.com/artificial-intelligence/what-is-xai
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-27_070624_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: d371e358e5924dba1102572c33e8eac4d229c472179aa6d26a375611f933ab51

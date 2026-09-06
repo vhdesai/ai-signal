@@ -5,8 +5,8 @@ title: DeepL, the company best known for text translation, released a real-time 
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://app.deepl.com/en/features/document-translation
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: e8381d58f0eaa5785a37406545ff6e555ede23ed847b63002a23edc393dd20a0

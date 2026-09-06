@@ -16,6 +16,7 @@ param(
     [double]$RepairTimeout = -1,
     [int]$RepairWorkers = 0,
     [string]$RepairStopFile = "",
+    [string]$RepairSince = "",
     [string]$VenvPath = "C:\dev\ai-signal-venv"
 )
 
@@ -33,6 +34,8 @@ if ($Limit -gt 0) { $cmd += @("--limit", "$Limit") }
 if ($RepairTimeout -ge 0) { $cmd += @("--repair-timeout", "$RepairTimeout") }
 if ($RepairWorkers -gt 0) { $cmd += @("--repair-workers", "$RepairWorkers") }
 if ($RepairStopFile -ne "") { $cmd += @("--repair-stop-file", $RepairStopFile) }
+# RepairSince: 'today' or YYYY-MM-DD; restricts repair-urls to recent articles.
+if ($RepairSince -ne "") { $cmd += @("--repair-since", $RepairSince) }
 $cmd += $Stage
 
 Push-Location (Join-Path $repoRoot "source")

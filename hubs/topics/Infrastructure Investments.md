@@ -1,20 +1,30 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1458
+member_count: 1469
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1458 connected article(s).
+> Auto-generated topic hub. 1469 connected article(s).
 
+- `2026-09-06` [[2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further|Report: China's AI giants stretch each compute dollar further than US rivals]]
+- `2026-09-06` [[2026-09-06-micron-s-fully-booked-advanced-fabs-spotlight-ai-memory-cons|Micron's fully booked advanced fabs spotlight AI memory constraints]]
+- `2026-09-06` [[2026-09-06-crusoe-raises-3b-at-a-30b-valuation|Crusoe raises $3B at a $30B valuation]]
+- `2026-09-06` [[2026-09-06-cerebras-announces-200mw-european-ai-compute-expansion|Cerebras announces 200MW European AI compute expansion]]
+- `2026-09-06` [[2026-09-06-ai-investment-figures-reach-a-new-order-of-magnitude|AI Investment Figures Reach a New Order of Magnitude]]
+- `2026-09-05` [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah|Nvidia-backed Nscale discloses $103B in contracted revenue ahead of IPO]]
 - `2026-09-05` [[2026-09-05-nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momen|Nvidia partner Hon Hai's sales climb 52% with AI server momentum]]
 - `2026-09-05` [[2026-09-05-nvidia-partner-hon-hai-foxconn-posts-52-august-sales-jump-on|Nvidia partner Hon Hai (Foxconn) posts 52% August sales jump on AI-server demand]]
 - `2026-09-05` [[2026-09-05-hon-hai-sales-rise-52-on-ai-server-momentum|Hon Hai Sales Rise 52% on AI Server Momentum]]
 - `2026-09-05` [[2026-09-05-hon-hai-august-sales-rise-52-on-ai-server-demand-as-europe-p|Hon Hai August sales rise 52% on AI server demand as Europe places its own orders]]
+- `2026-09-05` [[2026-09-05-hikers-rescued-after-planning-a-climb-with-google-gemini|Hikers rescued after planning a climb with Google Gemini]]
 - `2026-09-05` [[2026-09-05-foxconn-says-q3-should-beat-expectations-on-ai-strength|Foxconn says Q3 should beat expectations on AI strength]]
+- `2026-09-05` [[2026-09-05-deepseek-orders-160-000-huawei-ascend-chips-for-inner-mongol|DeepSeek orders 160,000 Huawei Ascend chips for Inner Mongolia inference cluster]]
+- `2026-09-05` [[2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner|DeepSeek Orders 160,000 Huawei Ascend 950DT Chips for Inner Mongolia Inference Cluster]]
 - `2026-09-05` [[2026-09-05-data-center-backlash-becomes-a-midterm-political-issue|Data-center backlash becomes a midterm political issue]]
 - `2026-09-05` [[2026-09-05-cerebras-surges-12-on-finland-data-center-news-and-revenue-b|Cerebras surges 12% on Finland data-center news and revenue beat]]
+- `2026-09-05` [[2026-09-05-broadcom-ai-revenue-soars-but-investor-expectations-keep-ris|Broadcom AI revenue soars, but investor expectations keep rising]]
 - `2026-09-05` [[2026-09-05-ai-s-next-bottlenecks-nvidia-broadcom-and-crowdstrike-move-u|AI's next bottlenecks: Nvidia, Broadcom and CrowdStrike move up the stack]]
 - `2026-09-04` [[2026-09-04-oracle-rallies-as-expanded-hpe-networking-deal-boosts-ai-inf|Oracle rallies as expanded HPE networking deal boosts AI infrastructure push]]
 - `2026-09-04` [[2026-09-04-oracle-expands-oci-enterprise-ai-model-catalog-in-its-septem|Oracle expands OCI Enterprise AI model catalog in its September update]]
@@ -27,11 +37,12 @@ member_count: 1458
 - `2026-09-04` [[2026-09-04-nscale-seeks-about-3-5-billion-in-pre-ipo-financing|Nscale seeks about $3.5 billion in pre-IPO financing]]
 - `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-on-the-back-of-a-45b|Nscale seeks $3.5B in pre-IPO financing on the back of a $45B Anthropic deal]]
 - `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-anthropic-compu|Nscale seeks $3.5B in pre-IPO financing after Anthropic compute deal]]
+- `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-45b-anthropic-d|Nscale seeks $3.5B in pre-IPO financing after $45B Anthropic deal]]
 - `2026-09-04` [[2026-09-04-nscale-reportedly-seeks-3-5b-ahead-of-a-potential-ipo|Nscale reportedly seeks $3.5B ahead of a potential IPO]]
-- `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-45b-anthropic-d|Nscale Seeks $3.5B in Pre-IPO Financing After $45B Anthropic Deal]]
 - `2026-09-04` [[2026-09-04-microsoft-unveils-project-zenith-for-local-frontier-scale-ai|Microsoft Unveils "Project Zenith" for Local Frontier-Scale AI Development]]
 - `2026-09-04` [[2026-09-04-hot-deepseek-to-deploy-160-000-huawei-ascend-chips-in-inner|Hot DeepSeek to deploy ~160,000 Huawei Ascend chips in Inner Mongolia]]
 - `2026-09-04` [[2026-09-04-gdit-joins-openai-partner-network-for-federal-ai-modernizati|GDIT joins OpenAI Partner Network for federal AI modernization]]
+- `2026-09-04` [[2026-09-04-figure-committed-3-5b-for-ai-compute-after-raising-1-9b|Figure committed $3.5B for AI compute after raising $1.9B]]
 - `2026-09-04` [[2026-09-04-figure-commits-billions-to-nscale-for-nvidia-vera-rubin-gpu|Figure commits billions to Nscale for Nvidia Vera Rubin GPU capacity]]
 - `2026-09-04` [[2026-09-04-figure-commits-3-5b-to-nscale-for-up-to-100-000-nvidia-vera|Figure Commits $3.5B to Nscale for Up to 100,000 Nvidia Vera Rubin GPUs]]
 - `2026-09-04` [[2026-09-04-deepseek-turns-to-huawei-for-160-000-ascend-ai-chips-as-nvid|DeepSeek turns to Huawei for 160,000 Ascend AI chips as Nvidia stays locked out of China]]

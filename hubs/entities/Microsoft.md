@@ -1,14 +1,21 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 815
+member_count: 822
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 815 connected article(s).
+> Auto-generated entity hub. 822 connected article(s).
 
+- `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
+- `2026-09-05` [[2026-09-05-techcrunch-reports-that-the-seattle-times-and-newsday-filed|TechCrunch reports that The Seattle Times and Newsday filed a lawsuit in the Southern District of New York alleging OpenAI and Microsoft trained their models on the publishers' journalism without permission. The complaint describes generative AI as "a snake eating its own tail" that risks breaking the news industry it consumes. The suit is notable because Microsoft and OpenAI have previously funded some Seattle Times journalism initiatives, adding a new dimension to the wave of publisher lawsuits that began with The New York Times in 2023.]]
+- `2026-09-05` [[2026-09-05-sunday-september-6-2026|Sunday, September 6, 2026]]
+- `2026-09-05` [[2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-trai|Seattle Times and Newsday sue OpenAI and Microsoft over training data]]
 - `2026-09-05` [[2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-alle|Seattle Times and Newsday sue OpenAI and Microsoft over alleged copyright infringement]]
+- `2026-09-05` [[2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-ai-t|Seattle Times and Newsday sue OpenAI and Microsoft over AI training]]
+- `2026-09-05` [[2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue|Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft]]
+- `2026-09-05` [[2026-09-05-hikers-rescued-after-planning-a-climb-with-google-gemini|Hikers rescued after planning a climb with Google Gemini]]
 - `2026-09-04` [[2026-09-04-seattle-times-sues-microsoft-and-openai-alleging-they-traine|Seattle Times sues Microsoft and OpenAI, alleging they trained their AI on its journalism]]
 - `2026-09-04` [[2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai|Seattle Times and Newsday sue Microsoft and OpenAI over training data]]
 - `2026-09-04` [[2026-09-04-microsoft-s-project-zenith-turns-high-memory-windows-pcs-int|Microsoft’s Project Zenith turns high-memory Windows PCs into local AI development machines]]

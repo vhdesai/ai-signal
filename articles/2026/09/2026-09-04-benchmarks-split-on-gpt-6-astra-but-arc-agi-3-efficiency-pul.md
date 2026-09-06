@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-06-openai-s-agi-number-came-from-a-harness-not-the-model
+- 2026-09-06-independent-evaluator-finds-openai-s-astra-agi-benchmark-was
+- 2026-09-05-artificial-analysis-overhauls-its-intelligence-index-after-a
 - 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
-- 2026-09-04-openai-releases-gpt-6-astra-and-suggests-it-could-be-agi
-- 2026-07-29-openai-says-two-api-settings-tripled-arc-agi-3-benchmark-sco
-- 2026-09-03-openai-launches-gpt-6-astra-its-most-capable-and-most-contes
-- 2026-05-02-model-releases-frontier-research-5-stories-arc-agi-3-analysi
+- 2026-09-06-openai-engineer-says-internal-astra-use-pulled-roadmap-plans
 embedding_id: 2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Independent evaluations of OpenAI's GPT-6 Astra disagree sharply: Epoch AI ranks
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-09-04-openai-releases-gpt-6-astra-and-suggests-it-could-be-agi]] · [[2026-07-29-openai-says-two-api-settings-tripled-arc-agi-3-benchmark-sco]] · [[2026-09-03-openai-launches-gpt-6-astra-its-most-capable-and-most-contes]] · [[2026-05-02-model-releases-frontier-research-5-stories-arc-agi-3-analysi]]
+**Related:** [[2026-09-06-openai-s-agi-number-came-from-a-harness-not-the-model]] · [[2026-09-06-independent-evaluator-finds-openai-s-astra-agi-benchmark-was]] · [[2026-09-05-artificial-analysis-overhauls-its-intelligence-index-after-a]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-09-06-openai-engineer-says-internal-astra-use-pulled-roadmap-plans]]
 <!-- graph:end -->

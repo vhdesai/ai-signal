@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 356
+member_count: 357
 ---
 
 # xAI
 
-> Auto-generated entity hub. 356 connected article(s).
+> Auto-generated entity hub. 357 connected article(s).
 
+- `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
 - `2026-09-04` [[2026-09-04-xai-adds-enterprise-access-network-and-audit-controls-to-gro|xAI adds enterprise access, network, and audit controls to Grok]]
 - `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
 - `2026-09-03` [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai|Trending UC Berkeley’s Stuart Russell calls for a halt to AI weapons]]

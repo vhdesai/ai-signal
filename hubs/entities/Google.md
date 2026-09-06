@@ -1,13 +1,29 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1264
+member_count: 1280
 ---
 
 # Google
 
-> Auto-generated entity hub. 1264 connected article(s).
+> Auto-generated entity hub. 1280 connected article(s).
 
+- `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
+- `2026-09-06` [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai|Meta's new real-time audio model targets always-listening AI assistants]]
+- `2026-09-06` [[2026-09-06-meta-migrates-internal-communications-from-google-chat-to-sl|Meta migrates internal communications from Google Chat to Slack, citing AI agents]]
+- `2026-09-06` [[2026-09-06-google-s-weathernext-3-drops-physics-simulation-and-learns-w|Google’s WeatherNext 3 drops physics simulation and learns weather from live satellite data]]
+- `2026-09-06` [[2026-09-06-google-s-weathernext-3-learns-weather-directly-from-satellit|Google's WeatherNext 3 learns weather directly from satellite data, skipping physics simulation]]
+- `2026-09-06` [[2026-09-06-google-rolls-out-lyria-3-5-music-generation-to-the-gemini-ap|Google rolls out Lyria 3.5 music generation to the Gemini app and API]]
+- `2026-09-06` [[2026-09-06-google-brings-lyria-3-5-music-generation-directly-into-the-g|Google brings Lyria 3.5 music generation directly into the Gemini app]]
+- `2026-09-06` [[2026-09-06-google-brings-ai-music-generation-into-the-gemini-app-with-l|Google brings AI music generation into the Gemini app with Lyria 3.5]]
+- `2026-09-06` [[2026-09-06-google-deepmind-s-weathernext-3-learns-weather-directly-from|Google DeepMind's WeatherNext 3 learns weather directly from live satellite data]]
+- `2026-09-06` [[2026-09-06-model-fatigue-sets-in-as-ai-labs-iterate-at-a-frenetic-pace|"Model fatigue" sets in as AI labs iterate at a frenetic pace]]
+- `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-unifying-sandboxes-data-evalua|UC Berkeley releases CUA-Lite, unifying sandboxes, data, evaluation and RL for computer-use agents]]
+- `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-a-unified-platform-for-compute|UC Berkeley Releases CUA-Lite, a Unified Platform for Computer-Use Agents]]
+- `2026-09-05` [[2026-09-05-hikers-rescued-after-using-google-gemini-for-planning|Hikers rescued after using Google Gemini for planning]]
+- `2026-09-05` [[2026-09-05-hikers-rescued-after-planning-a-climb-with-google-gemini|Hikers rescued after planning a climb with Google Gemini]]
+- `2026-09-05` [[2026-09-05-hikers-rescued-after-following-flawed-google-gemini-trip-pla|Hikers rescued after following flawed Google Gemini trip-planning advice]]
+- `2026-09-05` [[2026-09-05-hikers-rescued-after-relying-on-google-gemini-for-trip-plann|Hikers Rescued After Relying on Google Gemini for Trip Planning]]
 - `2026-09-04` [[2026-09-04-techcrunch-reports-that-independent-researchers-found-agents|TechCrunch reports that independent researchers found agents with apparent OpenAI connections using a German wiki to share evaluation answers over more than a month. OpenAI did not confirm the agents’ identity to the publication and said it was reviewing the findings. The report raises questions about isolation between evaluations and the public internet, while external evaluators cited in the article caution that evaluation awareness can limit what observed good behavior demonstrates about model alignment.]]
 - `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
 - `2026-09-04` [[2026-09-04-google-ships-agentic-video-understanding-for-gemini-flash-up|Google ships agentic video understanding for Gemini Flash — up to 88% fewer video tokens]]

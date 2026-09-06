@@ -1,24 +1,57 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 3968
+member_count: 4002
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 3968 connected article(s).
+> Auto-generated topic hub. 4002 connected article(s).
 
+- `2026-09-06` [[2026-09-06-uc-berkeley-researchers-release-cua-lite-an-open-platform-fo|UC Berkeley researchers release CUA-Lite, an open platform for computer-use agents]]
+- `2026-09-06` [[2026-09-06-sb-energy-files-for-ipo-with-nvidia-backing|SB Energy files for IPO with Nvidia backing]]
+- `2026-09-06` [[2026-09-06-openai-engineer-says-internal-astra-use-pulled-roadmap-plans|OpenAI engineer says internal Astra use pulled roadmap plans forward six months]]
+- `2026-09-06` [[2026-09-06-openai-developer-says-astra-s-internal-use-pulled-roadmap-pl|OpenAI developer says Astra's internal use pulled roadmap plans forward by six months]]
+- `2026-09-06` [[2026-09-06-nvidia-s-12-9b-hugging-face-deal-shows-why-ipos-are-now-opti|Nvidia's $12.9B Hugging Face deal shows why IPOs are now optional]]
+- `2026-09-06` [[2026-09-06-mistral-reportedly-closes-3b-round-with-samsung-nvidia-and-s|Mistral reportedly closes €3B round with Samsung, Nvidia, and Scaleup Fund]]
+- `2026-09-06` [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai|Meta's new real-time audio model targets always-listening AI assistants]]
+- `2026-09-06` [[2026-09-06-meta-migrates-internal-communications-from-google-chat-to-sl|Meta migrates internal communications from Google Chat to Slack, citing AI agents]]
+- `2026-09-06` [[2026-09-06-google-s-weathernext-3-learns-weather-directly-from-satellit|Google's WeatherNext 3 learns weather directly from satellite data, skipping physics simulation]]
+- `2026-09-06` [[2026-09-06-google-brings-lyria-3-5-music-generation-directly-into-the-g|Google brings Lyria 3.5 music generation directly into the Gemini app]]
+- `2026-09-06` [[2026-09-06-databricks-launches-context-engineer-certification-and-expan|Databricks launches Context Engineer certification and expands agent training]]
+- `2026-09-06` [[2026-09-06-ai-investment-figures-reach-a-new-order-of-magnitude|AI Investment Figures Reach a New Order of Magnitude]]
+- `2026-09-06` [[2026-09-06-model-fatigue-sets-in-as-ai-labs-iterate-at-a-frenetic-pace|"Model fatigue" sets in as AI labs iterate at a frenetic pace]]
+- `2026-09-05` [[2026-09-05-zoom-ai-companion-outage-in-us-region-resolved-after-overnig|Zoom AI Companion outage in US region resolved after overnight incident]]
+- `2026-09-05` [[2026-09-05-wall-street-raises-the-bar-for-ai-stocks|Wall Street raises the bar for AI stocks]]
+- `2026-09-05` [[2026-09-05-vance-s-satanic-ai-remark-strikes-a-chord-among-christian-re|Vance's "satanic" AI remark strikes a chord among Christian Republicans]]
+- `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-a-unified-platform-for-compute|UC Berkeley Releases CUA-Lite, a Unified Platform for Computer-Use Agents]]
 - `2026-09-05` [[2026-09-05-u-s-and-china-prepare-mid-september-ai-safety-talks|U.S. and China prepare mid-September AI safety talks]]
+- `2026-09-05` [[2026-09-05-techcrunch-reports-that-the-seattle-times-and-newsday-filed|TechCrunch reports that The Seattle Times and Newsday filed a lawsuit in the Southern District of New York alleging OpenAI and Microsoft trained their models on the publishers' journalism without permission. The complaint describes generative AI as "a snake eating its own tail" that risks breaking the news industry it consumes. The suit is notable because Microsoft and OpenAI have previously funded some Seattle Times journalism initiatives, adding a new dimension to the wave of publisher lawsuits that began with The New York Times in 2023.]]
+- `2026-09-05` [[2026-09-05-sunday-september-6-2026|Sunday, September 6, 2026]]
+- `2026-09-05` [[2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-ai-t|Seattle Times and Newsday sue OpenAI and Microsoft over AI training]]
+- `2026-09-05` [[2026-09-05-perplexity-details-the-gpu-serving-stack-behind-pplx-embed|Perplexity details the GPU serving stack behind pplx-embed]]
+- `2026-09-05` [[2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and|Perplexity details its GPU embedding stack: how Ivy, Tulip and ROSE serve pplx-embed]]
 - `2026-09-05` [[2026-09-05-openai-will-reportedly-cut-off-models-for-spacex-owned-curso|OpenAI will reportedly cut off models for SpaceX-owned Cursor]]
+- `2026-09-05` [[2026-09-05-openai-publishes-gpt-6-astra-prompting-guide-including-a-slo|OpenAI publishes GPT‑6 Astra prompting guide, including a “slop word” blocklist]]
+- `2026-09-05` [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah|Nvidia-backed Nscale discloses $103B in contracted revenue ahead of IPO]]
 - `2026-09-05` [[2026-09-05-nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momen|Nvidia partner Hon Hai's sales climb 52% with AI server momentum]]
 - `2026-09-05` [[2026-09-05-nvidia-partner-hon-hai-foxconn-posts-52-august-sales-jump-on|Nvidia partner Hon Hai (Foxconn) posts 52% August sales jump on AI-server demand]]
+- `2026-09-05` [[2026-09-05-nous-research-adds-one-click-local-model-setup-to-hermes-des|Nous Research adds one-click local model setup to Hermes Desktop]]
+- `2026-09-05` [[2026-09-05-nous-research-collapses-local-model-setup-to-one-click-in-he|Nous Research Collapses Local Model Setup to One Click in Hermes Desktop]]
+- `2026-09-05` [[2026-09-05-independent-coverage-frames-the-incident-as-an-eu-code-of-pr|Independent coverage frames the incident as an EU code-of-practice gap]]
 - `2026-09-05` [[2026-09-05-hon-hai-sales-rise-52-on-ai-server-momentum|Hon Hai Sales Rise 52% on AI Server Momentum]]
+- `2026-09-05` [[2026-09-05-github-s-hydrafusion-routes-each-coding-task-to-a-per-task-w|GitHub's HydraFusion routes each coding task to a per-task workflow in Copilot CLI]]
+- `2026-09-05` [[2026-09-05-github-introduces-project-hydrafusion-runtime-multi-model-or|GitHub introduces Project HydraFusion: runtime multi-model orchestration in Copilot CLI]]
+- `2026-09-05` [[2026-09-05-github-introduces-project-hydrafusion-for-per-task-model-orc|GitHub Introduces Project HydraFusion for Per-Task Model Orchestration in Copilot CLI]]
+- `2026-09-05` [[2026-09-05-gpt-6-astra-draws-scrutiny-over-cybersecurity-capability-sco|GPT-6 Astra draws scrutiny over cybersecurity capability score]]
 - `2026-09-05` [[2026-09-05-foxconn-says-third-quarter-should-outperform-expectations-on|Foxconn says third quarter should outperform expectations on AI strength]]
 - `2026-09-05` [[2026-09-05-foxconn-says-q3-should-beat-expectations-on-ai-strength|Foxconn says Q3 should beat expectations on AI strength]]
 - `2026-09-05` [[2026-09-05-data-center-backlash-becomes-a-midterm-political-issue|Data-center backlash becomes a midterm political issue]]
 - `2026-09-05` [[2026-09-05-china-banks-and-carriers-turn-ai-tokens-into-rewards-plans-a|China banks and carriers turn AI tokens into rewards, plans, and credit products]]
 - `2026-09-05` [[2026-09-05-cerebras-surges-12-on-finland-data-center-news-and-revenue-b|Cerebras surges 12% on Finland data-center news and revenue beat]]
 - `2026-09-05` [[2026-09-05-campaigns-continue-using-ai-generated-ads-despite-chatgpt-re|Campaigns continue using AI-generated ads despite ChatGPT restrictions]]
+- `2026-09-05` [[2026-09-05-broadcom-ai-revenue-soars-but-investor-expectations-keep-ris|Broadcom AI revenue soars, but investor expectations keep rising]]
+- `2026-09-05` [[2026-09-05-artificial-analysis-overhauls-its-intelligence-index-after-a|Artificial Analysis overhauls its Intelligence Index after Astra scoring drew skepticism]]
 - `2026-09-05` [[2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on|Agentic AI is shifting the pricing models CIOs rely on]]
 - `2026-09-05` [[2026-09-05-ai-agents-in-cyberattacks-target-asian-governments|AI agents in cyberattacks target Asian governments]]
 - `2026-09-04` [[2026-09-04-xai-adds-enterprise-access-network-and-audit-controls-to-gro|xAI adds enterprise access, network, and audit controls to Grok]]
@@ -46,8 +79,8 @@ member_count: 3968
 - `2026-09-04` [[2026-09-04-nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models|Nvidia and CrowdStrike develop new cybersecurity AI models]]
 - `2026-09-04` [[2026-09-04-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug|Nvidia agrees to roughly $13 billion deal for AI platform Hugging Face]]
 - `2026-09-04` [[2026-09-04-nvidia-agrees-to-buy-hugging-face-taking-control-of-a-key-op|Nvidia agrees to buy Hugging Face, taking control of a key open-model layer]]
+- `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-45b-anthropic-d|Nscale seeks $3.5B in pre-IPO financing after $45B Anthropic deal]]
 - `2026-09-04` [[2026-09-04-nscale-reportedly-seeks-3-5-billion-ahead-of-a-possible-ipo|Nscale reportedly seeks $3.5 billion ahead of a possible IPO]]
-- `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-45b-anthropic-d|Nscale Seeks $3.5B in Pre-IPO Financing After $45B Anthropic Deal]]
 - `2026-09-04` [[2026-09-04-nvidia-publishes-a-memory-driven-chief-of-staff-agent-recipe|NVIDIA publishes a memory-driven Chief of Staff agent recipe]]
 - `2026-09-04` [[2026-09-04-nvidia-nemoclaw-recipe-shows-a-memory-driven-chief-of-staff|NVIDIA NemoClaw recipe shows a memory-driven Chief of Staff agent]]
 - `2026-09-04` [[2026-09-04-nhtsa-investigates-tesla-s-cybercab-deployment-without-manua|NHTSA investigates Tesla's Cybercab deployment without manual controls]]
@@ -70,6 +103,7 @@ member_count: 3968
 - `2026-09-04` [[2026-09-04-gdit-joins-openai-partner-network-to-accelerate-federal-ai-m|GDIT joins OpenAI Partner Network to accelerate federal AI modernization]]
 - `2026-09-04` [[2026-09-04-gdit-joins-openai-partner-network-for-federal-ai-modernizati|GDIT joins OpenAI Partner Network for federal AI modernization]]
 - `2026-09-04` [[2026-09-04-for-all-their-talk-about-ai-few-companies-are-quantifying-ga|For all their talk about AI, few companies are quantifying gains]]
+- `2026-09-04` [[2026-09-04-figure-committed-3-5b-for-ai-compute-after-raising-1-9b|Figure committed $3.5B for AI compute after raising $1.9B]]
 - `2026-09-04` [[2026-09-04-deepseek-turns-to-huawei-for-160-000-ascend-ai-chips-as-nvid|DeepSeek turns to Huawei for 160,000 Ascend AI chips as Nvidia stays locked out of China]]
 - `2026-09-04` [[2026-09-04-deepseek-plans-major-huawei-chip-order-for-new-ai-data-cente|DeepSeek plans major Huawei chip order for new AI data center]]
 - `2026-09-04` [[2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a|CybersecurityNews and related security feeds reported that attackers are using models such as Claude, Qwen, and DeepSeek as AI agents for real-world cyberattacks, including activity against government systems. Even where individual claims require technical validation, the trend is directionally consistent with the broader shift from prompt-based abuse to autonomous attack workflows. Security teams should expect controls to move toward agent identity, tool permissions, sandboxing, egress restrictions, and behavioral monitoring.]]

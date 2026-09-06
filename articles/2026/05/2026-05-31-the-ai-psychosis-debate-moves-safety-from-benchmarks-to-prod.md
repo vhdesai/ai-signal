@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-real-clinical-p
+- 2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno
 - 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
 - 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-- 2026-07-11-the-real-danger-of-ai-isn-t-that-it-s-wrong-it-s-that-it-cou
-- 2026-04-02-academic-research
 embedding_id: 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch examined the debate over so-called “AI psychosis,” a term being u
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]] · [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-07-11-the-real-danger-of-ai-isn-t-that-it-s-wrong-it-s-that-it-cou]] · [[2026-04-02-academic-research]]
+**Related:** [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-real-clinical-p]] · [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno]] · [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]] · [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]]
 <!-- graph:end -->

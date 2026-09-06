@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen
 - 2026-08-20-slack-launches-slack-code-putting-ai-coding-agents-inside-te
 - 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
-- 2026-06-23-anthropic-launches-claude-tag-a-persistent-claude-teammate-i
+- 2026-09-06-meta-migrates-internal-communications-from-google-chat-to-sl
 embedding_id: 2026-08-20-nanoclaw-brings-persistent-ai-agent-teams-to-slack-from-a-si
 event_name: ''
 ---
@@ -38,5 +38,5 @@ NanoCo, maker of the open-source agent harness NanoClaw, launched a Slack integr
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts]] · [[2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen]] · [[2026-08-20-slack-launches-slack-code-putting-ai-coding-agents-inside-te]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-06-23-anthropic-launches-claude-tag-a-persistent-claude-teammate-i]]
+**Related:** [[2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts]] · [[2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen]] · [[2026-08-20-slack-launches-slack-code-putting-ai-coding-agents-inside-te]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-09-06-meta-migrates-internal-communications-from-google-chat-to-sl]]
 <!-- graph:end -->

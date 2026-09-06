@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-03-sparks-fly-nvidia-accelerates-local-ai-at-ifa-2026
 - 2026-08-03-deepx-s-new-valuation-highlights-persistent-investor-appetit
 - 2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif
 - 2026-09-04-at-ifa-2026-ai-moves-from-chat-interfaces-into-robots-and-ed
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
+- 2026-08-03-amd-s-release-is-strategically-important-because-it-demonstr
 embedding_id: 2026-09-04-ifa-berlin-highlights-local-ai-as-amd-pushes-personal-device
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Tech Times reported that IFA Berlin opened with AI-centered product messaging, i
 
 **Entities:** [[AMD]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-03-sparks-fly-nvidia-accelerates-local-ai-at-ifa-2026]] · [[2026-08-03-deepx-s-new-valuation-highlights-persistent-investor-appetit]] · [[2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif]] · [[2026-09-04-at-ifa-2026-ai-moves-from-chat-interfaces-into-robots-and-ed]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]]
+**Related:** [[2026-08-03-deepx-s-new-valuation-highlights-persistent-investor-appetit]] · [[2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif]] · [[2026-09-04-at-ifa-2026-ai-moves-from-chat-interfaces-into-robots-and-ed]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-08-03-amd-s-release-is-strategically-important-because-it-demonstr]]
 <!-- graph:end -->

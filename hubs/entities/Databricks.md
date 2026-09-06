@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 130
+member_count: 133
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 130 connected article(s).
+> Auto-generated entity hub. 133 connected article(s).
 
+- `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
+- `2026-09-06` [[2026-09-06-databricks-launches-context-engineer-certification-and-expan|Databricks launches Context Engineer certification and expands agent training]]
+- `2026-09-05` [[2026-09-05-hikers-rescued-after-planning-a-climb-with-google-gemini|Hikers rescued after planning a climb with Google Gemini]]
 - `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
 - `2026-09-04` [[2026-09-04-ai-leads-unicorn-creation-in-2026-deepseek-tops-new-ai-unico|AI leads unicorn creation in 2026; DeepSeek tops new AI unicorn valuations]]
 - `2026-09-03` [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai|Trending UC Berkeley’s Stuart Russell calls for a halt to AI weapons]]

@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-20-slack-launches-slack-code-putting-ai-coding-agents-inside-te
 - 2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts
+- 2026-09-06-meta-migrates-internal-communications-from-google-chat-to-sl
 - 2026-07-21-jack-dorsey-s-buzz-puts-humans-and-ai-agents-in-the-same-wor
 - 2026-09-02-meta-ditches-google-chat-for-slack-citing-ai-agent-workflows
-- 2026-08-20-nanoclaw-brings-persistent-ai-agent-teams-to-slack-from-a-si
 embedding_id: 2026-08-20-slack-launches-code-channels-putting-ai-coding-agents-inside
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Slack introduced “code channels” where teams and AI coding agents write, rev
 
 **Entities:** [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-20-slack-launches-slack-code-putting-ai-coding-agents-inside-te]] · [[2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts]] · [[2026-07-21-jack-dorsey-s-buzz-puts-humans-and-ai-agents-in-the-same-wor]] · [[2026-09-02-meta-ditches-google-chat-for-slack-citing-ai-agent-workflows]] · [[2026-08-20-nanoclaw-brings-persistent-ai-agent-teams-to-slack-from-a-si]]
+**Related:** [[2026-08-20-slack-launches-slack-code-putting-ai-coding-agents-inside-te]] · [[2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts]] · [[2026-09-06-meta-migrates-internal-communications-from-google-chat-to-sl]] · [[2026-07-21-jack-dorsey-s-buzz-puts-humans-and-ai-agents-in-the-same-wor]] · [[2026-09-02-meta-ditches-google-chat-for-slack-citing-ai-agent-workflows]]
 <!-- graph:end -->

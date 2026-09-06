@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-15-google-s-ai-search-features-face-child-safety-criticism
 - 2026-09-04-nyc-parents-push-back-after-discovering-classroom-ai-use
+- 2026-09-05-nyc-and-los-angeles-school-districts-impose-new-ai-moratoriu
+- 2026-09-05-new-york-city-and-los-angeles-school-districts-impose-new-ai
 - 2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default
-- 2026-07-16-openai-argues-teens-deserve-access-to-safe-ai
-- 2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work
 embedding_id: 2026-07-19-advocates-tell-google-to-fix-ai-mode-or-leave-classrooms
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Mashable reports that advocates are calling on Google to fix AI Mode or get out 
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-15-google-s-ai-search-features-face-child-safety-criticism]] · [[2026-09-04-nyc-parents-push-back-after-discovering-classroom-ai-use]] · [[2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default]] · [[2026-07-16-openai-argues-teens-deserve-access-to-safe-ai]] · [[2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work]]
+**Related:** [[2026-07-15-google-s-ai-search-features-face-child-safety-criticism]] · [[2026-09-04-nyc-parents-push-back-after-discovering-classroom-ai-use]] · [[2026-09-05-nyc-and-los-angeles-school-districts-impose-new-ai-moratoriu]] · [[2026-09-05-new-york-city-and-los-angeles-school-districts-impose-new-ai]] · [[2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
 - 2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on
 - 2026-07-10-micron-expands-u-s-manufacturing-plan-to-about-250b-on-ai-me
-- 2026-08-21-micron-commits-10b-to-a-boise-research-hub-targeting-post-dr
+- 2026-09-06-micron-s-fully-booked-advanced-fabs-spotlight-ai-memory-cons
 embedding_id: 2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Micron detailed a $250 billion U.S. investment aimed at eventually producing 40%
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-09-micron-commits-250b-to-us-memory-manufacturing-on-ai-demand]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on]] · [[2026-07-10-micron-expands-u-s-manufacturing-plan-to-about-250b-on-ai-me]] · [[2026-08-21-micron-commits-10b-to-a-boise-research-hub-targeting-post-dr]]
+**Related:** [[2026-07-09-micron-commits-250b-to-us-memory-manufacturing-on-ai-demand]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on]] · [[2026-07-10-micron-expands-u-s-manufacturing-plan-to-about-250b-on-ai-me]] · [[2026-09-06-micron-s-fully-booked-advanced-fabs-spotlight-ai-memory-cons]]
 <!-- graph:end -->

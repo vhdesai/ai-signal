@@ -22,8 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-17-bytedance-seed-and-tsinghua-introduce-cuda-agent-for-gpu-ker
 - 2026-08-17-bytedance-tsinghua-cuda-agent-for-gpu-kernel-generation
+- 2026-09-05-uc-berkeley-researchers-release-cua-lite-an-open-platform-fo
+- 2026-09-05-uc-berkeley-releases-cua-lite-an-open-platform-for-computer
 - 2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for
-- 2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement
 embedding_id: 2026-08-17-bytedance-seed-and-tsinghua-air-introduce-cuda-agent-for-gpu
 event_name: ''
 ---
@@ -37,5 +38,5 @@ ByteDance Seed and Tsinghua University’s Institute for AI Industry Research re
 
 **Entities:** [[ByteDance]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-17-bytedance-seed-and-tsinghua-introduce-cuda-agent-for-gpu-ker]] · [[2026-08-17-bytedance-tsinghua-cuda-agent-for-gpu-kernel-generation]] · [[2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for]] · [[2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement]]
+**Related:** [[2026-08-17-bytedance-seed-and-tsinghua-introduce-cuda-agent-for-gpu-ker]] · [[2026-08-17-bytedance-tsinghua-cuda-agent-for-gpu-kernel-generation]] · [[2026-09-05-uc-berkeley-researchers-release-cua-lite-an-open-platform-fo]] · [[2026-09-05-uc-berkeley-releases-cua-lite-an-open-platform-for-computer]] · [[2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for]]
 <!-- graph:end -->

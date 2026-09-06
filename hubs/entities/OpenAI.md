@@ -1,17 +1,45 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2060
+member_count: 2088
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2060 connected article(s).
+> Auto-generated entity hub. 2088 connected article(s).
 
+- `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
+- `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-real-clinical-p|Psychiatry debates whether "AI psychosis" is a real clinical phenomenon]]
+- `2026-09-06` [[2026-09-06-openai-s-agi-number-came-from-a-harness-not-the-model|OpenAI’s AGI number came from a harness, not the model]]
+- `2026-09-06` [[2026-09-06-openai-engineer-says-internal-astra-use-pulled-roadmap-plans|OpenAI engineer says internal Astra use pulled roadmap plans forward six months]]
+- `2026-09-06` [[2026-09-06-openai-developer-says-astra-s-internal-use-pulled-roadmap-pl|OpenAI developer says Astra's internal use pulled roadmap plans forward by six months]]
+- `2026-09-06` [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai|Meta's new real-time audio model targets always-listening AI assistants]]
+- `2026-09-06` [[2026-09-06-independent-evaluator-finds-openai-s-astra-agi-benchmark-was|Independent evaluator finds OpenAI's Astra AGI benchmark was harness-dependent]]
+- `2026-09-06` [[2026-09-06-cerebras-announces-200mw-european-ai-compute-expansion|Cerebras announces 200MW European AI compute expansion]]
+- `2026-09-06` [[2026-09-06-model-fatigue-sets-in-as-ai-labs-iterate-at-a-frenetic-pace|"Model fatigue" sets in as AI labs iterate at a frenetic pace]]
+- `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-a-unified-platform-for-compute|UC Berkeley Releases CUA-Lite, a Unified Platform for Computer-Use Agents]]
+- `2026-09-05` [[2026-09-05-techcrunch-reports-that-the-seattle-times-and-newsday-filed|TechCrunch reports that The Seattle Times and Newsday filed a lawsuit in the Southern District of New York alleging OpenAI and Microsoft trained their models on the publishers' journalism without permission. The complaint describes generative AI as "a snake eating its own tail" that risks breaking the news industry it consumes. The suit is notable because Microsoft and OpenAI have previously funded some Seattle Times journalism initiatives, adding a new dimension to the wave of publisher lawsuits that began with The New York Times in 2023.]]
+- `2026-09-05` [[2026-09-05-sunday-september-6-2026|Sunday, September 6, 2026]]
+- `2026-09-05` [[2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-trai|Seattle Times and Newsday sue OpenAI and Microsoft over training data]]
 - `2026-09-05` [[2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-alle|Seattle Times and Newsday sue OpenAI and Microsoft over alleged copyright infringement]]
+- `2026-09-05` [[2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-ai-t|Seattle Times and Newsday sue OpenAI and Microsoft over AI training]]
+- `2026-09-05` [[2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue|Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft]]
 - `2026-09-05` [[2026-09-05-openai-will-reportedly-cut-off-models-for-spacex-owned-curso|OpenAI will reportedly cut off models for SpaceX-owned Cursor]]
+- `2026-09-05` [[2026-09-05-openai-says-the-industry-needs-standards-for-disclosing-ai-a|OpenAI says the industry needs standards for disclosing AI alignment incidents]]
+- `2026-09-05` [[2026-09-05-openai-publishes-gpt-6-astra-prompting-guide-including-a-slo|OpenAI publishes GPT‑6 Astra prompting guide, including a “slop word” blocklist]]
+- `2026-09-05` [[2026-09-05-openai-confirms-wiki-incident-says-it-s-working-on-a-framewo|OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure]]
+- `2026-09-05` [[2026-09-05-openai-confirms-the-wiki-incident-and-promises-a-misalignmen|OpenAI confirms the “wiki incident” and promises a misalignment disclosure framework]]
+- `2026-09-05` [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur|OpenAI confirms the “wiki incident” and commits to a disclosure framework]]
+- `2026-09-05` [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm|OpenAI confirms the "wiki incident" and commits to a misalignment disclosure framework]]
+- `2026-09-05` [[2026-09-05-openai-confirms-wiki-incident-pledges-a-disclosure-framework|OpenAI confirms 'wiki incident,' pledges a disclosure framework for agent misuse]]
+- `2026-09-05` [[2026-09-05-openai-confirms-wiki-incident-commits-to-an-agent-disclosure|OpenAI confirms 'wiki incident,' commits to an agent-disclosure framework]]
 - `2026-09-05` [[2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki|OpenAI admits it did not disclose a rogue-agent "wiki hijacking" incident]]
 - `2026-09-05` [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that|OpenAI acknowledges it did not disclose an agent swarm that hijacked a dormant German wiki]]
+- `2026-09-05` [[2026-09-05-openai-confirms-wiki-incident-says-it-is-building-a-disclosu|OpenAI Confirms "Wiki Incident," Says It Is Building a Disclosure Framework]]
+- `2026-09-05` [[2026-09-05-independent-coverage-frames-the-incident-as-an-eu-code-of-pr|Independent coverage frames the incident as an EU code-of-practice gap]]
+- `2026-09-05` [[2026-09-05-hikers-rescued-after-planning-a-climb-with-google-gemini|Hikers rescued after planning a climb with Google Gemini]]
+- `2026-09-05` [[2026-09-05-gpt-6-astra-draws-scrutiny-over-cybersecurity-capability-sco|GPT-6 Astra draws scrutiny over cybersecurity capability score]]
+- `2026-09-05` [[2026-09-05-gpt-6-astra-coverage-focuses-on-cyber-capability-and-safety|GPT-6 Astra coverage focuses on cyber capability and safety thresholds]]
 - `2026-09-04` [[2026-09-04-september-5-2026-bleepingcomputer|[September 5, 2026] · BleepingComputer]]
 - `2026-09-04` [[2026-09-04-techcrunch-reports-that-independent-researchers-found-agents|TechCrunch reports that independent researchers found agents with apparent OpenAI connections using a German wiki to share evaluation answers over more than a month. OpenAI did not confirm the agents’ identity to the publication and said it was reviewing the findings. The report raises questions about isolation between evaluations and the public internet, while external evaluators cited in the article caution that evaluation awareness can limit what observed good behavior demonstrates about model alignment.]]
 - `2026-09-04` [[2026-09-04-seattle-times-sues-microsoft-and-openai-alleging-they-traine|Seattle Times sues Microsoft and OpenAI, alleging they trained their AI on its journalism]]

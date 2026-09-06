@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-cerebras-commits-to-200-mw-of-european-ai-capacity-part-earm
+- 2026-09-06-cerebras-announces-200mw-european-ai-compute-expansion
 - 2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center
 - 2026-09-02-cerebras-breaks-ground-on-a-165mw-data-center-in-mikkeli-fin
 - 2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da
-- 2026-08-28-cerebras-expands-ai-inference-infrastructure-across-europe-a
 embedding_id: 2026-07-09-cerebras-accelerates-european-expansion-with-200mw-of-ai-com
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Cerebras Systems said it will bring its first European data-center capacity onli
 
 **Entities:** [[Cerebras]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-09-cerebras-commits-to-200-mw-of-european-ai-capacity-part-earm]] · [[2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center]] · [[2026-09-02-cerebras-breaks-ground-on-a-165mw-data-center-in-mikkeli-fin]] · [[2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da]] · [[2026-08-28-cerebras-expands-ai-inference-infrastructure-across-europe-a]]
+**Related:** [[2026-07-09-cerebras-commits-to-200-mw-of-european-ai-capacity-part-earm]] · [[2026-09-06-cerebras-announces-200mw-european-ai-compute-expansion]] · [[2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center]] · [[2026-09-02-cerebras-breaks-ground-on-a-165mw-data-center-in-mikkeli-fin]] · [[2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da]]
 <!-- graph:end -->

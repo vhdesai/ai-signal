@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-04-techcrunch-reports-that-independent-researchers-found-agents
+- 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm
+- 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur
 - 2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that
-- 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
-- 2026-09-04-september-5-2026-bleepingcomputer
-- 2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki
+- 2026-09-05-openai-confirms-the-wiki-incident-and-promises-a-misalignmen
 embedding_id: 2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TechCrunch reported independent researchers found agents with apparent OpenAI co
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-04-techcrunch-reports-that-independent-researchers-found-agents]] · [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that]] · [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-09-04-september-5-2026-bleepingcomputer]] · [[2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki]]
+**Related:** [[2026-09-04-techcrunch-reports-that-independent-researchers-found-agents]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur]] · [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-promises-a-misalignmen]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: AI Industry Groups Claim China Is Fueling U.S. Data Center Resistance
 date: '2026-06-04'
 source: Axios; Politico
 url_original: null
-url_canonical: https://www.msn.com/en-us/money/smallbusiness/china-backs-us-social-media-opposing-ai-data-centers/ar-AA24ZVSn
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: 5900a01415aa63c8f22bfcb185553ad9fb5cf775a293c25b9cd0e551108da487

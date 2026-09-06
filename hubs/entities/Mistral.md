@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 193
+member_count: 196
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 193 connected article(s).
+> Auto-generated entity hub. 196 connected article(s).
 
+- `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
+- `2026-09-06` [[2026-09-06-mistral-reportedly-closes-3b-round-with-samsung-nvidia-and-s|Mistral reportedly closes €3B round with Samsung, Nvidia, and Scaleup Fund]]
+- `2026-09-05` [[2026-09-05-hikers-rescued-after-planning-a-climb-with-google-gemini|Hikers rescued after planning a climb with Google Gemini]]
 - `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
 - `2026-09-03` [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai|Trending UC Berkeley’s Stuart Russell calls for a halt to AI weapons]]
 - `2026-09-03` [[2026-09-03-trending-french-finance-minister-warns-europe-cannot-rest-so|Trending French finance minister warns Europe cannot rest sovereignty on Mistral alone]]

@@ -1,19 +1,28 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1336
+member_count: 1345
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1336 connected article(s).
+> Auto-generated entity hub. 1345 connected article(s).
 
+- `2026-09-06` [[2026-09-06-sb-energy-files-for-ipo-with-nvidia-backing|SB Energy files for IPO with Nvidia backing]]
+- `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
+- `2026-09-06` [[2026-09-06-nvidia-s-12-9b-hugging-face-deal-shows-why-ipos-are-now-opti|Nvidia's $12.9B Hugging Face deal shows why IPOs are now optional]]
+- `2026-09-06` [[2026-09-06-mistral-reportedly-closes-3b-round-with-samsung-nvidia-and-s|Mistral reportedly closes €3B round with Samsung, Nvidia, and Scaleup Fund]]
 - `2026-09-05` [[2026-09-05-wsj-reports-u-s-used-promise-of-nvidia-chips-in-armenia-azer|WSJ reports U.S. used promise of Nvidia chips in Armenia-Azerbaijan peace effort]]
+- `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-a-unified-platform-for-compute|UC Berkeley Releases CUA-Lite, a Unified Platform for Computer-Use Agents]]
+- `2026-09-05` [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah|Nvidia-backed Nscale discloses $103B in contracted revenue ahead of IPO]]
 - `2026-09-05` [[2026-09-05-nvidia-s-hugging-face-deal-keeps-reshaping-the-open-model-su|Nvidia's Hugging Face deal keeps reshaping the open-model supply chain]]
 - `2026-09-05` [[2026-09-05-nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momen|Nvidia partner Hon Hai's sales climb 52% with AI server momentum]]
 - `2026-09-05` [[2026-09-05-nvidia-partner-hon-hai-foxconn-posts-52-august-sales-jump-on|Nvidia partner Hon Hai (Foxconn) posts 52% August sales jump on AI-server demand]]
 - `2026-09-05` [[2026-09-05-hon-hai-sales-rise-52-on-ai-server-momentum|Hon Hai Sales Rise 52% on AI Server Momentum]]
 - `2026-09-05` [[2026-09-05-hon-hai-august-sales-rise-52-on-ai-server-demand-as-europe-p|Hon Hai August sales rise 52% on AI server demand as Europe places its own orders]]
+- `2026-09-05` [[2026-09-05-hikers-rescued-after-planning-a-climb-with-google-gemini|Hikers rescued after planning a climb with Google Gemini]]
+- `2026-09-05` [[2026-09-05-deepseek-orders-160-000-huawei-ascend-chips-for-inner-mongol|DeepSeek orders 160,000 Huawei Ascend chips for Inner Mongolia inference cluster]]
+- `2026-09-05` [[2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner|DeepSeek Orders 160,000 Huawei Ascend 950DT Chips for Inner Mongolia Inference Cluster]]
 - `2026-09-05` [[2026-09-05-ai-s-next-bottlenecks-nvidia-broadcom-and-crowdstrike-move-u|AI's next bottlenecks: Nvidia, Broadcom and CrowdStrike move up the stack]]
 - `2026-09-04` [[2026-09-04-september-4-2026-the-information|[September 4, 2026] · The Information]]
 - `2026-09-04` [[2026-09-04-september-4-2026-nvidia-developer-blog|[September 4, 2026] · NVIDIA Developer Blog]]

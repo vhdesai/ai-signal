@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
 - 2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare
 - 2026-06-23-openai-details-how-gpt-5-helped-an-immunologist-crack-a-thre
-- 2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science
+- 2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno
 embedding_id: 2026-06-22-ai-reportedly-cracks-18-unsolved-rare-disease-cases-at-harva
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers at Harvard and Boston Children's Hospital used OpenAI's o3 Deep Rese
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare]] · [[2026-06-23-openai-details-how-gpt-5-helped-an-immunologist-crack-a-thre]] · [[2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science]]
+**Related:** [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare]] · [[2026-06-23-openai-details-how-gpt-5-helped-an-immunologist-crack-a-thre]] · [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno]]
 <!-- graph:end -->

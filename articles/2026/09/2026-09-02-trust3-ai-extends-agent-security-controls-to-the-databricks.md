@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
+- 2026-09-06-databricks-launches-context-engineer-certification-and-expan
 - 2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and
 - event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib
 - 2026-06-22-google-is-reportedly-building-a-trusted-directory-for-ai-age
-- 2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra
 embedding_id: 2026-09-02-trust3-ai-extends-agent-security-controls-to-the-databricks
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Trust3 AI, founded by the creators of Apache Ranger, extended purpose-based agen
 
 **Entities:** [[Databricks]] · [[Snowflake]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib]] · [[2026-06-22-google-is-reportedly-building-a-trusted-directory-for-ai-age]] · [[2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra]]
+**Related:** [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-09-06-databricks-launches-context-engineer-certification-and-expan]] · [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib]] · [[2026-06-22-google-is-reportedly-building-a-trusted-directory-for-ai-age]]
 <!-- graph:end -->

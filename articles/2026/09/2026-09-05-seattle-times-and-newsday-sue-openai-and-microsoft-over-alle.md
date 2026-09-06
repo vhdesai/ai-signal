@@ -18,12 +18,9 @@ entities:
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai
-- 2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training
-- 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
+dedupe_status: duplicate
+canonical_article_id: 2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue
+related_article_ids: []
 embedding_id: 2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-alle
 event_name: ''
 ---
@@ -37,5 +34,5 @@ Reuters reported that the Seattle Times and Newsday sued OpenAI and Microsoft, a
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai]] · [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]]
+**Canonical:** [[2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue]]
 <!-- graph:end -->

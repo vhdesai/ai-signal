@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits-driv
+- 2026-09-06-ai-investment-figures-reach-a-new-order-of-magnitude
 - 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
 - 2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a
 - 2026-08-25-stability-ai-maker-of-stable-diffusion-raises-76-million-in
-- 2026-07-16-tsmc-plans-another-100-billion-u-s-investment-as-ai-demand-l
 embedding_id: 2026-05-23-moment-raises-78m-series-c-to-automate-fixed-income-and-equi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Moment, which builds AI tooling for automating fixed-income and equities trading
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits-driv]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-08-25-stability-ai-maker-of-stable-diffusion-raises-76-million-in]] · [[2026-07-16-tsmc-plans-another-100-billion-u-s-investment-as-ai-demand-l]]
+**Related:** [[2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits-driv]] · [[2026-09-06-ai-investment-figures-reach-a-new-order-of-magnitude]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-08-25-stability-ai-maker-of-stable-diffusion-raises-76-million-in]]
 <!-- graph:end -->

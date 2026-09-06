@@ -4,8 +4,8 @@ title: 'Reuters: Anthropic v. OpenAI—Behind the Bitter Battle for the Future o
 date: '2026-06-11'
 source: Reuters
 url_original: null
-url_canonical: https://newslink.reuters.com/public/33242946
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-11_060053_Daily-AI-News-Digest.md
 content_hash: 2bdca6c2168902ecc021ac28320fc3519c38ae15d9f6dd0b7dbbae284a86d774
 normalized_title_hash: 7698c90755f777d9

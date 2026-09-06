@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-31-meeting-notetaker-circleback-adds-a-free-tier-to-attract-mor
 - 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
+- 2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai
 - 2026-08-20-meta-launches-pocket-a-vibe-coding-app-for-creating-and-shar
-- 2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a
 embedding_id: 2026-08-27-plaud-launches-ai-note-taking-earphones-with-esim-enabled-ca
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Plaud, which reports over 2.5 million users of its hardware and software, introd
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-31-meeting-notetaker-circleback-adds-a-free-tier-to-attract-mor]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-08-20-meta-launches-pocket-a-vibe-coding-app-for-creating-and-shar]] · [[2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a]]
+**Related:** [[2026-08-31-meeting-notetaker-circleback-adds-a-free-tier-to-attract-mor]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai]] · [[2026-08-20-meta-launches-pocket-a-vibe-coding-app-for-creating-and-shar]]
 <!-- graph:end -->

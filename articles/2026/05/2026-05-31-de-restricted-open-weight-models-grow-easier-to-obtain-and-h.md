@@ -23,11 +23,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-06-stripping-safety-guardrails-from-open-weight-models-is-now-a
 - 2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier
 - 2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode
 - 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
 - 2026-08-04-saferai-report-open-weight-models-near-frontier-capability-s
-- 2026-08-10-openai-ships-a-less-restricted-cyber-model-for-defenders-und
 embedding_id: 2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h
 event_name: ''
 ---
@@ -41,5 +41,5 @@ NPR reports that stripping safety guardrails from capable open-weight models —
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]] · [[2026-08-04-saferai-report-open-weight-models-near-frontier-capability-s]] · [[2026-08-10-openai-ships-a-less-restricted-cyber-model-for-defenders-und]]
+**Related:** [[2026-09-06-stripping-safety-guardrails-from-open-weight-models-is-now-a]] · [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]] · [[2026-08-04-saferai-report-open-weight-models-near-frontier-capability-s]]
 <!-- graph:end -->

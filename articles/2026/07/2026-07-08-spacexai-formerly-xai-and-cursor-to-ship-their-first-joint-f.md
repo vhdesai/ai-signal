@@ -5,8 +5,8 @@ title: SpaceXAI (formerly xAI) and Cursor to ship their first joint frontier mod
 date: '2026-07-08'
 source: The Next Web
 url_original: null
-url_canonical: https://coursiv.io/blog/spacexai
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_064841_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: b78dd729c982079473d4bd4cc783e5610457acd199a2a0fceb931e7d899c424e

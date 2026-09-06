@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
 - 2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f
 - 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
+- 2026-09-06-mistral-reportedly-closes-3b-round-with-samsung-nvidia-and-s
 - 2026-07-27-nvidia-in-talks-to-guarantee-250b-financing-for-openai-s-pla
-- 2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it
 embedding_id: 2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Mistral AI closed $830M in debt from a seven-bank European consortium (no U.S. b
 
 **Entities:** [[Mistral]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]] · [[2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-07-27-nvidia-in-talks-to-guarantee-250b-financing-for-openai-s-pla]] · [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]]
+**Related:** [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]] · [[2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-09-06-mistral-reportedly-closes-3b-round-with-samsung-nvidia-and-s]] · [[2026-07-27-nvidia-in-talks-to-guarantee-250b-financing-for-openai-s-pla]]
 <!-- graph:end -->

@@ -1,16 +1,22 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1192
+member_count: 1198
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1192 connected article(s).
+> Auto-generated topic hub. 1198 connected article(s).
 
+- `2026-09-06` [[2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further|Report: China's AI giants stretch each compute dollar further than US rivals]]
+- `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
+- `2026-09-06` [[2026-09-06-china-launches-ai-app-to-detect-online-fraud-schemes|China launches AI app to detect online fraud schemes]]
 - `2026-09-05` [[2026-09-05-wsj-reports-u-s-used-promise-of-nvidia-chips-in-armenia-azer|WSJ reports U.S. used promise of Nvidia chips in Armenia-Azerbaijan peace effort]]
+- `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-a-unified-platform-for-compute|UC Berkeley Releases CUA-Lite, a Unified Platform for Computer-Use Agents]]
 - `2026-09-05` [[2026-09-05-u-s-and-china-prepare-mid-september-ai-safety-talks|U.S. and China prepare mid-September AI safety talks]]
 - `2026-09-05` [[2026-09-05-foxconn-says-q3-should-beat-expectations-on-ai-strength|Foxconn says Q3 should beat expectations on AI strength]]
+- `2026-09-05` [[2026-09-05-deepseek-orders-160-000-huawei-ascend-chips-for-inner-mongol|DeepSeek orders 160,000 Huawei Ascend chips for Inner Mongolia inference cluster]]
+- `2026-09-05` [[2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner|DeepSeek Orders 160,000 Huawei Ascend 950DT Chips for Inner Mongolia Inference Cluster]]
 - `2026-09-05` [[2026-09-05-china-banks-and-carriers-turn-ai-tokens-into-rewards-plans-a|China banks and carriers turn AI tokens into rewards, plans, and credit products]]
 - `2026-09-05` [[2026-09-05-alibaba-s-wan3-0-expands-its-ai-ambitions-could-shareholders|Alibaba's Wan3.0 expands its AI ambitions, could shareholders be paying the bill?]]
 - `2026-09-04` [[2026-09-04-september-4-2026-the-information|[September 4, 2026] · The Information]]

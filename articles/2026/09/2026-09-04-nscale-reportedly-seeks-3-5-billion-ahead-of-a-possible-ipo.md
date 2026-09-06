@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
+- 2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah
 embedding_id: 2026-09-04-nscale-reportedly-seeks-3-5-billion-ahead-of-a-possible-ipo
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Nscale is discussing $1.5 billion in convertible notes and another $2 billion in
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]]
+**Related:** [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]] · [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah]]
 <!-- graph:end -->

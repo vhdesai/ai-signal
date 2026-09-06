@@ -4,8 +4,8 @@ title: Workday and Google Cloud expand AI-agent partnership for HR and finance
 date: '2026-05-28'
 source: Workday
 url_original: null
-url_canonical: https://play.google.com/store/apps/details?id=com.workday.workdroidapp&hl=en_US
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 618b2d26749e7474cc8798d7f45defb27bbd157f101803494a1e034c2abfd7e9

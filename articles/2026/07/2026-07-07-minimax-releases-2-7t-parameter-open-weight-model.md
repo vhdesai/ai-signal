@@ -4,8 +4,8 @@ title: MiniMax Releases 2.7T-Parameter Open-Weight Model
 date: '2026-07-07'
 source: Multiple sources
 url_original: null
-url_canonical: https://www.minimax.io/blog/minimax-h3
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_074500_Inbox_Daily AI News Digest – July 8,
   2026.md
 content_hash: 14b9d4cf8e8b084efa6b28607cfac67e98cc091807176b87b6ee932643f45324

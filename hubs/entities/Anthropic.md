@@ -1,17 +1,25 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 1805
+member_count: 1813
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 1805 connected article(s).
+> Auto-generated entity hub. 1813 connected article(s).
 
+- `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
+- `2026-09-06` [[2026-09-06-openai-engineer-says-internal-astra-use-pulled-roadmap-plans|OpenAI engineer says internal Astra use pulled roadmap plans forward six months]]
+- `2026-09-06` [[2026-09-06-model-fatigue-sets-in-as-ai-labs-iterate-at-a-frenetic-pace|"Model fatigue" sets in as AI labs iterate at a frenetic pace]]
+- `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-unifying-sandboxes-data-evalua|UC Berkeley releases CUA-Lite, unifying sandboxes, data, evaluation and RL for computer-use agents]]
+- `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-a-unified-platform-for-compute|UC Berkeley Releases CUA-Lite, a Unified Platform for Computer-Use Agents]]
+- `2026-09-05` [[2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and|Perplexity details its GPU embedding stack: how Ivy, Tulip and ROSE serve pplx-embed]]
+- `2026-09-05` [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah|Nvidia-backed Nscale discloses $103B in contracted revenue ahead of IPO]]
+- `2026-09-05` [[2026-09-05-artificial-analysis-overhauls-its-intelligence-index-after-a|Artificial Analysis overhauls its Intelligence Index after Astra scoring drew skepticism]]
 - `2026-09-04` [[2026-09-04-nscale-seeks-about-3-5-billion-in-pre-ipo-financing|Nscale seeks about $3.5 billion in pre-IPO financing]]
 - `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-on-the-back-of-a-45b|Nscale seeks $3.5B in pre-IPO financing on the back of a $45B Anthropic deal]]
 - `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-anthropic-compu|Nscale seeks $3.5B in pre-IPO financing after Anthropic compute deal]]
-- `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-45b-anthropic-d|Nscale Seeks $3.5B in Pre-IPO Financing After $45B Anthropic Deal]]
+- `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-45b-anthropic-d|Nscale seeks $3.5B in pre-IPO financing after $45B Anthropic deal]]
 - `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
 - `2026-09-04` [[2026-09-04-daily-ai-news-digest-september-5-2026|Daily AI News Digest – September 5, 2026]]
 - `2026-09-04` [[2026-09-04-brazil-s-picpay-deploys-claude-for-customer-banking-inquirie|Brazil’s PicPay deploys Claude for customer banking inquiries]]

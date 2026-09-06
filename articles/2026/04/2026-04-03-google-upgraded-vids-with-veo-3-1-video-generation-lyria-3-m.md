@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-06-google-brings-lyria-3-5-music-generation-directly-into-the-g
+- 2026-09-06-google-rolls-out-lyria-3-5-music-generation-to-the-gemini-ap
 - 2026-09-04-google-brings-lyria-3-5-music-generation-into-the-gemini-app
+- 2026-09-06-google-brings-ai-music-generation-into-the-gemini-app-with-l
 - 2026-09-04-google-brings-lyria-3-5-music-generation-to-gemini-app-and-a
-- 2026-09-04-google-brings-lyria-3-5-music-generation-to-the-gemini-app-a
-- 2026-09-04-google-brings-lyria-3-5-music-generation-into-gemini-and-the
-- 2026-07-16-google-vids-adds-personal-ai-avatars-and-gemini-omni-video-g
 embedding_id: 2026-04-03-google-upgraded-vids-with-veo-3-1-video-generation-lyria-3-m
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google upgraded Vids with Veo 3.1 video generation, Lyria 3 music creation, and 
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-09-04-google-brings-lyria-3-5-music-generation-into-the-gemini-app]] · [[2026-09-04-google-brings-lyria-3-5-music-generation-to-gemini-app-and-a]] · [[2026-09-04-google-brings-lyria-3-5-music-generation-to-the-gemini-app-a]] · [[2026-09-04-google-brings-lyria-3-5-music-generation-into-gemini-and-the]] · [[2026-07-16-google-vids-adds-personal-ai-avatars-and-gemini-omni-video-g]]
+**Related:** [[2026-09-06-google-brings-lyria-3-5-music-generation-directly-into-the-g]] · [[2026-09-06-google-rolls-out-lyria-3-5-music-generation-to-the-gemini-ap]] · [[2026-09-04-google-brings-lyria-3-5-music-generation-into-the-gemini-app]] · [[2026-09-06-google-brings-ai-music-generation-into-the-gemini-app-with-l]] · [[2026-09-04-google-brings-lyria-3-5-music-generation-to-gemini-app-and-a]]
 <!-- graph:end -->

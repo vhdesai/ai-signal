@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and
 - 2026-05-10-mit-mean-pooling-generated-tokens-yields-sota-semantic-repre
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
 - 2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai
 - 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
-- 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 embedding_id: 2026-08-24-google-research-and-usc-introduce-me-pois-folding-human-mobi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Mobility-Embedded POIs encodes each visit as a contextualized vector and uses co
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-10-mit-mean-pooling-generated-tokens-yields-sota-semantic-repre]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai]] · [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]]
+**Related:** [[2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and]] · [[2026-05-10-mit-mean-pooling-generated-tokens-yields-sota-semantic-repre]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai]] · [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]]
 <!-- graph:end -->

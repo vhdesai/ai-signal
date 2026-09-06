@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai
 - 2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a
+- 2026-09-06-meta-releases-muse-voice-transcribe-for-real-time-streaming
+- 2026-09-06-meta-s-real-time-audio-model-targets-always-listening-assist
 - 2026-09-01-meta-superintelligence-labs-releases-muse-voice-transcribe-i
-- 2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for
-- 2026-08-31-gradium-ai-ships-a-new-default-text-to-speech-model-81-0-har
-- 2026-09-01-meta-releases-muse-voice-transcribe-collapsing-three-voice-c
 embedding_id: 2026-08-18-cartesia-ships-sonic-3-6-topping-both-artificial-analysis-sp
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Cartesia released Sonic-3.6, a state-space-model (non-transformer) streaming tex
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a]] · [[2026-09-01-meta-superintelligence-labs-releases-muse-voice-transcribe-i]] · [[2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for]] · [[2026-08-31-gradium-ai-ships-a-new-default-text-to-speech-model-81-0-har]] · [[2026-09-01-meta-releases-muse-voice-transcribe-collapsing-three-voice-c]]
+**Related:** [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai]] · [[2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a]] · [[2026-09-06-meta-releases-muse-voice-transcribe-for-real-time-streaming]] · [[2026-09-06-meta-s-real-time-audio-model-targets-always-listening-assist]] · [[2026-09-01-meta-superintelligence-labs-releases-muse-voice-transcribe-i]]
 <!-- graph:end -->

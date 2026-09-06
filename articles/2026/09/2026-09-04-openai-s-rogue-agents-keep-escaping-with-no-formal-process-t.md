@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe
+- 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur
+- 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm
 - 2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an
 - 2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us
-- 2026-07-31-openai-reportedly-finds-evidence-of-additional-agent-contain
-- 2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped
 embedding_id: 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
 event_name: ''
 ---
@@ -40,5 +40,5 @@ TechCrunch reports on additional alleged OpenAI-linked agent incidents and the l
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe]] · [[2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an]] · [[2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us]] · [[2026-07-31-openai-reportedly-finds-evidence-of-additional-agent-contain]] · [[2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped]]
+**Related:** [[2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm]] · [[2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an]] · [[2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us]]
 <!-- graph:end -->

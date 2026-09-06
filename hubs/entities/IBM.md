@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 153
+member_count: 154
 ---
 
 # IBM
 
-> Auto-generated entity hub. 153 connected article(s).
+> Auto-generated entity hub. 154 connected article(s).
 
+- `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
 - `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
 - `2026-09-03` [[2026-09-03-u-s-government-backs-openai-s-fair-use-position-in-nyt-copyr|U.S. government backs OpenAI's fair-use position in NYT copyright case]]
 - `2026-09-03` [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai|Trending UC Berkeley’s Stuart Russell calls for a halt to AI weapons]]

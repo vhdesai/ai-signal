@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local
 - 2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b
 - 2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive
-- 2026-09-01-perplexity-ships-hybrid-compute-that-keeps-confidential-file
+- 2026-09-05-perplexity-details-the-gpu-serving-stack-behind-pplx-embed
 embedding_id: 2026-08-25-perplexity-ships-portable-computer-on-nvidia-dgx-spark
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Perplexity packaged local models, an agent harness, an OS-enforced sandbox and c
 **Entities:** [[NVIDIA]] · [[Perplexity]]
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-08-25-perplexity-partners-with-nvidia-to-launch-portable-computer]]
-**Related:** [[2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local]] · [[2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b]] · [[2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive]] · [[2026-09-01-perplexity-ships-hybrid-compute-that-keeps-confidential-file]]
+**Related:** [[2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local]] · [[2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b]] · [[2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive]] · [[2026-09-05-perplexity-details-the-gpu-serving-stack-behind-pplx-embed]]
 <!-- graph:end -->

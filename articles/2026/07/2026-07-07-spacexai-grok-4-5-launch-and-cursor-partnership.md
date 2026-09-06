@@ -4,8 +4,8 @@ title: SpaceXAI Grok 4.5 Launch and Cursor Partnership
 date: '2026-07-07'
 source: Multiple sources
 url_original: null
-url_canonical: https://coursiv.io/blog/spacexai
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_074500_Inbox_Daily AI News Digest – July 8,
   2026.md
 content_hash: da7f7d3e47a26e5e9bbc0eb7a73955fd3e9cd8bb133b251c76fd5a40ca81f898

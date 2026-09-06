@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 178
+member_count: 180
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 178 connected article(s).
+> Auto-generated entity hub. 180 connected article(s).
 
+- `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
+- `2026-09-06` [[2026-09-06-ai-investment-figures-reach-a-new-order-of-magnitude|AI Investment Figures Reach a New Order of Magnitude]]
 - `2026-09-04` [[2026-09-04-what-s-new-in-oracle-ai-september-2026-edition|What's New in Oracle AI? September 2026 Edition]]
 - `2026-09-04` [[2026-09-04-securing-data-against-ai-enabled-attacks-how-oracle-protects|Securing data against AI-enabled attacks: How Oracle protects the database estate at the source]]
 - `2026-09-04` [[2026-09-04-oracle-rallies-as-expanded-hpe-networking-deal-boosts-ai-inf|Oracle rallies as expanded HPE networking deal boosts AI infrastructure push]]

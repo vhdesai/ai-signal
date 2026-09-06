@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-06-apple-adds-siri-pace-and-expressivity-controls-in-the-ios-27
 - 2026-05-26-stability-ai-releases-stable-audio-3
 - 2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text
-- 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
+- 2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai
 embedding_id: 2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Apple published research on the memory-efficient audio synthesis architecture be
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-02-apple-s-machine-learning-research-team-published-three-paper]] · [[2026-07-06-apple-adds-siri-pace-and-expressivity-controls-in-the-ios-27]] · [[2026-05-26-stability-ai-releases-stable-audio-3]] · [[2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]]
+**Related:** [[2026-05-02-apple-s-machine-learning-research-team-published-three-paper]] · [[2026-07-06-apple-adds-siri-pace-and-expressivity-controls-in-the-ios-27]] · [[2026-05-26-stability-ai-releases-stable-audio-3]] · [[2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text]] · [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai]]
 <!-- graph:end -->

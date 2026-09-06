@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-03-crusoe-reportedly-raises-3-billion-at-a-30-billion-valuation
 - 2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-13b-jane-street-co
 - 2026-09-03-crusoe-reportedly-raises-3b-at-a-30b-valuation
-- 2026-09-03-crusoe-raises-3b-at-a-30b-valuation-tripling-in-ten-months
+- 2026-09-06-crusoe-raises-3b-at-a-30b-valuation
 embedding_id: 2026-09-03-crusoe-raises-3-billion-at-a-30-billion-valuation-after-jane
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Crusoe reportedly raised $3 billion at a $30 billion valuation after signing a f
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-jane-street-ai-clo]] · [[2026-09-03-crusoe-reportedly-raises-3-billion-at-a-30-billion-valuation]] · [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-13b-jane-street-co]] · [[2026-09-03-crusoe-reportedly-raises-3b-at-a-30b-valuation]] · [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-tripling-in-ten-months]]
+**Related:** [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-jane-street-ai-clo]] · [[2026-09-03-crusoe-reportedly-raises-3-billion-at-a-30-billion-valuation]] · [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-13b-jane-street-co]] · [[2026-09-03-crusoe-reportedly-raises-3b-at-a-30b-valuation]] · [[2026-09-06-crusoe-raises-3b-at-a-30b-valuation]]
 <!-- graph:end -->
