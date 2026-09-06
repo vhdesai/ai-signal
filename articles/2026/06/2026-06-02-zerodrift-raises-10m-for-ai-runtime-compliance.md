@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha
 - 2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast
-- 2026-07-22-openai-s-ai-spending-commitments-approach-750b
+- 2026-09-03-daybreak-for-frontline-defenders-1b-to-protect-essential-ser
 embedding_id: 2026-06-02-zerodrift-raises-10m-for-ai-runtime-compliance
 event_name: ''
 ---
@@ -38,5 +38,5 @@ ZeroDrift raised $10M for an AI compliance service that sits between models and 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-25-stability-ai-maker-of-stable-diffusion-raises-76-million-in]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha]] · [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]]
+**Related:** [[2026-08-25-stability-ai-maker-of-stable-diffusion-raises-76-million-in]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha]] · [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]] · [[2026-09-03-daybreak-for-frontline-defenders-1b-to-protect-essential-ser]]
 <!-- graph:end -->

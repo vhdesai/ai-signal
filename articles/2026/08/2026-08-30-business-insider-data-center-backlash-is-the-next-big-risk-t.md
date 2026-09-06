@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po
+- 2026-09-05-data-center-backlash-becomes-a-midterm-political-issue
 - 2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic
-- 2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re
 embedding_id: 2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Investment professionals say community opposition to data centers — now bipart
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]]
+**Related:** [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-09-05-data-center-backlash-becomes-a-midterm-political-issue]] · [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]]
 <!-- graph:end -->

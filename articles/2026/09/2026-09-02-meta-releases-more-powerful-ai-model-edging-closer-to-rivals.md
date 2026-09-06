@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-04-meta-stock-jumps-after-unveiling-new-ai-coding-model
 - 2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine
 - 2026-05-16-wired-published-a-feature-documenting-meta-s-current-state-r
 - 2026-08-17-business-insider-the-hottest-ai-models-aren-t-the-ones-devel
 - 2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in
-- 2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru
 embedding_id: 2026-09-02-meta-releases-more-powerful-ai-model-edging-closer-to-rivals
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Bloomberg reports that Meta released a more powerful AI model, narrowing distanc
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]] · [[2026-05-16-wired-published-a-feature-documenting-meta-s-current-state-r]] · [[2026-08-17-business-insider-the-hottest-ai-models-aren-t-the-ones-devel]] · [[2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in]] · [[2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru]]
+**Related:** [[2026-09-04-meta-stock-jumps-after-unveiling-new-ai-coding-model]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]] · [[2026-05-16-wired-published-a-feature-documenting-meta-s-current-state-r]] · [[2026-08-17-business-insider-the-hottest-ai-models-aren-t-the-ones-devel]] · [[2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in]]
 <!-- graph:end -->

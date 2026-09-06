@@ -6,7 +6,7 @@ date: '2026-05-27'
 source: Google Cloud / AiThority
 url_original: https://aithority.com/
 url_canonical: https://aithority.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 66099b33d461ed2dc8bbea16a16b4a3829ff8635aee817830e2f3f8f06619083
@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-thales-and-google-cloud-expand-sovereign-cloud-to-germany
 - 2026-08-06-mirendil-signs-100-million-plus-google-cloud-deal-for-self-i
+- 2026-09-04-european-defense-officials-resist-the-eu-s-own-cloud-soverei
 - 2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris
 - 2026-06-04-google-lays-off-cloud-and-cybersecurity-staff-while-doubling
-- 2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl
 embedding_id: 2026-05-27-bulgaria-partners-with-google-cloud-on-national-cybershield
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Bulgaria and Google Cloud announced a "National Cybershield" partnership coverin
 
 **Entities:** [[Google]] · [[Intel]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-27-thales-and-google-cloud-expand-sovereign-cloud-to-germany]] · [[2026-08-06-mirendil-signs-100-million-plus-google-cloud-deal-for-self-i]] · [[2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris]] · [[2026-06-04-google-lays-off-cloud-and-cybersecurity-staff-while-doubling]] · [[2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl]]
+**Related:** [[2026-05-27-thales-and-google-cloud-expand-sovereign-cloud-to-germany]] · [[2026-08-06-mirendil-signs-100-million-plus-google-cloud-deal-for-self-i]] · [[2026-09-04-european-defense-officials-resist-the-eu-s-own-cloud-soverei]] · [[2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris]] · [[2026-06-04-google-lays-off-cloud-and-cybersecurity-staff-while-doubling]]
 <!-- graph:end -->

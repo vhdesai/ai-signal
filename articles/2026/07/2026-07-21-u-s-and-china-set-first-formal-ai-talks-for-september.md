@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-21-u-s-and-china-set-first-official-ai-talks-for-september-bess
+- 2026-09-04-u-s-and-china-prepare-for-mid-september-ai-safety-talks
+- 2026-09-05-u-s-and-china-prepare-mid-september-ai-safety-talks
 - 2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater
-- 2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri
-- 2026-05-17-president-trump-confirmed-he-discussed-possible-ai-safety-gu
 embedding_id: 2026-07-21-u-s-and-china-set-first-formal-ai-talks-for-september
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The U.S. and China are preparing their first formal AI talks, likely before Xi J
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-21-u-s-and-china-set-first-official-ai-talks-for-september-bess]] · [[2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater]] · [[2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri]] · [[2026-05-17-president-trump-confirmed-he-discussed-possible-ai-safety-gu]]
+**Related:** [[2026-07-21-u-s-and-china-set-first-official-ai-talks-for-september-bess]] · [[2026-09-04-u-s-and-china-prepare-for-mid-september-ai-safety-talks]] · [[2026-09-05-u-s-and-china-prepare-mid-september-ai-safety-talks]] · [[2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater]]
 <!-- graph:end -->

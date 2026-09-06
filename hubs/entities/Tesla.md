@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Tesla
-member_count: 42
+member_count: 45
 ---
 
 # Tesla
 
-> Auto-generated entity hub. 42 connected article(s).
+> Auto-generated entity hub. 45 connected article(s).
 
+- `2026-09-04` [[2026-09-04-nhtsa-opens-probe-into-tesla-cybercab-deployment|NHTSA opens probe into Tesla Cybercab deployment]]
+- `2026-09-04` [[2026-09-04-nhtsa-investigates-tesla-s-cybercab-deployment-without-manua|NHTSA investigates Tesla's Cybercab deployment without manual controls]]
+- `2026-09-04` [[2026-09-04-nhtsa-opens-probe-into-tesla-cybercab-hours-after-austin-dep|NHTSA Opens Probe Into Tesla Cybercab Hours After Austin Deployment]]
 - `2026-08-26` [[2026-08-26-the-information-musk-told-cursor-staff-grok-is-falling-behin|The Information: Musk Told Cursor Staff 'Grok Is Falling Behind' in First All-Hands]]
 - `2026-08-24` [[2026-08-24-tesla-sets-september-3-cybercab-launch-event-in-austin|Tesla sets September 3 Cybercab launch event in Austin]]
 - `2026-08-18` [[2026-08-18-wsj-deep-dive-trump-s-privateer-hacking-plan-brings-high-ris|WSJ Deep Dive: Trump's "Privateer" Hacking Plan Brings High Risk to Participating Companies]]

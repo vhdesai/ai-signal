@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise
-- 2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap
-- 2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig
-- 2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic
-- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
+- 2026-09-04-saudi-arabia-s-humain-launches-428b-arabic-model-built-on-ch
+- 2026-09-04-saudi-arabia-s-humain-launches-a-428b-arabic-model-built-on
+- 2026-09-04-saudi-arabia-s-humain-launches-428b-parameter-arabic-model-b
+- 2026-09-04-saudi-arabia-s-humain-launches-arabic-llm-built-on-china-s-m
 embedding_id: 2026-08-26-microsoft-and-humain-to-bring-allam-arabic-models-into-found
 event_name: ''
 ---
@@ -39,5 +39,5 @@ PIF-owned HUMAIN and Microsoft announced a long-term collaboration to make HUMAI
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise]] · [[2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap]] · [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig]] · [[2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]]
+**Related:** [[2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise]] · [[2026-09-04-saudi-arabia-s-humain-launches-428b-arabic-model-built-on-ch]] · [[2026-09-04-saudi-arabia-s-humain-launches-a-428b-arabic-model-built-on]] · [[2026-09-04-saudi-arabia-s-humain-launches-428b-parameter-arabic-model-b]] · [[2026-09-04-saudi-arabia-s-humain-launches-arabic-llm-built-on-china-s-m]]
 <!-- graph:end -->

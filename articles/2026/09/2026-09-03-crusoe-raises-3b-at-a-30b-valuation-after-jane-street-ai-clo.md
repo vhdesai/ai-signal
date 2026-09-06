@@ -3,16 +3,15 @@ article_id: 2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-jane-street-ai-
 title: Crusoe raises $3B at a $30B valuation after Jane Street AI cloud contract
 date: '2026-09-03'
 source: TechCrunch
-url_original: https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/
-url_canonical: https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/
-url_status: ok
-digest_source: digests\raw\2026-09-04_074900_Final-Daily-AI-News-Digest.md
-content_hash: 2e5d0cee47268a371337e853838853fc90027af1f1ece48c390970abd6f8247a
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-09-04_075752_Inbox_Fw Daily AI News Digest – September
+  4, 2026.md
+content_hash: e459d668940bc9e222f20a90824d27b7bc7aaa6987fb5da61af55ade7db86d28
 normalized_title_hash: 6fcd1d411e93271a
-canonical_url_hash: 920440924028e140
-tags:
-- Funding
-- Data centers
+canonical_url_hash: ''
+tags: []
 entities:
 - Meta
 - Microsoft
@@ -20,6 +19,7 @@ entities:
 - Oracle
 themes:
 - datacenter-infrastructure
+- company-storylines
 - company-investments
 - infrastructure-investments
 cross_cutting_topics: []
@@ -32,12 +32,12 @@ event_name: ''
 
 # Crusoe raises $3B at a $30B valuation after Jane Street AI cloud contract
 
-Crusoe reportedly raised $3B at a $30B valuation after signing a five-year, $13B cloud contract to supply Jane Street with GPUs and AI infrastructure. The company has become a major AI cloud and data-center developer serving customers including Meta, Microsoft, OpenAI, and Oracle. The valuation step-up shows AI capacity becoming a capital-markets asset class, with private financing scaling faster than traditional public-market cycles.
+Crusoe reportedly raised $3B at a $30B valuation after signing a five-year, $13B cloud contract to supply Jane Street with GPUs and AI infrastructure. The company has become a major AI cloud and data-center developer serving customers including Meta, Microsoft, OpenAI, and Oracle. The valuation step-up shows AI capacity becoming a capital-markets asset class, with private financing scaling faster than traditional public-market cycles. TechCrunch EXCLUSIVE AI CLOUD
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Meta]] · [[Microsoft]] · [[OpenAI]] · [[Oracle]]
-**Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-09-03-crusoe-raises-3-billion-at-a-30-billion-valuation-after-jane]]
 <!-- graph:end -->

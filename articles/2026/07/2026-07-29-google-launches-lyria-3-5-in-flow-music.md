@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-04-google-brings-lyria-3-5-music-generation-to-gemini-app-and-a
+- 2026-09-04-google-brings-lyria-3-5-music-generation-into-the-gemini-app
+- 2026-09-04-google-brings-lyria-3-5-music-generation-to-the-gemini-app-a
+- 2026-09-04-google-brings-lyria-3-5-music-generation-into-gemini-and-the
 - 2026-04-03-google-upgraded-vids-with-veo-3-1-video-generation-lyria-3-m
-- 2026-06-05-stock-music-watermarks-surface-in-gemini-generated-songs
-- 2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat
-- 2026-05-27-stable-audio-3-0-continues-to-drive-developer-and-rights-hol
 embedding_id: 2026-07-29-google-launches-lyria-3-5-in-flow-music
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Google launched Lyria 3.5 in Flow Music, with improvements in musicality, lyrics
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-03-google-upgraded-vids-with-veo-3-1-video-generation-lyria-3-m]] · [[2026-06-05-stock-music-watermarks-surface-in-gemini-generated-songs]] · [[2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat]] · [[2026-05-27-stable-audio-3-0-continues-to-drive-developer-and-rights-hol]]
+**Related:** [[2026-09-04-google-brings-lyria-3-5-music-generation-to-gemini-app-and-a]] · [[2026-09-04-google-brings-lyria-3-5-music-generation-into-the-gemini-app]] · [[2026-09-04-google-brings-lyria-3-5-music-generation-to-the-gemini-app-a]] · [[2026-09-04-google-brings-lyria-3-5-music-generation-into-gemini-and-the]] · [[2026-04-03-google-upgraded-vids-with-veo-3-1-video-generation-lyria-3-m]]
 <!-- graph:end -->

@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-18-openai-adds-enterprise-usage-analytics-and-spend-controls
 - 2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us
+- 2026-09-04-securing-data-against-ai-enabled-attacks-how-oracle-protects
 - 2026-05-14-openai-discloses-security-incident-code-repository-data-stol
-- 2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio
 embedding_id: 2026-08-20-openai-to-launch-security-analysis-system-with-better-privac
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI is preparing to roll out a system to analyze user interactions without st
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-18-openai-adds-enterprise-usage-analytics-and-spend-controls]] · [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]] · [[2026-05-14-openai-discloses-security-incident-code-repository-data-stol]] · [[2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio]]
+**Related:** [[2026-06-18-openai-adds-enterprise-usage-analytics-and-spend-controls]] · [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]] · [[2026-09-04-securing-data-against-ai-enabled-attacks-how-oracle-protects]] · [[2026-05-14-openai-discloses-security-incident-code-repository-data-stol]]
 <!-- graph:end -->

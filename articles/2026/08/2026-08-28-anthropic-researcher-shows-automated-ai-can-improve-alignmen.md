@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-28-anthropic-s-automated-alignment-researchers-beat-humans-at-4
+- 2026-09-04-anthropic-researcher-offers-a-look-at-automated-alignment-im
 - 2026-08-28-anthropic-researcher-demonstrates-automated-systems-that-imp
 - 2026-08-28-anthropic-reports-automated-researchers-can-mitigate-alignme
-- 2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale
 embedding_id: 2026-08-28-anthropic-researcher-shows-automated-ai-can-improve-alignmen
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic published "Automated Researchers Can Reliably Mitigate Alignment Failu
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-28-anthropic-s-automated-alignment-researchers-beat-humans-at-4]] · [[2026-08-28-anthropic-researcher-demonstrates-automated-systems-that-imp]] · [[2026-08-28-anthropic-reports-automated-researchers-can-mitigate-alignme]] · [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale]]
+**Related:** [[2026-08-28-anthropic-s-automated-alignment-researchers-beat-humans-at-4]] · [[2026-09-04-anthropic-researcher-offers-a-look-at-automated-alignment-im]] · [[2026-08-28-anthropic-researcher-demonstrates-automated-systems-that-imp]] · [[2026-08-28-anthropic-reports-automated-researchers-can-mitigate-alignme]]
 <!-- graph:end -->

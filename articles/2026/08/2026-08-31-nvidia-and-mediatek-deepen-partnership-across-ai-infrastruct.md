@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-08-31-nvidia-invests-3-5b-in-mediatek-deepens-ai-infrastructure-pa
 - 2026-08-31-nvidia-invests-3-5-billion-in-mediatek-and-deepens-its-ai-in
 - 2026-08-31-nvidia-invests-3-5b-in-mediatek-convertible-bonds-deepens-ai
+- 2026-09-03-nvidia-commits-3-5b-to-mediatek-to-extend-nvlink-fusion-into
 - 2026-08-31-nvidia-invests-3-5b-in-mediatek-and-extends-nvlink-fusion-to
-- 2026-09-01-nvidia-invests-3-5b-in-mediatek-and-opens-nvlink-fusion-to-c
 embedding_id: 2026-08-31-nvidia-and-mediatek-deepen-partnership-across-ai-infrastruct
 event_name: ''
 ---
@@ -41,5 +41,5 @@ NVIDIA and MediaTek announced an expanded collaboration spanning custom AI infra
 
 **Entities:** [[NVIDIA]] · [[Scale AI]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-31-nvidia-invests-3-5b-in-mediatek-deepens-ai-infrastructure-pa]] · [[2026-08-31-nvidia-invests-3-5-billion-in-mediatek-and-deepens-its-ai-in]] · [[2026-08-31-nvidia-invests-3-5b-in-mediatek-convertible-bonds-deepens-ai]] · [[2026-08-31-nvidia-invests-3-5b-in-mediatek-and-extends-nvlink-fusion-to]] · [[2026-09-01-nvidia-invests-3-5b-in-mediatek-and-opens-nvlink-fusion-to-c]]
+**Related:** [[2026-08-31-nvidia-invests-3-5b-in-mediatek-deepens-ai-infrastructure-pa]] · [[2026-08-31-nvidia-invests-3-5-billion-in-mediatek-and-deepens-its-ai-in]] · [[2026-08-31-nvidia-invests-3-5b-in-mediatek-convertible-bonds-deepens-ai]] · [[2026-09-03-nvidia-commits-3-5b-to-mediatek-to-extend-nvlink-fusion-into]] · [[2026-08-31-nvidia-invests-3-5b-in-mediatek-and-extends-nvlink-fusion-to]]
 <!-- graph:end -->

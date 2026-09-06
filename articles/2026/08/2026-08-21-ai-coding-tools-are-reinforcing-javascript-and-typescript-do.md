@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
+- 2026-09-04-meta-stock-jumps-after-unveiling-new-ai-coding-model
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 - 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
 - 2026-04-06-researchers-from-princeton-and-ut-austin-documented-a-phenom
-- 2026-07-11-terence-tao-resurrects-two-dozen-1999-math-applets-using-an
 embedding_id: 2026-08-21-ai-coding-tools-are-reinforcing-javascript-and-typescript-do
 event_name: ''
 ---
@@ -36,5 +36,5 @@ AI News argued that coding agents are contributing to the popularity of JavaScri
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]] · [[2026-04-06-researchers-from-princeton-and-ut-austin-documented-a-phenom]] · [[2026-07-11-terence-tao-resurrects-two-dozen-1999-math-applets-using-an]]
+**Related:** [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-09-04-meta-stock-jumps-after-unveiling-new-ai-coding-model]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]] · [[2026-04-06-researchers-from-princeton-and-ut-austin-documented-a-phenom]]
 <!-- graph:end -->

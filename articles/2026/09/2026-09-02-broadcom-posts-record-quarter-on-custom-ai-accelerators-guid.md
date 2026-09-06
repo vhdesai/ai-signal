@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-03-broadcom-s-custom-ai-chip-revenue-surges-221-to-16-7b-q4-gui
 - 2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru
 - 2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai
 - 2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips
@@ -36,5 +37,5 @@ Broadcom reported fiscal Q3 revenue of $29.6 billion, up 86% year over year, wit
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru]] · [[2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai]] · [[2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips]]
+**Related:** [[2026-09-03-broadcom-s-custom-ai-chip-revenue-surges-221-to-16-7b-q4-gui]] · [[2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru]] · [[2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai]] · [[2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips]]
 <!-- graph:end -->

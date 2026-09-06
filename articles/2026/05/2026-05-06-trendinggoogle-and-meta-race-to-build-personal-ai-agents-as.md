@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 - 2026-08-24-meta-plans-to-launch-ai-agent-platform-hatch-in-coming-weeks
 - 2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst
+- 2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr
 - 2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti
-- 2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1
 embedding_id: 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google and Meta are both internally testing dedicated personal AI agents—coden
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-08-24-meta-plans-to-launch-ai-agent-platform-hatch-in-coming-weeks]] · [[2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst]] · [[2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti]] · [[2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1]]
+**Related:** [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-08-24-meta-plans-to-launch-ai-agent-platform-hatch-in-coming-weeks]] · [[2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst]] · [[2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr]] · [[2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti]]
 <!-- graph:end -->

@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of
 - 2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value
 - 2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi
+- 2026-09-04-nvidia-s-investments-grow-to-99-billion-as-chip-giant-become
 embedding_id: 2026-05-28-nvidia-plans-new-taiwan-hq-and-100-150b-annual-taiwan-invest
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Nvidia CEO Jensen Huang on May 27 announced plans for a new Taiwan headquarters 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of]] · [[2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value]] · [[2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi]]
+**Related:** [[2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of]] · [[2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value]] · [[2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi]] · [[2026-09-04-nvidia-s-investments-grow-to-99-billion-as-chip-giant-become]]
 <!-- graph:end -->

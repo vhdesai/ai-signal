@@ -1,15 +1,21 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 178
+member_count: 184
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 178 connected article(s).
+> Auto-generated entity hub. 184 connected article(s).
 
+- `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
+- `2026-09-03` [[2026-09-03-u-s-government-backs-openai-s-fair-use-position-in-nyt-copyr|U.S. government backs OpenAI's fair-use position in NYT copyright case]]
+- `2026-09-03` [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai|Trending UC Berkeley’s Stuart Russell calls for a halt to AI weapons]]
+- `2026-09-03` [[2026-09-03-trending-moonshot-ai-confidentially-files-for-hong-kong-ipo|Trending Moonshot AI confidentially files for Hong Kong IPO at roughly $50B]]
 - `2026-09-03` [[2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on|Tencent releases Hy4 preview, an open-weight model trained on its own user data]]
 - `2026-09-03` [[2026-09-03-new-tencent-s-hy4-open-weight-preview-lands-8th-on-code-aren|New Tencent's Hy4 open-weight preview lands 8th on Code Arena WebDev]]
+- `2026-09-03` [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va|Moonshot AI Files Confidentially for Hong Kong IPO at ~$50B Valuation]]
+- `2026-09-03` [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-roughl|Moonshot AI Files Confidentially for Hong Kong IPO at Roughly $50B Valuation]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-02` [[2026-09-02-tencent-backed-enflame-s-ipo-draws-4-073-times-retail-demand|Tencent-backed Enflame’s IPO draws 4,073 times retail demand]]
 - `2026-09-02` [[2026-09-02-tencent-backed-enflame-draws-6-000x-retail-oversubscription|Tencent-Backed Enflame Draws 6,000x Retail Oversubscription in $910M Shanghai IPO]]

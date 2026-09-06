@@ -20,9 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
 - 2026-08-24-openai-pushes-agents-deeper-into-the-desktop-raising-the-con
 - 2026-07-25-openai-s-ai-keypad-points-to-specialized-agent-control-hardw
-- 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
+- 2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an
 embedding_id: 2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us
 event_name: ''
 ---
@@ -36,5 +37,5 @@ TechCrunch examined OpenAI's push to embed agents across its desktop app and pro
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-24-openai-pushes-agents-deeper-into-the-desktop-raising-the-con]] · [[2026-07-25-openai-s-ai-keypad-points-to-specialized-agent-control-hardw]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]]
+**Related:** [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-08-24-openai-pushes-agents-deeper-into-the-desktop-raising-the-con]] · [[2026-07-25-openai-s-ai-keypad-points-to-specialized-agent-control-hardw]] · [[2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: xAI sued over "mobile" gas turbines at Mississippi data center — TechCr
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techjournal.org/spacex-xai-merger
+url_status: repaired
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 7bac3fe1d6e8404d34238873ebcc4f2db19b03b1052c4d578d5eb1413b13811e

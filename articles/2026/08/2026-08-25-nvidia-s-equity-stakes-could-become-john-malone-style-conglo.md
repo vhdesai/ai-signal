@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-25-nvidia-s-equity-stakes-in-ai-companies-could-become-john-mal
+- 2026-09-04-nvidia-s-equity-portfolio-reaches-99-billion-as-it-becomes-a
 - 2026-08-18-nvidia-s-ai-moat-is-shifting-from-chips-to-capital
 - 2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba
 - 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
-- 2026-08-28-executive-analysis-why-nvidia-backs-and-buys-ai-startups
 embedding_id: 2026-08-25-nvidia-s-equity-stakes-could-become-john-malone-style-conglo
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Information argues Nvidia's accumulating AI equity stakes could become usefu
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-25-nvidia-s-equity-stakes-in-ai-companies-could-become-john-mal]] · [[2026-08-18-nvidia-s-ai-moat-is-shifting-from-chips-to-capital]] · [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-08-28-executive-analysis-why-nvidia-backs-and-buys-ai-startups]]
+**Related:** [[2026-08-25-nvidia-s-equity-stakes-in-ai-companies-could-become-john-mal]] · [[2026-09-04-nvidia-s-equity-portfolio-reaches-99-billion-as-it-becomes-a]] · [[2026-08-18-nvidia-s-ai-moat-is-shifting-from-chips-to-capital]] · [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]]
 <!-- graph:end -->

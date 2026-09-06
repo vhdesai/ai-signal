@@ -5,8 +5,8 @@ title: OpenAI's developer account teased a hardware product—reportedly a Codex
 date: '2026-06-30'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theaicronicle.com/en/news/tools/openai-hardware-codex-work-louder
+url_status: repaired
 digest_source: digests\raw\2026-06-30_060551_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: bdbb0edc5343590b59d2af81295553428eba8fc6077ca7d4aa15d51bb4553923

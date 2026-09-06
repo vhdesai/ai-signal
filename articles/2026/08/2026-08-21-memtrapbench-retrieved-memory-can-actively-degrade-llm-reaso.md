@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio
 - 2026-07-06-princeton-privileged-self-distillation-can-degrade-reasoning
+- 2026-09-04-september-4-2026-nvidia-developer-blog
 - 2026-07-26-abbel-belief-state-memory-for-llm-agents
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
 embedding_id: 2026-08-21-memtrapbench-retrieved-memory-can-actively-degrade-llm-reaso
@@ -36,5 +37,5 @@ This benchmark of cognitive traps in LLM memory use finds that faithfully retrie
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio]] · [[2026-07-06-princeton-privileged-self-distillation-can-degrade-reasoning]] · [[2026-07-26-abbel-belief-state-memory-for-llm-agents]] · [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]]
+**Related:** [[2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio]] · [[2026-07-06-princeton-privileged-self-distillation-can-degrade-reasoning]] · [[2026-09-04-september-4-2026-nvidia-developer-blog]] · [[2026-07-26-abbel-belief-state-memory-for-llm-agents]] · [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]]
 <!-- graph:end -->

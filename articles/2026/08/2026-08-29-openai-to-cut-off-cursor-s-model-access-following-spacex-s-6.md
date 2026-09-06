@@ -27,8 +27,7 @@ related_article_ids:
 - 2026-08-29-openai-to-terminate-cursor-s-model-access-after-spacex-s-60b
 - 2026-08-31-openai-moves-to-cut-cursor-s-access-to-its-models-following
 - 2026-08-28-openai-moves-to-cut-cursor-off-from-its-models-after-spacex
-- 2026-08-31-openai-cuts-off-cursor-after-spacex-s-60b-takeover
-- 2026-08-29-openai-to-cut-off-model-access-for-spacex-owned-cursor
+- 2026-09-05-openai-will-reportedly-cut-off-models-for-spacex-owned-curso
 embedding_id: 2026-08-29-openai-to-cut-off-cursor-s-model-access-following-spacex-s-6
 event_name: ''
 ---
@@ -42,5 +41,5 @@ OpenAI notified SpaceX that it will wind down the contract supplying its models 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-08-29-openai-to-terminate-cursor-s-model-access-after-spacex-acqui]] · [[2026-08-29-openai-to-terminate-cursor-s-model-access-after-spacex-s-60b]] · [[2026-08-31-openai-moves-to-cut-cursor-s-access-to-its-models-following]] · [[2026-08-28-openai-moves-to-cut-cursor-off-from-its-models-after-spacex]] · [[2026-08-31-openai-cuts-off-cursor-after-spacex-s-60b-takeover]] · [[2026-08-29-openai-to-cut-off-model-access-for-spacex-owned-cursor]]
+**Related:** [[2026-08-29-openai-to-terminate-cursor-s-model-access-after-spacex-acqui]] · [[2026-08-29-openai-to-terminate-cursor-s-model-access-after-spacex-s-60b]] · [[2026-08-31-openai-moves-to-cut-cursor-s-access-to-its-models-following]] · [[2026-08-28-openai-moves-to-cut-cursor-off-from-its-models-after-spacex]] · [[2026-09-05-openai-will-reportedly-cut-off-models-for-spacex-owned-curso]]
 <!-- graph:end -->

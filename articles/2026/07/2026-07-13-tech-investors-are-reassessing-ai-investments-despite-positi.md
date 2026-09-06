@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-30-big-tech-profits-get-160b-boost-from-gains-on-stakes-in-othe
 - 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
 - 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
-- 2026-08-27-revenue-booms-at-cognition-and-other-ai-apps-but-compute-cos
+- 2026-09-04-for-all-their-talk-about-ai-few-companies-are-quantifying-ga
 embedding_id: 2026-07-13-tech-investors-are-reassessing-ai-investments-despite-positi
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Tech investors are reassessing AI investments despite positive long-term outlook
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-03-this-earnings-cycle-reinforces-that-markets-are-no-longer-re]] · [[2026-08-30-big-tech-profits-get-160b-boost-from-gains-on-stakes-in-othe]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-08-27-revenue-booms-at-cognition-and-other-ai-apps-but-compute-cos]]
+**Related:** [[2026-08-03-this-earnings-cycle-reinforces-that-markets-are-no-longer-re]] · [[2026-08-30-big-tech-profits-get-160b-boost-from-gains-on-stakes-in-othe]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-09-04-for-all-their-talk-about-ai-few-companies-are-quantifying-ga]]
 <!-- graph:end -->

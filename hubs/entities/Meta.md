@@ -1,17 +1,34 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 641
+member_count: 658
 ---
 
 # Meta
 
-> Auto-generated entity hub. 641 connected article(s).
+> Auto-generated entity hub. 658 connected article(s).
 
+- `2026-09-04` [[2026-09-04-meta-stock-jumps-after-unveiling-new-ai-coding-model|Meta stock jumps after unveiling new AI coding model]]
+- `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
+- `2026-09-03` [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai|Trending UC Berkeley’s Stuart Russell calls for a halt to AI weapons]]
 - `2026-09-03` [[2026-09-03-sanders-and-casar-propose-a-u-s-ban-on-artificial-superintel|Sanders and Casar Propose a U.S. Ban on 'Artificial Superintelligence']]
+- `2026-09-03` [[2026-09-03-nvidia-commits-3-5b-to-mediatek-to-extend-nvlink-fusion-into|Nvidia Commits $3.5B to MediaTek to Extend NVLink Fusion Into Custom Silicon]]
+- `2026-09-03` [[2026-09-03-new-meta-ships-muse-spark-1-3-but-its-best-results-come-from|New Meta ships Muse Spark 1.3, but its best results come from a config developers can’t use yet]]
+- `2026-09-03` [[2026-09-03-meta-works-on-action-gates-and-credential-isolation-before-h|Meta works on action gates and credential isolation before Hatch launches]]
+- `2026-09-03` [[2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr|Meta tests safeguards to keep its upcoming Hatch AI agent from going rogue]]
 - `2026-09-03` [[2026-09-03-meta-ships-muse-spark-1-3-as-agent-economics-move-to-the-for|Meta ships Muse Spark 1.3 as agent economics move to the foreground]]
+- `2026-09-03` [[2026-09-03-meta-offers-95-token-discounts-to-users-who-share-muse-spark|Meta offers ~95% token discounts to users who share Muse Spark usage data]]
+- `2026-09-03` [[2026-09-03-meta-releases-muse-spark-1-3-as-agent-inference-economics-ti|Meta Releases Muse Spark 1.3 as Agent Inference Economics Tighten]]
+- `2026-09-03` [[2026-09-03-meta-releases-muse-spark-1-3-with-20-fewer-tool-calls-and-25|Meta Releases Muse Spark 1.3 With ~20% Fewer Tool Calls and ~25% Fewer Tokens]]
 - `2026-09-03` [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private|Mark Zuckerberg opposed a national AI regulator in a private call with Trump]]
+- `2026-09-03` [[2026-09-03-justice-department-backs-openai-and-microsoft-s-fair-use-def|Justice Department Backs OpenAI and Microsoft's Fair-Use Defense in Publisher Litigation]]
+- `2026-09-03` [[2026-09-03-g20-endorses-us-backed-carolina-principles-for-sector-based|G20 Endorses US-Backed "Carolina Principles" for Sector-Based AI Rules]]
+- `2026-09-03` [[2026-09-03-equinix-nvidia-and-together-ai-launch-a-distributed-inferenc|Equinix, Nvidia and Together AI Launch a Distributed Inference Exchange]]
+- `2026-09-03` [[2026-09-03-crusoe-reportedly-raises-3b-at-a-30b-valuation|Crusoe reportedly raises $3B at a $30B valuation]]
+- `2026-09-03` [[2026-09-03-crusoe-reportedly-raises-3-billion-at-a-30-billion-valuation|Crusoe reportedly raises $3 billion at a $30 billion valuation]]
+- `2026-09-03` [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-tripling-in-ten-months|Crusoe raises $3B at a $30B valuation, tripling in ten months]]
 - `2026-09-03` [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-jane-street-ai-clo|Crusoe raises $3B at a $30B valuation after Jane Street AI cloud contract]]
+- `2026-09-03` [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-13b-jane-street-co|Crusoe Raises $3B at a $30B Valuation After $13B Jane Street Contract]]
 - `2026-09-03` [[2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai|Broadcom projects AI chip revenue to double in 2027 and again in 2028]]
 - `2026-09-03` [[2026-09-03-amazon-and-meta-ai-bots-account-for-most-website-visits|Amazon and Meta AI bots account for most website visits]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]

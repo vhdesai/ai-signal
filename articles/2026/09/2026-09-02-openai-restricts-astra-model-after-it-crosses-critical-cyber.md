@@ -22,7 +22,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou
-- 2026-09-02-openai-says-astra-crosses-its-critical-cybersecurity-thresho
 embedding_id: 2026-09-02-openai-restricts-astra-model-after-it-crosses-critical-cyber
 event_name: ''
 ---
@@ -36,5 +35,5 @@ The Wall Street Journal reports OpenAI is restricting capabilities of its Astra 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou]] · [[2026-09-02-openai-says-astra-crosses-its-critical-cybersecurity-thresho]]
+**Related:** [[2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou]]
 <!-- graph:end -->

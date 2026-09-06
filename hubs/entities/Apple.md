@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 385
+member_count: 388
 ---
 
 # Apple
 
-> Auto-generated entity hub. 385 connected article(s).
+> Auto-generated entity hub. 388 connected article(s).
 
+- `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
+- `2026-09-04` [[2026-09-04-john-ternus-takes-the-helm-at-apple-as-ai-pressure-builds|John Ternus takes the helm at Apple as AI pressure builds]]
+- `2026-09-03` [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai|Trending UC Berkeley’s Stuart Russell calls for a halt to AI weapons]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-02` [[2026-09-02-refactor-vla-unsupervised-library-learning-of-typed-motor-pr|REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs]]
 - `2026-09-02` [[2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive|Perplexity adds hybrid compute so agents can keep sensitive steps on local Macs]]

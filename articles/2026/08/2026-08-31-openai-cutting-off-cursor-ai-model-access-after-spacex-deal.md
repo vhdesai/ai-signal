@@ -22,8 +22,8 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-openai-cuts-off-cursor-after-spacex-s-takeover-of-anysphere
 related_article_ids:
+- 2026-09-05-openai-will-reportedly-cut-off-models-for-spacex-owned-curso
 - 2026-08-28-openai-moves-to-cut-cursor-off-from-its-models-after-spacex
-- 2026-08-31-openai-moves-to-cut-cursor-s-access-to-its-models-following
 embedding_id: 2026-08-31-openai-cutting-off-cursor-ai-model-access-after-spacex-deal
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Quartz reports that OpenAI is cutting off Cursor’s access to its models follow
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-31-openai-cuts-off-cursor-after-spacex-s-takeover-of-anysphere]]
-**Related:** [[2026-08-28-openai-moves-to-cut-cursor-off-from-its-models-after-spacex]] · [[2026-08-31-openai-moves-to-cut-cursor-s-access-to-its-models-following]]
+**Related:** [[2026-09-05-openai-will-reportedly-cut-off-models-for-spacex-owned-curso]] · [[2026-08-28-openai-moves-to-cut-cursor-off-from-its-models-after-spacex]]
 <!-- graph:end -->

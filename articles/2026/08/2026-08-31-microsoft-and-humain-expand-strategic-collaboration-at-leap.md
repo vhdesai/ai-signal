@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise
 - 2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig
+- 2026-09-04-saudi-arabia-s-humain-unveils-humain-m3-a-428b-arabic-model
 - 2026-08-26-microsoft-and-humain-to-bring-allam-arabic-models-into-found
 - 2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic
-- 2026-08-26-oracle-brings-sovereign-ai-and-cloud-offerings-to-leap-2026
 embedding_id: 2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft and Saudi state-owned AI firm HUMAIN announced an expanded strategic c
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise]] · [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig]] · [[2026-08-26-microsoft-and-humain-to-bring-allam-arabic-models-into-found]] · [[2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic]] · [[2026-08-26-oracle-brings-sovereign-ai-and-cloud-offerings-to-leap-2026]]
+**Related:** [[2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise]] · [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig]] · [[2026-09-04-saudi-arabia-s-humain-unveils-humain-m3-a-428b-arabic-model]] · [[2026-08-26-microsoft-and-humain-to-bring-allam-arabic-models-into-found]] · [[2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic]]
 <!-- graph:end -->

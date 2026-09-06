@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
+- 2026-09-05-pitchbook-factory-robotics-still-needs-more-than-smarter-fou
 - 2026-05-20-scaling-laws-for-embodied-ai
-- 2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil
 embedding_id: 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 event_name: ''
 ---
@@ -35,5 +35,5 @@ TechCrunch reports that Encord is testing brain-wave-tagged robotics training da
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-05-20-scaling-laws-for-embodied-ai]] · [[2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil]]
+**Related:** [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-09-05-pitchbook-factory-robotics-still-needs-more-than-smarter-fou]] · [[2026-05-20-scaling-laws-for-embodied-ai]]
 <!-- graph:end -->

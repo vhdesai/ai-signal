@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-google-unveils-gemini-omni-and-new-consumer-agent-features
+- 2026-09-04-google-ships-agentic-video-understanding-for-gemini-flash-up
 - 2026-08-26-gemini-live-gains-agentic-spark-tasks-daily-brief-and-voice
 - 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
 embedding_id: 2026-09-01-google-introduces-agentic-video-understanding-for-gemini
@@ -37,5 +38,5 @@ Google moved Gemini from passive video description to agentic video understandin
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-google-unveils-gemini-omni-and-new-consumer-agent-features]] · [[2026-08-26-gemini-live-gains-agentic-spark-tasks-daily-brief-and-voice]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]]
+**Related:** [[2026-05-20-google-unveils-gemini-omni-and-new-consumer-agent-features]] · [[2026-09-04-google-ships-agentic-video-understanding-for-gemini-flash-up]] · [[2026-08-26-gemini-live-gains-agentic-spark-tasks-daily-brief-and-voice]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]]
 <!-- graph:end -->

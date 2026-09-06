@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-08-02-data-center-costs-set-to-rise-as-u-s-states-move-to-repeal-t
 - 2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po
 - 2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d
+- 2026-09-05-data-center-backlash-becomes-a-midterm-political-issue
 - 2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t
-- 2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi
 embedding_id: 2026-08-03-states-reconsidering-data-center-tax-incentives-adds-a-new-a
 event_name: ''
 ---
@@ -36,5 +36,5 @@ States reconsidering data-center tax incentives adds a new and increasingly poli
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-02-data-center-costs-set-to-rise-as-u-s-states-move-to-repeal-t]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t]] · [[2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi]]
+**Related:** [[2026-08-02-data-center-costs-set-to-rise-as-u-s-states-move-to-repeal-t]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-09-05-data-center-backlash-becomes-a-midterm-political-issue]] · [[2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t]]
 <!-- graph:end -->

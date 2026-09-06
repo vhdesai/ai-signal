@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-23-meta-signs-multi-billion-dollar-chip-agreement-with-aws-on-g
 - 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
+- 2026-09-03-snowflake-lifts-fy27-product-revenue-outlook-to-6-07b-as-ai
 - 2026-07-28-aws-signs-a-410m-compute-deal-with-recursive-superintelligen
 - 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
-- 2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp
 embedding_id: 2026-05-27-snowflake-signs-6b-five-year-deal-with-aws-for-graviton-gpu
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Snowflake committed $6B in multi-year spend on AWS — its largest infrastructur
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]] · [[Snowflake]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-04-23-meta-signs-multi-billion-dollar-chip-agreement-with-aws-on-g]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-07-28-aws-signs-a-410m-compute-deal-with-recursive-superintelligen]] · [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp]]
+**Related:** [[2026-04-23-meta-signs-multi-billion-dollar-chip-agreement-with-aws-on-g]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-09-03-snowflake-lifts-fy27-product-revenue-outlook-to-6-07b-as-ai]] · [[2026-07-28-aws-signs-a-410m-compute-deal-with-recursive-superintelligen]] · [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]]
 <!-- graph:end -->

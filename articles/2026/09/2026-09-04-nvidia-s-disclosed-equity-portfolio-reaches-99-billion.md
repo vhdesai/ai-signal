@@ -6,37 +6,33 @@ source: CNBC / The Information
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-09-04_065752_Final-Daily-AI-News-Digest.md
-content_hash: 51ad94235062cf825cce662ee9b5d1760495e49455aded3cb4d4ca782550bb25
+digest_source: digests\raw\2026-09-04_070146_Inbox_Daily AI News Digest – September
+  4, 2026.md
+content_hash: 3a9edf7678dfcef0c81493882823e5b260cff0a857d822c1e7a3a14dbe949223
 normalized_title_hash: 673f0f17be40bdd2
 canonical_url_hash: ''
-tags:
-- Capital
-- Ecosystem
+tags: []
 entities:
 - NVIDIA
 themes:
 - company-storylines
-cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99b
-- 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
-- 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
-- 2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c
+cross_cutting_topics:
+- china-compete
+dedupe_status: duplicate
+canonical_article_id: 2026-09-04-nvidia-s-99b-equity-portfolio-turns-supplier-exposure-into-c
+related_article_ids: []
 embedding_id: 2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99-billion
 event_name: ''
 ---
 
 # Nvidia's disclosed equity portfolio reaches $99 billion
 
-CNBC reported that Nvidia's equity investments have risen to $99 billion, up from roughly $7 billion a year earlier, as the company finances companies across the AI stack. The Information's briefing framed the same trend as Nvidia becoming an AI kingmaker through stakes in neoclouds, labs, hardware makers, and data-center companies. Nvidia is increasingly both supplier and capital partner to the ecosystem it sells into. URL: CNBC
+CNBC reported that Nvidia's equity investments have risen to $99 billion, up from roughly $7 billion a year earlier, as the company finances companies across the AI stack. The Information's briefing framed the same trend as Nvidia becoming an AI kingmaker through stakes in neoclouds, labs, hardware makers, and data-center companies. Nvidia is increasingly both supplier and capital partner to the ecosystem it sells into. CNBC IPOCHINA
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99b]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Canonical:** [[2026-09-04-nvidia-s-99b-equity-portfolio-turns-supplier-exposure-into-c]]
 <!-- graph:end -->

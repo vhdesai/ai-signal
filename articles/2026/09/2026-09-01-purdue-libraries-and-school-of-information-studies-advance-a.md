@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 - 2026-05-13-conference-proceedings-published-through-springer-today-high
 - 2026-05-20-purdue-s-anvil-supercomputer-upgraded-with-nsf-nairr-ai-data
-- 2026-09-01-princeton-expands-institutional-support-for-ai-and-data-scie
+- 2026-09-04-cornell-and-bti-use-neuro-symbolic-ai-to-map-small-molecule
 embedding_id: 2026-09-01-purdue-libraries-and-school-of-information-studies-advance-a
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Purdue detailed a portfolio of IMLS-funded projects totaling more than $818,000,
 
 **Entities:** [[Amazon]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-26-purdue-ece-leads-4-8m-nsf-project-for-ai-powered-disaster-re]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-13-conference-proceedings-published-through-springer-today-high]] · [[2026-05-20-purdue-s-anvil-supercomputer-upgraded-with-nsf-nairr-ai-data]] · [[2026-09-01-princeton-expands-institutional-support-for-ai-and-data-scie]]
+**Related:** [[2026-08-26-purdue-ece-leads-4-8m-nsf-project-for-ai-powered-disaster-re]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-13-conference-proceedings-published-through-springer-today-high]] · [[2026-05-20-purdue-s-anvil-supercomputer-upgraded-with-nsf-nairr-ai-data]] · [[2026-09-04-cornell-and-bti-use-neuro-symbolic-ai-to-map-small-molecule]]
 <!-- graph:end -->

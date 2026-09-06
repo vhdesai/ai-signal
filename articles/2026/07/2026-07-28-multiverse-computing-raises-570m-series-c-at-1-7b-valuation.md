@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio
+- 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
 - 2026-08-25-multiverse-computing-reports-4-bit-compressed-model-matching
-- 2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation
 embedding_id: 2026-07-28-multiverse-computing-raises-570m-series-c-at-1-7b-valuation
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Spain's Multiverse Computing raised a $570M Series C — co-led by Forgepoint Ca
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio]] · [[2026-08-25-multiverse-computing-reports-4-bit-compressed-model-matching]] · [[2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation]]
+**Related:** [[2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio]] · [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]] · [[2026-08-25-multiverse-computing-reports-4-bit-compressed-model-matching]]
 <!-- graph:end -->

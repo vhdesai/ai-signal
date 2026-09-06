@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Arm
-member_count: 28
+member_count: 29
 ---
 
 # Arm
 
-> Auto-generated entity hub. 28 connected article(s).
+> Auto-generated entity hub. 29 connected article(s).
 
+- `2026-09-04` [[2026-09-04-gimlet-labs-raises-300m-series-b-at-a-3b-valuation-for-multi|Gimlet Labs Raises $300M Series B at a $3B Valuation for Multi-Silicon Inference]]
 - `2026-08-17` [[2026-08-17-big-tech-s-3-trillion-ai-spending-is-higher-than-reported|Big Tech's $3 Trillion AI Spending Is Higher Than Reported]]
 - `2026-08-17` [[2026-08-17-arm-cfo-eyes-acquisitions-as-ai-chip-revenue-soars-supply-co|Arm CFO Eyes Acquisitions as AI Chip Revenue Soars, Supply Constrained]]
 - `2026-08-16` [[2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare|Patients and Clinicians Increasingly Use AI to Identify Rare Diseases]]

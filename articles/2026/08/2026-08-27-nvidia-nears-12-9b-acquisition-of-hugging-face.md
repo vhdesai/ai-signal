@@ -20,7 +20,7 @@ themes:
 - ma-activity
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b
+canonical_article_id: 2026-08-27-nvidia-closes-in-on-12-9b-hugging-face-acquisition
 related_article_ids: []
 embedding_id: 2026-08-27-nvidia-nears-12-9b-acquisition-of-hugging-face
 event_name: ''
@@ -35,5 +35,5 @@ Nvidia has reportedly agreed to acquire Hugging Face for approximately $12.9 bil
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Canonical:** [[2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b]]
+**Canonical:** [[2026-08-27-nvidia-closes-in-on-12-9b-hugging-face-acquisition]]
 <!-- graph:end -->

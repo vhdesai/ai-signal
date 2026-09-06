@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-27-openai-s-hugging-face-breach-reignites-alignment-and-control
+- 2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe
 embedding_id: 2026-08-03-hugging-face-s-decision-to-take-the-dispute-to-mainstream-te
 event_name: ''
 ---
@@ -32,5 +32,5 @@ Hugging Face’s decision to take the dispute to mainstream television signals t
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-27-openai-s-hugging-face-breach-reignites-alignment-and-control]]
+**Related:** [[2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
 - 2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl
 - 2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us
+- 2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an
 - 2026-07-15-openai-s-codex-now-encrypts-instructions-between-ai-agents
-- 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
 embedding_id: 2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred
 event_name: ''
 ---
@@ -37,5 +37,5 @@ SecurityWeek reported that 1Password and OpenAI are working together to prevent 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us]] · [[2026-07-15-openai-s-codex-now-encrypts-instructions-between-ai-agents]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]]
+**Related:** [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us]] · [[2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an]] · [[2026-07-15-openai-s-codex-now-encrypts-instructions-between-ai-agents]]
 <!-- graph:end -->

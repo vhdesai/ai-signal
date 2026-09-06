@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-19-spacex-reportedly-tried-to-acquire-cognition-ceo-denies-says
+- 2026-09-05-openai-will-reportedly-cut-off-models-for-spacex-owned-curso
 - 2026-08-29-openai-will-reportedly-cut-off-models-for-spacex-owned-curso
 - 2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o
 - 2026-08-24-cursor-officially-enters-its-musk-era-after-60b-spacex-acqui
-- 2026-08-05-spacex-falls-13-as-ai-capital-spending-rises-sixfold
 embedding_id: 2026-07-01-spacex-reportedly-showed-investors-a-handset-like-ai-device
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Per a Wall Street Journal report relayed by TechCrunch, SpaceX showed investors 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-19-spacex-reportedly-tried-to-acquire-cognition-ceo-denies-says]] · [[2026-08-29-openai-will-reportedly-cut-off-models-for-spacex-owned-curso]] · [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]] · [[2026-08-24-cursor-officially-enters-its-musk-era-after-60b-spacex-acqui]] · [[2026-08-05-spacex-falls-13-as-ai-capital-spending-rises-sixfold]]
+**Related:** [[2026-08-19-spacex-reportedly-tried-to-acquire-cognition-ceo-denies-says]] · [[2026-09-05-openai-will-reportedly-cut-off-models-for-spacex-owned-curso]] · [[2026-08-29-openai-will-reportedly-cut-off-models-for-spacex-owned-curso]] · [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]] · [[2026-08-24-cursor-officially-enters-its-musk-era-after-60b-spacex-acqui]]
 <!-- graph:end -->

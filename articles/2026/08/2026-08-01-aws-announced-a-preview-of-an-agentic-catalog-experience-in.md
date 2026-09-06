@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick
+- 2026-09-04-aws-details-lifecycle-policies-for-long-running-agent-memory
 - 2026-08-03-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
 - 2026-08-04-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we
-- 2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil
 embedding_id: 2026-08-01-aws-announced-a-preview-of-an-agentic-catalog-experience-in
 event_name: ''
 ---
@@ -37,5 +37,5 @@ AWS announced a preview of an agentic catalog experience in Amazon Quick, enabli
 ## Connections
 
 **Entities:** [[Amazon]] · [[Databricks]]
-**Related:** [[2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick]] · [[2026-08-03-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-08-04-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we]] · [[2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil]]
+**Related:** [[2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick]] · [[2026-09-04-aws-details-lifecycle-policies-for-long-running-agent-memory]] · [[2026-08-03-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-08-04-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we]]
 <!-- graph:end -->

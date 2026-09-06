@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-08-17-higgsfield-raises-400m-series-b-at-a-5-4b-valuation
 - 2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu
 - 2026-06-19-approximately-6-billion-flowed-into-embodied-ai-world-model
+- 2026-09-03-crusoe-raises-3b-at-a-30b-valuation-tripling-in-ten-months
 embedding_id: 2026-04-16-at-semafor-s-world-economy-summit-runway-ceo-crist-bal-valen
 event_name: ''
 ---
@@ -35,5 +36,5 @@ At Semafor's World Economy Summit, Runway CEO Cristóbal Valenzuela proposed tha
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-08-17-higgsfield-raises-400m-series-b-at-a-5-4b-valuation]] · [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]] · [[2026-06-19-approximately-6-billion-flowed-into-embodied-ai-world-model]]
+**Related:** [[2026-08-17-higgsfield-raises-400m-series-b-at-a-5-4b-valuation]] · [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]] · [[2026-06-19-approximately-6-billion-flowed-into-embodied-ai-world-model]] · [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-tripling-in-ten-months]]
 <!-- graph:end -->

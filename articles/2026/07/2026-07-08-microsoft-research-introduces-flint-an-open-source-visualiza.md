@@ -5,8 +5,8 @@ title: Microsoft Research Introduces Flint, an Open-Source Visualization Languag
 date: '2026-07-08'
 source: Microsoft Research Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://careers.microsoft.com/professionals/us/en/l-seattlearea
+url_status: repaired
 digest_source: digests\raw\2026-07-09_083415_Inbox_Fw Daily AI News Digest - July
   9, 2026.md
 content_hash: 93f52a5af6c0f8fad231d60c2f31c9a915b2cf163046681e97e1f0f884bebf58

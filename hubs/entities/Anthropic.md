@@ -1,20 +1,45 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 1777
+member_count: 1805
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 1777 connected article(s).
+> Auto-generated entity hub. 1805 connected article(s).
 
+- `2026-09-04` [[2026-09-04-nscale-seeks-about-3-5-billion-in-pre-ipo-financing|Nscale seeks about $3.5 billion in pre-IPO financing]]
+- `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-on-the-back-of-a-45b|Nscale seeks $3.5B in pre-IPO financing on the back of a $45B Anthropic deal]]
+- `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-anthropic-compu|Nscale seeks $3.5B in pre-IPO financing after Anthropic compute deal]]
+- `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-45b-anthropic-d|Nscale Seeks $3.5B in Pre-IPO Financing After $45B Anthropic Deal]]
+- `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
+- `2026-09-04` [[2026-09-04-daily-ai-news-digest-september-5-2026|Daily AI News Digest – September 5, 2026]]
+- `2026-09-04` [[2026-09-04-brazil-s-picpay-deploys-claude-for-customer-banking-inquirie|Brazil’s PicPay deploys Claude for customer banking inquiries]]
+- `2026-09-04` [[2026-09-04-anthropic-s-claude-produces-first-computer-checked-proof-of|Anthropic's Claude produces first computer-checked proof of Fermat's Last Theorem]]
+- `2026-09-04` [[2026-09-04-anthropic-says-claude-formalized-fermat-s-last-theorem-in-le|Anthropic says Claude formalized Fermat's Last Theorem in Lean]]
+- `2026-09-04` [[2026-09-04-anthropic-researcher-offers-a-look-at-automated-alignment-im|Anthropic researcher offers a look at automated alignment improvement]]
+- `2026-09-04` [[2026-09-04-anthropic-reports-full-lean-formalization-of-fermat-s-last-t|Anthropic reports full Lean formalization of Fermat's Last Theorem by collaborating Claude agents]]
+- `2026-09-04` [[2026-09-04-anthropic-reports-an-11-day-lean-formalization-of-fermat-s-l|Anthropic reports an 11-day Lean formalization of Fermat's Last Theorem]]
+- `2026-09-04` [[2026-09-04-anthropic-reports-a-complete-lean-formalization-of-fermat-s|Anthropic reports a complete Lean formalization of Fermat’s Last Theorem]]
+- `2026-09-04` [[2026-09-04-anthropic-explores-bringing-payments-and-billing-infrastruct|Anthropic explores bringing payments and billing infrastructure in-house]]
+- `2026-09-04` [[2026-09-04-anthropic-explores-bringing-more-billing-and-payments-techno|Anthropic explores bringing more billing and payments technology in-house]]
+- `2026-09-04` [[2026-09-04-ai-leads-unicorn-creation-in-2026-deepseek-tops-new-ai-unico|AI leads unicorn creation in 2026; DeepSeek tops new AI unicorn valuations]]
+- `2026-09-04` [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing|AI compute provider Nscale seeks $3.5B in pre-IPO financing]]
+- `2026-09-03` [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai|Trending UC Berkeley’s Stuart Russell calls for a halt to AI weapons]]
+- `2026-09-03` [[2026-09-03-snowflake-resists-outcome-based-pricing-as-coco-adoption-gro|Snowflake resists outcome-based pricing as CoCo adoption grows]]
 - `2026-09-03` [[2026-09-03-snowflake-defies-outcome-pricing-pressure-as-ai-coding-adopt|Snowflake defies outcome-pricing pressure as AI coding adoption accelerates]]
 - `2026-09-03` [[2026-09-03-simultaneous-ai-service-outages-expose-correlated-dependency|Simultaneous AI-service outages expose correlated dependency risk]]
 - `2026-09-03` [[2026-09-03-sanders-and-casar-propose-a-u-s-ban-on-artificial-superintel|Sanders and Casar Propose a U.S. Ban on 'Artificial Superintelligence']]
+- `2026-09-03` [[2026-09-03-openai-anthropic-google-and-xai-hit-simultaneous-service-dis|OpenAI, Anthropic, Google and xAI Hit Simultaneous Service Disruptions]]
+- `2026-09-03` [[2026-09-03-openai-launches-gpt-6-astra-its-most-capable-and-most-contes|OpenAI Launches GPT-6 Astra, Its Most Capable — and Most Contested — Model]]
 - `2026-09-03` [[2026-09-03-nscale-touts-103b-in-contracted-revenue-after-anthropic-comp|Nscale touts $103B in contracted revenue after Anthropic compute win]]
 - `2026-09-03` [[2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop|Nscale touts $103 billion in contracted revenue after Anthropic and Figure compute wins]]
+- `2026-09-03` [[2026-09-03-meta-works-on-action-gates-and-credential-isolation-before-h|Meta works on action gates and credential isolation before Hatch launches]]
+- `2026-09-03` [[2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr|Meta tests safeguards to keep its upcoming Hatch AI agent from going rogue]]
 - `2026-09-03` [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private|Mark Zuckerberg opposed a national AI regulator in a private call with Trump]]
 - `2026-09-03` [[2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral|French finance minister warns Europe cannot rely on Mistral alone]]
+- `2026-09-03` [[2026-09-03-chatgpt-claude-and-grok-hit-by-overlapping-outages|ChatGPT, Claude and Grok hit by overlapping outages]]
+- `2026-09-03` [[2026-09-03-breaking-hot-simultaneous-outage-takes-down-chatgpt-claude-g|Breaking Hot Simultaneous outage takes down ChatGPT, Claude, Grok and Gemini]]
 - `2026-09-03` [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a|Anthropic breaks with Google and OpenAI over Massachusetts AI safety bill]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-02` [[2026-09-02-u-s-pushes-light-touch-ai-regulation-at-g20-as-europe-advanc|U.S. pushes light-touch AI regulation at G20 as Europe advances new AI law]]
@@ -22,9 +47,11 @@ member_count: 1777
 - `2026-09-02` [[2026-09-02-trending-alibaba-s-qwen-3-8-max-0902-debuts-at-1-on-code-are|Trending Alibaba's Qwen-3.8-Max-0902 debuts at #1 on Code Arena WebDev]]
 - `2026-09-02` [[2026-09-02-salesforce-and-anthropic-launch-claudeforce-making-claude-th|Salesforce and Anthropic Launch “Claudeforce,” Making Claude the Default Reasoning Model in Agentforce and Slack]]
 - `2026-09-02` [[2026-09-02-openai-and-anthropic-balance-safety-disclosure-against-ipo-p|OpenAI and Anthropic balance safety disclosure against IPO positioning]]
+- `2026-09-02` [[2026-09-02-openai-rates-astra-critical-on-cyber-capability-under-its-pr|OpenAI Rates Astra "Critical" on Cyber Capability Under Its Preparedness Framework]]
 - `2026-09-02` [[2026-09-02-new-nvidia-open-sources-switchyard-a-rust-proxy-for-cross-pr|New NVIDIA open-sources Switchyard, a Rust proxy for cross-provider LLM traffic]]
 - `2026-09-02` [[2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age|Meta releases Muse Spark 1.3 for coding and long-horizon agentic workflows]]
 - `2026-09-02` [[2026-09-02-google-starts-september-with-ai-momentum-after-a-long-stock|Google starts September with AI momentum after a long stock losing streak]]
+- `2026-09-02` [[2026-09-02-google-ships-gemini-3-8-flash-and-gates-its-cyber-variant-be|Google Ships Gemini 3.8 Flash and Gates Its Cyber Variant Behind the Fairwind Program]]
 - `2026-09-02` [[2026-09-02-google-reportedly-readying-a-new-gemini-model-codenamed-skim|Google Reportedly Readying a New Gemini Model Codenamed “Skimaki”]]
 - `2026-09-02` [[2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day|Frontier capability and frontier cost moved on the same day]]
 - `2026-09-02` [[2026-09-02-crowdstrike-brings-falcon-telemetry-into-anthropic-s-claude|CrowdStrike brings Falcon telemetry into Anthropic's Claude Marketplace]]
@@ -34,6 +61,7 @@ member_count: 1777
 - `2026-09-02` [[2026-09-02-anthropic-introduces-zero-retention-ai-safety-monitoring-for|Anthropic introduces zero-retention AI safety monitoring for enterprises]]
 - `2026-09-02` [[2026-09-02-anthropic-follows-openai-in-pausing-some-ai-training-followi|Anthropic follows OpenAI in pausing some AI training following rogue agent hacks]]
 - `2026-09-02` [[2026-09-02-anthropic-details-evaluation-incidents-and-launches-enterpri|Anthropic details evaluation incidents and launches Enterprise Frontier Safeguards]]
+- `2026-09-02` [[2026-09-02-anthropic-ships-fable-5-1-and-mythos-5-1-with-tiered-access|Anthropic Ships Fable 5.1 and Mythos 5.1 With Tiered Access After Sandbox-Escape Incidents]]
 - `2026-09-02` [[2026-09-02-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-geograp|Anthropic Ships Claude Fable 5.1 and Mythos 5.1, With Geographic Access Limits]]
 - `2026-09-02` [[2026-09-02-anthropic-ships-claude-fable-5-1-and-mythos-5-1-cutting-agen|Anthropic Ships Claude Fable 5.1 and Mythos 5.1, Cutting Agentic Workload Costs Up to 45%]]
 - `2026-09-01` [[2026-09-01-sony-music-publishing-and-warner-chappell-sue-anthropic-over|Sony Music Publishing and Warner Chappell Sue Anthropic Over Claude Training Data]]

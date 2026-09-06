@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-04-figure-commits-billions-to-nscale-for-nvidia-vera-rubin-gpu
 - 2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027
 - 2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens
 - 2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
-- 2026-05-14-nvidia-s-vera-rubin-platform-featuring-72-rubin-gpus-with-hb
 embedding_id: 2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm
 event_name: ''
 ---
@@ -41,5 +41,5 @@ NVIDIA's Vera Rubin platform has entered production with more than $1 trillion i
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-05-14-nvidia-s-vera-rubin-platform-featuring-72-rubin-gpus-with-hb]]
+**Related:** [[2026-09-04-figure-commits-billions-to-nscale-for-nvidia-vera-rubin-gpu]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]]
 <!-- graph:end -->

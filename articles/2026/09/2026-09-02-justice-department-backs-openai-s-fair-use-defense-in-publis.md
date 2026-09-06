@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-03-justice-department-backs-openai-and-microsoft-s-fair-use-def
 - 2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-nyt-tr
 - 2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-new-yo
+- 2026-09-03-u-s-government-backs-openai-s-fair-use-position-in-nyt-copyr
 - 2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim
-- 2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio
-- 2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training
 embedding_id: 2026-09-02-justice-department-backs-openai-s-fair-use-defense-in-publis
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The DOJ filed a statement of interest in Manhattan federal court supporting Open
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-nyt-tr]] · [[2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-new-yo]] · [[2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim]] · [[2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio]] · [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training]]
+**Related:** [[2026-09-03-justice-department-backs-openai-and-microsoft-s-fair-use-def]] · [[2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-nyt-tr]] · [[2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-new-yo]] · [[2026-09-03-u-s-government-backs-openai-s-fair-use-position-in-nyt-copyr]] · [[2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim]]
 <!-- graph:end -->

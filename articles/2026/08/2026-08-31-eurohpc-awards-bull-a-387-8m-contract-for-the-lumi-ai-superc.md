@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing
+- 2026-09-05-hon-hai-august-sales-rise-52-on-ai-server-demand-as-europe-p
 - 2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center
 - 2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da
-- 2026-04-23-helsinki-based-verda-raises-100m-to-build-european-ai-cloud
 embedding_id: 2026-08-31-eurohpc-awards-bull-a-387-8m-contract-for-the-lumi-ai-superc
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The EU's EuroHPC joint undertaking selected Bull to build LUMI-AI alongside the 
 
 **Entities:** [[AMD]] · [[IBM]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing]] · [[2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center]] · [[2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da]] · [[2026-04-23-helsinki-based-verda-raises-100m-to-build-european-ai-cloud]]
+**Related:** [[2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing]] · [[2026-09-05-hon-hai-august-sales-rise-52-on-ai-server-demand-as-europe-p]] · [[2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center]] · [[2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da]]
 <!-- graph:end -->

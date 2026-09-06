@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
 - 2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training
-- 2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio
-- 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
+- 2026-09-04-seattle-times-sues-microsoft-and-openai-alleging-they-traine
+- 2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai
 embedding_id: 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
 event_name: ''
 ---
@@ -42,5 +42,5 @@ CNN filed a copyright and trademark suit against Perplexity in the Southern Dist
 
 **Entities:** [[OpenAI]] · [[Perplexity]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training]] · [[2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]]
+**Related:** [[2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training]] · [[2026-09-04-seattle-times-sues-microsoft-and-openai-alleging-they-traine]] · [[2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai]]
 <!-- graph:end -->

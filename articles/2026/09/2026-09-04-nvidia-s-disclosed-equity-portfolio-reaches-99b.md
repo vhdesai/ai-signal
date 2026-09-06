@@ -19,7 +19,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99-billion
+canonical_article_id: 2026-09-04-nvidia-s-99b-equity-portfolio-turns-supplier-exposure-into-c
 related_article_ids: []
 embedding_id: 2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99b
 event_name: ''
@@ -34,5 +34,5 @@ CNBC reported that Nvidia's equity investments have risen to $99B, up from rough
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99-billion]]
+**Canonical:** [[2026-09-04-nvidia-s-99b-equity-portfolio-turns-supplier-exposure-into-c]]
 <!-- graph:end -->

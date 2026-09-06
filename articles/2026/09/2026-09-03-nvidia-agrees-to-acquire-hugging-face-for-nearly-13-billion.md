@@ -20,12 +20,11 @@ themes:
 - ma-activity
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-09-03-hot-breaking-nvidia-confirms-12-93b-acquisition-of-hugging-f
 related_article_ids:
+- 2026-09-04-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug
 - 2026-09-03-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug
-- 2026-09-03-nvidia-confirms-12-9-billion-acquisition-of-hugging-face
-- 2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control
 embedding_id: 2026-09-03-nvidia-agrees-to-acquire-hugging-face-for-nearly-13-billion
 event_name: ''
 ---
@@ -39,5 +38,6 @@ Nvidia agreed to acquire Hugging Face for approximately $12.9 billion, its large
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
-**Related:** [[2026-09-03-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug]] · [[2026-09-03-nvidia-confirms-12-9-billion-acquisition-of-hugging-face]] · [[2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control]]
+**Canonical:** [[2026-09-03-hot-breaking-nvidia-confirms-12-93b-acquisition-of-hugging-f]]
+**Related:** [[2026-09-04-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug]] · [[2026-09-03-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug]]
 <!-- graph:end -->

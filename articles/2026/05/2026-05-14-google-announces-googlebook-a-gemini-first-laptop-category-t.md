@@ -5,8 +5,8 @@ title: Google announces "Googlebook," a Gemini-first laptop category — TLDL / 
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: fb3013294dd2b8b14b881e38f3e34474692fc308ca47b14571edb17e006a35b9

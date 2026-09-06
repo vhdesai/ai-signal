@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-04-nvidia-s-99b-equity-portfolio-turns-supplier-exposure-into-c
 - 2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat
 - 2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99b
 - 2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade
-- 2026-08-01-nvidia-to-report-q2-fy2027-results-on-august-26-with-ai-chip
 embedding_id: 2026-08-19-bofa-calls-nvidia-s-discount-a-compelling-opportunity-ahead
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Bank of America argued that Nvidia's current valuation discount creates a compel
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat]] · [[2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99b]] · [[2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade]] · [[2026-08-01-nvidia-to-report-q2-fy2027-results-on-august-26-with-ai-chip]]
+**Related:** [[2026-09-04-nvidia-s-99b-equity-portfolio-turns-supplier-exposure-into-c]] · [[2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat]] · [[2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99b]] · [[2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade]]
 <!-- graph:end -->

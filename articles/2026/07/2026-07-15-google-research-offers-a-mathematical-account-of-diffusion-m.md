@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-07-05-icml-2026-awards-highlight-diffusion-sampling-diffusion-lang
 - 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
+- 2026-09-03-transfer-learning-for-genomic-prediction-in-underrepresented
 embedding_id: 2026-07-15-google-research-offers-a-mathematical-account-of-diffusion-m
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Google Research published a theoretical account (presented at ICLR 2026) arguing
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-10-mathematicians-assess-generative-ai-s-arrival-in-their-field]] · [[2026-07-05-icml-2026-awards-highlight-diffusion-sampling-diffusion-lang]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]]
+**Related:** [[2026-08-10-mathematicians-assess-generative-ai-s-arrival-in-their-field]] · [[2026-07-05-icml-2026-awards-highlight-diffusion-sampling-diffusion-lang]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-09-03-transfer-learning-for-genomic-prediction-in-underrepresented]]
 <!-- graph:end -->

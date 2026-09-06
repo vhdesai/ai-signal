@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic
 - 2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig
 - 2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst
+- 2026-09-04-saudi-arabia-s-humain-unveils-humain-m3-a-428b-arabic-model
 - 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
-- 2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190
 embedding_id: 2026-08-03-humain-s-investment-in-mozn-shows-sovereign-ai-strategies-mo
 event_name: ''
 ---
@@ -36,5 +36,5 @@ HUMAIN’s investment in MOZN shows sovereign AI strategies moving up the value 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic]] · [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig]] · [[2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]]
+**Related:** [[2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic]] · [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig]] · [[2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst]] · [[2026-09-04-saudi-arabia-s-humain-unveils-humain-m3-a-428b-arabic-model]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]]
 <!-- graph:end -->

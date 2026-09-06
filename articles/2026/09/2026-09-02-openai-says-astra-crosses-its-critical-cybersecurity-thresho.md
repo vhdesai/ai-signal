@@ -18,11 +18,9 @@ entities:
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-09-02-openai-says-forthcoming-astra-model-crosses-critical-cyberse
-- 2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy
+dedupe_status: duplicate
+canonical_article_id: 2026-09-02-openai-rates-astra-critical-on-cyber-capability-under-its-pr
+related_article_ids: []
 embedding_id: 2026-09-02-openai-says-astra-crosses-its-critical-cybersecurity-thresho
 event_name: ''
 ---
@@ -36,5 +34,5 @@ OpenAI disclosed that its forthcoming Astra model is the first to meet the criti
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-02-openai-says-forthcoming-astra-model-crosses-critical-cyberse]] · [[2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy]]
+**Canonical:** [[2026-09-02-openai-rates-astra-critical-on-cyber-capability-under-its-pr]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil
+- 2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-alle
+- 2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
 - 2026-07-14-major-publishers-sue-google-over-gemini-ai-training
-- 2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw
-- 2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training
 embedding_id: 2026-05-04-five-academic-publishers-sue-meta-over-llama-training-data
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A consortium of five academic publishers filed suit against Meta alleging unauth
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-07-14-major-publishers-sue-google-over-gemini-ai-training]] · [[2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw]] · [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training]]
+**Related:** [[2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil]] · [[2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-alle]] · [[2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-07-14-major-publishers-sue-google-over-gemini-ai-training]]
 <!-- graph:end -->

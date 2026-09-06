@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement
 - 2026-08-03-molt-is-notable-less-as-a-standalone-model-story-and-more-as
+- 2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw
+- 2026-09-04-nvidia-nemoclaw-recipe-shows-a-memory-driven-chief-of-staff
 - 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
-- 2026-08-07-nvidia-open-sources-nooa-object-oriented-agent-framework-rea
-- 2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus
 embedding_id: 2026-08-01-nvidia-releases-molt-an-apache-2-0-pytorch-native-agentic-re
 event_name: ''
 ---
@@ -40,5 +40,5 @@ NVIDIA’s NeMo team open-sourced Molt, a PyTorch-native framework for agentic r
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement]] · [[2026-08-03-molt-is-notable-less-as-a-standalone-model-story-and-more-as]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-08-07-nvidia-open-sources-nooa-object-oriented-agent-framework-rea]] · [[2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus]]
+**Related:** [[2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement]] · [[2026-08-03-molt-is-notable-less-as-a-standalone-model-story-and-more-as]] · [[2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw]] · [[2026-09-04-nvidia-nemoclaw-recipe-shows-a-memory-driven-chief-of-staff]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]]
 <!-- graph:end -->

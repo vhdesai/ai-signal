@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
 - 2026-07-17-ai-chip-startup-etched-reportedly-in-talks-at-20-billion-val
+- 2026-09-03-thinking-machines-lab-discusses-a-raise-at-roughly-a-40b-val
 - 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
 - 2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe
-- 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
 embedding_id: 2026-09-01-indian-ai-chip-startup-agrani-labs-raising-50m-at-up-to-200m
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Bengaluru-based Agrani Labs, founded by former Intel and AMD executives, is in a
 
 **Entities:** [[AMD]] · [[Intel]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-07-17-ai-chip-startup-etched-reportedly-in-talks-at-20-billion-val]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]] · [[2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]]
+**Related:** [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-07-17-ai-chip-startup-etched-reportedly-in-talks-at-20-billion-val]] · [[2026-09-03-thinking-machines-lab-discusses-a-raise-at-roughly-a-40b-val]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]] · [[2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe]]
 <!-- graph:end -->

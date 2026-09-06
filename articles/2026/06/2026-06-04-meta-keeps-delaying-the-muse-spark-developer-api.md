@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age
+- 2026-09-03-meta-releases-muse-spark-1-3-as-agent-inference-economics-ti
 - 2026-06-23-trump-administration-presses-meta-to-submit-frontier-models
 - 2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1
-- 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
-- 2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f
+- 2026-09-03-new-meta-ships-muse-spark-1-3-but-its-best-results-come-from
 embedding_id: 2026-06-04-meta-keeps-delaying-the-muse-spark-developer-api
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta's Muse Spark launched in April but the developer API has slipped repeatedly
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age]] · [[2026-06-23-trump-administration-presses-meta-to-submit-frontier-models]] · [[2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f]]
+**Related:** [[2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age]] · [[2026-09-03-meta-releases-muse-spark-1-3-as-agent-inference-economics-ti]] · [[2026-06-23-trump-administration-presses-meta-to-submit-frontier-models]] · [[2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1]] · [[2026-09-03-new-meta-ships-muse-spark-1-3-but-its-best-results-come-from]]
 <!-- graph:end -->

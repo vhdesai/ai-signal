@@ -6,16 +6,15 @@ source: Business Insider
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-09-04_065752_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-09-04_070146_Inbox_Daily AI News Digest – September
+  4, 2026.md
 content_hash: 04fefef4d0329ef42f13ceff48656a363f8efd8c2224eb8829c7753a9e088a35
 normalized_title_hash: c9d5f9ee9bd3f818
 canonical_url_hash: ''
-tags:
-- Education
-- Adoption
+tags: []
 entities: []
 themes:
-- company-storylines
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +33,6 @@ Business Insider reported that some New York City parents were surprised to lear
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-09-02-new-york-city-bans-generative-ai-in-schools-through-eighth-g]] · [[2026-09-02-ibm-study-finds-classroom-ai-adoption-outpacing-k-12-readine]] · [[2026-07-19-advocates-tell-google-to-fix-ai-mode-or-leave-classrooms]]
 <!-- graph:end -->

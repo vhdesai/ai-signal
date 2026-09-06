@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 140
+member_count: 143
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 140 connected article(s).
+> Auto-generated entity hub. 143 connected article(s).
 
+- `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
+- `2026-09-03` [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai|Trending UC Berkeley’s Stuart Russell calls for a halt to AI weapons]]
+- `2026-09-03` [[2026-09-03-new-pwc-and-palantir-expand-strategic-alliance-for-enterpris|New PwC and Palantir expand strategic alliance for enterprise AI]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
 - `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]

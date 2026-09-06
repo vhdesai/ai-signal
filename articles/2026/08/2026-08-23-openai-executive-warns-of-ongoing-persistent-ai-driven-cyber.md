@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-23-openai-leader-warns-of-ongoing-persistent-ai-driven-cyberatt
 - 2026-08-28-openai-warns-the-window-to-strengthen-cyber-defenses-is-clos
 - 2026-07-22-openai-says-its-ai-went-rogue-and-launched-an-unprecedented
-- 2026-08-30-openai-renews-call-for-collective-cyber-defense
+- 2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a
 embedding_id: 2026-08-23-openai-executive-warns-of-ongoing-persistent-ai-driven-cyber
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI's Chris Lehane told The Guardian that organizations should prepare to def
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-23-openai-leader-warns-of-ongoing-persistent-ai-driven-cyberatt]] · [[2026-08-28-openai-warns-the-window-to-strengthen-cyber-defenses-is-clos]] · [[2026-07-22-openai-says-its-ai-went-rogue-and-launched-an-unprecedented]] · [[2026-08-30-openai-renews-call-for-collective-cyber-defense]]
+**Related:** [[2026-08-23-openai-leader-warns-of-ongoing-persistent-ai-driven-cyberatt]] · [[2026-08-28-openai-warns-the-window-to-strengthen-cyber-defenses-is-clos]] · [[2026-07-22-openai-says-its-ai-went-rogue-and-launched-an-unprecedented]] · [[2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a]]
 <!-- graph:end -->

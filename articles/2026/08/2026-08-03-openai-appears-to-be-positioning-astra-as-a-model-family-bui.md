@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-03-openai-previews-astra-model-to-washington-officials
 - 2026-08-03-openai-previews-astra-ai-model-to-washington-officials
 - 2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou
-- 2026-08-10-openai-tightens-controls-on-its-astra-model-over-cybersecuri
+- 2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag
 embedding_id: 2026-08-03-openai-appears-to-be-positioning-astra-as-a-model-family-bui
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI appears to be positioning Astra as a model family built for long-running 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-openai-previews-astra-to-washington-officials-before-public]] · [[2026-08-03-openai-previews-astra-model-to-washington-officials]] · [[2026-08-03-openai-previews-astra-ai-model-to-washington-officials]] · [[2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou]] · [[2026-08-10-openai-tightens-controls-on-its-astra-model-over-cybersecuri]]
+**Related:** [[2026-08-03-openai-previews-astra-to-washington-officials-before-public]] · [[2026-08-03-openai-previews-astra-model-to-washington-officials]] · [[2026-08-03-openai-previews-astra-ai-model-to-washington-officials]] · [[2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou]] · [[2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag]]
 <!-- graph:end -->

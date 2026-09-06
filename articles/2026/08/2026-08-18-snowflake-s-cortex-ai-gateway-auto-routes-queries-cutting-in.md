@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-27-the-case-that-a-cheap-flash-model-should-absorb-45-of-enterp
-- 2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to
+- 2026-09-04-github-s-hydrafusion-router-cuts-ai-coding-costs-in-every-be
 embedding_id: 2026-08-18-snowflake-s-cortex-ai-gateway-auto-routes-queries-cutting-in
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Snowflake introduced a gateway feature that automatically routes AI tasks to sma
 
 **Entities:** [[Snowflake]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-27-the-case-that-a-cheap-flash-model-should-absorb-45-of-enterp]] · [[2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to]]
+**Related:** [[2026-08-27-the-case-that-a-cheap-flash-model-should-absorb-45-of-enterp]] · [[2026-09-04-github-s-hydrafusion-router-cuts-ai-coding-costs-in-every-be]]
 <!-- graph:end -->

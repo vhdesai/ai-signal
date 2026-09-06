@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-24-claude-hit-by-another-multi-model-outage-disrupting-develope
 - 2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl
+- 2026-09-03-chatgpt-claude-and-grok-hit-by-overlapping-outages
+- 2026-09-04-chatgpt-claude-and-grok-reportedly-face-simultaneous-outages
 - 2026-08-24-anthropic-s-claude-suffers-another-outagetrending
-- 2026-08-05-global-anthropic-outage-disrupts-claude-chat-api-and-claude
-- 2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude
 embedding_id: 2026-06-22-claude-suffers-90-minute-multi-model-global-outage-third-thi
 event_name: ''
 ---
@@ -37,5 +37,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-24-claude-hit-by-another-multi-model-outage-disrupting-develope]] · [[2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl]] · [[2026-08-24-anthropic-s-claude-suffers-another-outagetrending]] · [[2026-08-05-global-anthropic-outage-disrupts-claude-chat-api-and-claude]] · [[2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude]]
+**Related:** [[2026-08-24-claude-hit-by-another-multi-model-outage-disrupting-develope]] · [[2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl]] · [[2026-09-03-chatgpt-claude-and-grok-hit-by-overlapping-outages]] · [[2026-09-04-chatgpt-claude-and-grok-reportedly-face-simultaneous-outages]] · [[2026-08-24-anthropic-s-claude-suffers-another-outagetrending]]
 <!-- graph:end -->

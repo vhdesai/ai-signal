@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 150
+member_count: 153
 ---
 
 # IBM
 
-> Auto-generated entity hub. 150 connected article(s).
+> Auto-generated entity hub. 153 connected article(s).
 
+- `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
+- `2026-09-03` [[2026-09-03-u-s-government-backs-openai-s-fair-use-position-in-nyt-copyr|U.S. government backs OpenAI's fair-use position in NYT copyright case]]
+- `2026-09-03` [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai|Trending UC Berkeley’s Stuart Russell calls for a halt to AI weapons]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-02` [[2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness|New IBM Study Finds AI Adoption Is Outpacing K-12 Readiness]]
 - `2026-09-02` [[2026-09-02-ibm-study-finds-classroom-ai-adoption-outpacing-k-12-readine|IBM study finds classroom AI adoption outpacing K-12 readiness]]

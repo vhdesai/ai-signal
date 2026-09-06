@@ -5,8 +5,8 @@ title: 'Reuters: Beijing weighs curbing overseas access to China’s most advanc
 date: '2026-07-07'
 source: Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://newslink.reuters.com/public/33242946
+url_status: repaired
 digest_source: digests\raw\2026-07-08_064841_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 19ce78a0b749aee2e5f9b8ccf6a778339fffaf250046cb1568cabe66f0f0f450

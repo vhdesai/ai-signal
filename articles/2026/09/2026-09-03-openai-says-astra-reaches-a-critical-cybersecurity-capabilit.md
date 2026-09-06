@@ -20,8 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-02-openai-says-astra-crosses-its-critical-cybersecurity-thresho
-- 2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy
+- 2026-09-02-openai-rates-astra-critical-on-cyber-capability-under-its-pr
 embedding_id: 2026-09-03-openai-says-astra-reaches-a-critical-cybersecurity-capabilit
 event_name: ''
 ---
@@ -35,5 +34,5 @@ The Hacker News reported that OpenAI says its forthcoming Astra model meets the 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-02-openai-says-astra-crosses-its-critical-cybersecurity-thresho]] · [[2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy]]
+**Related:** [[2026-09-02-openai-rates-astra-critical-on-cyber-capability-under-its-pr]]
 <!-- graph:end -->

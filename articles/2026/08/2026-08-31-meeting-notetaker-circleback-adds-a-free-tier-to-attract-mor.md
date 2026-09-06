@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-03-meta-offers-95-token-discounts-to-users-who-share-muse-spark
 - 2026-08-20-meta-ai-launches-mac-app-with-system-wide-dictation-powered
 - 2026-08-27-plaud-launches-ai-note-taking-earphones-with-esim-enabled-ca
 - 2026-07-21-jack-dorsey-s-buzz-puts-humans-and-ai-agents-in-the-same-wor
@@ -35,5 +36,5 @@ TechCrunch reports that Circleback is adding a free tier for its AI meeting note
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-08-20-meta-ai-launches-mac-app-with-system-wide-dictation-powered]] · [[2026-08-27-plaud-launches-ai-note-taking-earphones-with-esim-enabled-ca]] · [[2026-07-21-jack-dorsey-s-buzz-puts-humans-and-ai-agents-in-the-same-wor]]
+**Related:** [[2026-09-03-meta-offers-95-token-discounts-to-users-who-share-muse-spark]] · [[2026-08-20-meta-ai-launches-mac-app-with-system-wide-dictation-powered]] · [[2026-08-27-plaud-launches-ai-note-taking-earphones-with-esim-enabled-ca]] · [[2026-07-21-jack-dorsey-s-buzz-puts-humans-and-ai-agents-in-the-same-wor]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: Xi Jinping pushes open-source AI as China challenges U.S. dominance
 date: '2026-07-17'
 source: WSJ
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.indiatoday.in/world/video/xi-jinpings-diplomatic-marathon-chinas-power-play-before-trump-ytvd-2987309-2026-09-04
+url_status: repaired
 digest_source: digests\raw\2026-07-17-daily-ai-news-digest.md
 content_hash: d05e0cf24d587e7ebc6a6e06a74f13d0664a49182037ca2dd1787be67ab4ed0a
 normalized_title_hash: 3fce13ee4b1af3c5

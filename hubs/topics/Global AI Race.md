@@ -1,23 +1,64 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1151
+member_count: 1192
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1151 connected article(s).
+> Auto-generated topic hub. 1192 connected article(s).
 
+- `2026-09-05` [[2026-09-05-wsj-reports-u-s-used-promise-of-nvidia-chips-in-armenia-azer|WSJ reports U.S. used promise of Nvidia chips in Armenia-Azerbaijan peace effort]]
+- `2026-09-05` [[2026-09-05-u-s-and-china-prepare-mid-september-ai-safety-talks|U.S. and China prepare mid-September AI safety talks]]
+- `2026-09-05` [[2026-09-05-foxconn-says-q3-should-beat-expectations-on-ai-strength|Foxconn says Q3 should beat expectations on AI strength]]
+- `2026-09-05` [[2026-09-05-china-banks-and-carriers-turn-ai-tokens-into-rewards-plans-a|China banks and carriers turn AI tokens into rewards, plans, and credit products]]
+- `2026-09-05` [[2026-09-05-alibaba-s-wan3-0-expands-its-ai-ambitions-could-shareholders|Alibaba's Wan3.0 expands its AI ambitions, could shareholders be paying the bill?]]
+- `2026-09-04` [[2026-09-04-september-4-2026-the-information|[September 4, 2026] · The Information]]
+- `2026-09-04` [[2026-09-04-u-s-and-china-prepare-for-mid-september-ai-safety-talks|U.S. and China prepare for mid-September AI safety talks]]
+- `2026-09-04` [[2026-09-04-seattle-times-sues-microsoft-and-openai-alleging-they-traine|Seattle Times sues Microsoft and OpenAI, alleging they trained their AI on its journalism]]
+- `2026-09-04` [[2026-09-04-saudi-arabia-s-humain-unveils-humain-m3-a-428b-arabic-model|Saudi Arabia’s HUMAIN unveils humain-m3, a 428B Arabic model built on Chinese open weights]]
+- `2026-09-04` [[2026-09-04-saudi-arabia-s-humain-launches-a-428b-arabic-model-built-on|Saudi Arabia’s HUMAIN launches a 428B Arabic model built on China’s MiniMax]]
+- `2026-09-04` [[2026-09-04-saudi-arabia-s-humain-launches-428b-arabic-model-built-on-ch|Saudi Arabia’s HUMAIN Launches 428B Arabic Model Built on China’s MiniMax]]
+- `2026-09-04` [[2026-09-04-saudi-arabia-s-humain-launches-arabic-llm-built-on-china-s-m|Saudi Arabia's HUMAIN launches Arabic LLM built on China's MiniMax]]
+- `2026-09-04` [[2026-09-04-saudi-arabia-s-humain-launches-428b-parameter-arabic-model-b|Saudi Arabia's HUMAIN Launches 428B-Parameter Arabic Model Built on China's MiniMax]]
 - `2026-09-04` [[2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in|Reports warn hackers are turning Claude, Qwen and DeepSeek into attack agents]]
+- `2026-09-04` [[2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99-billion|Nvidia's disclosed equity portfolio reaches $99 billion]]
+- `2026-09-04` [[2026-09-04-nscale-reportedly-seeks-3-5b-ahead-of-a-potential-ipo|Nscale reportedly seeks $3.5B ahead of a potential IPO]]
+- `2026-09-04` [[2026-09-04-nscale-reportedly-seeks-3-5-billion-ahead-of-a-possible-ipo|Nscale reportedly seeks $3.5 billion ahead of a possible IPO]]
 - `2026-09-04` [[2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-a-50|Moonshot AI files confidentially for Hong Kong IPO near a $50 billion valuation]]
 - `2026-09-04` [[2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-50b|Moonshot AI files confidentially for Hong Kong IPO near $50B valuation]]
+- `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
+- `2026-09-04` [[2026-09-04-hot-deepseek-to-deploy-160-000-huawei-ascend-chips-in-inner|Hot DeepSeek to deploy ~160,000 Huawei Ascend chips in Inner Mongolia]]
+- `2026-09-04` [[2026-09-04-humain-previews-an-arabic-model-built-with-minimax|HUMAIN previews an Arabic model built with MiniMax]]
+- `2026-09-04` [[2026-09-04-gimlet-labs-raises-300m-for-disaggregated-multi-silicon-infe|Gimlet Labs raises $300M for disaggregated multi-silicon inference]]
+- `2026-09-04` [[2026-09-04-deepseek-turns-to-huawei-for-160-000-ascend-ai-chips-as-nvid|DeepSeek turns to Huawei for 160,000 Ascend AI chips as Nvidia stays locked out of China]]
+- `2026-09-04` [[2026-09-04-deepseek-plots-major-huawei-ai-chip-order|DeepSeek plots major Huawei AI chip order]]
+- `2026-09-04` [[2026-09-04-deepseek-plans-major-huawei-chip-order-for-new-ai-data-cente|DeepSeek plans major Huawei chip order for new AI data center]]
+- `2026-09-04` [[2026-09-04-deepseek-plans-major-huawei-chip-deployment-as-bytedance-rai|DeepSeek plans major Huawei chip deployment as ByteDance raises AI capital]]
+- `2026-09-04` [[2026-09-04-deepseek-plans-a-160-000-chip-huawei-cluster-at-a-1gw-inner|DeepSeek plans a 160,000-chip Huawei cluster at a 1GW Inner Mongolia site]]
 - `2026-09-04` [[2026-09-04-deepseek-and-bytedance-accelerate-china-aligned-ai-infrastru|DeepSeek and ByteDance accelerate China-aligned AI infrastructure plans]]
+- `2026-09-04` [[2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a|CybersecurityNews and related security feeds reported that attackers are using models such as Claude, Qwen, and DeepSeek as AI agents for real-world cyberattacks, including activity against government systems. Even where individual claims require technical validation, the trend is directionally consistent with the broader shift from prompt-based abuse to autonomous attack workflows. Security teams should expect controls to move toward agent identity, tool permissions, sandboxing, egress restrictions, and behavioral monitoring.]]
+- `2026-09-04` [[2026-09-04-china-reports-removing-5-6m-pieces-of-content-in-ai-misuse-c|China reports removing 5.6M pieces of content in AI misuse crackdown]]
+- `2026-09-04` [[2026-09-04-china-removes-5-6-million-pieces-of-content-in-ai-misuse-cra|China Removes 5.6 Million Pieces of Content in AI Misuse Crackdown]]
+- `2026-09-04` [[2026-09-04-ai-leads-unicorn-creation-in-2026-deepseek-tops-new-ai-unico|AI leads unicorn creation in 2026; DeepSeek tops new AI unicorn valuations]]
+- `2026-09-03` [[2026-09-03-u-s-government-backs-openai-s-fair-use-position-in-nyt-copyr|U.S. government backs OpenAI's fair-use position in NYT copyright case]]
+- `2026-09-03` [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai|Trending UC Berkeley’s Stuart Russell calls for a halt to AI weapons]]
+- `2026-09-03` [[2026-09-03-trending-moonshot-ai-confidentially-files-for-hong-kong-ipo|Trending Moonshot AI confidentially files for Hong Kong IPO at roughly $50B]]
+- `2026-09-03` [[2026-09-03-trending-french-finance-minister-warns-europe-cannot-rest-so|Trending French finance minister warns Europe cannot rest sovereignty on Mistral alone]]
 - `2026-09-03` [[2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on|Tencent releases Hy4 preview, an open-weight model trained on its own user data]]
 - `2026-09-03` [[2026-09-03-nvidia-agrees-to-acquire-hugging-face-for-nearly-13-billion|Nvidia Agrees to Acquire Hugging Face for Nearly $13 Billion]]
+- `2026-09-03` [[2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop|Nscale touts $103 billion in contracted revenue after Anthropic and Figure compute wins]]
 - `2026-09-03` [[2026-09-03-new-tencent-s-hy4-open-weight-preview-lands-8th-on-code-aren|New Tencent's Hy4 open-weight preview lands 8th on Code Arena WebDev]]
+- `2026-09-03` [[2026-09-03-nvidia-agrees-to-buy-ai-platform-hugging-face-for-13b|NVIDIA agrees to buy AI platform Hugging Face for $13B]]
 - `2026-09-03` [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va|Moonshot AI Files Confidentially for Hong Kong IPO at ~$50B Valuation]]
+- `2026-09-03` [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-roughl|Moonshot AI Files Confidentially for Hong Kong IPO at Roughly $50B Valuation]]
+- `2026-09-03` [[2026-09-03-meta-works-on-action-gates-and-credential-isolation-before-h|Meta works on action gates and credential isolation before Hatch launches]]
+- `2026-09-03` [[2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr|Meta tests safeguards to keep its upcoming Hatch AI agent from going rogue]]
 - `2026-09-03` [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private|Mark Zuckerberg opposed a national AI regulator in a private call with Trump]]
+- `2026-09-03` [[2026-09-03-g20-endorses-us-backed-carolina-principles-for-sector-based|G20 Endorses US-Backed "Carolina Principles" for Sector-Based AI Rules]]
+- `2026-09-03` [[2026-09-03-g20-endorses-non-binding-carolina-principles-for-light-touch|G20 Endorses Non-Binding "Carolina Principles" for Light-Touch AI Regulation]]
 - `2026-09-03` [[2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral|French finance minister warns Europe cannot rely on Mistral alone]]
+- `2026-09-03` [[2026-09-03-daily-ai-news-digest-september-4-2026|Daily AI News Digest – September 4, 2026]]
 - `2026-09-03` [[2026-09-03-china-s-moonshot-ai-confidentially-filed-for-a-hong-kong-ipo|China's Moonshot AI confidentially filed for a Hong Kong IPO]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-02` [[2026-09-02-xinhua-reported-that-chinese-authorities-removed-5-6-million|Xinhua reported that Chinese authorities removed 5.6 million pieces of unlawful or rule-violating content as part of a crackdown on AI misuse. The action shows Beijing continuing to pair rapid AI deployment with centralized content and platform enforcement. For global AI operators, the development is another example of diverging regulatory models across major markets.]]

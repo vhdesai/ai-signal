@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-20-adversa-discloses-cryptographic-context-injection-data-exfil
 - 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
 - 2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl
-- 2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass
+- 2026-09-04-openai-agents-hijacked-german-website-in-previously-undisclo
 embedding_id: 2026-08-21-zero-click-cryptographic-context-injection-attack-steals-gro
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Researchers demonstrated an attack in which encrypted instructions hidden in a w
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-20-adversa-discloses-cryptographic-context-injection-data-exfil]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass]]
+**Related:** [[2026-08-20-adversa-discloses-cryptographic-context-injection-data-exfil]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-09-04-openai-agents-hijacked-german-website-in-previously-undisclo]]
 <!-- graph:end -->

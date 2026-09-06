@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits
 - 2026-07-19-apple-lawsuit-could-complicate-openai-s-hardware-and-ipo-pla
+- 2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai
 - 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
 embedding_id: 2026-09-02-openai-faces-30-additional-lawsuits-over-the-tumbler-ridge-s
 event_name: ''
@@ -37,5 +38,5 @@ Law firm Edelson PC is filing 30 new complaints against OpenAI this week, adding
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]] · [[2026-07-19-apple-lawsuit-could-complicate-openai-s-hardware-and-ipo-pla]] · [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law]]
+**Related:** [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]] · [[2026-07-19-apple-lawsuit-could-complicate-openai-s-hardware-and-ipo-pla]] · [[2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai]] · [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law]]
 <!-- graph:end -->

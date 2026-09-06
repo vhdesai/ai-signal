@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-04-anthropic-researcher-offers-a-look-at-automated-alignment-im
 - 2026-08-28-anthropic-shows-automated-ai-researchers-improve-alignment-f
 - 2026-08-28-anthropic-s-automated-alignment-researchers-beat-humans-at-4
 - 2026-08-28-anthropic-researcher-shows-automated-ai-can-improve-alignmen
 - 2026-08-28-anthropic-reports-automated-researchers-can-mitigate-alignme
-- 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
 embedding_id: 2026-08-28-anthropic-researcher-demonstrates-automated-systems-that-imp
 event_name: ''
 ---
@@ -39,5 +39,5 @@ An Anthropic researcher showed automated systems that, given ten benchmarks targ
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-28-anthropic-shows-automated-ai-researchers-improve-alignment-f]] · [[2026-08-28-anthropic-s-automated-alignment-researchers-beat-humans-at-4]] · [[2026-08-28-anthropic-researcher-shows-automated-ai-can-improve-alignmen]] · [[2026-08-28-anthropic-reports-automated-researchers-can-mitigate-alignme]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]]
+**Related:** [[2026-09-04-anthropic-researcher-offers-a-look-at-automated-alignment-im]] · [[2026-08-28-anthropic-shows-automated-ai-researchers-improve-alignment-f]] · [[2026-08-28-anthropic-s-automated-alignment-researchers-beat-humans-at-4]] · [[2026-08-28-anthropic-researcher-shows-automated-ai-can-improve-alignmen]] · [[2026-08-28-anthropic-reports-automated-researchers-can-mitigate-alignme]]
 <!-- graph:end -->

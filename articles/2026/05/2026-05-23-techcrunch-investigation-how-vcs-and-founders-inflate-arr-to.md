@@ -4,8 +4,8 @@ title: 'TechCrunch Investigation: How VCs and Founders Inflate "ARR" to Crown AI
 date: '2026-05-23'
 source: TechCrunch
 url_original: https://tera.fm/episodes/techcrunch/2026-05-23
-url_canonical: https://techcrunch.com/tag/techcrunch/
-url_status: repaired
+url_canonical: https://tera.fm/episodes/techcrunch/2026-05-23
+url_status: broken
 digest_source: digests\raw\2026-05-24_071254_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 72ba41400b4aab75efdd8b4dabfd319ede1a5176069c7fa417a27a6325349f99
@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-thrive-holdings-raises-2b-to-push-ai-into-regulated-workflow
+- 2026-09-03-startup-arr-is-less-secure-than-ever-as-enterprises-constant
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation
 - 2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua
-- 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 embedding_id: 2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch published an investigative piece on AI-startup ARR inflation, with Sp
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-thrive-holdings-raises-2b-to-push-ai-into-regulated-workflow]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation]] · [[2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]]
+**Related:** [[2026-08-12-thrive-holdings-raises-2b-to-push-ai-into-regulated-workflow]] · [[2026-09-03-startup-arr-is-less-secure-than-ever-as-enterprises-constant]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation]] · [[2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua]]
 <!-- graph:end -->

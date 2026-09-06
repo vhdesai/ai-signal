@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i
+- 2026-09-03-nvidia-commits-3-5b-to-mediatek-to-extend-nvlink-fusion-into
 - 2026-08-31-nvidia-invests-3-5-billion-in-mediatek-and-deepens-edge-to-c
 - 2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real
 - 2026-08-31-nvidia-invests-3-5b-in-mediatek-deepens-ai-infrastructure-pa
-- 2026-08-31-nvidia-invests-3-5b-in-mediatek-and-extends-nvlink-fusion-to
 embedding_id: 2026-04-02-trending-nvidia-backs-marvell-nvlink-fusion-with-2b-commitme
 event_name: ''
 ---
@@ -39,5 +39,5 @@ event_name: ''
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-08-31-nvidia-invests-3-5-billion-in-mediatek-and-deepens-edge-to-c]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real]] · [[2026-08-31-nvidia-invests-3-5b-in-mediatek-deepens-ai-infrastructure-pa]] · [[2026-08-31-nvidia-invests-3-5b-in-mediatek-and-extends-nvlink-fusion-to]]
+**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-09-03-nvidia-commits-3-5b-to-mediatek-to-extend-nvlink-fusion-into]] · [[2026-08-31-nvidia-invests-3-5-billion-in-mediatek-and-deepens-edge-to-c]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real]] · [[2026-08-31-nvidia-invests-3-5b-in-mediatek-deepens-ai-infrastructure-pa]]
 <!-- graph:end -->

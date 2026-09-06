@@ -24,8 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
+- 2026-09-04-gemini-spark-can-now-manage-google-photos-libraries
 - 2026-08-26-gemini-live-gains-agentic-spark-tasks-daily-brief-and-voice
-- 2026-05-26-gemini-3-5-flash-and-gemini-spark-continue-post-i-o-rollout
 embedding_id: 2026-05-28-google-expands-gemini-spark-and-universal-cart-across-consum
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google's follow-on I/O coverage detailed broader rollout of Gemini Spark and Dai
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]] · [[2026-08-26-gemini-live-gains-agentic-spark-tasks-daily-brief-and-voice]] · [[2026-05-26-gemini-3-5-flash-and-gemini-spark-continue-post-i-o-rollout]]
+**Related:** [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]] · [[2026-09-04-gemini-spark-can-now-manage-google-photos-libraries]] · [[2026-08-26-gemini-live-gains-agentic-spark-tasks-daily-brief-and-voice]]
 <!-- graph:end -->

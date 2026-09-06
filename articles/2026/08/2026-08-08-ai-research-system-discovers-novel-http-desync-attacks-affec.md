@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-08-an-ai-research-system-discovered-novel-http-desync-attacks-a
 - 2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea
+- 2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that
 - 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
 - 2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu
-- 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 embedding_id: 2026-08-08-ai-research-system-discovers-novel-http-desync-attacks-affec
 event_name: ''
 ---
@@ -38,5 +38,5 @@ PortSwigger's James Kettle published HTTP Terminator, an autonomous AI research 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-08-an-ai-research-system-discovered-novel-http-desync-attacks-a]] · [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]]
+**Related:** [[2026-08-08-an-ai-research-system-discovered-novel-http-desync-attacks-a]] · [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu]]
 <!-- graph:end -->

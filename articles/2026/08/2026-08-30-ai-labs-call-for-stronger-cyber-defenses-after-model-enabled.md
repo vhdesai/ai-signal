@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk
+- 2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a
 - 2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
 - 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
-- 2026-08-03-google-s-report-is-one-of-the-strongest-production-scale-exa
 embedding_id: 2026-08-30-ai-labs-call-for-stronger-cyber-defenses-after-model-enabled
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Decrypt reported that AI labs are calling for stronger cyber defenses after demo
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]] · [[2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk]] · [[2026-08-03-google-s-report-is-one-of-the-strongest-production-scale-exa]]
+**Related:** [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]] · [[2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a]] · [[2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk]]
 <!-- graph:end -->

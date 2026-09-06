@@ -26,10 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
+- 2026-09-03-nvidia-agrees-to-buy-ai-platform-hugging-face-for-13b
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-08-27-nvidia-closes-in-on-12-9b-hugging-face-acquisition
 - 2026-09-03-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug
-- 2026-08-27-nvidia-agrees-to-buy-hugging-face-for-a-reported-12-9-billio
 embedding_id: 2026-08-26-daily-ai-news-digest-august-27-2026
 event_name: ''
 ---
@@ -43,5 +43,5 @@ The last 24 hours were dominated by capital and compute rather than models. Nvid
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-27-nvidia-closes-in-on-12-9b-hugging-face-acquisition]] · [[2026-09-03-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug]] · [[2026-08-27-nvidia-agrees-to-buy-hugging-face-for-a-reported-12-9-billio]]
+**Related:** [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-09-03-nvidia-agrees-to-buy-ai-platform-hugging-face-for-13b]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-27-nvidia-closes-in-on-12-9b-hugging-face-acquisition]] · [[2026-09-03-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug]]
 <!-- graph:end -->

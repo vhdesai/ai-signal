@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-29-openai-calls-for-collective-action-on-cyber-defense
+- 2026-09-04-openai-launches-plan-to-protect-critical-infrastructure-from
 - 2026-08-28-openai-warns-the-window-to-strengthen-cyber-defenses-is-clos
-- 2026-08-23-openai-executive-warns-of-ongoing-persistent-ai-driven-cyber
 embedding_id: 2026-08-30-openai-renews-call-for-collective-cyber-defense
 event_name: ''
 ---
@@ -36,5 +36,5 @@ OpenAI's call for collective cyber defense continued to surface in the last 24 h
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-29-openai-calls-for-collective-action-on-cyber-defense]] · [[2026-08-28-openai-warns-the-window-to-strengthen-cyber-defenses-is-clos]] · [[2026-08-23-openai-executive-warns-of-ongoing-persistent-ai-driven-cyber]]
+**Related:** [[2026-08-29-openai-calls-for-collective-action-on-cyber-defense]] · [[2026-09-04-openai-launches-plan-to-protect-critical-infrastructure-from]] · [[2026-08-28-openai-warns-the-window-to-strengthen-cyber-defenses-is-clos]]
 <!-- graph:end -->

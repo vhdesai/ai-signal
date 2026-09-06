@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-28-hugging-face-s-answer-to-dystopian-humanoid-robots
 - 2026-08-24-hugging-face-draws-m-a-interest
 - 2026-08-29-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion
-- 2026-08-27-hugging-face-launches-399-open-source-microduck-robot-for-ph
+- 2026-09-04-nvidia-s-hugging-face-deal-sharpens-debate-over-who-controls
 embedding_id: 2026-05-06-new-hugging-face-opens-reachy-mini-app-store-with-200-open-s
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Hugging Face launched the Reachy Mini App Store, a free, community-built marketp
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-08-27-hugging-face-opens-orders-for-microduck-a-399-open-source-ro]] · [[2026-08-28-hugging-face-s-answer-to-dystopian-humanoid-robots]] · [[2026-08-24-hugging-face-draws-m-a-interest]] · [[2026-08-29-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion]] · [[2026-08-27-hugging-face-launches-399-open-source-microduck-robot-for-ph]]
+**Related:** [[2026-08-27-hugging-face-opens-orders-for-microduck-a-399-open-source-ro]] · [[2026-08-28-hugging-face-s-answer-to-dystopian-humanoid-robots]] · [[2026-08-24-hugging-face-draws-m-a-interest]] · [[2026-08-29-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion]] · [[2026-09-04-nvidia-s-hugging-face-deal-sharpens-debate-over-who-controls]]
 <!-- graph:end -->

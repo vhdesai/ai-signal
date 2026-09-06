@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-23-nvidia-is-reportedly-spending-6-billion-to-build-a-u-s-alter
 - 2026-08-02-nvidia-linked-ai-infrastructure-spending-fuels-circular-fina
-- 2026-08-29-nvidia-wants-to-run-the-world-s-robots-and-china-is-an-eager
+- 2026-09-03-nvidia-agrees-to-buy-ai-platform-hugging-face-for-13b
 embedding_id: 2026-08-24-nvidia-is-reportedly-spending-6-billion-to-build-a-u-s-alter
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Wall Street Journal reported that Nvidia is spending $6 billion to build a p
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-23-nvidia-is-reportedly-spending-6-billion-to-build-a-u-s-alter]] · [[2026-08-02-nvidia-linked-ai-infrastructure-spending-fuels-circular-fina]] · [[2026-08-29-nvidia-wants-to-run-the-world-s-robots-and-china-is-an-eager]]
+**Related:** [[2026-08-23-nvidia-is-reportedly-spending-6-billion-to-build-a-u-s-alter]] · [[2026-08-02-nvidia-linked-ai-infrastructure-spending-fuels-circular-fina]] · [[2026-09-03-nvidia-agrees-to-buy-ai-platform-hugging-face-for-13b]]
 <!-- graph:end -->

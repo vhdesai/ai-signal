@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 97
+member_count: 101
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 97 connected article(s).
+> Auto-generated entity hub. 101 connected article(s).
 
+- `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
+- `2026-09-04` [[2026-09-04-citi-opens-30-day-upside-catalyst-watch-on-baidu-as-ai-infra|Citi opens 30-day upside catalyst watch on Baidu as AI infrastructure business grows]]
+- `2026-09-03` [[2026-09-03-u-s-government-backs-openai-s-fair-use-position-in-nyt-copyr|U.S. government backs OpenAI's fair-use position in NYT copyright case]]
+- `2026-09-03` [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai|Trending UC Berkeley’s Stuart Russell calls for a halt to AI weapons]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-02` [[2026-09-02-baidu-cfo-says-ai-could-soon-match-search-business-in-profit|Baidu CFO says AI could soon match search business in profit and cash returns]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]

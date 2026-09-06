@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-04-openai-launches-plan-to-protect-critical-infrastructure-from
 - 2026-08-30-openai-renews-call-for-collective-cyber-defense
 - 2026-08-17-openai-president-greg-brockman-to-publish-essay-on-ai-cybers
 - 2026-08-29-openai-calls-for-collective-action-on-cyber-defense
-- 2026-08-28-openai-warns-the-window-to-strengthen-cyber-defenses-is-clos
 embedding_id: 2026-08-28-openai-leads-new-call-for-cyberdefense-of-critical-infrastru
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI is leading an industry call for strengthened cyberdefense of critical inf
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-30-openai-renews-call-for-collective-cyber-defense]] · [[2026-08-17-openai-president-greg-brockman-to-publish-essay-on-ai-cybers]] · [[2026-08-29-openai-calls-for-collective-action-on-cyber-defense]] · [[2026-08-28-openai-warns-the-window-to-strengthen-cyber-defenses-is-clos]]
+**Related:** [[2026-09-04-openai-launches-plan-to-protect-critical-infrastructure-from]] · [[2026-08-30-openai-renews-call-for-collective-cyber-defense]] · [[2026-08-17-openai-president-greg-brockman-to-publish-essay-on-ai-cybers]] · [[2026-08-29-openai-calls-for-collective-action-on-cyber-defense]]
 <!-- graph:end -->

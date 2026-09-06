@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-13-lenovo-posts-record-26-9b-quarter-as-ai-related-revenue-jump
 - 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
 - 2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com
-- 2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele
+- 2026-09-05-foxconn-says-q3-should-beat-expectations-on-ai-strength
 embedding_id: 2026-08-13-lenovo-profits-soar-past-expectations-on-ai-computers-server
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Lenovo reported soaring profits that beat analyst expectations, driven by strong
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-13-lenovo-posts-record-26-9b-quarter-as-ai-related-revenue-jump]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]] · [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]]
+**Related:** [[2026-08-13-lenovo-posts-record-26-9b-quarter-as-ai-related-revenue-jump]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]] · [[2026-09-05-foxconn-says-q3-should-beat-expectations-on-ai-strength]]
 <!-- graph:end -->

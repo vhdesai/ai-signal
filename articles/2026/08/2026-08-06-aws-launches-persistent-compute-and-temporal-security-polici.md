@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-07-aws-details-how-cohere-health-digitizes-clinical-policies-us
+- 2026-09-04-aws-details-lifecycle-policies-for-long-running-agent-memory
 - 2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed
 - 2026-08-27-benchmarking-agent-sandboxes-cold-start-per-second-pricing-n
 - 2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon
-- 2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock
 embedding_id: 2026-08-06-aws-launches-persistent-compute-and-temporal-security-polici
 event_name: ''
 ---
@@ -39,5 +39,5 @@ AWS introduced two production-agent capabilities for Amazon Bedrock AgentCore: R
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-aws-details-how-cohere-health-digitizes-clinical-policies-us]] · [[2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed]] · [[2026-08-27-benchmarking-agent-sandboxes-cold-start-per-second-pricing-n]] · [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock]]
+**Related:** [[2026-08-07-aws-details-how-cohere-health-digitizes-clinical-policies-us]] · [[2026-09-04-aws-details-lifecycle-policies-for-long-running-agent-memory]] · [[2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed]] · [[2026-08-27-benchmarking-agent-sandboxes-cold-start-per-second-pricing-n]] · [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]]
 <!-- graph:end -->

@@ -24,6 +24,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-03-broadcom-s-custom-ai-chip-revenue-surges-221-to-16-7b-q4-gui
 - 2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru
 - 2026-09-02-broadcom-posts-record-quarter-on-custom-ai-accelerators-guid
 - 2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips
@@ -41,5 +42,5 @@ Broadcom reported sharply higher AI chip revenue and projected that its AI busin
 
 **Entities:** [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru]] · [[2026-09-02-broadcom-posts-record-quarter-on-custom-ai-accelerators-guid]] · [[2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips]] · [[2026-05-09-openai-s-18-billion-custom-ai-chip-initiative-with-broadcom]]
+**Related:** [[2026-09-03-broadcom-s-custom-ai-chip-revenue-surges-221-to-16-7b-q4-gui]] · [[2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru]] · [[2026-09-02-broadcom-posts-record-quarter-on-custom-ai-accelerators-guid]] · [[2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips]] · [[2026-05-09-openai-s-18-billion-custom-ai-chip-initiative-with-broadcom]]
 <!-- graph:end -->

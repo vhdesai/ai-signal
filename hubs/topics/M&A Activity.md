@@ -1,22 +1,43 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 430
+member_count: 451
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 430 connected article(s).
+> Auto-generated topic hub. 451 connected article(s).
 
+- `2026-09-05` [[2026-09-05-openai-will-reportedly-cut-off-models-for-spacex-owned-curso|OpenAI will reportedly cut off models for SpaceX-owned Cursor]]
+- `2026-09-05` [[2026-09-05-nvidia-s-hugging-face-deal-keeps-reshaping-the-open-model-su|Nvidia's Hugging Face deal keeps reshaping the open-model supply chain]]
+- `2026-09-04` [[2026-09-04-a16z-s-cursor-and-openrouter-investments-are-worth-more-than|a16z's Cursor and OpenRouter investments are worth more than $8 billion]]
 - `2026-09-04` [[2026-09-04-servicenow-buys-sweep-to-expand-agentic-crm-workflows|ServiceNow buys Sweep to expand agentic CRM workflows]]
+- `2026-09-04` [[2026-09-04-servicenow-acquires-israeli-agentic-crm-startup-sweep|ServiceNow Acquires Israeli Agentic-CRM Startup Sweep]]
+- `2026-09-04` [[2026-09-04-nvidia-s-hugging-face-deal-sharpens-debate-over-who-controls|Nvidia's Hugging Face deal sharpens debate over who controls open AI infrastructure]]
+- `2026-09-04` [[2026-09-04-nvidia-s-99b-equity-portfolio-turns-supplier-exposure-into-c|Nvidia's $99B equity portfolio turns supplier exposure into capital exposure]]
+- `2026-09-04` [[2026-09-04-nvidia-to-acquire-hugging-face-for-roughly-13-billion|Nvidia to acquire Hugging Face for roughly $13 billion]]
+- `2026-09-04` [[2026-09-04-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug|Nvidia agrees to roughly $13 billion deal for AI platform Hugging Face]]
 - `2026-09-04` [[2026-09-04-nvidia-agrees-to-buy-hugging-face-taking-control-of-a-key-op|Nvidia agrees to buy Hugging Face, taking control of a key open-model layer]]
 - `2026-09-04` [[2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control|Nvidia agrees to buy Hugging Face for $12.93B, taking control of the open-model layer]]
+- `2026-09-04` [[2026-09-04-business-insider-spotlights-lightmatter-as-optical-computing|Business Insider spotlights Lightmatter as optical computing gains executive attention]]
+- `2026-09-04` [[2026-09-04-anthropic-explores-bringing-payments-and-billing-infrastruct|Anthropic explores bringing payments and billing infrastructure in-house]]
+- `2026-09-04` [[2026-09-04-anthropic-explores-bringing-more-billing-and-payments-techno|Anthropic explores bringing more billing and payments technology in-house]]
+- `2026-09-04` [[2026-09-04-andreessen-horowitz-turns-cursor-and-openrouter-bets-into-an|Andreessen Horowitz turns Cursor and OpenRouter bets into an $8B AI win]]
+- `2026-09-03` [[2026-09-03-september-4-2026-the-information|[September 4, 2026] · The Information]]
+- `2026-09-03` [[2026-09-03-nvidia-to-acquire-hugging-face-for-12-93-billion-in-its-larg|Nvidia to Acquire Hugging Face for $12.93 Billion in Its Largest Deal Ever]]
+- `2026-09-03` [[2026-09-03-nvidia-confirms-12-9b-hugging-face-acquisition-huang-defends|Nvidia confirms $12.9B Hugging Face acquisition; Huang defends the price]]
 - `2026-09-03` [[2026-09-03-nvidia-confirms-12-9-billion-acquisition-of-hugging-face|Nvidia confirms $12.9 billion acquisition of Hugging Face]]
 - `2026-09-03` [[2026-09-03-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug|Nvidia agrees to roughly $13 billion deal for AI platform Hugging Face]]
 - `2026-09-03` [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13b-taking-aim-at-the|Nvidia agrees to buy Hugging Face for $13B, taking aim at the open-model layer]]
 - `2026-09-03` [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13-billion-taking-aim|Nvidia agrees to buy Hugging Face for $13 billion, taking aim at the open-model layer]]
 - `2026-09-03` [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13-billion|Nvidia agrees to buy Hugging Face for $13 billion]]
+- `2026-09-03` [[2026-09-03-nvidia-confirms-12-93b-acquisition-of-hugging-face|Nvidia Confirms $12.93B Acquisition of Hugging Face]]
+- `2026-09-03` [[2026-09-03-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion|Nvidia Agrees to Acquire Hugging Face for ~$12.9 Billion]]
 - `2026-09-03` [[2026-09-03-nvidia-agrees-to-acquire-hugging-face-for-nearly-13-billion|Nvidia Agrees to Acquire Hugging Face for Nearly $13 Billion]]
+- `2026-09-03` [[2026-09-03-new-pwc-and-palantir-expand-strategic-alliance-for-enterpris|New PwC and Palantir expand strategic alliance for enterprise AI]]
+- `2026-09-03` [[2026-09-03-nvidia-agrees-to-buy-ai-platform-hugging-face-for-13b|NVIDIA agrees to buy AI platform Hugging Face for $13B]]
+- `2026-09-03` [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va|Moonshot AI Files Confidentially for Hong Kong IPO at ~$50B Valuation]]
+- `2026-09-03` [[2026-09-03-hot-breaking-nvidia-confirms-12-93b-acquisition-of-hugging-f|Hot Breaking Nvidia confirms $12.93B acquisition of Hugging Face — its largest deal ever]]
 - `2026-09-02` [[2026-09-02-vertiv-to-acquire-utilityinnovation-group-to-shorten-time-to|Vertiv to acquire UtilityInnovation Group to shorten time-to-power for AI data centers]]
 - `2026-09-01` [[2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu|PitchBook: M&A, Not IPOs, Is Now the Default Exit for AI Startups Outside the Frontier Tier]]
 - `2026-09-01` [[2026-09-01-manus-resumes-independent-operations-after-china-blocks-meta|Manus Resumes Independent Operations After China Blocks Meta's ~$2B Acquisition]]

@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter
 - 2026-04-02-academic-research
 - 2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta
-- 2026-08-03-chatgpt-s-reported-dominance-in-identifiable-house-spending
-- 2026-08-16-bot-meets-bot-the-rise-of-ai-to-ai-interaction-loops
+- 2026-09-05-campaigns-continue-using-ai-generated-ads-despite-chatgpt-re
+- 2026-09-04-study-generative-ai-succumbs-to-conversational-misinformed-p
 embedding_id: 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Cornell researchers released data from press releases circulated May 10–11 sho
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter]] · [[2026-04-02-academic-research]] · [[2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta]] · [[2026-08-03-chatgpt-s-reported-dominance-in-identifiable-house-spending]] · [[2026-08-16-bot-meets-bot-the-rise-of-ai-to-ai-interaction-loops]]
+**Related:** [[2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter]] · [[2026-04-02-academic-research]] · [[2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta]] · [[2026-09-05-campaigns-continue-using-ai-generated-ads-despite-chatgpt-re]] · [[2026-09-04-study-generative-ai-succumbs-to-conversational-misinformed-p]]
 <!-- graph:end -->

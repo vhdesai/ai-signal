@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-03-broadcom-s-custom-ai-chip-revenue-surges-221-to-16-7b-q4-gui
 - 2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai
 - 2026-09-02-broadcom-posts-record-quarter-on-custom-ai-accelerators-guid
 - 2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru
 - 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a
-- 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
 embedding_id: 2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Information reported on Broadcom's strategic moves to boost AI chip demand f
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai]] · [[2026-09-02-broadcom-posts-record-quarter-on-custom-ai-accelerators-guid]] · [[2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru]] · [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]]
+**Related:** [[2026-09-03-broadcom-s-custom-ai-chip-revenue-surges-221-to-16-7b-q4-gui]] · [[2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai]] · [[2026-09-02-broadcom-posts-record-quarter-on-custom-ai-accelerators-guid]] · [[2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru]] · [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a]]
 <!-- graph:end -->

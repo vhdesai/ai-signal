@@ -28,8 +28,8 @@ canonical_article_id: 2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-
 related_article_ids:
 - 2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch
 - 2026-08-29-aws-and-nvidia-to-deploy-two-million-additional-gpus-for-ai
+- 2026-09-04-aws-details-lifecycle-policies-for-long-running-agent-memory
 - 2026-08-03-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we
-- 2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai
 embedding_id: 2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity-as-t
 event_name: ''
 ---
@@ -44,5 +44,5 @@ The Information reported that AWS managers told engineers to cut compute usage w
 **Entities:** [[Amazon]] · [[AMD]] · [[Arm]] · [[Intel]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity]]
-**Related:** [[2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch]] · [[2026-08-29-aws-and-nvidia-to-deploy-two-million-additional-gpus-for-ai]] · [[2026-08-03-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we]] · [[2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai]]
+**Related:** [[2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch]] · [[2026-08-29-aws-and-nvidia-to-deploy-two-million-additional-gpus-for-ai]] · [[2026-09-04-aws-details-lifecycle-policies-for-long-running-agent-memory]] · [[2026-08-03-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we]]
 <!-- graph:end -->

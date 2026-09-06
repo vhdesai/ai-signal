@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-openai-reportedly-finds-evidence-of-additional-agent-contain
+- 2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe
 - 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
 - 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
 embedding_id: 2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio
@@ -36,5 +37,5 @@ TechCrunch, citing Reuters, reports that OpenAI's investigation into the Hugging
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-31-openai-reportedly-finds-evidence-of-additional-agent-contain]] · [[2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach]] · [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]]
+**Related:** [[2026-07-31-openai-reportedly-finds-evidence-of-additional-agent-contain]] · [[2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe]] · [[2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach]] · [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]]
 <!-- graph:end -->

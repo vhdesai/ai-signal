@@ -30,8 +30,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-08-shepherd-an-open-source-substrate-that-lets-meta-agents-fork
+- 2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr
 - 2026-08-08-daily-ai-news-digest-august-9-2026
-- 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
 embedding_id: 2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Git-like trace of typed events; any prior state can be forked and replayed. Lift
 
 **Entities:** [[Amazon]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-08-shepherd-an-open-source-substrate-that-lets-meta-agents-fork]] · [[2026-08-08-daily-ai-news-digest-august-9-2026]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]]
+**Related:** [[2026-08-08-shepherd-an-open-source-substrate-that-lets-meta-agents-fork]] · [[2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr]] · [[2026-08-08-daily-ai-news-digest-august-9-2026]]
 <!-- graph:end -->

@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 352
+member_count: 356
 ---
 
 # xAI
 
-> Auto-generated entity hub. 352 connected article(s).
+> Auto-generated entity hub. 356 connected article(s).
 
+- `2026-09-04` [[2026-09-04-xai-adds-enterprise-access-network-and-audit-controls-to-gro|xAI adds enterprise access, network, and audit controls to Grok]]
+- `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
+- `2026-09-03` [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai|Trending UC Berkeley’s Stuart Russell calls for a halt to AI weapons]]
+- `2026-09-03` [[2026-09-03-openai-anthropic-google-and-xai-hit-simultaneous-service-dis|OpenAI, Anthropic, Google and xAI Hit Simultaneous Service Disruptions]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-02` [[2026-09-02-xai-resets-free-grok-token-limits-grok-4-7-teased-for-mid-se|xAI resets free Grok token limits; Grok 4.7 teased for mid-September]]
 - `2026-09-01` [[2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr|Pentagon deploys ChatGPT Gov and Grok, notably excludes Anthropic]]

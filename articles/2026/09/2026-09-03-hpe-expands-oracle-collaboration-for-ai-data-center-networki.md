@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-04-oracle-rallies-as-expanded-hpe-networking-deal-boosts-ai-inf
 - 2026-05-04-ibm-oracle-expanded-partnership-for-ai-and-cloud-modernizati
 - 2026-08-03-xsight-labs-is-a-reminder-that-networking-silicon-is-becomin
 - 2026-07-18-oracle-data-centers-reportedly-face-multibillion-dollar-cost
 - 2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers
-- 2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu
 embedding_id: 2026-09-03-hpe-expands-oracle-collaboration-for-ai-data-center-networki
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Engineering.com reports that HPE expanded collaboration with Oracle around AI da
 
 **Entities:** [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-04-ibm-oracle-expanded-partnership-for-ai-and-cloud-modernizati]] · [[2026-08-03-xsight-labs-is-a-reminder-that-networking-silicon-is-becomin]] · [[2026-07-18-oracle-data-centers-reportedly-face-multibillion-dollar-cost]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu]]
+**Related:** [[2026-09-04-oracle-rallies-as-expanded-hpe-networking-deal-boosts-ai-inf]] · [[2026-05-04-ibm-oracle-expanded-partnership-for-ai-and-cloud-modernizati]] · [[2026-08-03-xsight-labs-is-a-reminder-that-networking-silicon-is-becomin]] · [[2026-07-18-oracle-data-centers-reportedly-face-multibillion-dollar-cost]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]]
 <!-- graph:end -->

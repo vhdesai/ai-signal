@@ -19,12 +19,9 @@ entities:
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development
-- 2026-08-10-house-democrats-press-for-openai-and-anthropic-ceos-to-testi
-- 2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri
+dedupe_status: duplicate
+canonical_article_id: 2026-09-03-sanders-and-casar-introduce-a-bill-to-permanently-ban-artifi
+related_article_ids: []
 embedding_id: 2026-09-03-sanders-and-casar-propose-a-u-s-ban-on-artificial-superintel
 event_name: ''
 ---
@@ -38,5 +35,5 @@ Senator Bernie Sanders and Representative Greg Casar proposed federal legislatio
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development]] · [[2026-08-10-house-democrats-press-for-openai-and-anthropic-ceos-to-testi]] · [[2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri]]
+**Canonical:** [[2026-09-03-sanders-and-casar-introduce-a-bill-to-permanently-ban-artifi]]
 <!-- graph:end -->

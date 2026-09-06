@@ -1,15 +1,25 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 168
+member_count: 178
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 168 connected article(s).
+> Auto-generated entity hub. 178 connected article(s).
 
+- `2026-09-04` [[2026-09-04-what-s-new-in-oracle-ai-september-2026-edition|What's New in Oracle AI? September 2026 Edition]]
+- `2026-09-04` [[2026-09-04-securing-data-against-ai-enabled-attacks-how-oracle-protects|Securing data against AI-enabled attacks: How Oracle protects the database estate at the source]]
+- `2026-09-04` [[2026-09-04-oracle-rallies-as-expanded-hpe-networking-deal-boosts-ai-inf|Oracle rallies as expanded HPE networking deal boosts AI infrastructure push]]
+- `2026-09-04` [[2026-09-04-oracle-expands-oci-enterprise-ai-model-catalog-in-its-septem|Oracle expands OCI Enterprise AI model catalog in its September update]]
+- `2026-09-04` [[2026-09-04-oracle-emphasizes-securing-database-estates-against-ai-enabl|Oracle emphasizes securing database estates against AI-enabled attacks]]
+- `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
+- `2026-09-03` [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai|Trending UC Berkeley’s Stuart Russell calls for a halt to AI weapons]]
+- `2026-09-03` [[2026-09-03-trending-oracle-closes-up-5-7-on-ai-infrastructure-demand|Trending Oracle closes up 5.7% on AI-infrastructure demand]]
 - `2026-09-03` [[2026-09-03-hpe-expands-oracle-collaboration-for-ai-data-center-networki|HPE expands Oracle collaboration for AI data center networking]]
+- `2026-09-03` [[2026-09-03-crusoe-reportedly-raises-3-billion-at-a-30-billion-valuation|Crusoe reportedly raises $3 billion at a $30 billion valuation]]
 - `2026-09-03` [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-jane-street-ai-clo|Crusoe raises $3B at a $30B valuation after Jane Street AI cloud contract]]
+- `2026-09-03` [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-13b-jane-street-co|Crusoe Raises $3B at a $30B Valuation After $13B Jane Street Contract]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-02` [[2026-09-02-build-ai-skills-with-new-ai-powered-learning-experiences|Build AI skills with new AI-powered learning experiences]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]

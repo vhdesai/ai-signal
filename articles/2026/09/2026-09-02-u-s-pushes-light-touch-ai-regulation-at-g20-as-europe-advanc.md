@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-01-u-s-pushes-g20-toward-light-touch-ai-regulation-under-the-ca
+- 2026-09-03-g20-endorses-us-backed-carolina-principles-for-sector-based
+- 2026-09-03-g20-endorses-non-binding-carolina-principles-for-light-touch
 - 2026-09-02-at-the-g20-the-us-pushes-lighter-ai-regulation-as-the-eu-adv
-- 2026-09-03-g20-endorses-u-s-backed-carolina-principles-for-sector-based
-- 2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private
 embedding_id: 2026-09-02-u-s-pushes-light-touch-ai-regulation-at-g20-as-europe-advanc
 event_name: ''
 ---
@@ -41,5 +41,5 @@ At the G20 Innovation Ministerial in Chapel Hill, U.S. officials urged other gov
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[OpenAI]] · [[Perplexity]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-01-u-s-pushes-g20-toward-light-touch-ai-regulation-under-the-ca]] · [[2026-09-02-at-the-g20-the-us-pushes-lighter-ai-regulation-as-the-eu-adv]] · [[2026-09-03-g20-endorses-u-s-backed-carolina-principles-for-sector-based]] · [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private]]
+**Related:** [[2026-09-01-u-s-pushes-g20-toward-light-touch-ai-regulation-under-the-ca]] · [[2026-09-03-g20-endorses-us-backed-carolina-principles-for-sector-based]] · [[2026-09-03-g20-endorses-non-binding-carolina-principles-for-light-touch]] · [[2026-09-02-at-the-g20-the-us-pushes-lighter-ai-regulation-as-the-eu-adv]]
 <!-- graph:end -->

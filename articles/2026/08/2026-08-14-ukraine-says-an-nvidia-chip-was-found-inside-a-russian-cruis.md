@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-14-ukraine-says-nvidia-chip-found-in-russian-cruise-missile
 - 2026-08-14-ukraine-says-nvidia-chip-found-inside-a-russian-cruise-missi
 - 2026-08-24-ukraine-says-a-fully-autonomous-russian-ai-drone-killed-thre
-- 2026-08-20-nvidia-denies-report-it-will-ship-a-china-specific-ai-chip-b
-- 2026-08-22-nvidia-denies-it-will-ship-a-china-specific-ai-chip-by-year
+- 2026-09-05-wsj-reports-u-s-used-promise-of-nvidia-chips-in-armenia-azer
+- 2026-09-04-u-s-uses-promise-of-nvidia-chips-in-armenia-azerbaijan-peace
 embedding_id: 2026-08-14-ukraine-says-an-nvidia-chip-was-found-inside-a-russian-cruis
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Ukrainian officials reported recovering an Nvidia chip from a Russian cruise mis
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-14-ukraine-says-nvidia-chip-found-in-russian-cruise-missile]] · [[2026-08-14-ukraine-says-nvidia-chip-found-inside-a-russian-cruise-missi]] · [[2026-08-24-ukraine-says-a-fully-autonomous-russian-ai-drone-killed-thre]] · [[2026-08-20-nvidia-denies-report-it-will-ship-a-china-specific-ai-chip-b]] · [[2026-08-22-nvidia-denies-it-will-ship-a-china-specific-ai-chip-by-year]]
+**Related:** [[2026-08-14-ukraine-says-nvidia-chip-found-in-russian-cruise-missile]] · [[2026-08-14-ukraine-says-nvidia-chip-found-inside-a-russian-cruise-missi]] · [[2026-08-24-ukraine-says-a-fully-autonomous-russian-ai-drone-killed-thre]] · [[2026-09-05-wsj-reports-u-s-used-promise-of-nvidia-chips-in-armenia-azer]] · [[2026-09-04-u-s-uses-promise-of-nvidia-chips-in-armenia-azerbaijan-peace]]
 <!-- graph:end -->

@@ -25,6 +25,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-31-nvidia-invests-3-5b-in-mediatek-and-extends-nvlink-fusion-to
 related_article_ids:
 - 2026-09-01-nvidia-invests-3-5b-in-mediatek-and-opens-nvlink-fusion-to-c
+- 2026-09-03-nvidia-commits-3-5b-to-mediatek-to-extend-nvlink-fusion-into
 embedding_id: 2026-08-31-nvidia-invests-3-5b-in-mediatek-and-opens-nvlink-fusion-to-c
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Nvidia is investing $3.5 billion in MediaTek convertible bonds and extending its
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-31-nvidia-invests-3-5b-in-mediatek-and-extends-nvlink-fusion-to]]
-**Related:** [[2026-09-01-nvidia-invests-3-5b-in-mediatek-and-opens-nvlink-fusion-to-c]]
+**Related:** [[2026-09-01-nvidia-invests-3-5b-in-mediatek-and-opens-nvlink-fusion-to-c]] · [[2026-09-03-nvidia-commits-3-5b-to-mediatek-to-extend-nvlink-fusion-into]]
 <!-- graph:end -->

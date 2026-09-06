@@ -1,23 +1,44 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1005
+member_count: 1026
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1005 connected article(s).
+> Auto-generated topic hub. 1026 connected article(s).
 
+- `2026-09-04` [[2026-09-04-xdof-is-reportedly-in-talks-for-a-series-b-at-a-1-2-billion|XDOF is reportedly in talks for a Series B at a $1.2 billion valuation]]
 - `2026-09-04` [[2026-09-04-nvidia-discusses-2-5b-investment-in-mira-murati-s-thinking-m|Nvidia discusses $2.5B investment in Mira Murati's Thinking Machines Lab]]
+- `2026-09-04` [[2026-09-04-nscale-seeks-about-3-5-billion-in-pre-ipo-financing|Nscale seeks about $3.5 billion in pre-IPO financing]]
+- `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-on-the-back-of-a-45b|Nscale seeks $3.5B in pre-IPO financing on the back of a $45B Anthropic deal]]
+- `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-anthropic-compu|Nscale seeks $3.5B in pre-IPO financing after Anthropic compute deal]]
+- `2026-09-04` [[2026-09-04-nscale-reportedly-seeks-3-5b-ahead-of-a-potential-ipo|Nscale reportedly seeks $3.5B ahead of a potential IPO]]
+- `2026-09-04` [[2026-09-04-nscale-reportedly-seeks-3-5-billion-ahead-of-a-possible-ipo|Nscale reportedly seeks $3.5 billion ahead of a possible IPO]]
+- `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-45b-anthropic-d|Nscale Seeks $3.5B in Pre-IPO Financing After $45B Anthropic Deal]]
 - `2026-09-04` [[2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-a-50|Moonshot AI files confidentially for Hong Kong IPO near a $50 billion valuation]]
 - `2026-09-04` [[2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-50b|Moonshot AI files confidentially for Hong Kong IPO near $50B valuation]]
+- `2026-09-04` [[2026-09-04-gimlet-labs-raises-300m-for-disaggregated-multi-silicon-infe|Gimlet Labs raises $300M for disaggregated multi-silicon inference]]
+- `2026-09-04` [[2026-09-04-gimlet-labs-raises-300m-series-b-at-a-3b-valuation-for-multi|Gimlet Labs Raises $300M Series B at a $3B Valuation for Multi-Silicon Inference]]
+- `2026-09-04` [[2026-09-04-berkeley-founded-xdof-reportedly-discusses-1-2b-valuation-fo|Berkeley-founded XDOF reportedly discusses $1.2B valuation for robot-training data]]
+- `2026-09-04` [[2026-09-04-berkeley-founded-xdof-discusses-a-1-2b-valuation-for-robot-t|Berkeley-Founded XDOF Discusses a $1.2B Valuation for Robot Training Data]]
+- `2026-09-04` [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing|AI compute provider Nscale seeks $3.5B in pre-IPO financing]]
+- `2026-09-03` [[2026-09-03-trending-moonshot-ai-confidentially-files-for-hong-kong-ipo|Trending Moonshot AI confidentially files for Hong Kong IPO at roughly $50B]]
 - `2026-09-03` [[2026-09-03-sivers-commits-30m-to-expand-indium-phosphide-laser-producti|Sivers Commits $30M to Expand Indium Phosphide Laser Production in Glasgow]]
 - `2026-09-03` [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va|Moonshot AI Files Confidentially for Hong Kong IPO at ~$50B Valuation]]
+- `2026-09-03` [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-roughl|Moonshot AI Files Confidentially for Hong Kong IPO at Roughly $50B Valuation]]
+- `2026-09-03` [[2026-09-03-meta-works-on-action-gates-and-credential-isolation-before-h|Meta works on action gates and credential isolation before Hatch launches]]
+- `2026-09-03` [[2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr|Meta tests safeguards to keep its upcoming Hatch AI agent from going rogue]]
 - `2026-09-03` [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private|Mark Zuckerberg opposed a national AI regulator in a private call with Trump]]
 - `2026-09-03` [[2026-09-03-liteon-invests-176m-for-25-of-liquid-cooling-specialist-dcx|LITEON Invests $176M for 25% of Liquid-Cooling Specialist DCX]]
+- `2026-09-03` [[2026-09-03-crusoe-reportedly-raises-3b-at-a-30b-valuation|Crusoe reportedly raises $3B at a $30B valuation]]
+- `2026-09-03` [[2026-09-03-crusoe-reportedly-raises-3-billion-at-a-30-billion-valuation|Crusoe reportedly raises $3 billion at a $30 billion valuation]]
+- `2026-09-03` [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-tripling-in-ten-months|Crusoe raises $3B at a $30B valuation, tripling in ten months]]
 - `2026-09-03` [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-jane-street-ai-clo|Crusoe raises $3B at a $30B valuation after Jane Street AI cloud contract]]
 - `2026-09-03` [[2026-09-03-crusoe-raises-3-billion-at-a-30-billion-valuation-after-jane|Crusoe raises $3 billion at a $30 billion valuation after Jane Street AI cloud contract]]
+- `2026-09-03` [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-13b-jane-street-co|Crusoe Raises $3B at a $30B Valuation After $13B Jane Street Contract]]
 - `2026-09-03` [[2026-09-03-china-s-moonshot-ai-confidentially-filed-for-a-hong-kong-ipo|China's Moonshot AI confidentially filed for a Hong Kong IPO]]
+- `2026-09-03` [[2026-09-03-accel-reportedly-in-talks-to-lead-1b-round-for-thinking-mach|Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation]]
 - `2026-09-02` [[2026-09-02-ipronics-raises-125m-with-nvidia-participation-for-optical-a|iPronics raises $125M with NVIDIA participation for optical AI networking]]
 - `2026-09-02` [[2026-09-02-ipronics-raises-125-million-for-programmable-optical-network|iPronics raises $125 million for programmable optical networking, with Nvidia participating]]
 - `2026-09-02` [[2026-09-02-ipronics-raises-125m-with-nvidia-participating-for-programma|iPronics Raises $125M, With Nvidia Participating, for Programmable Optical Networking]]

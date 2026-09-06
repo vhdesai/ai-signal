@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 - 2026-04-02-academic-research
+- 2026-09-05-data-center-backlash-becomes-a-midterm-political-issue
 - 2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac
 - 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
-- 2026-08-16-bot-meets-bot-the-rise-of-ai-to-ai-interaction-loops
 embedding_id: 2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter
 event_name: ''
 ---
@@ -36,5 +36,5 @@ NBC News reports that AI chatbots frequently answered voting-related questions i
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-04-02-academic-research]] · [[2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac]] · [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]] · [[2026-08-16-bot-meets-bot-the-rise-of-ai-to-ai-interaction-loops]]
+**Related:** [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-04-02-academic-research]] · [[2026-09-05-data-center-backlash-becomes-a-midterm-political-issue]] · [[2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac]] · [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]]
 <!-- graph:end -->

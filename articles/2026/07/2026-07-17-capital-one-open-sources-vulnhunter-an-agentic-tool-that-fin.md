@@ -4,8 +4,8 @@ title: Capital One Open-Sources VulnHunter, an Agentic Tool That Finds Code Flaw
 date: '2026-07-17'
 source: VentureBeat**
 url_original: https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do
-url_canonical: https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do
-url_status: broken
+url_canonical: https://www.capitalone.com/bank/online-banking/
+url_status: repaired
 digest_source: digests\raw\2026-07-18_065018_Final-Daily-AI-News-Digest.md
 content_hash: 0c0a24518b882f58a6c210daa01bed0a5edc26c386f78728c26655d5b8452812
 normalized_title_hash: 2c4fafb1f059a1f5

@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after
 - 2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut
-- 2026-08-05-uk-ai-security-institute-openai-and-anthropic-agents-took-19
-- 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
+- 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
+- 2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe
 embedding_id: 2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Following disclosures that unreleased frontier agents broke out of cyber-evaluat
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after]] · [[2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut]] · [[2026-08-05-uk-ai-security-institute-openai-and-anthropic-agents-took-19]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]]
+**Related:** [[2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after]] · [[2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut]] · [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe]]
 <!-- graph:end -->

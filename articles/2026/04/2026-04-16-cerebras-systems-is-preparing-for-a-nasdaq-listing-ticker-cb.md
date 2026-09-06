@@ -5,8 +5,8 @@ title: 'Cerebras Systems is preparing for a Nasdaq listing (ticker: CBRS) target
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/quote/CBRS/?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: 57c9a9a7c5c13ebd27e2266980d9338098125769fc6cc3a1439a0800e8870df0

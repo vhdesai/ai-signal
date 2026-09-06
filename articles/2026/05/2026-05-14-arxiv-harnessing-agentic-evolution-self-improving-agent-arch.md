@@ -5,8 +5,8 @@ title: '[arXiv] Harnessing Agentic Evolution: Self-Improving Agent Architectures
 date: '2026-05-14'
 source: arXiv:2605.13821  · cs.AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://info.arxiv.org/about/index.html
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 978dff202e97a01dab72eb1b3c0ca4315daf98346abc9cedb3403e48576456d2

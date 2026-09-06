@@ -4,8 +4,8 @@ title: Cerebras Stages Largest US Tech IPO of 2026, Stock Surges 68% on Debut
 date: '2026-05-15'
 source: PitchBook News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/quote/CBRS/?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: 0a146f6da7c0f0385971bfdcee59855a2e57341b1d07474d56967c05e775921e

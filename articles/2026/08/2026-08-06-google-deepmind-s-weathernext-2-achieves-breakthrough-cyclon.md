@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-06-google-deepmind-s-weathernext-2-sets-state-of-the-art-in-ai
 - 2026-08-06-google-deepmind-weathernext-improves-cyclone-forecasting-lea
+- 2026-09-03-new-trending-google-deepmind-introduces-weathernext-3-with-h
 - 2026-09-03-google-deepmind-releases-weathernext-3-with-higher-resolutio
-- 2026-05-27-weathernext-aids-national-hurricane-center-on-hurricane-meli
-- 2026-05-22-at-google-i-o-2026-deepmind-ceo-demis-hassabis-showcased-how
+- 2026-09-03-google-deepmind-releases-weathernext-3-with-hourly-5-km-fore
 embedding_id: 2026-08-06-google-deepmind-s-weathernext-2-achieves-breakthrough-cyclon
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google DeepMind published a Nature paper showing its WeatherNext 2 model achieve
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-06-google-deepmind-s-weathernext-2-sets-state-of-the-art-in-ai]] · [[2026-08-06-google-deepmind-weathernext-improves-cyclone-forecasting-lea]] · [[2026-09-03-google-deepmind-releases-weathernext-3-with-higher-resolutio]] · [[2026-05-27-weathernext-aids-national-hurricane-center-on-hurricane-meli]] · [[2026-05-22-at-google-i-o-2026-deepmind-ceo-demis-hassabis-showcased-how]]
+**Related:** [[2026-08-06-google-deepmind-s-weathernext-2-sets-state-of-the-art-in-ai]] · [[2026-08-06-google-deepmind-weathernext-improves-cyclone-forecasting-lea]] · [[2026-09-03-new-trending-google-deepmind-introduces-weathernext-3-with-h]] · [[2026-09-03-google-deepmind-releases-weathernext-3-with-higher-resolutio]] · [[2026-09-03-google-deepmind-releases-weathernext-3-with-hourly-5-km-fore]]
 <!-- graph:end -->

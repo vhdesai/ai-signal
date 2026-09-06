@@ -45,8 +45,8 @@ related_article_ids:
 - 2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall
 - 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
 - 2026-08-30-business-insider-reported-that-sony-and-warner-chappell-accu
-- 2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio
-- 2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil
+- 2026-09-03-justice-department-backs-openai-and-microsoft-s-fair-use-def
+- 2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai
 embedding_id: 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
 event_name: ''
 ---
@@ -60,5 +60,5 @@ The lawsuit alleging Mark Zuckerberg personally authorized copyright infringemen
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-08-30-business-insider-reported-that-sony-and-warner-chappell-accu]] · [[2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio]] · [[2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil]]
+**Related:** [[2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-08-30-business-insider-reported-that-sony-and-warner-chappell-accu]] · [[2026-09-03-justice-department-backs-openai-and-microsoft-s-fair-use-def]] · [[2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai]]
 <!-- graph:end -->

@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 161
+member_count: 164
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 161 connected article(s).
+> Auto-generated entity hub. 164 connected article(s).
 
+- `2026-09-05` [[2026-09-05-cerebras-surges-12-on-finland-data-center-news-and-revenue-b|Cerebras surges 12% on Finland data-center news and revenue beat]]
+- `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
+- `2026-09-03` [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai|Trending UC Berkeley’s Stuart Russell calls for a halt to AI weapons]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-02` [[2026-09-02-cerebras-breaks-ground-on-a-165mw-data-center-in-mikkeli-fin|Cerebras breaks ground on a 165MW data center in Mikkeli, Finland]]
 - `2026-09-02` [[2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da|Cerebras and Compute Nordic Finland announce new 165MW AI data centre in Mikkeli, Finland]]

@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Scale AI
-member_count: 41
+member_count: 42
 ---
 
 # Scale AI
 
-> Auto-generated entity hub. 41 connected article(s).
+> Auto-generated entity hub. 42 connected article(s).
 
+- `2026-09-04` [[2026-09-04-microsoft-unveils-project-zenith-for-local-frontier-scale-ai|Microsoft Unveils "Project Zenith" for Local Frontier-Scale AI Development]]
 - `2026-08-31` [[2026-08-31-nvidia-invests-3-5-billion-in-mediatek-and-deepens-its-ai-in|Nvidia invests $3.5 billion in MediaTek and deepens its AI infrastructure partnership]]
 - `2026-08-31` [[2026-08-31-nvidia-invests-3-5b-in-mediatek-deepens-ai-infrastructure-pa|Nvidia Invests $3.5B in MediaTek, Deepens AI Infrastructure Partnership]]
 - `2026-08-31` [[2026-08-31-nvidia-invests-3-5b-in-mediatek-convertible-bonds-deepens-ai|Nvidia Invests $3.5B in MediaTek Convertible Bonds, Deepens AI Infrastructure Partnership]]

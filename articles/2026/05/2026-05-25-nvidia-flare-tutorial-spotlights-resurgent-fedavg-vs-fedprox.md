@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-03-sparks-fly-nvidia-accelerates-local-ai-at-ifa-2026
+- 2026-09-04-nvidia-s-hugging-face-deal-sharpens-debate-over-who-controls
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-08-29-nvidia-developer-updates-point-to-local-tensorrt-llm-deploym
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
-- 2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr
-- 2026-08-21-nvidia-in-talks-to-invest-in-data-center-power-developer-clo
 embedding_id: 2026-05-25-nvidia-flare-tutorial-spotlights-resurgent-fedavg-vs-fedprox
 event_name: ''
 ---
@@ -39,5 +39,5 @@ MarkTechPost published a hands-on guide comparing FedAvg and FedProx federated-l
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-08-29-nvidia-developer-updates-point-to-local-tensorrt-llm-deploym]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr]] · [[2026-08-21-nvidia-in-talks-to-invest-in-data-center-power-developer-clo]]
+**Related:** [[2026-09-03-sparks-fly-nvidia-accelerates-local-ai-at-ifa-2026]] · [[2026-09-04-nvidia-s-hugging-face-deal-sharpens-debate-over-who-controls]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-08-29-nvidia-developer-updates-point-to-local-tensorrt-llm-deploym]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]]
 <!-- graph:end -->

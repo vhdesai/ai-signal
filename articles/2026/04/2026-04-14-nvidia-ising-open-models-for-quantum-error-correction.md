@@ -4,8 +4,8 @@ title: NVIDIA "Ising" Open Models for Quantum Error Correction
 date: '2026-04-14'
 source: NVIDIA / The AI Track
 url_original: null
-url_canonical: http://www.nvidia.com/page/home.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 457f8b566d3ef8c2a5bef103b51e89e9d984ceddc18f517e29266026723d55d2

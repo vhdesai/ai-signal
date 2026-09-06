@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-05-nvidia-ships-nemotron-3-ultra-largest-u-s-open-weights-reaso
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
+- 2026-09-03-nvidia-reports-a-550b-coding-model-outscoring-the-top-human
 - 2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens
 - 2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet
-- 2026-08-11-nvidia-is-developing-a-1-trillion-parameter-nemotron-4-open
 embedding_id: 2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Nvidia's Nemotron 3 Ultra — a 550B-parameter MoE (~55B active) with a 1M-token
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-05-nvidia-ships-nemotron-3-ultra-largest-u-s-open-weights-reaso]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]] · [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]] · [[2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet]] · [[2026-08-11-nvidia-is-developing-a-1-trillion-parameter-nemotron-4-open]]
+**Related:** [[2026-06-05-nvidia-ships-nemotron-3-ultra-largest-u-s-open-weights-reaso]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]] · [[2026-09-03-nvidia-reports-a-550b-coding-model-outscoring-the-top-human]] · [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]] · [[2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet]]
 <!-- graph:end -->

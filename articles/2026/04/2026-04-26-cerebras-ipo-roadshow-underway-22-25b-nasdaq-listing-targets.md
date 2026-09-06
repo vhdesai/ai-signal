@@ -5,7 +5,7 @@ title: 'Cerebras IPO Roadshow Underway: $22–25B Nasdaq Listing Targets Mid-May
 date: '2026-04-26'
 source: Stock Maven
 url_original: null
-url_canonical: https://www.google.com/finance/quote/CBRS:NASDAQ
+url_canonical: https://stockanalysis.com/stocks/cbrs/
 url_status: repaired
 digest_source: digests\raw\2026-04-28_072402_Inbox_Daily AI News Digest – April 28,
   2026.md

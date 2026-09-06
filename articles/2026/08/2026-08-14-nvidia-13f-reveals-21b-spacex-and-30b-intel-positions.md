@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-nvidia-s-13f-reveals-21b-spacex-and-30b-intel-equity-positio
 - 2026-08-14-nvidia-s-13f-reveals-a-21b-spacex-stake-and-30b-intel-positi
+- 2026-09-04-nvidia-s-99b-equity-portfolio-turns-supplier-exposure-into-c
 - 2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99b
 - 2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99-billion
-- 2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin
 embedding_id: 2026-08-14-nvidia-13f-reveals-21b-spacex-and-30b-intel-positions
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Nvidia’s 13F disclosed a $20.98B SpaceX stake and $29.99B Intel position as of
 
 **Entities:** [[Intel]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-14-nvidia-s-13f-reveals-21b-spacex-and-30b-intel-equity-positio]] · [[2026-08-14-nvidia-s-13f-reveals-a-21b-spacex-stake-and-30b-intel-positi]] · [[2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99b]] · [[2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99-billion]] · [[2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin]]
+**Related:** [[2026-08-14-nvidia-s-13f-reveals-21b-spacex-and-30b-intel-equity-positio]] · [[2026-08-14-nvidia-s-13f-reveals-a-21b-spacex-stake-and-30b-intel-positi]] · [[2026-09-04-nvidia-s-99b-equity-portfolio-turns-supplier-exposure-into-c]] · [[2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99b]] · [[2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99-billion]]
 <!-- graph:end -->

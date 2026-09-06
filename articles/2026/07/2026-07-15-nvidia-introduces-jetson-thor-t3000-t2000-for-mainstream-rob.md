@@ -27,9 +27,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development
 - 2026-08-25-nvidia-unveils-jetson-orin-nano-2-for-entry-level-edge-ai-an
+- 2026-09-04-nvidia-shows-how-frontier-reasoning-models-can-run-on-jetson
 - 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
 - 2026-05-22-nvidia-sweeps-computex-2026-best-choice-awards-vera-rubin-nv
-- 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
 embedding_id: 2026-07-15-nvidia-introduces-jetson-thor-t3000-t2000-for-mainstream-rob
 event_name: ''
 ---
@@ -43,5 +43,5 @@ NVIDIA launched the Blackwell-based Jetson T3000 and T2000 modules to bring foun
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development]] · [[2026-08-25-nvidia-unveils-jetson-orin-nano-2-for-entry-level-edge-ai-an]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[2026-05-22-nvidia-sweeps-computex-2026-best-choice-awards-vera-rubin-nv]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]]
+**Related:** [[2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development]] · [[2026-08-25-nvidia-unveils-jetson-orin-nano-2-for-entry-level-edge-ai-an]] · [[2026-09-04-nvidia-shows-how-frontier-reasoning-models-can-run-on-jetson]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[2026-05-22-nvidia-sweeps-computex-2026-best-choice-awards-vera-rubin-nv]]
 <!-- graph:end -->

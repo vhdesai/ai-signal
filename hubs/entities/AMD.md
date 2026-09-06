@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 102
+member_count: 106
 ---
 
 # AMD
 
-> Auto-generated entity hub. 102 connected article(s).
+> Auto-generated entity hub. 106 connected article(s).
 
+- `2026-09-04` [[2026-09-04-microsoft-s-project-zenith-turns-high-memory-windows-pcs-int|Microsoft’s Project Zenith turns high-memory Windows PCs into local AI development machines]]
+- `2026-09-04` [[2026-09-04-microsoft-announces-project-zenith-a-ready-to-code-on-device|Microsoft announces Project Zenith — a ready-to-code on-device AI setup for 64GB Windows 11 PCs]]
+- `2026-09-04` [[2026-09-04-microsoft-unveils-project-zenith-for-local-frontier-scale-ai|Microsoft Unveils "Project Zenith" for Local Frontier-Scale AI Development]]
+- `2026-09-04` [[2026-09-04-ifa-berlin-highlights-local-ai-as-amd-pushes-personal-device|IFA Berlin highlights local AI as AMD pushes personal-device inference]]
 - `2026-09-02` [[2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst|HUMAIN and AMD Launch a $10 Billion AI Infrastructure Ecosystem]]
 - `2026-09-01` [[2026-09-01-indian-ai-chip-startup-agrani-labs-raising-50m-at-up-to-200m|Indian AI-Chip Startup Agrani Labs Raising ~$50M at up to $200M Valuation]]
 - `2026-08-31` [[2026-08-31-humain-also-partners-with-together-ai-and-minio-on-riyadh-an|HUMAIN Also Partners With Together AI and MinIO on Riyadh and Dammam Data Centers]]

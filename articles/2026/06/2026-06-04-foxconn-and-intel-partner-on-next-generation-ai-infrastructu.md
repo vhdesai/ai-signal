@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing
 - 2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex
 - 2026-05-15-intel-and-mclaren-partnership-puts-data-in-the-fast-lane
+- 2026-09-05-foxconn-says-q3-should-beat-expectations-on-ai-strength
 - 2026-06-20-vivatech-2026-in-paris-wrapped-its-10th-anniversary-edition
-- 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
 embedding_id: 2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Foxconn and Intel announced a strategic collaboration spanning silicon, rack, sy
 
 **Entities:** [[Intel]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing]] · [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex]] · [[2026-05-15-intel-and-mclaren-partnership-puts-data-in-the-fast-lane]] · [[2026-06-20-vivatech-2026-in-paris-wrapped-its-10th-anniversary-edition]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]]
+**Related:** [[2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing]] · [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex]] · [[2026-05-15-intel-and-mclaren-partnership-puts-data-in-the-fast-lane]] · [[2026-09-05-foxconn-says-q3-should-beat-expectations-on-ai-strength]] · [[2026-06-20-vivatech-2026-in-paris-wrapped-its-10th-anniversary-edition]]
 <!-- graph:end -->

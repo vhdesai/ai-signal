@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-31-together-ai-trades-revenue-share-for-250-mw-and-120-000-chip
 - 2026-08-31-humain-also-partners-with-together-ai-and-minio-on-riyadh-an
 - 2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst
-- 2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig
+- 2026-09-04-saudi-arabia-s-humain-unveils-humain-m3-a-428b-arabic-model
 embedding_id: 2026-08-31-together-ai-takes-250-mw-of-saudi-capacity-from-humain-citin
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Together AI secured 250 megawatts and roughly 120,000 accelerators from Saudi st
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-31-together-ai-takes-250mw-of-saudi-capacity-from-humain-citing]] · [[2026-08-31-together-ai-trades-revenue-share-for-250-mw-and-120-000-chip]] · [[2026-08-31-humain-also-partners-with-together-ai-and-minio-on-riyadh-an]] · [[2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst]] · [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig]]
+**Related:** [[2026-08-31-together-ai-takes-250mw-of-saudi-capacity-from-humain-citing]] · [[2026-08-31-together-ai-trades-revenue-share-for-250-mw-and-120-000-chip]] · [[2026-08-31-humain-also-partners-with-together-ai-and-minio-on-riyadh-an]] · [[2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst]] · [[2026-09-04-saudi-arabia-s-humain-unveils-humain-m3-a-428b-arabic-model]]
 <!-- graph:end -->

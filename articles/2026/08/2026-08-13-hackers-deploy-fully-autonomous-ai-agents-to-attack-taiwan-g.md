@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
 - 2026-08-13-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
+- 2026-09-05-ai-agents-in-cyberattacks-target-asian-governments
 embedding_id: 2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Hackers deployed an autonomous AI system to carry out sophisticated cyberattacks
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-08-13-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]]
+**Related:** [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-08-13-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-09-05-ai-agents-in-cyberattacks-target-asian-governments]]
 <!-- graph:end -->

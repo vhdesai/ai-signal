@@ -1,18 +1,40 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 793
+member_count: 815
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 793 connected article(s).
+> Auto-generated entity hub. 815 connected article(s).
 
+- `2026-09-05` [[2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-alle|Seattle Times and Newsday sue OpenAI and Microsoft over alleged copyright infringement]]
+- `2026-09-04` [[2026-09-04-seattle-times-sues-microsoft-and-openai-alleging-they-traine|Seattle Times sues Microsoft and OpenAI, alleging they trained their AI on its journalism]]
+- `2026-09-04` [[2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai|Seattle Times and Newsday sue Microsoft and OpenAI over training data]]
+- `2026-09-04` [[2026-09-04-microsoft-s-project-zenith-turns-high-memory-windows-pcs-int|Microsoft’s Project Zenith turns high-memory Windows PCs into local AI development machines]]
+- `2026-09-04` [[2026-09-04-microsoft-announces-project-zenith-a-ready-to-code-on-device|Microsoft announces Project Zenith — a ready-to-code on-device AI setup for 64GB Windows 11 PCs]]
+- `2026-09-04` [[2026-09-04-microsoft-unveils-project-zenith-for-local-frontier-scale-ai|Microsoft Unveils "Project Zenith" for Local Frontier-Scale AI Development]]
+- `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
+- `2026-09-04` [[2026-09-04-gimlet-labs-raises-300m-series-b-at-a-3b-valuation-for-multi|Gimlet Labs Raises $300M Series B at a $3B Valuation for Multi-Silicon Inference]]
+- `2026-09-04` [[2026-09-04-european-defense-officials-resist-the-eu-s-own-cloud-soverei|European defense officials resist the EU’s own cloud sovereignty push]]
+- `2026-09-03` [[2026-09-03-u-s-government-backs-openai-s-fair-use-position-in-nyt-copyr|U.S. government backs OpenAI's fair-use position in NYT copyright case]]
+- `2026-09-03` [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai|Trending UC Berkeley’s Stuart Russell calls for a halt to AI weapons]]
+- `2026-09-03` [[2026-09-03-sparks-fly-nvidia-accelerates-local-ai-at-ifa-2026|Sparks Fly: NVIDIA accelerates local AI at IFA 2026]]
+- `2026-09-03` [[2026-09-03-openai-launches-gpt-6-astra-its-most-capable-and-most-contes|OpenAI Launches GPT-6 Astra, Its Most Capable — and Most Contested — Model]]
+- `2026-09-03` [[2026-09-03-microsoft-prices-speech-to-text-at-0-10-per-hour-with-mai-tr|Microsoft prices speech-to-text at $0.10 per hour with MAI-Transcribe-2]]
+- `2026-09-03` [[2026-09-03-microsoft-ai-s-mai-transcribe-2-undercuts-rivals-at-0-10-per|Microsoft AI's MAI-Transcribe-2 Undercuts Rivals at $0.10 per Audio Hour]]
+- `2026-09-03` [[2026-09-03-microsoft-ai-ships-mai-transcribe-2-at-0-10-an-hour-undercut|Microsoft AI Ships MAI-Transcribe-2 at $0.10 an Hour, Undercutting OpenAI and Google]]
 - `2026-09-03` [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private|Mark Zuckerberg opposed a national AI regulator in a private call with Trump]]
+- `2026-09-03` [[2026-09-03-justice-department-backs-openai-and-microsoft-s-fair-use-def|Justice Department Backs OpenAI and Microsoft's Fair-Use Defense in Publisher Litigation]]
 - `2026-09-03` [[2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim|DOJ urges judge to rule for OpenAI, Microsoft in New York Times lawsuit]]
 - `2026-09-03` [[2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-new-yo|DOJ backs OpenAI and Microsoft's fair-use position in New York Times litigation]]
 - `2026-09-03` [[2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-nyt-tr|DOJ backs OpenAI and Microsoft's fair-use position in NYT training-data litigation]]
+- `2026-09-03` [[2026-09-03-crusoe-reportedly-raises-3b-at-a-30b-valuation|Crusoe reportedly raises $3B at a $30B valuation]]
+- `2026-09-03` [[2026-09-03-crusoe-reportedly-raises-3-billion-at-a-30-billion-valuation|Crusoe reportedly raises $3 billion at a $30 billion valuation]]
+- `2026-09-03` [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-tripling-in-ten-months|Crusoe raises $3B at a $30B valuation, tripling in ten months]]
 - `2026-09-03` [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-jane-street-ai-clo|Crusoe raises $3B at a $30B valuation after Jane Street AI cloud contract]]
+- `2026-09-03` [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-13b-jane-street-co|Crusoe Raises $3B at a $30B Valuation After $13B Jane Street Contract]]
+- `2026-09-03` [[2026-09-03-breaking-hot-simultaneous-outage-takes-down-chatgpt-claude-g|Breaking Hot Simultaneous outage takes down ChatGPT, Claude, Grok and Gemini]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-02` [[2026-09-02-trending-hiddenlayer-raises-100m-series-b-as-enterprises-rus|Trending HiddenLayer raises $100M Series B as enterprises rush to secure AI deployments]]
 - `2026-09-02` [[2026-09-02-justice-department-backs-openai-s-fair-use-defense-in-publis|Justice Department Backs OpenAI's Fair-Use Defense in Publisher Copyright Case]]

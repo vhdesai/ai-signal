@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil
 - 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
+- 2026-09-04-oracle-expands-oci-enterprise-ai-model-catalog-in-its-septem
 - 2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick
 - 2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri
-- 2026-08-01-aws-announced-a-preview-of-an-agentic-catalog-experience-in
 embedding_id: 2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Oracle launched four new agentic applications inside Oracle Fusion Cloud SCM —
 
 **Entities:** [[Oracle]] · [[Salesforce]] · [[SAP]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil]] · [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]] · [[2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[2026-08-01-aws-announced-a-preview-of-an-agentic-catalog-experience-in]]
+**Related:** [[2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil]] · [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]] · [[2026-09-04-oracle-expands-oci-enterprise-ai-model-catalog-in-its-septem]] · [[2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]]
 <!-- graph:end -->

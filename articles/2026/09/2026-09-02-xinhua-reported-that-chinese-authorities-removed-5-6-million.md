@@ -25,6 +25,8 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-04-china-reports-removing-5-6m-pieces-of-content-in-ai-misuse-c
+- 2026-09-04-china-removes-5-6-million-pieces-of-content-in-ai-misuse-cra
 - 2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv
 - 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
 embedding_id: 2026-09-02-xinhua-reported-that-chinese-authorities-removed-5-6-million
@@ -39,5 +41,5 @@ Filtered to items published between September 1, 2026 at 6:45 AM PDT and Septemb
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv]] · [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]]
+**Related:** [[2026-09-04-china-reports-removing-5-6m-pieces-of-content-in-ai-misuse-c]] · [[2026-09-04-china-removes-5-6-million-pieces-of-content-in-ai-misuse-cra]] · [[2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv]] · [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]]
 <!-- graph:end -->

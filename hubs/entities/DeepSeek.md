@@ -1,16 +1,33 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 388
+member_count: 405
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 388 connected article(s).
+> Auto-generated entity hub. 405 connected article(s).
 
+- `2026-09-05` [[2026-09-05-china-banks-and-carriers-turn-ai-tokens-into-rewards-plans-a|China banks and carriers turn AI tokens into rewards, plans, and credit products]]
+- `2026-09-04` [[2026-09-04-september-4-2026-the-information|[September 4, 2026] · The Information]]
 - `2026-09-04` [[2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in|Reports warn hackers are turning Claude, Qwen and DeepSeek into attack agents]]
+- `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
+- `2026-09-04` [[2026-09-04-hot-deepseek-to-deploy-160-000-huawei-ascend-chips-in-inner|Hot DeepSeek to deploy ~160,000 Huawei Ascend chips in Inner Mongolia]]
+- `2026-09-04` [[2026-09-04-deepseek-turns-to-huawei-for-160-000-ascend-ai-chips-as-nvid|DeepSeek turns to Huawei for 160,000 Ascend AI chips as Nvidia stays locked out of China]]
+- `2026-09-04` [[2026-09-04-deepseek-plots-major-huawei-ai-chip-order|DeepSeek plots major Huawei AI chip order]]
+- `2026-09-04` [[2026-09-04-deepseek-plans-major-huawei-chip-order-for-new-ai-data-cente|DeepSeek plans major Huawei chip order for new AI data center]]
+- `2026-09-04` [[2026-09-04-deepseek-plans-major-huawei-chip-deployment-as-bytedance-rai|DeepSeek plans major Huawei chip deployment as ByteDance raises AI capital]]
+- `2026-09-04` [[2026-09-04-deepseek-plans-a-160-000-chip-huawei-cluster-at-a-1gw-inner|DeepSeek plans a 160,000-chip Huawei cluster at a 1GW Inner Mongolia site]]
 - `2026-09-04` [[2026-09-04-deepseek-and-bytedance-accelerate-china-aligned-ai-infrastru|DeepSeek and ByteDance accelerate China-aligned AI infrastructure plans]]
+- `2026-09-04` [[2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a|CybersecurityNews and related security feeds reported that attackers are using models such as Claude, Qwen, and DeepSeek as AI agents for real-world cyberattacks, including activity against government systems. Even where individual claims require technical validation, the trend is directionally consistent with the broader shift from prompt-based abuse to autonomous attack workflows. Security teams should expect controls to move toward agent identity, tool permissions, sandboxing, egress restrictions, and behavioral monitoring.]]
+- `2026-09-04` [[2026-09-04-ai-leads-unicorn-creation-in-2026-deepseek-tops-new-ai-unico|AI leads unicorn creation in 2026; DeepSeek tops new AI unicorn valuations]]
+- `2026-09-03` [[2026-09-03-u-s-government-backs-openai-s-fair-use-position-in-nyt-copyr|U.S. government backs OpenAI's fair-use position in NYT copyright case]]
+- `2026-09-03` [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai|Trending UC Berkeley’s Stuart Russell calls for a halt to AI weapons]]
+- `2026-09-03` [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va|Moonshot AI Files Confidentially for Hong Kong IPO at ~$50B Valuation]]
+- `2026-09-03` [[2026-09-03-meta-works-on-action-gates-and-credential-isolation-before-h|Meta works on action gates and credential isolation before Hatch launches]]
+- `2026-09-03` [[2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr|Meta tests safeguards to keep its upcoming Hatch AI agent from going rogue]]
 - `2026-09-03` [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private|Mark Zuckerberg opposed a national AI regulator in a private call with Trump]]
+- `2026-09-03` [[2026-09-03-daily-ai-news-digest-september-4-2026|Daily AI News Digest – September 4, 2026]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-01` [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c|MIT’s Ila Kumar on Designing Technology With Child-Welfare Communities]]
 - `2026-09-01` [[2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers|Instagram to Limit Reach of Undisclosed AI Influencers]]

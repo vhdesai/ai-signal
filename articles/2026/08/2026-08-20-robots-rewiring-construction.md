@@ -27,9 +27,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-31-ai-data-center-construction-sends-private-equity-into-the-tr
 - 2026-08-20-unitree-raises-904m-in-shanghai-ipo-factory-automation-seen
+- 2026-09-05-pitchbook-factory-robotics-still-needs-more-than-smarter-fou
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 - 2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree
-- 2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them
 embedding_id: 2026-08-20-robots-rewiring-construction
 event_name: ''
 ---
@@ -43,5 +43,5 @@ PitchBook's daily roundup highlights how robotics and AI are increasingly being 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-31-ai-data-center-construction-sends-private-equity-into-the-tr]] · [[2026-08-20-unitree-raises-904m-in-shanghai-ipo-factory-automation-seen]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree]] · [[2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them]]
+**Related:** [[2026-08-31-ai-data-center-construction-sends-private-equity-into-the-tr]] · [[2026-08-20-unitree-raises-904m-in-shanghai-ipo-factory-automation-seen]] · [[2026-09-05-pitchbook-factory-robotics-still-needs-more-than-smarter-fou]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree]]
 <!-- graph:end -->

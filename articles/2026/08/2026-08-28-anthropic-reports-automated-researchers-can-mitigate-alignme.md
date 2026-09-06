@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-04-anthropic-researcher-offers-a-look-at-automated-alignment-im
 - 2026-08-28-anthropic-researcher-demonstrates-automated-systems-that-imp
 - 2026-08-28-anthropic-shows-automated-ai-researchers-improve-alignment-f
 - 2026-08-28-anthropic-researcher-shows-automated-ai-can-improve-alignmen
@@ -37,5 +38,5 @@ Anthropic published research showing that Claude-based automated researchers imp
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-28-anthropic-researcher-demonstrates-automated-systems-that-imp]] · [[2026-08-28-anthropic-shows-automated-ai-researchers-improve-alignment-f]] · [[2026-08-28-anthropic-researcher-shows-automated-ai-can-improve-alignmen]] · [[2026-08-28-anthropic-s-automated-alignment-researchers-beat-humans-at-4]]
+**Related:** [[2026-09-04-anthropic-researcher-offers-a-look-at-automated-alignment-im]] · [[2026-08-28-anthropic-researcher-demonstrates-automated-systems-that-imp]] · [[2026-08-28-anthropic-shows-automated-ai-researchers-improve-alignment-f]] · [[2026-08-28-anthropic-researcher-shows-automated-ai-can-improve-alignmen]] · [[2026-08-28-anthropic-s-automated-alignment-researchers-beat-humans-at-4]]
 <!-- graph:end -->

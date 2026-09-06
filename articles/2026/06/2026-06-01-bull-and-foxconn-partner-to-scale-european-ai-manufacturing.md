@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-05-hon-hai-august-sales-rise-52-on-ai-server-demand-as-europe-p
 - 2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu
 - 2026-08-31-eurohpc-awards-bull-a-387-8m-contract-for-the-lumi-ai-superc
 - 2026-06-20-vivatech-2026-in-paris-wrapped-its-10th-anniversary-edition
-- 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
-- 2026-07-30-eu-commits-10b-to-seven-ai-gigafactories-in-race-with-u-s-an
+- 2026-09-05-nvidia-partner-hon-hai-foxconn-posts-52-august-sales-jump-on
 embedding_id: 2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Atos subsidiary Bull and Foxconn (Hon Hai) announced a partnership to manufactur
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu]] · [[2026-08-31-eurohpc-awards-bull-a-387-8m-contract-for-the-lumi-ai-superc]] · [[2026-06-20-vivatech-2026-in-paris-wrapped-its-10th-anniversary-edition]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-07-30-eu-commits-10b-to-seven-ai-gigafactories-in-race-with-u-s-an]]
+**Related:** [[2026-09-05-hon-hai-august-sales-rise-52-on-ai-server-demand-as-europe-p]] · [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu]] · [[2026-08-31-eurohpc-awards-bull-a-387-8m-contract-for-the-lumi-ai-superc]] · [[2026-06-20-vivatech-2026-in-paris-wrapped-its-10th-anniversary-edition]] · [[2026-09-05-nvidia-partner-hon-hai-foxconn-posts-52-august-sales-jump-on]]
 <!-- graph:end -->

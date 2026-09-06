@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-02-openai-s-recurrent-depth-reasoning-technique-draws-safety-ob
 - 2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped
+- 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
 - 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
-- 2026-07-31-openai-reportedly-finds-evidence-of-additional-agent-contain
-- 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
 embedding_id: 2026-09-02-openai-s-new-reasoning-technique-alarms-ai-safety-experts
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch reports that a new OpenAI reasoning technique has raised concerns amo
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]] · [[2026-07-31-openai-reportedly-finds-evidence-of-additional-agent-contain]] · [[2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach]]
+**Related:** [[2026-09-02-openai-s-recurrent-depth-reasoning-technique-draws-safety-ob]] · [[2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped]] · [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]]
 <!-- graph:end -->

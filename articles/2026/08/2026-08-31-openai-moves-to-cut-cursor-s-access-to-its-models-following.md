@@ -19,9 +19,12 @@ themes:
 - company-storylines
 - ma-activity
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-08-31-openai-cutting-off-cursor-ai-model-access-after-spacex-deal
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-08-28-openai-moves-to-cut-cursor-off-from-its-models-after-spacex
+- 2026-08-29-openai-to-cut-off-model-access-for-spacex-owned-cursor
+- 2026-08-29-openai-to-cut-off-cursor-s-model-access-following-spacex-s-6
 embedding_id: 2026-08-31-openai-moves-to-cut-cursor-s-access-to-its-models-following
 event_name: ''
 ---
@@ -35,5 +38,5 @@ OpenAI is proceeding with termination of Cursor's model access after SpaceX comp
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Canonical:** [[2026-08-31-openai-cutting-off-cursor-ai-model-access-after-spacex-deal]]
+**Related:** [[2026-08-28-openai-moves-to-cut-cursor-off-from-its-models-after-spacex]] · [[2026-08-29-openai-to-cut-off-model-access-for-spacex-owned-cursor]] · [[2026-08-29-openai-to-cut-off-cursor-s-model-access-following-spacex-s-6]]
 <!-- graph:end -->

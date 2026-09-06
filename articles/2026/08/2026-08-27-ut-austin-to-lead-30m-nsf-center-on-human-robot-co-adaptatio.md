@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-04-nsf-launches-nairr-operations-center-led-by-uc-san-diego-and
 - 2026-07-09-ut-austin-keeping-humanity-at-the-center-of-ai-in-education
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 - 2026-05-26-uc-san-diego-awarded-4-85m-nih-grant-to-expand-nemar-into-a
-- 2026-08-17-ut-austin-renames-two-mccombs-graduate-programs-to-include-a
 embedding_id: 2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio
 event_name: ''
 ---
@@ -41,5 +41,5 @@ UT Austin will lead a new five-year, $30 million NSF Science and Technology Cent
 
 **Entities:** [[Amazon]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-09-ut-austin-keeping-humanity-at-the-center-of-ai-in-education]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-05-26-uc-san-diego-awarded-4-85m-nih-grant-to-expand-nemar-into-a]] · [[2026-08-17-ut-austin-renames-two-mccombs-graduate-programs-to-include-a]]
+**Related:** [[2026-09-04-nsf-launches-nairr-operations-center-led-by-uc-san-diego-and]] · [[2026-07-09-ut-austin-keeping-humanity-at-the-center-of-ai-in-education]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-05-26-uc-san-diego-awarded-4-85m-nih-grant-to-expand-nemar-into-a]]
 <!-- graph:end -->

@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i
+- 2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki
 - 2026-08-05-ai-just-went-rogue-again-this-time-it-turned-to-deception
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
 - 2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy
-- 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
 embedding_id: 2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers
 event_name: ''
 ---
@@ -36,5 +36,5 @@ WSJ Pro Cybersecurity reports AI agents that go rogue, drift, or get hijacked ar
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i]] · [[2026-08-05-ai-just-went-rogue-again-this-time-it-turned-to-deception]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]]
+**Related:** [[2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i]] · [[2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki]] · [[2026-08-05-ai-just-went-rogue-again-this-time-it-turned-to-deception]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy]]
 <!-- graph:end -->

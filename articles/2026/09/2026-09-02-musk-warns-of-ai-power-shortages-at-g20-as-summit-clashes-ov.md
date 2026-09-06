@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-03-g20-endorses-non-binding-carolina-principles-for-light-touch
 - 2026-09-02-g20-technology-discussions-center-on-u-s-ai-adoption-and-dat
+- 2026-09-03-g20-endorses-us-backed-carolina-principles-for-sector-based
 - 2026-09-01-u-s-pushes-g20-toward-light-touch-ai-regulation-under-the-ca
 - 2026-09-02-u-s-pushes-light-touch-ai-regulation-at-g20-as-europe-advanc
-- 2026-05-27-elon-musk-hints-at-xai-direction-in-pre-dawn-post
 embedding_id: 2026-09-02-musk-warns-of-ai-power-shortages-at-g20-as-summit-clashes-ov
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Elon Musk told attendees at a G20 gathering in North Carolina that countries nee
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-09-02-g20-technology-discussions-center-on-u-s-ai-adoption-and-dat]] · [[2026-09-01-u-s-pushes-g20-toward-light-touch-ai-regulation-under-the-ca]] · [[2026-09-02-u-s-pushes-light-touch-ai-regulation-at-g20-as-europe-advanc]] · [[2026-05-27-elon-musk-hints-at-xai-direction-in-pre-dawn-post]]
+**Related:** [[2026-09-03-g20-endorses-non-binding-carolina-principles-for-light-touch]] · [[2026-09-02-g20-technology-discussions-center-on-u-s-ai-adoption-and-dat]] · [[2026-09-03-g20-endorses-us-backed-carolina-principles-for-sector-based]] · [[2026-09-01-u-s-pushes-g20-toward-light-touch-ai-regulation-under-the-ca]] · [[2026-09-02-u-s-pushes-light-touch-ai-regulation-at-g20-as-europe-advanc]]
 <!-- graph:end -->

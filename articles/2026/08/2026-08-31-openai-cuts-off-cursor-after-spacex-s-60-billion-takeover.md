@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-31-openai-cuts-off-cursor-after-spacex-s-60b-takeover-of-anysph
 - 2026-08-31-openai-cuts-off-cursor-after-spacex-s-60b-takeover
 - 2026-08-31-openai-cuts-off-cursor-after-spacex-s-takeover-of-anysphere
-- 2026-08-29-openai-to-cut-off-cursor-s-model-access-following-spacex-s-6
+- 2026-09-05-openai-will-reportedly-cut-off-models-for-spacex-owned-curso
 embedding_id: 2026-08-31-openai-cuts-off-cursor-after-spacex-s-60-billion-takeover
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI will end Cursor's direct model access on November 12, citing an inability
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-08-31-openai-cuts-off-cursor-after-spacex-s-60b-takeover-of-anysph]] · [[2026-08-31-openai-cuts-off-cursor-after-spacex-s-60b-takeover]] · [[2026-08-31-openai-cuts-off-cursor-after-spacex-s-takeover-of-anysphere]] · [[2026-08-29-openai-to-cut-off-cursor-s-model-access-following-spacex-s-6]]
+**Related:** [[2026-08-31-openai-cuts-off-cursor-after-spacex-s-60b-takeover-of-anysph]] · [[2026-08-31-openai-cuts-off-cursor-after-spacex-s-60b-takeover]] · [[2026-08-31-openai-cuts-off-cursor-after-spacex-s-takeover-of-anysphere]] · [[2026-09-05-openai-will-reportedly-cut-off-models-for-spacex-owned-curso]]
 <!-- graph:end -->

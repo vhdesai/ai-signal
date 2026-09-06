@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio
 - 2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co
 - 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
+- 2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe
 embedding_id: 2026-07-31-openai-reportedly-finds-evidence-of-additional-agent-contain
 event_name: ''
 ---
@@ -36,5 +37,5 @@ TechCrunch, citing Reuters, reports that OpenAI found evidence of additional age
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio]] · [[2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co]] · [[2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach]]
+**Related:** [[2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio]] · [[2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co]] · [[2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach]] · [[2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe]]
 <!-- graph:end -->

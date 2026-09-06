@@ -20,9 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-04-cornell-and-bti-use-neuro-symbolic-ai-to-map-small-molecule
 - 2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations
 - 2026-07-26-fairchem-v2-uma-a-universal-ml-potential-for-multidomain-ato
-- 2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c
 embedding_id: 2026-08-20-mit-uses-machine-learning-to-screen-catalysts-for-greener-am
 event_name: ''
 ---
@@ -35,5 +35,5 @@ MIT researchers led by Professor Bilge Yildiz, with doctoral students Constantin
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations]] · [[2026-07-26-fairchem-v2-uma-a-universal-ml-potential-for-multidomain-ato]] · [[2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c]]
+**Related:** [[2026-09-04-cornell-and-bti-use-neuro-symbolic-ai-to-map-small-molecule]] · [[2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations]] · [[2026-07-26-fairchem-v2-uma-a-universal-ml-potential-for-multidomain-ato]]
 <!-- graph:end -->

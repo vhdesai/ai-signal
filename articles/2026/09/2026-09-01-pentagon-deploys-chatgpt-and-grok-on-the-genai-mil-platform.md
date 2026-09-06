@@ -22,6 +22,7 @@ related_article_ids:
 - 2026-08-31-pentagon-adopts-xai-s-grok-and-openai-s-chatgpt-for-unclassi
 - 2026-09-01-pentagon-deploys-chatgpt-mil-and-grok-for-government-to-gena
 - 2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr
+- 2026-09-03-openai-ships-gpt-6-astra-its-first-model-rated-critical-for
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 embedding_id: 2026-09-01-pentagon-deploys-chatgpt-and-grok-on-the-genai-mil-platform
 event_name: ''
@@ -35,5 +36,5 @@ The Department of Defense added secured versions of ChatGPT and Grok to GenAI.mi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-31-pentagon-adopts-xai-s-grok-and-openai-s-chatgpt-for-unclassi]] · [[2026-09-01-pentagon-deploys-chatgpt-mil-and-grok-for-government-to-gena]] · [[2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]]
+**Related:** [[2026-08-31-pentagon-adopts-xai-s-grok-and-openai-s-chatgpt-for-unclassi]] · [[2026-09-01-pentagon-deploys-chatgpt-mil-and-grok-for-government-to-gena]] · [[2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr]] · [[2026-09-03-openai-ships-gpt-6-astra-its-first-model-rated-critical-for]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]]
 <!-- graph:end -->

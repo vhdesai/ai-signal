@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
+- 2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
-- 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
 embedding_id: 2026-08-24-why-travelers-insurance-built-its-own-llm
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Travelers built a proprietary LLM rather than relying on third-party providers �
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]]
+**Related:** [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]]
 <!-- graph:end -->

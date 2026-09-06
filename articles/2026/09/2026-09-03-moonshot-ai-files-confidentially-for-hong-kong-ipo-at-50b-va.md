@@ -2,36 +2,44 @@
 article_id: 2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va
 title: Moonshot AI Files Confidentially for Hong Kong IPO at ~$50B Valuation
 date: '2026-09-03'
-source: Yahoo Finance
+source: The Wall Street Journal
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-09-03_061350_Inbox_Daily AI News Digest – September
-  3, 2026.md
-content_hash: ec2acf04424051a56462bdb7a5a1ce7b9490352533cebe86d1be1ebf2f7ae6f9
+digest_source: digests\raw\2026-09-04_062208_Inbox_Daily AI News Digest – September
+  4, 2026.md
+content_hash: 54b60bcd0b4b1ded7f08430d67c5b8abde71e91a301cb8344d24c7728cd9a21c
 normalized_title_hash: b3cc1c4ce18fff9b
 canonical_url_hash: ''
 tags: []
-entities: []
+entities:
+- Alibaba
+- DeepSeek
+- Tencent
 themes:
 - company-storylines
+- ma-activity
 - company-investments
 cross_cutting_topics:
 - china-compete
-dedupe_status: duplicate
-canonical_article_id: 2026-09-03-china-s-moonshot-ai-confidentially-filed-for-a-hong-kong-ipo
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-a-50
+- 2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-50b
+- 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
 embedding_id: 2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va
 event_name: ''
 ---
 
 # Moonshot AI Files Confidentially for Hong Kong IPO at ~$50B Valuation
 
-Beijing-based Moonshot AI, developer of the Kimi K3 model family, has confidentially submitted an A1 application to the Hong Kong Stock Exchange, reportedly targeting roughly $3 billion in proceeds at a valuation near $50 billion in an ongoing round. The filing starts a listing process that would make Moonshot one of the first Chinese frontier-model developers to access public markets at scale. A successful listing would give Chinese labs a domestic capital channel that does not depend on U.S. venture or strategic investment. https://finance.yahoo.com/technology/ai/articles/moonshot-ai-confidentially-files-hong-122635290.html EARNINGS
+Beijing-based Moonshot AI, developer of the Kimi model family including Kimi K3, has confidentially filed for a Hong Kong listing after a private round valuing it near $50B. Backers include Alibaba, Tencent and HSG. A completed offering would create a public-market valuation benchmark for Chinese frontier labs — a path US labs have so far avoided — and follows listings from MiniMax and Z.AI, with DeepSeek reportedly weighing similar ambitions. URL behind paywall. https://www.theinformation.com/search?utf8=%E2%9C%93&query=Moonshot%20AI%20IPO M&A
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Canonical:** [[2026-09-03-china-s-moonshot-ai-confidentially-filed-for-a-hong-kong-ipo]]
+**Entities:** [[Alibaba]] · [[DeepSeek]] · [[Tencent]]
+**Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Global AI Race]]
+**Related:** [[2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-a-50]] · [[2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-50b]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]]
 <!-- graph:end -->

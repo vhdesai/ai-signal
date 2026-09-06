@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic
+- 2026-09-04-saudi-arabia-s-humain-unveils-humain-m3-a-428b-arabic-model
 - 2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap
 - 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
 - 2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise
-- 2026-08-03-humain-s-investment-in-mozn-shows-sovereign-ai-strategies-mo
 embedding_id: 2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Paris-based Mistral AI and PIF-backed HUMAIN have entered a strategic collaborat
 
 **Entities:** [[Mistral]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic]] · [[2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]] · [[2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise]] · [[2026-08-03-humain-s-investment-in-mozn-shows-sovereign-ai-strategies-mo]]
+**Related:** [[2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic]] · [[2026-09-04-saudi-arabia-s-humain-unveils-humain-m3-a-428b-arabic-model]] · [[2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]] · [[2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise]]
 <!-- graph:end -->

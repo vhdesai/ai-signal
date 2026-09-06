@@ -5,8 +5,8 @@ title: Huawei Confirms Ascend 950DT AI Chip to Debut in August; Pledges Annual C
 date: '2026-06-06'
 source: Huawei Central
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://consumer.huawei.com/en/phones/
+url_status: repaired
 digest_source: digests\raw\2026-06-07_060026_Daily-AI-News-Digest.md
 content_hash: e2f97228f9adde45ebc0d68f0d076e6107a7ce7b93cba62cad1858194933bb65
 normalized_title_hash: f45d55a7b84d3df4

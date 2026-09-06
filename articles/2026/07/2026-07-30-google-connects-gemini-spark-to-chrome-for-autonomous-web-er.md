@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan
 - 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
 - 2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i
-- 2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u
+- 2026-09-04-gemini-spark-can-now-manage-google-photos-libraries
 embedding_id: 2026-07-30-google-connects-gemini-spark-to-chrome-for-autonomous-web-er
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google expanded Gemini Spark globally and added a Chrome "auto browse" capabilit
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-07-30-google-expands-gemini-spark-globally-adds-chrome-auto-browse]] · [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]] · [[2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i]] · [[2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u]]
+**Related:** [[2026-07-30-google-expands-gemini-spark-globally-adds-chrome-auto-browse]] · [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]] · [[2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i]] · [[2026-09-04-gemini-spark-can-now-manage-google-photos-libraries]]
 <!-- graph:end -->

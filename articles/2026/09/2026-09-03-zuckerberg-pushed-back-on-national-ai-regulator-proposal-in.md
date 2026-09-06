@@ -6,13 +6,12 @@ source: Business Insider
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-09-04_074900_Final-Daily-AI-News-Digest.md
-content_hash: 193eb6489408238678b8df280a9bcd62c0339cf10b66d1b902c588ae5d3e2411
+digest_source: digests\raw\2026-09-04_075752_Inbox_Fw Daily AI News Digest – September
+  4, 2026.md
+content_hash: 4fcf46e8a707d3465cc6759ef5e9bf7469f6bcb4ffb5653ec9ebfcf376c01ee2
 normalized_title_hash: f749d14828f277b5
 canonical_url_hash: ''
-tags:
-- Policy
-- Big tech
+tags: []
 entities: []
 themes:
 - policy-regulation
@@ -30,7 +29,7 @@ event_name: ''
 
 # Zuckerberg pushed back on national AI regulator proposal in private Trump call
 
-Business Insider reported that Mark Zuckerberg opposed a proposal for a national AI regulator in a private call with President Trump, according to a senior White House official. The episode shows how directly major AI platform leaders are engaging in U.S. regulatory design, especially as ideas for centralized oversight compete with lighter-touch, sector-specific frameworks. It also adds context to the G20's Carolina Principles debate: industry preference remains fragmented, but large platforms are shaping the policy menu. *Source URL could not be independently verified within the search budget; story retained per editorial policy.*
+Business Insider reported that Mark Zuckerberg opposed a proposal for a national AI regulator in a private call with President Trump, according to a senior White House official. The episode shows how directly major AI platform leaders are engaging in U.S. regulatory design, especially as ideas for centralized oversight compete with lighter-touch, sector-specific frameworks. It also adds context to the G20's Carolina Principles debate. Source URL could not be independently verified within the search budget; story retained per editorial policy. RELIABILITY OUTAGE
 
 <!-- graph:start -->
 ## Connections

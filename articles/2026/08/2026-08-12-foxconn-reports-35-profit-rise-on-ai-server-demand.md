@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets
-- 2026-08-22-nvidia-warns-large-customers-of-15-price-increases-on-ai-ser
-- 2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman
+- 2026-09-05-nvidia-partner-hon-hai-foxconn-posts-52-august-sales-jump-on
+- 2026-09-05-hon-hai-august-sales-rise-52-on-ai-server-demand-as-europe-p
 embedding_id: 2026-08-12-foxconn-reports-35-profit-rise-on-ai-server-demand
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Foxconn reported Q2 net income of NT$59.97B ($1.86B), beating analyst estimates,
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets]] · [[2026-08-22-nvidia-warns-large-customers-of-15-price-increases-on-ai-ser]] · [[2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman]]
+**Related:** [[2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets]] · [[2026-09-05-nvidia-partner-hon-hai-foxconn-posts-52-august-sales-jump-on]] · [[2026-09-05-hon-hai-august-sales-rise-52-on-ai-server-demand-as-europe-p]]
 <!-- graph:end -->

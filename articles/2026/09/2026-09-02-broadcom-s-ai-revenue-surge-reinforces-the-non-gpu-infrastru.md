@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-03-broadcom-s-custom-ai-chip-revenue-surges-221-to-16-7b-q4-gui
 - 2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai
 - 2026-09-02-broadcom-posts-record-quarter-on-custom-ai-accelerators-guid
 - 2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips
-- 2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel
 embedding_id: 2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru
 event_name: ''
 ---
@@ -38,5 +38,5 @@ event_name: ''
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai]] · [[2026-09-02-broadcom-posts-record-quarter-on-custom-ai-accelerators-guid]] · [[2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips]] · [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]]
+**Related:** [[2026-09-03-broadcom-s-custom-ai-chip-revenue-surges-221-to-16-7b-q4-gui]] · [[2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai]] · [[2026-09-02-broadcom-posts-record-quarter-on-custom-ai-accelerators-guid]] · [[2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips]]
 <!-- graph:end -->

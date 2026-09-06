@@ -1,14 +1,23 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 529
+member_count: 538
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 529 connected article(s).
+> Auto-generated entity hub. 538 connected article(s).
 
+- `2026-09-04` [[2026-09-04-september-4-2026-nvidia-developer-blog|[September 4, 2026] · NVIDIA Developer Blog]]
 - `2026-09-04` [[2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne|OpenAI releases GPT-6 Astra and hints the AGI line may be near]]
+- `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
+- `2026-09-04` [[2026-09-04-european-defense-officials-resist-the-eu-s-own-cloud-soverei|European defense officials resist the EU’s own cloud sovereignty push]]
+- `2026-09-04` [[2026-09-04-aws-details-lifecycle-policies-for-long-running-agent-memory|AWS details lifecycle policies for long-running agent memory]]
+- `2026-09-03` [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai|Trending UC Berkeley’s Stuart Russell calls for a halt to AI weapons]]
+- `2026-09-03` [[2026-09-03-openai-ships-gpt-6-astra-its-first-model-rated-critical-for|OpenAI ships GPT-6 Astra, its first model rated “Critical” for cyber capability]]
+- `2026-09-03` [[2026-09-03-openai-ships-gpt-6-astra-its-first-model-at-the-critical-cyb|OpenAI Ships GPT-6 Astra — Its First Model at the "Critical" Cyber Threshold]]
+- `2026-09-03` [[2026-09-03-meta-works-on-action-gates-and-credential-isolation-before-h|Meta works on action gates and credential isolation before Hatch launches]]
+- `2026-09-03` [[2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr|Meta tests safeguards to keep its upcoming Hatch AI agent from going rogue]]
 - `2026-09-03` [[2026-09-03-amazon-and-meta-ai-bots-account-for-most-website-visits|Amazon and Meta AI bots account for most website visits]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]
 - `2026-09-02` [[2026-09-02-meta-and-google-s-ai-returns-slide-piper-sandler-says-amazon|Meta and Google’s AI returns slide, Piper Sandler says Amazon’s capital discipline sets it apart]]

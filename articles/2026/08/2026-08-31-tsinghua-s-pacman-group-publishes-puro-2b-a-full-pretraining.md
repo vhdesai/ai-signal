@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-31-tsinghua-s-pacman-group-releases-puro-2b-a-fully-open-recipe
 - 2026-09-01-tsinghua-s-pacman-group-publishes-puro-2b-a-full-pretraining
 - 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
+- 2026-09-04-september-4-2026-the-information
 - 2026-08-12-nvidia-details-serving-alibaba-s-2-4t-parameter-qwen3-8-mode
-- 2026-08-10-chinese-ai-labs-still-train-on-nvidia-switching-to-huawei-si
 embedding_id: 2026-08-31-tsinghua-s-pacman-group-publishes-puro-2b-a-full-pretraining
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Tsinghua University's PACMAN group published Puro-2B, an open end-to-end recipe 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-31-tsinghua-s-pacman-group-releases-puro-2b-a-fully-open-recipe]] · [[2026-09-01-tsinghua-s-pacman-group-publishes-puro-2b-a-full-pretraining]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-08-12-nvidia-details-serving-alibaba-s-2-4t-parameter-qwen3-8-mode]] · [[2026-08-10-chinese-ai-labs-still-train-on-nvidia-switching-to-huawei-si]]
+**Related:** [[2026-08-31-tsinghua-s-pacman-group-releases-puro-2b-a-fully-open-recipe]] · [[2026-09-01-tsinghua-s-pacman-group-publishes-puro-2b-a-full-pretraining]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-09-04-september-4-2026-the-information]] · [[2026-08-12-nvidia-details-serving-alibaba-s-2-4t-parameter-qwen3-8-mode]]
 <!-- graph:end -->

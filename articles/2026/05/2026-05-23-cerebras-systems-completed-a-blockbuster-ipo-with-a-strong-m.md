@@ -5,8 +5,8 @@ title: Cerebras Systems completed a blockbuster IPO, with a strong market debut 
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/quote/CBRS/?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 5c06f26270ecd3354f9f3de6968f45742e0e0926d3db11ce15a87e7f07dcd224

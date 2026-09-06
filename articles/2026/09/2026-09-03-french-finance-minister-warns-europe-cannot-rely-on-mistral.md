@@ -22,11 +22,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-03-trending-french-finance-minister-warns-europe-cannot-rest-so
 - 2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan
 - 2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design
 - 2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall
 - 2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f
-- 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
 embedding_id: 2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Speaking in Silicon Valley, France's Finance Minister Roland Lescure warned that
 
 **Entities:** [[Anthropic]] · [[Mistral]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan]] · [[2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design]] · [[2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall]] · [[2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]]
+**Related:** [[2026-09-03-trending-french-finance-minister-warns-europe-cannot-rest-so]] · [[2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan]] · [[2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design]] · [[2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall]] · [[2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f]]
 <!-- graph:end -->

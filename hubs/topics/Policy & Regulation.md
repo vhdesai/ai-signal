@@ -1,26 +1,53 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 1595
+member_count: 1622
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 1595 connected article(s).
+> Auto-generated topic hub. 1622 connected article(s).
 
+- `2026-09-05` [[2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u|We're plausibly close to crossing the line: are warnings of uncontrollable AI coming true?]]
+- `2026-09-05` [[2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-alle|Seattle Times and Newsday sue OpenAI and Microsoft over alleged copyright infringement]]
+- `2026-09-05` [[2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki|OpenAI admits it did not disclose a rogue-agent "wiki hijacking" incident]]
+- `2026-09-05` [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that|OpenAI acknowledges it did not disclose an agent swarm that hijacked a dormant German wiki]]
+- `2026-09-05` [[2026-09-05-ai-agents-in-cyberattacks-target-asian-governments|AI agents in cyberattacks target Asian governments]]
+- `2026-09-04` [[2026-09-04-us-lawmakers-propose-a-permanent-ban-on-artificial-superinte|US lawmakers propose a permanent ban on artificial superintelligence]]
+- `2026-09-04` [[2026-09-04-u-s-and-china-prepare-for-mid-september-ai-safety-talks|U.S. and China prepare for mid-September AI safety talks]]
+- `2026-09-04` [[2026-09-04-u-s-lawmakers-propose-a-permanent-ban-on-artificial-superint|U.S. Lawmakers Propose a Permanent Ban on Artificial Superintelligence]]
 - `2026-09-04` [[2026-09-04-reuters-reports-previously-undisclosed-openai-agent-breakout|Reuters reports previously undisclosed OpenAI agent breakout involving German website]]
 - `2026-09-04` [[2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in|Reports warn hackers are turning Claude, Qwen and DeepSeek into attack agents]]
+- `2026-09-04` [[2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe|OpenAI's rogue-agent incidents raise calls for formal independent investigations]]
+- `2026-09-04` [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t|OpenAI's rogue agents keep escaping, with no formal process to investigate them]]
+- `2026-09-04` [[2026-09-04-nhtsa-opens-probe-into-tesla-cybercab-hours-after-austin-dep|NHTSA Opens Probe Into Tesla Cybercab Hours After Austin Deployment]]
+- `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
+- `2026-09-04` [[2026-09-04-hot-deepseek-to-deploy-160-000-huawei-ascend-chips-in-inner|Hot DeepSeek to deploy ~160,000 Huawei Ascend chips in Inner Mongolia]]
+- `2026-09-04` [[2026-09-04-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidd|GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injection]]
+- `2026-09-04` [[2026-09-04-european-defense-officials-resist-the-eu-s-own-cloud-soverei|European defense officials resist the EU’s own cloud sovereignty push]]
+- `2026-09-04` [[2026-09-04-deepseek-plots-major-huawei-ai-chip-order|DeepSeek plots major Huawei AI chip order]]
+- `2026-09-04` [[2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a|CybersecurityNews and related security feeds reported that attackers are using models such as Claude, Qwen, and DeepSeek as AI agents for real-world cyberattacks, including activity against government systems. Even where individual claims require technical validation, the trend is directionally consistent with the broader shift from prompt-based abuse to autonomous attack workflows. Security teams should expect controls to move toward agent identity, tool permissions, sandboxing, egress restrictions, and behavioral monitoring.]]
+- `2026-09-04` [[2026-09-04-china-removes-5-6-million-pieces-of-content-in-ai-misuse-cra|China Removes 5.6 Million Pieces of Content in AI Misuse Crackdown]]
+- `2026-09-04` [[2026-09-04-business-insider-spotlights-lightmatter-as-optical-computing|Business Insider spotlights Lightmatter as optical computing gains executive attention]]
+- `2026-09-04` [[2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw|Building a Memory-Driven Agent with NVIDIA NemoClaw]]
+- `2026-09-04` [[2026-09-04-bernie-sanders-floats-a-ban-on-superintelligent-ai|Bernie Sanders floats a ban on superintelligent AI]]
 - `2026-09-03` [[2026-09-03-zuckerberg-pushed-back-on-national-ai-regulator-proposal-in|Zuckerberg pushed back on national AI regulator proposal in private Trump call]]
+- `2026-09-03` [[2026-09-03-university-of-washington-allen-institute-and-fred-hutch-laun|University of Washington, Allen Institute and Fred Hutch launch $95M AI BioDesign project]]
 - `2026-09-03` [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training|U.S. government sides with OpenAI in New York Times training-data lawsuit]]
+- `2026-09-03` [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai|Trending UC Berkeley’s Stuart Russell calls for a halt to AI weapons]]
+- `2026-09-03` [[2026-09-03-trending-french-finance-minister-warns-europe-cannot-rest-so|Trending French finance minister warns Europe cannot rest sovereignty on Mistral alone]]
 - `2026-09-03` [[2026-09-03-simultaneous-ai-service-outages-expose-correlated-dependency|Simultaneous AI-service outages expose correlated dependency risk]]
 - `2026-09-03` [[2026-09-03-sanders-and-casar-propose-a-u-s-ban-on-artificial-superintel|Sanders and Casar Propose a U.S. Ban on 'Artificial Superintelligence']]
+- `2026-09-03` [[2026-09-03-sanders-and-casar-introduce-a-bill-to-permanently-ban-artifi|Sanders and Casar Introduce a Bill to Permanently Ban Artificial Superintelligence]]
 - `2026-09-03` [[2026-09-03-openai-pairs-astra-with-daybreak-a-1b-cyber-defense-program|OpenAI pairs Astra with Daybreak, a $1B cyber-defense program for essential services]]
-- `2026-09-03` [[2026-09-03-openai-pairs-astra-with-daybreak-a-1-billion-cyber-defense-p|OpenAI pairs Astra with Daybreak, a $1 billion cyber-defense program for essential services]]
-- `2026-09-03` [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private|Mark Zuckerberg opposed a national AI regulator in a private call with Trump]]
+- `2026-09-03` [[2026-09-03-new-meta-ships-muse-spark-1-3-but-its-best-results-come-from|New Meta ships Muse Spark 1.3, but its best results come from a config developers can’t use yet]]
+- `2026-09-03` [[2026-09-03-new-c-te-d-ivoire-enlists-mistral-ai-for-public-sector-deplo|New Côte d’Ivoire enlists Mistral AI for public-sector deployments]]
+- `2026-09-03` [[2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr|Meta tests safeguards to keep its upcoming Hatch AI agent from going rogue]]
 - `2026-09-03` [[2026-09-03-hot-altman-raises-the-stakes-on-government-scrutiny-of-front|Hot Altman raises the stakes on government scrutiny of frontier models]]
+- `2026-09-03` [[2026-09-03-google-ships-gemini-3-8-flash-and-a-restricted-gemini-3-8-fl|Google Ships Gemini 3.8 Flash and a Restricted Gemini 3.8 Flash Cyber Variant]]
+- `2026-09-03` [[2026-09-03-georgia-tech-finds-many-ai-generated-security-patches-are-se|Georgia Tech finds many AI-generated security patches are semantically wrong]]
 - `2026-09-03` [[2026-09-03-g20-endorses-u-s-backed-carolina-principles-for-sector-based|G20 endorses U.S.-backed Carolina Principles for sector-based AI regulation]]
 - `2026-09-03` [[2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral|French finance minister warns Europe cannot rely on Mistral alone]]
-- `2026-09-03` [[2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-new-yo|DOJ backs OpenAI and Microsoft's fair-use position in New York Times litigation]]
 - `2026-09-03` [[2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-nyt-tr|DOJ backs OpenAI and Microsoft's fair-use position in NYT training-data litigation]]
 - `2026-09-03` [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a|Anthropic breaks with Google and OpenAI over Massachusetts AI safety bill]]
 - `2026-09-03` [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega|Abuse survivor sues xAI over allegedly Grok-generated illegal imagery]]

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-mediatek-approves-up-to-5b-to-build-custom-ai-data-center-ch
 - 2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c
+- 2026-09-03-nvidia-commits-3-5b-to-mediatek-to-extend-nvlink-fusion-into
 - 2026-08-31-nvidia-invests-3-5b-in-mediatek-and-opens-nvlink-fusion-to-c
 - 2026-08-31-nvidia-invests-3-5b-in-mediatek-deepens-ai-infrastructure-pa
-- 2026-09-01-nvidia-invests-3-5b-in-mediatek-and-opens-nvlink-fusion-to-c
 embedding_id: 2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent
 event_name: ''
 ---
@@ -39,5 +39,5 @@ MediaTek's board approved a discretionary financing budget of up to $5B to fund 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-31-mediatek-approves-up-to-5b-to-build-custom-ai-data-center-ch]] · [[2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c]] · [[2026-08-31-nvidia-invests-3-5b-in-mediatek-and-opens-nvlink-fusion-to-c]] · [[2026-08-31-nvidia-invests-3-5b-in-mediatek-deepens-ai-infrastructure-pa]] · [[2026-09-01-nvidia-invests-3-5b-in-mediatek-and-opens-nvlink-fusion-to-c]]
+**Related:** [[2026-07-31-mediatek-approves-up-to-5b-to-build-custom-ai-data-center-ch]] · [[2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c]] · [[2026-09-03-nvidia-commits-3-5b-to-mediatek-to-extend-nvlink-fusion-into]] · [[2026-08-31-nvidia-invests-3-5b-in-mediatek-and-opens-nvlink-fusion-to-c]] · [[2026-08-31-nvidia-invests-3-5b-in-mediatek-deepens-ai-infrastructure-pa]]
 <!-- graph:end -->

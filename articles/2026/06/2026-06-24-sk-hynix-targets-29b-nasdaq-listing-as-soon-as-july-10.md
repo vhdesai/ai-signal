@@ -4,8 +4,8 @@ title: SK Hynix targets ~$29B Nasdaq listing as soon as July 10
 date: '2026-06-24'
 source: UPI
 url_original: https://www.upi.com/Top_News/World-News/2026/06/24/sk-hynix-nasdaq-adr/2641782347675/
-url_canonical: https://www.upi.com/Top_News/World-News/2026/06/24/sk-hynix-nasdaq-adr/2641782347675/
-url_status: ok
+url_canonical: https://www.cnn.com/2026/07/10/business/sk-hynix-us-listing-ai-chip-boom-intl-hnk
+url_status: repaired
 digest_source: digests\raw\2026-06-25_062805_Inbox_Daily AI News Digest - June 25,
   2026.md
 content_hash: e1ef1bd0c96e7e75d504cb878ed7beeacf2700682249b10a2a9c2ae6c679dc40

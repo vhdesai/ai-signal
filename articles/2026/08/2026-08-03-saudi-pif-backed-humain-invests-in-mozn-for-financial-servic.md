@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-humain-s-investment-in-mozn-shows-sovereign-ai-strategies-mo
 - 2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig
+- 2026-09-04-saudi-arabia-s-humain-unveils-humain-m3-a-428b-arabic-model
 - 2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst
 - 2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap
-- 2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise
 embedding_id: 2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic
 event_name: ''
 ---
@@ -39,5 +39,5 @@ AiThority republished a PR Newswire item announcing that HUMAIN, Saudi Arabia's 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-03-humain-s-investment-in-mozn-shows-sovereign-ai-strategies-mo]] · [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig]] · [[2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst]] · [[2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap]] · [[2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise]]
+**Related:** [[2026-08-03-humain-s-investment-in-mozn-shows-sovereign-ai-strategies-mo]] · [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig]] · [[2026-09-04-saudi-arabia-s-humain-unveils-humain-m3-a-428b-arabic-model]] · [[2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst]] · [[2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap]]
 <!-- graph:end -->

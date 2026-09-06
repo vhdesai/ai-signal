@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats
+- 2026-09-05-data-center-backlash-becomes-a-midterm-political-issue
 - 2026-08-23-flock-safety-ceo-calls-for-compromise-as-ai-surveillance-fac
 - 2026-06-11-axios-congress-wants-in-on-the-data-center-backlash
 - 2026-08-23-flock-safety-faces-bipartisan-backlash-as-ai-surveillance-be
-- 2026-08-23-flock-ceo-calls-for-compromise-as-ai-surveillance-backlash-g
 embedding_id: 2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Members of Congress and congressional candidates are moving to harness grassroot
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats]] · [[2026-08-23-flock-safety-ceo-calls-for-compromise-as-ai-surveillance-fac]] · [[2026-06-11-axios-congress-wants-in-on-the-data-center-backlash]] · [[2026-08-23-flock-safety-faces-bipartisan-backlash-as-ai-surveillance-be]] · [[2026-08-23-flock-ceo-calls-for-compromise-as-ai-surveillance-backlash-g]]
+**Related:** [[2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats]] · [[2026-09-05-data-center-backlash-becomes-a-midterm-political-issue]] · [[2026-08-23-flock-safety-ceo-calls-for-compromise-as-ai-surveillance-fac]] · [[2026-06-11-axios-congress-wants-in-on-the-data-center-backlash]] · [[2026-08-23-flock-safety-faces-bipartisan-backlash-as-ai-surveillance-be]]
 <!-- graph:end -->

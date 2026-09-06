@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-29-openai-says-two-api-settings-tripled-arc-agi-3-benchmark-sco
 - 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
+- 2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul
 - 2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st
 - 2026-05-02-model-releases-frontier-research-5-stories-arc-agi-3-analysi
-- 2026-07-19-ai-race-splits-as-china-wages-an-open-weight-model-insurgenc
 embedding_id: 2026-07-31-openai-says-two-settings-tripled-its-arc-agi-3-scores
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI published a research post describing how two settings tripled its scores 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-29-openai-says-two-api-settings-tripled-arc-agi-3-benchmark-sco]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st]] · [[2026-05-02-model-releases-frontier-research-5-stories-arc-agi-3-analysi]] · [[2026-07-19-ai-race-splits-as-china-wages-an-open-weight-model-insurgenc]]
+**Related:** [[2026-07-29-openai-says-two-api-settings-tripled-arc-agi-3-benchmark-sco]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul]] · [[2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st]] · [[2026-05-02-model-releases-frontier-research-5-stories-arc-agi-3-analysi]]
 <!-- graph:end -->

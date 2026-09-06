@@ -22,7 +22,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio
 - 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
-- 2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-new-yo
 embedding_id: 2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training
 event_name: ''
 ---
@@ -36,5 +35,5 @@ The Trump administration filed a brief supporting OpenAI in The New York Times' 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-new-yo]]
+**Related:** [[2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]]
 <!-- graph:end -->

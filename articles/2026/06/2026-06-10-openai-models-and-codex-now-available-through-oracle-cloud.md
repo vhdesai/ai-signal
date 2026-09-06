@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on
 - 2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o
+- 2026-09-04-oracle-expands-oci-enterprise-ai-model-catalog-in-its-septem
 - 2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b
 - 2026-04-20-openai-codex-0-122-0-ships-broad-platform-update
-- 2026-07-29-openai-open-sources-the-codex-security-cli-and-sdk
 embedding_id: 2026-06-10-openai-models-and-codex-now-available-through-oracle-cloud
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI models and Codex are available through OCI commitments, allowing enterpri
 
 **Entities:** [[OpenAI]] · [[Oracle]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on]] · [[2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o]] · [[2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b]] · [[2026-04-20-openai-codex-0-122-0-ships-broad-platform-update]] · [[2026-07-29-openai-open-sources-the-codex-security-cli-and-sdk]]
+**Related:** [[2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on]] · [[2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o]] · [[2026-09-04-oracle-expands-oci-enterprise-ai-model-catalog-in-its-septem]] · [[2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b]] · [[2026-04-20-openai-codex-0-122-0-ships-broad-platform-update]]
 <!-- graph:end -->

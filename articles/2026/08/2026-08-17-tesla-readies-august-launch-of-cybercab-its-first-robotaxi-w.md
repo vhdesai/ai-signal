@@ -22,10 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-04-nhtsa-investigates-tesla-s-cybercab-deployment-without-manua
 - 2026-08-24-tesla-sets-september-3-cybercab-launch-event-in-austin
+- 2026-09-04-nhtsa-opens-probe-into-tesla-cybercab-hours-after-austin-dep
+- 2026-09-04-nhtsa-opens-probe-into-tesla-cybercab-deployment
 - 2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle
-- 2026-06-24-amazon-s-zoox-unveils-redesigned-robotaxi-ahead-of-commercia
-- 2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo
 embedding_id: 2026-08-17-tesla-readies-august-launch-of-cybercab-its-first-robotaxi-w
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Tesla has told staff it is preparing for a public launch of the Cybercab, its fi
 
 **Entities:** [[Tesla]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-24-tesla-sets-september-3-cybercab-launch-event-in-austin]] · [[2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle]] · [[2026-06-24-amazon-s-zoox-unveils-redesigned-robotaxi-ahead-of-commercia]] · [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo]]
+**Related:** [[2026-09-04-nhtsa-investigates-tesla-s-cybercab-deployment-without-manua]] · [[2026-08-24-tesla-sets-september-3-cybercab-launch-event-in-austin]] · [[2026-09-04-nhtsa-opens-probe-into-tesla-cybercab-hours-after-austin-dep]] · [[2026-09-04-nhtsa-opens-probe-into-tesla-cybercab-deployment]] · [[2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle]]
 <!-- graph:end -->
