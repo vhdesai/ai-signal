@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
 - 2026-08-23-agent-to-agent-payment-rails-move-from-pilot-to-production
+- 2026-09-06-hkt-pilots-identity-verification-for-ai-agent-payment-flows
 - 2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme
-- 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
 embedding_id: 2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cloudflare introduced Wallets and cloudflare.pay, giving agents deployed on its 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-08-23-agent-to-agent-payment-rails-move-from-pilot-to-production]] · [[2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]]
+**Related:** [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-08-23-agent-to-agent-payment-rails-move-from-pilot-to-production]] · [[2026-09-06-hkt-pilots-identity-verification-for-ai-agent-payment-flows]] · [[2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme]]
 <!-- graph:end -->

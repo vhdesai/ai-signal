@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-20-google-works-on-frozen-v2-chip-to-improve-gemini-inference-e
 - 2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip
+- 2026-09-07-google-to-build-a-new-ai-chip-in-israel-recruiting-from-hail
 - 2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics
 - 2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en
-- 2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips
 embedding_id: 2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Information reports that Google plans a new “Frozen” chip designed to ru
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-20-google-works-on-frozen-v2-chip-to-improve-gemini-inference-e]] · [[2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip]] · [[2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics]] · [[2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en]] · [[2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips]]
+**Related:** [[2026-07-20-google-works-on-frozen-v2-chip-to-improve-gemini-inference-e]] · [[2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip]] · [[2026-09-07-google-to-build-a-new-ai-chip-in-israel-recruiting-from-hail]] · [[2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics]] · [[2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en]]
 <!-- graph:end -->

@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 144
+member_count: 145
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 144 connected article(s).
+> Auto-generated entity hub. 145 connected article(s).
 
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
+- `2026-09-06` [[2026-09-06-meta-fair-oxford-and-ucl-introduce-research-preference-model|Meta FAIR, Oxford and UCL introduce Research Preference Models that rank experiments before spending GPU hours]]
 - `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
 - `2026-09-03` [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai|Trending UC Berkeley’s Stuart Russell calls for a halt to AI weapons]]
 - `2026-09-03` [[2026-09-03-new-pwc-and-palantir-expand-strategic-alliance-for-enterpris|New PwC and Palantir expand strategic alliance for enterprise AI]]

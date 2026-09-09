@@ -25,7 +25,6 @@ related_article_ids:
 - 2026-09-04-anthropic-reports-an-11-day-lean-formalization-of-fermat-s-l
 - 2026-09-04-anthropic-says-claude-formalized-fermat-s-last-theorem-in-le
 - 2026-09-04-anthropic-s-claude-produces-first-computer-checked-proof-of
-- 2026-09-05-fermat-s-last-theorem-formalised-by-ai-agents-in-just-11-day
 embedding_id: 2026-09-04-anthropic-reports-a-complete-lean-formalization-of-fermat-s
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Anthropic says collaborating Claude agents produced an end-to-end, computer-chec
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-04-anthropic-reports-full-lean-formalization-of-fermat-s-last-t]] · [[2026-09-04-anthropic-reports-an-11-day-lean-formalization-of-fermat-s-l]] · [[2026-09-04-anthropic-says-claude-formalized-fermat-s-last-theorem-in-le]] · [[2026-09-04-anthropic-s-claude-produces-first-computer-checked-proof-of]] · [[2026-09-05-fermat-s-last-theorem-formalised-by-ai-agents-in-just-11-day]]
+**Related:** [[2026-09-04-anthropic-reports-full-lean-formalization-of-fermat-s-last-t]] · [[2026-09-04-anthropic-reports-an-11-day-lean-formalization-of-fermat-s-l]] · [[2026-09-04-anthropic-says-claude-formalized-fermat-s-last-theorem-in-le]] · [[2026-09-04-anthropic-s-claude-produces-first-computer-checked-proof-of]]
 <!-- graph:end -->

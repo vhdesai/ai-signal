@@ -1,0 +1,87 @@
+{
+  "run_id": "20260909T161940+0000-06b114",
+  "started_at": "2026-09-09T16:19:40+00:00",
+  "finished_at": "2026-09-09T17:00:05+00:00",
+  "summary": {
+    "command": "run-daily",
+    "stages": {
+      "ingest": {
+        "digests_total": 1146,
+        "digests_changed": 9,
+        "changed": [
+          "news\\2026-09-07_000000_Publication-Sources.md",
+          "news\\2026-09-07_060333_Inbox_Daily AI News Digest - September 7, 2026.md",
+          "news\\2026-09-07_060623_Inbox_Daily AI News Digest - September 7, 2026.md",
+          "news\\2026-09-07_061000_Inbox_Daily AI News Digest - September 7, 2026.md",
+          "news\\2026-09-07_061438_Inbox_Daily AI News Digest - September 7, 2026.md",
+          "news\\2026-09-07_062259_Inbox_Daily AI News Digest - September 7, 2026.md",
+          "news\\2026-09-07_062415_Inbox_Daily AI News Digest - September 7, 2026.md",
+          "news\\2026-09-07_064921_Inbox_ClawPilot - Daily AI News Digest - September 7, 2026.md",
+          "news\\2026-09-07_142255_Inbox_Daily AI News Digest - September 7, 2026.md"
+        ]
+      },
+      "split": {
+        "digests_parsed": 1148,
+        "articles_written": 11160,
+        "events_parsed": 74,
+        "event_articles_written": 78,
+        "skipped_publication_sources": 25,
+        "skipped_thin_articles": 4358
+      },
+      "index": {
+        "articles_indexed": 8282,
+        "embeddings": {
+          "enabled": false,
+          "error": "[WinError 10054] An existing connection was forcibly closed by the remote host"
+        }
+      },
+      "dedupe": {
+        "articles": 8282,
+        "exact_duplicates": 6,
+        "canonical": 6090,
+        "semantic_duplicates": 2186,
+        "related_links": 25025
+      },
+      "build-graph": {
+        "status": "ok",
+        "articles_linked": 8282,
+        "wikilinks_emitted": 56366,
+        "entity_hubs": 34,
+        "topic_hubs": 8,
+        "hubs_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\hubs"
+      },
+      "validate-urls": {
+        "checked": 3465,
+        "ok": 0,
+        "broken": 3465,
+        "missing": 4798,
+        "skipped": 19
+      },
+      "repair-urls": {
+        "attempted": 34,
+        "repaired": 0,
+        "unresolved": 34,
+        "skipped": 0,
+        "reverted": 0,
+        "deferred": 0,
+        "terminated": "completed",
+        "elapsed_s": 133.1,
+        "max_workers": 10
+      },
+      "build-site-daily": {
+        "pages": 261,
+        "articles": 8282,
+        "canonical": 6090,
+        "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site",
+        "mode": "incremental",
+        "changed_articles": 2592,
+        "written_files": 180,
+        "elapsed_s": 44.23
+      },
+      "publish": {
+        "status": "dry-run",
+        "note": "site/ generated locally; no remote publish configured"
+      }
+    }
+  }
+}

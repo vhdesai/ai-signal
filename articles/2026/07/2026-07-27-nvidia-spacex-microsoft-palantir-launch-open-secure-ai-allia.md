@@ -29,8 +29,8 @@ canonical_article_id: 2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch
 related_article_ids:
 - 2026-07-27-nvidia-forms-37-member-open-secure-ai-alliance-and-open-sour
 - 2026-08-06-nvidia-assembles-new-ai-safety-engineering-team-doubles-down
+- 2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o
 - 2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl
-- 2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli
 embedding_id: 2026-07-27-nvidia-spacex-microsoft-palantir-launch-open-secure-ai-allia
 event_name: ''
 ---
@@ -45,5 +45,5 @@ In the wake of the breach, an open-model AI-safety initiative launched to "remed
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Palantir]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
 **Canonical:** [[2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu]]
-**Related:** [[2026-07-27-nvidia-forms-37-member-open-secure-ai-alliance-and-open-sour]] · [[2026-08-06-nvidia-assembles-new-ai-safety-engineering-team-doubles-down]] · [[2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl]] · [[2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli]]
+**Related:** [[2026-07-27-nvidia-forms-37-member-open-secure-ai-alliance-and-open-sour]] · [[2026-08-06-nvidia-assembles-new-ai-safety-engineering-team-doubles-down]] · [[2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o]] · [[2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl]]
 <!-- graph:end -->

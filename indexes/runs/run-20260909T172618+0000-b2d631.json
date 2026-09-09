@@ -1,0 +1,15 @@
+{
+  "run_id": "20260909T172618+0000-b2d631",
+  "started_at": "2026-09-09T17:26:18+00:00",
+  "finished_at": "2026-09-09T18:04:34+00:00",
+  "summary": {
+    "command": "validate-urls",
+    "result": {
+      "checked": 3465,
+      "ok": 2477,
+      "broken": 988,
+      "missing": 4798,
+      "skipped": 19
+    }
+  }
+}

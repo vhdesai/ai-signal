@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-31-erin-brockovich-takes-aim-at-data-center-secrecy
+- 2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
 - 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 - 2026-08-09-historian-jill-lepore-argues-silicon-valley-s-government-by
-- 2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow
 embedding_id: 2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TechCrunch reported that Erin Brockovich is targeting secrecy around data-center
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-31-erin-brockovich-takes-aim-at-data-center-secrecy]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-08-09-historian-jill-lepore-argues-silicon-valley-s-government-by]] · [[2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow]]
+**Related:** [[2026-05-31-erin-brockovich-takes-aim-at-data-center-secrecy]] · [[2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-08-09-historian-jill-lepore-argues-silicon-valley-s-government-by]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-06-daily-ai-news-digest-september-7-2026
 - 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
 - 2026-09-04-daily-ai-news-digest-september-5-2026
-- 2026-06-27-daily-ai-news-digest-june-27-2026
 embedding_id: 2026-09-05-sunday-september-6-2026
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The last 24 hours were dominated by accountability rather than capability. OpenA
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-09-04-daily-ai-news-digest-september-5-2026]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]]
+**Related:** [[2026-09-06-daily-ai-news-digest-september-7-2026]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-09-04-daily-ai-news-digest-september-5-2026]]
 <!-- graph:end -->

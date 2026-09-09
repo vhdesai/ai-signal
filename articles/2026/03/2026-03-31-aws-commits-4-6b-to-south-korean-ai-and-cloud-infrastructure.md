@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud
 - 2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea
 - 2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct
+- 2026-09-07-south-korea-says-22-3b-texas-ai-power-deal-is-not-final-as-t
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
-- 2026-08-03-amazon-completes-additional-35-billion-investment-in-openai
 embedding_id: 2026-03-31-aws-commits-4-6b-to-south-korean-ai-and-cloud-infrastructure
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Amazon Web Services Korea disclosed plans to invest 7 trillion won (~$4.6B) in S
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud]] · [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-08-03-amazon-completes-additional-35-billion-investment-in-openai]]
+**Related:** [[2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud]] · [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-09-07-south-korea-says-22-3b-texas-ai-power-deal-is-not-final-as-t]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]]
 <!-- graph:end -->

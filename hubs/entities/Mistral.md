@@ -1,15 +1,17 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 196
+member_count: 198
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 196 connected article(s).
+> Auto-generated entity hub. 198 connected article(s).
 
+- `2026-09-07` [[2026-09-07-ifm-releases-k2-horizon-six-apache-2-0-open-weight-models-sp|IFM releases K2 Horizon: six Apache 2.0 open-weight models spanning 0.9B to 375B]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
 - `2026-09-06` [[2026-09-06-mistral-reportedly-closes-3b-round-with-samsung-nvidia-and-s|Mistral reportedly closes €3B round with Samsung, Nvidia, and Scaleup Fund]]
+- `2026-09-06` [[2026-09-06-meta-fair-oxford-and-ucl-introduce-research-preference-model|Meta FAIR, Oxford and UCL introduce Research Preference Models that rank experiments before spending GPU hours]]
 - `2026-09-05` [[2026-09-05-hikers-rescued-after-planning-a-climb-with-google-gemini|Hikers rescued after planning a climb with Google Gemini]]
 - `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
 - `2026-09-03` [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai|Trending UC Berkeley’s Stuart Russell calls for a halt to AI weapons]]

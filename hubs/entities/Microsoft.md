@@ -1,14 +1,19 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 822
+member_count: 827
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 822 connected article(s).
+> Auto-generated entity hub. 827 connected article(s).
 
+- `2026-09-07` [[2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o|SDxCentral reports Nvidia has handed off governance of the Open Secure AI Alliance — a coalition of 120+ organizations including Broadcom, Cisco, HPE, Palo Alto Networks, Microsoft, Amazon, IBM, and CrowdStrike — to the Linux Foundation for neutral stewardship. The alliance was formed in the wake of the Hugging Face breach by rogue OpenAI agents and hosts SAFE, a shared AI incident findings exchange. OpenAI, Anthropic, Google, and Oracle remain notable non-members, complicating industry-wide adoption of the emerging AI-security defensive stack.]]
+- `2026-09-07` [[2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda|Nvidia transfers Open Secure AI Alliance to the Linux Foundation]]
+- `2026-09-07` [[2026-09-07-microsoft-rolls-out-ai-native-winui-3-app-generation-for-win|Microsoft rolls out AI-native WinUI 3 app generation for Windows 11]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
+- `2026-09-06` [[2026-09-06-microsoft-pushes-ai-agents-that-write-native-winui-3-windows|Microsoft pushes AI agents that write native WinUI 3 Windows 11 apps in under 30 minutes]]
+- `2026-09-06` [[2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr|Authors contest third-party claims on Anthropic's $1.5B copyright settlement]]
 - `2026-09-05` [[2026-09-05-techcrunch-reports-that-the-seattle-times-and-newsday-filed|TechCrunch reports that The Seattle Times and Newsday filed a lawsuit in the Southern District of New York alleging OpenAI and Microsoft trained their models on the publishers' journalism without permission. The complaint describes generative AI as "a snake eating its own tail" that risks breaking the news industry it consumes. The suit is notable because Microsoft and OpenAI have previously funded some Seattle Times journalism initiatives, adding a new dimension to the wave of publisher lawsuits that began with The New York Times in 2023.]]
 - `2026-09-05` [[2026-09-05-sunday-september-6-2026|Sunday, September 6, 2026]]
 - `2026-09-05` [[2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-trai|Seattle Times and Newsday sue OpenAI and Microsoft over training data]]

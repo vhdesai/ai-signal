@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-academia-scrambles-to-prepare-future-accountants-for-ai
 - 2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative
+- 2026-09-06-openai-says-it-reached-its-automated-research-intern-goal-at
 - 2026-05-21-microsoft-and-ey-launch-1-billion-enterprise-ai-initiative
 - 2026-08-15-ey-creates-ai-value-realization-office-to-govern-ai-spending
 embedding_id: 2026-08-17-ey-transforms-internships-into-yearlong-ai-era-residencies
@@ -36,5 +37,5 @@ EY is launching a paid "Career Residency" that extends beyond the traditional 8-
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-academia-scrambles-to-prepare-future-accountants-for-ai]] · [[2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative]] · [[2026-05-21-microsoft-and-ey-launch-1-billion-enterprise-ai-initiative]] · [[2026-08-15-ey-creates-ai-value-realization-office-to-govern-ai-spending]]
+**Related:** [[2026-05-18-academia-scrambles-to-prepare-future-accountants-for-ai]] · [[2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative]] · [[2026-09-06-openai-says-it-reached-its-automated-research-intern-goal-at]] · [[2026-05-21-microsoft-and-ey-launch-1-billion-enterprise-ai-initiative]] · [[2026-08-15-ey-creates-ai-value-realization-office-to-govern-ai-spending]]
 <!-- graph:end -->

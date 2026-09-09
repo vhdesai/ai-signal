@@ -1,14 +1,22 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 185
+member_count: 193
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 185 connected article(s).
+> Auto-generated entity hub. 193 connected article(s).
 
+- `2026-09-07` [[2026-09-07-malaysia-weighs-adopting-huawei-ai-chips-despite-explicit-us|Malaysia weighs adopting Huawei AI chips despite explicit US warnings]]
+- `2026-09-07` [[2026-09-07-malaysia-weighs-huawei-chips-for-rm2b-national-ai-project-de|Malaysia weighs Huawei chips for RM2B national AI project despite US warnings]]
+- `2026-09-07` [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-chi|Huawei ships Kirin 9050 Pro built on its Tau Scaling Law chip architecture]]
+- `2026-09-06` [[2026-09-06-xai-loses-another-round-against-minnesota-s-synthetic-imager|xAI loses another round against Minnesota’s synthetic-imagery law]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
+- `2026-09-06` [[2026-09-06-deepseek-reportedly-plans-160-000-huawei-ascend-950dt-accele|DeepSeek reportedly plans 160,000 Huawei Ascend 950DT accelerators for an Inner Mongolia data center]]
+- `2026-09-06` [[2026-09-06-daily-ai-news-digest-september-7-2026|Daily AI News Digest – September 7, 2026]]
+- `2026-09-06` [[2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr|Authors contest third-party claims on Anthropic's $1.5B copyright settlement]]
+- `2026-09-05` [[2026-09-05-deepseek-plans-160-000-huawei-ascend-950dt-chips-for-gigawat|DeepSeek plans 160,000 Huawei Ascend 950DT chips for gigawatt-scale site]]
 - `2026-09-05` [[2026-09-05-deepseek-orders-160-000-huawei-ascend-chips-for-inner-mongol|DeepSeek orders 160,000 Huawei Ascend chips for Inner Mongolia inference cluster]]
 - `2026-09-05` [[2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner|DeepSeek Orders 160,000 Huawei Ascend 950DT Chips for Inner Mongolia Inference Cluster]]
 - `2026-09-04` [[2026-09-04-september-4-2026-the-information|[September 4, 2026] · The Information]]

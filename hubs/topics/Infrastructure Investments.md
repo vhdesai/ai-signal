@@ -1,17 +1,30 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1469
+member_count: 1483
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1469 connected article(s).
+> Auto-generated topic hub. 1483 connected article(s).
 
+- `2026-09-07` [[2026-09-07-wafer-a-non-nvidia-inference-provider-fields-acquisition-off|Wafer, a non-Nvidia inference provider, fields acquisition offers at $200M+ valuation]]
+- `2026-09-07` [[2026-09-07-tencent-restructures-bilibili-stake-into-debt-as-it-funds-ai|Tencent restructures Bilibili stake into debt as it funds AI initiatives]]
+- `2026-09-07` [[2026-09-07-tech-giants-say-ai-data-centers-are-getting-less-thirsty-as|Tech giants say AI data centers are getting less thirsty as siting fights intensify]]
+- `2026-09-07` [[2026-09-07-south-korea-says-22-3b-texas-ai-power-deal-is-not-final-as-t|South Korea says $22.3B Texas AI power deal is not final as talks continue]]
+- `2026-09-07` [[2026-09-07-nvidia-partner-iren-s-ceo-says-ai-compute-demand-may-never-b|Nvidia partner Iren's CEO says AI compute demand may never be sated]]
+- `2026-09-07` [[2026-09-07-google-to-build-a-new-ai-chip-in-israel-recruiting-from-hail|Google to build a new AI chip in Israel, recruiting from Hailo]]
+- `2026-09-07` [[2026-09-07-analysis-ai-hyperscalers-circular-deals-now-resemble-1980s-s|Analysis: AI hyperscalers' "circular deals" now resemble 1980s S&L "daisy chains"]]
+- `2026-09-07` [[2026-09-07-ai-leaders-reframe-agi-as-a-fuzzy-target-rather-than-a-measu|AI leaders reframe AGI as a “fuzzy target” rather than a measurable milestone]]
 - `2026-09-06` [[2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further|Report: China's AI giants stretch each compute dollar further than US rivals]]
 - `2026-09-06` [[2026-09-06-micron-s-fully-booked-advanced-fabs-spotlight-ai-memory-cons|Micron's fully booked advanced fabs spotlight AI memory constraints]]
+- `2026-09-06` [[2026-09-06-intel-positions-in-trusted-ai-standards-as-asus-expands-infr|Intel positions in trusted-AI standards as ASUS expands infrastructure ecosystem]]
+- `2026-09-06` [[2026-09-06-deepseek-reportedly-plans-160-000-huawei-ascend-950dt-accele|DeepSeek reportedly plans 160,000 Huawei Ascend 950DT accelerators for an Inner Mongolia data center]]
 - `2026-09-06` [[2026-09-06-crusoe-raises-3b-at-a-30b-valuation|Crusoe raises $3B at a $30B valuation]]
 - `2026-09-06` [[2026-09-06-cerebras-announces-200mw-european-ai-compute-expansion|Cerebras announces 200MW European AI compute expansion]]
+- `2026-09-06` [[2026-09-06-bytedance-lands-29-6b-loan-to-fuel-ai-advances|ByteDance lands $29.6B loan to fuel AI advances]]
+- `2026-09-06` [[2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr|Authors contest third-party claims on Anthropic's $1.5B copyright settlement]]
+- `2026-09-06` [[2026-09-06-anthropic-has-signed-roughly-517-billion-in-compute-deals-ov|Anthropic has signed roughly $517 billion in compute deals over 11 months]]
 - `2026-09-06` [[2026-09-06-ai-investment-figures-reach-a-new-order-of-magnitude|AI Investment Figures Reach a New Order of Magnitude]]
 - `2026-09-05` [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah|Nvidia-backed Nscale discloses $103B in contracted revenue ahead of IPO]]
 - `2026-09-05` [[2026-09-05-nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momen|Nvidia partner Hon Hai's sales climb 52% with AI server momentum]]
@@ -20,6 +33,7 @@ member_count: 1469
 - `2026-09-05` [[2026-09-05-hon-hai-august-sales-rise-52-on-ai-server-demand-as-europe-p|Hon Hai August sales rise 52% on AI server demand as Europe places its own orders]]
 - `2026-09-05` [[2026-09-05-hikers-rescued-after-planning-a-climb-with-google-gemini|Hikers rescued after planning a climb with Google Gemini]]
 - `2026-09-05` [[2026-09-05-foxconn-says-q3-should-beat-expectations-on-ai-strength|Foxconn says Q3 should beat expectations on AI strength]]
+- `2026-09-05` [[2026-09-05-deepseek-plans-160-000-huawei-ascend-950dt-chips-for-gigawat|DeepSeek plans 160,000 Huawei Ascend 950DT chips for gigawatt-scale site]]
 - `2026-09-05` [[2026-09-05-deepseek-orders-160-000-huawei-ascend-chips-for-inner-mongol|DeepSeek orders 160,000 Huawei Ascend chips for Inner Mongolia inference cluster]]
 - `2026-09-05` [[2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner|DeepSeek Orders 160,000 Huawei Ascend 950DT Chips for Inner Mongolia Inference Cluster]]
 - `2026-09-05` [[2026-09-05-data-center-backlash-becomes-a-midterm-political-issue|Data-center backlash becomes a midterm political issue]]

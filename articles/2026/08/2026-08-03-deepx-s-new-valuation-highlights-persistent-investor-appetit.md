@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe
 - 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
 - 2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50
-- 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
+- 2026-09-07-wafer-a-non-nvidia-inference-provider-fields-acquisition-off
 embedding_id: 2026-08-03-deepx-s-new-valuation-highlights-persistent-investor-appetit
 event_name: ''
 ---
@@ -38,5 +38,5 @@ DeepX’s new valuation highlights persistent investor appetite for AI silicon c
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe]] · [[2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]]
+**Related:** [[2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe]] · [[2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-09-07-wafer-a-non-nvidia-inference-provider-fields-acquisition-off]]
 <!-- graph:end -->

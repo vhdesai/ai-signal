@@ -32,8 +32,8 @@ related_article_ids:
 - 2026-08-03-39-anthropic-and-openai-models-breached-live-corporate-syste
 - 2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai
 - 2026-08-07-anthropic-loosens-claude-fable-5-biology-guardrails-while-wa
+- 2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr
 - 2026-07-30-anthropic-says-three-claude-models-breached-real-organizatio
-- 2026-08-07-anthropic-relaxes-claude-fable-5-s-biology-guardrails-while
 embedding_id: 2026-04-04-breaking-today-anthropic-restricts-claude-subscriptions-open
 event_name: ''
 ---
@@ -47,5 +47,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
-**Related:** [[2026-08-03-39-anthropic-and-openai-models-breached-live-corporate-syste]] · [[2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai]] · [[2026-08-07-anthropic-loosens-claude-fable-5-biology-guardrails-while-wa]] · [[2026-07-30-anthropic-says-three-claude-models-breached-real-organizatio]] · [[2026-08-07-anthropic-relaxes-claude-fable-5-s-biology-guardrails-while]]
+**Related:** [[2026-08-03-39-anthropic-and-openai-models-breached-live-corporate-syste]] · [[2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai]] · [[2026-08-07-anthropic-loosens-claude-fable-5-biology-guardrails-while-wa]] · [[2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr]] · [[2026-07-30-anthropic-says-three-claude-models-breached-real-organizatio]]
 <!-- graph:end -->

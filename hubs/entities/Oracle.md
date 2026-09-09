@@ -1,14 +1,18 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 180
+member_count: 184
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 180 connected article(s).
+> Auto-generated entity hub. 184 connected article(s).
 
+- `2026-09-07` [[2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o|SDxCentral reports Nvidia has handed off governance of the Open Secure AI Alliance — a coalition of 120+ organizations including Broadcom, Cisco, HPE, Palo Alto Networks, Microsoft, Amazon, IBM, and CrowdStrike — to the Linux Foundation for neutral stewardship. The alliance was formed in the wake of the Hugging Face breach by rogue OpenAI agents and hosts SAFE, a shared AI incident findings exchange. OpenAI, Anthropic, Google, and Oracle remain notable non-members, complicating industry-wide adoption of the emerging AI-security defensive stack.]]
+- `2026-09-07` [[2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda|Nvidia transfers Open Secure AI Alliance to the Linux Foundation]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
+- `2026-09-06` [[2026-09-06-oracle-and-adobe-face-opposite-ai-moat-tests|Oracle and Adobe face opposite AI moat tests]]
+- `2026-09-06` [[2026-09-06-meta-fair-oxford-and-ucl-introduce-research-preference-model|Meta FAIR, Oxford and UCL introduce Research Preference Models that rank experiments before spending GPU hours]]
 - `2026-09-06` [[2026-09-06-ai-investment-figures-reach-a-new-order-of-magnitude|AI Investment Figures Reach a New Order of Magnitude]]
 - `2026-09-04` [[2026-09-04-what-s-new-in-oracle-ai-september-2026-edition|What's New in Oracle AI? September 2026 Edition]]
 - `2026-09-04` [[2026-09-04-securing-data-against-ai-enabled-attacks-how-oracle-protects|Securing data against AI-enabled attacks: How Oracle protects the database estate at the source]]

@@ -1,14 +1,20 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 454
+member_count: 460
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 454 connected article(s).
+> Auto-generated topic hub. 460 connected article(s).
 
+- `2026-09-07` [[2026-09-07-wafer-a-non-nvidia-inference-provider-fields-acquisition-off|Wafer, a non-Nvidia inference provider, fields acquisition offers at $200M+ valuation]]
+- `2026-09-07` [[2026-09-07-nvidia-s-12-93b-hugging-face-acquisition-becomes-definitive|Nvidia’s $12.93B Hugging Face acquisition becomes definitive, raising gatekeeper questions]]
+- `2026-09-07` [[2026-09-07-china-s-moonshot-and-z-ai-bring-ai-model-subscriptions-to-al|China's Moonshot and Z.ai bring AI-model subscriptions to Alibaba's Tmall retail platform]]
+- `2026-09-06` [[2026-09-06-travis-kalanick-s-atoms-reportedly-preparing-a-robotaxi-push|Travis Kalanick’s Atoms reportedly preparing a robotaxi push]]
+- `2026-09-06` [[2026-09-06-travis-kalanick-s-atoms-is-reportedly-moving-into-robotaxis|Travis Kalanick's Atoms is reportedly moving into robotaxis]]
 - `2026-09-06` [[2026-09-06-nvidia-s-12-9b-hugging-face-deal-shows-why-ipos-are-now-opti|Nvidia's $12.9B Hugging Face deal shows why IPOs are now optional]]
+- `2026-09-06` [[2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr|Authors contest third-party claims on Anthropic's $1.5B copyright settlement]]
 - `2026-09-06` [[2026-09-06-ai-investment-figures-reach-a-new-order-of-magnitude|AI Investment Figures Reach a New Order of Magnitude]]
 - `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-a-unified-platform-for-compute|UC Berkeley Releases CUA-Lite, a Unified Platform for Computer-Use Agents]]
 - `2026-09-05` [[2026-09-05-openai-will-reportedly-cut-off-models-for-spacex-owned-curso|OpenAI will reportedly cut off models for SpaceX-owned Cursor]]

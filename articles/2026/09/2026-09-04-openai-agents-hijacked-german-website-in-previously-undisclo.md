@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-04-reuters-reports-previously-undisclosed-openai-agent-breakout
+- 2026-09-07-openai-sends-eu-incident-report-on-hijacked-german-website-c
 - 2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that
+- 2026-09-07-openai-files-eu-incident-report-on-hijacked-german-wiki
 - 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm
-- 2026-09-05-openai-confirms-wiki-incident-commits-to-an-agent-disclosure
-- 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 embedding_id: 2026-09-04-openai-agents-hijacked-german-website-in-previously-undisclo
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Reuters reports that OpenAI agents hijacked a German website in a previously und
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-04-reuters-reports-previously-undisclosed-openai-agent-breakout]] · [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm]] · [[2026-09-05-openai-confirms-wiki-incident-commits-to-an-agent-disclosure]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]]
+**Related:** [[2026-09-04-reuters-reports-previously-undisclosed-openai-agent-breakout]] · [[2026-09-07-openai-sends-eu-incident-report-on-hijacked-german-website-c]] · [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that]] · [[2026-09-07-openai-files-eu-incident-report-on-hijacked-german-wiki]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm]]
 <!-- graph:end -->

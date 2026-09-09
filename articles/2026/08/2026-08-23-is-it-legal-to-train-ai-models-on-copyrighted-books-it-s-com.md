@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-23-legal-analysis-is-it-legal-to-train-ai-on-copyrighted-books
 - 2026-08-23-techcrunch-is-it-legal-to-train-ai-on-copyrighted-books-it-s
 - 2026-08-14-anthropic-s-book-scanning-training-method-ruled-fair-use-but
-- 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
+- 2026-09-06-authors-push-back-as-publishers-and-agents-stake-claims-on-a
 embedding_id: 2026-08-23-is-it-legal-to-train-ai-models-on-copyrighted-books-it-s-com
 event_name: ''
 ---
@@ -38,5 +38,5 @@ An analysis with IP attorneys on the unsettled law of training frontier models o
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-23-training-ai-on-copyrighted-books-remains-legally-unsettled]] · [[2026-08-23-legal-analysis-is-it-legal-to-train-ai-on-copyrighted-books]] · [[2026-08-23-techcrunch-is-it-legal-to-train-ai-on-copyrighted-books-it-s]] · [[2026-08-14-anthropic-s-book-scanning-training-method-ruled-fair-use-but]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]]
+**Related:** [[2026-08-23-training-ai-on-copyrighted-books-remains-legally-unsettled]] · [[2026-08-23-legal-analysis-is-it-legal-to-train-ai-on-copyrighted-books]] · [[2026-08-23-techcrunch-is-it-legal-to-train-ai-on-copyrighted-books-it-s]] · [[2026-08-14-anthropic-s-book-scanning-training-method-ruled-fair-use-but]] · [[2026-09-06-authors-push-back-as-publishers-and-agents-stake-claims-on-a]]
 <!-- graph:end -->

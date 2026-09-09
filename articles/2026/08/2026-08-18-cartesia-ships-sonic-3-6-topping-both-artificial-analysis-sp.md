@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai
 - 2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a
 - 2026-09-06-meta-releases-muse-voice-transcribe-for-real-time-streaming
+- 2026-09-06-meta-superintelligence-labs-releases-muse-voice-transcribe
 - 2026-09-06-meta-s-real-time-audio-model-targets-always-listening-assist
-- 2026-09-01-meta-superintelligence-labs-releases-muse-voice-transcribe-i
 embedding_id: 2026-08-18-cartesia-ships-sonic-3-6-topping-both-artificial-analysis-sp
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Cartesia released Sonic-3.6, a state-space-model (non-transformer) streaming tex
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai]] · [[2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a]] · [[2026-09-06-meta-releases-muse-voice-transcribe-for-real-time-streaming]] · [[2026-09-06-meta-s-real-time-audio-model-targets-always-listening-assist]] · [[2026-09-01-meta-superintelligence-labs-releases-muse-voice-transcribe-i]]
+**Related:** [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai]] · [[2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a]] · [[2026-09-06-meta-releases-muse-voice-transcribe-for-real-time-streaming]] · [[2026-09-06-meta-superintelligence-labs-releases-muse-voice-transcribe]] · [[2026-09-06-meta-s-real-time-audio-model-targets-always-listening-assist]]
 <!-- graph:end -->

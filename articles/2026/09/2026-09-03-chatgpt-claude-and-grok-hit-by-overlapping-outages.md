@@ -22,8 +22,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-07-post-mortem-chatgpt-claude-and-grok-all-failed-within-roughl
 - 2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude
-- 2026-09-03-simultaneous-ai-service-outages-expose-correlated-dependency
 embedding_id: 2026-09-03-chatgpt-claude-and-grok-hit-by-overlapping-outages
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Anthropic confirmed a Claude outage beginning around 9:41 AM ET on September 3 w
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude]] · [[2026-09-03-simultaneous-ai-service-outages-expose-correlated-dependency]]
+**Related:** [[2026-09-07-post-mortem-chatgpt-claude-and-grok-all-failed-within-roughl]] · [[2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude]]
 <!-- graph:end -->

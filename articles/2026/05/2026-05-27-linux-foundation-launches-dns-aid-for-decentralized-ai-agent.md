@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-15-vint-cerf-backs-identity-standards-for-internet-scale-ai-age
 - 2026-07-15-vint-cerf-backs-effort-to-create-identity-standards-for-inte
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
-- 2026-06-26-linux-foundation-and-20-tech-giants-launch-akrites-to-harden
+- 2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda
 embedding_id: 2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Linux Foundation announced DNS-AID — a project to build decentralized disc
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos]] · [[2026-07-15-vint-cerf-backs-identity-standards-for-internet-scale-ai-age]] · [[2026-07-15-vint-cerf-backs-effort-to-create-identity-standards-for-inte]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-06-26-linux-foundation-and-20-tech-giants-launch-akrites-to-harden]]
+**Related:** [[2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos]] · [[2026-07-15-vint-cerf-backs-identity-standards-for-internet-scale-ai-age]] · [[2026-07-15-vint-cerf-backs-effort-to-create-identity-standards-for-inte]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda]]
 <!-- graph:end -->

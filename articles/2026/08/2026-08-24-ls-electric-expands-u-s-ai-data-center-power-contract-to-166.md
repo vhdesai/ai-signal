@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-24-ls-electric-more-than-doubles-a-us-ai-data-center-power-cont
+- 2026-09-07-south-korea-says-22-3b-texas-ai-power-deal-is-not-final-as-t
 - 2026-08-27-cummins-lands-largest-ever-battery-storage-contract-for-a-u
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
 - 2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector
-- 2026-08-25-emerald-ai-raises-150m-at-a-1-05b-valuation-to-make-data-cen
 embedding_id: 2026-08-24-ls-electric-expands-u-s-ai-data-center-power-contract-to-166
 event_name: ''
 ---
@@ -37,5 +37,5 @@ LS Electric more than doubled a U.S. AI data center power equipment contract to 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-24-ls-electric-more-than-doubles-a-us-ai-data-center-power-cont]] · [[2026-08-27-cummins-lands-largest-ever-battery-storage-contract-for-a-u]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]] · [[2026-08-25-emerald-ai-raises-150m-at-a-1-05b-valuation-to-make-data-cen]]
+**Related:** [[2026-08-24-ls-electric-more-than-doubles-a-us-ai-data-center-power-cont]] · [[2026-09-07-south-korea-says-22-3b-texas-ai-power-deal-is-not-final-as-t]] · [[2026-08-27-cummins-lands-largest-ever-battery-storage-contract-for-a-u]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]]
 <!-- graph:end -->

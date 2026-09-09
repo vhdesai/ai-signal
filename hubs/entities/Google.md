@@ -1,22 +1,29 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1280
+member_count: 1287
 ---
 
 # Google
 
-> Auto-generated entity hub. 1280 connected article(s).
+> Auto-generated entity hub. 1287 connected article(s).
 
+- `2026-09-07` [[2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o|SDxCentral reports Nvidia has handed off governance of the Open Secure AI Alliance — a coalition of 120+ organizations including Broadcom, Cisco, HPE, Palo Alto Networks, Microsoft, Amazon, IBM, and CrowdStrike — to the Linux Foundation for neutral stewardship. The alliance was formed in the wake of the Hugging Face breach by rogue OpenAI agents and hosts SAFE, a shared AI incident findings exchange. OpenAI, Anthropic, Google, and Oracle remain notable non-members, complicating industry-wide adoption of the emerging AI-security defensive stack.]]
+- `2026-09-07` [[2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda|Nvidia transfers Open Secure AI Alliance to the Linux Foundation]]
+- `2026-09-07` [[2026-09-07-insurance-claims-lose-the-paper-chase-as-ai-gets-to-work|Insurance claims lose the paper chase as AI gets to work]]
+- `2026-09-07` [[2026-09-07-google-to-build-a-new-ai-chip-in-israel-recruiting-from-hail|Google to build a new AI chip in Israel, recruiting from Hailo]]
+- `2026-09-07` [[2026-09-07-eligible-asus-laptops-unlock-bundled-google-ai-experiences|Eligible ASUS laptops unlock bundled Google AI experiences]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
 - `2026-09-06` [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai|Meta's new real-time audio model targets always-listening AI assistants]]
 - `2026-09-06` [[2026-09-06-meta-migrates-internal-communications-from-google-chat-to-sl|Meta migrates internal communications from Google Chat to Slack, citing AI agents]]
+- `2026-09-06` [[2026-09-06-meta-fair-oxford-and-ucl-introduce-research-preference-model|Meta FAIR, Oxford and UCL introduce Research Preference Models that rank experiments before spending GPU hours]]
 - `2026-09-06` [[2026-09-06-google-s-weathernext-3-drops-physics-simulation-and-learns-w|Google’s WeatherNext 3 drops physics simulation and learns weather from live satellite data]]
 - `2026-09-06` [[2026-09-06-google-s-weathernext-3-learns-weather-directly-from-satellit|Google's WeatherNext 3 learns weather directly from satellite data, skipping physics simulation]]
 - `2026-09-06` [[2026-09-06-google-rolls-out-lyria-3-5-music-generation-to-the-gemini-ap|Google rolls out Lyria 3.5 music generation to the Gemini app and API]]
 - `2026-09-06` [[2026-09-06-google-brings-lyria-3-5-music-generation-directly-into-the-g|Google brings Lyria 3.5 music generation directly into the Gemini app]]
 - `2026-09-06` [[2026-09-06-google-brings-ai-music-generation-into-the-gemini-app-with-l|Google brings AI music generation into the Gemini app with Lyria 3.5]]
 - `2026-09-06` [[2026-09-06-google-deepmind-s-weathernext-3-learns-weather-directly-from|Google DeepMind's WeatherNext 3 learns weather directly from live satellite data]]
+- `2026-09-06` [[2026-09-06-anthropic-has-signed-roughly-517-billion-in-compute-deals-ov|Anthropic has signed roughly $517 billion in compute deals over 11 months]]
 - `2026-09-06` [[2026-09-06-model-fatigue-sets-in-as-ai-labs-iterate-at-a-frenetic-pace|"Model fatigue" sets in as AI labs iterate at a frenetic pace]]
 - `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-unifying-sandboxes-data-evalua|UC Berkeley releases CUA-Lite, unifying sandboxes, data, evaluation and RL for computer-use agents]]
 - `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-a-unified-platform-for-compute|UC Berkeley Releases CUA-Lite, a Unified Platform for Computer-Use Agents]]

@@ -4,8 +4,8 @@ title: China launches AI app to detect online fraud schemes
 date: '2026-09-06'
 source: VOI.ID
 url_original: null
-url_canonical: http://global.chinadaily.com.cn/a/202609/06/WS6a9d19f7e4b06d4aa055c946.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-06_060801_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: e459a6d9549f8afd4349d72c8893c19b9d3740de96fd489e52f03effd3f65066

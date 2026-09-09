@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-06-uber-plans-to-invest-10-billion-over-time-in-autonomous-vehi
+- 2026-09-06-travis-kalanick-s-atoms-is-reportedly-moving-into-robotaxis
 - 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
 - 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 - 2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are
-- 2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv
 embedding_id: 2026-08-18-uber-s-waymo-fears-are-overblown-analysts-say-stock-discount
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Uber stock has dropped 8% this year on fears of Waymo competition, but The Infor
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-uber-plans-to-invest-10-billion-over-time-in-autonomous-vehi]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are]] · [[2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv]]
+**Related:** [[2026-08-06-uber-plans-to-invest-10-billion-over-time-in-autonomous-vehi]] · [[2026-09-06-travis-kalanick-s-atoms-is-reportedly-moving-into-robotaxis]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are]]
 <!-- graph:end -->

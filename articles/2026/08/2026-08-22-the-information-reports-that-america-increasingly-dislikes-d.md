@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
 - 2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a
 - 2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash
+- 2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur
 - 2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d
-- 2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po
 embedding_id: 2026-08-22-the-information-reports-that-america-increasingly-dislikes-d
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Information reported on rising U.S. opposition to data centers, a trend incr
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash]] · [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]]
+**Related:** [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash]] · [[2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur]] · [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]]
 <!-- graph:end -->

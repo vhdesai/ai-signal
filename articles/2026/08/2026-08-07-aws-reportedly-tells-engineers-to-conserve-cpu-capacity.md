@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity-as-t
 - 2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch
 - 2026-09-04-aws-details-lifecycle-policies-for-long-running-agent-memory
+- 2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur
 - 2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai
 embedding_id: 2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity
 event_name: ''
@@ -37,5 +38,5 @@ AWS managers have reportedly instructed internal engineering teams to reduce com
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity-as-t]] · [[2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch]] · [[2026-09-04-aws-details-lifecycle-policies-for-long-running-agent-memory]] · [[2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai]]
+**Related:** [[2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity-as-t]] · [[2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch]] · [[2026-09-04-aws-details-lifecycle-policies-for-long-running-agent-memory]] · [[2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur]] · [[2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai]]
 <!-- graph:end -->

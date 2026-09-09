@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-04-deepseek-plots-major-huawei-ai-chip-order
+- 2026-09-06-deepseek-reportedly-plans-160-000-huawei-ascend-950dt-accele
 - 2026-09-04-hot-deepseek-to-deploy-160-000-huawei-ascend-chips-in-inner
 - 2026-09-04-deepseek-turns-to-huawei-for-160-000-ascend-ai-chips-as-nvid
 - 2026-09-04-deepseek-plans-major-huawei-chip-order-for-new-ai-data-cente
-- 2026-09-04-september-4-2026-the-information
 embedding_id: 2026-09-04-deepseek-plans-a-160-000-chip-huawei-cluster-at-a-1gw-inner
 event_name: ''
 ---
@@ -42,5 +42,5 @@ DeepSeek plans to deploy at least 160,000 Huawei AI accelerators at a new Inner 
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-04-deepseek-plots-major-huawei-ai-chip-order]] · [[2026-09-04-hot-deepseek-to-deploy-160-000-huawei-ascend-chips-in-inner]] · [[2026-09-04-deepseek-turns-to-huawei-for-160-000-ascend-ai-chips-as-nvid]] · [[2026-09-04-deepseek-plans-major-huawei-chip-order-for-new-ai-data-cente]] · [[2026-09-04-september-4-2026-the-information]]
+**Related:** [[2026-09-04-deepseek-plots-major-huawei-ai-chip-order]] · [[2026-09-06-deepseek-reportedly-plans-160-000-huawei-ascend-950dt-accele]] · [[2026-09-04-hot-deepseek-to-deploy-160-000-huawei-ascend-chips-in-inner]] · [[2026-09-04-deepseek-turns-to-huawei-for-160-000-ascend-ai-chips-as-nvid]] · [[2026-09-04-deepseek-plans-major-huawei-chip-order-for-new-ai-data-cente]]
 <!-- graph:end -->

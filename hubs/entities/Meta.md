@@ -1,18 +1,25 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 665
+member_count: 672
 ---
 
 # Meta
 
-> Auto-generated entity hub. 665 connected article(s).
+> Auto-generated entity hub. 672 connected article(s).
 
+- `2026-09-07` [[2026-09-07-ifm-releases-k2-horizon-six-apache-2-0-open-weight-models-sp|IFM releases K2 Horizon: six Apache 2.0 open-weight models spanning 0.9B to 375B]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
 - `2026-09-06` [[2026-09-06-meta-s-real-time-audio-model-targets-always-listening-assist|Meta’s real-time audio model targets always-listening assistants]]
 - `2026-09-06` [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai|Meta's new real-time audio model targets always-listening AI assistants]]
 - `2026-09-06` [[2026-09-06-meta-releases-muse-voice-transcribe-for-real-time-streaming|Meta releases Muse Voice Transcribe for real-time streaming speech recognition]]
 - `2026-09-06` [[2026-09-06-meta-migrates-internal-communications-from-google-chat-to-sl|Meta migrates internal communications from Google Chat to Slack, citing AI agents]]
+- `2026-09-06` [[2026-09-06-meta-superintelligence-labs-releases-muse-voice-transcribe|Meta Superintelligence Labs releases Muse Voice Transcribe]]
+- `2026-09-06` [[2026-09-06-meta-fair-oxford-and-ucl-rank-ml-experiments-before-spending|Meta FAIR, Oxford and UCL rank ML experiments before spending GPU hours]]
+- `2026-09-06` [[2026-09-06-meta-fair-oxford-and-ucl-introduce-research-preference-model|Meta FAIR, Oxford and UCL introduce Research Preference Models that rank experiments before spending GPU hours]]
+- `2026-09-06` [[2026-09-06-meta-fair-introduces-research-preference-models-to-rank-expe|Meta FAIR introduces Research Preference Models to rank experiments before spending GPU hours]]
+- `2026-09-06` [[2026-09-06-meta-fair-introduces-research-preference-models-to-rank-ml-e|Meta FAIR introduces Research Preference Models to rank ML experiments before spending GPU hours]]
+- `2026-09-06` [[2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr|Authors contest third-party claims on Anthropic's $1.5B copyright settlement]]
 - `2026-09-06` [[2026-09-06-model-fatigue-sets-in-as-ai-labs-iterate-at-a-frenetic-pace|"Model fatigue" sets in as AI labs iterate at a frenetic pace]]
 - `2026-09-05` [[2026-09-05-hikers-rescued-after-planning-a-climb-with-google-gemini|Hikers rescued after planning a climb with Google Gemini]]
 - `2026-09-04` [[2026-09-04-meta-stock-jumps-after-unveiling-new-ai-coding-model|Meta stock jumps after unveiling new AI coding model]]

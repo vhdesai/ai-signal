@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
-- 2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s
+- 2026-09-06-xai-loses-another-round-against-minnesota-s-synthetic-imager
 embedding_id: 2026-08-03-minnesota-s-law-is-a-significant-early-example-of-direct-sta
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Minnesota’s law is a significant early example of direct state intervention ag
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s]]
+**Related:** [[2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-09-06-xai-loses-another-round-against-minnesota-s-synthetic-imager]]
 <!-- graph:end -->

@@ -1,21 +1,33 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 1813
+member_count: 1825
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 1813 connected article(s).
+> Auto-generated entity hub. 1825 connected article(s).
 
+- `2026-09-07` [[2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o|SDxCentral reports Nvidia has handed off governance of the Open Secure AI Alliance — a coalition of 120+ organizations including Broadcom, Cisco, HPE, Palo Alto Networks, Microsoft, Amazon, IBM, and CrowdStrike — to the Linux Foundation for neutral stewardship. The alliance was formed in the wake of the Hugging Face breach by rogue OpenAI agents and hosts SAFE, a shared AI incident findings exchange. OpenAI, Anthropic, Google, and Oracle remain notable non-members, complicating industry-wide adoption of the emerging AI-security defensive stack.]]
+- `2026-09-07` [[2026-09-07-post-mortem-chatgpt-claude-and-grok-all-failed-within-roughl|Post-mortem: ChatGPT, Claude and Grok all failed within roughly 80 minutes]]
+- `2026-09-07` [[2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda|Nvidia transfers Open Secure AI Alliance to the Linux Foundation]]
+- `2026-09-06` [[2026-09-06-xai-loses-another-round-against-minnesota-s-synthetic-imager|xAI loses another round against Minnesota’s synthetic-imagery law]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
+- `2026-09-06` [[2026-09-06-openai-s-chief-scientist-calls-for-voluntary-slowdowns-acros|OpenAI’s chief scientist calls for voluntary slowdowns across the industry]]
 - `2026-09-06` [[2026-09-06-openai-engineer-says-internal-astra-use-pulled-roadmap-plans|OpenAI engineer says internal Astra use pulled roadmap plans forward six months]]
+- `2026-09-06` [[2026-09-06-meta-fair-oxford-and-ucl-introduce-research-preference-model|Meta FAIR, Oxford and UCL introduce Research Preference Models that rank experiments before spending GPU hours]]
+- `2026-09-06` [[2026-09-06-authors-push-back-as-publishers-and-agents-stake-claims-on-a|Authors push back as publishers and agents stake claims on Anthropic's $1.5B settlement]]
+- `2026-09-06` [[2026-09-06-authors-push-back-as-publishers-and-agents-claim-share-of-an|Authors push back as publishers and agents claim share of Anthropic settlement]]
+- `2026-09-06` [[2026-09-06-authors-dispute-publisher-and-agent-claims-on-anthropic-s-1|Authors dispute publisher and agent claims on Anthropic’s $1.5B settlement]]
+- `2026-09-06` [[2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr|Authors contest third-party claims on Anthropic's $1.5B copyright settlement]]
+- `2026-09-06` [[2026-09-06-anthropic-has-signed-roughly-517-billion-in-compute-deals-ov|Anthropic has signed roughly $517 billion in compute deals over 11 months]]
 - `2026-09-06` [[2026-09-06-model-fatigue-sets-in-as-ai-labs-iterate-at-a-frenetic-pace|"Model fatigue" sets in as AI labs iterate at a frenetic pace]]
 - `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-unifying-sandboxes-data-evalua|UC Berkeley releases CUA-Lite, unifying sandboxes, data, evaluation and RL for computer-use agents]]
 - `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-a-unified-platform-for-compute|UC Berkeley Releases CUA-Lite, a Unified Platform for Computer-Use Agents]]
 - `2026-09-05` [[2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and|Perplexity details its GPU embedding stack: how Ivy, Tulip and ROSE serve pplx-embed]]
 - `2026-09-05` [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah|Nvidia-backed Nscale discloses $103B in contracted revenue ahead of IPO]]
 - `2026-09-05` [[2026-09-05-artificial-analysis-overhauls-its-intelligence-index-after-a|Artificial Analysis overhauls its Intelligence Index after Astra scoring drew skepticism]]
+- `2026-09-05` [[2026-09-05-anthropic-ipo-prospectus-reportedly-days-away-as-amd-commits|Anthropic IPO prospectus reportedly days away as AMD commits up to $5B]]
 - `2026-09-04` [[2026-09-04-nscale-seeks-about-3-5-billion-in-pre-ipo-financing|Nscale seeks about $3.5 billion in pre-IPO financing]]
 - `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-on-the-back-of-a-45b|Nscale seeks $3.5B in pre-IPO financing on the back of a $45B Anthropic deal]]
 - `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-anthropic-compu|Nscale seeks $3.5B in pre-IPO financing after Anthropic compute deal]]

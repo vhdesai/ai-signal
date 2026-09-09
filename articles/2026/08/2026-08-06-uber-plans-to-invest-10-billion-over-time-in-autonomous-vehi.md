@@ -24,9 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-huawei-commits-11-7b-to-autonomous-driving-ai-compute-build
+- 2026-09-06-travis-kalanick-s-atoms-is-reportedly-moving-into-robotaxis
+- 2026-09-06-travis-kalanick-s-atoms-reportedly-preparing-a-robotaxi-push
 - 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
 - 2026-08-14-pony-ai-and-uber-plan-more-than-2-000-robotaxis-across-five
-- 2026-04-25-google-plans-up-to-40b-anthropic-investment
 embedding_id: 2026-08-06-uber-plans-to-invest-10-billion-over-time-in-autonomous-vehi
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Uber announced plans to invest $10 billion over time in autonomous vehicle techn
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-04-23-huawei-commits-11-7b-to-autonomous-driving-ai-compute-build]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-08-14-pony-ai-and-uber-plan-more-than-2-000-robotaxis-across-five]] · [[2026-04-25-google-plans-up-to-40b-anthropic-investment]]
+**Related:** [[2026-04-23-huawei-commits-11-7b-to-autonomous-driving-ai-compute-build]] · [[2026-09-06-travis-kalanick-s-atoms-is-reportedly-moving-into-robotaxis]] · [[2026-09-06-travis-kalanick-s-atoms-reportedly-preparing-a-robotaxi-push]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-08-14-pony-ai-and-uber-plan-more-than-2-000-robotaxis-across-five]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: SB Energy files for IPO with Nvidia backing
 date: '2026-09-06'
 source: WSJ
 url_original: null
-url_canonical: https://www.msn.com/en-us/money/technology/sb-energy-files-for-ipo-with-nvidia-backing/ar-AA2blyao
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-06_065650_Final-Daily-AI-News-Digest.md
 content_hash: 7bb03ff85670d0eadbfb8f8f74c4a74c7d603af64842becd8166ea948499fd24
 normalized_title_hash: c45bcc17e70c7e98

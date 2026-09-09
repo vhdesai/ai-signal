@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct
 - 2026-06-05-airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-indi
 - 2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back
-- 2026-05-19-microsoft-india-s-largest-data-center-on-track-for-mid-2026
+- 2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur
 embedding_id: 2026-08-06-google-s-15b-india-ai-data-center-faces-water-and-wildlife-o
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google's planned $15 billion AI and data-center hub in Visakhapatnam—developed
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-06-05-airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-indi]] · [[2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back]] · [[2026-05-19-microsoft-india-s-largest-data-center-on-track-for-mid-2026]]
+**Related:** [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-06-05-airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-indi]] · [[2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back]] · [[2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur]]
 <!-- graph:end -->

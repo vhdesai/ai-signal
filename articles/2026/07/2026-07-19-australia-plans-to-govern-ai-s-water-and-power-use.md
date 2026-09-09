@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi
+- 2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur
+- 2026-09-07-tech-giants-say-ai-data-centers-are-getting-less-thirsty-as
 - 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
 - 2026-06-09-reuters-will-ai-become-a-public-utility
-- 2026-07-19-australia-to-curb-government-use-of-automated-ai-decision-ma
-- 2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t
 embedding_id: 2026-07-19-australia-plans-to-govern-ai-s-water-and-power-use
 event_name: ''
 ---
@@ -38,5 +38,5 @@ WSJ reports that Australia is planning to govern the use of water and power for 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-06-09-reuters-will-ai-become-a-public-utility]] · [[2026-07-19-australia-to-curb-government-use-of-automated-ai-decision-ma]] · [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]]
+**Related:** [[2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi]] · [[2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur]] · [[2026-09-07-tech-giants-say-ai-data-centers-are-getting-less-thirsty-as]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-06-09-reuters-will-ai-become-a-public-utility]]
 <!-- graph:end -->

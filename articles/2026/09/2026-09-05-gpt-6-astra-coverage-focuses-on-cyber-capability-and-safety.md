@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: The Tech Edvocate
 url_original: https://www.thetechedvocate.org/gpt-6-astra-openais-critical-ai-just-scored-100-on-hacking-tests/
 url_canonical: https://www.thetechedvocate.org/gpt-6-astra-openais-critical-ai-just-scored-100-on-hacking-tests/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-09-06_060801_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: 20afcf82626e219010eae9d597da1b102f548266f4d4d79b0bd7d215f9685dc3

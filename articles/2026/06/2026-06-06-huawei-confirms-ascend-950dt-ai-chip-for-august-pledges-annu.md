@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-06-huawei-confirms-ascend-950dt-ai-chip-to-debut-in-august-pled
+- 2026-09-05-deepseek-plans-160-000-huawei-ascend-950dt-chips-for-gigawat
 - 2026-09-04-deepseek-turns-to-huawei-for-160-000-ascend-ai-chips-as-nvid
 - 2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies
 - 2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on
-- 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
 embedding_id: 2026-06-06-huawei-confirms-ascend-950dt-ai-chip-for-august-pledges-annu
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Huawei confirmed its next-gen Ascend 950DT AI processor debuts in August, pledgi
 
 **Entities:** [[DeepSeek]] · [[Huawei]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-06-06-huawei-confirms-ascend-950dt-ai-chip-to-debut-in-august-pled]] · [[2026-09-04-deepseek-turns-to-huawei-for-160-000-ascend-ai-chips-as-nvid]] · [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]] · [[2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on]] · [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]]
+**Related:** [[2026-06-06-huawei-confirms-ascend-950dt-ai-chip-to-debut-in-august-pled]] · [[2026-09-05-deepseek-plans-160-000-huawei-ascend-950dt-chips-for-gigawat]] · [[2026-09-04-deepseek-turns-to-huawei-for-160-000-ascend-ai-chips-as-nvid]] · [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]] · [[2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on]]
 <!-- graph:end -->

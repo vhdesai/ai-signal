@@ -1,16 +1,27 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 1642
+member_count: 1654
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 1642 connected article(s).
+> Auto-generated topic hub. 1654 connected article(s).
 
+- `2026-09-07` [[2026-09-07-openai-files-eu-incident-report-on-hijacked-german-wiki|OpenAI files EU incident report on hijacked German wiki]]
+- `2026-09-07` [[2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda|Nvidia transfers Open Secure AI Alliance to the Linux Foundation]]
+- `2026-09-07` [[2026-09-07-japan-s-preferred-networks-seeks-an-ipo-to-fund-chip-mass-pr|Japan's Preferred Networks seeks an IPO to fund chip mass production]]
+- `2026-09-07` [[2026-09-07-ai-leaders-reframe-agi-as-a-fuzzy-target-rather-than-a-measu|AI leaders reframe AGI as a “fuzzy target” rather than a measurable milestone]]
+- `2026-09-06` [[2026-09-06-an-alien-mind-openai-s-chief-scientist-calls-for-voluntary-s|“An Alien Mind”: OpenAI’s Chief Scientist calls for voluntary slowdowns and third-party safety audits]]
 - `2026-09-06` [[2026-09-06-stripping-safety-guardrails-from-open-weight-models-is-now-a|Stripping safety guardrails from open-weight models is now a commercial service]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-real-clinical-p|Psychiatry debates whether "AI psychosis" is a real clinical phenomenon]]
+- `2026-09-06` [[2026-09-06-openai-s-chief-scientist-calls-for-voluntary-slowdowns-acros|OpenAI’s chief scientist calls for voluntary slowdowns across the industry]]
+- `2026-09-06` [[2026-09-06-openai-s-chief-scientist-calls-frontier-models-an-alien-mind|OpenAI's chief scientist calls frontier models “an alien mind” and urges shared safety bars]]
+- `2026-09-06` [[2026-09-06-openai-chief-scientist-pachocki-alignment-and-monitoring-are|OpenAI chief scientist Pachocki: alignment and monitoring are not keeping pace with scaling]]
+- `2026-09-06` [[2026-09-06-authors-push-back-as-publishers-and-agents-stake-claims-on-a|Authors push back as publishers and agents stake claims on Anthropic's $1.5B settlement]]
+- `2026-09-06` [[2026-09-06-authors-dispute-publisher-and-agent-claims-on-anthropic-s-1|Authors dispute publisher and agent claims on Anthropic’s $1.5B settlement]]
+- `2026-09-06` [[2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr|Authors contest third-party claims on Anthropic's $1.5B copyright settlement]]
 - `2026-09-06` [[2026-09-06-abliteration-ai-commercializes-guardrail-removal-from-open-w|Abliteration.ai commercializes guardrail removal from open-weight models]]
 - `2026-09-05` [[2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u|We're plausibly close to crossing the line: are warnings of uncontrollable AI coming true?]]
 - `2026-09-05` [[2026-09-05-techcrunch-reports-that-the-seattle-times-and-newsday-filed|TechCrunch reports that The Seattle Times and Newsday filed a lawsuit in the Southern District of New York alleging OpenAI and Microsoft trained their models on the publishers' journalism without permission. The complaint describes generative AI as "a snake eating its own tail" that risks breaking the news industry it consumes. The suit is notable because Microsoft and OpenAI have previously funded some Seattle Times journalism initiatives, adding a new dimension to the wave of publisher lawsuits that began with The New York Times in 2023.]]
@@ -18,6 +29,7 @@ member_count: 1642
 - `2026-09-05` [[2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-trai|Seattle Times and Newsday sue OpenAI and Microsoft over training data]]
 - `2026-09-05` [[2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-alle|Seattle Times and Newsday sue OpenAI and Microsoft over alleged copyright infringement]]
 - `2026-09-05` [[2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue|Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft]]
+- `2026-09-05` [[2026-09-05-openai-to-build-a-misalignment-incident-reporting-framework|OpenAI to build a misalignment incident reporting framework]]
 - `2026-09-05` [[2026-09-05-openai-confirms-wiki-incident-says-it-s-working-on-a-framewo|OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure]]
 - `2026-09-05` [[2026-09-05-openai-confirms-the-wiki-incident-and-promises-a-misalignmen|OpenAI confirms the “wiki incident” and promises a misalignment disclosure framework]]
 - `2026-09-05` [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm|OpenAI confirms the "wiki incident" and commits to a misalignment disclosure framework]]

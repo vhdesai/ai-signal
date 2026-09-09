@@ -4,8 +4,8 @@ title: Mistral reportedly closes €3B round with Samsung, Nvidia, and Scaleup F
 date: '2026-09-06'
 source: Brief IA
 url_original: null
-url_canonical: https://mlq.ai/news/samsung-in-talks-to-invest-up-to-1-billion-in-mistral-ai-at-20-billion-valuation/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-06_070457_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: a4c56be0fc605d2493ed314a714ecdc49fc964362fc539cfe3f38e513fe28c30

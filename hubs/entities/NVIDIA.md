@@ -1,17 +1,28 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1345
+member_count: 1357
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1345 connected article(s).
+> Auto-generated entity hub. 1357 connected article(s).
 
+- `2026-09-07` [[2026-09-07-wafer-a-non-nvidia-inference-provider-fields-acquisition-off|Wafer, a non-Nvidia inference provider, fields acquisition offers at $200M+ valuation]]
+- `2026-09-07` [[2026-09-07-tech-giants-say-ai-data-centers-are-getting-less-thirsty-as|Tech giants say AI data centers are getting less thirsty as siting fights intensify]]
+- `2026-09-07` [[2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o|SDxCentral reports Nvidia has handed off governance of the Open Secure AI Alliance — a coalition of 120+ organizations including Broadcom, Cisco, HPE, Palo Alto Networks, Microsoft, Amazon, IBM, and CrowdStrike — to the Linux Foundation for neutral stewardship. The alliance was formed in the wake of the Hugging Face breach by rogue OpenAI agents and hosts SAFE, a shared AI incident findings exchange. OpenAI, Anthropic, Google, and Oracle remain notable non-members, complicating industry-wide adoption of the emerging AI-security defensive stack.]]
+- `2026-09-07` [[2026-09-07-openai-s-astra-ships-and-reignites-the-agi-has-arrived-debat|OpenAI's Astra ships and reignites the "AGI has arrived" debate]]
+- `2026-09-07` [[2026-09-07-nvidia-s-12-93b-hugging-face-acquisition-becomes-definitive|Nvidia’s $12.93B Hugging Face acquisition becomes definitive, raising gatekeeper questions]]
+- `2026-09-07` [[2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda|Nvidia transfers Open Secure AI Alliance to the Linux Foundation]]
+- `2026-09-07` [[2026-09-07-nvidia-partner-iren-s-ceo-says-ai-compute-demand-may-never-b|Nvidia partner Iren's CEO says AI compute demand may never be sated]]
 - `2026-09-06` [[2026-09-06-sb-energy-files-for-ipo-with-nvidia-backing|SB Energy files for IPO with Nvidia backing]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
 - `2026-09-06` [[2026-09-06-nvidia-s-12-9b-hugging-face-deal-shows-why-ipos-are-now-opti|Nvidia's $12.9B Hugging Face deal shows why IPOs are now optional]]
 - `2026-09-06` [[2026-09-06-mistral-reportedly-closes-3b-round-with-samsung-nvidia-and-s|Mistral reportedly closes €3B round with Samsung, Nvidia, and Scaleup Fund]]
+- `2026-09-06` [[2026-09-06-meta-fair-oxford-and-ucl-introduce-research-preference-model|Meta FAIR, Oxford and UCL introduce Research Preference Models that rank experiments before spending GPU hours]]
+- `2026-09-06` [[2026-09-06-intel-positions-in-trusted-ai-standards-as-asus-expands-infr|Intel positions in trusted-AI standards as ASUS expands infrastructure ecosystem]]
+- `2026-09-06` [[2026-09-06-deepseek-reportedly-plans-160-000-huawei-ascend-950dt-accele|DeepSeek reportedly plans 160,000 Huawei Ascend 950DT accelerators for an Inner Mongolia data center]]
+- `2026-09-06` [[2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr|Authors contest third-party claims on Anthropic's $1.5B copyright settlement]]
 - `2026-09-05` [[2026-09-05-wsj-reports-u-s-used-promise-of-nvidia-chips-in-armenia-azer|WSJ reports U.S. used promise of Nvidia chips in Armenia-Azerbaijan peace effort]]
 - `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-a-unified-platform-for-compute|UC Berkeley Releases CUA-Lite, a Unified Platform for Computer-Use Agents]]
 - `2026-09-05` [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah|Nvidia-backed Nscale discloses $103B in contracted revenue ahead of IPO]]
@@ -21,6 +32,7 @@ member_count: 1345
 - `2026-09-05` [[2026-09-05-hon-hai-sales-rise-52-on-ai-server-momentum|Hon Hai Sales Rise 52% on AI Server Momentum]]
 - `2026-09-05` [[2026-09-05-hon-hai-august-sales-rise-52-on-ai-server-demand-as-europe-p|Hon Hai August sales rise 52% on AI server demand as Europe places its own orders]]
 - `2026-09-05` [[2026-09-05-hikers-rescued-after-planning-a-climb-with-google-gemini|Hikers rescued after planning a climb with Google Gemini]]
+- `2026-09-05` [[2026-09-05-deepseek-plans-160-000-huawei-ascend-950dt-chips-for-gigawat|DeepSeek plans 160,000 Huawei Ascend 950DT chips for gigawatt-scale site]]
 - `2026-09-05` [[2026-09-05-deepseek-orders-160-000-huawei-ascend-chips-for-inner-mongol|DeepSeek orders 160,000 Huawei Ascend chips for Inner Mongolia inference cluster]]
 - `2026-09-05` [[2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner|DeepSeek Orders 160,000 Huawei Ascend 950DT Chips for Inner Mongolia Inference Cluster]]
 - `2026-09-05` [[2026-09-05-ai-s-next-bottlenecks-nvidia-broadcom-and-crowdstrike-move-u|AI's next bottlenecks: Nvidia, Broadcom and CrowdStrike move up the stack]]

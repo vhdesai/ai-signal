@@ -28,10 +28,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu
+- 2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda
 - 2026-08-04-nvidia-led-open-secure-ai-alliance-issues-first-agent-defens
+- 2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o
 - 2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl
-- 2026-07-27-nvidia-and-two-dozen-firms-launch-open-secure-ai-alliance
-- 2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the
 embedding_id: 2026-07-27-nvidia-forms-37-member-open-secure-ai-alliance-and-open-sour
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Nvidia and 36 partners launched the Open Secure AI Alliance and released NOOA, a
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Palantir]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu]] · [[2026-08-04-nvidia-led-open-secure-ai-alliance-issues-first-agent-defens]] · [[2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl]] · [[2026-07-27-nvidia-and-two-dozen-firms-launch-open-secure-ai-alliance]] · [[2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the]]
+**Related:** [[2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu]] · [[2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda]] · [[2026-08-04-nvidia-led-open-secure-ai-alliance-issues-first-agent-defens]] · [[2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o]] · [[2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl]]
 <!-- graph:end -->

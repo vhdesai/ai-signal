@@ -23,11 +23,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-07-malaysia-weighs-huawei-chips-for-rm2b-national-ai-project-de
+- 2026-09-07-malaysia-weighs-adopting-huawei-ai-chips-despite-explicit-us
 - 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
 - 2026-05-26-with-h200-shipments-to-china-stalled-by-conflicting-u-s
 - 2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev
-- 2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim
-- 2026-09-04-deepseek-turns-to-huawei-for-160-000-ascend-ai-chips-as-nvid
 embedding_id: 2026-08-26-huawei-pitches-egypt-on-ascend-powered-ai-data-centers-for-m
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Huawei has submitted a proposal to the Egyptian government to build AI data cent
 
 **Entities:** [[Huawei]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]] · [[2026-05-26-with-h200-shipments-to-china-stalled-by-conflicting-u-s]] · [[2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev]] · [[2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim]] · [[2026-09-04-deepseek-turns-to-huawei-for-160-000-ascend-ai-chips-as-nvid]]
+**Related:** [[2026-09-07-malaysia-weighs-huawei-chips-for-rm2b-national-ai-project-de]] · [[2026-09-07-malaysia-weighs-adopting-huawei-ai-chips-despite-explicit-us]] · [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]] · [[2026-05-26-with-h200-shipments-to-china-stalled-by-conflicting-u-s]] · [[2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev]]
 <!-- graph:end -->

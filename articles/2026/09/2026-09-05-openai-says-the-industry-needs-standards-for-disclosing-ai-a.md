@@ -20,9 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-05-openai-to-build-a-misalignment-incident-reporting-framework
 - 2026-09-05-independent-coverage-frames-the-incident-as-an-eu-code-of-pr
 - 2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi
-- 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 embedding_id: 2026-09-05-openai-says-the-industry-needs-standards-for-disclosing-ai-a
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Gizmodo reported that OpenAI said it is working on a framework for when and how 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-05-independent-coverage-frames-the-incident-as-an-eu-code-of-pr]] · [[2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]]
+**Related:** [[2026-09-05-openai-to-build-a-misalignment-incident-reporting-framework]] · [[2026-09-05-independent-coverage-frames-the-incident-as-an-eu-code-of-pr]] · [[2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi]]
 <!-- graph:end -->

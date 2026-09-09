@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-23-etched-reaches-10-3-billion-valuation-for-inference-focused
 - 2026-07-19-ai-chip-startup-etched-reportedly-in-talks-for-a-20b-valuati
+- 2026-09-07-wafer-a-non-nvidia-inference-provider-fields-acquisition-off
 - 2026-08-18-etched-s-valuation-doubles-to-21b-in-one-month-after-jane-st
 - 2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-silicon-to-neocloud
-- 2026-06-23-groq-confirms-650m-funding-round
 embedding_id: 2026-07-23-inference-chip-startup-etched-doubles-valuation-to-10-3b-in
 event_name: ''
 ---
@@ -41,5 +41,5 @@ $300M Series C led by Sequoia at $10.3B — 2×+ prior mark. SK Hynix, a16z, Jan
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
-**Related:** [[2026-07-23-etched-reaches-10-3-billion-valuation-for-inference-focused]] · [[2026-07-19-ai-chip-startup-etched-reportedly-in-talks-for-a-20b-valuati]] · [[2026-08-18-etched-s-valuation-doubles-to-21b-in-one-month-after-jane-st]] · [[2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-silicon-to-neocloud]] · [[2026-06-23-groq-confirms-650m-funding-round]]
+**Related:** [[2026-07-23-etched-reaches-10-3-billion-valuation-for-inference-focused]] · [[2026-07-19-ai-chip-startup-etched-reportedly-in-talks-for-a-20b-valuati]] · [[2026-09-07-wafer-a-non-nvidia-inference-provider-fields-acquisition-off]] · [[2026-08-18-etched-s-valuation-doubles-to-21b-in-one-month-after-jane-st]] · [[2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-silicon-to-neocloud]]
 <!-- graph:end -->

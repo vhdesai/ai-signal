@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp
 - 2026-07-03-meta-reportedly-taps-samsung-for-6-5b-to-build-its-next-gen
+- 2026-09-07-google-to-build-a-new-ai-chip-in-israel-recruiting-from-hail
 - 2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch
 - 2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai
-- 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
 embedding_id: 2026-06-11-google-in-talks-with-samsung-to-manufacture-next-gen-ai-chip
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Google is in talks with Samsung as a third foundry partner alongside TSMC and In
 
 **Entities:** [[Google]] · [[Intel]] · [[Samsung]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp]] · [[2026-07-03-meta-reportedly-taps-samsung-for-6-5b-to-build-its-next-gen]] · [[2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch]] · [[2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]]
+**Related:** [[2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp]] · [[2026-07-03-meta-reportedly-taps-samsung-for-6-5b-to-build-its-next-gen]] · [[2026-09-07-google-to-build-a-new-ai-chip-in-israel-recruiting-from-hail]] · [[2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch]] · [[2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai]]
 <!-- graph:end -->

@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: ByteDance
-member_count: 86
+member_count: 87
 ---
 
 # ByteDance
 
-> Auto-generated entity hub. 86 connected article(s).
+> Auto-generated entity hub. 87 connected article(s).
 
+- `2026-09-06` [[2026-09-06-bytedance-lands-29-6b-loan-to-fuel-ai-advances|ByteDance lands $29.6B loan to fuel AI advances]]
 - `2026-09-04` [[2026-09-04-openai-releases-gpt-6-astra-and-suggests-it-could-be-agi|OpenAI releases GPT-6 Astra and suggests it could be AGI]]
 - `2026-09-04` [[2026-09-04-deepseek-plans-major-huawei-chip-deployment-as-bytedance-rai|DeepSeek plans major Huawei chip deployment as ByteDance raises AI capital]]
 - `2026-09-04` [[2026-09-04-deepseek-and-bytedance-accelerate-china-aligned-ai-infrastru|DeepSeek and ByteDance accelerate China-aligned AI infrastructure plans]]

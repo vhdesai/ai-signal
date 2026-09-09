@@ -5,8 +5,8 @@ title: UC Berkeley researchers release CUA-Lite, an open platform for computer-u
 date: '2026-09-06'
 source: MarkTechPost
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-06_061415_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: a7b223046556d10892e8cd984f70428f896f286016cd45f6e30a37e4ddc537e3

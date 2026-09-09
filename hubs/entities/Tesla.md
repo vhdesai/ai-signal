@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Tesla
-member_count: 45
+member_count: 48
 ---
 
 # Tesla
 
-> Auto-generated entity hub. 45 connected article(s).
+> Auto-generated entity hub. 48 connected article(s).
 
+- `2026-09-06` [[2026-09-06-travis-kalanick-s-atoms-is-reportedly-moving-into-robotaxis|Travis Kalanick's Atoms is reportedly moving into robotaxis]]
+- `2026-09-06` [[2026-09-06-tesla-s-cybercab-reaches-public-roads-and-its-first-operatio|Tesla's Cybercab reaches public roads — and its first operational snag]]
+- `2026-09-06` [[2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr|Authors contest third-party claims on Anthropic's $1.5B copyright settlement]]
 - `2026-09-04` [[2026-09-04-nhtsa-opens-probe-into-tesla-cybercab-deployment|NHTSA opens probe into Tesla Cybercab deployment]]
 - `2026-09-04` [[2026-09-04-nhtsa-investigates-tesla-s-cybercab-deployment-without-manua|NHTSA investigates Tesla's Cybercab deployment without manual controls]]
 - `2026-09-04` [[2026-09-04-nhtsa-opens-probe-into-tesla-cybercab-hours-after-austin-dep|NHTSA Opens Probe Into Tesla Cybercab Hours After Austin Deployment]]

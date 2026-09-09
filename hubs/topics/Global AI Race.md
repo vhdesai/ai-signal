@@ -1,20 +1,37 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1198
+member_count: 1215
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1198 connected article(s).
+> Auto-generated topic hub. 1215 connected article(s).
 
+- `2026-09-07` [[2026-09-07-tencent-restructures-bilibili-stake-into-debt-as-it-funds-ai|Tencent restructures Bilibili stake into debt as it funds AI initiatives]]
+- `2026-09-07` [[2026-09-07-sensetime-returns-to-profit-as-it-pivots-from-model-size-rac|SenseTime returns to profit as it pivots from model-size race to enterprise workflows]]
+- `2026-09-07` [[2026-09-07-nvidia-s-12-93b-hugging-face-acquisition-becomes-definitive|Nvidia’s $12.93B Hugging Face acquisition becomes definitive, raising gatekeeper questions]]
+- `2026-09-07` [[2026-09-07-malaysia-weighs-adopting-huawei-ai-chips-despite-explicit-us|Malaysia weighs adopting Huawei AI chips despite explicit US warnings]]
+- `2026-09-07` [[2026-09-07-malaysia-weighs-huawei-chips-for-rm2b-national-ai-project-de|Malaysia weighs Huawei chips for RM2B national AI project despite US warnings]]
+- `2026-09-07` [[2026-09-07-japan-s-preferred-networks-seeks-an-ipo-to-fund-chip-mass-pr|Japan's Preferred Networks seeks an IPO to fund chip mass production]]
+- `2026-09-07` [[2026-09-07-ifm-releases-k2-horizon-six-apache-2-0-open-weight-models-sp|IFM releases K2 Horizon: six Apache 2.0 open-weight models spanning 0.9B to 375B]]
+- `2026-09-07` [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-chi|Huawei ships Kirin 9050 Pro built on its Tau Scaling Law chip architecture]]
+- `2026-09-07` [[2026-09-07-china-s-moonshot-and-z-ai-bring-ai-model-subscriptions-to-al|China's Moonshot and Z.ai bring AI-model subscriptions to Alibaba's Tmall retail platform]]
+- `2026-09-07` [[2026-09-07-cxmt-points-to-smartphone-and-ai-gains-as-it-climbs-the-memo|CXMT points to smartphone and AI gains as it climbs the memory market]]
+- `2026-09-07` [[2026-09-07-alibaba-releases-qwen-drive-1-0-a-unified-perception-plannin|Alibaba releases Qwen-Drive 1.0, a unified perception, planning, and dialogue model for vehicles]]
+- `2026-09-06` [[2026-09-06-xai-loses-another-round-against-minnesota-s-synthetic-imager|xAI loses another round against Minnesota’s synthetic-imagery law]]
 - `2026-09-06` [[2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further|Report: China's AI giants stretch each compute dollar further than US rivals]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
+- `2026-09-06` [[2026-09-06-meta-fair-oxford-and-ucl-introduce-research-preference-model|Meta FAIR, Oxford and UCL introduce Research Preference Models that rank experiments before spending GPU hours]]
+- `2026-09-06` [[2026-09-06-deepseek-reportedly-plans-160-000-huawei-ascend-950dt-accele|DeepSeek reportedly plans 160,000 Huawei Ascend 950DT accelerators for an Inner Mongolia data center]]
+- `2026-09-06` [[2026-09-06-daily-ai-news-digest-september-7-2026|Daily AI News Digest – September 7, 2026]]
 - `2026-09-06` [[2026-09-06-china-launches-ai-app-to-detect-online-fraud-schemes|China launches AI app to detect online fraud schemes]]
+- `2026-09-06` [[2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr|Authors contest third-party claims on Anthropic's $1.5B copyright settlement]]
 - `2026-09-05` [[2026-09-05-wsj-reports-u-s-used-promise-of-nvidia-chips-in-armenia-azer|WSJ reports U.S. used promise of Nvidia chips in Armenia-Azerbaijan peace effort]]
 - `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-a-unified-platform-for-compute|UC Berkeley Releases CUA-Lite, a Unified Platform for Computer-Use Agents]]
 - `2026-09-05` [[2026-09-05-u-s-and-china-prepare-mid-september-ai-safety-talks|U.S. and China prepare mid-September AI safety talks]]
 - `2026-09-05` [[2026-09-05-foxconn-says-q3-should-beat-expectations-on-ai-strength|Foxconn says Q3 should beat expectations on AI strength]]
+- `2026-09-05` [[2026-09-05-deepseek-plans-160-000-huawei-ascend-950dt-chips-for-gigawat|DeepSeek plans 160,000 Huawei Ascend 950DT chips for gigawatt-scale site]]
 - `2026-09-05` [[2026-09-05-deepseek-orders-160-000-huawei-ascend-chips-for-inner-mongol|DeepSeek orders 160,000 Huawei Ascend chips for Inner Mongolia inference cluster]]
 - `2026-09-05` [[2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner|DeepSeek Orders 160,000 Huawei Ascend 950DT Chips for Inner Mongolia Inference Cluster]]
 - `2026-09-05` [[2026-09-05-china-banks-and-carriers-turn-ai-tokens-into-rewards-plans-a|China banks and carriers turn AI tokens into rewards, plans, and credit products]]

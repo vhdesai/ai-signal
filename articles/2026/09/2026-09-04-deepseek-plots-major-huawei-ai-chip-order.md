@@ -25,7 +25,8 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-deepseek-plans-a-160-000-chip-huawei-cluster-at-a-1gw-inner
-related_article_ids: []
+related_article_ids:
+- 2026-09-04-september-4-2026-the-information
 embedding_id: 2026-09-04-deepseek-plots-major-huawei-ai-chip-order
 event_name: ''
 ---
@@ -40,4 +41,5 @@ Mobile World Live reports that DeepSeek plans to deploy at least 160,000 Huawei 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-09-04-deepseek-plans-a-160-000-chip-huawei-cluster-at-a-1gw-inner]]
+**Related:** [[2026-09-04-september-4-2026-the-information]]
 <!-- graph:end -->

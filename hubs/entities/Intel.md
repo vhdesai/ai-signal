@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 92
+member_count: 93
 ---
 
 # Intel
 
-> Auto-generated entity hub. 92 connected article(s).
+> Auto-generated entity hub. 93 connected article(s).
 
+- `2026-09-06` [[2026-09-06-intel-positions-in-trusted-ai-standards-as-asus-expands-infr|Intel positions in trusted-AI standards as ASUS expands infrastructure ecosystem]]
 - `2026-09-04` [[2026-09-04-nvidia-s-equity-portfolio-reaches-99b-as-it-becomes-a-system|Nvidia's Equity Portfolio Reaches $99B as It Becomes a Systemic AI Financier]]
 - `2026-09-01` [[2026-09-01-indian-ai-chip-startup-agrani-labs-raising-50m-at-up-to-200m|Indian AI-Chip Startup Agrani Labs Raising ~$50M at up to $200M Valuation]]
 - `2026-08-31` [[2026-08-31-taiwan-raids-nvidia-and-intel-pcb-supplier-unimicron-over-al|Taiwan Raids Nvidia and Intel PCB Supplier Unimicron Over Alleged Origin Fraud]]

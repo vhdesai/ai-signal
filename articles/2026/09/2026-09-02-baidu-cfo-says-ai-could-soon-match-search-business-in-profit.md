@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-31-baidu-cloud-reportedly-separates-its-ai-agent-and-maas-busin
+- 2026-09-06-oracle-and-adobe-face-opposite-ai-moat-tests
 - 2026-08-30-big-tech-profits-get-160b-boost-from-gains-on-stakes-in-othe
 - 2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc
-- 2026-09-02-meta-and-google-s-ai-returns-slide-piper-sandler-says-amazon
 embedding_id: 2026-09-02-baidu-cfo-says-ai-could-soon-match-search-business-in-profit
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TechNode reports that Baidu’s CFO said AI could soon match the company’s sea
 
 **Entities:** [[Baidu]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-31-baidu-cloud-reportedly-separates-its-ai-agent-and-maas-busin]] · [[2026-08-30-big-tech-profits-get-160b-boost-from-gains-on-stakes-in-othe]] · [[2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc]] · [[2026-09-02-meta-and-google-s-ai-returns-slide-piper-sandler-says-amazon]]
+**Related:** [[2026-08-31-baidu-cloud-reportedly-separates-its-ai-agent-and-maas-busin]] · [[2026-09-06-oracle-and-adobe-face-opposite-ai-moat-tests]] · [[2026-08-30-big-tech-profits-get-160b-boost-from-gains-on-stakes-in-othe]] · [[2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-01-meta-superintelligence-labs-releases-muse-voice-transcribe-i
 - 2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a
+- 2026-09-06-meta-superintelligence-labs-releases-muse-voice-transcribe
 - 2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai
 - 2026-09-06-meta-s-real-time-audio-model-targets-always-listening-assist
-- 2026-09-06-meta-releases-muse-voice-transcribe-for-real-time-streaming
 embedding_id: 2026-09-01-meta-releases-muse-voice-transcribe-collapsing-three-voice-c
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta Superintelligence Labs launched its first real-time audio perception model,
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-01-meta-superintelligence-labs-releases-muse-voice-transcribe-i]] · [[2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a]] · [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai]] · [[2026-09-06-meta-s-real-time-audio-model-targets-always-listening-assist]] · [[2026-09-06-meta-releases-muse-voice-transcribe-for-real-time-streaming]]
+**Related:** [[2026-09-01-meta-superintelligence-labs-releases-muse-voice-transcribe-i]] · [[2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a]] · [[2026-09-06-meta-superintelligence-labs-releases-muse-voice-transcribe]] · [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai]] · [[2026-09-06-meta-s-real-time-audio-model-targets-always-listening-assist]]
 <!-- graph:end -->

@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies
+- 2026-09-05-deepseek-plans-160-000-huawei-ascend-950dt-chips-for-gigawat
 - 2026-09-04-deepseek-turns-to-huawei-for-160-000-ascend-ai-chips-as-nvid
 - 2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev
 - 2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim
-- 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
 embedding_id: 2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Huawei has detailed its 2026 AI compute roadmap, centered on the Ascend 950 chip
 
 **Entities:** [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]] · [[2026-09-04-deepseek-turns-to-huawei-for-160-000-ascend-ai-chips-as-nvid]] · [[2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev]] · [[2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim]] · [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]]
+**Related:** [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]] · [[2026-09-05-deepseek-plans-160-000-huawei-ascend-950dt-chips-for-gigawat]] · [[2026-09-04-deepseek-turns-to-huawei-for-160-000-ascend-ai-chips-as-nvid]] · [[2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev]] · [[2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim]]
 <!-- graph:end -->

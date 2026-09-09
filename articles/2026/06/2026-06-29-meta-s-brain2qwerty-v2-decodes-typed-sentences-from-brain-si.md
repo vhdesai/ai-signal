@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
 - 2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
-- 2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a
+- 2026-09-06-meta-superintelligence-labs-releases-muse-voice-transcribe
 embedding_id: 2026-06-29-meta-s-brain2qwerty-v2-decodes-typed-sentences-from-brain-si
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Meta FAIR unveiled Brain2Qwerty v2, a non-invasive brain-to-text system that dec
 
 **Entities:** [[Baidu]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-06-30-meta-ai-published-brain2qwerty-v2-a-non-invasive-pipeline-th]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a]]
+**Related:** [[2026-06-30-meta-ai-published-brain2qwerty-v2-a-non-invasive-pipeline-th]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-09-06-meta-superintelligence-labs-releases-muse-voice-transcribe]]
 <!-- graph:end -->

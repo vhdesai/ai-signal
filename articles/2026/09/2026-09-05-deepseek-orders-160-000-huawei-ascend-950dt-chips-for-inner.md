@@ -27,7 +27,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-05-deepseek-orders-160-000-huawei-ascend-chips-for-inner-mongol
-- 2026-09-04-deepseek-plans-a-160-000-chip-huawei-cluster-at-a-1gw-inner
+- 2026-09-05-deepseek-plans-160-000-huawei-ascend-950dt-chips-for-gigawat
+- 2026-09-06-deepseek-reportedly-plans-160-000-huawei-ascend-950dt-accele
 embedding_id: 2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner
 event_name: ''
 ---
@@ -41,5 +42,5 @@ DeepSeek has placed an order for roughly 160,000 Ascend 950DT accelerators — f
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-05-deepseek-orders-160-000-huawei-ascend-chips-for-inner-mongol]] · [[2026-09-04-deepseek-plans-a-160-000-chip-huawei-cluster-at-a-1gw-inner]]
+**Related:** [[2026-09-05-deepseek-orders-160-000-huawei-ascend-chips-for-inner-mongol]] · [[2026-09-05-deepseek-plans-160-000-huawei-ascend-950dt-chips-for-gigawat]] · [[2026-09-06-deepseek-reportedly-plans-160-000-huawei-ascend-950dt-accele]]
 <!-- graph:end -->

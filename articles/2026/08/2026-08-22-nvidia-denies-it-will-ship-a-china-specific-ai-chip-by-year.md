@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: '[The Manila Times]'
 url_original: https://www.manilatimes.net/2026/08/22/business/foreign-business/nvidia-denies-report-it-is-rolling-out-china-ai-chip-by-year-end/2409917
 url_canonical: https://www.manilatimes.net/2026/08/22/business/foreign-business/nvidia-denies-report-it-is-rolling-out-china-ai-chip-by-year-end/2409917
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-08-23_061214_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: c116c323462baf6196e41809d23ddba2cd5d42985a13db91a0506874a388eaed

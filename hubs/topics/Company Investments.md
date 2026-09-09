@@ -1,20 +1,26 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1034
+member_count: 1040
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1034 connected article(s).
+> Auto-generated topic hub. 1040 connected article(s).
 
+- `2026-09-07` [[2026-09-07-pixxel-raises-100m-series-c-for-hyperspectral-earth-intellig|Pixxel raises $100M Series C for hyperspectral Earth-intelligence stack]]
+- `2026-09-07` [[2026-09-07-japan-s-preferred-networks-seeks-an-ipo-to-fund-chip-mass-pr|Japan's Preferred Networks seeks an IPO to fund chip mass production]]
+- `2026-09-06` [[2026-09-06-travis-kalanick-s-atoms-is-reportedly-moving-into-robotaxis|Travis Kalanick's Atoms is reportedly moving into robotaxis]]
 - `2026-09-06` [[2026-09-06-sb-energy-files-for-ipo-with-nvidia-backing|SB Energy files for IPO with Nvidia backing]]
 - `2026-09-06` [[2026-09-06-nvidia-s-12-9b-hugging-face-deal-shows-why-ipos-are-now-opti|Nvidia's $12.9B Hugging Face deal shows why IPOs are now optional]]
 - `2026-09-06` [[2026-09-06-mistral-reportedly-closes-3b-round-with-samsung-nvidia-and-s|Mistral reportedly closes €3B round with Samsung, Nvidia, and Scaleup Fund]]
 - `2026-09-06` [[2026-09-06-crusoe-raises-3b-at-a-30b-valuation|Crusoe raises $3B at a $30B valuation]]
+- `2026-09-06` [[2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr|Authors contest third-party claims on Anthropic's $1.5B copyright settlement]]
+- `2026-09-06` [[2026-09-06-anthropic-has-signed-roughly-517-billion-in-compute-deals-ov|Anthropic has signed roughly $517 billion in compute deals over 11 months]]
 - `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-a-unified-platform-for-compute|UC Berkeley Releases CUA-Lite, a Unified Platform for Computer-Use Agents]]
 - `2026-09-05` [[2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and|Perplexity details its GPU embedding stack: how Ivy, Tulip and ROSE serve pplx-embed]]
 - `2026-09-05` [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah|Nvidia-backed Nscale discloses $103B in contracted revenue ahead of IPO]]
+- `2026-09-05` [[2026-09-05-anthropic-ipo-prospectus-reportedly-days-away-as-amd-commits|Anthropic IPO prospectus reportedly days away as AMD commits up to $5B]]
 - `2026-09-04` [[2026-09-04-xdof-is-reportedly-in-talks-for-a-series-b-at-a-1-2-billion|XDOF is reportedly in talks for a Series B at a $1.2 billion valuation]]
 - `2026-09-04` [[2026-09-04-nvidia-discusses-2-5b-investment-in-mira-murati-s-thinking-m|Nvidia discusses $2.5B investment in Mira Murati's Thinking Machines Lab]]
 - `2026-09-04` [[2026-09-04-nscale-seeks-about-3-5-billion-in-pre-ipo-financing|Nscale seeks about $3.5 billion in pre-IPO financing]]

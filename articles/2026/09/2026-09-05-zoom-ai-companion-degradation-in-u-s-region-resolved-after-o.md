@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-05-zoom-ai-companion-outage-in-us-region-resolved-after-overnig
 - 2026-09-04-chatgpt-claude-and-grok-reportedly-face-simultaneous-outages
-- 2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues
+- 2026-09-07-simultaneous-outages-hit-chatgpt-claude-and-grok
 embedding_id: 2026-09-05-zoom-ai-companion-degradation-in-u-s-region-resolved-after-o
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Technobezz reported, based on Zoom status updates, that Zoom investigated and re
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-05-zoom-ai-companion-outage-in-us-region-resolved-after-overnig]] · [[2026-09-04-chatgpt-claude-and-grok-reportedly-face-simultaneous-outages]] · [[2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues]]
+**Related:** [[2026-09-05-zoom-ai-companion-outage-in-us-region-resolved-after-overnig]] · [[2026-09-04-chatgpt-claude-and-grok-reportedly-face-simultaneous-outages]] · [[2026-09-07-simultaneous-outages-hit-chatgpt-claude-and-grok]]
 <!-- graph:end -->

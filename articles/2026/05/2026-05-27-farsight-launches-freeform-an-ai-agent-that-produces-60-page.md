@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope
 - 2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for
 - 2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
+- 2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del
 embedding_id: 2026-05-27-farsight-launches-freeform-an-ai-agent-that-produces-60-page
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Investment-banking-tooling vendor Farsight launched Freeform, an autonomous agen
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope]] · [[2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for]] · [[2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
+**Related:** [[2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope]] · [[2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for]] · [[2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta]] · [[2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del]]
 <!-- graph:end -->

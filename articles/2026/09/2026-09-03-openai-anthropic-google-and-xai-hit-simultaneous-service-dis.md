@@ -25,7 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-03-simultaneous-ai-service-outages-expose-correlated-dependency
 - 2026-09-03-chatgpt-claude-and-grok-hit-by-overlapping-outages
+- 2026-09-07-post-mortem-chatgpt-claude-and-grok-all-failed-within-roughl
 - 2026-09-04-chatgpt-claude-and-grok-reportedly-face-simultaneous-outages
+- 2026-09-07-simultaneous-outages-hit-chatgpt-claude-and-grok
 embedding_id: 2026-09-03-openai-anthropic-google-and-xai-hit-simultaneous-service-dis
 event_name: ''
 ---
@@ -39,5 +41,5 @@ ChatGPT, Claude, Gemini and Grok all reported degraded service on September 3, w
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-03-simultaneous-ai-service-outages-expose-correlated-dependency]] · [[2026-09-03-chatgpt-claude-and-grok-hit-by-overlapping-outages]] · [[2026-09-04-chatgpt-claude-and-grok-reportedly-face-simultaneous-outages]]
+**Related:** [[2026-09-03-simultaneous-ai-service-outages-expose-correlated-dependency]] · [[2026-09-03-chatgpt-claude-and-grok-hit-by-overlapping-outages]] · [[2026-09-07-post-mortem-chatgpt-claude-and-grok-all-failed-within-roughl]] · [[2026-09-04-chatgpt-claude-and-grok-reportedly-face-simultaneous-outages]] · [[2026-09-07-simultaneous-outages-hit-chatgpt-claude-and-grok]]
 <!-- graph:end -->

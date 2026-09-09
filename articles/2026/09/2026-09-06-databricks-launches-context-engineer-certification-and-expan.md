@@ -4,8 +4,8 @@ title: Databricks launches Context Engineer certification and expands agent trai
 date: '2026-09-06'
 source: TipRanks
 url_original: https://www.tipranks.com/news/databricks-expands-ai-agent-training-and-launches-context-engineer-certification
-url_canonical: https://www.databricks.com/blog/skills-gap-behind-agentic-ai-and-how-databricks-closing-it-new-context-engineer-certification
-url_status: repaired
+url_canonical: https://www.tipranks.com/news/databricks-expands-ai-agent-training-and-launches-context-engineer-certification
+url_status: broken
 digest_source: digests\raw\2026-09-06_070457_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: 2a0504e407594299458f61a624d5faba5bb454e4b460197b3a539fe4f18ea482

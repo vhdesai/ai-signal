@@ -4,8 +4,8 @@ title: Cerebras announces 200MW European AI compute expansion
 date: '2026-09-06'
 source: NTB Kommunikasjon
 url_original: null
-url_canonical: https://kommunikasjon.ntb.no/pressemelding/18987583/cerebras-systems-accelerates-european-expansion-with-200mw-of-ai-compute-capacity-by-end-of-2027?publisherId=4954260&lang=en
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-06_070457_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: c583f706b9582123f747d0ea43840157f19670dc7a50c610d0baf253b6b4fde2

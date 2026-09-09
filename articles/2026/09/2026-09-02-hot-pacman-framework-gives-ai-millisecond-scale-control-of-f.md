@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 - 2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations
-- 2026-08-31-tsinghua-s-pacman-group-publishes-puro-2b-a-full-pretraining
+- 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
 embedding_id: 2026-09-02-hot-pacman-framework-gives-ai-millisecond-scale-control-of-f
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Princeton University and the DOE's Princeton Plasma Physics Laboratory unveiled 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations]] · [[2026-08-31-tsinghua-s-pacman-group-publishes-puro-2b-a-full-pretraining]]
+**Related:** [[2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]]
 <!-- graph:end -->

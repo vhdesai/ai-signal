@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent
+- 2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist
 - 2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput
-- 2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers
 embedding_id: 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI published a field report on how scientists use AI coding agents to modern
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist]] · [[2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput]] · [[2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers]]
+**Related:** [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]] · [[2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist]] · [[2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput]]
 <!-- graph:end -->

@@ -1,23 +1,51 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 2845
+member_count: 2873
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 2845 connected article(s).
+> Auto-generated topic hub. 2873 connected article(s).
 
+- `2026-09-07` [[2026-09-07-un-rights-chief-warns-ai-could-pose-existential-risk-to-huma|UN rights chief warns AI could pose existential risk to humanity]]
+- `2026-09-07` [[2026-09-07-south-korea-says-22-3b-texas-ai-power-deal-is-not-final-as-t|South Korea says $22.3B Texas AI power deal is not final as talks continue]]
+- `2026-09-07` [[2026-09-07-openai-s-astra-ships-and-reignites-the-agi-has-arrived-debat|OpenAI's Astra ships and reignites the "AGI has arrived" debate]]
+- `2026-09-07` [[2026-09-07-openai-sends-eu-incident-report-on-hijacked-german-website-c|OpenAI sends EU incident report on hijacked German website, Commission says]]
+- `2026-09-07` [[2026-09-07-mit-scientists-crack-the-code-for-flexible-wafer-scale-photo|MIT scientists crack the code for flexible wafer-scale photonics]]
+- `2026-09-07` [[2026-09-07-insurance-claims-lose-the-paper-chase-as-ai-gets-to-work|Insurance claims lose the paper chase as AI gets to work]]
+- `2026-09-07` [[2026-09-07-ifm-releases-k2-horizon-six-apache-2-0-open-weight-models-sp|IFM releases K2 Horizon: six Apache 2.0 open-weight models spanning 0.9B to 375B]]
+- `2026-09-07` [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-chi|Huawei ships Kirin 9050 Pro built on its Tau Scaling Law chip architecture]]
+- `2026-09-07` [[2026-09-07-eligible-asus-laptops-unlock-bundled-google-ai-experiences|Eligible ASUS laptops unlock bundled Google AI experiences]]
+- `2026-09-07` [[2026-09-07-china-s-moonshot-and-z-ai-bring-ai-model-subscriptions-to-al|China's Moonshot and Z.ai bring AI-model subscriptions to Alibaba's Tmall retail platform]]
+- `2026-09-07` [[2026-09-07-analysis-ai-hyperscalers-circular-deals-now-resemble-1980s-s|Analysis: AI hyperscalers' "circular deals" now resemble 1980s S&L "daisy chains"]]
+- `2026-09-07` [[2026-09-07-alibaba-releases-qwen-drive-1-0-a-unified-perception-plannin|Alibaba releases Qwen-Drive 1.0, a unified perception, planning, and dialogue model for vehicles]]
+- `2026-09-07` [[2026-09-07-ai-designed-insilico-drug-shows-early-biological-age-reversa|AI-designed Insilico drug shows early biological-age-reversal signal]]
+- `2026-09-07` [[2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur|AI data-center water consumption returns as an infrastructure constraint]]
+- `2026-09-06` [[2026-09-06-weathernews-launches-global-app-with-ai-powered-high-resolut|Weathernews launches global app with AI-powered high-resolution forecasts]]
+- `2026-09-06` [[2026-09-06-sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-use|Sam Altman calls GPT-6 Astra rollout "messy" as enterprise users wait for access]]
+- `2026-09-06` [[2026-09-06-oracle-and-adobe-face-opposite-ai-moat-tests|Oracle and Adobe face opposite AI moat tests]]
 - `2026-09-06` [[2026-09-06-openai-s-agi-number-came-from-a-harness-not-the-model|OpenAI’s AGI number came from a harness, not the model]]
+- `2026-09-06` [[2026-09-06-openai-says-it-reached-its-automated-research-intern-goal-at|OpenAI says it reached its “automated research intern” goal, at 3.1 agent-workdays per human workday]]
+- `2026-09-06` [[2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh|OpenAI publishes internal data on how coding agents are reshaping its own research pace]]
 - `2026-09-06` [[2026-09-06-meta-s-real-time-audio-model-targets-always-listening-assist|Meta’s real-time audio model targets always-listening assistants]]
 - `2026-09-06` [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai|Meta's new real-time audio model targets always-listening AI assistants]]
 - `2026-09-06` [[2026-09-06-meta-releases-muse-voice-transcribe-for-real-time-streaming|Meta releases Muse Voice Transcribe for real-time streaming speech recognition]]
+- `2026-09-06` [[2026-09-06-meta-superintelligence-labs-releases-muse-voice-transcribe|Meta Superintelligence Labs releases Muse Voice Transcribe]]
+- `2026-09-06` [[2026-09-06-meta-fair-oxford-and-ucl-rank-ml-experiments-before-spending|Meta FAIR, Oxford and UCL rank ML experiments before spending GPU hours]]
+- `2026-09-06` [[2026-09-06-meta-fair-oxford-and-ucl-introduce-research-preference-model|Meta FAIR, Oxford and UCL introduce Research Preference Models that rank experiments before spending GPU hours]]
+- `2026-09-06` [[2026-09-06-meta-fair-introduces-research-preference-models-to-rank-expe|Meta FAIR introduces Research Preference Models to rank experiments before spending GPU hours]]
+- `2026-09-06` [[2026-09-06-meta-fair-introduces-research-preference-models-to-rank-ml-e|Meta FAIR introduces Research Preference Models to rank ML experiments before spending GPU hours]]
 - `2026-09-06` [[2026-09-06-independent-evaluator-finds-openai-s-astra-agi-benchmark-was|Independent evaluator finds OpenAI's Astra AGI benchmark was harness-dependent]]
 - `2026-09-06` [[2026-09-06-google-s-weathernext-3-drops-physics-simulation-and-learns-w|Google’s WeatherNext 3 drops physics simulation and learns weather from live satellite data]]
 - `2026-09-06` [[2026-09-06-google-rolls-out-lyria-3-5-music-generation-to-the-gemini-ap|Google rolls out Lyria 3.5 music generation to the Gemini app and API]]
 - `2026-09-06` [[2026-09-06-google-brings-ai-music-generation-into-the-gemini-app-with-l|Google brings AI music generation into the Gemini app with Lyria 3.5]]
 - `2026-09-06` [[2026-09-06-google-deepmind-s-weathernext-3-learns-weather-directly-from|Google DeepMind's WeatherNext 3 learns weather directly from live satellite data]]
+- `2026-09-06` [[2026-09-06-daily-ai-news-digest-september-7-2026|Daily AI News Digest – September 7, 2026]]
+- `2026-09-06` [[2026-09-06-company-releases-neomme-single-tower-multimodal-encoders-tha|Company releases NeoMME, single-tower multimodal encoders that drop the vision tower entirely]]
+- `2026-09-06` [[2026-09-06-company-releases-neomme-dropping-the-vision-tower-from-multi|Company releases NeoMME, dropping the vision tower from multimodal encoders]]
 - `2026-09-06` [[2026-09-06-china-launches-ai-app-to-detect-online-fraud-schemes|China launches AI app to detect online fraud schemes]]
+- `2026-09-06` [[2026-09-06-authors-push-back-as-publishers-and-agents-stake-claims-on-a|Authors push back as publishers and agents stake claims on Anthropic's $1.5B settlement]]
 - `2026-09-05` [[2026-09-05-zoom-ai-companion-degradation-in-u-s-region-resolved-after-o|Zoom AI Companion degradation in U.S. region resolved after overnight incident]]
 - `2026-09-05` [[2026-09-05-uc-berkeley-researchers-release-cua-lite-an-open-platform-fo|UC Berkeley researchers release CUA-Lite, an open platform for computer-use agents]]
 - `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-unifying-sandboxes-data-evalua|UC Berkeley releases CUA-Lite, unifying sandboxes, data, evaluation and RL for computer-use agents]]

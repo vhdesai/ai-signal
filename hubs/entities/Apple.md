@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 390
+member_count: 391
 ---
 
 # Apple
 
-> Auto-generated entity hub. 390 connected article(s).
+> Auto-generated entity hub. 391 connected article(s).
 
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
+- `2026-09-06` [[2026-09-06-meta-fair-oxford-and-ucl-introduce-research-preference-model|Meta FAIR, Oxford and UCL introduce Research Preference Models that rank experiments before spending GPU hours]]
 - `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-a-unified-platform-for-compute|UC Berkeley Releases CUA-Lite, a Unified Platform for Computer-Use Agents]]
 - `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
 - `2026-09-04` [[2026-09-04-john-ternus-takes-the-helm-at-apple-as-ai-pressure-builds|John Ternus takes the helm at Apple as AI pressure builds]]

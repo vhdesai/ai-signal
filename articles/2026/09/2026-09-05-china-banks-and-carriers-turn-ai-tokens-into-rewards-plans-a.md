@@ -21,10 +21,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-07-china-s-moonshot-and-z-ai-bring-ai-model-subscriptions-to-al
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
 - 2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o
 - 2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin
-- 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
 embedding_id: 2026-09-05-china-banks-and-carriers-turn-ai-tokens-into-rewards-plans-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Unite.AI reported that Chinese banks, telecom carriers, and a Guangzhou district
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o]] · [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]] · [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]]
+**Related:** [[2026-09-07-china-s-moonshot-and-z-ai-bring-ai-model-subscriptions-to-al]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o]] · [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]]
 <!-- graph:end -->

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will
 - 2026-05-22-nvidia-ceo-jensen-huang-delivered-the-commencement-address-a
 - 2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn
-- 2026-06-20-in-a-wide-ranging-interview-aired-saturday-nvidia-ceo-jensen
+- 2026-09-07-openai-s-astra-ships-and-reignites-the-agi-has-arrived-debat
 embedding_id: 2026-03-24-in-a-monday-episode-of-the-lex-fridman-podcast-nvidia-ceo-je
 event_name: ''
 ---
@@ -41,5 +41,5 @@ In a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang stated "
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a]] · [[2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will]] · [[2026-05-22-nvidia-ceo-jensen-huang-delivered-the-commencement-address-a]] · [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]] · [[2026-06-20-in-a-wide-ranging-interview-aired-saturday-nvidia-ceo-jensen]]
+**Related:** [[2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a]] · [[2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will]] · [[2026-05-22-nvidia-ceo-jensen-huang-delivered-the-commencement-address-a]] · [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]] · [[2026-09-07-openai-s-astra-ships-and-reignites-the-agi-has-arrived-debat]]
 <!-- graph:end -->

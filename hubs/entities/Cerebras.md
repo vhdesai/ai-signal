@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 168
+member_count: 170
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 168 connected article(s).
+> Auto-generated entity hub. 170 connected article(s).
 
+- `2026-09-07` [[2026-09-07-wafer-a-non-nvidia-inference-provider-fields-acquisition-off|Wafer, a non-Nvidia inference provider, fields acquisition offers at $200M+ valuation]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
+- `2026-09-06` [[2026-09-06-meta-fair-oxford-and-ucl-introduce-research-preference-model|Meta FAIR, Oxford and UCL introduce Research Preference Models that rank experiments before spending GPU hours]]
 - `2026-09-06` [[2026-09-06-cerebras-announces-200mw-european-ai-compute-expansion|Cerebras announces 200MW European AI compute expansion]]
 - `2026-09-05` [[2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and|Perplexity details its GPU embedding stack: how Ivy, Tulip and ROSE serve pplx-embed]]
 - `2026-09-05` [[2026-09-05-hikers-rescued-after-planning-a-climb-with-google-gemini|Hikers rescued after planning a climb with Google Gemini]]

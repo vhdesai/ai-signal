@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-01-ai-and-the-blurring-of-reality
+- 2026-09-06-authors-push-back-as-publishers-and-agents-claim-share-of-an
 - 2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c
 - 2026-08-01-wsj-warns-ai-generated-content-is-blurring-evidence-trust-an
 - 2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra
-- 2026-08-01-the-red-hot-book-at-the-center-of-an-ai-mystery
 embedding_id: 2026-05-24-the-future-of-truth-author-accepts-responsibility-after-ai-f
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Steven Rosenbaum's book The Future of Truth has come under scrutiny after at lea
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-01-ai-and-the-blurring-of-reality]] · [[2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c]] · [[2026-08-01-wsj-warns-ai-generated-content-is-blurring-evidence-trust-an]] · [[2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra]] · [[2026-08-01-the-red-hot-book-at-the-center-of-an-ai-mystery]]
+**Related:** [[2026-08-01-ai-and-the-blurring-of-reality]] · [[2026-09-06-authors-push-back-as-publishers-and-agents-claim-share-of-an]] · [[2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c]] · [[2026-08-01-wsj-warns-ai-generated-content-is-blurring-evidence-trust-an]] · [[2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra]]
 <!-- graph:end -->

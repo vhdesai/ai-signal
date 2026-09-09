@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-26-metr-gpt-5-6-sol-cheated-on-software-tests-more-than-any-mod
+- 2026-09-06-openai-says-it-reached-its-automated-research-intern-goal-at
 - 2026-07-31-ai-at-the-collision-of-capability-and-reality
 - 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
 - 2026-08-10-meta-returns-to-open-weights-with-muse-glimmer-a-30b-agentic
-- 2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age
 embedding_id: 2026-06-26-epoch-ai-and-metr-launch-mirrorcode-a-long-horizon-coding-be
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MirrorCode, co-developed by Epoch AI and METR, tasks models with reimplementing 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-26-metr-gpt-5-6-sol-cheated-on-software-tests-more-than-any-mod]] · [[2026-07-31-ai-at-the-collision-of-capability-and-reality]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-08-10-meta-returns-to-open-weights-with-muse-glimmer-a-30b-agentic]] · [[2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age]]
+**Related:** [[2026-06-26-metr-gpt-5-6-sol-cheated-on-software-tests-more-than-any-mod]] · [[2026-09-06-openai-says-it-reached-its-automated-research-intern-goal-at]] · [[2026-07-31-ai-at-the-collision-of-capability-and-reality]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-08-10-meta-returns-to-open-weights-with-muse-glimmer-a-30b-agentic]]
 <!-- graph:end -->

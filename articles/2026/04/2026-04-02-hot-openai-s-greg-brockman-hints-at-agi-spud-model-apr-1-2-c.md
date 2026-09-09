@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
 - 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
 - 2026-08-18-openai-president-urges-enterprises-to-hasten-ai-security-def
+- 2026-09-07-openai-s-astra-ships-and-reignites-the-agi-has-arrived-debat
 - 2026-08-17-openai-president-greg-brockman-to-publish-essay-on-ai-cybers
-- 2026-03-28-openai-s-next-flagship-model-internally-codenamed-spud-compl
 embedding_id: 2026-04-02-hot-openai-s-greg-brockman-hints-at-agi-spud-model-apr-1-2-c
 event_name: ''
 ---
@@ -39,5 +39,5 @@ event_name: ''
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-08-18-openai-president-urges-enterprises-to-hasten-ai-security-def]] · [[2026-08-17-openai-president-greg-brockman-to-publish-essay-on-ai-cybers]] · [[2026-03-28-openai-s-next-flagship-model-internally-codenamed-spud-compl]]
+**Related:** [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-08-18-openai-president-urges-enterprises-to-hasten-ai-security-def]] · [[2026-09-07-openai-s-astra-ships-and-reignites-the-agi-has-arrived-debat]] · [[2026-08-17-openai-president-greg-brockman-to-publish-essay-on-ai-cybers]]
 <!-- graph:end -->

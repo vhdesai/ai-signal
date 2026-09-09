@@ -1,23 +1,34 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 1832
+member_count: 1843
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 1832 connected article(s).
+> Auto-generated topic hub. 1843 connected article(s).
 
+- `2026-09-07` [[2026-09-07-tech-giants-say-ai-data-centers-are-getting-less-thirsty-as|Tech giants say AI data centers are getting less thirsty as siting fights intensify]]
+- `2026-09-07` [[2026-09-07-simultaneous-outages-hit-chatgpt-claude-and-grok|Simultaneous outages hit ChatGPT, Claude and Grok]]
+- `2026-09-07` [[2026-09-07-nvidia-partner-iren-s-ceo-says-ai-compute-demand-may-never-b|Nvidia partner Iren's CEO says AI compute demand may never be sated]]
+- `2026-09-07` [[2026-09-07-japan-s-preferred-networks-seeks-an-ipo-to-fund-chip-mass-pr|Japan's Preferred Networks seeks an IPO to fund chip mass production]]
+- `2026-09-07` [[2026-09-07-google-to-build-a-new-ai-chip-in-israel-recruiting-from-hail|Google to build a new AI chip in Israel, recruiting from Hailo]]
+- `2026-09-07` [[2026-09-07-cxmt-points-to-smartphone-and-ai-gains-as-it-climbs-the-memo|CXMT points to smartphone and AI gains as it climbs the memory market]]
 - `2026-09-06` [[2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further|Report: China's AI giants stretch each compute dollar further than US rivals]]
 - `2026-09-06` [[2026-09-06-micron-s-fully-booked-advanced-fabs-spotlight-ai-memory-cons|Micron's fully booked advanced fabs spotlight AI memory constraints]]
 - `2026-09-06` [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai|Meta's new real-time audio model targets always-listening AI assistants]]
+- `2026-09-06` [[2026-09-06-meta-fair-oxford-and-ucl-rank-ml-experiments-before-spending|Meta FAIR, Oxford and UCL rank ML experiments before spending GPU hours]]
+- `2026-09-06` [[2026-09-06-intel-positions-in-trusted-ai-standards-as-asus-expands-infr|Intel positions in trusted-AI standards as ASUS expands infrastructure ecosystem]]
+- `2026-09-06` [[2026-09-06-daily-ai-news-digest-september-7-2026|Daily AI News Digest – September 7, 2026]]
 - `2026-09-06` [[2026-09-06-crusoe-raises-3b-at-a-30b-valuation|Crusoe raises $3B at a $30B valuation]]
 - `2026-09-06` [[2026-09-06-cerebras-announces-200mw-european-ai-compute-expansion|Cerebras announces 200MW European AI compute expansion]]
+- `2026-09-06` [[2026-09-06-bytedance-lands-29-6b-loan-to-fuel-ai-advances|ByteDance lands $29.6B loan to fuel AI advances]]
 - `2026-09-05` [[2026-09-05-wsj-reports-u-s-used-promise-of-nvidia-chips-in-armenia-azer|WSJ reports U.S. used promise of Nvidia chips in Armenia-Azerbaijan peace effort]]
 - `2026-09-05` [[2026-09-05-sunday-september-6-2026|Sunday, September 6, 2026]]
 - `2026-09-05` [[2026-09-05-perplexity-publishes-the-internals-of-its-gpu-embedding-serv|Perplexity Publishes the Internals of Its GPU Embedding Serving Stack]]
 - `2026-09-05` [[2026-09-05-nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momen|Nvidia partner Hon Hai's sales climb 52% with AI server momentum]]
 - `2026-09-05` [[2026-09-05-independent-coverage-frames-the-incident-as-an-eu-code-of-pr|Independent coverage frames the incident as an EU code-of-practice gap]]
+- `2026-09-05` [[2026-09-05-deepseek-plans-160-000-huawei-ascend-950dt-chips-for-gigawat|DeepSeek plans 160,000 Huawei Ascend 950DT chips for gigawatt-scale site]]
 - `2026-09-05` [[2026-09-05-deepseek-orders-160-000-huawei-ascend-chips-for-inner-mongol|DeepSeek orders 160,000 Huawei Ascend chips for Inner Mongolia inference cluster]]
 - `2026-09-05` [[2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner|DeepSeek Orders 160,000 Huawei Ascend 950DT Chips for Inner Mongolia Inference Cluster]]
 - `2026-09-05` [[2026-09-05-broadcom-ai-revenue-soars-but-investor-expectations-keep-ris|Broadcom AI revenue soars, but investor expectations keep rising]]

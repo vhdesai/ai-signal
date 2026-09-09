@@ -4,8 +4,8 @@ title: Nvidia's $12.9B Hugging Face deal shows why IPOs are now optional
 date: '2026-09-06'
 source: PitchBook
 url_original: null
-url_canonical: https://ca.finance.yahoo.com/news/nvidias-12-9b-hugging-face-100300369.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-06_070457_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: fbb48268c8b22fdd248e2a754566a3addbb7d3c9ec5aff182b329a916e5f6f7e

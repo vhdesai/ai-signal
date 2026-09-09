@@ -4,8 +4,8 @@ title: Psychiatry debates whether “AI psychosis” is a distinct diagnosis
 date: '2026-09-06'
 source: The Decoder · King’s College London / OpenAI
 url_original: null
-url_canonical: https://arxiv.org/html/2608.23937v1
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-06_060643_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: a17b3cf7e11215cf497226a70f2a82ac0156479017f393df0042e8a50ac1dcb6

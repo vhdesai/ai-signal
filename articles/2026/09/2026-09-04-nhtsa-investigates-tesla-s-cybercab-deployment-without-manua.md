@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-04-nhtsa-opens-probe-into-tesla-cybercab-hours-after-austin-dep
 - 2026-09-04-nhtsa-opens-probe-into-tesla-cybercab-deployment
+- 2026-09-06-tesla-s-cybercab-reaches-public-roads-and-its-first-operatio
 - 2026-08-17-tesla-readies-august-launch-of-cybercab-its-first-robotaxi-w
 - 2026-08-24-tesla-sets-september-3-cybercab-launch-event-in-austin
-- 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
 embedding_id: 2026-09-04-nhtsa-investigates-tesla-s-cybercab-deployment-without-manua
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TechCrunch reported that NHTSA opened an investigation into Tesla's Cybercab lau
 
 **Entities:** [[Tesla]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-04-nhtsa-opens-probe-into-tesla-cybercab-hours-after-austin-dep]] · [[2026-09-04-nhtsa-opens-probe-into-tesla-cybercab-deployment]] · [[2026-08-17-tesla-readies-august-launch-of-cybercab-its-first-robotaxi-w]] · [[2026-08-24-tesla-sets-september-3-cybercab-launch-event-in-austin]] · [[2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk]]
+**Related:** [[2026-09-04-nhtsa-opens-probe-into-tesla-cybercab-hours-after-austin-dep]] · [[2026-09-04-nhtsa-opens-probe-into-tesla-cybercab-deployment]] · [[2026-09-06-tesla-s-cybercab-reaches-public-roads-and-its-first-operatio]] · [[2026-08-17-tesla-readies-august-launch-of-cybercab-its-first-robotaxi-w]] · [[2026-08-24-tesla-sets-september-3-cybercab-launch-event-in-austin]]
 <!-- graph:end -->

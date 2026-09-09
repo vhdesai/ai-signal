@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i
 - 2026-05-01-trending-huawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-r
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
-- 2026-05-01-trendinghuawei-eyes-12b-ai-chip-revenue-as-deepseek-v4-drive
+- 2026-09-07-malaysia-weighs-huawei-chips-for-rm2b-national-ai-project-de
 embedding_id: 2026-04-23-huawei-commits-11-7b-to-autonomous-driving-ai-compute-build
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Huawei disclosed an $11.7B multi-year investment in training and inference infra
 
 **Entities:** [[Huawei]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red]] · [[2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i]] · [[2026-05-01-trending-huawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-r]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-05-01-trendinghuawei-eyes-12b-ai-chip-revenue-as-deepseek-v4-drive]]
+**Related:** [[2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red]] · [[2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i]] · [[2026-05-01-trending-huawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-r]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-09-07-malaysia-weighs-huawei-chips-for-rm2b-national-ai-project-de]]
 <!-- graph:end -->

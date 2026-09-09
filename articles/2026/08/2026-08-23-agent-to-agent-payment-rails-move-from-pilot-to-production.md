@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo
 - 2026-08-20-binance-launches-agent-os-ai-agents-can-now-trade-crypto-via
+- 2026-09-06-hkt-pilots-identity-verification-for-ai-agent-payment-flows
 - 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
-- 2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain
 embedding_id: 2026-08-23-agent-to-agent-payment-rails-move-from-pilot-to-production
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Autonomous agents are increasingly transacting using stablecoin-based payment pr
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo]] · [[2026-08-20-binance-launches-agent-os-ai-agents-can-now-trade-crypto-via]] · [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]] · [[2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain]]
+**Related:** [[2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo]] · [[2026-08-20-binance-launches-agent-os-ai-agents-can-now-trade-crypto-via]] · [[2026-09-06-hkt-pilots-identity-verification-for-ai-agent-payment-flows]] · [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]]
 <!-- graph:end -->
