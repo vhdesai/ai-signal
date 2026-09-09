@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st
 - 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris
 - 2026-08-04-dow-hits-54-000-as-palantir-surges-and-the-ai-trade-roars-ba
-- 2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock
+- 2026-09-05-wall-street-raises-the-bar-for-ai-stocks
 embedding_id: 2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A widening AI sell-off has dragged several marquee technology names well below t
 
 **Entities:** [[Oracle]] · [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris]] · [[2026-08-04-dow-hits-54-000-as-palantir-surges-and-the-ai-trade-roars-ba]] · [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]]
+**Related:** [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris]] · [[2026-08-04-dow-hits-54-000-as-palantir-surges-and-the-ai-trade-roars-ba]] · [[2026-09-05-wall-street-raises-the-bar-for-ai-stocks]]
 <!-- graph:end -->

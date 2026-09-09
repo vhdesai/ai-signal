@@ -19,9 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-05-nyc-and-los-angeles-school-districts-impose-new-ai-moratoriu
+- 2026-09-05-new-york-city-and-los-angeles-school-districts-impose-new-ai
 - 2026-09-02-new-york-city-bans-generative-ai-in-schools-through-eighth-g
 - 2026-09-02-ibm-study-finds-classroom-ai-adoption-outpacing-k-12-readine
-- 2026-07-19-advocates-tell-google-to-fix-ai-mode-or-leave-classrooms
 embedding_id: 2026-09-04-nyc-parents-push-back-after-discovering-classroom-ai-use
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Business Insider reported that some New York City parents were surprised to lear
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-02-new-york-city-bans-generative-ai-in-schools-through-eighth-g]] · [[2026-09-02-ibm-study-finds-classroom-ai-adoption-outpacing-k-12-readine]] · [[2026-07-19-advocates-tell-google-to-fix-ai-mode-or-leave-classrooms]]
+**Related:** [[2026-09-05-nyc-and-los-angeles-school-districts-impose-new-ai-moratoriu]] · [[2026-09-05-new-york-city-and-los-angeles-school-districts-impose-new-ai]] · [[2026-09-02-new-york-city-bans-generative-ai-in-schools-through-eighth-g]] · [[2026-09-02-ibm-study-finds-classroom-ai-adoption-outpacing-k-12-readine]]
 <!-- graph:end -->

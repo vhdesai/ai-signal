@@ -21,7 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-04-github-s-hydrafusion-router-cuts-ai-coding-costs-in-every-be
 - 2026-09-04-github-s-hydrafusion-reportedly-cuts-ai-coding-costs-across
-- 2026-08-17-ai-module-inflated-86-of-pipeline-accuracy-by-leaking-answer
+- 2026-09-04-github-s-hydrafusion-routes-each-coding-task-to-a-per-task-w
+- 2026-09-05-github-s-hydrafusion-routes-each-coding-task-to-a-per-task-w
+- 2026-09-05-github-s-project-hydrafusion-builds-a-bespoke-workflow-per-c
 embedding_id: 2026-09-04-github-s-hydrafusion-cuts-ai-coding-costs-but-quality-parity
 event_name: ''
 ---
@@ -34,5 +36,5 @@ VentureBeat reported that GitHub's HydraFusion router reduced AI coding costs ac
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-04-github-s-hydrafusion-router-cuts-ai-coding-costs-in-every-be]] · [[2026-09-04-github-s-hydrafusion-reportedly-cuts-ai-coding-costs-across]] · [[2026-08-17-ai-module-inflated-86-of-pipeline-accuracy-by-leaking-answer]]
+**Related:** [[2026-09-04-github-s-hydrafusion-router-cuts-ai-coding-costs-in-every-be]] · [[2026-09-04-github-s-hydrafusion-reportedly-cuts-ai-coding-costs-across]] · [[2026-09-04-github-s-hydrafusion-routes-each-coding-task-to-a-per-task-w]] · [[2026-09-05-github-s-hydrafusion-routes-each-coding-task-to-a-per-task-w]] · [[2026-09-05-github-s-project-hydrafusion-builds-a-bespoke-workflow-per-c]]
 <!-- graph:end -->

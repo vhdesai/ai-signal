@@ -5,8 +5,8 @@ title: xAI has released Grok 4.3 through its API with aggressively competitive p
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://builtin.com/artificial-intelligence/what-is-xai
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_071601_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: cc68d445787898237da7af070e12fe94fa91b0de447475a708f11b3675b9feac
 normalized_title_hash: 987b80aafd29ccae

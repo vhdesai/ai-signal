@@ -5,8 +5,8 @@ title: Palantir Price Target Raised to $225 — Rosenblatt Names Ontology the "D
 date: '2026-05-05'
 source: 24/7 Wall St.
 url_original: null
-url_canonical: https://finance.yahoo.com/quote/PLTR/?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: 00687b855fc3d9d26d4cc9a587c8991a5f58528dd6b46b2c741f88c98ee9dc16

@@ -22,6 +22,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-06-meta-migrates-internal-communications-from-google-chat-to-sl
 - 2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
 - 2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o
@@ -39,5 +40,5 @@ Meta is moving its internal communications off Google Chat and onto Slack, accor
 
 **Entities:** [[Google]] · [[Meta]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o]] · [[2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst]]
+**Related:** [[2026-09-06-meta-migrates-internal-communications-from-google-chat-to-sl]] · [[2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o]] · [[2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst]]
 <!-- graph:end -->

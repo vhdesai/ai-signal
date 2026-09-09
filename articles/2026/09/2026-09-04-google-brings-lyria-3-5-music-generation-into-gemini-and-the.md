@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-09-04-google-brings-lyria-3-5-music-generation-to-the-gemini-app-a
 - 2026-09-04-google-brings-lyria-3-5-music-generation-into-the-gemini-app
 - 2026-09-04-google-brings-lyria-3-5-music-generation-to-gemini-app-and-a
-- 2026-07-29-google-launches-lyria-3-5-in-flow-music
-- 2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat
+- 2026-09-06-google-brings-lyria-3-5-music-generation-directly-into-the-g
+- 2026-09-06-google-brings-ai-music-generation-into-the-gemini-app-with-l
 embedding_id: 2026-09-04-google-brings-lyria-3-5-music-generation-into-gemini-and-the
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google made Lyria 3.5 available through Gemini and its API, extending synthetic 
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-04-google-brings-lyria-3-5-music-generation-to-the-gemini-app-a]] · [[2026-09-04-google-brings-lyria-3-5-music-generation-into-the-gemini-app]] · [[2026-09-04-google-brings-lyria-3-5-music-generation-to-gemini-app-and-a]] · [[2026-07-29-google-launches-lyria-3-5-in-flow-music]] · [[2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat]]
+**Related:** [[2026-09-04-google-brings-lyria-3-5-music-generation-to-the-gemini-app-a]] · [[2026-09-04-google-brings-lyria-3-5-music-generation-into-the-gemini-app]] · [[2026-09-04-google-brings-lyria-3-5-music-generation-to-gemini-app-and-a]] · [[2026-09-06-google-brings-lyria-3-5-music-generation-directly-into-the-g]] · [[2026-09-06-google-brings-ai-music-generation-into-the-gemini-app-with-l]]
 <!-- graph:end -->

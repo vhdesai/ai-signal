@@ -39,9 +39,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
 - 2026-04-15-model-releases
+- 2026-09-06-openai-s-agi-number-came-from-a-harness-not-the-model
 - 2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena
 - 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
-- 2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud
 embedding_id: 2026-05-02-model-releases-frontier-research-5-stories-arc-agi-3-analysi
 event_name: ''
 ---
@@ -55,5 +55,5 @@ event_name: ''
 
 **Entities:** [[Adobe]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[DeepSeek]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-04-15-model-releases]] · [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]]
+**Related:** [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-04-15-model-releases]] · [[2026-09-06-openai-s-agi-number-came-from-a-harness-not-the-model]] · [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]]
 <!-- graph:end -->

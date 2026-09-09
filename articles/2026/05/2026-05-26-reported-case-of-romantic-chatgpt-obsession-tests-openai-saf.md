@@ -47,7 +47,7 @@ related_article_ids:
 - 2026-04-02-academic-research
 - 2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt
 - 2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking
-- 2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega
+- 2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno
 embedding_id: 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
 event_name: ''
 ---
@@ -61,5 +61,5 @@ A reported case of romantic ChatGPT obsession has sharpened concerns over AI com
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-26-reported-romantic-chatgpt-obsession-case-tests-openai-safety]] · [[2026-04-02-academic-research]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]] · [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking]] · [[2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega]]
+**Related:** [[2026-05-26-reported-romantic-chatgpt-obsession-case-tests-openai-safety]] · [[2026-04-02-academic-research]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]] · [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking]] · [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno]]
 <!-- graph:end -->

@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 538
+member_count: 539
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 538 connected article(s).
+> Auto-generated entity hub. 539 connected article(s).
 
+- `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
 - `2026-09-04` [[2026-09-04-september-4-2026-nvidia-developer-blog|[September 4, 2026] · NVIDIA Developer Blog]]
 - `2026-09-04` [[2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne|OpenAI releases GPT-6 Astra and hints the AGI line may be near]]
 - `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]

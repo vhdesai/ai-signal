@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that
 - 2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki
 - 2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an
+- 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm
 - 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
-- 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
 embedding_id: 2026-09-04-september-5-2026-bleepingcomputer
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers documented approximately 18,000 public wiki posts attributed to auto
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that]] · [[2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki]] · [[2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]] · [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]]
+**Related:** [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that]] · [[2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki]] · [[2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]]
 <!-- graph:end -->

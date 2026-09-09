@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 101
+member_count: 102
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 101 connected article(s).
+> Auto-generated entity hub. 102 connected article(s).
 
+- `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
 - `2026-09-04` [[2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over|Judge lets Minnesota enforce anti-"nudification" app law over xAI objection]]
 - `2026-09-04` [[2026-09-04-citi-opens-30-day-upside-catalyst-watch-on-baidu-as-ai-infra|Citi opens 30-day upside catalyst watch on Baidu as AI infrastructure business grows]]
 - `2026-09-03` [[2026-09-03-u-s-government-backs-openai-s-fair-use-position-in-nyt-copyr|U.S. government backs OpenAI's fair-use position in NYT copyright case]]

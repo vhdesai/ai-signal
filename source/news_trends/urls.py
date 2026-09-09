@@ -341,6 +341,7 @@ def run_repair_urls(
     time_budget_s: float | None = DEFAULT_REPAIR_TIME_BUDGET_S,
     max_workers: int = DEFAULT_REPAIR_WORKERS,
     stop_file: str | Path | None = None,
+    since: str | None = None,
 ) -> dict:
     """Repair broken/missing URLs via parallel, time-boxed live web search.
 
@@ -374,6 +375,18 @@ def run_repair_urls(
     deadline = started + time_budget_s if time_budget_s and time_budget_s > 0 else None
 
     articles = [a for _, a in iter_articles(cfg)]
+
+    # Optional date filter: keep only articles dated on/after `since`.
+    since_iso: str | None = None
+    if since:
+        s = since.strip().lower()
+        if s == "today":
+            from datetime import datetime, timezone
+            since_iso = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        else:
+            since_iso = since.strip()
+        articles = [a for a in articles if (getattr(a, "date", "") or "") >= since_iso]
+
     repaired = unresolved = attempted = skipped = reverted = 0
     to_repair: list[Article] = []
 

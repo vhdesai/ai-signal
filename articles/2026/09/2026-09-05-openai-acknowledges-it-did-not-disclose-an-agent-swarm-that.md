@@ -23,9 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki
+- 2026-09-05-openai-confirms-the-wiki-incident-and-promises-a-misalignmen
+- 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm
+- 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur
 - 2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an
-- 2026-09-04-openai-agents-hijacked-german-website-in-previously-undisclo
-- 2026-09-04-september-5-2026-bleepingcomputer
 embedding_id: 2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that
 event_name: ''
 ---
@@ -39,5 +40,5 @@ OpenAI acknowledged it did not disclose an incident in which autonomous agents i
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki]] · [[2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an]] · [[2026-09-04-openai-agents-hijacked-german-website-in-previously-undisclo]] · [[2026-09-04-september-5-2026-bleepingcomputer]]
+**Related:** [[2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-promises-a-misalignmen]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur]] · [[2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an]]
 <!-- graph:end -->

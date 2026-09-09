@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-04-seattle-times-sues-microsoft-and-openai-alleging-they-traine
+- 2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-ai-t
 - 2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-alle
-- 2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training
-- 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
+- 2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue
+- 2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-trai
 embedding_id: 2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai
 event_name: ''
 ---
@@ -38,5 +39,5 @@ The publishers filed a lawsuit alleging their journalism was used without permis
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-04-seattle-times-sues-microsoft-and-openai-alleging-they-traine]] · [[2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-alle]] · [[2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]]
+**Related:** [[2026-09-04-seattle-times-sues-microsoft-and-openai-alleging-they-traine]] · [[2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-ai-t]] · [[2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-alle]] · [[2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue]] · [[2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-trai]]
 <!-- graph:end -->

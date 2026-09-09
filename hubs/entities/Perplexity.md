@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Perplexity
-member_count: 65
+member_count: 70
 ---
 
 # Perplexity
 
-> Auto-generated entity hub. 65 connected article(s).
+> Auto-generated entity hub. 70 connected article(s).
 
+- `2026-09-05` [[2026-09-05-perplexity-details-the-gpu-serving-stack-behind-pplx-embed|Perplexity details the GPU serving stack behind pplx-embed]]
+- `2026-09-05` [[2026-09-05-perplexity-details-the-gpu-embedding-stack-behind-pplx-embed|Perplexity details the GPU embedding stack behind pplx-embed]]
+- `2026-09-05` [[2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and|Perplexity details its GPU embedding stack: how Ivy, Tulip and ROSE serve pplx-embed]]
+- `2026-09-05` [[2026-09-05-perplexity-publishes-the-internals-of-its-gpu-embedding-serv|Perplexity Publishes the Internals of Its GPU Embedding Serving Stack]]
+- `2026-09-05` [[2026-09-05-hikers-rescued-after-planning-a-climb-with-google-gemini|Hikers rescued after planning a climb with Google Gemini]]
 - `2026-09-02` [[2026-09-02-u-s-pushes-light-touch-ai-regulation-at-g20-as-europe-advanc|U.S. pushes light-touch AI regulation at G20 as Europe advances new AI law]]
 - `2026-09-02` [[2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive|Perplexity adds hybrid compute so agents can keep sensitive steps on local Macs]]
 - `2026-09-02` [[2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b|Perplexity Introduces Hybrid Compute, Splitting Agent Tasks Between Cloud Models and Local Macs]]

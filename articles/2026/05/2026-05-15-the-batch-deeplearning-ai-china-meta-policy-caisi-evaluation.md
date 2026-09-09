@@ -5,8 +5,8 @@ title: 'The Batch (DeepLearning.AI): China-Meta Policy, CAISI Evaluations, AI Ma
 date: '2026-05-15'
 source: 📰 The Batch · DeepLearning.AI
 url_original: null
-url_canonical: https://hellobatch.com/a/account/login
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_071157_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 840a0922fc358b4db2fe4b1d56218b3c0a39eb11b9e1ab1a605b94dd0ad43b7b
@@ -45,9 +45,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u
+- 2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno
 - 2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
-- 2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu
 embedding_id: 2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation
 event_name: ''
 ---
@@ -61,5 +61,5 @@ This week's edition of The Batch highlights three key AI policy and research thr
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u]] · [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu]]
+**Related:** [[2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u]] · [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno]] · [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]]
 <!-- graph:end -->

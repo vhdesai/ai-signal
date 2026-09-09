@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Samsung
-member_count: 84
+member_count: 85
 ---
 
 # Samsung
 
-> Auto-generated entity hub. 84 connected article(s).
+> Auto-generated entity hub. 85 connected article(s).
 
+- `2026-09-06` [[2026-09-06-mistral-reportedly-closes-3b-round-with-samsung-nvidia-and-s|Mistral reportedly closes €3B round with Samsung, Nvidia, and Scaleup Fund]]
 - `2026-08-31` [[2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth|China's CXMT makes a breakthrough in advanced high-bandwidth memory chips]]
 - `2026-08-31` [[2026-08-31-china-s-cxmt-makes-breakthrough-in-advanced-high-bandwidth-m|China's CXMT Makes Breakthrough in Advanced High-Bandwidth Memory Chips]]
 - `2026-08-25` [[2026-08-25-emerald-ai-raises-150m-at-a-1-05b-valuation-to-make-data-cen|Emerald AI raises $150M at a $1.05B valuation to make data center load flexible]]

@@ -1,18 +1,43 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 2818
+member_count: 2845
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 2818 connected article(s).
+> Auto-generated topic hub. 2845 connected article(s).
 
+- `2026-09-06` [[2026-09-06-openai-s-agi-number-came-from-a-harness-not-the-model|OpenAI’s AGI number came from a harness, not the model]]
+- `2026-09-06` [[2026-09-06-meta-s-real-time-audio-model-targets-always-listening-assist|Meta’s real-time audio model targets always-listening assistants]]
+- `2026-09-06` [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai|Meta's new real-time audio model targets always-listening AI assistants]]
+- `2026-09-06` [[2026-09-06-meta-releases-muse-voice-transcribe-for-real-time-streaming|Meta releases Muse Voice Transcribe for real-time streaming speech recognition]]
+- `2026-09-06` [[2026-09-06-independent-evaluator-finds-openai-s-astra-agi-benchmark-was|Independent evaluator finds OpenAI's Astra AGI benchmark was harness-dependent]]
+- `2026-09-06` [[2026-09-06-google-s-weathernext-3-drops-physics-simulation-and-learns-w|Google’s WeatherNext 3 drops physics simulation and learns weather from live satellite data]]
+- `2026-09-06` [[2026-09-06-google-rolls-out-lyria-3-5-music-generation-to-the-gemini-ap|Google rolls out Lyria 3.5 music generation to the Gemini app and API]]
+- `2026-09-06` [[2026-09-06-google-brings-ai-music-generation-into-the-gemini-app-with-l|Google brings AI music generation into the Gemini app with Lyria 3.5]]
+- `2026-09-06` [[2026-09-06-google-deepmind-s-weathernext-3-learns-weather-directly-from|Google DeepMind's WeatherNext 3 learns weather directly from live satellite data]]
+- `2026-09-06` [[2026-09-06-china-launches-ai-app-to-detect-online-fraud-schemes|China launches AI app to detect online fraud schemes]]
+- `2026-09-05` [[2026-09-05-zoom-ai-companion-degradation-in-u-s-region-resolved-after-o|Zoom AI Companion degradation in U.S. region resolved after overnight incident]]
+- `2026-09-05` [[2026-09-05-uc-berkeley-researchers-release-cua-lite-an-open-platform-fo|UC Berkeley researchers release CUA-Lite, an open platform for computer-use agents]]
+- `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-unifying-sandboxes-data-evalua|UC Berkeley releases CUA-Lite, unifying sandboxes, data, evaluation and RL for computer-use agents]]
+- `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-an-open-platform-for-computer|UC Berkeley releases CUA-Lite, an open platform for computer-use agents]]
+- `2026-09-05` [[2026-09-05-techcrunch-reports-that-the-seattle-times-and-newsday-filed|TechCrunch reports that The Seattle Times and Newsday filed a lawsuit in the Southern District of New York alleging OpenAI and Microsoft trained their models on the publishers' journalism without permission. The complaint describes generative AI as "a snake eating its own tail" that risks breaking the news industry it consumes. The suit is notable because Microsoft and OpenAI have previously funded some Seattle Times journalism initiatives, adding a new dimension to the wave of publisher lawsuits that began with The New York Times in 2023.]]
+- `2026-09-05` [[2026-09-05-sunday-september-6-2026|Sunday, September 6, 2026]]
 - `2026-09-05` [[2026-09-05-pitchbook-factory-robotics-still-needs-more-than-smarter-fou|PitchBook: factory robotics still needs more than smarter foundation models]]
+- `2026-09-05` [[2026-09-05-perplexity-details-the-gpu-embedding-stack-behind-pplx-embed|Perplexity details the GPU embedding stack behind pplx-embed]]
+- `2026-09-05` [[2026-09-05-openai-says-the-industry-needs-standards-for-disclosing-ai-a|OpenAI says the industry needs standards for disclosing AI alignment incidents]]
 - `2026-09-05` [[2026-09-05-nvidia-s-hugging-face-deal-keeps-reshaping-the-open-model-su|Nvidia's Hugging Face deal keeps reshaping the open-model supply chain]]
+- `2026-09-05` [[2026-09-05-new-york-city-and-los-angeles-school-districts-impose-new-ai|New York City and Los Angeles school districts impose new AI moratoriums]]
+- `2026-09-05` [[2026-09-05-independent-coverage-frames-the-incident-as-an-eu-code-of-pr|Independent coverage frames the incident as an EU code-of-practice gap]]
 - `2026-09-05` [[2026-09-05-hon-hai-august-sales-rise-52-on-ai-server-demand-as-europe-p|Hon Hai August sales rise 52% on AI server demand as Europe places its own orders]]
+- `2026-09-05` [[2026-09-05-github-s-project-hydrafusion-builds-a-bespoke-workflow-per-c|GitHub’s Project HydraFusion builds a bespoke workflow per coding task]]
+- `2026-09-05` [[2026-09-05-gpt-6-astra-draws-scrutiny-over-cybersecurity-capability-sco|GPT-6 Astra draws scrutiny over cybersecurity capability score]]
+- `2026-09-05` [[2026-09-05-gpt-6-astra-coverage-focuses-on-cyber-capability-and-safety|GPT-6 Astra coverage focuses on cyber capability and safety thresholds]]
 - `2026-09-05` [[2026-09-05-fermat-s-last-theorem-formalised-by-ai-agents-in-just-11-day|Fermat's last theorem formalised by AI agents in just 11 days]]
+- `2026-09-05` [[2026-09-05-campaigns-use-ai-generated-ads-despite-chatgpt-restrictions|Campaigns use AI-generated ads despite ChatGPT restrictions]]
 - `2026-09-05` [[2026-09-05-alibaba-s-wan3-0-expands-its-ai-ambitions-could-shareholders|Alibaba's Wan3.0 expands its AI ambitions, could shareholders be paying the bill?]]
+- `2026-09-05` [[2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s|AI model flags colorectal cancer on routine noncontrast CT scans]]
 - `2026-09-04` [[2026-09-04-september-5-2026-bleepingcomputer|[September 5, 2026] · BleepingComputer]]
 - `2026-09-04` [[2026-09-04-what-s-new-in-oracle-ai-september-2026-edition|What's New in Oracle AI? September 2026 Edition]]
 - `2026-09-04` [[2026-09-04-university-of-washington-allen-institute-and-fred-hutch-laun|University of Washington, Allen Institute and Fred Hutch launch $95M AI BioDesign project]]
@@ -44,6 +69,7 @@ member_count: 2818
 - `2026-09-04` [[2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control|Nvidia agrees to buy Hugging Face for $12.93B, taking control of the open-model layer]]
 - `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-on-the-back-of-a-45b|Nscale seeks $3.5B in pre-IPO financing on the back of a $45B Anthropic deal]]
 - `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-anthropic-compu|Nscale seeks $3.5B in pre-IPO financing after Anthropic compute deal]]
+- `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-45b-anthropic-d|Nscale seeks $3.5B in pre-IPO financing after $45B Anthropic deal]]
 - `2026-09-04` [[2026-09-04-nyc-parents-push-back-after-discovering-classroom-ai-use|NYC parents push back after discovering classroom AI use]]
 - `2026-09-04` [[2026-09-04-nsf-launches-nairr-operations-center-led-by-uc-san-diego-and|NSF launches NAIRR operations center led by UC San Diego and UT Austin]]
 - `2026-09-04` [[2026-09-04-nhtsa-opens-probe-into-tesla-cybercab-deployment|NHTSA opens probe into Tesla Cybercab deployment]]
@@ -57,6 +83,7 @@ member_count: 2818
 - `2026-09-04` [[2026-09-04-google-brings-lyria-3-5-music-generation-into-gemini-and-the|Google brings Lyria 3.5 music generation into Gemini and the API]]
 - `2026-09-04` [[2026-09-04-google-brings-lyria-3-5-music-generation-to-the-gemini-app-a|Google Brings Lyria 3.5 Music Generation to the Gemini App and API]]
 - `2026-09-04` [[2026-09-04-google-brings-lyria-3-5-music-generation-to-gemini-app-and-a|Google Brings Lyria 3.5 Music Generation to Gemini App and API]]
+- `2026-09-04` [[2026-09-04-github-s-hydrafusion-routes-each-coding-task-to-a-per-task-w|GitHub's HydraFusion routes each coding task to a per-task workflow]]
 - `2026-09-04` [[2026-09-04-gimlet-labs-raises-300m-for-disaggregated-multi-silicon-infe|Gimlet Labs raises $300M for disaggregated multi-silicon inference]]
 - `2026-09-04` [[2026-09-04-figure-commits-billions-to-nscale-for-nvidia-vera-rubin-gpu|Figure commits billions to Nscale for Nvidia Vera Rubin GPU capacity]]
 - `2026-09-04` [[2026-09-04-deepseek-plots-major-huawei-ai-chip-order|DeepSeek plots major Huawei AI chip order]]

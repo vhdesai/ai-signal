@@ -22,19 +22,22 @@ pwsh ./scripts/setup.ps1
 
 ```pwsh
 pwsh ./scripts/run-pipeline.ps1                # full daily refresh (run-all)
+pwsh ./scripts/run-pipeline.ps1 run-daily      # fast incremental daily refresh
 pwsh ./scripts/run-pipeline.ps1 repair-urls    # a single stage
 pwsh ./scripts/run-pipeline.ps1 clean-repairs  # revert low-quality URL repairs
 ```
 
 ```bash
 ./scripts/run-pipeline.sh                       # full daily refresh (run-all)
+./scripts/run-pipeline.sh run-daily             # fast incremental daily refresh
 ./scripts/run-pipeline.sh build-graph           # a single stage
 ```
 
 Equivalent raw CLI (run from `source/`, UTF-8 console required for en-dashes):
 
 ```bash
-python -X utf8 -m news_trends --root .. run-all
+python -X utf8 -m news_trends --root .. run-all       # full rebuild
+python -X utf8 -m news_trends --root .. run-daily     # incremental daily
 ```
 
 ## Stages (run-all order)
@@ -42,6 +45,37 @@ python -X utf8 -m news_trends --root .. run-all
 `ingest → split → index → dedupe → build-graph → validate-urls → repair-urls → build-site → publish`
 
 Additional maintenance stage: `clean-repairs` (offline revert of wrong URL repairs).
+
+## Fast daily rebuild (`run-daily`)
+
+`run-daily` runs the same stages as `run-all` but with two important
+optimizations for a fast, low-cost daily refresh:
+
+1. **URL repair scoped to today's articles.** `repair-urls` defaults to
+   `--repair-since today` and a 10-minute time budget instead of 60 minutes
+   (both overridable). Older broken URLs are left for the next full `run-all`.
+2. **Incremental site build.** The last stage is `build-site-daily` instead
+   of `build-site`. It compares the current corpus state against
+   `site/.build-manifest.json` and only re-writes pages whose content
+   actually changed:
+   * Root-level pages (index, investments, topics, entities, archive,
+     sitemap, chat, about) are always rebuilt.
+   * Snapshot page for each date whose articles changed.
+   * Entity page for each entity mentioned by a changed article.
+   * Topic / theme page for each theme touched by a changed article.
+   * All 9 Investments sub-pages if any deal-classified article changed.
+   * Standalone Analysis-tag article pages if that article changed.
+
+   It **automatically falls back to a full `build-site`** when:
+   * The manifest is missing (first daily run).
+   * The manifest is corrupt / unreadable.
+   * `site.py`, `split.py`, or `graph.py` has changed since the manifest
+     was written (SHA of these files is stored in the manifest).
+   * Any article was removed from the canonical set.
+
+   After every run (full or incremental) a fresh manifest is written.
+
+**Typical daily-run time:** ~30 min (vs. ~90 min for `run-all`).
 
 ## URL repair (parallel, time-boxed, resumable)
 

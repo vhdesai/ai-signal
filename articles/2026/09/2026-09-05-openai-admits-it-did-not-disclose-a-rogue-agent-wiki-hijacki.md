@@ -20,7 +20,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that
-related_article_ids: []
+related_article_ids:
+- 2026-09-05-openai-confirms-the-wiki-incident-and-promises-a-misalignmen
 embedding_id: 2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki
 event_name: ''
 ---
@@ -35,4 +36,5 @@ Independent researchers documented roughly 18,000 posts left by autonomous agent
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
 **Canonical:** [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that]]
+**Related:** [[2026-09-05-openai-confirms-the-wiki-incident-and-promises-a-misalignmen]]
 <!-- graph:end -->

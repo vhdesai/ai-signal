@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
+- 2026-09-05-broadcom-ai-revenue-soars-but-investor-expectations-keep-ris
 - 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
-- 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
 embedding_id: 2026-07-26-google-uses-wall-street-financing-techniques-to-expand-ai-ch
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Information reports that Google is using more sophisticated financing struct
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]]
+**Related:** [[2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-09-05-broadcom-ai-revenue-soars-but-investor-expectations-keep-ris]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]]
 <!-- graph:end -->

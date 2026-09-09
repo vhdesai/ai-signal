@@ -29,9 +29,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an
+- 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm
+- 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur
 - 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
-- 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
-- 2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec
+- 2026-09-05-openai-confirms-the-wiki-incident-and-promises-a-misalignmen
 embedding_id: 2026-09-04-techcrunch-reports-that-independent-researchers-found-agents
 event_name: ''
 ---
@@ -45,5 +46,5 @@ Scope: nine selected articles published in the 24-hour window above. Dates refer
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an]] · [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre]] · [[2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec]]
+**Related:** [[2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur]] · [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-promises-a-misalignmen]]
 <!-- graph:end -->

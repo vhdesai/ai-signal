@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 - 2026-08-24-arxiv-agentweave-routing-before-reasoning-for-efficient-func
 - 2026-06-02-anthropic-research-flags-31-5-prompt-injection-hijack-rate-i
+- 2026-09-05-uc-berkeley-researchers-release-cua-lite-an-open-platform-fo
 - 2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9
-- 2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn
 embedding_id: 2026-07-10-prismata-confining-cross-site-prompt-injection-in-web-agents
 event_name: ''
 ---
@@ -36,5 +36,5 @@ UC Berkeley researchers introduced Prismata, a system-level defense against cros
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-08-24-arxiv-agentweave-routing-before-reasoning-for-efficient-func]] · [[2026-06-02-anthropic-research-flags-31-5-prompt-injection-hijack-rate-i]] · [[2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9]] · [[2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn]]
+**Related:** [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-08-24-arxiv-agentweave-routing-before-reasoning-for-efficient-func]] · [[2026-06-02-anthropic-research-flags-31-5-prompt-injection-hijack-rate-i]] · [[2026-09-05-uc-berkeley-researchers-release-cua-lite-an-open-platform-fo]] · [[2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9]]
 <!-- graph:end -->

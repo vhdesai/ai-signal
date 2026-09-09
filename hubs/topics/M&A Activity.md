@@ -1,13 +1,16 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 451
+member_count: 454
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 451 connected article(s).
+> Auto-generated topic hub. 454 connected article(s).
 
+- `2026-09-06` [[2026-09-06-nvidia-s-12-9b-hugging-face-deal-shows-why-ipos-are-now-opti|Nvidia's $12.9B Hugging Face deal shows why IPOs are now optional]]
+- `2026-09-06` [[2026-09-06-ai-investment-figures-reach-a-new-order-of-magnitude|AI Investment Figures Reach a New Order of Magnitude]]
+- `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-a-unified-platform-for-compute|UC Berkeley Releases CUA-Lite, a Unified Platform for Computer-Use Agents]]
 - `2026-09-05` [[2026-09-05-openai-will-reportedly-cut-off-models-for-spacex-owned-curso|OpenAI will reportedly cut off models for SpaceX-owned Cursor]]
 - `2026-09-05` [[2026-09-05-nvidia-s-hugging-face-deal-keeps-reshaping-the-open-model-su|Nvidia's Hugging Face deal keeps reshaping the open-model supply chain]]
 - `2026-09-04` [[2026-09-04-a16z-s-cursor-and-openrouter-investments-are-worth-more-than|a16z's Cursor and OpenRouter investments are worth more than $8 billion]]

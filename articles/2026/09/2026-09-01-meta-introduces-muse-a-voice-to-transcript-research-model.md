@@ -21,9 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-01-meta-superintelligence-labs-releases-muse-voice-transcribe-i
+- 2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai
+- 2026-09-06-meta-releases-muse-voice-transcribe-for-real-time-streaming
+- 2026-09-06-meta-s-real-time-audio-model-targets-always-listening-assist
 - 2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a
-- 2026-09-01-meta-releases-muse-voice-transcribe-collapsing-three-voice-c
-- 2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1
 embedding_id: 2026-09-01-meta-introduces-muse-a-voice-to-transcript-research-model
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Meta's research division unveiled Muse, a model designed to transcribe and struc
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-01-meta-superintelligence-labs-releases-muse-voice-transcribe-i]] · [[2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a]] · [[2026-09-01-meta-releases-muse-voice-transcribe-collapsing-three-voice-c]] · [[2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1]]
+**Related:** [[2026-09-01-meta-superintelligence-labs-releases-muse-voice-transcribe-i]] · [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai]] · [[2026-09-06-meta-releases-muse-voice-transcribe-for-real-time-streaming]] · [[2026-09-06-meta-s-real-time-audio-model-targets-always-listening-assist]] · [[2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a]]
 <!-- graph:end -->

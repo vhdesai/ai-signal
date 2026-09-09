@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g
 - 2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com
+- 2026-09-05-broadcom-ai-revenue-soars-but-investor-expectations-keep-ris
 - 2026-05-25-nextera-acquires-dominion-energy-for-67b-largest-us-utility
 - 2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou
-- 2026-09-02-baidu-cfo-says-ai-could-soon-match-search-business-in-profit
 embedding_id: 2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Baidu disclosed an AI-services revenue milestone signaling that Chinese enterpri
 
 **Entities:** [[Baidu]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]] · [[2026-05-25-nextera-acquires-dominion-energy-for-67b-largest-us-utility]] · [[2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou]] · [[2026-09-02-baidu-cfo-says-ai-could-soon-match-search-business-in-profit]]
+**Related:** [[2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]] · [[2026-09-05-broadcom-ai-revenue-soars-but-investor-expectations-keep-ris]] · [[2026-05-25-nextera-acquires-dominion-energy-for-67b-largest-us-utility]] · [[2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou]]
 <!-- graph:end -->

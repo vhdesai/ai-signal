@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-26-stability-ai-releases-stable-audio-3
 - 2026-08-17-minimax-releases-minimax-music3-an-open-weights-five-minute
 - 2026-08-17-minimax-releases-music3-an-open-weights-five-minute-music-mo
-- 2026-07-29-google-launches-lyria-3-5-in-flow-music
+- 2026-09-06-google-rolls-out-lyria-3-5-music-generation-to-the-gemini-ap
 embedding_id: 2026-05-27-stable-audio-3-0-continues-to-drive-developer-and-rights-hol
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Stable Audio 3.0 continues to drive developer and rights-holder adoption — Sta
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-27-trending-stability-ai-releases-the-stable-audio-3-family-of]] · [[2026-05-26-stability-ai-releases-stable-audio-3]] · [[2026-08-17-minimax-releases-minimax-music3-an-open-weights-five-minute]] · [[2026-08-17-minimax-releases-music3-an-open-weights-five-minute-music-mo]] · [[2026-07-29-google-launches-lyria-3-5-in-flow-music]]
+**Related:** [[2026-05-27-trending-stability-ai-releases-the-stable-audio-3-family-of]] · [[2026-05-26-stability-ai-releases-stable-audio-3]] · [[2026-08-17-minimax-releases-minimax-music3-an-open-weights-five-minute]] · [[2026-08-17-minimax-releases-music3-an-open-weights-five-minute-music-mo]] · [[2026-09-06-google-rolls-out-lyria-3-5-music-generation-to-the-gemini-ap]]
 <!-- graph:end -->

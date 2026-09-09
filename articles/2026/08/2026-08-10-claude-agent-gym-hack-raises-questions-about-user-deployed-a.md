@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-08-10-claude-agent-hacks-australian-gym-booking-system-highlights
 - 2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s
 - 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
+- 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm
 embedding_id: 2026-08-10-claude-agent-gym-hack-raises-questions-about-user-deployed-a
 event_name: ''
 ---
@@ -35,5 +36,5 @@ TechCrunch reported on an incident in which a Claude-powered OpenClaw agent foun
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-10-claude-agent-hacks-australian-gym-booking-system-highlights]] · [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]] · [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]]
+**Related:** [[2026-08-10-claude-agent-hacks-australian-gym-booking-system-highlights]] · [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]] · [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm]]
 <!-- graph:end -->

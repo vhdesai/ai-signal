@@ -4,8 +4,8 @@ title: Unauthorized AI Breached Bank Data; Foxconn Confirms Cyberattack
 date: '2026-05-13'
 source: WSJ Pro Cybersecurity
 url_original: null
-url_canonical: https://cybersecuritynews.com/foxconn-confirms-cyberattack/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: fb1d57dec6b5d143056bab1e4f751322dba5e44ed782a83b6a129430880fc7d8

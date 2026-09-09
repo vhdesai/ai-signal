@@ -26,6 +26,7 @@ desktop.ini
 # Transient URL-repair status / control files
 /indexes/repair-status.json
 /indexes/repair.stop
+/site/.build-manifest.json
 
 # IDE / editor settings
 .vscode/

@@ -1,17 +1,37 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 1622
+member_count: 1642
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 1622 connected article(s).
+> Auto-generated topic hub. 1642 connected article(s).
 
+- `2026-09-06` [[2026-09-06-stripping-safety-guardrails-from-open-weight-models-is-now-a|Stripping safety guardrails from open-weight models is now a commercial service]]
+- `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
+- `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-real-clinical-p|Psychiatry debates whether "AI psychosis" is a real clinical phenomenon]]
+- `2026-09-06` [[2026-09-06-abliteration-ai-commercializes-guardrail-removal-from-open-w|Abliteration.ai commercializes guardrail removal from open-weight models]]
 - `2026-09-05` [[2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u|We're plausibly close to crossing the line: are warnings of uncontrollable AI coming true?]]
+- `2026-09-05` [[2026-09-05-techcrunch-reports-that-the-seattle-times-and-newsday-filed|TechCrunch reports that The Seattle Times and Newsday filed a lawsuit in the Southern District of New York alleging OpenAI and Microsoft trained their models on the publishers' journalism without permission. The complaint describes generative AI as "a snake eating its own tail" that risks breaking the news industry it consumes. The suit is notable because Microsoft and OpenAI have previously funded some Seattle Times journalism initiatives, adding a new dimension to the wave of publisher lawsuits that began with The New York Times in 2023.]]
+- `2026-09-05` [[2026-09-05-sunday-september-6-2026|Sunday, September 6, 2026]]
+- `2026-09-05` [[2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-trai|Seattle Times and Newsday sue OpenAI and Microsoft over training data]]
 - `2026-09-05` [[2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-alle|Seattle Times and Newsday sue OpenAI and Microsoft over alleged copyright infringement]]
+- `2026-09-05` [[2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue|Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft]]
+- `2026-09-05` [[2026-09-05-openai-confirms-wiki-incident-says-it-s-working-on-a-framewo|OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure]]
+- `2026-09-05` [[2026-09-05-openai-confirms-the-wiki-incident-and-promises-a-misalignmen|OpenAI confirms the “wiki incident” and promises a misalignment disclosure framework]]
+- `2026-09-05` [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm|OpenAI confirms the "wiki incident" and commits to a misalignment disclosure framework]]
+- `2026-09-05` [[2026-09-05-openai-confirms-wiki-incident-pledges-a-disclosure-framework|OpenAI confirms 'wiki incident,' pledges a disclosure framework for agent misuse]]
+- `2026-09-05` [[2026-09-05-openai-confirms-wiki-incident-commits-to-an-agent-disclosure|OpenAI confirms 'wiki incident,' commits to an agent-disclosure framework]]
 - `2026-09-05` [[2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki|OpenAI admits it did not disclose a rogue-agent "wiki hijacking" incident]]
 - `2026-09-05` [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that|OpenAI acknowledges it did not disclose an agent swarm that hijacked a dormant German wiki]]
+- `2026-09-05` [[2026-09-05-openai-confirms-wiki-incident-says-it-is-building-a-disclosu|OpenAI Confirms "Wiki Incident," Says It Is Building a Disclosure Framework]]
+- `2026-09-05` [[2026-09-05-nyc-and-los-angeles-school-districts-impose-new-ai-moratoriu|NYC and Los Angeles school districts impose new AI moratoriums]]
+- `2026-09-05` [[2026-09-05-hikers-rescued-after-using-google-gemini-for-planning|Hikers rescued after using Google Gemini for planning]]
+- `2026-09-05` [[2026-09-05-hikers-rescued-after-relying-on-gemini-for-trip-planning|Hikers rescued after relying on Gemini for trip planning]]
+- `2026-09-05` [[2026-09-05-hikers-rescued-after-planning-a-climb-with-google-gemini|Hikers rescued after planning a climb with Google Gemini]]
+- `2026-09-05` [[2026-09-05-hikers-rescued-after-following-flawed-google-gemini-trip-pla|Hikers rescued after following flawed Google Gemini trip-planning advice]]
+- `2026-09-05` [[2026-09-05-hikers-rescued-after-relying-on-google-gemini-for-trip-plann|Hikers Rescued After Relying on Google Gemini for Trip Planning]]
 - `2026-09-05` [[2026-09-05-ai-agents-in-cyberattacks-target-asian-governments|AI agents in cyberattacks target Asian governments]]
 - `2026-09-04` [[2026-09-04-us-lawmakers-propose-a-permanent-ban-on-artificial-superinte|US lawmakers propose a permanent ban on artificial superintelligence]]
 - `2026-09-04` [[2026-09-04-u-s-and-china-prepare-for-mid-september-ai-safety-talks|U.S. and China prepare for mid-September AI safety talks]]
