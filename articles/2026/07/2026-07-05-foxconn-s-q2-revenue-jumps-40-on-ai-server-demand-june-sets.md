@@ -6,7 +6,7 @@ date: '2026-07-05'
 source: Reuters
 url_original: https://finance.yahoo.com/technology/ai/articles/foxconn-second-quarter-revenue-jumps-074232190.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/foxconn-second-quarter-revenue-jumps-074232190.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-05_061331_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 6f73e2d36e1d44d4686a4721c93fc6b2416b3c08d7dc9338513fba5e3403f3fc

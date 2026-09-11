@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: OpenAI Blog
 url_original: https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/
 url_canonical: https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-08_061253_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 7af41cddfe796e1166f4e41e7204b9f45fd97b91ebed189443b2e52373c08368

@@ -5,7 +5,7 @@ date: '2026-08-01'
 source: Wall Street Journal**
 url_original: https://www.wsj.com/tech/ai/ai-and-the-blurring-of-reality-480c24da
 url_canonical: https://www.wsj.com/tech/ai/ai-and-the-blurring-of-reality-480c24da
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-02_065015_Final-Daily-AI-News-Digest.md
 content_hash: dd3e3d2c017ff21bdec8bb0eec0c84790c617c03d8531a3b7063ea6ff269fe64
 normalized_title_hash: a2d4aa24b9a12fa3

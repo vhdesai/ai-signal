@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: The Christian Post · xAI
 url_original: https://www.christianpost.com/news/elon-musks-xai-sued-over-grok-creating-child-sex-abuse-content.html
 url_canonical: https://www.christianpost.com/news/elon-musks-xai-sued-over-grok-creating-child-sex-abuse-content.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-31_061058_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: 0203d265eca148ccf0bea5c1c830e51b57d47e65ece3f93a5702f5130d51a5e1

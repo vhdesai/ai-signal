@@ -5,7 +5,7 @@ date: '2026-06-09'
 source: Anthropic; TechCrunch; Wired; Bloomberg; Axios
 url_original: https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/
 url_canonical: https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-10_070030_Final-Daily-AI-News-Digest.md
 content_hash: a892d638a4409f43fc5c3d34a31810e8453e70738abb9068ba2161740f83eca6
 normalized_title_hash: 7e465de446620f39

@@ -5,7 +5,7 @@ date: '2026-06-18'
 source: TechCrunch; CNBC
 url_original: https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/
 url_canonical: https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-19_070311_Final-Daily-AI-News-Digest.md
 content_hash: 2609ac64951b5446e54a51778e33e63af5bb8c70f901fca3c98a0e0907bee737
 normalized_title_hash: f277533be002b80b

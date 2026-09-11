@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/at-waymo-an-ai-project-isnt-ready-until-its-evals-are-not-when-the-model-performs-well
 url_canonical: https://venturebeat.com/technology/at-waymo-an-ai-project-isnt-ready-until-its-evals-are-not-when-the-model-performs-well
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-30_060704_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 1c68f391bd18eac6b68e48734db2a2361fc93a220e3fa0d3ad725b0f6dcb9134

@@ -6,7 +6,7 @@ date: '2026-09-06'
 source: Unite.AI
 url_original: https://www.unite.ai/openai-hits-goal-of-building-an-automated-research-intern/
 url_canonical: https://www.unite.ai/openai-hits-goal-of-building-an-automated-research-intern/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_062259_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 3d814397a30252bb79d1835eea23a93219286aa6d6e90c5d8857aeab9efc4d14

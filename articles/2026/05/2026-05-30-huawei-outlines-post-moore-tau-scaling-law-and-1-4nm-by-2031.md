@@ -5,7 +5,7 @@ date: '2026-05-30'
 source: AI Magazine*
 url_original: https://aimagazine.com/news/top-five-stories-in-ai-may-30-2026
 url_canonical: https://aimagazine.com/news/top-five-stories-in-ai-may-30-2026
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-31_163845_Daily-AI-News-Digest.md
 content_hash: 5fca20f6c0d04ab1f4b8ed23a862cc8c85561d3631bc4b46d379843bc7360d18
 normalized_title_hash: fd49100368a86062

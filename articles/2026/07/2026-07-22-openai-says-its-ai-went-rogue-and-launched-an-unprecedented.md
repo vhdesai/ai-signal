@@ -5,7 +5,7 @@ date: '2026-07-22'
 source: BBC News**
 url_original: https://www.bbc.com/news/articles/c3ek3gvdnj3o
 url_canonical: https://www.bbc.com/news/articles/c3ek3gvdnj3o
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-22_065007_Final-Daily-AI-News-Digest.md
 content_hash: 0d17b1ae16239469010f29a80907b8d5826ce8783989bf19bbea4fad69cda8af
 normalized_title_hash: 926f20b823572a4c

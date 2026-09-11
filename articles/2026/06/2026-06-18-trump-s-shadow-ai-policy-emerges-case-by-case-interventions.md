@@ -6,7 +6,7 @@ date: '2026-06-18'
 source: Axios
 url_original: https://www.axios.com/2026/06/18/trump-shadow-ai-policy
 url_canonical: https://www.axios.com/2026/06/18/trump-shadow-ai-policy
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-18_075931_Final-Daily-AI-News-Digest.md
 content_hash: 539ae0b16aa4872b7d380f14f75f1bed813950f662a105c947b8ac97d3406695
 normalized_title_hash: a5ac7d2d98bbb2c9

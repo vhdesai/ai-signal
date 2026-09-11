@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: MPR News
 url_original: https://www.mprnews.org/story/2026/09/04/judge-lets-minnesota-enforce-antinudification-app-law-over-xai-objection-as-case-proceeds
 url_canonical: https://www.mprnews.org/story/2026/09/04/judge-lets-minnesota-enforce-antinudification-app-law-over-xai-objection-as-case-proceeds
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_061544_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 481069ea65756d7724c8e249862f2a604011aee3f7a78baf8a93d502a46cc4fc

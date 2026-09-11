@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/
 url_canonical: https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-23_060915_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: 226c9cad88eef2b3b07d18e2d51958dfe707407628532a0a13e76bcd652438f0

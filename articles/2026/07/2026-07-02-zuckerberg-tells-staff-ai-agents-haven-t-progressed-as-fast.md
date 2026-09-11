@@ -5,7 +5,7 @@ date: '2026-07-02'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/
 url_canonical: https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-03_062557_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: ce8d49d7d06863a5ed3af9fbf937506c55edf679a5104697a1a077f3165e5d68

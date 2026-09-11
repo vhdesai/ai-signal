@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: Reuters
 url_original: https://www.reuters.com/technology/openai-has-sent-eu-incident-report-hijacked-german-website-commission-says-2026-09-07/
 url_canonical: https://www.reuters.com/technology/openai-has-sent-eu-incident-report-hijacked-german-website-commission-says-2026-09-07/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-07_143014_Final-Daily-AI-News-Digest.md
 content_hash: db1c0be6e67e3da583da36d535330fbe3938416fbe2d9e81fe35206ebdf0fb2d
 normalized_title_hash: 7dda291b85d05478

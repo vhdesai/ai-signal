@@ -5,7 +5,7 @@ date: '2026-07-02'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/
 url_canonical: https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-03_062557_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: 1ab95afc6aef6650152888330d0f332abd1e4912018a87a722f5e74ed8dc157d

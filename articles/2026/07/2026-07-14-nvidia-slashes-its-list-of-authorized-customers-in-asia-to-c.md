@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: Tom’s Hardware
 url_original: https://thirdruntime.com/
 url_canonical: https://thirdruntime.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 24d633e3fae3daf6ddeb98e2ac4844fbd38154c72b9606306ea0d8666f241bc0

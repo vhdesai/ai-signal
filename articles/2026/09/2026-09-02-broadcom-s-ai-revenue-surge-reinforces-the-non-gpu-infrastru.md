@@ -5,7 +5,7 @@ date: '2026-09-02'
 source: 24/7 Wall St.
 url_original: https://247wallst.com/cards/broadcom-q3-2026-earnings-avgo-01m1hx207g9d64z38jwrpy5fdm
 url_canonical: https://247wallst.com/cards/broadcom-q3-2026-earnings-avgo-01m1hx207g9d64z38jwrpy5fdm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-03_060703_Inbox_Daily AI News Digest – September
   3, 2026.md
 content_hash: c79a7043a0331b1797b3b7fe7b59eaa86f1bf0f984d9d471e8f401a59a9db127

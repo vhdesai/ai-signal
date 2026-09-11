@@ -5,7 +5,7 @@ date: '2026-09-03'
 source: VentureBeat
 url_original: https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed
 url_canonical: https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-05_061438_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 384eb8a0228a8343799d65a2b0f0b71fb55e4aa38abd6579bd6f2a2c48511986

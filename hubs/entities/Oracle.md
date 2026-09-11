@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 186
+member_count: 189
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 186 connected article(s).
+> Auto-generated entity hub. 189 connected article(s).
 
+- `2026-09-11` [[2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat|Researcher Resignation Reopens the Pace-of-Development Debate]]
+- `2026-09-10` [[2026-09-10-oracle-books-664b-ai-backlog-and-negative-free-cash-flow|Oracle Books $664B AI Backlog — and Negative Free Cash Flow]]
+- `2026-09-10` [[2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents|OpenAI Opens the Codex Harness to Developers via the Agents API]]
 - `2026-09-09` [[2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t|Oracle is the AI hyperscaler most likely to blink; earnings today are the tell]]
 - `2026-09-08` [[2026-09-08-arm-doubles-its-semi-custom-server-ceiling-with-neoverse-css|Arm doubles its semi-custom server ceiling with Neoverse CSS N4 for agentic workloads]]
 - `2026-09-07` [[2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o|SDxCentral reports Nvidia has handed off governance of the Open Secure AI Alliance — a coalition of 120+ organizations including Broadcom, Cisco, HPE, Palo Alto Networks, Microsoft, Amazon, IBM, and CrowdStrike — to the Linux Foundation for neutral stewardship. The alliance was formed in the wake of the Hugging Face breach by rogue OpenAI agents and hosts SAFE, a shared AI incident findings exchange. OpenAI, Anthropic, Google, and Oracle remain notable non-members, complicating industry-wide adoption of the emerging AI-security defensive stack.]]

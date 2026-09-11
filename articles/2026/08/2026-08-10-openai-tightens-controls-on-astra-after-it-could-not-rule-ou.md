@@ -6,7 +6,7 @@ date: '2026-08-10'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/10/openai-astra-cybersecurity-risks.html
 url_canonical: https://www.cnbc.com/2026/08/10/openai-astra-cybersecurity-risks.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-10_061434_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: ed4789bba1b6ce4b6c6906199cfa90e6aca0db35756245505a9d861df98c460f

@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: Yahoo News · CNBC
 url_original: https://www.yahoo.com/news/politics/articles/openai-cleared-launch-gpt-5-112137341.html
 url_canonical: https://www.yahoo.com/news/politics/articles/openai-cleared-launch-gpt-5-112137341.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-11_065909_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: d724ab7e79ca164b865f7131266de2475832a4d82bb94b0c1644a6f733b2389c

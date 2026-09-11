@@ -5,7 +5,7 @@ date: '2026-09-03'
 source: Axios
 url_original: https://www.axios.com/2026/09/03/bernie-sanders-superintelligence-ban-ai-pause
 url_canonical: https://www.axios.com/2026/09/03/bernie-sanders-superintelligence-ban-ai-pause
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-05_062136_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: f309888e9b50549317508fa0cafb97c84a05e068d94ac30c199e890a78300a74

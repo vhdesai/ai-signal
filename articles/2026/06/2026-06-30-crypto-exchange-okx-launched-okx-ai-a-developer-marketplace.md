@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-20-binance-launches-agent-os-letting-ai-agents-trade-crypto-via
 - 2026-08-20-binance-launches-agent-os-ai-agents-can-now-trade-crypto-via
 - 2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo
-- 2026-05-25-workos-publishes-auth-md-an-open-oauth-protocol-for-ai-agent
+- 2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents
 embedding_id: 2026-06-30-crypto-exchange-okx-launched-okx-ai-a-developer-marketplace
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Crypto exchange OKX launched "OKX AI," a developer marketplace where autonomous 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-20-binance-launches-agent-os-letting-ai-agents-trade-crypto-via]] · [[2026-08-20-binance-launches-agent-os-ai-agents-can-now-trade-crypto-via]] · [[2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo]] · [[2026-05-25-workos-publishes-auth-md-an-open-oauth-protocol-for-ai-agent]]
+**Related:** [[2026-08-20-binance-launches-agent-os-letting-ai-agents-trade-crypto-via]] · [[2026-08-20-binance-launches-agent-os-ai-agents-can-now-trade-crypto-via]] · [[2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo]] · [[2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents]]
 <!-- graph:end -->

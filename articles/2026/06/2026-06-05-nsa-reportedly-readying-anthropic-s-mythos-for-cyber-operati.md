@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/
 url_canonical: https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
 content_hash: 00f6def0bf113b81cdcafd4ee61bd548300be584766e81bd0b10b39a7985e0a6

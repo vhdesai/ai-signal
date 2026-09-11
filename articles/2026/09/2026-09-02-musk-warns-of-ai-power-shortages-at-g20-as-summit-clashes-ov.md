@@ -6,7 +6,7 @@ date: '2026-09-02'
 source: The Information; Tech Startups
 url_original: https://techstartups.com/2026/09/01/top-tech-news-today-september-1-2026-amazon-anthropic-honda-openai-sony-warner-z-ai-more/
 url_canonical: https://techstartups.com/2026/09/01/top-tech-news-today-september-1-2026-amazon-anthropic-honda-openai-sony-warner-z-ai-more/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-02_065546_Final-Daily-AI-News-Digest.md
 content_hash: c0618bc05360859612a5db5aa56672b602384e8708186d151b9a82d74ce2d4eb
 normalized_title_hash: 5d39e17a82cca6d3

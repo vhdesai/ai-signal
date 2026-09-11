@@ -5,8 +5,8 @@ title: Amazon, Meta, and Google risk losing multibillion-dollar data-center tax 
 date: '2026-09-10'
 source: WSJ
 url_original: https://www.wsj.com/finance/investing/markets-a-m-newsletter-ai-boom-weakest-link
-url_canonical: https://www.hindustantimes.com/world-news/states-that-gave-data-centers-billions-in-tax-breaks-are-now-ripping-up-the-deals-101788947762264.html
-url_status: repaired
+url_canonical: https://www.wsj.com/finance/investing/markets-a-m-newsletter-ai-boom-weakest-link
+url_status: found
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: ecc7ffb6a47359d816fe7478fa5416c9bddb1fe221da6077907b1be0dc5ace61
 normalized_title_hash: bbde671062075a22

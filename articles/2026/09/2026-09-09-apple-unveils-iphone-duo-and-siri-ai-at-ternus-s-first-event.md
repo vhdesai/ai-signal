@@ -5,7 +5,7 @@ date: '2026-09-09'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/09/apple-event-today-live-updates.html
 url_canonical: https://www.cnbc.com/2026/09/09/apple-event-today-live-updates.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: b63bd28069e913179de43d93ba7a843fb8d6028795870a781a98c27a0e2da50d
 normalized_title_hash: 567ead41af517db2

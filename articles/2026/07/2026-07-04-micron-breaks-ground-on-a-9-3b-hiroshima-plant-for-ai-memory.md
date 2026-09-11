@@ -5,7 +5,7 @@ date: '2026-07-04'
 source: Bloomberg
 url_original: https://www.moneycontrol.com/news/business/micron-breaks-ground-on-9-billion-western-japan-plant-expansion-13965876.html
 url_canonical: https://www.moneycontrol.com/news/business/micron-breaks-ground-on-9-billion-western-japan-plant-expansion-13965876.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-04_061951_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 8b5edb0522db720e4347d653a55448fcc6ea61e811188755a5b7c44fe9d9689b

@@ -6,7 +6,7 @@ date: '2026-09-04'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=a16z%20AI%20infrastructure%20fund
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=a16z%20AI%20infrastructure%20fund
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-05_070426_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: c16f5bf0667fddd6d8d28a7fc26af03501ce20c48e0e675d121eb2c3b39a6f5c

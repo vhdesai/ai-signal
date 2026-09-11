@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: Wall Street Journal
 url_original: https://www.wsj.com/finance/stocks/investors-rotate-out-of-chip-stocks-365d8bc6
 url_canonical: https://www.wsj.com/finance/stocks/investors-rotate-out-of-chip-stocks-365d8bc6
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-29_065623_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: f136d10bc3f69cb9184c888d649db0325ca2764149ff67c26468d57a058f4961

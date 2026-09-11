@@ -6,7 +6,7 @@ date: '2026-06-14'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-15_155554_Final-Daily-AI-News-Digest.md
 content_hash: 184491e0f3dd344f2865ca4c70628814be22418330dabeaf770429bf2f2a17ef
 normalized_title_hash: 431c5e98775ac6ca

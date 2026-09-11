@@ -1,17 +1,21 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1225
+member_count: 1229
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1225 connected article(s).
+> Auto-generated topic hub. 1229 connected article(s).
 
+- `2026-09-11` [[2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat|Researcher Resignation Reopens the Pace-of-Development Debate]]
 - `2026-09-10` [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par|Nvidia commits to Australia 2GW AI buildout with 8 local partners]]
 - `2026-09-10` [[2026-09-10-huawei-raises-ascend-ai-chip-prices-60-as-china-s-nvidia-alt|Huawei raises Ascend AI chip prices ~60% as China's Nvidia alternatives face supply crunch]]
 - `2026-09-10` [[2026-09-10-huawei-lifts-ascend-950dt-pricing-60-as-hbm-shortage-reaches|Huawei lifts Ascend 950DT pricing ~60% as HBM shortage reaches China]]
 - `2026-09-10` [[2026-09-10-deepseek-releases-v4-1-flash-with-1m-context-fp4-kv-cache-an|DeepSeek releases V4.1-Flash with 1M context, FP4 KV cache and encoder/decoder split]]
+- `2026-09-10` [[2026-09-10-deepseek-ships-v4-1-flash-and-retires-its-flagship-behind-it|DeepSeek Ships V4.1-Flash and Retires Its Flagship Behind It]]
+- `2026-09-10` [[2026-09-10-cognition-s-swe-2-post-trains-a-chinese-open-model-to-near-f|Cognition's SWE-2 Post-Trains a Chinese Open Model to Near-Frontier Coding]]
+- `2026-09-10` [[2026-09-10-china-s-ai-chip-prices-jump-20-50-as-hbm-shortage-bites|China's AI Chip Prices Jump 20–50% as HBM Shortage Bites]]
 - `2026-09-10` [[2026-09-10-anthropic-grants-eu-cybersecurity-agency-enisa-access-to-myt|Anthropic grants EU cybersecurity agency ENISA access to Mythos 5; Mythos 5.1 still withheld]]
 - `2026-09-09` [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo|US government accuses six Chinese AI firms of large-scale model distillation]]
 - `2026-09-09` [[2026-09-09-nsa-cisa-and-fbi-name-six-chinese-labs-over-industrial-scale|NSA, CISA, and FBI name six Chinese labs over industrial-scale distillation]]

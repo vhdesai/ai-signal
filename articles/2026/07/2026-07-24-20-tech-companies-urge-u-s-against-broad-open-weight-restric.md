@@ -5,7 +5,7 @@ date: '2026-07-24'
 source: CNBC**
 url_original: https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html
 url_canonical: https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-25_065018_Final-Daily-AI-News-Digest.md
 content_hash: d483854154bf4ee5c19cde0ae8768a5acd4bf0184a5f95b4a3b4fdb6cee93477
 normalized_title_hash: 4f9c211294cf63fc

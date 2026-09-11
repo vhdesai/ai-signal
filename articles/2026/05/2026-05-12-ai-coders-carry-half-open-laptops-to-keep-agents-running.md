@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-20-one-in-five-enterprises-cannot-stop-a-runaway-ai-agent-s-spe
 - 2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco
 - 2026-08-20-one-in-five-enterprises-cannot-halt-a-runaway-ai-agent-s-spe
+- 2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents
 - 2026-05-27-o-reilly-your-ai-agent-already-forgot-half-of-what-you-told
-- 2026-08-31-the-engineering-role-shifts-from-writing-code-to-bounding-ag
 embedding_id: 2026-05-12-ai-coders-carry-half-open-laptops-to-keep-agents-running
 event_name: ''
 ---
@@ -37,5 +37,5 @@ As long-running AI coding agents become production tools, developers are physica
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-20-one-in-five-enterprises-cannot-stop-a-runaway-ai-agent-s-spe]] · [[2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco]] · [[2026-08-20-one-in-five-enterprises-cannot-halt-a-runaway-ai-agent-s-spe]] · [[2026-05-27-o-reilly-your-ai-agent-already-forgot-half-of-what-you-told]] · [[2026-08-31-the-engineering-role-shifts-from-writing-code-to-bounding-ag]]
+**Related:** [[2026-08-20-one-in-five-enterprises-cannot-stop-a-runaway-ai-agent-s-spe]] · [[2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco]] · [[2026-08-20-one-in-five-enterprises-cannot-halt-a-runaway-ai-agent-s-spe]] · [[2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents]] · [[2026-05-27-o-reilly-your-ai-agent-already-forgot-half-of-what-you-told]]
 <!-- graph:end -->

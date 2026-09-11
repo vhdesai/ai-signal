@@ -4,8 +4,8 @@ title: Nvidia commits to Australia 2GW AI buildout with 8 local partners
 date: '2026-09-10'
 source: AiThority
 url_original: https://aithority.com/machine-learning/nvidia-drives-2gw-sovereign-ai-buildout-in-australia-with-eight-partners/
-url_canonical: https://www.techtimes.com/articles/327170/20260910/nvidia-calls-australia-2gw-sovereign-ai-hub-grid-queues-wont-supply-all-partners-time.htm
-url_status: repaired
+url_canonical: https://aithority.com/machine-learning/nvidia-drives-2gw-sovereign-ai-buildout-in-australia-with-eight-partners/
+url_status: found
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: 8fec0065f41b912a1463287a060739dd857498a22e021393bd29db5a9bae0d70
 normalized_title_hash: 1809bf13635acf8f

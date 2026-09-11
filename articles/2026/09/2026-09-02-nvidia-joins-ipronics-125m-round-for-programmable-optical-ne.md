@@ -5,7 +5,7 @@ date: '2026-09-02'
 source: Yahoo Finance / GlobeNewswire
 url_original: https://finance.yahoo.com/technology/ai/articles/ipronics-raises-125-million-scale-130000573.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/ipronics-raises-125-million-scale-130000573.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-03_065052_Final-Daily-AI-News-Digest.md
 content_hash: 0c13980cad9043d4da39e79f947f703141f2595cb6d6bdf8641513c656354920
 normalized_title_hash: 48b450d73b5deb56

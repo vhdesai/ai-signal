@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/ai-cloud-firm-nscale-seeking-174148319.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/ai-cloud-firm-nscale-seeking-174148319.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_063137_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: 918376f1595a7ef45d9d929b9cfbf0c67d0a112659bbe5327649911b1df88b9c

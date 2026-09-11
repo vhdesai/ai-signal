@@ -5,7 +5,7 @@ date: '2026-09-03'
 source: Google Research
 url_original: https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/
 url_canonical: https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-04_061134_Inbox_Daily AI News Digest – September
   4, 2026.md
 content_hash: 5df0cfc58d7318fd89d5edc373cf67ac451efc88c31f660d26649967df697ec3

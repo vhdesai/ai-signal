@@ -1,24 +1,30 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2132
+member_count: 2138
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2132 connected article(s).
+> Auto-generated entity hub. 2138 connected article(s).
 
+- `2026-09-11` [[2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat|Researcher Resignation Reopens the Pace-of-Development Debate]]
+- `2026-09-11` [[2026-09-11-former-openai-executive-fidji-simo-joins-nscale-s-board|Former OpenAI Executive Fidji Simo Joins Nscale's Board]]
 - `2026-09-10` [[2026-09-10-openai-faces-gop-led-senate-probe-into-hugging-face-agent-br|OpenAI faces GOP-led Senate probe into Hugging Face agent breach]]
 - `2026-09-10` [[2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face|OpenAI faces GOP-led Senate investigation over Hugging Face agent breach]]
 - `2026-09-10` [[2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas|OpenAI board member says lab is not on track to reduce catastrophic loss-of-control risk]]
+- `2026-09-10` [[2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents|OpenAI Opens the Codex Harness to Developers via the Agents API]]
 - `2026-09-10` [[2026-09-10-deepseek-releases-v4-1-flash-with-1m-context-fp4-kv-cache-an|DeepSeek releases V4.1-Flash with 1M context, FP4 KV cache and encoder/decoder split]]
+- `2026-09-10` [[2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un|California Enacts Adam's Law and Bans Addictive Feeds for Under-16s]]
 - `2026-09-09` [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo|US government accuses six Chinese AI firms of large-scale model distillation]]
 - `2026-09-09` [[2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis|The Information: OpenAI blocks Adobe and others from advertising competing AI in ChatGPT]]
+- `2026-09-09` [[2026-09-09-sergey-brin-cements-influence-over-google-s-gemini-roadmap|Sergey Brin Cements Influence Over Google's Gemini Roadmap]]
 - `2026-09-09` [[2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t|Oracle is the AI hyperscaler most likely to blink; earnings today are the tell]]
 - `2026-09-09` [[2026-09-09-openai-s-agent-generated-navier-stokes-proof-draws-lean-veri|OpenAI's agent-generated Navier–Stokes proof draws Lean verification and a credit dispute]]
-- `2026-09-09` [[2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing|OpenAI cuts off Adobe and others from advertising competing AI products in ChatGPT]]
 - `2026-09-09` [[2026-09-09-openai-claims-10-000-agent-system-produced-navier-stokes-pro|OpenAI claims 10,000-agent system produced Navier–Stokes proof in 88 hours]]
 - `2026-09-09` [[2026-09-09-openai-appoints-paul-christiano-to-foundation-board-and-safe|OpenAI appoints Paul Christiano to Foundation Board and Safety and Security Committee]]
+- `2026-09-09` [[2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing|OpenAI Cuts Off Adobe and Others From Advertising Competing AI Products in ChatGPT]]
+- `2026-09-09` [[2026-09-09-katzenberg-teams-with-former-openai-sora-head-on-new-ai-vide|Katzenberg Teams With Former OpenAI Sora Head on New AI Video Startup]]
 - `2026-09-09` [[2026-09-09-jeffrey-katzenberg-teams-up-with-former-openai-sora-head-on|Jeffrey Katzenberg teams up with former OpenAI Sora head on new AI video startup]]
 - `2026-09-09` [[2026-09-09-credit-dispute-over-the-navier-stokes-result-exposes-an-acad|Credit dispute over the Navier–Stokes result exposes an academia–lab attribution gap]]
 - `2026-09-09` [[2026-09-09-anthropic-researcher-resigns-alignment-lead-corroborates-and|Anthropic researcher resigns; alignment lead corroborates and puts extinction risk above 10%]]

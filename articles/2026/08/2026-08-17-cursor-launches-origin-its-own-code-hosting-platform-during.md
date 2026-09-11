@@ -5,7 +5,7 @@ date: '2026-08-17'
 source: VentureBeat
 url_original: https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race
 url_canonical: https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-18_065100_Final-Daily-AI-News-Digest.md
 content_hash: 99fd0cf85df274f1dd91426784488fac48b7c88b855e4738e8985cdbcf08f8df
 normalized_title_hash: e2076c95a700c05c

@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: International Business Times
 url_original: https://www.ibtimes.com/new-york-just-beat-san-francisco-tech-talent-attraction-wall-street-ai-are-fueling-rise-3806668
 url_canonical: https://www.ibtimes.com/new-york-just-beat-san-francisco-tech-talent-attraction-wall-street-ai-are-fueling-rise-3806668
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_061248_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 83ca289b0c781f7a759bbceea2efa806b14a6f351614fa891e12b83c2dfaa71b

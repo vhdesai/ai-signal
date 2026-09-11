@@ -5,7 +5,7 @@ date: '2026-07-05'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html
 url_canonical: https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-06_084400_Final-Daily-AI-News-Digest.md
 content_hash: ec06cbc0159e3fa492117123c464092fa67bdc8679e5773672934c0f5db57551
 normalized_title_hash: fcb0c0896db5f20c

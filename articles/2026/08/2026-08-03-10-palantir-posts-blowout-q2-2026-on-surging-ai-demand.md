@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: TheStreet · Read article →
 url_original: https://www.thestreet.com/latest-news/palantir-technologies-inc-pltr-q2-2026-earnings-call-update
 url_canonical: https://www.thestreet.com/latest-news/palantir-technologies-inc-pltr-q2-2026-earnings-call-update
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-04_061155_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 39a62821f5d6862049211cd92ab093c547e5587d709425a2018782fb25dda048

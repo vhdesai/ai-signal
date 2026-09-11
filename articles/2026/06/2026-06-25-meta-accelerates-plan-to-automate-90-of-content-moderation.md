@@ -5,7 +5,7 @@ date: '2026-06-25'
 source: Blockonomi
 url_original: https://blockonomi.com/meta-meta-stock-ai-to-take-over-90-of-content-moderation-duties-by-late-2026/
 url_canonical: https://blockonomi.com/meta-meta-stock-ai-to-take-over-90-of-content-moderation-duties-by-late-2026/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-26_063633_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 99919b15da199d5605f5281ba5715b78bfc5e2c2baa6bcb1f2f3a0848bd50775

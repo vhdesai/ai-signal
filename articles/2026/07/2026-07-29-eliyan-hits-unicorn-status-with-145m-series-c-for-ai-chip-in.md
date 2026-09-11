@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: The Manila Times
 url_original: https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/eliyan-achieves-unicorn-status-with-145-million-series-c-to-advance-electro-optical-interconnects-for-ai-infrastructure/2394175
 url_canonical: https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/eliyan-achieves-unicorn-status-with-145-million-series-c-to-advance-electro-optical-interconnects-for-ai-infrastructure/2394175
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-30_062819_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 7af8e8fa3cb6f8cf24b4458cfb7715f8935d32b98cd6371e98815ca45e917134
@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-10-ayar-labs-extends-round-to-650m-as-copper-interconnect-hits
 - 2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio
 - 2026-09-02-ipronics-raises-125m-with-nvidia-participation-for-optical-a
 - 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a
-- 2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua
 embedding_id: 2026-07-29-eliyan-hits-unicorn-status-with-145m-series-c-for-ai-chip-in
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Chip-connectivity startup Eliyan reached unicorn status with a $145M Series C le
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio]] · [[2026-09-02-ipronics-raises-125m-with-nvidia-participation-for-optical-a]] · [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a]] · [[2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua]]
+**Related:** [[2026-09-10-ayar-labs-extends-round-to-650m-as-copper-interconnect-hits]] · [[2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio]] · [[2026-09-02-ipronics-raises-125m-with-nvidia-participation-for-optical-a]] · [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a]]
 <!-- graph:end -->

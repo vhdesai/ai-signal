@@ -5,7 +5,7 @@ date: '2026-08-29'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/
 url_canonical: https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-30_060705_Inbox_Daily AI News Digest - August 30,
   2026.md
 content_hash: 7bd861e8d3ff644ca2a4ca7c98d1126855fcd8cc5529a5269ee43fbcc8a1026d

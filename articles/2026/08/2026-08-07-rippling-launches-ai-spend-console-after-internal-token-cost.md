@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/
 url_canonical: https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-09_060525_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 494c9e500df4305cad88c00dbae27a5117fc52e2a811d0267b3f93a673edd77a

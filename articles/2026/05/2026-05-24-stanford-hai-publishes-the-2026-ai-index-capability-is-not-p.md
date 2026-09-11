@@ -5,7 +5,7 @@ date: '2026-05-24'
 source: Stanford HAI
 url_original: https://www.techtimes.com/articles/317066/20260523/anthropic-funding-round-top-30b-900b-valuation-would-surpass-openai-most-valuable-ai-startup.htm
 url_canonical: https://www.techtimes.com/articles/317066/20260523/anthropic-funding-round-top-30b-900b-valuation-would-surpass-openai-most-valuable-ai-startup.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 69c8ccb6a9fa1d2d4c644721f0f01ef1071426219b02e9b272cd05a1df62f029

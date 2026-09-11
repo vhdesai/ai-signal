@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: MarkTechPost · Perplexity
 url_original: https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/
 url_canonical: https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_060643_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: ed8b66dc94ebcef859e9bfaf058fa7acaf4044a61e11696b43b57fc214cad7a1

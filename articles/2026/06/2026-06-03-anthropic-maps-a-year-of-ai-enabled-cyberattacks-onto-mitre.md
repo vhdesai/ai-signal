@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: Anthropic
 url_original: https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack
 url_canonical: https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-04_071040_Final-Daily-AI-News-Digest.md
 content_hash: fbccfa690a2ab7a7afb67d193da22710f56d668adc930e58f7ebc9b21d17e39c
 normalized_title_hash: fb6977082bc3a396

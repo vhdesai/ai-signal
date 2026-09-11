@@ -1,17 +1,20 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 1670
+member_count: 1673
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 1670 connected article(s).
+> Auto-generated topic hub. 1673 connected article(s).
 
+- `2026-09-11` [[2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat|Researcher Resignation Reopens the Pace-of-Development Debate]]
 - `2026-09-10` [[2026-09-10-openai-faces-gop-led-senate-probe-into-hugging-face-agent-br|OpenAI faces GOP-led Senate probe into Hugging Face agent breach]]
 - `2026-09-10` [[2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face|OpenAI faces GOP-led Senate investigation over Hugging Face agent breach]]
 - `2026-09-10` [[2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas|OpenAI board member says lab is not on track to reduce catastrophic loss-of-control risk]]
+- `2026-09-10` [[2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un|California Enacts Adam's Law and Bans Addictive Feeds for Under-16s]]
 - `2026-09-10` [[2026-09-10-anthropic-grants-eu-cybersecurity-agency-enisa-access-to-myt|Anthropic grants EU cybersecurity agency ENISA access to Mythos 5; Mythos 5.1 still withheld]]
+- `2026-09-10` [[2026-09-10-anthropic-publishes-its-most-detailed-misuse-casebook-weapon|Anthropic Publishes Its Most Detailed Misuse Casebook — Weapons, Espionage, Distillation]]
 - `2026-09-09` [[2026-09-09-white-house-trusted-partner-ai-whitelist-causes-confusion-in|White House "trusted partner" AI whitelist causes confusion in corporate America]]
 - `2026-09-09` [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo|US government accuses six Chinese AI firms of large-scale model distillation]]
 - `2026-09-09` [[2026-09-09-openai-appoints-paul-christiano-to-foundation-board-and-safe|OpenAI appoints Paul Christiano to Foundation Board and Safety and Security Committee]]

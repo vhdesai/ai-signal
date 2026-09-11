@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: Anthropic
 url_original: https://www.anthropic.com/research/formalizing-fermats-last-theorem
 url_canonical: https://www.anthropic.com/research/formalizing-fermats-last-theorem
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_070426_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: a61bf701b359a2255bce3eb04e4a90a691cddb7bf34251e2d5486eded136f1ef

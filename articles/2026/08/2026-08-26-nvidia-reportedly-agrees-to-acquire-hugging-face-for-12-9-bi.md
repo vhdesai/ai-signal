@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: The Information / TechCrunch
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+Hugging+Face+acquisition
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+Hugging+Face+acquisition
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-27_065417_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: d54af64492e38efe217269824c583dd8167e1b0ae2bf45fe17cd470a5020d304

@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/09/04/gimlet-labs-nabs-300m-for-its-disaggregated-inference-platform/
 url_canonical: https://siliconangle.com/2026/09/04/gimlet-labs-nabs-300m-for-its-disaggregated-inference-platform/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_065836_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 0dfc99738c994c19f9b2b3a075ff8c66424fb0f10c4981a15f53b8964e3a5c78

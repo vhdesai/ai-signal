@@ -5,7 +5,7 @@ date: '2026-07-15'
 source: EconoTimes**
 url_original: https://www.econotimes.com/Alibaba-Stock-Jumps-as-China-Approves-Apple-Intelligence-Powered-by-Qwen-AI-1746815
 url_canonical: https://www.econotimes.com/Alibaba-Stock-Jumps-as-China-Approves-Apple-Intelligence-Powered-by-Qwen-AI-1746815
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-15_082400_Final-Daily-AI-News-Digest.md
 content_hash: 4a5f883026e2170b5239ac685284fd0065876451adbd041e255ee6d7225b229b
 normalized_title_hash: 83a1504adae58584

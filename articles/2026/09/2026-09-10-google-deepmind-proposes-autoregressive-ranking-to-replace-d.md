@@ -5,8 +5,8 @@ title: Google DeepMind proposes Autoregressive Ranking to replace dual/cross-enc
 date: '2026-09-10'
 source: Search Engine Journal
 url_original: https://www.searchenginejournal.com/google-deepmind-autoregressive-ranking-arr/
-url_canonical: https://www.searchenginejournal.com/google-deepmind-develops-new-ai-search-ranking-model/589062/
-url_status: repaired
+url_canonical: https://www.searchenginejournal.com/google-deepmind-autoregressive-ranking-arr/
+url_status: found
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: 8478fda21ef4e7e4d20c3a59d84a67e01b81fa700da81b13d495ac4667c59884
 normalized_title_hash: e852f9b911e672aa

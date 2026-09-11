@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: VentureBeat
 url_original: https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone
 url_canonical: https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-23_060427_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: 8b799477783211b370a7885ba8462e200dcc5e45369924d52e6e28026573bdf3

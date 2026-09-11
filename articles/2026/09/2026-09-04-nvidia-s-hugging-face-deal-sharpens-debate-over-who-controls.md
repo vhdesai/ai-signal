@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: VentureBeat
 url_original: https://venturebeat.com/infrastructure/nvidia-acquires-hugging-face-after-stripe-nabs-openrouter-heres-what-open-source-ai-builders-should-do
 url_canonical: https://venturebeat.com/infrastructure/nvidia-acquires-hugging-face-after-stripe-nabs-openrouter-heres-what-open-source-ai-builders-should-do
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-05_060634_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 872cca2cf1d7fbf3acd7c88ff4b45eb9d40028ff2abccc10c8ab9588b7f76b21

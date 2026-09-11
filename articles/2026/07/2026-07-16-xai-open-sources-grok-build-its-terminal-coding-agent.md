@@ -5,7 +5,7 @@ date: '2026-07-16'
 source: TechBooky**
 url_original: https://www.techbooky.com/xai-open-sources-grok-build-privacy-backlash/
 url_canonical: https://www.techbooky.com/xai-open-sources-grok-build-privacy-backlash/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-16_065004_Final-Daily-AI-News-Digest.md
 content_hash: 1b023d59b9df99240a314b9da308455c175fcbc9129ee99b4a8c76bee790de4f
 normalized_title_hash: f55fe863b2ad918d

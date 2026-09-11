@@ -6,7 +6,7 @@ date: '2026-05-27'
 source: arXiv cs.AI (working in progress) · Lin, Li, Song, Jiang, Zhang
 url_original: https://arxiv.org/list/cs.AI/recent
 url_canonical: https://arxiv.org/list/cs.AI/recent
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_072257_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: f9a7aa605880aaae5b046a6796408b43c3e36f679b5eb6250eae758b4b112bd4

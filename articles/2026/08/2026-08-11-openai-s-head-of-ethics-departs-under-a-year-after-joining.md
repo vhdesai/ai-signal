@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-11-openai-s-only-dedicated-ethicist-departs-without-replacement
 - 2026-08-11-openai-s-only-dedicated-ethicist-departs-without-a-named-rep
 - 2026-07-12-openai-safety-governance
-- 2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d
+- 2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat
 embedding_id: 2026-08-11-openai-s-head-of-ethics-departs-under-a-year-after-joining
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Chloé Bakalar, OpenAI's head of ethics and reportedly its only dedicated ethici
 
 **Entities:** [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-11-openai-s-only-dedicated-ethicist-departs-less-than-a-year-af]] · [[2026-08-11-openai-s-only-dedicated-ethicist-departs-without-replacement]] · [[2026-08-11-openai-s-only-dedicated-ethicist-departs-without-a-named-rep]] · [[2026-07-12-openai-safety-governance]] · [[2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d]]
+**Related:** [[2026-08-11-openai-s-only-dedicated-ethicist-departs-less-than-a-year-af]] · [[2026-08-11-openai-s-only-dedicated-ethicist-departs-without-replacement]] · [[2026-08-11-openai-s-only-dedicated-ethicist-departs-without-a-named-rep]] · [[2026-07-12-openai-safety-governance]] · [[2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat]]
 <!-- graph:end -->

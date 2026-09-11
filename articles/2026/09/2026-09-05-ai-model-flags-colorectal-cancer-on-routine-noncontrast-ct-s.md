@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: The American Journal of Managed Care
 url_original: https://www.ajmc.com/view/ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-scans
 url_canonical: https://www.ajmc.com/view/ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-scans
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-06_065650_Final-Daily-AI-News-Digest.md
 content_hash: cc388ab7ff9f32dca718ef21dabecabc068c953ab0cd02cb30e8de1ded6068fe
 normalized_title_hash: e713d09991007092

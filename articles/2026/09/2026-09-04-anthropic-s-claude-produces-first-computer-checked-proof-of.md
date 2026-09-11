@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: Crypto Briefing
 url_original: https://cryptobriefing.com/anthropics-claude-formalizes-fermats-last-theorem-in-11-days/
 url_canonical: https://cryptobriefing.com/anthropics-claude-formalizes-fermats-last-theorem-in-11-days/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_061544_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 329d83097ef5c5a5bbf77c3064fc9e370b6cd04da360562586d172b366581a0b

@@ -6,7 +6,7 @@ date: '2026-08-10'
 source: SCMP
 url_original: https://aiweekly.co/alerts/chinese-ai-labs-still-train-on-nvidia-as-cuda-lock-in-bites
 url_canonical: https://aiweekly.co/alerts/chinese-ai-labs-still-train-on-nvidia-as-cuda-lock-in-bites
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-10_061806_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: 8fe0067215d6b50d13ddc51dc8398b16df1ef465f67705ddcc7a7448e391c769

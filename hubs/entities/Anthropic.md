@@ -1,18 +1,21 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 1845
+member_count: 1848
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 1845 connected article(s).
+> Auto-generated entity hub. 1848 connected article(s).
 
+- `2026-09-11` [[2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat|Researcher Resignation Reopens the Pace-of-Development Debate]]
 - `2026-09-10` [[2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face|OpenAI faces GOP-led Senate investigation over Hugging Face agent breach]]
 - `2026-09-10` [[2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas|OpenAI board member says lab is not on track to reduce catastrophic loss-of-control risk]]
 - `2026-09-10` [[2026-09-10-deepseek-releases-v4-1-flash-with-1m-context-fp4-kv-cache-an|DeepSeek releases V4.1-Flash with 1M context, FP4 KV cache and encoder/decoder split]]
 - `2026-09-10` [[2026-09-10-anthropic-grants-eu-cybersecurity-agency-enisa-access-to-myt|Anthropic grants EU cybersecurity agency ENISA access to Mythos 5; Mythos 5.1 still withheld]]
+- `2026-09-10` [[2026-09-10-anthropic-publishes-its-most-detailed-misuse-casebook-weapon|Anthropic Publishes Its Most Detailed Misuse Casebook — Weapons, Espionage, Distillation]]
 - `2026-09-09` [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo|US government accuses six Chinese AI firms of large-scale model distillation]]
+- `2026-09-09` [[2026-09-09-sergey-brin-cements-influence-over-google-s-gemini-roadmap|Sergey Brin Cements Influence Over Google's Gemini Roadmap]]
 - `2026-09-09` [[2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t|Oracle is the AI hyperscaler most likely to blink; earnings today are the tell]]
 - `2026-09-09` [[2026-09-09-openai-s-agent-generated-navier-stokes-proof-draws-lean-veri|OpenAI's agent-generated Navier–Stokes proof draws Lean verification and a credit dispute]]
 - `2026-09-09` [[2026-09-09-credit-dispute-over-the-navier-stokes-result-exposes-an-acad|Credit dispute over the Navier–Stokes result exposes an academia–lab attribution gap]]

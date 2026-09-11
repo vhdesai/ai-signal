@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: TheStreet
 url_original: https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-26-2026
 url_canonical: https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-26-2026
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-27_091929_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 8965a004bbdc37d6fca26a6ba752f9a869ab79db62d25bdce5ca3f9ed2df1b18

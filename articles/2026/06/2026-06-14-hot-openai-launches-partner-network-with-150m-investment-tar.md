@@ -6,7 +6,7 @@ date: '2026-06-14'
 source: OpenAI Blog
 url_original: https://openai.com/index/introducing-openai-partner-network/
 url_canonical: https://openai.com/index/introducing-openai-partner-network/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-15_155554_Final-Daily-AI-News-Digest.md
 content_hash: 254b6596928f50b8e31047a6ec79de8568389d606700e8b66d0e0c776d9f1ee1
 normalized_title_hash: c9c0ad3110726807

@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Musk+Cursor+Grok+falling+behind
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Musk+Cursor+Grok+falling+behind
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-26_065442_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: cd36745816e6f8bf120ec5dac24cc5015096e6972d5b53105cdfc941a74d80b8

@@ -5,7 +5,7 @@ date: '2026-08-12'
 source: Unite.AI
 url_original: https://www.unite.ai/liquid-ai-ships-lfm2-5-vl-3b-for-faster-vision-language-ai-on-the-edge/
 url_canonical: https://www.unite.ai/liquid-ai-ships-lfm2-5-vl-3b-for-faster-vision-language-ai-on-the-edge/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-13_065057_Final-Daily-AI-News-Digest.md
 content_hash: 8b9fce96cb75e009baddae45558166aeb2c27543ee748d378cbc15c17be5eecc
 normalized_title_hash: ff41f1916b86d6bf

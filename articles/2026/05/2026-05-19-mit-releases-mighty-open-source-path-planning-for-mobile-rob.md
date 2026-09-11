@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: MIT News
 url_original: https://news.mit.edu/topic/computers
 url_canonical: https://news.mit.edu/topic/computers
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: d010fe696fa56f5ce3ee730154dde27121f9de147c0018d7567d0151427b2466

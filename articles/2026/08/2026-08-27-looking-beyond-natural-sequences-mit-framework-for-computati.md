@@ -6,7 +6,7 @@ date: '2026-08-27'
 source: MIT News · MIT Department of Biology
 url_original: https://news.mit.edu/2026/looking-beyond-natural-sequences-0827
 url_canonical: https://news.mit.edu/2026/looking-beyond-natural-sequences-0827
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 86915d521c0743aea5595b0096b26c0db36880f9bd71cce9b9d3a20e8750cc19

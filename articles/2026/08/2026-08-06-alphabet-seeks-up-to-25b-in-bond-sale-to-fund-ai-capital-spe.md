@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: '[Invezz]'
 url_original: https://invezz.com/news/2026/08/06/alphabet-plans-up-to-25b-us-bond-sale-to-fund-ai-spending-attracts-115b-in-orders/
 url_canonical: https://invezz.com/news/2026/08/06/alphabet-plans-up-to-25b-us-bond-sale-to-fund-ai-spending-attracts-115b-in-orders/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-08_062022_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: e509eedfd1256cca5d754e644169aa11672f44cd4b9cb0077aa1f10de4a8c935

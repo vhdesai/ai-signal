@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/06/model-fatigue-ai-labs-frenetic-pace.html
 url_canonical: https://www.cnbc.com/2026/09/06/model-fatigue-ai-labs-frenetic-pace.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-06_065650_Final-Daily-AI-News-Digest.md
 content_hash: e421e83d518a8378ebb7b44f1fde69f52fb259eefcbc0126dfa7b9f1be6e0c26
 normalized_title_hash: 73473db790c304e7

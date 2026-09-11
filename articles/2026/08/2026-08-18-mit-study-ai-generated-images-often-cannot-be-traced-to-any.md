@@ -5,7 +5,7 @@ date: '2026-08-18'
 source: MIT News
 url_original: https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818
 url_canonical: https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-19_065003_Final-Daily-AI-News-Digest.md
 content_hash: 4046d8d5a25198d12147c29fe63e8196e757485dbc7ec96eeade3dd47e948d5f
 normalized_title_hash: faad5ac584e261c4

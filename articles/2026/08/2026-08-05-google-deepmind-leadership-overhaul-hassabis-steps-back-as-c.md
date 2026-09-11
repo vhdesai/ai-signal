@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: Business Insider / TechCrunch
 url_original: https://www.businessinsider.com/google-ai-leadership-demis-hassabis-steps-down-deepmind-ceo-2026-8
 url_canonical: https://www.businessinsider.com/google-ai-leadership-demis-hassabis-steps-down-deepmind-ceo-2026-8
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_061741_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: a1eb15a9960ae22cb55666e24be48f099c1bb034e9d7e2e575b9a00067e054dc

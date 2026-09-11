@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents
 - 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 - 2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and
 - 2026-08-06-liquid-ai-s-lfm2-5-2-6b-runs-capable-agents-on-device-down-t
-- 2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl
 embedding_id: 2026-05-14-raindrop-releases-workshop-open-source-local-ai-agent-debugg
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Raindrop has open-sourced "Workshop," a local-first debugging and evaluation fra
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and]] · [[2026-08-06-liquid-ai-s-lfm2-5-2-6b-runs-capable-agents-on-device-down-t]] · [[2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl]]
+**Related:** [[2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents]] · [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and]] · [[2026-08-06-liquid-ai-s-lfm2-5-2-6b-runs-capable-agents-on-device-down-t]]
 <!-- graph:end -->

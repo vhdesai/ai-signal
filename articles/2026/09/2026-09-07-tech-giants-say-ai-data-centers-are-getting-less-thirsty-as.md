@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: TechXplore
 url_original: https://techxplore.com/news/2026-09-ai-centers-thirsty-tech-giants.html
 url_canonical: https://techxplore.com/news/2026-09-ai-centers-thirsty-tech-giants.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_062259_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 471ae7590175021624247da16b81ca47ce11899b01a1da1ed5bb535dc5144c84

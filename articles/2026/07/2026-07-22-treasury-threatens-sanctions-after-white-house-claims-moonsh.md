@@ -6,7 +6,7 @@ date: '2026-07-22'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/
 url_canonical: https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-24_065750_Final-Daily-AI-News-Digest.md
 content_hash: d6fbdca560d6f9d705a4d05c985ba9dd6f54d046e326960f546ce482442fe611
 normalized_title_hash: ed82073cd9370cd3

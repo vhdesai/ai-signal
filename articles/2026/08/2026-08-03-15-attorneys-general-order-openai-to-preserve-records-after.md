@@ -6,7 +6,7 @@ date: '2026-08-03'
 source: The Hill
 url_original: https://thehill.com/policy/technology/6006457-openai-security-breach-gop-attorneys-general/
 url_canonical: https://thehill.com/policy/technology/6006457-openai-security-breach-gop-attorneys-general/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-04_061916_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 5011b60d4f53d17fe834c939eb906e70c3e9f0f6f7929e59647ba3fcbec517bf

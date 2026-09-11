@@ -6,7 +6,7 @@ date: '2026-09-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/
 url_canonical: https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: b6f90f4261c4bb1c6b7ac386b5b3bae6d74014e8f6a54e129b3637fd6fef62e2
 normalized_title_hash: ce9faa4f66147bca

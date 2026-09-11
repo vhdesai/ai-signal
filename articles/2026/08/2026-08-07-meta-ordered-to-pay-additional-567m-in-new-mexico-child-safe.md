@@ -6,7 +6,7 @@ date: '2026-08-07'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/
 url_canonical: https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_061741_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: b4d69be5bbe73ead152b20ebc42b5aaf5a0773b210c3e40f829d2189c5c69dc7

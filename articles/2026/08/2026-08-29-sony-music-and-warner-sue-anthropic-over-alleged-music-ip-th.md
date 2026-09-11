@@ -5,7 +5,7 @@ date: '2026-08-29'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/
 url_canonical: https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-30_060705_Inbox_Daily AI News Digest - August 30,
   2026.md
 content_hash: 03b09746d2844f2f833fd396f59849e26e16a4ae67a59985ff098288e23b3dd8

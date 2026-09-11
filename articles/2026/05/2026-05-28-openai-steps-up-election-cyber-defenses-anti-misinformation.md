@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: Indian Express
 url_original: https://indianexpress.com/article/technology/artificial-intelligence/openai-cyber-defenses-anti-misinformation-efforts-global-elections-2026-10712541/
 url_canonical: https://indianexpress.com/article/technology/artificial-intelligence/openai-cyber-defenses-anti-misinformation-efforts-global-elections-2026-10712541/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: d48a170cbf6c74dafd8c28c103d27c1a2cb8a19dc47b305546353c2f8d228397

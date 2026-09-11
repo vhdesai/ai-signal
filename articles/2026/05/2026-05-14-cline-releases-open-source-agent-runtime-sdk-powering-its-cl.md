@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
+- 2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents
 - 2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac
 - 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
 - 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
-- 2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout
 embedding_id: 2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Cline, the open-source VS Code AI coding assistant with over 2M installs, has ex
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]] · [[2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout]]
+**Related:** [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents]] · [[2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]]
 <!-- graph:end -->

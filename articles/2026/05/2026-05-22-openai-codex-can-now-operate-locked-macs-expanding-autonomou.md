@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window
 - 2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers
 - 2026-05-29-openai-brings-codex-computer-use-to-windows
-- 2026-08-06-openai-launches-codex-security-in-research-preview
+- 2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents
 embedding_id: 2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI's Codex agent now has the capability to access and operate a Mac workstat
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-21-openai-codex-now-controls-a-mac-even-when-the-laptop-is-lock]] · [[2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window]] · [[2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers]] · [[2026-05-29-openai-brings-codex-computer-use-to-windows]] · [[2026-08-06-openai-launches-codex-security-in-research-preview]]
+**Related:** [[2026-05-21-openai-codex-now-controls-a-mac-even-when-the-laptop-is-lock]] · [[2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window]] · [[2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers]] · [[2026-05-29-openai-brings-codex-computer-use-to-windows]] · [[2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents]]
 <!-- graph:end -->

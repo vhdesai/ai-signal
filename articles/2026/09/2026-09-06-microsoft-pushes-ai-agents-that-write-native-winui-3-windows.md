@@ -6,7 +6,7 @@ date: '2026-09-06'
 source: Windows Latest
 url_original: https://www.windowslatest.com/2026/09/06/microsoft-is-ending-windows-11s-web-app-slop-era-and-ai-now-writes-native-apps-in-30-minutes/
 url_canonical: https://www.windowslatest.com/2026/09/06/microsoft-is-ending-windows-11s-web-app-slop-era-and-ai-now-writes-native-apps-in-30-minutes/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_060623_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 899c89283405c328bb1522d4d537584227c725facbc273a52208829f3d4d901f

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-23-california-issues-trusted-ai-procurement-executive-order-man
 - 2026-05-22-california-governor-gavin-newsom-ordered-state-officials-thu
 - 2026-09-01-california-legislature-sends-newsom-a-slate-of-ai-bills-incl
-- 2026-04-03-tennessee-governor-bill-lee-signed-sb-1580-passed-both-chamb
+- 2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un
 embedding_id: 2026-04-01-governor-gavin-newsom-signed-an-executive-order-on-march-30
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Governor Gavin Newsom signed an executive order on March 30 requiring AI vendors
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-california-governor-newsom-orders-first-us-state-ai-jobs-imp]] · [[2026-05-23-california-issues-trusted-ai-procurement-executive-order-man]] · [[2026-05-22-california-governor-gavin-newsom-ordered-state-officials-thu]] · [[2026-09-01-california-legislature-sends-newsom-a-slate-of-ai-bills-incl]] · [[2026-04-03-tennessee-governor-bill-lee-signed-sb-1580-passed-both-chamb]]
+**Related:** [[2026-05-22-california-governor-newsom-orders-first-us-state-ai-jobs-imp]] · [[2026-05-23-california-issues-trusted-ai-procurement-executive-order-man]] · [[2026-05-22-california-governor-gavin-newsom-ordered-state-officials-thu]] · [[2026-09-01-california-legislature-sends-newsom-a-slate-of-ai-bills-incl]] · [[2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un]]
 <!-- graph:end -->

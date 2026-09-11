@@ -6,7 +6,7 @@ date: '2026-08-26'
 source: Bloomberg
 url_original: https://www.theedgesingapore.com/news/artificial-intelligence/chinas-zai-made-ox-alpha-stealth-model-rivals-deepseek
 url_canonical: https://www.theedgesingapore.com/news/artificial-intelligence/chinas-zai-made-ox-alpha-stealth-model-rivals-deepseek
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-26_062133_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 6b9183af53cbba035ec195755d16719fe65582029148a3725ec132d9a88b2520

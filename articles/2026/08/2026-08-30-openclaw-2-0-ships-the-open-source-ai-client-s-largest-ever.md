@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-31-openclaw-ships-2-0-its-largest-release-built-by-933-contribu
 - 2026-08-30-openclaw-2-0-ships-guided-model-setup-and-a-single-trust-bou
 - 2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi
-- 2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo
+- 2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents
 embedding_id: 2026-08-30-openclaw-2-0-ships-the-open-source-ai-client-s-largest-ever
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Version 2026.8.1 lands with 933 contributors and more than 16,000 merged pull re
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-30-openclaw-ships-2-0-its-largest-release-built-by-933-contribu]] · [[2026-08-31-openclaw-ships-2-0-its-largest-release-built-by-933-contribu]] · [[2026-08-30-openclaw-2-0-ships-guided-model-setup-and-a-single-trust-bou]] · [[2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi]] · [[2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo]]
+**Related:** [[2026-08-30-openclaw-ships-2-0-its-largest-release-built-by-933-contribu]] · [[2026-08-31-openclaw-ships-2-0-its-largest-release-built-by-933-contribu]] · [[2026-08-30-openclaw-2-0-ships-guided-model-setup-and-a-single-trust-bou]] · [[2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi]] · [[2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents]]
 <!-- graph:end -->

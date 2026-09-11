@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: AI News
 url_original: https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/
 url_canonical: https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-08_061253_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 1c837f46d6a07b87d3ad86798704658071c47eb1f9b0d124c811c292433093c9

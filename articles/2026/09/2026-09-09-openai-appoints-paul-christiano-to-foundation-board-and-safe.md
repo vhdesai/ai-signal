@@ -6,7 +6,7 @@ date: '2026-09-09'
 source: OpenAI
 url_original: https://openai.com/index/paul-christiano-joins-openai-foundation-board/
 url_canonical: https://openai.com/index/paul-christiano-joins-openai-foundation-board/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: a7ca7d2b2078f12b69d55b7ce462c36fd3081bf8011f186b9a730387a8fdcaf3
 normalized_title_hash: f6bf7dff959eb214
@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-11-former-openai-executive-fidji-simo-joins-nscale-s-board
 - 2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos
 - 2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas
 - 2026-06-02-center-for-ai-safety-expands-creates-national-security-focus
@@ -38,5 +39,5 @@ OpenAI named Paul Christiano — founder of the Alignment Research Center, an au
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos]] · [[2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas]] · [[2026-06-02-center-for-ai-safety-expands-creates-national-security-focus]] · [[2026-08-06-nvidia-assembles-new-ai-safety-engineering-team-doubles-down]]
+**Related:** [[2026-09-11-former-openai-executive-fidji-simo-joins-nscale-s-board]] · [[2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos]] · [[2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas]] · [[2026-06-02-center-for-ai-safety-expands-creates-national-security-focus]] · [[2026-08-06-nvidia-assembles-new-ai-safety-engineering-team-doubles-down]]
 <!-- graph:end -->

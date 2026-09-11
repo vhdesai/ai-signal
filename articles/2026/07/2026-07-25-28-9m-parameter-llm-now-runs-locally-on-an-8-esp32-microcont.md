@@ -5,7 +5,7 @@ date: '2026-07-25'
 source: GitHub**
 url_original: https://github.com/slvDev/esp32-ai
 url_canonical: https://github.com/slvDev/esp32-ai
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-26_065030_Final-Daily-AI-News-Digest.md
 content_hash: e1d3c9f68af402bc53bd974ef7d94c478f9b10eb48d2b4438f0a05ef9a863409
 normalized_title_hash: a2e2a89e35d1748c

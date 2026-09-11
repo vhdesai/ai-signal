@@ -5,7 +5,7 @@ date: '2026-05-21'
 source: 'Source: CNBC / The Information'
 url_original: https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html
 url_canonical: https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 01b3e71d6960afa174926f779af1e207347f14666d3b835dd5722514322e4698

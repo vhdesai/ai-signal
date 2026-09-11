@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: OpenAI Blog
 url_original: https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/
 url_canonical: https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-05_070154_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: e0eaf51cf89e8b70c2fb15e2daa39be8370cbcb9cb01090da1f04f82a2573185

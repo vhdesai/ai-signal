@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: University of Arizona News
 url_original: https://news.arizona.edu/news/study-generative-ai-succumbs-conversational-misinformed-pressure-and-argument
 url_canonical: https://news.arizona.edu/news/study-generative-ai-succumbs-conversational-misinformed-pressure-and-argument
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-05_061026_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 4c31d581b6f3183f46981ad99313ab5bb4110b88d3fadaea945c2677142bab9b

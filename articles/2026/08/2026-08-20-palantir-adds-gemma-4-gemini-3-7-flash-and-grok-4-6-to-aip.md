@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: Palantir
 url_original: https://www.palantir.com/docs/foundry/announcements/2026-08
 url_canonical: https://www.palantir.com/docs/foundry/announcements/2026-08
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 8feaf3f61054e4b76419300574ed7466789bb6c94c2cb807519976de845e64e1

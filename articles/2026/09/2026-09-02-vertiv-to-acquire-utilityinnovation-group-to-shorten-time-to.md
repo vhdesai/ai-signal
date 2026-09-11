@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
 - 2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e
-- 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
+- 2026-09-10-spacex-overhauls-xai-data-center-build-out-reliability-over
 embedding_id: 2026-09-02-vertiv-to-acquire-utilityinnovation-group-to-shorten-time-to
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Vertiv announced a definitive agreement to acquire UtilityInnovation Group, expl
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]]
+**Related:** [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e]] · [[2026-09-10-spacex-overhauls-xai-data-center-build-out-reliability-over]]
 <!-- graph:end -->

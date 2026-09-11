@@ -5,7 +5,7 @@ date: '2026-09-09'
 source: The Information
 url_original: https://www.theinformation.com/articles/jeffrey-katzenberg-openai-sora-head-new-ai-video-startup
 url_canonical: https://www.theinformation.com/articles/jeffrey-katzenberg-openai-sora-head-new-ai-video-startup
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: 118e182939bf70e193b14c6750f6862e670cbd6e9269d06a002335eefb6c451d
 normalized_title_hash: 19c33043a969824d
@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-09-katzenberg-teams-with-former-openai-sora-head-on-new-ai-vide
 - 2026-03-28-openai-officially-discontinued-its-sora-ai-video-generation
 - 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
 - 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
-- 2026-03-28-today-s-ai-landscape-delivered-a-landmark-weekend-anthropic
 embedding_id: 2026-09-09-jeffrey-katzenberg-teams-up-with-former-openai-sora-head-on
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Hollywood mogul Jeffrey Katzenberg is teaming with the former head of OpenAI's S
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-03-28-openai-officially-discontinued-its-sora-ai-video-generation]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]] · [[2026-03-28-today-s-ai-landscape-delivered-a-landmark-weekend-anthropic]]
+**Related:** [[2026-09-09-katzenberg-teams-with-former-openai-sora-head-on-new-ai-vide]] · [[2026-03-28-openai-officially-discontinued-its-sora-ai-video-generation]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: Nvidia and Palantir deploy a sovereign AI stack, with Nvidia as first cus
 date: '2026-09-10'
 source: Fast Company
 url_original: https://www.fastcompany.com/91604370/nvidia-palantir-sovereign-ai-supply-chains
-url_canonical: https://247wallst.com/cards/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains-nvda-press-release-01m259cgbwskbtwxyzampsqscr
-url_status: repaired
+url_canonical: https://www.fastcompany.com/91604370/nvidia-palantir-sovereign-ai-supply-chains
+url_status: found
 digest_source: digests\raw\2026-09-10_065512_Final-Daily-AI-News-Digest.md
 content_hash: 37c1e6a57b87c76c11abac04f4c3d2cb9f5c6124abd59c5fed090b544ed98b70
 normalized_title_hash: 0c96bfd4608bbfa4
@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-10-nvidia-and-palantir-productize-a-sovereign-ai-stack-with-nvi
+- 2026-09-10-nvidia-and-palantir-ship-a-sovereign-ai-stack-with-nvidia-as
 - 2026-09-10-nvidia-and-palantir-productize-a-sovereign-supply-chain-ai-s
 - 2026-06-29-palantir-announced-a-strategic-initiative-with-nvidia-to-del
 - 2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control
-- 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
 embedding_id: 2026-09-10-nvidia-and-palantir-deploy-a-sovereign-ai-stack-with-nvidia
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Palantir and Nvidia announced a collaboration placing Nvidia's Nemotron open mod
 
 **Entities:** [[NVIDIA]] · [[Palantir]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-10-nvidia-and-palantir-productize-a-sovereign-ai-stack-with-nvi]] · [[2026-09-10-nvidia-and-palantir-productize-a-sovereign-supply-chain-ai-s]] · [[2026-06-29-palantir-announced-a-strategic-initiative-with-nvidia-to-del]] · [[2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]]
+**Related:** [[2026-09-10-nvidia-and-palantir-productize-a-sovereign-ai-stack-with-nvi]] · [[2026-09-10-nvidia-and-palantir-ship-a-sovereign-ai-stack-with-nvidia-as]] · [[2026-09-10-nvidia-and-palantir-productize-a-sovereign-supply-chain-ai-s]] · [[2026-06-29-palantir-announced-a-strategic-initiative-with-nvidia-to-del]] · [[2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control]]
 <!-- graph:end -->

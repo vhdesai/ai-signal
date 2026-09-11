@@ -6,7 +6,7 @@ date: '2026-07-04'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/319676/20260704/poolside-releases-free-open-weight-coding-model-july-9-upgrade-deadline.htm
 url_canonical: https://www.techtimes.com/articles/319676/20260704/poolside-releases-free-open-weight-coding-model-july-9-upgrade-deadline.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-04_061951_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: e9241be83f65bb63d8cfd8df23974874b2f0c1dd9f3a7a2507ce2498752af718

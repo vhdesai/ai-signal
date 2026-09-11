@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: WSJ
 url_original: https://www.wsj.com/tech/ai/vance-called-ai-satanic-he-struck-a-chord-among-christian-republicans-dcc34048
 url_canonical: https://www.wsj.com/tech/ai/vance-called-ai-satanic-he-struck-a-chord-among-christian-republicans-dcc34048
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-06_065650_Final-Daily-AI-News-Digest.md
 content_hash: 88877763ba10a1fe525f4fff222cd785e65e134e43f405c4480f57f42526ba68
 normalized_title_hash: 0a509603662b8c81

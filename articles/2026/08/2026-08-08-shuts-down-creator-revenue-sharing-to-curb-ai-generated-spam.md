@@ -5,7 +5,7 @@ date: '2026-08-08'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/
 url_canonical: https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-09_062204_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: deb118138fffb5a399895528874b51070ec9be4dbadd76ce4332077c529e6530

@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: Wall Street Journal**
 url_original: https://www.wsj.com/tech/ai/openai-calls-apples-trade-secret-suit-careless-oddly-personal
 url_canonical: https://www.wsj.com/tech/ai/openai-calls-apples-trade-secret-suit-careless-oddly-personal
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-05_065023_Final-Daily-AI-News-Digest.md
 content_hash: e143fbd0fcbbce0c54d714ecbf045a48aa642d7efc88b4194e6e11a11db10cee
 normalized_title_hash: c37372f921175b1b

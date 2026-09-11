@@ -6,7 +6,7 @@ date: '2026-05-13'
 source: Yahoo Finance / Zacks
 url_original: https://finance.yahoo.com/news/oracle-solidifies-ai-infrastructure-positioning-161500050.html
 url_canonical: https://finance.yahoo.com/news/oracle-solidifies-ai-infrastructure-positioning-161500050.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: c3138164e6dc87787311e4cbdf393b772c646bcf65ed027f3a10639b0a047184

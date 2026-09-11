@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: August 27, 2026
 url_original: https://www.cloudcomputing-news.net/news/aws-2-million-nvidia-gpus-cloud-capacity/
 url_canonical: https://www.cloudcomputing-news.net/news/aws-2-million-nvidia-gpus-cloud-capacity/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 5e51fc1da7bbecb7687c9aa9a66293ed601af6feb056de3e2da194a611ba7f91

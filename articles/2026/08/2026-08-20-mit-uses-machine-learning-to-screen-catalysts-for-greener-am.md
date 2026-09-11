@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: MIT News
 url_original: https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820
 url_canonical: https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 3e1a6b7cdba013406b76058b94d161119dbe97767c381a3c0522ade5fc1f8944

@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: Times Now
 url_original: https://www.timesnownews.com/technology-science/google-ai-secrets-case-takes-twist-as-judge-overturns-part-of-conviction-article-155929928
 url_canonical: https://www.timesnownews.com/technology-science/google-ai-secrets-case-takes-twist-as-judge-overturns-part-of-conviction-article-155929928
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_061248_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 0788788d156c44979020c8cb808a67008bd24f36b4e7badc498c278cd37ec655

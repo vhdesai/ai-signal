@@ -5,7 +5,7 @@ date: '2026-07-21'
 source: CNBC**
 url_original: https://www.cnbc.com/2026/07/21/us-china-ai-talks-bessent.html
 url_canonical: https://www.cnbc.com/2026/07/21/us-china-ai-talks-bessent.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-22_065007_Final-Daily-AI-News-Digest.md
 content_hash: 8a7fd19f6950e2ac33221038c50f377874e255d12239410751edec6c92b3a690
 normalized_title_hash: 1d26e17ea60be4f0

@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/
 url_canonical: https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-07_061720_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 5d12ba1c2d69bdd86534027590f6c87872105f3e2454e056cd5b637b8867dd71

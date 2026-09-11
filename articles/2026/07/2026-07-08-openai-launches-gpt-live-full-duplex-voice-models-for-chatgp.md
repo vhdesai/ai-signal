@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: TechCrunch · VentureBeat
 url_original: https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/
 url_canonical: https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-09_084403_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 01778ef6dac1bfd1eb72e4179d3b6446baa8f7535cb7bc01da639ecef2ec9976

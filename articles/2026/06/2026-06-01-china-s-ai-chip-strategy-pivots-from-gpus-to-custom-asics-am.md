@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: The Next Web**
 url_original: https://thenextweb.com/news/china-ai-chip-asic-gpu-nvidia-export-controls
 url_canonical: https://thenextweb.com/news/china-ai-chip-asic-gpu-nvidia-export-controls
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_061105_Daily-AI-News-Digest.md
 content_hash: 38fa3bd44190a107b9ed4306895ba323cb4b2aced8428bd2061599f878c9d82c
 normalized_title_hash: e0e48d2149e3df8d

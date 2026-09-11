@@ -1,0 +1,15 @@
+{
+  "run_id": "20260911T153431+0000-f51dd8",
+  "started_at": "2026-09-11T15:34:31+00:00",
+  "finished_at": "2026-09-11T15:39:56+00:00",
+  "summary": {
+    "command": "dedupe",
+    "result": {
+      "articles": 8373,
+      "exact_duplicates": 6,
+      "canonical": 6136,
+      "semantic_duplicates": 2231,
+      "related_links": 25457
+    }
+  }
+}

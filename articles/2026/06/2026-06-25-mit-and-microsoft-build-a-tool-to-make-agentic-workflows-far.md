@@ -5,7 +5,7 @@ date: '2026-06-25'
 source: MIT News
 url_original: https://techxplore.com/news/2026-06-plain-language-ai-workflow-tool.html
 url_canonical: https://techxplore.com/news/2026-06-plain-language-ai-workflow-tool.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-26_063633_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 6113c5ec2c4bd009299f2d1dd52852a548799e2b174a9c2d75670613db53b9f3

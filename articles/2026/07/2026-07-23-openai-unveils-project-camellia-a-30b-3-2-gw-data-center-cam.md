@@ -5,7 +5,7 @@ date: '2026-07-23'
 source: CBS News**
 url_original: https://www.cbsnews.com/atlanta/news/openai-is-bringing-a-massive-ai-data-center-to-georgia-heres-what-residents-should-know/
 url_canonical: https://www.cbsnews.com/atlanta/news/openai-is-bringing-a-massive-ai-data-center-to-georgia-heres-what-residents-should-know/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-24_065052_Final-Daily-AI-News-Digest.md
 content_hash: 856adc1e2b9063088f2fa1177bfe5c6a4d7095f0665cf08d9796b9a7be057151
 normalized_title_hash: e63f9b9b1d79aaf1

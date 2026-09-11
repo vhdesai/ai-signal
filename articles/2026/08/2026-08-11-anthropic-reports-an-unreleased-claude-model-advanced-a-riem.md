@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/
 url_canonical: https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-13_065057_Final-Daily-AI-News-Digest.md
 content_hash: de00e4025b52405e097ff88df3b6b2a8f2e51fbfaccb19e75ebeaee14934868a
 normalized_title_hash: b1300e52f4a9f0bf

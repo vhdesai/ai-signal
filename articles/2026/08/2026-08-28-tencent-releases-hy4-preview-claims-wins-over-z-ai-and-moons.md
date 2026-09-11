@@ -5,7 +5,7 @@ date: '2026-08-28'
 source: India Today (Bloomberg-tracked) · Tencent
 url_original: https://www.indiatoday.in/technology/news/story/tencent-releases-new-ai-model-says-it-beat-zai-and-moonshoot-in-testing-2981956-2026-08-28
 url_canonical: https://www.indiatoday.in/technology/news/story/tencent-releases-new-ai-model-says-it-beat-zai-and-moonshoot-in-testing-2981956-2026-08-28
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: c5767765408bbf244b913aec6ccc847eb9460ddfd0bebcfabee7d9633123bb43

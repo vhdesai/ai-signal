@@ -6,7 +6,7 @@ date: '2026-09-09'
 source: Forbes
 url_original: https://www.forbes.com/sites/the-prompt/2026/09/08/openais-math-victory-sparks-backlash/
 url_canonical: https://www.forbes.com/sites/the-prompt/2026/09/08/openais-math-victory-sparks-backlash/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: 49599791d2c030dd5df0f64646a30abbbe24ea892470d2fccfd079dc7bc36824
 normalized_title_hash: 25ca3418c061998c

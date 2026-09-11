@@ -5,7 +5,7 @@ date: '2026-09-01'
 source: Allen Institute for AI
 url_original: https://allenai.org/blog/benchmirt
 url_canonical: https://allenai.org/blog/benchmirt
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-02_065546_Final-Daily-AI-News-Digest.md
 content_hash: d65f671b0ac64f68929b17924bd55bd28e5e0f00f37d34406c2c479cbb3b854f
 normalized_title_hash: 6ba2d98d815d126a

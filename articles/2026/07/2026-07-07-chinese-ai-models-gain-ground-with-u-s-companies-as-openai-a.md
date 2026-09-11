@@ -6,7 +6,7 @@ date: '2026-07-07'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html
 url_canonical: https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-07_062455_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 016aa6545038b56443d070bfcb7aa9e287f2cac28059efcf53d8971866a8a3fc

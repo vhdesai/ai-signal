@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: Reuters
 url_original: https://www.reuters.com/technology/foxconn-q3-outperform-market-expectations-ai-strength-2026-09-05/
 url_canonical: https://www.reuters.com/technology/foxconn-q3-outperform-market-expectations-ai-strength-2026-09-05/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-05_060634_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: e55c9b8a5aad4bf671de2a594bb942fa1b2e753f78d7afaa7d8ae5fd6ad86305

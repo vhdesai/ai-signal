@@ -5,7 +5,7 @@ date: null
 source: NVIDIA GTC 2026 and GTC Taipei 2026
 url_original: https://www.nvidia.com/gtc/
 url_canonical: https://www.nvidia.com/gtc/
-url_status: ok
+url_status: found
 digest_source: digests\raw\nvidia-gtc-2026-gtc-taipei-2026.md
 content_hash: 848ccb4174d68c6fc280f1a3e30dc0ffbc9ef9a917ea0fe1ed1719b2061db489
 normalized_title_hash: fb77a6cbd2942cc2

@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/markets/article/these-ai-numbers-are-getting-crazy-123000121.html
 url_canonical: https://finance.yahoo.com/markets/article/these-ai-numbers-are-getting-crazy-123000121.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_061347_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: 142fa6156d2c8f570c0617658703e9bb81a3bf25c221af887fde13bcb6b95d3c

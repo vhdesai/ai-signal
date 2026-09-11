@@ -6,7 +6,7 @@ date: '2026-05-31'
 source: Windows Latest*
 url_original: https://www.windowslatest.com/2026/05/31/microsoft-clarifies-its-not-launching-windows-12-as-it-teases-a-big-announcement/
 url_canonical: https://www.windowslatest.com/2026/05/31/microsoft-clarifies-its-not-launching-windows-12-as-it-teases-a-big-announcement/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-31_163732_Daily-AI-News-Digest.md
 content_hash: ac596b55bc3ba5ca3a4345b9c8bc50848db8feb50378d931692f9e5bf0e2a408
 normalized_title_hash: a830cd5d5e03578b

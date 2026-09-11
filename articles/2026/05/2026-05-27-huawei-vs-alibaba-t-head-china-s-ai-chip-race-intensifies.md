@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: Reuters
 url_original: https://www.reuters.com/technology/artificial-intelligence/huawei-looks-beyond-moores-law-2026-05-27/
 url_canonical: https://www.reuters.com/technology/artificial-intelligence/huawei-looks-beyond-moores-law-2026-05-27/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: b7c541b68a0465f3a5f58bf22998bb20d7259cbbacd24090b09314ed72ca9ccc

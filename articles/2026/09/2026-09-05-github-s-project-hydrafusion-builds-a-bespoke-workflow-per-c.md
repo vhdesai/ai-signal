@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: MarkTechPost · GitHub / Microsoft
 url_original: https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/
 url_canonical: https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_060643_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: 780d79edf311c682e720ae56f0c05f10d68b63afcfdcad943d29118e4b8630f9

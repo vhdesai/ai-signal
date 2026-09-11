@@ -6,7 +6,7 @@ date: '2026-09-08'
 source: The Hacker News
 url_original: https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html
 url_canonical: https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-09_073521_Final-Daily-AI-News-Digest.md
 content_hash: 073fcd2527fbd853dbb0436abf9f65e2de8dfa5f2c11c2b32caba397322c6410
 normalized_title_hash: 4e6a860b053ed5a5

@@ -5,7 +5,7 @@ date: '2026-07-21'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/
 url_canonical: https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-23_065018_Final-Daily-AI-News-Digest.md
 content_hash: 210982cdc948537a695035f769998ab8d0ef7109d5c050afc538e8894ba42e7a
 normalized_title_hash: 38bdebf39182b388

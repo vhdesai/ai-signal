@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Herald Business
 url_original: https://biz.heraldcorp.com/article/10850554
 url_canonical: https://biz.heraldcorp.com/article/10850554
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_061731_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 1d1a95d8e74aaa74088d367eea1c9a4a13d47e7746f17caeca545ca4f89e71b4

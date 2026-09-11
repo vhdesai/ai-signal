@@ -4,8 +4,8 @@ title: IBM and NASA release an open-source AI foundation model for lunar science
 date: '2026-09-10'
 source: NASA Science
 url_original: https://science.nasa.gov/science-research/ibm-nasa-open-source-ai-foundation-model-lunar-science/
-url_canonical: https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/
-url_status: repaired
+url_canonical: https://science.nasa.gov/science-research/ibm-nasa-open-source-ai-foundation-model-lunar-science/
+url_status: found
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: 30307e88d92d7d64f6fe601d3dd5747e040d6242880ab6f100cc21d6a27df942
 normalized_title_hash: 3299b6deee03cbe0

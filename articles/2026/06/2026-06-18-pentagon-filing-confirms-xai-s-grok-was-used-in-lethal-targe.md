@@ -5,7 +5,7 @@ date: '2026-06-18'
 source: Yahoo News
 url_original: https://www.yahoo.com/news/politics/articles/pentagon-declares-grok-ai-helped-005214359.html
 url_canonical: https://www.yahoo.com/news/politics/articles/pentagon-declares-grok-ai-helped-005214359.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-19_070311_Final-Daily-AI-News-Digest.md
 content_hash: 269cfe775543be4ab52c12a3a6d3046a6d1914191993ea50c59c76f069d4fc48
 normalized_title_hash: 058edb803c3895af

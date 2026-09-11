@@ -1,17 +1,18 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 151
+member_count: 152
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 151 connected article(s).
+> Auto-generated entity hub. 152 connected article(s).
 
 - `2026-09-10` [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par|Nvidia commits to Australia 2GW AI buildout with 8 local partners]]
 - `2026-09-10` [[2026-09-10-nvidia-and-palantir-productize-a-sovereign-supply-chain-ai-s|Nvidia and Palantir productize a sovereign supply-chain AI stack, starting with Nvidia's own chain]]
 - `2026-09-10` [[2026-09-10-nvidia-and-palantir-productize-a-sovereign-ai-stack-with-nvi|Nvidia and Palantir productize a sovereign AI stack, with Nvidia as first customer]]
 - `2026-09-10` [[2026-09-10-nvidia-and-palantir-deploy-a-sovereign-ai-stack-with-nvidia|Nvidia and Palantir deploy a sovereign AI stack, with Nvidia as first customer]]
+- `2026-09-10` [[2026-09-10-nvidia-and-palantir-ship-a-sovereign-ai-stack-with-nvidia-as|NVIDIA and Palantir Ship a Sovereign AI Stack — With NVIDIA as Customer Zero]]
 - `2026-09-10` [[2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne|Mistral partners with Cloudera on sovereign enterprise AI; new €21B valuation caps €3B Samsung-led round]]
 - `2026-09-10` [[2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai|Mistral and Cloudera partner on sovereign enterprise AI]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]

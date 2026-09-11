@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: TechCrunch / Bloomberg
 url_original: https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/
 url_canonical: https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_065332_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: c14d8029ed5360a0ca7ac20d658de13718afcadbf1152982aeac7dbc64d50dcc

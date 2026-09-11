@@ -6,7 +6,7 @@ date: '2026-09-04'
 source: Techish
 url_original: https://tech-ish.com/2026/09/04/deepseek-turns-to-huawei-for-160000-ai-chips-as-nvidia-stays-locked-out-of-china/
 url_canonical: https://tech-ish.com/2026/09/04/deepseek-turns-to-huawei-for-160000-ai-chips-as-nvidia-stays-locked-out-of-china/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_061544_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 058a2ab6988da4eb6c811892c0ee9f93d853d81b09297ef720f9b1be2a076880

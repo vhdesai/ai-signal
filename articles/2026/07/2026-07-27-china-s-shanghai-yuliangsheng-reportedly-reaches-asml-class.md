@@ -6,7 +6,7 @@ date: '2026-07-27'
 source: The Information
 url_original: https://www.theinformation.com/search?q=Shanghai+Yuliangsheng
 url_canonical: https://www.theinformation.com/search?q=Shanghai+Yuliangsheng
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-28_060942_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: 215833894b1ff4adb357fc3ec723a189784769b0bf000695df6bf1abb25b6e53

@@ -5,7 +5,7 @@ date: '2026-08-02'
 source: Jurist
 url_original: https://www.jurist.org/news/2026/08/european-commission-announces-ai-companies-to-face-tighter-eu-oversight-over-deepfakes-and-cyber-threats/
 url_canonical: https://www.jurist.org/news/2026/08/european-commission-announces-ai-companies-to-face-tighter-eu-oversight-over-deepfakes-and-cyber-threats/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-04_061916_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 92905165d37bed7e5827e746a851f33036348f1011d0e6fe3fa5a4fd6f08c343

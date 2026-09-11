@@ -6,7 +6,7 @@ date: '2026-05-25'
 source: MarkTechPost
 url_original: https://techcrunch.com/2026/05/
 url_canonical: https://techcrunch.com/2026/05/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-25_071611_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 8e59c99edb3284d7aa9556981ae91e67f147c2287d40e86b2966b41dd76c0c65
@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-25-workos-releases-auth-md-open-agent-registration-protocol-on
 - 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
 - 2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou
+- 2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents
 - 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
-- 2026-07-15-vint-cerf-backs-identity-standards-for-internet-scale-ai-age
 embedding_id: 2026-05-25-workos-publishes-auth-md-an-open-oauth-protocol-for-ai-agent
 event_name: ''
 ---
@@ -35,5 +35,5 @@ WorkOS opened a proposed standard for registering AI agents as OAuth clients wit
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-25-workos-releases-auth-md-open-agent-registration-protocol-on]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-07-15-vint-cerf-backs-identity-standards-for-internet-scale-ai-age]]
+**Related:** [[2026-05-25-workos-releases-auth-md-open-agent-registration-protocol-on]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents]] · [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]]
 <!-- graph:end -->

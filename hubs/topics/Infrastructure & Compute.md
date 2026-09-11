@@ -1,18 +1,21 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 1860
+member_count: 1863
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 1860 connected article(s).
+> Auto-generated topic hub. 1863 connected article(s).
 
 - `2026-09-10` [[2026-09-10-tsmc-august-revenue-up-53-3-to-a-record-nt-514-8b-advanced-n|TSMC August revenue up 53.3% to a record NT$514.8B; advanced nodes fully booked]]
 - `2026-09-10` [[2026-09-10-spacex-overhauls-data-center-build-out-under-new-rocket-engi|SpaceX overhauls data-center build-out under new rocket-engineer leadership]]
+- `2026-09-10` [[2026-09-10-spacex-overhauls-xai-data-center-build-out-reliability-over|SpaceX Overhauls xAI Data-Center Build-Out — Reliability Over Speed]]
 - `2026-09-10` [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par|Nvidia commits to Australia 2GW AI buildout with 8 local partners]]
 - `2026-09-10` [[2026-09-10-huawei-raises-ascend-ai-chip-prices-60-as-china-s-nvidia-alt|Huawei raises Ascend AI chip prices ~60% as China's Nvidia alternatives face supply crunch]]
 - `2026-09-10` [[2026-09-10-huawei-lifts-ascend-950dt-pricing-60-as-hbm-shortage-reaches|Huawei lifts Ascend 950DT pricing ~60% as HBM shortage reaches China]]
+- `2026-09-10` [[2026-09-10-china-s-ai-chip-prices-jump-20-50-as-hbm-shortage-bites|China's AI Chip Prices Jump 20–50% as HBM Shortage Bites]]
+- `2026-09-10` [[2026-09-10-ayar-labs-extends-round-to-650m-as-copper-interconnect-hits|Ayar Labs Extends Round to $650M as Copper Interconnect Hits Its Limit]]
 - `2026-09-10` [[2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data|Amazon, Meta, and Google risk losing multibillion-dollar data-center tax deals as states rip up terms]]
 - `2026-09-09` [[2026-09-09-taiwan-s-august-exports-hit-record-82-4b-on-ai-and-hpc-deman|Taiwan's August exports hit record $82.4B on AI and HPC demand]]
 - `2026-09-09` [[2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight|Nvidia partners with Australia on a 2GW buildout with eight local operators]]

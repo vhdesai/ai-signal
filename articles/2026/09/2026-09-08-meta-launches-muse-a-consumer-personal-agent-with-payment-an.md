@@ -5,7 +5,7 @@ date: '2026-09-08'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/
 url_canonical: https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-09_073521_Final-Daily-AI-News-Digest.md
 content_hash: c5c8bf47b91438e0e2978a9971f11b823145bcbfd4899a9e7762b21b9240f8aa
 normalized_title_hash: 4815bc93d9e32c08

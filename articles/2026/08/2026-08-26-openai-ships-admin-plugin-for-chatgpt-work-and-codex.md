@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Techgenyz
 url_original: https://techgenyz.com/openai-admin-plugin-workspace-chatgpt-work-codex/
 url_canonical: https://techgenyz.com/openai-admin-plugin-workspace-chatgpt-work-codex/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-26_061028_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 63743142c1c3b0cb65dab53fae619d600d51aa984da7851660ef9d845645fbed

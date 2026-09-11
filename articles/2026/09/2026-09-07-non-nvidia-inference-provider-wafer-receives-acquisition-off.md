@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Wafer+non-Nvidia+inference+acquisition
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Wafer+non-Nvidia+inference+acquisition
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-07_143014_Final-Daily-AI-News-Digest.md
 content_hash: 702fa3e393526cb4765c8fbc60e9a392d66e57e8a019acf3a6282123aebce7b4
 normalized_title_hash: dd7a2d3d0dcd6249

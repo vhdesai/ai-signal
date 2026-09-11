@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: OpenAI Blog
 url_original: https://openai.com/index/scientific-computing-agentic-ai/
 url_canonical: https://openai.com/index/scientific-computing-agentic-ai/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-30_060904_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 22106ad76f8f6b985ce08659d0395dffabdc1bee89aca16fbe510b492e8f587b

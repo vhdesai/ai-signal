@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: Axios
 url_original: https://www.axios.com/2026/08/07/openai-astra-model-delay-cybersecurity-risks
 url_canonical: https://www.axios.com/2026/08/07/openai-astra-model-delay-cybersecurity-risks
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-08_061253_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 69bc9c1f25b8a9f52e50413d3efc17ffab8bade1290dbe678bb94afeb6b9c93c

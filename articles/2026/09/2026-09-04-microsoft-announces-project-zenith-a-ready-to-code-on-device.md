@@ -6,7 +6,7 @@ date: '2026-09-04'
 source: Digital Trends
 url_original: https://www.digitaltrends.com/computing/microsoft-announces-project-zenith-a-ready-to-code-windows-11-setup-for-developers/
 url_canonical: https://www.digitaltrends.com/computing/microsoft-announces-project-zenith-a-ready-to-code-windows-11-setup-for-developers/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_061544_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 4e8fcb288ddf780115fc59e878e90bd78eb33eb31e8aec6ec882944327c889d0

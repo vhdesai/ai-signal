@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/
 url_canonical: https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_070457_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: 7b25b888c986fa62aca44499318edaeef57f281f482e43903b0c9d422cf558d0

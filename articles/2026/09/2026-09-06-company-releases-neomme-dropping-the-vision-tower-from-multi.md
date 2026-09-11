@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/
 url_canonical: https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_060333_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 6a5b441f9d2da234c3a3b753fdeadcbda17c75029d3d757915c501382acbb1e1

@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html
 url_canonical: https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-27_060153_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: eef7c6b4f7cf1a0e5f9eb6a06bcce9aadddf542007ee41fa01b2e5a349eb557c

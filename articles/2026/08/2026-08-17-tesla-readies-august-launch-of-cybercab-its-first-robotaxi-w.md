@@ -6,7 +6,7 @@ date: '2026-08-17'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Tesla+Cybercab+August+launch+Austin
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Tesla+Cybercab+August+launch+Austin
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-18_065759_Final-Daily-AI-News-Digest.md
 content_hash: 0b1796c1233f3c586f79641b80345cfeb089ceba9163344dfc00f3fc80a7f1d2
 normalized_title_hash: e2f294abba24fde6

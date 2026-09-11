@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: VentureBeat, InfoWorld, Unite.AI
 url_original: https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents
 url_canonical: https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 61c30e6a84e878a4fd32400c82a9b2c6a3e19cbe7ecb96df95558bfb9677ba29

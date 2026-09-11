@@ -5,7 +5,7 @@ date: '2026-06-20'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/
 url_canonical: https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-21_060000_Daily-AI-News-Digest.md
 content_hash: 80ec9654e52e8e9f7abb79b4349ba8386e9316448621006274262260f38027b2
 normalized_title_hash: a60a4a165b90e2a4

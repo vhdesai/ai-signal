@@ -6,7 +6,7 @@ date: '2026-08-07'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-08_060927_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: daa4cf2dda9615961d9edf334f6dac6783584b1a458ebce4133cf6b4a1557e5e

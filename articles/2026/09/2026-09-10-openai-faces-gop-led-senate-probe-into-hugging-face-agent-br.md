@@ -4,8 +4,8 @@ title: OpenAI faces GOP-led Senate probe into Hugging Face agent breach
 date: '2026-09-10'
 source: Reuters
 url_original: https://www.reuters.com/technology/openai-faces-senate-probe-into-hugging-face-hack-by-rogue-ai-agents-2026-09-10/
-url_canonical: https://nypost.com/2026/09/10/business/openai-faces-senate-probe-over-hugging-face-hack/
-url_status: repaired
+url_canonical: https://www.reuters.com/technology/openai-faces-senate-probe-into-hugging-face-hack-by-rogue-ai-agents-2026-09-10/
+url_status: found
 digest_source: digests\raw\2026-09-10_065512_Final-Daily-AI-News-Digest.md
 content_hash: 2a35c27b33875c04cb42efe16193bd6bc32f905848fbab91990a5de8c065c858
 normalized_title_hash: 7171ffbe0d7fc9bd

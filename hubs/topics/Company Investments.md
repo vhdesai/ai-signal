@@ -1,16 +1,18 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1050
+member_count: 1052
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1050 connected article(s).
+> Auto-generated topic hub. 1052 connected article(s).
 
+- `2026-09-11` [[2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat|Researcher Resignation Reopens the Pace-of-Development Debate]]
 - `2026-09-10` [[2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face|OpenAI faces GOP-led Senate investigation over Hugging Face agent breach]]
 - `2026-09-10` [[2026-09-10-mistral-valued-at-21b-after-3b-round-asml-maintains-400m-sta|Mistral valued at €21B after €3B round; ASML maintains €400M stake]]
 - `2026-09-10` [[2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne|Mistral partners with Cloudera on sovereign enterprise AI; new €21B valuation caps €3B Samsung-led round]]
+- `2026-09-10` [[2026-09-10-ayar-labs-extends-round-to-650m-as-copper-interconnect-hits|Ayar Labs Extends Round to $650M as Copper Interconnect Hits Its Limit]]
 - `2026-09-09` [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo|US government accuses six Chinese AI firms of large-scale model distillation]]
 - `2026-09-09` [[2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t|Oracle is the AI hyperscaler most likely to blink; earnings today are the tell]]
 - `2026-09-09` [[2026-09-09-jeffrey-katzenberg-teams-up-with-former-openai-sora-head-on|Jeffrey Katzenberg teams up with former OpenAI Sora head on new AI video startup]]

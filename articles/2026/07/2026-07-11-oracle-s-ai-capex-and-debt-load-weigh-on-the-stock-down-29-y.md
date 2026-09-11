@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t
 - 2026-09-03-trending-oracle-closes-up-5-7-on-ai-infrastructure-demand
 - 2026-08-20-meta-s-ai-positioning-lags-alphabet-microsoft-and-amazon-as
+- 2026-09-10-oracle-books-664b-ai-backlog-and-negative-free-cash-flow
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
-- 2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b
 embedding_id: 2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A weekend markets note flags Oracle trading near $140, off roughly 29% year-to-d
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t]] · [[2026-09-03-trending-oracle-closes-up-5-7-on-ai-infrastructure-demand]] · [[2026-08-20-meta-s-ai-positioning-lags-alphabet-microsoft-and-amazon-as]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b]]
+**Related:** [[2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t]] · [[2026-09-03-trending-oracle-closes-up-5-7-on-ai-infrastructure-demand]] · [[2026-08-20-meta-s-ai-positioning-lags-alphabet-microsoft-and-amazon-as]] · [[2026-09-10-oracle-books-664b-ai-backlog-and-negative-free-cash-flow]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]]
 <!-- graph:end -->

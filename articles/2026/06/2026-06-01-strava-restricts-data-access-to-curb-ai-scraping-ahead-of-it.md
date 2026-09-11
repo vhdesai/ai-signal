@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/
 url_canonical: https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_061105_Daily-AI-News-Digest.md
 content_hash: a9027bedfd90633c898325b592763c4663c903412a065f7c8708314faf959d65
 normalized_title_hash: 0549515f2530a047

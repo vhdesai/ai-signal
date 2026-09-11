@@ -6,7 +6,7 @@ date: '2026-05-19'
 source: Reuters
 url_original: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai
 url_canonical: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 668bc7cbb9ff6e884c75ae5ad298fc9281c99aa400e7c1c3c53e51cb7b88a27f

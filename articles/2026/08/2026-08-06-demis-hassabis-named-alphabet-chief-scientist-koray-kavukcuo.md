@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/google-deepmind-ceo-demis-hassabis-091106270.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/google-deepmind-ceo-demis-hassabis-091106270.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 144f25e0b19c7e519c13bcdb5bf9b66255c61762fb01cf015a66a9dd2fe415a4

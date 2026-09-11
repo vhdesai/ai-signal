@@ -6,7 +6,7 @@ date: '2026-06-01'
 source: OfficeChai**
 url_original: https://officechai.com/ai/minimax-releases-minimax-m3-is-competitive-with-frontier-models-on-many-benchmarks/
 url_canonical: https://officechai.com/ai/minimax-releases-minimax-m3-is-competitive-with-frontier-models-on-many-benchmarks/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_061636_Daily-AI-News-Digest.md
 content_hash: c9b37892e5483f42399a466e1507d9b4278dc375614b731c0ba392ee8e4740b5
 normalized_title_hash: 0cdc4a067fc59448

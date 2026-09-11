@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Stripe%20OpenRouter%20financials
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Stripe%20OpenRouter%20financials
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - July
   30, 2026 (Revised).md
 content_hash: d0c353b65c31a464dccd38dd9fea622feb6ede6c44463a983806dc6639e27964

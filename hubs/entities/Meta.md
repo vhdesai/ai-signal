@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 681
+member_count: 682
 ---
 
 # Meta
 
-> Auto-generated entity hub. 681 connected article(s).
+> Auto-generated entity hub. 682 connected article(s).
 
 - `2026-09-10` [[2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten|The Information: SpaceX overhauls data-center build-out, potentially slowing expansion]]
 - `2026-09-10` [[2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data|Amazon, Meta, and Google risk losing multibillion-dollar data-center tax deals as states rip up terms]]
@@ -14,6 +14,7 @@ member_count: 681
 - `2026-09-09` [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s|Meta ships Muse, a consumer AI agent with payment, email, and smart-home access]]
 - `2026-09-09` [[2026-09-09-meta-ships-muse-consumer-agent-with-a-kernel-enforced-securi|Meta ships Muse consumer agent with a kernel-enforced security boundary]]
 - `2026-09-09` [[2026-09-09-meta-employees-flagged-muse-security-failures-during-pre-lau|Meta employees flagged Muse security failures during pre-launch testing]]
+- `2026-09-09` [[2026-09-09-katzenberg-teams-with-former-openai-sora-head-on-new-ai-vide|Katzenberg Teams With Former OpenAI Sora Head on New AI Video Startup]]
 - `2026-09-08` [[2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an|Meta launches Muse, a consumer personal agent with payment and email authority]]
 - `2026-09-08` [[2026-09-08-arm-doubles-its-semi-custom-server-ceiling-with-neoverse-css|Arm doubles its semi-custom server ceiling with Neoverse CSS N4 for agentic workloads]]
 - `2026-09-07` [[2026-09-07-ineffable-intelligence-recruits-six-co-founders-from-google|Ineffable Intelligence recruits six co-founders from Google DeepMind and InstaDeep]]

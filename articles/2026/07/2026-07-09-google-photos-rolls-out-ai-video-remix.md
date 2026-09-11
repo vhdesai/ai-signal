@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: YourStory
 url_original: https://yourstory.com/ai-story/google-photos-ai-video-remix-tool
 url_canonical: https://yourstory.com/ai-story/google-photos-ai-video-remix-tool
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-09_061541_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 045022e87b73590242fec5a3ef4ca5a727d9d4e3a8261e1c486511f35d1d4e7e

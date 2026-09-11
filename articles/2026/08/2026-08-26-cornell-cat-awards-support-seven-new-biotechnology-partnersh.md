@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Cornell Chronicle · Cornell University
 url_original: https://news.cornell.edu/categories/artificial-intelligence
 url_canonical: https://news.cornell.edu/categories/artificial-intelligence
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 1ddd13a69712de6c5a2fd868c90bd2b36f4a08eb0b8f46b2c664b2906a6a0316

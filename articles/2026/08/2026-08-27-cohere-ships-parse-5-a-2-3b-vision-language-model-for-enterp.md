@@ -6,7 +6,7 @@ date: '2026-08-27'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/27/cohere-releases-parse-5-parse-v5-0-a-2-3b-vision-language-model-that-turns-enterprise-documents-into-markdown/
 url_canonical: https://www.marktechpost.com/2026/08/27/cohere-releases-parse-5-parse-v5-0-a-2-3b-vision-language-model-that-turns-enterprise-documents-into-markdown/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_065356_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 946c8a672fc3658e602bc49cc84e2427785d6cf90b7c7fb988f8017d4b2ba7eb

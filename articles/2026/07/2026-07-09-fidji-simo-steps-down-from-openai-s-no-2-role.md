@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/
 url_canonical: https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-10_061505_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 877b1997e32497a4d921054f04b8a8a4812721359729545e83fe17650c60ef3c
@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o
+- 2026-09-11-former-openai-executive-fidji-simo-joins-nscale-s-board
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
 - 2026-08-13-openai-replaces-cro-after-nine-months-hires-wiz-coo-dali-raj
 - 2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving
-- 2026-08-12-openai-special-projects-lead-brad-lightcap-departing
 embedding_id: 2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Fidji Simo, OpenAI's CEO of Applications and effectively its No. 2 operating exe
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-08-13-openai-replaces-cro-after-nine-months-hires-wiz-coo-dali-raj]] · [[2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving]] · [[2026-08-12-openai-special-projects-lead-brad-lightcap-departing]]
+**Related:** [[2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o]] · [[2026-09-11-former-openai-executive-fidji-simo-joins-nscale-s-board]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-08-13-openai-replaces-cro-after-nine-months-hires-wiz-coo-dali-raj]] · [[2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving]]
 <!-- graph:end -->

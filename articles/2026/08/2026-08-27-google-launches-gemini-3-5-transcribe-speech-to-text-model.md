@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: TechBooky (corroborated by MarkTechPost, Ars Technica) · Google / DeepMind
 url_original: https://www.techbooky.com/google-gemini-3-5-transcribe-voice-ai-interface/
 url_canonical: https://www.techbooky.com/google-gemini-3-5-transcribe-voice-ai-interface/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 690ab5247e0839d444ddc11aa9f8928c51ef3071e5a8f7fc0fe72348b99954c4

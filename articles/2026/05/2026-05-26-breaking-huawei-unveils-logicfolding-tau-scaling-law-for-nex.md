@@ -6,7 +6,7 @@ date: '2026-05-26'
 source: Huawei / CNBC
 url_original: https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html
 url_canonical: https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 29584817a5bd18f66b88cc4bb0cc017cea0f30dbe63e97773dc47f7da54f960c

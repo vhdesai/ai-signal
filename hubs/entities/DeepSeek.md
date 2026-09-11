@@ -1,15 +1,16 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 419
+member_count: 420
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 419 connected article(s).
+> Auto-generated entity hub. 420 connected article(s).
 
 - `2026-09-10` [[2026-09-10-huawei-lifts-ascend-950dt-pricing-60-as-hbm-shortage-reaches|Huawei lifts Ascend 950DT pricing ~60% as HBM shortage reaches China]]
 - `2026-09-10` [[2026-09-10-deepseek-releases-v4-1-flash-with-1m-context-fp4-kv-cache-an|DeepSeek releases V4.1-Flash with 1M context, FP4 KV cache and encoder/decoder split]]
+- `2026-09-10` [[2026-09-10-deepseek-ships-v4-1-flash-and-retires-its-flagship-behind-it|DeepSeek Ships V4.1-Flash and Retires Its Flagship Behind It]]
 - `2026-09-09` [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo|US government accuses six Chinese AI firms of large-scale model distillation]]
 - `2026-09-09` [[2026-09-09-nsa-cisa-and-fbi-name-six-chinese-labs-over-industrial-scale|NSA, CISA, and FBI name six Chinese labs over industrial-scale distillation]]
 - `2026-09-07` [[2026-09-07-malaysia-weighs-huawei-chips-for-rm2b-national-ai-project-de|Malaysia weighs Huawei chips for RM2B national AI project despite US warnings]]

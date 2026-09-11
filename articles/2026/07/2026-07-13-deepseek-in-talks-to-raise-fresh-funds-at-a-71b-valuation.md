@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: Financial Times
 url_original: https://aiweekly.co/ai-news-today
 url_canonical: https://aiweekly.co/ai-news-today
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: fa7665b6560de9b34d0b7391098c62db45851b172945de8bebf61cd131c8bdc7

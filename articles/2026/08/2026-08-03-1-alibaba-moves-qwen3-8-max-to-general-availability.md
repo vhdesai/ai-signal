@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: eWeek · Read article →
 url_original: https://www.eweek.com/news/alibaba-qwen3-8-max-ai-model/
 url_canonical: https://www.eweek.com/news/alibaba-qwen3-8-max-ai-model/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-04_061155_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 6726d271c9328fa34b10e157831fae5aafccc9b4aee16999c807cbbb1c24b999

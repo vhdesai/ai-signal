@@ -5,7 +5,7 @@ date: '2026-05-22'
 source: Ars Technica
 url_original: https://www.deeplearning.ai/the-batch
 url_canonical: https://www.deeplearning.ai/the-batch
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 5e8edeec2151fd9e6847ee4d60dcd78355310cb4fe4d57c24ebf0308c18bc204

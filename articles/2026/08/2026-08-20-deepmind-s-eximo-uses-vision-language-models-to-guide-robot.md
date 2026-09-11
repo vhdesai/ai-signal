@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: Google DeepMind
 url_original: https://arxiv.org/abs/2608.19891
 url_canonical: https://arxiv.org/abs/2608.19891
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: dbdb7a56b2ebaa8e1695d03f83a8f42e6ddb70c776ae9e2edc834ea1b0f9dfcc

@@ -5,7 +5,7 @@ date: '2026-06-25'
 source: AlleyWatch
 url_original: https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-25-2026/
 url_canonical: https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-25-2026/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-26_063633_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: d89deece87936c6b92be759811403a2d15f3bde7ca5dc98cbbb93303198bd17e

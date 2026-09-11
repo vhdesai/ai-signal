@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/
 url_canonical: https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_142255_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: d16142f20db531a2f4cdc8af1e292b536fe361a876052f5c7e55aecb8c7b5c29

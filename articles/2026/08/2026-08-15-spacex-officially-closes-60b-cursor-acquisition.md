@@ -5,7 +5,7 @@ date: '2026-08-15'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/
 url_canonical: https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-16_065100_Final-Daily-AI-News-Digest.md
 content_hash: a1a9d5005b87e5c46cf6135f50048b58d4169b5a99a0eda8a620658903a3291f
 normalized_title_hash: 3ed6e78724b3765f

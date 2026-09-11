@@ -5,7 +5,7 @@ date: '2026-07-24'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Amazon%20AI%20agent%20lab
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Amazon%20AI%20agent%20lab
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-25_065719_Final-Daily-AI-News-Digest.md
 content_hash: c0687bed29292d0a6276cd3830d1dc97e75d2fa4af0922e326dc76c02b6da529
 normalized_title_hash: e9c9f1f032e1b299

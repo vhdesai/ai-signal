@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/
 url_canonical: https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_060624_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 4d8904d4ad1f7e81443ecb6c762735c4789b787dfd875bdf7bcc23f77666e133

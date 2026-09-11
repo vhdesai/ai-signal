@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: BusinessMirror
 url_original: https://businessmirror.com.ph/2026/09/07/eligible-asus-laptops-now-unlock-google-ai-experiences/
 url_canonical: https://businessmirror.com.ph/2026/09/07/eligible-asus-laptops-now-unlock-google-ai-experiences/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-07_061000_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: f6b10d887a56da781a56addcec33f34545ac99a6fd12d2f12350c9d6c27ac71f

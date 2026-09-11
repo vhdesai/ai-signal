@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: Apple Machine Learning Research
 url_original: https://machinelearning.apple.com/research/diffusion-autoregressive-performance
 url_canonical: https://machinelearning.apple.com/research/diffusion-autoregressive-performance
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-09_060525_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: f201702fd8b4c3ae627ab612affe0fae01101eba5b3b55c747e4d9258e8d829f

@@ -5,7 +5,7 @@ date: '2026-05-13'
 source: InfoQ
 url_original: https://www.infoq.com/news/2026/05/anthropic-claude-aws/
 url_canonical: https://www.infoq.com/news/2026/05/anthropic-claude-aws/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: b9685d2f64558aed1fb12605456507a49971f3270fc37c0d2f5ad207a5c17403

@@ -5,7 +5,7 @@ date: '2026-06-06'
 source: Cyber Security News
 url_original: https://cybersecuritynews.com/anthropics-claude-services-down/
 url_canonical: https://cybersecuritynews.com/anthropics-claude-services-down/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-07_070026_Final-Daily-AI-News-Digest.md
 content_hash: 01d9fe8daab99a3187eaed19b9831418570588d9211a8d69dd840016377d4ad7
 normalized_title_hash: 337f648a2c2adf45

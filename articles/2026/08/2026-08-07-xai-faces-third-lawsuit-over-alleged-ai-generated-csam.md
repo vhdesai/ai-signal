@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: PRNewswire / TMCnet
 url_original: https://www.tmcnet.com/usubmit/2026/08/07/10427293.htm
 url_canonical: https://www.tmcnet.com/usubmit/2026/08/07/10427293.htm
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-08_060927_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 0a48f3e20fedc87a31bcd8f9dce245b6ddd9409efe4490dc244203aaa700cdea

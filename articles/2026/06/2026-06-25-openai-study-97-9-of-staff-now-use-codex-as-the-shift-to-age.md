@@ -5,7 +5,7 @@ date: '2026-06-25'
 source: The Register
 url_original: https://www.theregister.com/ai-and-ml/2026/06/25/openai-says-employees-moving-beyond-chat-to-agents/5262499
 url_canonical: https://www.theregister.com/ai-and-ml/2026/06/25/openai-says-employees-moving-beyond-chat-to-agents/5262499
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-26_060525_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 8b26d6bbe4828c7be48ee0e6922e418a8aa216d207fe56c39333c29070e2b96b

@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: PYMNTS
 url_original: https://www.pymnts.com/news/artificial-intelligence/2026/bytedance-lands-29-6-billion-loan-to-fuel-ai-advances/
 url_canonical: https://www.pymnts.com/news/artificial-intelligence/2026/bytedance-lands-29-6-billion-loan-to-fuel-ai-advances/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_061000_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 67cda3881ca4fd19dfe3842c9dfefc433f9e9ee105899685249e8ba57a7fd9b8

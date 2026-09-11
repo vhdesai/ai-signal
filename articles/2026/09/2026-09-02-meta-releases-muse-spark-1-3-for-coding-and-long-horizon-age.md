@@ -5,7 +5,7 @@ date: '2026-09-02'
 source: Meta AI Research
 url_original: https://research.meta.ai/blog/introducing-muse-spark-1-3
 url_canonical: https://research.meta.ai/blog/introducing-muse-spark-1-3
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-03_060703_Inbox_Daily AI News Digest – September
   3, 2026.md
 content_hash: 54c73cb3039ed0ec76695f0e79e9b476684e397084873815536ece06f31e29e9

@@ -5,7 +5,7 @@ date: '2026-06-07'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/
 url_canonical: https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-08_071435_Final-Daily-AI-News-Digest.md
 content_hash: 705101e40ee5a269c6bf7051b2920fa6b659f5f2483cdca347164a552c68d9f5
 normalized_title_hash: d8363e06492ef485

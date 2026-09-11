@@ -6,7 +6,7 @@ date: '2026-07-02'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding
 url_canonical: https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-04_060818_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 1f17879c6cb58137265aad4de143a5b9da3485fea8e0a4a8019e599da3a703b6

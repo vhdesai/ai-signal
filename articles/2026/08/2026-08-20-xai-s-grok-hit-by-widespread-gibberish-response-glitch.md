@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/
 url_canonical: https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 9e2d30b0cbbf19ebc0a87014d7263159f1589ca94e4c4a1ecea21d66b66c44d0

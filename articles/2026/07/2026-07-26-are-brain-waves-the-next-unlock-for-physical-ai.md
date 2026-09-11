@@ -5,7 +5,7 @@ date: '2026-07-26'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/
 url_canonical: https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-27_062053_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: fc750d20cee1c5b214e9ba1eaad324802e427c970eed6473e5b8cc40c3c17323

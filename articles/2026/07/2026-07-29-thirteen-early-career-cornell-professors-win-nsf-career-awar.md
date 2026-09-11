@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: Cornell Chronicle
 url_original: https://news.cornell.edu/stories/2026/07/thirteen-early-career-professors-win-nsf-development-awards
 url_canonical: https://news.cornell.edu/stories/2026/07/thirteen-early-career-professors-win-nsf-development-awards
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-30_060704_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 00348c071ec944710a8472279df0deb5b45ebe2d244d1a1fa24d22cb03571153

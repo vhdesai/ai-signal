@@ -6,7 +6,7 @@ date: '2026-08-25'
 source: The Motley Fool
 url_original: https://www.fool.com/investing/breakfast-news/2026/08/25/breakfast-news-metas-ai-agent-to-do-your-errands/
 url_canonical: https://www.fool.com/investing/breakfast-news/2026/08/25/breakfast-news-metas-ai-agent-to-do-your-errands/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-26_061028_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: a115db8e257d3822ae492ca28150db9e182b6ede1091b2c8f5c153f839b3e984

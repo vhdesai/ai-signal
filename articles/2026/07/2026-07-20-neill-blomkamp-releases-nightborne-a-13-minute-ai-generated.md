@@ -5,7 +5,7 @@ date: '2026-07-20'
 source: The Playlist**
 url_original: https://theplaylist.net/nightborne-neill-blomkamp-shares-sci-fi-horror-ai-short-20260720/
 url_canonical: https://theplaylist.net/nightborne-neill-blomkamp-shares-sci-fi-horror-ai-short-20260720/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-21_065051_Final-Daily-AI-News-Digest.md
 content_hash: aa755c76ba5f45404d54189846719701023fb1cc69611c02020fa6ee05ca9eea
 normalized_title_hash: 97ff07da3c456c42

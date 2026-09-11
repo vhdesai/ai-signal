@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 360
+member_count: 361
 ---
 
 # xAI
 
-> Auto-generated entity hub. 360 connected article(s).
+> Auto-generated entity hub. 361 connected article(s).
 
 - `2026-09-10` [[2026-09-10-spacex-overhauls-data-center-build-out-under-new-rocket-engi|SpaceX overhauls data-center build-out under new rocket-engineer leadership]]
+- `2026-09-10` [[2026-09-10-spacex-overhauls-xai-data-center-build-out-reliability-over|SpaceX Overhauls xAI Data-Center Build-Out — Reliability Over Speed]]
 - `2026-09-07` [[2026-09-07-post-mortem-chatgpt-claude-and-grok-all-failed-within-roughl|Post-mortem: ChatGPT, Claude and Grok all failed within roughly 80 minutes]]
 - `2026-09-06` [[2026-09-06-xai-loses-another-round-against-minnesota-s-synthetic-imager|xAI loses another round against Minnesota's synthetic-imagery law]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]

@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: VentureBeat
 url_original: https://venturebeat.com/orchestration/githubs-hydrafusion-cuts-ai-coding-costs-in-every-benchmark-it-only-matches-quality-in-one
 url_canonical: https://venturebeat.com/orchestration/githubs-hydrafusion-cuts-ai-coding-costs-in-every-benchmark-it-only-matches-quality-in-one
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-05_060634_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: a21b8a20a59b110132449787c1860335f1789b7b336260874fe8077fff1965c2

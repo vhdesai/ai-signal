@@ -5,7 +5,7 @@ date: '2026-06-25'
 source: arXiv
 url_original: https://arxiv.org/list/cs.AI/current
 url_canonical: https://arxiv.org/list/cs.AI/current
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-25_062805_Inbox_Daily AI News Digest - June 25,
   2026.md
 content_hash: 7eae49b0618b85ceb655a92c675e2bf07e697be3ff87abedaac244df6efe3f56

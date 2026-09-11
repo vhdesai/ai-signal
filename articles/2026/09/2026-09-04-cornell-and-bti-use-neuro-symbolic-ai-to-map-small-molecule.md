@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: Phys.org / Boyce Thompson Institute
 url_original: https://phys.org/news/2026-09-ai-tool-hidden-universe-small.html
 url_canonical: https://phys.org/news/2026-09-ai-tool-hidden-universe-small.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_070426_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: bc16480335bcd1bc0a29c097347cc1589b00c9625fdec97681c0ac51232cf078

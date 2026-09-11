@@ -6,7 +6,7 @@ date: '2026-07-29'
 source: The Register
 url_original: https://techstartups.com/2026/07/29/top-tech-news-today-july-29-2026-amazon-google-microsoft-mit-nvidia-softbank-xai-more/
 url_canonical: https://techstartups.com/2026/07/29/top-tech-news-today-july-29-2026-amazon-google-microsoft-mit-nvidia-softbank-xai-more/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-30_060704_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: f9ec6910bfb9ed688d3a7e5dcd3e34eae70d3f0681bc6ae1925209c60cb33e8f

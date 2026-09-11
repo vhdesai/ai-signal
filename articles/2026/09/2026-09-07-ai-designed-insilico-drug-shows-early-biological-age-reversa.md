@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: The Next Web
 url_original: https://thenextweb.com/news/insilico-rentosertib-proteomic-aging-clocks
 url_canonical: https://thenextweb.com/news/insilico-rentosertib-proteomic-aging-clocks
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_062259_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 222caf6ac1728dd374e478eeebd40a9111f742fde84adfb81de8a420dbb1b33c

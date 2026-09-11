@@ -5,7 +5,7 @@ date: '2026-05-13'
 source: CRN
 url_original: https://www.crn.com/news/ai/2026/microsoft-vp-of-copilot-security-and-ai-joins-aws-to-lead-agentic-ai-charge-at-critical-moment
 url_canonical: https://www.crn.com/news/ai/2026/microsoft-vp-of-copilot-security-and-ai-joins-aws-to-lead-agentic-ai-charge-at-critical-moment
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: f14f753696627de368698be85db1449db61b66021409967685ecb1b666beffb3

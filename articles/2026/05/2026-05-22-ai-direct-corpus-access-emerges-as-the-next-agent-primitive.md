@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-direct-code-interpreters-outperform-vector-search-for-comple
 - 2026-05-22-direct-corpus-interaction-dci-agents-outperform-vector-rag-b
+- 2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents
 - 2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono
 - 2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto
-- 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 embedding_id: 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 event_name: ''
 ---
@@ -38,5 +38,5 @@ VentureBeat published an analysis arguing AI agents need terminal-level corpus a
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-direct-code-interpreters-outperform-vector-search-for-comple]] · [[2026-05-22-direct-corpus-interaction-dci-agents-outperform-vector-rag-b]] · [[2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono]] · [[2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]]
+**Related:** [[2026-05-22-direct-code-interpreters-outperform-vector-search-for-comple]] · [[2026-05-22-direct-corpus-interaction-dci-agents-outperform-vector-rag-b]] · [[2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents]] · [[2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono]] · [[2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto]]
 <!-- graph:end -->

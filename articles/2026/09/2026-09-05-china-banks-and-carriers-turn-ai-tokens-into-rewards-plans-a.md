@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: Unite.AI
 url_original: https://www.unite.ai/china-banks-carriers-turn-ai-tokens-into-rewards-and-monthly-plans/
 url_canonical: https://www.unite.ai/china-banks-carriers-turn-ai-tokens-into-rewards-and-monthly-plans/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_060634_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 6cae3d3b81929d46f758d4c9edee46564a8065619e73e060fd6718753d47dd1c

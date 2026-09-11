@@ -5,7 +5,7 @@ date: '2026-07-26'
 source: BAIR Blog
 url_original: https://bair.berkeley.edu/blog/2026/07/26/abbel/
 url_canonical: https://bair.berkeley.edu/blog/2026/07/26/abbel/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-28_060522_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: ec655b0cf9880f9bf523ece1705d244cb4ae64ba6e764f62d1f88f89b341a35c

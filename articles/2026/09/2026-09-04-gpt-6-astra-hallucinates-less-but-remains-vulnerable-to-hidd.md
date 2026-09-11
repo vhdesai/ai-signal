@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: THE DECODER
 url_original: https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/
 url_canonical: https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_061544_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: c7698348a89cf2ad2e5f3ee5be8816dcc0d11c1748257281ac4ae800d82e6110

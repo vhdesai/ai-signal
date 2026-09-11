@@ -5,7 +5,7 @@ date: '2026-09-03'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Snowflake%20CoCo%20pricing
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Snowflake%20CoCo%20pricing
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-05_070915_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: d66e11b1c7f62f5277f710347cc7f7b8634db040d61201d060dc61d5045161c5

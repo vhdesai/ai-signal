@@ -6,7 +6,7 @@ date: '2026-09-06'
 source: OpenAI / Engadget
 url_original: https://openai.com/index/research-acceleration-view-inside-openai
 url_canonical: https://openai.com/index/research-acceleration-view-inside-openai
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-07_143014_Final-Daily-AI-News-Digest.md
 content_hash: 3dc43adc65f7025b4c92dc2c1533a3f5323de4cb68e55c6cd5672bd62581feba
 normalized_title_hash: cebaae630ae7dd1e

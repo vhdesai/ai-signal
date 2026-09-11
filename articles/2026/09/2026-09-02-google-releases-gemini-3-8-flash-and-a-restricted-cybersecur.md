@@ -5,7 +5,7 @@ date: '2026-09-02'
 source: Google Blog
 url_original: https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/
 url_canonical: https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-03_060703_Inbox_Daily AI News Digest – September
   3, 2026.md
 content_hash: 004697b62d36d987937dbcf919636d7bf143a8b448b4532c1e2abf127756e2a5

@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: Bloomberg
 url_original: https://www.theedgesingapore.com/news/funds/softbanks-us40-bil-loan-openai-stake-gets-21-new-lenders
 url_canonical: https://www.theedgesingapore.com/news/funds/softbanks-us40-bil-loan-openai-stake-gets-21-new-lenders
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-27_061621_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: e413e254ced3495e7de59f1f1b6ea36ef0747201c4d5ab8d8feab25af011b76c

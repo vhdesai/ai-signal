@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-18-meta-faces-29-state-trial-over-alleged-harm-to-young-users
 - 2026-08-26-meta-s-18b-settlement-ends-one-battle-wider-legal-war-looms
 - 2026-08-26-meta-agrees-to-16-68-billion-settlement-in-social-media-addi
-- 2026-08-26-meta-reaches-18-billion-settlement-with-48-states-but-wider
+- 2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un
 embedding_id: 2026-08-18-landmark-29-state-trial-against-meta-over-youth-harm-opens-i
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Opening arguments began in federal court in Oakland in a bipartisan action by 29
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-18-meta-faces-29-state-trial-over-alleged-harm-to-young-users]] · [[2026-08-26-meta-s-18b-settlement-ends-one-battle-wider-legal-war-looms]] · [[2026-08-26-meta-agrees-to-16-68-billion-settlement-in-social-media-addi]] · [[2026-08-26-meta-reaches-18-billion-settlement-with-48-states-but-wider]]
+**Related:** [[2026-08-18-meta-faces-29-state-trial-over-alleged-harm-to-young-users]] · [[2026-08-26-meta-s-18b-settlement-ends-one-battle-wider-legal-war-looms]] · [[2026-08-26-meta-agrees-to-16-68-billion-settlement-in-social-media-addi]] · [[2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un]]
 <!-- graph:end -->

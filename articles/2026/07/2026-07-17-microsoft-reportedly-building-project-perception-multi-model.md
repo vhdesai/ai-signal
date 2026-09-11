@@ -6,7 +6,7 @@ date: '2026-07-17'
 source: TechRepublic**
 url_original: https://www.techrepublic.com/article/news-microsoft-project-perception-ai-security-tool/
 url_canonical: https://www.techrepublic.com/article/news-microsoft-project-perception-ai-security-tool/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-19_065029_Final-Daily-AI-News-Digest.md
 content_hash: af06c7c88ed54c5abe5120cd4858608b2732172bc2603b78b825380ca3b9c2ea
 normalized_title_hash: e2815fc60be22f47

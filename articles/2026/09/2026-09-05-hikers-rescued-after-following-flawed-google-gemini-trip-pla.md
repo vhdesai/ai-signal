@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/
 url_canonical: https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_065650_Final-Daily-AI-News-Digest.md
 content_hash: 9478c4a1a48fa50ab529ca2269c2dacee7d1ac4a410bafa835a2af057090dc72
 normalized_title_hash: 031a0ffe84170b58

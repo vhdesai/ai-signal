@@ -6,7 +6,7 @@ date: '2026-09-04'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/
 url_canonical: https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_061026_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: d33fa8c84d17ac884c886e81df5f62cc44c60507cd1e91ed197022aa078030f8

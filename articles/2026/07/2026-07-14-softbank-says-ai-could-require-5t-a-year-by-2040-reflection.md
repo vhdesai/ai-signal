@@ -6,7 +6,7 @@ date: '2026-07-14'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/softbanks-son-says-ai-5-052004186.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/softbanks-son-says-ai-5-052004186.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-15_082850_Final-Daily-AI-News-Digest.md
 content_hash: 781bdc9d57a92e422c4787dc2f2c4f886c0c1c336fd0d5d65ad9f79635732575
 normalized_title_hash: 030e7026bc59a8eb

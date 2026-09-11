@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: MacRumors, The Verge, Bloomberg
 url_original: https://www.macrumors.com/2026/08/06/openai-asks-judge-to-dismiss-apple-lawsuit/
 url_canonical: https://www.macrumors.com/2026/08/06/openai-asks-judge-to-dismiss-apple-lawsuit/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 11e4f9ddc40c86ae1cc3a74714cd58d3ad7d5754e98b32565c27bd1a93d317c4

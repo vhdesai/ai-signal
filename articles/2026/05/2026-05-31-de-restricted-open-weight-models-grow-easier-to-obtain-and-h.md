@@ -5,7 +5,7 @@ date: '2026-05-31'
 source: NPR
 url_original: https://www.boisestatepublicradio.org/2026-05-31/these-ai-models-are-free-private-and-will-never-say-no
 url_canonical: https://www.boisestatepublicradio.org/2026-05-31/these-ai-models-are-free-private-and-will-never-say-no
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_060804_Daily-AI-News-Digest.md
 content_hash: 9ed6de0fdd86d64c1ad39cc5d0df5ab4e33c91e9422c8c918b586969a3668ec8
 normalized_title_hash: d5ebff24604446ee

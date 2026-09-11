@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: '*May 28, 2026'
 url_original: https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html
 url_canonical: https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-31_163732_Daily-AI-News-Digest.md
 content_hash: 981cd1ba39df75e5021974a228e6a70e9111d4144023ce1cc72024ba2bcadece
 normalized_title_hash: 419abb31ef8a381b

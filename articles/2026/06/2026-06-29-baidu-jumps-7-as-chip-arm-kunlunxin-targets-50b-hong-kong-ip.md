@@ -5,7 +5,7 @@ date: '2026-06-29'
 source: CNBC
 url_original: https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html
 url_canonical: https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-30_061155_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: d0bc804a6cca470b5b41eb4cbcc91e08d3fd4146bbc1efc81e0fe6d4562ac9a5
@@ -26,8 +26,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-29-baidu-s-ai-chip-arm-kunlunxin-is-planning-a-hong-kong-ipo-at
 - 2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and
+- 2026-09-10-china-s-ai-chip-prices-jump-20-50-as-hbm-shortage-bites
 - 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
-- 2026-07-06-infrastructure-china-china-s-biren-raises-892-5m-to-scale-gp
 embedding_id: 2026-06-29-baidu-jumps-7-as-chip-arm-kunlunxin-targets-50b-hong-kong-ip
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Baidu's Hong Kong shares jumped more than 7% on a report (The Information) that 
 
 **Entities:** [[Baidu]] · [[ByteDance]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-06-29-baidu-s-ai-chip-arm-kunlunxin-is-planning-a-hong-kong-ipo-at]] · [[2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]] · [[2026-07-06-infrastructure-china-china-s-biren-raises-892-5m-to-scale-gp]]
+**Related:** [[2026-06-29-baidu-s-ai-chip-arm-kunlunxin-is-planning-a-hong-kong-ipo-at]] · [[2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and]] · [[2026-09-10-china-s-ai-chip-prices-jump-20-50-as-hbm-shortage-bites]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]]
 <!-- graph:end -->

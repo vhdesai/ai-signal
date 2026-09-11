@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: OpenAI
 url_original: https://openai.com/index/codex-security-now-in-research-preview/
 url_canonical: https://openai.com/index/codex-security-now-in-research-preview/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-07_061041_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 88273e3349056c91f1e949c01abeee26a13a1767ff582bb76f58f6b1331658b1

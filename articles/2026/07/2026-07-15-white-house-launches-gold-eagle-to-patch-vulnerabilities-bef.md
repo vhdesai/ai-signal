@@ -6,7 +6,7 @@ date: '2026-07-15'
 source: Forbes**
 url_original: https://www.forbes.com/sites/ronschmelzer/2026/07/15/the-white-house-wants-ai-to-beat-hackers-to-the-patch-with-gold-eagle/
 url_canonical: https://www.forbes.com/sites/ronschmelzer/2026/07/15/the-white-house-wants-ai-to-beat-hackers-to-the-patch-with-gold-eagle/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-17_065015_Final-Daily-AI-News-Digest.md
 content_hash: b0d3a7487bdee5a2b5204763733ca61afd6c87eafd60147afb39aa4d9756ccd0
 normalized_title_hash: 39b666adb7b6ab02

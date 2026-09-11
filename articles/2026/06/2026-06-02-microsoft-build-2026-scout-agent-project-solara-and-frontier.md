@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: TechCrunch; The Verge; Wired; Analytics India Magazine
 url_original: https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/
 url_canonical: https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-04_071040_Final-Daily-AI-News-Digest.md
 content_hash: 2ce571a6f6d2e3eedafcfd87bc1c8a2b1203292cb96f94d396f3332b7e532582
 normalized_title_hash: 769cd5dc7d12468a

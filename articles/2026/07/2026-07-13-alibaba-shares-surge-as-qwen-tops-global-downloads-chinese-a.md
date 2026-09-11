@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: Yahoo Finance / The Daily Upside
 url_original: https://finance.yahoo.com/technology/ai/articles/alibaba-surges-cheaper-ai-undermines-110000837.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/alibaba-surges-cheaper-ai-undermines-110000837.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 129d61376a72bb0afc31bb81d3e799ed1773d408efc1734978a6aa24c3bc4e78

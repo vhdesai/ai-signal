@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: TechCrunch · Anthropic, OpenAI
 url_original: https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/
 url_canonical: https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: ccaa86df61c9577303915e22e9ab4b1f519192372ee3d0fd8e57b563e96c2525

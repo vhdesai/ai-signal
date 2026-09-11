@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: Google DeepMind Blog
 url_original: https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/
 url_canonical: https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_060949_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: c5f4031d88fbccd4a8f1db717c2e8ca141ceede5c9a654958518b6966084034e

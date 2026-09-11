@@ -5,7 +5,7 @@ date: '2026-05-31'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/
 url_canonical: https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: 00376eae5527bba16c5062f163f35db673fce314debda038fee98652a88348ef

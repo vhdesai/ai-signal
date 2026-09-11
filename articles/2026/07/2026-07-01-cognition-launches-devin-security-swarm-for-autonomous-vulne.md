@@ -5,7 +5,7 @@ date: '2026-07-01'
 source: Cognition
 url_original: https://cognition.com/blog/introducing-devin-security-swarm
 url_canonical: https://cognition.com/blog/introducing-devin-security-swarm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-02_062325_Inbox_Daily AI News Digest - July 2,
   2026.md
 content_hash: b708e01969ae88bab2cde264bcaaae5f6ab8122bd8047110bd96b40595542115

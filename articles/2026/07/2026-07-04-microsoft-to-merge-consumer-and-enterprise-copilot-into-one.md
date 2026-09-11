@@ -5,7 +5,7 @@ date: '2026-07-04'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/319706/20260704/microsoft-copilot-merges-one-app-august-feature-cuts-reveal-paid-adoption-crisis.htm
 url_canonical: https://www.techtimes.com/articles/319706/20260704/microsoft-copilot-merges-one-app-august-feature-cuts-reveal-paid-adoption-crisis.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-06_084400_Final-Daily-AI-News-Digest.md
 content_hash: 7c349161074418fa05b30fa2d610171ded408a41cfb0577eea42037452eb865a
 normalized_title_hash: f78afd05559440a6

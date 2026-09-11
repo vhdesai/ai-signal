@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/open-world-models-physical-ai/
 url_canonical: https://blogs.nvidia.com/blog/open-world-models-physical-ai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_060636_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 9f90d855b5c18d645422358137a64e425fe7e8536538256332996a88af4b1d1d

@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: MIT Sloan
 url_original: https://mitsloan.mit.edu/ideas-made-to-matter/how-will-ai-automation-hit-a-crashing-wave-or-a-rising-tide
 url_canonical: https://mitsloan.mit.edu/ideas-made-to-matter/how-will-ai-automation-hit-a-crashing-wave-or-a-rising-tide
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-06_061505_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: d1392fa8643723da2fb501804567f685198fe370425cf94865b5e370a5103b12

@@ -6,7 +6,7 @@ date: '2026-06-28'
 source: VentureBeat
 url_original: https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-agents-rag-pipelines-and-model-routers
 url_canonical: https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-agents-rag-pipelines-and-model-routers
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-29_062122_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 6fdabc30e4978037cf2fcdfa738117c92e414910aa6b95499768fe9ca5d36beb

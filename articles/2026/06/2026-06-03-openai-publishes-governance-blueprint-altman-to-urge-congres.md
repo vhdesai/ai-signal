@@ -6,7 +6,7 @@ date: '2026-06-03'
 source: OpenAI Blog; Politico; Reuters
 url_original: https://openai.com/index/a-blueprint-for-democratic-governance-of-frontier-ai/
 url_canonical: https://openai.com/index/a-blueprint-for-democratic-governance-of-frontier-ai/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-04_071147_Daily-AI-News-Digest.md
 content_hash: c82ee805994a12eb1ce0803b2d59d196365c5caa66de2bfc8c517801151ec5b4
 normalized_title_hash: 8d174aa05bb37fb7

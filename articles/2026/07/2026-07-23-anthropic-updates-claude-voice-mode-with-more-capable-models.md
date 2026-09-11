@@ -5,7 +5,7 @@ date: '2026-07-23'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/
 url_canonical: https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-24_065052_Final-Daily-AI-News-Digest.md
 content_hash: fe12dc35190761e158ace4c97dcd80cf5dca82db3020ae6611545997e22a8890
 normalized_title_hash: 3230968d0e43ef02

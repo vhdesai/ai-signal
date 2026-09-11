@@ -5,7 +5,7 @@ date: '2026-07-16'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/
 url_canonical: https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-17_092848_Final-Daily-AI-News-Digest.md
 content_hash: c3487dc0b61771a9d9e15b87e614796dd0ade765f60e6460d33c23483b3af99d
 normalized_title_hash: 040e0c6ed59fc068

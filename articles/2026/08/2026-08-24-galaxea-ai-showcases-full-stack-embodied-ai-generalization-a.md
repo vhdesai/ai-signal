@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/galaxea-ai-demonstrated-full-stack-100000153.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/galaxea-ai-demonstrated-full-stack-100000153.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_085500_Final-Daily-AI-News-Digest.md
 content_hash: 866f5937afce6e12096514f9af0faff593b61b203e3746777c5c82cacc815230
 normalized_title_hash: 9904b155ddd160ec

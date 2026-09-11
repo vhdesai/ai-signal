@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-dip-ai-113157391.html
 url_canonical: https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-dip-ai-113157391.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-02_061615_Daily-AI-News-Digest.md
 content_hash: 5d2e35eacca6272b4ff8fdaa7703bbad00b494e07dd9e6a234aa8620d98152a1
 normalized_title_hash: b95738b854311e13

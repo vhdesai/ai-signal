@@ -5,8 +5,8 @@ title: OpenAI board member says lab is not on track to reduce catastrophic loss-
 date: '2026-09-10'
 source: The Guardian
 url_original: https://www.theguardian.com/technology/2026/sep/10/openai-board-catastrophic-risk-warning
-url_canonical: https://www.theguardian.com/technology/2026/sep/10/openai-risk-catastrophic-loss-control-board-member-paul-christiano
-url_status: repaired
+url_canonical: https://www.theguardian.com/technology/2026/sep/10/openai-board-catastrophic-risk-warning
+url_status: found
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: 01b5417d2e368ab60ad6b2d157c8d24e0d000802dd9b52ba5f68c7a7654bc531
 normalized_title_hash: 0039dca65cebeee1

@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Ars Technica
 url_original: https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/
 url_canonical: https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-27_062110_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: a1f37cb48ed4017a9cc1e5830a0c0e4ec2bf1d74b2e0fc340b0c2b000d885ec8

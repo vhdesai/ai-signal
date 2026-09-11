@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: TechRadar / CNBC · Read article →
 url_original: https://techstartups.com/2026/08/03/top-tech-news-today-august-3-2026-alibaba-amazon-amd-apple-microsoft-nvidia-more/
 url_canonical: https://techstartups.com/2026/08/03/top-tech-news-today-august-3-2026-alibaba-amazon-amd-apple-microsoft-nvidia-more/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-04_061155_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 131e68cb99a91a8d8201a3749c29f083cfff2b8482be74a0dfd1cba100975600

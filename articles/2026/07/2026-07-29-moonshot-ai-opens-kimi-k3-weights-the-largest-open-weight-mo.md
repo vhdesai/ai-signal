@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: Times Now
 url_original: https://www.timesnownews.com/technology-science/moonshot-makes-kimi-k3-free-to-download-for-developers-all-details-here-article-155207399
 url_canonical: https://www.timesnownews.com/technology-science/moonshot-makes-kimi-k3-free-to-download-for-developers-all-details-here-article-155207399
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-29_062619_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 6a8e47a427ca7fdf345f36c9ec9965f0c6b9f9d27ec7ee3953ab1cb4d07ebc8a

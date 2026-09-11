@@ -6,7 +6,7 @@ date: '2026-07-28'
 source: International Business Times
 url_original: https://www.ibtimes.sg/anthropic-says-claude-5-needs-shorter-prompts-developers-say-trade-offs-are-more-complicated-90853
 url_canonical: https://www.ibtimes.sg/anthropic-says-claude-5-needs-shorter-prompts-developers-say-trade-offs-are-more-complicated-90853
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-28_060942_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: 23710df11c4c4b8abc9c7e0d8b337cb1e20e2ed34c4eba392e29844e62f2741f

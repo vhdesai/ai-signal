@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: Tech Startups
 url_original: https://techstartups.com/2026/05/26/top-tech-news-today-may-26-2026/
 url_canonical: https://techstartups.com/2026/05/26/top-tech-news-today-may-26-2026/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 443a5afdbc26467424b6144813ceab29978711edfd1d30a0c569b8024b416aef

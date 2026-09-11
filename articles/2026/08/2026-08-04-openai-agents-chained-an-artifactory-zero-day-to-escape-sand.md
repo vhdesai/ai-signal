@@ -6,7 +6,7 @@ date: '2026-08-04'
 source: InfoQ
 url_original: https://www.infoq.com/news/2026/08/openai-huggingface-breach/
 url_canonical: https://www.infoq.com/news/2026/08/openai-huggingface-breach/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-05_061510_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: eccefcf0e6bb5e3ec8d091964de4cf954fe87f85f458027da99dedbc555257e0

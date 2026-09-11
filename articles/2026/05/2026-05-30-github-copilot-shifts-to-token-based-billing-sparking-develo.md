@@ -5,7 +5,7 @@ date: '2026-05-30'
 source: TechCrunch; [June 1, 2026] · Dataconomy; Tech Times
 url_original: https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/
 url_canonical: https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
 content_hash: 310b57e3f7e75d87296f8a909e63eb1aab9df9736aed53a28096176d24db507b
 normalized_title_hash: 88b04c8339b3b213

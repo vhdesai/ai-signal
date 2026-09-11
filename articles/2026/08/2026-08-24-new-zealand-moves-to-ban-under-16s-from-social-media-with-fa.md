@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool
+- 2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un
 - 2026-07-30-eu-delays-high-risk-ai-act-deadlines-and-bans-non-consensual
 - 2026-03-28-the-european-parliament-passed-a-resolution-banning-ai-appli
 - 2026-08-27-meta-s-18b-settlement-hinges-on-age-verification-tech-that-d
-- 2026-07-30-xai-sued-over-grok-creating-non-consensual-explicit-imagery
 embedding_id: 2026-08-24-new-zealand-moves-to-ban-under-16s-from-social-media-with-fa
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Zealand’s coalition government introduced legislation requiring “high-risk�
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool]] · [[2026-07-30-eu-delays-high-risk-ai-act-deadlines-and-bans-non-consensual]] · [[2026-03-28-the-european-parliament-passed-a-resolution-banning-ai-appli]] · [[2026-08-27-meta-s-18b-settlement-hinges-on-age-verification-tech-that-d]] · [[2026-07-30-xai-sued-over-grok-creating-non-consensual-explicit-imagery]]
+**Related:** [[2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool]] · [[2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un]] · [[2026-07-30-eu-delays-high-risk-ai-act-deadlines-and-bans-non-consensual]] · [[2026-03-28-the-european-parliament-passed-a-resolution-banning-ai-appli]] · [[2026-08-27-meta-s-18b-settlement-hinges-on-age-verification-tech-that-d]]
 <!-- graph:end -->

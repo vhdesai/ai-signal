@@ -6,7 +6,7 @@ date: '2026-08-20'
 source: Fudan University / OpenMOSS
 url_original: https://arxiv.org/abs/2608.19799
 url_canonical: https://arxiv.org/abs/2608.19799
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 8c78f1cf5f24f8134039949e0e21c4393effc501a420d97f69b086b2bb977035

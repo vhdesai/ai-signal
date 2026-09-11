@@ -6,7 +6,7 @@ date: '2026-08-29'
 source: Music Business Worldwide
 url_original: https://www.musicbusinessworldwide.com/now-sony-music-publishing-and-warner-chappell-sue-anthropic-in-multi-billion-dollar-lawsuit-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/
 url_canonical: https://www.musicbusinessworldwide.com/now-sony-music-publishing-and-warner-chappell-sue-anthropic-in-multi-billion-dollar-lawsuit-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-29_065027_Final-Daily-AI-News-Digest.md
 content_hash: 4e5e0a1748246fd0dbeb5b0086668193f98637914c3961e5517161c04f97387c
 normalized_title_hash: 23e90cf068bab473

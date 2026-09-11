@@ -6,7 +6,7 @@ date: '2026-09-04'
 source: Yahoo Finance UK
 url_original: https://uk.finance.yahoo.com/news/citi-sees-catalyst-baidu-ai-035954307.html
 url_canonical: https://uk.finance.yahoo.com/news/citi-sees-catalyst-baidu-ai-035954307.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_061544_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 2602d893d28a0ab8492f6e0ea5f69890b93d89eb5e4d1617f2948c749fda2cd5

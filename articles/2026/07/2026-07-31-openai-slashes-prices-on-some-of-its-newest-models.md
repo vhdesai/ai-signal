@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI+price+cuts+newest+models
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI+price+cuts+newest+models
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-31_065022_Final-Daily-AI-News-Digest.md
 content_hash: 3abcf569f64ba02ee5478c01275f69f004f834482d48540e0f27f1cfddcf35ac
 normalized_title_hash: 0f3fbd80f292cde3

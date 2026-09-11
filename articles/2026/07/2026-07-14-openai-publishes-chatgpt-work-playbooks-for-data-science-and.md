@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: OpenAI Blog
 url_original: https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex/
 url_canonical: https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-14_060635_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: c452dffcd1253f9bdbe930c4c958a77f7fb7313d56a697903b673ad1dc49a8ef

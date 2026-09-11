@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: AWS Machine Learning Blog / Intuit
 url_original: https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock/
 url_canonical: https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_070915_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 9f6f0135a1a5591bbed6dc0df08d727efd76eed1ebfbc6d2a40f9d4052ee3419

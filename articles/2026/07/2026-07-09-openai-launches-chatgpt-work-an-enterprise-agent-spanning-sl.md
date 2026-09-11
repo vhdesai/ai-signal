@@ -6,7 +6,7 @@ date: '2026-07-09'
 source: Fox Business
 url_original: https://www.foxbusiness.com/technology/openai-unveils-chatgpt-work-automate-workplace-tasks-ai-race-intensifies
 url_canonical: https://www.foxbusiness.com/technology/openai-unveils-chatgpt-work-automate-workplace-tasks-ai-race-intensifies
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-11_062818_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 475ab0f671ff7dbd14ee763c2bb6710ad58ead5690ea05fab5ece9b27fb9e2e1

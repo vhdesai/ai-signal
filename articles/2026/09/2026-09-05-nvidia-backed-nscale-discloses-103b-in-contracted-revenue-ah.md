@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: Crypto Briefing · Nvidia / Anthropic
 url_original: https://cryptobriefing.com/nscale-103-billion-contracted-revenue-ipo/
 url_canonical: https://cryptobriefing.com/nscale-103-billion-contracted-revenue-ipo/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_060643_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: d92969a0acd883ff949707f2924daed260c5b9f94ec83646eaec8f7a238e96bd

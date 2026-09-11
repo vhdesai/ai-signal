@@ -6,7 +6,7 @@ date: '2026-08-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/
 url_canonical: https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-10_061003_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: bd3198befb9a46a55fac585d8bf0f78c44f490b2510d258363dba375148c851b

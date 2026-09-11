@@ -6,7 +6,7 @@ date: '2026-09-02'
 source: Microsoft Research
 url_original: https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/
 url_canonical: https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-03_061026_Inbox_Daily AI News Digest – September
   3, 2026.md
 content_hash: 0c2184f0992a865e670a48efef3c4d458e5df44f75914856dea1c5df2c0b9290

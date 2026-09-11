@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: The Decoder
 url_original: https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/
 url_canonical: https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - July
   13, 2026.md
 content_hash: 30f10fcdd6a18f3c17679c994da0c447f3ded325806a2d78e6311ed2390347eb

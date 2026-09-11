@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: TechRound
 url_original: https://techround.co.uk/artificial-intelligence/why-is-google-deepmind-calling-gemini-robotics-2-a-step-toward-physical-agi/
 url_canonical: https://techround.co.uk/artificial-intelligence/why-is-google-deepmind-calling-gemini-robotics-2-a-step-toward-physical-agi/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-04_062620_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 4d9ddff44a781d8fb70af6115a3b3b6f059a236343a962002898defc0d3ddb1f

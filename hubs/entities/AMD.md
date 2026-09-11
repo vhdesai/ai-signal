@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 110
+member_count: 112
 ---
 
 # AMD
 
-> Auto-generated entity hub. 110 connected article(s).
+> Auto-generated entity hub. 112 connected article(s).
 
+- `2026-09-11` [[2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat|Researcher Resignation Reopens the Pace-of-Development Debate]]
+- `2026-09-10` [[2026-09-10-ayar-labs-extends-round-to-650m-as-copper-interconnect-hits|Ayar Labs Extends Round to $650M as Copper Interconnect Hits Its Limit]]
 - `2026-09-07` [[2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen|Anthropic has signed roughly $517 billion in compute agreements over 11 months]]
 - `2026-09-06` [[2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr|Authors contest third-party claims on Anthropic's $1.5B copyright settlement]]
 - `2026-09-05` [[2026-09-05-anthropic-ipo-prospectus-reportedly-days-away-as-amd-commits|Anthropic IPO prospectus reportedly days away as AMD commits up to $5B]]

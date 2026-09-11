@@ -6,7 +6,7 @@ date: '2026-06-18'
 source: Wall Street Journal
 url_original: https://www.wsj.com/tech/ai/the-13-billion-ai-startup-betting-on-cheaper-alternatives-to-openai-anthropic-b9679603
 url_canonical: https://www.wsj.com/tech/ai/the-13-billion-ai-startup-betting-on-cheaper-alternatives-to-openai-anthropic-b9679603
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-18_075931_Final-Daily-AI-News-Digest.md
 content_hash: 150ea46742d2664849406e2b3fa671f5d093fd237aca68b4f21bbe2897db3c8e
 normalized_title_hash: 365bccf848f9d7df

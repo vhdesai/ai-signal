@@ -5,7 +5,7 @@ date: '2026-07-01'
 source: Reuters
 url_original: https://www.aol.com/articles/uks-national-grid-invest-1-111538000.html
 url_canonical: https://www.aol.com/articles/uks-national-grid-invest-1-111538000.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-02_062325_Inbox_Daily AI News Digest - July 2,
   2026.md
 content_hash: 249e4d68e03ab90417406eef15d9a1e70fc81bc5ab35bbc65238718307448c33

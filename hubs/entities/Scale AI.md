@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Scale AI
-member_count: 43
+member_count: 45
 ---
 
 # Scale AI
 
-> Auto-generated entity hub. 43 connected article(s).
+> Auto-generated entity hub. 45 connected article(s).
 
+- `2026-09-10` [[2026-09-10-spacex-overhauls-xai-data-center-build-out-reliability-over|SpaceX Overhauls xAI Data-Center Build-Out — Reliability Over Speed]]
+- `2026-09-10` [[2026-09-10-ayar-labs-extends-round-to-650m-as-copper-interconnect-hits|Ayar Labs Extends Round to $650M as Copper Interconnect Hits Its Limit]]
 - `2026-09-07` [[2026-09-07-tencent-restructures-bilibili-stake-into-debt-as-it-funds-ai|Tencent restructures Bilibili stake into debt as it funds AI initiatives]]
 - `2026-09-04` [[2026-09-04-microsoft-unveils-project-zenith-for-local-frontier-scale-ai|Microsoft Unveils "Project Zenith" for Local Frontier-Scale AI Development]]
 - `2026-08-31` [[2026-08-31-nvidia-invests-3-5-billion-in-mediatek-and-deepens-its-ai-in|Nvidia invests $3.5 billion in MediaTek and deepens its AI infrastructure partnership]]

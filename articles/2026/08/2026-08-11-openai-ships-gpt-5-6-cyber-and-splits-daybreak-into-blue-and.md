@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks
 url_canonical: https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-11_060300_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 87cb8fd51d065fb92ec467832e7abefdd2b24cbcf4fc3ed77693dc7cfa0ab8d7

@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Andreessen%20Cursor%20OpenRouter
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Andreessen%20Cursor%20OpenRouter
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-05_070915_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 750861948311e00a874c1b6a2399a2e38965f6d36bf24669a522d08acb31e66d

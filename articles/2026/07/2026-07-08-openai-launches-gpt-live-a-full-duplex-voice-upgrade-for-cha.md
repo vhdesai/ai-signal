@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person
 url_canonical: https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-10_061848_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: c3e01e02d1741d4449aa6eca4bbe40545d8c743a7ea795b1bfefba11fafad205

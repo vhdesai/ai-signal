@@ -6,7 +6,7 @@ date: '2026-08-10'
 source: Meta AI Research Blog
 url_original: https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model
 url_canonical: https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-10_061806_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: 148bb4d53ed805bf5b2bf03ec0c31bbafb9749a28b16814d221595831abbe4b8

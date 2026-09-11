@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: TechNode
 url_original: https://technode.com/2026/08/25/bytedance-launches-doubao-work-with-feishu-integration-and-30-day-free-access/
 url_canonical: https://technode.com/2026/08/25/bytedance-launches-doubao-work-with-feishu-integration-and-30-day-free-access/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: f2737f78dfee8cd81251d7ec7fb36e370075f4e5db6b27297124bb1e2f741d27

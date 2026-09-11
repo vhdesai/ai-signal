@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic%20payments%20Stripe
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic%20payments%20Stripe
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-05_070915_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 34e488d3a0b7161b292f36df4ca2a915a7c43a2c11a1466a943c1758651e1177

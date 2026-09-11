@@ -6,7 +6,7 @@ date: '2026-07-06'
 source: The Hacker News
 url_original: https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html
 url_canonical: https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-06_084400_Final-Daily-AI-News-Digest.md
 content_hash: 1cf950e6f3cd07ecab7c52bf7fb9407a432793a91a79c089fd0a2bdb2b930249
 normalized_title_hash: 3f16e7bf3d1c7f71

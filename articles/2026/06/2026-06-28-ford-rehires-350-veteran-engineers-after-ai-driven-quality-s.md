@@ -5,7 +5,7 @@ date: '2026-06-28'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/
 url_canonical: https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-29_062122_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 3748ff037f6e50c211bc77ce342f0d7df48b20772fccfb59a5bfdd5bb7110ac2

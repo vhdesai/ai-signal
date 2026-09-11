@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: arXiv
 url_original: https://arxiv.org/list/cs.AI/recent
 url_canonical: https://arxiv.org/list/cs.AI/recent
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-13_060615_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: 882d8004f520efbf5d048203ea9b3a839dbf9abf2b015d40565c692cc231d932

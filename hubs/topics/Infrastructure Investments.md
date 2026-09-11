@@ -1,22 +1,28 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1503
+member_count: 1509
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1503 connected article(s).
+> Auto-generated topic hub. 1509 connected article(s).
 
+- `2026-09-11` [[2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat|Researcher Resignation Reopens the Pace-of-Development Debate]]
+- `2026-09-11` [[2026-09-11-former-openai-executive-fidji-simo-joins-nscale-s-board|Former OpenAI Executive Fidji Simo Joins Nscale's Board]]
 - `2026-09-10` [[2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten|The Information: SpaceX overhauls data-center build-out, potentially slowing expansion]]
 - `2026-09-10` [[2026-09-10-tsmc-august-revenue-up-53-3-to-a-record-nt-514-8b-advanced-n|TSMC August revenue up 53.3% to a record NT$514.8B; advanced nodes fully booked]]
+- `2026-09-10` [[2026-09-10-spacex-overhauls-xai-data-center-build-out-reliability-over|SpaceX Overhauls xAI Data-Center Build-Out — Reliability Over Speed]]
+- `2026-09-10` [[2026-09-10-oracle-books-664b-ai-backlog-and-negative-free-cash-flow|Oracle Books $664B AI Backlog — and Negative Free Cash Flow]]
 - `2026-09-10` [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par|Nvidia commits to Australia 2GW AI buildout with 8 local partners]]
 - `2026-09-10` [[2026-09-10-nvidia-and-palantir-productize-a-sovereign-supply-chain-ai-s|Nvidia and Palantir productize a sovereign supply-chain AI stack, starting with Nvidia's own chain]]
 - `2026-09-10` [[2026-09-10-nvidia-and-palantir-deploy-a-sovereign-ai-stack-with-nvidia|Nvidia and Palantir deploy a sovereign AI stack, with Nvidia as first customer]]
+- `2026-09-10` [[2026-09-10-nvidia-and-palantir-ship-a-sovereign-ai-stack-with-nvidia-as|NVIDIA and Palantir Ship a Sovereign AI Stack — With NVIDIA as Customer Zero]]
 - `2026-09-10` [[2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne|Mistral partners with Cloudera on sovereign enterprise AI; new €21B valuation caps €3B Samsung-led round]]
 - `2026-09-10` [[2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai|Mistral and Cloudera partner on sovereign enterprise AI]]
 - `2026-09-10` [[2026-09-10-huawei-raises-ascend-ai-chip-prices-60-as-china-s-nvidia-alt|Huawei raises Ascend AI chip prices ~60% as China's Nvidia alternatives face supply crunch]]
 - `2026-09-10` [[2026-09-10-huawei-lifts-ascend-950dt-pricing-60-as-hbm-shortage-reaches|Huawei lifts Ascend 950DT pricing ~60% as HBM shortage reaches China]]
+- `2026-09-10` [[2026-09-10-china-s-ai-chip-prices-jump-20-50-as-hbm-shortage-bites|China's AI Chip Prices Jump 20–50% as HBM Shortage Bites]]
 - `2026-09-10` [[2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data|Amazon, Meta, and Google risk losing multibillion-dollar data-center tax deals as states rip up terms]]
 - `2026-09-09` [[2026-09-09-wsj-watch-the-ai-boom-s-weakest-link|WSJ: Watch the AI boom's "weakest link"]]
 - `2026-09-09` [[2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t|Oracle is the AI hyperscaler most likely to blink; earnings today are the tell]]

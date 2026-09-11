@@ -1,18 +1,19 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1299
+member_count: 1300
 ---
 
 # Google
 
-> Auto-generated entity hub. 1299 connected article(s).
+> Auto-generated entity hub. 1300 connected article(s).
 
 - `2026-09-10` [[2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten|The Information: SpaceX overhauls data-center build-out, potentially slowing expansion]]
 - `2026-09-10` [[2026-09-10-google-deepmind-proposes-autoregressive-ranking-to-replace-d|Google DeepMind proposes Autoregressive Ranking to replace dual/cross-encoder search stacks]]
 - `2026-09-10` [[2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data|Amazon, Meta, and Google risk losing multibillion-dollar data-center tax deals as states rip up terms]]
 - `2026-09-09` [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo|US government accuses six Chinese AI firms of large-scale model distillation]]
 - `2026-09-09` [[2026-09-09-sergey-brin-is-quietly-reshaping-google-s-gemini-roadmap|Sergey Brin is quietly reshaping Google's Gemini roadmap]]
+- `2026-09-09` [[2026-09-09-sergey-brin-cements-influence-over-google-s-gemini-roadmap|Sergey Brin Cements Influence Over Google's Gemini Roadmap]]
 - `2026-09-09` [[2026-09-09-google-commits-13b-15-1b-to-finnish-ai-infrastructure-its-la|Google commits €13B ($15.1B) to Finnish AI infrastructure — its largest European investment]]
 - `2026-09-09` [[2026-09-09-google-commits-15-1b-to-ai-infrastructure-in-finland-its-lar|Google commits $15.1B to AI infrastructure in Finland — its largest single European investment]]
 - `2026-09-08` [[2026-09-08-us-closes-1-9b-loan-to-restart-the-iowa-reactor-already-cont|US closes $1.9B loan to restart the Iowa reactor already contracted to Google]]

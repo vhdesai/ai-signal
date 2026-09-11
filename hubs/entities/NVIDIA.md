@@ -1,21 +1,24 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1368
+member_count: 1371
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1368 connected article(s).
+> Auto-generated entity hub. 1371 connected article(s).
 
+- `2026-09-11` [[2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat|Researcher Resignation Reopens the Pace-of-Development Debate]]
 - `2026-09-10` [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par|Nvidia commits to Australia 2GW AI buildout with 8 local partners]]
 - `2026-09-10` [[2026-09-10-nvidia-and-palantir-productize-a-sovereign-supply-chain-ai-s|Nvidia and Palantir productize a sovereign supply-chain AI stack, starting with Nvidia's own chain]]
 - `2026-09-10` [[2026-09-10-nvidia-and-palantir-productize-a-sovereign-ai-stack-with-nvi|Nvidia and Palantir productize a sovereign AI stack, with Nvidia as first customer]]
 - `2026-09-10` [[2026-09-10-nvidia-and-palantir-deploy-a-sovereign-ai-stack-with-nvidia|Nvidia and Palantir deploy a sovereign AI stack, with Nvidia as first customer]]
+- `2026-09-10` [[2026-09-10-nvidia-and-palantir-ship-a-sovereign-ai-stack-with-nvidia-as|NVIDIA and Palantir Ship a Sovereign AI Stack — With NVIDIA as Customer Zero]]
 - `2026-09-10` [[2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne|Mistral partners with Cloudera on sovereign enterprise AI; new €21B valuation caps €3B Samsung-led round]]
 - `2026-09-10` [[2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai|Mistral and Cloudera partner on sovereign enterprise AI]]
 - `2026-09-10` [[2026-09-10-huawei-raises-ascend-ai-chip-prices-60-as-china-s-nvidia-alt|Huawei raises Ascend AI chip prices ~60% as China's Nvidia alternatives face supply crunch]]
 - `2026-09-10` [[2026-09-10-huawei-lifts-ascend-950dt-pricing-60-as-hbm-shortage-reaches|Huawei lifts Ascend 950DT pricing ~60% as HBM shortage reaches China]]
+- `2026-09-10` [[2026-09-10-ayar-labs-extends-round-to-650m-as-copper-interconnect-hits|Ayar Labs Extends Round to $650M as Copper Interconnect Hits Its Limit]]
 - `2026-09-09` [[2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight|Nvidia partners with Australia on a 2GW buildout with eight local operators]]
 - `2026-09-08` [[2026-09-08-arm-doubles-its-semi-custom-server-ceiling-with-neoverse-css|Arm doubles its semi-custom server ceiling with Neoverse CSS N4 for agentic workloads]]
 - `2026-09-07` [[2026-09-07-wafer-a-non-nvidia-inference-provider-fields-acquisition-off|Wafer, a non-Nvidia inference provider, fields acquisition offers at $200M+ valuation]]

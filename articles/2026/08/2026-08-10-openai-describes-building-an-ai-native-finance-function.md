@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: OpenAI Blog
 url_original: https://openai.com/index/building-an-ai-native-finance-function/
 url_canonical: https://openai.com/index/building-an-ai-native-finance-function/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-11_060740_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: bcf4c904be4ef57fce139bd4c72316af071e9679c3c2fc617d0b01ba76fe4bae

@@ -6,7 +6,7 @@ date: '2026-08-02'
 source: Gizmodo
 url_original: https://gizmodo.com/minnesotas-nudification-ban-is-now-in-effect-despite-xais-efforts-to-stop-it-2000793737
 url_canonical: https://gizmodo.com/minnesotas-nudification-ban-is-now-in-effect-despite-xais-efforts-to-stop-it-2000793737
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-03_062808_Inbox_Daily AI News Digest - August 3,
   2026.md
 content_hash: 26c6e398aa336c50e0b9f4d76e4b7c93b8601c2cbc0a15b6d842f6c1b20f7d5d

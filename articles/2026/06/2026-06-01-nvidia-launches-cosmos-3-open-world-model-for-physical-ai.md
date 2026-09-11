@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: NVIDIA Newsroom; NVIDIA Blog; Axios
 url_original: https://www.axios.com/2026/06/01/nvidia-ai-push-cosmos-3-world-model
 url_canonical: https://www.axios.com/2026/06/01/nvidia-ai-push-cosmos-3-world-model
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
 content_hash: 4b3ca10ee231df2d15d212ededcf27b776d5124ded6fcf5ea9ddcf31ac173028
 normalized_title_hash: ace12754a98d8466

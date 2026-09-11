@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: Forbes
 url_original: https://www.forbes.com/sites/richardnieva/2026/08/06/google-deepmind-london-mountain-view/
 url_canonical: https://www.forbes.com/sites/richardnieva/2026/08/06/google-deepmind-london-mountain-view/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-08_061253_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: cc4e3c887ca768f2f19d8f0e24c41d8a9580a989de817b4d913ec23966f2268c

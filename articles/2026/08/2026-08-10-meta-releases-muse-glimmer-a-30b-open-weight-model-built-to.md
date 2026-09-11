@@ -6,7 +6,7 @@ date: '2026-08-10'
 source: '[Fortune India]'
 url_original: https://www.fortuneindia.com/technology/meta-launches-muse-glimmer-a-30b-open-weight-ai-model-designed-to-run-locally/153062
 url_canonical: https://www.fortuneindia.com/technology/meta-launches-muse-glimmer-a-30b-open-weight-ai-model-designed-to-run-locally/153062
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-10_062245_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: e38c6ceebe1b4809bfd771f436859e54e57a1ed711c27b71769e5e4bb79d1f0f

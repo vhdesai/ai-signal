@@ -5,7 +5,7 @@ date: '2026-05-31'
 source: The Associated Press
 url_original: https://lasvegassun.com/news/2026/may/31/as-the-pentagon-pushes-for-battlefield-ai-some-mil/
 url_canonical: https://lasvegassun.com/news/2026/may/31/as-the-pentagon-pushes-for-battlefield-ai-some-mil/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_060804_Daily-AI-News-Digest.md
 content_hash: 7a04ef54aaaf98e379453f084a3f9bf1bcd53b494f740f436b6a916ba9b48301
 normalized_title_hash: dce5d6f4e4e81c3e

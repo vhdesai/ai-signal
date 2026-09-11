@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: 24/7 Wall St.
 url_original: https://www.aol.com/finance/ai-selloff-getting-brutal-10-150351661.html
 url_canonical: https://www.aol.com/finance/ai-selloff-getting-brutal-10-150351661.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-27_092146_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 8304c9c14c6c80e9e6fe24125f0ebf9d409c15cafa4c1ba8efd71c2e7e1586a5

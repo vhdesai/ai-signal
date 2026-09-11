@@ -5,7 +5,7 @@ date: '2026-05-22'
 source: IBTimes Singapore
 url_original: https://www.ibtimes.sg/deepseek-cuts-v4-pro-ai-model-prices-by-75-amid-china-ai-race-86852
 url_canonical: https://www.ibtimes.sg/deepseek-cuts-v4-pro-ai-model-prices-by-75-amid-china-ai-race-86852
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 3132727c3664602f28c83cc297099cf218838348b10a7fa3c30c8f2d35bd0a17

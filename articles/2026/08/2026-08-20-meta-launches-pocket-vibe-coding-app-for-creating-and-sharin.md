@@ -6,7 +6,7 @@ date: '2026-08-20'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/
 url_canonical: https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_060941_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 6b8664e2b1f7c41ef0c83ba0fea5206db21ab420869f0c5dd66e4ad7ad53e471

@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=claude+salesforce+small+firms
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=claude+salesforce+small+firms
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-06_084325_Final-Daily-AI-News-Digest.md
 content_hash: d9abc9c32d2933d29656dcbc990229b7a8d4c25e3a88af411e60278b30f7584d
 normalized_title_hash: 7150436e40a6c43b

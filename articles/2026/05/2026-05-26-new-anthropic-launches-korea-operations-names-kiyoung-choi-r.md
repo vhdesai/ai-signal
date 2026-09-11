@@ -6,7 +6,7 @@ date: '2026-05-26'
 source: Anthropic Newsroom
 url_original: https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea
 url_canonical: https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_072257_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: b0456fa8ce098c91953183eaac70197354c88d9599d93b2dbd72d6b44a03785e

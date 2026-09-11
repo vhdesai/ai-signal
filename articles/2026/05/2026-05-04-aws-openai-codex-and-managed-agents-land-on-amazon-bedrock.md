@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon
 - 2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock
 - 2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending
+- 2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents
 - 2026-08-11-openai-s-daybreak-cyber-defense-models-land-on-amazon-bedroc
-- 2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed
 embedding_id: 2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AWS expanded its OpenAI partnership: GPT-5.5 and GPT-5.4 are coming to Bedrock A
 
 **Entities:** [[Amazon]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock]] · [[2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending]] · [[2026-08-11-openai-s-daybreak-cyber-defense-models-land-on-amazon-bedroc]] · [[2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed]]
+**Related:** [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock]] · [[2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending]] · [[2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents]] · [[2026-08-11-openai-s-daybreak-cyber-defense-models-land-on-amazon-bedroc]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/
 url_canonical: https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_060941_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: e060dc5f5a7d6dfb52f5842636a05f0479f8860a8c5441283abbfc33a1ddd1a9

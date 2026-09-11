@@ -5,7 +5,7 @@ date: '2026-07-07'
 source: BAIR Blog
 url_original: https://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/
 url_canonical: https://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-08_061307_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: e2a52e4c816268732687bde3c643e5b8e63688682018596ed487183f9970062f

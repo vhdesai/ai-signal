@@ -6,7 +6,7 @@ date: '2026-05-31'
 source: CNBC*
 url_original: https://www.cnbc.com/2026/05/31/us-takes-step-to-halt-nvidia-ai-chip-shipments-to-chinese-firms-outside-china.html
 url_canonical: https://www.cnbc.com/2026/05/31/us-takes-step-to-halt-nvidia-ai-chip-shipments-to-chinese-firms-outside-china.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-31_163732_Daily-AI-News-Digest.md
 content_hash: 3d0cf6b37f946e78b250dad9cdfe79de699f99b3883057e63cbbf2ef29131e6b
 normalized_title_hash: 0fcaf0e63fad9d27

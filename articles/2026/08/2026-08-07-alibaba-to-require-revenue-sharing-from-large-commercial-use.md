@@ -6,7 +6,7 @@ date: '2026-08-07'
 source: '[Yahoo Finance]'
 url_original: https://finance.yahoo.com/technology/ai/articles/alibaba-plans-revenue-sharing-next-131417995.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/alibaba-plans-revenue-sharing-next-131417995.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-08_062022_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 3c0f5662e747586da578f0245c34d5be10a3a5e03c4e0dac1247a63c0dd6285c

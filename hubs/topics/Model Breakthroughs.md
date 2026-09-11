@@ -1,17 +1,19 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 2885
+member_count: 2887
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 2885 connected article(s).
+> Auto-generated topic hub. 2887 connected article(s).
 
 - `2026-09-10` [[2026-09-10-ibm-and-nasa-release-open-source-ai-foundation-model-for-lun|IBM and NASA release open-source AI foundation model for lunar science]]
 - `2026-09-10` [[2026-09-10-ibm-and-nasa-release-an-open-source-ai-foundation-model-for|IBM and NASA release an open-source AI foundation model for lunar science]]
 - `2026-09-10` [[2026-09-10-google-deepmind-proposes-autoregressive-ranking-to-replace-d|Google DeepMind proposes Autoregressive Ranking to replace dual/cross-encoder search stacks]]
 - `2026-09-10` [[2026-09-10-deepseek-releases-v4-1-flash-with-1m-context-fp4-kv-cache-an|DeepSeek releases V4.1-Flash with 1M context, FP4 KV cache and encoder/decoder split]]
+- `2026-09-10` [[2026-09-10-deepseek-ships-v4-1-flash-and-retires-its-flagship-behind-it|DeepSeek Ships V4.1-Flash and Retires Its Flagship Behind It]]
+- `2026-09-10` [[2026-09-10-cognition-s-swe-2-post-trains-a-chinese-open-model-to-near-f|Cognition's SWE-2 Post-Trains a Chinese Open Model to Near-Frontier Coding]]
 - `2026-09-09` [[2026-09-09-suno-retires-its-model-line-for-label-licensed-v6-family|Suno retires its model line for label-licensed v6 family]]
 - `2026-09-09` [[2026-09-09-openai-s-agent-generated-navier-stokes-proof-draws-lean-veri|OpenAI's agent-generated Navier–Stokes proof draws Lean verification and a credit dispute]]
 - `2026-09-09` [[2026-09-09-openai-claims-10-000-agent-system-produced-navier-stokes-pro|OpenAI claims 10,000-agent system produced Navier–Stokes proof in 88 hours]]

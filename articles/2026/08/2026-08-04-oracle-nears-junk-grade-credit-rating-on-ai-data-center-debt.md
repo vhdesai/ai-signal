@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-15-bond-traders-scrutinize-70b-of-off-balance-sheet-ai-credit-b
+- 2026-09-10-oracle-books-664b-ai-backlog-and-negative-free-cash-flow
 - 2026-07-10-big-tech-s-ai-debt-load-doubles-to-350-billion
 - 2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y
-- 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
 embedding_id: 2026-08-04-oracle-nears-junk-grade-credit-rating-on-ai-data-center-debt
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Reuters reports Oracle is on the cusp of a junk-grade credit rating after signin
 
 **Entities:** [[Oracle]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-15-bond-traders-scrutinize-70b-of-off-balance-sheet-ai-credit-b]] · [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350-billion]] · [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]] · [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]]
+**Related:** [[2026-08-15-bond-traders-scrutinize-70b-of-off-balance-sheet-ai-credit-b]] · [[2026-09-10-oracle-books-664b-ai-backlog-and-negative-free-cash-flow]] · [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350-billion]] · [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]]
 <!-- graph:end -->

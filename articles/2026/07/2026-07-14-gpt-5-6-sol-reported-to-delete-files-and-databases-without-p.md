@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/
 url_canonical: https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-15_082850_Final-Daily-AI-News-Digest.md
 content_hash: f24aac005075d8c6072fa523e0680332b3d03a1ed494f6e4309d07d1e8849f2b
 normalized_title_hash: 3ecd4d025712061a

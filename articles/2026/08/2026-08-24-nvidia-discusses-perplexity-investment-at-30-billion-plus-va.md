@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+Perplexity+investment
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+Perplexity+investment
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-24_065240_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 696a221d1f108c8376eb68e4cb795f1fad29d64ec9c47fe1374ebeec281f689d

@@ -1,17 +1,21 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4061
+member_count: 4067
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4061 connected article(s).
+> Auto-generated topic hub. 4067 connected article(s).
 
+- `2026-09-11` [[2026-09-11-former-openai-executive-fidji-simo-joins-nscale-s-board|Former OpenAI Executive Fidji Simo Joins Nscale's Board]]
 - `2026-09-10` [[2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten|The Information: SpaceX overhauls data-center build-out, potentially slowing expansion]]
+- `2026-09-10` [[2026-09-10-oracle-books-664b-ai-backlog-and-negative-free-cash-flow|Oracle Books $664B AI Backlog — and Negative Free Cash Flow]]
+- `2026-09-10` [[2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents|OpenAI Opens the Codex Harness to Developers via the Agents API]]
 - `2026-09-10` [[2026-09-10-nvidia-and-palantir-productize-a-sovereign-supply-chain-ai-s|Nvidia and Palantir productize a sovereign supply-chain AI stack, starting with Nvidia's own chain]]
 - `2026-09-10` [[2026-09-10-nvidia-and-palantir-productize-a-sovereign-ai-stack-with-nvi|Nvidia and Palantir productize a sovereign AI stack, with Nvidia as first customer]]
 - `2026-09-10` [[2026-09-10-nvidia-and-palantir-deploy-a-sovereign-ai-stack-with-nvidia|Nvidia and Palantir deploy a sovereign AI stack, with Nvidia as first customer]]
+- `2026-09-10` [[2026-09-10-nvidia-and-palantir-ship-a-sovereign-ai-stack-with-nvidia-as|NVIDIA and Palantir Ship a Sovereign AI Stack — With NVIDIA as Customer Zero]]
 - `2026-09-10` [[2026-09-10-mistral-valued-at-21b-after-3b-round-asml-maintains-400m-sta|Mistral valued at €21B after €3B round; ASML maintains €400M stake]]
 - `2026-09-10` [[2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne|Mistral partners with Cloudera on sovereign enterprise AI; new €21B valuation caps €3B Samsung-led round]]
 - `2026-09-10` [[2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai|Mistral and Cloudera partner on sovereign enterprise AI]]
@@ -19,11 +23,13 @@ member_count: 4061
 - `2026-09-09` [[2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis|The Information: OpenAI blocks Adobe and others from advertising competing AI in ChatGPT]]
 - `2026-09-09` [[2026-09-09-the-information-confusion-reigns-over-the-white-house-s-ai-w|The Information: Confusion reigns over the White House's AI whitelist]]
 - `2026-09-09` [[2026-09-09-sergey-brin-is-quietly-reshaping-google-s-gemini-roadmap|Sergey Brin is quietly reshaping Google's Gemini roadmap]]
+- `2026-09-09` [[2026-09-09-sergey-brin-cements-influence-over-google-s-gemini-roadmap|Sergey Brin Cements Influence Over Google's Gemini Roadmap]]
 - `2026-09-09` [[2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t|Oracle is the AI hyperscaler most likely to blink; earnings today are the tell]]
-- `2026-09-09` [[2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing|OpenAI cuts off Adobe and others from advertising competing AI products in ChatGPT]]
+- `2026-09-09` [[2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing|OpenAI Cuts Off Adobe and Others From Advertising Competing AI Products in ChatGPT]]
 - `2026-09-09` [[2026-09-09-meta-ships-muse-consumer-agent-with-a-kernel-enforced-securi|Meta ships Muse consumer agent with a kernel-enforced security boundary]]
 - `2026-09-09` [[2026-09-09-meta-employees-flagged-muse-security-failures-during-pre-lau|Meta employees flagged Muse security failures during pre-launch testing]]
 - `2026-09-09` [[2026-09-09-legal-ai-startup-harvey-reaches-15-5b-valuation-on-a-550m-ro|Legal AI startup Harvey reaches $15.5B valuation on a $550M round]]
+- `2026-09-09` [[2026-09-09-katzenberg-teams-with-former-openai-sora-head-on-new-ai-vide|Katzenberg Teams With Former OpenAI Sora Head on New AI Video Startup]]
 - `2026-09-09` [[2026-09-09-jeffrey-katzenberg-teams-up-with-former-openai-sora-head-on|Jeffrey Katzenberg teams up with former OpenAI Sora head on new AI video startup]]
 - `2026-09-09` [[2026-09-09-harvey-raises-550m-at-15-5b-valuation-for-legal-ai|Harvey raises $550M at $15.5B valuation for legal AI]]
 - `2026-09-09` [[2026-09-09-china-curbs-humanoid-ipos-after-unitree-s-volatile-debut|China curbs humanoid IPOs after Unitree's volatile debut]]

@@ -5,7 +5,7 @@ date: '2026-09-09'
 source: Business Insider
 url_original: https://www.businessinsider.com/sergey-brin-gemini-google-ai-influence-2026-9
 url_canonical: https://www.businessinsider.com/sergey-brin-gemini-google-ai-influence-2026-9
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: 4bf1137c1017829603d355f6576a5974915517ef50a7f7a21102285003995a61
 normalized_title_hash: 5fe3b6c8e1b8b2a3
@@ -18,11 +18,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-13-google-tightens-control-over-deepmind-as-gemini-faces-compet
-- 2026-08-12-deepmind-shakeup-kavukcuoglu-takes-over-sergey-brin-goes-all
+dedupe_status: duplicate
+canonical_article_id: 2026-09-09-sergey-brin-cements-influence-over-google-s-gemini-roadmap
+related_article_ids: []
 embedding_id: 2026-09-09-sergey-brin-is-quietly-reshaping-google-s-gemini-roadmap
 event_name: ''
 ---
@@ -36,5 +34,5 @@ Alphabet co-founder Sergey Brin has gained more direct influence over Gemini in 
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-13-google-tightens-control-over-deepmind-as-gemini-faces-compet]] · [[2026-08-12-deepmind-shakeup-kavukcuoglu-takes-over-sergey-brin-goes-all]]
+**Canonical:** [[2026-09-09-sergey-brin-cements-influence-over-google-s-gemini-roadmap]]
 <!-- graph:end -->

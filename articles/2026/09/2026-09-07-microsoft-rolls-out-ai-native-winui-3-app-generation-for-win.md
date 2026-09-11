@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: TechPowerUp
 url_original: https://www.techpowerup.com/342458/microsoft-now-lets-ai-build-native-winui-3-apps-for-windows-11-in-under-30-minutes
 url_canonical: https://www.techpowerup.com/342458/microsoft-now-lets-ai-build-native-winui-3-apps-for-windows-11-in-under-30-minutes
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_142255_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 9361f52935c88548cbf4da3d59faa2d24698f32c006c2019d3eb206473cf6fea

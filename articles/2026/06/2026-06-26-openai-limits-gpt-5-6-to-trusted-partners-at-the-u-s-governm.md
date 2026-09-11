@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: CNBC
 url_original: https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html
 url_canonical: https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-27_091929_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: c08ae9cfc3e2ff5008c48eafb833a36bbaf3cbb7386dd391302e412dddf11147

@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Wall Street Journal**
 url_original: https://www.wsj.com/tech/ai/anthropic-ai-models-hacked-three-companies-during-tests-bd752c86
 url_canonical: https://www.wsj.com/tech/ai/anthropic-ai-models-hacked-three-companies-during-tests-bd752c86
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-01_065003_Final-Daily-AI-News-Digest.md
 content_hash: 079cd730ac4ed112127e4556e6e1c8479012ddadf7f04f224c463c050191b040
 normalized_title_hash: d1b371436f100d6f

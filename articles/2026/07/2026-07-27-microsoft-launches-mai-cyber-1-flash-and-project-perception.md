@@ -6,7 +6,7 @@ date: '2026-07-27'
 source: VentureBeat**
 url_original: https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs
 url_canonical: https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-28_065054_Final-Daily-AI-News-Digest.md
 content_hash: 5f67eea288665fd5b9a0775f4d0f4434763752142a3542cfd63edb7114f55e6c
 normalized_title_hash: c96f353875896c5c

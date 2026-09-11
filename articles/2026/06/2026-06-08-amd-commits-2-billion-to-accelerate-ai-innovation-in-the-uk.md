@@ -5,7 +5,7 @@ date: '2026-06-08'
 source: AMD Investor Relations
 url_original: https://ir.amd.com/news-events/press-releases/detail/1288/amd-commits-up-to-2-billion-to-accelerate-ai-innovation-and-research-in-the-united-kingdom
 url_canonical: https://ir.amd.com/news-events/press-releases/detail/1288/amd-commits-up-to-2-billion-to-accelerate-ai-innovation-and-research-in-the-united-kingdom
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-08_070034_Final-Daily-AI-News-Digest.md
 content_hash: c05c9cb0929b32524463a7354f5bbb596eb993bebaa178d03071148b8a23cc4f
 normalized_title_hash: e63f8dde8b2f03a7

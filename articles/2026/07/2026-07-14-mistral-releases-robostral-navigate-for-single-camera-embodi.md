@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: Mistral AI
 url_original: https://mistral.ai/news/robostral-navigate/
 url_canonical: https://mistral.ai/news/robostral-navigate/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_060635_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 641cc60c4a3e669b12502749c0448cf52811ec4ba595f7ed4ee9d3fd0b625e53

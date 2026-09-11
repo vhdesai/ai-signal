@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: the-decoder
 url_original: https://the-decoder.com/stripping-safety-guardrails-from-open-weight-ai-models-is-now-a-turnkey-commercial-service/
 url_canonical: https://the-decoder.com/stripping-safety-guardrails-from-open-weight-ai-models-is-now-a-turnkey-commercial-service/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_070457_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: bd22c3a9e6d4fe9918d4267246ab3a2febd642741ad2125bb96f7b53dc522891

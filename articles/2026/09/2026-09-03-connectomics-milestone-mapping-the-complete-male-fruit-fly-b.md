@@ -5,7 +5,7 @@ date: '2026-09-03'
 source: Google Research
 url_original: https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/
 url_canonical: https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-04_061134_Inbox_Daily AI News Digest – September
   4, 2026.md
 content_hash: 98be992304e0c9847c610445b42522d94cfb62ea8e923ca72ec64d597d120d48

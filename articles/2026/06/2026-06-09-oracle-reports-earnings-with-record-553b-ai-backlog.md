@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-10-oracle-reports-record-q4-oci-revenue-surges-93-yoy-ai-backlo
+- 2026-09-10-oracle-books-664b-ai-backlog-and-negative-free-cash-flow
 - 2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-spending-guidance-spo
 - 2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-capex-guidance-spooke
 - 2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y
-- 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
 embedding_id: 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Oracle reports Q4 earnings with a record $553 billion AI backlog. Barron's noted
 
 **Entities:** [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-10-oracle-reports-record-q4-oci-revenue-surges-93-yoy-ai-backlo]] · [[2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-spending-guidance-spo]] · [[2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-capex-guidance-spooke]] · [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]]
+**Related:** [[2026-06-10-oracle-reports-record-q4-oci-revenue-surges-93-yoy-ai-backlo]] · [[2026-09-10-oracle-books-664b-ai-backlog-and-negative-free-cash-flow]] · [[2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-spending-guidance-spo]] · [[2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-capex-guidance-spooke]] · [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]]
 <!-- graph:end -->

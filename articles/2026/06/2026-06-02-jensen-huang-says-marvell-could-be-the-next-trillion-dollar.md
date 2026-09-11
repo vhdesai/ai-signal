@@ -6,7 +6,7 @@ date: '2026-06-02'
 source: CNBC; Reuters; Business Insider
 url_original: https://www.cnbc.com/2026/06/02/nvidia-jensen-huang-marvell-trillion-dollar-company.html
 url_canonical: https://www.cnbc.com/2026/06/02/nvidia-jensen-huang-marvell-trillion-dollar-company.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-02_060023_Daily-AI-News-Digest.md
 content_hash: 709b1cd55fb4db1282d298c72768620000b561bcc130bc40667bb859a820c0fe
 normalized_title_hash: c2e03c4ea4698c4f

@@ -6,7 +6,7 @@ date: '2026-08-30'
 source: MarkTechPost / encorp.ai
 url_original: https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds/
 url_canonical: https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: 041866cbf13d79787b5791d595e0d95215b590e041b37dea6bb871743ab3c797
 normalized_title_hash: bae5ca6ce7c4f6f0

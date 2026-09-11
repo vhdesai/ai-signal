@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: Forbes
 url_original: https://winbuzzer.com/ai/openai/
 url_canonical: https://winbuzzer.com/ai/openai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: ab1fb1bef7b12a8515691f0b142ed613ee3b8d82e8e70a4fc9bbeb8a8db63412
@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-24-meta-has-hired-the-entire-founding-team-of-dreamer-an-agenti
 - 2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru
+- 2026-09-09-katzenberg-teams-with-former-openai-sora-head-on-new-ai-vide
 - 2026-06-18-openai-hires-senior-public-company-operators-ahead-of-expect
-- 2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d
-- 2026-09-09-jeffrey-katzenberg-teams-up-with-former-openai-sora-head-on
+- 2026-09-11-former-openai-executive-fidji-simo-joins-nscale-s-board
 embedding_id: 2026-05-26-inside-openai-s-new-founder-experience-team-led-by-laura-mod
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI formalized a dedicated Founder Experience team under Laura Modiano (ex-Se
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-03-24-meta-has-hired-the-entire-founding-team-of-dreamer-an-agenti]] · [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]] · [[2026-06-18-openai-hires-senior-public-company-operators-ahead-of-expect]] · [[2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d]] · [[2026-09-09-jeffrey-katzenberg-teams-up-with-former-openai-sora-head-on]]
+**Related:** [[2026-03-24-meta-has-hired-the-entire-founding-team-of-dreamer-an-agenti]] · [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]] · [[2026-09-09-katzenberg-teams-with-former-openai-sora-head-on-new-ai-vide]] · [[2026-06-18-openai-hires-senior-public-company-operators-ahead-of-expect]] · [[2026-09-11-former-openai-executive-fidji-simo-joins-nscale-s-board]]
 <!-- graph:end -->

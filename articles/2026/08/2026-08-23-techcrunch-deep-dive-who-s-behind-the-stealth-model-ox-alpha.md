@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/
 url_canonical: https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_060907_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: afcd9f66453d3deb62705516cb5080616cae7cdbd0e87c2fe66be41612329f4e

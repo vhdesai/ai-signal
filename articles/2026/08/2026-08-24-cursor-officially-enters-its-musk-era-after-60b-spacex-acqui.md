@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Cursor+Musk+era+SpaceX+acquisition
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Cursor+Musk+era+SpaceX+acquisition
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-26_065740_Final-Daily-AI-News-Digest.md
 content_hash: 140106e698b18b772bb596d6a4a35244fecf541ef99f19e56a05d162c0437ad7
 normalized_title_hash: 4e3018d609e93518

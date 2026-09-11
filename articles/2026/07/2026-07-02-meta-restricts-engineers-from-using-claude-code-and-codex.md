@@ -5,7 +5,7 @@ date: '2026-07-02'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Meta+Claude+Code+Codex
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Meta+Claude+Code+Codex
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-03_062005_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: 3c1caaaee45d64b5c2093e8e528f0b6b123bba4a72e71fbc89e5833ec6e1e5ce

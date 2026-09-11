@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: Invezz
 url_original: https://invezz.com/news/2026/07/08/zhipu-seeks-4b-in-hong-kong-share-sale-after-ai-stock-rally/
 url_canonical: https://invezz.com/news/2026/07/08/zhipu-seeks-4b-in-hong-kong-share-sale-after-ai-stock-rally/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-09_061541_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: cc9fb7dc468d08f8a209cc31349c153ca563948709d58da16c3141e7a76af617

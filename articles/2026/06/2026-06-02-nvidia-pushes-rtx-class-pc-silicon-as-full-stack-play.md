@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: CNBC
 url_original: https://www.cnbc.com/2026/06/02/nvidias-new-pc-chips-are-ceos-bid-to-own-every-part-of-ai-stack.html
 url_canonical: https://www.cnbc.com/2026/06/02/nvidias-new-pc-chips-are-ceos-bid-to-own-every-part-of-ai-stack.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-03_083329_Inbox_Daily AI News Digest – June 3,
   2026 (Updated).md
 content_hash: 13ae68d89715cd015a594a996a2ce8f463327c75e08b87278d89229b0df51a84

@@ -5,7 +5,7 @@ date: '2026-07-20'
 source: CNBC**
 url_original: https://www.cnbc.com/2026/07/20/-chinas-zhongji-innolight-sees-shares-surge-after-hong-kong-listing-approval-.html
 url_canonical: https://www.cnbc.com/2026/07/20/-chinas-zhongji-innolight-sees-shares-surge-after-hong-kong-listing-approval-.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-22_065007_Final-Daily-AI-News-Digest.md
 content_hash: 12b8b24fa0e8ff046c9dc51589e8f4922aec0a908a9d74d1957aea934f1e6a32
 normalized_title_hash: 5be9a0ba12db96b4

@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: Reuters
 url_original: https://www.globalbankingandfinance.com/openai-triple-workforce-dublin-european-headquarters-350/
 url_canonical: https://www.globalbankingandfinance.com/openai-triple-workforce-dublin-european-headquarters-350/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-27_061621_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: 3dc1ca7fd7287f83926fb33b7080e5b54f50eedd12fe973fd0f370b4ae15c0b6
