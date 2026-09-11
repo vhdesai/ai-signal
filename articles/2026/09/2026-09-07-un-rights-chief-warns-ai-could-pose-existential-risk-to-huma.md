@@ -4,8 +4,8 @@ title: UN rights chief warns AI could pose existential risk to humanity
 date: '2026-09-07'
 source: Reuters
 url_original: null
-url_canonical: https://www.rttnews.com/story.aspx?Id=3689118
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-07_061000_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 80453e740c299e355821f993f4c20b5876116cb40f96274322bf76eb31376410

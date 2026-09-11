@@ -1,14 +1,23 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1215
+member_count: 1225
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1215 connected article(s).
+> Auto-generated topic hub. 1225 connected article(s).
 
+- `2026-09-10` [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par|Nvidia commits to Australia 2GW AI buildout with 8 local partners]]
+- `2026-09-10` [[2026-09-10-huawei-raises-ascend-ai-chip-prices-60-as-china-s-nvidia-alt|Huawei raises Ascend AI chip prices ~60% as China's Nvidia alternatives face supply crunch]]
+- `2026-09-10` [[2026-09-10-huawei-lifts-ascend-950dt-pricing-60-as-hbm-shortage-reaches|Huawei lifts Ascend 950DT pricing ~60% as HBM shortage reaches China]]
+- `2026-09-10` [[2026-09-10-deepseek-releases-v4-1-flash-with-1m-context-fp4-kv-cache-an|DeepSeek releases V4.1-Flash with 1M context, FP4 KV cache and encoder/decoder split]]
+- `2026-09-10` [[2026-09-10-anthropic-grants-eu-cybersecurity-agency-enisa-access-to-myt|Anthropic grants EU cybersecurity agency ENISA access to Mythos 5; Mythos 5.1 still withheld]]
+- `2026-09-09` [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo|US government accuses six Chinese AI firms of large-scale model distillation]]
+- `2026-09-09` [[2026-09-09-nsa-cisa-and-fbi-name-six-chinese-labs-over-industrial-scale|NSA, CISA, and FBI name six Chinese labs over industrial-scale distillation]]
+- `2026-09-09` [[2026-09-09-china-curbs-humanoid-ipos-after-unitree-s-volatile-debut|China curbs humanoid IPOs after Unitree's volatile debut]]
 - `2026-09-07` [[2026-09-07-tencent-restructures-bilibili-stake-into-debt-as-it-funds-ai|Tencent restructures Bilibili stake into debt as it funds AI initiatives]]
+- `2026-09-07` [[2026-09-07-sensetime-returns-to-profit-by-pivoting-from-model-size-race|SenseTime returns to profit by pivoting from model-size race to enterprise workflows]]
 - `2026-09-07` [[2026-09-07-sensetime-returns-to-profit-as-it-pivots-from-model-size-rac|SenseTime returns to profit as it pivots from model-size race to enterprise workflows]]
 - `2026-09-07` [[2026-09-07-nvidia-s-12-93b-hugging-face-acquisition-becomes-definitive|Nvidia’s $12.93B Hugging Face acquisition becomes definitive, raising gatekeeper questions]]
 - `2026-09-07` [[2026-09-07-malaysia-weighs-adopting-huawei-ai-chips-despite-explicit-us|Malaysia weighs adopting Huawei AI chips despite explicit US warnings]]
@@ -16,10 +25,11 @@ member_count: 1215
 - `2026-09-07` [[2026-09-07-japan-s-preferred-networks-seeks-an-ipo-to-fund-chip-mass-pr|Japan's Preferred Networks seeks an IPO to fund chip mass production]]
 - `2026-09-07` [[2026-09-07-ifm-releases-k2-horizon-six-apache-2-0-open-weight-models-sp|IFM releases K2 Horizon: six Apache 2.0 open-weight models spanning 0.9B to 375B]]
 - `2026-09-07` [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-chi|Huawei ships Kirin 9050 Pro built on its Tau Scaling Law chip architecture]]
-- `2026-09-07` [[2026-09-07-china-s-moonshot-and-z-ai-bring-ai-model-subscriptions-to-al|China's Moonshot and Z.ai bring AI-model subscriptions to Alibaba's Tmall retail platform]]
+- `2026-09-07` [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc|Huawei ships Kirin 9050 Pro built on its Tau Scaling Law architecture]]
+- `2026-09-07` [[2026-09-07-china-s-moonshot-and-z-ai-bring-ai-model-subscriptions-to-al|China's Moonshot and Z.ai bring AI-model subscriptions to Alibaba's Tmall]]
 - `2026-09-07` [[2026-09-07-cxmt-points-to-smartphone-and-ai-gains-as-it-climbs-the-memo|CXMT points to smartphone and AI gains as it climbs the memory market]]
+- `2026-09-07` [[2026-09-07-alibaba-releases-qwen-drive-1-0-a-unified-perception-and-pla|Alibaba releases Qwen-Drive 1.0, a unified perception-and-planning model for vehicles]]
 - `2026-09-07` [[2026-09-07-alibaba-releases-qwen-drive-1-0-a-unified-perception-plannin|Alibaba releases Qwen-Drive 1.0, a unified perception, planning, and dialogue model for vehicles]]
-- `2026-09-06` [[2026-09-06-xai-loses-another-round-against-minnesota-s-synthetic-imager|xAI loses another round against Minnesota’s synthetic-imagery law]]
 - `2026-09-06` [[2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further|Report: China's AI giants stretch each compute dollar further than US rivals]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
 - `2026-09-06` [[2026-09-06-meta-fair-oxford-and-ucl-introduce-research-preference-model|Meta FAIR, Oxford and UCL introduce Research Preference Models that rank experiments before spending GPU hours]]

@@ -4,8 +4,8 @@ title: AI leaders reframe AGI as a “fuzzy target” rather than a measurable m
 date: '2026-09-07'
 source: Bloomberg
 url_original: null
-url_canonical: https://www.bloomberg.com/news/newsletters/2026-09-07/when-will-we-achieve-agi-ai-leaders-now-say-it-s-a-fuzzy-target
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-07_060333_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: e7ef16c39da84cd093ca53ba87a7f85de5237bc2cb09116e076babf1bf294cc2

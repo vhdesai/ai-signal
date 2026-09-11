@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure
 - 2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo
+- 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
 - 2026-08-29-aws-and-nvidia-to-deploy-two-million-additional-gpus-for-ai
 - 2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories
-- 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 embedding_id: 2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers
 event_name: ''
 ---
@@ -40,5 +40,5 @@ NVIDIA announced a record slate of 35 AI supercomputers across Europe as part of
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-08-29-aws-and-nvidia-to-deploy-two-million-additional-gpus-for-ai]] · [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]]
+**Related:** [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par]] · [[2026-08-29-aws-and-nvidia-to-deploy-two-million-additional-gpus-for-ai]] · [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories]]
 <!-- graph:end -->

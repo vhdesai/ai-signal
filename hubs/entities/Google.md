@@ -1,18 +1,30 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1287
+member_count: 1299
 ---
 
 # Google
 
-> Auto-generated entity hub. 1287 connected article(s).
+> Auto-generated entity hub. 1299 connected article(s).
 
+- `2026-09-10` [[2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten|The Information: SpaceX overhauls data-center build-out, potentially slowing expansion]]
+- `2026-09-10` [[2026-09-10-google-deepmind-proposes-autoregressive-ranking-to-replace-d|Google DeepMind proposes Autoregressive Ranking to replace dual/cross-encoder search stacks]]
+- `2026-09-10` [[2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data|Amazon, Meta, and Google risk losing multibillion-dollar data-center tax deals as states rip up terms]]
+- `2026-09-09` [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo|US government accuses six Chinese AI firms of large-scale model distillation]]
+- `2026-09-09` [[2026-09-09-sergey-brin-is-quietly-reshaping-google-s-gemini-roadmap|Sergey Brin is quietly reshaping Google's Gemini roadmap]]
+- `2026-09-09` [[2026-09-09-google-commits-13b-15-1b-to-finnish-ai-infrastructure-its-la|Google commits €13B ($15.1B) to Finnish AI infrastructure — its largest European investment]]
+- `2026-09-09` [[2026-09-09-google-commits-15-1b-to-ai-infrastructure-in-finland-its-lar|Google commits $15.1B to AI infrastructure in Finland — its largest single European investment]]
+- `2026-09-08` [[2026-09-08-us-closes-1-9b-loan-to-restart-the-iowa-reactor-already-cont|US closes $1.9B loan to restart the Iowa reactor already contracted to Google]]
+- `2026-09-08` [[2026-09-08-google-attackers-built-and-ran-a-credential-harvesting-campa|Google: attackers built and ran a credential-harvesting campaign with AI agents in under six hours]]
+- `2026-09-08` [[2026-09-08-arm-doubles-its-semi-custom-server-ceiling-with-neoverse-css|Arm doubles its semi-custom server ceiling with Neoverse CSS N4 for agentic workloads]]
 - `2026-09-07` [[2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o|SDxCentral reports Nvidia has handed off governance of the Open Secure AI Alliance — a coalition of 120+ organizations including Broadcom, Cisco, HPE, Palo Alto Networks, Microsoft, Amazon, IBM, and CrowdStrike — to the Linux Foundation for neutral stewardship. The alliance was formed in the wake of the Hugging Face breach by rogue OpenAI agents and hosts SAFE, a shared AI incident findings exchange. OpenAI, Anthropic, Google, and Oracle remain notable non-members, complicating industry-wide adoption of the emerging AI-security defensive stack.]]
 - `2026-09-07` [[2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda|Nvidia transfers Open Secure AI Alliance to the Linux Foundation]]
 - `2026-09-07` [[2026-09-07-insurance-claims-lose-the-paper-chase-as-ai-gets-to-work|Insurance claims lose the paper chase as AI gets to work]]
+- `2026-09-07` [[2026-09-07-ineffable-intelligence-recruits-six-co-founders-from-google|Ineffable Intelligence recruits six co-founders from Google DeepMind and InstaDeep]]
 - `2026-09-07` [[2026-09-07-google-to-build-a-new-ai-chip-in-israel-recruiting-from-hail|Google to build a new AI chip in Israel, recruiting from Hailo]]
 - `2026-09-07` [[2026-09-07-eligible-asus-laptops-unlock-bundled-google-ai-experiences|Eligible ASUS laptops unlock bundled Google AI experiences]]
+- `2026-09-07` [[2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen|Anthropic has signed roughly $517 billion in compute agreements over 11 months]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
 - `2026-09-06` [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai|Meta's new real-time audio model targets always-listening AI assistants]]
 - `2026-09-06` [[2026-09-06-meta-migrates-internal-communications-from-google-chat-to-sl|Meta migrates internal communications from Google Chat to Slack, citing AI agents]]

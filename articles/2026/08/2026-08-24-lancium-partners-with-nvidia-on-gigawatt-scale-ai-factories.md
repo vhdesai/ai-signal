@@ -26,6 +26,8 @@ related_article_ids:
 - 2026-08-08-nvidia-invests-up-to-3b-in-blackstone-backed-power-firm-lanc
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-09-02-equinix-partners-with-nvidia-to-carve-a-niche-in-the-ai-data
+- 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
+- 2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight
 embedding_id: 2026-08-24-lancium-partners-with-nvidia-on-gigawatt-scale-ai-factories
 event_name: ''
 ---
@@ -39,5 +41,5 @@ Lancium announced a partnership with Nvidia to advance gigawatt-scale AI factory
 
 **Entities:** [[NVIDIA]] · [[Scale AI]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-08-nvidia-invests-up-to-3b-in-blackstone-backed-power-firm-lanc]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-09-02-equinix-partners-with-nvidia-to-carve-a-niche-in-the-ai-data]]
+**Related:** [[2026-08-08-nvidia-invests-up-to-3b-in-blackstone-backed-power-firm-lanc]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-09-02-equinix-partners-with-nvidia-to-carve-a-niche-in-the-ai-data]] · [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par]] · [[2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight]]
 <!-- graph:end -->

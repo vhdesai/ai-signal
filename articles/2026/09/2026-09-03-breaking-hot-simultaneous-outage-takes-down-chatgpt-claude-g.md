@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-07-simultaneous-outages-hit-chatgpt-claude-and-grok
+- 2026-09-07-chatgpt-claude-and-grok-degrade-simultaneously
 - 2026-09-07-post-mortem-chatgpt-claude-and-grok-all-failed-within-roughl
 - 2026-09-04-chatgpt-claude-and-grok-reportedly-face-simultaneous-outages
 - 2026-09-03-chatgpt-claude-and-grok-hit-by-overlapping-outages
-- 2026-09-03-simultaneous-ai-service-outages-expose-correlated-dependency
 embedding_id: 2026-09-03-breaking-hot-simultaneous-outage-takes-down-chatgpt-claude-g
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A Thursday-evening incident knocked out ChatGPT, Claude, Grok and Gemini at esse
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-09-07-simultaneous-outages-hit-chatgpt-claude-and-grok]] · [[2026-09-07-post-mortem-chatgpt-claude-and-grok-all-failed-within-roughl]] · [[2026-09-04-chatgpt-claude-and-grok-reportedly-face-simultaneous-outages]] · [[2026-09-03-chatgpt-claude-and-grok-hit-by-overlapping-outages]] · [[2026-09-03-simultaneous-ai-service-outages-expose-correlated-dependency]]
+**Related:** [[2026-09-07-simultaneous-outages-hit-chatgpt-claude-and-grok]] · [[2026-09-07-chatgpt-claude-and-grok-degrade-simultaneously]] · [[2026-09-07-post-mortem-chatgpt-claude-and-grok-all-failed-within-roughl]] · [[2026-09-04-chatgpt-claude-and-grok-reportedly-face-simultaneous-outages]] · [[2026-09-03-chatgpt-claude-and-grok-hit-by-overlapping-outages]]
 <!-- graph:end -->

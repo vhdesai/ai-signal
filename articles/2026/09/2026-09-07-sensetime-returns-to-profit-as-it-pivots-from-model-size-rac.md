@@ -21,10 +21,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-07-sensetime-returns-to-profit-by-pivoting-from-model-size-race
 - 2026-05-23-sensetime-the-us-sanctioned-hong-kong-ai-firm-is-repositioni
 - 2026-05-18-sensetime-co-founder-lin-dahua-told-cnbc-that-the-u-s-sancti
 - 2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down
-- 2026-07-30-thursday-july-30-2026
 embedding_id: 2026-09-07-sensetime-returns-to-profit-as-it-pivots-from-model-size-rac
 event_name: ''
 ---
@@ -37,5 +37,5 @@ SenseTime reported first-half 2026 net profit of 617.3 million yuan (~$92M), wit
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-23-sensetime-the-us-sanctioned-hong-kong-ai-firm-is-repositioni]] · [[2026-05-18-sensetime-co-founder-lin-dahua-told-cnbc-that-the-u-s-sancti]] · [[2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down]] · [[2026-07-30-thursday-july-30-2026]]
+**Related:** [[2026-09-07-sensetime-returns-to-profit-by-pivoting-from-model-size-race]] · [[2026-05-23-sensetime-the-us-sanctioned-hong-kong-ai-firm-is-repositioni]] · [[2026-05-18-sensetime-co-founder-lin-dahua-told-cnbc-that-the-u-s-sancti]] · [[2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down]]
 <!-- graph:end -->

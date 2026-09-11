@@ -4,8 +4,8 @@ title: OpenAI sends EU incident report on hijacked German website, Commission sa
 date: '2026-09-07'
 source: Reuters
 url_original: null
-url_canonical: https://live.euronext.com/en/financial-news/openai-has-sent-eu-incident-report-hijacked-german-website-commission-says
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-07_061000_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 646228b4e8e71b561580593876c5a25cbf6ecf8292d57a0767bcba2b05470437

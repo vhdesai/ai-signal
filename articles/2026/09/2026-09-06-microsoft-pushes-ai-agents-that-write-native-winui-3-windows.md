@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-07-microsoft-rolls-out-ai-native-winui-3-app-generation-for-win
+- 2026-09-07-microsoft-s-project-zenith-brings-ai-generated-native-winui
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications
 - 2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
-- 2026-05-29-openai-brings-codex-computer-use-to-windows
 embedding_id: 2026-09-06-microsoft-pushes-ai-agents-that-write-native-winui-3-windows
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft is combining AI agents with quick-start guides so developers can stand
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-07-microsoft-rolls-out-ai-native-winui-3-app-generation-for-win]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications]] · [[2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[2026-05-29-openai-brings-codex-computer-use-to-windows]]
+**Related:** [[2026-09-07-microsoft-rolls-out-ai-native-winui-3-app-generation-for-win]] · [[2026-09-07-microsoft-s-project-zenith-brings-ai-generated-native-winui]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications]] · [[2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]]
 <!-- graph:end -->

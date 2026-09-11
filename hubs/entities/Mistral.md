@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 198
+member_count: 203
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 198 connected article(s).
+> Auto-generated entity hub. 203 connected article(s).
 
+- `2026-09-10` [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par|Nvidia commits to Australia 2GW AI buildout with 8 local partners]]
+- `2026-09-10` [[2026-09-10-mistral-valued-at-21b-after-3b-round-asml-maintains-400m-sta|Mistral valued at €21B after €3B round; ASML maintains €400M stake]]
+- `2026-09-10` [[2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne|Mistral partners with Cloudera on sovereign enterprise AI; new €21B valuation caps €3B Samsung-led round]]
+- `2026-09-10` [[2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai|Mistral and Cloudera partner on sovereign enterprise AI]]
+- `2026-09-08` [[2026-09-08-mistral-raises-3b-at-24b-valuation-in-a-samsung-led-series-d|Mistral raises €3B at ~$24B valuation in a Samsung-led Series D]]
 - `2026-09-07` [[2026-09-07-ifm-releases-k2-horizon-six-apache-2-0-open-weight-models-sp|IFM releases K2 Horizon: six Apache 2.0 open-weight models spanning 0.9B to 375B]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
 - `2026-09-06` [[2026-09-06-mistral-reportedly-closes-3b-round-with-samsung-nvidia-and-s|Mistral reportedly closes €3B round with Samsung, Nvidia, and Scaleup Fund]]

@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-01-palo-alto-networks-frontier-ai-now-tips-the-scales-toward-at
 - 2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto
+- 2026-09-09-openai-appoints-paul-christiano-to-foundation-board-and-safe
 - 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
 - 2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur
 embedding_id: 2026-06-02-center-for-ai-safety-expands-creates-national-security-focus
@@ -39,5 +40,5 @@ CAIS named former xAI leader Devin Kim as president and established the Frontier
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-01-palo-alto-networks-frontier-ai-now-tips-the-scales-toward-at]] · [[2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur]]
+**Related:** [[2026-09-01-palo-alto-networks-frontier-ai-now-tips-the-scales-toward-at]] · [[2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto]] · [[2026-09-09-openai-appoints-paul-christiano-to-foundation-board-and-safe]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur]]
 <!-- graph:end -->

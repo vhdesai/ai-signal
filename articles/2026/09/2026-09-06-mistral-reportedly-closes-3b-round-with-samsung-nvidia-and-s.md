@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-08-mistral-raises-3b-at-24b-valuation-in-a-samsung-led-series-d
 - 2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da
 - 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
 - 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
 - 2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories
-- 2026-05-18-deepseek-closes-4b-round-intensifying-the-open-weights-compe
 embedding_id: 2026-09-06-mistral-reportedly-closes-3b-round-with-samsung-nvidia-and-s
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Reporting from Brief IA says Mistral has closed or is closing a €3 billion fun
 
 **Entities:** [[Mistral]] · [[NVIDIA]] · [[Samsung]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories]] · [[2026-05-18-deepseek-closes-4b-round-intensifying-the-open-weights-compe]]
+**Related:** [[2026-09-08-mistral-raises-3b-at-24b-valuation-in-a-samsung-led-series-d]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories]]
 <!-- graph:end -->

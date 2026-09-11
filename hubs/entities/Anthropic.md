@@ -1,17 +1,35 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 1825
+member_count: 1845
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 1825 connected article(s).
+> Auto-generated entity hub. 1845 connected article(s).
 
+- `2026-09-10` [[2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face|OpenAI faces GOP-led Senate investigation over Hugging Face agent breach]]
+- `2026-09-10` [[2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas|OpenAI board member says lab is not on track to reduce catastrophic loss-of-control risk]]
+- `2026-09-10` [[2026-09-10-deepseek-releases-v4-1-flash-with-1m-context-fp4-kv-cache-an|DeepSeek releases V4.1-Flash with 1M context, FP4 KV cache and encoder/decoder split]]
+- `2026-09-10` [[2026-09-10-anthropic-grants-eu-cybersecurity-agency-enisa-access-to-myt|Anthropic grants EU cybersecurity agency ENISA access to Mythos 5; Mythos 5.1 still withheld]]
+- `2026-09-09` [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo|US government accuses six Chinese AI firms of large-scale model distillation]]
+- `2026-09-09` [[2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t|Oracle is the AI hyperscaler most likely to blink; earnings today are the tell]]
+- `2026-09-09` [[2026-09-09-openai-s-agent-generated-navier-stokes-proof-draws-lean-veri|OpenAI's agent-generated Navier–Stokes proof draws Lean verification and a credit dispute]]
+- `2026-09-09` [[2026-09-09-credit-dispute-over-the-navier-stokes-result-exposes-an-acad|Credit dispute over the Navier–Stokes result exposes an academia–lab attribution gap]]
+- `2026-09-09` [[2026-09-09-anthropic-withheld-claude-mythos-5-1-from-the-uk-ai-security|Anthropic withheld Claude Mythos 5.1 from the UK AI Security Institute]]
+- `2026-09-09` [[2026-09-09-anthropic-withheld-claude-mythos-5-1-from-uk-ai-security-ins|Anthropic withheld Claude Mythos 5.1 from UK AI Security Institute]]
+- `2026-09-09` [[2026-09-09-anthropic-researcher-resigns-alignment-lead-corroborates-and|Anthropic researcher resigns; alignment lead corroborates and puts extinction risk above 10%]]
+- `2026-09-09` [[2026-09-09-anthropic-pretraining-researcher-resigns-alignment-lead-puts|Anthropic pretraining researcher resigns; alignment lead puts extinction risk above 10%]]
+- `2026-09-09` [[2026-09-09-anthropic-pretraining-researcher-resigns-says-labs-are-gambl|Anthropic pretraining researcher resigns, says labs are "gambling with our lives"]]
+- `2026-09-08` [[2026-09-08-quanta-the-proof-is-lean-verified-but-scope-and-precedence-a|Quanta: the proof is Lean-verified, but scope and precedence are contested]]
+- `2026-09-08` [[2026-09-08-openai-s-luna-price-cut-drove-a-10x-usage-surge-taking-openr|OpenAI's Luna price cut drove a 10x usage surge, taking OpenRouter share from Anthropic]]
+- `2026-09-08` [[2026-09-08-credit-dispute-over-the-navier-stokes-result-exposes-an-acad|Credit dispute over the Navier–Stokes result exposes an academia–lab attribution gap]]
+- `2026-09-08` [[2026-09-08-ai-threats-are-reshaping-where-companies-spend-their-cyberse|AI threats are reshaping where companies spend their cybersecurity budgets]]
 - `2026-09-07` [[2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o|SDxCentral reports Nvidia has handed off governance of the Open Secure AI Alliance — a coalition of 120+ organizations including Broadcom, Cisco, HPE, Palo Alto Networks, Microsoft, Amazon, IBM, and CrowdStrike — to the Linux Foundation for neutral stewardship. The alliance was formed in the wake of the Hugging Face breach by rogue OpenAI agents and hosts SAFE, a shared AI incident findings exchange. OpenAI, Anthropic, Google, and Oracle remain notable non-members, complicating industry-wide adoption of the emerging AI-security defensive stack.]]
 - `2026-09-07` [[2026-09-07-post-mortem-chatgpt-claude-and-grok-all-failed-within-roughl|Post-mortem: ChatGPT, Claude and Grok all failed within roughly 80 minutes]]
 - `2026-09-07` [[2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda|Nvidia transfers Open Secure AI Alliance to the Linux Foundation]]
-- `2026-09-06` [[2026-09-06-xai-loses-another-round-against-minnesota-s-synthetic-imager|xAI loses another round against Minnesota’s synthetic-imagery law]]
+- `2026-09-07` [[2026-09-07-ineffable-intelligence-recruits-six-co-founders-from-google|Ineffable Intelligence recruits six co-founders from Google DeepMind and InstaDeep]]
+- `2026-09-07` [[2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen|Anthropic has signed roughly $517 billion in compute agreements over 11 months]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
 - `2026-09-06` [[2026-09-06-openai-s-chief-scientist-calls-for-voluntary-slowdowns-acros|OpenAI’s chief scientist calls for voluntary slowdowns across the industry]]
 - `2026-09-06` [[2026-09-06-openai-engineer-says-internal-astra-use-pulled-roadmap-plans|OpenAI engineer says internal Astra use pulled roadmap plans forward six months]]
@@ -20,6 +38,7 @@ member_count: 1825
 - `2026-09-06` [[2026-09-06-authors-push-back-as-publishers-and-agents-claim-share-of-an|Authors push back as publishers and agents claim share of Anthropic settlement]]
 - `2026-09-06` [[2026-09-06-authors-dispute-publisher-and-agent-claims-on-anthropic-s-1|Authors dispute publisher and agent claims on Anthropic’s $1.5B settlement]]
 - `2026-09-06` [[2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr|Authors contest third-party claims on Anthropic's $1.5B copyright settlement]]
+- `2026-09-06` [[2026-09-06-authors-contest-publisher-and-agent-claims-on-anthropic-s-1|Authors contest publisher and agent claims on Anthropic's $1.5B copyright settlement]]
 - `2026-09-06` [[2026-09-06-anthropic-has-signed-roughly-517-billion-in-compute-deals-ov|Anthropic has signed roughly $517 billion in compute deals over 11 months]]
 - `2026-09-06` [[2026-09-06-model-fatigue-sets-in-as-ai-labs-iterate-at-a-frenetic-pace|"Model fatigue" sets in as AI labs iterate at a frenetic pace]]
 - `2026-09-05` [[2026-09-05-uc-berkeley-releases-cua-lite-unifying-sandboxes-data-evalua|UC Berkeley releases CUA-Lite, unifying sandboxes, data, evaluation and RL for computer-use agents]]
@@ -28,6 +47,7 @@ member_count: 1825
 - `2026-09-05` [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah|Nvidia-backed Nscale discloses $103B in contracted revenue ahead of IPO]]
 - `2026-09-05` [[2026-09-05-artificial-analysis-overhauls-its-intelligence-index-after-a|Artificial Analysis overhauls its Intelligence Index after Astra scoring drew skepticism]]
 - `2026-09-05` [[2026-09-05-anthropic-ipo-prospectus-reportedly-days-away-as-amd-commits|Anthropic IPO prospectus reportedly days away as AMD commits up to $5B]]
+- `2026-09-05` [[2026-09-05-amd-commits-up-to-5b-to-anthropic-as-ipo-prospectus-is-repor|AMD commits up to $5B to Anthropic as IPO prospectus is reportedly imminent]]
 - `2026-09-04` [[2026-09-04-nscale-seeks-about-3-5-billion-in-pre-ipo-financing|Nscale seeks about $3.5 billion in pre-IPO financing]]
 - `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-on-the-back-of-a-45b|Nscale seeks $3.5B in pre-IPO financing on the back of a $45B Anthropic deal]]
 - `2026-09-04` [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-anthropic-compu|Nscale seeks $3.5B in pre-IPO financing after Anthropic compute deal]]

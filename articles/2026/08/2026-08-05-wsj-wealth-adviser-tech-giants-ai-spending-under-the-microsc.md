@@ -30,8 +30,8 @@ related_article_ids:
 - 2026-08-17-big-tech-s-3-trillion-ai-spending-is-higher-than-reported
 - 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
 - 2026-05-19-amazon-s-ai-race-and-the-reshaping-of-wealth-management
+- 2026-09-09-wsj-watch-the-ai-boom-s-weakest-link
 - 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
-- 2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk
 embedding_id: 2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc
 event_name: ''
 ---
@@ -45,5 +45,5 @@ The WSJ Wealth Adviser briefing highlights growing investor scrutiny of Big Tech
 
 **Entities:** [[Amazon]] · [[Apple]] · [[ByteDance]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-17-big-tech-s-3-trillion-ai-spending-is-higher-than-reported]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-05-19-amazon-s-ai-race-and-the-reshaping-of-wealth-management]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk]]
+**Related:** [[2026-08-17-big-tech-s-3-trillion-ai-spending-is-higher-than-reported]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-05-19-amazon-s-ai-race-and-the-reshaping-of-wealth-management]] · [[2026-09-09-wsj-watch-the-ai-boom-s-weakest-link]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]]
 <!-- graph:end -->

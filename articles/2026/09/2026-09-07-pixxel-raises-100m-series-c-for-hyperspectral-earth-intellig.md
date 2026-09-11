@@ -4,8 +4,8 @@ title: Pixxel raises $100M Series C for hyperspectral Earth-intelligence stack
 date: '2026-09-07'
 source: Business Standard
 url_original: https://www.business-standard.com/companies/news/pixxel-series-c-funding-temasek-seraphim-space-tech-126090700126_1.html
-url_canonical: https://ventureburn.com/pixxel-raises-100-million-earth-intelligence-platform/
-url_status: repaired
+url_canonical: https://www.business-standard.com/companies/news/pixxel-series-c-funding-temasek-seraphim-space-tech-126090700126_1.html
+url_status: broken
 digest_source: digests\raw\2026-09-07_062259_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 738362f89a7bcca1246cff5c20e06c5a825abac316b746123b95de16610030bd

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-11-ltx-2-5-launches-as-an-nvidia-accelerated-open-weights-world
 - 2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model
 - 2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt
-- 2026-07-23-nvidia-dgx-gb300-supercomputer-comes-online-at-naval-postgra
+- 2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight
 embedding_id: 2026-03-31-nvidia-launches-dlss-4-5-with-dynamic-multi-frame-generation
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Nvidia released DLSS 4.5 today, introducing Dynamic Multi Frame Generation that 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-03-new-nvidia-debuts-dlss-5-with-3d-guided-neural-rendering-on]] · [[2026-08-11-ltx-2-5-launches-as-an-nvidia-accelerated-open-weights-world]] · [[2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model]] · [[2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt]] · [[2026-07-23-nvidia-dgx-gb300-supercomputer-comes-online-at-naval-postgra]]
+**Related:** [[2026-09-03-new-nvidia-debuts-dlss-5-with-3d-guided-neural-rendering-on]] · [[2026-08-11-ltx-2-5-launches-as-an-nvidia-accelerated-open-weights-world]] · [[2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model]] · [[2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt]] · [[2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight]]
 <!-- graph:end -->

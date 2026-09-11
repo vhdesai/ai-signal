@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-07-simultaneous-outages-hit-chatgpt-claude-and-grok
+- 2026-09-07-chatgpt-claude-and-grok-degrade-simultaneously
 - 2026-09-03-chatgpt-claude-and-grok-hit-by-overlapping-outages
 - 2026-09-03-breaking-hot-simultaneous-outage-takes-down-chatgpt-claude-g
-- 2026-09-03-openai-anthropic-google-and-xai-hit-simultaneous-service-dis
 embedding_id: 2026-09-04-chatgpt-claude-and-grok-reportedly-face-simultaneous-outages
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Daily Times reported simultaneous disruptions affecting several major AI service
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-07-simultaneous-outages-hit-chatgpt-claude-and-grok]] · [[2026-09-03-chatgpt-claude-and-grok-hit-by-overlapping-outages]] · [[2026-09-03-breaking-hot-simultaneous-outage-takes-down-chatgpt-claude-g]] · [[2026-09-03-openai-anthropic-google-and-xai-hit-simultaneous-service-dis]]
+**Related:** [[2026-09-07-simultaneous-outages-hit-chatgpt-claude-and-grok]] · [[2026-09-07-chatgpt-claude-and-grok-degrade-simultaneously]] · [[2026-09-03-chatgpt-claude-and-grok-hit-by-overlapping-outages]] · [[2026-09-03-breaking-hot-simultaneous-outage-takes-down-chatgpt-claude-g]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: Nvidia partner Iren's CEO says AI compute demand may never be sated
 date: '2026-09-07'
 source: Financial Times
 url_original: null
-url_canonical: https://tuttiquotidiani.it/en/news/ai-computing-demand-may-never-be-sated-says-ceo-of-nvidia-partner-iren
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-07_060333_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: b0ca2d9d3901ea4dbc2f433cadea0b62ddd2c9a60d6f86bba1f4a9a120f7532a

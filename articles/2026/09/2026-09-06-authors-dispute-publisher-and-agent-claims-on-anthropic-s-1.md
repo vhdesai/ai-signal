@@ -17,13 +17,9 @@ entities:
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-09-06-authors-push-back-as-publishers-and-agents-claim-share-of-an
-- 2026-09-06-authors-push-back-as-publishers-and-agents-stake-claims-on-a
-- 2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr
-- 2026-07-20-anthropic-s-1-5-billion-copyright-settlement-receives-final
+dedupe_status: duplicate
+canonical_article_id: 2026-09-06-authors-contest-publisher-and-agent-claims-on-anthropic-s-1
+related_article_ids: []
 embedding_id: 2026-09-06-authors-dispute-publisher-and-agent-claims-on-anthropic-s-1
 event_name: ''
 ---
@@ -37,5 +33,5 @@ Authors entitled to $3,000 per pirated title under Anthropic’s $1.5B copyright
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-06-authors-push-back-as-publishers-and-agents-claim-share-of-an]] · [[2026-09-06-authors-push-back-as-publishers-and-agents-stake-claims-on-a]] · [[2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr]] · [[2026-07-20-anthropic-s-1-5-billion-copyright-settlement-receives-final]]
+**Canonical:** [[2026-09-06-authors-contest-publisher-and-agent-claims-on-anthropic-s-1]]
 <!-- graph:end -->

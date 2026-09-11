@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
 - 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 - 2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners
-- 2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares
+- 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
 embedding_id: 2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Nvidia introduced a business model in which it shares cloud revenue and provides
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-01-nvidia-unveils-revenue-sharing-capital-partners-model-to-fin]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]] · [[2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares]]
+**Related:** [[2026-07-01-nvidia-unveils-revenue-sharing-capital-partners-model-to-fin]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]] · [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par]]
 <!-- graph:end -->

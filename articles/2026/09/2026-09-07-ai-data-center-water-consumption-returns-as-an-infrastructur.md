@@ -4,8 +4,8 @@ title: AI data-center water consumption returns as an infrastructure constraint
 date: '2026-09-07'
 source: IndexBox
 url_original: null
-url_canonical: https://www.fwpcoa.org/content.aspx?page_id=5&club_id=859275&item_id=130961
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-07_061000_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 49bed870233d27aca6cc710115ac79a36c1d7bee7053e8ffaa5a789ed57048bc

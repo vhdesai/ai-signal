@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model
 - 2026-07-31-deepseek-ships-deepseek-v4-flash-0731-with-major-agentic-and
 - 2026-05-09-deepseek-tui-terminal-based-programming-agent-for-deepseek-v
+- 2026-09-10-deepseek-releases-v4-1-flash-with-1m-context-fp4-kv-cache-an
 - 2026-07-31-deepseek-moves-v4-flash-0731-into-public-beta-with-major-age
-- 2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas
 embedding_id: 2026-05-09-a-community-driven-open-source-project-released-a-metal-base
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A community-driven open-source project released a Metal-based local inference en
 
 **Entities:** [[Apple]] · [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model]] · [[2026-07-31-deepseek-ships-deepseek-v4-flash-0731-with-major-agentic-and]] · [[2026-05-09-deepseek-tui-terminal-based-programming-agent-for-deepseek-v]] · [[2026-07-31-deepseek-moves-v4-flash-0731-into-public-beta-with-major-age]] · [[2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas]]
+**Related:** [[2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model]] · [[2026-07-31-deepseek-ships-deepseek-v4-flash-0731-with-major-agentic-and]] · [[2026-05-09-deepseek-tui-terminal-based-programming-agent-for-deepseek-v]] · [[2026-09-10-deepseek-releases-v4-1-flash-with-1m-context-fp4-kv-cache-an]] · [[2026-07-31-deepseek-moves-v4-flash-0731-into-public-beta-with-major-age]]
 <!-- graph:end -->

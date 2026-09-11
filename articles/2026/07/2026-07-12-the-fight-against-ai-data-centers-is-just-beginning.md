@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d
 - 2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po
 - 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
-- 2026-09-05-data-center-backlash-becomes-a-midterm-political-issue
+- 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 embedding_id: 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Verge reported that opposition to AI data center expansion is accelerating a
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]] · [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-09-05-data-center-backlash-becomes-a-midterm-political-issue]]
+**Related:** [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]] · [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]]
 <!-- graph:end -->

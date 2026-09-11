@@ -4,8 +4,8 @@ title: Google to build a new AI chip in Israel, recruiting from Hailo
 date: '2026-09-07'
 source: Haaretz
 url_original: https://www.haaretz.com/israel-news/tech-news/2026-09-07/ty-article/.premium/google-to-build-new-ai-chip-in-israel-tapping-hailo-talent/000001a0-7a4e-d245-a5bc-feee329f0000
-url_canonical: https://en.globes.co.il/en/article-google-israel-hiring-dozens-of-engineers-to-develop-ai-chip-1001503781
-url_status: repaired
+url_canonical: https://www.haaretz.com/israel-news/tech-news/2026-09-07/ty-article/.premium/google-to-build-new-ai-chip-in-israel-tapping-hailo-talent/000001a0-7a4e-d245-a5bc-feee329f0000
+url_status: broken
 digest_source: digests\raw\2026-09-07_060333_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: a30726cc0ed8adf8fb9632ddc3e885a72b11b9dc7062ff7f75c59f55d77d706d

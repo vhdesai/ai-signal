@@ -1,19 +1,39 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1483
+member_count: 1503
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1483 connected article(s).
+> Auto-generated topic hub. 1503 connected article(s).
 
+- `2026-09-10` [[2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten|The Information: SpaceX overhauls data-center build-out, potentially slowing expansion]]
+- `2026-09-10` [[2026-09-10-tsmc-august-revenue-up-53-3-to-a-record-nt-514-8b-advanced-n|TSMC August revenue up 53.3% to a record NT$514.8B; advanced nodes fully booked]]
+- `2026-09-10` [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par|Nvidia commits to Australia 2GW AI buildout with 8 local partners]]
+- `2026-09-10` [[2026-09-10-nvidia-and-palantir-productize-a-sovereign-supply-chain-ai-s|Nvidia and Palantir productize a sovereign supply-chain AI stack, starting with Nvidia's own chain]]
+- `2026-09-10` [[2026-09-10-nvidia-and-palantir-deploy-a-sovereign-ai-stack-with-nvidia|Nvidia and Palantir deploy a sovereign AI stack, with Nvidia as first customer]]
+- `2026-09-10` [[2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne|Mistral partners with Cloudera on sovereign enterprise AI; new €21B valuation caps €3B Samsung-led round]]
+- `2026-09-10` [[2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai|Mistral and Cloudera partner on sovereign enterprise AI]]
+- `2026-09-10` [[2026-09-10-huawei-raises-ascend-ai-chip-prices-60-as-china-s-nvidia-alt|Huawei raises Ascend AI chip prices ~60% as China's Nvidia alternatives face supply crunch]]
+- `2026-09-10` [[2026-09-10-huawei-lifts-ascend-950dt-pricing-60-as-hbm-shortage-reaches|Huawei lifts Ascend 950DT pricing ~60% as HBM shortage reaches China]]
+- `2026-09-10` [[2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data|Amazon, Meta, and Google risk losing multibillion-dollar data-center tax deals as states rip up terms]]
+- `2026-09-09` [[2026-09-09-wsj-watch-the-ai-boom-s-weakest-link|WSJ: Watch the AI boom's "weakest link"]]
+- `2026-09-09` [[2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t|Oracle is the AI hyperscaler most likely to blink; earnings today are the tell]]
+- `2026-09-09` [[2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight|Nvidia partners with Australia on a 2GW buildout with eight local operators]]
+- `2026-09-09` [[2026-09-09-google-commits-13b-15-1b-to-finnish-ai-infrastructure-its-la|Google commits €13B ($15.1B) to Finnish AI infrastructure — its largest European investment]]
+- `2026-09-09` [[2026-09-09-google-commits-15-1b-to-ai-infrastructure-in-finland-its-lar|Google commits $15.1B to AI infrastructure in Finland — its largest single European investment]]
+- `2026-09-08` [[2026-09-08-us-closes-1-9b-loan-to-restart-the-iowa-reactor-already-cont|US closes $1.9B loan to restart the Iowa reactor already contracted to Google]]
 - `2026-09-07` [[2026-09-07-wafer-a-non-nvidia-inference-provider-fields-acquisition-off|Wafer, a non-Nvidia inference provider, fields acquisition offers at $200M+ valuation]]
+- `2026-09-07` [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe|WSJ: Data-center backlash gets a partisan reframe]]
 - `2026-09-07` [[2026-09-07-tencent-restructures-bilibili-stake-into-debt-as-it-funds-ai|Tencent restructures Bilibili stake into debt as it funds AI initiatives]]
 - `2026-09-07` [[2026-09-07-tech-giants-say-ai-data-centers-are-getting-less-thirsty-as|Tech giants say AI data centers are getting less thirsty as siting fights intensify]]
 - `2026-09-07` [[2026-09-07-south-korea-says-22-3b-texas-ai-power-deal-is-not-final-as-t|South Korea says $22.3B Texas AI power deal is not final as talks continue]]
 - `2026-09-07` [[2026-09-07-nvidia-partner-iren-s-ceo-says-ai-compute-demand-may-never-b|Nvidia partner Iren's CEO says AI compute demand may never be sated]]
+- `2026-09-07` [[2026-09-07-non-nvidia-inference-provider-wafer-receives-acquisition-off|Non-Nvidia inference provider Wafer receives acquisition offers at $200M+ valuation]]
+- `2026-09-07` [[2026-09-07-malaysia-weighs-huawei-chips-for-rm2b-national-ai-project-de|Malaysia weighs Huawei chips for RM2B national AI project despite US warnings]]
 - `2026-09-07` [[2026-09-07-google-to-build-a-new-ai-chip-in-israel-recruiting-from-hail|Google to build a new AI chip in Israel, recruiting from Hailo]]
+- `2026-09-07` [[2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen|Anthropic has signed roughly $517 billion in compute agreements over 11 months]]
 - `2026-09-07` [[2026-09-07-analysis-ai-hyperscalers-circular-deals-now-resemble-1980s-s|Analysis: AI hyperscalers' "circular deals" now resemble 1980s S&L "daisy chains"]]
 - `2026-09-07` [[2026-09-07-ai-leaders-reframe-agi-as-a-fuzzy-target-rather-than-a-measu|AI leaders reframe AGI as a “fuzzy target” rather than a measurable milestone]]
 - `2026-09-06` [[2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further|Report: China's AI giants stretch each compute dollar further than US rivals]]

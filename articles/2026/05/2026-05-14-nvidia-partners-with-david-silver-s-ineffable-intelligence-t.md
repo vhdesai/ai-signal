@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-safe-superintelligence-partners-with-nvidia-to-scale-researc
 - 2026-07-27-nvidia-to-invest-5b-in-ilya-sutskever-s-safe-superintelligen
+- 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
 - 2026-07-27-nvidia-to-take-5b-stake-in-ilya-sutskever-s-safe-superintell
-- 2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b
-- 2026-06-07-nvidia-and-sk-hynix-sign-multiyear-memory-partnership-for-ai
+- 2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight
 embedding_id: 2026-05-14-nvidia-partners-with-david-silver-s-ineffable-intelligence-t
 event_name: ''
 ---
@@ -41,5 +41,5 @@ NVIDIA announced a multi-year codesign partnership with Ineffable Intelligence �
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-27-safe-superintelligence-partners-with-nvidia-to-scale-researc]] · [[2026-07-27-nvidia-to-invest-5b-in-ilya-sutskever-s-safe-superintelligen]] · [[2026-07-27-nvidia-to-take-5b-stake-in-ilya-sutskever-s-safe-superintell]] · [[2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b]] · [[2026-06-07-nvidia-and-sk-hynix-sign-multiyear-memory-partnership-for-ai]]
+**Related:** [[2026-07-27-safe-superintelligence-partners-with-nvidia-to-scale-researc]] · [[2026-07-27-nvidia-to-invest-5b-in-ilya-sutskever-s-safe-superintelligen]] · [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par]] · [[2026-07-27-nvidia-to-take-5b-stake-in-ilya-sutskever-s-safe-superintell]] · [[2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight]]
 <!-- graph:end -->

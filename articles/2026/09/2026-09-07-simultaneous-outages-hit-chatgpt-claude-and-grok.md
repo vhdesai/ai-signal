@@ -17,13 +17,9 @@ entities: []
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-09-04-chatgpt-claude-and-grok-reportedly-face-simultaneous-outages
-- 2026-09-03-breaking-hot-simultaneous-outage-takes-down-chatgpt-claude-g
-- 2026-09-03-chatgpt-claude-and-grok-hit-by-overlapping-outages
-- 2026-09-07-post-mortem-chatgpt-claude-and-grok-all-failed-within-roughl
+dedupe_status: duplicate
+canonical_article_id: 2026-09-07-chatgpt-claude-and-grok-degrade-simultaneously
+related_article_ids: []
 embedding_id: 2026-09-07-simultaneous-outages-hit-chatgpt-claude-and-grok
 event_name: ''
 ---
@@ -36,5 +32,5 @@ ChatGPT, Claude and Grok all degraded within hours of each other, prompting spec
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-09-04-chatgpt-claude-and-grok-reportedly-face-simultaneous-outages]] · [[2026-09-03-breaking-hot-simultaneous-outage-takes-down-chatgpt-claude-g]] · [[2026-09-03-chatgpt-claude-and-grok-hit-by-overlapping-outages]] · [[2026-09-07-post-mortem-chatgpt-claude-and-grok-all-failed-within-roughl]]
+**Canonical:** [[2026-09-07-chatgpt-claude-and-grok-degrade-simultaneously]]
 <!-- graph:end -->

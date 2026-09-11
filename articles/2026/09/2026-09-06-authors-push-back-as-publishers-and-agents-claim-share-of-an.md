@@ -18,9 +18,8 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-09-06-authors-dispute-publisher-and-agent-claims-on-anthropic-s-1
-related_article_ids:
-- 2026-09-06-authors-push-back-as-publishers-and-agents-stake-claims-on-a
+canonical_article_id: 2026-09-06-authors-contest-publisher-and-agent-claims-on-anthropic-s-1
+related_article_ids: []
 embedding_id: 2026-09-06-authors-push-back-as-publishers-and-agents-claim-share-of-an
 event_name: ''
 ---
@@ -34,6 +33,5 @@ Authors involved in the class action against Anthropic are objecting that publis
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-09-06-authors-dispute-publisher-and-agent-claims-on-anthropic-s-1]]
-**Related:** [[2026-09-06-authors-push-back-as-publishers-and-agents-stake-claims-on-a]]
+**Canonical:** [[2026-09-06-authors-contest-publisher-and-agent-claims-on-anthropic-s-1]]
 <!-- graph:end -->

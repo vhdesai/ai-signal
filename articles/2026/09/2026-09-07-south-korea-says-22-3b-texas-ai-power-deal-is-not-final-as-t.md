@@ -4,8 +4,8 @@ title: South Korea says $22.3B Texas AI power deal is not final as talks continu
 date: '2026-09-07'
 source: Dallas Express
 url_original: null
-url_canonical: https://dallasexpress.com/state/south-korea-says-22-3b-texas-ai-power-deal-is-not-final-as-talks-continue/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-07_061000_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: ca58aa1f696dbe1d6055d53b64ab5bcf72f7c934c2bcb99a9a00715dbb008560

@@ -1,26 +1,58 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4028
+member_count: 4061
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4028 connected article(s).
+> Auto-generated topic hub. 4061 connected article(s).
 
+- `2026-09-10` [[2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten|The Information: SpaceX overhauls data-center build-out, potentially slowing expansion]]
+- `2026-09-10` [[2026-09-10-nvidia-and-palantir-productize-a-sovereign-supply-chain-ai-s|Nvidia and Palantir productize a sovereign supply-chain AI stack, starting with Nvidia's own chain]]
+- `2026-09-10` [[2026-09-10-nvidia-and-palantir-productize-a-sovereign-ai-stack-with-nvi|Nvidia and Palantir productize a sovereign AI stack, with Nvidia as first customer]]
+- `2026-09-10` [[2026-09-10-nvidia-and-palantir-deploy-a-sovereign-ai-stack-with-nvidia|Nvidia and Palantir deploy a sovereign AI stack, with Nvidia as first customer]]
+- `2026-09-10` [[2026-09-10-mistral-valued-at-21b-after-3b-round-asml-maintains-400m-sta|Mistral valued at €21B after €3B round; ASML maintains €400M stake]]
+- `2026-09-10` [[2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne|Mistral partners with Cloudera on sovereign enterprise AI; new €21B valuation caps €3B Samsung-led round]]
+- `2026-09-10` [[2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai|Mistral and Cloudera partner on sovereign enterprise AI]]
+- `2026-09-09` [[2026-09-09-wsj-watch-the-ai-boom-s-weakest-link|WSJ: Watch the AI boom's "weakest link"]]
+- `2026-09-09` [[2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis|The Information: OpenAI blocks Adobe and others from advertising competing AI in ChatGPT]]
+- `2026-09-09` [[2026-09-09-the-information-confusion-reigns-over-the-white-house-s-ai-w|The Information: Confusion reigns over the White House's AI whitelist]]
+- `2026-09-09` [[2026-09-09-sergey-brin-is-quietly-reshaping-google-s-gemini-roadmap|Sergey Brin is quietly reshaping Google's Gemini roadmap]]
+- `2026-09-09` [[2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t|Oracle is the AI hyperscaler most likely to blink; earnings today are the tell]]
+- `2026-09-09` [[2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing|OpenAI cuts off Adobe and others from advertising competing AI products in ChatGPT]]
+- `2026-09-09` [[2026-09-09-meta-ships-muse-consumer-agent-with-a-kernel-enforced-securi|Meta ships Muse consumer agent with a kernel-enforced security boundary]]
+- `2026-09-09` [[2026-09-09-meta-employees-flagged-muse-security-failures-during-pre-lau|Meta employees flagged Muse security failures during pre-launch testing]]
+- `2026-09-09` [[2026-09-09-legal-ai-startup-harvey-reaches-15-5b-valuation-on-a-550m-ro|Legal AI startup Harvey reaches $15.5B valuation on a $550M round]]
+- `2026-09-09` [[2026-09-09-jeffrey-katzenberg-teams-up-with-former-openai-sora-head-on|Jeffrey Katzenberg teams up with former OpenAI Sora head on new AI video startup]]
+- `2026-09-09` [[2026-09-09-harvey-raises-550m-at-15-5b-valuation-for-legal-ai|Harvey raises $550M at $15.5B valuation for legal AI]]
+- `2026-09-09` [[2026-09-09-china-curbs-humanoid-ipos-after-unitree-s-volatile-debut|China curbs humanoid IPOs after Unitree's volatile debut]]
+- `2026-09-09` [[2026-09-09-apple-unveils-iphone-duo-and-siri-ai-at-ternus-s-first-event|Apple unveils iPhone Duo and Siri AI at Ternus's first event]]
+- `2026-09-09` [[2026-09-09-anthropic-withheld-claude-mythos-5-1-from-the-uk-ai-security|Anthropic withheld Claude Mythos 5.1 from the UK AI Security Institute]]
+- `2026-09-08` [[2026-09-08-openai-s-luna-price-cut-drove-a-10x-usage-surge-taking-openr|OpenAI's Luna price cut drove a 10x usage surge, taking OpenRouter share from Anthropic]]
+- `2026-09-08` [[2026-09-08-mistral-raises-3b-at-24b-valuation-in-a-samsung-led-series-d|Mistral raises €3B at ~$24B valuation in a Samsung-led Series D]]
+- `2026-09-08` [[2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an|Meta launches Muse, a consumer personal agent with payment and email authority]]
+- `2026-09-08` [[2026-09-08-how-six-aws-engineers-rebuilt-bedrock-as-project-mantle-to-c|How six AWS engineers rebuilt Bedrock as Project Mantle to challenge Microsoft]]
+- `2026-09-08` [[2026-09-08-ai-threats-are-reshaping-where-companies-spend-their-cyberse|AI threats are reshaping where companies spend their cybersecurity budgets]]
 - `2026-09-07` [[2026-09-07-wafer-a-non-nvidia-inference-provider-fields-acquisition-off|Wafer, a non-Nvidia inference provider, fields acquisition offers at $200M+ valuation]]
+- `2026-09-07` [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe|WSJ: Data-center backlash gets a partisan reframe]]
 - `2026-09-07` [[2026-09-07-tencent-restructures-bilibili-stake-into-debt-as-it-funds-ai|Tencent restructures Bilibili stake into debt as it funds AI initiatives]]
+- `2026-09-07` [[2026-09-07-sensetime-returns-to-profit-by-pivoting-from-model-size-race|SenseTime returns to profit by pivoting from model-size race to enterprise workflows]]
 - `2026-09-07` [[2026-09-07-sensetime-returns-to-profit-as-it-pivots-from-model-size-rac|SenseTime returns to profit as it pivots from model-size race to enterprise workflows]]
 - `2026-09-07` [[2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o|SDxCentral reports Nvidia has handed off governance of the Open Secure AI Alliance — a coalition of 120+ organizations including Broadcom, Cisco, HPE, Palo Alto Networks, Microsoft, Amazon, IBM, and CrowdStrike — to the Linux Foundation for neutral stewardship. The alliance was formed in the wake of the Hugging Face breach by rogue OpenAI agents and hosts SAFE, a shared AI incident findings exchange. OpenAI, Anthropic, Google, and Oracle remain notable non-members, complicating industry-wide adoption of the emerging AI-security defensive stack.]]
 - `2026-09-07` [[2026-09-07-post-mortem-chatgpt-claude-and-grok-all-failed-within-roughl|Post-mortem: ChatGPT, Claude and Grok all failed within roughly 80 minutes]]
 - `2026-09-07` [[2026-09-07-pixxel-raises-100m-series-c-for-hyperspectral-earth-intellig|Pixxel raises $100M Series C for hyperspectral Earth-intelligence stack]]
 - `2026-09-07` [[2026-09-07-openai-launches-ai-program-to-support-independent-journalism|OpenAI launches AI program to support independent journalism in Ukraine]]
 - `2026-09-07` [[2026-09-07-nvidia-s-12-93b-hugging-face-acquisition-becomes-definitive|Nvidia’s $12.93B Hugging Face acquisition becomes definitive, raising gatekeeper questions]]
+- `2026-09-07` [[2026-09-07-non-nvidia-inference-provider-wafer-receives-acquisition-off|Non-Nvidia inference provider Wafer receives acquisition offers at $200M+ valuation]]
+- `2026-09-07` [[2026-09-07-microsoft-s-project-zenith-brings-ai-generated-native-winui|Microsoft's Project Zenith brings AI-generated native WinUI 3 apps to Windows 11]]
 - `2026-09-07` [[2026-09-07-microsoft-rolls-out-ai-native-winui-3-app-generation-for-win|Microsoft rolls out AI-native WinUI 3 app generation for Windows 11]]
 - `2026-09-07` [[2026-09-07-malaysia-weighs-adopting-huawei-ai-chips-despite-explicit-us|Malaysia weighs adopting Huawei AI chips despite explicit US warnings]]
-- `2026-09-07` [[2026-09-07-malaysia-weighs-huawei-chips-for-rm2b-national-ai-project-de|Malaysia weighs Huawei chips for RM2B national AI project despite US warnings]]
 - `2026-09-07` [[2026-09-07-japan-s-preferred-networks-seeks-an-ipo-to-fund-chip-mass-pr|Japan's Preferred Networks seeks an IPO to fund chip mass production]]
-- `2026-09-06` [[2026-09-06-xai-loses-another-round-against-minnesota-s-synthetic-imager|xAI loses another round against Minnesota’s synthetic-imagery law]]
+- `2026-09-07` [[2026-09-07-insurance-claims-workflows-lose-the-paper-chase-as-agents-ge|Insurance claims workflows lose the paper chase as agents get to work]]
+- `2026-09-07` [[2026-09-07-ineffable-intelligence-recruits-six-co-founders-from-google|Ineffable Intelligence recruits six co-founders from Google DeepMind and InstaDeep]]
+- `2026-09-07` [[2026-09-07-china-s-moonshot-and-z-ai-bring-ai-model-subscriptions-to-al|China's Moonshot and Z.ai bring AI-model subscriptions to Alibaba's Tmall]]
+- `2026-09-06` [[2026-09-06-weathernews-launches-global-ai-powered-forecasting-app|Weathernews launches global AI-powered forecasting app]]
 - `2026-09-06` [[2026-09-06-uc-berkeley-researchers-release-cua-lite-an-open-platform-fo|UC Berkeley researchers release CUA-Lite, an open platform for computer-use agents]]
 - `2026-09-06` [[2026-09-06-travis-kalanick-s-atoms-reportedly-preparing-a-robotaxi-push|Travis Kalanick’s Atoms reportedly preparing a robotaxi push]]
 - `2026-09-06` [[2026-09-06-travis-kalanick-s-atoms-is-reportedly-moving-into-robotaxis|Travis Kalanick's Atoms is reportedly moving into robotaxis]]
@@ -79,6 +111,7 @@ member_count: 4028
 - `2026-09-05` [[2026-09-05-artificial-analysis-overhauls-its-intelligence-index-after-a|Artificial Analysis overhauls its Intelligence Index after Astra scoring drew skepticism]]
 - `2026-09-05` [[2026-09-05-anthropic-ipo-prospectus-reportedly-days-away-as-amd-commits|Anthropic IPO prospectus reportedly days away as AMD commits up to $5B]]
 - `2026-09-05` [[2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on|Agentic AI is shifting the pricing models CIOs rely on]]
+- `2026-09-05` [[2026-09-05-amd-commits-up-to-5b-to-anthropic-as-ipo-prospectus-is-repor|AMD commits up to $5B to Anthropic as IPO prospectus is reportedly imminent]]
 - `2026-09-05` [[2026-09-05-ai-agents-in-cyberattacks-target-asian-governments|AI agents in cyberattacks target Asian governments]]
 - `2026-09-04` [[2026-09-04-xai-adds-enterprise-access-network-and-audit-controls-to-gro|xAI adds enterprise access, network, and audit controls to Grok]]
 - `2026-09-04` [[2026-09-04-a16z-s-cursor-and-openrouter-investments-are-worth-more-than|a16z's Cursor and OpenRouter investments are worth more than $8 billion]]

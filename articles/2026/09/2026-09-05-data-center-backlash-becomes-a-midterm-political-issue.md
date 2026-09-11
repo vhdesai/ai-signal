@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po
+- 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 - 2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo
 - 2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t
 - 2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce
-- 2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic
 embedding_id: 2026-09-05-data-center-backlash-becomes-a-midterm-political-issue
 event_name: ''
 ---
@@ -37,5 +37,5 @@ NPR reported that voter frustration with data centers is becoming a political is
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo]] · [[2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]] · [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]]
+**Related:** [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]] · [[2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo]] · [[2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]]
 <!-- graph:end -->

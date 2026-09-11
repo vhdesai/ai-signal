@@ -1,13 +1,22 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 672
+member_count: 681
 ---
 
 # Meta
 
-> Auto-generated entity hub. 672 connected article(s).
+> Auto-generated entity hub. 681 connected article(s).
 
+- `2026-09-10` [[2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten|The Information: SpaceX overhauls data-center build-out, potentially slowing expansion]]
+- `2026-09-10` [[2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data|Amazon, Meta, and Google risk losing multibillion-dollar data-center tax deals as states rip up terms]]
+- `2026-09-09` [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo|US government accuses six Chinese AI firms of large-scale model distillation]]
+- `2026-09-09` [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s|Meta ships Muse, a consumer AI agent with payment, email, and smart-home access]]
+- `2026-09-09` [[2026-09-09-meta-ships-muse-consumer-agent-with-a-kernel-enforced-securi|Meta ships Muse consumer agent with a kernel-enforced security boundary]]
+- `2026-09-09` [[2026-09-09-meta-employees-flagged-muse-security-failures-during-pre-lau|Meta employees flagged Muse security failures during pre-launch testing]]
+- `2026-09-08` [[2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an|Meta launches Muse, a consumer personal agent with payment and email authority]]
+- `2026-09-08` [[2026-09-08-arm-doubles-its-semi-custom-server-ceiling-with-neoverse-css|Arm doubles its semi-custom server ceiling with Neoverse CSS N4 for agentic workloads]]
+- `2026-09-07` [[2026-09-07-ineffable-intelligence-recruits-six-co-founders-from-google|Ineffable Intelligence recruits six co-founders from Google DeepMind and InstaDeep]]
 - `2026-09-07` [[2026-09-07-ifm-releases-k2-horizon-six-apache-2-0-open-weight-models-sp|IFM releases K2 Horizon: six Apache 2.0 open-weight models spanning 0.9B to 375B]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
 - `2026-09-06` [[2026-09-06-meta-s-real-time-audio-model-targets-always-listening-assist|Meta’s real-time audio model targets always-listening assistants]]

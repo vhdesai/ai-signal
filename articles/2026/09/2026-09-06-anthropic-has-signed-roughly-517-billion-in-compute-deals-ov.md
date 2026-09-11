@@ -26,8 +26,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen
 - 2026-08-31-anthropic-signs-35-billion-compute-deal-with-nvidia-backed-l
-- 2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin
 embedding_id: 2026-09-06-anthropic-has-signed-roughly-517-billion-in-compute-deals-ov
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The Information's analysis puts Anthropic's cumulative compute commitments at up
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-31-anthropic-signs-35-billion-compute-deal-with-nvidia-backed-l]] · [[2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin]]
+**Related:** [[2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen]] · [[2026-08-31-anthropic-signs-35-billion-compute-deal-with-nvidia-backed-l]]
 <!-- graph:end -->

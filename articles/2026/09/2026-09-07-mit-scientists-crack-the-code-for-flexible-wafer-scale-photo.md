@@ -17,12 +17,9 @@ entities: []
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge
-- 2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with
-- 2026-08-26-mit-ai-helps-design-new-materials-that-work-in-the-real-worl
+dedupe_status: duplicate
+canonical_article_id: 2026-09-07-mit-reports-a-breakthrough-in-flexible-wafer-scale-photonics
+related_article_ids: []
 embedding_id: 2026-09-07-mit-scientists-crack-the-code-for-flexible-wafer-scale-photo
 event_name: ''
 ---
@@ -35,5 +32,5 @@ MIT researchers reported a breakthrough in flexible wafer-scale photonics, a fou
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]] · [[2026-08-26-mit-ai-helps-design-new-materials-that-work-in-the-real-worl]]
+**Canonical:** [[2026-09-07-mit-reports-a-breakthrough-in-flexible-wafer-scale-photonics]]
 <!-- graph:end -->

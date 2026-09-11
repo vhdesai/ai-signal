@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in
 - 2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india
 - 2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india
-- 2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar
+- 2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis
 embedding_id: 2026-08-12-openai-begins-testing-ads-in-chatgpt
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI announced it is testing advertising inside ChatGPT to help sustain free a
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in]] · [[2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india]] · [[2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india]] · [[2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar]]
+**Related:** [[2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in]] · [[2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india]] · [[2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india]] · [[2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis]]
 <!-- graph:end -->

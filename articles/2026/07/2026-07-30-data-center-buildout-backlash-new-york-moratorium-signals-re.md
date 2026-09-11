@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-05-new-york-passes-first-state-level-data-center-moratorium
+- 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 - 2026-06-11-axios-congress-wants-in-on-the-data-center-backlash
 - 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
 - 2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a
-- 2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po
 embedding_id: 2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The growing public pushback against data center construction is creating materia
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-05-new-york-passes-first-state-level-data-center-moratorium]] · [[2026-06-11-axios-congress-wants-in-on-the-data-center-backlash]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]]
+**Related:** [[2026-06-05-new-york-passes-first-state-level-data-center-moratorium]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]] · [[2026-06-11-axios-congress-wants-in-on-the-data-center-backlash]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]]
 <!-- graph:end -->

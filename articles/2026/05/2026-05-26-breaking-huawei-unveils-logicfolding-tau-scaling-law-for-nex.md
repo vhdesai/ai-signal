@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-speaking-in-shanghai-huawei-semiconductor-chief-he-tingbo-in
 - 2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031
+- 2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc
 - 2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-chi
 - 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
-- 2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies
 embedding_id: 2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Huawei revealed a new engineering approach it calls "LogicFolding" to manufactur
 
 **Entities:** [[Huawei]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-26-speaking-in-shanghai-huawei-semiconductor-chief-he-tingbo-in]] · [[2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031]] · [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-chi]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]]
+**Related:** [[2026-05-26-speaking-in-shanghai-huawei-semiconductor-chief-he-tingbo-in]] · [[2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031]] · [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc]] · [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-chi]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]]
 <!-- graph:end -->

@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 - 2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
-- 2026-08-11-daily-ai-news-digest-august-11-2026
+- 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 embedding_id: 2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights
 event_name: ''
 ---
@@ -60,5 +60,5 @@ Rep. Ro Khanna is introducing a data center bill of rights as voters nationwide 
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]]
+**Related:** [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]]
 <!-- graph:end -->

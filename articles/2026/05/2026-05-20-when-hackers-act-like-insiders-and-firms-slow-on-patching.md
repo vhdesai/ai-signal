@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers
+- 2026-09-08-ai-threats-are-reshaping-where-companies-spend-their-cyberse
 - 2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in
 - 2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a
-- 2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability
 embedding_id: 2026-05-20-when-hackers-act-like-insiders-and-firms-slow-on-patching
 event_name: ''
 ---
@@ -36,5 +36,5 @@ WSJ Pro Cybersecurity reports a sharp rise in attacker tradecraft that mimics le
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers]] · [[2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in]] · [[2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a]] · [[2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability]]
+**Related:** [[2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers]] · [[2026-09-08-ai-threats-are-reshaping-where-companies-spend-their-cyberse]] · [[2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in]] · [[2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a]]
 <!-- graph:end -->

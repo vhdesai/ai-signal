@@ -21,12 +21,9 @@ themes:
 - company-storylines
 - company-investments
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi
-- 2026-05-10-anthropic-closing-50b-round-at-900b-valuation-final-private
-- 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve
+dedupe_status: duplicate
+canonical_article_id: 2026-09-05-amd-commits-up-to-5b-to-anthropic-as-ipo-prospectus-is-repor
+related_article_ids: []
 embedding_id: 2026-09-05-anthropic-ipo-prospectus-reportedly-days-away-as-amd-commits
 event_name: ''
 ---
@@ -40,5 +37,5 @@ Anthropic's public listing is reportedly weeks out, with the prospectus expected
 
 **Entities:** [[AMD]] · [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi]] · [[2026-05-10-anthropic-closing-50b-round-at-900b-valuation-final-private]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]]
+**Canonical:** [[2026-09-05-amd-commits-up-to-5b-to-anthropic-as-ipo-prospectus-is-repor]]
 <!-- graph:end -->

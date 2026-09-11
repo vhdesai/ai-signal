@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi
 - 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
 - 2026-06-25-anthropic-accuses-alibaba-of-largest-known-distillation-atta
+- 2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo
 embedding_id: 2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via
 event_name: ''
 ---
@@ -38,5 +39,5 @@ A Forbes column reports allegations that a Chinese AI firm extracted knowledge f
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-03-anthropic-tells-congress-a-chinese-firm-distilled-claude-via]] · [[2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi]] · [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]] · [[2026-06-25-anthropic-accuses-alibaba-of-largest-known-distillation-atta]]
+**Related:** [[2026-08-03-anthropic-tells-congress-a-chinese-firm-distilled-claude-via]] · [[2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi]] · [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]] · [[2026-06-25-anthropic-accuses-alibaba-of-largest-known-distillation-atta]] · [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo]]
 <!-- graph:end -->

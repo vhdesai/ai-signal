@@ -16,10 +16,9 @@ entities: []
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-09-03-google-deepmind-releases-weathernext-3-with-higher-resolutio
+dedupe_status: duplicate
+canonical_article_id: 2026-09-06-weathernews-launches-global-ai-powered-forecasting-app
+related_article_ids: []
 embedding_id: 2026-09-06-weathernews-launches-global-app-with-ai-powered-high-resolut
 event_name: ''
 ---
@@ -32,5 +31,5 @@ Markets Insider reported that Weathernews launched a global weather app using AI
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-03-google-deepmind-releases-weathernext-3-with-higher-resolutio]]
+**Canonical:** [[2026-09-06-weathernews-launches-global-ai-powered-forecasting-app]]
 <!-- graph:end -->

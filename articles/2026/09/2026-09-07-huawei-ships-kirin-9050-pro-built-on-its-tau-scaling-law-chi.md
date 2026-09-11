@@ -18,13 +18,9 @@ themes:
 - model-capabilities
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex
-- 2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031
-- 2026-06-06-huawei-confirms-ascend-950dt-ai-chip-for-august-pledges-annu
-- 2026-05-26-speaking-in-shanghai-huawei-semiconductor-chief-he-tingbo-in
+dedupe_status: duplicate
+canonical_article_id: 2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc
+related_article_ids: []
 embedding_id: 2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-chi
 event_name: ''
 ---
@@ -38,5 +34,5 @@ Huawei unveiled its Kirin 9050 Pro, described as its "most powerful Kirin chip e
 
 **Entities:** [[Huawei]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex]] · [[2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031]] · [[2026-06-06-huawei-confirms-ascend-950dt-ai-chip-for-august-pledges-annu]] · [[2026-05-26-speaking-in-shanghai-huawei-semiconductor-chief-he-tingbo-in]]
+**Canonical:** [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc]]
 <!-- graph:end -->

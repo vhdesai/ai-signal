@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-03-new-c-te-d-ivoire-enlists-mistral-ai-for-public-sector-deplo
 - 2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig
+- 2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne
 - 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
-- 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
-- 2026-05-26-bnp-paribas-mistral-expand-partnership-for-cyber-focused-ai
+- 2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai
 embedding_id: 2026-09-03-c-te-d-ivoire-enlists-mistral-ai-for-national-ai-projects
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Côte d'Ivoire announced a strategic partnership with France's Mistral AI to ide
 
 **Entities:** [[Mistral]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-03-new-c-te-d-ivoire-enlists-mistral-ai-for-public-sector-deplo]] · [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]] · [[2026-05-26-bnp-paribas-mistral-expand-partnership-for-cyber-focused-ai]]
+**Related:** [[2026-09-03-new-c-te-d-ivoire-enlists-mistral-ai-for-public-sector-deplo]] · [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig]] · [[2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]] · [[2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai]]
 <!-- graph:end -->

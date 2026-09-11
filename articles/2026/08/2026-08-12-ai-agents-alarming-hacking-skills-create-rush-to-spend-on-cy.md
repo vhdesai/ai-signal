@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-08-ai-threats-are-reshaping-where-companies-spend-their-cyberse
 - 2026-09-05-ai-agents-in-cyberattacks-target-asian-governments
 - 2026-08-30-ai-labs-call-for-stronger-cyber-defenses-after-model-enabled
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
 - 2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk
-- 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
 embedding_id: 2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy
 event_name: ''
 ---
@@ -37,5 +37,5 @@ AI agents are demonstrating increasingly sophisticated hacking capabilities, cre
 ## Connections
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
-**Related:** [[2026-09-05-ai-agents-in-cyberattacks-target-asian-governments]] · [[2026-08-30-ai-labs-call-for-stronger-cyber-defenses-after-model-enabled]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]]
+**Related:** [[2026-09-08-ai-threats-are-reshaping-where-companies-spend-their-cyberse]] · [[2026-09-05-ai-agents-in-cyberattacks-target-asian-governments]] · [[2026-08-30-ai-labs-call-for-stronger-cyber-defenses-after-model-enabled]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]]
 <!-- graph:end -->

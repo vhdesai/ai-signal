@@ -24,8 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti
+- 2026-09-07-non-nvidia-inference-provider-wafer-receives-acquisition-off
 - 2026-06-23-groq-confirms-650m-funding-round
-- 2026-09-07-wafer-a-non-nvidia-inference-provider-fields-acquisition-off
 embedding_id: 2026-08-24-nvidia-says-groq-racks-will-be-online-this-year-following-20
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Systems built on Groq’s inference silicon will reach customers before year-end
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti]] · [[2026-06-23-groq-confirms-650m-funding-round]] · [[2026-09-07-wafer-a-non-nvidia-inference-provider-fields-acquisition-off]]
+**Related:** [[2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti]] · [[2026-09-07-non-nvidia-inference-provider-wafer-receives-acquisition-off]] · [[2026-06-23-groq-confirms-650m-funding-round]]
 <!-- graph:end -->

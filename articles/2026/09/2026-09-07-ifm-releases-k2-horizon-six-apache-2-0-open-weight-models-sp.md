@@ -7,13 +7,13 @@ source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/07/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b/
 url_canonical: https://www.marktechpost.com/2026/09/07/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b/
 url_status: ok
-digest_source: digests\raw\2026-09-07_142255_Inbox_Daily AI News Digest - September
-  7, 2026.md
-content_hash: fedd477174f55b2704bcf466c344dc7f479e3a8b18702790062ab7fba04e583b
+digest_source: digests\raw\2026-09-07_143014_Final-Daily-AI-News-Digest.md
+content_hash: 4eca8b86ca7a52ab885fdf21aaa2b42282468bf60e3ec4e4ed80f41e29a328f5
 normalized_title_hash: 679e39a6e94a0fde
 canonical_url_hash: 9e4cc56cb4529a8e
 tags:
 - New
+- Open source
 entities:
 - Alibaba
 - DeepSeek
@@ -36,7 +36,7 @@ event_name: ''
 
 # IFM releases K2 Horizon: six Apache 2.0 open-weight models spanning 0.9B to 375B
 
-The Institute for the Future of Machines (IFM) released K2 Horizon, a family of six Apache 2.0-licensed open-weight models ranging from 0.9B to 375B parameters. The permissive licensing and broad parameter range give enterprises a full spectrum from edge-deployable to frontier-class open models under a commercially usable license. It adds to an accelerating open-weight race in which Meta, Alibaba's Qwen, DeepSeek, Mistral, and other Chinese labs are all pushing capable open models against closed-source rivals.
+The Institute for the Future of Machines released K2 Horizon, a family of six Apache 2.0–licensed open-weight models ranging from 0.9B to 375B parameters. The permissive licensing and broad parameter range give enterprises a full spectrum from edge-deployable to frontier-class open models under a commercially usable license. The release adds another entrant to an accelerating open-weight race in which Meta, Alibaba's Qwen, DeepSeek, and Mistral are all pushing capable open models against closed-source rivals.
 
 <!-- graph:start -->
 ## Connections

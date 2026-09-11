@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Unite.AI
 url_original: https://www.unite.ai/house-homeland-security-panel-calls-altman-in-over-openai-breach/
 url_canonical: https://www.unite.ai/house-homeland-security-panel-calls-altman-in-over-openai-breach/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-08-04_062620_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 069c1bd19bcad3271f6fb4115ef98e29751f7fbe9039a8af10c8c0a88e4dfd5a
@@ -21,9 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-10-openai-faces-gop-led-senate-probe-into-hugging-face-agent-br
+- 2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face
 - 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
 - 2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after
-- 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
 embedding_id: 2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r
 event_name: ''
 ---
@@ -37,5 +38,5 @@ The House Homeland Security Committee has asked Sam Altman to brief members on O
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]] · [[2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after]] · [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach]]
+**Related:** [[2026-09-10-openai-faces-gop-led-senate-probe-into-hugging-face-agent-br]] · [[2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face]] · [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]] · [[2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after]]
 <!-- graph:end -->

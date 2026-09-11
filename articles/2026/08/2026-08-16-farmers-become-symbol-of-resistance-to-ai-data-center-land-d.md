@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po
 - 2026-08-16-kentucky-farmers-refuse-26-million-from-ai-data-center-devel
 - 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
-- 2026-08-22-the-information-reports-that-america-increasingly-dislikes-d
+- 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 embedding_id: 2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Wall Street Journal highlighted farmers who refused a multimillion-dollar AI
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-08-16-kentucky-farmers-refuse-26-million-from-ai-data-center-devel]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]]
+**Related:** [[2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-08-16-kentucky-farmers-refuse-26-million-from-ai-data-center-devel]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]]
 <!-- graph:end -->

@@ -24,8 +24,8 @@ canonical_article_id: 2026-08-26-anthropic-signs-45b-compute-deal-with-nscale
 related_article_ids:
 - 2026-08-27-anthropic-signs-45b-six-year-compute-deal-with-nscale
 - 2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin
+- 2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen
 - 2026-08-31-anthropic-signs-35-billion-compute-deal-with-nvidia-backed-l
-- 2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop
 embedding_id: 2026-08-26-anthropic-strikes-45-billion-cloud-deal-with-nscale
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic has agreed to a roughly $45 billion cloud arrangement with Nscale, ren
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-26-anthropic-signs-45b-compute-deal-with-nscale]]
-**Related:** [[2026-08-27-anthropic-signs-45b-six-year-compute-deal-with-nscale]] · [[2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin]] · [[2026-08-31-anthropic-signs-35-billion-compute-deal-with-nvidia-backed-l]] · [[2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop]]
+**Related:** [[2026-08-27-anthropic-signs-45b-six-year-compute-deal-with-nscale]] · [[2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin]] · [[2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen]] · [[2026-08-31-anthropic-signs-35-billion-compute-deal-with-nvidia-backed-l]]
 <!-- graph:end -->

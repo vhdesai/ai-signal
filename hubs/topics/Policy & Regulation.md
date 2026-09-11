@@ -1,18 +1,33 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 1654
+member_count: 1670
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 1654 connected article(s).
+> Auto-generated topic hub. 1670 connected article(s).
 
+- `2026-09-10` [[2026-09-10-openai-faces-gop-led-senate-probe-into-hugging-face-agent-br|OpenAI faces GOP-led Senate probe into Hugging Face agent breach]]
+- `2026-09-10` [[2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face|OpenAI faces GOP-led Senate investigation over Hugging Face agent breach]]
+- `2026-09-10` [[2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas|OpenAI board member says lab is not on track to reduce catastrophic loss-of-control risk]]
+- `2026-09-10` [[2026-09-10-anthropic-grants-eu-cybersecurity-agency-enisa-access-to-myt|Anthropic grants EU cybersecurity agency ENISA access to Mythos 5; Mythos 5.1 still withheld]]
+- `2026-09-09` [[2026-09-09-white-house-trusted-partner-ai-whitelist-causes-confusion-in|White House "trusted partner" AI whitelist causes confusion in corporate America]]
+- `2026-09-09` [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo|US government accuses six Chinese AI firms of large-scale model distillation]]
+- `2026-09-09` [[2026-09-09-openai-appoints-paul-christiano-to-foundation-board-and-safe|OpenAI appoints Paul Christiano to Foundation Board and Safety and Security Committee]]
+- `2026-09-09` [[2026-09-09-nsa-cisa-and-fbi-name-six-chinese-labs-over-industrial-scale|NSA, CISA, and FBI name six Chinese labs over industrial-scale distillation]]
+- `2026-09-09` [[2026-09-09-anthropic-withheld-claude-mythos-5-1-from-the-uk-ai-security|Anthropic withheld Claude Mythos 5.1 from the UK AI Security Institute]]
+- `2026-09-09` [[2026-09-09-anthropic-withheld-claude-mythos-5-1-from-uk-ai-security-ins|Anthropic withheld Claude Mythos 5.1 from UK AI Security Institute]]
+- `2026-09-09` [[2026-09-09-anthropic-researcher-resigns-alignment-lead-corroborates-and|Anthropic researcher resigns; alignment lead corroborates and puts extinction risk above 10%]]
+- `2026-09-09` [[2026-09-09-anthropic-pretraining-researcher-resigns-alignment-lead-puts|Anthropic pretraining researcher resigns; alignment lead puts extinction risk above 10%]]
+- `2026-09-09` [[2026-09-09-anthropic-pretraining-researcher-resigns-says-labs-are-gambl|Anthropic pretraining researcher resigns, says labs are "gambling with our lives"]]
+- `2026-09-08` [[2026-09-08-google-attackers-built-and-ran-a-credential-harvesting-campa|Google: attackers built and ran a credential-harvesting campaign with AI agents in under six hours]]
 - `2026-09-07` [[2026-09-07-openai-files-eu-incident-report-on-hijacked-german-wiki|OpenAI files EU incident report on hijacked German wiki]]
 - `2026-09-07` [[2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda|Nvidia transfers Open Secure AI Alliance to the Linux Foundation]]
 - `2026-09-07` [[2026-09-07-japan-s-preferred-networks-seeks-an-ipo-to-fund-chip-mass-pr|Japan's Preferred Networks seeks an IPO to fund chip mass production]]
 - `2026-09-07` [[2026-09-07-ai-leaders-reframe-agi-as-a-fuzzy-target-rather-than-a-measu|AI leaders reframe AGI as a “fuzzy target” rather than a measurable milestone]]
 - `2026-09-06` [[2026-09-06-an-alien-mind-openai-s-chief-scientist-calls-for-voluntary-s|“An Alien Mind”: OpenAI’s Chief Scientist calls for voluntary slowdowns and third-party safety audits]]
+- `2026-09-06` [[2026-09-06-xai-loses-another-round-against-minnesota-s-synthetic-imager|xAI loses another round against Minnesota's synthetic-imagery law]]
 - `2026-09-06` [[2026-09-06-stripping-safety-guardrails-from-open-weight-models-is-now-a|Stripping safety guardrails from open-weight models is now a commercial service]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-real-clinical-p|Psychiatry debates whether "AI psychosis" is a real clinical phenomenon]]
@@ -22,6 +37,7 @@ member_count: 1654
 - `2026-09-06` [[2026-09-06-authors-push-back-as-publishers-and-agents-stake-claims-on-a|Authors push back as publishers and agents stake claims on Anthropic's $1.5B settlement]]
 - `2026-09-06` [[2026-09-06-authors-dispute-publisher-and-agent-claims-on-anthropic-s-1|Authors dispute publisher and agent claims on Anthropic’s $1.5B settlement]]
 - `2026-09-06` [[2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr|Authors contest third-party claims on Anthropic's $1.5B copyright settlement]]
+- `2026-09-06` [[2026-09-06-authors-contest-publisher-and-agent-claims-on-anthropic-s-1|Authors contest publisher and agent claims on Anthropic's $1.5B copyright settlement]]
 - `2026-09-06` [[2026-09-06-abliteration-ai-commercializes-guardrail-removal-from-open-w|Abliteration.ai commercializes guardrail removal from open-weight models]]
 - `2026-09-05` [[2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u|We're plausibly close to crossing the line: are warnings of uncontrollable AI coming true?]]
 - `2026-09-05` [[2026-09-05-techcrunch-reports-that-the-seattle-times-and-newsday-filed|TechCrunch reports that The Seattle Times and Newsday filed a lawsuit in the Southern District of New York alleging OpenAI and Microsoft trained their models on the publishers' journalism without permission. The complaint describes generative AI as "a snake eating its own tail" that risks breaking the news industry it consumes. The suit is notable because Microsoft and OpenAI have previously funded some Seattle Times journalism initiatives, adding a new dimension to the wave of publisher lawsuits that began with The New York Times in 2023.]]

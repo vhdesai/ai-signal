@@ -1,19 +1,36 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 1843
+member_count: 1860
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 1843 connected article(s).
+> Auto-generated topic hub. 1860 connected article(s).
 
+- `2026-09-10` [[2026-09-10-tsmc-august-revenue-up-53-3-to-a-record-nt-514-8b-advanced-n|TSMC August revenue up 53.3% to a record NT$514.8B; advanced nodes fully booked]]
+- `2026-09-10` [[2026-09-10-spacex-overhauls-data-center-build-out-under-new-rocket-engi|SpaceX overhauls data-center build-out under new rocket-engineer leadership]]
+- `2026-09-10` [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par|Nvidia commits to Australia 2GW AI buildout with 8 local partners]]
+- `2026-09-10` [[2026-09-10-huawei-raises-ascend-ai-chip-prices-60-as-china-s-nvidia-alt|Huawei raises Ascend AI chip prices ~60% as China's Nvidia alternatives face supply crunch]]
+- `2026-09-10` [[2026-09-10-huawei-lifts-ascend-950dt-pricing-60-as-hbm-shortage-reaches|Huawei lifts Ascend 950DT pricing ~60% as HBM shortage reaches China]]
+- `2026-09-10` [[2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data|Amazon, Meta, and Google risk losing multibillion-dollar data-center tax deals as states rip up terms]]
+- `2026-09-09` [[2026-09-09-taiwan-s-august-exports-hit-record-82-4b-on-ai-and-hpc-deman|Taiwan's August exports hit record $82.4B on AI and HPC demand]]
+- `2026-09-09` [[2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight|Nvidia partners with Australia on a 2GW buildout with eight local operators]]
+- `2026-09-09` [[2026-09-09-google-commits-13b-15-1b-to-finnish-ai-infrastructure-its-la|Google commits €13B ($15.1B) to Finnish AI infrastructure — its largest European investment]]
+- `2026-09-09` [[2026-09-09-google-commits-15-1b-to-ai-infrastructure-in-finland-its-lar|Google commits $15.1B to AI infrastructure in Finland — its largest single European investment]]
+- `2026-09-08` [[2026-09-08-us-closes-1-9b-loan-to-restart-the-iowa-reactor-already-cont|US closes $1.9B loan to restart the Iowa reactor already contracted to Google]]
+- `2026-09-08` [[2026-09-08-arm-doubles-its-semi-custom-server-ceiling-with-neoverse-css|Arm doubles its semi-custom server ceiling with Neoverse CSS N4 for agentic workloads]]
 - `2026-09-07` [[2026-09-07-tech-giants-say-ai-data-centers-are-getting-less-thirsty-as|Tech giants say AI data centers are getting less thirsty as siting fights intensify]]
 - `2026-09-07` [[2026-09-07-simultaneous-outages-hit-chatgpt-claude-and-grok|Simultaneous outages hit ChatGPT, Claude and Grok]]
 - `2026-09-07` [[2026-09-07-nvidia-partner-iren-s-ceo-says-ai-compute-demand-may-never-b|Nvidia partner Iren's CEO says AI compute demand may never be sated]]
+- `2026-09-07` [[2026-09-07-malaysia-weighs-huawei-chips-for-rm2b-national-ai-project-de|Malaysia weighs Huawei chips for RM2B national AI project despite US warnings]]
 - `2026-09-07` [[2026-09-07-japan-s-preferred-networks-seeks-an-ipo-to-fund-chip-mass-pr|Japan's Preferred Networks seeks an IPO to fund chip mass production]]
+- `2026-09-07` [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc|Huawei ships Kirin 9050 Pro built on its Tau Scaling Law architecture]]
 - `2026-09-07` [[2026-09-07-google-to-build-a-new-ai-chip-in-israel-recruiting-from-hail|Google to build a new AI chip in Israel, recruiting from Hailo]]
+- `2026-09-07` [[2026-09-07-chatgpt-claude-and-grok-degrade-simultaneously|ChatGPT, Claude, and Grok degrade simultaneously]]
 - `2026-09-07` [[2026-09-07-cxmt-points-to-smartphone-and-ai-gains-as-it-climbs-the-memo|CXMT points to smartphone and AI gains as it climbs the memory market]]
+- `2026-09-07` [[2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen|Anthropic has signed roughly $517 billion in compute agreements over 11 months]]
+- `2026-09-07` [[2026-09-07-analysis-ai-hyperscalers-circular-deals-now-resemble-1980s-s|Analysis: AI hyperscalers' "circular deals" now resemble 1980s S&L "daisy chains"]]
 - `2026-09-06` [[2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further|Report: China's AI giants stretch each compute dollar further than US rivals]]
 - `2026-09-06` [[2026-09-06-micron-s-fully-booked-advanced-fabs-spotlight-ai-memory-cons|Micron's fully booked advanced fabs spotlight AI memory constraints]]
 - `2026-09-06` [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai|Meta's new real-time audio model targets always-listening AI assistants]]

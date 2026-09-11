@@ -21,6 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-04-intuit-puts-a-bedrock-reasoning-layer-above-deterministic-di
 - 2026-07-01-cognition-launches-devin-security-swarm-for-autonomous-vulne
+- 2026-09-08-how-six-aws-engineers-rebuilt-bedrock-as-project-mantle-to-c
 embedding_id: 2026-09-04-intuit-shares-agentic-disaster-recovery-architecture-built-a
 event_name: ''
 ---
@@ -33,5 +34,5 @@ Intuit described a Bedrock-powered reasoning layer on top of its EWOK disaster-r
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-04-intuit-puts-a-bedrock-reasoning-layer-above-deterministic-di]] · [[2026-07-01-cognition-launches-devin-security-swarm-for-autonomous-vulne]]
+**Related:** [[2026-09-04-intuit-puts-a-bedrock-reasoning-layer-above-deterministic-di]] · [[2026-07-01-cognition-launches-devin-security-swarm-for-autonomous-vulne]] · [[2026-09-08-how-six-aws-engineers-rebuilt-bedrock-as-project-mantle-to-c]]
 <!-- graph:end -->

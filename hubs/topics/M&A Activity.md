@@ -1,16 +1,17 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 460
+member_count: 461
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 460 connected article(s).
+> Auto-generated topic hub. 461 connected article(s).
 
 - `2026-09-07` [[2026-09-07-wafer-a-non-nvidia-inference-provider-fields-acquisition-off|Wafer, a non-Nvidia inference provider, fields acquisition offers at $200M+ valuation]]
 - `2026-09-07` [[2026-09-07-nvidia-s-12-93b-hugging-face-acquisition-becomes-definitive|Nvidia’s $12.93B Hugging Face acquisition becomes definitive, raising gatekeeper questions]]
-- `2026-09-07` [[2026-09-07-china-s-moonshot-and-z-ai-bring-ai-model-subscriptions-to-al|China's Moonshot and Z.ai bring AI-model subscriptions to Alibaba's Tmall retail platform]]
+- `2026-09-07` [[2026-09-07-non-nvidia-inference-provider-wafer-receives-acquisition-off|Non-Nvidia inference provider Wafer receives acquisition offers at $200M+ valuation]]
+- `2026-09-07` [[2026-09-07-china-s-moonshot-and-z-ai-bring-ai-model-subscriptions-to-al|China's Moonshot and Z.ai bring AI-model subscriptions to Alibaba's Tmall]]
 - `2026-09-06` [[2026-09-06-travis-kalanick-s-atoms-reportedly-preparing-a-robotaxi-push|Travis Kalanick’s Atoms reportedly preparing a robotaxi push]]
 - `2026-09-06` [[2026-09-06-travis-kalanick-s-atoms-is-reportedly-moving-into-robotaxis|Travis Kalanick's Atoms is reportedly moving into robotaxis]]
 - `2026-09-06` [[2026-09-06-nvidia-s-12-9b-hugging-face-deal-shows-why-ipos-are-now-opti|Nvidia's $12.9B Hugging Face deal shows why IPOs are now optional]]

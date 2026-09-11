@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 - 2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t
 - 2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po
 - 2026-06-11-axios-congress-wants-in-on-the-data-center-backlash
 - 2026-09-05-data-center-backlash-becomes-a-midterm-political-issue
-- 2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re
 embedding_id: 2026-08-21-when-backing-data-centers-backfires-lawmakers-sour-on-megasi
 event_name: ''
 ---
@@ -36,5 +36,5 @@ WSJ Politics reports lawmakers are "suddenly souring on megasize data centers," 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-06-11-axios-congress-wants-in-on-the-data-center-backlash]] · [[2026-09-05-data-center-backlash-becomes-a-midterm-political-issue]] · [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]]
+**Related:** [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]] · [[2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-06-11-axios-congress-wants-in-on-the-data-center-backlash]] · [[2026-09-05-data-center-backlash-becomes-a-midterm-political-issue]]
 <!-- graph:end -->

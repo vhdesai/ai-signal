@@ -1,15 +1,24 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1040
+member_count: 1050
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1040 connected article(s).
+> Auto-generated topic hub. 1050 connected article(s).
 
+- `2026-09-10` [[2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face|OpenAI faces GOP-led Senate investigation over Hugging Face agent breach]]
+- `2026-09-10` [[2026-09-10-mistral-valued-at-21b-after-3b-round-asml-maintains-400m-sta|Mistral valued at €21B after €3B round; ASML maintains €400M stake]]
+- `2026-09-10` [[2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne|Mistral partners with Cloudera on sovereign enterprise AI; new €21B valuation caps €3B Samsung-led round]]
+- `2026-09-09` [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo|US government accuses six Chinese AI firms of large-scale model distillation]]
+- `2026-09-09` [[2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t|Oracle is the AI hyperscaler most likely to blink; earnings today are the tell]]
+- `2026-09-09` [[2026-09-09-jeffrey-katzenberg-teams-up-with-former-openai-sora-head-on|Jeffrey Katzenberg teams up with former OpenAI Sora head on new AI video startup]]
+- `2026-09-09` [[2026-09-09-harvey-raises-550m-at-15-5b-valuation-for-legal-ai|Harvey raises $550M at $15.5B valuation for legal AI]]
+- `2026-09-08` [[2026-09-08-mistral-raises-3b-at-24b-valuation-in-a-samsung-led-series-d|Mistral raises €3B at ~$24B valuation in a Samsung-led Series D]]
 - `2026-09-07` [[2026-09-07-pixxel-raises-100m-series-c-for-hyperspectral-earth-intellig|Pixxel raises $100M Series C for hyperspectral Earth-intelligence stack]]
 - `2026-09-07` [[2026-09-07-japan-s-preferred-networks-seeks-an-ipo-to-fund-chip-mass-pr|Japan's Preferred Networks seeks an IPO to fund chip mass production]]
+- `2026-09-07` [[2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen|Anthropic has signed roughly $517 billion in compute agreements over 11 months]]
 - `2026-09-06` [[2026-09-06-travis-kalanick-s-atoms-is-reportedly-moving-into-robotaxis|Travis Kalanick's Atoms is reportedly moving into robotaxis]]
 - `2026-09-06` [[2026-09-06-sb-energy-files-for-ipo-with-nvidia-backing|SB Energy files for IPO with Nvidia backing]]
 - `2026-09-06` [[2026-09-06-nvidia-s-12-9b-hugging-face-deal-shows-why-ipos-are-now-opti|Nvidia's $12.9B Hugging Face deal shows why IPOs are now optional]]
@@ -21,6 +30,7 @@ member_count: 1040
 - `2026-09-05` [[2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and|Perplexity details its GPU embedding stack: how Ivy, Tulip and ROSE serve pplx-embed]]
 - `2026-09-05` [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah|Nvidia-backed Nscale discloses $103B in contracted revenue ahead of IPO]]
 - `2026-09-05` [[2026-09-05-anthropic-ipo-prospectus-reportedly-days-away-as-amd-commits|Anthropic IPO prospectus reportedly days away as AMD commits up to $5B]]
+- `2026-09-05` [[2026-09-05-amd-commits-up-to-5b-to-anthropic-as-ipo-prospectus-is-repor|AMD commits up to $5B to Anthropic as IPO prospectus is reportedly imminent]]
 - `2026-09-04` [[2026-09-04-xdof-is-reportedly-in-talks-for-a-series-b-at-a-1-2-billion|XDOF is reportedly in talks for a Series B at a $1.2 billion valuation]]
 - `2026-09-04` [[2026-09-04-nvidia-discusses-2-5b-investment-in-mira-murati-s-thinking-m|Nvidia discusses $2.5B investment in Mira Murati's Thinking Machines Lab]]
 - `2026-09-04` [[2026-09-04-nscale-seeks-about-3-5-billion-in-pre-ipo-financing|Nscale seeks about $3.5 billion in pre-IPO financing]]

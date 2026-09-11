@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-24-alabama-attorney-general-subpoenas-openai-over-hugging-face
 - 2026-08-24-alabama-attorney-general-subpoenas-openai-over-the-hugging-f
 - 2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft
-- 2026-08-23-flock-ceo-calls-for-compromise-as-ai-surveillance-backlash-g
+- 2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face
 embedding_id: 2026-08-27-alabama-demands-details-from-openai-lawmakers-alarm-on-flock
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Alabama demands details from OpenAI over a Hugging Face hack probe, while lawmak
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-27-alabama-demands-details-from-openai-lawmakers-sound-alarm-on]] · [[2026-08-24-alabama-attorney-general-subpoenas-openai-over-hugging-face]] · [[2026-08-24-alabama-attorney-general-subpoenas-openai-over-the-hugging-f]] · [[2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft]] · [[2026-08-23-flock-ceo-calls-for-compromise-as-ai-surveillance-backlash-g]]
+**Related:** [[2026-08-27-alabama-demands-details-from-openai-lawmakers-sound-alarm-on]] · [[2026-08-24-alabama-attorney-general-subpoenas-openai-over-hugging-face]] · [[2026-08-24-alabama-attorney-general-subpoenas-openai-over-the-hugging-f]] · [[2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft]] · [[2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face]]
 <!-- graph:end -->

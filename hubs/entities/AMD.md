@@ -1,15 +1,17 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 108
+member_count: 110
 ---
 
 # AMD
 
-> Auto-generated entity hub. 108 connected article(s).
+> Auto-generated entity hub. 110 connected article(s).
 
+- `2026-09-07` [[2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen|Anthropic has signed roughly $517 billion in compute agreements over 11 months]]
 - `2026-09-06` [[2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr|Authors contest third-party claims on Anthropic's $1.5B copyright settlement]]
 - `2026-09-05` [[2026-09-05-anthropic-ipo-prospectus-reportedly-days-away-as-amd-commits|Anthropic IPO prospectus reportedly days away as AMD commits up to $5B]]
+- `2026-09-05` [[2026-09-05-amd-commits-up-to-5b-to-anthropic-as-ipo-prospectus-is-repor|AMD commits up to $5B to Anthropic as IPO prospectus is reportedly imminent]]
 - `2026-09-04` [[2026-09-04-microsoft-s-project-zenith-turns-high-memory-windows-pcs-int|Microsoft’s Project Zenith turns high-memory Windows PCs into local AI development machines]]
 - `2026-09-04` [[2026-09-04-microsoft-announces-project-zenith-a-ready-to-code-on-device|Microsoft announces Project Zenith — a ready-to-code on-device AI setup for 64GB Windows 11 PCs]]
 - `2026-09-04` [[2026-09-04-microsoft-unveils-project-zenith-for-local-frontier-scale-ai|Microsoft Unveils "Project Zenith" for Local Frontier-Scale AI Development]]

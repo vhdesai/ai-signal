@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da
 - 2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f
+- 2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne
+- 2026-09-08-mistral-raises-3b-at-24b-valuation-in-a-samsung-led-series-d
 - 2026-08-28-lambda-secures-1-billion-in-private-debt-to-buy-more-nvidia
-- 2026-09-06-mistral-reportedly-closes-3b-round-with-samsung-nvidia-and-s
-- 2026-07-27-nvidia-in-talks-to-guarantee-250b-financing-for-openai-s-pla
 embedding_id: 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Mistral AI secured $830M in its first-ever debt financing (BNP Paribas, HSBC, an
 
 **Entities:** [[Mistral]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f]] · [[2026-08-28-lambda-secures-1-billion-in-private-debt-to-buy-more-nvidia]] · [[2026-09-06-mistral-reportedly-closes-3b-round-with-samsung-nvidia-and-s]] · [[2026-07-27-nvidia-in-talks-to-guarantee-250b-financing-for-openai-s-pla]]
+**Related:** [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f]] · [[2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne]] · [[2026-09-08-mistral-raises-3b-at-24b-valuation-in-a-samsung-led-series-d]] · [[2026-08-28-lambda-secures-1-billion-in-private-debt-to-buy-more-nvidia]]
 <!-- graph:end -->

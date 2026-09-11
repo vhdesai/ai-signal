@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d
 - 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home
 - 2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on
-- 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
+- 2026-09-10-huawei-raises-ascend-ai-chip-prices-60-as-china-s-nvidia-alt
 embedding_id: 2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Reuters reported Alibaba's T-Head chip unit unveiled the Zhenwu M890 and a multi
 
 **Entities:** [[Alibaba]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]] · [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home]] · [[2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on]] · [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]]
+**Related:** [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]] · [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home]] · [[2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on]] · [[2026-09-10-huawei-raises-ascend-ai-chip-prices-60-as-china-s-nvidia-alt]]
 <!-- graph:end -->

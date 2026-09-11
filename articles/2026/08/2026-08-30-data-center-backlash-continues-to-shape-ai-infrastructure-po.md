@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d
+- 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 - 2026-09-05-data-center-backlash-becomes-a-midterm-political-issue
 - 2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce
 - 2026-06-07-wsj-the-artificial-intelligence-backlash
-- 2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t
 embedding_id: 2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Wall Street Journal published new commentary and coverage on data-center dis
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-09-05-data-center-backlash-becomes-a-midterm-political-issue]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t]]
+**Related:** [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]] · [[2026-09-05-data-center-backlash-becomes-a-midterm-political-issue]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]]
 <!-- graph:end -->

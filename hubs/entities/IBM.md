@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 157
+member_count: 159
 ---
 
 # IBM
 
-> Auto-generated entity hub. 157 connected article(s).
+> Auto-generated entity hub. 159 connected article(s).
 
+- `2026-09-10` [[2026-09-10-ibm-and-nasa-release-open-source-ai-foundation-model-for-lun|IBM and NASA release open-source AI foundation model for lunar science]]
+- `2026-09-10` [[2026-09-10-ibm-and-nasa-release-an-open-source-ai-foundation-model-for|IBM and NASA release an open-source AI foundation model for lunar science]]
 - `2026-09-07` [[2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o|SDxCentral reports Nvidia has handed off governance of the Open Secure AI Alliance — a coalition of 120+ organizations including Broadcom, Cisco, HPE, Palo Alto Networks, Microsoft, Amazon, IBM, and CrowdStrike — to the Linux Foundation for neutral stewardship. The alliance was formed in the wake of the Hugging Face breach by rogue OpenAI agents and hosts SAFE, a shared AI incident findings exchange. OpenAI, Anthropic, Google, and Oracle remain notable non-members, complicating industry-wide adoption of the emerging AI-security defensive stack.]]
 - `2026-09-07` [[2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda|Nvidia transfers Open Secure AI Alliance to the Linux Foundation]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]

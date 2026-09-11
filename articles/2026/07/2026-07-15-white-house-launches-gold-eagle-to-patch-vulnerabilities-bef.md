@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-09-white-house-trusted-partner-ai-whitelist-causes-confusion-in
 - 2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass
 - 2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d
 - 2026-05-27-white-house-delays-ai-cybersecurity-executive-order-hhs-embe
 - 2026-08-13-white-house-opens-vetted-private-sector-cyber-operations-aga
-- 2026-05-12-google-identifies-first-ai-assisted-zero-day-exploit-disrupt
 embedding_id: 2026-07-15-white-house-launches-gold-eagle-to-patch-vulnerabilities-bef
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The White House unveiled "Gold Eagle," uniting federal agencies, software vendor
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass]] · [[2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d]] · [[2026-05-27-white-house-delays-ai-cybersecurity-executive-order-hhs-embe]] · [[2026-08-13-white-house-opens-vetted-private-sector-cyber-operations-aga]] · [[2026-05-12-google-identifies-first-ai-assisted-zero-day-exploit-disrupt]]
+**Related:** [[2026-09-09-white-house-trusted-partner-ai-whitelist-causes-confusion-in]] · [[2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass]] · [[2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d]] · [[2026-05-27-white-house-delays-ai-cybersecurity-executive-order-hhs-embe]] · [[2026-08-13-white-house-opens-vetted-private-sector-cyber-operations-aga]]
 <!-- graph:end -->

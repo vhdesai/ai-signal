@@ -1,16 +1,21 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 827
+member_count: 832
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 827 connected article(s).
+> Auto-generated entity hub. 832 connected article(s).
 
+- `2026-09-09` [[2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t|Oracle is the AI hyperscaler most likely to blink; earnings today are the tell]]
+- `2026-09-08` [[2026-09-08-how-six-aws-engineers-rebuilt-bedrock-as-project-mantle-to-c|How six AWS engineers rebuilt Bedrock as Project Mantle to challenge Microsoft]]
+- `2026-09-08` [[2026-09-08-arm-doubles-its-semi-custom-server-ceiling-with-neoverse-css|Arm doubles its semi-custom server ceiling with Neoverse CSS N4 for agentic workloads]]
 - `2026-09-07` [[2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o|SDxCentral reports Nvidia has handed off governance of the Open Secure AI Alliance — a coalition of 120+ organizations including Broadcom, Cisco, HPE, Palo Alto Networks, Microsoft, Amazon, IBM, and CrowdStrike — to the Linux Foundation for neutral stewardship. The alliance was formed in the wake of the Hugging Face breach by rogue OpenAI agents and hosts SAFE, a shared AI incident findings exchange. OpenAI, Anthropic, Google, and Oracle remain notable non-members, complicating industry-wide adoption of the emerging AI-security defensive stack.]]
 - `2026-09-07` [[2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda|Nvidia transfers Open Secure AI Alliance to the Linux Foundation]]
+- `2026-09-07` [[2026-09-07-microsoft-s-project-zenith-brings-ai-generated-native-winui|Microsoft's Project Zenith brings AI-generated native WinUI 3 apps to Windows 11]]
 - `2026-09-07` [[2026-09-07-microsoft-rolls-out-ai-native-winui-3-app-generation-for-win|Microsoft rolls out AI-native WinUI 3 app generation for Windows 11]]
+- `2026-09-07` [[2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen|Anthropic has signed roughly $517 billion in compute agreements over 11 months]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
 - `2026-09-06` [[2026-09-06-microsoft-pushes-ai-agents-that-write-native-winui-3-windows|Microsoft pushes AI agents that write native WinUI 3 Windows 11 apps in under 30 minutes]]
 - `2026-09-06` [[2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr|Authors contest third-party claims on Anthropic's $1.5B copyright settlement]]

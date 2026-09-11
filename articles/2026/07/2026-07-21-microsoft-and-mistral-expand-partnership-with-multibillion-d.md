@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e
 - 2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da
 - 2026-07-21-microsoft-and-mistral-expand-partnership-for-regulated-indus
+- 2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai
 - 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
-- 2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent
 embedding_id: 2026-07-21-microsoft-and-mistral-expand-partnership-with-multibillion-d
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Microsoft will tap Mistral's expanded Europe-based GPU capacity — built on Nvi
 
 **Entities:** [[Microsoft]] · [[Mistral]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-07-21-microsoft-and-mistral-expand-partnership-for-regulated-indus]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]] · [[2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent]]
+**Related:** [[2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-07-21-microsoft-and-mistral-expand-partnership-for-regulated-indus]] · [[2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]]
 <!-- graph:end -->

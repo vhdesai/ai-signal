@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex
 - 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
-- 2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on
+- 2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc
 embedding_id: 2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031
 event_name: ''
 ---
@@ -39,5 +39,5 @@ At ISCAS 2026 in Shanghai, Huawei researchers presented a "Tau Scaling Law" (als
 
 **Entities:** [[Huawei]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-05-26-speaking-in-shanghai-huawei-semiconductor-chief-he-tingbo-in]] · [[2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on]]
+**Related:** [[2026-05-26-speaking-in-shanghai-huawei-semiconductor-chief-he-tingbo-in]] · [[2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc]]
 <!-- graph:end -->

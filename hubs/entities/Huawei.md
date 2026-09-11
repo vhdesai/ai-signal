@@ -1,17 +1,20 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 193
+member_count: 196
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 193 connected article(s).
+> Auto-generated entity hub. 196 connected article(s).
 
+- `2026-09-10` [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par|Nvidia commits to Australia 2GW AI buildout with 8 local partners]]
+- `2026-09-10` [[2026-09-10-huawei-raises-ascend-ai-chip-prices-60-as-china-s-nvidia-alt|Huawei raises Ascend AI chip prices ~60% as China's Nvidia alternatives face supply crunch]]
+- `2026-09-10` [[2026-09-10-huawei-lifts-ascend-950dt-pricing-60-as-hbm-shortage-reaches|Huawei lifts Ascend 950DT pricing ~60% as HBM shortage reaches China]]
 - `2026-09-07` [[2026-09-07-malaysia-weighs-adopting-huawei-ai-chips-despite-explicit-us|Malaysia weighs adopting Huawei AI chips despite explicit US warnings]]
 - `2026-09-07` [[2026-09-07-malaysia-weighs-huawei-chips-for-rm2b-national-ai-project-de|Malaysia weighs Huawei chips for RM2B national AI project despite US warnings]]
 - `2026-09-07` [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-chi|Huawei ships Kirin 9050 Pro built on its Tau Scaling Law chip architecture]]
-- `2026-09-06` [[2026-09-06-xai-loses-another-round-against-minnesota-s-synthetic-imager|xAI loses another round against Minnesota’s synthetic-imagery law]]
+- `2026-09-07` [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc|Huawei ships Kirin 9050 Pro built on its Tau Scaling Law architecture]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
 - `2026-09-06` [[2026-09-06-deepseek-reportedly-plans-160-000-huawei-ascend-950dt-accele|DeepSeek reportedly plans 160,000 Huawei Ascend 950DT accelerators for an Inner Mongolia data center]]
 - `2026-09-06` [[2026-09-06-daily-ai-news-digest-september-7-2026|Daily AI News Digest – September 7, 2026]]

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-states-reconsidering-data-center-tax-incentives-adds-a-new-a
+- 2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data
 - 2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with
 - 2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi
 - 2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat
-- 2026-08-22-the-information-reports-that-america-increasingly-dislikes-d
 embedding_id: 2026-08-02-data-center-costs-set-to-rise-as-u-s-states-move-to-repeal-t
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Information reported that data-center costs are set to rise as U.S. states c
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-03-states-reconsidering-data-center-tax-incentives-adds-a-new-a]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]] · [[2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi]] · [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]] · [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]]
+**Related:** [[2026-08-03-states-reconsidering-data-center-tax-incentives-adds-a-new-a]] · [[2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]] · [[2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi]] · [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]]
 <!-- graph:end -->

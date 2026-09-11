@@ -1,0 +1,81 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2427.50it/s]
+{
+  "command": "run-daily",
+  "stages": {
+    "ingest": {
+      "digests_total": 1157,
+      "digests_changed": 1,
+      "changed": [
+        "news\\2026-09-10_143512_Final-Daily-AI-News-Digest.md"
+      ]
+    },
+    "split": {
+      "digests_parsed": 1159,
+      "articles_written": 11288,
+      "events_parsed": 78,
+      "event_articles_written": 78,
+      "skipped_publication_sources": 25,
+      "skipped_thin_articles": 4358
+    },
+    "index": {
+      "articles_indexed": 8359,
+      "embeddings": {
+        "enabled": true,
+        "added": 1,
+        "total": 8359,
+        "md_rewritten": 8359
+      }
+    },
+    "dedupe": {
+      "articles": 8359,
+      "exact_duplicates": 6,
+      "canonical": 6127,
+      "semantic_duplicates": 2226,
+      "related_links": 25423
+    },
+    "build-graph": {
+      "status": "ok",
+      "articles_linked": 8359,
+      "wikilinks_emitted": 57085,
+      "entity_hubs": 34,
+      "topic_hubs": 8,
+      "hubs_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\hubs"
+    },
+    "validate-urls": {
+      "checked": 3527,
+      "ok": 2540,
+      "broken": 987,
+      "missing": 4812,
+      "skipped": 20
+    },
+    "repair-urls": {
+      "attempted": 16,
+      "repaired": 16,
+      "unresolved": 0,
+      "skipped": 0,
+      "reverted": 0,
+      "deferred": 0,
+      "terminated": "completed",
+      "elapsed_s": 192.4,
+      "max_workers": 10
+    },
+    "build-site-daily": {
+      "pages": 264,
+      "articles": 8359,
+      "canonical": 6127,
+      "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site",
+      "mode": "incremental",
+      "changed_articles": 217,
+      "written_files": 108,
+      "elapsed_s": 13.19
+    },
+    "publish": {
+      "status": "dry-run",
+      "note": "site/ generated locally; no remote publish configured"
+    }
+  },
+  "run_log": "indexes\\runs\\run-20260910T230025+0000-9e4d8f.json"
+}

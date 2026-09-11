@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-04-microsoft-unveils-project-zenith-for-local-frontier-scale-ai
 - 2026-09-04-microsoft-s-project-zenith-turns-high-memory-windows-pcs-int
+- 2026-09-07-microsoft-s-project-zenith-brings-ai-generated-native-winui
 - 2026-09-07-microsoft-rolls-out-ai-native-winui-3-app-generation-for-win
 - 2026-06-03-microsoft-and-nvidia-unveil-surface-rtx-spark-dev-box-maia-2
-- 2026-04-02-in-a-landmark-move-toward-ai-self-sufficiency-microsoft-toda
 embedding_id: 2026-09-04-microsoft-announces-project-zenith-a-ready-to-code-on-device
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Microsoft unveiled Project Zenith, a preconfigured Windows 11 developer experien
 
 **Entities:** [[AMD]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-04-microsoft-unveils-project-zenith-for-local-frontier-scale-ai]] · [[2026-09-04-microsoft-s-project-zenith-turns-high-memory-windows-pcs-int]] · [[2026-09-07-microsoft-rolls-out-ai-native-winui-3-app-generation-for-win]] · [[2026-06-03-microsoft-and-nvidia-unveil-surface-rtx-spark-dev-box-maia-2]] · [[2026-04-02-in-a-landmark-move-toward-ai-self-sufficiency-microsoft-toda]]
+**Related:** [[2026-09-04-microsoft-unveils-project-zenith-for-local-frontier-scale-ai]] · [[2026-09-04-microsoft-s-project-zenith-turns-high-memory-windows-pcs-int]] · [[2026-09-07-microsoft-s-project-zenith-brings-ai-generated-native-winui]] · [[2026-09-07-microsoft-rolls-out-ai-native-winui-3-app-generation-for-win]] · [[2026-06-03-microsoft-and-nvidia-unveil-surface-rtx-spark-dev-box-maia-2]]
 <!-- graph:end -->

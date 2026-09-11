@@ -4,8 +4,8 @@ title: OpenAI launches AI program to support independent journalism in Ukraine
 date: '2026-09-07'
 source: OpenAI
 url_original: https://openai.com/index/supporting-independent-journalism-in-ukraine
-url_canonical: https://www.whatchangedtoday.online/changes/openai-supporting-independent-journalism-in-ukraine
-url_status: repaired
+url_canonical: https://openai.com/index/supporting-independent-journalism-in-ukraine
+url_status: broken
 digest_source: digests\raw\2026-09-07_061438_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: fe034a21f947555413fcf5c3bd4dc476dc2466c53b56f7e034b5b6099ebfae42

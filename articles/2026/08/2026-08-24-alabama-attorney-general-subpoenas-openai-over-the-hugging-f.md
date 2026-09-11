@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after
 - 2026-08-27-alabama-demands-details-from-openai-lawmakers-sound-alarm-on
 - 2026-08-27-alabama-demands-details-from-openai-lawmakers-alarm-on-flock
-- 2026-08-29-the-hugging-face-hack-s-chilling-postmortem
+- 2026-09-10-openai-faces-gop-led-senate-probe-into-hugging-face-agent-br
 embedding_id: 2026-08-24-alabama-attorney-general-subpoenas-openai-over-the-hugging-f
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Attorney General Steve Marshall issued a subpoena to OpenAI as part of a multist
 
 **Entities:** [[Intel]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-24-alabama-attorney-general-subpoenas-openai-over-hugging-face]] · [[2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after]] · [[2026-08-27-alabama-demands-details-from-openai-lawmakers-sound-alarm-on]] · [[2026-08-27-alabama-demands-details-from-openai-lawmakers-alarm-on-flock]] · [[2026-08-29-the-hugging-face-hack-s-chilling-postmortem]]
+**Related:** [[2026-08-24-alabama-attorney-general-subpoenas-openai-over-hugging-face]] · [[2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after]] · [[2026-08-27-alabama-demands-details-from-openai-lawmakers-sound-alarm-on]] · [[2026-08-27-alabama-demands-details-from-openai-lawmakers-alarm-on-flock]] · [[2026-09-10-openai-faces-gop-led-senate-probe-into-hugging-face-agent-br]]
 <!-- graph:end -->

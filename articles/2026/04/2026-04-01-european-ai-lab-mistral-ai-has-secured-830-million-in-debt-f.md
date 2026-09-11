@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da
 - 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
+- 2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne
 - 2026-05-28-mistral-explores-custom-chips-and-new-french-data-center
-- 2026-08-12-mistral-commits-to-in-region-inference-and-up-to-1-gw-of-eur
-- 2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers
+- 2026-09-10-mistral-valued-at-21b-after-3b-round-asml-maintains-400m-sta
 embedding_id: 2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f
 event_name: ''
 ---
@@ -42,5 +42,5 @@ European AI lab Mistral AI has secured $830 million in debt financing to establi
 
 **Entities:** [[Mistral]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]] · [[2026-05-28-mistral-explores-custom-chips-and-new-french-data-center]] · [[2026-08-12-mistral-commits-to-in-region-inference-and-up-to-1-gw-of-eur]] · [[2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers]]
+**Related:** [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]] · [[2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne]] · [[2026-05-28-mistral-explores-custom-chips-and-new-french-data-center]] · [[2026-09-10-mistral-valued-at-21b-after-3b-round-asml-maintains-400m-sta]]
 <!-- graph:end -->

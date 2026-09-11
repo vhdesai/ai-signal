@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-21-microsoft-and-mistral-expand-partnership-with-multibillion-d
 - 2026-07-21-microsoft-and-mistral-expand-partnership-for-regulated-indus
+- 2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai
 - 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
-- 2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent
-- 2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig
+- 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
 embedding_id: 2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Microsoft expanded its strategic partnership with Mistral, tapping Mistral's Eur
 
 **Entities:** [[Microsoft]] · [[Mistral]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-21-microsoft-and-mistral-expand-partnership-with-multibillion-d]] · [[2026-07-21-microsoft-and-mistral-expand-partnership-for-regulated-indus]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]] · [[2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent]] · [[2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig]]
+**Related:** [[2026-07-21-microsoft-and-mistral-expand-partnership-with-multibillion-d]] · [[2026-07-21-microsoft-and-mistral-expand-partnership-for-regulated-indus]] · [[2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]] · [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par]]
 <!-- graph:end -->

@@ -27,8 +27,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim
 - 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
+- 2026-09-10-huawei-raises-ascend-ai-chip-prices-60-as-china-s-nvidia-alt
 - 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
-- 2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr
 embedding_id: 2026-05-26-with-h200-shipments-to-china-stalled-by-conflicting-u-s
 event_name: ''
 ---
@@ -42,5 +42,5 @@ With H200 shipments to China stalled by conflicting U.S. and Beijing rules, Huaw
 
 **Entities:** [[Alibaba]] · [[ByteDance]] · [[Huawei]] · [[Tencent]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]] · [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]]
+**Related:** [[2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-09-10-huawei-raises-ascend-ai-chip-prices-60-as-china-s-nvidia-alt]] · [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]]
 <!-- graph:end -->

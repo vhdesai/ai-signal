@@ -21,9 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-10-spacex-overhauls-data-center-build-out-under-new-rocket-engi
+- 2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten
 - 2026-05-15-reporting-from-may-14-confirms-that-elon-musk-s-spacexai-the
 - 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
-- 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
 embedding_id: 2026-09-01-spacex-shakes-up-data-center-leadership-after-aggressive-bui
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Elon Musk has replaced several leaders on the SpaceX data center team with execu
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-15-reporting-from-may-14-confirms-that-elon-musk-s-spacexai-the]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]]
+**Related:** [[2026-09-10-spacex-overhauls-data-center-build-out-under-new-rocket-engi]] · [[2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten]] · [[2026-05-15-reporting-from-may-14-confirms-that-elon-musk-s-spacexai-the]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]]
 <!-- graph:end -->

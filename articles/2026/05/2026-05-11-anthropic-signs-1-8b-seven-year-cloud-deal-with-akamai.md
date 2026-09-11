@@ -29,8 +29,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
 - 2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol
+- 2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen
 - 2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu
-- 2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-volta
 embedding_id: 2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Anthropic has signed a seven-year, $1.8 billion cloud infrastructure agreement w
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[xAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol]] · [[2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu]] · [[2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-volta]]
+**Related:** [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol]] · [[2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen]] · [[2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu]]
 <!-- graph:end -->

@@ -3,16 +3,17 @@ article_id: 2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-r
 title: OpenAI publishes internal data on how coding agents are reshaping its own research
   pace
 date: '2026-09-06'
-source: OpenAI
+source: OpenAI / Engadget
 url_original: https://openai.com/index/research-acceleration-view-inside-openai
 url_canonical: https://openai.com/index/research-acceleration-view-inside-openai
 url_status: broken
-digest_source: digests\raw\2026-09-07_061438_Inbox_Daily AI News Digest - September
-  7, 2026.md
-content_hash: efbd2df7258e580638ac628fe63d0b532e4494d4e6591e7ae8b454f7b303452e
+digest_source: digests\raw\2026-09-07_143014_Final-Daily-AI-News-Digest.md
+content_hash: 3dc43adc65f7025b4c92dc2c1533a3f5323de4cb68e55c6cd5672bd62581feba
 normalized_title_hash: cebaae630ae7dd1e
 canonical_url_hash: 3784d7aba9718af9
-tags: []
+tags:
+- Breaking
+- Hot
 entities:
 - OpenAI
 themes:
@@ -32,7 +33,7 @@ event_name: ''
 
 # OpenAI publishes internal data on how coding agents are reshaping its own research pace
 
-OpenAI published an unusually specific internal-data post detailing how its own researchers are using coding agents — reporting agent usage per researcher, experiment velocity, task-complexity distributions, and its claim that agents now handle roughly 3.1 workdays of work per human workday inside the research org. OpenAI frames this as evidence it has achieved an "automated research intern" and that internal research is accelerating measurably. For executives, the piece is both a demonstration of enterprise-agent workflow benchmarks and an implicit case for why OpenAI's roadmap cadence may continue to accelerate.
+OpenAI published a rare internal-data post detailing how its own researchers are using coding agents — reporting per-researcher agent usage, experiment velocity, task-complexity distributions, and its claim that agents now handle roughly 3.1 workdays of work per human workday inside the research org. The company frames this as evidence it has hit the "automated research intern" milestone Sam Altman set in October 2025 and reiterates a target of a fully automated AI researcher by March 2028. Executives should treat the milestone as directional rather than independently verified — the measurement framework is OpenAI's own — but the piece is also a useful reference for enterprise-agent workflow benchmarks.
 
 <!-- graph:start -->
 ## Connections

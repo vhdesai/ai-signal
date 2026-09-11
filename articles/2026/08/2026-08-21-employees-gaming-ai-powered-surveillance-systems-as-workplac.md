@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers
 - 2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing
+- 2026-09-08-ai-threats-are-reshaping-where-companies-spend-their-cyberse
 - 2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur
 - 2026-06-21-tech-workers-spend-nights-and-weekends-learning-ai-tools
-- 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 embedding_id: 2026-08-21-employees-gaming-ai-powered-surveillance-systems-as-workplac
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Employees are increasingly gaming AI productivity trackers, prioritizing the app
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing]] · [[2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur]] · [[2026-06-21-tech-workers-spend-nights-and-weekends-learning-ai-tools]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]]
+**Related:** [[2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing]] · [[2026-09-08-ai-threats-are-reshaping-where-companies-spend-their-cyberse]] · [[2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur]] · [[2026-06-21-tech-workers-spend-nights-and-weekends-learning-ai-tools]]
 <!-- graph:end -->

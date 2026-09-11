@@ -22,11 +22,8 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-09-06-authors-push-back-as-publishers-and-agents-claim-share-of-an
-related_article_ids:
-- 2026-09-06-authors-dispute-publisher-and-agent-claims-on-anthropic-s-1
-- 2026-07-20-anthropic-s-1-5-billion-copyright-settlement-receives-final
-- 2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr
+canonical_article_id: 2026-09-06-authors-contest-publisher-and-agent-claims-on-anthropic-s-1
+related_article_ids: []
 embedding_id: 2026-09-06-authors-push-back-as-publishers-and-agents-stake-claims-on-a
 event_name: ''
 ---
@@ -40,6 +37,5 @@ Authors expecting payouts from Anthropic's $1.5 billion copyright settlement beg
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Canonical:** [[2026-09-06-authors-push-back-as-publishers-and-agents-claim-share-of-an]]
-**Related:** [[2026-09-06-authors-dispute-publisher-and-agent-claims-on-anthropic-s-1]] · [[2026-07-20-anthropic-s-1-5-billion-copyright-settlement-receives-final]] · [[2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr]]
+**Canonical:** [[2026-09-06-authors-contest-publisher-and-agent-claims-on-anthropic-s-1]]
 <!-- graph:end -->

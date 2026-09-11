@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga
 - 2026-06-11-chinese-ai-models-undercut-openai-and-anthropic-by-up-to-9-o
-- 2026-06-11-openai-considers-drastic-price-cuts-to-compete-with-anthropi
+- 2026-09-08-openai-s-luna-price-cut-drove-a-10x-usage-surge-taking-openr
 embedding_id: 2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI slashed prices for GPT-5.6 Luna by 80%, signaling an intensifying price w
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga]] · [[2026-06-11-chinese-ai-models-undercut-openai-and-anthropic-by-up-to-9-o]] · [[2026-06-11-openai-considers-drastic-price-cuts-to-compete-with-anthropi]]
+**Related:** [[2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga]] · [[2026-06-11-chinese-ai-models-undercut-openai-and-anthropic-by-up-to-9-o]] · [[2026-09-08-openai-s-luna-price-cut-drove-a-10x-usage-surge-taking-openr]]
 <!-- graph:end -->

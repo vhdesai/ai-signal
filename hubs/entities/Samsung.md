@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Samsung
-member_count: 85
+member_count: 90
 ---
 
 # Samsung
 
-> Auto-generated entity hub. 85 connected article(s).
+> Auto-generated entity hub. 90 connected article(s).
 
+- `2026-09-10` [[2026-09-10-tsmc-august-revenue-up-53-3-to-a-record-nt-514-8b-advanced-n|TSMC August revenue up 53.3% to a record NT$514.8B; advanced nodes fully booked]]
+- `2026-09-10` [[2026-09-10-mistral-valued-at-21b-after-3b-round-asml-maintains-400m-sta|Mistral valued at €21B after €3B round; ASML maintains €400M stake]]
+- `2026-09-10` [[2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne|Mistral partners with Cloudera on sovereign enterprise AI; new €21B valuation caps €3B Samsung-led round]]
+- `2026-09-09` [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo|US government accuses six Chinese AI firms of large-scale model distillation]]
+- `2026-09-08` [[2026-09-08-mistral-raises-3b-at-24b-valuation-in-a-samsung-led-series-d|Mistral raises €3B at ~$24B valuation in a Samsung-led Series D]]
 - `2026-09-06` [[2026-09-06-mistral-reportedly-closes-3b-round-with-samsung-nvidia-and-s|Mistral reportedly closes €3B round with Samsung, Nvidia, and Scaleup Fund]]
 - `2026-08-31` [[2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth|China's CXMT makes a breakthrough in advanced high-bandwidth memory chips]]
 - `2026-08-31` [[2026-08-31-china-s-cxmt-makes-breakthrough-in-advanced-high-bandwidth-m|China's CXMT Makes Breakthrough in Advanced High-Bandwidth Memory Chips]]

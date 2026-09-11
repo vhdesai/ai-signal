@@ -1,24 +1,36 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 2873
+member_count: 2885
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 2873 connected article(s).
+> Auto-generated topic hub. 2885 connected article(s).
 
+- `2026-09-10` [[2026-09-10-ibm-and-nasa-release-open-source-ai-foundation-model-for-lun|IBM and NASA release open-source AI foundation model for lunar science]]
+- `2026-09-10` [[2026-09-10-ibm-and-nasa-release-an-open-source-ai-foundation-model-for|IBM and NASA release an open-source AI foundation model for lunar science]]
+- `2026-09-10` [[2026-09-10-google-deepmind-proposes-autoregressive-ranking-to-replace-d|Google DeepMind proposes Autoregressive Ranking to replace dual/cross-encoder search stacks]]
+- `2026-09-10` [[2026-09-10-deepseek-releases-v4-1-flash-with-1m-context-fp4-kv-cache-an|DeepSeek releases V4.1-Flash with 1M context, FP4 KV cache and encoder/decoder split]]
+- `2026-09-09` [[2026-09-09-suno-retires-its-model-line-for-label-licensed-v6-family|Suno retires its model line for label-licensed v6 family]]
+- `2026-09-09` [[2026-09-09-openai-s-agent-generated-navier-stokes-proof-draws-lean-veri|OpenAI's agent-generated Navier–Stokes proof draws Lean verification and a credit dispute]]
+- `2026-09-09` [[2026-09-09-openai-claims-10-000-agent-system-produced-navier-stokes-pro|OpenAI claims 10,000-agent system produced Navier–Stokes proof in 88 hours]]
+- `2026-09-09` [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s|Meta ships Muse, a consumer AI agent with payment, email, and smart-home access]]
+- `2026-09-09` [[2026-09-09-credit-dispute-over-the-navier-stokes-result-exposes-an-acad|Credit dispute over the Navier–Stokes result exposes an academia–lab attribution gap]]
+- `2026-09-08` [[2026-09-08-quanta-the-proof-is-lean-verified-but-scope-and-precedence-a|Quanta: the proof is Lean-verified, but scope and precedence are contested]]
+- `2026-09-08` [[2026-09-08-openai-publishes-agent-generated-proof-of-finite-time-singul|OpenAI publishes agent-generated proof of finite-time singularity in 3D Navier–Stokes]]
+- `2026-09-08` [[2026-09-08-credit-dispute-over-the-navier-stokes-result-exposes-an-acad|Credit dispute over the Navier–Stokes result exposes an academia–lab attribution gap]]
 - `2026-09-07` [[2026-09-07-un-rights-chief-warns-ai-could-pose-existential-risk-to-huma|UN rights chief warns AI could pose existential risk to humanity]]
 - `2026-09-07` [[2026-09-07-south-korea-says-22-3b-texas-ai-power-deal-is-not-final-as-t|South Korea says $22.3B Texas AI power deal is not final as talks continue]]
 - `2026-09-07` [[2026-09-07-openai-s-astra-ships-and-reignites-the-agi-has-arrived-debat|OpenAI's Astra ships and reignites the "AGI has arrived" debate]]
 - `2026-09-07` [[2026-09-07-openai-sends-eu-incident-report-on-hijacked-german-website-c|OpenAI sends EU incident report on hijacked German website, Commission says]]
 - `2026-09-07` [[2026-09-07-mit-scientists-crack-the-code-for-flexible-wafer-scale-photo|MIT scientists crack the code for flexible wafer-scale photonics]]
+- `2026-09-07` [[2026-09-07-mit-reports-a-breakthrough-in-flexible-wafer-scale-photonics|MIT reports a breakthrough in flexible wafer-scale photonics]]
 - `2026-09-07` [[2026-09-07-insurance-claims-lose-the-paper-chase-as-ai-gets-to-work|Insurance claims lose the paper chase as AI gets to work]]
 - `2026-09-07` [[2026-09-07-ifm-releases-k2-horizon-six-apache-2-0-open-weight-models-sp|IFM releases K2 Horizon: six Apache 2.0 open-weight models spanning 0.9B to 375B]]
 - `2026-09-07` [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-chi|Huawei ships Kirin 9050 Pro built on its Tau Scaling Law chip architecture]]
 - `2026-09-07` [[2026-09-07-eligible-asus-laptops-unlock-bundled-google-ai-experiences|Eligible ASUS laptops unlock bundled Google AI experiences]]
-- `2026-09-07` [[2026-09-07-china-s-moonshot-and-z-ai-bring-ai-model-subscriptions-to-al|China's Moonshot and Z.ai bring AI-model subscriptions to Alibaba's Tmall retail platform]]
-- `2026-09-07` [[2026-09-07-analysis-ai-hyperscalers-circular-deals-now-resemble-1980s-s|Analysis: AI hyperscalers' "circular deals" now resemble 1980s S&L "daisy chains"]]
+- `2026-09-07` [[2026-09-07-alibaba-releases-qwen-drive-1-0-a-unified-perception-and-pla|Alibaba releases Qwen-Drive 1.0, a unified perception-and-planning model for vehicles]]
 - `2026-09-07` [[2026-09-07-alibaba-releases-qwen-drive-1-0-a-unified-perception-plannin|Alibaba releases Qwen-Drive 1.0, a unified perception, planning, and dialogue model for vehicles]]
 - `2026-09-07` [[2026-09-07-ai-designed-insilico-drug-shows-early-biological-age-reversa|AI-designed Insilico drug shows early biological-age-reversal signal]]
 - `2026-09-07` [[2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur|AI data-center water consumption returns as an infrastructure constraint]]

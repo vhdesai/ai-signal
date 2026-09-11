@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
 - 2026-05-15-hot-anthropic-closing-in-on-900b-valuation-in-new-30b-fundin
-- 2026-05-15-anthropic-potential-30b-funding-round-could-push-valuation-t
+- 2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen
 embedding_id: 2026-04-20-hot-amazon-commits-25b-more-to-anthropic-100b-aws-capex
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Amazon disclosed a reported $25B follow-on investment in Anthropic, bringing tot
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f]] · [[2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-15-hot-anthropic-closing-in-on-900b-valuation-in-new-30b-fundin]] · [[2026-05-15-anthropic-potential-30b-funding-round-could-push-valuation-t]]
+**Related:** [[2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f]] · [[2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-15-hot-anthropic-closing-in-on-900b-valuation-in-new-30b-fundin]] · [[2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen]]
 <!-- graph:end -->

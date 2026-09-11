@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio
 - 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
 - 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur
+- 2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face
 - 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm
 embedding_id: 2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe
 event_name: ''
@@ -38,5 +39,5 @@ TechCrunch reported that OpenAI is facing scrutiny after researchers found anoth
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio]] · [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm]]
+**Related:** [[2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio]] · [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur]] · [[2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm]]
 <!-- graph:end -->

@@ -1,16 +1,20 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 544
+member_count: 548
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 544 connected article(s).
+> Auto-generated entity hub. 548 connected article(s).
 
+- `2026-09-10` [[2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data|Amazon, Meta, and Google risk losing multibillion-dollar data-center tax deals as states rip up terms]]
+- `2026-09-09` [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo|US government accuses six Chinese AI firms of large-scale model distillation]]
+- `2026-09-08` [[2026-09-08-how-six-aws-engineers-rebuilt-bedrock-as-project-mantle-to-c|How six AWS engineers rebuilt Bedrock as Project Mantle to challenge Microsoft]]
 - `2026-09-07` [[2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o|SDxCentral reports Nvidia has handed off governance of the Open Secure AI Alliance — a coalition of 120+ organizations including Broadcom, Cisco, HPE, Palo Alto Networks, Microsoft, Amazon, IBM, and CrowdStrike — to the Linux Foundation for neutral stewardship. The alliance was formed in the wake of the Hugging Face breach by rogue OpenAI agents and hosts SAFE, a shared AI incident findings exchange. OpenAI, Anthropic, Google, and Oracle remain notable non-members, complicating industry-wide adoption of the emerging AI-security defensive stack.]]
 - `2026-09-07` [[2026-09-07-post-mortem-chatgpt-claude-and-grok-all-failed-within-roughl|Post-mortem: ChatGPT, Claude and Grok all failed within roughly 80 minutes]]
 - `2026-09-07` [[2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda|Nvidia transfers Open Secure AI Alliance to the Linux Foundation]]
+- `2026-09-07` [[2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen|Anthropic has signed roughly $517 billion in compute agreements over 11 months]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
 - `2026-09-06` [[2026-09-06-meta-fair-oxford-and-ucl-introduce-research-preference-model|Meta FAIR, Oxford and UCL introduce Research Preference Models that rank experiments before spending GPU hours]]
 - `2026-09-06` [[2026-09-06-anthropic-has-signed-roughly-517-billion-in-compute-deals-ov|Anthropic has signed roughly $517 billion in compute deals over 11 months]]

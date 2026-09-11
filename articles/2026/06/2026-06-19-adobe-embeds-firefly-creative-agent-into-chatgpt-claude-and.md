@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis
 - 2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst
 - 2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl
 - 2026-05-06-
 - 2026-05-25-adobe-canva-and-capcut-integrate-gemini-directly-inside-the
-- 2026-08-08-claude-code-adds-cross-session-messaging-between-agents
 embedding_id: 2026-06-19-adobe-embeds-firefly-creative-agent-into-chatgpt-claude-and
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Adobe's AI "Creative Agent" now lets users invoke it from third-party assistants
 
 **Entities:** [[Adobe]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst]] · [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-05-06-]] · [[2026-05-25-adobe-canva-and-capcut-integrate-gemini-directly-inside-the]] · [[2026-08-08-claude-code-adds-cross-session-messaging-between-agents]]
+**Related:** [[2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis]] · [[2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst]] · [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-05-06-]] · [[2026-05-25-adobe-canva-and-capcut-integrate-gemini-directly-inside-the]]
 <!-- graph:end -->

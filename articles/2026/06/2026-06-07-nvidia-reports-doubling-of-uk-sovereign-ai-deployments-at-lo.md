@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
+- 2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight
 - 2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure
 - 2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers
 - 2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon
-- 2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover
-- 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
 embedding_id: 2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo
 event_name: ''
 ---
@@ -39,5 +39,5 @@ One year after Huang and PM Starmer framed Britain as "an AI maker, not an AI ta
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure]] · [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers]] · [[2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon]] · [[2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]]
+**Related:** [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par]] · [[2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight]] · [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure]] · [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers]] · [[2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon]]
 <!-- graph:end -->

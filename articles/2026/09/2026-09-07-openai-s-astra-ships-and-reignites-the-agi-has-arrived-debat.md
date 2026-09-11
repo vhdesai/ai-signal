@@ -4,8 +4,8 @@ title: OpenAI's Astra ships and reignites the "AGI has arrived" debate
 date: '2026-09-07'
 source: Business Insider
 url_original: null
-url_canonical: https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-07_142255_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 185e0890377334e01321961e5f88cfe92682b8033fa8013927e2da06449f24cf

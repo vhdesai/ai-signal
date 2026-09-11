@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-02-breaking-mercor-and-litellm-breach-exposes-4tb-of-data-mar-3
 - 2026-04-04-mercor-the-10b-ai-startup-serving-anthropic-openai-and-meta
 - 2026-04-06-a-supply-chain-security-breach-at-mercor-a-platform-widely-u
-- 2026-05-22-ntsb-to-review-docket-access-after-ai-reconstructs-deceased
+- 2026-09-08-google-attackers-built-and-ran-a-credential-harvesting-campa
 embedding_id: 2026-04-27-4tb-of-voice-data-stolen-from-40-000-ai-contractors-at-merco
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A data breach exposed 4 terabytes of voice samples from 40,000 AI training contr
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre]] · [[2026-04-02-breaking-mercor-and-litellm-breach-exposes-4tb-of-data-mar-3]] · [[2026-04-04-mercor-the-10b-ai-startup-serving-anthropic-openai-and-meta]] · [[2026-04-06-a-supply-chain-security-breach-at-mercor-a-platform-widely-u]] · [[2026-05-22-ntsb-to-review-docket-access-after-ai-reconstructs-deceased]]
+**Related:** [[2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre]] · [[2026-04-02-breaking-mercor-and-litellm-breach-exposes-4tb-of-data-mar-3]] · [[2026-04-04-mercor-the-10b-ai-startup-serving-anthropic-openai-and-meta]] · [[2026-04-06-a-supply-chain-security-breach-at-mercor-a-platform-widely-u]] · [[2026-09-08-google-attackers-built-and-ran-a-credential-harvesting-campa]]
 <!-- graph:end -->

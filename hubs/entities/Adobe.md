@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Adobe
-member_count: 23
+member_count: 25
 ---
 
 # Adobe
 
-> Auto-generated entity hub. 23 connected article(s).
+> Auto-generated entity hub. 25 connected article(s).
 
+- `2026-09-09` [[2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis|The Information: OpenAI blocks Adobe and others from advertising competing AI in ChatGPT]]
+- `2026-09-09` [[2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing|OpenAI cuts off Adobe and others from advertising competing AI products in ChatGPT]]
 - `2026-09-06` [[2026-09-06-oracle-and-adobe-face-opposite-ai-moat-tests|Oracle and Adobe face opposite AI moat tests]]
 - `2026-09-02` [[2026-09-02-adobe-is-making-its-tools-available-in-slack|Adobe is making its tools available in Slack]]
 - `2026-09-01` [[2026-09-01-google-launches-pics-an-ai-first-design-tool-aimed-at-canva|Google launches Pics, an AI-first design tool aimed at Canva and Adobe Express]]

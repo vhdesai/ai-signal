@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-13-sam-altman-s-personal-investments-prompt-gop-probe-sec-inves
 - 2026-05-26-openai-confirmed-its-confidential-s-1-filing-with-the-sec-on
 - 2026-05-26-openai-s-ipo-path-sets-up-the-first-true-public-market-test
-- 2026-05-18-the-republican-led-house-oversight-committee-launched-an-inv
+- 2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face
 embedding_id: 2026-06-12-state-attorneys-general-open-investigation-into-openai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Coalition of state AGs has opened an investigation into OpenAI. The probe lands 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-05-13-sam-altman-s-personal-investments-prompt-gop-probe-sec-inves]] · [[2026-05-26-openai-confirmed-its-confidential-s-1-filing-with-the-sec-on]] · [[2026-05-26-openai-s-ipo-path-sets-up-the-first-true-public-market-test]] · [[2026-05-18-the-republican-led-house-oversight-committee-launched-an-inv]]
+**Related:** [[2026-05-13-sam-altman-s-personal-investments-prompt-gop-probe-sec-inves]] · [[2026-05-26-openai-confirmed-its-confidential-s-1-filing-with-the-sec-on]] · [[2026-05-26-openai-s-ipo-path-sets-up-the-first-true-public-market-test]] · [[2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face]]
 <!-- graph:end -->

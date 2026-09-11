@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk
 - 2026-09-05-anthropic-ipo-prospectus-reportedly-days-away-as-amd-commits
 - 2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r
-- 2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi
+- 2026-09-05-amd-commits-up-to-5b-to-anthropic-as-ipo-prospectus-is-repor
 embedding_id: 2026-09-02-anthropic-s-ipo-prospectus-will-test-assumptions-behind-the
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Forbes reported that Anthropic plans to release an IPO prospectus after Labor Da
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk]] · [[2026-09-05-anthropic-ipo-prospectus-reportedly-days-away-as-amd-commits]] · [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]] · [[2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi]]
+**Related:** [[2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk]] · [[2026-09-05-anthropic-ipo-prospectus-reportedly-days-away-as-amd-commits]] · [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]] · [[2026-09-05-amd-commits-up-to-5b-to-anthropic-as-ipo-prospectus-is-repor]]
 <!-- graph:end -->

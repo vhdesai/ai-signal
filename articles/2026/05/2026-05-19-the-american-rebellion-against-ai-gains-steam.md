@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-the-american-rebellion-against-ai-is-gaining-steam
 - 2026-06-07-wsj-the-artificial-intelligence-backlash
+- 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 - 2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
-- 2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d
 embedding_id: 2026-05-19-the-american-rebellion-against-ai-gains-steam
 event_name: ''
 ---
@@ -39,5 +39,5 @@ WSJ Editor-in-Chief Emma Tucker frames a growing US backlash against AI — from
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-19-the-american-rebellion-against-ai-is-gaining-steam]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]]
+**Related:** [[2026-05-19-the-american-rebellion-against-ai-is-gaining-steam]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]]
 <!-- graph:end -->

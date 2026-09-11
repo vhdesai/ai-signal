@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti
 - 2026-08-28-axios-china-linked-bot-farm-stoking-us-opposition-to-ai-data
 - 2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic
-- 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
+- 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 embedding_id: 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
 event_name: ''
 ---
@@ -39,5 +39,5 @@ AI industry groups are alleging Chinese influence behind grassroots resistance t
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-06-12-openai-says-china-launched-influence-campaign-to-shape-u-s-a]] · [[2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti]] · [[2026-08-28-axios-china-linked-bot-farm-stoking-us-opposition-to-ai-data]] · [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]]
+**Related:** [[2026-06-12-openai-says-china-launched-influence-campaign-to-shape-u-s-a]] · [[2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti]] · [[2026-08-28-axios-china-linked-bot-farm-stoking-us-opposition-to-ai-data]] · [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]]
 <!-- graph:end -->

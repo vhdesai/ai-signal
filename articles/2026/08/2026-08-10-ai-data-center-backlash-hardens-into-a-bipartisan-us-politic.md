@@ -42,10 +42,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights
+- 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 - 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
 - 2026-09-05-data-center-backlash-becomes-a-midterm-political-issue
 - 2026-08-29-tech-backlash-roughly-130b-of-data-center-projects-blocked-o
-- 2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a
 embedding_id: 2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic
 event_name: ''
 ---
@@ -59,5 +59,5 @@ Opposition to large AI data centers is spreading across party lines over electri
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-09-05-data-center-backlash-becomes-a-midterm-political-issue]] · [[2026-08-29-tech-backlash-roughly-130b-of-data-center-projects-blocked-o]] · [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]]
+**Related:** [[2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-09-05-data-center-backlash-becomes-a-midterm-political-issue]] · [[2026-08-29-tech-backlash-roughly-130b-of-data-center-projects-blocked-o]]
 <!-- graph:end -->

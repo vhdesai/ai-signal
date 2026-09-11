@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st
-- 2026-08-12-deepmind-shakeup-kavukcuoglu-takes-over-sergey-brin-goes-all
+- 2026-09-09-sergey-brin-is-quietly-reshaping-google-s-gemini-roadmap
 embedding_id: 2026-08-13-google-tightens-control-over-deepmind-as-gemini-faces-compet
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A leadership reorganization at Google DeepMind, reportedly accompanied by pressu
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st]] · [[2026-08-12-deepmind-shakeup-kavukcuoglu-takes-over-sergey-brin-goes-all]]
+**Related:** [[2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st]] · [[2026-09-09-sergey-brin-is-quietly-reshaping-google-s-gemini-roadmap]]
 <!-- graph:end -->

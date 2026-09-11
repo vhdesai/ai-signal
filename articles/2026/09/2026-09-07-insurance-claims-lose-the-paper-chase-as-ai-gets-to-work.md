@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-07-insurance-claims-workflows-lose-the-paper-chase-as-agents-ge
 - 2026-09-03-startup-arr-is-less-secure-than-ever-as-enterprises-constant
 - 2026-08-27-openai-anthropic-google-and-100-companies-call-for-collectiv
 - 2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper
 - 2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl
-- 2026-07-28-anthropic-says-claude-5-works-better-with-much-shorter-promp
 embedding_id: 2026-09-07-insurance-claims-lose-the-paper-chase-as-ai-gets-to-work
 event_name: ''
 ---
@@ -38,5 +38,5 @@ PYMNTS reported that insurers and reinsurers are deploying AI agents for documen
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-03-startup-arr-is-less-secure-than-ever-as-enterprises-constant]] · [[2026-08-27-openai-anthropic-google-and-100-companies-call-for-collectiv]] · [[2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper]] · [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-07-28-anthropic-says-claude-5-works-better-with-much-shorter-promp]]
+**Related:** [[2026-09-07-insurance-claims-workflows-lose-the-paper-chase-as-agents-ge]] · [[2026-09-03-startup-arr-is-less-secure-than-ever-as-enterprises-constant]] · [[2026-08-27-openai-anthropic-google-and-100-companies-call-for-collectiv]] · [[2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper]] · [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]]
 <!-- graph:end -->

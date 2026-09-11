@@ -29,13 +29,9 @@ themes:
 - infrastructure-investments
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-09-06-authors-push-back-as-publishers-and-agents-claim-share-of-an
-- 2026-09-06-authors-dispute-publisher-and-agent-claims-on-anthropic-s-1
-- 2026-07-20-anthropic-s-1-5-billion-copyright-settlement-receives-final
-- 2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai
+dedupe_status: duplicate
+canonical_article_id: 2026-09-06-authors-contest-publisher-and-agent-claims-on-anthropic-s-1
+related_article_ids: []
 embedding_id: 2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr
 event_name: ''
 ---
@@ -49,5 +45,5 @@ Authors expecting payouts from Anthropic's $1.5 billion copyright settlement rec
 
 **Entities:** [[AMD]] · [[Anthropic]] · [[DeepSeek]] · [[Huawei]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Tesla]]
 **Topics:** [[Policy & Regulation]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-06-authors-push-back-as-publishers-and-agents-claim-share-of-an]] · [[2026-09-06-authors-dispute-publisher-and-agent-claims-on-anthropic-s-1]] · [[2026-07-20-anthropic-s-1-5-billion-copyright-settlement-receives-final]] · [[2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai]]
+**Canonical:** [[2026-09-06-authors-contest-publisher-and-agent-claims-on-anthropic-s-1]]
 <!-- graph:end -->

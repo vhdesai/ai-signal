@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow
 - 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
 - 2026-08-31-trump-condemns-communities-opposing-data-centers-ahead-of-mi
+- 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 - 2026-08-19-the-great-bipartisan-data-center-smackdown-has-begun
-- 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 embedding_id: 2026-08-23-republican-split-opens-on-data-centers-trump-defends-the-bui
 event_name: ''
 ---
@@ -40,5 +40,5 @@ In a 40-minute Sunday radio interview, President Trump defended the AI data-cent
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-08-31-trump-condemns-communities-opposing-data-centers-ahead-of-mi]] · [[2026-08-19-the-great-bipartisan-data-center-smackdown-has-begun]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]]
+**Related:** [[2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-08-31-trump-condemns-communities-opposing-data-centers-ahead-of-mi]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]] · [[2026-08-19-the-great-bipartisan-data-center-smackdown-has-begun]]
 <!-- graph:end -->

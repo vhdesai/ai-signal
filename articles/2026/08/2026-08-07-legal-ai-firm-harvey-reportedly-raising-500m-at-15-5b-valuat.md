@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu
+- 2026-09-09-legal-ai-startup-harvey-reaches-15-5b-valuation-on-a-550m-ro
+- 2026-09-09-harvey-raises-550m-at-15-5b-valuation-for-legal-ai
 - 2026-08-08-harvey-in-talks-for-500m-at-a-15-5b-valuation
 - 2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation
-- 2026-05-27-mistral-and-harvey-expand-legal-ai-partnership
-- 2026-07-09-legal-ai-startup-norm-ai-hits-a-1-2b-valuation-with-a-120m-s
 embedding_id: 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Harvey, which builds AI software for law firms and in-house legal teams, is repo
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu]] · [[2026-08-08-harvey-in-talks-for-500m-at-a-15-5b-valuation]] · [[2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation]] · [[2026-05-27-mistral-and-harvey-expand-legal-ai-partnership]] · [[2026-07-09-legal-ai-startup-norm-ai-hits-a-1-2b-valuation-with-a-120m-s]]
+**Related:** [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu]] · [[2026-09-09-legal-ai-startup-harvey-reaches-15-5b-valuation-on-a-550m-ro]] · [[2026-09-09-harvey-raises-550m-at-15-5b-valuation-for-legal-ai]] · [[2026-08-08-harvey-in-talks-for-500m-at-a-15-5b-valuation]] · [[2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation]]
 <!-- graph:end -->
