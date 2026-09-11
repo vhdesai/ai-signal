@@ -48,7 +48,7 @@
     <span>April 24, 2026</span>
     
   </div>
-  <div class="summary"><ul class="bullet-summary"><li>DeepSeek released its V4 model — its most capable to date — featuring a 1 million token context window, 1.6 trillion parameters in the Pro version, and native multimodal support for text, images, and video with a new "Engram" memory architecture.</li><li>The model runs on Huawei Ascend processors, representing a potential inflection point in China's AI hardware independence from Nvidia.</li><span id="exp3506" style="display:none"><li>Alibaba, ByteDance, and Tencent placed combined bulk orders for hundreds of thousands of Huawei chips in preparation.</li><li>DeepSeek stated V4-Pro "significantly leads other open-source models" in world knowledge benchmarks, trailing only Google's Gemini-Pro-3.1 among closed-source competitors.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp3506');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 2 more…':'Show less'">Show 2 more…</button></div>
+  <div class="summary"><ul class="bullet-summary"><li>DeepSeek released its V4 model — its most capable to date — featuring a 1 million token context window, 1.6 trillion parameters in the Pro version, and native multimodal support for text, images, and video with a new "Engram" memory architecture.</li><li>The model runs on Huawei Ascend processors, representing a potential inflection point in China's AI hardware independence from Nvidia.</li><span id="exp3600" style="display:none"><li>Alibaba, ByteDance, and Tencent placed combined bulk orders for hundreds of thousands of Huawei chips in preparation.</li><li>DeepSeek stated V4-Pro "significantly leads other open-source models" in world knowledge benchmarks, trailing only Google's Gemini-Pro-3.1 among closed-source competitors.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp3600');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 2 more…':'Show less'">Show 2 more…</button></div>
   
   <div class="tags"><a class="tag tag-entity" href="../entities/Alibaba.html">Alibaba</a><a class="tag tag-entity" href="../entities/ByteDance.html">ByteDance</a><a class="tag tag-entity" href="../entities/DeepSeek.html">DeepSeek</a><a class="tag tag-entity" href="../entities/Google.html">Google</a><a class="tag tag-entity" href="../entities/Huawei.html">Huawei</a><a class="tag tag-entity" href="../entities/NVIDIA.html">NVIDIA</a><a class="tag tag-entity" href="../entities/Tencent.html">Tencent</a><a class="tag tag-topic" href="../topics/china-compete.html">🌏 Global AI Race</a></div>
 </article><div class="snap-nav"><a href="2026-04-23.html">← April 23, 2026</a><span class="spacer"></span><a href="2026-04-25.html">April 25, 2026 →</a></div>
@@ -66,13 +66,18 @@
     </div>
 
 <div class="ai-chat-app ai-chat-app--panel" data-ai-chat-root data-chat-mode="panel">
-  <div class="ai-chat-notice" role="alert"><span class="ai-chat-notice-icon" aria-hidden="true">⚠️</span><span><strong>Free models = flaky access.</strong> These AI Chats run on free models and may be unavailable. Want reliable, paid access? Reach out on <a href="https://www.linkedin.com/in/vik-desai" target="_blank" rel="noopener">LinkedIn</a>.</span></div>
+  <div class="ai-chat-notice" role="alert"><span class="ai-chat-notice-icon" aria-hidden="true">⚠️</span><span><strong>Free models = flaky access and fairly small inference capability.</strong> These AI Chats run on rate-limited free models. Each query only searches a rolling <strong>2-week window</strong> of AI Signal coverage (pick the window below). Want reliable, paid access? Reach out on <a href="https://www.linkedin.com/in/vik-desai" target="_blank" rel="noopener">LinkedIn</a>.</span></div>
   <div class="ai-chat-toolbar">
     <div class="ai-chat-toolbar-main">
       <h3 class="ai-chat-toolbar-title">💬 Quick chat</h3>
       <p class="ai-chat-toolbar-subtitle">Ask about recent AI Signal coverage in a compact view.</p>
     </div>
     <div class="ai-chat-toolbar-actions">
+      <label class="ai-chat-model ai-chat-window">Window
+        <select data-chat-window aria-label="Select 2-week article window">
+          <option value="">Loading…</option>
+        </select>
+      </label>
       <label class="ai-chat-model">Model
         <select data-chat-model aria-label="Select AI model">
           <option value="google/gemma-4-31b-it:free" selected>Gemma 4 31B (Free)</option><option value="meta-llama/llama-3.3-70b-instruct:free">Llama 3.3 70B (Free)</option><option value="qwen/qwen3-coder:free">Qwen3 Coder (Free)</option><option value="nousresearch/hermes-3-llama-3.1-405b:free">Hermes 3 405B (Free)</option>
@@ -123,7 +128,7 @@
   pathParts.pop(); // remove filename
   const DEPTH = pathParts.length;
   const REL_PREFIX = DEPTH > 0 ? '../'.repeat(DEPTH) : './';
-  const ARTICLES_URL = REL_PREFIX + 'articles.json';
+  const ARTICLES_URL = REL_PREFIX + 'chat-articles.json';
   const OPEN_FULL_CHAT_URL = REL_PREFIX + 'chat.html';
 
   // Page-specific starter prompts
@@ -238,6 +243,92 @@
       return month ? `-${month}-${day}` : null;
     }
     return null;
+  }
+
+  // --- 2-week window helpers ---------------------------------------------
+  const WINDOW_DAYS = 14;
+  const DAY_MS = 24 * 60 * 60 * 1000;
+
+  function parseIsoDate(s){
+    if(!s) return null;
+    const t = String(s).slice(0, 10);
+    const m = t.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+    if(!m) return null;
+    const d = new Date(Date.UTC(+m[1], +m[2]-1, +m[3]));
+    return isNaN(d.getTime()) ? null : d;
+  }
+
+  function fmtShort(d){
+    if(!d) return '';
+    const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    return months[d.getUTCMonth()] + ' ' + d.getUTCDate();
+  }
+
+  function iso(d){
+    return d.toISOString().slice(0, 10);
+  }
+
+  function computeWindows(articles){
+    if(!articles || !articles.length) return [];
+    let maxDate = null;
+    let minDate = null;
+    for(const a of articles){
+      const d = parseIsoDate(a.date);
+      if(!d) continue;
+      if(!maxDate || d > maxDate) maxDate = d;
+      if(!minDate || d < minDate) minDate = d;
+    }
+    if(!maxDate) return [];
+    const windows = [];
+    let end = maxDate;
+    for(let i = 0; i < 6; i++){
+      const start = new Date(end.getTime() - (WINDOW_DAYS - 1) * DAY_MS);
+      if(minDate && start < minDate && windows.length > 0) break;
+      const label = (i === 0 ? 'Latest 2 weeks: ' : '') + fmtShort(start) + ' – ' + fmtShort(end);
+      windows.push({start: iso(start), end: iso(end), label: label});
+      // Step back to the day before this window
+      end = new Date(start.getTime() - DAY_MS);
+      if(minDate && end < minDate) break;
+    }
+    return windows;
+  }
+
+  function populateWindowSelect(select, articles, state){
+    if(!select) return;
+    const windows = computeWindows(articles);
+    if(!windows.length){
+      select.innerHTML = '<option value="">No articles</option>';
+      state.windowStart = null;
+      state.windowEnd = null;
+      return;
+    }
+    select.innerHTML = windows.map((w, i) =>
+      '<option value="' + w.start + '|' + w.end + '"' + (i === 0 ? ' selected' : '') + '>' + w.label + '</option>'
+    ).join('');
+    state.windowStart = windows[0].start;
+    state.windowEnd = windows[0].end;
+  }
+
+  function applyWindowSelection(select, state){
+    if(!select || !select.value){ state.windowStart = null; state.windowEnd = null; return; }
+    const parts = select.value.split('|');
+    state.windowStart = parts[0] || null;
+    state.windowEnd = parts[1] || null;
+  }
+
+  function describeWindow(state){
+    if(!state.windowStart || !state.windowEnd) return 'all available articles';
+    const s = parseIsoDate(state.windowStart);
+    const e = parseIsoDate(state.windowEnd);
+    return fmtShort(s) + ' – ' + fmtShort(e);
+  }
+
+  function filterByWindow(articles, state){
+    if(!state || !state.windowStart || !state.windowEnd) return articles;
+    return articles.filter(a => {
+      const d = (a.date || '').slice(0, 10);
+      return d && d >= state.windowStart && d <= state.windowEnd;
+    });
   }
 
   function rankArticles(query, articles){
@@ -468,12 +559,15 @@
     if(root.dataset.chatInitialized === 'true') return;
     root.dataset.chatInitialized = 'true';
 
-    const state = {messages: [], articles: null, articlesPromise: null, busy: false};
+    const state = {messages: [], articles: null, articlesPromise: null, busy: false, windowStart: null, windowEnd: null};
+    const windowSelect = root.querySelector('[data-chat-window]');
     // Preload articles and show status
     updateStatus(root, 'Loading articles…');
     loadArticles(state).then(articles => {
+      populateWindowSelect(windowSelect, articles, state);
       if(articles && articles.length > 0){
-        updateStatus(root, '✓ ' + articles.length + ' articles loaded — ready to chat');
+        const win = describeWindow(state);
+        updateStatus(root, '✓ ' + articles.length + ' articles loaded — active window: ' + win);
       } else {
         updateStatus(root, '⚠ Could not load articles — chat will use general knowledge. URL: ' + ARTICLES_URL);
       }
@@ -499,6 +593,12 @@
 
     input.addEventListener('input', () => autoResize(input));
     clearButton.addEventListener('click', () => clearChat(root, state));
+    if(windowSelect){
+      windowSelect.addEventListener('change', () => {
+        applyWindowSelection(windowSelect, state);
+        updateStatus(root, 'Active window: ' + describeWindow(state));
+      });
+    }
 
     starters.addEventListener('click', event => {
       const button = event.target.closest('[data-starter]');
@@ -647,5 +747,5 @@
 
 <button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
-<footer>© 2026 AI Signal · Public · ai-signal · Last built September 06, 2026 at 23:27 UTC</footer>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built September 11, 2026 at 05:51 UTC</footer>
 </body></html>

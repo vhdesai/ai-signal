@@ -7,7 +7,7 @@ import json
 import re as _re
 import urllib.parse
 from collections import Counter, defaultdict
-from datetime import date as _date, datetime as _datetime, timezone as _tz
+from datetime import date as _date, datetime as _datetime, timedelta as _timedelta, timezone as _tz
 from pathlib import Path
 
 import yaml
@@ -2540,7 +2540,6 @@ def run_build_site(cfg: Config) -> dict:
     # to the browser so chat.html downloads a much smaller JSON and the
     # ranker converges on fresh articles. The chat UI further restricts each
     # query to a 2-week window selected by the user.
-    from datetime import date as _date, timedelta as _timedelta
     _CHAT_CORPUS_DAYS = 60
     _all_dates = [a["date"] for a in canonical if a.get("date")]
     if _all_dates:

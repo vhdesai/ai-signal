@@ -1,0 +1,10 @@
+{
+  "command": "build-site",
+  "result": {
+    "pages": 264,
+    "articles": 8359,
+    "canonical": 6127,
+    "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site"
+  },
+  "run_log": "indexes\\runs\\run-20260911T055154+0000-8cfe6e.json"
+}
