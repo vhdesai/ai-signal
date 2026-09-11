@@ -2533,6 +2533,27 @@ def run_build_site(cfg: Config) -> dict:
         for a in canonical
     ]
     _write(site / "articles.json", json.dumps(search_index, ensure_ascii=False))
+
+    # --- chat corpus (smaller, recent-only slice for the AI chat) ---
+    # Free-tier LLMs have small effective contexts and get rate-limited when
+    # asked to reason over a huge article pool. Ship only the newest ~60 days
+    # to the browser so chat.html downloads a much smaller JSON and the
+    # ranker converges on fresh articles. The chat UI further restricts each
+    # query to a 2-week window selected by the user.
+    from datetime import date as _date, timedelta as _timedelta
+    _CHAT_CORPUS_DAYS = 60
+    _all_dates = [a["date"] for a in canonical if a.get("date")]
+    if _all_dates:
+        _newest = max(_all_dates)
+        try:
+            _newest_dt = _date.fromisoformat(_newest[:10])
+        except Exception:
+            _newest_dt = _date.today()
+    else:
+        _newest_dt = _date.today()
+    _cutoff = (_newest_dt - _timedelta(days=_CHAT_CORPUS_DAYS)).isoformat()
+    chat_index = [a for a in search_index if (a.get("date") or "") >= _cutoff]
+    _write(site / "chat-articles.json", json.dumps(chat_index, ensure_ascii=False))
     inline_json = json.dumps(search_index, ensure_ascii=False)
 
     # Build top-search terms from entity and topic frequency
@@ -2710,6 +2731,7 @@ def _daily_compute_affected_paths(cfg: Config, articles: list[dict],
         "index.html", "style.css", "sitemap.xml",
         "topics.html", "entities.html", "archive.html",
         "investments.html", "chat.html", "about.html",
+        "articles.json", "chat-articles.json",
     )
     for name in root_pages:
         paths.add((site / name).resolve())

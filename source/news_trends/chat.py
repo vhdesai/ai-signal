@@ -163,8 +163,10 @@ def _chat_shell(mode: str, title: str, subtitle: str, compact: bool = False) -> 
     notice = (
         '<div class="ai-chat-notice" role="alert">'
         '<span class="ai-chat-notice-icon" aria-hidden="true">⚠️</span>'
-        '<span><strong>Free models = flaky access.</strong> These AI Chats run on free models '
-        'and may be unavailable. Want reliable, paid access? Reach out on '
+        '<span><strong>Free models = flaky access and fairly small inference capability.</strong> '
+        'These AI Chats run on rate-limited free models. Each query only searches '
+        'a rolling <strong>2-week window</strong> of AI Signal coverage (pick the window below). '
+        'Want reliable, paid access? Reach out on '
         '<a href="https://www.linkedin.com/in/vik-desai" target="_blank" rel="noopener">LinkedIn</a>.</span>'
         '</div>'
     )
@@ -177,6 +179,11 @@ def _chat_shell(mode: str, title: str, subtitle: str, compact: bool = False) -> 
       <p class="ai-chat-toolbar-subtitle">{subtitle}</p>
     </div>
     <div class="ai-chat-toolbar-actions">
+      <label class="ai-chat-model ai-chat-window">Window
+        <select data-chat-window aria-label="Select 2-week article window">
+          <option value="">Loading…</option>
+        </select>
+      </label>
       <label class="ai-chat-model">Model
         <select data-chat-model aria-label="Select AI model">
           {_MODEL_OPTIONS_HTML}
@@ -227,7 +234,7 @@ _CHAT_SHARED_JS = r"""
   pathParts.pop(); // remove filename
   const DEPTH = pathParts.length;
   const REL_PREFIX = DEPTH > 0 ? '../'.repeat(DEPTH) : './';
-  const ARTICLES_URL = REL_PREFIX + 'articles.json';
+  const ARTICLES_URL = REL_PREFIX + 'chat-articles.json';
   const OPEN_FULL_CHAT_URL = REL_PREFIX + 'chat.html';
 
   // Page-specific starter prompts
@@ -342,6 +349,92 @@ _CHAT_SHARED_JS = r"""
       return month ? `-${month}-${day}` : null;
     }
     return null;
+  }
+
+  // --- 2-week window helpers ---------------------------------------------
+  const WINDOW_DAYS = 14;
+  const DAY_MS = 24 * 60 * 60 * 1000;
+
+  function parseIsoDate(s){
+    if(!s) return null;
+    const t = String(s).slice(0, 10);
+    const m = t.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+    if(!m) return null;
+    const d = new Date(Date.UTC(+m[1], +m[2]-1, +m[3]));
+    return isNaN(d.getTime()) ? null : d;
+  }
+
+  function fmtShort(d){
+    if(!d) return '';
+    const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    return months[d.getUTCMonth()] + ' ' + d.getUTCDate();
+  }
+
+  function iso(d){
+    return d.toISOString().slice(0, 10);
+  }
+
+  function computeWindows(articles){
+    if(!articles || !articles.length) return [];
+    let maxDate = null;
+    let minDate = null;
+    for(const a of articles){
+      const d = parseIsoDate(a.date);
+      if(!d) continue;
+      if(!maxDate || d > maxDate) maxDate = d;
+      if(!minDate || d < minDate) minDate = d;
+    }
+    if(!maxDate) return [];
+    const windows = [];
+    let end = maxDate;
+    for(let i = 0; i < 6; i++){
+      const start = new Date(end.getTime() - (WINDOW_DAYS - 1) * DAY_MS);
+      if(minDate && start < minDate && windows.length > 0) break;
+      const label = (i === 0 ? 'Latest 2 weeks: ' : '') + fmtShort(start) + ' – ' + fmtShort(end);
+      windows.push({start: iso(start), end: iso(end), label: label});
+      // Step back to the day before this window
+      end = new Date(start.getTime() - DAY_MS);
+      if(minDate && end < minDate) break;
+    }
+    return windows;
+  }
+
+  function populateWindowSelect(select, articles, state){
+    if(!select) return;
+    const windows = computeWindows(articles);
+    if(!windows.length){
+      select.innerHTML = '<option value="">No articles</option>';
+      state.windowStart = null;
+      state.windowEnd = null;
+      return;
+    }
+    select.innerHTML = windows.map((w, i) =>
+      '<option value="' + w.start + '|' + w.end + '"' + (i === 0 ? ' selected' : '') + '>' + w.label + '</option>'
+    ).join('');
+    state.windowStart = windows[0].start;
+    state.windowEnd = windows[0].end;
+  }
+
+  function applyWindowSelection(select, state){
+    if(!select || !select.value){ state.windowStart = null; state.windowEnd = null; return; }
+    const parts = select.value.split('|');
+    state.windowStart = parts[0] || null;
+    state.windowEnd = parts[1] || null;
+  }
+
+  function describeWindow(state){
+    if(!state.windowStart || !state.windowEnd) return 'all available articles';
+    const s = parseIsoDate(state.windowStart);
+    const e = parseIsoDate(state.windowEnd);
+    return fmtShort(s) + ' – ' + fmtShort(e);
+  }
+
+  function filterByWindow(articles, state){
+    if(!state || !state.windowStart || !state.windowEnd) return articles;
+    return articles.filter(a => {
+      const d = (a.date || '').slice(0, 10);
+      return d && d >= state.windowStart && d <= state.windowEnd;
+    });
   }
 
   function rankArticles(query, articles){
@@ -572,12 +665,15 @@ _CHAT_SHARED_JS = r"""
     if(root.dataset.chatInitialized === 'true') return;
     root.dataset.chatInitialized = 'true';
 
-    const state = {messages: [], articles: null, articlesPromise: null, busy: false};
+    const state = {messages: [], articles: null, articlesPromise: null, busy: false, windowStart: null, windowEnd: null};
+    const windowSelect = root.querySelector('[data-chat-window]');
     // Preload articles and show status
     updateStatus(root, 'Loading articles…');
     loadArticles(state).then(articles => {
+      populateWindowSelect(windowSelect, articles, state);
       if(articles && articles.length > 0){
-        updateStatus(root, '✓ ' + articles.length + ' articles loaded — ready to chat');
+        const win = describeWindow(state);
+        updateStatus(root, '✓ ' + articles.length + ' articles loaded — active window: ' + win);
       } else {
         updateStatus(root, '⚠ Could not load articles — chat will use general knowledge. URL: ' + ARTICLES_URL);
       }
@@ -603,6 +699,12 @@ _CHAT_SHARED_JS = r"""
 
     input.addEventListener('input', () => autoResize(input));
     clearButton.addEventListener('click', () => clearChat(root, state));
+    if(windowSelect){
+      windowSelect.addEventListener('change', () => {
+        applyWindowSelection(windowSelect, state);
+        updateStatus(root, 'Active window: ' + describeWindow(state));
+      });
+    }
 
     starters.addEventListener('click', event => {
       const button = event.target.closest('[data-starter]');
