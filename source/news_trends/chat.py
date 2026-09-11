@@ -17,10 +17,10 @@ _SYSTEM_PROMPT = (
 )
 
 _MODELS = [
+    ("nvidia/nemotron-3-super-120b-a12b:free", "Nemotron 3 Super 120B (Free)"),
+    ("liquid/lfm-2.5-2.6b:free", "Liquid LFM 2.5 (Free)"),
     ("google/gemma-4-31b-it:free", "Gemma 4 31B (Free)"),
-    ("meta-llama/llama-3.3-70b-instruct:free", "Llama 3.3 70B (Free)"),
-    ("qwen/qwen3-coder:free", "Qwen3 Coder (Free)"),
-    ("nousresearch/hermes-3-llama-3.1-405b:free", "Hermes 3 405B (Free)"),
+    ("google/gemma-4-26b-a4b-it:free", "Gemma 4 26B MoE (Free)"),
 ]
 
 _STARTERS = [
@@ -740,12 +740,14 @@ _CHAT_SHARED_JS = r"""
           ? `Using ${context.matches.length} relevant article${context.matches.length === 1 ? '' : 's'} as context. Waiting for AI response…`
           : 'No article matches — using general knowledge. Waiting for AI response…');
 
-        // Build list of models to try: selected model first, then fallbacks
+        // Build list of models to try: selected model first, then fallbacks.
+        // Keep this list in sync with _MODELS in source/news_trends/chat.py.
+        // Ordered so a genuinely working model is tried before a rate-limited one.
         const FALLBACK_MODELS = [
+          'nvidia/nemotron-3-super-120b-a12b:free',
+          'liquid/lfm-2.5-2.6b:free',
           'google/gemma-4-31b-it:free',
-          'meta-llama/llama-3.3-70b-instruct:free',
-          'qwen/qwen3-coder:free',
-          'nousresearch/hermes-3-llama-3.1-405b:free'
+          'google/gemma-4-26b-a4b-it:free'
         ];
         const selectedModel = modelSelect.value;
         const modelsToTry = [selectedModel, ...FALLBACK_MODELS.filter(m => m !== selectedModel)];
@@ -778,20 +780,34 @@ _CHAT_SHARED_JS = r"""
 
             if(assistantText.trim()){ lastError = null; break; } // Success!
           } catch(retryErr) {
-            console.warn('[AI Signal Chat] Model', tryModel, 'failed:', retryErr.message);
+            console.warn('[AI Signal Chat] Model', tryModel, 'failed:', retryErr.status, retryErr.message);
             lastError = retryErr;
-            if(retryErr.status === 429 || retryErr.message.includes('rate-limited') || retryErr.message.includes('busy')){
-              updateStatus(root, `Model ${tryModel.split('/').pop().split(':')[0]} is busy — trying another model…`);
+            // Retry on any transient / model-availability error. Includes:
+            //   429 = rate-limited upstream (Google shared free pool)
+            //   404 = model removed from :free tier (paid slug exists)
+            //   403 = model gated (e.g. agentic-only)
+            //   502/503 = provider temporarily overloaded
+            const s = retryErr.status;
+            const msg = String(retryErr.message || '').toLowerCase();
+            const transient = s === 429 || s === 404 || s === 403 || s === 502 || s === 503
+              || msg.includes('rate-limited') || msg.includes('busy') || msg.includes('overloaded')
+              || msg.includes('unavailable') || msg.includes('temporarily');
+            if(transient){
+              const short = tryModel.split('/').pop().split(':')[0];
+              const reason = s === 404 ? 'no longer free' : s === 403 ? 'gated' : 'unavailable';
+              updateStatus(root, `${short} ${reason} — trying another model…`);
               continue;
             }
-            break; // Non-retryable error
+            break; // Non-retryable error (auth, malformed request, etc.)
           }
         }
 
         if(lastError && !assistantText.trim()){
-          assistantText = 'All models are currently busy. Please try again in a minute.';
+          const s = lastError.status;
+          const detail = s ? ` (last error HTTP ${s})` : '';
+          assistantText = `All free models are currently unavailable${detail}. Please try again in a minute, pick a different model above, or reach out on LinkedIn for reliable paid access.`;
           typing.bubble.innerHTML = renderMarkdown(assistantText);
-          updateStatus(root, 'All models busy — try again shortly.');
+          updateStatus(root, 'All models unavailable — try again shortly.');
         } else if(!assistantText.trim()){
           assistantText = 'I did not receive a response from the chat service. Please try again.';
           typing.bubble.textContent = assistantText;
