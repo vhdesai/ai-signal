@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Arm
-member_count: 30
+member_count: 31
 ---
 
 # Arm
 
-> Auto-generated entity hub. 30 connected article(s).
+> Auto-generated entity hub. 31 connected article(s).
 
+- `2026-09-12` [[2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul|StationeryBench: GPT-6 Astra Clears 7 of 100 Dual-Arm Manipulation Tasks; Ai2’s MolmoAct2 Clears Zero]]
 - `2026-09-08` [[2026-09-08-arm-doubles-its-semi-custom-server-ceiling-with-neoverse-css|Arm doubles its semi-custom server ceiling with Neoverse CSS N4 for agentic workloads]]
 - `2026-09-04` [[2026-09-04-gimlet-labs-raises-300m-series-b-at-a-3b-valuation-for-multi|Gimlet Labs Raises $300M Series B at a $3B Valuation for Multi-Silicon Inference]]
 - `2026-08-17` [[2026-08-17-big-tech-s-3-trillion-ai-spending-is-higher-than-reported|Big Tech's $3 Trillion AI Spending Is Higher Than Reported]]

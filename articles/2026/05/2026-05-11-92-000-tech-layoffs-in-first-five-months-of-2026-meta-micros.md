@@ -26,8 +26,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
+- 2026-09-11-tech-layoffs-pass-180-000-in-2026-as-capex-reallocates-towar
 - 2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma
-- 2026-05-25-clickup-mass-layoff-signals-the-white-collar-ai-restructurin
 embedding_id: 2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A comprehensive tracker by the Economic Times puts total 2026 YTD tech layoffs a
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]] · [[Oracle]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]] · [[2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma]] · [[2026-05-25-clickup-mass-layoff-signals-the-white-collar-ai-restructurin]]
+**Related:** [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]] · [[2026-09-11-tech-layoffs-pass-180-000-in-2026-as-capex-reallocates-towar]] · [[2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma]]
 <!-- graph:end -->

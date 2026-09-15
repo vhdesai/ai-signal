@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Forkast News · OpenAI
 url_original: https://forkast.news/openai-retired-o3-from-chatgpt-today-the-real-cost-is-the-churn-it-forces-on-everyone-else/
 url_canonical: https://forkast.news/openai-retired-o3-from-chatgpt-today-the-real-cost-is-the-churn-it-forces-on-everyone-else/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 21f623d88754ae73bd075064c8ec49ac84cd9054915e1fda8f3f49b6e355840e
@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-13-openai-retires-gpt-5-3-codex-spark-after-seven-months
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
 - 2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c
 embedding_id: 2026-08-26-openai-retires-the-o3-reasoning-model-from-chatgpt
@@ -36,5 +37,5 @@ OpenAI removed o3 from consumer ChatGPT in its first major retirement of a reaso
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c]]
+**Related:** [[2026-09-13-openai-retires-gpt-5-3-codex-spark-after-seven-months]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c]]
 <!-- graph:end -->

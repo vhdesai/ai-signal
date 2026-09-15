@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: Tech Funding News
 url_original: https://techfundingnews.com/oxylabs-130m-warburg-pincus-3-6b-valuation/
 url_canonical: https://techfundingnews.com/oxylabs-130m-warburg-pincus-3-6b-valuation/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-11_060959_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 39ef959d0b77772a5d70ee53e9aeacbb182e6404a8a82038824f102d67b8a6e5

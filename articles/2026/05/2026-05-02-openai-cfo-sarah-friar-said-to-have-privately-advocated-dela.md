@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
+- 2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety
 - 2026-04-27-
 - 2026-08-13-anthropic-reportedly-weighing-2t-valuation-for-october-ipo
 - 2026-05-02-openai-s-cfo-is-reported-to-be-signaling-2027-as-a-potential
-- 2026-06-21-spacex-s-74-day-ipo-sets-pace-for-openai-and-anthropic
 embedding_id: 2026-05-02-openai-cfo-sarah-friar-said-to-have-privately-advocated-dela
 event_name: ''
 ---
@@ -42,5 +42,5 @@ A WSJ profile of OpenAI CFO Sarah Friar reveals she privately counseled waiting 
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-04-27-]] · [[2026-08-13-anthropic-reportedly-weighing-2t-valuation-for-october-ipo]] · [[2026-05-02-openai-s-cfo-is-reported-to-be-signaling-2027-as-a-potential]] · [[2026-06-21-spacex-s-74-day-ipo-sets-pace-for-openai-and-anthropic]]
+**Related:** [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety]] · [[2026-04-27-]] · [[2026-08-13-anthropic-reportedly-weighing-2t-valuation-for-october-ipo]] · [[2026-05-02-openai-s-cfo-is-reported-to-be-signaling-2027-as-a-potential]]
 <!-- graph:end -->

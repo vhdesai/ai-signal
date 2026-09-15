@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: CNBC / TIME
 url_original: https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html
 url_canonical: https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-07_084748_Final-Daily-AI-News-Digest.md
 content_hash: b396470c32ed9ce9d303f136b4f8954cd03ef4847ffc6444a1820b5b8ffdce7b
 normalized_title_hash: 9f85afeb59d7420e

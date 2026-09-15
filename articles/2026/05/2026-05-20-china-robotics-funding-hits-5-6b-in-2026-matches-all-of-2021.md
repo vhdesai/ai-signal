@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after
 - 2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its
 - 2026-08-18-vcs-poured-47-4b-into-physical-ai-in-the-first-half-of-2026
-- 2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation
+- 2026-09-12-china-s-ai-industry-pivots-from-models-to-agents-inference-f
 embedding_id: 2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Chinese robotics companies have raised $5.6 billion across 176 deals through mid
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi]] · [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]] · [[2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its]] · [[2026-08-18-vcs-poured-47-4b-into-physical-ai-in-the-first-half-of-2026]] · [[2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation]]
+**Related:** [[2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi]] · [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]] · [[2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its]] · [[2026-08-18-vcs-poured-47-4b-into-physical-ai-in-the-first-half-of-2026]] · [[2026-09-12-china-s-ai-industry-pivots-from-models-to-agents-inference-f]]
 <!-- graph:end -->

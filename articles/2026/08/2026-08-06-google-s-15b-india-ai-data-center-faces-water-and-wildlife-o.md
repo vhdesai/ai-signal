@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: The Economic Times
 url_original: https://datacenters.economictimes.indiatimes.com/news/construction-site-development/googles-15-billion-india-data-centre-faces-water-wildlife-protests/133020136
 url_canonical: https://datacenters.economictimes.indiatimes.com/news/construction-site-development/googles-15-billion-india-data-centre-faces-water-wildlife-protests/133020136
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-07_084748_Final-Daily-AI-News-Digest.md
 content_hash: 15488e69e765c9c79ff2167969667382486d8aec67600c4f11eb6b6c9272b618
 normalized_title_hash: b0e9ea69779c0878
@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct
 - 2026-06-05-airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-indi
+- 2026-09-10-pentagon-in-talks-to-lend-5b-to-ai-cloud-startup-fluidstack
 - 2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back
-- 2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur
 embedding_id: 2026-08-06-google-s-15b-india-ai-data-center-faces-water-and-wildlife-o
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google's planned $15 billion AI and data-center hub in Visakhapatnam—developed
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-06-05-airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-indi]] · [[2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back]] · [[2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur]]
+**Related:** [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-06-05-airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-indi]] · [[2026-09-10-pentagon-in-talks-to-lend-5b-to-ai-cloud-startup-fluidstack]] · [[2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back]]
 <!-- graph:end -->

@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 171
+member_count: 174
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 171 connected article(s).
+> Auto-generated entity hub. 174 connected article(s).
 
+- `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
+- `2026-09-12` [[2026-09-12-positron-valued-at-5b-in-new-funding-as-ai-chip-demand-surge|Positron valued at $5B in new funding as AI chip demand surges]]
+- `2026-09-11` [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe|An Anthropic researcher's doomsday warning lands at a pointed moment]]
 - `2026-09-07` [[2026-09-07-wafer-a-non-nvidia-inference-provider-fields-acquisition-off|Wafer, a non-Nvidia inference provider, fields acquisition offers at $200M+ valuation]]
 - `2026-09-07` [[2026-09-07-non-nvidia-inference-provider-wafer-receives-acquisition-off|Non-Nvidia inference provider Wafer receives acquisition offers at $200M+ valuation]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]

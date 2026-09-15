@@ -5,7 +5,7 @@ date: '2026-09-08'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/
 url_canonical: https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-09_073521_Final-Daily-AI-News-Digest.md
 content_hash: f652da2a40a7fe9b2544ede47ee798a57be756d430598270a01b8992854809bc
 normalized_title_hash: 60a2d35f83d3d41b
@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back
 - 2026-05-18-bloomberg-reports-anthropic-s-latest-funding-round-at-least
 - 2026-09-09-google-commits-15-1b-to-ai-infrastructure-in-finland-its-lar
 - 2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in
@@ -37,5 +38,5 @@ The Department of Energy's Office of Energy Dominance Financing closed a loan of
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-18-bloomberg-reports-anthropic-s-latest-funding-round-at-least]] · [[2026-09-09-google-commits-15-1b-to-ai-infrastructure-in-finland-its-lar]] · [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]]
+**Related:** [[2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back]] · [[2026-05-18-bloomberg-reports-anthropic-s-latest-funding-round-at-least]] · [[2026-09-09-google-commits-15-1b-to-ai-infrastructure-in-finland-its-lar]] · [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]]
 <!-- graph:end -->

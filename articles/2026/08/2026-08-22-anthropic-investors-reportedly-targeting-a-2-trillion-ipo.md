@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: The Motley Fool
 url_original: https://www.fool.com/investing/2026/08/22/anthropic-s-investors-want-a-usd2-trillion-ipo-the-last-record-setting-ipo-has-made-its-buyers-nothing-in-two-months/
 url_canonical: https://www.fool.com/investing/2026/08/22/anthropic-s-investors-want-a-usd2-trillion-ipo-the-last-record-setting-ipo-has-made-its-buyers-nothing-in-two-months/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-23_060400_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: 9ca862100b8d44025e9b1548bfa8f3cf7403519e5464d80bfb59c3a2e42a68a3

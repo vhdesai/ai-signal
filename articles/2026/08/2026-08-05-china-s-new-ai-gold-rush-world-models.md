@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=China+world+models+AI+gold+rush
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=China+world+models+AI+gold+rush
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-05_065023_Final-Daily-AI-News-Digest.md
 content_hash: 70a2fe60f0743697d1f7e7eeacbc15b21b541c19a5b9c4d34ff2259ad3c98984
 normalized_title_hash: b2bd104d7b46134b
@@ -21,9 +21,9 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-29-good-morning-vik-today-s-frontier-news-is-driven-less-by-blo
-- 2026-07-25-ft-china-trains-global-south-developers-on-its-free-open-ai
-- 2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas
+- 2026-09-12-china-s-ai-industry-pivots-from-models-to-agents-inference-f
+- 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f
+- 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor
 embedding_id: 2026-08-05-china-s-new-ai-gold-rush-world-models
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Information reports that Chinese AI startups are racing to build "world mode
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-29-good-morning-vik-today-s-frontier-news-is-driven-less-by-blo]] · [[2026-07-25-ft-china-trains-global-south-developers-on-its-free-open-ai]] · [[2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas]]
+**Related:** [[2026-09-12-china-s-ai-industry-pivots-from-models-to-agents-inference-f]] · [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f]] · [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: Apple Newsroom
 url_original: https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/
 url_canonical: https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: d19527f88bf82cbe5f260fe32f3db8a2c7b8980dc9fb0bf3f59373e0c8397124

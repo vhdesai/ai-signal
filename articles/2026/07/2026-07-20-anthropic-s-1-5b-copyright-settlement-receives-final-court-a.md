@@ -5,7 +5,7 @@ date: '2026-07-20'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/
 url_canonical: https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-22_065707_Final-Daily-AI-News-Digest.md
 content_hash: 9fd4ed329fa4d876f2f059f84cd70a1416863b13a10da27c87c57f90abe97155
 normalized_title_hash: 03fe757aa25a08ef

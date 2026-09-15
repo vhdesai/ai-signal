@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: Axios
 url_original: https://www.axios.com/2026/08/10/zuckerberg-ai-manifesto-meta
 url_canonical: https://www.axios.com/2026/08/10/zuckerberg-ai-manifesto-meta
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-10_060307_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: 9291732be3bdcecde8722cc118ca29582f884c5ce20b9583f1b99c2474161ce2
@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c
 - 2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea
 - 2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen
-- 2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private
+- 2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario
 embedding_id: 2026-08-10-zuckerberg-s-6-500-word-essay-argues-concentrated-control-is
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Published alongside the Muse releases, Zuckerberg's essay contends that prevaili
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c]] · [[2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea]] · [[2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen]] · [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private]]
+**Related:** [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c]] · [[2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea]] · [[2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen]] · [[2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario]]
 <!-- graph:end -->

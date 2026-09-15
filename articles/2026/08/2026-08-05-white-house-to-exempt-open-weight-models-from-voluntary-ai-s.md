@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: E&E News, Reuters, Axios
 url_original: https://www.eenews.net/articles/white-house-ai-vetting-plan-to-exempt-lower-cost-open-models/
 url_canonical: https://www.eenews.net/articles/white-house-ai-vetting-plan-to-exempt-lower-cost-open-models/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 30650acf724f7f7069f0569a2630741ddc6d8f1ec92e7c1875795c95b08f2acb

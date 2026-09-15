@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/08/20/twin1-ai-raises-20m-to-put-an-ai-twin-behind-every-knowledge-worker/
 url_canonical: https://siliconangle.com/2026/08/20/twin1-ai-raises-20m-to-put-an-ai-twin-behind-every-knowledge-worker/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-21_061353_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 2118445daf333e3a42367b163f3bbbd90aa8035a41dcd4fda6982d2ac7b8df49

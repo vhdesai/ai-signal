@@ -5,7 +5,7 @@ date: '2026-07-19'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/
 url_canonical: https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-20_065739_Final-Daily-AI-News-Digest.md
 content_hash: fe28e2497b3933e8e4bbf40f33bc920cea2e42d5599d5150f73f981c8742ac8e
 normalized_title_hash: be65170a40228180

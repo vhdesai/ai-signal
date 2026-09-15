@@ -6,7 +6,7 @@ date: '2026-08-26'
 source: TechCrunch · Google/Alphabet
 url_original: https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/
 url_canonical: https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: f8a68600d65aeb5aa870b993c648f4212c7bd2fe2c5339956015f19abe095cf3

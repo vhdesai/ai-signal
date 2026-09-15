@@ -5,7 +5,7 @@ date: '2026-08-16'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25
 url_canonical: https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-17_163645_Final-Daily-AI-News-Digest.md
 content_hash: 4ea0654e8b4accf4a0fdec63060ea21f38afe52fda2c6ca1956586d4f41768ba
 normalized_title_hash: 4c20a9bb01f00255
@@ -27,9 +27,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
+- 2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
 - 2026-08-01-ai-for-car-diagnostics-promise-and-pitfalls-of-consumer-ai-t
-- 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
 embedding_id: 2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Patients, families, doctors, and nurses are turning to AI tools — including ph
 
 **Entities:** [[Arm]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-08-01-ai-for-car-diagnostics-promise-and-pitfalls-of-consumer-ai-t]] · [[2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy]]
+**Related:** [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-08-01-ai-for-car-diagnostics-promise-and-pitfalls-of-consumer-ai-t]]
 <!-- graph:end -->

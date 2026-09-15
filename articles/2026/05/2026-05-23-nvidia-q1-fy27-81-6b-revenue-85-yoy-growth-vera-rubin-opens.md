@@ -6,7 +6,7 @@ date: '2026-05-23'
 source: Motley Fool
 url_original: https://www.fool.com/investing/2026/05/23/jensen-huang-surprise-announcement-nvidia/
 url_canonical: https://www.fool.com/investing/2026/05/23/jensen-huang-surprise-announcement-nvidia/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: f7c6bb577e286a5d83274ac4022b323c6844523db74a94bbaa984159f118f5de

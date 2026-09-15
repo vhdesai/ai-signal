@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: August 22, 2026
 url_original: https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html
 url_canonical: https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-24_060708_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 8d785f96439b8004e598ade0d201acade38c241101a2d2a2206404fa38e8c88b

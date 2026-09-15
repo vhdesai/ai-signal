@@ -6,7 +6,7 @@ date: '2026-08-07'
 source: VentureBeat
 url_original: https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck
 url_canonical: https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-08_061755_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 0a147334b8d8cce6f4d7a3a20a9b3f231dcb91e016a40391e2b0272615441469

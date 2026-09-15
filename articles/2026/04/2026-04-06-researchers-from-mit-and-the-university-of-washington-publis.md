@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-06-a-large-scale-stanford-study-published-in-science-confirmed
 - 2026-04-02-academic-research
+- 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
 - 2026-04-02-mit-researchers-published-a-testing-framework-that-identifie
 - 2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-real-clinical-p
-- 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
 embedding_id: 2026-04-06-researchers-from-mit-and-the-university-of-washington-publis
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Researchers from MIT and the University of Washington published experimental evi
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-06-a-large-scale-stanford-study-published-in-science-confirmed]] · [[2026-04-02-academic-research]] · [[2026-04-02-mit-researchers-published-a-testing-framework-that-identifie]] · [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-real-clinical-p]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]]
+**Related:** [[2026-04-06-a-large-scale-stanford-study-published-in-science-confirmed]] · [[2026-04-02-academic-research]] · [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea]] · [[2026-04-02-mit-researchers-published-a-testing-framework-that-identifie]] · [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-real-clinical-p]]
 <!-- graph:end -->

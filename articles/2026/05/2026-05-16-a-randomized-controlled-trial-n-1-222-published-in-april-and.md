@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-04-research-finds-that-while-ai-companion-applications-provide
 - 2026-08-04-mit-benefits-of-medical-ai-assistance-vary-sharply-by-user-e
+- 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
 - 2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by
 - 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
-- 2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag
 embedding_id: 2026-05-16-a-randomized-controlled-trial-n-1-222-published-in-april-and
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A randomized controlled trial (N=1,222) published in April and still generating 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-04-research-finds-that-while-ai-companion-applications-provide]] · [[2026-08-04-mit-benefits-of-medical-ai-assistance-vary-sharply-by-user-e]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]] · [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]] · [[2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag]]
+**Related:** [[2026-04-04-research-finds-that-while-ai-companion-applications-provide]] · [[2026-08-04-mit-benefits-of-medical-ai-assistance-vary-sharply-by-user-e]] · [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]] · [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]]
 <!-- graph:end -->

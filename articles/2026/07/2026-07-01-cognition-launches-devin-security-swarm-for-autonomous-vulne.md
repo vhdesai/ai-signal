@@ -5,7 +5,7 @@ date: '2026-07-01'
 source: Cognition
 url_original: https://cognition.com/blog/introducing-devin-security-swarm
 url_canonical: https://cognition.com/blog/introducing-devin-security-swarm
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-02_062325_Inbox_Daily AI News Digest - July 2,
   2026.md
 content_hash: b708e01969ae88bab2cde264bcaaae5f6ab8122bd8047110bd96b40595542115
@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-01-cognition-launches-devin-security-swarm-to-attack-the-vulner
+- 2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra
+- 2026-09-10-cognition-s-swe-2-builds-on-kimi-k3-for-coding-agents
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
-- 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
-- 2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai
 embedding_id: 2026-07-01-cognition-launches-devin-security-swarm-for-autonomous-vulne
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cognition, maker of the Devin coding agent, launched Devin Security Swarm, which
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-01-cognition-launches-devin-security-swarm-to-attack-the-vulner]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]] · [[2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai]]
+**Related:** [[2026-07-01-cognition-launches-devin-security-swarm-to-attack-the-vulner]] · [[2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra]] · [[2026-09-10-cognition-s-swe-2-builds-on-kimi-k3-for-coding-agents]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]]
 <!-- graph:end -->

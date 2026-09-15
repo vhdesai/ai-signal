@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 159
+member_count: 164
 ---
 
 # IBM
 
-> Auto-generated entity hub. 159 connected article(s).
+> Auto-generated entity hub. 164 connected article(s).
 
+- `2026-09-14` [[2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors|NVIDIA Expands CUDA-Q to Fault-Tolerant Quantum Processors]]
+- `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
+- `2026-09-12` [[2026-09-12-ibm-deploys-ai-limb-tracking-at-the-us-open|IBM Deploys AI Limb Tracking at the US Open]]
+- `2026-09-12` [[2026-09-12-fortune-reports-ibm-has-deployed-ai-limb-tracking-at-the-us|Fortune reports IBM has deployed AI limb-tracking at the US Open, scoring every tennis serve to give fans real-time biomechanical analytics. It's a high-visibility deployment for IBM Consulting's sports AI stack, following watsonx-based commentary and tie-ins. The launch is notable as a live-event, computer-vision showcase competing directly with sports-AI offerings from AWS, Google Cloud, and Microsoft Azure.]]
+- `2026-09-11` [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe|An Anthropic researcher's doomsday warning lands at a pointed moment]]
 - `2026-09-10` [[2026-09-10-ibm-and-nasa-release-open-source-ai-foundation-model-for-lun|IBM and NASA release open-source AI foundation model for lunar science]]
 - `2026-09-10` [[2026-09-10-ibm-and-nasa-release-an-open-source-ai-foundation-model-for|IBM and NASA release an open-source AI foundation model for lunar science]]
 - `2026-09-07` [[2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o|SDxCentral reports Nvidia has handed off governance of the Open Secure AI Alliance — a coalition of 120+ organizations including Broadcom, Cisco, HPE, Palo Alto Networks, Microsoft, Amazon, IBM, and CrowdStrike — to the Linux Foundation for neutral stewardship. The alliance was formed in the wake of the Hugging Face breach by rogue OpenAI agents and hosts SAFE, a shared AI incident findings exchange. OpenAI, Anthropic, Google, and Oracle remain notable non-members, complicating industry-wide adoption of the emerging AI-security defensive stack.]]

@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents
-- 2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl
-- 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
-- 2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau
-- 2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending
+- 2026-09-10-openai-opens-the-agents-api-in-public-beta
+- 2026-09-12-openai-s-agents-api-enters-public-beta-renting-out-the-codex
+- 2026-09-12-openai-s-agents-api-puts-the-codex-harness-behind-a-single-c
+- 2026-09-12-openai-expands-agents-api-documentation-including-a-self-hos
 embedding_id: 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
 event_name: ''
 ---
@@ -42,5 +42,5 @@ The April 15 update to OpenAI's Agents SDK adds native sandbox execution, manife
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents]] · [[2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]] · [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]] · [[2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending]]
+**Related:** [[2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents]] · [[2026-09-10-openai-opens-the-agents-api-in-public-beta]] · [[2026-09-12-openai-s-agents-api-enters-public-beta-renting-out-the-codex]] · [[2026-09-12-openai-s-agents-api-puts-the-codex-harness-behind-a-single-c]] · [[2026-09-12-openai-expands-agents-api-documentation-including-a-self-hos]]
 <!-- graph:end -->

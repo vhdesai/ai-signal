@@ -5,7 +5,7 @@ date: '2026-08-13'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/anthropic-talks-acquire-israeli-ai-121409676.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/anthropic-talks-acquire-israeli-ai-121409676.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-14_084159_Final-Daily-AI-News-Digest.md
 content_hash: 86bd615a8a5b5ade1547e43677491ecd6ec267d552f8424b90ce3f4fffecf80e
 normalized_title_hash: b671091b0b77125f

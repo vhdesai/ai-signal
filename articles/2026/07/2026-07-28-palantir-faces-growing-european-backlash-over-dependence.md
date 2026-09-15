@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: The Star
 url_original: https://www.thestar.com.my/business/business-news/2026/07/28/palantir-faces-growing-continental-backlash
 url_canonical: https://www.thestar.com.my/business/business-news/2026/07/28/palantir-faces-growing-continental-backlash
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 37f9de5f5276646832adc2413e58986e6055a5ab79fafd11677badcf3f65d764
@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan
+- 2026-09-14-exclusive-nvidia-palantir-and-booz-allen-restrict-anthropic
 - 2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent
 - 2026-09-03-trending-french-finance-minister-warns-europe-cannot-rest-so
 - 2026-04-20-palantir-wsj-april-19-2026-palantir-leadership-posted-a-publ
-- 2026-09-04-european-defense-officials-resist-the-eu-s-own-cloud-soverei
 embedding_id: 2026-07-28-palantir-faces-growing-european-backlash-over-dependence
 event_name: ''
 ---
@@ -39,5 +39,5 @@ European governments are reportedly shifting toward domestic intelligence platfo
 
 **Entities:** [[Palantir]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan]] · [[2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent]] · [[2026-09-03-trending-french-finance-minister-warns-europe-cannot-rest-so]] · [[2026-04-20-palantir-wsj-april-19-2026-palantir-leadership-posted-a-publ]] · [[2026-09-04-european-defense-officials-resist-the-eu-s-own-cloud-soverei]]
+**Related:** [[2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan]] · [[2026-09-14-exclusive-nvidia-palantir-and-booz-allen-restrict-anthropic]] · [[2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent]] · [[2026-09-03-trending-french-finance-minister-warns-europe-cannot-rest-so]] · [[2026-04-20-palantir-wsj-april-19-2026-palantir-leadership-posted-a-publ]]
 <!-- graph:end -->

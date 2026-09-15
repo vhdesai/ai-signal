@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: IBM Newsroom
 url_original: https://in.newsroom.ibm.com/IBM-and-Sarvam-Collaborate-to-Advance-AI-Sovereignty
 url_canonical: https://in.newsroom.ibm.com/IBM-and-Sarvam-Collaborate-to-Advance-AI-Sovereignty
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-01_061413_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 828111743175e18f447f332f53a85d4cf006af1af3a35e81c7fb48c05fcfb742

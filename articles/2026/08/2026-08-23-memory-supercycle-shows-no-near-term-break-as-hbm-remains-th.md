@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: The Motley Fool
 url_original: https://www.fool.com/investing/2026/08/23/micron-sandisk-and-sk-hynix-history-says-this-abou/
 url_canonical: https://www.fool.com/investing/2026/08/23/micron-sandisk-and-sk-hynix-history-says-this-abou/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-24_085500_Final-Daily-AI-News-Digest.md
 content_hash: 8c6bcaaf4f5f9b450a629fba193609eb2f308a614151ec82a445ee468cfb1b57
 normalized_title_hash: b0a519e9c47fcdc4

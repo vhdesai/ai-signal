@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars
 url_canonical: https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-11_062053_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 9f700c2ab979a492319c1d9cea7dbd01870ce45e61d06bdae92cd1e0ca4e8460

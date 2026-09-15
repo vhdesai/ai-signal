@@ -5,7 +5,7 @@ date: '2026-08-15'
 source: Bloomberg
 url_original: https://finance.yahoo.com/technology/ai/articles/bond-traders-agonizing-over-70-190000845.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/bond-traders-agonizing-over-70-190000845.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-16_065100_Final-Daily-AI-News-Digest.md
 content_hash: eece2ac95fce51c5f657317b460d6752e6e309d31d19deeb0a14f830ec41d65b
 normalized_title_hash: 87a7d35d8bbf667d

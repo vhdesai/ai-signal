@@ -5,7 +5,7 @@ date: '2026-07-21'
 source: The Korea Times**
 url_original: https://www.koreatimes.co.kr/world/20260721/kimi-k3-developer-suspends-new-subscriptions-amid-compute-constraints
 url_canonical: https://www.koreatimes.co.kr/world/20260721/kimi-k3-developer-suspends-new-subscriptions-amid-compute-constraints
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-21_065051_Final-Daily-AI-News-Digest.md
 content_hash: 269a7c7abed88880811156c50f15179eb65d84b347a23d41e6e5962e290880ac
 normalized_title_hash: ff6aead9bedf53f4

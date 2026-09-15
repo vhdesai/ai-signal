@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
 - 2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did
 - 2026-05-21-mit-study-reframes-which-workers-tech-booms-actually-create
-- 2026-04-10-mit-economics-faculty-have-published-analysis-examining-how
+- 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
 embedding_id: 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT's Computer Science and AI Laboratory published findings characterizing AI's 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled]] · [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]] · [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]] · [[2026-05-21-mit-study-reframes-which-workers-tech-booms-actually-create]] · [[2026-04-10-mit-economics-faculty-have-published-analysis-examining-how]]
+**Related:** [[2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled]] · [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]] · [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]] · [[2026-05-21-mit-study-reframes-which-workers-tech-booms-actually-create]] · [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea]]
 <!-- graph:end -->

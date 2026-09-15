@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: Cognition**
 url_original: https://cognition.com/blog/swe-2
 url_canonical: https://cognition.com/blog/swe-2
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-11_065100_Final-Daily-AI-News-Digest.md
 content_hash: 0f214762cc762b543cec613b8d3bf2ac720cb7a1ac991d3d7e95c398ac2dff1d
 normalized_title_hash: 96966278e4682725
@@ -21,9 +21,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s
-- 2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe
-- 2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific
+- 2026-09-12-cognition-s-swe-2-matches-frontier-coding-scores-at-64-lower
+- 2026-09-12-cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model
+- 2026-09-12-cognition-s-swe-2-matches-fable-5-1-on-frontiercode-at-64-lo
+- 2026-09-11-cognition-s-swe-2-reaches-near-frontier-coding-scores-at-64
+- 2026-09-10-cognition-s-swe-2-builds-on-kimi-k3-for-coding-agents
 embedding_id: 2026-09-10-cognition-s-swe-2-post-trains-a-chinese-open-model-to-near-f
 event_name: ''
 ---
@@ -36,5 +38,5 @@ SWE-2 is post-trained via reinforcement learning from Moonshot AI's 2.8-trillion
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s]] · [[2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe]] · [[2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific]]
+**Related:** [[2026-09-12-cognition-s-swe-2-matches-frontier-coding-scores-at-64-lower]] · [[2026-09-12-cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model]] · [[2026-09-12-cognition-s-swe-2-matches-fable-5-1-on-frontiercode-at-64-lo]] · [[2026-09-11-cognition-s-swe-2-reaches-near-frontier-coding-scores-at-64]] · [[2026-09-10-cognition-s-swe-2-builds-on-kimi-k3-for-coding-agents]]
 <!-- graph:end -->

@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an
 - 2026-09-09-meta-ships-muse-consumer-agent-with-a-kernel-enforced-securi
+- 2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store
 - 2026-07-10-meta-opens-muse-spark-1-1-its-first-paid-ai-api-at-cut-rate
-- 2026-09-03-meta-offers-95-token-discounts-to-users-who-share-muse-spark
 embedding_id: 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Meta launched Muse in the US on web, iOS, Android, and WhatsApp for users 18+, p
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an]] · [[2026-09-09-meta-ships-muse-consumer-agent-with-a-kernel-enforced-securi]] · [[2026-07-10-meta-opens-muse-spark-1-1-its-first-paid-ai-api-at-cut-rate]] · [[2026-09-03-meta-offers-95-token-discounts-to-users-who-share-muse-spark]]
+**Related:** [[2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an]] · [[2026-09-09-meta-ships-muse-consumer-agent-with-a-kernel-enforced-securi]] · [[2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store]] · [[2026-07-10-meta-opens-muse-spark-1-1-its-first-paid-ai-api-at-cut-rate]]
 <!-- graph:end -->

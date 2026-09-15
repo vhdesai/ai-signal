@@ -5,7 +5,7 @@ date: '2026-05-23'
 source: AIToolsRecap  / appguias.com
 url_original: https://www.appguias.com/en/Canva-integrates-with-Google-Gemini-to-transform-design-with-AI/
 url_canonical: https://www.appguias.com/en/Canva-integrates-with-Google-Gemini-to-transform-design-with-AI/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-24_071254_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 550f8ac361fdd040a969eecd9f6ee2a9d4191a1dfb5de256073d5a1138abf0e0

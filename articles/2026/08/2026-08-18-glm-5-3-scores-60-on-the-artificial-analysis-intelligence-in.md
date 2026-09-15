@@ -6,7 +6,7 @@ date: '2026-08-18'
 source: Unite.AI
 url_original: https://www.unite.ai/glm-5-3-scores-60-on-artificial-analysis-intelligence-index-matching-kimi-k3/
 url_canonical: https://www.unite.ai/glm-5-3-scores-60-on-artificial-analysis-intelligence-index-matching-kimi-k3/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-21_062036_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 30de9945586d2dd58ea9fdc9b2e5f62c9dcbc1b7efbb44dcf927d75d96b9c72d

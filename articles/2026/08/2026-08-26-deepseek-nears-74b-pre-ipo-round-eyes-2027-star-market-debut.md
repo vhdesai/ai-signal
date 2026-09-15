@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: SCMP / NationPress · DeepSeek
 url_original: https://www.nationpress.com/sciencetech/deepseek-eyes-74bn-round-2027-ipo
 url_canonical: https://www.nationpress.com/sciencetech/deepseek-eyes-74bn-round-2027-ipo
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 8686e95377355b72950810867f1acedd7717ac4c192fea6db59dad4da8572983

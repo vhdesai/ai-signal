@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: Axios / The Verge
 url_original: https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview
 url_canonical: https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-08_061307_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: b8505f31f5d083a6e7e39c2229f2bef80a63aab62bcdbd409ff0566ece11c7bc

@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: AI News
 url_original: https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/
 url_canonical: https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_060601_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 5b5f298d0b6bce5da3eebc4f56f0766f277ba186d7a3a9b8aa8e5d587a9eb0e0

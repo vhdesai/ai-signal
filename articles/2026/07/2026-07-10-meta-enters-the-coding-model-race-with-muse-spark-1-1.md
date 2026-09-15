@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: International Business Times
 url_original: https://www.ibtimes.sg/meta-ignites-ai-coding-race-muse-spark-1-1-taking-aim-openai-anthropic-89470
 url_canonical: https://www.ibtimes.sg/meta-ignites-ai-coding-race-muse-spark-1-1-taking-aim-openai-anthropic-89470
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-11_060959_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 6d96c880ee6eb7a79d17c1f904b19371f8ec624f8201da35b797dcfafdf3f15c

@@ -5,7 +5,7 @@ date: '2026-08-16'
 source: Forbes
 url_original: https://www.forbes.com/sites/jimosman/2026/08/16/nvidia-ai-financing-is-the-500-billion-risk-investors-arent-watching/
 url_canonical: https://www.forbes.com/sites/jimosman/2026/08/16/nvidia-ai-financing-is-the-500-billion-risk-investors-arent-watching/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-17_163645_Final-Daily-AI-News-Digest.md
 content_hash: 5fc20377192617e6a6c888e88f81c3439323d6b2cb509ea13cb5c9da1c5d54e8
 normalized_title_hash: 97f0e09e2c0ba6cc

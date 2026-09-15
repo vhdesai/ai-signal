@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-23-sovereign-ai-startup-dream-raises-260m-at-a-3b-valuation
 - 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
 - 2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op
-- 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
+- 2026-09-11-jeff-dean-s-stealth-ai-startup-reportedly-raising-at-50b-val
 embedding_id: 2026-09-02-enterprise-ai-startup-wonderful-raises-550m-at-a-5-billion-v
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Israeli-Dutch enterprise AI company Wonderful closed a $550 million Series C on 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-06-23-sovereign-ai-startup-dream-raises-260m-at-a-3b-valuation]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]]
+**Related:** [[2026-06-23-sovereign-ai-startup-dream-raises-260m-at-a-3b-valuation]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]] · [[2026-09-11-jeff-dean-s-stealth-ai-startup-reportedly-raising-at-50b-val]]
 <!-- graph:end -->

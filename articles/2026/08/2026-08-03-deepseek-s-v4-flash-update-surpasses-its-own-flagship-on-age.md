@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Geeky Gadgets
 url_original: https://www.geeky-gadgets.com/deepseek-v4-flash-beta/
 url_canonical: https://www.geeky-gadgets.com/deepseek-v4-flash-beta/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-04_062620_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 48a3b2927df8797e9e78c2c8d96bcd9da23a57e04731ea5a85aab5a7fc4f78a6

@@ -5,7 +5,7 @@ date: '2026-08-09'
 source: Memeburn
 url_original: https://memeburn.com/google-deepmind-brain-drain-2026/
 url_canonical: https://memeburn.com/google-deepmind-brain-drain-2026/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-09_061456_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: d3f18fc24fcf6b1db14559d3fa587b35aedb63b2a9e07a7c8fe2165a79b16604

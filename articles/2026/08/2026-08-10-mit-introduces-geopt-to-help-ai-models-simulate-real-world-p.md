@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: MIT News
 url_original: https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810
 url_canonical: https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-11_060740_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 1f8e6646e5c6ae28e9af1c5b6589731f11b3782a45008e5958a51a3a9d14731d

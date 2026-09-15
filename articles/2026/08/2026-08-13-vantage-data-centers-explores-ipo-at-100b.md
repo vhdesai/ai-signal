@@ -27,7 +27,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-13-vantage-data-centers-explores-ipo-at-100b-valuation
 - 2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex
-- 2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation
+- 2026-09-13-nvidia-weighs-up-to-10b-as-anchor-investor-in-anthropic-s-2t
 embedding_id: 2026-08-13-vantage-data-centers-explores-ipo-at-100b
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Silver Lake- and DigitalBridge-backed Vantage explores an IPO at ~$100B that cou
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-13-vantage-data-centers-explores-ipo-at-100b-valuation]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation]]
+**Related:** [[2026-08-13-vantage-data-centers-explores-ipo-at-100b-valuation]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-09-13-nvidia-weighs-up-to-10b-as-anchor-investor-in-anthropic-s-2t]]
 <!-- graph:end -->

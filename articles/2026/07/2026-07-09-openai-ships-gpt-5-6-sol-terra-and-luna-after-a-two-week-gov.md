@@ -6,7 +6,7 @@ date: '2026-07-09'
 source: Decrypt
 url_original: https://decrypt.co/373151/openai-gpt-5-6-sol-how-compares-ai-models
 url_canonical: https://decrypt.co/373151/openai-gpt-5-6-sol-how-compares-ai-models
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-10_061848_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: cbf6995b5724b2e6907c704bf9f840f22e8383477841d9868db2cf19beb872c4

@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 187
+member_count: 194
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 187 connected article(s).
+> Auto-generated entity hub. 194 connected article(s).
 
+- `2026-09-13` [[2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai|SCMP: US and China are now openly racing on "self-improving AI"]]
+- `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
+- `2026-09-11` [[2026-09-11-tencent-backed-enflame-roughly-triples-on-shanghai-star-mark|Tencent-backed Enflame roughly triples on Shanghai STAR Market debut after $912M raise]]
+- `2026-09-11` [[2026-09-11-tencent-backed-enflame-soars-200-in-shanghai-debut|Tencent-Backed Enflame Soars ~200% in Shanghai Debut]]
+- `2026-09-11` [[2026-09-11-tencent-backed-enflame-soars-206-in-shanghai-debut|Tencent-Backed Enflame Soars 206% in Shanghai Debut]]
+- `2026-09-11` [[2026-09-11-enflame-s-shanghai-debut-completes-china-s-domestic-gpu-coho|Enflame's Shanghai Debut Completes China's Domestic GPU Cohort]]
+- `2026-09-11` [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe|An Anthropic researcher's doomsday warning lands at a pointed moment]]
 - `2026-09-07` [[2026-09-07-tencent-restructures-bilibili-stake-into-debt-as-it-funds-ai|Tencent restructures Bilibili stake into debt as it funds AI initiatives]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
 - `2026-09-06` [[2026-09-06-meta-fair-oxford-and-ucl-introduce-research-preference-model|Meta FAIR, Oxford and UCL introduce Research Preference Models that rank experiments before spending GPU hours]]

@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/
 url_canonical: https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_065042_Final-Daily-AI-News-Digest.md
 content_hash: 1f30045ac5cced54122bf2e27c0ac5f8033b5bd707ac74414537112b3cd0dd17
 normalized_title_hash: d3f1023a64f1923d

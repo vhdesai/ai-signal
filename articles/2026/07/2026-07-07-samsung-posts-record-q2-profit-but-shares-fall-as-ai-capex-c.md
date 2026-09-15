@@ -5,7 +5,7 @@ date: '2026-07-07'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/07/samsung-electronics-preliminary-second-quarter-profit-hits-fresh-high.html
 url_canonical: https://www.cnbc.com/2026/07/07/samsung-electronics-preliminary-second-quarter-profit-hits-fresh-high.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-07_062455_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 8e81ccc9ee7b1e226c4a3c5944d59b16bb36512c288d2e855d16d984d1c8fa97

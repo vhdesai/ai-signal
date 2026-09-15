@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: TechCrunch / Bloomberg
 url_original: https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/
 url_canonical: https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_061021_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: f904cda655aafb86cb149fed2fc9f657f0643a637032fb2d4efae139f51fae56

@@ -1,13 +1,21 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 152
+member_count: 160
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 152 connected article(s).
+> Auto-generated entity hub. 160 connected article(s).
 
+- `2026-09-14` [[2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-model-use|NVIDIA, Palantir, and Booz Allen Restrict Anthropic Model Use Over Data Fears]]
+- `2026-09-14` [[2026-09-14-exclusive-nvidia-palantir-and-booz-allen-restrict-anthropic|Exclusive: Nvidia, Palantir, and Booz Allen restrict Anthropic and OpenAI model use over data fears]]
+- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy targets $50M in annual cost savings with AI]]
+- `2026-09-13` [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-ai-standard|Anthropic, OpenAI, and Google Quietly Discussed an AI Standards Body]]
+- `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
+- `2026-09-12` [[2026-09-12-nebius-and-palantir-announce-sovereign-ai-partnership-behind|Nebius and Palantir Announce Sovereign-AI Partnership Behind a $250B Capacity Ambition]]
+- `2026-09-11` [[2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-on-rush-f|Mecka AI nears $500M valuation in Sequoia-led round on rush for robot training data]]
+- `2026-09-11` [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe|An Anthropic researcher's doomsday warning lands at a pointed moment]]
 - `2026-09-10` [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par|Nvidia commits to Australia 2GW AI buildout with 8 local partners]]
 - `2026-09-10` [[2026-09-10-nvidia-and-palantir-productize-a-sovereign-supply-chain-ai-s|Nvidia and Palantir productize a sovereign supply-chain AI stack, starting with Nvidia's own chain]]
 - `2026-09-10` [[2026-09-10-nvidia-and-palantir-productize-a-sovereign-ai-stack-with-nvi|Nvidia and Palantir productize a sovereign AI stack, with Nvidia as first customer]]

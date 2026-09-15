@@ -5,7 +5,7 @@ date: '2026-08-13'
 source: Carnegie Mellon University
 url_original: https://www.cmu.edu/news/stories/archives/2026/august/researchers-explore-what-it-means-to-say-ai-thinks
 url_canonical: https://www.cmu.edu/news/stories/archives/2026/august/researchers-explore-what-it-means-to-say-ai-thinks
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-14_084159_Final-Daily-AI-News-Digest.md
 content_hash: 844d54885bda535e15aaacab669da011f5ec28ea015ce6f676da0d5563dff350
 normalized_title_hash: 0bc8585c1fdc2bcb

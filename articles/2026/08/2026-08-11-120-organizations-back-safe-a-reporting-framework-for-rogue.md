@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: Axios
 url_original: https://www.axios.com/2026/08/11/open-source-security-ai-agent-reporting
 url_canonical: https://www.axios.com/2026/08/11/open-source-security-ai-agent-reporting
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-13_065057_Final-Daily-AI-News-Digest.md
 content_hash: a132600a4a85592f3ecb31f7e5568cc32f2c49bd1a2852b72f598db06b040180
 normalized_title_hash: aa35a04c4323a8af

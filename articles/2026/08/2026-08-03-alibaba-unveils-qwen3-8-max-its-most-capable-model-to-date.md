@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/03/alibaba-ai-model-qwen-rival-anthropic.html
 url_canonical: https://www.cnbc.com/2026/08/03/alibaba-ai-model-qwen-rival-anthropic.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-03_062808_Inbox_Daily AI News Digest - August 3,
   2026.md
 content_hash: fcdc451049c0c96c383b9d144a2ebe760b8c12e6f6ba81617bf5da3b960bba5f

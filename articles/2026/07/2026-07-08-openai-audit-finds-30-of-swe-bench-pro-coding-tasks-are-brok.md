@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: OpenAI
 url_original: https://openai.com/index/separating-signal-from-noise-coding-evaluations/
 url_canonical: https://openai.com/index/separating-signal-from-noise-coding-evaluations/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-09_083415_Inbox_Fw Daily AI News Digest - July
   9, 2026.md
 content_hash: 12c48097a656793c8ab08e55947b321348676ffc75297fd6ff522df0f8729a4c

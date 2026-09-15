@@ -5,7 +5,7 @@ date: '2026-06-20'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/
 url_canonical: https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-21_060000_Daily-AI-News-Digest.md
 content_hash: 0712dc4c8551d910363e47bf7ac8b7c3b5320d47db9623ffc66076339be917b4
 normalized_title_hash: cd2b2529da3321ad

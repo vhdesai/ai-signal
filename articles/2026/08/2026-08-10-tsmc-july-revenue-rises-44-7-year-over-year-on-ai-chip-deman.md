@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: '[Quartz via Yahoo Finance]'
 url_original: https://finance.yahoo.com/technology/ai/articles/tsmc-july-2026-revenue-jumps-110802277.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/tsmc-july-2026-revenue-jumps-110802277.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-10_062245_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: 7df8f91a24c5ee322175d4628bc67c68b6bbe3a0426149e1f70ea518dd598b27

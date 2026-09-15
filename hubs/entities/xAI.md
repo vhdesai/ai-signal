@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 361
+member_count: 367
 ---
 
 # xAI
 
-> Auto-generated entity hub. 361 connected article(s).
+> Auto-generated entity hub. 367 connected article(s).
 
+- `2026-09-13` [[2026-09-13-microsoft-rolls-out-grok-across-copilot-in-office-365|Microsoft rolls out Grok across Copilot in Office 365]]
+- `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
+- `2026-09-12` [[2026-09-12-microsoft-adds-xai-s-grok-models-to-the-copilot-lineup|Microsoft Adds xAI’s Grok Models to the Copilot Lineup]]
+- `2026-09-11` [[2026-09-11-xai-s-grok-bot-adds-salesforce-hubspot-gong-clay-and-microso|xAI's Grok Bot adds Salesforce, HubSpot, Gong, Clay and Microsoft Teams connectors]]
+- `2026-09-11` [[2026-09-11-spacex-signs-another-1-11b-month-compute-rental-deal-targets|SpaceX signs another ~$1.11B/month compute rental deal, targets $100B annualized run rate]]
+- `2026-09-11` [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe|An Anthropic researcher's doomsday warning lands at a pointed moment]]
 - `2026-09-10` [[2026-09-10-spacex-overhauls-data-center-build-out-under-new-rocket-engi|SpaceX overhauls data-center build-out under new rocket-engineer leadership]]
 - `2026-09-10` [[2026-09-10-spacex-overhauls-xai-data-center-build-out-reliability-over|SpaceX Overhauls xAI Data-Center Build-Out — Reliability Over Speed]]
 - `2026-09-07` [[2026-09-07-post-mortem-chatgpt-claude-and-grok-all-failed-within-roughl|Post-mortem: ChatGPT, Claude and Grok all failed within roughly 80 minutes]]

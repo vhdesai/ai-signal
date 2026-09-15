@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: WSJ Wealth Adviser
 url_original: https://wealthadviser.cmail20.com/t/d-l-gudydhd-ihltiiihhk-x/
 url_canonical: https://wealthadviser.cmail20.com/t/d-l-gudydhd-ihltiiihhk-x/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-20_085232_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 7fbeca48c27b8155d43d3e302026026f2897d85df33324e6fa0b85e0477bdd6c

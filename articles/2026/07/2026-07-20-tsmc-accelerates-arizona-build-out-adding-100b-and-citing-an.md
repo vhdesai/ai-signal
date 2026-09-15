@@ -5,7 +5,7 @@ date: '2026-07-20'
 source: CNBC**
 url_original: https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html
 url_canonical: https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-21_065051_Final-Daily-AI-News-Digest.md
 content_hash: 552d62f793e0e45606246a18948c4d1738ca9ae021974c1f5c05e32a5370b31f
 normalized_title_hash: 946af3c9850c843b

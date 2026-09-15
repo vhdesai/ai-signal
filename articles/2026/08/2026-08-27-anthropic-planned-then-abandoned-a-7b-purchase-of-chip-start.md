@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-08-27/exclusive-anthropic-planned-then-abandoned-7-billion-purchase-of-matx-sources-say
 url_canonical: https://money.usnews.com/investing/news/articles/2026-08-27/exclusive-anthropic-planned-then-abandoned-7-billion-purchase-of-matx-sources-say
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-28_065356_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 78b319acfb84013fc4704d669aa6e2f20a5f7aa9d14f6ec545f385b6f8bba425

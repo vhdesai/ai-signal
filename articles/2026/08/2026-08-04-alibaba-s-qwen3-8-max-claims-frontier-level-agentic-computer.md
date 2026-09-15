@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use
 url_canonical: https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-05_061510_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 539430d0a96965da22ac78263fadc964b9551b37f821e82e8e8082a1c5847571

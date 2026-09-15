@@ -1,14 +1,37 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 682
+member_count: 705
 ---
 
 # Meta
 
-> Auto-generated entity hub. 682 connected article(s).
+> Auto-generated entity hub. 705 connected article(s).
 
+- `2026-09-14` [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor|Shanghai AI Lab ships Intern W0, a force-tactile physical world model for robotics]]
+- `2026-09-14` [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f|Shanghai AI Lab Ships Intern W0, a Physical World Model for Force-Tactile Robotics]]
+- `2026-09-14` [[2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale|Oracle Begins Layoffs as Ellison Cancels $7.5B Stock Sale]]
+- `2026-09-13` [[2026-09-13-sunday-september-13-2026|Sunday, September 13, 2026]]
+- `2026-09-13` [[2026-09-13-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale|Oracle begins layoffs as Ellison cancels $7.5B share sale]]
+- `2026-09-13` [[2026-09-13-meta-quietly-rebuilds-ai-management-layers-after-its-flatten|Meta quietly rebuilds AI management layers after its flattening push]]
+- `2026-09-13` [[2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce|Meta Acquires Stilla.ai to Expand Business Agent Commerce]]
+- `2026-09-13` [[2026-09-13-google-deepmind-safety-researcher-resigns-warns-of-terrifyin|Google DeepMind Safety Researcher Resigns, Warns of "Terrifying Chance" of Major AI Harm]]
+- `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
+- `2026-09-12` [[2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store|Meta’s Muse Agent Climbs to No. 2 on the US App Store]]
+- `2026-09-12` [[2026-09-12-hands-on-with-meta-s-muse-agent-near-408-double-booking-and|Hands-on with Meta's Muse agent: near-$408 double-booking and login snarls]]
+- `2026-09-12` [[2026-09-12-hands-on-meta-s-muse-agent-nearly-cost-a-reporter-408|Hands-On: Meta's Muse Agent Nearly Cost a Reporter $408]]
+- `2026-09-12` [[2026-09-12-google-deepmind-acqui-hires-mechanize-ai-talent-in-reported|Google DeepMind acqui-hires Mechanize AI talent in reported $1.5B coding-agent deal]]
+- `2026-09-12` [[2026-09-12-ai-data-centers-may-create-far-fewer-jobs-than-projected-thi|AI data centers may create far fewer jobs than projected, think tank warns]]
+- `2026-09-11` [[2026-09-11-tech-layoffs-pass-180-000-in-2026-as-capex-reallocates-towar|Tech layoffs pass 180,000 in 2026 as capex reallocates toward AI]]
+- `2026-09-11` [[2026-09-11-openai-details-habitat-the-storage-platform-now-serving-1b-c|OpenAI details Habitat — the storage platform now serving 1B ChatGPT users at 22M requests/sec]]
+- `2026-09-11` [[2026-09-11-meta-s-muse-assistant-tops-83-000-us-ios-downloads-and-hits|Meta's Muse assistant tops 83,000 US iOS downloads and hits No. 2 on the App Store]]
+- `2026-09-11` [[2026-09-11-meta-s-elite-ai-unit-sought-employee-data-for-training-halte|Meta's Elite AI Unit Sought Employee Data for Training — Halted After Revolt]]
+- `2026-09-11` [[2026-09-11-meta-ai-unit-s-attempt-to-train-models-on-employee-data-coll|Meta AI unit's attempt to train models on employee data collapsed after leak and staff revolt]]
+- `2026-09-11` [[2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-on-rush-f|Mecka AI nears $500M valuation in Sequoia-led round on rush for robot training data]]
+- `2026-09-11` [[2026-09-11-deepseek-v4-1-flash-cuts-agent-memory-costs-fourfold|DeepSeek V4.1-Flash Cuts Agent Memory Costs Fourfold]]
+- `2026-09-11` [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe|An Anthropic researcher's doomsday warning lands at a pointed moment]]
 - `2026-09-10` [[2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten|The Information: SpaceX overhauls data-center build-out, potentially slowing expansion]]
+- `2026-09-10` [[2026-09-10-pentagon-in-talks-to-lend-5b-to-ai-cloud-startup-fluidstack|Pentagon in Talks to Lend $5B to AI Cloud Startup Fluidstack]]
 - `2026-09-10` [[2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data|Amazon, Meta, and Google risk losing multibillion-dollar data-center tax deals as states rip up terms]]
 - `2026-09-09` [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo|US government accuses six Chinese AI firms of large-scale model distillation]]
 - `2026-09-09` [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s|Meta ships Muse, a consumer AI agent with payment, email, and smart-home access]]

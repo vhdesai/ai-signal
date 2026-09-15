@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/
 url_canonical: https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-23_061214_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: f0b566534f5d3f6b7d726f59bfc265d6429639a21bd898cd13b951a8aba0b5a7

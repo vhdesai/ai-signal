@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: Infosecurity Magazine**
 url_original: https://www.infosecurity-magazine.com/news/researchers-first-agentic/
 url_canonical: https://www.infosecurity-magazine.com/news/researchers-first-agentic/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-06_084325_Final-Daily-AI-News-Digest.md
 content_hash: e6375824d34610268980ddf61321f140d2c9c932c9b6f59dc744c6403d73c5a0
 normalized_title_hash: dc85e63278cbde38

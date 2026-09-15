@@ -5,7 +5,7 @@ date: '2026-08-18'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/
 url_canonical: https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-19_065003_Final-Daily-AI-News-Digest.md
 content_hash: f557b6e6d3dc683dac656b2969f9f3302515fd662ed096676e1bcf144bda06df
 normalized_title_hash: ab58c8ea96473085

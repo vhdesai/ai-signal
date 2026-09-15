@@ -6,7 +6,7 @@ date: '2026-07-10'
 source: Machine Learning Mastery
 url_original: https://machinelearningmastery.com/llm-orchestration-frameworks-compared-langchain-vs-llamaindex-vs-raw-api-calls/
 url_canonical: https://machinelearningmastery.com/llm-orchestration-frameworks-compared-langchain-vs-llamaindex-vs-raw-api-calls/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-11_060831_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 0c86f3da3ef0b8cf34325d5cfe30bc4c4b017dbee3a84994cc21cdb5c41c94d6
@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms
 - 2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc
 - 2026-08-23-why-your-local-model-feels-dumber-quantization-and-kernel-ch
 - 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
 - 2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p
-- 2026-08-30-time-to-first-token-benchmark-for-voice-and-realtime-agent-i
 embedding_id: 2026-07-10-llm-orchestration-frameworks-compared-langchain-vs-llamainde
 event_name: ''
 ---
@@ -37,5 +37,5 @@ This comparison argues the three options solve different layers: LangChain for o
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc]] · [[2026-08-23-why-your-local-model-feels-dumber-quantization-and-kernel-ch]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p]] · [[2026-08-30-time-to-first-token-benchmark-for-voice-and-realtime-agent-i]]
+**Related:** [[2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms]] · [[2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc]] · [[2026-08-23-why-your-local-model-feels-dumber-quantization-and-kernel-ch]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p]]
 <!-- graph:end -->

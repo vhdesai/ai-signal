@@ -6,7 +6,7 @@ date: '2026-07-09'
 source: Business Insider
 url_original: https://www.businessinsider.com/jensen-huang-my-engineers-prefer-building-agents-to-writing-code-2026-7
 url_canonical: https://www.businessinsider.com/jensen-huang-my-engineers-prefer-building-agents-to-writing-code-2026-7
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-09_083947_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 6923523c575bd255950cb5ff92952285ff665cc672808444a831dbf4860ee04d

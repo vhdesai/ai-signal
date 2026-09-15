@@ -6,7 +6,7 @@ date: '2026-07-12'
 source: VentureBeat
 url_original: https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains
 url_canonical: https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-13_060615_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: a6edf47a59afd5d20f501381bb5e5ed0a332ba0f9cad1a0df742c034ea44e7da
@@ -23,11 +23,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-11-deepseek-v4-1-flash-resets-inference-price-performance-with
 - 2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr
 - 2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price
 - 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
 - 2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-then-raises-ap
-- 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context
 embedding_id: 2026-07-12-deepseek-cut-v4-pro-prices-75-but-agentic-token-consumption
 event_name: ''
 ---
@@ -41,5 +41,5 @@ VentureBeat analyzed DeepSeek's 75% price cut on its V4-Pro model, arguing the r
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price]] · [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c]] · [[2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-then-raises-ap]] · [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context]]
+**Related:** [[2026-09-11-deepseek-v4-1-flash-resets-inference-price-performance-with]] · [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price]] · [[2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c]] · [[2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-then-raises-ap]]
 <!-- graph:end -->

@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 - 2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi
 - 2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t
+- 2026-09-13-anthropic-openai-and-google-quietly-discussed-forming-an-ind
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
-- 2026-07-31-europe-s-ai-safety-playbook-looms-over-the-u-s-framework-due
 embedding_id: 2026-08-19-white-house-ai-model-testing-framework-leaves-companies-with
 event_name: ''
 ---
@@ -41,5 +41,5 @@ In early August, the White House briefed OpenAI, Anthropic, and Google on a fram
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi]] · [[2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-07-31-europe-s-ai-safety-playbook-looms-over-the-u-s-framework-due]]
+**Related:** [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi]] · [[2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t]] · [[2026-09-13-anthropic-openai-and-google-quietly-discussed-forming-an-ind]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]]
 <!-- graph:end -->

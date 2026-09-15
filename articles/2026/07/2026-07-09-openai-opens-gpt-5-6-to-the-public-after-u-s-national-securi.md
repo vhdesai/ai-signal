@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: Business Today
 url_original: https://www.businesstoday.in/technology/artificial-intelligence/story/openai-to-unveil-gpt-5-6-on-july-9-after-us-security-concerns-delay-541881-2026-07-09
 url_canonical: https://www.businesstoday.in/technology/artificial-intelligence/story/openai-to-unveil-gpt-5-6-on-july-9-after-us-security-concerns-delay-541881-2026-07-09
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-09_061826_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: c8ba7925cf121ed1767829b9f2557958e46508640d4050bb888af4feaf8c45b3

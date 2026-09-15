@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-31-google-research-releases-timesfm-3-a-330m-parameter-zero-sho
 - 2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore
+- 2026-09-12-google-research-releases-timesfm-3-for-single-pass-exogenous
 - 2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda
 - 2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab
-- 2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo
 embedding_id: 2026-04-03-google-research-released-timesfm-time-series-foundation-mode
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google Research released TimesFM (Time Series Foundation Model), applying large-
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-31-google-research-releases-timesfm-3-a-330m-parameter-zero-sho]] · [[2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore]] · [[2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda]] · [[2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab]] · [[2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo]]
+**Related:** [[2026-08-31-google-research-releases-timesfm-3-a-330m-parameter-zero-sho]] · [[2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore]] · [[2026-09-12-google-research-releases-timesfm-3-for-single-pass-exogenous]] · [[2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda]] · [[2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab]]
 <!-- graph:end -->

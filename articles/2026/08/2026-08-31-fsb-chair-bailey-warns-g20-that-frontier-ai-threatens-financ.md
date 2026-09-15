@@ -5,7 +5,7 @@ date: '2026-08-31'
 source: CNBC / Financial Stability Board
 url_original: https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html
 url_canonical: https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: e11267e2f8322653a8eab5d4a78638dbba7b5283c23cfa804ac30f7fda6bbc07
 normalized_title_hash: 28b70fa3dc9cdf07

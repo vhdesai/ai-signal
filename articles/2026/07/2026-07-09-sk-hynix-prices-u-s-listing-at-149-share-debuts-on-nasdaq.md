@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: TheStreet · AP News
 url_original: https://www.thestreet.com/stock-market-today/stock-market-today-july-10-2026-nasdaq-futures-slip-ahead-of-sk-hynix-debut
 url_canonical: https://www.thestreet.com/stock-market-today/stock-market-today-july-10-2026-nasdaq-futures-slip-ahead-of-sk-hynix-debut
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-10_065350_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 0402697d6139b938c69746f569d6c1e4a9d713b73847091ad317f163fbaa9fbd

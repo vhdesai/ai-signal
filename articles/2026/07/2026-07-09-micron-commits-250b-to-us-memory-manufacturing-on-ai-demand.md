@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: Fox Business
 url_original: https://www.foxbusiness.com/media/micron-ceo-says-ai-boom-drives-unprecedented-memory-demand-company-invests-250b
 url_canonical: https://www.foxbusiness.com/media/micron-ceo-says-ai-boom-drives-unprecedented-memory-demand-company-invests-250b
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-10_061000_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: e93553022c18797cc5ac960a9d811b63343051c3af49b6c4a4aa3a64e3092677

@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: Google DeepMind / Mashable
 url_original: https://theaitrack.com/ai-news-may-2026-in-depth-and-concise/
 url_canonical: https://theaitrack.com/ai-news-may-2026-in-depth-and-concise/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: f46e81d0c24f23d15ced3531ec8ead82320c0ad36adbcf22f723c07c48776f3f

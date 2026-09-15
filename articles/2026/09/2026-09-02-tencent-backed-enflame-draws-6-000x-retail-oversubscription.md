@@ -28,8 +28,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-31-tencent-backed-china-chipmaker-enflame-seeks-911-million-in
 - 2026-09-02-tencent-backed-enflame-s-ipo-draws-4-073-times-retail-demand
+- 2026-09-11-tencent-backed-enflame-roughly-triples-on-shanghai-star-mark
 - 2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo
-- 2026-07-26-deepseek-pauses-71b-funding-round-after-founder-s-leaked-rem
+- 2026-09-11-enflame-s-shanghai-debut-completes-china-s-domestic-gpu-coho
 embedding_id: 2026-09-02-tencent-backed-enflame-draws-6-000x-retail-oversubscription
 event_name: ''
 ---
@@ -43,5 +44,5 @@ Chinese AI accelerator designer Enflame Technology raised roughly $910 million (
 
 **Entities:** [[Huawei]] · [[NVIDIA]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-31-tencent-backed-china-chipmaker-enflame-seeks-911-million-in]] · [[2026-09-02-tencent-backed-enflame-s-ipo-draws-4-073-times-retail-demand]] · [[2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo]] · [[2026-07-26-deepseek-pauses-71b-funding-round-after-founder-s-leaked-rem]]
+**Related:** [[2026-08-31-tencent-backed-china-chipmaker-enflame-seeks-911-million-in]] · [[2026-09-02-tencent-backed-enflame-s-ipo-draws-4-073-times-retail-demand]] · [[2026-09-11-tencent-backed-enflame-roughly-triples-on-shanghai-star-mark]] · [[2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo]] · [[2026-09-11-enflame-s-shanghai-debut-completes-china-s-domestic-gpu-coho]]
 <!-- graph:end -->

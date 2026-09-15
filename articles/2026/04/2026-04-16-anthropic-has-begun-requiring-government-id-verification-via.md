@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme
 - 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
+- 2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude
 - 2026-08-14-anthropic-defends-and-explains-claude-watermarking-after-use
 - 2026-08-21-anthropic-watermarks-claude-s-writing-some-users-cancel-subs
-- 2026-09-09-anthropic-withheld-claude-mythos-5-1-from-the-uk-ai-security
 embedding_id: 2026-04-16-anthropic-has-begun-requiring-government-id-verification-via
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic has begun requiring government ID verification (via Persona) before al
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme]] · [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]] · [[2026-08-14-anthropic-defends-and-explains-claude-watermarking-after-use]] · [[2026-08-21-anthropic-watermarks-claude-s-writing-some-users-cancel-subs]] · [[2026-09-09-anthropic-withheld-claude-mythos-5-1-from-the-uk-ai-security]]
+**Related:** [[2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme]] · [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]] · [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude]] · [[2026-08-14-anthropic-defends-and-explains-claude-watermarking-after-use]] · [[2026-08-21-anthropic-watermarks-claude-s-writing-some-users-cancel-subs]]
 <!-- graph:end -->

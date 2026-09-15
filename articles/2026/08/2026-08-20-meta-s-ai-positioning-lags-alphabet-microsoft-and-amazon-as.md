@@ -6,7 +6,7 @@ date: '2026-08-20'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/meta-falls-far-behind-amazon-144806616.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/meta-falls-far-behind-amazon-144806616.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-21_062036_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: e0ecc04df792e45da6f61b3fb2adad1addad1af27cc7131003328bea21b3a04e

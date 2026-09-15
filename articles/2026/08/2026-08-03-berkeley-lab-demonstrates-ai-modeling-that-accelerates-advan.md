@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Lawrence Berkeley National Laboratory
 url_original: https://newscenter.lbl.gov/2026/08/03/new-ai-modeling-approach-accelerates-the-development-of-advanced-materials/
 url_canonical: https://newscenter.lbl.gov/2026/08/03/new-ai-modeling-approach-accelerates-the-development-of-advanced-materials/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_062620_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 71a59646679096b839bacb28671c11228b963fbf587e7fcfc741a3581b7e6c31

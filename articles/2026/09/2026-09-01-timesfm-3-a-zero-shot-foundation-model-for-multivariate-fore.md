@@ -5,7 +5,7 @@ date: '2026-09-01'
 source: Google Research
 url_original: https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/
 url_canonical: https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-02_061041_Inbox_Daily AI News Digest – September
   2, 2026.md
 content_hash: d5d97efac51f8e2f9ac710285eb9c45ba2057b44eed8326a39bfa8c273da4283
@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-31-google-releases-timesfm-3-a-330m-parameter-zero-shot-forecas
 - 2026-04-03-google-research-released-timesfm-time-series-foundation-mode
-- 2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab
-- 2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo
+- 2026-09-12-google-research-releases-timesfm-3-for-single-pass-exogenous
+- 2026-09-12-google-research-timesfm-3-forecasts-from-sales-weather-and-p
 embedding_id: 2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google Research introduced TimesFM-3, a 330-million-parameter time-series founda
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-31-google-releases-timesfm-3-a-330m-parameter-zero-shot-forecas]] · [[2026-04-03-google-research-released-timesfm-time-series-foundation-mode]] · [[2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab]] · [[2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo]]
+**Related:** [[2026-08-31-google-releases-timesfm-3-a-330m-parameter-zero-shot-forecas]] · [[2026-04-03-google-research-released-timesfm-time-series-foundation-mode]] · [[2026-09-12-google-research-releases-timesfm-3-for-single-pass-exogenous]] · [[2026-09-12-google-research-timesfm-3-forecasts-from-sales-weather-and-p]]
 <!-- graph:end -->

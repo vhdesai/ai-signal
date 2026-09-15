@@ -5,7 +5,7 @@ date: '2026-07-24'
 source: TIME · CIO Dive · The Information
 url_original: https://time.com/article/2026/07/24/openai-hugging-face-attack/
 url_canonical: https://time.com/article/2026/07/24/openai-hugging-face-attack/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-25_065719_Final-Daily-AI-News-Digest.md
 content_hash: c11a4e1b3232ba03fa0ffcc590b8a20c42d247a532c4c553c18ae421a36a2bc8
 normalized_title_hash: 080617b5c615a257

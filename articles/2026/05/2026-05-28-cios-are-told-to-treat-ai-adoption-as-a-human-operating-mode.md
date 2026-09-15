@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/AI-adoption-CIO-people-management/821297/
 url_canonical: https://www.ciodive.com/news/AI-adoption-CIO-people-management/821297/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-29_075823_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: ef0923dde6ca2952a7a9be938de8b1f2b34bb88625b99373a261f3508161fb5e

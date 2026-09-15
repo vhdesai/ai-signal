@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: SecurityWeek
 url_original: https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/
 url_canonical: https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-05_061510_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 65d5719157c7e4cea79376977b3c95224f487a14a831261a948592483d95ef16

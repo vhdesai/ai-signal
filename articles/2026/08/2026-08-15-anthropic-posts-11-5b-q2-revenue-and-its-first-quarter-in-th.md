@@ -5,7 +5,7 @@ date: '2026-08-15'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html
 url_canonical: https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-16_065100_Final-Daily-AI-News-Digest.md
 content_hash: 2ecb980568c336923ec3214bad0ad397ca420e36b982a9d6639f0827bff9ec5d
 normalized_title_hash: e31bc40b99fcace6

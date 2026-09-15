@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: Bloomberg
 url_original: https://thirdruntime.com/
 url_canonical: https://thirdruntime.com/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 8afaf5441a2d141dd5e54b8c622525e563e25f5f459f6085a78af0c25cbfaf7d

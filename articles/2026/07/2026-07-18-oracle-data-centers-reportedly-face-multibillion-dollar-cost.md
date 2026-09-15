@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
+- 2026-09-11-oracle-expands-restructuring-by-another-700m-as-ai-data-cent
 - 2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc
 - 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
 - 2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers
-- 2026-08-13-nvidia-s-new-500b-data-center-plan-carries-a-gpu-residual-va
 embedding_id: 2026-07-18-oracle-data-centers-reportedly-face-multibillion-dollar-cost
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The Information reports that Oracle data centers are facing multibillion-dollar 
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc]] · [[2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-08-13-nvidia-s-new-500b-data-center-plan-carries-a-gpu-residual-va]]
+**Related:** [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-09-11-oracle-expands-restructuring-by-another-700m-as-ai-data-cent]] · [[2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc]] · [[2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]]
 <!-- graph:end -->

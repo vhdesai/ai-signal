@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Wall Street Journal**
 url_original: https://www.wsj.com/tech/ai/a-simple-answer-to-ai-job-loss-tax-capital-not-labor-cb900e62
 url_canonical: https://www.wsj.com/tech/ai/a-simple-answer-to-ai-job-loss-tax-capital-not-labor-cb900e62
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-01_065003_Final-Daily-AI-News-Digest.md
 content_hash: 415d4dc932b1e8591cd42669381b4086545af5e855bb2d893c8cd5ae34dc8f2c
 normalized_title_hash: 6f6cc15b9c0bc6e1

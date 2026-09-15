@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: The Information · Meta Platforms
 url_original: https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-New-Strategic-Venture-with-BlackRock-to-Develop-Data-Center-in-El-Paso/default.aspx
 url_canonical: https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-New-Strategic-Venture-with-BlackRock-to-Develop-Data-Center-in-El-Paso/default.aspx
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-29_065704_Final-Daily-AI-News-Digest.md
 content_hash: 3d072f0e702200a4d03102c2f5340859fd84b640b52a811555473b868d54c346
 normalized_title_hash: 3417216eec4a875b

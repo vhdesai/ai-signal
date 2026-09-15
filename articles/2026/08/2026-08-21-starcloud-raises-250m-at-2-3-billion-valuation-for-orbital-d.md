@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: GeekWire
 url_original: https://www.geekwire.com/2026/starcloud-250m-data-center-satellite-network-nvidia/
 url_canonical: https://www.geekwire.com/2026/starcloud-250m-data-center-satellite-network-nvidia/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-22_065242_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: f7be55385ce53b5cbf375bf27d8b36ebb3689eeedd54f7534f2af4199c3ae05f

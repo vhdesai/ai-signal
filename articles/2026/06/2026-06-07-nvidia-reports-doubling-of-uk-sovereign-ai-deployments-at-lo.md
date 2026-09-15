@@ -5,7 +5,7 @@ date: '2026-06-07'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/
 url_canonical: https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-08_071435_Final-Daily-AI-News-Digest.md
 content_hash: f30f9efa4c269054cfd9737b49dc9a9083133fabdca5f162aa13735a50b5a61b
 normalized_title_hash: b8204e4489f4ede3
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight
 - 2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure
 - 2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers
-- 2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon
+- 2026-09-12-nebius-and-palantir-announce-sovereign-ai-partnership-behind
 embedding_id: 2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo
 event_name: ''
 ---
@@ -39,5 +39,5 @@ One year after Huang and PM Starmer framed Britain as "an AI maker, not an AI ta
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par]] · [[2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight]] · [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure]] · [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers]] · [[2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon]]
+**Related:** [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par]] · [[2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight]] · [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure]] · [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers]] · [[2026-09-12-nebius-and-palantir-announce-sovereign-ai-partnership-behind]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Unite.AI
 url_original: https://www.unite.ai/openai-brings-gpt-5-6-model-family-to-awss-kiro/
 url_canonical: https://www.unite.ai/openai-brings-gpt-5-6-model-family-to-awss-kiro/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 8072a4b45a44324453ea9d699c7e7d3d51ff8c383799780025b44ca4bbc53ff6

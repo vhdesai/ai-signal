@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Perplexity
-member_count: 71
+member_count: 72
 ---
 
 # Perplexity
 
-> Auto-generated entity hub. 71 connected article(s).
+> Auto-generated entity hub. 72 connected article(s).
 
+- `2026-09-12` [[2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit|OpenAI publishes Perplexity case study — Astra now trusted with end-to-end production systems]]
 - `2026-09-06` [[2026-09-06-meta-fair-oxford-and-ucl-introduce-research-preference-model|Meta FAIR, Oxford and UCL introduce Research Preference Models that rank experiments before spending GPU hours]]
 - `2026-09-05` [[2026-09-05-perplexity-details-the-gpu-serving-stack-behind-pplx-embed|Perplexity details the GPU serving stack behind pplx-embed]]
 - `2026-09-05` [[2026-09-05-perplexity-details-the-gpu-embedding-stack-behind-pplx-embed|Perplexity details the GPU embedding stack behind pplx-embed]]

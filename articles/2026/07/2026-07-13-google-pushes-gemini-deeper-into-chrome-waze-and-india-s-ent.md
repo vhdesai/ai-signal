@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: Google · TechCrunch · Mashable India
 url_original: https://blog.google/products-and-platforms/products/chrome/were-expanding-gemini-in-chrome-to-users-in-the-uk/
 url_canonical: https://blog.google/products-and-platforms/products/chrome/were-expanding-gemini-in-chrome-to-users-in-the-uk/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_082213_Inbox_Fw Daily AI News Digest - July
   14, 2026.md
 content_hash: ec060b41a30bca1ece2b552a7f77fff2c26d5560c879936bfc5efa32928e6289

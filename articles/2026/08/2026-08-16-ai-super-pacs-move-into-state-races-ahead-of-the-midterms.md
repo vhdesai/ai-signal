@@ -5,7 +5,7 @@ date: '2026-08-16'
 source: Arizona Capitol Times
 url_original: https://azcapitoltimes.com/news/2026/08/16/ai-super-pacs-flood-money-into-state-elections/
 url_canonical: https://azcapitoltimes.com/news/2026/08/16/ai-super-pacs-flood-money-into-state-elections/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-17_163645_Final-Daily-AI-News-Digest.md
 content_hash: 85e6d99da12d3bca246c29e9ec8eff06e5ecd5776359d330c3dbbc9dc4a1309c
 normalized_title_hash: 3f671555e4b18d97

@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/markets/stocks/articles/openai-delay-ipo-sam-altman-103507298.html
 url_canonical: https://finance.yahoo.com/markets/stocks/articles/openai-delay-ipo-sam-altman-103507298.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-27_064706_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 86b8dce1247cfbdfb3b0c69d3197d7117fd0ce0c1395763613adf1efcd3e44d7
@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr
+- 2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety
 - 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
-- 2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex
-- 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
-- 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
+- 2026-09-13-sam-altman-confirms-openai-will-not-ipo-in-2026
+- 2026-09-12-altman-confirms-openai-ipo-pushed-to-2027-nvidia-in-talks-to
 embedding_id: 2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI is leaning toward postponing its public listing until next year over conc
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]]
+**Related:** [[2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr]] · [[2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-09-13-sam-altman-confirms-openai-will-not-ipo-in-2026]] · [[2026-09-12-altman-confirms-openai-ipo-pushed-to-2027-nvidia-in-talks-to]]
 <!-- graph:end -->

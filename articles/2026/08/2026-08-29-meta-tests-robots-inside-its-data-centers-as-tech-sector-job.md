@@ -5,7 +5,7 @@ date: '2026-08-29'
 source: 24/7 Wall St.
 url_original: https://247wallst.com/investing/2026/08/29/meta-continues-to-trade-jobs-for-ai-robots-are-coming-for-us-all/
 url_canonical: https://247wallst.com/investing/2026/08/29/meta-continues-to-trade-jobs-for-ai-robots-are-coming-for-us-all/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-30_065043_Final-Daily-AI-News-Digest.md
 content_hash: 5bcee29d31dbb514171cc9595ea8287b1fea0de77dae1adf021d82fa27fd903f
 normalized_title_hash: ad9d6f43ab831708

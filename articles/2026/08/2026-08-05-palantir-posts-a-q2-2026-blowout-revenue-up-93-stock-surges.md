@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: The Motley Fool, AOL
 url_original: https://www.fool.com/investing/2026/08/05/palantir-crushes-earnings-in-q2-is-the-stock-headi/
 url_canonical: https://www.fool.com/investing/2026/08/05/palantir-crushes-earnings-in-q2-is-the-stock-headi/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 5e34ae196bb5965e5f8be8e2437a90f25e5d9bd3b363dd6b5177e3725976a68c

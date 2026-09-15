@@ -5,7 +5,7 @@ date: '2026-05-31'
 source: Forbes**
 url_original: https://www.forbes.com/sites/alexanderpuutio/2026/05/31/what-every-ceo-needs-to-know-about-ai-in-may-2026/
 url_canonical: https://www.forbes.com/sites/alexanderpuutio/2026/05/31/what-every-ceo-needs-to-know-about-ai-in-may-2026/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-01_061105_Daily-AI-News-Digest.md
 content_hash: 400725a7648b8f3715d9c830ff5fefae19f2985b6a2efacf7f8a225f48733bec
 normalized_title_hash: ebb4c8e1fa3f5f3e
@@ -29,8 +29,8 @@ related_article_ids:
 - 2026-05-20-ai-news-digest-may-20-2026
 - 2026-08-05-daily-ai-news-digest-august-6-2026
 - 2026-09-02-anthropic-s-ipo-prospectus-will-test-assumptions-behind-the
+- 2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario
 - 2026-05-14-daily-ai-news-digest-may-14-2026
-- 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 embedding_id: 2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Forbes published an executive-oriented synthesis of the month's AI developments,
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Snowflake]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-08-05-daily-ai-news-digest-august-6-2026]] · [[2026-09-02-anthropic-s-ipo-prospectus-will-test-assumptions-behind-the]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]]
+**Related:** [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-08-05-daily-ai-news-digest-august-6-2026]] · [[2026-09-02-anthropic-s-ipo-prospectus-will-test-assumptions-behind-the]] · [[2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]]
 <!-- graph:end -->

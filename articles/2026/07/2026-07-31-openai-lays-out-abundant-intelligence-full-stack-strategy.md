@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: OpenAI Blog
 url_original: https://openai.com/index/building-abundant-intelligence/
 url_canonical: https://openai.com/index/building-abundant-intelligence/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-01_061707_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 2b52a98fd94fb3fab352123c419852813eb04c92d6a84cd343d9116e90df1554

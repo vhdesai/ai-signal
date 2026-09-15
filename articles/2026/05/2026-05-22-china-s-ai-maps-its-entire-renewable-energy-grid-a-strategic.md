@@ -6,7 +6,7 @@ date: '2026-05-22'
 source: 'Source: AI News'
 url_original: https://www.artificialintelligence-news.com/categories/artificial-intelligence/
 url_canonical: https://www.artificialintelligence-news.com/categories/artificial-intelligence/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: d56c9124bc7fee651d49e2907d9e3ff3a5d255f22841c413c9466bbedac41273
@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop
 - 2026-07-31-chinese-military-researchers-used-openai-and-anthropic-model
 - 2026-07-31-report-chinese-military-researchers-used-openai-and-anthropi
+- 2026-09-13-china-says-it-will-create-an-open-source-ai-development-plat
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
-- 2026-07-19-ai-enters-the-debate-over-grid-reliability
 embedding_id: 2026-05-22-china-s-ai-maps-its-entire-renewable-energy-grid-a-strategic
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Chinese AI systems have been used to produce a comprehensive, AI-generated map o
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop]] · [[2026-07-31-chinese-military-researchers-used-openai-and-anthropic-model]] · [[2026-07-31-report-chinese-military-researchers-used-openai-and-anthropi]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-07-19-ai-enters-the-debate-over-grid-reliability]]
+**Related:** [[2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop]] · [[2026-07-31-chinese-military-researchers-used-openai-and-anthropic-model]] · [[2026-07-31-report-chinese-military-researchers-used-openai-and-anthropi]] · [[2026-09-13-china-says-it-will-create-an-open-source-ai-development-plat]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]]
 <!-- graph:end -->

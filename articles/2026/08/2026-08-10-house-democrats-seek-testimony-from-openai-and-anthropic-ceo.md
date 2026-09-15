@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: CNBC
 url_original: https://www.yahoo.com/news/politics/articles/house-democrats-want-openai-anthropic-115141936.html
 url_canonical: https://www.yahoo.com/news/politics/articles/house-democrats-want-openai-anthropic-115141936.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-10_061806_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: cb4d758304f0d489c14ab88ed1e5f48614df161cec2fb24cde1dab15f1ffce43

@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: Anthropic
 url_original: https://www.anthropic.com/news/tino-cuellar
 url_canonical: https://www.anthropic.com/news/tino-cuellar
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-05_061724_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: e95aa12046d4a2ad3486ea577a6ad49f9ab5ec9f80457f5b3cb7b0f76debc0fc

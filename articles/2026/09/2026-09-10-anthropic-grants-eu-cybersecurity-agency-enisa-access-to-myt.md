@@ -6,7 +6,7 @@ date: '2026-09-10'
 source: WSJ
 url_original: https://www.wsj.com/tech/anthropic-gives-eus-cybersecurity-agency-access-to-mythos-5-ai-model-33e3a3ef
 url_canonical: https://www.wsj.com/tech/anthropic-gives-eus-cybersecurity-agency-access-to-mythos-5-ai-model-33e3a3ef
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: 75eabb9e6a6fdcc36994690a57da73d83f26ceed6f89a72ca8dd23cb91c750b7
 normalized_title_hash: ca946f924b55eed7

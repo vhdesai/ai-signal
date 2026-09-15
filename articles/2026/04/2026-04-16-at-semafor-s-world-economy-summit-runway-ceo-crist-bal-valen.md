@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-robot
+- 2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-physi
 - 2026-08-17-higgsfield-raises-400m-series-b-at-a-5-4b-valuation
+- 2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush
 - 2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu
-- 2026-09-04-figure-committed-3-5b-for-ai-compute-after-raising-1-9b
-- 2026-06-19-approximately-6-billion-flowed-into-embodied-ai-world-model
-- 2026-09-06-crusoe-raises-3b-at-a-30b-valuation
 embedding_id: 2026-04-16-at-semafor-s-world-economy-summit-runway-ceo-crist-bal-valen
 event_name: ''
 ---
@@ -37,5 +37,5 @@ At Semafor's World Economy Summit, Runway CEO Cristóbal Valenzuela proposed tha
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-08-17-higgsfield-raises-400m-series-b-at-a-5-4b-valuation]] · [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]] · [[2026-09-04-figure-committed-3-5b-for-ai-compute-after-raising-1-9b]] · [[2026-06-19-approximately-6-billion-flowed-into-embodied-ai-world-model]] · [[2026-09-06-crusoe-raises-3b-at-a-30b-valuation]]
+**Related:** [[2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-robot]] · [[2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-physi]] · [[2026-08-17-higgsfield-raises-400m-series-b-at-a-5-4b-valuation]] · [[2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush]] · [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]]
 <!-- graph:end -->

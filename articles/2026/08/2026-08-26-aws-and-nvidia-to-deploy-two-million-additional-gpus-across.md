@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Amazon Press Release · Amazon (AWS) · Nvidia
 url_original: https://press.aboutamazon.com/aws/2026/8/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai
 url_canonical: https://press.aboutamazon.com/aws/2026/8/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: d715be374f4909c5efeea1b842706339ba18482f6574cdcde6411d19981cf73c

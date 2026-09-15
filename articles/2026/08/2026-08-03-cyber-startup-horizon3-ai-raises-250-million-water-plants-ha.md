@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono
 - 2026-08-03-12-horizon3-raises-250m-series-e-at-a-2b-valuation
 - 2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast
-- 2026-07-09-can-ai-answer-the-3-trillion-question
+- 2026-09-10-pentagon-in-talks-to-lend-5b-to-ai-cloud-startup-fluidstack
 embedding_id: 2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Horizon3.ai, an AI-powered autonomous penetration testing startup, has raised $2
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Company Investments]]
-**Related:** [[2026-08-03-horizon3-raises-250m-as-autonomous-pentesting-demand-rises]] · [[2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono]] · [[2026-08-03-12-horizon3-raises-250m-series-e-at-a-2b-valuation]] · [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]]
+**Related:** [[2026-08-03-horizon3-raises-250m-as-autonomous-pentesting-demand-rises]] · [[2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono]] · [[2026-08-03-12-horizon3-raises-250m-series-e-at-a-2b-valuation]] · [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]] · [[2026-09-10-pentagon-in-talks-to-lend-5b-to-ai-cloud-startup-fluidstack]]
 <!-- graph:end -->

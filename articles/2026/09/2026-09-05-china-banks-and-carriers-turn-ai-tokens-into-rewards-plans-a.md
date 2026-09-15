@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: Unite.AI
 url_original: https://www.unite.ai/china-banks-carriers-turn-ai-tokens-into-rewards-and-monthly-plans/
 url_canonical: https://www.unite.ai/china-banks-carriers-turn-ai-tokens-into-rewards-and-monthly-plans/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-05_060634_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 6cae3d3b81929d46f758d4c9edee46564a8065619e73e060fd6718753d47dd1c
@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
 - 2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o
 - 2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin
+- 2026-09-11-moonshot-ai-targets-2b-annual-revenue-as-kimi-k3-sees-300b-d
 embedding_id: 2026-09-05-china-banks-and-carriers-turn-ai-tokens-into-rewards-plans-a
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Unite.AI reported that Chinese banks, telecom carriers, and a Guangzhou district
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-07-china-s-moonshot-and-z-ai-bring-ai-model-subscriptions-to-al]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o]] · [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]]
+**Related:** [[2026-09-07-china-s-moonshot-and-z-ai-bring-ai-model-subscriptions-to-al]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o]] · [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]] · [[2026-09-11-moonshot-ai-targets-2b-annual-revenue-as-kimi-k3-sees-300b-d]]
 <!-- graph:end -->

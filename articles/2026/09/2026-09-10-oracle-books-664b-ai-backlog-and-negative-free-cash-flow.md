@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: Oracle Investor Relations**
 url_original: https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/default.aspx
 url_canonical: https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/default.aspx
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-11_065100_Final-Daily-AI-News-Digest.md
 content_hash: 19199607e448f6f34bac05173a6c881f2281eeb2e80d21d0ffc9f5fb8b2e8d39
 normalized_title_hash: 4f2e8c2652db22e7
@@ -22,10 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-11-oracle-posts-664b-ai-cloud-backlog-and-negative-free-cash-fl
+- 2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a
 - 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
 - 2026-06-10-oracle-reports-record-q4-oci-revenue-surges-93-yoy-ai-backlo
 - 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
-- 2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y
 embedding_id: 2026-09-10-oracle-books-664b-ai-backlog-and-negative-free-cash-flow
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Oracle reported Q1 FY27 revenue up 30% to $19.3B, cloud infrastructure up 121% t
 
 **Entities:** [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]] · [[2026-06-10-oracle-reports-record-q4-oci-revenue-surges-93-yoy-ai-backlo]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]] · [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]]
+**Related:** [[2026-09-11-oracle-posts-664b-ai-cloud-backlog-and-negative-free-cash-fl]] · [[2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a]] · [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]] · [[2026-06-10-oracle-reports-record-q4-oci-revenue-surges-93-yoy-ai-backlo]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]]
 <!-- graph:end -->

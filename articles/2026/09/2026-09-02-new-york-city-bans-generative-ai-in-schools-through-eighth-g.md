@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-05-new-york-city-and-los-angeles-school-districts-impose-new-ai
 - 2026-09-04-nyc-parents-push-back-after-discovering-classroom-ai-use
 - 2026-07-26-new-york-school-district-pauses-humanoid-robot-teacher-after
-- 2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work
+- 2026-09-13-two-year-randomized-classroom-study-banning-ai-leaves-studen
 embedding_id: 2026-09-02-new-york-city-bans-generative-ai-in-schools-through-eighth-g
 event_name: ''
 ---
@@ -36,5 +36,5 @@ York City Public Schools imposed a one-year moratorium on student-facing generat
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-05-nyc-and-los-angeles-school-districts-impose-new-ai-moratoriu]] · [[2026-09-05-new-york-city-and-los-angeles-school-districts-impose-new-ai]] · [[2026-09-04-nyc-parents-push-back-after-discovering-classroom-ai-use]] · [[2026-07-26-new-york-school-district-pauses-humanoid-robot-teacher-after]] · [[2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work]]
+**Related:** [[2026-09-05-nyc-and-los-angeles-school-districts-impose-new-ai-moratoriu]] · [[2026-09-05-new-york-city-and-los-angeles-school-districts-impose-new-ai]] · [[2026-09-04-nyc-parents-push-back-after-discovering-classroom-ai-use]] · [[2026-07-26-new-york-school-district-pauses-humanoid-robot-teacher-after]] · [[2026-09-13-two-year-randomized-classroom-study-banning-ai-leaves-studen]]
 <!-- graph:end -->

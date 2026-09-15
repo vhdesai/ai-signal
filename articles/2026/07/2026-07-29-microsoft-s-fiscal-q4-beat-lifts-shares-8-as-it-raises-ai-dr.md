@@ -6,7 +6,7 @@ date: '2026-07-29'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html
 url_canonical: https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-30_060824_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 690cc1ada8ccfa056411d6eb7be36d754e424dbd92a7151321179d3207894ac6

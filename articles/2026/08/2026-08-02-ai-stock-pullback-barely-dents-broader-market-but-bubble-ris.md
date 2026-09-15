@@ -5,7 +5,7 @@ date: '2026-08-02'
 source: Wall Street Journal**
 url_original: https://www.wsj.com/finance/stocks/stock-market-bubbles-recovery-029d21d0
 url_canonical: https://www.wsj.com/finance/stocks/stock-market-bubbles-recovery-029d21d0
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-02_065015_Final-Daily-AI-News-Digest.md
 content_hash: a94b171d45685ec28d4b41db003dd0d01e3ad98a47b389723376cef71290b13f
 normalized_title_hash: f3d42bc53213cee0

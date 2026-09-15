@@ -6,7 +6,7 @@ date: '2026-09-04'
 source: THE DECODER
 url_original: https://the-decoder.com/artificial-intelligence-news/
 url_canonical: https://the-decoder.com/artificial-intelligence-news/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-05_061544_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: aad98546a7db827ba451ef42b67ba5b73116a46c73c60ea34f36e09f527f22bc
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-06-independent-evaluator-finds-openai-s-astra-agi-benchmark-was
 - 2026-09-05-artificial-analysis-overhauls-its-intelligence-index-after-a
 - 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
-- 2026-09-06-openai-engineer-says-internal-astra-use-pulled-roadmap-plans
+- 2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial
 embedding_id: 2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Independent evaluations of OpenAI's GPT-6 Astra disagree sharply: Epoch AI ranks
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-06-openai-s-agi-number-came-from-a-harness-not-the-model]] · [[2026-09-06-independent-evaluator-finds-openai-s-astra-agi-benchmark-was]] · [[2026-09-05-artificial-analysis-overhauls-its-intelligence-index-after-a]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-09-06-openai-engineer-says-internal-astra-use-pulled-roadmap-plans]]
+**Related:** [[2026-09-06-openai-s-agi-number-came-from-a-harness-not-the-model]] · [[2026-09-06-independent-evaluator-finds-openai-s-astra-agi-benchmark-was]] · [[2026-09-05-artificial-analysis-overhauls-its-intelligence-index-after-a]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial]]
 <!-- graph:end -->

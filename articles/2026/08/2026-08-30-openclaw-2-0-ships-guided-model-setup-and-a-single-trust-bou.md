@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-31-openclaw-ships-2-0-its-largest-release-built-by-933-contribu
 - 2026-08-30-openclaw-2-0-ships-the-open-source-ai-client-s-largest-ever
 - event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib
-- 2026-07-20-model-context-protocol-update-aims-to-make-agent-integration
+- 2026-09-12-openai-s-agents-api-puts-the-codex-harness-behind-a-single-c
 embedding_id: 2026-08-30-openclaw-2-0-ships-guided-model-setup-and-a-single-trust-bou
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The open agent runtime's 2.0 release rebuilds onboarding around guided model con
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-30-openclaw-ships-2-0-its-largest-release-built-by-933-contribu]] · [[2026-08-31-openclaw-ships-2-0-its-largest-release-built-by-933-contribu]] · [[2026-08-30-openclaw-2-0-ships-the-open-source-ai-client-s-largest-ever]] · [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib]] · [[2026-07-20-model-context-protocol-update-aims-to-make-agent-integration]]
+**Related:** [[2026-08-30-openclaw-ships-2-0-its-largest-release-built-by-933-contribu]] · [[2026-08-31-openclaw-ships-2-0-its-largest-release-built-by-933-contribu]] · [[2026-08-30-openclaw-2-0-ships-the-open-source-ai-client-s-largest-ever]] · [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib]] · [[2026-09-12-openai-s-agents-api-puts-the-codex-harness-behind-a-single-c]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: TechCrunch / WSJ
 url_original: https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/
 url_canonical: https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_065039_Final-Daily-AI-News-Digest.md
 content_hash: f5f9b13622da6581bc400497913a9639ef1be7541dc01447de09c6c009428ddf
 normalized_title_hash: 883ca11880e9520e

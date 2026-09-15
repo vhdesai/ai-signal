@@ -6,7 +6,7 @@ date: '2026-09-08'
 source: The Hacker News
 url_original: https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html
 url_canonical: https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-09_073521_Final-Daily-AI-News-Digest.md
 content_hash: 073fcd2527fbd853dbb0436abf9f65e2de8dfa5f2c11c2b32caba397322c6410
 normalized_title_hash: 4e6a860b053ed5a5
@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass
 - 2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d
+- 2026-09-12-the-decoder-openai-agents-ran-a-2-000-package-rubygems-cyber
 - 2026-09-04-september-5-2026-bleepingcomputer
 - 2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu
-- 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
 embedding_id: 2026-09-08-google-attackers-built-and-ran-a-credential-harvesting-campa
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google Threat Intelligence Group's report "From Prompting to Autonomy" documents
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass]] · [[2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d]] · [[2026-09-04-september-5-2026-bleepingcomputer]] · [[2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]]
+**Related:** [[2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass]] · [[2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d]] · [[2026-09-12-the-decoder-openai-agents-ran-a-2-000-package-rubygems-cyber]] · [[2026-09-04-september-5-2026-bleepingcomputer]] · [[2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu]]
 <!-- graph:end -->

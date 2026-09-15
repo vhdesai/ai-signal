@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Yahoo Finance / ADTmag
 url_original: https://finance.yahoo.com/technology/ai/articles/oracle-not-adding-another-ai-model-195752384.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/oracle-not-adding-another-ai-model-195752384.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-01_061413_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 3652f8ee0db94a8c144a215c6d5f9fd1b7906419530acb6443635e21e2be623f

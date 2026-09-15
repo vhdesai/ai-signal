@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Bloomberg
 url_original: https://www.aol.com/articles/moonshot-nvidia-chip-cluster-alibaba-150851000.html
 url_canonical: https://www.aol.com/articles/moonshot-nvidia-chip-cluster-alibaba-150851000.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-01_061413_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: fa7c631779534714ebf680ec0569d052fe957170fe79a0de8f8cd1dabe645823

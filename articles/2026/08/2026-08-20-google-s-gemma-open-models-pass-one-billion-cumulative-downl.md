@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: Unite.AI
 url_original: https://www.unite.ai/googles-gemma-open-models-pass-1-billion-downloads-as-variants-top-100k/
 url_canonical: https://www.unite.ai/googles-gemma-open-models-pass-1-billion-downloads-as-variants-top-100k/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-21_065332_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: d38355b87e9726340182dfc972999c3805e5172ede14d376cc967953c04335b5

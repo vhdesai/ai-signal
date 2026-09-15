@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-09-07-alibaba-releases-qwen-drive-1-0-a-unified-perception-and-pla
 - 2026-08-18-alibaba-s-qwen3-8-27b-brings-frontier-class-local-coding-and
 - 2026-09-07-alibaba-releases-qwen-drive-1-0-a-unified-perception-plannin
-- 2026-07-05-bytedance-and-alibaba-pull-ai-companion-features-ahead-of-ch
-- 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
+- 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor
+- 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f
 embedding_id: 2026-04-03-sanctuary-ai-demonstrated-a-hydraulic-robotic-hand-achieving
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Sanctuary AI demonstrated a hydraulic robotic hand achieving fingertip-only cube
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-07-alibaba-releases-qwen-drive-1-0-a-unified-perception-and-pla]] · [[2026-08-18-alibaba-s-qwen3-8-27b-brings-frontier-class-local-coding-and]] · [[2026-09-07-alibaba-releases-qwen-drive-1-0-a-unified-perception-plannin]] · [[2026-07-05-bytedance-and-alibaba-pull-ai-companion-features-ahead-of-ch]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]]
+**Related:** [[2026-09-07-alibaba-releases-qwen-drive-1-0-a-unified-perception-and-pla]] · [[2026-08-18-alibaba-s-qwen3-8-27b-brings-frontier-class-local-coding-and]] · [[2026-09-07-alibaba-releases-qwen-drive-1-0-a-unified-perception-plannin]] · [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor]] · [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f]]
 <!-- graph:end -->

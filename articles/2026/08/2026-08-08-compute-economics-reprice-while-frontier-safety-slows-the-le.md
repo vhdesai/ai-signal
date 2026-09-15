@@ -30,10 +30,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
+- 2026-09-13-safety-becomes-the-frontier-story-and-capital-keeps-accelera
+- 2026-09-13-sunday-september-13-2026
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
-- 2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le
-- 2026-06-26-daily-ai-news-digest-june-26-2026
 embedding_id: 2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le
 event_name: ''
 ---
@@ -47,5 +47,5 @@ ________________________________ The last 24 hours were defined less by capabili
 
 **Entities:** [[Alibaba]] · [[AMD]] · [[DeepSeek]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le]] · [[2026-06-26-daily-ai-news-digest-june-26-2026]]
+**Related:** [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-09-13-safety-becomes-the-frontier-story-and-capital-keeps-accelera]] · [[2026-09-13-sunday-september-13-2026]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]]
 <!-- graph:end -->

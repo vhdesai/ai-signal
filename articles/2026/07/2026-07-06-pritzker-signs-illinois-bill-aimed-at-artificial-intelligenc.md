@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: CBS News Chicago
 url_original: https://www.cbsnews.com/chicago/news/pritzker-to-sign-illinois-bill-aimed-artificial-intelligence-accountability/
 url_canonical: https://www.cbsnews.com/chicago/news/pritzker-to-sign-illinois-bill-aimed-artificial-intelligence-accountability/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-07_061720_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: f657804771f40a5f256594107ffd4af4d62e38edc9ceccee6e6541d1cd12462e

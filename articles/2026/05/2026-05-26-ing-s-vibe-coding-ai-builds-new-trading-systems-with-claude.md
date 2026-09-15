@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
 - 2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a
 - 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
+- 2026-09-14-anthropic-preparing-claude-money-for-personal-finance-workfl
 - 2026-06-02-openai-extends-codex-beyond-coding-to-finance-banking-and-sa
-- 2026-06-02-openai-expands-codex-agent-beyond-software-to-finance-bankin
 embedding_id: 2026-05-26-ing-s-vibe-coding-ai-builds-new-trading-systems-with-claude
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Dutch bank ING is using Anthropic's Claude Code and OpenAI's Codex to rewrite pa
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a]] · [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]] · [[2026-06-02-openai-extends-codex-beyond-coding-to-finance-banking-and-sa]] · [[2026-06-02-openai-expands-codex-agent-beyond-software-to-finance-bankin]]
+**Related:** [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a]] · [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]] · [[2026-09-14-anthropic-preparing-claude-money-for-personal-finance-workfl]] · [[2026-06-02-openai-extends-codex-beyond-coding-to-finance-banking-and-sa]]
 <!-- graph:end -->

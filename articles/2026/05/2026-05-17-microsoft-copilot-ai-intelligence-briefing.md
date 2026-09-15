@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-08-11-daily-ai-news-digest-august-11-2026
-- 2026-08-15-daily-ai-news-digest-august-16-2026
+- 2026-09-12-saturday-september-12-2026
 embedding_id: 2026-05-17-microsoft-copilot-ai-intelligence-briefing
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Good morning, Vik. A quieter Sunday cycle, but three market-moving items demand 
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-08-15-daily-ai-news-digest-august-16-2026]]
+**Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-09-12-saturday-september-12-2026]]
 <!-- graph:end -->

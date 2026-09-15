@@ -6,7 +6,7 @@ date: '2026-07-28'
 source: Anthropic
 url_original: https://claude.com/blog/bringing-mcp-2026-07-28-to-claude
 url_canonical: https://claude.com/blog/bringing-mcp-2026-07-28-to-claude
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-29_062156_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: e7973c4d829b8af17c1585a896c8b94b100b2eecdac7fae870194db952a67a6d

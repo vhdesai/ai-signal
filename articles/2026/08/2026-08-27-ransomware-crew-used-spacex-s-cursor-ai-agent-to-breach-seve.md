@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: Channel NewsAsia (Reuters exclusive) · Cursor (SpaceX), Anthropic
 url_original: https://www.channelnewsasia.com/business/exclusive-russian-speaking-cybercriminals-used-spacexs-cursor-ai-tool-hack-seven-companies-6345066
 url_canonical: https://www.channelnewsasia.com/business/exclusive-russian-speaking-cybercriminals-used-spacexs-cursor-ai-tool-hack-seven-companies-6345066
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 66c1b3c487446ee35185ee82d98541b792bb32c641417294224079a4e0b0894e

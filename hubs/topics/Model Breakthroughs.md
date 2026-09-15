@@ -1,13 +1,53 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 2887
+member_count: 2927
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 2887 connected article(s).
+> Auto-generated topic hub. 2927 connected article(s).
 
+- `2026-09-14` [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor|Shanghai AI Lab ships Intern W0, a force-tactile physical world model for robotics]]
+- `2026-09-14` [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f|Shanghai AI Lab Ships Intern W0, a Physical World Model for Force-Tactile Robotics]]
+- `2026-09-13` [[2026-09-13-two-year-law-school-study-banning-ai-in-the-classroom-leaves|Two-year law-school study: banning AI in the classroom leaves students measurably worse off]]
+- `2026-09-13` [[2026-09-13-two-year-randomized-classroom-study-banning-ai-leaves-studen|Two-Year Randomized Classroom Study: Banning AI Leaves Students Worst Off]]
+- `2026-09-13` [[2026-09-13-sunday-september-13-2026|Sunday, September 13, 2026]]
+- `2026-09-13` [[2026-09-13-openai-retires-gpt-5-3-codex-spark-after-seven-months|OpenAI retires GPT-5.3-Codex-Spark after seven months]]
+- `2026-09-13` [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea|MIT Study: Student "Cognitive Surrender" to AI Is Degrading Learning Outcomes]]
+- `2026-09-13` [[2026-09-13-gpt-6-astra-now-beats-human-baseline-on-surveillance-drone-p|GPT-6 Astra now beats human baseline on surveillance-drone piloting; runs a business ~3x better than Claude Fable 5.1]]
+- `2026-09-13` [[2026-09-13-firstpost-moneycontrol-and-storyboard18-report-another-googl|Firstpost, Moneycontrol, and Storyboard18 report another Google DeepMind AI safety researcher has resigned, publicly citing a "terrifying chance" AI could cause immense harm. Times of India also reports Google is moving its AI responsibility team out of DeepMind entirely, starting this month — a structural shift that critics say weakens safety integration inside model development. Combined with the Amodei/Altman/Hassabis slowdown call, the day's news suggests unusually coordinated concern from within the industry itself.]]
+- `2026-09-13` [[2026-09-13-chinese-researchers-demonstrate-100x-endurance-improvement-i|Chinese researchers demonstrate ~100x endurance improvement in wurtzite ferroelectric memory]]
+- `2026-09-13` [[2026-09-13-allspark-releases-open-weight-iris-mini-and-iris-pro-search|AllSpark releases open-weight Iris-mini and Iris-pro search agents, leading open-weight benchmarks]]
+- `2026-09-12` [[2026-09-12-weill-cornell-in-nejm-ai-agents-may-expand-not-shrink-the-cl|Weill Cornell in NEJM: AI Agents May Expand, Not Shrink, the Clinical Workforce]]
+- `2026-09-12` [[2026-09-12-twenty-five-fields-medalists-declare-severe-misalignment-bet|Twenty-Five Fields Medalists Declare "Severe Misalignment" Between AI Labs and Mathematics]]
+- `2026-09-12` [[2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul|StationeryBench: GPT-6 Astra Clears 7 of 100 Dual-Arm Manipulation Tasks; Ai2’s MolmoAct2 Clears Zero]]
+- `2026-09-12` [[2026-09-12-saturday-september-12-2026|Saturday, September 12, 2026]]
+- `2026-09-12` [[2026-09-12-sakana-ai-ships-fugu-ultra-v2-orchestration-engine-on-openro|Sakana AI ships Fugu Ultra v2 orchestration engine on OpenRouter]]
+- `2026-09-12` [[2026-09-12-openai-s-agents-api-puts-the-codex-harness-behind-a-single-c|OpenAI's Agents API Puts the Codex Harness Behind a Single Call]]
+- `2026-09-12` [[2026-09-12-microsoft-begins-rolling-grok-models-into-copilot-for-fronti|Microsoft begins rolling Grok models into Copilot for Frontier customers]]
+- `2026-09-12` [[2026-09-12-kaist-and-naver-ai-lab-written-reasoning-steps-map-to-separa|KAIST and Naver AI Lab: Written Reasoning Steps Map to Separable Internal Patterns]]
+- `2026-09-12` [[2026-09-12-independent-testing-puts-cognition-s-swe-2-narrowly-ahead-of|Independent testing puts Cognition's SWE-2 narrowly ahead of DeepSeek V4.1 Flash — and well ahead of its own base model]]
+- `2026-09-12` [[2026-09-12-google-research-timesfm-3-forecasts-from-sales-weather-and-p|Google Research TimesFM-3 Forecasts From Sales, Weather and Promotion Schedules in a Single Pass]]
+- `2026-09-12` [[2026-09-12-fly-language-model-wires-the-full-fruit-fly-connectome-into|Fly Language Model Wires the Full Fruit-Fly Connectome Into a Frozen 1.2B LLM — and the Controls Show the Wiring Doesn’t Help]]
+- `2026-09-12` [[2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial|Early benchmarks: GPT-6 Astra shows a "step change" in spatial reasoning on dual-arm robots]]
+- `2026-09-12` [[2026-09-12-deepseek-v4-1-flash-ships-a-new-encoder-decoder-architecture|DeepSeek V4.1-Flash ships a new encoder-decoder architecture and a 60% cut to cached-input pricing]]
+- `2026-09-12` [[2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms|Context Engineering Inside the Agent Harness: Four Mechanisms Against Context Overflow]]
+- `2026-09-12` [[2026-09-12-cognition-s-swe-2-matches-fable-5-1-on-frontiercode-at-64-lo|Cognition's SWE-2 matches Fable 5.1 on FrontierCode at 64% lower cost]]
+- `2026-09-12` [[2026-09-12-cognition-s-swe-2-matches-frontier-coding-scores-at-64-lower|Cognition's SWE-2 Matches Frontier Coding Scores at 64% Lower Cost]]
+- `2026-09-12` [[2026-09-12-cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model|Cognition releases SWE-2, a Kimi K3 post-trained coding model at 64% lower cost than Fable 5.1]]
+- `2026-09-12` [[2026-09-12-china-s-ai-industry-pivots-from-models-to-agents-inference-f|China's AI industry pivots from models to agents; inference forecast at 80% of compute by 2029]]
+- `2026-09-12` [[2026-09-12-25-fields-medalists-sign-joint-statement-ai-industry-s-goals|25 Fields Medalists sign joint statement: AI industry's goals are "severely misaligned" with mathematics]]
+- `2026-09-11` [[2026-09-11-purdue-ai-racing-sets-autonomous-track-record-at-laguna-seca|Purdue AI Racing sets autonomous track record at Laguna Seca, finishes runner-up]]
+- `2026-09-11` [[2026-09-11-openai-pauses-200-chatgpt-pro-sign-ups-as-astra-demand-outru|OpenAI Pauses $200 ChatGPT Pro Sign-Ups as Astra Demand Outruns Compute]]
+- `2026-09-11` [[2026-09-11-notable-arxiv-ml-submissions-dated-friday-11-september|Notable arXiv ML submissions dated Friday, 11 September]]
+- `2026-09-11` [[2026-09-11-harnessdev-models-are-poor-engineers-of-their-own-agent-scaf|HarnessDev: models are poor engineers of their own agent scaffolding]]
+- `2026-09-11` [[2026-09-11-deepseek-v4-1-flash-resets-inference-price-performance-with|DeepSeek V4.1-Flash resets inference price-performance with a $0.003 / 1M cached-input rate]]
+- `2026-09-11` [[2026-09-11-deepseek-v4-1-flash-lands-on-third-party-inference-platforms|DeepSeek V4.1-Flash Lands on Third-Party Inference Platforms With 1M-Token Context]]
+- `2026-09-11` [[2026-09-11-cognition-s-swe-2-reaches-near-frontier-coding-scores-at-64|Cognition's SWE-2 reaches near-frontier coding scores at 64% lower cost]]
+- `2026-09-11` [[2026-09-11-anthropic-adds-counterfactual-plugin-evals-six-grader-types|Anthropic adds counterfactual plugin evals — six grader types and a CI gate for agent skills]]
+- `2026-09-11` [[2026-09-11-andrew-ng-ai-engineering-skill-is-changing-the-scope-of-the|Andrew Ng: AI engineering skill is changing the scope of the role, not just the toolkit]]
+- `2026-09-11` [[2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a|$500K in grants funds non-transformer architecture research at Stanford, MIT, Berkeley, UT Austin and Yale]]
 - `2026-09-10` [[2026-09-10-ibm-and-nasa-release-open-source-ai-foundation-model-for-lun|IBM and NASA release open-source AI foundation model for lunar science]]
 - `2026-09-10` [[2026-09-10-ibm-and-nasa-release-an-open-source-ai-foundation-model-for|IBM and NASA release an open-source AI foundation model for lunar science]]
 - `2026-09-10` [[2026-09-10-google-deepmind-proposes-autoregressive-ranking-to-replace-d|Google DeepMind proposes Autoregressive Ranking to replace dual/cross-encoder search stacks]]

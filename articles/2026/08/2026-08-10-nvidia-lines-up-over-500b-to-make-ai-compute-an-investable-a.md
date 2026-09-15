@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: CNBC / Unite.AI
 url_original: https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html
 url_canonical: https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_061444_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 13156b04a0ed490ca832fe776cf77cc873c65f2e9b231db07edc059a212f40f6

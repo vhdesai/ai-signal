@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: Computerworld
 url_original: https://www.computerworld.com/article/4219264/sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-users-wait-for-access-2.html
 url_canonical: https://www.computerworld.com/article/4219264/sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-users-wait-for-access-2.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-07_061000_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: dc9f2f556fa096642fa1aca9fa52b6211744e87edcdfe518c914a8d65728f5f5
@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag
+- 2026-09-11-openai-pauses-200-chatgpt-pro-sign-ups-as-astra-demand-outru
 - 2026-09-06-openai-developer-says-astra-s-internal-use-pulled-roadmap-pl
-- 2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne
 embedding_id: 2026-09-06-sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-use
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Computerworld reported that OpenAI's GPT-6 Astra rollout faced early access issu
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag]] · [[2026-09-06-openai-developer-says-astra-s-internal-use-pulled-roadmap-pl]] · [[2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne]]
+**Related:** [[2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag]] · [[2026-09-11-openai-pauses-200-chatgpt-pro-sign-ups-as-astra-demand-outru]] · [[2026-09-06-openai-developer-says-astra-s-internal-use-pulled-roadmap-pl]]
 <!-- graph:end -->

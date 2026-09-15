@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: Meta; Reuters; TechCrunch
 url_original: https://about.fb.com/news/2026/06/meta-business-agent/
 url_canonical: https://about.fb.com/news/2026/06/meta-business-agent/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-04_072143_Inbox_Daily AI News Digest – June 4,
   2026 (Updated).md
 content_hash: 9c924884cd72a8d9279333f278a2005dd118d53e362138abbb5191e6e624c282
@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-06-03-meta-launches-business-agent-for-whatsapp-globally
 - 2026-07-29-meta-says-enterprise-ai-opportunity-extends-beyond-agents
 - 2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f
+- 2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce
 - 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
-- 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
 embedding_id: 2026-06-03-meta-launches-business-agent-and-business-agent-platform-glo
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta Business Agent handles customer interactions across WhatsApp, Messenger, an
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-03-meta-launches-business-agent-for-whatsapp-globally]] · [[2026-07-29-meta-says-enterprise-ai-opportunity-extends-beyond-agents]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]]
+**Related:** [[2026-06-03-meta-launches-business-agent-for-whatsapp-globally]] · [[2026-07-29-meta-says-enterprise-ai-opportunity-extends-beyond-agents]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]]
 <!-- graph:end -->

@@ -26,8 +26,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-18-openai-s-q2-revenue-growth-lags-anthropic-as-margins-worsen
 - 2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu
+- 2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues
 - 2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s
-- 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 embedding_id: 2026-08-18-openai-q2-sales-show-tepid-growth-compared-with-anthropic
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI's revenue grew much slower than Anthropic's last quarter, disappointing i
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-18-openai-s-q2-revenue-growth-lags-anthropic-as-margins-worsen]] · [[2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu]] · [[2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]]
+**Related:** [[2026-08-18-openai-s-q2-revenue-growth-lags-anthropic-as-margins-worsen]] · [[2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu]] · [[2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues]] · [[2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s]]
 <!-- graph:end -->

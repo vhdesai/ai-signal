@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 134
+member_count: 137
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 134 connected article(s).
+> Auto-generated entity hub. 137 connected article(s).
 
+- `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
+- `2026-09-13` [[2026-09-13-aws-open-sources-pizza-bot-an-inbox-for-background-ai-agents|AWS Open-Sources Pizza Bot, an Inbox for Background AI Agents]]
+- `2026-09-11` [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe|An Anthropic researcher's doomsday warning lands at a pointed moment]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
 - `2026-09-06` [[2026-09-06-meta-fair-oxford-and-ucl-introduce-research-preference-model|Meta FAIR, Oxford and UCL introduce Research Preference Models that rank experiments before spending GPU hours]]
 - `2026-09-06` [[2026-09-06-databricks-launches-context-engineer-certification-and-expan|Databricks launches Context Engineer certification and expands agent training]]

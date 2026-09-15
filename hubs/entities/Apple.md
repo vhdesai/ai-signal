@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 392
+member_count: 397
 ---
 
 # Apple
 
-> Auto-generated entity hub. 392 connected article(s).
+> Auto-generated entity hub. 397 connected article(s).
 
+- `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
+- `2026-09-12` [[2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues|Anthropic and OpenAI now capture 89% of AI startup revenues]]
+- `2026-09-11` [[2026-09-11-tech-layoffs-pass-180-000-in-2026-as-capex-reallocates-towar|Tech layoffs pass 180,000 in 2026 as capex reallocates toward AI]]
+- `2026-09-11` [[2026-09-11-apple-s-rebuilt-siri-ships-next-week-with-ios-27|Apple's rebuilt Siri ships next week with iOS 27]]
+- `2026-09-11` [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe|An Anthropic researcher's doomsday warning lands at a pointed moment]]
 - `2026-09-09` [[2026-09-09-apple-unveils-iphone-duo-and-siri-ai-at-ternus-s-first-event|Apple unveils iPhone Duo and Siri AI at Ternus's first event]]
 - `2026-09-06` [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno|Psychiatry debates whether “AI psychosis” is a distinct diagnosis]]
 - `2026-09-06` [[2026-09-06-meta-fair-oxford-and-ucl-introduce-research-preference-model|Meta FAIR, Oxford and UCL introduce Research Preference Models that rank experiments before spending GPU hours]]

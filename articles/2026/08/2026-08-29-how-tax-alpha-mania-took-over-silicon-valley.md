@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-07-09-anthropic-openai-and-spacex-are-bigger-than-the-last-25-year
 - 2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits
 - 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
+- 2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues
 embedding_id: 2026-08-29-how-tax-alpha-mania-took-over-silicon-valley
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Tech founders and employees are increasingly obsessed with optimizing tax strate
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-07-09-anthropic-openai-and-spacex-are-bigger-than-the-last-25-year]] · [[2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]]
+**Related:** [[2026-07-09-anthropic-openai-and-spacex-are-bigger-than-the-last-25-year]] · [[2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-09-03'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Meta%20Hatch%20AI%20agent
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Meta%20Hatch%20AI%20agent
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-05_070426_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 40c7b8f6bb72f6f67c9efdc702442efc5504ec90732e4a583cb225bdee3cd430
@@ -32,8 +32,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-03-meta-works-on-action-gates-and-credential-isolation-before-h
 - 2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi
+- 2026-09-11-senator-josh-hawley-formally-opens-senate-investigation-into
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
-- 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
 embedding_id: 2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr
 event_name: ''
 ---
@@ -47,5 +47,5 @@ The Information reports that Meta has been dogfooding Hatch, an upcoming persona
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[DeepSeek]] · [[Huawei]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-03-meta-works-on-action-gates-and-credential-isolation-before-h]] · [[2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]]
+**Related:** [[2026-09-03-meta-works-on-action-gates-and-credential-isolation-before-h]] · [[2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi]] · [[2026-09-11-senator-josh-hawley-formally-opens-senate-investigation-into]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]]
 <!-- graph:end -->

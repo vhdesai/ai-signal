@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: Yahoo Finance / DatacenterDynamics
 url_original: https://finance.yahoo.com/technology/articles/meta-blackrock-form-14-billion-133518992.html
 url_canonical: https://finance.yahoo.com/technology/articles/meta-blackrock-form-14-billion-133518992.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: f322221f953f4fb547787e01a26a6baf4342c024e67d078a0c9b55da096bfe4e

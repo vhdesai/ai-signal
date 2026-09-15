@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/
 url_canonical: https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-15_082850_Final-Daily-AI-News-Digest.md
 content_hash: 68784db991ec5ba000f9da7ffac46ace5946bff64fd33cbdcb1de3a1015f91d6
 normalized_title_hash: 63b650cda350a308

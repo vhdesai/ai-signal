@@ -5,7 +5,7 @@ date: '2026-05-22'
 source: The Batch / DeepLearning.AI
 url_original: https://www.cmu.edu/news/stories/archives/2026/may/nvidia-founder-ceo-jensen-huang-to-carnegie-mellon-university-graduates-shape-what-comes-next
 url_canonical: https://www.cmu.edu/news/stories/archives/2026/may/nvidia-founder-ceo-jensen-huang-to-carnegie-mellon-university-graduates-shape-what-comes-next
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 36077fef6b1fe6d146c6162e113e1e5b77953c65f528b65d0f811ef1009dd1df
@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-02-xai-launches-grok-voice-ai-agent-builder-beta-build-a-voice
+- 2026-09-11-andrew-ng-ai-engineering-skill-is-changing-the-scope-of-the
 - 2026-07-02-xai-launches-no-code-grok-voice-agent-builder
 - 2026-08-23-who-s-behind-the-new-stealth-model-ox-alpha
 - 2026-07-02-xai-launches-grok-voice-ai-agent-builder
-- 2026-08-23-who-is-behind-ox-alpha-a-stealth-frontier-model-has-the-indu
 embedding_id: 2026-05-22-andrew-ng-stanford-launches-ai-andrew-voice-avatar-pushes-ba
 event_name: ''
 ---
@@ -36,5 +36,5 @@ In his weekly Batch column, Andrew Ng unveiled AI Andrew — a voice-to-voice ag
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-02-xai-launches-grok-voice-ai-agent-builder-beta-build-a-voice]] · [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]] · [[2026-08-23-who-s-behind-the-new-stealth-model-ox-alpha]] · [[2026-07-02-xai-launches-grok-voice-ai-agent-builder]] · [[2026-08-23-who-is-behind-ox-alpha-a-stealth-frontier-model-has-the-indu]]
+**Related:** [[2026-07-02-xai-launches-grok-voice-ai-agent-builder-beta-build-a-voice]] · [[2026-09-11-andrew-ng-ai-engineering-skill-is-changing-the-scope-of-the]] · [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]] · [[2026-08-23-who-s-behind-the-new-stealth-model-ox-alpha]] · [[2026-07-02-xai-launches-grok-voice-ai-agent-builder]]
 <!-- graph:end -->

@@ -1,81 +1,118 @@
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
 
 Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]
-Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2427.50it/s]
+Loading weights:   6%|▌         | 12/199 [00:00<00:02, 70.08it/s]
+Loading weights:  10%|█         | 20/199 [00:00<00:03, 45.74it/s]
+Loading weights:  17%|█▋        | 33/199 [00:00<00:02, 61.10it/s]
+Loading weights:  20%|██        | 40/199 [00:00<00:03, 41.71it/s]
+Loading weights:  27%|██▋       | 54/199 [00:01<00:02, 54.16it/s]
+Loading weights:  31%|███       | 61/199 [00:01<00:02, 51.55it/s]
+Loading weights: 100%|██████████| 199/199 [00:01<00:00, 160.85it/s]
 {
   "command": "run-daily",
   "stages": {
     "ingest": {
-      "digests_total": 1157,
-      "digests_changed": 1,
+      "digests_total": 1191,
+      "digests_changed": 32,
       "changed": [
-        "news\\2026-09-10_143512_Final-Daily-AI-News-Digest.md"
+        "news\\2026-09-12_000000_Publication-Sources.md",
+        "news\\2026-09-12_060641_Inbox_Daily AI News Digest - September 12, 2026.md",
+        "news\\2026-09-12_060708_Inbox_Daily AI News Digest - September 12, 2026.md",
+        "news\\2026-09-12_060721_Inbox_Daily AI News Digest - September 12, 2026.md",
+        "news\\2026-09-12_061125_Inbox_Daily AI News Digest - September 12, 2026.md",
+        "news\\2026-09-12_062119_Inbox_Daily AI News Digest - September 12, 2026.md",
+        "news\\2026-09-12_062305_Inbox_Daily AI News Digest - September 12, 2026.md",
+        "news\\2026-09-12_064812_Inbox_ClawPilot - Daily AI News Digest - September 12, 2026.md",
+        "news\\2026-09-12_065200_Final-Daily-AI-News-Digest.md",
+        "news\\2026-09-12_065357_Inbox_Daily AI News Digest - September 12, 2026.md",
+        "news\\2026-09-12_065710_Final-Daily-AI-News-Digest.md",
+        "news\\2026-09-12_070058_Inbox_Daily AI News Digest - September 12, 2026.md",
+        "news\\2026-09-13_000000_Publication-Sources.md",
+        "news\\2026-09-13_060533_Inbox_Daily AI News Digest - September 13, 2026.md",
+        "news\\2026-09-13_060535_Inbox_Daily AI News Digest - September 13, 2026.md",
+        "news\\2026-09-13_060802_Inbox_Daily AI News Digest - September 13, 2026.md",
+        "news\\2026-09-13_061036_Inbox_Daily AI News Digest - September 13, 2026.md",
+        "news\\2026-09-13_061723_Inbox_Daily AI News Digest - September 13, 2026.md",
+        "news\\2026-09-13_062313_Inbox_Daily AI News Digest - September 13, 2026.md",
+        "news\\2026-09-13_064755_Inbox_ClawPilot - Daily AI News Digest - September 13, 2026.md",
+        "news\\2026-09-13_065200_Final-Daily-AI-News-Digest.md",
+        "news\\2026-09-13_065352_Inbox_Daily AI News Digest - September 13, 2026.md",
+        "news\\2026-09-13_065704_Final-Daily-AI-News-Digest.md",
+        "news\\2026-09-13_070011_Inbox_Daily AI News Digest - September 13, 2026.md",
+        "news\\2026-09-14_065200_Final-Daily-AI-News-Digest.md",
+        "news\\2026-09-14_065706_Final-Daily-AI-News-Digest.md",
+        "news\\Daily AI News Digest - 2026-09-12.md",
+        "news\\Daily AI News Digest - 2026-09-13.md",
+        "news\\Daily AI News Digest - 2026-09-14.md",
+        "news\\daily-ai-news-digest-2026-09-12.md",
+        "news\\daily-ai-news-digest-2026-09-13.md",
+        "news\\daily-ai-news-digest-2026-09-14.md"
       ]
     },
     "split": {
-      "digests_parsed": 1159,
-      "articles_written": 11288,
-      "events_parsed": 78,
+      "digests_parsed": 1193,
+      "articles_written": 11601,
+      "events_parsed": 85,
       "event_articles_written": 78,
-      "skipped_publication_sources": 25,
-      "skipped_thin_articles": 4358
+      "skipped_publication_sources": 27,
+      "skipped_thin_articles": 4381
     },
     "index": {
-      "articles_indexed": 8359,
+      "articles_indexed": 8608,
       "embeddings": {
         "enabled": true,
-        "added": 1,
-        "total": 8359,
-        "md_rewritten": 8359
+        "added": 235,
+        "total": 8608,
+        "md_rewritten": 8608
       }
     },
     "dedupe": {
-      "articles": 8359,
+      "articles": 8608,
       "exact_duplicates": 6,
-      "canonical": 6127,
-      "semantic_duplicates": 2226,
-      "related_links": 25423
+      "canonical": 6323,
+      "semantic_duplicates": 2279,
+      "related_links": 26229
     },
     "build-graph": {
       "status": "ok",
-      "articles_linked": 8359,
-      "wikilinks_emitted": 57085,
+      "articles_linked": 8608,
+      "wikilinks_emitted": 58847,
       "entity_hubs": 34,
       "topic_hubs": 8,
       "hubs_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\hubs"
     },
     "validate-urls": {
-      "checked": 3527,
-      "ok": 2540,
-      "broken": 987,
-      "missing": 4812,
+      "checked": 3722,
+      "ok": 2682,
+      "broken": 1040,
+      "missing": 4866,
       "skipped": 20
     },
     "repair-urls": {
-      "attempted": 16,
-      "repaired": 16,
-      "unresolved": 0,
+      "attempted": 15,
+      "repaired": 14,
+      "unresolved": 1,
       "skipped": 0,
       "reverted": 0,
       "deferred": 0,
       "terminated": "completed",
-      "elapsed_s": 192.4,
+      "elapsed_s": 251.5,
       "max_workers": 10
     },
     "build-site-daily": {
-      "pages": 264,
-      "articles": 8359,
-      "canonical": 6127,
+      "pages": 268,
+      "articles": 8608,
+      "canonical": 6323,
       "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site",
       "mode": "incremental",
-      "changed_articles": 217,
-      "written_files": 108,
-      "elapsed_s": 13.19
+      "changed_articles": 3795,
+      "written_files": 210,
+      "elapsed_s": 16.79
     },
     "publish": {
       "status": "dry-run",
       "note": "site/ generated locally; no remote publish configured"
     }
   },
-  "run_log": "indexes\\runs\\run-20260910T230025+0000-9e4d8f.json"
+  "run_log": "indexes\\runs\\run-20260914T152148+0000-2be790.json"
 }

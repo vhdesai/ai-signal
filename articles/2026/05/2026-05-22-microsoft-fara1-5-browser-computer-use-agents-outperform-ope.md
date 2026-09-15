@@ -6,7 +6,7 @@ date: '2026-05-22'
 source: 'Source: MarkTechPost'
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: aa531330ae0022628a1f28d147474ac47a45ab625c82b8a9e1b8c683051f10ed
@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-22-microsoft-research-releases-fara1-5-browser-agent-family
 - 2026-05-23-microsoft-research-released-fara1-5-an-open-weight-family-of
 - 2026-05-22-microsoft-releases-fara1-5-browser-agents-4b-9b-27b-27b-hits
+- 2026-09-13-allspark-releases-open-weight-iris-mini-and-iris-pro-search
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 embedding_id: 2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Microsoft released Fara1.5, a family of browser computer-use agents in 4B, 9B, a
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-22-microsoft-research-releases-fara1-5-browser-agent-family]] · [[2026-05-23-microsoft-research-released-fara1-5-an-open-weight-family-of]] · [[2026-05-22-microsoft-releases-fara1-5-browser-agents-4b-9b-27b-27b-hits]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]]
+**Related:** [[2026-05-22-microsoft-research-releases-fara1-5-browser-agent-family]] · [[2026-05-23-microsoft-research-released-fara1-5-an-open-weight-family-of]] · [[2026-05-22-microsoft-releases-fara1-5-browser-agents-4b-9b-27b-27b-hits]] · [[2026-09-13-allspark-releases-open-weight-iris-mini-and-iris-pro-search]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
 <!-- graph:end -->

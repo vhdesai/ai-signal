@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: Wired; CNBC
 url_original: https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/
 url_canonical: https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
 content_hash: 0f6f209b791b22516d612026d78816c4c348125371742b24aff48c9c68dc9bb0
@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-02-despite-the-record-raise-openai-s-secondary-market-position
+- 2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues
 - 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest
 - 2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar
 - 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
-- 2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe
 embedding_id: 2026-06-05-openai-and-anthropic-share-90-investors-as-both-race-toward
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI and Anthropic share approximately 90 investors, creating an unusual dynam
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-02-despite-the-record-raise-openai-s-secondary-market-position]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest]] · [[2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar]] · [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe]]
+**Related:** [[2026-04-02-despite-the-record-raise-openai-s-secondary-market-position]] · [[2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest]] · [[2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar]] · [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: IT Security Guru
 url_original: https://aiweekly.co/
 url_canonical: https://aiweekly.co/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 15316973027679307c67edbed8a08b23e6835dfd472f3802d9a6b24e3463450c

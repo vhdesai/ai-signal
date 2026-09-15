@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
 - 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
+- 2026-09-11-meta-ai-unit-s-attempt-to-train-models-on-employee-data-coll
 - 2026-05-15-a-deep-dive-analysis-published-may-14-examines-the-emerging
-- 2026-08-08-four-agent-coordination-system-outperforms-a-frontier-single
 embedding_id: 2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta's new Autodata system uses an orchestrator LLM coordinating four specialize
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-15-a-deep-dive-analysis-published-may-14-examines-the-emerging]] · [[2026-08-08-four-agent-coordination-system-outperforms-a-frontier-single]]
+**Related:** [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-09-11-meta-ai-unit-s-attempt-to-train-models-on-employee-data-coll]] · [[2026-05-15-a-deep-dive-analysis-published-may-14-examines-the-emerging]]
 <!-- graph:end -->

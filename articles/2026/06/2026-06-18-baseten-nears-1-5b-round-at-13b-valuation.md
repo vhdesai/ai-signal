@@ -5,7 +5,7 @@ date: '2026-06-18'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/
 url_canonical: https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-19_070001_Final-Daily-AI-News-Digest.md
 content_hash: 349b9b8bd6832b0f35244f6459c76d7b9d65b8635ffcb25d6a8c7ffa4808e7a6
 normalized_title_hash: 670726b7594b3c7e

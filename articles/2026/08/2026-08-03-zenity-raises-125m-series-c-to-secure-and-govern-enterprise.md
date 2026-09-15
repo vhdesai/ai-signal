@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/08/03/israeli-startup-zenity-bags-125m-funding-build-security-layer-ai-agents/
 url_canonical: https://siliconangle.com/2026/08/03/israeli-startup-zenity-bags-125m-funding-build-security-layer-ai-agents/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_060905_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: a8c1d6e39a62ade7f7b67ca9b9e74ca15d53e4e8b97581cb79fbbee27f4bc7ce

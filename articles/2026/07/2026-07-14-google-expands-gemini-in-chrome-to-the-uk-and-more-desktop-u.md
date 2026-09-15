@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: Engadget / 9to5Google / Android Authority
 url_original: https://thirdruntime.com/
 url_canonical: https://thirdruntime.com/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 63985f953269d43c21d94bcd14979762ddd3fc386739ac3720725aaaab2ff649
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan
 - 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
 - 2026-07-30-google-expands-gemini-spark-globally-adds-chrome-auto-browse
-- 2026-07-30-google-connects-gemini-spark-to-chrome-for-autonomous-web-er
+- 2026-09-12-gemini-desktop-app-arrives-on-windows-10-and-11
 embedding_id: 2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google rolled Gemini-in-Chrome out to UK users and broadened availability across
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i]] · [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]] · [[2026-07-30-google-expands-gemini-spark-globally-adds-chrome-auto-browse]] · [[2026-07-30-google-connects-gemini-spark-to-chrome-for-autonomous-web-er]]
+**Related:** [[2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i]] · [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]] · [[2026-07-30-google-expands-gemini-spark-globally-adds-chrome-auto-browse]] · [[2026-09-12-gemini-desktop-app-arrives-on-windows-10-and-11]]
 <!-- graph:end -->

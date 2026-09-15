@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Axios · Read article →
 url_original: https://techstartups.com/2026/08/03/top-tech-news-today-august-3-2026-alibaba-amazon-amd-apple-microsoft-nvidia-more/
 url_canonical: https://techstartups.com/2026/08/03/top-tech-news-today-august-3-2026-alibaba-amazon-amd-apple-microsoft-nvidia-more/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_061155_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 7737542726ef239a90385f4b14cc2ebeeee903a604df870ca955b2a9127d4935

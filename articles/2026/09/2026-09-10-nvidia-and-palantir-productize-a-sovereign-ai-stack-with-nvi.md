@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: Fast Company / the-decoder
 url_original: https://www.fastcompany.com/91604370/nvidia-palantir-sovereign-ai-supply-chains
 url_canonical: https://www.fastcompany.com/91604370/nvidia-palantir-sovereign-ai-supply-chains
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: 72f18a2abee785b501cc5494264673e7b276d175842f1dde8245885d385ba93e
 normalized_title_hash: 96adeb0746169752

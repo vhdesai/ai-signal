@@ -1,13 +1,39 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 832
+member_count: 858
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 832 connected article(s).
+> Auto-generated entity hub. 858 connected article(s).
 
+- `2026-09-14` [[2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-model-use|NVIDIA, Palantir, and Booz Allen Restrict Anthropic Model Use Over Data Fears]]
+- `2026-09-14` [[2026-09-14-microsoft-publishes-first-humanist-ai-code-of-conduct-for-ma|Microsoft publishes first Humanist AI Code of Conduct for MAI models]]
+- `2026-09-14` [[2026-09-14-exclusive-nvidia-palantir-and-booz-allen-restrict-anthropic|Exclusive: Nvidia, Palantir, and Booz Allen restrict Anthropic and OpenAI model use over data fears]]
+- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy targets $50M in annual cost savings with AI]]
+- `2026-09-13` [[2026-09-13-sunday-september-13-2026|Sunday, September 13, 2026]]
+- `2026-09-13` [[2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers|Nvidia's growing dependence on a handful of AI customers]]
+- `2026-09-13` [[2026-09-13-microsoft-rolls-out-grok-across-copilot-in-office-365|Microsoft rolls out Grok across Copilot in Office 365]]
+- `2026-09-13` [[2026-09-13-google-deepmind-safety-researcher-resigns-warns-of-terrifyin|Google DeepMind Safety Researcher Resigns, Warns of "Terrifying Chance" of Major AI Harm]]
+- `2026-09-13` [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-ai-standard|Anthropic, OpenAI, and Google Quietly Discussed an AI Standards Body]]
+- `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
+- `2026-09-12` [[2026-09-12-microsoft-begins-rolling-grok-models-into-copilot-for-fronti|Microsoft begins rolling Grok models into Copilot for Frontier customers]]
+- `2026-09-12` [[2026-09-12-microsoft-adds-xai-s-grok-models-to-the-copilot-lineup|Microsoft Adds xAI’s Grok Models to the Copilot Lineup]]
+- `2026-09-12` [[2026-09-12-ibm-deploys-ai-limb-tracking-at-the-us-open|IBM Deploys AI Limb Tracking at the US Open]]
+- `2026-09-12` [[2026-09-12-gemini-desktop-app-launches-on-windows-10-and-11|Gemini desktop app launches on Windows 10 and 11]]
+- `2026-09-12` [[2026-09-12-gemini-desktop-app-arrives-on-windows-10-and-11|Gemini Desktop App Arrives on Windows 10 and 11]]
+- `2026-09-12` [[2026-09-12-fortune-reports-ibm-has-deployed-ai-limb-tracking-at-the-us|Fortune reports IBM has deployed AI limb-tracking at the US Open, scoring every tennis serve to give fans real-time biomechanical analytics. It's a high-visibility deployment for IBM Consulting's sports AI stack, following watsonx-based commentary and tie-ins. The launch is notable as a live-event, computer-vision showcase competing directly with sports-AI offerings from AWS, Google Cloud, and Microsoft Azure.]]
+- `2026-09-12` [[2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues|Anthropic and OpenAI now capture 89% of AI startup revenues]]
+- `2026-09-12` [[2026-09-12-ai-data-centers-may-create-far-fewer-jobs-than-projected-thi|AI data centers may create far fewer jobs than projected, think tank warns]]
+- `2026-09-11` [[2026-09-11-xai-s-grok-bot-adds-salesforce-hubspot-gong-clay-and-microso|xAI's Grok Bot adds Salesforce, HubSpot, Gong, Clay and Microsoft Teams connectors]]
+- `2026-09-11` [[2026-09-11-tech-layoffs-pass-180-000-in-2026-as-capex-reallocates-towar|Tech layoffs pass 180,000 in 2026 as capex reallocates toward AI]]
+- `2026-09-11` [[2026-09-11-senator-josh-hawley-formally-opens-senate-investigation-into|Senator Josh Hawley formally opens Senate investigation into OpenAI's Hugging Face hack]]
+- `2026-09-11` [[2026-09-11-microsoft-targets-more-than-38-gigawatts-of-data-center-capa|Microsoft targets more than 38 gigawatts of data-center capacity by 2032]]
+- `2026-09-11` [[2026-09-11-microsoft-targets-38-gigawatts-of-data-center-capacity-by-20|Microsoft targets 38 gigawatts of data-center capacity by 2032]]
+- `2026-09-11` [[2026-09-11-microsoft-aims-to-triple-azure-capacity-to-38gw-by-2032-amid|Microsoft aims to triple Azure capacity to 38GW by 2032 amid persistent server shortage]]
+- `2026-09-11` [[2026-09-11-microsoft-plans-38-gigawatts-of-data-center-capacity-by-2032|Microsoft Plans 38 Gigawatts of Data-Center Capacity by 2032]]
+- `2026-09-11` [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe|An Anthropic researcher's doomsday warning lands at a pointed moment]]
 - `2026-09-09` [[2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t|Oracle is the AI hyperscaler most likely to blink; earnings today are the tell]]
 - `2026-09-08` [[2026-09-08-how-six-aws-engineers-rebuilt-bedrock-as-project-mantle-to-c|How six AWS engineers rebuilt Bedrock as Project Mantle to challenge Microsoft]]
 - `2026-09-08` [[2026-09-08-arm-doubles-its-semi-custom-server-ceiling-with-neoverse-css|Arm doubles its semi-custom server ceiling with Neoverse CSS N4 for agentic workloads]]

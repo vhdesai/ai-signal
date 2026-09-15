@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts
 - 2026-04-06-a-supply-chain-security-breach-at-mercor-a-platform-widely-u
 - 2026-08-14-business-insider-launches-the-ai-data-grab-series-on-workpla
+- 2026-09-11-meta-s-elite-ai-unit-sought-employee-data-for-training-halte
 embedding_id: 2026-08-15-defunct-startups-slack-archives-are-becoming-agent-training
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Mercor and rival data vendors are pursuing internal Slack archives, ticketing hi
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre]] · [[2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts]] · [[2026-04-06-a-supply-chain-security-breach-at-mercor-a-platform-widely-u]] · [[2026-08-14-business-insider-launches-the-ai-data-grab-series-on-workpla]]
+**Related:** [[2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre]] · [[2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts]] · [[2026-04-06-a-supply-chain-security-breach-at-mercor-a-platform-widely-u]] · [[2026-08-14-business-insider-launches-the-ai-data-grab-series-on-workpla]] · [[2026-09-11-meta-s-elite-ai-unit-sought-employee-data-for-training-halte]]
 <!-- graph:end -->

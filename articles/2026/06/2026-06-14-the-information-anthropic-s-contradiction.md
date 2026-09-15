@@ -5,7 +5,7 @@ date: '2026-06-14'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=anthropic+contradiction
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=anthropic+contradiction
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-15_073619_Final-Daily-AI-News-Digest.md
 content_hash: 5784d29fdc1ae006c7bb1f899bc4e59fc46de4618ea0e67c69851204b044c88f
 normalized_title_hash: 70ebfd9b3caba739

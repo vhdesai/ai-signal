@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: Google Blog
 url_original: https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users/
 url_canonical: https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-12_060916_Inbox_Daily AI News Digest - August 12,
   2026.md
 content_hash: 52b9f35882db3804300c01a042c8316b5cac14c0b0e9a51cb83645c7741aa8e7

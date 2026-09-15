@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-15-anthropic-s-august-2026-risk-report-rates-full-automation-ri
+- 2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe
 - 2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu
 - 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
-- 2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk
 embedding_id: 2026-08-15-anthropic-s-august-2026-risk-report-warns-automated-ai-r-d-c
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic published its August 2026 Risk Report, arguing that AI research itself
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-08-15-anthropic-s-august-2026-risk-report-rates-full-automation-ri]] · [[2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu]] · [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]] · [[2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk]]
+**Related:** [[2026-08-15-anthropic-s-august-2026-risk-report-rates-full-automation-ri]] · [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe]] · [[2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu]] · [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]]
 <!-- graph:end -->

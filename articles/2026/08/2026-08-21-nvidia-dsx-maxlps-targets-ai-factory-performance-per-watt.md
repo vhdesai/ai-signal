@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: NVIDIA Developer Blog
 url_original: https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/
 url_canonical: https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_060601_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: e25a751340cd445634f593d6c8154ae03c051cdde4dffa223745b0bb944d3440

@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: CRN
 url_original: https://www.crn.com/news/ai/2026/aws-google-oracle-microsoft-top-gartner-s-cloud-ai-infrastructure-list-for-2026
 url_canonical: https://www.crn.com/news/ai/2026/aws-google-oracle-microsoft-top-gartner-s-cloud-ai-infrastructure-list-for-2026
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-30_062819_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: c9f99c71f8ced79cbb225c69db9e8382f0a108da89bb6e1c2c653742675b0f91

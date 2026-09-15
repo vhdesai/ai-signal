@@ -6,7 +6,7 @@ date: '2026-09-09'
 source: Forbes
 url_original: https://www.forbes.com/sites/the-prompt/2026/09/08/openais-math-victory-sparks-backlash/
 url_canonical: https://www.forbes.com/sites/the-prompt/2026/09/08/openais-math-victory-sparks-backlash/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: 49599791d2c030dd5df0f64646a30abbbe24ea892470d2fccfd079dc7bc36824
 normalized_title_hash: 25ca3418c061998c
@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-08-credit-dispute-over-the-navier-stokes-result-exposes-an-acad
+- 2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke
 - 2026-09-09-openai-s-agent-generated-navier-stokes-proof-draws-lean-veri
+- 2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai
 - 2026-09-08-quanta-the-proof-is-lean-verified-but-scope-and-precedence-a
-- 2026-09-09-openai-claims-10-000-agent-system-produced-navier-stokes-pro
-- 2026-09-08-openai-publishes-agent-generated-proof-of-finite-time-singul
 embedding_id: 2026-09-09-credit-dispute-over-the-navier-stokes-result-exposes-an-acad
 event_name: ''
 ---
@@ -40,5 +40,5 @@ NYU professor Tristan Buckmaster alleges OpenAI accelerated its own Navier–Sto
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-08-credit-dispute-over-the-navier-stokes-result-exposes-an-acad]] · [[2026-09-09-openai-s-agent-generated-navier-stokes-proof-draws-lean-veri]] · [[2026-09-08-quanta-the-proof-is-lean-verified-but-scope-and-precedence-a]] · [[2026-09-09-openai-claims-10-000-agent-system-produced-navier-stokes-pro]] · [[2026-09-08-openai-publishes-agent-generated-proof-of-finite-time-singul]]
+**Related:** [[2026-09-08-credit-dispute-over-the-navier-stokes-result-exposes-an-acad]] · [[2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke]] · [[2026-09-09-openai-s-agent-generated-navier-stokes-proof-draws-lean-veri]] · [[2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai]] · [[2026-09-08-quanta-the-proof-is-lean-verified-but-scope-and-precedence-a]]
 <!-- graph:end -->

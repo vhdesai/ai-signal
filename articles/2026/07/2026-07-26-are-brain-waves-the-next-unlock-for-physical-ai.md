@@ -5,7 +5,7 @@ date: '2026-07-26'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/
 url_canonical: https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-27_062053_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: fc750d20cee1c5b214e9ba1eaad324802e427c970eed6473e5b8cc40c3c17323
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 - 2026-05-20-scaling-laws-for-embodied-ai
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
-- 2026-09-05-pitchbook-factory-robotics-still-needs-more-than-smarter-fou
+- 2026-09-13-china-s-data-regulator-plans-standards-for-embodied-ai-train
 embedding_id: 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TechCrunch reports that frontier “physical AI” models — those trained for 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-26-brain-wave-data-may-become-a-new-training-signal-for-physica]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-05-20-scaling-laws-for-embodied-ai]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-09-05-pitchbook-factory-robotics-still-needs-more-than-smarter-fou]]
+**Related:** [[2026-07-26-brain-wave-data-may-become-a-new-training-signal-for-physica]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-05-20-scaling-laws-for-embodied-ai]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-09-13-china-s-data-regulator-plans-standards-for-embodied-ai-train]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-05-19'
 source: OpenAI Blog
 url_original: https://openai.com/index/advancing-content-provenance/
 url_canonical: https://openai.com/index/advancing-content-provenance/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: c1e2d64b05bbd58f05af603b7634347d0dbb391c0b037674dfbb3a3a82192b53

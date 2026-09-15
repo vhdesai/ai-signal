@@ -6,7 +6,7 @@ date: '2026-05-24'
 source: Best Practice AI weekly brief
 url_original: https://epium.com/news/uc-berkeley-law-tightens-artificial-intelligence-rules-without-banning-it/
 url_canonical: https://epium.com/news/uc-berkeley-law-tightens-artificial-intelligence-rules-without-banning-it/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-25_071611_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 40c87db0ffee649e224d8f7edcbbf5cadac0be55c2af3ff5b7f7f0bcdb3dd29e

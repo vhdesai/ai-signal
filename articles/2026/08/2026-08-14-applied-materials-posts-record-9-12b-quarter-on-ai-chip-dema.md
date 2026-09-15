@@ -5,7 +5,7 @@ date: '2026-08-14'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/applied-materials-q3-2026-earnings-114815272.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/applied-materials-q3-2026-earnings-114815272.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-15_065044_Final-Daily-AI-News-Digest.md
 content_hash: 93cee34bbce6c02ba606d124e970b22d92981017cbf6defc0c1aa3de3931858d
 normalized_title_hash: c5e703583803f359

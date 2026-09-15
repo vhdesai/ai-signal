@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: Reuters**
 url_original: https://ca.finance.yahoo.com/news/exclusive-chinas-ai-chipmakers-raise-051049914.html
 url_canonical: https://ca.finance.yahoo.com/news/exclusive-chinas-ai-chipmakers-raise-051049914.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-11_065100_Final-Daily-AI-News-Digest.md
 content_hash: 646aad43c5e1b61d072f2a667bc9e1e4c0bef3039700a1a37cefff4ee4873b17
 normalized_title_hash: c7508f839bf60027

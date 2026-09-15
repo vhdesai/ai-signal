@@ -5,7 +5,7 @@ date: '2026-06-15'
 source: arXiv cs.LG / cs.AI
 url_original: https://arxiv.org/list/cs.LG/recent
 url_canonical: https://arxiv.org/list/cs.LG/recent
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-15_155554_Final-Daily-AI-News-Digest.md
 content_hash: 6fad218595b0c7a3b8fb1fa3fb3d828dcfd9b9c6d99fbc1b80bb510c66c025e2
 normalized_title_hash: 63195b3834f28d2d
@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 - 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
 - 2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito
-- 2026-05-14-arxiv-cs-ai-259-new-submissions-on-may-14-2026-arxiv-may-14
+- 2026-09-11-notable-arxiv-ml-submissions-dated-friday-11-september
 embedding_id: 2026-06-15-arxiv-june-15-listing-icml-uai-and-colt-2026-accepted-papers
 event_name: ''
 ---
@@ -35,5 +35,5 @@ The Monday arXiv announcement included 165 new cs.LG and 151 new cs.AI entries, 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-13-arxiv-cs-ai-daily-drop-116-new-ai-preprints-posted-july-13]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]] · [[2026-05-14-arxiv-cs-ai-259-new-submissions-on-may-14-2026-arxiv-may-14]]
+**Related:** [[2026-07-13-arxiv-cs-ai-daily-drop-116-new-ai-preprints-posted-july-13]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]] · [[2026-09-11-notable-arxiv-ml-submissions-dated-friday-11-september]]
 <!-- graph:end -->

@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Scale AI
-member_count: 45
+member_count: 48
 ---
 
 # Scale AI
 
-> Auto-generated entity hub. 45 connected article(s).
+> Auto-generated entity hub. 48 connected article(s).
 
+- `2026-09-11` [[2026-09-11-openai-details-habitat-the-storage-platform-now-serving-1b-c|OpenAI details Habitat — the storage platform now serving 1B ChatGPT users at 22M requests/sec]]
+- `2026-09-11` [[2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-physi|Mecka AI nears $500M valuation in Sequoia-led round for physical-AI training data]]
+- `2026-09-11` [[2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-robot|Mecka AI Nears $500M Valuation in Sequoia-Led Round for Robot Training Data]]
 - `2026-09-10` [[2026-09-10-spacex-overhauls-xai-data-center-build-out-reliability-over|SpaceX Overhauls xAI Data-Center Build-Out — Reliability Over Speed]]
 - `2026-09-10` [[2026-09-10-ayar-labs-extends-round-to-650m-as-copper-interconnect-hits|Ayar Labs Extends Round to $650M as Copper Interconnect Hits Its Limit]]
 - `2026-09-07` [[2026-09-07-tencent-restructures-bilibili-stake-into-debt-as-it-funds-ai|Tencent restructures Bilibili stake into debt as it funds AI initiatives]]

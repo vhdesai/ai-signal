@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 203
+member_count: 208
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 203 connected article(s).
+> Auto-generated entity hub. 208 connected article(s).
 
+- `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
+- `2026-09-12` [[2026-09-12-ibm-deploys-ai-limb-tracking-at-the-us-open|IBM Deploys AI Limb Tracking at the US Open]]
+- `2026-09-11` [[2026-09-11-reuters-nvidia-in-talks-to-invest-up-to-10b-in-anthropic-s-i|Reuters: Nvidia in talks to invest up to $10B in Anthropic's IPO]]
+- `2026-09-11` [[2026-09-11-nvidia-in-talks-to-invest-up-to-10b-in-anthropic-s-ipo|NVIDIA in Talks to Invest Up to $10B in Anthropic's IPO]]
+- `2026-09-11` [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe|An Anthropic researcher's doomsday warning lands at a pointed moment]]
 - `2026-09-10` [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par|Nvidia commits to Australia 2GW AI buildout with 8 local partners]]
 - `2026-09-10` [[2026-09-10-mistral-valued-at-21b-after-3b-round-asml-maintains-400m-sta|Mistral valued at €21B after €3B round; ASML maintains €400M stake]]
 - `2026-09-10` [[2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne|Mistral partners with Cloudera on sovereign enterprise AI; new €21B valuation caps €3B Samsung-led round]]

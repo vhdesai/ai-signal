@@ -6,7 +6,7 @@ date: '2026-08-31'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/healthcare/articles/ai-disruption-electronic-health-records-075900231.html
 url_canonical: https://finance.yahoo.com/healthcare/articles/ai-disruption-electronic-health-records-075900231.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-31_060941_Inbox_Daily AI News Digest – August 31,
   2026.md
 content_hash: f94259dabbb1e6cbb40d2a6243408e5469f82a45030a897c77b8cb546be2f258

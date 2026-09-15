@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/
 url_canonical: https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-05_065239_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: a77561550731f542686fe12f3dc0ab392ac239a30e708d495c697ea16195c235
@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-04-berkeley-founded-xdof-reportedly-discusses-1-2b-valuation-fo
 - 2026-09-04-xdof-is-reportedly-in-talks-for-a-series-b-at-a-1-2-billion
+- 2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-physi
 - 2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte
 - 2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after
 embedding_id: 2026-09-04-berkeley-founded-xdof-discusses-a-1-2b-valuation-for-robot-t
@@ -37,5 +38,5 @@ XDOF is in late-stage Series B talks at an approximately $1.2B valuation, with 8
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-04-berkeley-founded-xdof-reportedly-discusses-1-2b-valuation-fo]] · [[2026-09-04-xdof-is-reportedly-in-talks-for-a-series-b-at-a-1-2-billion]] · [[2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte]] · [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]]
+**Related:** [[2026-09-04-berkeley-founded-xdof-reportedly-discusses-1-2b-valuation-fo]] · [[2026-09-04-xdof-is-reportedly-in-talks-for-a-series-b-at-a-1-2-billion]] · [[2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-physi]] · [[2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte]] · [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]]
 <!-- graph:end -->

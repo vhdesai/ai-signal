@@ -1,13 +1,22 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 324
+member_count: 333
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 324 connected article(s).
+> Auto-generated entity hub. 333 connected article(s).
 
+- `2026-09-13` [[2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai|SCMP: US and China are now openly racing on "self-improving AI"]]
+- `2026-09-13` [[2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce|Meta Acquires Stilla.ai to Expand Business Agent Commerce]]
+- `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
+- `2026-09-12` [[2026-09-12-chinese-ai-labs-reportedly-extracted-190m-claude-exchanges-a|Chinese AI labs reportedly extracted 190M Claude exchanges as export controls failed]]
+- `2026-09-11` [[2026-09-11-combinator-s-garry-tan-urges-us-open-weight-labs-to-distill|Combinator's Garry Tan urges US open-weight labs to distill American frontier models]]
+- `2026-09-11` [[2026-09-11-anthropic-s-200m-exchange-distillation-report-becomes-eviden|Anthropic's 200M-exchange distillation report becomes evidence behind U.S. intelligence accusations]]
+- `2026-09-11` [[2026-09-11-anthropic-threat-report-bioweapon-attempts-blocked-chinese-d|Anthropic threat report: bioweapon attempts blocked, Chinese distillation catalogued, hotel-Wi-Fi hack chain]]
+- `2026-09-11` [[2026-09-11-anthropic-threat-report-chinese-labs-mined-claude-at-scale-f|Anthropic threat report: Chinese labs mined Claude at scale for training data; hackers used it for missile software and drone swarms]]
+- `2026-09-11` [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe|An Anthropic researcher's doomsday warning lands at a pointed moment]]
 - `2026-09-09` [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo|US government accuses six Chinese AI firms of large-scale model distillation]]
 - `2026-09-09` [[2026-09-09-nsa-cisa-and-fbi-name-six-chinese-labs-over-industrial-scale|NSA, CISA, and FBI name six Chinese labs over industrial-scale distillation]]
 - `2026-09-07` [[2026-09-07-ifm-releases-k2-horizon-six-apache-2-0-open-weight-models-sp|IFM releases K2 Horizon: six Apache 2.0 open-weight models spanning 0.9B to 375B]]

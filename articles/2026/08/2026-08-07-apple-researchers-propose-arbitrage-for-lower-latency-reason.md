@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: Apple Machine Learning Research
 url_original: https://machinelearning.apple.com/research/arbitrage-efficient-reasoning
 url_canonical: https://machinelearning.apple.com/research/arbitrage-efficient-reasoning
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_060740_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 023740031507c52a0b3531949ed300caae5063300731c1c202b49493c894e171

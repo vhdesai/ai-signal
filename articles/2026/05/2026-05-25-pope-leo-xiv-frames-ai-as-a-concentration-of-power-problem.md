@@ -5,7 +5,7 @@ date: '2026-05-25'
 source: TechCrunch; May 26, 2026 · The Information
 url_original: https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/
 url_canonical: https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-26_080127_Inbox_Daily AI News Digest –– May 26,
   2026.md
 content_hash: d8eb052264c766c0ed94bd26e7657a76a812d31f5028801285918bdc44c33928

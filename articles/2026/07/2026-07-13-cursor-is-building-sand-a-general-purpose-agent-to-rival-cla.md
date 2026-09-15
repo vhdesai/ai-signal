@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: The Next Web
 url_original: https://thenextweb.com/news/cursor-sand-ai-agent-claude-cowork-rival
 url_canonical: https://thenextweb.com/news/cursor-sand-ai-agent-claude-cowork-rival
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_061758_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 71a19a7849b501403177d8cc96063a568f78fd7654e7e7ceca166133e80a6e52

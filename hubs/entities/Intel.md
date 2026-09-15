@@ -1,14 +1,17 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 95
+member_count: 98
 ---
 
 # Intel
 
-> Auto-generated entity hub. 95 connected article(s).
+> Auto-generated entity hub. 98 connected article(s).
 
+- `2026-09-14` [[2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin|Chip and memory stocks sell off as coordinated safety warnings hit the AI trade]]
+- `2026-09-14` [[2026-09-14-chip-stocks-sell-off-as-amodei-altman-safety-warnings-hit-th|Chip Stocks Sell Off as Amodei/Altman Safety Warnings Hit the AI Trade]]
 - `2026-09-11` [[2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat|Researcher Resignation Reopens the Pace-of-Development Debate]]
+- `2026-09-10` [[2026-09-10-california-enacts-adam-s-law-the-first-comprehensive-chatbot|California Enacts "Adam's Law," the First Comprehensive Chatbot Child-Safety Regime]]
 - `2026-09-10` [[2026-09-10-ayar-labs-extends-round-to-650m-as-copper-interconnect-hits|Ayar Labs Extends Round to $650M as Copper Interconnect Hits Its Limit]]
 - `2026-09-06` [[2026-09-06-intel-positions-in-trusted-ai-standards-as-asus-expands-infr|Intel positions in trusted-AI standards as ASUS expands infrastructure ecosystem]]
 - `2026-09-04` [[2026-09-04-nvidia-s-equity-portfolio-reaches-99b-as-it-becomes-a-system|Nvidia's Equity Portfolio Reaches $99B as It Becomes a Systemic AI Financier]]

@@ -24,7 +24,7 @@ canonical_article_id: 2026-08-18-google-wins-bankruptcy-auction-for-spirit-airli
 related_article_ids:
 - 2026-08-18-google-wins-10-million-auction-for-spirit-airlines-internal
 - 2026-08-17-daily-ai-news-digest-august-18-2026
-- 2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc
+- 2026-09-11-google-cloud-publishes-thomas-kurian-s-goldman-sachs-communi
 embedding_id: 2026-08-18-google-wins-spirit-airlines-bankrupt-data-estate-for-10m
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google outbid rivals for ~100M emails, 500M Teams messages, 30M lines of code, a
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
 **Canonical:** [[2026-08-18-google-wins-bankruptcy-auction-for-spirit-airlines-internal]]
-**Related:** [[2026-08-18-google-wins-10-million-auction-for-spirit-airlines-internal]] · [[2026-08-17-daily-ai-news-digest-august-18-2026]] · [[2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc]]
+**Related:** [[2026-08-18-google-wins-10-million-auction-for-spirit-airlines-internal]] · [[2026-08-17-daily-ai-news-digest-august-18-2026]] · [[2026-09-11-google-cloud-publishes-thomas-kurian-s-goldman-sachs-communi]]
 <!-- graph:end -->

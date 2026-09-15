@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/
 url_canonical: https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 15fde2b7bbe59014d80c568df5a49ccd00888fbf4243cb1a0b03b52499fda8c9

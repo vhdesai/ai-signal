@@ -5,7 +5,7 @@ date: '2026-06-18'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/06/18/perplexity-launches-brain/
 url_canonical: https://www.marktechpost.com/2026/06/18/perplexity-launches-brain/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-19_060000_Daily-AI-News-Digest.md
 content_hash: cf3527b169cce94713b1afde131839036b95ee84a5a4fd4c6a1b81cc56f5482e
 normalized_title_hash: edd07c5f46b850b4

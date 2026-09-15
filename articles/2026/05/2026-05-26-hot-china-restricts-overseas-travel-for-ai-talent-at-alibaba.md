@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: Bloomberg (originating scoop) · IBT Singapore
 url_original: https://www.ibtimes.sg/china-clamps-down-overseas-travel-ai-talent-alibaba-deepseek-86961
 url_canonical: https://www.ibtimes.sg/china-clamps-down-overseas-travel-ai-talent-alibaba-deepseek-86961
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_072257_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 2b277979969f7ae2dd06965c87eae191668eec9a30c5dfe8966b16c6b1972d8e

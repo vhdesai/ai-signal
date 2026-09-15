@@ -6,7 +6,7 @@ date: '2026-08-28'
 source: NVIDIA Developer Blog
 url_original: https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect/
 url_canonical: https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-29_060713_Inbox_Daily AI News Digest - August 29,
   2026.md
 content_hash: 80bef085e75f709f124c1d059ba92f98a206eb3f6f05d49507fd37f75773b405

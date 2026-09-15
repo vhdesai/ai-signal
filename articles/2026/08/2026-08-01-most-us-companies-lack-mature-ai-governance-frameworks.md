@@ -5,7 +5,7 @@ date: '2026-08-01'
 source: CIO Dive**
 url_original: https://www.ciodive.com/news/companies-lack-maure-ai-governance/826516/
 url_canonical: https://www.ciodive.com/news/companies-lack-maure-ai-governance/826516/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-01_065003_Final-Daily-AI-News-Digest.md
 content_hash: 4c46d75bdb5cb790a7b53c6d1b6f661f15344282606a07c647523008585bec66
 normalized_title_hash: fcffc0ca736ca1d4

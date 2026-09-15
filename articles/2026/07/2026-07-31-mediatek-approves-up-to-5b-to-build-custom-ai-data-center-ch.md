@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Reuters
 url_original: https://techstartups.com/2026/07/31/top-tech-news-today-july-31-2026-amazon-anthropic-apple-google-microsoft-reddit-sony-suno-more/
 url_canonical: https://techstartups.com/2026/07/31/top-tech-news-today-july-31-2026-amazon-anthropic-apple-google-microsoft-reddit-sony-suno-more/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-01_061413_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 89504bb96e626bd3777c9bb1c3b105be64416325cee5910d44a3878682e13bf6

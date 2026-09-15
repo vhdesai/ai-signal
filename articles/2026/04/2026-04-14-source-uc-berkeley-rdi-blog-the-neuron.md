@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
 - 2026-04-30-trendingopenai-postmortem-on-gpt-5-1-s-goblin-affinity
 - 2026-04-02-academic-research
+- 2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai
 - 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
-- 2026-05-20-openai-reasoning-model-autonomously-disproves-80-year-old-er
 embedding_id: 2026-04-14-source-uc-berkeley-rdi-blog-the-neuron
 event_name: ''
 ---
@@ -38,5 +38,5 @@ event_name: ''
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-04-30-trendingopenai-postmortem-on-gpt-5-1-s-goblin-affinity]] · [[2026-04-02-academic-research]] · [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]] · [[2026-05-20-openai-reasoning-model-autonomously-disproves-80-year-old-er]]
+**Related:** [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-04-30-trendingopenai-postmortem-on-gpt-5-1-s-goblin-affinity]] · [[2026-04-02-academic-research]] · [[2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai]] · [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]]
 <!-- graph:end -->

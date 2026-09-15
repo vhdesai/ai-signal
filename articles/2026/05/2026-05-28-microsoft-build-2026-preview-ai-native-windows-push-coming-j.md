@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: PCMag
 url_original: https://au.pcmag.com/migrated-15175-windows-10/117902/microsoft-build-2026-preview-the-ai-takeover-of-windows-has-officially-begun
 url_canonical: https://au.pcmag.com/migrated-15175-windows-10/117902/microsoft-build-2026-preview-the-ai-takeover-of-windows-has-officially-begun
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 76eb8e9234490dd904c114858436b14fa6cd5a309501dbacf0f565f51cc116d5

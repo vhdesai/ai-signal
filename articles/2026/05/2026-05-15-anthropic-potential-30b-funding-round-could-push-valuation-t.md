@@ -5,7 +5,7 @@ date: '2026-05-15'
 source: The AI Track
 url_original: https://theaitrack.com/ai-news-may-2026-in-depth-and-concise/
 url_canonical: https://theaitrack.com/ai-news-may-2026-in-depth-and-concise/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: b24c28f02005593aea734d6a36b5fef42b1b94d6a6ed42e4fbcd2c431ba4ca88

@@ -6,7 +6,7 @@ date: '2026-08-12'
 source: The Wall Street Journal · Yahoo Finance
 url_original: https://www.wsj.com/tech/ai/anthropic-tries-to-shore-up-investor-confidence-ahead-of-blockbuster-ipo-0ff736ad
 url_canonical: https://www.wsj.com/tech/ai/anthropic-tries-to-shore-up-investor-confidence-ahead-of-blockbuster-ipo-0ff736ad
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-13_065057_Final-Daily-AI-News-Digest.md
 content_hash: f42b3e26dd1eb1a1871710f455896bf5a94352143c13f75b65796a3a4760cff8
 normalized_title_hash: c0674f3ed72122b2

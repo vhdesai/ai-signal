@@ -5,7 +5,7 @@ date: '2026-05-23'
 source: MarkTechPost
 url_original: https://deepmind.google/blog/
 url_canonical: https://deepmind.google/blog/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 18dd10f1aa820794520c4754c02231e6a4aca9a47db7729e976958cf999a1afc

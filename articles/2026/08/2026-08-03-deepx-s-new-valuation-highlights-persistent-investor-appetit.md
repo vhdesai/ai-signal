@@ -21,6 +21,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-11-positron-ai-raises-875m-at-a-5b-valuation-for-memory-first-i
 - 2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe
 - 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
 - 2026-09-07-non-nvidia-inference-provider-wafer-receives-acquisition-off
@@ -38,5 +39,5 @@ DeepX’s new valuation highlights persistent investor appetite for AI silicon c
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe]] · [[2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in]] · [[2026-09-07-non-nvidia-inference-provider-wafer-receives-acquisition-off]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]]
+**Related:** [[2026-09-11-positron-ai-raises-875m-at-a-5b-valuation-for-memory-first-i]] · [[2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe]] · [[2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in]] · [[2026-09-07-non-nvidia-inference-provider-wafer-receives-acquisition-off]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]]
 <!-- graph:end -->

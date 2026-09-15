@@ -6,7 +6,7 @@ date: '2026-08-11'
 source: FinanceFeeds
 url_original: https://financefeeds.com/nvidia-partners-with-wall-street-giants-on-500-billion-ai-infrastructure-financing-push/
 url_canonical: https://financefeeds.com/nvidia-partners-with-wall-street-giants-on-500-billion-ai-infrastructure-financing-push/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_060300_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 13c921c282a3e058b1265c340179cc1393e4e5c0c5f5b9417f952d88552fa9b7

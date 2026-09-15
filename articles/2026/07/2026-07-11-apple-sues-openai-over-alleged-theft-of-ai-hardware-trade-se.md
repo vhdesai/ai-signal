@@ -5,7 +5,7 @@ date: '2026-07-11'
 source: TechSpot**
 url_original: https://www.techspot.com/news/113078-apple-suing-openai-alleging-former-employees-stole-trade.html
 url_canonical: https://www.techspot.com/news/113078-apple-suing-openai-alleging-former-employees-stole-trade.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-13_065032_Final-Daily-AI-News-Digest.md
 content_hash: 74426f1318bc25f04675088b7d6fe3b19c20e5a06bfd49498643aa1dfc3e39f3
 normalized_title_hash: bba829bb30cbfa57

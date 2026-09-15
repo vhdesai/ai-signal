@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: Phys.org
 url_original: https://phys.org/news/2026-07-romantic-relationships-ai-evolve-similar.html
 url_canonical: https://phys.org/news/2026-07-romantic-relationships-ai-evolve-similar.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-09_061826_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: e75a0892b3ef226fe1ea34cf2f8f12d9a7b7bbc5d52c9af3481938012693b8d7
@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-04-04-research-finds-that-while-ai-companion-applications-provide
 - 2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin
 - 2026-05-09-an-atlantic-feature-highlighted-by-the-decoder-today-reports
+- 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
 - 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
-- 2026-08-16-bot-meets-bot-the-rise-of-ai-to-ai-interaction-loops
 embedding_id: 2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A new study led by the INGENIO Institute (a joint CSIC–Universitat Politècnic
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-04-research-finds-that-while-ai-companion-applications-provide]] · [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin]] · [[2026-05-09-an-atlantic-feature-highlighted-by-the-decoder-today-reports]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-08-16-bot-meets-bot-the-rise-of-ai-to-ai-interaction-loops]]
+**Related:** [[2026-04-04-research-finds-that-while-ai-companion-applications-provide]] · [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin]] · [[2026-05-09-an-atlantic-feature-highlighted-by-the-decoder-today-reports]] · [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]]
 <!-- graph:end -->

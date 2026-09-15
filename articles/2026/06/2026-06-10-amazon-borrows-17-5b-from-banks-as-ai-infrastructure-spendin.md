@@ -5,7 +5,7 @@ date: '2026-06-10'
 source: TechCrunch; Reuters; PYMNTS
 url_original: https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/
 url_canonical: https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-11_070054_Final-Daily-AI-News-Digest.md
 content_hash: d0e1b35d18a9f786e547bf052e2a0f3e3ae74a733b1167da61093761972bbbc7
 normalized_title_hash: 620cdd5a8d15c139

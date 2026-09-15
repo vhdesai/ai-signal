@@ -6,7 +6,7 @@ date: '2026-09-09'
 source: POLITICO Europe / The Next Web
 url_original: https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/
 url_canonical: https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-09_073521_Final-Daily-AI-News-Digest.md
 content_hash: 585e2b1bd4edd3feabf6089bf6313213efb9820fb216abca954f746c9362e3a9
 normalized_title_hash: 3c8c1c9dce82b742
@@ -26,7 +26,8 @@ related_article_ids:
 - 2026-09-09-anthropic-pretraining-researcher-resigns-says-labs-are-gambl
 - 2026-09-09-anthropic-researcher-resigns-alignment-lead-corroborates-and
 - 2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat
-- 2026-06-26-anthropic-says-it-no-longer-hires-junior-engineers-warns-of
+- 2026-09-12-another-anthropic-researcher-resigns-citing-ai-extinction-ri
+- 2026-09-12-two-more-safety-researchers-leave-anthropic-and-deepmind-for
 embedding_id: 2026-09-09-anthropic-pretraining-researcher-resigns-alignment-lead-puts
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Jacob Coxon, 27, who spent three years on pretraining research at OpenAI and the
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-09-anthropic-pretraining-researcher-resigns-says-labs-are-gambl]] · [[2026-09-09-anthropic-researcher-resigns-alignment-lead-corroborates-and]] · [[2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat]] · [[2026-06-26-anthropic-says-it-no-longer-hires-junior-engineers-warns-of]]
+**Related:** [[2026-09-09-anthropic-pretraining-researcher-resigns-says-labs-are-gambl]] · [[2026-09-09-anthropic-researcher-resigns-alignment-lead-corroborates-and]] · [[2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat]] · [[2026-09-12-another-anthropic-researcher-resigns-citing-ai-extinction-ri]] · [[2026-09-12-two-more-safety-researchers-leave-anthropic-and-deepmind-for]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-07-30'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/30/apple-earnings-live-updates.html
 url_canonical: https://www.cnbc.com/2026/07/30/apple-earnings-live-updates.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-01_061911_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 7552501a80a71e5e1d665ee3bfd2d2a8e148cd72a1034a2209aa77d7f69c0351

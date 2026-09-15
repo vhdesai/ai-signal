@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-13-south-korea-and-african-development-bank-agree-to-launch-ai
 - 2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu
 - 2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p
 - 2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san
 - 2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration
-- 2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea
 embedding_id: 2026-05-22-south-korea-s-deputy-pm-warns-ai-wealth-must-reach-the-publi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ South Korea's deputy prime minister publicly tied AI wealth distribution to ongo
 
 **Entities:** [[Samsung]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration]] · [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]]
+**Related:** [[2026-09-13-south-korea-and-african-development-bank-agree-to-launch-ai]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration]]
 <!-- graph:end -->

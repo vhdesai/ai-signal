@@ -6,7 +6,7 @@ date: '2026-09-10'
 source: The Guardian
 url_original: https://www.theguardian.com/technology/2026/sep/10/openai-board-catastrophic-risk-warning
 url_canonical: https://www.theguardian.com/technology/2026/sep/10/openai-board-catastrophic-risk-warning
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: 01b5417d2e368ab60ad6b2d157c8d24e0d000802dd9b52ba5f68c7a7654bc531
 normalized_title_hash: 0039dca65cebeee1
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
-- 2026-08-08-daily-ai-news-digest-august-8-2026
+- 2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe
 embedding_id: 2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A sitting OpenAI board member publicly stated the company is not on track to mee
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-26-bill-gates-warns-about-ai-risks]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]]
+**Related:** [[2026-08-26-bill-gates-warns-about-ai-risks]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe]]
 <!-- graph:end -->

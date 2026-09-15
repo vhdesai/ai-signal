@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving/
 url_canonical: https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: a4207e612c3a5260eb66945169ab6b5bb9ec2ce05feae37d26bd00d96ffcfcce

@@ -6,7 +6,7 @@ date: '2026-08-24'
 source: MIT News
 url_original: https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824
 url_canonical: https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 2ce061479ed7199e91d7f52419b5f02cc38d38d98a650feece4125cf4d4bca77
@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme
+- 2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario
 - 2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-05-10-mit-mean-pooling-generated-tokens-yields-sota-semantic-repre
-- 2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin
 embedding_id: 2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT researchers Kai Chang and Themis Sapsis introduced an “Extreme Event Aware
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme]] · [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-10-mit-mean-pooling-generated-tokens-yields-sota-semantic-repre]] · [[2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin]]
+**Related:** [[2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme]] · [[2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario]] · [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-10-mit-mean-pooling-generated-tokens-yields-sota-semantic-repre]]
 <!-- graph:end -->

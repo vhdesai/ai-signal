@@ -5,7 +5,7 @@ date: '2026-07-16'
 source: GeekWire**
 url_original: https://www.geekwire.com/2026/whatnot-acquires-madrona-backed-ai-startup-shaped-to-boost-live-shopping-recommendations/
 url_canonical: https://www.geekwire.com/2026/whatnot-acquires-madrona-backed-ai-startup-shaped-to-boost-live-shopping-recommendations/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-17_065015_Final-Daily-AI-News-Digest.md
 content_hash: d0cc553352a0380590c41c4704ab2238ca8d185cf5db3533592dd8388394809c
 normalized_title_hash: 7644310ce30a10d6

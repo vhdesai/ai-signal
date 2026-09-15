@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Wall Street Journal**
 url_original: https://www.wsj.com/finance/investing/how-to-play-the-flood-of-ai-bonds-279f6ba5
 url_canonical: https://www.wsj.com/finance/investing/how-to-play-the-flood-of-ai-bonds-279f6ba5
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-03_065028_Final-Daily-AI-News-Digest.md
 content_hash: d64bb232bffa57724285b3cd43ac2021e0b8c0d830144dda0456a573623ed6ad
 normalized_title_hash: 5effe06ac65779a8

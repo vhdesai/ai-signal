@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: Business Times
 url_original: https://www.btimesonline.com/articles/178026/20260710/micron-expands-us-investment-to-250-billion-through-2035-as-ai-chip-demand-sends-shares-higher.htm
 url_canonical: https://www.btimesonline.com/articles/178026/20260710/micron-expands-us-investment-to-250-billion-through-2035-as-ai-chip-demand-sends-shares-higher.htm
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-11_065909_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: cf5f32cff5f5be07d9bf59e82c9478941ba661aff3e6507a9ef2b0e86ca0919d

@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: OpenAI**
 url_original: https://openai.com/index/introducing-the-agents-api/
 url_canonical: https://openai.com/index/introducing-the-agents-api/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-11_065100_Final-Daily-AI-News-Digest.md
 content_hash: 39e3c7450766bae05843c6683dc3be1da5e11d628989ff64fcaf3998a9577133
 normalized_title_hash: 872eef8eba8d79d1
@@ -19,13 +19,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau
-- 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
-- 2026-05-14-openai-codex-work-from-anywhere-expansion
-- 2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access
+dedupe_status: duplicate
+canonical_article_id: 2026-09-10-openai-opens-the-agents-api-in-public-beta
+related_article_ids: []
 embedding_id: 2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents
 event_name: ''
 ---
@@ -39,5 +35,5 @@ The Agents API entered public beta, exposing the same managed harness and infras
 
 **Entities:** [[OpenAI]] · [[Oracle]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]] · [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access]]
+**Canonical:** [[2026-09-10-openai-opens-the-agents-api-in-public-beta]]
 <!-- graph:end -->

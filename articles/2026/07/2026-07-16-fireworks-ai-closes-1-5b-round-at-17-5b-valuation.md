@@ -5,7 +5,7 @@ date: '2026-07-16'
 source: SiliconANGLE**
 url_original: https://siliconangle.com/2026/07/16/ai-infrastructure-startup-fireworks-closes-1-5b-round-17-5b-valuation/
 url_canonical: https://siliconangle.com/2026/07/16/ai-infrastructure-startup-fireworks-closes-1-5b-round-17-5b-valuation/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-17_065015_Final-Daily-AI-News-Digest.md
 content_hash: 1b10452abead95a6e0fc0ad2a81b3ffa94b0c4a33f85df67cc4985d1c2060550
 normalized_title_hash: 28a5f3b7ac1415a8

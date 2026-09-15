@@ -6,7 +6,7 @@ date: '2026-08-07'
 source: VentureBeat
 url_original: https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong
 url_canonical: https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-08_061755_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 8af778d65a22a037307e32ed8392f41936a36a473daf14f3913018a59eb4f66e

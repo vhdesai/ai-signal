@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 68
+member_count: 69
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 68 connected article(s).
+> Auto-generated entity hub. 69 connected article(s).
 
+- `2026-09-11` [[2026-09-11-xai-s-grok-bot-adds-salesforce-hubspot-gong-clay-and-microso|xAI's Grok Bot adds Salesforce, HubSpot, Gong, Clay and Microsoft Teams connectors]]
 - `2026-09-06` [[2026-09-06-meta-migrates-internal-communications-from-google-chat-to-sl|Meta migrates internal communications from Google Chat to Slack, citing AI agents]]
 - `2026-09-04` [[2026-09-04-servicenow-buys-sweep-to-expand-agentic-crm-workflows|ServiceNow buys Sweep to expand agentic CRM workflows]]
 - `2026-09-04` [[2026-09-04-servicenow-acquires-israeli-agentic-crm-startup-sweep|ServiceNow Acquires Israeli Agentic-CRM Startup Sweep]]

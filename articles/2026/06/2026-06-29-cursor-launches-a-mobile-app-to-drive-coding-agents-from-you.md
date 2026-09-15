@@ -5,7 +5,7 @@ date: '2026-06-29'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/
 url_canonical: https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-30_061732_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 146c01ac0e7b006058639633bc8ad411e22678b0fe3d4448a8a2b223fa8866dc

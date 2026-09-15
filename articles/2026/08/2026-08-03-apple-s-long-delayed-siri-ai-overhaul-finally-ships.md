@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/
 url_canonical: https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_062620_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 0e00f50b21757377e74c31e1738fc76a174138c6955140d7e3bbe0126f271794
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-03-5-apple-ships-its-long-promised-siri-overhaul-in-ios-27
 - 2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri
 - 2026-07-06-apple-adds-siri-pace-and-expressivity-controls-in-the-ios-27
-- 2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed
+- 2026-09-11-apple-s-rebuilt-siri-ships-next-week-with-ios-27
 embedding_id: 2026-08-03-apple-s-long-delayed-siri-ai-overhaul-finally-ships
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Apple's revamped, AI-driven Siri is now rolling out, delivering the more capable
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the]] · [[2026-08-03-5-apple-ships-its-long-promised-siri-overhaul-in-ios-27]] · [[2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri]] · [[2026-07-06-apple-adds-siri-pace-and-expressivity-controls-in-the-ios-27]] · [[2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed]]
+**Related:** [[2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the]] · [[2026-08-03-5-apple-ships-its-long-promised-siri-overhaul-in-ios-27]] · [[2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri]] · [[2026-07-06-apple-adds-siri-pace-and-expressivity-controls-in-the-ios-27]] · [[2026-09-11-apple-s-rebuilt-siri-ships-next-week-with-ios-27]]
 <!-- graph:end -->

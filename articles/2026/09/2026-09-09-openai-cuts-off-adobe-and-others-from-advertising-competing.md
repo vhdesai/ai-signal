@@ -6,7 +6,7 @@ date: '2026-09-09'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI+Adobe+ChatGPT+advertising
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI+Adobe+ChatGPT+advertising
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-11_065100_Final-Daily-AI-News-Digest.md
 content_hash: dc6882a6f175095ef7f43d665b2b76f5e6bc4548822848d3db711e82fb5f1c65
 normalized_title_hash: 26088a1ac45a0d53

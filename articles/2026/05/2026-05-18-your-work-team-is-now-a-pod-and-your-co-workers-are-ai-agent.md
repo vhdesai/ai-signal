@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
 - 2026-07-29-ai-shifts-mainframe-modernization-strategy
 - 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
-- 2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin
+- 2026-09-11-meta-ai-unit-s-attempt-to-train-models-on-employee-data-coll
 embedding_id: 2026-05-18-your-work-team-is-now-a-pod-and-your-co-workers-are-ai-agent
 event_name: ''
 ---
@@ -37,5 +37,5 @@ WSJ profiled enterprises restructuring teams around “pods” that intermix hum
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-31-uber-deploys-agentic-pods-sending-ai-engineers-into-business]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-07-29-ai-shifts-mainframe-modernization-strategy]] · [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]] · [[2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin]]
+**Related:** [[2026-07-31-uber-deploys-agentic-pods-sending-ai-engineers-into-business]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-07-29-ai-shifts-mainframe-modernization-strategy]] · [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]] · [[2026-09-11-meta-ai-unit-s-attempt-to-train-models-on-employee-data-coll]]
 <!-- graph:end -->

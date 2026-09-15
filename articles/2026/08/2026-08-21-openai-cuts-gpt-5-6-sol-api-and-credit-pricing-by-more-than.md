@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: OpenAI
 url_original: https://community.openai.com/t/20-price-reduction-for-gpt-5-6-sol-api-codex-credits-and-chatgpt-work/1391726
 url_canonical: https://community.openai.com/t/20-price-reduction-for-gpt-5-6-sol-api-codex-credits-and-chatgpt-work/1391726
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_062347_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: a464584233db9ad7ac6d4a97746f273f95b5eb28b022010058e078414f7f76f3

@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
+- 2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after
 - 2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s
@@ -39,5 +40,5 @@ The Decoder reported that OpenAI, Anthropic, and major cloud providers are compe
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after]] · [[2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s]]
+**Related:** [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]] · [[2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after]] · [[2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s]]
 <!-- graph:end -->

@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-04-what-s-new-in-oracle-ai-september-2026-edition
+- 2026-09-11-andrew-ng-ai-engineering-skill-is-changing-the-scope-of-the
 - 2026-07-22-synthesia-moves-from-ai-training-videos-into-live-coaching
 - 2026-06-21-tech-workers-spend-nights-and-weekends-learning-ai-tools
 - 2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil
@@ -38,5 +39,5 @@ Oracle Blogs published an item on AI-powered learning experiences for building A
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-09-04-what-s-new-in-oracle-ai-september-2026-edition]] · [[2026-07-22-synthesia-moves-from-ai-training-videos-into-live-coaching]] · [[2026-06-21-tech-workers-spend-nights-and-weekends-learning-ai-tools]] · [[2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil]]
+**Related:** [[2026-09-04-what-s-new-in-oracle-ai-september-2026-edition]] · [[2026-09-11-andrew-ng-ai-engineering-skill-is-changing-the-scope-of-the]] · [[2026-07-22-synthesia-moves-from-ai-training-videos-into-live-coaching]] · [[2026-06-21-tech-workers-spend-nights-and-weekends-learning-ai-tools]] · [[2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil]]
 <!-- graph:end -->

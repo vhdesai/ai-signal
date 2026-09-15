@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: EU-Startups
 url_original: https://www.eu-startups.com/2026/07/spains-multiverse-computing-hits-unicorn-status-after-raising-e500-million-series-c-at-e1-5-billion-valuation/
 url_canonical: https://www.eu-startups.com/2026/07/spains-multiverse-computing-hits-unicorn-status-after-raising-e500-million-series-c-at-e1-5-billion-valuation/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-27_062053_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: f5c4bc539a8b7a462455c6d62ad1304fb16d2c8eb58bce4141c55ac0875b4a0d

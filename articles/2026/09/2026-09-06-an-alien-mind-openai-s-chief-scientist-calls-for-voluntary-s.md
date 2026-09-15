@@ -6,7 +6,7 @@ date: '2026-09-06'
 source: OpenAI Blog
 url_original: https://openai.com/index/an-alien-mind/
 url_canonical: https://openai.com/index/an-alien-mind/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-07_060623_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 053a88775ceac0ce68d090930bc89744374fe235f394ae2b48cc298042028e68
@@ -26,6 +26,8 @@ related_article_ids:
 - 2026-09-06-openai-s-chief-scientist-calls-for-voluntary-slowdowns-acros
 - 2026-09-06-openai-chief-scientist-pachocki-alignment-and-monitoring-are
 - 2026-09-06-openai-s-chief-scientist-calls-frontier-models-an-alien-mind
+- 2026-09-10-frontier-lab-researchers-escalate-calls-to-slow-development
+- 2026-09-13-anthropic-ceo-s-call-to-slow-frontier-ai-receives-renewed-at
 embedding_id: 2026-09-06-an-alien-mind-openai-s-chief-scientist-calls-for-voluntary-s
 event_name: ''
 ---
@@ -39,5 +41,5 @@ OpenAI Chief Scientist Jakub Pachocki published an essay arguing that current pr
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-06-openai-s-chief-scientist-calls-for-voluntary-slowdowns-acros]] · [[2026-09-06-openai-chief-scientist-pachocki-alignment-and-monitoring-are]] · [[2026-09-06-openai-s-chief-scientist-calls-frontier-models-an-alien-mind]]
+**Related:** [[2026-09-06-openai-s-chief-scientist-calls-for-voluntary-slowdowns-acros]] · [[2026-09-06-openai-chief-scientist-pachocki-alignment-and-monitoring-are]] · [[2026-09-06-openai-s-chief-scientist-calls-frontier-models-an-alien-mind]] · [[2026-09-10-frontier-lab-researchers-escalate-calls-to-slow-development]] · [[2026-09-13-anthropic-ceo-s-call-to-slow-frontier-ai-receives-renewed-at]]
 <!-- graph:end -->

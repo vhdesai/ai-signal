@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: SiliconANGLE**
 url_original: https://siliconangle.com/2026/07/26/nvidia-putting-vera-cpus-work-alongside-ai-agents-speed-chip-design/
 url_canonical: https://siliconangle.com/2026/07/26/nvidia-putting-vera-cpus-work-alongside-ai-agents-speed-chip-design/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-27_065041_Final-Daily-AI-News-Digest.md
 content_hash: 77e9f2ffdad93ca990e6aed1e4b37720d59bb45105325bdee021a993e0bc5549
 normalized_title_hash: b3ce21aa4086edb8

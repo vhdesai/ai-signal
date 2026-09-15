@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/
 url_canonical: https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-09_083947_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: c187571aa8ab497914d8437e42e8373e147b9700341df412e31b9310cea5be32
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-09-anthropic-openai-and-spacex-could-dwarf-25-years-of-vc-backe
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave
-- 2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after
+- 2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues
 embedding_id: 2026-07-09-anthropic-openai-and-spacex-are-bigger-than-the-last-25-year
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechCrunch, citing the Q2 2026 PitchBook-NVCA Venture Monitor, reported that exp
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-07-09-anthropic-openai-and-spacex-could-dwarf-25-years-of-vc-backe]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave]] · [[2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after]]
+**Related:** [[2026-07-09-anthropic-openai-and-spacex-could-dwarf-25-years-of-vc-backe]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave]] · [[2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues]]
 <!-- graph:end -->

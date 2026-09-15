@@ -6,7 +6,7 @@ date: '2026-06-28'
 source: The Next Web
 url_original: https://thenextweb.com/news/baidu-kunlunxin-ipo-50-billion-investors-buy-chips
 url_canonical: https://thenextweb.com/news/baidu-kunlunxin-ipo-50-billion-investors-buy-chips
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-29_062122_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 2ff74eef19e8703bafb9368fc4c22a9a61072871120c6b1594d3e391e8180941

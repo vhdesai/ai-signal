@@ -6,7 +6,7 @@ date: '2026-05-26'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole
 url_canonical: https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 3f2be1e4e4d0993f7eb5dcc2f3dbebe86b5ec912a511320a9751291c5635c63b

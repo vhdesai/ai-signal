@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-22-daily-ai-news-digest-july-23-2026
 - 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
-- 2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in
+- 2026-09-13-safety-becomes-the-frontier-story-and-capital-keeps-accelera
 embedding_id: 2026-07-23-ai-s-capital-and-compute-race-outpaces-the-model-cycle
 event_name: ''
 ---
@@ -43,5 +43,5 @@ The last 24 hours were dominated by capital and compute rather than a single fro
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]] · [[2026-07-22-daily-ai-news-digest-july-23-2026]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in]]
+**Related:** [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]] · [[2026-07-22-daily-ai-news-digest-july-23-2026]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-09-13-safety-becomes-the-frontier-story-and-capital-keeps-accelera]]
 <!-- graph:end -->

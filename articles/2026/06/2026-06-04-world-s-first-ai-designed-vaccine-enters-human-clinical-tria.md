@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-04-world-s-first-ai-designed-vaccine-enters-human-trials
 - 2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against
+- 2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t
 - 2026-04-04-cmu-s-center-for-ai-driven-biomedical-research-ai4bio-announ
-- 2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop
 embedding_id: 2026-06-04-world-s-first-ai-designed-vaccine-enters-human-clinical-tria
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A vaccine designed entirely by AI has entered human clinical trials, targeting a
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-04-world-s-first-ai-designed-vaccine-enters-human-trials]] · [[2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against]] · [[2026-04-04-cmu-s-center-for-ai-driven-biomedical-research-ai4bio-announ]] · [[2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop]]
+**Related:** [[2026-06-04-world-s-first-ai-designed-vaccine-enters-human-trials]] · [[2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against]] · [[2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t]] · [[2026-04-04-cmu-s-center-for-ai-driven-biomedical-research-ai4bio-announ]]
 <!-- graph:end -->

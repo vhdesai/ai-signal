@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: The Information
 url_original: https://www.theinformation.com/articles/spacex-overhauls-data-center-build-potentially-slowing-expansion
 url_canonical: https://www.theinformation.com/articles/spacex-overhauls-data-center-build-potentially-slowing-expansion
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: 59641e6c67074682a0857286a6a2f5a3df1ae24abe112aeab5be4fcb6bc57d41
 normalized_title_hash: 0b0c92195cb0b748

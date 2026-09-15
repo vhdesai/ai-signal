@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: WinCentral
 url_original: https://thewincentral.com/microsoft-365-copilot-may-2026-update-gpt-5-5/
 url_canonical: https://thewincentral.com/microsoft-365-copilot-may-2026-update-gpt-5-5/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: e515eafe58e85e9eb9d872ecc2e9aee69c12b68d84ff31d3fcfb24c719ee3916

@@ -6,7 +6,7 @@ date: '2026-07-28'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=China+AI+model+distillation+IP+theft
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=China+AI+model+distillation+IP+theft
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-29_065623_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: b2bffef1e3b15cb72bb35fd190a58d29ba6d963f492c70dc8e7b2ab16dcf732c

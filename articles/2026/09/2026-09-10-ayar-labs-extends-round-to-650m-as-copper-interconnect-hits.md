@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: SiliconANGLE**
 url_original: https://siliconangle.com/2026/09/10/ayar-labs-bags-150m-in-additional-series-e-funding-to-help-make-bigger-ai-chip-clusters/
 url_canonical: https://siliconangle.com/2026/09/10/ayar-labs-bags-150m-in-additional-series-e-funding-to-help-make-bigger-ai-chip-clusters/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-11_065100_Final-Daily-AI-News-Digest.md
 content_hash: 59eeaf2e73381b0d27ad7f22fc83043a3d609340b3f2356470d4b21c699291f4
 normalized_title_hash: aff9a0c4e9e5f557

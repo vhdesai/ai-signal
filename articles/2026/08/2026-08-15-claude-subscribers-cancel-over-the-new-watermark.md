@@ -5,7 +5,7 @@ date: '2026-08-15'
 source: Business Insider
 url_original: https://africa.businessinsider.com/news/claude-users-are-canceling-their-subscriptions-citing-anthropics-new-ai-watermark/ee9kf22
 url_canonical: https://africa.businessinsider.com/news/claude-users-are-canceling-their-subscriptions-citing-anthropics-new-ai-watermark/ee9kf22
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-16_065100_Final-Daily-AI-News-Digest.md
 content_hash: 9f0163427a1d23f1a35bf773696d931b5dfbc0f074d73c81ab37eb767bad6d67
 normalized_title_hash: d159843aac4726d8

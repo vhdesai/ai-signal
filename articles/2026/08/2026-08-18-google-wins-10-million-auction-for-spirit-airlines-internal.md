@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-08-18-google-wins-bankruptcy-auction-for-spirit-airlines-internal
 - 2026-08-18-google-wins-spirit-airlines-bankrupt-data-estate-for-10m
 - 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
+- 2026-09-11-google-cloud-publishes-thomas-kurian-s-goldman-sachs-communi
 embedding_id: 2026-08-18-google-wins-10-million-auction-for-spirit-airlines-internal
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Google agreed to pay $10 million for a de-identified trove of bankrupt Spirit Ai
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-18-google-wins-10m-bid-for-bankrupt-spirit-airlines-data-to-tra]] · [[2026-08-18-google-wins-bankruptcy-auction-for-spirit-airlines-internal]] · [[2026-08-18-google-wins-spirit-airlines-bankrupt-data-estate-for-10m]] · [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]]
+**Related:** [[2026-08-18-google-wins-10m-bid-for-bankrupt-spirit-airlines-data-to-tra]] · [[2026-08-18-google-wins-bankruptcy-auction-for-spirit-airlines-internal]] · [[2026-08-18-google-wins-spirit-airlines-bankrupt-data-estate-for-10m]] · [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-09-11-google-cloud-publishes-thomas-kurian-s-goldman-sachs-communi]]
 <!-- graph:end -->

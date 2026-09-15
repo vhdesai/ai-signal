@@ -5,7 +5,7 @@ date: '2026-08-15'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+SB+Energy+OpenAI+data+center
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+SB+Energy+OpenAI+data+center
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-16_065759_Final-Daily-AI-News-Digest.md
 content_hash: c5ea3198a2acfb8819f85bcc248560313dd411b02c363b44d47d8777789e2377
 normalized_title_hash: b887953c836c13ee

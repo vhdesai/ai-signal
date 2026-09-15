@@ -6,7 +6,7 @@ date: '2026-05-27'
 source: ChatForest
 url_original: https://nvidianews.nvidia.com/online-press-kit/gtc-2026-news
 url_canonical: https://nvidianews.nvidia.com/online-press-kit/gtc-2026-news
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: f785545e0f206c10196468eadd9fec2309ecf794e1a1db9942630ee90e1c98fe

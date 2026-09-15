@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-kevin-weil-seeks-valuation-for-ai-science-startup
+- 2026-09-11-jeff-dean-s-stealth-ai-startup-reportedly-raising-at-50b-val
 - 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
 - 2026-09-03-thinking-machines-lab-discusses-a-raise-at-roughly-a-40b-val
-- 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
 embedding_id: 2026-08-12-kevin-weil-seeks-750m-valuation-for-ai-science-startup
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Kevin Weil, OpenAI's former Chief Product Officer, has sought a valuation of at 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-kevin-weil-seeks-valuation-for-ai-science-startup]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-09-03-thinking-machines-lab-discusses-a-raise-at-roughly-a-40b-val]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]]
+**Related:** [[2026-08-12-kevin-weil-seeks-valuation-for-ai-science-startup]] · [[2026-09-11-jeff-dean-s-stealth-ai-startup-reportedly-raising-at-50b-val]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-09-03-thinking-machines-lab-discusses-a-raise-at-roughly-a-40b-val]]
 <!-- graph:end -->

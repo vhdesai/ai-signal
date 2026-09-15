@@ -5,7 +5,7 @@ date: '2026-09-01'
 source: Princeton University
 url_original: https://www.princeton.edu/news/2026/09/01/princeton-strengthens-its-support-ai-and-data-science-scholarship-through-data-and
 url_canonical: https://www.princeton.edu/news/2026/09/01/princeton-strengthens-its-support-ai-and-data-science-scholarship-through-data-and
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-02_065546_Final-Daily-AI-News-Digest.md
 content_hash: bcef3695e11547a7ec634d75eff185280be6270229ebab5cb52f99f2e9ce8866
 normalized_title_hash: 1f819537556dcd9f
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-01-princeton-establishes-data-and-intelligent-systems-dais-as-a
 - 2026-05-26-princeton-ai-lab-recaps-physical-foundations-of-intelligent
 - 2026-05-08-stanford-hai-consolidates-ai-data-science-programs-under-sin
-- 2026-09-01-purdue-libraries-and-school-of-information-studies-advance-a
+- 2026-09-13-princeton-and-ucla-mathematicians-press-for-norms-on-ai-assi
 embedding_id: 2026-09-01-princeton-expands-institutional-support-for-ai-and-data-scie
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Princeton announced expanded university-level support for AI and data-science re
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni]] · [[2026-09-01-princeton-establishes-data-and-intelligent-systems-dais-as-a]] · [[2026-05-26-princeton-ai-lab-recaps-physical-foundations-of-intelligent]] · [[2026-05-08-stanford-hai-consolidates-ai-data-science-programs-under-sin]] · [[2026-09-01-purdue-libraries-and-school-of-information-studies-advance-a]]
+**Related:** [[2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni]] · [[2026-09-01-princeton-establishes-data-and-intelligent-systems-dais-as-a]] · [[2026-05-26-princeton-ai-lab-recaps-physical-foundations-of-intelligent]] · [[2026-05-08-stanford-hai-consolidates-ai-data-science-programs-under-sin]] · [[2026-09-13-princeton-and-ucla-mathematicians-press-for-norms-on-ai-assi]]
 <!-- graph:end -->

@@ -1,13 +1,22 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 461
+member_count: 470
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 461 connected article(s).
+> Auto-generated topic hub. 470 connected article(s).
 
+- `2026-09-13` [[2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce|Meta Acquires Stilla.ai to Expand Business Agent Commerce]]
+- `2026-09-13` [[2026-09-13-google-deepmind-safety-researcher-resigns-warns-of-terrifyin|Google DeepMind Safety Researcher Resigns, Warns of "Terrifying Chance" of Major AI Harm]]
+- `2026-09-12` [[2026-09-12-google-deepmind-acqui-hires-mechanize-ai-talent-in-reported|Google DeepMind acqui-hires Mechanize AI talent in reported $1.5B coding-agent deal]]
+- `2026-09-11` [[2026-09-11-senator-josh-hawley-formally-opens-senate-investigation-into|Senator Josh Hawley formally opens Senate investigation into OpenAI's Hugging Face hack]]
+- `2026-09-11` [[2026-09-11-reuters-nvidia-in-talks-to-invest-up-to-10b-in-anthropic-s-i|Reuters: Nvidia in talks to invest up to $10B in Anthropic's IPO]]
+- `2026-09-11` [[2026-09-11-nscale-adds-ex-openai-no-2-fidji-simo-to-board-ahead-of-pote|Nscale adds ex-OpenAI No. 2 Fidji Simo to board ahead of potential IPO]]
+- `2026-09-11` [[2026-09-11-nvidia-in-talks-to-invest-up-to-10b-in-anthropic-s-ipo|NVIDIA in Talks to Invest Up to $10B in Anthropic's IPO]]
+- `2026-09-11` [[2026-09-11-meta-s-elite-ai-unit-sought-employee-data-for-training-halte|Meta's Elite AI Unit Sought Employee Data for Training — Halted After Revolt]]
+- `2026-09-10` [[2026-09-10-doj-investigating-nvidia-s-20b-groq-license-and-hire-deal-fo|DOJ investigating Nvidia's $20B Groq license-and-hire deal for antitrust workaround]]
 - `2026-09-07` [[2026-09-07-wafer-a-non-nvidia-inference-provider-fields-acquisition-off|Wafer, a non-Nvidia inference provider, fields acquisition offers at $200M+ valuation]]
 - `2026-09-07` [[2026-09-07-nvidia-s-12-93b-hugging-face-acquisition-becomes-definitive|Nvidia’s $12.93B Hugging Face acquisition becomes definitive, raising gatekeeper questions]]
 - `2026-09-07` [[2026-09-07-non-nvidia-inference-provider-wafer-receives-acquisition-off|Non-Nvidia inference provider Wafer receives acquisition offers at $200M+ valuation]]

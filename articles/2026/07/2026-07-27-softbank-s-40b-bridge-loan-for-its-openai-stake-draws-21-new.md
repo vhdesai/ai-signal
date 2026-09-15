@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: Bloomberg
 url_original: https://finance.yahoo.com/technology/ai/articles/softbank-40-billion-loan-openai-043037251.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/softbank-40-billion-loan-openai-043037251.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-27_061009_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: 5c28f12b81d7bd0d0dc0cf4db94d1b4cbbbf85efd800c5dc04a0f539f0dcbc92

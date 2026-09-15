@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: VentureBeat; Moneycontrol; MarkTechPost
 url_original: https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system
 url_canonical: https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 2cc61720cfc4ef64aadc7e0fc2712be63fb9a7d1bee12084cc8a53ce18e559d6
 normalized_title_hash: 879f51ea56f05aa4
@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system
+- 2026-09-12-sakana-ai-ships-fugu-ultra-v2-orchestration-engine-on-openro
 - 2026-07-25-sakana-ai-releases-fugu-cyber-a-security-tuned-orchestration
 - 2026-07-26-sakana-ai-releases-fugu-cyber-orchestration-model
 - 2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge
-- 2026-06-27-with-anthropic-s-most-advanced-models-export-restricted-chin
 embedding_id: 2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Japan's Sakana AI released Fugu and Fugu Ultra, a multi-agent orchestration syst
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system]] · [[2026-07-25-sakana-ai-releases-fugu-cyber-a-security-tuned-orchestration]] · [[2026-07-26-sakana-ai-releases-fugu-cyber-orchestration-model]] · [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]] · [[2026-06-27-with-anthropic-s-most-advanced-models-export-restricted-chin]]
+**Related:** [[2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system]] · [[2026-09-12-sakana-ai-ships-fugu-ultra-v2-orchestration-engine-on-openro]] · [[2026-07-25-sakana-ai-releases-fugu-cyber-a-security-tuned-orchestration]] · [[2026-07-26-sakana-ai-releases-fugu-cyber-orchestration-model]] · [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]]
 <!-- graph:end -->

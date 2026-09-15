@@ -5,7 +5,7 @@ date: '2026-05-24'
 source: Epium
 url_original: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html
 url_canonical: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-25_071611_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: b32a4557d8583418c85165b2214777f4b45eeae7325c67a3c9f3e53290123d37
@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-23-uc-berkeley-school-of-law-announced-it-will-prohibit-ai-use
 - 2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work
 - 2026-05-27-limited-new-university-announcements-within-the-strict-24-ho
-- 2026-04-22-academic-research
-- 2026-08-23-university-of-chicago-s-social-sciences-core-bans-ai-and-goe
+- 2026-09-13-two-year-law-school-study-banning-ai-in-the-classroom-leaves
+- 2026-09-10-california-enacts-adam-s-law-the-first-comprehensive-chatbot
 embedding_id: 2026-05-24-uc-berkeley-law-tightens-ai-rules-without-banning-the-techno
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Berkeley Law adopted a stricter policy limiting student use of LLMs in core lega
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-23-uc-berkeley-school-of-law-announced-it-will-prohibit-ai-use]] · [[2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work]] · [[2026-05-27-limited-new-university-announcements-within-the-strict-24-ho]] · [[2026-04-22-academic-research]] · [[2026-08-23-university-of-chicago-s-social-sciences-core-bans-ai-and-goe]]
+**Related:** [[2026-05-23-uc-berkeley-school-of-law-announced-it-will-prohibit-ai-use]] · [[2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work]] · [[2026-05-27-limited-new-university-announcements-within-the-strict-24-ho]] · [[2026-09-13-two-year-law-school-study-banning-ai-in-the-classroom-leaves]] · [[2026-09-10-california-enacts-adam-s-law-the-first-comprehensive-chatbot]]
 <!-- graph:end -->

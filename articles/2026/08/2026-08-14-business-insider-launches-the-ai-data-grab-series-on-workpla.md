@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-11-meta-s-elite-ai-unit-sought-employee-data-for-training-halte
+- 2026-09-11-meta-ai-unit-s-attempt-to-train-models-on-employee-data-coll
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
 - 2026-08-15-defunct-startups-slack-archives-are-becoming-agent-training
 - 2026-08-01-ibm-earnings-read-as-a-gauge-of-ai-infrastructure-demand
-- 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
-- 2026-08-26-microsoft-employees-reveal-how-much-cash-they-re-burning-on
 embedding_id: 2026-08-14-business-insider-launches-the-ai-data-grab-series-on-workpla
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Business Insider is launching a new investigative series called "The AI Data Gra
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-08-15-defunct-startups-slack-archives-are-becoming-agent-training]] · [[2026-08-01-ibm-earnings-read-as-a-gauge-of-ai-infrastructure-demand]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]] · [[2026-08-26-microsoft-employees-reveal-how-much-cash-they-re-burning-on]]
+**Related:** [[2026-09-11-meta-s-elite-ai-unit-sought-employee-data-for-training-halte]] · [[2026-09-11-meta-ai-unit-s-attempt-to-train-models-on-employee-data-coll]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-08-15-defunct-startups-slack-archives-are-becoming-agent-training]] · [[2026-08-01-ibm-earnings-read-as-a-gauge-of-ai-infrastructure-demand]]
 <!-- graph:end -->

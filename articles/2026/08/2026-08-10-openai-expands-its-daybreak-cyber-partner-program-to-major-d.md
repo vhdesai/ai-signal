@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: OpenAI Blog
 url_original: https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands/
 url_canonical: https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-11_061444_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 6d6e8e49158e5f49ec36f1f18e2d47791608d0c648f957be430b5a1f1ca53244

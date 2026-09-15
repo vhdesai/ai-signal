@@ -1,14 +1,54 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1052
+member_count: 1092
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1052 connected article(s).
+> Auto-generated topic hub. 1092 connected article(s).
 
+- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy targets $50M in annual cost savings with AI]]
+- `2026-09-14` [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo|Anthropic picks Nasdaq for potential IPO]]
+- `2026-09-13` [[2026-09-13-sunday-september-13-2026|Sunday, September 13, 2026]]
+- `2026-09-13` [[2026-09-13-sam-altman-confirms-openai-will-not-ipo-in-2026|Sam Altman Confirms OpenAI Will Not IPO in 2026]]
+- `2026-09-13` [[2026-09-13-safety-becomes-the-frontier-story-and-capital-keeps-accelera|Safety Becomes the Frontier Story — and Capital Keeps Accelerating]]
+- `2026-09-13` [[2026-09-13-nvidia-weighs-up-to-10b-as-anchor-investor-in-anthropic-s-2t|Nvidia weighs up to $10B as anchor investor in Anthropic's ~$2T IPO]]
+- `2026-09-13` [[2026-09-13-nvidia-weighs-up-to-10b-anchor-stake-in-anthropic-ipo-at-rou|Nvidia Weighs Up to $10B Anchor Stake in Anthropic IPO at Roughly $2 Trillion]]
+- `2026-09-13` [[2026-09-13-google-deepmind-safety-researcher-resigns-warns-of-terrifyin|Google DeepMind Safety Researcher Resigns, Warns of "Terrifying Chance" of Major AI Harm]]
+- `2026-09-13` [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-ai-standard|Anthropic, OpenAI, and Google Quietly Discussed an AI Standards Body]]
+- `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
+- `2026-09-13` [[2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk|Amodei says "the industry lied" about AI risks; Altman and Musk publicly back a slowdown]]
+- `2026-09-13` [[2026-09-13-amazon-not-nvidia-carries-the-larger-balance-sheet-exposure|Amazon, not Nvidia, carries the larger balance-sheet exposure to Anthropic's compute build]]
+- `2026-09-13` [[2026-09-13-altman-musk-and-hassabis-publicly-back-amodei-s-independent|Altman, Musk, and Hassabis publicly back Amodei's independent-oversight proposal]]
+- `2026-09-12` [[2026-09-12-saturday-september-12-2026|Saturday, September 12, 2026]]
+- `2026-09-12` [[2026-09-12-sam-altman-an-openai-ipo-in-2026-would-be-ill-advised|Sam Altman: An OpenAI IPO in 2026 Would Be “Ill-Advised”]]
+- `2026-09-12` [[2026-09-12-positron-valued-at-5b-in-new-funding-as-ai-chip-demand-surge|Positron valued at $5B in new funding as AI chip demand surges]]
+- `2026-09-12` [[2026-09-12-openai-rules-out-a-2026-ipo-as-altman-musk-and-amodei-all-wa|OpenAI rules out a 2026 IPO as Altman, Musk and Amodei all warn the pace is too fast]]
+- `2026-09-12` [[2026-09-12-nvidia-weighing-a-10b-anchor-investment-in-an-anthropic-ipo|Nvidia Weighing a $10B Anchor Investment in an Anthropic IPO at a ~$2 Trillion Valuation]]
+- `2026-09-12` [[2026-09-12-anthropic-in-talks-for-a-record-100b-ipo-at-a-2-trillion-val|Anthropic in talks for a record ~$100B IPO at a ~$2 trillion valuation, with Nvidia weighing a $10B anchor]]
+- `2026-09-12` [[2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues|Anthropic and OpenAI now capture 89% of AI startup revenues]]
+- `2026-09-12` [[2026-09-12-anthropic-threat-report-names-five-distinct-misuse-patterns|Anthropic Threat Report Names Five Distinct Misuse Patterns]]
+- `2026-09-12` [[2026-09-12-anthropic-ceo-amodei-salt-style-ai-speed-limits-embedded-aud|Anthropic CEO Amodei: SALT-style AI speed limits, embedded auditors, and 6–12 month RSI warning]]
+- `2026-09-12` [[2026-09-12-anjney-midha-s-anthropic-bet-nears-a-trillion-dollar-payoff|Anjney Midha's Anthropic Bet Nears a Trillion-Dollar Payoff]]
+- `2026-09-12` [[2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety|Altman rules out an OpenAI IPO this year, citing safety]]
+- `2026-09-12` [[2026-09-12-altman-confirms-openai-ipo-pushed-to-2027-nvidia-in-talks-to|Altman confirms OpenAI IPO pushed to 2027; Nvidia in talks to invest up to $10B in Anthropic's $2T IPO]]
+- `2026-09-12` [[2026-09-12-ai-data-centers-may-create-far-fewer-jobs-than-projected-thi|AI data centers may create far fewer jobs than projected, think tank warns]]
+- `2026-09-11` [[2026-09-11-tencent-backed-enflame-soars-200-in-shanghai-debut|Tencent-Backed Enflame Soars ~200% in Shanghai Debut]]
+- `2026-09-11` [[2026-09-11-senator-josh-hawley-formally-opens-senate-investigation-into|Senator Josh Hawley formally opens Senate investigation into OpenAI's Hugging Face hack]]
+- `2026-09-11` [[2026-09-11-reuters-nvidia-in-talks-to-invest-up-to-10b-in-anthropic-s-i|Reuters: Nvidia in talks to invest up to $10B in Anthropic's IPO]]
 - `2026-09-11` [[2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat|Researcher Resignation Reopens the Pace-of-Development Debate]]
+- `2026-09-11` [[2026-09-11-positron-ai-raises-875m-at-a-5b-valuation-for-memory-first-i|Positron AI raises $875M at a $5B valuation for memory-first inference silicon]]
+- `2026-09-11` [[2026-09-11-pentagon-in-talks-on-a-5b-loan-to-ai-cloud-startup-fluidstac|Pentagon in talks on a ~$5B loan to AI cloud startup Fluidstack]]
+- `2026-09-11` [[2026-09-11-nvidia-in-talks-to-invest-up-to-10b-as-anchor-investor-in-an|Nvidia in talks to invest up to $10B as anchor investor in Anthropic's IPO at ~$2T valuation]]
+- `2026-09-11` [[2026-09-11-nvidia-in-talks-to-anchor-anthropic-ipo-at-2-trillion-valuat|Nvidia in Talks to Anchor Anthropic IPO at ~$2 Trillion Valuation]]
+- `2026-09-11` [[2026-09-11-nscale-adds-ex-openai-no-2-fidji-simo-to-board-ahead-of-pote|Nscale adds ex-OpenAI No. 2 Fidji Simo to board ahead of potential IPO]]
+- `2026-09-11` [[2026-09-11-nvidia-in-talks-to-invest-up-to-10b-in-anthropic-s-ipo|NVIDIA in Talks to Invest Up to $10B in Anthropic's IPO]]
+- `2026-09-11` [[2026-09-11-moonshot-ai-targets-2b-annual-revenue-as-kimi-k3-sees-300b-d|Moonshot AI targets $2B annual revenue as Kimi K3 sees 300B daily tokens on OpenRouter]]
+- `2026-09-11` [[2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-on-rush-f|Mecka AI nears $500M valuation in Sequoia-led round on rush for robot training data]]
+- `2026-09-11` [[2026-09-11-enflame-s-shanghai-debut-completes-china-s-domestic-gpu-coho|Enflame's Shanghai Debut Completes China's Domestic GPU Cohort]]
+- `2026-09-11` [[2026-09-11-cognition-raises-2b-at-a-48b-valuation-as-agentic-coding-tak|Cognition raises $2B at a $48B valuation as agentic coding takes the week's largest AI check]]
+- `2026-09-11` [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe|An Anthropic researcher's doomsday warning lands at a pointed moment]]
 - `2026-09-10` [[2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face|OpenAI faces GOP-led Senate investigation over Hugging Face agent breach]]
 - `2026-09-10` [[2026-09-10-mistral-valued-at-21b-after-3b-round-asml-maintains-400m-sta|Mistral valued at €21B after €3B round; ASML maintains €400M stake]]
 - `2026-09-10` [[2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne|Mistral partners with Cloudera on sovereign enterprise AI; new €21B valuation caps €3B Samsung-led round]]

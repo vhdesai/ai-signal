@@ -6,7 +6,7 @@ date: '2026-07-11'
 source: The Motley Fool
 url_original: https://www.fool.com/investing/2026/07/11/apple-ceo-tim-cook-announces-30-billion-broadcom-d/
 url_canonical: https://www.fool.com/investing/2026/07/11/apple-ceo-tim-cook-announces-30-billion-broadcom-d/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-11_060831_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 5be3d8a8b71cf54f4d15e15da7e680e9b70a90207f74c72a991d2cec28a64459

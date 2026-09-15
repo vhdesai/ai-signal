@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: TechCircle
 url_original: https://www.techcircle.in/2026/05/28/cognizant-deploys-anthropic-s-claude-ai-to-modernise-travelport-s-travel-platform
 url_canonical: https://www.techcircle.in/2026/05/28/cognizant-deploys-anthropic-s-claude-ai-to-modernise-travelport-s-travel-platform
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 7f10a36181476e1c034b9213416f1957d49a36f25ab203ee3d5e68e8fa449b91

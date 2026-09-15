@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
+- 2026-09-12-ai-builders-own-warnings-intensify-after-rogue-agent-inciden
+- 2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario
 - 2026-08-23-openai-executive-warns-of-ongoing-persistent-ai-driven-cyber
-- 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
-- 2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk
 embedding_id: 2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Guardian reports on renewed warnings that AI systems may be approaching hard
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]] · [[2026-08-23-openai-executive-warns-of-ongoing-persistent-ai-driven-cyber]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]]
+**Related:** [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]] · [[2026-09-12-ai-builders-own-warnings-intensify-after-rogue-agent-inciden]] · [[2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario]] · [[2026-08-23-openai-executive-warns-of-ongoing-persistent-ai-driven-cyber]]
 <!-- graph:end -->

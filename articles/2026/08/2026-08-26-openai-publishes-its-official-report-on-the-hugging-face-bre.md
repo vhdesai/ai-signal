@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/
 url_canonical: https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_062029_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: ee823047cd6389a8a9f6c3ea2ef0e52212dcfe9f530fefe93d767aeb928ba286

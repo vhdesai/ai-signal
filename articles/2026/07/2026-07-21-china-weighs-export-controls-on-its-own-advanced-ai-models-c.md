@@ -5,7 +5,7 @@ date: '2026-07-21'
 source: The Next Web
 url_original: https://thenextweb.com/news/china-ai-model-chip-export-controls-ft-report
 url_canonical: https://thenextweb.com/news/china-ai-model-chip-export-controls-ft-report
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-22_065707_Final-Daily-AI-News-Digest.md
 content_hash: e05f285d5cddfa032562c20b62640b63f237cec45dbd00015e2de8bcaf9265ea
 normalized_title_hash: eeac936e39dc917f

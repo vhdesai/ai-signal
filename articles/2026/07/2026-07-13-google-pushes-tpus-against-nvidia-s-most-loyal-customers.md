@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Google%20TPU%20Nvidia%20customers
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Google%20TPU%20Nvidia%20customers
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-14_060635_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 8a930a1cb9ccc95d106cd39c0c09790e8b9e2726d9e51e4cf1864011c00a5f4c

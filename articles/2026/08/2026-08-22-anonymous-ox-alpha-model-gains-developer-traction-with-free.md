@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: '[The Next Web]'
 url_original: https://thenextweb.com/news/ox-alpha-stealth-model-openrouter-anonymous-provider
 url_canonical: https://thenextweb.com/news/ox-alpha-stealth-model-openrouter-anonymous-provider
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-23_061214_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: 88ab1a1099b6f97849d0515f68b8133e940811efc0709a1868fabbcbe0a1d679

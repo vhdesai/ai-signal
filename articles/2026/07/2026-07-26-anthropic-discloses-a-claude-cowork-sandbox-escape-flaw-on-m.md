@@ -5,7 +5,7 @@ date: '2026-07-26'
 source: The Next Web
 url_original: https://thenextweb.com/news/claude-cowork-sandbox-escape-mac-files-sharedroot
 url_canonical: https://thenextweb.com/news/claude-cowork-sandbox-escape-mac-files-sharedroot
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-27_061009_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: aa17661bb14719025886ec01b595e6e5b55f98dc40baa65d45806768fd2e0b8c

@@ -20,6 +20,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne
+- 2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario
 - 2026-08-31-financial-stability-board-chair-flags-ai-cyber-risk-as-immed
 - 2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u
 - 2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica
@@ -35,5 +36,5 @@ Reuters reported that the UN human rights chief warned AI could pose existential
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne]] · [[2026-08-31-financial-stability-board-chair-flags-ai-cyber-risk-as-immed]] · [[2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u]] · [[2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica]]
+**Related:** [[2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne]] · [[2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario]] · [[2026-08-31-financial-stability-board-chair-flags-ai-cyber-risk-as-immed]] · [[2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u]] · [[2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica]]
 <!-- graph:end -->

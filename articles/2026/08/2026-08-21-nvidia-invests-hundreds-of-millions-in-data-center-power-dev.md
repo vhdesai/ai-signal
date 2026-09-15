@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: TechCrunch / WSJ / Reuters
 url_original: https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/
 url_canonical: https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_060854_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 4a81458d8e3ceb9c7dd1e900dbb30f1d2ffda972e14674a592b91522d3892263

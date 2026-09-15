@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/08/25/agentic-web-search-infrastructure-startup-keenable-raises-26m/
 url_canonical: https://siliconangle.com/2026/08/25/agentic-web-search-infrastructure-startup-keenable-raises-26m/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-26_060307_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 01c1847504a35da8e6880275c20d463400d98f2ff6b06af43d8ef827f04e394b

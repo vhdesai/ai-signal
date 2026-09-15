@@ -5,7 +5,7 @@ date: '2026-08-12'
 source: OpenAI Blog
 url_original: https://openai.com/index/testing-ads-in-chatgpt/
 url_canonical: https://openai.com/index/testing-ads-in-chatgpt/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-13_095216_Final-Daily-AI-News-Digest.md
 content_hash: 54ac54c36baf0d9a7cf17f8e6eab204c527aef6b1bbcc945b4a2fb01c3e2a693
 normalized_title_hash: c3957bdb57f1b1c0

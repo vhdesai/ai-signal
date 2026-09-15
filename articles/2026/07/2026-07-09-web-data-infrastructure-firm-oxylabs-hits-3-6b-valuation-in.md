@@ -6,7 +6,7 @@ date: '2026-07-09'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/07/09/web-data-scraping-infrastructure-startup-oxylabs-reels-130m-first-ever-funding-round/
 url_canonical: https://siliconangle.com/2026/07/09/web-data-scraping-infrastructure-startup-oxylabs-reels-130m-first-ever-funding-round/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-11_065220_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 2c2fe6d91015cd47da4b23e758a34a68767c141fe56e2f4ade0611cde69c49b6

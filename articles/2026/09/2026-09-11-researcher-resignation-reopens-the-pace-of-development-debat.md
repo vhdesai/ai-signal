@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Homeland Security Today**
 url_original: https://www.hstoday.us/subject-matter-areas/ai-and-advanced-tech/anthropic-blocks-potential-bioweapon-misuse-as-former-ai-researcher-warns-of-greater-threats-to-humanity/
 url_canonical: https://www.hstoday.us/subject-matter-areas/ai-and-advanced-tech/anthropic-blocks-potential-bioweapon-misuse-as-former-ai-researcher-warns-of-greater-threats-to-humanity/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-11_065100_Final-Daily-AI-News-Digest.md
 content_hash: 07aa071a22f95627d507ac5e26bc47fc950b723eda7b142e6aa5c8fe519012fa
 normalized_title_hash: 39aae49633e1303b
@@ -30,7 +30,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-09-anthropic-pretraining-researcher-resigns-alignment-lead-puts
-- 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
+- 2026-09-12-another-anthropic-researcher-resigns-citing-ai-extinction-ri
+- 2026-09-12-saturday-september-12-2026
 embedding_id: 2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat
 event_name: ''
 ---
@@ -44,5 +45,5 @@ Jacob Coxon, a researcher who worked at both Anthropic and OpenAI, resigned publ
 
 **Entities:** [[AMD]] · [[Anthropic]] · [[Intel]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Policy & Regulation]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-09-anthropic-pretraining-researcher-resigns-alignment-lead-puts]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]]
+**Related:** [[2026-09-09-anthropic-pretraining-researcher-resigns-alignment-lead-puts]] · [[2026-09-12-another-anthropic-researcher-resigns-citing-ai-extinction-ri]] · [[2026-09-12-saturday-september-12-2026]]
 <!-- graph:end -->

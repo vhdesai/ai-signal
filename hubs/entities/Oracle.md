@@ -1,16 +1,38 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 189
+member_count: 211
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 189 connected article(s).
+> Auto-generated entity hub. 211 connected article(s).
 
+- `2026-09-14` [[2026-09-14-oracle-health-expands-clinical-ai-agent-to-nurses|Oracle Health Expands Clinical AI Agent to Nurses]]
+- `2026-09-14` [[2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale|Oracle Begins Layoffs as Ellison Cancels $7.5B Stock Sale]]
+- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy targets $50M in annual cost savings with AI]]
+- `2026-09-13` [[2026-09-13-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale|Oracle begins layoffs as Ellison cancels $7.5B share sale]]
+- `2026-09-13` [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-ai-standard|Anthropic, OpenAI, and Google Quietly Discussed an AI Standards Body]]
+- `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
+- `2026-09-12` [[2026-09-12-saturday-september-12-2026|Saturday, September 12, 2026]]
+- `2026-09-12` [[2026-09-12-oracle-reportedly-weighing-further-job-cuts-as-ai-data-cente|Oracle Reportedly Weighing Further Job Cuts as AI Data-Center Spending Pressures Cash]]
+- `2026-09-12` [[2026-09-12-openai-s-agents-api-enters-public-beta-renting-out-the-codex|OpenAI's Agents API enters public beta, renting out the Codex harness with nine partner sandboxes]]
+- `2026-09-12` [[2026-09-12-openai-s-agents-api-puts-the-codex-harness-behind-a-single-c|OpenAI's Agents API Puts the Codex Harness Behind a Single Call]]
+- `2026-09-11` [[2026-09-11-tech-layoffs-pass-180-000-in-2026-as-capex-reallocates-towar|Tech layoffs pass 180,000 in 2026 as capex reallocates toward AI]]
+- `2026-09-11` [[2026-09-11-senator-josh-hawley-formally-opens-senate-investigation-into|Senator Josh Hawley formally opens Senate investigation into OpenAI's Hugging Face hack]]
 - `2026-09-11` [[2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat|Researcher Resignation Reopens the Pace-of-Development Debate]]
+- `2026-09-11` [[2026-09-11-positron-ai-raises-875m-at-a-5b-valuation-for-memory-first-i|Positron AI raises $875M at a $5B valuation for memory-first inference silicon]]
+- `2026-09-11` [[2026-09-11-positron-ai-closes-875m-at-a-5b-valuation-for-memory-first-i|Positron AI closes $875M at a $5B valuation for memory-first inference hardware]]
+- `2026-09-11` [[2026-09-11-oracle-delivers-30-top-line-growth-on-28-5b-capex-quarter-fu|Oracle delivers 30% top-line growth on $28.5B capex quarter, funded largely by customer prepayments]]
+- `2026-09-11` [[2026-09-11-oracle-posts-664b-ai-cloud-backlog-and-negative-free-cash-fl|Oracle Posts $664B AI Cloud Backlog — and Negative Free Cash Flow]]
+- `2026-09-11` [[2026-09-11-oracle-expands-restructuring-by-another-700m-as-ai-data-cent|Oracle Expands Restructuring by Another $700M as AI Data-Center Costs Mount]]
+- `2026-09-11` [[2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a|Oracle Books $664B AI Cloud Backlog, Then Gives Back Most of a 7% Rally]]
+- `2026-09-11` [[2026-09-11-microsoft-targets-more-than-38-gigawatts-of-data-center-capa|Microsoft targets more than 38 gigawatts of data-center capacity by 2032]]
+- `2026-09-11` [[2026-09-11-microsoft-plans-38-gigawatts-of-data-center-capacity-by-2032|Microsoft Plans 38 Gigawatts of Data-Center Capacity by 2032]]
+- `2026-09-11` [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe|An Anthropic researcher's doomsday warning lands at a pointed moment]]
 - `2026-09-10` [[2026-09-10-oracle-books-664b-ai-backlog-and-negative-free-cash-flow|Oracle Books $664B AI Backlog — and Negative Free Cash Flow]]
 - `2026-09-10` [[2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents|OpenAI Opens the Codex Harness to Developers via the Agents API]]
+- `2026-09-10` [[2026-09-10-openai-opens-the-agents-api-in-public-beta|OpenAI Opens the Agents API in Public Beta]]
 - `2026-09-09` [[2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t|Oracle is the AI hyperscaler most likely to blink; earnings today are the tell]]
 - `2026-09-08` [[2026-09-08-arm-doubles-its-semi-custom-server-ceiling-with-neoverse-css|Arm doubles its semi-custom server ceiling with Neoverse CSS N4 for agentic workloads]]
 - `2026-09-07` [[2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o|SDxCentral reports Nvidia has handed off governance of the Open Secure AI Alliance — a coalition of 120+ organizations including Broadcom, Cisco, HPE, Palo Alto Networks, Microsoft, Amazon, IBM, and CrowdStrike — to the Linux Foundation for neutral stewardship. The alliance was formed in the wake of the Hugging Face breach by rogue OpenAI agents and hosts SAFE, a shared AI incident findings exchange. OpenAI, Anthropic, Google, and Oracle remain notable non-members, complicating industry-wide adoption of the emerging AI-security defensive stack.]]

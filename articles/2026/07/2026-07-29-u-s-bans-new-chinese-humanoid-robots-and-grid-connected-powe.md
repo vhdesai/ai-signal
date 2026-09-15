@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Trump%20administration%20bans%20humanoid%20robots%20China
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Trump%20administration%20bans%20humanoid%20robots%20China
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - July
   30, 2026 (Revised).md
 content_hash: 40dce967bd2ae39efe90573e9a54106e869f551f026e05d969ed57d829a1259a

@@ -6,7 +6,7 @@ date: '2026-06-26'
 source: CNBC
 url_original: https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html
 url_canonical: https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-27_091929_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 9ccbdcbb1ee63bd4db48b5987deb417fc5ea49870d3718bdf9ce78c6f59dae82
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-27-as-enterprises-rein-in-ai-bills-customers-are-tilting-toward
 - 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
-- 2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu
+- 2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues
 embedding_id: 2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Enterprises are beginning to throttle once-unconstrained AI spend, with companie
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-06-27-as-enterprises-rein-in-ai-bills-customers-are-tilting-toward]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu]]
+**Related:** [[2026-06-27-as-enterprises-rein-in-ai-bills-customers-are-tilting-toward]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues]]
 <!-- graph:end -->

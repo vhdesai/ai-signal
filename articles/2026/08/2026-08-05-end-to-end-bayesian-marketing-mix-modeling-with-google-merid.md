@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization/
 url_canonical: https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 855e923ff063e5b6348a01467afeae630fa3ec86a5cd69b4281699349a936d57
@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6
 - 2026-08-03-openai-is-explicitly-framing-gpt-5-6-around-price-performanc
 - 2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and
+- 2026-09-11-notable-arxiv-ml-submissions-dated-friday-11-september
 embedding_id: 2026-08-05-end-to-end-bayesian-marketing-mix-modeling-with-google-merid
 event_name: ''
 ---
@@ -37,5 +38,5 @@ A technical walkthrough builds a complete Bayesian marketing-mix-modeling pipeli
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s]] · [[2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6]] · [[2026-08-03-openai-is-explicitly-framing-gpt-5-6-around-price-performanc]] · [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and]]
+**Related:** [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s]] · [[2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6]] · [[2026-08-03-openai-is-explicitly-framing-gpt-5-6-around-price-performanc]] · [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and]] · [[2026-09-11-notable-arxiv-ml-submissions-dated-friday-11-september]]
 <!-- graph:end -->

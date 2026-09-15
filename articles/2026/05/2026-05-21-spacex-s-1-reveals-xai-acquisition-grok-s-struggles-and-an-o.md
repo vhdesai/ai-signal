@@ -5,7 +5,7 @@ date: '2026-05-21'
 source: 'Source: Ars Technica'
 url_original: https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/
 url_canonical: https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: cd6ff0615ec870813ba4c9f2a4f0f20859475c71379c56e585af8649a90bfc4e

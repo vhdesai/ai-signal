@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html
 url_canonical: https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_061505_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 766f899b370c73d7a9a3ddff08597fe143e93e39e49b2048a5ee8c0ff5724af7

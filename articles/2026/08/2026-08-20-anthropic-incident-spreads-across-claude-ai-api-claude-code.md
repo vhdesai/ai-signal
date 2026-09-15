@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: Unite.AI
 url_original: https://www.unite.ai/claude-outage-hits-claude-ai-api-claude-code-and-cowork-as-errors-spread-across-models/
 url_canonical: https://www.unite.ai/claude-outage-hits-claude-ai-api-claude-code-and-cowork-as-errors-spread-across-models/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-21_061353_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 864df5f7ebbbe77d3ccdadc037a8d025101cbf9a69a5623847f8afce6f2f9c82

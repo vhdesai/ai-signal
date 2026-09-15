@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: MIT News
 url_original: https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826
 url_canonical: https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-26_061028_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 6e379a318274b48f01bd5ce4be9eddce79dca436c7f69fde50990e7f0539679d

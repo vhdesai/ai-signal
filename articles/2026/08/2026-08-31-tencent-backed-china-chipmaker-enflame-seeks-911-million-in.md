@@ -26,7 +26,8 @@ related_article_ids:
 - 2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo
 - 2026-09-02-tencent-backed-enflame-s-ipo-draws-4-073-times-retail-demand
 - 2026-09-02-tencent-backed-enflame-draws-6-000x-retail-oversubscription
-- 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
+- 2026-09-11-tencent-backed-enflame-roughly-triples-on-shanghai-star-mark
+- 2026-09-11-enflame-s-shanghai-debut-completes-china-s-domestic-gpu-coho
 embedding_id: 2026-08-31-tencent-backed-china-chipmaker-enflame-seeks-911-million-in
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Bloomberg reports that Tencent-backed Enflame is seeking roughly $911 million in
 
 **Entities:** [[Tencent]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo]] · [[2026-09-02-tencent-backed-enflame-s-ipo-draws-4-073-times-retail-demand]] · [[2026-09-02-tencent-backed-enflame-draws-6-000x-retail-oversubscription]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]]
+**Related:** [[2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo]] · [[2026-09-02-tencent-backed-enflame-s-ipo-draws-4-073-times-retail-demand]] · [[2026-09-02-tencent-backed-enflame-draws-6-000x-retail-oversubscription]] · [[2026-09-11-tencent-backed-enflame-roughly-triples-on-shanghai-star-mark]] · [[2026-09-11-enflame-s-shanghai-debut-completes-china-s-domestic-gpu-coho]]
 <!-- graph:end -->

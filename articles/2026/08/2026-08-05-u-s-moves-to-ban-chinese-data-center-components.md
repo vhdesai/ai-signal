@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device
 - 2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component
+- 2026-09-11-fcc-s-finalized-transceiver-rule-lets-chinese-optical-vendor
 - 2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte
-- 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
 embedding_id: 2026-08-05-u-s-moves-to-ban-chinese-data-center-components
 event_name: ''
 ---
@@ -38,5 +38,5 @@ WSJ Pro Cybersecurity reports that the U.S. government is advancing plans to ban
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device]] · [[2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component]] · [[2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]]
+**Related:** [[2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device]] · [[2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component]] · [[2026-09-11-fcc-s-finalized-transceiver-rule-lets-chinese-optical-vendor]] · [[2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte]]
 <!-- graph:end -->

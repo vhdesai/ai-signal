@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: Princeton AI Lab
 url_original: https://ai.princeton.edu/ai-lab
 url_canonical: https://ai.princeton.edu/ai-lab
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 965695606dcfdc9d4d82e7a3dd2be408c5696458ba9e47069bfd130aa5c6da64
@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-09-01-princeton-expands-institutional-support-for-ai-and-data-scie
 - 2026-09-01-princeton-establishes-data-and-intelligent-systems-dais-as-a
 - 2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni
+- 2026-09-13-princeton-and-ucla-mathematicians-press-for-norms-on-ai-assi
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
-- 2026-05-13-conference-proceedings-published-through-springer-today-high
 embedding_id: 2026-05-26-princeton-ai-lab-recaps-physical-foundations-of-intelligent
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Princeton's AI Lab posted a recap and full video from its faculty workshop on th
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-01-princeton-expands-institutional-support-for-ai-and-data-scie]] · [[2026-09-01-princeton-establishes-data-and-intelligent-systems-dais-as-a]] · [[2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-13-conference-proceedings-published-through-springer-today-high]]
+**Related:** [[2026-09-01-princeton-expands-institutional-support-for-ai-and-data-scie]] · [[2026-09-01-princeton-establishes-data-and-intelligent-systems-dais-as-a]] · [[2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni]] · [[2026-09-13-princeton-and-ucla-mathematicians-press-for-norms-on-ai-assi]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]]
 <!-- graph:end -->

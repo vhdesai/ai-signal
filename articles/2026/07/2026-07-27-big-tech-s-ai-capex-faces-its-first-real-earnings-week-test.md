@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: Yahoo Finance · DealBook
 url_original: https://finance.yahoo.com/technology/ai/articles/alphabet-amazon-meta-spend-over-040500298.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/alphabet-amazon-meta-spend-over-040500298.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-27_065741_Final-Daily-AI-News-Digest.md
 content_hash: 3608abd766967b3e5f9d501dfed7cc54f06026faaf2c8622b7ba89610a7b46b1
 normalized_title_hash: 96dff084ff487d4d

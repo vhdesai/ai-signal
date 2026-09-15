@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/amazons-stake-anthropic-could-worth-152700734.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/amazons-stake-anthropic-could-worth-152700734.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-07_061807_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 51c7fb2e7cd05ba3582505e757e70ad5a53fcb819f01970f7636f84dd2f8a6df

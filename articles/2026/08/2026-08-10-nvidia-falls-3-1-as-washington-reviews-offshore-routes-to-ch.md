@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: 24/7 Wall St.
 url_original: https://247wallst.com/cards/nvidia-nvda-price-swing-01kzp9nqbrrvjv2gktbn5wgf8f
 url_canonical: https://247wallst.com/cards/nvidia-nvda-price-swing-01kzp9nqbrrvjv2gktbn5wgf8f
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_062021_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: c7e46c81a545826003866f4db92c5dc230ab11e00cb7b6b75194dffdb476855b

@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: TechNode / PYMNTS
 url_original: https://technode.com/2026/08/06/deepseek-plans-significant-api-price-increases/
 url_canonical: https://technode.com/2026/08/06/deepseek-plans-significant-api-price-increases/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-07_084748_Final-Daily-AI-News-Digest.md
 content_hash: baace6c98c0c1b7ecb57a4dbf58ab922aafbe2ad5e50475cba5160a1734dbae9
 normalized_title_hash: d24e751b35d6d0a5
@@ -28,6 +28,7 @@ related_article_ids:
 - 2026-08-06-deepseek-resumes-funding-talks-and-plans-to-hike-model-price
 - 2026-08-06-deepseek-resumes-funding-talks-plans-to-hike-model-prices
 - 2026-06-03-deepseek-prepares-7-billion-maiden-fundraise
+- 2026-09-11-deepseek-v4-1-flash-resets-inference-price-performance-with
 embedding_id: 2026-08-06-deepseek-restarts-8b-raise-and-plans-significant-api-price-i
 event_name: ''
 ---
@@ -41,5 +42,5 @@ DeepSeek has reopened a funding round targeting approximately $8 billion at a ~$
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]] · [[2026-08-06-deepseek-resumes-funding-talks-and-plans-to-hike-model-price]] · [[2026-08-06-deepseek-resumes-funding-talks-plans-to-hike-model-prices]] · [[2026-06-03-deepseek-prepares-7-billion-maiden-fundraise]]
+**Related:** [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]] · [[2026-08-06-deepseek-resumes-funding-talks-and-plans-to-hike-model-price]] · [[2026-08-06-deepseek-resumes-funding-talks-plans-to-hike-model-prices]] · [[2026-06-03-deepseek-prepares-7-billion-maiden-fundraise]] · [[2026-09-11-deepseek-v4-1-flash-resets-inference-price-performance-with]]
 <!-- graph:end -->

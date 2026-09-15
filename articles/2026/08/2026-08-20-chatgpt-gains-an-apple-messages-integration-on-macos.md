@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: 9to5Mac
 url_original: https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac/
 url_canonical: https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_061248_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 952c079f8913aa5c5c66dc36a498e276761044060e1499d80f792df1a1b19078

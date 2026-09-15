@@ -1,14 +1,53 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1371
+member_count: 1411
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1371 connected article(s).
+> Auto-generated entity hub. 1411 connected article(s).
 
+- `2026-09-14` [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor|Shanghai AI Lab ships Intern W0, a force-tactile physical world model for robotics]]
+- `2026-09-14` [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f|Shanghai AI Lab Ships Intern W0, a Physical World Model for Force-Tactile Robotics]]
+- `2026-09-14` [[2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-model-use|NVIDIA, Palantir, and Booz Allen Restrict Anthropic Model Use Over Data Fears]]
+- `2026-09-14` [[2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors|NVIDIA Expands CUDA-Q to Fault-Tolerant Quantum Processors]]
+- `2026-09-14` [[2026-09-14-exclusive-nvidia-palantir-and-booz-allen-restrict-anthropic|Exclusive: Nvidia, Palantir, and Booz Allen restrict Anthropic and OpenAI model use over data fears]]
+- `2026-09-14` [[2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin|Chip and memory stocks sell off as coordinated safety warnings hit the AI trade]]
+- `2026-09-14` [[2026-09-14-chip-stocks-sell-off-as-amodei-altman-safety-warnings-hit-th|Chip Stocks Sell Off as Amodei/Altman Safety Warnings Hit the AI Trade]]
+- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy targets $50M in annual cost savings with AI]]
+- `2026-09-14` [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo|Anthropic picks Nasdaq for potential IPO]]
+- `2026-09-13` [[2026-09-13-sam-altman-confirms-openai-will-not-ipo-in-2026|Sam Altman Confirms OpenAI Will Not IPO in 2026]]
+- `2026-09-13` [[2026-09-13-safety-becomes-the-frontier-story-and-capital-keeps-accelera|Safety Becomes the Frontier Story — and Capital Keeps Accelerating]]
+- `2026-09-13` [[2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers|Nvidia's growing dependence on a handful of AI customers]]
+- `2026-09-13` [[2026-09-13-nvidia-weighs-up-to-10b-as-anchor-investor-in-anthropic-s-2t|Nvidia weighs up to $10B as anchor investor in Anthropic's ~$2T IPO]]
+- `2026-09-13` [[2026-09-13-nvidia-weighs-up-to-10b-anchor-stake-in-anthropic-ipo-at-rou|Nvidia Weighs Up to $10B Anchor Stake in Anthropic IPO at Roughly $2 Trillion]]
+- `2026-09-13` [[2026-09-13-nvidia-s-customer-concentration-reaches-a-new-high|NVIDIA's Customer Concentration Reaches a New High]]
+- `2026-09-13` [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-ai-standard|Anthropic, OpenAI, and Google Quietly Discussed an AI Standards Body]]
+- `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
+- `2026-09-13` [[2026-09-13-amazon-not-nvidia-carries-the-larger-balance-sheet-exposure|Amazon, not Nvidia, carries the larger balance-sheet exposure to Anthropic's compute build]]
+- `2026-09-12` [[2026-09-12-saturday-september-12-2026|Saturday, September 12, 2026]]
+- `2026-09-12` [[2026-09-12-positron-valued-at-5b-in-new-funding-as-ai-chip-demand-surge|Positron valued at $5B in new funding as AI chip demand surges]]
+- `2026-09-12` [[2026-09-12-nvidia-weighing-a-10b-anchor-investment-in-an-anthropic-ipo|Nvidia Weighing a $10B Anchor Investment in an Anthropic IPO at a ~$2 Trillion Valuation]]
+- `2026-09-12` [[2026-09-12-ibm-deploys-ai-limb-tracking-at-the-us-open|IBM Deploys AI Limb Tracking at the US Open]]
+- `2026-09-12` [[2026-09-12-google-deepmind-acqui-hires-mechanize-ai-talent-in-reported|Google DeepMind acqui-hires Mechanize AI talent in reported $1.5B coding-agent deal]]
+- `2026-09-12` [[2026-09-12-anthropic-in-talks-for-a-record-100b-ipo-at-a-2-trillion-val|Anthropic in talks for a record ~$100B IPO at a ~$2 trillion valuation, with Nvidia weighing a $10B anchor]]
+- `2026-09-12` [[2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues|Anthropic and OpenAI now capture 89% of AI startup revenues]]
+- `2026-09-12` [[2026-09-12-altman-confirms-openai-ipo-pushed-to-2027-nvidia-in-talks-to|Altman confirms OpenAI IPO pushed to 2027; Nvidia in talks to invest up to $10B in Anthropic's $2T IPO]]
+- `2026-09-11` [[2026-09-11-tencent-backed-enflame-roughly-triples-on-shanghai-star-mark|Tencent-backed Enflame roughly triples on Shanghai STAR Market debut after $912M raise]]
+- `2026-09-11` [[2026-09-11-senator-josh-hawley-formally-opens-senate-investigation-into|Senator Josh Hawley formally opens Senate investigation into OpenAI's Hugging Face hack]]
+- `2026-09-11` [[2026-09-11-reuters-nvidia-in-talks-to-invest-up-to-10b-in-anthropic-s-i|Reuters: Nvidia in talks to invest up to $10B in Anthropic's IPO]]
 - `2026-09-11` [[2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat|Researcher Resignation Reopens the Pace-of-Development Debate]]
+- `2026-09-11` [[2026-09-11-oracle-delivers-30-top-line-growth-on-28-5b-capex-quarter-fu|Oracle delivers 30% top-line growth on $28.5B capex quarter, funded largely by customer prepayments]]
+- `2026-09-11` [[2026-09-11-nvidia-in-talks-to-invest-up-to-10b-as-anchor-investor-in-an|Nvidia in talks to invest up to $10B as anchor investor in Anthropic's IPO at ~$2T valuation]]
+- `2026-09-11` [[2026-09-11-nvidia-in-talks-to-anchor-anthropic-ipo-at-2-trillion-valuat|Nvidia in Talks to Anchor Anthropic IPO at ~$2 Trillion Valuation]]
+- `2026-09-11` [[2026-09-11-nscale-adds-ex-openai-no-2-fidji-simo-to-board-ahead-of-pote|Nscale adds ex-OpenAI No. 2 Fidji Simo to board ahead of potential IPO]]
+- `2026-09-11` [[2026-09-11-nvidia-in-talks-to-invest-up-to-10b-in-anthropic-s-ipo|NVIDIA in Talks to Invest Up to $10B in Anthropic's IPO]]
+- `2026-09-11` [[2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-on-rush-f|Mecka AI nears $500M valuation in Sequoia-led round on rush for robot training data]]
+- `2026-09-11` [[2026-09-11-enflame-s-shanghai-debut-completes-china-s-domestic-gpu-coho|Enflame's Shanghai Debut Completes China's Domestic GPU Cohort]]
+- `2026-09-11` [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe|An Anthropic researcher's doomsday warning lands at a pointed moment]]
+- `2026-09-11` [[2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment|Amazon's expanded Nvidia agreement takes its GPU commitment to roughly 3 million chips]]
+- `2026-09-10` [[2026-09-10-pentagon-in-talks-to-lend-5b-to-ai-cloud-startup-fluidstack|Pentagon in Talks to Lend $5B to AI Cloud Startup Fluidstack]]
 - `2026-09-10` [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par|Nvidia commits to Australia 2GW AI buildout with 8 local partners]]
 - `2026-09-10` [[2026-09-10-nvidia-and-palantir-productize-a-sovereign-supply-chain-ai-s|Nvidia and Palantir productize a sovereign supply-chain AI stack, starting with Nvidia's own chain]]
 - `2026-09-10` [[2026-09-10-nvidia-and-palantir-productize-a-sovereign-ai-stack-with-nvi|Nvidia and Palantir productize a sovereign AI stack, with Nvidia as first customer]]
@@ -18,6 +57,7 @@ member_count: 1371
 - `2026-09-10` [[2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai|Mistral and Cloudera partner on sovereign enterprise AI]]
 - `2026-09-10` [[2026-09-10-huawei-raises-ascend-ai-chip-prices-60-as-china-s-nvidia-alt|Huawei raises Ascend AI chip prices ~60% as China's Nvidia alternatives face supply crunch]]
 - `2026-09-10` [[2026-09-10-huawei-lifts-ascend-950dt-pricing-60-as-hbm-shortage-reaches|Huawei lifts Ascend 950DT pricing ~60% as HBM shortage reaches China]]
+- `2026-09-10` [[2026-09-10-doj-investigating-nvidia-s-20b-groq-license-and-hire-deal-fo|DOJ investigating Nvidia's $20B Groq license-and-hire deal for antitrust workaround]]
 - `2026-09-10` [[2026-09-10-ayar-labs-extends-round-to-650m-as-copper-interconnect-hits|Ayar Labs Extends Round to $650M as Copper Interconnect Hits Its Limit]]
 - `2026-09-09` [[2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight|Nvidia partners with Australia on a 2GW buildout with eight local operators]]
 - `2026-09-08` [[2026-09-08-arm-doubles-its-semi-custom-server-ceiling-with-neoverse-css|Arm doubles its semi-custom server ceiling with Neoverse CSS N4 for agentic workloads]]

@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=America%20hates%20data%20centers
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=America%20hates%20data%20centers
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-23_060515_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: e5e11150fc8096835719ace9461b0839ddaad579df8e0bc26fc6da3dd875b417

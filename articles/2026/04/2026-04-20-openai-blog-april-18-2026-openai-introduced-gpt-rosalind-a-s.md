@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-16-openai-gpt-rosalind-targets-life-sciences-research
+- 2026-09-11-gpt-rosalind-exits-research-preview-for-life-sciences-organi
 - 2026-06-03-openai-upgrades-gpt-rosalind-for-life-sciences-research
 - 2026-05-29-openai-introduces-gpt-rosalind-biodefense-for-pandemic-prepa
 - 2026-05-28-openai-briefs-white-house-on-gpt-rosalind-biodefense-program
-- 2026-05-28-openai-briefs-white-house-on-biodefense-program-built-on-gpt
 embedding_id: 2026-04-20-openai-blog-april-18-2026-openai-introduced-gpt-rosalind-a-s
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI Blog • April 18, 2026 OpenAI introduced GPT-Rosalind, a specialized var
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-16-openai-gpt-rosalind-targets-life-sciences-research]] · [[2026-06-03-openai-upgrades-gpt-rosalind-for-life-sciences-research]] · [[2026-05-29-openai-introduces-gpt-rosalind-biodefense-for-pandemic-prepa]] · [[2026-05-28-openai-briefs-white-house-on-gpt-rosalind-biodefense-program]] · [[2026-05-28-openai-briefs-white-house-on-biodefense-program-built-on-gpt]]
+**Related:** [[2026-04-16-openai-gpt-rosalind-targets-life-sciences-research]] · [[2026-09-11-gpt-rosalind-exits-research-preview-for-life-sciences-organi]] · [[2026-06-03-openai-upgrades-gpt-rosalind-for-life-sciences-research]] · [[2026-05-29-openai-introduces-gpt-rosalind-biodefense-for-pandemic-prepa]] · [[2026-05-28-openai-briefs-white-house-on-gpt-rosalind-biodefense-program]]
 <!-- graph:end -->

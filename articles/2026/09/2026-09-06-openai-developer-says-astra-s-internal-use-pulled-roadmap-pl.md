@@ -6,7 +6,7 @@ date: '2026-09-06'
 source: The Decoder
 url_original: https://the-decoder.com/openai-developer-claims-astra-boosted-productivity-so-much-it-pulled-some-plans-forward-by-six-months/
 url_canonical: https://the-decoder.com/openai-developer-claims-astra-boosted-productivity-so-much-it-pulled-some-plans-forward-by-six-months/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-06_061415_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: 845a5adeaf4481398a7a5c32f08ae5172b54fefd7d58b8e7ed3dafb1826f5e3f
@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-09-06-openai-engineer-says-internal-astra-use-pulled-roadmap-plans
 - 2026-08-09-openai-pauses-astra-after-first-ever-critical-cyber-classifi
 - 2026-09-06-sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-use
+- 2026-09-11-openai-pauses-200-chatgpt-pro-sign-ups-as-astra-demand-outru
 - 2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne
 embedding_id: 2026-09-06-openai-developer-says-astra-s-internal-use-pulled-roadmap-pl
 event_name: ''
@@ -38,5 +39,5 @@ An OpenAI developer, Thibault Sottiaux, said internally that GPT-6 Astra was the
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-06-openai-engineer-says-internal-astra-use-pulled-roadmap-plans]] · [[2026-08-09-openai-pauses-astra-after-first-ever-critical-cyber-classifi]] · [[2026-09-06-sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-use]] · [[2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne]]
+**Related:** [[2026-09-06-openai-engineer-says-internal-astra-use-pulled-roadmap-plans]] · [[2026-08-09-openai-pauses-astra-after-first-ever-critical-cyber-classifi]] · [[2026-09-06-sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-use]] · [[2026-09-11-openai-pauses-200-chatgpt-pro-sign-ups-as-astra-demand-outru]] · [[2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: eWeek
 url_original: https://www.eweek.com/news/firmus-2-billion-ai-infrastructure-raise/
 url_canonical: https://www.eweek.com/news/firmus-2-billion-ai-infrastructure-raise/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_060300_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 5c979be418f39c793543c9a32c625a20cb24fb5d92009d097a8482adbfcea39f

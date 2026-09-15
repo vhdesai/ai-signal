@@ -5,7 +5,7 @@ date: '2026-06-19'
 source: DevOps.com
 url_original: https://devops.com/anthropic-brings-live-shareable-artifacts-to-claude-code/
 url_canonical: https://devops.com/anthropic-brings-live-shareable-artifacts-to-claude-code/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-20_070006_Final-Daily-AI-News-Digest.md
 content_hash: 134792b56acb2d105c58b861d7e346609e931b07042f49b9db1319aa7456dfea
 normalized_title_hash: 78b3a602c29f4935

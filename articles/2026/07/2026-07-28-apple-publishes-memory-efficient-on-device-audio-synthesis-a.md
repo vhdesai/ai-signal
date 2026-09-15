@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: Apple Machine Learning Research
 url_original: https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers
 url_canonical: https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-30_060904_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 2a7c244e8e181420b084298b8a8615cf43b2e0276be6a0b799a39216d7efe34c

@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Anadolu Agency
 url_original: https://www.aa.com.tr/en/economy/alibaba-unveils-largest-most-capable-ai-model-qwen38-max/4016942
 url_canonical: https://www.aa.com.tr/en/economy/alibaba-unveils-largest-most-capable-ai-model-qwen38-max/4016942
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_062620_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 079f4c518135ed23f105070f8eb9600d35c8ac85e3ccbf9acde704625e8259e5

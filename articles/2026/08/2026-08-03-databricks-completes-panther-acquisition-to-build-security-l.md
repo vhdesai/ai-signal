@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Databricks Blog
 url_original: https://www.databricks.com/blog/databricks-completes-acquisition-panther-accelerating-security-lakehouse-era
 url_canonical: https://www.databricks.com/blog/databricks-completes-acquisition-panther-accelerating-security-lakehouse-era
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_061719_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 367be154e2043e32f0053f0b8b4affe7c720d76df66aedfa02d9269bd9a1c720

@@ -5,7 +5,7 @@ date: '2026-07-24'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/
 url_canonical: https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-26_060512_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 2dce85762b8bad84f83361143b96a69d93d1a34f7c01c2a5296cd90edc4c1377

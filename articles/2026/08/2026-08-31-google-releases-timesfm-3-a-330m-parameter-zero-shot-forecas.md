@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore
 - 2026-08-31-google-research-releases-timesfm-3-a-330m-parameter-zero-sho
+- 2026-09-12-google-research-timesfm-3-forecasts-from-sales-weather-and-p
+- 2026-09-12-google-research-releases-timesfm-3-for-single-pass-exogenous
 - 2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo
-- 2026-08-03-timesfm-2-5-is-notable-because-it-emphasizes-the-full-foreca
-- 2026-04-03-google-research-released-timesfm-time-series-foundation-mode
 embedding_id: 2026-08-31-google-releases-timesfm-3-a-330m-parameter-zero-shot-forecas
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TimesFM-3 handles multivariate time-series forecasting in a single forward pass 
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore]] · [[2026-08-31-google-research-releases-timesfm-3-a-330m-parameter-zero-sho]] · [[2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo]] · [[2026-08-03-timesfm-2-5-is-notable-because-it-emphasizes-the-full-foreca]] · [[2026-04-03-google-research-released-timesfm-time-series-foundation-mode]]
+**Related:** [[2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore]] · [[2026-08-31-google-research-releases-timesfm-3-a-330m-parameter-zero-sho]] · [[2026-09-12-google-research-timesfm-3-forecasts-from-sales-weather-and-p]] · [[2026-09-12-google-research-releases-timesfm-3-for-single-pass-exogenous]] · [[2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo]]
 <!-- graph:end -->

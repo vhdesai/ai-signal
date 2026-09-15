@@ -1,18 +1,59 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1509
+member_count: 1551
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1509 connected article(s).
+> Auto-generated topic hub. 1551 connected article(s).
 
+- `2026-09-14` [[2026-09-14-oracle-health-expands-clinical-ai-agent-to-nurses|Oracle Health Expands Clinical AI Agent to Nurses]]
+- `2026-09-14` [[2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale|Oracle Begins Layoffs as Ellison Cancels $7.5B Stock Sale]]
+- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy targets $50M in annual cost savings with AI]]
+- `2026-09-13` [[2026-09-13-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale|Oracle begins layoffs as Ellison cancels $7.5B share sale]]
+- `2026-09-13` [[2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers|Nvidia's growing dependence on a handful of AI customers]]
+- `2026-09-13` [[2026-09-13-nvidia-s-customer-concentration-reaches-a-new-high|NVIDIA's Customer Concentration Reaches a New High]]
+- `2026-09-13` [[2026-09-13-hpe-carries-a-7-6b-ai-order-backlog-as-memory-supply-lags|HPE carries a $7.6B AI order backlog as memory supply lags]]
+- `2026-09-13` [[2026-09-13-chinese-researchers-demonstrate-100x-endurance-improvement-i|Chinese researchers demonstrate ~100x endurance improvement in wurtzite ferroelectric memory]]
+- `2026-09-13` [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-ai-standard|Anthropic, OpenAI, and Google Quietly Discussed an AI Standards Body]]
+- `2026-09-13` [[2026-09-13-anthropic-strikes-13-7b-six-year-compute-deal-with-trump-lin|Anthropic strikes $13.7B, six-year compute deal with Trump-linked Rum Group]]
+- `2026-09-13` [[2026-09-13-anthropic-signs-13-7b-six-year-compute-deal-with-trump-linke|Anthropic Signs $13.7B, Six-Year Compute Deal With Trump-Linked Rum Group]]
+- `2026-09-13` [[2026-09-13-amazon-not-nvidia-carries-the-larger-balance-sheet-exposure|Amazon, not Nvidia, carries the larger balance-sheet exposure to Anthropic's compute build]]
+- `2026-09-12` [[2026-09-12-saturday-september-12-2026|Saturday, September 12, 2026]]
+- `2026-09-12` [[2026-09-12-positron-valued-at-5b-in-new-funding-as-ai-chip-demand-surge|Positron valued at $5B in new funding as AI chip demand surges]]
+- `2026-09-12` [[2026-09-12-oracle-reportedly-weighing-further-job-cuts-as-ai-data-cente|Oracle Reportedly Weighing Further Job Cuts as AI Data-Center Spending Pressures Cash]]
+- `2026-09-12` [[2026-09-12-nebius-and-palantir-announce-sovereign-ai-partnership-behind|Nebius and Palantir Announce Sovereign-AI Partnership Behind a $250B Capacity Ambition]]
+- `2026-09-12` [[2026-09-12-marvell-framed-as-a-key-beneficiary-of-the-ai-factory-decade|Marvell framed as a key beneficiary of the AI factory decade]]
+- `2026-09-12` [[2026-09-12-deepseek-v4-1-flash-ships-a-new-encoder-decoder-architecture|DeepSeek V4.1-Flash ships a new encoder-decoder architecture and a 60% cut to cached-input pricing]]
+- `2026-09-12` [[2026-09-12-china-s-ai-industry-pivots-from-models-to-agents-inference-f|China's AI industry pivots from models to agents; inference forecast at 80% of compute by 2029]]
+- `2026-09-12` [[2026-09-12-ai-data-centers-may-create-far-fewer-jobs-than-projected-thi|AI data centers may create far fewer jobs than projected, think tank warns]]
+- `2026-09-11` [[2026-09-11-tech-layoffs-pass-180-000-in-2026-as-capex-reallocates-towar|Tech layoffs pass 180,000 in 2026 as capex reallocates toward AI]]
+- `2026-09-11` [[2026-09-11-spacex-signs-another-1-11b-month-compute-rental-deal-targets|SpaceX signs another ~$1.11B/month compute rental deal, targets $100B annualized run rate]]
+- `2026-09-11` [[2026-09-11-senator-josh-hawley-formally-opens-senate-investigation-into|Senator Josh Hawley formally opens Senate investigation into OpenAI's Hugging Face hack]]
+- `2026-09-11` [[2026-09-11-reuters-nvidia-in-talks-to-invest-up-to-10b-in-anthropic-s-i|Reuters: Nvidia in talks to invest up to $10B in Anthropic's IPO]]
 - `2026-09-11` [[2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat|Researcher Resignation Reopens the Pace-of-Development Debate]]
+- `2026-09-11` [[2026-09-11-positron-ai-closes-875m-at-a-5b-valuation-for-memory-first-i|Positron AI closes $875M at a $5B valuation for memory-first inference hardware]]
+- `2026-09-11` [[2026-09-11-pentagon-in-talks-on-a-5b-loan-to-ai-cloud-startup-fluidstac|Pentagon in talks on a ~$5B loan to AI cloud startup Fluidstack]]
+- `2026-09-11` [[2026-09-11-pentagon-in-talks-to-lend-fluidstack-5b-for-data-center-supp|Pentagon in Talks to Lend Fluidstack ~$5B for Data-Center Supply Chain]]
+- `2026-09-11` [[2026-09-11-oracle-delivers-30-top-line-growth-on-28-5b-capex-quarter-fu|Oracle delivers 30% top-line growth on $28.5B capex quarter, funded largely by customer prepayments]]
+- `2026-09-11` [[2026-09-11-oracle-posts-664b-ai-cloud-backlog-and-negative-free-cash-fl|Oracle Posts $664B AI Cloud Backlog — and Negative Free Cash Flow]]
+- `2026-09-11` [[2026-09-11-oracle-expands-restructuring-by-another-700m-as-ai-data-cent|Oracle Expands Restructuring by Another $700M as AI Data-Center Costs Mount]]
+- `2026-09-11` [[2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a|Oracle Books $664B AI Cloud Backlog, Then Gives Back Most of a 7% Rally]]
+- `2026-09-11` [[2026-09-11-new-mexico-supreme-court-fines-attorney-5-000-over-chatgpt-f|New Mexico Supreme Court fines attorney $5,000 over ChatGPT-fabricated witness testimony]]
+- `2026-09-11` [[2026-09-11-nvidia-in-talks-to-invest-up-to-10b-in-anthropic-s-ipo|NVIDIA in Talks to Invest Up to $10B in Anthropic's IPO]]
+- `2026-09-11` [[2026-09-11-microsoft-targets-more-than-38-gigawatts-of-data-center-capa|Microsoft targets more than 38 gigawatts of data-center capacity by 2032]]
+- `2026-09-11` [[2026-09-11-microsoft-targets-38-gigawatts-of-data-center-capacity-by-20|Microsoft targets 38 gigawatts of data-center capacity by 2032]]
+- `2026-09-11` [[2026-09-11-microsoft-aims-to-triple-azure-capacity-to-38gw-by-2032-amid|Microsoft aims to triple Azure capacity to 38GW by 2032 amid persistent server shortage]]
+- `2026-09-11` [[2026-09-11-microsoft-plans-38-gigawatts-of-data-center-capacity-by-2032|Microsoft Plans 38 Gigawatts of Data-Center Capacity by 2032]]
 - `2026-09-11` [[2026-09-11-former-openai-executive-fidji-simo-joins-nscale-s-board|Former OpenAI Executive Fidji Simo Joins Nscale's Board]]
+- `2026-09-11` [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe|An Anthropic researcher's doomsday warning lands at a pointed moment]]
+- `2026-09-11` [[2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment|Amazon's expanded Nvidia agreement takes its GPU commitment to roughly 3 million chips]]
+- `2026-09-11` [[2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a|$500K in grants funds non-transformer architecture research at Stanford, MIT, Berkeley, UT Austin and Yale]]
 - `2026-09-10` [[2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten|The Information: SpaceX overhauls data-center build-out, potentially slowing expansion]]
 - `2026-09-10` [[2026-09-10-tsmc-august-revenue-up-53-3-to-a-record-nt-514-8b-advanced-n|TSMC August revenue up 53.3% to a record NT$514.8B; advanced nodes fully booked]]
 - `2026-09-10` [[2026-09-10-spacex-overhauls-xai-data-center-build-out-reliability-over|SpaceX Overhauls xAI Data-Center Build-Out — Reliability Over Speed]]
+- `2026-09-10` [[2026-09-10-pentagon-in-talks-to-lend-5b-to-ai-cloud-startup-fluidstack|Pentagon in Talks to Lend $5B to AI Cloud Startup Fluidstack]]
 - `2026-09-10` [[2026-09-10-oracle-books-664b-ai-backlog-and-negative-free-cash-flow|Oracle Books $664B AI Backlog — and Negative Free Cash Flow]]
 - `2026-09-10` [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par|Nvidia commits to Australia 2GW AI buildout with 8 local partners]]
 - `2026-09-10` [[2026-09-10-nvidia-and-palantir-productize-a-sovereign-supply-chain-ai-s|Nvidia and Palantir productize a sovereign supply-chain AI stack, starting with Nvidia's own chain]]
@@ -23,6 +64,7 @@ member_count: 1509
 - `2026-09-10` [[2026-09-10-huawei-raises-ascend-ai-chip-prices-60-as-china-s-nvidia-alt|Huawei raises Ascend AI chip prices ~60% as China's Nvidia alternatives face supply crunch]]
 - `2026-09-10` [[2026-09-10-huawei-lifts-ascend-950dt-pricing-60-as-hbm-shortage-reaches|Huawei lifts Ascend 950DT pricing ~60% as HBM shortage reaches China]]
 - `2026-09-10` [[2026-09-10-china-s-ai-chip-prices-jump-20-50-as-hbm-shortage-bites|China's AI Chip Prices Jump 20–50% as HBM Shortage Bites]]
+- `2026-09-10` [[2026-09-10-blackstone-s-tpu-spending-surges-into-multiples-of-the-origi|Blackstone's TPU spending surges into "multiples" of the original $5B Google deal]]
 - `2026-09-10` [[2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data|Amazon, Meta, and Google risk losing multibillion-dollar data-center tax deals as states rip up terms]]
 - `2026-09-09` [[2026-09-09-wsj-watch-the-ai-boom-s-weakest-link|WSJ: Watch the AI boom's "weakest link"]]
 - `2026-09-09` [[2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t|Oracle is the AI hyperscaler most likely to blink; earnings today are the tell]]

@@ -5,7 +5,7 @@ date: '2026-07-19'
 source: Bloomberg
 url_original: https://finance.yahoo.com/technology/ai/articles/big-tech-needs-justify-ai-130000854.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/big-tech-needs-justify-ai-130000854.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-20_065739_Final-Daily-AI-News-Digest.md
 content_hash: 2c3b9341b05cd18d0e567e82c1f2b4ca2db84ba86505c77194c9d8d8dac28aea
 normalized_title_hash: 8e5c5076885b67b5

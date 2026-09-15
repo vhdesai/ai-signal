@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI+dismiss+Apple+lawsuit
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI+dismiss+Apple+lawsuit
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-07_065329_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: b31985dcd2f40304e1674245b186c9ddb9ca8870dcc57c9e80f463300fac5971

@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: Unite.AI
 url_original: https://www.unite.ai/micron-unveils-micron-research-labs-with-10b-decade-long-memory-and-ai-research-push/
 url_canonical: https://www.unite.ai/micron-unveils-micron-research-labs-with-10b-decade-long-memory-and-ai-research-push/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-21_065332_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 131e4ea8e54a770d3f0ab5172fd8bbd871d61ce59d22e0139ab1226b4cc0972a

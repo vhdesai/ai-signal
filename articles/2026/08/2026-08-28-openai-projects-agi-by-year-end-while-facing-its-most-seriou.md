@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario
 - 2026-08-04-wednesday-august-5-2026-prepared-for-senior-technology-leade
 - 2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i
 - 2026-08-07-openai-pauses-astra-model-development-after-reaching-critica
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
-- 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
 embedding_id: 2026-08-28-openai-projects-agi-by-year-end-while-facing-its-most-seriou
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Forbes examines the gap between OpenAI's public timeline for artificial general 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-04-wednesday-august-5-2026-prepared-for-senior-technology-leade]] · [[2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i]] · [[2026-08-07-openai-pauses-astra-model-development-after-reaching-critica]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]]
+**Related:** [[2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario]] · [[2026-08-04-wednesday-august-5-2026-prepared-for-senior-technology-leade]] · [[2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i]] · [[2026-08-07-openai-pauses-astra-model-development-after-reaching-critica]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]]
 <!-- graph:end -->

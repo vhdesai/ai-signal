@@ -6,7 +6,7 @@ date: '2026-07-15'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/
 url_canonical: https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-17_092848_Final-Daily-AI-News-Digest.md
 content_hash: 645c8c7bedf6d6656122f1e52fddbecb4996e99ab9fbc261f7178b012ac5ecff
 normalized_title_hash: 0bcd21919b5dc8e9

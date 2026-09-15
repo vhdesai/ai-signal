@@ -5,7 +5,7 @@ date: '2026-07-16'
 source: The Motley Fool**
 url_original: https://www.fool.com/coverage/stock-market-today/2026/07/16/stock-market-today-july-16-micron-plunges-as-tech-stocks-extend-sell-off/
 url_canonical: https://www.fool.com/coverage/stock-market-today/2026/07/16/stock-market-today-july-16-micron-plunges-as-tech-stocks-extend-sell-off/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-17_065015_Final-Daily-AI-News-Digest.md
 content_hash: 5e1946a13dbb43bc2bd61632c1da27f647a4152c323cac558b2d5cb90c0571f3
 normalized_title_hash: 750f7cee1a3aaccd
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 - 2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip
 - 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat
+- 2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin
 - 2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st
-- 2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface
 embedding_id: 2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Memory and chip leaders fell sharply — Micron among the biggest decliners — 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat]] · [[2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st]] · [[2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface]]
+**Related:** [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat]] · [[2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin]] · [[2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st]]
 <!-- graph:end -->

@@ -1,16 +1,59 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1300
+member_count: 1343
 ---
 
 # Google
 
-> Auto-generated entity hub. 1300 connected article(s).
+> Auto-generated entity hub. 1343 connected article(s).
 
+- `2026-09-14` [[2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale|Oracle Begins Layoffs as Ellison Cancels $7.5B Stock Sale]]
+- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy targets $50M in annual cost savings with AI]]
+- `2026-09-13` [[2026-09-13-sunday-september-13-2026|Sunday, September 13, 2026]]
+- `2026-09-13` [[2026-09-13-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale|Oracle begins layoffs as Ellison cancels $7.5B share sale]]
+- `2026-09-13` [[2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers|Nvidia's growing dependence on a handful of AI customers]]
+- `2026-09-13` [[2026-09-13-jeff-dean-s-stealth-ai-startup-identified-as-discovery-loop|Jeff Dean's stealth AI startup identified as "Discovery Loop"; ~$50B target]]
+- `2026-09-13` [[2026-09-13-google-researcher-dissents-stability-is-the-speed-limit|Google Researcher Dissents: “Stability Is the Speed Limit”]]
+- `2026-09-13` [[2026-09-13-google-deepmind-safety-researcher-resigns-as-google-moves-ai|Google DeepMind safety researcher resigns as Google moves AI Responsibility team out of DeepMind]]
+- `2026-09-13` [[2026-09-13-google-deepmind-safety-researcher-resigns-warns-of-terrifyin|Google DeepMind Safety Researcher Resigns, Warns of "Terrifying Chance" of Major AI Harm]]
+- `2026-09-13` [[2026-09-13-firstpost-moneycontrol-and-storyboard18-report-another-googl|Firstpost, Moneycontrol, and Storyboard18 report another Google DeepMind AI safety researcher has resigned, publicly citing a "terrifying chance" AI could cause immense harm. Times of India also reports Google is moving its AI responsibility team out of DeepMind entirely, starting this month — a structural shift that critics say weakens safety integration inside model development. Combined with the Amodei/Altman/Hassabis slowdown call, the day's news suggests unusually coordinated concern from within the industry itself.]]
+- `2026-09-13` [[2026-09-13-anthropic-openai-and-google-quietly-discussed-forming-an-ind|Anthropic, OpenAI, and Google quietly discussed forming an industry AI safety standards body]]
+- `2026-09-13` [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-ai-standard|Anthropic, OpenAI, and Google Quietly Discussed an AI Standards Body]]
+- `2026-09-13` [[2026-09-13-anthropic-strikes-13-7b-six-year-compute-deal-with-trump-lin|Anthropic strikes $13.7B, six-year compute deal with Trump-linked Rum Group]]
+- `2026-09-13` [[2026-09-13-anthropic-signs-13-7b-six-year-compute-deal-with-trump-linke|Anthropic Signs $13.7B, Six-Year Compute Deal With Trump-Linked Rum Group]]
+- `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
+- `2026-09-13` [[2026-09-13-amodei-the-industry-lied-about-ai-risks-altman-and-hassabis|Amodei: "The Industry Lied About AI Risks" — Altman and Hassabis Align on Slowdown]]
+- `2026-09-13` [[2026-09-13-altman-musk-and-hassabis-publicly-back-the-pacing-proposal|Altman, Musk and Hassabis Publicly Back the Pacing Proposal]]
+- `2026-09-12` [[2026-09-12-two-more-safety-researchers-leave-anthropic-and-deepmind-for|Two more safety researchers leave Anthropic and DeepMind for METR]]
+- `2026-09-12` [[2026-09-12-two-more-frontier-lab-safety-researchers-resign-and-both-mov|Two more frontier-lab safety researchers resign — and both move to the independent evaluator]]
+- `2026-09-12` [[2026-09-12-the-decoder-openai-agents-ran-a-2-000-package-rubygems-cyber|The Decoder: OpenAI agents ran a 2,000-package RubyGems cyberattack in May, targets never notified]]
+- `2026-09-12` [[2026-09-12-ibm-deploys-ai-limb-tracking-at-the-us-open|IBM Deploys AI Limb Tracking at the US Open]]
+- `2026-09-12` [[2026-09-12-google-research-releases-timesfm-3-for-single-pass-exogenous|Google Research releases TimesFM-3 for single-pass, exogenous-aware time-series forecasting]]
+- `2026-09-12` [[2026-09-12-google-research-timesfm-3-forecasts-from-sales-weather-and-p|Google Research TimesFM-3 Forecasts From Sales, Weather and Promotion Schedules in a Single Pass]]
+- `2026-09-12` [[2026-09-12-google-deepmind-acqui-hires-mechanize-ai-talent-in-reported|Google DeepMind acqui-hires Mechanize AI talent in reported $1.5B coding-agent deal]]
+- `2026-09-12` [[2026-09-12-gemini-desktop-app-launches-on-windows-10-and-11|Gemini desktop app launches on Windows 10 and 11]]
+- `2026-09-12` [[2026-09-12-gemini-desktop-app-arrives-on-windows-10-and-11|Gemini Desktop App Arrives on Windows 10 and 11]]
+- `2026-09-12` [[2026-09-12-fortune-reports-ibm-has-deployed-ai-limb-tracking-at-the-us|Fortune reports IBM has deployed AI limb-tracking at the US Open, scoring every tennis serve to give fans real-time biomechanical analytics. It's a high-visibility deployment for IBM Consulting's sports AI stack, following watsonx-based commentary and tie-ins. The launch is notable as a live-event, computer-vision showcase competing directly with sports-AI offerings from AWS, Google Cloud, and Microsoft Azure.]]
+- `2026-09-12` [[2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues|Anthropic and OpenAI now capture 89% of AI startup revenues]]
+- `2026-09-12` [[2026-09-12-ai-data-centers-may-create-far-fewer-jobs-than-projected-thi|AI data centers may create far fewer jobs than projected, think tank warns]]
+- `2026-09-11` [[2026-09-11-spacex-signs-another-1-11b-month-compute-rental-deal-targets|SpaceX signs another ~$1.11B/month compute rental deal, targets $100B annualized run rate]]
+- `2026-09-11` [[2026-09-11-spacex-signs-1-1b-per-month-ai-compute-deal-with-undisclosed|SpaceX Signs $1.1B-Per-Month AI Compute Deal With Undisclosed Customer]]
+- `2026-09-11` [[2026-09-11-senator-josh-hawley-formally-opens-senate-investigation-into|Senator Josh Hawley formally opens Senate investigation into OpenAI's Hugging Face hack]]
+- `2026-09-11` [[2026-09-11-pentagon-in-talks-on-a-5b-loan-to-ai-cloud-startup-fluidstac|Pentagon in talks on a ~$5B loan to AI cloud startup Fluidstack]]
+- `2026-09-11` [[2026-09-11-pentagon-in-talks-to-lend-fluidstack-5b-for-data-center-supp|Pentagon in Talks to Lend Fluidstack ~$5B for Data-Center Supply Chain]]
+- `2026-09-11` [[2026-09-11-openai-details-habitat-the-storage-platform-now-serving-1b-c|OpenAI details Habitat — the storage platform now serving 1B ChatGPT users at 22M requests/sec]]
+- `2026-09-11` [[2026-09-11-jeff-dean-s-stealth-ai-startup-reportedly-raising-at-50b-val|Jeff Dean's stealth AI startup reportedly raising at ~$50B valuation]]
+- `2026-09-11` [[2026-09-11-jeff-dean-reportedly-raising-for-new-ai-startup-at-50b-valua|Jeff Dean Reportedly Raising for New AI Startup at ~$50B Valuation]]
+- `2026-09-11` [[2026-09-11-google-cloud-publishes-thomas-kurian-s-goldman-sachs-communi|Google Cloud publishes Thomas Kurian's Goldman Sachs Communicopia disclosures]]
+- `2026-09-11` [[2026-09-11-ex-deepmind-research-head-vinyals-ai-self-improvement-is-rea|Ex-DeepMind research head Vinyals: AI self-improvement is real, but no intelligence explosion]]
+- `2026-09-11` [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe|An Anthropic researcher's doomsday warning lands at a pointed moment]]
 - `2026-09-10` [[2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten|The Information: SpaceX overhauls data-center build-out, potentially slowing expansion]]
+- `2026-09-10` [[2026-09-10-pentagon-in-talks-to-lend-5b-to-ai-cloud-startup-fluidstack|Pentagon in Talks to Lend $5B to AI Cloud Startup Fluidstack]]
 - `2026-09-10` [[2026-09-10-google-deepmind-proposes-autoregressive-ranking-to-replace-d|Google DeepMind proposes Autoregressive Ranking to replace dual/cross-encoder search stacks]]
+- `2026-09-10` [[2026-09-10-blackstone-s-tpu-spending-surges-into-multiples-of-the-origi|Blackstone's TPU spending surges into "multiples" of the original $5B Google deal]]
 - `2026-09-10` [[2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data|Amazon, Meta, and Google risk losing multibillion-dollar data-center tax deals as states rip up terms]]
+- `2026-09-10` [[2026-09-10-amazon-lets-advertisers-buy-chatgpt-ads-through-amazon-s-ad|Amazon lets advertisers buy ChatGPT ads through Amazon's ad-tech platform]]
 - `2026-09-09` [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo|US government accuses six Chinese AI firms of large-scale model distillation]]
 - `2026-09-09` [[2026-09-09-sergey-brin-is-quietly-reshaping-google-s-gemini-roadmap|Sergey Brin is quietly reshaping Google's Gemini roadmap]]
 - `2026-09-09` [[2026-09-09-sergey-brin-cements-influence-over-google-s-gemini-roadmap|Sergey Brin Cements Influence Over Google's Gemini Roadmap]]

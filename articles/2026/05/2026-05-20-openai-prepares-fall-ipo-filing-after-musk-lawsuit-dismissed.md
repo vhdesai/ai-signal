@@ -25,10 +25,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety
 - 2026-04-13-industry-news
 - 2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call
 - 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
-- 2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for
 embedding_id: 2026-05-20-openai-prepares-fall-ipo-filing-after-musk-lawsuit-dismissed
 event_name: ''
 ---
@@ -42,5 +42,5 @@ With Elon Musk's two-year suit dismissed, OpenAI is preparing to file for an IPO
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-04-13-industry-news]] · [[2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for]]
+**Related:** [[2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety]] · [[2026-04-13-industry-news]] · [[2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]]
 <!-- graph:end -->

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
 - 2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge
 - 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
-- 2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt
+- 2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a
 embedding_id: 2026-05-12-tilde-research-introduces-aurora-leverage-aware-optimizer-fi
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Tilde Research released Aurora, a new neural network training optimizer targetin
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-18-import-ai-457-ai-stuxnet-the-muon-optimizer-and-positive-ali]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]] · [[2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt]]
+**Related:** [[2026-05-18-import-ai-457-ai-stuxnet-the-muon-optimizer-and-positive-ali]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]] · [[2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a]]
 <!-- graph:end -->

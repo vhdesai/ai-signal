@@ -5,7 +5,7 @@ date: '2026-05-22'
 source: prodSens / AI News
 url_original: https://prodsens.live/2026/05/22/openai-opens-singapore-ai-lab-as-imda-updates-ai-framework/
 url_canonical: https://prodsens.live/2026/05/22/openai-opens-singapore-ai-lab-as-imda-updates-ai-framework/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 829176f922f350f0f63b68e8ee4ba61d54dfe7dbc6c610ce986837ba95bbaf26

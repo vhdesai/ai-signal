@@ -5,7 +5,7 @@ date: '2026-07-17'
 source: Al Jazeera**
 url_original: https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it
 url_canonical: https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-18_065018_Final-Daily-AI-News-Digest.md
 content_hash: 8963448f3cdff9a6fbe4268ca09aed003f20ba788b9ab8056cdbda4f76e6f000
 normalized_title_hash: b435315b34694d4e
@@ -24,6 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere
 - 2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom
+- 2026-09-13-china-says-it-will-create-an-open-source-ai-development-plat
+- 2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight
 - 2026-07-13-read-at-reuters-via-u-s-news
 embedding_id: 2026-07-17-xi-jinping-champions-open-source-ai-and-launches-the-waico-a
 event_name: ''
@@ -37,5 +39,5 @@ At the World AI Conference opening, President Xi promoted open-source AI, pledge
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere]] · [[2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom]] · [[2026-07-13-read-at-reuters-via-u-s-news]]
+**Related:** [[2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere]] · [[2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom]] · [[2026-09-13-china-says-it-will-create-an-open-source-ai-development-plat]] · [[2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight]] · [[2026-07-13-read-at-reuters-via-u-s-news]]
 <!-- graph:end -->

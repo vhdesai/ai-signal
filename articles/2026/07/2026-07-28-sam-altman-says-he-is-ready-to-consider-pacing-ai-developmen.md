@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/
 url_canonical: https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-30_060904_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 6e7b19e71fc0529082ef979bfb899ee949fbf646912dd48594855abf2b855c08
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate
 - 2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo
 - 2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development
+- 2026-09-11-altman-tells-staff-openai-is-open-to-slowing-frontier-develo
 - 2026-08-02-sam-altman-s-ai-deceleration-stance-triggers-industry-debate
-- 2026-08-03-sam-altman-s-suggestion-that-the-industry-should-slow-the-pa
 embedding_id: 2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechCrunch reports that Sam Altman said the world may need to pace AI developmen
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate]] · [[2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo]] · [[2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development]] · [[2026-08-02-sam-altman-s-ai-deceleration-stance-triggers-industry-debate]] · [[2026-08-03-sam-altman-s-suggestion-that-the-industry-should-slow-the-pa]]
+**Related:** [[2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate]] · [[2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo]] · [[2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development]] · [[2026-09-11-altman-tells-staff-openai-is-open-to-slowing-frontier-develo]] · [[2026-08-02-sam-altman-s-ai-deceleration-stance-triggers-industry-debate]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: Blockonomi
 url_original: https://blockonomi.com/oracle-orcl-stock-surge-as-ai-infrastructure-deal-with-hpe-fuels-rally-ahead-of-earnings/
 url_canonical: https://blockonomi.com/oracle-orcl-stock-surge-as-ai-infrastructure-deal-with-hpe-fuels-rally-ahead-of-earnings/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-05_061544_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 214a21fb0d916bc65d13feab907cf2d30162d7c88b79faf05b3a0c4bfedbb60f
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-cisco-shares-jump-18-as-cloud-providers-increase-ai-product
 - 2026-09-03-trending-oracle-closes-up-5-7-on-ai-infrastructure-demand
 - 2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc
-- 2026-09-05-hon-hai-sales-rise-52-on-ai-server-momentum
+- 2026-09-13-hpe-carries-a-7-6b-ai-order-backlog-as-memory-supply-lags
 embedding_id: 2026-09-04-oracle-rallies-as-expanded-hpe-networking-deal-boosts-ai-inf
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Oracle shares rose after an expanded networking partnership with HPE strengthene
 
 **Entities:** [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-03-hpe-expands-oracle-collaboration-for-ai-data-center-networki]] · [[2026-05-14-cisco-shares-jump-18-as-cloud-providers-increase-ai-product]] · [[2026-09-03-trending-oracle-closes-up-5-7-on-ai-infrastructure-demand]] · [[2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc]] · [[2026-09-05-hon-hai-sales-rise-52-on-ai-server-momentum]]
+**Related:** [[2026-09-03-hpe-expands-oracle-collaboration-for-ai-data-center-networki]] · [[2026-05-14-cisco-shares-jump-18-as-cloud-providers-increase-ai-product]] · [[2026-09-03-trending-oracle-closes-up-5-7-on-ai-infrastructure-demand]] · [[2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc]] · [[2026-09-13-hpe-carries-a-7-6b-ai-order-backlog-as-memory-supply-lags]]
 <!-- graph:end -->

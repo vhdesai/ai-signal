@@ -1,13 +1,28 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 420
+member_count: 435
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 420 connected article(s).
+> Auto-generated entity hub. 435 connected article(s).
 
+- `2026-09-13` [[2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai|SCMP: US and China are now openly racing on "self-improving AI"]]
+- `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
+- `2026-09-12` [[2026-09-12-independent-testing-puts-cognition-s-swe-2-narrowly-ahead-of|Independent testing puts Cognition's SWE-2 narrowly ahead of DeepSeek V4.1 Flash — and well ahead of its own base model]]
+- `2026-09-12` [[2026-09-12-deepseek-v4-1-flash-ships-a-new-encoder-decoder-architecture|DeepSeek V4.1-Flash ships a new encoder-decoder architecture and a 60% cut to cached-input pricing]]
+- `2026-09-12` [[2026-09-12-chinese-ai-labs-reportedly-extracted-190m-claude-exchanges-a|Chinese AI labs reportedly extracted 190M Claude exchanges as export controls failed]]
+- `2026-09-11` [[2026-09-11-kimi-maker-moonshot-ai-targets-2b-in-annual-revenue|Kimi-maker Moonshot AI targets $2B in annual revenue]]
+- `2026-09-11` [[2026-09-11-deepseek-v4-1-flash-resets-inference-price-performance-with|DeepSeek V4.1-Flash resets inference price-performance with a $0.003 / 1M cached-input rate]]
+- `2026-09-11` [[2026-09-11-deepseek-v4-1-flash-lands-on-third-party-inference-platforms|DeepSeek V4.1-Flash Lands on Third-Party Inference Platforms With 1M-Token Context]]
+- `2026-09-11` [[2026-09-11-deepseek-v4-1-flash-cuts-agent-memory-costs-fourfold|DeepSeek V4.1-Flash Cuts Agent Memory Costs Fourfold]]
+- `2026-09-11` [[2026-09-11-combinator-s-garry-tan-urges-us-open-weight-labs-to-distill|Combinator's Garry Tan urges US open-weight labs to distill American frontier models]]
+- `2026-09-11` [[2026-09-11-anthropic-threat-report-bioweapon-attempts-blocked-chinese-d|Anthropic threat report: bioweapon attempts blocked, Chinese distillation catalogued, hotel-Wi-Fi hack chain]]
+- `2026-09-11` [[2026-09-11-anthropic-threat-report-chinese-labs-mined-claude-at-scale-f|Anthropic threat report: Chinese labs mined Claude at scale for training data; hackers used it for missile software and drone swarms]]
+- `2026-09-11` [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe|An Anthropic researcher's doomsday warning lands at a pointed moment]]
+- `2026-09-11` [[2026-09-11-ai-agents-used-to-breach-395-organizations-via-papercut-prin|AI agents used to breach 395 organizations via PaperCut print servers]]
+- `2026-09-11` [[2026-09-11-ai-agents-breached-395-organizations-across-48-countries-in|AI Agents Breached 395 Organizations Across 48 Countries in Days]]
 - `2026-09-10` [[2026-09-10-huawei-lifts-ascend-950dt-pricing-60-as-hbm-shortage-reaches|Huawei lifts Ascend 950DT pricing ~60% as HBM shortage reaches China]]
 - `2026-09-10` [[2026-09-10-deepseek-releases-v4-1-flash-with-1m-context-fp4-kv-cache-an|DeepSeek releases V4.1-Flash with 1M context, FP4 KV cache and encoder/decoder split]]
 - `2026-09-10` [[2026-09-10-deepseek-ships-v4-1-flash-and-retires-its-flagship-behind-it|DeepSeek Ships V4.1-Flash and Retires Its Flagship Behind It]]

@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative
 - 2026-05-21-microsoft-ey-deepen-1b-alliance-scaling-copilot-to-400-000-e
 - 2026-09-01-john-ternus-takes-over-as-apple-ceo-tim-cook-becomes-executi
+- 2026-09-11-fidji-simo-joins-nscale-s-board-ahead-of-a-potential-us-list
 - 2026-09-01-john-ternus-takes-over-as-apple-ceo-with-the-company-trailin
-- 2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi
 embedding_id: 2026-05-15-microsoft-names-former-ey-ceo-to-board
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Microsoft added the former chief executive of EY to its board of directors, stre
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative]] · [[2026-05-21-microsoft-ey-deepen-1b-alliance-scaling-copilot-to-400-000-e]] · [[2026-09-01-john-ternus-takes-over-as-apple-ceo-tim-cook-becomes-executi]] · [[2026-09-01-john-ternus-takes-over-as-apple-ceo-with-the-company-trailin]] · [[2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi]]
+**Related:** [[2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative]] · [[2026-05-21-microsoft-ey-deepen-1b-alliance-scaling-copilot-to-400-000-e]] · [[2026-09-01-john-ternus-takes-over-as-apple-ceo-tim-cook-becomes-executi]] · [[2026-09-11-fidji-simo-joins-nscale-s-board-ahead-of-a-potential-us-list]] · [[2026-09-01-john-ternus-takes-over-as-apple-ceo-with-the-company-trailin]]
 <!-- graph:end -->

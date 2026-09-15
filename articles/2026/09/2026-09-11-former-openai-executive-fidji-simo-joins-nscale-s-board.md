@@ -19,12 +19,9 @@ themes:
 - company-storylines
 - infrastructure-investments
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role
-- 2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o
-- 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
+dedupe_status: duplicate
+canonical_article_id: 2026-09-11-fidji-simo-joins-nscale-s-board-ahead-of-a-potential-us-list
+related_article_ids: []
 embedding_id: 2026-09-11-former-openai-executive-fidji-simo-joins-nscale-s-board
 event_name: ''
 ---
@@ -38,5 +35,5 @@ Former OpenAI executive Fidji Simo has joined the board of AI infrastructure sta
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]] · [[2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o]] · [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]]
+**Canonical:** [[2026-09-11-fidji-simo-joins-nscale-s-board-ahead-of-a-potential-us-list]]
 <!-- graph:end -->

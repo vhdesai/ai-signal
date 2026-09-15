@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/anthropic-market-debut-could-break-124722679.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/anthropic-market-debut-could-break-124722679.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_062347_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 40106a11d96f5291a3131dc2ddf1ef2ef216cd74188b5d7428cb402918890777

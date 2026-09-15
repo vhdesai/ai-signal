@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-18-openai-q2-sales-show-tepid-growth-compared-with-anthropic
+- 2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues
 - 2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2
-- 2026-06-21-both-openai-and-anthropic-are-approaching-public-markets-at
 embedding_id: 2026-08-18-openai-s-q2-revenue-growth-lags-anthropic-as-margins-worsen
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI's Q2 2026 revenue grew about 18% quarter-over-quarter to $6.7B while its 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-18-openai-q2-sales-show-tepid-growth-compared-with-anthropic]] · [[2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2]] · [[2026-06-21-both-openai-and-anthropic-are-approaching-public-markets-at]]
+**Related:** [[2026-08-18-openai-q2-sales-show-tepid-growth-compared-with-anthropic]] · [[2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues]] · [[2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2]]
 <!-- graph:end -->

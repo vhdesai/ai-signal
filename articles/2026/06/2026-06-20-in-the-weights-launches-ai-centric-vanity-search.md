@@ -5,7 +5,7 @@ date: '2026-06-20'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/
 url_canonical: https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-21_060000_Daily-AI-News-Digest.md
 content_hash: 973932e34ace780f65112b01adf6a00081df345a39e6baf2a6ad5a645ac73463
 normalized_title_hash: b2ca170cac491fe7

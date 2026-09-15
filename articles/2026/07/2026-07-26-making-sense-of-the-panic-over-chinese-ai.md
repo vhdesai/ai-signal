@@ -5,7 +5,7 @@ date: '2026-07-26'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/
 url_canonical: https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-27_061621_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: bd936ce4924d93fd6cfdcf51cf45d0868c0dadfcb20fd5b81a4b1f1b2c11ada5

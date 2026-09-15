@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
+- 2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment
 - 2026-05-27-snowflake-signs-6b-five-year-deal-with-aws-for-graviton-gpu
 - 2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal
 - 2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027
-- 2026-08-26-amazon-triples-its-nvidia-gpu-commitment-2-million-chips-thr
 embedding_id: 2026-04-23-meta-signs-multi-billion-dollar-chip-agreement-with-aws-on-g
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Meta agreed to a multi-year, multi-billion-dollar deal to run inference workload
 
 **Entities:** [[Amazon]] · [[Meta]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-27-snowflake-signs-6b-five-year-deal-with-aws-for-graviton-gpu]] · [[2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]] · [[2026-08-26-amazon-triples-its-nvidia-gpu-commitment-2-million-chips-thr]]
+**Related:** [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment]] · [[2026-05-27-snowflake-signs-6b-five-year-deal-with-aws-for-graviton-gpu]] · [[2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-07-28'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/
 url_canonical: https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-28_060522_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: d24a20191e189885026e31be14ae6a7376391e466ca2bf63ee75f10980459314
@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-anthropic-clarifies-does-not-oppose-open-weights-but-warns-a
 - 2026-08-06-how-dario-amodei-spread-anthropic-s-religion-and-angered-riv
+- 2026-09-13-anthropic-ceo-s-call-to-slow-frontier-ai-receives-renewed-at
 - 2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return
-- 2026-08-16-amodei-calls-the-ai-backlash-fundamentally-a-crisis-of-trust
 embedding_id: 2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechCrunch reports that Anthropic CEO Dario Amodei clarified his position on ope
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-27-anthropic-clarifies-does-not-oppose-open-weights-but-warns-a]] · [[2026-08-06-how-dario-amodei-spread-anthropic-s-religion-and-angered-riv]] · [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return]] · [[2026-08-16-amodei-calls-the-ai-backlash-fundamentally-a-crisis-of-trust]]
+**Related:** [[2026-07-27-anthropic-clarifies-does-not-oppose-open-weights-but-warns-a]] · [[2026-08-06-how-dario-amodei-spread-anthropic-s-religion-and-angered-riv]] · [[2026-09-13-anthropic-ceo-s-call-to-slow-frontier-ai-receives-renewed-at]] · [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return]]
 <!-- graph:end -->

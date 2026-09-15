@@ -6,7 +6,7 @@ date: '2026-07-26'
 source: Stanford Institute for Economic Policy Research
 url_original: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality
 url_canonical: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-26_061151_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: b9f0bdec2a87cef210827788b8295c8c0d08493d9c2ad1294b91ad1838ec8581

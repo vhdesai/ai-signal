@@ -6,7 +6,7 @@ date: '2026-08-09'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/
 url_canonical: https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-10_062245_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: c7f76480b2eb1088bb83be9cff125e84b8c973074cb5e4b8f91fc2101ca1be18

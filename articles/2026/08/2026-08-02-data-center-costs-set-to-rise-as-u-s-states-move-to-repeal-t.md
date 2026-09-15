@@ -5,7 +5,7 @@ date: '2026-08-02'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=data%20center%20tax%20breaks%20repeal
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=data%20center%20tax%20breaks%20repeal
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-03_060602_Inbox_Daily AI News Digest - August 3,
   2026.md
 content_hash: 24c48d41309727d16f6fe32c8684fe99b7dc34481a439f9657ae72e884ca7bc2

@@ -6,7 +6,7 @@ date: '2026-08-03'
 source: Georgia Tech News
 url_original: https://news.gatech.edu/news/2026/08/03/georgia-tech-lead-national-cloud-laboratory-advanced-manufacturing-and-materials
 url_canonical: https://news.gatech.edu/news/2026/08/03/georgia-tech-lead-national-cloud-laboratory-advanced-manufacturing-and-materials
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-05_070154_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 636e5abe3d68ab49fc8053d8093e9a2eb0eb386c5bc7011497aedf0098f5c84f

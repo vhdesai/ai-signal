@@ -28,9 +28,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s
 - 2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r
+- 2026-09-12-nebius-and-palantir-announce-sovereign-ai-partnership-behind
 - 2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g
 - 2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch
-- 2026-05-26-palantir-ceo-pushes-saas-is-dead-supply-chain-narrative
 embedding_id: 2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Palantir expanded its Ukraine AI cooperation, with CEO Alex Karp meeting Preside
 
 **Entities:** [[Google]] · [[IBM]] · [[Microsoft]] · [[Palantir]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s]] · [[2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r]] · [[2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g]] · [[2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch]] · [[2026-05-26-palantir-ceo-pushes-saas-is-dead-supply-chain-narrative]]
+**Related:** [[2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s]] · [[2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r]] · [[2026-09-12-nebius-and-palantir-announce-sovereign-ai-partnership-behind]] · [[2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g]] · [[2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch]]
 <!-- graph:end -->

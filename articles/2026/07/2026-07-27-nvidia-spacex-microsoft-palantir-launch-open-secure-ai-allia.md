@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html
 url_canonical: https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-27_061621_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: a3bd56204e7cb36be5e2498a95fa1e21be6406406e6b80b225aa29198be1d514

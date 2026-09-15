@@ -5,7 +5,7 @@ date: '2026-08-16'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/
 url_canonical: https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-17_163645_Final-Daily-AI-News-Digest.md
 content_hash: c2b3fc383dbf528554954335feee4badb144654e71bb4a5c53074a950e02d2f6
 normalized_title_hash: d8f08ad2a1188bfa
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-16-anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of
 - 2026-08-16-anthropic-ceo-ai-backlash-is-fundamentally-a-crisis-of-trust
 - 2026-08-16-anthropic-ceo-dario-amodei-the-ai-backlash-is-fundamentally
-- 2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but
+- 2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk
 embedding_id: 2026-08-16-amodei-calls-the-ai-backlash-fundamentally-a-crisis-of-trust
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Anthropic CEO Dario Amodei pushed back on investor Gavin Baker's argument that h
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-16-anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of]] · [[2026-08-16-anthropic-ceo-ai-backlash-is-fundamentally-a-crisis-of-trust]] · [[2026-08-16-anthropic-ceo-dario-amodei-the-ai-backlash-is-fundamentally]] · [[2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but]]
+**Related:** [[2026-08-16-anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of]] · [[2026-08-16-anthropic-ceo-ai-backlash-is-fundamentally-a-crisis-of-trust]] · [[2026-08-16-anthropic-ceo-dario-amodei-the-ai-backlash-is-fundamentally]] · [[2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk]]
 <!-- graph:end -->

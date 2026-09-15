@@ -5,7 +5,7 @@ date: '2026-05-20'
 source: The Information
 url_original: https://www.theinformation.com/briefings/google-unveils-new-video-model-search-upgrades
 url_canonical: https://www.theinformation.com/briefings/google-unveils-new-video-model-search-upgrades
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-20_085232_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 32a0e3201b2fee140045aeddfa83aace7256c6fa0c0fb0e1041484802817897e

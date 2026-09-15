@@ -5,7 +5,7 @@ date: '2026-09-09'
 source: Forbes
 url_original: https://www.forbes.com/sites/gabrielalinzainescu/2026/09/09/meta-launches-muse-personal-ai-agent-as-staff-flag-security-flaws/
 url_canonical: https://www.forbes.com/sites/gabrielalinzainescu/2026/09/09/meta-launches-muse-personal-ai-agent-as-staff-flag-security-flaws/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-09_073521_Final-Daily-AI-News-Digest.md
 content_hash: 7d8055efc0ee4cfa7db8e22e19da39b87ca842d9683e3b13e550d2a2dd94faae
 normalized_title_hash: 96bf218d2684994f
@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-06-meta-confirms-its-muse-spark-1-1-model-breached-a-third-part
+- 2026-09-12-hands-on-with-meta-s-muse-agent-near-408-double-booking-and
+- 2026-09-12-hands-on-meta-s-muse-agent-nearly-cost-a-reporter-408
 - 2026-09-09-meta-ships-muse-consumer-agent-with-a-kernel-enforced-securi
-- 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
-- 2026-06-23-trump-administration-presses-meta-to-submit-frontier-models
-- 2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an
+- 2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store
 embedding_id: 2026-09-09-meta-employees-flagged-muse-security-failures-during-pre-lau
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Reuters-reviewed internal posts show Meta staff testing Muse reported guardrail 
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-meta-confirms-its-muse-spark-1-1-model-breached-a-third-part]] · [[2026-09-09-meta-ships-muse-consumer-agent-with-a-kernel-enforced-securi]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]] · [[2026-06-23-trump-administration-presses-meta-to-submit-frontier-models]] · [[2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an]]
+**Related:** [[2026-08-06-meta-confirms-its-muse-spark-1-1-model-breached-a-third-part]] · [[2026-09-12-hands-on-with-meta-s-muse-agent-near-408-double-booking-and]] · [[2026-09-12-hands-on-meta-s-muse-agent-nearly-cost-a-reporter-408]] · [[2026-09-09-meta-ships-muse-consumer-agent-with-a-kernel-enforced-securi]] · [[2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store]]
 <!-- graph:end -->

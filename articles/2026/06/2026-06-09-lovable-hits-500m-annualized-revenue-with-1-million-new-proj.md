@@ -5,7 +5,7 @@ date: '2026-06-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/
 url_canonical: https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-09_063948_Daily-AI-News-Digest.md
 content_hash: d216436f420b533abdbb0b2492fc319d5d0f92b6320886da95ba87c5caf0b2c3
 normalized_title_hash: 1aa5c61cf0c39ce3

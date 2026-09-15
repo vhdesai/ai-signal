@@ -25,9 +25,9 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-11-enflame-s-shanghai-debut-completes-china-s-domestic-gpu-coho
 - 2026-05-16-breaking-cerberus-ipo-new-nvidia-rival-raises-5-6b-stock-sur
 - 2026-09-02-ipronics-raises-125m-with-nvidia-participation-for-optical-a
-- 2026-09-02-ipronics-raises-125m-with-nvidia-participating-for-programma
 embedding_id: 2026-07-06-infrastructure-china-china-s-biren-raises-892-5m-to-scale-gp
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Infrastructure China China's Biren raises ~$892.5M to scale GPUs against Nvidia 
 
 **Entities:** [[Baidu]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-16-breaking-cerberus-ipo-new-nvidia-rival-raises-5-6b-stock-sur]] · [[2026-09-02-ipronics-raises-125m-with-nvidia-participation-for-optical-a]] · [[2026-09-02-ipronics-raises-125m-with-nvidia-participating-for-programma]]
+**Related:** [[2026-09-11-enflame-s-shanghai-debut-completes-china-s-domestic-gpu-coho]] · [[2026-05-16-breaking-cerberus-ipo-new-nvidia-rival-raises-5-6b-stock-sur]] · [[2026-09-02-ipronics-raises-125m-with-nvidia-participation-for-optical-a]]
 <!-- graph:end -->

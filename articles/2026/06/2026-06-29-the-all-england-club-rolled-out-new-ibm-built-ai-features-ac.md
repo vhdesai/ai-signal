@@ -22,8 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-29-wimbledon-rolls-out-new-ibm-ai-features-for-live-match-cover
+- 2026-09-12-fortune-reports-ibm-has-deployed-ai-limb-tracking-at-the-us
+- 2026-09-12-ibm-deploys-ai-limb-tracking-at-the-us-open
 - 2026-05-23-ferrari-deploys-ibm-ai-to-build-f1-superfans
-- 2026-05-26-scuderia-ferrari-is-using-ibm-s-ai-stack-to-generate-hyper-p
 embedding_id: 2026-06-29-the-all-england-club-rolled-out-new-ibm-built-ai-features-ac
 event_name: ''
 ---
@@ -37,5 +38,5 @@ The All England Club rolled out new IBM-built AI features across the Wimbledon a
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-29-wimbledon-rolls-out-new-ibm-ai-features-for-live-match-cover]] · [[2026-05-23-ferrari-deploys-ibm-ai-to-build-f1-superfans]] · [[2026-05-26-scuderia-ferrari-is-using-ibm-s-ai-stack-to-generate-hyper-p]]
+**Related:** [[2026-06-29-wimbledon-rolls-out-new-ibm-ai-features-for-live-match-cover]] · [[2026-09-12-fortune-reports-ibm-has-deployed-ai-limb-tracking-at-the-us]] · [[2026-09-12-ibm-deploys-ai-limb-tracking-at-the-us-open]] · [[2026-05-23-ferrari-deploys-ibm-ai-to-build-f1-superfans]]
 <!-- graph:end -->

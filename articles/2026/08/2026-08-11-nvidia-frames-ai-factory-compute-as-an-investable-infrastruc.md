@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/
 url_canonical: https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-12_060916_Inbox_Daily AI News Digest - August 12,
   2026.md
 content_hash: 62bbecaaf93cac95657b025331778ad10ffd29849aca92cc09c7b9c963f1517a

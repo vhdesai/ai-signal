@@ -1,0 +1,112 @@
+{
+  "run_id": "20260914T152148+0000-2be790",
+  "started_at": "2026-09-14T15:21:48+00:00",
+  "finished_at": "2026-09-14T16:31:28+00:00",
+  "summary": {
+    "command": "run-daily",
+    "stages": {
+      "ingest": {
+        "digests_total": 1191,
+        "digests_changed": 32,
+        "changed": [
+          "news\\2026-09-12_000000_Publication-Sources.md",
+          "news\\2026-09-12_060641_Inbox_Daily AI News Digest - September 12, 2026.md",
+          "news\\2026-09-12_060708_Inbox_Daily AI News Digest - September 12, 2026.md",
+          "news\\2026-09-12_060721_Inbox_Daily AI News Digest - September 12, 2026.md",
+          "news\\2026-09-12_061125_Inbox_Daily AI News Digest - September 12, 2026.md",
+          "news\\2026-09-12_062119_Inbox_Daily AI News Digest - September 12, 2026.md",
+          "news\\2026-09-12_062305_Inbox_Daily AI News Digest - September 12, 2026.md",
+          "news\\2026-09-12_064812_Inbox_ClawPilot - Daily AI News Digest - September 12, 2026.md",
+          "news\\2026-09-12_065200_Final-Daily-AI-News-Digest.md",
+          "news\\2026-09-12_065357_Inbox_Daily AI News Digest - September 12, 2026.md",
+          "news\\2026-09-12_065710_Final-Daily-AI-News-Digest.md",
+          "news\\2026-09-12_070058_Inbox_Daily AI News Digest - September 12, 2026.md",
+          "news\\2026-09-13_000000_Publication-Sources.md",
+          "news\\2026-09-13_060533_Inbox_Daily AI News Digest - September 13, 2026.md",
+          "news\\2026-09-13_060535_Inbox_Daily AI News Digest - September 13, 2026.md",
+          "news\\2026-09-13_060802_Inbox_Daily AI News Digest - September 13, 2026.md",
+          "news\\2026-09-13_061036_Inbox_Daily AI News Digest - September 13, 2026.md",
+          "news\\2026-09-13_061723_Inbox_Daily AI News Digest - September 13, 2026.md",
+          "news\\2026-09-13_062313_Inbox_Daily AI News Digest - September 13, 2026.md",
+          "news\\2026-09-13_064755_Inbox_ClawPilot - Daily AI News Digest - September 13, 2026.md",
+          "news\\2026-09-13_065200_Final-Daily-AI-News-Digest.md",
+          "news\\2026-09-13_065352_Inbox_Daily AI News Digest - September 13, 2026.md",
+          "news\\2026-09-13_065704_Final-Daily-AI-News-Digest.md",
+          "news\\2026-09-13_070011_Inbox_Daily AI News Digest - September 13, 2026.md",
+          "news\\2026-09-14_065200_Final-Daily-AI-News-Digest.md",
+          "news\\2026-09-14_065706_Final-Daily-AI-News-Digest.md",
+          "news\\Daily AI News Digest - 2026-09-12.md",
+          "news\\Daily AI News Digest - 2026-09-13.md",
+          "news\\Daily AI News Digest - 2026-09-14.md",
+          "news\\daily-ai-news-digest-2026-09-12.md",
+          "news\\daily-ai-news-digest-2026-09-13.md",
+          "news\\daily-ai-news-digest-2026-09-14.md"
+        ]
+      },
+      "split": {
+        "digests_parsed": 1193,
+        "articles_written": 11601,
+        "events_parsed": 85,
+        "event_articles_written": 78,
+        "skipped_publication_sources": 27,
+        "skipped_thin_articles": 4381
+      },
+      "index": {
+        "articles_indexed": 8608,
+        "embeddings": {
+          "enabled": true,
+          "added": 235,
+          "total": 8608,
+          "md_rewritten": 8608
+        }
+      },
+      "dedupe": {
+        "articles": 8608,
+        "exact_duplicates": 6,
+        "canonical": 6323,
+        "semantic_duplicates": 2279,
+        "related_links": 26229
+      },
+      "build-graph": {
+        "status": "ok",
+        "articles_linked": 8608,
+        "wikilinks_emitted": 58847,
+        "entity_hubs": 34,
+        "topic_hubs": 8,
+        "hubs_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\hubs"
+      },
+      "validate-urls": {
+        "checked": 3722,
+        "ok": 2682,
+        "broken": 1040,
+        "missing": 4866,
+        "skipped": 20
+      },
+      "repair-urls": {
+        "attempted": 15,
+        "repaired": 14,
+        "unresolved": 1,
+        "skipped": 0,
+        "reverted": 0,
+        "deferred": 0,
+        "terminated": "completed",
+        "elapsed_s": 251.5,
+        "max_workers": 10
+      },
+      "build-site-daily": {
+        "pages": 268,
+        "articles": 8608,
+        "canonical": 6323,
+        "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site",
+        "mode": "incremental",
+        "changed_articles": 3795,
+        "written_files": 210,
+        "elapsed_s": 16.79
+      },
+      "publish": {
+        "status": "dry-run",
+        "note": "site/ generated locally; no remote publish configured"
+      }
+    }
+  }
+}

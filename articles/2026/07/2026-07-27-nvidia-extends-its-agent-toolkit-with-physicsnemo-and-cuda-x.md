@@ -6,7 +6,7 @@ date: '2026-07-27'
 source: Unite.AI
 url_original: https://www.unite.ai/nvidia-wires-physics-simulation-into-its-ai-agent-toolkit/
 url_canonical: https://www.unite.ai/nvidia-wires-physics-simulation-into-its-ai-agent-toolkit/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-28_060942_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: 3cbc8b4a477e3455f91da257d1bbec73c9645aabe1b262ed9e32923cd951d56b

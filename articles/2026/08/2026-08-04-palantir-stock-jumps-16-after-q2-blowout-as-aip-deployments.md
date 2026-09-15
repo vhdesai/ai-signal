@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: 24/7 Wall St.
 url_original: https://247wallst.com/investing/2026/08/04/palantir-rockets-16-after-q2-blowout-c3-ai-uipath-sit-out-the-rally/
 url_canonical: https://247wallst.com/investing/2026/08/04/palantir-rockets-16-after-q2-blowout-c3-ai-uipath-sit-out-the-rally/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_062620_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 21fdfe0bd29e5477f9f49ceac05390f568b8f5d0efadc6b942f513d7f39a9f42

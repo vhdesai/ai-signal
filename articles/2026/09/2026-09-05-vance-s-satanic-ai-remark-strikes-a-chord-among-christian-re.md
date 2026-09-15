@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: WSJ
 url_original: https://www.wsj.com/tech/ai/vance-called-ai-satanic-he-struck-a-chord-among-christian-republicans-dcc34048
 url_canonical: https://www.wsj.com/tech/ai/vance-called-ai-satanic-he-struck-a-chord-among-christian-republicans-dcc34048
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-06_065650_Final-Daily-AI-News-Digest.md
 content_hash: 88877763ba10a1fe525f4fff222cd785e65e134e43f405c4480f57f42526ba68
 normalized_title_hash: 0a509603662b8c81
@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-14-wsj-pressure-mounts-to-slow-down-ai-development
 - 2026-06-07-wsj-the-artificial-intelligence-backlash
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 - 2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio
-- 2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we
 embedding_id: 2026-09-05-vance-s-satanic-ai-remark-strikes-a-chord-among-christian-re
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Wall Street Journal reports that Vice President Vance's description of AI as
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]] · [[2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we]]
+**Related:** [[2026-09-14-wsj-pressure-mounts-to-slow-down-ai-development]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]]
 <!-- graph:end -->

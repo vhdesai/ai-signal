@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Machine Learning Mastery · Shittu Olumide
 url_original: https://machinelearningmastery.com/the-end-to-end-agentic-ai-pipeline/
 url_canonical: https://machinelearningmastery.com/the-end-to-end-agentic-ai-pipeline/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-31_061058_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: cc82280ac59951644107c097242b1bba1fce7b3f52e9ce2fd45e4f824a5d2864

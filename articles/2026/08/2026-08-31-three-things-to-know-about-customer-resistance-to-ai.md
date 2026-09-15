@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation
 - 2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users
 - 2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali
-- 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
+- 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
 embedding_id: 2026-08-31-three-things-to-know-about-customer-resistance-to-ai
 event_name: ''
 ---
@@ -33,5 +33,5 @@ MIT Sloan Management Review published analysis on customer resistance to AI adop
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]] · [[2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users]] · [[2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali]] · [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]]
+**Related:** [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]] · [[2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users]] · [[2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali]] · [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea]]
 <!-- graph:end -->

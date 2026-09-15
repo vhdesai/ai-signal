@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/
 url_canonical: https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-02_060559_Inbox_Daily AI News Digest - August 2,
   2026.md
 content_hash: b1e06b219817c65351c40d4bdd3006e5a3701c8d156551fcd93902223077ac8e

@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: MediaNama
 url_original: https://www.medianama.com/2026/08/223-openai-presentation-firm-nextslide-chatgpt/
 url_canonical: https://www.medianama.com/2026/08/223-openai-presentation-firm-nextslide-chatgpt/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-10_061806_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: a50493ff17474639cb0277792e0d70de1fac69c85641e6de400874170fab25f6

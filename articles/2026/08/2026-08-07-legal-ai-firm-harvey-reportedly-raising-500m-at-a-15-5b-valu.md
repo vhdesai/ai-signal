@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: '[SiliconANGLE]'
 url_original: https://siliconangle.com/2026/08/07/legal-ai-startup-harvey-reportedly-raising-500m-15-5b-valuation/
 url_canonical: https://siliconangle.com/2026/08/07/legal-ai-startup-harvey-reportedly-raising-500m-15-5b-valuation/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-08_062022_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 9b404e66e44efb6ff49446cd79fcdcd297e9e71d8edea265d7dc6765952734ae

@@ -6,7 +6,7 @@ date: '2026-05-23'
 source: The Motley Fool
 url_original: https://www.fool.com/investing/2026/05/23/this-magnificent-seven-stock-is-the-worst-performe/
 url_canonical: https://www.fool.com/investing/2026/05/23/this-magnificent-seven-stock-is-the-worst-performe/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-24_071254_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 2abc43f9589a01071c163d78ac28403d3549b07f14fbbc93dac49ad79291fbb4

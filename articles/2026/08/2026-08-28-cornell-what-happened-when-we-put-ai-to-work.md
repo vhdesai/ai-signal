@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover
 - 2026-08-12-cornell-expands-its-ai-critical-literacy-program-to-all-inco
+- 2026-09-11-andrew-ng-ai-engineering-skill-is-changing-the-scope-of-the
 - 2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh
 - 2026-05-18-new-cornell-ai-initiative-opens-community-centered-ai-three
-- 2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl
 embedding_id: 2026-08-28-cornell-what-happened-when-we-put-ai-to-work
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Cornell recapped a workshop in which roughly 30 Cornell and Weill Cornell Medici
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]] · [[2026-08-12-cornell-expands-its-ai-critical-literacy-program-to-all-inco]] · [[2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh]] · [[2026-05-18-new-cornell-ai-initiative-opens-community-centered-ai-three]] · [[2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl]]
+**Related:** [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]] · [[2026-08-12-cornell-expands-its-ai-critical-literacy-program-to-all-inco]] · [[2026-09-11-andrew-ng-ai-engineering-skill-is-changing-the-scope-of-the]] · [[2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh]] · [[2026-05-18-new-cornell-ai-initiative-opens-community-centered-ai-three]]
 <!-- graph:end -->

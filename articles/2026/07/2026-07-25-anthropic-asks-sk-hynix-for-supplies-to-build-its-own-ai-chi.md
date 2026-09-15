@@ -5,7 +5,7 @@ date: '2026-07-25'
 source: The Korea Herald
 url_original: https://www.koreaherald.com/article/10758856
 url_canonical: https://www.koreaherald.com/article/10758856
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-26_062227_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: df5795c80731ce8094e41ba4cd373cec20b3730314dfff2444538855d242b324

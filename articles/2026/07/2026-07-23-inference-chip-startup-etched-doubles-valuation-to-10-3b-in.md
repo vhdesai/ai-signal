@@ -5,7 +5,7 @@ date: '2026-07-23'
 source: SiliconANGLE**
 url_original: https://siliconangle.com/2026/07/23/ai-chip-startup-etched-doubles-valuation-10-3b-new-300m-round/
 url_canonical: https://siliconangle.com/2026/07/23/ai-chip-startup-etched-doubles-valuation-10-3b-new-300m-round/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-24_065052_Final-Daily-AI-News-Digest.md
 content_hash: 652db5c22760af26479a6e3a1097f4a7dd3776b45adb6f6aefae83dc9db95c44
 normalized_title_hash: 91268a22a0448e4b

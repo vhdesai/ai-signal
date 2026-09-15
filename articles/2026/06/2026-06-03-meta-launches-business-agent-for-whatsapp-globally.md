@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: Reuters; Meta; TechCrunch
 url_original: https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/
 url_canonical: https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-04_071040_Final-Daily-AI-News-Digest.md
 content_hash: 54c395431439f1542c4747364699a0f8eedd152fd6fcfbdf5680acc96928fbac
 normalized_title_hash: 0c67199e2eae3b01

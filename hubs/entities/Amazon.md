@@ -1,14 +1,34 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 548
+member_count: 568
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 548 connected article(s).
+> Auto-generated entity hub. 568 connected article(s).
 
+- `2026-09-14` [[2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors|NVIDIA Expands CUDA-Q to Fault-Tolerant Quantum Processors]]
+- `2026-09-13` [[2026-09-13-sunday-september-13-2026|Sunday, September 13, 2026]]
+- `2026-09-13` [[2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers|Nvidia's growing dependence on a handful of AI customers]]
+- `2026-09-13` [[2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce|Meta Acquires Stilla.ai to Expand Business Agent Commerce]]
+- `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
+- `2026-09-13` [[2026-09-13-amazon-not-nvidia-carries-the-larger-balance-sheet-exposure|Amazon, not Nvidia, carries the larger balance-sheet exposure to Anthropic's compute build]]
+- `2026-09-13` [[2026-09-13-aws-releases-pizza-bot-an-open-source-inbox-for-background-a|AWS Releases Pizza Bot, an Open-Source Inbox for Background AI Agents]]
+- `2026-09-13` [[2026-09-13-aws-open-sources-pizza-bot-an-inbox-for-background-ai-agents|AWS Open-Sources Pizza Bot, an Inbox for Background AI Agents]]
+- `2026-09-12` [[2026-09-12-nvidia-weighing-a-10b-anchor-investment-in-an-anthropic-ipo|Nvidia Weighing a $10B Anchor Investment in an Anthropic IPO at a ~$2 Trillion Valuation]]
+- `2026-09-12` [[2026-09-12-ibm-deploys-ai-limb-tracking-at-the-us-open|IBM Deploys AI Limb Tracking at the US Open]]
+- `2026-09-12` [[2026-09-12-fortune-reports-ibm-has-deployed-ai-limb-tracking-at-the-us|Fortune reports IBM has deployed AI limb-tracking at the US Open, scoring every tennis serve to give fans real-time biomechanical analytics. It's a high-visibility deployment for IBM Consulting's sports AI stack, following watsonx-based commentary and tie-ins. The launch is notable as a live-event, computer-vision showcase competing directly with sports-AI offerings from AWS, Google Cloud, and Microsoft Azure.]]
+- `2026-09-12` [[2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms|Context Engineering Inside the Agent Harness: Four Mechanisms Against Context Overflow]]
+- `2026-09-12` [[2026-09-12-ai-data-centers-may-create-far-fewer-jobs-than-projected-thi|AI data centers may create far fewer jobs than projected, think tank warns]]
+- `2026-09-11` [[2026-09-11-senator-josh-hawley-formally-opens-senate-investigation-into|Senator Josh Hawley formally opens Senate investigation into OpenAI's Hugging Face hack]]
+- `2026-09-11` [[2026-09-11-openai-pauses-new-200-month-pro-subscriptions-citing-unprece|OpenAI pauses new $200/month Pro subscriptions, citing "unprecedented" Astra demand]]
+- `2026-09-11` [[2026-09-11-microsoft-targets-38-gigawatts-of-data-center-capacity-by-20|Microsoft targets 38 gigawatts of data-center capacity by 2032]]
+- `2026-09-11` [[2026-09-11-microsoft-aims-to-triple-azure-capacity-to-38gw-by-2032-amid|Microsoft aims to triple Azure capacity to 38GW by 2032 amid persistent server shortage]]
+- `2026-09-11` [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe|An Anthropic researcher's doomsday warning lands at a pointed moment]]
+- `2026-09-11` [[2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment|Amazon's expanded Nvidia agreement takes its GPU commitment to roughly 3 million chips]]
 - `2026-09-10` [[2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data|Amazon, Meta, and Google risk losing multibillion-dollar data-center tax deals as states rip up terms]]
+- `2026-09-10` [[2026-09-10-amazon-lets-advertisers-buy-chatgpt-ads-through-amazon-s-ad|Amazon lets advertisers buy ChatGPT ads through Amazon's ad-tech platform]]
 - `2026-09-09` [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo|US government accuses six Chinese AI firms of large-scale model distillation]]
 - `2026-09-08` [[2026-09-08-how-six-aws-engineers-rebuilt-bedrock-as-project-mantle-to-c|How six AWS engineers rebuilt Bedrock as Project Mantle to challenge Microsoft]]
 - `2026-09-07` [[2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o|SDxCentral reports Nvidia has handed off governance of the Open Secure AI Alliance — a coalition of 120+ organizations including Broadcom, Cisco, HPE, Palo Alto Networks, Microsoft, Amazon, IBM, and CrowdStrike — to the Linux Foundation for neutral stewardship. The alliance was formed in the wake of the Hugging Face breach by rogue OpenAI agents and hosts SAFE, a shared AI incident findings exchange. OpenAI, Anthropic, Google, and Oracle remain notable non-members, complicating industry-wide adoption of the emerging AI-security defensive stack.]]

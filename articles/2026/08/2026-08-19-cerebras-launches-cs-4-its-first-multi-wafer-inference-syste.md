@@ -5,7 +5,7 @@ date: '2026-08-19'
 source: The Next Web / Tech Times
 url_original: https://thenextweb.com/news/cerebras-cs-4-wafer-scale-ai-inference-system
 url_canonical: https://thenextweb.com/news/cerebras-cs-4-wafer-scale-ai-inference-system
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-20_065002_Final-Daily-AI-News-Digest.md
 content_hash: 122e9a2cfe4921b3bc41ec4969428358d83475ca545677de6bdef94fc6e2ce03
 normalized_title_hash: fe1265dcbcc256e7

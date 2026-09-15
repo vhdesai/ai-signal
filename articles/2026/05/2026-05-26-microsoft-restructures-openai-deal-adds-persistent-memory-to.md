@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd
 - 2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal
-- 2026-06-22-openai-and-getty-images-strike-multi-year-content-display-de
+- 2026-09-13-microsoft-rolls-out-grok-across-copilot-in-office-365
 embedding_id: 2026-05-26-microsoft-restructures-openai-deal-adds-persistent-memory-to
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Microsoft's clarified terms terminate one direction of revenue share, extend the
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd]] · [[2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal]] · [[2026-06-22-openai-and-getty-images-strike-multi-year-content-display-de]]
+**Related:** [[2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd]] · [[2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal]] · [[2026-09-13-microsoft-rolls-out-grok-across-copilot-in-office-365]]
 <!-- graph:end -->

@@ -1,20 +1,42 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 1863
+member_count: 1885
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 1863 connected article(s).
+> Auto-generated topic hub. 1885 connected article(s).
 
+- `2026-09-13` [[2026-09-13-safety-becomes-the-frontier-story-and-capital-keeps-accelera|Safety Becomes the Frontier Story — and Capital Keeps Accelerating]]
+- `2026-09-13` [[2026-09-13-princeton-and-ucla-mathematicians-press-for-norms-on-ai-assi|Princeton and UCLA mathematicians press for norms on AI-assisted discovery]]
+- `2026-09-13` [[2026-09-13-hpe-carries-a-7-6b-ai-order-backlog-as-memory-supply-lags|HPE carries a $7.6B AI order backlog as memory supply lags]]
+- `2026-09-12` [[2026-09-12-saturday-september-12-2026|Saturday, September 12, 2026]]
+- `2026-09-12` [[2026-09-12-fortune-reports-ibm-has-deployed-ai-limb-tracking-at-the-us|Fortune reports IBM has deployed AI limb-tracking at the US Open, scoring every tennis serve to give fans real-time biomechanical analytics. It's a high-visibility deployment for IBM Consulting's sports AI stack, following watsonx-based commentary and tie-ins. The launch is notable as a live-event, computer-vision showcase competing directly with sports-AI offerings from AWS, Google Cloud, and Microsoft Azure.]]
+- `2026-09-12` [[2026-09-12-china-s-ai-industry-pivots-from-models-to-agents-inference-f|China's AI industry pivots from models to agents; inference forecast at 80% of compute by 2029]]
+- `2026-09-12` [[2026-09-12-25-fields-medalists-declare-a-severe-misalignment-between-ai|25 Fields Medalists declare a "severe misalignment" between AI labs and mathematics]]
+- `2026-09-11` [[2026-09-11-tencent-backed-enflame-soars-206-in-shanghai-debut|Tencent-Backed Enflame Soars 206% in Shanghai Debut]]
+- `2026-09-11` [[2026-09-11-spacex-signs-another-1-11b-month-compute-rental-deal-targets|SpaceX signs another ~$1.11B/month compute rental deal, targets $100B annualized run rate]]
+- `2026-09-11` [[2026-09-11-positron-ai-closes-875m-at-a-5b-valuation-for-memory-first-i|Positron AI closes $875M at a $5B valuation for memory-first inference hardware]]
+- `2026-09-11` [[2026-09-11-pentagon-in-talks-on-a-5b-loan-to-ai-cloud-startup-fluidstac|Pentagon in talks on a ~$5B loan to AI cloud startup Fluidstack]]
+- `2026-09-11` [[2026-09-11-pentagon-in-talks-to-lend-fluidstack-5b-for-data-center-supp|Pentagon in Talks to Lend Fluidstack ~$5B for Data-Center Supply Chain]]
+- `2026-09-11` [[2026-09-11-oracle-delivers-30-top-line-growth-on-28-5b-capex-quarter-fu|Oracle delivers 30% top-line growth on $28.5B capex quarter, funded largely by customer prepayments]]
+- `2026-09-11` [[2026-09-11-oracle-posts-664b-ai-cloud-backlog-and-negative-free-cash-fl|Oracle Posts $664B AI Cloud Backlog — and Negative Free Cash Flow]]
+- `2026-09-11` [[2026-09-11-openai-details-habitat-the-storage-layer-now-serving-over-1|OpenAI details Habitat, the storage layer now serving over 1 billion ChatGPT users]]
+- `2026-09-11` [[2026-09-11-microsoft-targets-more-than-38-gigawatts-of-data-center-capa|Microsoft targets more than 38 gigawatts of data-center capacity by 2032]]
+- `2026-09-11` [[2026-09-11-microsoft-targets-38-gigawatts-of-data-center-capacity-by-20|Microsoft targets 38 gigawatts of data-center capacity by 2032]]
+- `2026-09-11` [[2026-09-11-microsoft-aims-to-triple-azure-capacity-to-38gw-by-2032-amid|Microsoft aims to triple Azure capacity to 38GW by 2032 amid persistent server shortage]]
+- `2026-09-11` [[2026-09-11-microsoft-plans-38-gigawatts-of-data-center-capacity-by-2032|Microsoft Plans 38 Gigawatts of Data-Center Capacity by 2032]]
+- `2026-09-11` [[2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment|Amazon's expanded Nvidia agreement takes its GPU commitment to roughly 3 million chips]]
 - `2026-09-10` [[2026-09-10-tsmc-august-revenue-up-53-3-to-a-record-nt-514-8b-advanced-n|TSMC August revenue up 53.3% to a record NT$514.8B; advanced nodes fully booked]]
 - `2026-09-10` [[2026-09-10-spacex-overhauls-data-center-build-out-under-new-rocket-engi|SpaceX overhauls data-center build-out under new rocket-engineer leadership]]
 - `2026-09-10` [[2026-09-10-spacex-overhauls-xai-data-center-build-out-reliability-over|SpaceX Overhauls xAI Data-Center Build-Out — Reliability Over Speed]]
+- `2026-09-10` [[2026-09-10-pentagon-in-talks-to-lend-5b-to-ai-cloud-startup-fluidstack|Pentagon in Talks to Lend $5B to AI Cloud Startup Fluidstack]]
 - `2026-09-10` [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par|Nvidia commits to Australia 2GW AI buildout with 8 local partners]]
 - `2026-09-10` [[2026-09-10-huawei-raises-ascend-ai-chip-prices-60-as-china-s-nvidia-alt|Huawei raises Ascend AI chip prices ~60% as China's Nvidia alternatives face supply crunch]]
 - `2026-09-10` [[2026-09-10-huawei-lifts-ascend-950dt-pricing-60-as-hbm-shortage-reaches|Huawei lifts Ascend 950DT pricing ~60% as HBM shortage reaches China]]
 - `2026-09-10` [[2026-09-10-china-s-ai-chip-prices-jump-20-50-as-hbm-shortage-bites|China's AI Chip Prices Jump 20–50% as HBM Shortage Bites]]
+- `2026-09-10` [[2026-09-10-blackstone-s-tpu-spending-surges-into-multiples-of-the-origi|Blackstone's TPU spending surges into "multiples" of the original $5B Google deal]]
 - `2026-09-10` [[2026-09-10-ayar-labs-extends-round-to-650m-as-copper-interconnect-hits|Ayar Labs Extends Round to $650M as Copper Interconnect Hits Its Limit]]
 - `2026-09-10` [[2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data|Amazon, Meta, and Google risk losing multibillion-dollar data-center tax deals as states rip up terms]]
 - `2026-09-09` [[2026-09-09-taiwan-s-august-exports-hit-record-82-4b-on-ai-and-hpc-deman|Taiwan's August exports hit record $82.4B on AI and HPC demand]]

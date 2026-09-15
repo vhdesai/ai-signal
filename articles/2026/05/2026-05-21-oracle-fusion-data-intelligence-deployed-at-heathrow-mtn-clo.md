@@ -6,7 +6,7 @@ date: '2026-05-21'
 source: 'Source: Oracle Newsroom'
 url_original: https://www.oracle.com/news/
 url_canonical: https://www.oracle.com/news/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 290b28f0d8cbf5a3fc8cc0dbea584aaa1fa145d5dbc5b0dc211fb55a38b9c867
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-21-oracle-fusion-data-intelligence-rolls-out-to-heathrow-airpor
 - 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
 - 2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e
-- 2026-08-10-australia-s-firmus-raises-2b-for-ai-data-centers-at-a-10-5b
+- 2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a
 embedding_id: 2026-05-21-oracle-fusion-data-intelligence-deployed-at-heathrow-mtn-clo
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Oracle's official newsroom highlighted Heathrow, Kent, and MTN as enterprise ref
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-21-oracle-fusion-data-intelligence-goes-live-at-heathrow-mtn-an]] · [[2026-05-21-oracle-fusion-data-intelligence-rolls-out-to-heathrow-airpor]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]] · [[2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e]] · [[2026-08-10-australia-s-firmus-raises-2b-for-ai-data-centers-at-a-10-5b]]
+**Related:** [[2026-05-21-oracle-fusion-data-intelligence-goes-live-at-heathrow-mtn-an]] · [[2026-05-21-oracle-fusion-data-intelligence-rolls-out-to-heathrow-airpor]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]] · [[2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e]] · [[2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a]]
 <!-- graph:end -->

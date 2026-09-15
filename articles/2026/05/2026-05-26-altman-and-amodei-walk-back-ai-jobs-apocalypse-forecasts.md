@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: TIME / The Decoder
 url_original: https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/
 url_canonical: https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 6d38f65ada9580b4263f7f3a7f49c6f07f64583e8433bb902660656b00605916
@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-sam-altman-walks-back-jobs-apocalypse-says-he-is-delighted-t
 - 2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse
+- 2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk
+- 2026-09-13-amodei-the-industry-lied-about-ai-risks-altman-and-hassabis
 - 2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development
-- 2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo
-- 2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate
 embedding_id: 2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Speaking at a Sydney CBA conference, Sam Altman told CEO Matt Comyn: "I don't th
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-sam-altman-walks-back-jobs-apocalypse-says-he-is-delighted-t]] · [[2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse]] · [[2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development]] · [[2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo]] · [[2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate]]
+**Related:** [[2026-05-26-sam-altman-walks-back-jobs-apocalypse-says-he-is-delighted-t]] · [[2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse]] · [[2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk]] · [[2026-09-13-amodei-the-industry-lied-about-ai-risks-altman-and-hassabis]] · [[2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development]]
 <!-- graph:end -->

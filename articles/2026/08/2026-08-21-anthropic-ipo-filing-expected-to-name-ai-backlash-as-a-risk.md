@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html
 url_canonical: https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_061248_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: f49744b8db90d5f29165f2b65dc844735cda6bd7fd74a9b7442914fef019fea5

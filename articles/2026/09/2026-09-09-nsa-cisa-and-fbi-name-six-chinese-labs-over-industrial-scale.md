@@ -5,7 +5,7 @@ date: '2026-09-09'
 source: Engadget
 url_original: https://www.engadget.com/2253604/us-authorities-accuse-chinese-ai-companies-of-industrial-scale-campaigns-to-copy-american-models/
 url_canonical: https://www.engadget.com/2253604/us-authorities-accuse-chinese-ai-companies-of-industrial-scale-campaigns-to-copy-american-models/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: cae7ac63aa478c6ab165ba6b0bef69b6f431de4b9ed56ab0b974019fe3ea0646
 normalized_title_hash: 32be9e959b3f15f3
@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo
+- 2026-09-12-chinese-ai-labs-reportedly-extracted-190m-claude-exchanges-a
 - 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
-- 2026-08-28-subject-daily-ai-news-digest-august-28-2026
-- 2026-08-01-the-ai-brief-august-1-2026
+- 2026-09-11-anthropic-s-200m-exchange-distillation-report-becomes-eviden
 embedding_id: 2026-09-09-nsa-cisa-and-fbi-name-six-chinese-labs-over-industrial-scale
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A joint cybersecurity advisory (AA26-251A, released September 8 and widely cover
 
 **Entities:** [[Alibaba]] · [[DeepSeek]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo]] · [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-01-the-ai-brief-august-1-2026]]
+**Related:** [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo]] · [[2026-09-12-chinese-ai-labs-reportedly-extracted-190m-claude-exchanges-a]] · [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]] · [[2026-09-11-anthropic-s-200m-exchange-distillation-report-becomes-eviden]]
 <!-- graph:end -->

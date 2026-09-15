@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: The News International
 url_original: https://www.thenews.com.pk/latest/1413412-nvidia-ai-server-prices-rise-giving-samsung-more-power
 url_canonical: https://www.thenews.com.pk/latest/1413412-nvidia-ai-server-prices-rise-giving-samsung-more-power
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-24_085500_Final-Daily-AI-News-Digest.md
 content_hash: 2da9fde524b7188e7a5a657bca7c3a3752052cd8ab0787cb57a6f9e2d8150060
 normalized_title_hash: baef78858291fb44

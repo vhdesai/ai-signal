@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html
 url_canonical: https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-29_062619_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 3cfe1ec3b758096aa7657f15d7019f1e028d64f66c5bf416ce1f3e9324175826

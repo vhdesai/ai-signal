@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/
 url_canonical: https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-05_060001_Daily-AI-News-Digest.md
 content_hash: 0b42355546a5663bcd432c515213af1642427b6c1753279490e0a43bd717adfd
 normalized_title_hash: d363fea12d884487

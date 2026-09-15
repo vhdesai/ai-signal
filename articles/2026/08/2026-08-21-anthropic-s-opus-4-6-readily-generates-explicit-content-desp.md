@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/
 url_canonical: https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_060854_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 3626de328164c56d75863fd2431b4b51d9cbb279d34af83e9b51790482163c36

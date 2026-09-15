@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Carnegie Mellon University News
 url_original: https://www.cmu.edu/news/stories/archives/2026/august/cmu-builds-on-its-strengths-to-advance-neuroai
 url_canonical: https://www.cmu.edu/news/stories/archives/2026/august/cmu-builds-on-its-strengths-to-advance-neuroai
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 80657c706324dd38d3274f1d87d44503c238fb3cb3df54b5a180dedd8259ca14

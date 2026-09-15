@@ -6,7 +6,7 @@ date: '2026-05-13'
 source: ScienceDaily
 url_original: https://www.sciencedaily.com/news/computers_math/artificial_intelligence/
 url_canonical: https://www.sciencedaily.com/news/computers_math/artificial_intelligence/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: b45dca7a3acc585e404dc77b60d4d962420977a330fee3244ac98b890f88beb3
@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-12-ai-could-help-clinicians-detect-schizophrenia-earlier-from-s
 - 2026-09-04-study-generative-ai-succumbs-to-conversational-misinformed-p
 - 2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti
 - 2026-05-14-mit-media-lab-researchers-used-eeg-to-measure-cognitive-load
 - 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
-- 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
 embedding_id: 2026-05-13-ai-speech-analysis-everyday-ums-pauses-and-word-finding-diff
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Researchers used AI to analyze natural conversations and found that subtle speec
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-04-study-generative-ai-succumbs-to-conversational-misinformed-p]] · [[2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti]] · [[2026-05-14-mit-media-lab-researchers-used-eeg-to-measure-cognitive-load]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]]
+**Related:** [[2026-09-12-ai-could-help-clinicians-detect-schizophrenia-earlier-from-s]] · [[2026-09-04-study-generative-ai-succumbs-to-conversational-misinformed-p]] · [[2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti]] · [[2026-05-14-mit-media-lab-researchers-used-eeg-to-measure-cognitive-load]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]]
 <!-- graph:end -->

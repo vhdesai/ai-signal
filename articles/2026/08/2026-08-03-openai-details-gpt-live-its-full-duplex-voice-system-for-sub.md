@@ -6,7 +6,7 @@ date: '2026-08-03'
 source: OpenAI
 url_original: https://openai.com/index/continuous-voice-interaction-with-gpt-live/
 url_canonical: https://openai.com/index/continuous-voice-interaction-with-gpt-live/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-04_060905_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: fe5ce182382796c84480889fe835a446364a129d01b6efeaef979fb0cd69c591

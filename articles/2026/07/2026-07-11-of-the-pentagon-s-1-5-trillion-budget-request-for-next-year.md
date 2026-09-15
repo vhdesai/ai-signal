@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-28-defense-ai-startup-shield-ai-closed-a-2-billion-funding-roun
 - 2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget
+- 2026-09-10-pentagon-in-talks-to-lend-5b-to-ai-cloud-startup-fluidstack
 - 2026-08-18-vcs-poured-47-4b-into-physical-ai-in-the-first-half-of-2026
 embedding_id: 2026-07-11-of-the-pentagon-s-1-5-trillion-budget-request-for-next-year
 event_name: ''
@@ -35,5 +36,5 @@ Of the Pentagon's $1.5 trillion budget request for next year, about $55 billion 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
-**Related:** [[2026-03-28-defense-ai-startup-shield-ai-closed-a-2-billion-funding-roun]] · [[2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget]] · [[2026-08-18-vcs-poured-47-4b-into-physical-ai-in-the-first-half-of-2026]]
+**Related:** [[2026-03-28-defense-ai-startup-shield-ai-closed-a-2-billion-funding-roun]] · [[2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget]] · [[2026-09-10-pentagon-in-talks-to-lend-5b-to-ai-cloud-startup-fluidstack]] · [[2026-08-18-vcs-poured-47-4b-into-physical-ai-in-the-first-half-of-2026]]
 <!-- graph:end -->

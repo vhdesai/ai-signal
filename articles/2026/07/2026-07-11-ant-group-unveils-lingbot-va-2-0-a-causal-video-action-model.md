@@ -6,7 +6,7 @@ date: '2026-07-11'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-11_060831_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: d27bf2baefd6bdaccae484a2930ef62b572ed9c366208ee41daa130d4598236e
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-14-ant-group-s-embodied-ai-arm-robbyant-begins-fundraising
 - 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-- 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
+- 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f
 embedding_id: 2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Ant Group's Robbyant team introduced LingBot-VA 2.0, a causal video-action model
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]] · [[2026-08-03-14-ant-group-s-embodied-ai-arm-robbyant-begins-fundraising]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]]
+**Related:** [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]] · [[2026-08-03-14-ant-group-s-embodied-ai-arm-robbyant-begins-fundraising]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f]]
 <!-- graph:end -->
