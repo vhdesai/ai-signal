@@ -1,13 +1,16 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 470
+member_count: 473
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 470 connected article(s).
+> Auto-generated topic hub. 473 connected article(s).
 
+- `2026-09-14` [[2026-09-14-superhuman-acquires-ai-notetaker-fathom-to-push-into-agentic|Superhuman acquires AI notetaker Fathom to push into agentic work]]
+- `2026-09-14` [[2026-09-14-openai-acquires-smartphone-camera-ai-maker-glass-imaging-for|OpenAI acquires smartphone camera-AI maker Glass Imaging for over $300M]]
+- `2026-09-14` [[2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-pretrained-gener|MIT's HardFlow enforces hard constraints on pretrained generative models at deployment time]]
 - `2026-09-13` [[2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce|Meta Acquires Stilla.ai to Expand Business Agent Commerce]]
 - `2026-09-13` [[2026-09-13-google-deepmind-safety-researcher-resigns-warns-of-terrifyin|Google DeepMind Safety Researcher Resigns, Warns of "Terrifying Chance" of Major AI Harm]]
 - `2026-09-12` [[2026-09-12-google-deepmind-acqui-hires-mechanize-ai-talent-in-reported|Google DeepMind acqui-hires Mechanize AI talent in reported $1.5B coding-agent deal]]

@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 435
+member_count: 437
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 435 connected article(s).
+> Auto-generated entity hub. 437 connected article(s).
 
+- `2026-09-14` [[2026-09-14-china-s-z-ai-raises-5b-through-combined-hk-share-placement-a|China's Z.ai raises ~$5B through combined HK share placement and convertible bond]]
+- `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai|SCMP: US and China are now openly racing on "self-improving AI"]]
 - `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
 - `2026-09-12` [[2026-09-12-independent-testing-puts-cognition-s-swe-2-narrowly-ahead-of|Independent testing puts Cognition's SWE-2 narrowly ahead of DeepSeek V4.1 Flash — and well ahead of its own base model]]

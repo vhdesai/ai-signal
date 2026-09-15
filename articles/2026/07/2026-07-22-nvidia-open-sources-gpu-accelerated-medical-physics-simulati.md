@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica
 - 2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model
+- 2026-09-14-nvidia-open-sources-osmo-one-yaml-file-orchestrates-physical
 - 2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme
 - 2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a
-- 2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at
 embedding_id: 2026-07-22-nvidia-open-sources-gpu-accelerated-medical-physics-simulati
 event_name: ''
 ---
@@ -41,5 +41,5 @@ NVIDIA announced Medical Physics Simulation, an open-source GPU-accelerated fram
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica]] · [[2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model]] · [[2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme]] · [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]] · [[2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at]]
+**Related:** [[2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica]] · [[2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model]] · [[2026-09-14-nvidia-open-sources-osmo-one-yaml-file-orchestrates-physical]] · [[2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme]] · [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]]
 <!-- graph:end -->

@@ -1,14 +1,18 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 367
+member_count: 371
 ---
 
 # xAI
 
-> Auto-generated entity hub. 367 connected article(s).
+> Auto-generated entity hub. 371 connected article(s).
 
+- `2026-09-15` [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t|Nadella internal memo: pace the frontier or lose "permission to operate"]]
+- `2026-09-14` [[2026-09-14-cnbc-daily-open-whoever-wins-ai-wins|CNBC Daily Open: ‘Whoever Wins AI, Wins’]]
+- `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-microsoft-rolls-out-grok-across-copilot-in-office-365|Microsoft rolls out Grok across Copilot in Office 365]]
+- `2026-09-13` [[2026-09-13-anthropic-s-three-step-pace-the-frontier-plan-wins-openai-xa|Anthropic's Three-Step ‘Pace the Frontier’ Plan Wins OpenAI, xAI and Microsoft Support — But Only One Lab Has Bound Itself]]
 - `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
 - `2026-09-12` [[2026-09-12-microsoft-adds-xai-s-grok-models-to-the-copilot-lineup|Microsoft Adds xAI’s Grok Models to the Copilot Lineup]]
 - `2026-09-11` [[2026-09-11-xai-s-grok-bot-adds-salesforce-hubspot-gong-clay-and-microso|xAI's Grok Bot adds Salesforce, HubSpot, Gong, Clay and Microsoft Teams connectors]]

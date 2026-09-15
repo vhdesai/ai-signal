@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr
 - 2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety
+- 2026-09-13-openai-rules-out-a-2026-ipo-citing-safety-concerns
 - 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
 - 2026-09-13-sam-altman-confirms-openai-will-not-ipo-in-2026
-- 2026-09-12-altman-confirms-openai-ipo-pushed-to-2027-nvidia-in-talks-to
 embedding_id: 2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI is leaning toward postponing its public listing until next year over conc
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr]] · [[2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-09-13-sam-altman-confirms-openai-will-not-ipo-in-2026]] · [[2026-09-12-altman-confirms-openai-ipo-pushed-to-2027-nvidia-in-talks-to]]
+**Related:** [[2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr]] · [[2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety]] · [[2026-09-13-openai-rules-out-a-2026-ipo-citing-safety-concerns]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-09-13-sam-altman-confirms-openai-will-not-ipo-in-2026]]
 <!-- graph:end -->

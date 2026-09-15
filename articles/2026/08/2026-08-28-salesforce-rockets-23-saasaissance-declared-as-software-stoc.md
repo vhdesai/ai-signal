@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps
+- 2026-09-14-software-stocks-rally-chip-stocks-sell-off-as-market-prices
 - 2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear
 - 2026-08-07-atlassian-stock-jumps-35-as-ai-appears-to-expand-not-shrink
 - 2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump
-- 2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin
 embedding_id: 2026-08-28-salesforce-rockets-23-saasaissance-declared-as-software-stoc
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Salesforce surged 23%, leading a recovery for beaten-down SaaS stocks. The Infor
 
 **Entities:** [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps]] · [[2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear]] · [[2026-08-07-atlassian-stock-jumps-35-as-ai-appears-to-expand-not-shrink]] · [[2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump]] · [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin]]
+**Related:** [[2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps]] · [[2026-09-14-software-stocks-rally-chip-stocks-sell-off-as-market-prices]] · [[2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear]] · [[2026-08-07-atlassian-stock-jumps-35-as-ai-appears-to-expand-not-shrink]] · [[2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump]]
 <!-- graph:end -->

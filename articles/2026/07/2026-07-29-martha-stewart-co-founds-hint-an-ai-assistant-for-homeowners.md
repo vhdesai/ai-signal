@@ -19,6 +19,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-14-apple-s-rebuilt-siri-ships-in-ios-27
 - 2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the
 embedding_id: 2026-07-29-martha-stewart-co-founds-hint-an-ai-assistant-for-homeowners
 event_name: ''
@@ -32,5 +33,5 @@ Hint launched as an AI home-management app co-founded by Martha Stewart, combini
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the]]
+**Related:** [[2026-09-14-apple-s-rebuilt-siri-ships-in-ios-27]] · [[2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the]]
 <!-- graph:end -->

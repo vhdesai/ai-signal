@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-13-altman-musk-and-hassabis-publicly-back-the-pacing-proposal
+- 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
 - 2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass
 - 2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk
-- 2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus
 embedding_id: 2026-09-13-altman-musk-and-hassabis-publicly-back-amodei-s-independent
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Sam Altman, Elon Musk, and Demis Hassabis all publicly endorsed at least the ind
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Company Investments]]
-**Related:** [[2026-09-13-altman-musk-and-hassabis-publicly-back-the-pacing-proposal]] · [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]] · [[2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk]] · [[2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus]]
+**Related:** [[2026-09-13-altman-musk-and-hassabis-publicly-back-the-pacing-proposal]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]] · [[2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk]]
 <!-- graph:end -->

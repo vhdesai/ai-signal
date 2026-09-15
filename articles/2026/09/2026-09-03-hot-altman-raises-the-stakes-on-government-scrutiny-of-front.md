@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-09-11-altman-tells-staff-openai-is-open-to-slowing-frontier-develo
 - 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
 - 2026-07-26-openai-presses-the-white-house-to-fast-track-frontier-model
+- 2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with
 - 2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen
 embedding_id: 2026-09-03-hot-altman-raises-the-stakes-on-government-scrutiny-of-front
 event_name: ''
@@ -37,5 +38,5 @@ OpenAI CEO Sam Altman called the administration's voluntary safety review of the
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-11-altman-tells-staff-openai-is-open-to-slowing-frontier-develo]] · [[2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai]] · [[2026-07-26-openai-presses-the-white-house-to-fast-track-frontier-model]] · [[2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen]]
+**Related:** [[2026-09-11-altman-tells-staff-openai-is-open-to-slowing-frontier-develo]] · [[2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai]] · [[2026-07-26-openai-presses-the-white-house-to-fast-track-frontier-model]] · [[2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with]] · [[2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen]]
 <!-- graph:end -->

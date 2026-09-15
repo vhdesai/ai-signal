@@ -1,13 +1,13 @@
 ---
 article_id: 2026-09-13-anthropic-strikes-13-7b-six-year-compute-deal-with-trump-lin
-title: Anthropic strikes $13.7B, six-year compute deal with Trump-linked Rum Group
+title: Anthropic Strikes $13.7B, Six-Year Compute Deal With Trump-Linked Rum Group
 date: '2026-09-13'
-source: The Information
+source: The Information**
 url_original: https://www.theinformation.com/articles/anthropic-strikes-13-7-billion-compute-deal-with-trump-linked-rum-group
 url_canonical: https://www.theinformation.com/articles/anthropic-strikes-13-7-billion-compute-deal-with-trump-linked-rum-group
 url_status: broken
-digest_source: digests\raw\2026-09-14_065706_Final-Daily-AI-News-Digest.md
-content_hash: 58379cc39bfa471a987ccfd4ff96a13323852abfd3c70299a7a9e15746ac6160
+digest_source: digests\raw\2026-09-14_172400_Final-Daily-AI-News-Digest.md
+content_hash: f95da52658468575e3d3bbda9ab51d61d480a1a297101ee38f4ead58212912f9
 normalized_title_hash: 7abb3ec8aa836ec3
 canonical_url_hash: 9357a64834a54192
 tags:
@@ -27,9 +27,9 @@ embedding_id: 2026-09-13-anthropic-strikes-13-7b-six-year-compute-deal-with-trum
 event_name: ''
 ---
 
-# Anthropic strikes $13.7B, six-year compute deal with Trump-linked Rum Group
+# Anthropic Strikes $13.7B, Six-Year Compute Deal With Trump-Linked Rum Group
 
-The Information reports Anthropic signed a $13.7 billion, six-year computing deal with Rum Group, a firm with roots in social media and long-standing ties to the Trump administration, per a person familiar with the matter. Rum will build a Georgia data center, and Anthropic gains an option to buy 51 million Rum Group shares for 1 cent — an equity kicker uncommon in compute deals. It expands Anthropic's total compute commitments to at least 14.8 gigawatts and up to $517 billion over the next decade, alongside its Google, SpaceX, and Nscale deals.
+The Information reports Anthropic signed a $13.7 billion, six-year computing deal with Rum Group, a firm with roots in social media and long-standing ties to the Trump administration. Rum will build a Georgia data center, and Anthropic gained an option to buy 51 million Rum Group shares for one cent — an equity kicker uncommon in compute deals. It expands Anthropic's total compute commitments to at least 14.8 gigawatts and up to $517 billion over the next decade, alongside its Google, SpaceX, and Nscale agreements.
 
 <!-- graph:start -->
 ## Connections

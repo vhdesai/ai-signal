@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-09-12-amodei-calls-for-pacing-the-frontier-openai-says-it-will-mat
 - 2026-09-13-anthropic-ceo-s-call-to-slow-frontier-ai-receives-renewed-at
 - 2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass
-- 2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus
-- 2026-09-12-anthropic-ceo-amodei-salt-style-ai-speed-limits-embedded-aud
+- 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
+- 2026-09-13-anthropic-s-three-step-pace-the-frontier-plan-wins-openai-xa
 embedding_id: 2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Anthropic CEO Dario Amodei published "We Must Pace the Frontier," arguing the in
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-12-amodei-calls-for-pacing-the-frontier-openai-says-it-will-mat]] · [[2026-09-13-anthropic-ceo-s-call-to-slow-frontier-ai-receives-renewed-at]] · [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]] · [[2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus]] · [[2026-09-12-anthropic-ceo-amodei-salt-style-ai-speed-limits-embedded-aud]]
+**Related:** [[2026-09-12-amodei-calls-for-pacing-the-frontier-openai-says-it-will-mat]] · [[2026-09-13-anthropic-ceo-s-call-to-slow-frontier-ai-receives-renewed-at]] · [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-09-13-anthropic-s-three-step-pace-the-frontier-plan-wins-openai-xa]]
 <!-- graph:end -->

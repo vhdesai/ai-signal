@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-02-deepmind-anthropic-and-meta-expand-research-into-machine-con
 - 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
+- 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-05-18-the-us-center-for-ai-standards-and-innovation-caisi-part-of
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
-- 2026-04-03-more-than-30-openai-and-google-deepmind-employees-including
 embedding_id: 2026-04-23-anthropic-and-google-deepmind-publish-joint-rsp-alignment-up
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Both labs issued updates to their Responsible Scaling Policies introducing more 
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-02-deepmind-anthropic-and-meta-expand-research-into-machine-con]] · [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]] · [[2026-05-18-the-us-center-for-ai-standards-and-innovation-caisi-part-of]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-04-03-more-than-30-openai-and-google-deepmind-employees-including]]
+**Related:** [[2026-06-02-deepmind-anthropic-and-meta-expand-research-into-machine-con]] · [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-05-18-the-us-center-for-ai-standards-and-innovation-caisi-part-of]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]]
 <!-- graph:end -->

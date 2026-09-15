@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-07-nvidia-backed-firmus-raises-2b-at-10-5b-valuation
 - 2026-08-10-australia-s-firmus-raises-2b-for-ai-data-centers-at-a-10-5b
 - 2026-08-11-nvidia-frames-ai-factory-compute-as-an-investable-infrastruc
+- 2026-09-14-nvidia-backed-firmus-seeks-up-to-5b-in-an-asx-float-at-a-10
 - 2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners
-- 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
 embedding_id: 2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Australian AI infrastructure company Firmus closed a fully subscribed $2 billion
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-07-nvidia-backed-firmus-raises-2b-at-10-5b-valuation]] · [[2026-08-10-australia-s-firmus-raises-2b-for-ai-data-centers-at-a-10-5b]] · [[2026-08-11-nvidia-frames-ai-factory-compute-as-an-investable-infrastruc]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]] · [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]]
+**Related:** [[2026-08-07-nvidia-backed-firmus-raises-2b-at-10-5b-valuation]] · [[2026-08-10-australia-s-firmus-raises-2b-for-ai-data-centers-at-a-10-5b]] · [[2026-08-11-nvidia-frames-ai-factory-compute-as-an-investable-infrastruc]] · [[2026-09-14-nvidia-backed-firmus-seeks-up-to-5b-in-an-asx-float-at-a-10]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]]
 <!-- graph:end -->

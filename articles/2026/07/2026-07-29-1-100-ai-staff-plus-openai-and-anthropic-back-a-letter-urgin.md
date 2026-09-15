@@ -29,8 +29,8 @@ related_article_ids:
 - 2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools
 - 2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace
 - 2026-08-27-openai-anthropic-google-and-100-firms-call-for-action-agains
+- 2026-09-13-anthropic-openai-and-google-quietly-discussed-an-industry-ai
 - 2026-09-13-anthropic-openai-and-google-quietly-discussed-forming-an-ind
-- 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 embedding_id: 2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin
 event_name: ''
 ---
@@ -44,5 +44,5 @@ More than 1,100 current and former employees across OpenAI, Anthropic, Google De
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-08-27-openai-anthropic-google-and-100-firms-call-for-action-agains]] · [[2026-09-13-anthropic-openai-and-google-quietly-discussed-forming-an-ind]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]]
+**Related:** [[2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-08-27-openai-anthropic-google-and-100-firms-call-for-action-agains]] · [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-industry-ai]] · [[2026-09-13-anthropic-openai-and-google-quietly-discussed-forming-an-ind]]
 <!-- graph:end -->

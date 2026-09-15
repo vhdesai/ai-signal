@@ -1,15 +1,26 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 1885
+member_count: 1896
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 1885 connected article(s).
+> Auto-generated topic hub. 1896 connected article(s).
 
+- `2026-09-14` [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen|Nvidia and chip stocks fall as AI CEOs call for a development slowdown]]
+- `2026-09-14` [[2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-develo|NVIDIA Adds CUDA-Q Logical for Fault-Tolerant Quantum Development]]
+- `2026-09-14` [[2026-09-14-monday-september-14-2026|Monday, September 14, 2026]]
+- `2026-09-14` [[2026-09-14-micron-s-taiwan-unions-reject-record-bonus-press-for-15-prof|Micron's Taiwan Unions Reject Record Bonus, Press for 15% Profit-Sharing]]
+- `2026-09-14` [[2026-09-14-infleqtion-reports-5x-better-code-rate-in-quantum-error-corr|Infleqtion Reports 5x Better Code Rate in Quantum Error Correction]]
+- `2026-09-14` [[2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk|Chip and AI-Linked Equities Sell Off on Slowdown Talk]]
+- `2026-09-14` [[2026-09-14-buildots-raises-130m-at-a-near-1b-valuation-on-data-center-c|Buildots raises $130M at a near-$1B valuation on data-center construction demand]]
+- `2026-09-14` [[2026-09-14-anthropic-s-517b-compute-commitments-collide-with-its-own-sl|Anthropic's $517B compute commitments collide with its own slowdown message]]
+- `2026-09-13` [[2026-09-13-the-case-against-letting-ai-auto-repair-enterprise-data-pipe|The case against letting AI auto-repair enterprise data pipelines]]
 - `2026-09-13` [[2026-09-13-safety-becomes-the-frontier-story-and-capital-keeps-accelera|Safety Becomes the Frontier Story — and Capital Keeps Accelerating]]
 - `2026-09-13` [[2026-09-13-princeton-and-ucla-mathematicians-press-for-norms-on-ai-assi|Princeton and UCLA mathematicians press for norms on AI-assisted discovery]]
+- `2026-09-13` [[2026-09-13-larry-ellison-cancels-planned-7-5-billion-sale-of-oracle-sto|Larry Ellison cancels planned $7.5 billion sale of Oracle stock]]
+- `2026-09-13` [[2026-09-13-larry-ellison-cancels-7-5-billion-oracle-stock-sale|Larry Ellison cancels $7.5 billion Oracle stock sale]]
 - `2026-09-13` [[2026-09-13-hpe-carries-a-7-6b-ai-order-backlog-as-memory-supply-lags|HPE carries a $7.6B AI order backlog as memory supply lags]]
 - `2026-09-12` [[2026-09-12-saturday-september-12-2026|Saturday, September 12, 2026]]
 - `2026-09-12` [[2026-09-12-fortune-reports-ibm-has-deployed-ai-limb-tracking-at-the-us|Fortune reports IBM has deployed AI limb-tracking at the US Open, scoring every tennis serve to give fans real-time biomechanical analytics. It's a high-visibility deployment for IBM Consulting's sports AI stack, following watsonx-based commentary and tie-ins. The launch is notable as a live-event, computer-vision showcase competing directly with sports-AI offerings from AWS, Google Cloud, and Microsoft Azure.]]

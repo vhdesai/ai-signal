@@ -1,15 +1,23 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 98
+member_count: 106
 ---
 
 # Intel
 
-> Auto-generated entity hub. 98 connected article(s).
+> Auto-generated entity hub. 106 connected article(s).
 
-- `2026-09-14` [[2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin|Chip and memory stocks sell off as coordinated safety warnings hit the AI trade]]
+- `2026-09-14` [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen|Nvidia and chip stocks fall as AI CEOs call for a development slowdown]]
+- `2026-09-14` [[2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow|Global AI Stocks Sell Off After Lab CEOs Jointly Urge a Slowdown]]
+- `2026-09-14` [[2026-09-14-cornelis-raises-205m-to-challenge-nvidia-s-networking-domina|Cornelis raises $205M to challenge Nvidia's networking dominance]]
+- `2026-09-14` [[2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin|Chip and Memory Stocks Sell Off as Coordinated Safety Warnings Hit the AI Trade]]
 - `2026-09-14` [[2026-09-14-chip-stocks-sell-off-as-amodei-altman-safety-warnings-hit-th|Chip Stocks Sell Off as Amodei/Altman Safety Warnings Hit the AI Trade]]
+- `2026-09-14` [[2026-09-14-buildots-raises-130m-at-a-near-1b-valuation-on-data-center-c|Buildots raises $130M at a near-$1B valuation on data-center construction demand]]
+- `2026-09-14` [[2026-09-14-buildots-raises-130m-with-intel-capital-participating-on-ai|Buildots Raises $130M, With Intel Capital Participating, on AI Data-Centre Construction Demand]]
+- `2026-09-14` [[2026-09-14-buildots-raises-130m-as-ai-data-center-construction-becomes|Buildots Raises $130M as AI Data-Center Construction Becomes the Bottleneck]]
+- `2026-09-14` [[2026-09-14-ai-warnings-knock-nasdaq-futures-and-pressure-chip-stocks|AI warnings knock Nasdaq futures and pressure chip stocks]]
+- `2026-09-13` [[2026-09-13-ai-stock-weakness-collides-with-oil-shock-and-rate-concerns|AI-stock weakness collides with oil shock and rate concerns]]
 - `2026-09-11` [[2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat|Researcher Resignation Reopens the Pace-of-Development Debate]]
 - `2026-09-10` [[2026-09-10-california-enacts-adam-s-law-the-first-comprehensive-chatbot|California Enacts "Adam's Law," the First Comprehensive Chatbot Child-Safety Regime]]
 - `2026-09-10` [[2026-09-10-ayar-labs-extends-round-to-650m-as-copper-interconnect-hits|Ayar Labs Extends Round to $650M as Copper Interconnect Hits Its Limit]]

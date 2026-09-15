@@ -26,7 +26,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass
 - 2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an
-- 2026-09-12-anthropic-ceo-amodei-salt-style-ai-speed-limits-embedded-aud
+- 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
+- 2026-09-14-altman-spells-out-the-pacing-case-we-could-lose-control-as-w
 embedding_id: 2026-09-12-dario-amodei-calls-for-an-industry-speed-limit-and-altman-mu
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Amodei’s essay “We Must Pace the Frontier” proposes three steps to slow ca
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]] · [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]] · [[2026-09-12-anthropic-ceo-amodei-salt-style-ai-speed-limits-embedded-aud]]
+**Related:** [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]] · [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-09-14-altman-spells-out-the-pacing-case-we-could-lose-control-as-w]]
 <!-- graph:end -->

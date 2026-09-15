@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-deepmind-strategy-chief-frames-record-ai-capex-as-a-bet-on-r
 - 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
+- 2026-09-14-openai-s-noam-brown-recursive-self-improvement-is-our-top-pr
 - 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
-- 2026-08-28-deepmind-s-ai-co-scientist-now-plans-experiments-runs-lab-eq
 embedding_id: 2026-09-11-ex-deepmind-research-head-vinyals-ai-self-improvement-is-rea
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Oriol Vinyals, until recently head of research at Google DeepMind, published an 
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-deepmind-strategy-chief-frames-record-ai-capex-as-a-bet-on-r]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-08-28-deepmind-s-ai-co-scientist-now-plans-experiments-runs-lab-eq]]
+**Related:** [[2026-08-03-deepmind-strategy-chief-frames-record-ai-capex-as-a-bet-on-r]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]] · [[2026-09-14-openai-s-noam-brown-recursive-self-improvement-is-our-top-pr]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]]
 <!-- graph:end -->

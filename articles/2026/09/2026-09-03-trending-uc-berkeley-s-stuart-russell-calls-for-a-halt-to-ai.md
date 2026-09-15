@@ -44,8 +44,8 @@ related_article_ids:
 - 2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash
 - 2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling
 - 2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a
+- 2026-09-14-monday-september-14-2026
 - 2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic
-- 2026-08-08-daily-ai-news-digest-august-8-2026
 embedding_id: 2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai
 event_name: ''
 ---
@@ -59,5 +59,5 @@ In a Berkeley News interview, Stuart Russell argued that governments should regu
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]] · [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]] · [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]]
+**Related:** [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]] · [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]] · [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-09-14-monday-september-14-2026]] · [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]]
 <!-- graph:end -->

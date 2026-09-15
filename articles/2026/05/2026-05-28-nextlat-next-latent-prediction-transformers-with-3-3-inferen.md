@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
 - 2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a
+- 2026-09-13-princeton-researcher-proposes-the-recurrent-looped-transform
 - 2026-07-08-constrained-decoding-for-diffusion-language-models-via-effic
 - 2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag
-- 2026-07-26-abbel-belief-state-memory-for-llm-agents
 embedding_id: 2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Langford introduced NextLat, which extends next-token training with self-supervi
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a]] · [[2026-07-08-constrained-decoding-for-diffusion-language-models-via-effic]] · [[2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag]] · [[2026-07-26-abbel-belief-state-memory-for-llm-agents]]
+**Related:** [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a]] · [[2026-09-13-princeton-researcher-proposes-the-recurrent-looped-transform]] · [[2026-07-08-constrained-decoding-for-diffusion-language-models-via-effic]] · [[2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag]]
 <!-- graph:end -->

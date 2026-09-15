@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10
+- 2026-09-14-germany-says-halting-ai-development-is-not-viable-and-calls
 - 2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e
 - 2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst
 - 2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of
-- 2026-04-13-source-the-neuron-apr-13-2026
 embedding_id: 2026-06-05-japan-s-digital-minister-warns-country-could-become-an-ai-co
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Japan's digital minister warned the country risks becoming an "AI colony" if it 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10]] · [[2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]] · [[2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of]] · [[2026-04-13-source-the-neuron-apr-13-2026]]
+**Related:** [[2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10]] · [[2026-09-14-germany-says-halting-ai-development-is-not-viable-and-calls]] · [[2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]] · [[2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of]]
 <!-- graph:end -->

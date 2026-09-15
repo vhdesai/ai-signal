@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-13-xi-jinping-to-deliver-his-first-ever-keynote-at-china-s-worl
 - 2026-07-13-xi-jinping-to-keynote-world-ai-conference-in-shanghai-for-th
 - 2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere
+- 2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so
 - 2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight
-- 2026-07-21-u-s-and-china-set-first-formal-ai-talks-for-september
 embedding_id: 2026-07-13-read-at-reuters-via-u-s-news
 event_name: ''
 ---
@@ -38,5 +38,5 @@ China's foreign ministry said President Xi Jinping will attend the opening cerem
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-13-xi-jinping-to-deliver-his-first-ever-keynote-at-china-s-worl]] · [[2026-07-13-xi-jinping-to-keynote-world-ai-conference-in-shanghai-for-th]] · [[2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere]] · [[2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight]] · [[2026-07-21-u-s-and-china-set-first-formal-ai-talks-for-september]]
+**Related:** [[2026-07-13-xi-jinping-to-deliver-his-first-ever-keynote-at-china-s-worl]] · [[2026-07-13-xi-jinping-to-keynote-world-ai-conference-in-shanghai-for-th]] · [[2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere]] · [[2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so]] · [[2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight]]
 <!-- graph:end -->

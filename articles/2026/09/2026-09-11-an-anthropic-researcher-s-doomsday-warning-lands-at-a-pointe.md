@@ -42,11 +42,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-13-inside-the-ai-industry-s-loudest-existential-risk-debate-yet
 - 2026-09-12-saturday-september-12-2026
 - 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
 - 2026-08-27-anthropic-and-openai-to-share-the-ai-stage-at-techcrunch-dis
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
-- 2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r
 embedding_id: 2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe
 event_name: ''
 ---
@@ -60,5 +60,5 @@ TechCrunch covers a senior Anthropic researcher's public warning about frontier-
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-12-saturday-september-12-2026]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-08-27-anthropic-and-openai-to-share-the-ai-stage-at-techcrunch-dis]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]]
+**Related:** [[2026-09-13-inside-the-ai-industry-s-loudest-existential-risk-debate-yet]] · [[2026-09-12-saturday-september-12-2026]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-08-27-anthropic-and-openai-to-share-the-ai-stage-at-techcrunch-dis]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]]
 <!-- graph:end -->

@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-u-s-china-to-establish-bilateral-ai-safety-protocol-bessent
+- 2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit
 - 2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater
 - 2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri
 - 2026-07-22-dealbook-highlights-u-s-warning-on-chinese-ai-risks
-- 2026-05-18-president-trump-confirmed-discussions-with-chinese-president
 embedding_id: 2026-05-13-bloomberg-why-the-u-s-must-engage-china-on-ai-safety-before
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Council on Foreign Relations Senior Fellow Sebastian Mallaby warned on Bloomberg
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-14-u-s-china-to-establish-bilateral-ai-safety-protocol-bessent]] · [[2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater]] · [[2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri]] · [[2026-07-22-dealbook-highlights-u-s-warning-on-chinese-ai-risks]] · [[2026-05-18-president-trump-confirmed-discussions-with-chinese-president]]
+**Related:** [[2026-05-14-u-s-china-to-establish-bilateral-ai-safety-protocol-bessent]] · [[2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit]] · [[2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater]] · [[2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri]] · [[2026-07-22-dealbook-highlights-u-s-warning-on-chinese-ai-risks]]
 <!-- graph:end -->

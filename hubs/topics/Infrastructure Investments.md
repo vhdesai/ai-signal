@@ -1,23 +1,39 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1551
+member_count: 1567
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1551 connected article(s).
+> Auto-generated topic hub. 1567 connected article(s).
 
+- `2026-09-15` [[2026-09-15-bytedance-h1-profit-drops-to-20b-on-ai-spending-revenue-up-3|ByteDance H1 profit drops to $20B on AI spending, revenue up 30% to $120B]]
+- `2026-09-14` [[2026-09-14-rumble-shares-rise-after-anthropic-is-identified-behind-larg|Rumble shares rise after Anthropic is identified behind large compute deal]]
 - `2026-09-14` [[2026-09-14-oracle-health-expands-clinical-ai-agent-to-nurses|Oracle Health Expands Clinical AI Agent to Nurses]]
 - `2026-09-14` [[2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale|Oracle Begins Layoffs as Ellison Cancels $7.5B Stock Sale]]
-- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy targets $50M in annual cost savings with AI]]
-- `2026-09-13` [[2026-09-13-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale|Oracle begins layoffs as Ellison cancels $7.5B share sale]]
-- `2026-09-13` [[2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers|Nvidia's growing dependence on a handful of AI customers]]
+- `2026-09-14` [[2026-09-14-nvidia-backed-firmus-seeks-up-to-5b-in-an-asx-float-at-a-10|Nvidia-Backed Firmus Seeks Up to $5B in an ASX Float at a $10.5B Valuation]]
+- `2026-09-14` [[2026-09-14-monday-september-14-2026|Monday, September 14, 2026]]
+- `2026-09-14` [[2026-09-14-micron-s-taiwan-unions-reject-record-bonus-press-for-15-prof|Micron's Taiwan Unions Reject Record Bonus, Press for 15% Profit-Sharing]]
+- `2026-09-14` [[2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow|Global AI Stocks Sell Off After Lab CEOs Jointly Urge a Slowdown]]
+- `2026-09-14` [[2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation|Defense startup Shield AI in talks for a $20B+ valuation]]
+- `2026-09-14` [[2026-09-14-cornelis-raises-205m-to-challenge-nvidia-s-networking-domina|Cornelis raises $205M to challenge Nvidia's networking dominance]]
+- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy Targets $50M in Annual Cost Savings With AI]]
+- `2026-09-14` [[2026-09-14-buildots-raises-130m-with-intel-capital-participating-on-ai|Buildots Raises $130M, With Intel Capital Participating, on AI Data-Centre Construction Demand]]
+- `2026-09-14` [[2026-09-14-anthropic-s-517b-compute-commitments-collide-with-its-own-sl|Anthropic's $517B compute commitments collide with its own slowdown message]]
+- `2026-09-14` [[2026-09-14-anthropic-s-517b-compute-book-undercuts-its-own-slowdown-mes|Anthropic's $517B Compute Book Undercuts Its Own Slowdown Message]]
+- `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
+- `2026-09-13` [[2026-09-13-semianalysis-projects-nvidia-could-hold-1-4-trillion-in-cash|SemiAnalysis projects Nvidia could hold $1.4 trillion in cash and investments by fiscal 2031]]
+- `2026-09-13` [[2026-09-13-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale|Oracle Begins Layoffs as Ellison Cancels $7.5B Share Sale]]
+- `2026-09-13` [[2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers|NVIDIA's Growing Dependence on a Handful of AI Customers]]
 - `2026-09-13` [[2026-09-13-nvidia-s-customer-concentration-reaches-a-new-high|NVIDIA's Customer Concentration Reaches a New High]]
+- `2026-09-13` [[2026-09-13-larry-ellison-cancels-planned-7-5-billion-sale-of-oracle-sto|Larry Ellison cancels planned $7.5 billion sale of Oracle stock]]
+- `2026-09-13` [[2026-09-13-larry-ellison-cancels-7-5-billion-oracle-stock-sale|Larry Ellison cancels $7.5 billion Oracle stock sale]]
 - `2026-09-13` [[2026-09-13-hpe-carries-a-7-6b-ai-order-backlog-as-memory-supply-lags|HPE carries a $7.6B AI order backlog as memory supply lags]]
 - `2026-09-13` [[2026-09-13-chinese-researchers-demonstrate-100x-endurance-improvement-i|Chinese researchers demonstrate ~100x endurance improvement in wurtzite ferroelectric memory]]
 - `2026-09-13` [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-ai-standard|Anthropic, OpenAI, and Google Quietly Discussed an AI Standards Body]]
-- `2026-09-13` [[2026-09-13-anthropic-strikes-13-7b-six-year-compute-deal-with-trump-lin|Anthropic strikes $13.7B, six-year compute deal with Trump-linked Rum Group]]
+- `2026-09-13` [[2026-09-13-anthropic-s-517-billion-compute-commitment-sits-awkwardly-be|Anthropic's $517 Billion Compute Commitment Sits Awkwardly Beside Its Slowdown Call]]
+- `2026-09-13` [[2026-09-13-anthropic-strikes-13-7b-six-year-compute-deal-with-trump-lin|Anthropic Strikes $13.7B, Six-Year Compute Deal With Trump-Linked Rum Group]]
 - `2026-09-13` [[2026-09-13-anthropic-signs-13-7b-six-year-compute-deal-with-trump-linke|Anthropic Signs $13.7B, Six-Year Compute Deal With Trump-Linked Rum Group]]
 - `2026-09-13` [[2026-09-13-amazon-not-nvidia-carries-the-larger-balance-sheet-exposure|Amazon, not Nvidia, carries the larger balance-sheet exposure to Anthropic's compute build]]
 - `2026-09-12` [[2026-09-12-saturday-september-12-2026|Saturday, September 12, 2026]]

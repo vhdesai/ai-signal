@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-04-06-openai-today-released-a-13-page-industrial-policy-document-t
 - 2026-04-06-embedded-within-openai-s-broader-intelligence-age-policy-pap
 - 2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti
 - 2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe
-- 2026-08-22-openai-asks-california-to-strengthen-its-own-ai-safety-bill
 embedding_id: 2026-08-17-openai-funds-independent-projects-on-policy-ideas-for-the-in
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI announced funding for 14 independent projects exploring AI policy ideas i
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-06-openai-today-released-a-13-page-industrial-policy-document-t]] · [[2026-04-06-embedded-within-openai-s-broader-intelligence-age-policy-pap]] · [[2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti]] · [[2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe]] · [[2026-08-22-openai-asks-california-to-strengthen-its-own-ai-safety-bill]]
+**Related:** [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-04-06-openai-today-released-a-13-page-industrial-policy-document-t]] · [[2026-04-06-embedded-within-openai-s-broader-intelligence-age-policy-pap]] · [[2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti]] · [[2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe]]
 <!-- graph:end -->

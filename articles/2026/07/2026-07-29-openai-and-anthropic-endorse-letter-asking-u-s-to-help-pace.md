@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin
 - 2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
-- 2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an
-- 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption
+- 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
+- 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 embedding_id: 2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace
 event_name: ''
 ---
@@ -40,5 +40,5 @@ More than 1,100 executives and employees across leading AI companies signed a le
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]] · [[2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]]
+**Related:** [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]] · [[2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]]
 <!-- graph:end -->

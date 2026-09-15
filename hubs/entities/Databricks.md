@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 137
+member_count: 138
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 137 connected article(s).
+> Auto-generated entity hub. 138 connected article(s).
 
+- `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
 - `2026-09-13` [[2026-09-13-aws-open-sources-pizza-bot-an-inbox-for-background-ai-agents|AWS Open-Sources Pizza Bot, an Inbox for Background AI Agents]]
 - `2026-09-11` [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe|An Anthropic researcher's doomsday warning lands at a pointed moment]]

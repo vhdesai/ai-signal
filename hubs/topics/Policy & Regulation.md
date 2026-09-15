@@ -1,28 +1,55 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 1738
+member_count: 1765
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 1738 connected article(s).
+> Auto-generated topic hub. 1765 connected article(s).
 
-- `2026-09-14` [[2026-09-14-wsj-pressure-mounts-to-slow-down-ai-development|WSJ: Pressure mounts to slow down AI development]]
+- `2026-09-15` [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t|Nadella internal memo: pace the frontier or lose "permission to operate"]]
+- `2026-09-14` [[2026-09-14-wsj-pressure-mounts-to-slow-down-ai-development|WSJ: Pressure Mounts to Slow Down AI Development]]
+- `2026-09-14` [[2026-09-14-un-calls-for-urgent-action-on-ai-framing-unprecedented-risks|UN calls for "urgent action" on AI, framing "unprecedented risks"]]
+- `2026-09-14` [[2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit|Trump downplays need to check AI development, citing competition with China]]
 - `2026-09-14` [[2026-09-14-senator-ossoff-calls-for-federal-inspectors-inside-frontier|Senator Ossoff Calls for Federal Inspectors Inside Frontier AI Labs]]
-- `2026-09-14` [[2026-09-14-microsoft-publishes-first-humanist-ai-code-of-conduct-for-ma|Microsoft publishes first Humanist AI Code of Conduct for MAI models]]
-- `2026-09-14` [[2026-09-14-beijing-formally-rebukes-amodei-s-call-to-curb-china-s-ai-de|Beijing formally rebukes Amodei's call to curb China's AI development]]
+- `2026-09-14` [[2026-09-14-senate-drafts-ai-duty-of-care-bill-that-could-block-risky-mo|Senate drafts AI "duty of care" bill that could block risky models and preempt state law]]
+- `2026-09-14` [[2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with|Sam Altman says AI's rapid progress could go "very badly" without controls]]
+- `2026-09-14` [[2026-09-14-openai-pulls-1m-sponsorship-of-caltech-ai-maths-contest-afte|OpenAI pulls $1M sponsorship of Caltech AI maths contest after "slop mathematics" letter]]
+- `2026-09-14` [[2026-09-14-openai-moves-safety-review-from-release-gate-to-training-gat|OpenAI Moves Safety Review From Release Gate to Training Gate]]
+- `2026-09-14` [[2026-09-14-oecd-links-heavy-ai-use-in-schoolwork-to-sharp-learning-decl|OECD Links Heavy AI Use in Schoolwork to Sharp Learning Declines]]
+- `2026-09-14` [[2026-09-14-monday-september-14-2026|Monday, September 14, 2026]]
+- `2026-09-14` [[2026-09-14-microsoft-publishes-first-humanist-ai-code-of-conduct-for-ma|Microsoft Publishes First "Humanist AI" Code of Conduct for MAI Models]]
+- `2026-09-14` [[2026-09-14-king-charles-to-host-ai-executives-as-safety-fears-mount|King Charles to host AI executives as safety fears mount]]
+- `2026-09-14` [[2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a|Jensen Huang tells Trump onstage: "We're not going to let [an AI slowdown] happen"]]
+- `2026-09-14` [[2026-09-14-germany-says-halting-ai-development-is-not-viable-and-calls|Germany says halting AI development is not viable and calls for U.S.-China involvement]]
+- `2026-09-14` [[2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s|Beijing pushes back on Anthropic CEO's call to curb China's AI development]]
+- `2026-09-14` [[2026-09-14-beijing-formally-rebukes-amodei-s-call-to-curb-china-s-ai-de|Beijing Formally Rebukes Amodei's Call to Curb China's AI Development]]
+- `2026-09-14` [[2026-09-14-beijing-calls-slowdown-warnings-fearmongering-trump-dismisse|Beijing Calls Slowdown Warnings "Fearmongering"; Trump Dismisses Advocates]]
+- `2026-09-14` [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe|Anthropic, OpenAI, and Google discussed creating a new AI safety body]]
+- `2026-09-14` [[2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon|Altman confirms OpenAI, Anthropic, and Google have been in months-long informal joint self-regulation talks]]
+- `2026-09-14` [[2026-09-14-altman-spells-out-the-pacing-case-we-could-lose-control-as-w|Altman Spells Out the Pacing Case — ‘We Could Lose Control’ — as Washington Balks and Beijing Calls It Fearmongering]]
+- `2026-09-14` [[2026-09-14-ajc-com-reports-senator-jon-ossoff-has-called-for-federal-in|AJC.com reports Senator Jon Ossoff has called for federal inspectors to be embedded inside frontier AI labs, following the OpenAI Senate probe and the coordinated Amodei/Altman/Hassabis safety warnings. The Next Web separately reports on a new Senate bill that would give Washington statutory authority to block AI models from release. King Charles is also hosting AI executives in Scotland for safety talks, per Quartz — a striking multinational escalation of the political attention on frontier AI in a single 24-hour window.]]
 - `2026-09-13` [[2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight|Xi pitches a BRICS open-source AI bloc as the counterweight to US closed models]]
 - `2026-09-13` [[2026-09-13-xi-pitches-china-s-ai-vision-at-the-brics-summit|Xi pitches China's AI vision at the BRICS summit]]
+- `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-tom-s-hardware-chinese-military-researchers-built-16-air-def|Tom's Hardware: Chinese military researchers built 16 air-defense suppression tools using Claude]]
+- `2026-09-13` [[2026-09-13-techcrunch-what-s-actually-behind-the-industry-s-coordinated|TechCrunch: what's actually behind the industry's coordinated "AI doom" turn this week]]
 - `2026-09-13` [[2026-09-13-sunday-september-13-2026|Sunday, September 13, 2026]]
+- `2026-09-13` [[2026-09-13-semianalysis-projects-nvidia-could-hold-1-4-trillion-in-cash|SemiAnalysis projects Nvidia could hold $1.4 trillion in cash and investments by fiscal 2031]]
 - `2026-09-13` [[2026-09-13-safety-becomes-the-frontier-story-and-capital-keeps-accelera|Safety Becomes the Frontier Story — and Capital Keeps Accelerating]]
+- `2026-09-13` [[2026-09-13-obama-urges-democrats-to-make-ai-a-central-agenda-item|Obama urges Democrats to make AI a central agenda item]]
+- `2026-09-13` [[2026-09-13-obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards|Obama Urges Democrats to Have a ‘Clear Plan’ for AI Safeguards]]
+- `2026-09-13` [[2026-09-13-inside-the-ai-industry-s-loudest-existential-risk-debate-yet|Inside the AI industry's loudest existential-risk debate yet]]
 - `2026-09-13` [[2026-09-13-google-researcher-dissents-stability-is-the-speed-limit|Google Researcher Dissents: “Stability Is the Speed Limit”]]
 - `2026-09-13` [[2026-09-13-google-deepmind-safety-researcher-resigns-as-google-moves-ai|Google DeepMind safety researcher resigns as Google moves AI Responsibility team out of DeepMind]]
 - `2026-09-13` [[2026-09-13-google-deepmind-safety-researcher-resigns-warns-of-terrifyin|Google DeepMind Safety Researcher Resigns, Warns of "Terrifying Chance" of Major AI Harm]]
+- `2026-09-13` [[2026-09-13-four-largest-ai-labs-endorse-a-slower-development-pace-in-a|Four largest AI labs endorse a slower development pace in a single day]]
 - `2026-09-13` [[2026-09-13-firstpost-moneycontrol-and-storyboard18-report-another-googl|Firstpost, Moneycontrol, and Storyboard18 report another Google DeepMind AI safety researcher has resigned, publicly citing a "terrifying chance" AI could cause immense harm. Times of India also reports Google is moving its AI responsibility team out of DeepMind entirely, starting this month — a structural shift that critics say weakens safety integration inside model development. Combined with the Amodei/Altman/Hassabis slowdown call, the day's news suggests unusually coordinated concern from within the industry itself.]]
 - `2026-09-13` [[2026-09-13-anthropic-openai-and-google-quietly-discussed-forming-an-ind|Anthropic, OpenAI, and Google quietly discussed forming an industry AI safety standards body]]
+- `2026-09-13` [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-industry-ai|Anthropic, OpenAI, and Google Quietly Discussed an Industry AI Safety Standards Body]]
 - `2026-09-13` [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-ai-standard|Anthropic, OpenAI, and Google Quietly Discussed an AI Standards Body]]
+- `2026-09-13` [[2026-09-13-anthropic-s-three-step-pace-the-frontier-plan-wins-openai-xa|Anthropic's Three-Step ‘Pace the Frontier’ Plan Wins OpenAI, xAI and Microsoft Support — But Only One Lab Has Bound Itself]]
 - `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
 - `2026-09-13` [[2026-09-13-amodei-the-industry-lied-about-ai-risks-altman-and-hassabis|Amodei: "The Industry Lied About AI Risks" — Altman and Hassabis Align on Slowdown]]
 - `2026-09-13` [[2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk|Amodei says "the industry lied" about AI risks; Altman and Musk publicly back a slowdown]]

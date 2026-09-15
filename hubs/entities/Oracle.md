@@ -1,17 +1,21 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 211
+member_count: 215
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 211 connected article(s).
+> Auto-generated entity hub. 215 connected article(s).
 
 - `2026-09-14` [[2026-09-14-oracle-health-expands-clinical-ai-agent-to-nurses|Oracle Health Expands Clinical AI Agent to Nurses]]
 - `2026-09-14` [[2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale|Oracle Begins Layoffs as Ellison Cancels $7.5B Stock Sale]]
-- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy targets $50M in annual cost savings with AI]]
-- `2026-09-13` [[2026-09-13-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale|Oracle begins layoffs as Ellison cancels $7.5B share sale]]
+- `2026-09-14` [[2026-09-14-monday-september-14-2026|Monday, September 14, 2026]]
+- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy Targets $50M in Annual Cost Savings With AI]]
+- `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
+- `2026-09-13` [[2026-09-13-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale|Oracle Begins Layoffs as Ellison Cancels $7.5B Share Sale]]
+- `2026-09-13` [[2026-09-13-larry-ellison-cancels-planned-7-5-billion-sale-of-oracle-sto|Larry Ellison cancels planned $7.5 billion sale of Oracle stock]]
+- `2026-09-13` [[2026-09-13-larry-ellison-cancels-7-5-billion-oracle-stock-sale|Larry Ellison cancels $7.5 billion Oracle stock sale]]
 - `2026-09-13` [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-ai-standard|Anthropic, OpenAI, and Google Quietly Discussed an AI Standards Body]]
 - `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
 - `2026-09-12` [[2026-09-12-saturday-september-12-2026|Saturday, September 12, 2026]]

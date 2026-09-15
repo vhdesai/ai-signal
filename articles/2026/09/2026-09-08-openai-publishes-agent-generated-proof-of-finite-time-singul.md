@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-09-09-openai-claims-10-000-agent-system-produced-navier-stokes-pro
 - 2026-09-09-openai-s-agent-generated-navier-stokes-proof-draws-lean-veri
 - 2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai
+- 2026-09-14-clay-mathematics-institute-navier-stokes-millennium-prize-pr
 - 2026-09-08-quanta-the-proof-is-lean-verified-but-scope-and-precedence-a
 embedding_id: 2026-09-08-openai-publishes-agent-generated-proof-of-finite-time-singul
 event_name: ''
@@ -38,5 +39,5 @@ OpenAI released an analytical proof and a Lean formalization showing that an ini
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-09-openai-claims-10-000-agent-system-produced-navier-stokes-pro]] · [[2026-09-09-openai-s-agent-generated-navier-stokes-proof-draws-lean-veri]] · [[2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai]] · [[2026-09-08-quanta-the-proof-is-lean-verified-but-scope-and-precedence-a]]
+**Related:** [[2026-09-09-openai-claims-10-000-agent-system-produced-navier-stokes-pro]] · [[2026-09-09-openai-s-agent-generated-navier-stokes-proof-draws-lean-veri]] · [[2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai]] · [[2026-09-14-clay-mathematics-institute-navier-stokes-millennium-prize-pr]] · [[2026-09-08-quanta-the-proof-is-lean-verified-but-scope-and-precedence-a]]
 <!-- graph:end -->

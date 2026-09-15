@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-11-cognition-raises-2b-at-a-48b-valuation-as-agentic-coding-tak
+- 2026-09-14-openai-publishes-perplexity-case-study-astra-now-trusted-wit
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit
 embedding_id: 2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra
@@ -37,5 +38,5 @@ OpenAI published a customer story with Cognition detailing how Devin uses GPT-6 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-11-cognition-raises-2b-at-a-48b-valuation-as-agentic-coding-tak]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit]]
+**Related:** [[2026-09-11-cognition-raises-2b-at-a-48b-valuation-as-agentic-coding-tak]] · [[2026-09-14-openai-publishes-perplexity-case-study-astra-now-trusted-wit]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit]]
 <!-- graph:end -->

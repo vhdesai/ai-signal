@@ -1,22 +1,40 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1092
+member_count: 1110
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1092 connected article(s).
+> Auto-generated topic hub. 1110 connected article(s).
 
-- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy targets $50M in annual cost savings with AI]]
-- `2026-09-14` [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo|Anthropic picks Nasdaq for potential IPO]]
+- `2026-09-14` [[2026-09-14-z-ai-raises-5b-shares-fall-more-than-10-on-dilution|Z.ai Raises $5B; Shares Fall More Than 10% on Dilution]]
+- `2026-09-14` [[2026-09-14-superhuman-acquires-ai-notetaker-fathom-to-push-into-agentic|Superhuman acquires AI notetaker Fathom to push into agentic work]]
+- `2026-09-14` [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen|Nvidia and chip stocks fall as AI CEOs call for a development slowdown]]
+- `2026-09-14` [[2026-09-14-former-apple-researchers-raise-50m-for-ai-models-with-more-n|Former Apple researchers raise $50M for AI models with more natural conversation]]
+- `2026-09-14` [[2026-09-14-cornelis-raises-205m-to-challenge-nvidia-s-networking-domina|Cornelis raises $205M to challenge Nvidia's networking dominance]]
+- `2026-09-14` [[2026-09-14-china-s-z-ai-raises-5b-through-combined-hk-share-placement-a|China's Z.ai raises ~$5B through combined HK share placement and convertible bond]]
+- `2026-09-14` [[2026-09-14-cnbc-daily-open-whoever-wins-ai-wins|CNBC Daily Open: ‘Whoever Wins AI, Wins’]]
+- `2026-09-14` [[2026-09-14-buildots-raises-130m-at-a-near-1b-valuation-on-data-center-c|Buildots raises $130M at a near-$1B valuation on data-center construction demand]]
+- `2026-09-14` [[2026-09-14-buildots-raises-130m-with-intel-capital-participating-on-ai|Buildots Raises $130M, With Intel Capital Participating, on AI Data-Centre Construction Demand]]
+- `2026-09-14` [[2026-09-14-buildots-raises-130m-as-ai-data-center-construction-becomes|Buildots Raises $130M as AI Data-Center Construction Becomes the Bottleneck]]
+- `2026-09-14` [[2026-09-14-anthropic-s-517b-compute-commitments-collide-with-its-own-sl|Anthropic's $517B compute commitments collide with its own slowdown message]]
+- `2026-09-14` [[2026-09-14-anthropic-s-517b-compute-book-undercuts-its-own-slowdown-mes|Anthropic's $517B Compute Book Undercuts Its Own Slowdown Message]]
+- `2026-09-14` [[2026-09-14-anthropic-walks-a-tightrope-to-nasdaq-preaching-restraint-wh|Anthropic Walks a Tightrope to Nasdaq: Preaching Restraint While Pursuing a ~$2 Trillion Valuation]]
+- `2026-09-14` [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo|Anthropic Picks Nasdaq for Potential IPO]]
+- `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
+- `2026-09-13` [[2026-09-13-techcrunch-what-s-actually-behind-the-industry-s-coordinated|TechCrunch: what's actually behind the industry's coordinated "AI doom" turn this week]]
 - `2026-09-13` [[2026-09-13-sunday-september-13-2026|Sunday, September 13, 2026]]
 - `2026-09-13` [[2026-09-13-sam-altman-confirms-openai-will-not-ipo-in-2026|Sam Altman Confirms OpenAI Will Not IPO in 2026]]
 - `2026-09-13` [[2026-09-13-safety-becomes-the-frontier-story-and-capital-keeps-accelera|Safety Becomes the Frontier Story — and Capital Keeps Accelerating]]
+- `2026-09-13` [[2026-09-13-openai-rules-out-a-2026-ipo-citing-safety-concerns|OpenAI Rules Out a 2026 IPO, Citing Safety Concerns]]
 - `2026-09-13` [[2026-09-13-nvidia-weighs-up-to-10b-as-anchor-investor-in-anthropic-s-2t|Nvidia weighs up to $10B as anchor investor in Anthropic's ~$2T IPO]]
 - `2026-09-13` [[2026-09-13-nvidia-weighs-up-to-10b-anchor-stake-in-anthropic-ipo-at-rou|Nvidia Weighs Up to $10B Anchor Stake in Anthropic IPO at Roughly $2 Trillion]]
+- `2026-09-13` [[2026-09-13-inside-the-ai-industry-s-loudest-existential-risk-debate-yet|Inside the AI industry's loudest existential-risk debate yet]]
 - `2026-09-13` [[2026-09-13-google-deepmind-safety-researcher-resigns-warns-of-terrifyin|Google DeepMind Safety Researcher Resigns, Warns of "Terrifying Chance" of Major AI Harm]]
 - `2026-09-13` [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-ai-standard|Anthropic, OpenAI, and Google Quietly Discussed an AI Standards Body]]
+- `2026-09-13` [[2026-09-13-anthropic-s-517-billion-compute-commitment-sits-awkwardly-be|Anthropic's $517 Billion Compute Commitment Sits Awkwardly Beside Its Slowdown Call]]
+- `2026-09-13` [[2026-09-13-anthropic-selects-nasdaq-for-its-potential-ipo|Anthropic Selects Nasdaq for Its Potential IPO]]
 - `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
 - `2026-09-13` [[2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk|Amodei says "the industry lied" about AI risks; Altman and Musk publicly back a slowdown]]
 - `2026-09-13` [[2026-09-13-amazon-not-nvidia-carries-the-larger-balance-sheet-exposure|Amazon, not Nvidia, carries the larger balance-sheet exposure to Anthropic's compute build]]

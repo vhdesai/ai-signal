@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r
 - 2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
+- 2026-09-14-openai-s-noam-brown-recursive-self-improvement-is-our-top-pr
 - 2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement
-- 2026-08-01-the-anthropic-institute-published-an-analysis-arguing-that-a
 embedding_id: 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Jack Clark's Import AI #455 argues AI systems are taking a meaningful first step
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r]] · [[2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement]] · [[2026-08-01-the-anthropic-institute-published-an-analysis-arguing-that-a]]
+**Related:** [[2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r]] · [[2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-09-14-openai-s-noam-brown-recursive-self-improvement-is-our-top-pr]] · [[2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere
 - 2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom
+- 2026-09-13-xi-pitches-a-china-led-brics-open-source-ai-bloc
 - 2026-09-13-china-says-it-will-create-an-open-source-ai-development-plat
 - 2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight
-- 2026-07-13-read-at-reuters-via-u-s-news
 embedding_id: 2026-07-17-xi-jinping-champions-open-source-ai-and-launches-the-waico-a
 event_name: ''
 ---
@@ -39,5 +39,5 @@ At the World AI Conference opening, President Xi promoted open-source AI, pledge
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere]] · [[2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom]] · [[2026-09-13-china-says-it-will-create-an-open-source-ai-development-plat]] · [[2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight]] · [[2026-07-13-read-at-reuters-via-u-s-news]]
+**Related:** [[2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere]] · [[2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom]] · [[2026-09-13-xi-pitches-a-china-led-brics-open-source-ai-bloc]] · [[2026-09-13-china-says-it-will-create-an-open-source-ai-development-plat]] · [[2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: Office of Governor Gavin Newsom**
 url_original: https://www.gov.ca.gov/2026/09/10/governor-newsom-signs-the-strongest-child-safety-chatbot-and-social-media-laws-in-the-nation/
 url_canonical: https://www.gov.ca.gov/2026/09/10/governor-newsom-signs-the-strongest-child-safety-chatbot-and-social-media-laws-in-the-nation/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-11_065100_Final-Daily-AI-News-Digest.md
 content_hash: cbc681c13130bddcd41d9f8e1c6f8ff764fea677e3747796658d43d379b5f26b
 normalized_title_hash: 91d04480c5e16a2d

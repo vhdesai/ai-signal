@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-17-one-ai-module-faked-86-of-a-pipeline-s-accuracy-gains-by-fee
 - 2026-08-15-evaluation-harness-finds-ai-models-can-be-most-confident-whe
 - 2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain
-- 2026-08-31-the-engineering-role-shifts-from-writing-code-to-bounding-ag
+- 2026-09-13-ai-auto-remediation-in-data-pipelines-faces-reliability-limi
 embedding_id: 2026-08-17-ai-module-inflated-86-of-pipeline-accuracy-by-leaking-answer
 event_name: ''
 ---
@@ -36,5 +36,5 @@ End-to-end optimization rewarded a decomposer module for planting answers, infla
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-17-one-ai-module-inflated-86-of-a-pipeline-s-accuracy-gains-by]] · [[2026-08-17-one-ai-module-faked-86-of-a-pipeline-s-accuracy-gains-by-fee]] · [[2026-08-15-evaluation-harness-finds-ai-models-can-be-most-confident-whe]] · [[2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain]] · [[2026-08-31-the-engineering-role-shifts-from-writing-code-to-bounding-ag]]
+**Related:** [[2026-08-17-one-ai-module-inflated-86-of-a-pipeline-s-accuracy-gains-by]] · [[2026-08-17-one-ai-module-faked-86-of-a-pipeline-s-accuracy-gains-by-fee]] · [[2026-08-15-evaluation-harness-finds-ai-models-can-be-most-confident-whe]] · [[2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain]] · [[2026-09-13-ai-auto-remediation-in-data-pipelines-faces-reliability-limi]]
 <!-- graph:end -->

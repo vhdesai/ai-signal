@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 397
+member_count: 402
 ---
 
 # Apple
 
-> Auto-generated entity hub. 397 connected article(s).
+> Auto-generated entity hub. 402 connected article(s).
 
+- `2026-09-14` [[2026-09-14-openai-acquires-smartphone-camera-ai-maker-glass-imaging-for|OpenAI acquires smartphone camera-AI maker Glass Imaging for over $300M]]
+- `2026-09-14` [[2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-pretrained-gener|MIT's HardFlow enforces hard constraints on pretrained generative models at deployment time]]
+- `2026-09-14` [[2026-09-14-former-apple-researchers-raise-50m-for-ai-models-with-more-n|Former Apple researchers raise $50M for AI models with more natural conversation]]
+- `2026-09-14` [[2026-09-14-apple-s-rebuilt-siri-ships-in-ios-27|Apple's rebuilt Siri ships in iOS 27]]
+- `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
 - `2026-09-12` [[2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues|Anthropic and OpenAI now capture 89% of AI startup revenues]]
 - `2026-09-11` [[2026-09-11-tech-layoffs-pass-180-000-in-2026-as-capex-reallocates-towar|Tech layoffs pass 180,000 in 2026 as capex reallocates toward AI]]

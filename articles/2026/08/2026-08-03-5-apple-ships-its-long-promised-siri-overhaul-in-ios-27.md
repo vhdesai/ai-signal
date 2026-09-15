@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the
 - 2026-08-03-apple-s-long-delayed-siri-ai-overhaul-finally-ships
 - 2026-07-14-apple-opens-redesigned-siri-ai-through-the-ios-27-public-bet
+- 2026-09-14-apple-s-rebuilt-siri-ships-in-ios-27
 - 2026-09-11-apple-s-rebuilt-siri-ships-next-week-with-ios-27
-- 2026-07-06-apple-adds-siri-pace-and-expressivity-controls-in-the-ios-27
 embedding_id: 2026-08-03-5-apple-ships-its-long-promised-siri-overhaul-in-ios-27
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The overhauled Siri arrives in the iOS 27 beta with personal context and on-devi
 ## Connections
 
 **Entities:** [[Amazon]] · [[Apple]]
-**Related:** [[2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the]] · [[2026-08-03-apple-s-long-delayed-siri-ai-overhaul-finally-ships]] · [[2026-07-14-apple-opens-redesigned-siri-ai-through-the-ios-27-public-bet]] · [[2026-09-11-apple-s-rebuilt-siri-ships-next-week-with-ios-27]] · [[2026-07-06-apple-adds-siri-pace-and-expressivity-controls-in-the-ios-27]]
+**Related:** [[2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the]] · [[2026-08-03-apple-s-long-delayed-siri-ai-overhaul-finally-ships]] · [[2026-07-14-apple-opens-redesigned-siri-ai-through-the-ios-27-public-bet]] · [[2026-09-14-apple-s-rebuilt-siri-ships-in-ios-27]] · [[2026-09-11-apple-s-rebuilt-siri-ships-next-week-with-ios-27]]
 <!-- graph:end -->

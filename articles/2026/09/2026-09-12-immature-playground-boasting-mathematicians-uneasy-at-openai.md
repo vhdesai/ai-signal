@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-08-openai-publishes-agent-generated-proof-of-finite-time-singul
 - 2026-09-09-openai-claims-10-000-agent-system-produced-navier-stokes-pro
 - 2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke
-- 2026-09-12-mathematicians-push-back-on-openai-s-math-prize-claim-as-imm
+- 2026-09-14-clay-mathematics-institute-navier-stokes-millennium-prize-pr
 embedding_id: 2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Coverage of the academic backlash to OpenAI's claim that a 10,000-agent swarm re
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-08-openai-publishes-agent-generated-proof-of-finite-time-singul]] · [[2026-09-09-openai-claims-10-000-agent-system-produced-navier-stokes-pro]] · [[2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke]] · [[2026-09-12-mathematicians-push-back-on-openai-s-math-prize-claim-as-imm]]
+**Related:** [[2026-09-08-openai-publishes-agent-generated-proof-of-finite-time-singul]] · [[2026-09-09-openai-claims-10-000-agent-system-produced-navier-stokes-pro]] · [[2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke]] · [[2026-09-14-clay-mathematics-institute-navier-stokes-millennium-prize-pr]]
 <!-- graph:end -->

@@ -20,10 +20,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-13-xi-pitches-a-china-led-brics-open-source-ai-bloc
+- 2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so
 - 2026-09-13-china-says-it-will-create-an-open-source-ai-development-plat
+- 2026-09-14-china-rejects-us-pacing-proposal-as-fearmongering-xi-pitches
 - 2026-09-13-xi-pitches-china-s-ai-vision-at-the-brics-summit
-- 2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom
-- 2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere
 embedding_id: 2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Speaking at the BRICS summit in New Delhi, Xi Jinping said China will pioneer a 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-13-china-says-it-will-create-an-open-source-ai-development-plat]] · [[2026-09-13-xi-pitches-china-s-ai-vision-at-the-brics-summit]] · [[2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom]] · [[2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere]]
+**Related:** [[2026-09-13-xi-pitches-a-china-led-brics-open-source-ai-bloc]] · [[2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so]] · [[2026-09-13-china-says-it-will-create-an-open-source-ai-development-plat]] · [[2026-09-14-china-rejects-us-pacing-proposal-as-fearmongering-xi-pitches]] · [[2026-09-13-xi-pitches-china-s-ai-vision-at-the-brics-summit]]
 <!-- graph:end -->

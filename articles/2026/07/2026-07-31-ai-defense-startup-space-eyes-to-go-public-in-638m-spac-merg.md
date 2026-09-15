@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation
 - 2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq
 - 2026-09-11-spacex-signs-1-1b-per-month-ai-compute-deal-with-undisclosed
 - 2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l
 - 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
-- 2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio
 embedding_id: 2026-07-31-ai-defense-startup-space-eyes-to-go-public-in-638m-spac-merg
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Space-Eyes agreed to merge with McKinley Acquisition Corp. at roughly a $638M va
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
-**Related:** [[2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq]] · [[2026-09-11-spacex-signs-1-1b-per-month-ai-compute-deal-with-undisclosed]] · [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio]]
+**Related:** [[2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation]] · [[2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq]] · [[2026-09-11-spacex-signs-1-1b-per-month-ai-compute-deal-with-undisclosed]] · [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]]
 <!-- graph:end -->

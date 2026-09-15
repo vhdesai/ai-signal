@@ -1,26 +1,30 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1343
+member_count: 1347
 ---
 
 # Google
 
-> Auto-generated entity hub. 1343 connected article(s).
+> Auto-generated entity hub. 1347 connected article(s).
 
+- `2026-09-15` [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t|Nadella internal memo: pace the frontier or lose "permission to operate"]]
 - `2026-09-14` [[2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale|Oracle Begins Layoffs as Ellison Cancels $7.5B Stock Sale]]
-- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy targets $50M in annual cost savings with AI]]
+- `2026-09-14` [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe|Anthropic, OpenAI, and Google discussed creating a new AI safety body]]
+- `2026-09-14` [[2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon|Altman confirms OpenAI, Anthropic, and Google have been in months-long informal joint self-regulation talks]]
+- `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-sunday-september-13-2026|Sunday, September 13, 2026]]
-- `2026-09-13` [[2026-09-13-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale|Oracle begins layoffs as Ellison cancels $7.5B share sale]]
-- `2026-09-13` [[2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers|Nvidia's growing dependence on a handful of AI customers]]
+- `2026-09-13` [[2026-09-13-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale|Oracle Begins Layoffs as Ellison Cancels $7.5B Share Sale]]
+- `2026-09-13` [[2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers|NVIDIA's Growing Dependence on a Handful of AI Customers]]
 - `2026-09-13` [[2026-09-13-jeff-dean-s-stealth-ai-startup-identified-as-discovery-loop|Jeff Dean's stealth AI startup identified as "Discovery Loop"; ~$50B target]]
 - `2026-09-13` [[2026-09-13-google-researcher-dissents-stability-is-the-speed-limit|Google Researcher Dissents: “Stability Is the Speed Limit”]]
 - `2026-09-13` [[2026-09-13-google-deepmind-safety-researcher-resigns-as-google-moves-ai|Google DeepMind safety researcher resigns as Google moves AI Responsibility team out of DeepMind]]
 - `2026-09-13` [[2026-09-13-google-deepmind-safety-researcher-resigns-warns-of-terrifyin|Google DeepMind Safety Researcher Resigns, Warns of "Terrifying Chance" of Major AI Harm]]
 - `2026-09-13` [[2026-09-13-firstpost-moneycontrol-and-storyboard18-report-another-googl|Firstpost, Moneycontrol, and Storyboard18 report another Google DeepMind AI safety researcher has resigned, publicly citing a "terrifying chance" AI could cause immense harm. Times of India also reports Google is moving its AI responsibility team out of DeepMind entirely, starting this month — a structural shift that critics say weakens safety integration inside model development. Combined with the Amodei/Altman/Hassabis slowdown call, the day's news suggests unusually coordinated concern from within the industry itself.]]
 - `2026-09-13` [[2026-09-13-anthropic-openai-and-google-quietly-discussed-forming-an-ind|Anthropic, OpenAI, and Google quietly discussed forming an industry AI safety standards body]]
+- `2026-09-13` [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-industry-ai|Anthropic, OpenAI, and Google Quietly Discussed an Industry AI Safety Standards Body]]
 - `2026-09-13` [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-ai-standard|Anthropic, OpenAI, and Google Quietly Discussed an AI Standards Body]]
-- `2026-09-13` [[2026-09-13-anthropic-strikes-13-7b-six-year-compute-deal-with-trump-lin|Anthropic strikes $13.7B, six-year compute deal with Trump-linked Rum Group]]
+- `2026-09-13` [[2026-09-13-anthropic-strikes-13-7b-six-year-compute-deal-with-trump-lin|Anthropic Strikes $13.7B, Six-Year Compute Deal With Trump-Linked Rum Group]]
 - `2026-09-13` [[2026-09-13-anthropic-signs-13-7b-six-year-compute-deal-with-trump-linke|Anthropic Signs $13.7B, Six-Year Compute Deal With Trump-Linked Rum Group]]
 - `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
 - `2026-09-13` [[2026-09-13-amodei-the-industry-lied-about-ai-risks-altman-and-hassabis|Amodei: "The Industry Lied About AI Risks" — Altman and Hassabis Align on Slowdown]]

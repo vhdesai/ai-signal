@@ -1,16 +1,20 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 568
+member_count: 572
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 568 connected article(s).
+> Auto-generated entity hub. 572 connected article(s).
 
+- `2026-09-15` [[2026-09-15-salesforce-and-aws-expand-ai-integrations-across-slack-and-a|Salesforce and AWS expand AI integrations across Slack and Amazon Quick]]
 - `2026-09-14` [[2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors|NVIDIA Expands CUDA-Q to Fault-Tolerant Quantum Processors]]
+- `2026-09-14` [[2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-pretrained-gener|MIT's HardFlow enforces hard constraints on pretrained generative models at deployment time]]
+- `2026-09-14` [[2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow|Global AI Stocks Sell Off After Lab CEOs Jointly Urge a Slowdown]]
+- `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-sunday-september-13-2026|Sunday, September 13, 2026]]
-- `2026-09-13` [[2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers|Nvidia's growing dependence on a handful of AI customers]]
+- `2026-09-13` [[2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers|NVIDIA's Growing Dependence on a Handful of AI Customers]]
 - `2026-09-13` [[2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce|Meta Acquires Stilla.ai to Expand Business Agent Commerce]]
 - `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
 - `2026-09-13` [[2026-09-13-amazon-not-nvidia-carries-the-larger-balance-sheet-exposure|Amazon, not Nvidia, carries the larger balance-sheet exposure to Anthropic's compute build]]

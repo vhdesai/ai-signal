@@ -2,17 +2,17 @@
 article_id: 2026-09-13-anthropic-signs-13-7b-six-year-compute-deal-with-trump-linke
 title: Anthropic Signs $13.7B, Six-Year Compute Deal With Trump-Linked Rum Group
 date: '2026-09-13'
-source: The Information**
+source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic+Rum+Group+compute+deal
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic+Rum+Group+compute+deal
 url_status: broken
-digest_source: digests\raw\2026-09-14_065200_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-09-14_065405_Inbox_Daily AI News Digest - September
+  14, 2026.md
 content_hash: 0602690f15208b2f5c16844985a6f22d04d31afb5c03c2bfb6d52d38409a0d54
 normalized_title_hash: ed30b37ce0a86f7e
 canonical_url_hash: 9cd008c6dae14d5b
 tags:
 - Breaking
-- Funding
 entities:
 - Anthropic
 - Google

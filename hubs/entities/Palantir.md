@@ -1,16 +1,18 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 160
+member_count: 162
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 160 connected article(s).
+> Auto-generated entity hub. 162 connected article(s).
 
 - `2026-09-14` [[2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-model-use|NVIDIA, Palantir, and Booz Allen Restrict Anthropic Model Use Over Data Fears]]
-- `2026-09-14` [[2026-09-14-exclusive-nvidia-palantir-and-booz-allen-restrict-anthropic|Exclusive: Nvidia, Palantir, and Booz Allen restrict Anthropic and OpenAI model use over data fears]]
-- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy targets $50M in annual cost savings with AI]]
+- `2026-09-14` [[2026-09-14-monday-september-14-2026|Monday, September 14, 2026]]
+- `2026-09-14` [[2026-09-14-exclusive-nvidia-palantir-and-booz-allen-restrict-anthropic|Exclusive: NVIDIA, Palantir, and Booz Allen Restrict Anthropic and OpenAI Model Use Over Data Fears]]
+- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy Targets $50M in Annual Cost Savings With AI]]
+- `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-ai-standard|Anthropic, OpenAI, and Google Quietly Discussed an AI Standards Body]]
 - `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
 - `2026-09-12` [[2026-09-12-nebius-and-palantir-announce-sovereign-ai-partnership-behind|Nebius and Palantir Announce Sovereign-AI Partnership Behind a $250B Capacity Ambition]]

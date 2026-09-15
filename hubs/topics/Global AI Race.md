@@ -1,22 +1,43 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1281
+member_count: 1302
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1281 connected article(s).
+> Auto-generated topic hub. 1302 connected article(s).
 
-- `2026-09-14` [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor|Shanghai AI Lab ships Intern W0, a force-tactile physical world model for robotics]]
+- `2026-09-15` [[2026-09-15-bytedance-h1-profit-drops-to-20b-on-ai-spending-revenue-up-3|ByteDance H1 profit drops to $20B on AI spending, revenue up 30% to $120B]]
+- `2026-09-14` [[2026-09-14-z-ai-raises-5b-shares-fall-more-than-10-on-dilution|Z.ai Raises $5B; Shares Fall More Than 10% on Dilution]]
+- `2026-09-14` [[2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so|Xi at BRICS: China will lead AI cooperation for the Global South via new World AI Cooperation Organization]]
+- `2026-09-14` [[2026-09-14-un-calls-for-urgent-action-on-ai-framing-unprecedented-risks|UN calls for "urgent action" on AI, framing "unprecedented risks"]]
+- `2026-09-14` [[2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit|Trump downplays need to check AI development, citing competition with China]]
 - `2026-09-14` [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f|Shanghai AI Lab Ships Intern W0, a Physical World Model for Force-Tactile Robotics]]
-- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy targets $50M in annual cost savings with AI]]
-- `2026-09-14` [[2026-09-14-beijing-formally-rebukes-amodei-s-call-to-curb-china-s-ai-de|Beijing formally rebukes Amodei's call to curb China's AI development]]
+- `2026-09-14` [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor|Shanghai AI Lab Ships Intern W0, a Force-Tactile Physical World Model for Robotics]]
+- `2026-09-14` [[2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with|Sam Altman says AI's rapid progress could go "very badly" without controls]]
+- `2026-09-14` [[2026-09-14-monday-september-14-2026|Monday, September 14, 2026]]
+- `2026-09-14` [[2026-09-14-mcdonald-s-and-meituan-launch-china-s-first-restaurant-brand|McDonald's and Meituan launch China's first restaurant-brand drone-delivery route in Shanghai]]
+- `2026-09-14` [[2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a|Jensen Huang tells Trump onstage: "We're not going to let [an AI slowdown] happen"]]
+- `2026-09-14` [[2026-09-14-germany-says-halting-ai-development-is-not-viable-and-calls|Germany says halting AI development is not viable and calls for U.S.-China involvement]]
+- `2026-09-14` [[2026-09-14-china-s-z-ai-raises-5b-through-combined-hk-share-placement-a|China's Z.ai raises ~$5B through combined HK share placement and convertible bond]]
+- `2026-09-14` [[2026-09-14-china-rejects-us-pacing-proposal-as-fearmongering-xi-pitches|China rejects US "pacing" proposal as fearmongering; Xi pitches BRICS AI cooperation]]
+- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy Targets $50M in Annual Cost Savings With AI]]
+- `2026-09-14` [[2026-09-14-cnbc-daily-open-whoever-wins-ai-wins|CNBC Daily Open: ‘Whoever Wins AI, Wins’]]
+- `2026-09-14` [[2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s|Beijing pushes back on Anthropic CEO's call to curb China's AI development]]
+- `2026-09-14` [[2026-09-14-beijing-issues-its-own-ai-risk-warnings-but-rejects-us-calls|Beijing issues its own AI risk warnings but rejects US calls to slow development]]
+- `2026-09-14` [[2026-09-14-beijing-formally-rebukes-amodei-s-call-to-curb-china-s-ai-de|Beijing Formally Rebukes Amodei's Call to Curb China's AI Development]]
+- `2026-09-14` [[2026-09-14-beijing-calls-slowdown-warnings-fearmongering-trump-dismisse|Beijing Calls Slowdown Warnings "Fearmongering"; Trump Dismisses Advocates]]
+- `2026-09-14` [[2026-09-14-altman-spells-out-the-pacing-case-we-could-lose-control-as-w|Altman Spells Out the Pacing Case — ‘We Could Lose Control’ — as Washington Balks and Beijing Calls It Fearmongering]]
+- `2026-09-13` [[2026-09-13-xi-pitches-a-china-led-brics-open-source-ai-bloc|Xi pitches a China-led BRICS open-source AI bloc]]
 - `2026-09-13` [[2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight|Xi pitches a BRICS open-source AI bloc as the counterweight to US closed models]]
 - `2026-09-13` [[2026-09-13-xi-pitches-china-s-ai-vision-at-the-brics-summit|Xi pitches China's AI vision at the BRICS summit]]
+- `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
+- `2026-09-13` [[2026-09-13-trump-ai-slowdown-would-cede-us-edge-to-china-warnings-are-n|Trump: AI slowdown would cede US edge to China; warnings are "negative rhetoric"]]
 - `2026-09-13` [[2026-09-13-tom-s-hardware-chinese-military-researchers-built-16-air-def|Tom's Hardware: Chinese military researchers built 16 air-defense suppression tools using Claude]]
 - `2026-09-13` [[2026-09-13-sunday-september-13-2026|Sunday, September 13, 2026]]
 - `2026-09-13` [[2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai|SCMP: US and China are now openly racing on "self-improving AI"]]
+- `2026-09-13` [[2026-09-13-obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards|Obama Urges Democrats to Have a ‘Clear Plan’ for AI Safeguards]]
 - `2026-09-13` [[2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce|Meta Acquires Stilla.ai to Expand Business Agent Commerce]]
 - `2026-09-13` [[2026-09-13-google-deepmind-safety-researcher-resigns-warns-of-terrifyin|Google DeepMind Safety Researcher Resigns, Warns of "Terrifying Chance" of Major AI Harm]]
 - `2026-09-13` [[2026-09-13-chinese-researchers-demonstrate-100x-endurance-improvement-i|Chinese researchers demonstrate ~100x endurance improvement in wurtzite ferroelectric memory]]

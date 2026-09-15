@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f
 - 2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw
 - 2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri
-- 2026-08-07-nvidia-open-sources-nooa-object-oriented-agent-framework-rea
+- 2026-09-14-nvidia-open-sources-osmo-one-yaml-file-orchestrates-physical
 embedding_id: 2026-06-30-nvidia-open-sourced-a-bionemo-agent-toolkit-that-wraps-drug
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA open-sourced a BioNeMo Agent Toolkit that wraps drug-discovery models—O
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-30-nvidia-brings-its-bionemo-agent-toolkit-into-claude-science]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]] · [[2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw]] · [[2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri]] · [[2026-08-07-nvidia-open-sources-nooa-object-oriented-agent-framework-rea]]
+**Related:** [[2026-06-30-nvidia-brings-its-bionemo-agent-toolkit-into-claude-science]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]] · [[2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw]] · [[2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri]] · [[2026-09-14-nvidia-open-sources-osmo-one-yaml-file-orchestrates-physical]]
 <!-- graph:end -->

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-10-amazon-borrows-17-5b-from-banks-as-ai-infrastructure-spendin
 - 2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta
 - 2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak
-- 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
+- 2026-09-15-bytedance-h1-profit-drops-to-20b-on-ai-spending-revenue-up-3
 embedding_id: 2026-09-06-bytedance-lands-29-6b-loan-to-fuel-ai-advances
 event_name: ''
 ---
@@ -40,5 +40,5 @@ PYMNTS reported that ByteDance secured a $29.6 billion unsecured loan from nearl
 
 **Entities:** [[ByteDance]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for]] · [[2026-06-10-amazon-borrows-17-5b-from-banks-as-ai-infrastructure-spendin]] · [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta]] · [[2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]]
+**Related:** [[2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for]] · [[2026-06-10-amazon-borrows-17-5b-from-banks-as-ai-infrastructure-spendin]] · [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta]] · [[2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak]] · [[2026-09-15-bytedance-h1-profit-drops-to-20b-on-ai-spending-revenue-up-3]]
 <!-- graph:end -->

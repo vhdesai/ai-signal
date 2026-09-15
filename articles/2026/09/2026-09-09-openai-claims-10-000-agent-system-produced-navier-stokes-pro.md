@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-08-openai-publishes-agent-generated-proof-of-finite-time-singul
 - 2026-09-09-openai-s-agent-generated-navier-stokes-proof-draws-lean-veri
+- 2026-09-14-clay-mathematics-institute-navier-stokes-millennium-prize-pr
 - 2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai
 - 2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke
-- 2026-07-13-openai-s-sol-ultra-proof-claim-draws-scrutiny-from-mathemati
 embedding_id: 2026-09-09-openai-claims-10-000-agent-system-produced-navier-stokes-pro
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI said an unreleased internal model, more capable than GPT-6 Astra, coordin
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-08-openai-publishes-agent-generated-proof-of-finite-time-singul]] · [[2026-09-09-openai-s-agent-generated-navier-stokes-proof-draws-lean-veri]] · [[2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai]] · [[2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke]] · [[2026-07-13-openai-s-sol-ultra-proof-claim-draws-scrutiny-from-mathemati]]
+**Related:** [[2026-09-08-openai-publishes-agent-generated-proof-of-finite-time-singul]] · [[2026-09-09-openai-s-agent-generated-navier-stokes-proof-draws-lean-veri]] · [[2026-09-14-clay-mathematics-institute-navier-stokes-millennium-prize-pr]] · [[2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai]] · [[2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke]]
 <!-- graph:end -->

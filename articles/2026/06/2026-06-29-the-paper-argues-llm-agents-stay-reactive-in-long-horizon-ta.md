@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 - 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
-- 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
+- 2026-09-13-long-running-agents-silently-drop-governance-rules-as-contex
 embedding_id: 2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The paper argues LLM agents stay "reactive" in long-horizon tasks because they l
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]]
+**Related:** [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-09-13-long-running-agents-silently-drop-governance-rules-as-contex]]
 <!-- graph:end -->

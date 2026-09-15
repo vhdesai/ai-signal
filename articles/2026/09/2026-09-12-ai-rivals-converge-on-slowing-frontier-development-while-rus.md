@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-09-13-altman-musk-and-hassabis-publicly-back-the-pacing-proposal
 - 2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass
 - 2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk
+- 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
 - 2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an
-- 2026-09-13-altman-musk-and-hassabis-publicly-back-amodei-s-independent
 embedding_id: 2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus
 event_name: ''
 ---
@@ -41,5 +41,5 @@ BeInCrypto reported that Sam Altman, Elon Musk, and Anthropic CEO Dario Amodei h
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-13-altman-musk-and-hassabis-publicly-back-the-pacing-proposal]] · [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]] · [[2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk]] · [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]] · [[2026-09-13-altman-musk-and-hassabis-publicly-back-amodei-s-independent]]
+**Related:** [[2026-09-13-altman-musk-and-hassabis-publicly-back-the-pacing-proposal]] · [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]] · [[2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]]
 <!-- graph:end -->

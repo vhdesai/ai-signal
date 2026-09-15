@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-12-openai-rules-out-a-2026-ipo-as-altman-musk-and-amodei-all-wa
+- 2026-09-13-openai-rules-out-a-2026-ipo-citing-safety-concerns
 - 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
 - 2026-09-12-sam-altman-an-openai-ipo-in-2026-would-be-ill-advised
 - 2026-09-13-sam-altman-confirms-openai-will-not-ipo-in-2026
-- 2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk
 embedding_id: 2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Sam Altman told Fortune that taking OpenAI public now would be "ill-advised," pu
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-12-openai-rules-out-a-2026-ipo-as-altman-musk-and-amodei-all-wa]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-09-12-sam-altman-an-openai-ipo-in-2026-would-be-ill-advised]] · [[2026-09-13-sam-altman-confirms-openai-will-not-ipo-in-2026]] · [[2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk]]
+**Related:** [[2026-09-12-openai-rules-out-a-2026-ipo-as-altman-musk-and-amodei-all-wa]] · [[2026-09-13-openai-rules-out-a-2026-ipo-citing-safety-concerns]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-09-12-sam-altman-an-openai-ipo-in-2026-would-be-ill-advised]] · [[2026-09-13-sam-altman-confirms-openai-will-not-ipo-in-2026]]
 <!-- graph:end -->

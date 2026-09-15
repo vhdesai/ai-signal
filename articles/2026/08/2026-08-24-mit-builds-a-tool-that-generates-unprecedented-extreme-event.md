@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme
 - 2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario
+- 2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-generative-model
 - 2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-05-10-mit-mean-pooling-generated-tokens-yields-sota-semantic-repre
 embedding_id: 2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT researchers Kai Chang and Themis Sapsis introduced an “Extreme Event Aware
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme]] · [[2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario]] · [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-10-mit-mean-pooling-generated-tokens-yields-sota-semantic-repre]]
+**Related:** [[2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme]] · [[2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario]] · [[2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-generative-model]] · [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
 <!-- graph:end -->

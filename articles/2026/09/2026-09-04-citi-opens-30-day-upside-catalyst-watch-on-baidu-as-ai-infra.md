@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed
+- 2026-09-14-citigroup-warns-ai-slowdown-could-pressure-stock-market-gain
 - 2026-08-17-marketwatch-ai-productivity-payoff-shifting-investor-focus-f
 - 2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc
 - 2026-05-17-microsoft-corp-dev-ai-intelligence
-- 2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri
 embedding_id: 2026-09-04-citi-opens-30-day-upside-catalyst-watch-on-baidu-as-ai-infra
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Citi opened a 30-day upside catalyst watch on Baidu, reiterating a Buy rating an
 
 **Entities:** [[Baidu]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]] · [[2026-08-17-marketwatch-ai-productivity-payoff-shifting-investor-focus-f]] · [[2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc]] · [[2026-05-17-microsoft-corp-dev-ai-intelligence]] · [[2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri]]
+**Related:** [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]] · [[2026-09-14-citigroup-warns-ai-slowdown-could-pressure-stock-market-gain]] · [[2026-08-17-marketwatch-ai-productivity-payoff-shifting-investor-focus-f]] · [[2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc]] · [[2026-05-17-microsoft-corp-dev-ai-intelligence]]
 <!-- graph:end -->

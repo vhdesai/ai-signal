@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 194
+member_count: 195
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 194 connected article(s).
+> Auto-generated entity hub. 195 connected article(s).
 
+- `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai|SCMP: US and China are now openly racing on "self-improving AI"]]
 - `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
 - `2026-09-11` [[2026-09-11-tencent-backed-enflame-roughly-triples-on-shanghai-star-mark|Tencent-backed Enflame roughly triples on Shanghai STAR Market debut after $912M raise]]

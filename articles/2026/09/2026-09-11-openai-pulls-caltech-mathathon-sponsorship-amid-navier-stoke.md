@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-09-credit-dispute-over-the-navier-stokes-result-exposes-an-acad
 - 2026-09-08-credit-dispute-over-the-navier-stokes-result-exposes-an-acad
+- 2026-09-14-openai-pulls-1m-sponsorship-of-caltech-ai-maths-contest-afte
+- 2026-09-14-clay-mathematics-institute-navier-stokes-millennium-prize-pr
 - 2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai
-- 2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai
-- 2026-09-09-openai-claims-10-000-agent-system-produced-navier-stokes-pro
 embedding_id: 2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI research lead Dan Roberts said the company is withdrawing sponsorship of 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-09-credit-dispute-over-the-navier-stokes-result-exposes-an-acad]] · [[2026-09-08-credit-dispute-over-the-navier-stokes-result-exposes-an-acad]] · [[2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai]] · [[2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai]] · [[2026-09-09-openai-claims-10-000-agent-system-produced-navier-stokes-pro]]
+**Related:** [[2026-09-09-credit-dispute-over-the-navier-stokes-result-exposes-an-acad]] · [[2026-09-08-credit-dispute-over-the-navier-stokes-result-exposes-an-acad]] · [[2026-09-14-openai-pulls-1m-sponsorship-of-caltech-ai-maths-contest-afte]] · [[2026-09-14-clay-mathematics-institute-navier-stokes-millennium-prize-pr]] · [[2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai]]
 <!-- graph:end -->

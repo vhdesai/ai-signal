@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event
 - 2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario
+- 2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-pretrained-gener
+- 2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-generative-model
 - 2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation
-- 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
-- 2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent
 embedding_id: 2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme
 event_name: ''
 ---
@@ -39,5 +39,5 @@ MIT engineers published an algorithm that generates plausible extreme-event and 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event]] · [[2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario]] · [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent]]
+**Related:** [[2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event]] · [[2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario]] · [[2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-pretrained-gener]] · [[2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-generative-model]] · [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]]
 <!-- graph:end -->

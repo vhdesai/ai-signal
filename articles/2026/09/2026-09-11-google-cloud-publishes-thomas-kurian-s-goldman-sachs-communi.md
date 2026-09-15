@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Google Cloud Blog
 url_original: https://cloud.google.com/blog/topics/inside-google-cloud/highlights-from-the-goldman-sachs-communicopia-and-technology-conference/
 url_canonical: https://cloud.google.com/blog/topics/inside-google-cloud/highlights-from-the-goldman-sachs-communicopia-and-technology-conference/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-09-12_060708_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: f3d029b184500069a3dda6538dd9e7556138bbb426cbfe4d68ea43eda4a030c0

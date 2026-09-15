@@ -2,11 +2,12 @@
 article_id: 2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-model-use
 title: NVIDIA, Palantir, and Booz Allen Restrict Anthropic Model Use Over Data Fears
 date: '2026-09-14'
-source: The Information**
+source: The Information
 url_original: https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-and-booz-allen-to-restrict-model-use
-url_canonical: https://www.933thedrive.com/2026/09/14/palantir-nvidia-curb-ai-model-use-over-data-fears-the-information-reports/
-url_status: repaired
-digest_source: digests\raw\2026-09-14_065200_Final-Daily-AI-News-Digest.md
+url_canonical: https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-and-booz-allen-to-restrict-model-use
+url_status: broken
+digest_source: digests\raw\2026-09-14_065405_Inbox_Daily AI News Digest - September
+  14, 2026.md
 content_hash: 5f2450aeaaca9dae0d95ee7fcc55a7d50a32aa19fb425560c31360a4ff0fdac2
 normalized_title_hash: f80bdd9752f52832
 canonical_url_hash: 02885c124eb1856b

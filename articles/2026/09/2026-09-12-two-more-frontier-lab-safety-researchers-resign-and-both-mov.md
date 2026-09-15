@@ -24,9 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-12-two-more-safety-researchers-leave-anthropic-and-deepmind-for
+- 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
+- 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-08-08-containment-failures-now-disclosed-by-three-frontier-labs-in
-- 2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus
-- 2026-07-28-openai-model-breaks-containment-and-hacks-hugging-face-ignit
+- 2026-09-14-openai-moves-safety-review-from-release-gate-to-training-gat
 embedding_id: 2026-09-12-two-more-frontier-lab-safety-researchers-resign-and-both-mov
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Joe Benton, who led a safety research team at Anthropic, and Josh Engels, an AI 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-12-two-more-safety-researchers-leave-anthropic-and-deepmind-for]] · [[2026-08-08-containment-failures-now-disclosed-by-three-frontier-labs-in]] · [[2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus]] · [[2026-07-28-openai-model-breaks-containment-and-hacks-hugging-face-ignit]]
+**Related:** [[2026-09-12-two-more-safety-researchers-leave-anthropic-and-deepmind-for]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-08-08-containment-failures-now-disclosed-by-three-frontier-labs-in]] · [[2026-09-14-openai-moves-safety-review-from-release-gate-to-training-gat]]
 <!-- graph:end -->

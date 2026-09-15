@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-24-anduril-reportedly-in-talks-to-raise-at-100b-valuation
 - 2026-07-24-anduril-reportedly-seeks-funding-at-a-roughly-100b-valuation
 - 2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already
-- 2026-05-14-anduril-raises-5b-valuation-doubles-to-61b-techcrunch-may-13
+- 2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation
 embedding_id: 2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b
 event_name: ''
 ---
@@ -38,5 +38,5 @@ German AI-defense startup Helsing said it raised $1.8 billion at an $18 billion 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg]] · [[2026-07-24-anduril-reportedly-in-talks-to-raise-at-100b-valuation]] · [[2026-07-24-anduril-reportedly-seeks-funding-at-a-roughly-100b-valuation]] · [[2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already]] · [[2026-05-14-anduril-raises-5b-valuation-doubles-to-61b-techcrunch-may-13]]
+**Related:** [[2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg]] · [[2026-07-24-anduril-reportedly-in-talks-to-raise-at-100b-valuation]] · [[2026-07-24-anduril-reportedly-seeks-funding-at-a-roughly-100b-valuation]] · [[2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already]] · [[2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation]]
 <!-- graph:end -->

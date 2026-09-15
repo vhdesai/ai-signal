@@ -28,7 +28,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-06-anthropic-has-signed-roughly-517-billion-in-compute-deals-ov
+- 2026-09-14-anthropic-s-517b-compute-book-undercuts-its-own-slowdown-mes
 - 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
+- 2026-09-14-anthropic-s-517b-compute-commitments-collide-with-its-own-sl
 embedding_id: 2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen
 event_name: ''
 ---
@@ -42,5 +44,5 @@ Data Center Dynamics, citing The Information's analysis, reports Anthropic has s
 
 **Entities:** [[Amazon]] · [[AMD]] · [[Anthropic]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-06-anthropic-has-signed-roughly-517-billion-in-compute-deals-ov]] · [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]]
+**Related:** [[2026-09-06-anthropic-has-signed-roughly-517-billion-in-compute-deals-ov]] · [[2026-09-14-anthropic-s-517b-compute-book-undercuts-its-own-slowdown-mes]] · [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-09-14-anthropic-s-517b-compute-commitments-collide-with-its-own-sl]]
 <!-- graph:end -->

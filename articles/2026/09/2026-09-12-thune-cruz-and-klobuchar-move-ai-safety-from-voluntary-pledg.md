@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-14-senate-drafts-ai-duty-of-care-bill-that-could-block-risky-mo
 - 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
 - 2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency
 - 2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315
@@ -36,5 +37,5 @@ Tech Times reported that Senate leaders are drafting bipartisan legislation that
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]] · [[2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency]] · [[2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315]] · [[2026-04-06-the-u-s-senate-commerce-committee-advanced-a-bipartisan-ai-l]]
+**Related:** [[2026-09-14-senate-drafts-ai-duty-of-care-bill-that-could-block-risky-mo]] · [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]] · [[2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency]] · [[2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315]] · [[2026-04-06-the-u-s-senate-commerce-committee-advanced-a-bipartisan-ai-l]]
 <!-- graph:end -->

@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
+- 2026-09-13-princeton-researcher-proposes-the-recurrent-looped-transform
 - 2026-07-26-abbel-belief-state-memory-for-llm-agents
 - 2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec
-- 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
 embedding_id: 2026-09-12-kaist-and-naver-ai-lab-written-reasoning-steps-map-to-separa
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Researchers examined Qwen2.5-7B, Qwen3-8B and Gemma4-31B solving mathematics pro
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-07-26-abbel-belief-state-memory-for-llm-agents]] · [[2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]]
+**Related:** [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-09-13-princeton-researcher-proposes-the-recurrent-looped-transform]] · [[2026-07-26-abbel-belief-state-memory-for-llm-agents]] · [[2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec]]
 <!-- graph:end -->

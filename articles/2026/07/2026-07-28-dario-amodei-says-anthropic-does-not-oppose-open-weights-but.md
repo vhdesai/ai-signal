@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-anthropic-clarifies-does-not-oppose-open-weights-but-warns-a
 - 2026-08-06-how-dario-amodei-spread-anthropic-s-religion-and-angered-riv
+- 2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s
 - 2026-09-13-anthropic-ceo-s-call-to-slow-frontier-ai-receives-renewed-at
-- 2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return
 embedding_id: 2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechCrunch reports that Anthropic CEO Dario Amodei clarified his position on ope
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-27-anthropic-clarifies-does-not-oppose-open-weights-but-warns-a]] · [[2026-08-06-how-dario-amodei-spread-anthropic-s-religion-and-angered-riv]] · [[2026-09-13-anthropic-ceo-s-call-to-slow-frontier-ai-receives-renewed-at]] · [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return]]
+**Related:** [[2026-07-27-anthropic-clarifies-does-not-oppose-open-weights-but-warns-a]] · [[2026-08-06-how-dario-amodei-spread-anthropic-s-religion-and-angered-riv]] · [[2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s]] · [[2026-09-13-anthropic-ceo-s-call-to-slow-frontier-ai-receives-renewed-at]]
 <!-- graph:end -->

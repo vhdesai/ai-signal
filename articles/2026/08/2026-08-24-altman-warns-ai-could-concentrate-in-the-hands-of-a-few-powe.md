@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-23-sam-altman-says-he-s-worried-about-ai-being-controlled-by-a
+- 2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with
 - 2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development
 - 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
 - 2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse
-- 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
 embedding_id: 2026-08-24-altman-warns-ai-could-concentrate-in-the-hands-of-a-few-powe
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI CEO Sam Altman warned that AI could end up concentrated among a small num
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-23-sam-altman-says-he-s-worried-about-ai-being-controlled-by-a]] · [[2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development]] · [[2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai]] · [[2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]]
+**Related:** [[2026-08-23-sam-altman-says-he-s-worried-about-ai-being-controlled-by-a]] · [[2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with]] · [[2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development]] · [[2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai]] · [[2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse]]
 <!-- graph:end -->

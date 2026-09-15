@@ -1,22 +1,42 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 2927
+member_count: 2947
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 2927 connected article(s).
+> Auto-generated topic hub. 2947 connected article(s).
 
-- `2026-09-14` [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor|Shanghai AI Lab ships Intern W0, a force-tactile physical world model for robotics]]
+- `2026-09-14` [[2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so|Xi at BRICS: China will lead AI cooperation for the Global South via new World AI Cooperation Organization]]
 - `2026-09-14` [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f|Shanghai AI Lab Ships Intern W0, a Physical World Model for Force-Tactile Robotics]]
+- `2026-09-14` [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor|Shanghai AI Lab Ships Intern W0, a Force-Tactile Physical World Model for Robotics]]
+- `2026-09-14` [[2026-09-14-openai-pulls-1m-sponsorship-of-caltech-ai-maths-contest-afte|OpenAI pulls $1M sponsorship of Caltech AI maths contest after "slop mathematics" letter]]
+- `2026-09-14` [[2026-09-14-openai-publishes-perplexity-case-study-astra-now-trusted-wit|OpenAI publishes Perplexity case study — Astra now trusted with end-to-end production systems]]
+- `2026-09-14` [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen|Nvidia and chip stocks fall as AI CEOs call for a development slowdown]]
+- `2026-09-14` [[2026-09-14-nvidia-open-sources-osmo-one-yaml-file-orchestrates-physical|NVIDIA Open-Sources OSMO: One YAML File Orchestrates Physical-AI Training, Simulation and Robot Testing]]
+- `2026-09-14` [[2026-09-14-monday-september-14-2026|Monday, September 14, 2026]]
+- `2026-09-14` [[2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-pretrained-gener|MIT's HardFlow enforces hard constraints on pretrained generative models at deployment time]]
+- `2026-09-14` [[2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-generative-model|MIT's HardFlow enforces hard constraints on generative models without retraining]]
+- `2026-09-14` [[2026-09-14-mit-s-hardflow-enables-generative-ai-under-hard-constraints|MIT's HardFlow Enables Generative AI Under Hard Constraints for Safety-Critical Settings]]
+- `2026-09-14` [[2026-09-14-clay-mathematics-institute-navier-stokes-millennium-prize-pr|Clay Mathematics Institute: Navier-Stokes Millennium Prize Problem "apparently been settled" — formal review underway]]
+- `2026-09-14` [[2026-09-14-buildots-raises-130m-at-a-near-1b-valuation-on-data-center-c|Buildots raises $130M at a near-$1B valuation on data-center construction demand]]
+- `2026-09-14` [[2026-09-14-anthropic-s-517b-compute-commitments-collide-with-its-own-sl|Anthropic's $517B compute commitments collide with its own slowdown message]]
+- `2026-09-14` [[2026-09-14-ajc-com-reports-senator-jon-ossoff-has-called-for-federal-in|AJC.com reports Senator Jon Ossoff has called for federal inspectors to be embedded inside frontier AI labs, following the OpenAI Senate probe and the coordinated Amodei/Altman/Hassabis safety warnings. The Next Web separately reports on a new Senate bill that would give Washington statutory authority to block AI models from release. King Charles is also hosting AI executives in Scotland for safety talks, per Quartz — a striking multinational escalation of the political attention on frontier AI in a single 24-hour window.]]
+- `2026-09-13` [[2026-09-13-xi-pitches-a-china-led-brics-open-source-ai-bloc|Xi pitches a China-led BRICS open-source AI bloc]]
 - `2026-09-13` [[2026-09-13-two-year-law-school-study-banning-ai-in-the-classroom-leaves|Two-year law-school study: banning AI in the classroom leaves students measurably worse off]]
 - `2026-09-13` [[2026-09-13-two-year-randomized-classroom-study-banning-ai-leaves-studen|Two-Year Randomized Classroom Study: Banning AI Leaves Students Worst Off]]
+- `2026-09-13` [[2026-09-13-the-case-against-letting-ai-auto-repair-enterprise-data-pipe|The case against letting AI auto-repair enterprise data pipelines]]
 - `2026-09-13` [[2026-09-13-sunday-september-13-2026|Sunday, September 13, 2026]]
+- `2026-09-13` [[2026-09-13-princeton-researcher-proposes-the-recurrent-looped-transform|Princeton Researcher Proposes the Recurrent Looped Transformer (RLT)]]
 - `2026-09-13` [[2026-09-13-openai-retires-gpt-5-3-codex-spark-after-seven-months|OpenAI retires GPT-5.3-Codex-Spark after seven months]]
 - `2026-09-13` [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea|MIT Study: Student "Cognitive Surrender" to AI Is Degrading Learning Outcomes]]
+- `2026-09-13` [[2026-09-13-inside-the-ai-industry-s-loudest-existential-risk-debate-yet|Inside the AI industry's loudest existential-risk debate yet]]
+- `2026-09-13` [[2026-09-13-hierarchical-nerf-with-jax3d-for-volumetric-rendering-and-no|Hierarchical NeRF with JAX3D for Volumetric Rendering and Novel-View Synthesis]]
 - `2026-09-13` [[2026-09-13-gpt-6-astra-now-beats-human-baseline-on-surveillance-drone-p|GPT-6 Astra now beats human baseline on surveillance-drone piloting; runs a business ~3x better than Claude Fable 5.1]]
+- `2026-09-13` [[2026-09-13-four-largest-ai-labs-endorse-a-slower-development-pace-in-a|Four largest AI labs endorse a slower development pace in a single day]]
 - `2026-09-13` [[2026-09-13-firstpost-moneycontrol-and-storyboard18-report-another-googl|Firstpost, Moneycontrol, and Storyboard18 report another Google DeepMind AI safety researcher has resigned, publicly citing a "terrifying chance" AI could cause immense harm. Times of India also reports Google is moving its AI responsibility team out of DeepMind entirely, starting this month — a structural shift that critics say weakens safety integration inside model development. Combined with the Amodei/Altman/Hassabis slowdown call, the day's news suggests unusually coordinated concern from within the industry itself.]]
+- `2026-09-13` [[2026-09-13-elevenlabs-releases-music-v2-5-via-app-and-api-licensed-trai|ElevenLabs releases Music v2.5 via app and API, licensed-training only]]
 - `2026-09-13` [[2026-09-13-chinese-researchers-demonstrate-100x-endurance-improvement-i|Chinese researchers demonstrate ~100x endurance improvement in wurtzite ferroelectric memory]]
 - `2026-09-13` [[2026-09-13-allspark-releases-open-weight-iris-mini-and-iris-pro-search|AllSpark releases open-weight Iris-mini and Iris-pro search agents, leading open-weight benchmarks]]
 - `2026-09-12` [[2026-09-12-weill-cornell-in-nejm-ai-agents-may-expand-not-shrink-the-cl|Weill Cornell in NEJM: AI Agents May Expand, Not Shrink, the Clinical Workforce]]

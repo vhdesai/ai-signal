@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 164
+member_count: 165
 ---
 
 # IBM
 
-> Auto-generated entity hub. 164 connected article(s).
+> Auto-generated entity hub. 165 connected article(s).
 
 - `2026-09-14` [[2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors|NVIDIA Expands CUDA-Q to Fault-Tolerant Quantum Processors]]
+- `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
 - `2026-09-12` [[2026-09-12-ibm-deploys-ai-limb-tracking-at-the-us-open|IBM Deploys AI Limb Tracking at the US Open]]
 - `2026-09-12` [[2026-09-12-fortune-reports-ibm-has-deployed-ai-limb-tracking-at-the-us|Fortune reports IBM has deployed AI limb-tracking at the US Open, scoring every tennis serve to give fans real-time biomechanical analytics. It's a high-visibility deployment for IBM Consulting's sports AI stack, following watsonx-based commentary and tie-ins. The launch is notable as a live-event, computer-vision showcase competing directly with sports-AI offerings from AWS, Google Cloud, and Microsoft Azure.]]

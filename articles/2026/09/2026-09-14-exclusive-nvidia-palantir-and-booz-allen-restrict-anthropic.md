@@ -1,14 +1,14 @@
 ---
 article_id: 2026-09-14-exclusive-nvidia-palantir-and-booz-allen-restrict-anthropic
-title: 'Exclusive: Nvidia, Palantir, and Booz Allen restrict Anthropic and OpenAI
-  model use over data fears'
+title: 'Exclusive: NVIDIA, Palantir, and Booz Allen Restrict Anthropic and OpenAI
+  Model Use Over Data Fears'
 date: '2026-09-14'
-source: The Information
+source: The Information**
 url_original: https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-and-booz-allen-to-restrict-model-use
-url_canonical: https://www.933thedrive.com/2026/09/14/palantir-nvidia-curb-ai-model-use-over-data-fears-the-information-reports/
-url_status: repaired
-digest_source: digests\raw\2026-09-14_065706_Final-Daily-AI-News-Digest.md
-content_hash: d7f19837e831802b99b917b69b4139347b390d2bec02ecf36b351c5c1353d7a8
+url_canonical: https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-and-booz-allen-to-restrict-model-use
+url_status: broken
+digest_source: digests\raw\2026-09-14_172400_Final-Daily-AI-News-Digest.md
+content_hash: a55c807d48c69004e8a91f779c919198b377de7cbc1602d7244bb41b7e537869
 normalized_title_hash: b248c4548b256710
 canonical_url_hash: 02885c124eb1856b
 tags:
@@ -34,9 +34,9 @@ embedding_id: 2026-09-14-exclusive-nvidia-palantir-and-booz-allen-restrict-anthr
 event_name: ''
 ---
 
-# Exclusive: Nvidia, Palantir, and Booz Allen restrict Anthropic and OpenAI model use over data fears
+# Exclusive: NVIDIA, Palantir, and Booz Allen Restrict Anthropic and OpenAI Model Use Over Data Fears
 
-The Information reports Nvidia, Palantir, and Booz Allen — all major AI infrastructure vendors and government contractors — have restricted internal use of Anthropic and OpenAI's most advanced models, demanding zero data retention or moving to private, air-gapped servers. The trigger is rising concern that Anthropic or OpenAI could learn from customers' intellectual property. Microsoft is reportedly moving to lure those clients to its own Azure-hosted offerings, positioning enterprise data governance as a first-order procurement axis for frontier models.
+The Information reports NVIDIA, Palantir, and Booz Allen — all major AI infrastructure vendors and government contractors — have restricted internal use of Anthropic and OpenAI's most advanced models, demanding zero data retention or moving to private, air-gapped servers. The trigger is rising concern that Anthropic or OpenAI could learn from customers' intellectual property. Microsoft is reportedly moving to lure those clients to its own Azure-hosted offerings, positioning enterprise data governance as a first-order procurement axis for frontier models.
 
 <!-- graph:start -->
 ## Connections

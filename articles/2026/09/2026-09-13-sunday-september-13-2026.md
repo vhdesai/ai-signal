@@ -31,6 +31,7 @@ related_article_ids:
 - 2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk
 - 2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le
 - 2026-09-13-safety-becomes-the-frontier-story-and-capital-keeps-accelera
+- 2026-09-14-monday-september-14-2026
 - 2026-06-29-daily-ai-news-digest-june-29-2026
 embedding_id: 2026-09-13-sunday-september-13-2026
 event_name: ''
@@ -45,5 +46,5 @@ Editor's note. The last 48 hours produced an unusual alignment among frontier-la
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk]] · [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le]] · [[2026-09-13-safety-becomes-the-frontier-story-and-capital-keeps-accelera]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]]
+**Related:** [[2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk]] · [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le]] · [[2026-09-13-safety-becomes-the-frontier-story-and-capital-keeps-accelera]] · [[2026-09-14-monday-september-14-2026]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]]
 <!-- graph:end -->

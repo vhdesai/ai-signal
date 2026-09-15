@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-10-new-warning-in-race-to-superintelligence
 - 2026-07-09-new-warning-in-race-to-superintelligence
 - 2026-09-04-us-lawmakers-propose-a-permanent-ban-on-artificial-superinte
-- 2026-09-04-bernie-sanders-floats-a-ban-on-superintelligent-ai
+- 2026-09-13-four-largest-ai-labs-endorse-a-slower-development-pace-in-a
 embedding_id: 2026-07-12-new-warning-in-race-to-superintelligence
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Axios AI+ continued to feature the AI Futures Project’s “AI 2040” proposal
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-11-new-warning-in-race-to-superintelligence]] · [[2026-07-10-new-warning-in-race-to-superintelligence]] · [[2026-07-09-new-warning-in-race-to-superintelligence]] · [[2026-09-04-us-lawmakers-propose-a-permanent-ban-on-artificial-superinte]] · [[2026-09-04-bernie-sanders-floats-a-ban-on-superintelligent-ai]]
+**Related:** [[2026-07-11-new-warning-in-race-to-superintelligence]] · [[2026-07-10-new-warning-in-race-to-superintelligence]] · [[2026-07-09-new-warning-in-race-to-superintelligence]] · [[2026-09-04-us-lawmakers-propose-a-permanent-ban-on-artificial-superinte]] · [[2026-09-13-four-largest-ai-labs-endorse-a-slower-development-pace-in-a]]
 <!-- graph:end -->

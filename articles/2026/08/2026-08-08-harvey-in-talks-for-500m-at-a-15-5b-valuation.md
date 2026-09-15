@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat
 - 2026-09-09-legal-ai-startup-harvey-reaches-15-5b-valuation-on-a-550m-ro
 - 2026-09-09-harvey-raises-550m-at-15-5b-valuation-for-legal-ai
-- 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
+- 2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation
 embedding_id: 2026-08-08-harvey-in-talks-for-500m-at-a-15-5b-valuation
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Legal AI startup Harvey is reportedly in discussions to raise at least $500 mill
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat]] · [[2026-09-09-legal-ai-startup-harvey-reaches-15-5b-valuation-on-a-550m-ro]] · [[2026-09-09-harvey-raises-550m-at-15-5b-valuation-for-legal-ai]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]]
+**Related:** [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat]] · [[2026-09-09-legal-ai-startup-harvey-reaches-15-5b-valuation-on-a-550m-ro]] · [[2026-09-09-harvey-raises-550m-at-15-5b-valuation-for-legal-ai]] · [[2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation]]
 <!-- graph:end -->

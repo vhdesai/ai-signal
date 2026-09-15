@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip
 - 2026-08-19-chip-stocks-sell-off-as-investors-worry-about-ai-spending-sl
 - 2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off
+- 2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk
 - 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
-- 2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws
 embedding_id: 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Investors continued rotating out of chip and memory stocks as concerns grew over
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-08-19-chip-stocks-sell-off-as-investors-worry-about-ai-spending-sl]] · [[2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]]
+**Related:** [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-08-19-chip-stocks-sell-off-as-investors-worry-about-ai-spending-sl]] · [[2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off]] · [[2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]]
 <!-- graph:end -->

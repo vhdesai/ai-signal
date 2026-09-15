@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-5-apple-ships-its-long-promised-siri-overhaul-in-ios-27
 - 2026-08-03-apple-s-long-delayed-siri-ai-overhaul-finally-ships
+- 2026-09-14-apple-s-rebuilt-siri-ships-in-ios-27
 - 2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the
 - 2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed
-- 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
 embedding_id: 2026-09-11-apple-s-rebuilt-siri-ships-next-week-with-ios-27
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Hands-on commentary fixes the consumer rollout date for Apple's rebuilt assistan
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-5-apple-ships-its-long-promised-siri-overhaul-in-ios-27]] · [[2026-08-03-apple-s-long-delayed-siri-ai-overhaul-finally-ships]] · [[2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the]] · [[2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]]
+**Related:** [[2026-08-03-5-apple-ships-its-long-promised-siri-overhaul-in-ios-27]] · [[2026-08-03-apple-s-long-delayed-siri-ai-overhaul-finally-ships]] · [[2026-09-14-apple-s-rebuilt-siri-ships-in-ios-27]] · [[2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the]] · [[2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed]]
 <!-- graph:end -->

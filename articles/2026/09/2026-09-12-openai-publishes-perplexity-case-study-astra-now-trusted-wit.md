@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-14-openai-publishes-perplexity-case-study-astra-now-trusted-wit
 - 2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra
 - 2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag
 - 2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy
 - 2026-09-04-openai-launches-gpt-6-astra-with-stronger-cyber-capability-a
-- 2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou
 embedding_id: 2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI published a Perplexity case study describing how Perplexity now uses GPT-
 
 **Entities:** [[OpenAI]] · [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra]] · [[2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag]] · [[2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy]] · [[2026-09-04-openai-launches-gpt-6-astra-with-stronger-cyber-capability-a]] · [[2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou]]
+**Related:** [[2026-09-14-openai-publishes-perplexity-case-study-astra-now-trusted-wit]] · [[2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra]] · [[2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag]] · [[2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy]] · [[2026-09-04-openai-launches-gpt-6-astra-with-stronger-cyber-capability-a]]
 <!-- graph:end -->

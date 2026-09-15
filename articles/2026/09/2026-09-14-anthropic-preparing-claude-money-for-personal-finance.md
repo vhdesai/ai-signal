@@ -2,17 +2,17 @@
 article_id: 2026-09-14-anthropic-preparing-claude-money-for-personal-finance
 title: Anthropic Preparing "Claude Money" for Personal Finance
 date: '2026-09-14'
-source: TestingCatalog**
+source: TestingCatalog
 url_original: https://www.testingcatalog.com/anthropic-prepares-claude-money-for-personal-finance/
 url_canonical: https://www.testingcatalog.com/anthropic-prepares-claude-money-for-personal-finance/
 url_status: ok
-digest_source: digests\raw\2026-09-14_065200_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-09-14_065405_Inbox_Daily AI News Digest - September
+  14, 2026.md
 content_hash: 0b21e608859d0f41e6489838aca9bef78dedf6bda4ee237e9767d5363ef0133a
 normalized_title_hash: 52799e0384634d2b
 canonical_url_hash: d2e2d4d3e5c3c96f
 tags:
 - New
-- Consumer
 entities:
 - Anthropic
 - OpenAI

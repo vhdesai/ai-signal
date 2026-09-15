@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 199
+member_count: 200
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 199 connected article(s).
+> Auto-generated entity hub. 200 connected article(s).
 
+- `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
 - `2026-09-11` [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe|An Anthropic researcher's doomsday warning lands at a pointed moment]]
 - `2026-09-10` [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par|Nvidia commits to Australia 2GW AI buildout with 8 local partners]]

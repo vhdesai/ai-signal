@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Samsung
-member_count: 90
+member_count: 91
 ---
 
 # Samsung
 
-> Auto-generated entity hub. 90 connected article(s).
+> Auto-generated entity hub. 91 connected article(s).
 
+- `2026-09-14` [[2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow|Global AI Stocks Sell Off After Lab CEOs Jointly Urge a Slowdown]]
 - `2026-09-10` [[2026-09-10-tsmc-august-revenue-up-53-3-to-a-record-nt-514-8b-advanced-n|TSMC August revenue up 53.3% to a record NT$514.8B; advanced nodes fully booked]]
 - `2026-09-10` [[2026-09-10-mistral-valued-at-21b-after-3b-round-asml-maintains-400m-sta|Mistral valued at €21B after €3B round; ASML maintains €400M stake]]
 - `2026-09-10` [[2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne|Mistral partners with Cloudera on sovereign enterprise AI; new €21B valuation caps €3B Samsung-led round]]

@@ -1,31 +1,53 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1411
+member_count: 1433
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1411 connected article(s).
+> Auto-generated entity hub. 1433 connected article(s).
 
-- `2026-09-14` [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor|Shanghai AI Lab ships Intern W0, a force-tactile physical world model for robotics]]
+- `2026-09-15` [[2026-09-15-salesforce-and-nvidia-launch-koa-a-jointly-post-trained-reas|Salesforce and Nvidia launch Koa, a jointly post-trained reasoning model on Nemotron]]
+- `2026-09-15` [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t|Nadella internal memo: pace the frontier or lose "permission to operate"]]
 - `2026-09-14` [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f|Shanghai AI Lab Ships Intern W0, a Physical World Model for Force-Tactile Robotics]]
+- `2026-09-14` [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor|Shanghai AI Lab Ships Intern W0, a Force-Tactile Physical World Model for Robotics]]
+- `2026-09-14` [[2026-09-14-rumble-shares-rise-after-anthropic-is-identified-behind-larg|Rumble shares rise after Anthropic is identified behind large compute deal]]
+- `2026-09-14` [[2026-09-14-nvidia-backed-firmus-seeks-up-to-5b-in-an-asx-float-at-a-10|Nvidia-Backed Firmus Seeks Up to $5B in an ASX Float at a $10.5B Valuation]]
+- `2026-09-14` [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen|Nvidia and chip stocks fall as AI CEOs call for a development slowdown]]
 - `2026-09-14` [[2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-model-use|NVIDIA, Palantir, and Booz Allen Restrict Anthropic Model Use Over Data Fears]]
+- `2026-09-14` [[2026-09-14-nvidia-expands-open-source-cuda-q-with-cuda-q-logical-for-fa|NVIDIA expands open-source CUDA-Q with CUDA-Q Logical for fault-tolerant quantum development]]
+- `2026-09-14` [[2026-09-14-nvidia-open-sources-osmo-one-yaml-file-orchestrates-physical|NVIDIA Open-Sources OSMO: One YAML File Orchestrates Physical-AI Training, Simulation and Robot Testing]]
 - `2026-09-14` [[2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors|NVIDIA Expands CUDA-Q to Fault-Tolerant Quantum Processors]]
-- `2026-09-14` [[2026-09-14-exclusive-nvidia-palantir-and-booz-allen-restrict-anthropic|Exclusive: Nvidia, Palantir, and Booz Allen restrict Anthropic and OpenAI model use over data fears]]
-- `2026-09-14` [[2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin|Chip and memory stocks sell off as coordinated safety warnings hit the AI trade]]
+- `2026-09-14` [[2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-develo|NVIDIA Adds CUDA-Q Logical for Fault-Tolerant Quantum Development]]
+- `2026-09-14` [[2026-09-14-monday-september-14-2026|Monday, September 14, 2026]]
+- `2026-09-14` [[2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-pretrained-gener|MIT's HardFlow enforces hard constraints on pretrained generative models at deployment time]]
+- `2026-09-14` [[2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a|Jensen Huang tells Trump onstage: "We're not going to let [an AI slowdown] happen"]]
+- `2026-09-14` [[2026-09-14-infleqtion-reports-5x-reduction-in-physical-qubits-per-logic|Infleqtion reports ~5x reduction in physical qubits per logical qubit using CUDA-Q Logical]]
+- `2026-09-14` [[2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow|Global AI Stocks Sell Off After Lab CEOs Jointly Urge a Slowdown]]
+- `2026-09-14` [[2026-09-14-former-apple-researchers-raise-50m-for-ai-models-with-more-n|Former Apple researchers raise $50M for AI models with more natural conversation]]
+- `2026-09-14` [[2026-09-14-exclusive-nvidia-palantir-and-booz-allen-restrict-anthropic|Exclusive: NVIDIA, Palantir, and Booz Allen Restrict Anthropic and OpenAI Model Use Over Data Fears]]
+- `2026-09-14` [[2026-09-14-cornelis-raises-205m-to-challenge-nvidia-s-networking-domina|Cornelis raises $205M to challenge Nvidia's networking dominance]]
+- `2026-09-14` [[2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin|Chip and Memory Stocks Sell Off as Coordinated Safety Warnings Hit the AI Trade]]
+- `2026-09-14` [[2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk|Chip and AI-Linked Equities Sell Off on Slowdown Talk]]
 - `2026-09-14` [[2026-09-14-chip-stocks-sell-off-as-amodei-altman-safety-warnings-hit-th|Chip Stocks Sell Off as Amodei/Altman Safety Warnings Hit the AI Trade]]
-- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy targets $50M in annual cost savings with AI]]
-- `2026-09-14` [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo|Anthropic picks Nasdaq for potential IPO]]
+- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy Targets $50M in Annual Cost Savings With AI]]
+- `2026-09-14` [[2026-09-14-anthropic-s-517b-compute-commitments-collide-with-its-own-sl|Anthropic's $517B compute commitments collide with its own slowdown message]]
+- `2026-09-14` [[2026-09-14-anthropic-s-517b-compute-book-undercuts-its-own-slowdown-mes|Anthropic's $517B Compute Book Undercuts Its Own Slowdown Message]]
+- `2026-09-14` [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo|Anthropic Picks Nasdaq for Potential IPO]]
+- `2026-09-14` [[2026-09-14-ai-warnings-knock-nasdaq-futures-and-pressure-chip-stocks|AI warnings knock Nasdaq futures and pressure chip stocks]]
+- `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
+- `2026-09-13` [[2026-09-13-semianalysis-projects-nvidia-could-hold-1-4-trillion-in-cash|SemiAnalysis projects Nvidia could hold $1.4 trillion in cash and investments by fiscal 2031]]
 - `2026-09-13` [[2026-09-13-sam-altman-confirms-openai-will-not-ipo-in-2026|Sam Altman Confirms OpenAI Will Not IPO in 2026]]
 - `2026-09-13` [[2026-09-13-safety-becomes-the-frontier-story-and-capital-keeps-accelera|Safety Becomes the Frontier Story — and Capital Keeps Accelerating]]
-- `2026-09-13` [[2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers|Nvidia's growing dependence on a handful of AI customers]]
 - `2026-09-13` [[2026-09-13-nvidia-weighs-up-to-10b-as-anchor-investor-in-anthropic-s-2t|Nvidia weighs up to $10B as anchor investor in Anthropic's ~$2T IPO]]
 - `2026-09-13` [[2026-09-13-nvidia-weighs-up-to-10b-anchor-stake-in-anthropic-ipo-at-rou|Nvidia Weighs Up to $10B Anchor Stake in Anthropic IPO at Roughly $2 Trillion]]
+- `2026-09-13` [[2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers|NVIDIA's Growing Dependence on a Handful of AI Customers]]
 - `2026-09-13` [[2026-09-13-nvidia-s-customer-concentration-reaches-a-new-high|NVIDIA's Customer Concentration Reaches a New High]]
 - `2026-09-13` [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-ai-standard|Anthropic, OpenAI, and Google Quietly Discussed an AI Standards Body]]
 - `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
 - `2026-09-13` [[2026-09-13-amazon-not-nvidia-carries-the-larger-balance-sheet-exposure|Amazon, not Nvidia, carries the larger balance-sheet exposure to Anthropic's compute build]]
+- `2026-09-13` [[2026-09-13-ai-stock-weakness-collides-with-oil-shock-and-rate-concerns|AI-stock weakness collides with oil shock and rate concerns]]
 - `2026-09-12` [[2026-09-12-saturday-september-12-2026|Saturday, September 12, 2026]]
 - `2026-09-12` [[2026-09-12-positron-valued-at-5b-in-new-funding-as-ai-chip-demand-surge|Positron valued at $5B in new funding as AI chip demand surges]]
 - `2026-09-12` [[2026-09-12-nvidia-weighing-a-10b-anchor-investment-in-an-anthropic-ipo|Nvidia Weighing a $10B Anchor Investment in an Anthropic IPO at a ~$2 Trillion Valuation]]

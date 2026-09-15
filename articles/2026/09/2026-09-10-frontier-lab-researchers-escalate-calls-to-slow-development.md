@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus
 - 2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass
+- 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
 - 2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an
-- 2026-09-12-amodei-calls-for-pacing-the-frontier-openai-says-it-will-mat
 embedding_id: 2026-09-10-frontier-lab-researchers-escalate-calls-to-slow-development
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers at OpenAI and Anthropic went public with calls to slow frontier deve
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus]] · [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]] · [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]] · [[2026-09-12-amodei-calls-for-pacing-the-frontier-openai-says-it-will-mat]]
+**Related:** [[2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus]] · [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]]
 <!-- graph:end -->

@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-13-elevenlabs-releases-music-v2-5-via-app-and-api-licensed-trai
 - 2026-08-06-suno-says-it-will-start-watermarking-ai-generated-songs
 - 2026-07-15-hack-suggests-suno-scraped-youtube-and-other-sources-for-ai
 embedding_id: 2026-09-09-suno-retires-its-model-line-for-label-licensed-v6-family
@@ -34,5 +35,5 @@ Suno released v6, v6-wild, and v6-mini, co-developed with Warner Music Group, BM
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-06-suno-says-it-will-start-watermarking-ai-generated-songs]] · [[2026-07-15-hack-suggests-suno-scraped-youtube-and-other-sources-for-ai]]
+**Related:** [[2026-09-13-elevenlabs-releases-music-v2-5-via-app-and-api-licensed-trai]] · [[2026-08-06-suno-says-it-will-start-watermarking-ai-generated-songs]] · [[2026-07-15-hack-suggests-suno-scraped-youtube-and-other-sources-for-ai]]
 <!-- graph:end -->

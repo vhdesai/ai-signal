@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-09-newnvidia-launches-nvidia-ising-world-s-first-open-source-qu
 - 2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr
 - 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
+- 2026-09-14-nvidia-expands-open-source-cuda-q-with-cuda-q-logical-for-fa
 - 2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors
-- 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
 embedding_id: 2026-04-14-nvidia-ising-open-models-for-quantum-error-correction
 event_name: ''
 ---
@@ -38,5 +38,5 @@ NVIDIA released Ising, an open family of quantum-AI models aimed at calibration 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-09-newnvidia-launches-nvidia-ising-world-s-first-open-source-qu]] · [[2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]]
+**Related:** [[2026-05-09-newnvidia-launches-nvidia-ising-world-s-first-open-source-qu]] · [[2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-09-14-nvidia-expands-open-source-cuda-q-with-cuda-q-logical-for-fa]] · [[2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors]]
 <!-- graph:end -->

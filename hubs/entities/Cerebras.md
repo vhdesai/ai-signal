@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 174
+member_count: 175
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 174 connected article(s).
+> Auto-generated entity hub. 175 connected article(s).
 
+- `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
 - `2026-09-12` [[2026-09-12-positron-valued-at-5b-in-new-funding-as-ai-chip-demand-surge|Positron valued at $5B in new funding as AI chip demand surges]]
 - `2026-09-11` [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe|An Anthropic researcher's doomsday warning lands at a pointed moment]]

@@ -5,7 +5,7 @@ date: '2026-05-25'
 source: TechCrunch
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-26_071231_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 5aef7fcf91838ae385cf4f26a26cd98ae81e1622460a2a30bb34fb3722527d08

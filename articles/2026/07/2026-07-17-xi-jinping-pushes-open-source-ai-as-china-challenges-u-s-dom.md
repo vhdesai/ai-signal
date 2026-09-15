@@ -22,6 +22,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-13-xi-pitches-a-china-led-brics-open-source-ai-bloc
 - 2026-07-17-xi-jinping-champions-open-source-ai-and-launches-the-waico-a
 - 2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti
 - 2026-07-25-ft-china-trains-global-south-developers-on-its-free-open-ai
@@ -38,5 +39,5 @@ WSJ reports that Chinese leader Xi Jinping promoted open-source AI and criticize
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-17-xi-jinping-champions-open-source-ai-and-launches-the-waico-a]] · [[2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti]] · [[2026-07-25-ft-china-trains-global-south-developers-on-its-free-open-ai]] · [[2026-07-20-china-s-top-ai-event-sends-a-direct-competitive-message-to-t]]
+**Related:** [[2026-09-13-xi-pitches-a-china-led-brics-open-source-ai-bloc]] · [[2026-07-17-xi-jinping-champions-open-source-ai-and-launches-the-waico-a]] · [[2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti]] · [[2026-07-25-ft-china-trains-global-south-developers-on-its-free-open-ai]] · [[2026-07-20-china-s-top-ai-event-sends-a-direct-competitive-message-to-t]]
 <!-- graph:end -->

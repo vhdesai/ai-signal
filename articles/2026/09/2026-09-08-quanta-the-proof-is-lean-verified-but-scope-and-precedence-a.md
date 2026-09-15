@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-09-09-openai-s-agent-generated-navier-stokes-proof-draws-lean-veri
 - 2026-09-08-openai-publishes-agent-generated-proof-of-finite-time-singul
 - 2026-09-09-credit-dispute-over-the-navier-stokes-result-exposes-an-acad
+- 2026-09-14-clay-mathematics-institute-navier-stokes-millennium-prize-pr
 - 2026-09-09-openai-claims-10-000-agent-system-produced-navier-stokes-pro
-- 2026-09-08-credit-dispute-over-the-navier-stokes-result-exposes-an-acad
 embedding_id: 2026-09-08-quanta-the-proof-is-lean-verified-but-scope-and-precedence-a
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Quanta reports the OpenAI Navier–Stokes result has been formally checked in Le
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-09-openai-s-agent-generated-navier-stokes-proof-draws-lean-veri]] · [[2026-09-08-openai-publishes-agent-generated-proof-of-finite-time-singul]] · [[2026-09-09-credit-dispute-over-the-navier-stokes-result-exposes-an-acad]] · [[2026-09-09-openai-claims-10-000-agent-system-produced-navier-stokes-pro]] · [[2026-09-08-credit-dispute-over-the-navier-stokes-result-exposes-an-acad]]
+**Related:** [[2026-09-09-openai-s-agent-generated-navier-stokes-proof-draws-lean-veri]] · [[2026-09-08-openai-publishes-agent-generated-proof-of-finite-time-singul]] · [[2026-09-09-credit-dispute-over-the-navier-stokes-result-exposes-an-acad]] · [[2026-09-14-clay-mathematics-institute-navier-stokes-millennium-prize-pr]] · [[2026-09-09-openai-claims-10-000-agent-system-produced-navier-stokes-pro]]
 <!-- graph:end -->

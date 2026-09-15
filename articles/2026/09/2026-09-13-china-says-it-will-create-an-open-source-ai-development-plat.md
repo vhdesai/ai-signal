@@ -21,11 +21,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-13-xi-pitches-a-china-led-brics-open-source-ai-bloc
 - 2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight
+- 2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so
 - 2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom
 - 2026-07-25-ft-china-trains-global-south-developers-on-its-free-open-ai
-- 2026-07-17-xi-jinping-champions-open-source-ai-and-launches-the-waico-a
-- 2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models
 embedding_id: 2026-09-13-china-says-it-will-create-an-open-source-ai-development-plat
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AnewZ reported that China pledged at a BRICS summit to create an open-source pla
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight]] · [[2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom]] · [[2026-07-25-ft-china-trains-global-south-developers-on-its-free-open-ai]] · [[2026-07-17-xi-jinping-champions-open-source-ai-and-launches-the-waico-a]] · [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]]
+**Related:** [[2026-09-13-xi-pitches-a-china-led-brics-open-source-ai-bloc]] · [[2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight]] · [[2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so]] · [[2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom]] · [[2026-07-25-ft-china-trains-global-south-developers-on-its-free-open-ai]]
 <!-- graph:end -->

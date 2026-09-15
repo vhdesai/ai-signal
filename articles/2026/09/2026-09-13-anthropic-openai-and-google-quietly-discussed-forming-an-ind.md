@@ -7,7 +7,8 @@ source: The Information
 url_original: https://www.theinformation.com/articles/inside-the-ai-industrys-behind-the-scenes-push-to-police-itself
 url_canonical: https://www.theinformation.com/articles/inside-the-ai-industrys-behind-the-scenes-push-to-police-itself
 url_status: broken
-digest_source: digests\raw\2026-09-14_065706_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-09-14_070026_Inbox_Daily AI News Digest - September
+  14, 2026.md
 content_hash: c3bca65658a01473350ae0495042ec6a5e9f75e0279348d91b30ba3b25b70f86
 normalized_title_hash: 7e141fa9f18b42ed
 canonical_url_hash: ef50bdf40140294b

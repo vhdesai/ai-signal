@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-read-at-reuters-via-u-s-news
 - 2026-07-17-xi-jinping-champions-open-source-ai-and-launches-the-waico-a
-- 2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight
+- 2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so
 embedding_id: 2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Beijing confirmed Xi will open WAIC (July 17–20) and deliver a keynote — his
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-13-read-at-reuters-via-u-s-news]] · [[2026-07-17-xi-jinping-champions-open-source-ai-and-launches-the-waico-a]] · [[2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight]]
+**Related:** [[2026-07-13-read-at-reuters-via-u-s-news]] · [[2026-07-17-xi-jinping-champions-open-source-ai-and-launches-the-waico-a]] · [[2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so]]
 <!-- graph:end -->
