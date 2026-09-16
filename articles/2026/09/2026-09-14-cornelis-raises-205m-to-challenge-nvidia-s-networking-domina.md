@@ -21,13 +21,9 @@ themes:
 - company-investments
 - infrastructure-investments
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics
-- 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
-- 2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation
-- 2026-05-16-breaking-cerberus-ipo-new-nvidia-rival-raises-5-6b-stock-sur
+dedupe_status: duplicate
+canonical_article_id: 2026-09-14-cornelis-raises-205m-to-attack-nvidia-s-networking-lock-in-w
+related_article_ids: []
 embedding_id: 2026-09-14-cornelis-raises-205m-to-challenge-nvidia-s-networking-domina
 event_name: ''
 ---
@@ -41,5 +37,5 @@ Cornelis, a 2020 Intel spinout, raised $205M led by IAG Capital Partners and lau
 
 **Entities:** [[Intel]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation]] · [[2026-05-16-breaking-cerberus-ipo-new-nvidia-rival-raises-5-6b-stock-sur]]
+**Canonical:** [[2026-09-14-cornelis-raises-205m-to-attack-nvidia-s-networking-lock-in-w]]
 <!-- graph:end -->

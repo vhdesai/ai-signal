@@ -1,17 +1,18 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 106
+member_count: 107
 ---
 
 # Intel
 
-> Auto-generated entity hub. 106 connected article(s).
+> Auto-generated entity hub. 107 connected article(s).
 
 - `2026-09-14` [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen|Nvidia and chip stocks fall as AI CEOs call for a development slowdown]]
 - `2026-09-14` [[2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow|Global AI Stocks Sell Off After Lab CEOs Jointly Urge a Slowdown]]
 - `2026-09-14` [[2026-09-14-cornelis-raises-205m-to-challenge-nvidia-s-networking-domina|Cornelis raises $205M to challenge Nvidia's networking dominance]]
-- `2026-09-14` [[2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin|Chip and Memory Stocks Sell Off as Coordinated Safety Warnings Hit the AI Trade]]
+- `2026-09-14` [[2026-09-14-cornelis-raises-205m-to-attack-nvidia-s-networking-lock-in-w|Cornelis Raises $205M to Attack NVIDIA's Networking Lock-In With Active Compute Fabric]]
+- `2026-09-14` [[2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin|Chip and Memory Stocks Sell Off as Coordinated Safety Warnings Hit the AI Trade — Intel −7%, AMD −6%, NVIDIA −3%]]
 - `2026-09-14` [[2026-09-14-chip-stocks-sell-off-as-amodei-altman-safety-warnings-hit-th|Chip Stocks Sell Off as Amodei/Altman Safety Warnings Hit the AI Trade]]
 - `2026-09-14` [[2026-09-14-buildots-raises-130m-at-a-near-1b-valuation-on-data-center-c|Buildots raises $130M at a near-$1B valuation on data-center construction demand]]
 - `2026-09-14` [[2026-09-14-buildots-raises-130m-with-intel-capital-participating-on-ai|Buildots Raises $130M, With Intel Capital Participating, on AI Data-Centre Construction Demand]]

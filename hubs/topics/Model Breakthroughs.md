@@ -1,13 +1,15 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 2947
+member_count: 2952
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 2947 connected article(s).
+> Auto-generated topic hub. 2952 connected article(s).
 
+- `2026-09-15` [[2026-09-15-salesforce-and-nvidia-unveil-koa-an-open-weight-nemotron-bas|Salesforce and NVIDIA Unveil Koa — an Open-Weight Nemotron-Based Enterprise Reasoning Model]]
+- `2026-09-15` [[2026-09-15-aiuc-raises-40m-series-a-to-underwrite-enterprise-ai-agent-l|AIUC Raises $40M Series A to Underwrite Enterprise AI-Agent Liability]]
 - `2026-09-14` [[2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so|Xi at BRICS: China will lead AI cooperation for the Global South via new World AI Cooperation Organization]]
 - `2026-09-14` [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f|Shanghai AI Lab Ships Intern W0, a Physical World Model for Force-Tactile Robotics]]
 - `2026-09-14` [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor|Shanghai AI Lab Ships Intern W0, a Force-Tactile Physical World Model for Robotics]]
@@ -19,8 +21,11 @@ member_count: 2947
 - `2026-09-14` [[2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-pretrained-gener|MIT's HardFlow enforces hard constraints on pretrained generative models at deployment time]]
 - `2026-09-14` [[2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-generative-model|MIT's HardFlow enforces hard constraints on generative models without retraining]]
 - `2026-09-14` [[2026-09-14-mit-s-hardflow-enables-generative-ai-under-hard-constraints|MIT's HardFlow Enables Generative AI Under Hard Constraints for Safety-Critical Settings]]
+- `2026-09-14` [[2026-09-14-mit-s-hardflow-forces-generative-models-to-satisfy-non-negot|MIT's "HardFlow" Forces Generative Models to Satisfy Non-Negotiable Constraints Without Retraining]]
 - `2026-09-14` [[2026-09-14-clay-mathematics-institute-navier-stokes-millennium-prize-pr|Clay Mathematics Institute: Navier-Stokes Millennium Prize Problem "apparently been settled" — formal review underway]]
+- `2026-09-14` [[2026-09-14-chinese-consortium-publishes-5-stage-roadmap-for-recursive-s|Chinese Consortium Publishes 5-Stage Roadmap for Recursive Self-Improvement ("Last AI Built by Humans")]]
 - `2026-09-14` [[2026-09-14-buildots-raises-130m-at-a-near-1b-valuation-on-data-center-c|Buildots raises $130M at a near-$1B valuation on data-center construction demand]]
+- `2026-09-14` [[2026-09-14-apple-ships-siri-ai-and-the-next-generation-of-apple-intelli|Apple Ships Siri AI and the Next Generation of Apple Intelligence]]
 - `2026-09-14` [[2026-09-14-anthropic-s-517b-compute-commitments-collide-with-its-own-sl|Anthropic's $517B compute commitments collide with its own slowdown message]]
 - `2026-09-14` [[2026-09-14-ajc-com-reports-senator-jon-ossoff-has-called-for-federal-in|AJC.com reports Senator Jon Ossoff has called for federal inspectors to be embedded inside frontier AI labs, following the OpenAI Senate probe and the coordinated Amodei/Altman/Hassabis safety warnings. The Next Web separately reports on a new Senate bill that would give Washington statutory authority to block AI models from release. King Charles is also hosting AI executives in Scotland for safety talks, per Quartz — a striking multinational escalation of the political attention on frontier AI in a single 24-hour window.]]
 - `2026-09-13` [[2026-09-13-xi-pitches-a-china-led-brics-open-source-ai-bloc|Xi pitches a China-led BRICS open-source AI bloc]]

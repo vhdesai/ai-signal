@@ -21,13 +21,9 @@ themes:
 - company-storylines
 - infrastructure-investments
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-09-13-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale
-- 2026-09-13-larry-ellison-cancels-7-5-billion-oracle-stock-sale
-- 2026-09-11-oracle-expands-restructuring-by-another-700m-as-ai-data-cent
-- 2026-04-02-trending-oracle-announces-30-000-layoffs-apr-1-oracle-confir
+dedupe_status: duplicate
+canonical_article_id: 2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale-sev
+related_article_ids: []
 embedding_id: 2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale
 event_name: ''
 ---
@@ -41,5 +37,5 @@ Oracle has begun executing the $700M expanded restructuring plan announced Frida
 
 **Entities:** [[Google]] · [[Meta]] · [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-13-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale]] · [[2026-09-13-larry-ellison-cancels-7-5-billion-oracle-stock-sale]] · [[2026-09-11-oracle-expands-restructuring-by-another-700m-as-ai-data-cent]] · [[2026-04-02-trending-oracle-announces-30-000-layoffs-apr-1-oracle-confir]]
+**Canonical:** [[2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale-sev]]
 <!-- graph:end -->

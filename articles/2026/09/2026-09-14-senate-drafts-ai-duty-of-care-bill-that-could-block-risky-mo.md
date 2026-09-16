@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-14-us-senate-begins-drafting-duty-of-care-ai-bill-with-model-re
 - 2026-09-12-thune-cruz-and-klobuchar-move-ai-safety-from-voluntary-pledg
 - 2026-06-04-bipartisan-great-american-ai-act-draft-proposes-federal-gove
 - 2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego
-- 2026-04-06-the-u-s-senate-commerce-committee-advanced-a-bipartisan-ai-l
 embedding_id: 2026-09-14-senate-drafts-ai-duty-of-care-bill-that-could-block-risky-mo
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Senate negotiators led by Thune, Cruz, and Klobuchar are drafting legislation wi
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-12-thune-cruz-and-klobuchar-move-ai-safety-from-voluntary-pledg]] · [[2026-06-04-bipartisan-great-american-ai-act-draft-proposes-federal-gove]] · [[2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego]] · [[2026-04-06-the-u-s-senate-commerce-committee-advanced-a-bipartisan-ai-l]]
+**Related:** [[2026-09-14-us-senate-begins-drafting-duty-of-care-ai-bill-with-model-re]] · [[2026-09-12-thune-cruz-and-klobuchar-move-ai-safety-from-voluntary-pledg]] · [[2026-06-04-bipartisan-great-american-ai-act-draft-proposes-federal-gove]] · [[2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego]]
 <!-- graph:end -->

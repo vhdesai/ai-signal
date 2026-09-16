@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-09-04-servicenow-buys-sweep-to-expand-agentic-crm-workflows
 - 2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts
 - 2026-09-15-salesforce-and-aws-expand-ai-integrations-across-slack-and-a
+- 2026-09-15-salesforce-and-aws-expand-integrations-across-slack-and-amaz
 - 2026-04-01-products-tools
-- 2026-09-01-salesforce-puts-its-entire-crm-inside-claude
 embedding_id: 2026-09-04-servicenow-acquires-israeli-agentic-crm-startup-sweep
 event_name: ''
 ---
@@ -39,5 +39,5 @@ ServiceNow acquired Sweep in a deal reported in the hundreds of millions of doll
 
 **Entities:** [[Salesforce]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-09-04-servicenow-buys-sweep-to-expand-agentic-crm-workflows]] · [[2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts]] · [[2026-09-15-salesforce-and-aws-expand-ai-integrations-across-slack-and-a]] · [[2026-04-01-products-tools]] · [[2026-09-01-salesforce-puts-its-entire-crm-inside-claude]]
+**Related:** [[2026-09-04-servicenow-buys-sweep-to-expand-agentic-crm-workflows]] · [[2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts]] · [[2026-09-15-salesforce-and-aws-expand-ai-integrations-across-slack-and-a]] · [[2026-09-15-salesforce-and-aws-expand-integrations-across-slack-and-amaz]] · [[2026-04-01-products-tools]]
 <!-- graph:end -->

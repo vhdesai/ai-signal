@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-20-ramp-launches-its-own-ai-model-router-called-router
 - 2026-08-20-ramp-launches-ai-model-router-entering-market-days-after-str
 - 2026-05-27-openrouter-cements-its-position-as-the-dominant-multi-model
-- 2026-08-20-ramp-s-ai-model-router-now-live-continued
+- 2026-09-14-mit-s-hardflow-forces-generative-models-to-satisfy-non-negot
 embedding_id: 2026-07-23-runway-launches-model-router-for-generative-media-workflows
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Runway launched Media Router, a developer tool that automatically chooses image,
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-20-ramp-launches-ai-model-router-continued]] · [[2026-08-20-ramp-launches-its-own-ai-model-router-called-router]] · [[2026-08-20-ramp-launches-ai-model-router-entering-market-days-after-str]] · [[2026-05-27-openrouter-cements-its-position-as-the-dominant-multi-model]] · [[2026-08-20-ramp-s-ai-model-router-now-live-continued]]
+**Related:** [[2026-08-20-ramp-launches-ai-model-router-continued]] · [[2026-08-20-ramp-launches-its-own-ai-model-router-called-router]] · [[2026-08-20-ramp-launches-ai-model-router-entering-market-days-after-str]] · [[2026-05-27-openrouter-cements-its-position-as-the-dominant-multi-model]] · [[2026-09-14-mit-s-hardflow-forces-generative-models-to-satisfy-non-negot]]
 <!-- graph:end -->

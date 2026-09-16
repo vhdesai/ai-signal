@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-14-microsoft-publishes-first-humanist-ai-code-of-conduct-nadell
 - 2026-09-14-monday-september-14-2026
 - 2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc
 - 2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex
@@ -37,5 +38,5 @@ Microsoft AI published its first-ever public Code of Conduct for MAI models, ope
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-14-monday-september-14-2026]] · [[2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc]] · [[2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex]]
+**Related:** [[2026-09-14-microsoft-publishes-first-humanist-ai-code-of-conduct-nadell]] · [[2026-09-14-monday-september-14-2026]] · [[2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc]] · [[2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex]]
 <!-- graph:end -->

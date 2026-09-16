@@ -1,18 +1,20 @@
 ---
 article_id: 2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin
 title: Chip and Memory Stocks Sell Off as Coordinated Safety Warnings Hit the AI Trade
+  — Intel −7%, AMD −6%, NVIDIA −3%
 date: '2026-09-14'
-source: Business Insider / 24/7 Wall St.**
-url_original: https://www.businessinsider.com/todays-newsletter-ai-slowdown-market-selloff-2026-9
-url_canonical: https://www.businessinsider.com/todays-newsletter-ai-slowdown-market-selloff-2026-9
-url_status: broken
-digest_source: digests\raw\2026-09-14_172400_Final-Daily-AI-News-Digest.md
-content_hash: c6bf7b6004965648972f81bf2b16b4e28cc1729496c31dd5c61955bb4bc8f2e9
-normalized_title_hash: c680ae1cb7f4d189
-canonical_url_hash: e5f1083bd618a31c
+source: 24/7 Wall St. / Business Insider**
+url_original: https://247wallst.com/investing/2026/09/14/chip-stocks-tumble-as-ai-pacing-call-reaches-beyond-memory-intel-drops-7-amd-sinks-6-nvidia-pulls-back/
+url_canonical: https://247wallst.com/investing/2026/09/14/chip-stocks-tumble-as-ai-pacing-call-reaches-beyond-memory-intel-drops-7-amd-sinks-6-nvidia-pulls-back/
+url_status: ok
+digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
+content_hash: a04aa71ee902cd888667e90fbbda93a1520b3c405325e7ee4b2f246821b2247f
+normalized_title_hash: d375cc81d08ea863
+canonical_url_hash: f9eb8768f7f3fe07
 tags:
 - Hot
-- Data
+- Markets
+- Sep 14
 entities:
 - AMD
 - Intel
@@ -31,9 +33,9 @@ embedding_id: 2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-w
 event_name: ''
 ---
 
-# Chip and Memory Stocks Sell Off as Coordinated Safety Warnings Hit the AI Trade
+# Chip and Memory Stocks Sell Off as Coordinated Safety Warnings Hit the AI Trade — Intel −7%, AMD −6%, NVIDIA −3%
 
-Business Insider's Markets brief opens with a global tech selloff Monday as US stock futures fell on the coordinated Amodei/Altman slowdown messaging. 24/7 Wall St. and Fast Company report Intel down 7%, AMD down 6%, and NVIDIA pulling back sharply, with memory names hit hardest — Micron and SanDisk down 6%, SK Hynix down 7% — because they had ridden the biggest AI-driven upgrade cycle. Yahoo Finance separately reports cybersecurity stocks got a mirror-image lift on the same messaging.
+The pacing argument spread from memory suppliers into logic and accelerators, with the iShares Semiconductor ETF down 6% against a 2% decline in the Nasdaq-100 proxy. Declines ran inverse to each name's AI accelerator exposure, pointing to a positioning unwind rather than a demand reassessment. Memory names were hit hardest — Micron and SanDisk down 6%, SK Hynix down 7%.
 
 <!-- graph:start -->
 ## Connections

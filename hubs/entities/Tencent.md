@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 195
+member_count: 197
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 195 connected article(s).
+> Auto-generated entity hub. 197 connected article(s).
 
+- `2026-09-15` [[2026-09-15-morgan-stanley-china-now-leads-us-in-consumer-ai-adoption-on|Morgan Stanley: China Now Leads US in Consumer AI Adoption on Weekly-Usage Rates]]
+- `2026-09-15` [[2026-09-15-chinese-tech-giants-are-now-rationing-employee-ai-token-budg|Chinese Tech Giants Are Now Rationing Employee AI Token Budgets After Promoting Heavy Use]]
 - `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai|SCMP: US and China are now openly racing on "self-improving AI"]]
 - `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]

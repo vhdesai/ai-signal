@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-05-13-missouri-ai-safeguards-bill-killed-11-0-in-committee-same-da
 - 2026-04-04-utah-enacted-legislation-making-it-the-first-u-s
 - 2026-04-03-tennessee-governor-bill-lee-signed-sb-1580-passed-both-chamb
+- 2026-09-14-us-senate-begins-drafting-duty-of-care-ai-bill-with-model-re
 embedding_id: 2026-05-13-iowa-enacts-law-forbidding-ai-only-medical-treatment-denials
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Gov. Kim Reynolds signed House File 2635 at Monroe County Hospital, prohibiting 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-13-missouri-ai-safeguards-bill-killed-11-0-in-committee-same-da]] · [[2026-04-04-utah-enacted-legislation-making-it-the-first-u-s]] · [[2026-04-03-tennessee-governor-bill-lee-signed-sb-1580-passed-both-chamb]]
+**Related:** [[2026-05-13-missouri-ai-safeguards-bill-killed-11-0-in-committee-same-da]] · [[2026-04-04-utah-enacted-legislation-making-it-the-first-u-s]] · [[2026-04-03-tennessee-governor-bill-lee-signed-sb-1580-passed-both-chamb]] · [[2026-09-14-us-senate-begins-drafting-duty-of-care-ai-bill-with-model-re]]
 <!-- graph:end -->

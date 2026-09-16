@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2233
+member_count: 2237
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2233 connected article(s).
+> Auto-generated entity hub. 2237 connected article(s).
 
 - `2026-09-15` [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t|Nadella internal memo: pace the frontier or lose "permission to operate"]]
+- `2026-09-15` [[2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu|Amodei's "Pace the Frontier" Draws Endorsements from Altman, Musk, Hassabis — and Pushback from Cohere, DeepSeek, Palihapitiya]]
 - `2026-09-14` [[2026-09-14-software-stocks-rally-chip-stocks-sell-off-as-market-prices|Software stocks rally, chip stocks sell off as market prices in AI slowdown]]
 - `2026-09-14` [[2026-09-14-senator-ossoff-calls-for-federal-inspectors-inside-frontier|Senator Ossoff Calls for Federal Inspectors Inside Frontier AI Labs]]
 - `2026-09-14` [[2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with|Sam Altman says AI's rapid progress could go "very badly" without controls]]
@@ -17,19 +18,22 @@ member_count: 2233
 - `2026-09-14` [[2026-09-14-openai-publishes-perplexity-case-study-astra-now-trusted-wit|OpenAI publishes Perplexity case study — Astra now trusted with end-to-end production systems]]
 - `2026-09-14` [[2026-09-14-openai-acquires-smartphone-camera-ai-maker-glass-imaging-for|OpenAI acquires smartphone camera-AI maker Glass Imaging for over $300M]]
 - `2026-09-14` [[2026-09-14-openai-moves-safety-review-from-release-gate-to-training-gat|OpenAI Moves Safety Review From Release Gate to Training Gate]]
+- `2026-09-14` [[2026-09-14-openai-acquires-smartphone-camera-maker-glass-imaging-for-ov|OpenAI Acquires Smartphone-Camera Maker Glass Imaging for Over $300M]]
 - `2026-09-14` [[2026-09-14-nvidia-backed-firmus-seeks-up-to-5b-in-an-asx-float-at-a-10|Nvidia-Backed Firmus Seeks Up to $5B in an ASX Float at a $10.5B Valuation]]
 - `2026-09-14` [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen|Nvidia and chip stocks fall as AI CEOs call for a development slowdown]]
+- `2026-09-14` [[2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-and-openai|NVIDIA, Palantir, and Booz Allen Restrict Anthropic and OpenAI Model Use Over Data Fears]]
 - `2026-09-14` [[2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-model-use|NVIDIA, Palantir, and Booz Allen Restrict Anthropic Model Use Over Data Fears]]
 - `2026-09-14` [[2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-pretrained-gener|MIT's HardFlow enforces hard constraints on pretrained generative models at deployment time]]
 - `2026-09-14` [[2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow|Global AI Stocks Sell Off After Lab CEOs Jointly Urge a Slowdown]]
 - `2026-09-14` [[2026-09-14-exclusive-nvidia-palantir-and-booz-allen-restrict-anthropic|Exclusive: NVIDIA, Palantir, and Booz Allen Restrict Anthropic and OpenAI Model Use Over Data Fears]]
 - `2026-09-14` [[2026-09-14-clay-mathematics-institute-navier-stokes-millennium-prize-pr|Clay Mathematics Institute: Navier-Stokes Millennium Prize Problem "apparently been settled" — formal review underway]]
 - `2026-09-14` [[2026-09-14-chip-stocks-sell-off-as-amodei-altman-safety-warnings-hit-th|Chip Stocks Sell Off as Amodei/Altman Safety Warnings Hit the AI Trade]]
-- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy Targets $50M in Annual Cost Savings With AI]]
+- `2026-09-14` [[2026-09-14-chinese-consortium-publishes-5-stage-roadmap-for-recursive-s|Chinese Consortium Publishes 5-Stage Roadmap for Recursive Self-Improvement ("Last AI Built by Humans")]]
 - `2026-09-14` [[2026-09-14-cnbc-daily-open-whoever-wins-ai-wins|CNBC Daily Open: ‘Whoever Wins AI, Wins’]]
 - `2026-09-14` [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe|Anthropic, OpenAI, and Google discussed creating a new AI safety body]]
 - `2026-09-14` [[2026-09-14-anthropic-preparing-claude-money-for-personal-finance-workfl|Anthropic Preparing "Claude Money" for Personal Finance Workflows]]
 - `2026-09-14` [[2026-09-14-anthropic-preparing-claude-money-for-personal-finance|Anthropic Preparing "Claude Money" for Personal Finance]]
+- `2026-09-14` [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo-openai-rules-out-a|Anthropic Picks Nasdaq for Potential IPO; OpenAI Rules Out a 2026 Listing]]
 - `2026-09-14` [[2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon|Altman confirms OpenAI, Anthropic, and Google have been in months-long informal joint self-regulation talks]]
 - `2026-09-14` [[2026-09-14-ajc-com-reports-senator-jon-ossoff-has-called-for-federal-in|AJC.com reports Senator Jon Ossoff has called for federal inspectors to be embedded inside frontier AI labs, following the OpenAI Senate probe and the coordinated Amodei/Altman/Hassabis safety warnings. The Next Web separately reports on a new Senate bill that would give Washington statutory authority to block AI models from release. King Charles is also hosting AI executives in Scotland for safety talks, per Quartz — a striking multinational escalation of the political attention on frontier AI in a single 24-hour window.]]
 - `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]

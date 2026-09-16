@@ -1,21 +1,22 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1347
+member_count: 1348
 ---
 
 # Google
 
-> Auto-generated entity hub. 1347 connected article(s).
+> Auto-generated entity hub. 1348 connected article(s).
 
 - `2026-09-15` [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t|Nadella internal memo: pace the frontier or lose "permission to operate"]]
+- `2026-09-15` [[2026-09-15-bytedance-s-first-half-profit-drops-to-20-billion-weighed-do|ByteDance's First-Half Profit Drops to $20 Billion, Weighed Down by AI Spending]]
 - `2026-09-14` [[2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale|Oracle Begins Layoffs as Ellison Cancels $7.5B Stock Sale]]
+- `2026-09-14` [[2026-09-14-apple-ships-siri-ai-and-the-next-generation-of-apple-intelli|Apple Ships Siri AI and the Next Generation of Apple Intelligence]]
 - `2026-09-14` [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe|Anthropic, OpenAI, and Google discussed creating a new AI safety body]]
 - `2026-09-14` [[2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon|Altman confirms OpenAI, Anthropic, and Google have been in months-long informal joint self-regulation talks]]
 - `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-sunday-september-13-2026|Sunday, September 13, 2026]]
 - `2026-09-13` [[2026-09-13-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale|Oracle Begins Layoffs as Ellison Cancels $7.5B Share Sale]]
-- `2026-09-13` [[2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers|NVIDIA's Growing Dependence on a Handful of AI Customers]]
 - `2026-09-13` [[2026-09-13-jeff-dean-s-stealth-ai-startup-identified-as-discovery-loop|Jeff Dean's stealth AI startup identified as "Discovery Loop"; ~$50B target]]
 - `2026-09-13` [[2026-09-13-google-researcher-dissents-stability-is-the-speed-limit|Google Researcher Dissents: “Stability Is the Speed Limit”]]
 - `2026-09-13` [[2026-09-13-google-deepmind-safety-researcher-resigns-as-google-moves-ai|Google DeepMind safety researcher resigns as Google moves AI Responsibility team out of DeepMind]]

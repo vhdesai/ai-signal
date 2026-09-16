@@ -1,15 +1,18 @@
 ---
 type: entity-hub
 hub: ByteDance
-member_count: 89
+member_count: 92
 ---
 
 # ByteDance
 
-> Auto-generated entity hub. 89 connected article(s).
+> Auto-generated entity hub. 92 connected article(s).
 
+- `2026-09-15` [[2026-09-15-chinese-tech-giants-are-now-rationing-employee-ai-token-budg|Chinese Tech Giants Are Now Rationing Employee AI Token Budgets After Promoting Heavy Use]]
+- `2026-09-15` [[2026-09-15-bytedance-s-first-half-profit-drops-to-20-billion-weighed-do|ByteDance's First-Half Profit Drops to $20 Billion, Weighed Down by AI Spending]]
 - `2026-09-15` [[2026-09-15-bytedance-h1-profit-drops-to-20b-on-ai-spending-revenue-up-3|ByteDance H1 profit drops to $20B on AI spending, revenue up 30% to $120B]]
 - `2026-09-14` [[2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-pretrained-gener|MIT's HardFlow enforces hard constraints on pretrained generative models at deployment time]]
+- `2026-09-14` [[2026-09-14-chinese-consortium-publishes-5-stage-roadmap-for-recursive-s|Chinese Consortium Publishes 5-Stage Roadmap for Recursive Self-Improvement ("Last AI Built by Humans")]]
 - `2026-09-06` [[2026-09-06-bytedance-lands-29-6b-loan-to-fuel-ai-advances|ByteDance lands $29.6B loan to fuel AI advances]]
 - `2026-09-04` [[2026-09-04-openai-releases-gpt-6-astra-and-suggests-it-could-be-agi|OpenAI releases GPT-6 Astra and suggests it could be AGI]]
 - `2026-09-04` [[2026-09-04-deepseek-plans-major-huawei-chip-deployment-as-bytedance-rai|DeepSeek plans major Huawei chip deployment as ByteDance raises AI capital]]

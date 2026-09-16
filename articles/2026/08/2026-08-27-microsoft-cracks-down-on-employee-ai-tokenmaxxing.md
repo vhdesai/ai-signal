@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual
 - 2026-08-26-microsoft-employees-reveal-how-much-cash-they-re-burning-on
-- 2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202
+- 2026-09-15-chinese-tech-giants-are-now-rationing-employee-ai-token-budg
 embedding_id: 2026-08-27-microsoft-cracks-down-on-employee-ai-tokenmaxxing
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Microsoft is reportedly tightening internal rules on AI compute spending after e
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual]] · [[2026-08-26-microsoft-employees-reveal-how-much-cash-they-re-burning-on]] · [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]]
+**Related:** [[2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual]] · [[2026-08-26-microsoft-employees-reveal-how-much-cash-they-re-burning-on]] · [[2026-09-15-chinese-tech-giants-are-now-rationing-employee-ai-token-budg]]
 <!-- graph:end -->

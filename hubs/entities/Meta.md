@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 707
+member_count: 708
 ---
 
 # Meta
 
-> Auto-generated entity hub. 707 connected article(s).
+> Auto-generated entity hub. 708 connected article(s).
 
+- `2026-09-15` [[2026-09-15-bytedance-s-first-half-profit-drops-to-20-billion-weighed-do|ByteDance's First-Half Profit Drops to $20 Billion, Weighed Down by AI Spending]]
 - `2026-09-15` [[2026-09-15-bytedance-h1-profit-drops-to-20b-on-ai-spending-revenue-up-3|ByteDance H1 profit drops to $20B on AI spending, revenue up 30% to $120B]]
 - `2026-09-14` [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f|Shanghai AI Lab Ships Intern W0, a Physical World Model for Force-Tactile Robotics]]
 - `2026-09-14` [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor|Shanghai AI Lab Ships Intern W0, a Force-Tactile Physical World Model for Robotics]]

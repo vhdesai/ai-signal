@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos
-- 2026-04-01-the-trump-administration-released-a-comprehensive-national-a
+- 2026-09-14-us-senate-begins-drafting-duty-of-care-ai-bill-with-model-re
 embedding_id: 2026-06-04-bipartisan-great-american-ai-act-draft-proposes-federal-gove
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The House released a bipartisan draft of the "Great American AI Act," proposing 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-04-bipartisan-great-american-ai-act-proposes-federal-governance]] · [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos]] · [[2026-04-01-the-trump-administration-released-a-comprehensive-national-a]]
+**Related:** [[2026-06-04-bipartisan-great-american-ai-act-proposes-federal-governance]] · [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos]] · [[2026-09-14-us-senate-begins-drafting-duty-of-care-ai-bill-with-model-re]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
-- 2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t
+- 2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-and-openai
 embedding_id: 2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing
 event_name: ''
 ---
@@ -39,5 +39,5 @@ After publicly criticizing Anthropic for restricting its Mythos cyber-capable mo
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t]]
+**Related:** [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-and-openai]]
 <!-- graph:end -->

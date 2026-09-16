@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 334
+member_count: 336
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 334 connected article(s).
+> Auto-generated entity hub. 336 connected article(s).
 
+- `2026-09-15` [[2026-09-15-morgan-stanley-china-now-leads-us-in-consumer-ai-adoption-on|Morgan Stanley: China Now Leads US in Consumer AI Adoption on Weekly-Usage Rates]]
+- `2026-09-15` [[2026-09-15-chinese-tech-giants-are-now-rationing-employee-ai-token-budg|Chinese Tech Giants Are Now Rationing Employee AI Token Budgets After Promoting Heavy Use]]
 - `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai|SCMP: US and China are now openly racing on "self-improving AI"]]
 - `2026-09-13` [[2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce|Meta Acquires Stilla.ai to Expand Business Agent Commerce]]

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon
 - 2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon
+- 2026-09-15-chinese-tech-giants-are-now-rationing-employee-ai-token-budg
 - 2026-08-01-1-in-4-dollars-spent-on-ai-goes-to-waste-report-finds
 - 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
-- 2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual
 embedding_id: 2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The WSJ reports enterprises are rationing AI usage after some exhausted annual b
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon]] · [[2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon]] · [[2026-08-01-1-in-4-dollars-spent-on-ai-goes-to-waste-report-finds]] · [[2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending]] · [[2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual]]
+**Related:** [[2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon]] · [[2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon]] · [[2026-09-15-chinese-tech-giants-are-now-rationing-employee-ai-token-budg]] · [[2026-08-01-1-in-4-dollars-spent-on-ai-goes-to-waste-report-finds]] · [[2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending]]
 <!-- graph:end -->

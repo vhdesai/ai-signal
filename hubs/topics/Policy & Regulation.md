@@ -1,15 +1,17 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 1765
+member_count: 1768
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 1765 connected article(s).
+> Auto-generated topic hub. 1768 connected article(s).
 
 - `2026-09-15` [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t|Nadella internal memo: pace the frontier or lose "permission to operate"]]
+- `2026-09-15` [[2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu|Amodei's "Pace the Frontier" Draws Endorsements from Altman, Musk, Hassabis — and Pushback from Cohere, DeepSeek, Palihapitiya]]
 - `2026-09-14` [[2026-09-14-wsj-pressure-mounts-to-slow-down-ai-development|WSJ: Pressure Mounts to Slow Down AI Development]]
+- `2026-09-14` [[2026-09-14-us-senate-begins-drafting-duty-of-care-ai-bill-with-model-re|US Senate Begins Drafting Duty-of-Care AI Bill With Model-Release Block and State Preemption]]
 - `2026-09-14` [[2026-09-14-un-calls-for-urgent-action-on-ai-framing-unprecedented-risks|UN calls for "urgent action" on AI, framing "unprecedented risks"]]
 - `2026-09-14` [[2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit|Trump downplays need to check AI development, citing competition with China]]
 - `2026-09-14` [[2026-09-14-senator-ossoff-calls-for-federal-inspectors-inside-frontier|Senator Ossoff Calls for Federal Inspectors Inside Frontier AI Labs]]
@@ -19,9 +21,10 @@ member_count: 1765
 - `2026-09-14` [[2026-09-14-openai-moves-safety-review-from-release-gate-to-training-gat|OpenAI Moves Safety Review From Release Gate to Training Gate]]
 - `2026-09-14` [[2026-09-14-oecd-links-heavy-ai-use-in-schoolwork-to-sharp-learning-decl|OECD Links Heavy AI Use in Schoolwork to Sharp Learning Declines]]
 - `2026-09-14` [[2026-09-14-monday-september-14-2026|Monday, September 14, 2026]]
+- `2026-09-14` [[2026-09-14-microsoft-publishes-first-humanist-ai-code-of-conduct-nadell|Microsoft Publishes First "Humanist AI" Code of Conduct — Nadella Reinforces in Internal Memo]]
 - `2026-09-14` [[2026-09-14-microsoft-publishes-first-humanist-ai-code-of-conduct-for-ma|Microsoft Publishes First "Humanist AI" Code of Conduct for MAI Models]]
 - `2026-09-14` [[2026-09-14-king-charles-to-host-ai-executives-as-safety-fears-mount|King Charles to host AI executives as safety fears mount]]
-- `2026-09-14` [[2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a|Jensen Huang tells Trump onstage: "We're not going to let [an AI slowdown] happen"]]
+- `2026-09-14` [[2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a|Jensen Huang Tells Trump Onstage: "We're Not Going to Let an AI Slowdown Happen"]]
 - `2026-09-14` [[2026-09-14-germany-says-halting-ai-development-is-not-viable-and-calls|Germany says halting AI development is not viable and calls for U.S.-China involvement]]
 - `2026-09-14` [[2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s|Beijing pushes back on Anthropic CEO's call to curb China's AI development]]
 - `2026-09-14` [[2026-09-14-beijing-formally-rebukes-amodei-s-call-to-curb-china-s-ai-de|Beijing Formally Rebukes Amodei's Call to Curb China's AI Development]]

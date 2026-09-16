@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan
 - 2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u
 - 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
+- 2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i
 embedding_id: 2026-09-12-gemini-desktop-app-arrives-on-windows-10-and-11
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Google's Gemini desktop app is now available on Windows 10 and 11, giving Window
 
 **Entities:** [[Google]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-12-gemini-desktop-app-launches-on-windows-10-and-11]] · [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]]
+**Related:** [[2026-09-12-gemini-desktop-app-launches-on-windows-10-and-11]] · [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]] · [[2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i]]
 <!-- graph:end -->

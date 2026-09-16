@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-12-anthropic-courts-investors-ahead-of-fall-ipo-michael-burry-c
 - 2026-08-12-michael-burry-calls-nvidia-s-500b-ai-financing-push-a-wall-s
 - 2026-08-12-anthropic-works-to-shore-up-investor-confidence-ahead-of-a-b
-- 2026-09-11-nvidia-in-talks-to-invest-up-to-10b-as-anchor-investor-in-an
+- 2026-09-14-anthropic-picks-nasdaq-for-potential-ipo-openai-rules-out-a
 embedding_id: 2026-08-12-anthropic-courts-fall-ipo-burry-calls-nvidia-500b-financing
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Anthropic is meeting prospective public-market investors ahead of a possible lis
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-12-anthropic-courts-investors-for-fall-ipo-burry-critiques-nvid]] · [[2026-08-12-anthropic-courts-investors-ahead-of-fall-ipo-michael-burry-c]] · [[2026-08-12-michael-burry-calls-nvidia-s-500b-ai-financing-push-a-wall-s]] · [[2026-08-12-anthropic-works-to-shore-up-investor-confidence-ahead-of-a-b]] · [[2026-09-11-nvidia-in-talks-to-invest-up-to-10b-as-anchor-investor-in-an]]
+**Related:** [[2026-08-12-anthropic-courts-investors-for-fall-ipo-burry-critiques-nvid]] · [[2026-08-12-anthropic-courts-investors-ahead-of-fall-ipo-michael-burry-c]] · [[2026-08-12-michael-burry-calls-nvidia-s-500b-ai-financing-push-a-wall-s]] · [[2026-08-12-anthropic-works-to-shore-up-investor-confidence-ahead-of-a-b]] · [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo-openai-rules-out-a]]
 <!-- graph:end -->

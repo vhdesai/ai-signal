@@ -17,13 +17,9 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-09-14-nvidia-expands-open-source-cuda-q-with-cuda-q-logical-for-fa
-- 2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors
-- 2026-09-14-infleqtion-reports-5x-better-code-rate-in-quantum-error-corr
-- 2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for
+dedupe_status: duplicate
+canonical_article_id: 2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-codesi
+related_article_ids: []
 embedding_id: 2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-develo
 event_name: ''
 ---
@@ -37,5 +33,5 @@ NVIDIA expanded its open-source CUDA-Q platform with CUDA-Q Logical, an orchestr
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-09-14-nvidia-expands-open-source-cuda-q-with-cuda-q-logical-for-fa]] · [[2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors]] · [[2026-09-14-infleqtion-reports-5x-better-code-rate-in-quantum-error-corr]] · [[2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for]]
+**Canonical:** [[2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-codesi]]
 <!-- graph:end -->

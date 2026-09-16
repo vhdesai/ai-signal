@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-13-altman-musk-and-hassabis-publicly-back-amodei-s-independent
 - 2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus
+- 2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu
 - 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
 - 2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass
-- 2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon
 embedding_id: 2026-09-13-altman-musk-and-hassabis-publicly-back-the-pacing-proposal
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Within a day of the essay, OpenAI's Sam Altman, Elon Musk and Google DeepMind's 
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-13-altman-musk-and-hassabis-publicly-back-amodei-s-independent]] · [[2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]] · [[2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon]]
+**Related:** [[2026-09-13-altman-musk-and-hassabis-publicly-back-amodei-s-independent]] · [[2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus]] · [[2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]]
 <!-- graph:end -->

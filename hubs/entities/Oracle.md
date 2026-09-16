@@ -1,17 +1,18 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 215
+member_count: 216
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 215 connected article(s).
+> Auto-generated entity hub. 216 connected article(s).
 
+- `2026-09-15` [[2026-09-15-bytedance-s-first-half-profit-drops-to-20-billion-weighed-do|ByteDance's First-Half Profit Drops to $20 Billion, Weighed Down by AI Spending]]
 - `2026-09-14` [[2026-09-14-oracle-health-expands-clinical-ai-agent-to-nurses|Oracle Health Expands Clinical AI Agent to Nurses]]
 - `2026-09-14` [[2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale|Oracle Begins Layoffs as Ellison Cancels $7.5B Stock Sale]]
+- `2026-09-14` [[2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale-sev|Oracle Begins Layoffs as Ellison Cancels $7.5B Share Sale; Severance Capped at 26 Weeks]]
 - `2026-09-14` [[2026-09-14-monday-september-14-2026|Monday, September 14, 2026]]
-- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy Targets $50M in Annual Cost Savings With AI]]
 - `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale|Oracle Begins Layoffs as Ellison Cancels $7.5B Share Sale]]
 - `2026-09-13` [[2026-09-13-larry-ellison-cancels-planned-7-5-billion-sale-of-oracle-sto|Larry Ellison cancels planned $7.5 billion sale of Oracle stock]]

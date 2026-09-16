@@ -26,7 +26,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-13-sam-altman-confirms-openai-will-not-ipo-in-2026
-- 2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety
+- 2026-09-14-anthropic-picks-nasdaq-for-potential-ipo-openai-rules-out-a
 embedding_id: 2026-09-12-altman-confirms-openai-ipo-pushed-to-2027-nvidia-in-talks-to
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Sam Altman told a TechCrunch audience it would be "ill-advised" to take OpenAI p
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-13-sam-altman-confirms-openai-will-not-ipo-in-2026]] · [[2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety]]
+**Related:** [[2026-09-13-sam-altman-confirms-openai-will-not-ipo-in-2026]] · [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo-openai-rules-out-a]]
 <!-- graph:end -->

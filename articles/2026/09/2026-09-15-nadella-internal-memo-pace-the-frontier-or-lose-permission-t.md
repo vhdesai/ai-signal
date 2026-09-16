@@ -4,8 +4,8 @@ title: 'Nadella internal memo: pace the frontier or lose "permission to operate"
 date: '2026-09-15'
 source: Business Insider
 url_original: https://www.businessinsider.com/todays-newsletter-ai-slowdown-convenient-timing-2026-9
-url_canonical: https://www.businessinsider.com/microsoft-satya-nadella-ai-safety-debate-internal-warning-2026-9
-url_status: repaired
+url_canonical: https://www.businessinsider.com/todays-newsletter-ai-slowdown-convenient-timing-2026-9
+url_status: broken
 digest_source: digests\raw\2026-09-15_065723_Final-Daily-AI-News-Digest.md
 content_hash: a94117f10d1e0fdeb6759206bba83d1c5b2c4682c2181a35bb98267bccd3cc9d
 normalized_title_hash: 299af8056d797ed7

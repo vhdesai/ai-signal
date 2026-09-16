@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Cohere
-member_count: 16
+member_count: 18
 ---
 
 # Cohere
 
-> Auto-generated entity hub. 16 connected article(s).
+> Auto-generated entity hub. 18 connected article(s).
 
+- `2026-09-15` [[2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu|Amodei's "Pace the Frontier" Draws Endorsements from Altman, Musk, Hassabis — and Pushback from Cohere, DeepSeek, Palihapitiya]]
+- `2026-09-14` [[2026-09-14-chinese-consortium-publishes-5-stage-roadmap-for-recursive-s|Chinese Consortium Publishes 5-Stage Roadmap for Recursive Self-Improvement ("Last AI Built by Humans")]]
 - `2026-08-28` [[2026-08-28-cohere-parse-5-reportedly-prioritizes-cost-per-page-over-ben|Cohere Parse 5 reportedly prioritizes cost per page over benchmark wins]]
 - `2026-08-27` [[2026-08-27-cohere-releases-parse-5-a-2-3b-vision-language-model-for-ent|Cohere releases Parse 5, a 2.3B vision-language model for enterprise documents]]
 - `2026-08-27` [[2026-08-27-cohere-ships-parse-5-a-2-3b-vision-language-model-for-enterp|Cohere Ships Parse 5, a 2.3B Vision-Language Model for Enterprise Document Ingestion]]

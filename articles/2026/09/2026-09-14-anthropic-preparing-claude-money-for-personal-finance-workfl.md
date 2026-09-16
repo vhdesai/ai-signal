@@ -6,13 +6,14 @@ source: TestingCatalog AI News**
 url_original: https://www.testingcatalog.com/anthropic-claude-money-personal-finance/
 url_canonical: https://www.testingcatalog.com/anthropic-claude-money-personal-finance/
 url_status: broken
-digest_source: digests\raw\2026-09-14_172400_Final-Daily-AI-News-Digest.md
-content_hash: 23526b5a39d98364d9c232f8bafa73954e43ecb2bc443274024ef09e2bdf7737
+digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
+content_hash: dddaca85b83bcc2d9fb87039336dbd48204e8c5aa2ddacb68f2161d1e90f30fb
 normalized_title_hash: 86b1d8beb921e526
 canonical_url_hash: d08fbfa85ab625ef
 tags:
 - New
 - Trending
+- Sep 14
 entities:
 - Anthropic
 - OpenAI
@@ -31,7 +32,7 @@ event_name: ''
 
 # Anthropic Preparing "Claude Money" for Personal Finance Workflows
 
-TestingCatalog reports Anthropic is preparing a Claude Money product targeting personal finance workflows — budgeting, spending analysis, and money-agent tasks. If confirmed, it would put Claude in direct competition with OpenAI's rumored consumer finance integrations and with Intuit/QuickBooks agentic offerings. The move suggests Anthropic is following OpenAI into direct consumer-facing verticals despite Amodei's simultaneous safety-slowdown messaging.
+Anthropic is preparing a Claude Money product targeting personal finance workflows — budgeting, spending analysis, and money-agent tasks. If confirmed, it would put Claude in direct competition with OpenAI's rumored consumer finance integrations and with Intuit/QuickBooks agentic offerings. The move suggests Anthropic is following OpenAI into direct consumer-facing verticals despite Amodei's simultaneous safety-slowdown messaging.
 
 <!-- graph:start -->
 ## Connections

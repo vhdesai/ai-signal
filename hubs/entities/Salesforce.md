@@ -1,17 +1,20 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 73
+member_count: 76
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 73 connected article(s).
+> Auto-generated entity hub. 76 connected article(s).
 
 - `2026-09-15` [[2026-09-15-salesforce-and-nvidia-launch-koa-a-jointly-post-trained-reas|Salesforce and Nvidia launch Koa, a jointly post-trained reasoning model on Nemotron]]
+- `2026-09-15` [[2026-09-15-salesforce-and-nvidia-unveil-koa-an-open-weight-nemotron-bas|Salesforce and NVIDIA Unveil Koa — an Open-Weight Nemotron-Based Enterprise Reasoning Model]]
 - `2026-09-15` [[2026-09-15-salesforce-and-aws-expand-ai-integrations-across-slack-and-a|Salesforce and AWS expand AI integrations across Slack and Amazon Quick]]
+- `2026-09-15` [[2026-09-15-salesforce-and-aws-expand-integrations-across-slack-and-amaz|Salesforce and AWS Expand Integrations Across Slack and Amazon Quick With Zero-Copy Data Access]]
 - `2026-09-14` [[2026-09-14-software-stocks-rally-chip-stocks-sell-off-as-market-prices|Software stocks rally, chip stocks sell off as market prices in AI slowdown]]
 - `2026-09-14` [[2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-pretrained-gener|MIT's HardFlow enforces hard constraints on pretrained generative models at deployment time]]
+- `2026-09-14` [[2026-09-14-chinese-consortium-publishes-5-stage-roadmap-for-recursive-s|Chinese Consortium Publishes 5-Stage Roadmap for Recursive Self-Improvement ("Last AI Built by Humans")]]
 - `2026-09-11` [[2026-09-11-xai-s-grok-bot-adds-salesforce-hubspot-gong-clay-and-microso|xAI's Grok Bot adds Salesforce, HubSpot, Gong, Clay and Microsoft Teams connectors]]
 - `2026-09-06` [[2026-09-06-meta-migrates-internal-communications-from-google-chat-to-sl|Meta migrates internal communications from Google Chat to Slack, citing AI agents]]
 - `2026-09-04` [[2026-09-04-servicenow-buys-sweep-to-expand-agentic-crm-workflows|ServiceNow buys Sweep to expand agentic CRM workflows]]

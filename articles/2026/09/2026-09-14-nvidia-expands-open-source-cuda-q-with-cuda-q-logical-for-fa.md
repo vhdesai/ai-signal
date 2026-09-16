@@ -20,7 +20,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-develo
+canonical_article_id: 2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-codesi
 related_article_ids: []
 embedding_id: 2026-09-14-nvidia-expands-open-source-cuda-q-with-cuda-q-logical-for-fa
 event_name: ''
@@ -35,5 +35,5 @@ NVIDIA announced CUDA-Q Logical, an orchestration layer that lets researchers de
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-develo]]
+**Canonical:** [[2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-codesi]]
 <!-- graph:end -->

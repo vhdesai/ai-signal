@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale
+- 2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale-sev
 - 2026-09-13-larry-ellison-cancels-7-5-billion-oracle-stock-sale
 - 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
-- 2026-09-11-oracle-expands-restructuring-by-another-700m-as-ai-data-cent
 embedding_id: 2026-09-13-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Oracle has begun executing on the $700M expanded restructuring announced Friday,
 
 **Entities:** [[Google]] · [[Meta]] · [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale]] · [[2026-09-13-larry-ellison-cancels-7-5-billion-oracle-stock-sale]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-09-11-oracle-expands-restructuring-by-another-700m-as-ai-data-cent]]
+**Related:** [[2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale]] · [[2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale-sev]] · [[2026-09-13-larry-ellison-cancels-7-5-billion-oracle-stock-sale]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]]
 <!-- graph:end -->

@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
 - 2026-05-22-stanford-hai-releases-2026-ai-index-u-s-china-performance-ga
+- 2026-09-15-chinese-tech-giants-are-now-rationing-employee-ai-token-budg
 - 2026-08-03-estimates-above-1-trillion-in-hyperscaler-capex-for-2027-und
 embedding_id: 2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further
 event_name: ''
@@ -38,5 +39,5 @@ A Moody's Ratings report cited by SCMP finds that while US hyperscalers vastly o
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-05-22-stanford-hai-releases-2026-ai-index-u-s-china-performance-ga]] · [[2026-08-03-estimates-above-1-trillion-in-hyperscaler-capex-for-2027-und]]
+**Related:** [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-05-22-stanford-hai-releases-2026-ai-index-u-s-china-performance-ga]] · [[2026-09-15-chinese-tech-giants-are-now-rationing-employee-ai-token-budg]] · [[2026-08-03-estimates-above-1-trillion-in-hyperscaler-capex-for-2027-und]]
 <!-- graph:end -->

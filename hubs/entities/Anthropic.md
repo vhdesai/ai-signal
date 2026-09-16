@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 1953
+member_count: 1957
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 1953 connected article(s).
+> Auto-generated entity hub. 1957 connected article(s).
 
 - `2026-09-15` [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t|Nadella internal memo: pace the frontier or lose "permission to operate"]]
+- `2026-09-15` [[2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu|Amodei's "Pace the Frontier" Draws Endorsements from Altman, Musk, Hassabis — and Pushback from Cohere, DeepSeek, Palihapitiya]]
+- `2026-09-15` [[2026-09-15-aiuc-raises-40m-series-a-to-underwrite-enterprise-ai-agent-l|AIUC Raises $40M Series A to Underwrite Enterprise AI-Agent Liability]]
 - `2026-09-14` [[2026-09-14-software-stocks-rally-chip-stocks-sell-off-as-market-prices|Software stocks rally, chip stocks sell off as market prices in AI slowdown]]
 - `2026-09-14` [[2026-09-14-rumble-shares-rise-after-anthropic-is-identified-behind-larg|Rumble shares rise after Anthropic is identified behind large compute deal]]
 - `2026-09-14` [[2026-09-14-rocket-doctor-ai-reports-u-s-operating-momentum-ahead-of-tow|Rocket Doctor AI reports U.S. operating momentum ahead of town hall]]
@@ -16,12 +18,13 @@ member_count: 1953
 - `2026-09-14` [[2026-09-14-openai-pulls-1m-sponsorship-of-caltech-ai-maths-contest-afte|OpenAI pulls $1M sponsorship of Caltech AI maths contest after "slop mathematics" letter]]
 - `2026-09-14` [[2026-09-14-openai-acquires-smartphone-camera-ai-maker-glass-imaging-for|OpenAI acquires smartphone camera-AI maker Glass Imaging for over $300M]]
 - `2026-09-14` [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen|Nvidia and chip stocks fall as AI CEOs call for a development slowdown]]
+- `2026-09-14` [[2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-and-openai|NVIDIA, Palantir, and Booz Allen Restrict Anthropic and OpenAI Model Use Over Data Fears]]
 - `2026-09-14` [[2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-model-use|NVIDIA, Palantir, and Booz Allen Restrict Anthropic Model Use Over Data Fears]]
 - `2026-09-14` [[2026-09-14-monday-september-14-2026|Monday, September 14, 2026]]
 - `2026-09-14` [[2026-09-14-exclusive-nvidia-palantir-and-booz-allen-restrict-anthropic|Exclusive: NVIDIA, Palantir, and Booz Allen Restrict Anthropic and OpenAI Model Use Over Data Fears]]
 - `2026-09-14` [[2026-09-14-claude-code-weekly-limits-reset-today-a-net-17-cut-for-activ|Claude Code Weekly Limits Reset Today — A Net 17% Cut for Active Users]]
 - `2026-09-14` [[2026-09-14-chip-stocks-sell-off-as-amodei-altman-safety-warnings-hit-th|Chip Stocks Sell Off as Amodei/Altman Safety Warnings Hit the AI Trade]]
-- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy Targets $50M in Annual Cost Savings With AI]]
+- `2026-09-14` [[2026-09-14-chinese-consortium-publishes-5-stage-roadmap-for-recursive-s|Chinese Consortium Publishes 5-Stage Roadmap for Recursive Self-Improvement ("Last AI Built by Humans")]]
 - `2026-09-14` [[2026-09-14-cnbc-daily-open-whoever-wins-ai-wins|CNBC Daily Open: ‘Whoever Wins AI, Wins’]]
 - `2026-09-14` [[2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s|Beijing pushes back on Anthropic CEO's call to curb China's AI development]]
 - `2026-09-14` [[2026-09-14-beijing-formally-rebukes-amodei-s-call-to-curb-china-s-ai-de|Beijing Formally Rebukes Amodei's Call to Curb China's AI Development]]
@@ -31,6 +34,7 @@ member_count: 1953
 - `2026-09-14` [[2026-09-14-anthropic-walks-a-tightrope-to-nasdaq-preaching-restraint-wh|Anthropic Walks a Tightrope to Nasdaq: Preaching Restraint While Pursuing a ~$2 Trillion Valuation]]
 - `2026-09-14` [[2026-09-14-anthropic-preparing-claude-money-for-personal-finance-workfl|Anthropic Preparing "Claude Money" for Personal Finance Workflows]]
 - `2026-09-14` [[2026-09-14-anthropic-preparing-claude-money-for-personal-finance|Anthropic Preparing "Claude Money" for Personal Finance]]
+- `2026-09-14` [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo-openai-rules-out-a|Anthropic Picks Nasdaq for Potential IPO; OpenAI Rules Out a 2026 Listing]]
 - `2026-09-14` [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo|Anthropic Picks Nasdaq for Potential IPO]]
 - `2026-09-14` [[2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon|Altman confirms OpenAI, Anthropic, and Google have been in months-long informal joint self-regulation talks]]
 - `2026-09-14` [[2026-09-14-altman-spells-out-the-pacing-case-we-could-lose-control-as-w|Altman Spells Out the Pacing Case — ‘We Could Lose Control’ — as Washington Balks and Beijing Calls It Fearmongering]]

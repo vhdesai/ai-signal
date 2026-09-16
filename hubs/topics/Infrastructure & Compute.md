@@ -1,15 +1,17 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 1896
+member_count: 1898
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 1896 connected article(s).
+> Auto-generated topic hub. 1898 connected article(s).
 
+- `2026-09-15` [[2026-09-15-agility-robotics-releases-digit-5-first-humanoid-designed-to|Agility Robotics Releases Digit 5 — First Humanoid Designed to Work Alongside People Without Safety Fencing]]
 - `2026-09-14` [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen|Nvidia and chip stocks fall as AI CEOs call for a development slowdown]]
 - `2026-09-14` [[2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-develo|NVIDIA Adds CUDA-Q Logical for Fault-Tolerant Quantum Development]]
+- `2026-09-14` [[2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-codesi|NVIDIA Adds CUDA-Q Logical for Fault-Tolerant Quantum Codesign]]
 - `2026-09-14` [[2026-09-14-monday-september-14-2026|Monday, September 14, 2026]]
 - `2026-09-14` [[2026-09-14-micron-s-taiwan-unions-reject-record-bonus-press-for-15-prof|Micron's Taiwan Unions Reject Record Bonus, Press for 15% Profit-Sharing]]
 - `2026-09-14` [[2026-09-14-infleqtion-reports-5x-better-code-rate-in-quantum-error-corr|Infleqtion Reports 5x Better Code Rate in Quantum Error Correction]]

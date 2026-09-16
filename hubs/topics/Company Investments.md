@@ -1,18 +1,20 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1110
+member_count: 1113
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1110 connected article(s).
+> Auto-generated topic hub. 1113 connected article(s).
 
+- `2026-09-15` [[2026-09-15-aiuc-raises-40m-series-a-to-underwrite-enterprise-ai-agent-l|AIUC Raises $40M Series A to Underwrite Enterprise AI-Agent Liability]]
 - `2026-09-14` [[2026-09-14-z-ai-raises-5b-shares-fall-more-than-10-on-dilution|Z.ai Raises $5B; Shares Fall More Than 10% on Dilution]]
 - `2026-09-14` [[2026-09-14-superhuman-acquires-ai-notetaker-fathom-to-push-into-agentic|Superhuman acquires AI notetaker Fathom to push into agentic work]]
 - `2026-09-14` [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen|Nvidia and chip stocks fall as AI CEOs call for a development slowdown]]
 - `2026-09-14` [[2026-09-14-former-apple-researchers-raise-50m-for-ai-models-with-more-n|Former Apple researchers raise $50M for AI models with more natural conversation]]
 - `2026-09-14` [[2026-09-14-cornelis-raises-205m-to-challenge-nvidia-s-networking-domina|Cornelis raises $205M to challenge Nvidia's networking dominance]]
+- `2026-09-14` [[2026-09-14-cornelis-raises-205m-to-attack-nvidia-s-networking-lock-in-w|Cornelis Raises $205M to Attack NVIDIA's Networking Lock-In With Active Compute Fabric]]
 - `2026-09-14` [[2026-09-14-china-s-z-ai-raises-5b-through-combined-hk-share-placement-a|China's Z.ai raises ~$5B through combined HK share placement and convertible bond]]
 - `2026-09-14` [[2026-09-14-cnbc-daily-open-whoever-wins-ai-wins|CNBC Daily Open: ‘Whoever Wins AI, Wins’]]
 - `2026-09-14` [[2026-09-14-buildots-raises-130m-at-a-near-1b-valuation-on-data-center-c|Buildots raises $130M at a near-$1B valuation on data-center construction demand]]
@@ -21,6 +23,7 @@ member_count: 1110
 - `2026-09-14` [[2026-09-14-anthropic-s-517b-compute-commitments-collide-with-its-own-sl|Anthropic's $517B compute commitments collide with its own slowdown message]]
 - `2026-09-14` [[2026-09-14-anthropic-s-517b-compute-book-undercuts-its-own-slowdown-mes|Anthropic's $517B Compute Book Undercuts Its Own Slowdown Message]]
 - `2026-09-14` [[2026-09-14-anthropic-walks-a-tightrope-to-nasdaq-preaching-restraint-wh|Anthropic Walks a Tightrope to Nasdaq: Preaching Restraint While Pursuing a ~$2 Trillion Valuation]]
+- `2026-09-14` [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo-openai-rules-out-a|Anthropic Picks Nasdaq for Potential IPO; OpenAI Rules Out a 2026 Listing]]
 - `2026-09-14` [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo|Anthropic Picks Nasdaq for Potential IPO]]
 - `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-techcrunch-what-s-actually-behind-the-industry-s-coordinated|TechCrunch: what's actually behind the industry's coordinated "AI doom" turn this week]]

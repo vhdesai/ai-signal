@@ -25,10 +25,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-14-openai-acquires-smartphone-camera-maker-glass-imaging-for-ov
 - 2026-06-26-openai-hires-apple-s-vision-pro-and-smart-glasses-chief-paul
 - 2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker
 - 2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money
-- 2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses
 embedding_id: 2026-09-14-openai-acquires-smartphone-camera-ai-maker-glass-imaging-for
 event_name: ''
 ---
@@ -42,5 +42,5 @@ OpenAI acquired Los Altos-based Glass Imaging in a deal worth more than $300 mil
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-06-26-openai-hires-apple-s-vision-pro-and-smart-glasses-chief-paul]] · [[2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker]] · [[2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money]] · [[2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses]]
+**Related:** [[2026-09-14-openai-acquires-smartphone-camera-maker-glass-imaging-for-ov]] · [[2026-06-26-openai-hires-apple-s-vision-pro-and-smart-glasses-chief-paul]] · [[2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker]] · [[2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money]]
 <!-- graph:end -->

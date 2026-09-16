@@ -1,15 +1,19 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4235
+member_count: 4245
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4235 connected article(s).
+> Auto-generated topic hub. 4245 connected article(s).
 
 - `2026-09-15` [[2026-09-15-salesforce-and-nvidia-launch-koa-a-jointly-post-trained-reas|Salesforce and Nvidia launch Koa, a jointly post-trained reasoning model on Nemotron]]
 - `2026-09-15` [[2026-09-15-salesforce-and-aws-expand-ai-integrations-across-slack-and-a|Salesforce and AWS expand AI integrations across Slack and Amazon Quick]]
+- `2026-09-15` [[2026-09-15-salesforce-and-aws-expand-integrations-across-slack-and-amaz|Salesforce and AWS Expand Integrations Across Slack and Amazon Quick With Zero-Copy Data Access]]
+- `2026-09-15` [[2026-09-15-morgan-stanley-china-now-leads-us-in-consumer-ai-adoption-on|Morgan Stanley: China Now Leads US in Consumer AI Adoption on Weekly-Usage Rates]]
+- `2026-09-15` [[2026-09-15-chinese-tech-giants-are-now-rationing-employee-ai-token-budg|Chinese Tech Giants Are Now Rationing Employee AI Token Budgets After Promoting Heavy Use]]
+- `2026-09-15` [[2026-09-15-bytedance-s-first-half-profit-drops-to-20-billion-weighed-do|ByteDance's First-Half Profit Drops to $20 Billion, Weighed Down by AI Spending]]
 - `2026-09-15` [[2026-09-15-bytedance-h1-profit-drops-to-20b-on-ai-spending-revenue-up-3|ByteDance H1 profit drops to $20B on AI spending, revenue up 30% to $120B]]
 - `2026-09-14` [[2026-09-14-z-ai-raises-5b-shares-fall-more-than-10-on-dilution|Z.ai Raises $5B; Shares Fall More Than 10% on Dilution]]
 - `2026-09-14` [[2026-09-14-superhuman-acquires-ai-notetaker-fathom-to-push-into-agentic|Superhuman acquires AI notetaker Fathom to push into agentic work]]
@@ -19,12 +23,16 @@ member_count: 4235
 - `2026-09-14` [[2026-09-14-rocket-doctor-ai-reports-u-s-operating-momentum-ahead-of-tow|Rocket Doctor AI reports U.S. operating momentum ahead of town hall]]
 - `2026-09-14` [[2026-09-14-oracle-health-expands-clinical-ai-agent-to-nurses|Oracle Health Expands Clinical AI Agent to Nurses]]
 - `2026-09-14` [[2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale|Oracle Begins Layoffs as Ellison Cancels $7.5B Stock Sale]]
+- `2026-09-14` [[2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale-sev|Oracle Begins Layoffs as Ellison Cancels $7.5B Share Sale; Severance Capped at 26 Weeks]]
 - `2026-09-14` [[2026-09-14-openai-s-noam-brown-recursive-self-improvement-is-our-top-pr|OpenAI's Noam Brown: recursive self-improvement is our "top priority"]]
 - `2026-09-14` [[2026-09-14-openai-acquires-smartphone-camera-ai-maker-glass-imaging-for|OpenAI acquires smartphone camera-AI maker Glass Imaging for over $300M]]
+- `2026-09-14` [[2026-09-14-openai-acquires-smartphone-camera-maker-glass-imaging-for-ov|OpenAI Acquires Smartphone-Camera Maker Glass Imaging for Over $300M]]
 - `2026-09-14` [[2026-09-14-oecd-pisa-2025-students-using-ai-for-specific-schoolwork-tas|OECD PISA 2025: students using AI for specific schoolwork tasks score lower in science]]
 - `2026-09-14` [[2026-09-14-nvidia-backed-firmus-seeks-up-to-5b-in-an-asx-float-at-a-10|Nvidia-Backed Firmus Seeks Up to $5B in an ASX Float at a $10.5B Valuation]]
+- `2026-09-14` [[2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-and-openai|NVIDIA, Palantir, and Booz Allen Restrict Anthropic and OpenAI Model Use Over Data Fears]]
 - `2026-09-14` [[2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-model-use|NVIDIA, Palantir, and Booz Allen Restrict Anthropic Model Use Over Data Fears]]
 - `2026-09-14` [[2026-09-14-nvidia-expands-open-source-cuda-q-with-cuda-q-logical-for-fa|NVIDIA expands open-source CUDA-Q with CUDA-Q Logical for fault-tolerant quantum development]]
+- `2026-09-14` [[2026-09-14-nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-t|NVIDIA Open-Sources OSMO — One YAML Orchestrates Physical-AI Training, Simulation, and Robot Testing]]
 - `2026-09-14` [[2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors|NVIDIA Expands CUDA-Q to Fault-Tolerant Quantum Processors]]
 - `2026-09-14` [[2026-09-14-monday-september-14-2026|Monday, September 14, 2026]]
 - `2026-09-14` [[2026-09-14-mcdonald-s-and-meituan-launch-china-s-first-restaurant-brand|McDonald's and Meituan launch China's first restaurant-brand drone-delivery route in Shanghai]]
@@ -34,9 +42,10 @@ member_count: 4235
 - `2026-09-14` [[2026-09-14-exclusive-nvidia-palantir-and-booz-allen-restrict-anthropic|Exclusive: NVIDIA, Palantir, and Booz Allen Restrict Anthropic and OpenAI Model Use Over Data Fears]]
 - `2026-09-14` [[2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation|Defense startup Shield AI in talks for a $20B+ valuation]]
 - `2026-09-14` [[2026-09-14-cornelis-raises-205m-to-challenge-nvidia-s-networking-domina|Cornelis raises $205M to challenge Nvidia's networking dominance]]
+- `2026-09-14` [[2026-09-14-cornelis-raises-205m-to-attack-nvidia-s-networking-lock-in-w|Cornelis Raises $205M to Attack NVIDIA's Networking Lock-In With Active Compute Fabric]]
 - `2026-09-14` [[2026-09-14-claude-code-weekly-limits-reset-today-a-net-17-cut-for-activ|Claude Code Weekly Limits Reset Today — A Net 17% Cut for Active Users]]
 - `2026-09-14` [[2026-09-14-citigroup-warns-ai-slowdown-could-pressure-stock-market-gain|Citigroup warns AI slowdown could pressure stock-market gains built on earnings optimism]]
-- `2026-09-14` [[2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin|Chip and Memory Stocks Sell Off as Coordinated Safety Warnings Hit the AI Trade]]
+- `2026-09-14` [[2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin|Chip and Memory Stocks Sell Off as Coordinated Safety Warnings Hit the AI Trade — Intel −7%, AMD −6%, NVIDIA −3%]]
 - `2026-09-14` [[2026-09-14-chip-stocks-sell-off-as-amodei-altman-safety-warnings-hit-th|Chip Stocks Sell Off as Amodei/Altman Safety Warnings Hit the AI Trade]]
 - `2026-09-14` [[2026-09-14-china-s-z-ai-raises-5b-through-combined-hk-share-placement-a|China's Z.ai raises ~$5B through combined HK share placement and convertible bond]]
 - `2026-09-14` [[2026-09-14-china-rejects-us-pacing-proposal-as-fearmongering-xi-pitches|China rejects US "pacing" proposal as fearmongering; Xi pitches BRICS AI cooperation]]
@@ -51,6 +60,7 @@ member_count: 4235
 - `2026-09-14` [[2026-09-14-anthropic-walks-a-tightrope-to-nasdaq-preaching-restraint-wh|Anthropic Walks a Tightrope to Nasdaq: Preaching Restraint While Pursuing a ~$2 Trillion Valuation]]
 - `2026-09-14` [[2026-09-14-anthropic-preparing-claude-money-for-personal-finance-workfl|Anthropic Preparing "Claude Money" for Personal Finance Workflows]]
 - `2026-09-14` [[2026-09-14-anthropic-preparing-claude-money-for-personal-finance|Anthropic Preparing "Claude Money" for Personal Finance]]
+- `2026-09-14` [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo-openai-rules-out-a|Anthropic Picks Nasdaq for Potential IPO; OpenAI Rules Out a 2026 Listing]]
 - `2026-09-14` [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo|Anthropic Picks Nasdaq for Potential IPO]]
 - `2026-09-14` [[2026-09-14-ai-warnings-knock-nasdaq-futures-and-pressure-chip-stocks|AI warnings knock Nasdaq futures and pressure chip stocks]]
 - `2026-09-13` [[2026-09-13-trump-ai-slowdown-would-cede-us-edge-to-china-warnings-are-n|Trump: AI slowdown would cede US edge to China; warnings are "negative rhetoric"]]

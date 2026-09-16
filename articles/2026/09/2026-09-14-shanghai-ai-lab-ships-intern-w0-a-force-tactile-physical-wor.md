@@ -6,12 +6,13 @@ source: Pandaily**
 url_original: https://en.pandaily.com/shanghai-ai-lab-intern-w0-physical-world-model/
 url_canonical: https://en.pandaily.com/shanghai-ai-lab-intern-w0-physical-world-model/
 url_status: broken
-digest_source: digests\raw\2026-09-14_172400_Final-Daily-AI-News-Digest.md
-content_hash: daa0006a682e3625a80605a35b2fb7c5b5a6bfb789ca5d84f4891682b8c4b0f4
+digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
+content_hash: 6ee376d74ff4a1c818c702910004dc85d4fe0121971dcc04e5f0edd3d0f329c8
 normalized_title_hash: a86aceefb83cedd3
 canonical_url_hash: 6080993c39db7656
 tags:
 - New
+- Sep 14
 entities:
 - Meta
 - NVIDIA
@@ -33,7 +34,7 @@ event_name: ''
 
 # Shanghai AI Lab Ships Intern W0, a Force-Tactile Physical World Model for Robotics
 
-Pandaily reports Shanghai AI Lab released Intern Physical World Model W0, a foundation model designed for force-tactile robotics. Unlike pure vision-language grounding, W0 incorporates contact-force feedback loops important for dexterous manipulation, tool use, and industrial assembly. It's a notable Chinese entry into the physical-AI category dominated by NVIDIA Cosmos, Perceptron Isaac 0.5, and Meta's world-model research.
+Shanghai AI Lab released Intern Physical World Model W0, a foundation model designed for force-tactile robotics. Unlike pure vision-language grounding, W0 incorporates contact-force feedback loops important for dexterous manipulation, tool use, and industrial assembly. It's a notable Chinese entry into the physical-AI category dominated by NVIDIA Cosmos, Perceptron Isaac 0.5, and Meta's world-model research.
 
 <!-- graph:start -->
 ## Connections

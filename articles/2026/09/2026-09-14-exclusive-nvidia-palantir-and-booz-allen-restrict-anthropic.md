@@ -26,10 +26,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-and-openai
 - 2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-model-use
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g
-- 2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing
 embedding_id: 2026-09-14-exclusive-nvidia-palantir-and-booz-allen-restrict-anthropic
 event_name: ''
 ---
@@ -43,5 +43,5 @@ The Information reports NVIDIA, Palantir, and Booz Allen — all major AI infras
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-model-use]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g]] · [[2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing]]
+**Related:** [[2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-and-openai]] · [[2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-model-use]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g]]
 <!-- graph:end -->

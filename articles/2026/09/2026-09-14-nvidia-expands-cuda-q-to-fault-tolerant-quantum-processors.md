@@ -21,7 +21,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-develo
+canonical_article_id: 2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-codesi
 related_article_ids: []
 embedding_id: 2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors
 event_name: ''
@@ -36,5 +36,5 @@ NVIDIA has expanded its CUDA-Q hybrid classical–quantum platform to support fa
 
 **Entities:** [[Amazon]] · [[IBM]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-develo]]
+**Canonical:** [[2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-codesi]]
 <!-- graph:end -->

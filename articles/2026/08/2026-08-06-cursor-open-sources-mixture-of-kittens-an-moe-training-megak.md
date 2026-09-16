@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp
 - 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
 - 2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement
+- 2026-09-14-nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-t
 embedding_id: 2026-08-06-cursor-open-sources-mixture-of-kittens-an-moe-training-megak
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Cursor open-sourced Mixture-of-Kittens (MoK), a production Mixture-of-Experts tr
 
 **Entities:** [[NVIDIA]] · [[Scale AI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-04-cursor-open-sources-mixture-of-kittens-a-deterministic-moe-t]] · [[2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement]]
+**Related:** [[2026-08-04-cursor-open-sources-mixture-of-kittens-a-deterministic-moe-t]] · [[2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement]] · [[2026-09-14-nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-t]]
 <!-- graph:end -->

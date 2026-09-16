@@ -2,17 +2,18 @@
 article_id: 2026-09-14-beijing-formally-rebukes-amodei-s-call-to-curb-china-s-ai-de
 title: Beijing Formally Rebukes Amodei's Call to Curb China's AI Development
 date: '2026-09-14'
-source: AP News**
+source: AP News / NPR**
 url_original: https://apnews.com/article/china-anthropic-amodei-ai-slowdown
 url_canonical: https://apnews.com/article/china-anthropic-amodei-ai-slowdown
 url_status: broken
-digest_source: digests\raw\2026-09-14_172400_Final-Daily-AI-News-Digest.md
-content_hash: 013d21cd3346d492a0cbe2c6df4595fd3f1131ee712c6816084f0fc4ce60732a
+digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
+content_hash: 753906f022b4a8cfc44cdf4c1f55c49d4d2ba3c7852e6d3274c754a028fa1169
 normalized_title_hash: 042a89696e0016f3
 canonical_url_hash: f6fe8fe3c6e05a59
 tags:
 - Hot
 - Policy
+- Sep 14
 entities:
 - Anthropic
 themes:
@@ -32,7 +33,7 @@ event_name: ''
 
 # Beijing Formally Rebukes Amodei's Call to Curb China's AI Development
 
-AP News reports Beijing has issued a formal diplomatic rebuke of Anthropic CEO Dario Amodei's comments calling for limits on China's AI development. The exchange follows Anthropic's threat report naming seven Chinese labs that pulled 151M Claude conversations and Tom's Hardware's disclosure that Chinese military researchers used Claude to code 16 air-defense-suppression tools. The escalating public diplomacy signals AI is now a first-order US–China policy front rather than a technology sub-topic.
+AP News reports Beijing has issued a formal diplomatic rebuke of Anthropic CEO Dario Amodei's comments; NPR quotes Foreign Ministry spokesperson Guo Jiakun calling the essay "fearmongering." The exchange follows Anthropic's threat report naming seven Chinese labs that pulled 151M Claude conversations and Tom's Hardware's disclosure that Chinese military researchers used Claude to code 16 air-defense-suppression tools.
 
 <!-- graph:start -->
 ## Connections

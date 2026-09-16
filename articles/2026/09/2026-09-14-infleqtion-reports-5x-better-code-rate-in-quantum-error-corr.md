@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-09-14-infleqtion-reports-5x-reduction-in-physical-qubits-per-logic
 - 2026-09-14-nvidia-expands-open-source-cuda-q-with-cuda-q-logical-for-fa
 - 2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-develo
+- 2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-codesi
 - 2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors
-- 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
 embedding_id: 2026-09-14-infleqtion-reports-5x-better-code-rate-in-quantum-error-corr
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Using an early-access build of CUDA-Q Logical with its open-source qLDPC library
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-09-14-infleqtion-reports-5x-reduction-in-physical-qubits-per-logic]] · [[2026-09-14-nvidia-expands-open-source-cuda-q-with-cuda-q-logical-for-fa]] · [[2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-develo]] · [[2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors]] · [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]]
+**Related:** [[2026-09-14-infleqtion-reports-5x-reduction-in-physical-qubits-per-logic]] · [[2026-09-14-nvidia-expands-open-source-cuda-q-with-cuda-q-logical-for-fa]] · [[2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-develo]] · [[2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-codesi]] · [[2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors]]
 <!-- graph:end -->

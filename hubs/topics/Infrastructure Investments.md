@@ -8,6 +8,7 @@ member_count: 1567
 
 > Auto-generated topic hub. 1567 connected article(s).
 
+- `2026-09-15` [[2026-09-15-bytedance-s-first-half-profit-drops-to-20-billion-weighed-do|ByteDance's First-Half Profit Drops to $20 Billion, Weighed Down by AI Spending]]
 - `2026-09-15` [[2026-09-15-bytedance-h1-profit-drops-to-20b-on-ai-spending-revenue-up-3|ByteDance H1 profit drops to $20B on AI spending, revenue up 30% to $120B]]
 - `2026-09-14` [[2026-09-14-rumble-shares-rise-after-anthropic-is-identified-behind-larg|Rumble shares rise after Anthropic is identified behind large compute deal]]
 - `2026-09-14` [[2026-09-14-oracle-health-expands-clinical-ai-agent-to-nurses|Oracle Health Expands Clinical AI Agent to Nurses]]
@@ -18,14 +19,13 @@ member_count: 1567
 - `2026-09-14` [[2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow|Global AI Stocks Sell Off After Lab CEOs Jointly Urge a Slowdown]]
 - `2026-09-14` [[2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation|Defense startup Shield AI in talks for a $20B+ valuation]]
 - `2026-09-14` [[2026-09-14-cornelis-raises-205m-to-challenge-nvidia-s-networking-domina|Cornelis raises $205M to challenge Nvidia's networking dominance]]
-- `2026-09-14` [[2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai|Chewy Targets $50M in Annual Cost Savings With AI]]
+- `2026-09-14` [[2026-09-14-cornelis-raises-205m-to-attack-nvidia-s-networking-lock-in-w|Cornelis Raises $205M to Attack NVIDIA's Networking Lock-In With Active Compute Fabric]]
 - `2026-09-14` [[2026-09-14-buildots-raises-130m-with-intel-capital-participating-on-ai|Buildots Raises $130M, With Intel Capital Participating, on AI Data-Centre Construction Demand]]
 - `2026-09-14` [[2026-09-14-anthropic-s-517b-compute-commitments-collide-with-its-own-sl|Anthropic's $517B compute commitments collide with its own slowdown message]]
 - `2026-09-14` [[2026-09-14-anthropic-s-517b-compute-book-undercuts-its-own-slowdown-mes|Anthropic's $517B Compute Book Undercuts Its Own Slowdown Message]]
 - `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-semianalysis-projects-nvidia-could-hold-1-4-trillion-in-cash|SemiAnalysis projects Nvidia could hold $1.4 trillion in cash and investments by fiscal 2031]]
 - `2026-09-13` [[2026-09-13-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale|Oracle Begins Layoffs as Ellison Cancels $7.5B Share Sale]]
-- `2026-09-13` [[2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers|NVIDIA's Growing Dependence on a Handful of AI Customers]]
 - `2026-09-13` [[2026-09-13-nvidia-s-customer-concentration-reaches-a-new-high|NVIDIA's Customer Concentration Reaches a New High]]
 - `2026-09-13` [[2026-09-13-larry-ellison-cancels-planned-7-5-billion-sale-of-oracle-sto|Larry Ellison cancels planned $7.5 billion sale of Oracle stock]]
 - `2026-09-13` [[2026-09-13-larry-ellison-cancels-7-5-billion-oracle-stock-sale|Larry Ellison cancels $7.5 billion Oracle stock sale]]

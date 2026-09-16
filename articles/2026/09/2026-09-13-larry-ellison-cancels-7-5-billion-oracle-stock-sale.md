@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-09-13-larry-ellison-cancels-planned-7-5-billion-sale-of-oracle-sto
 - 2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale
 - 2026-09-13-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale
+- 2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale-sev
 - 2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y
-- 2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a
 embedding_id: 2026-09-13-larry-ellison-cancels-7-5-billion-oracle-stock-sale
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Oracle confirmed that executive chairman Larry Ellison cancelled a Rule 10b5-1 p
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-13-larry-ellison-cancels-planned-7-5-billion-sale-of-oracle-sto]] · [[2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale]] · [[2026-09-13-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale]] · [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]] · [[2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a]]
+**Related:** [[2026-09-13-larry-ellison-cancels-planned-7-5-billion-sale-of-oracle-sto]] · [[2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale]] · [[2026-09-13-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale]] · [[2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale-sev]] · [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]]
 <!-- graph:end -->

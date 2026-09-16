@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-28-paul-meade-apple-vp-of-hardware-engineering-for-the-vision-p
 - 2026-09-14-openai-acquires-smartphone-camera-ai-maker-glass-imaging-for
+- 2026-09-14-openai-acquires-smartphone-camera-maker-glass-imaging-for-ov
 - 2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker
 - 2026-06-26-daily-ai-news-digest-june-26-2026
-- 2026-09-09-openai-appoints-paul-christiano-to-foundation-board-and-safe
 embedding_id: 2026-06-26-openai-hires-apple-s-vision-pro-and-smart-glasses-chief-paul
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Paul Meade, the Apple vice president who led the Vision Pro headset and smart-gl
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-28-paul-meade-apple-vp-of-hardware-engineering-for-the-vision-p]] · [[2026-09-14-openai-acquires-smartphone-camera-ai-maker-glass-imaging-for]] · [[2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker]] · [[2026-06-26-daily-ai-news-digest-june-26-2026]] · [[2026-09-09-openai-appoints-paul-christiano-to-foundation-board-and-safe]]
+**Related:** [[2026-06-28-paul-meade-apple-vp-of-hardware-engineering-for-the-vision-p]] · [[2026-09-14-openai-acquires-smartphone-camera-ai-maker-glass-imaging-for]] · [[2026-09-14-openai-acquires-smartphone-camera-maker-glass-imaging-for-ov]] · [[2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker]] · [[2026-06-26-daily-ai-news-digest-june-26-2026]]
 <!-- graph:end -->

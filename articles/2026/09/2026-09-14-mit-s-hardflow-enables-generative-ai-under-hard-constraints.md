@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-14-mit-s-hardflow-forces-generative-models-to-satisfy-non-negot
 - 2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-generative-model
 - 2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-pretrained-gener
 - 2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi
 - 2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme
-- 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
 embedding_id: 2026-09-14-mit-s-hardflow-enables-generative-ai-under-hard-constraints
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MIT researchers introduced HardFlow, a method that steers generative models so o
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-generative-model]] · [[2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-pretrained-gener]] · [[2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi]] · [[2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]]
+**Related:** [[2026-09-14-mit-s-hardflow-forces-generative-models-to-satisfy-non-negot]] · [[2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-generative-model]] · [[2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-pretrained-gener]] · [[2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi]] · [[2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme]]
 <!-- graph:end -->

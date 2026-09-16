@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-molt-is-notable-less-as-a-standalone-model-story-and-more-as
 - 2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw
 - 2026-09-04-nvidia-nemoclaw-recipe-shows-a-memory-driven-chief-of-staff
-- 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
+- 2026-09-14-nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-t
 embedding_id: 2026-08-01-nvidia-releases-molt-an-apache-2-0-pytorch-native-agentic-re
 event_name: ''
 ---
@@ -40,5 +40,5 @@ NVIDIA’s NeMo team open-sourced Molt, a PyTorch-native framework for agentic r
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement]] · [[2026-08-03-molt-is-notable-less-as-a-standalone-model-story-and-more-as]] · [[2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw]] · [[2026-09-04-nvidia-nemoclaw-recipe-shows-a-memory-driven-chief-of-staff]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]]
+**Related:** [[2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement]] · [[2026-08-03-molt-is-notable-less-as-a-standalone-model-story-and-more-as]] · [[2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw]] · [[2026-09-04-nvidia-nemoclaw-recipe-shows-a-memory-driven-chief-of-staff]] · [[2026-09-14-nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-t]]
 <!-- graph:end -->

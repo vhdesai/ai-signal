@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: Crunchbase News
 url_original: https://news.crunchbase.com/venture/biggest-funding-rounds-boring-co-cognition-massive-week/
 url_canonical: https://news.crunchbase.com/venture/biggest-funding-rounds-boring-co-cognition-massive-week/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-09-12_062305_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: f5f1bc96fca73a9ccc5323c952c4078330fb20caf699651c7ddfada5278b4c1e

@@ -6,13 +6,14 @@ source: The Wall Street Journal**
 url_original: https://www.wsj.com/tech/ai/pressure-mounts-to-slow-down-ai-development
 url_canonical: https://www.wsj.com/tech/ai/pressure-mounts-to-slow-down-ai-development
 url_status: broken
-digest_source: digests\raw\2026-09-14_172400_Final-Daily-AI-News-Digest.md
-content_hash: fe37eb30af3005c16f633bb7ec689227fddd52ccee1dc14e9e4d80ffaa05675f
+digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
+content_hash: 4bbc1af60e5f788753e55352467d0a9acc8a412e7c0c96b4e0f9fae3e128331e
 normalized_title_hash: d3d3b5618921a409
 canonical_url_hash: 6b61610ca707137d
 tags:
 - Hot
 - Policy
+- Sep 14
 entities: []
 themes:
 - policy-regulation
@@ -29,7 +30,7 @@ event_name: ''
 
 # WSJ: Pressure Mounts to Slow Down AI Development
 
-WSJ's "Pressure Mounts to Slow Down AI Development" makes the coordinated Amodei/Altman/Musk slowdown call the newspaper's lead framing on Monday, with a companion piece explaining "How Would AI Actually Kill Us All?" for a general audience. The coverage lands as Democrats prepare a midterm run in which Barack Obama has urged focus on AI oversight, and Sen. Bernie Sanders' human-comparable-intelligence-ban bill sits in committee. Political attention has shifted from AI-existential-risk being a Silicon Valley debate to a mainstream policy front.
+WSJ's "Pressure Mounts to Slow Down AI Development" makes the coordinated Amodei/Altman/Musk slowdown call the newspaper's lead framing on Monday, with a companion piece explaining "How Would AI Actually Kill Us All?" for a general audience. The coverage lands as Democrats prepare a midterm run in which Barack Obama has urged focus on AI oversight, and Sen. Bernie Sanders' human-comparable-intelligence-ban bill sits in committee.
 
 <!-- graph:start -->
 ## Connections
