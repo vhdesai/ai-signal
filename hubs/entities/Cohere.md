@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: Cohere
-member_count: 19
+member_count: 20
 ---
 
 # Cohere
 
-> Auto-generated entity hub. 19 connected article(s).
+> Auto-generated entity hub. 20 connected article(s).
 
 - `2026-09-15` [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de|Trump's AI team confirms weeks of OpenAI–Anthropic–Google DeepMind safety talks; White House dismisses the slowdown premise]]
+- `2026-09-15` [[2026-09-15-antitrust-exposure-lands-cohere-s-gomez-calls-the-coordinati|Antitrust exposure lands: Cohere's Gomez calls the coordination push "a cartel by another name"]]
 - `2026-09-15` [[2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu|Amodei's "Pace the Frontier" Draws Endorsements from Altman, Musk, Hassabis — and Pushback from Cohere, DeepSeek, Palihapitiya]]
 - `2026-09-14` [[2026-09-14-chinese-consortium-publishes-5-stage-roadmap-for-recursive-s|Chinese Consortium Publishes 5-Stage Roadmap for Recursive Self-Improvement ("Last AI Built by Humans")]]
 - `2026-08-28` [[2026-08-28-cohere-parse-5-reportedly-prioritizes-cost-per-page-over-ben|Cohere Parse 5 reportedly prioritizes cost per page over benchmark wins]]

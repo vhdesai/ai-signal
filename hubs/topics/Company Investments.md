@@ -1,16 +1,17 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1118
+member_count: 1119
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1118 connected article(s).
+> Auto-generated topic hub. 1119 connected article(s).
 
-- `2026-09-16` [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill|OpenAI in early talks for a new funding round at a $1.2 trillion valuation]]
+- `2026-09-16` [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill|OpenAI in early talks for a new funding round at a ~$1.2 trillion valuation]]
 - `2026-09-16` [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat|OpenAI in early talks for a new funding round at $1.2T valuation]]
-- `2026-09-16` [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h|Chinese hackers-for-hire professionalize, using AI to parse hundreds of millions of stolen records]]
+- `2026-09-16` [[2026-09-16-databricks-commits-350m-to-singapore-as-its-apac-ai-hub|Databricks commits $350M+ to Singapore as its APAC AI hub]]
+- `2026-09-15` [[2026-09-15-personal-ai-startup-instinct-in-talks-to-raise-1b-at-10b-qua|Personal-AI startup Instinct in talks to raise $1B at ~$10B — quadrupling in under a month]]
 - `2026-09-15` [[2026-09-15-instinct-in-talks-to-raise-1b-at-10b-valuation-up-from-2-25b|Instinct in talks to raise $1B at ~$10B valuation, up from $2.25B a month ago]]
 - `2026-09-15` [[2026-09-15-aiuc-raises-40m-series-a-to-underwrite-enterprise-ai-agent-l|AIUC Raises $40M Series A to Underwrite Enterprise AI-Agent Liability]]
 - `2026-09-15` [[2026-09-15-aeo-startup-profound-hits-unicorn-status-with-180m-series-d|AEO startup Profound hits unicorn status with $180M Series D — seven months after Series C]]

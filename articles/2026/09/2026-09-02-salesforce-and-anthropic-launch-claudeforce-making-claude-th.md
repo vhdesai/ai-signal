@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-28-salesforce-anthropic-claudeforce-signals-the-end-of-model-ag
 - 2026-08-27-salesforce-and-anthropic-launch-claudeforce
 - 2026-08-26-salesforce-and-anthropic-announce-claudeforce
-- 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
+- 2026-09-15-anthropic-opens-salesforce-in-claude-beta-with-37-prebuilt-s
 embedding_id: 2026-09-02-salesforce-and-anthropic-launch-claudeforce-making-claude-th
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Salesforce and Anthropic announced a deep integration branded Claudeforce, posit
 
 **Entities:** [[Anthropic]] · [[Salesforce]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-28-salesforce-anthropic-claudeforce-signals-the-end-of-model-ag]] · [[2026-08-27-salesforce-and-anthropic-launch-claudeforce]] · [[2026-08-26-salesforce-and-anthropic-announce-claudeforce]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
+**Related:** [[2026-08-28-salesforce-anthropic-claudeforce-signals-the-end-of-model-ag]] · [[2026-08-27-salesforce-and-anthropic-launch-claudeforce]] · [[2026-08-26-salesforce-and-anthropic-announce-claudeforce]] · [[2026-09-15-anthropic-opens-salesforce-in-claude-beta-with-37-prebuilt-s]]
 <!-- graph:end -->

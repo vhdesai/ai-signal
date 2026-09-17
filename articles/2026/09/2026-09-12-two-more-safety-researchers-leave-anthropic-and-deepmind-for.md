@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-16-two-more-google-deepmind-researchers-resign-over-ai-safety
+- 2026-09-16-two-more-google-deepmind-safety-researchers-resign
 - 2026-09-12-two-more-frontier-lab-safety-researchers-resign-and-both-mov
 - 2026-09-09-anthropic-pretraining-researcher-resigns-alignment-lead-puts
 - 2026-09-13-google-deepmind-safety-researcher-resigns-as-google-moves-ai
@@ -38,5 +39,5 @@ Joe Benton, former lead of Anthropic's Scalable Oversight team, and Google DeepM
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-16-two-more-google-deepmind-researchers-resign-over-ai-safety]] · [[2026-09-12-two-more-frontier-lab-safety-researchers-resign-and-both-mov]] · [[2026-09-09-anthropic-pretraining-researcher-resigns-alignment-lead-puts]] · [[2026-09-13-google-deepmind-safety-researcher-resigns-as-google-moves-ai]]
+**Related:** [[2026-09-16-two-more-google-deepmind-researchers-resign-over-ai-safety]] · [[2026-09-16-two-more-google-deepmind-safety-researchers-resign]] · [[2026-09-12-two-more-frontier-lab-safety-researchers-resign-and-both-mov]] · [[2026-09-09-anthropic-pretraining-researcher-resigns-alignment-lead-puts]] · [[2026-09-13-google-deepmind-safety-researcher-resigns-as-google-moves-ai]]
 <!-- graph:end -->

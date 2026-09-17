@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: SAP
-member_count: 22
+member_count: 23
 ---
 
 # SAP
 
-> Auto-generated entity hub. 22 connected article(s).
+> Auto-generated entity hub. 23 connected article(s).
 
+- `2026-09-15` [[2026-09-15-prior-labs-tabpfn-3-5-beats-a-decade-old-kaggle-winner-with|Prior Labs' TabPFN-3.5 beats a decade-old Kaggle winner with default settings]]
 - `2026-09-08` [[2026-09-08-arm-doubles-its-semi-custom-server-ceiling-with-neoverse-css|Arm doubles its semi-custom server ceiling with Neoverse CSS N4 for agentic workloads]]
 - `2026-07-28` [[2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou|SAP Pins Future on Business AI Platform After Strong Q2 Cloud Earnings]]
 - `2026-06-29` [[2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s|Oracle adds four agentic supply-chain apps to Fusion Cloud SCM]]

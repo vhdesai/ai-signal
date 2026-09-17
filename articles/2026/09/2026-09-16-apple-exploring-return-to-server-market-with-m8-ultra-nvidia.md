@@ -4,8 +4,8 @@ title: Apple exploring return to server market with M8 Ultra + Nvidia NVLink Fus
 date: '2026-09-16'
 source: The Information
 url_original: https://www.theinformation.com/articles/apple-considers-return-to-server-market-has-talked-with-nvidia-to-use-network-tech
-url_canonical: https://www.marketscreener.com/news/apple-eyes-nvidia-technology-for-its-return-to-the-server-market-ce785bd2df8af321
-url_status: repaired
+url_canonical: https://www.theinformation.com/articles/apple-considers-return-to-server-market-has-talked-with-nvidia-to-use-network-tech
+url_status: broken
 digest_source: digests\raw\2026-09-16_065920_Final-Daily-AI-News-Digest.md
 content_hash: 955bfccc646078b882936c201d50a5cef5ef2dc2b51af1d9833ab1422b0c5db1
 normalized_title_hash: a7e87382b440012b
@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-plus-n
 - 2026-09-16-apple-considers-return-to-server-market-in-talks-with-nvidia
 - 2026-08-31-nvidia-and-mediatek-deepen-partnership-across-ai-infrastruct
 - 2026-08-26-apple-debuts-pcs-and-chips-dedicated-to-enterprise-ai-worklo
-- 2026-09-03-nvidia-commits-3-5b-to-mediatek-to-extend-nvlink-fusion-into
 embedding_id: 2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-nvidia
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Information reports Apple has been working on plans for an enterprise server
 
 **Entities:** [[AMD]] · [[Apple]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-16-apple-considers-return-to-server-market-in-talks-with-nvidia]] · [[2026-08-31-nvidia-and-mediatek-deepen-partnership-across-ai-infrastruct]] · [[2026-08-26-apple-debuts-pcs-and-chips-dedicated-to-enterprise-ai-worklo]] · [[2026-09-03-nvidia-commits-3-5b-to-mediatek-to-extend-nvlink-fusion-into]]
+**Related:** [[2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-plus-n]] · [[2026-09-16-apple-considers-return-to-server-market-in-talks-with-nvidia]] · [[2026-08-31-nvidia-and-mediatek-deepen-partnership-across-ai-infrastruct]] · [[2026-08-26-apple-debuts-pcs-and-chips-dedicated-to-enterprise-ai-worklo]]
 <!-- graph:end -->

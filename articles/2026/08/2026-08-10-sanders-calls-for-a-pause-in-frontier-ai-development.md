@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-10-sanders-calls-on-openai-anthropic-and-meta-to-pause-frontier
 - 2026-08-10-sanders-urges-ai-ceos-to-pause-development-warning-congress
 - 2026-09-04-bernie-sanders-floats-a-ban-on-superintelligent-ai
+- 2026-09-16-sanders-and-bannon-share-a-stage-to-demand-tighter-ai-restri
 - 2026-06-04-anthropic-calls-for-coordinated-global-pause-in-frontier-ai
-- 2026-09-03-sanders-and-casar-propose-a-u-s-ban-on-artificial-superintel
 embedding_id: 2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Senator Bernie Sanders called on OpenAI, Anthropic, Meta, and other leading labs
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-10-sanders-calls-on-openai-anthropic-and-meta-to-pause-frontier]] · [[2026-08-10-sanders-urges-ai-ceos-to-pause-development-warning-congress]] · [[2026-09-04-bernie-sanders-floats-a-ban-on-superintelligent-ai]] · [[2026-06-04-anthropic-calls-for-coordinated-global-pause-in-frontier-ai]] · [[2026-09-03-sanders-and-casar-propose-a-u-s-ban-on-artificial-superintel]]
+**Related:** [[2026-08-10-sanders-calls-on-openai-anthropic-and-meta-to-pause-frontier]] · [[2026-08-10-sanders-urges-ai-ceos-to-pause-development-warning-congress]] · [[2026-09-04-bernie-sanders-floats-a-ban-on-superintelligent-ai]] · [[2026-09-16-sanders-and-bannon-share-a-stage-to-demand-tighter-ai-restri]] · [[2026-06-04-anthropic-calls-for-coordinated-global-pause-in-frontier-ai]]
 <!-- graph:end -->

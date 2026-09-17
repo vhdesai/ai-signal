@@ -1,22 +1,26 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1444
+member_count: 1448
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1444 connected article(s).
+> Auto-generated entity hub. 1448 connected article(s).
 
+- `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-plus-nvidia-built-koa-crm-reasoning|Salesforce ships AIforce plus Nvidia-built "Koa" CRM reasoning model at Dreamforce]]
 - `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-at-dreamforce-for-third-party-agent|Salesforce ships AIforce at Dreamforce for third-party agent governance]]
-- `2026-09-16` [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h|Chinese hackers-for-hire professionalize, using AI to parse hundreds of millions of stolen records]]
+- `2026-09-16` [[2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-plus-n|Apple exploring return to server market with M8 Ultra plus Nvidia NVLink Fusion, targeting 2029 sales]]
 - `2026-09-16` [[2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-nvidia|Apple exploring return to server market with M8 Ultra + Nvidia NVLink Fusion]]
 - `2026-09-16` [[2026-09-16-apple-considers-return-to-server-market-in-talks-with-nvidia|Apple considers return to server market, in talks with Nvidia to use networking tech]]
 - `2026-09-15` [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de|Trump's AI team confirms weeks of OpenAI–Anthropic–Google DeepMind safety talks; White House dismisses the slowdown premise]]
 - `2026-09-15` [[2026-09-15-salesforce-and-nvidia-launch-koa-a-jointly-post-trained-reas|Salesforce and Nvidia launch Koa, a jointly post-trained reasoning model on Nemotron]]
 - `2026-09-15` [[2026-09-15-salesforce-and-nvidia-unveil-koa-an-open-weight-nemotron-bas|Salesforce and NVIDIA Unveil Koa — an Open-Weight Nemotron-Based Enterprise Reasoning Model]]
 - `2026-09-15` [[2026-09-15-nvidia-s-jensen-huang-rejects-the-pacing-framing-ai-is-just|Nvidia's Jensen Huang rejects the pacing framing: AI is "just hardware and software"]]
+- `2026-09-15` [[2026-09-15-nvidia-s-huang-rejects-the-pacing-framing-ai-is-just-hardwar|Nvidia's Huang rejects the pacing framing: AI is "just hardware and software"]]
 - `2026-09-15` [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t|Nadella internal memo: pace the frontier or lose "permission to operate"]]
+- `2026-09-15` [[2026-09-15-crusoe-signs-multi-year-deal-to-run-perplexity-s-full-model|Crusoe signs multi-year deal to run Perplexity's full model lifecycle]]
+- `2026-09-15` [[2026-09-15-commerce-department-reportedly-ordered-kalshi-to-pull-its-ai|Commerce Department reportedly ordered Kalshi to pull its AI-compute forward curve]]
 - `2026-09-14` [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f|Shanghai AI Lab Ships Intern W0, a Physical World Model for Force-Tactile Robotics]]
 - `2026-09-14` [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor|Shanghai AI Lab Ships Intern W0, a Force-Tactile Physical World Model for Robotics]]
 - `2026-09-14` [[2026-09-14-rumble-shares-rise-after-anthropic-is-identified-behind-larg|Rumble shares rise after Anthropic is identified behind large compute deal]]

@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 116
+member_count: 117
 ---
 
 # AMD
 
-> Auto-generated entity hub. 116 connected article(s).
+> Auto-generated entity hub. 117 connected article(s).
 
+- `2026-09-16` [[2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-plus-n|Apple exploring return to server market with M8 Ultra plus Nvidia NVLink Fusion, targeting 2029 sales]]
 - `2026-09-16` [[2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-nvidia|Apple exploring return to server market with M8 Ultra + Nvidia NVLink Fusion]]
 - `2026-09-14` [[2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin|Chip and Memory Stocks Sell Off as Coordinated Safety Warnings Hit the AI Trade — Intel −7%, AMD −6%, NVIDIA −3%]]
 - `2026-09-14` [[2026-09-14-chip-stocks-sell-off-as-amodei-altman-safety-warnings-hit-th|Chip Stocks Sell Off as Amodei/Altman Safety Warnings Hit the AI Trade]]

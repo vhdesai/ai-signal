@@ -1,13 +1,14 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 474
+member_count: 475
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 474 connected article(s).
+> Auto-generated topic hub. 475 connected article(s).
 
+- `2026-09-15` [[2026-09-15-prior-labs-tabpfn-3-5-beats-a-decade-old-kaggle-winner-with|Prior Labs' TabPFN-3.5 beats a decade-old Kaggle winner with default settings]]
 - `2026-09-14` [[2026-09-14-superhuman-acquires-ai-notetaker-fathom-to-push-into-agentic|Superhuman acquires AI notetaker Fathom to push into agentic work]]
 - `2026-09-14` [[2026-09-14-openai-acquires-smartphone-camera-ai-maker-glass-imaging-for|OpenAI acquires smartphone camera-AI maker Glass Imaging for over $300M]]
 - `2026-09-14` [[2026-09-14-openai-acquires-smartphone-camera-maker-glass-imaging-for-ov|OpenAI Acquires Smartphone-Camera Maker Glass Imaging for Over $300M]]

@@ -1,21 +1,28 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 1775
+member_count: 1782
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 1775 connected article(s).
+> Auto-generated topic hub. 1782 connected article(s).
 
 - `2026-09-16` [[2026-09-16-zuckerberg-breaks-silence-ai-safety-is-a-competitive-necessi|Zuckerberg breaks silence: AI safety is a competitive necessity, not a group slowdown]]
+- `2026-09-16` [[2026-09-16-two-more-google-deepmind-safety-researchers-resign|Two more Google DeepMind safety researchers resign]]
 - `2026-09-16` [[2026-09-16-two-more-google-deepmind-researchers-resign-over-ai-safety|Two more Google DeepMind researchers resign over AI safety]]
+- `2026-09-16` [[2026-09-16-sanders-and-bannon-share-a-stage-to-demand-tighter-ai-restri|Sanders and Bannon share a stage to demand tighter AI restrictions]]
+- `2026-09-16` [[2026-09-16-microsoft-s-suleyman-publicly-attacks-anthropic-s-ai-conscio|Microsoft's Suleyman publicly attacks Anthropic's AI-consciousness framing]]
 - `2026-09-16` [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h|Chinese hackers-for-hire professionalize, using AI to parse hundreds of millions of stolen records]]
-- `2026-09-16` [[2026-09-16-china-s-people-s-daily-rejects-us-industrial-scale-distillat|China's People's Daily rejects US "industrial-scale distillation" charge, warns of countermeasures]]
+- `2026-09-16` [[2026-09-16-china-s-people-s-daily-rejects-us-industrial-scale-distillat|China's *People's Daily* rejects US "industrial-scale distillation" charge, warns of countermeasures]]
 - `2026-09-15` [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de|Trump's AI team confirms weeks of OpenAI–Anthropic–Google DeepMind safety talks; White House dismisses the slowdown premise]]
+- `2026-09-15` [[2026-09-15-palantir-cto-calls-the-ai-safety-movement-an-attempted-coup|Palantir CTO calls the AI safety movement "an attempted coup"]]
+- `2026-09-15` [[2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi|OpenAI confirms multi-week safety coordination with Anthropic and Google DeepMind; three labs propose industry-led oversight entity]]
 - `2026-09-15` [[2026-09-15-nvidia-s-jensen-huang-rejects-the-pacing-framing-ai-is-just|Nvidia's Jensen Huang rejects the pacing framing: AI is "just hardware and software"]]
+- `2026-09-15` [[2026-09-15-nvidia-s-huang-rejects-the-pacing-framing-ai-is-just-hardwar|Nvidia's Huang rejects the pacing framing: AI is "just hardware and software"]]
 - `2026-09-15` [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t|Nadella internal memo: pace the frontier or lose "permission to operate"]]
 - `2026-09-15` [[2026-09-15-musk-proposes-ai-labs-peer-review-each-other-s-frontier-mode|Musk proposes AI labs peer-review each other's frontier models]]
+- `2026-09-15` [[2026-09-15-antitrust-exposure-lands-cohere-s-gomez-calls-the-coordinati|Antitrust exposure lands: Cohere's Gomez calls the coordination push "a cartel by another name"]]
 - `2026-09-15` [[2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu|Amodei's "Pace the Frontier" Draws Endorsements from Altman, Musk, Hassabis — and Pushback from Cohere, DeepSeek, Palihapitiya]]
 - `2026-09-14` [[2026-09-14-wsj-pressure-mounts-to-slow-down-ai-development|WSJ: Pressure Mounts to Slow Down AI Development]]
 - `2026-09-14` [[2026-09-14-us-senate-begins-drafting-duty-of-care-ai-bill-with-model-re|US Senate Begins Drafting Duty-of-Care AI Bill With Model-Release Block and State Preemption]]

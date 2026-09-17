@@ -1,15 +1,18 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 864
+member_count: 867
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 864 connected article(s).
+> Auto-generated entity hub. 867 connected article(s).
 
 - `2026-09-16` [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety|WSJ: an AI slowdown "has to happen regardless of safety"]]
+- `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-plus-nvidia-built-koa-crm-reasoning|Salesforce ships AIforce plus Nvidia-built "Koa" CRM reasoning model at Dreamforce]]
+- `2026-09-16` [[2026-09-16-microsoft-s-suleyman-publicly-attacks-anthropic-s-ai-conscio|Microsoft's Suleyman publicly attacks Anthropic's AI-consciousness framing]]
 - `2026-09-15` [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t|Nadella internal memo: pace the frontier or lose "permission to operate"]]
+- `2026-09-15` [[2026-09-15-gates-foundation-commits-1b-over-two-years-to-close-ai-s-lan|Gates Foundation commits $1B+ over two years to close AI's language and access gaps in health, education, and agriculture]]
 - `2026-09-14` [[2026-09-14-openai-acquires-smartphone-camera-ai-maker-glass-imaging-for|OpenAI acquires smartphone camera-AI maker Glass Imaging for over $300M]]
 - `2026-09-14` [[2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-model-use|NVIDIA, Palantir, and Booz Allen Restrict Anthropic Model Use Over Data Fears]]
 - `2026-09-14` [[2026-09-14-monday-september-14-2026|Monday, September 14, 2026]]

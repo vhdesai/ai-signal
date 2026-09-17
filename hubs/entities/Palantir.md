@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 163
+member_count: 164
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 163 connected article(s).
+> Auto-generated entity hub. 164 connected article(s).
 
+- `2026-09-15` [[2026-09-15-palantir-cto-calls-the-ai-safety-movement-an-attempted-coup|Palantir CTO calls the AI safety movement "an attempted coup"]]
 - `2026-09-14` [[2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-and-openai|NVIDIA, Palantir, and Booz Allen Restrict Anthropic and OpenAI Model Use Over Data Fears]]
 - `2026-09-14` [[2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-model-use|NVIDIA, Palantir, and Booz Allen Restrict Anthropic Model Use Over Data Fears]]
 - `2026-09-14` [[2026-09-14-monday-september-14-2026|Monday, September 14, 2026]]

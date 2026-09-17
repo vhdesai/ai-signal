@@ -1,18 +1,20 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1574
+member_count: 1576
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1574 connected article(s).
+> Auto-generated topic hub. 1576 connected article(s).
 
 - `2026-09-16` [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety|WSJ: an AI slowdown "has to happen regardless of safety"]]
 - `2026-09-16` [[2026-09-16-sk-hynix-in-talks-with-intel-to-make-memory-chips-in-the-us|SK Hynix in talks with Intel to make memory chips in the US for the first time]]
+- `2026-09-16` [[2026-09-16-sk-hynix-in-early-talks-with-intel-to-make-memory-chips-in-t|SK Hynix in early talks with Intel to make memory chips in the US for the first time]]
 - `2026-09-16` [[2026-09-16-sk-hynix-in-early-talks-with-intel-to-build-memory-chips-in|SK Hynix in early talks with Intel to build memory chips in the US]]
+- `2026-09-16` [[2026-09-16-meta-launches-meta-one-ai-subscriptions-from-2-99-to-499-mon|Meta launches "Meta One" AI subscriptions from $2.99 to $499/month]]
 - `2026-09-16` [[2026-09-16-meta-launches-meta-one-ai-subscriptions-at-2-99-499-month|Meta launches "Meta One" AI subscriptions at $2.99–$499/month]]
-- `2026-09-16` [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h|Chinese hackers-for-hire professionalize, using AI to parse hundreds of millions of stolen records]]
+- `2026-09-16` [[2026-09-16-huawei-predicts-90-of-global-token-traffic-will-come-from-au|Huawei predicts 90% of global token traffic will come from autonomous AI agents by 2035]]
 - `2026-09-16` [[2026-09-16-apple-considers-return-to-server-market-in-talks-with-nvidia|Apple considers return to server market, in talks with Nvidia to use networking tech]]
 - `2026-09-15` [[2026-09-15-us-ai-data-centers-on-track-to-consume-more-natural-gas-than|US AI data centers on track to consume more natural gas than Germany and Japan combined by 2035]]
 - `2026-09-15` [[2026-09-15-bytedance-s-first-half-profit-drops-to-20-billion-weighed-do|ByteDance's First-Half Profit Drops to $20 Billion, Weighed Down by AI Spending]]

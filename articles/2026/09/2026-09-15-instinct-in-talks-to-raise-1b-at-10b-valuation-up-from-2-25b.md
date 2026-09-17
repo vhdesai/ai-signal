@@ -23,6 +23,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-15-personal-ai-startup-instinct-in-talks-to-raise-1b-at-10b-qua
 - 2026-09-16-personal-ai-startup-instinct-in-talks-for-a-10-billion-valua
 embedding_id: 2026-09-15-instinct-in-talks-to-raise-1b-at-10b-valuation-up-from-2-25b
 event_name: ''
@@ -37,5 +38,5 @@ The Information reports Instinct — the invite-only personal AI-assistant app �
 
 **Entities:** [[Anthropic]] · [[Meta]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-16-personal-ai-startup-instinct-in-talks-for-a-10-billion-valua]]
+**Related:** [[2026-09-15-personal-ai-startup-instinct-in-talks-to-raise-1b-at-10b-qua]] · [[2026-09-16-personal-ai-startup-instinct-in-talks-for-a-10-billion-valua]]
 <!-- graph:end -->

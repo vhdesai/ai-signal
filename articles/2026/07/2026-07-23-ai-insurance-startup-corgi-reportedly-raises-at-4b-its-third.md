@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-26-instinct-raises-350m-at-a-2-5b-valuation-before-public-launc
 - 2026-08-26-instinct-raises-350m-at-a-2-5b-valuation
 - 2026-03-28-defense-ai-startup-shield-ai-closed-a-2-billion-funding-roun
+- 2026-09-15-personal-ai-startup-instinct-in-talks-to-raise-1b-at-10b-qua
 - 2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation
-- 2026-09-15-instinct-in-talks-to-raise-1b-at-10b-valuation-up-from-2-25b
 embedding_id: 2026-07-23-ai-insurance-startup-corgi-reportedly-raises-at-4b-its-third
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Corgi has reportedly closed at $4B, its third raise in roughly eight weeks — a
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-26-instinct-raises-350m-at-a-2-5b-valuation-before-public-launc]] · [[2026-08-26-instinct-raises-350m-at-a-2-5b-valuation]] · [[2026-03-28-defense-ai-startup-shield-ai-closed-a-2-billion-funding-roun]] · [[2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation]] · [[2026-09-15-instinct-in-talks-to-raise-1b-at-10b-valuation-up-from-2-25b]]
+**Related:** [[2026-08-26-instinct-raises-350m-at-a-2-5b-valuation-before-public-launc]] · [[2026-08-26-instinct-raises-350m-at-a-2-5b-valuation]] · [[2026-03-28-defense-ai-startup-shield-ai-closed-a-2-billion-funding-roun]] · [[2026-09-15-personal-ai-startup-instinct-in-talks-to-raise-1b-at-10b-qua]] · [[2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation]]
 <!-- graph:end -->

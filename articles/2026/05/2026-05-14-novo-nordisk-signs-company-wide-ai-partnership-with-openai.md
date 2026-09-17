@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-16-openai-signed-a-strategic-partnership-with-wegovy-maker-novo
+- 2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc
 - 2026-05-18-openai-codex-enterprise-partnership-with-dell-chatgpt-produc
 - 2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d
-- 2026-08-13-ibm-partners-with-openai-to-accelerate-its-enterprise-ai-pus
 embedding_id: 2026-05-14-novo-nordisk-signs-company-wide-ai-partnership-with-openai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Pharmaceutical giant Novo Nordisk signed a full company-wide AI partnership with
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-16-openai-signed-a-strategic-partnership-with-wegovy-maker-novo]] · [[2026-05-18-openai-codex-enterprise-partnership-with-dell-chatgpt-produc]] · [[2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d]] · [[2026-08-13-ibm-partners-with-openai-to-accelerate-its-enterprise-ai-pus]]
+**Related:** [[2026-04-16-openai-signed-a-strategic-partnership-with-wegovy-maker-novo]] · [[2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc]] · [[2026-05-18-openai-codex-enterprise-partnership-with-dell-chatgpt-produc]] · [[2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d]]
 <!-- graph:end -->

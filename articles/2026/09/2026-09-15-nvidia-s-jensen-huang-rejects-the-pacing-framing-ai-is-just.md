@@ -23,13 +23,9 @@ entities:
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de
-- 2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio
-- 2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of
-- 2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a
+dedupe_status: duplicate
+canonical_article_id: 2026-09-15-nvidia-s-huang-rejects-the-pacing-framing-ai-is-just-hardwar
+related_article_ids: []
 embedding_id: 2026-09-15-nvidia-s-jensen-huang-rejects-the-pacing-framing-ai-is-just
 event_name: ''
 ---
@@ -43,5 +39,5 @@ Huang published a follow-up rejecting Amodei's "alien mind" framing outright, te
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de]] · [[2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio]] · [[2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of]] · [[2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a]]
+**Canonical:** [[2026-09-15-nvidia-s-huang-rejects-the-pacing-framing-ai-is-just-hardwar]]
 <!-- graph:end -->

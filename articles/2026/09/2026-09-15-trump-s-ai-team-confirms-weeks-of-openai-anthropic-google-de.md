@@ -29,10 +29,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace
 - 2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon
-- 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
 embedding_id: 2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de
 event_name: ''
 ---
@@ -46,5 +46,5 @@ TechCrunch confirmed — with sources across OpenAI, Anthropic, and Google DeepM
 
 **Entities:** [[Anthropic]] · [[Cohere]] · [[DeepSeek]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon]] · [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]]
+**Related:** [[2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon]]
 <!-- graph:end -->

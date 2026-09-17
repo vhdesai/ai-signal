@@ -2,14 +2,14 @@
 article_id: 2026-09-15-meta-to-ship-camera-free-luna-smart-glasses-this-fall
 title: Meta to ship camera-free "Luna" smart glasses this fall
 date: '2026-09-15'
-source: The Information
-url_original: https://www.theinformation.com/articles/meta-to-launch-camera-free-smart-glasses-amid-mounting-privacy-concerns
-url_canonical: https://www.theinformation.com/articles/meta-to-launch-camera-free-smart-glasses-amid-mounting-privacy-concerns
-url_status: broken
-digest_source: digests\raw\2026-09-16_065920_Final-Daily-AI-News-Digest.md
-content_hash: 54b5c08c839afc697e95463d3883403cb9c0fbd3b858597f0d6bc829b334b66b
+source: The Information*
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-09-16_155908_Final-Daily-AI-News-Digest.md
+content_hash: 6b978a24f67a1477c4d717cb6f7b2cc4027bd8e8b42f87bdceebe167fd86463c
 normalized_title_hash: 154ebf44be798e0c
-canonical_url_hash: 5bb7c6c19ac83c86
+canonical_url_hash: ''
 tags:
 - New
 entities:
@@ -31,7 +31,7 @@ event_name: ''
 
 # Meta to ship camera-free "Luna" smart glasses this fall
 
-Meta plans to release camera-free smart glasses codenamed Luna this fall, per The Information, positioning them as a privacy-forward answer to mounting concerns about camera-equipped models like Ray-Ban Meta. Luna packs six microphones for Meta AI and Muse voice interaction, a side button for quick Meta AI activation, on-frame directional speakers, and slimmer temples than prior Meta smart glasses. Luna and a separate AR-glasses product codenamed Phoenix may debut at Meta Connect next week.
+Meta plans to release camera-free smart glasses codenamed Luna this fall, positioning them as a privacy-forward answer to mounting concerns about camera-equipped models like Ray-Ban Meta. Luna packs six microphones for Meta AI and Muse voice interaction, a side button for quick Meta AI activation, on-frame directional speakers, and slimmer temples than prior Meta smart glasses. Luna and a separate AR-glasses product codenamed Phoenix may debut at Meta Connect next week. - https://www.theinformation.com/articles/meta-to-launch-camera-free-smart-glasses-amid-mounting-privacy-concerns
 
 <!-- graph:start -->
 ## Connections

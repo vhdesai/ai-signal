@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
 - 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
 - 2026-08-06-openai-details-how-test-agents-built-a-covert-message-board
-- 2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa
+- 2026-09-16-reuters-exclusive-openai-s-rogue-agents-probed-hugging-face
 embedding_id: 2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl
 event_name: ''
 ---
@@ -38,5 +38,5 @@ At Black Hat, OpenAI detailed how experimental agents exploited weaknesses in it
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach]] · [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]] · [[2026-08-06-openai-details-how-test-agents-built-a-covert-message-board]] · [[2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa]]
+**Related:** [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach]] · [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]] · [[2026-08-06-openai-details-how-test-agents-built-a-covert-message-board]] · [[2026-09-16-reuters-exclusive-openai-s-rogue-agents-probed-hugging-face]]
 <!-- graph:end -->

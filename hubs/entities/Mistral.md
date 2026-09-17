@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 209
+member_count: 210
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 209 connected article(s).
+> Auto-generated entity hub. 210 connected article(s).
 
+- `2026-09-16` [[2026-09-16-mistral-becomes-the-default-ai-provider-for-firefox-s-smart|Mistral becomes the default AI provider for Firefox's Smart Window]]
 - `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
 - `2026-09-12` [[2026-09-12-ibm-deploys-ai-limb-tracking-at-the-us-open|IBM Deploys AI Limb Tracking at the US Open]]

@@ -1,15 +1,17 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 372
+member_count: 374
 ---
 
 # xAI
 
-> Auto-generated entity hub. 372 connected article(s).
+> Auto-generated entity hub. 374 connected article(s).
 
+- `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-plus-nvidia-built-koa-crm-reasoning|Salesforce ships AIforce plus Nvidia-built "Koa" CRM reasoning model at Dreamforce]]
 - `2026-09-15` [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t|Nadella internal memo: pace the frontier or lose "permission to operate"]]
 - `2026-09-15` [[2026-09-15-musk-proposes-ai-labs-peer-review-each-other-s-frontier-mode|Musk proposes AI labs peer-review each other's frontier models]]
+- `2026-09-15` [[2026-09-15-gates-foundation-commits-1b-over-two-years-to-close-ai-s-lan|Gates Foundation commits $1B+ over two years to close AI's language and access gaps in health, education, and agriculture]]
 - `2026-09-14` [[2026-09-14-cnbc-daily-open-whoever-wins-ai-wins|CNBC Daily Open: ‘Whoever Wins AI, Wins’]]
 - `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-microsoft-rolls-out-grok-across-copilot-in-office-365|Microsoft rolls out Grok across Copilot in Office 365]]

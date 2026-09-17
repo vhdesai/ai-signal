@@ -1,0 +1,82 @@
+{
+  "run_id": "20260917T165028+0000-35cab2",
+  "started_at": "2026-09-17T16:50:28+00:00",
+  "finished_at": "2026-09-17T18:01:39+00:00",
+  "summary": {
+    "command": "run-daily",
+    "stages": {
+      "ingest": {
+        "digests_total": 1211,
+        "digests_changed": 2,
+        "changed": [
+          "news\\2026-09-16_155908_Final-Daily-AI-News-Digest.md",
+          "news\\Daily AI News Digest - 2026-09-17.md"
+        ]
+      },
+      "split": {
+        "digests_parsed": 1213,
+        "articles_written": 11831,
+        "events_parsed": 89,
+        "event_articles_written": 78,
+        "skipped_publication_sources": 28,
+        "skipped_thin_articles": 4392
+      },
+      "index": {
+        "articles_indexed": 8776,
+        "embeddings": {
+          "enabled": true,
+          "added": 30,
+          "total": 8776,
+          "md_rewritten": 8776
+        }
+      },
+      "dedupe": {
+        "articles": 8776,
+        "exact_duplicates": 6,
+        "canonical": 6454,
+        "semantic_duplicates": 2316,
+        "related_links": 26757
+      },
+      "build-graph": {
+        "status": "ok",
+        "articles_linked": 8776,
+        "wikilinks_emitted": 59996,
+        "entity_hubs": 34,
+        "topic_hubs": 8,
+        "hubs_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\hubs"
+      },
+      "validate-urls": {
+        "checked": 3810,
+        "ok": 2757,
+        "broken": 1053,
+        "missing": 4943,
+        "skipped": 23
+      },
+      "repair-urls": {
+        "attempted": 0,
+        "repaired": 0,
+        "unresolved": 0,
+        "skipped": 0,
+        "reverted": 0,
+        "deferred": 0,
+        "terminated": "completed",
+        "elapsed_s": 263.0,
+        "max_workers": 10
+      },
+      "build-site-daily": {
+        "pages": 270,
+        "articles": 8776,
+        "canonical": 6454,
+        "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site",
+        "mode": "incremental",
+        "changed_articles": 71,
+        "written_files": 69,
+        "elapsed_s": 13.34
+      },
+      "publish": {
+        "status": "dry-run",
+        "note": "site/ generated locally; no remote publish configured"
+      }
+    }
+  }
+}

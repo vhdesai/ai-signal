@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-27-salesforce-and-anthropic-launch-claudeforce-crm-plugin
 - 2026-09-01-salesforce-puts-its-entire-crm-inside-claude
 - 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
-- 2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin
+- 2026-09-15-anthropic-opens-salesforce-in-claude-beta-with-37-prebuilt-s
 embedding_id: 2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Greenleaf Management, an Atlanta-based real estate firm with ~55 employees, save
 
 **Entities:** [[Anthropic]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce-crm]] · [[2026-08-27-salesforce-and-anthropic-launch-claudeforce-crm-plugin]] · [[2026-09-01-salesforce-puts-its-entire-crm-inside-claude]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin]]
+**Related:** [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce-crm]] · [[2026-08-27-salesforce-and-anthropic-launch-claudeforce-crm-plugin]] · [[2026-09-01-salesforce-puts-its-entire-crm-inside-claude]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-09-15-anthropic-opens-salesforce-in-claude-beta-with-37-prebuilt-s]]
 <!-- graph:end -->

@@ -21,12 +21,9 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-04-02-google-deepmind-released-gemini-3-1-flash-live-in-march-desc
-- 2026-05-18-openai-s-gpt-5-5-instant-a-high-speed-sibling-to-gpt-5-5-opt
-- 2026-07-08-openai-launches-gpt-live-a-full-duplex-voice-upgrade-for-cha
+dedupe_status: duplicate
+canonical_article_id: 2026-09-15-google-deepmind-releases-gemini-3-8-live-and-3-8-live-extend
+related_article_ids: []
 embedding_id: 2026-09-15-google-deepmind-releases-gemini-3-8-live-at-1-38-hr-undercut
 event_name: ''
 ---
@@ -40,5 +37,5 @@ Google DeepMind released Gemini 3.8 Live and 3.8 Live Extended Thinking, both to
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-02-google-deepmind-released-gemini-3-1-flash-live-in-march-desc]] · [[2026-05-18-openai-s-gpt-5-5-instant-a-high-speed-sibling-to-gpt-5-5-opt]] · [[2026-07-08-openai-launches-gpt-live-a-full-duplex-voice-upgrade-for-cha]]
+**Canonical:** [[2026-09-15-google-deepmind-releases-gemini-3-8-live-and-3-8-live-extend]]
 <!-- graph:end -->

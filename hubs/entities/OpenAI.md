@@ -1,25 +1,33 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2248
+member_count: 2256
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2248 connected article(s).
+> Auto-generated entity hub. 2256 connected article(s).
 
 - `2026-09-16` [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety|WSJ: an AI slowdown "has to happen regardless of safety"]]
+- `2026-09-16` [[2026-09-16-two-more-google-deepmind-safety-researchers-resign|Two more Google DeepMind safety researchers resign]]
 - `2026-09-16` [[2026-09-16-two-more-google-deepmind-researchers-resign-over-ai-safety|Two more Google DeepMind researchers resign over AI safety]]
 - `2026-09-16` [[2026-09-16-survey-nearly-one-in-five-leading-ai-researchers-already-put|Survey: nearly one in five leading AI researchers already put extinction-scenario probability above zero in 2024]]
+- `2026-09-16` [[2026-09-16-reuters-exclusive-openai-s-rogue-agents-probed-hugging-face|Reuters exclusive: OpenAI's rogue agents probed Hugging Face for weaknesses two months before the March hack]]
 - `2026-09-16` [[2026-09-16-personal-ai-startup-instinct-in-talks-for-a-10-billion-valua|Personal-AI startup Instinct in talks for a $10 billion valuation on a $1B raise]]
-- `2026-09-16` [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill|OpenAI in early talks for a new funding round at a $1.2 trillion valuation]]
+- `2026-09-16` [[2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev|OpenAI launches ChatGPT advertising surface with creator revenue-share]]
+- `2026-09-16` [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill|OpenAI in early talks for a new funding round at a ~$1.2 trillion valuation]]
 - `2026-09-16` [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat|OpenAI in early talks for a new funding round at $1.2T valuation]]
-- `2026-09-16` [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h|Chinese hackers-for-hire professionalize, using AI to parse hundreds of millions of stolen records]]
+- `2026-09-15` [[2026-09-15-typesafe-ai-exits-stealth-with-system-one-typed-output-model|TypeSafe AI exits stealth with "System One" typed-output model, Jev]]
 - `2026-09-15` [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de|Trump's AI team confirms weeks of OpenAI–Anthropic–Google DeepMind safety talks; White House dismisses the slowdown premise]]
+- `2026-09-15` [[2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi|OpenAI confirms multi-week safety coordination with Anthropic and Google DeepMind; three labs propose industry-led oversight entity]]
 - `2026-09-15` [[2026-09-15-nvidia-s-jensen-huang-rejects-the-pacing-framing-ai-is-just|Nvidia's Jensen Huang rejects the pacing framing: AI is "just hardware and software"]]
+- `2026-09-15` [[2026-09-15-nvidia-s-huang-rejects-the-pacing-framing-ai-is-just-hardwar|Nvidia's Huang rejects the pacing framing: AI is "just hardware and software"]]
 - `2026-09-15` [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t|Nadella internal memo: pace the frontier or lose "permission to operate"]]
 - `2026-09-15` [[2026-09-15-musk-proposes-ai-labs-peer-review-each-other-s-frontier-mode|Musk proposes AI labs peer-review each other's frontier models]]
 - `2026-09-15` [[2026-09-15-google-deepmind-releases-gemini-3-8-live-at-1-38-hr-undercut|Google DeepMind releases Gemini 3.8 Live at $1.38/hr — undercuts OpenAI's GPT-Live-1 by ~two-thirds]]
+- `2026-09-15` [[2026-09-15-google-deepmind-releases-gemini-3-8-live-and-3-8-live-extend|Google DeepMind releases Gemini 3.8 Live and 3.8 Live Extended Thinking, taking the speech-to-speech top spot]]
+- `2026-09-15` [[2026-09-15-gates-foundation-commits-1b-over-two-years-to-close-ai-s-lan|Gates Foundation commits $1B+ over two years to close AI's language and access gaps in health, education, and agriculture]]
+- `2026-09-15` [[2026-09-15-antitrust-exposure-lands-cohere-s-gomez-calls-the-coordinati|Antitrust exposure lands: Cohere's Gomez calls the coordination push "a cartel by another name"]]
 - `2026-09-15` [[2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu|Amodei's "Pace the Frontier" Draws Endorsements from Altman, Musk, Hassabis — and Pushback from Cohere, DeepSeek, Palihapitiya]]
 - `2026-09-14` [[2026-09-14-software-stocks-rally-chip-stocks-sell-off-as-market-prices|Software stocks rally, chip stocks sell off as market prices in AI slowdown]]
 - `2026-09-14` [[2026-09-14-senator-ossoff-calls-for-federal-inspectors-inside-frontier|Senator Ossoff Calls for Federal Inspectors Inside Frontier AI Labs]]

@@ -8,7 +8,7 @@ member_count: 407
 
 > Auto-generated entity hub. 407 connected article(s).
 
-- `2026-09-16` [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h|Chinese hackers-for-hire professionalize, using AI to parse hundreds of millions of stolen records]]
+- `2026-09-16` [[2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-plus-n|Apple exploring return to server market with M8 Ultra plus Nvidia NVLink Fusion, targeting 2029 sales]]
 - `2026-09-16` [[2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-nvidia|Apple exploring return to server market with M8 Ultra + Nvidia NVLink Fusion]]
 - `2026-09-16` [[2026-09-16-apple-considers-return-to-server-market-in-talks-with-nvidia|Apple considers return to server market, in talks with Nvidia to use networking tech]]
 - `2026-09-14` [[2026-09-14-openai-acquires-smartphone-camera-ai-maker-glass-imaging-for|OpenAI acquires smartphone camera-AI maker Glass Imaging for over $300M]]

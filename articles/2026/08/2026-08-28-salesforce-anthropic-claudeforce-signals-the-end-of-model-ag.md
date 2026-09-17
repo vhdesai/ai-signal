@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-02-salesforce-and-anthropic-launch-claudeforce-making-claude-th
 - 2026-08-27-salesforce-and-anthropic-launch-claudeforce
 - 2026-08-26-salesforce-and-anthropic-announce-claudeforce
-- 2026-08-26-salesforce-and-anthropic-launch-claudeforce-embedding-crm-in
+- 2026-09-15-anthropic-opens-salesforce-in-claude-beta-with-37-prebuilt-s
 embedding_id: 2026-08-28-salesforce-anthropic-claudeforce-signals-the-end-of-model-ag
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Salesforce and Anthropic announced Claudeforce on August 26, establishing Claude
 
 **Entities:** [[Anthropic]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-02-salesforce-and-anthropic-launch-claudeforce-making-claude-th]] · [[2026-08-27-salesforce-and-anthropic-launch-claudeforce]] · [[2026-08-26-salesforce-and-anthropic-announce-claudeforce]] · [[2026-08-26-salesforce-and-anthropic-launch-claudeforce-embedding-crm-in]]
+**Related:** [[2026-09-02-salesforce-and-anthropic-launch-claudeforce-making-claude-th]] · [[2026-08-27-salesforce-and-anthropic-launch-claudeforce]] · [[2026-08-26-salesforce-and-anthropic-announce-claudeforce]] · [[2026-09-15-anthropic-opens-salesforce-in-claude-beta-with-37-prebuilt-s]]
 <!-- graph:end -->

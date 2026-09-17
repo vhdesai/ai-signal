@@ -4,8 +4,8 @@ title: OpenAI in early talks for a new funding round at $1.2T valuation
 date: '2026-09-16'
 source: The Information
 url_original: https://www.theinformation.com/articles/openai-in-early-talks-for-new-funding-round-at-1-2-trillion-valuation
-url_canonical: https://www.bloomberg.com/news/articles/2026-09-15/openai-weighing-funding-round-at-over-1-2-trillion-valuation
-url_status: repaired
+url_canonical: https://www.theinformation.com/articles/openai-in-early-talks-for-new-funding-round-at-1-2-trillion-valuation
+url_status: broken
 digest_source: digests\raw\2026-09-16_065920_Final-Daily-AI-News-Digest.md
 content_hash: 345258e0852f6cb5cd1a769694f47036e991becb49a446f8bb6f4bf60f9f29e6
 normalized_title_hash: ffbce171a3ddd96d

@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 574
+member_count: 575
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 574 connected article(s).
+> Auto-generated entity hub. 575 connected article(s).
 
-- `2026-09-16` [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h|Chinese hackers-for-hire professionalize, using AI to parse hundreds of millions of stolen records]]
+- `2026-09-16` [[2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev|OpenAI launches ChatGPT advertising surface with creator revenue-share]]
+- `2026-09-16` [[2026-09-16-amazon-launches-alexa-in-india-with-hindi-support-and-hindi|Amazon launches Alexa+ in India with Hindi support and Hindi–English code-switching]]
 - `2026-09-16` [[2026-09-16-amazon-launches-alexa-in-india-with-hindi-support|Amazon launches Alexa+ in India with Hindi support]]
 - `2026-09-15` [[2026-09-15-salesforce-and-aws-expand-ai-integrations-across-slack-and-a|Salesforce and AWS expand AI integrations across Slack and Amazon Quick]]
 - `2026-09-15` [[2026-09-15-salesforce-and-aws-expand-integrations-across-slack-and-amaz|Salesforce and AWS Expand Integrations Across Slack and Amazon Quick With Zero-Copy Data Access]]

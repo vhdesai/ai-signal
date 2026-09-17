@@ -21,10 +21,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-16-chinese-ai-chip-stocks-brace-for-metax-lockup-expiry-after-m
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch
 - 2026-05-19-nvidia-s-jensen-huang-says-china-will-open-over-time-to-h200
-- 2026-07-06-infrastructure-china-china-s-biren-raises-892-5m-to-scale-gp
 embedding_id: 2026-08-09-moore-threads-plans-a-hong-kong-listing-after-its-shares-sur
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Moore Threads, the Beijing AI chipmaker founded by former Nvidia China executive
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch]] · [[2026-05-19-nvidia-s-jensen-huang-says-china-will-open-over-time-to-h200]] · [[2026-07-06-infrastructure-china-china-s-biren-raises-892-5m-to-scale-gp]]
+**Related:** [[2026-09-16-chinese-ai-chip-stocks-brace-for-metax-lockup-expiry-after-m]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch]] · [[2026-05-19-nvidia-s-jensen-huang-says-china-will-open-over-time-to-h200]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: SK Hynix in talks with Intel to make memory chips in the US for the first
 date: '2026-09-16'
 source: Reuters
 url_original: https://www.theinformation.com/articles/sk-hynix-in-talks-with-intel-to-make-memory-chips-in-the-us
-url_canonical: https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html
-url_status: repaired
+url_canonical: https://www.theinformation.com/articles/sk-hynix-in-talks-with-intel-to-make-memory-chips-in-the-us
+url_status: broken
 digest_source: digests\raw\2026-09-16_065920_Final-Daily-AI-News-Digest.md
 content_hash: 83bcc44a892b667da466fc6a28336d2c02289704c137cd517985366e7bcdad4d
 normalized_title_hash: 409e3914bcd66e79

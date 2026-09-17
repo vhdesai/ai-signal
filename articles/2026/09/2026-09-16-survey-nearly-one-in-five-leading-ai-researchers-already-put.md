@@ -7,8 +7,8 @@ source: The Decoder*
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-09-16_065056_Final-Daily-AI-News-Digest.md
-content_hash: 7541712f1b7404fcd48ba9c22f77693bcf410d1dee29643e016cd599136450ef
+digest_source: digests\raw\2026-09-16_155908_Final-Daily-AI-News-Digest.md
+content_hash: 7cf8611ee37076380652f2f0446da7dda10ab723dc259e89045f66b73ae62e3b
 normalized_title_hash: 162551a62406d5e4
 canonical_url_hash: ''
 tags:
@@ -32,7 +32,7 @@ event_name: ''
 
 # Survey: nearly one in five leading AI researchers already put extinction-scenario probability above zero in 2024
 
-A 2024 survey of more than 1,500 leading AI researchers reported an average estimated probability of an AI-driven extinction scenario of 18% — a figure The Decoder frames as directly relevant to this week's Amodei/Coxon/Bengio debate. Recent estimates from OpenAI's Daniel Selsam ("ticking time bomb") and former DeepMind researchers are materially higher. Independent of the merit of individual estimates, executives should note that "the AI community is divided on existential risk" is no longer accurate — the median inside-view estimate has been non-trivial for over a year. - https://the-decoder.com/nearly-one-in-five-ai-researchers-already-expected-an-extinction-scenario-from-ai-back-in-2024/
+A 2024 AI Impacts survey of more than 1,500 leading AI researchers reported an average estimated probability of an AI-driven extinction or "permanent disempowerment" scenario of 18%, up from a ~10% median in prior rounds. Recent estimates from OpenAI's Daniel Selsam ("ticking time bomb") and former DeepMind researcher Bilal Chughtai ("AI has the potential to kill us all") are materially higher. The survey answers a common criticism that safety concerns are limited to a few loud voices — the median inside-view estimate has been non-trivial for over a year. - https://the-decoder.com/nearly-one-in-five-ai-researchers-already-expected-an-extinction-scenario-from-ai-back-in-2024/
 
 <!-- graph:start -->
 ## Connections

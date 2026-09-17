@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev
 - 2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt
 - 2026-09-05-campaigns-use-ai-generated-ads-despite-chatgpt-restrictions
 - 2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers
 - 2026-09-05-campaigns-continue-using-ai-generated-ads-despite-chatgpt-re
-- 2026-08-12-openai-begins-testing-ads-in-chatgpt
 embedding_id: 2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI has begun letting advertisers auto-generate ads within its ChatGPT Ads pl
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-09-05-campaigns-use-ai-generated-ads-despite-chatgpt-restrictions]] · [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]] · [[2026-09-05-campaigns-continue-using-ai-generated-ads-despite-chatgpt-re]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]]
+**Related:** [[2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev]] · [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-09-05-campaigns-use-ai-generated-ads-despite-chatgpt-restrictions]] · [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]] · [[2026-09-05-campaigns-continue-using-ai-generated-ads-despite-chatgpt-re]]
 <!-- graph:end -->

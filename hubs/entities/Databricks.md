@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 138
+member_count: 139
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 138 connected article(s).
+> Auto-generated entity hub. 139 connected article(s).
 
+- `2026-09-16` [[2026-09-16-databricks-commits-350m-to-singapore-as-its-apac-ai-hub|Databricks commits $350M+ to Singapore as its APAC AI hub]]
 - `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]
 - `2026-09-13` [[2026-09-13-aws-open-sources-pizza-bot-an-inbox-for-background-ai-agents|AWS Open-Sources Pizza Bot, an Inbox for Background AI Agents]]

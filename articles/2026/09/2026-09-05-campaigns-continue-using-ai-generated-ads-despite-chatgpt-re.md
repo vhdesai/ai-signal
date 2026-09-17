@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-09-05-campaigns-use-ai-generated-ads-despite-chatgpt-restrictions
 - 2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt
 - 2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us
+- 2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev
 - 2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis
-- 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 embedding_id: 2026-09-05-campaigns-continue-using-ai-generated-ads-despite-chatgpt-re
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Washington Post reported that political campaigns are using AI-generated adv
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-05-campaigns-use-ai-generated-ads-despite-chatgpt-restrictions]] · [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]] · [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]] · [[2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]]
+**Related:** [[2026-09-05-campaigns-use-ai-generated-ads-despite-chatgpt-restrictions]] · [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]] · [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]] · [[2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev]] · [[2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis]]
 <!-- graph:end -->

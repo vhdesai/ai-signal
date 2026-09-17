@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-novo-nordisk-signs-company-wide-ai-partnership-with-openai
+- 2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
 - 2026-07-28-aws-and-newforma-enter-a-7-year-strategic-collaboration
 - 2026-08-03-a-35-billion-tranche-dramatically-raises-the-ceiling-for-pla
-- 2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar
 embedding_id: 2026-04-16-openai-signed-a-strategic-partnership-with-wegovy-maker-novo
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI signed a strategic partnership with Wegovy maker Novo Nordisk covering en
 ## Connections
 
 **Entities:** [[Amazon]] · [[OpenAI]]
-**Related:** [[2026-05-14-novo-nordisk-signs-company-wide-ai-partnership-with-openai]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-07-28-aws-and-newforma-enter-a-7-year-strategic-collaboration]] · [[2026-08-03-a-35-billion-tranche-dramatically-raises-the-ceiling-for-pla]] · [[2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar]]
+**Related:** [[2026-05-14-novo-nordisk-signs-company-wide-ai-partnership-with-openai]] · [[2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-07-28-aws-and-newforma-enter-a-7-year-strategic-collaboration]] · [[2026-08-03-a-35-billion-tranche-dramatically-raises-the-ceiling-for-pla]]
 <!-- graph:end -->

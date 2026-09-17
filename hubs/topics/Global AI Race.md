@@ -1,18 +1,23 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1310
+member_count: 1315
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1310 connected article(s).
+> Auto-generated topic hub. 1315 connected article(s).
 
+- `2026-09-16` [[2026-09-16-moonshot-draws-global-investors-from-europe-asia-and-middle|Moonshot draws global investors from Europe, Asia, and Middle East family offices]]
+- `2026-09-16` [[2026-09-16-huawei-predicts-90-of-global-token-traffic-will-come-from-au|Huawei predicts 90% of global token traffic will come from autonomous AI agents by 2035]]
 - `2026-09-16` [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h|Chinese hackers-for-hire professionalize, using AI to parse hundreds of millions of stolen records]]
-- `2026-09-16` [[2026-09-16-china-s-people-s-daily-rejects-us-industrial-scale-distillat|China's People's Daily rejects US "industrial-scale distillation" charge, warns of countermeasures]]
+- `2026-09-16` [[2026-09-16-chinese-ai-chip-stocks-brace-for-metax-lockup-expiry-after-m|Chinese AI-chip stocks brace for MetaX lockup expiry after Moore Threads shed ~49B yuan]]
+- `2026-09-16` [[2026-09-16-china-s-people-s-daily-rejects-us-industrial-scale-distillat|China's *People's Daily* rejects US "industrial-scale distillation" charge, warns of countermeasures]]
+- `2026-09-16` [[2026-09-16-bytedance-s-hongguo-ai-enhanced-short-drama-app-now-bigger-t|ByteDance's Hongguo, AI-enhanced short-drama app, now bigger than China's top four streaming players combined]]
 - `2026-09-15` [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de|Trump's AI team confirms weeks of OpenAI–Anthropic–Google DeepMind safety talks; White House dismisses the slowdown premise]]
 - `2026-09-15` [[2026-09-15-musk-proposes-ai-labs-peer-review-each-other-s-frontier-mode|Musk proposes AI labs peer-review each other's frontier models]]
 - `2026-09-15` [[2026-09-15-morgan-stanley-china-now-leads-us-in-consumer-ai-adoption-on|Morgan Stanley: China Now Leads US in Consumer AI Adoption on Weekly-Usage Rates]]
+- `2026-09-15` [[2026-09-15-gates-foundation-commits-1b-over-two-years-to-close-ai-s-lan|Gates Foundation commits $1B+ over two years to close AI's language and access gaps in health, education, and agriculture]]
 - `2026-09-15` [[2026-09-15-chinese-tech-giants-are-now-rationing-employee-ai-token-budg|Chinese Tech Giants Are Now Rationing Employee AI Token Budgets After Promoting Heavy Use]]
 - `2026-09-15` [[2026-09-15-bytedance-h1-profit-drops-to-20b-on-ai-spending-revenue-up-3|ByteDance H1 profit drops to $20B on AI spending, revenue up 30% to $120B]]
 - `2026-09-15` [[2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu|Amodei's "Pace the Frontier" Draws Endorsements from Altman, Musk, Hassabis — and Pushback from Cohere, DeepSeek, Palihapitiya]]

@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-27-salesforce-and-anthropic-launch-claudeforce-crm-plugin
 - 2026-08-26-salesforce-and-anthropic-announce-claudeforce
+- 2026-09-15-anthropic-opens-salesforce-in-claude-beta-with-37-prebuilt-s
 - 2026-09-02-salesforce-and-anthropic-launch-claudeforce-making-claude-th
 - 2026-08-28-salesforce-anthropic-claudeforce-signals-the-end-of-model-ag
-- 2026-08-26-salesforce-and-anthropic-launch-claudeforce-embedding-crm-in
 embedding_id: 2026-08-27-salesforce-and-anthropic-launch-claudeforce
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Salesforce and Anthropic expanded their partnership with Claudeforce, embedding 
 
 **Entities:** [[Anthropic]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-27-salesforce-and-anthropic-launch-claudeforce-crm-plugin]] · [[2026-08-26-salesforce-and-anthropic-announce-claudeforce]] · [[2026-09-02-salesforce-and-anthropic-launch-claudeforce-making-claude-th]] · [[2026-08-28-salesforce-anthropic-claudeforce-signals-the-end-of-model-ag]] · [[2026-08-26-salesforce-and-anthropic-launch-claudeforce-embedding-crm-in]]
+**Related:** [[2026-08-27-salesforce-and-anthropic-launch-claudeforce-crm-plugin]] · [[2026-08-26-salesforce-and-anthropic-announce-claudeforce]] · [[2026-09-15-anthropic-opens-salesforce-in-claude-beta-with-37-prebuilt-s]] · [[2026-09-02-salesforce-and-anthropic-launch-claudeforce-making-claude-th]] · [[2026-08-28-salesforce-anthropic-claudeforce-signals-the-end-of-model-ag]]
 <!-- graph:end -->

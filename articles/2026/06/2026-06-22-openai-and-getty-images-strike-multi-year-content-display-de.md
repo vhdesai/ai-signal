@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal
 - 2026-05-26-microsoft-restructures-openai-deal-adds-persistent-memory-to
 - 2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing
+- 2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev
 - 2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis
-- 2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13-billion-taking-aim
 embedding_id: 2026-06-22-openai-and-getty-images-strike-multi-year-content-display-de
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Getty Images and OpenAI announced a multi-year agreement to surface Getty's lice
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal]] · [[2026-05-26-microsoft-restructures-openai-deal-adds-persistent-memory-to]] · [[2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing]] · [[2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis]] · [[2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13-billion-taking-aim]]
+**Related:** [[2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal]] · [[2026-05-26-microsoft-restructures-openai-deal-adds-persistent-memory-to]] · [[2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing]] · [[2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev]] · [[2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis]]
 <!-- graph:end -->

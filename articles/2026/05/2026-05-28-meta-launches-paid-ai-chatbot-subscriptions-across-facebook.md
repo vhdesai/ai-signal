@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-05-28-meta-launches-paid-subscriptions-for-instagram-facebook-what
 - 2026-05-28-meta-launches-paid-social-subscriptions-plus-tiered-ai-plans
 - 2026-09-16-meta-launches-meta-one-ai-subscriptions-at-2-99-499-month
+- 2026-09-16-meta-launches-meta-one-ai-subscriptions-from-2-99-to-499-mon
 - 2026-05-27-meta-rolls-out-global-meta-one-subscriptions-across-instagra
-- 2026-09-15-meta-bundles-ai-plus-premium-features-into-meta-one-subscrip
 embedding_id: 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Meta is launching paid subscriptions for its AI chatbot across Facebook, Instagr
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-meta-launches-paid-subscriptions-for-instagram-facebook-what]] · [[2026-05-28-meta-launches-paid-social-subscriptions-plus-tiered-ai-plans]] · [[2026-09-16-meta-launches-meta-one-ai-subscriptions-at-2-99-499-month]] · [[2026-05-27-meta-rolls-out-global-meta-one-subscriptions-across-instagra]] · [[2026-09-15-meta-bundles-ai-plus-premium-features-into-meta-one-subscrip]]
+**Related:** [[2026-05-28-meta-launches-paid-subscriptions-for-instagram-facebook-what]] · [[2026-05-28-meta-launches-paid-social-subscriptions-plus-tiered-ai-plans]] · [[2026-09-16-meta-launches-meta-one-ai-subscriptions-at-2-99-499-month]] · [[2026-09-16-meta-launches-meta-one-ai-subscriptions-from-2-99-to-499-mon]] · [[2026-05-27-meta-rolls-out-global-meta-one-subscriptions-across-instagra]]
 <!-- graph:end -->

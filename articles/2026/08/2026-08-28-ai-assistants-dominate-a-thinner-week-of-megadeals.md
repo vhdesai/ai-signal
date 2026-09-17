@@ -21,6 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-28-ai-assistants-lead-a-thinner-week-of-megadeals
 - 2026-08-14-ai-infrastructure-and-data-deals-lead-the-week-s-largest-rou
+- 2026-09-15-personal-ai-startup-instinct-in-talks-to-raise-1b-at-10b-qua
 - 2026-09-15-instinct-in-talks-to-raise-1b-at-10b-valuation-up-from-2-25b
 embedding_id: 2026-08-28-ai-assistants-dominate-a-thinner-week-of-megadeals
 event_name: ''
@@ -34,5 +35,5 @@ Crunchbase's weekly tally shows AI-focused startups taking most of the largest r
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-28-ai-assistants-lead-a-thinner-week-of-megadeals]] · [[2026-08-14-ai-infrastructure-and-data-deals-lead-the-week-s-largest-rou]] · [[2026-09-15-instinct-in-talks-to-raise-1b-at-10b-valuation-up-from-2-25b]]
+**Related:** [[2026-08-28-ai-assistants-lead-a-thinner-week-of-megadeals]] · [[2026-08-14-ai-infrastructure-and-data-deals-lead-the-week-s-largest-rou]] · [[2026-09-15-personal-ai-startup-instinct-in-talks-to-raise-1b-at-10b-qua]] · [[2026-09-15-instinct-in-talks-to-raise-1b-at-10b-valuation-up-from-2-25b]]
 <!-- graph:end -->

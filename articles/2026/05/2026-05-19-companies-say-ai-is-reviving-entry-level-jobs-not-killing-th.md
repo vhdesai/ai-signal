@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-16-gartner-fewer-than-1-of-2025-job-losses-were-ai-driven-one-t
 - 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
 - 2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
 - 2026-08-24-stanford-entry-level-employment-in-the-most-ai-exposed-jobs
-- 2026-09-16-gartner-one-third-of-ai-replaced-workers-will-be-rehired-by
 embedding_id: 2026-05-19-companies-say-ai-is-reviving-entry-level-jobs-not-killing-th
 event_name: ''
 ---
@@ -37,5 +37,5 @@ WSJ's daily roundup highlights employers reporting that AI is creating new entry
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-08-24-stanford-entry-level-employment-in-the-most-ai-exposed-jobs]] · [[2026-09-16-gartner-one-third-of-ai-replaced-workers-will-be-rehired-by]]
+**Related:** [[2026-09-16-gartner-fewer-than-1-of-2025-job-losses-were-ai-driven-one-t]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-08-24-stanford-entry-level-employment-in-the-most-ai-exposed-jobs]]
 <!-- graph:end -->

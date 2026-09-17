@@ -24,8 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
+- 2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
-- 2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de
 embedding_id: 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Washington Post reported that leaders at Anthropic, OpenAI, and Google endor
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de]]
+**Related:** [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]] · [[2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]]
 <!-- graph:end -->

@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-16-meta-launches-meta-one-ai-subscriptions-at-2-99-499-month
+- 2026-09-16-meta-launches-meta-one-ai-subscriptions-from-2-99-to-499-mon
 - 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
 embedding_id: 2026-08-25-meta-introduces-ai-agent-that-runs-errands-with-premium-tier
@@ -38,5 +39,5 @@ Meta introduced an AI agent designed to complete real-world errands, and per rep
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-16-meta-launches-meta-one-ai-subscriptions-at-2-99-499-month]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]]
+**Related:** [[2026-09-16-meta-launches-meta-one-ai-subscriptions-at-2-99-499-month]] · [[2026-09-16-meta-launches-meta-one-ai-subscriptions-from-2-99-to-499-mon]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]]
 <!-- graph:end -->

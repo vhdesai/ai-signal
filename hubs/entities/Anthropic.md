@@ -1,23 +1,35 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 1966
+member_count: 1978
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 1966 connected article(s).
+> Auto-generated entity hub. 1978 connected article(s).
 
 - `2026-09-16` [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety|WSJ: an AI slowdown "has to happen regardless of safety"]]
+- `2026-09-16` [[2026-09-16-two-more-google-deepmind-safety-researchers-resign|Two more Google DeepMind safety researchers resign]]
 - `2026-09-16` [[2026-09-16-two-more-google-deepmind-researchers-resign-over-ai-safety|Two more Google DeepMind researchers resign over AI safety]]
+- `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-plus-nvidia-built-koa-crm-reasoning|Salesforce ships AIforce plus Nvidia-built "Koa" CRM reasoning model at Dreamforce]]
 - `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-at-dreamforce-for-third-party-agent|Salesforce ships AIforce at Dreamforce for third-party agent governance]]
+- `2026-09-16` [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill|OpenAI in early talks for a new funding round at a ~$1.2 trillion valuation]]
 - `2026-09-16` [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat|OpenAI in early talks for a new funding round at $1.2T valuation]]
-- `2026-09-16` [[2026-09-16-china-s-people-s-daily-rejects-us-industrial-scale-distillat|China's People's Daily rejects US "industrial-scale distillation" charge, warns of countermeasures]]
+- `2026-09-16` [[2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc|Novo Nordisk partners with Anthropic to accelerate drug discovery using Claude]]
+- `2026-09-16` [[2026-09-16-microsoft-s-suleyman-publicly-attacks-anthropic-s-ai-conscio|Microsoft's Suleyman publicly attacks Anthropic's AI-consciousness framing]]
+- `2026-09-16` [[2026-09-16-china-s-people-s-daily-rejects-us-industrial-scale-distillat|China's *People's Daily* rejects US "industrial-scale distillation" charge, warns of countermeasures]]
 - `2026-09-15` [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de|Trump's AI team confirms weeks of OpenAI–Anthropic–Google DeepMind safety talks; White House dismisses the slowdown premise]]
+- `2026-09-15` [[2026-09-15-personal-ai-startup-instinct-in-talks-to-raise-1b-at-10b-qua|Personal-AI startup Instinct in talks to raise $1B at ~$10B — quadrupling in under a month]]
+- `2026-09-15` [[2026-09-15-palantir-cto-calls-the-ai-safety-movement-an-attempted-coup|Palantir CTO calls the AI safety movement "an attempted coup"]]
+- `2026-09-15` [[2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi|OpenAI confirms multi-week safety coordination with Anthropic and Google DeepMind; three labs propose industry-led oversight entity]]
 - `2026-09-15` [[2026-09-15-nvidia-s-jensen-huang-rejects-the-pacing-framing-ai-is-just|Nvidia's Jensen Huang rejects the pacing framing: AI is "just hardware and software"]]
+- `2026-09-15` [[2026-09-15-nvidia-s-huang-rejects-the-pacing-framing-ai-is-just-hardwar|Nvidia's Huang rejects the pacing framing: AI is "just hardware and software"]]
 - `2026-09-15` [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t|Nadella internal memo: pace the frontier or lose "permission to operate"]]
 - `2026-09-15` [[2026-09-15-musk-proposes-ai-labs-peer-review-each-other-s-frontier-mode|Musk proposes AI labs peer-review each other's frontier models]]
 - `2026-09-15` [[2026-09-15-instinct-in-talks-to-raise-1b-at-10b-valuation-up-from-2-25b|Instinct in talks to raise $1B at ~$10B valuation, up from $2.25B a month ago]]
+- `2026-09-15` [[2026-09-15-gates-foundation-commits-1b-over-two-years-to-close-ai-s-lan|Gates Foundation commits $1B+ over two years to close AI's language and access gaps in health, education, and agriculture]]
+- `2026-09-15` [[2026-09-15-antitrust-exposure-lands-cohere-s-gomez-calls-the-coordinati|Antitrust exposure lands: Cohere's Gomez calls the coordination push "a cartel by another name"]]
+- `2026-09-15` [[2026-09-15-anthropic-opens-salesforce-in-claude-beta-with-37-prebuilt-s|Anthropic opens "Salesforce in Claude" beta with 37 prebuilt sales skills]]
 - `2026-09-15` [[2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu|Amodei's "Pace the Frontier" Draws Endorsements from Altman, Musk, Hassabis — and Pushback from Cohere, DeepSeek, Palihapitiya]]
 - `2026-09-15` [[2026-09-15-aiuc-raises-40m-series-a-to-underwrite-enterprise-ai-agent-l|AIUC Raises $40M Series A to Underwrite Enterprise AI-Agent Liability]]
 - `2026-09-14` [[2026-09-14-software-stocks-rally-chip-stocks-sell-off-as-market-prices|Software stocks rally, chip stocks sell off as market prices in AI slowdown]]

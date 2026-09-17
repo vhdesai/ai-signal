@@ -1,20 +1,22 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 79
+member_count: 81
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 79 connected article(s).
+> Auto-generated entity hub. 81 connected article(s).
 
+- `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-plus-nvidia-built-koa-crm-reasoning|Salesforce ships AIforce plus Nvidia-built "Koa" CRM reasoning model at Dreamforce]]
 - `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-at-dreamforce-for-third-party-agent|Salesforce ships AIforce at Dreamforce for third-party agent governance]]
 - `2026-09-16` [[2026-09-16-gartner-one-third-of-ai-replaced-workers-will-be-rehired-by|Gartner: one-third of AI-replaced workers will be rehired by 2029; <1% of 2025 losses AI-driven]]
-- `2026-09-16` [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h|Chinese hackers-for-hire professionalize, using AI to parse hundreds of millions of stolen records]]
+- `2026-09-16` [[2026-09-16-gartner-fewer-than-1-of-2025-job-losses-were-ai-driven-one-t|Gartner: fewer than 1% of 2025 job losses were AI-driven; one-third of AI-replaced workers will be rehired by 2029]]
 - `2026-09-15` [[2026-09-15-salesforce-and-nvidia-launch-koa-a-jointly-post-trained-reas|Salesforce and Nvidia launch Koa, a jointly post-trained reasoning model on Nemotron]]
 - `2026-09-15` [[2026-09-15-salesforce-and-nvidia-unveil-koa-an-open-weight-nemotron-bas|Salesforce and NVIDIA Unveil Koa — an Open-Weight Nemotron-Based Enterprise Reasoning Model]]
 - `2026-09-15` [[2026-09-15-salesforce-and-aws-expand-ai-integrations-across-slack-and-a|Salesforce and AWS expand AI integrations across Slack and Amazon Quick]]
 - `2026-09-15` [[2026-09-15-salesforce-and-aws-expand-integrations-across-slack-and-amaz|Salesforce and AWS Expand Integrations Across Slack and Amazon Quick With Zero-Copy Data Access]]
+- `2026-09-15` [[2026-09-15-anthropic-opens-salesforce-in-claude-beta-with-37-prebuilt-s|Anthropic opens "Salesforce in Claude" beta with 37 prebuilt sales skills]]
 - `2026-09-14` [[2026-09-14-software-stocks-rally-chip-stocks-sell-off-as-market-prices|Software stocks rally, chip stocks sell off as market prices in AI slowdown]]
 - `2026-09-14` [[2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-pretrained-gener|MIT's HardFlow enforces hard constraints on pretrained generative models at deployment time]]
 - `2026-09-14` [[2026-09-14-chinese-consortium-publishes-5-stage-roadmap-for-recursive-s|Chinese Consortium Publishes 5-Stage Roadmap for Recursive Self-Improvement ("Last AI Built by Humans")]]

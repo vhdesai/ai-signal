@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-01-salesforce-puts-its-entire-crm-inside-claude
 - 2026-08-27-salesforce-and-anthropic-launch-claudeforce-crm-plugin
 - 2026-08-28-claude-mobile-consumer-revenue-up-nearly-1-200-since-january
-- 2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin
+- 2026-09-15-anthropic-opens-salesforce-in-claude-beta-with-37-prebuilt-s
 embedding_id: 2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce-crm
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Greenleaf Management, an Atlanta-based real estate property and investment manag
 **Entities:** [[Anthropic]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce]]
-**Related:** [[2026-09-01-salesforce-puts-its-entire-crm-inside-claude]] · [[2026-08-27-salesforce-and-anthropic-launch-claudeforce-crm-plugin]] · [[2026-08-28-claude-mobile-consumer-revenue-up-nearly-1-200-since-january]] · [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin]]
+**Related:** [[2026-09-01-salesforce-puts-its-entire-crm-inside-claude]] · [[2026-08-27-salesforce-and-anthropic-launch-claudeforce-crm-plugin]] · [[2026-08-28-claude-mobile-consumer-revenue-up-nearly-1-200-since-january]] · [[2026-09-15-anthropic-opens-salesforce-in-claude-beta-with-37-prebuilt-s]]
 <!-- graph:end -->

@@ -1,19 +1,20 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 718
+member_count: 719
 ---
 
 # Meta
 
-> Auto-generated entity hub. 718 connected article(s).
+> Auto-generated entity hub. 719 connected article(s).
 
 - `2026-09-16` [[2026-09-16-zuckerberg-breaks-silence-ai-safety-is-a-competitive-necessi|Zuckerberg breaks silence: AI safety is a competitive necessity, not a group slowdown]]
 - `2026-09-16` [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety|WSJ: an AI slowdown "has to happen regardless of safety"]]
 - `2026-09-16` [[2026-09-16-personal-ai-startup-instinct-in-talks-for-a-10-billion-valua|Personal-AI startup Instinct in talks for a $10 billion valuation on a $1B raise]]
-- `2026-09-16` [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill|OpenAI in early talks for a new funding round at a $1.2 trillion valuation]]
+- `2026-09-16` [[2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev|OpenAI launches ChatGPT advertising surface with creator revenue-share]]
+- `2026-09-16` [[2026-09-16-meta-launches-meta-one-ai-subscriptions-from-2-99-to-499-mon|Meta launches "Meta One" AI subscriptions from $2.99 to $499/month]]
 - `2026-09-16` [[2026-09-16-meta-launches-meta-one-ai-subscriptions-at-2-99-499-month|Meta launches "Meta One" AI subscriptions at $2.99–$499/month]]
-- `2026-09-16` [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h|Chinese hackers-for-hire professionalize, using AI to parse hundreds of millions of stolen records]]
+- `2026-09-15` [[2026-09-15-personal-ai-startup-instinct-in-talks-to-raise-1b-at-10b-qua|Personal-AI startup Instinct in talks to raise $1B at ~$10B — quadrupling in under a month]]
 - `2026-09-15` [[2026-09-15-meta-to-ship-camera-free-luna-smart-glasses-this-fall|Meta to ship camera-free "Luna" smart glasses this fall]]
 - `2026-09-15` [[2026-09-15-meta-ships-whatsapp-business-mcp-server-claude-cursor-codex|Meta ships WhatsApp Business MCP server — Claude, Cursor, Codex, and ChatGPT can now automate account setup]]
 - `2026-09-15` [[2026-09-15-meta-bundles-ai-plus-premium-features-into-meta-one-subscrip|Meta bundles AI plus premium features into "Meta One" subscription across Facebook, Instagram, and WhatsApp]]

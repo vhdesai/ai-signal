@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-09-13-anthropic-openai-and-google-quietly-discussed-an-industry-ai
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
+- 2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi
 - 2026-09-13-anthropic-openai-and-google-quietly-discussed-forming-an-ind
-- 2026-07-15-anthropic-and-openai-split-on-how-ai-should-be-regulated
 embedding_id: 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic is supporting a Massachusetts Senate proposal requiring major AI devel
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-industry-ai]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-09-13-anthropic-openai-and-google-quietly-discussed-forming-an-ind]] · [[2026-07-15-anthropic-and-openai-split-on-how-ai-should-be-regulated]]
+**Related:** [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-industry-ai]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi]] · [[2026-09-13-anthropic-openai-and-google-quietly-discussed-forming-an-ind]]
 <!-- graph:end -->
