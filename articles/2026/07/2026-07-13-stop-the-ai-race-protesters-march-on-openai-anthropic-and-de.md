@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: The Financial Express
 url_original: https://www.financialexpress.com/world-news/us-news/stop-ai-race-workers-students-protest-at-openai-anthropic-googles-us-offices-as-layoffs-surge/4289945/
 url_canonical: https://www.financialexpress.com/world-news/us-news/stop-ai-race-workers-students-protest-at-openai-anthropic-googles-us-offices-as-layoffs-surge/4289945/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-14_061758_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 10a9b908551560db512d25aea28288dbebdf86b0edde96e27bba53afcde69ed6
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-03-24-nearly-200-activists-from-pause-ai-and-quitgpt-marched-throu
 - 2026-07-11-hundreds-march-on-openai-anthropic-and-google-deepmind-offic
 - 2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools
-- 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
+- 2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de
 embedding_id: 2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Around 200 demonstrators marched between the San Francisco offices of OpenAI, An
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-11-200-protesters-march-on-openai-anthropic-and-google-deepmind]] · [[2026-03-24-nearly-200-activists-from-pause-ai-and-quitgpt-marched-throu]] · [[2026-07-11-hundreds-march-on-openai-anthropic-and-google-deepmind-offic]] · [[2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]]
+**Related:** [[2026-07-11-200-protesters-march-on-openai-anthropic-and-google-deepmind]] · [[2026-03-24-nearly-200-activists-from-pause-ai-and-quitgpt-marched-throu]] · [[2026-07-11-hundreds-march-on-openai-anthropic-and-google-deepmind-offic]] · [[2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools]] · [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de]]
 <!-- graph:end -->

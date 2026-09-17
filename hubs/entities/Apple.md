@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 404
+member_count: 407
 ---
 
 # Apple
 
-> Auto-generated entity hub. 404 connected article(s).
+> Auto-generated entity hub. 407 connected article(s).
 
+- `2026-09-16` [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h|Chinese hackers-for-hire professionalize, using AI to parse hundreds of millions of stolen records]]
+- `2026-09-16` [[2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-nvidia|Apple exploring return to server market with M8 Ultra + Nvidia NVLink Fusion]]
+- `2026-09-16` [[2026-09-16-apple-considers-return-to-server-market-in-talks-with-nvidia|Apple considers return to server market, in talks with Nvidia to use networking tech]]
 - `2026-09-14` [[2026-09-14-openai-acquires-smartphone-camera-ai-maker-glass-imaging-for|OpenAI acquires smartphone camera-AI maker Glass Imaging for over $300M]]
 - `2026-09-14` [[2026-09-14-openai-acquires-smartphone-camera-maker-glass-imaging-for-ov|OpenAI Acquires Smartphone-Camera Maker Glass Imaging for Over $300M]]
 - `2026-09-14` [[2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-pretrained-gener|MIT's HardFlow enforces hard constraints on pretrained generative models at deployment time]]

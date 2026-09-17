@@ -28,6 +28,7 @@ related_article_ids:
 - 2026-09-11-positron-ai-closes-875m-at-a-5b-valuation-for-memory-first-i
 - 2026-09-11-positron-ai-raises-875m-at-a-5b-valuation-for-memory-first-i
 - 2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba
+- 2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat
 embedding_id: 2026-09-12-positron-valued-at-5b-in-new-funding-as-ai-chip-demand-surge
 event_name: ''
 ---
@@ -41,5 +42,5 @@ The Wall Street Journal reports AI chip startup Positron has closed a new fundin
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-11-positron-ai-closes-875m-at-a-5b-valuation-for-memory-first-i]] · [[2026-09-11-positron-ai-raises-875m-at-a-5b-valuation-for-memory-first-i]] · [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]]
+**Related:** [[2026-09-11-positron-ai-closes-875m-at-a-5b-valuation-for-memory-first-i]] · [[2026-09-11-positron-ai-raises-875m-at-a-5b-valuation-for-memory-first-i]] · [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]] · [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat]]
 <!-- graph:end -->

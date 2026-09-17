@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Perplexity
-member_count: 73
+member_count: 74
 ---
 
 # Perplexity
 
-> Auto-generated entity hub. 73 connected article(s).
+> Auto-generated entity hub. 74 connected article(s).
 
+- `2026-09-15` [[2026-09-15-aeo-startup-profound-hits-unicorn-status-with-180m-series-d|AEO startup Profound hits unicorn status with $180M Series D — seven months after Series C]]
 - `2026-09-14` [[2026-09-14-openai-publishes-perplexity-case-study-astra-now-trusted-wit|OpenAI publishes Perplexity case study — Astra now trusted with end-to-end production systems]]
 - `2026-09-12` [[2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit|OpenAI publishes Perplexity case study — Astra now trusted with end-to-end production systems]]
 - `2026-09-06` [[2026-09-06-meta-fair-oxford-and-ucl-introduce-research-preference-model|Meta FAIR, Oxford and UCL introduce Research Preference Models that rank experiments before spending GPU hours]]

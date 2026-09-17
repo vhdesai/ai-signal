@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-the-second-international-ai-safety-report-2026-chaired-by-tu
+- 2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de
 - 2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i
 - 2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with
-- 2026-07-26-openai-presses-the-white-house-to-fast-track-frontier-model
 embedding_id: 2026-09-11-yoshua-bengio-the-training-process-itself-makes-ai-dangerous
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Deep-learning pioneer Yoshua Bengio published an essay arguing that AI dangerous
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-18-the-second-international-ai-safety-report-2026-chaired-by-tu]] · [[2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i]] · [[2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with]] · [[2026-07-26-openai-presses-the-white-house-to-fast-track-frontier-model]]
+**Related:** [[2026-05-18-the-second-international-ai-safety-report-2026-chaired-by-tu]] · [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de]] · [[2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i]] · [[2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with]]
 <!-- graph:end -->

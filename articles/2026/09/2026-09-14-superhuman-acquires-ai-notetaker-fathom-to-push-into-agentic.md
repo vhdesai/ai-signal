@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-28-ai-assistants-dominate-a-thinner-week-of-megadeals
 - 2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s
 - 2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto
-- 2026-09-11-cognition-raises-2b-at-a-48b-valuation-as-agentic-coding-tak
+- 2026-09-15-instinct-in-talks-to-raise-1b-at-10b-valuation-up-from-2-25b
 embedding_id: 2026-09-14-superhuman-acquires-ai-notetaker-fathom-to-push-into-agentic
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Superhuman is acquiring Fathom, a Y Combinator-backed AI meeting notetaker with 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
-**Related:** [[2026-08-28-ai-assistants-dominate-a-thinner-week-of-megadeals]] · [[2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s]] · [[2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto]] · [[2026-09-11-cognition-raises-2b-at-a-48b-valuation-as-agentic-coding-tak]]
+**Related:** [[2026-08-28-ai-assistants-dominate-a-thinner-week-of-megadeals]] · [[2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s]] · [[2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto]] · [[2026-09-15-instinct-in-talks-to-raise-1b-at-10b-valuation-up-from-2-25b]]
 <!-- graph:end -->

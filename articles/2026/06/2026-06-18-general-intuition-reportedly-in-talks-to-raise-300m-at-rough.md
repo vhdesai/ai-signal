@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-25-general-intuition-raises-320m-series-a-at-a-2-3b-valuation-t
 - 2026-06-25-general-intuition-raises-320m-to-train-agents-on-video-game
 - 2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at
+- 2026-09-15-instinct-in-talks-to-raise-1b-at-10b-valuation-up-from-2-25b
 - 2026-08-26-instinct-raises-350m-at-a-2-5b-valuation
-- 2026-08-25-robotics-startup-generalist-reaches-3b-valuation-on-200m-ext
 embedding_id: 2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough
 event_name: ''
 ---
@@ -38,5 +38,5 @@ General Intuition is reportedly discussing a $300 million raise at about a $2 bi
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-06-25-general-intuition-raises-320m-series-a-at-a-2-3b-valuation-t]] · [[2026-06-25-general-intuition-raises-320m-to-train-agents-on-video-game]] · [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]] · [[2026-08-26-instinct-raises-350m-at-a-2-5b-valuation]] · [[2026-08-25-robotics-startup-generalist-reaches-3b-valuation-on-200m-ext]]
+**Related:** [[2026-06-25-general-intuition-raises-320m-series-a-at-a-2-3b-valuation-t]] · [[2026-06-25-general-intuition-raises-320m-to-train-agents-on-video-game]] · [[2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at]] · [[2026-09-15-instinct-in-talks-to-raise-1b-at-10b-valuation-up-from-2-25b]] · [[2026-08-26-instinct-raises-350m-at-a-2-5b-valuation]]
 <!-- graph:end -->

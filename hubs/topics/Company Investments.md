@@ -1,14 +1,19 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1113
+member_count: 1118
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1113 connected article(s).
+> Auto-generated topic hub. 1118 connected article(s).
 
+- `2026-09-16` [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill|OpenAI in early talks for a new funding round at a $1.2 trillion valuation]]
+- `2026-09-16` [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat|OpenAI in early talks for a new funding round at $1.2T valuation]]
+- `2026-09-16` [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h|Chinese hackers-for-hire professionalize, using AI to parse hundreds of millions of stolen records]]
+- `2026-09-15` [[2026-09-15-instinct-in-talks-to-raise-1b-at-10b-valuation-up-from-2-25b|Instinct in talks to raise $1B at ~$10B valuation, up from $2.25B a month ago]]
 - `2026-09-15` [[2026-09-15-aiuc-raises-40m-series-a-to-underwrite-enterprise-ai-agent-l|AIUC Raises $40M Series A to Underwrite Enterprise AI-Agent Liability]]
+- `2026-09-15` [[2026-09-15-aeo-startup-profound-hits-unicorn-status-with-180m-series-d|AEO startup Profound hits unicorn status with $180M Series D — seven months after Series C]]
 - `2026-09-14` [[2026-09-14-z-ai-raises-5b-shares-fall-more-than-10-on-dilution|Z.ai Raises $5B; Shares Fall More Than 10% on Dilution]]
 - `2026-09-14` [[2026-09-14-superhuman-acquires-ai-notetaker-fathom-to-push-into-agentic|Superhuman acquires AI notetaker Fathom to push into agentic work]]
 - `2026-09-14` [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen|Nvidia and chip stocks fall as AI CEOs call for a development slowdown]]

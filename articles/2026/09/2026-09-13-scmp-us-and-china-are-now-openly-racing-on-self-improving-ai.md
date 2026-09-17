@@ -27,6 +27,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-20-china-s-top-ai-event-sends-a-direct-competitive-message-to-t
 - 2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o
+- 2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de
 - 2026-05-18-sensetime-co-founder-lin-dahua-told-cnbc-that-the-u-s-sancti
 embedding_id: 2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai
 event_name: ''
@@ -41,5 +42,5 @@ SCMP frames the new US–China AI competition explicitly around recursive self-i
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[DeepSeek]] · [[OpenAI]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-20-china-s-top-ai-event-sends-a-direct-competitive-message-to-t]] · [[2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o]] · [[2026-05-18-sensetime-co-founder-lin-dahua-told-cnbc-that-the-u-s-sancti]]
+**Related:** [[2026-07-20-china-s-top-ai-event-sends-a-direct-competitive-message-to-t]] · [[2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o]] · [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de]] · [[2026-05-18-sensetime-co-founder-lin-dahua-told-cnbc-that-the-u-s-sancti]]
 <!-- graph:end -->

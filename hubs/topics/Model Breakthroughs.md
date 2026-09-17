@@ -1,14 +1,17 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 2952
+member_count: 2955
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 2952 connected article(s).
+> Auto-generated topic hub. 2955 connected article(s).
 
+- `2026-09-16` [[2026-09-16-survey-nearly-one-in-five-leading-ai-researchers-already-put|Survey: nearly one in five leading AI researchers already put extinction-scenario probability above zero in 2024]]
 - `2026-09-15` [[2026-09-15-salesforce-and-nvidia-unveil-koa-an-open-weight-nemotron-bas|Salesforce and NVIDIA Unveil Koa — an Open-Weight Nemotron-Based Enterprise Reasoning Model]]
+- `2026-09-15` [[2026-09-15-google-deepmind-releases-gemini-3-8-live-at-1-38-hr-undercut|Google DeepMind releases Gemini 3.8 Live at $1.38/hr — undercuts OpenAI's GPT-Live-1 by ~two-thirds]]
+- `2026-09-15` [[2026-09-15-gates-foundation-commits-1b-over-two-years-to-close-ai-s-lan|Gates Foundation commits $1B+ over two years to close AI's language and access gaps in health, education, and agriculture]]
 - `2026-09-15` [[2026-09-15-aiuc-raises-40m-series-a-to-underwrite-enterprise-ai-agent-l|AIUC Raises $40M Series A to Underwrite Enterprise AI-Agent Liability]]
 - `2026-09-14` [[2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so|Xi at BRICS: China will lead AI cooperation for the Global South via new World AI Cooperation Organization]]
 - `2026-09-14` [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f|Shanghai AI Lab Ships Intern W0, a Physical World Model for Force-Tactile Robotics]]

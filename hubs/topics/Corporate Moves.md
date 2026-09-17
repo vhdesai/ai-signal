@@ -1,20 +1,35 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4245
+member_count: 4260
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4245 connected article(s).
+> Auto-generated topic hub. 4260 connected article(s).
 
+- `2026-09-16` [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety|WSJ: an AI slowdown "has to happen regardless of safety"]]
+- `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-at-dreamforce-for-third-party-agent|Salesforce ships AIforce at Dreamforce for third-party agent governance]]
+- `2026-09-16` [[2026-09-16-personal-ai-startup-instinct-in-talks-for-a-10-billion-valua|Personal-AI startup Instinct in talks for a $10 billion valuation on a $1B raise]]
+- `2026-09-16` [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill|OpenAI in early talks for a new funding round at a $1.2 trillion valuation]]
+- `2026-09-16` [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat|OpenAI in early talks for a new funding round at $1.2T valuation]]
+- `2026-09-16` [[2026-09-16-meta-launches-meta-one-ai-subscriptions-at-2-99-499-month|Meta launches "Meta One" AI subscriptions at $2.99–$499/month]]
+- `2026-09-16` [[2026-09-16-gartner-one-third-of-ai-replaced-workers-will-be-rehired-by|Gartner: one-third of AI-replaced workers will be rehired by 2029; <1% of 2025 losses AI-driven]]
+- `2026-09-16` [[2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-nvidia|Apple exploring return to server market with M8 Ultra + Nvidia NVLink Fusion]]
+- `2026-09-16` [[2026-09-16-apple-considers-return-to-server-market-in-talks-with-nvidia|Apple considers return to server market, in talks with Nvidia to use networking tech]]
+- `2026-09-16` [[2026-09-16-amazon-launches-alexa-in-india-with-hindi-support|Amazon launches Alexa+ in India with Hindi support]]
 - `2026-09-15` [[2026-09-15-salesforce-and-nvidia-launch-koa-a-jointly-post-trained-reas|Salesforce and Nvidia launch Koa, a jointly post-trained reasoning model on Nemotron]]
 - `2026-09-15` [[2026-09-15-salesforce-and-aws-expand-ai-integrations-across-slack-and-a|Salesforce and AWS expand AI integrations across Slack and Amazon Quick]]
 - `2026-09-15` [[2026-09-15-salesforce-and-aws-expand-integrations-across-slack-and-amaz|Salesforce and AWS Expand Integrations Across Slack and Amazon Quick With Zero-Copy Data Access]]
 - `2026-09-15` [[2026-09-15-morgan-stanley-china-now-leads-us-in-consumer-ai-adoption-on|Morgan Stanley: China Now Leads US in Consumer AI Adoption on Weekly-Usage Rates]]
+- `2026-09-15` [[2026-09-15-meta-to-ship-camera-free-luna-smart-glasses-this-fall|Meta to ship camera-free "Luna" smart glasses this fall]]
+- `2026-09-15` [[2026-09-15-meta-ships-whatsapp-business-mcp-server-claude-cursor-codex|Meta ships WhatsApp Business MCP server — Claude, Cursor, Codex, and ChatGPT can now automate account setup]]
+- `2026-09-15` [[2026-09-15-meta-bundles-ai-plus-premium-features-into-meta-one-subscrip|Meta bundles AI plus premium features into "Meta One" subscription across Facebook, Instagram, and WhatsApp]]
+- `2026-09-15` [[2026-09-15-instinct-in-talks-to-raise-1b-at-10b-valuation-up-from-2-25b|Instinct in talks to raise $1B at ~$10B valuation, up from $2.25B a month ago]]
 - `2026-09-15` [[2026-09-15-chinese-tech-giants-are-now-rationing-employee-ai-token-budg|Chinese Tech Giants Are Now Rationing Employee AI Token Budgets After Promoting Heavy Use]]
 - `2026-09-15` [[2026-09-15-bytedance-s-first-half-profit-drops-to-20-billion-weighed-do|ByteDance's First-Half Profit Drops to $20 Billion, Weighed Down by AI Spending]]
 - `2026-09-15` [[2026-09-15-bytedance-h1-profit-drops-to-20b-on-ai-spending-revenue-up-3|ByteDance H1 profit drops to $20B on AI spending, revenue up 30% to $120B]]
+- `2026-09-15` [[2026-09-15-aeo-startup-profound-hits-unicorn-status-with-180m-series-d|AEO startup Profound hits unicorn status with $180M Series D — seven months after Series C]]
 - `2026-09-14` [[2026-09-14-z-ai-raises-5b-shares-fall-more-than-10-on-dilution|Z.ai Raises $5B; Shares Fall More Than 10% on Dilution]]
 - `2026-09-14` [[2026-09-14-superhuman-acquires-ai-notetaker-fathom-to-push-into-agentic|Superhuman acquires AI notetaker Fathom to push into agentic work]]
 - `2026-09-14` [[2026-09-14-software-stocks-rally-chip-stocks-sell-off-as-market-prices|Software stocks rally, chip stocks sell off as market prices in AI slowdown]]

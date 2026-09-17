@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-14-beijing-issues-its-own-ai-risk-warnings-but-rejects-us-calls
 - 2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with
 - 2026-09-14-beijing-calls-slowdown-warnings-fearmongering-trump-dismisse
-- 2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s
+- 2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de
 embedding_id: 2026-09-14-altman-spells-out-the-pacing-case-we-could-lose-control-as-w
 event_name: ''
 ---
@@ -42,5 +42,5 @@ In a post just after midnight Monday, Altman wrote: “We welcome a federal fram
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-12-dario-amodei-calls-for-an-industry-speed-limit-and-altman-mu]] · [[2026-09-14-beijing-issues-its-own-ai-risk-warnings-but-rejects-us-calls]] · [[2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with]] · [[2026-09-14-beijing-calls-slowdown-warnings-fearmongering-trump-dismisse]] · [[2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s]]
+**Related:** [[2026-09-12-dario-amodei-calls-for-an-industry-speed-limit-and-altman-mu]] · [[2026-09-14-beijing-issues-its-own-ai-risk-warnings-but-rejects-us-calls]] · [[2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with]] · [[2026-09-14-beijing-calls-slowdown-warnings-fearmongering-trump-dismisse]] · [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de]]
 <!-- graph:end -->

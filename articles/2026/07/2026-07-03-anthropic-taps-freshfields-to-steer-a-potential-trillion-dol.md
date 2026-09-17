@@ -30,6 +30,7 @@ related_article_ids:
 - 2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion
 - 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest
 - 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
+- 2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat
 - 2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced
 embedding_id: 2026-07-03-anthropic-taps-freshfields-to-steer-a-potential-trillion-dol
 event_name: ''
@@ -44,5 +45,5 @@ Anthropic's bankers have retained UK law firm Freshfields — the adviser on Goo
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest]] · [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]] · [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]]
+**Related:** [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest]] · [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]] · [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat]] · [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]]
 <!-- graph:end -->

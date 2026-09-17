@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
 - 2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an
 - 2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace
-- 2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass
+- 2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de
 embedding_id: 2026-09-13-anthropic-s-three-step-pace-the-frontier-plan-wins-openai-xa
 event_name: ''
 ---
@@ -42,5 +42,5 @@ A technical synthesis of the pacing proposal and the evidence behind it, drawing
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]]
+**Related:** [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de]]
 <!-- graph:end -->

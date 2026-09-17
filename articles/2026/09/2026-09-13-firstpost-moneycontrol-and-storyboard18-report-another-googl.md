@@ -30,8 +30,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-13-google-deepmind-safety-researcher-resigns-as-google-moves-ai
 - 2026-09-13-google-deepmind-safety-researcher-resigns-warns-of-terrifyin
+- 2026-09-16-two-more-google-deepmind-researchers-resign-over-ai-safety
 - 2026-08-27-google-moves-90-person-ai-responsibility-team-out-of-deepmin
-- 2026-08-12-daily-ai-news-digest-august-12-2026
 embedding_id: 2026-09-13-firstpost-moneycontrol-and-storyboard18-report-another-googl
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Filtered to items published between September 12, 2026 at 6:45 AM PDT and Septem
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-09-13-google-deepmind-safety-researcher-resigns-as-google-moves-ai]] · [[2026-09-13-google-deepmind-safety-researcher-resigns-warns-of-terrifyin]] · [[2026-08-27-google-moves-90-person-ai-responsibility-team-out-of-deepmin]] · [[2026-08-12-daily-ai-news-digest-august-12-2026]]
+**Related:** [[2026-09-13-google-deepmind-safety-researcher-resigns-as-google-moves-ai]] · [[2026-09-13-google-deepmind-safety-researcher-resigns-warns-of-terrifyin]] · [[2026-09-16-two-more-google-deepmind-researchers-resign-over-ai-safety]] · [[2026-08-27-google-moves-90-person-ai-responsibility-team-out-of-deepmin]]
 <!-- graph:end -->

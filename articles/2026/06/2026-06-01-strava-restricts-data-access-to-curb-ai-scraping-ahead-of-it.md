@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-17-patreon-shifts-from-asking-to-blocking-ai-scraper-bots
-- 2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-model-use
 - 2026-07-17-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively
 - 2026-07-17-ai-commoditization-pressures-proprietary-model-economics
 - 2026-08-20-one-in-five-enterprises-cannot-halt-a-runaway-ai-agent-s-spe
+- 2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d
 embedding_id: 2026-06-01-strava-restricts-data-access-to-curb-ai-scraping-ahead-of-it
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Strava announced tighter limits on how third parties can access its activity dat
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-07-17-patreon-shifts-from-asking-to-blocking-ai-scraper-bots]] · [[2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-model-use]] · [[2026-07-17-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively]] · [[2026-07-17-ai-commoditization-pressures-proprietary-model-economics]] · [[2026-08-20-one-in-five-enterprises-cannot-halt-a-runaway-ai-agent-s-spe]]
+**Related:** [[2026-07-17-patreon-shifts-from-asking-to-blocking-ai-scraper-bots]] · [[2026-07-17-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively]] · [[2026-07-17-ai-commoditization-pressures-proprietary-model-economics]] · [[2026-08-20-one-in-five-enterprises-cannot-halt-a-runaway-ai-agent-s-spe]] · [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]]
 <!-- graph:end -->

@@ -25,11 +25,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat
+- 2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
 - 2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u
 - 2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation
-- 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
-- 2026-07-22-openai-s-ai-spending-commitments-approach-750b
 embedding_id: 2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo
 event_name: ''
 ---
@@ -43,5 +43,5 @@ OpenAI is making the case to investors that its early buildout of AI infrastruct
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u]] · [[2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]]
+**Related:** [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat]] · [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u]] · [[2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation]]
 <!-- graph:end -->

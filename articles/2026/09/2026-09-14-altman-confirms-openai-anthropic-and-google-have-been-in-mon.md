@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
-- 2026-09-11-altman-tells-staff-openai-is-open-to-slowing-frontier-develo
+- 2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de
 embedding_id: 2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Sam Altman confirmed that OpenAI now runs formal safety checks before major trai
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-09-11-altman-tells-staff-openai-is-open-to-slowing-frontier-develo]]
+**Related:** [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de]]
 <!-- graph:end -->

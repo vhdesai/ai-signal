@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-28-defense-ai-startup-shield-ai-closed-a-2-billion-funding-roun
+- 2026-09-15-instinct-in-talks-to-raise-1b-at-10b-valuation-up-from-2-25b
 embedding_id: 2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Shield AI is in talks to raise new funds at a valuation of at least $20 billion 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-03-28-defense-ai-startup-shield-ai-closed-a-2-billion-funding-roun]]
+**Related:** [[2026-03-28-defense-ai-startup-shield-ai-closed-a-2-billion-funding-roun]] · [[2026-09-15-instinct-in-talks-to-raise-1b-at-10b-valuation-up-from-2-25b]]
 <!-- graph:end -->

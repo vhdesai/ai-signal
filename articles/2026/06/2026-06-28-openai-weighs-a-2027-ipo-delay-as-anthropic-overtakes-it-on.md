@@ -24,10 +24,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat
 - 2026-08-17-anthropic-s-annualized-revenue-surges-to-65b-ipo-expected-th
 - 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest
 - 2026-05-10-anthropic-closing-50b-round-at-900b-valuation-final-private
-- 2026-09-14-anthropic-picks-nasdaq-for-potential-ipo-openai-rules-out-a
 embedding_id: 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI is leaning toward pushing its listing to 2027 — easing off a possible Q
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-17-anthropic-s-annualized-revenue-surges-to-65b-ipo-expected-th]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest]] · [[2026-05-10-anthropic-closing-50b-round-at-900b-valuation-final-private]] · [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo-openai-rules-out-a]]
+**Related:** [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat]] · [[2026-08-17-anthropic-s-annualized-revenue-surges-to-65b-ipo-expected-th]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest]] · [[2026-05-10-anthropic-closing-50b-round-at-900b-valuation-final-private]]
 <!-- graph:end -->

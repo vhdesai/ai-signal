@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th
-- 2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses
+- 2026-09-15-meta-to-ship-camera-free-luna-smart-glasses-this-fall
 embedding_id: 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Leaked roadmap documents indicate Meta is developing an AI-powered pendant capab
 
 **Entities:** [[Apple]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th]] · [[2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses]]
+**Related:** [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th]] · [[2026-09-15-meta-to-ship-camera-free-luna-smart-glasses-this-fall]]
 <!-- graph:end -->

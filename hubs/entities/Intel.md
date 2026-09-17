@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 107
+member_count: 111
 ---
 
 # Intel
 
-> Auto-generated entity hub. 107 connected article(s).
+> Auto-generated entity hub. 111 connected article(s).
 
+- `2026-09-16` [[2026-09-16-sk-hynix-in-talks-with-intel-to-make-memory-chips-in-the-us|SK Hynix in talks with Intel to make memory chips in the US for the first time]]
+- `2026-09-16` [[2026-09-16-sk-hynix-in-early-talks-with-intel-to-build-memory-chips-in|SK Hynix in early talks with Intel to build memory chips in the US]]
+- `2026-09-16` [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill|OpenAI in early talks for a new funding round at a $1.2 trillion valuation]]
+- `2026-09-16` [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h|Chinese hackers-for-hire professionalize, using AI to parse hundreds of millions of stolen records]]
 - `2026-09-14` [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen|Nvidia and chip stocks fall as AI CEOs call for a development slowdown]]
 - `2026-09-14` [[2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow|Global AI Stocks Sell Off After Lab CEOs Jointly Urge a Slowdown]]
 - `2026-09-14` [[2026-09-14-cornelis-raises-205m-to-challenge-nvidia-s-networking-domina|Cornelis raises $205M to challenge Nvidia's networking dominance]]

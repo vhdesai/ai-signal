@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-12-dario-amodei-calls-for-an-industry-speed-limit-and-altman-mu
+- 2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de
+- 2026-09-15-nvidia-s-jensen-huang-rejects-the-pacing-framing-ai-is-just
 - 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
-- 2026-09-13-princeton-researcher-proposes-the-recurrent-looped-transform
-- 2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le
 embedding_id: 2026-09-13-google-researcher-dissents-stability-is-the-speed-limit
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The substantive pushback to the pacing consensus came from Google researcher Pey
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-12-dario-amodei-calls-for-an-industry-speed-limit-and-altman-mu]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-09-13-princeton-researcher-proposes-the-recurrent-looped-transform]] · [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le]]
+**Related:** [[2026-09-12-dario-amodei-calls-for-an-industry-speed-limit-and-altman-mu]] · [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de]] · [[2026-09-15-nvidia-s-jensen-huang-rejects-the-pacing-framing-ai-is-just]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]]
 <!-- graph:end -->

@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica
+- 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
 - 2026-05-27-visa-warns-ai-scam-artists-are-fueling-nearly-1b-in-fraud
 - 2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti
 - 2026-09-15-morgan-stanley-china-now-leads-us-in-consumer-ai-adoption-on
-- 2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt
 embedding_id: 2026-09-06-china-launches-ai-app-to-detect-online-fraud-schemes
 event_name: ''
 ---
@@ -37,5 +37,5 @@ VOI.ID reported that China launched an AI application aimed at detecting online 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica]] · [[2026-05-27-visa-warns-ai-scam-artists-are-fueling-nearly-1b-in-fraud]] · [[2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti]] · [[2026-09-15-morgan-stanley-china-now-leads-us-in-consumer-ai-adoption-on]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]]
+**Related:** [[2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica]] · [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]] · [[2026-05-27-visa-warns-ai-scam-artists-are-fueling-nearly-1b-in-fraud]] · [[2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti]] · [[2026-09-15-morgan-stanley-china-now-leads-us-in-consumer-ai-adoption-on]]
 <!-- graph:end -->

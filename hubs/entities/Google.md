@@ -1,14 +1,20 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1348
+member_count: 1354
 ---
 
 # Google
 
-> Auto-generated entity hub. 1348 connected article(s).
+> Auto-generated entity hub. 1354 connected article(s).
 
+- `2026-09-16` [[2026-09-16-two-more-google-deepmind-researchers-resign-over-ai-safety|Two more Google DeepMind researchers resign over AI safety]]
+- `2026-09-16` [[2026-09-16-amazon-launches-alexa-in-india-with-hindi-support|Amazon launches Alexa+ in India with Hindi support]]
+- `2026-09-15` [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de|Trump's AI team confirms weeks of OpenAI–Anthropic–Google DeepMind safety talks; White House dismisses the slowdown premise]]
+- `2026-09-15` [[2026-09-15-nvidia-s-jensen-huang-rejects-the-pacing-framing-ai-is-just|Nvidia's Jensen Huang rejects the pacing framing: AI is "just hardware and software"]]
 - `2026-09-15` [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t|Nadella internal memo: pace the frontier or lose "permission to operate"]]
+- `2026-09-15` [[2026-09-15-musk-proposes-ai-labs-peer-review-each-other-s-frontier-mode|Musk proposes AI labs peer-review each other's frontier models]]
+- `2026-09-15` [[2026-09-15-google-deepmind-releases-gemini-3-8-live-at-1-38-hr-undercut|Google DeepMind releases Gemini 3.8 Live at $1.38/hr — undercuts OpenAI's GPT-Live-1 by ~two-thirds]]
 - `2026-09-15` [[2026-09-15-bytedance-s-first-half-profit-drops-to-20-billion-weighed-do|ByteDance's First-Half Profit Drops to $20 Billion, Weighed Down by AI Spending]]
 - `2026-09-14` [[2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale|Oracle Begins Layoffs as Ellison Cancels $7.5B Stock Sale]]
 - `2026-09-14` [[2026-09-14-apple-ships-siri-ai-and-the-next-generation-of-apple-intelli|Apple Ships Siri AI and the Next Generation of Apple Intelligence]]

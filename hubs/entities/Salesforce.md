@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 76
+member_count: 79
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 76 connected article(s).
+> Auto-generated entity hub. 79 connected article(s).
 
+- `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-at-dreamforce-for-third-party-agent|Salesforce ships AIforce at Dreamforce for third-party agent governance]]
+- `2026-09-16` [[2026-09-16-gartner-one-third-of-ai-replaced-workers-will-be-rehired-by|Gartner: one-third of AI-replaced workers will be rehired by 2029; <1% of 2025 losses AI-driven]]
+- `2026-09-16` [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h|Chinese hackers-for-hire professionalize, using AI to parse hundreds of millions of stolen records]]
 - `2026-09-15` [[2026-09-15-salesforce-and-nvidia-launch-koa-a-jointly-post-trained-reas|Salesforce and Nvidia launch Koa, a jointly post-trained reasoning model on Nemotron]]
 - `2026-09-15` [[2026-09-15-salesforce-and-nvidia-unveil-koa-an-open-weight-nemotron-bas|Salesforce and NVIDIA Unveil Koa — an Open-Weight Nemotron-Based Enterprise Reasoning Model]]
 - `2026-09-15` [[2026-09-15-salesforce-and-aws-expand-ai-integrations-across-slack-and-a|Salesforce and AWS expand AI integrations across Slack and Amazon Quick]]

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-19-amazon-makes-alexa-free-on-all-fire-tv-no-prime-required
 - 2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode
+- 2026-09-16-amazon-launches-alexa-in-india-with-hindi-support
 - 2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd
 - 2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l
-- 2026-08-11-amazon-s-panos-panay-to-make-the-post-smartphone-ai-hardware
 embedding_id: 2026-08-19-amazon-makes-ai-powered-alexa-free-on-all-fire-tv-no-prime-r
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Amazon is making Alexa+ free on all compatible Fire TV devices in the U.S., auto
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-19-amazon-makes-alexa-free-on-all-fire-tv-no-prime-required]] · [[2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode]] · [[2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd]] · [[2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l]] · [[2026-08-11-amazon-s-panos-panay-to-make-the-post-smartphone-ai-hardware]]
+**Related:** [[2026-08-19-amazon-makes-alexa-free-on-all-fire-tv-no-prime-required]] · [[2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode]] · [[2026-09-16-amazon-launches-alexa-in-india-with-hindi-support]] · [[2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd]] · [[2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l]]
 <!-- graph:end -->

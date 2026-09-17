@@ -25,8 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-natural-gas-prices-could-triple-near-ai-data-centers-researc
+- 2026-09-15-us-ai-data-centers-on-track-to-consume-more-natural-gas-than
+- 2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
-- 2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi
 embedding_id: 2026-08-14-hyperscaler-natural-gas-bets-may-create-new-ai-data-center-c
 event_name: ''
 ---
@@ -40,5 +41,5 @@ TechCrunch reported on Noreva research warning that natural gas prices could tri
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-14-natural-gas-prices-could-triple-near-ai-data-centers-researc]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi]]
+**Related:** [[2026-08-14-natural-gas-prices-could-triple-near-ai-data-centers-researc]] · [[2026-09-15-us-ai-data-centers-on-track-to-consume-more-natural-gas-than]] · [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]]
 <!-- graph:end -->

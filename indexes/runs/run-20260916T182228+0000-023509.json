@@ -1,0 +1,83 @@
+{
+  "run_id": "20260916T182228+0000-023509",
+  "started_at": "2026-09-16T18:22:28+00:00",
+  "finished_at": "2026-09-16T19:33:12+00:00",
+  "summary": {
+    "command": "run-daily",
+    "stages": {
+      "ingest": {
+        "digests_total": 1209,
+        "digests_changed": 3,
+        "changed": [
+          "news\\2026-09-16_065056_Final-Daily-AI-News-Digest.md",
+          "news\\2026-09-16_065920_Final-Daily-AI-News-Digest.md",
+          "news\\daily-ai-news-digest-2026-09-16.md"
+        ]
+      },
+      "split": {
+        "digests_parsed": 1211,
+        "articles_written": 11789,
+        "events_parsed": 88,
+        "event_articles_written": 78,
+        "skipped_publication_sources": 28,
+        "skipped_thin_articles": 4392
+      },
+      "index": {
+        "articles_indexed": 8746,
+        "embeddings": {
+          "enabled": true,
+          "added": 28,
+          "total": 8746,
+          "md_rewritten": 8746
+        }
+      },
+      "dedupe": {
+        "articles": 8746,
+        "exact_duplicates": 6,
+        "canonical": 6434,
+        "semantic_duplicates": 2306,
+        "related_links": 26682
+      },
+      "build-graph": {
+        "status": "ok",
+        "articles_linked": 8746,
+        "wikilinks_emitted": 59814,
+        "entity_hubs": 34,
+        "topic_hubs": 8,
+        "hubs_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\hubs"
+      },
+      "validate-urls": {
+        "checked": 3815,
+        "ok": 2759,
+        "broken": 1056,
+        "missing": 4908,
+        "skipped": 23
+      },
+      "repair-urls": {
+        "attempted": 17,
+        "repaired": 14,
+        "unresolved": 3,
+        "skipped": 0,
+        "reverted": 0,
+        "deferred": 0,
+        "terminated": "completed",
+        "elapsed_s": 193.5,
+        "max_workers": 10
+      },
+      "build-site-daily": {
+        "pages": 270,
+        "articles": 8746,
+        "canonical": 6434,
+        "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site",
+        "mode": "incremental",
+        "changed_articles": 126,
+        "written_files": 97,
+        "elapsed_s": 20.38
+      },
+      "publish": {
+        "status": "dry-run",
+        "note": "site/ generated locally; no remote publish configured"
+      }
+    }
+  }
+}

@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif
 - 2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip
 - 2026-08-30-apple-s-mac-sales-surge-as-developers-buy-hardware-for-local
+- 2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-nvidia
 - 2026-04-02-arm-holdings-whose-instruction-set-architecture-underpins-ch
-- 2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte
 embedding_id: 2026-08-26-apple-debuts-pcs-and-chips-dedicated-to-enterprise-ai-worklo
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Apple launched PCs and chips specifically designed for enterprise AI compute—s
 
 **Entities:** [[AMD]] · [[Apple]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif]] · [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip]] · [[2026-08-30-apple-s-mac-sales-surge-as-developers-buy-hardware-for-local]] · [[2026-04-02-arm-holdings-whose-instruction-set-architecture-underpins-ch]] · [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]]
+**Related:** [[2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif]] · [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip]] · [[2026-08-30-apple-s-mac-sales-surge-as-developers-buy-hardware-for-local]] · [[2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-nvidia]] · [[2026-04-02-arm-holdings-whose-instruction-set-architecture-underpins-ch]]
 <!-- graph:end -->

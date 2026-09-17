@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-16-sk-hynix-in-early-talks-with-intel-to-build-memory-chips-in
+- 2026-09-16-sk-hynix-in-talks-with-intel-to-make-memory-chips-in-the-us
 - 2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de
 - 2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth
-- 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
-- 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 embedding_id: 2026-07-10-u-s-officials-urge-ai-memory-suppliers-to-build-domestic-fab
 event_name: ''
 ---
@@ -38,5 +38,5 @@ In coverage of SK Hynix’s record listing, U.S. officials pressed SK Hynix and 
 
 **Entities:** [[Samsung]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]] · [[2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]]
+**Related:** [[2026-09-16-sk-hynix-in-early-talks-with-intel-to-build-memory-chips-in]] · [[2026-09-16-sk-hynix-in-talks-with-intel-to-make-memory-chips-in-the-us]] · [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]] · [[2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth]]
 <!-- graph:end -->

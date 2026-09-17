@@ -1,13 +1,16 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 1898
+member_count: 1901
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 1898 connected article(s).
+> Auto-generated topic hub. 1901 connected article(s).
 
+- `2026-09-16` [[2026-09-16-sk-hynix-in-talks-with-intel-to-make-memory-chips-in-the-us|SK Hynix in talks with Intel to make memory chips in the US for the first time]]
+- `2026-09-16` [[2026-09-16-sk-hynix-in-early-talks-with-intel-to-build-memory-chips-in|SK Hynix in early talks with Intel to build memory chips in the US]]
+- `2026-09-15` [[2026-09-15-us-ai-data-centers-on-track-to-consume-more-natural-gas-than|US AI data centers on track to consume more natural gas than Germany and Japan combined by 2035]]
 - `2026-09-15` [[2026-09-15-agility-robotics-releases-digit-5-first-humanoid-designed-to|Agility Robotics Releases Digit 5 — First Humanoid Designed to Work Alongside People Without Safety Fencing]]
 - `2026-09-14` [[2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen|Nvidia and chip stocks fall as AI CEOs call for a development slowdown]]
 - `2026-09-14` [[2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-develo|NVIDIA Adds CUDA-Q Logical for Fault-Tolerant Quantum Development]]

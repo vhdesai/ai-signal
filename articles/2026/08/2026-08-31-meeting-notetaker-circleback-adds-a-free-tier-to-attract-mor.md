@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-09-03-meta-offers-95-token-discounts-to-users-who-share-muse-spark
 - 2026-08-20-meta-ai-launches-mac-app-with-system-wide-dictation-powered
 - 2026-09-14-superhuman-acquires-ai-notetaker-fathom-to-push-into-agentic
+- 2026-09-15-meta-bundles-ai-plus-premium-features-into-meta-one-subscrip
 - 2026-08-27-plaud-launches-ai-note-taking-earphones-with-esim-enabled-ca
-- 2026-07-21-jack-dorsey-s-buzz-puts-humans-and-ai-agents-in-the-same-wor
 embedding_id: 2026-08-31-meeting-notetaker-circleback-adds-a-free-tier-to-attract-mor
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch reports that Circleback is adding a free tier for its AI meeting note
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-09-03-meta-offers-95-token-discounts-to-users-who-share-muse-spark]] · [[2026-08-20-meta-ai-launches-mac-app-with-system-wide-dictation-powered]] · [[2026-09-14-superhuman-acquires-ai-notetaker-fathom-to-push-into-agentic]] · [[2026-08-27-plaud-launches-ai-note-taking-earphones-with-esim-enabled-ca]] · [[2026-07-21-jack-dorsey-s-buzz-puts-humans-and-ai-agents-in-the-same-wor]]
+**Related:** [[2026-09-03-meta-offers-95-token-discounts-to-users-who-share-muse-spark]] · [[2026-08-20-meta-ai-launches-mac-app-with-system-wide-dictation-powered]] · [[2026-09-14-superhuman-acquires-ai-notetaker-fathom-to-push-into-agentic]] · [[2026-09-15-meta-bundles-ai-plus-premium-features-into-meta-one-subscrip]] · [[2026-08-27-plaud-launches-ai-note-taking-earphones-with-esim-enabled-ca]]
 <!-- graph:end -->

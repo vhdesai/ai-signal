@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption
+- 2026-09-16-gartner-one-third-of-ai-replaced-workers-will-be-rehired-by
 - 2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal
 - 2026-07-29-demand-outweighs-supply-for-ai-skilled-workers
 - 2026-08-18-survey-85-of-companies-burned-by-an-ai-mistake-are-cutting-h
-- 2026-09-11-andrew-ng-ai-engineering-skill-is-changing-the-scope-of-the
 embedding_id: 2026-06-28-ford-rehires-350-veteran-engineers-after-ai-driven-quality-s
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Ford executives told Bloomberg the automaker brought back about 350 experienced 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption]] · [[2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal]] · [[2026-07-29-demand-outweighs-supply-for-ai-skilled-workers]] · [[2026-08-18-survey-85-of-companies-burned-by-an-ai-mistake-are-cutting-h]] · [[2026-09-11-andrew-ng-ai-engineering-skill-is-changing-the-scope-of-the]]
+**Related:** [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption]] · [[2026-09-16-gartner-one-third-of-ai-replaced-workers-will-be-rehired-by]] · [[2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal]] · [[2026-07-29-demand-outweighs-supply-for-ai-skilled-workers]] · [[2026-08-18-survey-85-of-companies-burned-by-an-ai-mistake-are-cutting-h]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-14-robinhood-ventures-fund-ii-ipos-to-give-retail-investors-acc
 - 2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe
 - 2026-07-31-ai-leaders-dominate-venture-secondary-trading-but-concentrat
-- 2026-03-24-openai-is-pitching-private-equity-firms-including-tpg-and-ba
+- 2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat
 embedding_id: 2026-08-14-robinhood-ventures-fund-ii-ipos-for-retail-ai-startup-access
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Robinhood Ventures Fund II began trading on NYSE after raising ~$200M at $25/sha
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Related:** [[2026-08-14-robinhood-ventures-fund-ii-ipos-to-give-retail-investors-acc]] · [[2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe]] · [[2026-07-31-ai-leaders-dominate-venture-secondary-trading-but-concentrat]] · [[2026-03-24-openai-is-pitching-private-equity-firms-including-tpg-and-ba]]
+**Related:** [[2026-08-14-robinhood-ventures-fund-ii-ipos-to-give-retail-investors-acc]] · [[2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe]] · [[2026-07-31-ai-leaders-dominate-venture-secondary-trading-but-concentrat]] · [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat]]
 <!-- graph:end -->

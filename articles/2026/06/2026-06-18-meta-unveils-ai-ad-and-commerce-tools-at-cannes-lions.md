@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine
 - 2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
-- 2026-09-03-amazon-and-meta-ai-bots-account-for-most-website-visits
+- 2026-09-15-meta-bundles-ai-plus-premium-features-into-meta-one-subscrip
 embedding_id: 2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Meta announced AI-powered advertising and commerce tools across Facebook, Instag
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]] · [[2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-09-03-amazon-and-meta-ai-bots-account-for-most-website-visits]]
+**Related:** [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]] · [[2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-09-15-meta-bundles-ai-plus-premium-features-into-meta-one-subscrip]]
 <!-- graph:end -->

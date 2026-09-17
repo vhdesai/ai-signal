@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine
 - 2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance
 - 2026-08-13-meta-joins-openai-and-blackrock-in-signing-union-pacts-for-a
-- 2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook
-- 2026-08-12-apple-in-talks-to-pay-publishers-for-news-to-power-an-ai-sir
+- 2026-09-15-meta-bundles-ai-plus-premium-features-into-meta-one-subscrip
+- 2026-09-16-meta-launches-meta-one-ai-subscriptions-at-2-99-499-month
 embedding_id: 2026-07-28-newsmax-and-meta-sign-ai-content-partnership
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Newsmax (NYSE: NMAX) said it entered an AI content partnership giving Meta acces
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]] · [[2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance]] · [[2026-08-13-meta-joins-openai-and-blackrock-in-signing-union-pacts-for-a]] · [[2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook]] · [[2026-08-12-apple-in-talks-to-pay-publishers-for-news-to-power-an-ai-sir]]
+**Related:** [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]] · [[2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance]] · [[2026-08-13-meta-joins-openai-and-blackrock-in-signing-union-pacts-for-a]] · [[2026-09-15-meta-bundles-ai-plus-premium-features-into-meta-one-subscrip]] · [[2026-09-16-meta-launches-meta-one-ai-subscriptions-at-2-99-499-month]]
 <!-- graph:end -->

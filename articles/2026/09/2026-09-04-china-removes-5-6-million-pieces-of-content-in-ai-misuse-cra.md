@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-02-xinhua-reported-that-chinese-authorities-removed-5-6-million
 - 2026-08-05-meta-removed-more-than-50-ads-containing-ai-generated-child
 - 2026-07-25-china-crackdown-on-ai-companions-triggers-backlash
-- 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
+- 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
 embedding_id: 2026-09-04-china-removes-5-6-million-pieces-of-content-in-ai-misuse-cra
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Cyberspace Administration of China reported removing more than 5.61 million 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-04-china-reports-removing-5-6m-pieces-of-content-in-ai-misuse-c]] · [[2026-09-02-xinhua-reported-that-chinese-authorities-removed-5-6-million]] · [[2026-08-05-meta-removed-more-than-50-ads-containing-ai-generated-child]] · [[2026-07-25-china-crackdown-on-ai-companions-triggers-backlash]] · [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]]
+**Related:** [[2026-09-04-china-reports-removing-5-6m-pieces-of-content-in-ai-misuse-c]] · [[2026-09-02-xinhua-reported-that-chinese-authorities-removed-5-6-million]] · [[2026-08-05-meta-removed-more-than-50-ads-containing-ai-generated-child]] · [[2026-07-25-china-crackdown-on-ai-companions-triggers-backlash]] · [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]]
 <!-- graph:end -->

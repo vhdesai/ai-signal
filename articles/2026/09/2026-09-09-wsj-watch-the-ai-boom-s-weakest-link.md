@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t
+- 2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety
 - 2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc
 - 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris
-- 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
 embedding_id: 2026-09-09-wsj-watch-the-ai-boom-s-weakest-link
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Wall Street Journal's Markets A.M. flagged the AI trade's "weakest link" as 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t]] · [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]]
+**Related:** [[2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t]] · [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety]] · [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris]]
 <!-- graph:end -->
