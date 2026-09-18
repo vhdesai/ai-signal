@@ -42,11 +42,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in
 - 2026-08-31-anthropic-forcibly-signs-out-claude-users-after-infostealer
 - 2026-04-16-anthropic-has-begun-requiring-government-id-verification-via
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 - 2026-04-04-effective-april-5-at-12pm-pt-anthropic-is-severing-the-abili
-- 2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific
 embedding_id: 2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude
 event_name: ''
 ---
@@ -60,5 +60,5 @@ Anthropic confirmed Claude is “only available to people over 18 years” and h
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-31-anthropic-forcibly-signs-out-claude-users-after-infostealer]] · [[2026-04-16-anthropic-has-begun-requiring-government-id-verification-via]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-04-04-effective-april-5-at-12pm-pt-anthropic-is-severing-the-abili]] · [[2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific]]
+**Related:** [[2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in]] · [[2026-08-31-anthropic-forcibly-signs-out-claude-users-after-infostealer]] · [[2026-04-16-anthropic-has-begun-requiring-government-id-verification-via]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-04-04-effective-april-5-at-12pm-pt-anthropic-is-severing-the-abili]]
 <!-- graph:end -->

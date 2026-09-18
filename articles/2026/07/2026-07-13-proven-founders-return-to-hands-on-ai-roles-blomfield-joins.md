@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in
 - 2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude
 - 2026-08-05-anthropic-confirms-it-is-building-an-in-house-custom-silicon
 embedding_id: 2026-07-13-proven-founders-return-to-hands-on-ai-roles-blomfield-joins
@@ -36,5 +37,5 @@ Monzo/GoCardless co-founder Tom Blomfield leaves YC to join Anthropic's compute 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude]] · [[2026-08-05-anthropic-confirms-it-is-building-an-in-house-custom-silicon]]
+**Related:** [[2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in]] · [[2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude]] · [[2026-08-05-anthropic-confirms-it-is-building-an-in-house-custom-silicon]]
 <!-- graph:end -->

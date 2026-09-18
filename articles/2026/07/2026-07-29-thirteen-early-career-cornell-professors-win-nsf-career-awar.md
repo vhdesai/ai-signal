@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh
+- 2026-09-17-cornell-launches-ai-integration-pilots-with-2m-dake-family-g
 - 2026-09-03-new-cornell-leads-7-5m-usda-center-of-excellence-for-orchard
 - 2026-07-28-carnegie-mellon-brings-middle-schoolers-into-robotics-throug
 - 2026-08-28-cornell-what-happened-when-we-put-ai-to-work
-- 2026-08-03-georgia-tech-to-lead-nsf-cloud-laboratory-for-autonomous-man
 embedding_id: 2026-07-29-thirteen-early-career-cornell-professors-win-nsf-career-awar
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Thirteen early-career Cornell faculty received NSF Faculty Early Career Developm
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh]] · [[2026-09-03-new-cornell-leads-7-5m-usda-center-of-excellence-for-orchard]] · [[2026-07-28-carnegie-mellon-brings-middle-schoolers-into-robotics-throug]] · [[2026-08-28-cornell-what-happened-when-we-put-ai-to-work]] · [[2026-08-03-georgia-tech-to-lead-nsf-cloud-laboratory-for-autonomous-man]]
+**Related:** [[2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh]] · [[2026-09-17-cornell-launches-ai-integration-pilots-with-2m-dake-family-g]] · [[2026-09-03-new-cornell-leads-7-5m-usda-center-of-excellence-for-orchard]] · [[2026-07-28-carnegie-mellon-brings-middle-schoolers-into-robotics-throug]] · [[2026-08-28-cornell-what-happened-when-we-put-ai-to-work]]
 <!-- graph:end -->

@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 201
+member_count: 205
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 201 connected article(s).
+> Auto-generated entity hub. 205 connected article(s).
 
+- `2026-09-17` [[2026-09-17-huawei-s-eric-xu-tells-chinese-labs-to-speed-up-not-slow-dow|Huawei's Eric Xu tells Chinese labs to speed up, not slow down]]
+- `2026-09-17` [[2026-09-17-huawei-pulls-ascend-960dt-forward-three-quarters-to-q1-2027|Huawei pulls Ascend 960DT forward three quarters to Q1 2027]]
+- `2026-09-17` [[2026-09-17-huawei-forecasts-agents-will-drive-over-90-of-ai-traffic-by|Huawei forecasts agents will drive over 90% of AI traffic by 2035]]
+- `2026-09-17` [[2026-09-17-huawei-details-full-ascend-roadmap-ascend-960dt-pulled-to-q1|Huawei details full Ascend roadmap; Ascend 960DT pulled to Q1 2027, Atlas 960 SuperPoD unveiled]]
 - `2026-09-16` [[2026-09-16-huawei-predicts-90-of-global-token-traffic-will-come-from-au|Huawei predicts 90% of global token traffic will come from autonomous AI agents by 2035]]
 - `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]

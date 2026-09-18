@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-11-xai-with-cursor-launches-grok-bot-always-on-ai-teammates-wit
 - 2026-09-04-xai-adds-enterprise-access-network-and-audit-controls-to-gro
+- 2026-09-18-xai-ships-three-grokbot-enterprise-products-grok-bot-adds-vo
 - 2026-08-20-musk-says-grok-can-earn-you-money-as-xai-pushes-beyond-chat
 - 2026-04-01-elon-musk-s-xai-released-grok-4-20-multi-agent-beta-in-mid-m
-- 2026-09-12-microsoft-adds-xai-s-grok-models-to-the-copilot-lineup
 embedding_id: 2026-09-11-xai-s-grok-bot-adds-salesforce-hubspot-gong-clay-and-microso
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The official Grok Bot account said sales teams can now connect bots to Salesforc
 
 **Entities:** [[Microsoft]] · [[Salesforce]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-11-xai-with-cursor-launches-grok-bot-always-on-ai-teammates-wit]] · [[2026-09-04-xai-adds-enterprise-access-network-and-audit-controls-to-gro]] · [[2026-08-20-musk-says-grok-can-earn-you-money-as-xai-pushes-beyond-chat]] · [[2026-04-01-elon-musk-s-xai-released-grok-4-20-multi-agent-beta-in-mid-m]] · [[2026-09-12-microsoft-adds-xai-s-grok-models-to-the-copilot-lineup]]
+**Related:** [[2026-08-11-xai-with-cursor-launches-grok-bot-always-on-ai-teammates-wit]] · [[2026-09-04-xai-adds-enterprise-access-network-and-audit-controls-to-gro]] · [[2026-09-18-xai-ships-three-grokbot-enterprise-products-grok-bot-adds-vo]] · [[2026-08-20-musk-says-grok-can-earn-you-money-as-xai-pushes-beyond-chat]] · [[2026-04-01-elon-musk-s-xai-released-grok-4-20-multi-agent-beta-in-mid-m]]
 <!-- graph:end -->

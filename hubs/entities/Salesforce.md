@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 81
+member_count: 82
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 81 connected article(s).
+> Auto-generated entity hub. 82 connected article(s).
 
+- `2026-09-17` [[2026-09-17-crusoe-raises-3-9b-series-f-at-30-9b-valuation|Crusoe raises $3.9B Series F at $30.9B valuation]]
 - `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-plus-nvidia-built-koa-crm-reasoning|Salesforce ships AIforce plus Nvidia-built "Koa" CRM reasoning model at Dreamforce]]
 - `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-at-dreamforce-for-third-party-agent|Salesforce ships AIforce at Dreamforce for third-party agent governance]]
 - `2026-09-16` [[2026-09-16-gartner-one-third-of-ai-replaced-workers-will-be-rehired-by|Gartner: one-third of AI-replaced workers will be rehired by 2029; <1% of 2025 losses AI-driven]]

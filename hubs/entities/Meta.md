@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 719
+member_count: 722
 ---
 
 # Meta
 
-> Auto-generated entity hub. 719 connected article(s).
+> Auto-generated entity hub. 722 connected article(s).
 
+- `2026-09-18` [[2026-09-18-meta-muse-launches-for-iphone-and-mac-muse-and-rival-instinc|Meta Muse launches for iPhone and Mac; Muse and rival Instinct both add calling]]
+- `2026-09-18` [[2026-09-18-alibaba-qwen-releases-qwen3-8-omni-flash-a-1m-context-omni-m|Alibaba Qwen releases Qwen3.8-Omni-Flash, a 1M-context omni-modal model for agentic audio-video tool use]]
+- `2026-09-17` [[2026-09-17-meta-oversight-board-calls-meta-s-ai-deepfake-rules-fundamen|Meta Oversight Board calls Meta's AI-deepfake rules "fundamentally inadequate"]]
 - `2026-09-16` [[2026-09-16-zuckerberg-breaks-silence-ai-safety-is-a-competitive-necessi|Zuckerberg breaks silence: AI safety is a competitive necessity, not a group slowdown]]
 - `2026-09-16` [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety|WSJ: an AI slowdown "has to happen regardless of safety"]]
 - `2026-09-16` [[2026-09-16-personal-ai-startup-instinct-in-talks-for-a-10-billion-valua|Personal-AI startup Instinct in talks for a $10 billion valuation on a $1B raise]]

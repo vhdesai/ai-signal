@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 374
+member_count: 375
 ---
 
 # xAI
 
-> Auto-generated entity hub. 374 connected article(s).
+> Auto-generated entity hub. 375 connected article(s).
 
+- `2026-09-18` [[2026-09-18-xai-ships-three-grokbot-enterprise-products-grok-bot-adds-vo|xAI ships three GrokBot enterprise products; Grok Bot adds voice mode]]
 - `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-plus-nvidia-built-koa-crm-reasoning|Salesforce ships AIforce plus Nvidia-built "Koa" CRM reasoning model at Dreamforce]]
 - `2026-09-15` [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t|Nadella internal memo: pace the frontier or lose "permission to operate"]]
 - `2026-09-15` [[2026-09-15-musk-proposes-ai-labs-peer-review-each-other-s-frontier-mode|Musk proposes AI labs peer-review each other's frontier models]]

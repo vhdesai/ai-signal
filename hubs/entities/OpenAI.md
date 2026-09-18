@@ -1,13 +1,28 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2256
+member_count: 2271
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2256 connected article(s).
+> Auto-generated entity hub. 2271 connected article(s).
 
+- `2026-09-18` [[2026-09-18-softbank-adds-21b-in-new-borrowing-capacity-to-fund-ai-bets|SoftBank adds ~$21B in new borrowing capacity to fund AI bets]]
+- `2026-09-18` [[2026-09-18-protesters-gather-outside-openai-and-anthropic-san-francisco|Protesters gather outside OpenAI and Anthropic San Francisco offices over frontier AI pace]]
+- `2026-09-18` [[2026-09-18-microsoft-patches-cvss-10-0-azure-ai-foundry-flaw-enabling-u|Microsoft patches CVSS 10.0 Azure AI Foundry flaw enabling unauthorized privilege escalation]]
+- `2026-09-18` [[2026-09-18-anthropic-and-openai-start-shopping-for-20-30-mw-sites|Anthropic and OpenAI start shopping for 20–30 MW sites]]
+- `2026-09-17` [[2026-09-17-unsealed-filings-show-microsoft-and-openai-executives-privat|Unsealed filings show Microsoft and OpenAI executives privately called AI scraping "theft"]]
+- `2026-09-17` [[2026-09-17-researchers-used-anthropic-s-claude-opus-5-to-breach-openai|Researchers used Anthropic's Claude Opus 5 to breach OpenAI's internal environment, exfiltrate source code, and collect a $6,500 bounty]]
+- `2026-09-17` [[2026-09-17-pew-ai-job-loss-expectations-outweigh-job-creation-in-34-of|Pew: AI job-loss expectations outweigh job creation in 34 of 37 countries]]
+- `2026-09-17` [[2026-09-17-openai-ships-astra-for-law-a-gpt-6-configuration-for-legal-w|OpenAI ships Astra for Law, a GPT-6 configuration for legal work]]
+- `2026-09-17` [[2026-09-17-openai-ships-astra-for-law-a-gpt-6-astra-configuration-for-l|OpenAI ships Astra for Law, a GPT-6 Astra configuration for legal work]]
+- `2026-09-17` [[2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six|OpenAI publishes misalignment disclosure framework with six live incident reports]]
+- `2026-09-17` [[2026-09-17-openai-opens-chatgpt-to-sponsored-agents-wiring-ads-into-hub|OpenAI opens ChatGPT to "Sponsored Agents," wiring ads into HubSpot and Shopify]]
+- `2026-09-17` [[2026-09-17-huawei-s-eric-xu-tells-chinese-labs-to-speed-up-not-slow-dow|Huawei's Eric Xu tells Chinese labs to speed up, not slow down]]
+- `2026-09-17` [[2026-09-17-google-deepmind-launches-the-deepmind-institute-proposes-us|Google DeepMind launches the DeepMind Institute, proposes US-led frontier AI standards body]]
+- `2026-09-17` [[2026-09-17-crusoe-raises-3-9b-series-f-at-30-9b-valuation|Crusoe raises $3.9B Series F at $30.9B valuation]]
+- `2026-09-17` [[2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in|Anthropic: Claude is taking an "extraordinarily active" role in building its own successor]]
 - `2026-09-16` [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety|WSJ: an AI slowdown "has to happen regardless of safety"]]
 - `2026-09-16` [[2026-09-16-two-more-google-deepmind-safety-researchers-resign|Two more Google DeepMind safety researchers resign]]
 - `2026-09-16` [[2026-09-16-two-more-google-deepmind-researchers-resign-over-ai-safety|Two more Google DeepMind researchers resign over AI safety]]

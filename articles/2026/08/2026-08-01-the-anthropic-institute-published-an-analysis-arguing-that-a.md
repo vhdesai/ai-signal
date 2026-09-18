@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn
+- 2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in
 - 2026-05-09-anthropic-released-research-on-natural-language-autoencoders
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
-- 2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s
 embedding_id: 2026-08-01-the-anthropic-institute-published-an-analysis-arguing-that-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Anthropic Institute published an analysis arguing that AI is increasingly ac
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn]] · [[2026-05-09-anthropic-released-research-on-natural-language-autoencoders]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]]
+**Related:** [[2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn]] · [[2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in]] · [[2026-05-09-anthropic-released-research-on-natural-language-autoencoders]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]]
 <!-- graph:end -->

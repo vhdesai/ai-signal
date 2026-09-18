@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
 - 2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
+- 2026-09-17-insilico-medicine-releases-open-longevity-ai-toolkit-and-lon
 embedding_id: 2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI released GeneBench-Pro, a research-level benchmark measuring how AI agent
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
+**Related:** [[2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]] · [[2026-09-17-insilico-medicine-releases-open-longevity-ai-toolkit-and-lon]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v
+- 2026-09-17-researchers-used-anthropic-s-claude-opus-5-to-breach-openai
 - 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
 - 2026-04-01-anthropic-s-claude-code-platform-experienced-a-significant-s
 - 2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu
-- 2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn
 embedding_id: 2026-08-31-researcher-achieves-remote-code-execution-against-claude-cod
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Security researcher Johann Rehberger demonstrated an RCE attack chain against An
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-04-01-anthropic-s-claude-code-platform-experienced-a-significant-s]] · [[2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu]] · [[2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn]]
+**Related:** [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]] · [[2026-09-17-researchers-used-anthropic-s-claude-opus-5-to-breach-openai]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-04-01-anthropic-s-claude-code-platform-experienced-a-significant-s]] · [[2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu]]
 <!-- graph:end -->

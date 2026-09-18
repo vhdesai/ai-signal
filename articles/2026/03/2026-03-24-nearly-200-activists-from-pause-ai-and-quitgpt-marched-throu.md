@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-11-200-protesters-march-on-openai-anthropic-and-google-deepmind
 - 2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de
+- 2026-09-18-protesters-gather-outside-openai-and-anthropic-san-francisco
 - 2026-07-11-hundreds-march-on-openai-anthropic-and-google-deepmind-offic
 - 2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools
-- 2026-07-24-more-than-20-tech-companies-urge-washington-not-to-restrict
 embedding_id: 2026-03-24-nearly-200-activists-from-pause-ai-and-quitgpt-marched-throu
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Nearly 200 activists from Pause AI and QuitGPT marched through San Francisco yes
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-11-200-protesters-march-on-openai-anthropic-and-google-deepmind]] · [[2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de]] · [[2026-07-11-hundreds-march-on-openai-anthropic-and-google-deepmind-offic]] · [[2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools]] · [[2026-07-24-more-than-20-tech-companies-urge-washington-not-to-restrict]]
+**Related:** [[2026-07-11-200-protesters-march-on-openai-anthropic-and-google-deepmind]] · [[2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de]] · [[2026-09-18-protesters-gather-outside-openai-and-anthropic-san-francisco]] · [[2026-07-11-hundreds-march-on-openai-anthropic-and-google-deepmind-offic]] · [[2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools]]
 <!-- graph:end -->

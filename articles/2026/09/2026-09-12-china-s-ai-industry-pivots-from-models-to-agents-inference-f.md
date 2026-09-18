@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021
 - 2026-05-08-the-stanford-hai-2026-ai-index-the-most-comprehensive-annual
 - 2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i
+- 2026-09-17-huawei-forecasts-agents-will-drive-over-90-of-ai-traffic-by
 - 2026-05-26-press-and-analyst-commentary-on-stanford-hai-s-2026-ai-index
-- 2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2
 embedding_id: 2026-09-12-china-s-ai-industry-pivots-from-models-to-agents-inference-f
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A China Telecom Research Institute report, carried by state broadcaster CCTV, sa
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-05-08-the-stanford-hai-2026-ai-index-the-most-comprehensive-annual]] · [[2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i]] · [[2026-05-26-press-and-analyst-commentary-on-stanford-hai-s-2026-ai-index]] · [[2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2]]
+**Related:** [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-05-08-the-stanford-hai-2026-ai-index-the-most-comprehensive-annual]] · [[2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i]] · [[2026-09-17-huawei-forecasts-agents-will-drive-over-90-of-ai-traffic-by]] · [[2026-05-26-press-and-analyst-commentary-on-stanford-hai-s-2026-ai-index]]
 <!-- graph:end -->

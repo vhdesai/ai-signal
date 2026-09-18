@@ -1,13 +1,21 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 1905
+member_count: 1913
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 1905 connected article(s).
+> Auto-generated topic hub. 1913 connected article(s).
 
+- `2026-09-18` [[2026-09-18-anthropic-and-openai-start-shopping-for-20-30-mw-sites|Anthropic and OpenAI start shopping for 20–30 MW sites]]
+- `2026-09-17` [[2026-09-17-z-ai-says-a-glm-powered-agent-built-its-inference-stack-on-1|Z.ai says a GLM-powered agent built its inference stack on 100,000+ Chinese chips]]
+- `2026-09-17` [[2026-09-17-huawei-pulls-ascend-960dt-forward-three-quarters-to-q1-2027|Huawei pulls Ascend 960DT forward three quarters to Q1 2027]]
+- `2026-09-17` [[2026-09-17-huawei-forecasts-agents-will-drive-over-90-of-ai-traffic-by|Huawei forecasts agents will drive over 90% of AI traffic by 2035]]
+- `2026-09-17` [[2026-09-17-google-nvidia-and-anthropic-launch-ai-energy-management-alli|Google, Nvidia, and Anthropic launch AI Energy Management Alliance with Emerald AI]]
+- `2026-09-17` [[2026-09-17-crusoe-raises-3-9b-series-f-at-30-9b-valuation|Crusoe raises $3.9B Series F at $30.9B valuation]]
+- `2026-09-17` [[2026-09-17-anthropic-anchors-a-32-billion-queensland-campus-built-for-i|Anthropic anchors A$32 billion Queensland campus built for inference only]]
+- `2026-09-17` [[2026-09-17-amazon-commits-up-to-8b-to-generac-for-behind-the-meter-data|Amazon commits up to $8B to Generac for behind-the-meter data-center power via equity warrant]]
 - `2026-09-16` [[2026-09-16-sk-hynix-in-talks-with-intel-to-make-memory-chips-in-the-us|SK Hynix in talks with Intel to make memory chips in the US for the first time]]
 - `2026-09-16` [[2026-09-16-sk-hynix-in-early-talks-with-intel-to-make-memory-chips-in-t|SK Hynix in early talks with Intel to make memory chips in the US for the first time]]
 - `2026-09-16` [[2026-09-16-sk-hynix-in-early-talks-with-intel-to-build-memory-chips-in|SK Hynix in early talks with Intel to build memory chips in the US]]

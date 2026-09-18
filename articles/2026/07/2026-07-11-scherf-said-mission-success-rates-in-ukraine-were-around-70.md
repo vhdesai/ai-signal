@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-08-24-ukraine-says-a-fully-autonomous-russian-ai-drone-killed-thre
 - 2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report
 - 2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai
-- 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
+- 2026-09-17-pew-ai-job-loss-expectations-outweigh-job-creation-in-34-of
 embedding_id: 2026-07-11-scherf-said-mission-success-rates-in-ukraine-were-around-70
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Scherf said mission success rates in Ukraine were around 70 percent. The A.I. so
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute]] · [[2026-08-24-ukraine-says-a-fully-autonomous-russian-ai-drone-killed-thre]] · [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]] · [[2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]]
+**Related:** [[2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute]] · [[2026-08-24-ukraine-says-a-fully-autonomous-russian-ai-drone-killed-thre]] · [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]] · [[2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai]] · [[2026-09-17-pew-ai-job-loss-expectations-outweigh-job-creation-in-34-of]]
 <!-- graph:end -->

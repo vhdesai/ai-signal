@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-04-apple-approves-first-ai-agent-on-messages-for-business-platf
 - 2026-07-24-cognition-buys-poke-as-ai-personality-becomes-a-competitive
+- 2026-09-18-meta-muse-launches-for-iphone-and-mac-muse-and-rival-instinc
 - 2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting
-- 2026-08-08-pokee-ai-releases-isaac-28b-a-10m-token-agentic-model-for-cu
 embedding_id: 2026-06-04-apple-approves-first-ai-agent-on-messages-for-business
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Apple approved Poke as the first AI agent on Messages for Business, enabling con
 
 **Entities:** [[Apple]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-04-apple-approves-first-ai-agent-on-messages-for-business-platf]] · [[2026-07-24-cognition-buys-poke-as-ai-personality-becomes-a-competitive]] · [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]] · [[2026-08-08-pokee-ai-releases-isaac-28b-a-10m-token-agentic-model-for-cu]]
+**Related:** [[2026-06-04-apple-approves-first-ai-agent-on-messages-for-business-platf]] · [[2026-07-24-cognition-buys-poke-as-ai-personality-becomes-a-competitive]] · [[2026-09-18-meta-muse-launches-for-iphone-and-mac-muse-and-rival-instinc]] · [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]]
 <!-- graph:end -->

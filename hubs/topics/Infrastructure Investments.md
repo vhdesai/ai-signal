@@ -1,13 +1,20 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1576
+member_count: 1583
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1576 connected article(s).
+> Auto-generated topic hub. 1583 connected article(s).
 
+- `2026-09-18` [[2026-09-18-nvidia-ceo-forecasts-chip-sales-will-double-in-2027|Nvidia CEO forecasts chip sales will double in 2027]]
+- `2026-09-18` [[2026-09-18-anthropic-and-openai-start-shopping-for-20-30-mw-sites|Anthropic and OpenAI start shopping for 20–30 MW sites]]
+- `2026-09-17` [[2026-09-17-pew-ai-job-loss-expectations-outweigh-job-creation-in-34-of|Pew: AI job-loss expectations outweigh job creation in 34 of 37 countries]]
+- `2026-09-17` [[2026-09-17-google-nvidia-and-anthropic-launch-ai-energy-management-alli|Google, Nvidia, and Anthropic launch AI Energy Management Alliance with Emerald AI]]
+- `2026-09-17` [[2026-09-17-crusoe-raises-3-9b-series-f-at-30-9b-valuation|Crusoe raises $3.9B Series F at $30.9B valuation]]
+- `2026-09-17` [[2026-09-17-anthropic-anchors-a-32-billion-queensland-campus-built-for-i|Anthropic anchors A$32 billion Queensland campus built for inference only]]
+- `2026-09-17` [[2026-09-17-amazon-commits-up-to-8b-to-generac-for-behind-the-meter-data|Amazon commits up to $8B to Generac for behind-the-meter data-center power via equity warrant]]
 - `2026-09-16` [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety|WSJ: an AI slowdown "has to happen regardless of safety"]]
 - `2026-09-16` [[2026-09-16-sk-hynix-in-talks-with-intel-to-make-memory-chips-in-the-us|SK Hynix in talks with Intel to make memory chips in the US for the first time]]
 - `2026-09-16` [[2026-09-16-sk-hynix-in-early-talks-with-intel-to-make-memory-chips-in-t|SK Hynix in early talks with Intel to make memory chips in the US for the first time]]

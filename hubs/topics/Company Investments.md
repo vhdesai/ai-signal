@@ -1,13 +1,16 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1119
+member_count: 1122
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1119 connected article(s).
+> Auto-generated topic hub. 1122 connected article(s).
 
+- `2026-09-17` [[2026-09-17-prismml-raises-22-25m-seed-for-a-deliberately-small-language|PrismML raises $22.25M seed for a deliberately small language model]]
+- `2026-09-17` [[2026-09-17-crusoe-raises-3-9b-series-f-at-30-9b-valuation|Crusoe raises $3.9B Series F at $30.9B valuation]]
+- `2026-09-17` [[2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in|Anthropic: Claude is taking an "extraordinarily active" role in building its own successor]]
 - `2026-09-16` [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill|OpenAI in early talks for a new funding round at a ~$1.2 trillion valuation]]
 - `2026-09-16` [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat|OpenAI in early talks for a new funding round at $1.2T valuation]]
 - `2026-09-16` [[2026-09-16-databricks-commits-350m-to-singapore-as-its-apac-ai-hub|Databricks commits $350M+ to Singapore as its APAC AI hub]]

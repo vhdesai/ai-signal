@@ -27,8 +27,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin
 - 2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace
+- 2026-09-18-protesters-gather-outside-openai-and-anthropic-san-francisco
 - 2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de
-- 2026-07-11-200-protesters-march-on-openai-anthropic-and-google-deepmind
 embedding_id: 2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools
 event_name: ''
 ---
@@ -42,5 +42,5 @@ More than 1,100 employees across OpenAI, Anthropic, Google DeepMind, and Meta si
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de]] · [[2026-07-11-200-protesters-march-on-openai-anthropic-and-google-deepmind]]
+**Related:** [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-09-18-protesters-gather-outside-openai-and-anthropic-san-francisco]] · [[2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de]]
 <!-- graph:end -->

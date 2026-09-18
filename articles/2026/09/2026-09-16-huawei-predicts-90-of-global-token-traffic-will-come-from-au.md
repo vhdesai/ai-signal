@@ -23,6 +23,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-17-huawei-forecasts-agents-will-drive-over-90-of-ai-traffic-by
 - 2026-04-23-huawei-commits-11-7b-to-autonomous-driving-ai-compute-build
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
 - 2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i
@@ -39,5 +40,5 @@ Huawei's new "Intelligent World 2035" report forecasts autonomous AI agents will
 
 **Entities:** [[Huawei]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-04-23-huawei-commits-11-7b-to-autonomous-driving-ai-compute-build]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i]]
+**Related:** [[2026-09-17-huawei-forecasts-agents-will-drive-over-90-of-ai-traffic-by]] · [[2026-04-23-huawei-commits-11-7b-to-autonomous-driving-ai-compute-build]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i]]
 <!-- graph:end -->

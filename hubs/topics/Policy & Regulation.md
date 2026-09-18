@@ -1,13 +1,25 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 1782
+member_count: 1794
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 1782 connected article(s).
+> Auto-generated topic hub. 1794 connected article(s).
 
+- `2026-09-18` [[2026-09-18-protesters-gather-outside-openai-and-anthropic-san-francisco|Protesters gather outside OpenAI and Anthropic San Francisco offices over frontier AI pace]]
+- `2026-09-18` [[2026-09-18-microsoft-patches-cvss-10-0-azure-ai-foundry-flaw-enabling-u|Microsoft patches CVSS 10.0 Azure AI Foundry flaw enabling unauthorized privilege escalation]]
+- `2026-09-17` [[2026-09-17-unsealed-filings-show-microsoft-and-openai-executives-privat|Unsealed filings show Microsoft and OpenAI executives privately called AI scraping "theft"]]
+- `2026-09-17` [[2026-09-17-the-information-same-flaw-found-across-claude-code-codex-gem|The Information: same flaw found across Claude Code, Codex, Gemini CLI, and GitHub Copilot]]
+- `2026-09-17` [[2026-09-17-senate-blocks-data-center-ratepayer-bill-a-day-after-417-3-h|Senate blocks data-center ratepayer bill a day after 417–3 House vote]]
+- `2026-09-17` [[2026-09-17-researchers-used-anthropic-s-claude-opus-5-to-breach-openai|Researchers used Anthropic's Claude Opus 5 to breach OpenAI's internal environment, exfiltrate source code, and collect a $6,500 bounty]]
+- `2026-09-17` [[2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six|OpenAI publishes misalignment disclosure framework with six live incident reports]]
+- `2026-09-17` [[2026-09-17-meta-oversight-board-calls-meta-s-ai-deepfake-rules-fundamen|Meta Oversight Board calls Meta's AI-deepfake rules "fundamentally inadequate"]]
+- `2026-09-17` [[2026-09-17-huawei-s-eric-xu-tells-chinese-labs-to-speed-up-not-slow-dow|Huawei's Eric Xu tells Chinese labs to speed up, not slow down]]
+- `2026-09-17` [[2026-09-17-house-votes-417-3-to-make-data-centers-pay-their-own-grid-up|House votes 417–3 to make data centers pay their own grid-upgrade costs — Senate then blocks]]
+- `2026-09-17` [[2026-09-17-google-deepmind-launches-the-deepmind-institute-proposes-us|Google DeepMind launches the DeepMind Institute, proposes US-led frontier AI standards body]]
+- `2026-09-17` [[2026-09-17-anthropic-publishes-three-internal-safety-metrics-including|Anthropic publishes three internal safety metrics, including AI-led R&D and compute allocation]]
 - `2026-09-16` [[2026-09-16-zuckerberg-breaks-silence-ai-safety-is-a-competitive-necessi|Zuckerberg breaks silence: AI safety is a competitive necessity, not a group slowdown]]
 - `2026-09-16` [[2026-09-16-two-more-google-deepmind-safety-researchers-resign|Two more Google DeepMind safety researchers resign]]
 - `2026-09-16` [[2026-09-16-two-more-google-deepmind-researchers-resign-over-ai-safety|Two more Google DeepMind researchers resign over AI safety]]

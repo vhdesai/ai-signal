@@ -1,13 +1,21 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 867
+member_count: 875
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 867 connected article(s).
+> Auto-generated entity hub. 875 connected article(s).
 
+- `2026-09-18` [[2026-09-18-xai-ships-three-grokbot-enterprise-products-grok-bot-adds-vo|xAI ships three GrokBot enterprise products; Grok Bot adds voice mode]]
+- `2026-09-18` [[2026-09-18-microsoft-patches-cvss-10-0-azure-ai-foundry-flaw-enabling-u|Microsoft patches CVSS 10.0 Azure AI Foundry flaw enabling unauthorized privilege escalation]]
+- `2026-09-18` [[2026-09-18-aws-ships-sagemaker-hyperpod-inference-gateway-with-gpu-awar|AWS ships SageMaker HyperPod Inference Gateway with GPU-aware routing]]
+- `2026-09-17` [[2026-09-17-unsealed-filings-show-microsoft-and-openai-executives-privat|Unsealed filings show Microsoft and OpenAI executives privately called AI scraping "theft"]]
+- `2026-09-17` [[2026-09-17-researchers-used-anthropic-s-claude-opus-5-to-breach-openai|Researchers used Anthropic's Claude Opus 5 to breach OpenAI's internal environment, exfiltrate source code, and collect a $6,500 bounty]]
+- `2026-09-17` [[2026-09-17-microsoft-publishes-frontier-playbook-proprietary-process-da|Microsoft publishes Frontier Playbook: proprietary process data, not models, is the durable enterprise moat]]
+- `2026-09-17` [[2026-09-17-microsoft-open-sources-taugrid-a-kubernetes-native-stack-for|Microsoft open-sources TauGrid, a Kubernetes-native stack for GPU AI workloads]]
+- `2026-09-17` [[2026-09-17-crusoe-raises-3-9b-series-f-at-30-9b-valuation|Crusoe raises $3.9B Series F at $30.9B valuation]]
 - `2026-09-16` [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety|WSJ: an AI slowdown "has to happen regardless of safety"]]
 - `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-plus-nvidia-built-koa-crm-reasoning|Salesforce ships AIforce plus Nvidia-built "Koa" CRM reasoning model at Dreamforce]]
 - `2026-09-16` [[2026-09-16-microsoft-s-suleyman-publicly-attacks-anthropic-s-ai-conscio|Microsoft's Suleyman publicly attacks Anthropic's AI-consciousness framing]]

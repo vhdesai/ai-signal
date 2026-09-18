@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 - 2026-05-08-anthropic-rolled-out-claude-security-in-may-2026-a-new-capab
-- 2026-08-09-anthropic-makes-claude-code-s-auto-mode-the-default
+- 2026-09-17-anthropic-launches-claude-code-projects-in-beta-for-persiste
 embedding_id: 2026-05-09-anthropic-held-its-code-w-claude-2026-event-with-technologis
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic held its "Code w/ Claude 2026" event, with technologist Simon Willison
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]] · [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-08-anthropic-rolled-out-claude-security-in-may-2026-a-new-capab]] · [[2026-08-09-anthropic-makes-claude-code-s-auto-mode-the-default]]
+**Related:** [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]] · [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-08-anthropic-rolled-out-claude-security-in-may-2026-a-new-capab]] · [[2026-09-17-anthropic-launches-claude-code-projects-in-beta-for-persiste]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-26-z-ai-ships-glm-5-3-flash-320b-moe-1m-context-claimed-chinese
 - 2026-08-27-analysis-argues-glm-5-3-flash-can-absorb-45-of-enterprise-ai
-- 2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two
+- 2026-09-17-z-ai-says-a-glm-powered-agent-built-its-inference-stack-on-1
 embedding_id: 2026-08-28-glm-5-3-flash-and-qwen3-8-flash-next-converge-on-similar-eff
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MarkTechPost compared Z.ai's GLM-5.3-Flash and Alibaba Qwen's Qwen3.8-Flash-Next
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-26-z-ai-ships-glm-5-3-flash-320b-moe-1m-context-claimed-chinese]] · [[2026-08-27-analysis-argues-glm-5-3-flash-can-absorb-45-of-enterprise-ai]] · [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two]]
+**Related:** [[2026-08-26-z-ai-ships-glm-5-3-flash-320b-moe-1m-context-claimed-chinese]] · [[2026-08-27-analysis-argues-glm-5-3-flash-can-absorb-45-of-enterprise-ai]] · [[2026-09-17-z-ai-says-a-glm-powered-agent-built-its-inference-stack-on-1]]
 <!-- graph:end -->

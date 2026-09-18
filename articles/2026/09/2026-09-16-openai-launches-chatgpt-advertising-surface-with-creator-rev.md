@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-17-openai-opens-chatgpt-to-sponsored-agents-wiring-ads-into-hub
 - 2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt
 - 2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf
 - 2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt
 - 2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing
-- 2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india
 embedding_id: 2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI announced its formal advertising launch, "Reimagining advertising with AI
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]] · [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing]] · [[2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india]]
+**Related:** [[2026-09-17-openai-opens-chatgpt-to-sponsored-agents-wiring-ads-into-hub]] · [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]] · [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing]]
 <!-- graph:end -->

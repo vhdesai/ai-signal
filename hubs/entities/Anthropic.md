@@ -1,13 +1,29 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 1978
+member_count: 1994
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 1978 connected article(s).
+> Auto-generated entity hub. 1994 connected article(s).
 
+- `2026-09-18` [[2026-09-18-reuters-exclusive-anthropic-quietly-sets-up-a-physical-biolo|Reuters exclusive: Anthropic quietly sets up a physical biology lab as it ramps AI drug program]]
+- `2026-09-18` [[2026-09-18-protesters-gather-outside-openai-and-anthropic-san-francisco|Protesters gather outside OpenAI and Anthropic San Francisco offices over frontier AI pace]]
+- `2026-09-18` [[2026-09-18-nvidia-ceo-forecasts-chip-sales-will-double-in-2027|Nvidia CEO forecasts chip sales will double in 2027]]
+- `2026-09-18` [[2026-09-18-meta-muse-launches-for-iphone-and-mac-muse-and-rival-instinc|Meta Muse launches for iPhone and Mac; Muse and rival Instinct both add calling]]
+- `2026-09-18` [[2026-09-18-google-home-mcp-server-opens-third-party-agent-access-claude|Google Home MCP server opens third-party agent access — Claude, Antigravity, and OpenClaw are launch clients]]
+- `2026-09-18` [[2026-09-18-anthropic-quietly-stands-up-a-physical-biology-lab|Anthropic quietly stands up a physical biology lab]]
+- `2026-09-18` [[2026-09-18-anthropic-and-openai-start-shopping-for-20-30-mw-sites|Anthropic and OpenAI start shopping for 20–30 MW sites]]
+- `2026-09-17` [[2026-09-17-researchers-used-anthropic-s-claude-opus-5-to-breach-openai|Researchers used Anthropic's Claude Opus 5 to breach OpenAI's internal environment, exfiltrate source code, and collect a $6,500 bounty]]
+- `2026-09-17` [[2026-09-17-pew-ai-job-loss-expectations-outweigh-job-creation-in-34-of|Pew: AI job-loss expectations outweigh job creation in 34 of 37 countries]]
+- `2026-09-17` [[2026-09-17-google-nvidia-and-anthropic-launch-ai-energy-management-alli|Google, Nvidia, and Anthropic launch AI Energy Management Alliance with Emerald AI]]
+- `2026-09-17` [[2026-09-17-google-deepmind-launches-the-deepmind-institute-proposes-us|Google DeepMind launches the DeepMind Institute, proposes US-led frontier AI standards body]]
+- `2026-09-17` [[2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde|Anthropic: Claude now "leads" 26% of its own AI R&D, up from under 1% in February]]
+- `2026-09-17` [[2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in|Anthropic: Claude is taking an "extraordinarily active" role in building its own successor]]
+- `2026-09-17` [[2026-09-17-anthropic-publishes-three-internal-safety-metrics-including|Anthropic publishes three internal safety metrics, including AI-led R&D and compute allocation]]
+- `2026-09-17` [[2026-09-17-anthropic-launches-claude-code-projects-in-beta-for-persiste|Anthropic launches Claude Code Projects in beta for persistent cloud coding sessions]]
+- `2026-09-17` [[2026-09-17-anthropic-anchors-a-32-billion-queensland-campus-built-for-i|Anthropic anchors A$32 billion Queensland campus built for inference only]]
 - `2026-09-16` [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety|WSJ: an AI slowdown "has to happen regardless of safety"]]
 - `2026-09-16` [[2026-09-16-two-more-google-deepmind-safety-researchers-resign|Two more Google DeepMind safety researchers resign]]
 - `2026-09-16` [[2026-09-16-two-more-google-deepmind-researchers-resign-over-ai-safety|Two more Google DeepMind researchers resign over AI safety]]

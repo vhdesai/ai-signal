@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde
 - 2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption
+- 2026-09-17-anthropic-publishes-three-internal-safety-metrics-including
 - 2026-08-12-anthropic-worker-retraining-programs-may-not-scale-to-ai-dis
-- 2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s
 embedding_id: 2026-06-26-anthropic-economic-index-about-half-of-claude-users-say-ai-a
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Anthropic's sixth Economic Index ("Cadences") pairs hourly usage telemetry and a
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-08-12-anthropic-worker-retraining-programs-may-not-scale-to-ai-dis]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]]
+**Related:** [[2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde]] · [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-09-17-anthropic-publishes-three-internal-safety-metrics-including]] · [[2026-08-12-anthropic-worker-retraining-programs-may-not-scale-to-ai-dis]]
 <!-- graph:end -->

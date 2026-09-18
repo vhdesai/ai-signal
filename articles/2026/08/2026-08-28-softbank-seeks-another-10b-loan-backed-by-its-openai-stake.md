@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak
 - 2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta
-- 2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new
+- 2026-09-18-softbank-adds-21b-in-new-borrowing-capacity-to-fund-ai-bets
 embedding_id: 2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake
 event_name: ''
 ---
@@ -36,5 +36,5 @@ SoftBank is seeking a further ~$10B margin loan tied to its OpenAI stake, only w
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak]] · [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta]] · [[2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new]]
+**Related:** [[2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak]] · [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta]] · [[2026-09-18-softbank-adds-21b-in-new-borrowing-capacity-to-fund-ai-bets]]
 <!-- graph:end -->

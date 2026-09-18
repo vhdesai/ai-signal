@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 575
+member_count: 578
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 575 connected article(s).
+> Auto-generated entity hub. 578 connected article(s).
 
+- `2026-09-18` [[2026-09-18-aws-ships-sagemaker-hyperpod-inference-gateway-with-gpu-awar|AWS ships SageMaker HyperPod Inference Gateway with GPU-aware routing]]
+- `2026-09-17` [[2026-09-17-pew-ai-job-loss-expectations-outweigh-job-creation-in-34-of|Pew: AI job-loss expectations outweigh job creation in 34 of 37 countries]]
+- `2026-09-17` [[2026-09-17-amazon-commits-up-to-8b-to-generac-for-behind-the-meter-data|Amazon commits up to $8B to Generac for behind-the-meter data-center power via equity warrant]]
 - `2026-09-16` [[2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev|OpenAI launches ChatGPT advertising surface with creator revenue-share]]
 - `2026-09-16` [[2026-09-16-amazon-launches-alexa-in-india-with-hindi-support-and-hindi|Amazon launches Alexa+ in India with Hindi support and Hindi–English code-switching]]
 - `2026-09-16` [[2026-09-16-amazon-launches-alexa-in-india-with-hindi-support|Amazon launches Alexa+ in India with Hindi support]]

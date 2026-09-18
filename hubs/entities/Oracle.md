@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 217
+member_count: 220
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 217 connected article(s).
+> Auto-generated entity hub. 220 connected article(s).
 
+- `2026-09-17` [[2026-09-17-pew-ai-job-loss-expectations-outweigh-job-creation-in-34-of|Pew: AI job-loss expectations outweigh job creation in 34 of 37 countries]]
+- `2026-09-17` [[2026-09-17-crusoe-raises-3-9b-series-f-at-30-9b-valuation|Crusoe raises $3.9B Series F at $30.9B valuation]]
+- `2026-09-17` [[2026-09-17-amazon-commits-up-to-8b-to-generac-for-behind-the-meter-data|Amazon commits up to $8B to Generac for behind-the-meter data-center power via equity warrant]]
 - `2026-09-16` [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill|OpenAI in early talks for a new funding round at a ~$1.2 trillion valuation]]
 - `2026-09-15` [[2026-09-15-bytedance-s-first-half-profit-drops-to-20-billion-weighed-do|ByteDance's First-Half Profit Drops to $20 Billion, Weighed Down by AI Spending]]
 - `2026-09-14` [[2026-09-14-oracle-health-expands-clinical-ai-agent-to-nurses|Oracle Health Expands Clinical AI Agent to Nurses]]

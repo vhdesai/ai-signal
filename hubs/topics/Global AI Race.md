@@ -1,13 +1,20 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1315
+member_count: 1322
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1315 connected article(s).
+> Auto-generated topic hub. 1322 connected article(s).
 
+- `2026-09-18` [[2026-09-18-alibaba-qwen-releases-qwen3-8-omni-flash-a-1m-context-omni-m|Alibaba Qwen releases Qwen3.8-Omni-Flash, a 1M-context omni-modal model for agentic audio-video tool use]]
+- `2026-09-17` [[2026-09-17-z-ai-says-a-glm-powered-agent-built-its-inference-stack-on-1|Z.ai says a GLM-powered agent built its inference stack on 100,000+ Chinese chips]]
+- `2026-09-17` [[2026-09-17-prismml-raises-22-25m-seed-for-a-deliberately-small-language|PrismML raises $22.25M seed for a deliberately small language model]]
+- `2026-09-17` [[2026-09-17-huawei-s-eric-xu-tells-chinese-labs-to-speed-up-not-slow-dow|Huawei's Eric Xu tells Chinese labs to speed up, not slow down]]
+- `2026-09-17` [[2026-09-17-huawei-pulls-ascend-960dt-forward-three-quarters-to-q1-2027|Huawei pulls Ascend 960DT forward three quarters to Q1 2027]]
+- `2026-09-17` [[2026-09-17-huawei-forecasts-agents-will-drive-over-90-of-ai-traffic-by|Huawei forecasts agents will drive over 90% of AI traffic by 2035]]
+- `2026-09-17` [[2026-09-17-huawei-details-full-ascend-roadmap-ascend-960dt-pulled-to-q1|Huawei details full Ascend roadmap; Ascend 960DT pulled to Q1 2027, Atlas 960 SuperPoD unveiled]]
 - `2026-09-16` [[2026-09-16-moonshot-draws-global-investors-from-europe-asia-and-middle|Moonshot draws global investors from Europe, Asia, and Middle East family offices]]
 - `2026-09-16` [[2026-09-16-huawei-predicts-90-of-global-token-traffic-will-come-from-au|Huawei predicts 90% of global token traffic will come from autonomous AI agents by 2035]]
 - `2026-09-16` [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h|Chinese hackers-for-hire professionalize, using AI to parse hundreds of millions of stolen records]]

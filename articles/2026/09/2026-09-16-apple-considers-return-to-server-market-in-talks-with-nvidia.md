@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-plus-n
+- 2026-09-17-apple-explores-return-to-server-market-with-m8-ultra-nvidia
 - 2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-nvidia
 - 2026-08-26-apple-debuts-pcs-and-chips-dedicated-to-enterprise-ai-worklo
 - 2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif
-- 2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex
 embedding_id: 2026-09-16-apple-considers-return-to-server-market-in-talks-with-nvidia
 event_name: ''
 ---
@@ -42,5 +42,5 @@ The Information reports Apple has been working on plans for an enterprise server
 
 **Entities:** [[Apple]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-plus-n]] · [[2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-nvidia]] · [[2026-08-26-apple-debuts-pcs-and-chips-dedicated-to-enterprise-ai-worklo]] · [[2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif]] · [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex]]
+**Related:** [[2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-plus-n]] · [[2026-09-17-apple-explores-return-to-server-market-with-m8-ultra-nvidia]] · [[2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-nvidia]] · [[2026-08-26-apple-debuts-pcs-and-chips-dedicated-to-enterprise-ai-worklo]] · [[2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif]]
 <!-- graph:end -->

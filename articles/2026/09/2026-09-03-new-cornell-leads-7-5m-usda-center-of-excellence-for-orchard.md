@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh
+- 2026-09-17-cornell-launches-ai-integration-pilots-with-2m-dake-family-g
 - 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
 - 2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio
 - 2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a
-- 2026-07-28-carnegie-mellon-brings-middle-schoolers-into-robotics-throug
 embedding_id: 2026-09-03-new-cornell-leads-7-5m-usda-center-of-excellence-for-orchard
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cornell received a four-year, $7.5 million USDA grant to establish a Center of E
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio]] · [[2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a]] · [[2026-07-28-carnegie-mellon-brings-middle-schoolers-into-robotics-throug]]
+**Related:** [[2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh]] · [[2026-09-17-cornell-launches-ai-integration-pilots-with-2m-dake-family-g]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio]] · [[2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a]]
 <!-- graph:end -->

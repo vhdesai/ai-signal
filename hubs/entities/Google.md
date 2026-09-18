@@ -1,13 +1,21 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1360
+member_count: 1368
 ---
 
 # Google
 
-> Auto-generated entity hub. 1360 connected article(s).
+> Auto-generated entity hub. 1368 connected article(s).
 
+- `2026-09-18` [[2026-09-18-xai-ships-three-grokbot-enterprise-products-grok-bot-adds-vo|xAI ships three GrokBot enterprise products; Grok Bot adds voice mode]]
+- `2026-09-18` [[2026-09-18-notebooks-in-gemini-reaches-google-workspace-and-education-t|Notebooks in Gemini reaches Google Workspace and Education tenants]]
+- `2026-09-18` [[2026-09-18-google-home-mcp-server-opens-third-party-agent-access-claude|Google Home MCP server opens third-party agent access — Claude, Antigravity, and OpenClaw are launch clients]]
+- `2026-09-18` [[2026-09-18-alibaba-qwen-releases-qwen3-8-omni-flash-a-1m-context-omni-m|Alibaba Qwen releases Qwen3.8-Omni-Flash, a 1M-context omni-modal model for agentic audio-video tool use]]
+- `2026-09-17` [[2026-09-17-google-nvidia-and-anthropic-launch-ai-energy-management-alli|Google, Nvidia, and Anthropic launch AI Energy Management Alliance with Emerald AI]]
+- `2026-09-17` [[2026-09-17-google-research-generative-ui-lets-teachers-build-custom-int|Google Research: generative UI lets teachers build custom interactive simulations]]
+- `2026-09-17` [[2026-09-17-google-deepmind-launches-the-deepmind-institute-proposes-us|Google DeepMind launches the DeepMind Institute, proposes US-led frontier AI standards body]]
+- `2026-09-17` [[2026-09-17-crux-ai-lines-up-22b-in-tpu-collateralized-bank-financing-la|Crux AI lines up ~$22B in TPU-collateralized bank financing — largest AI-silicon debt package yet]]
 - `2026-09-16` [[2026-09-16-two-more-google-deepmind-safety-researchers-resign|Two more Google DeepMind safety researchers resign]]
 - `2026-09-16` [[2026-09-16-two-more-google-deepmind-researchers-resign-over-ai-safety|Two more Google DeepMind researchers resign over AI safety]]
 - `2026-09-16` [[2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev|OpenAI launches ChatGPT advertising surface with creator revenue-share]]

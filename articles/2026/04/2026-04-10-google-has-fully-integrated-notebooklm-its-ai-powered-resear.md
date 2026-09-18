@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-19-google-launches-ai-study-tools-across-search-and-gemini-for
 - 2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic
 - 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
+- 2026-09-18-notebooks-in-gemini-reaches-google-workspace-and-education-t
 - 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
-- 2026-05-13-google-unveils-googlebook-ai-first-laptop-category-powered-b
 embedding_id: 2026-04-10-google-has-fully-integrated-notebooklm-its-ai-powered-resear
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google has fully integrated NotebookLM, its AI-powered research assistant, into 
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-19-google-launches-ai-study-tools-across-search-and-gemini-for]] · [[2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic]] · [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-13-google-unveils-googlebook-ai-first-laptop-category-powered-b]]
+**Related:** [[2026-08-19-google-launches-ai-study-tools-across-search-and-gemini-for]] · [[2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic]] · [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]] · [[2026-09-18-notebooks-in-gemini-reaches-google-workspace-and-education-t]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]]
 <!-- graph:end -->

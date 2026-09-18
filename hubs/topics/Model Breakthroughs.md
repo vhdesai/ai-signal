@@ -1,13 +1,25 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 2958
+member_count: 2970
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 2958 connected article(s).
+> Auto-generated topic hub. 2970 connected article(s).
 
+- `2026-09-18` [[2026-09-18-anthropic-quietly-stands-up-a-physical-biology-lab|Anthropic quietly stands up a physical biology lab]]
+- `2026-09-18` [[2026-09-18-alibaba-qwen-releases-qwen3-8-omni-flash-a-1m-context-omni-m|Alibaba Qwen releases Qwen3.8-Omni-Flash, a 1M-context omni-modal model for agentic audio-video tool use]]
+- `2026-09-17` [[2026-09-17-stanford-s-paper2agent-turns-published-papers-into-validated|Stanford's Paper2Agent turns published papers into validated MCP servers]]
+- `2026-09-17` [[2026-09-17-prismml-raises-22-25m-seed-for-a-deliberately-small-language|PrismML raises $22.25M seed for a deliberately small language model]]
+- `2026-09-17` [[2026-09-17-pew-ai-job-loss-expectations-outweigh-job-creation-in-34-of|Pew: AI job-loss expectations outweigh job creation in 34 of 37 countries]]
+- `2026-09-17` [[2026-09-17-openai-ships-astra-for-law-a-gpt-6-configuration-for-legal-w|OpenAI ships Astra for Law, a GPT-6 configuration for legal work]]
+- `2026-09-17` [[2026-09-17-openai-ships-astra-for-law-a-gpt-6-astra-configuration-for-l|OpenAI ships Astra for Law, a GPT-6 Astra configuration for legal work]]
+- `2026-09-17` [[2026-09-17-mit-ad-hoc-committee-on-ai-in-teaching-learning-and-research|MIT Ad Hoc Committee on AI in Teaching, Learning, and Research Training delivers final report]]
+- `2026-09-17` [[2026-09-17-insilico-medicine-releases-open-longevity-ai-toolkit-and-lon|Insilico Medicine releases open longevity-AI toolkit and LongevityBench in Cell]]
+- `2026-09-17` [[2026-09-17-google-research-generative-ui-lets-teachers-build-custom-int|Google Research: generative UI lets teachers build custom interactive simulations]]
+- `2026-09-17` [[2026-09-17-cornell-launches-ai-integration-pilots-with-2m-dake-family-g|Cornell launches AI Integration Pilots with $2M Dake family gift]]
+- `2026-09-17` [[2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde|Anthropic: Claude now "leads" 26% of its own AI R&D, up from under 1% in February]]
 - `2026-09-16` [[2026-09-16-survey-nearly-one-in-five-leading-ai-researchers-already-put|Survey: nearly one in five leading AI researchers already put extinction-scenario probability above zero in 2024]]
 - `2026-09-15` [[2026-09-15-typesafe-ai-exits-stealth-with-system-one-typed-output-model|TypeSafe AI exits stealth with "System One" typed-output model, Jev]]
 - `2026-09-15` [[2026-09-15-salesforce-and-nvidia-unveil-koa-an-open-weight-nemotron-bas|Salesforce and NVIDIA Unveil Koa — an Open-Weight Nemotron-Based Enterprise Reasoning Model]]

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-11-fidji-simo-joins-nscale-s-board-ahead-of-a-potential-us-list
 - 2026-09-11-former-openai-executive-fidji-simo-joins-nscale-s-board
 - 2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos
-- 2026-06-02-center-for-ai-safety-expands-creates-national-security-focus
+- 2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas
 embedding_id: 2026-09-09-openai-appoints-paul-christiano-to-foundation-board-and-safe
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI named Paul Christiano — founder of the Alignment Research Center, an au
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-10-frontier-lab-researchers-escalate-calls-to-slow-development]] · [[2026-09-11-fidji-simo-joins-nscale-s-board-ahead-of-a-potential-us-list]] · [[2026-09-11-former-openai-executive-fidji-simo-joins-nscale-s-board]] · [[2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos]] · [[2026-06-02-center-for-ai-safety-expands-creates-national-security-focus]]
+**Related:** [[2026-09-10-frontier-lab-researchers-escalate-calls-to-slow-development]] · [[2026-09-11-fidji-simo-joins-nscale-s-board-ahead-of-a-potential-us-list]] · [[2026-09-11-former-openai-executive-fidji-simo-joins-nscale-s-board]] · [[2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos]] · [[2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas]]
 <!-- graph:end -->

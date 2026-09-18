@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt
+- 2026-09-17-openai-opens-chatgpt-to-sponsored-agents-wiring-ads-into-hub
 - 2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers
 - 2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack
 - 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
-- 2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis
 embedding_id: 2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI is rolling out visual browsing, product comparisons, and price summaries 
 
 **Entities:** [[Amazon]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]] · [[2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack]] · [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]] · [[2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis]]
+**Related:** [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-09-17-openai-opens-chatgpt-to-sponsored-agents-wiring-ads-into-hub]] · [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]] · [[2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack]] · [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]]
 <!-- graph:end -->

@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-08-25-claude-gets-unified-memory-across-chat-and-cowork-no-more-re
 - 2026-08-25-claude-cowork-finally-remembers-what-you-told-the-app-in-cha
 - 2026-08-12-anthropic-brings-claude-cowork-to-a-chrome-sidebar
+- 2026-09-17-anthropic-launches-claude-code-projects-in-beta-for-persiste
 - 2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen
 embedding_id: 2026-08-25-claude-gets-unified-memory-across-chat-and-cowork
 event_name: ''
@@ -39,5 +40,5 @@ Anthropic merged Claude’s memory between Chat and Cowork — ending the frustr
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-25-claude-gets-unified-memory-across-chat-and-cowork-no-more-re]] · [[2026-08-25-claude-cowork-finally-remembers-what-you-told-the-app-in-cha]] · [[2026-08-12-anthropic-brings-claude-cowork-to-a-chrome-sidebar]] · [[2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen]]
+**Related:** [[2026-08-25-claude-gets-unified-memory-across-chat-and-cowork-no-more-re]] · [[2026-08-25-claude-cowork-finally-remembers-what-you-told-the-app-in-cha]] · [[2026-08-12-anthropic-brings-claude-cowork-to-a-chrome-sidebar]] · [[2026-09-17-anthropic-launches-claude-code-projects-in-beta-for-persiste]] · [[2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen]]
 <!-- graph:end -->

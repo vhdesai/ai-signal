@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
 - 2026-07-24-anthropic-launches-claude-opus-5-a-cheaper-agent-focused-fla
 - 2026-07-11-claude-opus-4-7-is-now-generally-available
-- 2026-07-27-anthropic-launches-claude-opus-5-at-roughly-half-the-price-o
+- 2026-09-17-researchers-used-anthropic-s-claude-opus-5-to-breach-openai
 embedding_id: 2026-07-24-daily-ai-news-digest-july-25-2026
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Anthropic launched Claude Opus 5 — cheaper, agent-focused. 20+ companies inclu
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-07-24-anthropic-launches-claude-opus-5-a-cheaper-agent-focused-fla]] · [[2026-07-11-claude-opus-4-7-is-now-generally-available]] · [[2026-07-27-anthropic-launches-claude-opus-5-at-roughly-half-the-price-o]]
+**Related:** [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-07-24-anthropic-launches-claude-opus-5-a-cheaper-agent-focused-fla]] · [[2026-07-11-claude-opus-4-7-is-now-generally-available]] · [[2026-09-17-researchers-used-anthropic-s-claude-opus-5-to-breach-openai]]
 <!-- graph:end -->

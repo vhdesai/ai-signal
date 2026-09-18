@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-17-insilico-medicine-releases-open-longevity-ai-toolkit-and-lon
 - 2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against
 - 2026-07-02-takeda-and-insilico-medicine-sign-ai-drug-discovery-pact-wor
 - 2026-08-23-claude-autonomously-designed-protein-binders-effective-again
-- 2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in
 embedding_id: 2026-09-07-ai-designed-insilico-drug-shows-early-biological-age-reversa
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Insilico Medicine reported that rentosertib — an AI-discovered candidate devel
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against]] · [[2026-07-02-takeda-and-insilico-medicine-sign-ai-drug-discovery-pact-wor]] · [[2026-08-23-claude-autonomously-designed-protein-binders-effective-again]] · [[2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in]]
+**Related:** [[2026-09-17-insilico-medicine-releases-open-longevity-ai-toolkit-and-lon]] · [[2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against]] · [[2026-07-02-takeda-and-insilico-medicine-sign-ai-drug-discovery-pact-wor]] · [[2026-08-23-claude-autonomously-designed-protein-binders-effective-again]]
 <!-- graph:end -->

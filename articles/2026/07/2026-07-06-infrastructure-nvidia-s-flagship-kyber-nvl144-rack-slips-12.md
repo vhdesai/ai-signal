@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028
 - 2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl
 - 2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha
-- 2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through
+- 2026-09-17-huawei-details-full-ascend-roadmap-ascend-960dt-pulled-to-q1
 embedding_id: 2026-07-06-infrastructure-nvidia-s-flagship-kyber-nvl144-rack-slips-12
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Infrastructure Nvidia's flagship Kyber NVL144 rack slips ~12 months to 2028 July
 
 **Entities:** [[AMD]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028]] · [[2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through]]
+**Related:** [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028]] · [[2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[2026-09-17-huawei-details-full-ascend-roadmap-ascend-960dt-pulled-to-q1]]
 <!-- graph:end -->

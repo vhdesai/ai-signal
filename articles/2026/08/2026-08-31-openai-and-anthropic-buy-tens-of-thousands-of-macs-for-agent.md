@@ -27,9 +27,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-31-openai-buys-tens-of-thousands-of-mac-minis-and-mac-studios-t
 - 2026-08-31-openai-reportedly-buys-tens-of-thousands-of-mac-minis-and-ma
+- 2026-09-18-anthropic-and-openai-start-shopping-for-20-30-mw-sites
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
-- 2026-03-24-anthropic-claude-gets-computer-use-on-mac-desktop-automation
 embedding_id: 2026-08-31-openai-and-anthropic-buy-tens-of-thousands-of-macs-for-agent
 event_name: ''
 ---
@@ -43,5 +43,5 @@ OpenAI has acquired tens of thousands of Apple desktop systems for reinforcement
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[M&A Activity]]
-**Related:** [[2026-08-31-openai-buys-tens-of-thousands-of-mac-minis-and-mac-studios-t]] · [[2026-08-31-openai-reportedly-buys-tens-of-thousands-of-mac-minis-and-ma]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]] · [[2026-03-24-anthropic-claude-gets-computer-use-on-mac-desktop-automation]]
+**Related:** [[2026-08-31-openai-buys-tens-of-thousands-of-mac-minis-and-mac-studios-t]] · [[2026-08-31-openai-reportedly-buys-tens-of-thousands-of-mac-minis-and-ma]] · [[2026-09-18-anthropic-and-openai-start-shopping-for-20-30-mw-sites]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]]
 <!-- graph:end -->

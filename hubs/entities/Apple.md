@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 407
+member_count: 408
 ---
 
 # Apple
 
-> Auto-generated entity hub. 407 connected article(s).
+> Auto-generated entity hub. 408 connected article(s).
 
+- `2026-09-17` [[2026-09-17-apple-explores-return-to-server-market-with-m8-ultra-nvidia|Apple explores return to server market with M8 Ultra + Nvidia NVLink Fusion, targeting 2029]]
 - `2026-09-16` [[2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-plus-n|Apple exploring return to server market with M8 Ultra plus Nvidia NVLink Fusion, targeting 2029 sales]]
 - `2026-09-16` [[2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-nvidia|Apple exploring return to server market with M8 Ultra + Nvidia NVLink Fusion]]
 - `2026-09-16` [[2026-09-16-apple-considers-return-to-server-market-in-talks-with-nvidia|Apple considers return to server market, in talks with Nvidia to use networking tech]]

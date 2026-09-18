@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six
 - 2026-08-11-new-extraction-technique-surfaces-hidden-reasoning-traces-ac
 - 2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin
 - 2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi
 - 2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat
-- 2026-09-12-kaist-and-naver-ai-lab-written-reasoning-steps-map-to-separa
 embedding_id: 2026-06-26-from-a-team-including-interpretability-researcher-neel-nanda
 event_name: ''
 ---
@@ -37,5 +37,5 @@ From a team including interpretability researcher Neel Nanda, this preprint deve
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-11-new-extraction-technique-surfaces-hidden-reasoning-traces-ac]] · [[2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin]] · [[2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi]] · [[2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat]] · [[2026-09-12-kaist-and-naver-ai-lab-written-reasoning-steps-map-to-separa]]
+**Related:** [[2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six]] · [[2026-08-11-new-extraction-technique-surfaces-hidden-reasoning-traces-ac]] · [[2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin]] · [[2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi]] · [[2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat]]
 <!-- graph:end -->

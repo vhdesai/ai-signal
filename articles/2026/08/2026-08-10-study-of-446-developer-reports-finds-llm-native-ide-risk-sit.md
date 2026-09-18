@@ -6,7 +6,7 @@ date: '2026-08-10'
 source: '[Developer Tech News]'
 url_original: https://www.developer-tech.com/news/study-llm-native-ide-security-risks-in-system-controls/
 url_canonical: https://www.developer-tech.com/news/study-llm-native-ide-security-risks-in-system-controls/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-08-10_062245_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: 00032a02693b2aeb427a2adbd69574b13f5265a91072108f34efad064be45e37
@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-17-the-information-same-flaw-found-across-claude-code-codex-gem
 - 2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou
 - 2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues
 - 2026-04-01-github-has-announced-that-starting-april-24-copilot-interact
@@ -36,5 +37,5 @@ Researchers from York University and the University of Calgary analyzed 446 Redd
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]] · [[2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues]] · [[2026-04-01-github-has-announced-that-starting-april-24-copilot-interact]] · [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]]
+**Related:** [[2026-09-17-the-information-same-flaw-found-across-claude-code-codex-gem]] · [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]] · [[2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues]] · [[2026-04-01-github-has-announced-that-starting-april-24-copilot-interact]] · [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]]
 <!-- graph:end -->

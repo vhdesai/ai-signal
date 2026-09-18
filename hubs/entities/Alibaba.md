@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 337
+member_count: 339
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 337 connected article(s).
+> Auto-generated entity hub. 339 connected article(s).
 
+- `2026-09-18` [[2026-09-18-alibaba-qwen-releases-qwen3-8-omni-flash-a-1m-context-omni-m|Alibaba Qwen releases Qwen3.8-Omni-Flash, a 1M-context omni-modal model for agentic audio-video tool use]]
+- `2026-09-17` [[2026-09-17-prismml-raises-22-25m-seed-for-a-deliberately-small-language|PrismML raises $22.25M seed for a deliberately small language model]]
 - `2026-09-16` [[2026-09-16-china-s-people-s-daily-rejects-us-industrial-scale-distillat|China's *People's Daily* rejects US "industrial-scale distillation" charge, warns of countermeasures]]
 - `2026-09-15` [[2026-09-15-morgan-stanley-china-now-leads-us-in-consumer-ai-adoption-on|Morgan Stanley: China Now Leads US in Consumer AI Adoption on Weekly-Usage Rates]]
 - `2026-09-15` [[2026-09-15-chinese-tech-giants-are-now-rationing-employee-ai-token-budg|Chinese Tech Giants Are Now Rationing Employee AI Token Budgets After Promoting Heavy Use]]

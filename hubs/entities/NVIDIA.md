@@ -1,13 +1,21 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1448
+member_count: 1456
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1448 connected article(s).
+> Auto-generated entity hub. 1456 connected article(s).
 
+- `2026-09-18` [[2026-09-18-nvidia-ceo-forecasts-chip-sales-will-double-in-2027|Nvidia CEO forecasts chip sales will double in 2027]]
+- `2026-09-17` [[2026-09-17-z-ai-says-a-glm-powered-agent-built-its-inference-stack-on-1|Z.ai says a GLM-powered agent built its inference stack on 100,000+ Chinese chips]]
+- `2026-09-17` [[2026-09-17-huawei-pulls-ascend-960dt-forward-three-quarters-to-q1-2027|Huawei pulls Ascend 960DT forward three quarters to Q1 2027]]
+- `2026-09-17` [[2026-09-17-huawei-details-full-ascend-roadmap-ascend-960dt-pulled-to-q1|Huawei details full Ascend roadmap; Ascend 960DT pulled to Q1 2027, Atlas 960 SuperPoD unveiled]]
+- `2026-09-17` [[2026-09-17-google-nvidia-and-anthropic-launch-ai-energy-management-alli|Google, Nvidia, and Anthropic launch AI Energy Management Alliance with Emerald AI]]
+- `2026-09-17` [[2026-09-17-crux-ai-lines-up-22b-in-tpu-collateralized-bank-financing-la|Crux AI lines up ~$22B in TPU-collateralized bank financing — largest AI-silicon debt package yet]]
+- `2026-09-17` [[2026-09-17-crusoe-raises-3-9b-series-f-at-30-9b-valuation|Crusoe raises $3.9B Series F at $30.9B valuation]]
+- `2026-09-17` [[2026-09-17-apple-explores-return-to-server-market-with-m8-ultra-nvidia|Apple explores return to server market with M8 Ultra + Nvidia NVLink Fusion, targeting 2029]]
 - `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-plus-nvidia-built-koa-crm-reasoning|Salesforce ships AIforce plus Nvidia-built "Koa" CRM reasoning model at Dreamforce]]
 - `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-at-dreamforce-for-third-party-agent|Salesforce ships AIforce at Dreamforce for third-party agent governance]]
 - `2026-09-16` [[2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-plus-n|Apple exploring return to server market with M8 Ultra plus Nvidia NVLink Fusion, targeting 2029 sales]]

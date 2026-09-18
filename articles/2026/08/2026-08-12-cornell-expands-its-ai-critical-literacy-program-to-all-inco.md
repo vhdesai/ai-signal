@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-17-cornell-launches-ai-integration-pilots-with-2m-dake-family-g
 - 2026-08-28-cornell-what-happened-when-we-put-ai-to-work
 - 2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking
 - 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
 - 2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la
-- 2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse
 embedding_id: 2026-08-12-cornell-expands-its-ai-critical-literacy-program-to-all-inco
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Following a spring pilot, Cornell will offer its AI Critical Literacy Program in
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-28-cornell-what-happened-when-we-put-ai-to-work]] · [[2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking]] · [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]] · [[2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la]] · [[2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse]]
+**Related:** [[2026-09-17-cornell-launches-ai-integration-pilots-with-2m-dake-family-g]] · [[2026-08-28-cornell-what-happened-when-we-put-ai-to-work]] · [[2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking]] · [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]] · [[2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la]]
 <!-- graph:end -->

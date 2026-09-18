@@ -1,13 +1,29 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4276
+member_count: 4292
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4276 connected article(s).
+> Auto-generated topic hub. 4292 connected article(s).
 
+- `2026-09-18` [[2026-09-18-xai-ships-three-grokbot-enterprise-products-grok-bot-adds-vo|xAI ships three GrokBot enterprise products; Grok Bot adds voice mode]]
+- `2026-09-18` [[2026-09-18-softbank-adds-21b-in-new-borrowing-capacity-to-fund-ai-bets|SoftBank adds ~$21B in new borrowing capacity to fund AI bets]]
+- `2026-09-18` [[2026-09-18-reuters-exclusive-anthropic-quietly-sets-up-a-physical-biolo|Reuters exclusive: Anthropic quietly sets up a physical biology lab as it ramps AI drug program]]
+- `2026-09-18` [[2026-09-18-nvidia-ceo-forecasts-chip-sales-will-double-in-2027|Nvidia CEO forecasts chip sales will double in 2027]]
+- `2026-09-18` [[2026-09-18-notebooks-in-gemini-reaches-google-workspace-and-education-t|Notebooks in Gemini reaches Google Workspace and Education tenants]]
+- `2026-09-18` [[2026-09-18-meta-muse-launches-for-iphone-and-mac-muse-and-rival-instinc|Meta Muse launches for iPhone and Mac; Muse and rival Instinct both add calling]]
+- `2026-09-18` [[2026-09-18-google-home-mcp-server-opens-third-party-agent-access-claude|Google Home MCP server opens third-party agent access — Claude, Antigravity, and OpenClaw are launch clients]]
+- `2026-09-18` [[2026-09-18-aws-ships-sagemaker-hyperpod-inference-gateway-with-gpu-awar|AWS ships SageMaker HyperPod Inference Gateway with GPU-aware routing]]
+- `2026-09-17` [[2026-09-17-openai-opens-chatgpt-to-sponsored-agents-wiring-ads-into-hub|OpenAI opens ChatGPT to "Sponsored Agents," wiring ads into HubSpot and Shopify]]
+- `2026-09-17` [[2026-09-17-microsoft-publishes-frontier-playbook-proprietary-process-da|Microsoft publishes Frontier Playbook: proprietary process data, not models, is the durable enterprise moat]]
+- `2026-09-17` [[2026-09-17-microsoft-open-sources-taugrid-a-kubernetes-native-stack-for|Microsoft open-sources TauGrid, a Kubernetes-native stack for GPU AI workloads]]
+- `2026-09-17` [[2026-09-17-huawei-details-full-ascend-roadmap-ascend-960dt-pulled-to-q1|Huawei details full Ascend roadmap; Ascend 960DT pulled to Q1 2027, Atlas 960 SuperPoD unveiled]]
+- `2026-09-17` [[2026-09-17-crux-ai-lines-up-22b-in-tpu-collateralized-bank-financing-la|Crux AI lines up ~$22B in TPU-collateralized bank financing — largest AI-silicon debt package yet]]
+- `2026-09-17` [[2026-09-17-apple-explores-return-to-server-market-with-m8-ultra-nvidia|Apple explores return to server market with M8 Ultra + Nvidia NVLink Fusion, targeting 2029]]
+- `2026-09-17` [[2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in|Anthropic: Claude is taking an "extraordinarily active" role in building its own successor]]
+- `2026-09-17` [[2026-09-17-anthropic-launches-claude-code-projects-in-beta-for-persiste|Anthropic launches Claude Code Projects in beta for persistent cloud coding sessions]]
 - `2026-09-16` [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety|WSJ: an AI slowdown "has to happen regardless of safety"]]
 - `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-plus-nvidia-built-koa-crm-reasoning|Salesforce ships AIforce plus Nvidia-built "Koa" CRM reasoning model at Dreamforce]]
 - `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-at-dreamforce-for-third-party-agent|Salesforce ships AIforce at Dreamforce for third-party agent governance]]
